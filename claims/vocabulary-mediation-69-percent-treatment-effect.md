@@ -56,3 +56,4 @@ SEM mediation analysis of the longitudinal RCT cohort (N = 2,156; 1,176 treatmen
 - [Treatment teachers reported providing more incidental exposure to target vocabulary than control teachers (ES = .54)](treatment-teachers-more-incidental-exposure.md) — related
 - [Baseline reading and untaught Grade 2 vocabulary scores correlated moderately with near-, mid-, and far-transfer comprehension outcomes](baseline-reading-and-untaught-vocabulary-correlations-transfer.md) — related
 - [Teachers with high incidental exposure described expanded opportunities for word use and connecting words to topics](teacher-practices-expanded-word-use-themes.md) — related
+- [A sustained Grade 1-to-2 content literacy intervention improved science content reading comprehension (ES = .18) relative to control](more-sustained-content-literacy-science-comprehension-es18.md) — related

@@ -2,7 +2,7 @@
 
 Designs for a particular setting, course, population or product: what a design uses the general patterns for. A pattern is general across contexts; a design is not.
 
-**1045 entries** · 0 stable · 1045 in review · 0 drafts
+**1048 entries** · 0 stable · 1048 in review · 0 drafts
 
 ---
 
@@ -128,6 +128,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 
 #### C {: #letter-c }
 
+* [Cabuu vocabulary app log data and twice-daily diary protocol for measuring observable and subjective engagement](cabuu-log-diary-engagement-measurement-protocol.md) - The measurement setup combines commercial app log data with daily diaries: log timestamps of study and test activities are aggregated into a daily score of \"how many vocabulary items were studied or tested by each par...
 * [CALI unit structure: Connect, Clarify, Research, and Apply lessons cycling through disciplinary-specific practices over 3-week units.](cali-connect-clarify-research-apply-units.md) - Each CALI unit follows a four-phase lesson framework delivered over three weeks, four days per week.
 * [Calibrated hybrid feedback model for EAP writing instruction](calibrated-hybrid-feedback-model-eap.md) - The article proposes a hybrid model of feedback provision in which language instructors leverage generative AI to support formative assessment while maintaining pedagogical oversight.
 * [California universal prekindergarten mixed-delivery system and the 2022–23 UPK Planning and Implementation Grant Survey](california-upk-mixed-delivery-system-and-grant-survey.md) - California's UPK system is a mixed-delivery early learning arrangement comprising transitional kindergarten (TK), the California State Preschool Program (CSPP), Head Start, and locally funded early learning programs.
@@ -625,6 +626,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Moderate-disturbance classrooms merge consultation into the quiet room and add group-project space](moderate-disturbance-shared-quiet-consultation-room.md) - For moderately disturbed children the booklet relaxes the severe-disorder scheme: \"Classrooms for moderately disturbed children differ from those for severely disturbed children in the elimination of separate consulta...
 * [Modular decomposition of AWE into scoring, surface-level feedback, and deep-level feedback](modular-awe-decomposition-framework.md) - The article organizes automated writing evaluation as a modular architecture that divides AWE tasks into three modules: scoring, surface-level feedback, and deep-level feedback.
 * [Modularized PBL+AI framework for biomedical engineering education](modularized-pbl-ai-framework-biomedical.md) - A four-module instructional architecture that embeds generative AI inside problem-based learning for biomedical AI courses.
+* [MORE thematic lesson sequence interleaving vocabulary, read-alouds, wide reading, collaborative research, and structured word inquiry](more-thematic-lesson-sequence-pattern.md) - The MORE intervention organizes content literacy instruction as recurring thematic lesson sequences built on a pyramid structure in which a general schema unifies topics in a domain.
 * [Motivational scaffolding framework: six motivationally grounded goals for scaffold design in PBL](motivational-scaffolding-framework-six-goals.md) - The article's central framework holds that scaffolds in problem-based learning environments should be designed around six motivational goals.
 * [Multi-agent AI tutoring architecture with an orchestrating Tutor Agent and specialist agents](multi-agent-ai-math-tutor-architecture.md) - The article proposes a multi-agent architecture implemented on LangGraph in which a central Tutor Agent (GPT-4o) interprets student input and orchestrates other components via a ReAct-style framework.
 * [Multi-agent generate–validate–revise framework with four specialized validator agents for math problem personalization](multi-agent-generate-validate-revise-personalization-framework.md) - The framework formalizes context personalization of math problems as an iterative generate–validate–revise loop.
@@ -644,6 +646,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 
 #### N {: #letter-n }
 
+* [Near-, mid-, and far-transfer passage framework for measuring transfer in reading comprehension](near-mid-far-transfer-passage-framework.md) - The authors developed a sensitivity framework for assessing transfer on an end-of-Grade-2 science reading comprehension measure, building on the content and context dimensions of transfer.
 * [Need-supportive 4C/ID learning environment with 12 integrated autonomy, competence and relatedness implementations](need-supportive-4cid-learning-environment.md) - An adapted version of the baseline 4C/ID-based online learning environment for research skills in which \"need support consisted of 12 implementations (four implementations for each need), based on existing research on...
 * [Needs-sensing before design: surface state-specific structures, communication gaps, and coordination complexity to shape a collaborative](needs-sensing-informs-collaborative-design.md) - R15CC conducted needs-sensing during the Collaborative's development phase, and this work \"critically impacted the design of this FACE Collaborative.\" It surfaced diverse leadership structures, communication challenge...
 * [Negotiation of common ground as a dual concept combining linguistic and cognitive approaches](negotiation-common-ground-dual-concept.md) - The article combines the linguistic approach of Clark and Schaefer with the cognitivist approach of Bromme into one account of grounding.

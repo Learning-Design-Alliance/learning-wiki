@@ -13,7 +13,7 @@ generated:
 # Peer Collaboration
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 56 claims (20 for, 34 mixed, 2 against) · 51 studies (13 causal, 10 qualitative, 9 associational, 8 review, 6 theoretical, 5 quant-synthesis), `q1`–`q4` · 5 of 51 report an effect size · 54 claims rest on one study
+> **Evidence** · 57 claims (20 for, 35 mixed, 2 against) · 52 studies (14 causal, 10 qualitative, 9 associational, 8 review, 6 theoretical, 5 quant-synthesis), `q1`–`q4` · 5 of 52 report an effect size · 55 claims rest on one study
 
 ## Description
 Peer collaboration places two or more learners in joint work on a shared task, requiring them to explain, question, negotiate, and build on each other's thinking. It functions as a social engine for learning: the value comes not from proximity but from the elaboration, conflict, and mutual regulation that genuine joint work provokes.
@@ -106,6 +106,7 @@ Collaboration supports learning when it forces learners to articulate reasoning 
 - [Teacher-guided whole-class discussions show more contextualization, explanatory questions, and abstract concepts than student dyad discussions](../claims/whole-class-more-contextualization-than-dyads.md) [-W]
 - [Collaborative learning in immersive VR produced significantly higher use of cognitive resources than individual learning in a geography study](../claims/collaborative-vr-higher-cognitive-resources.md) [+W]
 - [Child-parent dyads generated more ideas and more original ideas than child-stranger dyads on the AUT, with no significant difference in appropriateness](../claims/child-parent-dyads-higher-fluency-originality-aut.md) [~W]
+- [Dyads of students who knew each other cheated more than dyads of strangers, and dyad power values predicted cheating among acquainted dyads](../claims/acquainted-dyads-cheat-more-than-strangers.md) [~W]
 
 ## The evidence by question
 

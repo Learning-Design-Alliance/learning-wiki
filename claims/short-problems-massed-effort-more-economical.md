@@ -52,3 +52,4 @@ Table I reports mean trials, time and errors for two groups of rats (nine per gr
 - [Relearning-to-criterion designs confound distribution of practice with amount of second-session practice](relearning-confound-distributed-practice-designs.md) — related
 - [Spaced Practice Improves Retention](spaced-practice-improves-retention.md) — related
 - [For rats, whole and part maze learning show no difference in trials, but the whole method saves time and errors](rats-whole-method-time-errors-advantage.md) — related
+- [Distributed practice aids digit memorization, but massed practice is preferred for new and short mazes, indicating a boundary condition on the spacing effect](distributed-vs-massed-practice-boundary-1921.md) — related

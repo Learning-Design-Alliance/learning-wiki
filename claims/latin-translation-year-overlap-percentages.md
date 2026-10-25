@@ -48,3 +48,4 @@ Same Test B dataset; the article notes "the overlapping from year to year is mar
 - [Some sentences show imperfect difficulty graduation, with inversions in per cent correct across years](latin-sentence-difficulty-graduation-inversions.md) — related
 - [Even the easiest Latin sentence test items were too difficult for first-year pupils, with only the first sentence translated correctly by most](latin-sentence-test-a-first-items-too-hard-first-year.md) — related
 - [Latin translation ability varies strikingly across schools, with first-year pupils in some schools outperforming third- and fourth-year pupils in others](latin-translation-school-variability-overlap.md) — related
+- [Even fourth-year Latin pupils fall considerably short of a perfect score on the easy 239-word standard vocabulary test](fourth-year-pupils-short-of-perfect-vocabulary-score.md) — related

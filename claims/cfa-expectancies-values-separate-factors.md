@@ -47,3 +47,4 @@ Confirmatory factor analysis of student survey data from the NIE-funded study, r
 ## Related Claims
 - [Children's ability self-concepts and subjective task values are domain-specific and differentiated from first grade, with gender differences in math fading over time](cab-domain-specific-beliefs-first-grade.md) — related
 - [The authors argue the factor-analytic evidence is not strong enough to rename expectancy-value theory as expectancy-value-cost theory](cost-as-separate-construct-evidence-insufficient.md) — related
+- [Subjective task value and cost emerge as two distinct factors in daily motivational appraisals of vocabulary learning](value-cost-two-distinct-factors-daily-appraisals.md) — related

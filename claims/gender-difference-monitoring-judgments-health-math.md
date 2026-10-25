@@ -53,3 +53,4 @@ Regression on pretest monitoring judgments in the 1,177-participant sample: accu
 - [Female students provided lower local judgments with lower sensitivity but higher specificity than male students](gender-differences-local-judgments-sensitivity-specificity.md) — related
 - [Math anxiety mediated the effect of gender on pretest monitoring judgments in exploratory analyses](math-anxiety-mediates-gender-effect-on-monitoring.md) — related
 - [Gender differences in global performance judgments follow domain stereotypes: men higher in mathematics, women higher in reading, with no gender differences in bias](gender-stereotyped-performance-judgments-adults.md) — related
+- [Men morally disengage toward cheating more than women](men-moral-disengage-more-than-women.md) — related

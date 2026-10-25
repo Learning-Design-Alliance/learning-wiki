@@ -70,3 +70,4 @@ Author interpretation regarding the class of 1924, for whom administration influ
 - [Army Alpha intelligence standing correlates r = +.31 with one-term school standing among 153 normal-school students](army-alpha-school-standing-correlation-31.md) — related
 - [Correlations between Alpha and grades vary by class standing, lowest for graduates (r = .15) and highest for seniors (r = .38)](alpha-grades-correlation-class-standing.md) — related
 - [The Rosanoff High Standard Frequency Test, but not writing-speed measures, diverges sharply between high-discrepancy and control students](rosanoff-frequency-test-diverges-between-discrepancy-groups.md) — related
+- [Army Alpha point scores correlate about +0.36 with academic grades among nearly 6000 college students, with correlations varying across sub-tests](army-alpha-grades-correlation-036-college.md) — related

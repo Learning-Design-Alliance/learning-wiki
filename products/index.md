@@ -2,7 +2,7 @@
 
 Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's.
 
-**1950 entries** · 0 stable · 1950 in review · 0 drafts
+**1953 entries** · 0 stable · 1953 in review · 0 drafts
 
 ---
 
@@ -862,6 +862,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [KG-grounded benchmark of 10,836 solution-feedback pairs for step-level LLM tutoring evaluation](kg-grounded-benchmark-of-10836-solution-feedback-pairs-for-step-level-llm-tutoring-evaluat.md) - A benchmark dataset released by Tahreem Yasir et al.
 * [Khanmigo](khanmigo.md) - Khanmigo is Khan Academy's GPT-4-powered educational tutoring app, offering guided tutoring, writing, debate, chat, practice, and other interactive learning activities.
 * [KinderTEK](kindertek.md) - KinderTEK is an iPad-delivered mathematics intervention for kindergarten students developed and studied by Lina Shanley and colleagues.
+* [Kingsbury pictorial primary scale, Pintner combined mental-educational survey test, and Pressey seventh-grade attainment scale](kingsbury-pictorial-primary-scale-pintner-combined-mental-educational-survey-test-and-pres.md) - A set of early group-administered school assessments measuring primary-grade intelligence, class mental status and educational attainments, and seventh-grade subject attainments.
 * [KIPP](kipp.md) - KIPP is a network of public charter schools operated by the KIPP Foundation and affiliated local KIPP organizations, serving students through its school model.
 * [KIPP Fisher Fellowship](kipp-fisher-fellowship.md) - A KIPP programme that prepares new principals to lead new KIPP schools.
 * [KIPP middle school college-outcome tracking dataset](kipp-middle-school-college-outcome-tracking-dataset.md) - A dataset compiled by Thomas Coen and colleagues tracking 1,177 applicants to 13 oversubscribed KIPP middle schools through admissions lotteries and subsequent college enrollment and persistence outcomes.
@@ -1636,6 +1637,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Stages of Concern Questionnaire (SoCQ)](stages-of-concern-questionnaire-socq.md) - A 35-item Likert self-report instrument developed by Loucks and colleagues within the Concerns-Based Adoption Model to measure educators' intensity across seven stages of concern about an educational innovation.
 * [Stakeholder-facing web application for real-time text complexity and curriculum alignment analysis](stakeholder-facing-web-application-for-real-time-text-complexity-and-curriculum-alignment.md) - A Flask-based application developed by Jordan J.
 * [StanBKT](stanbkt.md) - StanBKT is an open-source Python package made by Siddhartha Pradhan et al.
+* [Standard Vocabulary Test of 239 words derived from thirteen beginner books and Lodge's Caesar-Cicero-Vergil tabulation](standard-vocabulary-test-of-239-words-derived-from-thirteen-beginner-books-and-lodges-caes.md) - A standardized 239-word Latin vocabulary test developed by V.
 * [Standards for Professional Learning](standards-for-professional-learning.md) - A seven-standard framework for organizing results-oriented educator professional learning, developed and maintained by Learning Forward with partner organizations.
 * [Standards of Excellence for Outcomes Based Contracting™](standards-of-excellence-for-outcomes-based-contracting.md) - A framework from COBC that organizes outcomes-based edtech contracting around population and program definition, outcomes and metrics, contingent payment, mutual accountability, and continuous improvement.
 * [Stanford Educational Data Archive (SEDA)](stanford-educational-data-archive-seda.md) - A Stanford Education Data Archive dataset providing district-level estimates of mathematics and ELA achievement and growth for Grades 3–8 across U.S.
@@ -1821,6 +1823,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Three-dimensional framework for assessing problem posing ability: number, category, and quality](three-dimensional-framework-for-assessing-problem-posing-ability-number-category-and-quali.md) - A Dai et al.
 * [Three-layer reusable pipeline for generating 3D-printed tactile statistical graphs](three-layer-reusable-pipeline-for-generating-3d-printed-tactile-statistical-graphs.md) - An open-source JavaScript pipeline by Lawrence Obiuwevwi et al.
 * [Three-level RTI prevention model for identifying learning disabilities](three-level-rti-prevention-model-for-identifying-learning-disabilities.md) - A response-to-intervention framework that organizes general instruction, targeted tutoring, and special education evaluation around students' measured progress and responsiveness.
+* [Three-minute acuity-sustain test of the eye's power to sustain clear seeing under lighting conditions](three-minute-acuity-sustain-test-of-the-eyes-power-to-sustain-clear-seeing-under-lighting.md) - A laboratory visual-acuity assessment developed by C.
 * [TibetCPR](tibetcpr.md) - A low-cost self-guided CPR training system developed by Yibo Meng and colleagues that combines a sensor-equipped mannequin, electrotactile and visual performance feedback, and a Tibetan-language narrative game.
 * [Time Explorers](time-explorers.md) - A mobile augmented-reality app developed by Heather Toomey Zimmerman and colleagues for family, place-based learning about Appalachian geological history.
 * [Tips by Text](tips-by-text.md) - Tips by Text is a school-delivered text-message programme that gives parents of young children weekly information, home-activity suggestions, and developmental encouragement to support language, literacy, numeracy, and socioemotional learning.

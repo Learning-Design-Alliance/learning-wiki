@@ -69,3 +69,4 @@ The review reports that differences in underlying dimensions between countries f
 - [Learning patterns relate to contextual factors including teaching strategies, perceptions of the learning environment, and discipline](learning-patterns-contextual-factors.md) — related
 - [Four learning patterns (meaning-, reproduction-, application-, and undirected) form a replicable factor structure in first-year higher education students](four-learning-patterns-factor-structure.md) — related
 - [Meaning-directed learning relates positively, and reproduction- and undirected learning negatively, to study achievement indicators](learning-patterns-outcome-relations.md) — related
+- [Important structural differences exist in science interest networks across countries, pointing to differences in domain specificity](science-interest-network-structure-differs-across-countries.md) — related

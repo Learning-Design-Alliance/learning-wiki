@@ -18,7 +18,7 @@ sources:
 # Compensate for age-related sensory impairments by combining audio input with visual presentation
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 18 claims (9 for, 9 mixed) · 13 studies (5 review, 3 quant-synthesis, 2 causal, 2 theoretical, 1 associational), `q1`–`q3` · 3 of 13 report an effect size · 16 claims rest on one study
+> **Evidence** · 20 claims (9 for, 11 mixed) · 14 studies (5 review, 3 causal, 3 quant-synthesis, 2 theoretical, 1 associational), `q1`–`q3` · 3 of 14 report an effect size · 18 claims rest on one study
 
 ## Conditional relationship
 
@@ -142,6 +142,8 @@ Speech comprehension in the room, use of new material, listening without print, 
 ## Claims
 
 - [K-DTVP-2 visual perception scores decline significantly with age in Korean adults, dropping significantly from the 50s compared to the 20s](../claims/k-dtvp2-score-declines-with-aging-from-50s.md) [+W]
+- [When light is well distributed and diffuse with no extremes of surface brightness, the eye is practically independent of illumination intensity within ordinary lighting ranges](../claims/good-distribution-eye-independent-of-intensity.md) [~W]
+- [Indirect systems and semi-indirect systems with high-density reflectors produced the best results for sustaining clear seeing among the artificial lighting systems tested](../claims/indirect-and-high-density-best-results.md) [~W]
 
 ## Related Principles
 - [Redundancy](redundancy.md) — when presenting the same words twice helps or hurts; this page applies its no-picture case to learners who miss part of one channel.

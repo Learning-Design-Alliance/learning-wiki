@@ -49,3 +49,4 @@ Pairwise correlations from descriptive statistics of the longitudinal cohort (Ta
 - [Six component reading skills show strong average relationships with reading comprehension in struggling adult readers (rs ≥ .50)](six-strong-component-skills-adult-reading-comprehension.md) — related
 - [Grade 1 and Grade 2 domain-specific vocabulary knowledge explained 69% of the MORE intervention's treatment effect on Grade 2 domain-specific reading comprehension](vocabulary-mediation-69-percent-treatment-effect.md) — related
 - [Vocabulary Instruction Improves Comprehension](vocabulary-instruction-improves-comprehension.md) — related
+- [Transfer effects on Grade 2 science reading comprehension varied by passage-item type defined by exposure to taught vocabulary networks](more-transfer-varied-by-passage-type.md) — related

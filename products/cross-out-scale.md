@@ -32,6 +32,7 @@ A standardized school assessment developed by Pressey and normed for interpretin
 ## Related Products and Programmes
 
 - [The Pressey 'Cross-out' brief group intelligence scale for grades 4-8](the-pressey-cross-out-brief-group-intelligence-scale-for-grades-4-8.md)
+- [Kingsbury pictorial primary scale, Pintner combined mental-educational survey test, and Pressey seventh-grade attainment scale](kingsbury-pictorial-primary-scale-pintner-combined-mental-educational-survey-test-and-pres.md)
 
 ## Key Sources
 - Pressey, S. L. (1920). A Brief Group Scale of Intelligence for Use in School Surveys. The Journal of Educational Psychology. https://psycnet.apa.org/journal/edu

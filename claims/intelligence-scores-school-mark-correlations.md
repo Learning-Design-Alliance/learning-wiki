@@ -64,3 +64,4 @@ Correlational comparison of intelligence scores with scholarship in the Normal S
 - [Memory correlates only slightly (about .30 by the Pearson formula) with scholarship, memory being only one factor](slight-correlation-memory-scholarship.md) — related
 - [Intelligence tests sometimes fail to predict college performance because character and temperament qualities play a deciding role](intelligence-tests-fail-college-performance-character.md) — related
 - [Teachers' marks often correlate so weakly with the four abilities that heavy instructional time on them may be hard to justify in some schools](low-correlations-undermine-time-spent.md) — related
+- [Vocabulary test scores correlate moderately with teachers' final Latin grades, averaging .56 for Latin-English and .66 for English-Latin](latin-vocabulary-test-teacher-grade-correlations.md) — related

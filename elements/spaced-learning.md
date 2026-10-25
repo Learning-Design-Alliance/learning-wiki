@@ -13,7 +13,7 @@ generated:
 # Spaced Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 20 claims (12 for, 7 mixed, 1 against) · 19 studies (10 causal, 5 review, 4 quant-synthesis), `q2`–`q4` · 3 of 19 report an effect size · 18 claims rest on one study
+> **Evidence** · 21 claims (12 for, 8 mixed, 1 against) · 20 studies (10 causal, 6 review, 4 quant-synthesis), `q2`–`q4` · 3 of 20 report an effect size · 19 claims rest on one study
 
 ## Description
 Spaced learning is the element in which practice or review is distributed over time rather than massed together.
@@ -41,6 +41,7 @@ Spaced learning is the element in which practice or review is distributed over t
 - [Spaced practice research addresses the potential for optimal gaps or delays between presentations of the same concept](../claims/spaced-practice-optimal-gaps-between-presentations.md) [+W]
 - [Short maze units learned under massed conditions connect into a serial whole with great economy, whereas units learned under distributed conditions connect only with extreme difficulty](../claims/massed-unit-learning-eases-connection.md) [-W]
 - [The motor habit for a maze section shows practically no disintegration over the intervals between part-learning trials](../claims/negligible-motor-disintegration-over-interval.md) [~W]
+- [Distributed practice aids digit memorization, but massed practice is preferred for new and short mazes, indicating a boundary condition on the spacing effect](../claims/distributed-vs-massed-practice-boundary-1921.md) [~W]
 
 ## The evidence by question
 - *Does spreading study or practice over sessions improve later retention more than massing the same amount of it?* [Spaced Practice Improves Retention](../claims/spaced-practice-improves-retention.md) [+S]

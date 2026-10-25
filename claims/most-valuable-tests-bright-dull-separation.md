@@ -51,3 +51,4 @@ The author's summary judgment across the per-school comparison tables, which rep
 - [Cancellation test ability shows no relation, and possibly an inverse relation, to abilities shown in the other tests](cancellation-test-no-relation-other-tests.md) — related
 - [Twelve-year-old pupils in upper grades show much greater test ability than those in lower grades](twelve-year-olds-upper-grades-greater-ability.md) — related
 - [Dartmouth freshmen scored 35.0 in logical memory against 44.5 for Columbia freshmen, and the group was relatively poor in memory span and logical memory](dartmouth-columbia-logical-memory-35-vs-44-5.md) — related
+- [Among total-score-matched Young Bright and Old Dull children, the opposites test shows a large performance advantage for the Young Bright group](opposites-favors-young-bright.md) — related

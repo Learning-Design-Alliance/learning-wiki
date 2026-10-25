@@ -50,3 +50,4 @@ CFA model comparisons for Hypothesis 1a in the instructor survey found that only
 - [The ten-goal structure is completely invariant across instructor status groups, but groups differ in mean goal levels.](goal-structure-invariant-status-groups-differ-in-means.md) — related
 - [Specific goals show distinct directional effects: mastery approach and relational goals predict positive affect, beneficial help attitudes, and teaching quality, while work avoidance and appearance avoidance goals predict poorer outcomes.](specific-goal-directional-effects-on-outcomes.md) — related
 - [Work avoidance and relational goals form goal classes distinct from all other achievement goal classes of university instructors.](work-avoidance-and-relational-goals-distinct-classes.md) — related
+- [Acceptance of individual and collective cheating form two distinct factors in students' responses](individual-collective-cheating-two-factor-distinction.md) — related

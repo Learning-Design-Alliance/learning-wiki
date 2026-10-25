@@ -30,6 +30,7 @@ A 30-minute composite elementary-school achievement test assembled from eight st
 ## Related Products and Programmes
 
 - [Pintner's Mental Survey](pintners-mental-survey.md)
+- [Kingsbury pictorial primary scale, Pintner combined mental-educational survey test, and Pressey seventh-grade attainment scale](kingsbury-pictorial-primary-scale-pintner-combined-mental-educational-survey-test-and-pres.md)
 
 ## Key Sources
 - Pintner, R., and Marshall, H. (1920). A Combined Mental-Educational Survey. The Journal of Educational Psychology. https://www.google.com/search?q=A+Combined+Mental-Educational+Survey+Pintner+Marshall

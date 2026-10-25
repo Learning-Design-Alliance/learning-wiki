@@ -49,3 +49,4 @@ The author's experiential claim from the Chief Advantages section: the form's "n
 - [Card-slip ranking produces more careful order-of-merit ratings than writing rank numbers beside names on a list](cardlist-more-careful-rating-than-list-ranking.md) — related
 - [Card-slip ranking yields a wider spread of ranks than list-based ranking typically produces](cardlist-wider-spread-of-ranks.md) — related
 - [Order-of-merit judgment serves as the criterion by which vocational tests and scales are established](order-of-merit-criterion-for-test-establishment.md) — related
+- [The tests rank in the order opposites, sentence completion, logical selection, arithmetical problems, and symbol-digit substitution as measures of native intelligence](rank-order-native-intelligence-tests.md) — related

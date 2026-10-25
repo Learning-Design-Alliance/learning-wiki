@@ -48,3 +48,4 @@ OLS regression of survey responses from the teacher subsample (N = 48 interviewe
 - [Teachers with high incidental exposure described expanded opportunities for word use and connecting words to topics](teacher-practices-expanded-word-use-themes.md) — related
 - [L2 learners pick up vocabulary incidentally from meaning-focused input, with reading the most-studied mode and listening yielding similar proportions of words learned](incidental-vocabulary-learning-through-reading-for-meaning.md) — related
 - [Grade 1 and Grade 2 domain-specific vocabulary knowledge explained 69% of the MORE intervention's treatment effect on Grade 2 domain-specific reading comprehension](vocabulary-mediation-69-percent-treatment-effect.md) — related
+- [A sustained Grade 1-to-2 content literacy intervention improved science content reading comprehension (ES = .18) relative to control](more-sustained-content-literacy-science-comprehension-es18.md) — related

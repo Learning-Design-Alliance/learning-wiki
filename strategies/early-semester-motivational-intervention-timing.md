@@ -46,7 +46,8 @@ The article's Educational Impact and Implications Statement recommends that "edu
 - [Between 10% and 21% of students experienced significant declines in expectancy, intrinsic value, and utility value during the first half of the semester](../claims/proportion-significant-motivational-decline.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Support STEM students' motivation by accounting for the lasting impact of prior experiences with math](support-stem-motivation-via-prior-math-experiences.md)
 
 ## Examples
 -

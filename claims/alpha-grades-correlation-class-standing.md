@@ -52,3 +52,4 @@ Product-moment correlations computed separately for five class-standing groups f
 - [Alpha subtests differ in predicting grades, with correlations from .17 (Test 3) to .37 (Test 7) among seniors](alpha-subtest-correlation-range.md) — related
 - [Median Alpha scores increase each year of high school, by about 15, 10 and 4 points across the successive year intervals](yearly-alpha-gains-15-10-4-points.md) — related
 - [Army Alpha scores correlate moderately with first-semester college scholarship, and correlations were higher when students took the test seriously](alpha-correlation-total-scholarship-dartmouth.md) — related
+- [Army Alpha point scores correlate about +0.36 with academic grades among nearly 6000 college students, with correlations varying across sub-tests](army-alpha-grades-correlation-036-college.md) — related

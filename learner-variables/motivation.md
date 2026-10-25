@@ -13,7 +13,7 @@ generated:
 # Motivation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 283 claims (192 show a difference, 62 mixed, 29 no difference) · 212 studies (77 associational, 55 causal, 34 review, 16 theoretical, 14 quant-synthesis, 10 qualitative, 6 design), `q1`–`q4` · 54 of 212 report an effect size · 271 claims rest on one study
+> **Evidence** · 285 claims (193 show a difference, 63 mixed, 29 no difference) · 213 studies (78 associational, 55 causal, 34 review, 16 theoretical, 14 quant-synthesis, 10 qualitative, 6 design), `q1`–`q4` · 55 of 213 report an effect size · 273 claims rest on one study
 
 ## Description
 Whether a learner will spend effort here, and what makes it feel worth spending. It decides whether a page must earn attention before it can teach, and how much open-endedness is tolerable. The honest state of the evidence is that the mechanisms are well supported and the *interventions* are modest — growth-mindset programmes produce small average effects concentrated in specific subgroups [+W], which is a reason to design for motivation rather than to bolt an intervention on.
@@ -333,6 +333,8 @@ Whether a learner will spend effort here, and what makes it feel worth spending.
 - [Choice decreases self-reported distraction during the lesson, while utility value's effect on distraction depends on baseline interest in statistics](../claims/choice-decreases-distraction-uv-interest-interaction.md) [~M] — an instructional effect differs with it
 - [Effects on maintained situational interest and resource requests are mediated by perceived utility value (utility value manipulation) and perceived autonomy and triggered interest (choice manipulation)](../claims/mediation-utility-value-autonomy-pathways.md) [+M] — instruction changes it
 - [Expecting a grade does not affect pretask performance-approach goals](../claims/grade-expectation-no-effect-performance-approach-goals.md) [-M] — instruction changes it
+- [Between-person value is weakly linked to app engagement, with no significant between-person links to subjective engagement measures](../claims/between-person-value-engagement-weak-correlation.md) [~M] — learners who differ on it differ in outcomes
+- [Within-person correlations between log-based vocabulary engagement and appraisals and subjective engagement are positive but very small](../claims/small-within-person-links-engagement-appraisals-subjective.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does autonomy-supportive teaching raise motivation and engagement compared with controlling teaching?* [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](../claims/autonomy-supports-intrinsic-motivation.md) [+M]

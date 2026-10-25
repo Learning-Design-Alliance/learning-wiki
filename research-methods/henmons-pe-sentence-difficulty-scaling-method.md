@@ -25,7 +25,8 @@ The article scales each sentence's difficulty by the same method used for vocabu
 - [Marked year-to-year overlap in Latin sentence translation ability: substantial percentages of pupils reach or exceed the medians of later years](../claims/latin-translation-year-overlap-percentages.md) [+M]
 
 ## Related Research Methods
--
+
+- [Henmon's P.E. vocabulary-difficulty scaling method](henmons-pe-vocabulary-difficulty-scaling-method.md)
 
 ## Key Sources
 - Henmon, V. A. C. (1917). The Measurement of Ability in Latin. Part II. Sentence Tests. The Journal of Educational Psychology. https://eric.ed.gov/?q=Henmon+Measurement+of+Ability+in+Latin+Sentence+Tests

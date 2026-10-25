@@ -15,7 +15,7 @@ grain_size: unit
 # Learning-for-Use (LfU) Model
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 16 claims (8 for, 8 mixed) · 26 studies (7 causal, 7 quant-synthesis, 6 review, 3 theoretical, 1 associational, 1 qualitative, 1 design), `q1`–`q4` · 6 of 26 report an effect size · 11 claims rest on one study
+> **Evidence** · 17 claims (8 for, 9 mixed) · 27 studies (7 causal, 7 quant-synthesis, 6 review, 3 theoretical, 2 associational, 1 qualitative, 1 design), `q1`–`q4` · 6 of 27 report an effect size · 12 claims rest on one study
 
 ## Description and scope
 
@@ -131,6 +131,10 @@ Record: **motivating task and what learners attempted, with their questions → 
 [Problem presentation](../elements/problem-presentation.md), [scaffolded inquiry](../elements/scaffolded-inquiry.md), [invention](../elements/invention.md), [scaffolding](../elements/scaffolding.md), [self-explanation](../elements/self-explanation.md), [application](../elements/application.md), [transfer tasks](../elements/transfer-tasks.md), [part-task practice](../elements/part-task-practice.md), [practice](../elements/practice.md) and [reflection](../elements/reflection.md). Principles the pattern draws on: [Problem-based Learning](../principles/problem-based-learning.md), [Inquiry-based Learning](../principles/inquiry-based-learning.md), [Productive Failure](../principles/productive-failure.md), [Scaffolding and Fading](../principles/scaffolding-and-fading.md), [Transfer of Learning](../principles/transfer-of-learning.md), [Authentic Audiences & Purposes](../principles/authentic-audiences-purposes.md) and [Real-world Math](../principles/cultural-life-experiences-connections.md).
 
 This pattern is scoped to units in which a task can make a concept or principle necessary and a later task can require it. Procedures and domain-general skills, fact sets, and very young learners are better served by teaching first ([direct instruction](direct-instruction.md)). The policy supports observation and design reasoning; whether a motivate-construct-refine unit produces better use of an idea on new cases than the same content taught explanation-first, for which learners, at what time cost and at what delay, remains to be tested.
+
+## Claims
+
+- [The three-phase model received partial support with weak self-report–behaviour correspondence in fifth graders' mobile vocabulary learning](../claims/partial-support-three-phase-model-weak-selfreport-links.md) [~W]
 
 ## Related Patterns
 - [Problem-Based Learning (PBL)](problem-based-learning.md)

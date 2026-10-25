@@ -116,3 +116,4 @@ Correlational evidence cited in the overview (Simpkins and Davis-Kean 2005; Upde
 - [Girls exhibited a stronger decrease in mathematics ASC than boys over the school year, while school type did not predict ASC development](girls-stronger-asc-decrease-school-type-null.md) — related
 - [Girls started lower in math self-concept and interest than boys, and the L1 self-concept gender gap widened over Grades 7–9](gender-gaps-math-lower-l1-slope-favors-girls.md) — a narrower finding that bears on this claim
 - [Male top-performing math students report higher math self-efficacy and stronger math-oriented motivation than female top performers](math-self-efficacy-gender-gap-top5.md) — a narrower finding that bears on this claim
+- [Higher high-school math grades and advanced math course-taking predict higher test-specific motivation even after controlling for test performance](prior-math-achievement-predicts-test-specific-motivation-beyond-performance.md) — related
