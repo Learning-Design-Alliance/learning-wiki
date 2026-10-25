@@ -51,3 +51,4 @@ The review presents these as examples of material-oriented interventions within 
 - [Split Attention Effect Degrades Learning](split-attention-effect-degrades-learning.md) — a narrower finding that bears on this claim
 - [Cognitive Load Reduction Improves Learning](cognitive-load-reduction-improves-learning.md) — a narrower finding that bears on this claim
 - [Signaling Improves Learning](signaling-improves-learning.md) — a narrower finding that bears on this claim
+- [When text is read aloud (reducing split visual attention), undergraduates generalize more broadly from bland than rich visualizations, but the text and visualization cues' effects do not compound](study7-bland-visualization-narration.md) — a narrower finding that bears on this claim

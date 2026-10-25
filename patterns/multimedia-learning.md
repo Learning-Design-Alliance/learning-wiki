@@ -25,7 +25,7 @@ sources:
 # Multimedia Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 87 claims (39 for, 46 mixed, 2 against) · 66 studies (37 causal, 11 review, 10 quant-synthesis, 3 theoretical, 2 associational, 2 design, 1 qualitative), `q1`–`q4` · 18 of 66 report an effect size · 78 claims rest on one study
+> **Evidence** · 89 claims (40 for, 47 mixed, 2 against) · 67 studies (38 causal, 11 review, 10 quant-synthesis, 3 theoretical, 2 associational, 2 design, 1 qualitative), `q1`–`q4` · 18 of 67 report an effect size · 80 claims rest on one study
 
 ## Description and scope
 
@@ -152,6 +152,8 @@ This pattern is scoped to explanations of structures, processes and relations pr
 - [Students recognized the harm of answer-revealing images only when images clearly revealed the answer](../claims/students-recognize-harm-only-when-images-reveal-answer.md) [~W]
 - [The superiority of the combined directed method held across all ability levels, with the advantage present in every section of a grouped correlation table](../claims/spelling-method-advantage-across-ability-levels.md) [+W]
 - [For Standard IV boys (average age 11), a combined articulatory-auditory-visual spelling method with directed attention yields higher dictation scores than a silent visual method without directed attention](../claims/combined-spelling-method-beats-visual-standard-iv.md) [~W]
+- [When text is read aloud (reducing split visual attention), undergraduates generalize more broadly from bland than rich visualizations, but the text and visualization cues' effects do not compound](../claims/study7-bland-visualization-narration.md) [+W]
+- [Elementary school children generalize most broadly when the text is generic and the visualization is rich](../claims/children-generic-rich-visualization-interaction.md) [~W]
 
 ## Examples
 

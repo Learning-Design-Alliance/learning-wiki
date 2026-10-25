@@ -9,6 +9,7 @@ generated:
   at: 2026-10-24
 evidence_strength: moderate
 newest_evidence: 2014
+source_checked: 2026-10-25
 sources:
   - id: cowan-2014
     resource: "https://doi.org/10.1037/a0034097"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
-> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2014 · checked against its sources 2026-10-25 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Processing speed and RAN uniquely predict basic calculation fluency, while visuo-spatial sketchpad, reasoning, and oral language uniquely predict written arithmetic, and central executive, reasoning, processing speed, and oral language uniquely predict word problems. [→ Cowan 2014](#cowan-2014)
@@ -54,3 +55,4 @@ Fixed-order regression analyses for written arithmetic in 258 third graders. Whe
 - [Phonological awareness and verbal working memory are the most consistently unique domain general predictors of grade 1 math outcomes](phonological-awareness-verbal-wm-predict-math.md) — related
 - [Numeral comparison, but not quantity enumeration, uniquely accounts for variation in basic calculation fluency](numeral-comparison-unique-calculation-fluency.md) — related
 - [RAN correlates more strongly with arithmetic calculation tasks than with general math achievement tests](ran-stronger-with-arithmetic-than-achievement.md) — related
+- [Numerical cognition assessed at end of first grade mediates effects of early processing speed, working memory, calculation skill, word-problem solving, and attentive behavior on later calculations, word-problem solving, and reading](numerical-cognition-mediation-academic-outcomes.md) — related

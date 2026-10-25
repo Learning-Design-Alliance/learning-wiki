@@ -52,3 +52,4 @@ Review of Goddard's examination of 1547 pupils in the Vineland, N. J., schools, 
 - [Eliminating both the normal school and normal mentality (I.Q.) groups yields Q = +.97 between school retarded/advanced and mentally backward/bright](school-mentality-q-both-normal-groups-eliminated-097.md) — related
 - [Schools retard more children than mentality levels would predict: 36.8% are below normal in school versus 20.1% below normal in mentality](schools-retard-mentally-normal-children.md) — related
 - [Goddard's Vineland testing of two thousand normal children found the Binet scale highly accurate](goddard-vineland-two-thousand-normal-children-accurate.md) — related
+- [The mental quotient is misleading as a general expression of mental development and is valuable only when cases are of the same age](mental-quotient-misleading-across-ages.md) — related

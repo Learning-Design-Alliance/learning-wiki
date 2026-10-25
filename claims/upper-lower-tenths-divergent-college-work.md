@@ -47,3 +47,4 @@ Meeting report of Koerth's study of University of Iowa students, contrasting the
 ## Related Claims
 - [Selected academic groups differ in Alpha distributions, with Phi Beta Kappa electees concentrated in higher classes and probationers lower](alpha-distribution-honors-probation.md) — related
 - [Most students show small discrepancies between intelligence percentile and scholarship percentile, but a substantial minority show large ones](alpha-scholarship-percentile-discrepancy-distribution.md) — related
+- [Intelligence tests sometimes fail to predict college performance because character and temperament qualities play a deciding role](intelligence-tests-fail-college-performance-character.md) — related

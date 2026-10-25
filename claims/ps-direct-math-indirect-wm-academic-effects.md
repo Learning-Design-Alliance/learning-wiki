@@ -70,3 +70,4 @@ A second SEM modeled PS effects on WIAT Numerical Operations. The indirect effec
 - [In a cross-sectional model, attention problems relate to both non-verbal and verbal math performance only indirectly, through working memory (and, for MR, reading)](attention-problems-mediated-by-working-memory-math.md) — related
 - [Working memory fully mediates the effects of math anxiety and attention on children's non-verbal Numerical Operations](wm-fully-mediates-anxiety-attention-numerical-operations.md) — related
 - [Math anxiety partially mediates the relation between attention problems and both math outcomes](math-anxiety-partially-mediates-attention-relation.md) — related
+- [Early working memory, processing speed, and attentive behavior predict later calculations, word-problem solving, and reading, but nonverbal reasoning is not significantly associated with any outcome](domain-general-predictors-null-nonverbal-reasoning.md) — related

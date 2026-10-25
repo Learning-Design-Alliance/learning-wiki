@@ -13,7 +13,7 @@ generated:
 # Multimedia Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 26 claims (17 for, 9 mixed) · 28 studies (12 causal, 7 review, 6 quant-synthesis, 2 associational, 1 qualitative), `q2`–`q4` · 10 of 28 report an effect size · 22 claims rest on one study
+> **Evidence** · 27 claims (17 for, 10 mixed) · 29 studies (13 causal, 7 review, 6 quant-synthesis, 2 associational, 1 qualitative), `q2`–`q4` · 11 of 29 report an effect size · 23 claims rest on one study
 
 ## Description
 Multimedia learning is the element in which learners engage with coordinated combinations of words, visuals, audio, animation, or interactive media. It is useful when multiple representations clarify structure, process, or relationship more effectively than a single mode alone.
@@ -62,6 +62,7 @@ Multimedia learning is the element in which learners engage with coordinated com
 - [Readers judge a diagram's argumentative position above chance in all conditions except when both text and color are absent, and deleting graphics is more detrimental than deleting text](../claims/reading-position-judgments-cue-conditions.md) [~W]
 - [Embodied learning environments using students' own motion immediately linked to its graphical representation are most effective in terms of learning outcomes for graphing motion](../claims/immediate-own-motion-most-effective-graphing-motion.md) [+W]
 - [Synced auditory and visual information in narrated presentations produces better learning than single-channel or out-of-sync presentation](../claims/synced-audio-visual-presentation-better-learning.md) [+W]
+- [In Studies 2-6, the perceptual richness of visualizations had no effect on undergraduates' generalization](../claims/no-visualization-effect-studies-2-6.md) [~W]
 
 ## The evidence by question
 

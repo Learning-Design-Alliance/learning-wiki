@@ -48,6 +48,7 @@ For the WM/affective-drop pathway, the authors recommend expressive writing — 
 - [Expressive Outlets](expressive_outlets.md)
 - [Math Anxiety Reduction](math-anxiety-reduction.md)
 - [Test Anxiety Reduction](test-anxiety-reduction.md)
+- [Target rumination and catastrophizing reduction and putting into perspective enhancement in test anxiety interventions](er-strategy-foci-test-anxiety-intervention.md)
 
 ## Examples
 -

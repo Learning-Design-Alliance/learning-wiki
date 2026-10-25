@@ -49,3 +49,5 @@ From the summarized conclusions, drawing on the individual improvement data of T
 - [Exception: the top section of afternoon workers did better work than the corresponding morning section](top-section-afternoon-superiority.md) — related
 - [Improvement by practice continues in both morning and afternoon groups, but the morning group improves faster across weeks](practice-continues-faster-mornings.md) — related
 - [In a London boys' school class, the group working problematic arithmetic later in the morning improved about 5 per cent more than the group working it early](later-morning-group-improves-more-boys-school.md) — related
+- [Late-afternoon immediate memory work shows about 2 per cent relative inefficiency compared with early morning work in 11-year-old boys](afternoon-memory-inefficiency-two-percent-winch-1911.md) — related
+- [A minority of children cease to improve and deteriorate during repeated memory tests, deterioration being concentrated among afternoon workers](individual-deterioration-afternoon-workers-winch-1911.md) — related

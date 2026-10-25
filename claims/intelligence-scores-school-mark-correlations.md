@@ -62,3 +62,5 @@ Correlational comparison of intelligence scores with scholarship in the Normal S
 - [Correlations among the brief tests were low and internally inconsistent: K and M correlated only .32 while M correlated .42 with the information test and K only .18](low-inconsistent-inter-test-correlations.md) — related
 - [Separate subtests of the short form correlate .41 to .68 with their corresponding long scales](survey-test-subtest-correlations-41-to-68.md) — related
 - [Memory correlates only slightly (about .30 by the Pearson formula) with scholarship, memory being only one factor](slight-correlation-memory-scholarship.md) — related
+- [Intelligence tests sometimes fail to predict college performance because character and temperament qualities play a deciding role](intelligence-tests-fail-college-performance-character.md) — related
+- [Teachers' marks often correlate so weakly with the four abilities that heavy instructional time on them may be hard to justify in some schools](low-correlations-undermine-time-spent.md) — related

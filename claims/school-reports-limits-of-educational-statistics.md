@@ -67,3 +67,4 @@ Snedden's stated limitation of educational statistics: retardation can be measur
 - [The report explicitly discusses limitations of the Oklahoma value-added model](oklahoma-value-added-model-limitations-discussed.md) — related
 - [Multiple sources of student information can be accumulated to estimate teacher effectiveness](multiple-sources-accumulate-teacher-effectiveness.md) — related
 - [Robertson argues local conditions prevent general conclusions about training-school effects and calls for further investigation](robertson-training-school-further-investigation.md) — related
+- [Two main sources of data exist for evaluating teaching methods: measurements of current practices and measurements of specifically controlled practices](two-sources-of-method-evaluation-data.md) — related

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-24
 evidence_strength: weak
 newest_evidence: 1917
+source_checked: 2026-10-25
 sources:
   - id: arthuk-s-otis-stanford-university-1917
     resource: "https://eric.ed.gov/?q=Otis+criticism+Yerkes-Bridges+point+scale"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
-> **Currency** · newest study 1917 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1917 · checked against its sources 2026-10-25 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Successive testing of the same individuals shows IQs remain fairly constant up to age 14, which, given the constancy-of-brightness hypothesis, indicates equal absolute yearly increments of intelligence up to about age 14. [→ ARTHUK S. OTIS (Stanford University) 1917](#arthuk-s-otis-stanford-university-1917)
@@ -55,3 +56,5 @@ The article reports, citing Terman and Stern, that IQs from successive testing o
 - [Kuhlmann argued the difference between mental age and chronological age does not represent the true degree of deficiency](kuhlmann-rate-of-mental-progress-over-age-difference.md) — related
 - [Repeated Stanford-Binet testing of summer-school pupils over four years shows mostly small IQ differences, with a median difference of 5.25 points](summer-school-iq-differences-median-525.md) — related
 - [Individuals' composite scale ranks are fairly constant from age fourteen to fifteen](woolley-scale-ranks-stable-year-to-year.md) — related
+- [The question of the constancy of IQ is not settled; further studies with regular intervals and repeated tests of the same cases over a number of years are needed](iq-constancy-question-not-settled.md) — related
+- [The mental quotient is misleading as a general expression of mental development and is valuable only when cases are of the same age](mental-quotient-misleading-across-ages.md) — reports the opposite

@@ -56,3 +56,4 @@ The review reports, citing Jeung, Chandler, and Sweller, an experiment comparing
 - [Multimedia Principle Improves Learning](multimedia-principle-improves-learning.md) — related
 - [Predictive cues aid transfer of perceptual representations into working memory via pre-encoding top-down modulation](predictive-cues-pre-encoding-modulation-wm-benefit.md) — related
 - [Within-subjects designs also show a moderate-to-large modality effect (d = 0.73)](modality-effect-within-subjects-d073.md) — related
+- [When text is read aloud (reducing split visual attention), undergraduates generalize more broadly from bland than rich visualizations, but the text and visualization cues' effects do not compound](study7-bland-visualization-narration.md) — related

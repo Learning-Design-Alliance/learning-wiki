@@ -9,6 +9,7 @@ generated:
   at: 2026-10-24
 evidence_strength: weak
 newest_evidence: 1917
+source_checked: 2026-10-25
 sources:
   - id: arthuk-s-otis-stanford-university-1917
     resource: "https://eric.ed.gov/?q=Otis+criticism+Yerkes-Bridges+point+scale"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
-> **Currency** · newest study 1917 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1917 · checked against its sources 2026-10-25 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The percentage of children attaining a coefficient of 1.20 or more falls irregularly from 34.5% at ages 4-5 to 0% at ages 16-17 and 18-on, so the coefficients are not comparable measures of brightness across ages. [→ ARTHUK S. OTIS (Stanford University) 1917](#arthuk-s-otis-stanford-university-1917)

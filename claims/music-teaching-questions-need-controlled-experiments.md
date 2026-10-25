@@ -46,3 +46,4 @@ A theoretical argument by the editorial author (signed O. E. S.), not a tested r
 
 ## Related Claims
 - [Baerwald's study of motor imagery finds no relation between development of musical performance skill and degree of native motor endowment](musical-skill-not-dependent-native-motor-endowment.md) — a narrower finding that bears on this claim
+- [Investigating what arithmetic to teach is more fundamental than investigating how to teach it, because method studies may be eliminated by subject-matter findings](what-to-teach-more-fundamental-than-how.md) — related

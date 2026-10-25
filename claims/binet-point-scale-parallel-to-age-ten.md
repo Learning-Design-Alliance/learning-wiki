@@ -54,3 +54,4 @@ Comparison of 100 clinic cases examined by the same examiner with both scales, s
 - [Status differences between the two scales are small for most cases, with eight of 100 identical](scale-status-differences-distribution.md) — related
 - [The Binet-Simon scale is a valuable diagnostic tool for classifying defective children when used by a trained examiner but dangerous in untrained hands](binet-simon-scale-valuable-trained-dangerous-untrained.md) — related
 - [Binet-Simon results fit normal children's chronological ages better in early years, while the Yerkes-Bridges point scale gives better results from age eight or nine on, due to scoring methods](binet-versus-yerkes-bridges-age-fit.md) — related
+- [In expert hands the Binet Scale can be relied on to diagnose about 90 per cent of cases, with the remaining 10 per cent requiring other tests and criteria](expert-binet-scale-diagnoses-90-percent-of-cases.md) — related

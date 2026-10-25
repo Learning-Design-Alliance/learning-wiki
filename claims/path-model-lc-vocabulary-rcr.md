@@ -77,3 +77,4 @@ Same path analysis: the vocabulary-to-RCR direct path E' was fully mediated, and
 - [Self-reported concentration was examined as a contributor to listening comprehension but did not emerge in the best-fitting model](concentration-not-in-best-fitting-listening-model.md) — related
 - [RCR is correlated with vocabulary and listening comprehension in the combined sample](rcr-correlated-semantic-abilities.md) — related
 - [Vocabulary is positively associated with listening comprehension in upper elementary children (9-12 years)](vocabulary-positively-associated-listening-comprehension-upper-elementary.md) — related
+- [Vocabulary's relation to reading comprehension is completely mediated by listening comprehension and word reading for ELs, but exerts a direct effect for non-ELs](vocabulary-mediation-differs-els-non-els.md) — related

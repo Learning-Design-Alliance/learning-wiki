@@ -73,3 +73,4 @@ This is a descriptive statement in the fact sheet's introduction about how the p
 - [According to teachers, principals with elementary teaching experience provided more helpful and actionable direct instructional support in some cases](teaching-experience-principals-more-helpful-support.md) — related
 - [Principals in improving schools actively reach out to teachers, parents, and community leaders and coordinate programs strategically](improving-school-principals-reach-out-coordinate-programs.md) — related
 - Over 85 years, the PIL knowledge base shifted from principals as chief school administrators, to the roles of principals and teachers, to more integrated investigations — related
+- [School research investigations produce a reflex benefit for principals and teachers](research-reflex-effect-school-staff.md) — related

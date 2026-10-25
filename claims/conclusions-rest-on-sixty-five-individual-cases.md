@@ -58,3 +58,4 @@ The article's stated limitation: with "only eighty children in all, ten for each
 - [Excluding pedagogically retarded pupils reveals a close correlation between mental growth and immediate auditory sentence memory](sentence-memory-correlates-with-mental-growth.md) — related
 - [Clinic cases retested within less than a month to 15 months show a median IQ difference of 3.5 points, with only four cases above 5 points](clinic-case-iq-differences-median-35.md) — related
 - [Median age per grade, not per cent of retardation, is the best single statement of the age-grade situation for most practical purposes](median-age-per-grade-better-than-percent-retardation.md) — related
+- [A large percentage of retested cases show IQ variations large enough to change their classification, demonstrating the injustice of disposing of persons on the basis of a single test](single-test-classification-unjust-iq-variation.md) — related

@@ -13,7 +13,7 @@ generated:
 # Practice
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 35 claims (19 for, 11 mixed, 5 against) · 46 studies (20 causal, 11 quant-synthesis, 8 review, 5 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 11 of 46 report an effect size · 22 claims rest on one study
+> **Evidence** · 36 claims (20 for, 11 mixed, 5 against) · 47 studies (21 causal, 11 quant-synthesis, 8 review, 5 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 11 of 47 report an effect size · 23 claims rest on one study
 
 ## Description
 Practice asks learners to actively apply new knowledge or skills through structured activities rather than passively receiving information. It converts exposure into fluency and retention by requiring learners to generate responses, solve problems, or perform procedures under conditions that gradually approximate the target performance.
@@ -89,6 +89,7 @@ Practice is one of the most consistently supported instructional elements: activ
 - [In School O.K., the practised group obtained higher final reasoning marks on the whole, but the section-by-section excess improvement over the non-practised group was uncertain](../claims/winch-school-ok-practised-final-reasoning-advantage.md) [+W]
 - [In School S, practice in rule sums improved numerical computation but produced no transfer to accuracy in arithmetical reasoning](../claims/winch-1910-school-s-no-transfer.md) [-W]
 - [Daily practice over three weeks reduces the first-minute advantage, with first-minute accomplishment sometimes falling below later minutes](../claims/extended-practice-reduces-initial-spurt.md) [~W]
+- [On a delayed transfer test, the drill group recovered ground lost on the immediate transfer test while the rules group again scored better than on the immediate transfer test](../claims/delayed-transfer-spelling-groups-converge.md) [+W]
 
 ## Design Decisions
 <!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice

@@ -45,6 +45,7 @@ In the CCSR cohort study, students with slightly above-average skills "were now 
 
 
 ## Related Claims
+
 - Peer skill levels declined for high-skill students in algebra classrooms after the policy — related
 - [Double-dose algebra improved test scores but did not reduce algebra failure rates](double-dose-did-not-improve-failure-rates.md) — related
 - [Policy effects on grades and failure rates differed by incoming ability: most below-norm students' grades improved slightly, but the very lowest-ability students' algebra grades declined](double-dose-effects-vary-by-initial-ability.md) — related
@@ -54,3 +55,4 @@ In the CCSR cohort study, students with slightly above-average skills "were now 
 - The double-dose policy affected non-targeted high-ability students: their algebra test scores improved while their grades declined — related
 - [Sorting by ability affects grades and pass rates differently from test scores: high-skilled students' grades and pass rates decline while low-skilled students' grades improve](sorting-opposite-effects-grades-vs-test-scores.md) — related
 - [Algebra failure rates rose post-policy for above-norm students (~3 percentage points) but fell for below-norm students (~4 points); classroom environment and peer ability explained most of the above-norm rise but not the below-norm fall](double-dose-failure-rates-divergent.md) — related
+- [Boys working double periods in manual training needed more time per exercise and earned lower average grades than boys working single periods](double-period-manual-training-more-time-lower-grades.md)

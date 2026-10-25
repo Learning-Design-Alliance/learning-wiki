@@ -46,3 +46,4 @@ Bird reports O'Brien's experiment in which "photographic records were made of th
 
 ## Related Claims
 - [Visual support reduces global sentence reading times and regressions in adult readers](visual-support-reduces-global-sentence-reading-times.md) — related
+- [The number of ocular fixations per line may serve as an index of acts of attention in children's reading](ocular-fixations-index-of-attention-reading.md) — related

@@ -73,3 +73,4 @@ Correlational study (Kohen-Raz & Masalha, 1988) showing suppression of synkineti
 - [Embodied collaborative construction can build shared geometric reasoning](embodied-collaborative-construction-can-build-shared-geometric-reasoning.md) — related
 - [Gesturing while explaining problem solving reduces cognitive load](gesturing-reduces-cognitive-load.md) — related
 - [Sidis's laboratory experiments found the condition of sleep similar to the condition produced by suggestion, both normal and abnormal](sidis-sleep-similar-to-suggestion-condition.md) — related
+- [Arnold's studies found obstructed breathing decreased pupils' efficiency on memory, copying, arithmetic and cross-marking tasks, while defective vision played no part in retardation](arnold-causes-of-retardation.md) — related

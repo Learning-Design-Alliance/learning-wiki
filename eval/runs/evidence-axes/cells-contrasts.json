@@ -42750,5 +42750,125 @@
  "test-format\tfirst minute of the ten-minute test\tlater minutes of the test": {
   "label": "First minute vs later minutes",
   "treatment_is_a": true
+ },
+ "autonomy-support\tchoice manipulation\tdirectly-communicated utility value manipulation": {
+  "label": "choice vs utility-value message",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tchoice manipulation\tno-choice comparison": {
+  "label": "choice vs no choice",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tdirectly communicated utility value\tcontrol": {
+  "label": "utility-value message vs control",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tmeaningful choice\tcontrol": {
+  "label": "choice vs no choice",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tmeaningful choice among lesson versions\tyoked no-choice control": {
+  "label": "choice vs no choice",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tmeaningful choice during learning\tcontrol without choice": {
+  "label": "choice vs no choice",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tmeaningful choice during learning\tno-choice control condition": {
+  "label": "choice vs no choice",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tmeaningful choices during learning\tcontrol without choice": {
+  "label": "choice vs no choice",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tformal operations taught in isolation\tformal operations taught in situations requiring reasoning": {
+  "label": "isolated formal operations vs operations taught in reasoning situations",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\trationalized, explanatory presentation of operations\tformal habitual presentation of operations": {
+  "label": "explanatory instruction vs habitual/formal instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\trules taught with type words and minimum drill\tdrill only": {
+  "label": "rule instruction with type words and minimal drill vs drill-only instruction",
+  "treatment_is_a": true
+ },
+ "media-design\taccompanying text with at least one generic sentence\ttext without a generic sentence": {
+  "label": "text with at least one generic sentence vs text without a generic sentence",
+  "treatment_is_a": true
+ },
+ "media-design\tbland visualization with nongeneric text\trich visualization with nongeneric text": {
+  "label": "rich visualizations vs bland visualizations",
+  "treatment_is_a": false
+ },
+ "media-design\tbland visualizations\trich visualizations": {
+  "label": "rich visualizations vs bland visualizations",
+  "treatment_is_a": false
+ },
+ "media-design\texemplified generic noun phrases\tnon-generic noun phrases": {
+  "label": "exemplified generic noun phrases vs non-generic noun phrases",
+  "treatment_is_a": true
+ },
+ "media-design\texemplified generic statements\tnon-generic statements": {
+  "label": "exemplified generic statements vs non-generic statements",
+  "treatment_is_a": true
+ },
+ "media-design\tgeneric noun phrases\tnon-generic noun phrases": {
+  "label": "generic noun phrases vs non-generic noun phrases",
+  "treatment_is_a": true
+ },
+ "media-design\tgeneric statement at the broader category level\tnon-generic statement at the broader category level": {
+  "label": "generic statements at the broader category level vs non-generic statements at the broader category level",
+  "treatment_is_a": true
+ },
+ "media-design\tgeneric statements\texemplified generic statements": {
+  "label": "exemplified generic statements vs generic statements",
+  "treatment_is_a": false
+ },
+ "media-design\tgeneric statements\tnon-generic statements": {
+  "label": "generic statements vs non-generic statements",
+  "treatment_is_a": true
+ },
+ "media-design\tperceptually rich visualizations\tperceptually bland visualizations": {
+  "label": "rich visualizations vs bland visualizations",
+  "treatment_is_a": true
+ },
+ "media-design\trich visualizations\tbland visualizations": {
+  "label": "rich visualizations vs bland visualizations",
+  "treatment_is_a": true
+ },
+ "practice-amount\tdouble periods\tsingle periods": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\texpectation of a grade\tno grade": {
+  "label": "Grade expected vs no grade expected",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tgrade with formative comment\tformative comment only": {
+  "label": "Grade plus formative feedback vs formative feedback only",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tgraded assessment\tnongraded assessment": {
+  "label": "Graded vs ungraded assessment",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\ttask completed for a grade\ttask completed with no grade": {
+  "label": "Graded vs ungraded task",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\ttask expected to receive a grade\ttask expected to receive formative comments without a grade": {
+  "label": "Grade plus formative feedback vs formative feedback only",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\ttask expected to receive a grade\ttask not expected to receive a grade": {
+  "label": "Grade expected vs no grade expected",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\ttask expected to receive a grade\ttask with no grade": {
+  "label": "Grade expected vs no grade expected",
+  "treatment_is_a": true
  }
 }

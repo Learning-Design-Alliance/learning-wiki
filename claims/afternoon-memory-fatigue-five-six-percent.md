@@ -55,3 +55,5 @@ Controlled two-group comparison after equal practice: two initially equal groups
 - [During the final fatigue test, time per problem rose gradually, then markedly, with no obvious correlation between time and accuracy](fatigue-time-rise-no-accuracy-correlation.md) — related
 - [In a boys' school where three-fourths of pupils rose early for work, the earlier-working group (9.40 A.M.) improved more (about 14 per cent) than the later-working group (11.30 A.M., 9 per cent).](working-boys-earlier-morning-advantage.md) — related
 - [Settling on final age-range or universal test scales is premature while competing test systems correlate over 90 per cent](premature-universal-test-scales-high-correlations.md) — related
+- [Late-afternoon immediate memory work shows about 2 per cent relative inefficiency compared with early morning work in 11-year-old boys](afternoon-memory-inefficiency-two-percent-winch-1911.md) — related
+- [A minority of children cease to improve and deteriorate during repeated memory tests, deterioration being concentrated among afternoon workers](individual-deterioration-afternoon-workers-winch-1911.md) — related

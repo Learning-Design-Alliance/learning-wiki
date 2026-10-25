@@ -46,7 +46,7 @@ sources:
 # Motivation
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 109 claims (68 for, 40 mixed, 1 against) · 97 studies (28 review, 24 causal, 12 associational, 11 theoretical, 9 qualitative, 8 quant-synthesis, 5 design), `q1`–`q4` · 14 of 97 report an effect size · 95 claims rest on one study
+> **Evidence** · 110 claims (69 for, 40 mixed, 1 against) · 98 studies (28 review, 25 causal, 12 associational, 11 theoretical, 9 qualitative, 8 quant-synthesis, 5 design), `q1`–`q4` · 14 of 98 report an effect size · 96 claims rest on one study
 
 ## Conditional relationship
 
@@ -208,6 +208,7 @@ Read 2026-10-19 and left here because they do not change the model. Claims attac
 - [In a college biology course, students assigned a variety of self- and other-focused utility-value assignments earned higher course grades than students who wrote the same assignment type three times](../claims/uv-variety-structure-higher-grades.md) [+W] — attached 2026-10-23 from Priniski et al. (2019), which proposed "Combine self-focused and other-focused utility-value assignments through variety or choice rather than repeating one assignment type".
 - [UV dosage shows a nonmonotonic pattern: one or three UV essays outperform two for grades and continuation](../claims/uv-dosage-one-or-three-doses-effective.md) [+W] — attached 2026-10-24 from Canning et al. (2018), which proposed "Time utility-value writing assignments to students' performance history: early for struggling students, late for high performers, with full dosage for the broadest benefit"; tests this page's relationship.
 - [A UV essay in the final unit of the course promotes enrollment in the second biology course, especially for high-performing students](../claims/uv-third-essay-promotes-continuation-for-high-performers.md) [+W] — attached 2026-10-24 from Canning et al. (2018), which proposed "Time utility-value writing assignments to students' performance history: early for struggling students, late for high performers, with full dosage for the broadest benefit"; tests this page's relationship.
+- [Expecting a grade for a task increases students' pretask performance-avoidance goals compared with no grade](../claims/grade-expectation-increases-performance-avoidance-goals.md) [+W] — attached 2026-10-25 from Pulfrey et al. (2011), which proposed "Use comment-only formative feedback rather than grades when the aim is to avoid fostering performance-avoidance goals"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

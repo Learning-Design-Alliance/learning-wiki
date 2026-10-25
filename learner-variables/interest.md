@@ -13,7 +13,7 @@ generated:
 # Interest
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 183 claims (135 show a difference, 30 mixed, 18 no difference) · 132 studies (47 causal, 37 associational, 18 review, 12 design, 7 quant-synthesis, 6 theoretical, 5 qualitative), `q1`–`q4` · 32 of 132 report an effect size · 177 claims rest on one study
+> **Evidence** · 189 claims (139 show a difference, 31 mixed, 19 no difference) · 133 studies (48 causal, 37 associational, 18 review, 12 design, 7 quant-synthesis, 6 theoretical, 5 qualitative), `q1`–`q4` · 33 of 133 report an effect size · 183 claims rest on one study
 
 ## Description
 Interest is a learner's attraction to a topic. Research separates individual interest, a lasting disposition a learner brings, from situational interest, which material or activity sparks in the moment and which can grow into individual interest over time. Interest is measured by self-report, choice and persistence. It predicts attention, depth of processing and course choice, it moderates the effect of materials (seductive details catch interest without helping learning), and it is an outcome of designs that show relevance or give learners choice. It is a narrower case of [motivation](motivation.md).
@@ -218,6 +218,12 @@ Interest is a learner's attraction to a topic. Research separates individual int
 - [Making high-confidence errors about educational misconceptions intensifies preservice teachers' surprise, curiosity, confusion, and achievement-related anger](../claims/high-confidence-errors-intensify-epistemic-emotions-and-anger.md) [+M] — instruction changes it
 - [Primary children need more skilled books incorporating salient interest-producing elements](../claims/more-skilled-books-with-interest-elements-for-primary-children.md) [+W] — instruction changes it
 - [Surprise and plot are the leading positive interest factors in children's story preferences](../claims/surprise-and-plot-lead-childrens-interest-factors.md) [+M] — instruction changes it
+- [Both choice and utility value manipulations increase maintained situational interest in regression by similar small amounts](../claims/both-manipulations-increase-maintained-situational-interest.md) [+M] — instruction changes it
+- [Choice decreases self-reported distraction during the lesson, while utility value's effect on distraction depends on baseline interest in statistics](../claims/choice-decreases-distraction-uv-interest-interaction.md) [~M] — an instructional effect differs with it
+- [Directly-communicated utility value increases beliefs about the usefulness of regression, unmoderated by baseline confidence or interest](../claims/utility-value-increases-usefulness-beliefs-unmoderated.md) [-M] — an instructional effect differs with it
+- [Effects on maintained situational interest and resource requests are mediated by perceived utility value (utility value manipulation) and perceived autonomy and triggered interest (choice manipulation)](../claims/mediation-utility-value-autonomy-pathways.md) [+M] — instruction changes it
+- [Providing meaningful choice during a lesson increases perceived autonomy and triggered situational interest in undergraduates learning statistics](../claims/choice-increases-autonomy-triggered-situational-interest.md) [+M] — instruction changes it
+- [Utility value manipulation, but not choice, increases voluntary requests for statistics resources, a behavioral indicator of emerging individual interest](../claims/utility-value-increases-resource-requests-emerging-individual-interest.md) [+M] — instruction changes it
 
 ## The evidence by question
 - *Does seeing a task as interesting, important or useful raise the effort learners invest in it?* [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](../claims/task-value-increases-motivation-and-engagement.md) [+M]

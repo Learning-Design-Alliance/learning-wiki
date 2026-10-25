@@ -43,6 +43,7 @@ The report documents implementable strategies ADs used to build statewide networ
 
 - [Analyze pre-existing network structures and points of leverage at the outset of a cross-sector reform initiative](analyze-networks-at-initiative-outset.md)
 - [Build a College Promise team spanning internal campus units and external cross-segment and cross-sector partners](cross-segment-cross-sector-promise-team.md)
+- [Multi-source intensive case study followed by a stakeholder conference](intensive-case-study-conference-procedure.md)
 
 ## Examples
 -

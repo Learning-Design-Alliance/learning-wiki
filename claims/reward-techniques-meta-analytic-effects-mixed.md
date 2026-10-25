@@ -71,3 +71,4 @@ Perceptual fluency is one of the reward-related techniques the review places und
 - [Quizizz-based gamification improved word memorization over traditional methods for intermediate learners](quizizz-gamification-better-memorization.md) — related
 - [In one mixed-methods study of university students, reported in a review, gamified vocabulary learning gave better test results, motivation and satisfaction than traditional instruction](gamification-raises-motivation-satisfaction.md) — related
 - [Expected tangible rewards reduce later free-choice engagement with a rewarded task, while verbal praise does not](rewards-undermine-intrinsic-motivation.md) — related
+- [In Studies 2-6, the perceptual richness of visualizations had no effect on undergraduates' generalization](no-visualization-effect-studies-2-6.md) — a narrower finding that bears on this claim

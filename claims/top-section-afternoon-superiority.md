@@ -49,3 +49,5 @@ Section-by-section comparison from Table III. The author notes the top section's
 - [Late-afternoon memory work shows relative inefficiency of about 5-6 per cent compared with early-morning work in 13-year-old boys](afternoon-memory-fatigue-five-six-percent.md) — related
 - [In one very poor neighborhood school the exception occurred: the earlier-working group improved more rapidly than the later-working group](poor-school-exception-earlier-group-improves-more.md) — related
 - [Improvement by practice continues in both morning and afternoon groups, but the morning group improves faster across weeks](practice-continues-faster-mornings.md) — reports the opposite
+- [Late-afternoon immediate memory work shows about 2 per cent relative inefficiency compared with early morning work in 11-year-old boys](afternoon-memory-inefficiency-two-percent-winch-1911.md) — related
+- [In the lowest mnemonic section, afternoon workers improved more than morning workers, contrary to the suggestion that the more strongly endowed do better in the afternoon](lowest-section-afternoon-advantage-winch-1911.md) — related

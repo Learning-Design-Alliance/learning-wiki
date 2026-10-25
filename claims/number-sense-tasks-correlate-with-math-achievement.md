@@ -66,3 +66,4 @@ The authors note that these correlations run against the expectation that numeri
 - [Nonsymbolic magnitude comparison is only moderately predictive of future mathematical achievement, and only in kindergarten](nonsymbolic-comparison-moderately-predictive-kindergarten-only.md) — related
 - [Symbolic magnitude comparison is a stronger longitudinal predictor of mathematical achievement than nonsymbolic comparison](symbolic-stronger-predictor-than-nonsymbolic.md) — related
 - [A combination of specific mathematical cognition measures predicts subsequent mathematics achievement better than prior mathematics achievement scores alone](cognition-measures-beat-prior-achievement.md) — related
+- [Whole-number and fraction number line estimation are weakly correlated, suggesting they represent different estimation skills](whole-number-fraction-number-line-distinct-skills.md) — related

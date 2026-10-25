@@ -13,7 +13,7 @@ generated:
 # Reading Fluency
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 79 claims (49 show a difference, 18 mixed, 12 no difference) · 53 studies (15 causal, 15 associational, 10 review, 9 quant-synthesis, 2 design, 2 theoretical), `q1`–`q4` · 14 of 53 report an effect size · 78 claims rest on one study
+> **Evidence** · 81 claims (51 show a difference, 18 mixed, 12 no difference) · 54 studies (16 associational, 15 causal, 10 review, 9 quant-synthesis, 2 design, 2 theoretical), `q1`–`q4` · 14 of 54 report an effect size · 80 claims rest on one study
 
 ## Description
 Reading fluency is reading text accurately, at an appropriate rate and smoothly, whether silently or aloud. It rests on the word-level skills beneath it: [decoding](decoding.md), orthographic processing, phonological processing, [morphological awareness](morphological-awareness.md) and an understanding of [syntax](syntax.md). It is measured by counting words read correctly within a time limit and by having students read passages aloud, scored for accuracy and rate.
@@ -119,6 +119,8 @@ It is part of the wiki's broader [reading and language](reading-and-language.md)
 - [In Bird's school-wide testing, speed correlated positively with comprehension and accuracy but negatively with handwriting legibility.](../claims/speed-correlations-vary-by-subject.md) [+M] — learners who differ on it differ in outcomes
 - [Merely making pupils conscious of the need to change mental set improved silent reading rate while comprehension was checked](../claims/consciousness-of-set-change-raises-silent-reading-rate.md) [+W] — instruction changes it
 - [More effective readers are those who vary their reading rate to suit the type of material](../claims/rate-flexibility-marks-effective-readers.md) [+W] — learners who differ on it differ in outcomes
+- [Early working memory, processing speed, and attentive behavior predict later calculations, word-problem solving, and reading, but nonverbal reasoning is not significantly associated with any outcome](../claims/domain-general-predictors-null-nonverbal-reasoning.md) [+W] — instruction changes it
+- [Numerical cognition assessed at end of first grade mediates effects of early processing speed, working memory, calculation skill, word-problem solving, and attentive behavior on later calculations, word-problem solving, and reading](../claims/numerical-cognition-mediation-academic-outcomes.md) [+W] — instruction changes it
 
 ## Measures
 - **Test of Word Reading Efficiency (TOWRE)** (Torgesen et al., 1999): number of printed words read correctly in 45 seconds.

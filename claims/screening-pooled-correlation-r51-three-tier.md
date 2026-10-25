@@ -50,3 +50,4 @@ Meta-analysis using a CHE model with RVE of 67 effect sizes from 13 validation s
 - [Very few studies (18 of 127) provide validity data for screening tools used in tier assignment, and none test whether screening itself improves achievement](few-studies-assess-screening-validity.md) — related
 - [Sensitivity and specificity of Three Tier screening tools vary widely, and no studies report language-domain-only accuracy](screening-sensitivity-specificity-vary-widely.md) — related
 - [Effect sizes for gender differences in L2 achievement are highly heterogeneous across studies (I² = 89.82%)](high-heterogeneity-l2-gender-effect-sizes.md) — related
+- [Peer-perceived achievement is a valid indicator of academic competence, correlating .60 to .70 with GPA](peer-perceived-achievement-valid-gpa-indicator.md) — related

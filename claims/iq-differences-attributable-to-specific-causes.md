@@ -68,3 +68,4 @@ Case analysis of Number 24, whose first IQ of 114 with wide scatter and a Doll S
 - [The reviewer reports that Baldwin's repeated examinations show the IQ is fairly constant though subject to fluctuations, and that repeated examinations exhibit a definite practice effect](iq-fairly-constant-with-fluctuations-and-practice-effect.md) — related
 - [IQ scores tend to run low in communities where adults are engaged mostly in unskilled or semi-skilled labor, and apparent age- or grade-level anomalies usually have an explainable cause](iq-skew-linked-to-community-labor-context.md) — related
 - [Moral factors were judged roughly four times as often as intellectual incapacity as the cause of laggards' failure](moral-over-intellectual-causes-of-failure.md) — related
+- [The question of the constancy of IQ is not settled; further studies with regular intervals and repeated tests of the same cases over a number of years are needed](iq-constancy-question-not-settled.md) — related

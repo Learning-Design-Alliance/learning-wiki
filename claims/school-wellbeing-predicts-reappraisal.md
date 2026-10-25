@@ -47,3 +47,4 @@ Within-person cross-lagged paths from the three-wave RI-CLPM (good fit: CFI = .9
 - [Cognitive reappraisal positively predicts subsequent school-related wellbeing in both between-person (CLPM) and within-person (RI-CLPM) longitudinal models](reappraisal-predicts-school-wellbeing-longitudinal.md) — related
 - [Positive feedback loops: wellbeing mediates reappraisal stability and reappraisal mediates wellbeing stability over 12 months](reappraisal-wellbeing-feedback-loops.md) — related
 - [Reciprocal relations models fit better than unidirectional or baseline alternatives for both CLPM and RI-CLPM](reciprocal-model-better-fit-than-nested.md) — related
+- [Putting into perspective precedes lower test anxiety in a negative unidirectional contemporaneous relation](putting-into-perspective-lowers-test-anxiety.md) — related

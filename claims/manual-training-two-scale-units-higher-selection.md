@@ -48,5 +48,7 @@ Observational comparison within the norming sample of boys tested with the const
 - [General Cognitive Ability](../learner-variables/general-cognitive-ability.md) — outcome: instruction changes it
 
 ## Related Claims
+
 - [No evidence that experience with metal building outfits or Tinker Toy blocks improves constructive ability test performance](no-transfer-metal-and-tinker-toy-experience.md) — related
 - [Delinquent boys at the Texas State Juvenile Training School averaged constructive merit of 51.3, equal to that of normal 9.5-year-olds](delinquent-boys-merit-51-3-equal-normal-9-5-year-old.md) — related
+- [Boys working double periods in manual training needed more time per exercise and earned lower average grades than boys working single periods](double-period-manual-training-more-time-lower-grades.md)

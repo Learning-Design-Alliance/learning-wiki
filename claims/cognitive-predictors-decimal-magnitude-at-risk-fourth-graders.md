@@ -56,3 +56,4 @@ Regression analyses with 127 at-risk fourth graders controlling for incoming cal
 - [Numerical working memory predicts decimal number line estimation accuracy](counting-recall-predicts-decimal-number-line.md) — a narrower finding that bears on this claim
 - [Place value labels correlate positively with decimal magnitude understanding; whole number labels negatively](place-value-labels-correlate-decimal-magnitude.md) — related
 - [Place value label use correlates with accuracy on fraction-decimal equivalency items](place-value-labels-fraction-decimal-items.md) — related
+- [Language, in addition to processing speed and attentive behavior, significantly predicts fraction calculations in at-risk fourth graders](language-predicts-fraction-calculations.md) — related
