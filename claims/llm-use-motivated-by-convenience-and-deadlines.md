@@ -26,6 +26,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
+> **Design limits** · Jake O'Brien 2026: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Students strongly agreed that convenience (71% agreement) and deadline pressure (65% agreement) would motivate LLM use, and 60% self-reported using LLMs at least weekly for guidance/hints. [→ Jake O'Brien 2026](#jake-obrien-2026)

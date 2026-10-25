@@ -59,6 +59,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 3 studies (5 entries) · 2 causal `r2`–`r3`, 1 review `r2` · `q2`–`q4`
 > **Currency** · newest study 2026 · checked against its sources 2026-10-17 (automated, 5 of 5 entries) · not reviewed by a person
+> **Design limits** · Rose E. Wang 2025 (2): groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 

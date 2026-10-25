@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Udeshi 2026: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Focusing the Math Agent on analyzing student math steps decreased tutor giving away the final answer by 85.5% ± 5.56% and time-to-first-token latency by 7.85% ± 0.57%, increased behavioral engagement by 7.66% ± 2.25%, but decreased cognitive engagement by 18.09% ± 7.45%. [→ Udeshi 2026](#udeshi-2026)

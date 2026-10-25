@@ -45,7 +45,7 @@ Cross-cutting finding reported in the abstract and RQ2 findings: learners direct
 
 ## Related Claims
 
-- [GAI-assisted DST creation produced significantly higher collaborative problem-solving skills than traditional methods among university students](gai-assisted-dst-improves-cps-skills.md) — the general claim this finding bears on, with the studies behind it
+- [University students who created digital stories with generative-AI help rated their own collaborative problem-solving skills higher than traditionally taught students](gai-assisted-dst-improves-cps-skills.md) — the general claim this finding bears on, with the studies behind it
 - [Adult learners expect AI to support problem-centered learning by activating background knowledge, generating diagnostic insights, and strengthening critical thinking](ai-supports-problem-centered-critical-thinking.md) — related
 - [Students' main AI challenges are content reliability and depth, and most expect AI to serve as tutor, creative partner, and critical thinking partner rather than mere content generator](student-critical-ai-role-expectations.md) — related
 - [AI task scaffolding is positively associated with critical thinking and technical problem-solving among AI-using university students](ai-task-scaffolding-positive-higher-order-outcomes.md) — related

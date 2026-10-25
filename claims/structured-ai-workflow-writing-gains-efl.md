@@ -33,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2` · `i3` large
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Alshehri OAO 2026: groups were assigned but students were analysed as independent · Alshehri OAO 2026 (2): groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i3` At posttest, the AI-supported experimental group outperformed the control group on academic writing proficiency, with a mean difference of 3.32 points and Hedges' g = 2.09. [→ Alshehri OAO 2026](#alshehri-oao-2026)
@@ -64,10 +65,10 @@ Baseline equivalence analysis using independent-samples t-tests on pretest score
 
 
 ## Related Claims
-- [Structured AI-supported writing instruction produced a very large posttest advantage in digital critical thinking/AI literacy (DCTS) over traditional instruction](structured-ai-workflow-dcts-gains-efl.md) — related
+- [Students taught with a structured AI-supported writing workflow rated their own digital critical thinking and AI literacy much higher at posttest than traditionally taught students](structured-ai-workflow-dcts-gains-efl.md) — related
 - [Writing proficiency and digital critical thinking were strongly associated, and the association strengthened from pretest to posttest](writing-dcts-co-development-correlations.md) — related
 - [Fourth-graders receiving AI-enhanced media literacy instruction outperformed control-group peers on post-test critical media reading, writing, and total literacy with large effect sizes](ai-media-literacy-program-large-posttest-gains.md) — related
-- [AI-supported PBL students obtain significantly higher posttest computational thinking scores than traditional-lecture students when controlling pretest scores](ai-pbl-higher-posttest-computational-thinking.md) — related
+- [AI-supported PBL students reported higher computational thinking on a self-report scale than traditional-lecture students, controlling for pretest scores](ai-pbl-higher-posttest-computational-thinking.md) — related
 - [In one quasi-experiment in EFL writing classes, students given AI-peer integrated feedback reported higher posttest cognitive engagement than students given conventional peer feedback](ai-peer-feedback-higher-cognitive-engagement.md) — related
 - [AI-mediated language instruction produces significantly greater English learning achievement gains than traditional instruction among EFL learners](ai-instruction-greater-efl-achievement-gains.md) — a broader claim this one bears on
 - [AI-peer integrated feedback produces significantly higher posttest affective engagement than conventional peer feedback in EFL writing](ai-peer-feedback-higher-affective-engagement.md) — related

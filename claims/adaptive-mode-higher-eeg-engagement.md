@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Alexandre Clin Deffarges 2026: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Participants in the adaptive mode showed significantly higher normalized EEG engagement during training than participants in the unrestricted chatbot mode (p = .018); Socratic vs. Adaptive and Full vs. Socratic differences were not significant. [→ Alexandre Clin Deffarges 2026](#alexandre-clin-deffarges-2026)

@@ -42,6 +42,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · causal `r2` · `q3`
 > **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 3 of 3 entries) · not reviewed by a person
+> **Design limits** · Chloe Qianhui Zhao 2026: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` Participants rated AI feedback significantly higher on specificity, clarity, and simplicity (all p < 0.05). [→ Chloe Qianhui Zhao 2026](#chloe-qianhui-zhao-2026)

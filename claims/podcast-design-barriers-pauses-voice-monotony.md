@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Joshi U 2026: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Framework Analysis of FGDs identified revision utility and portability as valued, while the continuous uninterrupted audio format caused cognitive fatigue and learners requested deliberate pauses and better prosody. [→ Joshi U 2026](#joshi-u-2026)

@@ -26,6 +26,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q2`
 > **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
+> **Design limits** · Sebastian Maier 2026: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` A 10 percentage point increase in answer offloading was associated with 32% lower odds of answering a test item correctly (OR = 0.68). [→ Sebastian Maier 2026](#sebastian-maier-2026)

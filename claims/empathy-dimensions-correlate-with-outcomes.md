@@ -33,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q2` · `i1` small
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Li Siyan 2026 (2): no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i1` Emotional reaction correlates significantly with intention to follow (ρ = 0.156), self-efficacy (ρ = 0.139), and usefulness (ρ = 0.249). [→ Li Siyan 2026](#li-siyan-2026)

@@ -101,7 +101,7 @@ CPS improves learning when the group's discussion forces learners to externalize
 
 - *Does working jointly on a task raise achievement over working alone or instruction without group work?* [Collaborative Learning Improves Outcomes](../claims/collaborative-learning-improves-outcomes.md) [+S]
 - *What makes joint work fail: the task, group size and composition, or how members take part?* [Collaborative situations often fail to be productive in practice, so orchestrating collaboration is not simple](../claims/collaborative-situations-often-fail-productive.md) [~W]
-- *Do AI tools in a group's workspace improve its collaborative problem solving, and how does the way a group works with the AI change the result?* [GAI-assisted DST creation produced significantly higher collaborative problem-solving skills than traditional methods among university students](../claims/gai-assisted-dst-improves-cps-skills.md) [+M]
+- *Do AI tools in a group's workspace improve its collaborative problem solving, and how does the way a group works with the AI change the result?* [University students who created digital stories with generative-AI help rated their own collaborative problem-solving skills higher than traditionally taught students](../claims/gai-assisted-dst-improves-cps-skills.md) [+M]
 
 ## Related Elements
 - [Collaboration](collaboration.md) — the general group-work element; CPS is its problem-anchored form

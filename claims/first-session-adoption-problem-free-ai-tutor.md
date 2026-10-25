@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Shihao Yang 2026: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` 14 of 52 AI-arm students who consented never held a single tutoring session, which the authors call a substantive finding about adoption rather than a nuisance. [→ Shihao Yang 2026](#shihao-yang-2026)

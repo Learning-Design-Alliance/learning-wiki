@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Nataliya Kosmyna 2025: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Rewriting an essay with AI tools after prior AI-free writing engaged more extensive brain network interactions than LLM-group sessions 1-3. [→ Nataliya Kosmyna 2025](#nataliya-kosmyna-2025)

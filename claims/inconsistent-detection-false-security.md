@@ -26,6 +26,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
+> **Design limits** · Niklas Humble 2026: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` After Copilot once detected and reported an embedded instruction in a pdf, six further iterations with the same file succeeded in changing the grade to pass with distinction without any reference to the hidden injection, which the authors argue could create a false sense of security. [→ Niklas Humble 2026](#niklas-humble-2026)

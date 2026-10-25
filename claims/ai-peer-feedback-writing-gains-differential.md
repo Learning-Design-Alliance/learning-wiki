@@ -30,6 +30,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 causal `r1`–`r2` · `q3` · `i3` large
 > **Currency** · newest study 2026 · checked against its sources 2026-10-19 (automated, 2 of 2 entries) · not reviewed by a person
+> **Design limits** · Liu W 2026: groups were assigned but students were analysed as independent · Liu W 2026 (2): groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i3` The group × writing dimension interaction was significant (partial η2 = 0.024), and the mixed-design ANCOVA also showed a significant main effect of group (partial η2 = 0.26), indicating the intervention's effectiveness varied across the four writing criteria. [→ Liu W 2026](#liu-w-2026)

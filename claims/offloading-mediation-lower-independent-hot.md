@@ -24,6 +24,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
 > **Currency** · newest study 2026 · checked against its sources 2026-10-16 (automated, 1 of 1 entry) · not reviewed by a person
+> **Design limits** · Chen X 2026: the intervention came bundled with another change; groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Open collaboration predicted higher aggregate offloading (a = 0.77), and higher offloading was associated with lower Week 8 higher-order thinking (b = −0.45), with a bootstrap indirect estimate of −0.34. [→ Chen X 2026](#chen-x-2026)

@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q1`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Xiao 2026: groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q1 i?` Students viewed GenAI as more suitable for early exploratory prototyping and XR as more valuable once a 3D artifact could be evaluated spatially; very early ideation posed a prompting paradox, and later stages demanded precision students preferred to get from direct modeling tools. [→ Xiao 2026](#xiao-2026)

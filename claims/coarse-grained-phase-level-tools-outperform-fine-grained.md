@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · YoungHoon Jeon 2026: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` A 5 phase-level-tool agent (React-ADDIE) scored higher than the same-theory 14-tool agent (ADDIE-Agent: 82.96). [→ YoungHoon Jeon 2026](#younghoon-jeon-2026)

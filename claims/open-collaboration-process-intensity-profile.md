@@ -23,6 +23,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Chen X 2026: the intervention came bundled with another change; groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Among AI-exposed students, the open condition showed higher AI-use intensity, lower self-generated text, and deeper idea and reasoning offloading than the bounded condition. [→ Chen X 2026](#chen-x-2026)

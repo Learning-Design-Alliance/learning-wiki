@@ -26,6 +26,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
+> **Design limits** · Hyoungwook Jin 2026: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Self-reported specificity showed no significant correlation with observed specificity in any Study 1 condition, with signals for negative correlations. [→ Hyoungwook Jin 2026](#hyoungwook-jin-2026)

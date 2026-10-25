@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Liu YJ 2026: groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Assignment accuracy was significantly higher in the AI-enhanced flipped classroom than the traditional classroom (p < 0.01), while the flipped classroom alone did not yield significantly higher assignment accuracy than the traditional classroom. [→ Liu YJ 2026](#liu-yj-2026)

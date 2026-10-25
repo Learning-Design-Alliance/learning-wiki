@@ -41,6 +41,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · causal `r1` · `q2`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Akshay Syal 2026: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Visual processing errors, the most common failure mode, were corrected at 100% across all models (95% CI [0.815, 1.000]). [→ Akshay Syal 2026](#akshay-syal-2026)

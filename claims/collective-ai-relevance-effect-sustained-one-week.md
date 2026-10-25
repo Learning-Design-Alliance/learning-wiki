@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3` · `i1` small
 > **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Guo 2025: groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i1` In the fully-forward SEM, E2 positively predicted relevance as identification with math at time point 2 (β = 0.18, p < .01) and indirectly predicted relevance as identification to a specific math lesson one week later (indirect effect = 0.108, p < .05). [→ Guo 2025](#guo-2025)

@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Jingwei Yi 2026: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` In Python, adding the behavior indicator reduced the university-ranking coefficient from 2.235 to 1.552 and the prior-knowledge coefficient from 2.753 to 1.881, and both adjusted associations became non-significant; behavior accounted for 30.5% and 31.7% of the associations. [→ Jingwei Yi 2026](#jingwei-yi-2026)

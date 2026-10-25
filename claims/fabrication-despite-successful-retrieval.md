@@ -33,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Brian Wright 2026: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Retrieval itself was largely successful: 43 of 45 topic-page questions (96%) retrieved a chunk from the question's actual source page in the top 5. [→ Brian Wright 2026](#brian-wright-2026)

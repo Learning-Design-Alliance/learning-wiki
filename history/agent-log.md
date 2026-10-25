@@ -5,6 +5,50 @@ a session changed across the wiki, why, and the numbers that justified it. `CLAU
 standing rules these entries produced; read the entry before changing one of them. New entries go
 at the top, under this paragraph.
 
+## 2026-10-25 — can the sources be believed? Source-validity checks, an audit, and a public checks page
+
+- **Prompted by** O'Neill (2026, preprint), an audit of 14 AI-in-education meta-analyses that found 61% of
+  the primary studies it vetted unsound or misaligned. The maintainer asked for the lessons to be applied to
+  the primary research the wiki ingests, not only to meta-analyses, for an audit, and for a public page on
+  how claims are validated ("transparency is key, especially if we want people to trust it").
+- **The worst case was here.** Alneyadi & Wardat (2023, 2024) gave ten claims and a strategy page; the 2024
+  ANOVA table prints a partial eta squared of 1.374 and mean squares that are not SS/df, and both papers cite
+  "ChatGPT" studies dated 2017-2020. Confirmed against the papers' own text and removed (maintainer approved).
+  The load-bearing judge had passed them: it checks that a page says what its source says, not that the
+  source can be believed.
+- **`check_source_validity.py`** (with `stat_checks.py`) reads 6,251 cached sources. Tuned on the whole
+  cache from 196 flagged sources to 46 (4 high), by excluding scientific-notation p values, R squared as a
+  percentage, running heads, ROUGE scores, one-tailed tests, reversed F degrees of freedom and N printed in
+  the df slot. Of the 4 high: the two Alneyadi papers, Blackburne et al. 2014 (correlations of 2.07-2.66,
+  nothing left resting on them) and one false alarm. Reference-DOI resolution over 610 AI-era sources is
+  **review-level only**: extracted text breaks DOIs across lines and puts another reference beside a DOI, so
+  most findings are layout.
+- **Retractions**: all 7,156 cited DOIs looked up on Crossref (Retraction Watch data). Three retracted
+  works were cited: Ariely & Wertenbroch 2002 (retracted 2026-09-02, time-boxing), Liu et al. 2020
+  (game-based learning) and a 2019 multimedia meta-analysis whose page already discusses its retraction.
+  `retracted.ndjson` is the ratchet lint reads; lookups older than 90 days are made again.
+- **Invented DOIs**: 371 cited DOIs were registered nowhere and 404 at doi.org. `repair_dead_dois.py`
+  replaced 25 with the DOI whose title, first author and year Crossref confirms (find_missing_dois rules)
+  and removed 346 with their markers, almost all inline links on older strategy and element pages. Two
+  traps found before applying: old SICI DOIs contain `<...>` (the pattern cut them), and a dead DOI can be
+  the prefix of a live one (10.1001/jama.2013.2820 / ...282057); every match now ends where the DOI ends.
+  Twelve claims lost their only DOI: five (Park & Park 2013) were removed under the no-DOI rule; seven were
+  removed and restored the same hour, because the paper (Giacaman et al. 2026) is on DataCite under its arXiv
+  DOI. The repair now tries an arXiv source's DataCite DOI first.
+- **`judge_study_validity.py`** read 1,334 causal entries on AI claims ($5.42 first judge). The first judge
+  alone flagged 42%; a second model from another provider (deepseek-v4-pro, about $9) agreed on 258, so the
+  first judge alone overstated by half and only agreement counts. Agreed: unit of analysis 107, bundled
+  intervention 94, no or contaminated comparison 71, self-report outcome behind a learning claim 6, design
+  overstated 2. The 8 that misstate the page were rewritten by hand (four claims retitled to what was
+  measured, Cheng 2026 recoded q2 and retitled, Thomas 2026 recoded q1 theoretical with the original study
+  named); the rest are stated on 228 claims as a generated `> **Design limits** ·` header line.
+- **`checks.md`** ("How Claims Are Checked", About menu) is generated from committed records only: each
+  check, what it catches, what it cannot, and its coverage, with health at a glance. It says plainly that no
+  page has been reviewed by a person.
+- **Not done**: the study judge has run on AI claims only (1,334 entries); every causal entry would be about
+  20,000 entries and $60-90. The review-level statistics findings (42 sources) and reference-DOI findings
+  (202 sources) are listed, not worked.
+
 ## 2026-10-24 (later) — claims say how current they are
 
 - **Prompted by the wiki's first outside feedback**: an agent quoting a learning-design claim with no owner

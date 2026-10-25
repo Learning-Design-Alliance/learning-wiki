@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Liu YJ 2026: groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Instructors permitted AI for information retrieval, outline generation, and concept explanation but prohibited direct submission of AI-generated content; students had to verify, modify, and integrate AI outputs and bore full responsibility for accuracy and originality. [→ Liu YJ 2026](#liu-yj-2026)

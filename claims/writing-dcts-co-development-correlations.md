@@ -33,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2` · `i3` large
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Alshehri OAO 2026: no comparison group; groups were assigned but students were analysed as independent · Alshehri OAO 2026 (2): groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i3` Writing proficiency and DCTS correlated substantially at pretest (r = 0.81) and more strongly at posttest (r = 0.94) in the full sample. [→ Alshehri OAO 2026](#alshehri-oao-2026)
@@ -64,7 +65,7 @@ Gain-score (posttest minus pretest) Pearson correlation in the same full sample.
 
 
 ## Related Claims
-- [Structured AI-supported writing instruction produced a very large posttest advantage in digital critical thinking/AI literacy (DCTS) over traditional instruction](structured-ai-workflow-dcts-gains-efl.md) — related
+- [Students taught with a structured AI-supported writing workflow rated their own digital critical thinking and AI literacy much higher at posttest than traditionally taught students](structured-ai-workflow-dcts-gains-efl.md) — related
 - [Structured AI-supported writing instruction produced a large posttest writing proficiency advantage over traditional instruction in Saudi EFL undergraduates](structured-ai-workflow-writing-gains-efl.md) — related
 - Pre-test scores strongly predict post-test scores but not normalized learning gains — related
 - The pretest-posttest correlation is a factor in determining a study's statistical power in education evaluations using state assessments. — related

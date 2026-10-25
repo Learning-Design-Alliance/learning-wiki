@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q1`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Bin Bakheet 2026: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q1 i?` Semi-structured interviews with three science teachers yielded perceived improvements in analytical reasoning, conceptual integration, inquiry-based exploration, and creative scientific thinking. [→ Bin Bakheet 2026](#bin-bakheet-2026)

@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q1`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Dang 2026: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q1 i?` In interviews and feedback from 36 students, accounts followed a sequence of scepticism, reassurance from the named-verifier label, and use patterns; the label prompted scrutiny rather than replacing it. [→ Dang 2026](#dang-2026)

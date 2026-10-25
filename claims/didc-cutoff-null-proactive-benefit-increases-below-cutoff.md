@@ -33,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Ashish Gurung 2026 (2): the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` At the cutoff, the difference between proactive and reactive tutoring on relative MAP growth was not statistically significant (-0.33, p = .579), while reactive students at the cutoff achieved 1.74x expected growth. [→ Ashish Gurung 2026](#ashish-gurung-2026)

@@ -33,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i2` medium
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Chloe Qianhui Zhao 2026: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` In a randomized online experiment, post-test scores did not differ significantly between the AI multimodal feedback condition and the business-as-usual educator feedback condition after controlling for pre-test scores. [→ Chloe Qianhui Zhao 2026](#chloe-qianhui-zhao-2026)

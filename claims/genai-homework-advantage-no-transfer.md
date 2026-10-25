@@ -33,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i1` small
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Ethan Dickey 2026: the intervention came bundled with another change; groups were assigned but students were analysed as independent · Ethan Dickey 2026 (2): the intervention came bundled with another change; groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i1` Within-student difference scores on the GenAI-graded problem differed significantly between groups (Mann-Whitney U=7,046, p=.035, r=.14; t(218)=2.90, p=.004, d=.39). [→ Ethan Dickey 2026](#ethan-dickey-2026)

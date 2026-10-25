@@ -26,6 +26,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2026 · checked against its sources 2026-10-18 (automated, 1 of 1 entry) · not reviewed by a person
+> **Design limits** · Gregorio Orlando 2026: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 <!-- title before 2026-10-15: The benefit of spatially co-located AI guidance varies by task: it matters most when instructions and task share a unified spatial frame -->
 
 ## Subclaims

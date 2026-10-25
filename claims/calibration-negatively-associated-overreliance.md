@@ -24,6 +24,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
 > **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
+> **Design limits** · Ren S 2026: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Among AI-assisted participants, awareness calibration was negatively associated with acceptance of incorrect AI advice and with attribution bias; the authors do not interpret this causally. [→ Ren S 2026](#ren-s-2026)

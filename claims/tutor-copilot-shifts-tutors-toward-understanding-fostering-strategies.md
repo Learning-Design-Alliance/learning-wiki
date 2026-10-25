@@ -34,6 +34,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r3` · `q3`
 > **Currency** · newest study 2025 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
+> **Design limits** · Rose E. Wang 2025 (2): groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` Treatment tutors used strategies fostering student skills and comprehension significantly more; prompting the student to explain and asking questions to guide thinking appeared roughly 2 standard deviations more frequently on a log-odds scale. [→ Rose E. Wang 2025](#rose-e-wang-2025)

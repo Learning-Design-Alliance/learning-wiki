@@ -33,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Negar Kamali 2026: groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` References to physics violations in analysts' comments decreased from 20.0% pre-training to 7.0% post-training, the only between-phase difference with non-overlapping 95% Wilson confidence intervals. [→ Negar Kamali 2026](#negar-kamali-2026)

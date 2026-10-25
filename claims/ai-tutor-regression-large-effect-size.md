@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
 > **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Kestin 2025: the intervention came bundled with another change; groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i2` Controlling for prior proficiency, ChatGPT experience, topic, test version and time on task, AI tutoring shows a large effect on post-test scores (0.63 SD; 0.73–1.3 SD by quantile regression). [→ Kestin 2025](#kestin-2025)

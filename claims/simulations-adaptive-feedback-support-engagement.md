@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q1`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Bin Bakheet 2026: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q1 i?` Teachers attributed students' conceptual understanding and engagement with scientific problem solving to simulations, adaptive feedback, and hands-on STEM activities. [→ Bin Bakheet 2026](#bin-bakheet-2026)

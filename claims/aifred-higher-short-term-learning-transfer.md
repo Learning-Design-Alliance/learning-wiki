@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Gregorio Orlando 2026: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Participants previously assisted by AIfred scored 7.0/10 on an unassisted math transfer task versus 4.4/10 for ChatGPT-assisted participants (p=.003). [→ Gregorio Orlando 2026](#gregorio-orlando-2026)

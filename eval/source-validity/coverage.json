@@ -20,5 +20,18 @@
   "sources_ingested": 7135,
   "sources_with_text": 6251,
   "with_findings": 43
+ },
+ "study-ai": {
+  "at": "2026-10-25",
+  "entries_in_scope": 1319,
+  "entries_judged": 1319,
+  "entries_without_text": 22,
+  "found": {
+   "comparison": 71,
+   "isolation": 96,
+   "unit": 108
+  },
+  "found_note": "problems both judges report",
+  "scope": "causal entries on AI claims"
  }
 }

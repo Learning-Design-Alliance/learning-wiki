@@ -29,6 +29,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 causal `r1`, 1 design `r2` · `q2`
 > **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
+> **Design limits** · eval-1: groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` In a preliminary comparison of two course deployments, behavior-aware prompting was associated with Passive inter-query windows falling from 50.0% to 20.7%, with a significant overall profile-distribution difference. [→ eval-1](#eval-1)

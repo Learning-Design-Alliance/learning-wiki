@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Symbiosis theory-based role design significantly enhances the quality of collaborative knowledge construction in human-GAI online collaboration
-description: Symbiosis theory-based role design significantly enhances the quality of collaborative knowledge construction in human-GAI online collaboration
+title: Collaborative knowledge construction among graduate students working with generative AI online was of higher quality after a symbiosis theory-based role design than before it, in a pretest-posttest study with no comparison group reported
+description: Collaborative knowledge construction among graduate students working with generative AI online was of higher quality after a symbiosis theory-based role design than before it, in a pretest-posttest study with no comparison group reported
 id: role-design-enhances-collaborative-knowledge-construction-quality
 status: review
 generated:
@@ -9,26 +9,25 @@ generated:
   at: 2026-10-10
 evidence_strength: moderate
 newest_evidence: 2026
-source_checked: 2026-10-20
 sources:
   - id: cheng-2026
     resource: "https://doi.org/10.19173/irrodl.v27i2.9189"
     title: "Cheng, N., Liu, H., Xu, X., Zhao, W., Qiao, L., & Zhang, G. (2026). Enhancing Human-Generative Artificial Intelligence Online Collaboration Outcomes: The Pivotal Function of Symbiotic Role Design. The International Review of Research in Open and Distributed Learning, 27(2), 46–66. https://doi.org/10.19173/irrodl.v27i2.9189"
     author: "Cheng, N., Liu, H., Xu, X., Zhao, W., Qiao, L., & Zhang, G."
-    q: 3
+    q: 2
     i: "?"
     kind: causal
     rigour: "?"
 ---
 
-# Symbiosis theory-based role design significantly enhances the quality of collaborative knowledge construction in human-GAI online collaboration
+# Collaborative knowledge construction among graduate students working with generative AI online was of higher quality after a symbiosis theory-based role design than before it, in a pretest-posttest study with no comparison group reported
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · causal `r?` · `q3`
-> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
+> **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q3 i?` A role-based intervention significantly enhanced the quality of collaborative knowledge construction compared with no such intervention. [→ Cheng 2026](#cheng-2026)
+`q2 i?` Graduate students' collaborative knowledge construction with generative AI was of higher quality after a role-based intervention than before it; the abstract reports no comparison group. [→ Cheng 2026](#cheng-2026)
 
 ## Evidence
 
@@ -36,9 +35,9 @@ sources:
 
 Cheng, N., Liu, H., Xu, X., Zhao, W., Qiao, L., & Zhang, G. (2026). Enhancing Human-Generative Artificial Intelligence Online Collaboration Outcomes: The Pivotal Function of Symbiotic Role Design. The International Review of Research in Open and Distributed Learning, 27(2), 46–66. https://doi.org/10.19173/irrodl.v27i2.9189
 
-`q3 · i?` · `causal · r?`
+`q2 · i?` · `causal · r?`
 
-Quasi-experimental pretest-posttest study with 58 graduate students; statistical analyses and lag sequential analysis evaluated a symbiosis theory-based role intervention. The article reports the role design "significantly enhanced the quality of collaborative knowledge construction"; no effect size is printed in the supplied text.
+Pretest-posttest study with 58 graduate students and no comparison group reported in the abstract, so the change cannot be attributed to the role design alone; statistical analyses and lag sequential analysis evaluated a symbiosis theory-based role intervention. The article reports the role design "significantly enhanced the quality of collaborative knowledge construction"; no effect size is printed in the supplied text.
 
 > "The results indicated that the role design (a) significantly enhanced the quality of collaborative knowledge construction, (b) facilitated transitions among higher-order collaborative behaviors"
 

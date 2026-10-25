@@ -169,14 +169,27 @@ def agreed(v: dict, confirmed: dict):
     return [p for p in first if p in problems(c)]
 
 
+def current_digests(claims) -> set:
+    out = set()
+    for c in claims:
+        path = WIKI_ROOT / "claims" / f"{c}.md"
+        if path.exists():
+            title, entries = clb.units(path)
+            out |= {clb.page_digest(c, title, b, s) for a, b, s in entries}
+    return out
+
+
 def open_findings(judged=None, confirmed=None, done=None):
     """Entries with an agreed problem nobody has decided, and entries awaiting the second judge."""
     judged = load(OUT) if judged is None else judged
     confirmed = load(CONFIRM) if confirmed is None else confirmed
     done = reviewed() if done is None else done
     rows, waiting = [], 0
+    # Only verdicts on the page as it stands: a retitled or rewritten entry has a new
+    # digest, and the verdict on its old text no longer says anything about it.
+    current = current_digests({v["claim"] for v in judged.values()})
     for v in judged.values():
-        if "error" in v or v["page_digest"] in done:
+        if "error" in v or v["page_digest"] in done or v["page_digest"] not in current:
             continue
         a = agreed(v, confirmed)
         if a is None:
@@ -436,7 +449,8 @@ def main():
     print(f"judged {n}, ${spent:.2f}", file=sys.stderr)
     if not (a.claims or a.new):
         judged = load(OUT)
-        mine = [v for v in judged.values() if "error" not in v and v["claim"] in want]
+        live = {j[8] for j in jobs}      # verdicts on the entries as they stand
+        mine = [v for v in judged.values() if "error" not in v and v["digest"] in live]
         confirmed = load(CONFIRM)
         c = collections.Counter(p for v in mine for p in (agreed(v, confirmed) or []))
         cov = json.loads(COVERAGE.read_text(encoding="utf-8")) if COVERAGE.exists() else {}

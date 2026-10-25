@@ -34,6 +34,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q2` · `i3` large
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
+> **Design limits** · Juho Leinonen 2026: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i3` LLM responses received substantially higher likelihood estimates than real student code in programming question 1, and adding beginner mistakes did not reduce detectability there and may have increased it (Cliff's delta = -0.640 for bugs). [→ Juho Leinonen 2026](#juho-leinonen-2026)

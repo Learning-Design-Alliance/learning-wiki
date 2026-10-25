@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Liu YJ 2026: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` The AI-enhanced flipped classroom group's response rate was significantly higher than the traditional classroom group (p < 0.05) and the flipped classroom group (p < 0.01). [→ Liu YJ 2026](#liu-yj-2026)

@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q1` · `i3` large
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Xiao 2026: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q1 i3` Spearman correlation between WBLT perceived tool quality and panel presentation score was r=1.00 (p<0.001) across four GenARch teams; learning and engagement correlations were r=0.40. [→ Xiao 2026](#xiao-2026)

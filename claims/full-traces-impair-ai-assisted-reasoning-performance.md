@@ -33,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2`–`r3` · `q3` · `i2` medium
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Fernandes 2026: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i2` Participants solving ten LSAT-style problems with an open-weight verbose-trace model scored significantly worse in the Full-trace condition than in the Answer-only condition (d = -0.54) and the Summary-trace condition (d = -0.48). [→ Fernandes 2026](#fernandes-2026)

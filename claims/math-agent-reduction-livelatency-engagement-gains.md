@@ -33,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Udeshi 2026 (2): the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` A concise-response prompt on the Math Agent decreased time to full response latency (P50) by 32.7% ± 1.0% and increased behavioral engagement by 4.65 ± 2.98%. [→ Udeshi 2026](#udeshi-2026)

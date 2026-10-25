@@ -23,6 +23,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Gao X 2026: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` Three independent EAP instructors rated 15 anonymized material versions above 4.00 on academic fidelity, proficiency appropriateness, and teachability, with acceptable inter-rater reliability. [→ Gao X 2026](#gao-x-2026)

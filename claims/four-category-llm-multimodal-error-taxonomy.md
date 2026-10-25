@@ -42,6 +42,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · causal `r1` · `q2`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
+> **Design limits** · Akshay Syal 2026 (3): the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Examination of wrong answers yielded four main error categories: Context Misinterpretation, Mathematical Computation, Visual Processing, and Hybrid, with visual processing errors the most prevalent (17 of 34 multimodal errors). [→ Akshay Syal 2026](#akshay-syal-2026)

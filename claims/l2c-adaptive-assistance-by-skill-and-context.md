@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Wei Wang 2026: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Across learners, a novice (estimated skill 0) received more assistance than a more skilled learner (estimated skill 0.5), and assistance magnitude varied sharply around gates. [→ Wei Wang 2026](#wei-wang-2026)

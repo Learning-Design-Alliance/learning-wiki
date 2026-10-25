@@ -14105,13 +14105,13 @@
 "type":"claim"
 },
 {
-"description":"AI-supported PBL students obtain significantly higher posttest computational thinking scores than traditional-lecture students when controlling pretest scores",
+"description":"AI-supported PBL students reported higher computational thinking on a self-report scale than traditional-lecture students, controlling for pretest scores",
 "evidence_strength":"moderate",
 "id":"ai-pbl-higher-posttest-computational-thinking",
 "newest_evidence":"2026",
 "path":"claims/ai-pbl-higher-posttest-computational-thinking.md",
 "status":"review",
-"title":"AI-supported PBL students obtain significantly higher posttest computational thinking scores than traditional-lecture students when controlling pretest scores",
+"title":"AI-supported PBL students reported higher computational thinking on a self-report scale than traditional-lecture students, controlling for pretest scores",
 "type":"claim"
 },
 {
@@ -30665,13 +30665,13 @@
 "type":"claim"
 },
 {
-"description":"Both male and female students show statistically significant medium-sized gains in AI knowledge and confidence after a one-day AI literacy workshop",
+"description":"Both male and female students rated their AI knowledge and confidence significantly higher after a one-day AI literacy workshop, which had no comparison group",
 "evidence_strength":"moderate",
 "id":"both-genders-gain-ai-knowledge-confidence-workshop",
 "newest_evidence":"2026",
 "path":"claims/both-genders-gain-ai-knowledge-confidence-workshop.md",
 "status":"review",
-"title":"Both male and female students show statistically significant medium-sized gains in AI knowledge and confidence after a one-day AI literacy workshop",
+"title":"Both male and female students rated their AI knowledge and confidence significantly higher after a one-day AI literacy workshop, which had no comparison group",
 "type":"claim"
 },
 {
@@ -102898,14 +102898,13 @@
 },
 {
 "aliases":["both-groups-improved-cps-gai-larger-gains"],
-"description":"GAI-assisted DST creation produced significantly higher collaborative problem-solving skills than traditional methods among university students",
+"description":"University students who created digital stories with generative-AI help rated their own collaborative problem-solving skills higher than traditionally taught students",
 "evidence_strength":"moderate",
 "id":"gai-assisted-dst-improves-cps-skills",
 "newest_evidence":"2025",
 "path":"claims/gai-assisted-dst-improves-cps-skills.md",
-"source_checked":"2026-10-16",
 "status":"review",
-"title":"GAI-assisted DST creation produced significantly higher collaborative problem-solving skills than traditional methods among university students",
+"title":"University students who created digital stories with generative-AI help rated their own collaborative problem-solving skills higher than traditionally taught students",
 "type":"claim"
 },
 {
@@ -221375,14 +221374,13 @@
 "type":"claim"
 },
 {
-"description":"Symbiosis theory-based role design significantly enhances the quality of collaborative knowledge construction in human-GAI online collaboration",
+"description":"Collaborative knowledge construction among graduate students working with generative AI online was of higher quality after a symbiosis theory-based role design than before it, in a pretest-posttest study with no comparison group reported",
 "evidence_strength":"moderate",
 "id":"role-design-enhances-collaborative-knowledge-construction-quality",
 "newest_evidence":"2026",
 "path":"claims/role-design-enhances-collaborative-knowledge-construction-quality.md",
-"source_checked":"2026-10-20",
 "status":"review",
-"title":"Symbiosis theory-based role design significantly enhances the quality of collaborative knowledge construction in human-GAI online collaboration",
+"title":"Collaborative knowledge construction among graduate students working with generative AI online was of higher quality after a symbiosis theory-based role design than before it, in a pretest-posttest study with no comparison group reported",
 "type":"claim"
 },
 {
@@ -248352,14 +248350,13 @@
 "type":"claim"
 },
 {
-"description":"Structured AI-supported writing instruction produced a very large posttest advantage in digital critical thinking/AI literacy (DCTS) over traditional instruction",
+"description":"Students taught with a structured AI-supported writing workflow rated their own digital critical thinking and AI literacy much higher at posttest than traditionally taught students",
 "evidence_strength":"moderate",
 "id":"structured-ai-workflow-dcts-gains-efl",
 "newest_evidence":"2026",
 "path":"claims/structured-ai-workflow-dcts-gains-efl.md",
-"source_checked":"2026-10-17",
 "status":"review",
-"title":"Structured AI-supported writing instruction produced a very large posttest advantage in digital critical thinking/AI literacy (DCTS) over traditional instruction",
+"title":"Students taught with a structured AI-supported writing workflow rated their own digital critical thinking and AI literacy much higher at posttest than traditionally taught students",
 "type":"claim"
 },
 {

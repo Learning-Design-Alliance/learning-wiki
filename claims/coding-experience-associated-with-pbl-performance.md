@@ -48,4 +48,4 @@ Exploratory student-level OLS analysis, visualized in Figure 2 (right panel), re
 - [AI-supported PBL cohorts produced sixteen student-authored peer-reviewed publications and consistently high peer evaluations](pbl-ai-sixteen-publications-high-peer-evaluations.md) — related
 - [First-year students report coexisting high approval of AI-enabled courses and high self-reported psychological strain, with strain indicators endorsed by more than two-thirds of the sample](high-support-high-strain-coexistence-first-years.md) — related
 - Cluster analysis of self-reported GenAI use identifies five profiles, including a strategic high-usage profile low on code generation but high on debugging and explanations — related
-- [AI-supported PBL students obtain significantly higher posttest computational thinking scores than traditional-lecture students when controlling pretest scores](ai-pbl-higher-posttest-computational-thinking.md) — related
+- [AI-supported PBL students reported higher computational thinking on a self-report scale than traditional-lecture students, controlling for pretest scores](ai-pbl-higher-posttest-computational-thinking.md) — related

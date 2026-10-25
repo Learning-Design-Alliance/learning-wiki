@@ -33,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q2` · `i1` small
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · YoungHoon Jeon 2026: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i1` Theory-based agents significantly outperform non-theory agents on Problem-centered design (d = 0.28) and Activation of prior knowledge (d = 0.29), both p < 0.001. [→ YoungHoon Jeon 2026](#younghoon-jeon-2026)

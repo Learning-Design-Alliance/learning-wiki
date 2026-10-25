@@ -41,6 +41,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · qualitative `r2`–`r3` · `q2` · `i3` large
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Marques 2026: groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i3` Across all collected data (n = 22 case observations), using the FACTRIA-aware chatbot significantly increased the average number of sub-factors addressed per case, with a very large effect size (d = 2.1530). [→ Marques 2026](#marques-2026)

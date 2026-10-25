@@ -27,6 +27,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
 > **Currency** · newest study 2026 · checked against its sources 2026-10-21 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
+> **Design limits** · Tahreem Yasir 2026: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Contrary to prior LLM-as-Judge findings, Judge feedback did not consistently improve feedback quality; when Peer agents missed errors, Judge agents often propagated rather than corrected them. [→ Tahreem Yasir 2026](#tahreem-yasir-2026)

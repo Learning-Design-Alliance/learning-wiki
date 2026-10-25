@@ -34,6 +34,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r3` · `q3` · `i2` medium
 > **Currency** · newest study 2025 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
+> **Design limits** · Guido Makransky 2025: groups were assigned but students were analysed as independent · Guido Makransky 2025 (2): groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i2` The one-way ANOVA showed a significant effect of learning condition on follow-up conceptual knowledge, η2 = 0.088. [→ Guido Makransky 2025](#guido-makransky-2025)

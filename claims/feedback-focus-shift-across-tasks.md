@@ -24,6 +24,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
 > **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
+> **Design limits** · Tang J 2026: groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` In the second task, teacher feedback on content and argumentation (M = 1.11) significantly exceeded AI-assisted peer feedback (M = 0.40), t(59) = −2.68, P = .010. [→ Tang J 2026](#tang-j-2026)

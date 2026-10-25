@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
 > **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Jošt 2024: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` Use of LLMs for seeking additional explanations shows no statistically significant correlation with final grades (Spearman's rho = -0.201, p = 0.135). [→ Jošt 2024](#jost-2024)

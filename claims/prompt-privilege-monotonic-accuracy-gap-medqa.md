@@ -42,6 +42,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · causal `r1` · `q2`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
+> **Design limits** · Lier Jin 2026 (3): the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Across semantically equivalent MedQA prompts answered by the same model, accuracy exhibits a consistent monotonic trend in which it increases with prompt sophistication. [→ Lier Jin 2026](#lier-jin-2026)

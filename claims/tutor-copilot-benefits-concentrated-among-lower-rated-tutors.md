@@ -33,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r3` · `q4`
 > **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Rose E. Wang 2025: groups were assigned but students were analysed as independent · Rose E. Wang 2025 (2): groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q4 i?` Lower-rated tutors' students gained 9 p.p. in exit-ticket passing (56%→65%) and lower-experienced tutors' students gained 7 p.p. (61%→68%). [→ Rose E. Wang 2025](#rose-e-wang-2025)

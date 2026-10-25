@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Xiaotian Su 2026: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i2` Final-essay coverage by verbatim AI-response text averaged 27.32% under Engage-to-Unlock versus 47.16% under Standard Chatbot (pHolm=.002, d=−0.47), with no significant difference from Time-Matched Unlock (24.51%, pHolm=.617). [→ Xiaotian Su 2026](#xiaotian-su-2026)

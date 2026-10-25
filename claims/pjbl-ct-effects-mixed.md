@@ -69,7 +69,7 @@ Independent-groups pre-post study (Burris & Garton, 2007), n = 77 PBL vs 63 cont
 ## Related Claims
 - [The two included studies on HOT both reported positive effects of P(j)BL on higher-order thinking](pjbl-hot-two-positive-studies.md) — related
 - The review identifies design issues in P(j)BL effect studies, such as lack of control groups, that question reported outcomes — related
-- [AI-supported PBL students obtain significantly higher posttest computational thinking scores than traditional-lecture students when controlling pretest scores](ai-pbl-higher-posttest-computational-thinking.md) — related
+- [AI-supported PBL students reported higher computational thinking on a self-report scale than traditional-lecture students, controlling for pretest scores](ai-pbl-higher-posttest-computational-thinking.md) — related
 - [AI-supported PBL students obtain significantly higher posttest academic achievement scores in robotics programming than traditional-lecture students when controlling pretest scores](ai-pbl-higher-posttest-academic-achievement.md) — related
 - [Problem-based learning environments consistently improve students' critical thinking compared with lecture-based instruction](pbl-consistently-improves-critical-thinking.md) — reports the opposite
 - P(j)BL research conceptualizes CT more often as processes than as dispositions, and many studies define and measure CT inconsistently — related

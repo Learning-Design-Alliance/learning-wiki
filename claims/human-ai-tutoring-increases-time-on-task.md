@@ -34,6 +34,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
 > **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
+> **Design limits** · Ashish Gurung 2026 (2): the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Human-AI tutoring significantly increased student time on task in IXL (25% in the IK bandwidth), and time on task did not differ reliably between proactive and reactive tutoring. [→ Ashish Gurung 2026](#ashish-gurung-2026)

@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q1`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Xiao 2026: groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q1 i?` GenAI primarily supported ideation and visual reference generation, while XR enabled contextual and spatial understanding, including perceiving architectural elements at realistic scale. [→ Xiao 2026](#xiao-2026)

@@ -33,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i1`–`i3`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Fernandes 2026: the intervention came bundled with another change · Fernandes 2026 (2): the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i3` Perceived performance significantly exceeded actual performance in every condition (Answer-only d = .85; Full-trace d = 1.21; Summary-trace d = .97). [→ Fernandes 2026](#fernandes-2026)

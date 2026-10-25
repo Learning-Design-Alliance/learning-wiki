@@ -34,6 +34,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
+> **Design limits** · Sagnik Nath 2026 (2): no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Under the code-augmented condition, failures separate into protocol violations, execution failures, and mathematically incorrect computations, and models differ markedly in where they fail. [→ Sagnik Nath 2026](#sagnik-nath-2026)

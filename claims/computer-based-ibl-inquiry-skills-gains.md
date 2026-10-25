@@ -47,4 +47,4 @@ Same quasi-experimental study, inquiry skills test (TIPS II-based, 19 items). Pa
 ## Related Claims
 - [Middle school students in inquiry-based computer-based learning environments gain more conceptual understanding of force and energy than peers in regular inquiry-based classrooms](computer-based-ibl-greater-conceptual-understanding-gains.md) — related
 - [No significant difference in motivation for learning science between computer-based and regular-classroom inquiry groups](no-motivation-difference-ibl-environments.md) — related
-- [AI-supported PBL students obtain significantly higher posttest computational thinking scores than traditional-lecture students when controlling pretest scores](ai-pbl-higher-posttest-computational-thinking.md) — related
+- [AI-supported PBL students reported higher computational thinking on a self-report scale than traditional-lecture students, controlling for pretest scores](ai-pbl-higher-posttest-computational-thinking.md) — related

@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Grace Liu 2026: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` 61% of AI-condition participants in Experiment 2 reported using the AI primarily to get answers directly; 27% for hints or clarifications; 12% reported no usage. [→ Grace Liu 2026](#grace-liu-2026)

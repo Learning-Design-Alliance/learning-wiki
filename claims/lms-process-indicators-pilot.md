@@ -26,6 +26,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
+> **Design limits** · Bin Bakheet 2026: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` System-generated LMS logs for the experimental group captured interaction patterns, mastery progression, remediation cycles, and adaptive redirection across the intervention. [→ Bin Bakheet 2026](#bin-bakheet-2026)

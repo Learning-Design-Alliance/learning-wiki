@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Structured AI-supported writing instruction produced a very large posttest advantage in digital critical thinking/AI literacy (DCTS) over traditional instruction
-description: Structured AI-supported writing instruction produced a very large posttest advantage in digital critical thinking/AI literacy (DCTS) over traditional instruction
+title: Students taught with a structured AI-supported writing workflow rated their own digital critical thinking and AI literacy much higher at posttest than traditionally taught students
+description: Students taught with a structured AI-supported writing workflow rated their own digital critical thinking and AI literacy much higher at posttest than traditionally taught students
 id: structured-ai-workflow-dcts-gains-efl
 status: review
 generated:
@@ -9,7 +9,6 @@ generated:
   at: 2026-10-11
 evidence_strength: moderate
 newest_evidence: 2026
-source_checked: 2026-10-17
 sources:
   - id: alshehri-oao-2026
     resource: "https://doi.org/10.3389/fpsyg.2026.1830103"
@@ -29,11 +28,12 @@ sources:
     rigour: 2
 ---
 
-# Structured AI-supported writing instruction produced a very large posttest advantage in digital critical thinking/AI literacy (DCTS) over traditional instruction
+# Students taught with a structured AI-supported writing workflow rated their own digital critical thinking and AI literacy much higher at posttest than traditionally taught students
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2` · `i3` large
-> **Currency** · newest study 2026 · checked against its sources 2026-10-17 (automated, 2 of 2 entries) · not reviewed by a person
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Alshehri OAO 2026: groups were assigned but students were analysed as independent · Alshehri OAO 2026 (2): groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i3` At posttest, the experimental group scored far higher than controls on the Digital Critical Thinking Scale total, with a mean difference of 33.66 points and Hedges' g = 3.41. [→ Alshehri OAO 2026](#alshehri-oao-2026)

@@ -34,6 +34,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
+> **Design limits** · Yanick Zengaffinen 2026: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` An oracle ranker raises DEEPSEEK-V3.2's proportional match from 0.52 to 0.67 on Eedi and from 0.14 to 0.29 on SciQ, showing the model proposes valid distractors it then discards. [→ Yanick Zengaffinen 2026](#yanick-zengaffinen-2026)

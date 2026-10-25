@@ -46,4 +46,4 @@ Cross-sectional online survey of in-service secondary science educators in Germa
 
 
 ## Related Claims
-- [Structured AI-supported writing instruction produced a very large posttest advantage in digital critical thinking/AI literacy (DCTS) over traditional instruction](structured-ai-workflow-dcts-gains-efl.md) — related
+- [Students taught with a structured AI-supported writing workflow rated their own digital critical thinking and AI literacy much higher at posttest than traditionally taught students](structured-ai-workflow-dcts-gains-efl.md) — related
