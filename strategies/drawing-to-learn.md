@@ -72,6 +72,6 @@ Drawing is a generative learning activity: it requires learners to select key in
 
 ## Key Sources
 - Fiorella, L., & Mayer, R. E. (2016). Eight ways to promote generative learning. *Educational Psychology Review, 28*(4), 717–741. [doi:10.1007/s10648-015-9348-9](https://doi.org/10.1007/s10648-015-9348-9)
-- Van Meter, P., & Garner, J. (2005). The promise and practice of learner-generated drawing: Literature review and directions for future research. *Educational Psychology Review, 17*(4), 285–325. [doi:10.1007/s10648-005-8126-3](https://doi.org/10.1007/s10648-005-8126-3)
+- Van Meter, P., & Garner, J. (2005). The promise and practice of learner-generated drawing: Literature review and directions for future research. *Educational Psychology Review, 17*(4), 285–325. [doi:10.1007/s10648-005-8136-3](https://doi.org/10.1007/s10648-005-8136-3)
 - Ainsworth, S., Prain, V., & Tytler, R. (2011). Drawing to learn in science. *Science, 333*(6046), 1096–1097. [doi:10.1126/science.1204153](https://doi.org/10.1126/science.1204153)
 - Schwamborn, A., Mayer, R. E., Thillmann, H., Leopold, C., & Leutner, D. (2010). Drawing as a generative activity and drawing as a prognostic activity. *Journal of Educational Psychology, 102*(4), 872–883. [doi:10.1037/a0019640](https://doi.org/10.1037/a0019640)

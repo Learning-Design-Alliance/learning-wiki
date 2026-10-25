@@ -13,7 +13,6 @@ sources:
     title: "Bowers, P. N., Kirby, J. R., & Deacon, S. H. (2010). The effects of morphological instruction on literacy skills: A systematic review of the literature. *Educational Psychology Review, 22*(2), 257–288"
     author: "Bowers, P. N., Kirby, J. R., & Deacon, S. H"
   - id: goodwin-ahn-2013
-    resource: "https://doi.org/10.1080/10888438.2011.621187"
     title: "Goodwin, A. P., & Ahn, S. (2013). A meta-analysis of morphological interventions in English: Effects on literacy outcomes for school-age children. *Scientific Studies of Reading, 17*(4), 257–285"
     author: "Goodwin, A. P., & Ahn, S"
   - id: carlisle-2010

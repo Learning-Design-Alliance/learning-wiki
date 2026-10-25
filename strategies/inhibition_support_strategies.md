@@ -30,7 +30,7 @@ Inhibition is a limited-capacity executive function; instructional design that r
 #### Constraints
 - Highly stimulating or cluttered environments undermine inhibition supports; salient irrelevant features capture attention even when learners are instructed to ignore them [Relevancy of emphasis directs attention.](../claims/relevancy-of-emphasis-directs-attention.md) [-M]
 - Supports that remain permanently in place can become crutches; without fading, learners do not develop independent inhibitory control [Fading support promotes transfer of responsibility.](../claims/fading-support-promotes-transfer-of-responsibility.md) [+M]
-- Inhibition training in isolation (e.g., decontextualized brain-training tasks) shows poor far transfer to academic outcomes [Executive function interventions show limited far transfer without contextual practice.](https://doi.org/10.1126/science.1195351) [~M]
+- Inhibition training in isolation (e.g., decontextualized brain-training tasks) shows poor far transfer to academic outcomes Executive function interventions show limited far transfer without contextual practice.
 
 #### Implementation Variability
 - Environmental: reduce distractors, seat learners away from high-traffic areas, use noise-reducing headphones

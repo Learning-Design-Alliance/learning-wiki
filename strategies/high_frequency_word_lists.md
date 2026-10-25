@@ -19,7 +19,7 @@ High-frequency word lists (e.g., the Dolch list of 220 service words and the Fry
 
 ## Design Implications
 
-Automatic recognition of high-frequency words reduces the working-memory burden of reading, allowing comprehension processes to operate on meaning rather than word identification [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]. Words become sight words fastest when learners attend to letter–sound correspondences and spelling patterns, even for irregular words — mapping letters to sounds is more effective than visual memorization of word shapes [Ehri's phases of word reading](https://doi.org/10.1207/s1532799xssr0902_5) [+S]. Practice should be brief, frequent, and spaced rather than massed [Distributed practice improves retention.](../claims/spaced-practice-improves-retention.md) [+S].
+Automatic recognition of high-frequency words reduces the working-memory burden of reading, allowing comprehension processes to operate on meaning rather than word identification [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]. Words become sight words fastest when learners attend to letter–sound correspondences and spelling patterns, even for irregular words — mapping letters to sounds is more effective than visual memorization of word shapes Ehri's phases of word reading. Practice should be brief, frequent, and spaced rather than massed [Distributed practice improves retention.](../claims/spaced-practice-improves-retention.md) [+S].
 
 ### Context
 #### Requirements
@@ -29,7 +29,7 @@ Automatic recognition of high-frequency words reduces the working-memory burden 
 - Progress monitoring so instruction targets the specific words each learner has not yet automatized
 
 #### Constraints
-- Rote memorization of whole-word shapes without letter–sound analysis produces fragile learning and can interfere with decoding development [Whole-word shape memorization is less effective than orthographic mapping.](https://doi.org/10.1207/s1532799xssr0902_5) [-M]
+- Rote memorization of whole-word shapes without letter–sound analysis produces fragile learning and can interfere with decoding development Whole-word shape memorization is less effective than orthographic mapping.
 - Drill in isolation without reading connected text limits transfer; words must be encountered in meaningful context [~M]
 - Overloading learners with too many new words at once exceeds working memory limits [Cognitive overload degrades learning.](../claims/cognitive-overload-degrades-learning.md) [-S] — introduce 3–5 new words per session
 - Word-shape worksheets (memorizing outlines) have weak evidence compared with mapping activities [-W]

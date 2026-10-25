@@ -82,7 +82,7 @@ Cooperative learning reliably improves achievement when both interdependence and
 - Less effective for learners who lack the prerequisite knowledge to contribute meaningfully to discussion — pair with [Advance Organizers](../elements/advance-organizers.md) or prior individual preparation
 - Learners who benefit from verbalizing reasoning — explaining to peers consolidates understanding [~M]
 - Less suitable as a default for novices on high-element-interactivity material, where initial [Cognitive Load Management](../principles/cognitive-load-management.md) may be better served by explicit guidance before collaboration
-- Learners across achievement levels; meta-analytic evidence shows gains for high, average, and low achievers alike [Springer et al., 1999](https://doi.org/10.1037/0033-2909.125.5.607) [+S]
+- Learners across achievement levels; meta-analytic evidence shows gains for high, average, and low achievers alike Springer et al., 1999
 - Learners who benefit from verbalizing reasoning — explaining to a peer is itself an elaboration activity [+M]
 - Learners at risk of disengagement, for whom group membership provides belonging and accountability [+M]
 - Less suited to learners who already have strong independent mastery of the target skill and gain little from peer explanation [~W]
@@ -262,7 +262,7 @@ Cooperative learning works because talking through ideas with peers forces elabo
 - **Structured dyads**: peer tutoring or reciprocal [Peer Collaboration](../elements/peer-collaboration.md) with rotating explainer/listener roles
 
 ### Target Learners
-- Learners across achievement levels; meta-analytic evidence shows gains for high, average, and low achievers alike [Springer et al., 1999](https://doi.org/10.1037/0033-2909.125.5.607) [+S]
+- Learners across achievement levels; meta-analytic evidence shows gains for high, average, and low achievers alike Springer et al., 1999
 - Learners who benefit from verbalizing reasoning — explaining to a peer is itself an elaboration activity [+M]
 - Learners at risk of disengagement, for whom group membership provides belonging and accountability [+M]
 - Less suited to learners who already have strong independent mastery of the target skill and gain little from peer explanation [~W]

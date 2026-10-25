@@ -20,7 +20,7 @@ A calm-down corner is a designated, non-punitive classroom space stocked with re
 
 ## Design Implications
 
-Calm-down corners operationalize emotion regulation instruction by giving learners a physical context in which to rehearse strategies (breathing, self-talk, sensory grounding) at the moment of dysregulation, when skills are hardest to deploy [Gross, 2015](https://doi.org/10.1146/annurev-psych-010213-115202) [+M]. Their effectiveness depends on prior explicit teaching of the strategies and on framing the space as supportive rather than punitive; SEL programs that teach regulation skills with practice opportunities show measurable gains in behavior and attitudes [Durlak et al., 2011](https://doi.org/10.1111/j.1467-8624.2010.01564) [+S].
+Calm-down corners operationalize emotion regulation instruction by giving learners a physical context in which to rehearse strategies (breathing, self-talk, sensory grounding) at the moment of dysregulation, when skills are hardest to deploy [Gross, 2015](https://doi.org/10.1146/annurev-psych-010213-115202) [+M]. Their effectiveness depends on prior explicit teaching of the strategies and on framing the space as supportive rather than punitive; SEL programs that teach regulation skills with practice opportunities show measurable gains in behavior and attitudes Durlak et al., 2011.
 
 ### Context
 #### Requirements

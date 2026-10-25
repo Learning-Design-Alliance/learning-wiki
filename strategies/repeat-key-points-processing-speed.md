@@ -15,7 +15,7 @@ generated:
 > **Evidence** · 4 claims (3 for, 1 mixed) · 13 studies (5 causal, 5 quant-synthesis, 2 review, 1 associational), `q2`–`q4` · 3 of 13 report an effect size · 1 claim rests on one study
 
 ## Description
-This strategy reinforces essential information by restating key points multiple times and in multiple forms — verbal repetition, rephrasing, visual summaries, and worked demonstrations. It is primarily an accommodation for learners with slower processing speed: because these learners need more time to encode and consolidate incoming information, deliberate redundancy prevents critical content from being lost before it is consolidated. The repetition must be *varied* — verbatim looping adds little, while rephrasing and re-modality presentation deepen encoding [Levels-of-processing research shows deeper, varied encoding improves retention.](https://doi.org/10.1016/S0010-0277(72)80001-3) [+S].
+This strategy reinforces essential information by restating key points multiple times and in multiple forms — verbal repetition, rephrasing, visual summaries, and worked demonstrations. It is primarily an accommodation for learners with slower processing speed: because these learners need more time to encode and consolidate incoming information, deliberate redundancy prevents critical content from being lost before it is consolidated. The repetition must be *varied* — verbatim looping adds little, while rephrasing and re-modality presentation deepen encoding Levels-of-processing research shows deeper, varied encoding improves retention. [+S].
 
 ## Design Implications
 

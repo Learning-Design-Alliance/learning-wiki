@@ -15,7 +15,7 @@ sources:
     title: "Gellevij, M., Van der Meij, H., de Jong, T., & Pieters, J. (2002). Multimodal versus unimodal instruction in a complex learning context. *The Journal of Experimental Education, 70*(3), 215-239"
     author: "Gellevij, M., Van der Meij, H., de Jong, T., & Pieters, J"
   - id: holmström-2018
-    resource: "https://doi.org/10.1515/applirev-2017-0071"
+    resource: "https://doi.org/10.1515/applirev-2017-0078"
     title: "Holmström, I., & Schönström, K. (2018). Deaf lecturers' translanguaging in a higher education setting: A multimodal multilingual perspective. *Applied Linguistics Review, 9*(1), 90-111"
     author: "Holmström, I., & Schönström, K"
   - id: givens-2019
@@ -187,7 +187,7 @@ A learner's preference for a mode, immediate comprehension, the ability to trans
 
 ## Key Sources
 - Gellevij, M., Van der Meij, H., de Jong, T., & Pieters, J. (2002). Multimodal versus unimodal instruction in a complex learning context. *The Journal of Experimental Education, 70*(3), 215-239. [https://doi.org/10.1080/00220970209599507](https://doi.org/10.1080/00220970209599507)
-- Holmström, I., & Schönström, K. (2018). Deaf lecturers' translanguaging in a higher education setting: A multimodal multilingual perspective. *Applied Linguistics Review, 9*(1), 90-111. [https://doi.org/10.1515/applirev-2017-0071](https://doi.org/10.1515/applirev-2017-0071)
+- Holmström, I., & Schönström, K. (2018). Deaf lecturers' translanguaging in a higher education setting: A multimodal multilingual perspective. *Applied Linguistics Review, 9*(1), 90-111. [https://doi.org/10.1515/applirev-2017-0078](https://doi.org/10.1515/applirev-2017-0078)
 - Givens, M., Holdsworth, L., Mi, X., Rascoe, F., Valk, A., & Viars, K. E. (2019). Multimodal information literacy in higher education: Critical thinking, technology, and technical skill. In *Handbook of research on integrating digital technology with literacy pedagogies* (pp. 97-120). IGI Global. [https://doi.org/10.4018/978-1-7998-0246-4.ch005](https://doi.org/10.4018/978-1-7998-0246-4.ch005)
 - Lin, L.-F. (2016). The Impact of Video-based Materials on Chinese-Speaking Learners’ English Text Comprehension. English Language Teaching, 9(10). https://doi.org/10.5539/elt.v9n10p1
 

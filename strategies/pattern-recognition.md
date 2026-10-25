@@ -20,7 +20,7 @@ Pattern recognition as a strategy presents learners with multiple, deliberately 
 
 ## Design Implications
 
-Learning a concept means learning which features matter and which do not; multiple varied examples are the primary way learners acquire that discrimination [Multiple varied examples improve transfer by highlighting invariant structure.](../claims/cognitive-flexibility-theory-multiple-cases.md) [+M]. Comparison across cases is more effective than studying examples one at a time, because juxtaposition makes the common structure perceptually and cognitively salient [Comparing multiple analogs improves analogical transfer.](https://doi.org/10.1016/0010-0285(83)90018-3) [+S]. However, learners often fail to notice patterns spontaneously; prompting them to compare, explain, or self-explain is usually necessary [Eliciting self-explanations improves understanding.](https://doi.org/10.1207/s15516709cog1804_3) [+S]. A productive sequence is exploration before explanation: letting learners struggle with varied cases first prepares them to learn from the subsequent telling [Preparation for future learning: contrasting cases before instruction improves learning from lecture.](https://doi.org/10.1207/s1532690xci1604_4) [+S].
+Learning a concept means learning which features matter and which do not; multiple varied examples are the primary way learners acquire that discrimination [Multiple varied examples improve transfer by highlighting invariant structure.](../claims/cognitive-flexibility-theory-multiple-cases.md) [+M]. Comparison across cases is more effective than studying examples one at a time, because juxtaposition makes the common structure perceptually and cognitively salient Comparing multiple analogs improves analogical transfer. [+S]. However, learners often fail to notice patterns spontaneously; prompting them to compare, explain, or self-explain is usually necessary [Eliciting self-explanations improves understanding.](https://doi.org/10.1207/s15516709cog1804_3) [+S]. A productive sequence is exploration before explanation: letting learners struggle with varied cases first prepares them to learn from the subsequent telling [Preparation for future learning: contrasting cases before instruction improves learning from lecture.](https://doi.org/10.1207/s1532690xci1604_4) [+S].
 
 ### Context
 #### Requirements
@@ -55,7 +55,7 @@ Learning a concept means learning which features matter and which do not; multip
 - **Learner-generated patterns:** students create their own groupings, mnemonics, or visual structures, which supports personalization and deeper processing
 
 ### Target Learners
-- Novices who otherwise anchor on surface features when classifying problems [Comparing multiple analogs improves analogical transfer.](https://doi.org/10.1016/0010-0285(83)90018-3) [+S]
+- Novices who otherwise anchor on surface features when classifying problems Comparing multiple analogs improves analogical transfer. [+S]
 - Intermediate learners building flexible, multi-case representations of a domain [Multiple varied examples improve transfer by highlighting invariant structure.](../claims/cognitive-flexibility-theory-multiple-cases.md) [+M]
 - Less effective as pure discovery for complete novices without comparison prompts [Cognitive overload degrades learning.](../claims/cognitive-overload-degrades-learning.md) [-S]
 - Novices who lack organized schemas and default to surface-feature reasoning ([Chi et al., 1981](https://doi.org/10.1207/s15516709cog0502_2)) [+M]
@@ -91,7 +91,7 @@ Learning a concept means learning which features matter and which do not; multip
 - **[Harvard Business School case method](https://www.hbs.edu/mba/academic-experience/Pages/the-hbs-case-method.aspx)** — repeated case discussion across sessions builds recognition of recurring managerial decision patterns.
 - **[Concept Attainment](../patterns/concept-attainment.md)** — Bruner's model presents positive and negative instances; learners induce the defining attributes, making pattern detection the core activity.
 - **[Schwartz & Bransford's contrasting cases](https://doi.org/10.1207/s15516709cog2204_2)** — students analyze contrasting graphical data patterns before a lecture, which doubles later learning from the explanation.
-- **Chess instruction** — learners study master games position-by-position, building a repertoire of board patterns ([Chase & Simon, 1973](https://doi.org/10.1016/0010-0285(73)90004-0)).
+- **Chess instruction** — learners study master games position-by-position, building a repertoire of board patterns (Chase & Simon, 1973).
 - **Physics problem sorting** — students sort problems into categories by solution principle rather than topic, directly training deep-structure recognition ([Chi et al., 1981](https://doi.org/10.1207/s15516709cog0502_2)).
 
 ## Key Sources
@@ -165,7 +165,7 @@ Pattern recognition converts isolated facts into structured knowledge, reducing 
 ## Examples
 - **[Concept Attainment](../patterns/concept-attainment.md)** — Bruner's model presents positive and negative instances; learners induce the defining attributes, making pattern detection the core activity.
 - **[Schwartz & Bransford's contrasting cases](https://doi.org/10.1207/s15516709cog2204_2)** — students analyze contrasting graphical data patterns before a lecture, which doubles later learning from the explanation.
-- **Chess instruction** — learners study master games position-by-position, building a repertoire of board patterns ([Chase & Simon, 1973](https://doi.org/10.1016/0010-0285(73)90004-0)).
+- **Chess instruction** — learners study master games position-by-position, building a repertoire of board patterns (Chase & Simon, 1973).
 - **Physics problem sorting** — students sort problems into categories by solution principle rather than topic, directly training deep-structure recognition [Chi et al., 1981].
 
 ## Key Sources

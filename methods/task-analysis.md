@@ -70,6 +70,6 @@ Task analysis is the diagnostic foundation of instructional design: without an a
 ## Key Sources
 - Jonassen, D. H., Tessmer, M., & Hannum, W. H. (1999). *Task analysis methods for instructional design*. Lawrence Erlbaum Associates. [doi:10.4324/9781410602657](https://doi.org/10.4324/9781410602657)
 - Clark, R. E., Feldon, D. F., van Merriënboer, J. J. G., Yates, K., & Early, S. (2008). Cognitive task analysis. In J. M. Spector et al. (Eds.), *Handbook of research on educational communications and technology* (3rd ed., pp. 577–593). Lawrence Erlbaum Associates.
-- van Merriënboer, J. J. G., Kirschner, P. A., & Kester, L. (2003). Taking the load off a learner's mind: Instructional design for complex learning. *Educational Technology Research and Development, 51*(3), 5–13. [doi:10.1007/BF02505062](https://doi.org/10.1007/BF02505062)
+- van Merriënboer, J. J. G., Kirschner, P. A., & Kester, L. (2003). Taking the load off a learner's mind: Instructional design for complex learning. *Educational Technology Research and Development, 51*(3), 5–13.
 - Schraagen, J. M., Chipman, S. F., & Shalin, V. L. (Eds.). (2000). *Cognitive task analysis*. Lawrence Erlbaum Associates. [doi:10.4324/9781410605795](https://doi.org/10.4324/9781410605795)
 - van Merriënboer, J. J. G., & Kirschner, P. A. (2007). *Ten steps to complex learning: A systematic approach to four-component instructional design*. Lawrence Erlbaum Associates. [doi:10.4324/9781410618054](https://doi.org/10.4324/9781410618054)

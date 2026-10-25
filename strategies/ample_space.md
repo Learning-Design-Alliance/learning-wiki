@@ -19,7 +19,7 @@ Ample space refers to designing learning environments with sufficient floor area
 
 ## Design Implications
 
-Physical environment features account for a measurable portion of variance in learning progress; spatial characteristics such as classroom area and layout flexibility are among the environmental factors linked to academic outcomes [Barrett et al. (2015) found classroom design features explained ~16% of variance in learning progress.](https://doi.org/10.1016/j.buildenv.2014.09.009) [+W]. Crowded or cluttered environments compete for attention: heavily decorated classrooms with dense visual displays reduce young learners' on-task attention and learning from instruction [Fisher, Godwin, & Seltman (2014) found children in visually cluttered classrooms spent more time off-task and learned less.](https://doi.org/10.1177/0956797613516509) [+S]. Space is not only a constraint on attention but an enabler of pedagogy — collaborative and active formats require room to reconfigure furniture and form groups [Active learning improves examination performance.](../claims/active-learning-improves-exam-performance.md) [+S].
+Physical environment features account for a measurable portion of variance in learning progress; spatial characteristics such as classroom area and layout flexibility are among the environmental factors linked to academic outcomes [Barrett et al. (2015) found classroom design features explained ~16% of variance in learning progress.](https://doi.org/10.1016/j.buildenv.2014.09.009) [+W]. Crowded or cluttered environments compete for attention: heavily decorated classrooms with dense visual displays reduce young learners' on-task attention and learning from instruction Fisher, Godwin, & Seltman (2014) found children in visually cluttered classrooms spent more time off-task and learned less.. Space is not only a constraint on attention but an enabler of pedagogy — collaborative and active formats require room to reconfigure furniture and form groups [Active learning improves examination performance.](../claims/active-learning-improves-exam-performance.md) [+S].
 
 ### Context
 #### Requirements
@@ -40,7 +40,7 @@ Physical environment features account for a measurable portion of variance in le
 - Outdoor and informal learning spaces as overflow capacity for collaborative work
 
 ### Target Learners
-- Young learners, who are especially vulnerable to visual distraction from cluttered environments [Fisher, Godwin, & Seltman (2014) found children in visually cluttered classrooms spent more time off-task and learned less.](https://doi.org/10.1177/0956797613516509) [+S]
+- Young learners, who are especially vulnerable to visual distraction from cluttered environments Fisher, Godwin, & Seltman (2014) found children in visually cluttered classrooms spent more time off-task and learned less.
 - Learners engaged in collaborative, project-based, or movement-dependent activities, where spatial constraints directly limit the pedagogy
 - Learners with attention difficulties or sensory sensitivities, for whom crowding and noise impose disproportionate load
 
@@ -51,7 +51,7 @@ Physical environment features account for a measurable portion of variance in le
 
 ### Instructions
 1. Audit current space: measure per-student area, map circulation paths, and inventory wall-display density.
-2. Declutter and thin visual displays, keeping only materials relevant to current instruction [Fisher, Godwin, & Seltman (2014) found children in visually cluttered classrooms spent more time off-task and learned less.](https://doi.org/10.1177/0956797613516509) [+S]
+2. Declutter and thin visual displays, keeping only materials relevant to current instruction Fisher, Godwin, & Seltman (2014) found children in visually cluttered classrooms spent more time off-task and learned less.
 3. Select movable furniture and define 2–3 standard configurations (individual, small group, whole class) with fast transition routines.
 4. Match layout to activity: reconfigure for [Collaboration](../elements/collaboration.md) and [Practice](../elements/practice.md) formats that require group access.
 5. Establish behavioral norms for movement and noise so added space supports rather than distracts from learning.

@@ -19,7 +19,7 @@ Emotion identification activities help learners recognize, name, and express emo
 
 ## Design Implications
 
-Accurate emotion labeling is a foundational component of social-emotional learning (SEL) programs, and meta-analytic evidence shows SEL interventions that include such skills improve both social-emotional competence and academic outcomes [Durlak et al.'s meta-analysis of 213 school-based SEL programs.](https://doi.org/10.1111/j.1467-8624.2010.01564) [+S]. Labeling emotions also supports self-regulation: affect labeling reduces amygdala reactivity and helps learners manage arousal rather than being managed by it [+M]. Activities work best when the instructor explicitly models expressions and reasoning — a form of [Demonstration](../elements/demonstration.md) — rather than only naming emotions verbally.
+Accurate emotion labeling is a foundational component of social-emotional learning (SEL) programs, and meta-analytic evidence shows SEL interventions that include such skills improve both social-emotional competence and academic outcomes Durlak et al.'s meta-analysis of 213 school-based SEL programs.. Labeling emotions also supports self-regulation: affect labeling reduces amygdala reactivity and helps learners manage arousal rather than being managed by it [+M]. Activities work best when the instructor explicitly models expressions and reasoning — a form of [Demonstration](../elements/demonstration.md) — rather than only naming emotions verbally.
 
 ### Context
 #### Requirements

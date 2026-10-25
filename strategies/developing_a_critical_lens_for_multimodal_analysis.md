@@ -19,7 +19,7 @@ Students develop a critical lens for multimodal analysis by examining how differ
 
 ## Design Implications
 
-This strategy applies social-semiotic analysis to composition instruction: learners cannot deliberately deploy multimodal resources they cannot perceive or name. Analyzing multiple contrasting cases across genres builds the flexible, condition-sensitive knowledge needed for transfer to new media [Analyzing multiple contrasting cases supports flexible knowledge transfer.](../claims/cognitive-flexibility-theory-multiple-cases.md) [+M]. Because meaning arises from the interaction of modes, analysis should focus on *combinations* rather than isolated elements — how placement, salience, and framing direct attention and imply relationships [Mayer, R. E. (2009). *Multimedia Learning* (2nd ed.)](https://doi.org/10.1017/CBO9781139168798) [+S].
+This strategy applies social-semiotic analysis to composition instruction: learners cannot deliberately deploy multimodal resources they cannot perceive or name. Analyzing multiple contrasting cases across genres builds the flexible, condition-sensitive knowledge needed for transfer to new media [Analyzing multiple contrasting cases supports flexible knowledge transfer.](../claims/cognitive-flexibility-theory-multiple-cases.md) [+M]. Because meaning arises from the interaction of modes, analysis should focus on *combinations* rather than isolated elements — how placement, salience, and framing direct attention and imply relationships Mayer, R. E. (2009). *Multimedia Learning* (2nd ed.).
 
 ### Context
 #### Requirements

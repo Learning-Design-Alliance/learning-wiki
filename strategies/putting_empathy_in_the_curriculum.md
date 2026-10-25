@@ -44,7 +44,7 @@ Empathy is teachable but not automatic: explicit instruction combined with persp
 ### Target Learners
 - K–12 students, where empathy instruction correlates with improved prosocial behavior and classroom climate [~M]
 - Higher-education students in design, health professions, and management, where perspective-taking is a professional competency [~M]
-- Adolescents and young adults, whose self-reported empathy has declined measurably over recent decades, making explicit instruction timely [Konrath et al. (2011)](https://doi.org/10.1177/1088868310387395) [+M]
+- Adolescents and young adults, whose self-reported empathy has declined measurably over recent decades, making explicit instruction timely Konrath et al. (2011)
 
 ### Target Learning Goals
 - Social-emotional learning: recognizing and responding to others' emotions

@@ -73,5 +73,5 @@ Fading operationalizes the [Scaffolding](../principles/scaffolding.md) principle
 ## Key Sources
 - Renkl, A., & Atkinson, R. K. (2003). Structuring the transition from example study to problem solving in cognitive skill acquisition: A cognitive load perspective. *Educational Psychologist, 38*(1), 15–22. [doi:10.1207/S15326985EP3801_3](https://doi.org/10.1207/S15326985EP3801_3)
 - Renkl, A., Atkinson, R. K., & Große, C. S. (2004). How fading worked solution steps works — a cognitive load perspective. *Instructional Science, 32*(1–2), 59–82. [doi:10.1023/b:truc.0000021815.74806.f6](https://doi.org/10.1023/b:truc.0000021815.74806.f6)
-- van Merriënboer, J. J. G., & Kirschner, P. A. (2018). *Ten steps to complex learning* (3rd ed.). Routledge. [doi:10.4324/9781315116271](https://doi.org/10.4324/9781315116271)
+- van Merriënboer, J. J. G., & Kirschner, P. A. (2018). *Ten steps to complex learning* (3rd ed.). Routledge. [doi:10.4324/9781315113210](https://doi.org/10.4324/9781315113210)
 - Sweller, J., van Merriënboer, J. J. G., & Paas, F. (2019). Cognitive architecture and instructional design: 20 years later. *Educational Psychology Review, 31*(2), 261–292. [doi:10.1007/s10648-019-09465-5](https://doi.org/10.1007/s10648-019-09465-5)

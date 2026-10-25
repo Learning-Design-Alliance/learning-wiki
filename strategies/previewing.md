@@ -19,7 +19,7 @@ Previewing prepares learners for upcoming tasks or materials by giving them a br
 
 ## Design Implications
 
-Previewing works by orienting attention and reducing uncertainty: learners who know the structure of what is coming can allocate working memory to content rather than to figuring out what they are supposed to do [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]. Advance organizers — abstract previews presented before material — produce small but consistent positive effects on learning and retention across a large meta-analytic base [+M]. Previewing also supports emotional readiness: knowing what to expect increases learners' sense of control, which reduces anxiety and supports engagement [Control-value appraisals shape achievement emotions such as anxiety and boredom.](https://doi.org/10.1037/0033-2909.132.4.531) [+M].
+Previewing works by orienting attention and reducing uncertainty: learners who know the structure of what is coming can allocate working memory to content rather than to figuring out what they are supposed to do [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]. Advance organizers — abstract previews presented before material — produce small but consistent positive effects on learning and retention across a large meta-analytic base [+M]. Previewing also supports emotional readiness: knowing what to expect increases learners' sense of control, which reduces anxiety and supports engagement Control-value appraisals shape achievement emotions such as anxiety and boredom..
 
 ### Context
 #### Requirements
@@ -43,7 +43,7 @@ Previewing works by orienting attention and reducing uncertainty: learners who k
 ### Target Learners
 - All learners benefit, but especially those with anxiety, attention challenges, impulse-control difficulties, or weak organization skills
 - Novices facing unfamiliar task structures, who otherwise spend effort orienting rather than learning [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]
-- Anxious learners, for whom predictability increases perceived control and reduces avoidance [Control-value appraisals shape achievement emotions such as anxiety and boredom.](https://doi.org/10.1037/0033-2909.132.4.531) [+M]
+- Anxious learners, for whom predictability increases perceived control and reduces avoidance Control-value appraisals shape achievement emotions such as anxiety and boredom.
 
 ### Target Learning Goals
 - Orientation and attention: directing learners to what matters in upcoming material

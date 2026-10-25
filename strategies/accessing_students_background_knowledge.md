@@ -19,7 +19,7 @@ This strategy involves intentionally eliciting and building on learners' existin
 
 ## Design Implications
 
-Prior knowledge is among the strongest predictors of new learning: what students already know determines what they can extract from instruction [Prior knowledge as a moderator of learning outcomes.](../claims/prior-knowledge-not-related-to-performance.md) [~M]. Comprehension research shows that passages are recalled far better when they connect to relevant background knowledge, even when the text itself is unchanged [Relevant background knowledge dramatically improves comprehension and recall.](https://doi.org/10.1037/0278-7393.4.4.368) [+S]. Activation must be *relevant* — generic warm-ups that do not map onto the target content can consume time without priming the right schemas [Activation activities only help when they surface knowledge relevant to the task.](../claims/relevancy-of-emphasis-directs-attention.md) [~M].
+Prior knowledge is among the strongest predictors of new learning: what students already know determines what they can extract from instruction [Prior knowledge as a moderator of learning outcomes.](../claims/prior-knowledge-not-related-to-performance.md) [~M]. Comprehension research shows that passages are recalled far better when they connect to relevant background knowledge, even when the text itself is unchanged Relevant background knowledge dramatically improves comprehension and recall.. Activation must be *relevant* — generic warm-ups that do not map onto the target content can consume time without priming the right schemas [Activation activities only help when they surface knowledge relevant to the task.](../claims/relevancy-of-emphasis-directs-attention.md) [~M].
 
 ### Context
 #### Requirements
@@ -41,7 +41,7 @@ Prior knowledge is among the strongest predictors of new learning: what students
 - **Bridging tools:** analogies from familiar domains, advance organizers, [Analogies and Prior Knowledge Activation](../elements/analogies-and-prior-knowledge-activation.md)
 
 ### Target Learners
-- English language learners and students from culturally diverse backgrounds, for whom instruction that ignores home knowledge creates an avoidable comprehension gap [Cultural background shapes text interpretation and recall.](https://doi.org/10.2307/747212) [+S]
+- English language learners and students from culturally diverse backgrounds, for whom instruction that ignores home knowledge creates an avoidable comprehension gap Cultural background shapes text interpretation and recall.
 - Students whose prior knowledge exists but is not spontaneously activated — many learners do not retrieve relevant knowledge without prompting [Self-explanation and prompted retrieval improve conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+M]
 - Less necessary — and sometimes redundant — for learners who already possess and spontaneously activate well-organized knowledge of the domain [Expertise reverses the benefit of added guidance.](../claims/expertise-reversal-effect.md) [~M]
 

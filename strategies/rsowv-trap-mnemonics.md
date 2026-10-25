@@ -19,7 +19,7 @@ RSOWV (Relax, Slow down, Organize, Write, Visualize) and TRAP (Translate, Repeat
 
 ## Design Implications
 
-Packaged mnemonics work because they operationalize techniques with independent evidence: keyword-style imagery improves recall of paired verbal material [Atkinson's keyword method.](https://doi.org/10.1037/0033-295X.82.1.1) [+S], and self-generated restatement and practice support retention [Dunlosky et al. review of learning techniques.](https://doi.org/10.1037/a0029389) [+M]. Their value lies less in any single step than in forcing learners to *do* something with material rather than rereading it passively — rereading is among the least effective study techniques despite its popularity [Dunlosky et al. review of learning techniques.](https://doi.org/10.1037/a0029389) [+S].
+Packaged mnemonics work because they operationalize techniques with independent evidence: keyword-style imagery improves recall of paired verbal material Atkinson's keyword method., and self-generated restatement and practice support retention [Dunlosky et al. review of learning techniques.](https://doi.org/10.1037/a0029389) [+M]. Their value lies less in any single step than in forcing learners to *do* something with material rather than rereading it passively — rereading is among the least effective study techniques despite its popularity [Dunlosky et al. review of learning techniques.](https://doi.org/10.1037/a0029389) [+S].
 
 ### Context
 #### Requirements
@@ -29,7 +29,7 @@ Packaged mnemonics work because they operationalize techniques with independent 
 - Follow-through on the [Practice](../elements/practice.md) step — the routine collapses without retrieval attempts
 
 #### Constraints
-- Imagery-based steps lose power with abstract, non-imageable content; keyword benefits shrink for comprehension-level outcomes rather than recall [Keyword mnemonic benefits are strongest for recall, weaker for comprehension and long-term retention.](https://doi.org/10.1037/0033-295X.82.1.1) [~M]
+- Imagery-based steps lose power with abstract, non-imageable content; keyword benefits shrink for comprehension-level outcomes rather than recall Keyword mnemonic benefits are strongest for recall, weaker for comprehension and long-term retention.
 - Teaching the routine consumes instructional time that competes with content coverage [-W]
 - Introducing both mnemonics at once can overload learners; the steps themselves occupy working memory until automatized [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [-W]
 - Benefits fade if learners treat the routine as a checklist without genuine elaboration [-M]

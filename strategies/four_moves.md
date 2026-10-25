@@ -39,7 +39,7 @@ The Four Moves work because they shift evaluation from *vertical* reading (stayi
 - Emotionally charged content that confirms prior beliefs short-circuits the Stop move; motivated reasoning can override the routine precisely when it is most needed [~M]
 - In offline or locked-down environments where learners cannot open new tabs or search, moves 2–4 collapse and the routine degenerates into the checklist behavior it was designed to replace [-M]
 - Classroom implementations that require exhaustive investigation of every source lose the speed that makes the routine usable in real information environments [~W]
-- Ineffective when learners remain on the source page and apply the moves as an internal checklist — the benefit comes from external corroboration, not from re-reading [Lateral reading outperforms vertical reading for source evaluation.](https://doi.org/10.3102/0034654319839149) [-S]
+- Ineffective when learners remain on the source page and apply the moves as an internal checklist — the benefit comes from external corroboration, not from re-reading Lateral reading outperforms vertical reading for source evaluation.
 - Requires reliable third-party infrastructure (Wikipedia, established news outlets, fact-checking sites); in information environments lacking such anchors, "find better coverage" degrades into circular sourcing
 - The "stop" habit is the least trained and most easily dropped move; without it, learners fact-check only claims they already doubt, confirming rather than correcting bias [~W]
 - Time-pressured learners default to shallow heuristics (design quality, domain suffix) when the moves are not practiced to automaticity [-M]
@@ -56,7 +56,7 @@ The Four Moves work because they shift evaluation from *vertical* reading (stayi
 ### Target Learners
 - Secondary and postsecondary students, who show large gaps between confidence and actual evaluation skill [Civic online reasoning instruction improves students' evaluation of digital sources.](../claims/civic-online-reasoning-instruction-improves-evaluation.md) [+S]
 - Adult
-- Undergraduate and secondary students conducting online research, who default to vertical reading and design-based judgments [Lateral reading outperforms vertical reading for source evaluation.](https://doi.org/10.3102/0034654319839149) [+S]
+- Undergraduate and secondary students conducting online research, who default to vertical reading and design-based judgments Lateral reading outperforms vertical reading for source evaluation.
 - Less effective for learners who already habitually read laterally; instruction adds little for professional fact-checkers [~W]
 ### Claims
 - Metacognitive self-monitoring: recognizing when emotional arousal is driving acceptance of a claim [Self-monitoring improves self-regulation.](../claims/self-monitoring-improves-self-regulation.md) [+M]
@@ -73,7 +73,7 @@ The Four Moves and a Habit (also known as SIFT) is a fact-checking framework dev
 
 ## Design Implications
 
-The framework works because it replaces exhaustive, page-internal evaluation with the fast, external verification strategies used by professional fact-checkers. Research shows that expert fact-checkers evaluate sources by leaving the page and reading laterally — checking what other sites say about the source — while historians and undergraduates tend to read vertically, staying on the page and being routinely deceived by professional design [Lateral reading outperforms vertical reading for source evaluation.](https://doi.org/10.3102/0034654319839149) [+S]. The "stop" habit leverages the fact that strong emotional reactions (outrage, vindication) reliably predict susceptibility to misinformation, so interrupting the reaction creates space for deliberate evaluation [~M].
+The framework works because it replaces exhaustive, page-internal evaluation with the fast, external verification strategies used by professional fact-checkers. Research shows that expert fact-checkers evaluate sources by leaving the page and reading laterally — checking what other sites say about the source — while historians and undergraduates tend to read vertically, staying on the page and being routinely deceived by professional design Lateral reading outperforms vertical reading for source evaluation.. The "stop" habit leverages the fact that strong emotional reactions (outrage, vindication) reliably predict susceptibility to misinformation, so interrupting the reaction creates space for deliberate evaluation [~M].
 
 ### Context
 #### Requirements
@@ -83,7 +83,7 @@ The framework works because it replaces exhaustive, page-internal evaluation wit
 - Minimal prior knowledge of specific sources; the moves themselves supply the evaluative leverage [Prior knowledge of individual sources is not required for lateral reading to improve evaluation.](../claims/prior-knowledge-not-related-to-performance.md) [~W]
 
 #### Constraints
-- Ineffective when learners remain on the source page and apply the moves as an internal checklist — the benefit comes from external corroboration, not from re-reading [Lateral reading outperforms vertical reading for source evaluation.](https://doi.org/10.3102/0034654319839149) [-S]
+- Ineffective when learners remain on the source page and apply the moves as an internal checklist — the benefit comes from external corroboration, not from re-reading Lateral reading outperforms vertical reading for source evaluation.
 - Requires reliable third-party infrastructure (Wikipedia, established news outlets, fact-checking sites); in information environments lacking such anchors, "find better coverage" degrades into circular sourcing
 - The "stop" habit is the least trained and most easily dropped move; without it, learners fact-check only claims they already doubt, confirming rather than correcting bias [~W]
 - Time-pressured learners default to shallow heuristics (design quality, domain suffix) when the moves are not practiced to automaticity [-M]
@@ -94,7 +94,7 @@ The framework works because it replaces exhaustive, page-internal evaluation wit
 - Works as a whole-class [Case-Based Learning](../elements/case-based-learning.md) activity using live, real-world claims rather than sanitized examples
 
 ### Target Learners
-- Undergraduate and secondary students conducting online research, who default to vertical reading and design-based judgments [Lateral reading outperforms vertical reading for source evaluation.](https://doi.org/10.3102/0034654319839149) [+S]
+- Undergraduate and secondary students conducting online research, who default to vertical reading and design-based judgments Lateral reading outperforms vertical reading for source evaluation.
 - Novices with little background knowledge of sources — the moves substitute external verification for expertise [Prior knowledge of individual sources is not required for lateral reading to improve evaluation.](../claims/prior-knowledge-not-related-to-performance.md) [~W]
 - Less effective for learners who already habitually read laterally; instruction adds little for professional fact-checkers [~W]
 

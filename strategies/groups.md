@@ -19,7 +19,7 @@ Groups is a fast-paced whole-class game in which the teacher calls out a number 
 
 ## Design Implications
 
-The activity pairs quick [Practice](../elements/practice.md) with physical movement, converting number recognition and mental arithmetic into a kinesthetic, socially interactive task. Movement-based activities can refresh attention and support engagement in young learners [Physical activity interventions show small positive associations with academic performance in children.](https://doi.org/10.1080/00220671.2010.519361) [+M], and the game format enacts [Active Learning](../principles/active-learning.md) by requiring every student to respond rather than passively observe [Active learning improves exam performance relative to lecture.](https://doi.org/10.1073/pnas.1319030111) [+S]. The arithmetic-callout variant adds [Application](../elements/application.md) of computation to a concrete, immediate goal.
+The activity pairs quick [Practice](../elements/practice.md) with physical movement, converting number recognition and mental arithmetic into a kinesthetic, socially interactive task. Movement-based activities can refresh attention and support engagement in young learners Physical activity interventions show small positive associations with academic performance in children., and the game format enacts [Active Learning](../principles/active-learning.md) by requiring every student to respond rather than passively observe [Active learning improves exam performance relative to lecture.](https://doi.org/10.1073/pnas.1319030111) [+S]. The arithmetic-callout variant adds [Application](../elements/application.md) of computation to a concrete, immediate goal.
 
 ### Context
 #### Requirements

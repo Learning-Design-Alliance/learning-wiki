@@ -19,7 +19,7 @@ Simulation based practice places learners in an interactive model of a real task
 
 ## Design Implications
 
-Simulation works because it enables high-volume, low-stakes [practice](../elements/practice.md) with immediate consequences, allowing errors to surface and be corrected safely [Simulation-based training improves clinical performance across health professions.](https://doi.org/10.1001/jama.2013.2820) [+S]. The critical design lever is the debrief: simulation without structured reflection produces markedly weaker transfer than simulation with guided after-action review [Debriefing is a key moderator of simulation learning outcomes.](https://doi.org/10.1097/SIH.0b013e3180315309) [+M]. Fidelity must be matched to the learning goal — physical realism matters for psychomotor skills, but psychological and functional fidelity (realistic decisions and pressures) matter more for judgment-heavy tasks [~M].
+Simulation works because it enables high-volume, low-stakes [practice](../elements/practice.md) with immediate consequences, allowing errors to surface and be corrected safely Simulation-based training improves clinical performance across health professions.. The critical design lever is the debrief: simulation without structured reflection produces markedly weaker transfer than simulation with guided after-action review Debriefing is a key moderator of simulation learning outcomes.. Fidelity must be matched to the learning goal — physical realism matters for psychomotor skills, but psychological and functional fidelity (realistic decisions and pressures) matter more for judgment-heavy tasks [~M].
 
 ### Context
 #### Requirements
@@ -42,7 +42,7 @@ Simulation works because it enables high-volume, low-stakes [practice](../elemen
 - **Rapid-cycle deliberate practice** — short simulation–feedback loops with increasing difficulty until mastery
 
 ### Target Learners
-- Novices who must reach a safe competence threshold before touching real equipment or patients [Simulation-based training improves clinical performance across health professions.](https://doi.org/10.1001/jama.2013.2820) [+S]
+- Novices who must reach a safe competence threshold before touching real equipment or patients Simulation-based training improves clinical performance across health professions.
 - Intermediate learners consolidating skills under varied, pressured conditions
 - Less valuable for experts, who gain little from routine scenarios unless they introduce genuine novelty or edge cases [~M]
 

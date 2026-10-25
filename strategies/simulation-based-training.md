@@ -19,7 +19,7 @@ Simulation based training places learners inside a replicated version of the tar
 
 ## Design Implications
 
-Simulation works because it compresses experience: learners encounter rare, high-stakes, or slow-unfolding situations repeatedly instead of waiting for them to occur naturally. Its effectiveness depends less on the fidelity of the simulator than on the instructional design around it — clear objectives, controlled difficulty progression, and above all structured debriefing, which meta-analytic evidence identifies as the active ingredient in simulation outcomes [Cook et al. (2013) found simulation consistently improves learning compared with no intervention.](https://doi.org/10.1001/jama.2013.282057) [+S]. High physical fidelity is not required for learning; psychological fidelity — whether the scenario evokes the same decisions and demands as the real task — matters more [~M].
+Simulation works because it compresses experience: learners encounter rare, high-stakes, or slow-unfolding situations repeatedly instead of waiting for them to occur naturally. Its effectiveness depends less on the fidelity of the simulator than on the instructional design around it — clear objectives, controlled difficulty progression, and above all structured debriefing, which meta-analytic evidence identifies as the active ingredient in simulation outcomes Cook et al. (2013) found simulation consistently improves learning compared with no intervention.. High physical fidelity is not required for learning; psychological fidelity — whether the scenario evokes the same decisions and demands as the real task — matters more [~M].
 
 ### Context
 #### Requirements

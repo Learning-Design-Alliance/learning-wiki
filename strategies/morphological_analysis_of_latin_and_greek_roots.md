@@ -19,7 +19,7 @@ Morphological analysis teaches learners to treat words as built from meaningful 
 
 ## Design Implications
 
-Morphological awareness is one of the strongest predictors of vocabulary growth in the intermediate grades and beyond, and explicit morphological instruction produces reliable gains in word reading, decoding, and comprehension of morphologically complex words [Goodwin & Ahn meta-analysis of morphological interventions.](https://doi.org/10.1080/10888438.2012.689791) [+S]. Its power comes from generativity: a few hundred roots and affixes combine to account for a large share of academic and technical vocabulary, so each taught morpheme amortizes across many words — far more efficient than word-by-word vocabulary instruction [Morphological instruction supports vocabulary and comprehension growth.](https://doi.org/10.1080/10888438.2010.485213) [+S]. Because roots function like reusable schemas, this strategy is essentially [Analogical Reasoning](../principles/analogical-reasoning.md) applied to word structure: learners transfer knowledge from known words (*inspect*, *spectator*) to unknown ones (*retrospective*).
+Morphological awareness is one of the strongest predictors of vocabulary growth in the intermediate grades and beyond, and explicit morphological instruction produces reliable gains in word reading, decoding, and comprehension of morphologically complex words [Goodwin & Ahn meta-analysis of morphological interventions.](https://doi.org/10.1080/10888438.2012.689791) [+S]. Its power comes from generativity: a few hundred roots and affixes combine to account for a large share of academic and technical vocabulary, so each taught morpheme amortizes across many words — far more efficient than word-by-word vocabulary instruction Morphological instruction supports vocabulary and comprehension growth.. Because roots function like reusable schemas, this strategy is essentially [Analogical Reasoning](../principles/analogical-reasoning.md) applied to word structure: learners transfer knowledge from known words (*inspect*, *spectator*) to unknown ones (*retrospective*).
 
 ### Context
 #### Requirements
@@ -30,7 +30,7 @@ Morphological awareness is one of the strongest predictors of vocabulary growth 
 
 #### Constraints
 - Opaque or heavily shifted morphemes (e.g., *circum* → *circ* in *circuit*) reduce the strategy's payoff and can produce oversegmentation errors [~M]
-- Young learners and those with weak decoding benefit less; morphological analysis presupposes reasonably secure word recognition [Morphological awareness contributes less before decoding is established.](https://doi.org/10.1080/10888438.2010.485453) [~M]
+- Young learners and those with weak decoding benefit less; morphological analysis presupposes reasonably secure word recognition Morphological awareness contributes less before decoding is established.
 - Teaching low-frequency or etymologically interesting but unproductive roots wastes instructional time and adds load [~W]
 - Root-meaning inference can produce plausible-but-wrong meanings when context and morphology conflict; learners must be taught to check inferences against context [-M]
 

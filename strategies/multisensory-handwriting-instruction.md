@@ -19,7 +19,7 @@ Multisensory handwriting instruction teaches letter formation by pairing the mot
 
 ## Design Implications
 
-Handwriting is a graphomotor skill whose fluency underpins later composition: when letter formation becomes automatic, working memory is freed for spelling and composing [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]. Multisensory presentation exploits the fact that motor production creates distinctive, self-generated perceptual traces of letterforms that visual study alone does not [James & Engelhardt, 2012](https://doi.org/10.1016/j.tine.2012.08.001) [+M]. The verbal component (naming the letter and its sound while writing) links graphomotor memory to phonological representation, supporting early reading as well as writing [Bara et al., 2004](https://doi.org/10.1023/B:READ.0000041760.67195.7b) [+M].
+Handwriting is a graphomotor skill whose fluency underpins later composition: when letter formation becomes automatic, working memory is freed for spelling and composing [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]. Multisensory presentation exploits the fact that motor production creates distinctive, self-generated perceptual traces of letterforms that visual study alone does not [James & Engelhardt, 2012](https://doi.org/10.1016/j.tine.2012.08.001) [+M]. The verbal component (naming the letter and its sound while writing) links graphomotor memory to phonological representation, supporting early reading as well as writing Bara et al., 2004.
 
 ### Context
 #### Requirements
@@ -40,7 +40,7 @@ Handwriting is a graphomotor skill whose fluency underpins later composition: wh
 
 ### Target Learners
 - Beginning writers in preschool through grade 2, for whom letter-form representations are still being established [James & Engelhardt, 2012](https://doi.org/10.1016/j.tine.2012.08.001) [+M]
-- Learners with dyslexia or dysgraphia, for whom the explicit grapheme–phoneme–motor linkage is the core of structured literacy intervention [Bara et al., 2004](https://doi.org/10.1023/B:READ.0000041760.67195.7b) [+M]
+- Learners with dyslexia or dysgraphia, for whom the explicit grapheme–phoneme–motor linkage is the core of structured literacy intervention Bara et al., 2004
 - Less beneficial for older students with fluent handwriting, who need composition practice rather than formation drill [~W]
 
 ### Target Learning Goals

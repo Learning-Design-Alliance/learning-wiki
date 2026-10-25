@@ -20,7 +20,7 @@ Sentence combining gives learners two or more simple "kernel" sentences and asks
 
 ## Design Implications
 
-Sentence combining is one of the best-supported writing interventions: meta-analytic evidence shows it reliably improves writing quality, particularly for adolescents [A meta-analysis of writing instruction for adolescent students.](https://doi.org/10.1037/1082-009X.99.3.445) [+S]. Its mechanism is partly syntactic (building repertoire) and partly cognitive — it forces learners to reason about how ideas relate (cause, sequence, contrast), which is the same reasoning that underlies coherent discourse. It works best as [Practice](../elements/practice.md) with [Modeling](../elements/modeling.md) and feedback, not as decontextualized grammar drill; traditional formal grammar instruction shows no comparable benefit for writing quality [A meta-analysis of writing instruction for adolescent students.](https://doi.org/10.1037/1082-009X.99.3.445) [-S].
+Sentence combining is one of the best-supported writing interventions: meta-analytic evidence shows it reliably improves writing quality, particularly for adolescents A meta-analysis of writing instruction for adolescent students.. Its mechanism is partly syntactic (building repertoire) and partly cognitive — it forces learners to reason about how ideas relate (cause, sequence, contrast), which is the same reasoning that underlies coherent discourse. It works best as [Practice](../elements/practice.md) with [Modeling](../elements/modeling.md) and feedback, not as decontextualized grammar drill; traditional formal grammar instruction shows no comparable benefit for writing quality A meta-analysis of writing instruction for adolescent students..
 
 ### Context
 #### Requirements
@@ -34,7 +34,7 @@ Sentence combining is one of the best-supported writing interventions: meta-anal
 - A bridge to authentic writing: students apply combining in their own drafts, not only in exercises
 
 #### Constraints
-- Isolated worksheet practice without connection to authentic writing shows weak transfer to composing [A meta-analysis of writing instruction for adolescent students.](https://doi.org/10.1037/1082-009X.99.3.445) [~M]
+- Isolated worksheet practice without connection to authentic writing shows weak transfer to composing A meta-analysis of writing instruction for adolescent students.
 - Overly long or embedded sentences can exceed working memory and reduce readability — combining is not always better; learners need judgment about when to combine [~W]
 - For learners already writing complex syntax, routine combining exercises become redundant and can depress engagement [Expertise reversal: guidance that helps novices can burden more skilled learners.](../claims/expertise-reversal-effect.md) [~M]
 - Exercises detached from real writing tasks show weak transfer; gains in exercise performance do not automatically appear in student compositions [-M]
@@ -51,7 +51,7 @@ Sentence combining is one of the best-supported writing interventions: meta-anal
 - **Embedded in genre writing**: exercises use kernels drawn from the genre students are currently writing
 
 ### Target Learners
-- Adolescent and older writers still producing predominantly simple or run-on sentences [A meta-analysis of writing instruction for adolescent students.](https://doi.org/10.1037/1082-009X.99.3.445) [+S]
+- Adolescent and older writers still producing predominantly simple or run-on sentences A meta-analysis of writing instruction for adolescent students.
 - Students with learning disabilities, for whom structured combining with models and feedback has shown strong gains [Saddler & Graham study.](https://doi.org/10.1037/0022-0663.97.1.43) [+M]
 - Less valuable for proficient writers with established syntactic range [Expertise reversal: guidance that helps novices can burden more skilled learners.](../claims/expertise-reversal-effect.md) [~M]
 - Struggling and developing writers in upper elementary through secondary grades, who show the largest quality gains [+S]
@@ -83,7 +83,7 @@ Sentence combining is one of the best-supported writing interventions: meta-anal
 
 ## Examples
 - **Saddler & Graham (2005)** — Second- and fourth-grade students, including those with learning disabilities, improved sentence construction and writing quality through combining lessons embedded in writing instruction.
-- **Graham & Perin (2007) *Writing Next* report** — Identified sentence combining as one of the highest-effect instructional practices for adolescent writers, based on meta-analysis. [doi:10.1037/1082-009X.99.3.445](https://doi.org/10.1037/1082-009X.99.3.445)
+- **Graham & Perin (2007) *Writing Next* report** — Identified sentence combining as one of the highest-effect instructional practices for adolescent writers, based on meta-analysis.
 - **William Strong's *Sentence Combining: A Composing Book*** — Widely used curriculum built on open combining exercises progressing from kernel pairs to paragraph-level revision.
 - **[The Writing Revolution](https://www.thewritingrevolution.org)** (Hochman & Wexler) — embeds sentence-combining activities at every grade level as part of its Hochman Method, using content from the curriculum rather than isolated grammar sentences.
 - **Saddler & Graham's peer-assisted sentence combining** — fourth-grade students, including weaker writers, worked in pairs to combine kernels and justify their choices, producing measurable gains in writing quality and revision.

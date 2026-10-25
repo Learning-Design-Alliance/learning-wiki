@@ -19,7 +19,7 @@ Stories are used as examples of handling emotions in a responsible way. Fiction 
 
 ## Design Implications
 
-Fiction reading is associated with improved emotion understanding and empathy, likely because narratives require readers to infer characters' intentions and feelings [Mar & Oatley's fiction-and-empathy work](https://doi.org/10.1111/j.1745-6916.2008.00089.x) [~M]. The effect depends on discussion: simply reading a story about anger does little; guided talk that names the emotion, traces its cause, and generates alternative responses is what builds emotional literacy. Social-emotional learning programs that embed such structured discussion produce measurable gains in emotional regulation and social behavior [Durlak et al. SEL meta-analysis](https://doi.org/10.1111/j.1467-8624.2010.01564.x) [+S].
+Fiction reading is associated with improved emotion understanding and empathy, likely because narratives require readers to infer characters' intentions and feelings Mar & Oatley's fiction-and-empathy work. The effect depends on discussion: simply reading a story about anger does little; guided talk that names the emotion, traces its cause, and generates alternative responses is what builds emotional literacy. Social-emotional learning programs that embed such structured discussion produce measurable gains in emotional regulation and social behavior [Durlak et al. SEL meta-analysis](https://doi.org/10.1111/j.1467-8624.2010.01564.x) [+S].
 
 ### Context
 #### Requirements

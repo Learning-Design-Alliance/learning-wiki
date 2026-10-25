@@ -11,7 +11,6 @@ generated:
   at: 2026-10-19
 sources:
   - id: hanewicz-2017
-    resource: "https://doi.org/10.1080/01587919.2017.1369008"
     title: "Hanewicz, C., Platt, A., & Arendt, A. (2017). Creating a learner-centered teaching environment using student choice in assignments. *Distance Education, 38*(3), 273-287"
     author: "Hanewicz, C., Platt, A., & Arendt, A"
   - id: stefanou-2004

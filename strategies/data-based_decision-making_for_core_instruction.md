@@ -9,7 +9,6 @@ generated:
   at: 2026-08-29
 sources:
   - id: mandinach-2012
-    resource: "https://doi.org/10.1080/10632913.2012.657904"
     title: "Mandinach, E. B. (2012). A perfect time for data use: Using data-driven decision making to inform practice. *Educational Psychologist, 47*(2), 71–85"
     author: "Mandinach, E. B"
   - id: black-wiliam-1998
@@ -17,7 +16,6 @@ sources:
     title: "Black, P., & Wiliam, D. (1998). Assessment and classroom learning. *Assessment in Education: Principles, Policy & Practice, 5*(1), 7–74"
     author: "Black, P., & Wiliam, D"
   - id: fuchs-fuchs-2006
-    resource: "https://doi.org/10.1177/002221940629600201"
     title: "Fuchs, L. S., & Fuchs, D. (2006). Introduction to response to intervention: What, why, and how valid is it? *Reading Research Quarterly, 41*(1), 93–99"
     author: "Fuchs, L. S., & Fuchs, D"
   - id: stecker-2005

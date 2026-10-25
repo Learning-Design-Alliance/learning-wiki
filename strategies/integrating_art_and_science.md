@@ -21,7 +21,6 @@ sources:
     title: "Gurnon, D., Voss-Andreae, J., & Stanley, J. (2013). Integrating art and science in undergraduate education. *PLoS Biology, 11*(2), e1001491"
     author: "Gurnon, D., Voss-Andreae, J., & Stanley, J."
   - id: clark-paivio-1991
-    resource: "https://doi.org/10.1207/s15326985ep2603_5"
     title: "Clark, J. M., & Paivio, A. (1991). Dual coding theory and education. *Educational Psychology Review, 3*(3), 149–210"
     author: "Clark, J. M., & Paivio, A."
 ---
@@ -36,7 +35,7 @@ Arts integration pairs art-making — drawing, sculpture, dance, music, visual d
 
 ## Design Implications
 
-Arts integration works largely because it forces generative, multimodal encoding: translating a concept into visual, spatial, or embodied form requires elaboration that verbal study alone does not [Clark & Paivio, 1991](https://doi.org/10.1207/s15326985ep2603_5) [+M]. A quasi-experimental study across multiple schools found that students in arts-integrated science units retained significantly more content on delayed tests than matched controls, with the largest gains for struggling readers and English language learners [Hardiman et al., 2014](https://doi.org/10.1111/mbe.12050) [+M]. The mechanism appears to be that art-making induces physical manipulation of content and repeated, self-generated rehearsal of relationships — conditions known to support long-term retention [Rinne et al., 2011](https://doi.org/10.1111/j.1751-228X.2011.01114.x) [+M].
+Arts integration works largely because it forces generative, multimodal encoding: translating a concept into visual, spatial, or embodied form requires elaboration that verbal study alone does not Clark & Paivio, 1991. A quasi-experimental study across multiple schools found that students in arts-integrated science units retained significantly more content on delayed tests than matched controls, with the largest gains for struggling readers and English language learners [Hardiman et al., 2014](https://doi.org/10.1111/mbe.12050) [+M]. The mechanism appears to be that art-making induces physical manipulation of content and repeated, self-generated rehearsal of relationships — conditions known to support long-term retention [Rinne et al., 2011](https://doi.org/10.1111/j.1751-228X.2011.01114.x) [+M].
 
 ### Context
 #### Requirements

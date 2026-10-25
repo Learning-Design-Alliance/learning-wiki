@@ -99,7 +99,7 @@ Turn-and-talk works because verbalizing forces retrieval and elaboration: learne
 - **Peer Instruction (Eric Mazur, Harvard Physics)** — students discuss answers to concept questions with neighbors after individual voting; discussion dramatically improves re-vote accuracy ([Peer Instruction](https://www.per-central.org/)) [~S].
 - **Adult professional development** — workshop participants turn to a colleague to apply a framework to their own context, strengthening transfer through personalization.
 - **Responsive Classroom / elementary literacy blocks** — teachers pause read-alouds at plot points and prompt "turn and tell your partner what you think will happen next," building prediction and comprehension monitoring.
-- **Peer Instruction (Eric Mazur, Harvard physics)** — students answer a concept question individually, discuss with neighbors, then revote; the peer discussion phase is a structured Turn and Talk shown to improve conceptual gains [Smith et al., 2009](https://doi.org/10.1126/science.1168700).
+- **Peer Instruction (Eric Mazur, Harvard physics)** — students answer a concept question individually, discuss with neighbors, then revote; the peer discussion phase is a structured Turn and Talk shown to improve conceptual gains Smith et al., 2009.
 - **Kagan Structures** — "RallyRobin" and "Timed Pair Share" formalize alternating turns for cooperative classrooms ([Kagan Publishing](https://www.kaganonline.com)).
 
 ## Key Sources
@@ -167,7 +167,7 @@ Turn and Talk converts passive listening into generative processing: explaining 
 
 ## Examples
 - **Responsive Classroom / elementary literacy blocks** — teachers pause read-alouds at plot points and prompt "turn and tell your partner what you think will happen next," building prediction and comprehension monitoring.
-- **Peer Instruction (Eric Mazur, Harvard physics)** — students answer a concept question individually, discuss with neighbors, then revote; the peer discussion phase is a structured Turn and Talk shown to improve conceptual gains [Smith et al., 2009](https://doi.org/10.1126/science.1168700).
+- **Peer Instruction (Eric Mazur, Harvard physics)** — students answer a concept question individually, discuss with neighbors, then revote; the peer discussion phase is a structured Turn and Talk shown to improve conceptual gains Smith et al., 2009.
 - **Kagan Structures** — "RallyRobin" and "Timed Pair Share" formalize alternating turns for cooperative classrooms ([Kagan Publishing](https://www.kaganonline.com)).
 
 ## Key Sources

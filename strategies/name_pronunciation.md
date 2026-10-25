@@ -15,7 +15,7 @@ generated:
 > **Evidence** · 1 claim (1 for) · 2 studies (2 causal), `q3` · 0 of 2 report an effect size
 
 ## Description
-Pronouncing learners' names correctly is a low-cost, high-signal practice that builds trust and rapport from the first interaction. Mispronunciation — or repeated failure to attempt it — can produce feelings of anxiety, invisibility, shame, and resentment that contribute to social and educational disengagement [Names carry identity and mispronunciation is experienced as a microaggression that marginalizes students of color.](https://doi.org/10.1080/10665684.2012.719878) [+M]. The strategy is to elicit each learner's preferred name and pronunciation early, record it, and practice it until correct.
+Pronouncing learners' names correctly is a low-cost, high-signal practice that builds trust and rapport from the first interaction. Mispronunciation — or repeated failure to attempt it — can produce feelings of anxiety, invisibility, shame, and resentment that contribute to social and educational disengagement Names carry identity and mispronunciation is experienced as a microaggression that marginalizes students of color.. The strategy is to elicit each learner's preferred name and pronunciation early, record it, and practice it until correct.
 
 ## Design Implications
 
@@ -38,7 +38,7 @@ Getting names right is a concrete enactment of belonging: it signals that the le
 - Learner-chosen "name in use" (nickname, anglicized form) — but only when chosen by the learner, never imposed
 
 ### Target Learners
-- All learners, but especially those whose names are uncommon in the instructional context — multilingual learners, international students, and students of color, who report disproportionate rates of name-based microaggression [Names carry identity and mispronunciation is experienced as a microaggression that marginalizes students of color.](https://doi.org/10.1080/10665684.2012.719878) [+M]
+- All learners, but especially those whose names are uncommon in the instructional context — multilingual learners, international students, and students of color, who report disproportionate rates of name-based microaggression Names carry identity and mispronunciation is experienced as a microaggression that marginalizes students of color.
 - Learners at risk of disengagement, for whom belonging cues are most consequential [Brief belonging-focused practices improve outcomes for at-risk students.](../claims/belonging-interventions-improve-outcomes.md) [+S]
 
 ### Target Learning Goals

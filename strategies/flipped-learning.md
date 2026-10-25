@@ -100,7 +100,7 @@ Flipped learning works because it reallocates scarce, socially rich classroom ti
 
 ## Key Sources
 - Strelan, P., Osborn, A., & Palmer, E. (2020). The flipped classroom: A meta-analysis of effects on student performance across disciplines and education levels. *Assessment & Evaluation in Higher Education, 45*(6), 899–921. [doi:10.1016/j.edurev.2020.100314](https://doi.org/10.1016/j.edurev.2020.100314)
-- Låg, T., & Sæle, R. G. (2019). Does the flipped classroom improve student learning and satisfaction? A systematic review and meta-analysis. *AERA Open, 5*(3). [doi:10.1177/2332858419870497](https://doi.org/10.1177/2332858419870497)
+- Låg, T., & Sæle, R. G. (2019). Does the flipped classroom improve student learning and satisfaction? A systematic review and meta-analysis. *AERA Open, 5*(3). [doi:10.1177/2332858419870489](https://doi.org/10.1177/2332858419870489)
 - Freeman, S., Eddy, S. L., McDonough, M., Smith, M. K., Okoroafor, N., Jordt, H., & Wenderoth, M. P. (2014). Active learning increases student performance in science, engineering, and mathematics. *PNAS, 111*(23), 8410–8415. [doi:10.1073/pnas.1319030111](https://doi.org/10.1073/pnas.1319030111)
 - Bergmann, J., & Sams, A. (2012). *Flip your classroom: Reach every student in every class every day.* ISTE/ASCD.
 - Talbert, R. (2017). *Flipped learning: A guide for higher education faculty.* Stylus Publishing.

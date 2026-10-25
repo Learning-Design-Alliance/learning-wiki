@@ -19,7 +19,7 @@ After reading, instructors facilitate structured discussions in which learners t
 
 ## Design Implications
 
-Discussion after reading works because verbalizing interpretations forces elaboration and integration of the text with prior knowledge [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]. Structured, teacher-guided discussion of text meaning produces measurable comprehension gains over transmission-style recitation, particularly when teachers ask authentic open questions and follow up on student ideas rather than evaluating answers against a script [Classroom discussion of text meaning improves comprehension.](https://doi.org/10.3102/0034654309332421) [+M]. The discussion is also a formative assessment window: what learners say reveals misconceptions and partial understandings that can shape the next instructional move [Feedback is most effective at task and process levels.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+M].
+Discussion after reading works because verbalizing interpretations forces elaboration and integration of the text with prior knowledge [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]. Structured, teacher-guided discussion of text meaning produces measurable comprehension gains over transmission-style recitation, particularly when teachers ask authentic open questions and follow up on student ideas rather than evaluating answers against a script Classroom discussion of text meaning improves comprehension.. The discussion is also a formative assessment window: what learners say reveals misconceptions and partial understandings that can shape the next instructional move [Feedback is most effective at task and process levels.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+M].
 
 ### Context
 #### Requirements
@@ -30,7 +30,7 @@ Discussion after reading works because verbalizing interpretations forces elabor
 
 #### Constraints
 - Unstructured "share your favorite part" discussions can stay at surface level and drift off-topic without guiding questions [-W]
-- Recitation-style formats (teacher asks, one student answers, teacher evaluates) suppress the peer-to-peer reasoning that drives the benefit [Classroom discussion of text meaning improves comprehension.](https://doi.org/10.3102/0034654309332421) [-M]
+- Recitation-style formats (teacher asks, one student answers, teacher evaluates) suppress the peer-to-peer reasoning that drives the benefit Classroom discussion of text meaning improves comprehension.
 - Learners who did not comprehend the text have nothing to discuss; discussion without comprehension support beforehand can entrench misreadings [~M]
 - Hesitant or anxious learners may not participate; cold-calling without norms can raise threat and reduce contribution quality [~W]
 
@@ -41,7 +41,7 @@ Discussion after reading works because verbalizing interpretations forces elabor
 - **Question-the-author / grand conversations** — discussion organized around the text itself rather than teacher questions
 
 ### Target Learners
-- Developing readers in upper elementary through adult education, who benefit from hearing peers' interpretive moves modeled [Classroom discussion of text meaning improves comprehension.](https://doi.org/10.3102/0034654309332421) [+M]
+- Developing readers in upper elementary through adult education, who benefit from hearing peers' interpretive moves modeled Classroom discussion of text meaning improves comprehension.
 - Multilingual learners, for whom structured discussion builds academic oral language alongside comprehension [~M]
 - Less beneficial as a standalone activity for learners with very weak decoding, who need [phonics](../principles/accessible-vocabulary-syntax.md)-level support before meaning-level discussion can engage them
 

@@ -19,7 +19,7 @@ Engage with Empathy is a strategy for effective online communication in which pa
 
 ## Design Implications
 
-Empathic engagement builds the social presence that online discussion depends on: learners participate more and interpret ambiguous text-based messages more charitably when they perceive real people behind the posts [Social presence in computer conferencing improves perceived learning and interaction quality.](https://doi.org/10.1111/j.1083-6101.1995.tb00068.x) [+M]. Because text strips tone and nonverbal cues, empathy must be deliberately designed into prompts, norms, and feedback structures rather than assumed [Text-based communication increases misinterpretation of intent relative to richer media.](https://doi.org/10.1037/0022-3514.44.1.113) [~M].
+Empathic engagement builds the social presence that online discussion depends on: learners participate more and interpret ambiguous text-based messages more charitably when they perceive real people behind the posts Social presence in computer conferencing improves perceived learning and interaction quality.. Because text strips tone and nonverbal cues, empathy must be deliberately designed into prompts, norms, and feedback structures rather than assumed [Text-based communication increases misinterpretation of intent relative to richer media.](https://doi.org/10.1037/0022-3514.44.1.113) [~M].
 
 ### Context
 #### Requirements

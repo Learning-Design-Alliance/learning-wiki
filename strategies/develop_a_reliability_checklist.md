@@ -9,11 +9,9 @@ generated:
   at: 2026-08-29
 sources:
   - id: wineburg-2019
-    resource: "https://doi.org/10.1080/07370008.2019.1585397"
     title: "Wineburg, S., & McGrew, S. (2019). Lateral reading and the nature of expertise: Reading less and learning more when evaluating digital information. *Teachers College Record, 121*(11), 1–40"
     author: "Wineburg, S., & McGrew, S"
   - id: britt-2002
-    resource: "https://doi.org/10.1037/0022-0663.94.3.636"
     title: "Britt, M. A., & Aglinskas, C. (2002). Improving students' ability to identify and use source information. *Cognition and Instruction, 20*(4), 485–522"
     author: "Britt, M. A., & Aglinskas, C"
   - id: walraven-2008
@@ -36,7 +34,7 @@ Learners work together to generate a set of diagnostic questions for judging the
 
 ## Design Implications
 
-Co-constructing evaluation criteria converts source evaluation from an implicit expert skill into an explicit, reusable procedure, addressing the well-documented finding that students rarely attend to source features spontaneously [Britt & Aglinskas showed students largely ignore source information unless prompted.](https://doi.org/10.1037/0022-0663.94.3.636) [+S]. The checklist functions as a [Scaffolding](../principles/cognitive-load-management.md) device: it externalizes the evaluation process so novices need not hold criteria in working memory while reading. However, the checklist must be taught alongside *how* to answer its questions — professional fact-checkers answer "who is behind this?" by leaving the page and reading laterally, not by scrutinizing the page's own "About" section [Lateral reading outperforms on-page evaluation for judging source reliability.](https://doi.org/10.1080/07370008.2019.1585397) [+S].
+Co-constructing evaluation criteria converts source evaluation from an implicit expert skill into an explicit, reusable procedure, addressing the well-documented finding that students rarely attend to source features spontaneously Britt & Aglinskas showed students largely ignore source information unless prompted.. The checklist functions as a [Scaffolding](../principles/cognitive-load-management.md) device: it externalizes the evaluation process so novices need not hold criteria in working memory while reading. However, the checklist must be taught alongside *how* to answer its questions — professional fact-checkers answer "who is behind this?" by leaving the page and reading laterally, not by scrutinizing the page's own "About" section Lateral reading outperforms on-page evaluation for judging source reliability..
 
 ### Context
 #### Requirements
@@ -46,7 +44,7 @@ Co-constructing evaluation criteria converts source evaluation from an implicit 
 - A mechanism for revising the checklist after application, so learners confront cases their criteria fail to handle
 
 #### Constraints
-- Checklists that can be answered from surface features alone (e.g., "Does the site look professional?") actively mislead learners; professional-looking misinformation passes such tests easily [Surface cues are unreliable indicators of credibility.](https://doi.org/10.1080/07370008.2019.1585397) [-S]
+- Checklists that can be answered from surface features alone (e.g., "Does the site look professional?") actively mislead learners; professional-looking misinformation passes such tests easily Surface cues are unreliable indicators of credibility.
 - Learners often treat checklist completion as the goal rather than evaluation itself, producing perfunctory "yes" answers without genuine judgment [Students evaluate sources superficially unless evaluation is embedded in a meaningful task.](https://doi.org/10.1016/j.chb.2008.02.015) [~M]
 - Static checklists decay as the information environment changes; criteria tied to specific platforms or formats need periodic renewal
 - Co-construction without expert input risks enshrining naive criteria (e.g., ".org sites are trustworthy") that must later be unlearned
@@ -57,9 +55,9 @@ Co-constructing evaluation criteria converts source evaluation from an implicit 
 - **Rubric vs. heuristic:** shorter heuristic lists (3–5 questions) are more likely to transfer to independent searching than long rubrics
 
 ### Target Learners
-- Secondary and post-secondary students conducting research for the first time, who default to evaluating sources by surface features [Novices rarely attend to source information unprompted.](https://doi.org/10.1037/0022-0663.94.3.636) [+S]
+- Secondary and post-secondary students conducting research for the first time, who default to evaluating sources by surface features Novices rarely attend to source information unprompted.
 - Learners with some web experience but no explicit evaluation instruction — the checklist names what they do intuitively and corrects what they do wrongly
-- Less necessary for learners already trained in lateral reading, who have internalized evaluation moves [Expert fact-checkers evaluate faster and more accurately than trained students using checklist-style on-page reading.](https://doi.org/10.1080/07370008.2019.1585397) [~M]
+- Less necessary for learners already trained in lateral reading, who have internalized evaluation moves Expert fact-checkers evaluate faster and more accurately than trained students using checklist-style on-page reading.
 
 ### Target Learning Goals
 - Source evaluation and information literacy: judging credibility, bias, and evidence quality

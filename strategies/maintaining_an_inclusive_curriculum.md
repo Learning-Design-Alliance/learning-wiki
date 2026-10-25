@@ -15,7 +15,7 @@ generated:
 > **Evidence** · 3 claims (3 for) · 5 studies (4 review, 1 causal), `q2`–`q3` · 0 of 5 report an effect size · 1 claim rests on one study
 
 ## Description
-A culturally responsive curriculum ensures that all students are included within all aspects of schooling while acknowledging the unique cultural backgrounds and differences they bring. It requires teachers to understand and recognize each student's non-school cultural life and to incorporate that knowledge into curriculum design, so that content, examples, texts, and tasks connect to learners' identities rather than assuming a single default cultural frame [Ladson-Billings' culturally relevant pedagogy framework.](https://doi.org/10.1080/0142569950180107) [+M].
+A culturally responsive curriculum ensures that all students are included within all aspects of schooling while acknowledging the unique cultural backgrounds and differences they bring. It requires teachers to understand and recognize each student's non-school cultural life and to incorporate that knowledge into curriculum design, so that content, examples, texts, and tasks connect to learners' identities rather than assuming a single default cultural frame Ladson-Billings' culturally relevant pedagogy framework..
 
 ## Design Implications
 
@@ -41,7 +41,7 @@ Inclusive curriculum works through relevance and belonging: when learners see th
 - **Language-level:** audit terminology and symbols for bias ([Address Biases in the Use of Language and Symbols](../strategies/address_biases_in_the_use_of_language_and_symbols.md))
 
 ### Target Learners
-- Students from culturally and linguistically minoritized groups, who otherwise encounter curricula that treat their experience as peripheral [Culturally relevant pedagogy improves engagement and achievement for minoritized students.](https://doi.org/10.1080/0142569950180107) [+M]
+- Students from culturally and linguistically minoritized groups, who otherwise encounter curricula that treat their experience as peripheral Culturally relevant pedagogy improves engagement and achievement for minoritized students.
 - All students benefit from exposure to multiple perspectives; relevance supports attention and encoding [Relevant emphasis directs attention and improves processing.](../claims/relevancy-of-emphasis-directs-attention.md) [+M]
 - Learners whose sense of belonging is fragile — inclusive curriculum supports the self-efficacy that predicts persistence [Self-efficacy predicts academic persistence.](../claims/self-efficacy-predicts-academic-persistence.md) [+M]
 

@@ -19,7 +19,7 @@ Emotion identification games are structured playful activities in which learners
 
 ## Design Implications
 
-Emotion identification games work because they pair repeated exposure to expressive cues with immediate labeling and feedback, supporting the vocabulary and category formation that underlie emotional competence [~M]. Structured social-emotional programs that include emotion knowledge activities produce measurable gains in social behavior and reduce conduct problems [Durlak et al.'s meta-analysis of SEL programs.](https://doi.org/10.1111/j.1467-8624.2010.01564) [+S]. Games are most effective when the facilitator gives specific, corrective feedback on misidentifications rather than simply confirming answers [Feedback is most effective when directed at the task and process rather than the person.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S].
+Emotion identification games work because they pair repeated exposure to expressive cues with immediate labeling and feedback, supporting the vocabulary and category formation that underlie emotional competence [~M]. Structured social-emotional programs that include emotion knowledge activities produce measurable gains in social behavior and reduce conduct problems Durlak et al.'s meta-analysis of SEL programs.. Games are most effective when the facilitator gives specific, corrective feedback on misidentifications rather than simply confirming answers [Feedback is most effective when directed at the task and process rather than the person.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S].
 
 ### Context
 #### Requirements
@@ -31,7 +31,7 @@ Emotion identification games work because they pair repeated exposure to express
 - Effectiveness drops when games rely only on stereotyped cartoon faces; children may learn the labels without transferring to real social cues [~M] — pairing with [Case Studies](../elements/case-studies.md) or live role-play improves transfer
 - Shy or emotionally guarded learners may disengage from expressive formats; offering observer or non-verbal roles mitigates this
 - Games can oversimplify emotions into discrete categories, obscuring intensity, ambivalence, and cultural variation in display rules
-- Gains in emotion vocabulary do not automatically produce behavior change; games must be embedded in a broader SEL approach [SEL programs succeed through sequenced, active, focused, and explicit design, not isolated activities.](https://doi.org/10.1111/j.1467-8624.2010.01564) [-W]
+- Gains in emotion vocabulary do not automatically produce behavior change; games must be embedded in a broader SEL approach SEL programs succeed through sequenced, active, focused, and explicit design, not isolated activities.
 
 #### Implementation Variability
 - **Acting-out formats** (charades, puppet shows) emphasize expression; **guessing formats** (card matching, "What's My Emotion?" check-ins) emphasize recognition

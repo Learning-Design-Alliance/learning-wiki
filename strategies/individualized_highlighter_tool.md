@@ -19,7 +19,7 @@ Students use an individualized "highlighter tool" (e.g., a Google Doc add-on suc
 
 ## Design Implications
 
-The strategy converts passive marking into a generative activity: the labeled color scheme forces students to commit to a categorical structure before reading, and the export-and-summarize step requires them to transform — not merely select — the text. Highlighting alone is among the weaker study techniques [Learner-generated highlighting supports learning better than reading alone, but unstructured highlighting adds little over careful reading.](https://doi.org/10.1177/1529100612453266) [~M]; its effectiveness rises substantially when highlighting is criterion-driven and paired with summarization or reorganization [Learner-generated highlighting supports learning better than reading alone.](https://doi.org/10.1007/s10648-020-09517-0) [+M]. The color labels act as an advance organizer, and the per-category summaries function as generative processing in the sense described by the ICAP framework [Generative activities that require constructing output produce deeper learning than passive engagement.](https://doi.org/10.1080/00461520.2014.926239) [+S].
+The strategy converts passive marking into a generative activity: the labeled color scheme forces students to commit to a categorical structure before reading, and the export-and-summarize step requires them to transform — not merely select — the text. Highlighting alone is among the weaker study techniques [Learner-generated highlighting supports learning better than reading alone, but unstructured highlighting adds little over careful reading.](https://doi.org/10.1177/1529100612453266) [~M]; its effectiveness rises substantially when highlighting is criterion-driven and paired with summarization or reorganization Learner-generated highlighting supports learning better than reading alone.. The color labels act as an advance organizer, and the per-category summaries function as generative processing in the sense described by the ICAP framework Generative activities that require constructing output produce deeper learning than passive engagement..
 
 ### Context
 #### Requirements
@@ -47,7 +47,7 @@ The strategy converts passive marking into a generative activity: the labeled co
 
 ### Target Learning Goals
 - Text analysis: identifying arguments, evidence, rhetorical moves, or disciplinary structures
-- Categorization and organization of information [Learner-generated highlighting supports learning better than reading alone.](https://doi.org/10.1007/s10648-020-09517-0) [+M]
+- Categorization and organization of information Learner-generated highlighting supports learning better than reading alone.
 - Summarization and synthesis — the export table is a stepping stone to writing
 - Metacognitive monitoring: color choices make students' interpretive decisions visible and discussable
 

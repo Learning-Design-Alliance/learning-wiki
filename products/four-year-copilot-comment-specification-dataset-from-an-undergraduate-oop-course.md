@@ -33,4 +33,4 @@ A reconstructed longitudinal dataset of anonymized student comments, Copilot-gen
 -
 
 ## Key Sources
-- Nasser Giacaman, Valerio Terragni, Paul Denny, and Viraj Kumar. 2026. Commenting with Copilot: A Taxonomy and Multi-Year Analysis of Student Code-Generation Specifications. Proceedings of the 2nd ACM Virtual Global Computing Education Conference (SIGCSE Virtual 2026). https://doi.org/10.1145/3795867.3830978
+- Nasser Giacaman, Valerio Terragni, Paul Denny, and Viraj Kumar. 2026. Commenting with Copilot: A Taxonomy and Multi-Year Analysis of Student Code-Generation Specifications. Proceedings of the 2nd ACM Virtual Global Computing Education Conference (SIGCSE Virtual 2026).

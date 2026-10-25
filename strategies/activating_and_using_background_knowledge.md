@@ -19,7 +19,7 @@ Activating and using background knowledge is a strategy in which learners delibe
 
 ## Design Implications
 
-Comprehension is fundamentally a process of integrating new information with existing knowledge structures; text that cannot be connected to prior knowledge is poorly remembered even when fully "read" [Bransford & Johnson's classic studies show identical text is incomprehensible without relevant context.](https://doi.org/10.1016/S0022-5371(72)80011-8) [+S]. Activation is not a warm-up ritual — it works only when the activated knowledge is *used*: predictions, analogies, and questions that require learners to apply prior knowledge to the new material produce deeper integration than simply recalling it [Dochy et al.'s review shows prior knowledge activation is among the strongest predictors of learning outcomes.](https://doi.org/10.1016/S0959-4752(99)00004-8) [+M].
+Comprehension is fundamentally a process of integrating new information with existing knowledge structures; text that cannot be connected to prior knowledge is poorly remembered even when fully "read" Bransford & Johnson's classic studies show identical text is incomprehensible without relevant context. [+S]. Activation is not a warm-up ritual — it works only when the activated knowledge is *used*: predictions, analogies, and questions that require learners to apply prior knowledge to the new material produce deeper integration than simply recalling it Dochy et al.'s review shows prior knowledge activation is among the strongest predictors of learning outcomes. [+M].
 
 ### Context
 #### Requirements
@@ -40,7 +40,7 @@ Comprehension is fundamentally a process of integrating new information with exi
 - **After reading:** summarizing, comparing predictions to outcomes, [Self-Explanation](../elements/self-explanation.md) of how new ideas revise old ones
 
 ### Target Learners
-- Learners who possess relevant knowledge but fail to retrieve it spontaneously — the most common case in classrooms [Dochy et al.'s review shows activated prior knowledge strongly predicts learning.](https://doi.org/10.1016/S0959-4752(99)00004-8) [+M]
+- Learners who possess relevant knowledge but fail to retrieve it spontaneously — the most common case in classrooms Dochy et al.'s review shows activated prior knowledge strongly predicts learning. [+M]
 - Novices in a domain, who benefit from organizers and analogies that supply a missing knowledge structure
 - Less beneficial for learners with rich, well-organized domain knowledge, who activate spontaneously and may find prompts redundant [Expertise reversal: support that helps novices can hinder experts.](../claims/expertise-reversal-effect.md) [~S]
 

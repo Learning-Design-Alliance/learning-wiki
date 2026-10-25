@@ -37,7 +37,7 @@ Positive Scripts target self-efficacy and outcome expectancy, both of which pred
 #### Implementation Variability
 - **Written journaling** — a short daily paragraph; slower but more elaborative
 - **Pre-task verbal script** — 30–60 seconds spoken before studying or performing, akin to mental practice routines
-- **Process-narrative variant** — script recounts the *work* ("I worked through three practice problems and checked my errors"), aligning with mental-practice findings that imagery of execution, not just results, benefits performance [Mental practice reliably enhances performance, especially when it includes cognitive elements.](https://doi.org/10.1037/0033-2909.116.2.353) [+M]
+- **Process-narrative variant** — script recounts the *work* ("I worked through three practice problems and checked my errors"), aligning with mental-practice findings that imagery of execution, not just results, benefits performance Mental practice reliably enhances performance, especially when it includes cognitive elements.
 - **Mental-contrasting hybrid** — pair the script with naming a present obstacle and an if-then plan (WOOP), converting fantasy into implementable intention
 
 ### Target Learners
@@ -64,7 +64,7 @@ Positive Scripts target self-efficacy and outcome expectancy, both of which pred
 
 ## Examples
 - **WOOP (Wish–Outcome–Obstacle–Plan)**, Gabriele Oettingen's structured routine used in schools and health programs ([https://woopmylife.org](https://woopmylife.org)) — pairs a positive future image with obstacle planning, avoiding the demotivation of pure fantasy.
-- **Sport psychology pre-performance routines** — athletes combine process-focused imagery scripts with self-talk before competition; meta-analytic evidence supports mental practice for motor and cognitive tasks [Driskell, Copper, & Moran (1994)](https://doi.org/10.1037/0033-2909.116.2.353).
+- **Sport psychology pre-performance routines** — athletes combine process-focused imagery scripts with self-talk before competition; meta-analytic evidence supports mental practice for motor and cognitive tasks Driskell, Copper, & Moran (1994).
 - **Writing-center confidence interventions** — students draft short "success narratives" before high-stakes writing tasks, framed around the strategies they will use rather than the grade they will receive.
 
 ## Key Sources

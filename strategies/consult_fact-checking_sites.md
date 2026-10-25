@@ -19,7 +19,7 @@ Learners develop the habit of consulting professional fact-checking services —
 
 ## Design Implications
 
-Consulting expert fact-checkers is a form of "lateral reading": leaving an unfamiliar source to see what independent, professional evaluators say about it. Research on civic online reasoning shows that lateral reading is what professional fact-checkers do and what students typically fail to do spontaneously — students tend to stay on the page and evaluate its surface features instead [Wineburg & McGrew found fact-checkers outperform historians and students by reading laterally.](https://doi.org/10.1177/016146811921900102) [+S]. The strategy works best when checking is framed as a routine step in any research or sharing workflow, not as a remedial activity triggered only by suspicion.
+Consulting expert fact-checkers is a form of "lateral reading": leaving an unfamiliar source to see what independent, professional evaluators say about it. Research on civic online reasoning shows that lateral reading is what professional fact-checkers do and what students typically fail to do spontaneously — students tend to stay on the page and evaluate its surface features instead Wineburg & McGrew found fact-checkers outperform historians and students by reading laterally.. The strategy works best when checking is framed as a routine step in any research or sharing workflow, not as a remedial activity triggered only by suspicion.
 
 ### Context
 #### Requirements

@@ -36,8 +36,8 @@ Background music is an environmental manipulation of arousal and mood, not an in
 - The Mozart effect — lasting cognitive gains from exposure to classical music — is not supported by meta-analytic evidence [X]; any short-term arousal/mood effect is small and fades within minutes
 - Effects are inconsistent across learners: introverted learners and those with lower working memory capacity tend to be impaired by background music, while some extraverted learners are unaffected or mildly helped [~M]
 - During tasks requiring reading, writing, or deep comprehension, silence generally outperforms background music [-M]
-- Music with lyrics or prominent melody disrupts tasks involving verbal working memory — reading, writing, memorization [Background music with lyrics impairs reading comprehension.](https://doi.org/10.1080/00131880210135366) [-M]
-- Students with ADHD, sensory sensitivities, or auditory processing difficulties may find any background music distracting rather than calming [Background music improved on-task behavior for some pupils but disrupted others.](https://doi.org/10.1080/00131880210135366) [~M]
+- Music with lyrics or prominent melody disrupts tasks involving verbal working memory — reading, writing, memorization Background music with lyrics impairs reading comprehension.
+- Students with ADHD, sensory sensitivities, or auditory processing difficulties may find any background music distracting rather than calming Background music improved on-task behavior for some pupils but disrupted others.
 - Effects are largely arousal- and mood-mediated, so novelty wears off; the same playlist becomes furniture within weeks [The Mozart effect reflects arousal and mood, not direct musical transfer.](https://doi.org/10.1111/1467-9280.00345) [~M]
 - Cannot substitute for an actual classroom management plan; music masks low-level noise but does not teach behavior expectations
 
@@ -55,8 +55,8 @@ Background music is an environmental manipulation of arousal and mood, not an in
 - Younger learners, for whom music-as-routine signals are especially effective as behavioral cues [~W]
 - Not beneficial as a uniform treatment: learners with attention difficulties or low working memory capacity are most likely to be distracted [-M]
 - Whole-class secondary settings where entry transitions are noisy or slow
-- Younger pupils and students who benefit from external regulation of arousal [Background music improved on-task behavior for some pupils but disrupted others.](https://doi.org/10.1080/00131880210135366) [~M]
-- Students with sensory sensitivities may be harmed rather than helped — offer a quiet zone or headphones [Background music with lyrics impairs reading comprehension.](https://doi.org/10.1080/00131880210135366) [-M]
+- Younger pupils and students who benefit from external regulation of arousal Background music improved on-task behavior for some pupils but disrupted others.
+- Students with sensory sensitivities may be harmed rather than helped — offer a quiet zone or headphones Background music with lyrics impairs reading comprehension.
 
 ### Target Learning Goals
 - Affective and behavioral goals: establishing a calm, professional classroom climate and smooth transitions
@@ -103,7 +103,7 @@ Playing calm classical music (e.g., Bach, Baroque lento movements) at low volume
 
 ## Design Implications
 
-Background music can improve task performance when it raises arousal and mood without competing for the same cognitive resources as the task [The Mozart effect reflects arousal and mood, not direct musical transfer.](https://doi.org/10.1111/1467-9280.00345) [+M]. However, music with lyrics or high complexity competes with verbal working memory and impairs reading comprehension and memorization [Background music with lyrics impairs reading comprehension.](https://doi.org/10.1080/00131880210135366) [-M]. The practical rule: instrumental, low-tempo, low-volume music during entry routines and quiet work; silence or student choice during tasks heavy on reading, writing, or verbal processing.
+Background music can improve task performance when it raises arousal and mood without competing for the same cognitive resources as the task [The Mozart effect reflects arousal and mood, not direct musical transfer.](https://doi.org/10.1111/1467-9280.00345) [+M]. However, music with lyrics or high complexity competes with verbal working memory and impairs reading comprehension and memorization Background music with lyrics impairs reading comprehension.. The practical rule: instrumental, low-tempo, low-volume music during entry routines and quiet work; silence or student choice during tasks heavy on reading, writing, or verbal processing.
 
 ### Context
 #### Requirements
@@ -112,8 +112,8 @@ Background music can improve task performance when it raises arousal and mood wi
 - Monitoring of student reactions and a low-friction way to adjust or stop
 
 #### Constraints
-- Music with lyrics or prominent melody disrupts tasks involving verbal working memory — reading, writing, memorization [Background music with lyrics impairs reading comprehension.](https://doi.org/10.1080/00131880210135366) [-M]
-- Students with ADHD, sensory sensitivities, or auditory processing difficulties may find any background music distracting rather than calming [Background music improved on-task behavior for some pupils but disrupted others.](https://doi.org/10.1080/00131880210135366) [~M]
+- Music with lyrics or prominent melody disrupts tasks involving verbal working memory — reading, writing, memorization Background music with lyrics impairs reading comprehension.
+- Students with ADHD, sensory sensitivities, or auditory processing difficulties may find any background music distracting rather than calming Background music improved on-task behavior for some pupils but disrupted others.
 - Effects are largely arousal- and mood-mediated, so novelty wears off; the same playlist becomes furniture within weeks [The Mozart effect reflects arousal and mood, not direct musical transfer.](https://doi.org/10.1111/1467-9280.00345) [~M]
 - Cannot substitute for an actual classroom management plan; music masks low-level noise but does not teach behavior expectations
 
@@ -125,8 +125,8 @@ Background music can improve task performance when it raises arousal and mood wi
 
 ### Target Learners
 - Whole-class secondary settings where entry transitions are noisy or slow
-- Younger pupils and students who benefit from external regulation of arousal [Background music improved on-task behavior for some pupils but disrupted others.](https://doi.org/10.1080/00131880210135366) [~M]
-- Students with sensory sensitivities may be harmed rather than helped — offer a quiet zone or headphones [Background music with lyrics impairs reading comprehension.](https://doi.org/10.1080/00131880210135366) [-M]
+- Younger pupils and students who benefit from external regulation of arousal Background music improved on-task behavior for some pupils but disrupted others.
+- Students with sensory sensitivities may be harmed rather than helped — offer a quiet zone or headphones Background music with lyrics impairs reading comprehension.
 
 ### Target Learning Goals
 - Classroom climate and behavior: smoother transitions, reduced need for verbal redirection

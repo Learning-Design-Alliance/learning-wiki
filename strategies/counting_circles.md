@@ -9,7 +9,6 @@ generated:
   at: 2026-08-29
 sources:
   - id: estrella-2013
-    resource: "https://doi.org/10.5951/mtms.19.4.0202"
     title: "Estrella, S. (2013). Counting circles. *Mathematics Teaching in the Middle School, 19*(4), 202–205"
     author: "Estrella, S"
 ---

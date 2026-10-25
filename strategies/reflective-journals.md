@@ -38,7 +38,7 @@ Reflective journals operationalize self-regulated learning: the writing act exte
 
 #### Constraints
 - Grading journals for correctness or volume suppresses the honest self-assessment that makes them valuable [~M] — assessed entries drift toward what the instructor wants to read
-- Without analytic prompts, entries stay at description and emotional venting; depth does not emerge from writing alone [Hume (2009) found most unstructured student journal entries remain descriptive.](https://doi.org/10.1080/07294360902839959) [-M]
+- Without analytic prompts, entries stay at description and emotional venting; depth does not emerge from writing alone Hume (2009) found most unstructured student journal entries remain descriptive.
 - High writing load competes with the learning it is meant to support; journals imposed as busywork reduce motivation [~M]
 - Learners with weak writing fluency spend working-memory resources on transcription rather than reflection; oral or multimedia alternatives mitigate this
 - Journals degrade into summaries or learning logs when prompts are vague or when learners perceive grading pressure — summary writing does not produce reflective insight [-M]

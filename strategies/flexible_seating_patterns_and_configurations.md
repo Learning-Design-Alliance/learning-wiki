@@ -19,7 +19,7 @@ Flexible seating provides a variety of furniture options (standing desks, floor 
 
 ## Design Implications
 
-Classroom physical characteristics account for a meaningful portion of variance in learning progress, with flexibility and ownership of the space among the influential design factors [Barrett et al. (2013)](https://doi.org/10.1016/j.buildenv.2012.09.016) [+M]. Seating arrangement functions as a low-cost classroom management tool: rows support on-task behavior during independent work, while clusters support interaction during group tasks [Wannarka & Ruhl (2008)](https://doi.org/10.1111/j.1467-9604.2008.00389.x) [+M]. The key principle is *alignment* — the configuration must match the interaction pattern the task requires, not simply maximize choice.
+Classroom physical characteristics account for a meaningful portion of variance in learning progress, with flexibility and ownership of the space among the influential design factors [Barrett et al. (2013)](https://doi.org/10.1016/j.buildenv.2012.09.016) [+M]. Seating arrangement functions as a low-cost classroom management tool: rows support on-task behavior during independent work, while clusters support interaction during group tasks Wannarka & Ruhl (2008). The key principle is *alignment* — the configuration must match the interaction pattern the task requires, not simply maximize choice.
 
 ### Context
 #### Requirements
@@ -29,7 +29,7 @@ Classroom physical characteristics account for a meaningful portion of variance 
 
 #### Constraints
 - Choice-rich environments can increase off-task behavior for students with weak self-regulation; unstructured choice without norms reduces on-task time [~M]
-- Cluster or group seating during teacher-led instruction can depress attention and question-asking compared with forward-facing rows [Marx, Fuhrer, & Hartig (1999)](https://doi.org/10.1023/A:1009913918915) [~M] — question-asking was higher in semicircular arrangements, showing configuration effects are task-specific
+- Cluster or group seating during teacher-led instruction can depress attention and question-asking compared with forward-facing rows Marx, Fuhrer, & Hartig (1999) — question-asking was higher in semicircular arrangements, showing configuration effects are task-specific
 - Novel or unusual furniture can itself become a distraction; novelty effects fade but initial off-task costs are real [~W]
 - Overcrowding and poor sight lines negate any benefit of flexibility; density and layout quality interact [Barrett et al. (2013)](https://doi.org/10.1016/j.buildenv.2012.09.016) [-M]
 
@@ -45,13 +45,13 @@ Classroom physical characteristics account for a meaningful portion of variance 
 
 ### Target Learning Goals
 - Collaborative and discussion-based objectives, served by cluster and circle configurations [Active learning improves exam performance.](../claims/active-learning-improves-exam-performance.md) [+S]
-- Independent practice and assessment, served by rows or separated seating that reduces distraction [Wannarka & Ruhl (2008)](https://doi.org/10.1111/j.1467-9604.2008.00389.x) [+M]
+- Independent practice and assessment, served by rows or separated seating that reduces distraction Wannarka & Ruhl (2008)
 - Self-regulation development, when students learn to match their seat choice to their task demands
 
 ### Instructions
 1. Map the unit's activities to interaction patterns (solo, pairs, small group, whole group) and identify which configurations each requires.
 2. Establish two or three named configurations and a fast transition routine; teach the norms explicitly before offering choice.
-3. During [collaborative learning](../principles/collaborative-learning.md) phases, use clusters; during direct instruction or assessment, use forward-facing rows [Wannarka & Ruhl (2008)](https://doi.org/10.1111/j.1467-9604.2008.00389.x) [+M].
+3. During [collaborative learning](../principles/collaborative-learning.md) phases, use clusters; during direct instruction or assessment, use forward-facing rows Wannarka & Ruhl (2008).
 4. Offer student choice within defined zones, and use [check-ins](../elements/check-in.md) to help students evaluate whether their seat choice is working for them.
 5. Reassess periodically — reconfigure deliberately when a pattern stops serving the current task, rather than leaving furniture static.
 

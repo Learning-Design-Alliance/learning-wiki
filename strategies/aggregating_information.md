@@ -19,7 +19,7 @@ Aggregating involves finding and displaying patterns in discussions and other co
 
 ## Design Implications
 
-Aggregation turns discussion from a sequence of individual utterances into an object of collective study, supporting knowledge building in which learners treat ideas as improvable and interrelated [Scardamalia & Bereiter's knowledge-building principles.](https://doi.org/10.1017/CBO9780511816833.011) [+W]. It works best when the aggregated artifact is produced *with* learners rather than *for* them: having students nominate, cluster, and label contributions raises engagement from passive reception to active synthesis [ICAP framework: constructive modes of engagement outperform passive modes.](https://doi.org/10.1080/00461520.2014.917723) [+S]. The display should reduce, not add, processing demands — an unstructured wall of quotes imposes its own [cognitive load](../principles/cognitive-load-management.md) [~M].
+Aggregation turns discussion from a sequence of individual utterances into an object of collective study, supporting knowledge building in which learners treat ideas as improvable and interrelated [Scardamalia & Bereiter's knowledge-building principles.](https://doi.org/10.1017/CBO9780511816833.011) [+W]. It works best when the aggregated artifact is produced *with* learners rather than *for* them: having students nominate, cluster, and label contributions raises engagement from passive reception to active synthesis ICAP framework: constructive modes of engagement outperform passive modes.. The display should reduce, not add, processing demands — an unstructured wall of quotes imposes its own [cognitive load](../principles/cognitive-load-management.md) [~M].
 
 ### Context
 #### Requirements

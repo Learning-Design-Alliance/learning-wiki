@@ -14,7 +14,6 @@ sources:
     title: "Sweller, J., & Cooper, G. A. (1985). The use of worked examples as a substitute for problem solving in learning algebra. *Cognition and Instruction, 2*(1), 59–89"
     author: "Sweller, J., & Cooper, G. A"
   - id: renkl-2002
-    resource: "https://doi.org/10.1037/0022-0663.94.2.392"
     title: "Renkl, A. (2002). Learning from worked-out examples: Instructional explanations supplement self-explanations. *Journal of Educational Psychology, 94*(2), 392–400"
     author: "Renkl, A"
   - id: van-gog-2010
@@ -22,11 +21,9 @@ sources:
     title: "van Gog, T., & Rummel, N. (2010). Example-based learning: Integrating cognitive and social-cognitive research perspectives. *Educational Psychology Review, 22*(2), 155–174"
     author: "van Gog, T., & Rummel, N"
   - id: renkl-2014
-    resource: "https://doi.org/10.1080/00461520.2014.885893"
     title: "Renkl, A. (2014). Toward an instructionally oriented theory of example-based learning. *Cognitive Science, 38*(1), 1–37"
     author: "Renkl, A"
   - id: kalyuga-2003
-    resource: "https://doi.org/10.1037/0278-7393.29.2.233"
     title: "Kalyuga, S., Ayres, P., Chandler, P., & Sweller, J. (2003). The expertise reversal effect. *Educational Psychologist, 38*(1), 23–31"
     author: "Kalyuga, S., Ayres, P., Chandler, P., & Sweller, J"
   - id: van-gog-2011
@@ -85,7 +82,7 @@ For novices, unguided problem solving forces working memory to be spent on searc
 - **Completion problems**: present a partially worked solution the learner must finish, bridging observation and independent performance
 - **Faded worked examples**: a sequence of examples with progressively more steps omitted
 - **Erroneous examples**: present a flawed solution for learners to diagnose, sharpening discrimination of common misconceptions
-- **Example–problem pairs**: alternate one worked example with one isomorphic problem — the most robustly supported format [Renkl, A. (2014)](https://doi.org/10.1080/00461520.2014.885653) [+S]
+- **Example–problem pairs**: alternate one worked example with one isomorphic problem — the most robustly supported format Renkl, A. (2014)
 - **Completion problems**: present a partially worked solution the learner finishes, bridging example and independent solving [Fading](../elements/fading.md)
 - **Erroneous examples**: present a flawed solution for learners to find and fix, which builds conceptual understanding and error discrimination [Erroneous examples help learners identify and correct misconceptions.](../claims/erroneous-examples-build-conceptual-knowledge.md) [+M]
 - **Faded worked examples**: progressively remove later steps across a sequence as competence grows [Fading support promotes transfer of responsibility.](../claims/fading-support-promotes-transfer-of-responsibility.md) [+M]
@@ -258,7 +255,7 @@ Worked examples are most effective when paired with isomorphic practice problems
 - Benefits diminish as expertise grows; continuing to use worked examples past the novice stage can become redundant or counterproductive [Worked-example guidance becomes less effective as learner expertise increases.](../claims/worked-examples-less-effective-with-expertise.md) [~M]
 
 #### Implementation Variability
-- **Example–problem pairs**: alternate one worked example with one isomorphic problem — the most robustly supported format [Renkl, A. (2014)](https://doi.org/10.1080/00461520.2014.885653) [+S]
+- **Example–problem pairs**: alternate one worked example with one isomorphic problem — the most robustly supported format Renkl, A. (2014)
 - **Completion problems**: present a partially worked solution the learner finishes, bridging example and independent solving [Fading](../elements/fading.md)
 - **Erroneous examples**: present a flawed solution for learners to find and fix, which builds conceptual understanding and error discrimination [Erroneous examples help learners identify and correct misconceptions.](../claims/erroneous-examples-build-conceptual-knowledge.md) [+M]
 - **Faded worked examples**: progressively remove later steps across a sequence as competence grows [Fading support promotes transfer of responsibility.](../claims/fading-support-promotes-transfer-of-responsibility.md) [+M]

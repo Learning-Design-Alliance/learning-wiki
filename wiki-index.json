@@ -1,6 +1,6 @@
 {
 "counts":{
-"claim":27617,
+"claim":27612,
 "design":1042,
 "element":1057,
 "learner-variable":75,
@@ -2938,16 +2938,6 @@
 "path":"claims/abcte-florida-no-reading-gain-difference.md",
 "status":"review",
 "title":"Students of ABCTE-certified teachers and non-ABCTE teachers show no difference in reading achievement gains in Florida",
-"type":"claim"
-},
-{
-"description":"The abductive method is the logical reasoning method most associated with features of authentic scientific inquiry in the curriculum",
-"evidence_strength":"moderate",
-"id":"abductive-method-associated-authentic-inquiry",
-"newest_evidence":"2013",
-"path":"claims/abductive-method-associated-authentic-inquiry.md",
-"status":"review",
-"title":"The abductive method is the logical reasoning method most associated with features of authentic scientific inquiry in the curriculum",
 "type":"claim"
 },
 {
@@ -99087,16 +99077,6 @@
 "type":"claim"
 },
 {
-"description":"Forestructures of understanding are associated with the majority of several key authentic inquiry features, up to 100% for complex transformation of observation and developing theories about mechanisms",
-"evidence_strength":"moderate",
-"id":"forestructures-associated-authentic-features",
-"newest_evidence":"2013",
-"path":"claims/forestructures-associated-authentic-features.md",
-"status":"review",
-"title":"Forestructures of understanding are associated with the majority of several key authentic inquiry features, up to 100% for complex transformation of observation and developing theories about mechanisms",
-"type":"claim"
-},
-{
 "description":"Adolescent students' stated pre-chat intentions with an AI math tutor tilt strongly toward scaffolded support rather than answer offloading",
 "evidence_strength":"moderate",
 "id":"forethought-intentions-learning-oriented-genai-tutor",
@@ -119241,16 +119221,6 @@
 "type":"claim"
 },
 {
-"description":"Historical-method inquiry tasks center on uniformitarianism and taxonomy construction, and evaluating independent lines of inquiry for convergence is entirely absent",
-"evidence_strength":"moderate",
-"id":"historical-method-uniformitarianism-dominates",
-"newest_evidence":"2013",
-"path":"claims/historical-method-uniformitarianism-dominates.md",
-"status":"review",
-"title":"Historical-method inquiry tasks center on uniformitarianism and taxonomy construction, and evaluating independent lines of inquiry for convergence is entirely absent",
-"type":"claim"
-},
-{
 "description":"Older students more often represent the historical subject as heterogeneous",
 "evidence_strength":"moderate",
 "id":"historical-subject-heterogeneous-increases-grade-11",
@@ -119673,26 +119643,6 @@
 "path":"claims/holistic-retrieval-improves-non-targeted-information-free-recall-posttest.md",
 "status":"review",
 "title":"Holistic retrieval via free-recall improves retention of non-targeted information, but only on the free-recall posttest",
-"type":"claim"
-},
-{
-"description":"Inquiry tasks in the Holt Earth Science curriculum rely mainly on inductive and abductive methods, with deductive reasoning used least",
-"evidence_strength":"moderate",
-"id":"holt-earth-science-induction-abduction-dominate",
-"newest_evidence":"2013",
-"path":"claims/holt-earth-science-induction-abduction-dominate.md",
-"status":"review",
-"title":"Inquiry tasks in the Holt Earth Science curriculum rely mainly on inductive and abductive methods, with deductive reasoning used least",
-"type":"claim"
-},
-{
-"description":"Holt Earth Science inquiry tasks emphasize making multiple observations and developing theories about mechanisms but omit several authentic scientific inquiry features",
-"evidence_strength":"moderate",
-"id":"holt-earth-science-missing-authentic-inquiry-features",
-"newest_evidence":"2013",
-"path":"claims/holt-earth-science-missing-authentic-inquiry-features.md",
-"status":"review",
-"title":"Holt Earth Science inquiry tasks emphasize making multiple observations and developing theories about mechanisms but omit several authentic scientific inquiry features",
 "type":"claim"
 },
 {
@@ -214758,7 +214708,6 @@
 "evidence_strength":"moderate",
 "id":"reflection-themes-copilot-comment-workflow",
 "path":"claims/reflection-themes-copilot-comment-workflow.md",
-"source_checked":"2026-10-20",
 "status":"review",
 "title":"Student reflections identify speed and scaffolding as the dominant theme, with verification burden, overreliance worries, and prompt precision also prevalent",
 "type":"claim"
@@ -395525,7 +395474,6 @@
 "abc-vr-mentoring-supports-teacher-noticing-self-efficacy":"abc-vr-mentoring-supports-teacher-noticing-self-efficacy",
 "abcte-florida-lower-math-scores":"abcte-florida-lower-math-scores",
 "abcte-florida-no-reading-gain-difference":"abcte-florida-no-reading-gain-difference",
-"abductive-method-associated-authentic-inquiry":"abductive-method-associated-authentic-inquiry",
 "ability-difficulty-separation-stable-learning-trajectories":"ability-difficulty-separation-stable-learning-trajectories",
 "ability-distribution-agreement-linking-check":"ability-distribution-agreement-linking-check",
 "ability-level-differences-verbal-problem-solving":"ability-level-differences-verbal-problem-solving",
@@ -404896,7 +404844,6 @@
 "forest-school-nature-connectedness-mixed":"forest-school-nature-connectedness-mixed",
 "forest-school-studies-high-risk-of-bias":"forest-school-studies-high-risk-of-bias",
 "forest-school-subjective-outcomes-mixed":"forest-school-subjective-outcomes-mixed",
-"forestructures-associated-authentic-features":"forestructures-associated-authentic-features",
 "forethought-intentions-learning-oriented-genai-tutor":"forethought-intentions-learning-oriented-genai-tutor",
 "forgetting-mechanism-decreases-gains-improves-alignment":"forgetting-mechanism-decreases-gains-improves-alignment",
 "form-and-meaning-focus-beats-form-only":"form-and-meaning-focus-beats-form-only",
@@ -406869,7 +406816,6 @@
 "historians-epistemic-processes-extend-beyond-source-analysis":"historians-epistemic-processes-extend-beyond-source-analysis",
 "historical-events-complexity-increases-grade-11":"historical-events-complexity-increases-grade-11",
 "historical-improvements-reject-immutable-limits":"historical-improvements-reject-immutable-limits",
-"historical-method-uniformitarianism-dominates":"historical-method-uniformitarianism-dominates",
 "historical-subject-heterogeneous-increases-grade-11":"historical-subject-heterogeneous-increases-grade-11",
 "historical-thinking-dimensions-conceptually-decoupled":"historical-thinking-dimensions-conceptually-decoupled",
 "historical-thinking-rubrics-validity-evidence":"historical-thinking-rubrics-validity-evidence",
@@ -406911,8 +406857,6 @@
 "holiday-usage-motivation-metric-improvements":"holiday-usage-motivation-metric-improvements",
 "holistic-hardest-question-moderate-reliability":"holistic-hardest-question-moderate-reliability",
 "holistic-retrieval-improves-non-targeted-information-free-recall-posttest":"holistic-retrieval-improves-non-targeted-information-free-recall-posttest",
-"holt-earth-science-induction-abduction-dominate":"holt-earth-science-induction-abduction-dominate",
-"holt-earth-science-missing-authentic-inquiry-features":"holt-earth-science-missing-authentic-inquiry-features",
 "home-and-school-engagement-greater-science-improvement":"home-and-school-engagement-greater-science-improvement",
 "home-arithmetic-equals-school-arithmetic":"home-arithmetic-equals-school-arithmetic",
 "home-broadband-digital-skill-gap":"home-broadband-digital-skill-gap",

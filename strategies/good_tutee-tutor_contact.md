@@ -19,7 +19,7 @@ Good tutee-tutor contact means frequent, scheduled, and personally engaged inter
 
 ## Design Implications
 
-Contact quality predicts both motivation and achievement: learner-centered teacher-student relationships show moderate positive associations with participation, motivation, and achievement across a large meta-analysis [Learner-centered relationships improve participation, motivation, and achievement.](https://doi.org/10.1080/00461520701411051) [+S]. Perceived approachability and support from instructors predict tutees' intrinsic motivation and perceived choice [Teacher support predicts intrinsic motivation.](https://doi.org/10.1016/j.learninstruc.2009.10.003) [+M]. In tutoring contexts, contact serves a second function beyond rapport: tutees who feel known are more willing to expose confusion, which makes [Coaching](../elements/coaching.md) and [Feedback](../elements/coaching.md) cycles more diagnostic and effective.
+Contact quality predicts both motivation and achievement: learner-centered teacher-student relationships show moderate positive associations with participation, motivation, and achievement across a large meta-analysis Learner-centered relationships improve participation, motivation, and achievement.. Perceived approachability and support from instructors predict tutees' intrinsic motivation and perceived choice [Teacher support predicts intrinsic motivation.](https://doi.org/10.1016/j.learninstruc.2009.10.003) [+M]. In tutoring contexts, contact serves a second function beyond rapport: tutees who feel known are more willing to expose confusion, which makes [Coaching](../elements/coaching.md) and [Feedback](../elements/coaching.md) cycles more diagnostic and effective.
 
 ### Context
 #### Requirements

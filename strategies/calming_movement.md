@@ -34,7 +34,7 @@ Calming movement is best understood as an arousal-regulation support that prepar
 - A brief re-entry routine (breathing, [Check-Ins](../principles/check-ins.md)) that transitions learners back to the task
 
 #### Constraints
-- Sensory-based interventions as a class show weak and inconsistent evidence for improving functional outcomes; effects are often indistinguishable from attention alone [Sensory integration therapy shows limited, inconsistent effects.](https://doi.org/10.1542/peds.2014-0836) [-W]
+- Sensory-based interventions as a class show weak and inconsistent evidence for improving functional outcomes; effects are often indistinguishable from attention alone Sensory integration therapy shows limited, inconsistent effects.
 - Fast, unpredictable, or spinning movement is typically alerting rather than calming and can escalate dysregulation [~W]
 - If used as an escape from demands or delivered on a fixed schedule regardless of state, the routine can function as reinforcement for escape behavior rather than self-regulation [~M]
 - Movement breaks do not substitute for instruction; time spent regulating must be balanced against time on task [-W]
@@ -112,7 +112,7 @@ Calming movement breaks integrate repetitive, rhythmic vestibular input — rock
 
 ## Design Implications
 
-Calming movement breaks support self-regulation, which is a precondition for attention and learning rather than a learning outcome in itself; classroom-based physical activity interventions show small positive effects on attention and on-task behavior [Fedewa & Ahn's meta-analysis links school-based physical activity to improved achievement and attention.](https://doi.org/10.1080/00220671.2010.519318) [+M]. The calming effect depends on the *quality* of the movement — slow, rhythmic, predictable input — and on learner choice; autonomy over the type and intensity of movement supports intrinsic motivation [Autonomy supports intrinsic motivation.](../claims/autonomy-supports-intrinsic-motivation.md) [+S]. Breaks work best when paired with explicit self-monitoring, so learners notice their own arousal state and learn to initiate regulation independently [Self-monitoring improves self-regulation.](../claims/self-monitoring-improves-self-regulation.md) [+M].
+Calming movement breaks support self-regulation, which is a precondition for attention and learning rather than a learning outcome in itself; classroom-based physical activity interventions show small positive effects on attention and on-task behavior Fedewa & Ahn's meta-analysis links school-based physical activity to improved achievement and attention.. The calming effect depends on the *quality* of the movement — slow, rhythmic, predictable input — and on learner choice; autonomy over the type and intensity of movement supports intrinsic motivation [Autonomy supports intrinsic motivation.](../claims/autonomy-supports-intrinsic-motivation.md) [+S]. Breaks work best when paired with explicit self-monitoring, so learners notice their own arousal state and learn to initiate regulation independently [Self-monitoring improves self-regulation.](../claims/self-monitoring-improves-self-regulation.md) [+M].
 
 ### Context
 #### Requirements

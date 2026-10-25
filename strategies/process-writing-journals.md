@@ -17,7 +17,6 @@ sources:
     title: "Hyland, K. (2003). *Second Language Writing*. Cambridge University Press"
     author: "Hyland, K"
   - id: truscott-1996
-    resource: "https://doi.org/10.2307/3587947"
     title: "Truscott, J. (1996). The case against grammar correction in L2 writing classes. *Language Learning, 46*(2), 327–369"
     author: "Truscott, J"
   - id: elbow-1973

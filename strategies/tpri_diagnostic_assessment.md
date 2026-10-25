@@ -9,7 +9,6 @@ generated:
   at: 2026-08-29
 sources:
   - id: foorman-1998
-    resource: "https://doi.org/10.1037/0022-0663.90.4.690"
     title: "Foorman, B. R., Francis, D. J., Fletcher, J. M., Schatschneider, C., & Mehta, P. (1998). The role of instruction in learning to read: Preventing reading failure in at-risk children. *Journal of Educational Psychology, 90*(4), 37–55"
     author: "Foorman, B. R., et al."
   - id: vellutino-1996
@@ -75,7 +74,7 @@ The TPRI operationalizes [Assessment for Learning](../principles/assessment-for-
 - [Use a multi-stage screening tool (SSBD) to nominate and rank at-risk students for behavioral intervention](ssbd-multistage-screening-target-student-selection.md)
 
 ## Examples
-- Texas public schools have used the TPRI as a K–3 reading instrument under the Texas Reading Initiative, with results driving placement in intensive, research-based reading interventions [Foorman et al., 1998](https://doi.org/10.1037/0022-0663.90.4.690).
+- Texas public schools have used the TPRI as a K–3 reading instrument under the Texas Reading Initiative, with results driving placement in intensive, research-based reading interventions Foorman et al., 1998.
 - A kindergarten teacher screens in fall; a student fails the blending and rhyming tasks, so the teacher forms a small phonemic-awareness group meeting daily for 15 minutes and re-checks at the mid-year wave.
 
 ## Key Sources

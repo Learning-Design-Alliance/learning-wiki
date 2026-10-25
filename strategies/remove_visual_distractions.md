@@ -63,7 +63,7 @@ Attention is selective and capacity-limited; salient but irrelevant visual stimu
 - [Acoustics and Noise Management](../strategies/acoustics_and_noise_management.md) — the auditory parallel of the same extraneous-load argument
 
 ## Examples
-- **Fisher et al. (2014) classroom experiment** — kindergarten classrooms with a heavily decorated wall display in the teaching zone; children in the decorated classroom spent more time off-task and scored lower on the instructional unit than children in a sparse classroom ([Psychological Science](https://doi.org/10.1177/0956797613516509))
+- **Fisher et al. (2014) classroom experiment** — kindergarten classrooms with a heavily decorated wall display in the teaching zone; children in the decorated classroom spent more time off-task and scored lower on the instructional unit than children in a sparse classroom (Psychological Science)
 - **Coherence principle in multimedia design** — stripping decorative illustrations from science slides improves transfer; e-learning courses designed per [Clark & Mayer (2016)](https://doi.org/10.1002/9781119239086) remove gratuitous graphics and background imagery
 - **Test-environment design** — covering classroom word walls and anchor charts during assessments so students rely on retrieval rather than environmental cues
 

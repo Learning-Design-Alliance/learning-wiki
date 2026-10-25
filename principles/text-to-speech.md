@@ -14,7 +14,6 @@ sources:
     title: "Hillaire, G., Iniesto, F., & Rienties, B. (2019). Humanising text-to-speech through emotional expression in online courses. *Journal of Interactive Media in Education, 2019*(1), 12"
     author: "Hillaire, G., Iniesto, F., & Rienties, B"
   - id: podsiadlo-2016
-    resource: "https://doi.org/10.21437/Interspeech.2016-1289"
     title: "Podsiadlo, M., & Chahar, S. (2016). Text-to-speech for individuals with vision loss: A user study. In *Interspeech 2016* (pp. 347-351)"
     author: "Podsiadlo, M., & Chahar, S"
   - id: stodden-2012

@@ -54,7 +54,7 @@ Goal setting works because it directs attention and effort toward concrete featu
 - Short-cycle goals per draft vs. longer-term goals across a writing unit
 
 ### Target Learners
-- Struggling writers and students with learning disabilities, who benefit most from explicit, concrete targets [Goal setting combined with strategy instruction improved essay elements for adolescents with disabilities.](https://doi.org/10.1037/0022-0663.91.2.250) [+S]
+- Struggling writers and students with learning disabilities, who benefit most from explicit, concrete targets Goal setting combined with strategy instruction improved essay elements for adolescents with disabilities.
 - Novice writers who otherwise default to knowledge-telling without a revision agenda
 - More experienced writers benefit less from assigned goals and more from self-set goals tied to their own revision priorities [~W]
 - Developing writers building self-regulation, since goal-directed self-monitoring is a core self-regulation skill [Self-monitoring improves self-regulated performance.](../claims/self-monitoring-improves-self-regulation.md) [+M]

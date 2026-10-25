@@ -33,7 +33,7 @@ Mindfulness training targets the attentional control system: regular practice st
 - Voluntary, low-pressure participation norms; framing as attention training rather than discipline management
 
 #### Constraints
-- Single-session or very brief interventions show weak or null effects on academic outcomes [School-based mindfulness programs show small, inconsistent effects on academic achievement.](https://doi.org/10.1007/s12671-014-0265-1) [~M]
+- Single-session or very brief interventions show weak or null effects on academic outcomes School-based mindfulness programs show small, inconsistent effects on academic achievement.
 - Learners experiencing acute trauma or anxiety can be *harmed* by interoceptive attention (body scans can trigger distress); trauma-sensitive adaptations (eyes open, external anchors) are required [-M]
 - Effects fade without continued practice; benefits decay within weeks of stopping [Mindfulness meditation improves executive attention and self-regulation.](https://doi.org/10.1038/nrn3916) [~M]
 - Poorly implemented programs (untrained teachers, no dosage) can produce null or slightly negative effects, as in the large MYRIAD school trial [-S]
@@ -55,7 +55,7 @@ Mindfulness training targets the attentional control system: regular practice st
 - Learners with high mind-wandering or attentional difficulties benefit most from attention-training effects [+M]
 - Adolescents and adults can self-report and self-direct practice; young children need concrete anchors (breathing buddy, chime) and shorter durations
 - Less suitable, without adaptation, for learners with trauma histories or acute anxiety [~M]
-- Learners with high stress, anxiety, or attentional difficulties, who show the largest gains in regulation and working memory [Mrazek et al. (2014)](https://doi.org/10.1177/0956797614535801) [+M]
+- Learners with high stress, anxiety, or attentional difficulties, who show the largest gains in regulation and working memory Mrazek et al. (2014)
 - Adolescents facing high-stakes assessment periods, where stress management protects performance [~M]
 - Less effective as a substitute for structured behavioral support for learners with severe self-regulation challenges [-W]
 
@@ -117,7 +117,7 @@ Mindfulness practices bring structured attention to present-moment experience �
 
 ## Design Implications
 
-Mindfulness training functions as attention regulation practice: controlled studies show brief mindfulness training improves working memory capacity and reduces mind-wandering, with downstream benefits for reading comprehension and test performance [Mrazek et al. (2014)](https://doi.org/10.1177/0956797614535801) [+M]. Effects on academic outcomes are mediated by improved executive attention and emotional regulation, so the practice supports — but does not replace — explicit instruction in content. Benefits depend on regularity and dosage; single sessions produce transient effects at best [~M].
+Mindfulness training functions as attention regulation practice: controlled studies show brief mindfulness training improves working memory capacity and reduces mind-wandering, with downstream benefits for reading comprehension and test performance Mrazek et al. (2014). Effects on academic outcomes are mediated by improved executive attention and emotional regulation, so the practice supports — but does not replace — explicit instruction in content. Benefits depend on regularity and dosage; single sessions produce transient effects at best [~M].
 
 ### Context
 #### Requirements
@@ -137,7 +137,7 @@ Mindfulness training functions as attention regulation practice: controlled stud
 - Educator-facing mindfulness training (e.g., [CARE for Teachers](https://www.care4teachers.com)) targeting teacher stress, which indirectly improves classroom climate
 
 ### Target Learners
-- Learners with high stress, anxiety, or attentional difficulties, who show the largest gains in regulation and working memory [Mrazek et al. (2014)](https://doi.org/10.1177/0956797614535801) [+M]
+- Learners with high stress, anxiety, or attentional difficulties, who show the largest gains in regulation and working memory Mrazek et al. (2014)
 - Adolescents facing high-stakes assessment periods, where stress management protects performance [~M]
 - Less effective as a substitute for structured behavioral support for learners with severe self-regulation challenges [-W]
 

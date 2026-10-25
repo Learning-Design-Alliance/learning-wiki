@@ -87,7 +87,7 @@ Peer mediation operationalizes [Social Learning Theory](../theories/social-learn
 ## Examples
 - **Comprehensive school-wide programs** (e.g., the Community Boards program, San Francisco, https://communityboards.org) train student mediators and coordinate referrals school-wide; the model most heavily represented in the research base
 - **Cross-age elementary mediation**: fifth- and sixth-grade mediators staff a playground mediation table during recess, handling disputes among younger students under a teacher-coordinator's supervision
-- **Resolving Conflict Creatively Program (RCCP), New York City** — large-scale K–12 program integrating peer mediation with conflict-resolution curriculum; evaluated by [Aber et al. (1998)](https://doi.org/10.1037/0022-3514.74.1.244) [+M]
+- **Resolving Conflict Creatively Program (RCCP), New York City** — large-scale K–12 program integrating peer mediation with conflict-resolution curriculum; evaluated by Aber et al. (1998)
 - **Peer Mediators programs in UK secondary schools** — coordinated through local authority anti-bullying strategies, typically with restorative adaptations
 - **Community Boards (San Francisco)** — community mediation center whose school-based training materials are widely adopted in US districts ([communityboards.org](https://communityboards.org))
 
@@ -155,7 +155,7 @@ Peer mediation operationalizes [Collaborative Learning](../principles/collaborat
 - [class-discussion](../elements/class-discussion.md) — related structured-talk format, but without the neutral-third-party role
 
 ## Examples
-- **Resolving Conflict Creatively Program (RCCP), New York City** — large-scale K–12 program integrating peer mediation with conflict-resolution curriculum; evaluated by [Aber et al. (1998)](https://doi.org/10.1037/0022-3514.74.1.244) [+M]
+- **Resolving Conflict Creatively Program (RCCP), New York City** — large-scale K–12 program integrating peer mediation with conflict-resolution curriculum; evaluated by Aber et al. (1998)
 - **Peer Mediators programs in UK secondary schools** — coordinated through local authority anti-bullying strategies, typically with restorative adaptations
 - **Community Boards (San Francisco)** — community mediation center whose school-based training materials are widely adopted in US districts ([communityboards.org](https://communityboards.org))
 

@@ -20,7 +20,7 @@ Teaching academic vocabulary means identifying the discipline-specific and high-
 
 ## Design Implications
 
-Vocabulary knowledge is one of the strongest predictors of reading comprehension, and explicit instruction on selected words reliably improves both word learning and comprehension of texts containing those words [Stahl & Fairbanks' meta-analysis of vocabulary instruction.](https://doi.org/10.3102/00346543056001071) [+S]. Depth of word knowledge matters more than sheer number of words taught: instructional routines that require learners to manipulate word meanings — comparing, contrasting, justifying — produce richer, more durable knowledge than definitional instruction alone [Nagy & Townsend characterize academic vocabulary learning as tool-building rather than label-learning.](https://doi.org/10.1002/rrq.011) [+M]. Because working memory is limited, pre-teaching key terms reduces the load of decoding unfamiliar language during content tasks, freeing attention for the actual learning goal [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]; fluent word recognition likewise frees cognitive resources for comprehension [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M].
+Vocabulary knowledge is one of the strongest predictors of reading comprehension, and explicit instruction on selected words reliably improves both word learning and comprehension of texts containing those words Stahl & Fairbanks' meta-analysis of vocabulary instruction.. Depth of word knowledge matters more than sheer number of words taught: instructional routines that require learners to manipulate word meanings — comparing, contrasting, justifying — produce richer, more durable knowledge than definitional instruction alone [Nagy & Townsend characterize academic vocabulary learning as tool-building rather than label-learning.](https://doi.org/10.1002/rrq.011) [+M]. Because working memory is limited, pre-teaching key terms reduces the load of decoding unfamiliar language during content tasks, freeing attention for the actual learning goal [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]; fluent word recognition likewise frees cognitive resources for comprehension [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M].
 
 ### Context
 #### Requirements
@@ -35,7 +35,7 @@ Vocabulary knowledge is one of the strongest predictors of reading comprehension
 
 #### Constraints
 - Instruction on too many words dilutes learning; depth beats breadth, and exhaustive pre-teaching crowds out content work [Nagy & Townsend argue for depth of word knowledge over word counts.](https://doi.org/10.1002/rrq.011) [~M]
-- Definitional or dictionary-copy instruction alone produces shallow knowledge that does not transfer to comprehension [Stahl & Fairbanks found definitional-only methods weaker than rich instruction.](https://doi.org/10.3102/00346543056001071) [-S]
+- Definitional or dictionary-copy instruction alone produces shallow knowledge that does not transfer to comprehension Stahl & Fairbanks found definitional-only methods weaker than rich instruction.
 - Contextual inference from reading alone is unreliable for unfamiliar academic words, especially for ELLs — words needed for comprehension must be taught, not discovered
 - Time-intensive; requires front-loading during unit planning
 - Isolated, definitional drill (look-up-and-copy) produces fragile knowledge that does not transfer to reading or discourse [-M]
@@ -55,7 +55,7 @@ Vocabulary knowledge is one of the strongest predictors of reading comprehension
 
 ### Target Learners
 - All learners encountering new disciplinary language, since academic vocabulary is a gatekeeper for content comprehension [Nagy & Townsend.](https://doi.org/10.1002/rrq.011) [+M]
-- English language learners, who often lack the conversational exposure to academic words that native speakers accrue incidentally; they benefit disproportionately from explicit, contextualized instruction [Stahl & Fairbanks.](https://doi.org/10.3102/00346543056001071) [+M]
+- English language learners, who often lack the conversational exposure to academic words that native speakers accrue incidentally; they benefit disproportionately from explicit, contextualized instruction Stahl & Fairbanks.
 - Struggling readers, for whom unfamiliar vocabulary compounds decoding demands and consumes working memory [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]
 - English language learners, who must acquire content and the academic register simultaneously [Structured vocabulary instruction with home-language supports improves ELL comprehension outcomes.](../claims/vocabulary-instruction-improves-comprehension.md) [+M]
 - Learners from low-income backgrounds who typically enter school with smaller school-relevant vocabularies and rely more on direct instruction [+S]

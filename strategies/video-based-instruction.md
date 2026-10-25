@@ -19,7 +19,7 @@ Video based instruction delivers content through recorded audiovisual segments �
 
 ## Design Implications
 
-Video's power comes from combining spoken narration with dynamic visuals, exploiting both channels of working memory [Multimedia Learning](../theories/dual-coding-theory.md) [+S]. But video is not automatically effective: engagement and learning decline sharply as segments lengthen, with most learners dropping off after about six minutes [Guo et al. found engagement drops sharply beyond six minutes.](https://doi.org/10.1145/2556288.2557205) [+M]. Effective video instruction applies multimedia design principles — signaling, segmenting, coherence — and pairs viewing with generative activities rather than passive watching [Passive video viewing without generative activity yields weaker learning than video plus prompts or practice.](https://doi.org/10.1007/s10648-021-09650-1) [+S].
+Video's power comes from combining spoken narration with dynamic visuals, exploiting both channels of working memory [Multimedia Learning](../theories/dual-coding-theory.md) [+S]. But video is not automatically effective: engagement and learning decline sharply as segments lengthen, with most learners dropping off after about six minutes [Guo et al. found engagement drops sharply beyond six minutes.](https://doi.org/10.1145/2556288.2557205) [+M]. Effective video instruction applies multimedia design principles — signaling, segmenting, coherence — and pairs viewing with generative activities rather than passive watching Passive video viewing without generative activity yields weaker learning than video plus prompts or practice..
 
 ### Context
 #### Requirements
@@ -29,7 +29,7 @@ Video's power comes from combining spoken narration with dynamic visuals, exploi
 - A follow-on activity requiring application ([Practice](../elements/practice.md), [Annotating](../principles/annotating.md), or embedded questions)
 
 #### Constraints
-- Passive viewing produces an illusion of fluency; learners who watch without pausing, note-taking, or practice overestimate their learning [Video without generative processing yields weaker learning than video plus prompts or practice.](https://doi.org/10.1007/s10648-021-09650-1) [-S]
+- Passive viewing produces an illusion of fluency; learners who watch without pausing, note-taking, or practice overestimate their learning Video without generative processing yields weaker learning than video plus prompts or practice.
 - Videos longer than ~9–15 minutes show steep declines in engagement and completion [Guo et al. found engagement drops sharply beyond six minutes.](https://doi.org/10.1145/2556288.2557205) [-M]
 - Fast playback speeds and skipping degrade comprehension for complex material, even when learners feel they are saving time [~W]
 - Talking-head-only video adds little over audio for content delivery; it helps mainly for social presence and affective goals [~W]
@@ -53,7 +53,7 @@ Video's power comes from combining spoken narration with dynamic visuals, exploi
 1. Identify the single concept or procedure each segment will cover; script narration to align with visuals ([Chunking](../principles/chunking.md))
 2. Record or curate the video applying multimedia principles: signaling, coherence, no redundant on-screen text [Redundant on-screen text duplicating narration impairs learning.](../claims/redundancy-principle.md) [+M]
 3. Segment into short units with clear titles and advance organizers ([Advance Organizers](../elements/advance-organizers.md))
-4. Embed generative activities: embedded questions, note-taking prompts, or immediate [Practice](../elements/practice.md) [Video without generative processing yields weaker learning than video plus prompts or practice.](https://doi.org/10.1007/s10648-021-09650-1) [+S]
+4. Embed generative activities: embedded questions, note-taking prompts, or immediate [Practice](../elements/practice.md) Video without generative processing yields weaker learning than video plus prompts or practice.
 5. Provide a mechanism for questions and feedback ([Check-In](../elements/check-in.md), discussion, or [Assessment for Learning](../principles/assessment-for-learning.md))
 
 ## Related Strategies

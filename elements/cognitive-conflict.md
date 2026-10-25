@@ -88,7 +88,7 @@ Cognitive conflict supports learning by making naive or partial conceptions visi
 **[Erroneous examples in math tutoring](https://link.springer.com/article/10.1007/s10648-006-9002-3)** — Systems such as [ASSISTments](https://www.assistments.org) present incorrect worked solutions for learners to debug, converting error detection into conceptual learning.
 
 ## Key Sources
-- Limón, M. (2001). On the cognitive conflict as an mechanism of conceptual change. *Educational Psychology Review, 13*(4), 357–383. [doi:10.1023/A:1011960601318](https://doi.org/10.1023/A:1011960601318)
+- Limón, M. (2001). On the cognitive conflict as an mechanism of conceptual change. *Educational Psychology Review, 13*(4), 357–383.
 - Duit, R., & Treagust, D. F. (2003). Conceptual change: A powerful framework for improving science teaching and learning. *International Journal of Science Education, 25*(6), 671–688. [doi:10.1080/09500690305016](https://doi.org/10.1080/09500690305016)
 - Johnson, D. W., & Johnson, R. T. (2009). An educational psychology success story: Social interdependence theory and cooperative learning. *Educational Researcher, 38*(5), 365–379. [doi:10.3102/0013189X09339057](https://doi.org/10.3102/0013189X09339057)
 - Vosniadou, S. (Ed.). (2008). *International handbook of research on conceptual change*. Routledge. [doi:10.4324/9780203874813](https://doi.org/10.4324/9780203874813)

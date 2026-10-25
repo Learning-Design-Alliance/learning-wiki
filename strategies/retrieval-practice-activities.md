@@ -84,7 +84,7 @@ Retrieval practice produces substantially larger and more durable learning gains
 - All levels — K–12, higher education, and adult learners — across subjects [Retrieval practice benefits learners across ages and subject domains.](https://doi.org/10.1037/a0037505) [+S]
 - Learners with weak metacognitive monitoring, who benefit from the gap-revealing function of retrieval
 - Novices may need scaffolded (cued) retrieval; fully uncued recall can overload working memory [Cognitive overload degrades learning.](../claims/cognitive-overload-degrades-learning.md) [~M]
-- Effective across age ranges and ability levels, including young children and medical students [Retrieval practice benefits learners across educational levels and subject domains.](https://doi.org/10.1177/1529100620975977) [+S]
+- Effective across age ranges and ability levels, including young children and medical students Retrieval practice benefits learners across educational levels and subject domains.
 - Particularly valuable for learners who default to passive review strategies; explicit instruction in why retrieval feels harder improves adoption [~M]
 - Learners with high test anxiety need low-stakes framing to benefit without cost [~M]
 - Effective across age ranges, from elementary students to medical residents and adult professionals [+S]
@@ -211,7 +211,7 @@ Retrieval is a learning event, not merely an assessment event: the effort of rec
 - All levels — K–12, higher education, and adult learners — across subjects [Retrieval practice benefits learners across ages and subject domains.](https://doi.org/10.1037/a0037505) [+S]
 - Learners with weak metacognitive monitoring, who benefit from the gap-revealing function of retrieval
 - Novices may need scaffolded (cued) retrieval; fully uncued recall can overload working memory [Cognitive overload degrades learning.](../claims/cognitive-overload-degrades-learning.md) [~M]
-- Effective across age ranges and ability levels, including young children and medical students [Retrieval practice benefits learners across educational levels and subject domains.](https://doi.org/10.1177/1529100620975977) [+S]
+- Effective across age ranges and ability levels, including young children and medical students Retrieval practice benefits learners across educational levels and subject domains.
 - Particularly valuable for learners who default to passive review strategies; explicit instruction in why retrieval feels harder improves adoption [~M]
 - Learners with high test anxiety need low-stakes framing to benefit without cost [~M]
 
@@ -293,7 +293,7 @@ Retrieval practice is among the most robustly supported learning strategies in t
 - **Collaborative retrieval**: group recall activities, which add elaboration benefits
 
 ### Target Learners
-- Effective across age ranges and ability levels, including young children and medical students [Retrieval practice benefits learners across educational levels and subject domains.](https://doi.org/10.1177/1529100620975977) [+S]
+- Effective across age ranges and ability levels, including young children and medical students Retrieval practice benefits learners across educational levels and subject domains.
 - Particularly valuable for learners who default to passive review strategies; explicit instruction in why retrieval feels harder improves adoption [~M]
 - Learners with high test anxiety need low-stakes framing to benefit without cost [~M]
 

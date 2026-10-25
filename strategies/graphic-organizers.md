@@ -49,7 +49,7 @@ Graphic organizers exploit the visual channel to convey relational information t
 - **Advance organizer** (instructor-provided, before instruction): primes structure and prior knowledge
 - **During-instruction organizer**: built incrementally with the class, modeling how structure emerges
 - **Learner-constructed concept map** (after instruction): functions as an elaboration and assessment task; scoring should reward quality of labeled relationships
-- **Comparison matrix**: particularly effective for categorization objectives, outperforming linear notes for relational recall [Organizers that preserve relational structure improve recall.](https://doi.org/10.1037/0022-0663.87.2.285) [+M]
+- **Comparison matrix**: particularly effective for categorization objectives, outperforming linear notes for relational recall Organizers that preserve relational structure improve recall.
 
 ### Target Learners
 - Novices who lack a mental structure for the topic and benefit from seeing relationships pre-organized [Graphic organizers improve learning relative to text-only conditions.](../claims/advance-organizers-improve-learning.md) [+M]
@@ -133,7 +133,7 @@ Graphic organizers improve learning primarily by revealing structure — the hie
 - **Advance organizer** (instructor-provided, before instruction): primes structure and prior knowledge
 - **During-instruction organizer**: built incrementally with the class, modeling how structure emerges
 - **Learner-constructed concept map** (after instruction): functions as an elaboration and assessment task; scoring should reward quality of labeled relationships
-- **Comparison matrix**: particularly effective for categorization objectives, outperforming linear notes for relational recall [Organizers that preserve relational structure improve recall.](https://doi.org/10.1037/0022-0663.87.2.285) [+M]
+- **Comparison matrix**: particularly effective for categorization objectives, outperforming linear notes for relational recall Organizers that preserve relational structure improve recall.
 
 ### Target Learners
 - Novices who cannot yet perceive the structure of a domain on their own [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]

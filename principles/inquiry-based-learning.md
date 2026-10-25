@@ -12,7 +12,6 @@ generated:
   at: 2026-10-19
 sources:
   - id: moon-2019
-    resource: "https://doi.org/10.1080/15391523.2018.1470483"
     title: "Moon, J. A., & Brockway, D. (2019). Facilitating learning in an interactive science simulation: The effects of task segmentation guidance on adults' inquiry-based learning and cognitive load. *Journal of Research on Technology in Education, 51*(1), 77-100"
     author: "Moon, J. A., & Brockway, D"
   - id: mataniari-2020

@@ -19,19 +19,19 @@ Praise is positive evaluative feedback following a learner's behavior, effort, o
 
 ## Design Implications
 
-Praise is a form of [Feedback](../elements/feedback.md) — plain text — and inherits its core requirement: it must convey information about the task or the learner's strategy, not just approval [Hattie & Timperley, 2007](https://doi.org/10.1080/00461520701430953) [+S]. Generic or inflated praise ("Good job!", "Amazing!") carries little information and can signal low expectations, particularly to struggling learners.
+Praise is a form of [Feedback](../elements/feedback.md) — plain text — and inherits its core requirement: it must convey information about the task or the learner's strategy, not just approval Hattie & Timperley, 2007. Generic or inflated praise ("Good job!", "Amazing!") carries little information and can signal low expectations, particularly to struggling learners.
 
 ### Context
 #### Requirements
 - Specificity: identify *what* was done well, linking praise to observable actions or strategies
-- Credibility: praise must be earned and proportionate; learners discount praise that appears indiscriminate [Brophy, 1981](https://doi.org/10.1080/00405848109543037) [+M]
+- Credibility: praise must be earned and proportionate; learners discount praise that appears indiscriminate Brophy, 1981
 - Attribution to controllable causes: effort, strategy use, and persistence rather than fixed ability
 - Sincerity and low-key delivery; effusive praise reads as manipulation or low expectations
 
 #### Constraints
 - Person-praise ("You're brilliant") creates fragile self-concepts: after failure, praised children choose easier tasks, persist less, and lie about scores more often [Mueller & Dweck, 1998](https://doi.org/10.1037/0022-3514.75.1.33) [-S]
 - Inflated praise to low-ability students ("This is incredibly beautiful work!") implicitly communicates low standards and leads them to avoid challenge [-M]
-- Overuse dilutes effectiveness — praise that accompanies most responses loses informational and reinforcing value [Brophy, 1981](https://doi.org/10.1080/00405848109543037) [-M]
+- Overuse dilutes effectiveness — praise that accompanies most responses loses informational and reinforcing value Brophy, 1981
 - Praise for effort alone, without strategy guidance, can teach learners to persist ineffectively rather than to change approach [~M]
 - Public praise can backfire for learners sensitive to social evaluation or peer standing [~W]
 
@@ -51,7 +51,7 @@ Praise is a form of [Feedback](../elements/feedback.md) — plain text — and i
 - Motivation and persistence: sustaining engagement through difficulty
 - Self-regulation: reinforcing strategy use and monitoring behaviors
 - Classroom behavior: shaping conduct through contingent reinforcement [Behaviorism](../theories/behaviorism.md) [+M]
-- Not a substitute for informational feedback on the quality of academic work [Hattie & Timperley, 2007](https://doi.org/10.1080/00461520701430953) [+S]
+- Not a substitute for informational feedback on the quality of academic work Hattie & Timperley, 2007
 
 ### Instructions
 1. Observe the specific behavior, strategy, or product before responding — praise only what you can name.

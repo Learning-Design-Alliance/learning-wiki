@@ -19,7 +19,7 @@ Songs and rhymes embed target content in melody, rhythm, and rhyme so that proso
 
 ## Design Implications
 
-Melodic and rhythmic structure acts as a retrieval scaffold: melody is recalled in chunks that carry associated text with it, and rhyme provides strong phonological cues for line endings [Melody on recall of text.](https://doi.org/10.3758/BF03200866) [+M]. The effect is strongest when the melody is learned *with* the content rather than reused from an unrelated familiar tune, and when the content maps naturally onto the rhythmic structure [Singing can facilitate foreign language learning.](https://doi.org/10.3758/s13421-013-0342-z) [+M]. Songs and rhymes are a form of [Mnemonic](mnemonics.md) instruction, and like other mnemonics they support recall of arbitrary verbal associations rather than conceptual understanding.
+Melodic and rhythmic structure acts as a retrieval scaffold: melody is recalled in chunks that carry associated text with it, and rhyme provides strong phonological cues for line endings [Melody on recall of text.](https://doi.org/10.3758/BF03200866) [+M]. The effect is strongest when the melody is learned *with* the content rather than reused from an unrelated familiar tune, and when the content maps naturally onto the rhythmic structure Singing can facilitate foreign language learning.. Songs and rhymes are a form of [Mnemonic](mnemonics.md) instruction, and like other mnemonics they support recall of arbitrary verbal associations rather than conceptual understanding.
 
 ### Context
 #### Requirements
@@ -42,7 +42,7 @@ Melodic and rhythmic structure acts as a retrieval scaffold: melody is recalled 
 ### Target Learners
 - Young children, for whom prosodic structure compensates for limited strategic encoding [+M]
 - Learners with disabilities, where mnemonic instruction including rhymes and songs shows reliable recall gains [Mnemonic instruction improves recall for students with disabilities.](../claims/mnemonic-instruction-improves-recall-for-students-with-disabilities.md) [+S]
-- Second-language learners acquiring pronunciation and vocabulary [Singing can facilitate foreign language learning.](https://doi.org/10.3758/s13421-013-0342-z) [+M]
+- Second-language learners acquiring pronunciation and vocabulary Singing can facilitate foreign language learning.
 - Less useful for advanced learners who already organize content semantically [~M]
 
 ### Target Learning Goals
@@ -64,7 +64,7 @@ Melodic and rhythmic structure acts as a retrieval scaffold: melody is recalled 
 ## Examples
 - **The Alphabet Song** — the canonical case: melody chunks the 26 letters into the "LMNOP" group, and generations of learners retrieve the sequence via the tune.
 - **Schoolhouse Rock!** (e.g., "I'm Just a Bill," "Three Is a Magic Number") — broadcast songs for civics and multiplication; widely used in classrooms since the 1970s ([https://www.schoolhouserock.tv](https://www.schoolhouserock.tv)).
-- **Ludke et al.'s foreign-language experiments** — learners who sang phrases in an unfamiliar language outperformed speech-rhythm and spoken controls on later recall and pronunciation of those phrases ([https://doi.org/10.3758/s13421-013-0342-z](https://doi.org/10.3758/s13421-013-0342-z)).
+- **Ludke et al.'s foreign-language experiments** — learners who sang phrases in an unfamiliar language outperformed speech-rhythm and spoken controls on later recall and pronunciation of those phrases ().
 
 ## Key Sources
 - Ludke, K. M., Ferreira, F., & Bartlett, J. S. (2014). Singing can facilitate foreign language learning. *Memory & Cognition, 42*(1), 41–52. [doi:10.3758/s13421-013-0342-5](https://doi.org/10.3758/s13421-013-0342-5)

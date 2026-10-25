@@ -19,7 +19,7 @@ Assume Support is a stance toward family and community engagement: practitioners
 
 ## Design Implications
 
-Family involvement predicts achievement, but the relationship runs through families' sense of efficacy and invitation from the school: parents engage when they believe they can help and when the school actively welcomes them [Hoover-Dempsey & Sandler's model of parental involvement.](https://doi.org/10.3102/00346543065003391) [+S]. Assuming support reframes "hard-to-reach" families as "under-invited," shifting the design burden from the family to the school.
+Family involvement predicts achievement, but the relationship runs through families' sense of efficacy and invitation from the school: parents engage when they believe they can help and when the school actively welcomes them Hoover-Dempsey & Sandler's model of parental involvement.. Assuming support reframes "hard-to-reach" families as "under-invited," shifting the design burden from the family to the school.
 
 ### Context
 #### Requirements
@@ -40,7 +40,7 @@ Family involvement predicts achievement, but the relationship runs through famil
 ### Target Learners
 - K-12 educators and administrators designing family engagement
 - Teachers in online or hybrid settings who cannot observe home learning conditions directly
-- Students from families with limited school engagement benefit indirectly: teacher outreach grounded in an assume-support stance raises families' sense of efficacy for supporting learning [Hoover-Dempsey & Sandler's model of parental involvement.](https://doi.org/10.3102/00346543065003391) [+M], which supports student persistence [Self-efficacy predicts academic persistence.](../claims/self-efficacy-predicts-academic-persistence.md) [+M]
+- Students from families with limited school engagement benefit indirectly: teacher outreach grounded in an assume-support stance raises families' sense of efficacy for supporting learning Hoover-Dempsey & Sandler's model of parental involvement., which supports student persistence [Self-efficacy predicts academic persistence.](../claims/self-efficacy-predicts-academic-persistence.md) [+M]
 
 ### Target Learning Goals
 - Equity-oriented professional dispositions: reducing judgment and deficit thinking about families

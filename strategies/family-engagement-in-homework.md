@@ -19,7 +19,7 @@ Family engagement in homework moves beyond the traditional "parent as enforcer" 
 
 ## Design Implications
 
-Homework's effect on achievement is small overall and depends far more on quality and learner self-regulation than on quantity [Cooper et al.'s meta-analysis found weak correlations between homework and achievement in elementary grades](https://doi.org/10.3102/003465430760010001) [~M]. The family's role matters because homework is completed in a low-supervision environment where motivation and self-regulation determine whether it is done meaningfully at all. Assignments that require interaction (e.g., discussing, interviewing a family member, explaining work aloud) produce stronger engagement and attitudes than independent worksheets [Parent-involved interactive homework improves attitudes and some achievement outcomes.](https://doi.org/10.1037/0033-2909.134.4.474) [+M]. Critically, parental *help with the task itself* can backfire; parental *autonomy support* (encouraging, structuring, not controlling) predicts better outcomes [Autonomy-supportive parenting sustains intrinsic motivation for academic tasks.](../claims/autonomy-supports-intrinsic-motivation.md) [+M].
+Homework's effect on achievement is small overall and depends far more on quality and learner self-regulation than on quantity Cooper et al.'s meta-analysis found weak correlations between homework and achievement in elementary grades. The family's role matters because homework is completed in a low-supervision environment where motivation and self-regulation determine whether it is done meaningfully at all. Assignments that require interaction (e.g., discussing, interviewing a family member, explaining work aloud) produce stronger engagement and attitudes than independent worksheets Parent-involved interactive homework improves attitudes and some achievement outcomes.. Critically, parental *help with the task itself* can backfire; parental *autonomy support* (encouraging, structuring, not controlling) predicts better outcomes [Autonomy-supportive parenting sustains intrinsic motivation for academic tasks.](../claims/autonomy-supports-intrinsic-motivation.md) [+M].
 
 ### Context
 #### Requirements
@@ -30,7 +30,7 @@ Homework's effect on achievement is small overall and depends far more on qualit
 - Reasonable time demands; engagement designs fail when they add burden to already-stretched households
 
 #### Constraints
-- Parental intrusion and controlling help (doing the task, correcting under pressure) is associated with *lower* achievement and motivation [Parental help can undermine autonomy and depress homework outcomes.](https://doi.org/10.1037/0033-2909.134.4.474) [-M]
+- Parental intrusion and controlling help (doing the task, correcting under pressure) is associated with *lower* achievement and motivation Parental help can undermine autonomy and depress homework outcomes.
 - Interactive homework designs can widen inequities when family time, language proficiency, or content knowledge varies; alternatives (independent options, school-based support) must exist [-M]
 - Frequent unstructured homework in early grades shows near-zero achievement benefit and can generate family conflict [~S]
 - Excessive homework volume displaces sleep and play, degrading the learning it was meant to support [-M]

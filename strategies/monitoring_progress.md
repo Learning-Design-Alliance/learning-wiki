@@ -29,7 +29,7 @@ Monitoring works because it converts vague intentions into concrete feedback loo
 - Criteria that distinguish process progress from outcome progress
 
 #### Constraints
-- Over-monitoring (especially of outcomes) can induce anxiety and shift attention from learning to evaluation [Feedback directed at the self rather than the task reduces learning.](https://doi.org/10.1080/00405840709536524) [-M]
+- Over-monitoring (especially of outcomes) can induce anxiety and shift attention from learning to evaluation Feedback directed at the self rather than the task reduces learning.
 - Monitoring without an adjustment mechanism is record-keeping, not regulation — data must feed into strategy change
 - Infrequent monitoring misses the window for corrective action; daily-to-weekly cycles outperform end-of-term reviews [Feedback is most effective when timely and specific.](https://doi.org/10.3102/00346543065003245) [+S]
 - Learners with low self-efficacy may interpret progress data as evidence of inadequacy rather than information

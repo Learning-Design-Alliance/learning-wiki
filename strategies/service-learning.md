@@ -20,7 +20,7 @@ Service learning is a form of experiential instruction in which learners engage 
 
 ## Design Implications
 
-Service learning works because it situates learning in an authentic context with real stakes, which increases engagement, perceived relevance, and transfer [Authentic audiences improve the quality of student work.](../claims/authentic-audiences-improve-student-work.md) [+M]. Its effectiveness depends critically on the quality and integration of reflection: meta-analytic evidence shows that programs with more reflection (more hours, more types, more frequency) produce larger gains in academic, civic, and social-emotional outcomes [Service learning meta-analysis shows dose-response effect of reflection.](https://doi.org/10.3102/0034654310389057) [+S]. Without deliberate connection back to disciplinary concepts, the experience remains service, not learning.
+Service learning works because it situates learning in an authentic context with real stakes, which increases engagement, perceived relevance, and transfer [Authentic audiences improve the quality of student work.](../claims/authentic-audiences-improve-student-work.md) [+M]. Its effectiveness depends critically on the quality and integration of reflection: meta-analytic evidence shows that programs with more reflection (more hours, more types, more frequency) produce larger gains in academic, civic, and social-emotional outcomes Service learning meta-analysis shows dose-response effect of reflection.. Without deliberate connection back to disciplinary concepts, the experience remains service, not learning.
 
 ### Context
 #### Requirements
@@ -35,7 +35,7 @@ Service learning works because it situates learning in an authentic context with
 
 #### Constraints
 - Poorly matched or "make-work" placements reduce learning and can reinforce stereotypes about the community served [-M]
-- Reflection that is generic ("write about your feelings") rather than analytically tied to course concepts produces little academic gain [Reflection quality, not quantity alone, drives outcomes.](https://doi.org/10.3102/0034654310389057) [~M]
+- Reflection that is generic ("write about your feelings") rather than analytically tied to course concepts produces little academic gain Reflection quality, not quantity alone, drives outcomes.
 - Logistical burden is high: partner coordination, transportation, liability, and variable placement quality make fidelity hard to sustain at scale [-M]
 - Short-duration or one-off service ("drive-by volunteering") shows weaker and less durable effects than sustained engagement [~M]
 - Poorly matched placements — service unrelated to course content — produce no academic benefit and can reinforce stereotypes about the community served [-M]
@@ -63,7 +63,7 @@ Service learning works because it situates learning in an authentic context with
 ### Target Learning Goals
 - Applied understanding: using disciplinary concepts to analyze real situations ([Application](../elements/application.md))
 - Civic learning: civic responsibility, awareness of social issues, commitment to community engagement
-- Social-emotional and interpersonal outcomes: empathy, perspective-taking, communication [Service learning meta-analysis shows largest gains in social-emotional outcomes.](https://doi.org/10.3102/0034654310389057) [+S]
+- Social-emotional and interpersonal outcomes: empathy, perspective-taking, communication Service learning meta-analysis shows largest gains in social-emotional outcomes.
 - Professional skill development: collaboration, problem-framing, working with ambiguous constraints
 - Civic knowledge, engagement, and social responsibility
 - Interpersonal skills: communication, collaboration, cross-cultural competence
@@ -117,7 +117,7 @@ Service learning is a form of experiential education in which learners engage in
 
 ## Design Implications
 
-Service learning works because it situates learning in authentic contexts where knowledge must be applied under real conditions, and because reflection converts raw experience into transferable understanding [Experiential learning approaches improve outcomes when paired with structured reflection.](../claims/active-learning-improves-exam-performance.md) [+M]. Meta-analytic evidence shows service learning has positive average effects on academic, civic, and social-emotional outcomes, with the largest gains in civic engagement and empathy-related measures [Celio et al. (2011)](https://doi.org/10.1080/00220973.2010.484447) [+M]. The quality of the reflection component — not the hours of service — is the strongest design lever: unreflective service produces weak or null academic gains [~M].
+Service learning works because it situates learning in authentic contexts where knowledge must be applied under real conditions, and because reflection converts raw experience into transferable understanding [Experiential learning approaches improve outcomes when paired with structured reflection.](../claims/active-learning-improves-exam-performance.md) [+M]. Meta-analytic evidence shows service learning has positive average effects on academic, civic, and social-emotional outcomes, with the largest gains in civic engagement and empathy-related measures Celio et al. (2011). The quality of the reflection component — not the hours of service — is the strongest design lever: unreflective service produces weak or null academic gains [~M].
 
 ### Context
 #### Requirements

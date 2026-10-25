@@ -28,7 +28,7 @@ Operation Math exemplifies [game-based learning](../principles/game-based-learni
 - A way to monitor progress (missions completed, operation types) so practice can be targeted to gaps
 
 #### Constraints
-- Timed missions can induce anxiety and degrade performance for students with math anxiety or slow processing speed [Math anxiety consumes working memory resources and impairs performance, particularly under time pressure.](https://doi.org/10.1016/j.cedpsych.2008.10.004) [-M] — the timer should be disabled or reframed for these learners
+- Timed missions can induce anxiety and degrade performance for students with math anxiety or slow processing speed Math anxiety consumes working memory resources and impairs performance, particularly under time pressure. — the timer should be disabled or reframed for these learners
 - Drill-based practice does not build conceptual understanding of operations; used alone it produces procedural fluency without meaning [Rittle-Johnson et al. (2001) show procedural and conceptual knowledge develop iteratively in math.](https://doi.org/10.1037/0022-0663.93.2.346) [~M]
 - Game rewards can become the goal, with learners optimizing for mission completion rather than accuracy [-W]
 - Effectiveness depends on practice being distributed over time; massed app sessions produce weaker retention [Distributed practice improves retention.](../claims/spaced-practice-improves-retention.md) [-S] — schedule short, spaced sessions rather than long blocks
@@ -42,7 +42,7 @@ Operation Math exemplifies [game-based learning](../principles/game-based-learni
 ### Target Learners
 - Students ages 8–11 who have initial conceptual understanding of the four operations and need fluency practice
 - Learners motivated by game contexts who avoid traditional drill worksheets [Plass et al. (2015) argue narrative and reward structures sustain engagement in game-based learning.](https://doi.org/10.1080/00461520.2015.1122533) [+M]
-- Less appropriate for students still building conceptual models of the operations, or for those whom timed conditions reliably distress [Math anxiety consumes working memory resources and impairs performance, particularly under time pressure.](https://doi.org/10.1016/j.cedpsych.2008.10.004) [-M]
+- Less appropriate for students still building conceptual models of the operations, or for those whom timed conditions reliably distress Math anxiety consumes working memory resources and impairs performance, particularly under time pressure.
 
 ### Target Learning Goals
 - Procedural fluency and automatic recall of basic math facts across the four operations

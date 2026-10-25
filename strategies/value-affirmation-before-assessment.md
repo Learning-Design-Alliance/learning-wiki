@@ -64,8 +64,8 @@ Evaluative settings trigger threat responses that consume working memory and dep
 - [Frame reading assessment as a game to reduce stereotype threat for boys](frame-reading-test-as-game-reduce-threat.md)
 
 ## Examples
-- **Cohen et al. (2009)** — A 15-minute values-affirmation writing assignment administered in seventh-grade classrooms; Black students' grade point average improved and the racial achievement gap was reduced across the term ([Science](https://doi.org/10.1126/science.1171333)).
-- **Miyake et al. (2010)** — Values affirmation at the start of a university physics course substantially narrowed the gender gap in exam scores and course grades for women ([Science](https://doi.org/10.1126/science.1195364)).
+- **Cohen et al. (2009)** — A 15-minute values-affirmation writing assignment administered in seventh-grade classrooms; Black students' grade point average improved and the racial achievement gap was reduced across the term (Science).
+- **Miyake et al. (2010)** — Values affirmation at the start of a university physics course substantially narrowed the gender gap in exam scores and course grades for women (Science).
 - **PERTS / College Transition programs** — Online social-belonging and affirmation modules used in gateway course redesigns ([PERTS](https://www.perts.net)).
 
 ## Key Sources

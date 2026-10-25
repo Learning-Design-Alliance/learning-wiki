@@ -41,7 +41,7 @@ MCII converts goal intentions into behavior by addressing two documented failure
 - **Group format** — MCII works in classroom settings when students share obstacle categories (not plans) and generate individual if-then responses
 
 ### Target Learners
-- Adolescents and adults pursuing self-directed goals (study habits, homework completion, long projects); a randomized field trial with adolescents improved self-discipline and attendance [Self-regulation strategy training improved self-discipline measures in adolescents.](https://doi.org/10.1073/pnas.1018721108) [+M]
+- Adolescents and adults pursuing self-directed goals (study habits, homework completion, long projects); a randomized field trial with adolescents improved self-discipline and attendance Self-regulation strategy training improved self-discipline measures in adolescents.
 - Learners with weak self-regulation or high procrastination tendencies, for whom cue-based planning substitutes for willpower [+S]
 - Learners prone to positive fantasizing, who benefit most from the contrasting step [~M]
 - Less suited to learners who already have strong habitual routines for the domain — plans add little when behavior is already automatic [~W]
@@ -64,7 +64,7 @@ MCII converts goal intentions into behavior by addressing two documented failure
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — the obstacle-identification step similarly requires learners to surface what they already know about their own failure patterns
 
 ## Examples
-- **Duckworth et al. (2011) field trial** — Adolescents randomly assigned to MCII training showed gains in self-discipline, attendance, and (for initially low-performing students) academic performance compared to a control group [doi:10.1073/pnas.1018721108](https://doi.org/10.1073/pnas.1018721108).
+- **Duckworth et al. (2011) field trial** — Adolescents randomly assigned to MCII training showed gains in self-discipline, attendance, and (for initially low-performing students) academic performance compared to a control group.
 - **[WOOP app / woopmylife.org](https://woopmylife.org)** — Gabriele Oettingen's free app and school materials guide learners through the four-step sequence; includes classroom curricula for K-12 and higher education.
 - **Course onboarding prompt** — Instructors of large online courses ask students to complete one WOOP cycle for the course itself ("If I fall behind on lectures, then I will watch two during my Tuesday commute"), reducing attrition from vague intentions.
 

@@ -30,7 +30,7 @@ sources:
 
 ### rq1-dist
 
-Nasser Giacaman, Valerio Terragni, Paul Denny, and Viraj Kumar. 2026. Commenting with Copilot: A Taxonomy and Multi-Year Analysis of Student Code-Generation Specifications. Proceedings of the 2nd ACM Virtual Global Computing Education Conference (SIGCSE Virtual 2026). https://doi.org/10.1145/3795867.3830978
+Nasser Giacaman, Valerio Terragni, Paul Denny, and Viraj Kumar. 2026. Commenting with Copilot: A Taxonomy and Multi-Year Analysis of Student Code-Generation Specifications. Proceedings of the 2nd ACM Virtual Global Computing Education Conference (SIGCSE Virtual 2026). https://doi.org/10.48550/arXiv.2607.10674
 
 `q2 · i?` · `associational · r2`
 

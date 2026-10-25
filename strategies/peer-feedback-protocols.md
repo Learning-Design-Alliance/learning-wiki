@@ -20,7 +20,7 @@ Peer feedback protocols are structured routines — rubrics, sentence stems, sta
 
 ## Design Implications
 
-Peer feedback works when it functions as formative assessment in the hands of learners, not as grading [Formative assessment practices improve achievement.](../claims/assessment-for-learning-improves-achievement.md) [+S]. The protocol is the load-bearing component: unstructured peer comments tend toward vague praise ("good job") or personal taste, while criterion-referenced protocols produce feedback that correlates with instructor feedback in quality and improves the quality of subsequent work [Peer assessment can be as effective as teacher assessment when criteria and training are provided.](https://doi.org/10.1080/0969594X.2019.1690144) [+S]. Giving feedback is often as valuable as receiving it — the reviewer must evaluate work against criteria, which deepens their own understanding of quality [Peer learning benefits both giver and receiver.](https://doi.org/10.3102/00346543068003289) [+M].
+Peer feedback works when it functions as formative assessment in the hands of learners, not as grading [Formative assessment practices improve achievement.](../claims/assessment-for-learning-improves-achievement.md) [+S]. The protocol is the load-bearing component: unstructured peer comments tend toward vague praise ("good job") or personal taste, while criterion-referenced protocols produce feedback that correlates with instructor feedback in quality and improves the quality of subsequent work Peer assessment can be as effective as teacher assessment when criteria and training are provided.. Giving feedback is often as valuable as receiving it — the reviewer must evaluate work against criteria, which deepens their own understanding of quality Peer learning benefits both giver and receiver..
 
 ### Context
 #### Requirements
@@ -56,7 +56,7 @@ Peer feedback works when it functions as formative assessment in the hands of le
 - **Anonymous vs. attributed:** anonymity increases candor; attribution builds accountability and dialogue
 
 ### Target Learners
-- Effective across K–12 through higher education, with strongest effects in secondary and tertiary writing contexts [Peer assessment improves academic performance compared with no assessment or teacher-only assessment.](https://doi.org/10.1080/0969594X.2019.1690144) [+S]
+- Effective across K–12 through higher education, with strongest effects in secondary and tertiary writing contexts Peer assessment improves academic performance compared with no assessment or teacher-only assessment.
 - Developing writers benefit from seeing peers' approaches and receiving multiple readings of a draft [Collaborative writing improves text quality.](../claims/collaborative-writing-improves-text-quality.md) [+M]
 - Novice reviewers gain the most from the *giving* side; experts may find protocol steps redundant [~W]
 - Secondary and higher-education learners with enough metacognitive maturity to critique work against criteria [~M]
@@ -64,7 +64,7 @@ Peer feedback works when it functions as formative assessment in the hands of le
 
 ### Target Learning Goals
 - Quality criteria internalization: learning what "good work" looks like by applying criteria to real cases
-- Revision and self-regulation: using external feedback to plan improvements [Feedback that answers "Where am I going, how am I doing, what next?" improves learning.](https://doi.org/10.1080/00405840709536524) [+S]
+- Revision and self-regulation: using external feedback to plan improvements Feedback that answers "Where am I going, how am I doing, what next?" improves learning.
 - Evaluative judgment: building the capacity to assess one's own work independently
 - Quality improvement of drafts and products (writing, design, code, arguments)
 - Communication and [argumentation](../elements/argumentation.md) skills through justified critique

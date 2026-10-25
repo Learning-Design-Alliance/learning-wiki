@@ -20,7 +20,7 @@ A midterm exam is a formal, summative assessment administered at the midpoint of
 
 ## Design Implications
 
-Midterms leverage the testing effect — the act of retrieving information strengthens long-term retention more than restudying [Retrieval practice improves retention relative to restudying.](https://doi.org/10.1111/j.1467-9280.2006.01693) [+S]. Their diagnostic value depends on feedback: a midterm followed by timely, specific feedback functions as [Assessment for Learning](../principles/assessment-for-learning.md), informing both instructor pacing and student study strategies [+M]. Without feedback, the exam degrades into pure ranking and loses most instructional value [-M].
+Midterms leverage the testing effect — the act of retrieving information strengthens long-term retention more than restudying Retrieval practice improves retention relative to restudying.. Their diagnostic value depends on feedback: a midterm followed by timely, specific feedback functions as [Assessment for Learning](../principles/assessment-for-learning.md), informing both instructor pacing and student study strategies [+M]. Without feedback, the exam degrades into pure ranking and loses most instructional value [-M].
 
 ### Context
 #### Requirements

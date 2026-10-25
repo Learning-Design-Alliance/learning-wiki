@@ -73,6 +73,6 @@ Family literacy events work best when they model concrete practices caregivers c
 
 ## Key Sources
 - Sénéchal, M., & Young, L. (2008). The effect of family literacy interventions on children's acquisition of reading from kindergarten to grade 3: A meta-analytic review. *Review of Educational Research, 78*(4), 880–907. [doi:10.3102/0034654308320319](https://doi.org/10.3102/0034654308320319)
-- Van Steensel, R., McElvany, N., Kurvers, J., & Herppich, S. (2011). How effective are family literacy programs? Results of a meta-review. *Review of Educational Research, 81*(1), 69–96. [doi:10.3102/0034654310388817](https://doi.org/10.3102/0034654310388817)
+- Van Steensel, R., McElvany, N., Kurvers, J., & Herppich, S. (2011). How effective are family literacy programs? Results of a meta-review. *Review of Educational Research, 81*(1), 69–96. [doi:10.3102/0034654310388819](https://doi.org/10.3102/0034654310388819)
 - Tracey, D. H., & Morrow, L. M. (2012). *Lenses on reading: An introduction to theories and models* (2nd ed.). Guilford Press.
 - Epstein, J. L. (2011). *School, family, and community partnerships: Preparing educators and improving schools* (2nd ed.). Westview Press.

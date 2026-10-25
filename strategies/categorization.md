@@ -19,7 +19,7 @@ Categorization asks learners to actively sort, group, or label cases — problem
 
 ## Design Implications
 
-Expertise research shows that what distinguishes experts is not only richer knowledge but better-organized knowledge: experts categorize problems by solution-relevant principles while novices categorize by surface features [Chi, Feltovich, & Glaser, 1981](https://doi.org/10.1207/s15516709cog0501_2) [+S]. Having learners sort cases *before* instruction primes them to notice the dimensions that matter, preparing them to learn from subsequent explanation [Schwartz & Bransford, 1998](https://doi.org/10.1207/s1532690xci1701_2) [+S]. Sorting tasks also impose manageable load because learners compare items side by side rather than processing each in isolation [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+S].
+Expertise research shows that what distinguishes experts is not only richer knowledge but better-organized knowledge: experts categorize problems by solution-relevant principles while novices categorize by surface features Chi, Feltovich, & Glaser, 1981. Having learners sort cases *before* instruction primes them to notice the dimensions that matter, preparing them to learn from subsequent explanation [Schwartz & Bransford, 1998](https://doi.org/10.1207/s1532690xci1701_2) [+S]. Sorting tasks also impose manageable load because learners compare items side by side rather than processing each in isolation [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+S].
 
 ### Context
 #### Requirements
@@ -40,7 +40,7 @@ Expertise research shows that what distinguishes experts is not only richer know
 - Progressive sorting: re-sort the same set after instruction to make conceptual change visible
 
 ### Target Learners
-- Novices who default to surface-feature reasoning and need to discover structural dimensions [Chi et al., 1981](https://doi.org/10.1207/s15516709cog0501_2) [+S]
+- Novices who default to surface-feature reasoning and need to discover structural dimensions Chi et al., 1981
 - Intermediate learners consolidating a domain's taxonomy before advanced coursework
 - Less effective for learners who already possess well-structured category knowledge, for whom sorting is redundant [~W]
 

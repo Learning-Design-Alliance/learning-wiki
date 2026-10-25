@@ -9,15 +9,12 @@ generated:
   at: 2026-08-29
 sources:
   - id: chin-osborne-2008
-    resource: "https://doi.org/10.1080/03057260808591696"
     title: "Chin, C., & Osborne, J. (2008). Students' questions: A potential resource for teaching and learning science. *Studies in Science Education, 44*(1), 1–39"
     author: "Chin, C., & Osborne, J"
   - id: jirout-klahr-2012
-    resource: "https://doi.org/10.1016/j.dr.2011.12.001"
     title: "Jirout, J., & Klahr, D. (2012). Children's scientific curiosity: In search of an operational definition of an elusive concept. *Developmental Review, 32*(2), 125–147"
     author: "Jirout, J., & Klahr, D"
   - id: edelson-2001
-    resource: "https://doi.org/10.1207/s15327809jls1004_2"
     title: "Edelson, D. C. (2001). Learning-for-use: A framework for the design of technology-supported inquiry activities. *The Journal of the Learning Sciences, 10*(4), 355–386"
     author: "Edelson, D. C"
 ---
@@ -32,7 +29,7 @@ I Wonder Journals are ongoing notebooks in which students record open-ended ques
 
 ## Design Implications
 
-Student-generated questions are a strong predictor of engagement and a lever for inquiry: when learners pose their own questions, they take ownership of the knowledge gap the lesson will close [Student questions function as a resource for teaching and learning, particularly when teachers respond to them substantively.](https://doi.org/10.1080/03057260808591696) [+M]. The journal format lowers the social cost of asking — shy or slower-processing students can contribute questions they would not voice publicly — and creates a written record that supports [self-explanation](../claims/self-explanation-improves-conceptual-understanding.md) [+M] as students articulate what puzzles them. Curiosity itself is state-like and responsive to context: routines that invite question-posing increase the frequency and quality of curiosity-driven behavior [Curiosity is operationalized as a state elicited by specific knowledge gaps, not a fixed trait.](https://doi.org/10.1016/j.dr.2011.12.001) [+M].
+Student-generated questions are a strong predictor of engagement and a lever for inquiry: when learners pose their own questions, they take ownership of the knowledge gap the lesson will close Student questions function as a resource for teaching and learning, particularly when teachers respond to them substantively.. The journal format lowers the social cost of asking — shy or slower-processing students can contribute questions they would not voice publicly — and creates a written record that supports [self-explanation](../claims/self-explanation-improves-conceptual-understanding.md) [+M] as students articulate what puzzles them. Curiosity itself is state-like and responsive to context: routines that invite question-posing increase the frequency and quality of curiosity-driven behavior Curiosity is operationalized as a state elicited by specific knowledge gaps, not a fixed trait..
 
 ### Context
 #### Requirements
@@ -54,12 +51,12 @@ Student-generated questions are a strong predictor of engagement and a lever for
 - **Home–school bridge**: families contribute observations that seed journal entries, widening the source of phenomena
 
 ### Target Learners
-- Elementary and middle-grades students, for whom curiosity is high but question-formulation skills are still developing [Curiosity is operationalized as a state elicited by specific knowledge gaps, not a fixed trait.](https://doi.org/10.1016/j.dr.2011.12.001) [+M]
+- Elementary and middle-grades students, for whom curiosity is high but question-formulation skills are still developing Curiosity is operationalized as a state elicited by specific knowledge gaps, not a fixed trait.
 - Reluctant speakers and students who process slowly in whole-class settings, since writing removes real-time performance pressure
 - Less effective as-is for advanced learners who need tighter constraints; their journals benefit from pairing questions with criteria for investigability
 
 ### Target Learning Goals
-- Question formulation: a core scientific practice and component of inquiry competence [Student questions function as a resource for teaching and learning, particularly when teachers respond to them substantively.](https://doi.org/10.1080/03057260808591696) [+M]
+- Question formulation: a core scientific practice and component of inquiry competence Student questions function as a resource for teaching and learning, particularly when teachers respond to them substantively.
 - Curiosity and motivation: building the disposition to notice and pursue knowledge gaps
 - Metacognition: articulating what one does and does not understand
 - Ownership of inquiry: students see their questions driving the curriculum, supporting autonomy [Autonomy supports intrinsic motivation.](../claims/autonomy-supports-intrinsic-motivation.md) [+M]
@@ -79,7 +76,7 @@ Student-generated questions are a strong predictor of engagement and a lever for
 
 ## Examples
 - **Wonder Walls in elementary science classrooms** — a widespread practice documented in science education literature: students post journal questions on a classroom display, and the class selects one per week for investigation.
-- **[Learning-for-Use model](https://doi.org/10.1207/s15327809jls1004_2)** — Edelson's design framework positions learner-generated questions as the motivation phase of inquiry; I Wonder Journals are a low-tech implementation of that phase.
+- **Learning-for-Use model** — Edelson's design framework positions learner-generated questions as the motivation phase of inquiry; I Wonder Journals are a low-tech implementation of that phase.
 - **[Exploratorium Teacher Institute](https://www.exploratorium.edu/education/teacher-institute)** — teacher professional development that models phenomenon-first observation followed by question-posing routines of this kind.
 
 ## Key Sources

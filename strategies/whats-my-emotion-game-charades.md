@@ -81,7 +81,7 @@ The game pairs two mechanisms known to support learning: enacting content improv
 - Emotion identification and precise emotional vocabulary
 - Reading nonverbal cues: facial expression, posture, gesture, proximity
 - Perspective-taking and empathy — enacting an emotion requires simulating how it feels [Building empathy through perspective-taking activities improves prosocial outcomes.](../principles/building-empathy.md) [+M]
-- Social-emotional learning competencies more broadly; well-implemented SEL programming shows measurable gains in skills, attitudes, and behavior [Social-emotional learning programs improve social skills, attitudes, and academic performance.](https://doi.org/10.1111/j.1467-8624.2010.01564) [+S]
+- Social-emotional learning competencies more broadly; well-implemented SEL programming shows measurable gains in skills, attitudes, and behavior Social-emotional learning programs improve social skills, attitudes, and academic performance.
 - Emotional self-awareness: identifying and labeling one's current state
 - Non-verbal communication: expressing and decoding facial expressions and body language
 - Empathy and perspective-taking: inferring others' internal states from observable cues

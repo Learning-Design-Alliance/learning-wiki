@@ -19,7 +19,7 @@ Making inferences requires readers to draw conclusions from information in a tex
 
 ## Design Implications
 
-Inference-making is a teachable skill, not merely a byproduct of reading volume: explicit instruction in identifying clues, activating relevant knowledge, and verbalizing the inference improves comprehension, especially for weaker readers [Activation of background knowledge for inference making.](https://doi.org/10.1080/10888438.2012.699578) [+S]. Instruction works best when teachers model the reasoning process aloud and then fade support as learners generate and justify their own inferences.
+Inference-making is a teachable skill, not merely a byproduct of reading volume: explicit instruction in identifying clues, activating relevant knowledge, and verbalizing the inference improves comprehension, especially for weaker readers Activation of background knowledge for inference making.. Instruction works best when teachers model the reasoning process aloud and then fade support as learners generate and justify their own inferences.
 
 ### Context
 #### Requirements
@@ -40,7 +40,7 @@ Inference-making is a teachable skill, not merely a byproduct of reading volume:
 - Applied beyond reading: [Case Study](../elements/case-study.md) analysis, data interpretation, and [Argumentation](../elements/argumentation.md) all require the same clue-plus-knowledge reasoning
 
 ### Target Learners
-- Struggling readers in upper elementary through secondary school, who often decode well but fail to build coherent situation models [Activation of background knowledge for inference making.](https://doi.org/10.1080/10888438.2012.699578) [+S]
+- Struggling readers in upper elementary through secondary school, who often decode well but fail to build coherent situation models Activation of background knowledge for inference making.
 - Adult learners improving reading comprehension and critical thinking
 - Less effective as a standalone intervention for learners whose difficulty is word recognition rather than comprehension — decoding must be largely automatic first [~M]
 

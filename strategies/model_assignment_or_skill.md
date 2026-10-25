@@ -14,7 +14,6 @@ sources:
     title: "Bandura, A. (1977). *Social learning theory*. Prentice Hall"
     author: "Bandura, A"
   - id: collins-1991
-    resource: "https://doi.org/10.2307/225080"
     title: "Collins, A., Brown, J. S., & Newman, S. E. (1989). Cognitive apprenticeship: Teaching the crafts of reading, writing, and mathematics. In L. B. Resnick (Ed.), *Knowing, Learning, and Instruction* (pp. 453–494). Erlbaum"
     author: "Collins, A., Brown, J. S., & Newman, S. E"
   - id: van-gog-2010
@@ -22,7 +21,6 @@ sources:
     title: "van Gog, T., & Rummel, N. (2010). Example-based learning: Integrating cognitive and social-cognitive research perspectives. *Educational Psychology Review, 22*(2), 155–174"
     author: "van Gog, T., & Rummel, N"
   - id: fisher-2011
-    resource: "https://doi.org/10.1080/10888438.2010.492121"
     title: "Fisher, D., & Frey, N. (2011). Engaging the adolescent learner: Gradual release of responsibility instructional framework. *International Reading Association*"
     author: "Fisher, D., & Frey, N"
 ---

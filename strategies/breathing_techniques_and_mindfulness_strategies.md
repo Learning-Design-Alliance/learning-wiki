@@ -19,7 +19,7 @@ Teaching breathing techniques and mindfulness strategies equips students with to
 
 ## Design Implications
 
-Mindfulness-based practices in school settings show small-to-moderate positive effects on attention, emotional regulation, and stress outcomes when delivered as structured programs rather than isolated exercises [Zenner et al. meta-analysis of school-based mindfulness programs.](https://doi.org/10.1007/s12671-014-0282-1) [+M]. The mechanism is improved attention control and interoceptive awareness, which support top-down emotion regulation [Hölzel et al. mechanism review.](https://doi.org/10.1016/j.tics.2011.04.008) [+M]. Because these are skills, they must be modeled and rehearsed like any other procedural skill: brief, frequent practice embedded in routines outperforms long, infrequent sessions.
+Mindfulness-based practices in school settings show small-to-moderate positive effects on attention, emotional regulation, and stress outcomes when delivered as structured programs rather than isolated exercises Zenner et al. meta-analysis of school-based mindfulness programs.. The mechanism is improved attention control and interoceptive awareness, which support top-down emotion regulation [Hölzel et al. mechanism review.](https://doi.org/10.1016/j.tics.2011.04.008) [+M]. Because these are skills, they must be modeled and rehearsed like any other procedural skill: brief, frequent practice embedded in routines outperforms long, infrequent sessions.
 
 ### Context
 #### Requirements
@@ -29,7 +29,7 @@ Mindfulness-based practices in school settings show small-to-moderate positive e
 - Framing as voluntary skill-building rather than mandated compliance or punishment de-escalation
 
 #### Constraints
-- Effects fade without ongoing practice; one-time workshops show little durable benefit [Zenner et al. meta-analysis of school-based mindfulness programs.](https://doi.org/10.1007/s12671-014-0282-1) [~M]
+- Effects fade without ongoing practice; one-time workshops show little durable benefit Zenner et al. meta-analysis of school-based mindfulness programs.
 - Some students — particularly those with trauma histories — may find interoceptive attention (body scans, eyes-closed breathing) distressing or triggering; alternatives such as external anchors (sounds, movement-based breathing) should be offered [-M]
 - Mandated or punitive use ("calm down and breathe") undermines the autonomy that makes self-regulation strategies stick [~M]
 - Benefits are small on average and should not replace other supports for students with significant clinical needs [-W]

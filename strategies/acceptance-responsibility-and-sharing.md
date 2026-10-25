@@ -19,7 +19,7 @@ This strategy guides learners through three moves after an interpersonal conflic
 
 ## Design Implications
 
-The strategy operationalizes research on forgiveness and emotional disclosure: structured acknowledgment of wrongdoing and verbal sharing of emotional experience are associated with reduced hostility and improved relational outcomes [Forgiveness interventions reduce anger and depression and improve relational outcomes.](https://doi.org/10.1016/j.cpr.2006.12.003) [+M]. Its effectiveness depends on framing responsibility as ownership of one's own actions rather than as negotiated blame, and on the disclosure being genuine rather than performative [Emotional disclosure about conflicts produces measurable benefits only when it involves genuine emotional processing.](https://doi.org/10.1037/0022-3514.50.4.841) [~M].
+The strategy operationalizes research on forgiveness and emotional disclosure: structured acknowledgment of wrongdoing and verbal sharing of emotional experience are associated with reduced hostility and improved relational outcomes [Forgiveness interventions reduce anger and depression and improve relational outcomes.](https://doi.org/10.1016/j.cpr.2006.12.003) [+M]. Its effectiveness depends on framing responsibility as ownership of one's own actions rather than as negotiated blame, and on the disclosure being genuine rather than performative [Emotional disclosure about conflicts produces measurable benefits only when it involves genuine emotional processing.](https://doi.org/10.1037/0021-843x.95.3.274) [~M].
 
 ### Context
 #### Requirements
@@ -68,6 +68,6 @@ The strategy operationalizes research on forgiveness and emotional disclosure: s
 
 ## Key Sources
 - Worthington, E. L., Jr., Witvliet, C. V. O., Pietrini, P., & Miller, A. J. (2007). Forgiveness, health, and well-being: A review of evidence for emotional versus decisional forgiveness. *Journal of Behavioral Medicine, 30*(4), 291–302. [doi:10.1007/s10865-007-9105-8](https://doi.org/10.1007/s10865-007-9105-8)
-- Pennebaker, J. W., & Beall, S. K. (1986). Confronting a traumatic event: Toward an understanding of inhibition and disease. *Journal of Abnormal Psychology, 95*(3), 274–281. [doi:10.1037/0021-843x.95.3.274](https://doi.org/10.1037/0022-3514.50.4.841)
+- Pennebaker, J. W., & Beall, S. K. (1986). Confronting a traumatic event: Toward an understanding of inhibition and disease. *Journal of Abnormal Psychology, 95*(3), 274–281. [doi:10.1037/0021-843x.95.3.274](https://doi.org/10.1037/0021-843x.95.3.274)
 - Rosenberg, M. B. (2015). *Nonviolent Communication: A Language of Life* (3rd ed.). PuddleDancer Press.
 - Ttofi, M. M., & Farrington, D. P. (2011). Effectiveness of school-based programs to reduce bullying: A systematic and meta-analytic review. *Journal of Experimental Criminology, 7*(1), 27–56. [doi:10.1007/s11292-010-9109-1](https://doi.org/10.1007/s11292-010-9109-1)

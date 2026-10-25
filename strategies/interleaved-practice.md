@@ -38,7 +38,7 @@ Interleaving trades short-term performance for long-term retention and transfer:
 - **Within-session interleaving** (ABCABC) vs. **across-session interleaving** (homework sets that mix the week's topics with prior weeks' topics) — the latter is easier to schedule and adds spacing benefits
 - **Incremental interleaving**: start with two categories, add more as discrimination improves
 - **Interleaved worked examples**: alternating fully worked examples across categories before independent practice
-- **Inductive interleaving**: presenting exemplars from different categories mixed together so learners induce the category boundaries themselves [Kornell & Bjork.](https://doi.org/10.1037/0278-7393.34.5.1093) [+S]
+- **Inductive interleaving**: presenting exemplars from different categories mixed together so learners induce the category boundaries themselves Kornell & Bjork.
 
 ### Target Learners
 - Learners past initial acquisition who can execute each procedure but confuse *when* to apply it — the classic profile for interleaving gains [Rohrer et al. classroom study.](https://doi.org/10.1037/xap0000050) [+S]
@@ -68,7 +68,7 @@ Interleaving trades short-term performance for long-term retention and transfer:
 ## Examples
 - **Rohrer, Dedrick, and Stershic (2015)** — In real mathematics classrooms, worksheets that interleaved graphing, volume, and slope problems produced dramatically better delayed test scores (about 80% vs. 64%) than blocked worksheets with identical problems.
 - **Khan Academy** — Mastery-style exercise sets mix problem types within a skill cluster rather than presenting long runs of one type, and spaced review resurfaces earlier skills mixed with new ones.
-- **Art and pathology education** — Studies of painting attribution and histology slide identification interleave exemplars from different artists or disease categories, improving inductive category learning [Kornell & Bjork.](https://doi.org/10.1037/0278-7393.34.5.1093) [+S]
+- **Art and pathology education** — Studies of painting attribution and histology slide identification interleave exemplars from different artists or disease categories, improving inductive category learning Kornell & Bjork.
 
 ## Key Sources
 - Rohrer, D., & Taylor, K. (2007). The shuffling of mathematics problems improves learning. *Instructional Science, 35*(6), 481–498. [doi:10.1007/s11251-007-9015-8](https://doi.org/10.1007/s11251-007-9015-8)

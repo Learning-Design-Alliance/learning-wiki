@@ -19,7 +19,6 @@ sources:
     title: "Numrich, C., & Kennedy, A. S. (2017). Providing guided practice in discourse synthesis. *TESOL Journal, 8*(1), 28-43"
     author: "Numrich, C., & Kennedy, A. S"
   - id: massengill-2004
-    resource: "https://doi.org/10.1598/JAAL.47.7.5"
     title: "Massengill, D. (2004). The impact of using guided reading to teach low-literate adults. *Journal of Adolescent & Adult Literacy, 47*(7), 588-602"
     author: Massengill, D
   - id: merrill-2002

@@ -144,7 +144,7 @@ Math Talks operationalize [Active Learning](../principles/active-learning.md) an
 - Parrino, K. (1991). Number talks: The language of mathematics. *California Mathematics Council Community, 16*(2), 4–5.
 - Parrish, S. D. (2011). Number talks build numerical reasoning. *Teaching Children Mathematics, 18*(3), 198–206. [doi:10.5951/teacchilmath.18.3.0198](https://doi.org/10.5951/teacchilmath.18.3.0198)
 - Boaler, J., & Brodie, K. (2004). The importance, nature, and impact of teacher questions. *Proceedings of the 26th Annual Meeting of the North American Chapter of the International Group for the Psychology of Mathematics Education*, 774–780.
-- NCTM (2014). *Principles to actions: Ensuring mathematical success for all*. National Council of Teachers of Mathematics. [doi:10.5951/principlestoactions.2014.0001](https://doi.org/10.5951/principlestoactions.2014.0001)
+- NCTM (2014). *Principles to actions: Ensuring mathematical success for all*. National Council of Teachers of Mathematics.
 - Parrish, S. D. (2014). *Number talks: Helping children build mental math and computation strategies, grades K–5* (2nd ed.). Math Solutions.
 - Humphreys, C., & Parker, R. (2015). *Making number talks matter: Developing mathematical practices and deepening understanding, grades 4–10*. Stenhouse Publishers.
 - Kazemi, E., & Hintz, A. (2014). *Intentional talk: How to structure and lead productive mathematical discussions*. Stenhouse Publishers.
@@ -242,7 +242,7 @@ Number Talks operationalize [Active Learning](../principles/active-learning.md) 
 - Parrish, S. D. (2011). Number talks build numerical reasoning. *Teaching Children Mathematics, 18*(3), 198–206. [doi:10.5951/teacchilmath.18.3.0198](https://doi.org/10.5951/teacchilmath.18.3.0198)
 - Parrish, S. D. (2010). *Number talks: Helping children build mental math and computation strategies, grades K–5*. Math Solutions.
 - Boaler, J., & Brodie, K. (2004). The importance, nature, and impact of teacher questions. *Proceedings of the 26th Annual Meeting of the North American Chapter of the International Group for the Psychology of Mathematics Education*, 774–780.
-- NCTM (2014). *Principles to actions: Ensuring mathematical success for all*. National Council of Teachers of Mathematics. [doi:10.5951/principlestoactions.2014.0001](https://doi.org/10.5951/principlestoactions.2014.0001)
+- NCTM (2014). *Principles to actions: Ensuring mathematical success for all*. National Council of Teachers of Mathematics.
 - Parrish, S. D. (2014). *Number talks: Helping children build mental math and computation strategies, grades K–5* (2nd ed.). Math Solutions.
 - Humphreys, C., & Parker, R. (2015). *Making number talks matter: Developing mathematical practices and deepening understanding, grades 4–10*. Stenhouse Publishers.
 - Kazemi, E., & Hintz, A. (2014). *Intentional talk: How to structure and lead productive mathematical discussions*. Stenhouse Publishers.

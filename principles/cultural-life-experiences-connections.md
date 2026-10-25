@@ -36,7 +36,6 @@ sources:
     title: "Rife, T. S. (2025). Critical Communication Pedagogy at the End of the World. Journal of Communication Pedagogy. https://doi.org/10.31446/JCP.2025.1.07"
     author: Rife, T. S
   - id: civil-2020
-    resource: "https://doi.org/10.1007/s11858-019-01087-6"
     title: "Civil, M., Stoehr, K. J., & Salazar, F. (2020). Learning with and from immigrant mothers: Implications for adult numeracy. *ZDM Mathematics Education, 52*(3), 489-500"
     author: "Civil, M., Stoehr, K. J., & Salazar, F"
   - id: piesch-2020

@@ -19,7 +19,7 @@ Offering multiple options for family engagement means designing a portfolio of p
 
 ## Design Implications
 
-Family engagement functions like a motivational and access problem: participation rises when families perceive invitation, efficacy, and feasible opportunity [~M]. Hoover-Dempsey and Sandler's model locates engagement decisions in families' role construction and sense of efficacy for helping — both of which are shaped by how schools invite and equip families, not just by how often they are asked [Hoover-Dempsey & Sandler model of the parental involvement process.](https://doi.org/10.1080/00220679509594755) [+M]. Multiple options also build social capital: connecting families to one another and to community organizations increases engagement through network effects, not only through direct school outreach [Parents' social networks predict involvement beyond individual characteristics.](https://doi.org/10.1177/000271620204583101) [+M].
+Family engagement functions like a motivational and access problem: participation rises when families perceive invitation, efficacy, and feasible opportunity [~M]. Hoover-Dempsey and Sandler's model locates engagement decisions in families' role construction and sense of efficacy for helping — both of which are shaped by how schools invite and equip families, not just by how often they are asked Hoover-Dempsey & Sandler model of the parental involvement process.. Multiple options also build social capital: connecting families to one another and to community organizations increases engagement through network effects, not only through direct school outreach Parents' social networks predict involvement beyond individual characteristics..
 
 ### Context
 #### Requirements
@@ -44,7 +44,7 @@ Family engagement functions like a motivational and access problem: participatio
 ### Target Learners
 - Families facing significant barriers to engagement — shift workers, families with limited English proficiency, families with negative prior school experiences — who are excluded by single-channel approaches [~M]
 - Families new to a school community, for whom varied low-stakes entry points lower the cost of first contact
-- Family members developing leadership capacity through peer networks and community partnerships [Parents' social networks predict involvement beyond individual characteristics.](https://doi.org/10.1177/000271620204583101) [+M]
+- Family members developing leadership capacity through peer networks and community partnerships Parents' social networks predict involvement beyond individual characteristics.
 
 ### Target Learning Goals
 - Increased and more equitable family participation in children's education

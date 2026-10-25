@@ -81,7 +81,7 @@ Problem solving works because generating a solution forces retrieval, elaboratio
 - [Analogical Reasoning](../principles/analogical-reasoning.md) — solving a sequence of structurally similar problems builds the schema that enables transfer
 
 ## Examples
-- **Problem-based learning in medical education** — small groups work through a patient case (e.g., Maastricht University's PBL curriculum), identifying learning issues before consulting resources; see [Hmelo-Silver (2004)](https://doi.org/10.1023/B:EDPR.0000034022.16428.f1).
+- **Problem-based learning in medical education** — small groups work through a patient case (e.g., Maastricht University's PBL curriculum), identifying learning issues before consulting resources; see Hmelo-Silver (2004).
 - **Jasper Woodbury Problem Solving series** — video-anchored mathematical adventure problems requiring students to plan trips and budgets ([https://peabody.vanderbilt.edu](https://peabody.vanderbilt.edu)).
 - **Harvard Business School case method** — students must take a position and defend a decision on a real management problem in every class session.
 

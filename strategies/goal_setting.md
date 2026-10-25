@@ -19,7 +19,7 @@ Goal setting establishes specific performance or learning targets that learners 
 
 ## Design Implications
 
-Goal setting is one of the most robust findings in organizational and educational psychology: specific, difficult goals reliably outperform "do your best" instructions for tasks on which effort and persistence matter [Locke & Latham's goal-setting theory](https://doi.org/10.1037/0033-2909.125.2.267) [+S]. Proximal subgoals are especially powerful for learners, because near-term targets provide immediate feedback about progress and build a sense of efficacy that sustains engagement with distal goals [Proximal subgoals raise self-efficacy and free-choice persistence in children.](https://doi.org/10.1037/0022-0663.73.5.648) [+S]. Goal setting is a core phase of [Self-Regulated Learning](../theories/self-regulated-learning.md): learners who set process-oriented goals and monitor progress against them show stronger achievement than those who only receive external targets [+M].
+Goal setting is one of the most robust findings in organizational and educational psychology: specific, difficult goals reliably outperform "do your best" instructions for tasks on which effort and persistence matter Locke & Latham's goal-setting theory. Proximal subgoals are especially powerful for learners, because near-term targets provide immediate feedback about progress and build a sense of efficacy that sustains engagement with distal goals Proximal subgoals raise self-efficacy and free-choice persistence in children.. Goal setting is a core phase of [Self-Regulated Learning](../theories/self-regulated-learning.md): learners who set process-oriented goals and monitor progress against them show stronger achievement than those who only receive external targets [+M].
 
 ### Context
 #### Requirements
@@ -41,7 +41,7 @@ Goal setting is one of the most robust findings in organizational and educationa
 - **Micro-goals**: breaking a session into achievable micro-goals reduces avoidance in low-efficacy learners — see [Achievable Micro-Goals](achievable_micro-goals.md)
 
 ### Target Learners
-- Learners with low self-efficacy or avoidance tendencies, for whom proximal subgoals build efficacy through early success [Proximal subgoals raise self-efficacy and free-choice persistence in children.](https://doi.org/10.1037/0022-0663.73.5.648) [+S]
+- Learners with low self-efficacy or avoidance tendencies, for whom proximal subgoals build efficacy through early success Proximal subgoals raise self-efficacy and free-choice persistence in children.
 - Adolescents and adults capable of self-monitoring; younger learners need externally managed goal structures and frequent check-ins
 - Underperforming students benefit disproportionately from structured goal-setting interventions [+M]
 

@@ -10,7 +10,6 @@ generated:
   at: 2026-08-29
 sources:
   - id: van-merrienboer-2002
-    resource: "https://doi.org/10.1023/A:1015353406100"
     title: "van Merriënboer, J. J. G., Clark, R. E., & de Croock, M. B. M. (2002). Blueprints for complex learning: The 4C/ID-model. *Educational Psychology Review, 14*(1), 57–71"
     author: "van Merriënboer, J. J. G., Clark, R. E., & de Croock, M. B. M"
   - id: sweller-1985
@@ -18,7 +17,6 @@ sources:
     title: "Sweller, J., & Cooper, G. A. (1985). The use of worked examples as a substitute for problem solving in learning algebra. *Cognition and Instruction, 2*(1), 59–89"
     author: "Sweller, J., & Cooper, G. A"
   - id: kester-2004
-    resource: "https://doi.org/10.1023/A:1021814310356"
     title: "Kester, L., Kirschner, P. A., & van Merriënboer, J. J. G. (2004). Timing of information presentation in learning statistics. *Instructional Science, 32*(1), 31–52"
     author: "Kester, L., Kirschner, P. A., & van Merriënboer, J. J. G"
 ---
@@ -94,7 +92,7 @@ Procedural information reduces the working-memory burden of executing routine ta
 **[Microsoft Office contextual help / Clippy-style task guidance](https://support.microsoft.com)** — Step-by-step task instructions surfaced within the application at the point of need, a classic performance-support implementation of just-in-time procedural information.
 
 ## Key Sources
-- van Merriënboer, J. J. G., Clark, R. E., & de Croock, M. B. M. (2002). Blueprints for complex learning: The 4C/ID-model. *Educational Psychology Review, 14*(1), 57–71. [doi:10.1023/A:1015353406100](https://doi.org/10.1023/A:1015353406100)
+- van Merriënboer, J. J. G., Clark, R. E., & de Croock, M. B. M. (2002). Blueprints for complex learning: The 4C/ID-model. *Educational Psychology Review, 14*(1), 57–71.
 - Kester, L., Kirschner, P. A., & van Merriënboer, J. J. G. (2004). Timing of information presentation in learning statistics. *Instructional Science, 32*(1), 31–52. [doi:10.1023/b:truc.0000024191.27560.e3](https://doi.org/10.1023/b:truc.0000024191.27560.e3)
 - Sweller, J., & Cooper, G. A. (1985). The use of worked examples as a substitute for problem solving in learning algebra. *Cognition and Instruction, 2*(1), 59–89. [doi:10.1207/s1532690xci0201_3](https://doi.org/10.1207/s1532690xci0201_3)
 - van Merriënboer, J. J. G., & Kirschner, P. A. (2018). *Ten steps to complex learning* (3rd ed.). Routledge.

@@ -30,7 +30,7 @@ Affinity mapping converts divergent idea generation into convergent organization
 - A follow-on task (e.g., an analytical essay) that uses the resulting structure
 
 #### Constraints
-- Group brainstorming can produce fewer and lower-quality ideas than individuals working alone when vocal turn-taking dominates [Productivity loss in interacting groups reduces idea generation.](https://doi.org/10.1037/0033-2909.113.1.100) [-S] — silent note generation before discussion mitigates this
+- Group brainstorming can produce fewer and lower-quality ideas than individuals working alone when vocal turn-taking dominates Productivity loss in interacting groups reduces idea generation. — silent note generation before discussion mitigates this
 - Clustering is cognitively demanding; learners with weak domain knowledge may create surface-level or idiosyncratic categories [~M]
 - Large note volumes overwhelm working memory and the sorting process [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [~M] — cap notes or pre-filter before clustering
 - Time-consuming; without facilitation, dominant voices control placement and quieter learners disengage

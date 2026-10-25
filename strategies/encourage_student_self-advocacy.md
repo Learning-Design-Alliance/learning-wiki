@@ -36,7 +36,7 @@ Self-advocacy is a component of self-determination, and interventions that build
 - Advocacy without response is worse than no advocacy: if requests are ignored or punished, students learn that speaking up is futile
 - Requires sustained instructional time; one-off lessons on "knowing your learning style" produce little durable change
 - Overemphasis on fixed "learning styles" as the content of self-knowledge is counterproductive [X] — focus instead on task demands, strategies, and evidence of what works for the individual
-- One-shot workshops or posters without rehearsal do not produce behavior change; advocacy skills require distributed practice and feedback [Self-advocacy instruction shows strongest effects when embedded across time with practice opportunities](https://doi.org/10.1177/0885728809330659) [~M]
+- One-shot workshops or posters without rehearsal do not produce behavior change; advocacy skills require distributed practice and feedback Self-advocacy instruction shows strongest effects when embedded across time with practice opportunities
 - In cultures or classrooms where help-seeking is coded as incompetence, self-advocacy instruction can backfire unless the teacher first reframes help-seeking as strategic [-W]
 - Younger students and those with significant communication disabilities need substantial scaffolding; unstructured "speak up" expectations shift responsibility without building capability [-W]
 
@@ -53,7 +53,7 @@ Self-advocacy is a component of self-determination, and interventions that build
 - Students with disabilities and those receiving accommodations, for whom self-advocacy predicts post-secondary success [~M]
 - Adolescents and young adults approaching transitions (middle school, high school, college, workplace), where support structures become the student's responsibility to initiate
 - Reluctant help-seekers of any profile; structured help-seeking instruction benefits high-achieving students who under-use support [~W]
-- Students with disabilities transitioning to more independent settings; self-determination skills predict post-school employment and education outcomes [Self-determination instruction improves transition outcomes for students with disabilities.](https://doi.org/10.1177/0885728809330659) [+M]
+- Students with disabilities transitioning to more independent settings; self-determination skills predict post-school employment and education outcomes Self-determination instruction improves transition outcomes for students with disabilities.
 - Underrepresented or first-generation students who lack tacit knowledge of institutional help-seeking norms [+W]
 - All K–12 learners benefit when advocacy routines are universal rather than remedial [~W]
 
@@ -134,7 +134,7 @@ Self-advocacy functions as a bridge between metacognition and action: learners m
 - A classroom culture where requests for help are normalized and responded to constructively
 
 #### Constraints
-- One-shot workshops or posters without rehearsal do not produce behavior change; advocacy skills require distributed practice and feedback [Self-advocacy instruction shows strongest effects when embedded across time with practice opportunities](https://doi.org/10.1177/0885728809330659) [~M]
+- One-shot workshops or posters without rehearsal do not produce behavior change; advocacy skills require distributed practice and feedback Self-advocacy instruction shows strongest effects when embedded across time with practice opportunities
 - Students with low self-efficacy may know what to ask for but not believe asking will work; advocacy instruction alone does not fix this [Self-efficacy predicts academic persistence.](../claims/self-efficacy-predicts-academic-persistence.md) [~M]
 - In cultures or classrooms where help-seeking is coded as incompetence, self-advocacy instruction can backfire unless the teacher first reframes help-seeking as strategic [-W]
 - Younger students and those with significant communication disabilities need substantial scaffolding; unstructured "speak up" expectations shift responsibility without building capability [-W]
@@ -146,7 +146,7 @@ Self-advocacy functions as a bridge between metacognition and action: learners m
 - **Tool-mediated:** providing manipulatives, graphic organizers, timers, and audio supports so students can select and justify tool use themselves
 
 ### Target Learners
-- Students with disabilities transitioning to more independent settings; self-determination skills predict post-school employment and education outcomes [Self-determination instruction improves transition outcomes for students with disabilities.](https://doi.org/10.1177/0885728809330659) [+M]
+- Students with disabilities transitioning to more independent settings; self-determination skills predict post-school employment and education outcomes Self-determination instruction improves transition outcomes for students with disabilities.
 - Underrepresented or first-generation students who lack tacit knowledge of institutional help-seeking norms [+W]
 - All K–12 learners benefit when advocacy routines are universal rather than remedial [~W]
 

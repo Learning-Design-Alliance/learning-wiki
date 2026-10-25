@@ -11,7 +11,6 @@ generated:
   at: 2026-10-19
 sources:
   - id: cromley-2020
-    resource: "https://doi.org/10.1007/s10956-020-09836-y"
     title: "Cromley, J. G., Du, Y., & Dane, A. P. (2020). Drawing-to-learn: Does meta-analysis show differences between technology-based drawing and paper-and-pencil drawing? *Journal of Science Education and Technology, 29*(2), 216-229"
     author: "Cromley, J. G., Du, Y., & Dane, A. P"
   - id: fiorella-2016

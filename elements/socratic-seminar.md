@@ -11,7 +11,6 @@ generated:
   at: 2026-04-08
 sources:
   - id: billings-2002
-    resource: "https://doi.org/10.3102/00028312039004907"
     title: "Billings, L., & Fitzgerald, J. (2002). Dialogic discussion and the Paideia seminar. *American Educational Research Journal, 39*(4), 907-941"
     author: "Billings, L., & Fitzgerald, J"
 ---

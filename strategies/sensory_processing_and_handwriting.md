@@ -19,7 +19,7 @@ This strategy embeds handwriting instruction in multisensory activities — trac
 
 ## Design Implications
 
-Multisensory input supports early letter knowledge: children who trace and explore letter shapes haptically show better letter recognition and handwriting than those receiving visual instruction alone [Bara & Gentaz, 2011](https://doi.org/10.1016/j.ridd.2011.01.010) [+M]. However, sensory activities are a *support* for handwriting, not a substitute for it — interventions that include direct instruction in letter formation and frequent writing practice outperform sensory-only or non-handwriting interventions [Case-Smith, Weaver, & Holland, 2014](https://doi.org/10.5014/ajot.2014.009590) [+S]. Sensory components should therefore be brief, purposeful, and immediately connected to actual writing with pencil and paper.
+Multisensory input supports early letter knowledge: children who trace and explore letter shapes haptically show better letter recognition and handwriting than those receiving visual instruction alone [Bara & Gentaz, 2011](https://doi.org/10.1016/j.ridd.2011.01.010) [+M]. However, sensory activities are a *support* for handwriting, not a substitute for it — interventions that include direct instruction in letter formation and frequent writing practice outperform sensory-only or non-handwriting interventions Case-Smith, Weaver, & Holland, 2014. Sensory components should therefore be brief, purposeful, and immediately connected to actual writing with pencil and paper.
 
 ### Context
 #### Requirements
@@ -29,7 +29,7 @@ Multisensory input supports early letter knowledge: children who trace and explo
 - [Feedback](../elements/provide-feedback.md) on letter formation, orientation, and pressure, not just engagement
 
 #### Constraints
-- Sensory activities without a writing component show weak transfer to legible handwriting [Case-Smith et al., 2014](https://doi.org/10.5014/ajot.2014.009590) [-M] — time spent in playdough or sensory-bin play alone does not improve letter production
+- Sensory activities without a writing component show weak transfer to legible handwriting Case-Smith et al., 2014 — time spent in playdough or sensory-bin play alone does not improve letter production
 - Students with tactile defensiveness or sensory aversions may find textured materials distressing, raising arousal and reducing on-task behavior [~M]
 - Benefits are strongest for letter *recognition* and early formation; effects on fluency and legibility for older writers are small [Bara & Gentaz, 2011](https://doi.org/10.1016/j.ridd.2011.01.010) [~M]
 - Requires consistent, distributed practice; single-session sensory activities produce negligible gains [~W]

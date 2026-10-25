@@ -89,7 +89,7 @@ Positive narration leverages social learning: peers who hear a described behavio
 - **Teach Like a Champion (Lemov)** — the "Positive Framing" and "100%" techniques train teachers to narrate what students are doing right ("Your eyes should be on your copy of the text — I see almost all of them are") rather than what they are doing wrong. https://teachlikeachampion.com
 - **[Responsive Classroom](../products/responsive-classroom.md)** — "Reinforcing language" teacher scripts describe student actions specifically to consolidate routines. https://www.responsiveclassroom.org
 - **KIPP charter network** — narration during transitions ("Scholars in row 2 are already in silent sync") as a standard whole-school culture practice.
-- **PBIS (Positive Behavioral Interventions & Supports)** — [pbis.org](https://www.pbis.org): school-wide frameworks train teachers in specific behavior-specific praise and narration of expectations; a large RCT of PBIS showed reduced office discipline referrals [Bradshaw, C. P., et al. (2010)](https://doi.org/10.1177/0022465709338878) [+M]
+- **PBIS (Positive Behavioral Interventions & Supports)** — [pbis.org](https://www.pbis.org): school-wide frameworks train teachers in specific behavior-specific praise and narration of expectations; a large RCT of PBIS showed reduced office discipline referrals Bradshaw, C. P., et al. (2010)
 - **Teach Like a Champion (Lemov, 2015)** — the "Positive Framing" and "Narrate the Positive" techniques codify narrate-to-the-room narration in scripted teacher practice
 - **Responsive Classroom** — [responsiveclassroom.org](https://www.responsiveclassroom.org): teacher language curriculum distinguishes reinforcing language (narration) from reminding and redirecting language
 
@@ -116,7 +116,7 @@ Positive narration is a classroom management strategy in which the teacher verba
 
 ## Design Implications
 
-Positive narration draws on [Social Learning Theory](../theories/social-learning-theory.md): peers observing described behavior receive a vicarious model of what "doing it right" looks like Bandura, A. (1977) [+M]. It is most effective when narration is *specific* (names the exact behavior, not generic praise), *immediate*, and *distributed* across the room so many students see themselves in it. Vague praise ("good job, everyone") loses its informational value quickly [Hattie, J., & Timperley, H. (2007)](https://doi.org/10.1080/00405840709536524) [+S].
+Positive narration draws on [Social Learning Theory](../theories/social-learning-theory.md): peers observing described behavior receive a vicarious model of what "doing it right" looks like Bandura, A. (1977) [+M]. It is most effective when narration is *specific* (names the exact behavior, not generic praise), *immediate*, and *distributed* across the room so many students see themselves in it. Vague praise ("good job, everyone") loses its informational value quickly Hattie, J., & Timperley, H. (2007).
 
 ### Context
 #### Requirements
@@ -162,7 +162,7 @@ Positive narration draws on [Social Learning Theory](../theories/social-learning
 - [Establishing Routines](establishing-classroom-routines.md) — narration reinforces routines once they are taught
 
 ## Examples
-- **PBIS (Positive Behavioral Interventions & Supports)** — [pbis.org](https://www.pbis.org): school-wide frameworks train teachers in specific behavior-specific praise and narration of expectations; a large RCT of PBIS showed reduced office discipline referrals [Bradshaw, C. P., et al. (2010)](https://doi.org/10.1177/0022465709338878) [+M]
+- **PBIS (Positive Behavioral Interventions & Supports)** — [pbis.org](https://www.pbis.org): school-wide frameworks train teachers in specific behavior-specific praise and narration of expectations; a large RCT of PBIS showed reduced office discipline referrals Bradshaw, C. P., et al. (2010)
 - **Teach Like a Champion (Lemov, 2015)** — the "Positive Framing" and "Narrate the Positive" techniques codify narrate-to-the-room narration in scripted teacher practice
 - **Responsive Classroom** — [responsiveclassroom.org](https://www.responsiveclassroom.org): teacher language curriculum distinguishes reinforcing language (narration) from reminding and redirecting language
 

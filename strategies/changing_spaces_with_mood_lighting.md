@@ -19,7 +19,7 @@ Changing spaces with mood lighting means deliberately varying the color temperat
 
 ## Design Implications
 
-Lighting is one of the most manipulable features of a physical learning space, and the broader evidence on classroom environments shows that physical conditions measurably affect learning, with lighting and naturalness among the strongest environmental factors [The physical characteristics of classrooms account for meaningful variance in learning progress.](https://doi.org/10.1177/0013916516681199) [+M]. Lighting changes work primarily through affect and attention rather than direct instruction, so they should be treated as a supporting condition — a way to lower arousal and stress during reflective activities — not as a learning mechanism in itself. Because individual responses to light vary, learner control over lighting is generally more valuable than any single "optimal" setting imposed on the whole room [~W].
+Lighting is one of the most manipulable features of a physical learning space, and the broader evidence on classroom environments shows that physical conditions measurably affect learning, with lighting and naturalness among the strongest environmental factors The physical characteristics of classrooms account for meaningful variance in learning progress.. Lighting changes work primarily through affect and attention rather than direct instruction, so they should be treated as a supporting condition — a way to lower arousal and stress during reflective activities — not as a learning mechanism in itself. Because individual responses to light vary, learner control over lighting is generally more valuable than any single "optimal" setting imposed on the whole room [~W].
 
 ### Context
 #### Requirements

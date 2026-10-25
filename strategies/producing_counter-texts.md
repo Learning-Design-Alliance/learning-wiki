@@ -72,6 +72,6 @@ Counter-text production operationalizes critical literacy: texts are treated as 
 ## Key Sources
 - Freire, P., & Macedo, D. (1987). *Literacy: Reading the word and the world*. Bergin & Garvey.
 - Janks, H. (2010). *Literacy and power*. Routledge.
-- Solórzano, D. G., & Yosso, T. J. (2002). Critical race methodology: Counter-storytelling as an analytical framework for education research. *Qualitative Inquiry, 8*(1), 23–44. [doi:10.1177/1077800402008001039](https://doi.org/10.1177/1077800402008001039)
+- Solórzano, D. G., & Yosso, T. J. (2002). Critical race methodology: Counter-storytelling as an analytical framework for education research. *Qualitative Inquiry, 8*(1), 23–44. [doi:10.1177/107780040200800103](https://doi.org/10.1177/107780040200800103)
 - Vasquez, V. M. (2004). *Negotiating critical literacies with young children*. Lawrence Erlbaum.
 - Ciardiello, A. V. (2004). Democracy's young heroes: An instructional model of critical literacy practices. *The Reading Teacher, 58*(2), 138–147. [doi:10.1598/rt.58.2.2](https://doi.org/10.1598/rt.58.2.2)

@@ -19,7 +19,7 @@ Physical activity and recess strategies embed movement into the school day rathe
 
 ## Design Implications
 
-Aerobic activity acutely improves executive function and attention in children, which are the cognitive resources classroom tasks draw on [Hillman et al. found better reading and math performance following acute exercise.](https://doi.org/10.1073/pnas.0909437106) [+S]. Reviews find that adding physical activity to the school day does not harm academic achievement and often benefits it, particularly in mathematics [Rasberry et al.'s CDC systematic review found positive or neutral effects on academic outcomes.](https://doi.org/10.1016/j.ypmed.2011.01.027) [+M]. Physically enacting content can itself support learning, consistent with evidence that embodied experience enhances science learning [Physical experience enhances science learning.](../claims/physical-experience-enhances-science-learning.md) [+M].
+Aerobic activity acutely improves executive function and attention in children, which are the cognitive resources classroom tasks draw on Hillman et al. found better reading and math performance following acute exercise.. Reviews find that adding physical activity to the school day does not harm academic achievement and often benefits it, particularly in mathematics [Rasberry et al.'s CDC systematic review found positive or neutral effects on academic outcomes.](https://doi.org/10.1016/j.ypmed.2011.01.027) [+M]. Physically enacting content can itself support learning, consistent with evidence that embodied experience enhances science learning [Physical experience enhances science learning.](../claims/physical-experience-enhances-science-learning.md) [+M].
 
 ### Context
 #### Requirements

@@ -20,7 +20,7 @@ Text-to-speech (TTS) software converts written text into synthesized spoken audi
 
 ## Design Implications
 
-TTS bypasses decoding bottlenecks so learners can devote working memory to comprehension rather than word recognition [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]. A meta-analysis of read-aloud tools for students with reading disabilities found moderate positive effects on comprehension, with stronger effects when TTS was used as an accommodation during instruction than as a substitute for reading instruction itself [Wood et al., 2018](https://doi.org/10.1177/0022219416688446) [+M]. Synchronized highlighting (audio plus visual text) supports dual-channel processing consistent with multimedia learning principles [Media combinations affect recall and retention.](../claims/media-combinations-affect-recall-and-retention.md) [~M].
+TTS bypasses decoding bottlenecks so learners can devote working memory to comprehension rather than word recognition [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]. A meta-analysis of read-aloud tools for students with reading disabilities found moderate positive effects on comprehension, with stronger effects when TTS was used as an accommodation during instruction than as a substitute for reading instruction itself Wood et al., 2018. Synchronized highlighting (audio plus visual text) supports dual-channel processing consistent with multimedia learning principles [Media combinations affect recall and retention.](../claims/media-combinations-affect-recall-and-retention.md) [~M].
 
 ### Context
 #### Requirements
@@ -63,7 +63,7 @@ TTS bypasses decoding bottlenecks so learners can devote working memory to compr
 - **Layered supports:** TTS combined with highlighting, masking, and picture dictionaries (e.g., Read&Write) rather than bare audio output
 
 ### Target Learners
-- Students with reading disabilities, dyslexia, or slow decoding [Wood et al., 2018](https://doi.org/10.1177/0022219416688446) [+M]
+- Students with reading disabilities, dyslexia, or slow decoding Wood et al., 2018
 - English language learners, who can connect written and spoken forms of unfamiliar words [+W]
 - Learners with visual impairments or print-related fatigue
 - Less beneficial for strong readers with adequate time, who gain little and may prefer silent reading [~M]

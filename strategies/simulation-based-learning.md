@@ -91,12 +91,12 @@ Simulation works because it lets learners generate and test hypotheses in an env
 - [Embed the ReACT reasoning-acting-observing-reflecting cycle in tutoring systems to mirror inquiry-based learning](react-cycle-inquiry-based-learning.md)
 
 ## Examples
-- **[Laerdal SimMan](https://www.laerdal.com)** and standardized-patient programs in health professions education — high-fidelity patient simulation with structured debriefing; meta-analytic evidence shows large gains over no simulation and comparable or better outcomes than traditional instruction [Cook et al., 2013](https://doi.org/10.1001/jama.2013.282057) [+S]
+- **[Laerdal SimMan](https://www.laerdal.com)** and standardized-patient programs in health professions education — high-fidelity patient simulation with structured debriefing; meta-analytic evidence shows large gains over no simulation and comparable or better outcomes than traditional instruction Cook et al., 2013
 - **[Flight simulators](https://www.faa.gov)** (FAA-certified training devices) — the original modern simulation context; instrument procedures are rehearsed to proficiency before live flight
 - **[Harvard Business School Publishing simulations](https://www.hbsp.harvard.edu)** — business simulations (e.g., *Change Management*, *Operations Management*) where learners run a virtual organization and debrief against management theory
 - **[PhET Interactive Simulations](https://phet.colorado.edu)** — low-fidelity science simulations for physics and chemistry concepts, effective when paired with guided inquiry activities [~M]
 - **Model United Nations** — students represent assigned countries, negotiate resolutions, and debrief on how national interest and procedure shaped outcomes.
-- **Nursing standardized-patient simulations** — students manage a simulated clinical deterioration scenario, then debrief with video review; meta-analytic evidence shows simulation-based training outperforms or matches traditional clinical instruction [Simulation-based training with debriefing improves clinical outcomes.](https://doi.org/10.1001/jama.2013.282057) [+S].
+- **Nursing standardized-patient simulations** — students manage a simulated clinical deterioration scenario, then debrief with video review; meta-analytic evidence shows simulation-based training outperforms or matches traditional clinical instruction Simulation-based training with debriefing improves clinical outcomes..
 - **PhET circuit simulations** — physics students manipulate voltage and resistance and immediately observe consequences, testing predictions before formal instruction.
 - **Marketplace Simulations** — business students run a virtual company in teams, making pricing, product, and marketing decisions across competitive rounds.
 
@@ -123,7 +123,7 @@ Simulation learning places learners inside a simplified, interactive model of a 
 
 ## Design Implications
 
-Simulations work because they make learners generate decisions and experience their consequences, converting abstract principles into lived cause-and-effect [Active learning improves exam performance relative to lecture alone.](../claims/active-learning-improves-exam-performance.md) [+S]. The learning payoff, however, sits largely in the debrief: without facilitated reflection, participants remember the activity but not the principles it was designed to teach [Debriefing is a critical component of simulation-based education.](https://doi.org/10.2310/6480.2007.00212) [+S]. Because a single scenario is necessarily partial, complex or ill-structured concepts benefit from multiple varied simulations rather than one repeated run [Learning from multiple contrasting cases supports flexible transfer.](../claims/cognitive-flexibility-theory-multiple-cases.md) [+M].
+Simulations work because they make learners generate decisions and experience their consequences, converting abstract principles into lived cause-and-effect [Active learning improves exam performance relative to lecture alone.](../claims/active-learning-improves-exam-performance.md) [+S]. The learning payoff, however, sits largely in the debrief: without facilitated reflection, participants remember the activity but not the principles it was designed to teach Debriefing is a critical component of simulation-based education.. Because a single scenario is necessarily partial, complex or ill-structured concepts benefit from multiple varied simulations rather than one repeated run [Learning from multiple contrasting cases supports flexible transfer.](../claims/cognitive-flexibility-theory-multiple-cases.md) [+M].
 
 ### Context
 #### Requirements
@@ -192,7 +192,7 @@ Simulations work because they make learners generate decisions and experience th
 
 ## Examples
 - **Model United Nations** — students represent assigned countries, negotiate resolutions, and debrief on how national interest and procedure shaped outcomes.
-- **Nursing standardized-patient simulations** — students manage a simulated clinical deterioration scenario, then debrief with video review; meta-analytic evidence shows simulation-based training outperforms or matches traditional clinical instruction [Simulation-based training with debriefing improves clinical outcomes.](https://doi.org/10.1001/jama.2013.282057) [+S].
+- **Nursing standardized-patient simulations** — students manage a simulated clinical deterioration scenario, then debrief with video review; meta-analytic evidence shows simulation-based training outperforms or matches traditional clinical instruction Simulation-based training with debriefing improves clinical outcomes..
 - **PhET circuit simulations** — physics students manipulate voltage and resistance and immediately observe consequences, testing predictions before formal instruction.
 - **Marketplace Simulations** — business students run a virtual company in teams, making pricing, product, and marketing decisions across competitive rounds.
 

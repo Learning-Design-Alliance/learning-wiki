@@ -98,7 +98,7 @@ Explaining one's own work to peers converts composing knowledge into articulate,
 - Bezemer, J., & Kress, G. (2008). Writing in multimodal texts: A social semiotic account of designs for learning. *Written Communication, 25*(2), 166–195. [doi:10.1177/0741088307313177](https://doi.org/10.1177/0741088307313177)
 - Selfe, C. L. (Ed.). (2007). *Multimodal composition: A critical sourcebook*. Hampton Press.
 - Atkinson, D. (2000). Presentation and its epistemologies. *International Journal of Educational Research, 32*(7), 631–645.
-- New London Group. (1996). A pedagogy of multiliteracies: Designing social futures. *Harvard Educational Review, 66*(1), 60–92. [doi:10.17763/haer.66.1.u70t0277m143p746](https://doi.org/10.17763/haer.66.1.u70t0277m143p746)
+- New London Group. (1996). A pedagogy of multiliteracies: Designing social futures. *Harvard Educational Review, 66*(1), 60–92.
 - Graves, D. H., & Hansen, J. (1983). The author's chair. *Language Arts, 60*(2), 176–183.
 - Kress, G. (2010). *Multimodality: A social semiotic approach to contemporary communication*. Routledge.
 - Chi, M. T. H., de Leeuw, N., Chiu, M.-H., & LaVancher, C. (1994). Eliciting self-explanations improves understanding. *Cognitive Science, 18*(3), 439–477. [doi:10.1207/s15516709cog1803_3](https://doi.org/10.1207/s15516709cog1803_3)
@@ -177,7 +177,7 @@ Show and tell converts private design decisions into public, discussable reasoni
 - **Secondary media arts class** — a weekly "designer's chair" where students show two cuts of a public service announcement and the class discusses how music and pacing change the persuasive effect.
 
 ## Key Sources
-- New London Group. (1996). A pedagogy of multiliteracies: Designing social futures. *Harvard Educational Review, 66*(1), 60–92. [doi:10.17763/haer.66.1.u70t0277m143p746](https://doi.org/10.17763/haer.66.1.u70t0277m143p746)
+- New London Group. (1996). A pedagogy of multiliteracies: Designing social futures. *Harvard Educational Review, 66*(1), 60–92.
 - Graves, D. H., & Hansen, J. (1983). The author's chair. *Language Arts, 60*(2), 176–183.
 - Kress, G. (2010). *Multimodality: A social semiotic approach to contemporary communication*. Routledge.
 - Chi, M. T. H., de Leeuw, N., Chiu, M.-H., & LaVancher, C. (1994). Eliciting self-explanations improves understanding. *Cognitive Science, 18*(3), 439–477. [doi:10.1207/s15516709cog1803_3](https://doi.org/10.1207/s15516709cog1803_3)

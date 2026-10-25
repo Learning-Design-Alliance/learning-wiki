@@ -14,7 +14,6 @@ sources:
     title: "Cheng, A., Grant, V., Dieckmann, P., Arora, S., Robinson, T., & Eppich, W. (2015). Faculty development for simulation programs. *Simulation in Healthcare, 10*(4), 217-222"
     author: "Cheng, A., Grant, V., Dieckmann, P., Arora, S., Robinson, T., & Eppich, W"
   - id: paige-2015
-    resource: "https://doi.org/10.1016/j.amjsurg.2014.03.017"
     title: "Paige, J. T., Arora, S., Fernandez, G., & Seymour, N. (2015). Debriefing 101. *The American Journal of Surgery, 209*(1), 126-131"
     author: "Paige, J. T., Arora, S., Fernandez, G., & Seymour, N"
   - id: secheresse-2021

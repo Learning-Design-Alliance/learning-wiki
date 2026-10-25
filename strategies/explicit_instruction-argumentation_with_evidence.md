@@ -19,7 +19,7 @@ This strategy directly teaches learners how to construct arguments and support c
 
 ## Design Implications
 
-Argumentation quality improves when the skill is modeled and scaffolded rather than assumed; unguided peer discussion rarely produces evidence-based reasoning on its own [~M]. Teaching learners to generate and address counterarguments is the component most consistently linked to higher argument quality [Nussbaum's counterargument work shows direct instruction in counterargument improves essays.](https://doi.org/10.1016/j.edurev.2005.10.001) [+M]. Prompting learners to explain why evidence supports a claim deepens conceptual understanding beyond mere citation of sources [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+M].
+Argumentation quality improves when the skill is modeled and scaffolded rather than assumed; unguided peer discussion rarely produces evidence-based reasoning on its own [~M]. Teaching learners to generate and address counterarguments is the component most consistently linked to higher argument quality Nussbaum's counterargument work shows direct instruction in counterargument improves essays.. Prompting learners to explain why evidence supports a claim deepens conceptual understanding beyond mere citation of sources [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+M].
 
 ### Context
 #### Requirements

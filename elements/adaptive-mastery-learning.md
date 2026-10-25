@@ -20,7 +20,7 @@ Adaptive mastery learning combines Bloom's mastery learning model — requiring 
 
 ## Design Implications
 
-Adaptive mastery systems ensure that foundational gaps are closed before higher-order content is introduced, and that practice is distributed where it is most needed. Mastery requirements raise achievement over conventional group-paced instruction, particularly for slower learners [Kulik et al.'s meta-analysis of mastery learning programs.](https://doi.org/10.3102/00346543060003265) [+S]. Adaptive difficulty keeps learners working at an appropriate challenge level, avoiding both overload and disengagement; intelligent tutoring systems that adapt to learner responses produce substantial learning gains over conventional instruction [VanLehn's review of tutoring effectiveness.](https://doi.org/10.1007/s10648-010-9121-z) [+S]. Spacing review items adaptively — resurfacing material at the point of predicted forgetting — improves long-term retention [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+S].
+Adaptive mastery systems ensure that foundational gaps are closed before higher-order content is introduced, and that practice is distributed where it is most needed. Mastery requirements raise achievement over conventional group-paced instruction, particularly for slower learners [Kulik et al.'s meta-analysis of mastery learning programs.](https://doi.org/10.1207/s15326985ep2603&4_2) [+S]. Adaptive difficulty keeps learners working at an appropriate challenge level, avoiding both overload and disengagement; intelligent tutoring systems that adapt to learner responses produce substantial learning gains over conventional instruction [VanLehn's review of tutoring effectiveness.](https://doi.org/10.1007/s10648-010-9121-z) [+S]. Spacing review items adaptively — resurfacing material at the point of predicted forgetting — improves long-term retention [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+S].
 
 ### Context
 #### Requirements
@@ -37,7 +37,7 @@ Adaptive mastery systems ensure that foundational gaps are closed before higher-
 - Expertise reversal: adaptive scaffolding that helps novices can slow down experts, so adaptation must reduce support as proficiency grows [Expertise reversal effect.](../claims/expertise-reversal-effect.md) [~S]
 
 ### Target Learners
-- K–12 learners building foundational skills with wide within-class variability; adaptive pacing removes the group-pace bottleneck [Kulik et al.'s meta-analysis of mastery learning programs.](https://doi.org/10.3102/00346543060003265) [+S]
+- K–12 learners building foundational skills with wide within-class variability; adaptive pacing removes the group-pace bottleneck [Kulik et al.'s meta-analysis of mastery learning programs.](https://doi.org/10.1207/s15326985ep2603&4_2) [+S]
 - Struggling learners who benefit from repeated, low-stakes attempts with immediate feedback
 - Corporate trainees in compliance or procedural domains where uniform proficiency is a requirement
 - Less suitable for advanced learners working on integrative or creative outcomes, where item-based mastery criteria poorly represent the goal

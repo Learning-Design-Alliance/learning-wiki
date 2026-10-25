@@ -20,7 +20,7 @@ Morphological analysis instruction teaches learners to decompose words into morp
 
 ## Design Implications
 
-Morphological analysis converts vocabulary learning from rote memorization of thousands of words into a generative system, giving learners a self-teaching mechanism for encountering new words in independent reading [Goodwin & Ahn's meta-analysis found moderate positive effects of morphological instruction on literacy outcomes.](https://doi.org/10.1080/10888438.2012.689791) [+S]. Because morphemes carry both sound and meaning, this instruction simultaneously supports decoding, spelling, and vocabulary — a triple payoff rare among word-level strategies [Bowers, Kirby, & Deacon's review argues morphology is central, not peripheral, to English orthography.](https://doi.org/10.1598/RRQ.45.3.3) [+M]. The strategy works best when analysis is tied to meaning-making in authentic text rather than isolated word lists [Carlisle found effects strongest when instruction connected morphological analysis to comprehension of connected text.](https://doi.org/10.1080/10862961003720594) [+M].
+Morphological analysis converts vocabulary learning from rote memorization of thousands of words into a generative system, giving learners a self-teaching mechanism for encountering new words in independent reading [Goodwin & Ahn's meta-analysis found moderate positive effects of morphological instruction on literacy outcomes.](https://doi.org/10.1080/10888438.2012.689791) [+S]. Because morphemes carry both sound and meaning, this instruction simultaneously supports decoding, spelling, and vocabulary — a triple payoff rare among word-level strategies [Bowers, Kirby, & Deacon's review argues morphology is central, not peripheral, to English orthography.](https://doi.org/10.1598/RRQ.45.3.3) [+M]. The strategy works best when analysis is tied to meaning-making in authentic text rather than isolated word lists Carlisle found effects strongest when instruction connected morphological analysis to comprehension of connected text..
 
 ### Context
 #### Requirements
@@ -43,7 +43,7 @@ Morphological analysis converts vocabulary learning from rote memorization of th
 
 #### Constraints
 - Opaque or irregular derivations (e.g., *two* → *twin*) can mislead learners if taught as transparent; instruction must address shifts explicitly [-M]
-- Isolated morpheme drills detached from reading produce weak transfer to comprehension [Carlisle found effects strongest when instruction connected morphological analysis to comprehension of connected text.](https://doi.org/10.1080/10862961003720594) [~M]
+- Isolated morpheme drills detached from reading produce weak transfer to comprehension Carlisle found effects strongest when instruction connected morphological analysis to comprehension of connected text.
 - Over-reliance on analysis can slow fluent readers; once [Automaticity](../elements/automaticity.md) in word recognition is established, deliberate decomposition of every word becomes counterproductive [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [-M]
 - Benefits are smaller for very young learners whose oral vocabulary is still limited [~M]
 - Opaque etymologies and false morpheme splits (*butterfly* is not *butter* + *fly*) can teach incorrect generalizations if examples are not vetted [-M]

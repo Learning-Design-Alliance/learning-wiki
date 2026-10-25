@@ -18,7 +18,6 @@ sources:
     title: "Gay, G. (2018). *Culturally Responsive Teaching: Theory, Research, and Practice* (3rd ed.). Teachers College Press"
     author: "Gay, G"
   - id: tschida-2014
-    resource: "https://doi.org/10.1080/00220671.2013.833585"
     title: "Tschida, C. M., Yingling, E. A., & Buchwald, M. L. (2014). Building on windows and mirrors: Encouraging the disruption of 'single stories' through children's literature. *The Journal of Educational Research, 107*(6), 424–436"
     author: "Tschida, C. M., Yingling, E. A., & Buchwald, M. L"
 ---

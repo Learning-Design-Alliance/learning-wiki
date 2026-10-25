@@ -19,7 +19,7 @@ Explicit and systematic writing instruction directly teaches the strategies, ski
 
 ## Design Implications
 
-Explicit strategy instruction works because it converts tacit expert processes into learnable procedures and then scaffolds learners' regulation of those procedures [Contingent scaffolding improves learning.](../claims/contingent-scaffolding-improves-learning.md) [+M]. Its effects are among the largest in writing research: meta-analyses of explicit strategy instruction show substantial gains in text quality for adolescents, and comparable effects for students with learning difficulties [Graham & Perin meta-analytic evidence.](https://doi.org/10.1037/1082-989X.99.3.445) [+S]. Instruction must be *systematic* as well as explicit — sequenced from simple to complex, with each strategy taught, modeled, practiced, and revisited — because isolated mini-lessons without coordinated practice do not accumulate into writing competence.
+Explicit strategy instruction works because it converts tacit expert processes into learnable procedures and then scaffolds learners' regulation of those procedures [Contingent scaffolding improves learning.](../claims/contingent-scaffolding-improves-learning.md) [+M]. Its effects are among the largest in writing research: meta-analyses of explicit strategy instruction show substantial gains in text quality for adolescents, and comparable effects for students with learning difficulties Graham & Perin meta-analytic evidence.. Instruction must be *systematic* as well as explicit — sequenced from simple to complex, with each strategy taught, modeled, practiced, and revisited — because isolated mini-lessons without coordinated practice do not accumulate into writing competence.
 
 ### Context
 #### Requirements
@@ -30,7 +30,7 @@ Explicit strategy instruction works because it converts tacit expert processes i
 - Instruction to automaticity of foundational transcription skills (spelling, handwriting, keyboarding)
 
 #### Constraints
-- Requires significant instructional time; effects shrink when strategy lessons replace rather than accompany extended writing [Process-writing approaches without explicit strategy support yield weaker effects.](https://doi.org/10.1080/10888438.2011.593691) [~M]
+- Requires significant instructional time; effects shrink when strategy lessons replace rather than accompany extended writing Process-writing approaches without explicit strategy support yield weaker effects.
 - Less effective when learners lack motivation or a reason to write; engagement and authentic purpose are prerequisites, not extras
 - Overly formulaic strategy teaching (e.g., rigid essay templates) can produce formulaic writing and transfer poorly to new genres [~M]
 - Foundational-skill drill that dominates instructional time crowds out composing practice, which is where strategy use consolidates

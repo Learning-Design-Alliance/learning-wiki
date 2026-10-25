@@ -19,7 +19,7 @@ This strategy builds deliberate pauses ("think-time") and structured re-reading 
 
 ## Design Implications
 
-Extending wait-time beyond the typical sub-second classroom pause changes both the quantity and quality of student responses: teachers who wait 3+ seconds get longer, more speculative, more evidence-based answers and more participation from students who otherwise never respond [Tobin's review of wait-time research](https://doi.org/10.3102/00346543057001069) [+M]. Re-reading is more nuanced: it is a reliable comprehension aid for learners with low prior knowledge, but for fluent readers it is often a low-yield strategy compared with retrieval practice [Rereading shows weak benefits relative to more effortful strategies for skilled readers](https://doi.org/10.1007/s10648-009-9108-0) [~M]. The design goal is therefore not "more time everywhere" but *protected* time at points of high processing demand, paired with a purpose for the second pass ([Annotating](../principles/annotating.md), self-questioning) so re-reading is active rather than passive.
+Extending wait-time beyond the typical sub-second classroom pause changes both the quantity and quality of student responses: teachers who wait 3+ seconds get longer, more speculative, more evidence-based answers and more participation from students who otherwise never respond [Tobin's review of wait-time research](https://doi.org/10.3102/00346543057001069) [+M]. Re-reading is more nuanced: it is a reliable comprehension aid for learners with low prior knowledge, but for fluent readers it is often a low-yield strategy compared with retrieval practice Rereading shows weak benefits relative to more effortful strategies for skilled readers. The design goal is therefore not "more time everywhere" but *protected* time at points of high processing demand, paired with a purpose for the second pass ([Annotating](../principles/annotating.md), self-questioning) so re-reading is active rather than passive.
 
 ### Context
 #### Requirements
@@ -30,7 +30,7 @@ Extending wait-time beyond the typical sub-second classroom pause changes both t
 
 #### Constraints
 - Extended wait-time without teacher restraint collapses: teachers who wait 3 seconds after one response but then re-take the floor negate the effect [~M]
-- Re-reading as a default study strategy produces illusory fluency — text feels familiar without being understood [Rereading shows weak benefits relative to more effortful strategies for skilled readers](https://doi.org/10.1007/s10648-009-9108-0) [-M]
+- Re-reading as a default study strategy produces illusory fluency — text feels familiar without being understood Rereading shows weak benefits relative to more effortful strategies for skilled readers
 - Extra time does not remediate underlying processing-speed differences; it removes the speed confound but the learner may still need compensatory strategies ([Chunking](../principles/chunking.md), reduced text density)
 - In fast-paced whole-class discussion, extending time for one learner can reduce momentum and engagement for others unless norms are established
 
@@ -43,7 +43,7 @@ Extending wait-time beyond the typical sub-second classroom pause changes both t
 ### Target Learners
 - Students with processing-speed differences, ADHD, or reading fluency challenges, for whom time pressure measures speed rather than knowledge [~M]
 - Second-language learners who need an extra pass to decode before comprehending
-- Less beneficial for learners with high fluency and prior knowledge, for whom extended pauses add little and may slow momentum [Rereading shows weak benefits relative to more effortful strategies for skilled readers](https://doi.org/10.1007/s10648-009-9108-0) [~M]
+- Less beneficial for learners with high fluency and prior knowledge, for whom extended pauses add little and may slow momentum Rereading shows weak benefits relative to more effortful strategies for skilled readers
 
 ### Target Learning Goals
 - Comprehension of complex text or multi-step instructions

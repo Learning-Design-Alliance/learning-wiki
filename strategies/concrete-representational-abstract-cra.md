@@ -88,7 +88,7 @@ CRA manages intrinsic cognitive load by giving abstract notation a referent lear
 - Young learners encountering a concept for the first time, for whom symbols alone carry no meaning
 - Less beneficial for advanced learners who already operate symbolically [Guidance and support become less effective as learner expertise increases.](../claims/expertise-reversal-effect.md) [~M]
 - Novices in a symbol-heavy domain (typically early mathematics, but also science notation and music) [Concrete representations reduce working-memory demands for learners without existing symbolic schemas.](../claims/chunking-reduces-working-memory-load.md) [+M]
-- Learners with learning disabilities or limited prior knowledge, for whom CRA-based interventions show consistent gains in computation and word-problem performance [CRA sequences improve arithmetic outcomes for students with mathematics difficulties.](https://doi.org/10.1177/0022466909359114) [+M]
+- Learners with learning disabilities or limited prior knowledge, for whom CRA-based interventions show consistent gains in computation and word-problem performance CRA sequences improve arithmetic outcomes for students with mathematics difficulties.
 - Novices encountering a new symbolic system for the first time, especially in elementary mathematics [+M]
 - Less beneficial for advanced learners who already operate symbolically; starting concrete wastes time and can reduce engagement [~M]
 - Elementary and middle-grades students encountering a mathematical concept for the first time [+M]
@@ -194,7 +194,7 @@ CRA manages the transition from embodied, situated understanding to symbolic flu
 
 ### Target Learners
 - Novices in a symbol-heavy domain (typically early mathematics, but also science notation and music) [Concrete representations reduce working-memory demands for learners without existing symbolic schemas.](../claims/chunking-reduces-working-memory-load.md) [+M]
-- Learners with learning disabilities or limited prior knowledge, for whom CRA-based interventions show consistent gains in computation and word-problem performance [CRA sequences improve arithmetic outcomes for students with mathematics difficulties.](https://doi.org/10.1177/0022466909359114) [+M]
+- Learners with learning disabilities or limited prior knowledge, for whom CRA-based interventions show consistent gains in computation and word-problem performance CRA sequences improve arithmetic outcomes for students with mathematics difficulties.
 - Less beneficial for advanced learners, who can often enter directly at the abstract phase [Guidance and support sequences become less effective as learner expertise increases.](../claims/expertise-reversal-effect.md) [~M]
 
 ### Target Learning Goals

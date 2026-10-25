@@ -64,11 +64,11 @@ The strategy operationalizes cognitive-behavioral principles for young learners:
 
 ## Examples
 - A fifth-grade teacher runs the one-minute observation before a math test, charts student thoughts, and the class rewrites "I'm bad at math" into "I haven't learned this yet — which problem should I try first?"
-- Sport psychology programs teach young athletes instructional and motivational self-talk scripts before performance; a meta-analysis of 32 studies found self-talk interventions improve sport task performance [Hatzigeorgiadis et al. (2011)](https://doi.org/10.1080/1750984X.2011.574786) [+S]
+- Sport psychology programs teach young athletes instructional and motivational self-talk scripts before performance; a meta-analysis of 32 studies found self-talk interventions improve sport task performance Hatzigeorgiadis et al. (2011)
 - Meichenbaum's self-instructional training has children verbalize task strategies aloud ("Okay, what is it I have to do?"), then whisper, then internalize them — a staged version of the same reframing move
 
 ## Key Sources
-- Hatzigeorgiadis, A., Zourbanos, N., Galanis, E., & Theodorakis, Y. (2011). Self-talk and sports performance: A meta-analysis. *Perspectives on Psychological Science, 6*(4), 348–356. [doi:10.1177/1745691611413136](https://doi.org/10.1080/1750984X.2011.574786)
+- Hatzigeorgiadis, A., Zourbanos, N., Galanis, E., & Theodorakis, Y. (2011). Self-talk and sports performance: A meta-analysis. *Perspectives on Psychological Science, 6*(4), 348–356. doi:10.1177/1745691611413136
 - Meichenbaum, D. (1977). *Cognitive-Behavior Modification: An Integrative Approach*. Plenum Press. [doi:10.1007/978-1-4757-9739-8](https://doi.org/10.1007/978-1-4757-9739-8)
 - Beck, A. T. (1979). *Cognitive Therapy of Depression*. Guilford Press.
 - Mueller, C. M., & Dweck, C. S. (1998). Praise for intelligence can undermine children's motivation and performance. *Journal of Personality and Social Psychology, 75*(1), 33–52. [doi:10.1037/0022-3514.75.1.33](https://doi.org/10.1037/0022-3514.75.1.33)

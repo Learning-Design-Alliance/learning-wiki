@@ -917,8 +917,44 @@ def check_misfiled_kind(pages: dict[str, Path]) -> list[dict]:
     return issues
 
 
+def check_retracted_citations(pages: dict[str, Path]) -> list[dict]:
+    """A content page citing a DOI recorded as retracted, withdrawn or removed
+    (eval/source-validity/retracted.ndjson, written by check_source_validity.py
+    --retractions from Crossref's notices). The ratchet for retractions: once one is
+    recorded, a page reintroducing the DOI fails CI. A page that cites a retracted
+    study in order to discuss its retraction says so with "retracted" within a few
+    lines of the link and passes."""
+    path = WIKI_ROOT / "eval" / "source-validity" / "retracted.ndjson"
+    if not path.exists():
+        return []
+    dois = {}
+    for line in path.read_text(encoding="utf-8").splitlines():
+        try:
+            r = json.loads(line)
+        except ValueError:
+            continue
+        dois[r["doi"].lower()] = r
+    if not dois:
+        return []
+    issues = []
+    for slug, p in each_page(pages):
+        text = p.read_text(encoding="utf-8", errors="replace")
+        low = text.lower()
+        for d, r in dois.items():
+            if d not in low:
+                continue
+            # the DOI's own end: a retracted DOI can be the prefix of another one
+            for m in re.finditer(re.escape(d) + r"(?![a-z0-9_\-/:;<>(]|\.[a-z0-9])", low):
+                if "retract" not in low[max(0, m.start() - 600):m.start() + 600]:
+                    issues.append({"file": str(p.relative_to(WIKI_ROOT)), "type": "retracted_citation",
+                                   "detail": f"cites {d}, which has a {r.get('type')} notice ({r.get('notice')})"})
+                    break
+    return issues
+
+
 CHECKS = {
     "broken_links":  check_broken_links,
+    "retracted":     check_retracted_citations,
     "embargo":       check_embargo,
     "dead_anchors":  check_dead_anchors,
     "merge_markers": check_merge_markers,

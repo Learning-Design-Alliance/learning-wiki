@@ -45,7 +45,7 @@ In mathematics learning, worked examples can improve performance by making solut
 
 ## Evidence
 
-Primary evidence link: https://doi.org/10.1037/0022-0663.77.1.59
+Primary evidence link:
 
 ### Sweller & Cooper 1985
 

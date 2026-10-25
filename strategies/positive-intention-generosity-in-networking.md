@@ -19,7 +19,7 @@ This strategy teaches learners to approach professional networking as an exchang
 
 ## Design Implications
 
-The strategy addresses a documented motivational problem: instrumental networking triggers feelings of inauthenticity and dirtiness, which reduce both networking activity and its effectiveness [Casciaro, Gino, & Kouchaki (2016)](https://doi.org/10.5465/amj.2014.1035) [+S]. Reframing networking as prosocial contribution restores a sense of authenticity and sustains engagement, consistent with evidence that connecting work to prosocial impact increases motivation [Grant (2007)](https://doi.org/10.5465/amr.2007.24348728) [+M]. Reciprocity norms also mean that value-first behavior tends to elicit giving in return, making generosity strategically as well as ethically sound [Cialdini (2001)](https://doi.org/10.1037/0022-3514.81.5.858) [+M].
+The strategy addresses a documented motivational problem: instrumental networking triggers feelings of inauthenticity and dirtiness, which reduce both networking activity and its effectiveness Casciaro, Gino, & Kouchaki (2016). Reframing networking as prosocial contribution restores a sense of authenticity and sustains engagement, consistent with evidence that connecting work to prosocial impact increases motivation Grant (2007). Reciprocity norms also mean that value-first behavior tends to elicit giving in return, making generosity strategically as well as ethically sound Cialdini (2001).
 
 ### Context
 #### Requirements
@@ -29,8 +29,8 @@ The strategy addresses a documented motivational problem: instrumental networkin
 - Reflection prompts that surface the learner's authentic motives, distinguishing generosity from transactional impression management
 
 #### Constraints
-- Perceived instrumental generosity backfires: when help is clearly a prelude to a request, recipients detect the manipulation and trust declines [Casciaro, Gino, & Kouchaki (2016)](https://doi.org/10.5465/amj.2014.1035) [-M]
-- For learners who experience networking as morally compromising (e.g., those high in powerlessness or low-status positions), reframing alone is insufficient; structural supports such as introductions through existing ties work better [Casciaro, Gino, & Kouchaki (2016)](https://doi.org/10.5465/amj.2014.1035) [~M]
+- Perceived instrumental generosity backfires: when help is clearly a prelude to a request, recipients detect the manipulation and trust declines Casciaro, Gino, & Kouchaki (2016)
+- For learners who experience networking as morally compromising (e.g., those high in powerlessness or low-status positions), reframing alone is insufficient; structural supports such as introductions through existing ties work better Casciaro, Gino, & Kouchaki (2016)
 - Value-first outreach requires actual knowledge of the contact's work; generic flattery reads as insincere and damages credibility [-W]
 - Overemphasis on giving without boundaries leads to burnout and exploitation, particularly for agreeable learners [~W]
 
@@ -41,7 +41,7 @@ The strategy addresses a documented motivational problem: instrumental networkin
 - **Communities of practice**: embedding networking in ongoing [Communities of Practice](../principles/communities-of-practice.md) where giving is normative rather than strategic
 
 ### Target Learners
-- Early-career professionals and students who avoid networking because it feels inauthentic or "dirty" [Casciaro, Gino, & Kouchaki (2016)](https://doi.org/10.5465/amj.2014.1035) [+M]
+- Early-career professionals and students who avoid networking because it feels inauthentic or "dirty" Casciaro, Gino, & Kouchaki (2016)
 - Learners in career-development or professional-skills courses who must build networks but lack natural opportunities to contribute
 - Less effective for learners whose immediate need is visibility rather than relationships; pure generosity without any self-advocacy can leave qualified people overlooked [~W]
 
@@ -51,9 +51,9 @@ The strategy addresses a documented motivational problem: instrumental networkin
 - Professional habit formation: establishing a sustainable, reciprocal networking practice
 
 ### Instructions
-1. **Surface the motive**: learners write down why they currently avoid or dislike networking, then reframe each stated goal as a contribution they could make to others [Casciaro, Gino, & Kouchaki (2016)](https://doi.org/10.5465/amj.2014.1035) [+M]
+1. **Surface the motive**: learners write down why they currently avoid or dislike networking, then reframe each stated goal as a contribution they could make to others Casciaro, Gino, & Kouchaki (2016)
 2. **Research before reaching out**: identify a specific, genuine point of connection — the person's work, a shared community, a problem you can help solve
-3. **Lead with value**: open with a contribution (useful resource, specific appreciation, offer of help) with no attached request, leveraging reciprocity norms [Cialdini (2001)](https://doi.org/10.1037/0022-3514.81.5.858) [+M]
+3. **Lead with value**: open with a contribution (useful resource, specific appreciation, offer of help) with no attached request, leveraging reciprocity norms Cialdini (2001)
 4. **Listen for needs**: in conversation, use [Active Listening](active-listening.md) to identify where you can genuinely help, rather than pitching yourself
 5. **Follow through and close the loop**: deliver on any offer made; generosity that is not enacted erodes trust faster than no offer at all [-W]
 6. **Reflect**: debrief on authenticity — did the interaction feel like contribution or performance? Adjust approach accordingly

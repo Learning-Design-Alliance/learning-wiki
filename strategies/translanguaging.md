@@ -19,7 +19,7 @@ Translanguaging treats a multilingual speaker's languages as one integrated repe
 
 ## Design Implications
 
-Translanguaging reframes home languages as an asset rather than a deficit, which changes both instruction and assessment design. Meta-analyses of bilingual education programs that systematically incorporate students' home language show academic outcomes — including literacy — equal to or better than English-only programs [Rolstad et al., 2005](https://doi.org/10.3102/00346543075003247) [+S] [Adesope et al., 2010](https://doi.org/10.1007/s10648-010-9126-7) [+S]. Allowing learners to process new content in their stronger language reduces the double burden of learning content and language simultaneously, easing working-memory demands [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [~M], and connecting instruction to students' backgrounds supports engagement and task value [Task value increases motivation and engagement.](../claims/task-value-increases-motivation-and-engagement.md) [+M].
+Translanguaging reframes home languages as an asset rather than a deficit, which changes both instruction and assessment design. Meta-analyses of bilingual education programs that systematically incorporate students' home language show academic outcomes — including literacy — equal to or better than English-only programs Rolstad et al., 2005 [Adesope et al., 2010](https://doi.org/10.1007/s10648-010-9126-7) [+S]. Allowing learners to process new content in their stronger language reduces the double burden of learning content and language simultaneously, easing working-memory demands [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [~M], and connecting instruction to students' backgrounds supports engagement and task value [Task value increases motivation and engagement.](../claims/task-value-increases-motivation-and-engagement.md) [+M].
 
 ### Context
 #### Requirements
@@ -29,7 +29,7 @@ Translanguaging reframes home languages as an asset rather than a deficit, which
 - Explicit instruction in the register and conventions of the target language for tasks that demand it ([Application](../elements/application.md) of academic language norms)
 
 #### Constraints
-- Effectiveness depends on systematic, structured use; incidental or unscaffolded home-language use does not produce the meta-analytic gains [Rolstad et al., 2005](https://doi.org/10.3102/00346543075003247) [~S]
+- Effectiveness depends on systematic, structured use; incidental or unscaffolded home-language use does not produce the meta-analytic gains Rolstad et al., 2005
 - Without explicit teaching of target-language norms, students may not develop the ability to perform in standardized-language assessments [-M]
 - Faces institutional resistance: administrators and colleagues who view multilingualism as a deficit can block implementation, and teachers often need training before they can scaffold translanguaging effectively [-W]
 - In classrooms where the teacher does not share students' languages, translanguaging must rely on peer mediation and tools, which limits its depth [-W]

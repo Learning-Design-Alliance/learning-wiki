@@ -19,7 +19,7 @@ This strategy involves systematically monitoring the temperature of a learning e
 
 ## Design Implications
 
-Thermal conditions are a low-cost, high-leverage environmental variable: field studies in schools show that classroom temperature and ventilation measurably affect attention, task speed, and schoolwork performance ([Wargocki & Wyon, 2007](https://doi.org/10.1080/10789669.2007.10390939)) [+S]. Because the mechanism is largely physiological (comfort, alertness, working-memory efficiency), temperature functions as a *precondition* for other instructional strategies rather than a strategy in itself — a poorly regulated environment degrades the return on otherwise sound [Cognitive Load Management](../principles/cognitive-load-management.md) design [~M].
+Thermal conditions are a low-cost, high-leverage environmental variable: field studies in schools show that classroom temperature and ventilation measurably affect attention, task speed, and schoolwork performance (Wargocki & Wyon, 2007) [+S]. Because the mechanism is largely physiological (comfort, alertness, working-memory efficiency), temperature functions as a *precondition* for other instructional strategies rather than a strategy in itself — a poorly regulated environment degrades the return on otherwise sound [Cognitive Load Management](../principles/cognitive-load-management.md) design [~M].
 
 ### Context
 #### Requirements
@@ -31,7 +31,7 @@ Thermal conditions are a low-cost, high-leverage environmental variable: field s
 #### Constraints
 - Individual thermal preferences vary substantially (by sex, clothing, activity level, acclimatization), so a single setpoint will leave a meaningful minority uncomfortable [-S] — personal control (fans, layered clothing, individual vents) outperforms one-size-fits-all setpoints [~M]
 - Effects are strongest for high heat; moderate coolness is better tolerated, so over-investment in precise optimization yields diminishing returns [-W]
-- Energy costs and building infrastructure may make the optimal range unattainable, particularly in under-resourced schools — which is precisely where heat effects are largest ([Park et al., 2020](https://doi.org/10.1073/pnas.1809554116)) [-M]
+- Energy costs and building infrastructure may make the optimal range unattainable, particularly in under-resourced schools — which is precisely where heat effects are largest (Park et al., 2020) [-M]
 - Attention spent on environmental tuning should not displace instructional quality; temperature is a floor condition, not a substitute for good teaching [-W]
 
 #### Implementation Variability
@@ -42,12 +42,12 @@ Thermal conditions are a low-cost, high-leverage environmental variable: field s
 
 ### Target Learners
 - All levels — K–12, higher education, adult training — but children are more thermally sensitive than adults and benefit most from regulation [+M]
-- Learners in under-resourced or poorly climate-controlled facilities, where heat exposure measurably suppresses achievement ([Park et al., 2020](https://doi.org/10.1073/pnas.1809554116)) [+S]
+- Learners in under-resourced or poorly climate-controlled facilities, where heat exposure measurably suppresses achievement (Park et al., 2020) [+S]
 - Learners with sensory sensitivities or certain disabilities, for whom thermal discomfort is more disruptive [~W]
 
 ### Target Learning Goals
 - Not tied to specific content goals; serves any objective requiring sustained attention and working memory
-- Especially relevant for high-stakes assessment conditions, where heat during testing depresses scores ([Park et al., 2020](https://doi.org/10.1073/pnas.1809554116)) [+S]
+- Especially relevant for high-stakes assessment conditions, where heat during testing depresses scores (Park et al., 2020) [+S]
 
 ### Instructions
 1. **Establish a baseline.** Measure temperature at learner height at several points in the space and times of day; note where it falls relative to the 68–74°F target range.
@@ -70,7 +70,7 @@ Thermal conditions are a low-cost, high-leverage environmental variable: field s
 
 ## Examples
 - **Classroom thermal-comfort routine:** A teacher checks a wall thermometer at the start of each session, opens windows or runs a fan when the room exceeds 74°F, and asks students to flag discomfort during a mid-lesson check-in.
-- **District HVAC investment:** The [Park et al. (2020) PNAS study](https://doi.org/10.1073/pnas.1809554116) found that each 1°F hotter school year reduced learning, and that air conditioning eliminated essentially all of that effect — making HVAC a documented achievement intervention.
+- **District HVAC investment:** The Park et al. (2020) PNAS study found that each 1°F hotter school year reduced learning, and that air conditioning eliminated essentially all of that effect — making HVAC a documented achievement intervention.
 - **Exam-room protocol:** Testing centers maintain cooler setpoints (~68–70°F) for extended exams, since sustained sedentary cognition is most sensitive to warmth.
 
 ## Key Sources

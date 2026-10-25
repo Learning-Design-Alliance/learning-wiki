@@ -19,7 +19,7 @@ Concept maps are visual tools that help learners organize and articulate what th
 
 ## Design Implications
 
-Concept mapping works because it requires learners to actively construct relationships between ideas, which supports integration of new material with prior knowledge [Activation improves learning.](../claims/activation-improves-learning.md) [+M]. Meta-analytic evidence shows that concept mapping activities generally outperform reading, lecturing, and list-making conditions for retention and transfer [Nesbit & Adesope meta-analysis.](https://doi.org/10.3102/003465430629001413) [+M]. However, the labeled links are essential: maps without relational phrases degrade into clustering exercises, and the generative value comes from articulating *why* two concepts connect, not from drawing boxes.
+Concept mapping works because it requires learners to actively construct relationships between ideas, which supports integration of new material with prior knowledge [Activation improves learning.](../claims/activation-improves-learning.md) [+M]. Meta-analytic evidence shows that concept mapping activities generally outperform reading, lecturing, and list-making conditions for retention and transfer Nesbit & Adesope meta-analysis.. However, the labeled links are essential: maps without relational phrases degrade into clustering exercises, and the generative value comes from articulating *why* two concepts connect, not from drawing boxes.
 
 ### Context
 #### Requirements
@@ -41,7 +41,7 @@ Concept mapping works because it requires learners to actively construct relatio
 - **Digital tools** (CmapTools, Miro, Lucidchart) enable revision and link annotation; paper works equally well for one-off tasks
 
 ### Target Learners
-- Benefits learners across K–12, higher education, and professional training, with meta-analytic support across levels [Nesbit & Adesope meta-analysis.](https://doi.org/10.3102/003465430629001413) [+M]
+- Benefits learners across K–12, higher education, and professional training, with meta-analytic support across levels Nesbit & Adesope meta-analysis.
 - Particularly valuable for learners with some prior knowledge who can generate meaningful links; complete novices may need fill-in or expert-map scaffolds first
 - Less effective as a standalone study method for learners who already organize material well — retrieval practice may serve them better [Karpicke & Blunt retrieval-practice comparison.](https://doi.org/10.1126/science.1199327) [~S]
 

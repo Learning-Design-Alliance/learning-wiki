@@ -19,7 +19,7 @@ This strategy involves identifying a student's cognitive strengths and using the
 
 ## Design Implications
 
-Processing speed shares substantial variance with working memory and fluid reasoning: slower speed consumes more of the limited resources available for comprehension and problem solving [Fry & Hale, 1996](https://doi.org/10.1037/0033-2909.120.1.1) [+S]. The design goal is therefore to offload or streamline processing demands so that limited-speed learners can spend their resources on the actual learning goal rather than on logistics of intake [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+S]. Strengths-based framing also matters for motivation: positioning supports as access tools rather than remediation protects self-efficacy, which predicts persistence [Self-efficacy predicts academic persistence.](../claims/self-efficacy-predicts-academic-persistence.md) [+M].
+Processing speed shares substantial variance with working memory and fluid reasoning: slower speed consumes more of the limited resources available for comprehension and problem solving Fry & Hale, 1996. The design goal is therefore to offload or streamline processing demands so that limited-speed learners can spend their resources on the actual learning goal rather than on logistics of intake [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+S]. Strengths-based framing also matters for motivation: positioning supports as access tools rather than remediation protects self-efficacy, which predicts persistence [Self-efficacy predicts academic persistence.](../claims/self-efficacy-predicts-academic-persistence.md) [+M].
 
 ### Context
 #### Requirements

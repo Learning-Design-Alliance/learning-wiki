@@ -19,7 +19,7 @@ Social Emotional Learning (SEL) curricula are structured, sequenced instructiona
 
 ## Design Implications
 
-Well-implemented SEL programs produce measurable gains in social-emotional skills, attitudes, and academic achievement, with effects persisting years after program completion [Durlak et al.'s meta-analysis of 213 school-based programs.](https://doi.org/10.1111/j.1467-8624.2010.01564) [+S]. Effectiveness depends on the SAFE features — Sequenced, Active, Focused, Explicit — rather than on program branding alone; programs using active skill practice outperform those relying on lecture or discussion alone [+S]. Skills must be modeled and rehearsed, not merely described, consistent with observational learning mechanisms [Social learning theory.](../theories/social-learning-theory.md) [+M].
+Well-implemented SEL programs produce measurable gains in social-emotional skills, attitudes, and academic achievement, with effects persisting years after program completion Durlak et al.'s meta-analysis of 213 school-based programs.. Effectiveness depends on the SAFE features — Sequenced, Active, Focused, Explicit — rather than on program branding alone; programs using active skill practice outperform those relying on lecture or discussion alone [+S]. Skills must be modeled and rehearsed, not merely described, consistent with observational learning mechanisms [Social learning theory.](../theories/social-learning-theory.md) [+M].
 
 ### Context
 #### Requirements

@@ -13,11 +13,9 @@ sources:
     title: "Webb, N. M. (2009). The teacher's role in promoting collaborative dialogue in the classroom. *British Journal of Educational Psychology, 79*(1), 1–28"
     author: "Webb, N. M"
   - id: mercer-2000
-    resource: "https://doi.org/10.1017/CBO9780511489912"
     title: "Mercer, N. (2000). *Words and Minds: How We Use Language to Think Together*. Routledge"
     author: "Mercer, N"
   - id: michaels-2008
-    resource: "https://doi.org/10.4324/9780203883995"
     title: "Michaels, S., O'Connor, C., & Resnick, L. B. (2008). Deliberative discourse idealized and realized: Accountable talk in the classroom and in civic life. *Studies in Philosophy and Education, 27*(4), 283–297"
     author: "Michaels, S., O'Connor, C., & Resnick, L. B"
 ---

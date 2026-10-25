@@ -46,7 +46,7 @@ Descriptive statistics (Table 1) for 101 pre-service teachers: STEBI mean 70.50 
 
 
 ## Related Claims
-- [Historical-method inquiry tasks center on uniformitarianism and taxonomy construction, and evaluating independent lines of inquiry for convergence is entirely absent](historical-method-uniformitarianism-dominates.md) — related
+- Historical-method inquiry tasks center on uniformitarianism and taxonomy construction, and evaluating independent lines of inquiry for convergence is entirely absent — related
 - [Pre-service primary teachers' science teaching self-efficacy beliefs correlate weakly but positively with their ability to determine suitable taxonomy, strategy, and method-techniques](self-efficacy-weakly-correlates-objective-aligned-instructional-planning.md) — related
 - [Seniors outperformed juniors in determining taxonomy and method-technique, but not in self-efficacy or strategy determination](seniors-better-taxonomy-method-technique.md) — related
 - [University examination questions concentrate at the lower cognitive levels of Bloom's Taxonomy, dominated by comprehension and knowledge](exam-questions-concentrate-lower-bloom-levels.md) — related

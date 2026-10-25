@@ -30,7 +30,7 @@ ConcepTests convert lecture time into [active learning](../principles/active-lea
 - A response mechanism visible to the instructor (clickers, cards, poll) so results drive the next move ([Assessment](assessment.md) as feedback, not grading)
 
 #### Constraints
-- Poorly designed questions — recall items, ambiguous wording, or distractors that don't correspond to real misconceptions — produce discussion without conceptual payoff [Question design quality determines the value of the resulting discussion.](https://doi.org/10.1119/1.1807315) [~M]
+- Poorly designed questions — recall items, ambiguous wording, or distractors that don't correspond to real misconceptions — produce discussion without conceptual payoff Question design quality determines the value of the resulting discussion.
 - Rewards conceptual understanding at the expense of procedural fluency; ConcepTests alone do not build computational skill and must be paired with problem-solving practice
 - Discussion can propagate wrong answers when the correct rate is very low and no student in a group has a defensible reason — instructor follow-up explanation is still required
 - Grading votes for accuracy suppresses honest commitment and destroys the diagnostic function; stakes must be minimal

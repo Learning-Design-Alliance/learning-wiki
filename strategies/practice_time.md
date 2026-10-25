@@ -17,7 +17,6 @@ sources:
     title: "Roediger, H. L., & Karpicke, J. D. (2006). Test-enhanced learning: Taking memory tests improves long-term retention. *Psychological Science, 17*(3), 249–255"
     author: "Roediger, H. L., & Karpicke, J. D."
   - id: hattie-2007
-    resource: "https://doi.org/10.1080/00461520701430953"
     title: "Hattie, J., & Timperley, H. (2007). The power of feedback. *Review of Educational Research, 77*(1), 81–112"
     author: "Hattie, J., & Timperley, H."
   - id: black-1998
@@ -41,12 +40,12 @@ Retrieval and application during practice strengthen retention far more than rer
 ### Context
 #### Requirements
 - A task that closely matches the target skill, attempted by every learner (not demonstrated only)
-- Feedback available during or immediately after attempts, at task and process levels [The power of feedback.](https://doi.org/10.1080/00461520701430953) [+S]
+- Feedback available during or immediately after attempts, at task and process levels The power of feedback.
 - Explicitly low stakes — no grades or public evaluation attached to early attempts
 - Enough time for multiple attempts, not a single token exercise
 
 #### Constraints
-- Practice without feedback entrenches errors; uncorrected practice can be worse than no practice [The power of feedback.](https://doi.org/10.1080/00461520701430953) [-S]
+- Practice without feedback entrenches errors; uncorrected practice can be worse than no practice The power of feedback.
 - Practicing a whole complex task at once overwhelms novices; isolating component skills first is more effective [Part-task practice reduces load for novices.](../claims/part-task-practice-reduces-load-for-novices.md) [+M]
 - Blocked, massed practice within one session feels productive but yields poorer long-term retention than spaced, varied practice [~S]
 - If stakes creep in (peer ranking, immediate grading), learners shift from exploring to impression management, and error-driven learning shuts down [-M]
@@ -71,7 +70,7 @@ Retrieval and application during practice strengthen retention far more than rer
 1. Present the skill or concept concisely, ideally with a worked demonstration ([Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md) modeling phase).
 2. Pose a task that mirrors the target performance; start with a partial or component version for novices ([Part-task practice reduces load for novices.](../claims/part-task-practice-reduces-load-for-novices.md) [+M]).
 3. State explicitly that this is ungraded practice — errors are expected and useful.
-4. Circulate and coach, giving feedback focused on the task and the process, not the person [The power of feedback.](https://doi.org/10.1080/00461520701430953) [+S].
+4. Circulate and coach, giving feedback focused on the task and the process, not the person The power of feedback..
 5. Debrief: collect common errors and discuss them anonymously with the whole class.
 6. Schedule revisits of the same skill on later days (spaced practice) rather than cramming all practice into one session.
 

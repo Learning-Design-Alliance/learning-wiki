@@ -9,8 +9,7 @@ generated:
   at: 2026-09-26
 sources:
   - id: do-yong-park-and-mira-park-2013
-    resource: "https://doi.org/10.5408/12-360.1"
-    title: "Do-Yong Park and Mira Park. (2013). Examining the Features of Earth Science Logical Reasoning and Authentic Scientific Inquiry Demonstrated in a High School Earth Science Curriculum: A Case Study. Journal of Geoscience Education. https://doi.org/10.5408/12-360.1"
+    title: "Do-Yong Park and Mira Park. (2013). Examining the Features of Earth Science Logical Reasoning and Authentic Scientific Inquiry Demonstrated in a High School Earth Science Curriculum: A Case Study. Journal of Geoscience Education."
     author: Do-Yong Park and Mira Park
 ---
 
@@ -47,4 +46,4 @@ Based on the finding that the abductive method was most associated with authenti
 -
 
 ## Key Sources
-- Do-Yong Park and Mira Park. (2013). Examining the Features of Earth Science Logical Reasoning and Authentic Scientific Inquiry Demonstrated in a High School Earth Science Curriculum: A Case Study. Journal of Geoscience Education. https://doi.org/10.5408/12-360.1
+- Do-Yong Park and Mira Park. (2013). Examining the Features of Earth Science Logical Reasoning and Authentic Scientific Inquiry Demonstrated in a High School Earth Science Curriculum: A Case Study. Journal of Geoscience Education.

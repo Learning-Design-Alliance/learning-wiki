@@ -14,7 +14,6 @@ sources:
     title: "Thomas, J. W. (2000). A review of research on project-based learning. The Autodesk Foundation"
     author: "Thomas, J. W"
   - id: kokotsaki-2016
-    resource: "https://doi.org/10.1080/02671522.2016.1159167"
     title: "Kokotsaki, D., Menzies, V., & Wiggins, A. (2016). Project-based learning: A review of the literature. *Improving Schools, 19*(3), 267–277"
     author: "Kokotsaki, D., Menzies, V., & Wiggins, A"
   - id: krajcik-2006

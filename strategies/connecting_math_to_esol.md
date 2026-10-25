@@ -37,7 +37,7 @@ Contextualized, meaningful tasks direct learner attention and effort more effect
 #### Implementation Variability
 - **Light integration**: a weekly numeracy warm-up (interpreting a receipt, comparing prices) inside a standard ESOL conversation class
 - **Thematic units**: a unit on money and banking, health and dosage instructions, or time and schedules, with math tasks as the communicative core
-- **Team-taught or math-infused models**: ESOL and adult basic education instructors co-plan, as in the Math-in-CTE professional development model, where contextualization is paired with explicit connection of the math concept to the context [Stone, Alfeld, & Pearson (2008)](https://doi.org/10.3102/0002831208317468) [+S]
+- **Team-taught or math-infused models**: ESOL and adult basic education instructors co-plan, as in the Math-in-CTE professional development model, where contextualization is paired with explicit connection of the math concept to the context Stone, Alfeld, & Pearson (2008)
 - **Multilingual scaffolding**: allowing learners to reason first in their strongest language, then rehearse the English explanation
 
 ### Target Learners
@@ -69,7 +69,7 @@ Contextualized, meaningful tasks direct learner attention and effort more effect
 - **[EMPower (Extending Mathematical Power), TERC](https://www.terc.edu)** — an adult basic education mathematics curriculum built on open, discussion-based problem solving; widely adapted in ESOL-linked adult classrooms because its language demands are controlled and its tasks draw on adult experience.
 - **SABES Math in the ESOL Classroom (Massachusetts)** — professional development and classroom materials from the Massachusetts adult literacy system ([sabes.org](https://www.sabes.org)) showing how numeracy tasks (unit pricing, measurement, interpreting data) can anchor ESOL units.
 - **[The Change Agent (World Education)](https://changeagent.worlded.org)** — an adult education newspaper whose issues pair learner-written stories with math activities on themes like money, health, and work, designed for multilevel ESOL and ABE classrooms.
-- **Math-in-CTE model (National Research Center for Career and Technical Education)** — experimental studies showed that contextualizing math instruction within meaningful occupational contexts improved math achievement without sacrificing the context course [Stone, Alfeld, & Pearson (2008)](https://doi.org/10.3102/0002831208317468) [+S].
+- **Math-in-CTE model (National Research Center for Career and Technical Education)** — experimental studies showed that contextualizing math instruction within meaningful occupational contexts improved math achievement without sacrificing the context course Stone, Alfeld, & Pearson (2008).
 
 ## Key Sources
 - Cummins, J. (1979). Linguistic interdependence and the educational development of bilingual children. *Review of Educational Research, 49*(2), 222–251. [doi:10.3102/00346543049002222](https://doi.org/10.3102/00346543049002222)

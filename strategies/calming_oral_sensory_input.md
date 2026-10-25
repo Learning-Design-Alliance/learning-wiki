@@ -19,7 +19,7 @@ Calming oral sensory input engages the mouth — through chewing, sucking, or bl
 
 ## Design Implications
 
-Oral sensory strategies are best treated as one component of a broader regulation toolkit rather than a standalone intervention; the evidence base for sensory-based interventions is emerging but methodologically limited [Systematic reviews find insufficient high-quality evidence for sensory integration therapy outcomes.](https://doi.org/10.5014/ajot.2015.019026) [~W]. Chewing gum studies show modest, short-lived effects on alertness and stress markers in typical adults [~W], while clinical use with children with sensory processing difficulties rests largely on single-case designs and practitioner observation rather than controlled trials [~W]. Because effects are individual and inconsistent, each learner's response must be monitored rather than assumed.
+Oral sensory strategies are best treated as one component of a broader regulation toolkit rather than a standalone intervention; the evidence base for sensory-based interventions is emerging but methodologically limited Systematic reviews find insufficient high-quality evidence for sensory integration therapy outcomes.. Chewing gum studies show modest, short-lived effects on alertness and stress markers in typical adults [~W], while clinical use with children with sensory processing difficulties rests largely on single-case designs and practitioner observation rather than controlled trials [~W]. Because effects are individual and inconsistent, each learner's response must be monitored rather than assumed.
 
 ### Context
 #### Requirements
@@ -30,7 +30,7 @@ Oral sensory strategies are best treated as one component of a broader regulatio
 
 #### Constraints
 - Effects are highly individual; a strategy that calms one learner may agitate another, so group-wide application without assessment is unreliable [~W]
-- Evidence for sensory-based interventions as treatments for academic or behavioral outcomes is weak; gains reported in studies are often on proximal, therapist-rated measures rather than classroom learning [Systematic reviews find insufficient high-quality evidence for sensory integration therapy outcomes.](https://doi.org/10.5014/ajot.2015.019026) [-W]
+- Evidence for sensory-based interventions as treatments for academic or behavioral outcomes is weak; gains reported in studies are often on proximal, therapist-rated measures rather than classroom learning Systematic reviews find insufficient high-quality evidence for sensory integration therapy outcomes.
 - Chewing items pose choking and hygiene hazards for young children or learners with oral-motor difficulties
 - Over-reliance can become avoidance: if oral input is used to escape demanding tasks, it functions as negative reinforcement and can reduce engagement [~M]
 - Food-based input is inequitable in classrooms with allergy policies or food-free zones

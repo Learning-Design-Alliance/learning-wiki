@@ -20,7 +20,7 @@ Hypertext navigation presents content as a network of linked nodes — pages, se
 
 ## Design Implications
 
-Hypertext supports flexible, non-linear exploration and can help learners build richly connected knowledge structures, particularly when content is genuinely multi-dimensional and ill-structured [Cognitive Flexibility Theory](../theories/cognitive-flexibility-theory.md) [~M]. But navigation freedom imposes costs: deciding where to go next consumes working-memory resources that would otherwise support comprehension, and disorientation ("lost in hyperspace") reliably degrades learning when structure is weak [DeStefano & LeFevre's review of hypertext cognitive load.](https://doi.org/10.1016/j.chb.2006.05.019) [-M]. Effective hypertext design therefore pairs learner control with strong orientation aids — maps, breadcrumbs, clear node titles — rather than treating freedom as an end in itself.
+Hypertext supports flexible, non-linear exploration and can help learners build richly connected knowledge structures, particularly when content is genuinely multi-dimensional and ill-structured [Cognitive Flexibility Theory](../theories/cognitive-flexibility-theory.md) [~M]. But navigation freedom imposes costs: deciding where to go next consumes working-memory resources that would otherwise support comprehension, and disorientation ("lost in hyperspace") reliably degrades learning when structure is weak DeStefano & LeFevre's review of hypertext cognitive load.. Effective hypertext design therefore pairs learner control with strong orientation aids — maps, breadcrumbs, clear node titles — rather than treating freedom as an end in itself.
 
 ### Context
 #### Requirements
@@ -31,7 +31,7 @@ Hypertext supports flexible, non-linear exploration and can help learners build 
 
 #### Constraints
 - Novices with low prior knowledge learn less from freely navigated hypertext than from sequenced instruction; they lack the schema needed to judge which nodes are relevant [Expertise reverses the benefit of learner control.](../claims/expertise-reversal-effect.md) [~S]
-- Unstructured link networks increase disorientation and extraneous cognitive load, reducing comprehension relative to linear text [DeStefano & LeFevre's review of hypertext cognitive load.](https://doi.org/10.1016/j.chb.2006.05.019) [-M]
+- Unstructured link networks increase disorientation and extraneous cognitive load, reducing comprehension relative to linear text DeStefano & LeFevre's review of hypertext cognitive load.
 - Excessive choice among nodes can produce shallow "skimming" behavior rather than sustained study
 - Decorative links and multimedia embellishments add navigation decisions without adding content [Decorative illustrations do not improve learning.](../claims/seductive-details-effect.md) [-M]
 

@@ -19,7 +19,7 @@ Instructor feedback is information provided by a teacher, tutor, or system actin
 
 ## Design Implications
 
-Feedback is one of the most powerful influences on learning, but also one of the most variable — it can improve or degrade achievement depending on its focus and timing [The power and variability of feedback is well established.](https://doi.org/10.1037/0033-2909.120.2.254) [~S]. Feedback that directs attention to the task and the process outperforms feedback directed at the person ("You're so smart") or at vague self-perceptions [Feedback should answer where am I going, how am I doing, and where to next.](https://doi.org/10.1080/00405840709554545) [+S]. Feedback embedded in [Assessment for Learning](../principles/assessment-for-learning.md) practices — with opportunities to act on it — improves achievement [Formative assessment with actionable feedback raises achievement.](../claims/assessment-for-learning-improves-achievement.md) [+S].
+Feedback is one of the most powerful influences on learning, but also one of the most variable — it can improve or degrade achievement depending on its focus and timing The power and variability of feedback is well established.. Feedback that directs attention to the task and the process outperforms feedback directed at the person ("You're so smart") or at vague self-perceptions Feedback should answer where am I going, how am I doing, and where to next.. Feedback embedded in [Assessment for Learning](../principles/assessment-for-learning.md) practices — with opportunities to act on it — improves achievement [Formative assessment with actionable feedback raises achievement.](../claims/assessment-for-learning-improves-achievement.md) [+S].
 
 ### Context
 #### Requirements
@@ -30,7 +30,7 @@ Feedback is one of the most powerful influences on learning, but also one of the
 
 #### Constraints
 - Feedback without opportunity to act is largely wasted effort; learners often ignore comments when no revision follows
-- Praise and person-focused feedback can reduce performance, especially after failure [Feedback can decrease performance when it directs attention to the self.](https://doi.org/10.1037/0033-2909.120.2.254) [-S]
+- Praise and person-focused feedback can reduce performance, especially after failure Feedback can decrease performance when it directs attention to the self.
 - Overly detailed feedback can overwhelm working memory for novices [Cognitive overload degrades learning.](../claims/cognitive-overload-degrades-learning.md) [-M] — limit to two or three priority points
 - Checklists and rubric scores alone, without explanatory comments, show weak effects online [Checklist evaluation is ineffective online.](../claims/checklist-evaluation-ineffective-online.md) [-W]
 

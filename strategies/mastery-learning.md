@@ -56,7 +56,7 @@ Mastery learning operationalizes the assumption that most learners can master mo
 - Struggling learners and those with gaps in prerequisite knowledge, who benefit most from time-to-maturity rather than fixed pacing [+M]
 - Learners in cumulative domains (mathematics, language mechanics, procedural skills) where early gaps compound
 - High-achievers may stagnate waiting for peers in group-based implementations; pair with enrichment or [Adaptive Difficulty](../elements/adaptive-difficulty.md) [~M]
-- Struggling and lower-achieving learners benefit most; the approach narrows achievement gaps by guaranteeing prerequisites before advancement [Mastery learning gains are largest for lower third of achievers.](https://doi.org/10.3102/00346543060003279) [+S]
+- Struggling and lower-achieving learners benefit most; the approach narrows achievement gaps by guaranteeing prerequisites before advancement Mastery learning gains are largest for lower third of achievers.
 - Learners in hierarchical domains (mathematics, science, language grammar, programming) where gaps compound
 - Less beneficial for high-aptitude learners under uniform pacing, who complete criteria quickly and need acceleration or enrichment [~M]
 
@@ -114,7 +114,7 @@ Mastery learning restructures the traditional instructional contract: instead of
 
 ## Design Implications
 
-Mastery learning works because it prevents prerequisite gaps from compounding — later units in hierarchical subjects like mathematics depend on fluent mastery of earlier ones, and unmastered prerequisites create cascading failure [Mastery learning produces meaningful achievement gains, largest for lower-performing students.](https://doi.org/10.3102/00346543060003279) [+S]. The corrective-feedback cycle, not the gating alone, drives most of the effect: assessment must be followed by specific, actionable remediation rather than simple retesting [Assessment functions as learning only when feedback is actionable.](../claims/assessment-for-learning-improves-achievement.md) [+S].
+Mastery learning works because it prevents prerequisite gaps from compounding — later units in hierarchical subjects like mathematics depend on fluent mastery of earlier ones, and unmastered prerequisites create cascading failure Mastery learning produces meaningful achievement gains, largest for lower-performing students.. The corrective-feedback cycle, not the gating alone, drives most of the effect: assessment must be followed by specific, actionable remediation rather than simple retesting [Assessment functions as learning only when feedback is actionable.](../claims/assessment-for-learning-improves-achievement.md) [+S].
 
 ### Context
 #### Requirements
@@ -136,7 +136,7 @@ Mastery learning works because it prevents prerequisite gaps from compounding �
 - **Hybrid**: mastery gates on core prerequisites, with flexible pacing on enrichment content
 
 ### Target Learners
-- Struggling and lower-achieving learners benefit most; the approach narrows achievement gaps by guaranteeing prerequisites before advancement [Mastery learning gains are largest for lower third of achievers.](https://doi.org/10.3102/00346543060003279) [+S]
+- Struggling and lower-achieving learners benefit most; the approach narrows achievement gaps by guaranteeing prerequisites before advancement Mastery learning gains are largest for lower third of achievers.
 - Learners in hierarchical domains (mathematics, science, language grammar, programming) where gaps compound
 - Less beneficial for high-aptitude learners under uniform pacing, who complete criteria quickly and need acceleration or enrichment [~M]
 

@@ -65,7 +65,7 @@ The strategy operationalizes active participation for all learners rather than t
 ## Examples
 - A fourth-grade teacher asked "What is an equivalent fraction?" Students wrote their responses, shared with partners, and then revised their written definitions after a class discussion surfaced the misconception that equivalence means "looks the same."
 - [Illustrative Mathematics](https://illustrativemathematics.org) curricula embed "Notice and Wonder" routines that follow a think–write–share structure to launch problem-based lessons.
-- In undergraduate STEM, peer-instruction sequences (ConcepTests) pair individual commitment to an answer with peer discussion and re-voting, producing significant learning gains ([Smith et al., 2009](https://doi.org/10.1187/cbe.08-07-0059)).
+- In undergraduate STEM, peer-instruction sequences (ConcepTests) pair individual commitment to an answer with peer discussion and re-voting, producing significant learning gains (Smith et al., 2009).
 
 ## Key Sources
 - Smith, M. K., Wood, W. B., Adams, W. K., Wieman, C., Knight, J. K., Guild, N., & Su, T. T. (2009). Why peer discussion improves student performance on in-class concept questions. *Science, 323*(5910), 122–124. [doi:10.1126/science.1165919](https://doi.org/10.1126/science.1165919)
