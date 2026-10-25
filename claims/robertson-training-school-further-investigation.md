@@ -47,3 +47,4 @@ An author's interpretive statement closing Robertson's note on training schools 
 ## Related Claims
 - [The low Alpha–school-standing correlation is difficult to explain and investigators report conflicting correlation results](low-intelligence-school-correlation-unexplained.md) — related
 - [Snedden argues school reports should inform the public, but available educational statistics cannot answer questions about the relative value of different studies](school-reports-limits-of-educational-statistics.md) — related
+- [The Boston Mental Hygiene Conference placed its emphasis on prevention and on the training of children](boston-mental-hygiene-conference-prevention-children.md) — related

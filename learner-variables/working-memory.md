@@ -13,7 +13,7 @@ generated:
 # Working Memory
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 94 claims (56 show a difference, 27 mixed, 11 no difference) · 77 studies (21 causal, 19 review, 18 associational, 11 quant-synthesis, 5 theoretical, 3 qualitative), `q1`–`q4` · 13 of 77 report an effect size · 88 claims rest on one study
+> **Evidence** · 95 claims (57 show a difference, 27 mixed, 11 no difference) · 78 studies (21 causal, 19 review, 19 associational, 11 quant-synthesis, 5 theoretical, 3 qualitative), `q1`–`q4` · 13 of 78 report an effect size · 89 claims rest on one study
 
 ## Description
 How much a learner can hold and manipulate at once. It is the best-evidenced dimension here and the most directly actionable: it converts into element counts per screen, whether two sources must be read together, and whether a problem is given whole or as a worked example. Capacity is near-fixed, but *effective* capacity is not — prior knowledge supplies the schemas that let several items be held as one, which is why the same screen overloads a novice and not an expert [~S].
@@ -137,6 +137,7 @@ How much a learner can hold and manipulate at once. It is the best-evidenced dim
 - [Working memory compensatorily moderates the explaining intervention's advantage: supported self-explaining benefits students with weaker working memory most](../claims/working-memory-compensatory-moderator-self-explaining.md) [~M] — an instructional effect differs with it
 - [Instruction based on cognitive load theory can compensate for age-related cognitive declines](../claims/clt-instruction-compensates-age-related-declines.md) [+M] — an instructional effect differs with it
 - [Chunking via prior knowledge can massively increase the information processed in working memory](../claims/chunking-increases-effective-working-memory.md) [+M] — instruction changes it
+- [For the C/DM, only short-term memory deficit status significantly predicted posttest word reading](../claims/cdm-gsm-deficit-word-reading-predictor.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 

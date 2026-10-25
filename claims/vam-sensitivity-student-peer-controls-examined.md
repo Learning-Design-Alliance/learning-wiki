@@ -81,3 +81,4 @@ The publication abstract states the paper's purpose: examining sensitivity and p
 - [Error rates for comparing a teacher's performance to the average are about 25 percent with three years of data and 35 percent with one year of data](value-added-teacher-comparison-error-rates-25-35-percent.md) — related
 - [Variance terms in multi-armed RCT estimators need slight adjustment under the finite-population framework, which can reduce precision](variance-adjustment-reduces-precision-multi-armed.md) — related
 - [Some educators are concerned that students scoring at the bottom or top of a test's score distribution will negatively affect the value-added estimates of those students' teachers](educator-concern-floor-ceiling-value-added.md) — related
+- [At a sensitivity of .672 the MD prediction model showed specificity of .754–.762 but a low positive predictive value (.245–.252)](md-model-sensitivity-specificity-ppv.md) — related

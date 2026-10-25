@@ -63,3 +63,4 @@ The brief's own synthesis statement, reviewing the collection of research on hig
 - High-dosage tutoring directly tied to classroom content can substantially accelerate learning in math and reading for the most struggling students — a narrower finding that bears on this claim
 - [High-quality tutoring produces large learning gains cost-effectively, in person and virtually](tutoring-large-cost-effective-gains.md) — a broader claim this one bears on
 - [At the median cutoff, proactive and reactive tutoring show no significant difference in MAP growth, with proactive benefits increasing for students farther below the cutoff](didc-cutoff-null-proactive-benefit-increases-below-cutoff.md) — a narrower finding that bears on this claim
+- [Weak-minded children are capable of being taught if proper methods are employed, but the hope of improvement diminishes with age](feeble-minded-teachable-methods-age-limits.md) — related

@@ -51,3 +51,4 @@ Illustrated in Figure 2, contrasting the course of improvement of expert perform
 - Expert teachers show intense emotionality and sense of responsibility for their performance, unlike affectless novices and postulants — related
 - [Reflective methods must be internalized as habit to operate in everyday moral choice, and internalization depends on supportive social arrangements](reflective-methods-internalized-as-habit.md) — related
 - [Peer assessment skills are complex and not automatically acquired, so training and guidance are a crucial design variable](peer-assessment-skills-need-training.md) — related
+- [Variability in word reading speed was greater in serial word reading than discrete word reading, with discrete speed reaching a plateau by Grade 3 while serial speed kept progressing through Grade 5](serial-speed-variability-greater-than-discrete.md) — a narrower finding that bears on this claim

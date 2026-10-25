@@ -11,8 +11,8 @@ evidence_strength: moderate
 newest_evidence: 1913
 sources:
   - id: winch-1913
-    resource: "https://www.jstor.org/stable/1412810"
-    title: "Winch, W. H. (1913). Experimental researches on learning to spell. I. The Journal of Educational Psychology. https://www.jstor.org/stable/1412810"
+    resource: "https://doi.org/10.1037/h0075675"
+    title: "Winch, W. H. (1913). Experimental researches on learning to spell. Part I. *Journal of Educational Psychology, 4*(9), 525–537. [doi:10.1037/h0075675](https://doi.org/10.1037/h0075675)"
     author: Winch, W. H.
     q: 3
     i: "?"
@@ -33,7 +33,7 @@ sources:
 
 ### Winch 1913
 
-Winch, W. H. (1913). Experimental researches on learning to spell. I. The Journal of Educational Psychology. https://www.jstor.org/stable/1412810
+Winch, W. H. (1913). Experimental researches on learning to spell. Part I. *Journal of Educational Psychology, 4*(9), 525–537. [doi:10.1037/h0075675](https://doi.org/10.1037/h0075675)
 
 `q3 · i?` · `causal · r1`
 
@@ -47,3 +47,8 @@ The preliminary dictation test was given on Friday, January 31st, 1913, before a
 ## Related Claims
 - [A combined visual-motor-articulatory-auditory spelling method with teacher-directed attention produces better spelling than a predominantly visual silent method in young low-ability boys](combined-multisensory-spelling-method-superior-visual-silent-young-boys.md) — related
 - [Wells' proposed equally-difficult easy list was not fully standardized, with sick, open, and glad producing non-uniform responses](wells-list-not-fully-standardized.md) — related
+- [For Standard IV boys (average age 11), a combined articulatory-auditory-visual spelling method with directed attention yields higher dictation scores than a silent visual method without directed attention](combined-spelling-method-beats-visual-standard-iv.md) — related
+- [Across Standards II and IV (ages 8 to 11) in the same school, the spelling method with pronounced auditory, articulatory, and visual factors plus directed attention proved definitely superior to a more purely visual method with less directed attention](combined-spelling-superiority-ages-8-11-same-school.md) — related
+- [In-class flash-card visual study with writing from memory raised Standard I dictation averages to 20.8, with every boy spelling some words correctly, though the method was time-costly and complicated](flash-card-visual-spelling-method-gains.md) — related
+- [Twelve weeks of copy-and-home-study spelling practice with next-day dictation produced no improvement in Standard I boys' ability to acquire new spellings](home-copy-dictation-no-improvement-standard-i.md) — related
+- [A head-to-head teaching contest between a primarily visual method and a combined method produced nearly identical averages (22.9 vs 23.0) and could not decide between the methods because of uncontrolled confounds](uncontrolled-teacher-contest-inconclusive.md) — related

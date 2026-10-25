@@ -47,3 +47,5 @@ Theoretical argument offered without data: the author asks whether assisting thi
 ## Related Claims
 - [Human relationships are primary means of education, and knowledge of humans' unlearned tendencies is necessary to efficient planning for education in general.](instincts-and-people-as-educational-means-foundation.md) — a broader claim this one bears on
 - [Learning is effective when it builds on children's existing knowledge in real-world contexts, and early fraction foundations matter because many older children struggle with rational numbers](early-fraction-foundations-given-rational-number-difficulty.md) — related
+- [The article argues that the expressive instinct drives children to objectify mental states through muscular activity, increasingly the musculature of speech](expressive-instinct-speech-development.md) — related
+- [The article argues that children's play with vocal sounds develops the range of articulate sounds before proper speech is acquired](vocal-play-develops-articulation.md) — a narrower finding that bears on this claim

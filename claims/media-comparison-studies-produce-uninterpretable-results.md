@@ -120,3 +120,4 @@ A live tension worth flagging: the claim that "media do not influence learning, 
 - [Coaching can be effective in all delivery modes: face-to-face, distance, and a combination](coaching-effective-all-delivery-modes.md) — related
 - [General composing heuristics produced mixed results in studies of their effectiveness](general-heuristics-mixed-effectiveness-results.md) — a narrower finding that bears on this claim
 - [Digital drawing shows mixed results relative to paper-based drawing, with a meta-analysis favoring traditional media for some assessment types](digital-vs-paper-drawing-mixed.md) — a narrower finding that bears on this claim
+- [A head-to-head teaching contest between a primarily visual method and a combined method produced nearly identical averages (22.9 vs 23.0) and could not decide between the methods because of uncontrolled confounds](uncontrolled-teacher-contest-inconclusive.md) — a narrower finding that bears on this claim

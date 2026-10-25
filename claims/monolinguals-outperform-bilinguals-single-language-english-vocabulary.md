@@ -78,3 +78,4 @@ ANCOVA of English expressive vocabulary (Woodcock-Johnson III Picture Vocabulary
 - [Group differences in receptive language did not hold when controlling for SES, and receptive language was the covariate retained in the main analyses](receptive-language-group-differences-ses-mediated.md) — related
 - [Simultaneous and sequential DLL learners show opposite vocabulary patterns in English versus the home language](simultaneous-sequential-vocabulary-differences.md) — related
 - [Bilingual children score higher in English than Spanish, with the language effect larger in the expressive modality](english-spanish-language-by-modality-interaction.md) — related
+- [Monolingual and bilingual kindergarteners differ in English oral proficiency screening performance even after meeting the same inclusion cutoff](prelas-proficiency-distribution-differs-language-groups.md) — related

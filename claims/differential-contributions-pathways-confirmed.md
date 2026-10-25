@@ -52,3 +52,4 @@ SEM Model 4 in the longitudinal sample, the model testing the study's main hypot
 - [Boys hold advantages on all spatial measures while girls are more attentive in classroom settings](boys-spatial-advantage-girls-attention-advantage.md) — possibly the same claim (merge candidate)
 - [Spatial abilities and in-class attention each uniquely predict mathematical competence from 6th to 9th grade, controlling general ability](spatial-and-attention-unique-predictors-math.md) — related
 - [Girls show significantly higher task orientation than boys in preschool](girls-higher-task-orientation-preschool.md) — related
+- [Gender affects levels of self-concept and mathematics achievement but not the pattern of causal predominance](gender-levels-not-causal-pattern.md) — related

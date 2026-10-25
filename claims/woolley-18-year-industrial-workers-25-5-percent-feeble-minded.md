@@ -47,3 +47,4 @@ Entry 447 annotates Woolley's 1916 Survey article: she "Applied point scale to 1
 ## Related Claims
 - [Applying the Stanford revision to selected children in four California cities, Williams classified 32% feeble-minded, 20% borderline, 22% dull normal, and 26% normal or superior.](williams-stanford-revision-four-california-cities-classification.md) — related
 - [Terman and Knollin indicate the Stanford revision is more accurate than the Vineland revision in estimating dullness, borderlinity and feeble-mindedness.](stanford-revision-more-accurate-than-vineland-for-borderlinity.md) — related
+- [Feeble-mindedness physically represents arrested development of the entire organism and is distinct from mental disease](feeble-mindedness-arrested-development-distinct-from-disease.md) — related

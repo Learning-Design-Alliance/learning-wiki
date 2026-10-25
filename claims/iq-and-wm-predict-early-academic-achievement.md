@@ -76,3 +76,5 @@ Hierarchical regression analyses of the LOGIC longitudinal sample (assessments a
 - [Addition fluency strongly predicts third-grade multiplication fluency, and a significant working memory association emerges after controlling for addition fluency](addition-fluency-predicts-multiplication-unique-precursors.md) — related
 - [The central executive component of working memory is the most important domain-general predictor of later-grade mathematics achievement](central-executive-top-domain-general-predictor.md) — related
 - [Among children below 80 IQ in the Providence grammar schools, only one of 220 made a mark better than C](providence-below-80-iq-marks-mostly-conditioned-or-failing.md) — a narrower finding that bears on this claim
+- [IQ scores tend to run low in communities where adults are engaged mostly in unskilled or semi-skilled labor, and apparent age- or grade-level anomalies usually have an explainable cause](iq-skew-linked-to-community-labor-context.md) — related
+- [Kindergarten counting, arithmetic, and letter-knowledge measures correlate with Grade 6 arithmetic fluency (r up to .45)](kindergarten-measures-correlate-grade6-math.md) — related

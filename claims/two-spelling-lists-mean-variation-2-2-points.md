@@ -48,3 +48,4 @@ Reliability analysis of the author's six-list spelling test: repeated testing of
 - [Prior spelling test lists (Ayres, Buckingham) are too easy for better pupils, with more than half of eighth-graders spelling all Buckingham list words correctly](prior-spelling-lists-ceiling-limitation.md) — related
 - [The six 100-word spelling lists are practically identical in difficulty, differing from list 1 by .9 to 3.4 points](six-spelling-lists-equal-difficulty.md) — related
 - [Grades overlap massively in spelling: on average 20.8% of pupils reach or exceed the median of the next grade above](grade-overlapping-in-spelling.md) — related
+- [Buckingham found information-question scores predict thought ability far better than thought-question scores predict information](buckingham-information-thought-regression-asymmetry.md) — related

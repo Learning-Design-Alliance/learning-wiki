@@ -13,7 +13,7 @@ generated:
 # Time and Continuity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 118 claims (78 show a difference, 31 mixed, 9 no difference) · 105 studies (43 causal, 21 associational, 17 review, 11 quant-synthesis, 5 qualitative, 5 design, 3 theoretical), `q1`–`q4` · 20 of 105 report an effect size · 114 claims rest on one study
+> **Evidence** · 119 claims (79 show a difference, 31 mixed, 9 no difference) · 106 studies (43 causal, 22 associational, 17 review, 11 quant-synthesis, 5 qualitative, 5 design, 3 theoretical), `q1`–`q4` · 20 of 106 report an effect size · 115 claims rest on one study
 
 ## Description
 How much uninterrupted time a learner actually gets, and whether progress survives the gap to the next session. It sets page length, whether a task finishes in one sitting, and whether a multi-week deliverable survives a bad month. The awkward part is that the schedule which produces the best retention is the one learners reliably judge worst: spacing feels harder and less effective while producing more durable learning [~S], so this dimension cannot be designed by learner preference.
@@ -175,6 +175,7 @@ How much uninterrupted time a learner actually gets, and whether progress surviv
 - [Performance on difficult mental multiplication improves during a continuous work period of about two hours](../claims/mental-multiplication-improves-during-continuous-work.md) [+M] — learners who differ on it differ in outcomes
 - [Negative psychosocial effects of preschool concentrate in full-day programs, with no academic difference between full- and part-day attendance and no program-type differences](../claims/preschool-dosage-full-day-behavioral-effects.md) [~M] — learners who differ on it differ in outcomes
 - [Average instruction time differed significantly between conditions, with demonstration by far the shortest, replicating the original study's durations](../claims/instruction-time-condition-differences-replicated.md) [+M] — instruction changes it
+- [The best planned hygiene instruction occurred in normal schools devoting considerable time to the sciences](../claims/best-hygiene-instruction-in-science-strong-schools.md) [+M] — an instructional effect differs with it
 
 ## The evidence by question
 

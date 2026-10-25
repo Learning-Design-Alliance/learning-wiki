@@ -40,7 +40,8 @@ Based on the finding that kindergarten inhibition predicted less overconfident m
 - [Inhibition Enables Thorough Monitoring Account](../theories/metacognition.md)
 
 ## Related Strategies
-- 
+
+- [Use kindergarten-age screening information to identify children at potential risk of math difficulties and provide access to early support](kindergarten-screening-early-md-support.md)
 
 ## Examples
 -

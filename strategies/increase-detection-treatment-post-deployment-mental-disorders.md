@@ -44,7 +44,8 @@ The review's authors recommend strengthening detection and treatment of mental d
 - [At other (variable) time points since exposure, deployed personnel show significantly higher odds of PTSD and depression than non-deployed personnel, while the common mental disorder analysis is inconclusive](../claims/deployment-variable-timepoints-ptsd-depression-significant.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Detect suspected mental debility in children via a four-part test battery plus medical examination](four-part-detection-battery-mental-weakness.md)
 
 ## Examples
 -

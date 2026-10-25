@@ -42190,5 +42190,181 @@
  "test-format\ttest that measures the intended ability\ttest that appears to measure the ability but measures a confound": {
   "label": "construct-valid test vs confounded test",
   "treatment_is_a": true
+ },
+ "learner-difference\tADHD combined type\treferred youth with no psychiatric diagnoses": {
+  "label": "ADHD combined type vs no psychiatric diagnosis",
+  "treatment_is_a": true
+ },
+ "learner-difference\tADHD diagnosis\treferred youth without full diagnoses": {
+  "label": "ADHD diagnosis vs no full psychiatric diagnosis",
+  "treatment_is_a": true
+ },
+ "learner-difference\tADHD inattentive type\treferred youth with no psychiatric diagnoses": {
+  "label": "ADHD inattentive type vs no psychiatric diagnosis",
+  "treatment_is_a": true
+ },
+ "learner-difference\tADHD with two or more additional diagnoses\tADHD without additional diagnoses": {
+  "label": "ADHD with comorbid diagnoses vs ADHD without comorbid diagnoses",
+  "treatment_is_a": true
+ },
+ "learner-difference\tADHD-comorbid subgroup within RD-only, MD-only, or RD+MD\tcorresponding subgroup without ADHD": {
+  "label": "ADHD comorbidity vs no ADHD",
+  "treatment_is_a": true
+ },
+ "learner-difference\tAI agent community\thuman peer learning communities": {
+  "label": "AI-agent learning community vs human-peer learning community",
+  "treatment_is_a": true
+ },
+ "learner-difference\tAI anxiety through emotion regulation\tno indirect pathway": {
+  "label": "AI anxiety with emotion-regulation mediation vs no indirect pathway",
+  "treatment_is_a": true
+ },
+ "learner-difference\tAI as a supplement for later-stage learners\tAI as a substitute for earlier-stage learners": {
+  "label": "AI as supplement for later-stage learners vs AI as substitute for earlier-stage learners",
+  "treatment_is_a": true
+ },
+ "learner-difference\tAI avoidance\tuncritical AI adoption": {
+  "label": "AI avoidance vs uncritical AI adoption",
+  "treatment_is_a": true
+ },
+ "learner-difference\tAI dependence × perceived AI literacy interaction\tunmoderated AI-dependence association": {
+  "label": "AI dependence moderated by perceived AI literacy vs unmoderated AI-dependence association",
+  "treatment_is_a": true
+ },
+ "learner-difference\tAI direct-solution users\tAI hint/clarification users": {
+  "label": "AI direct-solution use vs AI hint/clarification use",
+  "treatment_is_a": true
+ },
+ "learner-difference\tAI direct-solution users\tAI non-users": {
+  "label": "AI direct-solution use vs AI non-use",
+  "treatment_is_a": true
+ },
+ "learner-difference\tAI direct-solution users\tcontrol participants": {
+  "label": "AI direct-solution use vs control",
+  "treatment_is_a": true
+ },
+ "learner-difference\tAI employment threat perception among students with a high growth mindset\tAI employment threat perception among students with a low growth mindset": {
+  "label": "High-growth-mindset vs low-growth-mindset students",
+  "treatment_is_a": true
+ },
+ "learner-difference\tAI learning self-efficacy as a predictor\tAI perceived usefulness as a predictor": {
+  "label": "AI learning self-efficacy predictor vs AI perceived-usefulness predictor",
+  "treatment_is_a": true
+ },
+ "learner-difference\tAI literacy\tdigital literacy": {
+  "label": "AI literacy vs digital literacy",
+  "treatment_is_a": true
+ },
+ "learner-difference\tAI literacy\tindividual identity sensitivity": {
+  "label": "AI literacy vs individual identity sensitivity",
+  "treatment_is_a": true
+ },
+ "learner-difference\tAI literacy with psychological capital as mediator\tAI literacy without the mediated pathway": {
+  "label": "AI literacy with psychological-capital mediation vs AI literacy without mediation",
+  "treatment_is_a": true
+ },
+ "learner-difference\tAI platform with a human tutor\tAI platform independently": {
+  "label": "AI platform with human tutor vs independently operated AI platform",
+  "treatment_is_a": true
+ },
+ "learner-difference\tAI tutoring\tin-class active learning": {
+  "label": "AI tutoring vs in-class active learning",
+  "treatment_is_a": true
+ },
+ "learner-difference\tAI usage level 0 (no AI)\tAI usage level 3 (very helpful AI use)": {
+  "label": "High AI usage vs no AI usage",
+  "treatment_is_a": false
+ },
+ "learner-difference\tAI use among well-resourced learners and institutions\tAI use among low-income, rural, or marginalized learners and institutions": {
+  "label": "Well-resourced learners and institutions vs low-income, rural, or marginalized learners and institutions",
+  "treatment_is_a": true
+ },
+ "learner-difference\tAI use often\tAI use rarely": {
+  "label": "Frequent AI use vs rare AI use",
+  "treatment_is_a": true
+ },
+ "learner-difference\tAI use sometimes\tAI use rarely": {
+  "label": "Sometimes AI use vs rare AI use",
+  "treatment_is_a": true
+ },
+ "learner-difference\tAI use very often\tAI use rarely": {
+  "label": "Very frequent AI use vs rare AI use",
+  "treatment_is_a": true
+ },
+ "learner-difference\tAI used to obtain direct answers\tcontrol without AI": {
+  "label": "AI direct-answer use vs no-AI control",
+  "treatment_is_a": true
+ },
+ "learner-difference\tAI users\tnon-users": {
+  "label": "AI users vs non-users",
+  "treatment_is_a": true
+ },
+ "learner-difference\tAI-adaptive environment association among students with high AI literacy\tAI-adaptive environment association among students with low AI literacy": {
+  "label": "High AI literacy vs low AI literacy",
+  "treatment_is_a": true
+ },
+ "learner-difference\tAI-agent utterances\tstudent utterances": {
+  "label": "AI-agent utterances vs student utterances",
+  "treatment_is_a": true
+ },
+ "learner-difference\tAI-assisted personalized learning\tteacher-designed individualized instruction": {
+  "label": "AI-assisted personalized learning vs teacher-designed individualized instruction",
+  "treatment_is_a": true
+ },
+ "practice-amount\tsame copying-and-home-study method after twelve weeks of practice\tsame method at the beginning of the twelve-week period": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "praise\tSympathetic recognition and appreciation of the child's speech\tAn inattentive or unresponsive hearer": {
+  "label": "praise vs no praise",
+  "treatment_is_a": true
+ },
+ "praise\tpraise and approval for speaking\tlack of recognition or appreciation": {
+  "label": "praise vs no praise",
+  "treatment_is_a": true
+ },
+ "praise\tsympathetic praise and appreciation for speaking\tinattentive or unresponsive reception": {
+  "label": "praise vs no praise",
+  "treatment_is_a": true
+ },
+ "prompts\tutility-value writing about course relevance\twriting assignments summarizing course material": {
+  "label": "utility-value writing prompts vs content-summary writing prompts",
+  "treatment_is_a": true
+ },
+ "prompts\tutility-value writing about personal relevance\twriting summarizing course material": {
+  "label": "utility-value writing prompts vs content-summary writing prompts",
+  "treatment_is_a": true
+ },
+ "prompts\tutility-value writing assignments\tcontent-summary writing assignments": {
+  "label": "utility-value writing prompts vs content-summary writing prompts",
+  "treatment_is_a": true
+ },
+ "prompts\tutility-value writing assignments\tcontrol writing assignments summarizing course material": {
+  "label": "utility-value writing prompts vs content-summary writing prompts",
+  "treatment_is_a": true
+ },
+ "prompts\tutility-value writing assignments about course relevance\tsummary writing assignments": {
+  "label": "utility-value writing prompts vs content-summary writing prompts",
+  "treatment_is_a": true
+ },
+ "prompts\tutility-value writing prompts about personal relevance\tbiology-summary writing prompts": {
+  "label": "utility-value writing prompts vs content-summary writing prompts",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tInarticulate gestures or cries are not gratified when the child is ready to acquire speech\tThe adult attends to or gratifies gestures and inarticulate cries": {
+  "label": "Speech-contingent rewards vs gratification of non-speech communication",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tSpeaking is rewarded by obtaining requested things\tWants are anticipated or gratified without speaking": {
+  "label": "Speech-contingent rewards vs gratification without requiring speech",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\treward successful speaking and withhold gratification for gestures\tanticipate wants or gratify gestures and inarticulate cries": {
+  "label": "Speech-contingent rewards vs gratification of non-speech communication",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tspeaking produces practical benefits or gratification\twants anticipated or gestures and inarticulate cries gratified": {
+  "label": "Speech-contingent rewards vs gratification without requiring speech",
+  "treatment_is_a": true
  }
 }

@@ -53,3 +53,5 @@ The review reports a double-video experiment in which mothers interacted via liv
 - [Social norms shape role positioning in parent-child dyads playing an educational video game, with children sometimes more expert](social-norms-role-positioning-parent-child-game.md) — related
 - [Amount of child-directed speech at 19 months predicts expressive vocabulary size at 24 months in low-SES Spanish-learning infants](child-directed-speech-predicts-vocabulary-low-ses.md) — related
 - [Maternal contingency during infant play is consistent across toys at 12 months but shows no consistency over time](contingency-consistent-across-toys-not-over-time.md) — related
+- [The article argues that children's play with vocal sounds develops the range of articulate sounds before proper speech is acquired](vocal-play-develops-articulation.md) — related
+- [The article argues the social instinct — the craving for sympathy and appreciation — underlies speech because its full development is possible only through language](social-instinct-underlies-speech.md) — related

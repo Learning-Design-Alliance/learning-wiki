@@ -76,3 +76,4 @@ In the longitudinal analysis of 112 children, ANS acuity (Panamath percent corre
 - [School-entry assessment of numerosity judgments and Arabic number knowledge may identify children at risk of arithmetic difficulties](school-entry-numerosity-number-knowledge-risk-screening.md) — related
 - [Numeral comparison, but not quantity enumeration, uniquely accounts for variation in basic calculation fluency](numeral-comparison-unique-calculation-fluency.md) — related
 - [Non-verbal test materials add little to predicting achievement beyond verbal tests and mental age](non-verbal-tests-add-little.md) — related
+- [Kindergarten counting, arithmetic, and letter-knowledge measures correlate with Grade 6 arithmetic fluency (r up to .45)](kindergarten-measures-correlate-grade6-math.md) — related

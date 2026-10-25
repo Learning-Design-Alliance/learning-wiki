@@ -56,3 +56,4 @@ Descriptive group-comparison analysis of 2206 Binet records from clinic and inst
 - [The Binet-Simon scale is a valuable diagnostic tool for classifying defective children when used by a trained examiner but dangerous in untrained hands](binet-simon-scale-valuable-trained-dangerous-untrained.md) — related
 - [In Goddard's Vineland examination of 1547 pupils, only about half of mentally over-age and under-age pupils show corresponding advancement or retardation in school grading](goddard-binet-mental-age-vs-pedagogical-age.md) — related
 - [Grouping pupils by mental age is not a reliable means of ensuring proper educational treatment](mental-age-grouping-unreliable-for-educational-treatment.md) — related
+- [Feeble-mindedness physically represents arrested development of the entire organism and is distinct from mental disease](feeble-mindedness-arrested-development-distinct-from-disease.md) — related

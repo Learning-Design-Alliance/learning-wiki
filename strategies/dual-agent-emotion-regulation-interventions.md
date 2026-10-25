@@ -50,6 +50,7 @@ Because teachers' and students' lesson-specific emotions are interconnected, the
 ## Related Strategies
 
 - [Civic education teachers foster an open classroom climate to prevent negative emotions and increase enjoyment](foster-open-climate-civic-emotions-strategy.md)
+- [Attend to emotion transmission among students and the role of contagion in education](attend-to-peer-emotion-transmission.md)
 
 ## Examples
 -

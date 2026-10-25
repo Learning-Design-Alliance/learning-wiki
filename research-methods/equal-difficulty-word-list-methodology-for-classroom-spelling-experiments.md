@@ -28,4 +28,4 @@ The article describes a methodology for constructing and validating two lists of
 -
 
 ## Key Sources
-- Winch, W. H. (1913). Experimental researches on learning to spell. I. The Journal of Educational Psychology. https://www.jstor.org/stable/1412810
+- Winch, W. H. (1913). Experimental researches on learning to spell. Part I. *Journal of Educational Psychology, 4*(9), 525–537. [doi:10.1037/h0075675](https://doi.org/10.1037/h0075675)

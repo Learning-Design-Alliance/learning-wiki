@@ -13,7 +13,7 @@ generated:
 # Academic Anxiety
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 135 claims (86 show a difference, 33 mixed, 16 no difference) · 86 studies (36 associational, 17 review, 15 causal, 6 quant-synthesis, 6 theoretical, 5 qualitative, 1 design), `q1`–`q4` · 21 of 86 report an effect size · 128 claims rest on one study
+> **Evidence** · 140 claims (87 show a difference, 36 mixed, 17 no difference) · 87 studies (37 associational, 17 review, 15 causal, 6 quant-synthesis, 6 theoretical, 5 qualitative, 1 design), `q1`–`q4` · 22 of 87 report an effect size · 133 claims rest on one study
 
 ## Description
 Academic anxiety is fear or tension aroused by a subject or by being evaluated in it. The research mostly studies three forms: mathematics anxiety, test anxiety and foreign-language anxiety, each measured with self-report scales. Anxiety predicts lower performance, partly because worry takes up [working memory](working-memory.md); it moderates instructional effects (timed or high-stakes formats hurt anxious learners more); and it is an outcome that some designs reduce, such as low-stakes practice testing and expressive writing before an exam. It is a narrower case of [affect regulation](affect-regulation.md).
@@ -171,6 +171,11 @@ Academic anxiety is fear or tension aroused by a subject or by being evaluated i
 - [Teachers' mathematics anxiety is positively associated with the mathematics anxiety of their low-SES students via a teacher-anxiety-by-FARM interaction](../claims/teacher-math-anxiety-farm-interaction.md) [+M] — instruction changes it
 - [Teachers' science anxiety is positively associated with the science anxiety of their low-SES students via a teacher-anxiety-by-FARM interaction](../claims/teacher-science-anxiety-farm-interaction.md) [+M] — instruction changes it
 - [When enjoyment, boredom, and anxiety are modeled simultaneously, anxiety exerts the strongest predictive power for mathematics achievement](../claims/anxiety-strongest-predictor-when-emotions-modeled-together.md) [+M] — learners who differ on it differ in outcomes
+- [Adolescent girls report higher mathematics anxiety for evaluations than boys, but not for mathematics learning](../claims/girls-higher-evaluation-math-anxiety.md) [~W] — instruction changes it
+- [Girls with low mathematics achievement are at higher risk of developing mathematics anxiety and poor mathematics attitudes than low-achieving boys](../claims/low-achieving-girls-higher-anxiety-risk.md) [+M] — instruction changes it
+- [Higher sixth-grade mathematical competence predicts lower evaluation anxiety and better mathematics attitudes in seventh grade for girls but not boys](../claims/competence-predicts-girls-anxiety-attitudes.md) [~M] — instruction changes it
+- [Sixth-grade mathematics anxiety and attitudes do not predict seventh-grade mathematics achievement; the relation is directional from competence to affect, not reciprocal](../claims/competence-to-affect-directional-not-reciprocal.md) [-M] — learners who differ on it differ in outcomes
+- [The negative concurrent correlation between mathematical competence and evaluation anxiety is stronger in girls than in boys in sixth grade](../claims/competence-evaluation-anxiety-link-stronger-girls.md) [~W] — instruction changes it
 
 ## The evidence by question
 - *Do learners with higher anxiety about a subject or a test achieve less in it?* [Math anxiety has a small-to-moderate negative correlation with math achievement (r = −.28) in a meta-analysis of correlations from 223 studies](../claims/math-anxiety-degrades-performance.md) [+M]

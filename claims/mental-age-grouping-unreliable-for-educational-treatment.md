@@ -52,3 +52,4 @@ The author's conclusion from the test distributions across the seven classes, wh
 - [Group averages are misleading when applied to individual pupils because of extensive overlapping in weight and height across grades](group-averages-misleading-individual-overlap.md) — a broader claim this one bears on
 - [The Binet-Simon scale accurately graded fairly minute individual differences in mental ability within same-age groups, as validated against teacher and principal judgments](binet-simon-grades-individual-differences.md) — related
 - [Scattering on the Binet scales does not support the claim that unequal development is the specific characteristic of the feeble-minded; normal pupils scatter most and imbeciles least](scattering-not-pathognomonic-of-feeble-mindedness.md) — related
+- [Weak-minded children are capable of being taught if proper methods are employed, but the hope of improvement diminishes with age](feeble-minded-teachable-methods-age-limits.md) — related

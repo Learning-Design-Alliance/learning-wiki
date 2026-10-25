@@ -58,3 +58,4 @@ The review reports, citing Ehm et al. (2019), that model choice changed conclusi
 - [RI-CLPM random-intercept correlations between grades and emotions (median |r| = 0.46) were stronger than the undecomposed CLPM correlations (median |0.34|)](riclpm-vs-clpm-correlation-strength.md) — related
 - [Cross-lagged effects between behavioral problems and achievement are sporadic and domain-dependent, not consistently reciprocal, across elementary school](sporadic-domain-dependent-cross-lagged-effects-behavior-achievement.md) — related
 - [Student-teacher closeness, conflict and dependency, students' motivation, and academic achievement inform each other across the elementary grades](transactional-relations-motivation-relationships-achievement-k6.md) — related
+- [Adding cross-lagged effects significantly improves model fit over autoregressive models for every model tested](cross-lagged-improve-fit-over-autoregressive.md) — related

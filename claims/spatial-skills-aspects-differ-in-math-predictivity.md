@@ -50,3 +50,4 @@ Authors' interpretation of the longitudinal regression findings in the kindergar
 - [Kindergarten spatial orientation performance longitudinally predicts number line estimation performance four months later](spatial-orientation-predicts-number-line-estimation.md) — a narrower finding that bears on this claim
 - [Spatial ability correlates moderately with mathematics achievement (r = .25), less strongly than verbal ability](spatial-ability-correlates-moderately-with-math-achievement.md) — related
 - [Spatial Training Improves Math Performance](spatial-training-improves-math-performance.md) — related
+- [The most important kindergarten predictors of Grade 6 MD are RAN, spatial relations, arithmetic skills, number concepts, attention-orientation, and counting](top-predictors-md-ran-spatial-attention.md) — related

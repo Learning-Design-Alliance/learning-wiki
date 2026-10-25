@@ -13,7 +13,7 @@ generated:
 # Reading and Language
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 206 claims (131 show a difference, 32 mixed, 43 no difference) · 146 studies (39 associational, 37 causal, 30 quant-synthesis, 25 review, 8 theoretical, 4 design, 3 qualitative), `q1`–`q4` · 34 of 146 report an effect size · 197 claims rest on one study
+> **Evidence** · 212 claims (134 show a difference, 33 mixed, 45 no difference) · 148 studies (41 associational, 37 causal, 30 quant-synthesis, 25 review, 8 theoretical, 4 design, 3 qualitative), `q1`–`q4` · 34 of 148 report an effect size · 203 claims rest on one study
 
 ## Description
 What a learner can read without effort, and whether the language of instruction is the one they think in. LVN's largest factor family — decoding, vocabulary, fluency, composition, disciplinary literacy and language of instruction all sit here. The load-bearing fact is that decoding which is not automatic spends the same budget comprehension needs, so a reading problem presents as a thinking problem [+S].
@@ -257,6 +257,12 @@ What a learner can read without effort, and whether the language of instruction 
 - [Morphological awareness has significant indirect effects on reading comprehension via word reading (β = .140) and vocabulary knowledge (β = .190)](../claims/ma-indirect-effects-via-word-reading-vocabulary.md) [+W] — learners who differ on it differ in outcomes
 - [Older readers showed a stronger indirect effect of MA on reading comprehension via vocabulary knowledge, with a converse pattern via word reading](../claims/age-grade-moderates-indirect-effects.md) [~M] — learners who differ on it differ in outcomes
 - [The correlation between morphological awareness and reading comprehension is r = .536 in school-aged readers of English](../claims/ma-reading-comprehension-correlation.md) [+M] — learners who differ on it differ in outcomes
+- [After propensity score matching, bilingual kindergarteners show greater teacher-rated attentional focus than matched monolinguals, but this effect is not robust to unmeasured confounds](../claims/psm-bilingual-advantage-attentional-focus-not-robust.md) [~M] — learners who differ on it differ in outcomes
+- [After propensity score matching, bilingual kindergarteners show greater teacher-rated inhibitory control than matched monolinguals, and this effect is robust to unmeasured confounds](../claims/psm-bilingual-advantage-teacher-rated-inhibitory-control.md) [+M] — learners who differ on it differ in outcomes
+- [After propensity score matching, no bilingual-monolingual differences appear on performance-based measures of working memory or cognitive flexibility in kindergarten](../claims/psm-no-bilingual-advantage-performance-based-ef.md) [-M] — learners who differ on it differ in outcomes
+- [Patterns of relations among word reading and fluency measures were similar across Greek and English, consistent with a language-independent fluency development trajectory](../claims/fluency-development-patterns-similar-across-languages.md) [-M] — an instructional effect differs with it
+- [Serial digit naming uniquely predicted word-list and text reading fluency beyond isolated word reading speed in Grades 3 and 5, in both languages](../claims/serial-digit-naming-unique-predictor-grades-3-5.md) [+M] — learners who differ on it differ in outcomes
+- [The two-predictor model (discrete word reading plus serial digit naming) accounted for similar amounts of variance in text and word-list reading fluency](../claims/two-predictor-model-similar-variance-text-list.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does a learner's oral language and vocabulary predict how well they come to read and understand texts?* [A 1997 conference paper reports, citing Sticht, a positive correlation between preschool oral language skills and later reading achievement](../claims/oral-language-predicts-reading-achievement.md) [+W]
