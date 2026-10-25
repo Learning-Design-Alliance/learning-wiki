@@ -356,3 +356,4 @@ Nakata, T. (2015). Effects of expanding and equal spacing on second language voc
 - [Spaced practice research addresses the potential for optimal gaps or delays between presentations of the same concept](spaced-practice-optimal-gaps-between-presentations.md) — a narrower finding that bears on this claim
 - [For short maze problems, massed learning effort is more economical than distributed effort in trials, time and errors, for both rats and human adults](short-problems-massed-effort-more-economical.md) — related
 - [Material learned with the expectation of delayed reproduction is retained better than material learned for near-term reproduction](delayed-reproduction-expectation-improves-retention.md) — related
+- [Distributed practice aids digit memorization, but massed practice is preferred for new and short mazes, indicating a boundary condition on the spacing effect](distributed-vs-massed-practice-boundary-1921.md) — related

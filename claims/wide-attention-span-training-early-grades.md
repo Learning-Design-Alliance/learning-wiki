@@ -51,3 +51,4 @@ An author-recommendation passage in the review of Dr. Buswell's reading study. T
 - [Automatic word recognition frees resources for comprehension](automatic-word-recognition-frees-resources-for-comprehension.md) — related
 - [A common attentional component is needed for feature binding, running digit span, and visual short-term memory tasks, while phonological storage is separate](common-attentional-component-binding-running-span-visual-stm.md) — related
 - [Digit span running loaded on the focus of attention factor rather than the phonological factor, supporting Cowan's claim that running span performance reflects attentional capacity](digit-span-running-loads-focus-of-attention.md) — related
+- [Better oral readers show a better eye-voice span with several characteristic variations from that of poor readers](eye-voice-span-better-readers-buswell.md) — related

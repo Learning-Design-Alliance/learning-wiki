@@ -77,3 +77,4 @@ The review's summary of studies including mediation findings (Gniewosz et al., 2
 - [Grades show mediated dimensional comparison effects on course choices via self-concept and value](mediated-dimensional-comparison-course-choices.md) — related
 - [In German, students' prior intrinsic value and attainment value positively predict their later academic self-concept](value-predicts-later-self-concept-german.md) — related
 - [Within each school subject, self-concept and the three value facets correlate positively with one another and negatively with opportunity cost](within-subject-value-facets-positive-cost-negative.md) — related
+- [Students' situation-specific and average test performance predict their test-specific self-concept, intrinsic and utility values, and perceived costs](test-performance-predicts-situation-specific-motivation.md) — related

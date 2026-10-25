@@ -49,3 +49,4 @@ A theoretical argument, not a tested result: the author contends that order-of-m
 - [The card list elicits ranking from judges unwilling to write names in order of merit](cardlist-elicits-ranking-from-reluctant-judges.md) — related
 - [Card-slip ranking produces more careful order-of-merit ratings than writing rank numbers beside names on a list](cardlist-more-careful-rating-than-list-ranking.md) — a narrower finding that bears on this claim
 - [Card-slip ranking yields a wider spread of ranks than list-based ranking typically produces](cardlist-wider-spread-of-ranks.md)
+- [The tests rank in the order opposites, sentence completion, logical selection, arithmetical problems, and symbol-digit substitution as measures of native intelligence](rank-order-native-intelligence-tests.md) — related

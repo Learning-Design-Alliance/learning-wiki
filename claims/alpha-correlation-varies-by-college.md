@@ -69,3 +69,4 @@ A second analysis obtained point-hour ratios for all senior students in the coll
 - [Alpha subtests differ in predicting grades, with correlations from .17 (Test 3) to .37 (Test 7) among seniors](alpha-subtest-correlation-range.md) — related
 - [Intelligence test correlations with college performance are reportedly too low for administrative classification use](low-correlations-limit-college-intelligence-test-classification.md) — a broader claim this one bears on
 - [The diagnostic value of individual Alpha subtests for specific subjects is dubious, though subtest combinations show limited specificity](alpha-subtest-diagnostic-value-dubious.md) — related
+- [Army Alpha point scores correlate about +0.36 with academic grades among nearly 6000 college students, with correlations varying across sub-tests](army-alpha-grades-correlation-036-college.md) — related

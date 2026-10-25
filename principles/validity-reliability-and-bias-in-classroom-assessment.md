@@ -36,7 +36,7 @@ sources:
 # Validity, Reliability, and Bias in Classroom Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 279 claims (120 for, 141 mixed, 18 against) · 208 studies (82 associational, 48 design, 28 review, 23 theoretical, 18 causal, 6 quant-synthesis, 3 qualitative), `q1`–`q3` · 18 of 208 report an effect size · 272 claims rest on one study
+> **Evidence** · 280 claims (120 for, 142 mixed, 18 against) · 209 studies (82 associational, 48 design, 28 review, 24 theoretical, 18 causal, 6 quant-synthesis, 3 qualitative), `q1`–`q3` · 18 of 209 report an effect size · 273 claims rest on one study
 
 ## Conditional relationship
 
@@ -353,6 +353,7 @@ Content validity, construct validity, criterion validity, consistency across occ
 - [MicroDYN measurement of CPS shows strong factorial invariance across grade levels ages 11 to 17](../claims/cps-measurement-invariance-grades.md) [+W]
 - [The scale reduces spread on individual compositions without reducing the spread of median scores across compositions (range of medians 32 points in both conditions)](../claims/hillegas-scale-preserves-median-spread.md) [~W]
 - [Teachers' geometry marks usually bear a positive relation to the four fundamental abilities](../claims/teachers-marks-relate-to-geometry-abilities.md) [~W]
+- [The editorial argues existing composition scales measure form on topics of artificial interest and cannot measure improvement in thought content](../claims/existing-composition-scales-miss-thought-content.md) [~W]
 
 ## Related Principles
 - [Criterion- and Norm-Referenced Testing](criterion-and-norm-referenced-testing.md) — validity and reliability apply to standardized as well as teacher-made assessments, with additional considerations

@@ -64,3 +64,4 @@ The brief's summary of subgroup comparisons in MAP Growth reading and math data 
 - Institutions with larger shares of Pell, AIAN, NHPI, Black, and Hispanic students are less likely to meet PVC Threshold 0, while higher Asian shares increase the likelihood — related
 - [Male BIPOC students and BIPOC students in high-poverty schools made the lowest percentage of typical learning gains during the pandemic](gender-and-school-poverty-moderate-pandemic-gains.md) — a narrower finding that bears on this claim
 - [The COVID-19 pandemic impacted historically underserved students more severely than their peers](covid-impacted-historically-underserved-students-more-severely.md) — a broader claim this one bears on
+- [Reported Otis score differences between American Indian and native white samples co-varied with blood quantum, but educational-advantage confounds could not be fully eliminated](otis-scores-indian-white-samples-1921-confounded.md) — related

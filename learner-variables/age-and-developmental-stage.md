@@ -13,7 +13,7 @@ generated:
 # Age and Developmental Stage
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 180 claims (116 show a difference, 41 mixed, 23 no difference) · 146 studies (56 associational, 26 causal, 24 review, 23 quant-synthesis, 10 theoretical, 5 design, 2 qualitative), `q1`–`q4` · 22 of 146 report an effect size · 178 claims rest on one study
+> **Evidence** · 181 claims (117 show a difference, 41 mixed, 23 no difference) · 147 studies (57 associational, 26 causal, 24 review, 23 quant-synthesis, 10 theoretical, 5 design, 2 qualitative), `q1`–`q4` · 22 of 147 report an effect size · 179 claims rest on one study
 
 ## Description
 Age and developmental stage cover a learner's chronological age, grade level, and the cognitive, language and social development that comes with them. Research uses them as a predictor (growth curves, when skills emerge), as a moderator (an approach that works for older students but not younger ones, or for adults but not children) and to define a population (early childhood, adolescents, adult learners). Age is often a stand-in for what actually matters, such as prior knowledge, reading skill or self-regulation, so a finding that differs by age is a reason to ask which of those it reflects.
@@ -212,6 +212,7 @@ Age and developmental stage cover a learner's chronological age, grade level, an
 - [The text reading–comprehension relation weakens across grade levels, from .72 in primary grades to .45 in adults](../claims/text-reading-relation-declines-by-grade-level.md) [+M] — an instructional effect differs with it
 - [Within-domain relations of academic emotions are stable across grade levels, with no significant differences between Grade 8 and Grade 11](../claims/within-domain-relations-stable-across-grades.md) [-M] — an instructional effect differs with it
 - [Latent mean comparisons show only partial grade-level development in CPS, with Grade 9 students performing worst on both dimensions](../claims/cps-grade-development-grade-9-deviation.md) [~M] — learners who differ on it differ in outcomes
+- [Children of the same measured mental age but different chronological age differ in which mental functions show superior performance](../claims/same-mental-age-different-function-profiles.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does being older at school entry, or older than one's classmates, give a lasting achievement advantage?* [Being a year older at kindergarten entry leads to higher initial achievement](../claims/older-entry-higher-initial-achievement.md) [+M]

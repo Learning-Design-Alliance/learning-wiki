@@ -49,3 +49,4 @@ Group testing of forty-four twelve-year-olds in the Mexico schools across four g
 - [Completion, word-building, logical memory and controlled association tests are most valuable for separating dull from bright pupils](most-valuable-tests-bright-dull-separation.md) — related
 - [The three Wilson Language Error Tests (A, B, and C) approach equality across grades III to XII](wilson-language-error-tests-equal-value.md) — related
 - [Elementary pupils in grades three and four complete far fewer vocabulary words within the group session than grades five through eight](terman-vocabulary-pacing-younger-grades.md) — related
+- [Among total-score-matched Young Bright and Old Dull children, the opposites test shows a large performance advantage for the Young Bright group](opposites-favors-young-bright.md) — related

@@ -48,6 +48,7 @@ The article recommends weighting each sentence by its scale value: "A better met
 ## Related Strategies
 
 - [Handle incorrect completions by giving full credit for correct or as-good-as-correct answers and part credit for answers that give sense but are not strictly correct](part-credit-for-sensible-wrong-completions.md)
+- [Four ways teachers can administer and score the vocabulary lists, from raw scores to weighted scale values](four-uses-of-latin-vocabulary-lists.md)
 
 ## Examples
 -

@@ -68,3 +68,4 @@ Study 1 thematic network analysis (Attride-Stirling method) of instructor interv
 - [Students perceive that applying knowledge gained through new meaningful experiences creates lasting personal growth (gain)](students-lasting-personal-growth-experiences.md) — related
 - [Open inquiry positively influences students' attitudes towards science, including satisfaction, collaboration and self-confidence](open-inquiry-attitudes-towards-science.md) — related
 - [Online environments build adolescent competence through pride in achievements, social confidence, and creative confidence](online-competence-pride-confidence-creativity.md) — related
+- [Enjoyment is central within the science interest network](enjoyment-central-in-science-interest-network.md) — related

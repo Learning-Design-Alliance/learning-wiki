@@ -68,3 +68,4 @@ Confirmatory factor analysis in a non-duplicate hold-out sample of 321 students 
 - Metacognition items loaded as a single factor, and time management combined with planning, in the SRL-O structure — related
 - [No existing online SRL questionnaire covers the breadth of motivational beliefs and learning strategies the SRL-O covers](no-online-srl-measure-covers-breadth.md) — related
 - [Nine of the ten SRL-O subscales showed internal consistency above 0.70, with study environment lower (omega = 0.665)](srl-o-internal-consistency.md) — related
+- [Acceptance of individual and collective cheating form two distinct factors in students' responses](individual-collective-cheating-two-factor-distinction.md) — related

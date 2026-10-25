@@ -54,3 +54,4 @@ This is the authors' interpretive claim in the introduction, offered without dat
 - [The editorial asserts that competition is particularly valuable in developing the capacities of pupils of more than average ability](competition-powerful-incentive-advanced-pupils.md) — related
 - [School surveys with the scale found clear-cut group differences between sections, schools, and institutional children](cross-out-scale-survey-group-differences.md) — related
 - [Median age per grade, not per cent of retardation, is the best single statement of the age-grade situation for most practical purposes](median-age-per-grade-better-than-percent-retardation.md) — related
+- [In a Detroit age-grade survey, retardation peaked at the fifth grade and fell to a minimum at the eighth, with retardation greatest among negroes and Italians and acceleration greatest among United States whites, Scotch, and Russians](detroit-age-grade-retardation-grade-pattern.md) — related

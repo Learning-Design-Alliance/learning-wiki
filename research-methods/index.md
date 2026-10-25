@@ -2,7 +2,7 @@
 
 Methods for studying learning and evaluating education that are specific to it or especially useful in it. General social-science methods are not listed.
 
-**653 entries** · 0 stable · 653 in review · 0 drafts
+**654 entries** · 0 stable · 654 in review · 0 drafts
 
 ---
 
@@ -301,6 +301,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [HARMOGEN-R: a two-stage hybrid framework for AI rubric generation with reasoning-enhanced generation and low-temperature synthesis](harmogen-r-a-two-stage-hybrid-framework-for-ai-rubric-generation-with-reasoning-enhanced-g.md) - HARMOGEN-R (Hybrid Assessment Rubric Model Generation with Reasoning) is a two-stage rubric generation pipeline.
 * [Hattie and Timperley's feedback model](hattie-and-timperleys-feedback-model.md) - The article adopts this theoretical framework to analyse the effectiveness of textual feedback.
 * [Henmon's P.E. sentence-difficulty scaling method](henmons-pe-sentence-difficulty-scaling-method.md) - The article scales each sentence's difficulty by the same method used for vocabulary words: given the per cent of pupils translating it correctly, its position is located on the base line of the normal frequency surface in P.E.
+* [Henmon's P.E. vocabulary-difficulty scaling method](henmons-pe-vocabulary-difficulty-scaling-method.md) - The article adapts Buckingham's spelling-scaling method to assign each Latin word a difficulty weight.
 * [Hierarchical causal models representing both specific theories and framework theories](hierarchical-causal-models-representing-both-specific-theories-and-framework-theories.md) - The article argues that recently developed hierarchical causal models can capture the theory theory's claim that specific causal theories are embedded in more abstract framework theories.
 * [Hierarchical framework of domain-specific attitude constructs for synthesizing attitude outcomes](hierarchical-framework-of-domain-specific-attitude-constructs-for-synthesizing-attitude-ou.md) - The article proposes a hierarchical conceptual framework (Fig.
 * [Hierarchical resampling simulation framework for evaluating metacognitive measures](hierarchical-resampling-simulation-framework-for-evaluating-metacognitive-measures.md) - A simulation methodology in which real confidence-judgment datasets are resampled hierarchically (participants with replacement, then trials within participants) to create realistic simulated experiments without committing to a mathematical model of confidence.

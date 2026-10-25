@@ -52,3 +52,4 @@ Exploratory RQ3 descriptive analysis of end-of-year teacher survey self-reports 
 - [Most Chicago public school students use technology infrequently and for a narrow range of low-level activities](cps-students-infrequent-narrow-technology-use.md) — reports the opposite
 - [RM-CC5 usage metrics correlated positively with achievement, and together accounted for an additional 7.3% of variance in Grade 5 scores beyond prior achievement, though causality and relative contributions could not be inferred](rm-cc5-usage-metrics-achievement-correlation.md) — related
 - [Achievement effects accumulated over a third year in schools implementing personalized learning since 2012 or earlier, though not purely additively](pl-effects-accumulate-third-year.md) — related
+- [Implementation fidelity was high and treatment classrooms differed from controls in text complexity, task openness, and instructional time](more-fidelity-and-program-differentiation.md) — related

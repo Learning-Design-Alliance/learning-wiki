@@ -64,3 +64,4 @@ Random effects meta-analysis of 16 studies and 2,707 struggling adult readers, u
 - [Baseline reading and untaught Grade 2 vocabulary scores correlated moderately with near-, mid-, and far-transfer comprehension outcomes](baseline-reading-and-untaught-vocabulary-correlations-transfer.md) — related
 - [Decoding fluency did not uniquely predict reading comprehension in any grade 4–10, though it correlated moderately with comprehension (.47–.74)](decoding-fluency-no-unique-prediction-grades-4-10.md) — related
 - [The correlation between morphological awareness and reading comprehension is r = .536 in school-aged readers of English](ma-reading-comprehension-correlation.md) — related
+- [Vocabulary test scores correlate moderately with teachers' final Latin grades, averaging .56 for Latin-English and .66 for English-Latin](latin-vocabulary-test-teacher-grade-correlations.md) — related

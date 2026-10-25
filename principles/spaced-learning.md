@@ -71,7 +71,7 @@ sources:
 # Spaced Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 69 claims (38 for, 29 mixed, 2 against) · 47 studies (25 causal, 10 review, 9 quant-synthesis, 3 theoretical), `q1`–`q4` · 14 of 47 report an effect size · 62 claims rest on one study
+> **Evidence** · 70 claims (38 for, 30 mixed, 2 against) · 48 studies (25 causal, 11 review, 9 quant-synthesis, 3 theoretical), `q1`–`q4` · 14 of 48 report an effect size · 63 claims rest on one study
 
 ## Description
 
@@ -470,6 +470,7 @@ The article concludes that AI-generated podcasts are best positioned as a 'mobil
 - [Evidence for lasting learning is mixed at 8-week delays: only interleaving, not spacing or retrieval practice in drawing contexts, was supported](../claims/eight-week-delay-evidence-mixed.md) [-W]
 - [The more the substitution practice was distributed over days, the larger the practice gains and the more pronounced the negative transfer effects](../claims/kline-distributed-practice-amplifies-transfer-effects.md) [~W]
 - [Distributing drill repetitions in time gives better learning results than making many repetitions in succession](../claims/distributed-drill-repetitions-better-than-succession.md) [+W]
+- [Distributed practice aids digit memorization, but massed practice is preferred for new and short mazes, indicating a boundary condition on the spacing effect](../claims/distributed-vs-massed-practice-boundary-1921.md) [~W]
 
 ## Key Sources
 

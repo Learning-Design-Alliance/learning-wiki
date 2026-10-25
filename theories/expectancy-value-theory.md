@@ -12,7 +12,7 @@ generated:
 # Expectancy-Value Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 47 claims (28 for, 18 mixed, 1 against) · 29 studies (10 causal, 7 associational, 5 review, 3 qualitative, 2 theoretical, 1 quant-synthesis, 1 design), `q1`–`q3` · 6 of 29 report an effect size · 46 claims rest on one study
+> **Evidence** · 48 claims (29 for, 18 mixed, 1 against) · 30 studies (10 causal, 8 associational, 5 review, 3 qualitative, 2 theoretical, 1 quant-synthesis, 1 design), `q1`–`q3` · 6 of 30 report an effect size · 47 claims rest on one study
 
 ## Description
 Expectancy-Value Theory (Wigfield & Eccles, 2000) proposes that achievement behavior is most immediately predicted by two beliefs: **expectancy for success** (whether the learner believes they will do well on an upcoming task) and **task value** (why the learner believes the task is worth doing). Expectancy for success is conceptually distinct from present-tense **ability beliefs** — expectancy is about future potential, ability belief is about current competence — though the two are closely related in practice.
@@ -105,6 +105,7 @@ The theory is explicitly integrative — it is often used as the organizing fram
 - [Expectancy-value theory research previously neglected value-facet differentiation, long time spans with multiple waves, and domain-specific patterns](../claims/evt-research-gaps-value-facets-waves-domains.md) [~W]
 - [Within each school subject, self-concept and the three value facets correlate positively with one another and negatively with opportunity cost](../claims/within-subject-value-facets-positive-cost-negative.md) [+W]
 - [Neither choice nor utility value manipulations improve end-of-session regression test performance, and the two manipulations do not interact](../claims/no-performance-effects-no-uv-choice-interaction.md) [-W]
+- [Subjective task value and cost emerge as two distinct factors in daily motivational appraisals of vocabulary learning](../claims/value-cost-two-distinct-factors-daily-appraisals.md) [+W]
 
 ## Related Theories
 

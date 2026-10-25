@@ -50,3 +50,4 @@ Latent change score models in Study 1a (N = 1,004) tested predictive effects of 
 - [Self-efficacy, but not self-reported strategy use, predicts subsequent exam grades in the university course](self-efficacy-predicts-exam-grades-strategy-use-does-not.md) — related
 - [Students experienced a motivational shock between Weeks 2 and 3 coinciding with first performance feedback on mandatory math worksheets](motivational-shock-weeks-2-3-performance-feedback.md) — related
 - [Course dropout was linked to lower SES, lower high school GPA, lower participation in preparatory math courses, and less adaptive initial motivations](course-dropout-correlates-gateway-math.md) — related
+- [Test performance, but not test-specific motivational beliefs, predicts end-of-term exam performance in math-intensive STEM courses](math-test-performance-predicts-end-of-term-stem-exam.md) — reports the opposite

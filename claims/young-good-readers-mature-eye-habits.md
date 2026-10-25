@@ -46,3 +46,4 @@ A review paragraph summarizing laboratory studies of reading eye-voice coordinat
 
 ## Related Claims
 - [Visual support reduces global sentence reading times and regressions in adult readers](visual-support-reduces-global-sentence-reading-times.md) — related
+- [Better oral readers show a better eye-voice span with several characteristic variations from that of poor readers](eye-voice-span-better-readers-buswell.md) — related

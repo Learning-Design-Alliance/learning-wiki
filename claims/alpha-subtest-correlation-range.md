@@ -49,3 +49,4 @@ Correlations between point-hour ratios and each Alpha test taken separately for 
 - [Correlations between Alpha and grades vary by class standing, lowest for graduates (r = .15) and highest for seniors (r = .38)](alpha-grades-correlation-class-standing.md) — related
 - [Separate subtests of the short form correlate .41 to .68 with their corresponding long scales](survey-test-subtest-correlations-41-to-68.md) — related
 - [The diagnostic value of individual Alpha subtests for specific subjects is dubious, though subtest combinations show limited specificity](alpha-subtest-diagnostic-value-dubious.md) — a broader claim this one bears on
+- [Army Alpha point scores correlate about +0.36 with academic grades among nearly 6000 college students, with correlations varying across sub-tests](army-alpha-grades-correlation-036-college.md) — a broader claim this one bears on

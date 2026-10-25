@@ -58,3 +58,4 @@ Analysis of student self-reported grades from the California Healthy Kids Survey
 - [Large racial and socioeconomic achievement disparities persisted in an affluent high-performing district](ousd-persistent-race-class-disparities.md) — a narrower finding that bears on this claim
 - [Higher proportions of Black and Hispanic students than White and Asian students are off-track for college readiness throughout middle school](black-hispanic-students-off-track-throughout-middle-school.md) — related
 - [White and Asian staff report more positive school climates than African American and Hispanic staff, irrespective of their school's student racial composition](staff-climate-perceptions-vary-by-staff-race.md) — related
+- [Reported Otis score differences between American Indian and native white samples co-varied with blood quantum, but educational-advantage confounds could not be fully eliminated](otis-scores-indian-white-samples-1921-confounded.md) — related

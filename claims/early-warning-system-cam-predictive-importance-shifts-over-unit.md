@@ -99,3 +99,4 @@ Cross-validation results across five timepoints (Fig. 3) comparing unimodal data
 - [Combining cognitive, affective, and metacognitive data from digital workbooks predicts middle-school students' learning productivity with accuracy rising from about 60% to 100% as an inquiry unit progresses](cam-data-predict-learning-productivity-early-warning.md) — possibly the same claim (merge candidate)
 - [Regular and explicit teacher addressing of metacognitive strategies is linked to students applying more metacognitive strategies over time](explicit-metacognitive-addressing-increases-student-strategy-use.md) — related
 - [Cognitive artifact scoring in the digital workbook achieved high intercoder reliability, with average Spearman's rho of 0.97 overall](high-intercoder-reliability-workbook-scoring.md) — related
+- [The SINM identifies structurally important interest variables as candidate targets for intervention](sinm-identifies-intervention-candidate-variables.md) — related

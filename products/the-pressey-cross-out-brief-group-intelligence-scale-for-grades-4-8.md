@@ -30,6 +30,7 @@ A four-test group intelligence assessment developed by Pressey for measuring gen
 ## Related Products and Programmes
 
 - [Cross-out scale](cross-out-scale.md)
+- [Kingsbury pictorial primary scale, Pintner combined mental-educational survey test, and Pressey seventh-grade attainment scale](kingsbury-pictorial-primary-scale-pintner-combined-mental-educational-survey-test-and-pres.md)
 
 ## Key Sources
 - Pressey, S. L. (1920). A Brief Group Scale of Intelligence for Use in School Surveys. The Journal of Educational Psychology. https://psycnet.apa.org/journal/edu

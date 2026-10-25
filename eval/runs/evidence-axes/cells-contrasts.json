@@ -42870,5 +42870,109 @@
  "rewards-incentives\ttask expected to receive a grade\ttask with no grade": {
   "label": "Grade expected vs no grade expected",
   "treatment_is_a": true
+ },
+ "spacing\tdistributed practice\tconcentrated learning": {
+  "label": "spaced vs massed",
+  "treatment_is_a": true
+ },
+ "spacing\tmassed attack upon parts\tdistributed effort": {
+  "label": "spaced vs massed",
+  "treatment_is_a": false
+ },
+ "spacing\tmassed learning\tdistributed effort": {
+  "label": "spaced vs massed",
+  "treatment_is_a": false
+ },
+ "technology-tool\t12-month Tips by Text SMS program\tcontrol condition": {
+  "label": "Tips by Text SMS program vs control",
+  "treatment_is_a": true
+ },
+ "technology-tool\t12-month Tips by Text SMS program\trandomized comparison condition": {
+  "label": "Tips by Text SMS program vs randomized comparison",
+  "treatment_is_a": true
+ },
+ "technology-tool\t12-month Tips by Text messages\tcontrol condition without Tips by Text": {
+  "label": "Tips by Text messages vs control without Tips by Text",
+  "treatment_is_a": true
+ },
+ "technology-tool\t12-month weekly text messages to parents\tcontrol condition": {
+  "label": "Weekly text messages to parents vs control",
+  "treatment_is_a": true
+ },
+ "technology-tool\tA2i technology supporting individualized student instruction\tcomparison condition without A2i": {
+  "label": "A2i technology vs no A2i",
+  "treatment_is_a": true
+ },
+ "technology-tool\tA2i technology with immediate treatment\tdelayed A2i treatment (April)": {
+  "label": "Immediate A2i treatment vs delayed A2i treatment",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI interactive video\tpseudo-interactive video": {
+  "label": "AI interactive video vs pseudo-interactive video",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-based FACET joy coding of student video frames\thuman coding of student video frames": {
+  "label": "AI coding vs human coding",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-enabled text-messaging chatbot communication\tstandard institutional communications without chatbot access": {
+  "label": "AI chatbot communication vs standard communications",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-enhanced PBL\tPBL without AI": {
+  "label": "AI-enhanced PBL vs PBL without AI",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-enhanced PBL adoption\tAI-enhanced PBL adoption without the identified ethical risks": {
+  "label": "AI-enhanced PBL with identified ethical risks vs AI-enhanced PBL without those risks",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-enhanced VR/MR simulation\tother AI modalities and conventional methods": {
+  "label": "AI-enhanced VR/MR simulation vs other AI or conventional methods",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-enhanced and cloud-connected devices or software\tprivacy-oriented software and devices": {
+  "label": "AI-enhanced/cloud-connected tools vs privacy-oriented tools",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-enhanced assessment tools and learner support\tassessment and learner support without GenAI": {
+  "label": "AI-enhanced assessment and learner support vs assessment and support without GenAI",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-enhanced critical media literacy instruction\tconventional curriculum": {
+  "label": "AI-enhanced critical media literacy instruction vs conventional curriculum",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-enhanced flipped classroom\tflipped classroom": {
+  "label": "AI-enhanced flipped classroom vs flipped classroom",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-enhanced flipped classroom\ttraditional classroom": {
+  "label": "AI-enhanced flipped classroom vs traditional classroom",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-enhanced learning environment\tuncritical or non-mediated AI use": {
+  "label": "AI-enhanced learning environment vs uncritical or non-mediated AI use",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-enhanced nursing education\tnot stated": {
+  "label": "AI-enhanced nursing education vs no stated comparison",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-enhanced online learning using tracking, predictive analytics, teamwork, and intuitive interfaces\tnot stated": {
+  "label": "AI-enhanced online learning vs no stated comparison",
+  "treatment_is_a": true
+ },
+ "test-format\tEnglish-Latin vocabulary test\tteachers’ final Latin grade": {
+  "label": "English-Latin vocabulary test vs teachers’ final Latin grade",
+  "treatment_is_a": true
+ },
+ "test-format\tLatin-English vocabulary test\tEnglish-Latin vocabulary test": {
+  "label": "Latin-English vocabulary test vs English-Latin vocabulary test",
+  "treatment_is_a": true
+ },
+ "test-format\tLatin-English vocabulary test\tteachers’ final Latin grade": {
+  "label": "Latin-English vocabulary test vs teachers’ final Latin grade",
+  "treatment_is_a": true
  }
 }
