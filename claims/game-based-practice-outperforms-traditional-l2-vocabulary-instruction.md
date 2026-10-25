@@ -9,6 +9,7 @@ generated:
   at: 2026-09-03
 evidence_strength: weak
 newest_evidence: 2023
+source_checked: 2026-10-25
 sources:
   - id: frolli-et-al-2023
     resource: "https://doi.org/10.3390/pediatric15030046"
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2` · `i3` large · n=48
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · checked against its sources 2026-10-25 (automated, 1 of 1 entry) · not reviewed by a person
 
 Rated weak deliberately: the result is clean and the population is unusual on every axis. The
 paper's note on articles is an implementation detail, not a finding: no article outcome was measured.
@@ -33,7 +34,7 @@ paper's note on articles is an implementation detail, not a finding: no article 
 
 ## Subclaims
 
-`q2 i3` Over four weeks, vocabulary size counted on the MacArthur–Bates Communicative Development Inventory (a word checklist, normally completed by caregivers; the paper does not say who completed it here) went from 40.29 to 171.91 words in a game-based group against 40.54 to 139.29 in a traditionally taught group, F(1,46) = 219.215, p < .05; the groups were not randomly assigned. [→ Frolli et al. 2023](#frolli-et-al-2023)
+`q2 i3` Over four weeks, vocabulary size counted on the MacArthur–Bates Communicative Development Inventory (a word checklist, normally completed by caregivers; the paper does not say who completed it here) went from 40.29 to 171.91 words in a game-based group against 40.54 to 139.29 in a traditionally taught group, F(1,46) = 219.215, p < .05; the paper says the sample "was divided into two groups" and does not report whether assignment was random. [→ Frolli et al. 2023](#frolli-et-al-2023)
 
 `q2 i?` The authors report Italian articles as an instructional accommodation: Russian was used only in cases of extreme necessity or for complex grammatical topics absent from Russian and Ukrainian grammar, and articles are their example of a topic that needed occasional explanation in Russian; no outcome was measured for articles, so this is an implementation note, not a finding. [→ Frolli et al. 2023](#frolli-et-al-2023)
 <!-- deprecated (2026-09-30; the paper measured no article outcome, see observations/frolli-2023.yaml): `q2 i?` Italian articles were disproportionately hard for this group, which the authors attribute to articles being absent from Russian and Ukrainian grammar — a category the first language does not contain rather than a rule the learner has not yet met. [→ Frolli et al. 2023](#frolli-et-al-2023) -->
