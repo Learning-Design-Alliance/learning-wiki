@@ -33,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q3` · `i2` medium
 > **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Jacobson 2020: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i2` Both groups improved on the butterfly effect near transfer item from pretest to posttest, with no main effect of Condition. [→ Jacobson 2020](#jacobson-2020)

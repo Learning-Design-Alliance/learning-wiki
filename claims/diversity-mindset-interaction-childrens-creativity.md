@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i1` small
 > **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Vezzali 2016: groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i1` The two-way Diversity × Mindset interaction on creativity was significant, F(1, 145) = 4.68, p = .032, η2p = .03. [→ Vezzali 2016](#vezzali-2016)

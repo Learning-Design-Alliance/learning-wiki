@@ -34,6 +34,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
 > **Currency** · newest study 2025 · checked against its sources 2026-10-17 (automated, 2 of 2 entries) · not reviewed by a person
+> **Design limits** · McElhaney 2025: no comparison group · McElhaney 2025 (2): no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Teachers addressed GC in 91% of observed lessons, with 64% engaging students at the highest (Interpretive) level. [→ McElhaney 2025](#mcelhaney-2025)

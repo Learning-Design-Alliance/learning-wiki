@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
 > **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · John F. Pane 2015: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` In the 21 schools implementing personalized learning since 2012 or earlier, treatment effects accumulated over time but were not purely additive. [→ John F. Pane 2015](#john-f-pane-2015)

@@ -33,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q3` · `i1` small
 > **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Ritter 2007: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` Cognitive Tutor students outperformed textbook-taught classmates on achievement, grades, and attitude measures in a within-teacher comparison. [→ Ritter 2007](#ritter-2007)

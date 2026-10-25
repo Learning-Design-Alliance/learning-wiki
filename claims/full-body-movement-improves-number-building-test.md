@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
 > **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Margina Ruiter & Sofie Loyens & Fred Paas 2015: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i2` Children who received math training with movements performed significantly better on the final math test than children who practiced without movements (η2=0.05). [→ Margina Ruiter & Sofie Loyens & Fred Paas 2015](#margina-ruiter-sofie-loyens-fred-paas-2015)

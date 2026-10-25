@@ -34,6 +34,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 > **Currency** · newest study 2010 · checked against its sources 2026-10-19 (automated, 2 of 2 entries) · not reviewed by a person
+> **Design limits** · Takako Nomi 2010 (2): the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` Above-norm students' failure rates increased post-policy by about 3 percentage points despite test score improvements; students just below the cutoff had failure rates lower by 4 percentage points. Classroom variables explained most of the above-norm rise (reduced to one point, not significant), while the below-norm decline grew larger once they were controlled. [→ Takako Nomi 2010](#takako-nomi-2010)

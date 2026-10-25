@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q3`
 > **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Fuchs 2024: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` All 16 tested indirect (mediation) effects via TKWP or TKPA were statistically significantly different from 0. [→ Fuchs 2024](#fuchs-2024)

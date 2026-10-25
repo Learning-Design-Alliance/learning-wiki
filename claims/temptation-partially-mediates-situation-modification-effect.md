@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
 > **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Duckworth Angela L. 2016: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` Self-reported temptation over the week was lower in the situation modification group and partially mediated the effect of condition on goal accomplishment (indirect effect = 0.22; 95% CI [0.05, 0.43]), supporting the process model's prediction about curtailed impulses. [→ Duckworth Angela L. 2016](#duckworth-angela-l-2016)

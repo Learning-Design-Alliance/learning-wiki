@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2` · `i1` small
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Siegelman 2022: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i1` Reliance on O-P was significantly stronger post-intervention (M = 0.39) than pre-intervention (M = 0.31), d = 0.39. [→ Siegelman 2022](#siegelman-2022)

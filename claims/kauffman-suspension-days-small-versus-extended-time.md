@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
 > **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Matthew Johnson 2016: the intervention came bundled with another change (the Kauffman School's extended school day and year) (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` The number of days suspended for Kauffman students is, on average, small relative to the additional instructional time afforded by the Kauffman School's extended school day and year. [→ Matthew Johnson 2016](#matthew-johnson-2016)

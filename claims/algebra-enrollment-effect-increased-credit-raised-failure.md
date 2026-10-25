@@ -33,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
 > **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Allensworth 2009: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` A 20-percentage-point increase in Algebra I enrollment produced a 10% increase in algebra credit but raised math failure rates by 3.0 to 8.9 percentage points among low- and average-ability students and lowered math grades. [→ Allensworth 2009](#allensworth-2009)

@@ -34,6 +34,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2` · `i0`–`i1`
 > **Currency** · newest study 2018 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
+> **Design limits** · Green Dot Public Schools 2018: groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i1` Students who started at Green Dot Public Schools in 2007–08 and 2008–09 had significantly higher attendance rates during the fourth year of high school than comparison students (effect size 0.27, p < .01, 662 students). [→ Green Dot Public Schools 2018](#green-dot-public-schools-2018)

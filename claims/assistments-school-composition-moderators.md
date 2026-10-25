@@ -34,6 +34,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r3` · `q3` · `i0`–`i1`
 > **Currency** · newest study 2023 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
+> **Design limits** · Feng 2023 (2): the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i1` Students in intervention schools with a higher percentage of economically disadvantaged students benefited more than those in schools with a lower percentage (p = 0.045, g = 0.22). [→ Feng 2023](#feng-2023)

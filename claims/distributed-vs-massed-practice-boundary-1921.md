@@ -9,6 +9,7 @@ generated:
   at: 2026-10-25
 evidence_strength: mixed
 newest_evidence: 1921
+source_checked: 2026-10-25
 sources:
   - id: gates-1921
     resource: "https://psycnet.apa.org/journal/edu"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r1`–`r2` · `q2`
-> **Currency** · newest study 1921 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1921 · checked against its sources 2026-10-25 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Edward S. Robinson's experiments found distributed practice in memorizing digits more fruitful, as a rule, than concentrated learning. [→ Gates 1921](#gates-1921)

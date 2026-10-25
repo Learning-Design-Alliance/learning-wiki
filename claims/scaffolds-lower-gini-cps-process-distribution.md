@@ -26,6 +26,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3` · `i3` large
 > **Currency** · newest study 2026 · checked against its sources 2026-10-18 (automated, 1 of 1 entry) · not reviewed by a person
+> **Design limits** · Parks 2026: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i3` Mean Gini coefficients were significantly lower in the scaffolded task (M = 0.191) than the non-scaffolded task (M = 0.337), indicating closer alignment to the ideal process distribution. [→ Parks 2026](#parks-2026)

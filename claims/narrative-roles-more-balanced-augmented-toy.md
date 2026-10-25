@@ -23,6 +23,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
 > **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Yuill N 2014: groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i2` Children in the AKC made significantly more narrator statements, F(1, 31) = 4.68, p < 0.05, η2 = 0.13, and significantly fewer metanarrator ones, F(1, 31) = 4.2, p < 0.05, η2 = 0.12, than those in the KC. [→ Yuill N 2014](#yuill-n-2014)

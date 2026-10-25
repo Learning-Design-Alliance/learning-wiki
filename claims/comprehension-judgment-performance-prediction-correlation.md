@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2` · `i3` large
 > **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Waldeyer 2021: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i3` In a small follow-up study, judgments of comprehension and predictions of posttest performance correlated at r = .75, p < .001. [→ Waldeyer 2021](#waldeyer-2021)

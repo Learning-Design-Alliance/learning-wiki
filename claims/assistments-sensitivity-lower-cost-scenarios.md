@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
 > **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Feng 2024: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Sensitivity tests estimate per-participant costs of $17.85 (2 years, no local coach), $25.86 (no warm-up), and $8.85 (no warm-up, no local coach), versus $46.23 in the primary scenario. [→ Feng 2024](#feng-2024)

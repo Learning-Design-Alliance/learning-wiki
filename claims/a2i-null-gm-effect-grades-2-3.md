@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Connor 2022: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` There was no significant treatment effect on GM total score for second and third graders; the treatment by EL classroom interaction was marginally significant (p = .07), suggesting larger impacts for EL students. [→ Connor 2022](#connor-2022)

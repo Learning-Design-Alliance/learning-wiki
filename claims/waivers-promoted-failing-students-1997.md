@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 1999 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Melissa Roderick 1999: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` In 1997, roughly one-third of third graders and 40% of sixth and eighth graders who did not meet the promotional test score were nevertheless promoted, largely through waivers granted by Regional Education Officers. [→ Melissa Roderick 1999](#melissa-roderick-1999)

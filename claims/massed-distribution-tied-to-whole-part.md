@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 1921 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Pechstein 1921: the intervention came bundled with another change (the whole-versus-part method) (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` The hard problem becomes easy only if learned under massed conditions by the part method, and remains hard when learned as a whole under either condition or in parts under distributed conditions. [→ Pechstein 1921](#pechstein-1921)

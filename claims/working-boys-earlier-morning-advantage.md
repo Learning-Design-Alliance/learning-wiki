@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 1911 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · W. H. Winch 1911: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` The group working at 9.40 A.M. improved about 14 per cent on its preliminary record while the group working at 11.30 A.M. improved 9 per cent, a 5 per cent difference favouring the earlier group. [→ W. H. Winch 1911](#w-h-winch-1911)

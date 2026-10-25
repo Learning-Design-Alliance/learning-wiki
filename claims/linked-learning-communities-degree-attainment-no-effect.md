@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q3`
 > **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · What Works Clearinghouse 2014: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` Six years after random assignment at Kingsborough, a higher percentage of intervention students had earned a degree (36% versus 31%), but the difference was only marginally significant (p < .10) and not substantively important. [→ What Works Clearinghouse 2014](#what-works-clearinghouse-2014)

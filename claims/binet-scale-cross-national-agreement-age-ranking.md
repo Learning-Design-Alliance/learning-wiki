@@ -47,3 +47,4 @@ The reviewer compares age rankings of each 1911 test compiled from Binet, Levist
 ## Related Claims
 - [Comparative data across six investigators lead the reviewer to recommend shifting fourteen individual Binet tests to different age levels, many back to their 1908 positions](binet-tests-recommended-age-shifts-1911.md) — related
 - [Binet's norms were worked out for Paris working-class children and may need revision for other social classes and regions](binet-norms-paris-working-class-need-revision.md) — related
+- [The Binet-Simon measuring scale is the best systematic experimental device then available for measuring intellectual development, but its norms and level placement require revision.](wallin-1911-binet-scale-status-revision.md) — related

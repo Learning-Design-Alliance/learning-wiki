@@ -26,6 +26,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2` · `i3` large
 > **Currency** · newest study 2022 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
+> **Design limits** · Silva 2022: groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i3` Over four months, the cooperative learning group showed a significant pretest-to-posttest gain in total CTTBE critical thinking score (+7.60 points) while the control group's small gain (+0.62) was not significant; the difference in gains was large (d = 1.36), though no significance test of the between-group difference is reported. [→ Silva 2022](#silva-2022)

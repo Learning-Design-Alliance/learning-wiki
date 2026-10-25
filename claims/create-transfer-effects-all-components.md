@@ -33,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i3` large
 > **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Nurit Paz-Baruch 2025: groups were assigned but students were analysed as independent · Nurit Paz-Baruch 2025 (2): groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i3` On the near-transfer Parliament Building Task, the experimental group scored significantly higher than the control group on fluency, flexibility, and total originality after adjusting for pre-intervention scores. [→ Nurit Paz-Baruch 2025](#nurit-paz-baruch-2025)

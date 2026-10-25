@@ -33,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2` · `i0`–`i1`
 > **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Louise Maddens 2023: groups were assigned but students were analysed as independent · Louise Maddens 2023 (2): groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i1` Autonomous motivation fell significantly from pretest (M = 2.81, SD = 0.81) to posttest (M = 2.64, SD = 0.82), d = 0.254. [→ Louise Maddens 2023](#louise-maddens-2023)

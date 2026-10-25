@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2` · `i2` medium
 > **Currency** · newest study 2006 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · What Works Clearinghouse 2006: groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i2` The WWC-computed domain average effect size for behavior was 0.40, statistically significant, corresponding to an average improvement index of +16 percentile points (range +10 to +23). [→ What Works Clearinghouse 2006](#what-works-clearinghouse-2006)

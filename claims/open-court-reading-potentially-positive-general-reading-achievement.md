@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
 > **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Open Court Reading© 2014: groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` One quasi-experimental study (Skindrud & Gersten, 2006; 434 students in grades 2–3) showed a substantively important positive effect of Open Court Reading© on general reading achievement, but the WWC-corrected result was not statistically significant. [→ Open Court Reading© 2014](#open-court-reading-2014)

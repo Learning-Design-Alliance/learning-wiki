@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
 > **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Kulesz 2024: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` For Profile 1 students, control-condition students (M = 98.03) outperformed treatment-condition students (M = 94.82; p = 0.041) on the Gates post-test. [→ Kulesz 2024](#kulesz-2024)

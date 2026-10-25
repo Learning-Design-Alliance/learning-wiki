@@ -33,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
 > **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Lehikoinen 2025 (2): the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Teaching condition predicted teacher-rated grade at the end of sixth grade (β = 0.25, p = .008), over and above prior grade and test performance. [→ Lehikoinen 2025](#lehikoinen-2025)

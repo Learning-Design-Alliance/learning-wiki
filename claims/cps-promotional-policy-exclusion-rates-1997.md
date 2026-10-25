@@ -27,6 +27,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 1999 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2002**: local conditions change quickly
+> **Design limits** · Melissa Roderick 1999: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` In the first year of the policy, 31% of third graders and 20% of sixth and eighth graders were not subject to the promotional test-score cutoff, with bilingual status the primary exclusion reason for third graders and special education for older grades. [→ Melissa Roderick 1999](#melissa-roderick-1999)

@@ -26,6 +26,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
 > **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: local conditions change quickly
+> **Design limits** · Gore 2021: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` No significant differences in student achievement growth were recorded between 2019 and 2020 cohorts in mathematics or reading for Year 3 and Year 4 students. [→ Gore 2021](#gore-2021)

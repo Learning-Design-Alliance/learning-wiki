@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
 > **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Carolyn Baer 2021: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` Children at all age groups selected the easier of two paired trials more than 50% of the time across area, number, and emotion dimensions. [→ Carolyn Baer 2021](#carolyn-baer-2021)

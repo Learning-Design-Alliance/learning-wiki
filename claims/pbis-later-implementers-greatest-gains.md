@@ -46,6 +46,6 @@ Baseline and change analyses from the 37-school trial found fast adopters had "h
 ## Related Claims
 
 - [The guide argues that overfocusing on intervention selection alone risks a 'magic bullet' view because average positive outcomes do not guarantee local success](magic-bullet-risk-selection-without-needs-assessment.md) — the general claim this finding bears on, with the studies behind it
-- [Changes in school organizational health may be a contextual mediator of PBIS effects on student performance](organizational-health-mediates-pbis-student-outcomes.md) — related
+- Changes in school organizational health may be a contextual mediator of PBIS effects on student performance — related
 - [PBIS improves staff-reported overall school organizational health, resource influence, staff affiliation, and academic emphasis over a 5-year randomized trial](pbis-improves-organizational-health-dimensions.md) — related
 - [PBIS effects on collegial leadership and institutional integrity were significant only when implementation fidelity was included in the model](pbis-collegial-leadership-fidelity-model.md) — related

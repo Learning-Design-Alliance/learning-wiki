@@ -76,7 +76,7 @@ Two meta-analyses of elementary and secondary school students related achievemen
 | Abdul Gafoor. K. 2016 | q2 · review · r1 | i? | [Short-term self-regulatory strategy training, including within regular mathematics lessons](short-srl-strategy-training-enhances-math-performance.md) (supports) |
 | [Thao M. T. Nguyen and Lap Q. Trinh 2011](https://doi.org/10.26634/jelt.1.1.1348) | q2 · associational · r2 | i3 | [Metacognitive strategy use correlates positively with EFL reading comprehension achievemen](metacognitive-strategy-use-reading-achievement-correlation.md) (supports) |
 | [Tanya Chichekian 2026](https://doi.org/10.18608/jla.2026.9077) | q2 · associational · r1 | i3; i2 | [Metacognitive strategies correlate strongly with problem-solving skills, and behavioural m](metacognition-problem-solving-correlation.md) (supports) |
-| [Maksum 2022](https://doi.org/10.36681/tused.2022.161) | q2 · causal · r1 | i? | [The TEFA-T model significantly improves students' metacognitive skills compared with conve](tefa-t-improves-metacognitive-skills.md) (qualifies) |
+| [Maksum 2022](https://doi.org/10.36681/tused.2022.161) | q2 · causal · r1 | i? | [Students taught with the TEFA-T model rated their own metacognitive skills higher than a c](tefa-t-improves-metacognitive-skills.md) (qualifies) |
 <!-- synthesis:end -->
 
 ## Discussion

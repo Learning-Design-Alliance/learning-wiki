@@ -26,6 +26,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
 > **Currency** · newest study 1991 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
+> **Design limits** · Catherine Doughty 1991: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` Both rule-oriented analysis of structure and highlighting of TL structures in context promoted acquisition of IL grammar. [→ Catherine Doughty 1991](#catherine-doughty-1991)

@@ -29,6 +29,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 causal `r3` · `q3` · `i1` small
 > **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · bowen-pass: the intervention came bundled with another change (weekly one-hour face-to-face instruction in a hybrid classroom format) (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i1` OLI improved course completion rates with a statistically significant effect (effect size 0.23, improvement index +9). [→ bowen-completion](#bowen-completion)

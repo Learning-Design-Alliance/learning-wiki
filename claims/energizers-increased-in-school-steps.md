@@ -26,6 +26,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i1` small
 > **Currency** · newest study 2006 · checked against its sources 2026-10-18 (automated, 1 of 1 entry) · not reviewed by a person
+> **Design limits** · Mahar 2006: groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i1` Intervention-group students took significantly more in-school steps than control-group students, with a moderate difference (ES = 0.49). [→ Mahar 2006](#mahar-2006)

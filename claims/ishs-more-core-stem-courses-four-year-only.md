@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
 > **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Means 2018: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Four-year college entrants from ISHSs completed more Core STEM courses between fall 2014 and spring 2016 (fixed effect 2.59, p = .004), with no significant effect on total courses or Core STEM GPA. [→ Means 2018](#means-2018)

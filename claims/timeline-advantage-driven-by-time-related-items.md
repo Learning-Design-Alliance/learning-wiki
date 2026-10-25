@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
 > **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Maaike E. Prangsma 2008: groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` On the 11 time-related questions, only the Text–Timeline contrast was significant at post-test (mean difference 1.45, p = .01); non-time-related questions showed no significant differences between conditions. [→ Maaike E. Prangsma 2008](#maaike-e-prangsma-2008)

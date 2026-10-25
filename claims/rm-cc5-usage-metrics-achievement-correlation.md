@@ -26,6 +26,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
 > **Currency** · newest study 2019 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
+> **Design limits** · Nicole Shechtman 2019: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Usage metrics added 7.3% of explained variance in Grade 5 WVGSA beyond the 66% accounted for by Grade 4 WVGSA (small positive linear relationship); the study was not designed to infer causal mechanisms. [→ Nicole Shechtman 2019](#nicole-shechtman-2019)

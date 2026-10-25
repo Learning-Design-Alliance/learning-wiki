@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2` · `i2` medium
 > **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Kelly Quinn 2018: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i2` In mixed ANOVA, the intervention group's inhibitory improvement exceeded the control group's, moderately at 4 weeks and with a large effect at 4 months, though the group × time interaction was not significant. [→ Kelly Quinn 2018](#kelly-quinn-2018)

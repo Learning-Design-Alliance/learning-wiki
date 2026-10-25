@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Nicolas Hübner 2026: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` Students in trial schools showed higher mathematics interest than control-school students by the end of Grade 3, the only statistically significant difference among the outcomes examined. [→ Nicolas Hübner 2026](#nicolas-hubner-2026)

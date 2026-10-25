@@ -34,6 +34,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q3`
 > **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2019**: baselines and conditions change
+> **Design limits** · Vo 2014 (2): no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` Children aged 5-8 placed high-risk bets more often on correct trials than incorrect trials in both number and emotion discrimination tasks. [→ Vo 2014](#vo-2014)

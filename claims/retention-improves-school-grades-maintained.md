@@ -33,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i3` large
 > **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Marsh 2017 (2): the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i3` Lag 1 retention effects were significantly positive for math, German, and other-subject grades (ESs = .452 to 1.010), largest for math. [→ Marsh 2017](#marsh-2017)

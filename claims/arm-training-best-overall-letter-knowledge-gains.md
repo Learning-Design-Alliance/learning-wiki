@@ -34,6 +34,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r3` · `q4` · `i1`–`i2`
 > **Currency** · newest study 2024 · checked against its sources 2026-10-22 (automated, 2 of 2 entries) · not reviewed by a person
+> **Design limits** · Fernando Núñez-Regueiro 2024 (2): the intervention came bundled with another change; groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q4 i2` Arm training had a significant positive effect on the composite measure of letter knowledge and script (d = 0.404). [→ Fernando Núñez-Regueiro 2024](#fernando-nunez-regueiro-2024)

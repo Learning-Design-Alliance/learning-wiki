@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Luiz Rodrigues 2026: no comparison group; the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Thematic analysis of semi-structured interviews found teachers valued ready-made exercise lists and reports for lesson preparation while reporting recognition errors, processing waits, and manual reevaluation as added demands. [→ Luiz Rodrigues 2026](#luiz-rodrigues-2026)

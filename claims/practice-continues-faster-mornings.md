@@ -26,6 +26,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 1912 · checked against its sources 2026-10-24 (automated, 1 of 1 entry) · not reviewed by a person
+> **Design limits** · Winch 1912: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` The morning group improved on its preliminary record by 6.2, 11.3 and 14.9 per cent over three weeks, while the afternoon group improved 2.2, 4.4 and 9.6 per cent. [→ Winch 1912](#winch-1912)

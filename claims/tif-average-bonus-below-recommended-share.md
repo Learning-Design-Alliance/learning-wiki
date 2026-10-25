@@ -26,6 +26,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
 > **Currency** · newest study 2015 · checked against its sources 2026-10-08 (automated, 1 of 1 entry) · not reviewed by a person
+> **Design limits** · Chiang 2015: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` The average bonus awarded to teachers was about 4% of average salary, less than the 5% recommended by TIF grant guidance for substantial bonuses. [→ Chiang 2015](#chiang-2015)

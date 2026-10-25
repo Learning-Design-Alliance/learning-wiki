@@ -33,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r3` · `q3`
 > **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · What Works Clearinghouse 2014: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` In the Kingsborough RCT, the intervention group accumulated more credits on average (27.7 versus 26.2) within two semesters postprogram, but the difference was not statistically significant. [→ What Works Clearinghouse 2014](#what-works-clearinghouse-2014)

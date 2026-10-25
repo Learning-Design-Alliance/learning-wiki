@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i0` negligible
 > **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Gore 2021: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i0` Year 3 students in regional mid-ICSEA schools demonstrated three months' additional growth in reading in 2020 (d = 0.20, p = 0.0333), with no significant differences in mathematics. [→ Gore 2021](#gore-2021)

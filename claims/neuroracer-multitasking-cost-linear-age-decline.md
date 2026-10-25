@@ -26,6 +26,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
 > **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2018**: baselines and conditions change
+> **Design limits** · J. A. Anguera 2013: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i3` Multitasking cost (d' percentage change from sign only to sign and drive) increased linearly with age decade across 174 participants aged 20–79. [→ J. A. Anguera 2013](#j-a-anguera-2013)

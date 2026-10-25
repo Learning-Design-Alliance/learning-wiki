@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
 > **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Tanner 2025: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` A regression discontinuity analysis found a 0.15 standard deviation jump in ELA scores at the One-Star threshold that was statistically significant, while the 0.09 SD math jump was not significant; the report prints no standardized effect-size category for either. [→ Tanner 2025](#tanner-2025)

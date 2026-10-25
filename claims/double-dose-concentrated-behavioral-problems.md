@@ -26,6 +26,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
 > **Currency** · newest study 2010 · checked against its sources 2026-10-18 (automated, 1 of 1 entry) · not reviewed by a person
+> **Design limits** · Takako Nomi 2010: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` Peers in double-dose algebra were more likely to be absent by one day and have disciplinary problems by 0.07 SD than classmates in pre-policy algebra classes. [→ Takako Nomi 2010](#takako-nomi-2010)

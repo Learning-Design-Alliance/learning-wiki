@@ -33,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
 > **Currency** · newest study 2006 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Verstegen 2006: no comparison group · Verstegen 2006 (2): the comparison group also received the intervention (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Subjects liked the peer review intervention, rating it 4.0 on a five-point scale (SD 0.6). [→ Verstegen 2006](#verstegen-2006)

@@ -26,6 +26,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
 > **Currency** · newest study 2024 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
+> **Design limits** · Jonathan Fernandez 2024: groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Mediation analyses indicated progress in producing high-quality texts was explained by improvements in students' planning skills, which enabled better-structured stories containing more ideas. [→ Jonathan Fernandez 2024](#jonathan-fernandez-2024)

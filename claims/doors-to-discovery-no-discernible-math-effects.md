@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2` · `i0` negligible
 > **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Doors to Discovery™ WWC Intervention Report 2013: groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i0` In one study meeting standards with reservations, math outcome differences between the Doors to Discovery™ group and the comparison group were neither statistically significant nor substantively important (domain-average effect size 0.01). [→ Doors to Discovery™ WWC Intervention Report 2013](#doors-to-discoverytm-wwc-intervention-report-2013)

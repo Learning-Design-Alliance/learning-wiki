@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
 > **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Duckworth Angela L. 2016: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` 90% of students' open-ended descriptions of everyday self-control incidents and 87% of responses to hypothetical academic scenarios were classified into the process model's five strategy types, with all five types represented. [→ Duckworth Angela L. 2016](#duckworth-angela-l-2016)

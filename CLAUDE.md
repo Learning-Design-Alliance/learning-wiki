@@ -278,7 +278,8 @@ reasons and the numbers (moved there 2026-10-09, when this file had reached 272 
   expression of concern, and for DOIs no registry knows. `judge_study_validity.py` asks of each causal
   entry whether the study measured what the claim says (performance, not self-report), what it compared
   against, whether the intervention was isolated, and whether students were counted where classes were
-  assigned. Both run in every batch on the batch's sources; an undecided high-severity finding stops it.
+  assigned. From an abstract alone only the outcome check counts: an abstract's silence about
+  random assignment or a comparison group is not evidence there was none. Both run in every batch on the batch's sources; an undecided high-severity finding stops it.
   A confirmed finding removes the source's claims, or retitles a claim to what was measured; a decision
   is recorded (`--review`, `--dismiss`) with its reason. `retracted.ndjson` is the ratchet: lint fails on
   a page citing a recorded retraction unless the page says it is retracted. `checks.md` publishes what

@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
 > **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Annette Kujawski Taylor 2011: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` Quiz accuracy did not differ significantly between the basic and comprehensive texts, and complexity did not interact with medium. [→ Annette Kujawski Taylor 2011](#annette-kujawski-taylor-2011)

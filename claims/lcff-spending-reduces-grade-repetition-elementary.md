@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
 > **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Johnson 2023: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` A $1,000 per-pupil spending increase experienced for 3 consecutive years reduced the probability of grade repetition by 5 percentage points by 3rd grade, 5.1 points by 4th grade, and 5.3 points by 5th grade. [→ Johnson 2023](#johnson-2023)

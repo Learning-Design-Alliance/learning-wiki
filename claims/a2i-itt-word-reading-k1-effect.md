@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2` · `i1` small
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Connor 2022: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i1` Kindergarten and first-grade students whose teachers used the revised A2i technology scored significantly higher on the WJ-III Letter-Word Identification subtest in spring (d = 0.37). [→ Connor 2022](#connor-2022)

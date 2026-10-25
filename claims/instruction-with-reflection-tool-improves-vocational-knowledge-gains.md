@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Elise H. Eshuis 2019: groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` Learning gains differed significantly between conditions, with the instruction-with-tool condition significantly higher than control (p = .038); no effect size for the between-condition contrast is printed. [→ Elise H. Eshuis 2019](#elise-h-eshuis-2019)

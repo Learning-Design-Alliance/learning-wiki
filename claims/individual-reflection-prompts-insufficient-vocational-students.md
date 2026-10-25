@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Elise H. Eshuis 2022: groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` The example + prompts condition did not show significantly higher learning gains than the control condition. [→ Elise H. Eshuis 2022](#elise-h-eshuis-2022)

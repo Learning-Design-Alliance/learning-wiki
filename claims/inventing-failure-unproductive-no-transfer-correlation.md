@@ -41,6 +41,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · causal `r2` · `q2` · `i3` large
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Inga Glogger-Frey 2022 (2): no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` None of the inventing variables (appropriateness, number of canonical, suboptimal, or total solutions) correlated substantially with transfer (rs between -0.16 and 0.03, all ps > 0.49). [→ Inga Glogger-Frey 2022](#inga-glogger-frey-2022)

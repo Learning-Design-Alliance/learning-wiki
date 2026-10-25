@@ -33,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q1`
 > **Currency** · newest study 1922 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Thorndike 1922 (2): no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q1 i?` Impulsiveness and uncriticalness were witnessed by the large number of wrong answers in comparison with omissions or confessions of inability. [→ Thorndike 1922](#thorndike-1922)

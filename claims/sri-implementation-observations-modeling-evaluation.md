@@ -33,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 > **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Droop 2016 (2): the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` In Grade 3, experimental classrooms showed significantly higher ratings for explaining lesson goals, modeling of strategies, feedback on strategy use, and end-of-lesson evaluation (e.g., modeling: t = −5.18, p < .001). [→ Droop 2016](#droop-2016)

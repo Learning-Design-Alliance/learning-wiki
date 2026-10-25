@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Tetiana Zubenko 2019: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Among LWPA students, listening time showed a small positive but non-significant correlation with exam performance (r = .346, p > .05). [→ Tetiana Zubenko 2019](#tetiana-zubenko-2019)

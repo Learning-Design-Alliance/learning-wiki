@@ -26,6 +26,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
 > **Currency** · newest study 2020 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
+> **Design limits** · Li 2020: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Teachers encountered issues getting eBooks to read to students and found them not user friendly due to images covering the text. [→ Li 2020](#li-2020)

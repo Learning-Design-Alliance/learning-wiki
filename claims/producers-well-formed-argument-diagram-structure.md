@@ -26,6 +26,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
 > **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2021**: baselines and conditions change
+> **Design limits** · Marije van Amelsvoort 2016: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Most participants produced diagrams with basic well-formed geometry (circles/ovals and squares/rectangles comprising 80% of diagrams), exceeding chance. [→ Marije van Amelsvoort 2016](#marije-van-amelsvoort-2016)

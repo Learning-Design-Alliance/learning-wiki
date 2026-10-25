@@ -23,6 +23,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Rivas SF 2022: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Critical thinking performance medians rose after intervention in the PENCRISAL total and in all five factors (deductive reasoning, inductive reasoning, practical reasoning, decision-making, problem-solving). [→ Rivas SF 2022](#rivas-sf-2022)

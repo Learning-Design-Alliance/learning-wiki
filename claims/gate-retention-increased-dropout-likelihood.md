@@ -33,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
 > **Currency** · newest study 2004 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Allensworth 2004 (2): the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Statistical models estimated a significant postpolicy retention effect of 9.9 percentage points on dropping out by age 17, and gate retention raised dropout likelihood about 8 points for a typical retained student. [→ Allensworth 2004](#allensworth-2004)

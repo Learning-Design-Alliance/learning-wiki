@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
 > **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Ana Pérez 2018: groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i2` In the near transfer question, the trained group outperformed the control group at post-test 1 and post-test 2, with no group difference at pre-test. [→ Ana Pérez 2018](#ana-perez-2018)

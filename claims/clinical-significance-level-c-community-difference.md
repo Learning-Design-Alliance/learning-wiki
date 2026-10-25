@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
 > **Currency** · newest study 2002 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Metropolitan Area Child Study Research Group 2002: groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` Cross-tabulating change in clinical status (TRF Externalizing T ≥ 67) against condition showed a significant Level C versus control difference in Aurora and a marginal effect in Chicago. [→ Metropolitan Area Child Study Research Group 2002](#metropolitan-area-child-study-research-group-2002)

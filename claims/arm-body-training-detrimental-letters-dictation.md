@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q4` · `i1` small
 > **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Fernando Núñez-Regueiro 2024: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q4 i1` Arm-body training significantly reduced the likelihood of scoring high on letters written under dictation (d = -.382 in the combined model). [→ Fernando Núñez-Regueiro 2024](#fernando-nunez-regueiro-2024)

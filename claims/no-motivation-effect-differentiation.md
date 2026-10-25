@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Carla Haelermans 2022: groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` For none of the motivation scales measured by the MSLQ is there a significant effect of the differentiated instruction intervention. [→ Carla Haelermans 2022](#carla-haelermans-2022)

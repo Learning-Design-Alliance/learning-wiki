@@ -26,6 +26,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2` · `i3` large
 > **Currency** · newest study 2024 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
+> **Design limits** · Xiaojuan Ke · Kristie J. Newton 2024: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i3` Correlation matrix showed positive correlations between proficiency and math performance, stronger for the explanation part (e.g., r = .628 with Unit 2 post explanation) than calculation (e.g., r = .462). [→ Xiaojuan Ke · Kristie J. Newton 2024](#xiaojuan-ke-kristie-j-newton-2024)

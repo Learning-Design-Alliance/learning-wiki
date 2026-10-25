@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Fynn Töllner 2026: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` A significant negative interaction between pretest score and conceptual feedback group indicates that prior knowledge mattered far less for achievement when students received conceptual feedback. [→ Fynn Töllner 2026](#fynn-tollner-2026)

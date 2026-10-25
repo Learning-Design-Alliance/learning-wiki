@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q1`
 > **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Hengtao Tang 2025: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q1 i?` An unexpected qualitative finding was that all interviewed students reported gains in acting confidence. [→ Hengtao Tang 2025](#hengtao-tang-2025)

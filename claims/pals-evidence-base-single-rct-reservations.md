@@ -33,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 > **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Peer-Assisted Learning Strategies 2012 (2): groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` Of 97 studies reviewed, only Fuchs et al. (1997) met WWC evidence standards (with reservations); the remaining 96 did not meet standards or eligibility screens. [→ Peer-Assisted Learning Strategies 2012](#peer-assisted-learning-strategies-2012)

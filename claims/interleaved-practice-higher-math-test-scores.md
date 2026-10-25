@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
 > **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Rohrer 2015: groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` Across both test delays, interleaved practice outperformed blocked practice on an unannounced test, with a statistically significant omnibus effect (η² = .165). [→ Rohrer 2015](#rohrer-2015)

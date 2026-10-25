@@ -60,3 +60,4 @@ Narrative review argument synthesizing research on autonomous motivation, flow, 
 - [Students perceive manageable challenge matched to their skills, with a sense of accomplishment, as an intrinsically rewarding element of fun in formal learning](challenge-accomplishment-fun-primary.md) — related
 - [Challenging study demands combined with resources boost emotional engagement, though interaction effects on cognitive and behavioral engagement were mainly nonsignificant](boost-hypothesis-study-demands-resources.md) — related
 - [Negative emotions are not uniformly detrimental; differentiation by valence, arousal, and object focus is needed](negative-emotions-not-uniformly-detrimental.md) — related
+- [Educational psychology cannot be formulated or taught without a substantial background in general psychology (Baldwin's position)](educational-psychology-needs-general-psychology-background.md) — related

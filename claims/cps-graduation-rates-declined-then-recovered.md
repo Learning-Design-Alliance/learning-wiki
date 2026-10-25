@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
 > **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Montgomery 2010: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` Graduation rates declined four percentage points in the first year of the policy and another percentage point the next year, after adjusting for student backgrounds and prior achievement, before recovering. [→ Montgomery 2010](#montgomery-2010)

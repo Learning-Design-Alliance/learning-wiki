@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
 > **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Slezak 2011: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Despite more complete onscreen feedback at checkpoints, the computer-based implementation produced no significant differences in understanding of kinetic energy or momentum compared with students working individually through paper tutorials with brief written answers (p = 0.64 and p = 0.40). [→ Slezak 2011](#slezak-2011)

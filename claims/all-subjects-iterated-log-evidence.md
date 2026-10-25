@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2006 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Verstegen 2006: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` All eight novice designers iterated during the design task; iteration counts derived from tool logs ranged from 10 to 30 (average 18.6, SD 7.9). [→ Verstegen 2006](#verstegen-2006)

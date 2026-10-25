@@ -1,7 +1,7 @@
 {
 "counts":{
-"claim":27773,
-"design":1048,
+"claim":27792,
+"design":1050,
 "element":1057,
 "learner-variable":75,
 "method":37,
@@ -28921,6 +28921,16 @@
 "type":"claim"
 },
 {
+"description":"One-year Binet retest gains average one year of mental rank, with defectives gaining about half a year (Berry)",
+"evidence_strength":"weak",
+"id":"binet-retest-one-year-gain-berry",
+"newest_evidence":"1911",
+"path":"claims/binet-retest-one-year-gain-berry.md",
+"status":"review",
+"title":"One-year Binet retest gains average one year of mental rank, with defectives gaining about half a year (Berry)",
+"type":"claim"
+},
+{
 "description":"The Binet scale is heavily verbal — 43 of its 54 tests use words rather than acts — a criticism Ayres raises and the reviewer partially rebuts",
 "evidence_strength":"weak",
 "id":"binet-scale-43-of-54-tests-verbal",
@@ -32377,6 +32387,26 @@
 "path":"claims/bundling-interventions-stronger-effects.md",
 "status":"review",
 "title":"Bundling multiple interventions is associated with relatively strong effects on developmental students' outcomes",
+"type":"claim"
+},
+{
+"description":"The authors conclude that, when adjusting for unreliability via latent modeling, earlier buoyancy predicts later adaptability gains and earlier adaptability predicts later buoyancy gains",
+"evidence_strength":"moderate",
+"id":"buoyancy-adaptability-latent-adjusted-conclusion",
+"newest_evidence":"2026",
+"path":"claims/buoyancy-adaptability-latent-adjusted-conclusion.md",
+"status":"review",
+"title":"The authors conclude that, when adjusting for unreliability via latent modeling, earlier buoyancy predicts later adaptability gains and earlier adaptability predicts later buoyancy gains",
+"type":"claim"
+},
+{
+"description":"Academic buoyancy and adaptability show reciprocal cross-lagged effects over time, each a medium effect (β = .07, p < .01) in latent modeling",
+"evidence_strength":"moderate",
+"id":"buoyancy-adaptability-reciprocal-cross-lagged-effects",
+"newest_evidence":"2026",
+"path":"claims/buoyancy-adaptability-reciprocal-cross-lagged-effects.md",
+"status":"review",
+"title":"Academic buoyancy and adaptability show reciprocal cross-lagged effects over time, each a medium effect (β = .07, p < .01) in latent modeling",
 "type":"claim"
 },
 {
@@ -59208,13 +59238,13 @@
 "type":"claim"
 },
 {
-"description":"Critical thinking disposition showed significant positive main effects on motivation and learning outcomes across all dialogue formats, with no format interaction",
+"description":"Among 222 first-year high school students, critical thinking disposition was associated with higher self-reported ARCS motivation and a two-item self-rating of understanding after each of three text-to-speech lesson formats; learning was not tested and the association is not a cause",
 "evidence_strength":"moderate",
 "id":"critical-thinking-disposition-main-effects",
 "newest_evidence":"2026",
 "path":"claims/critical-thinking-disposition-main-effects.md",
 "status":"review",
-"title":"Critical thinking disposition showed significant positive main effects on motivation and learning outcomes across all dialogue formats, with no format interaction",
+"title":"High school students with a stronger critical thinking disposition reported higher motivation and self-rated understanding across all TTS dialogue formats, with no format interaction",
 "type":"claim"
 },
 {
@@ -59540,6 +59570,16 @@
 "source_checked":"2026-10-08",
 "status":"review",
 "title":"Predictive models built in a modelable ecosystem generalize across institutions",
+"type":"claim"
+},
+{
+"description":"Measurement invariance across studies was met, and cross-lagged betas were invariant across studies (ΔCFI < .001, ΔRMSEA = .001)",
+"evidence_strength":"moderate",
+"id":"cross-lagged-beta-invariance-across-studies",
+"newest_evidence":"2026",
+"path":"claims/cross-lagged-beta-invariance-across-studies.md",
+"status":"review",
+"title":"Measurement invariance across studies was met, and cross-lagged betas were invariant across studies (ΔCFI < .001, ΔRMSEA = .001)",
 "type":"claim"
 },
 {
@@ -64458,13 +64498,13 @@
 "type":"claim"
 },
 {
-"description":"Both intervention versions raise declarative metacognitive knowledge about retrieval practice equally, and this knowledge declines over three weeks regardless of version",
+"description":"Undergraduates randomly assigned to a traditional or an overcoming-barriers retrieval-practice intervention did not differ in rated endorsement of retrieval practice over rereading, which fell between the immediate and three-week surveys; with no pre-intervention measure or untreated control, the study cannot show either version raised it",
 "evidence_strength":"moderate",
 "id":"declarative-knowledge-no-version-difference-declines",
 "newest_evidence":"2023",
 "path":"claims/declarative-knowledge-no-version-difference-declines.md",
 "status":"review",
-"title":"Both intervention versions raise declarative metacognitive knowledge about retrieval practice equally, and this knowledge declines over three weeks regardless of version",
+"title":"Two versions of a retrieval-practice intervention left students with equal declarative metacognitive knowledge about retrieval practice, which declined over three weeks regardless of version",
 "type":"claim"
 },
 {
@@ -68269,6 +68309,7 @@
 "id":"difference-score-ability-attainment-diagnosis",
 "newest_evidence":"1920",
 "path":"claims/difference-score-ability-attainment-diagnosis.md",
+"source_checked":"2026-10-25",
 "status":"review",
 "title":"A Difference score comparing educational and mental index values diagnoses whether a child's attainment is commensurate with measured ability, with Differences between minus 8 and plus 8 occurring in about half of cases",
 "type":"claim"
@@ -71169,6 +71210,7 @@
 "id":"distributed-vs-massed-practice-boundary-1921",
 "newest_evidence":"1921",
 "path":"claims/distributed-vs-massed-practice-boundary-1921.md",
+"source_checked":"2026-10-25",
 "status":"review",
 "title":"Distributed practice aids digit memorization, but massed practice is preferred for new and short mazes, indicating a boundary condition on the spacing effect",
 "type":"claim"
@@ -78179,6 +78221,16 @@
 "path":"claims/educational-processes-fully-mediate-home-environment-effects-on-social-emotional-competence.md",
 "status":"review",
 "title":"Educational processes fully mediate the effects of structural family characteristics and parental beliefs and interests on children's social–emotional competence",
+"type":"claim"
+},
+{
+"description":"Educational psychology cannot be formulated or taught without a substantial background in general psychology (Baldwin's position)",
+"evidence_strength":"weak",
+"id":"educational-psychology-needs-general-psychology-background",
+"newest_evidence":"1911",
+"path":"claims/educational-psychology-needs-general-psychology-background.md",
+"status":"review",
+"title":"Educational psychology cannot be formulated or taught without a substantial background in general psychology (Baldwin's position)",
 "type":"claim"
 },
 {
@@ -97541,13 +97593,13 @@
 "type":"claim"
 },
 {
-"description":"First Step to Success shows potentially positive effects on other academic performance (SSRS Academic Competence, effect size 0.32)",
+"description":"The WWC rates First Step to Success potentially positive on its other academic performance domain on one RCT, where the outcome was teachers' nine-item estimate of students' academic competence (SSRS), not a test of achievement (effect size 0.32)",
 "evidence_strength":"weak",
 "id":"first-step-success-positive-academic-competence",
 "newest_evidence":"2012",
 "path":"claims/first-step-success-positive-academic-competence.md",
 "status":"review",
-"title":"First Step to Success shows potentially positive effects on other academic performance (SSRS Academic Competence, effect size 0.32)",
+"title":"First Step to Success shows potentially positive effects on teacher-rated academic competence (SSRS Academic Competence, effect size 0.32)",
 "type":"claim"
 },
 {
@@ -103760,14 +103812,13 @@
 "type":"claim"
 },
 {
-"description":"Ukrainian children aged 6–7 taught Italian vocabulary by games reached 171.91 words against 139.29 for traditional instruction over four weeks — a strong result in a population that transfers to almost nothing.",
+"description":"Ukrainian children aged 6–7 taught Italian by games reached 171.91 words against 139.29 for traditional instruction over four weeks, as counted on the MacArthur–Bates CDI checklist in non-randomised groups — a population that transfers to almost nothing.",
 "evidence_strength":"weak",
 "id":"game-based-practice-outperforms-traditional-l2-vocabulary-instruction",
 "newest_evidence":"2023",
 "path":"claims/game-based-practice-outperforms-traditional-l2-vocabulary-instruction.md",
-"source_checked":"2026-10-20",
 "status":"review",
-"title":"Game-based vocabulary practice produced larger gains than traditional instruction for newly arrived migrant children.",
+"title":"Newly arrived migrant children taught Italian through games showed larger vocabulary gains than traditionally taught peers on a vocabulary checklist inventory, not a direct test.",
 "type":"claim"
 },
 {
@@ -103793,14 +103844,13 @@
 "type":"claim"
 },
 {
-"description":"An eight-week commercial video game intervention produced significant gains on all three measured graduate skills relative to control, totalling about 14 hours of play",
+"description":"In a randomised trial, undergraduates who played commercial video games for about 14 hours over eight weeks rated themselves higher than controls on self-report scales of communication, adaptability and resourcefulness; the skills themselves were not directly assessed",
 "evidence_strength":"moderate",
 "id":"game-intervention-gains-all-three-graduate-skills",
 "newest_evidence":"2017",
 "path":"claims/game-intervention-gains-all-three-graduate-skills.md",
-"source_checked":"2026-10-20",
 "status":"review",
-"title":"An eight-week commercial video game intervention produced significant gains on all three measured graduate skills relative to control, totalling about 14 hours of play",
+"title":"An eight-week commercial video game intervention (about 14 hours of play) raised students' self-reported communication, adaptability and resourcefulness relative to a randomised control",
 "type":"claim"
 },
 {
@@ -110015,6 +110065,16 @@
 "path":"claims/girls-dimensional-comparison-cross-domain-relations.md",
 "status":"review",
 "title":"Negative cross-domain relations between math and L1 motivation were far more prevalent among girls than boys",
+"type":"claim"
+},
+{
+"description":"Girls aged three to six outperform boys on color naming tests at all ages and on color perception tests except at age five (Monroe)",
+"evidence_strength":"weak",
+"id":"girls-excel-boys-color-tests-ages-three-to-six",
+"newest_evidence":"1911",
+"path":"claims/girls-excel-boys-color-tests-ages-three-to-six.md",
+"status":"review",
+"title":"Girls aged three to six outperform boys on color naming tests at all ages and on color perception tests except at age five (Monroe)",
 "type":"claim"
 },
 {
@@ -120141,13 +120201,13 @@
 "type":"claim"
 },
 {
-"description":"The meditation app improves well-being skills (self-compassion, loneliness, cognitive defusion, perseverative thinking, well-being, meaning) that persist at follow-up, except mindful action",
+"description":"In a randomised wait-list trial of 662 school system employees, the Healthy Minds Program app improved questionnaire ratings of self-compassion, loneliness, cognitive defusion, perseverative thinking, well-being and meaning in life, persisting at three months except mindful action; no skill was assessed objectively",
 "evidence_strength":"moderate",
 "id":"hmp-improves-well-being-skills-persisting",
 "newest_evidence":"2022",
 "path":"claims/hmp-improves-well-being-skills-persisting.md",
 "status":"review",
-"title":"The meditation app improves well-being skills (self-compassion, loneliness, cognitive defusion, perseverative thinking, well-being, meaning) that persist at follow-up, except mindful action",
+"title":"The meditation app improves school employees' self-reported well-being skills (self-compassion, loneliness, cognitive defusion, perseverative thinking, well-being, meaning), persisting at follow-up except for mindful action",
 "type":"claim"
 },
 {
@@ -121887,6 +121947,16 @@
 "path":"claims/humans-valued-emotional-esteem-support-over-ai.md",
 "status":"review",
 "title":"People value emotional and esteem support more from close humans than from AI systems, with no significant difference for informational support",
+"type":"claim"
+},
+{
+"description":"Delayed reactions reach different maxima across species, with raccoons requiring an ideational function stated in terms of habit for cats and dogs (Hunter)",
+"evidence_strength":"weak",
+"id":"hunter-delayed-reactions-species-differences",
+"newest_evidence":"1911",
+"path":"claims/hunter-delayed-reactions-species-differences.md",
+"status":"review",
+"title":"Delayed reactions reach different maxima across species, with raccoons requiring an ideational function stated in terms of habit for cats and dogs (Hunter)",
 "type":"claim"
 },
 {
@@ -140539,6 +140609,16 @@
 "type":"claim"
 },
 {
+"description":"Latent cross-lagged modeling yielded coefficients highly similar to the pooled analyses and a good model fit (CFI = .94, RMSEA = .08, SRMR = .04)",
+"evidence_strength":"moderate",
+"id":"latent-sem-fit-similar-to-pooled-analyses",
+"newest_evidence":"2026",
+"path":"claims/latent-sem-fit-similar-to-pooled-analyses.md",
+"status":"review",
+"title":"Latent cross-lagged modeling yielded coefficients highly similar to the pooled analyses and a good model fit (CFI = .94, RMSEA = .08, SRMR = .04)",
+"type":"claim"
+},
+{
 "description":"Multidimensional latent variable models rarely support more than about four to six latent variables, limiting fine-grained SKIVE modeling",
 "evidence_strength":"weak",
 "id":"latent-variable-models-limit-grain-size",
@@ -142015,13 +142095,13 @@
 "type":"claim"
 },
 {
-"description":"By the end of the study all learner focus groups understood bullying as repeated aggression and reported being confident defenders",
+"description":"In end-of-study focus groups at one school using the Bullying Prevention Pack, learners said they understood bullying as repeated aggression and felt confident as defenders; there was no pre-intervention or comparison measure and no test of knowledge",
 "evidence_strength":"weak",
 "id":"learners-learned-definition-and-defending",
 "newest_evidence":"2015",
 "path":"claims/learners-learned-definition-and-defending.md",
 "status":"review",
-"title":"By the end of the study all learner focus groups understood bullying as repeated aggression and reported being confident defenders",
+"title":"At the end of the study all learner focus groups said they understood bullying as repeated aggression and reported being confident defenders",
 "type":"claim"
 },
 {
@@ -184576,16 +184656,6 @@
 "type":"claim"
 },
 {
-"description":"Changes in school organizational health may be a contextual mediator of PBIS effects on student performance",
-"evidence_strength":"weak",
-"id":"organizational-health-mediates-pbis-student-outcomes",
-"newest_evidence":"2009",
-"path":"claims/organizational-health-mediates-pbis-student-outcomes.md",
-"status":"review",
-"title":"Changes in school organizational health may be a contextual mediator of PBIS effects on student performance",
-"type":"claim"
-},
-{
 "description":"Organizational pictures tend to increase test performance compared to text-only items",
 "evidence_strength":"moderate",
 "id":"organizational-pictures-increase-performance",
@@ -188173,6 +188243,7 @@
 "id":"partial-support-three-phase-model-weak-selfreport-links",
 "newest_evidence":"2026",
 "path":"claims/partial-support-three-phase-model-weak-selfreport-links.md",
+"source_checked":"2026-10-25",
 "status":"review",
 "title":"The three-phase model received partial support with weak self-report–behaviour correspondence in fifth graders' mobile vocabulary learning",
 "type":"claim"
@@ -222746,13 +222817,13 @@
 "type":"claim"
 },
 {
-"description":"Role-plays and ensuing discussions fostered bullying vocabulary, knowledge, metacognition and empathy that the authors credit for the reduction",
+"description":"In one Irish primary school using the Bullying Prevention Pack, teachers' written feedback and interviews credited role-plays and the ensuing discussions with fostering empathy and knowledge about bullying; neither was measured directly",
 "evidence_strength":"moderate",
 "id":"role-play-discussion-built-knowledge-empathy",
 "newest_evidence":"2015",
 "path":"claims/role-play-discussion-built-knowledge-empathy.md",
 "status":"review",
-"title":"Role-plays and ensuing discussions fostered bullying vocabulary, knowledge, metacognition and empathy that the authors credit for the reduction",
+"title":"Teachers reported that role-plays and the discussions after them fostered pupils' empathy and knowledge about bullying",
 "type":"claim"
 },
 {
@@ -243933,6 +244004,16 @@
 "type":"claim"
 },
 {
+"description":"A word list used for measuring school attainments becomes unreliable once children become accustomed to spelling the particular words of the scale",
+"evidence_strength":"weak",
+"id":"spelling-list-unreliable-when-children-accustomed",
+"newest_evidence":"1917",
+"path":"claims/spelling-list-unreliable-when-children-accustomed.md",
+"status":"review",
+"title":"A word list used for measuring school attainments becomes unreliable once children become accustomed to spelling the particular words of the scale",
+"type":"claim"
+},
+{
 "description":"Spelling Mastery has potentially positive effects on writing for students with learning disabilities, based on two RCTs with a small extent of evidence",
 "evidence_strength":"moderate",
 "id":"spelling-mastery-potentially-positive-writing-ld",
@@ -244006,6 +244087,16 @@
 "type":"claim"
 },
 {
+"description":"Results of the uniform-sentence administration were tabulated by trained assistants and compiled by grade, sex, and race as a basis for tentative standardization",
+"evidence_strength":"weak",
+"id":"spelling-results-tabulated-trained-assistants",
+"newest_evidence":"1917",
+"path":"claims/spelling-results-tabulated-trained-assistants.md",
+"status":"review",
+"title":"Results of the uniform-sentence administration were tabulated by trained assistants and compiled by grade, sex, and race as a basis for tentative standardization",
+"type":"claim"
+},
+{
 "description":"A rules-plus-minimal-drill spelling group showed a distinct advantage over a drill-only group on an immediate transfer test of new words",
 "evidence_strength":"weak",
 "id":"spelling-rules-beat-drill-transfer-new-words",
@@ -244013,6 +244104,16 @@
 "path":"claims/spelling-rules-beat-drill-transfer-new-words.md",
 "status":"review",
 "title":"A rules-plus-minimal-drill spelling group showed a distinct advantage over a drill-only group on an immediate transfer test of new words",
+"type":"claim"
+},
+{
+"description":"Spelling scores of large groups of white and colored children taught in separate buildings are contrasted in the compiled results",
+"evidence_strength":"weak",
+"id":"spelling-scores-white-colored-children-contrasted",
+"newest_evidence":"1917",
+"path":"claims/spelling-scores-white-colored-children-contrasted.md",
+"status":"review",
+"title":"Spelling scores of large groups of white and colored children taught in separate buildings are contrasted in the compiled results",
 "type":"claim"
 },
 {
@@ -244530,6 +244631,16 @@
 "path":"claims/spring-reading-assessments-align-kei-pssa.md",
 "status":"review",
 "title":"Students with higher spring reading assessment scores in kindergarten through grade 3 also had higher KEI and grade 3 PSSA ELA scores",
+"type":"claim"
+},
+{
+"description":"Modified versions of the Springfield list used in city surveys differ from the original list, making rigid comparisons with the published 1,000-word scale questionable",
+"evidence_strength":"weak",
+"id":"springfield-list-variations-comparisons-questionable",
+"newest_evidence":"1917",
+"path":"claims/springfield-list-variations-comparisons-questionable.md",
+"status":"review",
+"title":"Modified versions of the Springfield list used in city surveys differ from the original list, making rigid comparisons with the published 1,000-word scale questionable",
 "type":"claim"
 },
 {
@@ -246819,6 +246930,16 @@
 "type":"claim"
 },
 {
+"description":"Standardized illustrative sentences written in advance were used by all examiners when administering the Springfield spelling list to about 25,000 children in 78 schools",
+"evidence_strength":"moderate",
+"id":"standardized-illustrative-sentences-spelling-administration",
+"newest_evidence":"1917",
+"path":"claims/standardized-illustrative-sentences-spelling-administration.md",
+"status":"review",
+"title":"Standardized illustrative sentences written in advance were used by all examiners when administering the Springfield spelling list to about 25,000 children in 78 schools",
+"type":"claim"
+},
+{
 "description":"The article attributes the discrepancy with inspection-time studies to methodology, arguing standardized measures are sensitive enough to detect processing speed deficits in ASD",
 "evidence_strength":"weak",
 "id":"standardized-measures-detect-asd-processing-speed-deficit",
@@ -247003,6 +247124,16 @@
 "path":"claims/starch-arithmetic-scale-overlap-sex-difference.md",
 "status":"review",
 "title":"Starch's arithmetic scale shows decided grade-to-grade overlap: about 33% of any grade reach or exceed the median of the grade above, with a strong sex difference favoring boys",
+"type":"claim"
+},
+{
+"description":"School grades show very wide variation among teachers, shrinking little within a single institution (Starch)",
+"evidence_strength":"weak",
+"id":"starch-wide-variation-school-grades",
+"newest_evidence":"1911",
+"path":"claims/starch-wide-variation-school-grades.md",
+"status":"review",
+"title":"School grades show very wide variation among teachers, shrinking little within a single institution (Starch)",
 "type":"claim"
 },
 {
@@ -265399,14 +265530,13 @@
 "type":"claim"
 },
 {
-"description":"The TEFA-T model significantly improves students' metacognitive skills compared with conventional instruction",
+"description":"On a self-report Likert metacognition scale, an automotive vocational class taught with the TEFA-T model rated their metacognitive skills higher than a non-randomised conventionally taught class",
 "evidence_strength":"moderate",
 "id":"tefa-t-improves-metacognitive-skills",
 "newest_evidence":"2022",
 "path":"claims/tefa-t-improves-metacognitive-skills.md",
-"source_checked":"2026-10-20",
 "status":"review",
-"title":"The TEFA-T model significantly improves students' metacognitive skills compared with conventional instruction",
+"title":"Students taught with the TEFA-T model rated their own metacognitive skills higher than a conventionally taught class",
 "type":"claim"
 },
 {
@@ -283509,6 +283639,46 @@
 "type":"claim"
 },
 {
+"description":"The Binet-Simon measuring scale is the best systematic experimental device then available for measuring intellectual development, but its norms and level placement require revision.",
+"evidence_strength":"moderate",
+"id":"wallin-1911-binet-scale-status-revision",
+"newest_evidence":"1911",
+"path":"claims/wallin-1911-binet-scale-status-revision.md",
+"status":"review",
+"title":"The Binet-Simon measuring scale is the best systematic experimental device then available for measuring intellectual development, but its norms and level placement require revision.",
+"type":"claim"
+},
+{
+"description":"Every pedagogically retarded child should receive a psycho-clinical examination to distinguish genuine subnormal development from retardation caused by late entrance, irregular attendance, illness, or poor teaching.",
+"evidence_strength":"weak",
+"id":"wallin-1911-examine-retarded-cause-diagnosis",
+"newest_evidence":"1911",
+"path":"claims/wallin-1911-examine-retarded-cause-diagnosis.md",
+"status":"review",
+"title":"Every pedagogically retarded child should receive a psycho-clinical examination to distinguish genuine subnormal development from retardation caused by late entrance, irregular attendance, illness, or poor teaching.",
+"type":"claim"
+},
+{
+"description":"Pedagogical retardation is far more prevalent than acceleration in American school systems, with retardation-to-acceleration ratios reported from several cities.",
+"evidence_strength":"moderate",
+"id":"wallin-1911-retardation-prevalence-ratios",
+"newest_evidence":"1911",
+"path":"claims/wallin-1911-retardation-prevalence-ratios.md",
+"status":"review",
+"title":"Pedagogical retardation is far more prevalent than acceleration in American school systems, with retardation-to-acceleration ratios reported from several cities.",
+"type":"claim"
+},
+{
+"description":"Applying the Binet-Simon tests thoroughly requires forty-five minutes to an hour per child, so school laboratories should train special-class teachers to give some tests and reserve laboratory time for the rest.",
+"evidence_strength":"weak",
+"id":"wallin-1911-teacher-testing-delegation",
+"newest_evidence":"1911",
+"path":"claims/wallin-1911-teacher-testing-delegation.md",
+"status":"review",
+"title":"Applying the Binet-Simon tests thoroughly requires forty-five minutes to an hour per child, so school laboratories should train special-class teachers to give some tests and reserve laboratory time for the rest.",
+"type":"claim"
+},
+{
 "description":"In Wallin's St.",
 "evidence_strength":"weak",
 "id":"wallin-st-louis-clinic-430-cases-feeble-minded-by-sex",
@@ -283606,6 +283776,7 @@
 "id":"wasted-intelligence-minus-nine-below",
 "newest_evidence":"1920",
 "path":"claims/wasted-intelligence-minus-nine-below.md",
+"source_checked":"2026-10-25",
 "status":"review",
 "title":"Cases with Differences of minus 9 or below — 21.5 per cent of the standardization sample — are described as marked cases of wasted intelligence whose ability is not being utilized",
 "type":"claim"
@@ -285198,6 +285369,16 @@
 "type":"claim"
 },
 {
+"description":"A sixteen-day wigwag-code learning task yields reliable learning curves with wide individual differences, with negro girls as a group inferior to white girls (Baldwin)",
+"evidence_strength":"weak",
+"id":"wigwag-code-learning-curves-delinquent-girls",
+"newest_evidence":"1911",
+"path":"claims/wigwag-code-learning-curves-delinquent-girls.md",
+"status":"review",
+"title":"A sixteen-day wigwag-code learning task yields reliable learning curves with wide individual differences, with negro girls as a group inferior to white girls (Baldwin)",
+"type":"claim"
+},
+{
 "description":"Wijekumar et al.",
 "evidence_strength":"moderate",
 "id":"wijekumar-2009-null-effect-odyssey-math-terranova",
@@ -286729,6 +286910,16 @@
 "path":"claims/woolley-18-year-industrial-workers-25-5-percent-feeble-minded.md",
 "status":"review",
 "title":"Woolley found 25.5% of 18-year-old industrial workers feeble-minded on the point scale and advised changing the definition of feeble-mindedness so tested deficiency better matched common-sense opinion.",
+"type":"claim"
+},
+{
+"description":"Among 800 fourteen-year-old children, girls outperformed boys on mental tests while boys excelled in strength and vital capacity (Woolley and Fischer)",
+"evidence_strength":"weak",
+"id":"woolley-fischer-800-fourteen-year-old-sex-differences",
+"newest_evidence":"1911",
+"path":"claims/woolley-fischer-800-fourteen-year-old-sex-differences.md",
+"status":"review",
+"title":"Among 800 fourteen-year-old children, girls outperformed boys on mental tests while boys excelled in strength and vital capacity (Woolley and Fischer)",
 "type":"claim"
 },
 {
@@ -298190,6 +298381,22 @@
 "path":"designs/walking-number-line-bnl-snl-design.md",
 "status":"review",
 "title":"Walking number line design: body-scale number line plus desk-scale number line with figurine, using a four-step orientation-and-movement procedure",
+"type":"design"
+},
+{
+"description":"A proposed central school department in charge of a director who is an expert in child, educational and clinical psychology with experimental pedagogy and teaching experience.",
+"id":"wallin-1911-bureau-school-research",
+"path":"designs/wallin-1911-bureau-school-research.md",
+"status":"review",
+"title":"Bureau of school research as a central clearing-house for educational data",
+"type":"design"
+},
+{
+"description":"The article specifies a five-part functional charter for a school clinical laboratory serving exceptional children: clinical examination of exceptional children, establishment of reliable norms for normal children, ac...",
+"id":"wallin-1911-psycho-clinical-laboratory-functions",
+"path":"designs/wallin-1911-psycho-clinical-laboratory-functions.md",
+"status":"review",
+"title":"Five functions of the school psycho-clinical laboratory",
 "type":"design"
 },
 {
@@ -399866,6 +400073,7 @@
 "binet-point-scale-growth-rate-artifact":"binet-point-scale-growth-rate-artifact",
 "binet-point-scale-parallel-to-age-ten":"binet-point-scale-parallel-to-age-ten",
 "binet-predicts-abstract-schoolwork-performance-tests-do-not":"binet-predicts-abstract-schoolwork-performance-tests-do-not",
+"binet-retest-one-year-gain-berry":"binet-retest-one-year-gain-berry",
 "binet-scale-43-of-54-tests-verbal":"binet-scale-43-of-54-tests-verbal",
 "binet-scale-cross-national-agreement-age-ranking":"binet-scale-cross-national-agreement-age-ranking",
 "binet-scale-fails-severe-defect-and-dementia":"binet-scale-fails-severe-defect-and-dementia",
@@ -400203,6 +400411,8 @@
 "bullying-sex-differences-cognition-brain-regions":"bullying-sex-differences-cognition-brain-regions",
 "bullying-thinner-cortices-precentral-mediation":"bullying-thinner-cortices-precentral-mediation",
 "bundling-interventions-stronger-effects":"bundling-interventions-stronger-effects",
+"buoyancy-adaptability-latent-adjusted-conclusion":"buoyancy-adaptability-latent-adjusted-conclusion",
+"buoyancy-adaptability-reciprocal-cross-lagged-effects":"buoyancy-adaptability-reciprocal-cross-lagged-effects",
 "buoyancy-moderates-anxiety-performance":"buoyancy-moderates-anxiety-performance",
 "burgess-drawing-time-reduces-validity":"burgess-drawing-time-reduces-validity",
 "burgess-high-composite-correlations-team-with-thorndike-mccall":"burgess-high-composite-correlations-team-with-thorndike-mccall",
@@ -402845,6 +403055,7 @@
 "cross-grade-risk-persistence":"cross-grade-risk-persistence",
 "cross-grade-score-decline-self-selection":"cross-grade-score-decline-self-selection",
 "cross-institutional-generalizability-coursekata-models":"cross-institutional-generalizability-coursekata-models",
+"cross-lagged-beta-invariance-across-studies":"cross-lagged-beta-invariance-across-studies",
 "cross-lagged-improve-fit-over-autoregressive":"cross-lagged-improve-fit-over-autoregressive",
 "cross-language-comparison-writing-components-sem":"cross-language-comparison-writing-components-sem",
 "cross-language-facilitation-l1-strategies-l2-writing-via-mediation":"cross-language-facilitation-l1-strategies-l2-writing-via-mediation",
@@ -404661,6 +404872,7 @@
 "educational-outreach-and-reminders-promising":"educational-outreach-and-reminders-promising",
 "educational-performance-mixed-ai-chatbots":"educational-performance-mixed-ai-chatbots",
 "educational-processes-fully-mediate-home-environment-effects-on-social-emotional-competence":"educational-processes-fully-mediate-home-environment-effects-on-social-emotional-competence",
+"educational-psychology-needs-general-psychology-background":"educational-psychology-needs-general-psychology-background",
 "educational-robotics-effect-learning-attitudes":"educational-robotics-effect-learning-attitudes",
 "educational-robotics-effect-learning-performance":"educational-robotics-effect-learning-performance",
 "educational-robotics-moderate-overall-effect-stem-learning":"educational-robotics-moderate-overall-effect-stem-learning",
@@ -407781,6 +407993,7 @@
 "girl-boy-average-grade-comparison-1912":"girl-boy-average-grade-comparison-1912",
 "girls-confidence-interest-gap-self-concept-predicts-choices":"girls-confidence-interest-gap-self-concept-predicts-choices",
 "girls-dimensional-comparison-cross-domain-relations":"girls-dimensional-comparison-cross-domain-relations",
+"girls-excel-boys-color-tests-ages-three-to-six":"girls-excel-boys-color-tests-ages-three-to-six",
 "girls-farm-higher-math-anxiety":"girls-farm-higher-math-anxiety",
 "girls-higher-engagement-and-gpa-than-boys":"girls-higher-engagement-and-gpa-than-boys",
 "girls-higher-evaluation-math-anxiety":"girls-higher-evaluation-math-anxiety",
@@ -408944,6 +409157,7 @@
 "humanizers-frame-evasion-as-rational-self-defense":"humanizers-frame-evasion-as-rational-self-defense",
 "humans-certain-when-not-facilitating":"humans-certain-when-not-facilitating",
 "humans-valued-emotional-esteem-support-over-ai":"humans-valued-emotional-esteem-support-over-ai",
+"hunter-delayed-reactions-species-differences":"hunter-delayed-reactions-species-differences",
 "hunter-gatherer-children-decide-school-attendance":"hunter-gatherer-children-decide-school-attendance",
 "hurst-not-predict-retention-above-pretest":"hurst-not-predict-retention-above-pretest",
 "hurst-predicts-daily-self-explanation-above-pretest":"hurst-predicts-daily-self-explanation-above-pretest",
@@ -410766,6 +410980,7 @@
 "latent-noncognitive-factor-predicts-latent-gpa-27-29-percent":"latent-noncognitive-factor-predicts-latent-gpa-27-29-percent",
 "latent-profile-moderates-intervention-effect":"latent-profile-moderates-intervention-effect",
 "latent-scores-predict-third-grade-assessment-scores":"latent-scores-predict-third-grade-assessment-scores",
+"latent-sem-fit-similar-to-pooled-analyses":"latent-sem-fit-similar-to-pooled-analyses",
 "latent-variable-models-limit-grain-size":"latent-variable-models-limit-grain-size",
 "later-developers-few-preschool-gains":"later-developers-few-preschool-gains",
 "later-ef-developers-lowest-math-no-catchup":"covariates-early-intermediate-overlap-later-distinct",
@@ -415060,7 +415275,6 @@
 "organizational-drawing-instruction-improves-monitoring-accuracy":"organizational-drawing-instruction-improves-monitoring-accuracy",
 "organizational-empowerment-enables-transfer":"organizational-empowerment-enables-transfer",
 "organizational-gains-without-instructional-gains":"organizational-gains-without-instructional-gains",
-"organizational-health-mediates-pbis-student-outcomes":"organizational-health-mediates-pbis-student-outcomes",
 "organizational-pictures-increase-performance":"organizational-pictures-increase-performance",
 "organizational-strategic-factors-associated-with-attitudes":"organizational-strategic-factors-associated-with-attitudes",
 "organizational-support-four-target-areas":"organizational-support-four-target-areas",
@@ -420914,6 +421128,7 @@
 "spelling-errors-hiring-penalties":"spelling-errors-hiring-penalties",
 "spelling-gains-exceed-reading-gains":"spelling-gains-exceed-reading-gains",
 "spelling-improves-with-year-group-all-word-types":"spelling-improves-with-year-group-all-word-types",
+"spelling-list-unreliable-when-children-accustomed":"spelling-list-unreliable-when-children-accustomed",
 "spelling-mastery-potentially-positive-writing-ld":"spelling-mastery-potentially-positive-writing-ld",
 "spelling-mastery-significant-vs-visual-imagery":"spelling-mastery-significant-vs-visual-imagery",
 "spelling-mastery-substantive-vs-basal":"spelling-mastery-substantive-vs-basal",
@@ -420921,7 +421136,9 @@
 "spelling-method-advantage-across-ability-levels":"spelling-method-advantage-across-ability-levels",
 "spelling-predictors-english-outlier-beyond-grade-2":"spelling-predictors-english-outlier-beyond-grade-2",
 "spelling-reading-links-correlations":"spelling-reading-links-correlations",
+"spelling-results-tabulated-trained-assistants":"spelling-results-tabulated-trained-assistants",
 "spelling-rules-beat-drill-transfer-new-words":"spelling-rules-beat-drill-transfer-new-words",
+"spelling-scores-white-colored-children-contrasted":"spelling-scores-white-colored-children-contrasted",
 "spelling-stages-map-onto-rr-levels":"spelling-stages-map-onto-rr-levels",
 "spelling-standard-scores-grades-1-8":"spelling-standard-scores-grades-1-8",
 "spelling-test-teacher-mark-correlations":"spelling-test-teacher-mark-correlations",
@@ -420974,6 +421191,7 @@
 "spring-enrollees-demographic-gpa-differences":"spring-enrollees-demographic-gpa-differences",
 "spring-enrollees-inclusion-small-enrollment-rate-change":"spring-enrollees-inclusion-small-enrollment-rate-change",
 "spring-reading-assessments-align-kei-pssa":"spring-reading-assessments-align-kei-pssa",
+"springfield-list-variations-comparisons-questionable":"springfield-list-variations-comparisons-questionable",
 "spt-induction-improves-teacher-tsr":"spt-induction-improves-teacher-tsr",
 "spt-induction-no-similarity-effect":"spt-induction-no-similarity-effect",
 "spt-induction-no-student-negativity-effect":"spt-induction-no-student-negativity-effect",
@@ -421196,6 +421414,7 @@
 "standardised-wellbeing-instrument-need":"standardised-wellbeing-instrument-need",
 "standardized-assessment-pressure-inhibits-creativity":"standardized-assessment-pressure-inhibits-creativity",
 "standardized-benchmarks-too-generic-for-education":"standardized-benchmarks-too-generic-for-education",
+"standardized-illustrative-sentences-spelling-administration":"standardized-illustrative-sentences-spelling-administration",
 "standardized-measures-detect-asd-processing-speed-deficit":"standardized-measures-detect-asd-processing-speed-deficit",
 "standardized-tests-biased-school-quality":"standardized-tests-biased-school-quality",
 "standardized-tests-partial-information-learning":"standardized-tests-partial-information-learning",
@@ -421214,6 +421433,7 @@
 "star-studies-positive-small-effects-reading-math":"star-studies-positive-small-effects-reading-math",
 "starbird-intuitive-integral-five-configurations":"starbird-intuitive-integral-five-configurations",
 "starch-arithmetic-scale-overlap-sex-difference":"starch-arithmetic-scale-overlap-sex-difference",
+"starch-wide-variation-school-grades":"starch-wide-variation-school-grades",
 "starts-null-self-concept-effect":"starts-null-self-concept-effect",
 "startup-summer-participants-higher-business-launch-rate":"startup-summer-participants-higher-business-launch-rate",
 "stat1170-ai-enabled-elements-complement-reasoning":"stat1170-ai-enabled-elements-complement-reasoning",
@@ -424798,6 +425018,10 @@
 "waiver-states-goals-dont-count-in-ratings":"waiver-states-goals-dont-count-in-ratings",
 "waivers-promoted-failing-students-1997":"waivers-promoted-failing-students-1997",
 "walking-disrupts-misconceptions-which-resurface":"walking-disrupts-misconceptions-which-resurface",
+"wallin-1911-binet-scale-status-revision":"wallin-1911-binet-scale-status-revision",
+"wallin-1911-examine-retarded-cause-diagnosis":"wallin-1911-examine-retarded-cause-diagnosis",
+"wallin-1911-retardation-prevalence-ratios":"wallin-1911-retardation-prevalence-ratios",
+"wallin-1911-teacher-testing-delegation":"wallin-1911-teacher-testing-delegation",
 "wallin-st-louis-clinic-430-cases-feeble-minded-by-sex":"wallin-st-louis-clinic-430-cases-feeble-minded-by-sex",
 "waples-definition-interest-affective-accompaniment":"waples-definition-interest-affective-accompaniment",
 "warmth-competence-partially-mediate-genai-trust":"warmth-competence-partially-mediate-genai-trust",
@@ -424962,6 +425186,7 @@
 "widened-attentional-focus-postulated-creativity-link":"widened-attentional-focus-postulated-creativity-link",
 "wider-achievement-range-spring-2022":"wider-achievement-range-spring-2022",
 "widespread-remote-stem-challenges-motivation-connectivity":"widespread-remote-stem-challenges-motivation-connectivity",
+"wigwag-code-learning-curves-delinquent-girls":"wigwag-code-learning-curves-delinquent-girls",
 "wijekumar-2009-null-effect-odyssey-math-terranova":"wijekumar-2009-null-effect-odyssey-math-terranova",
 "wiki-advantage-triples-cross-page-questions":"wiki-advantage-triples-cross-page-questions",
 "wiki-dialogic-space-co-construction":"wiki-dialogic-space-co-construction",
@@ -425115,6 +425340,7 @@
 "women-underrepresented-physics-engineering-computer-science-degrees":"women-underrepresented-physics-engineering-computer-science-degrees",
 "womens-own-success-definitions-collegiality-mentoring":"womens-own-success-definitions-collegiality-mentoring",
 "woolley-18-year-industrial-workers-25-5-percent-feeble-minded":"woolley-18-year-industrial-workers-25-5-percent-feeble-minded",
+"woolley-fischer-800-fourteen-year-old-sex-differences":"woolley-fischer-800-fourteen-year-old-sex-differences",
 "woolley-scale-ranks-stable-year-to-year":"woolley-scale-ranks-stable-year-to-year",
 "woot-math-rct-adaptivity-significant-effects":"woot-math-rct-adaptivity-significant-effects",
 "word-attack-group-differences-er-weakest":"word-attack-group-differences-er-weakest",
@@ -426465,6 +426691,8 @@
 "voluntary-intrinsic-motivation-programming-game":"voluntary-intrinsic-motivation-programming-game",
 "vplc-augmented-assistments-intervention":"vplc-augmented-assistments-intervention",
 "walking-number-line-bnl-snl-design":"walking-number-line-bnl-snl-design",
+"wallin-1911-bureau-school-research":"wallin-1911-bureau-school-research",
+"wallin-1911-psycho-clinical-laboratory-functions":"wallin-1911-psycho-clinical-laboratory-functions",
 "water-balloon-physics-image-task":"water-balloon-physics-image-task",
 "waves-module-simulations-integrated-chatbot":"waves-module-simulations-integrated-chatbot",
 "web-based-ai-programming-environment-cs2":"web-based-ai-programming-environment-cs2",

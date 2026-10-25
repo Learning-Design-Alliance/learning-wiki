@@ -51,3 +51,4 @@ Interpretation of the retest change distribution from the 126-case institutional
 - [Children whose low first IQs reflected linguistic or environmental deficiency showed substantial IQ gains after gaining command of English or schooling](iq-gains-after-linguistic-environmental-remediation.md) — a narrower finding that bears on this claim
 - [Clinic cases retested within less than a month to 15 months show a median IQ difference of 3.5 points, with only four cases above 5 points](clinic-case-iq-differences-median-35.md) — reports the opposite
 - [The question of the constancy of IQ is not settled; further studies with regular intervals and repeated tests of the same cases over a number of years are needed](iq-constancy-question-not-settled.md) — a broader claim this one bears on
+- [One-year Binet retest gains average one year of mental rank, with defectives gaining about half a year (Berry)](binet-retest-one-year-gain-berry.md) — related

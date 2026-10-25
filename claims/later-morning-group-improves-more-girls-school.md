@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
 > **Currency** · newest study 1911 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Winch 1911: the intervention came bundled with another change; groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Group A (9.40 A.M.) improved 2 per cent on its preliminary record while Group B (11.15 A.M.) improved 7.7 per cent, an increase of about 5 or 6 per cent attributed to mental adaptation. [→ Winch 1911](#winch-1911)

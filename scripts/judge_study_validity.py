@@ -161,6 +161,13 @@ def problems(v: dict) -> list:
 def agreed(v: dict, confirmed: dict):
     """The problems both judges report for this entry; None until the second has judged it."""
     first = problems(v)
+    # From an abstract, silence is not evidence: an abstract that does not mention random
+    # assignment or a comparison group says nothing about whether there was one. Measured
+    # 2026-10-25: 10 of the 13 "design overstated" findings were abstract-only, on studies
+    # such as Karpicke & Blunt (2011) and Ramani & Siegler (2008) that were randomised. Only
+    # the outcome check, which an abstract can show positively (a self-report scale), counts.
+    if v.get("basis") == "abstract":
+        first = [p for p in first if p == "outcome"]
     if not first:
         return []
     c = confirmed.get(v["digest"])
@@ -305,6 +312,10 @@ def annotate(pages, apply):
         if a:
             by_claim[v["claim"]].append({**v, "agreed": a})
     done, written, recorded = reviewed(), 0, []
+    # also every claim already carrying the line, so a line whose findings no longer stand is removed
+    for slug, path in pages.items():
+        if slug not in by_claim and "**Design limits**" in path.read_text(encoding="utf-8"):
+            by_claim[slug] = []
     for claim, vs in sorted(by_claim.items()):
         path = pages[claim]
         # only verdicts on the entry text as it stands now

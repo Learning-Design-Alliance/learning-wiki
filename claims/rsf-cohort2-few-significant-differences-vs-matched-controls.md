@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
 > **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Young 2008: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Most Cohort 2 schools' students performed at the same levels as matched counterparts after 1 year; significant differences were School 11 eight points lower in reading, School 14 five points higher in mathematics, and School 12 four points higher in mathematics. [→ Young 2008](#young-2008)

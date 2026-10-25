@@ -33,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i2`–`i3`
 > **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Jacobson 2020 (2): the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i3` Both groups showed a large pretest-to-posttest gain in complex systems explanatory knowledge, with no Condition effect or Condition × Time interaction. [→ Jacobson 2020](#jacobson-2020)

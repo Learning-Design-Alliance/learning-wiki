@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
 > **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Lewis-Morrarty 2012: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` The cumulative prenatal risk index (premature birth, low birth weight, prenatal drug exposure) showed no significant association with either outcome. [→ Lewis-Morrarty 2012](#lewis-morrarty-2012)

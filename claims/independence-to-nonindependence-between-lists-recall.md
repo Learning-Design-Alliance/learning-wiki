@@ -33,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 > **Currency** · newest study 1980 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Glenberg 1980 (2): no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` Predicted recalls under independence (.70, .56, .57 for 0-0, 1-0, 7-0) were almost exactly the same as observed immediate recall. [→ Glenberg 1980](#glenberg-1980)

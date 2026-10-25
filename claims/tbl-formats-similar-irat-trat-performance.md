@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Cynthia J. Miller 2015: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 <!-- deprecated title (2026-10-05, overstated its evidence): Revised and original TBL formats yield similar student performance on iRAT and tRAT sessions -->
 
 ## Subclaims

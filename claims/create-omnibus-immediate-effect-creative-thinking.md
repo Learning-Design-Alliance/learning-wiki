@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
 > **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Nurit Paz-Baruch 2025: groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i3` A repeated-measures MANOVA showed a statistically significant intervention effect on fluency, flexibility, and originality simultaneously, with Time × Intervention interaction also significant. [→ Nurit Paz-Baruch 2025](#nurit-paz-baruch-2025)

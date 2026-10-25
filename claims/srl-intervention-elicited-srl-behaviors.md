@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q1`
 > **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Hengtao Tang 2025: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q1 i?` Participants described engaging in task analysis, self-observation, and self-judgment behaviors prompted by the intervention tasks. [→ Hengtao Tang 2025](#hengtao-tang-2025)

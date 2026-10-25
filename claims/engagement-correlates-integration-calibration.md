@@ -26,6 +26,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2` · `i3` large
 > **Currency** · newest study 2022 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
+> **Design limits** · Lucia Mason 2022: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i3` Across the whole sample, integration of information correlated positively with processing time (r = .46) and response length (r = .63), and negatively with calibration error (r = − .81). [→ Lucia Mason 2022](#lucia-mason-2022)

@@ -26,6 +26,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
 > **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2023**: local conditions change quickly
+> **Design limits** · Elaine M. Allensworth and Andrew Zou 2020: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Only about one-third of the 2014-15 NLCI pre-k cohort was still enrolled at NLCI schools in second grade in 2017-18, reducing any expected carryover of full-day pre-k benefits to second-grade outcomes. [→ Elaine M. Allensworth and Andrew Zou 2020](#elaine-m-allensworth-and-andrew-zou-2020)

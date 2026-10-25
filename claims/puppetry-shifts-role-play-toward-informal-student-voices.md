@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2` · `i1` small
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Mochizuki 2022: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i1` After tangible puppetry role-play, discourse patterns shifted from linkages to Student-Formal codes toward Student-Informal and Teacher-Informal codes (Session #1 vs #2, d = 0.36), and the difference from Session #1 remained in Session #3 (d = 0.40). [→ Mochizuki 2022](#mochizuki-2022)

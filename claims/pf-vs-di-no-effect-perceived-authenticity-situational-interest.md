@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
 > **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Valentina Nachtigall 2021: groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` PF students did not report higher perceived authenticity or situational interest than DI students at the end of the OSL visit, contrary to hypotheses H1 and H2. [→ Valentina Nachtigall 2021](#valentina-nachtigall-2021)

@@ -33,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q3` · `i2` medium
 > **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Dillon H. Murphy 2023: the intervention came bundled with another change (the act of selecting words by clicking, circling, or underlining them) (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i2` In Experiment 1a (fixed 30-s study), words predicted to be forgotten were recalled better than words not given a prediction (d = 0.70). [→ Dillon H. Murphy 2023](#dillon-h-murphy-2023)

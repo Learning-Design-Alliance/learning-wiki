@@ -26,6 +26,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
+> **Design limits** · Chai Rui 2026: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Dimension-specific loss weights are parameterized as inverse learned observation noise scalars, and the learned weights (pronunciation 0.28, fluency 0.26, vocabulary-grammar 0.24, content 0.22) aligned with relative annotation reliability. [→ Chai Rui 2026](#chai-rui-2026)

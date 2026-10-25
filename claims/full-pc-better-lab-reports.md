@@ -33,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2` · `i3` large
 > **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Sarah Manlove 2007: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i3` Report structure scores were significantly higher in the PC+ condition (d=1.49). [→ Sarah Manlove 2007](#sarah-manlove-2007)

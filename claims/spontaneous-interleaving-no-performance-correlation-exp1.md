@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i0` negligible
 > **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Roman Abel 2024: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i0` Informative between-category switches did not correlate with category assignment task performance in Experiment 1. [→ Roman Abel 2024](#roman-abel-2024)

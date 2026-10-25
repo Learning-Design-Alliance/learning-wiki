@@ -26,6 +26,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
 > **Currency** · newest study 2024 · checked against its sources 2026-10-18 (automated, 1 of 1 entry) · not reviewed by a person
+> **Design limits** · Loibl 2024: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Only 2 of 38 students in the PS conditions generated solutions corresponding to the erroneous solutions refuted in the instruction with typical student solutions. [→ Loibl 2024](#loibl-2024)

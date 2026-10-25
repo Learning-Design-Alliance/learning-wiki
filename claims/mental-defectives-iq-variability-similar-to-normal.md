@@ -47,3 +47,4 @@ Visual inspection comparison of the retest change distribution from the 126-case
 ## Related Claims
 - [On retest, institutionalized mental defectives as a group show no IQ deterioration, with a mean change of +1.28 points and a standard deviation of 5.83](mental-defectives-retest-iq-no-group-deterioration.md) — related
 - [A large percentage of retested cases show IQ variations large enough to change their classification, demonstrating the injustice of disposing of persons on the basis of a single test](single-test-classification-unjust-iq-variation.md) — related
+- [One-year Binet retest gains average one year of mental rank, with defectives gaining about half a year (Berry)](binet-retest-one-year-gain-berry.md) — related

@@ -33,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Rexhäuser 2026: the intervention came bundled with another change (self-explanation prompts and the worked-example instructional package) (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` The worked example group showed a stronger pretest-to-posttest improvement in the exchange of relevant information (CDR process quality) than the problem-solving group. [→ Rexhäuser 2026](#rexhauser-2026)

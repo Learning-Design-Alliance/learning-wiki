@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
 > **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Stoel 2017: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Self-reports on learning gains and correlational analysis were used to explore how the measured constructs interrelate. [→ Stoel 2017](#stoel-2017)

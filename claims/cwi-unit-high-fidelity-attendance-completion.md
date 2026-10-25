@@ -33,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
 > **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Anouk ten Peze 2024 (2): no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Absenteeism during the intervention was below 1% in panel 1 and below 3% in panel 2 for both groups. [→ Anouk ten Peze 2024](#anouk-ten-peze-2024)

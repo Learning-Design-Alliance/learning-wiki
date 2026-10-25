@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
 > **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Marie Geurten & Patrick Lemaire 2017: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` A'ROC metacognitive accuracy exceeded chance (.50) for RCJ but not for EoS judgments in both age groups across both tasks. [→ Marie Geurten & Patrick Lemaire 2017](#marie-geurten-patrick-lemaire-2017)

@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
 > **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Kraus 2024: the intervention came bundled with another change (distance learning, varying teaching efforts, and other COVID-related effects) (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` Neither the short-term (one month after closures) nor the long-term (one year after closures) deviation from the expected reading fluency trend was statistically significant in the DiD analysis. [→ Kraus 2024](#kraus-2024)

@@ -1,15 +1,14 @@
 ---
 type: claim
-title: Game-based vocabulary practice produced larger gains than traditional instruction for newly arrived migrant children.
+title: Newly arrived migrant children taught Italian through games showed larger vocabulary gains than traditionally taught peers on a vocabulary checklist inventory, not a direct test.
 id: game-based-practice-outperforms-traditional-l2-vocabulary-instruction
-description: Ukrainian children aged 6–7 taught Italian vocabulary by games reached 171.91 words against 139.29 for traditional instruction over four weeks — a strong result in a population that transfers to almost nothing.
+description: Ukrainian children aged 6–7 taught Italian by games reached 171.91 words against 139.29 for traditional instruction over four weeks, as counted on the MacArthur–Bates CDI checklist in non-randomised groups — a population that transfers to almost nothing.
 status: review
 generated:
   by: claude/unspecified
   at: 2026-09-03
 evidence_strength: weak
 newest_evidence: 2023
-source_checked: 2026-10-20
 sources:
   - id: frolli-et-al-2023
     resource: "https://doi.org/10.3390/pediatric15030046"
@@ -22,11 +21,11 @@ sources:
     rigour: 1
 ---
 
-# Game-based vocabulary practice produced larger gains than traditional instruction for newly arrived migrant children.
+# Newly arrived migrant children taught Italian through games showed larger vocabulary gains than traditionally taught peers on a vocabulary checklist inventory, not a direct test.
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2` · `i3` large · n=48
-> **Currency** · newest study 2023 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 Rated weak deliberately: the result is clean and the population is unusual on every axis. The
 paper's note on articles is an implementation detail, not a finding: no article outcome was measured.
@@ -34,7 +33,7 @@ paper's note on articles is an implementation detail, not a finding: no article 
 
 ## Subclaims
 
-`q2 i3` Over four weeks, a game-based group went from 40.29 to 171.91 Italian words against 40.54 to 139.29 for a traditionally taught control, F(1,46) = 219.215, p < .05. [→ Frolli et al. 2023](#frolli-et-al-2023)
+`q2 i3` Over four weeks, vocabulary size counted on the MacArthur–Bates Communicative Development Inventory (a word checklist, normally completed by caregivers; the paper does not say who completed it here) went from 40.29 to 171.91 words in a game-based group against 40.54 to 139.29 in a traditionally taught group, F(1,46) = 219.215, p < .05; the groups were not randomly assigned. [→ Frolli et al. 2023](#frolli-et-al-2023)
 
 `q2 i?` The authors report Italian articles as an instructional accommodation: Russian was used only in cases of extreme necessity or for complex grammatical topics absent from Russian and Ukrainian grammar, and articles are their example of a topic that needed occasional explanation in Russian; no outcome was measured for articles, so this is an implementation note, not a finding. [→ Frolli et al. 2023](#frolli-et-al-2023)
 <!-- deprecated (2026-09-30; the paper measured no article outcome, see observations/frolli-2023.yaml): `q2 i?` Italian articles were disproportionately hard for this group, which the authors attribute to articles being absent from Russian and Ukrainian grammar — a category the first language does not contain rather than a rule the learner has not yet met. [→ Frolli et al. 2023](#frolli-et-al-2023) -->
@@ -47,7 +46,7 @@ Frolli, A., Cerciello, F., Esposito, C., Russo, M., & Bisogni, F. (2023). Learni
 
 `q2 · two-group controlled classroom comparison over four weeks` · `i3 · large effect, partial η² = .891 (time × group) and .827 (group), as printed; 171.91 vs 139.29 words, F(1,46) = 219.215` · `n=48` · `causal · r1`
 
-48 Ukrainian children aged 6–7 (mean 6.5), about one month resident in Italy, were taught basic Italian vocabulary for four weeks in two conditions: game-based (Kahoot! and outdoor games) or traditional instruction. Both groups started near 40 words. The authors attribute the difference to motivation and attention, noting that incentive systems fuelled the students' motivation to win. They separately note that Russian was used only in cases of extreme necessity or for complex grammatical topics absent from Russian and Ukrainian, giving articles as their example; no article-specific outcome was measured.
+48 Ukrainian children aged 6–7 (mean 6.5), about one month resident in Italy, were taught basic Italian vocabulary for four weeks in two conditions: game-based (Kahoot! and outdoor games) or traditional instruction. Vocabulary size was counted before and after with the MacArthur–Bates CDI, a word checklist rather than a direct test, and the paper says only that the sample "was divided into two groups", not that assignment was random. Both groups started near 40 words. The authors attribute the difference to motivation and attention, noting that incentive systems fuelled the students' motivation to win. They separately note that Russian was used only in cases of extreme necessity or for complex grammatical topics absent from Russian and Ukrainian, giving articles as their example; no article-specific outcome was measured.
 
 ## Discussion
 

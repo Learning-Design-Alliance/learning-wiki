@@ -26,6 +26,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q1`
 > **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2029: baselines and conditions change
+> **Design limits** · Macedo-Rouet 2024: the intervention came bundled with another change (The training was embedded in a digital literacy course) (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q1 i?` Online reading for academic purposes involves analysing task requirements, assessing information needs, accessing relevant contents, and evaluating the relevance and reliability of information given the task at hand. [→ Macedo-Rouet 2024](#macedo-rouet-2024)

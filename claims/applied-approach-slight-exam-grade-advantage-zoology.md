@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 1909 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Gilbert 1909: the intervention came bundled with another change; groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Beginners' zoology sections taught by economic (applied) versus cultural (pure-science) approaches differed little on a pure-science final examination, with a slight edge to the applied section. [→ Gilbert 1909](#gilbert-1909)

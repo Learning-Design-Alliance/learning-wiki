@@ -26,6 +26,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
 > **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2012**: local conditions change quickly
+> **Design limits** · Duncan Chaplin 2009: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Funding for the program and study was cut in 2008, so both were scheduled to conclude in 2009. [→ Duncan Chaplin 2009](#duncan-chaplin-2009)

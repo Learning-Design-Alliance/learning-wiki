@@ -26,6 +26,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
 > **Currency** · newest study 2022 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
+> **Design limits** · Ramadoni 2022: groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Prior achievement level significantly affected conceptual understanding, F(2,63)=4.20, p=.019, partial η2=.118; method also significant, F(1,63)=6.05, p=.017, partial η2=.088. [→ Ramadoni 2022](#ramadoni-2022)

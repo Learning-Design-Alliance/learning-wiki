@@ -34,6 +34,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
 > **Currency** · newest study 2023 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
+> **Design limits** · Hanna Grimm · Peter A. Edelsbrunner · Kornelia Möller 2023: groups were assigned but students were analysed as independent · Hanna Grimm · Peter A. Edelsbrunner · Kornelia Möller 2023 (2): groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Prior knowledge significantly predicted posttest reasoning from irrelevant events in the control condition (F = 4.39, p < 0.001) but not in the experimental condition (F = 0.4, p = 0.054). [→ Hanna Grimm · Peter A. Edelsbrunner · Kornelia Möller 2023](#hanna-grimm-peter-a-edelsbrunner-kornelia-moller-2023)

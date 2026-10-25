@@ -26,6 +26,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
 > **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Naihobe Gonzalez 2018: the intervention came bundled with another change (missing grade-level content/instruction from being pulled out of other classes) (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 

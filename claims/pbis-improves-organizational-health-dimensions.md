@@ -45,6 +45,6 @@ Group-randomized controlled effectiveness trial of PBIS in 37 elementary schools
 
 
 ## Related Claims
-- [Changes in school organizational health may be a contextual mediator of PBIS effects on student performance](organizational-health-mediates-pbis-student-outcomes.md) — related
+- Changes in school organizational health may be a contextual mediator of PBIS effects on student performance — related
 - [PBIS effects on collegial leadership and institutional integrity were significant only when implementation fidelity was included in the model](pbis-collegial-leadership-fidelity-model.md) — related
 - [Later-implementing PBIS schools showed the greatest organizational health improvements, while fast adopters started higher](pbis-later-implementers-greatest-gains.md) — related

@@ -26,6 +26,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
 > **Currency** · newest study 2004 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
+> **Design limits** · Nagaoka 2004: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` Most retained third and sixth graders in the 1998 and 1999 cohorts failed to reach the promotional cutoff during their retained year, even with a mid-year test opportunity. [→ Nagaoka 2004](#nagaoka-2004)

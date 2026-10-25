@@ -33,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q1`–`q2`
 > **Currency** · newest study 1911 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Winch 1911 (2): the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` In the single exceptional school, in a very poor neighborhood, the group working early in the morning improved more rapidly than the group working later. [→ Winch 1911](#winch-1911)

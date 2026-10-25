@@ -27,6 +27,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
 > **Currency** · newest study 2023 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2026: tool and model accuracy changes quickly
+> **Design limits** · J. Patrick Meyer 2023: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Math RMSDs between observed spring RIT and norms-predicted scores were consistently larger for the pilot group, while reading predictions were similar across groups. [→ J. Patrick Meyer 2023](#j-patrick-meyer-2023)

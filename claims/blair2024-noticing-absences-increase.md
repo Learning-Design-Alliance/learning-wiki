@@ -33,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q2`
 > **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Blair 2024: the intervention came bundled with another change · Blair 2024 (2): the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Participants were significantly more likely to notice the absence of students building on each other's ideas (McNemar p = .03; 6% pre to 41% post). [→ Blair 2024](#blair-2024)

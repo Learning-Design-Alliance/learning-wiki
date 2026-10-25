@@ -34,6 +34,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
 > **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: local conditions change quickly
+> **Design limits** · Fong 2025 (2): no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` 93 percent of Air Tutors students in District A met or exceeded the 24-hour threshold, compared with only 16 percent in District B. [→ Fong 2025](#fong-2025)

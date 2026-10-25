@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 1913 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Emma Kohnky 1913: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Although the treated class showed greater fatigue in the October tapping test, it showed less fatigue by May, gaining 2.9% in endurance over the untreated class on the left hand (and 2.4% on the right). [→ Emma Kohnky 1913](#emma-kohnky-1913)

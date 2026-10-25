@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
 > **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Li 2020: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` During in-school implementation, teachers reported issues with digital game loading time, though students navigated the game without significant problems once it loaded. [→ Li 2020](#li-2020)

@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q3` · `i1` small
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Linda Froese 2022: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i1` Learners tended to give higher quality judgments to lengthier examples (G = .22), and their examples were shorter than the expert examples. [→ Linda Froese 2022](#linda-froese-2022)

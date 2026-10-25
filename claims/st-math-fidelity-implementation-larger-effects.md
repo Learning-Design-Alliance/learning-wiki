@@ -33,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i2` medium
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Wendt 2019: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i2` In the fidelity subsample (239 schools, 14 states), combined-grade proficiency effects were 0.35 SD and scale-score effects 0.31 SD, significant after BH correction. [→ Wendt 2019](#wendt-2019)

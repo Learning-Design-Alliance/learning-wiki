@@ -33,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
 > **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Julia A. Gwynne and Sarah Cashdollar 2018 (2): the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Elementary improvements in passing rates were significantly higher in extensive-PD schools than limited-PD schools, despite higher academic demand in those schools. [→ Julia A. Gwynne and Sarah Cashdollar 2018](#julia-a-gwynne-and-sarah-cashdollar-2018)

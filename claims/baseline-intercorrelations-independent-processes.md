@@ -24,6 +24,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
 > **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2015**: tool and model accuracy changes quickly
+> **Design limits** · Dry MJ 2012: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` Baseline correlations among the task measures were mostly non-significant, indicating the tasks measured different aspects of cognitive functioning. [→ Dry MJ 2012](#dry-mj-2012)

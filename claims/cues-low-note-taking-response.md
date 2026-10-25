@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
 > **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Sarah Manlove 2007: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Only 3.83% of cues triggered note taking, though 9.82% of PC+ notes were taken in response to a cue and 5.98% of cues led to other PC actions. [→ Sarah Manlove 2007](#sarah-manlove-2007)

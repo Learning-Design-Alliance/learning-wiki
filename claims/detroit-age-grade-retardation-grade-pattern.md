@@ -47,3 +47,4 @@ Conference report of an age-grade survey of Detroit schools in which children we
 
 ## Related Claims
 - [Brighter pupils tend to work below capacity: the authors argue the greatest wastage exists among the brightest children, who may keep up to group averages while working under their ability](bright-children-below-capacity.md) — related
+- [Pedagogical retardation is far more prevalent than acceleration in American school systems, with retardation-to-acceleration ratios reported from several cities.](wallin-1911-retardation-prevalence-ratios.md) — related

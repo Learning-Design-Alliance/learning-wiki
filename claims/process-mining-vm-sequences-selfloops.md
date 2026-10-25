@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q2`
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Omarchevska 2022: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` In the VM conditions, Monitoring and Control had strong self-loops and were not tied to specific scientific reasoning processes, whereas in the control condition Problem Identification, Hypothesis Generation, and Monitoring were disconnected from other processes with no self-loops. [→ Omarchevska 2022](#omarchevska-2022)

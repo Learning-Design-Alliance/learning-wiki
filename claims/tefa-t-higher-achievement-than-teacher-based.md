@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Maksum 2022: groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Experimental-class students taught with TEFA-T scored significantly higher on post-test learning achievement than control-class students taught with teacher-based instruction (Sig. 2-tailed 0.000 < 0.05). [→ Maksum 2022](#maksum-2022)
@@ -45,7 +46,7 @@ Quasi-experimental non-equivalent control group design over 10 working weeks wit
 
 
 ## Related Claims
-- [The TEFA-T model significantly improves students' metacognitive skills compared with conventional instruction](tefa-t-improves-metacognitive-skills.md) — related
+- [Students taught with the TEFA-T model rated their own metacognitive skills higher than a conventionally taught class](tefa-t-improves-metacognitive-skills.md) — related
 - [The TEFA-T model and its supporting products are rated Very Practical by instructors and students](tefa-t-very-practical-rating.md) — related
 - [The TEFA-T model syntax meets goodness-of-fit criteria in confirmatory factor analysis, supporting its construct validity](tefa-t-syntax-construct-validity-cfa.md) — related
 - [The TEFA-T model improves students' critical thinking skills on all measured indicators compared with conventional instruction](tefa-t-improves-critical-thinking-skills.md) — related

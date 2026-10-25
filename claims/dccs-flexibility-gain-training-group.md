@@ -24,6 +24,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
 > **Currency** · newest study 2020 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
+> **Design limits** · Honoré N 2020: groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` The text reports a greater performance increase in the experimental (1.48 ± 2.87) than the control (0.70 ± 2.86) group on the DCCS, while Table 6 prints a non-significant interaction (F = 0.30, p = 0.583). [→ Honoré N 2020](#honore-n-2020)

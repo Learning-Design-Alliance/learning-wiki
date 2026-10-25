@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
 > **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Vuorre 2021: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` Across six multiple-choice mathematics experiments, the correlation between proportion correct and resolution metrics was positive and significant for ROC-based metrics in every experiment. [→ Vuorre 2021](#vuorre-2021)

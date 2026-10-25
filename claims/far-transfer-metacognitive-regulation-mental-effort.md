@@ -26,6 +26,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
 > **Currency** · newest study 2025 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
+> **Design limits** · Wirth 2025: the intervention came bundled with another change; groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` After training, students in the two training groups were better able to metacognitively regulate their mental effort than students in the control group, indicating far transfer from a cognitive learning strategy to a resource management strategy. [→ Wirth 2025](#wirth-2025)

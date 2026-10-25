@@ -34,6 +34,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i2` medium
 > **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Hanna Grimm · Peter A. Edelsbrunner · Kornelia Möller 2023: groups were assigned but students were analysed as independent · Hanna Grimm · Peter A. Edelsbrunner · Kornelia Möller 2023 (2): groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 

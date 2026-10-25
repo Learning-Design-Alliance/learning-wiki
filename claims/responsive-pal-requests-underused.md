@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
 > **Currency** · newest study 2006 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Kim 2006: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Interaction logs showed that responsive-condition students made fewer requests than half the total number of ideas the responsive PAL was designed to deliver. [→ Kim 2006](#kim-2006)

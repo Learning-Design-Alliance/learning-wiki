@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Strauß 2021: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Open-ended responses in the post-questionnaire rarely addressed the prompts; the few students mentioning them said they ignored them as generic. [→ Strauß 2021](#strau-2021)

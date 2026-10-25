@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q1`
 > **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Rakib 2025: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q1 i?` The article reports that the ET and MR conditions produced the highest quiz scores, but relies on a single modality could reduce engagement over time due to diminished novelty. [→ Rakib 2025](#rakib-2025)

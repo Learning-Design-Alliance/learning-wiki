@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
 > **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Lee 2017: no comparison group; groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` The majority (90%) of the pictorial group reported that pictorial elucidation helped improve their accurate use of vocabulary, citing clearer meaning contrasts and increased enjoyment and concentration. [→ Lee 2017](#lee-2017)

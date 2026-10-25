@@ -33,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q2`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Ruqi Sun 2026: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` In a controlled deception experiment, only 1 of 12 participants detected the source-card mismatch; the remaining 11 accepted it without hesitation. [→ Ruqi Sun 2026](#ruqi-sun-2026)

@@ -33,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q1`
 > **Currency** · newest study 1913 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Winch 1913 (2): the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q1 i?` The Head Master's visual-exposure method averaged 22.9 words correct and the assistant's combined method 23.0, a difference the author judged uninterpretable. [→ Winch 1913](#winch-1913)

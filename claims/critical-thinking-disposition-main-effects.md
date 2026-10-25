@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Critical thinking disposition showed significant positive main effects on motivation and learning outcomes across all dialogue formats, with no format interaction
-description: Critical thinking disposition showed significant positive main effects on motivation and learning outcomes across all dialogue formats, with no format interaction
+title: High school students with a stronger critical thinking disposition reported higher motivation and self-rated understanding across all TTS dialogue formats, with no format interaction
+description: Among 222 first-year high school students, critical thinking disposition was associated with higher self-reported ARCS motivation and a two-item self-rating of understanding after each of three text-to-speech lesson formats; learning was not tested and the association is not a cause
 id: critical-thinking-disposition-main-effects
 status: review
 generated:
@@ -20,14 +20,14 @@ sources:
     rigour: 1
 ---
 
-# Critical thinking disposition showed significant positive main effects on motivation and learning outcomes across all dialogue formats, with no format interaction
+# High school students with a stronger critical thinking disposition reported higher motivation and self-rated understanding across all TTS dialogue formats, with no format interaction
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q2 i?` The RCE factor and critical thinking disposition showed significant positive main effects on ARCS motivation regardless of lesson format; critical thinking disposition also showed a significant positive main effect on learning outcomes. [→ Fumie Watanabe 2026](#fumie-watanabe-2026)
+`q2 i?` In mixed-effects models, the RCE factor and critical thinking disposition were positively associated with self-reported ARCS motivation regardless of lesson format, and critical thinking disposition with self-rated understanding ("I understood the main points of the lesson well"; "I think I could explain the main content of the lesson to a friend"), which the authors label learning outcomes; no test of learning was given. [→ Fumie Watanabe 2026](#fumie-watanabe-2026)
 
 ## Evidence
 
@@ -37,7 +37,7 @@ Fumie Watanabe, Tota Suko, Takashi Ishida, Yuko Kuma, Manabu Kobayashi, Shigeich
 
 `q2 · i?` · `causal · r1`
 
-Summary of main effects from the linear mixed-effects models (N = 222). Correlation analysis also showed critical thinking disposition positively correlated with ARCS motivation (r = .26–.29, p < .001) and learning outcomes (r = .29–.35, p < .001) across all three formats.
+Summary of main effects from the linear mixed-effects models (N = 222), in a within-subjects design where every student saw all three formats in a fixed order. All outcomes were 5-point self-ratings: ARCS motivation a 4-item scale, and "learning outcomes" a 2-item self-rating of understanding, not a test; critical thinking disposition was measured, not manipulated, so its effects are associations. Correlation analysis also showed critical thinking disposition positively correlated with ARCS motivation (r = .26–.29, p < .001) and learning outcomes (r = .29–.35, p < .001) across all three formats.
 
 > "For ARCS-based motivation, the RCE factor and critical thinking disposition showed significant positive main effects, and the CE factor showed a trend toward significance"
 

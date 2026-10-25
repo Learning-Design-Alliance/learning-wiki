@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
 > **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Catherine Pratt 2023: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` Students who participated in virtual group tutoring reported positive relationships with their tutors, and reported relationship quality varied little across tutors. [→ Catherine Pratt 2023](#catherine-pratt-2023)

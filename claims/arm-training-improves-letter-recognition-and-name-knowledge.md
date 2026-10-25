@@ -33,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2`–`r3` · `q4` · `i1` small
 > **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Fernando Núñez-Regueiro 2024 (2): groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q4 i1` The arm training group was almost twice as likely to score high on letter recognition as the combined other groups (d = .356). [→ Fernando Núñez-Regueiro 2024](#fernando-nunez-regueiro-2024)

@@ -26,6 +26,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
 > **Currency** · newest study 2008 · checked against its sources 2026-10-16 (automated, 1 of 1 entry) · not reviewed by a person
+> **Design limits** · Takako Nomi and Elaine M. Allensworth 2008: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` Among all but the very lowest-ability below-norm groups, algebra grades increased by .05 to .06 points, while the very lowest-ability students showed declines in algebra grades of .08 points with no significant changes in failure. [→ Takako Nomi and Elaine M. Allensworth 2008](#takako-nomi-and-elaine-m-allensworth-2008)

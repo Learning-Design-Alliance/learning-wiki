@@ -33,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
 > **Currency** · newest study 1913 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Winch 1913: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` A week of 10-second card exposures with 20-second writing-from-memory, including extra exposures of the harder words, yielded a class average of 20.8 words correct on the final dictation. [→ Winch 1913](#winch-1913)

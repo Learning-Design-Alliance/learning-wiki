@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q3` · `i2` medium
 > **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Gehlbach 2021: groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i2` Focal students of treatment teachers earned higher subject competency scores in the identifying teacher's class than focal students of control teachers (Cohen's d = 0.45, 95% CI 0.03-0.90). [→ Gehlbach 2021](#gehlbach-2021)

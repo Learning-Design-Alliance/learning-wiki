@@ -34,6 +34,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
 > **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
+> **Design limits** · Han Xue 2026: the intervention came bundled with another change · Han Xue 2026 (2): the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Socratic feedback's dialogic prompting appeared to support reflective monitoring, with follow-up questioning observed only in Socratic groups. [→ Han Xue 2026](#han-xue-2026)

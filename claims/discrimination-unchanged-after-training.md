@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
 > **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Kristin Kolloff 2025: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` Relative monitoring accuracy (discrimination) showed no significant change from pretest to posttest, independent of condition. [→ Kristin Kolloff 2025](#kristin-kolloff-2025)

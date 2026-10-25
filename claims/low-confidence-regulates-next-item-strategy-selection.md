@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
 > **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Marie Geurten & Patrick Lemaire 2017: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` Phi correlations between RCJ on one problem and better strategy selection on the next were significantly negative in both tasks and both age groups, and remained significant after partialling out current-problem selection. [→ Marie Geurten & Patrick Lemaire 2017](#marie-geurten-patrick-lemaire-2017)

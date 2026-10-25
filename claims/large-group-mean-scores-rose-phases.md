@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Tatiana Íñiguez-Berrozpe 2025: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` G1's mean answer score rose continually during the session, with notable increases from phase 4 on questions 1 and 2 and in question 4 in phase 5, while question 3 rose only slightly and stagnated in phase 7. [→ Tatiana Íñiguez-Berrozpe 2025](#tatiana-iniguez-berrozpe-2025)

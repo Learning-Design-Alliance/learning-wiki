@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q1`
 > **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Blair 2024: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q1 i?` Pairs uniformly ranked Dialog E (completely student-led) best, followed by Dialog C (extensive teacher eliciting). [→ Blair 2024](#blair-2024)

@@ -26,6 +26,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
 > **Currency** · newest study 2024 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
+> **Design limits** · Lindquist 2024: groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` The retention quizzes produced statistically significant improvements in long-term retention despite the study design preventing immediate feedback and not ensuring students reviewed delayed feedback. [→ Lindquist 2024](#lindquist-2024)

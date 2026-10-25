@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
 > **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Roland G. Fryer 2010: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` DC input incentives produced a .152 (.092) SD increase in reading (marginally significant) and .114 (.106) SD in math (not significant) with controls. [→ Roland G. Fryer 2010](#roland-g-fryer-2010)

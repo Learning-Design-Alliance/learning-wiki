@@ -45,7 +45,7 @@ Linear mixed-effects model for single-item overall evaluation (N = 222; Marginal
 
 
 ## Related Claims
-- [Critical thinking disposition showed significant positive main effects on motivation and learning outcomes across all dialogue formats, with no format interaction](critical-thinking-disposition-main-effects.md) — related
+- [High school students with a stronger critical thinking disposition reported higher motivation and self-rated understanding across all TTS dialogue formats, with no format interaction](critical-thinking-disposition-main-effects.md) — related
 - [Interactions between learner characteristics and dialogue format for learning outcomes showed only trends toward significance, not significant effects](learning-outcome-interactions-trend-only.md) — related
 - [Student–student and teacher–teacher dialogue formats elicited significantly higher ARCS motivation than the teacher–student format](ss-tt-higher-motivation-than-ts.md) — related
 - [In TTS dialogue-based lessons, the teacher–teacher format significantly moderates the motivation effects of both the CE factor (positive) and the RCE factor (negative)](tt-format-moderates-ce-rce-motivation.md) — related

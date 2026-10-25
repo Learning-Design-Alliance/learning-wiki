@@ -33,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 > **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Catherine P. Bradshaw 2010 (2): the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 <!-- title before 2026-10-14: The percentage of SWPBIS-school students with an office discipline referral declined significantly over the trial -->
 
 ## Subclaims

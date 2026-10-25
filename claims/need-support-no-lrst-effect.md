@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
 > **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Louise Maddens 2023: groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` The univariate effect of condition on LRST posttest was not significant, F(1,194) = 2.45, p = 0.120; equivalence was not tested. [→ Louise Maddens 2023](#louise-maddens-2023)

@@ -23,6 +23,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3` · `i3` large
 > **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Yuill N 2014: groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i3` In Study 2 there was a significant interaction between playset and behavior, F(2, 18) = 33.82, p < 0.001, η2 = 0.79, with cooperative play more frequent in the AKC condition, F(1, 32) = 71.48, p < 0.001. [→ Yuill N 2014](#yuill-n-2014)

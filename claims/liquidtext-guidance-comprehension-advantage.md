@@ -26,6 +26,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
 > **Currency** · newest study 2021 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
+> **Design limits** · Jordan Lombard 2021: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i3` Undergraduate students guided to use LiquidText's functions outperformed the control group on multiple document comprehension with d = 1.41. [→ Jordan Lombard 2021](#jordan-lombard-2021)

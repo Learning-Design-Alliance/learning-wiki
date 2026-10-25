@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Ramadoni 2022: groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Prior achievement level showed no significant effect on self-efficacy, F(2,64)=1.59, p=.213, partial η2=.047. [→ Ramadoni 2022](#ramadoni-2022)

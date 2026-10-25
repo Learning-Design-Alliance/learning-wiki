@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
 > **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Sibley 2025: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i2` When controlling for answer format, both long-term (β = 0.28) and immediate (β = 0.17) learning outcomes were significantly better in adaptive teaching units. [→ Sibley 2025](#sibley-2025)

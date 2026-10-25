@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
 > **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Randi A. Engle 2011: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i3` Students in the expansive condition transferred 78% of what they knew about the differential pressure principle versus 55% in the bounded condition (d = .95; F(1,20) = 5.42, p = .03). [→ Randi A. Engle 2011](#randi-a-engle-2011)

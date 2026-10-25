@@ -14,7 +14,7 @@ sources:
     resource: "https://doi.org/10.1007/s11409-011-9079-3"
     title: "Krebs, S.S., Roebers, C.M. (2012). The impact of retrieval processes, age, general achievement level, and test scoring scheme for children's metacognitive monitoring and controlling. Metacognition and Learning 7, 75–90. https://doi.org/10.1007/s11409-011-9079-3"
     author: Krebs, S.S., Roebers, C.M.
-    q: 3
+    q: 2
     i: "?"
     kind: causal
     rigour: "?"
@@ -23,11 +23,11 @@ sources:
 # High achievers are more accurate than low achievers in metacognitive monitoring and controlling during test taking
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · causal `r?` · `q3`
+> **Evidence** · 1 study · causal `r?` · `q2`
 > **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q3 i?` High achievers proved more accurate than low achievers in metacognitive monitoring and controlling. [→ Krebs 2012](#krebs-2012)
+`q2 i?` In a comparison of pre-existing groups, high achievers proved more accurate than low achievers in metacognitive monitoring and controlling. [→ Krebs 2012](#krebs-2012)
 
 ## Evidence
 
@@ -35,9 +35,9 @@ sources:
 
 Krebs, S.S., Roebers, C.M. (2012). The impact of retrieval processes, age, general achievement level, and test scoring scheme for children's metacognitive monitoring and controlling. Metacognition and Learning 7, 75–90. https://doi.org/10.1007/s11409-011-9079-3
 
-`q3 · i?` · `causal · r?`
+`q2 · i?` · `causal · r?`
 
-Experimental study of N = 150 children comparing high and low achievers on metacognitive monitoring and control during a cloze test; the article reports that "high compared to low achievers proved to be more accurate in their metacognitive monitoring and controlling." No effect size is printed.
+Study of N = 150 children aged 9/10 and 11/12 comparing pre-existing groups of high and low achievers (achievement level was a characteristic of the children, not an assigned condition, so the comparison is non-randomised and the difference is an association) on metacognitive monitoring and control during a cloze test; the article reports that "high compared to low achievers proved to be more accurate in their metacognitive monitoring and controlling." No effect size is printed.
 
 > "As to the influence of achievement level, high compared to low achievers proved to be more accurate in their metacognitive monitoring and controlling."
 

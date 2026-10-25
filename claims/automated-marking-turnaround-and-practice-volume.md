@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Matey Yordanov 2026: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` System telemetry showed turnaround of 11.2 days (SD=2.4) for human grading versus 0.1 days (SD=0.2) for the automated system, with 4.1 times the practice volume completed. [→ Matey Yordanov 2026](#matey-yordanov-2026)

@@ -45,6 +45,7 @@ Latent change score model fitted on the same simulated data (acceptable fit: χ2
 
 
 ## Related Claims
+
 - [Additional modified models suggest a positive effect of change in achievement on contemporaneous change in self-concept](change-in-achievement-predicts-contemporaneous-self-concept-change.md) — reports the opposite
 - [RI-CLPM on simulated PALMA-like data shows positive reciprocal cross-lagged effects between within-individual math achievement and self-concept](riclpm-simulated-palma-positive-reciprocal-effects.md) — reports the opposite
 - [Reanalyses of simulated and PALMA data provide converging support for the extended reciprocal effects model, including an effect of academic self-concept on achievement](reanalyses-converging-support-extended-rem-asc-effect.md) — reports the opposite
@@ -55,3 +56,4 @@ Latent change score model fitted on the same simulated data (acceptable fit: χ2
 - [EF longitudinally predicts later SRL in children, supporting the notion that EF predicts SRL but not vice versa](ef-predicts-srl-longitudinally.md) — related
 - [Correcting the wave-1 change-score misspecification in Sorjonen et al.'s LCSM yields a proper solution with positive effects between academic self-concept and achievement](corrected-lcsm-proper-solution-positive-asc-ach-effects.md) — reports the opposite
 - [In elementary school, achievement predicts later self-concept of ability but prior self-concept does not significantly predict later achievement when achievement is modeled with both marks and tests integrated](skill-development-model-elementary-helmke-1995.md) — reports the opposite
+- [Academic buoyancy and adaptability show reciprocal cross-lagged effects over time, each a medium effect (β = .07, p < .01) in latent modeling](buoyancy-adaptability-reciprocal-cross-lagged-effects.md)

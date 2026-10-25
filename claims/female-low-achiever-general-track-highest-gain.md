@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
 > **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Annelies Raes 2013: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` Based on the significant three-way interaction of Girl × Low Achiever × General Track, female low achievers from the general track started with significantly lower pretest scores (7.7) but achieved the highest learning gains (17.9). [→ Annelies Raes 2013](#annelies-raes-2013)

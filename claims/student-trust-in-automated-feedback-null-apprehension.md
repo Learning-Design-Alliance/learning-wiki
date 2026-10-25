@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Matey Yordanov 2026: the intervention came bundled with another change; groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` An independent samples t-test on Trust in Automated Feedback Validity showed no statistically significant apprehension; students explicitly favoured the objective, granular marginalia over conventional human remarks. [→ Matey Yordanov 2026](#matey-yordanov-2026)

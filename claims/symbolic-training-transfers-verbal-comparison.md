@@ -23,6 +23,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
 > **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Honoré N 2016: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i3` Only the symbolic training group significantly improved in verbal (spoken) number comparison, indicating transfer beyond the Arabic format. [→ Honoré N 2016](#honore-n-2016)

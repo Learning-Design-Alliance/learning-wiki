@@ -33,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2` · `i2`–`i3`
 > **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Ramsburg 2015: groups were assigned but students were analysed as independent · Ramsburg 2015 (2): groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i2` Across blocks 6–10 the Confirmatory-Only condition outperformed the Complete condition, ηp2 = .096. [→ Ramsburg 2015](#ramsburg-2015)

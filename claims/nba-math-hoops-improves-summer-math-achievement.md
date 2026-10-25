@@ -33,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`–`q4` · `i1` small
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · McKinney 2026: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q4 i1` In a 2-year RCT with 256 students, NBA Math Hoops students scored 0.19 SD higher in composite math than control students (β = 0.19, p < 0.05), equivalent to an 8-percentile-point gain. [→ McKinney 2026](#mckinney-2026)

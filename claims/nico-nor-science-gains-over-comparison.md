@@ -23,6 +23,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · science-gains-1: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Children in the eight intervention classrooms improved significantly more in science learning than children in the six comparison classrooms, in both score-gain and post-test regression models. [→ science-gains-1](#science-gains-1)

@@ -29,6 +29,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 causal `r2` · `q2` · `i3` large
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Yao X-C and Fan L 2026 (2): groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i3` Comprehension correlated with revision quality at r = 0.501, stronger than diagnostic accuracy (r = 0.445) and actionability (r = 0.480). [→ Yao X-C and Fan L 2026](#yao-x-c-and-fan-l-2026)

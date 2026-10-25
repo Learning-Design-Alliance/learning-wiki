@@ -42,6 +42,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies (3 entries) · 1 causal `r2`, 1 review `r2` · `q2`–`q3`
 > **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Sabatini John P. 2011 (2): the intervention came bundled with another change (regular adult literacy classroom instruction received by all intervention participants) (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 

@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Kakimoto Akihiro 2026: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` All 20 participants reported that radiation invisible during conventional training became perceptible in VR, and all 20 reported operability differences, citing absent haptic feedback and distance-judgment difficulty. [→ Kakimoto Akihiro 2026](#kakimoto-akihiro-2026)

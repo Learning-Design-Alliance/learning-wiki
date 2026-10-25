@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q1`
 > **Currency** · newest study 1999 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Jelke van Der Pal 1999: the intervention came bundled with another change (Tarski's World combined a formal language with interactive graphics and situated activity) (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q1 i?` Within developmental situativity theory, learning is basically a non-symbolic inductive process, and formal systems greatly enhance it by acting as tools. [→ Jelke van Der Pal 1999](#jelke-van-der-pal-1999)

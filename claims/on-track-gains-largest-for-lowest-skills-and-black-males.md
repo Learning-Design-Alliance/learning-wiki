@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Roderick 2014: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Students with incoming EXPLORE scores below 12 gained 24.5 percentage points in on-track rates, the largest gain of any EXPLORE category. [→ Roderick 2014](#roderick-2014)

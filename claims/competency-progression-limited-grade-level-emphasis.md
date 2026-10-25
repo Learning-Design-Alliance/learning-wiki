@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
 > **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · John F. Pane 2015: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Students' ability to work at their own pace and advance upon mastery was limited by a perceived need to emphasize grade-level content, driven by standards and standardized testing constraints. [→ John F. Pane 2015](#john-f-pane-2015)

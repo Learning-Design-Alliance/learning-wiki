@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Lorenz Weise 2022: the intervention came bundled with another change (an additional 1000 ms of easier stimulus material in the info-seeking condition) (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` Accuracy in the info-seeking condition significantly exceeded both the explicit reports and wagering conditions, which were only marginally different from each other. [→ Lorenz Weise 2022](#lorenz-weise-2022)

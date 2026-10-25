@@ -26,6 +26,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2` · `i3` large
 > **Currency** · newest study 2021 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
+> **Design limits** · Strauß 2021: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i3` Group-aggregated satisfaction correlated strongly and negatively with the gini coefficient of participation in both tasks (rho(15) = −.61 and rho(15) = −.72), confirming H2. [→ Strauß 2021](#strau-2021)

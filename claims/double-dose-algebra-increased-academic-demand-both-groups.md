@@ -34,6 +34,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 > **Currency** · newest study 2010 · checked against its sources 2026-10-15 (automated, 2 of 2 entries) · not reviewed by a person
+> **Design limits** · Takako Nomi 2010: the intervention came bundled with another change · Takako Nomi 2010 (2): the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` Post-policy above-norm students reported greater academic demand by 0.12 SD (p<0.001), explained mostly by improved peer ability levels. [→ Takako Nomi 2010](#takako-nomi-2010)

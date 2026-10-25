@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Nicole Shechtman 2019: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Treatment teachers reported one-on-one instruction on a mean of 49.9% of total log days versus 27.0% in the control group (t = 12.3, p < .0001). [→ Nicole Shechtman 2019](#nicole-shechtman-2019)

@@ -26,6 +26,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
+> **Design limits** · McConvey 2026: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` One of seven initially selected methods, xOrder, was excluded because it is defined only for binary sensitive attributes and its dynamic program is computationally intractable at institutional scale; the article treats this inapplicability as a finding. [→ McConvey 2026](#mcconvey-2026)

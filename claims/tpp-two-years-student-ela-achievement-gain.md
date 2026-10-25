@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Dolfin 2019: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` After two years of teacher participation, impacts on students' ELA achievement were roughly equivalent to 1.4 months of typical student improvement, moving an average student at the 50th percentile to the 54th percentile. [→ Dolfin 2019](#dolfin-2019)

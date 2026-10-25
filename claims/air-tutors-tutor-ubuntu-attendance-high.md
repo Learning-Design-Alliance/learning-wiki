@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
 > **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Fong 2025: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` 82 percent of District A tutors and 94 percent of District B tutors attended all three Ubuntu professional learning sessions, meeting the full attendance threshold. [→ Fong 2025](#fong-2025)

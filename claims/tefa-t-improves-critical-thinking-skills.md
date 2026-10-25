@@ -26,6 +26,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2022 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
+> **Design limits** · Maksum 2022: groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` After ten weeks, TEFA-T students had better critical thinking skills on all indicators (analysis, evaluation, inference, deductive and inductive reasoning) than students in conventional classes. [→ Maksum 2022](#maksum-2022)
@@ -51,7 +52,7 @@ Per-indicator comparison plotted in Figure 5 from the quasi-experimental study (
 
 - [Direct CT instruction combined with modeling, coaching, and discussion yields more consistent CT improvement than implicit teaching strategies](direct-ct-instruction-outperforms-implicit-strategies.md) — the general claim this finding bears on, with the studies behind it
 - [The TEFA-T model produces significantly higher learning achievement than teacher-based instruction in automotive vocational courses](tefa-t-higher-achievement-than-teacher-based.md) — related
-- [The TEFA-T model significantly improves students' metacognitive skills compared with conventional instruction](tefa-t-improves-metacognitive-skills.md) — related
+- [Students taught with the TEFA-T model rated their own metacognitive skills higher than a conventionally taught class](tefa-t-improves-metacognitive-skills.md) — related
 - Emancipating problem solvers tend toward skeptical, inductive, critical thinking while technical solvers tend toward pre-determined, deductive methods — related
 - [The TEFA-T model and its supporting products are rated Very Practical by instructors and students](tefa-t-very-practical-rating.md) — related
 - [The TEFA-T model syntax meets goodness-of-fit criteria in confirmatory factor analysis, supporting its construct validity](tefa-t-syntax-construct-validity-cfa.md) — related

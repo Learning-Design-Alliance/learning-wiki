@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
 > **Currency** · newest study 2006 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · What Works Clearinghouse 2006: groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` The WWC assigned the rating of potentially positive effects because the single study showed a statistically significant positive average effect, but the program did not meet criteria for positive effects because it had only one study meeting standards. [→ What Works Clearinghouse 2006](#what-works-clearinghouse-2006)

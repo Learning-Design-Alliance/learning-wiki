@@ -34,6 +34,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i2` medium
 > **Currency** · newest study 2024 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
+> **Design limits** · Gülüzar Eymur · Pınar Seda Çetin 2024: groups were assigned but students were analysed as independent · Gülüzar Eymur · Pınar Seda Çetin 2024 (2): groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i2` Post-test personal epistemology of science scores differed significantly between groups (t(65) = 3.05, p < .05, d = 0.79), while value of science and self-efficacy subscales did not differ. [→ Gülüzar Eymur · Pınar Seda Çetin 2024](#guluzar-eymur-pnar-seda-cetin-2024)

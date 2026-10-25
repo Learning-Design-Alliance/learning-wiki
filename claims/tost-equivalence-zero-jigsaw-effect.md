@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Arnaud Stanczak 2022: groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` Two one-sided tests rejected both equivalence bounds in Experiments 1 and 2, indicating observed jigsaw effects were statistically equivalent to zero. [→ Arnaud Stanczak 2022](#arnaud-stanczak-2022)

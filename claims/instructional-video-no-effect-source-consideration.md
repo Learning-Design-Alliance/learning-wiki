@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Colin Lescarret 2022: the intervention came bundled with another change (a mandatory 7-item multiple-choice quiz after the instructional video) (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` No main effect of the instructional video on recognition scores (η²p=.001) and no association with choosing the researcher as most convincing (Cramer's V=.029). [→ Colin Lescarret 2022](#colin-lescarret-2022)

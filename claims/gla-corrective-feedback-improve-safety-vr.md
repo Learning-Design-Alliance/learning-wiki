@@ -34,6 +34,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i0`–`i3`
 > **Currency** · newest study 2025 · checked against its sources 2026-10-21 (automated, 2 of 2 entries) · not reviewed by a person
+> **Design limits** · Valdemar Stenberdt 2025 (2): the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i3` Both GLA groups showed a large, significant improvement in remembering safety instructions (gloves and lab coat) from after the lesson to after the GLA. [→ Valdemar Stenberdt 2025](#valdemar-stenberdt-2025)

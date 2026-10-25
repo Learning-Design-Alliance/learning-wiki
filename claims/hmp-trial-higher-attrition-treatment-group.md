@@ -45,7 +45,7 @@ Baseline equivalence and missingness analyses in the N=662 intention-to-treat sa
 
 
 ## Related Claims
-- [The meditation app improves well-being skills (self-compassion, loneliness, cognitive defusion, perseverative thinking, well-being, meaning) that persist at follow-up, except mindful action](hmp-improves-well-being-skills-persisting.md) — related
+- [The meditation app improves school employees' self-reported well-being skills (self-compassion, loneliness, cognitive defusion, perseverative thinking, well-being, meaning), persisting at follow-up except for mindful action](hmp-improves-well-being-skills-persisting.md) — related
 - [The meditation app showed no evidence of elevated adverse events, with lower odds of symptom worsening at post-test](hmp-no-elevated-adverse-events.md) — related
 - [A four-week smartphone meditation app reduces psychological distress in school system employees at post-intervention and three-month follow-up](hmp-reduces-psychological-distress-school-employees.md) — related
 - [App benefits on distress are as large or larger among participants with elevated baseline anxiety and depressive symptoms](hmp-benefits-elevated-baseline-symptoms.md) — related

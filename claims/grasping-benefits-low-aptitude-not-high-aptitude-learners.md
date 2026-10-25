@@ -34,6 +34,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i2`–`i3`
 > **Currency** · newest study 2023 · checked against its sources 2026-10-22 (automated, 2 of 2 entries) · not reviewed by a person
+> **Design limits** · Manuela Macedonia 2023: the intervention came bundled with another change · Manuela Macedonia 2023 (2): the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i2` The AVOG × Aptitude interaction was significant (b = -0.70; p = .048, d = 0.42), indicating condition effects differed by aptitude group. [→ Manuela Macedonia 2023](#manuela-macedonia-2023)

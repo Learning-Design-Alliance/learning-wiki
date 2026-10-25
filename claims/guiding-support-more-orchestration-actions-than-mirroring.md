@@ -26,6 +26,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2021 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
+> **Design limits** · Ishari Amarasinghe; Davinia Hernández-Leo; H. Ulrich Hoppe 2021: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` In authentic classroom CSCL sessions, guiding support (alert-flagged critical moments) led teachers to make more announcements and more targeted individual and group interactions than mirroring support. [→ Ishari Amarasinghe; Davinia Hernández-Leo; H. Ulrich Hoppe 2021](#ishari-amarasinghe-davinia-hernandez-leo-h-ulrich-hoppe-2021)

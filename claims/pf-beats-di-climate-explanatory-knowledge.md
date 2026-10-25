@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2` · `i2` medium
 > **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Jacobson 2017: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i2` A significant main effect of treatment group favored PF on climate explanatory knowledge (η² = .044), with no significant teacher experience effect or interaction. [→ Jacobson 2017](#jacobson-2017)

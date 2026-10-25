@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2` · `i2` medium
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Mochizuki 2022: groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i2` In Session #3, the experimental condition (reflection with 3D animation) showed significantly more student-centered reflection along the x-axis than the control condition (video only), d = 0.60. [→ Mochizuki 2022](#mochizuki-2022)

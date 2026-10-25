@@ -23,6 +23,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i1` small
 > **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · rct-immediate: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i1` In a cluster randomized controlled trial, grades 4–5 students taught with GEMS® Space Science Sequence scored significantly higher on the Space Science Content test immediately after instruction than comparison students (effect size 0.17, improvement index +7). [→ rct-immediate](#rct-immediate)

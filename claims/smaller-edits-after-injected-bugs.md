@@ -22,6 +22,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
 > **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
+> **Design limits** · rq2-edit-distance: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` Edit distance is lower for i:first than n:first (median 4 vs 24, mean 21.96 vs 93.92), and edit-and-run counts follow the same trend (first turn: 1.51 vs 2.15). [→ rq2-edit-distance](#rq2-edit-distance)

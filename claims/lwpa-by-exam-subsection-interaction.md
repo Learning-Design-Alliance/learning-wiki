@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Tetiana Zubenko 2019: groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` A mixed-factors repeated measures ANOVA found a significant treatment by exam sub-section interaction (F = 3.188, p = .003), with significant differences favouring the LWPA group in both Oral Comprehension sub-sections. [→ Tetiana Zubenko 2019](#tetiana-zubenko-2019)

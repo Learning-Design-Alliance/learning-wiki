@@ -33,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
 > **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Heimbuch 2018 (2): groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` An OLS path analysis with BCa bootstrapping showed DDR students contributed more (a = 8.55), heavier contributors scored higher at post-test (b = 0.024), and the indirect effect ab = .21, 95% CI [.02, .52], excluded zero. [→ Heimbuch 2018](#heimbuch-2018)

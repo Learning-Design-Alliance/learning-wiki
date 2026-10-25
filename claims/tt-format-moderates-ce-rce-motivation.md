@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2` · `i1` small
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Fumie Watanabe 2026: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i1` The interaction between the CE factor and the TT format was significant and positive for ARCS motivation (b = 0.162, p < .001, f = .17). [→ Fumie Watanabe 2026](#fumie-watanabe-2026)
@@ -47,7 +48,7 @@ Linear mixed-effects model analysis of ARCS motivation from 222 first-year high 
 ## Related Claims
 
 - [Instruction should present the learning task as engaging and meaningful and promote positive expectations of success, because effort requires that learners value the task and believe they can succeed](effort-requires-task-value-and-expectation-of-success-arcs-rationale.md) — the general claim this finding bears on, with the studies behind it
-- [Critical thinking disposition showed significant positive main effects on motivation and learning outcomes across all dialogue formats, with no format interaction](critical-thinking-disposition-main-effects.md) — reports the opposite
+- [High school students with a stronger critical thinking disposition reported higher motivation and self-rated understanding across all TTS dialogue formats, with no format interaction](critical-thinking-disposition-main-effects.md) — reports the opposite
 - [Interactions between learner characteristics and dialogue format for learning outcomes showed only trends toward significance, not significant effects](learning-outcome-interactions-trend-only.md) — related
 - [Student–student and teacher–teacher dialogue formats elicited significantly higher ARCS motivation than the teacher–student format](ss-tt-higher-motivation-than-ts.md) — related
 - [The teacher–teacher format received a significantly lower overall evaluation than the teacher–student format despite raising motivation, with no significant learner-characteristic interactions](tt-lower-overall-evaluation-divergence.md) — related

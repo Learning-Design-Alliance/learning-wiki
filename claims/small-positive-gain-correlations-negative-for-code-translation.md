@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 1918 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Dearborn 1918: groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Rank correlations between percentage gain in code practice and test gains were small (largest 35±7 for Test 5), and the negative correlation on Test 5 argues for interference between the two directions of code translation. [→ Dearborn 1918](#dearborn-1918)

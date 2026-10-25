@@ -33,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
 > **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Evaluation of the Networks for School Improvement Initiative: Interim Summary Report 2024: no comparison group · Evaluation of the Networks for School Improvement Initiative: Interim Summary Report 2024 (2): no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` About 61 percent of schools engaged in inquiry cycles and, of initiated cycles with artifacts, on average 50 percent were complete across all four PDSA phases. [→ Evaluation of the Networks for School Improvement Initiative: Interim Summary Report 2024](#evaluation-of-the-networks-for-school-improvement-initiative-interim-summary-report-2024)

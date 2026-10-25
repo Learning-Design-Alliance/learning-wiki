@@ -33,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q2`
 > **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Karin D. Könings 2010: groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` The gap between teachers' and students' perceptions narrowed more in experimental groups than controls in classes 3, 4, and 5. [→ Karin D. Könings 2010](#karin-d-konings-2010)

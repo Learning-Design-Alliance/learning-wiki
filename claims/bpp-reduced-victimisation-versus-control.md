@@ -33,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
 > **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Peadar Donohoe and Carmel O’Sullivan 2015: groups were assigned but students were analysed as independent · Peadar Donohoe and Carmel O’Sullivan 2015 (2): groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` By the end of the 18-month study period, victimisation reportage was 23.4% at the research school versus 51.4% at the control school, a 119.7% differential, after near-identical baselines of 40.5% and 42.4%. [→ Peadar Donohoe and Carmel O’Sullivan 2015](#peadar-donohoe-and-carmel-osullivan-2015)

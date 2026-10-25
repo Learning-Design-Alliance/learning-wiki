@@ -23,6 +23,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
 > **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Yuill N 2014: groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i3` Creativity of the joint narrative correlated positively with amount of cooperative play per child, r(33) = 0.72, p < 0.001, and negatively with parallel play, r(33) = −0.42, p < 0.05. [→ Yuill N 2014](#yuill-n-2014)

@@ -26,6 +26,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q2`
 > **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2028: baselines and conditions change
+> **Design limits** · Feng 2023: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Intervention and comparison groups performed equivalently at baseline (Hedges' g = 0.08, not significant), and after the intervention both remained about 8 points below the Level 3 proficiency cut score. [→ Feng 2023](#feng-2023)

@@ -34,6 +34,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 > **Currency** · newest study 2019 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
+> **Design limits** · Elise H. Eshuis 2019: groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` Condition had an overall multivariate effect on communication variables (Wilk's Λ = .446), with instruction-with-tool students significantly higher than control on domain-related talk, responsive talk, critical statements, questions asking for agreement and (dis)confirmations, and significantly lower on off-task, negative and informative talk. [→ Elise H. Eshuis 2019](#elise-h-eshuis-2019)

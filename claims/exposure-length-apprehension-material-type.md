@@ -33,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
 > **Currency** · newest study 1910 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Whipple 1910 (2): the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` With a 6-sec exposure the average number of objects named was 6.03, only slightly above the 4-to-5 objects named in a 0.08-sec exposure. [→ Whipple 1910](#whipple-1910)

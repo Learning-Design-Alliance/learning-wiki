@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i0` negligible
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Elise H. Eshuis 2019: groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i0` The significant post-hoc effects were instruction-with-tool versus control and versus instruction-only; none represented an instruction-only versus control difference (e.g., domain-related talk ηp2 = .237 driven by the tool condition). [→ Elise H. Eshuis 2019](#elise-h-eshuis-2019)

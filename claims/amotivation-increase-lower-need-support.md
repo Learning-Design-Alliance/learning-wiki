@@ -33,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2` · `i1`–`i2`
 > **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Louise Maddens 2023: groups were assigned but students were analysed as independent · Louise Maddens 2023 (2): groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i2` Overall amotivation rose from pretest (M = 1.77, SD = 0.79) to posttest (M = 2.26, SD = 0.89), d = -0.524. [→ Louise Maddens 2023](#louise-maddens-2023)

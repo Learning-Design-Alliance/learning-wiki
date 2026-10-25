@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Barbara Harris 2022: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Among students who attended Math Corps from 2004 to 2009, few had encounters with the criminal justice system. [→ Barbara Harris 2022](#barbara-harris-2022)

@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
 > **Currency** · newest study 2001 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · P. van den Broek 2001: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` College students instructed to read expository text for study produced more explanatory inferences than students reading for entertainment. [→ P. van den Broek 2001](#p-van-den-broek-2001)

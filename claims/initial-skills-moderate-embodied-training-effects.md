@@ -34,6 +34,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r3` · `q4` · `i1`–`i2`
 > **Currency** · newest study 2024 · checked against its sources 2026-10-22 (automated, 2 of 2 entries) · not reviewed by a person
+> **Design limits** · Fernando Núñez-Regueiro 2024: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q4 i2` The negative arm-body effect on letters written under dictation was detrimental for low-skilled students only and beneficial for high-skilled students (interaction d = .438). [→ Fernando Núñez-Regueiro 2024](#fernando-nunez-regueiro-2024)

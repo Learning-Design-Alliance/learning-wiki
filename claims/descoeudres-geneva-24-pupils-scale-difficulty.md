@@ -46,3 +46,4 @@ Study of 24 Geneva pupils, one bright and one dull boy and girl from each of the
 
 ## Related Claims
 - [Taylor's Sheffield study suggests the Binet scale is broadly suitable for English children, though tests for ages 6 and 7 seem too easy and tests above 11 seem unsatisfactory.](sheffield-103-children-binet-suitable-english-ages-6-7-easy.md) — related
+- [Girls aged three to six outperform boys on color naming tests at all ages and on color perception tests except at age five (Monroe)](girls-excel-boys-color-tests-ages-three-to-six.md) — related

@@ -33,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i3` large
 > **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Early Intervention in Reading® 2008 (2): the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` In a randomized controlled trial, the study authors found, and the WWC confirmed, statistically significant positive effects of EIR® on both alphabetics measures. [→ Early Intervention in Reading® 2008](#early-intervention-in-reading-2008)

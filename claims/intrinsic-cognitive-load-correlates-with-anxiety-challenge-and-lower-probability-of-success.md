@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2` · `i2` medium
 > **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Gupta 2020: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i2` Intrinsic cognitive load correlated positively with QCM anxiety (r = .324) and challenge (r = .221), and negatively with probability of success (r = -.299), all p < .01. [→ Gupta 2020](#gupta-2020)

@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i0` negligible
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Arnaud Stanczak 2022: groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i0` Sixth graders taught mathematics via the jigsaw procedure scored no higher than peers who studied the same material individually (d = -0.04). [→ Arnaud Stanczak 2022](#arnaud-stanczak-2022)

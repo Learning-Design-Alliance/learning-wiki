@@ -26,6 +26,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
 > **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
+> **Design limits** · Matey Yordanov 2026: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Thematic analysis of student portfolios showed rapid "error-type decay": intervention students corrected procedural misconceptions (e.g., misapplication of the chain rule) weeks ahead of control peers. [→ Matey Yordanov 2026](#matey-yordanov-2026)

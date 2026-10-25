@@ -34,6 +34,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
 > **Currency** · newest study 2013 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
+> **Design limits** · Li Shenghui 2013 (2): the intervention came bundled with another change (a corresponding delay in school finishing time (from 3:30pm to 4:00pm or 4:30pm)) (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Post-intervention, short sleep duration prevalence was 44.27% in control, 22.88% in intervention 1, and 11.87% in intervention 2 schools. [→ Li Shenghui 2013](#li-shenghui-2013)

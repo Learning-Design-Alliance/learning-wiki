@@ -33,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Mohamed Farrag Ahmed Badawi 2019: groups were assigned but students were analysed as independent · Mohamed Farrag Ahmed Badawi 2019 (2): the intervention came bundled with another change; groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Experimental group post-RCT mean (15.73) significantly exceeded control group mean (8.22), t = 14.29, p < 0.0001. [→ Mohamed Farrag Ahmed Badawi 2019](#mohamed-farrag-ahmed-badawi-2019)

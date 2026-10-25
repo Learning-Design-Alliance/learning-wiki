@@ -33,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q1`
 > **Currency** · newest study 1922 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Thorndike 1922 (2): no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q1 i?` Inspection of the adults' answers to why magnets are bent into U form showed impulsive, uncritical, and confused thinking to a notable degree. [→ Thorndike 1922](#thorndike-1922)

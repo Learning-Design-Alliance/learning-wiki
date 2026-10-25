@@ -26,6 +26,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
 > **Currency** · newest study 2011 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
+> **Design limits** · Freeman Scott 2011: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` High levels of course structure had a statistically significant impact on reducing failure rates independent of changes in student characteristics (p = 0.00004), while moderate structure showed only a marginal effect (p = 0.06). [→ Freeman Scott 2011](#freeman-scott-2011)

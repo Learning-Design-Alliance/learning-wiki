@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i0` negligible
 > **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · First Step to Success: WWC Intervention Report 2012: groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i0` Walker et al. (2009) found no statistically significant difference between treatment and comparison groups on oral reading fluency, and the WWC-rated domain effect was –0.04. [→ First Step to Success: WWC Intervention Report 2012](#first-step-to-success-wwc-intervention-report-2012)
@@ -46,6 +47,6 @@ RCT in Albuquerque Public Schools comparing 101 intervention with 97 control stu
 
 ## Related Claims
 - [First Step to Success shows potentially positive but not statistically significant effects on emotional/internal behavior (effect size 0.26)](first-step-success-internal-behavior-substantive-nonsig.md) — related
-- [First Step to Success shows potentially positive effects on other academic performance (SSRS Academic Competence, effect size 0.32)](first-step-success-positive-academic-competence.md) — related
+- [First Step to Success shows potentially positive effects on teacher-rated academic competence (SSRS Academic Competence, effect size 0.32)](first-step-success-positive-academic-competence.md) — related
 - [First Step to Success shows potentially positive effects on social outcomes (average improvement index +23)](first-step-success-positive-social-outcomes.md) — related
 - [First Step to Success has positive effects on external behavior for children at risk for emotional disturbance (average improvement index +28)](first-step-success-positive-external-behavior.md) — related

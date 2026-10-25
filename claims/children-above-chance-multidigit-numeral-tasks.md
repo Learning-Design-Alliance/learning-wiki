@@ -26,6 +26,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
 > **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2019**: baselines and conditions change
+> **Design limits** · Mix 2014: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` Kindergarten, first-, and second-grade children performed significantly above chance on Which is x? and Which is more? tasks across numerals, blocks, and dots conditions. [→ Mix 2014](#mix-2014)

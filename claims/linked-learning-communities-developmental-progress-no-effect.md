@@ -33,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r3` · `q3`
 > **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · What Works Clearinghouse 2014 (2): the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` None of the six studies showed a statistically significant or substantively important effect on progress through developmental education. [→ What Works Clearinghouse 2014](#what-works-clearinghouse-2014)

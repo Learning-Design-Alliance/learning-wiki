@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2` · `i3` large
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Kakimoto Akihiro 2026: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i3` Students rated perceived realism and immersion higher after conventional training (mean 4.44, SD 0.52) than VR-based training (mean 3.48, SD 0.70), r=0.774, P<.001. [→ Kakimoto Akihiro 2026](#kakimoto-akihiro-2026)

@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
 > **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Andrew Wayne 2018: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` In the pay-for-performance study, about 40 percent of teachers were unaware they were eligible to receive a performance bonus, indicating the policy as implemented differed from the envisioned approach. [→ Andrew Wayne 2018](#andrew-wayne-2018)

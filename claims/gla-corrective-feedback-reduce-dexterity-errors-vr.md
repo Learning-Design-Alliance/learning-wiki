@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q3` · `i3` large
 > **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Valdemar Stenberdt 2025: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i3` Both groups significantly improved dexterity (fewer pipetting mistakes) from after the lesson to after the GLA. [→ Valdemar Stenberdt 2025](#valdemar-stenberdt-2025)

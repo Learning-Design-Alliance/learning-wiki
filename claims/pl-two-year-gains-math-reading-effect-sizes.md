@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2` · `i1` small
 > **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · John F. Pane 2015: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i1` Over two years, personalized learning students' mathematics growth exceeded matched comparison students' growth with an effect size of 0.27. [→ John F. Pane 2015](#john-f-pane-2015)

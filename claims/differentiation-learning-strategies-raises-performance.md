@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i0` negligible
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Carla Haelermans 2022: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i0` In a class-level randomized experiment, students in differentiated classes scored significantly higher on end-of-intervention grades, with a small standardized effect size of 0.1 of a standard deviation. [→ Carla Haelermans 2022](#carla-haelermans-2022)

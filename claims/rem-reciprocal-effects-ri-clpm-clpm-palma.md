@@ -96,3 +96,4 @@ Reanalysis of the PALMA longitudinal study (five annual waves of mathematics dat
 - [Student-teacher closeness, conflict and dependency, students' motivation, and academic achievement inform each other across the elementary grades](transactional-relations-motivation-relationships-achievement-k6.md) — related
 - [Adding cross-lagged effects significantly improves model fit over autoregressive models for every model tested](cross-lagged-improve-fit-over-autoregressive.md) — related
 - [When marks and tests are modeled as separate latent variables with cross-lagged effects between them, effects of self-concept on achievement completely disappear](separate-indicators-self-concept-effects-disappear.md) — reports the opposite
+- [Academic buoyancy and adaptability show reciprocal cross-lagged effects over time, each a medium effect (β = .07, p < .01) in latent modeling](buoyancy-adaptability-reciprocal-cross-lagged-effects.md)

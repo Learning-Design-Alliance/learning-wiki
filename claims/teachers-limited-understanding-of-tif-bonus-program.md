@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
 > **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Hanley Chiang 2017: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` About 40 percent of teachers eligible to receive a bonus knew they could, and teachers typically thought the maximum bonus they could earn was about 40 percent of the actual maximum. [→ Hanley Chiang 2017](#hanley-chiang-2017)

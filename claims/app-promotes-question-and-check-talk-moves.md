@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
 > **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Dominguez 2021: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Intervention families tended to use the talk moves asks a question and checks for understanding more frequently than comparison families, with the difference more pronounced in after-viewing prompts. [→ Dominguez 2021](#dominguez-2021)

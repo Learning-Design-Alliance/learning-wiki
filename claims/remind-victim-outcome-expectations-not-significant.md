@@ -54,4 +54,4 @@ Paired t-test on distance from the target value of 100 in the play-testing study
 - [During REMind, nearly all children reported feeling sad for the victim and attributed bystander inaction mainly to low confidence or fear of retaliation](remind-qualitative-perspective-taking-themes.md) — related
 - [Children who chose to comfort the victim reported higher self-efficacy and victim-help expectations than those who chose to confront the bully (descriptive, imbalanced groups)](remind-strategy-choice-descriptive-differences.md) — related
 - [REMind did not significantly increase measured empathy, but baseline human-directed empathy correlated positively with robot-directed empathy](remind-empathy-null-and-robot-empathy-correlation.md) — related
-- [By the end of the study all learner focus groups understood bullying as repeated aggression and reported being confident defenders](learners-learned-definition-and-defending.md) — related
+- [At the end of the study all learner focus groups said they understood bullying as repeated aggression and reported being confident defenders](learners-learned-definition-and-defending.md) — related

@@ -41,6 +41,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · causal `r2` · `q3`
 > **Currency** · newest study 2003 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Triona 2003: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` Domain knowledge about variable effects improved from before to after experimentation in both the spring and ramp domains, with no overall condition main effect. [→ Triona 2003](#triona-2003)

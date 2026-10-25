@@ -42,6 +42,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · causal `r3` · `q3`
 > **Currency** · newest study 2014 · checked against its sources 2026-10-20 (automated, 3 of 3 entries) · not reviewed by a person
+> **Design limits** · What Works Clearinghouse 2014 (2): the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` Across the six studies, none showed a statistically significant overall effect on postsecondary enrollment. [→ What Works Clearinghouse 2014](#what-works-clearinghouse-2014)

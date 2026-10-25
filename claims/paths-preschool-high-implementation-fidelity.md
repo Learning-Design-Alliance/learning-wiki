@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
 > **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Domitrovich 2007: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Monthly coordinator ratings showed high overall means for fidelity, generalization, and openness to consultation, indicating teachers delivered the curriculum as designed. [→ Domitrovich 2007](#domitrovich-2007)

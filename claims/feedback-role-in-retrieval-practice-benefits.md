@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q1`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Meng Cao & Paulo F. Carvalho 2026: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q1 i?` The authors state the benefits observed reflect retrieval practice with feedback rather than retrieval alone, with feedback possibly refining representations and supporting comparison across instances. [→ Meng Cao & Paulo F. Carvalho 2026](#meng-cao-paulo-f-carvalho-2026)

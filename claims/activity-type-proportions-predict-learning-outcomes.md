@@ -33,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 > **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Molenaar 2011: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` A 10% increase above the mean in own cognitive activities predicted 6.35 points higher domain knowledge; group mates' relational activities predicted 6.67 points higher. [→ Molenaar 2011](#molenaar-2011)

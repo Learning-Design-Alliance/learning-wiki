@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 1914 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · H. H. Hahn and E. L. Thorndike 1914: the intervention came bundled with another change (uncontrolled out-of-school practice, which pupils were free to do during the experiment) (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Pupils given 90 minutes of distributed practice in adding columns gained about 50 per cent in examples correct and nearly one per cent per minute of practice. [→ H. H. Hahn and E. L. Thorndike 1914](#h-h-hahn-and-e-l-thorndike-1914)

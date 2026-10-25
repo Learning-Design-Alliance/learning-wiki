@@ -26,6 +26,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
 > **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · recheck by 2026: baselines and conditions change
+> **Design limits** · Eberle 2021: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Cumulated face-to-face contact durations measured by RFID badges were heavily skewed, with 20-second contacts most frequent and contact duration not normally distributed. [→ Eberle 2021](#eberle-2021)

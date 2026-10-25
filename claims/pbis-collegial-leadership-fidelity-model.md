@@ -45,7 +45,7 @@ In the same 37-school group-randomized trial, the multilevel analyses showed the
 
 
 ## Related Claims
-- [Changes in school organizational health may be a contextual mediator of PBIS effects on student performance](organizational-health-mediates-pbis-student-outcomes.md) — related
+- Changes in school organizational health may be a contextual mediator of PBIS effects on student performance — related
 - [Within schools, principal leadership relates to individual teachers' instruction through multiple pathways, with the strongest via program quality (professional development and coherence)](leadership-instruction-within-schools-program-quality.md) — related
 - [PBIS improves staff-reported overall school organizational health, resource influence, staff affiliation, and academic emphasis over a 5-year randomized trial](pbis-improves-organizational-health-dimensions.md) — related
 - [Later-implementing PBIS schools showed the greatest organizational health improvements, while fast adopters started higher](pbis-later-implementers-greatest-gains.md) — related

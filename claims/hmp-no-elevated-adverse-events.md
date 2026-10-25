@@ -48,6 +48,6 @@ Exploratory logistic regression models with preregistered covariates on N=662, c
 ## Related Claims
 - [Most participants assigned to the app downloaded it, but fewer engaged, averaging about 11 days and 128 minutes of practice over four weeks](hmp-app-engagement-adherence-pattern.md) — related
 - [App benefits on distress are as large or larger among participants with elevated baseline anxiety and depressive symptoms](hmp-benefits-elevated-baseline-symptoms.md) — related
-- [The meditation app improves well-being skills (self-compassion, loneliness, cognitive defusion, perseverative thinking, well-being, meaning) that persist at follow-up, except mindful action](hmp-improves-well-being-skills-persisting.md) — related
+- [The meditation app improves school employees' self-reported well-being skills (self-compassion, loneliness, cognitive defusion, perseverative thinking, well-being, meaning), persisting at follow-up except for mindful action](hmp-improves-well-being-skills-persisting.md) — related
 - [A four-week smartphone meditation app reduces psychological distress in school system employees at post-intervention and three-month follow-up](hmp-reduces-psychological-distress-school-employees.md) — related
 - [Attrition was significantly higher in the app group than in the wait-list control group](hmp-trial-higher-attrition-treatment-group.md) — related

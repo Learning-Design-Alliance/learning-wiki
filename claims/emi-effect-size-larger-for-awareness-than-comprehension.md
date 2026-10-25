@@ -33,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q2` · `i1` small
 > **Currency** · newest study 2019 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
+> **Design limits** · Mohamed Farrag Ahmed Badawi 2019: groups were assigned but students were analysed as independent · Mohamed Farrag Ahmed Badawi 2019 (2): groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 <!-- title before 2026-10-15: Effect of explicit morphology instruction is larger on morphological awareness (MGR 1.28) than on reading comprehension (MGR 1.06, below the accepted 1.2 minimum) -->
 
 ## Subclaims

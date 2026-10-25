@@ -33,7 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q2`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
-> **Design limits** · Ismael I 2026: groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
+> **Design limits** · Ismael I 2026: groups were assigned but students were analysed as independent · Ismael I 2026 (2): groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Fifty pre-service teachers in 10 schools were assigned at the school level by simple lottery to experimental (5 schools, n = 25) or control (5 schools, n = 25) conditions within a quasi-experimental embedded mixed-methods design. [→ Ismael I 2026](#ismael-i-2026)

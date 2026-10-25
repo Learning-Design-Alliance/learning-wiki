@@ -26,6 +26,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
 > **Currency** · newest study 2009 · checked against its sources 2026-10-17 (automated, 1 of 1 entry) · not reviewed by a person
+> **Design limits** · Curiosity Corner 2009: groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` The study authors report a statistically significant effect on MSEL Expressive Language for 3-year-old children but not for 4-year-old children; WWC calculations find the differences not statistically significant for either age group. [→ Curiosity Corner 2009](#curiosity-corner-2009)

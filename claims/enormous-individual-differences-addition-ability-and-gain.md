@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 1914 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · H. H. Hahn and E. L. Thorndike 1914: the intervention came bundled with another change (permitted out-of-school/home practice, which the study did not prevent or measure) (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Within the same grade, initial ability in adding ranges enormously and gains from the same amount of practice also differ greatly between individuals. [→ H. H. Hahn and E. L. Thorndike 1914](#h-h-hahn-and-e-l-thorndike-1914)

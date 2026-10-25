@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
 > **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Khan Abdus Salam 2025: no comparison group; the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Intervention participants identified role-play as particularly effective for clarifying consent-taking concepts and building confidence. [→ Khan Abdus Salam 2025](#khan-abdus-salam-2025)

@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
 > **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Valentina Nachtigall 2021: groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` Perceived authenticity was positively associated with situational interest, replicating prior OSL findings, but showed no association with knowledge-test performance. [→ Valentina Nachtigall 2021](#valentina-nachtigall-2021)

@@ -33,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Jaeseo Lim and Jooyong Park 2026: groups were assigned but students were analysed as independent · Jaeseo Lim and Jooyong Park 2026 (2): groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` The indirect effect of condition on immediate learning through substantive comments was significant (ab = 1.73, 95% CI [0.46, 3.38]), indicating partial mediation. [→ Jaeseo Lim and Jooyong Park 2026](#jaeseo-lim-and-jooyong-park-2026)

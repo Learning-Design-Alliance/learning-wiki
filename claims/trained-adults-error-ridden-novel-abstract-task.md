@@ -33,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
 > **Currency** · newest study 1922 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Thorndike 1922 (2): no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` On 15 test problems, adult learners' scores ranged from 0 to about 12.5 correct with a median of 5, showing substantial inadequacy and confusion. [→ Thorndike 1922](#thorndike-1922)

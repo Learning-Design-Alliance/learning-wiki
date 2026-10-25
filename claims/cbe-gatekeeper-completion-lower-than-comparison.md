@@ -43,6 +43,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies (3 entries) · 1 causal `r1`, 1 associational `r?` · `q2`
 > **Currency** · newest study 2016 · checked against its sources 2026-10-15 (automated, 3 of 3 entries) · not reviewed by a person
+> **Design limits** · Person 2016 (2): the intervention came bundled with another change (online information technology programs) (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 

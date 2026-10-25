@@ -26,6 +26,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
 > **Currency** · newest study 2005 · checked against its sources 2026-10-16 (automated, 1 of 1 entry) · not reviewed by a person
+> **Design limits** · Chwen Jen Chen 2005: groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` The learning mode × learning style interaction was not significant (F(2, 177) = 1.762, p < 0.175), so the effect of learning mode did not depend on learning style. [→ Chwen Jen Chen 2005](#chwen-jen-chen-2005)

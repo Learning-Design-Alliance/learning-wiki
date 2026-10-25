@@ -26,6 +26,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2022**: tool and model accuracy changes quickly
+> **Design limits** · Casey Inez Canfield & Baruch Fischhoff & Alex Davis 2019: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` Across two experiments, participants' mean confidence (85%) exceeded mean accuracy (67%), and calibration was generally good while resolution was very poor. [→ Casey Inez Canfield & Baruch Fischhoff & Alex Davis 2019](#casey-inez-canfield-baruch-fischhoff-alex-davis-2019)

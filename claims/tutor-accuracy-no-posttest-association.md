@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q2` · `i0` negligible
 > **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Smit 2025: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i0` Correlations between percentage of correct tutor operations and posttest measures were negligible (r = .05, −.01, .04), with Bayes evidence for zero correlations. [→ Smit 2025](#smit-2025)

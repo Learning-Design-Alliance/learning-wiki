@@ -26,6 +26,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
 > **Currency** · newest study 2020 · checked against its sources 2026-10-19 (automated, 1 of 1 entry) · not reviewed by a person
+> **Design limits** · Valentina Nachtigall · Katja Serova · Nikol Rummel 2020: groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Across two quasi-experimental studies (212 and 152 10th graders) comparing Productive Failure to direct instruction for social science research methods, PF students did not outperform DI students. [→ Valentina Nachtigall · Katja Serova · Nikol Rummel 2020](#valentina-nachtigall-katja-serova-nikol-rummel-2020)

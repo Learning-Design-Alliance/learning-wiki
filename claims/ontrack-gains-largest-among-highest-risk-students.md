@@ -34,6 +34,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
 > **Currency** · newest study 2021 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
+> **Design limits** · Roderick 2021 (2): the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Among students with EXPLORE scores below 12, Freshman OnTrack rates increased 25 percentage points, from 41.6 to 66.1 percent, between 2005 and 2013. [→ Roderick 2021](#roderick-2021)

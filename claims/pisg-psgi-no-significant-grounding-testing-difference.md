@@ -33,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 > **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Esther Tan 2018 (2): groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` There was no significant difference between the PISG and PSGI script conditions on high-level grounding and high-level testing, and the effect sizes were small. [→ Esther Tan 2018](#esther-tan-2018)

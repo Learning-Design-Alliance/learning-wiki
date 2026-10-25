@@ -26,6 +26,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
 > **Currency** · newest study 2022 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
+> **Design limits** · Yang 2022: groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` PSTs in the analytics-enhanced knowledge building class developed collaborative inquiry competencies for community knowledge advancement, outperforming a comparison class using portfolio-based reflective assessment. [→ Yang 2022](#yang-2022)

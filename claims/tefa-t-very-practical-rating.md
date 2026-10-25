@@ -26,6 +26,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2022 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
+> **Design limits** · Maksum 2022: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Practicality ratings from 16 instructors and 64 students placed the TEFA-T model book, syntax, handbook, and lecturer and student manuals in the Very Practical category (overall average 4.56, achievement 90.02%). [→ Maksum 2022](#maksum-2022)
@@ -51,4 +52,4 @@ Written practicality survey administered before the effectiveness test to 16 ins
 - [The TEFA-T model syntax meets goodness-of-fit criteria in confirmatory factor analysis, supporting its construct validity](tefa-t-syntax-construct-validity-cfa.md) — related
 - [Experts rate the model's individual elements as appropriate at the highest level overall (Mean = 4.65, S.D. = 0.27), with learning achievement output rated High](cilm-individual-elements-assessment.md) — related
 - [Eleven experts rated the tentative STEM-ICT instructional model as appropriate at a high level](stem-ict-model-expert-evaluation-high.md) — related
-- [The TEFA-T model significantly improves students' metacognitive skills compared with conventional instruction](tefa-t-improves-metacognitive-skills.md) — related
+- [Students taught with the TEFA-T model rated their own metacognitive skills higher than a conventionally taught class](tefa-t-improves-metacognitive-skills.md) — related

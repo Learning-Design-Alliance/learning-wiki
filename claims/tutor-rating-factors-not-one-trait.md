@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
 > **Currency** · newest study 1995 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Schmidt 1995: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Confirmatory factor analysis showed neither a one-factor nor a two-factor (process/content) hypothesis fitted the tutor-rating data entirely satisfactorily. [→ Schmidt 1995](#schmidt-1995)

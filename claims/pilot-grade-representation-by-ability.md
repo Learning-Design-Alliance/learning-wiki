@@ -33,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
 > **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · J. Patrick Meyer 2023: the intervention came bundled with another change; groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` In grade 3 math, only two grade levels were represented in the pilot group versus six in the comparison group; the middle 80% of pilot students had items spanning three grade levels versus six for comparison students. [→ J. Patrick Meyer 2023](#j-patrick-meyer-2023)

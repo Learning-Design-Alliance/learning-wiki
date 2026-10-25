@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 1910 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Foster 1910: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Average final gain with nonsense material was 28% versus 10% with sense-material, attributed to repetition to faultless reproduction, repeated elements, and more opportunities for counting, naming and orderly methods. [→ Foster 1910](#foster-1910)

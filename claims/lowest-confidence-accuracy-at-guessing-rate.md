@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
 > **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Vuorre 2021: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` None of the performance tertiles had accuracy below 25% at the lowest confidence level, with the lowest performers almost exactly at 25%. [→ Vuorre 2021](#vuorre-2021)

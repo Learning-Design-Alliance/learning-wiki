@@ -47,3 +47,5 @@ The review attributes to Goddard's 1911 Training School article a revision built
 ## Related Claims
 - [In Goddard's Vineland examination of 1547 pupils, only about half of mentally over-age and under-age pupils show corresponding advancement or retardation in school grading](goddard-binet-mental-age-vs-pedagogical-age.md) — related
 - [Application of the Stanford Revision to 1000 non-selected children found the intelligence quotient a valid expression of intelligence, practically no sex differences, and social status not a disturbing influence on mental-age estimates.](stanford-revision-1000-non-selected-children-iq-valid-no-sex-differences.md) — related
+- [One-year Binet retest gains average one year of mental rank, with defectives gaining about half a year (Berry)](binet-retest-one-year-gain-berry.md) — related
+- [The Binet-Simon measuring scale is the best systematic experimental device then available for measuring intellectual development, but its norms and level placement require revision.](wallin-1911-binet-scale-status-revision.md) — related

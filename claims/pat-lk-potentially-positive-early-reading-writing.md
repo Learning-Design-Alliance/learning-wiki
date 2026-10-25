@@ -33,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`–`q3` · `i2` medium
 > **Currency** · newest study 2006 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · What Works Clearinghouse 2006: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i2` In Gettinger (1986), the intervention group significantly outperformed the comparison group on four of five early reading/writing measures, with a study average effect size of 0.89 and improvement index +31. [→ What Works Clearinghouse 2006](#what-works-clearinghouse-2006)

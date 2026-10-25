@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
 > **Currency** · newest study 1988 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Ross 1988: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` Reading rate was the only significant stepwise predictor of low-density selections (R2 = .08, p < .01); as reading skills decreased, tendency to select low-density material also decreased. [→ Ross 1988](#ross-1988)

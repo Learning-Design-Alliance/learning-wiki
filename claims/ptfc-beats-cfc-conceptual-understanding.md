@@ -26,6 +26,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
 > **Currency** · newest study 2022 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
+> **Design limits** · Ramadoni 2022: the intervention came bundled with another change; groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` PTFC posttest conceptual understanding (M=78.89) was significantly higher than CFC (M=73.44) after controlling for pretest, F(1,67)=6.51, p=.013. [→ Ramadoni 2022](#ramadoni-2022)

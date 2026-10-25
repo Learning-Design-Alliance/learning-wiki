@@ -26,6 +26,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
 > **Currency** · newest study 2020 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
+> **Design limits** · Brian Gill 2020: the intervention came bundled with another change (the broader Democracy Prep Public Schools charter-school model) (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` The Democracy Prep results provide new evidence that an education focused on preparing students for citizenship can boost civic participation in adulthood. [→ Brian Gill 2020](#brian-gill-2020)

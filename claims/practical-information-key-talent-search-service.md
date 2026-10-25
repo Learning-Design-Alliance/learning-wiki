@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q1`
 > **Currency** · newest study 2006 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Jill M. Constantine 2006: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q1 i?` The authors interpret their findings as suggesting that practical information, such as financial aid application guidance and campus orientation, may have been a key service Talent Search projects delivered. [→ Jill M. Constantine 2006](#jill-m-constantine-2006)

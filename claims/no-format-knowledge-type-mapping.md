@@ -34,6 +34,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 > **Currency** · newest study 2011 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
+> **Design limits** · Kolloffel 2011: groups were assigned but students were analysed as independent · Kolloffel 2011 (2): groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` The hypothesized mapping between representational format and specific knowledge types was not supported; constructing a concept map did not enhance conceptual understanding. [→ Kolloffel 2011](#kolloffel-2011)

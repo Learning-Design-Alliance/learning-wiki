@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
 > **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Jill Constantine 2009: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` Students of alternatively certified teachers who were taking coursework while teaching scored lower in math than students of traditionally certified counterparts. [→ Jill Constantine 2009](#jill-constantine-2009)

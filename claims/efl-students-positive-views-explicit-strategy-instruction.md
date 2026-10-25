@@ -26,6 +26,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2025 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
+> **Design limits** · Üstündağ-Algın 2025: no comparison group; the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` In open-ended questionnaire responses, every experimental group participant reported positive opinions about being explicitly taught the four reading comprehension strategies. [→ Üstündağ-Algın 2025](#ustundag-algn-2025)

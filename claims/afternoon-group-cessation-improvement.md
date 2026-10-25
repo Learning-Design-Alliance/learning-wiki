@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 1912 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Winch 1912: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` One pupil in the morning group and six pupils in the afternoon group ceased to improve, oscillated, and tended on the whole downwards; with about one-third of Group B the late-afternoon work was futile. [→ Winch 1912](#winch-1912)

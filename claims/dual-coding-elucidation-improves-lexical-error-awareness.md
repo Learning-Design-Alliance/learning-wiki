@@ -26,6 +26,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
 > **Currency** · newest study 2017 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
+> **Design limits** · Lee 2017: groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i2` Students studying incorrect and correct usage with verbal-plus-visual code corrected significantly more lexical errors than students studying verbal code only, with a moderate-to-large effect size. [→ Lee 2017](#lee-2017)

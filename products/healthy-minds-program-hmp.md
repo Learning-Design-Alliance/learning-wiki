@@ -27,7 +27,7 @@ Healthy Minds Innovations' Healthy Minds Program is a free smartphone-based medi
 ### Claims
 - [A four-week smartphone meditation app reduces psychological distress in school system employees at post-intervention and three-month follow-up](../claims/hmp-reduces-psychological-distress-school-employees.md) [+M]
 - [Most participants assigned to the app downloaded it, but fewer engaged, averaging about 11 days and 128 minutes of practice over four weeks](../claims/hmp-app-engagement-adherence-pattern.md) [~M]
-- [The meditation app improves well-being skills (self-compassion, loneliness, cognitive defusion, perseverative thinking, well-being, meaning) that persist at follow-up, except mindful action](../claims/hmp-improves-well-being-skills-persisting.md) [+M]
+- [The meditation app improves school employees' self-reported well-being skills (self-compassion, loneliness, cognitive defusion, perseverative thinking, well-being, meaning), persisting at follow-up except for mindful action](../claims/hmp-improves-well-being-skills-persisting.md) [+M]
 
 ## Related Products and Programmes
 -
@@ -51,7 +51,7 @@ A smartphone meditation and well-being training app developed and operated by th
 
 ### Claims
 - [A four-week smartphone meditation app reduces psychological distress in school system employees at post-intervention and three-month follow-up](../claims/hmp-reduces-psychological-distress-school-employees.md) [+M]
-- [The meditation app improves well-being skills (self-compassion, loneliness, cognitive defusion, perseverative thinking, well-being, meaning) that persist at follow-up, except mindful action](../claims/hmp-improves-well-being-skills-persisting.md) [+M]
+- [The meditation app improves school employees' self-reported well-being skills (self-compassion, loneliness, cognitive defusion, perseverative thinking, well-being, meaning), persisting at follow-up except for mindful action](../claims/hmp-improves-well-being-skills-persisting.md) [+M]
 
 ## Related Products and Programmes
 -

@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
 > **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Powell 2009: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` The effect of fact retrieval tutoring on fact retrieval skill depends on whether students have MD alone or concurrent math and reading difficulties. [→ Powell 2009](#powell-2009)

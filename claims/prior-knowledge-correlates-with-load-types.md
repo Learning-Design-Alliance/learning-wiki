@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
 > **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Krieglstein 2025: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i2` Prior knowledge was negatively correlated with delayed ICL (r = −0.24) and delayed ECL (r = −0.28), and positively with delayed GCL (r = 0.31). [→ Krieglstein 2025](#krieglstein-2025)

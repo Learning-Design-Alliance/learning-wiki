@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
 > **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Claire Durwood 2010: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` Very low-skill students were more likely to fail algebra after the policy and showed smaller test score gains than students closer to the cutoff. [→ Claire Durwood 2010](#claire-durwood-2010)

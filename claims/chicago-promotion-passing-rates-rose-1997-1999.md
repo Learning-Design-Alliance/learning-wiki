@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2000 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Roderick 2000: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` By August 1999, 76 percent of third graders, 85 percent of sixth graders and 86 percent of eighth graders met the cutoffs in both reading and math for promotion, an 8-point gain for third graders and 6-point gain for sixth graders over 1997. [→ Roderick 2000](#roderick-2000)
