@@ -30199,7 +30199,6 @@
 "id":"both-spelling-methods-large-improvement-baseline",
 "newest_evidence":"1913",
 "path":"claims/both-spelling-methods-large-improvement-baseline.md",
-"source_checked":"2026-10-25",
 "status":"review",
 "title":"Both directed multisensory and silent visual spelling methods produced large improvement from baseline after 40 minutes of practice spread over four days",
 "type":"claim"
@@ -47357,6 +47356,7 @@
 "id":"combined-spelling-method-beats-visual-standard-iv",
 "newest_evidence":"1913",
 "path":"claims/combined-spelling-method-beats-visual-standard-iv.md",
+"source_checked":"2026-10-25",
 "status":"review",
 "title":"For Standard IV boys (average age 11), a combined articulatory-auditory-visual spelling method with directed attention yields higher dictation scores than a silent visual method without directed attention",
 "type":"claim"

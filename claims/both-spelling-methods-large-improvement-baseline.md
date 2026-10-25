@@ -9,11 +9,10 @@ generated:
   at: 2026-10-24
 evidence_strength: moderate
 newest_evidence: 1913
-source_checked: 2026-10-25
 sources:
   - id: winch-1913
-    resource: "https://www.jstor.org/stable/1412810"
-    title: "Winch, W. H. (1913). Experimental researches on learning to spell. I. The Journal of Educational Psychology. https://www.jstor.org/stable/1412810"
+    resource: "https://doi.org/10.1037/h0075675"
+    title: "Winch, W. H. (1913). Experimental researches on learning to spell. Part I. *Journal of Educational Psychology, 4*(9), 525–537. [doi:10.1037/h0075675](https://doi.org/10.1037/h0075675)"
     author: Winch, W. H.
     q: 3
     i: "?"
@@ -25,7 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 1913 · checked against its sources 2026-10-25 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 1913 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Both the combined method (from average 5.5 to 17.6) and the predominantly visual silent method (from average 5.7 to 15.8) produced substantial improvement in spelling after 40 minutes of practice spread over four days. [→ Winch 1913](#winch-1913)
@@ -34,7 +33,7 @@ sources:
 
 ### Winch 1913
 
-Winch, W. H. (1913). Experimental researches on learning to spell. I. The Journal of Educational Psychology. https://www.jstor.org/stable/1412810
+Winch, W. H. (1913). Experimental researches on learning to spell. Part I. *Journal of Educational Psychology, 4*(9), 525–537. [doi:10.1037/h0075675](https://doi.org/10.1037/h0075675)
 
 `q3 · i?` · `causal · r2`
 

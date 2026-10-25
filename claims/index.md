@@ -2,7 +2,7 @@
 
 Empirical claims with evidence ratings, sources, and competing views.
 
-**27141 entries** · 0 stable · 27141 in review · 0 drafts
+**27140 entries** · 0 stable · 27140 in review · 0 drafts
 
 ---
 
@@ -23555,7 +23555,6 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [The combination of online metacognition measures with complex math assessments is associated with the largest effect sizes](online-complex-combination-largest-effects.md) - The combination of online metacognition measures with complex math assessments is associated with the largest effect sizes
 * [The combined condition had higher learning gains than individual-only and collaborative-only conditions, but only among 4th grade students](combined-condition-higher-gains-grade-four-restricted.md) - The combined condition had higher learning gains than individual-only and collaborative-only conditions, but only among 4th grade students
 * [The combined FCI, FMCE, and EMCS item bank covers all 14 learning objectives with at least six items each, mostly single- or two-LO items](rba-item-bank-covers-14-los.md) - The combined FCI, FMCE, and EMCS item bank covers all 14 learning objectives with at least six items each, mostly single- or two-LO items
-* [The combined method's advantage over the visual method held across ability levels, for weaker as well as abler pupils](combined-method-advantage-weaker-and-abler-standard-iv.md) - The combined method's advantage over the visual method held across ability levels, for weaker as well as abler pupils
 * [The combined theory-driven and data-driven validation approach improved the match rate between trace-based SRL processes and think aloud data from 38.97% to 54.24% (training) and 34.54% to 55.09% (testing)](validation-approach-improves-match-rate.md) - The combined theory-driven and data-driven validation approach improved the match rate between trace-based SRL processes and think aloud data from 38.97% to 54.24% (training) and 34.54% to 55.09% (testing)
 * [The combined training-plus-diary condition improved specific SRL components: SRL knowledge, metacognitive strategies, cognitive strategies (elaboration, organisation, critical thinking), and resource management strategies (time-management, effort regulation)](combined-condition-improved-specific-srl-components.md) - The combined training-plus-diary condition improved specific SRL components: SRL knowledge, metacognitive strategies, cognitive strategies (elaboration, organisation, critical thinking), and resource management strate...
 * [The commentary identifies challenges of integrating central motivational constructs](challenges-integrating-central-motivational-constructs.md) - The commentary identifies challenges of integrating central motivational constructs

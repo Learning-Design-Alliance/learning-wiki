@@ -12,8 +12,8 @@ evidence_strength: moderate
 newest_evidence: 1913
 sources:
   - id: winch-1913
-    resource: "https://www.jstor.org/stable/1412810"
-    title: "Winch, W. H. (1913). Experimental researches on learning to spell. I. The Journal of Educational Psychology. https://www.jstor.org/stable/1412810"
+    resource: "https://doi.org/10.1037/h0075675"
+    title: "Winch, W. H. (1913). Experimental researches on learning to spell. Part I. *Journal of Educational Psychology, 4*(9), 525–537. [doi:10.1037/h0075675](https://doi.org/10.1037/h0075675)"
     author: Winch, W. H.
     q: 3
     i: "?"
@@ -21,7 +21,7 @@ sources:
     rigour: 2
   - id: winch-1913-2
     resource: "https://doi.org/10.1037/h0076021"
-    title: "Winch, W. H. (1913). Experimental Researches on Learning to Spell, Part II. The Journal of Educational Psychology. https://doi.org/10.1037/h0076021"
+    title: "Winch, W. H. (1913). Experimental researches on learning to spell. Part II. *Journal of Educational Psychology, 4*(10), 579–592. [doi:10.1037/h0076021](https://doi.org/10.1037/h0076021)"
     author: Winch, W. H.
     q: 2
     i: "?"
@@ -45,7 +45,7 @@ sources:
 
 ### Winch 1913
 
-Winch, W. H. (1913). Experimental researches on learning to spell. I. The Journal of Educational Psychology. https://www.jstor.org/stable/1412810
+Winch, W. H. (1913). Experimental researches on learning to spell. Part I. *Journal of Educational Psychology, 4*(9), 525–537. [doi:10.1037/h0075675](https://doi.org/10.1037/h0075675)
 
 `q3 · i?` · `causal · r2`
 
@@ -55,7 +55,7 @@ Table II groups the 53 boys into seven ability sections based on preliminary tes
 
 ### Winch 1913 (2)
 
-Winch, W. H. (1913). Experimental Researches on Learning to Spell, Part II. The Journal of Educational Psychology. https://doi.org/10.1037/h0076021
+Winch, W. H. (1913). Experimental researches on learning to spell. Part II. *Journal of Educational Psychology, 4*(10), 579–592. [doi:10.1037/h0076021](https://doi.org/10.1037/h0076021)
 
 `q2 · i?` · `causal · r1`
 

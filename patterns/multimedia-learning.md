@@ -150,7 +150,7 @@ This pattern is scoped to explanations of structures, processes and relations pr
 - [Visual support reduces global sentence reading times and regressions in adult readers](../claims/visual-support-reduces-global-sentence-reading-times.md) [+W]
 - [Accompanying sentences with an image improves comprehension accuracy, significantly so for sentences containing low-frequency words](../claims/visual-support-improves-sentence-comprehension-accuracy.md) [+W]
 - [Students recognized the harm of answer-revealing images only when images clearly revealed the answer](../claims/students-recognize-harm-only-when-images-reveal-answer.md) [~W]
-- [The combined method's advantage over the visual method held across ability levels, for weaker as well as abler pupils](../claims/combined-method-advantage-weaker-and-abler-standard-iv.md) [+W]
+- [The superiority of the combined directed method held across all ability levels, with the advantage present in every section of a grouped correlation table](../claims/spelling-method-advantage-across-ability-levels.md) [+W]
 - [For Standard IV boys (average age 11), a combined articulatory-auditory-visual spelling method with directed attention yields higher dictation scores than a silent visual method without directed attention](../claims/combined-spelling-method-beats-visual-standard-iv.md) [~W]
 
 ## Examples

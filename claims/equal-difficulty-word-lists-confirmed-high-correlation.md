@@ -11,8 +11,8 @@ evidence_strength: moderate
 newest_evidence: 1913
 sources:
   - id: winch-1913
-    resource: "https://www.jstor.org/stable/1412810"
-    title: "Winch, W. H. (1913). Experimental researches on learning to spell. I. The Journal of Educational Psychology. https://www.jstor.org/stable/1412810"
+    resource: "https://doi.org/10.1037/h0075675"
+    title: "Winch, W. H. (1913). Experimental researches on learning to spell. Part I. *Journal of Educational Psychology, 4*(9), 525–537. [doi:10.1037/h0075675](https://doi.org/10.1037/h0075675)"
     author: Winch, W. H.
     q: 3
     i: "?"
@@ -33,7 +33,7 @@ sources:
 
 ### Winch 1913
 
-Winch, W. H. (1913). Experimental researches on learning to spell. I. The Journal of Educational Psychology. https://www.jstor.org/stable/1412810
+Winch, W. H. (1913). Experimental researches on learning to spell. Part I. *Journal of Educational Psychology, 4*(9), 525–537. [doi:10.1037/h0075675](https://doi.org/10.1037/h0075675)
 
 `q3 · i?` · `causal · r1`
 
