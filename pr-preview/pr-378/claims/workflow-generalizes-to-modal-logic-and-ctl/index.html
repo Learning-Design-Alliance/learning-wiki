@@ -1,0 +1,126 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>The workflow generalizes beyond propositional logic, explaining 79.39% of modal logic pairs and 35.89% of CTL pairs - Learning Design Wiki</title>
+<link rel="icon" href="../../branding/lda-monogram-dawn.svg" type="image/svg+xml">
+<link rel="stylesheet" href="../../assets/stylesheets/main.57a0d79d.min.css">
+<link rel="stylesheet" href="../../assets/stylesheets/palette.fb2fffe2.min.css">
+<link rel="stylesheet" href="../../branding/lda-theme.css">
+<style>
+.lt-header{background:var(--md-primary-fg-color);color:var(--md-primary-bg-color);padding:.6rem 1rem;font-size:.8rem}
+.lt-header a{color:inherit;text-decoration:none;margin-right:.6rem}
+.lt-header a:hover{text-decoration:underline}
+.lt-header form{display:inline;float:right}
+.lt-main{max-width:52rem;margin:0 auto;padding:1rem 1.2rem 3rem}
+</style>
+</head>
+<body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
+<script>try{var s=new URL("../../"||".",location).pathname,p=JSON.parse(localStorage.getItem(s+".__palette"));if(p&&p.color){for(var k of ["scheme","primary","accent"])if(p.color[k])document.body.setAttribute("data-md-color-"+k,p.color[k])}}catch(e){}</script>
+<header class="lt-header">
+<a class="lt-logo" href="../../"><img src="../../branding/lda-monogram-lapis.svg" alt="Learning Design Wiki"></a>
+<a href="../../claims/">Claims</a>
+<form class="lt-header-search" action="../../search/" role="search"><input name="q" type="search" placeholder="Search" aria-label="Search the wiki"></form>
+</header>
+<main class="lt-main"><article class="md-typeset" data-pagefind-body data-pagefind-filter="kind:Claim">
+<h1 id="the-workflow-generalizes-beyond-propositional-logic-explaining-7939-of-modal-logic-pairs-and-3589-of-ctl-pairs">The workflow generalizes beyond propositional logic, explaining 79.39% of modal logic pairs and 35.89% of CTL pairs<a class="headerlink" href="#the-workflow-generalizes-beyond-propositional-logic-explaining-7939-of-modal-logic-pairs-and-3589-of-ctl-pairs" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Claim</strong> · <a href="../">All claims</a><br />
+<strong>Evidence</strong> · 1 study (2 entries) · design <code>r2</code> · <code>q2</code><br />
+<strong>Currency</strong> · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly</p>
+</blockquote>
+<h2 id="subclaims">Subclaims<a class="headerlink" href="#subclaims" title="Permanent link">&para;</a></h2>
+<details class="info">
+<summary>Reading the evidence codes</summary>
+<p><code>q</code> is the design tier, <code>i</code> the impact, <code>n</code> the sample, and the kind with its <code>r</code>
+the rigour judged within that kind: <a href="../evidence-codes/">what each code means</a>.</p>
+<p><strong>This claim:</strong> no standardized effect is recorded in <code>observations/</code> for it yet, so no benchmark reading is possible.</p>
+</details>
+<p><code>q2 i?</code> On the modal logic dataset (12482 pairs) the workflow's transformations explain 79.39% of pairs, comparable to the propositional case. <a href="#lilian-killich-2026">→ Lilian Killich 2026</a>
+<code>q2 i?</code> On the CTL dataset (7210 pairs) the workflow's transformations explain 35.89% of pairs, with the two largest transformations explaining 2.98% and 2.48%. <a href="#lilian-killich-2026-2">→ Lilian Killich 2026 (2)</a></p>
+<h2 id="evidence">Evidence<a class="headerlink" href="#evidence" title="Permanent link">&para;</a></h2>
+<h3 id="lilian-killich-2026">Lilian Killich 2026<a class="headerlink" href="#lilian-killich-2026" title="Permanent link">&para;</a></h3>
+<p>Lilian Killich, Marko Schmellenkamp, Fabian Vehlken, Thomas Zeume. (2026). Finding Common Mistakes In Modelling With Mathematical Formalisms Using LLMs. https://arxiv.org/abs/2609.17111 <a href="https://doi.org/10.48550/arxiv.2609.17111">doi:10.48550/arxiv.2609.17111</a></p>
+<p><code>q2 · i?</code> · <code>design · r2</code></p>
+<p>Second experiment set applying the workflow to a modal logic dataset of 12482 pairs (3951 distinct) from prior work; the article reports coverage of "79.39% of the pairs in the data set". No effect size printed.</p>
+<blockquote>
+<p>"For modal logic, the transformations found by our workflow explain 79.39% of the pairs in the data set, which is comparable to the propositional logic case."</p>
+</blockquote>
+<h3 id="lilian-killich-2026-2">Lilian Killich 2026 (2)<a class="headerlink" href="#lilian-killich-2026-2" title="Permanent link">&para;</a></h3>
+<p>Lilian Killich, Marko Schmellenkamp, Fabian Vehlken, Thomas Zeume. (2026). Finding Common Mistakes In Modelling With Mathematical Formalisms Using LLMs. https://arxiv.org/abs/2609.17111</p>
+<p><code>q2 · i?</code> · <code>design · r2</code></p>
+<p>Application to a CTL dataset of 7210 pairs (2695 distinct) collected by the authors with an interactive learning tool in two iterations of an introductory logic course; coverage is "35.89% of the pairs", lower than the other formalisms.</p>
+<blockquote>
+<p>"For CTL, the transformations found by our workflow explain 35.89% of the pairs with the two transformations that explain the largest fractions of the data set being"</p>
+</blockquote>
+<h2 id="discussion">Discussion<a class="headerlink" href="#discussion" title="Permanent link">&para;</a></h2>
+<h2 id="related-claims">Related Claims<a class="headerlink" href="#related-claims" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="../cluster-main-transformations-suitable-for-feedback-with-limits/">Educator inspection found most large clusters' main transformations suitable for feedback, though many required sub-transformations for targeted feedback</a> — related</li>
+<li><a href="../llm-transformations-explain-more-propositional-pairs-than-hand-picked/">On the full propositional logic dataset, LLM-found bug fixing transformations explain 84.44% of pairs versus 71.57% for hand-picked mistakes</a> — related</li>
+<li><a href="../workflow-finds-mistakes-unexplained-by-prior-hand-picked/">The workflow discovers new mistake candidates not explained by prior hand-picked mistakes, such as an exclusive-or-instead-of-negated-conjunction mistake</a> — related</li>
+<li><a href="../workflow-matches-hand-analysis-on-linguistic-operator-subsets/">Across linguistic-operator subdatasets, workflow-found transformations explain at least as many pairs as hand-picked mistakes in most cases</a> — related</li>
+</ul>
+<details class="info">
+<summary>Page metadata</summary>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>type</code></td>
+<td><code>claim</code></td>
+</tr>
+<tr>
+<td><code>id</code></td>
+<td><code>workflow-generalizes-to-modal-logic-and-ctl</code></td>
+</tr>
+<tr>
+<td><code>title</code></td>
+<td><code>The workflow generalizes beyond propositional logic, explaining 79.39% of modal logic pairs and 35.89% of CTL pairs</code></td>
+</tr>
+<tr>
+<td><code>description</code></td>
+<td><code>The workflow generalizes beyond propositional logic, explaining 79.39% of modal logic pairs and 35.89% of CTL pairs</code></td>
+</tr>
+<tr>
+<td><code>status</code></td>
+<td><code>review</code></td>
+</tr>
+<tr>
+<td><code>evidence_strength</code></td>
+<td><code>moderate</code></td>
+</tr>
+<tr>
+<td><code>newest_evidence</code></td>
+<td><code>2026</code></td>
+</tr>
+<tr>
+<td><code>recheck_by</code></td>
+<td><code>2029</code></td>
+</tr>
+<tr>
+<td><code>generated</code></td>
+<td>by <code>process:wiki-ingest</code> on <code>2026-10-11</code></td>
+</tr>
+<tr>
+<td><code>trust</code></td>
+<td>unverified — no one has confirmed this page's content</td>
+</tr>
+<tr>
+<td><code>sources</code></td>
+<td>2 — <code>lilian-killich-2026</code>, <code>lilian-killich-2026-2</code></td>
+</tr>
+</tbody>
+</table>
+<p>Frontmatter is the page's machine-readable record — see the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
+</details>
+</article></main>
+<footer class="lt-footer"><span class="lda-footer-links"><a href="https://www.learningdesignalliance.org">Learning Design Alliance</a> · <a href="https://reports.learningdesignalliance.org">Research reports</a> · <a href="https://wiki.learningdesignalliance.org">Wiki</a> · <a href="https://lazuli.design">Lazuli</a></span> Copyright &copy; Learning Design Alliance — content licensed CC BY-SA 4.0</footer>
+</body>
+</html>

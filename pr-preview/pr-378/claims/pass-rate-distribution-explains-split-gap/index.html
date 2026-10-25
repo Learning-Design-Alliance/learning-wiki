@@ -1,0 +1,116 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Differences in student pass-rate distributions between test splits explain the smaller INSIDE-over-SFT improvement on test_NP - Learning Design Wiki</title>
+<link rel="icon" href="../../branding/lda-monogram-dawn.svg" type="image/svg+xml">
+<link rel="stylesheet" href="../../assets/stylesheets/main.57a0d79d.min.css">
+<link rel="stylesheet" href="../../assets/stylesheets/palette.fb2fffe2.min.css">
+<link rel="stylesheet" href="../../branding/lda-theme.css">
+<style>
+.lt-header{background:var(--md-primary-fg-color);color:var(--md-primary-bg-color);padding:.6rem 1rem;font-size:.8rem}
+.lt-header a{color:inherit;text-decoration:none;margin-right:.6rem}
+.lt-header a:hover{text-decoration:underline}
+.lt-header form{display:inline;float:right}
+.lt-main{max-width:52rem;margin:0 auto;padding:1rem 1.2rem 3rem}
+</style>
+</head>
+<body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
+<script>try{var s=new URL("../../"||".",location).pathname,p=JSON.parse(localStorage.getItem(s+".__palette"));if(p&&p.color){for(var k of ["scheme","primary","accent"])if(p.color[k])document.body.setAttribute("data-md-color-"+k,p.color[k])}}catch(e){}</script>
+<header class="lt-header">
+<a class="lt-logo" href="../../"><img src="../../branding/lda-monogram-lapis.svg" alt="Learning Design Wiki"></a>
+<a href="../../claims/">Claims</a>
+<form class="lt-header-search" action="../../search/" role="search"><input name="q" type="search" placeholder="Search" aria-label="Search the wiki"></form>
+</header>
+<main class="lt-main"><article class="md-typeset" data-pagefind-body data-pagefind-filter="kind:Claim">
+<h1 id="differences-in-student-pass-rate-distributions-between-test-splits-explain-the-smaller-inside-over-sft-improvement-on-test_np">Differences in student pass-rate distributions between test splits explain the smaller INSIDE-over-SFT improvement on test_NP<a class="headerlink" href="#differences-in-student-pass-rate-distributions-between-test-splits-explain-the-smaller-inside-over-sft-improvement-on-test_np" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Claim</strong> · <a href="../">All claims</a><br />
+<strong>Evidence</strong> · 1 study · design <code>r2</code> · <code>q2</code><br />
+<strong>Currency</strong> · newest study 2026 · not yet checked against its sources · not reviewed by a person</p>
+</blockquote>
+<h2 id="subclaims">Subclaims<a class="headerlink" href="#subclaims" title="Permanent link">&para;</a></h2>
+<details class="info">
+<summary>Reading the evidence codes</summary>
+<p><code>q</code> is the design tier, <code>i</code> the impact, <code>n</code> the sample, and the kind with its <code>r</code>
+the rigour judged within that kind: <a href="../evidence-codes/">what each code means</a>.</p>
+<p><strong>This claim:</strong> no standardized effect is recorded in <code>observations/</code> for it yet, so no benchmark reading is possible.</p>
+</details>
+<p><code>q2 i?</code> test_OP students fail at 55% and succeed at 28% (roughly 2:1), whereas test_NP students fail at 47% and succeed at 34% (roughly 1.4:1); where failures are more common, INSIDE has more mismatch over SFT to correct. <a href="#rose-niousha-2026">→ Rose Niousha 2026</a></p>
+<h2 id="evidence">Evidence<a class="headerlink" href="#evidence" title="Permanent link">&para;</a></h2>
+<h3 id="rose-niousha-2026">Rose Niousha 2026<a class="headerlink" href="#rose-niousha-2026" title="Permanent link">&para;</a></h3>
+<p>Rose Niousha, Minwoo Kang, Narges Norouzi. (2026). INSIDE the Student's Mind: Jointly Modeling Latent Reasoning and Action in LLM Student Simulators. Published as a conference paper at COLM 2026. https://arxiv.org/abs/2608.10492 <a href="https://doi.org/10.48550/arxiv.2608.10492">doi:10.48550/arxiv.2608.10492</a></p>
+<p><code>q2 · i?</code> · <code>design · r2</code></p>
+<p>Distributional analysis (Appendix D, Figure 4) of exact pass-rate mass by split for student, SFT, and INSIDE submissions. The article reports both splits concentrate mass at pass rates 0 and 1 (83% and 81%), and that on test_OP SFT underestimates complete failure (43% vs. 55%) and overestimates complete success (40% vs. 28%), which INSIDE better corrects.</p>
+<blockquote>
+<p>"test_OP students fail at 55% and succeed at 28% (roughly 2:1), whereas test_NP students fail at 47% and succeed at 34% (roughly 1.4:1). This helps explain the smaller INSIDE–SFT gap on test_NP."</p>
+</blockquote>
+<h2 id="discussion">Discussion<a class="headerlink" href="#discussion" title="Permanent link">&para;</a></h2>
+<h2 id="related-claims">Related Claims<a class="headerlink" href="#related-claims" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="../prompted-simulators-artificially-high-pass-rates/">Prompting-based student simulators maintain artificially high pass rates (~80%) from the first submission step, while fine-tuned models track real students' low-start, sharp-increase trajectories</a> — related</li>
+<li><a href="../inside-lowest-wasserstein-action-fidelity-test-op/">Fine-tuning with INSIDE internal dialogue achieves the lowest Wasserstein distances to real student code distributions on test_OP across all action-fidelity metrics</a> — related</li>
+<li><a href="../inside-highest-reasoning-alignment-57-9/">INSIDE fine-tuning achieves the highest alignment between generated internal dialogue and ground-truth student code edits, up to 57.9%</a> — related</li>
+<li><a href="../pass1-false-narrative-soft-barriers/">Pass@1 is not a sufficient success metric for soft barriers because it conflates successful barriers with model generation failures</a> — related</li>
+<li><a href="../gpt-feedback-passes-automated-helpfulness-35-percent/">GPT-generated feedback passes simulated-student helpfulness evaluations only about 35% of the time on real student data</a> — related</li>
+<li><a href="../self-consistency-does-not-imply-student-alignment/">High self-consistency between a simulator's reasoning and its own generated code does not imply alignment with real student reasoning or behavior</a> — related</li>
+</ul>
+<details class="info">
+<summary>Page metadata</summary>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>type</code></td>
+<td><code>claim</code></td>
+</tr>
+<tr>
+<td><code>id</code></td>
+<td><code>pass-rate-distribution-explains-split-gap</code></td>
+</tr>
+<tr>
+<td><code>title</code></td>
+<td><code>Differences in student pass-rate distributions between test splits explain the smaller INSIDE-over-SFT improvement on test_NP</code></td>
+</tr>
+<tr>
+<td><code>description</code></td>
+<td><code>Differences in student pass-rate distributions between test splits explain the smaller INSIDE-over-SFT improvement on test_NP</code></td>
+</tr>
+<tr>
+<td><code>status</code></td>
+<td><code>review</code></td>
+</tr>
+<tr>
+<td><code>evidence_strength</code></td>
+<td><code>weak</code></td>
+</tr>
+<tr>
+<td><code>newest_evidence</code></td>
+<td><code>2026</code></td>
+</tr>
+<tr>
+<td><code>generated</code></td>
+<td>by <code>process:wiki-ingest</code> on <code>2026-10-11</code></td>
+</tr>
+<tr>
+<td><code>trust</code></td>
+<td>unverified — no one has confirmed this page's content</td>
+</tr>
+<tr>
+<td><code>sources</code></td>
+<td>1 — <code>rose-niousha-2026</code></td>
+</tr>
+</tbody>
+</table>
+<p>Frontmatter is the page's machine-readable record — see the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
+</details>
+</article></main>
+<footer class="lt-footer"><span class="lda-footer-links"><a href="https://www.learningdesignalliance.org">Learning Design Alliance</a> · <a href="https://reports.learningdesignalliance.org">Research reports</a> · <a href="https://wiki.learningdesignalliance.org">Wiki</a> · <a href="https://lazuli.design">Lazuli</a></span> Copyright &copy; Learning Design Alliance — content licensed CC BY-SA 4.0</footer>
+</body>
+</html>

@@ -1,0 +1,128 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Automated detectors of disengaged behaviors inferred from interaction-log data alone reached AUC over 0.8 for gaming and correlated 0.55 with observed off-task behavior - Learning Design Wiki</title>
+<link rel="icon" href="../../branding/lda-monogram-dawn.svg" type="image/svg+xml">
+<link rel="stylesheet" href="../../assets/stylesheets/main.57a0d79d.min.css">
+<link rel="stylesheet" href="../../assets/stylesheets/palette.fb2fffe2.min.css">
+<link rel="stylesheet" href="../../branding/lda-theme.css">
+<style>
+.lt-header{background:var(--md-primary-fg-color);color:var(--md-primary-bg-color);padding:.6rem 1rem;font-size:.8rem}
+.lt-header a{color:inherit;text-decoration:none;margin-right:.6rem}
+.lt-header a:hover{text-decoration:underline}
+.lt-header form{display:inline;float:right}
+.lt-main{max-width:52rem;margin:0 auto;padding:1rem 1.2rem 3rem}
+</style>
+</head>
+<body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
+<script>try{var s=new URL("../../"||".",location).pathname,p=JSON.parse(localStorage.getItem(s+".__palette"));if(p&&p.color){for(var k of ["scheme","primary","accent"])if(p.color[k])document.body.setAttribute("data-md-color-"+k,p.color[k])}}catch(e){}</script>
+<header class="lt-header">
+<a class="lt-logo" href="../../"><img src="../../branding/lda-monogram-lapis.svg" alt="Learning Design Wiki"></a>
+<a href="../../claims/">Claims</a>
+<form class="lt-header-search" action="../../search/" role="search"><input name="q" type="search" placeholder="Search" aria-label="Search the wiki"></form>
+</header>
+<main class="lt-main"><article class="md-typeset" data-pagefind-body data-pagefind-filter="kind:Claim">
+<h1 id="automated-detectors-of-disengaged-behaviors-inferred-from-interaction-log-data-alone-reached-auc-over-08-for-gaming-and-correlated-055-with-observed-off-task-behavior">Automated detectors of disengaged behaviors inferred from interaction-log data alone reached AUC over 0.8 for gaming and correlated 0.55 with observed off-task behavior<a class="headerlink" href="#automated-detectors-of-disengaged-behaviors-inferred-from-interaction-log-data-alone-reached-auc-over-08-for-gaming-and-correlated-055-with-observed-off-task-behavior" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Claim</strong> · <a href="../">All claims</a><br />
+<strong>Evidence</strong> · 1 study (2 entries) · review <code>r2</code> · <code>q2</code> · <code>i3</code> large<br />
+<strong>Currency</strong> · newest study 2012 · not yet checked against its sources · not reviewed by a person · <strong>overdue for a recheck since 2015</strong>: tool and model accuracy changes quickly</p>
+</blockquote>
+<h2 id="subclaims">Subclaims<a class="headerlink" href="#subclaims" title="Permanent link">&para;</a></h2>
+<details class="info">
+<summary>Reading the evidence codes</summary>
+<p><code>q</code> is the design tier, <code>i</code> the impact, <code>n</code> the sample, and the kind with its <code>r</code>
+the rigour judged within that kind: <a href="../evidence-codes/">what each code means</a>.</p>
+<p><strong>This claim:</strong> no standardized effect is recorded in <code>observations/</code> for it yet, so no benchmark reading is possible.</p>
+</details>
+<p><code>q2 i?</code> Gaming-the-system detectors validated on new students and lessons achieved A' / AUC over 0.8 using interaction features such as repeated fast errors on poorly known skills. <a href="#kenneth-r-koedinger-2012">→ Kenneth R. Koedinger 2012</a>
+<code>q2 i3</code> The first off-task behavior detector achieved a correlation of 0.55 between predicted and observer-noted frequency of off-task behavior, with cross-validation at the student level. <a href="#kenneth-r-koedinger-2012-2">→ Kenneth R. Koedinger 2012 (2)</a></p>
+<h2 id="evidence">Evidence<a class="headerlink" href="#evidence" title="Permanent link">&para;</a></h2>
+<h3 id="kenneth-r-koedinger-2012">Kenneth R. Koedinger 2012<a class="headerlink" href="#kenneth-r-koedinger-2012" title="Permanent link">&para;</a></h3>
+<p>Kenneth R. Koedinger, Emma Brunskill, Ryan S.J.d. Baker, Elizabeth A. McLaughlin, and John Stamper. (2012). New Potentials for Data-Driven Intelligent Tutoring System Development and Optimization. http://learnlab.org/datashop</p>
+<p><code>q2 · i?</code> · <code>review · r2</code></p>
+<p>Detectors of gaming the system (Baker et al. 2004, as reported here) were trained on field-observation or text-replay labels and J48 decision trees, using features like "repeated fast errors on poorly known skills". Validation on new students and lessons found A'/AUC over 0.8; the article prints no standardized effect size for this finding.</p>
+<blockquote>
+<p>"The automated detectors were validated for effectiveness for new students and tutor lessons on different topics (within the same year-long mathematics curriculum), and were found to be reasonably effective (A’/AUC over 0.8) under these conditions."</p>
+</blockquote>
+<h3 id="kenneth-r-koedinger-2012-2">Kenneth R. Koedinger 2012 (2)<a class="headerlink" href="#kenneth-r-koedinger-2012-2" title="Permanent link">&para;</a></h3>
+<p>Kenneth R. Koedinger, Emma Brunskill, Ryan S.J.d. Baker, Elizabeth A. McLaughlin, and John Stamper. (2012). New Potentials for Data-Driven Intelligent Tutoring System Development and Optimization. http://learnlab.org/datashop</p>
+<p><code>q2 · i3</code> · <code>review · r2</code></p>
+<p>Off-task behavior detection (Baker 2007, as reported here) relied solely on semantic interface actions and timing data, with cross-validation at the student level. The article prints a correlation of 0.55 (r = 0.55) between predicted and observer-noted off-task frequency, a large printed association.</p>
+<blockquote>
+<p>"The first detector of this behavior, by Baker (2007), achieved a correlation of 0.55 between each student’s predicted frequency of off-task behavior and the behavior’s frequency as noted by field observers, with cross-validation conducted at the student level."</p>
+</blockquote>
+<h2 id="discussion">Discussion<a class="headerlink" href="#discussion" title="Permanent link">&para;</a></h2>
+<h2 id="related-claims">Related Claims<a class="headerlink" href="#related-claims" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="../ccm-model-data-fit-adequate-except-tasks-7-9/">CCM showed adequate model-data fit for game log data, except for infrequent tasks 7 and 9</a> — related</li>
+<li><a href="../inquiry-detectors-accurate-after-three-runs/">Machine-learned detectors of science inquiry skill made accurate inferences after a student ran a simulation three times</a> — related</li>
+<li><a href="../xgboost-gaming-detectors-decimal-point/">Automated gaming-the-system detectors built with XGBoost reliably recognize gaming in both problem-solving and self-explanation steps</a> — a narrower finding that bears on this claim</li>
+<li><a href="../bromp-observation-mostly-on-task-concentrating/">During observed playlist sessions, students were mostly on task and concentrating, though off-task behavior rose when the digital notebook was repeated</a> — related</li>
+<li><a href="../disengagement-factors-adaptive-platforms/">Student disengagement in adaptive learning platforms is linked to technical problems, boredom with long or irrelevant content, insufficient challenge and feedback, and declining engagement over time</a> — related</li>
+<li><a href="../gaming-agent-reduced-gaming-improved-learning/">An automated agent responding to detected gaming-the-system reduced gaming by half and improved gaming students' learning</a> — related</li>
+</ul>
+<details class="info">
+<summary>Page metadata</summary>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>type</code></td>
+<td><code>claim</code></td>
+</tr>
+<tr>
+<td><code>id</code></td>
+<td><code>sensor-free-disengagement-detectors-accuracy</code></td>
+</tr>
+<tr>
+<td><code>title</code></td>
+<td><code>Automated detectors of disengaged behaviors inferred from interaction-log data alone reached AUC over 0.8 for gaming and correlated 0.55 with observed off-task behavior</code></td>
+</tr>
+<tr>
+<td><code>description</code></td>
+<td><code>Automated detectors of disengaged behaviors inferred from interaction-log data alone reached AUC over 0.8 for gaming and correlated 0.55 with observed off-task behavior</code></td>
+</tr>
+<tr>
+<td><code>status</code></td>
+<td><code>review</code></td>
+</tr>
+<tr>
+<td><code>evidence_strength</code></td>
+<td><code>moderate</code></td>
+</tr>
+<tr>
+<td><code>newest_evidence</code></td>
+<td><code>2012</code></td>
+</tr>
+<tr>
+<td><code>recheck_by</code></td>
+<td><code>2015</code></td>
+</tr>
+<tr>
+<td><code>generated</code></td>
+<td>by <code>process:wiki-ingest</code> on <code>2026-10-16</code></td>
+</tr>
+<tr>
+<td><code>trust</code></td>
+<td>unverified — no one has confirmed this page's content</td>
+</tr>
+<tr>
+<td><code>sources</code></td>
+<td>2 — <code>kenneth-r-koedinger-2012</code>, <code>kenneth-r-koedinger-2012-2</code></td>
+</tr>
+</tbody>
+</table>
+<p>Frontmatter is the page's machine-readable record — see the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
+</details>
+</article></main>
+<footer class="lt-footer"><span class="lda-footer-links"><a href="https://www.learningdesignalliance.org">Learning Design Alliance</a> · <a href="https://reports.learningdesignalliance.org">Research reports</a> · <a href="https://wiki.learningdesignalliance.org">Wiki</a> · <a href="https://lazuli.design">Lazuli</a></span> Copyright &copy; Learning Design Alliance — content licensed CC BY-SA 4.0</footer>
+</body>
+</html>
