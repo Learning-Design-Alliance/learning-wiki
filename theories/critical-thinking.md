@@ -12,7 +12,7 @@ generated:
 # Critical Thinking
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 22 claims (16 for, 4 mixed, 2 against) · 21 studies (5 causal, 5 qualitative, 4 review, 4 associational, 2 design, 1 quant-synthesis), `q1`–`q3` · 5 of 21 report an effect size · 22 claims rest on one study
+> **Evidence** · 21 claims (15 for, 4 mixed, 2 against) · 20 studies (5 qualitative, 4 causal, 4 review, 4 associational, 2 design, 1 quant-synthesis), `q1`–`q3` · 4 of 20 report an effect size · 21 claims rest on one study
 
 ## Description
 Critical thinking requires both a skill (analyzing the reliability and validity of information) and a disposition to actually apply that skill, in principle across any realm of knowledge, not only a single subject or topic (Halpern, 2003; Williams, Oliver, & Stockade, 2004). A critical thinker is not simply someone with a negative or fault-finding attitude; rather, the critical thinker asks key questions, evaluates evidence for ideas, reasons about problems logically and objectively, and expresses ideas and conclusions clearly and precisely — and can carry these habits of mind across more than one domain of life or knowledge.
@@ -55,7 +55,6 @@ Second, who should be taught critical thinking. Surveys have found that teachers
 - [Explicit CT instruction combined with practice improves students' unbiased reasoning on instructed and practiced heuristics-and-biases items from pretest to immediate posttest](../claims/ct-instruction-practice-improves-unbiased-reasoning.md) [+W]
 - [A few students reasoned second-order about Wikipedia's distributed oversight, but not about specific content](../claims/second-order-wikipedia-oversight-reasoning.md) [~W]
 - [Students' AI workflows shifted toward guided, step-by-step use and more sophisticated prompting and critical evaluation over the semester](../claims/ai-workflows-shifted-toward-guided-use.md) [+W]
-- [ChatGPT-enhanced instruction improved Knowing, Applying and Reasoning sub-skills significantly, each with a large printed effect size](../claims/chatgpt-gains-knowing-applying-reasoning-subskills.md) [+W]
 - [Critical thinking skills can be significantly developed in early primary (grades 1-4), a level where evidence was scarce](../claims/critical-thinking-developable-early-primary.md) [+W]
 - [GenAI use is positively associated with self-reported critical-thinking disposition among business students only in the adjusted structural model, with a near-zero zero-order correlation](../claims/genai-use-adjusted-positive-ct-disposition.md) [+W]
 - [A student maintained critical distance from GenAI outputs through a paradoxical trust in their untrustworthiness, deriving practical value while staying sceptical](../claims/paradoxical-trust-untrustworthy-genai.md) [+W]

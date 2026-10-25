@@ -12,7 +12,7 @@ newest_evidence: 1916
 sources:
   - id: chassell-1916
     resource: "https://doi.org/10.1037/h0070310"
-    title: "Chassell, L. M. (1916). Tests for Originality. The Journal of Educational Psychology, VII (June, 1916). https://doi.org/10.1037/h0070310"
+    title: "Chassell, L. M. (1916). Tests for originality. *Journal of Educational Psychology, 7*(6), 317–328. https://doi.org/10.1037/h0070310"
     author: Chassell, L. M.
     q: 2
     i: "?"
@@ -33,7 +33,7 @@ sources:
 
 ### Chassell 1916
 
-Chassell, L. M. (1916). Tests for Originality. The Journal of Educational Psychology, VII (June, 1916). https://doi.org/10.1037/h0070310
+Chassell, L. M. (1916). Tests for originality. *Journal of Educational Psychology, 7*(6), 317–328. https://doi.org/10.1037/h0070310
 
 `q2 · i?` · `associational · r1`
 

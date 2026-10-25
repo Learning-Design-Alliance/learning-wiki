@@ -2,7 +2,7 @@
 
 Concrete teaching activity recipes — specific, implementable approaches.
 
-**6786 entries** · 0 stable · 6786 in review · 0 drafts
+**6785 entries** · 0 stable · 6785 in review · 0 drafts
 
 ---
 
@@ -2986,7 +2986,6 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Integrate career adaptability cultivation and AI literacy with career planning in higher education curricula](ai-literacy-career-planning-integration-strategy.md) - The article recommends that institutions \"prioritise enhancing students' career adaptability rather than merely alleviating anxiety symptoms\", integrating future planning, autonomous decision-making, curious explorati...
 * [Integrate caregiver-led child nutrition monitoring with other health services to increase sustainability](integrate-family-muac-with-other-health-services.md) - The article recommends embedding Family MUAC with two-way SMS into existing health service touchpoints so caregivers already visiting facilities can be enrolled and followed up efficiently.
 * [Integrate ChatGPT as a feedback resource alongside peer feedback for essay writing in higher education](integrate-chatgpt-with-peer-feedback-essays.md) - The article recommends combining ChatGPT-generated and peer-generated feedback for argumentative essay tasks in higher education, since the two sources show complementary strengths: ChatGPT provides extensive descript...
-* [Integrate ChatGPT into Quantum Theory (and similar STEM) courses as a supplement to traditional teaching, with students verifying chatbot answers collaboratively](integrate-chatgpt-supplement-traditional-quantum-teaching.md) - The article supports embedding ChatGPT-supported activities in Quantum Theory courses where students ask questions, receive step-by-step explanations, and verify the chatbot's solutions in groups with teachers.
 * [Integrate co-design and continuous feedback loops into AI evaluation processes](co-design-feedback-loops-ai-evaluation.md) - The report recommends that states integrate co-design with feedback loops—defined as structures that are purposeful, multi-directional, iterative, and transformative—into evaluation across all implementation stages.
 * [Integrate computational thinking across K-12 subject areas rather than treating it as computer-science-only](integrate-computational-thinking-across-k12-subjects.md) - The paper recommends teaching computational thinking across subject areas in K-12 schools because it is \"a skillset for solving complex problems, a way to learn topics in any discipline, and a necessity for fully part...
 * [Integrate computational thinking into existing disciplinary teaching across grade bands rather than adding it on](integrate-ct-into-disciplinary-learning.md) - The guide recommends that educators embed computational thinking into topics they already teach, such as math and ELA, so it becomes a value-add rather than an add-on to an overscheduled day.

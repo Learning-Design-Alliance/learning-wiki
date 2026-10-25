@@ -37,7 +37,7 @@ Quinn, Jamie M.; Wagner, Richard K.; Petscher, Yaacov; Roberts, Greg; Menzel, An
 
 `q2 · i?` · `associational · r3`
 
-Longitudinal secondary-data LCS modeling of N = 14,140 typically developing students from 440 Title 1 Florida schools, tested annually from kindergarten to fourth grade. Constraining either cross-lagged pathway to zero significantly degraded fit (Wald(1) = 24.53, p < .001; removing the reciprocal pathway gave Wald(1) = 53.53, p < .001), supporting "bidirectional influences between vocabulary knowledge and reading comprehension for typically developing students."
+Longitudinal secondary-data LCS modeling of N = 14,140 typically developing students from 440 primarily lower-performing Florida schools with Title I designations, followed from kindergarten to fourth grade (vocabulary was measured from kindergarten to third grade, reading comprehension from first to fourth). Constraining either cross-lagged pathway to zero significantly degraded fit (Wald(1) = 24.53, p < .001; removing the reciprocal pathway gave Wald(1) = 53.53, p < .001), supporting "bidirectional influences between vocabulary knowledge and reading comprehension for typically developing students."
 
 > "The results indicated that there were bidirectional influences between vocabulary knowledge and reading comprehension for typically developing students, and that these leading influences existed after accounting for the effects of the slope parameters and the auto-regressive change parameters."
 

@@ -8,10 +8,11 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-25
 evidence_strength: weak
-newest_evidence: 1917
+newest_evidence: 1911
 sources:
-  - id: pyle-1917
-    title: Pyle, W. H. (1917). Retention as Related to Repetition. The Journal of Educational Psychology.
+  - id: pyle-1911
+    resource: "https://doi.org/10.1037/h0073818"
+    title: "Pyle, W. H. (1911). Retention as related to repetition. *Journal of Educational Psychology, 2*(6), 311–321. https://doi.org/10.1037/h0073818"
     author: Pyle, W. H.
     q: 2
     i: "?"
@@ -23,16 +24,16 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
-> **Currency** · newest study 1917 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1911 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q2 i?` Among the twelve subjects, the four women made the best learning and retention records. [→ Pyle 1917](#pyle-1917)
+`q2 i?` Among the twelve subjects, the four women made the best learning and retention records. [→ Pyle 1911](#pyle-1911)
 
 ## Evidence
 
-### Pyle 1917
+### Pyle 1911
 
-Pyle, W. H. (1917). Retention as Related to Repetition. The Journal of Educational Psychology.
+Pyle, W. H. (1911). Retention as related to repetition. *Journal of Educational Psychology, 2*(6), 311–321. https://doi.org/10.1037/h0073818
 
 `q2 · i?` · `associational · r1`
 

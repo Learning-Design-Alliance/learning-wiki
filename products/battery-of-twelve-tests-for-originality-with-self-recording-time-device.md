@@ -35,4 +35,4 @@ A Chassell (1916) battery of twelve individually or group-administered tests for
 -
 
 ## Key Sources
-- Chassell, L. M. (1916). Tests for Originality. The Journal of Educational Psychology, VII (June, 1916).
+- Chassell, L. M. (1916). Tests for originality. *Journal of Educational Psychology, 7*(6), 317–328. https://doi.org/10.1037/h0070310

@@ -8,8 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-25
 sources:
-  - id: pyle-1917
-    title: "Pyle, W. H. (1917). Retention as Related to Repetition. The Journal of Educational Psychology."
+  - id: pyle-1911
+    title: "Pyle, W. H. (1911). Retention as related to repetition. *Journal of Educational Psychology, 2*(6), 311–321. https://doi.org/10.1037/h0073818"
     author: Pyle, W. H
 ---
 
@@ -50,4 +50,4 @@ The article closes with two educational recommendations drawn directly from its 
 -
 
 ## Key Sources
-- Pyle, W. H. (1917). Retention as Related to Repetition. The Journal of Educational Psychology.
+- Pyle, W. H. (1911). Retention as related to repetition. *Journal of Educational Psychology, 2*(6), 311–321. https://doi.org/10.1037/h0073818

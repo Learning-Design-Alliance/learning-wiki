@@ -17,7 +17,7 @@ sources:
 # Deploy an educational chatbot to give students instant question-and-answer support outside class when teacher interaction time is limited
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 2 studies (1 causal, 1 qualitative), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article recommends providing suitable learning tools for out-of-class biology study because teachers "do not have enough class time to interact with students, and students often do not have the opportunities to raise questions in class." A chatbot offers instant interactions and supports anytime and anywhere, letting students review biology knowledge on faulty foundations rather than falling behind.
@@ -40,7 +40,6 @@ The article recommends providing suitable learning tools for out-of-class biolog
 ## Claims
 
 - [A biology learning chatbot system had a positive impact on grade 7 students' biology learning achievement in a quasi-experiment](../claims/biology-chatbot-improves-learning-achievement.md) [+W]
-- [Students perceived ChatGPT as a valuable learning tool for asking questions, getting explanations, and clarifying understanding](../claims/students-perceive-chatgpt-valuable-learning-tool.md) [+W]
 
 ## Related Strategies
 

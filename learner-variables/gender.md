@@ -13,7 +13,7 @@ generated:
 # Gender
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 277 claims (171 show a difference, 66 mixed, 40 no difference) · 196 studies (127 associational, 32 causal, 14 quant-synthesis, 9 review, 5 qualitative, 5 theoretical, 4 design), `q1`–`q4` · 34 of 196 report an effect size · 269 claims rest on one study
+> **Evidence** · 276 claims (170 show a difference, 66 mixed, 40 no difference) · 195 studies (127 associational, 31 causal, 14 quant-synthesis, 9 review, 5 qualitative, 5 theoretical, 4 design), `q1`–`q4` · 34 of 195 report an effect size · 268 claims rest on one study
 
 ## How to read this page
 
@@ -123,7 +123,7 @@ Gender is recorded in most education studies, usually as a binary category taken
 - [Learning loss showed little evidence of differing by sex, school grade, subject, or prior performance](../claims/learning-loss-no-difference-sex-grade-subject-prior-performance.md) [-M] — an instructional effect differs by group
 - [Linked learning communities show no overall enrollment effect, but statistically significant gender-by-condition interactions on registration at Houston and substantively important differences at Hillsborough](../claims/linked-learning-communities-enrollment-gender-interactions.md) [+M] — an instructional effect differs by group
 - [LLM learners are younger, more likely male, and score higher on technology affinity than non-learners](../claims/llm-learners-younger-male-higher-tech-affinity.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
-- [Male and female students used ChatGPT differently: females used it more frequently and for questions, males more sporadically and to check answers](../claims/gender-differences-chatgpt-use-patterns.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- Male and female students used ChatGPT differently: females used it more frequently and for questions, males more sporadically and to check answers [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Male Chinese HSS students reported higher perceived GenAI gains in independent thinking, creativity and motivation, with minimal gender difference in performance](../claims/genai-gender-differences-perceived-gains.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Male faculty report modestly higher self-perceived GenAI knowledge than female faculty in TK and TPK, with small effect sizes](../claims/gender-differences-technological-genai-knowledge-small-effects.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Male respondents were significantly more likely than non-male respondents to have no concern about their labour being used for military purposes](../claims/gender-difference-military-labour-concern.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause

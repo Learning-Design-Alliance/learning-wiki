@@ -51,4 +51,4 @@ Thematic analysis of think-aloud sessions and observations during the AI Helper 
 - [K-12 students across five schools valued CyberScholar's detailed, specific, rubric-aligned feedback as helpful for identifying areas to revise](students-value-detailed-rubric-aligned-genai-feedback.md) — related
 - EFL students perceive AI-generated writing feedback as a competent source that improves vocabulary, grammar, structure, coherence, and values its immediacy — related
 - [Students initially perceived GenAI explanation features and dashboard visualizations positively in introductory lab sessions](positive-initial-perceptions-genai-feedback-functionalities.md) — related
-- [Students perceived ChatGPT as a valuable learning tool for asking questions, getting explanations, and clarifying understanding](students-perceive-chatgpt-valuable-learning-tool.md) — related
+- Students perceived ChatGPT as a valuable learning tool for asking questions, getting explanations, and clarifying understanding — related

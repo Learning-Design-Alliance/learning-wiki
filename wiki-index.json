@@ -1,6 +1,6 @@
 {
 "counts":{
-"claim":27627,
+"claim":27617,
 "design":1042,
 "element":1057,
 "learner-variable":75,
@@ -10,7 +10,7 @@
 "process":18,
 "product":1946,
 "research-method":652,
-"strategy":6786,
+"strategy":6785,
 "theory":1360
 },
 "kinds":[
@@ -25391,7 +25391,7 @@
 "description":"Learning nonsense syllables backward takes a higher total-repetition ratio than forward, suggesting interference between habits",
 "evidence_strength":"weak",
 "id":"backward-learning-higher-repetition-ratio-interference",
-"newest_evidence":"1917",
+"newest_evidence":"1911",
 "path":"claims/backward-learning-higher-repetition-ratio-interference.md",
 "status":"review",
 "title":"Learning nonsense syllables backward takes a higher total-repetition ratio than forward, suggesting interference between habits",
@@ -37664,16 +37664,6 @@
 "type":"claim"
 },
 {
-"description":"Eleventh-grade students with ChatGPT access scored significantly higher than traditionally taught controls on the electronic magnetism post-test, with large effect sizes",
-"evidence_strength":"moderate",
-"id":"chatgpt-access-improved-electronic-magnetism-achievement",
-"newest_evidence":"2023",
-"path":"claims/chatgpt-access-improved-electronic-magnetism-achievement.md",
-"status":"review",
-"title":"Eleventh-grade students with ChatGPT access scored significantly higher than traditionally taught controls on the electronic magnetism post-test, with large effect sizes",
-"type":"claim"
-},
-{
 "description":"ChatGPT shows high success on open-ended general chemistry exam questions but lower accuracy at the university level, and unverified copying of its answers is a reported risk",
 "evidence_strength":"weak",
 "id":"chatgpt-accuracy-varies-by-question-level",
@@ -38045,16 +38035,6 @@
 "type":"claim"
 },
 {
-"description":"ChatGPT-enhanced instruction improved Knowing, Applying and Reasoning sub-skills significantly, each with a large printed effect size",
-"evidence_strength":"moderate",
-"id":"chatgpt-gains-knowing-applying-reasoning-subskills",
-"newest_evidence":"2024",
-"path":"claims/chatgpt-gains-knowing-applying-reasoning-subskills.md",
-"status":"review",
-"title":"ChatGPT-enhanced instruction improved Knowing, Applying and Reasoning sub-skills significantly, each with a large printed effect size",
-"type":"claim"
-},
-{
 "description":"ChatGPT-generated HDR problems measure the same ability as human-created problems, with high internal consistency (Cronbach's α = 0.78) and no significant difficulty difference",
 "evidence_strength":"moderate",
 "id":"chatgpt-generated-hdr-problems-equivalent-to-human-created",
@@ -38168,16 +38148,6 @@
 "source_checked":"2026-10-20",
 "status":"review",
 "title":"ChatGPT-integrated instruction produced significantly higher post-test writing motivation scores than conventional instruction among EFL learners, with a medium effect size",
-"type":"claim"
-},
-{
-"description":"ChatGPT-enhanced instruction produced significantly higher overall post-test achievement in Grade 12 Quantum Theory than traditional teaching, with a large effect size (η² > 0.14)",
-"evidence_strength":"moderate",
-"id":"chatgpt-instruction-higher-quantum-posttest-achievement",
-"newest_evidence":"2024",
-"path":"claims/chatgpt-instruction-higher-quantum-posttest-achievement.md",
-"status":"review",
-"title":"ChatGPT-enhanced instruction produced significantly higher overall post-test achievement in Grade 12 Quantum Theory than traditional teaching, with a large effect size (η² > 0.14)",
 "type":"claim"
 },
 {
@@ -38382,16 +38352,6 @@
 "type":"claim"
 },
 {
-"description":"Post-test mean differences favored the ChatGPT group on knowing, applying, and reasoning subscales and overall at α=0.05",
-"evidence_strength":"moderate",
-"id":"chatgpt-posttest-subscale-differences-significant",
-"newest_evidence":"2023",
-"path":"claims/chatgpt-posttest-subscale-differences-significant.md",
-"status":"review",
-"title":"Post-test mean differences favored the ChatGPT group on knowing, applying, and reasoning subscales and overall at α=0.05",
-"type":"claim"
-},
-{
 "description":"Process mining shows the ChatGPT group's revision loop centred on consulting ChatGPT, while the human-expert group strengthened connections between revising and reading, orientation and evaluation",
 "evidence_strength":"moderate",
 "id":"chatgpt-process-map-loop-metacognitive-disengagement",
@@ -38399,27 +38359,6 @@
 "path":"claims/chatgpt-process-map-loop-metacognitive-disengagement.md",
 "status":"review",
 "title":"Process mining shows the ChatGPT group's revision loop centred on consulting ChatGPT, while the human-expert group strengthened connections between revising and reading, orientation and evaluation",
-"type":"claim"
-},
-{
-"description":"Students reported that ChatGPT enhanced engagement, comprehension, problem-solving, and perceived relevance in Quantum Theory",
-"evidence_strength":"moderate",
-"id":"chatgpt-qualitative-engagement-comprehension-quantum",
-"newest_evidence":"2024",
-"path":"claims/chatgpt-qualitative-engagement-comprehension-quantum.md",
-"status":"review",
-"title":"Students reported that ChatGPT enhanced engagement, comprehension, problem-solving, and perceived relevance in Quantum Theory",
-"type":"claim"
-},
-{
-"description":"Students reported ChatGPT limitations in Quantum Theory learning: insufficient in-depth explanations, inability to interpret graphs or graphic equations, and occasional unexplainable mathematical errors",
-"evidence_strength":"moderate",
-"id":"chatgpt-quantum-limitations-graphs-errors",
-"newest_evidence":"2024",
-"path":"claims/chatgpt-quantum-limitations-graphs-errors.md",
-"recheck_by":"2027",
-"status":"review",
-"title":"Students reported ChatGPT limitations in Quantum Theory learning: insufficient in-depth explanations, inability to interpret graphs or graphic equations, and occasional unexplainable mathematical errors",
 "type":"claim"
 },
 {
@@ -46708,17 +46647,6 @@
 "source_checked":"2026-10-17",
 "status":"review",
 "title":"Collaborative argumentation benefits students' motivation, content learning, domain argumentation, transferable argumentation skills, and knowledge-building practices",
-"type":"claim"
-},
-{
-"description":"Students found using a chatbot to solve a photoelectric-effect problem and evaluating its answer insightful, and the authors propose group checking as a way to verify chatbot answers",
-"evidence_strength":"moderate",
-"id":"collaborative-chatbot-answer-verification-problem-solving",
-"newest_evidence":"2024",
-"path":"claims/collaborative-chatbot-answer-verification-problem-solving.md",
-"source_checked":"2026-10-20",
-"status":"review",
-"title":"Students found using a chatbot to solve a photoelectric-effect problem and evaluating its answer insightful, and the authors propose group checking as a way to verify chatbot answers",
 "type":"claim"
 },
 {
@@ -107502,16 +107430,6 @@
 "type":"claim"
 },
 {
-"description":"Male and female students used ChatGPT differently: females used it more frequently and for questions, males more sporadically and to check answers",
-"evidence_strength":"weak",
-"id":"gender-differences-chatgpt-use-patterns",
-"newest_evidence":"2023",
-"path":"claims/gender-differences-chatgpt-use-patterns.md",
-"status":"review",
-"title":"Male and female students used ChatGPT differently: females used it more frequently and for questions, males more sporadically and to check answers",
-"type":"claim"
-},
-{
 "description":"Girls report higher initial mathematics enjoyment and boys higher initial boredom, with no gender differences in arithmetic skill development or mathematics performance",
 "evidence_strength":"moderate",
 "id":"gender-differences-enjoyment-boredom-early-grades",
@@ -157513,7 +157431,7 @@
 "description":"Memory improves with practice in the field where it is exercised",
 "evidence_strength":"weak",
 "id":"memory-improves-with-practice-in-exercised-field",
-"newest_evidence":"1917",
+"newest_evidence":"1911",
 "path":"claims/memory-improves-with-practice-in-exercised-field.md",
 "status":"review",
 "title":"Memory improves with practice in the field where it is exercised",
@@ -181203,7 +181121,7 @@
 "description":"One month after learning, retention rank remains roughly stable: students maintain immediate-reproduction rank at least three out of four times",
 "evidence_strength":"weak",
 "id":"one-month-retention-rank-stability",
-"newest_evidence":"1917",
+"newest_evidence":"1911",
 "path":"claims/one-month-retention-rank-stability.md",
 "status":"review",
 "title":"One month after learning, retention rank remains roughly stable: students maintain immediate-reproduction rank at least three out of four times",
@@ -218530,7 +218448,7 @@
 "description":"Individuals differ less in retention than in learning ability",
 "evidence_strength":"moderate",
 "id":"retention-differences-smaller-than-learning-differences",
-"newest_evidence":"1917",
+"newest_evidence":"1911",
 "path":"claims/retention-differences-smaller-than-learning-differences.md",
 "status":"review",
 "title":"Individuals differ less in retention than in learning ability",
@@ -238386,7 +238304,7 @@
 "description":"Memory correlates only slightly (about .30 by the Pearson formula) with scholarship, memory being only one factor",
 "evidence_strength":"weak",
 "id":"slight-correlation-memory-scholarship",
-"newest_evidence":"1917",
+"newest_evidence":"1911",
 "path":"claims/slight-correlation-memory-scholarship.md",
 "status":"review",
 "title":"Memory correlates only slightly (about .30 by the Pearson formula) with scholarship, memory being only one factor",
@@ -251329,16 +251247,6 @@
 "type":"claim"
 },
 {
-"description":"Students perceived ChatGPT as a valuable learning tool for asking questions, getting explanations, and clarifying understanding",
-"evidence_strength":"weak",
-"id":"students-perceive-chatgpt-valuable-learning-tool",
-"newest_evidence":"2023",
-"path":"claims/students-perceive-chatgpt-valuable-learning-tool.md",
-"status":"review",
-"title":"Students perceived ChatGPT as a valuable learning tool for asking questions, getting explanations, and clarifying understanding",
-"type":"claim"
-},
-{
 "description":"Students perceive LOCS and HOCS clicker questions as equally helpful, despite exam performance differences",
 "evidence_strength":"moderate",
 "id":"students-perceive-clicker-levels-equally-helpful",
@@ -251711,16 +251619,6 @@
 "source_checked":"2026-10-20",
 "status":"review",
 "title":"Students reported recognizing writing improvements after revising in response to AI feedback, with observed rubric-score gains on resubmission",
-"type":"claim"
-},
-{
-"description":"Students recommended ChatGPT to peers and suggested improvements to accent recognition, visual aids, and response time",
-"evidence_strength":"weak",
-"id":"students-recommend-chatgpt-suggest-improvements",
-"newest_evidence":"2023",
-"path":"claims/students-recommend-chatgpt-suggest-improvements.md",
-"status":"review",
-"title":"Students recommended ChatGPT to peers and suggested improvements to accent recognition, visual aids, and response time",
 "type":"claim"
 },
 {
@@ -285218,7 +285116,7 @@
 "description":"In Pyle's experiments women made better records than men",
 "evidence_strength":"weak",
 "id":"women-better-records-pyle-memory-experiments",
-"newest_evidence":"1917",
+"newest_evidence":"1911",
 "path":"claims/women-better-records-pyle-memory-experiments.md",
 "status":"review",
 "title":"In Pyle's experiments women made better records than men",
@@ -354776,14 +354674,6 @@
 "type":"strategy"
 },
 {
-"description":"The article supports embedding ChatGPT-supported activities in Quantum Theory courses where students ask questions, receive step-by-step explanations, and verify the chatbot's solutions in groups with teachers.",
-"id":"integrate-chatgpt-supplement-traditional-quantum-teaching",
-"path":"strategies/integrate-chatgpt-supplement-traditional-quantum-teaching.md",
-"status":"review",
-"title":"Integrate ChatGPT into Quantum Theory (and similar STEM) courses as a supplement to traditional teaching, with students verifying chatbot answers collaboratively",
-"type":"strategy"
-},
-{
 "description":"The article recommends combining ChatGPT-generated and peer-generated feedback for argumentative essay tasks in higher education, since the two sources show complementary strengths: ChatGPT provides extensive descript...",
 "id":"integrate-chatgpt-with-peer-feedback-essays",
 "path":"strategies/integrate-chatgpt-with-peer-feedback-essays.md",
@@ -399006,7 +398896,6 @@
 "chatbots-positive-usefulness-ease-of-use-online":"chatbots-positive-usefulness-ease-of-use-online",
 "chatgpt-abstract-detection-68-14-percent":"chatgpt-abstract-detection-68-14-percent",
 "chatgpt-academic-use-correlates-language-use":"chatgpt-academic-use-correlates-language-use",
-"chatgpt-access-improved-electronic-magnetism-achievement":"chatgpt-access-improved-electronic-magnetism-achievement",
 "chatgpt-accuracy-varies-by-question-level":"chatgpt-accuracy-varies-by-question-level",
 "chatgpt-activity-tracks-local-school-calendars":"chatgpt-activity-tracks-local-school-calendars",
 "chatgpt-ar-lab-feedback-improves-outcomes":"chatgpt-ar-lab-feedback-improves-outcomes",
@@ -399042,7 +398931,6 @@
 "chatgpt-flga-improves-performance-and-perceptions":"chatgpt-flga-improves-performance-and-perceptions",
 "chatgpt-free-use-originality-gains-vanish-unassisted":"chatgpt-free-use-originality-gains-vanish-unassisted",
 "chatgpt-gains-equivalent-human-tutor-hints":"chatgpt-gains-equivalent-human-tutor-hints",
-"chatgpt-gains-knowing-applying-reasoning-subskills":"chatgpt-gains-knowing-applying-reasoning-subskills",
 "chatgpt-generated-hdr-problems-equivalent-to-human-created":"chatgpt-generated-hdr-problems-equivalent-to-human-created",
 "chatgpt-grading-within-10-percent-human":"chatgpt-grading-within-10-percent-human",
 "chatgpt-greater-essay-score-improvement":"chatgpt-greater-essay-score-improvement",
@@ -399054,7 +398942,6 @@
 "chatgpt-inquiry-based-learning-pattern":"chatgpt-inquiry-based-learning-pattern",
 "chatgpt-inspiration-not-innovation-lesson-planning":"chatgpt-inspiration-not-innovation-lesson-planning",
 "chatgpt-instruction-enhanced-efl-writing-motivation":"chatgpt-instruction-enhanced-efl-writing-motivation",
-"chatgpt-instruction-higher-quantum-posttest-achievement":"chatgpt-instruction-higher-quantum-posttest-achievement",
 "chatgpt-interactive-conversational-capability":"chatgpt-interactive-conversational-capability",
 "chatgpt-lab-accuracy-acceptable-inconsistent-below-human-tas":"chatgpt-lab-accuracy-acceptable-inconsistent-below-human-tas",
 "chatgpt-lesson-plan-challenges-practicality-safety":"chatgpt-lesson-plan-challenges-practicality-safety",
@@ -399074,10 +398961,7 @@
 "chatgpt-output-inaccuracy-nonoriginality":"chatgpt-output-inaccuracy-nonoriginality",
 "chatgpt-passable-36-of-40-psychology-assessments":"chatgpt-passable-36-of-40-psychology-assessments",
 "chatgpt-perceived-relatedness-support":"chatgpt-perceived-relatedness-support",
-"chatgpt-posttest-subscale-differences-significant":"chatgpt-posttest-subscale-differences-significant",
 "chatgpt-process-map-loop-metacognitive-disengagement":"chatgpt-process-map-loop-metacognitive-disengagement",
-"chatgpt-qualitative-engagement-comprehension-quantum":"chatgpt-qualitative-engagement-comprehension-quantum",
-"chatgpt-quantum-limitations-graphs-errors":"chatgpt-quantum-limitations-graphs-errors",
 "chatgpt-queries-sought-knowledge-advice":"chatgpt-queries-sought-knowledge-advice",
 "chatgpt-r-code-questions-60-percent-accuracy":"chatgpt-r-code-questions-60-percent-accuracy",
 "chatgpt-rated-high-for-speed-of-completion":"chatgpt-rated-high-for-speed-of-completion",
@@ -399886,7 +399770,6 @@
 "collaboration-with-stakeholders-subtheme":"collaboration-with-stakeholders-subtheme",
 "collaborative-analytics-reflective-assessment-pst-competencies":"collaborative-analytics-reflective-assessment-pst-competencies",
 "collaborative-argumentation-benefits-summary":"collaborative-argumentation-benefits-summary",
-"collaborative-chatbot-answer-verification-problem-solving":"collaborative-chatbot-answer-verification-problem-solving",
 "collaborative-cheating-teacher-provides-answer":"collaborative-cheating-teacher-provides-answer",
 "collaborative-constructions-little-relevance-older-learners":"collaborative-constructions-little-relevance-older-learners",
 "collaborative-entanglement-outperforms-linear-transfer":"collaborative-entanglement-outperforms-linear-transfer",
@@ -405825,7 +405708,6 @@
 "gender-differences-2d-3d-processing-items":"gender-differences-2d-3d-processing-items",
 "gender-differences-aa-cognitive-parameters":"gender-differences-aa-cognitive-parameters",
 "gender-differences-ai-perceptions-limited-dimensions":"gender-differences-ai-perceptions-limited-dimensions",
-"gender-differences-chatgpt-use-patterns":"gender-differences-chatgpt-use-patterns",
 "gender-differences-enjoyment-boredom-early-grades":"gender-differences-enjoyment-boredom-early-grades",
 "gender-differences-enjoyment-reading-math":"gender-differences-enjoyment-reading-math",
 "gender-differences-gamified-security-training":"gender-differences-gamified-security-training",
@@ -419925,7 +419807,6 @@
 "students-passive-users-to-critical-evaluators-genai":"students-passive-users-to-critical-evaluators-genai",
 "students-pause-video-to-view-segment-menu":"students-pause-video-to-view-segment-menu",
 "students-perceive-cartoons-helpful-vocabulary-accuracy":"students-perceive-cartoons-helpful-vocabulary-accuracy",
-"students-perceive-chatgpt-valuable-learning-tool":"students-perceive-chatgpt-valuable-learning-tool",
 "students-perceive-clicker-levels-equally-helpful":"students-perceive-clicker-levels-equally-helpful",
 "students-perceive-data-comics-accessible-engaging-memorable":"students-perceive-data-comics-accessible-engaging-memorable",
 "students-perceive-genai-academic-benefits":"students-perceive-genai-academic-benefits",
@@ -419963,7 +419844,6 @@
 "students-recognise-genai-benefits-and-limitations":"students-recognise-genai-benefits-and-limitations",
 "students-recognize-harm-only-when-images-reveal-answer":"students-recognize-harm-only-when-images-reveal-answer",
 "students-recognize-writing-improvement-ai-feedback":"students-recognize-writing-improvement-ai-feedback",
-"students-recommend-chatgpt-suggest-improvements":"students-recommend-chatgpt-suggest-improvements",
 "students-recommend-office-hours-over-llms":"students-recommend-office-hours-over-llms",
 "students-recommend-simulation-in-each-course":"students-recommend-simulation-in-each-course",
 "students-reconstruct-authentic-practice-in-simplified-simulation":"students-reconstruct-authentic-practice-in-simplified-simulation",
@@ -432282,7 +432162,6 @@
 "integrate-ai-task-literacy-cte-curricula":"integrate-ai-task-literacy-cte-curricula",
 "integrate-anchored-discussion-functionality":"integrate-anchored-discussion-functionality",
 "integrate-bilingualism-all-instructional-settings":"integrate-bilingualism-all-instructional-settings",
-"integrate-chatgpt-supplement-traditional-quantum-teaching":"integrate-chatgpt-supplement-traditional-quantum-teaching",
 "integrate-chatgpt-with-peer-feedback-essays":"integrate-chatgpt-with-peer-feedback-essays",
 "integrate-computational-thinking-across-k12-subjects":"integrate-computational-thinking-across-k12-subjects",
 "integrate-ct-into-disciplinary-learning":"integrate-ct-into-disciplinary-learning",

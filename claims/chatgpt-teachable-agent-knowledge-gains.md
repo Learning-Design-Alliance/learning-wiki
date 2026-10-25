@@ -55,7 +55,7 @@ ANCOVA with pre-test scores as covariate compared students who taught a gpt-4 te
 - [Teaching a ChatGPT agent improves students' self-regulated learning, specifically self-efficacy and use of cognitive strategies](chatgpt-teaching-self-efficacy-cognitive-strategies.md) — related
 - [Teaching a ChatGPT agent does not significantly change students' test anxiety](chatgpt-teaching-test-anxiety-no-difference.md) — related
 - [Learners receiving ChatGPT-generated hints showed statistically significant learning gains compared to a no-hint control in an online mathematics tutoring experiment](chatgpt-hints-significant-gains-versus-control.md) — related
-- [Eleventh-grade students with ChatGPT access scored significantly higher than traditionally taught controls on the electronic magnetism post-test, with large effect sizes](chatgpt-access-improved-electronic-magnetism-achievement.md) — related
+- Eleventh-grade students with ChatGPT access scored significantly higher than traditionally taught controls on the electronic magnetism post-test, with large effect sizes — related
 - [Adding a teachable agent to the standard science curriculum improved fourth-graders' learning gains on both curriculum tests and researcher-designed hierarchical reasoning tests](ta-improves-basic-and-added-value-gains-fourth-grade.md) — a narrower finding that bears on this claim
 - [TAIA produced higher adjusted post-test scientific achievement than worksheet-supported inquiry, controlling for pre-test and ICT competency](taia-higher-posttest-achievement-rural.md) — related
 - [Conversational-agent prompts improve student dialogue outcomes at both individual and dyad levels](conversational-agent-prompts-improve-individual-and-dyad-outcomes.md) — related

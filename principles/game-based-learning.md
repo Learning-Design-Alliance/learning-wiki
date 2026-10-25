@@ -10,10 +10,6 @@ generated:
   by: claude/unspecified
   at: 2026-10-19
 sources:
-  - id: liu-2020
-    resource: "https://doi.org/10.3991/ijet.v15i14.14675"
-    title: "Liu, Z. Y., Shaikh, Z., & Gazizova, F. (2020). Using the concept of game-based learning in education. *International Journal of Emerging Technologies in Learning, 15*(14), 53-64"
-    author: "Liu, Z. Y., Shaikh, Z., & Gazizova, F"
   - id: an-2020
     resource: "https://doi.org/10.46328/ijte.v3i2.27"
     title: "An, Y. (2020). Designing effective gamified learning experiences. *International Journal of Technology in Education, 3*(2), 62-69"
@@ -199,7 +195,6 @@ A gain in the game, a gain on an aligned outside test, delayed retention, transf
 
 ## Key Sources
 - Eseryel, D., Law, V., Ifenthaler, D., Ge, X., & Miller, R. (2014). An investigation of the interrelationships between motivation, engagement, and complex problem solving in game-based learning. *Educational Technology & Society, 17*(1), 42-53.
-- Liu, Z. Y., Shaikh, Z., & Gazizova, F. (2020). Using the concept of game-based learning in education. *International Journal of Emerging Technologies in Learning, 15*(14), 53-64. [https://doi.org/10.3991/ijet.v15i14.14675](https://doi.org/10.3991/ijet.v15i14.14675)
 - Boghian, I., Cojocariu, V. M., Popescu, C. V., & Mâţă, L. (2019). Game-based learning - Using board games in adult education. *Journal of Educational Sciences and Psychology, 9*(1).
 - An, Y. (2020). Designing effective gamified learning experiences. *International Journal of Technology in Education, 3*(2), 62-69. [https://doi.org/10.46328/ijte.v3i2.27](https://doi.org/10.46328/ijte.v3i2.27)
 - Plass, J. L., Homer, B. D., Kinzer, C., Frye, J., & Perlin, K. (2011). *Learning mechanics and assessment mechanics for games for learning* (G4LI White Paper #01/2011, Version 0.1). Games for Learning Institute (New York University, CUNY Graduate Center, Teachers College Columbia University). [researchgate.net/publication/272815253](https://www.researchgate.net/publication/272815253_Learning_Mechanics_and_Assessment_Mechanics_for_Games_for_Learning)
@@ -392,4 +387,8 @@ The authors conclude that game play alone can be supplemented with instruction: 
 
 ## Key Sources
 - Shen, C.-Y., & O’Neil, H. (2006). The Effectiveness of Worked Examples in a Game-Based Learning Environment. Paper presented at the annual meeting of the American Educational Research Association (AERA), San Francisco, CA. https://eric.ed.gov/?id=ED491961
+-->
+
+<!-- deprecated 2026-10-25: retracted (International Journal of Emerging Technologies in Learning, 2022-07-04); no longer cited.
+- Liu, Z. Y., Shaikh, Z., & Gazizova, F. (2020). Using the concept of game-based learning in education. *International Journal of Emerging Technologies in Learning, 15*(14), 53-64. [https://doi.org/10.3991/ijet.v15i14.14675](https://doi.org/10.3991/ijet.v15i14.14675)
 -->

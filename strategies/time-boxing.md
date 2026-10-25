@@ -19,7 +19,7 @@ Time boxing assigns a specific, bounded interval (e.g., 25 minutes, one class pe
 
 ## Design Implications
 
-Time boxing works because it attacks the two dominant failure modes of self-directed study: procrastination (starting is delayed because the task feels unbounded) and inefficient persistence (continuing past the point of diminishing returns) [Deadlines and bounded commitments reduce procrastination.](https://doi.org/10.1111/1467-9280.00441) [+M]. Pre-committing to a start time removes the decision of *when* to begin, which is where procrastination concentrates [Procrastination is strongly linked to task aversiveness and lack of structure.](https://doi.org/10.1037/0033-2909.133.1.65) [+S]. The hard stop also forces periodic retrieval and consolidation rather than marathon sessions, aligning with [Spaced Practice](../principles/spaced-learning.md) and [Cognitive Load Management](../principles/cognitive-load-management.md).
+Time boxing works because it attacks the two dominant failure modes of self-directed study: procrastination (starting is delayed because the task feels unbounded) and inefficient persistence (continuing past the point of diminishing returns). Pre-committing to a start time removes the decision of *when* to begin, which is where procrastination concentrates [Procrastination is strongly linked to task aversiveness and lack of structure.](https://doi.org/10.1037/0033-2909.133.1.65) [+S]. The hard stop also forces periodic retrieval and consolidation rather than marathon sessions, aligning with [Spaced Practice](../principles/spaced-learning.md) and [Cognitive Load Management](../principles/cognitive-load-management.md).
 
 ### Context
 #### Requirements
@@ -71,7 +71,10 @@ Time boxing works because it attacks the two dominant failure modes of self-dire
 - **Writing-center "shut up and write" sessions** — communal 25-minute timed writing sprints (e.g., the Academic Writing Club model), using social commitment to enforce the box boundary.
 
 ## Key Sources
-- Ariely, D., & Wertenbroch, K. (2002). Procrastination, deadlines, and performance: Self-control by precommitment. *Psychological Science, 13*(3), 219–224. [doi:10.1111/1467-9280.00441](https://doi.org/10.1111/1467-9280.00441)
 - Steel, P. (2007). The nature of procrastination: A meta-analytic and theoretical review of quintessential self-regulatory failure. *Psychological Bulletin, 133*(1), 65–94. [doi:10.1037/0033-2909.133.1.65](https://doi.org/10.1037/0033-2909.133.1.65)
 - Locke, E. A., & Latham, G. P. (2002). Building a practically useful theory of goal setting and task motivation: A 35-year odyssey. *American Psychologist, 57*(9), 705–717. [doi:10.1037/0003-066X.57.9.705](https://doi.org/10.1037/0003-066X.57.9.705)
 - Zimmerman, B. J. (2002). Becoming a self-regulated learner: An overview. *Theory Into Practice, 41*(2), 64–70. [doi:10.1207/s15430421tip4102_2](https://doi.org/10.1207/s15430421tip4102_2)
+
+<!-- deprecated 2026-10-25: retracted (Psychological Science, notice 10.1177/09567976261488042, 2026-09-02); no longer cited.
+- Ariely, D., & Wertenbroch, K. (2002). Procrastination, deadlines, and performance: Self-control by precommitment. *Psychological Science, 13*(3), 219–224. [doi:10.1111/1467-9280.00441](https://doi.org/10.1111/1467-9280.00441)
+-->
