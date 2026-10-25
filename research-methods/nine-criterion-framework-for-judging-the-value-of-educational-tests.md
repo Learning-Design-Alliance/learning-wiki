@@ -27,4 +27,4 @@ The article enumerates nine virtues a test may possess to varying degrees, from 
 -
 
 ## Key Sources
-- Franzen, R., & Knight, F. B. (1921). Criteria to Employ in Choice of Tests. The Journal of Educational Psychology.
+- Franzen, R., & Knight, F. B. (1921). Criteria to Employ in Choice of Tests. The Journal of Educational Psychology. https://doi.org/10.1037/h0075312
