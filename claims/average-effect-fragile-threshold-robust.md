@@ -33,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Dang 2026 (2): the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Dropping the three lowest-scoring students in the pre-intervention treated cell reduces the average effect from 2.34 to 1.88 marks (HC1 p = 0.099; clustered p = 0.041); dropping eight reduces it to 1.41 (clustered p = 0.127). [→ Dang 2026](#dang-2026)

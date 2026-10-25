@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · LUO Lan 2024: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Mode A included 11 cases in which dyads were unable to reach a justified solution within the 10-minute limit, involving five families. [→ LUO Lan 2024](#luo-lan-2024)

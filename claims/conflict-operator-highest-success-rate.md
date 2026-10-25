@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Ganganath 2026: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` CONFLICT achieves the highest success rate (79.03%, 72 appearances) among the five curiosity operators, whereas NOVELTY appears most frequently (258 appearances) but achieves a substantially lower success rate (61.42%). [→ Ganganath 2026](#ganganath-2026)

@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q3` · `i1` small
 > **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Guido Makransky 2025: groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i1` The ANOVA on post-test self-efficacy did not reach significance, η2 = 0.026. [→ Guido Makransky 2025](#guido-makransky-2025)

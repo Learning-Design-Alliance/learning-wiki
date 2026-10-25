@@ -34,6 +34,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i1`–`i2`
 > **Currency** · newest study 2026 · checked against its sources 2026-10-15 (automated, 2 of 2 entries) · not reviewed by a person
+> **Design limits** · Grace Liu 2026: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i2` After AI removal, the AI condition had a lower unassisted solve rate than controls (Cohen's d = -0.42). [→ Grace Liu 2026](#grace-liu-2026)

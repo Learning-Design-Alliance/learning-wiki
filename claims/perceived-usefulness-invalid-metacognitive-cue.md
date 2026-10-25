@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q2`
 > **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Urban 2024: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Perceived usefulness of ChatGPT was moderately associated with higher bias index (overestimation), median r = .24, while not correlating with actual performance, median r = -.01. [→ Urban 2024](#urban-2024)

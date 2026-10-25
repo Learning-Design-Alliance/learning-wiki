@@ -26,6 +26,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
 > **Currency** · newest study 2025 · checked against its sources 2026-10-16 (automated, 1 of 1 entry) · not reviewed by a person
+> **Design limits** · Guo 2025: groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` The intervention's effect on post math class interest was not significant, despite significant effects on relevance as identification in the collective condition. [→ Guo 2025](#guo-2025)

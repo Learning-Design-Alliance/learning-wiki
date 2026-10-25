@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Jesse A. Rodríguez 2026: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Because the Winter 2026 deployment bundled LaTA autograding, a corrections workflow, and expanded TA office hours relative to Winter 2025, any exam-score gain should be attributed to the composite intervention. [→ Jesse A. Rodríguez 2026](#jesse-a-rodriguez-2026)

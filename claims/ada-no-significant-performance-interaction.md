@@ -33,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i3` large
 > **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Cilia Ricarda Rücker 2025: groups were assigned but students were analysed as independent · Cilia Ricarda Rücker 2025 (2): groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i3` RM-ANOVA on pre-post performance showed a significant main effect of time (ges = 0.22) and of group (ges = 0.03), but no significant group-by-time interaction (p = 0.094). [→ Cilia Ricarda Rücker 2025](#cilia-ricarda-rucker-2025)

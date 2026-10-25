@@ -34,6 +34,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r3` · `q1`
 > **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
+> **Design limits** · Rose E. Wang 2025: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q1 i?` Treatment tutors generally found Tutor CoPilot helpful, particularly for well-phrased explanations and breaking down complex concepts on the spot. [→ Rose E. Wang 2025](#rose-e-wang-2025)

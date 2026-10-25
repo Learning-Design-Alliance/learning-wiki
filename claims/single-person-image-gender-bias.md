@@ -26,6 +26,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2` · `i3` large
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
+> **Design limits** · Erfan Entezami 2026: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i3` Single-person images show significant gender bias with strong effect sizes (GPT Image 2: p<0.001, V=0.64; Imagen 4: p<0.001, V=0.65), with the majority of depicted individuals being men. [→ Erfan Entezami 2026](#erfan-entezami-2026)

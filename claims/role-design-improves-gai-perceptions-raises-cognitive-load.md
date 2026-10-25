@@ -67,6 +67,6 @@ Perceived collaborative cognitive load was measured as an outcome in the same qu
 - [Working Memory](../learner-variables/working-memory.md) — outcome: instruction changes it
 
 ## Related Claims
-- [Symbiosis theory-based role design significantly enhances the quality of collaborative knowledge construction in human-GAI online collaboration](role-design-enhances-collaborative-knowledge-construction-quality.md) — related
+- [Collaborative knowledge construction among graduate students working with generative AI online was of higher quality after a symbiosis theory-based role design than before it, in a pretest-posttest study with no comparison group reported](role-design-enhances-collaborative-knowledge-construction-quality.md) — related
 - [Role design facilitates transitions among higher-order collaborative behaviors in human-GAI collaboration](role-design-facilitates-higher-order-behavior-transitions.md) — related
 - [Students in secondary mathematics report high acceptance of the domain-specific AI chatbot ADA across all Technology Acceptance Model dimensions](ada-high-tam-acceptance-secondary-math.md) — related

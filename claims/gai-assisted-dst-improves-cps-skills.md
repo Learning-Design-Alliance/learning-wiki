@@ -1,7 +1,7 @@
 ---
 type: claim
-title: GAI-assisted DST creation produced significantly higher collaborative problem-solving skills than traditional methods among university students
-description: GAI-assisted DST creation produced significantly higher collaborative problem-solving skills than traditional methods among university students
+title: University students who created digital stories with generative-AI help rated their own collaborative problem-solving skills higher than traditionally taught students
+description: University students who created digital stories with generative-AI help rated their own collaborative problem-solving skills higher than traditionally taught students
 id: gai-assisted-dst-improves-cps-skills
 aliases: [both-groups-improved-cps-gai-larger-gains]
 status: review
@@ -10,7 +10,6 @@ generated:
   at: 2026-10-15
 evidence_strength: moderate
 newest_evidence: 2025
-source_checked: 2026-10-16
 sources:
   - id: wei-2025
     resource: "https://doi.org/10.1186/s41239-025-00526-0"
@@ -22,11 +21,12 @@ sources:
     rigour: 2
 ---
 
-# GAI-assisted DST creation produced significantly higher collaborative problem-solving skills than traditional methods among university students
+# University students who created digital stories with generative-AI help rated their own collaborative problem-solving skills higher than traditionally taught students
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
-> **Currency** · newest study 2025 · checked against its sources 2026-10-16 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Wei 2025: groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 

@@ -26,6 +26,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2` · `i3` large
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
+> **Design limits** · Juho Leinonen 2026: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i3` Baseline LLM reflection responses were substantially more detectable than real student responses (Cliff's delta = -0.841), with persona and typo prompting reducing separability. [→ Juho Leinonen 2026](#juho-leinonen-2026)

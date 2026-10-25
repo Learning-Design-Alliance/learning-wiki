@@ -26,6 +26,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
+> **Design limits** · Jake O'Brien 2026: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Pre-lesson, majorities agreed that LLM use can cause dependence (81%), false confidence (58%), and reduced conceptual understanding (63%), while 77% agreed LLMs help learning by checking work. [→ Jake O'Brien 2026](#jake-obrien-2026)

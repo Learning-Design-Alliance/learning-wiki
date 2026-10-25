@@ -49,7 +49,7 @@ Focus group participants discussed collaborative workspaces (e.g., Notion, Miro,
 
 ## Related Claims
 
-- [GAI-assisted DST creation produced significantly higher collaborative problem-solving skills than traditional methods among university students](gai-assisted-dst-improves-cps-skills.md) — the general claim this finding bears on, with the studies behind it
+- [University students who created digital stories with generative-AI help rated their own collaborative problem-solving skills higher than traditionally taught students](gai-assisted-dst-improves-cps-skills.md) — the general claim this finding bears on, with the studies behind it
 - [Adult learners expect AI to foster involvement by sparking questions, tapping interests, and providing continuous feedback and effort acknowledgment](ai-fosters-adult-learner-involvement.md) — a broader claim this one bears on
 - [Adult learners perceive conversational AI as thinking partners that support problem exploration without direct instruction](ai-thinking-partners-support-problem-exploration.md) — related
 - [In CLL, teachers perceive a trust erosion cycle, AI dominance in groups, collaborative hollowing, and a counselor's dilemma](cll-four-ethical-tensions.md) — related

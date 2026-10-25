@@ -33,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Ayanwale 2026: the intervention came bundled with another change · Ayanwale 2026 (2): the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` The Group × Gender interaction on Post_CT_Total was not statistically significant, F(1, 70) = 0.41, p = .527, partial η2 = .006, so Hypothesis 3 was not supported. [→ Ayanwale 2026](#ayanwale-2026)
@@ -69,6 +70,6 @@ The Group × Gender row for Post_Academic_Achievement in the ANCOVA summary tabl
 
 - [GenAI function, intervention duration, publication year, and gender were not significant moderators of GenAI's motivational effect](genai-motivation-null-moderators-function-duration-year-gender.md) — the general claim this finding bears on, with the studies behind it
 - [AI-PBL students achieve high normalized learning gains (g = 0.73) in computational thinking and academic achievement while control students record low gains (g ≤ 0.20)](ai-pbl-high-ngain-versus-control-low.md) — related
-- [AI-supported PBL students obtain significantly higher posttest computational thinking scores than traditional-lecture students when controlling pretest scores](ai-pbl-higher-posttest-computational-thinking.md) — related
+- [AI-supported PBL students reported higher computational thinking on a self-report scale than traditional-lecture students, controlling for pretest scores](ai-pbl-higher-posttest-computational-thinking.md) — related
 - [AI-supported PBL students obtain significantly higher posttest academic achievement scores in robotics programming than traditional-lecture students when controlling pretest scores](ai-pbl-higher-posttest-academic-achievement.md) — related
 - [Pedagogical tool significantly moderates the CT gender gap, with programming and robots associated with male-favoring gaps and other tools (e.g., web-based) showing a negative significant effect](pedagogical-tool-moderates-ct-gender-gap.md) — related

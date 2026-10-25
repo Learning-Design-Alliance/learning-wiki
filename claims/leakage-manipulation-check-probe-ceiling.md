@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Shuyi Fan 2026: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` ConvTutor's mean per-session leakage fraction is 43.0% against 6.4% for PedTutor (P1 supported). [→ Shuyi Fan 2026](#shuyi-fan-2026)

@@ -33,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Ethan Dickey 2026: groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` No significant between-group differences emerged on the Comfort composite (U=5,788, p=.374) or Confidence composite (U=5,152, p=.561) after three assignments. [→ Ethan Dickey 2026](#ethan-dickey-2026)

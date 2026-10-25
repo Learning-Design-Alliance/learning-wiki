@@ -35,6 +35,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
 > **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
+> **Design limits** · Zhen Xu 2026 (2): no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Over-interpretation occurred across all models and document types, e.g., defaulting to the assumption that exams are writing-based. [→ Zhen Xu 2026](#zhen-xu-2026)

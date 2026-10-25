@@ -41,6 +41,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · causal `r2` · `q3` · `i2`–`i3`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Zirui Shan 2026 (3): the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i2` For information retrieval tasks, the correct rate was significantly higher with DC than CV, with a moderate effect size (r = 0.341). [→ Zirui Shan 2026](#zirui-shan-2026)

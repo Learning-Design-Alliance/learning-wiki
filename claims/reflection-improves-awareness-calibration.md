@@ -30,6 +30,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 causal `r2` · `q3` · `i1`–`i3`
 > **Currency** · newest study 2026 · checked against its sources 2026-10-16 (automated, 2 of 2 entries) · not reviewed by a person
+> **Design limits** · Ren S 2026: the intervention came bundled with another change (The reflection prompt was accompanied by increased engagement time on AI-assisted trials) (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i3` The reflection condition showed higher awareness calibration than the open ChatGPT condition (0.59 vs. 0.41, d = 1.12). [→ Ren S 2026](#ren-s-2026)

@@ -33,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Jake O'Brien 2026: the intervention came bundled with another change · Jake O'Brien 2026 (2): the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` After the lesson, agreement that LLM help can leave a false sense of confidence rose from 58% to 88%, and agreement that solution generation reduces conceptual understanding rose from 63% to 85%. [→ Jake O'Brien 2026](#jake-obrien-2026)

@@ -33,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q1`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Alshehri OAO 2026: no comparison group; groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q1 i?` Students recognized hallucinated or fabricated AI content and verified AI claims through systematic triangulation with external sources, with verification becoming a habitual practice (Theme 2 in 100% of reflections; Theme 3 in 81%). [→ Alshehri OAO 2026](#alshehri-oao-2026)

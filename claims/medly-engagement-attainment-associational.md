@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Wayne Harrison 2026: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` Within the intervention group, each additional Medly question answered was associated with approximately 0.18 additional post-test marks after adjustment for baseline attainment. [→ Wayne Harrison 2026](#wayne-harrison-2026)

@@ -26,6 +26,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2023 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
+> **Design limits** · Escalante 2023: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` In a six-week repeated-measures quasi-experiment with 48 ENL students, the group receiving GPT-4 feedback did not differ significantly from the human-tutor-feedback group in writing-score improvement. [→ Escalante 2023](#escalante-2023)

@@ -33,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q1`–`q2`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Alshehri OAO 2026: no comparison group · Alshehri OAO 2026 (2): no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q1 i?` Thematic analysis found students consistently used AI for idea generation, outlining, and lexical refinement while rewriting content in their own words and emphasizing ownership of the final product (evident in 100% of reflections). [→ Alshehri OAO 2026](#alshehri-oao-2026)

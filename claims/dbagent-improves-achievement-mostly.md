@@ -33,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Li 2026 (2): groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` Experimental classes Y02 and Y03 scored significantly higher than the control class on Task 2, while Y03 also significantly outperformed the control on Task 1. [→ Li 2026](#li-2026)

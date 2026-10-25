@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Hakiki 2023: groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Experimental class students using ChatGPT scored significantly higher on the final test than control class students using conventional methods (t count = 5.424 > t table = 2.000, df = 60, α = 0.05). [→ Hakiki 2023](#hakiki-2023)

@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
 > **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Escalante 2023: the comparison group also received the intervention (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Thematic analysis of open-ended responses found the most prominent reason for preferring human feedback was the affordances of sitting down face to face and interacting with a human. [→ Escalante 2023](#escalante-2023)

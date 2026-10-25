@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Po-Chin Chang 2026: groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` The exploitation router's conversion rate is comparable with the static baseline (19.1% vs. 19.6%), while the exploration router yields a higher conversion rate (28.1%); the downstream improvement does not reach statistical significance. [→ Po-Chin Chang 2026](#po-chin-chang-2026)

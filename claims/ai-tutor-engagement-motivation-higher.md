@@ -26,6 +26,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
 > **Currency** · newest study 2025 · checked against its sources 2026-10-17 (automated, 1 of 1 entry) · not reviewed by a person
+> **Design limits** · Kestin 2025: groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` AI-group students agreed more strongly with engagement and motivation statements than in-class students; enjoyment and growth-mindset ratings did not differ significantly. [→ Kestin 2025](#kestin-2025)

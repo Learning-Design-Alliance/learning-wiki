@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Dang 2026: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` The Part 2 standard deviation fell from 7.09 to 5.03 (Brown–Forsythe p = 0.004) while the untreated Part 1 standard deviation moved from 4.32 to 4.67 (p = 0.873). [→ Dang 2026](#dang-2026)

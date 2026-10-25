@@ -26,6 +26,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q4` · `i1` small
 > **Currency** · newest study 2026 · checked against its sources 2026-10-17 (automated, 1 of 1 entry) · not reviewed by a person
+> **Design limits** · Ates 2026: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q4 i1` Both reflective (Cohen's d = 0.39) and hybrid (d = 0.48) feedback outperformed direct GenAI-supported feedback on delayed AI-free transfer, while the direct–peer contrast was negative and non-significant (d = −0.12, p = .149). [→ Ates 2026](#ates-2026)

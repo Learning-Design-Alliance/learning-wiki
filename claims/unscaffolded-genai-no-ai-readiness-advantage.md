@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i0` negligible
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Zhang Jun 2026: groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i0` After controlling for pretest scores, adjusted posttest AI readiness did not differ significantly between the experimental and control groups, with a negligible effect size. [→ Zhang Jun 2026](#zhang-jun-2026)

@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Liu YJ 2026: groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` The AI-enhanced flipped classroom scored significantly higher than the flipped classroom on the comprehensive assessment and on pre-class preparation and PPT quality (p < 0.05), with no significant differences in in-class presentation performance or mastery of professional knowledge. [→ Liu YJ 2026](#liu-yj-2026)

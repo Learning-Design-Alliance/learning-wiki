@@ -33,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Praveen Pathak 2026: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Across 7058 official question parts, exact agreement rose from about 63% (RI) to about 70% (RII), and parts differing by more than one point fell from about 13% to 7%. [→ Praveen Pathak 2026](#praveen-pathak-2026)

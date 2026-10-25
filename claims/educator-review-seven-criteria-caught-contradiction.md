@@ -34,6 +34,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
+> **Design limits** · Gendo Kumoi 2026 (2): no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Across two lessons the educator issued twelve revision instructions over five rounds, organized into seven criteria including completeness, technical viability, factual accuracy, provenance, fit to delivery mode, fit to the learner, and audio continuity. [→ Gendo Kumoi 2026](#gendo-kumoi-2026)

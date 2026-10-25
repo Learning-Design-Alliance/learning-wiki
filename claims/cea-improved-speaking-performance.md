@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3` · `i3` large
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · I Putu Yoga Laksana 2026: the intervention came bundled with another change; groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i3` The experimental group scored significantly higher than the control group on the post-test of speaking performance (M = 82.733 vs M = 78.833; partial η2 = 0.456). [→ I Putu Yoga Laksana 2026](#i-putu-yoga-laksana-2026)

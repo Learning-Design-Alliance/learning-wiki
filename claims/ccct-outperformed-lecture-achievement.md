@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2` · `i3` large
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Özgür Tutal 2026: groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i3` The experimental CCCT group scored significantly higher than the control group on the post-test of curriculum development achievement, with g = 0.839. [→ Özgür Tutal 2026](#ozgur-tutal-2026)

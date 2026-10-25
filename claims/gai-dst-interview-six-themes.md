@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
 > **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Wei 2025: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Semi-structured interviews with 10 experimental-group students identified six recurring themes covering both advantages (efficiency, quality, reflection, interaction, collaboration) and challenges (over-reliance, ethical concerns). [→ Wei 2025](#wei-2025)
@@ -54,5 +55,5 @@ Qualitative thematic analysis of 30-minute semi-structured interviews with 10 ra
 - [Positive attitudes toward ChatGPT increased from before to during the practicum](chatgpt-attitudes-increased-during-practicum.md) — related
 - [Qualitative themes: efficiency and peer influence drive AI use, while confidence and rule ambiguity shape students' perceptions of dependence](qualitative-themes-ai-writing-motivation-dependence.md) — related
 - [Experimental-group students detected AI errors and enacted verification and ethical self-regulation as routine practices](verification-routines-ethical-self-regulation.md) — related
-- [GAI-assisted DST creation produced significantly higher collaborative problem-solving skills than traditional methods among university students](gai-assisted-dst-improves-cps-skills.md) — related
+- [University students who created digital stories with generative-AI help rated their own collaborative problem-solving skills higher than traditionally taught students](gai-assisted-dst-improves-cps-skills.md) — related
 - [University philosophy teachers prioritize fostering students' intellectual growth over transmitting content](philosophy-teachers-prioritize-intellectual-growth-over-content.md) — related

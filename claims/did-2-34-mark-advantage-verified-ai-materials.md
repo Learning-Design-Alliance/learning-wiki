@@ -33,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Dang 2026: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` In a two-cohort difference-in-differences design (170 students, 340 marks), access to verified AI materials was associated with a 2.34-mark advantage (p = 0.045 HC1; p = 0.013 clustered). [→ Dang 2026](#dang-2026)

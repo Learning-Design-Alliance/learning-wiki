@@ -1,7 +1,7 @@
 ---
 type: claim
-title: AI-supported PBL students obtain significantly higher posttest computational thinking scores than traditional-lecture students when controlling pretest scores
-description: AI-supported PBL students obtain significantly higher posttest computational thinking scores than traditional-lecture students when controlling pretest scores
+title: AI-supported PBL students reported higher computational thinking on a self-report scale than traditional-lecture students, controlling for pretest scores
+description: AI-supported PBL students reported higher computational thinking on a self-report scale than traditional-lecture students, controlling for pretest scores
 id: ai-pbl-higher-posttest-computational-thinking
 status: review
 generated:
@@ -28,11 +28,12 @@ sources:
     rigour: 1
 ---
 
-# AI-supported PBL students obtain significantly higher posttest computational thinking scores than traditional-lecture students when controlling pretest scores
+# AI-supported PBL students reported higher computational thinking on a self-report scale than traditional-lecture students, controlling for pretest scores
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q2` · `i3` large
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Ayanwale 2026: the intervention came bundled with another change · Ayanwale 2026 (2): the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i3` In a quasi-experiment with 103 first-year Nigerian undergraduates, the AI-PBL group showed a statistically significant main effect of instructional group on posttest computational thinking, F(1, 70) = 149.23, p < .001, partial η2 = .681, with adjusted means of 3.81 (AI-PBL) versus 2.40 (control). [→ Ayanwale 2026](#ayanwale-2026)

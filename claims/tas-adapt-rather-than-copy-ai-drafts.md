@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Mahinpei 2026: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Average ROUGE-L F1 similarity between draft and final feedback was 0.60 at course level, suggesting TAs use drafts as starting points and adapt them. [→ Mahinpei 2026](#mahinpei-2026)

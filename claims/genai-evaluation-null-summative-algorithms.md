@@ -34,6 +34,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 > **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
+> **Design limits** · Ethan Dickey 2026: groups were assigned but students were analysed as independent · Ethan Dickey 2026 (2): groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` In a randomized crossover algorithms course (N=220), midterm scores did not differ significantly between the solving and GenAI-evaluation groups (t(218)=-0.58, p=.56, d=-0.08). [→ Ethan Dickey 2026](#ethan-dickey-2026)

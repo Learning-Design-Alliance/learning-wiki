@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Ravi 2026: groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Anthropomorphism of Phoenix varied with modality (audio vs. text) and accent; voiceless participants mostly drew technology (5 of 6), and two assumed the agent was White from text alone. [→ Ravi 2026](#ravi-2026)

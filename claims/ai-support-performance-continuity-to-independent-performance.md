@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
 > **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Yueqiao Jin 2025: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Higher AI-support scores predicted independent performance on every rubric dimension and the composite, though this cannot distinguish learning from stable writing competence. [→ Yueqiao Jin 2025](#yueqiao-jin-2025)

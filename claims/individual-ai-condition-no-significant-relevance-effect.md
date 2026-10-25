@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i1` small
 > **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Guo 2025: groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i1` Planned comparisons found no significant differences between E1 and C (p = .261, partial η² = .009), or between E1 and E2 (p = .175, η² = .013), on post relevance as identification with math. [→ Guo 2025](#guo-2025)

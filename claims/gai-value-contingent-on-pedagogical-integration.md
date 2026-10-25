@@ -62,7 +62,7 @@ Narrative synthesis of prior GAI-in-education literature in the introduction. Th
 
 
 ## Related Claims
-- [Symbiosis theory-based role design significantly enhances the quality of collaborative knowledge construction in human-GAI online collaboration](role-design-enhances-collaborative-knowledge-construction-quality.md) — a narrower finding that bears on this claim
+- [Collaborative knowledge construction among graduate students working with generative AI online was of higher quality after a symbiosis theory-based role design than before it, in a pretest-posttest study with no comparison group reported](role-design-enhances-collaborative-knowledge-construction-quality.md) — a narrower finding that bears on this claim
 - [AI-supported adaptive systems are reported to enhance adult learner engagement, motivation, and outcomes when aligned with learner goals and prior knowledge](ai-adaptive-systems-enhance-adult-engagement.md) — a narrower finding that bears on this claim
 - [AI integration is associated with improvements in teaching, learning, and administrative efficiency in higher education when supported by adequate infrastructure](ai-integration-improves-teaching-learning-admin-efficiency.md) — related
 - [Nursing students and faculty report concerns that AI use may weaken critical thinking, enable plagiarism and misinformation, and create unequal access](ai-concerns-critical-thinking-plagiarism-nursing.md) — related

@@ -34,6 +34,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
+> **Design limits** · Jaewook Kim 2026: the intervention came bundled with another change (chronological sequence alignment (TAlign) when assessing the corrected PKT pipeline) (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` The official implementation applies Softmax across the time-step dimension, allowing normalization over the entire interaction sequence and introducing temporal data leakage. [→ Jaewook Kim 2026](#jaewook-kim-2026)

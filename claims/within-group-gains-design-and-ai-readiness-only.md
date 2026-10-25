@@ -33,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Zhang Jun 2026: groups were assigned but students were analysed as independent · Zhang Jun 2026 (2): groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` The experimental group showed significant pretest–posttest increases in instructional design performance and AI readiness, but not in SRL or critical thinking. [→ Zhang Jun 2026](#zhang-jun-2026)

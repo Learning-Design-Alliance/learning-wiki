@@ -29,6 +29,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 causal `r1`–`r2` · `q2`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Yao X-C and Fan L 2026: groups were assigned but students were analysed as independent · Yao X-C and Fan L 2026 (2): the intervention came bundled with another change; groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` No coded misunderstanding appeared in 84.0% of Diagnostic Review reflection records versus 77.8% of the 135 available Control follow-up records; Control records included more accepting AI without judgment (6.9%) and ignored feedback (4.2%). [→ Yao X-C and Fan L 2026](#yao-x-c-and-fan-l-2026)

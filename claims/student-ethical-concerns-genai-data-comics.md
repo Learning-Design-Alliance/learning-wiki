@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Zirui Shan 2026: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` A majority (N=45) raised misinformation concerns, N=40 bias and inequity concerns, and N=37 ownership and intellectual property concerns. [→ Zirui Shan 2026](#zirui-shan-2026)

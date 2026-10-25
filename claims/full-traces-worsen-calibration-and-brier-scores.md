@@ -33,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r3` · `q3` · `i1`–`i2`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Fernandes 2026 (2): the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i1` Calibration bias differed significantly across conditions, with Full-trace showing greater overconfidence (M = 0.265) than Answer-only (M = 0.189). [→ Fernandes 2026](#fernandes-2026)

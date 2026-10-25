@@ -68,7 +68,7 @@ The review reports, citing Aura, Alho, and Kallio (2023), that role-playing exer
 ## Related Claims
 - [21st Century after-school programs had only limited influence on academic performance, including test scores, grades, and homework completion](21st-cclc-limited-academic-influence.md) — related
 - [The 21st Century Community Learning Centers program had few impacts on student achievement overall](21st-cclc-national-evaluation-no-academic-improvement.md) — related
-- [Symbiosis theory-based role design significantly enhances the quality of collaborative knowledge construction in human-GAI online collaboration](role-design-enhances-collaborative-knowledge-construction-quality.md) — related
+- [Collaborative knowledge construction among graduate students working with generative AI online was of higher quality after a symbiosis theory-based role design than before it, in a pretest-posttest study with no comparison group reported](role-design-enhances-collaborative-knowledge-construction-quality.md) — related
 - [A game-based collaboration script with assigned in-game roles shifted elementary students' attitudes towards collaboration](game-script-shifted-collaboration-attitudes.md) — related
 - [No reviewed participatory design method satisfies all seven criteria for designing disruptive socio-technical systems](no-reviewed-method-meets-all-seven-criteria.md) — related
 - [Authentic assessment designs most commonly target knowledge construction and 21st-century skills, with digital literacy rarely addressed](aa-cognitive-challenges-knowledge-and-21st-century-skills.md) — related

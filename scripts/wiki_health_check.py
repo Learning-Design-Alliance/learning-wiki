@@ -247,7 +247,8 @@ def source_validity_counts() -> dict:
         out["source_validity_open"] = len({r["source"] for r in rows if r["severity"] == "high"})
         import judge_study_validity as jsv
         rows, waiting = jsv.open_findings()
-        out["study_validity_open"] = len(rows) + waiting
+        out["study_validity_open"] = len(rows)
+        out["study_validity_waiting"] = waiting   # a second judge that failed to reply; retried next run
     except Exception as e:      # a broken check must not hide the rest of the report
         out["source_validity_error"] = str(e)
     return out

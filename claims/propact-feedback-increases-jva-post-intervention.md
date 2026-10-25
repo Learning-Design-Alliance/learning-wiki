@@ -26,6 +26,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
 > **Currency** · newest study 2026 · checked against its sources 2026-10-18 (automated, 1 of 1 entry) · not reviewed by a person
+> **Design limits** · Anahita Golrang 2026: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` JVA averaged over two minutes after feedback was significantly higher than JVA averaged over the two minutes before feedback. [→ Anahita Golrang 2026](#anahita-golrang-2026)

@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Omar Alsaiari 2026: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` Uptake was significantly higher in Enacted Feedback (estimated 26.2%) than in Directed Feedback (14.1%) and Self-Directed Feedback (0.1%), with Enacted vs Directed OR = 2.16; no standardised effect size was printed. [→ Omar Alsaiari 2026](#omar-alsaiari-2026)

@@ -26,6 +26,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q4` · `i1` small
 > **Currency** · newest study 2026 · checked against its sources 2026-10-16 (automated, 1 of 1 entry) · not reviewed by a person
+> **Design limits** · Ates 2026: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q4 i1` In a cluster-randomized multisite experiment, direct GenAI-supported feedback outperformed peer feedback on four-dimension argument-quality gain (Cohen's d = 0.25), and both reflective (d = 0.29) and hybrid (d = 0.40) feedback outperformed direct GenAI feedback. [→ Ates 2026](#ates-2026)

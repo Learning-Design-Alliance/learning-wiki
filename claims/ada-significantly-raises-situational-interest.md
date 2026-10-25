@@ -26,6 +26,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
 > **Currency** · newest study 2025 · checked against its sources 2026-10-17 (automated, 1 of 1 entry) · not reviewed by a person
+> **Design limits** · Cilia Ricarda Rücker 2025: groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i2` In a cluster-randomized comparison, the chatbot group showed significantly higher situational interest than the control group using static help cards, with a medium effect of d = 0.63. [→ Cilia Ricarda Rücker 2025](#cilia-ricarda-rucker-2025)

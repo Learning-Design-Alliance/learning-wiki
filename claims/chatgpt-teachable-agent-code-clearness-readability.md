@@ -33,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q2` · `i3` large
 > **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Angxuan Chen 2024: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i3` The experimental group scored significantly higher than the control group on code clearness and readability in the pseudocode test (F = 7.39, η2 = 0.37). [→ Angxuan Chen 2024](#angxuan-chen-2024)

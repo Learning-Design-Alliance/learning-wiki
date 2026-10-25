@@ -26,6 +26,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
 > **Currency** · newest study 2026 · checked against its sources 2026-10-19 (automated, 1 of 1 entry) · not reviewed by a person
+> **Design limits** · Xiao 2026: groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` DiD estimates were not statistically significant for attitudes toward collaborative learning, overall teamwork quality, or the remaining Team-Q subscales. [→ Xiao 2026](#xiao-2026)

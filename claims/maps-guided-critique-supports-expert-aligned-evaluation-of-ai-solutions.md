@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Nikhil Sanjay Borse 2026: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Groups prepared with MAPS-based reflection more often identified expert-aligned issues (missing numerical integration, unclear notation, qualitative rather than quantitative plotting) than groups prepared by solving a related problem. [→ Nikhil Sanjay Borse 2026](#nikhil-sanjay-borse-2026)

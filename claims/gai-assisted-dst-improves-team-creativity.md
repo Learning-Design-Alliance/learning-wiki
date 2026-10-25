@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
 > **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Wei 2025: groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i3` The experimental group scored significantly higher on general TCP (F = 64.51, p < 0.001, partial η² = 0.86) and on all four TCP dimensions, with the largest effects in user experience (η² = 0.78) and novelty (η² = 0.68). [→ Wei 2025](#wei-2025)
@@ -45,7 +46,7 @@ One-way ANOVA on expert-rated TCP scores (three experts, ICC = 0.89) comparing s
 
 
 ## Related Claims
-- [GAI-assisted DST creation produced significantly higher collaborative problem-solving skills than traditional methods among university students](gai-assisted-dst-improves-cps-skills.md) — related
+- [University students who created digital stories with generative-AI help rated their own collaborative problem-solving skills higher than traditionally taught students](gai-assisted-dst-improves-cps-skills.md) — related
 - [GAI-assisted DST creation significantly enhanced all five CPS sub-dimensions compared to traditional methods](gai-assisted-dst-improves-cps-subdimensions.md) — related
 - [Interviews revealed six themes: enhanced efficiency, improved quality, facilitated reflection, increased interaction, improved collaboration, and concerns about over-reliance](gai-dst-interview-six-themes.md) — related
 - [Structured prompting raises perceived interaction clarity and dependability but reduces perceived novelty of AI-supported learning](prompting-raises-perspicuity-dependability-lowers-novelty.md) — related

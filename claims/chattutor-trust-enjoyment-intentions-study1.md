@@ -34,6 +34,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r3` · `q3` · `i2`–`i3`
 > **Currency** · newest study 2025 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
+> **Design limits** · Guido Makransky 2025: groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i2` ChatTutor students scored significantly higher on trust than ChatGPT students, Cohen's d = 0.60. [→ Guido Makransky 2025](#guido-makransky-2025)

@@ -33,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q3` · `i2` medium
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Zhang Zhen; Fan Siyu; Qi Chunhui 2026: groups were assigned but students were analysed as independent · Zhang Zhen; Fan Siyu; Qi Chunhui 2026 (2): groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i2` Decision acceptance was significantly higher for participants receiving explanatory feedback than for those without explanations. [→ Zhang Zhen; Fan Siyu; Qi Chunhui 2026](#zhang-zhen-fan-siyu-qi-chunhui-2026)

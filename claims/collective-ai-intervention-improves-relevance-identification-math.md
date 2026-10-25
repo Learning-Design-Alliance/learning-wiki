@@ -34,6 +34,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q3` · `i2` medium
 > **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
+> **Design limits** · Guo 2026: groups were assigned but students were analysed as independent · Guo 2026 (2): groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i2` The collective generative AI condition (E2) showed significantly higher post-intervention relevance as identification with math than the control group, with a medium effect size (η2 = 0.073). [→ Guo 2026](#guo-2026)

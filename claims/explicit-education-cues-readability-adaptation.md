@@ -34,6 +34,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
+> **Design limits** · Donya Rooein 2026: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` When education levels are explicitly mentioned, users with higher educational level receive less readable responses, indicating models can partially adapt readability. [→ Donya Rooein 2026](#donya-rooein-2026)

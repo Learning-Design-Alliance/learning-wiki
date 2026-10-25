@@ -30,6 +30,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 causal `r2` · `q2`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
+> **Design limits** · Yao X-C and Fan L 2026: the intervention came bundled with another change; groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Mean issue-level F1 agreement was 0.768 in Diagnostic Review versus 0.650 in Control, and Diagnostic Review F1 rose from 0.738 in Cycle 1 to 0.803 in Cycle 3. [→ Yao X-C and Fan L 2026](#yao-x-c-and-fan-l-2026)

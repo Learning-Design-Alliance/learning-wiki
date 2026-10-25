@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Xiaotian Su 2026: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i2` Engage-to-Unlock participants completed evaluation in 17.41 minutes on average versus 22.21 (Standard Chatbot, d=−0.48) and 20.29 (Time-Matched Unlock, d=−0.30), and showed higher overall judgment efficiency than Standard Chatbot (d=0.53). [→ Xiaotian Su 2026](#xiaotian-su-2026)

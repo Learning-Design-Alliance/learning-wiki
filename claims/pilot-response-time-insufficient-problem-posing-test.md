@@ -26,6 +26,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q1`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
+> **Design limits** · Dai 2026: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q1 i?` In a pilot with Grade 3 students outside the study sample, the initial response time was insufficient, prompting extension of the formal test time. [→ Dai 2026](#dai-2026)

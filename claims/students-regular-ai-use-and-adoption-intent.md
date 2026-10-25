@@ -26,6 +26,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
+> **Design limits** · Liu YJ 2026: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` 75.86% of surveyed students used AI tools at least weekly; mean ratings were 4.07 for verifying AI content with literature, 4.03 for combining instructor guidance with AI, and 3.83 for intention to continue use. [→ Liu YJ 2026](#liu-yj-2026)

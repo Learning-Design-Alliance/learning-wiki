@@ -33,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q2` · `i2` medium
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Özgür Tutal 2026: groups were assigned but students were analysed as independent · Özgür Tutal 2026 (2): groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i2` The experimental group's pre-to-post achievement improvement was statistically significant with a moderate effect size (g = 0.738). [→ Özgür Tutal 2026](#ozgur-tutal-2026)

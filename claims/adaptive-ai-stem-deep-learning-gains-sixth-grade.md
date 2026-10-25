@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Bin Bakheet 2026: groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Median (IQR) summaries and Mann–Whitney U tests showed statistically significant differences favoring the experimental group on explanation, interpretation, application, and idea generation. [→ Bin Bakheet 2026](#bin-bakheet-2026)

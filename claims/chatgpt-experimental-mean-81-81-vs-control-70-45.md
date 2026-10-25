@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Hakiki 2023: groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` The experimental class mean (81.81) exceeded the control class mean (70.45) on the final test. [→ Hakiki 2023](#hakiki-2023)

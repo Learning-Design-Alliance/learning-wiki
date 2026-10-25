@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Ravi 2026: groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Participants in Black- and Indian-accented audio conditions predominantly drew Phoenix as human (12 of 17 drawings), while British-accent participants overwhelmingly drew it as technology (9 of 10). [→ Ravi 2026](#ravi-2026)

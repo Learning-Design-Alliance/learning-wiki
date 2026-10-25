@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Wayne Harrison 2026: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Only six of 39 teacher trials returned process surveys; implementation varied (homework vs lesson time, training attendance), and control revision included other digital platforms. [→ Wayne Harrison 2026](#wayne-harrison-2026)
