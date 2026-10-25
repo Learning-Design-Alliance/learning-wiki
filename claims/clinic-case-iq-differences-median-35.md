@@ -47,3 +47,5 @@ Second part of the study: sixteen clinic cases examined by the Psycho-Educationa
 ## Related Claims
 - [Children whose low first IQs reflected linguistic or environmental deficiency showed substantial IQ gains after gaining command of English or schooling](iq-gains-after-linguistic-environmental-remediation.md) — a narrower finding that bears on this claim
 - [The study's conclusions rest on only sixty-five individually tested unretarded cases, limiting generalization](conclusions-rest-on-sixty-five-individual-cases.md) — related
+- [The question of the constancy of IQ is not settled; further studies with regular intervals and repeated tests of the same cases over a number of years are needed](iq-constancy-question-not-settled.md) — related
+- [A large percentage of retested cases show IQ variations large enough to change their classification, demonstrating the injustice of disposing of persons on the basis of a single test](single-test-classification-unjust-iq-variation.md) — reports the opposite

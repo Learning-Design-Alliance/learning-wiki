@@ -13,7 +13,7 @@ generated:
 # Part-task practice
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 6 claims (2 for, 4 mixed) · 7 studies (4 causal, 2 theoretical, 1 review), `q2`–`q3` · 0 of 7 report an effect size · 5 claims rest on one study
+> **Evidence** · 7 claims (3 for, 4 mixed) · 8 studies (5 causal, 2 theoretical, 1 review), `q2`–`q3` · 0 of 8 report an effect size · 6 claims rest on one study
 
 ## Description
 Part-task practice isolates recurring skill elements that must become automatic — such as typing, arithmetic facts, surgical procedures, or code syntax — and provides repeated, focused practice on them separately from whole-task performance. Its purpose is not conceptual understanding but *automation*: driving sub-skill execution below conscious control so working memory is freed for higher-order aspects of complex tasks.
@@ -56,6 +56,7 @@ Part-task practice reduces the working-memory burden of complex task performance
 - [The massed-versus-distributed question is tied to the whole-versus-part question: the hard problem remains hard unless learned in parts under massed conditions](../claims/massed-distribution-tied-to-whole-part.md) [~W]
 - [For rats, whole and part maze learning show no difference in trials, but the whole method saves time and errors](../claims/rats-whole-method-time-errors-advantage.md) [~W]
 - [Practice substantially improves numerical accuracy in rule sums, and in School B this carried over to better numerical accuracy within problem work](../claims/winch-1910-numerical-accuracy-gains-within-domain.md) [+W]
+- [After five days, the drill-only spelling group lost relatively less efficiency than the rules group on a repeated word test](../claims/drill-group-retained-repeated-spelling-words-better.md) [+W]
 
 ## Related Elements
 - [Practice](practice.md) — the general case; part-task practice is its automation-focused variant

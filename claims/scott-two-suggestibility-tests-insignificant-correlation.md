@@ -47,3 +47,4 @@ The review reports Scott's study, which subjected the same group of college stud
 ## Related Claims
 
 - [Eight per cent of the freshmen were susceptible to the size-weight illusion form of suggestion, a procedure that tends to select negatively suggestible subjects](eight-percent-susceptible-size-weight-suggestion.md)
+- [Scott found no general suggestibility: correlation of suggestibility across two tests was practically zero](scott-no-general-suggestibility.md) — possibly the same claim (merge candidate)

@@ -13,7 +13,7 @@ generated:
 # Intelligence Testing: Uses and Limits
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 160 claims (56 for, 90 mixed, 14 against) · 78 studies (47 associational, 17 review, 7 theoretical, 4 design, 2 quant-synthesis, 1 causal), `q1`–`q3` · 8 of 78 report an effect size · 159 claims rest on one study
+> **Evidence** · 163 claims (56 for, 92 mixed, 15 against) · 79 studies (48 associational, 17 review, 7 theoretical, 4 design, 2 quant-synthesis, 1 causal), `q1`–`q3` · 8 of 79 report an effect size · 162 claims rest on one study
 
 ## Description
 The first intelligence test, the Binet-Simon test, grew out of Alfred Binet's 1904 appointment as France's Minister of Public Education, where he sought a way to identify children with developmental disabilities so they could receive appropriate support — Binet believed "abnormality" could be remediated, and strongly supported special education on that basis. It was the first test to distinguish "normal" children from those with developmental disabilities, and its later revision became the Stanford-Binet, one of the most widely used intelligence tests (Zimmerman & Schunk, 2003). Binet's original purpose — identifying students who need support — sits in some tension with how intelligence-test scores are more often used today, as a general ranking or classification device (see Constraints below).
@@ -211,6 +211,9 @@ Despite this psychometric strength, intelligence tests and the definitions of in
 - [Low intelligence test scores alone cannot account for delinquency, since many non-delinquent adolescents show no more intelligence, per Haines](../claims/low-intelligence-insufficient-explanation-delinquency.md) [-W]
 - [A three-test subset (Analogues, Chain Puzzle, Economic Prophecies) differentiated the group nearly as well as the full twelve-test battery.](../claims/three-test-subset-differentiates-originality.md) [~W]
 - [An inventor of international reputation ranked within the first half but showed no exceptional originality on the tests.](../claims/inventor-not-exceptional-on-originality-tests.md) [~W]
+- [The validity of mental testing rests on the assumption that those tested have had common opportunity to learn](../claims/mental-test-validity-common-opportunity-to-learn.md) [~W]
+- [The question of the constancy of IQ is not settled; further studies with regular intervals and repeated tests of the same cases over a number of years are needed](../claims/iq-constancy-question-not-settled.md) [-W]
+- [The distribution of IQ changes among mental defectives does not differ from Terman's curve for unselected school children, indicating mental defectives are not more variable than normal subjects](../claims/mental-defectives-iq-variability-similar-to-normal.md) [~W]
 
 ## Related Principles
 - [Supporting Gifted and Talented Students](../principles/supporting-gifted-and-talented-students.md) — giftedness classification is conventionally IQ-threshold-based, inheriting all of this principle's measurement caveats

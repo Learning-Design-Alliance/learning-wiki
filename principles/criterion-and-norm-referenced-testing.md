@@ -192,6 +192,7 @@ The model should weaken if teachers given skill-level criterion-referenced repor
 - [Exit students from tutoring once they consistently read at the average level for their grade](../strategies/exit-tutoring-at-grade-level-consistency.md)
 - [Pair norm-referenced metrics with evidence of progress toward grade-level expectations in accountability decisions](../strategies/pair-norm-metrics-with-grade-level-progress-evidence.md)
 - [Balloons: A Concepts About Print Assessment](../products/balloons-a-concepts-about-print-assessment.md)
+- [Use diagnostic test standards to decide when a class needs special work on a fundamental ability](../strategies/geometry-ability-diagnostic-standards-strategy.md)
 
 ## Key Sources
 - Linn, R. L., & Miller, M. D. (2005). *Measurement and assessment in teaching* (9th ed.). Pearson.

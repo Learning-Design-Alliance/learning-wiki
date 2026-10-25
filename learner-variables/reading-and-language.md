@@ -13,7 +13,7 @@ generated:
 # Reading and Language
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 218 claims (138 show a difference, 34 mixed, 46 no difference) · 151 studies (43 associational, 37 causal, 31 quant-synthesis, 25 review, 8 theoretical, 4 design, 3 qualitative), `q1`–`q4` · 36 of 151 report an effect size · 209 claims rest on one study
+> **Evidence** · 223 claims (142 show a difference, 35 mixed, 46 no difference) · 152 studies (44 associational, 37 causal, 31 quant-synthesis, 25 review, 8 theoretical, 4 design, 3 qualitative), `q1`–`q4` · 36 of 152 report an effect size · 214 claims rest on one study
 
 ## Description
 What a learner can read without effort, and whether the language of instruction is the one they think in. LVN's largest factor family — decoding, vocabulary, fluency, composition, disciplinary literacy and language of instruction all sit here. The load-bearing fact is that decoding which is not automatic spends the same budget comprehension needs, so a reading problem presents as a thinking problem [+S].
@@ -269,6 +269,11 @@ What a learner can read without effort, and whether the language of instruction 
 - [For students with a school-identified learning disability, there were no significant direct cross-lagged pathways between vocabulary knowledge and reading comprehension](../claims/no-cross-lagged-relations-ld-students.md) [-M] — learners who differ on it differ in outcomes
 - [For typically developing students, vocabulary knowledge and reading comprehension show bidirectional leading influences over time in kindergarten through fourth grade](../claims/bidirectional-vocabulary-reading-comprehension-influences-typically-developing.md) [+M] — learners who differ on it differ in outcomes
 - [Under the fitted model, non-LD students who start with high vocabulary but low reading comprehension are expected to grow nearly twice as much in reading comprehension as LD students starting at the same point](../claims/model-expected-rc-growth-gap-high-vocab-low-rc.md) [~W] — an instructional effect differs with it
+- [For non-ELs the effect of word reading on reading comprehension is larger than the combined effects of linguistic comprehension, whereas for ELs linguistic comprehension effects are greater](../claims/linguistic-comprehension-dominates-els-word-reading-non-els.md) [+M] — learners who differ on it differ in outcomes
+- [Struggling ELs scored lower than non-ELs in reading comprehension and linguistic comprehension but outperformed non-ELs in word reading](../claims/group-mean-differences-els-word-reading-advantage.md) [~M] — learners who differ on it differ in outcomes
+- [The elaborated SVR model explains 94% to 98% of variance in reading comprehension for struggling ELs and non-ELs](../claims/svr-explains-nearly-all-variance-struggling-readers.md) [+M] — learners who differ on it differ in outcomes
+- [Vocabulary's relation to reading comprehension is completely mediated by listening comprehension and word reading for ELs, but exerts a direct effect for non-ELs](../claims/vocabulary-mediation-differs-els-non-els.md) [+M] — learners who differ on it differ in outcomes
+- [Word reading is a significant direct predictor of reading comprehension for both ELs and non-ELs with reading difficulties in grade 4](../claims/word-reading-predicts-comprehension-struggling-els-and-non-els.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does a learner's oral language and vocabulary predict how well they come to read and understand texts?* [A 1997 conference paper reports, citing Sticht, a positive correlation between preschool oral language skills and later reading achievement](../claims/oral-language-predicts-reading-achievement.md) [+W]

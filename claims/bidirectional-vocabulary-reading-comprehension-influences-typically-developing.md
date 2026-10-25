@@ -9,6 +9,7 @@ generated:
   at: 2026-10-25
 evidence_strength: moderate
 newest_evidence: 2020
+source_checked: 2026-10-25
 sources:
   - id: quinn-2020
     resource: "https://doi.org/10.1037/edu0000382"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q2`
-> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2020 · checked against its sources 2026-10-25 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` For students without an LD, removing either cross-lagged pathway (vocabulary to change in reading comprehension, or reading comprehension to change in vocabulary) significantly degraded model fit, indicating bidirectional influences after accounting for slope and autoregressive parameters. [→ Quinn 2020](#quinn-2020)

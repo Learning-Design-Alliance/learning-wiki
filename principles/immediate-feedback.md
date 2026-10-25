@@ -26,7 +26,7 @@ sources:
 # Immediate Feedback
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 25 claims (10 for, 14 mixed, 1 against) · 33 studies (12 review, 7 causal, 5 quant-synthesis, 5 qualitative, 3 theoretical, 1 design), `q1`–`q4` · 3 of 33 report an effect size · 19 claims rest on one study
+> **Evidence** · 26 claims (10 for, 15 mixed, 1 against) · 34 studies (12 review, 8 causal, 5 quant-synthesis, 5 qualitative, 3 theoretical, 1 design), `q1`–`q4` · 3 of 34 report an effect size · 20 claims rest on one study
 
 ## Conditional relationship
 
@@ -131,6 +131,7 @@ Accuracy during practice, delayed retention, transfer and the learner's wish for
 - [Immediate-feedback tutors allow learning from errors but deny learning from their downstream consequences](../claims/immediate-feedback-limits-downstream-error-learning.md) [~W]
 - [ManyClasses study found no effect of delayed versus immediate feedback or study incentives across 38 classrooms](../claims/manyclasses-no-feedback-timing-incentive-effect.md) [-W]
 - [Immediate trial-by-trial feedback was more helpful than delayed feedback for children ages 8-11, but timing conclusions remain weak overall](../claims/immediate-feedback-better-than-delayed-children.md) [+W]
+- [Corrections were less effective after a two-week delay than immediately for both formats (belief regression)](../claims/belief-regression-two-week-delay-both-formats.md) [~W]
 
 ## Related Principles
 - [Formative Assessment](formative-assessment.md) — immediate feedback is one of the most actionable forms of formative assessment.

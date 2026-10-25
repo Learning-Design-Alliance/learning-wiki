@@ -74,3 +74,4 @@ Appendix C sensitivity analysis replacing mean scaffolding with counts of L4 (So
 - [Dialogue act features raise regression R² but do not significantly improve outcome prediction over a prior-performance baseline](da-features-not-significant-over-baseline.md) — related
 - [Interaction depth is not associated with immediate recall or gains once baseline knowledge is controlled](depth-not-associated-with-immediate-recall.md) — related
 - [Static whole-session summaries of AI use add no detectable post-test variance beyond pre-test performance](static-ai-use-features-no-incremental-posttest-variance.md) — related
+- [Predictor variables beyond prior achievement and school track add predictive value for next-year math achievement, with the smallest added effects for the final-year outcome](predictors-beyond-prior-achievement-add-predictive-value.md) — related

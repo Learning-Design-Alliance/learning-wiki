@@ -65,7 +65,7 @@ Learner involvement in environmental design is a form of autonomy support: provi
 
 ## Examples
 - A primary teacher runs a design charrette in which small groups propose layouts for the classroom library, present them against criteria (browsing access, comfort, noise separation), and vote; the winning group manages the space thereafter.
-- A secondary school involves student panels in the redesign of a learning commons, a practice documented in participatory school-design research (Woolner et al., 2007).
+- A secondary school involves student panels in the redesign of a learning commons, a practice documented in participatory school-design research ([Woolner et al., 2007](https://doi.org/10.1080/03054980601094693)).
 - A university instructor asks students to propose and test room configurations for seminar vs. group-work sessions, revising the default layout each term based on end-of-unit feedback.
 
 ## Key Sources

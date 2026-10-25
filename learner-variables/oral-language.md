@@ -13,7 +13,7 @@ generated:
 # Oral Language
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 105 claims (61 show a difference, 21 mixed, 23 no difference) · 75 studies (26 associational, 16 review, 15 causal, 15 quant-synthesis, 2 theoretical, 1 design), `q1`–`q3` · 26 of 75 report an effect size · 102 claims rest on one study
+> **Evidence** · 109 claims (62 show a difference, 24 mixed, 23 no difference) · 78 studies (29 associational, 16 review, 15 causal, 15 quant-synthesis, 2 theoretical, 1 design), `q1`–`q3` · 26 of 78 report an effect size · 106 claims rest on one study
 
 ## Description
 Oral language covers the spoken side of language: understanding what is said, using vocabulary and grammar to express ideas, and organising sentences into a coherent account or story. The Learner Variability Navigator includes two factors here: narrative skills, the ability to tell and understand stories, and the broader language skills that support early mathematics as well as reading. Narrative skill is often assessed by asking a child to tell a story from a wordless picture book or sequencing cards and scoring its overall structure and its sentence-level detail; early literacy batteries assess related skills such as vocabulary and phonological awareness.
@@ -142,6 +142,10 @@ It matters most in preschool and the early grades. Telling stories helps childre
 - [A general oral language factor comprising syntax and vocabulary indicators significantly predicts reading comprehension in all grades 4–10, in models whose latent factors together account for 72%–99% of its variance](../claims/general-oral-language-factor-predicts-comprehension.md) [+M] — learners who differ on it differ in outcomes
 - [Non-LEP students outperformed LEP-designated students on oral language, reading comprehension, and decoding fluency factors with large effect sizes in grades 5 and 7](../claims/lep-nonlep-factor-score-differences-large-effects.md) [+M] — learners who differ on it differ in outcomes
 - [In Study 1, effects of language-focused Tier II instruction were moderated by qualification status: dual-qualified children gained on expressive language while language-only children scored lower on definitional vocabulary](../claims/study1-qualification-moderation-language-outcomes.md) [~M] — instruction changes it
+- [Early listening comprehension directly predicts later word-problem solving and word reading but not calculations, and numerical cognition does not mediate this relation](../claims/listening-comprehension-predicts-wps-reading-not-calculations.md) [~M] — learners who differ on it differ in outcomes
+- [Language and incoming calculation skill predict whole-number versus fraction calculations differentially, with significant path-equality tests](../claims/differential-predictors-whole-number-fraction-calculations.md) [+M] — learners who differ on it differ in outcomes
+- [Struggling ELs scored lower than non-ELs in reading comprehension and linguistic comprehension but outperformed non-ELs in word reading](../claims/group-mean-differences-els-word-reading-advantage.md) [~M] — learners who differ on it differ in outcomes
+- [Vocabulary's relation to reading comprehension is completely mediated by listening comprehension and word reading for ELs, but exerts a direct effect for non-ELs](../claims/vocabulary-mediation-differs-els-non-els.md) [~M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Story Generation Tasks**: Macrostructure and microstructure of narrative elements can be assessed by having students tell a story using a wordless picture book or sequencing cards.

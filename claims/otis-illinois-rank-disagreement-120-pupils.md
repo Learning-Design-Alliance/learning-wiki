@@ -52,3 +52,4 @@ Observational comparison of two group tests given by the same person to 120 juni
 - [Otis scores proved of practical value over a two-year trial for guiding junior high pupils' choice between a foreign language and manual work](otis-scores-practical-guidance-value.md) — related
 - [Thurstone-Brown agreement was closer than Otis-Illinois: median rank changes of 6.7 places (freshmen, r = 0.74) and 10.4 places (sophomores, r = 0.613), with 26 and 32.8 per cent wrongly classed](thurstone-brown-college-rank-agreement.md) — related
 - [Individual freshmen shifted greatly in relative rank between the two completion tests: 47 scored higher on M, 42 higher on K, and 11 the same](completion-test-individual-rank-shifts.md) — related
+- [Test rankings show high retention of median, tertile and quartile positions in medical school marks](test-rank-retention-quartiles-medical-marks.md) — related

@@ -51,3 +51,4 @@ This is a theoretical argument from the article's opening discussion, not a test
 - [Children maintain their relative height rank within a group from ages 4 to 18, with little crossing of growth curves](height-rank-stability-little-curve-crossing.md) — related
 - [Growth measurements at age ten predict stature at sixteen within about 2.5 centimeters and IQ over the same period within 6.3 points](childhood-growth-predicts-later-stature-and-iq.md) — related
 - [Exact parallelism between physical and mental development cannot be demonstrated; correlations vary enormously from individual to individual](no-exact-physical-mental-parallelism.md) — related
+- [The mental quotient is misleading as a general expression of mental development and is valuable only when cases are of the same age](mental-quotient-misleading-across-ages.md) — related

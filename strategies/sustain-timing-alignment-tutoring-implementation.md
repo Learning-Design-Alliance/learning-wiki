@@ -39,6 +39,7 @@ Based on the null long-term findings, the authors recommend that future tutoring
 ## Related Strategies
 
 - [Align AI learning-support communication and nudges with empirically observed usage windows and adapt support to learner groups](align-ai-support-nudges-observed-usage-windows.md)
+- [Three-point standardized testing schedule for teachers: determine needs at the opening of the term, note progress mid-year, and measure year's gains and vacation losses](three-point-standardized-testing-schedule.md)
 
 ## Examples
 -

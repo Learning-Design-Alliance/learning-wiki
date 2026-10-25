@@ -53,3 +53,4 @@ Dynamic panel models with contemporaneous unidirectional effects on five annual 
 - [Parental over-aspiration contemporaneously predicts lower positive and higher negative achievement emotions, particularly anxiety and pride](parental-overaspiration-contemporaneous-emotions.md) — related
 - [Higher parental expectations predict higher anxiety, anger, and shame one year later, opposite in sign to contemporaneous effects](parental-expectations-lagged-negative-emotions.md) — related
 - [Lagged over-aspiration effects on achievement emotions are null, while the expectation–aspiration mean predicts next-year anxiety](parental-overaspiration-lagged-null.md) — related
+- [Test anxiety precedes subsequent emotion regulation in unidirectional relations: positive to acceptance and self-blame, negative to refocus on planning and positive reappraisal](test-anxiety-predicts-subsequent-regulation-strategies.md) — related

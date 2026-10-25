@@ -91,7 +91,7 @@ Learning a concept means learning which features matter and which do not; multip
 - **[Harvard Business School case method](https://www.hbs.edu/mba/academic-experience/Pages/the-hbs-case-method.aspx)** — repeated case discussion across sessions builds recognition of recurring managerial decision patterns.
 - **[Concept Attainment](../patterns/concept-attainment.md)** — Bruner's model presents positive and negative instances; learners induce the defining attributes, making pattern detection the core activity.
 - **[Schwartz & Bransford's contrasting cases](https://doi.org/10.1207/s15516709cog2204_2)** — students analyze contrasting graphical data patterns before a lecture, which doubles later learning from the explanation.
-- **Chess instruction** — learners study master games position-by-position, building a repertoire of board patterns (Chase & Simon, 1973).
+- **Chess instruction** — learners study master games position-by-position, building a repertoire of board patterns ([Chase & Simon, 1973](https://doi.org/10.1016/0010-0285(73)90004-2)).
 - **Physics problem sorting** — students sort problems into categories by solution principle rather than topic, directly training deep-structure recognition ([Chi et al., 1981](https://doi.org/10.1207/s15516709cog0502_2)).
 
 ## Key Sources

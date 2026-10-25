@@ -52,3 +52,4 @@ Cross-species comparison with the same Serialbox used by Davis et al. with chimp
 - [Children who switched to the efficient method largely reverted to the inefficient method over subsequent trials](children-revert-to-first-learned-inefficient-method.md) — related
 - [Children who first learned the efficient method switched to the observed inefficient method](children-switch-efficient-to-inefficient-method.md) — related
 - [Children who observed the efficient method first switched earlier than children observing the inefficient method first](efficient-first-children-switch-earlier.md) — related
+- [Haggerty's preliminary experiments found orang-outangs, unlike a chimpanzee, could learn stick-tool food retrieval, with imitation playing a greater role than among lower species](haggerty-ape-tool-use-imitation.md) — related

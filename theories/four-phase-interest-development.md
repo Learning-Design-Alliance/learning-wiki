@@ -12,7 +12,7 @@ generated:
 # Four-Phase Model of Interest Development
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 16 claims (8 for, 7 mixed, 1 against) · 18 studies (10 causal, 3 associational, 3 theoretical, 1 quant-synthesis, 1 review), `q1`–`q3` · 6 of 18 report an effect size · 15 claims rest on one study
+> **Evidence** · 18 claims (9 for, 8 mixed, 1 against) · 19 studies (11 causal, 3 associational, 3 theoretical, 1 quant-synthesis, 1 review), `q1`–`q3` · 7 of 19 report an effect size · 17 claims rest on one study
 
 ## Description
 Interest, distinct from effort, is a source of intrinsic motivation: when students learn from interest rather than pure effort, they devote more attention to the topic and tend to use more thoughtful learning strategies ([Hidi & Renninger, 2006](https://doi.org/10.1207/s15326985ep4102_4); Hidi, 2001). The distinction between interest and effort is often artificial in practice — the two commonly blend, as when a student works hard at a skill they also genuinely enjoy — but the useful instructional target is to draw on interest as much as possible so that required effort stays within a reasonable, sustainable range.
@@ -69,6 +69,8 @@ The model is widely cited but only partially validated: it has received limited 
 - [Interest in specific tasks (Task3, Task5, Task6) strongly predicted Course interest, and Task3 and Task5 also directly predicted Domain interest.](../claims/task-interest-predicts-course-and-domain-interest.md) [+W] — attached 2026-10-22 from Fryer et al. (2021), which proposed "Task-Course-Domain refocusing of the Four Phase Model of interest development for university courses".
 - [Profile structures and transitions over time largely align with common descriptions of interest development](../claims/profile-transitions-align-interest-development-theory.md) [+W]
 - [Practice should always be considered in light of the pupil's interest and motivation; excess practice enjoyed by the pupil is not a grave defect](../claims/practice-must-be-motivated.md) [~W]
+- [Providing meaningful choice during a lesson increases perceived autonomy and triggered situational interest in undergraduates learning statistics](../claims/choice-increases-autonomy-triggered-situational-interest.md) [+W] — attached 2026-10-25 from Asher et al. (2025), which proposed "Hidi and Renninger four-phase model of interest development".
+- [Both choice and utility value manipulations increase maintained situational interest in regression by similar small amounts](../claims/both-manipulations-increase-maintained-situational-interest.md) [~W] — attached 2026-10-25 from Asher et al. (2025), which proposed "Hidi and Renninger four-phase model of interest development".
 
 ## Related Theories
 - [ARCS Model of Motivational Design](arcs-model.md) — Keller's Attention category operationalizes the triggering and maintaining of situational interest as design tactics

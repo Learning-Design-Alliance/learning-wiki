@@ -68,3 +68,4 @@ SEM analysis (Full Mediation model, best fitting for NO) in 330 children; this s
 - [Type of mathematics assessed (Numerical Operations vs Mathematical Reasoning) does not significantly influence effect sizes](math-type-no-significant-influence.md) — related
 - [Higher mathematics test anxiety predicts earlier practice-session exit, mediating lower learning gains in an adaptive math program](math-anxiety-earlier-exit-lower-gains.md) — related
 - [Text-structure knowledge in passages and word problems mediates acquisition and cross-domain transfer effects](text-structure-knowledge-mediates-transfer.md) — related
+- [Numerical cognition assessed at end of first grade statistically mediates associations between early processing speed, working memory, calculation skill, word-problem solving, and attentive behavior and later calculations, word-problem solving, and reading](numerical-cognition-mediation-academic-outcomes.md) — related

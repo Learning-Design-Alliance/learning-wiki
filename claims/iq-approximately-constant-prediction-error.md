@@ -52,3 +52,4 @@ Repeated Stanford-Binet (Stanford Revision) testing of 143 children begun in 191
 - [The reviewer reports that Baldwin's repeated examinations show the IQ is fairly constant though subject to fluctuations, and that repeated examinations exhibit a definite practice effect](iq-fairly-constant-with-fluctuations-and-practice-effect.md) — a broader claim this one bears on
 - [Early estimates place the IQ needed for successful first-year high school work between about 110 and 120](iq-110-120-needed-first-year-high-school-1922-estimates.md) — related
 - [Repeated Stanford-Binet testing of summer-school pupils over four years shows mostly small IQ differences, with a median difference of 5.25 points](summer-school-iq-differences-median-525.md) — related
+- [The question of the constancy of IQ is not settled; further studies with regular intervals and repeated tests of the same cases over a number of years are needed](iq-constancy-question-not-settled.md) — related

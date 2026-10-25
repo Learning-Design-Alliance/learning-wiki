@@ -13,7 +13,7 @@ generated:
 # Motivation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 279 claims (190 show a difference, 61 mixed, 28 no difference) · 210 studies (77 associational, 53 causal, 34 review, 16 theoretical, 14 quant-synthesis, 10 qualitative, 6 design), `q1`–`q4` · 53 of 210 report an effect size · 267 claims rest on one study
+> **Evidence** · 283 claims (192 show a difference, 62 mixed, 29 no difference) · 212 studies (77 associational, 55 causal, 34 review, 16 theoretical, 14 quant-synthesis, 10 qualitative, 6 design), `q1`–`q4` · 54 of 212 report an effect size · 271 claims rest on one study
 
 ## Description
 Whether a learner will spend effort here, and what makes it feel worth spending. It decides whether a page must earn attention before it can teach, and how much open-endedness is tolerable. The honest state of the evidence is that the mechanisms are well supported and the *interventions* are modest — growth-mindset programmes produce small average effects concentrated in specific subgroups [+W], which is a reason to design for motivation rather than to bolt an intervention on.
@@ -329,6 +329,10 @@ Whether a learner will spend effort here, and what makes it feel worth spending.
 - [Negative affective reactions mediate the grades-to-emotional-engagement link but not the grades-to-behavioral-engagement link](../claims/negative-affect-mediation-emotional-only.md) [~M] — instruction changes it
 - [Math motivational factors correlate more strongly with each other and with math grades than language arts motivational factors correlate with language arts grades](../claims/math-motivation-grade-correlations-stronger.md) [+M] — learners who differ on it differ in outcomes
 - [Surprise and plot are the leading positive interest factors in children's story preferences](../claims/surprise-and-plot-lead-childrens-interest-factors.md) [+M] — instruction changes it
+- [Both choice and utility value manipulations increase maintained situational interest in regression by similar small amounts](../claims/both-manipulations-increase-maintained-situational-interest.md) [+M] — instruction changes it
+- [Choice decreases self-reported distraction during the lesson, while utility value's effect on distraction depends on baseline interest in statistics](../claims/choice-decreases-distraction-uv-interest-interaction.md) [~M] — an instructional effect differs with it
+- [Effects on maintained situational interest and resource requests are mediated by perceived utility value (utility value manipulation) and perceived autonomy and triggered interest (choice manipulation)](../claims/mediation-utility-value-autonomy-pathways.md) [+M] — instruction changes it
+- [Expecting a grade does not affect pretask performance-approach goals](../claims/grade-expectation-no-effect-performance-approach-goals.md) [-M] — instruction changes it
 
 ## The evidence by question
 - *Does autonomy-supportive teaching raise motivation and engagement compared with controlling teaching?* [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](../claims/autonomy-supports-intrinsic-motivation.md) [+M]

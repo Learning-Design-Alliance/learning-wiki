@@ -60,3 +60,4 @@ Second preparatory regression on the 63 kindergarteners with the three estimatio
 - [A combination of specific mathematical cognition measures predicts subsequent mathematics achievement better than prior mathematics achievement scores alone](cognition-measures-beat-prior-achievement.md) — related
 - [The most important kindergarten predictors of Grade 6 MD are RAN, spatial relations, arithmetic skills, number concepts, attention-orientation, and counting](top-predictors-md-ran-spatial-attention.md) — related
 - [Kindergarten counting, arithmetic, and letter-knowledge measures correlate with Grade 6 arithmetic fluency (r up to .45)](kindergarten-measures-correlate-grade6-math.md) — related
+- [Whole-number and fraction number line estimation are weakly correlated, suggesting they represent different estimation skills](whole-number-fraction-number-line-distinct-skills.md) — related

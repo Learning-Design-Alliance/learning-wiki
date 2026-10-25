@@ -50,3 +50,4 @@ Two test-administration comparisons in Normal College groups: 54 freshmen and 64
 - [Rankings of the same 120 junior high pupils by the Otis and Illinois group intelligence tests disagreed by a median of 18 places, with a rank correlation of 0.642](otis-illinois-rank-disagreement-120-pupils.md) — related
 - [Dividing the 120 pupils into four class-sections by one test would place 51.6 per cent in the wrong section according to the other test](wrong-section-placement-51-6-percent.md) — related
 - [Individual freshmen shifted greatly in relative rank between the two completion tests: 47 scored higher on M, 42 higher on K, and 11 the same](completion-test-individual-rank-shifts.md) — related
+- [Test rankings show high retention of median, tertile and quartile positions in medical school marks](test-rank-retention-quartiles-medical-marks.md) — related

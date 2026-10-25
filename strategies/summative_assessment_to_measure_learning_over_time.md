@@ -67,6 +67,7 @@ Assessment itself is a learning event: retrieving knowledge on an assessment str
 - [Three steps to integrate digital content effectively: link content to educational goals, select performance standards, and measure and adjust against standards](three-steps-integrate-digital-content.md)
 - [Assess AI competencies continuously with formative quizzes, peer review, reflective journals, real-world summative projects, and portfolios](ai-competency-assessment-strategies.md)
 - [Adopt through-year assessments that combine interim and summative functions to increase instructional relevance](through-year-assessments-instructional-relevance.md)
+- [Three-point standardized testing schedule for teachers: determine needs at the opening of the term, note progress mid-year, and measure year's gains and vacation losses](three-point-standardized-testing-schedule.md)
 
 ## Related Elements
 - [Assess Performance](../elements/assess-performance.md) — the core element this strategy operationalizes at program scale

@@ -13,7 +13,7 @@ generated:
 # Decoding
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 108 claims (73 show a difference, 20 mixed, 15 no difference) · 70 studies (23 associational, 19 quant-synthesis, 16 causal, 7 review, 3 design, 2 theoretical), `q1`–`q4` · 26 of 70 report an effect size · 103 claims rest on one study
+> **Evidence** · 111 claims (75 show a difference, 21 mixed, 15 no difference) · 72 studies (25 associational, 19 quant-synthesis, 16 causal, 7 review, 3 design, 2 theoretical), `q1`–`q4` · 26 of 72 report an effect size · 106 claims rest on one study
 
 ## Description
 Decoding is using knowledge of letters and their sounds to work out how an unfamiliar written word is pronounced, and so what it is. This page also covers the related word-level skills the LVN describes separately: sight recognition (knowing a word immediately, without sounding it out, which is necessary for common words that do not follow regular spelling patterns, such as *said* or *could*), orthographic processing (recognising, storing and retrieving the written form of words from memory), and, for adults, the foundational reading skills of phonics and decoding as a whole. Typical measures are reading pseudowords scored by phonics rules, timed word recognition, spelling tasks and lists of high-frequency words.
@@ -149,6 +149,9 @@ It builds on [phonological awareness](phonological-awareness.md) and [alphabet k
 - [Text reading efficiency shows a stronger relation with reading comprehension than accuracy or rate](../claims/text-reading-efficiency-stronger-relation-than-accuracy-rate.md) [+M] — learners who differ on it differ in outcomes
 - [Text reading is strongly related to reading comprehension overall (r = .61)](../claims/text-reading-comprehension-overall-relation-r61.md) [+M] — learners who differ on it differ in outcomes
 - [At age 12, mathematics is more strongly correlated with reading comprehension than with word decoding at the phenotypic latent-factor level](../claims/mathematics-more-correlated-with-reading-comprehension-than-decoding.md) [+M] — learners who differ on it differ in outcomes
+- [Crossover effects: early reading fluency predicts later mathematics outcomes more strongly than early mathematics skills predict later reading](../claims/crossover-effects-reading-mathematics.md) [+W] — learners who differ on it differ in outcomes
+- [For non-ELs the effect of word reading on reading comprehension is larger than the combined effects of linguistic comprehension, whereas for ELs linguistic comprehension effects are greater](../claims/linguistic-comprehension-dominates-els-word-reading-non-els.md) [~W] — learners who differ on it differ in outcomes
+- [Word reading is a significant direct predictor of reading comprehension for both ELs and non-ELs with reading difficulties in grade 4](../claims/word-reading-predicts-comprehension-struggling-els-and-non-els.md) [+W] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Woodcock Reading Mastery Test, Revised: Word Attack subtest** (Woodcock, 1998): reading pseudowords, scored by regular phonics rules.

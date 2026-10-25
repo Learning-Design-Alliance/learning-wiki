@@ -24,7 +24,7 @@ sources:
 # Transfer of Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 30 claims (19 for, 11 mixed) · 32 studies (12 causal, 8 review, 5 theoretical, 4 quant-synthesis, 2 qualitative, 1 associational), `q1`–`q4` · 6 of 32 report an effect size · 26 claims rest on one study
+> **Evidence** · 31 claims (20 for, 11 mixed) · 33 studies (13 causal, 8 review, 5 theoretical, 4 quant-synthesis, 2 qualitative, 1 associational), `q1`–`q4` · 6 of 33 report an effect size · 27 claims rest on one study
 
 ## Conditional relationship
 
@@ -125,6 +125,7 @@ Claims bearing on transfer that the wiki holds and this model does not use. None
 - [Under the components model in ECLS-K, working memory is the most closely associated EF component with math, but only at time point 1 does it show a positive residual correlation beyond latent EF](../claims/working-memory-strongest-component-association-ecls-k.md) [+W]
 - [After a lesson series, two sixth graders could switch flexibly between perspectives when comparing negative integers; one distinguished number-line order from context-based absolute-value reasoning about debts](../claims/post-lesson-flexible-perspective-switching.md) [+W] — attached 2026-10-17 from Maike Schindler et al. (2017), which proposed "Design lesson series on negative numbers around a rich out-of-school context plus the number line as origins for students' inferences".
 - [Experimental studies report transfer of training across diverse operations, from sensory discrimination to memorizing](../claims/transfer-of-training-diverse-operations-review.md) [+W] — attached 2026-10-24 from J. E. Wallace Wallin (1905), which proposed "Specific training can insure general training under certain limitations, supporting formal discipline"; tests this page's relationship.
+- [A rules-plus-minimal-drill spelling group showed a distinct advantage over a drill-only group on an immediate transfer test of new words](../claims/spelling-rules-beat-drill-transfer-new-words.md) [+W] — attached 2026-10-25 from Turner et al. (1912), which proposed "Pair spelling-rule instruction with type words and minimal drill when transfer to new words is the goal"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

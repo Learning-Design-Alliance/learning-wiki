@@ -63,7 +63,7 @@ POE works because committing to a prediction activates prior knowledge — inclu
 - [Use PDEODE tasks (Predict-Discuss-Explain-Observe-Discuss-Explain) to facilitate conceptual change in chemistry topics](pdeode-six-step-teaching-strategy.md)
 
 ## Examples
-- **Peer Instruction at Harvard** (Crouch & Mazur, 2001) — ConcepTests in introductory physics follow the POE cycle: individual clicker vote, peer discussion, re-vote, instructor explanation.
+- **Peer Instruction at Harvard** ([Crouch & Mazur, 2001](https://doi.org/10.1119/1.1374249)) — ConcepTests in introductory physics follow the POE cycle: individual clicker vote, peer discussion, re-vote, instructor explanation.
 - **PhET Interactive Simulations** ([https://phet.colorado.edu](https://phet.colorado.edu)) — Learners predict circuit or gas-law behavior, then manipulate the simulation to observe the outcome and explain discrepancies.
 - **Chemistry "misconception demos"** — Classic POE tasks such as predicting the mass of dissolved salt or the water level when a candle burns under a jar, each targeting a documented intuitive misconception.
 

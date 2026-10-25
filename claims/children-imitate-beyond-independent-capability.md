@@ -49,3 +49,4 @@ Theoretical argument reported in this review paper, attributed to Vygotsky via v
 - [In one extreme case, two sixth-graders with a choice-rich, ungraded STEAM infrastructure extended a game-design challenge into a year-long self-directed project well beyond its designed scope](choice-rich-infrastructure-supports-productive-deviation-and-learning.md) — related
 - [In pretend play the child behaves beyond her average age and daily behaviour](pretend-play-child-head-taller.md) — related
 - Challenging tasks within the child's capability promote maximum cognitive growth, per the account presented — related
+- [Haggerty's preliminary experiments found orang-outangs, unlike a chimpanzee, could learn stick-tool food retrieval, with imitation playing a greater role than among lower species](haggerty-ape-tool-use-imitation.md) — related

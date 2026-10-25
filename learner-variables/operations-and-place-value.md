@@ -13,7 +13,7 @@ generated:
 # Operations and Place Value
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 52 claims (37 show a difference, 9 mixed, 6 no difference) · 28 studies (11 causal, 9 associational, 3 quant-synthesis, 2 design, 1 review, 1 qualitative, 1 theoretical), `q1`–`q4` · 5 of 28 report an effect size · 50 claims rest on one study
+> **Evidence** · 59 claims (43 show a difference, 9 mixed, 7 no difference) · 30 studies (11 causal, 11 associational, 3 quant-synthesis, 2 design, 1 review, 1 qualitative, 1 theoretical), `q1`–`q4` · 5 of 30 report an effect size · 57 claims rest on one study
 
 ## Description
 This page brings together two factors from the Learner Variability Navigator. Operations covers addition, subtraction, multiplication and division: at first learners treat an operation as an instruction about which calculation to do, and LVN stresses that they also need a conceptual understanding of what each operation means, which lets them estimate an approximate answer as well as calculate an exact one quickly and accurately. Place value is understanding that in the base-ten system the same digit stands for different values (ones, tens, hundreds) depending on its position, which children work out as they explore the size of numbers and how numbers relate.
@@ -89,6 +89,13 @@ Operations are assessed with standardised numerical operations subtests that ask
 - [Math skills show the opposite two-stage pattern: no individual differences in early growth but significant individual differences in late elementary growth for two of three measures](../claims/math-growth-individual-differences-late-not-early-elementary.md) [~W] — instruction changes it
 - [RAN correlates more strongly with arithmetic calculation tasks than with general math achievement tests](../claims/ran-stronger-with-arithmetic-than-achievement.md) [+W] — instruction changes it
 - [RAN correlates more strongly with single-digit than multi-digit calculation and with fluency than accuracy outcomes](../claims/ran-single-digit-fluency-moderators.md) [+W] — instruction changes it
+- [Crossover effects: early reading fluency predicts later mathematics outcomes more strongly than early mathematics skills predict later reading](../claims/crossover-effects-reading-mathematics.md) [+M] — learners who differ on it differ in outcomes
+- [Early listening comprehension directly predicts later word-problem solving and word reading but not calculations, and numerical cognition does not mediate this relation](../claims/listening-comprehension-predicts-wps-reading-not-calculations.md) [-M] — learners who differ on it differ in outcomes
+- [End-of-first-grade numerical cognition directly predicts later calculations, word-problem solving, and word reading, with the strongest relation to calculations](../claims/numerical-cognition-predicts-all-three-outcomes.md) [+M] — learners who differ on it differ in outcomes
+- [Incoming calculation skill did not predict fraction calculations, suggesting whole-number calculation fluency may not automatically transfer to fractions](../claims/incoming-calculation-skill-no-transfer-to-fractions.md) [+M] — learners who differ on it differ in outcomes
+- [Language and incoming calculation skill predict whole-number versus fraction calculations differentially, with significant path-equality tests](../claims/differential-predictors-whole-number-fraction-calculations.md) [+M] — learners who differ on it differ in outcomes
+- [Numerical cognition assessed at end of first grade statistically mediates associations between early processing speed, working memory, calculation skill, word-problem solving, and attentive behavior and later calculations, word-problem solving, and reading](../claims/numerical-cognition-mediation-academic-outcomes.md) [+M] — learners who differ on it differ in outcomes
+- [Processing speed, attentive behavior, and incoming calculation skill significantly predict whole-number calculations in at-risk fourth graders, with the model accounting for 51% of variance](../claims/predictors-whole-number-calculations-at-risk-fourth-graders.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Numerical Operations Subtest of the Wechsler Individual Achievement Test (WIAT-III)** (Wechsler, 2009): Standardized test of procedural knowledge of Operations: writing numbers, counting and solving arithmetic problems, up to fractions and negative integers.
