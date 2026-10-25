@@ -49,3 +49,4 @@ Applying a seventy-five per cent correct-judgment standard to the same digit-spa
 - [Across repeated digit tests pupils improved with practice, with large uniform increases attributed to unconscious memory of the previous day's digits, and no fatigue effect on recall was found](pupils-improve-with-practice-no-fatigue-effect.md) — related
 - [Test-retest correlations of memory span are low, questioning the validity of a single memory span test](low-memory-span-retest-correlations.md) — related
 - [Auditory memory (digit-span) tests are overrepresented in the adult scale and depress the rankings of otherwise high-performing students](caldwell-1919-auditory-memory-overweighting.md) — related
+- [Six per cent of the 200 Dartmouth freshmen failed six-digit auditory memory span, so the lower limit of the ability went unrecorded](dartmouth-six-percent-fail-six-digit-span.md) — related

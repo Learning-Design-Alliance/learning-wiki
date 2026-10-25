@@ -35,7 +35,8 @@ A character-education curriculum developed and delivered by Facing History & Our
 - [Three of seven knowledge, attitudes, and values outcomes favor Facing History and Ourselves, including relationship maturity (best response) with effect size 0.45, but none remain statistically significant after WWC corrections](../claims/fhao-three-of-seven-outcomes-favor-program.md) [+W]
 
 ## Related Products and Programmes
--
+
+- [An American Citizenship Course in United States History](an-american-citizenship-course-in-united-states-history.md)
 
 ## Key Sources
 - What Works Clearinghouse. (2006). WWC Intervention Report: Facing History and Ourselves. U.S. Department of Education. www.facinghistory.org. https://ies.ed.gov/ncee/WWC/InterventionReport/169

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-10
 evidence_strength: moderate
 newest_evidence: 2018
+source_checked: 2026-10-25
 sources:
   - id: espinoza-2018
     resource: "https://learningpolicyinstitute.org/product/long-view"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q2`
-> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2018 · checked against its sources 2026-10-25 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` When service scholarships and loan forgiveness cover a significant portion of tuition and/or living costs, they effectively recruit and retain high-quality professionals into needed fields and communities. [→ Espinoza 2018](#espinoza-2018)

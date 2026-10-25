@@ -70,3 +70,4 @@ For the thirty-two twelve-year-old children, the average mental-minus-chronologi
 - [Twelve-year-old pupils score a median of 23 on all three test forms](wilson-twelve-year-old-median-23-all-forms.md) — related
 - [Errors of assent to suggestion outnumber errors of dissent in children's selective judgment, and independent judgment develops through three stages](selective-judgment-assent-errors-three-stages.md) — related
 - [Taylor's Sheffield study suggests the Binet scale is broadly suitable for English children, though tests for ages 6 and 7 seem too easy and tests above 11 seem unsatisfactory.](sheffield-103-children-binet-suitable-english-ages-6-7-easy.md) — a broader claim this one bears on
+- [Eight per cent of the freshmen were susceptible to the size-weight illusion form of suggestion, a procedure that tends to select negatively suggestible subjects](eight-percent-susceptible-size-weight-suggestion.md) — related

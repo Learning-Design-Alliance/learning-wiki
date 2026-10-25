@@ -63,6 +63,7 @@ The strategy rests on social learning theory: learners acquire attitudes, expect
 - [Peer Tutoring](peer-tutoring.md) — structures positive peer interaction that doubles as academic support
 - [Self-Monitoring](self-monitoring-strategies.md) — the reflective mechanism that powers the audit and re-evaluation cycle
 - [Surround students with college-educated mentors and college-going peers to build college aspirations](mentors-peers-college-aspirations.md)
+- [Teach students to remove temptations from their surroundings rather than exhorting willpower](instruct-situation-modification-for-study-goals.md)
 
 ## Examples
 - **First-year seminar programs** (e.g., the University of South Carolina's University 101 model) deliberately place new students into cohort communities with peer mentors, substituting structured supportive networks for the anonymous, sometimes alienating default environment. See [https://sc.edu/about/offices_and_divisions/university_101/](https://sc.edu/about/offices_and_divisions/university_101/)

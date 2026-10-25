@@ -70,6 +70,7 @@ Socratic questioning works because generating an answer forces deeper processing
 - [Counter-prompting: deliberately probing AI systems for their assumptions and using responses as data about the apparatus](counter-prompting-probing-ai-assumptions.md)
 - [Describe a support system's design intent by asking against whose Synthesis or Analysis it elicits a structural gap](design-intent-gap-origin-question.md)
 - [Probe problem solving with a graduated suggestion sequence moving from pure reason to concrete imagery to objective experiment](graduated-suggestion-sequence-probing.md)
+- [Question-answer directions that let children answer as part of the administration](question-answer-directions-young-children.md)
 
 ## Examples
 - **Law school "Socratic method"** (Langdell-era tradition at Harvard Law): instructors interrogate students about court cases, probing the facts, holdings, and reasoning to expose doctrinal assumptions.

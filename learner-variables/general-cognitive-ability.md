@@ -13,7 +13,7 @@ generated:
 # General Cognitive Ability
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 113 claims (73 show a difference, 24 mixed, 16 no difference) · 80 studies (32 associational, 24 causal, 10 review, 8 quant-synthesis, 6 theoretical), `q1`–`q4` · 19 of 80 report an effect size · 110 claims rest on one study
+> **Evidence** · 114 claims (73 show a difference, 25 mixed, 16 no difference) · 81 studies (32 associational, 25 causal, 10 review, 8 quant-synthesis, 6 theoretical), `q1`–`q4` · 19 of 81 report an effect size · 111 claims rest on one study
 
 ## Description
 General cognitive ability is what intelligence and reasoning tests measure: fluid reasoning, crystallised knowledge and processing speed. It is a strong predictor of achievement, and research uses it as a covariate and as a moderator: some designs, such as highly structured instruction, help lower-ability learners more, while discovery-based designs can favour higher-ability learners (aptitude-treatment interactions). It overlaps with [prior knowledge](prior-knowledge.md) and [working memory](working-memory.md), and studies often cannot separate them.
@@ -149,6 +149,7 @@ General cognitive ability is what intelligence and reasoning tests measure: flui
 - [Conspicuous talent does not reliably succeed on its own; success requires physical energy and willpower that gifted individuals often lack](../claims/talent-not-self-realizing-without-will-and-energy.md) [~W] — learners who differ on it differ in outcomes
 - [Among children below 80 IQ in the Providence grammar schools, only one of 220 made a mark better than C](../claims/providence-below-80-iq-marks-mostly-conditioned-or-failing.md) [+M] — learners who differ on it differ in outcomes
 - [Early estimates place the IQ needed for successful first-year high school work between about 110 and 120](../claims/iq-110-120-needed-first-year-high-school-1922-estimates.md) [+M] — learners who differ on it differ in outcomes
+- [In School I the practised group showed an advantage in most ability sections, but its highest section scored worse than the non-practised section](../claims/winch-1910-school-i-section-advantage.md) [~W] — instruction changes it
 
 ## The evidence by question
 - *Does a learner's general cognitive ability predict how well they achieve, and how much of achievement does it explain?* [Secondary academic performance is predicted by cognitive ability more strongly than by curiosity](../claims/cognitive-ability-predicts-secondary-gpa-more-than-curiosity.md) [+M]

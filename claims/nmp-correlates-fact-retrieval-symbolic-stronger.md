@@ -59,3 +59,4 @@ Pearson (partial, motor-RT-controlled) correlations in 86 third graders; the sym
 - [Numerical magnitude processing is significantly associated with children's mental multi-digit subtraction performance, controlling for intellectual ability and motor speed](magnitude-processing-associated-mental-multidigit-subtraction.md) — related
 - [Inhibition does not uniquely predict arithmetic fact retrieval above numerical magnitude processing](inhibition-no-unique-contribution-fact-retrieval.md) — related
 - [Symbolic magnitude comparison is a stronger longitudinal predictor of mathematical achievement than nonsymbolic comparison](symbolic-stronger-predictor-than-nonsymbolic.md) — related
+- [Accuracy in arithmetical reasoning and accuracy in numerical computation were highly positively correlated in each school, but such correlation does not warrant inferring causal relation or transfer](winch-high-positive-correlations-reasoning-computation.md) — related

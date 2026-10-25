@@ -56,3 +56,4 @@ Conclusion drawn from the qualitative narratives: "In most cases, the motivation
 - Youth problem-solving situations show affinity for personal relevance but absence of initiative for societal problems — related
 - Learning Studio participation was associated with positive indicators of engagement and persistence, especially among high school students — reports the opposite
 - [A persistent theory-practice gap: students may develop conceptual AI understanding but lack opportunities to apply it in authentic contexts](ail-theory-practice-gap-he-programs.md) — related
+- [Project-method proponents claim skills are acquired without specific repetition through motivated life situations, refusing compromise with demands for economical skill practice](project-method-no-specific-repetition-claim.md) — related

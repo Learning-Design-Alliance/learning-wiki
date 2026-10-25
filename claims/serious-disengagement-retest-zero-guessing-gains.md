@@ -54,3 +54,4 @@ Observational analysis of retests taken no more than one day after the initial t
 - [Standard effort-moderated scoring accounts for roughly one-third of score distortion due to differential disengagement on low-stakes achievement tests](standard-em-scoring-one-third-distortion.md) — related
 - [E-M scoring leaves residual score distortion, suggesting some disengaged test responses are nonrapid rather than rapid guesses](nonrapid-disengaged-responses-residual-distortion.md) — related
 - [Rapid guessing is a validated indicator of disengaged item responding](rapid-guessing-validated-disengagement-indicator.md) — related
+- [Initial test trials sit on variable and treacherous ground, while practice limits indicate both relative standing and general performance](practice-limits-signal-standing-and-performance.md) — related

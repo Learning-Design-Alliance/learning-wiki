@@ -13,7 +13,7 @@ generated:
 # Enhance retention and transfer
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 13 claims (11 for, 2 mixed) · 22 studies (6 causal, 6 quant-synthesis, 6 review, 2 theoretical, 1 associational, 1 qualitative), `q2`–`q4` · 9 of 22 report an effect size · 8 claims rest on one study
+> **Evidence** · 14 claims (11 for, 3 mixed) · 23 studies (7 causal, 6 quant-synthesis, 6 review, 2 theoretical, 1 associational, 1 qualitative), `q2`–`q4` · 9 of 23 report an effect size · 9 claims rest on one study
 
 ## Description
 "Enhance retention and transfer" is the culminating phase of instruction (Gagné's final event; Merrill's Integration principle) in which learners consolidate what they have learned and apply it to novel contexts. Rather than ending a lesson at recall, this element deliberately designs activities — reflection, extension problems, far-transfer tasks — that require learners to restructure and redeploy knowledge beyond the conditions in which it was acquired.
@@ -60,6 +60,7 @@ Transfer does not happen spontaneously; it must be prompted by tasks that differ
 - [Explicit transfer instructions, in which trainees discuss how trained strategies could apply to a new task, produced reliable transfer of imagery and sentence-generation training to unpracticed text learning in older adults](../claims/explicit-transfer-instructions-enable-strategy-transfer.md) [+W]
 - [Self-explaining a worked example of a learning journal entry enhances strategy use and transfer of journal-writing benefits to a new topic](../claims/worked-example-self-explanation-journal-transfer.md) [+W]
 - [The improved probabilistic inference of VGPs generalizes to a novel auditory tone-location discrimination task](../claims/vgp-improved-inference-auditory-task.md) [+W]
+- [In School B the practised group outscored the non-practised group in final reasoning tests, but the author judged the gain unsafe evidence of transfer](../claims/winch-1910-school-b-small-reasoning-advantage.md) [~W]
 
 ## The evidence by question
 

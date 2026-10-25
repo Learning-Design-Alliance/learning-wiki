@@ -53,3 +53,4 @@ The article reports, citing Mnguni et al. (2024b), that zero-order associations 
 - [Learning GenAI anxiety moderates the intention–procrastination association, which is negative and significant at high anxiety but absent at low anxiety](learning-genai-anxiety-moderates-intention-procrastination.md) — related
 - [University students' use of GenAI for learning task completion is negatively associated with GenAI-assisted learning procrastination](genai-use-negatively-associated-genai-learning-procrastination.md) — related
 - [Additive TPACK–belief integrations produce construct overlap, causal ambiguity, and weak intervention guidance](additive-tpack-belief-models-weak-intervention-guidance.md) — related
+- [Among African American high-school students, intentions to complete the school year are accurately predicted from attitudes, subjective norms, and perceived behavioral control (R=0.71)](tpb-predicts-intentions-complete-school-year.md) — related

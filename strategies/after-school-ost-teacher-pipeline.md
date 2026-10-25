@@ -46,6 +46,7 @@ The brief identifies an underutilized strategy: "recruit and prepare those who h
 - [Build high-retention, supportive pathways into teaching for candidates of color](high-retention-supportive-pathways-teachers-of-color.md)
 - [Build an after-school/out-of-school-time pipeline into teaching to diversify the teacher workforce](after-school-ost-teacher-pipeline-strategy.md)
 - [Multi-pronged state investments to diversify and retain the educator workforce](state-investments-diversify-educator-workforce.md)
+- [Recruit the rural teaching profession through state subsidies, supported by survey evidence and arguments from other professions' recruiting methods](state-subsidy-teacher-recruitment.md)
 
 ## Examples
 -

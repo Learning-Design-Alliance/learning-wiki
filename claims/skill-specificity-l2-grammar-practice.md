@@ -95,3 +95,4 @@ Controlled experiment in an artificial language: all subjects received identical
 - [The training-by-content interaction is not specific to test question type, indicating transfer between skill and fact learning](no-three-way-interaction-test-question-type-transfer.md) — related
 - [Peer assessment skills are complex and not automatically acquired, so training and guidance are a crucial design variable](peer-assessment-skills-need-training.md) — related
 - [Task rehearsal improves fluency and complexity on the repeated task but does not transfer to a new task of the same type](task-repetition-fluency-complexity-same-task-only.md) — related
+- [Project-method proponents claim skills are acquired without specific repetition through motivated life situations, refusing compromise with demands for economical skill practice](project-method-no-specific-repetition-claim.md) — reports the opposite

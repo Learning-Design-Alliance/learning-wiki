@@ -42366,5 +42366,105 @@
  "rewards-incentives\tspeaking produces practical benefits or gratification\twants anticipated or gestures and inarticulate cries gratified": {
   "label": "Speech-contingent rewards vs gratification without requiring speech",
   "treatment_is_a": true
+ },
+ "practice-amount\t5th and 6th practice exercises\t1st and 2nd practice exercises": {
+  "label": "later practice vs earlier practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\t9th and 10th rule-sum practice exercises\t1st and 2nd rule-sum practice exercises": {
+  "label": "later practice vs earlier practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\tpractice in rule sums\thistory, drawing, and other schoolwork": {
+  "label": "rule-sum practice vs other schoolwork",
+  "treatment_is_a": true
+ },
+ "practice-amount\tpractice in rule sums\thistory, drawing, or other school work": {
+  "label": "rule-sum practice vs other schoolwork",
+  "treatment_is_a": true
+ },
+ "practice-amount\tpractice in rule sums\thistory, drawing, or other schoolwork": {
+  "label": "rule-sum practice vs other schoolwork",
+  "treatment_is_a": true
+ },
+ "practice-amount\tpractice in rule sums\tno rule-sum practice": {
+  "label": "rule-sum practice vs no rule-sum practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\tpractice in rule-sum computation\thistory or drawing": {
+  "label": "rule-sum practice vs other schoolwork",
+  "treatment_is_a": true
+ },
+ "practice-amount\tpractice in rule-sum computation\thistory or drawing instead of rule-sum practice": {
+  "label": "rule-sum practice vs other schoolwork",
+  "treatment_is_a": true
+ },
+ "practice-amount\tpractice in rule-sum computation\thistory, drawing, or other schoolwork": {
+  "label": "rule-sum practice vs other schoolwork",
+  "treatment_is_a": true
+ },
+ "practice-amount\tpractice limits\tinitial trials": {
+  "label": "later practice vs earlier practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\tsix rule-sum practice exercises\thistory, drawing, and other schoolwork": {
+  "label": "rule-sum practice vs other schoolwork",
+  "treatment_is_a": true
+ },
+ "practice-amount\tten sessions of rule-sum practice\tother schoolwork without rule-sum practice": {
+  "label": "rule-sum practice vs other schoolwork",
+  "treatment_is_a": true
+ },
+ "test-format\tcued combination\tdefinition": {
+  "label": "cued combination vs definition",
+  "treatment_is_a": true
+ },
+ "test-format\tdefinition\tcued combination": {
+  "label": "cued combination vs definition",
+  "treatment_is_a": false
+ },
+ "test-format\twritten group vocabulary test\toral individual vocabulary test": {
+  "label": "written group vocabulary test vs oral individual vocabulary test",
+  "treatment_is_a": true
+ },
+ "other\t10-goal-class factor model\talternative factor models": {
+  "label": "10-goal-class factor model vs alternative factor models",
+  "treatment_is_a": true
+ },
+ "other\t100 trials of addition training\tno special training during the interval": {
+  "label": "addition training vs no intervening training",
+  "treatment_is_a": true
+ },
+ "other\t100 trials of opposites training\tno special training during the interval": {
+  "label": "opposites training vs no intervening training",
+  "treatment_is_a": true
+ },
+ "other\t12-item student growth measure\tgrade attained in the course": {
+  "label": "student growth measure vs course grade",
+  "treatment_is_a": true
+ },
+ "other\t14 days of cancelling e's and t's\tno intervening letter-cancellation practice": {
+  "label": "intervening letter-cancellation practice vs no intervening practice",
+  "treatment_is_a": true
+ },
+ "other\t14 days of cancelling e's and t's\tno letter-cancellation practice": {
+  "label": "intervening letter-cancellation practice vs no intervening practice",
+  "treatment_is_a": true
+ },
+ "other\t1907 institutional status\t1897 institutional status": {
+  "label": "1907 institutional status vs 1897 institutional status",
+  "treatment_is_a": true
+ },
+ "other\t1907 instructional staff\t1897 instructional staff": {
+  "label": "1907 instructional staff vs 1897 instructional staff",
+  "treatment_is_a": true
+ },
+ "other\t1911 test placements\tobserved age-rankings across six applications": {
+  "label": "1911 test placements vs observed age-rankings",
+  "treatment_is_a": true
+ },
+ "other\t1918 mental-index rating\t1920 mental-index rating": {
+  "label": "1918 mental-index rating vs 1920 mental-index rating",
+  "treatment_is_a": true
  }
 }

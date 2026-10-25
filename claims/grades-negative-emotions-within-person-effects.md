@@ -76,3 +76,4 @@ Same RI-CLPM models: several paths did not reach significance. The article notes
 - [Specific emotion patterns: relationship quality predicts later enjoyment, pride, anger, and shame but not anxiety or boredom; earlier enjoyment, anger, boredom, shame, and anxiety predict later relationship quality](discrete-emotion-specific-cross-lagged-patterns.md) — related
 - [When enjoyment, boredom, and anxiety are modeled simultaneously, anxiety exerts the strongest predictive power for mathematics achievement](anxiety-strongest-predictor-when-emotions-modeled-together.md) — related
 - [Test performance predicts subsequent enjoyment, boredom, and anxiety in primary school students, but only anxiety relates reciprocally to performance](performance-predicts-subsequent-emotions.md) — related
+- [Negative affective reactions mediate the grades-to-emotional-engagement link but not the grades-to-behavioral-engagement link](negative-affect-mediation-emotional-only.md) — related

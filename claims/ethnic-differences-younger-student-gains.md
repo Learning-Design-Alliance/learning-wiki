@@ -56,3 +56,4 @@ The article reports subgroup medians of change per decade by ethnicity (Tables 2
 - [Controlling for school poverty greatly reduces but does not eliminate racial/ethnic gaps at kindergarten entry](school-poverty-controls-reduce-racial-entry-gaps.md) — related
 - [Black, Hispanic, and poverty-affected charter students grow faster than traditional public school peers but gains remain below those of white peers](charter-minority-poverty-gains-below-white-peers.md) — related
 - [Students of ethnicity other than White grew more slowly in reading and math than White students, with no ethnic differences in initial achievement](non-white-ethnicity-slower-growth-no-intercept-difference.md) — reports the opposite
+- [School progress is reported to relate to nationality across first, second, and third generations in St. Paul and Minneapolis school records](nationality-school-progress-generations-st-paul-minneapolis.md) — related

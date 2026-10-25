@@ -55,3 +55,4 @@ The article's summary interpretation of the full set of analyses: "ordinal stand
 - [Class-average achievement negatively predicts mathematics self-concept after controlling individual achievement (BFLPE replication in TIMSS 2019)](bflpe-replication-timss-2019-contextual-mean-effect.md) — a broader claim this one bears on
 - [Adding a quadratic achievement term leaves the negative contextual-mean effect essentially unchanged](curvature-adjustment-does-not-eliminate-bflpe.md) — a narrower finding that bears on this claim
 - [Students tended to hold the same relative rank from the first to the last trials of practice, with a small positive correlation between initial and final standing.](relative-rank-stable-across-practice.md) — related
+- [Initial test trials sit on variable and treacherous ground, while practice limits indicate both relative standing and general performance](practice-limits-signal-standing-and-performance.md) — related

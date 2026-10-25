@@ -46,6 +46,8 @@ Cross-scale comparison of average scattering across the same clinic populations,
 
 
 ## Related Claims
+
 - [Scattering on the Binet scales does not support the claim that unequal development is the specific characteristic of the feeble-minded; normal pupils scatter most and imbeciles least](scattering-not-pathognomonic-of-feeble-mindedness.md) — related
 - [Sex differences in scattering reverse across scales: girls scatter more on the 1908 scale, boys on the 1911 and Stanford scales](sex-differences-in-binet-scattering-reverse-by-scale.md) — related
 - [Scattering varies with intelligence-age level: smallest at the lowest mental ages and possibly largest in the middle range, with age-level differences exceeding diagnostic-category differences](scattering-varies-with-mental-age-level.md) — related
+- [In an aphasic patient, vocabulary-test failures scatter evenly across difficulty levels rather than heaping at the hard end](aphasic-vocabulary-failures-evenly-scattered.md)

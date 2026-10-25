@@ -60,9 +60,11 @@ Choral responding multiplies active engagement during teacher-led instruction, c
 6. Periodically follow with an individual check (cold call, whiteboard, or exit item) to verify that choral accuracy reflects individual mastery.
 
 ## Related Strategies
+
 - [Cold Calling](cold-call.md) — the individual-response counterpart; pairing choral rounds with cold calls prevents hiding
 - [Response Cards](response-cards.md) — silent written variant that makes every answer individually visible
 - [Numbered Heads Together](numbered-heads-together.md) — cooperative variant combining group rehearsal with random individual reporting
+- [Question-answer directions that let children answer as part of the administration](question-answer-directions-young-children.md)
 
 ## Examples
 - **Direct Instruction programs** (e.g., *Reading Mastery*, McGraw-Hill) — scripted choral responding on phonics and decoding prompts is a core delivery mechanism, with signals and pacing built into the teacher script.

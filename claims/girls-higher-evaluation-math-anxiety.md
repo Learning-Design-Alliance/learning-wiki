@@ -53,3 +53,4 @@ Cross-sectional analysis of the overall sixth-grade sample (n = 1,091; 545 boys)
 - [Higher sixth-grade mathematical competence predicts lower evaluation anxiety and better mathematics attitudes in seventh grade for girls but not boys](competence-predicts-girls-anxiety-attitudes.md) — related
 - [Sixth-grade mathematics anxiety and attitudes do not predict seventh-grade mathematics achievement; the relation is directional from competence to affect, not reciprocal](competence-to-affect-directional-not-reciprocal.md) — related
 - [Girls with low mathematics achievement are at higher risk of developing mathematics anxiety and poor mathematics attitudes than low-achieving boys](low-achieving-girls-higher-anxiety-risk.md) — a broader claim this one bears on
+- [Girls obtain higher grades and experience less negative affect in response to their grades than boys](girls-higher-grades-less-negative-affect.md) — related

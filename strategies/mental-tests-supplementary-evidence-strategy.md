@@ -46,7 +46,8 @@ The article's practical recommendation is that group mental tests give teachers,
 - [Cases with Differences of minus 9 or below — 21.5 per cent of the standardization sample — are described as marked cases of wasted intelligence whose ability is not being utilized](../claims/wasted-intelligence-minus-nine-below.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Teachers should periodically test all pupils in a wide variety of mental and physical traits to gain intimate knowledge of individual qualities and weaknesses](periodic-wide-trait-testing-of-all-pupils.md)
 
 ## Examples
 -

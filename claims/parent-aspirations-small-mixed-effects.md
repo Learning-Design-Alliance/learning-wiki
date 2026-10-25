@@ -50,3 +50,4 @@ Longitudinal SEM of the ELS:2002 sample; the study reports parent aspiration eff
 - [Year 10 teacher and parent educational expectations have consistently positive effects on student expectations, academic self-concept, GPA, and age-26 outcomes](teacher-parent-expectations-positive-effects.md) — related
 - [Parental aspiration/expectation for children's educational achievement has the strongest relationship with academic achievement among involvement components](parental-aspiration-expectation-strongest-relationship.md) — reports the opposite
 - [Non-linear (Goldilocks) effects of expectations and aspirations on outcomes are small and largely non-significant](goldilocks-effect-not-supported-expectations.md) — related
+- [Parental aspirations show weak, mostly non-significant links to achievement emotions once expectations are controlled](parental-aspirations-weak-emotion-effects.md) — a narrower finding that bears on this claim

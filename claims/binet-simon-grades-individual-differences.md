@@ -77,3 +77,4 @@ Check on judgment reliability: 215 cases under twelve were judged by both teache
 - [The Binet scale can be understood and applied by the average teacher or school principal as readily as current pedagogical tests](binet-scale-usable-by-teachers-and-principals.md) — related
 - [Grouping pupils by mental age is not a reliable means of ensuring proper educational treatment](mental-age-grouping-unreliable-for-educational-treatment.md) — related
 - [Teacher reports in the New Haven survey identified 370 children (about 1.5 per cent) as mentally deficient but only 45 as mentally superior](new-haven-teacher-reports-370-deficient-45-superior.md) — related
+- [Group-scale scores correlate moderately with teachers' ability rankings of first- to third-grade pupils](group-scale-correlates-teacher-rankings-primary.md) — related
