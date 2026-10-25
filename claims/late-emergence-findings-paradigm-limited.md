@@ -51,3 +51,4 @@ The review reports, citing Ruggeri and Feufel (2015) and the decision-making lit
 - [A graded left superior parietal retrieval-success effect emerges by age 12 but is absent in 8-year-olds](ppc-retrieval-success-effect-emerges-age-12.md) — related
 - [Prior research on small-group collaboration covers middle to late childhood, with a dearth of research on adolescence and early adulthood and inconclusive suggestions about age-related change](dearth-research-older-collaborators.md) — related
 - [Children's ability to shield attention against distraction develops until the second decade of life alongside prefrontal cortex maturation](attention-control-develops-second-decade.md) — related
+- [Complete pictorial comprehension (imaginative insight) emerges only around adolescence, with earlier ages showing enumeration, description, and superficial unification](pictorial-comprehension-stages-by-age.md) — related

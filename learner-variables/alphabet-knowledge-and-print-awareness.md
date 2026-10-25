@@ -13,7 +13,7 @@ generated:
 # Alphabet Knowledge and Print Awareness
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 61 claims (32 show a difference, 15 mixed, 14 no difference) · 32 studies (18 causal, 6 quant-synthesis, 5 associational, 1 review, 1 qualitative, 1 design), `q1`–`q4` · 22 of 32 report an effect size · 60 claims rest on one study
+> **Evidence** · 63 claims (33 show a difference, 15 mixed, 15 no difference) · 33 studies (19 causal, 6 quant-synthesis, 5 associational, 1 review, 1 qualitative, 1 design), `q1`–`q4` · 22 of 33 report an effect size · 62 claims rest on one study
 
 ## Description
 Alphabet knowledge is knowing the names, written forms and sounds of letters, including letter combinations that represent a single sound. Print awareness is the understanding that print carries meaning and has different functions, and of how it works on the page (that text is read in a set direction, that words are separated by spaces, and so on), something experienced readers forget they had to learn. Both are measured in early childhood: alphabet knowledge by asking children to name and sound out randomly ordered upper- and lower-case letters, print awareness by informal assessments in which a child handles a book.
@@ -101,6 +101,8 @@ Both factors come from the LVN's PK-3 literacy area. They lead into [phonologica
 - [Whole-body movement teaching improves matching of conditional letter-sounds to letters at retention compared with non-motor teaching](../claims/whole-body-improves-conditional-sound-matching-retention.md) [+M] — instruction changes it
 - [The direct effect of T1 decoding precursors on T2 reading comprehension held only when phonemic awareness and letter knowledge were both included, while RAN strengthened the prediction of decoding skills](../claims/precursor-combination-direct-effect-analysis.md) [~W] — learners who differ on it differ in outcomes
 - [Kindergarten counting, arithmetic, and letter-knowledge measures correlate with Grade 6 arithmetic fluency (r up to .45)](../claims/kindergarten-measures-correlate-grade6-math.md) [+M] — learners who differ on it differ in outcomes
+- [Children improved their numerical and letter-sound knowledge between pre-test and post-test regardless of condition](../claims/numeracy-letter-sound-gains-all-conditions.md) [+M] — instruction changes it
+- [In a pre-registered RCT, neither the forward nor bidirectional number board game (nor the alphabet control) produced a statistically significant condition effect on numerical or letter-sound outcomes in four- to five-year-olds](../claims/number-board-game-no-condition-effect-young-children.md) [-M] — instruction changes it
 
 ## Measures
 - **Concepts About Print (CAP)** (Clay, 2000): informal assessment of print awareness for kindergarten and first-grade children.

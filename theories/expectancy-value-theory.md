@@ -12,7 +12,7 @@ generated:
 # Expectancy-Value Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 45 claims (27 for, 18 mixed) · 27 studies (9 causal, 6 associational, 5 review, 3 qualitative, 2 theoretical, 1 quant-synthesis, 1 design), `q1`–`q3` · 6 of 27 report an effect size · 44 claims rest on one study
+> **Evidence** · 46 claims (28 for, 18 mixed) · 28 studies (9 causal, 7 associational, 5 review, 3 qualitative, 2 theoretical, 1 quant-synthesis, 1 design), `q1`–`q3` · 6 of 28 report an effect size · 45 claims rest on one study
 
 ## Description
 Expectancy-Value Theory (Wigfield & Eccles, 2000) proposes that achievement behavior is most immediately predicted by two beliefs: **expectancy for success** (whether the learner believes they will do well on an upcoming task) and **task value** (why the learner believes the task is worth doing). Expectancy for success is conceptually distinct from present-tense **ability beliefs** — expectancy is about future potential, ability belief is about current competence — though the two are closely related in practice.
@@ -103,6 +103,7 @@ The theory is explicitly integrative — it is often used as the organizing fram
 - [In math and English, students' prior academic self-concept positively predicts their later intrinsic value and attainment value across secondary school](../claims/self-concept-predicts-later-value-math-english.md) [+W] — attached 2026-10-25 from Arens et al. (2019), which proposed "Temporal reciprocal relations among motivation constructs in expectancy-value theory"; tests this page's relationship.
 - [Cross-lagged relations among value constructs vary by academic domain, indicating domain specificity of motivational temporal relations](../claims/domain-specific-cross-lagged-value-relations.md) [+W] — attached 2026-10-25 from Arens et al. (2019), which proposed "Temporal reciprocal relations among motivation constructs in expectancy-value theory".
 - [Expectancy-value theory research previously neglected value-facet differentiation, long time spans with multiple waves, and domain-specific patterns](../claims/evt-research-gaps-value-facets-waves-domains.md) [~W]
+- [Within each school subject, self-concept and the three value facets correlate positively with one another and negatively with opportunity cost](../claims/within-subject-value-facets-positive-cost-negative.md) [+W]
 
 ## Related Theories
 

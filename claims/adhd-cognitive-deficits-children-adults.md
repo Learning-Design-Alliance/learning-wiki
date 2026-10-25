@@ -91,3 +91,4 @@ The review reports, citing Frazier-Wood et al. (2012), Karalunas et al. (2014) a
 - [Visuospatial working memory and short-term memory impairments are most prevalent in children with ADHD-C relative to ADHD-I and typically developing controls](visuospatial-wm-stm-impairments-most-prevalent-adhd-c.md) — a narrower finding that bears on this claim
 - [Diagnostic validity analyses yield results similar to the prevalence findings for WM, STM, and motivational impairments](diagnostic-validity-similar-to-prevalence-results.md) — related
 - [Sleep deprivation is associated with reduced psychomotor vigilance, impaired reaction time, and greater perceived workload and stress in astronauts](sleep-deprivation-impairst-astronaut-performance.md) — related
+- [Testing elementary psychic states is a poor direct measure of adult intelligence, but attention or memory measures are legitimate indirect indices in children](indirect-intelligence-measurement-children.md) — related

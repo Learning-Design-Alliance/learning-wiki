@@ -72,3 +72,4 @@ Profile characterization from the same LPA: the Positive Group (G1, N = 96, 34.2
 - [Three academic self-efficacy profiles (low, moderate, high) are identified among university students with motor disabilities using Latent Profile Analysis](three-academic-self-efficacy-profiles-motor-disabilities.md) — related
 - [Latent profile analysis of 2015 PISA data identifies four collaborative problem-solver profiles among Chinese 15-year-old students](four-collaborative-problem-solver-profiles-pisa.md) — related
 - [Four distinct action-control belief profiles (agentic, moderate, avoidant, and mixed) emerge among Finnish ninth graders](four-action-control-belief-profiles-ninth-graders.md) — related
+- [Latent profile analysis of 12-year-old twins identifies five distinct profiles of math achievement, numerosity, and math anxiety](five-latent-profiles-math-achievement-numerosity-anxiety.md) — related

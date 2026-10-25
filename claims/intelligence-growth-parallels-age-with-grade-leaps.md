@@ -49,3 +49,4 @@ Summary of age-norm results across the full test battery for unretarded children
 - [Children with the same chronological age and mental age pass more group tests in higher grades, an increase the author attributes to additional school experience](grade-experience-increases-group-tests-passed.md) — related
 - [Quality of work rather than time consumed proved the most reliable measure of intelligence across the battery](quality-of-work-over-time-as-intelligence-measure.md) — related
 - [Ability to abstract increases strikingly in the earlier school years but less markedly in later years, with striking individual differences](buhler-abstract-thinking-school-years.md) — related
+- [Attention performance improves with age among unretarded pupils, with developmental breaks between the seventh and eighth and between the eleventh and twelfth years](attention-develops-with-breaks-at-7-8-and-11-12-years.md) — related

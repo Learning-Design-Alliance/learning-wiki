@@ -76,3 +76,4 @@ Sequential invariance tests met Chen's criteria: metric transition ΔCFI = −0.
 - [Motivational outcomes are the most consistently positive dimension across AI-GBL studies](ai-gbl-motivation-most-consistent-outcome.md) — related
 - [SFAILQ shows scalar measurement invariance across adolescents, young adults, and middle-aged adults](sfailq-scalar-invariance-age-groups.md) — related
 - [Within-person change in perceived fairness mediates the longitudinal association between trust and learning motivation](within-person-fairness-mediates-trust-motivation.md) — related
+- [The motivational measures show strict longitudinal measurement invariance across the two time points](strict-measurement-invariance-motivation-two-waves.md) — related

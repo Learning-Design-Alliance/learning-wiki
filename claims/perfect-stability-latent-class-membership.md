@@ -47,3 +47,4 @@ Latent class regression on the longitudinal subset (n=95) assessed at end of 1st
 ## Related Claims
 - [Kindergarten profile membership predicts differentiated 1st-grade reading patterns: the double-deficit group performed worse than all other profiles on nearly all measures](dd-profile-worst-grade1-outcomes.md) — related
 - [Latent profile analysis of kindergarten pre-reading measures yields six distinct performance profiles, including PA risk, RAN risk, and double-deficit risk groups](six-latent-prereading-profiles-kindergarten.md) — related
+- [Familial resemblance in profile membership appears only for high performers; struggling profiles show child-specific influences](familial-resemblance-only-high-performers.md) — related

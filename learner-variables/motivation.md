@@ -13,7 +13,7 @@ generated:
 # Motivation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 277 claims (188 show a difference, 61 mixed, 28 no difference) · 208 studies (75 associational, 53 causal, 34 review, 16 theoretical, 14 quant-synthesis, 10 qualitative, 6 design), `q1`–`q4` · 53 of 208 report an effect size · 265 claims rest on one study
+> **Evidence** · 278 claims (189 show a difference, 61 mixed, 28 no difference) · 209 studies (76 associational, 53 causal, 34 review, 16 theoretical, 14 quant-synthesis, 10 qualitative, 6 design), `q1`–`q4` · 53 of 209 report an effect size · 266 claims rest on one study
 
 ## Description
 Whether a learner will spend effort here, and what makes it feel worth spending. It decides whether a page must earn attention before it can teach, and how much open-endedness is tolerable. The honest state of the evidence is that the mechanisms are well supported and the *interventions* are modest — growth-mindset programmes produce small average effects concentrated in specific subgroups [+W], which is a reason to design for motivation rather than to bolt an intervention on.
@@ -327,6 +327,7 @@ Whether a learner will spend effort here, and what makes it feel worth spending.
 - [Emotional and behavioral engagement decline during the first year of secondary school, with emotional engagement declining more strongly for boys than girls](../claims/engagement-declines-first-year-secondary-school.md) [~M] — instruction changes it
 - [Higher report card grades predict higher emotional and behavioral engagement in spring of first secondary school year, controlling for prior engagement](../claims/grades-predict-later-school-engagement.md) [+M] — instruction changes it
 - [Negative affective reactions mediate the grades-to-emotional-engagement link but not the grades-to-behavioral-engagement link](../claims/negative-affect-mediation-emotional-only.md) [~M] — instruction changes it
+- [Math motivational factors correlate more strongly with each other and with math grades than language arts motivational factors correlate with language arts grades](../claims/math-motivation-grade-correlations-stronger.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does autonomy-supportive teaching raise motivation and engagement compared with controlling teaching?* [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](../claims/autonomy-supports-intrinsic-motivation.md) [+M]

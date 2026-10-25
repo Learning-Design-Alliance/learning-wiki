@@ -47,3 +47,4 @@ Laboratory memory tests of one regular typewriting subject, ten tests four and a
 
 ## Related Claims
 - [Practice in substituting digits for letters transferred positively to writing symbols for digits but interfered with writing digits for symbols](kline-substitution-transfer-asymmetric.md) — related
+- [Typewriting practice focused on the most frequent letter combinations produced much more rapid improvement than the usual procedure](typewriting-practice-frequent-letter-combinations.md) — related

@@ -47,3 +47,4 @@ Correlations between point-hour ratios and each Alpha test taken separately for 
 ## Related Claims
 - [Alpha predicts academic standing better in Agriculture (r = .54) than in Arts or Engineering, and subtest patterns vary by college](alpha-correlation-varies-by-college.md) — related
 - [Correlations between Alpha and grades vary by class standing, lowest for graduates (r = .15) and highest for seniors (r = .38)](alpha-grades-correlation-class-standing.md) — related
+- [Separate subtests of the short form correlate .41 to .68 with their corresponding long scales](survey-test-subtest-correlations-41-to-68.md) — related

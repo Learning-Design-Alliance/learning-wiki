@@ -74,3 +74,4 @@ The review reports two non-supportive mindfulness studies: "participants reporte
 - A scoping review identified 46 peer-reviewed teacher well-being and burnout intervention studies covering 7369 participants in 15 countries, mostly quantitative — a broader claim this one bears on
 - [Mindfulness practices are linked to positive school climate outcomes including compassion, well-being, and self-regulation](mindfulness-positive-school-climate-outcomes.md) — related
 - [Mindfulness-based wellbeing initiatives have a positive effect on the wellbeing of primary and secondary educators](mindfulness-initiatives-improve-educator-wellbeing.md) — possibly the same claim (merge candidate)
+- [The meditation app improves well-being skills (self-compassion, loneliness, cognitive defusion, perseverative thinking, well-being, meaning) that persist at follow-up, except mindful action](hmp-improves-well-being-skills-persisting.md) — a narrower finding that bears on this claim

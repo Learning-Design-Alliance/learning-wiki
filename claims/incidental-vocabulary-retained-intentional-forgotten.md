@@ -49,3 +49,4 @@ Re-analysis (Mason & Krashen 2010) of File and Adams' data reported in the revie
 - [Incidental vocabulary acquisition through comprehensible input is more powerful than intentional vocabulary learning](incidental-vocabulary-acquisition-more-powerful-than-intentional.md) — a broader claim this one bears on
 - [Generation effects are larger in incidental than intentional learning studies, though the direct intentional-vs-incidental contrast was not significant](intentionality-moderator-generation-effect.md) — related
 - [Combining intentional and incidental vocabulary learning produces greater gains and better retention than either mode alone](combined-intentional-incidental-greater-gains.md) — reports the opposite
+- [Incidental learning of nonsense syllables with no intent to secure permanence can nonetheless be retained long term](incidental-learning-no-intent-permanence-retention.md) — a narrower finding that bears on this claim

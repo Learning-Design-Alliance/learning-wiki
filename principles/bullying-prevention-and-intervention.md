@@ -13,7 +13,7 @@ generated:
 # Bullying Prevention and Intervention
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 31 claims (23 for, 7 mixed, 1 against) · 18 studies (6 causal, 5 review, 4 associational, 2 design, 1 theoretical), `q1`–`q3` · 4 of 18 report an effect size · 31 claims rest on one study
+> **Evidence** · 32 claims (23 for, 8 mixed, 1 against) · 19 studies (6 causal, 5 review, 5 associational, 2 design, 1 theoretical), `q1`–`q3` · 4 of 19 report an effect size · 32 claims rest on one study
 
 ## Conditional relationship
 
@@ -134,6 +134,7 @@ Bullying rated by teachers, bullying reported by students, fear of bullying, bys
 - [School-based cyberbullying prevention has the largest review base, with clear findings replicated across multiple reviews](../claims/cyberbullying-prevention-reviews-effective-content.md) [+W]
 - [By the end of the study all learner focus groups understood bullying as repeated aggression and reported being confident defenders](../claims/learners-learned-definition-and-defending.md) [+W]
 - [Gender differences in victimization vary systematically across the physical, verbal, and relational components](../claims/gender-differences-vary-across-victimization-components.md) [~W]
+- [Victim and defender categories were highly unstable across the school year: only 16.8% of initially nondefended victims remained nondefended victims at T2](../claims/victim-defender-categories-unstable-across-year.md) [~W]
 
 ## Related Principles
 - [Character Education](character-education.md) — schoolwide relationship-focused, non-punitive climate is a preventive foundation bullying-specific intervention builds on

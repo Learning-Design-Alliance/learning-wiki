@@ -13,7 +13,7 @@ generated:
 # Vocabulary
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 91 claims (67 show a difference, 14 mixed, 10 no difference) · 69 studies (24 associational, 20 causal, 14 quant-synthesis, 6 review, 3 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 18 of 69 report an effect size · 88 claims rest on one study
+> **Evidence** · 92 claims (67 show a difference, 15 mixed, 10 no difference) · 70 studies (24 associational, 21 causal, 14 quant-synthesis, 6 review, 3 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 19 of 70 report an effect size · 89 claims rest on one study
 
 ## Description
 Vocabulary is the store of words a learner understands (receptive vocabulary) and uses (expressive or productive vocabulary), together with the strategies they use to work out unfamiliar words. It is measured with picture-vocabulary tests, in which a learner picks the picture matching a spoken word, with language samples that count the number and variety of words used, and, for older students, with measures of academic language features in writing.
@@ -132,6 +132,7 @@ The page sits within the wiki's broader [reading and language](reading-and-langu
 - [Morphological awareness has significant indirect effects on reading comprehension via word reading (β = .140) and vocabulary knowledge (β = .190)](../claims/ma-indirect-effects-via-word-reading-vocabulary.md) [+W] — learners who differ on it differ in outcomes
 - [Older readers showed a stronger indirect effect of MA on reading comprehension via vocabulary knowledge, with a converse pattern via word reading](../claims/age-grade-moderates-indirect-effects.md) [~W] — learners who differ on it differ in outcomes
 - [Terman group vocabulary scores correlate with intelligence test scores and school grades in the secondary group](../claims/terman-vocabulary-correlations-other-tests.md) [+M] — learners who differ on it differ in outcomes
+- [In Study 1, effects of language-focused Tier II instruction were moderated by qualification status: dual-qualified children gained on expressive language while language-only children scored lower on definitional vocabulary](../claims/study1-qualification-moderation-language-outcomes.md) [~W] — instruction changes it
 
 ## Measures
 - **Peabody Picture Vocabulary Test, Fifth Edition (PPVT-5)** (Dunn, 2018): receptive vocabulary for learners of all ages (earlier edition: Dunn & Dunn, 2007).

@@ -13,7 +13,7 @@ generated:
 # Auditory Processing
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 25 claims (14 show a difference, 8 mixed, 3 no difference) · 14 studies (4 associational, 3 causal, 3 review, 2 quant-synthesis, 2 theoretical), `q1`–`q3` · 5 of 14 report an effect size · 23 claims rest on one study
+> **Evidence** · 26 claims (15 show a difference, 8 mixed, 3 no difference) · 15 studies (5 associational, 3 causal, 3 review, 2 quant-synthesis, 2 theoretical), `q1`–`q3` · 5 of 15 report an effect size · 24 claims rest on one study
 
 ## Description
 Auditory processing is what the brain does with sound once it has been heard: locating sounds, telling them apart and interpreting them as meaningful, so that a listener can attend to, understand and remember speech and control their own speaking. It underpins spoken language and listening comprehension and lays the foundation for reading and writing, including [phonological awareness](phonological-awareness.md), at every age the LVN covers from pre-kindergarten to adulthood. It is still developing through adolescence, when academic demands on listening rise. Difficulties show up most where speech must be followed against background noise, as in a busy classroom, and learners with dyslexia may process speech sounds differently. It is measured with standardised batteries of auditory attention, auditory memory and phonological skills, and with tests of auditory processing speed. It is distinct from hearing itself, which [access](access.md) covers, though hearing loss affects it; in older adults, age-related decline in hearing speech in noise is part of the picture.
@@ -61,6 +61,7 @@ Auditory processing is what the brain does with sound once it has been heard: lo
 - [In a double mediation path model, RCR is associated with listening comprehension, which is associated with vocabulary, with the direct vocabulary-to-RCR effect fully mediated](../claims/path-model-lc-vocabulary-rcr.md) [+W] — learners who differ on it differ in outcomes
 - [RCR is correlated with vocabulary and listening comprehension in the combined sample](../claims/rcr-correlated-semantic-abilities.md) [+M] — learners who differ on it differ in outcomes
 - [Apparent improvements from systematic sensory training locate in central factors such as attention and understanding, so strictly there is no sense training](../claims/sensory-gains-reflect-central-factors.md) [-W] — instruction changes it
+- [Excluding pedagogically retarded pupils reveals a close correlation between mental growth and immediate auditory sentence memory](../claims/sentence-memory-correlates-with-mental-growth.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Test of Auditory Processing Skills** (Martin, Brownell & Hamaguchi, 2018): auditory attention, auditory memory and phonological skills for ages 4 to 18.

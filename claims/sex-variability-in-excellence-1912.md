@@ -51,3 +51,4 @@ Analysis of the sex of pupils ranked first, second and third, and last three, in
 - [The reading sex difference favoring girls grew over the decade and was driven by very poor performance of boys at the low end](reading-gap-growing-driven-by-low-performing-boys.md) — related
 - [In this group the average girl's grades equal or exceed the average boy's in all six subjects, with the largest advantage in Latin](girl-boy-average-grade-comparison-1912.md) — reports the opposite
 - [The mathematics sex difference is practically non-existent among low performers and largest among high performers, where boys outnumber girls up to 2.7:1 above the 99th percentile](math-sex-difference-concentrated-at-high-end.md) — related
+- [Starch's arithmetic scale shows decided grade-to-grade overlap: about 33% of any grade reach or exceed the median of the grade above, with a strong sex difference favoring boys](starch-arithmetic-scale-overlap-sex-difference.md) — related

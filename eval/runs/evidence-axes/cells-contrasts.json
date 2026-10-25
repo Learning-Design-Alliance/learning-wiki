@@ -42478,5 +42478,73 @@
  "test-format\tTrabue Completion Test K\tTrabue Completion Test M": {
   "label": "Trabue Completion Test K vs Trabue Completion Test M",
   "treatment_is_a": true
+ },
+ "explicit-instruction\tcode-focused Tier II instruction\tBAU Tier I classroom instruction": {
+  "label": "code-focused Tier II instruction vs Tier I classroom instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tcode-focused Tier II small-group instruction\tTier I classroom instruction only": {
+  "label": "code-focused Tier II instruction vs Tier I classroom instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tlanguage-focused Tier II small-group instruction\tTier I classroom instruction only": {
+  "label": "language-focused Tier II instruction vs Tier I classroom instruction",
+  "treatment_is_a": true
+ },
+ "gamification\talphabet game\tforward or bidirectional number game": {
+  "label": "number game vs alphabet game",
+  "treatment_is_a": false
+ },
+ "gamification\talphabet game\tnumber game, forward or bidirectional": {
+  "label": "number game vs alphabet game",
+  "treatment_is_a": false
+ },
+ "gamification\tbidirectional number game\talphabet game": {
+  "label": "number game vs alphabet game",
+  "treatment_is_a": true
+ },
+ "gamification\tbidirectional number game\tforward-only number game": {
+  "label": "bidirectional number game vs forward-only number game",
+  "treatment_is_a": true
+ },
+ "gamification\tforward-only number game\talphabet game": {
+  "label": "number game vs alphabet game",
+  "treatment_is_a": true
+ },
+ "gamification\tlinear number board game\talphabet lotto game": {
+  "label": "number game vs alphabet game",
+  "treatment_is_a": true
+ },
+ "gamification\tnumber game condition\tother game conditions": {
+  "label": "number game vs other game conditions",
+  "treatment_is_a": true
+ },
+ "gamification\tnumber game, forward condition\talphabet game": {
+  "label": "number game vs alphabet game",
+  "treatment_is_a": true
+ },
+ "gamification\tnumber game, forward or bidirectional\talphabet game": {
+  "label": "number game vs alphabet game",
+  "treatment_is_a": true
+ },
+ "gamification\tnumber-game condition\tother game conditions": {
+  "label": "number game vs other game conditions",
+  "treatment_is_a": true
+ },
+ "test-format\tabbreviated Educational Survey Test\tcorresponding long standard scales": {
+  "label": "abbreviated tests vs full-length tests",
+  "treatment_is_a": true
+ },
+ "test-format\tabbreviated Educational Survey Test\tlong scales": {
+  "label": "abbreviated tests vs full-length tests",
+  "treatment_is_a": true
+ },
+ "test-format\tabbreviated Educational Survey Test\ttotal results of separate long scales": {
+  "label": "abbreviated tests vs full-length tests",
+  "treatment_is_a": true
+ },
+ "test-format\tabbreviated educational survey test\tlong Standard Educational Measurements": {
+  "label": "abbreviated tests vs full-length tests",
+  "treatment_is_a": true
  }
 }

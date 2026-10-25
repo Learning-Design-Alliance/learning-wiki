@@ -35,7 +35,7 @@ sources:
 # Self-Regulated Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 151 claims (62 for, 81 mixed, 8 against) · 106 studies (33 causal, 22 review, 17 quant-synthesis, 17 associational, 13 theoretical, 3 design, 1 qualitative), `q1`–`q4` · 29 of 106 report an effect size · 140 claims rest on one study
+> **Evidence** · 152 claims (62 for, 82 mixed, 8 against) · 107 studies (33 causal, 22 review, 18 associational, 17 quant-synthesis, 13 theoretical, 3 design, 1 qualitative), `q1`–`q4` · 29 of 107 report an effect size · 141 claims rest on one study
 
 ## Conditional relationship
 
@@ -243,6 +243,7 @@ Gains in strategy knowledge, self-reported regulation, self-efficacy, study time
 - [Descriptively, monitoring interventions with teacher feedback on entries and direct revision opportunities showed higher effects](../claims/teacher-feedback-and-revision-descriptive-advantage.md) [~W]
 - [Monitoring tool effects were larger in shorter interventions, contrary to the duration hypothesis](../claims/monitoring-effects-larger-shorter-interventions.md) [~W]
 - [Contemporary SRL models largely omit the broader social context and implicitly assume all learners are available to learn](../claims/srl-models-assume-availability-omit-context.md) [~W]
+- [The study examines the development of motivational regulation strategy knowledge and its longitudinal relationship with academic procrastination over the course of study](../claims/motivational-regulation-knowledge-longitudinal-procrastination.md) [~W]
 
 ## Related Principles
 - [Goal Setting & Monitoring](goal-setting-monitoring.md)

@@ -47,3 +47,4 @@ Kelley's analytical correction applied to previously reported grade-overlapping 
 ## Related Claims
 - [Grades overlap massively in spelling: on average 20.8% of pupils reach or exceed the median of the next grade above](grade-overlapping-in-spelling.md) — related
 - [Combining reading, writing and spelling scores still leaves immense grade overlap: on average 33.2% of pupils reach the next grade's range and 35.3% fall below their own grade's range](combined-measures-grade-overlapping.md) — related
+- [Starch's arithmetic scale shows decided grade-to-grade overlap: about 33% of any grade reach or exceed the median of the grade above, with a strong sex difference favoring boys](starch-arithmetic-scale-overlap-sex-difference.md) — related

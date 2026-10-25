@@ -78,3 +78,4 @@ The commentary reports, citing Abel et al. (2024), an experiment on learners' pr
 - [CLT can serve as a framework for teaching generalized knowledge and skills, including learning strategies](clt-framework-generalized-skills.md) — related
 - [Task difficulty shows an inverted U-shaped relation with cognitive strategy use and a positive linear relation with metacognitive strategy use, mediated by cognitive load (Seufert et al., 2024)](task-difficulty-inverted-u-strategy-use.md) — related
 - [Combining utility value of distinguishing with conditional knowledge fosters interleaving of confusable categories (Abel et al., 2024)](utility-value-conditional-knowledge-foster-interleaving.md) — a narrower finding that bears on this claim
+- [Mental development proceeds from the indistinct to the distinct and from the passive to the active, driven by environmental experience rather than spontaneity alone](development-indistinct-to-distinct.md) — related

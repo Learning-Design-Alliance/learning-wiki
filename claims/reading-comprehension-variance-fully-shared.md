@@ -51,3 +51,4 @@ Hierarchical reading models showed that "all of the variance in reading comprehe
 - [Genetic influences drive the phenotypic correlations between cognitive skills and reading components](genetic-influences-drive-cognitive-reading-correlations.md) — related
 - [Cognitive and reading skills share large amounts of genetic variance within domains](cognitive-reading-domains-share-genetic-variance.md) — related
 - [Third-grade reading comprehension is predicted by third-grade word reading and listening comprehension, with no direct attention effect](grade3-comprehension-predicted-by-word-reading-and-listening.md) — related
+- [Reading comprehension retains genetic and nonshared environmental influences independent of both mathematics and word decoding](reading-comprehension-genetic-influences-independent-of-decoding-and-math.md) — related

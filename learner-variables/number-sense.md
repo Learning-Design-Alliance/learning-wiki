@@ -13,7 +13,7 @@ generated:
 # Number Sense
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 100 claims (72 show a difference, 18 mixed, 10 no difference) · 41 studies (24 associational, 9 causal, 2 review, 2 qualitative, 2 design, 2 theoretical), `q1`–`q3` · 16 of 41 report an effect size · 98 claims rest on one study
+> **Evidence** · 101 claims (73 show a difference, 18 mixed, 10 no difference) · 42 studies (24 associational, 10 causal, 2 review, 2 qualitative, 2 design, 2 theoretical), `q1`–`q4` · 16 of 42 report an effect size · 99 claims rest on one study
 
 ## Description
 Number sense is a learner's grasp of how large numbers are and how they relate to one another. It is measured with magnitude comparison (which of two numbers or dot arrays is larger), number line estimation (placing a number on a line with labelled ends) and similar tasks. These measures correlate with mathematics achievement and predict later mathematics learning, and they can be improved by instruction such as number board games and number line activities. It is a domain-specific part of [prior knowledge](prior-knowledge.md) in mathematics.
@@ -135,6 +135,7 @@ Number sense is a learner's grasp of how large numbers are and how they relate t
 - [Performance on the newly learned symbols shows canonical ratio effects, consistent with mapping novel symbols onto Approximate Magnitude System representations](../claims/novel-symbol-ratio-effects-ams-mapping.md) [+M] — instruction changes it
 - [The most important kindergarten predictors of Grade 6 MD are RAN, spatial relations, arithmetic skills, number concepts, attention-orientation, and counting](../claims/top-predictors-md-ran-spatial-attention.md) [+W] — learners who differ on it differ in outcomes
 - [Kindergarten counting, arithmetic, and letter-knowledge measures correlate with Grade 6 arithmetic fluency (r up to .45)](../claims/kindergarten-measures-correlate-grade6-math.md) [+M] — learners who differ on it differ in outcomes
+- [Children improved their numerical and letter-sound knowledge between pre-test and post-test regardless of condition](../claims/numeracy-letter-sound-gains-all-conditions.md) [+M] — instruction changes it
 
 ## Related Learner Variables
 

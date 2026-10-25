@@ -13,7 +13,7 @@ generated:
 # Affect Regulation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 182 claims (131 show a difference, 34 mixed, 17 no difference) · 118 studies (43 associational, 22 causal, 22 review, 10 qualitative, 9 quant-synthesis, 8 theoretical, 4 design), `q1`–`q4` · 29 of 118 report an effect size · 176 claims rest on one study
+> **Evidence** · 184 claims (133 show a difference, 34 mixed, 17 no difference) · 119 studies (44 associational, 22 causal, 22 review, 10 qualitative, 9 quant-synthesis, 8 theoretical, 4 design), `q1`–`q4` · 29 of 119 report an effect size · 178 claims rest on one study
 
 ## Description
 What a learner does with frustration, anxiety and failure while the work is still in front of them. It decides whether a hard check needs a recoverable framing and how failure is surfaced. Anxiety is not only unpleasant — it consumes the same working memory the task needs, so it degrades performance through a mechanism entirely separate from motivation [-M]. Naming an emotion measurably reduces its grip, which is why the strategies here look unexpectedly linguistic.
@@ -222,6 +222,8 @@ What a learner does with frustration, anxiety and failure while the work is stil
 - [Retention improves math self-efficacy and reduces math anxiety in the first year, with effects maintained (anxiety showing a positive sleeper effect at Lag 4)](../claims/retention-self-efficacy-anxiety-effects.md) [+W] — instruction changes it
 - [Test performance predicts subsequent enjoyment, boredom, and anxiety in primary school students, but only anxiety relates reciprocally to performance](../claims/performance-predicts-subsequent-emotions.md) [+M] — learners who differ on it differ in outcomes
 - [When enjoyment, boredom, and anxiety are modeled simultaneously, anxiety exerts the strongest predictive power for mathematics achievement](../claims/anxiety-strongest-predictor-when-emotions-modeled-together.md) [+M] — learners who differ on it differ in outcomes
+- [Anxious low achievers: a large class of children shows low math achievement and the highest math anxiety despite average numerosity](../claims/anxious-low-achievers-average-numerosity.md) [+M] — learners who differ on it differ in outcomes
+- [No group of high-performing children also showed high math anxiety in this sample](../claims/no-high-performers-with-high-anxiety.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 

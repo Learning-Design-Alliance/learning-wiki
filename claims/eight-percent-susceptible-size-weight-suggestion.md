@@ -45,4 +45,6 @@ Suggestibility testing with progressive weights and three standard normal illusi
 
 
 ## Related Claims
+
 - [The twelve-year tests of the Binet-Simon scale were unsatisfactory, with several individual tests too difficult for the children tested](binet-simon-twelve-year-tests-unsatisfactory.md) — related
+- [Suggestibility scores on an after-image test and a warmth-illusion test correlated insignificantly in the same group of college students](scott-two-suggestibility-tests-insignificant-correlation.md)

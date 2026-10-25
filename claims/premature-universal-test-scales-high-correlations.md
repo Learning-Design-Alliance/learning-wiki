@@ -67,3 +67,4 @@ In the same commentary, Hollingworth gives his stated reason for the prematurity
 - [In one class of 13-year-old boys, memory scores were kept to a steady rank order by repeated practice (successive tests correlating +.87 to +.90) before fatigue testing began](steady-practice-before-fatigue-tests.md) — related
 - [The equal-group tests showed high test-retest and between-group correlations, supporting the reliability of the arithmetical-reasoning marking method.](high-correlations-reasoning-tests.md) — related
 - [Late-afternoon memory work shows relative inefficiency of about 5-6 per cent compared with early-morning work in 13-year-old boys](afternoon-memory-fatigue-five-six-percent.md) — related
+- [Vocational selection test scores correlate with later employment success, with correlations as high as .90 when testing employees whose ability is known to employers](vocational-test-employment-correlations-90.md) — related

@@ -53,3 +53,4 @@ Comparison of 100 clinic cases examined by the same examiner with both scales, s
 - [The Yerkes-Bridges Point Scale scoring method fails entirely to accomplish its stated purpose of bringing out the full value of the test material.](yerkes-bridges-point-scale-fails-stated-purpose.md) — related
 - [Status differences between the two scales are small for most cases, with eight of 100 identical](scale-status-differences-distribution.md) — related
 - [The Binet-Simon scale is a valuable diagnostic tool for classifying defective children when used by a trained examiner but dangerous in untrained hands](binet-simon-scale-valuable-trained-dangerous-untrained.md) — related
+- [Binet-Simon results fit normal children's chronological ages better in early years, while the Yerkes-Bridges point scale gives better results from age eight or nine on, due to scoring methods](binet-versus-yerkes-bridges-age-fit.md) — related

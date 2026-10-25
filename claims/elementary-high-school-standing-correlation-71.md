@@ -48,3 +48,4 @@ Correlational study of school records for 106 pupils (53 girls and 53 boys), usi
 - [Dearborn's study found university students maintain to a marked degree the same relative ranking they held in high school](dearborn-relative-ranking-maintained-university.md) — related
 - [The article's own correlation study uses 106 Iowa City records covering at least the last four elementary years and first two high-school years](iowa-city-106-records-correlation-study.md) — related
 - [Subject-ranking correlations between elementary and high school are usually high, averaging approximately +.52, with Geography highest (+.66) and Spelling lowest (+.44)](subject-ranking-correlations-average-52.md) — related
+- [Opinions of boys, girls, and normal school students about the best teacher qualities correlate highly (r = .80 between high school girls and boys; r = .88 between normal school girls and high school girls).](high-correlation-pupil-group-opinions.md) — related

@@ -56,3 +56,4 @@ Cross-sectional ANCOVA of 136 adolescents in six age groups (12–17), controlli
 - [Male and female WM growth trajectories do not differ: sex-by-age interactions are non-significant after multiple-comparison correction](no-sex-differences-wm-growth.md) — related
 - [When PSID-CDS data are restricted to ages 6–11, backward digit span growth is best characterized by a quadratic (not cubic) function](quadratic-best-fit-restricted-age-range.md) — related
 - [Psycho-motor capacity as measured by the form board increases at every age from two to seventeen](psychomotor-capacity-increases-ages-2-17.md) — related
+- [Complete pictorial comprehension (imaginative insight) emerges only around adolescence, with earlier ages showing enumeration, description, and superficial unification](pictorial-comprehension-stages-by-age.md) — related

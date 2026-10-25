@@ -49,6 +49,7 @@ The article adopts Vygotsky's social-constructivist theory, in which "learning i
 
 - [Use scaffolding techniques to help students complete tasks within their zones of proximal development](../strategies/scaffolding-within-zpd-classroom-strategy.md)
 - [Online knowledge-building trajectory built on two tools and two processes](../designs/online-knowledge-building-tools-and-processes-pattern.md)
+- [Tailor number-game difficulty to each child's zone of proximal development rather than using a fixed interval for all](../strategies/tailor-number-game-difficulty-to-zpd.md)
 
 ## Key Sources
 - Kirova, Anna; Bhargava, Ambika. (2002). Learning To Guide Preschool Children's Mathematical Understanding: A Teacher's Professional Growth. Early Childhood Research & Practice. http://ecrp.uiuc.edu/v4n1/kirova.html

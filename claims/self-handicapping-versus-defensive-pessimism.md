@@ -51,3 +51,4 @@ Definitional and synthetic review statement contrasting two motivational regulat
 - [Prolonged reading failure leads students to attribute failure to fixed low ability and define reading as a failure situation](reading-failure-fixed-ability-attribution.md) — related
 - [Praise for intelligence, rather than for effort, after success undermines children's motivation and performance after a later failure](feedback-praise-reduces-learning.md) — related
 - [Academic procrastination and learned helplessness positively predict cheating tendency, while academic self-efficacy negatively predicts it among university students](psychological-antecedents-predict-cheating-tendency.md) — related
+- [The study examines the development of motivational regulation strategy knowledge and its longitudinal relationship with academic procrastination over the course of study](motivational-regulation-knowledge-longitudinal-procrastination.md) — related

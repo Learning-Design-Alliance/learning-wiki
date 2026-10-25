@@ -13,7 +13,7 @@ generated:
 # Safety
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 90 claims (64 show a difference, 18 mixed, 8 no difference) · 52 studies (18 associational, 12 review, 7 causal, 6 qualitative, 4 quant-synthesis, 4 theoretical, 1 design), `q1`–`q4` · 4 of 52 report an effect size · 90 claims rest on one study
+> **Evidence** · 92 claims (65 show a difference, 18 mixed, 9 no difference) · 53 studies (19 associational, 12 review, 7 causal, 6 qualitative, 4 quant-synthesis, 4 theoretical, 1 design), `q1`–`q4` · 4 of 53 report an effect size · 92 claims rest on one study
 
 ## Description
 Safety here means both being and feeling physically and psychologically secure in the places a learner spends time: home, school or work, the neighbourhood and the wider community. It covers violence and crime, bullying and cyberbullying, and, from adolescence on, a learner's own risk-taking behaviour such as substance use. It matters for learning because a learner who feels safe can focus on the task, while one who feels unsafe tends to miss school and take part less in class, losing learning opportunities. For adults, the LVN adds that learners who had bad experiences of school need to feel safe enough to learn again. It is measured with self-report bullying and victimisation scales, neighbourhood questionnaires and screening tools for risky behaviour. It overlaps with [adverse experiences](adverse-experiences.md), since feeling unsafe can be traumatic, and with [belonging](belonging.md).
@@ -126,6 +126,8 @@ Safety here means both being and feeling physically and psychologically secure i
 - [Cooperative learning significantly reduced bullying among marginalized (low-engagement) middle school students in a cluster randomized trial](../claims/cooperative-learning-reduces-bullying-marginalized-students.md) [+M] — instruction changes it
 - [Cooperative learning significantly reduced perceived stress among marginalized middle school students](../claims/cooperative-learning-reduces-perceived-stress-marginalized.md) [+M] — instruction changes it
 - [Cooperative learning significantly reduced victimization among marginalized middle school students](../claims/cooperative-learning-reduces-victimization-marginalized.md) [+M] — instruction changes it
+- [Defended and nondefended victims did not differ significantly in severity of victimization, self-esteem, or depressive symptoms at the end of the school year](../claims/defending-did-not-reduce-victimization-self-esteem-depression.md) [-M] — learners who differ on it differ in outcomes
+- [Victims with at least one defender at the start of the school year report higher feelings of belonging at year's end than nondefended victims, but lower belonging than nonvictims](../claims/defended-victims-higher-belonging-than-nondefended-lower-than-nonvictims.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Electronic Bullying Questionnaire** (Kowalski & Limber, 2007): self-report of how often a person has been cyberbullied or has cyberbullied others.
