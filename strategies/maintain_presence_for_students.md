@@ -19,7 +19,7 @@ Teachers make themselves available for short, informal conversations with studen
 
 ## Design Implications
 
-Availability only supports learning when students perceive it as genuine and predictable; the quality of teacher–student relationships is consistently associated with engagement, participation, and achievement, with the strongest effects for at-risk learners [Learner-centered teacher–student relationships are associated with higher engagement and achievement.](https://doi.org/10.3102/00346543073001113) [+S]. Presence functions as a precondition for other strategies: students rarely disclose confusion, emotion, or peer conflict to a teacher they cannot approach. It also supports belonging, which feeds motivation through perceived task value [Task value increases motivation and engagement.](../claims/task-value-increases-motivation-and-engagement.md) [+M].
+Availability only supports learning when students perceive it as genuine and predictable; the quality of teacher–student relationships is consistently associated with engagement, participation, and achievement, with the strongest effects for at-risk learners Learner-centered teacher–student relationships are associated with higher engagement and achievement.. Presence functions as a precondition for other strategies: students rarely disclose confusion, emotion, or peer conflict to a teacher they cannot approach. It also supports belonging, which feeds motivation through perceived task value [Task value increases motivation and engagement.](../claims/task-value-increases-motivation-and-engagement.md) [+M].
 
 ### Context
 #### Requirements
@@ -41,7 +41,7 @@ Availability only supports learning when students perceive it as genuine and pre
 - **Digital presence**: predictable response windows in online courses, standing office hours, and active participation in course discussion spaces
 
 ### Target Learners
-- Students who lack other trusted adults at school benefit most; relationship quality matters more for students with academic or behavioral risk factors [Affective teacher–student relationships relate most strongly to engagement and behavior for at-risk students.](https://doi.org/10.3102/0034654311421794) [+S]
+- Students who lack other trusted adults at school benefit most; relationship quality matters more for students with academic or behavioral risk factors Affective teacher–student relationships relate most strongly to engagement and behavior for at-risk students.
 - Adolescents navigating identity and peer conflict, who need a safe channel to ask questions and express emotion
 - Students whose self-efficacy is fragile — a responsive adult models that struggle is normal and survivable [Self-efficacy predicts academic persistence.](../claims/self-efficacy-predicts-academic-persistence.md) [+M]
 

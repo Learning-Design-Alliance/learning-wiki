@@ -68,7 +68,7 @@ PBIS is an evidence-based, multitiered framework used by schools to organize dat
 - Family and staff buy-in; the framework fails when only some classrooms participate
 
 ### Constraints
-- Implementation without fidelity — expectations posted but never taught or reinforced — produces little or no benefit [Effects depend on implementation fidelity and duration.](https://doi.org/10.1177/1098300712463158) [~S]
+- Implementation without fidelity — expectations posted but never taught or reinforced — produces little or no benefit Effects depend on implementation fidelity and duration.
 - Punitive or inconsistent staff responses undermine the reinforcement system; partial adoption (posters without teaching) is a common failure mode
 - Tier 1 alone is insufficient for students with intensive behavioral needs; without Tier 2/3 supports, effects for high-need students wash out [~S]
 - Rewards perceived as controlling can crowd out intrinsic motivation for some students [Autonomy-supportive framing matters for intrinsic motivation.](../claims/autonomy-supports-intrinsic-motivation.md) [~M] — acknowledgment systems should emphasize progress and competence rather than compliance-for-prizes
@@ -124,7 +124,7 @@ PBIS applies behavioral learning principles at the systems level: expectations a
 - Family and staff buy-in; the framework fails when only some classrooms participate
 
 #### Constraints
-- Implementation without fidelity — expectations posted but never taught or reinforced — produces little or no benefit [Effects depend on implementation fidelity and duration.](https://doi.org/10.1177/1098300712463158) [~S]
+- Implementation without fidelity — expectations posted but never taught or reinforced — produces little or no benefit Effects depend on implementation fidelity and duration.
 - Punitive or inconsistent staff responses undermine the reinforcement system; partial adoption (posters without teaching) is a common failure mode
 - Tier 1 alone is insufficient for students with intensive behavioral needs; without Tier 2/3 supports, effects for high-need students wash out [~S]
 - Rewards perceived as controlling can crowd out intrinsic motivation for some students [Autonomy-supportive framing matters for intrinsic motivation.](../claims/autonomy-supports-intrinsic-motivation.md) [~M] — acknowledgment systems should emphasize progress and competence rather than compliance-for-prizes

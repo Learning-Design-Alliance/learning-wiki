@@ -68,7 +68,7 @@ Progressive disclosure manages intrinsic load by preventing the simultaneous pre
 
 ## Examples
 
-**Segmented instructional video** — Mayer's segmenting principle: allowing learners to control playback and presenting a continuous animation in learner-paced segments improves retention and transfer compared with continuous presentation (see [Mayer & Chandler, 2001](https://doi.org/10.1037/0022-0663.93.3.638)).
+**Segmented instructional video** — Mayer's segmenting principle: allowing learners to control playback and presenting a continuous animation in learner-paced segments improves retention and transfer compared with continuous presentation (see Mayer & Chandler, 2001).
 
 **[Duolingo](https://www.duolingo.com)** — introduces grammar concepts one construction at a time, unlocking later units only after earlier skills reach mastery thresholds.
 

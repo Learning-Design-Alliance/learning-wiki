@@ -17,7 +17,6 @@ sources:
     title: "Swanborn, M. S., & de Glopper, K. (1999). Incidental word learning while reading: A meta-analysis. *Review of Educational Research, 69*(3), 261–285"
     author: "Swanborn, M. S., & de Glopper, K"
   - id: webb-2007
-    resource: "https://doi.org/10.1093/applin/cml048"
     title: "Webb, S. (2007). The effects of repetition on vocabulary knowledge. *Applied Linguistics, 28*(1), 46–65"
     author: "Webb, S"
   - id: beck-2013

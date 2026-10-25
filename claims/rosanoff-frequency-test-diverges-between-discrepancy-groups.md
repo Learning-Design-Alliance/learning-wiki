@@ -68,3 +68,4 @@ In the same correlational table, normal speed of writing showed low correlations
 - [Directional correlations between test scores and discrepancy direction are low but suggest tension tests track scholarship superiority and assimilation tests track intelligence superiority](low-directional-correlations-tension-versus-assimilation.md) — related
 - [IQ-grade correlation differs sharply by class standing: .69 for Juniors versus .17 for Sophomores, rising to .48 when three discrepant records are omitted](caldwell-1919-junior-sophomore-correlation-difference.md) — related
 - [Three Sophomores' discrepant records trace to character factors, including over-rating due to verbal fluency](caldwell-1919-verbal-fluency-overrating.md) — related
+- [Army Alpha scores correlate moderately with first-semester college scholarship, and correlations were higher when students took the test seriously](alpha-correlation-total-scholarship-dartmouth.md) — related

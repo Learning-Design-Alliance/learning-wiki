@@ -51,3 +51,4 @@ In the conclusions on rate tests, the article reports mean grade correlations wi
 - [Composition scores based on only two compositions are too unreliable for measurement, requiring roughly 17 compositions to match the Terman test's reliability](composition-reliability-requires-many-samples.md) — related
 - [Monroe's Rate of Silent Reading shows almost no correlation with either criterion of reading ability](reading-rate-test-almost-no-correlation-with-reading-criteria.md) — related
 - [Of the so-called reading tests used, Thorndike's Visual Vocabulary is the best measure of reading ability](visual-vocabulary-best-of-reading-tests.md) — related
+- [In Bird's school-wide testing, speed correlated positively with comprehension and accuracy but negatively with handwriting legibility.](speed-correlations-vary-by-subject.md) — related

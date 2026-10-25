@@ -19,18 +19,18 @@ A mindful moment involves pausing, settling the nervous system, and refocusing a
 
 ## Design Implications
 
-Mindful moments work as an attention-reset mechanism: brief breath-focused practice reduces mind-wandering and improves working memory capacity, both prerequisites for new learning to be encoded [Mindfulness training improves working memory capacity and GRE performance while reducing mind wandering.](https://doi.org/10.1177/0956797612459659) [+M]. Meta-analytic evidence from school-based programs shows small-to-moderate gains in attention and emotional regulation, with effects strongest when practice is consistent and embedded in routine rather than used sporadically [Mindfulness-based interventions in schools show small positive effects on attention and resilience.](https://doi.org/10.3389/fpsyg.2014.06033) [+M]. The strategy is best understood as preparing the conditions for learning rather than as instruction itself — it pairs with, rather than replaces, [Practice](../elements/practice.md) and [Coaching](../elements/coaching.md).
+Mindful moments work as an attention-reset mechanism: brief breath-focused practice reduces mind-wandering and improves working memory capacity, both prerequisites for new learning to be encoded [Mindfulness training improves working memory capacity and GRE performance while reducing mind wandering.](https://doi.org/10.1177/0956797612459659) [+M]. Meta-analytic evidence from school-based programs shows small-to-moderate gains in attention and emotional regulation, with effects strongest when practice is consistent and embedded in routine rather than used sporadically Mindfulness-based interventions in schools show small positive effects on attention and resilience.. The strategy is best understood as preparing the conditions for learning rather than as instruction itself — it pairs with, rather than replaces, [Practice](../elements/practice.md) and [Coaching](../elements/coaching.md).
 
 ### Context
 #### Requirements
 - A quiet-enough space and a brief, protected time slot (1–5 minutes); guided audio, video, or instructor-led scripts all work
-- Consistent, predictable placement in the lesson routine — benefits accrue from regular practice, not one-off use [Mindfulness-based interventions in schools show small positive effects on attention and resilience.](https://doi.org/10.3389/fpsyg.2014.06033) [+M]
+- Consistent, predictable placement in the lesson routine — benefits accrue from regular practice, not one-off use Mindfulness-based interventions in schools show small positive effects on attention and resilience.
 - A clear bridge back to the task: the moment should end with an explicit reorientation to what comes next
 - Instructor comfort with the practice; a facilitator who is skeptical or improvising undermines credibility
 
 #### Constraints
 - Learners who are skeptical of the practice, or for whom closing their eyes is uncomfortable (trauma history, anxiety), may disengage or feel unsafe; participation must be invitational and alternatives offered [-M]
-- Effects are small and fade without consistent implementation; sporadic use produces no measurable benefit [Mindfulness-based interventions in schools show small positive effects on attention and resilience.](https://doi.org/10.3389/fpsyg.2014.06033) [~M]
+- Effects are small and fade without consistent implementation; sporadic use produces no measurable benefit Mindfulness-based interventions in schools show small positive effects on attention and resilience.
 - For learners with very low baseline attention or high distress, sitting quietly with unstructured attention can *increase* rumination rather than settle it [~W]
 - Time spent on the moment is time not spent on content; the trade-off is only justified when attention is genuinely the bottleneck
 
@@ -41,7 +41,7 @@ Mindful moments work as an attention-reset mechanism: brief breath-focused pract
 - **Guided audio** — apps and recordings (e.g., [Calm Schools Initiative](https://www.calm.com/schools), [MindUP](https://mindup.org)) allow consistent delivery without instructor expertise
 
 ### Target Learners
-- All learner levels, including K–12, higher education, and adult learners in professional development [Mindfulness-based interventions in schools show small positive effects on attention and resilience.](https://doi.org/10.3389/fpsyg.2014.06033) [+M]
+- All learner levels, including K–12, higher education, and adult learners in professional development Mindfulness-based interventions in schools show small positive effects on attention and resilience.
 - Learners arriving from high-stimulation environments or transitions, whose attention must be re-anchored before instruction
 - Learners developing self-regulation: brief monitoring practice builds the self-observation habits that underpin [Self-Regulated Learning](../theories/self-regulated-learning.md) [+M]
 
@@ -81,7 +81,7 @@ Mindful moments work as an attention-reset mechanism: brief breath-focused pract
 
 ## Examples
 - At the beginning of class, or after a transition, invite learners to close their eyes (if they're comfortable doing so) and take a few deep breaths. They can pay attention to breathing — what does it feel like when they breathe in and out? Or they can notice their thoughts — is their mind really busy or quiet right now? Use a short video as a guide.
-- The [MindUP](https://mindup.org) program embeds a daily "brain break" — a three-minute mindful breathing practice — across the school day; a randomized evaluation ([Schonert-Reichl et al., 2015](https://doi.org/10.1037/a0038454)) showed improvements in executive function, attention, and prosocial behavior in elementary students [Mindfulness-based interventions in schools show small positive effects on attention and resilience.](https://doi.org/10.3389/fpsyg.2014.06033) [+M]
+- The [MindUP](https://mindup.org) program embeds a daily "brain break" — a three-minute mindful breathing practice — across the school day; a randomized evaluation ([Schonert-Reichl et al., 2015](https://doi.org/10.1037/a0038454)) showed improvements in executive function, attention, and prosocial behavior in elementary students Mindfulness-based interventions in schools show small positive effects on attention and resilience.
 - Mrazek and colleagues gave undergraduates two weeks of brief daily mindfulness practice before the GRE; the trained group improved reading comprehension scores and working memory capacity relative to a control group [Mindfulness training improves working memory capacity and GRE performance while reducing mind wandering.](https://doi.org/10.1177/0956797612459659) [+M]
 
 ## Key Sources

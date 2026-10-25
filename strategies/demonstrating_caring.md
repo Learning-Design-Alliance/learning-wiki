@@ -9,11 +9,9 @@ generated:
   at: 2026-08-29
 sources:
   - id: noddings-2013
-    resource: "https://doi.org/10.2307/1172766"
     title: "Noddings, N. (1984). *Caring: A feminine approach to ethics and moral education*. University of California Press"
     author: "Noddings, N"
   - id: cornelius-white-2007
-    resource: "https://doi.org/10.1037/0022-0663.99.1.38"
     title: "Cornelius-White, J. (2007). Learner-centered teacher-student relationships are effective: A meta-analysis. *Review of Educational Research, 77*(1), 113–143"
     author: "Cornelius-White, J"
   - id: roorda-2011
@@ -36,7 +34,7 @@ Demonstrating caring is the strategy of making personal investment in learners v
 
 ## Design Implications
 
-Perceived teacher caring and warmth are among the strongest relational predictors of engagement, participation, and achievement [Learner-centered teacher-student relationships show positive associations with engagement and achievement.](https://doi.org/10.1037/0022-0663.99.1.38) [+M], and affective teacher–student relationships relate to engagement and achievement across age groups, with the strongest effects for at-risk and younger learners [Affective teacher-student relationships relate to engagement and achievement.](https://doi.org/10.1037/a0022040) [+M]. Within [Self-Determination Theory](../theories/self-determination-theory.md), caring communication satisfies the need for relatedness, which supports intrinsic motivation and willingness to persist through difficulty [Relatedness-supportive contexts foster intrinsic motivation.](../claims/autonomy-supports-intrinsic-motivation.md) [+M]. Caring is enacted in small, frequent moves rather than grand gestures — a [Check-In](../elements/check-in.md) at the start of class, a two-minute conversation about a student's weekend, a note on returned work acknowledging effort.
+Perceived teacher caring and warmth are among the strongest relational predictors of engagement, participation, and achievement Learner-centered teacher-student relationships show positive associations with engagement and achievement., and affective teacher–student relationships relate to engagement and achievement across age groups, with the strongest effects for at-risk and younger learners [Affective teacher-student relationships relate to engagement and achievement.](https://doi.org/10.1037/a0022040) [+M]. Within [Self-Determination Theory](../theories/self-determination-theory.md), caring communication satisfies the need for relatedness, which supports intrinsic motivation and willingness to persist through difficulty [Relatedness-supportive contexts foster intrinsic motivation.](../claims/autonomy-supports-intrinsic-motivation.md) [+M]. Caring is enacted in small, frequent moves rather than grand gestures — a [Check-In](../elements/check-in.md) at the start of class, a two-minute conversation about a student's weekend, a note on returned work acknowledging effort.
 
 ### Context
 #### Requirements

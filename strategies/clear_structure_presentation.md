@@ -65,12 +65,12 @@ Signaling — headings, previews, pointer words, and emphasis — reliably impro
 
 ## Examples
 - **[Khan Academy](https://www.khanacademy.org)** — unit → lesson → exercise hierarchy with persistent progress navigation, so learners always know where they are in the structure.
-- **Mayer's multimedia signaling research** — narrated animations with on-screen section headings and highlighted key steps produce better transfer than identical animations without signals ([Mautone & Mayer, 2001](https://doi.org/10.1037/0278-7393.27.3.760)).
+- **Mayer's multimedia signaling research** — narrated animations with on-screen section headings and highlighted key steps produce better transfer than identical animations without signals ([Mautone & Mayer, 2001](https://doi.org/10.1037/0022-0663.93.2.377)).
 - **Textbook chapter openers** — the standard outline-plus-learning-objectives opener is a mass implementation of this strategy; its persistence reflects consistent evidence for signaling effects.
 
 ## Key Sources
 - Ausubel, D. P. (1960). The use of advance organizers in the learning and retention of meaningful verbal material. *Journal of Educational Psychology, 51*(5), 267–272. [doi:10.1037/h0046669](https://doi.org/10.1037/h0046669)
 - Lorch, R. F. (1989). Text-signaling devices and their effects on reading and memory processes. *Educational Psychology Review, 1*(3), 209–234. [doi:10.1007/BF01320135](https://doi.org/10.1007/BF01320135)
-- Mautone, P. D., & Mayer, R. E. (2001). Signaling as a cognitive guide in multimedia learning. *Journal of Educational Psychology, 93*(2), 377–389. [doi:10.1037/0022-0663.93.2.377](https://doi.org/10.1037/0278-7393.27.3.760)
+- Mautone, P. D., & Mayer, R. E. (2001). Signaling as a cognitive guide in multimedia learning. *Journal of Educational Psychology, 93*(2), 377–389. [doi:10.1037/0022-0663.93.2.377](https://doi.org/10.1037/0022-0663.93.2.377)
 - Clark, R. C., & Mayer, R. E. (2016). *E-Learning and the Science of Instruction* (4th ed.). Wiley. [doi:10.1002/9781119239086](https://doi.org/10.1002/9781119239086)
 - Sweller, J., Ayres, P., & Kalyuga, S. (2011). *Cognitive Load Theory*. Springer. [doi:10.1007/978-1-4419-8126-4](https://doi.org/10.1007/978-1-4419-8126-4)

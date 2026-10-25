@@ -19,7 +19,7 @@ This strategy deliberately incorporates diverse voices, identities, experiences,
 
 ## Design Implications
 
-Exposure to diverse perspectives improves complex thinking: students in diverse educational settings show greater engagement in perspective-taking and stronger critical-thinking growth [Gurin, Dey, Hurtado, & Gurin (2002) found classroom and informal racial diversity both predicted learning outcomes.](https://doi.org/10.1353/jhe.2002.0017) [+M]. Diverse groups can outperform homogeneous ones on complex problem solving because cognitive diversity increases the pool of representational tools [Hong & Page (2004) showed groups of diverse problem solvers outperform groups of the best individual solvers on difficult problems.](https://doi.org/10.1073/pnas.0308708101) [+M]. The benefit is conditional, however: diversity must be *engaged* — structured comparison, discussion, and perspective-taking — not merely present in readings [~M].
+Exposure to diverse perspectives improves complex thinking: students in diverse educational settings show greater engagement in perspective-taking and stronger critical-thinking growth [Gurin, Dey, Hurtado, & Gurin (2002) found classroom and informal racial diversity both predicted learning outcomes.](https://doi.org/10.1353/jhe.2002.0017) [+M]. Diverse groups can outperform homogeneous ones on complex problem solving because cognitive diversity increases the pool of representational tools Hong & Page (2004) showed groups of diverse problem solvers outperform groups of the best individual solvers on difficult problems.. The benefit is conditional, however: diversity must be *engaged* — structured comparison, discussion, and perspective-taking — not merely present in readings [~M].
 
 ### Context
 #### Requirements

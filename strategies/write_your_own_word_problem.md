@@ -17,7 +17,6 @@ sources:
     title: "Cankoy, O., & Darbaz, S. (2010). Effect of a problem posing elementary mathematics program on problem solving achievement. *Procedia — Social and Behavioral Sciences, 2*(2), 2827–2831"
     author: "Cankoy, O., & Darbaz, S"
   - id: self-explanation-1994
-    resource: "https://doi.org/10.1037/0278-7393.20.3.703"
     title: "Chi, M. T. H., de Leeuw, N., Chiu, M.-H., & LaVancher, C. (1994). Eliciting self-explanations improves understanding. *Cognitive Science, 18*(3), 439–477"
     author: "Chi, M. T. H., de Leeuw, N., Chiu, M.-H., & LaVancher, C"
 ---

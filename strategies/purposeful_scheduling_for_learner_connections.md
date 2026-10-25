@@ -19,7 +19,7 @@ Purposeful scheduling treats relationship-building as an instructional activity 
 
 ## Design Implications
 
-Relationship quality between teacher and learner is consistently associated with engagement, participation, and achievement, with the strongest effects for at-risk and younger learners [Learner-centered teacher–student relationships are associated with engagement and achievement.](https://doi.org/10.3102/00346543073001137) [+S]. The mechanism is partly motivational: feeling known and supported satisfies learners' needs for relatedness and autonomy, which sustains intrinsic motivation [Autonomy support fosters intrinsic motivation.](../claims/autonomy-supports-intrinsic-motivation.md) [+S]. Crucially, the strategy pays off only when gathered information feeds back into instruction — connection time that never changes teaching becomes a cost with no learning return.
+Relationship quality between teacher and learner is consistently associated with engagement, participation, and achievement, with the strongest effects for at-risk and younger learners Learner-centered teacher–student relationships are associated with engagement and achievement.. The mechanism is partly motivational: feeling known and supported satisfies learners' needs for relatedness and autonomy, which sustains intrinsic motivation [Autonomy support fosters intrinsic motivation.](../claims/autonomy-supports-intrinsic-motivation.md) [+S]. Crucially, the strategy pays off only when gathered information feeds back into instruction — connection time that never changes teaching becomes a cost with no learning return.
 
 ### Context
 #### Requirements
@@ -40,7 +40,7 @@ Relationship quality between teacher and learner is consistently associated with
 - **Digital equivalents:** check-in surveys, discussion-board introductions, and office hours in online courses
 
 ### Target Learners
-- Learners who are disengaged or at risk, for whom teacher relationship quality shows the strongest association with engagement [Learner-centered teacher–student relationships are associated with engagement and achievement.](https://doi.org/10.3102/00346543073001137) [+S]
+- Learners who are disengaged or at risk, for whom teacher relationship quality shows the strongest association with engagement Learner-centered teacher–student relationships are associated with engagement and achievement.
 - Adult and returning learners, whose motivation rises when content connects to their real-world experience and goals [Autonomy support fosters intrinsic motivation.](../claims/autonomy-supports-intrinsic-motivation.md) [+M]
 - Anxious or low-confidence learners, for whom a known, trusted instructor lowers the cost of participation; self-efficacy supports persistence [Self-efficacy predicts academic persistence.](../claims/self-efficacy-predicts-academic-persistence.md) [+M]
 

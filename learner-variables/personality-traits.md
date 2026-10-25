@@ -13,7 +13,7 @@ generated:
 # Personality Traits
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 57 claims (34 show a difference, 15 mixed, 8 no difference) · 28 studies (13 review, 5 quant-synthesis, 5 associational, 3 causal, 2 theoretical), `q2`–`q4` · 10 of 28 report an effect size · 57 claims rest on one study
+> **Evidence** · 61 claims (37 show a difference, 16 mixed, 8 no difference) · 29 studies (13 review, 6 associational, 5 quant-synthesis, 3 causal, 2 theoretical), `q2`–`q4` · 11 of 29 report an effect size · 61 claims rest on one study
 
 ## Description
 Personality traits are relatively stable individual differences, most often measured on the Big Five dimensions. For learning, conscientiousness (being organised, persistent and self-controlled) is the trait most consistently associated with achievement, and openness (curiosity, breadth of interests) the second; agreeableness, extraversion and neuroticism show little association. Traits correlate with other variables here, such as [self-regulation](self-regulation.md) and [need for cognition](need-for-cognition.md).
@@ -92,6 +92,10 @@ Personality traits are relatively stable individual differences, most often meas
 - [The CONIC model proposes conscientiousness and interest can partly compensate for one another in explaining academic effort and achievement](../claims/conic-compensation-conscientiousness-interest.md) [+M] — learners who differ on it differ in outcomes
 - [Conscientiousness is a reliable meta-analytic predictor of academic achievement](../claims/conscientiousness-predicts-academic-achievement.md) [+M] — learners who differ on it differ in outcomes
 - [Eighth graders who hear a child disciplined with approval-focused desists rate that child as having less desirable personality traits than those who hear task-focused desists](../claims/approval-focused-desists-lower-target-child-trait-ratings.md) [+W] — instruction changes it
+- [13 of 16 adjusted associations between achievement measures and openness/conscientiousness were statistically significantly positive](../claims/thirteen-of-sixteen-adjusted-associations-positive.md) [+M] — learners who differ on it differ in outcomes
+- [Both conscientiousness (β = .25) and openness (β = .17) are positively associated with GPA in adjusted models](../claims/gpa-associated-with-conscientiousness-and-openness.md) [+M] — learners who differ on it differ in outcomes
+- [Conscientiousness is positively associated with course grades and final examination grades in mathematics and English after controlling for covariates](../claims/conscientiousness-positively-predicts-grades-adjusted.md) [+M] — learners who differ on it differ in outcomes
+- [Openness is most strongly associated with standardized test scores (especially English) and weakly or negatively associated with mathematics course grades](../claims/openness-predicts-standardized-tests-most.md) [~M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

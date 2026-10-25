@@ -80,7 +80,7 @@ Drawing is a generative activity: constructing an external visual representation
 - **Line-Color-Symbol routine** ([Project Zero, Harvard GSE](https://pz.harvard.edu/resources/line-color-symbol)) — learners distill a text into a line, a color, and a symbol, giving the teacher a compact visual read of interpretation.
 
 ## Key Sources
-- Van Meter, P., & Garner, J. (2005). The promise and practice of learner-generated drawing: Literature review and directions for future research. *Educational Psychology Review, 17*(4), 285–325. [doi:10.1007/s10648-005-8128-3](https://doi.org/10.1007/s10648-005-8128-3)
+- Van Meter, P., & Garner, J. (2005). The promise and practice of learner-generated drawing: Literature review and directions for future research. *Educational Psychology Review, 17*(4), 285–325. [doi:10.1007/s10648-005-8136-3](https://doi.org/10.1007/s10648-005-8136-3)
 - Ainsworth, S., Prain, V., & Tytler, R. (2011). Drawing to learn in science. *Science, 333*(6046), 1096–1097. [doi:10.1126/science.1204153](https://doi.org/10.1126/science.1204153)
 - Quillin, K., & Thomas, S. (2015). Drawing-to-learn: A framework for scholars across disciplines. *CBE—Life Sciences Education, 14*(3), es2.
 - Fiorella, L., & Mayer, R. E. (2015). *Learning as a generative activity: Eight learning strategies that promote understanding.* Cambridge University Press. [doi:10.1017/cbo9781107707085](https://doi.org/10.1017/cbo9781107707085)

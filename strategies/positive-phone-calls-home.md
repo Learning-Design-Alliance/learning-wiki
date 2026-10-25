@@ -19,7 +19,7 @@ Positive phone calls home are brief (2–5 minute) calls or messages from a teac
 
 ## Design Implications
 
-Positive contact with families raises student engagement and improves teacher–family relationships, with effects strongest when contact is frequent, early in the term, and positive rather than corrective [The effect of teacher-family communication on student engagement.](https://doi.org/10.1080/19345747.2012.749649) [+M]. The mechanism is partly relational — building a sense of [Belonging](../elements/belonging.md) for the student and trust with the family — and partly behavioral, since students who anticipate positive recognition show more on-task behavior [Positive greetings and proactive relationship-building improve academic engaged time.](https://doi.org/10.1177/1098300717753831) [+M]. Calls must be specific and genuine; vague praise or obviously scripted positivity can read as insincere and undermine trust [~W].
+Positive contact with families raises student engagement and improves teacher–family relationships, with effects strongest when contact is frequent, early in the term, and positive rather than corrective The effect of teacher-family communication on student engagement.. The mechanism is partly relational — building a sense of [Belonging](../elements/belonging.md) for the student and trust with the family — and partly behavioral, since students who anticipate positive recognition show more on-task behavior [Positive greetings and proactive relationship-building improve academic engaged time.](https://doi.org/10.1177/1098300717753831) [+M]. Calls must be specific and genuine; vague praise or obviously scripted positivity can read as insincere and undermine trust [~W].
 
 ### Context
 #### Requirements
@@ -66,9 +66,9 @@ Positive contact with families raises student engagement and improves teacher–
 - [Enable regular, meaningful family engagement through diverse home-language communication, proactive meetings, student-led conferences, and shared decision-making forums](family-engagement-structures-secondary.md)
 
 ## Examples
-- **Kraft & Dougherty (2013) field experiments** — high school teachers made positive calls home about 10 students per class; called students showed measurably higher engagement and positive behavior in class (https://doi.org/10.1080/19345747.2012.749649).
+- **Kraft & Dougherty (2013) field experiments** — high school teachers made positive calls home about 10 students per class; called students showed measurably higher engagement and positive behavior in class ().
 - **[Positive Greetings at the Door](positive-greetings-at-the-door.md) ([Cook et al., 2018](https://doi.org/10.1177/1098300717753831))** — teachers greeted each student by name with a brief positive interaction at entry, raising academic engaged time and cutting disruptive behavior (https://doi.org/10.1177/1098300717753831).
-- **Cook et al. (2017) empathic discipline study** — a brief online module encouraging relationship-first responses to misbehavior halved suspension rates among middle school students, showing how relational framing changes disciplinary outcomes (https://doi.org/10.1177/0956797617704428).
+- **Cook et al. (2017) empathic discipline study** — a brief online module encouraging relationship-first responses to misbehavior halved suspension rates among middle school students, showing how relational framing changes disciplinary outcomes ().
 
 ## Key Sources
 - Kraft, M. A., & Dougherty, S. M. (2013). The effect of teacher-family communication on student engagement: Evidence from a randomized field experiment. *Journal of Research on Educational Effectiveness, 6*(3), 199–222. [doi:10.1080/19345747.2012.743636](https://doi.org/10.1080/19345747.2012.743636)

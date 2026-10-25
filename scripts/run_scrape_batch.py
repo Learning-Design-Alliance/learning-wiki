@@ -530,6 +530,25 @@ def run(args) -> None:
                            "--top", "5000", "--min-designs", "3", "--budget", "2"], SCRAPE_CONSOLE_LOG_PATH)
         _run_chained_step([sys.executable, "-u", "scripts/check_load_bearing.py", "--report"],
                           SCRAPE_CONSOLE_LOG_PATH)
+        # Can the batch's sources be believed, and do its causal claims rest on studies
+        # that measure what the claims say (check_source_validity.py,
+        # judge_study_validity.py; added 2026-10-25 after a primary study with an eta
+        # squared of 1.374 and invented ChatGPT references was found behind ten claims).
+        # Neither edits a page; an undecided finding stops the run through the health
+        # report below, for a person or agent to read.
+        print(f"\n=== source validity: statistics, references, retractions ===", flush=True)
+        _run_chained_step([sys.executable, "-u", "scripts/check_source_validity.py",
+                           "--stats", "--refs", "--retractions", "--new"], SCRAPE_CONSOLE_LOG_PATH)
+        _run_chained_step([sys.executable, "-u", "scripts/check_source_validity.py", "--report"],
+                          SCRAPE_CONSOLE_LOG_PATH)
+        print(f"\n=== study validity of the batch's causal claims ===", flush=True)
+        _run_chained_step([sys.executable, "-u", "scripts/judge_study_validity.py", "--new", "--budget", "1"],
+                          SCRAPE_CONSOLE_LOG_PATH)
+        # Limits both judges agree on (no comparison group, a bundled intervention, students
+        # analysed where classes were assigned) are stated on the claim; a claim whose outcome
+        # or design the page itself misstates stays open for a person or agent.
+        _run_chained_step([sys.executable, "-u", "scripts/judge_study_validity.py", "--annotate", "--apply"],
+                          SCRAPE_CONSOLE_LOG_PATH)
         # How current each claim is: its newest study, when the judge just above last
         # found its entries faithful to their sources, and a recheck year for the kinds
         # that age quickly (add_currency.py). After the judge, so its verdicts land on the

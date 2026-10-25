@@ -20,7 +20,7 @@ Process writing structures composition instruction around the recursive stages e
 
 ## Design Implications
 
-Process writing works because it externalizes and distributes the cognitive demands of composing: separating idea generation from transcription and from mechanical editing reduces the working-memory burden of doing all three at once [Cognitive overload degrades learning.](../claims/cognitive-overload-degrades-learning.md) [+M]. Meta-analytic evidence shows process writing instruction produces substantial gains in writing quality, among the largest effects of any writing intervention studied [Graham & Perin's meta-analysis found process approach effects on writing quality.](https://doi.org/10.1037/0022-0663.99.3.445) [+S]. Its effectiveness depends on explicit modeling of strategies at each stage — unstructured "just write and revise" versions without instruction show much weaker effects [Process writing with explicit strategy instruction outperforms exposure-only versions.](https://doi.org/10.1080/00220671003610897) [~M].
+Process writing works because it externalizes and distributes the cognitive demands of composing: separating idea generation from transcription and from mechanical editing reduces the working-memory burden of doing all three at once [Cognitive overload degrades learning.](../claims/cognitive-overload-degrades-learning.md) [+M]. Meta-analytic evidence shows process writing instruction produces substantial gains in writing quality, among the largest effects of any writing intervention studied [Graham & Perin's meta-analysis found process approach effects on writing quality.](https://doi.org/10.1037/0022-0663.99.3.445) [+S]. Its effectiveness depends on explicit modeling of strategies at each stage — unstructured "just write and revise" versions without instruction show much weaker effects Process writing with explicit strategy instruction outperforms exposure-only versions..
 
 ### Context
 #### Requirements
@@ -34,7 +34,7 @@ Process writing works because it externalizes and distributes the cognitive dema
 - Authentic audiences or purposes so revision has a reason beyond the grade ([Authentic Audiences & Purposes](../principles/authentic-audiences-purposes.md))
 
 #### Constraints
-- Weak implementations — workshop time without explicit instruction or feedback — show near-zero effects [Process writing with explicit strategy instruction outperforms exposure-only versions.](https://doi.org/10.1080/00220671003610897) [-M]
+- Weak implementations — workshop time without explicit instruction or feedback — show near-zero effects Process writing with explicit strategy instruction outperforms exposure-only versions.
 - Endless revision cycles without deadlines can fragment texts and exhaust novice writers; revision must be focused on one or two dimensions per draft
 - Overemphasis on process can shortchange sentence-level and transcription skills; handwriting and spelling fluency constrain composition quality for young writers and need direct attention
 - Less efficient for short, low-stakes writing where full cycles add overhead without benefit

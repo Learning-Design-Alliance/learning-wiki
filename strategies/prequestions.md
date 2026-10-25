@@ -19,7 +19,7 @@ Prequestions are questions posed to learners *before* they receive instruction o
 
 ## Design Implications
 
-Prequestions work through two complementary mechanisms: they activate relevant prior knowledge and create an active retrieval attempt that makes the learner's knowledge gap visible, and they direct attention toward the prequestioned content during subsequent instruction [Prequestions enhance learning of the prequestioned material.](https://doi.org/10.1037/a0016577) [+S]. Because attention is a limited resource, prequestions act as an advance organizer for the learner's own processing — they tell learners what to listen for [Prequestions selectively enhance learning of prequestioned content over non-prequestioned content.](https://doi.org/10.3758/s13423-017-1282-x) [~S].
+Prequestions work through two complementary mechanisms: they activate relevant prior knowledge and create an active retrieval attempt that makes the learner's knowledge gap visible, and they direct attention toward the prequestioned content during subsequent instruction [Prequestions enhance learning of the prequestioned material.](https://doi.org/10.1037/a0016577) [+S]. Because attention is a limited resource, prequestions act as an advance organizer for the learner's own processing — they tell learners what to listen for Prequestions selectively enhance learning of prequestioned content over non-prequestioned content..
 
 ### Context
 #### Requirements
@@ -29,8 +29,8 @@ Prequestions work through two complementary mechanisms: they activate relevant p
 - Subsequent instruction that actually addresses the prequestioned content
 
 #### Constraints
-- Prequestions narrow attention: learners learn prequestioned content better but non-prequestioned content *worse* than learners who saw no prequestions [Prequestions selectively enhance learning of prequestioned content over non-prequestioned content.](https://doi.org/10.3758/s13423-017-1282-x) [~S] — prequestioning a narrow slice of material can cost learning elsewhere
-- Feedback must come quickly; prequestions followed by long delays or no resolution lose most of their benefit [Immediate feedback after prequestions produces larger benefits than delayed feedback.](https://doi.org/10.1080/17470218.2016.1220591) [+M]
+- Prequestions narrow attention: learners learn prequestioned content better but non-prequestioned content *worse* than learners who saw no prequestions Prequestions selectively enhance learning of prequestioned content over non-prequestioned content. — prequestioning a narrow slice of material can cost learning elsewhere
+- Feedback must come quickly; prequestions followed by long delays or no resolution lose most of their benefit Immediate feedback after prequestions produces larger benefits than delayed feedback.
 - Guessing without any prior knowledge to activate yields smaller gains than prequestions that connect to related knowledge [Prequestions benefit learners most when they possess related prior knowledge.](https://doi.org/10.1037/a0016577) [~M]
 - In video and multimedia contexts, prequestions can increase cognitive load if they are complex or numerous [Prequestions can impose extraneous load in multimedia learning contexts.](https://doi.org/10.1002/acp.3301) [~W]
 

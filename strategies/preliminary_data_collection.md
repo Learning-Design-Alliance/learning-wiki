@@ -19,7 +19,7 @@ Preliminary data collection involves gathering contextual data to gain a deeper 
 
 ## Design Implications
 
-Data-informed problem framing improves the fit between interventions and local conditions; decisions grounded in multiple data types are more likely to target root causes than surface symptoms [Coburn & Turner's review finds that combining data types and building capacity to interpret them is central to productive data use.](https://doi.org/10.3102/0013189X11425878) [+M]. Because raw data underdetermines interpretation, collection should be paired with structured sense-making — protocols that force examination of disaggregated patterns and disconfirming evidence [Data use improves decisions when paired with routines that surface assumptions rather than confirm intuitions.](https://doi.org/10.3102/0013189X11425878) [~M].
+Data-informed problem framing improves the fit between interventions and local conditions; decisions grounded in multiple data types are more likely to target root causes than surface symptoms Coburn & Turner's review finds that combining data types and building capacity to interpret them is central to productive data use.. Because raw data underdetermines interpretation, collection should be paired with structured sense-making — protocols that force examination of disaggregated patterns and disconfirming evidence Data use improves decisions when paired with routines that surface assumptions rather than confirm intuitions..
 
 ### Context
 #### Requirements
@@ -31,7 +31,7 @@ Data-informed problem framing improves the fit between interventions and local c
 #### Constraints
 - Data collection is time-consuming and often requires navigating gatekeepers, consent processes, and privacy constraints (e.g., FERPA)
 - Quantitative indicators alone can mislead: discipline and achievement data reflect policy and practice, not just learner behavior, and decontextualized numbers invite deficit interpretations [-M]
-- Confirmation bias operates strongly: teams tend to select data that supports pre-existing theories of the problem [Data use routines that do not surface assumptions tend to reinforce existing beliefs.](https://doi.org/10.3102/0013189X11425878) [-M]
+- Confirmation bias operates strongly: teams tend to select data that supports pre-existing theories of the problem Data use routines that do not surface assumptions tend to reinforce existing beliefs.
 - Over-collection without a clear problem focus produces paralysis rather than insight
 
 #### Implementation Variability

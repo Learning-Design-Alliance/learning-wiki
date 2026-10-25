@@ -69,7 +69,7 @@ Lighting is part of the physical environment's contribution to cognitive load: g
 - **Daylight-first classroom design** — schools specifying shallow room depth, high windows, and external shading to maximize usable daylight while controlling glare (see Barrett et al.'s HEAD/Clever Classrooms studies).
 
 ## Key Sources
-- Küller, R., & Lindsten, C. (1992). Health and behavior of children in classrooms with and without windows. *Journal of Environmental Psychology, 12*(4), 305–317. [doi:10.1016/0272-4944(92)90009-M](https://doi.org/10.1016/0272-4944(92)90009-M)
+- Küller, R., & Lindsten, C. (1992). Health and behavior of children in classrooms with and without windows. *Journal of Environmental Psychology, 12*(4), 305–317. [doi:10.1016/s0272-4944(05)80079-9](https://doi.org/10.1016/s0272-4944(05)80079-9)
 - Mott, M. S., Robinson, D. H., Walden, A., Burnette, J., & Rutherford, A. S. (2012). Illuminating the effects of dynamic lighting on student learning. *SAGE Open, 2*(2). [doi:10.1177/2158244012445585](https://doi.org/10.1177/2158244012445585)
 - Barrett, P., Davies, F., Zhang, Y., & Barrett, L. (2015). The impact of classroom design on pupils' learning: Final results of a holistic, multi-level analysis. *Building and Environment, 89*, 118–133. [doi:10.1016/j.buildenv.2015.02.013](https://doi.org/10.1016/j.buildenv.2015.02.013)
 - Wargocki, P., & Wyon, D. P. (2017). Ten questions concerning thermal and indoor air quality effects on the performance of office work and schoolwork. *Building and Environment, 112*, 359–366. [doi:10.1016/j.buildenv.2016.11.020](https://doi.org/10.1016/j.buildenv.2016.11.020)

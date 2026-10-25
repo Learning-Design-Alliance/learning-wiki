@@ -29,7 +29,7 @@ Advance organizers work by providing ideational scaffolding: they give learners 
 - Explicit connection during the lesson back to the organizer, so learners use it to subsume new material rather than forgetting it
 - Analysis of what prior knowledge learners actually hold, so the organizer anchors to something real ([Activation](../principles/activation.md))
 - Content organized hierarchically, with the organizer presenting the superordinate structure before details
-- Concrete, familiar language or imagery — analogies, diagrams, or worked mini-cases outperform abstract prose [Mayer's research on concrete organizers.](https://doi.org/10.3102/00346543049003390) [+M]
+- Concrete, familiar language or imagery — analogies, diagrams, or worked mini-cases outperform abstract prose Mayer's research on concrete organizers.
 - Explicit signaling of how the organizer maps onto the material that follows
 
 #### Constraints
@@ -88,7 +88,7 @@ Advance organizers work by providing ideational scaffolding: they give learners 
 - **[Khan Academy](https://www.khanacademy.org)** unit introductions and "what you'll learn" concept overviews that situate individual videos within a topic map.
 - **History teaching** — using a comparative organizer ("revolutions in this unit follow the pattern: fiscal crisis → elite defection → mass mobilization") before studying the French and Russian revolutions.
 - **Ausubel's original studies** — presenting a 500-word comparative passage on the properties of metals before a detailed metallurgy text, improving subsequent learning [doi:10.1037/h0046669](https://doi.org/10.1037/h0046669)
-- **Mayer's model-based organizers** — before a lesson on how a bicycle tire pump works, learners study a simple model with labeled parts, producing better creative problem-solving transfer [doi:10.3102/00346543049003390](https://doi.org/10.3102/00346543049003390)
+- **Mayer's model-based organizers** — before a lesson on how a bicycle tire pump works, learners study a simple model with labeled parts, producing better creative problem-solving transfer
 - **Graphic organizer routines in content-area literacy** — structured overviews and concept maps used before expository reading in programs such as reciprocal teaching's framing activities
 
 ## Key Sources
@@ -110,13 +110,13 @@ An advance organizer is introductory material presented *before* the main learni
 
 ## Design Implications
 
-Advance organizers work by activating relevant prior knowledge and giving learners a structure into which incoming details can be slotted, reducing the working-memory burden of holding unorganized information [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]. A meta-analysis of over 100 studies found small but consistent positive effects on learning and retention, with the strongest effects when organizers were concrete rather than abstract [Luiten et al. meta-analysis.](https://doi.org/10.3102/00346543050002211) [+M]. The organizer must genuinely overlap with the content that follows — a generic "in this lesson you will learn…" list of objectives is not an organizer; it must supply a conceptual framework or analogy that does cognitive work.
+Advance organizers work by activating relevant prior knowledge and giving learners a structure into which incoming details can be slotted, reducing the working-memory burden of holding unorganized information [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]. A meta-analysis of over 100 studies found small but consistent positive effects on learning and retention, with the strongest effects when organizers were concrete rather than abstract Luiten et al. meta-analysis.. The organizer must genuinely overlap with the content that follows — a generic "in this lesson you will learn…" list of objectives is not an organizer; it must supply a conceptual framework or analogy that does cognitive work.
 
 ### Context
 #### Requirements
 - Analysis of what prior knowledge learners actually hold, so the organizer anchors to something real ([Activation](../principles/activation.md))
 - Content organized hierarchically, with the organizer presenting the superordinate structure before details
-- Concrete, familiar language or imagery — analogies, diagrams, or worked mini-cases outperform abstract prose [Mayer's research on concrete organizers.](https://doi.org/10.3102/00346543049003390) [+M]
+- Concrete, familiar language or imagery — analogies, diagrams, or worked mini-cases outperform abstract prose Mayer's research on concrete organizers.
 - Explicit signaling of how the organizer maps onto the material that follows
 
 #### Constraints
@@ -155,7 +155,7 @@ Advance organizers work by activating relevant prior knowledge and giving learne
 
 ## Examples
 - **Ausubel's original studies** — presenting a 500-word comparative passage on the properties of metals before a detailed metallurgy text, improving subsequent learning [doi:10.1037/h0046669](https://doi.org/10.1037/h0046669)
-- **Mayer's model-based organizers** — before a lesson on how a bicycle tire pump works, learners study a simple model with labeled parts, producing better creative problem-solving transfer [doi:10.3102/00346543049003390](https://doi.org/10.3102/00346543049003390)
+- **Mayer's model-based organizers** — before a lesson on how a bicycle tire pump works, learners study a simple model with labeled parts, producing better creative problem-solving transfer
 - **Graphic organizer routines in content-area literacy** — structured overviews and concept maps used before expository reading in programs such as reciprocal teaching's framing activities
 
 ## Key Sources

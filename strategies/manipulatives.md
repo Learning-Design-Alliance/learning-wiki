@@ -19,7 +19,7 @@ Manipulatives are physical or tangible objects — blocks, counters, maps, model
 
 ## Design Implications
 
-Manipulatives leverage embodied and dual-coding pathways: pairing a concept with a tangible referent gives learners a second, more intuitive representation to reason from [Dual Coding Theory](../theories/dual-coding-theory.md). Their benefit is real but conditional — a meta-analysis of mathematics instruction found concrete manipulatives outperform abstract instruction alone at moderate effect sizes, but only when the mapping between object and concept is made explicit [Carbonneau et al. meta-analysis of concrete manipulatives.](https://doi.org/10.1080/00220671.2012.655367) [+M]. Manipulatives are not self-teaching: without teacher guidance connecting "what you did with the blocks" to "what the symbols mean," learners often treat the activity as play and fail to build the intended schema [~M].
+Manipulatives leverage embodied and dual-coding pathways: pairing a concept with a tangible referent gives learners a second, more intuitive representation to reason from [Dual Coding Theory](../theories/dual-coding-theory.md). Their benefit is real but conditional — a meta-analysis of mathematics instruction found concrete manipulatives outperform abstract instruction alone at moderate effect sizes, but only when the mapping between object and concept is made explicit Carbonneau et al. meta-analysis of concrete manipulatives.. Manipulatives are not self-teaching: without teacher guidance connecting "what you did with the blocks" to "what the symbols mean," learners often treat the activity as play and fail to build the intended schema [~M].
 
 ### Context
 #### Requirements

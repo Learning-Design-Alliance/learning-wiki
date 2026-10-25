@@ -25,11 +25,11 @@ The strategy works through two mechanisms that operate in opposite directions fo
 #### Requirements
 - Valid identification of navigators — mastery must be verified, not assumed, or tourists receive inaccurate instruction
 - Explicit role scripts: what navigators should say when a tourist is stuck, what tourists should ask ([Articulation](../elements/articulation.md) prompts help)
-- Training for navigators in explanation and questioning, since untrained tutors often simply give answers [Tutor effectiveness depends on tutor training and structured materials.](https://doi.org/10.3102/00346543059003321) [~M]
+- Training for navigators in explanation and questioning, since untrained tutors often simply give answers Tutor effectiveness depends on tutor training and structured materials.
 - Teacher monitoring and a mechanism for tourists to flag unhelpful pairings ([Check-ins](../principles/check-ins.md) or exit tickets)
 
 #### Constraints
-- Unstructured pairs drift off task or the navigator simply does the work for the tourist, producing no learning for either partner [Peer interaction without individual accountability produces uneven participation and unequal learning gains.](https://doi.org/10.3102/00346543059003321) [-M]
+- Unstructured pairs drift off task or the navigator simply does the work for the tourist, producing no learning for either partner Peer interaction without individual accountability produces uneven participation and unequal learning gains.
 - Navigators with fragile mastery can transmit misconceptions; errors that go uncorrected in the dyad are consolidated for both learners
 - Fixed navigator/tourist roles can create status hierarchies that depress tourist engagement and motivation; rotating roles mitigates this
 - Poor fit for content neither partner has access to — the strategy transfers knowledge, it does not introduce it
@@ -43,7 +43,7 @@ The strategy works through two mechanisms that operate in opposite directions fo
 ### Target Learners
 - Tourists: learners needing academic support who benefit from individualized, low-stakes explanation and questioning [Same-age peer tutoring improves achievement for tutors and tutees.](https://doi.org/10.1037/0022-0663.95.2.240) [+S]
 - Navigators: learners with verified mastery who consolidate and deepen understanding through teaching [Explaining to another person improves the explainer's conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]
-- Less effective when the ability gap is very large — navigators far above the tourist struggle to calibrate explanations to the tourist's level [Tutor effectiveness depends on tutor training and structured materials.](https://doi.org/10.3102/00346543059003321) [~M]
+- Less effective when the ability gap is very large — navigators far above the tourist struggle to calibrate explanations to the tourist's level Tutor effectiveness depends on tutor training and structured materials.
 
 ### Target Learning Goals
 - Procedural fluency and skill consolidation in well-structured domains (mathematics, reading, language learning)

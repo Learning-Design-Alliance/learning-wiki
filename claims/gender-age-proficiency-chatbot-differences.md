@@ -86,10 +86,10 @@ Age ANOVA on concern about being accused of breaching academic integrity (F = 2.
 - [Chatbot design carries a documented female-by-default gender bias](chatbot-female-default-gender-bias.md) — related
 - [LLM learners are younger, more likely male, and score higher on technology affinity than non-learners](llm-learners-younger-male-higher-tech-affinity.md) — related
 - [No statistically significant gender differences in perceived learning outcomes across any dimension among higher vocational students](no-gender-differences-perceived-learning-outcomes-vocational.md) — related
-- [Male and female students used ChatGPT differently: females used it more frequently and for questions, males more sporadically and to check answers](gender-differences-chatgpt-use-patterns.md) — related
+- Male and female students used ChatGPT differently: females used it more frequently and for questions, males more sporadically and to check answers — related
 - [AI applications in STEM education foster positive affective perception, including attitude, interest, and motivation](ai-stem-positive-affective-perception-effects.md) — related
 - [Persistence behaviors in the face of challenge differed significantly by age and gender](persistence-differs-by-age-and-gender.md) — related
-- [Students perceived ChatGPT as a valuable learning tool for asking questions, getting explanations, and clarifying understanding](students-perceive-chatgpt-valuable-learning-tool.md) — related
+- Students perceived ChatGPT as a valuable learning tool for asking questions, getting explanations, and clarifying understanding — related
 - [Male respondents were significantly more likely than non-male respondents to have no concern about their labour being used for military purposes](gender-difference-military-labour-concern.md) — related
 - [Humanities students report higher perceived usefulness, ease of use, and behavioral intention for AI-assisted English tools than STEM students, with small effect sizes](humanities-stem-acceptance-mean-differences.md) — related
 - [Gender and ability/skills are the most investigated moderators/mediators of peer assessment](peer-assessment-gender-ability-top-moderators.md) — related

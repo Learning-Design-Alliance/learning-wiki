@@ -77,3 +77,4 @@ Open questions include how much scaffolding invention tasks should provide, how 
 - [Direct instruction may create a lock-in that constrains search for novel solutions](direct-instruction-lock-in-constrains-exploration.md) — related
 - [Sequencing of exploration and explicit instruction shows inconsistent results, moderated by task complexity per the expertise reversal account](exploration-first-versus-instruction-first-sequencing-mixed.md) — related
 - [Presenting primary knowledge first and then secondary knowledge was more efficient in both performance and motivation](primary-first-sequencing-benefits.md) — reports the opposite
+- [The three laboratory-devised production tests (Economic Prophecies, Sheet Music Invention, Novel Situations) tied in average merit among the most effective tests.](laboratory-devised-tests-tie-in-merit.md) — related

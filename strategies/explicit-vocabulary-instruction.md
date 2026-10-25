@@ -20,7 +20,7 @@ Explicit vocabulary instruction directly teaches carefully selected target words
 
 ## Design Implications
 
-Explicit instruction outperforms incidental exposure for teaching specific word meanings, with effects strongest when instruction includes both definitional and contextual information [Marulis & Neuman, 2010](https://doi.org/10.3102/0034654310370887) [+S]. Word knowledge is incremental — a single encounter rarely produces durable learning — so effective programs distribute multiple varied encounters with each word across days and weeks [Distributed practice improves retention.](../claims/spaced-practice-improves-retention.md) [+S]. Rich, elaborative processing (generating examples, connecting to known concepts, judging applicability) produces deeper word knowledge than rote definition memorization [Elaborative interrogation improves learning.](../claims/elaborative-interrogation-improves-learning.md) [+M].
+Explicit instruction outperforms incidental exposure for teaching specific word meanings, with effects strongest when instruction includes both definitional and contextual information Marulis & Neuman, 2010. Word knowledge is incremental — a single encounter rarely produces durable learning — so effective programs distribute multiple varied encounters with each word across days and weeks [Distributed practice improves retention.](../claims/spaced-practice-improves-retention.md) [+S]. Rich, elaborative processing (generating examples, connecting to known concepts, judging applicability) produces deeper word knowledge than rote definition memorization [Elaborative interrogation improves learning.](../claims/elaborative-interrogation-improves-learning.md) [+M].
 
 ### Context
 #### Requirements
@@ -38,7 +38,7 @@ Explicit instruction outperforms incidental exposure for teaching specific word 
 - Time for instruction and active practice in class
 
 #### Constraints
-- Instruction limited to definitional information alone (word + dictionary definition) yields substantially weaker gains than instruction combining definition with varied contextual examples [Stahl & Fairbanks, 1986](https://doi.org/10.3102/00346543056001071) [-S]
+- Instruction limited to definitional information alone (word + dictionary definition) yields substantially weaker gains than instruction combining definition with varied contextual examples Stahl & Fairbanks, 1986
 - Teaching too many words at once dilutes depth of processing; breadth trades off against depth, and shallow coverage produces word knowledge too fragile to support comprehension [-M]
 - Effects on general reading comprehension are smaller and slower than effects on word-specific knowledge; vocabulary instruction alone rarely closes comprehension gaps quickly [-M]
 - Overloading lessons with many new words at once risks working memory saturation [Cognitive overload degrades learning.](../claims/cognitive-overload-degrades-learning.md) [-S]

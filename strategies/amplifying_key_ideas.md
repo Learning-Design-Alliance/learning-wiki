@@ -36,7 +36,7 @@ Amplification works because learners cannot attend to everything; cues that sign
 - **In materials:** headings, bolding, margin notes, and advance organizers that preview the key idea before the detail
 - **In instruction:** verbal signposting ("if you remember one thing from today…"), board work that visually isolates the core idea, and strategic repetition at the start and end of a session
 - **In student work:** publicly amplifying exemplary student contributions — quoting a student's comment and unpacking why it is insightful — which both reinforces the idea and raises the [self-efficacy](../claims/self-efficacy-predicts-academic-persistence.md) [+W] of the contributor
-- **In multimedia:** segmenting videos and adding on-screen text or callouts at key moments [Signaling and segmenting improve learning from instructional video.](https://doi.org/10.1007/s11423-020-09792-9) [+M]
+- **In multimedia:** segmenting videos and adding on-screen text or callouts at key moments Signaling and segmenting improve learning from instructional video.
 
 ### Target Learners
 - Novices, who cannot yet distinguish central from peripheral content on their own and benefit most from external signaling [+S]

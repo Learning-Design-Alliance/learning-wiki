@@ -19,7 +19,7 @@ Task force teams of inquiry organize learners into small, mission-driven teams, 
 
 ## Design Implications
 
-The strategy combines two well-supported mechanisms: cooperative goal structures, which raise achievement and motivation relative to individualistic or competitive structures [Johnson & Johnson's meta-analytic review of cooperative learning.](https://doi.org/10.1080/00461520903035994) [+S], and inquiry-oriented tasks, which support deeper conceptual understanding when scaffolded [Inquiry-based approaches improve conceptual understanding relative to traditional instruction.](https://doi.org/10.3102/0034654312458075) [+M]. Topic choice from a brainstorm list leverages learner autonomy, which supports intrinsic motivation [Autonomy supports intrinsic motivation.](../claims/autonomy-supports-intrinsic-motivation.md) [+S]. However, the inquiry component requires substantial guidance: minimally guided team inquiry produces weaker outcomes than scaffolded inquiry, particularly for novices [Minimally guided instruction is less effective than guided instruction for novices.](https://doi.org/10.1207/s15326985ep4102_1) [-S].
+The strategy combines two well-supported mechanisms: cooperative goal structures, which raise achievement and motivation relative to individualistic or competitive structures Johnson & Johnson's meta-analytic review of cooperative learning., and inquiry-oriented tasks, which support deeper conceptual understanding when scaffolded Inquiry-based approaches improve conceptual understanding relative to traditional instruction.. Topic choice from a brainstorm list leverages learner autonomy, which supports intrinsic motivation [Autonomy supports intrinsic motivation.](../claims/autonomy-supports-intrinsic-motivation.md) [+S]. However, the inquiry component requires substantial guidance: minimally guided team inquiry produces weaker outcomes than scaffolded inquiry, particularly for novices [Minimally guided instruction is less effective than guided instruction for novices.](https://doi.org/10.1207/s15326985ep4102_1) [-S].
 
 ### Context
 #### Requirements
@@ -31,7 +31,7 @@ The strategy combines two well-supported mechanisms: cooperative goal structures
 
 #### Constraints
 - Unguided team inquiry degrades into unfocused searching for novices; teams need embedded scaffolds, checkpoints, and expert feedback [Minimally guided instruction is less effective than guided instruction for novices.](https://doi.org/10.1207/s15326985ep4102_1) [-S]
-- Free-riding and status hierarchies undermine learning unless roles and individual accountability are designed in; group work without individual accountability can reduce achievement for capable members [Cooperative learning requires both positive interdependence and individual accountability.](https://doi.org/10.1080/00461520903035994) [~S]
+- Free-riding and status hierarchies undermine learning unless roles and individual accountability are designed in; group work without individual accountability can reduce achievement for capable members Cooperative learning requires both positive interdependence and individual accountability.
 - Teams formed solely by friendship tend to replicate existing social hierarchies and exclude marginalized learners [~W]
 - Large teams (more than 4–5 members) dilute participation and increase coordination costs [~M]
 
@@ -48,9 +48,9 @@ The strategy combines two well-supported mechanisms: cooperative goal structures
 
 ### Target Learning Goals
 - Inquiry and research skills: question formulation, source evaluation, synthesis
-- Collaborative competence: shared planning, negotiation, and accountability [Cooperative goal structures raise achievement and motivation.](https://doi.org/10.1080/00461520903035994) [+S]
+- Collaborative competence: shared planning, negotiation, and accountability Cooperative goal structures raise achievement and motivation.
 - Communication: presenting findings to authentic audiences
-- Deep conceptual understanding of the investigated topic [Inquiry-based approaches improve conceptual understanding relative to traditional instruction.](https://doi.org/10.3102/0034654312458075) [+M]
+- Deep conceptual understanding of the investigated topic Inquiry-based approaches improve conceptual understanding relative to traditional instruction.
 
 ### Instructions
 1. Facilitate a class brainstorm of researchable topics; curate the list against standards and feasibility.

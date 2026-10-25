@@ -71,7 +71,7 @@ Valuing reasoning over answers converts errors from endpoints into learning oppo
 - A teacher puts a worked algebra problem with a sign error on the board and asks, "Find where the reasoning went wrong" — students must articulate the error, not just supply the right answer.
 - A teacher responds to a raised hand with, "I don't want to hear the answer just yet. I want to hear about the first thing you thought about," making the classroom norm explicit.
 - **[Youcubed](https://www.youcubed.org)** (Stanford, Jo Boaler) — published number-sense tasks and teacher resources built around valuing reasoning, multiple representations, and normalizing mistakes in mathematics classrooms.
-- **[Kapur's Productive Failure studies](https://doi.org/10.1080/10508406.2013.878918)** — Singapore math classrooms where students first attempt unsolved problems in groups, then compare their (often wrong) reasoning to canonical solutions.
+- **Kapur's Productive Failure studies** — Singapore math classrooms where students first attempt unsolved problems in groups, then compare their (often wrong) reasoning to canonical solutions.
 
 ## Key Sources
 - Chi, M. T. H., de Leeuw, N., Chiu, M.-H., & LaVancher, C. (1994). Eliciting self-explanations improves understanding. *Cognitive Science, 18*(3), 439–477. [doi:10.1207/s15516709cog1803_3](https://doi.org/10.1207/s15516709cog1803_3)

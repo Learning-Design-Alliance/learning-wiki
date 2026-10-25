@@ -41,7 +41,7 @@ The game's power comes from forcing learners to maintain and update a shrinking 
 - **Fraction/decimal variant:** clues reference benchmarks ("closer to ½ than to 1") to build magnitude reasoning
 
 ### Target Learners
-- Elementary students building number sense and magnitude comparison; number-line and board-game formats with similar structure show measurable gains in numerical knowledge for young children [Playing linear number board games improves children's numerical knowledge.](https://doi.org/10.1037/0012-1649.44.2.345) [+S]
+- Elementary students building number sense and magnitude comparison; number-line and board-game formats with similar structure show measurable gains in numerical knowledge for young children Playing linear number board games improves children's numerical knowledge.
 - Struggling students benefit when the range is small and a visual candidate set is provided, reducing load [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+S]
 - Advanced students need larger ranges, sparser clues, or the clue-designing role to avoid trivial search
 

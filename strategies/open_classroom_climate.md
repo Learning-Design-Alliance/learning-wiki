@@ -19,7 +19,7 @@ An open classroom climate is a discussion environment in which students perceive
 
 ## Design Implications
 
-Open classroom climate is one of the most consistently documented school-level predictors of civic and political engagement, including intended and actual voting, discussion of politics outside school, and political knowledge [Campbell (2008) found open classroom climate predicts political discussion and engagement.](https://doi.org/10.1007/s11109-008-9057-z) [+S]. Its benefits depend on perceived safety: students must believe dissent will not be penalized socially or academically, which requires the teacher to visibly protect unpopular positions rather than merely invite participation [~M]. Climate is a perception, not a policy — it must be built through repeated, normed practice, not a single statement of ground rules.
+Open classroom climate is one of the most consistently documented school-level predictors of civic and political engagement, including intended and actual voting, discussion of politics outside school, and political knowledge Campbell (2008) found open classroom climate predicts political discussion and engagement.. Its benefits depend on perceived safety: students must believe dissent will not be penalized socially or academically, which requires the teacher to visibly protect unpopular positions rather than merely invite participation [~M]. Climate is a perception, not a policy — it must be built through repeated, normed practice, not a single statement of ground rules.
 
 ### Context
 #### Requirements
@@ -41,7 +41,7 @@ Open classroom climate is one of the most consistently documented school-level p
 - Digital discussion boards can extend participation to reflective students but may reduce the accountability of face-to-face disagreement [~W]
 
 ### Target Learners
-- Adolescents and young adults developing civic identity — the effect is strongest in secondary social studies [Campbell (2008) found open classroom climate predicts political discussion and engagement.](https://doi.org/10.1007/s11109-008-9057-z) [+S]
+- Adolescents and young adults developing civic identity — the effect is strongest in secondary social studies Campbell (2008) found open classroom climate predicts political discussion and engagement.
 - Students who rarely speak otherwise benefit most from normed turn-taking and role structures [~M]
 - Less effective for learners who lack baseline topic knowledge; discussion without content preparation produces opinion exchange rather than learning [-W]
 

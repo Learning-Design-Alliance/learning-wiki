@@ -19,7 +19,7 @@ This strategy deliberately sequences and calibrates instruction so that learners
 
 ## Design Implications
 
-Early success builds efficacy beliefs that sustain motivation through later difficulty, but only when the success is attributable to the learner's own effort and strategy rather than to task triviality or instructor generosity [Schunk, D. H. (1991). Self-efficacy and academic motivation. *Educational Psychologist, 26*(3–4), 207–231](https://doi.org/10.1080/00461520.1991.9653133) [+M]. The design problem is therefore challenge calibration: tasks must be within reach with support ([Scaffolding](../principles/scaffolding.md)) yet require genuine work. Mastery-learning structures operationalize this by allowing time to vary while holding achievement standards constant [Kulik, C.-L. C., Kulik, J. A., & Bangert-Drowns, R. L. (1990). Effectiveness of mastery learning programs: A meta-analysis. *Review of Educational Research, 60*(2), 265–299](https://doi.org/10.3102/00346543060003265) [+S].
+Early success builds efficacy beliefs that sustain motivation through later difficulty, but only when the success is attributable to the learner's own effort and strategy rather than to task triviality or instructor generosity [Schunk, D. H. (1991). Self-efficacy and academic motivation. *Educational Psychologist, 26*(3–4), 207–231](https://doi.org/10.1080/00461520.1991.9653133) [+M]. The design problem is therefore challenge calibration: tasks must be within reach with support ([Scaffolding](../principles/scaffolding.md)) yet require genuine work. Mastery-learning structures operationalize this by allowing time to vary while holding achievement standards constant [Kulik, C.-L. C., Kulik, J. A., & Bangert-Drowns, R. L. (1990). Effectiveness of mastery learning programs: A meta-analysis. *Review of Educational Research, 60*(2), 265–299](https://doi.org/10.1207/s15326985ep2603&4_2) [+S].
 
 ### Context
 #### Requirements
@@ -35,7 +35,7 @@ Early success builds efficacy beliefs that sustain motivation through later diff
 - Premature exposure to high-stakes failure before any success experience can produce entrenched low efficacy that is difficult to reverse [-S]
 
 #### Implementation Variability
-- **Mastery learning**: hold the standard constant, vary time and support until each learner demonstrates criterion performance [Kulik, C.-L. C., Kulik, J. A., & Bangert-Drowns, R. L. (1990). Effectiveness of mastery learning programs: A meta-analysis. *Review of Educational Research, 60*(2), 265–299](https://doi.org/10.3102/00346543060003265)
+- **Mastery learning**: hold the standard constant, vary time and support until each learner demonstrates criterion performance [Kulik, C.-L. C., Kulik, J. A., & Bangert-Drowns, R. L. (1990). Effectiveness of mastery learning programs: A meta-analysis. *Review of Educational Research, 60*(2), 265–299](https://doi.org/10.1207/s15326985ep2603&4_2)
 - **Graded task sequencing**: begin with simplified or part-task versions and progressively increase complexity and independence
 - **Micro-goals**: break large projects into short, completable units so success frequency is high ([Achievable Micro-Goals](../strategies/achievable_micro-goals.md))
 - **Revision-based success**: allow drafts and resubmission so the "success" is the final improved product, not the first attempt
@@ -48,7 +48,7 @@ Early success builds efficacy beliefs that sustain motivation through later diff
 ### Target Learning Goals
 - Motivational outcomes: self-efficacy, persistence, and willingness to attempt difficult tasks
 - Procedural and skill fluency, where successive approximation through calibrated practice builds competence
-- Long-term retention in mastery-oriented programs, where criterion-referenced success is required before progression [Kulik, C.-L. C., Kulik, J. A., & Bangert-Drowns, R. L. (1990). Effectiveness of mastery learning programs: A meta-analysis. *Review of Educational Research, 60*(2), 265–299](https://doi.org/10.3102/00346543060003265)
+- Long-term retention in mastery-oriented programs, where criterion-referenced success is required before progression [Kulik, C.-L. C., Kulik, J. A., & Bangert-Drowns, R. L. (1990). Effectiveness of mastery learning programs: A meta-analysis. *Review of Educational Research, 60*(2), 265–299](https://doi.org/10.1207/s15326985ep2603&4_2)
 
 ### Instructions
 1. Diagnose entry points with a low-stakes [Check-In](../elements/check-in.md) or diagnostic [Assessment](../elements/assessment.md) before assigning tasks.
@@ -66,7 +66,7 @@ Early success builds efficacy beliefs that sustain motivation through later diff
 - [Reframe failure as part of success, break long-term goals into short-term controllable action goals, and use randomized intermittent external rewards](reframe-failure-short-term-goals-intermittent-rewards.md)
 
 ## Examples
-- **Mastery learning programs** (e.g., Bloom's "Learning for Mastery" implementations): learners continue with corrective instruction and parallel [Practice](../elements/practice.md) until they meet the criterion, guaranteeing a success experience before progression [Kulik, C.-L. C., Kulik, J. A., & Bangert-Drowns, R. L. (1990). Effectiveness of mastery learning programs: A meta-analysis. *Review of Educational Research, 60*(2), 265–299](https://doi.org/10.3102/00346543060003265).
+- **Mastery learning programs** (e.g., Bloom's "Learning for Mastery" implementations): learners continue with corrective instruction and parallel [Practice](../elements/practice.md) until they meet the criterion, guaranteeing a success experience before progression [Kulik, C.-L. C., Kulik, J. A., & Bangert-Drowns, R. L. (1990). Effectiveness of mastery learning programs: A meta-analysis. *Review of Educational Research, 60*(2), 265–299](https://doi.org/10.1207/s15326985ep2603&4_2).
 - **Khan Academy** (https://www.khanacademy.org) — mastery-based progression gates new content behind demonstrated proficiency, with hints and [Adaptive Difficulty](../elements/adaptive-difficulty.md) keeping tasks in the achievable range.
 - **Writing workshop models** (e.g., Lucy Calkins' Units of Study) — short daily writing with teacher conferencing and revision cycles, so every learner produces a polished published piece each unit.
 

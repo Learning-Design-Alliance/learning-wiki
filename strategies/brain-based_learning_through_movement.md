@@ -19,7 +19,7 @@ Brain-based learning through movement integrates purposeful physical activity â€
 
 ## Design Implications
 
-Movement supports cognition primarily through improved attention and executive function, especially in children and after acute bouts of activity [Acute exercise has small positive effects on executive attention.](https://doi.org/10.1016/j.actpsy.2002.09.008) [+M]. However, the learning benefit depends on the movement being *connected* to the content or carefully timed as a break; arbitrary movement layered on top of instruction can compete for working memory rather than support it [~M]. Movement works best as a complement to, not a substitute for, well-structured instruction and [Practice](../elements/practice.md).
+Movement supports cognition primarily through improved attention and executive function, especially in children and after acute bouts of activity Acute exercise has small positive effects on executive attention.. However, the learning benefit depends on the movement being *connected* to the content or carefully timed as a break; arbitrary movement layered on top of instruction can compete for working memory rather than support it [~M]. Movement works best as a complement to, not a substitute for, well-structured instruction and [Practice](../elements/practice.md).
 
 ### Context
 #### Requirements

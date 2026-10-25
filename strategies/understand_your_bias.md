@@ -19,7 +19,7 @@ Understand Your Bias is a structured self-reflection strategy in which learners 
 
 ## Design Implications
 
-Bias awareness activities work by making automatic cognitive processes explicit and available for reflection. Stereotypes operate partly through automatic activation that can occur even in people who explicitly reject them [Devine, 1989](https://doi.org/10.1037/0022-3514.56.1.5) [+M], so simply telling learners to "be unbiased" is insufficient; they must first perceive the bias in their own responses. Awareness is most productive when paired with internal motivation to respond without prejudice, which predicts sustained effort at regulation [Plant & Devine, 1998](https://doi.org/10.1037/0022-3514.74.2.365) [+M]. Practitioners should note that awareness alone produces only small, short-lived changes in implicit measures [Forscher et al., 2019](https://doi.org/10.1037/pspa0000160) [~M] — the strategy's realistic outcome is improved self-monitoring, not de-biasing.
+Bias awareness activities work by making automatic cognitive processes explicit and available for reflection. Stereotypes operate partly through automatic activation that can occur even in people who explicitly reject them [Devine, 1989](https://doi.org/10.1037/0022-3514.56.1.5) [+M], so simply telling learners to "be unbiased" is insufficient; they must first perceive the bias in their own responses. Awareness is most productive when paired with internal motivation to respond without prejudice, which predicts sustained effort at regulation Plant & Devine, 1998. Practitioners should note that awareness alone produces only small, short-lived changes in implicit measures [Forscher et al., 2019](https://doi.org/10.1037/pspa0000160) [~M] — the strategy's realistic outcome is improved self-monitoring, not de-biasing.
 
 ### Context
 #### Requirements
@@ -30,7 +30,7 @@ Bias awareness activities work by making automatic cognitive processes explicit 
 
 #### Constraints
 - Awareness interventions produce small and often non-durable effects on implicit measures [Forscher et al., 2019](https://doi.org/10.1037/pspa0000160) [-M] — expecting behavior change from a single session is unsupported
-- Mandatory or accusatory framing triggers defensiveness and reactance, especially in learners low in internal motivation to respond without prejudice [Plant & Devine, 1998](https://doi.org/10.1037/0022-3514.74.2.365) [-M]
+- Mandatory or accusatory framing triggers defensiveness and reactance, especially in learners low in internal motivation to respond without prejudice Plant & Devine, 1998
 - Public sharing of biases can entrench them or harm group members present; private reflection followed by voluntary discussion is safer
 - The IAT's test–retest reliability is modest, so individual scores should be treated as conversation starters, not diagnostic labels [~M]
 
@@ -43,7 +43,7 @@ Bias awareness activities work by making automatic cognitive processes explicit 
 ### Target Learners
 - Adolescents through adults; requires sufficient metacognitive maturity to examine one's own thinking
 - Learners in professional preparation (teaching, medicine, policing) where biased judgment has consequential effects
-- Most effective for learners with some internal motivation to examine themselves; externally compelled participants show weaker engagement [Plant & Devine, 1998](https://doi.org/10.1037/0022-3514.74.2.365) [~M]
+- Most effective for learners with some internal motivation to examine themselves; externally compelled participants show weaker engagement Plant & Devine, 1998
 
 ### Target Learning Goals
 - Metacognitive awareness: recognizing automatic associations as they occur

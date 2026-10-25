@@ -8,7 +8,7 @@ generated:
   at: 2026-09-26
 sources:
   - id: widiastuti-2018
-    title: "Widiastuti, I. & Budiyanto, C. W. (2018). Applying an Experiential Learning Cycle with the Aid of Finite Element Analysis in Engineering Education. Journal of Turkish Science Education. https://doi.org/10.12973/tused.10261a"
+    title: "Widiastuti, I. & Budiyanto, C. W. (2018). Applying an Experiential Learning Cycle with the Aid of Finite Element Analysis in Engineering Education. Journal of Turkish Science Education."
     author: "Widiastuti, I. & Budiyanto, C. W"
 ---
 

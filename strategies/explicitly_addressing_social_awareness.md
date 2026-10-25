@@ -9,7 +9,6 @@ generated:
   at: 2026-08-29
 sources:
   - id: durlak-2011
-    resource: "https://doi.org/10.1111/j.1467-8624.2010.01564"
     title: "Durlak, J. A., et al. (2011). The impact of enhancing students' social and emotional learning: A meta-analysis of school-based universal interventions. *Child Development, 82*(1), 405–432"
     author: "Durlak, J. A., Weissberg, R. P., Dymnicki, A. B., Taylor, R. D., & Schellinger, K. B."
   - id: jones-bouffard-2012
@@ -32,7 +31,7 @@ This strategy treats social awareness — the ability to understand social norms
 
 ## Design Implications
 
-Social awareness develops through the same mechanisms as other complex skills: observation of models, guided practice, and feedback [Social learning theory posits that much social behavior is acquired through observation and imitation of models.](../theories/social-learning-theory.md) [+S]. SEL programs that explicitly teach social awareness competencies produce measurable gains in academic outcomes and behavior, with the strongest effects when instruction is sequenced, active, and sustained rather than incidental [SEL interventions improve academic achievement, attitudes, and behavior across school levels.](https://doi.org/10.1111/j.1467-8624.2010.01564) [+S]. Because social understanding is context-dependent, instruction should use authentic, varied cases rather than abstract rules.
+Social awareness develops through the same mechanisms as other complex skills: observation of models, guided practice, and feedback [Social learning theory posits that much social behavior is acquired through observation and imitation of models.](../theories/social-learning-theory.md) [+S]. SEL programs that explicitly teach social awareness competencies produce measurable gains in academic outcomes and behavior, with the strongest effects when instruction is sequenced, active, and sustained rather than incidental SEL interventions improve academic achievement, attitudes, and behavior across school levels.. Because social understanding is context-dependent, instruction should use authentic, varied cases rather than abstract rules.
 
 ### Context
 #### Requirements
@@ -42,7 +41,7 @@ Social awareness develops through the same mechanisms as other complex skills: o
 - Multiple entry points: modeled reasoning ([Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md)), structured [Class Discussion](../elements/class-discussion.md), and role-play ([Acting-Role-Play](../strategies/acting-role-play.md))
 
 #### Constraints
-- Effectiveness drops when social-awareness instruction is delivered as one-off lessons disconnected from academic content; integrated, sustained approaches outperform fragmented ones [SEL interventions improve academic achievement, attitudes, and behavior across school levels.](https://doi.org/10.1111/j.1467-8624.2010.01564) [~S]
+- Effectiveness drops when social-awareness instruction is delivered as one-off lessons disconnected from academic content; integrated, sustained approaches outperform fragmented ones SEL interventions improve academic achievement, attitudes, and behavior across school levels.
 - Students may resist explicit discussion of emotions or social issues, particularly adolescents concerned with peer perception; forced disclosure can backfire and should never be a condition for participation [-M]
 - Educator bias shapes which norms get taught as "correct" social behavior; unexamined framing can marginalize students from non-dominant cultures [-M]
 - Requires sustained teacher time and relational knowledge of students; thin implementation produces little measurable change [~W]
@@ -55,7 +54,7 @@ Social awareness develops through the same mechanisms as other complex skills: o
 - **Individualized:** for students with identified social-cognition challenges (e.g., autism), strategies shift toward explicit instruction in reading social cues, with [Coaching](../elements/coaching.md) in natural settings
 
 ### Target Learners
-- Students across all grade levels, with the strongest documented effects in K–12 populations [SEL interventions improve academic achievement, attitudes, and behavior across school levels.](https://doi.org/10.1111/j.1467-8624.2010.01564) [+S]
+- Students across all grade levels, with the strongest documented effects in K–12 populations SEL interventions improve academic achievement, attitudes, and behavior across school levels.
 - Students with weak perspective-taking or difficulty reading social norms, who benefit most from explicit rather than incidental instruction [+M]
 - Students whose sense of belonging or [self-efficacy](../claims/self-efficacy-predicts-academic-persistence.md) [+W] is undermined by social friction; improving social awareness supports persistence
 - Less effective when imposed on students experiencing acute social stress without adequate relational support [~W]
@@ -64,7 +63,7 @@ Social awareness develops through the same mechanisms as other complex skills: o
 - Social-emotional competencies: empathy, perspective-taking, understanding social norms
 - Collaborative competence: participating constructively in [Collaborative Learning](../principles/collaborative-learning.md) and discussion
 - Civic and ethical reasoning: evaluating situations from multiple stakeholder perspectives
-- Indirect academic gains: improved classroom climate and engagement that support content learning [SEL interventions improve academic achievement, attitudes, and behavior across school levels.](https://doi.org/10.1111/j.1467-8624.2010.01564) [+S]
+- Indirect academic gains: improved classroom climate and engagement that support content learning SEL interventions improve academic achievement, attitudes, and behavior across school levels.
 
 ### Instructions
 1. **Diagnose.** Use observation, [Check-Ins](../principles/check-ins.md), and student self-reflection to map individual strengths and challenges in social awareness before selecting strategies.

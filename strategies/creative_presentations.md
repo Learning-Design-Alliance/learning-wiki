@@ -9,7 +9,6 @@ generated:
   at: 2026-08-29
 sources:
   - id: mayer-2021
-    resource: "https://doi.org/10.1017/9781316837033"
     title: "Mayer, R. E. (2021). *Multimedia Learning* (3rd ed.). Cambridge University Press"
     author: "Mayer, R. E"
   - id: clark-2016

@@ -20,7 +20,7 @@ Reframing negative self-talk is a strategy in which learners identify self-defea
 
 ## Design Implications
 
-Reframing works because negative self-talk consumes working memory and attention with threat monitoring rather than task engagement; replacing it with task-focused or coping statements redirects those resources toward learning [Instructional self-talk improves motor and academic task performance.](https://doi.org/10.1080/1750984X.2011.574272) [+S]. The strategy is most effective when reframes are specific, believable, and paired with concrete strategies — vague positive affirmations that contradict a learner's actual experience can backfire [Overly positive self-statements can be counterproductive for low self-esteem individuals.](https://doi.org/10.1037/a0018371) [~S].
+Reframing works because negative self-talk consumes working memory and attention with threat monitoring rather than task engagement; replacing it with task-focused or coping statements redirects those resources toward learning Instructional self-talk improves motor and academic task performance.. The strategy is most effective when reframes are specific, believable, and paired with concrete strategies — vague positive affirmations that contradict a learner's actual experience can backfire [Overly positive self-statements can be counterproductive for low self-esteem individuals.](https://doi.org/10.1037/a0018371) [~S].
 
 ### Context
 #### Requirements

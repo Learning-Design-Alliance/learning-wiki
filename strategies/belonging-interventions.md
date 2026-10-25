@@ -37,7 +37,7 @@ Belonging interventions work by reframing adversity: students who attribute earl
 - One-shot delivery without reinforcement shows weaker long-term effects than interventions with follow-up modules [~M]
 - Poorly framed versions ("you should feel you belong") can backfire by invalidating students' actual experiences of marginalization [-W]
 - Benefits are concentrated among at-risk groups; effects on already well-served students are near zero, so these interventions are not a substitute for structural climate improvements [~S]
-- One-shot delivery in a genuinely hostile or unsupportive environment produces little or no lasting benefit [Yeager & Walton, 2011](https://doi.org/10.1111/j.1751-2409.2011.01008.x) [-M] — the message is contradicted by daily experience
+- One-shot delivery in a genuinely hostile or unsupportive environment produces little or no lasting benefit Yeager & Walton, 2011 — the message is contradicted by daily experience
 - Effects fade when the intervention is framed as remedial help for "at-risk" students, which itself signals lower expectations [-M]
 - Repeating the identical activity verbatim can feel inauthentic; effectiveness depends on students generating their own meaning, not receiving a script [-W]
 - Benefits concentrate among students experiencing belonging uncertainty; universal delivery to secure, well-supported students shows negligible effects [~M]
@@ -109,7 +109,7 @@ Belonging interventions are short, structured activities — typically delivered
 
 ## Design Implications
 
-Belonging interventions work not by boosting self-esteem but by changing the *interpretation* of adversity: students who attribute early setbacks to a universal, transient adjustment process rather than to a fixed lack of fit persist through difficulty [Walton & Cohen, 2011](https://doi.org/10.1126/science.1198364) [+S]. Effects are strongest for students entering stigmatized or majority-dominated settings, and strongest when the message is framed as informational rather than remedial. Because the intervention is brief, its durability depends on the surrounding environment actually being hospitable — a one-shot message cannot compensate for a chronically exclusionary climate [Yeager & Walton, 2011](https://doi.org/10.1111/j.1751-2409.2011.01008.x) [~M].
+Belonging interventions work not by boosting self-esteem but by changing the *interpretation* of adversity: students who attribute early setbacks to a universal, transient adjustment process rather than to a fixed lack of fit persist through difficulty [Walton & Cohen, 2011](https://doi.org/10.1126/science.1198364) [+S]. Effects are strongest for students entering stigmatized or majority-dominated settings, and strongest when the message is framed as informational rather than remedial. Because the intervention is brief, its durability depends on the surrounding environment actually being hospitable — a one-shot message cannot compensate for a chronically exclusionary climate Yeager & Walton, 2011.
 
 ### Context
 #### Requirements
@@ -119,7 +119,7 @@ Belonging interventions work not by boosting self-esteem but by changing the *in
 - An institutional climate where belonging is at least plausibly attainable
 
 #### Constraints
-- One-shot delivery in a genuinely hostile or unsupportive environment produces little or no lasting benefit [Yeager & Walton, 2011](https://doi.org/10.1111/j.1751-2409.2011.01008.x) [-M] — the message is contradicted by daily experience
+- One-shot delivery in a genuinely hostile or unsupportive environment produces little or no lasting benefit Yeager & Walton, 2011 — the message is contradicted by daily experience
 - Effects fade when the intervention is framed as remedial help for "at-risk" students, which itself signals lower expectations [-M]
 - Repeating the identical activity verbatim can feel inauthentic; effectiveness depends on students generating their own meaning, not receiving a script [-W]
 - Benefits concentrate among students experiencing belonging uncertainty; universal delivery to secure, well-supported students shows negligible effects [~M]

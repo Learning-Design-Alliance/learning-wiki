@@ -19,7 +19,7 @@ Self-organized learning groups are voluntary cohorts of employees who convene re
 
 ## Design Implications
 
-Peer-organized groups work because they combine social accountability with learner autonomy — both strong motivators for adult professionals [Autonomy supports intrinsic motivation.](../claims/autonomy-supports-intrinsic-motivation.md) [+S]. Collaborative structures that require individual accountability and positive interdependence produce markedly better learning than loose "study club" arrangements [Cooperative learning with individual accountability outperforms competitive and individualistic structures.](https://doi.org/10.1080/00461520903133554) [+S]. Psychological safety is the gating condition: groups whose members can admit ignorance and ask basic questions sustain participation and learning; groups without it go quiet [Team psychological safety enables interpersonal risk-taking such as asking questions and admitting errors.](https://doi.org/10.2307/2666999) [+S].
+Peer-organized groups work because they combine social accountability with learner autonomy — both strong motivators for adult professionals [Autonomy supports intrinsic motivation.](../claims/autonomy-supports-intrinsic-motivation.md) [+S]. Collaborative structures that require individual accountability and positive interdependence produce markedly better learning than loose "study club" arrangements Cooperative learning with individual accountability outperforms competitive and individualistic structures.. Psychological safety is the gating condition: groups whose members can admit ignorance and ask basic questions sustain participation and learning; groups without it go quiet [Team psychological safety enables interpersonal risk-taking such as asking questions and admitting errors.](https://doi.org/10.2307/2666999) [+S].
 
 ### Context
 #### Requirements
@@ -30,7 +30,7 @@ Peer-organized groups work because they combine social accountability with learn
 - A designated physical or online space for meet-ups
 
 #### Constraints
-- Without individual accountability, groups drift into unstructured discussion with little encoding; cooperative structures with clear roles and preparation obligations are needed [Cooperative learning with individual accountability outperforms competitive and individualistic structures.](https://doi.org/10.1080/00461520903133554) [-S]
+- Without individual accountability, groups drift into unstructured discussion with little encoding; cooperative structures with clear roles and preparation obligations are needed Cooperative learning with individual accountability outperforms competitive and individualistic structures.
 - Voluntary participation skews toward already-motivated learners; employees who most need upskilling are least likely to self-organize [-M]
 - Groups formed around a single champion collapse when that person leaves or loses bandwidth [-M]
 - If leadership endorses the program but does not protect time, attendance becomes performative and decays within a few cycles [-W]
@@ -58,7 +58,7 @@ Peer-organized groups work because they combine social accountability with learn
 1. **Charter the group**: define a narrow topic, an initial duration (e.g., 6–8 sessions), and a success criterion, so the group can end or renew deliberately.
 2. **Recruit 4–8 members** via the discovery platform; smaller groups keep everyone accountable, larger ones fragment.
 3. **Adopt a repeating session format** — e.g., 10 min recap, 40 min [Application](../elements/application.md) or live practice, 10 min commitments — so meetings require no facilitation expertise.
-4. **Assign rotating roles** (session lead, note-taker) to create the individual accountability that peer groups otherwise lack [Cooperative learning with individual accountability outperforms competitive and individualistic structures.](https://doi.org/10.1080/00461520903133554) [+S].
+4. **Assign rotating roles** (session lead, note-taker) to create the individual accountability that peer groups otherwise lack Cooperative learning with individual accountability outperforms competitive and individualistic structures..
 5. **Build in peer teaching**: each session, one member prepares and teaches a segment, forcing preparation and [Articulation](../elements/articulation.md) of understanding [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+S].
 6. **Schedule periodic expert input** — invite a practitioner or [Coaching](../elements/coaching.md) session every few cycles to correct accumulated misconceptions.
 7. **Make work visible**: share artifacts, notes, and demos in a public channel to recruit new members and signal legitimacy to leadership.

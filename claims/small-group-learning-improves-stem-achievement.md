@@ -96,3 +96,4 @@ A meta-analysis of research on undergraduate science, mathematics, engineering, 
 - [Individualized instruction shows low effects compared to cooperative and collaborative learning](individualized-instruction-low-effects-versus-collaborative.md) — related
 - [Active learning and inclusive practices are associated with better outcomes and reduced equity gaps, though evidence is contested and uptake remains low](active-learning-reduces-equity-gaps-contested.md) — related
 - [In more competitive school environments, lower-SES students perform better academically than their more advantaged peers, narrowing SES achievement gaps](competitive-schools-narrow-ses-gaps-achievement.md) — related
+- [In a two-hour randomized experiment, sixth graders in a jigsaw condition did not outperform those in an individualistic condition on a mathematics learning test](jigsaw-vs-individualistic-null-math-e1.md) — related

@@ -19,7 +19,7 @@ Positive affirmations are short, self-referential statements ("I am capable of s
 
 ## Design Implications
 
-Affirmation works best when it is framed as **values reflection** rather than direct self-praise: having learners write about their most important values before a stressful academic task reliably reduces defensive responses and improves performance for threatened groups [Cohen & Sherman, 2014](https://doi.org/10.1146/annurev-psych-010213-115137) [+S]. Direct positive self-statements ("I am lovable") are far less reliable — for learners with low self-esteem they can backfire, producing more negative mood, likely because the statement conflicts with self-beliefs and triggers counterarguing [Wood, Perunovic, & Lee, 2009](https://doi.org/10.1177/0956797609337163) [~M]. Affirmations support persistence by strengthening [self-efficacy](../claims/self-efficacy-predicts-academic-persistence.md) [+M], but they are a complement to instruction, not a substitute for it.
+Affirmation works best when it is framed as **values reflection** rather than direct self-praise: having learners write about their most important values before a stressful academic task reliably reduces defensive responses and improves performance for threatened groups [Cohen & Sherman, 2014](https://doi.org/10.1146/annurev-psych-010213-115137) [+S]. Direct positive self-statements ("I am lovable") are far less reliable — for learners with low self-esteem they can backfire, producing more negative mood, likely because the statement conflicts with self-beliefs and triggers counterarguing Wood, Perunovic, & Lee, 2009. Affirmations support persistence by strengthening [self-efficacy](../claims/self-efficacy-predicts-academic-persistence.md) [+M], but they are a complement to instruction, not a substitute for it.
 
 ### Context
 #### Requirements
@@ -28,7 +28,7 @@ Affirmation works best when it is framed as **values reflection** rather than di
 - A private or low-stakes channel (journal, reflection prompt, check-in) so learners are not performing positivity publicly
 
 #### Constraints
-- Direct positive self-statements can *worsen* mood for learners with low self-esteem, who reject statements that contradict their self-view [Wood et al., 2009](https://doi.org/10.1177/0956797609337163) [-M]
+- Direct positive self-statements can *worsen* mood for learners with low self-esteem, who reject statements that contradict their self-view Wood et al., 2009
 - Affirmations that feel imposed or artificial by the instructor lose credibility and can read as dismissive of real difficulty [-W]
 - Repeating affirmations without accompanying skill-building or feedback produces confidence without competence; it does not substitute for [practice](../elements/practice.md) or [feedback](../elements/feedback.md) [-W]
 - Effects of values-affirmation interventions in field settings are sometimes small and fade without reinforcement [Cohen & Sherman, 2014](https://doi.org/10.1146/annurev-psych-010213-115137) [~M]
@@ -42,7 +42,7 @@ Affirmation works best when it is framed as **values reflection** rather than di
 ### Target Learners
 - Learners experiencing stereotype threat or academic self-doubt — values affirmation shows its largest benefits here [Cohen & Sherman, 2014](https://doi.org/10.1146/annurev-psych-010213-115137) [+S]
 - Learners whose negative self-talk undermines persistence; affirmations tied to real strengths support [self-efficacy](../claims/self-efficacy-predicts-academic-persistence.md) [+M]
-- Learners with low self-esteem need process-focused, evidence-based statements rather than absolute positive claims [Wood et al., 2009](https://doi.org/10.1177/0956797609337163) [~M]
+- Learners with low self-esteem need process-focused, evidence-based statements rather than absolute positive claims Wood et al., 2009
 
 ### Target Learning Goals
 - Affective and motivational goals: reducing anxiety, sustaining persistence on difficult tasks

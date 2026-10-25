@@ -19,7 +19,7 @@ Assigned readings are texts — textbook chapters, articles, cases, or primary s
 
 ## Design Implications
 
-Assigned readings only pay off when learners actually complete them and when class time exploits that preparation; unaccountable reading assignments are routinely skipped, and lecture that simply repeats the text adds no value [~M]. Completion and comprehension improve substantially when readings are paired with accountability structures such as pre-reading quizzes or guided questions [Daniel & Woody's work on pre-reading interventions](https://doi.org/10.1177/0098628313487467) [+S]. Because reading is a self-paced, high-load activity for novices, design choices that manage difficulty — chunked assignments, advance organizers, and annotation tasks — determine whether the reading builds usable knowledge or merely consumes effort [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+S].
+Assigned readings only pay off when learners actually complete them and when class time exploits that preparation; unaccountable reading assignments are routinely skipped, and lecture that simply repeats the text adds no value [~M]. Completion and comprehension improve substantially when readings are paired with accountability structures such as pre-reading quizzes or guided questions Daniel & Woody's work on pre-reading interventions. Because reading is a self-paced, high-load activity for novices, design choices that manage difficulty — chunked assignments, advance organizers, and annotation tasks — determine whether the reading builds usable knowledge or merely consumes effort [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+S].
 
 ### Context
 #### Requirements

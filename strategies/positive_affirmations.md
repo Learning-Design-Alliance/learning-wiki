@@ -29,7 +29,7 @@ The evidence for affirmation repetition as a learning intervention is weak and c
 - Pairing with concrete learning activity — affirmations alone do not build skill
 - Time for learners to identify their own negative self-talk before replacing it — the contrast is what makes the affirmation meaningful
 - Affirmations that are specific, plausible, and tied to effort or process rather than fixed outcomes
-- Regular, repeated use; one-off affirmation activities show weak or no lasting effects [Cohen & Sherman, 2014](https://doi.org/10.1177/1088868314534648) [~M]
+- Regular, repeated use; one-off affirmation activities show weak or no lasting effects Cohen & Sherman, 2014
 - A supportive classroom climate so affirmations do not feel forced or performative
 
 #### Constraints
@@ -37,16 +37,16 @@ The evidence for affirmation repetition as a learning intervention is weak and c
 - No reliable effect on academic achievement when used as a stand-alone intervention [-W]
 - Can promote complacency or reduce effort if learners interpret the affirmation as evidence that no further work is needed [-W]
 - Global trait praise ("you're so smart") undermines persistence relative to process feedback [-S]; affirmations framed as fixed-trait claims inherit this problem
-- Generic positive self-statements ("I am lovable") can worsen mood and self-evaluation for learners with low self-esteem, who reject them as false [Wood, Perunovic, & Lee, 2009](https://doi.org/10.1177/0956797609363741) [-M]
+- Generic positive self-statements ("I am lovable") can worsen mood and self-evaluation for learners with low self-esteem, who reject them as false Wood, Perunovic, & Lee, 2009
 - Affirmations without accompanying skill-building or [practice](../elements/practice.md) can produce confidence without competence, and the mismatch eventually undermines credibility [-M]
-- Effects are strongest under conditions of threat or adversity; for learners facing no self-relevant threat, affirmation activities add little [Cohen & Sherman, 2014](https://doi.org/10.1177/1088868314534648) [~M]
+- Effects are strongest under conditions of threat or adversity; for learners facing no self-relevant threat, affirmation activities add little Cohen & Sherman, 2014
 - Benefits fade over time without periodic re-administration; single-session interventions show diminishing returns [~M]
 
 #### Implementation Variability
 - **Value affirmation** (Cohen & Sherman tradition): learners write briefly about a core value before a threatening task — the best-supported variant
 - **Process affirmations**: statements tied to effort and strategy ("My effort determines my progress") aligned with [growth mindset](../principles/motivation.md) framing
 - **Self-talk restructuring**: replacing negative self-talk with neutral, instructional self-statements, common in sport psychology
-- **Value affirmations** — learners write about a core personal value (family, creativity, relationships) rather than a self-statement; this is the form with the strongest experimental support [Sherman et al., 2009](https://doi.org/10.1126/science.1166254) [+S]
+- **Value affirmations** — learners write about a core personal value (family, creativity, relationships) rather than a self-statement; this is the form with the strongest experimental support Sherman et al., 2009
 - **Growth-mindset affirmations** — statements emphasizing malleability of ability, often paired with explicit mindset instruction [Blackwell, Trzesniewski, & Dweck, 2007](https://doi.org/10.1111/j.1467-9280.2007.02000.x) [+M]
 - **Written journals vs. oral routines** — writing produces more elaboration; oral group routines are faster but risk insincerity
 - **Embedded prompts** — affirmations delivered just before high-stakes tasks (tests, presentations) rather than as standalone routines
@@ -55,9 +55,9 @@ The evidence for affirmation repetition as a learning intervention is weak and c
 - Learners with moderate-to-high self-esteem may see small mood benefits [~W]
 - Learners with low self-esteem or low prior confidence are the group most likely to be harmed by implausible affirmations [~M]
 - Value affirmation benefits are largest for students under identity threat (e.g., stereotype threat in mathematics) [+M]
-- Students experiencing academic or identity threat, for whom value affirmation buffers performance costs [Sherman et al., 2009](https://doi.org/10.1126/science.1166254) [+S]
+- Students experiencing academic or identity threat, for whom value affirmation buffers performance costs Sherman et al., 2009
 - Learners whose self-efficacy is fragile; affirmations support persistence when paired with genuine skill development [Self-efficacy predicts academic persistence.](../claims/self-efficacy-predicts-academic-persistence.md) [+M]
-- Less suitable, as generic self-statements, for learners with low self-esteem, who may respond negatively [Wood, Perunovic, & Lee, 2009](https://doi.org/10.1177/0956797609363741) [-M]
+- Less suitable, as generic self-statements, for learners with low self-esteem, who may respond negatively Wood, Perunovic, & Lee, 2009
 
 ### Target Learning Goals
 - Affective: reducing anxiety and defensiveness before high-stakes assessment
@@ -103,35 +103,35 @@ The evidence for affirmation repetition as a learning intervention is weak and c
 > **Evidence** · 3 claims (3 for) · 6 studies (3 review, 2 theoretical, 1 causal), `q2`–`q3` · 0 of 6 report an effect size
 
 ## Description
-Using positive affirmations is a strategy in which learners identify negative messages from their inner voice and deliberately replace them with positive statements of self-worth, capability, or growth ("I can improve with practice," "I belong in this class"). Affirmations may be self-generated or drawn from pre-made lists, and are typically rehearsed at regular intervals — at the start of a day, before a challenging task, or during reflection. The strategy draws on self-affirmation theory, which holds that affirming core personal values buffers defensive responses to threat and supports openness to learning [Cohen & Sherman, 2014](https://doi.org/10.1177/1088868314534648) [+M].
+Using positive affirmations is a strategy in which learners identify negative messages from their inner voice and deliberately replace them with positive statements of self-worth, capability, or growth ("I can improve with practice," "I belong in this class"). Affirmations may be self-generated or drawn from pre-made lists, and are typically rehearsed at regular intervals — at the start of a day, before a challenging task, or during reflection. The strategy draws on self-affirmation theory, which holds that affirming core personal values buffers defensive responses to threat and supports openness to learning Cohen & Sherman, 2014.
 
 ## Design Implications
 
-Affirmations work by protecting a learner's sense of self-integrity, which reduces the threat response that otherwise consumes working memory and attention during difficult tasks [Cohen & Sherman, 2014](https://doi.org/10.1177/1088868314534648) [+M]. Value-affirmation interventions have improved academic outcomes for students under stereotype threat or identity threat [Sherman et al., 2009](https://doi.org/10.1126/science.1166254) [+S]. However, the strategy is fragile: generic positive self-statements can backfire for learners with low self-esteem, who experience them as unbelievable and contradictory to their self-view [Wood, Perunovic, & Lee, 2009](https://doi.org/10.1177/0956797609363741) [-M]. Effective implementation therefore favors process-focused, believable statements over grandiose ones [Process goals outperform outcome goals for novices.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [+M].
+Affirmations work by protecting a learner's sense of self-integrity, which reduces the threat response that otherwise consumes working memory and attention during difficult tasks Cohen & Sherman, 2014. Value-affirmation interventions have improved academic outcomes for students under stereotype threat or identity threat Sherman et al., 2009. However, the strategy is fragile: generic positive self-statements can backfire for learners with low self-esteem, who experience them as unbelievable and contradictory to their self-view Wood, Perunovic, & Lee, 2009. Effective implementation therefore favors process-focused, believable statements over grandiose ones [Process goals outperform outcome goals for novices.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [+M].
 
 ### Context
 #### Requirements
 - Time for learners to identify their own negative self-talk before replacing it — the contrast is what makes the affirmation meaningful
 - Affirmations that are specific, plausible, and tied to effort or process rather than fixed outcomes
-- Regular, repeated use; one-off affirmation activities show weak or no lasting effects [Cohen & Sherman, 2014](https://doi.org/10.1177/1088868314534648) [~M]
+- Regular, repeated use; one-off affirmation activities show weak or no lasting effects Cohen & Sherman, 2014
 - A supportive classroom climate so affirmations do not feel forced or performative
 
 #### Constraints
-- Generic positive self-statements ("I am lovable") can worsen mood and self-evaluation for learners with low self-esteem, who reject them as false [Wood, Perunovic, & Lee, 2009](https://doi.org/10.1177/0956797609363741) [-M]
+- Generic positive self-statements ("I am lovable") can worsen mood and self-evaluation for learners with low self-esteem, who reject them as false Wood, Perunovic, & Lee, 2009
 - Affirmations without accompanying skill-building or [practice](../elements/practice.md) can produce confidence without competence, and the mismatch eventually undermines credibility [-M]
-- Effects are strongest under conditions of threat or adversity; for learners facing no self-relevant threat, affirmation activities add little [Cohen & Sherman, 2014](https://doi.org/10.1177/1088868314534648) [~M]
+- Effects are strongest under conditions of threat or adversity; for learners facing no self-relevant threat, affirmation activities add little Cohen & Sherman, 2014
 - Benefits fade over time without periodic re-administration; single-session interventions show diminishing returns [~M]
 
 #### Implementation Variability
-- **Value affirmations** — learners write about a core personal value (family, creativity, relationships) rather than a self-statement; this is the form with the strongest experimental support [Sherman et al., 2009](https://doi.org/10.1126/science.1166254) [+S]
+- **Value affirmations** — learners write about a core personal value (family, creativity, relationships) rather than a self-statement; this is the form with the strongest experimental support Sherman et al., 2009
 - **Growth-mindset affirmations** — statements emphasizing malleability of ability, often paired with explicit mindset instruction [Blackwell, Trzesniewski, & Dweck, 2007](https://doi.org/10.1111/j.1467-9280.2007.02000.x) [+M]
 - **Written journals vs. oral routines** — writing produces more elaboration; oral group routines are faster but risk insincerity
 - **Embedded prompts** — affirmations delivered just before high-stakes tasks (tests, presentations) rather than as standalone routines
 
 ### Target Learners
-- Students experiencing academic or identity threat, for whom value affirmation buffers performance costs [Sherman et al., 2009](https://doi.org/10.1126/science.1166254) [+S]
+- Students experiencing academic or identity threat, for whom value affirmation buffers performance costs Sherman et al., 2009
 - Learners whose self-efficacy is fragile; affirmations support persistence when paired with genuine skill development [Self-efficacy predicts academic persistence.](../claims/self-efficacy-predicts-academic-persistence.md) [+M]
-- Less suitable, as generic self-statements, for learners with low self-esteem, who may respond negatively [Wood, Perunovic, & Lee, 2009](https://doi.org/10.1177/0956797609363741) [-M]
+- Less suitable, as generic self-statements, for learners with low self-esteem, who may respond negatively Wood, Perunovic, & Lee, 2009
 
 ### Target Learning Goals
 - Affective and motivational goals: self-efficacy, resilience, and willingness to persist through difficulty [Self-efficacy predicts academic persistence.](../claims/self-efficacy-predicts-academic-persistence.md) [+M]
@@ -142,7 +142,7 @@ Affirmations work by protecting a learner's sense of self-integrity, which reduc
 1. **Model the contrast.** Use [direct instruction](../elements/direct-instruction.md) to show what negative self-talk sounds like and how it affects effort and attention.
 2. **Identify negative messages.** Learners reflect individually on recurring negative thoughts, using [individual reflection](../elements/individual-reflection.md) or a journal.
 3. **Craft replacements.** Learners write specific, believable, process-focused affirmations ("I can solve this if I break it into steps") rather than absolute claims.
-4. **Rehearse regularly.** Build a brief daily or pre-task routine; repetition is required for effects to emerge [Cohen & Sherman, 2014](https://doi.org/10.1177/1088868314534648) [+M].
+4. **Rehearse regularly.** Build a brief daily or pre-task routine; repetition is required for effects to emerge Cohen & Sherman, 2014.
 5. **Connect to action.** Pair each affirmation with an immediate learning behavior — attempting the task, using a strategy — so the statement is validated by experience [practice](../elements/practice.md).
 6. **Reflect on impact.** Periodically revisit journals to notice changes in self-talk and persistence.
 

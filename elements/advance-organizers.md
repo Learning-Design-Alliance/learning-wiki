@@ -14,11 +14,9 @@ sources:
     title: "Ausubel, D. P. (1968). *Educational psychology: A cognitive view*. Holt, Rinehart & Winston"
     author: "Ausubel, D. P"
   - id: luiten-1980
-    resource: "https://doi.org/10.3102/000283120170002211"
     title: "Luiten, J., Ames, W., & Ackerson, G. (1980). A meta-analysis of the effects of advance organizers on learning and retention. *American Educational Research Journal, 17*(2), 211–218"
     author: "Luiten, J., Ames, W., & Ackerson, G"
   - id: mayer-1979
-    resource: "https://doi.org/10.3102/00346543049002037"
     title: "Mayer, R. E. (1979). Can advance organizers influence meaningful learning? *Review of Educational Research, 49*(2), 371–383"
     author: "Mayer, R. E"
 ---
@@ -37,7 +35,7 @@ Once attention is secured, the anticipatory set's job is to build a genuine **le
 
 ## Design Implications
 
-Advance organizers improve comprehension and retention by giving learners a subsuming structure, which reduces the working-memory burden of organizing unfamiliar material on the fly [Advance organizers produce small but reliable gains in learning and retention.](https://doi.org/10.3102/000283120170002211) [+M]. They are most effective when they are genuinely more general and inclusive than the learning material itself, and when they bridge to what learners already know rather than merely previewing content. Visual organizers add a second representational channel, supporting encoding of relational structure [Media combinations affect recall and retention.](../claims/media-combinations-affect-recall-and-retention.md) [+M].
+Advance organizers improve comprehension and retention by giving learners a subsuming structure, which reduces the working-memory burden of organizing unfamiliar material on the fly Advance organizers produce small but reliable gains in learning and retention.. They are most effective when they are genuinely more general and inclusive than the learning material itself, and when they bridge to what learners already know rather than merely previewing content. Visual organizers add a second representational channel, supporting encoding of relational structure [Media combinations affect recall and retention.](../claims/media-combinations-affect-recall-and-retention.md) [+M].
 
 ### Context
 #### Requirements
@@ -47,7 +45,7 @@ Advance organizers improve comprehension and retention by giving learners a subs
 - Learner attention already secured (via a psychophysical, emotional, discrepancy, or commanding-stimuli appeal) before the organizer is introduced, since one delivered to a distracted class accomplishes little
 
 #### Constraints
-- Effects are small overall and shrink for rote or discrete-fact learning; organizers help meaningful, conceptually structured content most [Meta-analytic gains are modest and strongest for meaningful verbal learning.](https://doi.org/10.3102/000283120170002211) [~M]
+- Effects are small overall and shrink for rote or discrete-fact learning; organizers help meaningful, conceptually structured content most Meta-analytic gains are modest and strongest for meaningful verbal learning.
 - Learners with strong prior knowledge may find organizers redundant, adding processing without benefit [~W]
 - Poorly designed organizers — too detailed, too abstract, or disconnected from the lesson — can misdirect attention and impose extraneous load [-W]
 - Overly directive organizers can constrain how learners structure open-ended material, reducing exploration [~W]
@@ -61,7 +59,7 @@ Advance organizers improve comprehension and retention by giving learners a subs
 ### Target Learning Goals
 - Conceptual understanding: seeing how ideas relate within a domain
 - Comprehension of complex text or lectures
-- Retention of structured verbal material [Advance organizers improve retention of meaningful material.](https://doi.org/10.3102/000283120170002211) [+M]
+- Retention of structured verbal material Advance organizers improve retention of meaningful material.
 
 ### Affordances
 - [Cognitive Load Theory](../principles/cognitive-load-theory.md) — by supplying the organizational schema in advance, the organizer offloads structure-building from working memory during instruction, letting learners attend to the content itself

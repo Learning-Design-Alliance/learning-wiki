@@ -19,7 +19,7 @@ Writing instructions in bold letters on the chalkboard stating that students who
 
 ## Design Implications
 
-The strategy works through clear expectations and predictable consequences rather than in-the-moment confrontation, which research on classroom management identifies as more effective than reactive discipline [Simonsen et al. found that explicitly stating and consistently enforcing behavioral expectations is among the evidence-based classroom management practices.](https://doi.org/10.1177/1098250707313409) [+M]. Its effectiveness depends almost entirely on consistency and follow-through: a stated consequence that is not enforced teaches students that rules are negotiable [~S]. Because it is a punishment-based approach, it suppresses behavior rather than teaching replacement behavior, and should be paired with reinforcement of on-task behavior [~M].
+The strategy works through clear expectations and predictable consequences rather than in-the-moment confrontation, which research on classroom management identifies as more effective than reactive discipline Simonsen et al. found that explicitly stating and consistently enforcing behavioral expectations is among the evidence-based classroom management practices.. Its effectiveness depends almost entirely on consistency and follow-through: a stated consequence that is not enforced teaches students that rules are negotiable [~S]. Because it is a punishment-based approach, it suppresses behavior rather than teaching replacement behavior, and should be paired with reinforcement of on-task behavior [~M].
 
 ### Context
 #### Requirements

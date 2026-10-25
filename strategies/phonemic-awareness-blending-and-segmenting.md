@@ -29,7 +29,7 @@ Blending and segmenting are the two phonemic awareness skills with the strongest
 - Short, frequent sessions (roughly 10–20 minutes) with many response opportunities per learner
 
 #### Constraints
-- Instruction beyond roughly 20 total hours, or continuing after phonemes are mastered, yields diminishing returns [The National Reading Panel found PA effects diminished with longer training durations.](https://doi.org/10.1023/A:1024194915902) [~S]
+- Instruction beyond roughly 20 total hours, or continuing after phonemes are mastered, yields diminishing returns The National Reading Panel found PA effects diminished with longer training durations.
 - Teaching PA without connecting it to letters and print produces weaker reading outcomes than PA with letter-sound integration [Ehri's review found blending and segmenting instruction produced stronger reading and spelling gains than other PA skills.](https://doi.org/10.1598/RRQ.36.3.2) [~S]
 - Whole-class oral delivery limits individual response rates; learners who do not produce responses aloud often fail to acquire the skill
 - For older struggling readers, PA instruction alone is insufficient — it must be embedded in a full phonics and decoding program [Cognitive overload degrades learning.](../claims/cognitive-overload-degrades-learning.md) [-M]
@@ -41,8 +41,8 @@ Blending and segmenting are the two phonemic awareness skills with the strongest
 - **Digital delivery**: programs such as [Heggerty Phonemic Awareness](https://www.heggerty.org) (daily oral lesson routines) and [Sounds Write](https://www.sounds-write.co.uk) (segmenting-based phonics) structure the sequence and pacing
 
 ### Target Learners
-- Kindergarten and grade 1 students, before or during initial reading instruction [The National Reading Panel found PA instruction significantly improves reading outcomes for young children.](https://doi.org/10.1023/A:1024194915902) [+S]
-- Struggling readers in grades 2–3, as a component of remediation rather than a standalone treatment [The National Reading Panel found PA effects diminished with longer training durations.](https://doi.org/10.1023/A:1024194915902) [~M]
+- Kindergarten and grade 1 students, before or during initial reading instruction The National Reading Panel found PA instruction significantly improves reading outcomes for young children.
+- Struggling readers in grades 2–3, as a component of remediation rather than a standalone treatment The National Reading Panel found PA effects diminished with longer training durations.
 - Less effective as a whole-class approach for learners who have already achieved automatic phonemic manipulation [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [~M]
 
 ### Target Learning Goals

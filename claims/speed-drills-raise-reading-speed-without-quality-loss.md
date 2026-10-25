@@ -9,6 +9,7 @@ generated:
   at: 2026-10-24
 evidence_strength: moderate
 newest_evidence: 1916
+source_checked: 2026-10-25
 sources:
   - id: peters-1916
     resource: "https://doi.org/10.1037/h0073150"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 1916 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1916 · checked against its sources 2026-10-25 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` After seven months of daily speed drills, drill groups read 18.7% faster relative to no-drill groups, with only a trifling loss in quality. [→ Peters 1916](#peters-1916)
@@ -53,3 +54,5 @@ Quasi-experiment in Royersford, Pa. public schools, 1914-15: 207 pupils in grade
 - [The experiment did not confirm that speed increase carries increased reading effectiveness within the same individual](speed-gain-does-not-carry-effectiveness-gain.md) — related
 - [Instructed slow reading ran about 40% below normal rate and rapid reading about 16% below normal time, fairly uniformly across groups except seventh graders](rate-manipulation-magnitude-groups.md) — related
 - [Rate of silent reading rises most rapidly in grades 2, 3 and 4, while quality of silent reading increases at about the same rate throughout the grades.](rate-versus-quality-progress-curves.md) — related
+- [Merely making pupils conscious of the need to change mental set improved silent reading rate while comprehension was checked](consciousness-of-set-change-raises-silent-reading-rate.md) — related
+- [More effective readers are those who vary their reading rate to suit the type of material](rate-flexibility-marks-effective-readers.md) — related

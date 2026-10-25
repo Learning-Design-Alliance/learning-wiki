@@ -19,7 +19,7 @@ This strategy uses fictional characters and narratives — from literature, film
 
 ## Design Implications
 
-Fictional narrative engages the same social-cognitive machinery used to understand real people; readers construct situation models of characters' goals, emotions, and beliefs much as they model real interlocutors [~M]. Well-designed character study supports perspective-taking and empathy, particularly when learners are prompted to imagine how a character feels rather than merely judge what they did [Perspective-taking instructions that focus on the target's feelings increase empathic concern and helping.](https://doi.org/10.1037/0022-3514.73.5.1051) [+S]. The fictional frame lowers defensiveness: learners who might resist direct discussion of bias or conflict will analyze a character's choices, allowing productive [cognitive disequilibrium](../principles/cognitive-disequilibrium.md) without personal threat [~W].
+Fictional narrative engages the same social-cognitive machinery used to understand real people; readers construct situation models of characters' goals, emotions, and beliefs much as they model real interlocutors [~M]. Well-designed character study supports perspective-taking and empathy, particularly when learners are prompted to imagine how a character feels rather than merely judge what they did Perspective-taking instructions that focus on the target's feelings increase empathic concern and helping.. The fictional frame lowers defensiveness: learners who might resist direct discussion of bias or conflict will analyze a character's choices, allowing productive [cognitive disequilibrium](../principles/cognitive-disequilibrium.md) without personal threat [~W].
 
 ### Context
 #### Requirements

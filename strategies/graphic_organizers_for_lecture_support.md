@@ -40,7 +40,7 @@ Graphic organizers exploit the dual-channel capacity of working memory: presenti
 - Benefits shrink for content that is genuinely linear or procedural, where an outline serves as well
 - Organizers impose their own structure; a poorly chosen format (e.g., a hierarchy for content that is really a causal network) can distort understanding [~M]
 - Presenting a complete, dense organizer all at once overloads working memory and encourages copying rather than processing [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [-M]
-- Instructor-provided organizers can produce passive engagement; students who merely view a finished organizer learn less than those who generate or complete one [Stull & Mayer found learner-generated organizers outperform author-provided ones in several comparisons.](https://doi.org/10.1037/0033-2909.133.4.660) [~S]
+- Instructor-provided organizers can produce passive engagement; students who merely view a finished organizer learn less than those who generate or complete one Stull & Mayer found learner-generated organizers outperform author-provided ones in several comparisons.
 - Less suitable for narrative, affective, or highly idiosyncratic content that resists relational structure
 
 #### Implementation Variability
@@ -129,7 +129,7 @@ Graphic organizers exploit the [Dual Coding Theory](../theories/dual-coding-theo
 #### Constraints
 - Organizers impose their own structure; a poorly chosen format (e.g., a hierarchy for content that is really a causal network) can distort understanding [~M]
 - Presenting a complete, dense organizer all at once overloads working memory and encourages copying rather than processing [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [-M]
-- Instructor-provided organizers can produce passive engagement; students who merely view a finished organizer learn less than those who generate or complete one [Stull & Mayer found learner-generated organizers outperform author-provided ones in several comparisons.](https://doi.org/10.1037/0033-2909.133.4.660) [~S]
+- Instructor-provided organizers can produce passive engagement; students who merely view a finished organizer learn less than those who generate or complete one Stull & Mayer found learner-generated organizers outperform author-provided ones in several comparisons.
 - Less suitable for narrative, affective, or highly idiosyncratic content that resists relational structure
 
 #### Implementation Variability

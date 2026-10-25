@@ -92,7 +92,7 @@ Self-Regulated Strategy Development is a structured instructional framework deve
 - Graham, S., & Harris, K. R. (2003). Students with learning disabilities and the process of writing: A meta-analysis of SRSD studies. In L. Swanson, K. R. Harris, & S. Graham (Eds.), *Handbook of Learning Disabilities* (pp. 323–344). Guilford Press.
 - Dignath, C., & Büttner, G. (2008). Components of fostering self-regulated learning among students: A meta-analysis on intervention studies at primary and secondary school level. *Metacognition and Learning, 3*(3), 231-264. [doi:10.1007/s11409-008-9029-x](https://doi.org/10.1007/s11409-008-9029-x)
 - Graham, S., Harris, K. R., & Mason, L. H. (2005). Improving the writing performance, knowledge, and self-efficacy of struggling young writers: The effects of self-regulated strategy development. *Contemporary Educational Psychology, 30*(2), 207–241. [doi:10.1016/j.cedpsych.2004.08.001](https://doi.org/10.1016/j.cedpsych.2004.08.001)
-- De Smul, M., Heirweg, K., Van Keer, H., Devos, G., & Vandevelde, S. (2018). How effective are self- and shared regulation of learning interventions in secondary education classrooms? A meta-analytic review. *Educational Psychology Review, 30*(3), 687–705. [doi:10.1007/s10648-018-9435-x](https://doi.org/10.1007/s10648-018-9435-x)
+- De Smul, M., Heirweg, K., Van Keer, H., Devos, G., & Vandevelde, S. (2018). How effective are self- and shared regulation of learning interventions in secondary education classrooms? A meta-analytic review. *Educational Psychology Review, 30*(3), 687–705.
 - Harris, K. R., & Graham, S. (2009). Self-regulated strategy development in writing: Development, implementation, and future directions. In R. Beard, D. Myhill, M. Nystrand, & J. Riley (Eds.), *The SAGE Handbook of Writing Development* (pp. 371–386). SAGE.
 
 <!-- merged 2026-10-10 from theories/srsd-six-stage-model ("Self-Regulated Strategy Development (SRSD): a six-stage explicit strategy-instruction model with graduated responsibility transfer"), misfiled as a theorie and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
@@ -207,7 +207,7 @@ SRSD is one of the most strongly supported writing interventions available: meta
 - Students in grades 2–12 across ability levels benefit, though effect sizes are largest for younger and lower-achieving writers [+M]
 - Students who lack strategic persistence benefit from the self-regulation component, which builds task engagement and ownership [autonomy-supports-intrinsic-motivation](../claims/autonomy-supports-intrinsic-motivation.md) [+M]
 - Advanced writers may find fully scripted strategies constraining; instruction should emphasize flexible, selective strategy use [~W]
-- Students with learning disabilities and struggling writers, who show the largest gains [Strategy instruction with self-regulation components improves writing outcomes.](https://doi.org/10.1080/00461520.2018.1481404) [+S]
+- Students with learning disabilities and struggling writers, who show the largest gains Strategy instruction with self-regulation components improves writing outcomes.
 - Learners who attempt tasks impulsively or give up quickly, lacking monitoring and persistence routines
 - Average-achieving learners also benefit, though effects are smaller; high-achieving learners who already self-regulate may find the prescribed stages redundant [~M]
 
@@ -259,7 +259,7 @@ SRSD is one of the most strongly supported writing interventions available: meta
 - Graham, S., & Harris, K. R. (2003). Students with learning disabilities and the process of writing: A meta-analysis of SRSD studies. In L. Swanson, K. R. Harris, & S. Graham (Eds.), *Handbook of Learning Disabilities* (pp. 323–344). Guilford Press.
 - Dignath, C., & Büttner, G. (2008). Components of fostering self-regulated learning among students: A meta-analysis on intervention studies at primary and secondary school level. *Metacognition and Learning, 3*(3), 231-264. [doi:10.1007/s11409-008-9029-x](https://doi.org/10.1007/s11409-008-9029-x)
 - Graham, S., Harris, K. R., & Mason, L. H. (2005). Improving the writing performance, knowledge, and self-efficacy of struggling young writers: The effects of self-regulated strategy development. *Contemporary Educational Psychology, 30*(2), 207–241. [doi:10.1016/j.cedpsych.2004.08.001](https://doi.org/10.1016/j.cedpsych.2004.08.001)
-- De Smul, M., Heirweg, K., Van Keer, H., Devos, G., & Vandevelde, S. (2018). How effective are self- and shared regulation of learning interventions in secondary education classrooms? A meta-analytic review. *Educational Psychology Review, 30*(3), 687–705. [doi:10.1007/s10648-018-9435-x](https://doi.org/10.1007/s10648-018-9435-x)
+- De Smul, M., Heirweg, K., Van Keer, H., Devos, G., & Vandevelde, S. (2018). How effective are self- and shared regulation of learning interventions in secondary education classrooms? A meta-analytic review. *Educational Psychology Review, 30*(3), 687–705.
 - Harris, K. R., & Graham, S. (2009). Self-regulated strategy development in writing: Development, implementation, and future directions. In R. Beard, D. Myhill, M. Nystrand, & J. Riley (Eds.), *The SAGE Handbook of Writing Development* (pp. 371–386). SAGE.
 
 <!- - merged 2026-10-13 from strategies/srsd-self-regulated-strategy-development ("SRSD (Self-Regulated Strategy Development)"),  a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
@@ -346,7 +346,7 @@ SRSD (Graham & Harris) teaches learners a concrete academic strategy—most comm
 
 ## Design Implications
 
-SRSD rests on the premise that struggling learners often fail not because they lack ability but because they lack both a strategy and the metacognitive machinery to deploy it persistently. Meta-analyses show large effects on writing quality and strategy maintenance, particularly when self-regulation components are included rather than strategy steps alone [Strategy instruction with self-regulation components improves writing outcomes.](https://doi.org/10.1080/00461520.2018.1481404) [+S]. The modeling stage is where self-regulation becomes visible: instructors use [Think-Aloud](../elements/think-aloud.md) to verbalize not only the strategy steps but also the self-statements ("Okay, this part is hard—slow down and check my plan") that regulate effort and emotion.
+SRSD rests on the premise that struggling learners often fail not because they lack ability but because they lack both a strategy and the metacognitive machinery to deploy it persistently. Meta-analyses show large effects on writing quality and strategy maintenance, particularly when self-regulation components are included rather than strategy steps alone Strategy instruction with self-regulation components improves writing outcomes.. The modeling stage is where self-regulation becomes visible: instructors use [Think-Aloud](../elements/think-aloud.md) to verbalize not only the strategy steps but also the self-statements ("Okay, this part is hard—slow down and check my plan") that regulate effort and emotion.
 
 ### Context
 #### Requirements
@@ -368,7 +368,7 @@ SRSD rests on the premise that struggling learners often fail not because they l
 - Self-monitoring can target products (word counts, plan completeness) or processes (time on task, use of steps); product-based monitoring is often easier for younger learners to sustain
 
 ### Target Learners
-- Students with learning disabilities and struggling writers, who show the largest gains [Strategy instruction with self-regulation components improves writing outcomes.](https://doi.org/10.1080/00461520.2018.1481404) [+S]
+- Students with learning disabilities and struggling writers, who show the largest gains Strategy instruction with self-regulation components improves writing outcomes.
 - Learners who attempt tasks impulsively or give up quickly, lacking monitoring and persistence routines
 - Average-achieving learners also benefit, though effects are smaller; high-achieving learners who already self-regulate may find the prescribed stages redundant [~M]
 
@@ -401,7 +401,7 @@ SRSD rests on the premise that struggling learners often fail not because they l
 - Graham, S., & Harris, K. R. (2003). Students with learning disabilities and the process of writing: A meta-analysis of SRSD studies. In L. Swanson, K. R. Harris, & S. Graham (Eds.), *Handbook of Learning Disabilities* (pp. 323–344). Guilford Press.
 - Dignath, C., & Büttner, G. (2008). Components of fostering self-regulated learning among students: A meta-analysis on intervention studies at primary and secondary school level. *Metacognition and Learning, 3*(3), 231-264. [doi:10.1007/s11409-008-9029-x](https://doi.org/10.1007/s11409-008-9029-x)
 - Graham, S., Harris, K. R., & Mason, L. H. (2005). Improving the writing performance, knowledge, and self-efficacy of struggling young writers: The effects of self-regulated strategy development. *Contemporary Educational Psychology, 30*(2), 207–241. [doi:10.1016/j.cedpsych.2004.08.001](https://doi.org/10.1016/j.cedpsych.2004.08.001)
-- De Smul, M., Heirweg, K., Van Keer, H., Devos, G., & Vandevelde, S. (2018). How effective are self- and shared regulation of learning interventions in secondary education classrooms? A meta-analytic review. *Educational Psychology Review, 30*(3), 687–705. [doi:10.1007/s10648-018-9435-x](https://doi.org/10.1007/s10648-018-9435-x)
+- De Smul, M., Heirweg, K., Van Keer, H., Devos, G., & Vandevelde, S. (2018). How effective are self- and shared regulation of learning interventions in secondary education classrooms? A meta-analytic review. *Educational Psychology Review, 30*(3), 687–705.
 - Harris, K. R., & Graham, S. (2009). Self-regulated strategy development in writing: Development, implementation, and future directions. In R. Beard, D. Myhill, M. Nystrand, & J. Riley (Eds.), *The SAGE Handbook of Writing Development* (pp. 371–386). SAGE.
 - ->
 -->

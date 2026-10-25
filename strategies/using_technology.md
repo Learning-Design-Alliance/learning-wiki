@@ -19,7 +19,7 @@ Using technology as a strategy means deliberately selecting and integrating digi
 
 ## Design Implications
 
-Meta-analyses consistently find that technology-mediated instruction produces learning gains comparable to or modestly better than traditional instruction, but the effect is driven by pedagogy and content, not the medium [Technology's effect on learning is small and depends on pedagogy, not the medium.](https://doi.org/10.3102/0034654311417738) [~M]. Multimedia design matters: presenting words with relevant images, managing extraneous load, and segmenting content improves learning relative to poorly designed presentations [Multimedia learning is improved by coherence, signaling, redundancy, and segmentation principles.](https://doi.org/10.1017/CBO9780511811678) [+S]. Technology is most valuable when it enables something otherwise difficult — visualization of dynamic processes, immediate feedback at scale, adaptive pacing, or collaboration across distance.
+Meta-analyses consistently find that technology-mediated instruction produces learning gains comparable to or modestly better than traditional instruction, but the effect is driven by pedagogy and content, not the medium Technology's effect on learning is small and depends on pedagogy, not the medium.. Multimedia design matters: presenting words with relevant images, managing extraneous load, and segmenting content improves learning relative to poorly designed presentations [Multimedia learning is improved by coherence, signaling, redundancy, and segmentation principles.](https://doi.org/10.1017/CBO9780511811678) [+S]. Technology is most valuable when it enables something otherwise difficult — visualization of dynamic processes, immediate feedback at scale, adaptive pacing, or collaboration across distance.
 
 ### Context
 #### Requirements
@@ -29,7 +29,7 @@ Meta-analyses consistently find that technology-mediated instruction produces le
 - A mechanism for learners to act on content — [Practice](../elements/practice.md), [Assessment](../elements/assessment.md), or production tasks — rather than passive consumption
 
 #### Constraints
-- Technology used as a content-delivery channel alone (e.g., lecture capture without interaction) yields minimal gains [Technology's effect on learning is small and depends on pedagogy, not the medium.](https://doi.org/10.3102/0034654311417738) [~M]
+- Technology used as a content-delivery channel alone (e.g., lecture capture without interaction) yields minimal gains Technology's effect on learning is small and depends on pedagogy, not the medium.
 - Decorative media, gratuitous animation, and seductive details depress learning by adding extraneous load [Decorative illustrations do not improve learning.](../claims/seductive-details-effect.md) [-S]
 - Redundant on-screen text read aloud verbatim impairs learning compared with narration alone [Multimedia learning is improved by coherence, signaling, redundancy, and segmentation principles.](https://doi.org/10.1017/CBO9780511811678) [-S]
 - High learner autonomy in open-ended digital environments can overload novices; guidance matters more as prior knowledge decreases [Guidance benefits reverse as learner expertise grows.](../claims/expertise-reversal-effect.md) [~M]

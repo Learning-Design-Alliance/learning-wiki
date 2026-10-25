@@ -48,3 +48,4 @@ Reliability substudy: 34 specimens taken at random from the collection were grad
 - [Grading of handwriting samples with the Ayres scale by a single judge shows steady improvement across grades, with dips at 5B and 8A](ayres-scale-grade-progression-handwriting.md) — related
 - [Automated judging aligns strongly with three domain experts (r = 0.82 for role fidelity) but exhibits a conservative bias, scoring ethical deviation 0.08 points lower than humans](automated-judge-human-alignment-conservative-bias.md) — related
 - [AI grading of the exam is highly stable across five independent runs at the total-score level (ICC(A,1) = 0.967), with lower but still strong cell-level stability (ICC(A,1) = 0.836)](ai-grading-run-to-run-reliability-icc.md) — related
+- [The Hillegas Scale does not raise average interjudge correlations (average r of .48 without and .46 with the scale)](hillegas-scale-no-interjudge-correlation-gain.md) — related

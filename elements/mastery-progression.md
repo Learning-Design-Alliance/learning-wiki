@@ -76,7 +76,7 @@ Mastery gating strengthens retention and skill acquisition by ensuring learners 
 
 **[Duolingo](https://www.duolingo.com)** — Lessons unlock sequentially; crowns and checkpoint reviews gate advancement on demonstrated skill, with spaced review of mastered material.
 
-**[Bloom's "Learning for Mastery"](https://doi.org/10.3102/00346543060003265)** — The original classroom implementation: unit-by-unit formative assessment with corrective instruction and parallel summative forms before advancing.
+**[Bloom's "Learning for Mastery"](https://doi.org/10.1207/s15326985ep2603&4_2)** — The original classroom implementation: unit-by-unit formative assessment with corrective instruction and parallel summative forms before advancing.
 
 **[Teach to One](https://teachtoone.org)** — A K–12 math program that sequences each student's daily learning based on demonstrated mastery of prerequisite skills.
 - [Increase the use of feedback and correctives through mastery learning procedures](../strategies/formative-tests-with-corrective-feedback.md)

@@ -51,3 +51,4 @@ Semi-structured interview data from AdLab students at the 10-week point. Tom's q
 - [In a qualitative pilot with 10 speech-language pathology graduate students, most felt the Simucase assessment cases lacked authenticity because they included too few behavioral modifications](simucase-lacks-behavioral-authenticity.md) — related
 - [Each form of accountability can produce favorable or unfavorable effects](each-accountability-form-favorable-or-unfavorable-effects.md) — a broader claim this one bears on
 - [Students avoided metaphorical visualizations they perceived as childish or insufficiently rigorous, signaling disciplinary legitimacy concerns even when the tools could help them](legitimacy-disciplinary-identity-resistance.md) — related
+- [High-school teachers favor laboratory tests in physics entrance examinations more than college physicists do](hall-1910-laboratory-entrance-test-split.md) — related

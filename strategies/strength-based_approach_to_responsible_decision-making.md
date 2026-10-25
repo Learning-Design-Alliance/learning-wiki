@@ -20,7 +20,7 @@ This approach begins by identifying what a student already does well — sociall
 
 ## Design Implications
 
-Strength-based framing draws on positive psychology, which holds that building on existing capacities is more motivating and durable than deficit-focused correction [Seligman & Csikszentmihalyi's founding argument for positive psychology.](https://doi.org/10.1037/0003-066X.55.1.5) [+M]. It also aligns with evidence that social-emotional learning programs improve attitudes and behavior when instruction is sequenced, active, and focused on developing capabilities rather than suppressing problems [SEL meta-analysis of 213 school-based programs.](https://doi.org/10.1111/j.1467-8624.2010.01564) [+S]. Practically, the educator must first diagnose strengths accurately, then select scenarios that let the student apply a strength (e.g., strong empathy, analytical skill, leadership) to a decision-making challenge that stretches them.
+Strength-based framing draws on positive psychology, which holds that building on existing capacities is more motivating and durable than deficit-focused correction [Seligman & Csikszentmihalyi's founding argument for positive psychology.](https://doi.org/10.1037/0003-066X.55.1.5) [+M]. It also aligns with evidence that social-emotional learning programs improve attitudes and behavior when instruction is sequenced, active, and focused on developing capabilities rather than suppressing problems SEL meta-analysis of 213 school-based programs.. Practically, the educator must first diagnose strengths accurately, then select scenarios that let the student apply a strength (e.g., strong empathy, analytical skill, leadership) to a decision-making challenge that stretches them.
 
 ### Context
 #### Requirements

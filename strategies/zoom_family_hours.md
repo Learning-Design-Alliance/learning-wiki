@@ -19,7 +19,7 @@ Zoom Family Hours are scheduled, recurring video-conference sessions — typical
 
 ## Design Implications
 
-Family engagement is consistently associated with student achievement, but the mechanism matters: involvement is most powerful when families feel invited, efficacious, and connected to the school's work rather than merely monitored [Hoover-Dempsey & Sandler's model of parental involvement.](https://doi.org/10.3102/00346543065003307) [+M]. Drop-in video hours enact that invitation by making contact voluntary, informal, and on the family's terms. Meta-analytic evidence links overall family involvement to academic outcomes across grade levels [Jeynes, 2007 meta-analysis of parental involvement and student achievement.](https://doi.org/10.1080/10888690701608006) [+M], though the strongest effects come from engagement with learning itself (discussing schoolwork, expectations) rather than attendance at events alone [~M].
+Family engagement is consistently associated with student achievement, but the mechanism matters: involvement is most powerful when families feel invited, efficacious, and connected to the school's work rather than merely monitored Hoover-Dempsey & Sandler's model of parental involvement.. Drop-in video hours enact that invitation by making contact voluntary, informal, and on the family's terms. Meta-analytic evidence links overall family involvement to academic outcomes across grade levels Jeynes, 2007 meta-analysis of parental involvement and student achievement., though the strongest effects come from engagement with learning itself (discussing schoolwork, expectations) rather than attendance at events alone [~M].
 
 ### Context
 #### Requirements
@@ -47,7 +47,7 @@ Family engagement is consistently associated with student achievement, but the m
 - Teachers themselves, who gain earlier awareness of home circumstances affecting learning
 
 ### Target Learning Goals
-- Improved home–school communication and trust, a precondition for family engagement to influence student outcomes [Hoover-Dempsey & Sandler's model of parental involvement.](https://doi.org/10.3102/00346543065003307) [+M]
+- Improved home–school communication and trust, a precondition for family engagement to influence student outcomes Hoover-Dempsey & Sandler's model of parental involvement.
 - Increased family self-efficacy in supporting learning at home — which connects to student persistence, since family and student efficacy beliefs predict academic persistence [Self-efficacy predicts academic persistence.](../claims/self-efficacy-predicts-academic-persistence.md) [+M]
 - Earlier identification of academic, social-emotional, or access issues before they escalate
 

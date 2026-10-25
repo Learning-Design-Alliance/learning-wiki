@@ -70,6 +70,6 @@ Same quasi-experimental pre-post sample; the nonspatial-trial subset of the Reas
 - [The spatial curriculum produced longitudinal neural changes during reasoning: increased aIPS activity, increased SpatialMap-to-DLPFC connectivity, and increased nonspatial-to-spatial representational similarity](spatial-curriculum-neural-changes-reasoning.md) — related
 - [Improvement in spatial scanning predicts and mediates the curriculum's transfer effect to verbal reasoning](spatial-gains-predict-mediate-verbal-transfer.md) — related
 - [Neural change during spatial scanning predicts verbal reasoning transfer better than traditional performance-based assessments, and best prediction combines both](neural-change-outpredicts-traditional-assessments.md) — related
-- [Inquiry tasks in the Holt Earth Science curriculum rely mainly on inductive and abductive methods, with deductive reasoning used least](holt-earth-science-induction-abduction-dominate.md) — related
+- Inquiry tasks in the Holt Earth Science curriculum rely mainly on inductive and abductive methods, with deductive reasoning used least — related
 - [Spatial Training Improves Math Performance](spatial-training-improves-math-performance.md) — a broader claim this one bears on
 - [Longitudinal evidence shows spatial ability predicts STEM educational and occupational outcomes beyond mathematical and verbal ability](spatial-ability-longitudinal-stem-prediction.md) — related

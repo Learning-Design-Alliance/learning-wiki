@@ -19,7 +19,7 @@ Valuing the learning process means structuring instruction, feedback, and evalua
 
 ## Design Implications
 
-Mastery-oriented classroom climates produce higher engagement, persistence after difficulty, and deeper strategy use than performance-oriented climates [Ames, 1992](https://doi.org/10.1037/0003-066x.47.8.1024) [+S]. When evaluation emphasizes progress and understanding rather than ability ranking, learners are more willing to attempt challenging tasks and to treat errors as information rather than as verdicts on their worth [Butler, 1988](https://doi.org/10.1037/0022-0663.80.4.514) [+M]. Autonomy-supportive framing — offering choice and rationale rather than controlling evaluation — sustains intrinsic motivation that grades alone tend to undermine [Autonomy supports intrinsic motivation.](../claims/autonomy-supports-intrinsic-motivation.md) [+S].
+Mastery-oriented classroom climates produce higher engagement, persistence after difficulty, and deeper strategy use than performance-oriented climates Ames, 1992. When evaluation emphasizes progress and understanding rather than ability ranking, learners are more willing to attempt challenging tasks and to treat errors as information rather than as verdicts on their worth [Butler, 1988](https://doi.org/10.1037/0022-0663.80.4.514) [+M]. Autonomy-supportive framing — offering choice and rationale rather than controlling evaluation — sustains intrinsic motivation that grades alone tend to undermine [Autonomy supports intrinsic motivation.](../claims/autonomy-supports-intrinsic-motivation.md) [+S].
 
 ### Context
 #### Requirements

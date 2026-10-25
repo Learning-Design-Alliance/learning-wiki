@@ -19,7 +19,7 @@ Calming strategy cards are small, portable prompts (illustrated or written) that
 
 ## Design Implications
 
-The strategy works by offloading regulation onto an external cue at precisely the moment when working memory and inhibitory control are compromised by arousal [Executive functions are acutely vulnerable to stress and emotional arousal.](https://doi.org/10.1146/annurev-psych-113011-143750) [~M]. Because the cards are only prompts, their effectiveness depends on prior rehearsal: strategies practiced during calm, low-arousal states are far more likely to be retrieved and executed during escalation than strategies merely discussed [Social-emotional learning programs that include practice and feedback improve emotional regulation outcomes.](https://doi.org/10.1111/j.1467-8624.2010.01564) [+S]. Learner choice among strategies matters — autonomy over which coping strategy to adopt supports motivation to actually use it [Autonomy supports intrinsic motivation.](../claims/autonomy-supports-intrinsic-motivation.md) [+S].
+The strategy works by offloading regulation onto an external cue at precisely the moment when working memory and inhibitory control are compromised by arousal [Executive functions are acutely vulnerable to stress and emotional arousal.](https://doi.org/10.1146/annurev-psych-113011-143750) [~M]. Because the cards are only prompts, their effectiveness depends on prior rehearsal: strategies practiced during calm, low-arousal states are far more likely to be retrieved and executed during escalation than strategies merely discussed Social-emotional learning programs that include practice and feedback improve emotional regulation outcomes.. Learner choice among strategies matters — autonomy over which coping strategy to adopt supports motivation to actually use it [Autonomy supports intrinsic motivation.](../claims/autonomy-supports-intrinsic-motivation.md) [+S].
 
 ### Context
 #### Requirements
@@ -41,7 +41,7 @@ The strategy works by offloading regulation onto an external cue at precisely th
 - Blank cards let learners add idiosyncratic strategies, increasing ownership and fit
 
 ### Target Learners
-- Children in early and middle childhood, when explicit emotion-regulation instruction has the strongest preventive effects [Universal SEL programs produce measurable gains in emotional regulation and behavior.](https://doi.org/10.1111/j.1467-8624.2010.01564) [+S]
+- Children in early and middle childhood, when explicit emotion-regulation instruction has the strongest preventive effects Universal SEL programs produce measurable gains in emotional regulation and behavior.
 - Learners with emotional and behavioral disorders, ADHD, or anxiety who need external structure for self-regulation [Self-monitoring improves self-regulation.](../claims/self-monitoring-improves-self-regulation.md) [+M]
 - Less effective as a standalone support for learners whose escalation is driven by unaddressed environmental triggers (e.g., sensory overload, academic frustration) [~M]
 

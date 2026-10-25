@@ -13,7 +13,6 @@ sources:
     title: "Beck, I. L., McKeown, M. G., & Kucan, L. (2013). *Bringing Words to Life: Robust Vocabulary Instruction* (2nd ed.). Guilford Press"
     author: "Beck, I. L., McKeown, M. G., & Kucan, L"
   - id: stahl-1986
-    resource: "https://doi.org/10.3102/00346543056002223"
     title: "Stahl, S. A., & Fairbanks, M. M. (1986). The effects of vocabulary instruction: A model-based meta-analysis. *Review of Educational Research, 56*(1), 71–110"
     author: "Stahl, S. A., & Fairbanks, M. M"
   - id: nagy-2012
@@ -32,7 +31,7 @@ This strategy categorizes candidate vocabulary words into three tiers to priorit
 
 ## Design Implications
 
-Because instructional time and working memory are limited, word selection is the highest-leverage decision in vocabulary instruction: a meta-analysis found vocabulary instruction improves comprehension mainly when it targets words that actually appear in the texts learners must read [Stahl & Fairbanks, 1986](https://doi.org/10.3102/00346543056002223) [+M]. Tiering converts an unbounded word list into a prioritized, teachable set, and learner self-ratings add a metacognitive layer that surfaces gaps the instructor would otherwise miss [~W].
+Because instructional time and working memory are limited, word selection is the highest-leverage decision in vocabulary instruction: a meta-analysis found vocabulary instruction improves comprehension mainly when it targets words that actually appear in the texts learners must read Stahl & Fairbanks, 1986. Tiering converts an unbounded word list into a prioritized, teachable set, and learner self-ratings add a metacognitive layer that surfaces gaps the instructor would otherwise miss [~W].
 
 ### Context
 #### Requirements
@@ -43,7 +42,7 @@ Because instructional time and working memory are limited, word selection is the
 
 #### Constraints
 - Tier boundaries are judgment calls; some words straddle tiers, and misclassifying a high-utility word as Tier 3 removes it from instruction [-W]
-- Selecting too many words dilutes instruction; depth of processing for a few words beats shallow exposure to many [Stahl & Fairbanks, 1986](https://doi.org/10.3102/00346543056002223) [-M]
+- Selecting too many words dilutes instruction; depth of processing for a few words beats shallow exposure to many Stahl & Fairbanks, 1986
 - Learner self-ratings can be inflated by partial familiarity (recognizing a word without knowing its meaning) [~W]
 - Over-reliance on Tier 3 word lists can reduce vocabulary work to memorizing definitions for a test, which transfers poorly [~M]
 

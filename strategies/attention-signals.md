@@ -20,7 +20,7 @@ Attention signals are techniques used by instructors to regain focus and quiet a
 
 ## Design Implications
 
-Attention signals function as a conditioned cue: through repeated pairing, a neutral stimulus acquires the power to interrupt activity and redirect attention [Behaviorism](../theories/behaviorism.md) [+M]. Their value lies in protecting instructional time — transitions and refocusing moments are where disruption concentrates, and a reliable signal compresses what would otherwise be an extended negotiation into seconds [Simonsen et al. identify teacher praise, routines, and structured transitions among the evidence-based classroom management practices.](https://doi.org/10.1080/10474410701414629) [+M]. A signal also reduces cognitive load during transitions by replacing ambiguous social inference ("is it my turn to talk?") with a single unambiguous cue [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M].
+Attention signals function as a conditioned cue: through repeated pairing, a neutral stimulus acquires the power to interrupt activity and redirect attention [Behaviorism](../theories/behaviorism.md) [+M]. Their value lies in protecting instructional time — transitions and refocusing moments are where disruption concentrates, and a reliable signal compresses what would otherwise be an extended negotiation into seconds Simonsen et al. identify teacher praise, routines, and structured transitions among the evidence-based classroom management practices.. A signal also reduces cognitive load during transitions by replacing ambiguous social inference ("is it my turn to talk?") with a single unambiguous cue [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M].
 
 ### Context
 #### Requirements
@@ -112,7 +112,7 @@ Attention signals are techniques used by instructors to regain focus and quiet a
 
 ## Design Implications
 
-Attention signals function as conditioned cues: their power comes from pairing a consistent stimulus with a consistently reinforced response, a direct application of [Behaviorism](../theories/behaviorism.md) [+M]. Because they protect instructional time and reduce the need for repeated verbal redirection, they are a core component of evidence-based classroom management practice [Simonsen et al.'s review identifies opportunities to respond and efficient transitions as evidence-based management practices](https://doi.org/10.1177/1098250708316259) [+M]. A signal only works if learners know exactly what to do when they hear it — the routine, not the cue itself, carries the effect.
+Attention signals function as conditioned cues: their power comes from pairing a consistent stimulus with a consistently reinforced response, a direct application of [Behaviorism](../theories/behaviorism.md) [+M]. Because they protect instructional time and reduce the need for repeated verbal redirection, they are a core component of evidence-based classroom management practice Simonsen et al.'s review identifies opportunities to respond and efficient transitions as evidence-based management practices. A signal only works if learners know exactly what to do when they hear it — the routine, not the cue itself, carries the effect.
 
 ### Context
 #### Requirements

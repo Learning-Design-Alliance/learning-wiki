@@ -19,7 +19,7 @@ Active transitions replace dead time between instructional segments (entering cl
 
 ## Design Implications
 
-Transitions are a recurring source of lost instructional time and off-task behavior; structuring them converts that loss into retrieval practice and re-engagement [Classroom-based physical activity improves on-task behavior and aspects of academic performance.](https://doi.org/10.1249/01.mss.0000193569.07869.14) [+M]. Because transitions recur many times per session, small gains compound: a 90-second recall prompt at each transition can add substantial distributed retrieval across a lesson [Retrieval practice produces durable learning gains.](../claims/retrieval-practice-improves-retention.md) [+S]. Physical movement during transitions also supports subsequent attention, particularly for younger learners [Physical activity breaks improve subsequent on-task behavior.](https://doi.org/10.1249/01.mss.0000193569.07869.14) [+M].
+Transitions are a recurring source of lost instructional time and off-task behavior; structuring them converts that loss into retrieval practice and re-engagement Classroom-based physical activity improves on-task behavior and aspects of academic performance.. Because transitions recur many times per session, small gains compound: a 90-second recall prompt at each transition can add substantial distributed retrieval across a lesson [Retrieval practice produces durable learning gains.](../claims/retrieval-practice-improves-retention.md) [+S]. Physical movement during transitions also supports subsequent attention, particularly for younger learners Physical activity breaks improve subsequent on-task behavior..
 
 ### Context
 #### Requirements
@@ -40,7 +40,7 @@ Transitions are a recurring source of lost instructional time and off-task behav
 
 ### Target Learners
 - K–12 learners, where transition management consumes the largest share of instructional time [+M]
-- Young learners and learners with attention difficulties, who benefit most from movement breaks and predictable routines [Physical activity breaks improve subsequent on-task behavior.](https://doi.org/10.1249/01.mss.0000193569.07869.14) [+M]
+- Young learners and learners with attention difficulties, who benefit most from movement breaks and predictable routines Physical activity breaks improve subsequent on-task behavior.
 - Adult learners benefit mainly from the cognitive variants (recall prompts, anticipation questions); movement breaks matter less [~W]
 
 ### Target Learning Goals

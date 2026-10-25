@@ -19,7 +19,7 @@ Short physical math games and movement breaks are inserted into lessons when lea
 
 ## Design Implications
 
-Brief bouts of physical activity during academic time are associated with improved attention and on-task behavior in children [Hillman et al. found acute exercise improves executive attention in children.](https://doi.org/10.1073/pnas.0812640106) [+M], and embedding activity into academic content preserves instructional time rather than competing with it [Donnelly & Lambourne found classroom-based physical activity supports or improves achievement.](https://doi.org/10.1016/j.jsams.2011.02.007) [+M]. The math content in the game should be retrieval practice for recently taught material, not new instruction — the break refreshes attention while the game itself strengthens recall [Active learning improves exam performance relative to lecture alone.](../claims/active-learning-improves-exam-performance.md) [+S].
+Brief bouts of physical activity during academic time are associated with improved attention and on-task behavior in children Hillman et al. found acute exercise improves executive attention in children., and embedding activity into academic content preserves instructional time rather than competing with it [Donnelly & Lambourne found classroom-based physical activity supports or improves achievement.](https://doi.org/10.1016/j.jsams.2011.02.007) [+M]. The math content in the game should be retrieval practice for recently taught material, not new instruction — the break refreshes attention while the game itself strengthens recall [Active learning improves exam performance relative to lecture alone.](../claims/active-learning-improves-exam-performance.md) [+S].
 
 ### Context
 #### Requirements
@@ -42,7 +42,7 @@ Brief bouts of physical activity during academic time are associated with improv
 - Games can be adapted by students themselves, adding ownership and variation
 
 ### Target Learners
-- K–4 students, whose attention spans and developmental need for movement make seated instruction for long blocks counterproductive [Hillman et al. found acute exercise improves executive attention in children.](https://doi.org/10.1073/pnas.0812640106) [+M]
+- K–4 students, whose attention spans and developmental need for movement make seated instruction for long blocks counterproductive Hillman et al. found acute exercise improves executive attention in children.
 - Restless or low-attention learners, for whom the break is a regulation tool as much as a learning activity
 - Learners building fluency with basic facts, who benefit from repeated low-stakes retrieval [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+S]
 - Less suited to older learners working on complex multi-step problems, where the interruption costs more than the refresh gains [~W]

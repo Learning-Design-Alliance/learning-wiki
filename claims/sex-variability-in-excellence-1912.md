@@ -52,3 +52,4 @@ Analysis of the sex of pupils ranked first, second and third, and last three, in
 - [In this group the average girl's grades equal or exceed the average boy's in all six subjects, with the largest advantage in Latin](girl-boy-average-grade-comparison-1912.md) — reports the opposite
 - [The mathematics sex difference is practically non-existent among low performers and largest among high performers, where boys outnumber girls up to 2.7:1 above the 99th percentile](math-sex-difference-concentrated-at-high-end.md) — related
 - [Starch's arithmetic scale shows decided grade-to-grade overlap: about 33% of any grade reach or exceed the median of the grade above, with a strong sex difference favoring boys](starch-arithmetic-scale-overlap-sex-difference.md) — related
+- [Sex differences in arithmetic work are slight: girls do about 4% more work and make about 4% fewer errors than boys, but boys lead in the eighth grade](sex-differences-slight-arithmetic.md) — related

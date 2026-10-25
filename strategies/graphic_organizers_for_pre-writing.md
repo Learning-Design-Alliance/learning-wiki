@@ -18,7 +18,6 @@ sources:
     title: "Stull, A. T., & Mayer, R. E. (2007). Learning by doing versus learning by viewing: Three experimental comparisons of learner-generated versus author-provided graphic organizers. *Journal of Educational Psychology, 99*(4), 808–820"
     author: "Stull, A. T., & Mayer, R. E"
   - id: graham-perin-2007
-    resource: "https://doi.org/10.1037/0033-2909.133.2.276"
     title: "Graham, S., & Perin, D. (2007). A meta-analysis of writing instruction for adolescent students. *Journal of Educational Psychology, 99*(3), 445–476"
     author: "Graham, S., & Perin, D"
 ---
@@ -33,7 +32,7 @@ Students use a visual planning tool — a mind map, outline, story map, T-chart,
 
 ## Design Implications
 
-Planning is the writing subprocess that most strongly distinguishes skilled from unskilled writers, and explicit planning instruction is among the best-supported writing interventions [A meta-analysis of writing instruction for adolescent students.](https://doi.org/10.3102/00346543074004487) [+S]. Graphic organizers reduce extraneous load during composition by holding the emerging plan outside working memory [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M], and their spatial, relational format adds a second representation of the content [Dual coding improves recall.](../claims/dual-coding-improves-learning.md) [+M]. Effects on text quality are strongest when the organizer matches the rhetorical structure of the target genre and when students are taught how to use it — an unexplained template is just an empty box.
+Planning is the writing subprocess that most strongly distinguishes skilled from unskilled writers, and explicit planning instruction is among the best-supported writing interventions A meta-analysis of writing instruction for adolescent students.. Graphic organizers reduce extraneous load during composition by holding the emerging plan outside working memory [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M], and their spatial, relational format adds a second representation of the content [Dual coding improves recall.](../claims/dual-coding-improves-learning.md) [+M]. Effects on text quality are strongest when the organizer matches the rhetorical structure of the target genre and when students are taught how to use it — an unexplained template is just an empty box.
 
 ### Context
 #### Requirements
@@ -52,7 +51,7 @@ Planning is the writing subprocess that most strongly distinguishes skilled from
 - For short or highly familiar writing tasks, the organizer adds steps without adding value [~W]
 - Filling in a teacher-provided organizer is low-yield; learners learn from *generating* the structure and links, not from transcribing into boxes [Learner-generated organizers outperform author-provided organizers.](https://doi.org/10.1037/0022-0663.99.4.808) [-S]
 - Over-scaffolding can produce formulaic writing that follows the template rather than the ideas; fade the organizer as writers develop [Fading support promotes transfer of responsibility.](../claims/fading-support-promotes-transfer-of-responsibility.md) [+M]
-- Organizers consume time that competes with drafting and revision; for fluent writers the planning aid may add little [Graham & Perin's meta-analysis of adolescent writing instruction.](https://doi.org/10.1037/0033-2909.133.2.276) [~M]
+- Organizers consume time that competes with drafting and revision; for fluent writers the planning aid may add little Graham & Perin's meta-analysis of adolescent writing instruction.
 - A mismatch between organizer structure and genre (e.g., a five-paragraph frame for an open narrative) constrains thinking rather than supporting it
 
 #### Implementation Variability
@@ -70,9 +69,9 @@ Planning is the writing subprocess that most strongly distinguishes skilled from
 - Students with learning disabilities or ADHD, for whom external structure compensates for executive-function demands [+M]
 - English learners, who benefit from the reduced language load of phrase-level planning [~M]
 - Proficient writers may find mandatory organizers constraining; allow them to plan in their own format [~W]
-- Novice and struggling writers, who benefit most from externalizing planning [Graham & Perin's meta-analysis of adolescent writing instruction.](https://doi.org/10.1037/0033-2909.133.2.276) [+S]
+- Novice and struggling writers, who benefit most from externalizing planning Graham & Perin's meta-analysis of adolescent writing instruction.
 - English learners, who can draft ideas in the organizer before tackling sentence-level language
-- Less necessary for fluent writers with well-developed internal planning routines [Graham & Perin's meta-analysis of adolescent writing instruction.](https://doi.org/10.1037/0033-2909.133.2.276) [~M]
+- Less necessary for fluent writers with well-developed internal planning routines Graham & Perin's meta-analysis of adolescent writing instruction.
 
 ### Target Learning Goals
 - Text structure knowledge: internalizing the organizational schema of a genre
@@ -125,7 +124,7 @@ Planning is the writing subprocess that most strongly distinguishes skilled from
 Students use a visual planning tool — outline, concept map, story map, T-chart, or argument frame — to generate, connect, and sequence ideas before drafting. The organizer externalizes the planning phase of writing so that idea generation and rhetorical structuring are not competing with sentence production for working memory.
 
 ## Design Implications
-Pre-writing organizers reduce the load of juggling content, structure, and transcription simultaneously [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M], and planning strategies in general are among the better-supported writing interventions [Graham & Perin's meta-analysis of adolescent writing instruction.](https://doi.org/10.1037/0033-2909.133.2.276) [+S]. The critical design choice is *who* builds the organizer: learners who construct their own maps outperform those who merely study author-provided ones [Learner-generated organizers outperform author-provided organizers.](https://doi.org/10.1037/0022-0663.99.4.808) [+S]. The organizer is scaffolding, not the product — it must give way to drafting.
+Pre-writing organizers reduce the load of juggling content, structure, and transcription simultaneously [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M], and planning strategies in general are among the better-supported writing interventions Graham & Perin's meta-analysis of adolescent writing instruction.. The critical design choice is *who* builds the organizer: learners who construct their own maps outperform those who merely study author-provided ones [Learner-generated organizers outperform author-provided organizers.](https://doi.org/10.1037/0022-0663.99.4.808) [+S]. The organizer is scaffolding, not the product — it must give way to drafting.
 
 ### Context
 #### Requirements
@@ -137,7 +136,7 @@ Pre-writing organizers reduce the load of juggling content, structure, and trans
 #### Constraints
 - Filling in a teacher-provided organizer is low-yield; learners learn from *generating* the structure and links, not from transcribing into boxes [Learner-generated organizers outperform author-provided organizers.](https://doi.org/10.1037/0022-0663.99.4.808) [-S]
 - Over-scaffolding can produce formulaic writing that follows the template rather than the ideas; fade the organizer as writers develop [Fading support promotes transfer of responsibility.](../claims/fading-support-promotes-transfer-of-responsibility.md) [+M]
-- Organizers consume time that competes with drafting and revision; for fluent writers the planning aid may add little [Graham & Perin's meta-analysis of adolescent writing instruction.](https://doi.org/10.1037/0033-2909.133.2.276) [~M]
+- Organizers consume time that competes with drafting and revision; for fluent writers the planning aid may add little Graham & Perin's meta-analysis of adolescent writing instruction.
 - A mismatch between organizer structure and genre (e.g., a five-paragraph frame for an open narrative) constrains thinking rather than supporting it
 
 #### Implementation Variability
@@ -147,10 +146,10 @@ Pre-writing organizers reduce the load of juggling content, structure, and trans
 - **Digital organizers** (Kidspiration, Popplet, Google Jamboard) that allow easy rearrangement — a key advantage over paper for revising plans
 
 ### Target Learners
-- Novice and struggling writers, who benefit most from externalizing planning [Graham & Perin's meta-analysis of adolescent writing instruction.](https://doi.org/10.1037/0033-2909.133.2.276) [+S]
+- Novice and struggling writers, who benefit most from externalizing planning Graham & Perin's meta-analysis of adolescent writing instruction.
 - Learners with limited working memory capacity or writing-related learning disabilities, for whom simultaneous planning and transcription is the bottleneck [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]
 - English learners, who can draft ideas in the organizer before tackling sentence-level language
-- Less necessary for fluent writers with well-developed internal planning routines [Graham & Perin's meta-analysis of adolescent writing instruction.](https://doi.org/10.1037/0033-2909.133.2.276) [~M]
+- Less necessary for fluent writers with well-developed internal planning routines Graham & Perin's meta-analysis of adolescent writing instruction.
 
 ### Target Learning Goals
 - Planning and organization: selecting, sequencing, and connecting ideas for a purpose and audience

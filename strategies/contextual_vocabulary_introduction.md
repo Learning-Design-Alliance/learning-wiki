@@ -19,7 +19,7 @@ Contextual Vocabulary Introduction presents new words embedded in the stories, p
 
 ## Design Implications
 
-Contextual introduction leverages the fact that word meanings are learned incrementally through repeated, varied encounters in meaningful contexts [Incidental word learning from reading context is real but modest per encounter.](https://doi.org/10.1037/0022-0663.91.1.95) [~M]. Because a single contextual encounter rarely produces durable word knowledge, the strategy works best when contextual introduction is paired with explicit explanation, discussion, and multiple spaced encounters [Vocabulary instruction combining context with explicit teaching outperforms either alone.](https://doi.org/10.1080/10888438.2013.840683) [+S].
+Contextual introduction leverages the fact that word meanings are learned incrementally through repeated, varied encounters in meaningful contexts Incidental word learning from reading context is real but modest per encounter.. Because a single contextual encounter rarely produces durable word knowledge, the strategy works best when contextual introduction is paired with explicit explanation, discussion, and multiple spaced encounters Vocabulary instruction combining context with explicit teaching outperforms either alone..
 
 ### Context
 #### Requirements
@@ -29,7 +29,7 @@ Contextual introduction leverages the fact that word meanings are learned increm
 - Multiple subsequent encounters with each word across varied contexts
 
 #### Constraints
-- Incidental learning from context alone is unreliable: learners infer a correct meaning from context only about 5–15% of the time, and struggling readers benefit least [Incidental word learning from reading context is real but modest per encounter.](https://doi.org/10.1037/0022-0663.91.1.95) [-S]
+- Incidental learning from context alone is unreliable: learners infer a correct meaning from context only about 5–15% of the time, and struggling readers benefit least Incidental word learning from reading context is real but modest per encounter.
 - Context can support wrong inferences — surrounding text may suggest a plausible but incorrect meaning that then must be unlearned [~M]
 - Requires texts rich enough in useful vocabulary; finding such texts at the right difficulty level is a real constraint
 - Effectiveness drops when discussion facilitation is weak, leaving word meanings vague or unconsolidated [-M]
@@ -42,7 +42,7 @@ Contextual introduction leverages the fact that word meanings are learned increm
 
 ### Target Learners
 - Upper elementary through high school readers building academic and literary vocabulary
-- Struggling readers need the most support here, but paradoxically gain least from context alone — they require more explicit definitional support alongside context [Incidental word learning from reading context is real but modest per encounter.](https://doi.org/10.1037/0022-0663.91.1.95) [~M]
+- Struggling readers need the most support here, but paradoxically gain least from context alone — they require more explicit definitional support alongside context Incidental word learning from reading context is real but modest per encounter.
 - English learners, for whom contextualized encounters supply the situational grounding that translation lists lack [Dialogic reading improves expressive language.](../claims/dialogic-reading-improves-language-outcomes.md) [+M]
 
 ### Target Learning Goals

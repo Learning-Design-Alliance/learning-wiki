@@ -20,7 +20,7 @@ Activation prompts learners to retrieve and make explicit what they already know
 
 ## Design Implications
 
-Activation works because new knowledge is encoded in terms of what is already known — learners given a relevant schema before a passage comprehend and recall far more than those given the identical passage without it [Bransford & Johnson's context studies.](https://doi.org/10.1016/S0022-5371(72)80011-8) [+S]. Effective activation is specific and generative: asking learners to retrieve, predict, or map prior knowledge outperforms generic "think about what you know" prompts. Activation also serves a diagnostic function — it surfaces misconceptions and gaps the instructor can address before they interfere with new learning.
+Activation works because new knowledge is encoded in terms of what is already known — learners given a relevant schema before a passage comprehend and recall far more than those given the identical passage without it Bransford & Johnson's context studies. [+S]. Effective activation is specific and generative: asking learners to retrieve, predict, or map prior knowledge outperforms generic "think about what you know" prompts. Activation also serves a diagnostic function — it surfaces misconceptions and gaps the instructor can address before they interfere with new learning.
 
 ### Context
 #### Requirements
@@ -29,7 +29,7 @@ Activation works because new knowledge is encoded in terms of what is already kn
 - Instructor follow-through: misconceptions surfaced by activation must be addressed, or they persist
 
 #### Constraints
-- Activating irrelevant or tangential prior knowledge can impair comprehension by priming the wrong schema [Context must be relevant to the material to aid comprehension.](https://doi.org/10.1016/S0022-5371(72)80011-8) [-S] — Bransford and Johnson found that context helped only when it matched the passage
+- Activating irrelevant or tangential prior knowledge can impair comprehension by priming the wrong schema Context must be relevant to the material to aid comprehension. [-S] — Bransford and Johnson found that context helped only when it matched the passage
 - Activation of fluent but inaccurate intuitions (e.g., naive physics theories) can strengthen misconceptions unless followed by [Cognitive Conflict](cognitive-conflict.md) [~M]
 - Prior knowledge alone does not guarantee better performance; what matters is whether it is structurally relevant and correctly organized [Prior knowledge is not automatically related to performance.](../claims/prior-knowledge-not-related-to-performance.md) [~M]
 - For learners with very little relevant knowledge, activation prompts have nothing to retrieve and waste time — use [Advance Organizers](advance-organizers.md) or direct teaching instead

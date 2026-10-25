@@ -48,3 +48,4 @@ Norming study across twelve schools in five cities: standard scores are smoothed
 - [Combining reading, writing and spelling scores still leaves immense grade overlap: on average 33.2% of pupils reach the next grade's range and 35.3% fall below their own grade's range](combined-measures-grade-overlapping.md) — related
 - [Grades overlap massively in spelling: on average 20.8% of pupils reach or exceed the median of the next grade above](grade-overlapping-in-spelling.md) — related
 - [Spelling test scores correlate highly with teachers' year-long marks (average coefficient .69 across grades 3–8)](spelling-test-teacher-mark-correlations.md) — related
+- [Median work rises almost uniformly from fourth to eighth grade, but about a quarter of pupils overlap between fourth and eighth grades](grade-differences-with-overlapping-arithmetic.md) — related

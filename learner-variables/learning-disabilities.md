@@ -13,7 +13,7 @@ generated:
 # Learning Disabilities and Developmental Differences
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 103 claims (76 show a difference, 16 mixed, 11 no difference) · 59 studies (33 associational, 9 review, 6 causal, 6 quant-synthesis, 4 theoretical, 1 qualitative), `q1`–`q4` · 10 of 59 report an effect size · 101 claims rest on one study
+> **Evidence** · 106 claims (78 show a difference, 17 mixed, 11 no difference) · 60 studies (34 associational, 9 review, 6 causal, 6 quant-synthesis, 4 theoretical, 1 qualitative), `q1`–`q4` · 10 of 60 report an effect size · 104 claims rest on one study
 
 ## Description
 Identified differences in how a learner learns: specific learning disabilities such as dyslexia and dyscalculia, autism, intellectual disability, and the special educational needs (an IEP in the United States, an EHC plan in England) that formally record them. In the research it appears as a population a design targets, as a moderator (an approach that works differently for these learners), and as a predictor of outcomes. It is distinct from [access](access.md), which is about perceiving and operating the material (sensory and motor impairments, devices); a learner can need both. Attention-related differences such as ADHD sit on [attention](attention.md).
@@ -137,6 +137,9 @@ Identified differences in how a learner learns: specific learning disabilities s
 - [Stimming can serve as an interactional and communicative resource in collaborative activity, including in academic tasks](../claims/stimming-as-communicative-resource.md) [+W] — learners who differ on it differ in outcomes
 - [Adolescents with dyslexia show higher reading comprehension resiliency index scores than typical readers](../claims/dyslexia-higher-rcr-index.md) [+M] — learners who differ on it differ in outcomes
 - [Individual records revealed contrasting specific disabilities within the same pupil across arithmetic operations](../claims/individual-records-specific-disabilities.md) [+W] — learners who differ on it differ in outcomes
+- [Lower-performing students with a learning disability showed larger model-estimated reading comprehension change scores than average-performing LD students, with cause undetermined](../claims/lower-performing-ld-students-larger-gains.md) [+M] — learners who differ on it differ in outcomes
+- [Students with a learning disability started about one standard deviation lower in reading comprehension and did not catch up to typically developing peers by fourth grade, which the authors interpret as a developmental deficit](../claims/ld-reading-comprehension-developmental-deficit.md) [+M] — learners who differ on it differ in outcomes
+- [Vocabulary development was broadly similar for students with and without a learning disability, while reading comprehension gains decelerated for both groups yet the LD group started over a standard deviation lower](../claims/vocabulary-similar-reading-gains-decelerate.md) [~M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Do learners with disabilities reach lower achievement, graduation and postsecondary outcomes than their peers, by how much, and does it differ by disability type?* [Students with disabilities attained postsecondary readiness and success outcomes at about one half to one third the rate of students without disabilities, the largest difference between any student group and its counterpart](../claims/disability-largest-postsecondary-outcome-gap.md) [+M]

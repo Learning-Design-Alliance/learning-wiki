@@ -19,7 +19,7 @@ This strategy uses images, diagrams, videos, animations, and graphic organizers 
 
 ## Design Implications
 
-Visuals work by directing attention to essential content, making abstract or invisible structures concrete, and providing a second memory code. The multimedia principle — presenting words and pictures together rather than words alone — reliably improves transfer when the picture is explanatory [Mayer's multimedia principle research shows illustrations foster deeper understanding than text alone.](https://doi.org/10.1037/0022-0663.81.4.615) [+S]. But every visual competes for limited working memory; irrelevant or redundant graphics impose extraneous load [Cognitive overload degrades learning when working memory demands exceed capacity.](../claims/cognitive-overload-degrades-learning.md) [-S]. The design question is never "should I add a picture?" but "does this picture explain something the words alone cannot?"
+Visuals work by directing attention to essential content, making abstract or invisible structures concrete, and providing a second memory code. The multimedia principle — presenting words and pictures together rather than words alone — reliably improves transfer when the picture is explanatory Mayer's multimedia principle research shows illustrations foster deeper understanding than text alone.. But every visual competes for limited working memory; irrelevant or redundant graphics impose extraneous load [Cognitive overload degrades learning when working memory demands exceed capacity.](../claims/cognitive-overload-degrades-learning.md) [-S]. The design question is never "should I add a picture?" but "does this picture explain something the words alone cannot?"
 
 ### Context
 #### Requirements

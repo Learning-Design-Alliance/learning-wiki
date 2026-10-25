@@ -41,7 +41,7 @@ Visual representations reduce working memory demands by holding intermediate qua
 - **Multiple contrasting representations**: showing the same relationship as a strip diagram, number line, and equation supports abstraction [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 
 ### Target Learners
-- Students with mathematics learning disabilities or difficulties, who benefit most from explicit representation instruction [van Garderen & Montague found students with LD produce less effective representations without instruction.](https://doi.org/10.1177/07319487030260040201) [+M]
+- Students with mathematics learning disabilities or difficulties, who benefit most from explicit representation instruction van Garderen & Montague found students with LD produce less effective representations without instruction.
 - Novices encountering a new concept or problem type, for whom the visual externalizes structure
 - Less beneficial — and sometimes counterproductive — for advanced learners who already reason symbolically [~M]
 

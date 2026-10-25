@@ -19,7 +19,7 @@ Rather than presenting academic vocabulary as static lists to memorize, this str
 
 ## Design Implications
 
-Vocabulary knowledge is incremental and context-dependent; words are acquired through multiple meaningful encounters, with direct instruction in context outperforming definitions alone [Stahl & Fairbanks meta-analysis of vocabulary instruction.](https://doi.org/10.3102/00346543056001071) [+S]. The first encounter should be "sticky" — tied to a story, image, or emotional hook — because elaborative, distinctive encoding improves recall [Dual coding improves recall.](../claims/dual-coding-improves-learning.md) [+M]. Subsequent encounters must vary context and require active use; passive re-exposure produces much weaker gains than retrieval and production [Distributed practice improves retention.](../claims/spaced-practice-improves-retention.md) [+S].
+Vocabulary knowledge is incremental and context-dependent; words are acquired through multiple meaningful encounters, with direct instruction in context outperforming definitions alone Stahl & Fairbanks meta-analysis of vocabulary instruction.. The first encounter should be "sticky" — tied to a story, image, or emotional hook — because elaborative, distinctive encoding improves recall [Dual coding improves recall.](../claims/dual-coding-improves-learning.md) [+M]. Subsequent encounters must vary context and require active use; passive re-exposure produces much weaker gains than retrieval and production [Distributed practice improves retention.](../claims/spaced-practice-improves-retention.md) [+S].
 
 ### Context
 #### Requirements
@@ -30,7 +30,7 @@ Vocabulary knowledge is incremental and context-dependent; words are acquired th
 
 #### Constraints
 - Time-intensive: crafting genuinely engaging stories for each word is costly, and the cost rises with word count [-W]
-- Isolated "word of the day" routines without varied follow-up encounters yield minimal durable learning [Vocabulary gains require multiple varied encounters.](https://doi.org/10.3102/00346543056001071) [-M]
+- Isolated "word of the day" routines without varied follow-up encounters yield minimal durable learning Vocabulary gains require multiple varied encounters.
 - Overloading a lesson with too many new words exceeds working memory and degrades all of them [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [~M]
 - Humor and story can overshadow the word itself if the anecdote is memorable but the word's meaning is incidental [-W]
 

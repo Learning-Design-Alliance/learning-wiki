@@ -20,7 +20,7 @@ Generation asks learners to actively produce content — completing a missing wo
 
 ## Design Implications
 
-Generation reliably improves retention of the generated material relative to reading it, the "generation effect" [Bertsch et al.'s meta-analysis confirms a robust advantage for generated over read items.](https://doi.org/10.1037/0033-2909.133.4.654) [+S]. Its benefits extend beyond memory: attempting an answer before instruction ("pretesting") prepares learners to encode the corrective information better, and productive activities like self-explanation and drawing can outperform rereading or receiving summaries [Generating explanations and drawing outperformed rereading and receiving summaries in a large classroom study.](https://doi.org/10.1126/science.1199327) [+S]. The design task is calibrating difficulty: generation must be effortful enough to engage construction, but not so unsupported that learners fail to produce anything meaningful.
+Generation reliably improves retention of the generated material relative to reading it, the "generation effect" Bertsch et al.'s meta-analysis confirms a robust advantage for generated over read items.. Its benefits extend beyond memory: attempting an answer before instruction ("pretesting") prepares learners to encode the corrective information better, and productive activities like self-explanation and drawing can outperform rereading or receiving summaries [Generating explanations and drawing outperformed rereading and receiving summaries in a large classroom study.](https://doi.org/10.1126/science.1199327) [+S]. The design task is calibrating difficulty: generation must be effortful enough to engage construction, but not so unsupported that learners fail to produce anything meaningful.
 
 ### Context
 #### Requirements
@@ -30,7 +30,7 @@ Generation reliably improves retention of the generated material relative to rea
 
 #### Constraints
 - Generation imposes working-memory demands; for novices with high element interactivity, it can overload and underperform studying worked examples [Generation tasks can add extraneous load for novices, where worked examples are superior.](../principles/cognitive-load-management.md) [~S] — the expertise-reversal pattern applies
-- The effect weakens or reverses when the generated item is not the target of learning (generating the medium, not the message) [The generation effect is weaker for meaning-level learning than for item memory.](https://doi.org/10.1037/0033-2909.133.4.654) [~M]
+- The effect weakens or reverses when the generated item is not the target of learning (generating the medium, not the message) The generation effect is weaker for meaning-level learning than for item memory.
 - Without feedback, generation of incorrect answers can consolidate misconceptions [-M]
 - Generation is time-costly; for large volumes of material, reading with [Annotating](../principles/annotating.md) may be more efficient [~W]
 

@@ -19,7 +19,7 @@ A website evaluation checklist is a structured heuristic that guides learners th
 
 ## Design Implications
 
-Checklists work by converting expert tacit knowledge into an external procedure, reducing the working-memory and knowledge demands of evaluation for novices [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]. Their effectiveness depends on pairing with practice on authentic sites: checklists applied to real, contrasting cases build evaluation behavior, while checklists discussed abstractly do not [Fostering evaluation behavior requires practice with authentic tasks.](https://doi.org/10.1016/j.compedu.2012.09.021) [+M]. Contrasting reliable with unreliable sites sharpens discrimination in a way that examining only good sources does not [Erroneous examples build conceptual knowledge.](../claims/erroneous-examples-build-conceptual-knowledge.md) [+M].
+Checklists work by converting expert tacit knowledge into an external procedure, reducing the working-memory and knowledge demands of evaluation for novices [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]. Their effectiveness depends on pairing with practice on authentic sites: checklists applied to real, contrasting cases build evaluation behavior, while checklists discussed abstractly do not Fostering evaluation behavior requires practice with authentic tasks.. Contrasting reliable with unreliable sites sharpens discrimination in a way that examining only good sources does not [Erroneous examples build conceptual knowledge.](../claims/erroneous-examples-build-conceptual-knowledge.md) [+M].
 
 ### Context
 #### Requirements
@@ -29,7 +29,7 @@ Checklists work by converting expert tacit knowledge into an external procedure,
 - Follow-up tasks that require learners to justify their verdicts with evidence from the checklist
 
 #### Constraints
-- Checklist-only instruction without practice on real sites produces little transfer to actual search behavior [Walraven et al. (2013)](https://doi.org/10.1016/j.compedu.2012.09.021) [-M]
+- Checklist-only instruction without practice on real sites produces little transfer to actual search behavior Walraven et al. (2013)
 - Surface-feature checklists can be gamed: professional-looking design and .org domains mislead learners into false confidence, and most students fail such evaluations [Breakstone et al. (2021)](https://doi.org/10.3102/0034654321998074) [-S]
 - Vertical (on-page) criteria underperform lateral reading — leaving the site to check what others say about it — for professional fact-checkers and students alike [Wineburg & McGrew (2019)](https://doi.org/10.1177/016146811912100103) [~S]
 - Long checklists (10+ items) invite mechanical box-ticking rather than genuine judgment

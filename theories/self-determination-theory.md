@@ -18,7 +18,7 @@ moved_from: [principle/self-determination-theory]
 # Self-Determination Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 93 claims (66 for, 25 mixed, 2 against) · 61 studies (22 associational, 13 review, 10 causal, 7 quant-synthesis, 6 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 15 of 61 report an effect size · 87 claims rest on one study
+> **Evidence** · 95 claims (68 for, 25 mixed, 2 against) · 62 studies (23 associational, 13 review, 10 causal, 7 quant-synthesis, 6 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 15 of 62 report an effect size · 89 claims rest on one study
 
 ## Description
 Self-Determination Theory (SDT) explains motivation in terms of the degree to which behavior is experienced as autonomous, competent, and socially connected. Developed by Edward Deci and Richard Ryan, the theory argues that learners are more likely to engage deeply and persist when three basic psychological needs are supported: autonomy, competence, and relatedness.
@@ -148,6 +148,8 @@ These tactics are not unconditionally beneficial, however. Offering choice can h
 - [Teachers' self-determination mediates the link between perceived class self-determination and reported autonomy support and involvement, but not structure](../claims/teacher-sdi-mediates-strategy-use.md) [~W]
 - [Teachers' perceptions of class average self-determination predict their reported use of autonomy support, involvement, and structure](../claims/teacher-perceptions-class-sdi-predict-strategies.md) [+W]
 - [Perceived task autonomy mediated the no-grade condition's higher task interest and continuing motivation for the task relative to standard grading](../claims/task-autonomy-mediation-both-motivations.md) [+W] — attached 2026-10-25 from Pulfrey et al. (2013), which proposed "Integrative model differentiating the mediational roles of task performance and task autonomy in the grading–intrinsic motivation link"; tests this page's relationship.
+- [Students' motivation in physical education combines into three distinct profiles: self-determined, non self-determined, and moderate levels of both types](../claims/three-motivational-profiles-pe-cluster-analysis.md) [+W] — attached 2026-10-25 from Julie Boiché et al. (2008), which proposed "Self-Determination Theory's taxonomy of intrinsic and extrinsic motivation types as combinable motivational profiles".
+- [The self-determined motivational profile is related to the best level of achievement in physical education](../claims/self-determined-profile-best-achievement-pe.md) [+W] — attached 2026-10-25 from Julie Boiché et al. (2008), which proposed "Self-Determination Theory's taxonomy of intrinsic and extrinsic motivation types as combinable motivational profiles"; tests this page's relationship.
 
 ## The evidence by question
 
@@ -187,6 +189,7 @@ These tactics are not unconditionally beneficial, however. Offering choice can h
 - [Target teachers first in autonomy-support interventions to foster student autonomous motivation](../strategies/autonomy-support-interventions-target-teachers-first.md)
 - [Go beyond autonomy support with competence-supporting behaviors such as high-quality feedback](../strategies/competence-support-high-quality-feedback.md)
 - [Teachers should consciously invest in involvement behaviors—showing interest and emotional support—to foster student connectedness and self-determined motivation](../strategies/teacher-involvement-investment-strategy.md)
+- [Foster self-determined motivation at the start of a learning cycle to support later achievement](../strategies/foster-self-determined-motivation-before-instruction-cycle.md)
 
 ## Key Sources
 - Deci, E. L., & Ryan, R. M. (2000). The "what" and "why" of goal pursuits: Human needs and the self-determination of behavior. *Psychological Inquiry, 11*(4), 227-268. [https://doi.org/10.1207/S15327965PLI1104_01](https://doi.org/10.1207/S15327965PLI1104_01)

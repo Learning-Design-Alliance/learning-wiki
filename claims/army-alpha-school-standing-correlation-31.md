@@ -52,3 +52,5 @@ An observational correlational study of 153 normal-school students (mostly women
 - [Army intelligence test rankings corresponded with officers' rankings of soldiers (average correlation 0.536 across twelve companies), suggesting the tests measured something beyond literacy](army-tests-officer-ranking-correlation.md) — related
 - [Directional correlations between test scores and discrepancy direction are low but suggest tension tests track scholarship superiority and assimilation tests track intelligence superiority](low-directional-correlations-tension-versus-assimilation.md) — related
 - [Correlations between Alpha and grades vary by class standing, lowest for graduates (r = .15) and highest for seniors (r = .38)](alpha-grades-correlation-class-standing.md) — related
+- [Army Alpha scores correlate moderately with first-semester college scholarship, and correlations were higher when students took the test seriously](alpha-correlation-total-scholarship-dartmouth.md) — related
+- [Memory correlates only slightly (about .30 by the Pearson formula) with scholarship, memory being only one factor](slight-correlation-memory-scholarship.md) — related

@@ -13,7 +13,7 @@ generated:
 # Domain Context
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 53 claims (39 show a difference, 12 mixed, 2 no difference) · 50 studies (15 review, 11 qualitative, 7 causal, 6 design, 5 quant-synthesis, 4 theoretical, 2 associational), `q1`–`q4` · 6 of 50 report an effect size · 49 claims rest on one study
+> **Evidence** · 54 claims (40 show a difference, 12 mixed, 2 no difference) · 51 studies (15 review, 11 qualitative, 8 causal, 6 design, 5 quant-synthesis, 4 theoretical, 2 associational), `q1`–`q4` · 6 of 51 report an effect size · 50 claims rest on one study
 
 ## Description
 The sector, role or setting a scenario must be placed in before a learner recognises it as theirs. This is the course-specific dimension: what counts as a recognisable case differs by subject in a way the other dimensions do not. It changes who appears in a scenario and what a task is *about*, not how hard it is — and it is the dimension most likely to be filled with the designer's own context by default.
@@ -94,6 +94,7 @@ The sector, role or setting a scenario must be placed in before a learner recogn
 - [Mathematics shows the lowest student ratings of situational engagement among school subjects](../claims/mathematics-lowest-situational-engagement.md) [+M] — learners who differ on it differ in outcomes
 - [An authentic (greenhouse) video setting improves retention but not application of instructional video content in Experiment 1](../claims/exp1-authentic-setting-retention-benefit.md) [~W] — an instructional effect differs with it
 - [In Experiment 2 the authentic-setting effect on retention did not replicate and reinstating the setting as a test background produced no context effects](../claims/exp2-setting-retention-nonreplication-no-context-effects.md) [-W] — an instructional effect differs with it
+- [Selecting personal-experiences sources is more likely in a personal context without an external audience than in a university context](../claims/personal-context-raises-personal-experiences-selection.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does setting problems in contexts drawn from learners' interests raise engagement and performance?* [An IES practice-guide presentation recommends personalized problem contexts, asserting without cited studies that students engage more actively and perform better in them](../claims/personalized-problem-contexts-boost-engagement-grades-4-8.md) [+W]

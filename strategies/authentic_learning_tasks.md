@@ -19,7 +19,7 @@ Authentic learning tasks ask learners to engage with problems that resemble thos
 
 ## Design Implications
 
-Authentic tasks support transfer because knowledge encoded in the context of use is more accessible when similar conditions recur [Anchored instruction improves problem-solving transfer when problems are situated in realistic scenarios.](../patterns/anchored-instruction.md) [+M]. They also strengthen motivation by giving work a visible purpose and audience [Autonomy and meaningful purpose support intrinsic motivation.](../claims/autonomy-supports-intrinsic-motivation.md) [+M]. Authenticity is a design dimension, not a binary: tasks can be authentic in surface features (realistic artifacts) or in underlying thinking (genuine disciplinary reasoning), and the latter matters more for learning [Shaffer & Resnick's "thick authenticity" argument.](https://doi.org/10.1207/s15326985ep3404_4) [+M].
+Authentic tasks support transfer because knowledge encoded in the context of use is more accessible when similar conditions recur [Anchored instruction improves problem-solving transfer when problems are situated in realistic scenarios.](../patterns/anchored-instruction.md) [+M]. They also strengthen motivation by giving work a visible purpose and audience [Autonomy and meaningful purpose support intrinsic motivation.](../claims/autonomy-supports-intrinsic-motivation.md) [+M]. Authenticity is a design dimension, not a binary: tasks can be authentic in surface features (realistic artifacts) or in underlying thinking (genuine disciplinary reasoning), and the latter matters more for learning Shaffer & Resnick's "thick authenticity" argument..
 
 ### Context
 #### Requirements

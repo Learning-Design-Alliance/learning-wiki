@@ -10,7 +10,6 @@ generated:
   at: 2026-08-29
 sources:
   - id: graham-perin-2007
-    resource: "https://doi.org/10.1016/j.cedpsych.2006.09.006"
     title: "Graham, S., & Perin, D. (2007). A meta-analysis of writing instruction for adolescent students. *Journal of Educational Psychology, 99*(3), 445–476"
     author: "Graham, S., & Perin, D"
   - id: graham-sandmel-2011
@@ -43,7 +42,7 @@ The approach works because it distributes cognitive load across the composing cy
 - Structured feedback from teacher and peers, with revision expected — feedback without opportunity to revise does not improve writing [Collaborative writing with feedback improves text quality.](../claims/collaborative-writing-improves-text-quality.md) [+M]
 - An authentic audience or publication purpose for at least some pieces ([Authentic Audiences & Purposes](../principles/authentic-audiences-purposes.md))
 - Sustained, protected writing time with regular opportunities to draft and redraft
-- Explicit instruction in specific processes — planning, [revising strategies](../strategies/action-oriented-feedback.md), sentence combining — not just workshop structures [Graham & Perin, 2007](https://doi.org/10.1016/j.cedpsych.2006.09.006) [+S]
+- Explicit instruction in specific processes — planning, [revising strategies](../strategies/action-oriented-feedback.md), sentence combining — not just workshop structures Graham & Perin, 2007
 - Feedback directed at ideas and text structure rather than surface errors [Feedback is most effective at task and process levels.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S]
 - A classroom community where peer response and [collaborative learning](../principles/collaborative-learning.md) are taught and normed, not merely assigned
 
@@ -63,7 +62,7 @@ The approach works because it distributes cognitive load across the composing cy
 - **Content-area integration**: short process cycles on disciplinary writing tasks rather than a standalone English class
 - **Scaled-down cycles**: single-session plan–draft–revise loops for frequent low-stakes writing
 - **Writers' workshop** (Calkins/Units of Study model): mini-lesson → independent writing → conferring → sharing
-- **Strategy-infused process** (e.g., Self-Regulated Strategy Development): process stages combined with explicit strategies, self-talk, and goal setting — the highest-effect variant [Graham & Perin, 2007](https://doi.org/10.1016/j.cedpsych.2006.09.006) [+S]
+- **Strategy-infused process** (e.g., Self-Regulated Strategy Development): process stages combined with explicit strategies, self-talk, and goal setting — the highest-effect variant Graham & Perin, 2007
 - **Digital process writing**: versioned drafting in platforms like Google Docs makes revision history visible and enables asynchronous peer and teacher comment
 - **Scaffolded fading**: teacher support moves from heavy modeling and shared writing toward independent management of the full cycle [Support fades as responsibility transfers to the learner.](../claims/fading-support-promotes-transfer-of-responsibility.md) [~M]
 
@@ -71,7 +70,7 @@ The approach works because it distributes cognitive load across the composing cy
 - Adolescents and adults developing compositional competence; effects are strongest in grades 4–12 [Process writing instruction improves writing quality.](../claims/collaborative-writing-improves-text-quality.md) [+M]
 - Struggling writers benefit especially from explicit mini-lessons and modeled revision, provided sentence-level skills are also addressed [~M]
 - Beginning writers (K–2) need more structured scaffolds within the cycle; a fully open process can overwhelm them [-W]
-- Adolescents and older students with enough transcription fluency to benefit from revising [Graham & Perin, 2007](https://doi.org/10.1016/j.cedpsych.2006.09.006) [+S]
+- Adolescents and older students with enough transcription fluency to benefit from revising Graham & Perin, 2007
 - Struggling writers, when the process structure is paired with explicit strategies and scaffolds rather than open-ended immersion [Graham & Sandmel, 2011](https://doi.org/10.1080/00220671.2010.488703) [~M]
 - Young or novice writers need more direct modeling and shared writing before managing the cycle independently
 
@@ -145,12 +144,12 @@ The writing process approach treats composing as a recursive cycle of planning, 
 
 ## Design Implications
 
-The approach works because it externalizes and distributes the cognitive demands of composing across time and social support, reducing the working-memory burden of attending to ideas, syntax, and mechanics simultaneously [Flower & Hayes, 1981](https://doi.org/10.2307/356600) [+M]. Meta-analytic evidence shows the process approach produces reliable gains in writing quality, roughly 0.34 SD in adolescents [Graham & Perin, 2007](https://doi.org/10.1016/j.cedpsych.2006.09.006) [+S], with effects strongest when it includes explicit strategy instruction rather than immersion alone [Graham & Sandmel, 2011](https://doi.org/10.1080/00220671.2010.488703) [~M].
+The approach works because it externalizes and distributes the cognitive demands of composing across time and social support, reducing the working-memory burden of attending to ideas, syntax, and mechanics simultaneously [Flower & Hayes, 1981](https://doi.org/10.2307/356600) [+M]. Meta-analytic evidence shows the process approach produces reliable gains in writing quality, roughly 0.34 SD in adolescents Graham & Perin, 2007, with effects strongest when it includes explicit strategy instruction rather than immersion alone [Graham & Sandmel, 2011](https://doi.org/10.1080/00220671.2010.488703) [~M].
 
 ### Context
 #### Requirements
 - Sustained, protected writing time with regular opportunities to draft and redraft
-- Explicit instruction in specific processes — planning, [revising strategies](../strategies/action-oriented-feedback.md), sentence combining — not just workshop structures [Graham & Perin, 2007](https://doi.org/10.1016/j.cedpsych.2006.09.006) [+S]
+- Explicit instruction in specific processes — planning, [revising strategies](../strategies/action-oriented-feedback.md), sentence combining — not just workshop structures Graham & Perin, 2007
 - Feedback directed at ideas and text structure rather than surface errors [Feedback is most effective at task and process levels.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S]
 - Authentic purposes and audiences so revision has a real motivation ([Authentic Audiences & Purposes](../principles/authentic-audiences-purposes.md))
 - A classroom community where peer response and [collaborative learning](../principles/collaborative-learning.md) are taught and normed, not merely assigned
@@ -163,12 +162,12 @@ The approach works because it externalizes and distributes the cognitive demands
 
 #### Implementation Variability
 - **Writers' workshop** (Calkins/Units of Study model): mini-lesson → independent writing → conferring → sharing
-- **Strategy-infused process** (e.g., Self-Regulated Strategy Development): process stages combined with explicit strategies, self-talk, and goal setting — the highest-effect variant [Graham & Perin, 2007](https://doi.org/10.1016/j.cedpsych.2006.09.006) [+S]
+- **Strategy-infused process** (e.g., Self-Regulated Strategy Development): process stages combined with explicit strategies, self-talk, and goal setting — the highest-effect variant Graham & Perin, 2007
 - **Digital process writing**: versioned drafting in platforms like Google Docs makes revision history visible and enables asynchronous peer and teacher comment
 - **Scaffolded fading**: teacher support moves from heavy modeling and shared writing toward independent management of the full cycle [Support fades as responsibility transfers to the learner.](../claims/fading-support-promotes-transfer-of-responsibility.md) [~M]
 
 ### Target Learners
-- Adolescents and older students with enough transcription fluency to benefit from revising [Graham & Perin, 2007](https://doi.org/10.1016/j.cedpsych.2006.09.006) [+S]
+- Adolescents and older students with enough transcription fluency to benefit from revising Graham & Perin, 2007
 - Struggling writers, when the process structure is paired with explicit strategies and scaffolds rather than open-ended immersion [Graham & Sandmel, 2011](https://doi.org/10.1080/00220671.2010.488703) [~M]
 - Young or novice writers need more direct modeling and shared writing before managing the cycle independently
 
@@ -180,7 +179,7 @@ The approach works because it externalizes and distributes the cognitive demands
 ### Instructions
 1. **Set an authentic purpose.** Establish a real audience and genre for the piece ([Authentic Audiences & Purposes](../principles/authentic-audiences-purposes.md)).
 2. **Model the process.** Demonstrate planning and drafting [think-aloud](../elements/coaching.md) style, making writer decisions visible.
-3. **Teach a focused mini-lesson.** Target one strategy (e.g., planning with a graphic organizer, sentence combining) drawn from evidence-based practices [Graham & Perin, 2007](https://doi.org/10.1016/j.cedpsych.2006.09.006) [+S].
+3. **Teach a focused mini-lesson.** Target one strategy (e.g., planning with a graphic organizer, sentence combining) drawn from evidence-based practices Graham & Perin, 2007.
 4. **Support drafting with conferences.** Hold brief individual conferences; give [process-level feedback](../claims/feedback-most-effective-at-task-and-process-levels.md) on ideas and structure [+S].
 5. **Structure peer response.** Use taught protocols (e.g., "praise–question–suggest") so feedback is specific and usable.
 6. **Require revision and editing as separate passes.** Revision addresses meaning; editing addresses conventions — keep them distinct.

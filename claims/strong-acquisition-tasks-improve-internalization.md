@@ -56,3 +56,4 @@ Experiment 2 two-way ANOVA (input version x acquisition tasks) on the sum of com
 - [Guided Notes Improve Note Accuracy](guided-notes-improve-note-accuracy.md) — related
 - [Structural signals show no consistent recall benefits but can aid deeper understanding measured by problem-solving tests](structural-signals-aid-problem-solving-not-recall.md) — related
 - [Information at higher levels of an acquired hierarchical organization is recalled better than information at lower levels](higher-hierarchy-levels-recalled-better.md) — related
+- [Mental set acquired for one task persists and impairs performance in spelling recall and in geography problem-solving](set-persistence-spelling-geography.md) — related

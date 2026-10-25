@@ -19,7 +19,6 @@ sources:
     title: "Yang, Y. T. C., & Wu, W. C. I. (2012). Digital storytelling for enhancing student academic achievement, critical thinking, and learning motivation: A year-long experimental study. *Computers & Education, 59*(2), 339-352"
     author: "Yang, Y. T. C., & Wu, W. C. I"
   - id: kitalong-2017
-    resource: "https://doi.org/10.1016/j.compcom.2017.08.001"
     title: "Kitalong, K. S., & Miner, R. L. (2017). Multimodal composition pedagogy designed to enhance authors' personal agency: Lessons from non-academic and academic composing environments. *Computers and Composition, 46*, 39-55"
     author: "Kitalong, K. S., & Miner, R. L"
   - id: lim-2020

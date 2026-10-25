@@ -17,7 +17,6 @@ sources:
     title: "Cowan, N. (2001). The magical number 4 in short-term memory: A reconsideration of mental storage capacity. *Behavioral and Brain Sciences, 24*(1), 87–114"
     author: "Cowan, N"
   - id: gobet-2001
-    resource: "https://doi.org/10.1191/1478088401pv045ra"
     title: "Gobet, F., Lane, P. C. R., Croker, S., Cheng, P. C.-H., Jones, G., Oliver, I., & Pine, J. M. (2001). Chunking mechanisms in human learning. *Trends in Cognitive Sciences, 5*(6), 236–243"
     author: "Gobet, F. et al."
   - id: sweller-2011
@@ -32,7 +31,7 @@ sources:
 > **Evidence** · 1 claim (1 for) · 3 studies (2 review, 1 causal), `q2`–`q3` · 0 of 3 report an effect size
 
 ## Description
-Working memory can hold only a small number of discrete items at once — classically estimated at seven plus or minus two [Miller, 1956](https://doi.org/10.1037/h0043158) [+S], with more recent estimates closer to three to five for novel material [Cowan, 2001](https://doi.org/10.1017/S0140525X01003922) [+S]. Chunking recodes individual elements into larger, meaningful units so that a single chunk occupies one slot regardless of how many elements it contains. Because chunks are stored in long-term memory and retrieved as units, chunking effectively expands functional capacity without changing the underlying limit [Gobet et al., 2001](https://doi.org/10.1191/1478088401pv045ra) [+S].
+Working memory can hold only a small number of discrete items at once — classically estimated at seven plus or minus two [Miller, 1956](https://doi.org/10.1037/h0043158) [+S], with more recent estimates closer to three to five for novel material [Cowan, 2001](https://doi.org/10.1017/S0140525X01003922) [+S]. Chunking recodes individual elements into larger, meaningful units so that a single chunk occupies one slot regardless of how many elements it contains. Because chunks are stored in long-term memory and retrieved as units, chunking effectively expands functional capacity without changing the underlying limit Gobet et al., 2001.
 
 ## Design Implications
 
@@ -83,7 +82,7 @@ Chunking is a core mechanism of [Cognitive Load Management](../principles/cognit
 
 ## Examples
 - **Phone numbers** are grouped into 3–4 digit segments precisely because ungrouped 10-digit strings exceed working memory capacity.
-- **Chess expertise**: master players recall board positions almost perfectly by chunking them into familiar patterns, but show no advantage for randomly arranged pieces — evidence that chunking depends on stored patterns, not raw capacity [Gobet et al., 2001](https://doi.org/10.1191/1478088401pv045ra) [+S].
+- **Chess expertise**: master players recall board positions almost perfectly by chunking them into familiar patterns, but show no advantage for randomly arranged pieces — evidence that chunking depends on stored patterns, not raw capacity Gobet et al., 2001.
 - **[Khan Academy](https://www.khanacademy.org)** videos are short and single-concept, segmenting instruction so each segment fits within working memory limits.
 
 ## Key Sources

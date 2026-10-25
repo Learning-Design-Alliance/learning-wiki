@@ -23,7 +23,6 @@ sources:
     title: "Rittle-Johnson, B. (2017). Promoting self-explanation to improve mathematics learning: A meta-analysis and instructional design principles. *ZDM Mathematics Education, 49*(4), 599–611"
     author: Rittle-Johnson, B
   - id: mcnamara-2004
-    resource: "https://doi.org/10.1207/s15326977dp3801_1"
     title: "McNamara, D. S. (2004). SERT: Self-explanation reading training. *Discourse Processes, 38*(1), 1–30"
     author: McNamara, D. S
 ---

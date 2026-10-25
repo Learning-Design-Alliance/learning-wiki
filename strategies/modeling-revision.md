@@ -70,7 +70,7 @@ Revision is a metacognitively demanding activity: writers must detect mismatches
 
 **Screencast revision modeling in composition courses** — instructors record themselves revising a student paragraph in Word or Google Docs, narrating each diagnosis; students then submit a revision memo applying the same routine to their own draft.
 
-**[Graham & Perin's](https://doi.org/10.1177/002205740818600104) "modeling" recommendation** — in their meta-analysis of adolescent writing instruction, structured collaborative and modeled writing episodes were among the elements with the largest effect sizes on writing quality.
+**Graham & Perin's "modeling" recommendation** — in their meta-analysis of adolescent writing instruction, structured collaborative and modeled writing episodes were among the elements with the largest effect sizes on writing quality.
 
 ## Key Sources
 - Graham, S., & Perin, D. (2007). A meta-analysis of writing instruction for adolescent students. *Journal of Educational Psychology, 99*(3), 445–476. [doi:10.1037/0022-0663.99.3.445](https://doi.org/10.1037/0022-0663.99.3.445)

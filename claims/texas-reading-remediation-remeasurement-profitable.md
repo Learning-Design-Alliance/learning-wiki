@@ -47,3 +47,4 @@ The reviewer's summary of the Texas bulletin's remedial program evaluation, a re
 ## Related Claims
 - [Four remedial reading interventions combined improved phonemic decoding, word reading accuracy and fluency, and reading comprehension for third-grade struggling readers one year after the interventions ended, though not on all measures](four-reading-interventions-improved-third-grade-reading-one-year-later.md) — related
 - [No significant instructional-group effects were detected at the six-month follow-up assessment](no-follow-up-group-effects.md) — related
+- [Regular classroom-teacher use of educational measurements would in the long run mean less, easier, and more successful teaching work, and the editorial judges it the most beneficial use](teacher-routine-measurement-use-most-beneficial.md) — related

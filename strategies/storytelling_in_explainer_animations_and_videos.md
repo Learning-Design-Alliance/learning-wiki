@@ -41,7 +41,7 @@ Storytelling works because narratives induce *transportation* — absorption int
 - **Learner-authored stories** — learners create their own explainer animations, converting consumption into generation
 
 ### Target Learners
-- Novices, who benefit from concrete narrative context anchoring abstract concepts [Anchored instruction improves learning when instruction is anchored in realistic problem contexts.](https://doi.org/10.1207/s1532690xci1802_1) [+M]
+- Novices, who benefit from concrete narrative context anchoring abstract concepts Anchored instruction improves learning when instruction is anchored in realistic problem contexts.
 - Learners with low motivation for the topic, for whom narrative interest provides initial engagement [Narrative transportation increases story-consistent beliefs and reduces counterarguing.](https://doi.org/10.1037/0022-3514.79.5.701) [+M]
 - Less beneficial for advanced learners, who extract concepts faster from concise expository formats [Expertise reversal: guidance effective for novices becomes less effective or harmful as expertise grows.](https://doi.org/10.1016/j.edurev.2009.11.001) [~M]
 

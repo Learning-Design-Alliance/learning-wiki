@@ -49,3 +49,4 @@ Single-case study of S.S., a grade VIII girl with IQ above 125 and oral reading 
 - [The Burgess test correlates more highly with rate and comprehension composites (0.82 and 0.80) than any other single test, and pairs well with the Thorndike-McCall](burgess-high-composite-correlations-team-with-thorndike-mccall.md) — related
 - [The Thorndike-McCall correlates about 0.50 with other single comprehension tests and 0.69 with a composite of group intelligence tests](thorndike-mccall-correlations-comprehension-intelligence.md) — related
 - [Of the so-called reading tests used, Thorndike's Visual Vocabulary is the best measure of reading ability](visual-vocabulary-best-of-reading-tests.md) — related
+- [In Bird's school-wide testing, speed correlated positively with comprehension and accuracy but negatively with handwriting legibility.](speed-correlations-vary-by-subject.md) — related

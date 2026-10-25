@@ -15,11 +15,11 @@ generated:
 > **Evidence** · 1 claim (1 for) · 2 studies (2 causal), `q3` · 0 of 2 report an effect size
 
 ## Description
-This strategy incorporates texts and resources in a learner's primary (L1) language — bilingual picture books, dual-language editions, and multilingual digital libraries — to scaffold comprehension of new content while the learner develops proficiency in the target language. It rests on the linguistic interdependence hypothesis: skills and knowledge acquired in the L1 transfer to the second language, so continued L1 literacy development supports rather than competes with L2 acquisition [Cummins' interdependence hypothesis.](https://doi.org/10.3102/00346543076003367) [+M]. Beyond comprehension, bilingual texts validate learners' cultural and linguistic identities, supporting engagement and belonging.
+This strategy incorporates texts and resources in a learner's primary (L1) language — bilingual picture books, dual-language editions, and multilingual digital libraries — to scaffold comprehension of new content while the learner develops proficiency in the target language. It rests on the linguistic interdependence hypothesis: skills and knowledge acquired in the L1 transfer to the second language, so continued L1 literacy development supports rather than competes with L2 acquisition Cummins' interdependence hypothesis.. Beyond comprehension, bilingual texts validate learners' cultural and linguistic identities, supporting engagement and belonging.
 
 ## Design Implications
 
-Bilingual texts let multilingual learners access grade-level concepts through their stronger language while simultaneously building target-language vocabulary and structures, rather than being limited to texts matched to their current L2 proficiency [Vocabulary instruction for English learners benefits from L1 supports.](https://doi.org/10.3102/0034654308318492) [+M]. The strategy works best when L1 and L2 texts are deliberately connected — previewing a concept in the L1, then encountering it in the L2 — rather than offered as parallel, unlinked options.
+Bilingual texts let multilingual learners access grade-level concepts through their stronger language while simultaneously building target-language vocabulary and structures, rather than being limited to texts matched to their current L2 proficiency Vocabulary instruction for English learners benefits from L1 supports.. The strategy works best when L1 and L2 texts are deliberately connected — previewing a concept in the L1, then encountering it in the L2 — rather than offered as parallel, unlinked options.
 
 ### Context
 #### Requirements
@@ -42,8 +42,8 @@ Bilingual texts let multilingual learners access grade-level concepts through th
 - **Family engagement:** sending bilingual books home extends L1 literacy development beyond the classroom
 
 ### Target Learners
-- Newly arrived immigrants and newcomers with strong L1 literacy but limited L2 proficiency [L1 literacy skills transfer to second-language reading.](https://doi.org/10.3102/00346543076003367) [+M]
-- Emergent bilinguals in early grades, where bilingual picture books support [Dialogic Reading](https://doi.org/10.3102/0034654308318492)-style shared reading at home [+M]
+- Newly arrived immigrants and newcomers with strong L1 literacy but limited L2 proficiency L1 literacy skills transfer to second-language reading.
+- Emergent bilinguals in early grades, where bilingual picture books support Dialogic Reading-style shared reading at home [+M]
 - Learners at risk of subtractive language shift, where continued L1 literacy protects long-term academic outcomes [~M]
 - Less necessary for learners already proficient in the target language, for whom L1 texts may add little [~W]
 
@@ -64,7 +64,7 @@ Bilingual texts let multilingual learners access grade-level concepts through th
 
 - [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) — L1 preview activates existing schemas that L2 texts can then build on
 - [Accessible Vocabulary and Syntax](../principles/accessible-vocabulary-syntax.md) — bilingual glossaries and cognate instruction complement simplified L2 text
-- [Dialogic Reading](https://doi.org/10.3102/0034654308318492) — bilingual shared reading at home extends the strategy to families
+- Dialogic Reading — bilingual shared reading at home extends the strategy to families
 - [Teach in students' home language in primary, assess learning levels and differentiate instruction, and align teacher training with language-of-instruction policy](sl-home-language-assessment-differentiation.md)
 
 ## Related Elements

@@ -19,7 +19,7 @@ Students read authentic texts from the target discipline — professional column
 
 ## Design Implications
 
-Disciplinary literacy research shows that each field has distinct ways of making claims, using evidence, and structuring text, and that these conventions must be taught explicitly rather than assumed to transfer from general reading skill [Shanahan & Shanahan's disciplinary literacy framework.](https://doi.org/10.17763/haer.78.1.wc62444821f20170) [+M]. Reading authentic disciplinary texts functions as a form of modeling: the published article is a worked example of expert communication that students can study before producing their own. Comprehension improves when reading is paired with structured discussion and annotation rather than assigned as silent, unsupported reading [~M].
+Disciplinary literacy research shows that each field has distinct ways of making claims, using evidence, and structuring text, and that these conventions must be taught explicitly rather than assumed to transfer from general reading skill Shanahan & Shanahan's disciplinary literacy framework.. Reading authentic disciplinary texts functions as a form of modeling: the published article is a worked example of expert communication that students can study before producing their own. Comprehension improves when reading is paired with structured discussion and annotation rather than assigned as silent, unsupported reading [~M].
 
 ### Context
 #### Requirements
@@ -42,7 +42,7 @@ Disciplinary literacy research shows that each field has distinct ways of making
 
 ### Target Learners
 - Students new to a discipline who have not yet seen what authentic disciplinary communication looks like [+M]
-- Adolescents and post-secondary students, where the gap between school texts and disciplinary texts widens [Shanahan & Shanahan's disciplinary literacy framework.](https://doi.org/10.17763/haer.78.1.wc62444821f20170) [+M]
+- Adolescents and post-secondary students, where the gap between school texts and disciplinary texts widens Shanahan & Shanahan's disciplinary literacy framework.
 - Advanced students benefit from exposure to real professional writing; struggling readers need heavily scaffolded or adapted versions [~M]
 
 ### Target Learning Goals

@@ -269,6 +269,21 @@ reasons and the numbers (moved there 2026-10-09, when this file had reached 272 
 - **Topic search** (`--pmc`, `--eric`, `--topics-file`) adds volume, not decisions; prefer
   named syntheses and the curated lists.
 
+- **Sources are checked for whether they can be believed, not only for what they say** (maintainer,
+  2026-10-25, after an audit of AI-in-education meta-analyses (O'Neill, preprint) named a study behind ten
+  claims that reports an eta squared of 1.374 and cites ChatGPT papers dated 2017-2020).
+  `check_source_validity.py` reads every cached source for impossible statistics, broken ANOVA rows,
+  p values their own statistics contradict and references dated before the tool they name; resolves the
+  reference DOIs of AI-era sources; and looks up every cited DOI for a retraction, withdrawal or
+  expression of concern, and for DOIs no registry knows. `judge_study_validity.py` asks of each causal
+  entry whether the study measured what the claim says (performance, not self-report), what it compared
+  against, whether the intervention was isolated, and whether students were counted where classes were
+  assigned. Both run in every batch on the batch's sources; an undecided high-severity finding stops it.
+  A confirmed finding removes the source's claims, or retitles a claim to what was measured; a decision
+  is recorded (`--review`, `--dismiss`) with its reason. `retracted.ndjson` is the ratchet: lint fails on
+  a page citing a recorded retraction unless the page says it is retracted. `checks.md` publishes what
+  every check has reached; it is generated, never edited.
+
 **Evidence on claim pages:**
 
 - Every entry carries `q` (design tier), `i` (impact), `n`, and a **kind with its rigour**
@@ -1501,6 +1516,7 @@ ld-wiki/
   evidence-scales.json ← what q3 / i2 / n= mean, as data (read by agents and by the docs hook)
   evidence-dimensions.json ← the shared dimensions of evidence and design (learner state, goal, outcome, ...)
   evidence.md        ← generated: the state of the wiki's evidence (build_evidence_report.py)
+  checks.md          ← generated: how claims are checked, and how far (build_check_report.py)
   log.md             ← reserved OKF filename: append-only, date-grouped change log (current month)
   log/               ← earlier months of log.md, one file each (okf_lib.rotate_log)
   history/agent-log.md ← dated entries: what each wiki-wide change did and why (newest first)
@@ -1544,6 +1560,11 @@ ld-wiki/
     add_evidence_profile.py ← the `> **Evidence** ·` line on pages that cite claims
     add_currency.py    ← the `> **Currency** ·` line and currency fields on claims: newest study, source check, recheck year
     build_evidence_report.py ← evidence.md, the state of the wiki's evidence (generated)
+    build_check_report.py ← checks.md, how claims are checked and how far each check reaches (generated)
+    check_source_validity.py ← impossible statistics, invented references, retractions, dead DOIs in sources
+    stat_checks.py     ← the statistical and reference patterns check_source_validity.py reads with
+    judge_study_validity.py ← does a causal claim's study measure what it says, against what, isolated?
+    repair_dead_dois.py ← replace a DOI no registry knows with the verified one, or take it off
     search_index.py    ← SQLite FTS5 index of the wiki in .cache/, used by search and linking
     link_claims.py     ← labels and writes Related Claims links between claims
     merge_claims.py    ← folds a duplicate claim into its canonical page, keeping an alias

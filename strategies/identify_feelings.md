@@ -35,7 +35,7 @@ Labeling emotions is the foundational skill of emotional literacy: students cann
 - Static facial-expression matching overstates how readable emotions are; emotion recognition depends heavily on context, culture, and individual differences, so decontextualized face-matching tasks transfer weakly [~M]
 - Students with alexithymia or limited interoceptive awareness may accurately match pictures without connecting labels to their own felt experience — pairing with body-cue attention ([Act It Out](../elements/act-it-out.md)) is needed
 - Treating some emotions as "bad" teaches suppression rather than literacy; all labels should be framed as acceptable, with behavior — not feeling — as the target of guidance
-- Facial expression recognition is not universal: display rules and interpretation of expressions vary across cultures, so decontextualized face-matching can mislead [Emotion perception is culturally situated rather than universal.](https://doi.org/10.1177/1745691616689956) [~M]
+- Facial expression recognition is not universal: display rules and interpretation of expressions vary across cultures, so decontextualized face-matching can mislead Emotion perception is culturally situated rather than universal.
 - Forcing public emotional disclosure can harm learners with trauma histories or alexithymia; labeling should always be optional and private where possible [-M]
 - Isolated face-card drills produce recognition of posed expressions but transfer weakly to real social perception; context-rich practice is needed [-W]
 
@@ -112,7 +112,7 @@ Learners identify, label, or match facial expressions, body cues, and situationa
 
 ## Design Implications
 
-Putting feelings into words — affect labeling — reliably reduces amygdala reactivity and improves emotional regulation [Lieberman et al. (2007) found affect labeling dampened amygdala response.](https://doi.org/10.1111/j.1467-9280.2007.01916.x) [+M]. Precise emotion vocabulary also supports empathy and perspective-taking, since recognizing others' states is a prerequisite for responding to them [Building empathy improves intergroup attitudes.](../claims/building-empathy-improves-intergroup-attitudes.md) [+M]. Instruction should move beyond the basic six expressions toward granularity — distinguishing frustrated from disappointed, nervous from excited — because finer differentiation predicts better regulation outcomes [Emotional granularity is associated with improved self-regulation.](https://doi.org/10.1177/0963721418808822) [+W].
+Putting feelings into words — affect labeling — reliably reduces amygdala reactivity and improves emotional regulation [Lieberman et al. (2007) found affect labeling dampened amygdala response.](https://doi.org/10.1111/j.1467-9280.2007.01916.x) [+M]. Precise emotion vocabulary also supports empathy and perspective-taking, since recognizing others' states is a prerequisite for responding to them [Building empathy improves intergroup attitudes.](../claims/building-empathy-improves-intergroup-attitudes.md) [+M]. Instruction should move beyond the basic six expressions toward granularity — distinguishing frustrated from disappointed, nervous from excited — because finer differentiation predicts better regulation outcomes Emotional granularity is associated with improved self-regulation..
 
 ### Context
 #### Requirements
@@ -121,7 +121,7 @@ Putting feelings into words — affect labeling — reliably reduces amygdala re
 - A safe classroom climate; disclosure of feelings requires trust ([Check-In](../elements/check-in.md) routines help establish it)
 
 #### Constraints
-- Facial expression recognition is not universal: display rules and interpretation of expressions vary across cultures, so decontextualized face-matching can mislead [Emotion perception is culturally situated rather than universal.](https://doi.org/10.1177/1745691616689956) [~M]
+- Facial expression recognition is not universal: display rules and interpretation of expressions vary across cultures, so decontextualized face-matching can mislead Emotion perception is culturally situated rather than universal.
 - Forcing public emotional disclosure can harm learners with trauma histories or alexithymia; labeling should always be optional and private where possible [-M]
 - Isolated face-card drills produce recognition of posed expressions but transfer weakly to real social perception; context-rich practice is needed [-W]
 

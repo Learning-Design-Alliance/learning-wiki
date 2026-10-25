@@ -53,9 +53,9 @@ Lateral reading works because it shifts evaluation from judging *content* to jud
 - Classroom variants: [Case Study](../elements/case-study.md) analysis of a viral post, or live "source triage" races comparing student vs. fact-checker methods
 
 ### Target Learners
-- Secondary and higher-education students, whose credibility judgments rely heavily on surface features like design polish and domain endings [Students' civic online reasoning is weak across grade levels.](https://doi.org/10.3102/0013189X211035106) [+S]
+- Secondary and higher-education students, whose credibility judgments rely heavily on surface features like design polish and domain endings Students' civic online reasoning is weak across grade levels.
 - Adult learners in professional development focused on media and information literacy
-- Learners of all ages benefit, but instruction must be scaffolded for novices; brief interventions produce measurable gains even at scale [Brief instruction in lateral reading improves students' credibility evaluations.](https://doi.org/10.3102/0013189X211035106) [+M]
+- Learners of all ages benefit, but instruction must be scaffolded for novices; brief interventions produce measurable gains even at scale Brief instruction in lateral reading improves students' credibility evaluations.
 - Secondary and higher-education students, who in studies overwhelmingly fail to apply lateral reading without instruction ([Breakstone et al., 2021](https://doi.org/10.3102/0013189x211017495)) [-S for untaught populations]
 - Adult learners and professionals in media-literacy and civic-education programs
 - Less necessary for learners already trained as professional fact-checkers, who use the strategy spontaneously [+S]

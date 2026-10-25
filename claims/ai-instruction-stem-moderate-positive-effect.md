@@ -85,7 +85,7 @@ Fixed-effect analysis of the same 35 studies quantified between-study inconsiste
 ## Related Claims
 
 - [Gen-AI has a moderate positive overall effect on students' higher-order thinking (g = 0.609) across 29 experimental and quasi-experimental studies](genai-moderate-positive-effect-hot.md) — related
-- [ChatGPT-enhanced instruction produced significantly higher overall post-test achievement in Grade 12 Quantum Theory than traditional teaching, with a large effect size (η² > 0.14)](chatgpt-instruction-higher-quantum-posttest-achievement.md) — a narrower finding that bears on this claim
+- ChatGPT-enhanced instruction produced significantly higher overall post-test achievement in Grade 12 Quantum Theory than traditional teaching, with a large effect size (η² > 0.14) — a narrower finding that bears on this claim
 - [ITS produce significant positive effects at all grade levels and in almost all subject domains evaluated, with exceptions such as chemistry](its-effects-across-grades-subjects-prior-knowledge.md) — a narrower finding that bears on this claim
 - [AI-supported instruction is most effective at the high school level, with between-level differences statistically significant](ai-effect-highest-high-school-level.md) — a narrower finding that bears on this claim
 - [Interventions lasting one to two months show the largest effect, and effects do not increase consistently with longer duration](ai-effect-duration-one-to-two-months-peak.md) — a narrower finding that bears on this claim

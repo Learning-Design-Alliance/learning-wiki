@@ -15,11 +15,11 @@ generated:
 > **Evidence** · 3 claims (3 for) · 5 studies (2 causal, 2 quant-synthesis, 1 review), `q3`–`q4` · 2 of 5 report an effect size · 1 claim rests on one study
 
 ## Description
-Discipline-specific literacy (also called disciplinary literacy) teaches students how texts are constructed, interpreted, and used within a particular field — how historians source documents, how scientists read data and methods sections, how mathematicians parse proofs. It rests on the finding that literacy skills are not generic: the strategies that make a strong reader in one discipline can be counterproductive in another [Shanahan & Shanahan, 2008](https://doi.org/10.17763/haer.78.1.n77784r701489l70) [+S]. Instruction typically pairs [mentor texts](mentor-texts.md) with explicit modeling of disciplinary reading and writing moves, followed by guided practice and feedback.
+Discipline-specific literacy (also called disciplinary literacy) teaches students how texts are constructed, interpreted, and used within a particular field — how historians source documents, how scientists read data and methods sections, how mathematicians parse proofs. It rests on the finding that literacy skills are not generic: the strategies that make a strong reader in one discipline can be counterproductive in another Shanahan & Shanahan, 2008. Instruction typically pairs [mentor texts](mentor-texts.md) with explicit modeling of disciplinary reading and writing moves, followed by guided practice and feedback.
 
 ## Design Implications
 
-Disciplinary literacy works because it makes the hidden conventions of expert text practices visible and teachable, rather than leaving students to infer them from exposure alone [Shanahan & Shanahan, 2008](https://doi.org/10.17763/haer.78.1.n77784r701489l70) [+M]. Because experts' tacit practices must first be surfaced, instructors benefit from [Think-Aloud](../elements/think-aloud.md) modeling of how they actually read and write in their field.
+Disciplinary literacy works because it makes the hidden conventions of expert text practices visible and teachable, rather than leaving students to infer them from exposure alone Shanahan & Shanahan, 2008. Because experts' tacit practices must first be surfaced, instructors benefit from [Think-Aloud](../elements/think-aloud.md) modeling of how they actually read and write in their field.
 
 ### Context
 #### Requirements
@@ -29,8 +29,8 @@ Disciplinary literacy works because it makes the hidden conventions of expert te
 - Opportunities to write for [authentic audiences and purposes](../principles/authentic-audiences-purposes.md) with [feedback](../elements/feedback.md) at the task and process levels [Feedback is most effective when directed at the task and process rather than the self.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S]
 
 #### Constraints
-- Instructors are typically trained in content, not in their discipline's literacy practices; without professional development they default to generic "reading strategies" that do not reflect disciplinary norms [Shanahan & Shanahan, 2008](https://doi.org/10.17763/haer.78.1.n77784r701489l70) [-M]
-- Generic comprehension strategies (summarizing, predicting) show diminishing returns for adolescents who already decode fluently; adding more generic strategy instruction on top of disciplinary work adds little [Shanahan & Shanahan, 2008](https://doi.org/10.17763/haer.78.1.n77784r701489l70) [~M]
+- Instructors are typically trained in content, not in their discipline's literacy practices; without professional development they default to generic "reading strategies" that do not reflect disciplinary norms Shanahan & Shanahan, 2008
+- Generic comprehension strategies (summarizing, predicting) show diminishing returns for adolescents who already decode fluently; adding more generic strategy instruction on top of disciplinary work adds little Shanahan & Shanahan, 2008
 - Mentor texts and exemplars are unevenly available across disciplines; in less text-rich fields, instructors may need to curate or author materials
 - Overemphasis on discipline-specific conventions can narrow writing instruction; broad writing strategy instruction (planning, revising, sentence combining) carries much of the effect on writing quality [Graham & Perin, 2007](https://doi.org/10.1037/0022-0663.99.3.445) [+S]
 
@@ -40,7 +40,7 @@ Disciplinary literacy works because it makes the hidden conventions of expert te
 - **Multiple contrasting cases** of disciplinary texts (e.g., a news article vs. a research report on the same event) to make genre conventions visible [Cognitive Flexibility Theory](../theories/cognitive-flexibility-theory.md)
 
 ### Target Learners
-- Adolescent and post-secondary students who decode adequately but struggle with discipline-specific text structures and conventions [Shanahan & Shanahan, 2008](https://doi.org/10.17763/haer.78.1.n77784r701489l70) [+M]
+- Adolescent and post-secondary students who decode adequately but struggle with discipline-specific text structures and conventions Shanahan & Shanahan, 2008
 - Novices to a discipline, who lack the schemas experts use to parse specialized texts; explicit modeling reduces unguided search [Worked examples reduce unnecessary search for novices.](../claims/worked-examples-reduce-novice-search.md) [+M]
 - Students with reading difficulties need foundational supports first; disciplinary literacy supplements rather than replaces intensive intervention for struggling decoders [~M]
 

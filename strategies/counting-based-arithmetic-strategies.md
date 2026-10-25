@@ -25,7 +25,7 @@ Counting strategies are developmentally valuable but computationally expensive: 
 #### Requirements
 - Solid cardinality and one-to-one correspondence (counting principles) before strategy instruction
 - Concrete or visual counters ([Manipulatives](manipulatives.md), fingers, number lines) during the counting-all phase
-- Problem sets that make the inefficiency of counting all salient (larger addends) so learners adopt counting on [Groen, G. J., & Resnick, L. B. (1977). Can preschool children invent addition algorithms? *Journal of Educational Psychology, 69*(6), 645–652](https://doi.org/10.1037/0096-3445.106.1.63) [+M]
+- Problem sets that make the inefficiency of counting all salient (larger addends) so learners adopt counting on Groen, G. J., & Resnick, L. B. (1977). Can preschool children invent addition algorithms? *Journal of Educational Psychology, 69*(6), 645–652
 - Explicit prompts to compare strategies and explain why one is faster ([Self-Explanation](../elements/self-explanation.md)) [self-explanation-improves-conceptual-understanding](../claims/self-explanation-improves-conceptual-understanding.md) [+M]
 
 #### Constraints

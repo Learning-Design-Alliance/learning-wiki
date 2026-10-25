@@ -18,7 +18,6 @@ sources:
     title: "Hill, N. E., & Tyson, D. F. (2009). Parental involvement in middle school: A meta-analytic assessment of the strategies that promote achievement. *Developmental Psychology, 45*(3), 740–763"
     author: "Hill, N. E., & Tyson, D. F."
   - id: fan-chen-2001
-    resource: "https://doi.org/10.1080/01443410120090734"
     title: "Fan, X., & Chen, M. (2001). Parental involvement and students' academic achievement: A meta-analysis. *Educational Psychology Review, 13*(1), 1–22"
     author: "Fan, X., & Chen, M."
   - id: henderson-mapp-2002

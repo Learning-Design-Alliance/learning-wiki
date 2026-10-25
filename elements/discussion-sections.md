@@ -14,7 +14,6 @@ sources:
     title: "Chi, M. T. H., & Wylie, R. (2014). The ICAP framework: Linking cognitive engagement to active learning outcomes. *Educational Psychologist, 49*(4), 219–243"
     author: "Chi, M. T. H., & Wylie, R"
   - id: smith-2009
-    resource: "https://doi.org/10.1126/science.1175180"
     title: "Smith, M. K., Wood, W. B., Adams, W. K., et al. (2009). Why peer discussion improves student performance on in-class concept questions. *Science, 323*(5910), 122–124"
     author: "Smith, M. K., et al"
   - id: freeman-2014

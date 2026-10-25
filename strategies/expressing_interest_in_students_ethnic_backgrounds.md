@@ -19,7 +19,7 @@ Teachers demonstrate genuine care for students' cultural, emotional, and intelle
 
 ## Design Implications
 
-Expressing authentic interest in students' backgrounds builds the teacher–student relationships that underpin engagement and achievement; learner-centered relational practices show moderate positive associations with participation, motivation, and achievement [Learner-centered teacher–student relationships are associated with higher engagement and achievement.](https://doi.org/10.1080/00461520701411051) [+M]. When students see their identities reflected and valued in the curriculum, perceived task value rises, which supports motivation and engagement [Task value increases motivation and engagement.](../claims/task-value-increases-motivation-and-engagement.md) [+M]. The teacher's role shifts from transmitter to co-learner: the teacher must model curiosity and humility rather than treating cultural knowledge as a unit to be covered.
+Expressing authentic interest in students' backgrounds builds the teacher–student relationships that underpin engagement and achievement; learner-centered relational practices show moderate positive associations with participation, motivation, and achievement Learner-centered teacher–student relationships are associated with higher engagement and achievement.. When students see their identities reflected and valued in the curriculum, perceived task value rises, which supports motivation and engagement [Task value increases motivation and engagement.](../claims/task-value-increases-motivation-and-engagement.md) [+M]. The teacher's role shifts from transmitter to co-learner: the teacher must model curiosity and humility rather than treating cultural knowledge as a unit to be covered.
 
 ### Context
 #### Requirements

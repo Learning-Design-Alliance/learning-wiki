@@ -19,7 +19,7 @@ Augmented reality overlays digital content — 3D models, annotations, audio, vi
 
 ## Design Implications
 
-AR's learning benefit comes primarily from externalizing abstract or spatially complex content into manipulable 3D representations, which supports mental model construction through dual coding — combining verbal and visual channels [Dual coding improves recall.](../claims/dual-coding-improves-learning.md) [+M]. Meta-analytic evidence shows moderate positive effects on learning gains and substantially larger effects on motivation and engagement compared with non-AR instruction [Radu, 2014](https://doi.org/10.1007/s00779-014-0747-y) [+M]; a broader meta-analysis confirms positive effects on achievement, with the largest gains when AR supplements rather than replaces existing instruction [Garzón & Acevedo, 2019](https://doi.org/10.1111/bjet.12794) [+M]. However, AR is a delivery medium, not a pedagogy: benefits depend on the instructional design wrapped around it, and poorly designed AR can add extraneous load through novelty effects, interface friction, and split attention between device and physical task [Cognitive overload degrades learning.](../claims/cognitive-overload-degrades-learning.md) [~M].
+AR's learning benefit comes primarily from externalizing abstract or spatially complex content into manipulable 3D representations, which supports mental model construction through dual coding — combining verbal and visual channels [Dual coding improves recall.](../claims/dual-coding-improves-learning.md) [+M]. Meta-analytic evidence shows moderate positive effects on learning gains and substantially larger effects on motivation and engagement compared with non-AR instruction Radu, 2014; a broader meta-analysis confirms positive effects on achievement, with the largest gains when AR supplements rather than replaces existing instruction [Garzón & Acevedo, 2019](https://doi.org/10.1111/bjet.12794) [+M]. However, AR is a delivery medium, not a pedagogy: benefits depend on the instructional design wrapped around it, and poorly designed AR can add extraneous load through novelty effects, interface friction, and split attention between device and physical task [Cognitive overload degrades learning.](../claims/cognitive-overload-degrades-learning.md) [~M].
 
 ### Context
 #### Requirements
@@ -42,13 +42,13 @@ AR's learning benefit comes primarily from externalizing abstract or spatially c
 - **Supplemental vs. replacement**: evidence favors AR as a supplement to, not a substitute for, hands-on or teacher-led instruction [Garzón & Acevedo, 2019](https://doi.org/10.1111/bjet.12794) [+M]
 
 ### Target Learners
-- Learners encountering spatially complex, abstract, or invisible content (chemistry, anatomy, geometry, astronomy) for the first time [Radu, 2014](https://doi.org/10.1007/s00779-014-0747-y) [+M]
+- Learners encountering spatially complex, abstract, or invisible content (chemistry, anatomy, geometry, astronomy) for the first time Radu, 2014
 - K–12 students, where engagement effects are strongest; effects on achievement are more consistent in secondary and higher education [Garzón & Acevedo, 2019](https://doi.org/10.1111/bjet.12794) [~M]
 - Learners who benefit from concrete manipulation before symbolic representation — AR can serve as a bridge between physical and abstract [~W]
 - Less beneficial for learners who already hold accurate mental models of the content, for whom the 3D overlay is redundant
 
 ### Target Learning Goals
-- Spatial and structural understanding: mental models of 3D objects, systems, and processes [Radu, 2014](https://doi.org/10.1007/s00779-014-0747-y) [+M]
+- Spatial and structural understanding: mental models of 3D objects, systems, and processes Radu, 2014
 - Conceptual change in science: making invisible mechanisms (forces, currents, cellular processes) observable [~M]
 - Engagement and motivation as a lever for persistence on challenging content [+M]
 - Not well suited to goals centered on text comprehension, discussion, or argumentation, where AR adds little beyond the underlying activity

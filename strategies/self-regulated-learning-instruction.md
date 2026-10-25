@@ -70,7 +70,7 @@ SRL instruction works best when strategy teaching is embedded in authentic subje
 - Students transitioning to independent study contexts (first-year university, online learning) who must manage their own pacing
 - Less effective when delivered to already-skilled self-regulators without adaptation — instruction can be redundant and even disrupt efficient personal routines [~M]
 - Upper elementary through adult learners; effects of SRL training are strongest and most durable from late primary onward [+S]
-- Struggling learners and low achievers benefit substantially from explicit strategy instruction [Dignath & Büttner (2008)](https://doi.org/10.1007/s10648-008-9080-x) [+S]
+- Struggling learners and low achievers benefit substantially from explicit strategy instruction Dignath & Büttner (2008)
 - Novices need more external scaffolding of regulation; experts already regulate adaptively and may find prompts redundant [~M]
 
 ### Target Learning Goals
@@ -219,7 +219,7 @@ Self Regulated Learning (SRL) is the process by which learners take active contr
 
 ## Design Implications
 
-SRL instruction works because learners who monitor their understanding and adapt their strategies allocate effort more effectively than those who simply study harder; strategy training alone is insufficient without instruction in when and why to deploy strategies [+S]. Effective programs embed SRL prompts and modeling within subject-matter instruction rather than teaching study skills in isolation [Dignath & Büttner meta-analysis of classroom interventions](https://doi.org/10.1007/s10648-008-9080-x) [+S]. Because SRL depends on learner autonomy, overly controlling instructional environments suppress the very behaviors the strategy aims to build [Autonomy supports intrinsic motivation.](../claims/autonomy-supports-intrinsic-motivation.md) [+S].
+SRL instruction works because learners who monitor their understanding and adapt their strategies allocate effort more effectively than those who simply study harder; strategy training alone is insufficient without instruction in when and why to deploy strategies [+S]. Effective programs embed SRL prompts and modeling within subject-matter instruction rather than teaching study skills in isolation Dignath & Büttner meta-analysis of classroom interventions. Because SRL depends on learner autonomy, overly controlling instructional environments suppress the very behaviors the strategy aims to build [Autonomy supports intrinsic motivation.](../claims/autonomy-supports-intrinsic-motivation.md) [+S].
 
 ### Context
 #### Requirements
@@ -241,7 +241,7 @@ SRL instruction works because learners who monitor their understanding and adapt
 
 ### Target Learners
 - Upper elementary through adult learners; effects of SRL training are strongest and most durable from late primary onward [+S]
-- Struggling learners and low achievers benefit substantially from explicit strategy instruction [Dignath & Büttner (2008)](https://doi.org/10.1007/s10648-008-9080-x) [+S]
+- Struggling learners and low achievers benefit substantially from explicit strategy instruction Dignath & Büttner (2008)
 - Novices need more external scaffolding of regulation; experts already regulate adaptively and may find prompts redundant [~M]
 
 ### Target Learning Goals

@@ -93,7 +93,7 @@ Completion problems reduce the unguided search that makes early problem solving 
 - **Math Academy (https://www.mathacademy.com)** — diagnostic-prescribed problem sequences that move from heavily supported items to independent problems as mastery evidence accumulates.
 
 ## Key Sources
-- van Merriënboer, J. J. G. (1990). Strategies for programming instruction in high school: Program completion vs. program generation. *Journal of Educational Computing Research, 6*(3), 265–285. [doi:10.2190/NW2X-L8GK-M8PP-1L7N](https://doi.org/10.2190/NW2X-L8GK-M8PP-1L7N)
+- van Merriënboer, J. J. G. (1990). Strategies for programming instruction in high school: Program completion vs. program generation. *Journal of Educational Computing Research, 6*(3), 265–285. [doi:10.2190/4nk5-17l7-twqv-1ehl](https://doi.org/10.2190/4nk5-17l7-twqv-1ehl)
 - Renkl, A., Atkinson, R. K., & Große, C. S. (2004). How fading worked solution steps works — a cognitive load perspective. *Instructional Science, 32*(1–2), 59–82. [doi:10.1023/b:truc.0000021815.74806.f6](https://doi.org/10.1023/b:truc.0000021815.74806.f6)
 - van Merriënboer, J. J. G., & Kirschner, P. A. (2018). *Ten steps to complex learning* (3rd ed.). Routledge.
 - Sweller, J., van Merriënboer, J. J. G., & Paas, F. (2019). Cognitive architecture and instructional design: 20 years later. *Educational Psychology Review, 31*(2), 261–292. [doi:10.1007/s10648-019-09465-5](https://doi.org/10.1007/s10648-019-09465-5)

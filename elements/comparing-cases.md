@@ -10,7 +10,6 @@ generated:
   at: 2026-04-08
 sources:
   - id: rittle-johnson-2009
-    resource: "https://doi.org/10.1007/s10648-009-9112-7"
     title: "Rittle-Johnson, B., Star, J. R., & Durkin, K. (2009). The importance of prior knowledge when comparing examples. *Educational Psychology Review, 21*(4), 321-344"
     author: "Rittle-Johnson, B., Star, J. R., & Durkin, K"
 ---

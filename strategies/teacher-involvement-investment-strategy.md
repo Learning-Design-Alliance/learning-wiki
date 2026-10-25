@@ -45,7 +45,8 @@ Based on the finding that teacher-reported involvement predicted student self-de
 - [Student perceptions of autonomy support, structure, and involvement positively predict student self-determination, mediated by autonomy and competence need satisfaction](../claims/student-perceived-strategies-predict-sdi.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Foster self-determined motivation at the start of a learning cycle to support later achievement](foster-self-determined-motivation-before-instruction-cycle.md)
 
 ## Examples
 -

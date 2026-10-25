@@ -55,3 +55,4 @@ The long-delay effects come mostly from the practice techniques, whose benefits 
 - [Distributed Practice Improves Retention](spaced-practice-improves-retention.md) — related
 - [Retention interval moderates the testing effect: effects are larger after a day or more than at shorter intervals, where individual studies vary from reliable to null or reversed](retention-interval-moderates-testing-effect.md) — reports the opposite
 - [The testing effect is largest at a retention interval of 1–6 days (g = 0.82) and robust across all intervals](retention-interval-one-to-six-days-largest.md) — reports the opposite
+- [One month after learning, retention rank remains roughly stable: students maintain immediate-reproduction rank at least three out of four times](one-month-retention-rank-stability.md) — related

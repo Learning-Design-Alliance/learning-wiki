@@ -19,7 +19,7 @@ Process oriented feedback directs attention to how a learner produced their work
 
 ## Design Implications
 
-Feedback is among the most powerful influences on achievement, but its effects are highly variable — poorly targeted feedback can reduce performance [Kluger & DeNisi found over a third of feedback interventions lowered performance.](https://doi.org/10.1037/0033-2909.119.2.254) [~S]. Process oriented feedback works because it gives learners actionable information about controllable behavior, supporting self-regulation rather than ego defense [Feedback framed around task and process improves achievement more than person-focused praise.](https://doi.org/10.1080/00405840709536575) [+S]. It should be specific, timely, and tied to criteria the learner understands, and delivered while revision is still possible ([Assessment for Learning](../principles/assessment-for-learning.md)).
+Feedback is among the most powerful influences on achievement, but its effects are highly variable — poorly targeted feedback can reduce performance [Kluger & DeNisi found over a third of feedback interventions lowered performance.](https://doi.org/10.1037/0033-2909.119.2.254) [~S]. Process oriented feedback works because it gives learners actionable information about controllable behavior, supporting self-regulation rather than ego defense Feedback framed around task and process improves achievement more than person-focused praise.. It should be specific, timely, and tied to criteria the learner understands, and delivered while revision is still possible ([Assessment for Learning](../principles/assessment-for-learning.md)).
 
 ### Context
 #### Requirements

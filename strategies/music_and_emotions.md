@@ -15,7 +15,7 @@ generated:
 > **Evidence** · 2 claims (2 for) · 5 studies (4 causal, 1 quant-synthesis), `q3`–`q4` · 0 of 5 report an effect size
 
 ## Description
-Learners listen to selected musical excerpts and identify, name, and discuss the emotions the music evokes, then connect those responses to their own experiences. Music is a reliable elicitor of emotion — listeners consistently report felt emotions matching the perceived emotional character of a piece [Juslin & Västfjäll's BRECVEMA framework describes seven mechanisms through which music arouses emotion.](https://doi.org/10.1017/S0140525X08004795) [+S] — which makes it a low-stakes, concrete stimulus for practicing emotional identification and expression.
+Learners listen to selected musical excerpts and identify, name, and discuss the emotions the music evokes, then connect those responses to their own experiences. Music is a reliable elicitor of emotion — listeners consistently report felt emotions matching the perceived emotional character of a piece Juslin & Västfjäll's BRECVEMA framework describes seven mechanisms through which music arouses emotion. — which makes it a low-stakes, concrete stimulus for practicing emotional identification and expression.
 
 ## Design Implications
 
@@ -29,9 +29,9 @@ Music provides an affective stimulus that is shared but personally interpreted, 
 
 #### Constraints
 - Requires learners to be respectful of differing musical tastes; ridicule of responses shuts down disclosure [-M]
-- Individual responses to music vary with personal history, culture, and associations [Music-evoked emotion depends heavily on listener context, memory, and cultural background.](https://doi.org/10.1017/S0140525X08004795) [~S] — facilitators should not treat any mapping of music-to-emotion as universal
+- Individual responses to music vary with personal history, culture, and associations Music-evoked emotion depends heavily on listener context, memory, and cultural background. — facilitators should not treat any mapping of music-to-emotion as universal
 - Learners processing trauma or acute distress may find unstructured emotional disclosure destabilizing; participation in sharing should be optional [-W]
-- Background music played *during* other learning tasks can impair comprehension and memory for verbal material [Background music harms reading comprehension and verbal memory.](https://doi.org/10.1037/0278-7393.22.2.381) [-S] — music should be the object of attention, not accompaniment
+- Background music played *during* other learning tasks can impair comprehension and memory for verbal material Background music harms reading comprehension and verbal memory. — music should be the object of attention, not accompaniment
 
 #### Implementation Variability
 - **Listen-and-label**: brief excerpt, then individual emotion naming before group discussion

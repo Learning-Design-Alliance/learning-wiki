@@ -20,7 +20,7 @@ Feedback is information provided to learners about their performance or understa
 
 ## Design Implications
 
-Feedback is among the most powerful influences on learning, but its effects are highly variable — it can improve or degrade performance depending on design [Feedback effects on performance are highly variable and can be negative.](https://doi.org/10.1037/0033-2909.120.2.254) [~S]. Feedback should focus on the task and the process, not the person; praise directed at the self carries little informational value and can undermine motivation. Feedback is most effective when learners have an opportunity to act on it — feedback delivered after grading, or without a revision opportunity, is largely wasted [Formative feedback with opportunities to act improves achievement.](https://doi.org/10.3102/0034654308317959) [+S].
+Feedback is among the most powerful influences on learning, but its effects are highly variable — it can improve or degrade performance depending on design Feedback effects on performance are highly variable and can be negative.. Feedback should focus on the task and the process, not the person; praise directed at the self carries little informational value and can undermine motivation. Feedback is most effective when learners have an opportunity to act on it — feedback delivered after grading, or without a revision opportunity, is largely wasted Formative feedback with opportunities to act improves achievement..
 
 ### Context
 #### Requirements
@@ -30,7 +30,7 @@ Feedback is among the most powerful influences on learning, but its effects are 
 - A revision or retry cycle — feedback without a subsequent action is inert ([Formative Assessment](formative-assessment.md))
 
 #### Constraints
-- Feedback on performance level alone (grades, scores) without process information adds little and can reduce performance for struggling learners [Feedback effects on performance are highly variable and can be negative.](https://doi.org/10.1037/0033-2909.120.2.254) [-S]
+- Feedback on performance level alone (grades, scores) without process information adds little and can reduce performance for struggling learners Feedback effects on performance are highly variable and can be negative.
 - Overly detailed feedback can overwhelm novices; too much guidance at once increases extraneous load [~M]
 - Feedback that threatens the ego (public correction, comparative ranking) triggers disengagement rather than improvement [-M]
 - Immediate feedback is not always superior — delayed feedback can benefit retention for some tasks [~W]

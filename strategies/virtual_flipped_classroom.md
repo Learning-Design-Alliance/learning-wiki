@@ -9,15 +9,13 @@ generated:
   at: 2026-08-29
 sources:
   - id: strelan-2020
-    resource: "https://doi.org/10.1016/j.edurev.2019.100314"
     title: "Strelan, P., Osborn, A., & Palmer, E. (2020). The flipped classroom: A meta-analysis of effects on student performance across disciplines and education levels. *Educational Research Review, 30*, 100314"
     author: "Strelan, P., Osborn, A., & Palmer, E"
   - id: van-alten-2019
-    resource: "https://doi.org/10.1016/j.edurev.2019.100303"
+    resource: "https://doi.org/10.1016/j.edurev.2019.04.001"
     title: "van Alten, D. C. D., Phielix, C., Janssen, J., & Kester, L. (2019). Effects of flipping the classroom on learning outcomes and satisfaction: A meta-analysis. *Educational Research Review, 28*, 100303"
     author: "van Alten, D. C. D., Phielix, C., Janssen, J., & Kester, L"
   - id: bergmann-2012
-    resource: "https://doi.org/10.4135/9781544318497"
     title: "Bergmann, J., & Sams, A. (2012). *Flip your classroom: Reach every student in every class every day*. ISTE/ASCD"
     author: "Bergmann, J., & Sams, A"
 ---
@@ -32,7 +30,7 @@ A virtual flipped classroom moves all first-exposure instruction — videos, rea
 
 ## Design Implications
 
-The flipped model's advantage comes from spending scarce synchronous time on active application rather than transmission [Active learning improves exam performance relative to lecture transmission.](../claims/active-learning-improves-exam-performance.md) [+S], and meta-analytic evidence supports flipped designs over traditional lecture across disciplines [Strelan et al., 2020](https://doi.org/10.1016/j.edurev.2019.100314) [+M]. In the fully virtual variant, the asynchronous layer must do more motivational and structural work, since learners complete it alone and without the social accountability of an upcoming class meeting.
+The flipped model's advantage comes from spending scarce synchronous time on active application rather than transmission [Active learning improves exam performance relative to lecture transmission.](../claims/active-learning-improves-exam-performance.md) [+S], and meta-analytic evidence supports flipped designs over traditional lecture across disciplines Strelan et al., 2020. In the fully virtual variant, the asynchronous layer must do more motivational and structural work, since learners complete it alone and without the social accountability of an upcoming class meeting.
 
 ### Context
 #### Requirements
@@ -42,10 +40,10 @@ The flipped model's advantage comes from spending scarce synchronous time on act
 - Low-stakes accountability for preparation, since voluntary pre-work completion is the model's most common failure point
 
 #### Constraints
-- Without accountability or embedded checks, a large share of students skip the asynchronous preparation, collapsing the synchronous session into re-teaching [van Alten et al., 2019](https://doi.org/10.1016/j.edurev.2019.100303) [~M]
-- Students with low self-regulation skills struggle more in flipped designs, where responsibility for first exposure shifts to the learner [van Alten et al., 2019](https://doi.org/10.1016/j.edurev.2019.100303) [-M]
+- Without accountability or embedded checks, a large share of students skip the asynchronous preparation, collapsing the synchronous session into re-teaching [van Alten et al., 2019](https://doi.org/10.1016/j.edurev.2019.04.001) [~M]
+- Students with low self-regulation skills struggle more in flipped designs, where responsibility for first exposure shifts to the learner [van Alten et al., 2019](https://doi.org/10.1016/j.edurev.2019.04.001) [-M]
 - Fully virtual delivery removes the informal monitoring cues of a physical room; instructors need explicit [Check-Ins](../elements/check-in.md) and small-group structures to detect confusion
-- Increased instructor workload for producing media and facilitating online sessions can degrade quality if the model is adopted without time to build materials [Bergmann & Sams, 2012](https://doi.org/10.4135/9781544318497) [~W]
+- Increased instructor workload for producing media and facilitating online sessions can degrade quality if the model is adopted without time to build materials Bergmann & Sams, 2012
 
 #### Implementation Variability
 - **Individual vs. group space emphasis:** some implementations make synchronous sessions optional office hours; others run required collaborative workshops. Required application sessions show stronger outcomes.
@@ -54,8 +52,8 @@ The flipped model's advantage comes from spending scarce synchronous time on act
 
 ### Target Learners
 - Students with basic self-regulation skills who can manage asynchronous first exposure independently
-- Underprepared students benefit disproportionately from the ability to pause, rewatch, and re-attempt instruction [Strelan et al., 2020](https://doi.org/10.1016/j.edurev.2019.100314) [+M]
-- Less suitable for students with very weak self-regulation unless paired with structured deadlines and scaffolds [van Alten et al., 2019](https://doi.org/10.1016/j.edurev.2019.100303) [~M]
+- Underprepared students benefit disproportionately from the ability to pause, rewatch, and re-attempt instruction Strelan et al., 2020
+- Less suitable for students with very weak self-regulation unless paired with structured deadlines and scaffolds [van Alten et al., 2019](https://doi.org/10.1016/j.edurev.2019.04.001) [~M]
 
 ### Target Learning Goals
 - Procedural and problem-solving skill, where synchronous time is spent applying what was studied asynchronously
@@ -85,7 +83,7 @@ The flipped model's advantage comes from spending scarce synchronous time on act
 
 ## Key Sources
 - Strelan, P., Osborn, A., & Palmer, E. (2020). The flipped classroom: A meta-analysis of effects on student performance across disciplines and education levels. *Educational Research Review, 30*, 100314. [doi:10.1016/j.edurev.2020.100314](https://doi.org/10.1016/j.edurev.2020.100314)
-- van Alten, D. C. D., Phielix, C., Janssen, J., & Kester, L. (2019). Effects of flipping the classroom on learning outcomes and satisfaction: A meta-analysis. *Educational Research Review, 28*, 100303. [doi:10.1016/j.edurev.2019.100303](https://doi.org/10.1016/j.edurev.2019.100303)
+- van Alten, D. C. D., Phielix, C., Janssen, J., & Kester, L. (2019). Effects of flipping the classroom on learning outcomes and satisfaction: A meta-analysis. *Educational Research Review, 28*, 100303. [doi:10.1016/j.edurev.2019.04.001](https://doi.org/10.1016/j.edurev.2019.04.001)
 - Bergmann, J., & Sams, A. (2012). *Flip your classroom: Reach every student in every class every day*. ISTE/ASCD.
 - Freeman, S., et al. (2014). Active learning increases student performance in science, engineering, and mathematics. *PNAS, 111*(23), 8410–8415. [doi:10.1073/pnas.1319030111](https://doi.org/10.1073/pnas.1319030111)
 

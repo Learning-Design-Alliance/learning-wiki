@@ -46,3 +46,4 @@ Small classroom test of 13 classmates using a reconstruction method in which eac
 
 ## Related Claims
 - [A student spontaneously recalled a list of ten nonsense syllables some nine months after incidental learning, with only two minor auditory errors and correct order](spontaneous-nine-month-recall-nonsense-syllables.md) — related
+- [Learning nonsense syllables backward takes a higher total-repetition ratio than forward, suggesting interference between habits](backward-learning-higher-repetition-ratio-interference.md) — related

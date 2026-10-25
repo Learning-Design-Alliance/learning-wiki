@@ -1,0 +1,24 @@
+{
+ "refs": {
+  "at": "2026-10-25",
+  "dois_checked": 6519,
+  "high": 0,
+  "scope": "AI-era sources",
+  "sources_checked": 610,
+  "with_findings": 202
+ },
+ "retractions": {
+  "at": "2026-10-25",
+  "dead": 0,
+  "dois_cited": 6793,
+  "dois_looked_up": 6793,
+  "notices": 4
+ },
+ "stats": {
+  "at": "2026-10-25",
+  "high": 4,
+  "sources_ingested": 7135,
+  "sources_with_text": 6251,
+  "with_findings": 43
+ }
+}

@@ -71,7 +71,7 @@ Debriefing operationalizes the reflection stage of experiential learning: experi
 - [Blend the PEARLS debrief with CHAT-guided facilitation to extend debriefing from the individual to the team and system](blended-pearls-chat-debrief-strategy.md)
 
 ## Examples
-- **Simulation-based healthcare education** — Post-scenario debriefing is considered the pedagogical heart of simulation; programs following [Fanning & Gaba's](https://doi.org/10.2310/4745.2007.00006) framework treat the scenario as merely the stimulus for the debrief.
+- **Simulation-based healthcare education** — Post-scenario debriefing is considered the pedagogical heart of simulation; programs following Fanning & Gaba's framework treat the scenario as merely the stimulus for the debrief.
 - **[After-Action Review](after-action-review.md) (AAR)** — The U.S. Army's structured post-mission review (what was supposed to happen, what happened, why, what to sustain/improve), widely adopted in corporate and safety training.
 - **Harvard Business School case method** — The post-discussion wrap-up in which the instructor consolidates the board plan and takeaways functions as a debrief of the case discussion ([Case-Based Learning — Harvard Method](../patterns/case-based-learning.md)).
 

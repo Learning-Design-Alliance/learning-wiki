@@ -208,6 +208,7 @@ def run(skip_doi: bool = False) -> dict:
         "cross_folder_self_referential": len(self_referential),
         "cross_folder_needs_judgment": len(needs_judgment),
         "incomplete_pages": incomplete,
+        **source_validity_counts(),
         "evidence": {k: v for k, v in evidence.items() if k != "_detail"},
         "_detail": {
             "evidence": evidence,
@@ -235,6 +236,23 @@ def run(skip_doi: bool = False) -> dict:
     }
 
 
+def source_validity_counts() -> dict:
+    """Undecided findings from check_source_validity.py and judge_study_validity.py
+    (both read their own run files; a machine that has not run them reports 0)."""
+    out = {"source_validity_open": 0, "study_validity_open": 0}
+    try:
+        import check_source_validity as csv_
+        done = csv_.reviewed()
+        rows = [r for r in csv_.load_ndjson(csv_.FINDINGS) if r["key"] not in done]
+        out["source_validity_open"] = len({r["source"] for r in rows if r["severity"] == "high"})
+        import judge_study_validity as jsv
+        rows, waiting = jsv.open_findings()
+        out["study_validity_open"] = len(rows) + waiting
+    except Exception as e:      # a broken check must not hide the rest of the report
+        out["source_validity_error"] = str(e)
+    return out
+
+
 def format_report(result: dict) -> str:
     lint_total = sum(result["lint"].values())
     lint_breakdown = ", ".join(f"{k}={v}" for k, v in result["lint"].items() if v)
@@ -257,6 +275,10 @@ def format_report(result: dict) -> str:
         f"- Near-duplicate title pairs (same folder) no judge has decided: {result['title_duplicates']} "
         f"— `judge_duplicates.py --type <kind> --apply` (claims: `judge_claim_merges.py --judge --titles`)",
         f"- DOI resolution problems: {result['doi_issues']}",
+        f"- Sources with an undecided high-severity validity finding: {result.get('source_validity_open', 0)} "
+        f"— `check_source_validity.py --report`",
+        f"- Causal evidence entries with an undecided study-validity problem: {result.get('study_validity_open', 0)} "
+        f"— `judge_study_validity.py --report --all`",
         f"- Cross-folder slug collisions: {result['cross_folder_collisions']} "
         f"({result['cross_folder_self_referential']} resolved deterministically, "
         f"{result['cross_folder_needs_judgment']} need judgment — run "

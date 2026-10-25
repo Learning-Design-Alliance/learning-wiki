@@ -11,7 +11,7 @@ generated:
   at: 2026-10-02
 sources:
   - id: cognition-and-technology-group-at-vanderbilt-1992
-    resource: "https://doi.org/10.1007/BF02296729"
+    resource: "https://doi.org/10.1007/bf02296707"
     title: "Cognition and Technology Group at Vanderbilt. (1992). The Jasper experiment: An exploration of issues in learning and instructional design. *Educational Technology Research and Development, 40*(1), 65-80"
     author: Cognition and Technology Group at Vanderbilt
   - id: penuel-et-al-2022
@@ -151,7 +151,7 @@ This pattern is scoped to lessons and units built around one shared scenario, wi
 
 ## Key Sources
 - Bransford, J. D., Sherwood, R. D., Hasselbring, T. S., Kinzer, C. K., & Williams, S. M. (1990). Anchored instruction: Why we need it and how technology can help. In D. Nix & R. Spiro (Eds.), *Cognition, education, and multimedia* (pp. 115-141). Erlbaum.
-- Cognition and Technology Group at Vanderbilt. (1992). The Jasper experiment: An exploration of issues in learning and instructional design. *Educational Technology Research and Development, 40*(1), 65-80. [https://doi.org/10.1007/BF02296729](https://doi.org/10.1007/BF02296729)
+- Cognition and Technology Group at Vanderbilt. (1992). The Jasper experiment: An exploration of issues in learning and instructional design. *Educational Technology Research and Development, 40*(1), 65-80. [https://doi.org/10.1007/bf02296707](https://doi.org/10.1007/bf02296707)
 - Penuel, W. R., Allen, A.-R., Henson, K., Campanella, M., Patton, R., Rademaker, K., Reed, W., Watkins, D., Wingert, K., Reiser, B., & Zivic, A. (2022). Learning Practical Design Knowledge through Co-Designing Storyline Science Curriculum Units. *Cognition and Instruction, 40*(1), 148-170. [https://doi.org/10.1080/07370008.2021.2010207](https://doi.org/10.1080/07370008.2021.2010207)
 - Schank, R. C. (1994). Goal-based scenarios: A radical look at education. *The Journal of the Learning Sciences, 3*(4), 429-453. [https://doi.org/10.1207/s15327809jls0304_5](https://doi.org/10.1207/s15327809jls0304_5)
 - Schank, R. C., Berman, T. R., & Macpherson, K. A. (1999). Learning by doing. In C. Reigeluth (Ed.), *Instructional-design theories and models: A new paradigm of instructional theory* (Vol. II, pp. 161-181). Erlbaum.

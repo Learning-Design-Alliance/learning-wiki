@@ -19,7 +19,7 @@ Mobile communication for family engagement uses SMS text messaging (and similar 
 
 ## Design Implications
 
-Texting works because it lowers the cost of the school-to-family information flow, reducing the "information frictions" that keep parents from acting on their child's needs [Bergman & Chan's texting intervention raised ELA achievement by reducing parent information gaps.](https://doi.org/10.3368/jhr.58.1.0918-9761R1) [+M]. Messages function as a form of [Feedback](../elements/feedback.md) delivered to the family rather than the student, and are most useful when they specify what to do next, not just how the child is doing [Feedback most effective at task and process levels.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S].
+Texting works because it lowers the cost of the school-to-family information flow, reducing the "information frictions" that keep parents from acting on their child's needs Bergman & Chan's texting intervention raised ELA achievement by reducing parent information gaps.. Messages function as a form of [Feedback](../elements/feedback.md) delivered to the family rather than the student, and are most useful when they specify what to do next, not just how the child is doing [Feedback most effective at task and process levels.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S].
 
 ### Context
 #### Requirements
@@ -29,20 +29,20 @@ Texting works because it lowers the cost of the school-to-family information flo
 - Consent and clear opt-in/opt-out handling; awareness of text costs for prepaid plans
 
 #### Constraints
-- Generic, one-size-fits-all broadcasts show weak or null effects; personalization and actionability drive outcomes [Kraft & Rogers found personalized, student-specific texts increased parent response rates far more than generic ones.](https://doi.org/10.3102/0013189X15589581) [+M]
+- Generic, one-size-fits-all broadcasts show weak or null effects; personalization and actionability drive outcomes Kraft & Rogers found personalized, student-specific texts increased parent response rates far more than generic ones.
 - Families without reliable phone access, with shared phones, or with distrust of school contact may be unreachable or opt out; texting cannot substitute for relationship-building
 - Over-messaging causes fatigue and opt-outs; effects attenuate when frequency is high and content is redundant [~M]
 - Messages that place heavy literacy or time demands on families (e.g., "tutor your child in fractions") are less feasible than low-effort prompts (attendance reminders, "ask what she read today")
 
 #### Implementation Variability
 - **Progress/attendance alerts:** automated, triggered by data (missing work, absences); scalable but least personal
-- **Teacher-sent personalized texts:** higher impact per message on engagement and trust [Kraft & Dougherty found teacher-frequent texting increased student engagement and homework completion.](https://doi.org/10.1080/19345747.2013.794840) [+M] but costs teacher time
+- **Teacher-sent personalized texts:** higher impact per message on engagement and trust Kraft & Dougherty found teacher-frequent texting increased student engagement and homework completion. but costs teacher time
 - **Learning tips ("text nudges"):** short, curriculum-aligned suggestions for home activities, as in York & Loeb's kindergarten literacy texting program [+M]
 - **Two-way messaging:** families can reply, ask questions, and flag problems, converting broadcast into [Coaching](../elements/coaching.md) and enabling [Check-ins](../principles/check-ins.md)
 
 ### Target Learners
 - Families of K–12 students, with the strongest documented effects for early-grades literacy and middle-grades engagement
-- Low-income families and families of color, who are disproportionately reached by text where portals and conferences underperform [Bergman & Chan's texting intervention raised ELA achievement by reducing parent information gaps.](https://doi.org/10.3368/jhr.58.1.0918-9761R1) [+M]
+- Low-income families and families of color, who are disproportionately reached by text where portals and conferences underperform Bergman & Chan's texting intervention raised ELA achievement by reducing parent information gaps.
 - Multilingual families, when messages are translated into home languages
 - Families of students with low [Self-efficacy](../claims/self-efficacy-predicts-academic-persistence.md) [+W] — regular progress messages can build a sense of efficacy and persistence for both parent and child
 
@@ -56,7 +56,7 @@ Texting works because it lowers the cost of the school-to-family information flo
 2. **Choose a platform** with translation and two-way capability (e.g., TalkingPoints, Remind).
 3. **Segment audiences** — grade level, language, current student needs — rather than sending school-wide blasts.
 4. **Draft message templates** that pair one piece of student-specific information with one actionable step ([Provide guidance](../elements/provide-guidance.md)).
-5. **Personalize before automating:** merge student names, specific assignments, or specific behaviors into every message [Kraft & Rogers found personalized, student-specific texts increased parent response rates far more than generic ones.](https://doi.org/10.3102/0013189X15589581) [+M]
+5. **Personalize before automating:** merge student names, specific assignments, or specific behaviors into every message Kraft & Rogers found personalized, student-specific texts increased parent response rates far more than generic ones.
 6. **Set a sustainable cadence** (e.g., weekly progress plus event-triggered alerts) and monitor opt-out rates.
 7. **Enable and respond to replies**, using two-way exchange for [Check-ins](../principles/check-ins.md) and relationship-building ([Provide feedback](../elements/feedback.md)).
 8. **Evaluate:** track attendance, homework completion, and achievement alongside family survey feedback; A/B test message formats where feasible.

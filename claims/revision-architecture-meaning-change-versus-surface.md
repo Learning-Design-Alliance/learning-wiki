@@ -54,7 +54,7 @@ Revision coding across the three cycles in the two-class quasi-experiment, shown
 | [Howard Ziyu Han 2026](https://doi.org/10.48550/arxiv.2608.04166) | q3 · causal · r2 | i? | [Both constructive-conflict conditions produced substantially more idea editing between des](constructive-conflict-increases-idea-editing.md) (supports) |
 | [human-pilot](https://doi.org/10.1145/3832783.3834554) | q2 · causal · r1 | i? | [In an exploratory pilot, a soft barrier shifted participants from direct copying toward ed](soft-barrier-shifts-users-toward-editing.md) (supports) |
 | [Li 2026](https://doi.org/10.3389/fpsyg.2026.1871022) | q3 · associational · r2 | i? | [Perceived Competence, Intrinsic Motivation, and Psychological Safety each significantly po](psychological-mediators-predict-deep-revision.md) (qualifies); [External Mandate shows no significant direct relationship with Deep Revision Engagement](external-mandate-no-direct-effect-deep-revision.md) (qualifies) |
-| [rq2-mod](https://doi.org/10.1145/3795867.3830978) | q2 · associational · r2 | i? | [Students rarely rewrite specification comments: within the first 10 attempts, Unchanged (4](low-comment-rewriting-across-attempts.md) (qualifies) |
+| [rq2-mod](https://doi.org/10.48550/arxiv.2607.10674) | q2 · associational · r2 | i? | [Students rarely rewrite specification comments: within the first 10 attempts, Unchanged (4](low-comment-rewriting-across-attempts.md) (qualifies) |
 | [Zhao H and Ji J 2026](https://doi.org/10.3389/feduc.2026.1904852) | q3 · associational · r2 | i? | [Peer-feedback revisions shift toward a more contractive dialogic stance while AI-generated](peer-revisions-contractive-ai-balanced.md) (qualifies) |
 <!-- synthesis:end -->
 

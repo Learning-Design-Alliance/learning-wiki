@@ -8,7 +8,6 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
-source_checked: 2026-10-20
 sources:
   - id: rq3-themes
     title: rq3-themes
@@ -22,7 +21,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
-> **Currency** · no dated study recorded · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In LLM-assisted thematic analysis of 1,158 reflections, Speed and scaffolding was the dominant theme (84.5% of students), followed by Task fit (64.5%), Verification burden (57.3%), Learning and agency (57.2%), Code quality (54.5%), and Prompt precision (54.0%). [→ rq3-themes](#rq3-themes)
@@ -31,7 +30,7 @@ sources:
 
 ### rq3-themes
 
-Nasser Giacaman, Valerio Terragni, Paul Denny, and Viraj Kumar. 2026. Commenting with Copilot: A Taxonomy and Multi-Year Analysis of Student Code-Generation Specifications. Proceedings of the 2nd ACM Virtual Global Computing Education Conference (SIGCSE Virtual 2026). https://doi.org/10.1145/3795867.3830978
+Nasser Giacaman, Valerio Terragni, Paul Denny, and Viraj Kumar. 2026. Commenting with Copilot: A Taxonomy and Multi-Year Analysis of Student Code-Generation Specifications. Proceedings of the 2nd ACM Virtual Global Computing Education Conference (SIGCSE Virtual 2026). https://doi.org/10.48550/arXiv.2607.10674
 
 `q2 · i?` · `qualitative · r2`
 

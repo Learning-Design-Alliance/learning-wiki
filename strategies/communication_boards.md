@@ -42,7 +42,7 @@ Communication boards convert expressive language demands into recognition and se
 
 ### Target Learners
 - Individuals with autism spectrum disorder, cerebral palsy, apraxia of speech, intellectual disability, or aphasia who have limited or unreliable speech [~M]
-- Beginning communicators who need a means to express requests and reject before speech emerges; AAC intervention is associated with gains in speech production rather than losses [Millar et al. meta-analysis of AAC effects on speech.](https://doi.org/10.1007/s10803-006-0074-7) [+M]
+- Beginning communicators who need a means to express requests and reject before speech emerges; AAC intervention is associated with gains in speech production rather than losses Millar et al. meta-analysis of AAC effects on speech.
 - Learners with adequate visual acuity and motor access (pointing, eye gaze, switch access); adaptations required otherwise
 
 ### Target Learning Goals

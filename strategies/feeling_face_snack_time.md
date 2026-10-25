@@ -19,7 +19,7 @@ Learners draw a "feeling face" card depicting an emotion (happy, frustrated, sur
 
 ## Design Implications
 
-The strategy works because it pairs explicit emotion labeling with embodied enactment and repeated exposure in a predictable routine — conditions that support early emotional vocabulary growth and emotion knowledge, which in turn predict social competence and school readiness [Denham's emotion-knowledge research supports early emotion labeling.](https://doi.org/10.1207/s15327935ped1701_4) [+M]. Modeling by the facilitator and peers is central: young children acquire expressive and regulatory behavior substantially through observation [Bandura, A. (1977). *Social learning theory.*](../theories/social-learning-theory.md) [+S].
+The strategy works because it pairs explicit emotion labeling with embodied enactment and repeated exposure in a predictable routine — conditions that support early emotional vocabulary growth and emotion knowledge, which in turn predict social competence and school readiness Denham's emotion-knowledge research supports early emotion labeling.. Modeling by the facilitator and peers is central: young children acquire expressive and regulatory behavior substantially through observation [Bandura, A. (1977). *Social learning theory.*](../theories/social-learning-theory.md) [+S].
 
 ### Context
 #### Requirements

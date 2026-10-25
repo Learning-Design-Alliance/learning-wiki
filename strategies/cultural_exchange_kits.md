@@ -29,7 +29,7 @@ Cultural Exchange Kits are a form of identity-affirming, artifact-based learning
 - A reflection component (written or [Class Discussion](../elements/class-discussion.md)) that converts sharing into conceptual learning about culture generally
 
 #### Constraints
-- Poorly framed "cultural sharing" can reinforce stereotypes by presenting cultures as monolithic or exotic; explicit framing of within-culture variation is required to avoid this [Multicultural activities that emphasize group differences without individuation can strengthen stereotyping in young children.](https://doi.org/10.1016/j.dr.2006.10.001) [~M]
+- Poorly framed "cultural sharing" can reinforce stereotypes by presenting cultures as monolithic or exotic; explicit framing of within-culture variation is required to avoid this Multicultural activities that emphasize group differences without individuation can strengthen stereotyping in young children.
 - Students from marginalized or mixed-heritage backgrounds may feel spotlighted or pressured to serve as "cultural representatives"; participation must be voluntary with alternatives (e.g., a kit about a hobby or community, not ethnicity)
 - Effectiveness drops when kits are shared without discussion or follow-up — one-off show-and-tell produces engagement but little durable attitude change [Intergroup contact reduces prejudice mainly when it involves cooperation, common goals, and institutional support.](https://doi.org/10.1037/0033-2909.132.5.751) [~S]
 - Requires sensitivity to students who may not have access to artifacts or whose home situations make curation difficult

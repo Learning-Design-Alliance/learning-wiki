@@ -19,7 +19,7 @@ Choice based learning structures decision points into instruction so learners se
 
 ## Design Implications
 
-Choice supports motivation primarily by satisfying the basic psychological need for autonomy [Choice enhances intrinsic motivation and perceived competence.](../claims/autonomy-supports-intrinsic-motivation.md) [+S]. Meta-analytic evidence shows that providing choice reliably improves intrinsic motivation, effort, and task performance, with effects strongest when options are educationally meaningful rather than superficial [Patall et al. (2008) meta-analysis](https://doi.org/10.1037/0022-0663.100.3.511) [+M]. However, choice imposes decision-making demands: too many options, or options that differ in difficulty, can burden working memory or lead learners to avoid challenge [Katz & Assor (2007)](https://doi.org/10.3102/00346543073001037) [~M].
+Choice supports motivation primarily by satisfying the basic psychological need for autonomy [Choice enhances intrinsic motivation and perceived competence.](../claims/autonomy-supports-intrinsic-motivation.md) [+S]. Meta-analytic evidence shows that providing choice reliably improves intrinsic motivation, effort, and task performance, with effects strongest when options are educationally meaningful rather than superficial Patall et al. (2008) meta-analysis. However, choice imposes decision-making demands: too many options, or options that differ in difficulty, can burden working memory or lead learners to avoid challenge Katz & Assor (2007).
 
 ### Context
 #### Requirements

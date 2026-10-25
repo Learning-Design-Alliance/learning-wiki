@@ -19,7 +19,7 @@ Providing feedback means giving learners information about the correctness, qual
 
 ## Design Implications
 
-Feedback is among the most powerful influences on learning, but its effects are highly variable: it works when learners act on it and fails when it merely grades or praises [~S]. Effective feedback answers three questions — *Where am I going? How am I going? Where to next?* — and is specific to the task rather than to the person [Hattie & Timperley's feedback model frames feedback at task, process, and self-regulation levels.](https://doi.org/10.3102/003465430750010081) [+S]. Feedback should follow [Practice](../elements/practice.md) closely and be actionable: the learner must be able to do something different on the next attempt.
+Feedback is among the most powerful influences on learning, but its effects are highly variable: it works when learners act on it and fails when it merely grades or praises [~S]. Effective feedback answers three questions — *Where am I going? How am I going? Where to next?* — and is specific to the task rather than to the person Hattie & Timperley's feedback model frames feedback at task, process, and self-regulation levels.. Feedback should follow [Practice](../elements/practice.md) closely and be actionable: the learner must be able to do something different on the next attempt.
 
 ### Context
 #### Requirements
@@ -29,7 +29,7 @@ Feedback is among the most powerful influences on learning, but its effects are 
 - Timing that keeps the feedback usable — immediate for procedural skills, delayed slightly for complex tasks to avoid interrupting effortful processing
 
 #### Constraints
-- Feedback on the self ("You're so smart") can reduce persistence and performance [Person-praise undermines motivation and persistence compared with process-praise.](https://doi.org/10.1126/science.1064991) [-S]
+- Feedback on the self ("You're so smart") can reduce persistence and performance Person-praise undermines motivation and persistence compared with process-praise.
 - When learners are still struggling to understand the task itself, detailed corrective feedback can overload working memory [~M] — brief, goal-directed feedback works better early on
 - Feedback without an opportunity to revise produces little durable learning; grades alone frequently have near-zero or negative effects [~S]
 - Automated feedback that flags errors without explaining why encourages trial-and-error rather than understanding [-M]

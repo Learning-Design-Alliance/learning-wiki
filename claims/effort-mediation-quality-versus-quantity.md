@@ -49,3 +49,4 @@ The review's synthesis of non-longitudinal studies reports that with effort as q
 - [Motivational profiles were associated with mental effort while studying the video modeling examples, but not with posttest mental effort](motivational-profile-mental-effort.md) — related
 - [Autonomous motivation types positively relate to school achievement while controlled types show weak negative or null relations](autonomous-vs-controlled-motivation-achievement.md) — related
 - [Small quantities of fatigue-substances increase protoplasmic activity and augment muscular energy, per Lee's experiments](fatigue-substances-small-amounts-stimulate.md) — related
+- [In Study 2 (N=210), the profile-achievement link held while controlling initial performance and using effort and grade as outcomes](study2-effort-grade-controlling-initial-performance.md) — related

@@ -68,11 +68,11 @@ Exploration Station leverages self-directed, hands-on engagement: autonomy over 
 - [Individual Reflection](../elements/individual-reflection.md) — converts exploratory browsing into articulated workflow knowledge
 
 ## Examples
-- A middle-school multimodal autobiography unit (in the tradition of the [New London Group](https://doi.org/10.2307/20722070)'s pedagogy of multiliteracies) sets up one computer with Photo Story, Audacity, and a shared image folder; students rotate through during workshop time to test narration, image sequencing, and text placement before choosing their pathway.
+- A middle-school multimodal autobiography unit (in the tradition of the New London Group's pedagogy of multiliteracies) sets up one computer with Photo Story, Audacity, and a shared image folder; students rotate through during workshop time to test narration, image sequencing, and text placement before choosing their pathway.
 - A first-year composition program maintains a "media lab station" stocked with exemplar student podcasts and video essays; students browse these before drafting their own remediation projects.
 
 ## Key Sources
-- New London Group. (1996). A pedagogy of multiliteracies: Designing social futures. *Harvard Educational Review, 66*(1), 60–92. [doi:10.17763/haer.66.1.17370n67v22j160u](https://doi.org/10.2307/20722070)
+- New London Group. (1996). A pedagogy of multiliteracies: Designing social futures. *Harvard Educational Review, 66*(1), 60–92. doi:10.17763/haer.66.1.17370n67v22j160u
 - Deci, E. L., & Ryan, R. M. (2000). The "what" and "why" of goal pursuits: Human needs and the self-determination of behavior. *Psychological Inquiry, 11*(4), 227–268. [doi:10.1207/S15327965PLI1104_01](https://doi.org/10.1207/S15327965PLI1104_01)
 - Hidi, S., & Renninger, K. A. (2006). The four-phase model of interest development. *Educational Psychologist, 41*(2), 111–127. [doi:10.1207/s15326985ep4102_4](https://doi.org/10.1207/s15326985ep4102_4)
 - Selfe, C. L. (2007). *Multimodal composition: Resources for teachers*. Hampton Press.

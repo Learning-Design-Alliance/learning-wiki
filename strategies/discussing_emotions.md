@@ -19,7 +19,7 @@ Discussing emotions is a strategy in which learners regularly name, talk about, 
 
 ## Design Implications
 
-Emotions are causally linked to achievement through their effects on attention, motivation, and strategy use; academic emotions such as enjoyment and hope support engagement while boredom and anxiety undermine it [Pekrun's control-value framework](https://doi.org/10.1037/0033-2909.132.4.531) [+S]. Putting feelings into words — "affect labeling" — reduces amygdala reactivity and improves regulation, making discussion itself a regulatory act [Lieberman et al.](https://doi.org/10.1111/j.1467-9280.2007.01958.x) [+M]. Structured social-emotional learning programs that include explicit emotion discussion produce measurable gains in both social-emotional skills and academic achievement [Durlak et al.](https://doi.org/10.1111/j.1467-8624.2010.01564.x) [+S].
+Emotions are causally linked to achievement through their effects on attention, motivation, and strategy use; academic emotions such as enjoyment and hope support engagement while boredom and anxiety undermine it Pekrun's control-value framework. Putting feelings into words — "affect labeling" — reduces amygdala reactivity and improves regulation, making discussion itself a regulatory act [Lieberman et al.](https://doi.org/10.1111/j.1467-9280.2007.01958.x) [+M]. Structured social-emotional learning programs that include explicit emotion discussion produce measurable gains in both social-emotional skills and academic achievement [Durlak et al.](https://doi.org/10.1111/j.1467-8624.2010.01564.x) [+S].
 
 ### Context
 #### Requirements

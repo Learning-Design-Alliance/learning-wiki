@@ -21,7 +21,7 @@ The Data Wise Improvement Process, developed at the Harvard Graduate School of E
 
 ## Implications
 
-The process rests on the premise that data use is fundamentally a learning problem for adults, not a technical one: teachers need structured opportunities to build shared interpretations of evidence before they will change practice. Its protocols externalize and discipline group reasoning — much as [think-aloud](../elements/think-aloud.md) makes expert reasoning visible to novices — reducing the tendency for discussion to be dominated by status or anecdote. Research on data-informed decision making finds that structured, collaborative data use is associated with instructional change, but that effects depend heavily on leadership support, time, and data literacy [Data-based decision-making improves instruction when teams have time, data literacy, and leadership support.](https://doi.org/10.1016/j.stueduc.2019.100764) [~M]
+The process rests on the premise that data use is fundamentally a learning problem for adults, not a technical one: teachers need structured opportunities to build shared interpretations of evidence before they will change practice. Its protocols externalize and discipline group reasoning — much as [think-aloud](../elements/think-aloud.md) makes expert reasoning visible to novices — reducing the tendency for discussion to be dominated by status or anecdote. Research on data-informed decision making finds that structured, collaborative data use is associated with instructional change, but that effects depend heavily on leadership support, time, and data literacy Data-based decision-making improves instruction when teams have time, data literacy, and leadership support.
 
 ### Context
 #### Requirements

@@ -14,15 +14,12 @@ sources:
     title: "Smith, M. K., et al. (2009). Why peer discussion improves student performance on in-class concept questions. *Science, 323*(5910), 122–124"
     author: "Smith, M. K., et al."
   - id: crouch-2001
-    resource: "https://doi.org/10.1119/1.1367351"
     title: "Crouch, C. H., & Mazur, E. (2001). Peer instruction: Ten years of experience and results. *American Journal of Physics, 69*(9), 970–977"
     author: "Crouch, C. H., & Mazur, E."
   - id: chi-1994
-    resource: "https://doi.org/10.1037/0278-7393.20.4.957"
     title: "Chi, M. T. H., de Leeuw, N., Chiu, M.-H., & LaVancher, C. (1994). Eliciting self-explanations improves understanding. *Cognitive Science, 18*(3), 439–477"
     author: "Chi, M. T. H., et al."
   - id: johnson-2009
-    resource: "https://doi.org/10.3102/0034654308325579"
     title: "Johnson, D. W., & Johnson, R. T. (2009). An educational psychology success story: Social interdependence theory and cooperative learning. *Educational Researcher, 38*(5), 365–379"
     author: "Johnson, D. W., & Johnson, R. T."
 ---
@@ -37,7 +34,7 @@ Peer discussion places learners in structured conversation with classmates to ar
 
 ## Design Implications
 
-Peer discussion improves conceptual understanding because verbalizing reasoning forces learners to reconstruct and test their mental models [Eliciting self-explanations improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]. Discussion is most effective when anchored to a specific task or question — a concept question, a case, a flawed solution — rather than left open-ended. In Peer Instruction, individual commitment to an answer before discussion is critical: learners who first answer alone, then discuss with peers whose answers differ, show substantial gains on concept inventories [Crouch & Mazur, 2001](https://doi.org/10.1119/1.1367351) [+S]. Discussion between peers of similar knowledge levels works because peers' explanations are often pitched at the right level of granularity, and hearing a peer's reasoning exposes gaps that instructor explanations gloss over [Smith et al., 2009](https://doi.org/10.1126/science.1165919) [+S].
+Peer discussion improves conceptual understanding because verbalizing reasoning forces learners to reconstruct and test their mental models [Eliciting self-explanations improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]. Discussion is most effective when anchored to a specific task or question — a concept question, a case, a flawed solution — rather than left open-ended. In Peer Instruction, individual commitment to an answer before discussion is critical: learners who first answer alone, then discuss with peers whose answers differ, show substantial gains on concept inventories Crouch & Mazur, 2001. Discussion between peers of similar knowledge levels works because peers' explanations are often pitched at the right level of granularity, and hearing a peer's reasoning exposes gaps that instructor explanations gloss over [Smith et al., 2009](https://doi.org/10.1126/science.1165919) [+S].
 
 ### Context
 #### Requirements
@@ -48,14 +45,14 @@ Peer discussion improves conceptual understanding because verbalizing reasoning 
 
 #### Constraints
 - Unstructured "discuss with your neighbor" without a shared task often produces task-irrelevant talk and minimal learning [~M]
-- Groups without positive interdependence and individual accountability allow free-riding; cooperative structures outperform simple group work [Johnson & Johnson, 2009](https://doi.org/10.3102/0034654308325579) [-M]
+- Groups without positive interdependence and individual accountability allow free-riding; cooperative structures outperform simple group work Johnson & Johnson, 2009
 - Discussion can entrench misconceptions when no member of the group holds the correct conception and no expert debrief follows [~S]
 - Dominant voices suppress contributions from less confident learners; equalizing protocols are needed
 - Less effective for pure skill fluency or factual memorization, where retrieval practice outperforms discussion
 
 ### Target Learners
-- Learners at all levels, but especially those with intermediate knowledge who can both offer and benefit from explanations [Chi et al., 1994](https://doi.org/10.1037/0278-7393.20.4.957) [+S]
-- Higher education STEM contexts (Peer Instruction has the strongest evidence base here) [Crouch & Mazur, 2001](https://doi.org/10.1119/1.1367351) [+S]
+- Learners at all levels, but especially those with intermediate knowledge who can both offer and benefit from explanations Chi et al., 1994
+- Higher education STEM contexts (Peer Instruction has the strongest evidence base here) Crouch & Mazur, 2001
 - Learners who benefit from low-stakes rehearsal of disciplinary language before public or expert-facing performance
 
 ### Target Learning Goals
@@ -86,7 +83,7 @@ Peer discussion improves conceptual understanding because verbalizing reasoning 
 
 ## Examples
 
-**[Peer Instruction](https://doi.org/10.1119/1.1367351)** (Crouch & Mazur, Harvard) — Concept question → individual vote → peer discussion → revote → instructor debrief. Documented gains of roughly two standard deviations on the Force Concept Inventory over lecture baselines.
+**Peer Instruction** (Crouch & Mazur, Harvard) — Concept question → individual vote → peer discussion → revote → instructor debrief. Documented gains of roughly two standard deviations on the Force Concept Inventory over lecture baselines.
 
 **[Think-Pair-Share](../principles/collaborative-learning.md)** — Individual thinking, paired discussion, then whole-group sharing; the minimal structured peer discussion protocol, usable at any level.
 

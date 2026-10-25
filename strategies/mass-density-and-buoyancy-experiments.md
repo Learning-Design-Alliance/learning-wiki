@@ -19,7 +19,7 @@ Mass, density, and buoyancy experiments are hands-on physical science activities
 
 ## Design Implications
 
-Hands-on experimentation makes abstract, invisible properties like density tangible, but physical activity alone does not guarantee conceptual learning — guided inquiry with structured prediction and explanation outperforms unstructured discovery [Furtak et al.'s meta-analysis finds teacher-led guidance is the strongest component of inquiry learning.](https://doi.org/10.3102/0034654311425484) [+S]. The design challenge is directing attention to the *relevant* variables (mass, volume, liquid density) rather than salient but irrelevant ones (size, material color).
+Hands-on experimentation makes abstract, invisible properties like density tangible, but physical activity alone does not guarantee conceptual learning — guided inquiry with structured prediction and explanation outperforms unstructured discovery Furtak et al.'s meta-analysis finds teacher-led guidance is the strongest component of inquiry learning.. The design challenge is directing attention to the *relevant* variables (mass, volume, liquid density) rather than salient but irrelevant ones (size, material color).
 
 ### Context
 #### Requirements

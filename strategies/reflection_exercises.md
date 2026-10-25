@@ -19,7 +19,7 @@ Reflection exercises are structured activities that prompt learners to think bac
 
 ## Design Implications
 
-Reflection converts experience into learning by forcing reprocessing of events that would otherwise remain unexamined [~M]. Structured written reflection produces measurable gains in learning from experience compared with doing the experience alone [~M], and expressive writing about experiences and emotions has small-to-moderate benefits for well-being and adjustment [Frattaroli's meta-analysis of written emotional disclosure.](https://doi.org/10.1037/0033-2909.132.5.823) [+M]. Reflection also functions as a self-monitoring routine central to [Self-Regulated Learning](../theories/self-regulated-learning.md) — learners who evaluate their strategies and adjust goals outperform those who do not [~S].
+Reflection converts experience into learning by forcing reprocessing of events that would otherwise remain unexamined [~M]. Structured written reflection produces measurable gains in learning from experience compared with doing the experience alone [~M], and expressive writing about experiences and emotions has small-to-moderate benefits for well-being and adjustment Frattaroli's meta-analysis of written emotional disclosure.. Reflection also functions as a self-monitoring routine central to [Self-Regulated Learning](../theories/self-regulated-learning.md) — learners who evaluate their strategies and adjust goals outperform those who do not [~S].
 
 ### Context
 #### Requirements

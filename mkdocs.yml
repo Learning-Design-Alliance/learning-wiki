@@ -102,4 +102,5 @@ nav:
       - Research Methods: research-methods/index.md
   - About:
       - State of the Evidence: evidence.md
+      - How Claims Are Checked: checks.md
       - Schema & Guide: CLAUDE.md

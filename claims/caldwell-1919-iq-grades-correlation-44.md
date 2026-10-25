@@ -50,3 +50,4 @@ Correlational study of 24 Sophomores and 24 Juniors at Randolph-Macon Woman's Co
 - [Prior studies show low and variable correlations between mental tests and college grades, averaging from .09 to .44](caldwell-1919-prior-test-grade-correlations-low.md) — related
 - [Three Sophomores' discrepant records trace to character factors, including over-rating due to verbal fluency](caldwell-1919-verbal-fluency-overrating.md) — related
 - [Correlations between Alpha and grades vary by class standing, lowest for graduates (r = .15) and highest for seniors (r = .38)](alpha-grades-correlation-class-standing.md) — related
+- [Memory correlates only slightly (about .30 by the Pearson formula) with scholarship, memory being only one factor](slight-correlation-memory-scholarship.md) — related

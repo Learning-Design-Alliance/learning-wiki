@@ -17,7 +17,6 @@ sources:
     title: "Klingner, J. K., Vaughn, S., & Schumm, J. S. (1998). Collaborative strategic reading during social studies in heterogeneous fourth-grade classrooms. *Reading Research Quarterly, 33*(3), 319–337"
     author: "Klingner, J. K., Vaughn, S., & Schumm, J. S."
   - id: guthrie-2000
-    resource: "https://doi.org/10.1598/0872075028.3"
     title: "Guthrie, J. T., & Wigfield, A. (2000). Engagement and motivation in reading. In M. L. Kamil et al. (Eds.), *Handbook of Reading Research* (Vol. 3, pp. 403–422). Erlbaum"
     author: "Guthrie, J. T., & Wigfield, A."
   - id: daniels-steineke-2004

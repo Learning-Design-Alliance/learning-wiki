@@ -27,7 +27,6 @@ sources:
     title: "Takahashi, C., & Im, S. (2020). Comparing self-determination theory and the L2 motivational self system and their relationships to L2 proficiency. Studies in Second Language Learning and Teaching, 10(4), 673-696. https://doi.org/10.14746/ssllt.2020.10.4.2"
     author: "Takahashi, C., & Im, S"
   - id: sarrasin-2018
-    resource: "https://doi.org/10.1016/j.tine.2018.07.004"
     title: "Sarrasin, J. B., Nenciovici, L., Foisy, L. M. B., Allaire-Duquette, G., Riopel, M., & Masson, S. (2018). Effects of teaching the concept of neuroplasticity to induce a growth mindset on motivation, achievement, and brain activity: A meta-analysis. *Trends in Neuroscience and Education, 12*, 22-31"
     author: "Sarrasin, J. B., Nenciovici, L., Foisy, L. M. B., Allaire-Duquette, G., Riopel, M., & Masson, S"
   - id: yeager-2019

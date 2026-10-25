@@ -17,7 +17,6 @@ sources:
     title: "Pane, J. F., Steiner, E. D., Baird, M. D., & Hamilton, L. S. (2015). *Continued progress: Promising evidence on personalized learning*. RAND Corporation"
     author: "Pane, J. F., et al."
   - id: means-2013
-    resource: "https://doi.org/10.1177/0031721711093006"
     title: "Means, B., Toyama, Y., Murphy, R., & Baki, M. (2013). The effectiveness of online and blended learning: A meta-analysis of the empirical literature. *Teachers College Record, 115*(11), 1–47"
     author: "Means, B., et al."
 ---

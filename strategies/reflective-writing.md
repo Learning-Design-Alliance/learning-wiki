@@ -19,7 +19,7 @@ Reflective writing asks learners to write about their own learning — what they
 
 ## Design Implications
 
-Reflective writing works by forcing elaboration and metacognitive monitoring: translating experience into language exposes gaps in understanding and makes strategy use visible to the learner [Writing-to-learn tasks produce modest but consistent gains in content learning.](https://doi.org/10.3102/00346543074001029) [+M]. Its effectiveness depends on structure and follow-through — unguided "write about your feelings" prompts produce description without analysis, and reflection without application rarely changes behavior [Self-regulated learning strategy instruction improves achievement, with effects strongest when strategies are explicitly taught and practiced.](https://doi.org/10.1016/j.edurev.2014.02.002) [+S].
+Reflective writing works by forcing elaboration and metacognitive monitoring: translating experience into language exposes gaps in understanding and makes strategy use visible to the learner [Writing-to-learn tasks produce modest but consistent gains in content learning.](https://doi.org/10.3102/00346543074001029) [+M]. Its effectiveness depends on structure and follow-through — unguided "write about your feelings" prompts produce description without analysis, and reflection without application rarely changes behavior Self-regulated learning strategy instruction improves achievement, with effects strongest when strategies are explicitly taught and practiced..
 
 ### Context
 #### Requirements
@@ -41,7 +41,7 @@ Reflective writing works by forcing elaboration and metacognitive monitoring: tr
 - **Multimodal reflection** (audio, video, [Annotating](../principles/annotating.md) one's own work) for learners who struggle with extended writing
 
 ### Target Learners
-- Adolescents through adults; effects of self-regulation strategy instruction are strongest for older learners with some metacognitive foundation [Self-regulated learning strategy instruction improves achievement, with effects strongest when strategies are explicitly taught and practiced.](https://doi.org/10.1016/j.edurev.2014.02.002) [+S]
+- Adolescents through adults; effects of self-regulation strategy instruction are strongest for older learners with some metacognitive foundation Self-regulated learning strategy instruction improves achievement, with effects strongest when strategies are explicitly taught and practiced.
 - Learners in complex, multi-stage domains (clinical practice, design, teaching practica) where experience must be converted into transferable principles
 - Struggling learners benefit when reflection is heavily scaffolded; unsupported open journals favor already-skilled writers [~M]
 

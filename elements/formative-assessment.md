@@ -20,19 +20,19 @@ Formative assessment is the ongoing, low-stakes gathering of evidence about lear
 
 ## Design Implications
 
-Formative assessment closes the gap between current and desired performance by making learning visible while it can still be corrected. Feedback is most effective when it answers three questions — Where am I going? How am I doing? Where to next? [The feedback model of Hattie & Timperley organizes feedback at task, process, and self-regulation levels.](https://doi.org/10.3102/003465430298487) [+S]. Frequent low-stakes retrieval also strengthens retention directly, independent of feedback effects [Testing as retrieval practice improves long-term retention relative to restudying.](https://doi.org/10.1111/j.1467-9280.2006.01693) [+S].
+Formative assessment closes the gap between current and desired performance by making learning visible while it can still be corrected. Feedback is most effective when it answers three questions — Where am I going? How am I doing? Where to next? [The feedback model of Hattie & Timperley organizes feedback at task, process, and self-regulation levels.](https://doi.org/10.3102/003465430298487) [+S]. Frequent low-stakes retrieval also strengthens retention directly, independent of feedback effects Testing as retrieval practice improves long-term retention relative to restudying..
 
 ### Context
 #### Requirements
 - Clear learning intentions and success criteria shared with learners — without them, feedback has no reference point [Formative assessment requires explicit criteria against which the gap between current and desired performance can be evaluated.](https://doi.org/10.1007/BF00117714) [+S]
 - Low-stakes framing so results inform rather than grade; high-stakes use suppresses honest error display
 - A mechanism for acting on results: reteaching, [Fading](fading.md) of support, or adjusted task difficulty
-- Opportunities for learners to interpret and act on feedback themselves [Feedback that prompts self-regulation (self-monitoring, self-correction) produces larger gains than feedback on the self or task alone.](https://doi.org/10.1080/02602930600679059) [+M]
+- Opportunities for learners to interpret and act on feedback themselves Feedback that prompts self-regulation (self-monitoring, self-correction) produces larger gains than feedback on the self or task alone.
 
 #### Constraints
 - Feedback that directs attention to the self ("good job," grades alone) can reduce performance rather than improve it [Feedback at the personal-praise level is least effective and can undermine performance.](https://doi.org/10.3102/003465430298487) [~S]
 - Implementing formative assessment at scale is demanding: teachers often collect evidence but lack time or structures to act on it, which strips the practice of its effect [Large gains depend on changed teaching decisions, not merely on collecting assessment data.](https://doi.org/10.1080/0969595980050102) [~M]
-- Frequent testing without feedback yields little benefit; the retrieval effect alone does not substitute for corrective information [Testing as retrieval practice improves long-term retention relative to restudying.](https://doi.org/10.1111/j.1467-9280.2006.01693) [~M]
+- Frequent testing without feedback yields little benefit; the retrieval effect alone does not substitute for corrective information Testing as retrieval practice improves long-term retention relative to restudying.
 
 ### Target Learners
 - Learners at all levels, but especially those in competency-based programs where progression depends on demonstrated mastery rather than seat time

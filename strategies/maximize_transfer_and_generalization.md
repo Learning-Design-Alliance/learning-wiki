@@ -34,8 +34,8 @@ Transfer depends on learners encoding knowledge in a form that is decontextualiz
 - Progressive withdrawal of scaffolding ([Fading](../elements/fading.md)) so learners eventually apply knowledge without support
 
 #### Constraints
-- Single-context practice produces knowledge tightly bound to surface features; learners then fail to recognize structurally identical problems in new clothing [Gick & Holyoak showed learners rarely notice analogous structure without explicit comparison.](https://doi.org/10.1016/0010-0285(83)90003-0) [-S]
-- Far transfer to dissimilar domains frequently fails even after successful near-transfer instruction; promising broad "thinking skills" gains from a single course is not supported [Detterman's review found little evidence of far transfer in most studies.](https://doi.org/10.4324/9781315805893) [-M]
+- Single-context practice produces knowledge tightly bound to surface features; learners then fail to recognize structurally identical problems in new clothing Gick & Holyoak showed learners rarely notice analogous structure without explicit comparison. [-S]
+- Far transfer to dissimilar domains frequently fails even after successful near-transfer instruction; promising broad "thinking skills" gains from a single course is not supported Detterman's review found little evidence of far transfer in most studies.
 - High-similarity practice can create overconfidence: learners perform well on near variants and collapse on far ones, so assessment must sample the transfer range, not just near variants [~M]
 - Adding varied contexts increases cognitive load for novices; sequencing from example comparison to independent novel application is needed rather than jumping straight to far problems [~M]
 - Knowledge learned in a single context with a single example tends to remain bound to that context; learners often fail to notice that a new problem is structurally identical to one they have solved ([Gick & Holyoak, 1983](https://doi.org/10.1016/0010-0285(83)90002-6)) [-S]
@@ -90,7 +90,7 @@ Transfer depends on learners encoding knowledge in a form that is decontextualiz
 - [Foster mindful transfer by systematically saturating instruction with attention to transfer](saturate-instruction-with-attention-to-transfer.md)
 
 ## Examples
-- **Gick & Holyoak's radiation problem** — learners who first compared two analogous stories (the fortress and the general) were far more likely to solve Duncker's radiation problem than those given the stories without comparison prompts ([doi:10.1016/0010-0285(83)90003-0](https://doi.org/10.1016/0010-0285(83)90003-0))
+- **Gick & Holyoak's radiation problem** — learners who first compared two analogous stories (the fortress and the general) were far more likely to solve Duncker's radiation problem than those given the stories without comparison prompts ()
 - **[Case-Based Learning, Harvard Business School method](../patterns/case-based-learning.md)** — students apply frameworks to a new business case each session, forcing repeated transfer of the same analytical principles across industries
 - **[Anchored Instruction (The Jasper Woodbury Project)](../patterns/anchored-instruction.md)** — video-based mathematical problem solving designed so that sub-skills learned in one adventure must be recombined in novel situations
 - **Physics instruction with varied problem sets** — presenting the same principle (e.g., conservation of energy) across ramps, springs, and pendulums before testing on an unseen apparatus

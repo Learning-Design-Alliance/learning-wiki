@@ -36,7 +36,7 @@ sources:
 # Validity, Reliability, and Bias in Classroom Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 276 claims (119 for, 139 mixed, 18 against) · 205 studies (80 associational, 48 design, 28 review, 23 theoretical, 17 causal, 6 quant-synthesis, 3 qualitative), `q1`–`q3` · 18 of 205 report an effect size · 269 claims rest on one study
+> **Evidence** · 278 claims (120 for, 140 mixed, 18 against) · 207 studies (81 associational, 48 design, 28 review, 23 theoretical, 18 causal, 6 quant-synthesis, 3 qualitative), `q1`–`q3` · 18 of 207 report an effect size · 271 claims rest on one study
 
 ## Conditional relationship
 
@@ -222,6 +222,7 @@ Claims linked to this page that do not bear on its relationship, a step or a sit
 - [Reading comprehension items largely reflect a common factor rather than specific text- or question-type dimensions in fourth-grade Dutch children](../claims/reading-comprehension-common-factor-dutch-fourth-graders.md) [~W] — attached 2026-10-25 from M.M.L. Muijselaar et al. (2017), which proposed "Do not assume separate comprehension abilities by text or question type when assessing fourth-grade reading comprehension"; tests this page's relationship.
 - [Specific text- and question-type factor scores were not reliable and were hardly related to word reading speed, vocabulary, and working memory](../claims/specific-comprehension-factor-scores-unreliable-unrelated-cognitive-abilities.md) [~W] — attached 2026-10-25 from M.M.L. Muijselaar et al. (2017), which proposed "Do not assume separate comprehension abilities by text or question type when assessing fourth-grade reading comprehension"; tests this page's relationship.
 - [The total score of the abbreviated Educational Survey Test correlates about .786 with the combined long standard scales](../claims/survey-test-total-correlates-786-with-long-scales.md) [+W] — attached 2026-10-25 from Rudolf Pintner et al. (1918), which proposed "Use short group survey tests to obtain fair measures of general attainment for groups and school systems"; tests this page's relationship.
+- [First-minute and last-minute arithmetic performance correlate highly across all fundamentals and grades](../claims/high-correlation-first-last-minute.md) [+W] — attached 2026-10-25 from Phillips (1916), which proposed "A one-minute arithmetic test is a fair measure of pupil ability, but scores should be interpreted knowing first-minute output runs slightly higher"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 
@@ -350,6 +351,7 @@ Content validity, construct validity, criterion validity, consistency across occ
 - [Emotions relate to achievement most strongly within the same domain, supporting convergent and divergent validity of domain-specific emotion measures](../claims/emotions-achievement-same-domain-convergent-validity.md) [+W]
 - [The standard deviation of true scores equals the square root of the reliability coefficient times the standard deviation of obtained scores](../claims/otis-1922-true-score-sd-formula.md) [~W]
 - [MicroDYN measurement of CPS shows strong factorial invariance across grade levels ages 11 to 17](../claims/cps-measurement-invariance-grades.md) [+W]
+- [The scale reduces spread on individual compositions without reducing the spread of median scores across compositions (range of medians 32 points in both conditions)](../claims/hillegas-scale-preserves-median-spread.md) [~W]
 
 ## Related Principles
 - [Criterion- and Norm-Referenced Testing](criterion-and-norm-referenced-testing.md) — validity and reliability apply to standardized as well as teacher-made assessments, with additional considerations

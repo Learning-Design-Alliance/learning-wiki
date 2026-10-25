@@ -56,7 +56,7 @@ Goal setting conferences operationalize two well-supported findings: specific an
 - Developing self-regulators in upper elementary through adulthood; goal setting is a trainable component of self-regulated learning [Zimmerman, 2002](https://doi.org/10.1207/s15430421tip4102_2) [+M]
 - Struggling or disengaged learners, for whom proximal subgoals build self-efficacy [Bandura & Schunk, 1981](https://doi.org/10.1037/0022-3514.41.3.586) [+S]
 - Very young learners need heavy scaffolding — teacher-narrowed goal menus rather than open-ended goal choice [~W]
-- Developing self-regulated learners who can articulate preferences but need help forming strategy-linked goals [Self-regulated learning can be taught and improves achievement.](https://doi.org/10.1080/00405840209591340) [+S]
+- Developing self-regulated learners who can articulate preferences but need help forming strategy-linked goals Self-regulated learning can be taught and improves achievement.
 - Struggling learners who benefit from proximal, achievable commitments that rebuild efficacy [Self-efficacy predicts academic persistence.](../claims/self-efficacy-predicts-academic-persistence.md) [+M]
 - Less useful for learners who already self-regulate effectively and may find routine conferences redundant [~W]
 
@@ -130,7 +130,7 @@ Conferences convert abstract goals into proximal, self-set commitments, which ra
 - **Micro-conferences**: 60–90 second check-ins during work time, trading depth for frequency
 
 ### Target Learners
-- Developing self-regulated learners who can articulate preferences but need help forming strategy-linked goals [Self-regulated learning can be taught and improves achievement.](https://doi.org/10.1080/00405840209591340) [+S]
+- Developing self-regulated learners who can articulate preferences but need help forming strategy-linked goals Self-regulated learning can be taught and improves achievement.
 - Struggling learners who benefit from proximal, achievable commitments that rebuild efficacy [Self-efficacy predicts academic persistence.](../claims/self-efficacy-predicts-academic-persistence.md) [+M]
 - Less useful for learners who already self-regulate effectively and may find routine conferences redundant [~W]
 

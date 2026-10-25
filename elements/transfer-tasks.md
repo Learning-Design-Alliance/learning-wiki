@@ -85,7 +85,7 @@ Transfer tasks are the primary way to verify and build far transfer, since perfo
 
 **[PBL (Problem-Based Learning)](https://www.maa.org/external_archive/joma/Volume7/pbl/index.html)** — Medical and engineering curricula present novel clinical or design problems that require applying previously learned concepts to unfamiliar presentations.
 
-**[Bransford & Schwartz's "Preparation for Future Learning"](https://doi.org/10.1037/0033-295X.106.1.60)** — Contrasting-case activities that precede instruction measurably improve learners' ability to transfer to new problems.
+**Bransford & Schwartz's "Preparation for Future Learning"** — Contrasting-case activities that precede instruction measurably improve learners' ability to transfer to new problems.
 
 **[Khan Academy Mastery System](https://www.khanacademy.org)** — Spaced, varied problem sets that re-present a skill in new contexts after initial practice, functioning as near-transfer tasks.
 - [Evaluate proposed instructional approaches with controlled experiments measuring far-transfer problem solving](../strategies/experimental-tests-functional-intelligence-effects.md)

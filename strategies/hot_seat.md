@@ -41,7 +41,7 @@ Hot seat is a form of structured role-play that converts passive content review 
 - Learners with strong social anxiety or low verbal fluency can experience the public improvisation as threatening rather than engaging; forcing participation without an opt-in pathway reduces the strategy's benefits [~M]
 - If the stimulus is thin or stereotyped, learners may rehearse caricature rather than perspective-taking, reinforcing exactly the biases the activity aims to reduce [~M]
 - Improvised answers can entrench factual errors when learners invent details beyond their knowledge; without a debrief that separates invention from evidence, misconceptions persist [-M]
-- Empathy gains from single perspective-taking episodes are often short-lived and may not generalize to the group as a whole [Perspective-taking improves attitudes toward individuals but generalization to the whole group is weaker.](https://doi.org/10.1037/0022-3514.73.1.105) [~M]
+- Empathy gains from single perspective-taking episodes are often short-lived and may not generalize to the group as a whole Perspective-taking improves attitudes toward individuals but generalization to the whole group is weaker.
 
 #### Implementation Variability
 - **Panel format:** several learners play different characters and respond to one another, surfacing contrasting perspectives ([Debate](debate.md))
@@ -134,7 +134,7 @@ Hot seating works by forcing situated perspective-taking: constructing and susta
 - Learners with strong social anxiety or low verbal fluency can experience the public improvisation as threatening rather than engaging; forcing participation without an opt-in pathway reduces the strategy's benefits [~M]
 - If the stimulus is thin or stereotyped, learners may rehearse caricature rather than perspective-taking, reinforcing exactly the biases the activity aims to reduce [~M]
 - Improvised answers can entrench factual errors when learners invent details beyond their knowledge; without a debrief that separates invention from evidence, misconceptions persist [-M]
-- Empathy gains from single perspective-taking episodes are often short-lived and may not generalize to the group as a whole [Perspective-taking improves attitudes toward individuals but generalization to the whole group is weaker.](https://doi.org/10.1037/0022-3514.73.1.105) [~M]
+- Empathy gains from single perspective-taking episodes are often short-lived and may not generalize to the group as a whole Perspective-taking improves attitudes toward individuals but generalization to the whole group is weaker.
 
 #### Implementation Variability
 - **Teacher in the hot seat** — the instructor plays a contested figure (e.g., a factory owner in an industrialization unit), letting learners practice questioning and evidence-pressing

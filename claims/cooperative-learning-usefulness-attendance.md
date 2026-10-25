@@ -71,3 +71,4 @@ Attendance counts reported for Contemporary Biology after implementing graded co
 - [Students rated class discussions of Warm Up responses as very useful (87%, n = 485)](students-rate-warmup-discussions-useful.md) — related
 - [Applications to the summer school increased up to double the available positions, which the authors attribute to its active and cooperative learning](pigelleto-applications-doubled-positions.md) — related
 - [JiTT implementation was associated with a decreased DFW rate in Contemporary Biology, from 27% to 20%](jitt-decreased-dfw-rate-n100.md) — related
+- [In a semester-long crossover experiment with a real teacher, learning scores under jigsaw were not higher than under teaching-as-usual in physics and chemistry](jigsaw-vs-tau-null-semester-e3a.md) — related

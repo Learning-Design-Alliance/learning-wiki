@@ -28,7 +28,7 @@ Connecting activates prior knowledge before or during new learning, which improv
 - Time for learners to articulate the connection — [Self-Explanation](../elements/self-explanation.md) or brief written/verbal linking statements
 
 #### Constraints
-- Learners lacking relevant prior knowledge cannot connect; the prompt then wastes time or activates misconceptions [Prior knowledge is the strongest single predictor of new learning, so its absence is a genuine bottleneck rather than a minor difficulty.](https://doi.org/10.1016/S0959-4752(02)00023-9) [-S]
+- Learners lacking relevant prior knowledge cannot connect; the prompt then wastes time or activates misconceptions Prior knowledge is the strongest single predictor of new learning, so its absence is a genuine bottleneck rather than a minor difficulty. [-S]
 - Inaccurate or partial prior knowledge can be activated and strengthened, entrenching misconceptions — connections to flawed analogies transfer the flaws
 - Superficial analogies ("this is like sports because it has rules") consume time without supporting the target schema [~M]
 - Prompts that overload working memory by requiring learners to hold both the new problem and a retrieved one can add extraneous load for novices [~M]
@@ -39,7 +39,7 @@ Connecting activates prior knowledge before or during new learning, which improv
 - Embedded in worked examples, [Case Studies](../elements/case-studies.md), or [Analogies](../elements/analogies.md) rather than delivered as standalone prompts
 
 ### Target Learners
-- Learners with moderate prior knowledge, who have something to retrieve and benefit from cueing [Prior knowledge is the strongest predictor of new learning.](https://doi.org/10.1016/S0959-4752(02)00023-9) [+S]
+- Learners with moderate prior knowledge, who have something to retrieve and benefit from cueing Prior knowledge is the strongest predictor of new learning. [+S]
 - Learners who benefit from relating content to their own lives — personalization increases task value and engagement
 - Novices with thin domain knowledge need teacher-supplied connections (analogies, advance organizers) rather than self-generated ones [~M]
 

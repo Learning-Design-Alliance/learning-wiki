@@ -24,7 +24,6 @@ sources:
     title: "Brown, J. O. (2002). Know thyself: The impact of portfolio development on adult learning. *Adult Education Quarterly, 52*(3), 228-245"
     author: Brown, J. O
   - id: sage-2015
-    resource: "https://doi.org/10.1080/10437797.2015.1076264"
     title: "Sage, M., & Sele, P. (2015). Reflective journaling as a flipped classroom technique to increase reading and participation with social work students. *Journal of Social Work Education, 51*(4), 668-681"
     author: "Sage, M., & Sele, P"
   - id: tailab-2020

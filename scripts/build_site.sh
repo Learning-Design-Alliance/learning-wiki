@@ -12,6 +12,7 @@ done
 ln -s ../index.md docs/index.md
 ln -s ../CLAUDE.md docs/CLAUDE.md
 ln -s ../evidence.md docs/evidence.md
+ln -s ../checks.md docs/checks.md
 mkdocs build ${1:-}
 python3 scripts/build_longtail.py --site site
 [ -n "${SKIP_SEARCH:-}" ] && exit 0

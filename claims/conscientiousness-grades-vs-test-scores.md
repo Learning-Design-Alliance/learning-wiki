@@ -9,6 +9,7 @@ generated:
   at: 2026-10-21
 evidence_strength: strong
 newest_evidence: 2023
+source_checked: 2026-10-25
 sources:
   - id: meyer-2023
     resource: "https://doi.org/10.1007/s10648-023-09736-2"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r2` · `q4` · `i2` medium
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · checked against its sources 2026-10-25 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q4 i2` Conscientiousness correlations are larger for grades (ρ = 0.28) than for test scores (ρ = 0.13). [→ Meyer 2023](#meyer-2023)
@@ -72,3 +73,4 @@ In the individual domain × measure comparisons, grades exceeded test scores wit
 - [Fluid reasoning, not trait self-control, predicts low-stakes standardized mathematics and physics test scores](fluid-reasoning-predicts-low-stakes-standardized-tests.md) — related
 - [Trait self-control correlates with grades but not with standardized test scores at the bivariate level](tsc-correlates-grades-not-standardized-tests.md) — related
 - [Openness shows larger correlations with achievement in language than in STEM subject domains, a pattern that holds for both grades and test scores](openness-language-stem-domain-moderation.md) — related
+- [Openness is most strongly associated with standardized test scores (especially English) and weakly or negatively associated with mathematics course grades](openness-predicts-standardized-tests-most.md) — related

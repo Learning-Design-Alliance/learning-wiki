@@ -51,3 +51,4 @@ Argumentative conclusion of the section on biological science courses, which rep
 - [Normal schools gave comparatively little attention to sex hygiene and rarely used nature study and biology as an approach to it](sex-hygiene-neglected-in-normal-schools.md) — related
 - [The best planned hygiene instruction occurred in normal schools devoting considerable time to the sciences](best-hygiene-instruction-in-science-strong-schools.md) — related
 - [The sex-education conference's most conspicuous point of agreement was that sex education should be embedded in the whole purpose of education and life, as character education rather than a special form of education](sex-education-embedded-character-education.md) — related
+- [Secondary-school physics teachers show general agreement but little enthusiasm for greater prominence of lecture-demonstrations](hall-1910-lecture-demonstrations-little-enthusiasm.md) — related

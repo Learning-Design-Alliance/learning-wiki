@@ -70,7 +70,7 @@ Whole task practice supports schema construction by letting learners experience 
 - **Driver education** — learners drive real (simplified) routes from early lessons with an instructor handling or prompting subskills, rather than mastering steering, signaling, and observation separately before ever driving.
 
 ## Key Sources
-- van Merriënboer, J. J. G., & Kirschner, P. A. (2018). *Ten steps to complex learning* (3rd ed.). Routledge. [doi:10.4324/9781315116874](https://doi.org/10.4324/9781315116874)
+- van Merriënboer, J. J. G., & Kirschner, P. A. (2018). *Ten steps to complex learning* (3rd ed.). Routledge. [doi:10.4324/9781315113210](https://doi.org/10.4324/9781315113210)
 - van Merriënboer, J. J. G., Clark, R. E., & de Croock, M. B. M. (2002). Blueprints for complex learning: The 4C/ID-model. *Educational Technology Research and Development, 50*(2), 39–64. [doi:10.1007/BF02504993](https://doi.org/10.1007/BF02504993)
-- van Merriënboer, J. J. G., Kester, L., & Paas, F. (2006). Teaching complex rather than simple tasks: Balancing intrinsic and extraneous load. *Psychological Research, 70*(5), 333–342. [doi:10.1007/s00426-005-0228-0](https://doi.org/10.1007/s00426-005-0228-0)
+- van Merriënboer, J. J. G., Kester, L., & Paas, F. (2006). Teaching complex rather than simple tasks: Balancing intrinsic and extraneous load. *Psychological Research, 70*(5), 333–342.
 - Sweller, J., van Merriënboer, J. J. G., & Paas, F. (2019). Cognitive architecture and instructional design: 20 years later. *Educational Psychology Review, 31*(2), 261–292. [doi:10.1007/s10648-019-09465-5](https://doi.org/10.1007/s10648-019-09465-5)

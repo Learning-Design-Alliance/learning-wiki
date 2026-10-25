@@ -78,3 +78,4 @@ The chapter reports, citing Carpenter et al. (2008), three experiments with fina
 - [In a perceptual-cue intervention reanalysis, incongruent spacing and incongruent color conditions were associated with reduced guessing relative to neutral conditions](incongruent-perceptual-cues-reduce-guessing-bkt.md) — related
 - [Time-based forgetting occurs across presentation methods, with rate determined by consolidation time](time-based-forgetting-occurs-regardless-of-presentation-method.md) — related
 - [In Experiment 3, individual learners showed greater forgetting over 24 hours than paired learners](condition-by-delay-interaction-experiment-3.md) — related
+- [Memory improves with practice in the field where it is exercised](memory-improves-with-practice-in-exercised-field.md) — related
