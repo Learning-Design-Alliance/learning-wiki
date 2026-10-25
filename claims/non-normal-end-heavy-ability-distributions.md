@@ -47,3 +47,4 @@ Distribution analysis dividing each test's range into twelve ranks and plotting 
 ## Related Claims
 - [Non-test-based indicators such as graduation rates are poorly suited to stabilization models assuming normal distributions, which may impose excessive adjustments](non-test-based-indicators-poorly-suited-to-stabilization.md) — related
 - [Galton's ogive percentile graph serves as a convenient scale that lets an individual's test score be instantly translated into a rank within the normed group](ogive-percentile-graph-convenient-scale-rank.md) — related
+- [Graduating the scale by compositing the ten test-score distributions yielded an approximately normal ability distribution, and the age norms for ages 10 to 14 fell in almost a perfectly straight line](graduation-yields-normal-distribution-and-linear-age-norms.md) — reports the opposite

@@ -67,3 +67,4 @@ Theoretical argument on administration in the same section. The author believes 
 - [Sex instruction should work by countering motives with motives, using fear, disgust, self-respect and desire for the regard of others against sexual carelessness](counter-motives-with-motives-sex-instruction.md) — related
 - [An indirect, gradual nature-study approach to sex instruction is superfluous and may arouse pupils' suspicions rather than disarm them](indirect-nature-study-approach-arouses-suspicion.md) — related
 - [The school is the only organized agency that can assure sex instruction reaches all children, since the home and free literature cannot be relied upon](school-only-agency-reaching-all-children-sex-instruction.md) — related
+- [The conference's General Education Section agreed that segregating sex education arouses undue consciousness and apprehension that interferes with the best emotional results](segregating-sex-education-arouses-apprehension.md) — related

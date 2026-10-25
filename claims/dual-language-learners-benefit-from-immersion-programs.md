@@ -58,3 +58,4 @@ The report asserts, citing research without detail, that "Dual language learners
 - [Early childhood education attendance is associated with higher high school completion, college attendance, and employment](ece-higher-completion-college-employment.md) — related
 - [High L2 achievers in immersion programs show IQ gains, consistent with a higher threshold of bilingual competence](high-l2-achievers-show-iq-gains-in-immersion.md) — a narrower finding that bears on this claim
 - [Biliterate dual language learners show higher higher order cognitive skills regardless of instructional program](biliterate-status-higher-order-cognition.md) — a narrower finding that bears on this claim
+- [Children whose low first IQs reflected linguistic or environmental deficiency showed substantial IQ gains after gaining command of English or schooling](iq-gains-after-linguistic-environmental-remediation.md) — related

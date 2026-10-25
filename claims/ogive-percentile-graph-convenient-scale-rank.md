@@ -47,3 +47,4 @@ Methodological exposition, not a tested comparison: the author's stated rational
 ## Related Claims
 - [A problem's diagnostic value as a measure of general ability can be indexed by the slope of its pass-rate ogive at the 50% point](ogive-slope-diagnostic-value-problems.md) — related
 - [Ability distributions in grade-school children are non-normal, with ability clustering in the extreme ranks rather than the median](non-normal-end-heavy-ability-distributions.md) — related
+- [Graduating the scale by compositing the ten test-score distributions yielded an approximately normal ability distribution, and the age norms for ages 10 to 14 fell in almost a perfectly straight line](graduation-yields-normal-distribution-and-linear-age-norms.md) — related

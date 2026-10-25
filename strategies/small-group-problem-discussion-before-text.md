@@ -52,6 +52,7 @@ Small groups of learners are given a description of natural phenomena and asked 
 - [The Title (Pre-Reading)](the-title-pre-reading.md)
 - [Purpose (Pre-Reading)](purpose-pre-reading.md)
 - [Predicting](predicting.md)
+- [Present a problem for small-group explanation discussion before assigning the relevant expository text](pre-text-small-group-explanation-discussion.md)
 
 ## Examples
 -

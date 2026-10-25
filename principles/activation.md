@@ -130,10 +130,12 @@ The present evidence does not establish an optimal activation format or duration
 - [Change the teacher's role from indoctrinator to designer, guider, and academic consultant in student-centered teaching](teacher-as-mediator-not-content-disseminator.md)
 
 ## Examples
+
 - [Baseline Assessment](../strategies/baseline-assessment.md)
 - [Do Now / Bell Work](../strategies/do_now_bell_work.md)
 - [Create an interactive learning environment in real or semi-real contexts using modern teaching media](../strategies/interactive-real-semi-real-learning-environment.md)
 - [Learning-theory-based evaluation checklist of instructional strategies and techniques for textbook analysis](../elements/learning-theory-evaluation-checklist-elt-textbooks.md)
+- [Present a problem for small-group explanation discussion before assigning the relevant expository text](../strategies/pre-text-small-group-explanation-discussion.md)
 
 ### Illustrative
 

@@ -58,3 +58,4 @@ The article's framing of a purposive-sample study of rural SIG schools states th
 - [Limited human capital is one of the biggest challenges in rural school turnaround, making SIG staff-replacement requirements often neither possible nor desirable](rural-limited-human-capital-challenges-sig-staff-replacement.md) — related
 - [The study's generalizability is limited by its rural, small, relatively homogeneous context](ai-helper-case-study-generalizability-limits.md) — related
 - [School administrators underestimate parental demand for computer science education and face resource and prioritization barriers](administrators-underestimate-cs-demand-barriers.md) — related
+- [Youth and parents reimagined schools with more resources and supportive infrastructure, including transportation, everyday-life programs, and activities for economically constrained families](school-resources-supportive-infrastructure.md) — related

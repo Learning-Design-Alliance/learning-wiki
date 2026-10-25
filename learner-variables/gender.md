@@ -13,7 +13,7 @@ generated:
 # Gender
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 273 claims (169 show a difference, 65 mixed, 39 no difference) · 192 studies (123 associational, 32 causal, 14 quant-synthesis, 9 review, 5 qualitative, 5 theoretical, 4 design), `q1`–`q4` · 33 of 192 report an effect size · 265 claims rest on one study
+> **Evidence** · 274 claims (169 show a difference, 65 mixed, 40 no difference) · 193 studies (124 associational, 32 causal, 14 quant-synthesis, 9 review, 5 qualitative, 5 theoretical, 4 design), `q1`–`q4` · 33 of 193 report an effect size · 266 claims rest on one study
 
 ## How to read this page
 
@@ -311,6 +311,7 @@ Gender is recorded in most education studies, usually as a binary category taken
 - [Opinions of boys, girls, and normal school students about the best teacher qualities correlate highly (r = .80 between high school girls and boys; r = .88 between normal school girls and high school girls).](../claims/high-correlation-pupil-group-opinions.md) [-M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Starch's arithmetic scale shows decided grade-to-grade overlap: about 33% of any grade reach or exceed the median of the grade above, with a strong sex difference favoring boys](../claims/starch-arithmetic-scale-overlap-sex-difference.md) [+W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Teacher-quality preferences differ by group: kindness ranks first with girls, fairness with boys, and sociability is more appreciated by normal school students than by high school students.](../claims/group-differences-teacher-quality-preferences.md) [+W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Measured by arithmetic mean or refined median, the Point Scale sex difference is slight relative to its probable error](../claims/mean-median-sex-difference-slight-versus-pe.md) [-M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## The evidence by question
 - *Do girls and boys differ in mathematics and reading achievement, by how much, and where in the distribution?* [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](../claims/pisa-sex-differences-math-small-reading-three-times-larger.md) [+M]

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-24
 evidence_strength: moderate
 newest_evidence: 1989
+source_checked: 2026-10-25
 sources:
   - id: schmidt-1989
     resource: "https://doi.org/10.1037//0022-0663.81.4.610"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 1989 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1989 · checked against its sources 2026-10-25 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In Experiment 2, problem analysis before text study produced a significant overall difference in free recall, F(1, 82) = 6.15, p < .05, with no significant treatment-by-expertise interaction, F(1, 82) = .01, p < .93. [→ Schmidt 1989](#schmidt-1989)
@@ -50,3 +51,7 @@ Experiment 2 assigned 88 Dutch secondary students (46 ninth-grade novices, 42 te
 - [The recall benefit of prior problem-based discussion applies to both explanatory and descriptive propositions, with no interaction between treatment and proposition type](pbl-recall-benefit-general-not-explanation-specific.md) — related
 - [Problem-based discussion prior to studying a text does not increase the number of inferences during immediate free recall](pbl-discussion-no-increase-in-immediate-inferences.md) — related
 - [The text-recall benefit of problem analysis is confined to explanatory propositions; descriptive facts are not better remembered](recall-benefit-limited-to-explanatory-propositions.md) — related
+- [Analyzing a problem before reading facilitates overall free recall of a relevant expository text](exp2-problem-analysis-total-recall-gain.md) — a narrower finding that bears on this claim
+- [Small-group discussion of a problem activates relevant prior knowledge, more than doubling free recall of propositions about the underlying process](problem-analysis-activates-prior-knowledge.md) — related
+- [Novices and experts benefit alike from problem analysis before reading; the treatment-by-expertise interaction is not significant](problem-analysis-benefits-novices-and-experts-alike.md) — possibly the same claim (merge candidate)
+- [Problem analysis through small-group discussion is particularly effective at eliciting explanatory rather than descriptive propositions](problem-analysis-favors-explanatory-propositions.md) — related

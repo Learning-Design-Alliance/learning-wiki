@@ -2,7 +2,7 @@
 
 Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's.
 
-**1936 entries** · 0 stable · 1936 in review · 0 drafts
+**1939 entries** · 0 stable · 1939 in review · 0 drafts
 
 ---
 
@@ -79,6 +79,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Algebra Toolkit](algebra-toolkit.md) - The Algebra Toolkit is a Regional Educational Laboratory Central at Mathematica professional development programme that supports middle and high school algebra educators through facilitated PLC sessions, preparation, classroom implementation, and school-leader guidance.
 * [AlgoRAG](algorag.md) - A retrieval-augmented generation software system developed by Sushan Adhikari for providing context-grounded assistance in theoretical computer science education.
 * [Alharbi et al. (2026) Scenario Rubric, Artefact Rubric, and engagement index](alharbi-et-al-2026-scenario-rubric-artefact-rubric-and-engagement-index.md) - A set of original instruments developed by Alharbi et al.
+* [Alice in Wonderland silent-versus-oral reproduction tests](alice-in-wonderland-silent-versus-oral-reproduction-tests.md) - A reading-comprehension assessment developed by Mead that has pupils read an Alice in Wonderland passage silently and orally, then reproduces and scores the points recalled under each condition.
 * [Alignment and coherence framework with six interrelated domains for system improvement](alignment-and-coherence-framework-with-six-interrelated-domains-for-system-improvement.md) - A Walrond et al.
 * [Alliance for Resource Equity (ARE) diagnostic toolkit organized around ten dimensions of equity](alliance-for-resource-equity-are-diagnostic-toolkit-organized-around-ten-dimensions-of-equ.md) - A toolkit developed by the Education Trust and Education Resource Strategies that helps district and school leaders diagnose inequities across ten dimensions of student experience and select guidebook actions for improvement.
 * [Alternative Uses Test response dataset of over 20,000 responses from more than 2,000 participants](alternative-uses-test-response-dataset-of-over-20000-responses-from-more-than-2000-partici.md) - An open dataset of more than 20,000 Alternative Uses Test responses from over 2,000 adult participants, with study materials and analysis code released through the OSF repository by Organisciak et al.
@@ -726,6 +727,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Headsprout Early Reading](headsprout-early-reading.md) - Headsprout Early Reading is an Internet-based supplemental early-literacy curriculum developed by Headsprout, using adaptive animated lessons, stories, flashcards, and readers to teach foundational reading skills.
 * [Healthy Harlem](healthy-harlem.md) - Healthy Harlem is a school-based health and wellness programme whose Get Fit and Prevention components promote students' physical fitness, nutrition knowledge, and physical-activity self-efficacy.
 * [Healthy Minds Program (HMP)](healthy-minds-program-hmp.md) - Healthy Minds Innovations' Healthy Minds Program is a free smartphone-based meditation app that delivers structured audio lessons and guided practices for cultivating well-being skills.
+* [Healy Picture Completion Test](healy-picture-completion-test.md) - A standardized performance assessment in which children complete pictures and receive score-, time-, and age-level classifications, administered and scored using Pintner and Anderson procedures.
 * [HEARTS](hearts.md) - A whole-school, trauma-informed programme developed by the University of California, San Francisco and implemented in San Francisco Unified School District schools through tiered supports, staff training, consultation, and student interventions.
 * [HEC Health Equity Framework](hec-health-equity-framework.md) - A co-developed health-equity framework with implementation supports that organizes actions to improve care and disrupt intersecting systems of oppression in healthcare.
 * [Heggerty's Bridge to Reading](heggertys-bridge-to-reading.md) - A teacher-led foundational skills curriculum from Heggerty that combines explicit phonics and phonemic-awareness lessons for daily kindergarten through grade 2 instruction.
@@ -1775,6 +1777,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [The Bullying Prevention Pack (BPP)](the-bullying-prevention-pack-bpp.md) - A five-week, teacher-led primary-school bullying-prevention programme developed by Peadar Donohoe and colleagues that uses discussions, literature-based definitions, role-play, defending-behaviour coaching, an anti-bullying contract, and monthly follow-up check-ups.
 * [The Collaborative](the-collaborative.md) - The Collaborative is a branded initiative run by its organizing collaborative to support state leaders through participatory design, relationship-building, collaboration, and leadership development.
 * [The Congruency-based Metacognition Scale (CMS)](the-congruency-based-metacognition-scale-cms.md) - A paired child–parent questionnaire developed by dos Santos Kawata et al.
+* [The Constructive Ability Test](the-constructive-ability-test.md) - A standardized block-building performance test developed by Kelley to assess children's constructive and executive ability, initiative, and manipulative skill through objectively graded self-directed structures.
 * [the design helper](the-design-helper.md) - Michael Eckersley's design-helper computer programs generate graphical concepts and patterns that students use to complete images related to specific design questions.
 * [The Electric Company Summer Learning Program](the-electric-company-summer-learning-program.md) - The Electric Company Summer Learning Program is a Sesame Workshop transmedia summer curriculum package combining Electric Company video episodes, scripted group activities, and the Prankster Planet online game for children ages 6 to 8.
 * [The Evaluation Toolkit](the-evaluation-toolkit.md) - A Benton Foundation and EDC Center for Children and Technology toolkit of instruments that helps teachers assess technology-rich learning activities, student skill development, learning, and media literacy.

@@ -50,3 +50,4 @@ Correlational analysis of group test scores against Stanford Revision mental age
 - [Teachers' estimates show the highest single-measure correlation with the Stanford Revision (.72, 60 cases)](teachers-estimates-highest-correlation-stanford-revision.md) — related
 - [The Pressey Mental Survey Primer Scale for grades 1-3 requires neither reading nor writing and correlates .58 with teachers' estimates](pressey-primer-scale-correlation-58-teachers-estimates.md) — related
 - [Group-scale scores correlate with Stanford Revision mental age for six-, seven-, and eight-year-olds](group-scale-correlates-binet-mental-age.md) — related
+- [In the preliminary investigation, test scores correlated highly with a composite of the other tests and with Binet mental age, with composite and mental age correlating .94](preliminary-tests-correlate-with-composite-and-binet-mental-age.md) — related

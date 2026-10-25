@@ -54,3 +54,4 @@ Entry 390 summarizes Terman, Lyman, Ordahl, Galbreath and Talbert's 1916 Journal
 - [Applying the Stanford revision to selected children in four California cities, Williams classified 32% feeble-minded, 20% borderline, 22% dull normal, and 26% normal or superior.](williams-stanford-revision-four-california-cities-classification.md) — related
 - [In Goddard's Vineland examination of 1547 pupils, only about half of mentally over-age and under-age pupils show corresponding advancement or retardation in school grading](goddard-binet-mental-age-vs-pedagogical-age.md) — related
 - [The reviewer argues mental tests are more needed for selecting superior children than for selecting inferior children](mental-tests-more-needed-for-superior-selection.md) — related
+- [Goddard's Vineland testing of two thousand normal children found the Binet scale highly accurate](goddard-vineland-two-thousand-normal-children-accurate.md) — related

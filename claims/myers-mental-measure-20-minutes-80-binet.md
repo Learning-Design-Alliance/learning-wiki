@@ -48,3 +48,4 @@ Annotated-list entry for the Myers Mental Measure by Caroline E. and Garry C. My
 - [Against Stanford Binet criteria for 300 grade 3–6 children, the mental index correlated .47, the educational index .52, crude score with mental age .80, mental with educational index .62, and Difference with I.Q. .21](binet-agreement-correlations.md) — related
 - [Group scales allow examining fifty or a hundred children in an hour, whereas individual Binet testing restricts use to special cases](group-scale-throughput-versus-binet-individual.md) — related
 - [Group-scale scores correlate with Stanford Revision mental age for six-, seven-, and eight-year-olds](group-scale-correlates-binet-mental-age.md) — related
+- [In the preliminary investigation, test scores correlated highly with a composite of the other tests and with Binet mental age, with composite and mental age correlating .94](preliminary-tests-correlate-with-composite-and-binet-mental-age.md) — related

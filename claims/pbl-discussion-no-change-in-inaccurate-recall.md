@@ -48,3 +48,5 @@ Secondary ANOVA from the same randomized recall study showing the accuracy gain 
 - [Problem-based tutorial discussion of a relevant problem before studying an expository text increases the number of accurate propositions recalled from that text](pbl-discussion-prior-to-text-increases-free-recall.md) — related
 - [The recall benefit of prior problem-based discussion applies to both explanatory and descriptive propositions, with no interaction between treatment and proposition type](pbl-recall-benefit-general-not-explanation-specific.md) — related
 - [Problem-based discussion prior to studying a text does not increase the number of inferences during immediate free recall](pbl-discussion-no-increase-in-immediate-inferences.md) — related
+- [Analyzing a problem before reading facilitates overall free recall of a relevant expository text](exp2-problem-analysis-total-recall-gain.md) — related
+- [The text-learning benefit of prior problem analysis is confined to explanatory propositions; recall of descriptive facts is not improved](recall-benefit-limited-to-explanatory-propositions.md) — related

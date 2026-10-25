@@ -56,3 +56,4 @@ The article's stated limitation: with "only eighty children in all, ten for each
 - [Auditory memory (digit-span) tests are overrepresented in the adult scale and depress the rankings of otherwise high-performing students](caldwell-1919-auditory-memory-overweighting.md) — related
 - [The author judges the tests reveal class members' ability to do school work almost as accurately as months of teacher observation, supporting use for borderline promotion cases](tests-match-teacher-judgment-school-work.md) — related
 - [Excluding pedagogically retarded pupils reveals a close correlation between mental growth and immediate auditory sentence memory](sentence-memory-correlates-with-mental-growth.md) — related
+- [Clinic cases retested within less than a month to 15 months show a median IQ difference of 3.5 points, with only four cases above 5 points](clinic-case-iq-differences-median-35.md) — related

@@ -79,3 +79,4 @@ Site visit data on improvement actions: four of nine rural schools made parent i
 - Teachers report logistical barriers — transportation, weekly supply shopping, limited computer access, and missing basic supplies — that complicate school participation for students in foster care — related
 - [Insufficient data systems, LCFF funding limits, transportation barriers, and child welfare capacity constraints impede coordinated support for students in foster care](foster-care-coordination-challenges.md) — related
 - [Commuting distance, school demographics, and academics play important roles in parents' school choices in Washington, DC](dc-parents-distance-demographics-academics-drive-choice.md) — related
+- [Youth and parents reimagined schools with more resources and supportive infrastructure, including transportation, everyday-life programs, and activities for economically constrained families](school-resources-supportive-infrastructure.md) — related

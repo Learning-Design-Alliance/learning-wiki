@@ -2,7 +2,7 @@
 
 Methods for studying learning and evaluating education that are specific to it or especially useful in it. General social-science methods are not listed.
 
-**649 entries** · 0 stable · 649 in review · 0 drafts
+**650 entries** · 0 stable · 650 in review · 0 drafts
 
 ---
 
@@ -504,6 +504,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Responsible-DKT](responsible-dkt.md) - The Responsible-DKT approach is organized as a reusable four-stage pipeline: raw logs are pre-processed into chronological per-student sequences, symbolic training samples are generated as sequence-to-sequence ground facts and queries, a neural-symbolic model integrates embeddings, recurrence, and s
 * [Responsiveness construct for analyzing dialogic discussion posts](responsiveness-construct-for-analyzing-dialogic-discussion-posts.md) - The authors introduce responsiveness as a construct for analyzing discussion contributions, defining it as \"the extent and ways one's response takes into account and builds on previous posts, both logically and emotionally\".
 * [Retrospective emulation of evidence-centered design features for learning analytics](retrospective-emulation-of-evidence-centered-design-features-for-learning-analytics.md) - Because the full ECD framework cannot be applied retrospectively to existing game logs, the article recommends emulating its useful features: a student model operationalizing the hypothesized cognitive dynamics (here, the 2SM stances) and an evidence model mapping those dynamics onto observable log 
+* [Reusable and inspectable behavioral annotation components](reusable-and-inspectable-behavioral-annotation-components.md) - The article recommends making behavioral annotation components reusable and inspectable: an assertion annotated once in a corpus can inform multiple construct labels, and assertion annotations can train smaller classifiers for later annotation.
 * [Revealed comparative advantage measure of teacher equity impact](revealed-comparative-advantage-measure-of-teacher-equity-impact.md) - The article introduces \"a novel measure of teacher quality—called revealed comparative advantage—that estimates teachers' impact on racial achievement differences.\" A teacher's comparative advantage for Black students is their differential impact on Black students relative to non-Black students; a p
 * [Rothstein falsification test](rothstein-falsification-test.md) - A falsification test for teacher value-added models, introduced by Jesse Rothstein (2010) and re-assessed in this paper.
 * [Rubric-based pedagogical quality scoring for educational AI explanations](rubric-based-pedagogical-quality-scoring-for-educational-ai-explanations.md) - The article defines a composite pedagogical quality score on [0,1] as the mean of six binary criteria applied per response: step-by-step exposition, correct mathematical notation, worked example, query coverage, explanation depth, and proof-step granularity.

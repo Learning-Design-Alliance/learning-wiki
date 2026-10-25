@@ -50,3 +50,4 @@ Analytical derivation in the commentary: assuming standardized parallel items, a
 - [Theoretically defined test reliability computable from a single administration via parallel-half vector lengths and angle exceeds split-half reliability but falls below Cronbach alpha](single-administration-theoretical-reliability-vectors.md) — related
 - [A high Cronbach's alpha across items measuring distinct knowledge aspects indicates the test is not working as intended](high-alpha-indicates-domain-knowledge-test-failure.md) — related
 - [Meta-analytic average Cronbach's Alpha of domain-specific knowledge tests is 0.85 with expected item intercorrelation of 0.22](meta-analytic-alpha-knowledge-tests-085.md) — related
+- [The 40-sample stereoscopic grading scale is highly reliable: sample grades correlate .98 with values from other judges, and individual placement correlates .92 with true scale placement](merit-scale-reliability-98-and-92.md) — related

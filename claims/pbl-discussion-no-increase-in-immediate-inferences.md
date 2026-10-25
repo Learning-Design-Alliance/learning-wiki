@@ -53,3 +53,6 @@ Null ANOVA on inference counts from the same randomized study; the article repor
 - [Prior problem-based discussion does not change the number of inaccurate propositions recalled](pbl-discussion-no-change-in-inaccurate-recall.md) — related
 - [Analyzing a problem before reading facilitates subsequent recall of a relevant text for both novices and experts](problem-analysis-facilitates-text-recall.md) — related
 - [Problem analysis through small-group discussion particularly stimulates the production of explanatory propositions, via a significant treatment-by-proposition-type interaction](problem-analysis-favors-explanatory-propositions.md) — related
+- [Analyzing a problem before reading facilitates overall free recall of a relevant expository text](exp2-problem-analysis-total-recall-gain.md) — related
+- [Small-group discussion of a problem activates relevant prior knowledge, more than doubling free recall of propositions about the underlying process](problem-analysis-activates-prior-knowledge.md) — related
+- [The text-learning benefit of prior problem analysis is confined to explanatory propositions; recall of descriptive facts is not improved](recall-benefit-limited-to-explanatory-propositions.md) — related

@@ -13,7 +13,7 @@ generated:
 # Intelligence Testing: Uses and Limits
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 129 claims (46 for, 72 mixed, 11 against) · 69 studies (40 associational, 15 review, 7 theoretical, 4 design, 2 quant-synthesis, 1 causal), `q1`–`q3` · 8 of 69 report an effect size · 128 claims rest on one study
+> **Evidence** · 142 claims (51 for, 78 mixed, 13 against) · 75 studies (45 associational, 16 review, 7 theoretical, 4 design, 2 quant-synthesis, 1 causal), `q1`–`q3` · 8 of 75 report an effect size · 141 claims rest on one study
 
 ## Description
 The first intelligence test, the Binet-Simon test, grew out of Alfred Binet's 1904 appointment as France's Minister of Public Education, where he sought a way to identify children with developmental disabilities so they could receive appropriate support — Binet believed "abnormality" could be remediated, and strongly supported special education on that basis. It was the first test to distinguish "normal" children from those with developmental disabilities, and its later revision became the Stanford-Binet, one of the most widely used intelligence tests (Zimmerman & Schunk, 2003). Binet's original purpose — identifying students who need support — sits in some tension with how intelligence-test scores are more often used today, as a general ranking or classification device (see Constraints below).
@@ -180,6 +180,19 @@ Despite this psychometric strength, intelligence tests and the definitions of in
 - [Binet-Simon results fit normal children's chronological ages better in early years, while the Yerkes-Bridges point scale gives better results from age eight or nine on, due to scoring methods](../claims/binet-versus-yerkes-bridges-age-fit.md) [~W]
 - [The Binet-Simon metric scale works well with normal and slightly atypical children but is less satisfactory with imbeciles and idiots and almost worthless for dements](../claims/binet-scale-fails-severe-defect-and-dementia.md) [~W]
 - [Testing elementary psychic states is a poor direct measure of adult intelligence, but attention or memory measures are legitimate indirect indices in children](../claims/indirect-intelligence-measurement-children.md) [~W]
+- [Kuhlmann argued the difference between mental age and chronological age does not represent the true degree of deficiency](../claims/kuhlmann-rate-of-mental-progress-over-age-difference.md) [-W] — attached 2026-10-25 from Kohs (1914), which proposed "Mental-age-based classification of mental defectives".
+- [Large IQ differences in this sample were mostly attributable to identifiable causes such as failures of previously passed tests, chance success, effort fluctuation, or lack of experience](../claims/iq-differences-attributable-to-specific-causes.md) [+W] — attached 2026-10-25 from Lincoln (1922), which proposed "Lincoln's taxonomy of causes of IQ discrepancies between successive examinations".
+- [Children who did well on the Binet did well in school work demanding abstract thinking such as arithmetic and language, whereas advanced standing on performance tests did not predict this](../claims/binet-predicts-abstract-schoolwork-performance-tests-do-not.md) [+W]
+- [Graduating the scale by compositing the ten test-score distributions yielded an approximately normal ability distribution, and the age norms for ages 10 to 14 fell in almost a perfectly straight line](../claims/graduation-yields-normal-distribution-and-linear-age-norms.md) [+W]
+- [Clinic cases retested within less than a month to 15 months show a median IQ difference of 3.5 points, with only four cases above 5 points](../claims/clinic-case-iq-differences-median-35.md) [+W]
+- [The Terman Binet and Healy Picture Completion tests give extremely different classifications of the same children, with only 44.44 per cent of 65 cases receiving the same rough classification](../claims/binet-healy-different-classifications-65-cases.md) [-W]
+- [In the unselected county children's home population, the C. M. A. standard yielded 20.8% feeble-minded while the Three Per Cent. Hypothesis yielded 5.7%, with most children classified backward](../claims/county-home-cma-inflates-feeble-minded-percent.md) [~W]
+- [Delinquent boys at the Texas State Juvenile Training School averaged constructive merit of 51.3, equal to that of normal 9.5-year-olds](../claims/delinquent-boys-merit-51-3-equal-normal-9-5-year-old.md) [~W]
+- [In the preliminary investigation, test scores correlated highly with a composite of the other tests and with Binet mental age, with composite and mental age correlating .94](../claims/preliminary-tests-correlate-with-composite-and-binet-mental-age.md) [+W]
+- [Higher-social-level preschool children tested about half a year above lower-social-level children on the Binet scale, except at age ten](../claims/social-level-binet-score-differences-hoffman.md) [~W]
+- [Repeated Stanford-Binet testing of summer-school pupils over four years shows mostly small IQ differences, with a median difference of 5.25 points](../claims/summer-school-iq-differences-median-525.md) [~W]
+- [Large majorities of delinquent and reformatory girls tested with the Binet scale were classified feeble-minded](../claims/reformatory-girls-binet-feeble-minded-majorities.md) [~W]
+- [The Healy Picture Completion test is easier than the Terman Binet: a child ranking at age level on the Healy will in all likelihood test below age on the Binet, especially children of lower mentality](../claims/healy-picture-completion-easier-than-binet.md) [~W]
 
 ## Related Principles
 - [Supporting Gifted and Talented Students](../principles/supporting-gifted-and-talented-students.md) — giftedness classification is conventionally IQ-threshold-based, inheriting all of this principle's measurement caveats
@@ -192,6 +205,7 @@ Despite this psychometric strength, intelligence tests and the definitions of in
 - [Follow the French two-stage placement plan: pedagogical examination first, then mental tests for equal mental retardation](../strategies/binet-simon-special-class-placement-plan.md)
 - [Research agenda for intelligence measurement: intercorrelations, IQ permanence, distribution form, and effects of coaching](../strategies/intelligence-measurement-research-agenda-1921.md)
 - [Use mental tests as supplementary evidence of pupils' abilities in dealing with the apparently bright and the apparently stupid](../strategies/mental-tests-supplementary-evidence-strategy.md)
+- [Use a battery of standardized group class tests as a preliminary mental survey to rank children and select the lowest-ranked for individual examination](../strategies/class-test-preliminary-mental-survey-strategy.md)
 
 ## Key Sources
 - Zimmerman, B. J., & Schunk, D. H. (Eds.). (2003). *Educational psychology: A century of contributions*. Erlbaum.

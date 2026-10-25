@@ -2,7 +2,7 @@
 
 Designs for a particular setting, course, population or product: what a design uses the general patterns for. A pattern is general across contexts; a design is not.
 
-**1038 entries** · 0 stable · 1038 in review · 0 drafts
+**1039 entries** · 0 stable · 1039 in review · 0 drafts
 
 ---
 
@@ -183,6 +183,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Combining challenge-based learning, community-engaged learning, COIL, and cross-university collaboration in one course design](cbl-cel-coil-cuc-integrated-course-pattern.md) - The article presents a course-level design pattern in which societal engagement (via CBL and CEL), a global challenge, and collaboration (via COIL and a cross-university collaboration) are combined.
 * [Combining visual demonstrations, guided inquiry, computational-model manipulation, and group discussion to teach cutting-edge science concepts](demo-inquiry-model-discussion-sequence.md) - This instructional pattern sequences four modes of engagement around one scientific concept: a physical demonstration, a guided-inquiry worksheet, manipulation of a computational model, and group discussion.
 * [CoMeT: a browser-based contingent AI programming tutor with a support ladder over authored decision points](comet-contingent-ai-tutor-environment.md) - CoMeT is \"a browser-based environment in which a learner works through a short programming task beside a chat tutor\", with a sketchpad and code editor.
+* [Community cultural wealth, freedom dreaming, and desire-based frameworks positioning youths’ and parents’ reimagined realities as precursors for social change](aspirational-capital-freedom-dreaming-framework.md) - The article draws on community cultural wealth (Yosso, 2005), freedom dreaming (Kelley, 2002), desire-based research (Tuck, 2009), and the integrative model of minority child development.
 * [Community Integrated Data System for coordinating student supports](community-integrated-data-system-ucla-cs.md) - During the COVID-19 pandemic, UCLA-CS partnered with UCLA's Life Course Intervention Research Network to create a Community Integrated Data System (CIDS) that helps three support teams, faculty, and staff communicate...
 * [Community organizing cycle as a model for school transformation](community-organizing-cycle-school-change.md) - The report describes the community organizing cycle as the change model embodied by the RCS campaign.
 * [Community-building through celebratory traditions: quarterly awards, bridging ceremonies, and staff-family-student recognition](celebratory-traditions-school-community.md) - This pattern uses recurring celebratory events to build school community and reinforce culture.

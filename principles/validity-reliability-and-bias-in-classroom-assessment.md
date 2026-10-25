@@ -36,7 +36,7 @@ sources:
 # Validity, Reliability, and Bias in Classroom Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 272 claims (116 for, 138 mixed, 18 against) · 201 studies (77 associational, 48 design, 28 review, 22 theoretical, 17 causal, 6 quant-synthesis, 3 qualitative), `q1`–`q3` · 18 of 201 report an effect size · 265 claims rest on one study
+> **Evidence** · 274 claims (118 for, 138 mixed, 18 against) · 203 studies (79 associational, 48 design, 28 review, 22 theoretical, 17 causal, 6 quant-synthesis, 3 qualitative), `q1`–`q3` · 18 of 203 report an effect size · 267 claims rest on one study
 
 ## Conditional relationship
 
@@ -346,6 +346,8 @@ Content validity, construct validity, criterion validity, consistency across occ
 - [Self-rating word-knowledge responses admitted marked over-estimation, prompting a response format requiring students to name the field of knowledge of each word](../claims/self-rating-overestimation-word-knowledge.md) [+W]
 - [The integrated A2i Letters2Meaning assessment correlated highly with standardized reading measures (r ranging from .65 to .76), supporting its validity](../claims/a2i-l2m-assessment-validity-correlations.md) [+W]
 - [The motivational measures show strict longitudinal measurement invariance across the two time points](../claims/strict-measurement-invariance-motivation-two-waves.md) [~W]
+- [Duplicate-form reliability coefficients placed the Spelling Test highest among the ten tests, which the author attributed to the longer tests having 50 elements versus 25 or less](../claims/duplicate-form-reliability-spelling-highest.md) [+W]
+- [Emotions relate to achievement most strongly within the same domain, supporting convergent and divergent validity of domain-specific emotion measures](../claims/emotions-achievement-same-domain-convergent-validity.md) [+W]
 
 ## Related Principles
 - [Criterion- and Norm-Referenced Testing](criterion-and-norm-referenced-testing.md) — validity and reliability apply to standardized as well as teacher-made assessments, with additional considerations
