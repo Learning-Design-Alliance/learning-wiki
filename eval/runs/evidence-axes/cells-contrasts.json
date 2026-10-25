@@ -42094,5 +42094,101 @@
  "spacing\tsingle-section learning followed by a matched rest interval\tinitial performance before the rest interval": {
   "label": "delayed vs immediate test",
   "treatment_is_a": true
+ },
+ "autonomy-support\thigher student-perceived autonomy support\tlower student-perceived autonomy support": {
+  "label": "Higher vs lower student-perceived autonomy support",
+  "treatment_is_a": true
+ },
+ "autonomy-support\thigher student-perceived involvement\tlower student-perceived involvement": {
+  "label": "Higher vs lower student-perceived involvement",
+  "treatment_is_a": true
+ },
+ "autonomy-support\thigher student-perceived teacher autonomy support\tlower student-perceived teacher autonomy support": {
+  "label": "Higher vs lower student-perceived autonomy support",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tteacher-reported autonomy support\tteacher-reported autonomy support absent or lower": {
+  "label": "Teacher-reported autonomy support vs absent or lower teacher-reported autonomy support",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tassessment for selection\tassessment for learning": {
+  "label": "assessment for selection vs assessment for learning",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tassessment used for selection\tassessment used for learning": {
+  "label": "assessment for selection vs assessment for learning",
+  "treatment_is_a": true
+ },
+ "learner-difference\t17 model-predicted min-benefiters\tpeer adolescents": {
+  "label": "min-benefiters vs peers",
+  "treatment_is_a": true
+ },
+ "learner-difference\tA grades in eleventh-grade English\tB grades in eleventh-grade English": {
+  "label": "A grades vs B grades in eleventh-grade English",
+  "treatment_is_a": true
+ },
+ "learner-difference\tA grades in eleventh-grade English\tC grades in eleventh-grade English": {
+  "label": "A grades vs C grades in eleventh-grade English",
+  "treatment_is_a": true
+ },
+ "learner-difference\tA grades in eleventh-grade English\tD or F grades in eleventh-grade English": {
+  "label": "A grades vs D or F grades in eleventh-grade English",
+  "treatment_is_a": true
+ },
+ "learner-difference\tA4L Lessons Project for ELL students\tstatus-quo control for ELL students": {
+  "label": "A4L Lessons Project vs status-quo control for ELL students",
+  "treatment_is_a": true
+ },
+ "learner-difference\tA4L Lessons Project for non-ELL students\tstatus-quo control for non-ELL students": {
+  "label": "A4L Lessons Project vs status-quo control for non-ELL students",
+  "treatment_is_a": true
+ },
+ "learner-difference\tACT score as a predictor\thigh-school effects": {
+  "label": "ACT score as a predictor vs high-school effects",
+  "treatment_is_a": true
+ },
+ "learner-difference\tACT score as a predictor of graduation\tHSGPA as a predictor of graduation": {
+  "label": "ACT score as a predictor vs HSGPA as a predictor",
+  "treatment_is_a": true
+ },
+ "learner-difference\tACT score lower than 17\tACT score over 24": {
+  "label": "higher ACT score vs lower ACT score",
+  "treatment_is_a": false
+ },
+ "learner-difference\tACT score of at least 18\tACT score below 18": {
+  "label": "ACT score at least 18 vs ACT score below 18",
+  "treatment_is_a": true
+ },
+ "media-design\tdiagrams cueing diagrammatic schemas\ttext or diagrams unlikely to cue schemas": {
+  "label": "Diagrams cueing pre-existing schemas vs text or non-schema-cueing diagrams",
+  "treatment_is_a": true
+ },
+ "media-design\tinstructions presented with diagrams cueing pre-existing schemas\tinstructions presented as text": {
+  "label": "Diagrams cueing pre-existing schemas vs text or non-schema-cueing diagrams",
+  "treatment_is_a": true
+ },
+ "practice-amount\t17 compositions\ttwo compositions": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\texternal incentives and performance feedback\tno external stimulation": {
+  "label": "External incentives/rewards vs no external incentives",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\texternal incentives and rewards\tno external stimulation; interest in the work itself": {
+  "label": "External incentives/rewards vs no external incentives",
+  "treatment_is_a": true
+ },
+ "scaffolding\tteacher-reported structure\tteacher-reported structure absent or lower": {
+  "label": "more scaffolding vs less scaffolding",
+  "treatment_is_a": true
+ },
+ "structure\thigher student-perceived structure\tlower student-perceived structure": {
+  "label": "higher structure vs lower structure",
+  "treatment_is_a": true
+ },
+ "test-format\ttest that measures the intended ability\ttest that appears to measure the ability but measures a confound": {
+  "label": "construct-valid test vs confounded test",
+  "treatment_is_a": true
  }
 }

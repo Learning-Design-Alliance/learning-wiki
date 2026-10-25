@@ -54,3 +54,4 @@ Experiment 4 between-participants comparison (42 subjective-uncertainty, 56 curi
 - [The more confident a learning partner's answers, the more competent the partner is perceived](partner-confidence-raises-perceived-competence.md) — related
 - [Low and medium Knowledge Confidence heighten curiosity, contradicting the predicted inverted U-shaped relationship](low-medium-knowledge-confidence-heighten-curiosity.md) — related
 - [Correctness Confidence linearly predicts curiosity, with higher confidence in a guess associated with greater curiosity](correctness-confidence-linearly-predicts-curiosity.md) — reports the opposite
+- [Higher confidence reduced knowledge exploration after correct answers, and high-confidence errors showed no effect on exploration](confirmed-confidence-reduces-exploration.md) — related

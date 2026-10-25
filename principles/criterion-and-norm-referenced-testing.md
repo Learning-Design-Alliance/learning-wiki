@@ -24,7 +24,7 @@ sources:
 # Criterion- and Norm-Referenced Testing
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 35 claims (10 for, 22 mixed, 3 against) · 23 studies (10 theoretical, 7 associational, 3 design, 2 causal, 1 review), `q1`–`q3` · 0 of 23 report an effect size · 35 claims rest on one study
+> **Evidence** · 36 claims (10 for, 23 mixed, 3 against) · 24 studies (10 theoretical, 8 associational, 3 design, 2 causal, 1 review), `q1`–`q3` · 0 of 24 report an effect size · 36 claims rest on one study
 
 ## Conditional relationship
 
@@ -173,6 +173,7 @@ The model should weaken if teachers given skill-level criterion-referenced repor
 - [Experimental and statistical norms are practically useful only when determined for a group of the same general type with equal opportunity to acquire the measured characteristics](../claims/norms-valid-only-for-comparable-groups.md) [~W]
 - [Drawing ability scores rise from grade IB to grade 8A, but the data support group norms rather than a distinctive norm for each grade](../claims/drawing-group-norms-not-per-grade-norms.md) [~W]
 - [Corrected measures of overlapping show 33 per cent correct classification rather than the 17 per cent previously reported, and 19.5 per cent rather than 33 per cent exceeding or falling short of the adjacent grade's median](../claims/kelley-corrected-overlapping-classification-percentage.md) [~W]
+- [Intelligence-test scores overlap substantially across non-consecutive grades, with some fourth graders scoring above the fifth-grade norm](../claims/grade-overlapping-of-point-scale-scores.md) [~W]
 
 ## Related Principles
 - [Intelligence Testing: Uses and Limits](../theories/intelligence-testing-uses-and-limits.md) — the fuller treatment of aptitude/cognitive-ability tests' history, standardization, and cultural-bias concerns

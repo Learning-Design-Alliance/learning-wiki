@@ -55,3 +55,4 @@ Authors' interpretation from examining test papers: "a large majority of the DM 
 - [Ninth grade algebra students solve verbally presented problems better than symbolically presented problems](students-verbal-problems-easier-than-symbolic.md)
 - [On the problem solution criterion, verbal problem solving scores do not decline over four weeks and rise on the more complex problems](verbal-problem-scores-resistant-to-forgetting.md) — related
 - [Algebra ability level differences appear on both criteria with no treatment-by-ability interaction](ability-level-differences-verbal-problem-solving.md) — related
+- [Two types of equation in school mathematics are easily confused and the confusion can be avoided by suggested means](two-types-of-equation-confusion.md) — related

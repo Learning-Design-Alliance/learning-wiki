@@ -54,3 +54,4 @@ Experiment 3A (final N = 40 UK adults recruited via Prolific; Gorilla platform; 
 - [Heuristic cues — response time, familiarity, problem complexity, and context reinstating — guide opting-out decisions](heuristic-cues-guide-opting-out.md) — related
 - [Opting out can improve thinking efficiency by cutting wasted effort on doomed attempts](opting-out-improves-thinking-efficiency.md) — related
 - [People underuse opt-out options, and explicit presentation substantially increases their use](opting-out-underuse-explicit-presentation-increases-use.md) — related
+- [Making high-confidence errors about educational misconceptions intensifies preservice teachers' surprise, curiosity, confusion, and achievement-related anger](high-confidence-errors-intensify-epistemic-emotions-and-anger.md) — related

@@ -27,7 +27,7 @@ sources:
 # Standardized Test Fairness and Bias
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 49 claims (8 for, 38 mixed, 3 against) · 32 studies (11 associational, 8 review, 7 causal, 2 design, 2 theoretical, 1 quant-synthesis, 1 qualitative), `q1`–`q3` · 4 of 32 report an effect size · 48 claims rest on one study
+> **Evidence** · 52 claims (9 for, 38 mixed, 5 against) · 34 studies (11 associational, 8 causal, 8 review, 3 theoretical, 2 design, 1 quant-synthesis, 1 qualitative), `q1`–`q3` · 4 of 34 report an effect size · 51 claims rest on one study
 
 ## Conditional relationship
 
@@ -178,6 +178,9 @@ Item bias, differential prediction and the effect of testing conditions are sepa
 - [The 'heart and soul' effort item is suitable for learning contexts in Mandarin Chinese and Spanish but not in the other interviewed cultures](../claims/lifeblood-item-culture-limited.md) [~W]
 - [Experimental and statistical norms are practically useful only when determined for a group of the same general type with equal opportunity to acquire the measured characteristics](../claims/norms-valid-only-for-comparable-groups.md) [+W]
 - [Binet-Simon intelligence tests are applicable only to European and American conditions; other tests are needed for primitive peoples](../claims/binet-simon-tests-culturally-limited.md) [+W]
+- [Tests may appear to measure an ability while actually measuring an unintended one, such as speed of writing figures or attention](../claims/face-validity-failure-speed-attention.md) [+W]
+- [The SES achievement gap produced by evaluators occurs even in the absence of actual performance differences](../claims/gap-created-absent-performance-differences.md) [-W]
+- [Evaluators using assessment for selection find more mistakes in tests attributed to low-SES than high-SES students, creating an artificial SES achievement gap](../claims/selection-assessment-creates-ses-gap.md) [-W]
 
 ## Related Principles
 - [Criterion- and Norm-Referenced Testing](criterion-and-norm-referenced-testing.md) — the norm-referenced tests (SAT, ACT) most directly implicated in the differential-prediction findings here

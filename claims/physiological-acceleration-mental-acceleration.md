@@ -53,3 +53,4 @@ Partial-correlation analysis of height, weight, carpal-bone area and Stanford-Bi
 - [Physiological age, as evidenced by the advent of pubescence or first menstruation, shows wide variations and low correlations with other traits](physiological-age-low-correlations-other-traits.md) — reports the opposite
 - [Anatomical development measured by wrist-bone radiographs correlates very highly with height and weight in the Baldwin study](wrist-radiograph-development-high-correlations-height-weight.md) — related
 - [Town's intensive study gave 52 first-year school children unusually thorough physical, anthropometric and mental measurement](town-52-children-thorough-measurement.md) — related
+- [Mental growth curves of superior children diverge from those of average children and resemble physical growth curves](superior-children-growth-curves-diverge.md) — a broader claim this one bears on

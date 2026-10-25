@@ -2,7 +2,7 @@
 
 Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's.
 
-**1921 entries** · 0 stable · 1921 in review · 0 drafts
+**1923 entries** · 0 stable · 1923 in review · 0 drafts
 
 ---
 
@@ -1227,6 +1227,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Open Source Physics (OSP) toolkit](open-source-physics-osp-toolkit.md) - A free, open-source physics software toolkit, including Easy Java Simulations and Tracker, developed for creating, customizing, analyzing, and sharing computer models and video-based investigations.
 * [Open University Learning Analytics Dataset (OULAD)](open-university-learning-analytics-dataset-oulad.md) - OULAD is an open-source dataset maintained for learning-analytics research, containing demographic, virtual learning-environment activity, and performance data from adult learners at The Open University.
 * [Open-source adversarial stress-testing platform for RPLAs with FastAPI backend and React dashboard](open-source-adversarial-stress-testing-platform-for-rplas-with-fastapi-backend-and-react-d.md) - An open-source platform developed by Saqib Shouqi et al.
+* [Open-source data and scripts for R and Mplus for comparing cross-lagged models](open-source-data-and-scripts-for-r-and-mplus-for-comparing-cross-lagged-models.md) - A reusable release of educational research data, technical notes, and analysis scripts for comparing cross-lagged models, provided by Fernando Núñez-Regueiro and colleagues.
 * [Open-source database of SRL constructs and multimodal indicators](open-source-database-of-srl-constructs-and-multimodal-indicators.md) - A Zenodo-hosted database that organizes self-regulated-learning constructs and multimodal indicators from 142 studies for use by SRL researchers and learning-analytics practitioners.
 * [Open-source modular AI math tutoring platform](open-source-modular-ai-math-tutoring-platform.md) - An open-source modular platform developed by Jarosław A.
 * [Open-source PyTorch DKT implementation](open-source-pytorch-dkt-implementation.md) - An open-source PyTorch implementation created by the article's authors for fitting Deep Knowledge Tracing to DataShop-format data and using it in online knowledge-tracing settings.
@@ -1244,6 +1245,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Organization Test](organization-test.md) - A standardized sentence-rearrangement assessment developed by Greene for children in grades three through eight to measure logical organization within sentences.
 * [Orientation discrimination task](orientation-discrimination-task.md) - A computerized adaptive psychophysical assessment in which children judge relative segment orientation to estimate visual-processing discrimination thresholds.
 * [OSF repository](osf-repository.md) - An OSF-hosted replication package from Zambrano et al.
+* [Otis Absolute Point Scale (Scale I and Scale II) for group measurement of intelligence](otis-absolute-point-scale-scale-i-and-scale-ii-for-group-measurement-of-intelligence.md) - Arthur S.
 * [Otis's absolute grade of intelligence scale with coefficient of brightness](otiss-absolute-grade-of-intelligence-scale-with-coefficient-of-brightness.md) - An intelligence assessment scale proposed by Arthur S.
 * [Ottoman Empire face-to-face debate corpus with hand-coded transactivity](ottoman-empire-face-to-face-debate-corpus-with-hand-coded-transactivity.md) - A research dataset of 76 recorded dyadic debates by male undergraduates on the causes of the Ottoman Empire's decline, with transcribed clause-level speech and hand-coded transactivity annotations, collected by Gweon et al.
 * [Oxford COVID-19 Government Response Tracker (OxCGRT)](oxford-covid-19-government-response-tracker-oxcgrt.md) - A publicly available dataset produced by the University of Oxford that records daily government COVID-19 policy responses, including stringency and school-closure measures, across countries.

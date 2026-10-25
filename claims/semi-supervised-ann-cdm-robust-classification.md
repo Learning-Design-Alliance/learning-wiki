@@ -53,3 +53,4 @@ The abstract reports experimental results from both a simulated study and a real
 - [Model selection, not feedback condition, explains LLM diagnostic accuracy in three-way logic proof classification](model-selection-dominates-feedback-condition-diagnosis.md) — related
 - [A discrimination index can empirically validate Q-matrix specifications by identifying and replacing misspecified entries in the Q-matrix](discrimination-index-identifies-replaces-misspecified-q-matrix-entries.md) — related
 - [Q-matrix misspecification, if left unchecked, can have important practical implications](q-matrix-misspecification-practical-implications.md) — related
+- [Reliability of a test is a prerequisite for valid comparison, experimentation, classification and diagnosis](reliability-prerequisite-for-test-uses.md) — related

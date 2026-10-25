@@ -72,3 +72,4 @@ Model D growth model. After covariate adjustment, African American children had 
 - [Combined teacher and parent report of effortful control predicts both prekindergarten math level and growth, persisting through the most stringent model](effortful-control-report-predicts-math-growth.md) — related
 - [Self-regulation effects on letter–word reading are reduced completely after cognitive covariate controls](self-regulation-reading-effects-reduced-covariates.md) — related
 - [Directly assessed effortful control at 48 months predicts prekindergarten math but not reading, and not growth in either](direct-effortful-control-predicts-math-not-reading.md) — related
+- [Students of ethnicity other than White grew more slowly in reading and math than White students, with no ethnic differences in initial achievement](non-white-ethnicity-slower-growth-no-intercept-difference.md) — related

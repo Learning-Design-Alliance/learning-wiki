@@ -13,7 +13,7 @@ generated:
 # Achievement Emotions
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 140 claims (92 show a difference, 37 mixed, 11 no difference) · 87 studies (31 associational, 21 causal, 13 review, 10 qualitative, 8 theoretical, 4 design), `q1`–`q4` · 20 of 87 report an effect size · 137 claims rest on one study
+> **Evidence** · 145 claims (94 show a difference, 39 mixed, 12 no difference) · 88 studies (32 associational, 21 causal, 13 review, 10 qualitative, 8 theoretical, 4 design), `q1`–`q4` · 20 of 88 report an effect size · 142 claims rest on one study
 
 ## Description
 Achievement emotions are the emotions learners feel about learning activities (enjoyment, boredom, frustration) and about their outcomes (pride, shame, hope, hopelessness). In control-value theory they arise from how much control a learner feels over an activity and how much they value it. Positive activating emotions such as enjoyment go with engagement and achievement, deactivating ones such as boredom with disengagement, and the relationship runs both ways. Anxiety is an achievement emotion with its own page, [academic anxiety](academic-anxiety.md); enjoyment overlaps with [interest](interest.md).
@@ -175,6 +175,11 @@ Achievement emotions are the emotions learners feel about learning activities (e
 - [Test performance predicts subsequent enjoyment, boredom, and anxiety in primary school students, but only anxiety relates reciprocally to performance](../claims/performance-predicts-subsequent-emotions.md) [+M] — learners who differ on it differ in outcomes
 - [The reciprocal relations model fits better than unidirectional alternatives, supporting reciprocal causation between emotions and achievement](../claims/reciprocal-model-superior-fit.md) [+M] — learners who differ on it differ in outcomes
 - [When enjoyment, boredom, and anxiety are modeled simultaneously, anxiety exerts the strongest predictive power for mathematics achievement](../claims/anxiety-strongest-predictor-when-emotions-modeled-together.md) [+M] — learners who differ on it differ in outcomes
+- [After high-confidence errors, resolving the discrepancy with additional information produced enjoyment, while failure to resolve it produced frustration](../claims/discrepancy-resolution-drives-enjoyment-or-frustration.md) [+M] — instruction changes it
+- [Curiosity predicted knowledge exploration after both correct and incorrect answers, while surprise predicted exploration only after incorrect answers](../claims/curiosity-drives-exploration-regardless-of-accuracy.md) [~M] — learners who differ on it differ in outcomes
+- [High-confidence errors were unrelated to epistemic anxiety, while wrong answers as such raised anxiety and correct answers raised pride](../claims/anxiety-unrelated-to-high-confidence-errors-pride-after-correct.md) [~M] — instruction changes it
+- [Intra-individual effects of high-confidence errors, discrepancy resolution, and emotions on exploration did not vary significantly between persons](../claims/no-inter-individual-variation-in-emotional-mechanisms.md) [-M] — learners who differ on it differ in outcomes
+- [Making high-confidence errors about educational misconceptions intensifies preservice teachers' surprise, curiosity, confusion, and achievement-related anger](../claims/high-confidence-errors-intensify-epistemic-emotions-and-anger.md) [+M] — instruction changes it
 
 ## Related Learner Variables
 

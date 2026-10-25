@@ -48,3 +48,4 @@ The article cites, from Yoakum and Yerkes's Army Mental Tests, the correspondenc
 - [Army Alpha intelligence standing correlates r = +.31 with one-term school standing among 153 normal-school students](army-alpha-school-standing-correlation-31.md) — related
 - [True-false tests correlate with intelligence ratings (.406) more highly than essays (.344) or written work (.255), and combining true-false tests raises the intelligence correlation while combining essays does not](true-false-intelligence-correlations-exceed-essay.md) — related
 - [Army mental tests demonstrated their value in selecting men for officers' training schools and other service lines requiring special ability](army-mental-tests-selection-value.md) — related
+- [Penitentiary inmates do not differ in general intelligence from the population average, though many show behavioral anomalies](prisoners-average-intelligence-army-alpha.md) — related

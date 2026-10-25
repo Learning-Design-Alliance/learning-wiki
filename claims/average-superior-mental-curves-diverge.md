@@ -52,3 +52,4 @@ Mean mental growth curves from repeated Stanford-Binet examinations of average a
 - [Performance on inhibitory control measures improves with age, with some tasks reaching performance plateaus beginning around 4 years of age](inhibitory-control-performance-improves-plateaus-age-4.md) — related
 - [The relationship between socioeconomic resources and children's cognitive development strengthens from infancy to a peak around age 4–4½, then weakens slightly by kindergarten entry.](ses-cognitive-relationship-peaks-prekindergarten.md) — related
 - [Physiologically accelerated children are mentally accelerated: height correlates with mental age +0.53 for 49 girls with age held constant](physiological-acceleration-mental-acceleration.md) — related
+- [Mental growth curves of superior children diverge from those of average children and resemble physical growth curves](superior-children-growth-curves-diverge.md) — possibly the same claim (merge candidate)

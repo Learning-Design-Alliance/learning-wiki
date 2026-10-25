@@ -49,3 +49,4 @@ Parallel development LGC model for Yao students (both variables linear), fitted 
 - [For Yao students, both metacognitive knowledge and vocabulary breadth were best described by linear growth models with significant intercepts and slopes](yao-linear-growth-mck-vk.md) — related
 - [Han students significantly outperformed Yao students in breadth of English vocabulary knowledge, with a significant time-by-group interaction in development patterns](han-outperform-yao-vk-breadth.md) — related
 - [Han students' metacognitive knowledge scores were significantly higher than Yao students' at each of four annual measurements from grade 3 to grade 6](han-higher-mck-than-yao-each-year.md) — related
+- [Initial proficiency in one domain positively predicted growth in the other domain: math quartile predicted reading slope and reading quartile predicted math slope](cross-domain-initial-status-predicts-other-domain-growth.md) — related

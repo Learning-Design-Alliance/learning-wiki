@@ -52,3 +52,4 @@ The growth modeling of district administrative data found that "dual language st
 - [In math, EL groups grew more than never-ELs during academic years but lost more during summers](el-math-faster-year-growth-higher-summer-loss.md) — related
 - [Ever-ELs closed in on the national average by end of 4th grade, with Asian and White ever-ELs surpassing it in 2nd grade](ever-els-closing-national-average-gap.md) — related
 - [ELs lost more academic skill during summers than never-ELs in both math and reading](el-greater-summer-loss-both-subjects.md) — related
+- [Despite faster growth, students with low initial proficiency remained well below higher-proficiency peers after two school years, conforming to a pattern of stable differences in both reading and math](stable-differences-maintain-achievement-gaps.md) — related

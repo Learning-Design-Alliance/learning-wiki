@@ -55,3 +55,7 @@ The review summarizes Offner's analysis of factors other than fatigue that condi
 - [Performance on difficult mental multiplication improves during a continuous work period of about two hours](mental-multiplication-improves-during-continuous-work.md) — a narrower finding that bears on this claim
 - [Thirty to forty-eight hours of sleep loss produced no greater efficiency loss than the gain due to practice, despite reported feelings of fatigue](sleep-loss-efficiency-no-worse-than-practice-gain.md) — related
 - [Individual learning curves rise by irregular increments with occasional losses, with plateau-like periods attributed to changes in method and waning interest](irregular-individual-learning-increments-plateaus.md) — related
+- [The data cannot be used to investigate end spurt because subjects were not told when each test would end](end-spurt-not-investigable-unninformed-subjects.md) — related
+- [Initial spurt takes place as a general rule in addition, which the author argues chance variation cannot explain](initial-spurt-general-rule-addition.md) — a narrower finding that bears on this claim
+- [Addition efficiency drops sharply from the first to the second two-minute period, indicating initial spurt](initial-spurt-in-addition-two-minute-periods.md) — a narrower finding that bears on this claim
+- [Prior initial-spurt experiments failed because test periods were too lengthy and subjects too few](prior-spurt-experiments-two-weaknesses.md) — related

@@ -40,7 +40,8 @@ The authors describe building a research-based curriculum as having four compone
 - [Act R Theory Cognitive Tutor Basis](../theories/information-processing-theory.md)
 
 ## Related Strategies
-- 
+
+- [Establish an agency to collect and standardize curriculum materials as a basis for scientific curriculum construction](agency-for-curriculum-material-standardization.md)
 
 ## Examples
 -

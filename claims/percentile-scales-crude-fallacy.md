@@ -67,3 +67,4 @@ The article's illustration of unequal percentile intervals, contrasted with scal
 - [The two test forms were built to pair exercises of closely the same value, equal total values, and similar inter-exercise intervals, with 100 total points per form](parallel-forms-equal-total-values.md) — related
 - [The Organization Test exercises were scaled on 1634 children in grades three to eight, yielding difficulty values from .03 to 6.4 units](greene-organization-test-standardized-1634.md) — related
 - [Against Stanford Binet criteria for 300 grade 3–6 children, the mental index correlated .47, the educational index .52, crude score with mental age .80, mental with educational index .62, and Difference with I.Q. .21](binet-agreement-correlations.md) — related
+- [Scaling is a sine qua non for experimental use of tests, and unscaled tests interpreted as scaled do harm](scaling-sine-qua-non-experimental-use.md) — a narrower finding that bears on this claim

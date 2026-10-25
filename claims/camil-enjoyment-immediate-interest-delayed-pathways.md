@@ -75,3 +75,4 @@ The same SEM (Lavaan, maximum likelihood) also shows the interest pathway: "a si
 - [Students who experienced the virtual field trip via a 3D HMD scored higher on a delayed posttest roughly three weeks later than 2D-video students](hmd-virtual-field-trip-better-delayed-retention.md) — related
 - [Middle-school students taking a virtual field trip via a 3D HMD report higher enjoyment than students taking the same trip as a 2D video](hmd-virtual-field-trip-higher-enjoyment-than-2d-video.md) — related
 - [Middle-school students taking a virtual field trip via a 3D HMD report higher interest than students taking the same trip as a 2D video](hmd-virtual-field-trip-higher-interest-than-2d-video.md) — related
+- [Waples defines interest as the emotional accompaniment of every attentive state, what remains of experience after subtracting thought and action](waples-definition-interest-affective-accompaniment.md) — related

@@ -47,3 +47,4 @@ Questionnaire replies from 29 superintendents or principals, who checked among f
 ## Related Claims
 - [Fraternity men had a worse laggard record than non-fraternity men at Minnesota, while sorority women did better than non-sorority women](fraternity-life-worse-laggard-record.md) — related
 - [Moral factors were judged roughly four times as often as intellectual incapacity as the cause of laggards' failure](moral-over-intellectual-causes-of-failure.md) — related
+- [Failure of probation students is often attributed to factors other than intellectual ability](probation-failure-factors-beyond-intellectual-ability.md) — related

@@ -55,3 +55,4 @@ The dissertation reports, citing Ericsson and Pool, a digit-recall experiment in
 - [Score-access barriers push musicians with BLV toward memorization and listening-based learning, and accessible notation tools miss performance-critical details](blv-score-access-memorization-default.md) — related
 - [Normal adults typically can keep in mind only about 3 or 4 items, a limit replicated across many methods](adult-working-memory-limit-3-4-chunks.md) — reports the opposite
 - [Whether EF gains are seen depends on the amount of time children spend doggedly practicing and pushing themselves to improve](repeated-practice-key-ef-gains.md) — related
+- [Chunking via prior knowledge can massively increase the information processed in working memory](chunking-increases-effective-working-memory.md) — related

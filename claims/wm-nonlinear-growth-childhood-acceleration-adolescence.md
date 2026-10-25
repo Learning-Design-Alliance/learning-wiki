@@ -62,3 +62,4 @@ Longitudinal mixed-effects modeling of the PSID-CDS accelerated longitudinal sam
 - [Quadratic and cubic trends significantly improved the linear model of teacher and student behavior, showing the importance of studying nonlinearity](quadratic-cubic-trends-improve-linear-model-teacher-behavior.md) — related
 - [Math achievement growth from preschool through second grade is best characterized by a latent basis curve rather than linear, exponential, or quadratic functions](latent-basis-best-fit-math-growth.md) — related
 - [Average and superior children develop at different levels and grow increasingly dissimilar with age, with superior children showing adolescent mental acceleration about one year earlier](average-superior-mental-curves-diverge.md) — related
+- [Mental growth curves of superior children diverge from those of average children and resemble physical growth curves](superior-children-growth-curves-diverge.md) — related

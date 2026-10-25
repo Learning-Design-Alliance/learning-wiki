@@ -51,3 +51,4 @@ Theoretical argument in the article's introduction. Otis contrasts the Point Sca
 - [Yerkes-Bridges coefficients of intelligence of 1.20 or more are attained by very different percentages of children at successive ages (34.5% at ages 4-5 down to 0% at ages 16-17 and 18-on), so they do not represent the same degree of brightness at all ages.](non-comparable-brightness-coefficients-yerkes-bridges.md) — related
 - [The Binet-Simon and Yerkes Point Scale ratings of children run parallel and are practically identical up to age ten](binet-point-scale-parallel-to-age-ten.md) — related
 - [The Binet scale is heavily verbal — 43 of its 54 tests use words rather than acts — a criticism Ayres raises and the reviewer partially rebuts](binet-scale-43-of-54-tests-verbal.md) — related
+- [The Point Scale's reliability coefficient is .968, with a probable error of 13.7 points and a mental-age probable error of about 3.4 months](point-scale-reliability-probable-error.md) — related

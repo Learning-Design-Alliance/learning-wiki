@@ -63,3 +63,4 @@ Gap models re-estimated with school-poverty indicators (mid- and high-poverty FR
 - [Achievement gaps between high-poverty and low-poverty schools at kindergarten entry narrowed modestly but significantly between 2010 and 2017](school-poverty-entry-gaps-narrowed-2010-2017.md) — related
 - [Young white students progress more slowly in math and reading than Asian, black, and Hispanic students, with differences attenuating at older ages](ethnic-differences-younger-student-gains.md) — related
 - [Achievement gaps between low-poverty and high-poverty elementary schools grew by .10–.20 SD, primarily during 2020–2021](covid-poverty-gap-grew-010-020-sd-elementary.md) — related
+- [Students of ethnicity other than White grew more slowly in reading and math than White students, with no ethnic differences in initial achievement](non-white-ethnicity-slower-growth-no-intercept-difference.md) — related

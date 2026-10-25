@@ -78,3 +78,4 @@ The article reports, citing Chen et al. (2015, 2016a, b, 2017) and Kalyuga et al
 - [The modality effect may disappear or reverse for lengthy, complex spoken text](modality-effect-reversal-complex-spoken-text.md) — related
 - [Working-memory limitations can be circumvented by schema construction, automation, and multiple presentation modalities](clt-circumvent-working-memory-limits.md) — related
 - [The thesis hypothesises that with increasing expertise the worked example effect may be eliminated or reversed while the generation effect remains robust](expertise-reversal-hypothesis-generation-remains-robust.md) — a narrower finding that bears on this claim
+- [Incorporating interacting elements into a diagrammatic schema reduces cognitive load and enhances understanding](diagrammatic-schema-reduces-load-enhances-understanding.md) — related

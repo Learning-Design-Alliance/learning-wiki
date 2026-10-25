@@ -59,3 +59,5 @@ The review reports a simulation study by Lüdtke and Robitzsch in which data wer
 - [The ESDM's unidirectional trait-ACH-to-trait-ASC path is not empirically identified, and the confounder-based RI-LTVC alternative shows poor fit with no support for a time-varying confounder](esdm-directional-path-not-identified-ri-ltvc-no-support.md) — a narrower finding that bears on this claim
 - [RI-CLPM random-intercept correlations between grades and emotions (median |r| = 0.46) were stronger than the undecomposed CLPM correlations (median |0.34|)](riclpm-vs-clpm-correlation-strength.md) — related
 - [The reciprocal relations model fits better than unidirectional alternatives, supporting reciprocal causation between emotions and achievement](reciprocal-model-superior-fit.md) — related
+- [Deviations from the convergence assumption produce unreliable cross-lagged findings in school motivation research](convergence-violations-unreliable-findings.md) — related
+- [Next-generation cross-lagged models relax the convergence assumption in school motivation panel data](next-generation-cross-lagged-models-relax-convergence.md) — related

@@ -57,3 +57,4 @@ The article attributes this finding to previous research studies, cited as backg
 - [Classification accuracy met or exceeded benchmarks for 19 of 22 LO-assessment combinations, with three EMCS energy LOs below the acceptable range](classification-accuracy-22-lo-combinations.md) — a narrower finding that bears on this claim
 - [The combined FCI, FMCE, and EMCS item bank covers all 14 learning objectives with at least six items each, mostly single- or two-LO items](rba-item-bank-covers-14-los.md) — related
 - [Expert Q-matrix coding closely matched DINA-recovered structure, with only 2.7% of item-LO codings changed during validation](qmatrix-validation-low-change-rate.md) — a narrower finding that bears on this claim
+- [Reliability of a test is a prerequisite for valid comparison, experimentation, classification and diagnosis](reliability-prerequisite-for-test-uses.md) — related

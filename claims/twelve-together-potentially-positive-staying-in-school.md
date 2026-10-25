@@ -55,3 +55,4 @@ A randomized controlled trial of 219 eighth graders in nine middle schools in on
 - [Students show signs of dropout risk early in high school, and schools that reach out in the ninth-grade year can keep them on track to graduate](ninth-grade-early-outreach-keeps-students-on-track.md) — a broader claim this one bears on
 - [The evidence base for Twelve Together is a single randomized controlled trial that met WWC standards only with reservations due to differential attrition](twelve-together-single-rct-attrition-reservations.md) — related
 - [Adult advocacy interventions show promising but variable effects on staying in and progressing in school](adult-advocacy-mixed-effects-staying-in-school.md) — a broader claim this one bears on
+- [External incentives improved fifth-graders' rate of improvement on school tasks, with the motivated group standing ten points higher than the unmotivated by the ninth period](chapman-feeler-external-incentive-improvement.md) — related

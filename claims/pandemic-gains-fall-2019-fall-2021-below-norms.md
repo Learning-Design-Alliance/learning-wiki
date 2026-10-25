@@ -68,3 +68,4 @@ The brief's stated analysis compares gains across fall 2019 to fall 2021 with pr
 - [AI-supported PBL offerings showed higher A-rates and fewer low grades than pre-integration control offerings when including the COVID-19 year](genai-pbl-higher-a-rates-fewer-low-grades.md) — related
 - [Student growth during 2023-24 fell short of pre-pandemic trends in nearly all grades, continuing stalled pandemic recovery](growth-2023-24-fell-short-pre-pandemic-trends.md) — related
 - [The brief investigated the degree to which students' reading and math test scores became more variable as a result of the COVID-19 pandemic](covid-score-variability-research-question.md) — related
+- [Effect sizes for within-grade reading and math growth declined as students progressed from Grade 1 to Grade 5](growth-effect-sizes-decline-grades-1-5.md) — related
