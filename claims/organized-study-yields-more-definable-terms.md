@@ -8,11 +8,11 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-25
 evidence_strength: weak
-newest_evidence: 1918
+newest_evidence: 1919
 sources:
-  - id: grier-1918
+  - id: grier-1919
     resource: "https://doi.org/10.1037/h0073567"
-    title: "Grier, N. M. (1918). The Range of Information in Biology. III. Botany. Journal of Educational Psychology, 9, 509-516. https://doi.org/10.1037/h0073567"
+    title: "Grier, N. M. (1919). The range of information in biology: III. Botany. *Journal of Educational Psychology, 10*(10), 509–516. [doi:10.1037/h0073567](https://doi.org/10.1037/h0073567)"
     author: Grier, N. M.
     q: 1
     i: "?"
@@ -24,16 +24,16 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q1`
-> **Currency** · newest study 1918 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1919 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q1 i?` The difference between first and second termers' D's and E's illustrates the difference between pursuing regular, organized study and pursuing a subject sporadically without constant supervision. [→ Grier 1918](#grier-1918)
+`q1 i?` The difference between first and second termers' D's and E's illustrates the difference between pursuing regular, organized study and pursuing a subject sporadically without constant supervision. [→ Grier 1919](#grier-1919)
 
 ## Evidence
 
-### Grier 1918
+### Grier 1919
 
-Grier, N. M. (1918). The Range of Information in Biology. III. Botany. Journal of Educational Psychology, 9, 509-516. https://doi.org/10.1037/h0073567
+Grier, N. M. (1919). The range of information in biology: III. Botany. *Journal of Educational Psychology, 10*(10), 509–516. [doi:10.1037/h0073567](https://doi.org/10.1037/h0073567)
 
 `q1 · i?` · `associational · r1`
 

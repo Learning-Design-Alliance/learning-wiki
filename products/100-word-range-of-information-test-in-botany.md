@@ -32,4 +32,4 @@ A 100-term botanical vocabulary and information test developed by Grier for asse
 -
 
 ## Key Sources
-- Grier, N. M. (1918). The Range of Information in Biology. III. Botany. Journal of Educational Psychology, 9, 509-516. https://psycnet.apa.org
+- Grier, N. M. (1919). The range of information in biology: III. Botany. *Journal of Educational Psychology, 10*(10), 509–516. [doi:10.1037/h0073567](https://doi.org/10.1037/h0073567)

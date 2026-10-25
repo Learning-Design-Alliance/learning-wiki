@@ -46,7 +46,7 @@ Nonpreregistered exploratory sensitivity analysis on the victimized students onl
 
 ## Related Claims
 - [Victims with at least one defender at the start of the school year report higher feelings of belonging at year's end than nondefended victims, but lower belonging than nonvictims](defended-victims-higher-belonging-than-nondefended-lower-than-nonvictims.md) — related
-- [Being defended did not reduce severity of victimization, self-esteem deficits, or depressive symptoms among victims at the end of the school year](defending-did-not-reduce-victimization-self-esteem-depression.md) — related
+- [Defended and nondefended victims did not differ significantly in severity of victimization, self-esteem, or depressive symptoms at the end of the school year](defending-did-not-reduce-victimization-self-esteem-depression.md) — related
 - [Classroom descriptive and popularity norms for defending did not moderate the links between being defended and victims' adjustment or victimization](defending-norms-did-not-moderate-defending-effects.md) — related
 - [In exploratory victims-only analyses, defended victims had lower depressive symptoms at T2 than nondefended victims, an effect not found in the full sample](victims-only-analysis-defending-linked-to-lower-depression.md) — reports the opposite
 - [Victim and defender categories were highly unstable across the school year: only 16.8% of initially nondefended victims remained nondefended victims at T2](victim-defender-categories-unstable-across-year.md) — related

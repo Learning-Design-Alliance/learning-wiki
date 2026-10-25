@@ -40,7 +40,7 @@ The article's implication statement holds that "being defended only partly relie
 ## Claims
 
 - [Victims with at least one defender at the start of the school year report higher feelings of belonging at year's end than nondefended victims, but lower belonging than nonvictims](../claims/defended-victims-higher-belonging-than-nondefended-lower-than-nonvictims.md) [+W]
-- [Being defended did not reduce severity of victimization, self-esteem deficits, or depressive symptoms among victims at the end of the school year](../claims/defending-did-not-reduce-victimization-self-esteem-depression.md) [+W]
+- [Defended and nondefended victims did not differ significantly in severity of victimization, self-esteem, or depressive symptoms at the end of the school year](../claims/defending-did-not-reduce-victimization-self-esteem-depression.md) [+W]
 - [Being defended related more positively to victims' adjustment in intervention schools than in control schools](../claims/defending-more-positive-in-intervention-schools.md) [+W]
 - [The number of defenders was positively associated with victims' feelings of belonging but unrelated to self-esteem, depressive symptoms, and victimization](../claims/number-of-defenders-linked-to-belonging-only.md) [+W]
 

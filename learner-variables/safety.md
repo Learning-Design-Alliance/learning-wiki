@@ -126,7 +126,7 @@ Safety here means both being and feeling physically and psychologically secure i
 - [Cooperative learning significantly reduced bullying among marginalized (low-engagement) middle school students in a cluster randomized trial](../claims/cooperative-learning-reduces-bullying-marginalized-students.md) [+M] — instruction changes it
 - [Cooperative learning significantly reduced perceived stress among marginalized middle school students](../claims/cooperative-learning-reduces-perceived-stress-marginalized.md) [+M] — instruction changes it
 - [Cooperative learning significantly reduced victimization among marginalized middle school students](../claims/cooperative-learning-reduces-victimization-marginalized.md) [+M] — instruction changes it
-- [Being defended did not reduce severity of victimization, self-esteem deficits, or depressive symptoms among victims at the end of the school year](../claims/defending-did-not-reduce-victimization-self-esteem-depression.md) [-M] — learners who differ on it differ in outcomes
+- [Defended and nondefended victims did not differ significantly in severity of victimization, self-esteem, or depressive symptoms at the end of the school year](../claims/defending-did-not-reduce-victimization-self-esteem-depression.md) [-M] — learners who differ on it differ in outcomes
 - [Victims with at least one defender at the start of the school year report higher feelings of belonging at year's end than nondefended victims, but lower belonging than nonvictims](../claims/defended-victims-higher-belonging-than-nondefended-lower-than-nonvictims.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures

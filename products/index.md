@@ -2,7 +2,7 @@
 
 Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's.
 
-**1937 entries** · 0 stable · 1937 in review · 0 drafts
+**1936 entries** · 0 stable · 1936 in review · 0 drafts
 
 ---
 
@@ -725,7 +725,6 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Head-Toes-Knees-Shoulders (HTKS) task](head-toes-knees-shoulders-htks-task.md) - A brief, game-like direct assessment developed for young children that measures behavioral self-regulation through rule reversal, attention, working-memory, and inhibitory-control tasks.
 * [Headsprout Early Reading](headsprout-early-reading.md) - Headsprout Early Reading is an Internet-based supplemental early-literacy curriculum developed by Headsprout, using adaptive animated lessons, stories, flashcards, and readers to teach foundational reading skills.
 * [Healthy Harlem](healthy-harlem.md) - Healthy Harlem is a school-based health and wellness programme whose Get Fit and Prevention components promote students' physical fitness, nutrition knowledge, and physical-activity self-efficacy.
-* [Healthy Minds Program](healthy-minds-program.md) - A smartphone meditation and well-being training app developed and operated by the Center for Healthy Minds, organized around the Awareness, Connection, Insight, and Purpose model.
 * [Healthy Minds Program (HMP)](healthy-minds-program-hmp.md) - Healthy Minds Innovations' Healthy Minds Program is a free smartphone-based meditation app that delivers structured audio lessons and guided practices for cultivating well-being skills.
 * [HEARTS](hearts.md) - A whole-school, trauma-informed programme developed by the University of California, San Francisco and implemented in San Francisco Unified School District schools through tiered supports, staff training, consultation, and student interventions.
 * [HEC Health Equity Framework](hec-health-equity-framework.md) - A co-developed health-equity framework with implementation supports that organizes actions to improve care and disrupt intersecting systems of oppression in healthcare.

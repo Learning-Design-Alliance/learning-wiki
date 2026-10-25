@@ -53,6 +53,6 @@ Main preregistered multilevel regression model (N = 5,415 students, 238 classroo
 ## Related Claims
 - [Being defended related more positively to victims' adjustment in intervention schools than in control schools](defending-more-positive-in-intervention-schools.md) — related
 - [The number of defenders was positively associated with victims' feelings of belonging but unrelated to self-esteem, depressive symptoms, and victimization](number-of-defenders-linked-to-belonging-only.md) — related
-- [Being defended did not reduce severity of victimization, self-esteem deficits, or depressive symptoms among victims at the end of the school year](defending-did-not-reduce-victimization-self-esteem-depression.md) — related
+- [Defended and nondefended victims did not differ significantly in severity of victimization, self-esteem, or depressive symptoms at the end of the school year](defending-did-not-reduce-victimization-self-esteem-depression.md) — related
 - [Classroom descriptive and popularity norms for defending did not moderate the links between being defended and victims' adjustment or victimization](defending-norms-did-not-moderate-defending-effects.md) — related
 - [Victim and defender categories were highly unstable across the school year: only 16.8% of initially nondefended victims remained nondefended victims at T2](victim-defender-categories-unstable-across-year.md) — related

@@ -46,7 +46,7 @@ Preregistered multilevel cross-level interaction models testing Hypotheses 3a-3c
 
 
 ## Related Claims
-- [Being defended did not reduce severity of victimization, self-esteem deficits, or depressive symptoms among victims at the end of the school year](defending-did-not-reduce-victimization-self-esteem-depression.md) — related
+- [Defended and nondefended victims did not differ significantly in severity of victimization, self-esteem, or depressive symptoms at the end of the school year](defending-did-not-reduce-victimization-self-esteem-depression.md) — related
 - [Victims with at least one defender at the start of the school year report higher feelings of belonging at year's end than nondefended victims, but lower belonging than nonvictims](defended-victims-higher-belonging-than-nondefended-lower-than-nonvictims.md) — related
 - [The number of defenders was positively associated with victims' feelings of belonging but unrelated to self-esteem, depressive symptoms, and victimization](number-of-defenders-linked-to-belonging-only.md) — related
 - [In exploratory victims-only analyses, defended victims had lower depressive symptoms at T2 than nondefended victims, an effect not found in the full sample](victims-only-analysis-defending-linked-to-lower-depression.md) — related
