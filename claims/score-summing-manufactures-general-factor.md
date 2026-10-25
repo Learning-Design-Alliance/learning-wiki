@@ -47,3 +47,4 @@ Theoretical argument, offered as a research-direction rationale rather than a te
 ## Related Claims
 - [Multidimensional IRT scores that account for latent variable covariances over time produce better recovery of growth parameters in longitudinal growth models than sum scores and other IRT approaches](multidimensional-irt-covariance-scores-better-growth-recovery.md) — related
 - [A full answer-level audit confirmed 485 unique identifiers and validated that every stored total equals the sum of its criterion marks](score-validation-audit-485-records.md) — related
+- [A monograph on superior children attributes the common factor behind their ability to environmental as much as innate causes](superior-children-common-factor-environmental.md) — related

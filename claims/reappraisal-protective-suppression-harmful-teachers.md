@@ -32,7 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · theoretical `r3` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Teachers' use of cognitive reappraisal is adaptive and protects against emotional exhaustion and burnout. [→ Elena Savina 2025](#elena-savina-2025)
@@ -73,3 +73,4 @@ The review attributes to Aldrup et al. (2024) that "surface acting and suppressi
 - [Perceived student misbehavior is consistently identified as a key source of teacher stress and is positively associated with emotional exhaustion](student-misbehavior-teacher-stress-emotional-exhaustion.md) — related
 - [Study demands lead to exhaustion and self-undermining behaviors, instigating a loss spiral](self-undermining-loss-spiral-students.md) — related
 - [Direct repression subdues outward emotional expression but is incomplete as a means of control and may damage the child](direct-repression-incomplete-emotional-control.md) — related
+- [Reappraisal negatively predicts subsequent suppression, but suppression does not predict subsequent reappraisal](reappraisal-negatively-predicts-suppression.md) — related

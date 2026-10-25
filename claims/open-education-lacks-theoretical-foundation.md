@@ -48,3 +48,4 @@ Theoretical argument in the article's framing section: the authors state, citing
 - [Instructional design models are rarely tested against outcomes; their credibility comes from practitioners finding them useful.](instructional-design-models-are-validated-by-adoption-not-testing.md) — related
 - [Conceptualizations of critical thinking lack precision, reduce CT to cognitive skills, and are constrained by narrow criteriological and normative perspectives](ct-conceptualizations-narrow-criteriological.md) — related
 - [The article argues that existing definitions of formative assessment lack a clear rationale delimiting the construct within broader theories of pedagogy.](formative-assessment-lacks-pedagogical-rationale.md) — related
+- [An adequate psychology of motivation is claimed not yet to exist; current educational discussion of motivation is judged superficial or mystical](psychology-of-motivation-yet-to-be-written.md) — related

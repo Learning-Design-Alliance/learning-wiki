@@ -62,3 +62,4 @@ The review reports a simulation study by Lüdtke and Robitzsch in which data wer
 - [Deviations from the convergence assumption produce unreliable cross-lagged findings in school motivation research](convergence-violations-unreliable-findings.md) — related
 - [Next-generation cross-lagged models relax the convergence assumption in school motivation panel data](next-generation-cross-lagged-models-relax-convergence.md) — related
 - [When marks and tests are modeled as separate latent variables with cross-lagged effects between them, effects of self-concept on achievement completely disappear](separate-indicators-self-concept-effects-disappear.md) — related
+- [Reciprocal relations models fit better than unidirectional or baseline alternatives for both CLPM and RI-CLPM](reciprocal-model-better-fit-than-nested.md) — related

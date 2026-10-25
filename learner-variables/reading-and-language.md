@@ -13,7 +13,7 @@ generated:
 # Reading and Language
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 212 claims (134 show a difference, 33 mixed, 45 no difference) · 148 studies (41 associational, 37 causal, 30 quant-synthesis, 25 review, 8 theoretical, 4 design, 3 qualitative), `q1`–`q4` · 34 of 148 report an effect size · 203 claims rest on one study
+> **Evidence** · 214 claims (136 show a difference, 33 mixed, 45 no difference) · 149 studies (41 associational, 37 causal, 31 quant-synthesis, 25 review, 8 theoretical, 4 design, 3 qualitative), `q1`–`q4` · 35 of 149 report an effect size · 205 claims rest on one study
 
 ## Description
 What a learner can read without effort, and whether the language of instruction is the one they think in. LVN's largest factor family — decoding, vocabulary, fluency, composition, disciplinary literacy and language of instruction all sit here. The load-bearing fact is that decoding which is not automatic spends the same budget comprehension needs, so a reading problem presents as a thinking problem [+S].
@@ -263,6 +263,8 @@ What a learner can read without effort, and whether the language of instruction 
 - [Patterns of relations among word reading and fluency measures were similar across Greek and English, consistent with a language-independent fluency development trajectory](../claims/fluency-development-patterns-similar-across-languages.md) [-M] — an instructional effect differs with it
 - [Serial digit naming uniquely predicted word-list and text reading fluency beyond isolated word reading speed in Grades 3 and 5, in both languages](../claims/serial-digit-naming-unique-predictor-grades-3-5.md) [+M] — learners who differ on it differ in outcomes
 - [The two-predictor model (discrete word reading plus serial digit naming) accounted for similar amounts of variance in text and word-list reading fluency](../claims/two-predictor-model-similar-variance-text-list.md) [+M] — learners who differ on it differ in outcomes
+- [Text reading efficiency shows a stronger relation with reading comprehension than accuracy or rate](../claims/text-reading-efficiency-stronger-relation-than-accuracy-rate.md) [+M] — learners who differ on it differ in outcomes
+- [Text reading is strongly related to reading comprehension overall (r = .61)](../claims/text-reading-comprehension-overall-relation-r61.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does a learner's oral language and vocabulary predict how well they come to read and understand texts?* [A 1997 conference paper reports, citing Sticht, a positive correlation between preschool oral language skills and later reading achievement](../claims/oral-language-predicts-reading-achievement.md) [+W]

@@ -1,0 +1,49 @@
+---
+type: claim
+title: In Study 1, the Moderate-High All, Intrinsic and Confident, and Very High All profiles showed higher behavioral and cognitive engagement than the Average All profile.
+description: In Study 1, the Moderate-High All, Intrinsic and Confident, and Very High All profiles showed higher behavioral and cognitive engagement than the Average All profile.
+id: study1-high-motivation-profiles-higher-engagement
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-25
+evidence_strength: moderate
+newest_evidence: 2018
+sources:
+  - id: linnenbrink-garcia-2018
+    resource: "https://doi.org/10.1037/edu0000245"
+    title: "Linnenbrink-Garcia, L., Wormington, S. V., Snyder, K. E., Riggsbee, J., Perez, T., Ben-Eliyahu, A., & Hill, N. E. (2018). Multiple Pathways to Success: An Examination of Integrative Motivational Profiles Among Upper Elementary and College Students. Journal of Educational Psychology, 110(7), 1026-1048. https://doi.org/10.1037/edu0000245"
+    author: "Linnenbrink-Garcia, L., Wormington, S. V., Snyder, K. E., Riggsbee, J., Perez, T., Ben-Eliyahu, A., & Hill, N. E."
+    q: 3
+    i: "?"
+    kind: associational
+    rigour: 2
+---
+
+# In Study 1, the Moderate-High All, Intrinsic and Confident, and Very High All profiles showed higher behavioral and cognitive engagement than the Average All profile.
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
+
+## Subclaims
+`q3 i?` Upper elementary students in the three higher-motivation profiles reported higher behavioral and cognitive engagement than students in the Average All profile. [→ Linnenbrink-Garcia 2018](#linnenbrink-garcia-2018)
+
+## Evidence
+
+### Linnenbrink-Garcia 2018
+
+Linnenbrink-Garcia, L., Wormington, S. V., Snyder, K. E., Riggsbee, J., Perez, T., Ben-Eliyahu, A., & Hill, N. E. (2018). Multiple Pathways to Success: An Examination of Integrative Motivational Profiles Among Upper Elementary and College Students. Journal of Educational Psychology, 110(7), 1026-1048. https://doi.org/10.1037/edu0000245
+
+`q3 · i?` · `associational · r2`
+
+BCH equality tests of means across latent profiles in the fifth-grade sample (N = 158), controlling for gender and free/reduced-fee lunch. Results showed the three higher-motivation profiles "were associated with higher behavioral and cognitive engagement than the Average All profile".
+
+> "The Moderate-High All, Intrinsic and Confident, and Very High All profiles were associated with higher behavioral and cognitive engagement than the Average All profile."
+
+## Discussion
+
+
+## Related Claims
+- [Four integrative motivational profiles (Moderate-High All, Intrinsic and Confident, Average All, Very High All) were identified among upper elementary students.](study1-four-integrative-motivational-profiles-elementary.md) — related
+- [In Study 1, only the Very High All profile showed greater mathematics growth than the Average All profile, and profiles did not differ in reading growth.](study1-math-growth-very-high-all-reading-null.md) — related

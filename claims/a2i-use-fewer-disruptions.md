@@ -49,3 +49,4 @@ Observational analysis of the randomized trial's classroom video coding linked t
 - [For first graders with weak initial self-regulation, ISI is associated with greater self-regulation gains, increasing with teachers' A2i use](isi-greater-gains-weak-initial-self-regulation.md) — related
 - [Disruptive student behavior is associated with less academic engaged time and lower achievement](disruptive-behavior-lowers-engagement-and-achievement.md) — related
 - [Teachers' universal classroom management practices significantly reduce problem classroom behavior (mean classroom ES = 0.80, ICC=.05)](universal-classroom-management-reduces-problem-behavior.md) — related
+- [Teachers' time spent using A2i predicted students' word reading gains, with about 0.1 GE per 100 extra minutes of use](a2i-teacher-usage-predicts-gains.md) — related

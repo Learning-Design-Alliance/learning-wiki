@@ -12,7 +12,7 @@ generated:
 # Metacognition
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 449 claims (208 for, 218 mixed, 23 against) · 226 studies (109 causal, 49 associational, 25 review, 16 theoretical, 12 quant-synthesis, 10 qualitative, 5 design), `q1`–`q4` · 81 of 226 report an effect size · 442 claims rest on one study
+> **Evidence** · 450 claims (209 for, 218 mixed, 23 against) · 227 studies (109 causal, 49 associational, 25 review, 16 theoretical, 12 quant-synthesis, 10 qualitative, 6 design), `q1`–`q4` · 81 of 227 report an effect size · 443 claims rest on one study
 
 ## Description
 Metacognition is knowledge about, and the ability to regulate, one's own cognitive processes — realistically judging how difficult a task will be, monitoring whether a strategy is working, and adjusting accordingly. It is closely related to, but distinct from, [Executive Function Development](executive-function-development.md): executive function is the underlying capacity to control and coordinate cognition, while metacognition is specifically the learner's own knowledge *about* that cognition and the strategies available to direct it.
@@ -492,6 +492,7 @@ A rough age-8 inflection point has been observed in some longitudinal work: stra
 - [In-between explaining did not improve metacomprehension accuracy relative to other conditions in either experiment](../claims/no-metacomprehension-accuracy-effect-in-between-explaining.md) [-W]
 - [Students consistently overestimated how much they learned with answer-revealing images](../claims/overestimating-learning-with-answer-revealing-images.md) [+W]
 - [Higher confidence reduced knowledge exploration after correct answers, and high-confidence errors showed no effect on exploration](../claims/confirmed-confidence-reduces-exploration.md) [~W]
+- [Self-rating word-knowledge responses admitted marked over-estimation, prompting a response format requiring students to name the field of knowledge of each word](../claims/self-rating-overestimation-word-knowledge.md) [+W]
 
 ## The evidence by question
 

@@ -46,3 +46,4 @@ Annotated-list entry for M. E. Haggerty's Intelligence Examination Delta 1, a si
 
 ## Related Claims
 - [The Pressey Mental Survey Primer Scale for grades 1-3 requires neither reading nor writing and correlates .58 with teachers' estimates](pressey-primer-scale-correlation-58-teachers-estimates.md) — related
+- [The Haggerty survey report baseed its conclusions on testing of about 16,000 children with six to forty tests each](haggerty-survey-16000-children-tested.md) — related

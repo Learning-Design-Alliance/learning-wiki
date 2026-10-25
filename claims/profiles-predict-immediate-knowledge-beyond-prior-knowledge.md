@@ -46,3 +46,4 @@ SEM model comparison (prior-knowledge-only vs. prior knowledge + profiles) on im
 
 ## Related Claims
 - [Engagement profile membership predicts delayed chemistry knowledge (six to eight weeks later) above and beyond prior knowledge](profiles-predict-delayed-knowledge-beyond-prior-knowledge.md) — related
+- [Integrative profiles combining achievement goals with competence and value classified students more accurately and explained more variance than goal-only profiles, with mixed results for outcomes.](integrative-profiles-outperform-goal-only-profiles.md) — related

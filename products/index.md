@@ -2,7 +2,7 @@
 
 Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's.
 
-**1929 entries** · 0 stable · 1929 in review · 0 drafts
+**1932 entries** · 0 stable · 1932 in review · 0 drafts
 
 ---
 
@@ -132,6 +132,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [AutoGen, MetaGPT, CrewAI, LangGraph, and Phidata](autogen-metagpt-crewai-langgraph-and-phidata.md) - A set of software platforms developed by their respective makers for building, orchestrating, and deploying agentic AI systems, including multi-agent workflows and role-based delegation.
 * [Automated Extended Essay Grading Software (AEEGS)](automated-extended-essay-grading-software-aeegs.md) - A web-based application developed by Olaoye DD et al.
 * [AutoTutor Script Authoring Tool (ASAT) and generic AutoTutor Conversation Engine (ACE)](autotutor-script-authoring-tool-asat-and-generic-autotutor-conversation-engine-ace.md) - The AutoTutor project’s ASAT authoring tool and ACE conversation engine let organizations create and deploy scripted conversational tutoring applications across domains.
+* [Ayres scale](ayres-scale.md) - A standardized handwriting-legibility rating scale developed by Leonard P.
 
 #### B {: #letter-b }
 
@@ -1423,6 +1424,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Reading Apprenticeship](reading-apprenticeship.md) - Reading Apprenticeship® is a secondary-school academic literacy curriculum and professional-learning programme developed and provided by WestEd to support students' reading comprehension, engagement, and metacognitive awareness.
 * [Reading Apprenticeship Academic Literacy (RAAL)](reading-apprenticeship-academic-literacy-raal.md) - Reading Apprenticeship Academic Literacy (RAAL) is Reading Apprenticeship's targeted year-long programme for students reading below grade level, delivered by trained and coached teachers in a dedicated daily class.
 * [Reading Apprenticeship Across the Disciplines blended professional development program](reading-apprenticeship-across-the-disciplines-blended-professional-development-program.md) - A WestEd professional-development programme that combines online and in-person learning to help teachers across subject areas develop students’ literacy skills.
+* [Reading comprehension item pool varying by text and question type](reading-comprehension-item-pool-varying-by-text-and-question-type.md) - A study-developed reading-comprehension assessment item pool for fourth-grade learners, with items systematically varied by text and question type to support multidimensional measurement.
 * [Reading Corps](reading-corps.md) - Reading Corps is an AmeriCorps programme operated through school and community partners that places trained tutors with K–3 students for supplemental evidence-based literacy instruction and assessment.
 * [Reading Go!](reading-go.md) - Reading Go!
 * [Reading Horizons Discovery](reading-horizons-discovery.md) - Reading Horizons Discovery is Reading Horizons' digital K–3 foundational reading curriculum based on systematic, cumulative, explicit phonics instruction informed by Orton–Gillingham and Structured Literacy.
@@ -1793,6 +1795,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Thermos](thermos.md) - Thermos is a student-facing learning analytics dashboard developed to visualize motivation, engagement, group-work skills, and study progress while offering actionable self-regulation support and connection suggestions.
 * [Thinking Math!](thinking-math.md) - Innovamat's PreK–8 mathematics curriculum package combines socio-constructivist lessons, manipulative materials, student logbooks, digital planning and progress monitoring, adaptive practice, and professional development.
 * [thinkSRSD](thinksrsd.md) - thinkSRSD is an online resource providing free materials to help educators and school districts implement Self-Regulated Strategy Development, with optional paid online and in-person professional development.
+* [Thomson's Hindustani Test and Ballard's Cipher, Orientation, and Cryptogram Tests](thomsons-hindustani-test-and-ballards-cipher-orientation-and-cryptogram-tests.md) - A set of English group-administered intelligence-test instruments developed by Thomson and Ballard for school-age examinees.
 * [Thonny Log Visualizer](thonny-log-visualizer.md) - A teacher-facing web application developed by Heidi Taveter et al.
 * [Thorndike's objective scale for measuring handwriting quality](thorndikes-objective-scale-for-measuring-handwriting-quality.md) - A standardized handwriting-quality assessment scale developed by Edward L.
 * [Three open-ended survey questions assessing CT practices in physics contexts](three-open-ended-survey-questions-assessing-ct-practices-in-physics-contexts.md) - A three-question open-ended survey instrument developed by Sean Savage et al.

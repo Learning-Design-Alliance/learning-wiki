@@ -47,3 +47,4 @@ The editorial's own interpretive argument (type e): it claims the army's wartime
 ## Related Claims
 - [Cognitivism and human-machine interaction emerged from the pragmatic challenges of World War II](cognitivism-emerged-from-world-war-ii.md) — related
 - [School and college continuance rise steeply with Army Alpha level among World War recruits](school-continuance-rises-steeply-with-alpha-level.md) — related
+- [Group intelligence testing originated in the United States during wartime, while individual testing originated in France](group-testing-born-in-america-war-necessity.md) — related

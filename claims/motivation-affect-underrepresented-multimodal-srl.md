@@ -49,3 +49,4 @@ The discussion paper attributes this finding to the de Mooij et al. (2025) syste
 - [AI's direct impact on SRL concentrates on metacognitive and cognitive aspects while motivation remains underexplored](ai-srl-impact-metacognitive-cognitive-motivation-underexplored.md) — a narrower finding that bears on this claim
 - [The role of affect in STEM teacher learning remains seriously underexplored despite growing research on teacher emotion](affect-in-stem-teacher-learning-underexplored.md) — related
 - [Metacognition assessment is shifting from self-report questionnaires toward process-oriented multimodal methods, which face validity and data-alignment challenges](process-oriented-metacognition-assessment-shift.md) — related
+- [Emotional attitude is claimed to be of the greatest importance in learning](emotional-attitude-central-to-learning.md) — a narrower finding that bears on this claim

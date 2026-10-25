@@ -36,7 +36,7 @@ sources:
 # Validity, Reliability, and Bias in Classroom Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 266 claims (113 for, 135 mixed, 18 against) · 196 studies (74 associational, 46 design, 28 review, 22 theoretical, 17 causal, 6 quant-synthesis, 3 qualitative), `q1`–`q3` · 17 of 196 report an effect size · 259 claims rest on one study
+> **Evidence** · 270 claims (115 for, 137 mixed, 18 against) · 199 studies (75 associational, 48 design, 28 review, 22 theoretical, 17 causal, 6 quant-synthesis, 3 qualitative), `q1`–`q3` · 18 of 199 report an effect size · 263 claims rest on one study
 
 ## Conditional relationship
 
@@ -219,6 +219,8 @@ Claims linked to this page that do not bear on its relationship, a step or a sit
 - [The scale measures only the ability to recall definite facts promptly, a limited kind of historical ability](../claims/scale-measures-prompt-factual-recall-only.md) [+W] — attached 2026-10-24 from Sackett (1922), which proposed "Use scale points as a quantitative, not rigidly qualitative, measure of retention in a school subject"; tests this page's relationship.
 - [Validity is the only test criterion that applies to all five administrative uses of tests](../claims/validity-applies-to-all-five-test-uses.md) [+W] — attached 2026-10-24 from Franzen et al. (1921), which proposed "Decide primary psychological and statistical values of a test first; consider price, time and convenience only in ratio to benefits derived".
 - [Reliability of a test is a prerequisite for valid comparison, experimentation, classification and diagnosis](../claims/reliability-prerequisite-for-test-uses.md) [+W] — attached 2026-10-24 from Franzen et al. (1921), which proposed "Decide primary psychological and statistical values of a test first; consider price, time and convenience only in ratio to benefits derived".
+- [Reading comprehension items largely reflect a common factor rather than specific text- or question-type dimensions in fourth-grade Dutch children](../claims/reading-comprehension-common-factor-dutch-fourth-graders.md) [~W] — attached 2026-10-25 from M.M.L. Muijselaar et al. (2017), which proposed "Do not assume separate comprehension abilities by text or question type when assessing fourth-grade reading comprehension"; tests this page's relationship.
+- [Specific text- and question-type factor scores were not reliable and were hardly related to word reading speed, vocabulary, and working memory](../claims/specific-comprehension-factor-scores-unreliable-unrelated-cognitive-abilities.md) [~W] — attached 2026-10-25 from M.M.L. Muijselaar et al. (2017), which proposed "Do not assume separate comprehension abilities by text or question type when assessing fourth-grade reading comprehension"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 
@@ -340,6 +342,8 @@ Content validity, construct validity, criterion validity, consistency across occ
 - [None of the English tests correlates markedly with teachers' English grades, the highest raw correlation being 0.49](../claims/english-tests-low-correlation-with-teacher-grades.md) [-W]
 - [Total point score correlates with teachers' school marks at .80, .41, and .50 in the fourth, sixth, and eighth grades, and brightness coefficients rise with amount of schooling](../claims/point-scale-school-mark-and-schooling-correlations.md) [~W]
 - [Six per cent of the 200 Dartmouth freshmen failed six-digit auditory memory span, so the lower limit of the ability went unrecorded](../claims/dartmouth-six-percent-fail-six-digit-span.md) [~W]
+- [Self-rating word-knowledge responses admitted marked over-estimation, prompting a response format requiring students to name the field of knowledge of each word](../claims/self-rating-overestimation-word-knowledge.md) [+W]
+- [The integrated A2i Letters2Meaning assessment correlated highly with standardized reading measures (r ranging from .65 to .76), supporting its validity](../claims/a2i-l2m-assessment-validity-correlations.md) [+W]
 
 ## Related Principles
 - [Criterion- and Norm-Referenced Testing](criterion-and-norm-referenced-testing.md) — validity and reliability apply to standardized as well as teacher-made assessments, with additional considerations

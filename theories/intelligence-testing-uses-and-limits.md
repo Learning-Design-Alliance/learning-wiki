@@ -13,7 +13,7 @@ generated:
 # Intelligence Testing: Uses and Limits
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 118 claims (43 for, 65 mixed, 10 against) · 63 studies (38 associational, 13 review, 6 theoretical, 3 design, 2 quant-synthesis, 1 causal), `q1`–`q3` · 8 of 63 report an effect size · 117 claims rest on one study
+> **Evidence** · 122 claims (43 for, 69 mixed, 10 against) · 65 studies (39 associational, 14 review, 6 theoretical, 3 design, 2 quant-synthesis, 1 causal), `q1`–`q3` · 8 of 65 report an effect size · 121 claims rest on one study
 
 ## Description
 The first intelligence test, the Binet-Simon test, grew out of Alfred Binet's 1904 appointment as France's Minister of Public Education, where he sought a way to identify children with developmental disabilities so they could receive appropriate support — Binet believed "abnormality" could be remediated, and strongly supported special education on that basis. It was the first test to distinguish "normal" children from those with developmental disabilities, and its later revision became the Stanford-Binet, one of the most widely used intelligence tests (Zimmerman & Schunk, 2003). Binet's original purpose — identifying students who need support — sits in some tension with how intelligence-test scores are more often used today, as a general ranking or classification device (see Constraints below).
@@ -169,6 +169,10 @@ Despite this psychometric strength, intelligence tests and the definitions of in
 - [Group-scale scores correlate moderately with teachers' ability rankings of first- to third-grade pupils](../claims/group-scale-correlates-teacher-rankings-primary.md) [+W]
 - [Written and oral Terman vocabulary tests place most pupils in the same vocabulary-age group under Terman norms](../claims/terman-vocabulary-age-agreement-written-oral.md) [+W]
 - [Test-administration contamination invalidated three subtests: weights judged too unreliable, the directions test compromised by spreading information, and ingenuity puzzles compromised by prior priming](../claims/bingham-administration-contamination-invalidated-subtests.md) [~W]
+- [English workers used short time limits in group testing less than most American workers](../claims/english-less-partial-to-short-time-limits.md) [~W]
+- [Eliminating both the normal school and normal mentality (I.Q.) groups yields Q = +.97 between school retarded/advanced and mentally backward/bright](../claims/school-mentality-q-both-normal-groups-eliminated-097.md) [~W]
+- [Schools retard more children than mentality levels would predict: 36.8% are below normal in school versus 20.1% below normal in mentality](../claims/schools-retard-mentally-normal-children.md) [~W]
+- [Excluding a middle 'normal' school group raises the association between school retardation/advancement and median-mentality to Q = +.85](../claims/school-mentality-q-eliminating-normal-school-group-085.md) [~W]
 
 ## Related Principles
 - [Supporting Gifted and Talented Students](../principles/supporting-gifted-and-talented-students.md) — giftedness classification is conventionally IQ-threshold-based, inheriting all of this principle's measurement caveats

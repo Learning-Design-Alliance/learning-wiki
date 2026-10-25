@@ -47,3 +47,4 @@ Analysis of the same 120-pupil Otis-versus-Illinois comparison, dividing pupils 
 ## Related Claims
 - [Rankings of the same 120 junior high pupils by the Otis and Illinois group intelligence tests disagreed by a median of 18 places, with a rank correlation of 0.642](otis-illinois-rank-disagreement-120-pupils.md) — a broader claim this one bears on
 - [Thurstone-Brown agreement was closer than Otis-Illinois: median rank changes of 6.7 places (freshmen, r = 0.74) and 10.4 places (sophomores, r = 0.613), with 26 and 32.8 per cent wrongly classed](thurstone-brown-college-rank-agreement.md) — related
+- [Test ranks displaced one-fifth to one-third of freshmen by the equivalent of two or three letter grades relative to university course grades](tests-displace-students-two-three-letter-grades.md) — related

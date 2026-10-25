@@ -62,3 +62,4 @@ Random effects models across the same 16-study meta-analysis produced moderate a
 - [Rapid automatized naming is the only component skill weakly related to reading comprehension in struggling adult readers (r = .15)](ran-weakly-related-adult-comprehension.md) — related
 - [Most predictor effect sizes showed high heterogeneity; only morphological awareness, working memory, and language comprehension fell in the moderate I² range](high-heterogeneity-adult-predictor-effect-sizes.md) — related
 - [Syllable stress awareness and spelling skills correlate with each other and with in-game training performance](stress-awareness-spelling-validity-correlations.md) — related
+- [Text reading is strongly related to reading comprehension overall (r = .61)](text-reading-comprehension-overall-relation-r61.md) — related

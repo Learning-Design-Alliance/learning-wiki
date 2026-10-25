@@ -13,7 +13,7 @@ generated:
 # Constructed-Response Assessment Items
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 52 claims (17 for, 33 mixed, 2 against) · 40 studies (14 design, 12 associational, 7 causal, 3 review, 2 theoretical, 1 quant-synthesis, 1 qualitative), `q1`–`q3` · 7 of 40 report an effect size · 52 claims rest on one study
+> **Evidence** · 54 claims (17 for, 35 mixed, 2 against) · 42 studies (14 design, 13 associational, 7 causal, 3 review, 2 quant-synthesis, 2 theoretical, 1 qualitative), `q1`–`q4` · 8 of 42 report an effect size · 54 claims rest on one study
 
 ## Description
 Constructed-response items ask students to recall information and produce their own answer rather than recognize a provided one, which reduces guessing compared with [selected-response items](selected-response-assessment-items.md). Two major kinds are used: **completion/short-answer** items (answerable in a word, phrase, number, or symbol — the same underlying format whether phrased as a statement to complete or a question to answer) and **extended-response** items (answers ranging from a paragraph to several pages, often called essay questions when they run long).
@@ -96,6 +96,8 @@ The central disadvantage of extended-response items is unreliable scoring: diffe
 - [After studying the composition scale, normal-school students double-rated 32 seventh-grade compositions, each composition being rated by two students with the second rater rating a different set](../claims/witham-double-rating-32-compositions.md) [+W]
 - [Sentence units of a completion test differ greatly in completion time, ranging from 12.8% of total test time for unit 1 down to 3.4% for unit 11.](../claims/completion-test-sentence-unit-time-differences.md) [~W]
 - [Composition scores based on only two compositions are too unreliable for measurement, requiring roughly 17 compositions to match the Terman test's reliability](../claims/composition-reliability-requires-many-samples.md) [+W]
+- [Individual freshmen shifted greatly in relative rank between the two completion tests: 47 scored higher on M, 42 higher on K, and 11 the same](../claims/completion-test-individual-rank-shifts.md) [~W]
+- [Text reading relates more strongly to multiple-choice, cloze, and oral open-ended comprehension tasks than to written open-ended and retell tasks](../claims/comprehension-task-type-moderates-text-reading-relation.md) [~W]
 
 ## The evidence by question
 - *Which practice format: short answer, multiple choice, or matching the final test?* [Evidence on whether initial short-answer questions produce more learning than initial multiple-choice questions is mixed, with recent studies finding little or no difference](../claims/short-answer-versus-multiple-choice-retrieval-practice-evidence-is-mixed.md) [~M]

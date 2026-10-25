@@ -48,3 +48,4 @@ First substudy: 1,258 first and second graders from 10 U.S. states read a strati
 - [Student-based and teacher-based text-complexity logit scales correlate .79 and can be linked onto a single 0–100 scale](student-teacher-text-complexity-scales-correlated.md) — related
 - [The objective-based AI literacy assessment demonstrates psychometric stability with high reliability (KR-20 = 0.862) and approximate unidimensionality](ob-ai-literacy-assessment-psychometrically-stable.md) — related
 - [The Early Education Essentials is reliable across multiple ECE settings](early-education-essentials-reliable-multiple-settings.md) — related
+- [Maze and sentence verification tasks relate more strongly to text reading measures than to reading comprehension measures](maze-sentence-verification-relate-more-to-text-reading.md) — related

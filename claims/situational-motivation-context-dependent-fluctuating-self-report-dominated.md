@@ -58,3 +58,4 @@ The commentary summarizes Törmänen et al.'s (2025) systematic review of 80 emp
 - Situational motivation research splits into two waves: situation-specific offline measurement (n = 62) dominates, while momentary online measurement (n = 18) remains scarce — possibly the same claim (merge candidate)
 - [Optimal task design determined in laboratory studies may depend on learners' level of effort-by-allocation](task-design-depends-on-effort-allocation.md) — related
 - Most theorized individual difference constructs have been examined in sourcing research, but several motivation and personality constructs remain unstudied — related
+- [Expectancy-value theory research previously neglected value-facet differentiation, long time spans with multiple waves, and domain-specific patterns](evt-research-gaps-value-facets-waves-domains.md) — related

@@ -63,3 +63,4 @@ In the reanalysis of the simulated and PALMA data, the article reports that "The
 - [Sorjonen et al.'s (2023) simulation lacked a temporal structure and therefore cannot justify replacing autoregressive effects with covariances in the LCSM](simulation-2023-lacked-temporal-structure-invalid-for-lcsm-justification.md) — related
 - [The reciprocal relations model fits better than unidirectional alternatives, supporting reciprocal causation between emotions and achievement](reciprocal-model-superior-fit.md) — related
 - [When marks and tests are modeled as separate latent variables with cross-lagged effects between them, effects of self-concept on achievement completely disappear](separate-indicators-self-concept-effects-disappear.md) — related
+- [Reciprocal relations models fit better than unidirectional or baseline alternatives for both CLPM and RI-CLPM](reciprocal-model-better-fit-than-nested.md) — related

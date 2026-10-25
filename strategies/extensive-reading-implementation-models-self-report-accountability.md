@@ -47,6 +47,7 @@ The article recommends three integration routes: extracurricular reading clubs w
 ## Related Strategies
 
 - [Use art-based sharing, short reviews, interviews, and Book Wheels when students each read different books](individually-chosen-reading-group-activities.md)
+- [Pair an action-based silent reading method with instruction in literary appreciation and extensive reading](complement-action-reading-with-literary-appreciation.md)
 
 ## Examples
 -

@@ -57,3 +57,4 @@ In the hierarchical regression, open-question comprehension (β = .257 in step 1
 - [Question quality, not study time, predicted comprehension test performance among questioners](question-quality-not-time-predicts-achievement.md) — related
 - [Self-reported accumulation negatively predicts intertextual comprehension while cross-text elaboration positively predicts it, after controlling for prior knowledge](strategies-predict-intertextual-comprehension.md) — related
 - [Nearly half of sixth graders' written products from multiple texts show poor integration quality](poor-integration-quality-sixth-graders-written-products.md) — related
+- [Text reading relates more strongly to multiple-choice, cloze, and oral open-ended comprehension tasks than to written open-ended and retell tasks](comprehension-task-type-moderates-text-reading-relation.md) — related

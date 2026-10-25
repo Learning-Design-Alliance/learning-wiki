@@ -71,3 +71,4 @@ The review reports, citing Yan, Brown et al. (2020), that higher self-efficacy p
 - [Students who like writing report the highest writing self-efficacy across all studies examining writing attitude](writing-attitude-liking-predicts-self-efficacy.md) — related
 - [AI Prompting Literacy is indirectly and significantly associated with Deep Revision Engagement through Perceived Competence, Intrinsic Motivation, and Psychological Safety](apl-parallel-mediation-deep-revision.md) — related
 - [Practice and training, external feedback, use of instruments, and environmental support facilitate students' implementation of self-assessment](instructional-factors-self-assessment-implementation.md) — related
+- [Emotional attitude is claimed to be of the greatest importance in learning](emotional-attitude-central-to-learning.md) — related

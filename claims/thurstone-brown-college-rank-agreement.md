@@ -49,3 +49,4 @@ Two test-administration comparisons in Normal College groups: 54 freshmen and 64
 - [Correlations between two forms of the same test (up to 0.94, averaging 0.83 in Colvin's data) far exceed between-test correlations, casting doubt that different 'general intelligence tests' measure the same element](same-form-correlations-exceed-between-test.md) — related
 - [Rankings of the same 120 junior high pupils by the Otis and Illinois group intelligence tests disagreed by a median of 18 places, with a rank correlation of 0.642](otis-illinois-rank-disagreement-120-pupils.md) — related
 - [Dividing the 120 pupils into four class-sections by one test would place 51.6 per cent in the wrong section according to the other test](wrong-section-placement-51-6-percent.md) — related
+- [Individual freshmen shifted greatly in relative rank between the two completion tests: 47 scored higher on M, 42 higher on K, and 11 the same](completion-test-individual-rank-shifts.md) — related

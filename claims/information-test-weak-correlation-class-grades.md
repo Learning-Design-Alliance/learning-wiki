@@ -49,3 +49,4 @@ Correlational analysis of 25 freshmen and 32 seniors at Newcomb College taking a
 - [Standardized group test scores correlate weakly and variably with freshman class averages, ranging from 0 to .25](group-tests-low-variable-correlations-class-average.md) — related
 - [Prior studies show low and variable correlations between mental tests and college grades, averaging from .09 to .44](caldwell-1919-prior-test-grade-correlations-low.md) — a broader claim this one bears on
 - [Students in different course groups (B.A., Education, Art and Music) differed in aesthetic judgment types and in test-class-average correlations](course-groups-differ-aesthetic-judgments-test-correlations.md)
+- [Correlations among the brief tests were low and internally inconsistent: K and M correlated only .32 while M correlated .42 with the information test and K only .18](low-inconsistent-inter-test-correlations.md) — related

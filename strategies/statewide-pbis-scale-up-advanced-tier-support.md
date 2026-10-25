@@ -49,6 +49,7 @@ Based on finding that only a minority of trained schools implemented all three t
 - [Sustain statewide MTSS by staying the course: invest in district-level capacity and an integrated three-tier model](stay-the-course-district-level-mtss-capacity.md)
 - [Invest state discretionary dollars in early intervention systems such as MTSS to reduce later intensive supports](early-intervention-mtss-investment-return.md)
 - [Organize integrated support systems as universal, supplemental, and intensive tiers](tiered-integrated-support-systems.md)
+- [Use the EPIS model's four stages (Exploration, Preparation, Implementation, Sustainment) to bring an educational technology intervention to scale in elementary schools](epis-staged-scaling-a2i.md)
 
 ## Examples
 -

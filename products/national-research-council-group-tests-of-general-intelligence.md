@@ -25,7 +25,8 @@ A proposed pair of group-administered general-intelligence test series developed
 - [The NRC committee trialed some twenty tests on five thousand children and produced two series of group intelligence tests of high reliability](../claims/nrc-group-tests-tried-5000-children-two-series.md) [+W]
 
 ## Related Products and Programmes
--
+
+- [Thomson's Hindustani Test and Ballard's Cipher, Orientation, and Cryptogram Tests](thomsons-hindustani-test-and-ballards-cipher-orientation-and-cryptogram-tests.md)
 
 ## Key Sources
 - Bell, J. C. (1919). Editorial: The National Research Council. The Journal of Educational Psychology, Volume X, No. 9. https://en.wikipedia.org/wiki/Journal_of_Educational_Psychology

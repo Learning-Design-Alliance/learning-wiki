@@ -75,3 +75,4 @@ The review's summary of studies including mediation findings (Gniewosz et al., 2
 - [Subject similarity moderates dimensional comparison effects: far comparisons (e.g., math vs. verbal) yield strong contrast effects, near comparisons yield weaker contrast or assimilation effects](subject-similarity-moderates-dimensional-comparisons.md) — related
 - [Achievement shows positive within-domain and negative cross-domain effects on academic self-concept and value, replicating dimensional comparison theory](dimensional-comparison-achievement-self-concept-paths.md) — related
 - [Grades show mediated dimensional comparison effects on course choices via self-concept and value](mediated-dimensional-comparison-course-choices.md) — related
+- [In German, students' prior intrinsic value and attainment value positively predict their later academic self-concept](value-predicts-later-self-concept-german.md) — related
