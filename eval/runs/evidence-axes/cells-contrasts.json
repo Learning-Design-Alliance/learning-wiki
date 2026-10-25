@@ -42466,5 +42466,17 @@
  "other\t1918 mental-index rating\t1920 mental-index rating": {
   "label": "1918 mental-index rating vs 1920 mental-index rating",
   "treatment_is_a": true
+ },
+ "explicit-instruction\tdirect instruction through the silent reading method\tobstructive methods": {
+  "label": "direct instruction vs obstructive methods",
+  "treatment_is_a": true
+ },
+ "practice-amount\tmore minutes using A2i\tfewer minutes using A2i": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "test-format\tTrabue Completion Test K\tTrabue Completion Test M": {
+  "label": "Trabue Completion Test K vs Trabue Completion Test M",
+  "treatment_is_a": true
  }
 }

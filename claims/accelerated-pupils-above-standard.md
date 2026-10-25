@@ -67,3 +67,5 @@ Re-analysis selecting pupils by age-grade criteria (more than one year off norma
 - [Pupils designated retarded by their teachers score below grade-and-sex standards on the alertness tests](teacher-retarded-pupils-below-standard.md) — related
 - [Physiologically accelerated children are mentally accelerated: height correlates with mental age +0.53 for 49 girls with age held constant](physiological-acceleration-mental-acceleration.md) — related
 - [The reviewer argues mental tests are more needed for selecting superior children than for selecting inferior children](mental-tests-more-needed-for-superior-selection.md) — related
+- [Four or more grades of school retardation perfectly indicates a mentality not above normal, and more than one grade of advancement perfectly indicates a mentality not below normal (Q = +1.00)](grade-limits-perfect-mentality-indication-q100.md) — related
+- [Schools retard more children than mentality levels would predict: 36.8% are below normal in school versus 20.1% below normal in mentality](schools-retard-mentally-normal-children.md) — related

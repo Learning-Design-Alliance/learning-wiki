@@ -49,6 +49,7 @@ The article's lessons-learned set for embedding GenAI at institutional scale: br
 - [Staged institutional implementation: audit interactions, map to teaming levels, build AI literacy, co-design, and evaluate iteratively](staged-teacher-ai-teaming-implementation.md)
 - [Combine top-down theoretical and bottom-up empirical approaches when developing domain-specific heuristics](combine-top-down-theory-bottom-up-empirics-heuristic-development.md)
 - [Concentrate AI-edtech adoption priorities through collaborative networks that share tools, policies, and evaluation practices](collaborative-networks-responsible-ai-edtech-adoption.md)
+- [Use the EPIS model's four stages (Exploration, Preparation, Implementation, Sustainment) to bring an educational technology intervention to scale in elementary schools](epis-staged-scaling-a2i.md)
 
 ## Examples
 -

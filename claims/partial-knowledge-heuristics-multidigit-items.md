@@ -68,3 +68,4 @@ The article infers strategies from item demands: some items were solvable by rec
 - [Multidigit numeral interpretation improves with age, with second graders outperforming first graders and kindergarteners](multidigit-interpretation-improves-with-grade.md) — related
 - [Children perform better with written numerals than with base-10 blocks or dot arrays on multidigit tasks](numerals-condition-outperforms-blocks-and-dots.md) — related
 - [Symbols-only training improved kindergarteners' performance on difficult place value items, but base-10 blocks training did not](symbols-only-training-improves-difficult-items.md) — related
+- [Partial first reading of numerals supports a quicker grasp of a problem's meaning and conditions](partial-first-reading-aids-grasp.md) — related

@@ -89,3 +89,4 @@ Meta-analytic synthesis of tilt percentages across countries. "87% demonstrated 
 - [Gender differences in the math–science achievement profile of top-performing math students are small, with both genders tilted toward mathematics](math-science-profile-small-gender-difference.md) — related
 - [Male top-performing math students report higher math self-efficacy and stronger math-oriented motivation than female top performers](math-self-efficacy-gender-gap-top5.md) — related
 - [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](pisa-sex-differences-math-small-reading-three-times-larger.md) — related
+- [In Study 1, only the Very High All profile showed greater mathematics growth than the Average All profile, and profiles did not differ in reading growth.](study1-math-growth-very-high-all-reading-null.md) — related

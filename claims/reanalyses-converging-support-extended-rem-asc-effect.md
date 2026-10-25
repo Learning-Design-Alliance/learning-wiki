@@ -73,3 +73,4 @@ The authors reanalyzed two data sources: the simulated data constructed by Sorjo
 - [Sensitivity analyses showed most sequential CVT paths were spurious due to confounders; only interest→enjoyment was robust](sensitivity-analyses-confounded-cvt-paths.md) — related
 - [The reciprocal relations model fits better than unidirectional alternatives, supporting reciprocal causation between emotions and achievement](reciprocal-model-superior-fit.md) — related
 - [When marks and tests are modeled as separate latent variables with cross-lagged effects between them, effects of self-concept on achievement completely disappear](separate-indicators-self-concept-effects-disappear.md) — reports the opposite
+- [Reciprocal relations models fit better than unidirectional or baseline alternatives for both CLPM and RI-CLPM](reciprocal-model-better-fit-than-nested.md) — related

@@ -47,3 +47,4 @@ Entry 416 annotates Wallin's 1915 St. Louis Board of Education psycho-educationa
 ## Related Claims
 - [Applying the Stanford revision to selected children in four California cities, Williams classified 32% feeble-minded, 20% borderline, 22% dull normal, and 26% normal or superior.](williams-stanford-revision-four-california-cities-classification.md) — related
 - [The Binet-Simon scale is a valuable diagnostic tool for classifying defective children when used by a trained examiner but dangerous in untrained hands](binet-simon-scale-valuable-trained-dangerous-untrained.md) — related
+- [Schools retard more children than mentality levels would predict: 36.8% are below normal in school versus 20.1% below normal in mentality](schools-retard-mentally-normal-children.md) — related

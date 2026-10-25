@@ -46,3 +46,4 @@ Editorial critique of the Kansas Reading Tests, which the author says went to th
 
 ## Related Claims
 - [Testing effects are stronger when practice and final test formats are identical (g = 0.63) than dissimilar (g = 0.53), supporting transfer-appropriate processing](tap-identical-formats-stronger-effect.md) — related
+- [Adults read ordinary prose much faster than arithmetic problem material or isolated numerals](prose-read-faster-than-numerals-and-problems.md) — related

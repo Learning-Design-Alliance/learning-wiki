@@ -135,3 +135,4 @@ either. Any design that rests on this claim is resting on a mechanism, and shoul
 - [A vocabulary instructional focus differentially benefits good readers at the expense of poor decoders and poor comprehenders over a school year](vocabulary-focus-differential-effect-good-readers.md) — related
 - [Decoding ability did not predict cognitive load directly or through interaction with modality, contradicting the hypothesis that weak decoding raises reading effort](decoding-no-cognitive-load-effect.md) — a narrower finding that bears on this claim
 - [The reviewer concludes the advantage of a wide attention span should be made available to young readers through special training in the early grades](wide-attention-span-training-early-grades.md) — related
+- [Text reading is strongly related to reading comprehension overall (r = .61)](text-reading-comprehension-overall-relation-r61.md) — related

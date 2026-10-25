@@ -76,3 +76,4 @@ Same five-run reliability analysis computed at the rubric-cell (item×student) l
 - [LLM observer ratings converge excellently with human expert judgments in applying the CAARS observer instrument to generated narratives](llm-observer-ratings-converge-with-human-experts.md) — related
 - [A page-by-page, rubric-guided multimodal LLM workflow graded an authentic handwritten exam in about three hours at roughly $100 in token costs, versus about $3,500 in TA time](ai-grading-workflow-feasibility-cost.md) — related
 - [LLM-based scoring of Spanish argumentative writing achieves 60–80% per-item accuracy, slightly below human inter-rater agreement](llm-scoring-spanish-writing-60-80-accuracy-below-human-agreement.md) — related
+- [Independent grading by eight judges of 34 specimens showed average deviations below the 10-point scale spacing (average 6.1), supporting the scale's objectivity](ayres-scale-interjudge-consistency.md) — related

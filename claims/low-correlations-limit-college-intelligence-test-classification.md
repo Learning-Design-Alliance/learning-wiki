@@ -47,3 +47,4 @@ Meeting report of Bridges' critical discussion of intelligence testing of colleg
 ## Related Claims
 - [Alpha predicts academic standing better in Agriculture (r = .54) than in Arts or Engineering, and subtest patterns vary by college](alpha-correlation-varies-by-college.md) — a narrower finding that bears on this claim
 - [Prior studies show low and variable correlations between mental tests and college grades, averaging from .09 to .44](caldwell-1919-prior-test-grade-correlations-low.md) — a broader claim this one bears on
+- [Sleight's teacher-training and administration chapter is only partly factual](sleight-teacher-training-chapter-partially-factual.md) — related

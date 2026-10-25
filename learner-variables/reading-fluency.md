@@ -13,7 +13,7 @@ generated:
 # Reading Fluency
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 74 claims (44 show a difference, 18 mixed, 12 no difference) · 50 studies (14 causal, 14 associational, 10 review, 8 quant-synthesis, 2 design, 2 theoretical), `q1`–`q3` · 13 of 50 report an effect size · 73 claims rest on one study
+> **Evidence** · 76 claims (46 show a difference, 18 mixed, 12 no difference) · 51 studies (14 causal, 14 associational, 10 review, 9 quant-synthesis, 2 design, 2 theoretical), `q1`–`q4` · 14 of 51 report an effect size · 75 claims rest on one study
 
 ## Description
 Reading fluency is reading text accurately, at an appropriate rate and smoothly, whether silently or aloud. It rests on the word-level skills beneath it: [decoding](decoding.md), orthographic processing, phonological processing, [morphological awareness](morphological-awareness.md) and an understanding of [syntax](syntax.md). It is measured by counting words read correctly within a time limit and by having students read passages aloud, scored for accuracy and rate.
@@ -114,6 +114,8 @@ It is part of the wiki's broader [reading and language](reading-and-language.md)
 - [The correlation between discrete word reading and both word-list and text reading fluency gradually decreased from Grade 1 to Grade 5 in Greek and English](../claims/discrete-serial-word-reading-correlation-decreases.md) [~M] — learners who differ on it differ in outcomes
 - [The two-predictor model (discrete word reading plus serial digit naming) accounted for similar amounts of variance in text and word-list reading fluency](../claims/two-predictor-model-similar-variance-text-list.md) [+M] — learners who differ on it differ in outcomes
 - [Variability in word reading speed was greater in serial word reading than discrete word reading, with discrete speed reaching a plateau by Grade 3 while serial speed kept progressing through Grade 5](../claims/serial-speed-variability-greater-than-discrete.md) [+M] — learners who differ on it differ in outcomes
+- [Text reading efficiency shows a stronger relation with reading comprehension than accuracy or rate](../claims/text-reading-efficiency-stronger-relation-than-accuracy-rate.md) [+M] — learners who differ on it differ in outcomes
+- [Text reading is strongly related to reading comprehension overall (r = .61)](../claims/text-reading-comprehension-overall-relation-r61.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Test of Word Reading Efficiency (TOWRE)** (Torgesen et al., 1999): number of printed words read correctly in 45 seconds.

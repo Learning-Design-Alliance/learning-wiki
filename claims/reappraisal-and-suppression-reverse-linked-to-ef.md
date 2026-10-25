@@ -54,3 +54,4 @@ Structural equation model testing symmetric bidirectional paths in the same 368-
 - [Stronger executive function is concurrently associated with greater cognitive reappraisal and less expressive suppression in adolescents](ef-associated-with-reappraisal-and-lower-suppression-adolescents.md) — related
 - [Inhibitory control is the strongest concurrent correlate of cognitive reappraisal among EF components](inhibitory-control-strongest-reappraisal-correlate.md) — related
 - [Cognitive reappraisal protects teachers from emotional exhaustion and burnout, while expressive suppression and surface acting are negatively linked to teaching effectiveness](reappraisal-protective-suppression-harmful-teachers.md) — related
+- [Reappraisal negatively predicts subsequent suppression, but suppression does not predict subsequent reappraisal](reappraisal-negatively-predicts-suppression.md) — related

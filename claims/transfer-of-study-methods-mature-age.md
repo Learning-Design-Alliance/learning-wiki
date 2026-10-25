@@ -48,3 +48,4 @@ Discussion comment in the journal's communications section interpreting figures 
 
 - [Mead holds that the process of acquiring changes the thing acquired, making change of subject matter the rule](acquiring-changes-the-thing-acquired.md)
 - [English defense of early school entry shifts from intellectual advantage to moral advantage and attention development when faced with contrary evidence](early-entry-defense-shifts-moral-attention.md)
+- [Pupil attitude toward studies is claimed to matter greatly for school success, per retardation and elimination studies](pupil-attitude-important-for-school-success.md) — related

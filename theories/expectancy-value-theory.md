@@ -12,7 +12,7 @@ generated:
 # Expectancy-Value Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 42 claims (25 for, 17 mixed) · 26 studies (9 causal, 5 review, 5 associational, 3 qualitative, 2 theoretical, 1 quant-synthesis, 1 design), `q1`–`q3` · 6 of 26 report an effect size · 41 claims rest on one study
+> **Evidence** · 45 claims (27 for, 18 mixed) · 27 studies (9 causal, 6 associational, 5 review, 3 qualitative, 2 theoretical, 1 quant-synthesis, 1 design), `q1`–`q3` · 6 of 27 report an effect size · 44 claims rest on one study
 
 ## Description
 Expectancy-Value Theory (Wigfield & Eccles, 2000) proposes that achievement behavior is most immediately predicted by two beliefs: **expectancy for success** (whether the learner believes they will do well on an upcoming task) and **task value** (why the learner believes the task is worth doing). Expectancy for success is conceptually distinct from present-tense **ability beliefs** — expectancy is about future potential, ability belief is about current competence — though the two are closely related in practice.
@@ -100,6 +100,9 @@ The theory is explicitly integrative — it is often used as the organizing fram
 - [Valuing mathematics raises predicted STEM-study-intention probability by 18% per SD; valuing German shows a significant negative total effect](../claims/value-total-effects-stem-intentions.md) [+W]
 - [A utility-value intervention interacted with students' confidence to predict enrollment in the second biology course and biomedical major two years post-intervention](../claims/uvi-confidence-interaction-biomedical-persistence.md) [+W] — attached 2026-10-25 from Hecht et al. (2019), which proposed "Expectancy-value theory: positive expectancy x value interaction in academic choices, extended to a two-process account of UVI effects"; tests this page's relationship.
 - [The UVI was indirectly associated with persistence via engagement and course grade for all students and for FG-URM students, robust to unmeasured confounding](../claims/uvi-indirect-persistence-via-grades-fg-urm.md) [+W]
+- [In math and English, students' prior academic self-concept positively predicts their later intrinsic value and attainment value across secondary school](../claims/self-concept-predicts-later-value-math-english.md) [+W] — attached 2026-10-25 from Arens et al. (2019), which proposed "Temporal reciprocal relations among motivation constructs in expectancy-value theory"; tests this page's relationship.
+- [Cross-lagged relations among value constructs vary by academic domain, indicating domain specificity of motivational temporal relations](../claims/domain-specific-cross-lagged-value-relations.md) [+W] — attached 2026-10-25 from Arens et al. (2019), which proposed "Temporal reciprocal relations among motivation constructs in expectancy-value theory".
+- [Expectancy-value theory research previously neglected value-facet differentiation, long time spans with multiple waves, and domain-specific patterns](../claims/evt-research-gaps-value-facets-waves-domains.md) [~W]
 
 ## Related Theories
 

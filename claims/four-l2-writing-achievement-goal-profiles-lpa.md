@@ -50,3 +50,4 @@ Latent profile analysis (Mplus 8.3) of survey data from 416 tertiary EFL student
 - [The four achievement goal profiles differ significantly in all four dimensions of writing self-efficacy](goal-profiles-differ-writing-self-efficacy.md) — related
 - [Achievement goal profiles did not differ significantly in argumentative writing achievement, but did differ in narrative writing achievement](profile-differences-narrative-not-argumentative-achievement.md) — related
 - [The predictive effects of writing self-efficacy and motivation regulation strategies on writing achievement vary across achievement goal profiles and writing genre](profile-varying-predictive-effects-writing-achievement.md) — related
+- [Integrative profiles combining achievement goals with competence and value classified students more accurately and explained more variance than goal-only profiles, with mixed results for outcomes.](integrative-profiles-outperform-goal-only-profiles.md) — related

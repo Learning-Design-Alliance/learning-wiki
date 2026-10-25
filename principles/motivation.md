@@ -47,7 +47,7 @@ sources:
 # Motivation
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 108 claims (68 for, 39 mixed, 1 against) · 96 studies (28 review, 24 causal, 11 associational, 11 theoretical, 9 qualitative, 8 quant-synthesis, 5 design), `q1`–`q4` · 14 of 96 report an effect size · 94 claims rest on one study
+> **Evidence** · 109 claims (68 for, 40 mixed, 1 against) · 97 studies (28 review, 24 causal, 12 associational, 11 theoretical, 9 qualitative, 8 quant-synthesis, 5 design), `q1`–`q4` · 14 of 97 report an effect size · 95 claims rest on one study
 
 ## Conditional relationship
 
@@ -243,6 +243,7 @@ Starting, effort, voluntary persistence, enjoyment, reported motivation and lear
 - [A utility-value writing intervention increases course grades in introductory biology relative to a summarizing control](../claims/uv-intervention-increases-biology-grades.md) [+W]
 - [Biology course grade partially mediates the UV intervention's effects on course continuation and STEM major persistence](../claims/grades-mediate-uv-retention-effects.md) [~W]
 - [Difficult math exercises impair elementary children's motivational, cognitive and affective task experiences relative to easier exercises](../claims/difficult-math-tasks-impair-motivation-engagement.md) [+W]
+- [In Study 1, the Moderate-High All, Intrinsic and Confident, and Very High All profiles showed higher behavioral and cognitive engagement than the Average All profile.](../claims/study1-high-motivation-profiles-higher-engagement.md) [~W]
 
 ## Related Principles
 - [Learner Choice](autonomy.md) — one route to stronger ownership and autonomy

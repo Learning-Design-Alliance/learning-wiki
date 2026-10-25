@@ -55,3 +55,4 @@ The author offers an explicit estimate, stating "My guess is somewhere around 10
 - [Correct word inference in reading requires knowing roughly 95-98% of surrounding words, corresponding to about 3,000-5,000 word families](vocabulary-coverage-thresholds-for-inference.md) — related
 - [Adult ESL students who read a short story could use incidentally acquired words in sentences, while students who learned word meanings in isolation could not](incidental-reading-enables-productive-word-use.md) — related
 - [The probability of learning an unknown word from a single natural-context exposure is roughly .05 to .11, supporting an extrapolated 750 to 5,500 words learned per year from reading](one-exposure-context-learning-probability-extrapolation.md) — related
+- [Reviewer argues Watkins' first-grade vocabulary includes words too rare for the Thorndike word counts](watkins-vocabulary-beyond-thorndike-counts.md) — related

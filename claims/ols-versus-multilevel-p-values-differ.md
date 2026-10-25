@@ -46,3 +46,4 @@ Comparison in Table 7 of parameter estimates and p-values from the four-level mo
 
 ## Related Claims
 - [The ML-LVM yields lower parameter bias and higher coverage rates for regression weights predicting learning outcomes than the PS two-step method](ml-lvm-outcome-regression-bias-coverage.md) — related
+- [Differences between English and American standards lead to widely divergent conclusions from the same data](english-american-standards-divergent-conclusions.md) — a broader claim this one bears on

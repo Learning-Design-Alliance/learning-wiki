@@ -13,7 +13,7 @@ generated:
 # Prompts
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 34 claims (12 for, 20 mixed, 2 against) · 38 studies (17 causal, 8 review, 6 quant-synthesis, 3 theoretical, 2 associational, 2 qualitative), `q1`–`q4` · 8 of 38 report an effect size · 28 claims rest on one study
+> **Evidence** · 35 claims (12 for, 21 mixed, 2 against) · 39 studies (17 causal, 8 review, 6 quant-synthesis, 4 theoretical, 2 associational, 2 qualitative), `q1`–`q4` · 8 of 39 report an effect size · 29 claims rest on one study
 
 ## Description
 A prompt is a cue, question, or instruction embedded in a learning task that directs learner attention, elicits a response, or scaffolds a cognitive process at the moment it is needed. Prompts range from simple procedural reminders ("check your units") to elaborative questions ("why does this solution work?") to metacognitive self-questioning stems ("what strategy am I using, and is it working?").
@@ -81,6 +81,7 @@ Prompts work by triggering self-explanations and strategic processing that learn
 - [Prompted cue type and timing of cue prompt do not interact in their effect on self-assessment accuracy (Experiment 1)](../claims/cue-type-timing-no-interaction-accuracy.md) [~W]
 - [Fading-out prompts yield more cognitive strategy use and higher learning outcomes than permanent prompts](../claims/fading-out-prompts-beat-permanent-prompts.md) [~W]
 - [Prompt compliance varied widely across the four metacognitive prompts, with interactive prompts responded to more appropriately](../claims/prompt-compliance-varies-interactivity.md) [+W] — attached 2026-10-23 from Rebecca Pape (2026), which proposed "Brainix metacognitive prompt set (set goal, prioritize, reflect prompts and calendar goals planner)"; tests this page's relationship.
+- [Reviewer questions whether action responses guarantee meaning or become direct cues to responses](../claims/action-response-meaning-question.md) [~W]
 
 ## The evidence by question
 

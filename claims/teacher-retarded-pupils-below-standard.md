@@ -47,3 +47,4 @@ Analysis of teacher Exceptional Child Reports (table XI) compared designated ret
 ## Related Claims
 - [Pupils designated accelerated by their teachers, or selected by age-grade criteria, score above grade standards on the alertness tests](accelerated-pupils-above-standard.md) — related
 - [Within a grade, younger pupils score higher on the Alertness Quotient than older pupils](younger-pupils-higher-alertness-quotient.md) — related
+- [Four or more grades of school retardation perfectly indicates a mentality not above normal, and more than one grade of advancement perfectly indicates a mentality not below normal (Q = +1.00)](grade-limits-perfect-mentality-indication-q100.md) — related

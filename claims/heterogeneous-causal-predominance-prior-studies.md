@@ -54,3 +54,4 @@ Narrative review (Table 1) of prior longitudinal SEM studies (e.g., Byrne 1986; 
 - [The cross-lagged model holds equally for intervention and control groups and for boys and girls](model-invariance-gender-and-intervention-groups.md) — related
 - [RI-CLPM on simulated PALMA-like data shows positive reciprocal cross-lagged effects between within-individual math achievement and self-concept](riclpm-simulated-palma-positive-reciprocal-effects.md) — a narrower finding that bears on this claim
 - [Models using a single achievement indicator (marks or tests alone) yield a reciprocal self-concept–achievement pattern, unlike integrated models](single-indicator-reciprocal-pattern.md) — a narrower finding that bears on this claim
+- [Cross-lagged relations among self-concept and value constructs remain stable when controlling for domain-specific achievement measured by school grades](relations-stable-controlling-school-grades.md) — a narrower finding that bears on this claim

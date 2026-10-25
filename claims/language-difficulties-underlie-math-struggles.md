@@ -50,3 +50,4 @@ This is the article's own synthesis of cited literature, offered with no data or
 - [Lack of confidence and inappropriate language use were observed obstacles to students' mathematical communication during the experiment](confidence-obstacles-math-communication.md) — related
 - [Disadvantaged children may struggle with reading comprehension because they often lack general vocabulary and strategies for organizing information from text](disadvantaged-students-lack-vocabulary-and-comprehension-strategies.md) — related
 - [Disagreements about concreteness and abstraction in mathematics education may be verbal disputes rooted in word meaning](verbal-disputes-concreteness-abstraction.md) — related
+- [Partial first reading of numerals supports a quicker grasp of a problem's meaning and conditions](partial-first-reading-aids-grasp.md) — related
