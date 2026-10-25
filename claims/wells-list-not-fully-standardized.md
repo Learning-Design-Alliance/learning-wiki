@@ -50,3 +50,4 @@ Comparison of Wells' list against the authors' frequency table for 100 subjects:
 - [The two word lists were confirmed to be of equal difficulty before practice, with a correlation of +.93 between performance on the two lists](equal-difficulty-word-lists-confirmed-high-correlation.md) — related
 - [The six 100-word spelling lists are practically identical in difficulty, differing from list 1 by .9 to 3.4 points](six-spelling-lists-equal-difficulty.md) — related
 - [Question E was answered by all 27 high-school pupils, establishing a zero-difficulty reference 2.191 units below the median](question-e-zero-difficulty-anchor.md) — related
+- [Difficulty orderings from the 990-response standardization correlate .895 with the earlier 100-subject King and Gold standardization](opposites-990-vs-100-subject-standardization-r-895.md) — related

@@ -45,9 +45,11 @@ Longitudinal measurement burst study of N = 161 students followed from grade 9 t
 
 
 ## Related Claims
+
 - [Most variance in students' momentary classroom emotions lies at the within-person level, yet person-aggregated state measures are fairly reliable (ICC(2) from 0.735 to 0.901)](aggregated-state-emotions-reliable-icc2.md) — related
 - [Long-term stability of aggregated state emotions does not significantly differ from that of self-reported trait emotions over one- and two-year spans](aggregated-states-traits-similar-long-term-stability.md) — related
 - [Self-reported trait emotions were rated significantly higher than aggregated states for some emotions and timepoints (anger, pride, shame, boredom), but the memory-experience gap did not hold uniformly and anxiety showed the reverse descriptive pattern](memory-experience-gap-partial-discrete-emotions.md) — related
 - [Aggregated state emotions show no superior incremental predictive validity over self-reported traits for academic outcomes; traits corrected for states were only systematically correlated with criteria for enjoyment and somewhat for pride](no-superior-incremental-predictive-validity-aggregated-states.md) — related
 - [Students report statistically significant levels of boredom during mathematics tests, for both trait and state measures](test-boredom-occurs-significant-levels.md) — related
 - [Within-domain emotion structure only partially matches the valence–activation model: anger relates more strongly to boredom than to anxiety, and enjoyment–boredom and anger–boredom correlations are conspicuously strong](within-domain-structure-anger-boredom-enjoyment-patterns.md) — related
+- [Partial and multiple correlation show the last two tests contribute most and the tests are fairly well selected](cross-out-scale-partial-correlation-test-contributions.md)

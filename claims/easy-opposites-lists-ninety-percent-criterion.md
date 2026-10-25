@@ -51,3 +51,4 @@ Normative tabulation of oral responses from 100 University of Iowa subjects (fac
 - [Speed and accuracy correlate slightly on easy opposites lists but not on hard lists](speed-accuracy-easy-versus-hard-opposites.md) — related
 - [Easy opposites scores correlate with scholastic rank, faculty and graduates outscoring seniors and juniors](scholastic-rank-easy-opposites-scores.md) — related
 - [Question E was answered by all 27 high-school pupils, establishing a zero-difficulty reference 2.191 units below the median](question-e-zero-difficulty-anchor.md) — a narrower finding that bears on this claim
+- [Response frequencies to stimulus words vary widely, with easy words answered correctly by most subjects and hard words such as suave missed by 96%](opposites-word-difficulty-range-suave-96-percent.md) — related

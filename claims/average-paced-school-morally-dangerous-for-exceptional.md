@@ -47,3 +47,4 @@ Theoretical argument about general (not specialized) ability. Stern reasons that
 ## Related Claims
 - [Brighter pupils tend to work below capacity: the authors argue the greatest wastage exists among the brightest children, who may keep up to group averages while working under their ability](bright-children-below-capacity.md) — possibly the same claim (merge candidate)
 - [The editor predicts NRC group tests will make intelligence testing a routine school measure and open the way for adjusting school work to pupil needs](nrc-tests-predicted-routine-school-intelligence-testing.md) — related
+- [Teaching efficiency is impossible without continuous adjustment of the work to pupils' advancing attainments](continuous-adjustment-attainments-teaching-efficiency.md) — related

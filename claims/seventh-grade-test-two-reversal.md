@@ -46,3 +46,4 @@ Grade-by-school comparison of Test 1 (learning and reproduction) and Test 2 (que
 
 ## Related Claims
 - [Within a grade, younger pupils score higher on the Alertness Quotient than older pupils](younger-pupils-higher-alertness-quotient.md) — related
+- [Seventh graders' task performance plummeted in the standard-grade condition while remaining at parity in the other two conditions](seventh-graders-performance-plummeted-standard-grade.md) — related

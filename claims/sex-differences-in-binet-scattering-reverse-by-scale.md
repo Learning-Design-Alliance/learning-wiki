@@ -51,3 +51,4 @@ Descriptive sex comparison of average scattering and of proportions passing over
 ## Related Claims
 - [Scattering on the Binet scales does not support the claim that unequal development is the specific characteristic of the feeble-minded; normal pupils scatter most and imbeciles least](scattering-not-pathognomonic-of-feeble-mindedness.md) — related
 - [Scattering is considerably greater on the Stanford-Binet than on the earlier Binet-Simon scales, so conclusions about scattering differ according to the scale used](scattering-varies-by-binet-scale-version.md) — related
+- [The year scale and the point scale yield disparate results and differ in diagnostic accuracy for delinquent populations, per Haines's studies](haines-point-versus-year-scale-disparity.md) — related

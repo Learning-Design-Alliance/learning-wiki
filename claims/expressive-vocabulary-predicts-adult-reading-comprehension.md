@@ -53,3 +53,4 @@ Hierarchical regression predicting WJ-III Passage Comprehension (N = 232): nonwo
 - [Snippet selection contributes to integration quality over and above reading fluency and reading comprehension](snippet-selection-predicts-integration-above-reading-skills.md) — related
 - [Correlations among reading and reading-related measures were much lower than expected, indicating poor integration of skills in struggling adult readers](poor-integration-low-correlations-adult-readers.md) — related
 - [Adult struggling readers score far below adult norms on the Boston Naming Test, with expressive vocabulary resembling children's scores](adult-struggling-readers-low-expressive-vocabulary-bnt.md) — related
+- [The vocabulary weakness of children with SCD is best characterized as a developmental delay rather than a developmental deficit](scd-vocabulary-weakness-developmental-delay-not-deficit.md) — related

@@ -47,3 +47,4 @@ Correlational analysis from the same four-group practice experiment; the printed
 ## Related Claims
 - [Feeble-minded children show the same amount of improvement with practice as normal children of the same mental age and initial ability on a form sorting task](equal-practice-improvement-feeble-minded-normal-same-mental-age.md) — related
 - [Children below average in initial ability improve relatively more with practice than those above average, in both feeble-minded and normal groups](negative-correlation-initial-ability-percentage-improvement.md) — related
+- [Distributions of normal and feeble-minded groups overlap, with a borderzone between them, per Kohs's examination of 335 inmates](normal-feeble-minded-distributions-overlap-borderzone.md) — related

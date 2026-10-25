@@ -54,3 +54,4 @@ Meta-analytic integration of single-level design parameters estimated from six G
 - [Mathematics achievement correlates more strongly with learners' knowledge, skills and cognitive abilities than with their personality traits, goals or emotions](math-achievement-relates-more-to-knowledge-and-abilities-than-personality.md) — related
 - [Typical R2Child values with sociodemographic and baseline covariates were around 0.18–0.26 for preschool cognitive and SEL outcomes in US data](preschool-typical-r2child-covariate-sets.md) — related
 - The study estimated 237 single-level, 589 two-level, and 226 three-level design parameters from German preschool probability samples — related
+- [CPS predicts GPA beyond g, though the increment is small and not consistent across all grades](cps-predicts-gpa-beyond-g.md) — a narrower finding that bears on this claim

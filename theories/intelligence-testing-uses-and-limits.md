@@ -13,7 +13,7 @@ generated:
 # Intelligence Testing: Uses and Limits
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 142 claims (51 for, 78 mixed, 13 against) · 75 studies (45 associational, 16 review, 7 theoretical, 4 design, 2 quant-synthesis, 1 causal), `q1`–`q3` · 8 of 75 report an effect size · 141 claims rest on one study
+> **Evidence** · 158 claims (56 for, 88 mixed, 14 against) · 77 studies (46 associational, 17 review, 7 theoretical, 4 design, 2 quant-synthesis, 1 causal), `q1`–`q3` · 8 of 77 report an effect size · 157 claims rest on one study
 
 ## Description
 The first intelligence test, the Binet-Simon test, grew out of Alfred Binet's 1904 appointment as France's Minister of Public Education, where he sought a way to identify children with developmental disabilities so they could receive appropriate support — Binet believed "abnormality" could be remediated, and strongly supported special education on that basis. It was the first test to distinguish "normal" children from those with developmental disabilities, and its later revision became the Stanford-Binet, one of the most widely used intelligence tests (Zimmerman & Schunk, 2003). Binet's original purpose — identifying students who need support — sits in some tension with how intelligence-test scores are more often used today, as a general ranking or classification device (see Constraints below).
@@ -193,6 +193,22 @@ Despite this psychometric strength, intelligence tests and the definitions of in
 - [Repeated Stanford-Binet testing of summer-school pupils over four years shows mostly small IQ differences, with a median difference of 5.25 points](../claims/summer-school-iq-differences-median-525.md) [~W]
 - [Large majorities of delinquent and reformatory girls tested with the Binet scale were classified feeble-minded](../claims/reformatory-girls-binet-feeble-minded-majorities.md) [~W]
 - [The Healy Picture Completion test is easier than the Terman Binet: a child ranking at age level on the Healy will in all likelihood test below age on the Binet, especially children of lower mentality](../claims/healy-picture-completion-easier-than-binet.md) [~W]
+- [Mental tests can identify misplaced elementary-school children who succeed when differently placed, per Hoke's Richmond study](../claims/mental-tests-grade-placement-misplaced-children.md) [+W]
+- [Distributions of normal and feeble-minded groups overlap, with a borderzone between them, per Kohs's examination of 335 inmates](../claims/normal-feeble-minded-distributions-overlap-borderzone.md) [+W]
+- [Correlations between intelligence tests and arithmetic peak at the somewhat-verbal step of the verbalness scale in both grade groups](../claims/arithmetic-correlation-peaks-somewhat-verbal.md) [~W]
+- [CPS predicts GPA beyond g, though the increment is small and not consistent across all grades](../claims/cps-predicts-gpa-beyond-g.md) [~W]
+- [Non-verbal test material becomes less valid for predicting school success as grade level rises from IV to VIII](../claims/nonverbal-validity-declines-with-grade.md) [~W]
+- [Binet-Simon measurement alone is insufficient for diagnosis except in low-grade feeble-mindedness, per Healy and Bronner](../claims/binet-alone-insufficient-rough-diagnosis.md) [~W]
+- [The year scale and the point scale yield disparate results and differ in diagnostic accuracy for delinquent populations, per Haines's studies](../claims/haines-point-versus-year-scale-disparity.md) [~W]
+- [Kuhlmann argues the greater danger to the field is psychologists' destructive criticism of the Binet-Simon tests rather than errors from their use by untrained examiners](../claims/kuhlmann-danger-hostile-criticism-binet.md) [+W]
+- [Teachers can be taught to administer the Binet scale with surprising accuracy in a six-weeks summer course](../claims/teachers-trained-six-weeks-binet-accuracy.md) [~W]
+- [More verbal intelligence-test material yields higher correlations with mental age and with verbal school subjects in grades IV-VIII](../claims/verbalness-raises-correlation-with-achievement.md) [~W]
+- [Modified point and year scales with norms were developed for measuring the intelligence of the blind](../claims/binet-scales-adapted-for-blind-norms.md) [+W]
+- [Combining Stanford Mental Age with group tests raises the achievement correlation to 0.605, above either alone (0.54 and 0.52)](../claims/mental-age-plus-group-tests-raise-multiple-correlation.md) [~W]
+- [The wholly non-verbal Myers test shows low inter-correlations with verbal tests and low achievement correlations in grades IV-VIII](../claims/myers-nonverbal-test-low-achievement-correlations.md) [~W]
+- [School-attitude ratings add almost nothing to mental age and group tests in predicting achievement; their residual unique correlation is 0.12](../claims/school-attitude-adds-little-beyond-intelligence-tests.md) [+W]
+- [Individuals' composite scale ranks are fairly constant from age fourteen to fifteen](../claims/woolley-scale-ranks-stable-year-to-year.md) [~W]
+- [Low intelligence test scores alone cannot account for delinquency, since many non-delinquent adolescents show no more intelligence, per Haines](../claims/low-intelligence-insufficient-explanation-delinquency.md) [-W]
 
 ## Related Principles
 - [Supporting Gifted and Talented Students](../principles/supporting-gifted-and-talented-students.md) — giftedness classification is conventionally IQ-threshold-based, inheriting all of this principle's measurement caveats
@@ -206,6 +222,7 @@ Despite this psychometric strength, intelligence tests and the definitions of in
 - [Research agenda for intelligence measurement: intercorrelations, IQ permanence, distribution form, and effects of coaching](../strategies/intelligence-measurement-research-agenda-1921.md)
 - [Use mental tests as supplementary evidence of pupils' abilities in dealing with the apparently bright and the apparently stupid](../strategies/mental-tests-supplementary-evidence-strategy.md)
 - [Use a battery of standardized group class tests as a preliminary mental survey to rank children and select the lowest-ranked for individual examination](../strategies/class-test-preliminary-mental-survey-strategy.md)
+- [Woolley composite adolescent measurement scale](../products/woolley-composite-adolescent-measurement-scale.md)
 
 ## Key Sources
 - Zimmerman, B. J., & Schunk, D. H. (Eds.). (2003). *Educational psychology: A century of contributions*. Erlbaum.

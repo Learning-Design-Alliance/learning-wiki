@@ -11,8 +11,8 @@ evidence_strength: weak
 newest_evidence: 1917
 sources:
   - id: kohs-1917
-    resource: "https://www.google.com/search?q=%22Annotated+Bibliography+of+Recent+Literature+on+the+Binet-Simon+Scale%22+Kohs"
-    title: "Kohs, Samuel C. (1917). An Annotated Bibliography of Recent Literature on the Binet-Simon Scale (1913-1917), Part IV. The Journal of Educational Psychology. https://www.google.com/search?q=%22Annotated+Bibliography+of+Recent+Literature+on+the+Binet-Simon+Scale%22+Kohs"
+    resource: "https://doi.org/10.1037/h0073125"
+    title: "Kohs, Samuel C. (1917). An Annotated Bibliography of Recent Literature on the Binet-Simon Scale (1913-1917), Part IV. The Journal of Educational Psychology. https://www.google.com/search?q=%22Annotated+Bibliography+of+Recent+Literature+on+the+Binet-Simon+Scale%22+Kohs. [doi:10.1037/h0073125](https://doi.org/10.1037/h0073125)"
     author: Kohs, Samuel C.
     q: 2
     i: "?"
@@ -33,7 +33,7 @@ sources:
 
 ### Kohs 1917
 
-Kohs, Samuel C. (1917). An Annotated Bibliography of Recent Literature on the Binet-Simon Scale (1913-1917), Part IV. The Journal of Educational Psychology. https://www.google.com/search?q=%22Annotated+Bibliography+of+Recent+Literature+on+the+Binet-Simon+Scale%22+Kohs
+Kohs, Samuel C. (1917). An Annotated Bibliography of Recent Literature on the Binet-Simon Scale (1913-1917), Part IV. The Journal of Educational Psychology. https://www.google.com/search?q=%22Annotated+Bibliography+of+Recent+Literature+on+the+Binet-Simon+Scale%22+Kohs. [doi:10.1037/h0073125](https://doi.org/10.1037/h0073125)
 
 `q2 · i?` · `review · r?`
 

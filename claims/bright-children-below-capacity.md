@@ -9,6 +9,7 @@ generated:
   at: 2026-10-24
 evidence_strength: weak
 newest_evidence: 1920
+source_checked: 2026-10-25
 sources:
   - id: pintner-1920
     resource: "https://www.google.com/search?q=A+Combined+Mental-Educational+Survey+Pintner+Marshall"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q1`
-> **Currency** · newest study 1920 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1920 · checked against its sources 2026-10-25 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The authors assert that the greatest amount of waste exists among the brighter pupils and better schools, and that the bright child is the most retarded while the dull child is the most accelerated. [→ Pintner 1920](#pintner-1920)
@@ -50,3 +51,6 @@ This is the authors' interpretive claim in the introduction, offered without dat
 - [Substantial overlap exists between bright and dull groups: 48 per cent of poor pupils match the lowest good-group record](overlap-bright-dull-groups-48-percent.md) — related
 - [Schooling adjusted to the average under-serves exceptionally intelligent pupils and can be morally dangerous for them](average-paced-school-morally-dangerous-for-exceptional.md) — possibly the same claim (merge candidate)
 - [Pedagogy has developed for average and subnormal children but still lacks a pedagogy of supernormal children](lacking-pedagogy-of-supernormal-children.md) — related
+- [The editorial asserts that competition is particularly valuable in developing the capacities of pupils of more than average ability](competition-powerful-incentive-advanced-pupils.md) — related
+- [School surveys with the scale found clear-cut group differences between sections, schools, and institutional children](cross-out-scale-survey-group-differences.md) — related
+- [Median age per grade, not per cent of retardation, is the best single statement of the age-grade situation for most practical purposes](median-age-per-grade-better-than-percent-retardation.md) — related

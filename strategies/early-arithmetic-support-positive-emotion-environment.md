@@ -48,6 +48,7 @@ Based on the finding that early arithmetic fluency is linked with later mathemat
 - [Monitor children's math anxiety from the earliest stages of schooling to support proficient math performance](monitor-math-anxiety-early-schooling.md)
 - [Promote motivation alongside executive functioning and early numeracy development from the earliest stages of mathematics education](promote-motivation-from-earliest-stages-math.md)
 - [Provide early, proactive, domain-specific interventions to support equitable access to advanced mathematics](early-domain-specific-gender-equity-interventions.md)
+- [Monitor children's math learning experiences and self-efficacy beliefs alongside math skill development from the early school years](monitor-math-se-and-experiences-with-skills.md)
 
 ## Examples
 -

@@ -2,7 +2,7 @@
 
 Designs for a particular setting, course, population or product: what a design uses the general patterns for. A pattern is general across contexts; a design is not.
 
-**1039 entries** · 0 stable · 1039 in review · 0 drafts
+**1041 entries** · 0 stable · 1041 in review · 0 drafts
 
 ---
 
@@ -92,6 +92,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Authentic project unit (Field Day) with embedded assessment tasks mapped to critical objectives](field-day-embedded-assessment-unit.md) - The Type 3 assessment is organized as a project unit (a class Field Day, including a cookie-selling sub-project) whose everyday activities double as assessment occasions.
 * [Automated generation of seven vocabulary activity types with distractor collision prevention](generated-activity-types-collision-prevention.md) - During each training session the algorithm selects target words from the P, S, and L sets and generates activities optimizing predicted learning gains.
 * [Automated Matlab signal pipeline synchronizing EDA, EEG, and survey data](signal-pipeline-tool-multimodal-classroom.md) - The signal pipeline is an autonomous Matlab program into which raw signals from the Empatica E4, the CytonRK headsets, and Qualtrics survey data are fed, producing a synchronized and processed dataset without subjecti...
+* [Autonomy-supportive teaching unit on heat transfer with choices, rationales, and informational language](autonomy-support-heat-transfer-unit.md) - A standardized physics teaching unit on heat transfer delivered either with autonomy support or in the regular teaching style.
 
 #### B {: #letter-b }
 
@@ -551,6 +552,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Knowledge-building pedagogy model with initial acculturation to collaborative culture before introducing Knowledge Forum](acculturation-before-knowledge-forum.md) - A design pattern emergent from failed starts in the Hong Kong teacher network: students are first acculturated to a collaborative culture before the Knowledge Forum tool is introduced.
 * [Knowledge-building portfolios as assessment that characterizes and scaffolds collective knowledge advances](knowledge-building-portfolios-collective-assessment.md) - Knowledge-building portfolios are student-produced records in which learners select exemplary clusters of computer notes and write reflections explaining how the notes evidence knowledge building, guided by principles.
 * [Knowledge–Learning–Instruction (KLI) framework as an organizing theory for AI instructional design](kli-framework-guiding-multi-agent-instructional-design.md) - The KLI framework connects knowledge components, learning processes, and instructional principles to support robust learning.
+* [Kohnky 1913 two-class dental-treatment comparison design with a Whipple test battery and coin-toss assignment](kohnky-1913-dental-treatment-comparison-design.md) - This element is the study design of Kohnky's 1913 preliminary study: two fifth-grade classes in one down-town school, matched on grading, neighborhood, and foreign-birth composition, with the experimental class chosen...
 
 #### L {: #letter-l }
 

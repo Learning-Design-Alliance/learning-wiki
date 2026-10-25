@@ -48,3 +48,4 @@ Graph I plots, for Schools A and C, the ratio of median mental age at each grade
 - [Excluding a middle 'normal' school group raises the association between school retardation/advancement and median-mentality to Q = +.85](school-mentality-q-eliminating-normal-school-group-085.md) — related
 - [In Goddard's Vineland examination of 1547 pupils, only about half of mentally over-age and under-age pupils show corresponding advancement or retardation in school grading](goddard-binet-mental-age-vs-pedagogical-age.md) — related
 - [Schools retard more children than mentality levels would predict: 36.8% are below normal in school versus 20.1% below normal in mentality](schools-retard-mentally-normal-children.md) — related
+- [Median age per grade, not per cent of retardation, is the best single statement of the age-grade situation for most practical purposes](median-age-per-grade-better-than-percent-retardation.md) — related

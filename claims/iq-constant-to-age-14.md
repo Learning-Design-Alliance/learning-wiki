@@ -54,3 +54,4 @@ The article reports, citing Terman and Stern, that IQs from successive testing o
 - [The reviewer reports that Baldwin's repeated examinations show the IQ is fairly constant though subject to fluctuations, and that repeated examinations exhibit a definite practice effect](iq-fairly-constant-with-fluctuations-and-practice-effect.md) — a broader claim this one bears on
 - [Kuhlmann argued the difference between mental age and chronological age does not represent the true degree of deficiency](kuhlmann-rate-of-mental-progress-over-age-difference.md) — related
 - [Repeated Stanford-Binet testing of summer-school pupils over four years shows mostly small IQ differences, with a median difference of 5.25 points](summer-school-iq-differences-median-525.md) — related
+- [Individuals' composite scale ranks are fairly constant from age fourteen to fifteen](woolley-scale-ranks-stable-year-to-year.md) — related

@@ -47,3 +47,4 @@ Descriptive statement of the study scope from the research question section of t
 ## Related Claims
 - [Waivers promoted about one-third of third graders and 40% of sixth and eighth graders who failed the 1997 promotional criteria, keeping retention rates well below failure rates](waivers-promoted-failing-students-1997.md) — related
 - [Removing retained students' scores raises 1998 ITBS scores in grades three, six, and eight, while adding predicted retained-student scores lowers fourth and seventh grade scores](retention-adjustment-raises-368-lowers-47.md) — related
+- [Participatory directions keep zero scores and test failures rare in third-grade children](cross-out-scale-low-zero-scores-directions.md) — related

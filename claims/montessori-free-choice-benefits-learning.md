@@ -48,3 +48,4 @@ The review reports the Iyengar and Lepper (1999) experiments, in which children 
 - [The GAP correlates with an independent performance-based persistence measure and with physics post-test scores, supporting construct validity](gap-construct-validity-persistence-measures.md) — related
 - [In a self-regulated solving phase, S JOSs predicted solving success and AS and NS JOSs predicted effort regulation](exp3-s-jos-predictive-self-regulated-solving.md) — related
 - [S JOSs were discriminating but not predictive of later solving success in Experiments 1 and 2](s-jos-not-predictive-of-solving.md) — related
+- [In Experiment 2, assessment condition differentially affected pupils' anagram difficulty choice, with easier anagrams chosen under grading conditions](assessment-condition-affects-anagram-choice.md) — related

@@ -20,7 +20,7 @@ sources:
 > **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
-The article draws on community cultural wealth (Yosso, 2005), freedom dreaming (Kelley, 2002), desire-based research (Tuck, 2009), and the integrative model of minority child development. These frameworks challenge deficit views and position hopes and dreams as “a precursor for social change.” The study focuses on aspirational capital, which “involves youths’ and families’ ability to maintain hopes and dreams in the face of structural inequality.” Participants’ magic-wand re-imaginations elicit this aspirational capital to identify school-level intervention targets.
+The article draws on community cultural wealth ([Yosso, 2005](https://doi.org/10.1080/1361332052000341006)), freedom dreaming (Kelley, 2002), desire-based research (Tuck, 2009), and the integrative model of minority child development. These frameworks challenge deficit views and position hopes and dreams as “a precursor for social change.” The study focuses on aspirational capital, which “involves youths’ and families’ ability to maintain hopes and dreams in the face of structural inequality.” Participants’ magic-wand re-imaginations elicit this aspirational capital to identify school-level intervention targets.
 
 ## Design Implications
 

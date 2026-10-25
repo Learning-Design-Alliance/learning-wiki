@@ -49,3 +49,4 @@ Numerical regrouping example: the article groups the same data in class interval
 - [Generalizations about group differences drawn from modal values have no sound statistical value](modal-value-generalizations-no-statistical-value.md) — a broader claim this one bears on
 - [Modal values of grouped score distributions shift when the position of the class intervals is changed even if interval size stays the same](mode-shifts-with-class-interval-position.md) — related
 - [Measured by arithmetic mean or refined median, the Point Scale sex difference is slight relative to its probable error](mean-median-sex-difference-slight-versus-pe.md)
+- [Girls show more very poor and fewer very good individuals relative to their own median than boys](girls-wider-variation-below-median.md) — related

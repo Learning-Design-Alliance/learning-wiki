@@ -54,3 +54,4 @@ Bootstrapping mediation analysis (Hayes' PROCESS, 5,000 samples) in the randomiz
 - [The UVI was indirectly associated with persistence via engagement and course grade for all students and for FG-URM students, robust to unmeasured confounding](uvi-indirect-persistence-via-grades-fg-urm.md) — a broader claim this one bears on
 - [The UVI showed no significant main effect on two-year persistence and did not differentially increase persistence for FG or URM students](uvi-no-main-effect-two-year-persistence.md) — related
 - [The UVI influenced short-term performance through engagement and long-term persistence through personal focus, two distinct motivational processes](uvi-two-distinct-motivational-processes.md) — related
+- [Task performance mediated the reward contrast's effect on task interest but failed to mediate its effect on continuing motivation for the task](task-performance-mediation-task-interest-not-continuing.md) — related

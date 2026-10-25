@@ -13,7 +13,7 @@ generated:
 # Interest
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 181 claims (133 show a difference, 30 mixed, 18 no difference) · 131 studies (47 causal, 37 associational, 17 review, 12 design, 7 quant-synthesis, 6 theoretical, 5 qualitative), `q1`–`q4` · 32 of 131 report an effect size · 175 claims rest on one study
+> **Evidence** · 183 claims (135 show a difference, 30 mixed, 18 no difference) · 132 studies (47 causal, 37 associational, 18 review, 12 design, 7 quant-synthesis, 6 theoretical, 5 qualitative), `q1`–`q4` · 32 of 132 report an effect size · 177 claims rest on one study
 
 ## Description
 Interest is a learner's attraction to a topic. Research separates individual interest, a lasting disposition a learner brings, from situational interest, which material or activity sparks in the moment and which can grow into individual interest over time. Interest is measured by self-report, choice and persistence. It predicts attention, depth of processing and course choice, it moderates the effect of materials (seductive details catch interest without helping learning), and it is an outcome of designs that show relevance or give learners choice. It is a narrower case of [motivation](motivation.md).
@@ -216,6 +216,8 @@ Interest is a learner's attraction to a topic. Research separates individual int
 - [Self-reported learning gains and correlational analyses suggest interrelations among second-order and strategy knowledge, epistemological beliefs, explanation ability, topic knowledge, and interest](../claims/correlational-interrelatedness-history-reasoning-constructs.md) [~M] — learners who differ on it differ in outcomes
 - [After high-confidence errors, resolving the discrepancy with additional information produced enjoyment, while failure to resolve it produced frustration](../claims/discrepancy-resolution-drives-enjoyment-or-frustration.md) [+M] — instruction changes it
 - [Making high-confidence errors about educational misconceptions intensifies preservice teachers' surprise, curiosity, confusion, and achievement-related anger](../claims/high-confidence-errors-intensify-epistemic-emotions-and-anger.md) [+M] — instruction changes it
+- [Primary children need more skilled books incorporating salient interest-producing elements](../claims/more-skilled-books-with-interest-elements-for-primary-children.md) [+W] — instruction changes it
+- [Surprise and plot are the leading positive interest factors in children's story preferences](../claims/surprise-and-plot-lead-childrens-interest-factors.md) [+M] — instruction changes it
 
 ## The evidence by question
 - *Does seeing a task as interesting, important or useful raise the effort learners invest in it?* [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](../claims/task-value-increases-motivation-and-engagement.md) [+M]

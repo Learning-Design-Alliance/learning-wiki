@@ -86,3 +86,4 @@ Seriousness moderator on working-memory effect sizes (Table 6). Persistence alon
 - [No profile distinguishes more severe, persistent, or specific MLD from less severe MLD on cognitive skills](no-distinct-mld-subtype-profile.md) — reports the opposite
 - [Definitions of developmental dyscalculia vary widely across studies, with diagnostic cutoffs ranging from below the 3rd to below the 25th percentile](dd-diagnostic-cutoff-variation.md) — a broader claim this one bears on
 - [Developmental dyscalculia prevalence was 5.6% in this UK sample, with no significant gender difference](dd-prevalence-5-6-percent-no-gender-difference.md) — related
+- [The pattern of SCD weaknesses is consistent across identification criteria, but criteria identify widely differing proportions of children](scd-pattern-robust-across-identification-criteria.md) — related

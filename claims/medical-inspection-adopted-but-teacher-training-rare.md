@@ -49,3 +49,4 @@ Questionnaire returns on medical inspection. Forty-six schools have no regular i
 - [Most normal schools had gymnasiums with physical directors, but student participation in athletics and recreation lagged](gymnasiums-common-athletics-participation-low.md) — related
 - [Separate personal and school hygiene courses were recently introduced and remained few, short, and slowly adopted](personal-school-hygiene-courses-recent-and-brief.md)
 - [One-half of surveyed normal schools offered no hygiene instruction beyond physiology and incidental treatment in other courses](half-of-normal-schools-no-separate-hygiene-instruction.md)
+- [The editorial proposes an institutional applied-psychology profession: thorough laboratory training without a full medical course, routine technical duties under a superintendent, and physician-level rank and salary for stability](institutional-applied-psychologist-role-proposal.md) — related

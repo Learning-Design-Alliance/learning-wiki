@@ -43,7 +43,7 @@ sources:
 # Autonomy
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 54 claims (23 for, 29 mixed, 2 against) · 51 studies (12 review, 10 associational, 8 theoretical, 7 causal, 6 qualitative, 4 quant-synthesis, 4 design), `q1`–`q4` · 6 of 51 report an effect size · 46 claims rest on one study
+> **Evidence** · 55 claims (24 for, 29 mixed, 2 against) · 52 studies (12 review, 10 associational, 8 causal, 8 theoretical, 6 qualitative, 4 quant-synthesis, 4 design), `q1`–`q4` · 6 of 52 report an effect size · 47 claims rest on one study
 
 ## Conditional relationship
 
@@ -156,6 +156,7 @@ Read against the model on 2026-10-19. Of the eighteen claims that had gathered h
 - [Children's executive functions at 54 months partly account for the association between mothers' early autonomy support and achievement in elementary and high school](../claims/executive-functions-mediate-autonomy-support-achievement.md) [+M] — attached 2026-10-23 from Bindman et al. (2015), which proposed "Caregivers and educators should support children's autonomy rather than control, because early autonomy support uniquely predicts later executive functions and achievement".
 - [Autonomy-supportive instructions dampen the impairing effects of difficult math exercises on need-based experiences](../claims/autonomy-supportive-instructions-dampen-difficulty-effects.md) [+W] — attached 2026-10-24 from Baten et al. (2020), which proposed "Introduce difficult math tasks with autonomy-supportive instructions to buffer their impairing effects".
 - [Autonomy-supportive versus controlling instructions have limited main effects, enhancing autonomy satisfaction only](../claims/instructional-style-main-effect-limited-autonomy-satisfaction.md) [~W] — attached 2026-10-24 from Baten et al. (2020), which proposed "Introduce difficult math tasks with autonomy-supportive instructions to buffer their impairing effects"; tests this page's relationship.
+- [The autonomy-supportive physics unit fostered need satisfaction, positive achievement emotions, and learning behaviors, and reduced negative emotions](../claims/autonomy-support-fosters-need-satisfaction-emotions-behaviors.md) [+W] — attached 2026-10-25 from Flunger et al. (2019), which proposed "Provide autonomy support in physics instruction because it benefits students' motivation and learning behaviors"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

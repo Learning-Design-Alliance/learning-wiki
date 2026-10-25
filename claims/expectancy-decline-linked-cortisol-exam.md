@@ -49,3 +49,4 @@ The review reports this single physiological study, which combined self-reports 
 - [Self-reported extraneous cognitive load correlates negatively with germane load and with expected probability of success in an algebra task](extraneous-cognitive-load-correlates-negatively-with-germane-load-and-probability-of-success.md) — related
 - [Increased physiological arousal and higher physiological synchrony relate to more monitoring with negative valence](arousal-synchrony-negative-valence-monitoring.md) — related
 - [Session-level physiological synchrony occurred in the two groups that struggled with the collaborative exam, while the two groups that found the task easy showed no synchrony.](physiological-synchrony-occurs-with-difficulties.md) — related
+- [Declining math self-efficacy is characterized by decreasing mastery experiences and increasing negative emotional and physiological arousal](decreasing-se-negative-mastery-and-arousal.md) — related

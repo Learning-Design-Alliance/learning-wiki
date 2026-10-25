@@ -11,8 +11,8 @@ evidence_strength: weak
 newest_evidence: 1917
 sources:
   - id: kohs-1917
-    resource: "https://www.google.com/search?q=%22Annotated+Bibliography+of+Recent+Literature+on+the+Binet-Simon+Scale%22+Kohs"
-    title: "Kohs, Samuel C. (1917). An Annotated Bibliography of Recent Literature on the Binet-Simon Scale (1913-1917), Part IV. The Journal of Educational Psychology. https://www.google.com/search?q=%22Annotated+Bibliography+of+Recent+Literature+on+the+Binet-Simon+Scale%22+Kohs"
+    resource: "https://doi.org/10.1037/h0073125"
+    title: "Kohs, Samuel C. (1917). An Annotated Bibliography of Recent Literature on the Binet-Simon Scale (1913-1917), Part IV. The Journal of Educational Psychology. https://www.google.com/search?q=%22Annotated+Bibliography+of+Recent+Literature+on+the+Binet-Simon+Scale%22+Kohs. [doi:10.1037/h0073125](https://doi.org/10.1037/h0073125)"
     author: Kohs, Samuel C.
     q: 2
     i: "?"
@@ -33,7 +33,7 @@ sources:
 
 ### Kohs 1917
 
-Kohs, Samuel C. (1917). An Annotated Bibliography of Recent Literature on the Binet-Simon Scale (1913-1917), Part IV. The Journal of Educational Psychology. https://www.google.com/search?q=%22Annotated+Bibliography+of+Recent+Literature+on+the+Binet-Simon+Scale%22+Kohs
+Kohs, Samuel C. (1917). An Annotated Bibliography of Recent Literature on the Binet-Simon Scale (1913-1917), Part IV. The Journal of Educational Psychology. https://www.google.com/search?q=%22Annotated+Bibliography+of+Recent+Literature+on+the+Binet-Simon+Scale%22+Kohs. [doi:10.1037/h0073125](https://doi.org/10.1037/h0073125)
 
 `q2 · i?` · `associational · r1`
 
@@ -50,3 +50,5 @@ Entry 416 annotates Wallin's 1915 St. Louis Board of Education psycho-educationa
 - [Schools retard more children than mentality levels would predict: 36.8% are below normal in school versus 20.1% below normal in mentality](schools-retard-mentally-normal-children.md) — related
 - [Large majorities of delinquent and reformatory girls tested with the Binet scale were classified feeble-minded](reformatory-girls-binet-feeble-minded-majorities.md) — related
 - [State charity dependent cases contained a much larger percentage of feeble-minded children than the county home cases, 19.5% versus 5.7% by the conservative estimate](state-cases-more-feeble-minded-than-home-cases.md) — related
+- [The year scale and the point scale yield disparate results and differ in diagnostic accuracy for delinquent populations, per Haines's studies](haines-point-versus-year-scale-disparity.md) — related
+- [Distributions of normal and feeble-minded groups overlap, with a borderzone between them, per Kohs's examination of 335 inmates](normal-feeble-minded-distributions-overlap-borderzone.md) — related

@@ -61,3 +61,5 @@ This is the editor's forward-looking prediction (type e), offered with no eviden
 - [The editorial names the learning process as the continuing central theme of educational psychology](editorial-learning-process-central-theme.md) — related
 - [The editorial identifies pedagogical tests and measurements as a field of great and growing importance for education in the United States](editorial-pedagogical-tests-measurements-importance.md) — a broader claim this one bears on
 - [The journal's editorial gives special and continuing attention to general mental tests as a field for educational psychology](editorial-special-attention-general-mental-tests.md) — related
+- [Teaching efficiency is impossible without continuous adjustment of the work to pupils' advancing attainments](continuous-adjustment-attainments-teaching-efficiency.md) — a narrower finding that bears on this claim
+- [School surveys with the scale found clear-cut group differences between sections, schools, and institutional children](cross-out-scale-survey-group-differences.md) — related

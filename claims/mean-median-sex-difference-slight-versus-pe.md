@@ -52,3 +52,4 @@ Comparative computation on the same data: arithmetic means of 63.9 (boys) and 60
 - [Boys outperform girls on algebra word problems, function mapping, equation memory, and arithmetic fluency, with no sex differences on other mathematics measures](sex-differences-specific-math-measures-geary-2023.md) — related
 - [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](pisa-sex-differences-math-small-reading-three-times-larger.md) — related
 - [Changing class-interval size to eight places the boys' and girls' modes in the same interval, removing the reported modal sex difference entirely](mode-difference-vanishes-with-wider-intervals.md)
+- [Girls show more very poor and fewer very good individuals relative to their own median than boys](girls-wider-variation-below-median.md) — related

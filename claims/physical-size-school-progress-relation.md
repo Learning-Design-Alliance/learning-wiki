@@ -51,3 +51,4 @@ Analysis of school grades and physical measurements from two schools, treating p
 - [Physiological age, as evidenced by the advent of pubescence or first menstruation, shows wide variations and low correlations with other traits](physiological-age-low-correlations-other-traits.md) — reports the opposite
 - [Anatomical development measured by wrist-bone radiographs correlates very highly with height and weight in the Baldwin study](wrist-radiograph-development-high-correlations-height-weight.md) — related
 - [Most high-school students made rapid or normal elementary progress, yet most fail in some high-school work, and schools appear better fitted for girls than for boys](progress-and-sex-patterns-high-school.md) — related
+- [Mental and physical test ranks correlate positively but weakly, allowing rough sorting into five ability groups](weak-mental-physical-correlation-five-groups.md) — related

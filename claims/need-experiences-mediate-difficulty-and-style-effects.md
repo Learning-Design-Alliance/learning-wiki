@@ -48,3 +48,4 @@ Latent SEM (lavaan, bootstrapping with 1000 iterations) testing need experiences
 - [Autonomy-supportive instructions dampen the impairing effects of difficult math exercises on need-based experiences](autonomy-supportive-instructions-dampen-difficulty-effects.md) — related
 - [Difficult math exercises impair elementary children's motivational, cognitive and affective task experiences relative to easier exercises](difficult-math-tasks-impair-motivation-engagement.md) — related
 - [Autonomy-supportive versus controlling instructions have limited main effects, enhancing autonomy satisfaction only](instructional-style-main-effect-limited-autonomy-satisfaction.md) — a narrower finding that bears on this claim
+- [Task performance mediated the reward contrast's effect on task interest but failed to mediate its effect on continuing motivation for the task](task-performance-mediation-task-interest-not-continuing.md) — a narrower finding that bears on this claim

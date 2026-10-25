@@ -55,3 +55,4 @@ Random-effects meta-analytic correlations (corrected for reliability, robust var
 - [Teacher autonomy support predicts students' need satisfaction and self-determined motivation more strongly than parental autonomy support](teacher-autonomy-support-stronger-than-parental.md) — related
 - [The intervention does not change general motivation for mathematics measured by the SRQ-A](no-change-general-mathematics-motivation-srq-a.md) — related
 - [Introjected regulation is positively related to Korean students' achievement and self-regulated learning despite its association with academic stress](introjected-regulation-positive-korean-achievement.md) — related
+- [The autonomy-supportive physics unit fostered need satisfaction, positive achievement emotions, and learning behaviors, and reduced negative emotions](autonomy-support-fosters-need-satisfaction-emotions-behaviors.md) — a narrower finding that bears on this claim

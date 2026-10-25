@@ -2,7 +2,7 @@
 
 Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's.
 
-**1939 entries** · 0 stable · 1939 in review · 0 drafts
+**1943 entries** · 0 stable · 1943 in review · 0 drafts
 
 ---
 
@@ -364,6 +364,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Critsly](critsly.md) - Critsly is a shared visual workspace for higher-education design critique, developed and reported by Nizam Kadir, combining artefact boards, critique history, guided reflection, persona lenses, and AI-generated feedback.
 * [Cromley and Azevedo multiple-choice strategy-use measure](cromley-and-azevedo-multiple-choice-strategy-use-measure.md) - A domain-general and domain-specific assessment developed by Cromley and Azevedo that measures readers’ accurate enactment of reading-comprehension strategies through objectively scored multiple-choice items.
 * [Cross-dataset Bloom classification benchmark corpus of five datasets totaling 4,179 questions](cross-dataset-bloom-classification-benchmark-corpus-of-five-datasets-totaling-4179-questio.md) - A benchmark corpus assembled by Abdolali Faraji et al.
+* [Cross-out scale](cross-out-scale.md) - A standardized school assessment developed by Pressey and normed for interpreting pupils' scores across grades and ages.
 * [CS50-Duck](cs50-duck.md) - CS50-Duck is a subject-matter conversational agent developed for and deployed in Harvard's CS50 programming course through the CS50 platform and Visual Studio Code.
 * [CS50-Forum external validation set of 150 public course-oriented programming questions](cs50-forum-external-validation-set-of-150-public-course-oriented-programming-questions.md) - A dataset created by S.
 * [CSEBench](csebench.md) - CSEBench is a publicly released benchmark dataset of 624 expert-annotated multiple-choice English-proficiency items with human response data, developed by Shangchao Min et al.
@@ -698,6 +699,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [GPT Tutor](gpt-tutor.md) - GPT Tutor is a GPT-4 chat-based mathematics tutoring interface developed and studied by Bastani Hamsa et al.
 * [GPT-2 Output Detector Demo](gpt-2-output-detector-demo.md) - A language-analysis tool developed by OpenAI that estimates whether submitted text resembles AI-generated writing, particularly GPT-2-style output.
 * [GRAD Partnership Student Success Systems](grad-partnership-student-success-systems.md) - A framework developed by the GRAD Partnership for organizing secondary-school supports around relationships, holistic data, strategic improvement actions, and student-centered mindsets.
+* [Graded 80-word opposites-test list with difficulty point values from .5 to 2.0 totaling 100 points](graded-80-word-opposites-test-list-with-difficulty-point-values-from-5-to-20-totaling-100.md) - A historical verbal-association and word-knowledge assessment developed by Harry A.
 * [GradeOpt](gradeopt.md) - GradeOpt is a multi-agent LLM coding framework developed by Copur-Gencturk et al.
 * [GRAIL combined dataset of three classroom experiments on non-interactive teaching in optics](grail-combined-dataset-of-three-classroom-experiments-on-non-interactive-teaching-in-optic.md) - A combined dataset of three randomized classroom experiments with German secondary physics students comparing restudy with voice-message explanation after instruction on converging lenses, produced by Lachner et al.
 * [Graph4Learn (G4L) intelligent tutoring system](graph4learn-g4l-intelligent-tutoring-system.md) - A Python-based intelligent tutoring web application developed by Csépányi-Fürjes et al.
@@ -1789,6 +1791,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [The Nomads](the-nomads.md) - The Nomads is a 3D mathematics game developed by Jiaqi Yu and colleagues to train adaptive expertise in rational-number arithmetic through resource management, trading, and other variable-answer tasks.
 * [The Opportunity Atlas](the-opportunity-atlas.md) - A publicly available tract-level dataset and interactive mapping tool created by Raj Chetty and collaborators at Opportunity Insights, providing estimates of children's long-term outcomes across U.S.
 * [The Pedagogy Benchmark](the-pedagogy-benchmark.md) - A publicly released dataset developed by Lelièvre et al.
+* [The Pressey 'Cross-out' brief group intelligence scale for grades 4-8](the-pressey-cross-out-brief-group-intelligence-scale-for-grades-4-8.md) - A four-test group intelligence assessment developed by Pressey for measuring general ability in grades 4–8 and preliminarily identifying pupils for further individual study.
 * [The Reading Edge](the-reading-edge.md) - The Reading Edge is a whole-school cooperative-learning reading programme adapted from Student Team Reading and delivered by classroom teachers during regular language-arts instruction.
 * [The Region 15 FACE Collaborative](the-region-15-face-collaborative.md) - A Region 15 Comprehensive Center initiative that convenes state education agency family and community engagement leaders across Arizona, California, Nevada, and Utah to share practices, learn from experts, and develop state-level projects.
 * [The River conceptual model](the-river-conceptual-model.md) - A Flash-based interactive geography learning object developed by Daniel Churchill that lets secondary students manipulate river parameters, calculate discharge, and visualize river-flow relationships across handheld and other presentation devices.
@@ -1947,6 +1950,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Wolfram Computable Document Format (CDF)](wolfram-computable-document-format-cdf.md) - Wolfram Research's software document format renders interactive Mathematica code as graphical, customizable documents in a standalone player or browser environment.
 * [Woodcock-Johnson Tests of Achievement—Applied Problems subtest](woodcock-johnson-tests-of-achievementapplied-problems-subtest.md) - A standardized achievement subtest measuring applied mathematical problem-solving and early numeracy, developed and published as part of the Woodcock-Johnson assessment system by Riverside Insights.
 * [Woodworth-Wells substitution test](woodworth-wells-substitution-test.md) - A speeded perceptual-substitution assessment in which examinees classify labeled forms or symbols into corresponding categories, developed by Woodworth and Wells and adapted here for children.
+* [Woolley composite adolescent measurement scale](woolley-composite-adolescent-measurement-scale.md) - A historical composite assessment scale that combines percentile-ranked mental and physical test results into age- and sex-normed scores for educational and vocational guidance.
 * [Word Association Test (WAT)](word-association-test-wat.md) - A timed psycholinguistic assessment instrument that elicits and analyzes learners' spontaneous word associations to diagnose the organization and integration of concepts in a knowledge domain.
 * [Wordometer app for the SMI iView X eye tracker](wordometer-app-for-the-smi-iview-x-eye-tracker.md) - A prototype eye-tracking application created by Kai Kunze and colleagues that estimates the number of words a person reads from gaze data recorded by the SMI iView X.
 * [WordStream Maker](wordstream-maker.md) - WordStream Maker is a no-code software tool developed by Huyen N.

@@ -51,3 +51,4 @@ An argumentative communication opposing restricting intelligence tests to traine
 - [Thorndike found correlations between Binet age and language tests higher than those between Binet age and a construction test, and therefore judged the Binet scale inadequate.](thorndike-binet-age-correlates-higher-with-language-than-construction-tests.md) — reports the opposite
 - [The personal equation of the experimenters never amounted to more than one-third of the average mean variation, too small to be considered significant](binet-simon-examiner-bias-negligible.md) — related
 - [Exceptional Binet-Simon test outcomes were rare (4 per cent) and mostly attributable to error in adult judgments rather than the scale](binet-simon-exceptional-cases-4-percent.md) — related
+- [Teachers can be taught to administer the Binet scale with surprising accuracy in a six-weeks summer course](teachers-trained-six-weeks-binet-accuracy.md) — a narrower finding that bears on this claim

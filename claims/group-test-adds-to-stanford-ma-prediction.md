@@ -9,6 +9,7 @@ generated:
   at: 2026-10-24
 evidence_strength: moderate
 newest_evidence: 1923
+source_checked: 2026-10-25
 sources:
   - id: arthur-i-gates-1923
     resource: "https://doi.org/10.1037/h0066477"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3` · `i3` large
-> **Currency** · newest study 1923 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1923 · checked against its sources 2026-10-25 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i3` The independent contribution of a verbal group test beyond Stanford MA is not very great but probably important. [→ Arthur I. Gates 1923](#arthur-i-gates-1923)
@@ -49,3 +50,6 @@ Regression and multiple correlation analysis for grades IV-VI. The printed effec
 - [Stanford-Binet mental age correlations with achievement rise with grade level, while verbal group test correlations stay about the same](stanford-ma-achievement-correlation-rises-with-grade.md) — related
 - [Verbalness outweighs test length as a factor determining correlations with achievement](verbalness-outweighs-test-length.md) — related
 - [The more verbal the test material, the higher its correlation with school achievement, with a partial correlation of 0.69 for verbalness alone](verbalness-predicts-school-achievement.md) — related
+- [Combining Stanford Mental Age with group tests raises the achievement correlation to 0.605, above either alone (0.54 and 0.52)](mental-age-plus-group-tests-raise-multiple-correlation.md) — possibly the same claim (merge candidate)
+- [School-attitude ratings add almost nothing to mental age and group tests in predicting achievement; their residual unique correlation is 0.12](school-attitude-adds-little-beyond-intelligence-tests.md) — related
+- [More verbal intelligence-test material yields higher correlations with mental age and with verbal school subjects in grades IV-VIII](verbalness-raises-correlation-with-achievement.md) — related

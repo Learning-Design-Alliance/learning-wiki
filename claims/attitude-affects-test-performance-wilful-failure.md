@@ -47,3 +47,4 @@ Meeting-report summary of Bronner's address on mental testing of children. The r
 ## Related Claims
 - [Woolley found 25.5% of 18-year-old industrial workers feeble-minded on the point scale and advised changing the definition of feeble-mindedness so tested deficiency better matched common-sense opinion.](woolley-18-year-industrial-workers-25-5-percent-feeble-minded.md) — related
 - [Because many delinquent girls learned quickly and accurately, the article concludes moral defects must be partially explained on grounds other than inferior mentality](delinquency-not-fully-explained-by-mentality.md) — related
+- [Binet-Simon measurement alone is insufficient for diagnosis except in low-grade feeble-mindedness, per Healy and Bronner](binet-alone-insufficient-rough-diagnosis.md) — related

@@ -13,7 +13,7 @@ generated:
 # Academic Self-Concept
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 115 claims (82 show a difference, 23 mixed, 10 no difference) · 57 studies (31 associational, 10 review, 9 causal, 2 quant-synthesis, 2 qualitative, 2 design, 1 theoretical), `q1`–`q4` · 14 of 57 report an effect size · 112 claims rest on one study
+> **Evidence** · 119 claims (82 show a difference, 27 mixed, 10 no difference) · 58 studies (32 associational, 10 review, 9 causal, 2 quant-synthesis, 2 qualitative, 2 design, 1 theoretical), `q1`–`q4` · 15 of 58 report an effect size · 116 claims rest on one study
 
 ## Description
 Academic self-concept is a learner's self-perception of ability in a domain ("I am good at maths"). It is domain-specific: mathematics self-concept and verbal self-concept are only weakly related, because learners compare their own subjects with one another as well as with other learners (the internal/external frame of reference model). It is formed partly by comparison with classmates, so the same learner may report a lower self-concept in a high-achieving class (the big-fish-little-pond effect). Self-concept and achievement affect each other over time. It is related to but distinct from [self-efficacy](self-efficacy.md), which is confidence about succeeding at specific tasks.
@@ -150,6 +150,10 @@ Academic self-concept is a learner's self-perception of ability in a domain ("I 
 - [In math and English, students' prior academic self-concept positively predicts their later intrinsic value and attainment value across secondary school](../claims/self-concept-predicts-later-value-math-english.md) [+M] — learners who differ on it differ in outcomes
 - [The strength of relations among self-concept and value constructs remains stable in size across Grades 5 to 9](../claims/stable-relation-size-across-secondary-years.md) [+M] — learners who differ on it differ in outcomes
 - [Math self-concept and language arts utility value are the strongest single correlates of the corresponding final grades](../claims/domain-self-concept-utility-strongest-grade-correlates.md) [+M] — learners who differ on it differ in outcomes
+- [For 15-year-olds in mathematics, the achievement–self-concept relation is not significantly positive for lower achieving students but is significantly positive for higher achieving students](../claims/interrupted-math-15yo-zero-low-strong-high.md) [~M] — learners who differ on it differ in outcomes
+- [For Grade 8 students, the mathematics achievement–self-concept relation is stronger for higher achieving students than for lower achieving students](../claims/interrupted-math-grade8-steeper-high.md) [~M] — learners who differ on it differ in outcomes
+- [In secondary school, positive quadratic relations between mathematics achievement and mathematics self-concept indicate weaker relations for lower achieving students than for higher achieving students](../claims/positive-quadratic-math-achievement-self-concept-secondary.md) [~W] — learners who differ on it differ in outcomes
+- [In the verbal domain of 15-year-olds, reading achievement is more strongly related to verbal self-concept for higher achieving than for lower achieving students](../claims/verbal-15yo-stronger-high-achievers.md) [~W] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

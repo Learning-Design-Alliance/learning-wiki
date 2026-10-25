@@ -11,8 +11,8 @@ evidence_strength: weak
 newest_evidence: 1917
 sources:
   - id: kohs-1917
-    resource: "https://www.google.com/search?q=%22Annotated+Bibliography+of+Recent+Literature+on+the+Binet-Simon+Scale%22+Kohs"
-    title: "Kohs, Samuel C. (1917). An Annotated Bibliography of Recent Literature on the Binet-Simon Scale (1913-1917), Part IV. The Journal of Educational Psychology. https://www.google.com/search?q=%22Annotated+Bibliography+of+Recent+Literature+on+the+Binet-Simon+Scale%22+Kohs"
+    resource: "https://doi.org/10.1037/h0073125"
+    title: "Kohs, Samuel C. (1917). An Annotated Bibliography of Recent Literature on the Binet-Simon Scale (1913-1917), Part IV. The Journal of Educational Psychology. https://www.google.com/search?q=%22Annotated+Bibliography+of+Recent+Literature+on+the+Binet-Simon+Scale%22+Kohs. [doi:10.1037/h0073125](https://doi.org/10.1037/h0073125)"
     author: Kohs, Samuel C.
     q: 2
     i: "?"
@@ -33,7 +33,7 @@ sources:
 
 ### Kohs 1917
 
-Kohs, Samuel C. (1917). An Annotated Bibliography of Recent Literature on the Binet-Simon Scale (1913-1917), Part IV. The Journal of Educational Psychology. https://www.google.com/search?q=%22Annotated+Bibliography+of+Recent+Literature+on+the+Binet-Simon+Scale%22+Kohs
+Kohs, Samuel C. (1917). An Annotated Bibliography of Recent Literature on the Binet-Simon Scale (1913-1917), Part IV. The Journal of Educational Psychology. https://www.google.com/search?q=%22Annotated+Bibliography+of+Recent+Literature+on+the+Binet-Simon+Scale%22+Kohs. [doi:10.1037/h0073125](https://doi.org/10.1037/h0073125)
 
 `q2 · i?` · `review · r?`
 
@@ -48,3 +48,5 @@ Bibliography entry 389, annotating Terman and Knollin's 1915 Journal of Psycho-A
 - [Application of the Stanford Revision to 1000 non-selected children found the intelligence quotient a valid expression of intelligence, practically no sex differences, and social status not a disturbing influence on mental-age estimates.](stanford-revision-1000-non-selected-children-iq-valid-no-sex-differences.md) — related
 - [Applying the Stanford revision to selected children in four California cities, Williams classified 32% feeble-minded, 20% borderline, 22% dull normal, and 26% normal or superior.](williams-stanford-revision-four-california-cities-classification.md) — related
 - [Woolley found 25.5% of 18-year-old industrial workers feeble-minded on the point scale and advised changing the definition of feeble-mindedness so tested deficiency better matched common-sense opinion.](woolley-18-year-industrial-workers-25-5-percent-feeble-minded.md) — related
+- [Binet-Simon measurement alone is insufficient for diagnosis except in low-grade feeble-mindedness, per Healy and Bronner](binet-alone-insufficient-rough-diagnosis.md) — related
+- [Distributions of normal and feeble-minded groups overlap, with a borderzone between them, per Kohs's examination of 335 inmates](normal-feeble-minded-distributions-overlap-borderzone.md) — related

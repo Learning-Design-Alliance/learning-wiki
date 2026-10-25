@@ -18,7 +18,7 @@ moved_from: [principle/self-determination-theory]
 # Self-Determination Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 92 claims (65 for, 25 mixed, 2 against) · 60 studies (22 associational, 13 review, 9 causal, 7 quant-synthesis, 6 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 15 of 60 report an effect size · 86 claims rest on one study
+> **Evidence** · 93 claims (66 for, 25 mixed, 2 against) · 61 studies (22 associational, 13 review, 10 causal, 7 quant-synthesis, 6 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 15 of 61 report an effect size · 87 claims rest on one study
 
 ## Description
 Self-Determination Theory (SDT) explains motivation in terms of the degree to which behavior is experienced as autonomous, competent, and socially connected. Developed by Edward Deci and Richard Ryan, the theory argues that learners are more likely to engage deeply and persist when three basic psychological needs are supported: autonomy, competence, and relatedness.
@@ -147,6 +147,7 @@ These tactics are not unconditionally beneficial, however. Offering choice can h
 - [Teacher-reported strategies show a different pattern: involvement positively predicts student self-determination via relatedness, autonomy support negatively predicts it, and structure does not predict it](../claims/teacher-reported-strategies-student-sdi.md) [-W] — attached 2026-10-24 from Taylor et al. (2007), which proposed "Self-determination theory motivational sequence in physical education".
 - [Teachers' self-determination mediates the link between perceived class self-determination and reported autonomy support and involvement, but not structure](../claims/teacher-sdi-mediates-strategy-use.md) [~W]
 - [Teachers' perceptions of class average self-determination predict their reported use of autonomy support, involvement, and structure](../claims/teacher-perceptions-class-sdi-predict-strategies.md) [+W]
+- [Perceived task autonomy mediated the no-grade condition's higher task interest and continuing motivation for the task relative to standard grading](../claims/task-autonomy-mediation-both-motivations.md) [+W] — attached 2026-10-25 from Pulfrey et al. (2013), which proposed "Integrative model differentiating the mediational roles of task performance and task autonomy in the grading–intrinsic motivation link"; tests this page's relationship.
 
 ## The evidence by question
 

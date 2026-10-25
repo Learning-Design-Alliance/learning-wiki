@@ -10,6 +10,7 @@ generated:
   at: 2026-10-24
 evidence_strength: moderate
 newest_evidence: 1989
+source_checked: 2026-10-25
 sources:
   - id: schmidt-1989
     resource: "https://doi.org/10.1037/0022-0663.81.4.610"
@@ -33,7 +34,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
-> **Currency** · newest study 1989 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 1989 · checked against its sources 2026-10-25 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 

@@ -13,7 +13,7 @@ generated:
 # Writing Skills
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 146 claims (98 show a difference, 28 mixed, 20 no difference) · 79 studies (28 causal, 24 associational, 10 quant-synthesis, 10 review, 4 theoretical, 3 design), `q1`–`q4` · 29 of 79 report an effect size · 141 claims rest on one study
+> **Evidence** · 148 claims (100 show a difference, 28 mixed, 20 no difference) · 80 studies (28 causal, 25 associational, 10 quant-synthesis, 10 review, 4 theoretical, 3 design), `q1`–`q4` · 29 of 80 report an effect size · 143 claims rest on one study
 
 ## Description
 Writing skills run from the foundational to the compositional. At the foundation are the motor skills of handwriting, knowledge of letters and print, spelling, punctuation, capitalisation and writing speed. Composition is the expression of ideas in writing: setting goals for a piece, deciding on content and structure, and shaping it for an audience and purpose. Genre knowledge is knowing the elements, vocabulary and order a narrative, persuasive or informative text calls for, and argumentative reasoning is the ability to make and support a claim with evidence and judge other people's arguments. The Learner Variability Navigator covers these as five factors across early childhood, the primary and secondary grades and adult learning.
@@ -184,6 +184,8 @@ They are assessed with curriculum-based measures (copying, dictation, spelling, 
 - [Handwriting quality rose steadily with age up to 14, with small drops reported at 14 and 16, but standings beyond 15 are based on too few cases](../claims/age-progression-steady-to-14.md) [~M] — instruction changes it
 - [The largest grade-to-grade gain in handwriting quality was 2B over 1A, a 13-point gain on the Ayres scale](../claims/largest-gain-2b-over-1a-thirteen-points.md) [+M] — instruction changes it
 - [The six elementary schools' handwriting grades were fairly close, suggesting fairly uniform handwriting instruction across the system](../claims/elementary-schools-uniform-handwriting-instruction.md) [-M] — instruction changes it
+- [Grade 2 writing fluency is moderately and independently related to Grade 2 writing quality among beginning writers](../claims/writing-fluency-related-writing-quality-beginning-writers.md) [+W] — learners who differ on it differ in outcomes
+- [Writing fluency completely mediates the relations of Grade 1 spelling and handwriting fluency to Grade 2 writing quality](../claims/fluency-completely-mediattranscription-writing-quality.md) [+W] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Wechsler Individual Achievement Test (Third Edition)** (Breaux & Frey, 2010): This multi-battery test can be used in a variety of settings to measure ability and screen for potential learning disabilities. There are extensive written expression sub-tests to analyze Composition abilities.
