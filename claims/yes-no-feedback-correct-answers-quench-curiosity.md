@@ -58,3 +58,4 @@ Experiment 2, a within-subjects study of 80 Columbia/Barnard students with yes/n
 - [Curiosity about trivia answers is a U-shaped function of confidence, supporting information-gap theory](curiosity-u-shaped-function-of-confidence.md) — related
 - [Correctness Confidence linearly predicts curiosity, with higher confidence in a guess associated with greater curiosity](correctness-confidence-linearly-predicts-curiosity.md) — related
 - [Specific and diversive curiosity are labels on a continuum of information generality within one knowledge-gap-driven process, not categorically distinct types](specific-diversive-curiosity-continuum.md) — related
+- [Higher confidence reduced knowledge exploration after correct answers, and high-confidence errors showed no effect on exploration](confirmed-confidence-reduces-exploration.md) — related

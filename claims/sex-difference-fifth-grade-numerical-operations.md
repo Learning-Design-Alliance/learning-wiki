@@ -53,3 +53,4 @@ Multilevel model sex contrasts (Table 3) in the 177-child sample. For word readi
 - [Boys scored significantly higher than girls on IQ in the sample (p=.001)](sex-difference-iq-boys-higher-sample.md) — related
 - [SAT scores underpredict the academic performance of high school girls, who average lower scores than boys despite higher grades](sat-underpredicts-girls-performance.md) — related
 - [Boys received more process praise and scored higher in 4th grade math than girls in this sample](gender-differences-process-praise-and-fourth-grade-math.md) — related
+- [Gender effects on growth were small: boys grew more quickly in math in most cohorts, with small intercept differences by grade](gender-small-effects-math-growth-intercepts.md) — related

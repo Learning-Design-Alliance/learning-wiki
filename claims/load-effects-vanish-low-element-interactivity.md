@@ -54,3 +54,4 @@ The review reports, citing Sweller and Chandler (1994), four experiments on lear
 - [Element interactivity and expertise reversal effects: cognitive load effects diminish and may reverse as expertise increases because known elements chunk into single elements](expertise-reversal-effect-element-interactivity.md) — related
 - [Redundancy effect: when one source of information is intelligible in isolation, physically integrating it with another source fails to help and eliminating the redundant source facilitates learning](redundancy-effect-elimination-of-redundant-text.md) — related
 - [CLT-based instructional design is applied to very high element interactivity material (per Pollock, Chandler, & Sweller)](clt-design-very-high-element-interactivity.md) — related
+- [Understanding depends on the degree of interaction among elements of information](understanding-depends-on-element-interaction.md) — related

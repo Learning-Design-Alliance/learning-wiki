@@ -49,3 +49,4 @@ Tabulated mark records for one semester (1907-8) comparing delinquent-hour perce
 - [Non-fraternity male freshmen were more likely than non-fraternity female freshmen to reach the laggard list](male-freshmen-more-laggards-than-female.md) — related
 - [High school principals most frequently cited social distractions and fraternity life among environmental causes of their graduates' college failure](principals-cite-social-fraternity-distractions.md) — related
 - [Moral factors were judged roughly four times as often as intellectual incapacity as the cause of laggards' failure](moral-over-intellectual-causes-of-failure.md) — related
+- [Failure of probation students is often attributed to factors other than intellectual ability](probation-failure-factors-beyond-intellectual-ability.md) — related

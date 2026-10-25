@@ -140,3 +140,5 @@ The founding cognitive load paper. It argues that conventional problem solving b
 - [High task variability can overload working memory and reduce learning efficiency in some cases](task-variability-overload-tradeoff.md) — a narrower finding that bears on this claim
 - [Working-memory limitations can be circumvented by schema construction, automation, and multiple presentation modalities](clt-circumvent-working-memory-limits.md) — related
 - [CLT-based instructional design is applied to very high element interactivity material (per Pollock, Chandler, & Sweller)](clt-design-very-high-element-interactivity.md) — related
+- [Incorporating interacting elements into a diagrammatic schema reduces cognitive load and enhances understanding](diagrammatic-schema-reduces-load-enhances-understanding.md) — a narrower finding that bears on this claim
+- [Understanding depends on the degree of interaction among elements of information](understanding-depends-on-element-interaction.md) — related

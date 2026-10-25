@@ -51,3 +51,5 @@ Experiment 3, 48 online adults made a second-order judgment (100 minus expected 
 - [Yes/no feedback that participants were correct nearly quenched curiosity for correct answers, whereas without feedback curiosity peaked at moderate-to-high confidence](yes-no-feedback-correct-answers-quench-curiosity.md) — related
 - [Social comparison information affects the magnitude of metacognitive judgments, with greater magnitude for higher peer performance](social-comparisons-affect-metacognitive-judgments.md) — related
 - [Adults' confidence judgments track answer accuracy: confidence is higher on correct than incorrect general-knowledge trials (metacognitive monitoring)](confidence-higher-correct-than-incorrect-trials.md) — related
+- [Higher confidence reduced knowledge exploration after correct answers, and high-confidence errors showed no effect on exploration](confirmed-confidence-reduces-exploration.md) — related
+- [Making high-confidence errors about educational misconceptions intensifies preservice teachers' surprise, curiosity, confusion, and achievement-related anger](high-confidence-errors-intensify-epistemic-emotions-and-anger.md) — related

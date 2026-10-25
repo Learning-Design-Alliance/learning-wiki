@@ -2,7 +2,7 @@
 
 Designs for a particular setting, course, population or product: what a design uses the general patterns for. A pattern is general across contexts; a design is not.
 
-**1027 entries** · 0 stable · 1027 in review · 0 drafts
+**1028 entries** · 0 stable · 1028 in review · 0 drafts
 
 ---
 
@@ -334,6 +334,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 #### F {: #letter-f }
 
 * [Facilitated complex problem solving (FCPS) condition](facilitated-complex-problem-solving-condition.md) - FCPS is the comparison condition in this study: it is \"the same as the PF condition except that students received instructional facilitation throughout their lessons.\" It serves as the design component that isolates t...
+* [Familias por el Éxito en STEM: Spanish-language virtual parent workshops delivered with PIQE](familias-por-el-exito-en-stem-workshops.md) - A culturally responsive parent intervention developed with the Parent Institute for Quality Education (PIQE), a community-based organization with over 30 years of experience with the local Spanish-speaking community.
 * [Feedback History interface with LLM contribution tracking and draft management](feedback-history-llm-contribution-tracking.md) - The Teacher Dashboard includes a Feedback History interface providing a comprehensive log of all feedback sent to each student.
 * [Feedback literacy capacities mapped onto a cyclical forethought-control-retrospect engagement model](feedback-literacy-cyclical-genai-mapping.md) - The framework integrates Carless and Boud's feedback literacy, \"comprising four interdependent elements: (a) appreciating feedback; (b) making judgments; (c) managing affect; and (d) taking action\", with Zhan et al.'s...
 * [Fiber Crafting for Proportional Reasoning](fiber-crafting-for-proportional-reasoning.md) - A multi-day craft camp (knitting, crochet, and fabric pleating) in which learners define their own stitch or fold units through personal tension and material choice, then discover multiplicative proportional relationships (e.g., stitch width-to-height ratios, row-to-row growth, unfolded-to-folded fabric ratios) as an emergent property of the material rather than a taught formula.

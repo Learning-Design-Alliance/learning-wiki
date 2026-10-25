@@ -13,7 +13,7 @@ generated:
 # Socioeconomic Status
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 131 claims (77 show a difference, 34 mixed, 20 no difference) · 102 studies (57 associational, 19 causal, 13 review, 8 quant-synthesis, 3 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 9 of 102 report an effect size · 130 claims rest on one study
+> **Evidence** · 132 claims (78 show a difference, 34 mixed, 20 no difference) · 103 studies (58 associational, 19 causal, 13 review, 8 quant-synthesis, 3 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 9 of 103 report an effect size · 131 claims rest on one study
 
 ## How to read this page
 
@@ -216,6 +216,7 @@ A learner's economic and social position: family income or poverty (often measur
 - [Neither URM status nor first-generation status moderates the intervention effects on retrieval practice outcomes](../claims/no-demographic-moderation-intervention-effects.md) [-W] — an instructional effect differs by group
 - [The intervention showed no meaningful differential effects for children facing socioeconomic disadvantage, EAL, SEN, or multiple overlapping challenges](../claims/tips-by-text-no-subgroup-differences.md) [-W] — an instructional effect differs by group
 - [School-level socio-economic disadvantage significantly predicted immigrant students' self-efficacy and achievement but not valuing in exploratory multilevel tests](../claims/school-ses-disadvantage-predicts-efficacy-achievement-not-valuing.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Lower SES predicted slower reading and math growth, with the largest SES differences in growth occurring in Grade 1](../claims/ses-predicts-slower-reading-math-growth.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## The evidence by question
 - *Does family income predict achievement and attainment, how large are the gaps, and when do they open?* [School test score averages are strongly related to the income of the families a school serves](../claims/school-test-scores-strongly-related-to-family-income.md) [+M]

@@ -34,7 +34,7 @@ moved_from: [pattern/cognitive-load-theory]
 # Cognitive Load Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 108 claims (67 for, 31 mixed, 10 against) · 90 studies (34 causal, 23 review, 18 theoretical, 12 quant-synthesis, 2 design, 1 associational), `q1`–`q4` · 17 of 90 report an effect size · 97 claims rest on one study
+> **Evidence** · 110 claims (69 for, 31 mixed, 10 against) · 91 studies (35 causal, 23 review, 18 theoretical, 12 quant-synthesis, 2 design, 1 associational), `q1`–`q4` · 17 of 91 report an effect size · 99 claims rest on one study
 
 ## Description
 Cognitive Load Theory (CLT) proposes that learning is constrained by the limited capacity of working memory. When the total cognitive demand of a learning task exceeds that capacity, learning breaks down — not because the learner lacks ability, but because the instructional design has exhausted the resources available for processing. The theory distinguishes three sources of load and argues that effective instruction reduces unnecessary load to free capacity for the mental work that actually builds schema.
@@ -178,6 +178,8 @@ CLT was developed by John Sweller and colleagues in the 1980s–1990s, drawing o
 - [Participants informed in advance about a misaligned task angle performed worse and reported higher video cognitive load than those surprised by the misalignment](../claims/informed-misalignment-worse-performance.md) [~W]
 - [Intrinsic cognitive load during the scenario negatively predicted problem-solving performance (ANCOVA, p = .01)](../claims/cognitive-load-negatively-predicts-problem-solving.md) [+W]
 - [CLT-based instructional design is applied to very high element interactivity material (per Pollock, Chandler, & Sweller)](../claims/clt-design-very-high-element-interactivity.md) [+W]
+- [Understanding depends on the degree of interaction among elements of information](../claims/understanding-depends-on-element-interaction.md) [+W] — attached 2026-10-24 from Marcus (1998), which proposed "Element interactivity account of understanding instructions within cognitive load theory"; tests this page's relationship.
+- [Incorporating interacting elements into a diagrammatic schema reduces cognitive load and enhances understanding](../claims/diagrammatic-schema-reduces-load-enhances-understanding.md) [+W] — attached 2026-10-24 from Marcus (1998), which proposed "Element interactivity account of understanding instructions within cognitive load theory"; tests this page's relationship.
 
 ## The evidence by question
 

@@ -51,3 +51,4 @@ The article states in its abstract that the two effects "share similar underlyin
 - [Element interactivity moderates the effectiveness of cognitive offloading, with greater benefit for high element interactivity materials](element-interactivity-moderates-offloading.md) — related
 - [Learning with more than two external representations in STEM has advantageous effects on students' cognitive load and performance compared to learning with two representations.](more-than-two-representations-benefit-load-and-performance.md) — related
 - [CSCL environments in which students share external representations share characteristics that induce considerable cognitive load](cscl-environments-induce-considerable-cognitive-load.md) — related
+- [Incorporating interacting elements into a diagrammatic schema reduces cognitive load and enhances understanding](diagrammatic-schema-reduces-load-enhances-understanding.md) — related

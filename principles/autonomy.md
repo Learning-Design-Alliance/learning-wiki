@@ -43,7 +43,7 @@ sources:
 # Autonomy
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 52 claims (23 for, 27 mixed, 2 against) · 50 studies (12 review, 9 associational, 8 theoretical, 7 causal, 6 qualitative, 4 quant-synthesis, 4 design), `q1`–`q4` · 6 of 50 report an effect size · 44 claims rest on one study
+> **Evidence** · 54 claims (23 for, 29 mixed, 2 against) · 51 studies (12 review, 10 associational, 8 theoretical, 7 causal, 6 qualitative, 4 quant-synthesis, 4 design), `q1`–`q4` · 6 of 51 report an effect size · 46 claims rest on one study
 
 ## Conditional relationship
 
@@ -186,6 +186,8 @@ Motivation during a task, free-choice engagement afterwards, immediate learning,
 - [Main effects and the interaction of classroom autonomy support and structure were tested on the three engagement components using multilevel analyses](../claims/multilevel-test-autonomy-structure-interaction-engagement.md) [~W]
 - [Students labeled with low teacher expectations reported weaker later perceived competence in low autonomy-supportive classrooms (a correlational moderation)](../claims/low-autonomy-climate-harmful-low-expectation-students.md) [+W]
 - [Freedom of instruction added remarkably to the interest and happiness of children in the Bruckner experiment](../claims/bruckner-freedom-increased-interest-happiness.md) [+W]
+- [Teachers' self-determination mediates the link between perceived class self-determination and reported autonomy support and involvement, but not structure](../claims/teacher-sdi-mediates-strategy-use.md) [~W]
+- [Teachers' perceptions of class average self-determination predict their reported use of autonomy support, involvement, and structure](../claims/teacher-perceptions-class-sdi-predict-strategies.md) [~W]
 
 ## Related Principles
 - [Check-ins](check-ins.md) — regular, non-controlling check-ins are a core teacher behavior of autonomy support, signaling interest rather than surveillance

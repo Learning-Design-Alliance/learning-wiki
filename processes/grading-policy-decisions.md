@@ -12,7 +12,7 @@ generated:
 # Grading Policy Decisions
 
 > **Design Process** · [All design processes](index.md)
-> **Evidence** · 17 claims (3 for, 13 mixed, 1 against) · 14 studies (3 review, 3 associational, 3 theoretical, 2 causal, 2 qualitative, 1 design), `q1`–`q3` · 1 of 14 report an effect size · 17 claims rest on one study
+> **Evidence** · 18 claims (3 for, 13 mixed, 2 against) · 15 studies (3 causal, 3 review, 3 associational, 3 theoretical, 2 qualitative, 1 design), `q1`–`q3` · 1 of 15 report an effect size · 18 claims rest on one study
 
 ## Description
 Assigning a grade is rarely a single, self-evident calculation — it bundles several genuinely separable policy decisions, each carrying real tradeoffs.
@@ -66,6 +66,7 @@ Assigning a grade is rarely a single, self-evident calculation — it bundles se
 - [Grading showed differential effects by student group in Swedish quasi-experimental data: low-ability students fared worse when graded, girls better (review-reported)](../claims/klapp-differential-grading-effects.md) [~W]
 - [Single-item effort ratings show high internal consistency but their reliability is difficult to establish](../claims/single-item-effort-rating-reliability-problematic.md) [~W]
 - [After Michigan adopted a standard ranking scale, the percentage of failures remained below 3 per cent instead of approaching 10 per cent](../claims/michigan-scale-failures-below-3-percent.md) [~W]
+- [Evaluators using assessment for selection find more mistakes in tests attributed to low-SES than high-SES students, creating an artificial SES achievement gap](../claims/selection-assessment-creates-ses-gap.md) [-W]
 
 ## Related Principles
 - [Validity, Reliability, and Bias in Classroom Assessment](../principles/validity-reliability-and-bias-in-classroom-assessment.md) — grading decisions inherit the underlying assessment's validity and reliability properties, but add a further, separable layer of composition choices

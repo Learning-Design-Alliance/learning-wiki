@@ -48,3 +48,4 @@ The article's analysis of Monroe's test describes the chance-success defect: "th
 - [Rate tests that mechanically control comprehension yield more reliable results than uncontrolled rate tests](comprehension-controlled-rate-tests-more-reliable.md) — related
 - [Case evidence suggests the Thorndike-McCall diagnoses comprehension power unaffected by reading mechanics, as in a slow reader of above-125 IQ scoring at grade level](thorndike-mccall-diagnostic-case-slow-reader.md) — related
 - [In the Burgess test about one quarter of total time is spent drawing, and paragraphs unequal in completion time reduce the test's validity](burgess-drawing-time-reduces-validity.md) — related
+- [Of the so-called reading tests used, Thorndike's Visual Vocabulary is the best measure of reading ability](visual-vocabulary-best-of-reading-tests.md) — related

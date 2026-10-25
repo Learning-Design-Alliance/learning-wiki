@@ -56,3 +56,4 @@ Growth analysis of fall 2020 MAP Growth data from nearly 4.4 million students in
 - [Math growth in 2020-2021 was more variable than in prior years, with much of the gains among initially high-performing students](math-growth-more-variable-high-performers-pulled-ahead.md) — related
 - [Students in grades 3-8 made reading and math gains in 2020-21 but ended the year with lower achievement than in a typical year, with larger declines in math than in reading](covid-2020-21-lower-achievement-larger-math-declines.md) — related
 - [Covid-19 school closures depressed student achievement on average by about 0.19 standard deviations](covid-closures-average-learning-deficit-0-19-sd.md) — related
+- [Effect sizes for within-grade reading and math growth declined as students progressed from Grade 1 to Grade 5](growth-effect-sizes-decline-grades-1-5.md) — related

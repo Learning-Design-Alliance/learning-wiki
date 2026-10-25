@@ -57,8 +57,10 @@ The strategy works by pairing explicit category instruction with application to 
 6. Follow with [Practice](../elements/practice.md) on novel ads, fading the template as learners gain fluency.
 
 ## Related Strategies
+
 - [A Finder's Guide to Facts](../strategies/a_finders_guide_to_facts.md) — complementary evaluation heuristic for judging the credibility of online information sources
 - [Case-Based Learning](../patterns/case-based-learning.md) — the ad-analysis phase is a small-scale case method applied to persuasive artifacts
+- [Discharge geography, advertisement and author prestige from test-selection decisions](discard-geography-ad-prestige-criteria.md)
 
 ## Examples
 - **Institute for Propaganda Analysis (1930s)** — the original classroom program that named the classic techniques (bandwagon, testimonial, plain folks, etc.) and had students find examples in contemporary media; the direct ancestor of this strategy.

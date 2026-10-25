@@ -59,3 +59,4 @@ Zero-order correlation analysis of growth model parameters in the 358-child samp
 - [Children with higher initial levels in NRS or CS show slower subsequent linear growth in the same component](negative-intercept-slope-correlations-numeracy.md) — a narrower finding that bears on this claim
 - [Math fluency in grades 3-5 showed a cumulative growth pattern with a small significant positive intercept-slope correlation](math-fluency-cumulative-growth-grades-3-5.md) — related
 - [Kindergarten-to-fifth-grade slope-intercept correlations varied across reading measures, showing cumulative, compensatory, and stable patterns for different measures](mixed-slope-intercept-correlations-reading-measures.md) — related
+- [Lower SES predicted slower reading and math growth, with the largest SES differences in growth occurring in Grade 1](ses-predicts-slower-reading-math-growth.md) — related

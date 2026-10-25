@@ -49,3 +49,4 @@ Concurrent-validity comparison in one school of 256 pupils: correlations by grad
 - [Tests B and C correlate 0.901 when given to the same pupils in grades III to VIII](wilson-tests-b-c-correlation-0901.md) — related
 - [The Bell Chemistry Test correlates moderately with semester marks and teachers' estimates, and is judged a fairly good measure of class knowledge but unreliable for an individual.](bell-test-fair-class-measure-unreliable-individual.md) — related
 - [Teacher judgment ratings diverged from standardized test results for individual pupils](teacher-judgment-diverges-from-tests.md) — related
+- [Total point score correlates with teachers' school marks at .80, .41, and .50 in the fourth, sixth, and eighth grades, and brightness coefficients rise with amount of schooling](point-scale-school-mark-and-schooling-correlations.md) — related

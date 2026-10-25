@@ -54,3 +54,4 @@ In the univariate LGCMs of the population sample, "a weak negative correlation b
 - [Numerical relational and counting skills both develop nonlinearly between mid-Kindergarten year 1 and the end of Grade 1, with NRS decelerating and CS accelerating](nrs-cs-nonlinear-growth-trajectories.md) — related
 - [Math fluency in grades 3-5 showed a cumulative growth pattern with a small significant positive intercept-slope correlation](math-fluency-cumulative-growth-grades-3-5.md) — related
 - [Kindergarten-to-fifth-grade slope-intercept correlations varied across reading measures, showing cumulative, compensatory, and stable patterns for different measures](mixed-slope-intercept-correlations-reading-measures.md) — related
+- [Lower SES predicted slower reading and math growth, with the largest SES differences in growth occurring in Grade 1](ses-predicts-slower-reading-math-growth.md) — related

@@ -12,7 +12,7 @@ generated:
 # Metacognition
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 448 claims (208 for, 217 mixed, 23 against) · 225 studies (109 causal, 48 associational, 25 review, 16 theoretical, 12 quant-synthesis, 10 qualitative, 5 design), `q1`–`q4` · 81 of 225 report an effect size · 441 claims rest on one study
+> **Evidence** · 449 claims (208 for, 218 mixed, 23 against) · 226 studies (109 causal, 49 associational, 25 review, 16 theoretical, 12 quant-synthesis, 10 qualitative, 5 design), `q1`–`q4` · 81 of 226 report an effect size · 442 claims rest on one study
 
 ## Description
 Metacognition is knowledge about, and the ability to regulate, one's own cognitive processes — realistically judging how difficult a task will be, monitoring whether a strategy is working, and adjusting accordingly. It is closely related to, but distinct from, [Executive Function Development](executive-function-development.md): executive function is the underlying capacity to control and coordinate cognition, while metacognition is specifically the learner's own knowledge *about* that cognition and the strategies available to direct it.
@@ -491,6 +491,7 @@ A rough age-8 inflection point has been observed in some longitudinal work: stra
 - [Monitoring activities and metacomprehension accuracy serially mediated the effect of in-between versus after-study explaining on conceptual learning (Experiment 1)](../claims/monitoring-metacomprehension-serial-mediation-explaining-timing.md) [+W]
 - [In-between explaining did not improve metacomprehension accuracy relative to other conditions in either experiment](../claims/no-metacomprehension-accuracy-effect-in-between-explaining.md) [-W]
 - [Students consistently overestimated how much they learned with answer-revealing images](../claims/overestimating-learning-with-answer-revealing-images.md) [+W]
+- [Higher confidence reduced knowledge exploration after correct answers, and high-confidence errors showed no effect on exploration](../claims/confirmed-confidence-reduces-exploration.md) [~W]
 
 ## The evidence by question
 

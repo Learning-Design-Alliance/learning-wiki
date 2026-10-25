@@ -55,3 +55,4 @@ The piecewise multilevel growth model applied to administrative data from a larg
 - [In math, ELs grew more than never-ELs during academic years but lost more during summers](el-math-academic-year-growth-greater-summer-loss.md) — related
 - [NC Pre-K participants made greater gains than expected for normal developmental growth, with particular benefits for dual language learners and low-income students](nc-prek-gains-dual-language-learners.md) — related
 - [ELs lost more academic skill during summers than never-ELs in both math and reading](el-greater-summer-loss-both-subjects.md) — reports the opposite
+- [Students with low initial reading and math proficiency grew faster over two school years than students with higher initial proficiency, with the inverse relation stronger in math than reading](low-initial-proficiency-faster-growth-grades-1-5.md) — related

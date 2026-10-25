@@ -57,3 +57,4 @@ Bayesian Multilevel-SEM estimated separately for each of four outcomes (intrinsi
 - [Perceived Competence, Intrinsic Motivation, and Psychological Safety each significantly positively predict Deep Revision Engagement](psychological-mediators-predict-deep-revision.md) — related
 - [Positive teacher-student relationships fulfill relatedness needs and support internalization of learning](relatedness-care-support-internalization.md) — related
 - [Students' perceived relative lack of autonomy support positively predicts extrinsic regulation](relative-lack-of-autonomy-support-predicts-extrinsic-regulation.md) — a narrower finding that bears on this claim
+- [Student perceptions of autonomy support, structure, and involvement positively predict student self-determination, mediated by autonomy and competence need satisfaction](student-perceived-strategies-predict-sdi.md) — related

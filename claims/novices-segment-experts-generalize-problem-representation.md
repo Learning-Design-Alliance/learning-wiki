@@ -50,3 +50,5 @@ Transcription analysis of Experiment 2 discussions found only one novice group e
 ## Related Claims
 - [While discussing a problem, learners actively construct situation-specific explanatory models from prior knowledge rather than merely reproducing what they know](learners-construct-situation-specific-explanatory-models.md) — related
 - [The report attributes to expert-novice comparisons that experts relate symptoms to inoperative system functions while novices focus on physically proximal components](expert-deep-versus-novice-surface-device-models.md) — related
+- [Experts categorise problems by solution principles while novices categorise by surface features](experts-categorise-by-solution-novices-by-surface.md) — a narrower finding that bears on this claim
+- [Experts work forwards from givens while novices work backwards via means-ends analysis](experts-work-forwards-novices-means-ends.md) — related

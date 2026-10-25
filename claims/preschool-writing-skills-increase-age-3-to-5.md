@@ -59,3 +59,4 @@ Cross-sectional ANOVA with age group as between-subjects factor across 372 presc
 - [The three emergent writing factors show distinct patterns of relations to general cognitive, language, and emergent literacy measures](distinct-correlates-emergent-writing-factors.md) — related
 - [Writing features develop sequentially: universal features (linearity, segmentation, simple units) are acquired before language-specific features](universal-writing-features-before-language-specific.md) — related
 - [Prephonological spellers do not show the syllable-length signature predicted by the hypothesized syllabic stage](no-syllabic-stage-in-prephonological-spelling.md) — related
+- [Spelling accuracy increases across Nunes et al. stages, with main steps from stage 1 to 2 and stage 3 to 5](spelling-accuracy-increases-across-stages.md) — related

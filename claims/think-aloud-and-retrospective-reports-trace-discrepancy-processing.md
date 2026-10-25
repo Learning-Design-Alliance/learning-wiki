@@ -46,3 +46,4 @@ Study 2, part of the multi-study mixed method design, collected "concurrent thin
 - [University students adapt their behavioral processing of discrepant science content as a function of their epistemic cognition and discrepancy type](srl-processing-adapts-to-epistemic-cognition-and-discrepancy-type.md) — related
 - [Learners resolve grammar-related noticing with intuition, reasoning, rephrasing and explicit rules rather than external resources](grammar-lres-solved-with-own-resources-not-external.md) — related
 - [Lexical LREs dominate grammar-related LREs in young learners' L2 writing noticing](lexical-lres-dominate-grammar-lres-l2-writing.md) — related
+- [After high-confidence errors, resolving the discrepancy with additional information produced enjoyment, while failure to resolve it produced frustration](discrepancy-resolution-drives-enjoyment-or-frustration.md) — related

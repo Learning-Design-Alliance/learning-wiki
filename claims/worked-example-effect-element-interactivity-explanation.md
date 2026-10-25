@@ -65,3 +65,4 @@ Theoretical explanation in the review: novices solving problems use means-ends a
 - [No testing effect was found for acquiring problem-solving skills through worked example study across eight experiments](testing-effect-absent-worked-example-study.md) — related
 - [The thesis hypothesises that with increasing expertise the worked example effect may be eliminated or reversed while the generation effect remains robust](expertise-reversal-hypothesis-generation-remains-robust.md) — related
 - [Worked examples result in better performance than conventional problem solving with no guidance, per prior work cited in the thesis](worked-examples-better-than-problem-solving-cited.md) — related
+- [Understanding depends on the degree of interaction among elements of information](understanding-depends-on-element-interaction.md) — related

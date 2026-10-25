@@ -51,3 +51,4 @@ Theoretical argument: because exhibited speed can change "without a commensurate
 - [Test takers tend to increase their time efficiency during MAP test events, an effect the author observed in data from 2 very different testing programs](increased-efficiency-effect-observed-two-testing-programs.md) — related
 - [Ability and speed are negatively correlated, and the reading test's ability estimates are more affected by speed than the math test's](negative-ability-speed-correlation-li52-stronger.md) — related
 - [Computer-based testing's routine capture of item-level response times has driven increased interest in applications of response time to measuring ability and achievement](computer-based-testing-drives-response-time-interest.md) — related
+- [Tests may appear to measure an ability while actually measuring an unintended one, such as speed of writing figures or attention](face-validity-failure-speed-attention.md) — related

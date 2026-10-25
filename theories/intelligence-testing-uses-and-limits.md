@@ -13,7 +13,7 @@ generated:
 # Intelligence Testing: Uses and Limits
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 106 claims (35 for, 62 mixed, 9 against) · 56 studies (33 associational, 12 review, 6 theoretical, 3 design, 2 quant-synthesis), `q1`–`q3` · 7 of 56 report an effect size · 105 claims rest on one study
+> **Evidence** · 112 claims (39 for, 63 mixed, 10 against) · 59 studies (35 associational, 13 review, 6 theoretical, 3 design, 2 quant-synthesis), `q1`–`q3` · 7 of 59 report an effect size · 111 claims rest on one study
 
 ## Description
 The first intelligence test, the Binet-Simon test, grew out of Alfred Binet's 1904 appointment as France's Minister of Public Education, where he sought a way to identify children with developmental disabilities so they could receive appropriate support — Binet believed "abnormality" could be remediated, and strongly supported special education on that basis. It was the first test to distinguish "normal" children from those with developmental disabilities, and its later revision became the Stanford-Binet, one of the most widely used intelligence tests (Zimmerman & Schunk, 2003). Binet's original purpose — identifying students who need support — sits in some tension with how intelligence-test scores are more often used today, as a general ranking or classification device (see Constraints below).
@@ -157,6 +157,12 @@ Despite this psychometric strength, intelligence tests and the definitions of in
 - [Binet-Simon intelligence tests are applicable only to European and American conditions; other tests are needed for primitive peoples](../claims/binet-simon-tests-culturally-limited.md) [-W]
 - [Relative to mental age, 68% of pupils do arithmetic work comparable to same-mental-age children, 59.8% in language, but only 13.5% in silent reading](../claims/detroit-prevocational-attainment-relative-to-mental-age.md) [~W]
 - [The reviewer argues mental tests are more needed for selecting superior children than for selecting inferior children](../claims/mental-tests-more-needed-for-superior-selection.md) [~W]
+- [A problem's diagnostic value as a measure of general ability can be indexed by the slope of its pass-rate ogive at the 50% point](../claims/ogive-slope-diagnostic-value-problems.md) [+W]
+- [Total point score correlates with teachers' school marks at .80, .41, and .50 in the fourth, sixth, and eighth grades, and brightness coefficients rise with amount of schooling](../claims/point-scale-school-mark-and-schooling-correlations.md) [~W]
+- [Intelligence test correlations with college performance are reportedly too low for administrative classification use](../claims/low-correlations-limit-college-intelligence-test-classification.md) [-W]
+- [Students in the upper and lower tenths of an intelligence test show wide divergence in the character of their work](../claims/upper-lower-tenths-divergent-college-work.md) [+W]
+- [Intelligence-test scores overlap substantially across non-consecutive grades, with some fourth graders scoring above the fifth-grade norm](../claims/grade-overlapping-of-point-scale-scores.md) [+W]
+- [Under the expert-weighted criterion (Reading Ability C), the Terman Group Test correlates highest, raising the question whether the criterion measures general intelligence](../claims/weighted-reading-criterion-highest-with-terman.md) [+W]
 
 ## Related Principles
 - [Supporting Gifted and Talented Students](../principles/supporting-gifted-and-talented-students.md) — giftedness classification is conventionally IQ-threshold-based, inheriting all of this principle's measurement caveats

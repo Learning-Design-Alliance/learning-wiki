@@ -36,7 +36,7 @@ sources:
 # Validity, Reliability, and Bias in Classroom Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 259 claims (110 for, 132 mixed, 17 against) · 191 studies (71 associational, 46 design, 27 review, 21 theoretical, 17 causal, 6 quant-synthesis, 3 qualitative), `q1`–`q3` · 17 of 191 report an effect size · 252 claims rest on one study
+> **Evidence** · 265 claims (113 for, 134 mixed, 18 against) · 195 studies (73 associational, 46 design, 28 review, 22 theoretical, 17 causal, 6 quant-synthesis, 3 qualitative), `q1`–`q3` · 17 of 195 report an effect size · 258 claims rest on one study
 
 ## Conditional relationship
 
@@ -217,6 +217,8 @@ Claims linked to this page that do not bear on its relationship, a step or a sit
 - [Three Sophomores' discrepant records trace to character factors, including over-rating due to verbal fluency](../claims/caldwell-1919-verbal-fluency-overrating.md) [+W] — attached 2026-10-24 from Caldwell (1919), which proposed "Use standardized adult intelligence tests to advise college students, but always interpret IQs in light of character study".
 - [Standardized group test scores correlate weakly and variably with freshman class averages, ranging from 0 to .25](../claims/group-tests-low-variable-correlations-class-average.md) [-W] — attached 2026-10-24 from Sunne (1917), which proposed "Use group testing of college students as a feasible, time-saving measurement approach, with repeated trials and both quantitative and qualitative scoring for memory tests"; tests this page's relationship.
 - [The scale measures only the ability to recall definite facts promptly, a limited kind of historical ability](../claims/scale-measures-prompt-factual-recall-only.md) [+W] — attached 2026-10-24 from Sackett (1922), which proposed "Use scale points as a quantitative, not rigidly qualitative, measure of retention in a school subject"; tests this page's relationship.
+- [Validity is the only test criterion that applies to all five administrative uses of tests](../claims/validity-applies-to-all-five-test-uses.md) [+W] — attached 2026-10-24 from Franzen et al. (1921), which proposed "Decide primary psychological and statistical values of a test first; consider price, time and convenience only in ratio to benefits derived".
+- [Reliability of a test is a prerequisite for valid comparison, experimentation, classification and diagnosis](../claims/reliability-prerequisite-for-test-uses.md) [+W] — attached 2026-10-24 from Franzen et al. (1921), which proposed "Decide primary psychological and statistical values of a test first; consider price, time and convenience only in ratio to benefits derived".
 
 ## Objective and learner-valued goal
 
@@ -333,6 +335,10 @@ Content validity, construct validity, criterion validity, consistency across occ
 - [Thurstone-Brown agreement was closer than Otis-Illinois: median rank changes of 6.7 places (freshmen, r = 0.74) and 10.4 places (sophomores, r = 0.613), with 26 and 32.8 per cent wrongly classed](../claims/thurstone-brown-college-rank-agreement.md) [~W]
 - [EIRT addition-strategy parameters show convergent validity with broad mathematics achievement (R² = .42) but not reading efficiency (R² = .08)](../claims/eirt-parameters-math-not-reading-validity.md) [+W]
 - [Common rater and multiple rater effects partly explain why student-reports of teacher personality correlate more strongly with outcomes](../claims/common-rater-and-multiple-rater-effects-teacher-personality.md) [~W]
+- [Composition scores based on only two compositions are too unreliable for measurement, requiring roughly 17 compositions to match the Terman test's reliability](../claims/composition-reliability-requires-many-samples.md) [+W]
+- [Intelligence test correlations with college performance are reportedly too low for administrative classification use](../claims/low-correlations-limit-college-intelligence-test-classification.md) [~W]
+- [None of the English tests correlates markedly with teachers' English grades, the highest raw correlation being 0.49](../claims/english-tests-low-correlation-with-teacher-grades.md) [-W]
+- [Total point score correlates with teachers' school marks at .80, .41, and .50 in the fourth, sixth, and eighth grades, and brightness coefficients rise with amount of schooling](../claims/point-scale-school-mark-and-schooling-correlations.md) [~W]
 
 ## Related Principles
 - [Criterion- and Norm-Referenced Testing](criterion-and-norm-referenced-testing.md) — validity and reliability apply to standardized as well as teacher-made assessments, with additional considerations

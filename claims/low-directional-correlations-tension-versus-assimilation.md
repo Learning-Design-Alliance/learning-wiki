@@ -69,3 +69,4 @@ Authors' interpretation (type e) of the low directional correlations: they propo
 - [Group intelligence scores correlated only modestly with school marks (freshmen: 0.41 Thurstone, 0.56 Brown; junior high: 0.25 Illinois, 0.32 Otis), which the author attributes to marks depending on many non-intelligence factors](intelligence-scores-school-mark-correlations.md) — related
 - [Army Alpha intelligence standing correlates r = +.31 with one-term school standing among 153 normal-school students](army-alpha-school-standing-correlation-31.md) — related
 - [IQ-grade correlation differs sharply by class standing: .69 for Juniors versus .17 for Sophomores, rising to .48 when three discrepant records are omitted](caldwell-1919-junior-sophomore-correlation-difference.md) — related
+- [Tests may appear to measure an ability while actually measuring an unintended one, such as speed of writing figures or attention](face-validity-failure-speed-attention.md) — related

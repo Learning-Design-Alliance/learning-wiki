@@ -49,3 +49,4 @@ Comparison of individual test records with teacher deficiency markings. The arti
 - [Spelling test scores correlate highly with teachers' year-long marks (average coefficient .69 across grades 3–8)](spelling-test-teacher-mark-correlations.md) — related
 - [Comparison with standard scores suggested three groupings of pupils with distinct instructional needs](three-groupings-from-standard-scores.md) — related
 - [Whipple's Group Test for Grammar Grades is only tentatively standardized and its administration difficulties make its use somewhat unsatisfactory](whipple-grammar-grade-test-administration-difficulties.md) — related
+- [None of the English tests correlates markedly with teachers' English grades, the highest raw correlation being 0.49](english-tests-low-correlation-with-teacher-grades.md) — related

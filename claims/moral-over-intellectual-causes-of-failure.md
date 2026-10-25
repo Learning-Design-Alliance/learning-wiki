@@ -68,3 +68,4 @@ Case-letter evidence for about a third of the 78 heard-from cases, including lag
 - [Fraternity men had a worse laggard record than non-fraternity men at Minnesota, while sorority women did better than non-sorority women](fraternity-life-worse-laggard-record.md) — related
 - [Students from wealthier backgrounds and private schools appeared disproportionately on the laggard list](wealth-handicap-laggard-list.md) — related
 - [About two-thirds of laggards would not have met the proposed high-school-record admission requirement, indicating personal characteristics established before college](two-thirds-laggards-weak-high-school-records.md) — related
+- [Failure of probation students is often attributed to factors other than intellectual ability](probation-failure-factors-beyond-intellectual-ability.md) — related

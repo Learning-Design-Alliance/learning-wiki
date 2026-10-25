@@ -53,3 +53,5 @@ Theoretical-methodological argument in the research-hypotheses section, not an e
 - [Simulation evidence shows RI-CLPM estimates are biased when the true model is a CLPM with lag-2 effects, and fit statistics cannot decide between the two](rudtke-robitzsch-simulation-ri-clpm-bias-lag2.md) — related
 - [Reciprocal effects are robust to time-invariant confounders, but the French lagged self-concept effect did not survive the lag2 carryover stress test](robustness-to-confounders-french-lagged-mixed.md) — related
 - [The ESDM's unidirectional trait-ACH-to-trait-ASC path is not empirically identified, and the confounder-based RI-LTVC alternative shows poor fit with no support for a time-varying confounder](esdm-directional-path-not-identified-ri-ltvc-no-support.md) — related
+- [Deviations from the convergence assumption produce unreliable cross-lagged findings in school motivation research](convergence-violations-unreliable-findings.md) — related
+- [Next-generation cross-lagged models relax the convergence assumption in school motivation panel data](next-generation-cross-lagged-models-relax-convergence.md) — related

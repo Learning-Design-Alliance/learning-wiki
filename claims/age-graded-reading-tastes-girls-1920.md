@@ -48,3 +48,4 @@ Descriptive analysis of book choices across age groups in the same survey. Girls
 - [Reading as a pastime peaked at about one-fifth of preferences among thirteen-to-fourteen-year-old girls](reading-peaks-early-adolescence-girls-1920.md) — related
 - [Only fifty-eight of the 800 girls expressed a wish to pursue a vocation along the lines of their favorite pastimes, concentrated in music, art, athletics, and sewing](rare-recreation-vocation-correlation-girls-1920.md) — related
 - [Among 800 girls aged six to twenty interviewed in 1917-18, active games and sports constituted at least half of recreational preferences across the entire age range](active-games-dominate-girls-recreation-1920.md) — related
+- [Croswell's child-study curves of relative interest show games of chase rising from eleven per cent at age six to over nineteen per cent at nine, then falling below four per cent at sixteen](croswell-curves-relative-interest-nascent-periods.md) — related

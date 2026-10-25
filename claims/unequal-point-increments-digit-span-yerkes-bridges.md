@@ -52,3 +52,4 @@ Scale-construction critique in the specific-criticism section. The article notes
 - [Psychological studies of children's endowments show schools must set different aims and materials for different classes of children, and have broken up lock-step promotion](aims-and-materials-matched-to-endowments.md) — related
 - [The Binet-Simon and Yerkes Point Scale ratings of children run parallel and are practically identical up to age ten](binet-point-scale-parallel-to-age-ten.md) — related
 - [Per cent solved is a variable, not a constant unit of difficulty, and is not comparable across groups](percent-variable-unit-not-constant.md) — related
+- [Scaling is a sine qua non for experimental use of tests, and unscaled tests interpreted as scaled do harm](scaling-sine-qua-non-experimental-use.md) — a broader claim this one bears on

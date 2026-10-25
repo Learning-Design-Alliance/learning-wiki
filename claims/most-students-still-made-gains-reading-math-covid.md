@@ -57,3 +57,4 @@ Descriptive finding from the fall 2020 MAP Growth analysis of nearly 4.4 million
 - [COVID-19 closures left schools and districts serving 55.1 million students in an unprecedented time](covid-closures-55-1-million-students.md) — related
 - [Projected fall 2020 mathematics gains for returning students are approximately 37 to 50% of a typical school year's learning gains](covid-closures-projected-math-gains-37-50-percent.md) — related
 - [Covid-19 school closures depressed student achievement on average by about 0.19 standard deviations](covid-closures-average-learning-deficit-0-19-sd.md) — related
+- [Effect sizes for within-grade reading and math growth declined as students progressed from Grade 1 to Grade 5](growth-effect-sizes-decline-grades-1-5.md) — related

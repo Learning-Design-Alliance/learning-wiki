@@ -51,3 +51,4 @@ The report summarizes a body of comparative studies of expert and novice technic
 - [Representation-alignment tension between expert externalization and novice comprehension](representation-alignment-tension-expert-novice.md) — related
 - [The report attributes to Kieras and Bovair (1984) that device-model instruction improved procedure learning, retention, execution speed, and procedure simplification relative to rote learning](device-model-instruction-aids-procedure-learning-kieras-bovair.md) — related
 - [Novices and experts differ in problem representation: novices segment the problem and use surface analogies, while experts apply general underlying principles](novices-segment-experts-generalize-problem-representation.md) — related
+- [Experts categorise problems by solution principles while novices categorise by surface features](experts-categorise-by-solution-novices-by-surface.md) — related

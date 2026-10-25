@@ -48,3 +48,6 @@ In the conclusions on rate tests, the article reports mean grade correlations wi
 - [A free-reproduction comprehension test (Brown) is not a valid measure of comprehension](brown-free-reproduction-invalid-comprehension-measure.md) — related
 - [The Burgess test correlates more highly with rate and comprehension composites (0.82 and 0.80) than any other single test, and pairs well with the Thorndike-McCall](burgess-high-composite-correlations-team-with-thorndike-mccall.md) — related
 - [Monroe's silent reading test permits substantial chance success, inflating comprehension scores](monroe-test-chance-success-defect.md) — related
+- [Composition scores based on only two compositions are too unreliable for measurement, requiring roughly 17 compositions to match the Terman test's reliability](composition-reliability-requires-many-samples.md) — related
+- [Monroe's Rate of Silent Reading shows almost no correlation with either criterion of reading ability](reading-rate-test-almost-no-correlation-with-reading-criteria.md) — related
+- [Of the so-called reading tests used, Thorndike's Visual Vocabulary is the best measure of reading ability](visual-vocabulary-best-of-reading-tests.md) — related

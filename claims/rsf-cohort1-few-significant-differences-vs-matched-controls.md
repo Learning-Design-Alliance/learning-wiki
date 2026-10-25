@@ -49,3 +49,4 @@ Propensity score matching on ethnicity, lunch status, ELL status, and prior perf
 - Students entering RSF-supported schools had prior reading and mathematics achievement similar to peers who remained at their sending schools, with a few exceptions — related
 - [Most RSF-supported Cohort 1 schools increased the percentage of students meeting or exceeding ISAT standards from year 1 to year 2](rsf-cohort1-increased-standards-passing-rates.md) — related
 - [ISAT scores are not comparable over time: students with identical earlier and later test scores earned different seventh-grade ISAT scores depending on the year tested](isat-scores-noncomparable-over-time.md) — related
+- [Propensity score weighting balanced the two non-intervention control groups on all outcomes at T2 and T3, supporting internal validity](placebo-test-controls-balanced.md) — related

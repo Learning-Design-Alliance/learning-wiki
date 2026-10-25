@@ -18,7 +18,7 @@ moved_from: [principle/self-determination-theory]
 # Self-Determination Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 88 claims (63 for, 24 mixed, 1 against) · 59 studies (21 associational, 13 review, 9 causal, 7 quant-synthesis, 6 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 15 of 59 report an effect size · 82 claims rest on one study
+> **Evidence** · 92 claims (65 for, 25 mixed, 2 against) · 60 studies (22 associational, 13 review, 9 causal, 7 quant-synthesis, 6 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 15 of 60 report an effect size · 86 claims rest on one study
 
 ## Description
 Self-Determination Theory (SDT) explains motivation in terms of the degree to which behavior is experienced as autonomous, competent, and socially connected. Developed by Edward Deci and Richard Ryan, the theory argues that learners are more likely to engage deeply and persist when three basic psychological needs are supported: autonomy, competence, and relatedness.
@@ -143,6 +143,10 @@ These tactics are not unconditionally beneficial, however. Offering choice can h
 - [Intervention-enabled decreases in autonomy dissatisfaction uniquely predicted decreased end-of-semester disengagement after controlling for autonomy satisfaction and frustration](../claims/dissatisfaction-unique-predictor-disengagement.md) [+W] — attached 2026-10-24 from Sung Hyeon Cheon et al. (2019), which proposed "Three-state model of the psychological need for autonomy: satisfaction, frustration, and dissatisfaction"; tests this page's relationship.
 - [Need-based experiences mediate the effects of task difficulty and instructional style on motivational, cognitive, affective and behavioral outcomes](../claims/need-experiences-mediate-difficulty-and-style-effects.md) [+W]
 - [Children's autonomous and controlled motivation for mathematics rarely moderate the effects of task difficulty and instructional style](../claims/motivation-moderation-minimal-non-significant.md) [~W]
+- [Student perceptions of autonomy support, structure, and involvement positively predict student self-determination, mediated by autonomy and competence need satisfaction](../claims/student-perceived-strategies-predict-sdi.md) [+W] — attached 2026-10-24 from Taylor et al. (2007), which proposed "Self-determination theory motivational sequence in physical education"; tests this page's relationship.
+- [Teacher-reported strategies show a different pattern: involvement positively predicts student self-determination via relatedness, autonomy support negatively predicts it, and structure does not predict it](../claims/teacher-reported-strategies-student-sdi.md) [-W] — attached 2026-10-24 from Taylor et al. (2007), which proposed "Self-determination theory motivational sequence in physical education".
+- [Teachers' self-determination mediates the link between perceived class self-determination and reported autonomy support and involvement, but not structure](../claims/teacher-sdi-mediates-strategy-use.md) [~W]
+- [Teachers' perceptions of class average self-determination predict their reported use of autonomy support, involvement, and structure](../claims/teacher-perceptions-class-sdi-predict-strategies.md) [+W]
 
 ## The evidence by question
 
@@ -181,6 +185,7 @@ These tactics are not unconditionally beneficial, however. Offering choice can h
 - [Teaching Through Interactions framework](../research-methods/teaching-through-interactions-framework.md)
 - [Target teachers first in autonomy-support interventions to foster student autonomous motivation](../strategies/autonomy-support-interventions-target-teachers-first.md)
 - [Go beyond autonomy support with competence-supporting behaviors such as high-quality feedback](../strategies/competence-support-high-quality-feedback.md)
+- [Teachers should consciously invest in involvement behaviors—showing interest and emotional support—to foster student connectedness and self-determined motivation](../strategies/teacher-involvement-investment-strategy.md)
 
 ## Key Sources
 - Deci, E. L., & Ryan, R. M. (2000). The "what" and "why" of goal pursuits: Human needs and the self-determination of behavior. *Psychological Inquiry, 11*(4), 227-268. [https://doi.org/10.1207/S15327965PLI1104_01](https://doi.org/10.1207/S15327965PLI1104_01)

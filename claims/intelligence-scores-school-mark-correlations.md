@@ -58,3 +58,4 @@ Correlational comparison of intelligence scores with scholarship in the Normal S
 - [Test results correlate more highly with estimated intelligence than with grades, including Starch's .75 versus .30 at Wisconsin](caldwell-1919-estimated-intelligence-correlations.md) — related
 - [Standardized group test scores correlate weakly and variably with freshman class averages, ranging from 0 to .25](group-tests-low-variable-correlations-class-average.md) — related
 - [Directional correlations between test scores and discrepancy direction are low but suggest tension tests track scholarship superiority and assimilation tests track intelligence superiority](low-directional-correlations-tension-versus-assimilation.md) — related
+- [Total point score correlates with teachers' school marks at .80, .41, and .50 in the fourth, sixth, and eighth grades, and brightness coefficients rise with amount of schooling](point-scale-school-mark-and-schooling-correlations.md) — related

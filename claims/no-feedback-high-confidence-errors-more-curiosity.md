@@ -79,3 +79,5 @@ Experiment 4, 98 online adults randomly assigned to curiosity or subjective-unce
 - [Engineering physics undergraduates are more curious than they appear in lecture when given the chance to submit questions about interactive simulations](students-more-curious-than-lecture-appears.md) — related
 - [Correctness Confidence linearly predicts curiosity, with higher confidence in a guess associated with greater curiosity](correctness-confidence-linearly-predicts-curiosity.md) — related
 - [Partial resolution of curiosity through immediate feedback increases subsequent curiosity](immediate-feedback-partial-resolution-increases-curiosity.md) — related
+- [Curiosity predicted knowledge exploration after both correct and incorrect answers, while surprise predicted exploration only after incorrect answers](curiosity-drives-exploration-regardless-of-accuracy.md) — related
+- [Making high-confidence errors about educational misconceptions intensifies preservice teachers' surprise, curiosity, confusion, and achievement-related anger](high-confidence-errors-intensify-epistemic-emotions-and-anger.md) — related

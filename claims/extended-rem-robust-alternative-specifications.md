@@ -9,6 +9,7 @@ generated:
   at: 2026-10-19
 evidence_strength: moderate
 newest_evidence: 2025
+source_checked: 2026-10-25
 sources:
   - id: fernando-núñez-regueiro-2025
     resource: "https://doi.org/10.1007/s10648-025-10059-7"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-10-25 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The extended REM provided the most probable approximation of the data structure and remained robust when tested against several alternative modeling specifications. [→ Fernando Núñez-Regueiro 2025](#fernando-nunez-regueiro-2025)

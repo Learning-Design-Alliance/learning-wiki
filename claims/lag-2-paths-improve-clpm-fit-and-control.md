@@ -58,3 +58,5 @@ The review attributes this to Marsh et al. (2018a, 2018b) and Lüdtke & Robitzsc
 - [Reciprocal effects are robust to time-invariant confounders, but the French lagged self-concept effect did not survive the lag2 carryover stress test](robustness-to-confounders-french-lagged-mixed.md) — related
 - [The choice of longitudinal statistical model can determine whether reciprocal motivation-achievement relations are found](statistical-model-choice-reciprocal-effects.md) — related
 - [RI-CLPM random-intercept correlations between grades and emotions (median |r| = 0.46) were stronger than the undecomposed CLPM correlations (median |0.34|)](riclpm-vs-clpm-correlation-strength.md) — related
+- [Deviations from the convergence assumption produce unreliable cross-lagged findings in school motivation research](convergence-violations-unreliable-findings.md) — related
+- [Next-generation cross-lagged models relax the convergence assumption in school motivation panel data](next-generation-cross-lagged-models-relax-convergence.md) — related
