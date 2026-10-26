@@ -21,7 +21,7 @@ sources:
 # Self-Regulated Learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 226 claims (103 for, 115 mixed, 8 against) · 169 studies (55 associational, 44 causal, 25 review, 17 quant-synthesis, 15 theoretical, 8 qualitative, 5 design), `q1`–`q4` · 40 of 169 report an effect size · 210 claims rest on one study
+> **Evidence** · 227 claims (103 for, 116 mixed, 8 against) · 170 studies (56 associational, 44 causal, 25 review, 17 quant-synthesis, 15 theoretical, 8 qualitative, 5 design), `q1`–`q4` · 41 of 170 report an effect size · 211 claims rest on one study
 
 ## Description
 Self-Regulated Learning (SRL) explains learning as a cyclical process in which learners set goals, choose strategies, monitor progress, and reflect on outcomes in order to improve later performance. Rather than treating learning as passive reception, SRL emphasizes that effective learners actively manage attention, effort, strategy use, and feedback across time.
@@ -273,6 +273,7 @@ A second, complementary formulation comes from clinical and addiction-behavior r
 - [Randomly assigned college students implementing situation modification accomplished more study goals than comparison groups](../claims/situation-modification-improves-study-goal-attainment-college.md) [+M] — attached 2026-10-25 from Duckworth Angela L. et al. (2016), which proposed "The process model of self-control organizes strategies into five categories corresponding to stages of impulse generation".
 - [The study examines the development of motivational regulation strategy knowledge and its longitudinal relationship with academic procrastination over the course of study](../claims/motivational-regulation-knowledge-longitudinal-procrastination.md) [~W]
 - [The three-phase model received partial support with weak self-report–behaviour correspondence in fifth graders' mobile vocabulary learning](../claims/partial-support-three-phase-model-weak-selfreport-links.md) [~W]
+- [In a self-regulated MOOC, spacing study across more sessions predicts higher unit quiz performance within participants](../claims/self-regulated-spacing-predicts-mooc-quiz-performance.md) [~W]
 
 ## The evidence by question
 

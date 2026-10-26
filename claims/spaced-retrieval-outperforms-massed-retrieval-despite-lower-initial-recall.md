@@ -110,3 +110,4 @@ In the same Karpicke and Bauernschmidt (2011) experiment, as the chapter reports
 - [Distributed practice outperforms massed practice for long-term learning, with a possible foreign-language exception](distributed-practice-beats-massed-with-exception.md) — a broader claim this one bears on
 - [Spaced quizzing increases end-of-semester retention of calculus learning objectives relative to massed quizzing](spacing-increases-calculus-retention.md) — a narrower finding that bears on this claim
 - [End-of-semester recall of course material was better for relearning than for restudying](successive-relearning-better-semester-end-recall.md) — related
+- [Distributed (spaced) learning is reported to work best compared with massed study in one long session](distributed-practice-beats-cramming-principle.md) — related

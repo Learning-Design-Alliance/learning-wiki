@@ -118,3 +118,4 @@ Between-subjects pilot by Verret et al. of a 10-week moderate- to high-intensity
 - [Intervention studies show stronger physical-activity effects on children's cognition than correlational studies](intervention-studies-stronger-than-correlational-physical-activity-cognition.md) — related
 - [In a randomized three-arm trial, medication but not physical exercise or neurofeedback was related to improved response inhibition and reduced theta power in children with ADHD](medication-not-exercise-improved-response-inhibition-janssen.md) — related
 - [Daily moderate-to-vigorous physical activity is associated with better executive functioning in boys with ADHD](mvpa-associated-executive-function-adhd-boys.md) — related
+- [CVE did not differentially affect dual-task costs, subjective task load, or non-learning secondary outcomes (motor symptoms, cognition, fitness, activity, sleep)](cve-specificity-no-effect-secondary-outcomes.md) — related

@@ -13,7 +13,7 @@ generated:
 # Note-Taking
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Note-taking is the element in which learners record, organize, and condense information in ways that support later understanding and retrieval.
@@ -26,7 +26,7 @@ Note-taking is the element in which learners record, organize, and condense info
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Taking notes by hand is reported as superior to using laptops for learning](../claims/handwritten-notes-superior-laptop-notes.md) [~W]
 
 ## Related Elements
 - [Graphic Organizers](graphic-organizers.md)

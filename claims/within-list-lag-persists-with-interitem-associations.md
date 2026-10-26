@@ -71,3 +71,4 @@ Experiment 1 analysis of 48 subjects revealed a significant four-way interaction
 - Verbal learning tasks with intervals filled with other to-be-learned items test the discriminative-contrast hypothesis rather than the spacing effect — related
 - [With incidental orienting tasks that focus processing on individual words and give no incentive to form associations, distributed presentations produce better free recall than massed presentations](contextual-spacing-effect-survives-orienting-tasks.md) — related
 - [Eliminating differential storage of structural components reduces the free-recall spacing effect at moderate to long lags](free-recall-lag-effect-structural-components.md) — related
+- [Retention did not differ between contents tested 3 versus 4 days after learning](retention-similar-3-vs-4-days.md) — related

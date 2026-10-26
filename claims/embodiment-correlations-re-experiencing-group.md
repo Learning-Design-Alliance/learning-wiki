@@ -48,3 +48,4 @@ Exploratory within-group correlation analyses (Appendix G) conducted after Welch
 - [Self-explaining led to significantly higher written procedural knowledge than re-experiencing, opposite to the hypothesized direction](self-explaining-better-written-procedural-knowledge.md) — related
 - [Corrective feedback plus either GLA significantly improved students' safety behavior in VR, with no difference between re-experiencing and self-explaining](gla-corrective-feedback-improve-safety-vr.md) — related
 - [Both GLA groups showed a large, significant increase in pipetting self-efficacy, with no difference between conditions](gla-self-efficacy-increase-vr.md) — related
+- [Future research should test efficacy of the embodied activities with knowledge tests rather than self-reported impressions](future-research-knowledge-tests-for-embodied-activities.md) — related

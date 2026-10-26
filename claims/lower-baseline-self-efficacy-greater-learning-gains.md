@@ -57,3 +57,4 @@ Same linear mixed-effects model of learning gains in the 54-student within-subje
 - [ITS-based practice did not improve post-training self-efficacy relative to paper-based practice; baseline self-efficacy was the primary determinant](its-practice-no-self-efficacy-gain.md) — related
 - [Tutor-based practice produced greater learning gains than paper-based practice on matched problem sets](tutor-practice-greater-learning-gains-than-paper.md) — related
 - [Students with lower baseline performance (below the 50th percentile) showed significantly greater math achievement gains with ASSISTments than matched virtual peers](assistments-low-performers-significant-gains.md) — related
+- [Participants who reported higher subjective performance showed significantly greater motor performance gains](subjective-performance-correlates-gains.md) — related

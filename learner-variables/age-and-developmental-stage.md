@@ -13,7 +13,7 @@ generated:
 # Age and Developmental Stage
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 181 claims (117 show a difference, 41 mixed, 23 no difference) · 147 studies (57 associational, 26 causal, 24 review, 23 quant-synthesis, 10 theoretical, 5 design, 2 qualitative), `q1`–`q4` · 22 of 147 report an effect size · 179 claims rest on one study
+> **Evidence** · 182 claims (117 show a difference, 42 mixed, 23 no difference) · 148 studies (58 associational, 26 causal, 24 review, 23 quant-synthesis, 10 theoretical, 5 design, 2 qualitative), `q1`–`q4` · 23 of 148 report an effect size · 180 claims rest on one study
 
 ## Description
 Age and developmental stage cover a learner's chronological age, grade level, and the cognitive, language and social development that comes with them. Research uses them as a predictor (growth curves, when skills emerge), as a moderator (an approach that works for older students but not younger ones, or for adults but not children) and to define a population (early childhood, adolescents, adult learners). Age is often a stand-in for what actually matters, such as prior knowledge, reading skill or self-regulation, so a finding that differs by age is a reason to ask which of those it reflects.
@@ -213,6 +213,7 @@ Age and developmental stage cover a learner's chronological age, grade level, an
 - [Within-domain relations of academic emotions are stable across grade levels, with no significant differences between Grade 8 and Grade 11](../claims/within-domain-relations-stable-across-grades.md) [-M] — an instructional effect differs with it
 - [Latent mean comparisons show only partial grade-level development in CPS, with Grade 9 students performing worst on both dimensions](../claims/cps-grade-development-grade-9-deviation.md) [~M] — learners who differ on it differ in outcomes
 - [Children of the same measured mental age but different chronological age differ in which mental functions show superior performance](../claims/same-mental-age-different-function-profiles.md) [+M] — learners who differ on it differ in outcomes
+- [The Montessori–traditional connectivity difference in Cluster 2 increases with age, with Montessori-enrolled children showing a steeper age-related FC increase](../claims/pedagogy-age-interaction-cluster2-steeper-increase.md) [~M] — an instructional effect differs with it
 
 ## The evidence by question
 - *Does being older at school entry, or older than one's classmates, give a lasting achievement advantage?* [Being a year older at kindergarten entry leads to higher initial achievement](../claims/older-entry-higher-initial-achievement.md) [+M]

@@ -13,7 +13,7 @@ generated:
 # Time and Continuity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 119 claims (79 show a difference, 31 mixed, 9 no difference) · 106 studies (43 causal, 22 associational, 17 review, 11 quant-synthesis, 5 qualitative, 5 design, 3 theoretical), `q1`–`q4` · 20 of 106 report an effect size · 115 claims rest on one study
+> **Evidence** · 123 claims (82 show a difference, 32 mixed, 9 no difference) · 108 studies (43 causal, 24 associational, 17 review, 11 quant-synthesis, 5 qualitative, 5 design, 3 theoretical), `q1`–`q4` · 20 of 108 report an effect size · 119 claims rest on one study
 
 ## Description
 How much uninterrupted time a learner actually gets, and whether progress survives the gap to the next session. It sets page length, whether a task finishes in one sitting, and whether a multi-week deliverable survives a bad month. The awkward part is that the schedule which produces the best retention is the one learners reliably judge worst: spacing feels harder and less effective while producing more durable learning [~S], so this dimension cannot be designed by learner preference.
@@ -176,6 +176,10 @@ How much uninterrupted time a learner actually gets, and whether progress surviv
 - [Negative psychosocial effects of preschool concentrate in full-day programs, with no academic difference between full- and part-day attendance and no program-type differences](../claims/preschool-dosage-full-day-behavioral-effects.md) [~M] — learners who differ on it differ in outcomes
 - [Average instruction time differed significantly between conditions, with demonstration by far the shortest, replicating the original study's durations](../claims/instruction-time-condition-differences-replicated.md) [+M] — instruction changes it
 - [The best planned hygiene instruction occurred in normal schools devoting considerable time to the sciences](../claims/best-hygiene-instruction-in-science-strong-schools.md) [+M] — an instructional effect differs with it
+- [Closure-duration losses are larger for boys and immigrant students: boys' overall loss equals girls' at about 40 weeks of full closures, and immigrants' equals natives' at about 25 weeks](../claims/gender-immigrant-closure-heterogeneity.md) [+M] — learners who differ on it differ in outcomes
+- [Greater percentage of off-task time predicts lower post-task group-work quality ratings](../claims/off-task-time-predicts-lower-groupwork-ratings.md) [+M] — learners who differ on it differ in outcomes
+- [In countries with the longest closures, losses were concentrated among average and lowest-achieving students, while the best achievers lost 8–9 points everywhere](../claims/quantile-loss-low-achievers-long-closures.md) [~M] — learners who differ on it differ in outcomes
+- [Learning losses increase with the length of school closures, from 9–12% SD in shortest-closure countries to 17–23% SD in longest-closure countries](../claims/losses-increase-with-closure-length.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 

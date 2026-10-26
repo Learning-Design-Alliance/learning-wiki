@@ -59,3 +59,4 @@ Subgroup analysis of the quasi-experimental study's 1,626 low-performing student
 - [In the full-sample analysis, baseline demographic and prior-achievement differences between treatment and matched comparison groups were minimal, with effect sizes below the WWC threshold](air-tutors-full-sample-baseline-equivalence.md) — related
 - [Rural students overall did not show a significant effect, but low-performing rural students did](vplc-assistments-rural-subgroup-effects.md) — related
 - [Students with lower baseline self-efficacy achieved greater learning gains in both practice formats, though the relationship varied with favorability toward each format](lower-baseline-self-efficacy-greater-learning-gains.md) — related
+- [Pedagogical augmentations of ITSs show inconsistent effects: self-assessment helped in some studies but not others, while personalization and matched test-practice format showed benefits](its-modified-its-mixed-pedagogical-effects.md) — related

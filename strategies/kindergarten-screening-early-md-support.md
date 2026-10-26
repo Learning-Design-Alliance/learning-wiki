@@ -58,6 +58,7 @@ The article recommends transferring prediction models of the kind it validated i
 - [Response To Intervention](response-to-intervention.md)
 - [Provide early, effective, targeted intensive intervention to disrupt persistent trajectories of reading difficulty](early-intensive-intervention-disrupt-reading-difficulty-trajectories.md)
 - [Identify children with weak inhibition skills in kindergarten and provide intervention or training programs to support later monitoring accuracy](early-inhibition-screening-and-training-for-monitoring.md)
+- [Use broader baseline cognitive predictors beyond conventional phonological measures to detect at-risk learners and personalize literacy intervention](broad-predictors-personalized-dyslexia-intervention.md)
 
 ## Examples
 -

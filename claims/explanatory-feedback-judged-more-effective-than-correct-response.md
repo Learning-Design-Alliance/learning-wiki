@@ -69,3 +69,4 @@ Study 1 preregistered regression on judgments of learning found participants "ra
 - [Practice with feedback, regardless of feedback type, improves metacognitive calibration relative to lecture, reducing overconfidence by about 13 percentage points](practice-feedback-improves-metacognitive-calibration.md) — related
 - [Correct-answer feedback alone was insufficient for generalization: significantly worse than lecture in Study 1, with the difference not significant in Study 2](correct-answer-feedback-insufficient-for-generalization.md) — related
 - [Practice with feedback is more efficient than lecture, saving about 24% of instructional time in Study 1 and yielding 2–3 times higher learning rates in Study 2](practice-feedback-more-efficient-than-lecture.md) — related
+- [Learning through feedback, especially when corrective, significantly boosts learning efficiency](corrective-feedback-boosts-learning-efficiency.md) — related

@@ -13,7 +13,7 @@ generated:
 # General Cognitive Ability
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 121 claims (75 show a difference, 28 mixed, 18 no difference) · 87 studies (36 associational, 25 causal, 10 review, 8 quant-synthesis, 7 theoretical, 1 qualitative), `q1`–`q4` · 21 of 87 report an effect size · 118 claims rest on one study
+> **Evidence** · 123 claims (77 show a difference, 28 mixed, 18 no difference) · 88 studies (36 associational, 26 causal, 10 review, 8 quant-synthesis, 7 theoretical, 1 qualitative), `q1`–`q4` · 21 of 88 report an effect size · 120 claims rest on one study
 
 ## Description
 General cognitive ability is what intelligence and reasoning tests measure: fluid reasoning, crystallised knowledge and processing speed. It is a strong predictor of achievement, and research uses it as a covariate and as a moderator: some designs, such as highly structured instruction, help lower-ability learners more, while discovery-based designs can favour higher-ability learners (aptitude-treatment interactions). It overlaps with [prior knowledge](prior-knowledge.md) and [working memory](working-memory.md), and studies often cannot separate them.
@@ -157,6 +157,8 @@ General cognitive ability is what intelligence and reasoning tests measure: flui
 - [Children whose low first IQs reflected linguistic or environmental deficiency showed substantial IQ gains after gaining command of English or schooling](../claims/iq-gains-after-linguistic-environmental-remediation.md) [~W] — instruction changes it
 - [Manual-training experience is associated with roughly two scale units higher constructive ability test scores among high-school boys of the same age, but the author attributes this to selection rather than transfer](../claims/manual-training-two-scale-units-higher-selection.md) [~M] — instruction changes it
 - [Intelligence tests sometimes fail to predict college performance because character and temperament qualities play a deciding role](../claims/intelligence-tests-fail-college-performance-character.md) [~W] — learners who differ on it differ in outcomes
+- [One year of schooling significantly improves children's crystallized intelligence, fluid intelligence, and working memory (schooling β = 0.13, 0.10, 0.09 respectively)](../claims/schooling-improves-three-intelligence-domains.md) [+M] — instruction changes it
+- [Schooling's effect on general intelligence (g) was 0.136 SD, mirroring the domain findings, with no significant interactions](../claims/schooling-effect-general-intelligence-g.md) [+M] — instruction changes it
 
 ## The evidence by question
 - *Does a learner's general cognitive ability predict how well they achieve, and how much of achievement does it explain?* [Secondary academic performance is predicted by cognitive ability more strongly than by curiosity](../claims/cognitive-ability-predicts-secondary-gpa-more-than-curiosity.md) [+M]

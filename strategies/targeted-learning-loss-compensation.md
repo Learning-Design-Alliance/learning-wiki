@@ -17,7 +17,7 @@ sources:
 # Provide targeted compensation for accumulated learning loss, prioritising basic numeracy for young and low-SES students
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 8 claims (7 for, 1 mixed) · 5 studies (2 causal, 1 quant-synthesis, 1 associational, 1 theoretical), `q2`–`q3` · 3 of 5 report an effect size · 8 claims rest on one study
+> **Evidence** · 9 claims (8 for, 1 mixed) · 6 studies (2 causal, 2 associational, 1 quant-synthesis, 1 theoretical), `q2`–`q3` · 3 of 6 report an effect size · 9 claims rest on one study
 
 ## Description
 The article recommends compensating accumulated COVID learning loss with targeted, methodologically well-planned instruction aimed at the most affected groups and domains. It concludes that "teachers in Grade 1 need to use different teaching material to compensate for the lack of school readiness skills" and that most 5–6-year-olds need extra instruction, especially in basic numeracy and counting. It also cites recommendations for school-based summer programmes, formative online assessment, and high-quality learning tasks with effective feedback.
@@ -46,6 +46,7 @@ The article recommends compensating accumulated COVID learning loss with targete
 - [Achievement gaps between low-poverty and high-poverty elementary schools grew by .10–.20 SD, primarily during 2020–2021](../claims/covid-poverty-gap-grew-010-020-sd-elementary.md) [+W]
 - [Adverse impacts of school closures are most pronounced for younger school-age children, driven by self-productivity and dynamic complementarity in human capital production](../claims/younger-children-hurt-more-by-closures.md) [+W]
 - [Students in The Netherlands lost on average 3.16 percentile points (0.08 SD) in achievement during the 8-week COVID-19 lockdown](../claims/dutch-lockdown-learning-loss-3-percentile-points.md) [+W]
+- [PISA mathematics scores declined by an average of 12 points (14.2% of a standard deviation, about 7 months of learning) after COVID-19 school closures](../claims/pisa-math-decline-14-percent-sd-covid.md) [+W]
 
 ## Related Strategies
 - 

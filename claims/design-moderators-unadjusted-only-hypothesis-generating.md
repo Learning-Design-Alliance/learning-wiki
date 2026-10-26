@@ -94,3 +94,4 @@ Descriptive three-way cross-tabulation of guidance, feedback timing, and learner
 - [Technology type did not significantly moderate effects on metacognitive outcomes, though generative-AI interventions showed a descriptively larger estimate](technology-type-did-not-moderate-metacognition-effects.md) — related
 - [Under bias-adjusted planning assumptions, approximately 14 independent moderator effect sizes per moderator level are needed for 80% power, and about 60.2% of corpus effect sizes fell below this threshold](moderator-power-14-effect-sizes.md) — related
 - [Merrill's instructional design principles and feedback features did not significantly moderate the effects of ICT-supported writing interventions](merrill-principles-feedback-no-moderation.md) — related
+- [Cluster 5 pedagogy effects and the Cluster 8 Pedagogy × Gender interaction did not survive FDR correction and are considered provisional](cluster5-cluster8-uncorrected-trends-provisional.md) — related

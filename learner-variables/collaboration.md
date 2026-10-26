@@ -13,7 +13,7 @@ generated:
 # Collaboration
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 48 claims (37 show a difference, 6 mixed, 5 no difference) · 42 studies (10 causal, 10 review, 9 qualitative, 5 associational, 4 design, 4 theoretical), `q1`–`q3` · 3 of 42 report an effect size · 48 claims rest on one study
+> **Evidence** · 49 claims (38 show a difference, 6 mixed, 5 no difference) · 43 studies (10 causal, 10 review, 9 qualitative, 6 associational, 4 design, 4 theoretical), `q1`–`q3` · 3 of 43 report an effect size · 49 claims rest on one study
 
 ## Description
 Collaboration is the ability to work with a diverse group toward a common goal: putting forward one's own ideas, listening to others' thoughts and needs, being flexible and compromising, and sharing responsibility for the result. It is measured in several ways, including observation, self-report, rating scales, standardised measures and performance tasks.
@@ -90,6 +90,7 @@ It overlaps with [social awareness and relationship skills](social-awareness-and
 - [Students enact agency toward groups by fostering relational awareness, building interpersonal relationships, holding dialogue, and seeing from other perspectives](../claims/agency-toward-groups-actions.md) [+M] — instruction changes it
 - [Teams that coordinate, communicate, and document intermediate results solve EER problems more successfully](../claims/eer-structured-teams-solve-better.md) [+M] — learners who differ on it differ in outcomes
 - [Research on collaboration scripts should treat learners' internal collaboration scripts as a determinant of collaboration behavior](../claims/internal-scripts-determine-collaboration-behavior.md) [+W] — learners who differ on it differ in outcomes
+- [Greater percentage of off-task time predicts lower post-task group-work quality ratings](../claims/off-task-time-predicts-lower-groupwork-ratings.md) [+W] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Measuring Student Collaboration** (Evans et al., 2020): a guide to collaboration measures of several types: observation, self-report, rating scales, standardised measures and performance assessments.

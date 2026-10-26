@@ -53,3 +53,4 @@ Experiment 1, a controlled incidental-learning experiment with 48 subjects in fo
 - [Studying a word list in two different rooms yields about 40% more recall than studying it twice in the same room when tested in a new room](environmental-context-variability-improves-recall.md) — related
 - [In continuous recognition memory, the lag function is inverted U-shaped after a short retention interval and monotonically increasing after a long retention interval](spacing-lag-function-shape-depends-on-cue-bias-and-retention-interval.md) — related
 - [The spacing benefit holds even at very short retention intervals, contradicting the Peterson paradox](spacing-benefit-short-retention-no-peterson-paradox.md) — reports the opposite
+- [Shorter retention intervals predict higher quiz grades, and the spacing benefit holds even at short retention intervals](retention-interval-no-spacing-interaction.md) — reports the opposite

@@ -56,3 +56,5 @@ Random-effects meta-analytic correlations (corrected for reliability, robust var
 - [The intervention does not change general motivation for mathematics measured by the SRQ-A](no-change-general-mathematics-motivation-srq-a.md) — related
 - [Introjected regulation is positively related to Korean students' achievement and self-regulated learning despite its association with academic stress](introjected-regulation-positive-korean-achievement.md) — related
 - [The autonomy-supportive physics unit fostered need satisfaction, positive achievement emotions, and learning behaviors, and reduced negative emotions](autonomy-support-fosters-need-satisfaction-emotions-behaviors.md) — a narrower finding that bears on this claim
+- [Intrinsic motivation was strongly associated with identified regulation, and introjected regulation with external regulation, in the AI motivational network](ai-motivation-network-strong-edges.md) — related
+- [Most bivariate correlations among AI motivation and correlate variables were significant, with a small number of near-zero exceptions](ai-motivation-variable-correlations.md) — related

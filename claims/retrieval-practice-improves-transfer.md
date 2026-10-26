@@ -125,3 +125,4 @@ Participants studied prose passages and then either repeatedly restudied them or
 - [Without initial instruction, repeated worked examples produce better generalization than repeated retrieval practice](repeated-worked-examples-beat-repeated-retrieval-without-instruction.md) — reports the opposite
 - [When learners receive initial instruction, retrieval practice yields better generalization than worked examples regardless of item variability](retrieval-practice-beats-worked-examples-with-initial-instruction.md) — a narrower finding that bears on this claim
 - [Studying with the material available during post-testing yielded higher post-test and delayed retention scores but worse transfer than retention-based studying](material-availability-studying-tradeoffs.md) — related
+- [Retrieval practice boosts learning, and the testing effect generalizes to the acquisition of entirely new material (forward testing effect)](testing-effect-backward-and-forward.md) — related

@@ -79,3 +79,4 @@ The brief's summary of its analysis of academic gains in the 2022-23 school year
 - [Post-pandemic summer school is studied for its effects on student achievement and district academic recovery](post-pandemic-summer-school-achievement-recovery-effects.md) — related
 - [The “From loss to recovery” brief examines two components of school recovery post-COVID to understand diverging recovery patterns across schools](two-components-post-covid-school-recovery-patterns.md) — related
 - [The gap between pre-COVID and COVID test score averages widened in 2023-24 in nearly all grades, by an average of 36% in reading and 18% in math](pre-covid-covid-gap-widened-2023-24.md) — related
+- [Reading losses resemble mathematics losses, but science effects are insignificant and reading/science results are unreliable because pre-pandemic trends were non-linear](reading-science-trend-limits.md) — related

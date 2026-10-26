@@ -50,3 +50,4 @@ Janssen et al. (2016b) as tabulated: 81 stimulant-medication-naive children with
 - [Small pilot studies provide preliminary evidence that exercise interventions improve behavioral symptoms and neuropsychological functioning in children with ADHD](exercise-pilots-improve-adhd-symptoms-cognition.md) — related
 - [Acute cardio exercise improves executive functions, response time, and academic performance in children with ADHD](acute-cardio-exercise-improves-executive-function-adhd-children.md) — related
 - [Aerobic exercise improves executive functioning, most notably inhibitory control, in typically developing children, though evidence is tentative and one week-long study found no main effect](aerobic-exercise-improves-executive-function-children.md) — related
+- [Alpha neurofeedback increases prefrontal alpha power more than sham feedback](alpha-neurofeedback-increases-frontal-alpha-power.md) — related

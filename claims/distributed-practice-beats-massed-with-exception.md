@@ -55,3 +55,4 @@ The editorial reports, citing Rohrer (2015), a review of the widely endorsed spa
 - [Spaced Retrieval Improves Retention](spaced-retrieval-improves-retention.md) — a narrower finding that bears on this claim
 - [Relearning-to-criterion designs confound distribution of practice with amount of second-session practice](relearning-confound-distributed-practice-designs.md) — related
 - [Performance on final tests of learning is improved when multiple study sessions are spaced apart in time rather than massed in immediate succession](spacing-improves-final-test-performance.md) — possibly the same claim (merge candidate)
+- [Distributed (spaced) learning is reported to work best compared with massed study in one long session](distributed-practice-beats-cramming-principle.md) — possibly the same claim (merge candidate)

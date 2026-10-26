@@ -77,3 +77,5 @@ Meta-analysis of 29 studies on spaced retrieval practice, split into two subsets
 - [The spacing benefit holds even at very short retention intervals, contradicting the Peterson paradox](spacing-benefit-short-retention-no-peterson-paradox.md) — related
 - [Structured CAI with spaced practice and spaced review produced better recall and retention than unstructured CAI](structured-cai-spacing-improves-recall-and-retention.md) — related
 - [Distributed practice outperforms massed practice for long-term learning, with a possible foreign-language exception](distributed-practice-beats-massed-with-exception.md) — a broader claim this one bears on
+- [Distributed (spaced) learning is reported to work best compared with massed study in one long session](distributed-practice-beats-cramming-principle.md) — related
+- [LTP exhibits electrophysiological properties that make it an attractive candidate memory mechanism, including rapid induction, persistence up to at least a year, and greater persistence with spaced than massed induction protocols](ltp-properties-attractive-memory-mechanism.md) — related

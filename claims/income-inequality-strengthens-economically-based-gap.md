@@ -52,3 +52,4 @@ Multilevel interaction models on PISA 2012 and 2015 data with family economic ca
 - [All three social class indicators (parental education, family cultural capital, family economic capital) positively predict standardized test performance among 15-year-olds](social-class-indicators-positive-predictors-pisa-performance.md) — a broader claim this one bears on
 - [National income inequality weakens the culturally based social class test gap (parental education, cultural capital)](income-inequality-weakens-culturally-based-gap.md) — related
 - [Whether anxiety explains the income inequality × social class interaction remains inconclusive](moderated-mediation-anxiety-inconclusive.md) — related
+- [The pandemic strengthened the link between socioeconomic status and mathematics scores, but only in countries with closures shorter than 22 weeks](escs-slope-increase-short-closures.md) — related

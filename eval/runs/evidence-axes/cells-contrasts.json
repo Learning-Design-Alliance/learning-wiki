@@ -42974,5 +42974,297 @@
  "test-format\tLatin-English vocabulary test\tteachers’ final Latin grade": {
   "label": "Latin-English vocabulary test vs teachers’ final Latin grade",
   "treatment_is_a": true
+ },
+ "active-learning\tadjacent informal breakout space after lectures\tlecture theatre during transmission-based teaching": {
+  "label": "active learning vs traditional lecture",
+  "treatment_is_a": true
+ },
+ "active-learning\tadjacent informal breakout space during off-ramp transitions\ttraditional lecture theatre": {
+  "label": "active learning vs traditional lecture",
+  "treatment_is_a": true
+ },
+ "active-learning\tembodied neural-communication activities\tpost-lecture pre-seminar ratings": {
+  "label": "active learning vs traditional lecture",
+  "treatment_is_a": true
+ },
+ "active-learning\tembodied neural-communication activities\ttraditional lecture": {
+  "label": "active learning vs traditional lecture",
+  "treatment_is_a": true
+ },
+ "active-learning\tembodied-learning activities\ttraditional lecture": {
+  "label": "active learning vs traditional lecture",
+  "treatment_is_a": true
+ },
+ "active-learning\tembodied-learning activities using foam projectiles\tpre-seminar ratings after a traditional lecture": {
+  "label": "active learning vs traditional lecture",
+  "treatment_is_a": true
+ },
+ "active-learning\tpeer discussion and student-directed questioning in the adjacent breakout space\ttransmission-based lecture-theatre interaction": {
+  "label": "active learning vs traditional lecture",
+  "treatment_is_a": true
+ },
+ "active-learning\tself-directed discussion in the bridge period between lectures\tremaining in the lecture theatre during the bridge period": {
+  "label": "active learning vs traditional lecture",
+  "treatment_is_a": true
+ },
+ "active-learning\tstudent-centred peer discussion and questioning in transition or breakout periods\ttransmission-based lecture interaction": {
+  "label": "active learning vs traditional lecture",
+  "treatment_is_a": true
+ },
+ "active-learning\tstudent-centred peer interaction in the breakout space\tteacher-centred transmission in the lecture theatre": {
+  "label": "active learning vs traditional lecture",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tcorrective feedback during learning\tlearning without feedback": {
+  "label": "feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tcorrective feedback during learning\tpenalizing errors or no corrective feedback": {
+  "label": "feedback vs no feedback or penalty",
+  "treatment_is_a": true
+ },
+ "feedback-type\tcorrective feedback after errors\tpenalizing errors without corrective feedback": {
+  "label": "corrective feedback vs penalizing errors without corrective feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tcorrective feedback during learning\tpenalizing errors without corrective feedback": {
+  "label": "corrective feedback vs penalizing errors without corrective feedback",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tITS with self-assessment\tITS without self-assessment": {
+  "label": "self-assessment vs no self-assessment",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tiSTART ITS with self-assessment\tiSTART ITS without the self-assessment condition": {
+  "label": "self-assessment vs no self-assessment",
+  "treatment_is_a": true
+ },
+ "gamification\tcomputer games designed to train executive functions\tcomparison condition not specified": {
+  "label": "gamified vs non-gamified",
+  "treatment_is_a": true
+ },
+ "gamification\tcomputer games designed to train executive functions\tnot stated": {
+  "label": "gamified vs non-gamified",
+  "treatment_is_a": true
+ },
+ "learner-difference\t13-year-olds\t6-year-olds": {
+  "label": "older learners vs younger learners",
+  "treatment_is_a": true
+ },
+ "learner-difference\t14- and 15-year-old school children\t14- and 15-year-old working children": {
+  "label": "school children vs working children",
+  "treatment_is_a": true
+ },
+ "learner-difference\t14-year-old pupils\t6-year-old pupils": {
+  "label": "older learners vs younger learners",
+  "treatment_is_a": true
+ },
+ "learner-difference\t3-year-olds\tadults": {
+  "label": "adults vs children",
+  "treatment_is_a": false
+ },
+ "learner-difference\t4-year-old idiot with 2 years mentality\t10-year-old imbecile and 18-year-old moron cases": {
+  "label": "idiot cases vs imbecile and moron cases",
+  "treatment_is_a": true
+ },
+ "learner-difference\t8B pupils\t1A pupils": {
+  "label": "lower-grade pupils vs higher-grade pupils",
+  "treatment_is_a": true
+ },
+ "learner-difference\tA scholarship grade\tE scholarship grade": {
+  "label": "A scholarship grade vs E scholarship grade",
+  "treatment_is_a": true
+ },
+ "learner-difference\tA scholarship men\tE scholarship men": {
+  "label": "A scholarship men vs E scholarship men",
+  "treatment_is_a": true
+ },
+ "learner-difference\tA2i-supported individualized instruction\tcomparison instruction without A2i": {
+  "label": "individualized instruction vs non-individualized instruction",
+  "treatment_is_a": true
+ },
+ "learner-difference\tAI-generated personalized videos\thuman-recorded non-personalized videos": {
+  "label": "personalized videos vs non-personalized videos",
+  "treatment_is_a": true
+ },
+ "learner-difference\tAI-literate teachers\tAI-illiterate teachers": {
+  "label": "AI-literate teachers vs AI-illiterate teachers",
+  "treatment_is_a": true
+ },
+ "learner-difference\tAI-supported instruction across STEM disciplines\tother STEM disciplines": {
+  "label": "STEM disciplines vs other STEM disciplines",
+  "treatment_is_a": true
+ },
+ "learner-difference\tAI-supported instruction across intervention durations\tother intervention durations": {
+  "label": "different intervention durations vs other intervention durations",
+  "treatment_is_a": true
+ },
+ "learner-difference\tAI-supported instruction at different educational levels\tother educational levels": {
+  "label": "different educational levels vs other educational levels",
+  "treatment_is_a": true
+ },
+ "learner-difference\tAI-supported instruction in large classes\ttraditional instruction in large classes": {
+  "label": "AI-supported instruction vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "learner-difference\tAI-supported instruction in medium-sized classes\ttraditional instruction in medium-sized classes": {
+  "label": "AI-supported instruction vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "learner-difference\tAI-supported instruction in small classes\ttraditional instruction in small classes": {
+  "label": "AI-supported instruction vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "learner-difference\tAI-use clusters\tother AI-use clusters": {
+  "label": "AI-use clusters vs other AI-use clusters",
+  "treatment_is_a": true
+ },
+ "learner-difference\tAI-use-frequency groups\tother AI-use-frequency groups": {
+  "label": "AI-use-frequency groups vs other AI-use-frequency groups",
+  "treatment_is_a": true
+ },
+ "learner-difference\tAI/AN 4th-grade students\twhite 4th-grade students": {
+  "label": "American Indian/Alaska Native students vs White students",
+  "treatment_is_a": true
+ },
+ "media-design\tmultimodal presentation across senses\tunimodal presentation": {
+  "label": "multimodal vs unimodal presentation",
+  "treatment_is_a": true
+ },
+ "media-design\tmultimodal presentation through multiple senses or channels\tunimodal presentation": {
+  "label": "multimodal vs unimodal presentation",
+  "treatment_is_a": true
+ },
+ "practice-amount\tlater 10-trial training blocks\tearlier 10-trial training blocks": {
+  "label": "later vs earlier training blocks",
+  "treatment_is_a": true
+ },
+ "practice-amount\tmore activities completed\tfewer activities completed": {
+  "label": "more vs fewer activities",
+  "treatment_is_a": true
+ },
+ "practice-amount\tmore training blocks\tfewer training blocks": {
+  "label": "more vs fewer training blocks",
+  "treatment_is_a": true
+ },
+ "prompts\tReminder Group on days without reminders\tControl Group": {
+  "label": "reminders vs no reminders",
+  "treatment_is_a": true
+ },
+ "prompts\trepeated smartphone study reminders\tno reminders": {
+  "label": "reminders vs no reminders",
+  "treatment_is_a": true
+ },
+ "prompts\tstudy reminders on scheduled days\tno-reminder days": {
+  "label": "reminders vs no reminders",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tactive retrieval practice\trepeated passive exposure": {
+  "label": "retrieval practice vs restudy",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tretrieval practice for HF associations\trestudy for HF associations": {
+  "label": "retrieval practice vs restudy",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tretrieval practice for HF associations\trestudy of HF associations": {
+  "label": "retrieval practice vs restudy",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tretrieval practice for LF associations among higher-WM participants\trestudy for LF associations among higher-WM participants": {
+  "label": "retrieval practice vs restudy",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tretrieval practice for LF associations among higher-WM participants\trestudy of LF associations among higher-WM participants": {
+  "label": "retrieval practice vs restudy",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tretrieval practice for LF associations among lower-WM participants\trestudy for LF associations among lower-WM participants": {
+  "label": "retrieval practice vs restudy",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tretrieval practice for LF associations among lower-WM participants\trestudy of LF associations among lower-WM participants": {
+  "label": "retrieval practice vs restudy",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tretrieval practice for high-frequency associations\trestudy of high-frequency associations": {
+  "label": "retrieval practice vs restudy",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tretrieval practice for low-frequency associations among higher-WM participants\trestudy of low-frequency associations among higher-WM participants": {
+  "label": "retrieval practice vs restudy",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tretrieval practice for low-frequency associations among lower-WM participants\trestudy of low-frequency associations among lower-WM participants": {
+  "label": "retrieval practice vs restudy",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tretrieval practice or testing\trepeated passive exposure or restudy": {
+  "label": "retrieval practice vs restudy",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tretrieval practice without feedback\trestudy": {
+  "label": "retrieval practice vs restudy",
+  "treatment_is_a": true
+ },
+ "scaffolding\tpersonalized ITS matched to learner interests\tless personalized ITS condition": {
+  "label": "personalized vs less personalized scaffolding",
+  "treatment_is_a": true
+ },
+ "spacing\tdistributed learning over time\tcrammed learning in one long session": {
+  "label": "spaced vs massed",
+  "treatment_is_a": true
+ },
+ "spacing\tdistributed learning over time\tone long crammed session": {
+  "label": "spaced vs massed",
+  "treatment_is_a": true
+ },
+ "spacing\tgreater self-regulated spacing\tless self-regulated spacing": {
+  "label": "more self-regulated spacing vs less self-regulated spacing",
+  "treatment_is_a": true
+ },
+ "spacing\tgreater spacing among students completing fewer activities\tgreater spacing among students completing more activities": {
+  "label": "greater spacing among fewer-activity learners vs greater spacing among more-activity learners",
+  "treatment_is_a": true
+ },
+ "spacing\tgreater spacing for lower-ability students\tgreater spacing for higher-ability students": {
+  "label": "greater spacing for lower-ability learners vs greater spacing for higher-ability learners",
+  "treatment_is_a": true
+ },
+ "spacing\tlearning distributed over time\tlearning crammed into one long session": {
+  "label": "spaced vs massed",
+  "treatment_is_a": true
+ },
+ "spacing\tlearning distributed over time\tlearning massed in one long session": {
+  "label": "spaced vs massed",
+  "treatment_is_a": true
+ },
+ "spacing\tmore self-regulated spacing\tless self-regulated spacing": {
+  "label": "more self-regulated spacing vs less self-regulated spacing",
+  "treatment_is_a": true
+ },
+ "spacing\tmore spaced study\tless spaced study": {
+  "label": "spaced vs massed",
+  "treatment_is_a": true
+ },
+ "spacing\tmore spacing among lower-ability students\tmore spacing among higher-ability students": {
+  "label": "greater spacing for lower-ability learners vs greater spacing for higher-ability learners",
+  "treatment_is_a": true
+ },
+ "spacing\tmore study sessions per unit\tfewer study sessions per unit": {
+  "label": "more study sessions per unit vs fewer study sessions per unit",
+  "treatment_is_a": true
+ },
+ "spacing\tspaced LTP induction\tmassed LTP induction": {
+  "label": "spaced vs massed",
+  "treatment_is_a": true
+ },
+ "test-format\tcommon-problem RPM\ttraditional total correct-response score": {
+  "label": "Common-problem RPM vs traditional total correct-response score",
+  "treatment_is_a": true
+ },
+ "test-format\tpractice and test formats matched\tpractice and test formats mismatched": {
+  "label": "Matched practice and test formats vs mismatched practice and test formats",
+  "treatment_is_a": true
  }
 }

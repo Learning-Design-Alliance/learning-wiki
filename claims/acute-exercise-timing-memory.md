@@ -105,3 +105,4 @@ Participants were randomly assigned to one of three groups, and all of them lear
 - [Greater aerobic fitness is associated with more stable long-term memory retention over 12 hours in young adults](aerobic-fitness-predicts-memory-retention.md) — related
 - [Total percentage of time spent sedentary or in moderate-to-vigorous physical activity during the day is unrelated to long-term memory retention in young adults](total-daily-activity-unrelated-to-long-term-memory.md) — related
 - [Motor activities combined with high integration and high relevance produce the largest positive effects on memory, per a meta-analysis cited by the review](high-integration-relevance-motor-activity-memory-effects.md) — related
+- [Contrary to predictions, post-practice cardiovascular exercise produced no detectable effect on between-session offline change scores](cve-no-effect-between-session-offline-learning-pd.md) — a narrower finding that bears on this claim

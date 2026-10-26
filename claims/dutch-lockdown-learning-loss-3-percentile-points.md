@@ -67,3 +67,7 @@ Difference-in-differences analysis of biannual national test scores (n ≈ 350,0
 - [The COVID-affected cohort caught up to the control cohort in reading fluency one year after the pandemic](covid-cohort-caught-up-control-cohort-end-grade-four.md) — related
 - [The COVID cohort scored significantly lower than the control cohort across the whole study duration](covid-cohort-lower-overall-reading-fluency-group-effect.md) — related
 - [Reading fluency developed linearly in the sample, with an average six-month increase of 4.30 raw score units homogeneous across the performance range](linear-homogeneous-reading-fluency-development-pre-trend.md) — related
+- [Learning losses increase with the length of school closures, from 9–12% SD in shortest-closure countries to 17–23% SD in longest-closure countries](losses-increase-with-closure-length.md) — related
+- [The COVID-19 pandemic had small but statistically significant negative average effects on Dutch students' track recommendation (-0.068 levels) and seventh-grade track enrollment (-0.039 levels)](pandemic-small-negative-effects-track-recommendation-enrollment.md) — related
+- [PISA mathematics scores declined by an average of 12 points (14.2% of a standard deviation, about 7 months of learning) after COVID-19 school closures](pisa-math-decline-14-percent-sd-covid.md) — related
+- [Reading losses resemble mathematics losses, but science effects are insignificant and reading/science results are unreliable because pre-pandemic trends were non-linear](reading-science-trend-limits.md) — related

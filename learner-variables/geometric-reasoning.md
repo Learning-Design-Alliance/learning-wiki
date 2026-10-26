@@ -13,7 +13,7 @@ generated:
 # Geometric Reasoning
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 20 claims (14 show a difference, 4 mixed, 2 no difference) · 13 studies (5 causal, 4 qualitative, 2 associational, 1 quant-synthesis, 1 theoretical), `q1`–`q3` · 2 of 13 report an effect size · 20 claims rest on one study
+> **Evidence** · 21 claims (14 show a difference, 5 mixed, 2 no difference) · 14 studies (6 causal, 4 qualitative, 2 associational, 1 quant-synthesis, 1 theoretical), `q1`–`q3` · 3 of 14 report an effect size · 21 claims rest on one study
 
 ## Description
 Geometric reasoning is the abstract thinking used to define shapes, analyse their properties and relationships, and argue about them; in the secondary grades it extends to formalising those arguments as written proofs. The Learner Variability Navigator notes that geometric knowledge gives concrete representations and models for abstract mathematical ideas, which can serve as an entry point to higher-order mathematical thinking. It is assessed with short geometry tasks that ask learners to explain their reasoning in writing or diagrams, which also reveal misconceptions, and with the geometry subtests of diagnostic batteries.
@@ -57,6 +57,7 @@ LVN follows it from grade 3 to grade 10. It is distinct from, but draws on, [spa
 - [Academic vocabulary, verbal reasoning, nonverbal reasoning, and working memory directly predict sixth-grade geometric and fraction skills](../claims/advanced-linguistic-direct-effects-geometry-fractions.md) [+M] — learners who differ on it differ in outcomes
 - [Children with DLD score below TD peers on arithmetic, geometric, and fraction skills in the upper primary grades](../claims/dld-lower-geometric-fraction-arithmetic-skills.md) [+M] — learners who differ on it differ in outcomes
 - [Phonological skills and naming speed indirectly predict sixth-grade geometric and fraction skills via arithmetic skills in both DLD and TD children](../claims/phonological-naming-speed-indirect-via-arithmetic.md) [+M] — learners who differ on it differ in outcomes
+- [The learning–generalization dissociation from target geometry persists when training-to-probe distance is equated across groups (Experiment 2), though the effects are smaller](../claims/target-geometry-dissociation-distance-equated-exp2.md) [~W] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Geometry Tasks with Explanation** (e.g., Carroll, 1998): Short geometry tasks that elicit reasoning and argumentation through writing, diagrams, and other representations can be used to assess students' understanding and misconceptions of basic geometric properties while giving insight into students' thinking.

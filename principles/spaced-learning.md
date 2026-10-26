@@ -71,7 +71,7 @@ sources:
 # Spaced Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 70 claims (38 for, 30 mixed, 2 against) · 48 studies (25 causal, 11 review, 9 quant-synthesis, 3 theoretical), `q1`–`q4` · 14 of 48 report an effect size · 63 claims rest on one study
+> **Evidence** · 77 claims (40 for, 35 mixed, 2 against) · 51 studies (26 causal, 12 review, 9 quant-synthesis, 3 theoretical, 1 associational), `q1`–`q4` · 16 of 51 report an effect size · 70 claims rest on one study
 
 ## Description
 
@@ -173,6 +173,8 @@ Claims this page cited before it was rewritten as a conditional model, or that w
 - [Spaced quizzing increases end-of-semester retention of calculus learning objectives relative to massed quizzing](../claims/spacing-increases-calculus-retention.md) [+M] — attached 2026-10-21 from Keith B. Lyle et al. (2022), which proposed "Distribute calculus practice across multiple quizzes and accept lower short-term practice performance for better long-term retention"; tests this page's relationship.
 - [Spaced quizzing reduces overall performance on calculus practice quizzes relative to massed quizzing](../claims/spacing-reduces-quiz-practice-performance.md) [~M] — attached 2026-10-21 from Keith B. Lyle et al. (2022), which proposed "Distribute calculus practice across multiple quizzes and accept lower short-term practice performance for better long-term retention".
 - [A second training session two days later further increases reasoning accuracy beyond the first session, though less strongly](../claims/second-training-session-further-boosts-accuracy.md) [+W] — attached 2026-10-23 from Nina Franiatte et al. (2024), which proposed "Repeat debiasing training sessions to further boost sound intuiting beyond a single-shot intervention"; tests this page's relationship.
+- [The positive relationship between spacing and quiz performance is greater for students who complete fewer activities](../claims/spacing-buffers-passive-learning.md) [~W] — attached 2026-10-26 from Paulo F. Carvalho et al. (2020), which proposed "Use spaced study as a buffer that improves performance for lower-ability students and those who do not engage in active practice"; tests this page's relationship.
+- [The spacing benefit on quiz performance is larger for lower-ability students than for higher-ability students](../claims/spacing-benefit-larger-lower-ability.md) [~W] — attached 2026-10-26 from Paulo F. Carvalho et al. (2020), which proposed "Use spaced study as a buffer that improves performance for lower-ability students and those who do not engage in active practice"; tests this page's relationship.
 
 ## Source verification and open tests
 
@@ -471,6 +473,11 @@ The article concludes that AI-generated podcasts are best positioned as a 'mobil
 - [The more the substitution practice was distributed over days, the larger the practice gains and the more pronounced the negative transfer effects](../claims/kline-distributed-practice-amplifies-transfer-effects.md) [~W]
 - [Distributing drill repetitions in time gives better learning results than making many repetitions in succession](../claims/distributed-drill-repetitions-better-than-succession.md) [+W]
 - [Distributed practice aids digit memorization, but massed practice is preferred for new and short mazes, indicating a boundary condition on the spacing effect](../claims/distributed-vs-massed-practice-boundary-1921.md) [~W]
+- [LTP exhibits electrophysiological properties that make it an attractive candidate memory mechanism, including rapid induction, persistence up to at least a year, and greater persistence with spaced than massed induction protocols](../claims/ltp-properties-attractive-memory-mechanism.md) [+W]
+- [Students who spaced their study more also performed better on the MOOC final exam](../claims/spacing-predicts-final-exam-mooc.md) [~W]
+- [In a self-regulated MOOC, spacing study across more sessions predicts higher unit quiz performance within participants](../claims/self-regulated-spacing-predicts-mooc-quiz-performance.md) [+W]
+- [OET 94 scheduling yielded approximately 40% higher memory retention than conventional scheduling (S15), with a benefit of Cohen's d = 0.64](../claims/oet94-forty-percent-gain-over-conventional.md) [~M]
+- [Shorter retention intervals predict higher quiz grades, and the spacing benefit holds even at short retention intervals](../claims/retention-interval-no-spacing-interaction.md) [~W]
 
 ## Key Sources
 

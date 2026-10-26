@@ -18,7 +18,7 @@ sources:
 # Spaced Repetition
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 22 claims (19 for, 3 mixed) · 19 studies (8 causal, 5 review, 4 quant-synthesis, 2 theoretical), `q1`–`q4` · 4 of 19 report an effect size · 18 claims rest on one study
+> **Evidence** · 25 claims (20 for, 5 mixed) · 20 studies (9 causal, 5 review, 4 quant-synthesis, 2 theoretical), `q1`–`q4` · 5 of 20 report an effect size · 21 claims rest on one study
 
 ## Description
 Spaced repetition is the element in which key material is revisited at strategically increasing intervals rather than massed into a single session. It is useful when the aim is durable retention rather than short-term performance.
@@ -62,6 +62,9 @@ Spaced repetition is the element in which key material is revisited at strategic
 - [Research findings show that various types of learning benefit from spaced study, with demonstrations of these benefits in educational settings](../claims/spacing-benefits-diverse-learning-educational-settings.md) [+W]
 - [Spaced quizzing increases end-of-semester retention of calculus learning objectives relative to massed quizzing](../claims/spacing-increases-calculus-retention.md) [+W] — attached 2026-10-21 from Keith B. Lyle et al. (2022), which proposed "Spaced versus massed MyMathLab quizzing procedure with end-of-semester criterial test"; tests this page's relationship.
 - [Distributing drill repetitions in time gives better learning results than making many repetitions in succession](../claims/distributed-drill-repetitions-better-than-succession.md) [+W]
+- [In simulations, adaptive model-based scheduling at OETs of 0.8 or higher produced 39–55% better final-test memory than the next best conventional schedule](../claims/simulation-oet-above-08-beats-conventional.md) [+W]
+- [Experimentally, adaptive scheduling at OET 0.86 and 0.94 produced significantly higher final-test recall than OET 0.40, OET 0.98, and a conventional S15 schedule](../claims/experiment-oet-86-94-significantly-higher-recall.md) [~W]
+- [OET 94 scheduling yielded approximately 40% higher memory retention than conventional scheduling (S15), with a benefit of Cohen's d = 0.64](../claims/oet94-forty-percent-gain-over-conventional.md) [~M]
 
 ## Design Decisions
 <!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice

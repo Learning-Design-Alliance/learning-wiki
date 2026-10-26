@@ -13,7 +13,7 @@ generated:
 # Executive Function
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 109 claims (67 show a difference, 20 mixed, 22 no difference) · 62 studies (26 associational, 12 causal, 11 review, 9 quant-synthesis, 3 theoretical, 1 design), `q1`–`q4` · 16 of 62 report an effect size · 107 claims rest on one study
+> **Evidence** · 110 claims (68 show a difference, 20 mixed, 22 no difference) · 63 studies (26 associational, 13 causal, 11 review, 9 quant-synthesis, 3 theoretical, 1 design), `q1`–`q4` · 17 of 63 report an effect size · 108 claims rest on one study
 
 ## Description
 Executive function covers inhibitory control, updating working memory, and shifting between tasks or rules. It is measured by performance tasks (such as the Stroop, Flanker and dimensional card-sort tasks) and by teacher or parent ratings. It develops through childhood and adolescence, predicts school readiness and achievement, moderates designs that load self-direction on learners, and is the target of training programmes, whose effects rarely transfer beyond the trained tasks. It underlies [self-regulation](self-regulation.md) and [attention](attention.md) and overlaps with [working memory](working-memory.md).
@@ -146,6 +146,7 @@ Executive function covers inhibitory control, updating working memory, and shift
 - [Parent-reported home math activities showed no significant association with children's math achievement, and inhibitory control did not moderate this null relation](../claims/home-math-activities-null-moderation.md) [-W] — an instructional effect differs with it
 - [The number talk × inhibitory control interaction is domain-specific: it did not hold for parents' overall talk or for children's vocabulary as the outcome](../claims/interaction-domain-specificity-math.md) [~W] — an instructional effect differs with it
 - [In Study 2 (N=210), the profile-achievement link held while controlling initial performance and using effort and grade as outcomes](../claims/study2-effort-grade-controlling-initial-performance.md) [+M] — learners who differ on it differ in outcomes
+- [NAT produced near-transfer gains in inhibitory control across task difficulty, Go RT, and Go/No-Go accuracy measures](../claims/nat-inhibitory-control-near-transfer.md) [+M] — instruction changes it
 
 ## The evidence by question
 - *Does a child's executive function predict achievement, and through what?* [Children's executive function at the beginning of pre-kindergarten predicts growth in mathematics achievement across the pre-kindergarten year](../claims/ef-predicts-preschool-math-growth.md) [+M]

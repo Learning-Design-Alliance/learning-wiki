@@ -13,7 +13,7 @@ generated:
 # Personality Traits
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 61 claims (37 show a difference, 16 mixed, 8 no difference) · 29 studies (13 review, 6 associational, 5 quant-synthesis, 3 causal, 2 theoretical), `q2`–`q4` · 11 of 29 report an effect size · 61 claims rest on one study
+> **Evidence** · 62 claims (37 show a difference, 16 mixed, 9 no difference) · 30 studies (13 review, 7 associational, 5 quant-synthesis, 3 causal, 2 theoretical), `q2`–`q4` · 11 of 30 report an effect size · 62 claims rest on one study
 
 ## Description
 Personality traits are relatively stable individual differences, most often measured on the Big Five dimensions. For learning, conscientiousness (being organised, persistent and self-controlled) is the trait most consistently associated with achievement, and openness (curiosity, breadth of interests) the second; agreeableness, extraversion and neuroticism show little association. Traits correlate with other variables here, such as [self-regulation](self-regulation.md) and [need for cognition](need-for-cognition.md).
@@ -96,6 +96,7 @@ Personality traits are relatively stable individual differences, most often meas
 - [Both conscientiousness (β = .25) and openness (β = .17) are positively associated with GPA in adjusted models](../claims/gpa-associated-with-conscientiousness-and-openness.md) [+M] — learners who differ on it differ in outcomes
 - [Conscientiousness is positively associated with course grades and final examination grades in mathematics and English after controlling for covariates](../claims/conscientiousness-positively-predicts-grades-adjusted.md) [+M] — learners who differ on it differ in outcomes
 - [Openness is most strongly associated with standardized test scores (especially English) and weakly or negatively associated with mathematics course grades](../claims/openness-predicts-standardized-tests-most.md) [~M] — learners who differ on it differ in outcomes
+- [No evidence of an association between student grit or parental network centrality and the magnitude of pandemic effects on tracking outcomes](../claims/null-grit-parental-network-centrality-pandemic-effects.md) [-M] — an instructional effect differs with it
 
 ## Related Learner Variables
 

@@ -67,3 +67,4 @@ The same preliminary ANOVA checks found no significant group differences on age,
 - [No significant differential treatment effects by prior (Grade 4) achievement level or gender; the Grade 4 Level 3 subgroup difference was marginal (p = .053)](rm-cc5-no-differential-effects-prior-achievement-gender.md) — related
 - [Males show larger AU > OC activation discrepancies than females in left SMG and left MTG, with no age-related differences in these gender effects](gender-differences-smg-mtg-activation.md) — related
 - [MPathic-VR-trained students achieve significantly higher composite scores than computer-based learning students on a subsequent advanced communication OSCE, several days later](mpathic-vr-osce-composite-transfer.md) — related
+- [PC-based passive viewing yielded higher word recall than embodied VR assembly training in school-aged children](pc-beats-vr-word-recall-children.md) — related

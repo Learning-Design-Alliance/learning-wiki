@@ -51,3 +51,4 @@ Systematic scoping review analysis of 22 included empirical studies of compensat
 - [Robust RDD methods protect against model misspecification but require much larger sample sizes to detect small effects](rdd-robust-methods-need-larger-samples.md) — related
 - [Evidence for promotive and skill-enhancing factors in literacy resilience is underrecognized while the same evidence is overinterpreted towards protective effects](overinterpretation-towards-protective-effects.md) — related
 - [Empirical evidence for protective factors in word-reading resilience is sparse and based on only a few studies](protective-factor-evidence-sparse-word-reading.md) — related
+- [The study was adequately powered only for medium-to-large effects on the critical three-way interaction](power-limited-three-way-interaction.md) — related

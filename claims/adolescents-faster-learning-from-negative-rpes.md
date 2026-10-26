@@ -54,3 +54,4 @@ Computational modeling of behavioral data from 19 adolescents (12-16 y) and 17 a
 - [Group-by-RPE interaction in the anterior insula without a general group effect in overall activation](ains-group-by-rpe-interaction-omnibus.md) — related
 - [Reward prediction errors are positively correlated with putamen, vmPFC, amygdala and posterior cingulate and anticorrelated with aIns, dmPFC and dlPFC](rpe-network-positive-and-anticorrelated-regions.md) — related
 - [A risk-sensitive reinforcement learning model with anticorrelated valuation fit reversal learning behavior better than standard models](rsav-model-outperformed-standard-rl-models.md) — related
+- [Individual movement-error distributions during strategic adaptation are multimodal (peaks at sign flips, mirror reversals, and defaults), inconsistent with random exploration predicted by reinforcement learning](multimodal-error-distributions-strategic-adaptation.md) — related

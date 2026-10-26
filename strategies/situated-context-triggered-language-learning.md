@@ -43,6 +43,7 @@ The article recommends designing mobile language learning so that learning activ
 ## Related Strategies
 
 - [Design mobile learning around the features students already use frequently, while recognising this is not a panacea](design-mobile-learning-around-frequent-features.md)
+- [Embed word learning meaningfully into situated VR tasks with social guidance and repeated exposure](embed-words-in-situated-vr-tasks.md)
 
 ## Examples
 -

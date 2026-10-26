@@ -46,6 +46,7 @@ The article argues that directly assessing executive functions in group-based sc
 
 - [Combine cognitive tasks and ecological teacher questionnaires when measuring children's inhibition for academic research](combine-task-and-teacher-inhibition-measures.md)
 - [Combine standardized tests and naturalistic classroom observations (mixed methods) when assessing oral communicative competence](mixed-methods-assessment-oral-communicative-competence.md)
+- [Deliver neurocognitive training at low frequency within ecologically valid academic contexts rather than as isolated high-frequency sessions](low-frequency-nat-ecological-embedding-strategy.md)
 
 ## Examples
 -

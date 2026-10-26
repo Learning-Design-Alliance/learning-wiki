@@ -36,6 +36,7 @@ A longitudinal dataset created by Falkenstein Kim et al. that combines neuroimag
 ## Related Products and Programmes
 
 - [Polygence authentic learning dataset](polygence-authentic-learning-dataset.md)
+- [Large-scale longitudinal parent-report language dataset collected via a free language therapy app, with code and data released on OSF](large-scale-longitudinal-parent-report-language-dataset-collected-via-a-free-language-ther.md)
 
 ## Key Sources
 - Falkenstein Kim, Pauley Claire, Kühn Simone. (2026). Investigating effects of day-to-day variations in environmental exposure on the human brain: study protocol for the Day2Day Environment project. BMC Neuroscience. https://doi.org/10.1186/s12868-026-01052-z

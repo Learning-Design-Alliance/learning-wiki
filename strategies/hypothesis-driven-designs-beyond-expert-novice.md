@@ -46,6 +46,7 @@ The article recommends that research on professional vision shift from explorati
 
 - [Advance AI-motivation research through theory-driven, pedagogically explicit, longitudinal designs covering broader motivational constructs](future-ai-motivation-research-recommendations.md)
 - [Complement lesson study with a theoretical perspective on learning so teachers can plan individually with the theory](complement-lesson-study-with-theoretical-perspective.md)
+- [Examine the causal relationship between arts involvement and academic performance with experimental designs controlling for IQ and motivation](experimental-design-arts-transfer-causality.md)
 
 ## Examples
 -

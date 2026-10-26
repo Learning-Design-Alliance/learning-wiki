@@ -53,3 +53,5 @@ The review reports two recent within-person experimental studies (citing Breitwi
 - [In Experiment 1, a five-trial metacognitive prediction-plus-feedback intervention significantly reduced reminder bias, producing more optimal reminder-setting behaviour](metacognitive-feedback-reduces-reminder-bias.md) — related
 - [Effort avoidance contributes to reminder overuse beyond metacognitive error](effort-avoidance-reminder-bias.md) — related
 - [Older adults show reduced reminder bias relative to objective need despite setting more reminders](ageing-reminder-bias-reduced.md) — related
+- [Lower secondary students are more likely to study vocabulary on days they receive a smartphone study reminder than on days they do not](reminder-days-boost-same-day-study-probability.md) — related
+- [The short-term effect of study reminders on same-day studying increased over the study period](reminder-effect-increases-over-time.md) — a narrower finding that bears on this claim

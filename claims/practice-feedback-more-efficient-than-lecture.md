@@ -70,3 +70,4 @@ Study 2 estimated efficiency via an imputation procedure (1000 resampled dataset
 - [Learners judge explanatory feedback as more effective preparation than correct-response feedback, in both studies](explanatory-feedback-judged-more-effective-than-correct-response.md) — related
 - [Students rated ChatGPT highly for completing activities more quickly, among the highest-scoring survey items in both courses](chatgpt-rated-high-for-speed-of-completion.md) — related
 - [Preservice educators rate generative AI highest for logistical support (time saving, clarity, organizing thought) and lowest for epistemic trust, accuracy and consistency](preservice-educators-rate-ai-logistics-high-trust-low.md) — related
+- [Learning through feedback, especially when corrective, significantly boosts learning efficiency](corrective-feedback-boosts-learning-efficiency.md) — a narrower finding that bears on this claim

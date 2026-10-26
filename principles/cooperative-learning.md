@@ -13,7 +13,7 @@ generated:
 # Cooperative Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 32 claims (13 for, 19 mixed) · 31 studies (12 quant-synthesis, 11 causal, 5 review, 2 design, 1 qualitative), `q2`–`q4` · 12 of 31 report an effect size · 25 claims rest on one study
+> **Evidence** · 33 claims (13 for, 20 mixed) · 32 studies (12 quant-synthesis, 11 causal, 5 review, 2 design, 1 associational, 1 qualitative), `q2`–`q4` · 12 of 32 report an effect size · 26 claims rest on one study
 
 ## Conditional relationship
 
@@ -103,6 +103,7 @@ Immediate group performance, individual achievement at the end of a unit, delaye
 - [Individual rewards yield significant mCSCL effects while group reward methods do not](../claims/mcscl-individual-rewards-significant.md) [~W]
 - [Individualized instruction shows low effects compared to cooperative and collaborative learning](../claims/individualized-instruction-low-effects-versus-collaborative.md) [+W]
 - [Students explain effective and ineffective cooperative learning mainly by instructional conditions: type of task, teacher, and group composition are the most frequently mentioned factors](../claims/instructional-conditions-explain-cl-quality.md) [~W]
+- [High-school students in cooperative learning appear on-task about 60% of the time, off-task 11%, and idle 13%](../claims/on-task-60-percent-cooperative-learning.md) [~W]
 
 ## Related Principles
 

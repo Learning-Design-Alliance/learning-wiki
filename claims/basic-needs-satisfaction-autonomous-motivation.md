@@ -60,3 +60,4 @@ Meta-analysis reported in the self-determination theory section "confirmed that 
 - [In EERs, autonomy, competence, and relatedness are each supported by specific design features per self-determination theory](eer-sdt-needs-design-features.md) — a narrower finding that bears on this claim
 - [Self-determination theory grew incrementally by adding mini-theories as evidence accumulated](sdt-grew-brick-by-brick.md) — related
 - [Autonomous motivation is the strongest positive predictor of hedonic teacher wellbeing (ρ = .83)](autonomous-motivation-strongest-hedonic-predictor.md) — related
+- [In the AI motivation network with correlates, autonomy need satisfaction was strongly related to competence need satisfaction](autonomy-competence-satisfaction-strong-edge-ai.md) — related

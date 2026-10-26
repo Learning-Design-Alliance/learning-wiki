@@ -33,7 +33,6 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
 > **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
-> **Design limits** · Peadar Donohoe and Carmel O’Sullivan 2015: the intervention came bundled with another change · Peadar Donohoe and Carmel O’Sullivan 2015 (2): groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Teachers in both strands reported that discussions following the role-plays were a positive strategy for talking about feelings and fostering empathy. [→ Peadar Donohoe and Carmel O’Sullivan 2015](#peadar-donohoe-and-carmel-osullivan-2015)

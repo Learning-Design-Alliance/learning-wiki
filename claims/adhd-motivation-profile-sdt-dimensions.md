@@ -55,3 +55,5 @@ SMS-15 questionnaire comparison of the 30 ADHD and 30 TD children; the article r
 - [Chinese ESP learners in this sample were motivated in a mixed manner, and 'certificate motivation' was not supported](mixed-motivation-certificate-not-supported.md) — related
 - [An SDT-based questionnaire yields seven distinct, reliable motivation subtypes for Chinese college ESP learners](sdt-seven-factor-esp-motivation-structure.md) — related
 - [Students' motivation in physical education combines into three distinct profiles: self-determined, non self-determined, and moderate levels of both types](three-motivational-profiles-pe-cluster-analysis.md) — related
+- [Intrinsic motivation ranks among the lowest-centrality factors in students' AI motivational system](intrinsic-motivation-low-centrality-ai.md) — related
+- [Introjected regulation is the most central node in university students' AI motivational system](introjected-regulation-central-ai-motivation.md) — related

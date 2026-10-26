@@ -150,3 +150,5 @@ Meta-analysis (subset 1) aggregating 39 effect sizes from studies comparing spac
 - [Spaced quizzing increases end-of-semester retention of calculus learning objectives relative to massed quizzing](spacing-increases-calculus-retention.md) — a narrower finding that bears on this claim
 - [Spaced quizzing reduces overall performance on calculus practice quizzes relative to massed quizzing](spacing-reduces-quiz-practice-performance.md) — related
 - [Distributing drill repetitions in time gives better learning results than making many repetitions in succession](distributed-drill-repetitions-better-than-succession.md) — a narrower finding that bears on this claim
+- [Distributed (spaced) learning is reported to work best compared with massed study in one long session](distributed-practice-beats-cramming-principle.md) — related
+- [LTP exhibits electrophysiological properties that make it an attractive candidate memory mechanism, including rapid induction, persistence up to at least a year, and greater persistence with spaced than massed induction protocols](ltp-properties-attractive-memory-mechanism.md) — related

@@ -13,7 +13,7 @@ generated:
 # Act It Out
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 21 claims (15 for, 4 mixed, 2 against) · 28 studies (14 causal, 6 review, 5 quant-synthesis, 3 theoretical), `q1`–`q4` · 6 of 28 report an effect size · 17 claims rest on one study
+> **Evidence** · 22 claims (15 for, 5 mixed, 2 against) · 29 studies (14 causal, 6 review, 5 quant-synthesis, 3 theoretical, 1 design), `q1`–`q4` · 6 of 29 report an effect size · 18 claims rest on one study
 
 ## Description
 Act It Out asks learners to physically perform a concept, process, historical event, social interaction, or procedure rather than only describe or discuss it. Learners take on roles, gesture abstract relationships, or simulate a system's behavior with their bodies, producing an enactive representation of the content that complements verbal and visual encoding.
@@ -69,6 +69,7 @@ Enactment leverages the self-performed, embodied encoding of content: motor enga
 - [Most children taught with movements spontaneously use movements when naming letter-sounds, unlike non-motor-taught children](../claims/movement-use-during-letter-sound-test.md) [+W]
 - [The Perform First Hypothesis proposes direct sensorimotor action early in expertise and observing, imagining, or abstract representations later](../claims/perform-first-hypothesis-zhang-2026.md) [+W]
 - [Observing and producing gestures can enhance comprehension of verbal messages including narratives](../claims/gesture-enhances-verbal-comprehension-established.md) [+W]
+- [Future research should test efficacy of the embodied activities with knowledge tests rather than self-reported impressions](../claims/future-research-knowledge-tests-for-embodied-activities.md) [~W]
 
 ## The evidence by question
 

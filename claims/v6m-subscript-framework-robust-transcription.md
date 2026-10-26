@@ -69,3 +69,4 @@ Section 5.5 analysis of video 9's stacked subscripts: in the first transcription
 - [Successful transcriptions of videos using Dirac notation, eigenstate derivations, and vector calculus indicate generalized capability beyond introductory physics](transcription-capability-beyond-introductory-physics.md) — a broader claim this one bears on
 - [The v6m workflow produced compilations passing PDF/UA-2 and ISO 32005 validation in 16 of 17 successive transcription tests across 16 videos](v6m-workflow-16-of-17-validation-passes.md) — related
 - [Abandoning preamble coding macros in favor of amsmath, unicode-math, and siunitx enabled successive error-free transcriptions](minimalist-preamble-enabled-error-free-transcription.md) — related
+- [The article-centric PDF record constrains how research is validated, reused, and evaluated](paper-format-limits-validation-reuse.md) — related

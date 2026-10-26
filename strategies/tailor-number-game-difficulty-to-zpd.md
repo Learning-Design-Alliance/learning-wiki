@@ -44,6 +44,7 @@ The article recommends that future number-line interventions provide a tailored 
 ## Related Strategies
 
 - [Tailor math-talk interventions to children's inhibitory control levels rather than uniformly encouraging all parents to talk more about math](tailor-math-input-to-inhibitory-control.md)
+- [Match language exercise difficulty to the child's assessed receptive and expressive phenotype level](phenotype-matched-language-exercises.md)
 
 ## Examples
 -

@@ -51,3 +51,4 @@ Nonparametric Kruskal-Wallis tests comparing L2 participants' (n = 23) reading o
 - [After eight encounters in reading, L2 learners recognize the form and meaning of unknown words better than they can recall their meaning](eight-encounters-form-meaning-recognition-exceed-recall.md) — related
 - [Eye tracking can identify which words a second-language reader had trouble understanding](eye-tracking-identifies-difficult-words-l2-reading.md) — related
 - [Lexical simplification (high-frequency target words) substantially reduces word-level processing times in adult sentence reading](lexical-simplification-reduces-target-word-processing.md) — related
+- [L1 and L2 readers achieve comparable reading comprehension accuracy, though L2 readers read more slowly with more fixations](l2-comparable-accuracy-longer-reading-time.md) — related

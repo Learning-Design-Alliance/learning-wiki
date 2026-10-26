@@ -54,7 +54,8 @@ The review proposes that impairments in multisensory integration and temporal pr
 - [Children with specific language impairment show reduced selective attention to and integration of audiovisual speech](../claims/sli-reduced-audiovisual-speech-attention-integration.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Design auditory-cognitive trainings with natural, relatable speech material and multisensory presentation to target far transfer to real-world listening](naturalistic-multisensory-act-design-strategy.md)
 
 ## Examples
 -

@@ -41,6 +41,7 @@ The guide's third recommendation targets students' academic performance through 
 - [Implement programs to improve students' classroom behavior and social skills](behavior-social-skills-programs-strategy.md)
 - [Personalize the learning environment and instructional process to foster belonging](personalize-learning-environment-belonging-strategy.md)
 - [Provide rigorous and relevant instruction connecting academics to postsecondary options](rigorous-relevant-instruction-postsecondary-strategy.md)
+- [Target recovery resources to low-performing students via tutoring and high-quality enrichment](target-recovery-tutoring-enrichment-low-performers.md)
 
 ## Examples
 -

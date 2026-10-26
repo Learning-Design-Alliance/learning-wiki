@@ -50,3 +50,4 @@ The paper reports, citing Flanigan et al. (2024), a meta-analysis of twenty-four
 - [A meta-analysis of 20 studies found a large effect (Hedges' g = 0.871) for CTA use in training design](cta-training-design-meta-analysis-large-effect.md) — related
 - [Laptop versus longhand note-taking effects are mixed: typing benefited memory in some studies but longhand benefited conceptual questions in others](laptop-longhand-divergent-effects.md) — related
 - [Test format and timing moderate note-taking effects: congruent note-taking and testing modalities improved performance, and transcribed notes won only at immediate test](test-format-timing-moderate-note-taking-effects.md) — related
+- [Taking notes by hand is reported as superior to using laptops for learning](handwritten-notes-superior-laptop-notes.md) — a narrower finding that bears on this claim

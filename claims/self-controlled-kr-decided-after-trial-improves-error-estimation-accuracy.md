@@ -74,3 +74,4 @@ Self versus yoked post hoc comparisons on retention AD in the same experiment: b
 - [On a motor transfer test, self-controlled knowledge-of-results groups estimated their outcomes more accurately than yoked groups, and among self-controlled groups Self-After and Self-Both were more accurate than Self-Before.](self-controlled-kr-groups-estimate-transfer-outcomes-more-accurately-than-yoked.md) — related
 - [Guiding questions and student control over video movement improve learning outcomes and satisfaction](guiding-questions-and-video-control-improve-learning.md) — related
 - [Self-rating word-knowledge responses admitted marked over-estimation, prompting a response format requiring students to name the field of knowledge of each word](self-rating-overestimation-word-knowledge.md) — related
+- [Participants who reported higher subjective performance showed significantly greater motor performance gains](subjective-performance-correlates-gains.md) — related
