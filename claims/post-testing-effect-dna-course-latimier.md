@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2019
+source_checked: 2026-10-26
 sources:
   - id: latimier-2019
     resource: "https://doi.org/10.1038/s41539-019-0053-1"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
-> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2019 · checked against its sources 2026-10-26 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Reading then quizzing yielded significantly better final performance on trained questions than reading twice (post-testing effect, d = 0.74). [→ Latimier 2019](#latimier-2019)

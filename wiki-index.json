@@ -12731,13 +12731,14 @@
 "type":"claim"
 },
 {
-"description":"AI applications positively support learners' attitudes, motivation, and self-efficacy in the forethought phase, but self-efficacy gains were inconsistent for students with initially low self-efficacy",
+"description":"A qualitative review reports that AI applications supported learners' attitudes, motivation and self-efficacy in the forethought phase, but self-efficacy gains were inconsistent across studies, and students with initially low self-efficacy often struggled to use the tools",
 "evidence_strength":"mixed",
 "id":"ai-forethought-phase-mixed-self-efficacy",
 "newest_evidence":"2025",
 "path":"claims/ai-forethought-phase-mixed-self-efficacy.md",
+"source_checked":"2026-10-26",
 "status":"review",
-"title":"AI applications positively support learners' attitudes, motivation, and self-efficacy in the forethought phase, but self-efficacy gains were inconsistent for students with initially low self-efficacy",
+"title":"A qualitative review reports that AI applications supported learners' attitudes, motivation and self-efficacy in the forethought phase, but self-efficacy gains were inconsistent across studies, and students with initially low self-efficacy often struggled to use the tools",
 "type":"claim"
 },
 {
@@ -14453,6 +14454,7 @@
 "id":"ai-performance-phase-benefits-and-drawbacks",
 "newest_evidence":"2025",
 "path":"claims/ai-performance-phase-benefits-and-drawbacks.md",
+"source_checked":"2026-10-26",
 "status":"review",
 "title":"In the performance phase, AI tools helped learners organize tasks and supported metacognitive monitoring, but sometimes inaccurately reflected tasks and lacked in-depth responses",
 "type":"claim"
@@ -22290,6 +22292,7 @@
 "id":"asrt-implicit-sl-robust-both-studies",
 "newest_evidence":"2024",
 "path":"claims/asrt-implicit-sl-robust-both-studies.md",
+"source_checked":"2026-10-26",
 "status":"review",
 "title":"Participants showed robust implicit statistical learning and general skill learning on the ASRT task in both studies",
 "type":"claim"
@@ -153772,6 +153775,7 @@
 "id":"long-offline-general-skill-12h-not-week",
 "newest_evidence":"2021",
 "path":"claims/long-offline-general-skill-12h-not-week.md",
+"source_checked":"2026-10-26",
 "status":"review",
 "title":"Offline change in general skill between sessions 12 h apart was significant, but between sessions a week apart was not",
 "type":"claim"
@@ -205993,6 +205997,7 @@
 "id":"post-testing-effect-dna-course-latimier",
 "newest_evidence":"2019",
 "path":"claims/post-testing-effect-dna-course-latimier.md",
+"source_checked":"2026-10-26",
 "status":"review",
 "title":"Post-testing after reading produces a large retention benefit over re-reading at a 7-day delay (d = 0.74 on trained questions)",
 "type":"claim"
@@ -281215,6 +281220,7 @@
 "id":"torr-predicts-creative-engineering-design",
 "newest_evidence":"2016",
 "path":"claims/torr-predicts-creative-engineering-design.md",
+"source_checked":"2026-10-26",
 "status":"review",
 "title":"Higher TORR scores, especially antinomy, predict more creative engineering design solutions",
 "type":"claim"

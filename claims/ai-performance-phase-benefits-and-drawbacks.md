@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: mixed
 newest_evidence: 2025
+source_checked: 2026-10-26
 sources:
   - id: min-lan-xiaofeng-zhou-2025
     resource: "https://doi.org/10.1038/s41539-025-00319-0"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-10-26 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` AI tools were positively received for helping learners organize tasks and contributing to metacognitive monitoring of learning progress, but some studies reported tools did not always accurately reflect tasks, causing confusion. [→ Min Lan & Xiaofeng Zhou 2025](#min-lan-xiaofeng-zhou-2025)

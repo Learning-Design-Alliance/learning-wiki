@@ -40,7 +40,7 @@ The review calls for balanced AI integration in higher education SRL support, "e
 
 ## Claims
 
-- [AI applications positively support learners' attitudes, motivation, and self-efficacy in the forethought phase, but self-efficacy gains were inconsistent for students with initially low self-efficacy](../claims/ai-forethought-phase-mixed-self-efficacy.md) [~M]
+- [A qualitative review reports that AI applications supported learners' attitudes, motivation and self-efficacy in the forethought phase, but self-efficacy gains were inconsistent across studies, and students with initially low self-efficacy often struggled to use the tools](../claims/ai-forethought-phase-mixed-self-efficacy.md) [~M]
 - [Self-efficacy moderates the mediating role of SRL between school belonging and mastery, with the strongest mediation for low-efficacy students](../claims/moderated-mediation-belonging-srl-efficacy.md) [~M]
 - [Only 3 of 14 AI applications in the reviewed studies provided comprehensive support across all three phases of Zimmerman's SRL model](../claims/ai-srl-few-apps-support-all-three-phases.md) [~M]
 

@@ -45,6 +45,6 @@ The review's cross-application synthesis (Fig. 3). It reports that "Evaluation s
 
 
 ## Related Claims
-- [AI applications positively support learners' attitudes, motivation, and self-efficacy in the forethought phase, but self-efficacy gains were inconsistent for students with initially low self-efficacy](ai-forethought-phase-mixed-self-efficacy.md) — related
+- [A qualitative review reports that AI applications supported learners' attitudes, motivation and self-efficacy in the forethought phase, but self-efficacy gains were inconsistent across studies, and students with initially low self-efficacy often struggled to use the tools](ai-forethought-phase-mixed-self-efficacy.md) — related
 - [Only 3 of 14 AI applications in the reviewed studies provided comprehensive support across all three phases of Zimmerman's SRL model](ai-srl-few-apps-support-all-three-phases.md) — related
 - [Chatbots were the most frequently used AI application type for supporting SRL, followed by evaluation systems](chatbots-most-common-ai-srl-application.md) — related

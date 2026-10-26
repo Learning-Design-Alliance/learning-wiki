@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "AI applications positively support learners' attitudes, motivation, and self-efficacy in the forethought phase, but self-efficacy gains were inconsistent for students with initially low self-efficacy"
-description: "AI applications positively support learners' attitudes, motivation, and self-efficacy in the forethought phase, but self-efficacy gains were inconsistent for students with initially low self-efficacy"
+title: "A qualitative review reports that AI applications supported learners' attitudes, motivation and self-efficacy in the forethought phase, but self-efficacy gains were inconsistent across studies, and students with initially low self-efficacy often struggled to use the tools"
+description: "A qualitative review reports that AI applications supported learners' attitudes, motivation and self-efficacy in the forethought phase, but self-efficacy gains were inconsistent across studies, and students with initially low self-efficacy often struggled to use the tools"
 id: ai-forethought-phase-mixed-self-efficacy
 status: review
 generated:
@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: mixed
 newest_evidence: 2025
+source_checked: 2026-10-26
 sources:
   - id: min-lan-xiaofeng-zhou-2025
     resource: "https://doi.org/10.1038/s41539-025-00319-0"
@@ -20,14 +21,14 @@ sources:
     rigour: 2
 ---
 
-# AI applications positively support learners' attitudes, motivation, and self-efficacy in the forethought phase, but self-efficacy gains were inconsistent for students with initially low self-efficacy
+# A qualitative review reports that AI applications supported learners' attitudes, motivation and self-efficacy in the forethought phase, but self-efficacy gains were inconsistent across studies, and students with initially low self-efficacy often struggled to use the tools
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-10-26 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
-`q2 i?` In the forethought phase, AI applications positively impacted learning attitudes, motivation, and self-efficacy, yet students with initially low self-efficacy often struggled to leverage AI tools effectively. [→ Min Lan & Xiaofeng Zhou 2025](#min-lan-xiaofeng-zhou-2025)
+`q2 i?` In the forethought phase, AI applications positively impacted learning attitudes, motivation, and self-efficacy, but self-efficacy gains were not consistent across studies; the review gives students with initially low self-efficacy, who often struggled to leverage AI tools effectively, as one example. [→ Min Lan & Xiaofeng Zhou 2025](#min-lan-xiaofeng-zhou-2025)
 
 ## Evidence
 

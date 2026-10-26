@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: weak
 newest_evidence: 2021
+source_checked: 2026-10-26
 sources:
   - id: romain-quentin-2021
     resource: "https://doi.org/10.1038/s41539-021-00093-9"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2021 · checked against its sources 2026-10-26 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In Experiment 1, offline general skill change between sessions 12 h apart was significant (d = 0.46); in Experiment 3, change between sessions a week apart was not significant. [→ Romain Quentin 2021](#romain-quentin-2021)
