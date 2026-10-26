@@ -13,7 +13,7 @@ generated:
 # Affect Regulation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 196 claims (142 show a difference, 36 mixed, 18 no difference) · 125 studies (46 associational, 25 causal, 23 review, 10 qualitative, 9 quant-synthesis, 8 theoretical, 4 design), `q1`–`q4` · 30 of 125 report an effect size · 190 claims rest on one study
+> **Evidence** · 197 claims (142 show a difference, 37 mixed, 18 no difference) · 126 studies (47 associational, 25 causal, 23 review, 10 qualitative, 9 quant-synthesis, 8 theoretical, 4 design), `q1`–`q4` · 31 of 126 report an effect size · 191 claims rest on one study
 
 ## Description
 What a learner does with frustration, anxiety and failure while the work is still in front of them. It decides whether a hard check needs a recoverable framing and how failure is surfaced. Anxiety is not only unpleasant — it consumes the same working memory the task needs, so it degrades performance through a mechanism entirely separate from motivation [-M]. Naming an emotion measurably reduces its grip, which is why the strategies here look unexpectedly linguistic.
@@ -236,6 +236,7 @@ What a learner does with frustration, anxiety and failure while the work is stil
 - [HF-HRV moderates the link between math anxiety and in-the-moment anxiety, but self-report emotion regulation measures do not](../claims/hf-hrv-moderates-state-anxiety-link.md) [~M] — an instructional effect differs with it
 - [Math anxiety negatively correlates with math performance, controlling for general anxiety and word task performance](../claims/math-anxiety-underperformance-partial-correlation-daker-2023.md) [+M] — learners who differ on it differ in outcomes
 - [Math-related state anxiety mediates about one-third of the math anxiety-performance link](../claims/state-anxiety-mediation-partial-explanation.md) [+W] — learners who differ on it differ in outcomes
+- [Non-learners show higher state anxiety than learners, but trait anxiety does not differ between groups](../claims/non-learners-higher-state-anxiety-trait-unchanged.md) [~M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 

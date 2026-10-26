@@ -48,6 +48,7 @@ The review's challenges section recommends that institutions implementing gamifi
 - [CEO Forum recommendations: prepare and certify teachers for technology integration across pre-service, licensure, and in-service career stages](ceoforum-teacher-tech-integration-recommendations.md)
 - [Prepare educational staff early for digital transformation competency and train teachers to select and use appropriate communication technology tools](early-staff-preparation-digital-competency-training.md)
 - [Pursue continuous collaboration between digital learning platform providers and school districts, with teacher training, to interconnect platform use with instruction](provider-district-collaboration-for-dlp-use.md)
+- [Use regulated, supervised interactive tablet games as a low-cost stimulation support for early childhood educators](regulated-tablet-games-early-educator-support.md)
 
 ## Examples
 -

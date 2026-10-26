@@ -44114,5 +44114,253 @@
  "simulation\tdigitalized simulations and hands-on demonstrations\tnon-simulation assessment": {
   "label": "simulation-based assessment vs non-simulation assessment",
   "treatment_is_a": true
+ },
+ "active-learning\tactive learning\tpassive learning": {
+  "label": "active learning vs passive learning",
+  "treatment_is_a": true
+ },
+ "active-learning\tcollaborative peer interaction\tbefore-interaction baseline": {
+  "label": "peer interaction vs no peer interaction",
+  "treatment_is_a": true
+ },
+ "active-learning\tcollaborative peer interaction\tpre-interaction assessment": {
+  "label": "peer interaction vs no peer interaction",
+  "treatment_is_a": true
+ },
+ "active-learning\tcollaborative peer interaction and argumentation\tpre-interaction baseline": {
+  "label": "argumentation-based peer interaction vs no peer interaction",
+  "treatment_is_a": true
+ },
+ "active-learning\tcollaborative peer interaction with a more knowledgeable peer\treviewing the topic and drawing task alone": {
+  "label": "peer interaction with a more knowledgeable peer vs individual study",
+  "treatment_is_a": true
+ },
+ "active-learning\tinteractive engagement\tconstructive engagement": {
+  "label": "constructive engagement vs interactive engagement",
+  "treatment_is_a": false
+ },
+ "active-learning\tpassive activities\tactive activities": {
+  "label": "active learning vs passive learning",
+  "treatment_is_a": false
+ },
+ "active-learning\tpassive activity\tactive activity": {
+  "label": "active learning vs passive learning",
+  "treatment_is_a": false
+ },
+ "active-learning\tpassive learning\tactive learning": {
+  "label": "active learning vs passive learning",
+  "treatment_is_a": false
+ },
+ "active-learning\tpeer interaction with a more knowledgeable peer\tpre-interaction baseline": {
+  "label": "peer interaction with a more knowledgeable peer vs no peer interaction",
+  "treatment_is_a": true
+ },
+ "active-learning\tstudent-centred hands-on moth-hunting activity\tteacher-centred PowerPoint moth lesson": {
+  "label": "active learning vs passive learning",
+  "treatment_is_a": true
+ },
+ "active-learning\tteacher-centred PowerPoint moth lesson\tstudent-centred hands-on moth-hunting lesson": {
+  "label": "active learning vs passive learning",
+  "treatment_is_a": false
+ },
+ "active-learning\tteacher-centred PowerPoint natural-selection lesson\tstudent-centred hands-on moth-hunting lesson": {
+  "label": "active learning vs passive learning",
+  "treatment_is_a": false
+ },
+ "active-learning\tteacher-centred PowerPoint plus non-human trilobite sequence\tstudent-centred moth-hunting plus non-human trilobite sequence": {
+  "label": "active learning vs passive learning",
+  "treatment_is_a": false
+ },
+ "active-learning\tteacher-centred/non-human scheme (SoW 3)\tstudent-centred/non-human scheme (SoW 1)": {
+  "label": "active learning vs passive learning",
+  "treatment_is_a": false
+ },
+ "explicit-instruction\tExplicit-Assist task\tNo-Explicit-Assist task": {
+  "label": "explicit instruction/assistance vs no explicit instruction/assistance",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tExplicit-Assist task with the predictive dimension disclosed\tNo-Explicit-Assist task without disclosure of the predictive dimension": {
+  "label": "explicit instruction/assistance vs no explicit instruction/assistance",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\taccuracy instruction\tspeed instruction": {
+  "label": "speed instruction vs accuracy instruction",
+  "treatment_is_a": false
+ },
+ "explicit-instruction\tdirect instruction\tself-learning materials": {
+  "label": "direct instruction vs self-learning materials",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tprior speed instruction during learning\tprior accuracy instruction during learning": {
+  "label": "speed instruction vs accuracy instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tspeed instruction\taccuracy instruction": {
+  "label": "speed instruction vs accuracy instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tspeed instruction during initial learning\taccuracy instruction during initial learning": {
+  "label": "speed instruction vs accuracy instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tspeed instruction during learning\taccuracy instruction during learning": {
+  "label": "speed instruction vs accuracy instruction",
+  "treatment_is_a": true
+ },
+ "feedback-type\treliable social feedback via dynamic videos\tsymbolic feedback via a static image": {
+  "label": "social feedback vs symbolic feedback",
+  "treatment_is_a": true
+ },
+ "media-design\tNo Information visual representation\tcategorical visual representation": {
+  "label": "categorical visual representation vs no-information visual representation",
+  "treatment_is_a": false
+ },
+ "media-design\tgraphical visual cues showing intervals as distances\tno-information visual cues": {
+  "label": "distance-based graphical visual cues vs no-information visual cues",
+  "treatment_is_a": true
+ },
+ "media-design\tgraphical visual representation\tNo Information visual representation": {
+  "label": "graphical visual representation vs no-information visual representation",
+  "treatment_is_a": true
+ },
+ "media-design\tgraphical visual representation\tcategorical visual representation": {
+  "label": "graphical visual representation vs categorical visual representation",
+  "treatment_is_a": true
+ },
+ "media-design\tgraphical visual representation showing intervals as distances between lines\tno-information visual representation": {
+  "label": "distance-based graphical visual representation vs no-information visual representation",
+  "treatment_is_a": true
+ },
+ "media-design\tgraphical visual rhythm representation\tcategorical visual rhythm representation": {
+  "label": "graphical visual rhythm representation vs categorical visual rhythm representation",
+  "treatment_is_a": true
+ },
+ "media-design\tgraphical visual rhythm representation\tno-information visual representation": {
+  "label": "graphical visual rhythm representation vs no-information visual rhythm representation",
+  "treatment_is_a": true
+ },
+ "media-design\tgraphical visual timing cues\tcategorical visual cues": {
+  "label": "graphical visual timing cues vs categorical visual cues",
+  "treatment_is_a": true
+ },
+ "media-design\tgraphical visual timing cues\tno-information and categorical visual cues": {
+  "label": "graphical visual timing cues vs no-information and categorical visual cues",
+  "treatment_is_a": true
+ },
+ "media-design\tgraphical visual timing cues\tno-information visual cues": {
+  "label": "graphical visual timing cues vs no-information visual cues",
+  "treatment_is_a": true
+ },
+ "media-design\tgraphical visual timing cues showing intervals as distances between lines\tno-information visual cues": {
+  "label": "distance-based graphical visual timing cues vs no-information visual cues",
+  "treatment_is_a": true
+ },
+ "media-design\tsocial video context\tnon-social video context": {
+  "label": "social video context vs non-social video context",
+  "treatment_is_a": true
+ },
+ "media-design\tteacher’s face visible during interactive learning\tteacher’s face not visible during interactive learning": {
+  "label": "teacher face visible vs teacher face not visible",
+  "treatment_is_a": true
+ },
+ "practice-amount\thigher Cyrillic handwriting automation\tlower Cyrillic handwriting automation": {
+  "label": "higher handwriting automation vs lower handwriting automation",
+  "treatment_is_a": true
+ },
+ "practice-amount\thigher grade and greater handwriting automation\tlower grade and less handwriting automation": {
+  "label": "higher grade and greater handwriting automation vs lower grade and less handwriting automation",
+  "treatment_is_a": true
+ },
+ "practice-amount\thigher years of Cyrillic handwriting practice\tlower years of Cyrillic handwriting practice": {
+  "label": "more years of Cyrillic handwriting practice vs fewer years of Cyrillic handwriting practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\tmore Cyrillic practice supporting Latin handwriting\tless Cyrillic practice supporting Latin handwriting": {
+  "label": "more Cyrillic practice supporting Latin handwriting vs less Cyrillic practice supporting Latin handwriting",
+  "treatment_is_a": true
+ },
+ "practice-amount\tmore repetitions\tfewer repetitions": {
+  "label": "more repetitions vs fewer repetitions",
+  "treatment_is_a": true
+ },
+ "practice-amount\tmore repetitions of the rhythm\tfewer repetitions of the rhythm": {
+  "label": "more repetitions vs fewer repetitions",
+  "treatment_is_a": true
+ },
+ "practice-amount\tmore years of Cyrillic handwriting practice\tfewer years of Cyrillic handwriting practice": {
+  "label": "more years of Cyrillic handwriting practice vs fewer years of Cyrillic handwriting practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\tsecond gameplay after a long retention interval\tfirst gameplay after the same retention interval": {
+  "label": "more gameplay practice vs less gameplay practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\tsecond gameplay after a retention interval\tfirst gameplay after the same retention interval": {
+  "label": "more gameplay practice vs less gameplay practice",
+  "treatment_is_a": true
+ },
+ "prompts\tvideo watching with an observation assignment\tvideo watching without an observation assignment": {
+  "label": "video watching with an observation assignment vs video watching without an observation assignment",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tCounting Days grading incentive\tCounting Questions grading incentive": {
+  "label": "Counting-days rewards vs counting-questions rewards",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tCounting Days points for practice days\tCounting Questions points per question": {
+  "label": "Counting-days rewards vs counting-questions rewards",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tCounting Days points per active day\tCounting Questions points per question": {
+  "label": "Counting-days rewards vs counting-questions rewards",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tCounting Days: points for each active practice day\tCounting Questions: points per practice question": {
+  "label": "Counting-days rewards vs counting-questions rewards",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tCounting Days: points for each day with at least ten correctly answered practice questions\tCounting Questions: points awarded per practice question": {
+  "label": "Counting-days rewards vs counting-questions rewards",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tcounting days incentive\tcounting questions incentive": {
+  "label": "Counting-days rewards vs counting-questions rewards",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\texplicit operant training with rewards for correct responses\tincidental-condition learning": {
+  "label": "Rewarded operant training vs incidental learning",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tpoints for each active practice day\tpoints for each practice question": {
+  "label": "Counting-days rewards vs counting-questions rewards",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tpoints for each day of practice\tpoints for each practice question": {
+  "label": "Counting-days rewards vs counting-questions rewards",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tpoints for each day with at least ten correctly answered practice questions\tpoints awarded per practice question": {
+  "label": "Counting-days rewards vs counting-questions rewards",
+  "treatment_is_a": true
+ },
+ "simulation\tablation of potentiated engram neurons\tunaltered model": {
+  "label": "engram ablation vs unaltered model",
+  "treatment_is_a": true
+ },
+ "spacing\tlong retention interval before the next session\tlast gameplay before the interval": {
+  "label": "delayed vs immediate assessment",
+  "treatment_is_a": true
+ },
+ "spacing\tlonger retention interval (400 days)\tshorter retention interval (100 days)": {
+  "label": "longer vs shorter gaps",
+  "treatment_is_a": true
+ },
+ "spacing\tpractice spaced over more days with the same total questions\tpractice over fewer days with the same total questions": {
+  "label": "spaced vs massed",
+  "treatment_is_a": true
+ },
+ "test-format\tstandardized test-based assessment and ability grouping\tassessment approaches not imposing a standardized ability hierarchy": {
+  "label": "standardized, ability-grouping assessment vs non-standardized, non-hierarchical assessment",
+  "treatment_is_a": true
  }
 }

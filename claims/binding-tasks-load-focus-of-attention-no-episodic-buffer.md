@@ -51,3 +51,4 @@ Correlational analysis of the three binding tasks with other working memory task
 - Central executive and focus of attention factors were highly correlated but statistically distinct, warranting separate factors in young children — related
 - [The focus of attention factor was the only significant predictor of both fluid reasoning and visual processing intelligence when all three working memory factors were entered](focus-of-attention-predicts-gf-gv-children.md) — related
 - [The episodic buffer integrates multimodal representations from WM components and long-term memory, which is important for learning](episodic-buffer-multimodal-integration-learning.md) — reports the opposite
+- [The absence of a load effect may reflect cross-modality design: visual load may spare auditory resources, and load was not sustained to full capacity](cross-modality-load-limitation-statistical-learning.md) — related

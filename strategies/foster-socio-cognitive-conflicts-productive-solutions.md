@@ -50,6 +50,7 @@ Arguing that socio-cognitive conflicts and productive friction are indispensable
 ## Related Strategies
 
 - [Prevent closely knit homogeneous-attitude communities to reduce bias by increasing productive friction](prevent-homogeneous-communities-increase-productive-friction.md)
+- [Leverage naturally occurring knowledge differences in the classroom to elicit socio-cognitive conflict through collaborative argumentation tasks](peer-argumentation-leveraging-classroom-knowledge-differences.md)
 
 ## Examples
 -

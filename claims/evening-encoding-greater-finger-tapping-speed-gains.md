@@ -51,3 +51,8 @@ Randomized parallel-group experiment (25 per group) on a five-element finger-tap
 - [Polysomnographic sleep parameters did not differ between afternoon- and evening-trained groups and did not correlate with memory consolidation measures](sleep-parameters-no-group-differences-no-correlations.md)
 - [Adolescents trained on word pairs in the afternoon show higher word-pair retention after 24 hours than evening-trained adolescents, but the difference is not sustained at 7 days](afternoon-encoding-higher-word-pair-retention-24h.md) — related
 - [Participants improved tapping speed from the first block to the block where 95% of learning was achieved (d = −1.72)](early-motor-learning-improvement-large-effect.md) — related
+- [Twenty-four-hour consolidation of motor skill differs according to the time of day of training, with deterioration in the morning, stabilization in the afternoon, and improvement in the evening](consolidation-depends-on-training-time-of-day.md) — related
+- [Skill consolidation after evening training is comparable when retested 2 h versus 12 h after waking, independent of time awake the day after training](consolidation-independent-of-waking-time-day-after.md) — related
+- [Skill acquisition during a finger-tapping training session does not differ according to time of day of training](motor-acquisition-independent-of-time-of-day.md) — related
+- [Mere passage of time awake after evening training does not produce offline skill improvement; the night of sleep is the key factor](passage-of-time-awake-does-not-consolidate.md) — related
+- [The evening group's 24 h skill improvement reflects offline learning rather than a simple continuation of practice](evening-offline-gain-exceeds-practice-continuation.md) — related

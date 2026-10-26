@@ -70,3 +70,4 @@ Pairwise cue comparisons for the control group in the same attention orientation
 - [The four-way interaction between cue, group, display type and difficulty was significant, with group differences largest for uncued crowded stimuli](four-way-cue-group-display-difficulty-interaction.md) — related
 - [Pre-cues and post-cues eliminate set size effects for controls but not for adults with dyslexia](cues-eliminate-set-size-controls-not-awd.md) — related
 - [AwD showed significant set size effects in uncued conditions alongside difficulty effects, unlike controls](awd-uncued-setsize-difficulty-effects.md) — related
+- [Adults with dyslexia show heightened decay rates than controls in complex learning settings, indicating quicker discounting of learned associations](dyslexia-heightened-decay-rates.md) — related

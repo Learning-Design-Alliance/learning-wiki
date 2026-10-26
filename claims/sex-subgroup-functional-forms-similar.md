@@ -55,3 +55,4 @@ Sex subgroup analyses on the full PSID-CDS age range: cubic fit best for both se
 - [When PSID-CDS data are restricted to ages 6–11, backward digit span growth is best characterized by a quadratic (not cubic) function](quadratic-best-fit-restricted-age-range.md) — related
 - [ACE-outcome associations did not differ between girls and boys](no-gender-differences-ace-associations.md) — related
 - [No sex difference in the effect of drill on arithmetic improvement](no-sex-difference-drill-effect.md) — related
+- [Gender differences in optimal sleep duration: girls need slightly longer sleep than boys in most subjects, except mathematics](gender-differences-optimal-sleep-subjects.md) — related

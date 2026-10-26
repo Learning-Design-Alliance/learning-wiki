@@ -46,3 +46,4 @@ This is the authors' interpretation in the Discussion, resting on the empirical 
 
 ## Related Claims
 - [Repeated practice and blended learning showed no advantage in RCR course effectiveness, failing to replicate prior review findings](rcr-repetition-blended-null-results.md) — related
+- [The article argues learning should be restricted to processing of information from a system's environment](learning-restricted-to-environmental-information-processing.md) — related

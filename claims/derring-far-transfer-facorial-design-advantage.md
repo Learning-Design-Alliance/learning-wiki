@@ -52,3 +52,4 @@ In the same randomized experiment (N = 276), the far transfer test required desi
 - [Both errorful learning methods produce better negative knowledge (anticipation of problem-specific design errors) than errorless practice, with no difference between self- and other-generated errors](errorful-learning-improves-error-anticipation-negative-knowledge.md) — related
 - [Errorless discrimination training avoids emotional responses and yields more effective transfer than errorful training (Terrace's pigeon studies)](errorless-discrimination-learning-transfer-advantage.md) — reports the opposite
 - [Productive Failure Improves Conceptual Learning](productive-failure-improves-conceptual-learning.md) — related
+- [Near-errorless learning: participants acquiring procedural knowledge under accuracy instructions learned despite minimizing response errors](response-errors-not-needed-procedural-learning.md) — related

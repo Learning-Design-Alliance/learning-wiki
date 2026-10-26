@@ -72,3 +72,4 @@ Preregistered 2 × 2 mixed ANOVA (random 25% vs. random 75% groups) on final acc
 - [Transfer across response formats is incomplete: practicing terms benefited definition recall, but practicing definitions showed no overt-over-covert advantage on a term test](transfer-across-term-definition-formats-mixed.md) — related
 - [Overt retrieval practice produces higher delayed recall of definitions than covert retrieval practice for learners studying declarative concepts](overt-beats-covert-retrieval-definitions.md) — reports the opposite
 - [Overt retrieval also outperforms covert retrieval for key terms, but with a smaller advantage than for definitions](overt-beats-covert-retrieval-key-terms-smaller.md) — reports the opposite
+- [Overt student behavior is an unreliable proxy for covert cognitive engagement and instructional effectiveness](overt-behavior-unreliable-proxy-engagement.md) — related

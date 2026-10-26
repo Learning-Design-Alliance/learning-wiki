@@ -59,3 +59,4 @@ Intent-to-treat estimates from the preregistered randomized experiment (1,174 co
 - [Students show large immediate pre-to-post knowledge gains within a single LLM-supported learning session](large-immediate-gains-llm-supported-session.md) — related
 - [Over four months and four sessions, LLM-group participants performed worse than Brain-only participants at neural, linguistic, and scoring levels](llm-group-worse-neural-linguistic-scoring-four-sessions.md) — reports the opposite
 - [AI assistance reduces task completion time in both education groups, the only outcome without an equalizing pattern](ai-reduces-completion-time-no-equalizing-pattern.md) — related
+- [The spacing incentive benefits lower-GPA students more, nearly equalizing exam performance across prior GPA levels](counting-days-benefits-lower-gpa-students.md) — related

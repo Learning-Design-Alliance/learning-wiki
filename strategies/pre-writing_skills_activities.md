@@ -61,6 +61,7 @@ Pre-writing activities function as [part-task practice](../elements/part-task-pr
 - [Handwriting Instruction](handwriting-instruction.md) — the formal instruction these activities prepare for; the two should overlap rather than be strictly sequential
 - [Multisensory Teaching](multisensory-teaching.md) — the sensory-modality approach most pre-writing programs draw on
 - [Montessori method: teach writing as a game from ages three to four using sandpaper letters, crayon filling, and progressive tracing](montessori-sandpaper-writing-method.md)
+- [Introduce practical life materials into non-Montessori classrooms to support fine motor skills and attention](introduce-practical-life-materials-non-montessori.md)
 
 ## Examples
 - **[Handwriting Without Tears](https://www.lwtears.com/hwt)** — widely used developmental curriculum sequencing from wood-piece letter building through wet-dry-try tracing to pencil-paper writing in kindergarten.

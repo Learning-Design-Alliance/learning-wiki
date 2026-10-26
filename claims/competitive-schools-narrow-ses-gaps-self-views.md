@@ -57,3 +57,4 @@ Preregistered secondary analysis of PISA 2018 data using three-level hierarchica
 - [The manuscript reports that income inequality fosters competitiveness at school, as stated in its title.](income-inequality-fosters-competitiveness-at-school.md) — related
 - [Children from low-SES backgrounds hold more negative academic self-views, which partially mediate the SES-achievement association across 70 countries](low-ses-negative-self-views-mediate-achievement-inequality.md) — related
 - [Contrary to the hidden-talents hypothesis, low-SES students scored 18% lower on mathematics items of real-world importance](real-world-math-items-lower-low-ses-scores.md) — related
+- [The expected performance advantage of ecologically relevant content for low-SES students, predicted by the hidden talents approach, was not found; the opposite pattern emerged](hidden-talents-prediction-contradicted-by-item-content-findings.md) — related

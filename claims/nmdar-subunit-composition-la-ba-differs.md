@@ -70,3 +70,4 @@ Proportions classified by NMDAR EPSC kinetics (τ < 80 ms GluN1/2A; τ > 80 ms G
 - [Long-term potentiation at cortical inputs is restricted to LA interneurons and cannot be induced in BA interneurons](ltp-restricted-to-la-interneurons.md) — related
 - [Thalamic input to accommodating (ACC) LA interneurons is significantly larger than cortical input to the same subtype](at-input-larger-than-ac-in-acc-interneurons.md)
 - [Auditory input drives feed-forward inhibition onto LA interneurons, with cortical input producing a smaller E/I ratio than thalamic input](auditory-feedforward-inhibition-la-interneurons.md)
+- [Experimental work indicates basolateral amygdala cells activated by appetitive CSs mainly encode behavioural output, not CS identity, challenging amygdalo-centric feedforward accounts](bl-cells-encode-behavioural-output.md) — related

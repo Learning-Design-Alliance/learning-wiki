@@ -47,3 +47,4 @@ EEG/ERP evidence reviewed in the Perspective, with high temporal resolution suit
 ## Related Claims
 - [fMRI subsequent memory analyses show testing engages encoding-like and retrieval-unique neural processes](distinct-neural-correlates-of-retrieval-and-re-encoding.md) — related
 - [Early (within ~100 ms) attentional modulation during encoding predicts subsequent working memory accuracy](early-encoding-modulation-predicts-wm-accuracy.md) — related
+- [Distinctiveness aids retrieval without strengthening encoding, while novelty exposure enhances encoding of subsequently learned material](distinctiveness-retrieval-novelty-encoding.md) — related

@@ -55,3 +55,4 @@ The paper reports Terrace's errorless-learning demonstrations with pigeons on re
 - [Both errorful learning methods improve design critique (understanding the indeterminacy of invalid experiments) equally, outperforming errorless practice](errorful-learning-improves-design-critique.md) — related
 - [Experimental studies report transfer of training across diverse operations, from sensory discrimination to memorizing](transfer-of-training-diverse-operations-review.md) — a broader claim this one bears on
 - [Prolonged practice yields no evidence of improvement in discrimination for the intensity of sound](no-practice-improvement-intensity-discrimination.md) — reports the opposite
+- [Near-errorless learning: participants acquiring procedural knowledge under accuracy instructions learned despite minimizing response errors](response-errors-not-needed-procedural-learning.md) — related

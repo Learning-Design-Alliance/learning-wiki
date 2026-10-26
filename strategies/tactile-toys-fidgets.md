@@ -60,9 +60,11 @@ Fidgets operate on the premise that some learners regulate attention through mov
 5. Fade or rotate tools as the learner develops internal self-regulation strategies, treating the fidget as scaffolding rather than a permanent fixture.
 
 ## Related Strategies
+
 - [Sensory breaks](../strategies/sensory-breaks.md) — scheduled regulation opportunities of which fidgets are one tool
 - [Check-ins](../principles/check-ins.md) — routines that help learners notice their own attention and arousal states, making fidget use self-monitored rather than automatic
 - [Acoustics and noise management](../strategies/acoustics_and_noise_management.md) — environmental regulation strategies that address the same attention needs from the environment side
+- [Introduce practical life materials into non-Montessori classrooms to support fine motor skills and attention](introduce-practical-life-materials-non-montessori.md)
 
 ## Examples
 - An elementary school integrates discreet fidgets (putty, textured strips) into classrooms with clear use rules, supporting attention for students with sensory integration needs.

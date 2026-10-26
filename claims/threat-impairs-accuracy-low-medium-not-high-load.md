@@ -54,3 +54,4 @@ Laboratory experiment with 25 adolescents and 25 adults performing a verbal n-ba
 - [N-back response time increases and accuracy decreases with cognitive load, and Posner cue conditions differ in speed and accuracy trade-offs](cognitive-load-dose-response-nback-posner.md) — related
 - [Social identity threat impairs math performance via increased intrusive thoughts and working memory load (being-cognition disfluency)](social-identity-threat-working-memory-performance.md) — related
 - [Cyberball exclusion reduces n-back verbal working memory accuracy in young adolescent girls but not in mid-adolescents or adults](exclusion-reduces-nback-accuracy-young-adolescent-girls.md) — related
+- [Concurrent cognitive load was successfully manipulated: participants were slower and less accurate on the high-load (2-back) than low-load (1-back) working memory task](n-back-load-manipulation-verified-slower-less-accurate.md) — related

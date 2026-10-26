@@ -53,3 +53,4 @@ Interview finding from the 10-SEA study. The article reports that districts with
 - [The SEA-as-resource-provider role was the most commonly emphasized approach, named in 10 of 23 state ESSA plans.](sea-resource-role-most-emphasized.md) — related
 - Use of data to guide and refine SEA school improvement supports is nascent, with additional work needed to assess whether supports have impact — related
 - SEA administrators report shifting from compliance monitoring and grants management toward meaningful support and capacity-building for identified schools — related
+- [Within-family designs can test how child self-selection and evocation, and instructor willingness and capacity, shape personalization of learning](within-family-designs-personalization-mechanisms.md) — related

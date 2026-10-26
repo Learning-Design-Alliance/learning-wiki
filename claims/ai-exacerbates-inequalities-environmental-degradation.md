@@ -59,3 +59,4 @@ Editorial analysis (critical essay, no empirical dataset reported) countering th
 - [Individual trainings alone are unlikely to overcome the impact of broader inequities on student outcomes](individual-trainings-unlikely-overcome-structural-inequities.md) — related
 - [The ISEE Assessment finds that meritocracy as the great equalizer perpetuates educational, social and economic exclusion and proposes shifting from static merit-based assessment to potentiality](meritocracy-creates-hereditary-meritocracy-exclusion.md) — related
 - [Assessments like PISA-VET risk reinforcing inequalities in VET if underlying socioeconomic inequities are unaddressed](pisa-vet-equity-risk.md) — a narrower finding that bears on this claim
+- [A narrow focus on cognitive outcomes in evaluating educational inequality may perpetuate or increase inequality](cognitive-outcome-focus-may-perpetuate-inequality.md) — a narrower finding that bears on this claim

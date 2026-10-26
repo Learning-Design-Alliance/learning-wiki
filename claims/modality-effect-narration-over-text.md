@@ -217,3 +217,4 @@ Open questions include how the effect interacts with learner control over pacing
 - [The modality effect may disappear or reverse for lengthy, complex spoken text](modality-effect-reversal-complex-spoken-text.md) — related
 - [Working-memory limitations can be circumvented by schema construction, automation, and multiple presentation modalities](clt-circumvent-working-memory-limits.md) — a broader claim this one bears on
 - [Multimodal presentation on multiple senses or channels simultaneously is reported to facilitate learning by providing many routes for storage and retrieval](multimodal-learning-facilitates-storage-retrieval.md) — a broader claim this one bears on
+- [Modality effects in statistical learning, specifically auditory-serial and visual-spatial advantages, are a relatively robust finding, though construct validity and causality remain open](modality-effects-statistical-learning-relatively-robust.md) — related

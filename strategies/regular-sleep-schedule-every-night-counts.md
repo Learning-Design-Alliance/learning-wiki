@@ -44,6 +44,7 @@ The article recommends that caregivers treat nightly sleep variability, not just
 ## Related Strategies
 
 - [Nighttime Blue Light Reduction](nighttime_blue_light_reduction.md)
+- [Prioritize improving sleep quality for lower-performing students rather than increasing academic pressure](prioritize-sleep-over-pressure-for-struggling-students.md)
 
 ## Examples
 -

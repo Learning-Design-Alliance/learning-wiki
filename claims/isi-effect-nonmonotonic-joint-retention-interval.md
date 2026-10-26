@@ -58,3 +58,4 @@ Accuracy difference lag analysis (Table 3): at 1-day retention interval, longer 
 - [Earlier studies reported that quicker recall accompanied better memory results, but with little supporting evidence](earlier-studies-quicker-recall-better-results.md) — related
 - [Longer interstimulus interval significantly increases conditioned response percentage](longer-isi-increases-cr-percentage.md) — related
 - [Shorter retention intervals predict higher quiz grades, and the spacing benefit holds even at short retention intervals](retention-interval-no-spacing-interaction.md) — reports the opposite
+- [Losses after long breaks in naturalistic practice are rapidly offset by very little practice: a single gameplay can restore prior performance levels even after delays of hundreds of days](rapid-relearning-single-gameplay.md) — related

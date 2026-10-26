@@ -50,3 +50,4 @@ Voltage-clamp recordings with cesium-based internal solution and GABAA blockade,
 - [Long-term potentiation at cortical inputs is restricted to LA interneurons and cannot be induced in BA interneurons](ltp-restricted-to-la-interneurons.md) — related
 - [Thalamic input to accommodating (ACC) LA interneurons is significantly larger than cortical input to the same subtype](at-input-larger-than-ac-in-acc-interneurons.md) — related
 - [Auditory input drives feed-forward inhibition onto LA interneurons, with cortical input producing a smaller E/I ratio than thalamic input](auditory-feedforward-inhibition-la-interneurons.md) — related
+- [Experimental work indicates basolateral amygdala cells activated by appetitive CSs mainly encode behavioural output, not CS identity, challenging amygdalo-centric feedforward accounts](bl-cells-encode-behavioural-output.md) — related

@@ -69,3 +69,4 @@ Separate GLMMs on trial-level stay probabilities for each WM load condition. Und
 - [Model-based strategy use partially mediates the effect of WM load on RL learning performance](model-based-strategy-mediation-wm-load-performance.md) — related
 - [Participants earned higher corrected reward rates under low WM load than high WM load in a two-stage RL task](low-wm-load-higher-corrected-reward-rate.md) — related
 - [Intelligence correlates with RL performance under low WM load but not under high WM load](intelligence-performance-correlation-varies-by-wm-load.md) — related
+- [A 50% shock reinforcement rate yielded the most learners compared with 35% and 60% rates](reinforcement-rate-50-percent-most-learners.md) — related

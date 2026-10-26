@@ -50,3 +50,4 @@ Follow-up analysis treating each SES subcomponent separately with FDR correction
 
 ## Related Claims
 - [CogPGS and SES each showed large, independent, positive effects on all three intelligence domains](cogpgs-ses-independent-effects-intelligence.md) — a broader claim this one bears on
+- [Parental education, income-to-needs ratio, and neighborhood deprivation each predict self-reported school grades in the ABCD sample at both follow-up timepoints, with larger effects for parental education and income than for neighborhood deprivation](ses-indices-predict-self-reported-grades-abcd.md) — related

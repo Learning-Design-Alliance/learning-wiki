@@ -49,3 +49,4 @@ The supplementary materials report, citing Pijeira-Díaz et al. (2018), a small 
 - [Improved post-task understanding, higher task difficulty ratings and higher physiological arousal predict better learning outcomes](arousal-and-task-perceptions-predict-learning-outcomes.md) — related
 - [Students' monitoring frequency during the collaborative exam was significantly and positively correlated with their number of EDA peaks.](monitoring-frequency-correlates-eda-peaks.md) — related
 - [Increased physiological arousal and higher physiological synchrony relate to more monitoring with negative valence](arousal-synchrony-negative-valence-monitoring.md) — related
+- [Skin conductance is higher during low-interest lecture segments than high-interest segments](low-interest-elevated-skin-conductance.md) — related

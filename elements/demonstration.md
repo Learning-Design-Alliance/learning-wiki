@@ -26,7 +26,7 @@ sources:
 # Demonstration
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 5 claims (3 for, 2 mixed) · 6 studies (3 causal, 2 review, 1 theoretical), `q2`–`q3` · 0 of 6 report an effect size · 3 claims rest on one study
+> **Evidence** · 7 claims (3 for, 4 mixed) · 7 studies (4 causal, 2 review, 1 theoretical), `q2`–`q3` · 0 of 7 report an effect size · 5 claims rest on one study
 
 ## Description
 A demonstration presents a complete or partial model of a skill, process, or solution so learners can observe expert performance before attempting it themselves. The instructor or system makes thinking visible — articulating what is being done and why — rather than simply showing the end result.
@@ -66,6 +66,8 @@ Demonstrations reduce the cognitive burden of initial skill acquisition by givin
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Most 3-year-olds deployed a demonstrated external marking strategy, but none modified it to solve a conceptually similar transfer task](../claims/three-year-olds-copy-but-do-not-modify-external-strategy.md) [+W]
 - [Active verbal cues from experts most often prompt nonverbal action from novices, often preceding explanatory information](../claims/verbal-cues-prompt-nonverbal-action.md) [~W]
+- [Reinforcement learning modeling revealed avoidance of choices made by demonstrators described as Worst, with description affecting copying rather than observational outcome learning](../claims/rl-avoidance-of-worst-demonstrators.md) [~W]
+- [Brain activity was not modulated by demonstrator description, but the copying rate modulated activity in action-observation and decision-making regions for Best demonstrators only](../claims/copying-rate-neural-modulation-best-only.md) [~W]
 
 ## Related Elements
 - [Practice](practice.md) — the necessary follow-on; demonstration without practice rarely transfers

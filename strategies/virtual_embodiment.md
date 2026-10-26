@@ -60,8 +60,10 @@ Virtual embodiment works through the body ownership illusion: synchronous multis
 6. [Individual Reflection](../elements/individual-reflection.md) — structured debrief connecting the virtual experience to attitudes and behavior; re-measure attitudes to consolidate and document change
 
 ## Related Strategies
+
 - [Acting-Role-Play](acting-role-play.md) — the non-virtual analogue; physical role-play produces perspective-taking effects but without the perceptual first-person illusion
 - [Act It Out](act_it_out.md) — embodied enactment for younger learners or lower-resource settings
+- [Use immersive VR with virtual agents and eye-tracking to isolate and manipulate specific social factors (gaze, feedback, embodiment, multimodality) in L2 learning experiments](immersive-vr-social-l2-experiments.md)
 
 ## Examples
 - **[The Machine to Be Another](http://themachinetobeanother.org)** — an open-source body-swap system using synchronized head tracking between two participants, used in conflict-resolution and disability-awareness workshops.

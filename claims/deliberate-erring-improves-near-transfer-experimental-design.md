@@ -72,3 +72,4 @@ Pairwise comparison from the same randomized experiment (N = 276) on the near tr
 - [Errorless discrimination training avoids emotional responses and yields more effective transfer than errorful training (Terrace's pigeon studies)](errorless-discrimination-learning-transfer-advantage.md) — related
 - [Students lack metacognitive awareness of the benefits of errorful learning: the three learning groups did not differ in perceived competence, judgments of learning, or rated method effectiveness even after tests](no-metacognitive-awareness-of-errorful-learning-benefits.md) — related
 - [Productive Failure Improves Conceptual Learning](productive-failure-improves-conceptual-learning.md) — related
+- [Near-errorless learning: participants acquiring procedural knowledge under accuracy instructions learned despite minimizing response errors](response-errors-not-needed-procedural-learning.md) — related

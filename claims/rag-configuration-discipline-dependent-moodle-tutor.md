@@ -70,3 +70,4 @@ The same RAGAS evaluation of the retrieval and generation pipelines reported the
 - [Gemini Flash 2.0 was selected for production over GPT-4o-mini and Llama 3.1 for its superior faithfulness and speed-to-cost ratio](gemini-flash-2-selected-for-faithfulness-and-cost.md) — related
 - [NCERT-tailored RAG preprocessing and figure-aware indexing improve retrieval precision over a generic-chunking baseline, per the authors' assertion](ncert-tailored-rag-improves-retrieval-precision.md) — related
 - [Differences in AI-supported instruction effects across STEM disciplines are not statistically significant](ai-effect-discipline-differences-nonsignificant.md)
+- [Fragmented vocabularies bias AI-mediated literature retrieval toward the user's home discipline](fragmented-vocabularies-bias-ai-retrieval.md) — related

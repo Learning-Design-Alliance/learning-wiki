@@ -78,3 +78,4 @@ Evaluation of the Chicago double-dose algebra policy reports an organizational s
 - Extended learning time interventions, including week-long acceleration academies with highly effective teachers and some double-dose math structures, show strong evidence of effectiveness — related
 - [Grade retention and tracking students into remedial instruction undermine achievement, while formative assessment with acceleration strategies improves learning](retention-and-downtracking-undermine-achievement.md) — related
 - [Between- or within-class homogeneous ability grouping has a small negative effect on low-ability primary students but no effect on other students](homogeneous-ability-grouping-negative-low-ability.md) — related
+- [Differentiated instruction and tracking are studied as both remedy and catalyst for unequal achievement depending on discipline](differentiation-remedy-or-catalyst-by-discipline.md) — related

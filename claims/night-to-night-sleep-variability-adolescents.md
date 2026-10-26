@@ -53,3 +53,4 @@ Descriptive actigraphy statistics from the week of monitoring in 160 adolescents
 - [Sleep and consolidation support semantic memory development, suggesting delayed school start times may benefit memory](sleep-consolidation-semantic-memory-school-start-times.md) — related
 - [Shorter time in bed the night before testing is associated with slower 3-back response times in older adolescents](acute-rest-time-slower-3back-response.md) — related
 - [Sleep the night before cognitive testing resembles weekly averages except for an earlier mid-sleep time](acute-sleep-matches-weekly-averages.md) — related
+- [Each additional hour of homework is associated with about 0.335 fewer hours of nightly sleep, and electronic device use is also negatively associated](homework-device-use-reduce-sleep-duration.md) — related

@@ -66,3 +66,4 @@ ANCOVA controlling for processing speed in the same sample. Picture 2-back error
 - [Children with developmental dyslexia show a significant inhibition impairment at the error z-mean composite level, which remains after controlling for processing speed](dyslexia-inhibition-error-composite-impairment.md) — reports the opposite
 - [Omission and commission errors in n-back tasks have different correlates and may represent different processes](nback-omission-commission-different-correlates.md) — related
 - [Children with developmental dyslexia show a processing speed impairment relative to controls](dyslexia-processing-speed-impairment.md) — related
+- [Impaired statistical learning in developmental dyslexia is not a robust phenomenon, with meta-analyses hampered by publication bias and task heterogeneity](statistical-learning-dyslexia-impairment-not-robust.md) — related

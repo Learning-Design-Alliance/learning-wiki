@@ -50,3 +50,4 @@ Narrative review statement about STC findings in L-LTP research. The review repo
 - [The learning benefit of increasing integration is substantially larger for high element interactivity (complex) materials than for low element interactivity materials](element-interactivity-moderates-contiguity-effect.md) — related
 - [Conscious awareness of action onset lags brain activity initiation by hundreds of milliseconds](awareness-lags-action-initiation.md) — related
 - [Contiguity effects show no statistically reliable difference between static and dynamic presentation of visual information](static-dynamic-presentation-no-moderation.md) — related
+- [The timing rule of fear conditioning contradicts the Hebbian coincidence rule because simultaneous CS–US pairing is less efficient than CS onset preceding the US with co-termination tens of seconds later](hebbian-rule-incompatible-with-fear-conditioning-timing.md) — a narrower finding that bears on this claim

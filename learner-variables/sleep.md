@@ -13,7 +13,7 @@ generated:
 # Sleep
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 25 claims (15 show a difference, 6 mixed, 4 no difference) · 14 studies (6 causal, 4 review, 3 associational, 1 quant-synthesis), `q2`–`q3` · 5 of 14 report an effect size · 25 claims rest on one study
+> **Evidence** · 32 claims (19 show a difference, 9 mixed, 4 no difference) · 15 studies (6 causal, 4 review, 4 associational, 1 quant-synthesis), `q2`–`q3` · 5 of 15 report an effect size · 32 claims rest on one study
 
 ## Description
 Sleep is the period in which consciousness is suspended and the body and brain rest and recuperate. During sleep the brain consolidates memories, the body heals and recovers energy, and waste products of brain activity may be cleared. Its quantity, regularity and quality matter for nearly every aspect of cognition, as well as for physical and emotional well-being. When learners do not get enough good sleep, mood and cognitive skills suffer and focus is lost more easily. Sleep is measured with self-report and parent-report questionnaires on sleep habits, timing, quality and daytime sleepiness. The LVN treats it as relevant from pre-kindergarten to adulthood, and suggests extra cognitive supports, such as redirecting attention when a learner's mind wanders, for students who are short of sleep. It overlaps with [physical well-being](physical-wellbeing.md), of which adequate sleep is a part, and with [long-term memory](long-term-memory.md) through consolidation.
@@ -61,6 +61,13 @@ Sleep is the period in which consciousness is suspended and the body and brain r
 - [The TMR cuing effect on face recognition accuracy is associated with N3 sleep duration, though cueing did not significantly improve recognition overall](../claims/tmr-recognition-cuing-effect-associated-with-n3-duration.md) [~M] — an instructional effect differs with it
 - [The TMR cuing effect on name recall is positively correlated with the duration of stage N3 (slow-wave) sleep during the nap](../claims/tmr-recall-cuing-effect-correlates-with-n3-duration.md) [+M] — an instructional effect differs with it
 - [TMR benefits on name recall are negatively correlated with post-cue sleep disruption and post-cue beta-band EEG power, suggesting reactivation depends on undisturbed sleep](../claims/tmr-benefit-negatively-correlated-with-sleep-disruption.md) [+M] — an instructional effect differs with it
+- [Gender differences in optimal sleep duration: girls need slightly longer sleep than boys in most subjects, except mathematics](../claims/gender-differences-optimal-sleep-subjects.md) [~M] — learners who differ on it differ in outcomes
+- [Optimal sleep duration varies by subject: about 8–9 hours for mathematics and 7–8 hours for Chinese, English, science, and arts](../claims/subject-specific-optimal-sleep-duration.md) [~M] — learners who differ on it differ in outcomes
+- [Sleep duration contributes more to variance in Chinese, mathematics, and science performance than to English and arts, but less than socioeconomic status in every subject](../claims/shapley-sleep-contribution-by-subject.md) [+M] — learners who differ on it differ in outcomes
+- [Sleep duration shows an inverted U-shaped association with academic performance in all five subjects, with a peak around 8 hours of nightly sleep](../claims/inverted-u-sleep-duration-academic-performance.md) [+M] — learners who differ on it differ in outcomes
+- [The positive association between sleep and performance is strongest among lower-achieving students](../claims/sleep-benefits-greatest-lower-achieving-students.md) [~M] — learners who differ on it differ in outcomes
+- [Threshold regression corroborates the inverted U: performance gains below 7–9 h and significantly negative coefficients beyond the second threshold](../claims/threshold-models-sleep-performance.md) [+M] — learners who differ on it differ in outcomes
+- [Each additional hour of homework is associated with about 0.335 fewer hours of nightly sleep, and electronic device use is also negatively associated](../claims/homework-device-use-reduce-sleep-duration.md) [+W] — instruction changes it
 
 ## Measures
 - **Sleep Timing Questionnaire** (Monk et al., 2003): self-report of sleep-wake patterns on weekdays and weekends.
@@ -83,6 +90,9 @@ Sleep is the period in which consciousness is suspended and the body and brain r
 - [Communication Skills](communication-skills.md): sleep supports vocabulary learning, and deprivation affects verbal fluency.
 
 ## Examples
+
+- [Optimize consolidation through sufficient sleep, spaced and interleaved study, and rest periods between learning](../strategies/consolidation-sleep-spacing-interleaving-strategy.md)
+- [Prioritize improving sleep quality for lower-performing students rather than increasing academic pressure](../strategies/prioritize-sleep-over-pressure-for-struggling-students.md)
 
 ## Key Sources
 - Digital Promise. *Learner Variability Navigator*: Sleep (Adult Learner, Building Literacy 4-6, Building Literacy 7-12, Building Literacy PK-3, Building Math 3-6, Building Math 7-10, Building Math PK-2, Portrait of a Learner 4-8, Portrait of a Learner 9-12, Portrait of a Learner PK-3). [lvp.digitalpromiseglobal.org](https://lvp.digitalpromiseglobal.org/content-area/adult-learner/factors/sleep-adult-learner/summary). Licensed CC BY-NC 4.0.

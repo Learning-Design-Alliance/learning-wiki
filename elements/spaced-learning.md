@@ -13,7 +13,7 @@ generated:
 # Spaced Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 21 claims (12 for, 8 mixed, 1 against) · 20 studies (10 causal, 6 review, 4 quant-synthesis), `q2`–`q4` · 3 of 20 report an effect size · 19 claims rest on one study
+> **Evidence** · 22 claims (12 for, 9 mixed, 1 against) · 21 studies (11 causal, 6 review, 4 quant-synthesis), `q2`–`q4` · 3 of 21 report an effect size · 20 claims rest on one study
 
 ## Description
 Spaced learning is the element in which practice or review is distributed over time rather than massed together.
@@ -42,12 +42,17 @@ Spaced learning is the element in which practice or review is distributed over t
 - [Short maze units learned under massed conditions connect into a serial whole with great economy, whereas units learned under distributed conditions connect only with extreme difficulty](../claims/massed-unit-learning-eases-connection.md) [-W]
 - [The motor habit for a maze section shows practically no disintegration over the intervals between part-learning trials](../claims/negligible-motor-disintegration-over-interval.md) [~W]
 - [Distributed practice aids digit memorization, but massed practice is preferred for new and short mazes, indicating a boundary condition on the spacing effect](../claims/distributed-vs-massed-practice-boundary-1921.md) [~W]
+- [The spacing incentive benefits lower-GPA students more, nearly equalizing exam performance across prior GPA levels](../claims/counting-days-benefits-lower-gpa-students.md) [~W]
 
 ## The evidence by question
 - *Does spreading study or practice over sessions improve later retention more than massing the same amount of it?* [Spaced Practice Improves Retention](../claims/spaced-practice-improves-retention.md) [+S]
 - *How long should the gap between sessions be, given when the knowledge is needed?* [The optimal interstudy interval increases as the retention interval increases](../claims/optimal-isi-increases-with-retention-interval.md) [+M]
 - *Should the gaps expand, stay equal, or contract?* [Total retrieval spacing improved one-week vocabulary recall while relative schedules were not distinguished](../claims/total-retrieval-spacing-beats-massed-but-relative-schedule-not-distinguished.md) [+M]
 - *Will learners space their study on their own?* [Learners Misjudge Spacing Benefits](../claims/learners-misjudge-spacing-benefits.md) [+S]
+
+## Examples
+
+- [Optimize consolidation through sufficient sleep, spaced and interleaved study, and rest periods between learning](../strategies/consolidation-sleep-spacing-interleaving-strategy.md)
 
 ## Related Elements
 - [Spaced Repetition](spaced-repetition.md)

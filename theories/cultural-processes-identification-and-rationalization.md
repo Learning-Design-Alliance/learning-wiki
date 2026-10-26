@@ -17,7 +17,7 @@ sources:
 # Cultural Processes to Inequality: Identification and Rationalization
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 8 claims (7 for, 1 mixed) · 6 studies (3 associational, 2 theoretical, 1 causal), `q1`–`q2` · 0 of 6 report an effect size · 8 claims rest on one study
+> **Evidence** · 9 claims (8 for, 1 mixed) · 7 studies (3 associational, 3 theoretical, 1 causal), `q1`–`q2` · 0 of 7 report an effect size · 9 claims rest on one study
 
 ## Description
 A framework the article adopts from Lamont, Beljean and Clair (2014) in which inequality is produced through two meso-level cultural processes: identification (stigmatization and racialization) and rationalization (standardization and evaluation). The article lists "six characteristics of cultural processes", including that they are formed through meaning-making and operate in a routine way. It argues that "Evaluation and its sub-categories are central to everyday functioning of school".
@@ -46,6 +46,7 @@ A framework the article adopts from Lamont, Beljean and Clair (2014) in which in
 - [Teachers of color are judged more harshly in evaluations: within the same schools, Black teachers were 50 percent more likely than white teachers to receive a low rating.](../claims/biased-teacher-evaluations.md) [+W]
 - [English learners, particularly Hispanic Spanish-speaking students, were disproportionately identified for special education in the Specific Learning Disability category](../claims/english-learners-disproportionate-sld-identification.md) [+W]
 - [Assessments like PISA-VET risk reinforcing inequalities in VET if underlying socioeconomic inequities are unaddressed](../claims/pisa-vet-equity-risk.md) [~W]
+- [A narrow focus on cognitive outcomes in evaluating educational inequality may perpetuate or increase inequality](../claims/cognitive-outcome-focus-may-perpetuate-inequality.md) [+W]
 
 ## The evidence by question
 - *Do a school's routine evaluation and categorisation practices (ratings, risk labels, stereotypes, feedback) fall unequally on learners and teachers by race?* [Cultural processes and forms of epistemic injustice should be taken into account in understanding how inequalities in education are produced and maintained](../claims/cultural-processes-and-epistemic-injustice-explain-educational-inequality.md) [+W]

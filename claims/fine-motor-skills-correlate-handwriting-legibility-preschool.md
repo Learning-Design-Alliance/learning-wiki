@@ -93,3 +93,4 @@ Pearson correlation in the same 52-child sample between handwriting legibility a
 - [Automaticity of handwriting predicts orthographic skills even when visual-motor integration is included in the model](automaticity-predicts-orthographic-skills.md) — related
 - [Fine motor skills show a significant moderate overall correlation (r = .329) with academic-cognitive skills in children and adolescents](fms-moderate-correlation-academic-cognitive.md) — related
 - [Children's baseline motor skills do not correlate with reading-related outcomes or with their use of movement when naming letter-sounds](motor-skills-no-correlation-reading-outcomes.md) — related
+- [Fine motor handwriting skills transfer positively from Cyrillic to Latin: Latin-script writing quality improved with grade despite zero Latin experience](fine-motor-transfer-cyrillic-to-latin.md) — related

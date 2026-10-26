@@ -42,7 +42,8 @@ The article proposes presenting demanding working memory tasks concurrently with
 - [Working memory performance ranking does not predict conditioned response percentage](../claims/wm-performance-does-not-predict-crs.md) [~W]
 
 ## Related Strategies
-- 
+
+- [Probe implicit statistical learning with concurrently demanding tasks to test whether learning is capacity limited](concurrent-load-probe-for-implicit-learning.md)
 
 ## Examples
 -

@@ -68,3 +68,4 @@ Same extreme-PGS descriptive analysis for the Word List task: the article report
 - [Growth models show substantial variability in the shape and rate of learning, but no statistically significant EAPGS associations with that variation](growth-models-pgs-null-shape-rate.md) — reports the opposite
 - [Educational-attainment polygenic score associations with pre-test, post-test, and pre-to-post change scores on individual cognitive tasks are small and mostly nonsignificant after multiple-testing correction](eapgs-regression-task-scores-nonsignificant.md) — a broader claim this one bears on
 - [A polygenic-score study of learning over 100 days of practice in 131 adults was too small to draw meaningful conclusions about genetic effects on baseline performance and learning](pgs-learning-cogito-underpowered.md) — related
+- [Shape search and N-back tasks show no sequence position effect in session-level analysis](shape-nback-independent-of-sequence-position.md) — related

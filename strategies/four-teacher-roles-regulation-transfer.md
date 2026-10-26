@@ -45,6 +45,7 @@ The article specifies four roles teachers take in process-oriented teaching. As 
 
 - [Match shared-control teaching to intermediate student self-regulation skill](shared-control-suits-intermediate-self-regulation.md)
 - [Position the language teacher as diagnostician, prescriber, motivator, and evaluator of student production](teacher-as-diagnostician-evaluator-with-interactive-video.md)
+- [Use systematic formative assessment before, during, and after instruction to uncover covert learning processes](formative-assessment-for-covert-processes.md)
 
 ## Examples
 -

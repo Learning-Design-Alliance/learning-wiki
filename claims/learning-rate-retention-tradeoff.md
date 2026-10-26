@@ -63,3 +63,4 @@ The review reports, citing Smith, Ghazizadeh and Shadmehr (2006), evidence from 
 - [Strategies that reduce fluency and increase perceived difficulty (e.g., self-testing, spaced practice) often yield superior long-term learning, contrary to student beliefs](fluency-misleads-judgments-of-learning.md) — related
 - [In visuomotor rotation learning, constrained outer-target geometry slows learning at trained targets but yields more consistent generalization to a probe target than unconstrained inner-target geometry](target-geometry-dissociation-learning-generalization-exp1.md) — related
 - [Multi-state model parameters do not differ between Norwegian and Japanese groups](multi-state-parameters-no-group-difference.md) — related
+- [Later sequence position slows general learning rate in the face view discrimination task](sequence-position-slows-face-learning-rate.md) — related

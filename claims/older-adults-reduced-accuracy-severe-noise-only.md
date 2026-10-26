@@ -60,3 +60,4 @@ In-scanner behavioral accuracy from a group x condition repeated measures ANOVA 
 - [Older adults show reduced activation in auditory cortex and increased activation in prefrontal and precuneus regions during speech-in-noise processing](aging-reduced-auditory-increased-prefrontal-activation.md) — related
 - [Older adults show larger multisensory gains for simple stimuli but multisensory deficits for complex speech stimuli](aging-multisensory-gains-simple-deficits-complex.md) — related
 - [Individuals with schizophrenia show reduced behavioral benefit from combined audiovisual cues and altered multisensory temporal processing](schizophrenia-reduced-audiovisual-benefit-temporal-acuity.md) — related
+- [Noise condition modulates neural speech tracking, with better decoding of speech in continuous than quiet or intermittent noise](speech-tracking-modulated-by-noise-type.md) — related

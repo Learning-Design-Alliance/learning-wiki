@@ -53,6 +53,7 @@ The article recommends that learners and instructors insert metacognitive judgme
 - [Implement computerized covert retrieval practice for visuospatial materials such as maps, faces, and diagrams instead of passive scrutiny](computerized-covert-retrieval-nonverbal-materials.md)
 - [Active Monitoring](active-monitoring.md)
 - [Self Monitoring Strategies](self-monitoring-strategies.md)
+- [Use systematic formative assessment before, during, and after instruction to uncover covert learning processes](formative-assessment-for-covert-processes.md)
 
 ## Examples
 -

@@ -64,3 +64,4 @@ Independent-samples t-tests comparing 67 lower-proficiency (L) and 30 higher-pro
 - [Goal orientations moderate self-efficacy perceptions in ways not originally predicted by self-efficacy theory](goal-orientations-moderate-efficacy-perceptions.md) — related
 - [Self-reports of achievement goal orientations diverge markedly from traced goal orientations, which predict reading achievement while self-reports do not](goal-orientation-self-reports-diverge-from-traces.md) — related
 - [Language proficiency significantly moderates the effect of learning motivation on oral proficiency improvement](proficiency-moderates-motivation-oral-gains.md) — related
+- [Non-learners show higher state anxiety than learners, but trait anxiety does not differ between groups](non-learners-higher-state-anxiety-trait-unchanged.md) — related

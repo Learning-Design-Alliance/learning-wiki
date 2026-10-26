@@ -67,3 +67,4 @@ The same correlational analysis tested teacher and child characteristics as mode
 - [A combined inhibition and social cognition classroom training improves selective visual attention in 5- and 6-year-olds](classroom-inhibition-social-cognition-training-improves-selective-attention.md) — related
 - [Pre-kindergarten attendance yields small positive impacts on social-emotional development, executive functioning, and emotion recognition](prek-small-positive-social-emotional-executive-emotion.md) — related
 - [Children with lower growth mindset before training showed greater growth-mindset gains during cognitive training](lower-baseline-mindset-greater-training-gains.md) — a narrower finding that bears on this claim
+- [Teacher-judged science ability repeatedly predicts gain in understanding, while age does not and gender effects are weak and non-replicable](ability-predicts-gain-age-gender-do-not.md) — related

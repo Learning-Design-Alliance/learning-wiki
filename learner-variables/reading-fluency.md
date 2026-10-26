@@ -13,7 +13,7 @@ generated:
 # Reading Fluency
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 81 claims (51 show a difference, 18 mixed, 12 no difference) · 54 studies (16 associational, 15 causal, 10 review, 9 quant-synthesis, 2 design, 2 theoretical), `q1`–`q4` · 14 of 54 report an effect size · 80 claims rest on one study
+> **Evidence** · 83 claims (52 show a difference, 18 mixed, 13 no difference) · 55 studies (16 causal, 16 associational, 10 review, 9 quant-synthesis, 2 design, 2 theoretical), `q1`–`q4` · 14 of 55 report an effect size · 82 claims rest on one study
 
 ## Description
 Reading fluency is reading text accurately, at an appropriate rate and smoothly, whether silently or aloud. It rests on the word-level skills beneath it: [decoding](decoding.md), orthographic processing, phonological processing, [morphological awareness](morphological-awareness.md) and an understanding of [syntax](syntax.md). It is measured by counting words read correctly within a time limit and by having students read passages aloud, scored for accuracy and rate.
@@ -121,6 +121,8 @@ It is part of the wiki's broader [reading and language](reading-and-language.md)
 - [More effective readers are those who vary their reading rate to suit the type of material](../claims/rate-flexibility-marks-effective-readers.md) [+W] — learners who differ on it differ in outcomes
 - [Early working memory, processing speed, and attentive behavior predict later calculations, word-problem solving, and reading, but nonverbal reasoning is not significantly associated with any outcome](../claims/domain-general-predictors-null-nonverbal-reasoning.md) [+W] — instruction changes it
 - [Numerical cognition assessed at end of first grade statistically mediates associations between early processing speed, working memory, calculation skill, word-problem solving, and attentive behavior and later calculations, word-problem solving, and reading](../claims/numerical-cognition-mediation-academic-outcomes.md) [+W] — instruction changes it
+- [Sound field amplification produces no significant overall difference in reading fluency development in 8–10-year-old students](../claims/sfa-no-reading-fluency-benefit-grade-3-4.md) [-M] — instruction changes it
+- [In a mixed-effects model, classroom condition significantly predicted reading fluency development, with SFA-On and SFA-Off both exceeding baseline but not each other](../claims/sfa-mixed-model-condition-effect-reading-fluency.md) [+M] — instruction changes it
 
 ## Measures
 - **Test of Word Reading Efficiency (TOWRE)** (Torgesen et al., 1999): number of printed words read correctly in 45 seconds.

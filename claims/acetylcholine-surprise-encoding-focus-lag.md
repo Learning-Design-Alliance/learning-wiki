@@ -68,3 +68,4 @@ Review narrative on the sequencing of (nor)epinephrine-driven alertness before a
 - [Selective attention reduces encoding of unattended information and induces learned inattention that makes future learning more difficult](selectivity-costs-learned-inattention.md) — related
 - [Failure-triggered epinephrine activates the amygdala and cholinergic neurons, improving memory formation](failure-epinephrine-amygdala-cholinergic-memory-cascade.md) — related
 - [(Nor)epinephrine follows an inverted-U for learning: low levels aid learning, high levels trigger quitting, and production fades after about 90 minutes but habituates with repeated safe exposure](norepinephrine-inverted-u-90-minute-limit-habituation.md) — related
+- [Distinctiveness aids retrieval without strengthening encoding, while novelty exposure enhances encoding of subsequently learned material](distinctiveness-retrieval-novelty-encoding.md) — related

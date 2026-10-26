@@ -59,3 +59,4 @@ Interview findings report that "Parents’ choices were constrained by fears for
 - [Most students reported a high degree of agency in deciding which high school to attend, though agency was constrained or absent for some](student-agency-school-selection.md) — related
 - [Public school choice was constrained at the middle and high school levels because many districts have only one middle school and one high school](title-i-choice-constrained-single-secondary-schools.md) — related
 - [Commuting distance, school demographics, and academics play important roles in parents' school choices in Washington, DC](dc-parents-distance-demographics-academics-drive-choice.md) — related
+- [Within-family designs can test how child self-selection and evocation, and instructor willingness and capacity, shape personalization of learning](within-family-designs-personalization-mechanisms.md) — related

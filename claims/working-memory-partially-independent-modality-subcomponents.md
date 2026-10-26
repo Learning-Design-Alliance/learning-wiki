@@ -73,3 +73,4 @@ The review's statement of cognitive load theory's core architectural assumption,
 - [Whether working memory has a single capacity limit or multiple capacity limits from functional specialization is highly relevant for the design of multimedia materials](single-versus-multiple-capacity-limits-multimedia-design.md) — related
 - [Working-memory limitations can be circumvented by schema construction, automation, and multiple presentation modalities](clt-circumvent-working-memory-limits.md) — related
 - [Two acknowledged criticisms limit educational neuroscience: partial relevance to classrooms and stronger relevance to learning disorders](educational-neuroscience-criticisms-limits.md) — related
+- [The absence of a load effect may reflect cross-modality design: visual load may spare auditory resources, and load was not sustained to full capacity](cross-modality-load-limitation-statistical-learning.md) — a narrower finding that bears on this claim

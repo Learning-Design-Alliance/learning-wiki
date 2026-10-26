@@ -67,3 +67,4 @@ The review reports Elliott's developmental study found a dramatic ISE increase w
 - [Noise impairs children's performance in complex listening tasks beyond simple identification, with children affected more than adults](noise-impairs-children-listening-comprehension.md) — related
 - [Children are more susceptible than adults to the effects of environmental noise on cognitive performance](children-more-susceptible-to-noise-than-adults.md) — related
 - [Irrelevant visual stimuli present during a memory test diminish the fidelity of episodic details retrieved from long-term memory in younger adults](visual-distractors-reduce-ltm-retrieval-fidelity.md) — related
+- [Adding construction noise does not significantly affect comprehension accuracy or interest ratings during video learning](noise-no-effect-comprehension-interest.md) — related

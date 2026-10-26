@@ -57,8 +57,10 @@ The strategy externalizes instructional control into the physical setting, reduc
 5. **Limit and structure choice.** Offer a bounded set of developmentally appropriate options; autonomy works when paired with clear structure [Autonomy supports intrinsic motivation.](../claims/autonomy-supports-intrinsic-motivation.md) [+S]
 
 ## Related Strategies
+
 - [Choice Boards](../elements/choice-boards.md) — a bounded-choice structure that adapts the prepared environment's "freedom within limits" to conventional classrooms
 - [Learning Stations / Centers](../strategies/learning-stations.md) — spatially organized self-directed activity, a partial implementation of the same principle
+- [Introduce practical life materials into non-Montessori classrooms to support fine motor skills and attention](introduce-practical-life-materials-non-montessori.md)
 
 ## Examples
 - **AMI/AMS Montessori classrooms** ([https://amiusa.org](https://amiusa.org), [https://amshq.org](https://amshq.org)) — authentic implementations with sequenced didactic materials (e.g., golden beads, sandpaper letters) and three-hour work cycles.

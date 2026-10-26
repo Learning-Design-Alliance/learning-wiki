@@ -46,3 +46,4 @@ Author's argument in the closing section of the article about who will carry out
 
 ## Related Claims
 - [Identifying copy-typed sessions requires combining product and process views, since neither view is sufficient alone](copy-typing-requires-combining-product-and-process-views.md) — possibly the same claim (merge candidate)
+- [The article reports reasonable consensus that learning is a process, not a capacity or product](learning-is-a-process-not-capacity-or-product.md) — related

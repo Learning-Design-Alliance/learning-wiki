@@ -54,3 +54,4 @@ Propensity-score matching (PSM) of AP participants with non-participants in four
 - [Forest preschool attendance is associated with improvements in creative thinking in preschool children, with only forest-school groups improving on all creative dimensions](forest-school-improves-preschool-creativity.md) — related
 - [CREATE meta-creative pedagogy produces a significant omnibus intervention effect on creative thinking components simultaneously in elementary students](create-omnibus-immediate-effect-creative-thinking.md) — related
 - [Participation in at least two AP workshops produced significant GPA improvements of 0.55 sd overall, 0.61 sd language, 0.36 sd math, and 0.33 sd art](ap-gpa-improvements-effect-sizes.md) — related
+- [The art-based program studied by Egana-delSol is a high-school program, not a middle-school program, per the published correction](high-school-art-based-program-correction.md) — related

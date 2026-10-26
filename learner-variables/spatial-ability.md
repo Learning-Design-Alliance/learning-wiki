@@ -13,7 +13,7 @@ generated:
 # Spatial Ability
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 68 claims (48 show a difference, 13 mixed, 7 no difference) · 38 studies (16 associational, 11 causal, 7 review, 2 quant-synthesis, 2 qualitative), `q1`–`q4` · 10 of 38 report an effect size · 67 claims rest on one study
+> **Evidence** · 69 claims (49 show a difference, 13 mixed, 7 no difference) · 39 studies (16 associational, 12 causal, 7 review, 2 quant-synthesis, 2 qualitative), `q1`–`q4` · 11 of 39 report an effect size · 68 claims rest on one study
 
 ## Description
 Spatial ability covers mental rotation, visualising objects from other viewpoints, holding visual-spatial information in memory and reasoning about the relations among shapes. It is measured with timed tasks (mental rotation, paper folding, embedded figures). It correlates moderately with mathematics and science achievement and is strongly associated with entry into and success in STEM fields, and training studies show it can be improved. It overlaps with [general cognitive ability](general-cognitive-ability.md) and with visual-spatial [working memory](working-memory.md).
@@ -104,6 +104,7 @@ Spatial ability covers mental rotation, visualising objects from other viewpoint
 - [Long-term aftereffects of mental rotation training differ by task difficulty: sustained gains then decline for the simple 75° task versus decline over time for the complex 150° task](../claims/aftereffects-differ-task-difficulty-75-150.md) [~M] — instruction changes it
 - [Obstacle Course enrichment enhances spatial object location memory in mice, outperforming enriched housing with a shortened sample phase](../claims/oc-enrichment-enhances-object-location-memory.md) [+M] — instruction changes it
 - [Ten-day mental rotation training improves accuracy and response time, with behavioral benefits maintained up to 90 days post-training](../claims/mr-training-accuracy-rt-gains-90-days.md) [+M] — instruction changes it
+- [Non-learners place objects significantly farther from original locations in a spatial memory task than learners do](../claims/non-learners-poorer-spatial-memory-object-placement.md) [+M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

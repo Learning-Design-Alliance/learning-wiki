@@ -70,3 +70,4 @@ A conceptual article that develops a differentiated-instruction practice framewo
 - [Below-norm students' algebra test scores improved despite having lower-skill peers post-policy, consistent with additional supports offsetting compositional decline](below-norm-scores-improved-despite-lower-peers.md) — related
 - [In one Chicago study, above-norm students' post-policy algebra test gains were partly explained by higher peer ability and by having classmates who took support algebra](above-norm-score-gains-peer-ability-spillover.md) — related
 - [Streaming restructured musician economics before generative AI, with per-stream payouts of fractions of a cent](streaming-devaluation-predates-generative-ai.md) — related
+- [Some personalization methods such as ability tracking may increase achievement gaps, though empirical evidence is mixed](personalization-methods-achievement-inequality-mixed.md) — possibly the same claim (merge candidate)

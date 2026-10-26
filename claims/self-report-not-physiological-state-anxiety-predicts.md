@@ -49,3 +49,4 @@ Correlational screening of multiple state anxiety indices with Bonferroni correc
 - [Skin conductance level did not differ significantly between instructor-presence conditions, though arousal patterns appeared to vary with content difficulty](instructor-presence-no-scl-difference.md) — related
 - [Physiological measures have limited validity for effort, especially for distinguishing data-driven from goal-driven effort](physiological-effort-measures-limited-validity.md) — related
 - [During an exam, students' expectancy for success decreased and the change in expectancy was negatively associated with change in salivary cortisol](expectancy-decline-linked-cortisol-exam.md) — related
+- [Learners show significantly lower skin conductance level across the task than non-learners](learners-lower-scl-across-task.md) — related

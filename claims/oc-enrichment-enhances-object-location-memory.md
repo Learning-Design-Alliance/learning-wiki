@@ -75,3 +75,4 @@ OLM experiment with a shortened 7-min sample and 24-h delay in the same four-gro
 - [Obstacle Course enrichment supports view-invariant object recognition, with OC mice treating rotated objects as familiar while enriched-housing mice treated them as novel](oc-enrichment-view-invariant-object-recognition.md) — related
 - [Obstacle Course enrichment enhances object category recognition memory, allowing category discrimination at a 1-h delay without exemplar preexposure](oc-enrichment-enhances-object-category-recognition.md) — related
 - [Obstacle Course enrichment enhances cross-modal (tactile-to-visual) object recognition, with only the OC group discriminating at a 1-h delay](oc-enrichment-cross-modal-object-recognition.md) — related
+- [Non-learners place objects significantly farther from original locations in a spatial memory task than learners do](non-learners-poorer-spatial-memory-object-placement.md) — related

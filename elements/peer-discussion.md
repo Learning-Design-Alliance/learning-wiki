@@ -88,6 +88,7 @@ Peer discussion improves conceptual understanding because verbalizing reasoning 
 **[Think-Pair-Share](../principles/collaborative-learning.md)** — Individual thinking, paired discussion, then whole-group sharing; the minimal structured peer discussion protocol, usable at any level.
 
 **[Peer Learning Assistant model in introductory physics](https://www.per-central.org)** — Trained undergraduates facilitate small-group discussion around clicker questions, combining peer-level explanation with expert oversight.
+- [Leverage naturally occurring knowledge differences in the classroom to elicit socio-cognitive conflict through collaborative argumentation tasks](../strategies/peer-argumentation-leveraging-classroom-knowledge-differences.md)
 
 ## Key Sources
 - Smith, M. K., Wood, W. B., Adams, W. K., Wieman, C., Knight, J. K., Guild, N., & Su, T. T. (2009). Why peer discussion improves student performance on in-class concept questions. *Science, 323*(5910), 122–124. [doi:10.1126/science.1165919](https://doi.org/10.1126/science.1165919)

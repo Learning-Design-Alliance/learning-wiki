@@ -13,7 +13,7 @@ generated:
 # Gamification
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 9 claims (3 for, 5 mixed, 1 against) · 9 studies (3 quant-synthesis, 3 review, 1 causal, 1 qualitative, 1 theoretical), `q2`–`q4` · 3 of 9 report an effect size · 8 claims rest on one study
+> **Evidence** · 11 claims (5 for, 5 mixed, 1 against) · 10 studies (3 quant-synthesis, 3 review, 2 causal, 1 qualitative, 1 theoretical), `q2`–`q4` · 3 of 10 report an effect size · 10 claims rest on one study
 
 ## Description
 Gamification is the element in which points, progress indicators, challenges, or other game-like structures are used to shape participation and persistence.
@@ -33,6 +33,8 @@ Gamification is the element in which points, progress indicators, challenges, or
 - [Gamification produces a statistically significant small-to-moderate positive effect on motivation in secondary and higher education mathematics (g = .383)](../claims/gamification-motivation-mathematics-meta-effect.md) [+W]
 - [The pooled gamification effect is robust across dependence assumptions, quality thresholds, and model specifications, with no evidence of publication bias](../claims/gamification-mathematics-robustness-publication-bias.md) [+W]
 - [Engagement in gamified mathematics is rarely measured with validated instruments, preventing its meta-analytic synthesis](../claims/engagement-measurement-gap-gamified-mathematics.md) [~W]
+- [Counting days incentive strongly increases the number of days of practice in both a within-class and a between-instructor experiment](../claims/counting-days-increases-practice-days.md) [+M] — attached 2026-10-26 from Iman YeckehZaare et al. (2025), which proposed "Counting Days grading incentive in the Runestone retrieval practice tool"; tests this page's relationship.
+- [A counting days grading incentive raises final exam scores more than a per-question points incentive in an introductory programming course](../claims/counting-days-incentive-higher-exam-scores.md) [+M] — attached 2026-10-26 from Iman YeckehZaare et al. (2025), which proposed "Counting Days grading incentive in the Runestone retrieval practice tool"; tests this page's relationship.
 
 ## Related Elements
 - [Adaptive Difficulty](adaptive-difficulty.md)

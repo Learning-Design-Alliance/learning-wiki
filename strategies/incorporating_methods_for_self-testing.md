@@ -85,6 +85,7 @@ Retrieval practice produces substantially more durable learning than restudying,
 - [Implement weekly low-stakes spaced recall quizzes cycling fundamental concepts monthly, with a plan to address student frustration](weekly-spaced-recall-quiz-strategy-fundamental-concepts.md)
 - [Use frequent, low-stakes, cumulative tests in varied formats, including pretests, and encourage student self-testing](frequent-low-stakes-cumulative-testing-strategy.md)
 - [Support effortful strategy use by making students aware of the benefits of retrieval practice and providing hints](awareness-hints-desirable-difficulty-retrieval.md)
+- [Apply retrieval practice (quizzes, peer teaching, flipped classroom) and monitor detail loss to balance gist and episodic memory](retrieval-practice-balance-gist-detail-strategy.md)
 
 ## Examples
 - **[Anki](https://apps.ankiweb.net)** — spaced-repetition flashcard software that schedules each card for review just before predicted forgetting; widely used in medical education.

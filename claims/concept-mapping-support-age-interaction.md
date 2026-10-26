@@ -71,3 +71,4 @@ A study with late-elementary children varied support during concept mapping acro
 - [Age groups differ in ICAP engagement distribution: younger adults engage more in active mode, older adults more in constructive and interactive modes, during collaborative concept-map learning](icap-engagement-distribution-age-differences.md) — related
 - [Younger adults outperform older adults in concept-map performance, and older adults show no concept-map improvement](concept-map-performance-age-difference.md) — related
 - [Younger adults show higher learning performance than older adults in collaborative concept-map learning of psychological concepts, and older adults show no learning gain](older-adults-no-learning-gain-cscl-concept-maps.md) — related
+- [Older learners outperform under passive instruction while younger learners outperform under active instruction (learner age × learning approach interaction)](older-adults-passive-beats-active-concept-learning.md) — related

@@ -54,3 +54,4 @@ Preregistered three-level hierarchical linear modeling of PISA 2018 data with ma
 - [Cooperative Learning Improves Achievement](cooperative-learning-improves-achievement.md) — related
 - [Small-group learning improves undergraduate STEM achievement](small-group-learning-improves-stem-achievement.md) — related
 - [Children from low-SES backgrounds hold more negative academic self-views, which partially mediate the SES-achievement association across 70 countries](low-ses-negative-self-views-mediate-achievement-inequality.md) — related
+- [The expected performance advantage of ecologically relevant content for low-SES students, predicted by the hidden talents approach, was not found; the opposite pattern emerged](hidden-talents-prediction-contradicted-by-item-content-findings.md) — related

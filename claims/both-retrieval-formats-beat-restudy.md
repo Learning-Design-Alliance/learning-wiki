@@ -74,3 +74,4 @@ In Experiment 1, covert retrieval of definitions also beat restudy with printed 
 - [In Experiment 1, cue-only JOLs produced significantly better Phase B memory and transfer than restudy, while overt retrieval's memory advantage over restudy was only marginal](cue-only-jols-beat-restudy-forward.md) — related
 - [Covert retrieval is the most time-efficient practice strategy, yielding the largest gains per minute of practice for both terms and definitions](covert-retrieval-most-efficient-gains-per-minute.md) — related
 - [The overt-retrieval advantage does not significantly differ by definition complexity (number of idea units), contrary to a retrieval-dynamics prediction](overt-advantage-not-moderated-by-idea-units.md) — related
+- [Overt student behavior is an unreliable proxy for covert cognitive engagement and instructional effectiveness](overt-behavior-unreliable-proxy-engagement.md) — related

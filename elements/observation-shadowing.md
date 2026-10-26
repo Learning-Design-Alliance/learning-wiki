@@ -14,7 +14,7 @@ generated:
 # Observation Shadowing
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 5 studies (2 causal, 1 quant-synthesis, 1 review, 1 theoretical), `q2`–`q3` · 0 of 5 report an effect size · 2 claims rest on one study
+> **Evidence** · 5 claims (3 for, 2 mixed) · 6 studies (3 causal, 1 quant-synthesis, 1 review, 1 theoretical), `q2`–`q3` · 0 of 6 report an effect size · 3 claims rest on one study
 
 ## Description
 Observation shadowing pairs watching with immediate imitation: the learner observes someone else perform a task — an expert, a more capable peer, or a recorded model — and then reproduces the observed performance as closely as possible, often in real time or immediately after. It operationalizes Bandura's observational learning sequence (attention → retention → reproduction → motivation) by compressing the gap between observation and production, so the observed model is still fresh in working memory when the learner acts.
@@ -60,6 +60,7 @@ Shadowing converts passive observation into an active reproduction attempt, whic
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Primary motor cortex (M1) is involved in observational motor adaptation: inhibiting M1 disrupts learning and observing adaptation sequences increases M1 excitability](../claims/m1-involved-observational-motor-adaptation.md) [+W]
+- [Brain activity was not modulated by demonstrator description, but the copying rate modulated activity in action-observation and decision-making regions for Best demonstrators only](../claims/copying-rate-neural-modulation-best-only.md) [~W]
 
 ## Related Elements
 - [Practice](practice.md) — the shadow attempt is itself practice; without it, observation yields illusion of competence

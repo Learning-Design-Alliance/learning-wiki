@@ -80,3 +80,4 @@ Three-way interaction analysis including Treatment, pre-intervention exam score,
 - [No reliable moderation of depth effects by baseline knowledge, though simple slopes suggest an exploratory pattern](no-reliable-moderation-baseline-knowledge.md) — related
 - [Teachers' initial SRL competence profiles moderate training effectiveness: initially high-competence teachers benefit more from training](competence-profiles-moderate-srl-training-effect.md) — related
 - [Not all students would benefit from improving the same competencies, suggesting an individualized approach to education may be preferable to a one-size-fits-all approach](heterogeneous-competency-benefits-individualized-education.md) — a broader claim this one bears on
+- [The spacing incentive benefits lower-GPA students more, nearly equalizing exam performance across prior GPA levels](counting-days-benefits-lower-gpa-students.md) — related

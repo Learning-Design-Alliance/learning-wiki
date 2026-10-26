@@ -74,3 +74,4 @@ One-month post-enrichment replication of the SOR task (7-min sample, 24-h delay)
 - [Obstacle Course enrichment enhances spatial object location memory in mice, outperforming enriched housing with a shortened sample phase](oc-enrichment-enhances-object-location-memory.md) — related
 - [Obstacle Course enrichment supports view-invariant object recognition, with OC mice treating rotated objects as familiar while enriched-housing mice treated them as novel](oc-enrichment-view-invariant-object-recognition.md) — related
 - [Obstacle Course enrichment enhances object category recognition memory, allowing category discrimination at a 1-h delay without exemplar preexposure](oc-enrichment-enhances-object-category-recognition.md) — related
+- [Non-learners place objects significantly farther from original locations in a spatial memory task than learners do](non-learners-poorer-spatial-memory-object-placement.md) — related

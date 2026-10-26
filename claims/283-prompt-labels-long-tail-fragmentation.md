@@ -48,3 +48,4 @@ Bibliometric analysis of 1,238 publications on digital prompting, with 4-gram ex
 - [A small set of dominant prompt labels structures the literature, led by metacognitive and self-explanation prompts](dominant-prompt-labels-metacognitive-self-explanation.md) — related
 - [The four-dimension typology mapped well onto prompt labels, with function labels most frequent and three new presentation subcategories added](typology-mapping-function-dominant-new-subcategories.md) — related
 - [Most prompt labels do not co-occur with other labels, indicating studies narrowly focus on single prompt characteristics](low-co-occurrence-single-characteristic-focus.md) — related
+- [Embodiment research lacks a shared vocabulary, with over 20 distinct labels for embodiment-related concepts appearing in the last decade](embodiment-terminology-fragmentation-over-twenty-labels.md) — related

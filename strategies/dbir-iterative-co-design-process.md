@@ -49,6 +49,7 @@ The article followed DBIR's four principles: common commitment to solving proble
 - [Write custom leveled readers that preserve key content and vocabulary across reading levels rather than using commercially available leveled trade books.](custom-leveled-readers-preserve-content-vocabulary.md)
 - [Plan an extended feasibility phase in which research and platform teams jointly refine design, implementation, and logistics](extended-feasibility-phase-dlp-research.md)
 - [Co-develop the toolkit with districts and refine it iteratively across cohorts](iterative-co-development-toolkit-strategy.md)
+- [Design interventions at teacher and test levels to reduce content bias in math tests](teacher-and-test-level-bias-reduction-interventions.md)
 
 ## Examples
 -

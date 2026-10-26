@@ -13,7 +13,7 @@ moved_from: [principle/behaviorism, principle/reinforcement-theory]
 # Behaviorism
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 13 claims (5 for, 5 mixed, 3 against) · 19 studies (6 causal, 6 review, 4 theoretical, 3 quant-synthesis), `q1`–`q4` · 2 of 19 report an effect size · 9 claims rest on one study
+> **Evidence** · 14 claims (5 for, 6 mixed, 3 against) · 20 studies (7 causal, 6 review, 4 theoretical, 3 quant-synthesis), `q1`–`q4` · 2 of 20 report an effect size · 10 claims rest on one study
 
 ## Description
 Behaviorism is a learning theory that defines learning as a change in observable behavior produced by environmental stimuli and reinforcement contingencies. Associated with Watson, Thorndike, and Skinner, behaviorism holds that the internal workings of the mind are not directly accessible and therefore not the proper object of scientific study — what matters is the measurable relationship between stimulus and response ("conclusions about human development should be based on observation of overt behavior rather than speculation about subconscious motives or latent cognitive processes," Shaffer, 2000). Learning occurs when a desired behavior is reliably elicited and strengthened through reinforcement or extinguished through removal of reinforcement.
@@ -74,6 +74,7 @@ Behaviorism is criticized as overly deterministic and as denying free will; by t
 - [The promise of win maximisation, not the threat of win minimisation, drives longer-form reinforcement-learning expression](../claims/win-maximisation-not-minimisation-drives-expression.md) [+W]
 - [Optimal behaviour is more frequent after wins than after losses, but the after-win advantage is absent in the Post phase and under high reinforcement](../claims/after-win-obr-higher-than-after-loss.md) [~W]
 - [Suppression of the old pattern predicts relearning-old success positively under punishment but negatively under reinforcement](../claims/suppression-relearning-old-valence-dependent.md) [~W]
+- [A 50% shock reinforcement rate yielded the most learners compared with 35% and 60% rates](../claims/reinforcement-rate-50-percent-most-learners.md) [~W]
 
 ## The evidence by question
 - *Does reinforcing a target behaviour with rewards, praise or planned consequences raise learners' performance?* Planned contingency-of-reinforcement designs can raise academic achievement above normal classroom levels across a wide range of children [+M]

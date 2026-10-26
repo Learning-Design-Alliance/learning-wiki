@@ -171,6 +171,7 @@ A related developmental mechanism is **private speech**: children's habit of tal
 - [Teach AI through holistic, active, collaborative pedagogical strategies starting from real problem solving](../strategies/active-real-problem-solving-ai-teaching.md)
 - [Use learner skill levels to determine when to transition from worked examples to problem solving in tutoring systems](../strategies/skill-based-adaptive-fading-schedule.md)
 - [Functional system incorporating tools as the unit of analysis for CSCL microanalysis](../research-methods/functional-system-incorporating-tools-as-the-unit-of-analysis-for-cscl-microanalysis.md)
+- [Leverage naturally occurring knowledge differences in the classroom to elicit socio-cognitive conflict through collaborative argumentation tasks](../strategies/peer-argumentation-leveraging-classroom-knowledge-differences.md)
 
 ## Key Sources
 - Vygotsky, L. S. (1978). *Mind in society: The development of higher psychological processes*. Harvard University Press.

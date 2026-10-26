@@ -13,7 +13,7 @@ generated:
 # Domain Context
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 55 claims (41 show a difference, 12 mixed, 2 no difference) · 52 studies (15 review, 11 qualitative, 9 causal, 6 design, 5 quant-synthesis, 4 theoretical, 2 associational), `q1`–`q4` · 6 of 52 report an effect size · 51 claims rest on one study
+> **Evidence** · 61 claims (44 show a difference, 14 mixed, 3 no difference) · 54 studies (16 review, 11 qualitative, 9 causal, 6 design, 5 quant-synthesis, 4 theoretical, 3 associational), `q1`–`q4` · 7 of 54 report an effect size · 57 claims rest on one study
 
 ## Description
 The sector, role or setting a scenario must be placed in before a learner recognises it as theirs. This is the course-specific dimension: what counts as a recognisable case differs by subject in a way the other dimensions do not. It changes who appears in a scenario and what a task is *about*, not how hard it is — and it is the dimension most likely to be filled with the designer's own context by default.
@@ -96,6 +96,12 @@ The sector, role or setting a scenario must be placed in before a learner recogn
 - [In Experiment 2 the authentic-setting effect on retention did not replicate and reinstating the setting as a test background produced no context effects](../claims/exp2-setting-retention-nonreplication-no-context-effects.md) [-W] — an instructional effect differs with it
 - [Selecting personal-experiences sources is more likely in a personal context without an external audience than in a university context](../claims/personal-context-raises-personal-experiences-selection.md) [+M] — learners who differ on it differ in outcomes
 - [Expectations about the application context, not only actual experience at learning, shape generalization breadth](../claims/expectations-shape-generalization-not-only-experience.md) [+M] — learners who differ on it differ in outcomes
+- [At item level, money and social-interaction content are significantly related to lower odds of correct responding by low-SES students, but food content is not when compared with neutral word problems](../claims/money-social-items-significant-food-not-vs-word-problems.md) [~M] — an instructional effect differs with it
+- [Encoding L2 words by viewing social situations versus textual translation engages more native-like neural responses and improves behavioral performance](../claims/social-encoding-yields-native-like-neural-processing.md) [+M] — an instructional effect differs with it
+- [Items with low-SES ecologically relevant content show Differential Item Functioning to the disadvantage of low-SES students more often than neutral items](../claims/dif-disadvantage-for-ecologically-relevant-items.md) [+M] — an instructional effect differs with it
+- [Low-SES students have a lower chance of correctly answering math items with money, food, or social-interaction content than expected given their average math performance](../claims/low-ses-students-disadvantaged-by-ecologically-relevant-math-content.md) [+M] — an instructional effect differs with it
+- [The disadvantage from ecologically relevant content is driven by money and social-interaction items in both grades, but food items show the effect only in grade 4](../claims/money-and-social-content-drive-ses-item-bias.md) [~M] — an instructional effect differs with it
+- [The expected performance advantage of ecologically relevant content for low-SES students, predicted by the hidden talents approach, was not found; the opposite pattern emerged](../claims/hidden-talents-prediction-contradicted-by-item-content-findings.md) [-M] — an instructional effect differs with it
 
 ## The evidence by question
 - *Does setting problems in contexts drawn from learners' interests raise engagement and performance?* [An IES practice-guide presentation recommends personalized problem contexts, asserting without cited studies that students engage more actively and perform better in them](../claims/personalized-problem-contexts-boost-engagement-grades-4-8.md) [+W]

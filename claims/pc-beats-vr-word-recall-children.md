@@ -50,3 +50,4 @@ Repeated measures ANOVA in a crossover study of 73 Swedish middle-school childre
 - [Sustained attention, not learning condition, was the strongest predictor of children's word recall](sart-strongest-predictor-word-recall.md) — related
 - [Experimental groups differed significantly on prior VR experience and gender composition, which were used as covariates](groups-differed-on-vr-experience-and-gender.md) — related
 - [Neither immersion nor interactivity produced significant effects on transfer measures](no-immersion-interactivity-effect-on-transfer.md) — related
+- [Referential gaze from a virtual teacher boosts L2 word-object mapping unconsciously in immersive VR, mirroring joint-attention mechanisms in first language acquisition](vr-referential-gaze-boosts-l2-word-learning.md) — related

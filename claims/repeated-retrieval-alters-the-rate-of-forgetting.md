@@ -80,3 +80,5 @@ The chapter reports, citing Carpenter et al. (2008), three experiments with fina
 - [In Experiment 3, individual learners showed greater forgetting over 24 hours than paired learners](condition-by-delay-interaction-experiment-3.md) — related
 - [Memory improves with practice in the field where it is exercised](memory-improves-with-practice-in-exercised-field.md) — related
 - [Retention declines with interval (time-dependent forgetting) across images, details, and details-per-image measures](time-dependent-forgetting-across-intervals.md) — related
+- [Losses after long breaks in naturalistic practice are rapidly offset by very little practice: a single gameplay can restore prior performance levels even after delays of hundreds of days](rapid-relearning-single-gameplay.md) — a narrower finding that bears on this claim
+- [The interactive two-timescale model (M4) provides the most general account of naturalistic learning, though the additive-forgetting model (M3) fits better at six of eight interval subsets](interactive-model-best-general-account.md) — related

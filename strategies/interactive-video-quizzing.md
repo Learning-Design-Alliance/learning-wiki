@@ -65,6 +65,7 @@ Embedded questions work primarily as retrieval practice: answering a question ab
 - [Segmenting](segmenting.md) — question pauses double as segmentation, controlling cognitive load
 - [Use Edpuzzle's embedded questions, analytics, and LMS integration to support differentiation](edpuzzle-embedded-questions-analytics-differentiation.md)
 - [Misconception-aware contrastive remediation videos triggered by incorrect quiz answers](misconception-aware-contrastive-remediation-videos.md)
+- [Apply retrieval practice (quizzes, peer teaching, flipped classroom) and monitor detail loss to balance gist and episodic memory](retrieval-practice-balance-gist-detail-strategy.md)
 
 ## Examples
 - **[Edpuzzle](https://edpuzzle.com)** — teachers overlay multiple-choice and open-ended questions on existing videos and track per-student watch and response data.
