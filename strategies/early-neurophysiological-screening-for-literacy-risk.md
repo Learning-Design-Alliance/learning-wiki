@@ -52,6 +52,7 @@ The article recommends, on the strength of its predictive findings, that evaluat
 - [Use broader baseline cognitive predictors beyond conventional phonological measures to detect at-risk learners and personalize literacy intervention](broad-predictors-personalized-dyslexia-intervention.md)
 - [Use beat synchronization assessment and early music and rhythm training as early indicators and supports of reading readiness](beat-synchronization-early-reading-indicator-strategy.md)
 - [Identify specific comprehension deficits early and target intervention at comprehension rather than decoding](early-identification-comprehension-targeted-intervention.md)
+- [Use learning-based neurophysiological indicators of speech-print mapping difficulty for early diagnosis and intervention of developmental dyslexia](rhythmic-stimulation-dyslexia-indicator-strategy.md)
 
 ## Examples
 -

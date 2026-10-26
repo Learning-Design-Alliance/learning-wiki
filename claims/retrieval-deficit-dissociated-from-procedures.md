@@ -54,3 +54,4 @@ Multilevel analyses of a procedural competence variable, d-prime from the Number
 - [Children with LA show a less severe impairment pattern than children with MLD, differing only on symbolic approximate addition](la-less-severe-pattern-than-mld.md) — related
 - [Low- and high-performing students make different types of errors and therefore need different kinds of support](error-types-differ-by-skill-group-math.md) — related
 - [No profile distinguishes more severe, persistent, or specific MLD from less severe MLD on cognitive skills](no-distinct-mld-subtype-profile.md) — related
+- [Mathematical deficits among children with dyslexia are heterogeneous, spanning four distinct deficit profiles](four-math-deficit-subtypes-dyslexia.md) — related

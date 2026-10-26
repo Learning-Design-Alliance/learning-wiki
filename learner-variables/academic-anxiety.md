@@ -13,7 +13,7 @@ generated:
 # Academic Anxiety
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 157 claims (102 show a difference, 37 mixed, 18 no difference) · 94 studies (41 associational, 18 causal, 17 review, 6 quant-synthesis, 6 theoretical, 5 qualitative, 1 design), `q1`–`q4` · 25 of 94 report an effect size · 150 claims rest on one study
+> **Evidence** · 159 claims (102 show a difference, 39 mixed, 18 no difference) · 95 studies (42 associational, 18 causal, 17 review, 6 quant-synthesis, 6 theoretical, 5 qualitative, 1 design), `q1`–`q4` · 25 of 95 report an effect size · 152 claims rest on one study
 
 ## Description
 Academic anxiety is fear or tension aroused by a subject or by being evaluated in it. The research mostly studies three forms: mathematics anxiety, test anxiety and foreign-language anxiety, each measured with self-report scales. Anxiety predicts lower performance, partly because worry takes up [working memory](working-memory.md); it moderates instructional effects (timed or high-stakes formats hurt anxious learners more); and it is an outcome that some designs reduce, such as low-stakes practice testing and expressive writing before an exam. It is a narrower case of [affect regulation](affect-regulation.md).
@@ -193,6 +193,8 @@ Academic anxiety is fear or tension aroused by a subject or by being evaluated i
 - [First-semester math anxiety uniquely predicts lower STEM grades over four years of university, controlling for math ability, STEM course-taking, and other covariates](../claims/math-anxiety-predicts-stem-grades.md) [+M] — learners who differ on it differ in outcomes
 - [Math ability accounts for only ~12% of math anxiety–STEM associations, whereas math anxiety accounts for ~40% of math ability–STEM associations](../claims/mediation-anxiety-ability-stem-outcomes.md) [+M] — learners who differ on it differ in outcomes
 - [Non-STEM grades moderate the negative math anxiety–STEM grades relation (stronger among high non-STEM achievers) but not the anxiety–STEM participation relation](../claims/nonstem-grades-moderate-anxiety-grades-link.md) [~M] — learners who differ on it differ in outcomes
+- [Maths anxiety did not independently predict STEM career choice once maths achievement was controlled, though it predicted in the unadjusted joint model](../claims/maths-anxiety-stem-choice-attenuated-by-achievement.md) [~W] — learners who differ on it differ in outcomes
+- [Maths anxiety predicted STEM career choice in males but not females, although the sex difference itself was not statistically significant](../claims/maths-anxiety-stem-choice-male-only.md) [~W] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Do learners with higher anxiety about a subject or a test achieve less in it?* [Math anxiety has a small-to-moderate negative correlation with math achievement (r = −.28) in a meta-analysis of correlations from 223 studies](../claims/math-anxiety-degrades-performance.md) [+M]

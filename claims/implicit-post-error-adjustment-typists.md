@@ -51,3 +51,4 @@ A study of skilled typists (Logan & Crump, as reviewed here) in which experiment
 - [AI assistance can inflate confidence even after errors and reduce accuracy when AI is faulty (cognitive surrender)](cognitive-surrender-inflates-confidence-after-errors.md) — related
 - [Students envision dual feedback utilization: real-time feedback for immediate adjustment during collaboration and post hoc feedback for reflective, long-term skill development](dual-real-time-post-hoc-feedback-utilization.md) — related
 - [In youth performing an n-back task without feedback, bilateral ventral striatum activates more strongly to correct than incorrect responses](vs-correct-greater-than-incorrect-nback-youth.md) — related
+- [Laboratory-identified behavioural markers of states such as confusion can, with care, indicate the same state in real online learning environments](lab-behavioural-markers-transfer-online.md) — related

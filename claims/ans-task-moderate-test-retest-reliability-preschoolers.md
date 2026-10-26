@@ -51,3 +51,4 @@ Test-retest reliability of the Panamath-based Who Has More task across roughly t
 - [ANS acuity (w) did not significantly improve within children over the six-month period in the session-level analysis, though a hierarchical linear model detected a linear increase in percent correct](no-significant-w-improvement-over-six-months.md) — related
 - [Female preschoolers showed significantly better ANS acuity than males at Session 5, and knower level increased significantly with age](sex-and-age-effects-on-acuity-and-knower-level.md) — related
 - [The tendency to follow advice shows good test-retest reliability across two sessions (~0.73), behaving as a stable trait-like bias](advice-following-test-retest-reliability.md) — related
+- [Spatial orientation skills can be measured reliably with a gamified virtual-environment battery, with average test–retest reliability r = 0.74](vr-battery-reliably-measures-spatial-orientation.md) — related

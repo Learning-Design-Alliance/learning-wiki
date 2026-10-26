@@ -56,3 +56,4 @@ The article's abstract describes a discussion paper setting out six insights fro
 - [Proctor notification after rapid-guessing detection improved test performance and yielded higher convergent validation evidence](proctor-notification-improves-performance-and-validity.md) — related
 - [Rapid-guessing behavior on computer-based tests signals disengaged test taking that threatens score validity](rapid-guessing-signals-disengaged-test-taking.md) — related
 - [Content alignment between a test and its content domain represents key evidence for validating test score inferences](alignment-key-validation-evidence-score-inferences.md) — related
+- [Behavioural data can be used to make inferences about learning, as experimental science of learning has done for decades](behavioural-data-inference-learning-established.md) — related

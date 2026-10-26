@@ -52,3 +52,4 @@ In the same randomized ANOVA design, the within-subjects test-time factor showed
 - [Multiple text reading shows more stable retention than rereading: non-significantly higher one-week scores and a smaller decline from one day to one week](mtr-stable-retention-smaller-decline.md) — related
 - [The self-study-before-discussion advantage persisted at one-week delayed tests, with lecture-condition scores declining over time while self-study-condition scores remained stable](self-study-discussion-long-term-retention-transfer.md) — related
 - [No significant interactions emerged between text medium and any other variable (test time, complexity, engagement)](no-interactions-with-text-medium.md) — a broader claim this one bears on
+- [Novice quiz performance rises after a one-hour static mechanics lesson and then declines over subsequent weeks, following a quadratic learning curve](quadratic-quiz-learning-curve-brief-stem-lesson.md) — related

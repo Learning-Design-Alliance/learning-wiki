@@ -57,3 +57,4 @@ Re-analysis of SIMS80 longitudinal data (13,656 students in the USA, Canada, New
 - [School-average achievement negatively predicts academic self-concept (BFLPE) and GPA in the comprehensive doubly-latent model](school-average-achievement-negative-compositional-effect-asc-gpa.md) — related
 - [Doubly latent multilevel structural equation models disaggregate disciplinary-problem effects at student versus classroom level](doubly-latent-multilevel-sem-discipline-effects.md) — related
 - [Class mean mathematics achievement composition effects were smaller and less often statistically significant than in the original Flemish study, underscoring the value of conceptual replications](math-composition-effects-smaller-in-german-replication.md) — related
+- [No significant spillover effects to reading, and no significant effects on personality or school well-being measures](no-spillover-reading-no-wellbeing-effects.md) — related

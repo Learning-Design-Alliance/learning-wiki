@@ -55,3 +55,4 @@ Combined growth model of the 612-student sample (quadratic factors for math, lin
 - [Negative cross-domain relations between math and L1 motivation were far more prevalent among girls than boys](girls-dimensional-comparison-cross-domain-relations.md) — related
 - [Adolescents' math and L1 self-concept and interest development across Grades 7–9 is best described by a single homogeneous trajectory profile](one-class-motivational-trajectory-grades-7-9.md) — related
 - [Over a full term, aggregated lecture time decreases linearly while independent study time follows a negative quadratic trajectory, rising until the end of the lecture period and then declining](lecture-time-linear-decrease-independent-study-quadratic-trend.md) — related
+- [Students' interest in the lesson content declined as the semester progressed regardless of condition](lesson-interest-declines-over-time.md) — related

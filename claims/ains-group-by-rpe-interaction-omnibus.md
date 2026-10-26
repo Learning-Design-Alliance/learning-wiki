@@ -51,3 +51,4 @@ Omnibus repeated measures ANOVA on the binned anterior insula fMRI responses of 
 - [Adolescents showed a marginally decreased number of punishments before switching in reversal learning](marginal-fewer-punishments-before-adolescent-switches.md) — related
 - [Adolescents and adults perform equally well on the probabilistic reversal learning task overall](adolescent-adult-equal-reversal-task-performance.md) — related
 - [Feedback-stage reward prediction errors, signed or unsigned, do not modulate memory in either learning condition](feedback-rpe-no-memory-effect.md) — related
+- [Adolescents show heightened striatal sensitivity to positive prediction errors, with context-specific valence asymmetries in learning](adolescent-positive-prediction-error-sensitivity.md) — related

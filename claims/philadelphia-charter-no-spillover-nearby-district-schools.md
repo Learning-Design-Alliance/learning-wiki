@@ -53,3 +53,4 @@ The report's summary of its analysis of charter schools' impact on traditional p
 - [The evaluation examined charter school effects by years of operation, grades served, mission, and demographics, plus student composition and turnover](philadelphia-charter-evaluation-multiple-moderators.md) — related
 - [Officials raised equity concerns that closing low-performing charter schools may not better serve students when alternative district schools perform even worse](ri-charter-closure-equity-concern-no-better-alternatives.md) — related
 - [Philadelphia's accelerated schools are evaluated for their impacts on enrollees' graduation rates](philadelphia-accelerated-schools-graduation-impact-evaluation.md) — related
+- [No significant spillover effects to reading, and no significant effects on personality or school well-being measures](no-spillover-reading-no-wellbeing-effects.md) — related

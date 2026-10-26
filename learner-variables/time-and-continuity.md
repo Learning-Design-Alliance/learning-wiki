@@ -13,7 +13,7 @@ generated:
 # Time and Continuity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 127 claims (86 show a difference, 32 mixed, 9 no difference) · 111 studies (45 causal, 25 associational, 17 review, 11 quant-synthesis, 5 qualitative, 5 design, 3 theoretical), `q1`–`q4` · 23 of 111 report an effect size · 123 claims rest on one study
+> **Evidence** · 128 claims (86 show a difference, 33 mixed, 9 no difference) · 112 studies (46 causal, 25 associational, 17 review, 11 quant-synthesis, 5 qualitative, 5 design, 3 theoretical), `q1`–`q4` · 23 of 112 report an effect size · 124 claims rest on one study
 
 ## Description
 How much uninterrupted time a learner actually gets, and whether progress survives the gap to the next session. It sets page length, whether a task finishes in one sitting, and whether a multi-week deliverable survives a bad month. The awkward part is that the schedule which produces the best retention is the one learners reliably judge worst: spacing feels harder and less effective while producing more durable learning [~S], so this dimension cannot be designed by learner preference.
@@ -184,6 +184,7 @@ How much uninterrupted time a learner actually gets, and whether progress surviv
 - [The evening group's 24 h skill improvement reflects offline learning rather than a simple continuation of practice](../claims/evening-offline-gain-exceeds-practice-continuation.md) [+M] — learners who differ on it differ in outcomes
 - [Adolescents on a split sleep schedule remember more educationally realistic factual material learned in the afternoon than peers with equal total sleep in continuous nocturnal sleep](../claims/split-sleep-afternoon-factual-memory.md) [+M] — learners who differ on it differ in outcomes
 - [Under restricted sleep, adolescents on a split sleep schedule show better late-afternoon encoding of pictures than adolescents with the same total sleep opportunity in continuous nocturnal sleep](../claims/split-sleep-afternoon-encoding-advantage.md) [+M] — learners who differ on it differ in outcomes
+- [Nudges prevented 24.2% of learning losses in Portuguese and 7.5% in math at school level, though imprecisely estimated](../claims/nudges-prevented-school-level-learning-losses.md) [~W] — instruction changes it
 
 ## The evidence by question
 

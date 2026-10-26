@@ -13,7 +13,7 @@ generated:
 # Long-Term Memory
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 166 claims (100 show a difference, 38 mixed, 28 no difference) · 103 studies (53 causal, 21 review, 13 quant-synthesis, 8 theoretical, 6 associational, 2 qualitative), `q1`–`q4` · 43 of 103 report an effect size · 158 claims rest on one study
+> **Evidence** · 172 claims (105 show a difference, 38 mixed, 29 no difference) · 107 studies (56 causal, 21 review, 13 quant-synthesis, 8 theoretical, 7 associational, 2 qualitative), `q1`–`q4` · 44 of 107 report an effect size · 164 claims rest on one study
 
 ## Description
 Long-term memory holds information, such as words, facts, events, concepts and procedures, so that it can be retrieved and used later, over spans from hours to decades, and in principle indefinitely. Skills and knowledge get there through repeated practice and use, and stay accessible while they continue to be used. It matters for learning because what is stored there is the base for everything that follows: the [prior knowledge](prior-knowledge.md) and vocabulary that support reading and writing, and the arithmetic facts and procedures that free a learner to work on new mathematics problems. It develops through childhood and adolescence as the brain systems supporting it mature, and older learners lean more on memory-based strategies, for example in mathematics. It is measured with standardised memory batteries that ask learners to recall stories, lists or figures after a delay. It is distinct from [working memory](working-memory.md), which holds information briefly while it is being used; rehearsal and use move material from one to the other.
@@ -201,6 +201,12 @@ Long-term memory holds information, such as words, facts, events, concepts and p
 - [Early offline gain after interleaved practice is reduced by ctDCS: IP-Sham improves from final training block to the 5-min test while IP-ctDCS remains stable](../claims/ctdcs-reduces-early-offline-gain.md) [+M] — instruction changes it
 - [Interleaved practice produces better long-term retention than repetitive practice via offline gains at 6 h and 24 h](../claims/ip-better-retention-than-rp.md) [+M] — instruction changes it
 - [Language processing and episodic memory predict first-year GPA in older university learners](../claims/episodic-memory-language-predict-gpa-older-learners.md) [+M] — learners who differ on it differ in outcomes
+- [Anisomycin infusion into the gustatory cortex 20 min before CTA acquisition impairs long-term memory tested 3 days later in rats](../claims/gc-anisomycin-before-acquisition-impairs-cta-ltm.md) [+M] — instruction changes it
+- [Crossing a conceptual (mission) boundary significantly impairs the accuracy of temporal order memory in an interactive VR episodic memory task](../claims/mission-boundary-crossing-impairs-vr-sequence-memory-accuracy.md) [+M] — instruction changes it
+- [Crossing a spatial boundary shows no significant effect on temporal order memory accuracy, and no significant mission-by-spatial interaction, in the VR salesperson task](../claims/spatial-boundary-null-effect-vr-accuracy.md) [-M] — instruction changes it
+- [Montessori-schooled children show shorter average shortest path length and lower modularity in their semantic networks than traditionally-schooled children](../claims/montessori-lower-aspl-modularity-semantic-network.md) [+W] — instruction changes it
+- [Spatial recall error increased from initial test to the one-week pre-nap test, but recall remained above chance after the delay](../claims/spatial-recall-declines-over-week-above-chance.md) [+M] — instruction changes it
+- [Temporal order memory accuracy and confidence both increased significantly with block order across the six-block VR experiment](../claims/accuracy-confidence-increase-block-order.md) [+M] — instruction changes it
 
 ## Measures
 - **Wechsler Memory Scale (WMS)** (Wechsler, 2010): its logical memory subtest asks for details of a story heard once, as a measure of declarative memory.

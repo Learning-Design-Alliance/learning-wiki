@@ -72,3 +72,4 @@ Emmeans trend analysis over GPAs from 2.893 (tenth percentile) to 3.548 (mean) i
 - [The counting days treatment's benefit for exam scores is mediated almost entirely by the number of days practiced, not the number of questions](spacing-days-mediate-exam-benefit.md) — related
 - [Counting questions students procrastinate, practicing little until late in the semester, while counting days spreads practice across the term](counting-questions-procrastination-pattern.md) — related
 - [AI Interaction Competence, not GPA or prior knowledge, is the decisive moderator of LLM-assisted learning gains](aic-moderates-llm-learning-gains.md) — related
+- [Baseline vocabulary moderates the effect of question-asking practice on science learning, weakening the vocabulary-learning link and equalizing outcomes](vocabulary-moderates-science-learning-equalizing.md) — related

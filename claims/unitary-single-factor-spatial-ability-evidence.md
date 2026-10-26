@@ -47,3 +47,4 @@ Narrative review attributing this to Rimfeld et al. (2017), who administered a b
 ## Related Claims
 - [Imagery and perceptual illusions each comprise multiple factors rather than the single CHC factors](multiple-imagery-and-illusion-factors.md) — related
 - [Perspective-taking (spatial orientation) shows evidence of uniqueness from mental rotation factors](perspective-taking-distinct-from-mental-rotation.md) — reports the opposite
+- [Across sixteen spatial tests, a three-factor hierarchical model (Navigation, Object Manipulation, Visualization) fit best, with factors correlated r = 0.73–0.95 loading on a general Spatial Ability factor](hierarchical-three-factor-spatial-structure.md) — reports the opposite

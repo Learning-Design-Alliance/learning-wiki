@@ -55,3 +55,4 @@ Regression-based mediation analysis (Hayes PROCESS, 5,000 bootstrap cycles) with
 - [Semantic ability correlates with phonological awareness, rapid naming, and both decoding measures in children with dyslexia](semantics-correlates-pa-ran-decoding.md) — a broader claim this one bears on
 - [Semantic abilities indirectly predict pseudoword decoding efficiency in children with dyslexia via phonological awareness and rapid naming](semantics-indirect-pseudoword-decoding-dyslexia.md) — related
 - [Child cognitive skills other than initial word reading (phonemic decoding, working memory, phonological awareness, rapid letter naming) did not significantly predict exposures to mastery](non-significant-child-predictors-exposures.md) — related
+- [Phonological awareness mediates the effect of the DCDC2-READ1 RU2-Short allele on word reading accuracy, word reading fluency, and reading comprehension](phonological-awareness-mediate-read1-reading-outcomes.md) — related

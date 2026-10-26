@@ -53,3 +53,4 @@ EEG recorded pre- and post-training while participants performed a neural assess
 - [Multitasking performance on NeuroRacer declines linearly across the adult lifespan from ages 20 to 79](neuroracer-multitasking-cost-linear-age-decline.md) — related
 - [Validation analyses find no generally reduced neural activity after mnemonic training, with increased alpha power uncorrelated with memory gains](no-processing-efficiency-neural-evidence.md) — related
 - [After mnemonic training, children show increased left anterior frontal theta power for even- versus odd-position digits during encoding](theta-odd-even-pattern-post-mnemonic-training.md) — related
+- [Simultaneous performance of tracking and discrimination tasks produces large multitasking costs at baseline](multitasking-cost-large-baseline-2017.md) — related

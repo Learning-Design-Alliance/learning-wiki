@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2021
+source_checked: 2026-10-26
 sources:
   - id: xin-sun-2021
     resource: "https://doi.org/10.1038/s41539-021-00100-z"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q3` · `i0` negligible
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2021 · checked against its sources 2026-10-26 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The country × mindset interaction significantly predicted mathematics performance, with fixed mindsets associated with higher scores among Chinese students and lower scores among US students. [→ Xin Sun 2021](#xin-sun-2021)
@@ -74,3 +75,5 @@ Six pairwise comparisons of PISA mathematics scores by mindset response per coun
 - [Growth mindset interventions improve math outcomes, particularly for disadvantaged and high-risk students, but effects depend on a supportive teacher-mindset context](growth-mindset-interventions-conditional-teacher-context.md) — related
 - [Students with stronger growth mindsets earn higher grades than fixed-mindset students in early university terms, but the gap narrows and is statistically indistinguishable from Term 7 (observational)](growth-mindset-early-advantage-diminishes-over-time.md) — related
 - [The mindset-performance relationship is U-shaped and non-monotonic: the strongest growth- and strongest fixed-mindset students outperform those with moderate or slightly fixed mindsets](u-shaped-nonlinear-mindset-performance-relation.md) — related
+- [Growth mindset is positively associated with PISA reading, science and math performance overall (Model B standardized βs .21, .20, .16)](growth-mindset-positive-association-pisa-scores.md) — related
+- [The mindset–achievement association is significantly weaker in more culturally distant (non-WEIRD) countries for reading and science, and marginally for math](mindset-achievement-weaker-non-weird.md) — related

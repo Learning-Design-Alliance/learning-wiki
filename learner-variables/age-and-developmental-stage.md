@@ -13,7 +13,7 @@ generated:
 # Age and Developmental Stage
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 186 claims (121 show a difference, 42 mixed, 23 no difference) · 151 studies (58 associational, 28 causal, 25 review, 23 quant-synthesis, 10 theoretical, 5 design, 2 qualitative), `q1`–`q4` · 23 of 151 report an effect size · 184 claims rest on one study
+> **Evidence** · 191 claims (125 show a difference, 42 mixed, 24 no difference) · 153 studies (58 associational, 30 causal, 25 review, 23 quant-synthesis, 10 theoretical, 5 design, 2 qualitative), `q1`–`q4` · 23 of 153 report an effect size · 189 claims rest on one study
 
 ## Description
 Age and developmental stage cover a learner's chronological age, grade level, and the cognitive, language and social development that comes with them. Research uses them as a predictor (growth curves, when skills emerge), as a moderator (an approach that works for older students but not younger ones, or for adults but not children) and to define a population (early childhood, adolescents, adult learners). Age is often a stand-in for what actually matters, such as prior knowledge, reading skill or self-regulation, so a finding that differs by age is a reason to ask which of those it reflects.
@@ -218,6 +218,11 @@ Age and developmental stage cover a learner's chronological age, grade level, an
 - [Older, but not younger, children abstracted decentralized control from the video, and that abstraction did not persist a week later](../claims/older-children-abstract-decentralized-control.md) [+M] — learners who differ on it differ in outcomes
 - [Metacognitive knowledge emerges around age 5 and metacognitive control around age 8, initially domain-dependent and becoming more domain-general with expertise](../claims/developmental-timeline-meta-knowledge-meta-control.md) [+M] — learners who differ on it differ in outcomes
 - [Older children (around 7–9) infer hint recipients are smarter, whereas younger children (~6) see both groups as equally smart](../claims/age-moderates-smartness-inference-help-type.md) [+M] — learners who differ on it differ in outcomes
+- [After-effects of adaptation persist through washout in the youngest children, whereas older children and adults return toward baseline by the end of washout](../claims/aftereffects-persist-youngest-children-washout.md) [+M] — learners who differ on it differ in outcomes
+- [Children up to adolescence use more online feedback control (larger compensation angles) to counteract the perturbation, while overall target success is preserved across all ages](../claims/younger-children-rely-on-online-feedback-compensation.md) [+M] — learners who differ on it differ in outcomes
+- [Initial-angle adaptation in a visuomotor rotation task is not adult-like until roughly 13–14 years of age, with younger children adapting less](../claims/adaptation-immature-until-adolescence-visuomotor.md) [+M] — learners who differ on it differ in outcomes
+- [Learning rates are higher for positive than negative outcomes in both conditions and age groups, with no condition or age differences](../claims/learning-rates-positive-bias-observational.md) [-M] — learners who differ on it differ in outcomes
+- [Younger children's reliance on feedback control reflects a reliance rather than a preference: when adaptation is the only option (Launch ball), they do not adapt more and simply miss the target more](../claims/launch-ball-reliance-not-preference.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does being older at school entry, or older than one's classmates, give a lasting achievement advantage?* [Being a year older at kindergarten entry leads to higher initial achievement](../claims/older-entry-higher-initial-achievement.md) [+M]

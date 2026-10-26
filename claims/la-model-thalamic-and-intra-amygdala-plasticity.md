@@ -48,3 +48,4 @@ Simulation result of the biophysically realistic LA network model described in t
 - [A biophysical model suggested that more excitable LA neurons are preferentially recruited into the fear memory trace via competitive synaptic interactions, validated experimentally](competitive-recruitment-la-neurons.md) — related
 - [Model ablation of engram neurons showed other neurons emerge to support memory, indicating competitive neuronal interactions underlie learning](engram-ablation-competitive-interactions.md) — related
 - [Experimental work indicates basolateral amygdala cells activated by appetitive CSs mainly encode behavioural output, not CS identity, challenging amygdalo-centric feedforward accounts](bl-cells-encode-behavioural-output.md) — related
+- [The Hebbian CS–US convergence model of lateral amygdala plasticity is inconsistent with the timing and brevity of LA CS responses](hebbian-la-model-timing-inconsistency.md) — related

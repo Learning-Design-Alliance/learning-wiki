@@ -59,3 +59,5 @@ Repeated measures analysis of covariance on standardized intercept scores for in
 - [No profile distinguishes more severe, persistent, or specific MLD from less severe MLD on cognitive skills](no-distinct-mld-subtype-profile.md) — reports the opposite
 - [Multidigit skills deficits differentiate number difficulty groups more clearly than single digit processing or domain-general deficits](multidigit-deficits-differentiate-groups.md) — related
 - [Most children with MLD or low achievement exhibit deficits in both domain-general and numerical factors, supporting a multiple deficits view](multiple-deficits-view-number-difficulties.md) — a narrower finding that bears on this claim
+- [Mathematical deficits among children with dyslexia are heterogeneous, spanning four distinct deficit profiles](four-math-deficit-subtypes-dyslexia.md) — related
+- [Number-processing deficits represent the most pervasive profile, lowering performance across the whole mathematics battery](number-processing-deficit-lowest-across-battery.md) — a narrower finding that bears on this claim

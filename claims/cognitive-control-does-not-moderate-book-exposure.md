@@ -52,3 +52,4 @@ Final step of the vocabulary hierarchical regression (N = 174): "None of the thr
 - [Children's storybook knowledge (book-cover recognition) mediates the relationship between home literacy environment and literacy outcomes](storybook-knowledge-mediates-hle-literacy-link.md) — related
 - [Joint Book Reading Predicts Literacy Success](joint-book-reading-predicts-literacy-success.md) — related
 - [Short-term memory predicts vocabulary over and above book exposure and intelligence](short-term-memory-predicts-vocabulary.md) — related
+- [Baseline vocabulary moderates the effect of question-asking practice on science learning, weakening the vocabulary-learning link and equalizing outcomes](vocabulary-moderates-science-learning-equalizing.md) — related

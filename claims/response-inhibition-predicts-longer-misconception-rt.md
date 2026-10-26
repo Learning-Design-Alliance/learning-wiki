@@ -50,3 +50,4 @@ Hierarchical multiple regression (N = 81) predicting misconception RT; model 2b 
 - [Interference suppression, but not response inhibition, relates to academic achievement and schooling skills](interference-suppression-not-response-inhibition-predicts-school-competence.md) — related
 - [The ability to generate a single correct inhibitory response is evident early in development, while what improves through adolescence is the proportion of trials with correct inhibitory responses](inhibition-early-available-consistency-improves-adolescence.md) — related
 - [NAT produced near-transfer gains in inhibitory control across task difficulty, Go RT, and Go/No-Go accuracy measures](nat-inhibitory-control-near-transfer.md) — related
+- [Montessori students achieve higher efficiency (RT/accuracy) than traditionally-schooled students in the math task](montessori-higher-efficiency-score.md) — related

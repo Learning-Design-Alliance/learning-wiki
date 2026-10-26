@@ -45,6 +45,7 @@ The review frames responsible GenAI use in group work as a matter of academic in
 - [Embed GenAI literacy and ethical use directly in nursing curricula rather than prohibiting it](embed-genai-literacy-ethics-nursing-curricula.md)
 - [Embed AI literacy across disciplines by identifying intersections with existing content and using case studies, interdisciplinary modules, and collaborative projects](embed-ai-literacy-across-disciplines.md)
 - [Structure GenAI use guidelines as a scaffold progressing from what GenAI is, through affordances, to consequences and collective responsibilities](scaffolded-layered-genai-guidelines.md)
+- [Mitigation strategy: AI-literacy curricula with fact-checking modules, comprehensive educator training, and transparent documentation of AI use](ai-literacy-fact-checking-mitigation-strategy.md)
 
 ## Examples
 -

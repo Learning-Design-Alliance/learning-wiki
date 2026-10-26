@@ -13,7 +13,7 @@ generated:
 # Mindset
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 59 claims (33 show a difference, 20 mixed, 6 no difference) · 29 studies (12 associational, 6 causal, 6 review, 3 theoretical, 2 quant-synthesis), `q1`–`q4` · 9 of 29 report an effect size · 57 claims rest on one study
+> **Evidence** · 60 claims (34 show a difference, 20 mixed, 6 no difference) · 30 studies (13 associational, 6 causal, 6 review, 3 theoretical, 2 quant-synthesis), `q1`–`q4` · 10 of 30 report an effect size · 58 claims rest on one study
 
 ## Description
 Mindset is Dweck's term for implicit theories of intelligence: a fixed mindset holds that ability is set, a growth mindset that it can be developed. It is measured with short self-report scales. Research tests it as a predictor of achievement, as a moderator, and above all as an outcome of brief growth-mindset interventions. Large preregistered trials and meta-analyses find that the average effect of those interventions on achievement is small and concentrated in lower-achieving students in supportive settings, and that the correlation between mindset and achievement is weak.
@@ -90,6 +90,7 @@ Mindset is Dweck's term for implicit theories of intelligence: a fixed mindset h
 - [The mindset-performance relationship is U-shaped and non-monotonic: the strongest growth- and strongest fixed-mindset students outperform those with moderate or slightly fixed mindsets](../claims/u-shaped-nonlinear-mindset-performance-relation.md) [~W] — learners who differ on it differ in outcomes
 - [Growth mindsets associate with higher US mathematics scores but slightly lower Chinese mathematics scores (country × mindset interaction)](../claims/mindset-math-association-reversed-china-us.md) [~M] — learners who differ on it differ in outcomes
 - [Intelligence mindsets correlate with effort-ability attributions and achievement more strongly in the US than in the Chinese college sample](../claims/mindset-attribution-correlations-weaker-chinese-sample.md) [~M] — learners who differ on it differ in outcomes
+- [Growth mindset is positively associated with PISA reading, science and math performance overall (Model B standardized βs .21, .20, .16)](../claims/growth-mindset-positive-association-pisa-scores.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Do growth-mindset interventions raise achievement, and for which learners and in which settings?* [Growth-mindset interventions have weak average effects on achievement, including a negligible GPA gain (d = 0.11) for lower-achieving US ninth-graders in one preregistered national trial](../claims/growth-mindset-improves-achievement.md) [+S]

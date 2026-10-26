@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2023
+source_checked: 2026-10-26
 sources:
   - id: sharon-wolf-and-guilherme-lichand-2023
     resource: "https://doi.org/10.1038/s41539-023-00180-z"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i0` negligible
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · checked against its sources 2026-10-26 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i0` Parents-only treatment had a positive but statistically insignificant effect on a standardized learning summary measure (d = 0.081, p = 0.158), equivalent to roughly one-quarter of a school year. [→ Sharon Wolf and Guilherme Lichand 2023](#sharon-wolf-and-guilherme-lichand-2023)
@@ -51,3 +52,5 @@ School-randomized trial with N = 100 schools and 2246 students; ANCOVA regressio
 - [The nudge intervention had no statistically significant effects on parenting mechanisms of motivation and engagement](nudge-no-effects-parenting-mechanisms.md) — related
 - [Teacher-only and combined parent-teacher nudges showed no impacts on learning, with small negative point estimates](teacher-and-combined-nudge-arms-no-learning-impacts.md) — related
 - [Teacher-targeted nudges showed significant negative interactions with child sex, with negative learning impacts for girls](teacher-only-nudge-negative-learning-girls.md) — related
+- [Targeting students directly (versus caregivers) produced significantly larger nudge effects on test scores (0.31 vs. 0.08 s.d.)](direct-student-targeting-larger-effects.md) — related
+- [SMS nudges targeting socio-emotional skills increased student-level standardized test scores during remote learning, by 0.21 s.d. in Portuguese and 0.19 s.d. on the summary measure](sms-nudges-raise-student-test-scores-remote-learning.md) — related

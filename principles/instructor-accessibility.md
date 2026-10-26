@@ -26,7 +26,7 @@ sources:
 # Instructor Accessibility
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 24 claims (9 for, 15 mixed) · 28 studies (6 causal, 5 review, 5 qualitative, 4 quant-synthesis, 4 design, 3 associational, 1 theoretical), `q1`–`q4` · 4 of 28 report an effect size · 19 claims rest on one study
+> **Evidence** · 25 claims (9 for, 16 mixed) · 29 studies (6 causal, 5 review, 5 qualitative, 4 quant-synthesis, 4 associational, 4 design, 1 theoretical), `q1`–`q4` · 4 of 29 report an effect size · 20 claims rest on one study
 
 ## Conditional relationship
 
@@ -141,6 +141,7 @@ Use of help, satisfaction with the instructor, help received before a deadline, 
 - [Students predominantly recommended future students use office hours and formal course staff, with LLMs positioned as a supplement](../claims/students-recommend-office-hours-over-llms.md) [+W]
 - [A significant portion of participants said they would have exited LER onboarding without live human support](../claims/live-support-prevents-ler-onboarding-exit.md) [+W]
 - [Learners heed proactive promptings more systematically when a human tutor is accessible than when it is not](../claims/promptings-heeded-more-with-human-tutor.md) [~W]
+- [Exam-period uncertainty is linked to faster first replies to questions, but mainly when academic stakes are high](../claims/exam-uncertainty-faster-first-replies.md) [~W]
 
 ## Related Principles
 - [Immediate Feedback](immediate-feedback.md) — accessibility often determines whether timely feedback is actually available.

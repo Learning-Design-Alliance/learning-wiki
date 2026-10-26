@@ -47,3 +47,4 @@ Authors' interpretive discussion of the top-down contribution to the framework: 
 ## Related Claims
 - [Maritime instructors resisted automated assessment of simulator performance, preferring learning analytics that support their professional judgment and use existing simulator data](instructors-resist-automated-assessment-prefer-judgment-support.md) — related
 - [Maritime students supported MMLA but preferred on-demand post-simulation access via mobile application over real-time in-simulation dashboards](students-support-mmla-prefer-post-hoc-mobile-access.md) — related
+- [The teacher remains central to linking learning analytics with appropriate educational action](teacher-central-linking-analytics-to-action.md) — related

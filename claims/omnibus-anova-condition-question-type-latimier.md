@@ -47,3 +47,4 @@ Omnibus mixed ANOVA on final test scores (learning condition between-subject, qu
 ## Related Claims
 - [The spacing-induced practice decrement is confined to the first two quiz questions, with no significant difference on the third](spacing-decrement-limited-to-first-two-questions.md) — related
 - [No gender × question-type interaction and no gender main effect on TEMA-3 formal vs. informal math items](no-gender-question-type-interaction-formal-informal-math.md) — related
+- [Lab-based versus textbook-based instruction produced no significant difference in novices' quiz learning over the experiment's timecourse](no-group-effect-quiz-lab-vs-textbook.md) — related

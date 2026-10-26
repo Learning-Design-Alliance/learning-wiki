@@ -69,3 +69,5 @@ Descriptive category counts across sessions from the 830-prompt dataset. Instrum
 - [Students' inquiry sequences differ by session: most start with Assertion questions in Session 1 (prob = 0.48) but with Instrumental/Procedural questions in Session 2 (prob = 0.43)](inquiry-state-transitions-differ-by-session.md) — related
 - [First-generation students asked fewer questions overall than continuing-generation students in both sessions](first-generation-students-ask-fewer-ai-questions.md) — related
 - [Student GenAI use patterns shifted across assessments: Learning and Formatting dominated under purpose-specific use, while Feedback became the dominant use (66.7%) under open use](genai-use-functions-shift-toward-feedback-across-assessments.md) — related
+- [Question-asking practice does not increase prompted question generation on a novel-animal task, nor the content categories of those questions](no-transfer-to-prompted-question-generation.md) — related
+- [Children encouraged to ask questions increase the number of relevant questions they ask over the course of training, but non-linearly](question-asking-increases-over-training-sessions.md) — related

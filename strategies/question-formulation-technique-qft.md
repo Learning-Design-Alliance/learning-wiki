@@ -81,11 +81,13 @@ QFT treats question-asking as a teachable skill rather than a fixed disposition,
 6. Close with reflection: what did learners learn from producing and choosing questions, and how might they use the process again?
 
 ## Related Strategies
+
 - [Socratic Questioning](../elements/socratic-questioning.md) — instructor-led questioning; QFT reverses the direction of questioning to learners
 - [KWL](kwl.md) — a lighter-weight question-generation routine; QFT adds systematic refinement and prioritization
 - [See-Think-Wonder](see-think-wonder.md) — an observation-first routine whose "Wonder" step is an informal precursor to structured question generation
 - [Think-Pair-Share](../patterns/think-pair-share.md) — compatible grouping structure for the generation phase
 - [Embed the KWL strategy across inquiry phases to guide question generation and question-quality monitoring](kwl-integrated-inquiry-question-generation.md)
+- [Incorporate the finer possibility-oriented question taxonomy into the Question Formulation Technique](possibility-taxonomy-in-question-formulation-technique.md)
 
 ## Examples
 - **[Right Question Institute](https://rightquestion.org)** — maintains the official QFT protocol, free classroom resources, and a large educator community; source of the original formulation in Rothstein & Santana (2011).

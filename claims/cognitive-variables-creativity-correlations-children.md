@@ -69,3 +69,4 @@ Correlational analyses in the study of 209 children administered measures of cre
 - [Intelligence and creativity share more variance than the traditional assumption of distinct abilities holds](intelligence-creativity-more-in-common.md) — a narrower finding that bears on this claim
 - [Cognitive resources play a dual role in SR, both enabling self-regulatory processes and constraining how Learning Activities unfold](cognitive-resources-dual-role-enable-and-constrain-sr.md) — related
 - [Children's age, general intelligence, and divergent thinking positively predicted tool innovation performance, while executive function measures predicted only ideal manipulation](age-intelligence-divergent-thinking-predict-tool-innovation.md) — related
+- [Cingulum white matter integrity subgroups relate to differences in children's cognitive performance](cingulum-fa-cognitive-performance-subgroups.md) — related

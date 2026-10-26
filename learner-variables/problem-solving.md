@@ -13,7 +13,7 @@ generated:
 # Problem Solving
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 73 claims (52 show a difference, 10 mixed, 11 no difference) · 60 studies (30 causal, 10 review, 7 associational, 4 theoretical, 3 quant-synthesis, 3 qualitative, 3 design), `q1`–`q4` · 14 of 60 report an effect size · 71 claims rest on one study
+> **Evidence** · 74 claims (52 show a difference, 11 mixed, 11 no difference) · 61 studies (30 causal, 11 review, 7 associational, 4 theoretical, 3 quant-synthesis, 3 qualitative, 3 design), `q1`–`q4` · 14 of 61 report an effect size · 72 claims rest on one study
 
 ## Description
 Problem solving is the ability to work through a challenge that has no ready answer: defining the goal, drawing on relevant [prior knowledge](prior-knowledge.md), resources and skills, generating options and choosing among them. The LVN record (written for adult learners) treats it broadly, covering everyday, career and academic problems and conflicts, and includes both critical and creative thinking within it. It can be measured with scenario-based tasks in which learners analyse realistic problems from home, family and work life.
@@ -111,6 +111,7 @@ For adults, problem solving bears on navigating personal, workplace and educatio
 - [Training restructuring strategies improves grade-2 students' word problem solving skills at four-week follow-up relative to a control group](../claims/restructuring-training-improves-word-problem-solving.md) [+W] — instruction changes it
 - [Project-method proponents claim skills are acquired without specific repetition through motivated life situations, refusing compromise with demands for economical skill practice](../claims/project-method-no-specific-repetition-claim.md) [+W] — instruction changes it
 - [Higher TORR scores, especially antinomy, predict more creative engineering design solutions](../claims/torr-predicts-creative-engineering-design.md) [+M] — learners who differ on it differ in outcomes
+- [The review warns that students risk overreliance on LMFM outputs and that overuse may impede critical thinking, research skills, and independent problem-solving](../claims/lmfm-overreliance-impedes-critical-thinking.md) [~W] — instruction changes it
 
 ## Measures
 - **Everyday Problem Solving Inventory** (Cornelius & Capsi, 1987): task-based assessment in which learners analyse 48 real-life scenarios about family, home, conflict and managing information.

@@ -47,3 +47,4 @@ Exploratory mediator analysis using an adapted autonomous motivation scale and t
 ## Related Claims
 - [Parents-only SMS/audio nudges produced statistically non-significant learning gains of d = 0.081 in rural Cote d'Ivoire](ivorian-parents-only-nudge-nonsignificant-learning-gains.md) — related
 - [Teacher-only and combined parent-teacher nudges showed no impacts on learning, with small negative point estimates](teacher-and-combined-nudge-arms-no-learning-impacts.md) — related
+- [Text-message nudges achieving impacts of the same order as remote remedial instruction indicates motivation itself carries much of remote-learning effectiveness](nudge-impacts-match-remedial-instruction-order.md) — related

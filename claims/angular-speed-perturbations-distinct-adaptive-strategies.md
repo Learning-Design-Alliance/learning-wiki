@@ -67,3 +67,4 @@ Regression analysis of corrected user velocity (vU*) and inter-dot distance (IDD
 - [Gaze behavior shows distinct tracking modes: angular discrepancies engage both external target tracking and self-monitoring, whereas speed discrepancies engage predominantly self-referential monitoring](gaze-tracking-modes-by-perturbation-type.md) — related
 - [Individual differences in sensory detection and motor variability do not reliably predict visuomotor adaptation, showing weak cross-task predictive power](weak-cross-task-predictive-power.md) — related
 - [Detection of motion discrepancies increases with both perturbation magnitude and duration, with response times decreasing with magnitude](detection-scales-with-magnitude-and-duration.md) — related
+- [Visuomotor tracking accuracy improved across sessions similarly for both training groups](tracking-accuracy-gains-both-groups.md) — related

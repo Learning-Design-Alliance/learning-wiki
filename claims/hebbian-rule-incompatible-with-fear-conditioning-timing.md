@@ -47,3 +47,4 @@ The review states this as an established behavioural finding from the fear condi
 ## Related Claims
 - [STC associative interactions occur across intervals of hours, extending the temporal contiguity needed for association well beyond the tens of milliseconds typical of Hebbian associativity](stc-associative-interactions-extend-temporal-contiguity.md) — a broader claim this one bears on
 - [Experimental work indicates basolateral amygdala cells activated by appetitive CSs mainly encode behavioural output, not CS identity, challenging amygdalo-centric feedforward accounts](bl-cells-encode-behavioural-output.md) — related
+- [The Hebbian CS–US convergence model of lateral amygdala plasticity is inconsistent with the timing and brevity of LA CS responses](hebbian-la-model-timing-inconsistency.md) — possibly the same claim (merge candidate)

@@ -52,3 +52,4 @@ The abstract warns, as an argument rather than a finding, that ignoring the diff
 - Early-stage performance data is particularly important for predicting attrition, while demographic data has limited predictive value once performance data is available — related
 - [Predictive learning analytics can generate early warnings of dropout risk and trigger targeted interventions in adult education](predictive-analytics-early-warning-dropout-adults.md) — related
 - [Attendance, behavior, and course performance (the ABC indicators) reliably predict which secondary students are at risk of dropping out](abc-early-warning-indicators-predict-dropout.md) — related
+- [The teacher remains central to linking learning analytics with appropriate educational action](teacher-central-linking-analytics-to-action.md) — related

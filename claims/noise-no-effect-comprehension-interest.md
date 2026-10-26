@@ -49,3 +49,4 @@ Behavioral analysis of comprehension accuracy and interest ratings across the th
 - [Noise condition modulates neural speech tracking, with better decoding of speech in continuous than quiet or intermittent noise](speech-tracking-modulated-by-noise-type.md) — related
 - [Low-interest segments show higher alpha and lower beta power, while noise has no effect on either band](low-interest-alpha-beta-signature.md) — related
 - [Irrelevant changing-state sounds impair children's serial recall of visually presented items, with developmental evidence pointing to two mechanisms](irrelevant-sound-effect-children-serial-recall.md) — related
+- [Exercise during class does not significantly affect depression, interest, sleep frequency, or mind-wandering](classroom-exercise-no-cognitive-engagement-effect.md) — related

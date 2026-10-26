@@ -50,3 +50,4 @@ A 3x2 repeated measures ANOVA on in-scanner reaction time found significant main
 - [Adolescents with ADHD respond more slowly than non-ADHD peers across all conditions, and color-shape binding slows responses in both groups](adhd-slower-rt-wm-binding-task.md) — related
 - [Individuals with schizophrenia show reduced behavioral benefit from combined audiovisual cues and altered multisensory temporal processing](schizophrenia-reduced-audiovisual-benefit-temporal-acuity.md) — related
 - [In-scanner sentence judgment accuracy correlates significantly with standardized reading fluency and phonological awareness scores across both groups](inscanner-performance-correlates-fluency-phonological.md) — related
+- [Phonologically similar pairs are learned with lower accuracy and slower reaction-time learning than dissimilar pairs, in both groups](phonological-similarity-slows-s-ss-learning.md) — related

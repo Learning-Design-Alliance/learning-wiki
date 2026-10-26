@@ -49,3 +49,4 @@ Discussion summary of the two regression models in Table 1: Math Ability's uniqu
 - [First-semester math anxiety uniquely predicts a reduction in the proportion of STEM courses students take over four years of university, controlling for math ability and other covariates](math-anxiety-predicts-stem-course-avoidance.md) — related
 - [Non-STEM grades moderate the negative math anxiety–STEM grades relation (stronger among high non-STEM achievers) but not the anxiety–STEM participation relation](nonstem-grades-moderate-anxiety-grades-link.md) — related
 - [Math ability accounts for only ~12% of math anxiety–STEM associations, whereas math anxiety accounts for ~40% of math ability–STEM associations](mediation-anxiety-ability-stem-outcomes.md) — related
+- [Maths anxiety did not independently predict STEM career choice once maths achievement was controlled, though it predicted in the unadjusted joint model](maths-anxiety-stem-choice-attenuated-by-achievement.md) — related

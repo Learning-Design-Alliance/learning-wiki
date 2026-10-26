@@ -52,3 +52,4 @@ Longitudinal multilevel analysis (PROC MIXED) of forced retrieval task performan
 - [Counting-string intrusion errors are as common in LA-Severe Fact Retrieval children as in children with MLD, but decline across grades only for the MLD group](counting-string-intrusions-mld-vs-la-severe.md) — related
 - [Children with LA show a less severe impairment pattern than children with MLD, differing only on symbolic approximate addition](la-less-severe-pattern-than-mld.md) — reports the opposite
 - [Fact retrieval deficits in LA-Severe children occur alongside intact addition procedural competencies and modest, improving number-task performance](retrieval-deficit-dissociated-from-procedures.md) — related
+- [Mathematical deficits among children with dyslexia are heterogeneous, spanning four distinct deficit profiles](four-math-deficit-subtypes-dyslexia.md) — related

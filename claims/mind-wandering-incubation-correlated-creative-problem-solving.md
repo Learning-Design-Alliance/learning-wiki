@@ -49,3 +49,4 @@ The review reports, citing Baird et al. (2012), that "Episodes of mind wandering
 - [Trait mind wandering predicts verbal creativity over fluid intelligence, reading difficulties, and declarative knowledge of metacognitive strategies in tertiary-level students](trait-mind-wandering-predicts-verbal-creativity-tertiary-students.md) — related
 - [High school students capitalize on the creative potential of mind wandering at the highest levels of attentional capacity and metacognition](high-school-students-mind-wandering-attentional-capacity-metacognition.md) — related
 - [Metacognition may limit creativity during the generative stage but facilitate it during the exploratory stage](metacognition-dual-impact-generative-exploratory-stages.md) — related
+- [Within a person, vigour correlates positively with interest and negatively with fatigue, depression, sleepiness, and mind-wandering](vigour-within-person-correlations-engagement.md) — related

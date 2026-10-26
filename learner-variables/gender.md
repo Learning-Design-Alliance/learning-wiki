@@ -13,7 +13,7 @@ generated:
 # Gender
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 313 claims (186 show a difference, 67 mixed, 60 no difference) · 211 studies (138 associational, 35 causal, 14 quant-synthesis, 10 review, 5 qualitative, 5 theoretical, 4 design), `q1`–`q4` · 37 of 211 report an effect size · 305 claims rest on one study
+> **Evidence** · 318 claims (188 show a difference, 68 mixed, 62 no difference) · 214 studies (140 associational, 36 causal, 14 quant-synthesis, 10 review, 5 qualitative, 5 theoretical, 4 design), `q1`–`q4` · 38 of 214 report an effect size · 310 claims rest on one study
 
 ## How to read this page
 
@@ -352,6 +352,11 @@ Gender is recorded in most education studies, usually as a binary category taken
 - [No GPA difference between male and female older learners, or across faculties](../claims/no-gender-faculty-gpa-difference-older-learners.md) [-M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Sex differences in the intensity bias emerge despite comparable baseline liking, wanting, hunger, and instrumental learning between males and females](../claims/sex-groups-matched-on-liking-wanting-learning.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [The direction bias is absent of sex modulation in the aversive PIT context as well, with no male-female difference in direction bias](../claims/aversive-pit-direction-bias-no-sex-difference.md) [-M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Female participants reported significantly higher maths anxiety and general anxiety, while males reported higher maths self-efficacy and maths interest](../claims/sex-differences-maths-anxiety-motivation-means.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Males were more than 2.5 times as likely as females to make a STEM career choice in the TEDS sample](../claims/male-female-stem-choice-disparity-teds.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Maths anxiety predicted STEM career choice in males but not females, although the sex difference itself was not statistically significant](../claims/maths-anxiety-stem-choice-male-only.md) [-M] — an instructional effect differs by group
+- [No sex-related differences in adaptation (initial angle) or final angle were found in this visuomotor learning task across childhood](../claims/no-sex-differences-visuomotor-adaptation.md) [-M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Sex moderated the associations between specific sedentary behavior types and mathematics ability, prompting sex-stratified analyses](../claims/sex-by-sedentary-behavior-interaction-math.md) [~M] — an instructional effect differs by group
 
 ## The evidence by question
 - *Do girls and boys differ in mathematics and reading achievement, by how much, and where in the distribution?* [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](../claims/pisa-sex-differences-math-small-reading-three-times-larger.md) [+M]

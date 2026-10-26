@@ -9,6 +9,7 @@ generated:
   at: 2026-10-17
 evidence_strength: moderate
 newest_evidence: 2015
+source_checked: 2026-10-26
 sources:
   - id: hauser-2015
     resource: "https://doi.org/10.1016/j.neuroimage.2014.09.018"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3`
-> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2015 · checked against its sources 2026-10-26 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Adolescents showed a significantly increased learning rate for negative RPEs in chosen objects compared to adults, while other model parameters did not differ significantly. [→ Hauser 2015](#hauser-2015)
@@ -56,3 +57,4 @@ Computational modeling of behavioral data from 19 adolescents (12-16 y) and 17 a
 - [A risk-sensitive reinforcement learning model with anticorrelated valuation fit reversal learning behavior better than standard models](rsav-model-outperformed-standard-rl-models.md) — related
 - [Individual movement-error distributions during strategic adaptation are multimodal (peaks at sign flips, mirror reversals, and defaults), inconsistent with random exploration predicted by reinforcement learning](multimodal-error-distributions-strategic-adaptation.md) — related
 - [A reinforcement learning model with separate surprise and uncertainty learning-rate parameters per condition best fits gambling behavior, though individual parameter estimates did not reach significance](rl-model-separate-surprise-uncertainty-el-ol.md) — related
+- [Adolescents show heightened striatal sensitivity to positive prediction errors, with context-specific valence asymmetries in learning](adolescent-positive-prediction-error-sensitivity.md) — related

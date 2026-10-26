@@ -56,3 +56,4 @@ Review reports Cappelletti and Price (2014) findings that DD adults' "longer res
 - [Adults with DD show deficient alerting and executive attention with preserved orienting, indicating domain-general deficits beyond number processing](dd-adults-alerting-executive-attention-deficits.md) — reports the opposite
 - [Adults with dyslexia execute both retrieval and procedural arithmetic strategies more slowly than controls](dyslexia-slower-strategy-execution.md) — related
 - [Adults with dyslexia without dyscalculia show no deficit in nonsymbolic numerical magnitude processing](dyslexia-without-dyscalculia-intact-magnitude-processing.md) — related
+- [Mathematical deficits among children with dyslexia are heterogeneous, spanning four distinct deficit profiles](four-math-deficit-subtypes-dyslexia.md) — related

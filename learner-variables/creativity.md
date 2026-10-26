@@ -13,7 +13,7 @@ generated:
 # Creativity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 98 claims (68 show a difference, 24 mixed, 6 no difference) · 50 studies (16 causal, 14 associational, 11 review, 4 quant-synthesis, 3 design, 2 theoretical), `q1`–`q3` · 13 of 50 report an effect size · 96 claims rest on one study
+> **Evidence** · 100 claims (70 show a difference, 24 mixed, 6 no difference) · 51 studies (16 causal, 15 associational, 11 review, 4 quant-synthesis, 3 design, 2 theoretical), `q1`–`q3` · 14 of 51 report an effect size · 98 claims rest on one study
 
 ## Description
 Creativity as a learner characteristic is the ability to produce ideas that are both new and fitting. It is most often measured with divergent-thinking tests (how many and how varied the uses someone can find for an object). It correlates with intelligence and with achievement, including in mathematics, where generating several solution paths may deepen understanding. Creativity can also be an outcome that instruction aims at; this page is about learners who differ in it.
@@ -133,6 +133,8 @@ Creativity as a learner characteristic is the ability to produce ideas that are 
 - [General question-asking ability remained stable or declined over the semester, with AQT originality showing a large significant decrease and complexity unchanged](../claims/general-question-asking-declines-over-semester.md) [~M] — instruction changes it
 - [Higher question-asking originality and complexity were negatively correlated with closed-ended multiple-choice exam performance](../claims/question-originality-complexity-negative-exam.md) [+M] — learners who differ on it differ in outcomes
 - [Question-asking originality and complexity positively correlated with open-ended group project performance, while fluency measures correlated negatively](../claims/question-asking-positive-open-ended-project.md) [~M] — learners who differ on it differ in outcomes
+- [Creativity scores correlate positively with total verbal fluency responses](../claims/creativity-correlates-verbal-fluency-responses.md) [+M] — learners who differ on it differ in outcomes
+- [Montessori-schooled children outperform traditionally-schooled children on both divergent and convergent creativity tests](../claims/montessori-higher-divergent-convergent-creativity.md) [+M] — instruction changes it
 
 ## Related Learner Variables
 

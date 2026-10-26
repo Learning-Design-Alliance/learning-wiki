@@ -51,3 +51,4 @@ Omnibus 2×2×2×2 mixed ANOVA (test time within; medium, complexity, engagement
 - Counterbalancing condition did not affect map accuracy and did not interact with test condition — related
 - [Text complexity (basic vs. comprehensive textbook) shows no significant effect on comprehension](text-complexity-no-comprehension-effect.md) — related
 - [Quiz accuracy declines from immediate to 1-week delayed testing regardless of text medium](quiz-accuracy-declines-after-one-week-delay.md) — a narrower finding that bears on this claim
+- [Lab-based versus textbook-based instruction produced no significant difference in novices' quiz learning over the experiment's timecourse](no-group-effect-quiz-lab-vs-textbook.md) — related

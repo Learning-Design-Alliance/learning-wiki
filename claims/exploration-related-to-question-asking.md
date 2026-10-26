@@ -51,3 +51,4 @@ The review reports, citing Endsley and colleagues (1979), observations of 5-year
 - [Stress-exposed adolescents fail to follow the optimal exploratory strategy of initial indiscriminate responding](early-stress-reduced-exploration-learning-task.md) — related
 - [Eleven-month-old infants who see a core knowledge violation preferentially explore the violating object over a novel distractor](infants-explore-core-knowledge-violating-objects.md) — related
 - [Children aged 7 to 10 adapt their question-asking strategy to the likelihood distribution of hypotheses as promptly as adults](children-adapt-questions-to-distribution.md) — related
+- [Question-asking practice does not increase prompted question generation on a novel-animal task, nor the content categories of those questions](no-transfer-to-prompted-question-generation.md) — related

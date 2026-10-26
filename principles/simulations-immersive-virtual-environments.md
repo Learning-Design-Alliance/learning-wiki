@@ -123,7 +123,7 @@ sources:
 # Simulations & Immersive Virtual Environments
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 102 claims (38 for, 56 mixed, 8 against) · 72 studies (22 causal, 17 review, 11 quant-synthesis, 9 qualitative, 8 theoretical, 4 design, 1 associational), `q1`–`q4` · 19 of 72 report an effect size · 97 claims rest on one study
+> **Evidence** · 103 claims (39 for, 56 mixed, 8 against) · 73 studies (22 causal, 18 review, 11 quant-synthesis, 9 qualitative, 8 theoretical, 4 design, 1 associational), `q1`–`q4` · 19 of 73 report an effect size · 98 claims rest on one study
 
 ## Conditional relationship
 
@@ -336,6 +336,7 @@ Success inside the simulation, immediate performance outside it, delayed retenti
 - [Immersive lessons show a small effect size advantage over less immersive technology, but increased presence does not necessarily lead to more learning](../claims/immersive-lessons-small-advantage-presence-not-sufficient.md) [~W]
 - [Collaboration format (individual vs. dyad) was experimentally manipulated alongside feedback format in simulation-based teacher learning](../claims/individual-versus-dyad-simulation-collaboration.md) [~W]
 - [PISA-VET combines digitalized simulations with hands-on demonstrations to increase measurement validity and engagement](../claims/pisa-vet-simulations-demonstrations-validity.md) [~W]
+- [The review reports, citing Chernikova and colleagues, that simulations of professional situations such as classroom interactions are beneficial in teacher training](../claims/simulations-of-professional-situations-beneficial-teacher-training.md) [+W]
 
 ## Related Principles
 - [Experiential Learning](experiential-learning.md) — simulations provide structured experiences that later reflection can interpret.

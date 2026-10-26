@@ -63,6 +63,7 @@ Single bouts of moderate physical activity acutely improve attention and executi
 - [Brain Breaks](../strategies/brain-breaks.md) — a closely related family of short reset activities, of which physical activity is one type
 - [Active Recess](../strategies/active-recess.md) — structured recess as a scheduled complement to in-class breaks
 - [Include opportunities for mini-breaks during lessons, such as drawing, music, games, stretching, or going outside](mini-breaks-during-lessons.md)
+- [Incorporate a 3-minute low-intensity exercise break about 20 minutes into university lessons](three-minute-slow-aerobics-class-break.md)
 
 ## Related Elements
 - [Practice](../elements/practice.md) — movement can be the vehicle for retrieval practice, not just a reset

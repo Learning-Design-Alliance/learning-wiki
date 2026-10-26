@@ -50,3 +50,5 @@ Same school-randomized trial (2246 observations, school-clustered SEs). The arti
 - [Teacher-targeted nudges showed significant negative interactions with child sex, with negative learning impacts for girls](teacher-only-nudge-negative-learning-girls.md) — related
 - [Parents-only nudges marginally significantly increased child-reported child labor (d = 0.113), contrary to intervention goals](parents-only-nudge-increased-child-labor.md) — related
 - [Parents-only nudge effects on learning were larger and positive for children with below-median baseline skills](parents-only-nudge-larger-gains-low-baseline-children.md) — related
+- [Targeting students directly (versus caregivers) produced significantly larger nudge effects on test scores (0.31 vs. 0.08 s.d.)](direct-student-targeting-larger-effects.md) — related
+- [Text-message nudges achieving impacts of the same order as remote remedial instruction indicates motivation itself carries much of remote-learning effectiveness](nudge-impacts-match-remedial-instruction-order.md) — related

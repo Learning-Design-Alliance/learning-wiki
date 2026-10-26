@@ -47,3 +47,4 @@ Study 1 from Ruggeri et al. (2017), described in the article: 4- and 5-year-olds
 ## Related Claims
 - [Children aged 7 to 10 adapt their question-asking strategy to the likelihood distribution of hypotheses as promptly as adults](children-adapt-questions-to-distribution.md) — related
 - [Children as young as 3 adapt their exploratory actions to the statistical structure of a search task](three-year-olds-adapt-exploratory-strategies.md) — related
+- [Encouraging 5-7-year-olds to ask questions during science lessons increases how much they value new science information relative to a careful-listening control](question-asking-raises-willingness-to-pay-science.md) — related

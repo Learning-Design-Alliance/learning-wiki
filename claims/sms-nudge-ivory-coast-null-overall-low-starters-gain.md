@@ -70,3 +70,5 @@ The editorial reports the same trial's subgroup finding: for children starting w
 - [Parents-only SMS/audio nudges produced statistically non-significant learning gains of d = 0.081 in rural Cote d'Ivoire](ivorian-parents-only-nudge-nonsignificant-learning-gains.md) — a narrower finding that bears on this claim
 - [Parents-only nudges marginally significantly increased child-reported child labor (d = 0.113), contrary to intervention goals](parents-only-nudge-increased-child-labor.md) — a narrower finding that bears on this claim
 - [Parents-only nudge effects on learning were larger and positive for children with below-median baseline skills](parents-only-nudge-larger-gains-low-baseline-children.md) — related
+- [Targeting students directly (versus caregivers) produced significantly larger nudge effects on test scores (0.31 vs. 0.08 s.d.)](direct-student-targeting-larger-effects.md) — related
+- [Text-message nudges achieving impacts of the same order as remote remedial instruction indicates motivation itself carries much of remote-learning effectiveness](nudge-impacts-match-remedial-instruction-order.md) — related

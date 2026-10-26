@@ -96,3 +96,4 @@ Facilitator subtheme from interviews; participants reported that case-based teac
 - [Meaningful L2 learning is achieved through a conducive environment and authentic tasks and materials](authentic-tasks-meaningful-l2-learning.md) — related
 - [Performance during the virtual pipetting lesson predicts real-life transfer test performance](in-lesson-performance-predicts-real-life-transfer.md) — a narrower finding that bears on this claim
 - [Through experience with real cases, causal knowledge transforms into narrative illness scripts](causal-knowledge-transforms-illness-scripts.md) — related
+- [The review reports, citing Chernikova and colleagues, that simulations of professional situations such as classroom interactions are beneficial in teacher training](simulations-of-professional-situations-beneficial-teacher-training.md) — related

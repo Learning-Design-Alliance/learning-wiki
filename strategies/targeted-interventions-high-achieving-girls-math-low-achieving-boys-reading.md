@@ -45,7 +45,8 @@ The article recommends that efforts to reduce scholastic sex differences be spli
 - [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](../claims/pisa-sex-differences-math-small-reading-three-times-larger.md) [+M]
 
 ## Related Strategies
-- 
+
+- [Leverage sex-specific sedentary-behavior initiatives, such as embedding math challenges in leisure reading for girls and substituting TV time with math apps for boys](sex-specific-sedentary-behavior-math-initiatives.md)
 
 ## Examples
 -
