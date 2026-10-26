@@ -2,7 +2,7 @@
 
 Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's.
 
-**1954 entries** · 0 stable · 1954 in review · 0 drafts
+**1958 entries** · 0 stable · 1958 in review · 0 drafts
 
 ---
 
@@ -70,6 +70,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [AIDA](aida.md) - A human-centred generative-AI digital assistant developed by the Open University to provide provenance-grounded, pedagogically configured learning support, feedback, quiz practice, and study guidance.
 * [Air Tutors](air-tutors.md) - Air Tutors is a virtual high-dosage math tutoring programme run by Air Tutors that provides small-group online tutoring for upper-elementary and early-middle-school students.
 * [AISSA](aissa.md) - AISSA is a web-based platform developed by Alvaro Becerra et al.
+* [AITAQS four-dimensional framework of AI tutoring acceptance quality](aitaqs-four-dimensional-framework-of-ai-tutoring-acceptance-quality.md) - A learner-perceived self-report assessment framework for higher-education students that measures AI tutoring acceptance quality across feedback quality, instructional effectiveness, interaction experience, and user trust.
 * [AIvaluate](aivaluate.md) - AIvaluate is a browser-based conversational assessment agent developed by Habeeb Yusuf et al.
 * [ALAS dropout prevention program](alas-dropout-prevention-program.md) - ALAS is a multi-component dropout-prevention programme for middle- and high-school students that combines counselor mentoring, attendance and performance monitoring, resilience and self-control instruction, parent training, recognition activities, and community-service coordination.
 * [Alder's high-touch, whole adult support approach](alders-high-touch-whole-adult-support-approach.md) - Alder's framework for proactively coordinating academic, financial, social, health, housing, and career supports for teacher-residency candidates facing barriers to completing graduate-level preparation.
@@ -1085,6 +1086,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Missouri teacher equity plan](missouri-teacher-equity-plan.md) - Missouri's teacher equity plan is a state-run programme framework, developed and implemented by the Missouri Department of Elementary and Secondary Education, that uses shortage prediction to target recruitment and preparation in high-need areas.
 * [MITCA method](mitca-method.md) - A homework-implementation framework developed by Vieites and colleagues that specifies five conditions—Varied, Specific, Worthwhile, Weekly, and Evaluated—for using primary-school homework to support self-regulated learning.
 * [Mixture Achievement Test (MAT)](mixture-achievement-test-mat.md) - A 17-item multiple-choice chemistry achievement test developed by Kingir (2013) to assess ninth-grade students' understanding of mixtures, including classification, solutions, solubility, and separation.
+* [MoBa genotyped mother-father-child trio sample (N = 40,879)](moba-genotyped-mother-father-child-trio-sample-n-40879.md) - A restricted-access Norwegian Mother, Father and Child Cohort Study dataset containing genotype data for 40,879 mother-father-child trios, administered by the Norwegian Institute of Public Health for research on intergenerational and child-development outcomes.
 * [Mobl21](mobl21.md) - Mobl21 is a mobile learning platform that teachers use to create and manage multimedia study materials, while students use it for note-taking, self-paced review, tests, and quizzes.
 * [Model of Essential Supports for Student Learning](model-of-essential-supports-for-student-learning.md) - A school-improvement framework developed by the Consortium on Chicago School Research that organizes seven organizational capacities and practices intended to support ambitious student learning.
 * [Modern Classroom Project](modern-classroom-project.md) - The Modern Classroom Project is a teacher-created instructional model run by the Modern Classroom Project organization for self-paced, competency-based classroom instruction.
@@ -1356,6 +1358,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [PRISM (Program for Research Into Self-Modifying Systems)](prism-program-for-research-into-self-modifying-systems.md) - A production-system interpreter developed by Pat Langley and Neches that augments LISP and lets users select among alternative architectural mechanisms and control options.
 * [PRISMA-LLM 16-item universal reporting checklist](prisma-llm-16-item-universal-reporting-checklist.md) - PRISMA-LLM is a 16-item reporting framework proposed by Zabaleta et al.
 * [PrivacyAI](privacyai.md) - PrivacyAI is an open-source GPT-4o-mini-based pipeline released by the authors for detecting, labeling, extracting, and verifying personally identifiable information in educational text.
+* [Pro audito computer-based speechreading training (lippenlesen.ch)](pro-audito-computer-based-speechreading-training-lippenlesench.md) - A freely accessible web-based speechreading training developed by pro audito Schweiz, providing video instruction, flashcards, and exercises to practise visual speech cues and audiovisual speech comprehension in noise.
 * [Prober.ai](proberai.md) - Prober.ai is a research-logging software platform that records consented participant sessions, events, drafts, challenges, unlocks, and reflection-coaching interactions for studying learning behavior.
 * [Production-Based Learning Model](production-based-learning-model.md) - A named vocational-education instructional framework developed by the article’s authors that organizes lessons around a nine-step production cycle for solving authentic product and troubleshooting problems.
 * [Professional Learning Communities at Work (PLC at Work)](professional-learning-communities-at-work-plc-at-work.md) - Solution Tree's school-improvement programme organizes recurring cycles of educator collaboration, assessment, and targeted intervention around collective responsibility for student learning.
@@ -1997,6 +2000,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 
 * [Zearn Math](zearn-math.md) - Zearn Math is a nonprofit-developed online supplemental K–8 mathematics curriculum and digital learning program used during math instruction, intervention, and tutoring.
 * [Zimmerman's 100-case comparative dataset of Binet-Simon and Yerkes Point Scale examinations](zimmermans-100-case-comparative-dataset-of-binet-simon-and-yerkes-point-scale-examinations.md) - A historical case-level dataset compiled by Zimmerman containing 100 children's results from comparative Binet-Simon and Yerkes Point Scale examinations, including demographic, age, score, and classification data.
+* [Zirkus Empathico](zirkus-empathico.md) - Zirkus Empathico is a touchscreen application developed for socio-emotional competence training through emotion-recognition, empathy, and prosocial-behavior activities.
 * [Zoo U](zoo-u.md) - Zoo U is a single-player point-and-click educational game developed by Melissa E.
 
 #### 0-9 & Other {: #letter-num }

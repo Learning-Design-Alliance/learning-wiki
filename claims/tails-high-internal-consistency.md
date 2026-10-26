@@ -66,3 +66,4 @@ The article's abstract reports the psychometric outcome across the validation sa
 - [The ten-construct instrument showed strong psychometric quality, with the four ARCS dimensions forming a psychometrically sound higher-order motivation construct](utaut3-arcs-instrument-psychometric-validity.md) — related
 - [The SKT-SRL shows acceptable-to-very good internal consistency across subscales](skt-srl-reliability.md) — related
 - [The TQsrl and SQsrl questionnaires are validated instruments measuring SRL sub-processes with emphasis on reflection](t-sqsrl-validated-srl-questionnaires.md) — related
+- [AITAQS dimension reliabilities fall within 0.721–0.745 Cronbach's α, exceeding acceptability thresholds, with all CR values above 0.7 though some AVE values fall below 0.5.](aitaqs-reliability-alpha-cr-ave.md) — related

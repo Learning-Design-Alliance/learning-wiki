@@ -13,7 +13,7 @@ generated:
 # Interest
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 190 claims (139 show a difference, 31 mixed, 20 no difference) · 134 studies (49 causal, 37 associational, 18 review, 12 design, 7 quant-synthesis, 6 theoretical, 5 qualitative), `q1`–`q4` · 34 of 134 report an effect size · 184 claims rest on one study
+> **Evidence** · 191 claims (140 show a difference, 31 mixed, 20 no difference) · 135 studies (50 causal, 37 associational, 18 review, 12 design, 7 quant-synthesis, 6 theoretical, 5 qualitative), `q1`–`q4` · 34 of 135 report an effect size · 185 claims rest on one study
 
 ## Description
 Interest is a learner's attraction to a topic. Research separates individual interest, a lasting disposition a learner brings, from situational interest, which material or activity sparks in the moment and which can grow into individual interest over time. Interest is measured by self-report, choice and persistence. It predicts attention, depth of processing and course choice, it moderates the effect of materials (seductive details catch interest without helping learning), and it is an outcome of designs that show relevance or give learners choice. It is a narrower case of [motivation](motivation.md).
@@ -225,6 +225,7 @@ Interest is a learner's attraction to a topic. Research separates individual int
 - [Providing meaningful choice during a lesson increases perceived autonomy and triggered situational interest in undergraduates learning statistics](../claims/choice-increases-autonomy-triggered-situational-interest.md) [+M] — instruction changes it
 - [Utility value manipulation, but not choice, increases voluntary requests for statistics resources, a behavioral indicator of emerging individual interest](../claims/utility-value-increases-resource-requests-emerging-individual-interest.md) [+M] — instruction changes it
 - [Recognition performance was worse overall in Experiment 2 than Experiment 1, with no moderation of the effects of interest](../claims/experiment-main-effect-recognition.md) [-M] — an instructional effect differs with it
+- [Memory for incidental scholastic facts is worse when the facts are paired with pre-determined high- versus low-curiosity trivia questions across three task versions](../claims/high-curiosity-trivia-pairs-worse-scholastic-memory.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does seeing a task as interesting, important or useful raise the effort learners invest in it?* [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](../claims/task-value-increases-motivation-and-engagement.md) [+M]

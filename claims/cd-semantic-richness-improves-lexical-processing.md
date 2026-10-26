@@ -65,3 +65,5 @@ The chapter's narrative review of multiple studies reports that in naming and le
 - [Words encountered in diverse contexts are identified faster, with a mean 26-ms advantage](diverse-contexts-speed-word-identification.md) — a narrower finding that bears on this claim
 - [Diverse and uniform training contexts dissociate: processing ease and semantic representation diverge early in learning](diversity-dissociation-processing-versus-semantics.md) — a narrower finding that bears on this claim
 - [Uniform (redundant) contexts yield higher semantic similarity ratings than diverse contexts](redundant-contexts-improve-semantic-representations.md) — related
+- [Contextual diversity — the number of unique documents a word appears in — is more closely associated with adult lexical processing than raw frequency](contextual-diversity-beats-raw-frequency.md) — a narrower finding that bears on this claim
+- [Training experiments with adults suggest linguistic diversity supports word learning](linguistic-diversity-training-supports-learning.md) — related

@@ -54,3 +54,4 @@ Repeated-measures ANOVAs on the translation recognition task (phase 2) showed a 
 - [Participants respond increasingly faster to stimuli presented more often during the incidental letter-search task](faster-rt-more-exposures.md) — related
 - [The more often learners meet a word while reading, the more likely they are to learn it incidentally; a meta-analysis of correlational studies finds a moderate correlation](exposure-frequency-predicts-incidental-gains.md) — related
 - [Pairing Contextual Encounters With Explicit Instruction Produces Stronger Vocabulary Outcomes Than Either Alone](pairing-contextual-encounters-with-explicit-instruction-produces-stronger-vocabulary-outcomes-than-either-alone.md) — related
+- [Children and adults rapidly extract auditory statistical regularities, performing above chance in 2AFC recognition after 4.5 minutes of exposure](rapid-auditory-sl-above-chance-4-5-minutes.md) — related

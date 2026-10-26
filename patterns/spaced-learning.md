@@ -14,7 +14,7 @@ grain_size: course
 # Spaced Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 64 claims (26 for, 35 mixed, 3 against) · 44 studies (20 causal, 10 review, 7 quant-synthesis, 3 theoretical, 2 design, 1 associational, 1 qualitative), `q1`–`q4` · 14 of 44 report an effect size · 59 claims rest on one study
+> **Evidence** · 65 claims (26 for, 36 mixed, 3 against) · 45 studies (21 causal, 10 review, 7 quant-synthesis, 3 theoretical, 2 design, 1 associational, 1 qualitative), `q1`–`q4` · 14 of 45 report an effect size · 60 claims rest on one study
 
 ## Description
 
@@ -142,6 +142,7 @@ The examples are local design instances, not additional observations from those 
 - [Experimentally, adaptive scheduling at OET 0.86 and 0.94 produced significantly higher final-test recall than OET 0.40, OET 0.98, and a conventional S15 schedule](../claims/experiment-oet-86-94-significantly-higher-recall.md) [~W]
 - [Shorter retention intervals predict higher quiz grades, and the spacing benefit holds even at short retention intervals](../claims/retention-interval-no-spacing-interaction.md) [~W]
 - [In simulations, adaptive model-based scheduling at OETs of 0.8 or higher produced 39–55% better final-test memory than the next best conventional schedule](../claims/simulation-oet-above-08-beats-conventional.md) [~W]
+- [Retention declines with interval (time-dependent forgetting) across images, details, and details-per-image measures](../claims/time-dependent-forgetting-across-intervals.md) [~W]
 
 ## Examples
 - [Memdora collaborative deck layer](../designs/memdora-collaborative-deck-layer.md) — a teacher's shared deck updates for all followers while each learner's spacing stays individual

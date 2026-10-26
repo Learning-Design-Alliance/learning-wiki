@@ -55,3 +55,4 @@ fMRI and cortisol study of 38 15-year-old participants with excessive smartphone
 - [Self-regulation scores correlate with functional coupling between the right striatum and left motor cortex during reactive inhibition, but not frontostriatal coupling during proactive inhibition](self-regulation-striatal-motor-coupling-reactive.md) — related
 - [Viewing Instagram pictures with many Likes recruits the reward network and reduces cognitive-control activation in adolescents](instagram-likes-recruit-adolescent-reward-network.md) — related
 - [Frequency of Internet use negatively predicts longitudinal change in gray and white matter volumes and in verbal IQ in early adolescents](internet-use-frequency-longitudinal-gray-matter-verbal-iq.md) — related
+- [Observer rats show ventral striatal dopamine release to another's reward, weaker than for own reward](observer-rat-ventral-striatum-dopamine-vicarious-reward.md) — related

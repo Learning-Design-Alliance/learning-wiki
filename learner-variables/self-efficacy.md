@@ -13,7 +13,7 @@ generated:
 # Self-Efficacy
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 151 claims (111 show a difference, 24 mixed, 16 no difference) · 123 studies (49 associational, 23 causal, 18 review, 14 qualitative, 8 design, 6 theoretical, 5 quant-synthesis), `q1`–`q4` · 27 of 123 report an effect size · 147 claims rest on one study
+> **Evidence** · 152 claims (111 show a difference, 24 mixed, 17 no difference) · 124 studies (49 associational, 24 causal, 18 review, 14 qualitative, 8 design, 6 theoretical, 5 quant-synthesis), `q1`–`q4` · 28 of 124 report an effect size · 148 claims rest on one study
 
 ## Description
 Self-efficacy is Bandura's term for task-specific confidence: how sure a learner is that they can do what a task requires. It is measured with self-report scales tied to a domain (mathematics self-efficacy, writing self-efficacy, computer self-efficacy). It predicts effort, persistence and achievement, it moderates some instructional effects, and it is itself an outcome that instruction can raise, chiefly through experiences of success, seeing similar others succeed, and specific feedback. It is narrower than [motivation](motivation.md) and distinct from general self-esteem.
@@ -182,6 +182,7 @@ Self-efficacy is Bandura's term for task-specific confidence: how sure a learner
 - [Teacher expectation effects on perceived competence are curvilinear: positive expectations are stronger than negative ones](../claims/positive-expectations-stronger-than-negative-tee.md) [+M] — instruction changes it
 - [Teachers' early expectations predict students' later perceived competence in physical education beyond students' background characteristics](../claims/teacher-expectations-predict-later-perceived-competence-pe.md) [+W] — instruction changes it
 - [Perceived competence does not moderate the effect of grading on performance-avoidance goals](../claims/perceived-competence-no-moderation-grading-avoidance.md) [-M] — an instructional effect differs with it
+- [Algorithm-group participants report significantly higher soundscape visualizability than Control participants, while group differences in strategy use, confidence, and error awareness are not statistically significant](../claims/visualizability-differs-strategy-use-does-not.md) [-M] — instruction changes it
 
 ## The evidence by question
 

@@ -56,3 +56,4 @@ This is a theoretical argument in a position paper, not an empirical test. The a
 - [Responsible AI use and student agency are mutually reinforcing capacities](responsible-ai-use-and-agency-mutually-reinforcing.md) — related
 - [No validated individual-level instrument in the focal corpus tests the full combination of agent-control behaviors for tool-using AI agents](agent-operational-competence-measurement-gap.md) — related
 - [How students and teachers want to interact with classroom AI largely depends on the teacher-student relationships that exist outside of AI use](teacher-student-relationships-shape-ai-views.md) — related
+- [The article argues current AI tools focus on the products of learning rather than the human process of learning](ai-focus-products-not-processes.md) — related

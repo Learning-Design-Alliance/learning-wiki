@@ -50,3 +50,5 @@ Trial-level Bayesian mixed-effects logistic regression on single-trial recall ac
 - [Curiosity did not significantly predict recall accuracy in the blurred-picture learning task](curiosity-did-not-predict-recall-accuracy.md) — related
 - [States of high pre-answer curiosity enhance memory for trivia answers similarly in children and adolescents](curiosity-enhances-trivia-memory-children-adolescents.md) — related
 - [High-curiosity states did not enhance recognition memory for incidental face images in children or adolescents](no-curiosity-spillover-incidental-faces-children.md) — related
+- [Memory for incidental scholastic facts is worse when the facts are paired with pre-determined high- versus low-curiosity trivia questions across three task versions](high-curiosity-trivia-pairs-worse-scholastic-memory.md) — related
+- [Scholastic memory differed between task versions, with Early Anticipation outperforming Late Anticipation but not differing from Post Satisfaction](task-version-differences-scholastic-memory.md) — related

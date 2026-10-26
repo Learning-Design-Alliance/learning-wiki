@@ -13,7 +13,7 @@ generated:
 # Prior Knowledge
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 178 claims (109 show a difference, 50 mixed, 19 no difference) · 141 studies (42 causal, 31 review, 22 associational, 21 theoretical, 9 quant-synthesis, 8 qualitative, 8 design), `q1`–`q4` · 19 of 141 report an effect size · 161 claims rest on one study
+> **Evidence** · 179 claims (109 show a difference, 51 mixed, 19 no difference) · 142 studies (43 causal, 31 review, 22 associational, 21 theoretical, 9 quant-synthesis, 8 qualitative, 8 design), `q1`–`q4` · 19 of 142 report an effect size · 162 claims rest on one study
 
 ## Description
 A learner's existing domain knowledge in the subject area before instruction begins — the organized network of concepts, procedures, and experiences that new learning must connect to. It is typically operationalized as a pretest score, a standardized prior-achievement measure, or instructor-rated expertise level, and functions as the single strongest predictor of learning gains in most instructional research [~S]. Prior knowledge is the learner-side variable that drives the [Expertise Reversal Effect](../theories/expertise-reversal-effect.md): the same technique that helps novices can hinder more knowledgeable learners.
@@ -226,6 +226,7 @@ The Learner Variability Navigator's Core Academic Literacies factor belongs here
 - [Experts categorise problems by solution principles while novices categorise by surface features](../claims/experts-categorise-by-solution-novices-by-surface.md) [+M] — learners who differ on it differ in outcomes
 - [Experts work forwards from givens while novices work backwards via means-ends analysis](../claims/experts-work-forwards-novices-means-ends.md) [+M] — learners who differ on it differ in outcomes
 - [Novices and experts benefit alike from problem analysis before reading; the treatment-by-expertise interaction is not significant](../claims/problem-analysis-benefits-novices-and-experts-alike.md) [-M] — an instructional effect differs with it
+- [An EXPERTISE × CONGRUENCY interaction in bilateral dorsal ACC shows the congruency effect on BOLD signal is larger for statements in biology, where participants hold basic expertise, than in physics](../claims/expertise-congruency-interaction-dorsal-acc.md) [~W] — an instructional effect differs with it
 
 ## The evidence by question
 - *Does knowing more beforehand mean learning more from the instruction?* [Prior Knowledge Determines New Learning](../claims/prior-knowledge-determines-new-learning.md) [+M]

@@ -49,3 +49,5 @@ Review reports Ashkenazi and Henik (2010) ANT-I study in adults with DD: "defici
 - [Adults with DD show deficient conceptual size processing with preserved physical size processing, supporting shared magnitude substrates](dd-adults-conceptual-size-dissociation.md) — related
 - [Adults with DD show a smaller subitizing range and impaired enumeration of random sets across visual and tactile modalities](dd-adults-subitizing-enumeration-deficits.md) — related
 - [Adults with DD rely on time-consuming back-up strategies like finger usage for single-digit arithmetic, with prolonged response latencies that appear number-specific](dd-adults-backup-strategies-prolonged-latencies.md) — reports the opposite
+- [Brief mindfulness meditation does not significantly change alerting or orienting network efficiency](bmm-no-alerting-orienting-effects.md) — related
+- [Eighteen days of brief mindfulness meditation selectively improves executive control network efficiency in healthy adults](bmm-selectively-improves-executive-control-ant.md) — related

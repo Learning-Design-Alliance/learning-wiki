@@ -19,15 +19,15 @@ Page counts are regenerated with every index rebuild.
 | [Principles](principles/) | 170 | Research-backed design commitments: what to do and why. |
 | [Elements](elements/) | 1,057 | Instructional building blocks — the components you compose into patterns. |
 | [Patterns](patterns/) | 54 | Reusable instructional designs at the lesson or unit level. |
-| [Designs](designs/) | 1,058 | Designs for a particular setting, course, population or product: what a design uses the general patterns for. A pattern is general across contexts; a design is not. |
-| [Products & Programmes](products/) | 1,954 | Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's. |
-| [Strategies](strategies/) | 6,820 | Concrete teaching activity recipes — specific, implementable approaches. |
+| [Designs](designs/) | 1,062 | Designs for a particular setting, course, population or product: what a design uses the general patterns for. A pattern is general across contexts; a design is not. |
+| [Products & Programmes](products/) | 1,958 | Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's. |
+| [Strategies](strategies/) | 6,842 | Concrete teaching activity recipes — specific, implementable approaches. |
 | [Design Processes](processes/) | 18 | How a course gets designed — whole-process models a designer works through, rather than anything a learner meets. |
 | [Design Methods](methods/) | 37 | The practices a design process is made of — analysis, elicitation, mapping and evaluation work done on the design, not in the classroom. |
 | [Research Methods](research-methods/) | 657 | Methods for studying learning and evaluating education that are specific to it or especially useful in it. General social-science methods are not listed. |
 | [Theories](theories/) | 1,360 | Explanatory frameworks that ground principles and claims. |
 | [Learner Variables](learner-variables/) | 75 | Canonical learner characteristics claims report findings about — one page per variable, so the same concept does not fragment across differently-worded tags. |
-| [Claims](claims/) | 28,010 | Empirical claims with evidence ratings, sources, and competing views. |
+| [Claims](claims/) | 28,220 | Empirical claims with evidence ratings, sources, and competing views. |
 
 <!-- page-counts:end -->
 
@@ -105,5 +105,14 @@ Pages use structured YAML frontmatter and follow strict templates. See [CLAUDE.m
 
 This repo uses two licenses:
 
-- **Content** (`principles/`, `elements/`, `patterns/`, `strategies/`, `theories/`, `claims/`, `sources/`, `revisions/`, `index.md`, `log.md`) is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) — free to use and commercialize, with attribution, provided derivatives are shared under the same license. See [LICENSE](LICENSE).
+- **Content** (every content folder, plus `observations/`, `research/`, `sources/`, `revisions/`, `history/`, the root pages and the generated data files) is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/): free to use and commercialize, with attribution, provided derivatives are shared under the same license. See [LICENSE](LICENSE).
 - **Code** (`scripts/` and other source files) is licensed under the [MIT License](https://opensource.org/licenses/MIT). See [LICENSE-CODE](LICENSE-CODE).
+
+**AI authorship and copyright.** Most pages are written by language models from published research, under rules,
+templates and checks that people designed. An open license is a use of copyright, not an exception to it: only a
+rights holder can give everyone permission to copy and adapt. But in several jurisdictions, including the United
+States, text an AI system produces without enough human creative control is not protected by copyright, so some
+pages may carry none and are to that extent in the public domain. The license applies wherever rights do exist and
+claims nothing beyond them; the project's structure, schemas, editorial rules and code are human work. Either way,
+you can do at least what the license allows. Short passages quoted from research remain their authors' work. See
+[LICENSE](LICENSE); this is the project's position, not legal advice.

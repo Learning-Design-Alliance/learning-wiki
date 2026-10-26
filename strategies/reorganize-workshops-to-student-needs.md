@@ -40,6 +40,7 @@ The article recommends dynamically adjusting GenAI workshop modules during a des
 ## Related Strategies
 
 - [Educators share experiences, strategies, and insights about generative AI tools to keep the education community informed](educator-collaboration-sharing-genai-tool-insights.md)
+- [Use AI to analyse learning data and dynamically adjust task demands to individual proficiency](ai-adaptive-task-demand-adjustment.md)
 
 ## Examples
 -

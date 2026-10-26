@@ -51,3 +51,4 @@ Two-sample t-tests (allowing for unequal variances) compared girls' and boys' ab
 - [Men have a 3.60 times higher risk than women of majoring in PEMC sciences and a 0.74 times lower risk of majoring in health fields, with predicted PEMC probabilities of 14.9% for men versus 4.7% for women](gender-gap-pemc-versus-health-major-selection.md) — related
 - [Teacher-rated grades show girls rated slightly higher than boys, but gender is unrelated to test performance](gender-grades-not-test-performance.md) — related
 - [Girls report higher initial mathematics enjoyment and boys higher initial boredom, with no gender differences in arithmetic skill development or mathematics performance](gender-differences-enjoyment-boredom-early-grades.md) — related
+- [The boys-versus-girls achievement gap narrows and disappears in the highest SES group](sex-gap-in-ea-narrows-at-highest-ses.md) — related

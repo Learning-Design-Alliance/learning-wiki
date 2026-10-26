@@ -45,6 +45,7 @@ Drawing on Mezirow's two dimensions of awareness and Lakoff and Johnson's concep
 
 - [Workshop arc: oral conversation, then imagistic, then somatic, ending in ritual performance](../products/chormmunity.md)
 - [Intentionally activate symbols so they assist transformative learning](../strategies/intentionally-activate-symbols-for-learning.md)
+- [Embodied metaphor: whole-body engagement with a metaphor supports learning of abstract science concepts beyond passive engagement](../designs/embodied-metaphor-whole-body-engagement.md)
 
 ## Key Sources
 - Loper, Paul. (2000). Chormmunity: Co-Creating Embodied Community. ERIC Document ED443009. https://eric.ed.gov/?id=ED443009

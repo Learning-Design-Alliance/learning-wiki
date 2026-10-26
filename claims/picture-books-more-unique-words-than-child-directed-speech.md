@@ -48,3 +48,4 @@ Corpus comparison of a 100-picture-book corpus against length-matched contiguous
 - [At matched token sizes, samples of picture-book text almost never contain fewer unique word types than samples of child-directed speech](book-speech-type-counts-non-overlapping.md) — possibly the same claim (merge candidate)
 - [Individual picture books typically contain more unique words at a given sample size than individual conversations](individual-books-more-diverse-than-individual-conversations.md) — possibly the same claim (merge candidate)
 - [The greater diversity of book input arises mainly because different books sample the language more broadly than different conversations do](different-books-sample-language-more-broadly.md) — related
+- [Children's books contain many morphologically complex words absent from children's television language](books-contain-complex-words-absent-from-childrens-tv-language.md) — related

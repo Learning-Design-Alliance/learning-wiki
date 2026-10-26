@@ -75,3 +75,4 @@ Replication within the same museum study using a featural continuity violation a
 - [Infants' exploratory behavior after a core knowledge violation is tailored to the type of violation seen](violation-specific-hypothesis-testing-exploration.md) — related
 - [Learning enhancements from core knowledge violations are entity-specific: no benefit for unrelated bystander objects](surprise-learning-effect-is-entity-specific.md) — related
 - [Students' surprise at measurement values was overwhelmingly expressed by identifying an outlier or extreme/unusual value](surprise-responses-identify-outliers.md) — related
+- [Children learned novel verb meanings better when words were experienced in episodes built around a common scenario](scenario-contexts-improve-verb-meaning-learning.md) — related

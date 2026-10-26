@@ -51,3 +51,4 @@ Joint orchestration analysis on the real corpus comparing a hybrid configuration
 - In a lymph-node cancer detection study, a combined AI-plus-human approach lowered the error rate to 0.5 percent, an 85 percent reduction, versus 7.5 percent for AI alone and 3.5 percent for a human pathologist — related
 - [Combining human and LLM-generated responses at a 1:1 ratio yields more accurate educational item calibration](human-synthetic-1to1-mix-improves-item-calibration.md) — related
 - [At natural TM prevalence (1.6%), even the best model generates roughly 4.3 false alarms per genuine detection, making fully automated stand-alone screening not viable on its own](false-alarms-make-standalone-screening-impractical.md) — related
+- [Orthographic detectability of derivational affixes is low and highly variable, with pseudo-affixation rare overall but concentrated in some affixes](orthographic-detectability-of-affixes-low-and-variable.md) — related

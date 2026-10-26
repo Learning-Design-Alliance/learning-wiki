@@ -59,3 +59,4 @@ Nonexperimental structural equation model with 242 kindergartners; the model fit
 - [An 11-week teacher-delivered phonological awareness intervention significantly improves kindergarten children's phoneme segmentation, letter knowledge, reading, and invented spelling](teacher-delivered-phoneme-awareness-kindergarten-improves-early-literacy.md) — related
 - [Children use letter-name knowledge as a shortcut when inventing phonologically based spellings](letter-names-bootstrap-invented-spellings.md) — related
 - [Technology-enhanced stories show no significant additional effect on code-related literacy skills](technology-stories-no-code-related-literacy-effect.md) — related
+- [Phonological decoding is at the core of learning to read words in alphabetic languages, and children do not learn to read words by contextual guessing](phonological-decoding-core-of-reading.md) — related

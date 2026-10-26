@@ -55,3 +55,4 @@ Participant-independent evaluation of the E3Sense sensing study: five participan
 - [Fold-local top-20 feature selection had mixed effects across model families, supporting the complete 166-dimensional representation as the primary analysis](feature-selection-effects-mixed-across-families.md) — related
 - [Model-family rankings depend on the prediction target: AdaBoost leads the five-level ordinal task while LightGBM holds the highest binary macro-F1](model-family-rankings-depend-on-target.md) — related
 - [Supplying learners' own engagement-definition codes as context raised exploratory prediction from 64.6% to 71.5% balanced 1-off accuracy in an eighteen-participant cohort](definition-codes-improve-engagement-calibration.md)
+- [First-attempt EEG features and initial performance score predict learning rate, with higher initial scores associated with lower learning rates](first-attempt-features-predict-learning-rate.md) — related

@@ -13,7 +13,7 @@ generated:
 # Visual Processing
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 42 claims (24 show a difference, 12 mixed, 6 no difference) · 28 studies (9 review, 9 associational, 7 causal, 1 quant-synthesis, 1 qualitative, 1 design), `q2`–`q4` · 5 of 28 report an effect size · 42 claims rest on one study
+> **Evidence** · 43 claims (24 show a difference, 12 mixed, 7 no difference) · 29 studies (9 review, 9 associational, 8 causal, 1 quant-synthesis, 1 qualitative, 1 design), `q2`–`q4` · 5 of 29 report an effect size · 43 claims rest on one study
 
 ## Description
 Visual processing is what the brain does with the input that comes through vision: recognising, ordering and interpreting visual information. It lets learners recognise letters, numbers and symbols, read quickly and accurately, copy and solve problems correctly, and work with diagrams, drawings and geometric shapes; visual-motor integration, the coordination of hand and eye, is part of it and supports handwriting. Learners with dyslexia or dyscalculia may process words and numbers visually in different ways, which the LVN traces in many cases to phonological difficulties that disrupt visual attention during reading. It is measured with visual discrimination and matching tasks, figure-copying and design-copying tests, block design and mental rotation tasks, and computer-based tasks that use non-linguistic symbols so language skills do not affect scores. It overlaps closely with [spatial ability](spatial-ability.md), and is distinct from eyesight itself, which [access](access.md) covers.
@@ -78,6 +78,7 @@ Visual processing is what the brain does with the input that comes through visio
 - [Practise has a very slight effect on the range of attention, explicable by habituation and grouping tricks rather than any expansion of the range itself](../claims/practise-negligible-effect-range-of-attention.md) [-M] — instruction changes it
 - [Systematic practise gives little warrant for markedly improving adults' quick visual perception; the slight poetry gain is attributed to familiarity with the poem](../claims/practise-negligible-effect-apprehension.md) [-M] — instruction changes it
 - [Age, general cognition (MoCA), visual working memory, and hearing loss showed no significant association with the extent of training-induced change, and the three-way modality-by-AWM-by-hearing-loss interaction was not significant](../claims/null-moderators-training-induced-change.md) [-W] — learners who differ on it differ in outcomes
+- [Visual enhancement is not significantly associated with hearing level, age, visual working memory or processing speed, and learning rate in speechreading training is not significantly associated with those or with hearing aid use or training intensity](../claims/no-predictors-of-visual-enhancement-or-learning-rate.md) [-W] — learners who differ on it differ in outcomes
 
 ## Measures
 - **NAB Visual Discrimination Task** (Stern & White, 2003): a match-to-sample task measuring adults' visual perception and visual-spatial skill.

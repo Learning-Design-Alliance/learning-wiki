@@ -13,7 +13,7 @@ generated:
 # Vocabulary
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 95 claims (69 show a difference, 15 mixed, 11 no difference) · 71 studies (25 associational, 21 causal, 14 quant-synthesis, 6 review, 3 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 19 of 71 report an effect size · 92 claims rest on one study
+> **Evidence** · 96 claims (70 show a difference, 15 mixed, 11 no difference) · 72 studies (25 associational, 21 causal, 14 quant-synthesis, 7 review, 3 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 19 of 72 report an effect size · 93 claims rest on one study
 
 ## Description
 Vocabulary is the store of words a learner understands (receptive vocabulary) and uses (expressive or productive vocabulary), together with the strategies they use to work out unfamiliar words. It is measured with picture-vocabulary tests, in which a learner picks the picture matching a spoken word, with language samples that count the number and variety of words used, and, for older students, with measures of academic language features in writing.
@@ -136,6 +136,7 @@ The page sits within the wiki's broader [reading and language](reading-and-langu
 - [For students with a school-identified learning disability, there were no significant direct cross-lagged pathways between vocabulary knowledge and reading comprehension](../claims/no-cross-lagged-relations-ld-students.md) [-M] — learners who differ on it differ in outcomes
 - [For typically developing students, vocabulary knowledge and reading comprehension show bidirectional leading influences over time in kindergarten through fourth grade](../claims/bidirectional-vocabulary-reading-comprehension-influences-typically-developing.md) [+M] — learners who differ on it differ in outcomes
 - [Kindergarten students eligible for free or reduced-price lunch scored 16 standard points lower on receptive vocabulary than non-eligible students, regardless of LD status](../claims/frl-kindergarten-vocabulary-gap-16-points.md) [+M] — instruction changes it
+- [Children learned novel verb meanings better when words were experienced in episodes built around a common scenario](../claims/scenario-contexts-improve-verb-meaning-learning.md) [+M] — instruction changes it
 
 ## Measures
 - **Peabody Picture Vocabulary Test, Fifth Edition (PPVT-5)** (Dunn, 2018): receptive vocabulary for learners of all ages (earlier edition: Dunn & Dunn, 2007).

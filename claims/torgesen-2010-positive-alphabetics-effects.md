@@ -87,3 +87,4 @@ Appendix C.2 prints WRMT-R Word Attack means of 113.70 (12.10) for LiPS vs 99.50
 - [Word-reading interventions significantly improve decoding, nonword decoding, reading comprehension, and spelling (g = 0.29-0.45) but not reading fluency](word-reading-interventions-outcome-type-effects.md) — related
 - [Phonemic Awareness Training Improves Reading](phonemic-awareness-training-improves-reading.md) — a broader claim this one bears on
 - [LiPS shows potentially positive effects on reading fluency: authors found significant effects on GORT–III Reading Accuracy and Reading Rate, but WWC analyses did not confirm significance](lips-reading-fluency-potentially-positive.md) — related
+- [Phonological decoding is at the core of learning to read words in alphabetic languages, and children do not learn to read words by contextual guessing](phonological-decoding-core-of-reading.md) — related

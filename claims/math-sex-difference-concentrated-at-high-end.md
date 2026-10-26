@@ -69,3 +69,4 @@ Boys-to-girls ratio analysis (Table 1) for the 33 countries in all four assessme
 - [The mathematics sex difference favoring boys is more consistently found among higher-achieving nations, with considerable variability among lower-scoring countries](math-sex-difference-larger-in-higher-achieving-nations.md) — related
 - [National gender-equality and human-development indicators show no consistent correlation with sex differences in mathematics or reading across the decade](no-consistent-correlation-gender-equality-sex-differences.md) — related
 - [Boys are more likely than girls to rank at both the top and the bottom of the grade scale, supporting greater variability of excellence among boys](sex-variability-in-excellence-1912.md) — related
+- [Boys and girls show equal variability in early mathematical performance across all measured tasks](no-gender-difference-variability-early-math-performance.md) — related

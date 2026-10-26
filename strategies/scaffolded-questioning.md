@@ -67,6 +67,7 @@ Scaffolded questioning operationalizes [Scaffolding](../principles/scaffolding.m
 - [Use questioning and counter-suggestions (contrepreuve) to produce disequilibration and support cognitive growth](questioning-contrepreuve-disequilibration.md)
 - [Use an observational checklist to scaffold support levels: open-ended questioning for children needing less support, explicit instruction for children needing more](checklist-based-scaffolding-differentiated-support.md)
 - [Instructors can encourage student idea-offering by incrementally adding epistemic distancing to their questions](instructor-epistemic-distancing-questioning.md)
+- [Scaffolding storytelling: guiding a child to create their own story about new material through open-ended questions, hints, and validation](scaffolding-storytelling-strategy.md)
 
 ## Examples
 - **[Reciprocal Teaching](reciprocal_teaching.md) (Palincsar & Brown)** — small groups take turns leading discussion using trained question prompts (predict, clarify, question, summarize), with the teacher modeling and fading over roughly 20 sessions.

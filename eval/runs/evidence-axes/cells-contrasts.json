@@ -43266,5 +43266,129 @@
  "test-format\tpractice and test formats matched\tpractice and test formats mismatched": {
   "label": "Matched practice and test formats vs mismatched practice and test formats",
   "treatment_is_a": true
+ },
+ "active-learning\tcollaborative problem solving\tindividual problem solving": {
+  "label": "collaborative problem solving vs individual problem solving",
+  "treatment_is_a": true
+ },
+ "active-learning\tcollaborative problem solving during PF\tindividual problem solving during PF": {
+  "label": "collaborative problem solving vs individual problem solving during PF",
+  "treatment_is_a": true
+ },
+ "active-learning\tcollaborative problem solving in PF\tindividual problem solving in PF": {
+  "label": "collaborative problem solving vs individual problem solving in PF",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tphonological decoding\tcontextual guessing": {
+  "label": "phonological decoding vs contextual guessing",
+  "treatment_is_a": true
+ },
+ "feedback-type\tterminal feedback with endpoint feedback only\twashout with trajectory and endpoint feedback": {
+  "label": "trajectory-and-endpoint feedback vs endpoint-only feedback",
+  "treatment_is_a": false
+ },
+ "practice-amount\tmore time in sentence-training sessions\tless time in sentence-training sessions": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "problem-first\tproblem solving before instruction (PF)\tproblem solving after instruction (DI)": {
+  "label": "problem-first vs instruction-first",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tcomponent reactivation\tdistractor reactivation": {
+  "label": "component reactivation vs distractor reactivation",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tcomponent reactivation\tno reactivation control": {
+  "label": "reactivation vs no reactivation",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tcomponent reactivation\tno-reactivation Control": {
+  "label": "reactivation vs no reactivation",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tcomponent reactivation\tno-reactivation control": {
+  "label": "reactivation vs no reactivation",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tdescriptive reactivation\tdistractor reactivation": {
+  "label": "descriptive reactivation vs distractor reactivation",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tdescriptive reactivation\tno reactivation control": {
+  "label": "reactivation vs no reactivation",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tdescriptive reactivation\tno-reactivation Control": {
+  "label": "reactivation vs no reactivation",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tdescriptive reactivation\tno-reactivation control": {
+  "label": "reactivation vs no reactivation",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\treactivation condition\tother reactivation conditions": {
+  "label": "specified reactivation condition vs alternative reactivation conditions",
+  "treatment_is_a": true
+ },
+ "scaffolding\tremote scaffolding storytelling\tremote passive story-listening": {
+  "label": "scaffolding storytelling vs passive story-listening",
+  "treatment_is_a": true
+ },
+ "scaffolding\tscaffolding storytelling\tpassive story-listening": {
+  "label": "scaffolding storytelling vs passive story-listening",
+  "treatment_is_a": true
+ },
+ "spacing\t320 trials of a single 1000-Hz tone followed by 320 equiprobable tones\tequiprobable tones throughout": {
+  "label": "massed vs spaced",
+  "treatment_is_a": true
+ },
+ "spacing\tmassed exposure to 1000 Hz before encountering new equiprobable frequencies\tequiprobable-frequency exposure without preceding massed 1000-Hz exposure": {
+  "label": "massed vs spaced",
+  "treatment_is_a": true
+ },
+ "spacing\tmassed exposure to 1000 Hz followed by equiprobable-frequency exposure\tequiprobable-frequency exposure without prior massed 1000-Hz exposure": {
+  "label": "massed vs spaced",
+  "treatment_is_a": true
+ },
+ "technology-tool\t3 weeks of self-guided computer-based speechreading training\t3 weeks of foreign-language training active control": {
+  "label": "computer-based speechreading training vs foreign-language training",
+  "treatment_is_a": true
+ },
+ "technology-tool\t3-minute tablet-based arithmetic-fluency RPM\tshorter 1- and 2-minute RPM subsets": {
+  "label": "longer tablet-based arithmetic-fluency assessment vs shorter assessment",
+  "treatment_is_a": true
+ },
+ "technology-tool\t3-minute tablet-based arithmetic-fluency assessment\tshorter 2-minute and 1-minute assessment subsets": {
+  "label": "longer tablet-based arithmetic-fluency assessment vs shorter assessment",
+  "treatment_is_a": true
+ },
+ "technology-tool\t6-week digital Zirkus Empathico socio-emotional competence training\tdigital foreign language acquisition training": {
+  "label": "digital socio-emotional competence training vs digital foreign-language training",
+  "treatment_is_a": true
+ },
+ "technology-tool\t8-week Cogmed working-memory training\tpre-training performance": {
+  "label": "Cogmed working-memory training vs pre-training baseline",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI intelligent tutoring system\tnon-intelligent tutoring system": {
+  "label": "intelligent tutoring system vs non-intelligent tutoring system",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-driven ITS\tmodified or older ITS": {
+  "label": "AI-driven intelligent tutoring system vs modified or older intelligent tutoring system",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-driven intelligent tutoring system\tnon-intelligent tutoring system": {
+  "label": "intelligent tutoring system vs non-intelligent tutoring system",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-driven intelligent tutoring system\tteacher-led traditional teaching": {
+  "label": "AI-driven intelligent tutoring system vs teacher-led traditional teaching",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-driven intelligent tutoring system\ttraditional or usual teaching": {
+  "label": "AI-driven intelligent tutoring system vs traditional or usual teaching",
+  "treatment_is_a": true
  }
 }

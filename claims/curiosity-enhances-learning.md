@@ -73,3 +73,5 @@ The review reports the Gruber et al. (2014) fMRI study in which subjects answere
 - [In over 60% of inquiry threads of low-achieving students, curiosity was followed by confusion, and joy or confusion by curiosity (sequential patterns, not shown causes)](sequential-patterns-curiosity-confusion-joy.md) — related
 - [Post-answer interest enhances trivia answer memory more strongly in adolescents than in children](post-answer-interest-memory-adolescents-more-than-children.md) — a narrower finding that bears on this claim
 - [States of high pre-answer curiosity enhance memory for trivia answers similarly in children and adolescents](curiosity-enhances-trivia-memory-children-adolescents.md) — related
+- [Memory for incidental scholastic facts is worse when the facts are paired with pre-determined high- versus low-curiosity trivia questions across three task versions](high-curiosity-trivia-pairs-worse-scholastic-memory.md) — reports the opposite
+- [Participants rated pre-determined high-curiosity trivia questions as more curious than pre-determined low-curiosity questions, equally across task versions](manipulation-check-curiosity-ratings.md) — related

@@ -13,7 +13,7 @@ generated:
 # Socioeconomic Status
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 136 claims (81 show a difference, 35 mixed, 20 no difference) · 107 studies (60 associational, 21 causal, 13 review, 8 quant-synthesis, 3 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 9 of 107 report an effect size · 135 claims rest on one study
+> **Evidence** · 138 claims (83 show a difference, 35 mixed, 20 no difference) · 108 studies (61 associational, 21 causal, 13 review, 8 quant-synthesis, 3 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 9 of 108 report an effect size · 137 claims rest on one study
 
 ## How to read this page
 
@@ -221,6 +221,8 @@ A learner's economic and social position: family income or poverty (often measur
 - [All SES subcomponents (parental education, family income, neighborhood quality) significantly predicted each intelligence domain, with education and income effects about twice neighborhood quality](../claims/ses-subcomponents-predict-intelligence-domains.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [The pandemic strengthened the link between socioeconomic status and mathematics scores, but only in countries with closures shorter than 22 weeks](../claims/escs-slope-increase-short-closures.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [The pandemic's adverse effects on track recommendation and seventh-grade enrollment were largest for socioeconomically disadvantaged students, enlarging existing inequalities](../claims/pandemic-tracking-effects-largest-disadvantaged.md) [+M] — an instructional effect differs by group
+- [Average educational achievement at age 12 increases with parental SES in the Netherlands](../claims/dutch-twin-ea-increases-with-parental-ses.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [SES differences in educational achievement persist after accounting for polygenic score differences between children](../claims/ses-ea-differences-persist-after-pgs-adjustment.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## The evidence by question
 - *Does family income predict achievement and attainment, how large are the gaps, and when do they open?* [School test score averages are strongly related to the income of the families a school serves](../claims/school-test-scores-strongly-related-to-family-income.md) [+M]

@@ -61,6 +61,7 @@ Inhibition is a limited-capacity executive function; instructional design that r
 - [Working Memory Support Strategies](working-memory-support-strategies.md) — inhibition and working memory are tightly coupled executive demands; supports often overlap
 - [Self-Monitoring Strategies](self-monitoring-strategies.md) — the metacognitive complement that internalizes external inhibition supports
 - [Design cognitive flexibility tasks controlling working memory and inhibition demands and matching accuracy across age cohorts](task-design-controls-wm-inhibition-demands.md)
+- [Target impulsivity through mindfulness training, structured environments, and executive-function interventions as candidate routes to improving college academic outcomes](target-impulsivity-mindfulness-structured-environments-strategy.md)
 
 ## Examples
 - Announce the order in which students will be called on, allowing them to plan a response and inhibit interruption until their turn.

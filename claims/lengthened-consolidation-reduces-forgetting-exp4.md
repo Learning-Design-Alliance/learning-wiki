@@ -73,3 +73,4 @@ Visual inspection of Figure 8 means in Experiment 4 showed comparable forgetting
 - [Time-based forgetting occurs across presentation methods, with rate determined by consolidation time](time-based-forgetting-occurs-regardless-of-presentation-method.md) — a broader claim this one bears on
 - [Sequential presentation of memory items produces less time-based forgetting than simultaneous presentation (Experiment 1)](sequential-presentation-less-forgetting-than-simultaneous.md) — related
 - [Presentation format (sequential vs. simultaneous) does not reliably affect EOL accuracy](presentation-format-no-effect-on-eol-accuracy.md) — related
+- [The complexity effect on working memory capacity is not due to insufficient encoding time](wm-complexity-effect-not-encoding-time.md) — related

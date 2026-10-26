@@ -50,3 +50,4 @@ Potential-outcomes causal mediation analysis in ALSPAC (n = 2161) using GCSE poi
 - [Peer problems at age 9.5 mediate the association between childhood ADHD and depressive symptoms at age 13](earlier-peer-problems-mediate-adhd-depression-earlier-ages.md) — related
 - [Peer problems at age 16 mediate the association between childhood ADHD symptoms and late-adolescent depressive symptoms](peer-problems-mediate-adhd-depression-link.md) — related
 - [Peer-problem mediation of the ADHD–depression link is not driven entirely by victimisation](peer-mediation-not-solely-victimisation.md) — related
+- [Genetic liability for ADHD predicts lower GCSE attainment but not greater school absence (ALSPAC cohort)](adhd-genetic-liability-attainment-not-absence.md) — related

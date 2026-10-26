@@ -13,7 +13,7 @@ generated:
 # Processing Speed
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 55 claims (34 show a difference, 18 mixed, 3 no difference) · 35 studies (16 associational, 7 causal, 6 quant-synthesis, 4 review, 2 qualitative), `q1`–`q4` · 7 of 35 report an effect size · 55 claims rest on one study
+> **Evidence** · 58 claims (36 show a difference, 18 mixed, 4 no difference) · 38 studies (16 associational, 10 causal, 6 quant-synthesis, 4 review, 2 qualitative), `q1`–`q4` · 8 of 38 report an effect size · 58 claims rest on one study
 
 ## Description
 Processing speed (the LVN calls it speed of processing) is how quickly a learner perceives and processes information and formulates a response. Reading and mathematics both require it constantly: a reader takes in letters, words, punctuation and layout, a mathematics learner numbers, shapes and symbols, and each has to choose and apply the right skills fast enough to keep the whole task in view. It grows quickly in the early years and keeps improving through adolescence, may dip during puberty, and declines with age in older adults. It is measured with timed tasks, such as pattern-matching and cancellation subtests of cognitive batteries and rapid automatised naming, though naming tasks also draw on vocabulary. It is related to [working memory](working-memory.md), since faster processing lets more be rehearsed and held, and to fluid reasoning in [general cognitive ability](general-cognitive-ability.md). Slow processing is also reported in learners with hearing loss and with dyslexia, which overlaps [learning disabilities](learning-disabilities.md).
@@ -91,6 +91,9 @@ Processing speed (the LVN calls it speed of processing) is how quickly a learner
 - [Numerical cognition assessed at end of first grade statistically mediates associations between early processing speed, working memory, calculation skill, word-problem solving, and attentive behavior and later calculations, word-problem solving, and reading](../claims/numerical-cognition-mediation-academic-outcomes.md) [+M] — learners who differ on it differ in outcomes
 - [Processing speed, attentive behavior, and incoming calculation skill significantly predict whole-number calculations in at-risk fourth graders, with the model accounting for 51% of variance](../claims/predictors-whole-number-calculations-at-risk-fourth-graders.md) [+M] — learners who differ on it differ in outcomes
 - [The relationship between RSD and CRA reaction time differs by tDCS group: U-shaped under Sham, monotonically decreasing under L−R+, and no clear relationship under L+R−](../claims/rsd-rt-relationship-varies-by-tdcs-group.md) [~M] — an instructional effect differs with it
+- [Brief mindfulness meditation speeds overall ANT reaction times without compromising accuracy](../claims/bmm-faster-reaction-time-no-accuracy-cost.md) [+M] — instruction changes it
+- [Visual enhancement is not significantly associated with hearing level, age, visual working memory or processing speed, and learning rate in speechreading training is not significantly associated with those or with hearing aid use or training intensity](../claims/no-predictors-of-visual-enhancement-or-learning-rate.md) [-M] — learners who differ on it differ in outcomes
+- [Distributional learning across a task-irrelevant dimension slows duration decisions for low-probability frequencies](../claims/task-irrelevant-distribution-slows-duration-decisions.md) [+M] — instruction changes it
 
 ## Measures
 - **Woodcock-Johnson Tests of Cognitive Abilities** (Schrank, Mather, & McGrew, 2014): includes number-pattern matching, pair cancellation and letter-pattern matching subtests of processing speed.

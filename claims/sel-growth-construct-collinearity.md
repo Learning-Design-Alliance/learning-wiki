@@ -50,3 +50,4 @@ Multivariate latent growth curve model (Table 3) fitted to the district cohort's
 - [Middle school SEL shows normative decline in self-efficacy and self-management but an increase in growth mindset](sel-trajectory-trends-middle-school.md) — related
 - [In a pooled multivariate model, the combined self-efficacy/self-management growth predicts about 80% lower odds of suspension, while the growth mindset intercept unexpectedly increases suspension odds](pooled-model-suspension-growth-mindset-paradox.md) — related
 - [The propdec adaptive student feature is highly colinear with a student intercept, capturing student individual differences without student parameters](propdec-colinear-with-student-intercept.md) — related
+- [Individual slopes of the trained task correlated significantly with slopes of the odd-one-out and following-instructions transfer tasks but not with the math task](latent-growth-slope-correlations-grid-transfer.md) — related

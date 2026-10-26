@@ -84,6 +84,7 @@ Family engagement functions like a motivational and access problem: participatio
 - [Remove language and participation barriers by communicating with families in multiple languages through varied channels with interpreters available](multilingual-communication-channels-el-families.md)
 - [Organize community education events with participation-driven and voice-oriented settings covering time, location, hybrid access, transportation, and feedback channels](participation-driven-voice-oriented-event-settings.md)
 - [Build a communal network of adults as an alternative developmental support system for male children](communal-network-support-system-male-children.md)
+- [Implement home-based digital SEC trainings with screen-time limits and family-participation options](digital-sec-training-implementation-safeguards.md)
 
 ## Examples
 - **Epstein's Six Types of Involvement framework (Johns Hopkins NNPS, [National Network of Partnership Schools](https://nnps.jhucsos.com))** — organizes engagement into parenting, communicating, volunteering, learning at home, decision-making, and collaborating with the community; schools use it to build a written partnership plan with multiple option types.

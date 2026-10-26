@@ -58,3 +58,4 @@ Measurement model evaluation of the 38-item, nine-construct questionnaire in the
 - [The global civic activism measurement model was fully valid with no items removed, appearing valid across contexts](global-civic-activism-model-fully-valid.md) — reports the opposite
 - [A moderate negative correlation exists between cognitive offloading tendency and critical thinking while the constructs remain empirically distinct](cot-cts-correlation-distinct-constructs.md) — related
 - [The SKT-SRL shows acceptable-to-very good internal consistency across subscales](skt-srl-reliability.md) — related
+- [AITAQS dimension reliabilities fall within 0.721–0.745 Cronbach's α, exceeding acceptability thresholds, with all CR values above 0.7 though some AVE values fall below 0.5.](aitaqs-reliability-alpha-cr-ave.md) — related

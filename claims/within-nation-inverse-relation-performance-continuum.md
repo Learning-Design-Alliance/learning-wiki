@@ -75,3 +75,4 @@ Figure 3 caption describing the within-country curves for the 33 countries in al
 - [Shanghai students took first place in all three major PISA 2009 categories, with Asian countries dominating the top rankings](shanghai-first-place-pisa-2009-all-categories.md)
 - [National gender-equality and human-development indicators show no consistent correlation with sex differences in mathematics or reading across the decade](no-consistent-correlation-gender-equality-sex-differences.md) — related
 - [Gender differences in mathematics and science achievement are negligible among top-performing math students, while female students show better reading achievement](achievement-gaps-top5-math-negligible-reading-female.md) — related
+- [Boys and girls show equal variability in early mathematical performance across all measured tasks](no-gender-difference-variability-early-math-performance.md) — related

@@ -53,3 +53,4 @@ Authors' interpretation in the conclusion (type e), weighing the analytical expo
 - [A Hidden Markov Model over knowledge states identifies Analytical Thinking (A5) as the learning bottleneck with the lowest forward transition probability](hmm-identifies-a5-bottleneck.md) — related
 - [Individualized Knowledge Tracing parameters fit student data significantly better and change mastery-learning practice decisions for many students](individualized-kt-parameters-change-practice-decisions.md) — related
 - [The Knowledge Tracing Algorithm does not suffer the identifiability problem: all four parameters affect its behavior separately](kt-algorithm-no-identifiability-problem.md) — related
+- [Hidden Markov model of individual training curves shows task-specific improvement plateaued on average on the third day of training](hmm-transition-day-three.md) — related

@@ -60,9 +60,11 @@ The strategy combines two well-supported mechanisms: structured collaboration, i
 6. Pairs rehearse telling the story, then present it to another small group; peers offer feedback on clarity and story elements ([Assessment](../elements/assessment.md))
 
 ## Related Strategies
+
 - [Think-Pair-Share](../patterns/think-pair-share.md) — the underlying individual-then-pair structure applied to discussion rather than story creation
 - [Reciprocal Teaching](../elements/reciprocal-teaching.md) — similarly structures peer interaction around explicit roles and prompts
 - [Story Mapping](story-mapping.md) — a graphic-organizer variant that externalizes the same narrative elements
+- [Scaffolding storytelling: guiding a child to create their own story about new material through open-ended questions, hints, and validation](scaffolding-storytelling-strategy.md)
 
 ## Related Elements
 - [Peer Discussion](../elements/peer-discussion.md) — the negotiation phase where individual ideas are evaluated and merged

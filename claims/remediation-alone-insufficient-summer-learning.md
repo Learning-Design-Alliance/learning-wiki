@@ -9,6 +9,7 @@ generated:
   at: 2026-10-10
 evidence_strength: weak
 newest_evidence: 2021
+source_checked: 2026-10-26
 sources:
   - id: summer-learning-and-beyond-opportunities-for-creating-equity-2021
     resource: "https://learningpolicyinstitute.org/product/summer-learning-creating-equity"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r1` · `q2`
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2021 · checked against its sources 2026-10-26 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Research on the science of learning and development indicates that intensive remediation alone will not meet students' needs and may deepen inequalities and exacerbate trauma when segregating, stigmatizing, and separated from children's real-life concerns. [→ Summer Learning and Beyond: Opportunities for Creating Equity 2021](#summer-learning-and-beyond-opportunities-for-creating-equity-2021)

@@ -62,3 +62,4 @@ Omnibus interaction test from the ANOVAs in Experiments 1 and 2, in which cued r
 - [Several candidate moderators show no reliable effects: retention interval, test type, presentation mode, and publication status](interleaving-null-moderators-retention-test-presentation.md) — related
 - [The retention-interval main effect shows forgetting occurred over one week in both experiments](one-week-forgetting-main-effect-both-experiments.md) — related
 - [Retrieval practice takes more learning time than worked examples, and variability slows improvement during practice](retrieval-practice-time-cost-and-slower-varied-learning.md) — related
+- [Retention declines with interval (time-dependent forgetting) across images, details, and details-per-image measures](time-dependent-forgetting-across-intervals.md) — related

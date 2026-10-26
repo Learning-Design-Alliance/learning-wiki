@@ -1,11 +1,16 @@
 Learning Design Wiki — Content License
 =======================================
 
-Unless otherwise noted, all content in this repository — pages under
-principles/, elements/, patterns/, strategies/, theories/, claims/,
-sources/, revisions/, and the root index.md and log.md — is licensed
-under the Creative Commons Attribution-ShareAlike 4.0 International
-License (CC BY-SA 4.0).
+Unless otherwise noted, all content in this repository that is not
+software is licensed under the Creative Commons Attribution-ShareAlike
+4.0 International License (CC BY-SA 4.0). That covers every content
+folder (principles/, elements/, patterns/, designs/, products/,
+strategies/, processes/, methods/, research-methods/, theories/,
+learner-variables/, claims/), together with observations/, research/,
+sources/, revisions/, history/, log/, the root pages (index.md,
+log.md, evidence.md, checks.md and the other markdown files) and the
+generated data files (wiki-index.json, reverse-index.json,
+situation-index.json, evidence-scales.json, evidence-dimensions.json).
 
 You are free to:
 
@@ -30,6 +35,29 @@ This is a human-readable summary of (and not a substitute for) the
 full license. To view the complete legal text, visit:
 
     https://creativecommons.org/licenses/by-sa/4.0/legalcode
+
+How the content is made, and what that means for this license
+-------------------------------------------------------------
+
+Most pages are written by language models from published research,
+under rules, templates and checks that people designed, and
+maintained by the Learning Design Alliance. The project's structure,
+schemas, templates, editorial rules, selection of sources and code
+are human work.
+
+In several jurisdictions, including the United States, text produced
+by an AI system without enough human creative control is not protected
+by copyright. Some of these pages may therefore carry no copyright,
+and to that extent they are in the public domain. This license applies
+to the extent that copyright or similar rights exist in the content;
+it claims nothing beyond them. Either way, you may do at least what
+the license allows, and nobody is restricted by it.
+
+Pages quote short passages from the research they summarise, with a
+citation. Those passages remain the work of their authors and are
+reproduced as quotation; this license does not cover them.
+
+This note describes the project's position. It is not legal advice.
 
 Software in this repository (everything under scripts/, and any other
 source code) is licensed separately under the MIT License — see

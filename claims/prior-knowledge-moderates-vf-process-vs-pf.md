@@ -82,3 +82,4 @@ Follow-up simple-correlation analyses within conditions: in VF-process prior kno
 - [Improvement in conceptually-laden in-game challenges over gameplay is strongly moderated by prior physics knowledge](challenge-improvement-moderated-by-prior-knowledge.md) — related
 - [Students observing high-diversity vicarious failure (VF-high) significantly outperform students in VF-low and DI conditions on conceptual knowledge](vf-high-outperforms-vf-low-and-di-conceptual.md) — related
 - [Collaborative and individual problem solving in traditional PF do not differ in conceptual knowledge after instruction](pf-collaborative-individual-no-conceptual-knowledge-difference.md) — related
+- [In young elementary students with a comparing-and-contrasting activity in instruction, problem solving prior to instruction (PF) showed no advantage over direct instruction (DI) for conceptual knowledge](pf-no-advantage-young-students-conceptual-knowledge.md) — related

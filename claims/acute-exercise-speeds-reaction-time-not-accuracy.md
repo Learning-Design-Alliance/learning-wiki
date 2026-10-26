@@ -54,3 +54,5 @@ Experimental study by Ellemberg and St. Louis Deschenes of typically developing 
 - [Duration and intensity of PA bouts may moderate attention effects, consistent with an inverted-U hypothesis](pa-duration-intensity-inverted-u-attention.md) — a broader claim this one bears on
 - [Reward does not alter the speed or variability of response execution in either stop signal task](reward-does-not-alter-response-execution.md) — related
 - [Null Flanker effects under ecologically realistic exercise constrain claims of broad, generalized enhancement of executive control](null-flanker-effects-constrain-generalized-enhancement.md) — related
+- [Brief mindfulness meditation speeds overall ANT reaction times without compromising accuracy](bmm-faster-reaction-time-no-accuracy-cost.md) — related
+- [Eighteen days of brief mindfulness meditation selectively improves executive control network efficiency in healthy adults](bmm-selectively-improves-executive-control-ant.md) — related

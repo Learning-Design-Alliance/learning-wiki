@@ -53,3 +53,4 @@ Same longitudinal SEM analysis; the article reports the effects of retention on 
 - [Grade retention has positive effects on math self-concept in the first year following retention, maintained over subsequent years](retention-positive-math-self-concept-lag1.md) — related
 - [Retention effects are developmentally invariant across students retained in Years 5, 6, 7, and 8, and mostly positive overall](retention-effects-developmentally-invariant.md) — a broader claim this one bears on
 - [Retention improves perceived positive teacher support, but not perceived parental assistance or peer appreciation of math](retention-teacher-support-improves-parent-peer-null.md) — related
+- [Exploratory 3-month follow-up suggested a sleeper effect on parent-rated empathy, but no maintained gains in other outcomes](zirkus-empathico-followup-sleeper-empathy.md) — related

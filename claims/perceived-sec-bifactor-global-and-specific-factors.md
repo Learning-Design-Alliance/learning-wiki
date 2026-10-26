@@ -47,3 +47,4 @@ Confirmatory factor analyses of student self-reports from 414 Australian seconda
 ## Related Claims
 - [Perceived competence for social regulation negatively predicts external motivation and conduct problems, and perceived competence for tolerance positively predicts autonomous motivation](specific-perceived-sec-dimensions-unique-associations.md) — related
 - [Global perceived-SEC is positively associated with autonomous motivation, introjected motivation, and prosocial behavior, and negatively with conduct problems](global-perceived-sec-predicts-motivation-and-behaviors.md) — related
+- [Bifactor-ESEM shows the highest fit among CFA, ESEM, bifactor-CFA and bifactor-ESEM models, supporting AITAQS as one general factor plus four specific dimensions.](aitaqs-bifactor-esem-best-fit.md) — a narrower finding that bears on this claim

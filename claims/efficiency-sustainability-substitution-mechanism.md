@@ -50,3 +50,4 @@ Analytical result from the article's qualitative value-critical analysis of cont
 - [Educators redefined AI's educational role from answer provider to learning partner and tutor supporting conceptual understanding](ai-learning-partner-tutor-redefinition.md) — related
 - [A goal gap misaligns the measurable-performance aims promoted by current technologies with education's broader developmental aims](goal-gap-performance-vs-development.md) — a broader claim this one bears on
 - [Most ITS applications augment existing mathematics teaching practices rather than transform instruction, indicating technological sophistication does not independently determine pedagogical value](its-applications-augment-not-transform.md) — related
+- [The article argues current AI tools focus on the products of learning rather than the human process of learning](ai-focus-products-not-processes.md) — related

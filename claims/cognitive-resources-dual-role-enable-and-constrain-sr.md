@@ -48,3 +48,4 @@ The review's synthesis in the Limited Resources section, drawing on cited review
 - [Executive functions, especially working memory, inhibition, and cognitive flexibility, are consistently associated with core SRL activities](executive-functions-associated-with-core-srl-activities.md) — related
 - [Creativity, crystallized intelligence, fluid intelligence and executive functions are all correlated in children aged 8 to 13](cognitive-variables-creativity-correlations-children.md) — related
 - [Executive functions substantially account for the latent intelligence–creativity correlation, leaving a reduced but still positive residual of r = .34.](executive-functions-reduce-gf-creativity-correlation.md) — related
+- [Young students' age-related cognitive capacities and self-regulatory strategies are proposed as potential boundary conditions limiting their benefit from Productive Failure](age-related-boundary-conditions-productive-failure.md) — related

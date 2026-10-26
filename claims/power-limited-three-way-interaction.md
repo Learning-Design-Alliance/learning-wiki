@@ -49,3 +49,4 @@ Summary-statistics-based sensitivity power analysis reported in the Discussion f
 - [Most studies of literacy resilience have (very) small sample sizes and low statistical power to find relevant effects](literacy-resilience-studies-low-statistical-power.md) — related
 - [Clustering effects in education random-assignment trials vary by design but are typically large, requiring large school samples](clustering-effects-large-school-samples-education-trials.md) — related
 - [Robust RDD methods protect against model misspecification but require much larger sample sizes to detect small effects](rdd-robust-methods-need-larger-samples.md) — related
+- [The study was powered to detect effect sizes from d = 0.34 to 0.65 across the five tasks, so smaller effects would not have been reliably detected](power-analysis-detectable-effect-sizes-034-to-065.md) — related

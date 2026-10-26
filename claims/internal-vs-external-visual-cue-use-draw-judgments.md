@@ -69,3 +69,4 @@ Study 2 with 48 undergraduates reading chemistry texts replicated the internal-e
 - [Students using representation-based cues showed higher draw relative accuracy than those using heuristic cues](representation-based-cues-support-draw-relative-accuracy.md) — related
 - [Instructional visuals reduced draw relative metacomprehension accuracy compared to text-only condition](instructional-visuals-harm-draw-relative-metacomprehension-accuracy.md) — related
 - [Learning by drawing outperforms text-based strategies but is often less effective than studying pre-made drawings, with guidance and drawing training as key determinants](drawing-beats-text-loses-to-premade-visuals.md) — related
+- [Across all mapping groups, pitch-based mapping and mental imagery emerge as the dominant cognitive strategies for interpreting sound-image associations](pitch-mapping-imagery-dominant-strategies.md) — related

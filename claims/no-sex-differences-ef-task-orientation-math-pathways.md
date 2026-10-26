@@ -57,3 +57,4 @@ Null finding from the longitudinal study of 467 preschoolers: no statistically s
 - [Boys received more process praise and scored higher in 4th grade math than girls in this sample](gender-differences-process-praise-and-fourth-grade-math.md) — related
 - [The mathematics sex difference favoring boys is more consistently found among higher-achieving nations, with considerable variability among lower-scoring countries](math-sex-difference-larger-in-higher-achieving-nations.md) — related
 - [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](pisa-sex-differences-math-small-reading-three-times-larger.md) — related
+- [Boys and girls show no gender difference in overall early math achievement on the TEMA-3](no-gender-difference-tema3-overall-math-achievement.md) — related

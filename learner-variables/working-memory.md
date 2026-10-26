@@ -13,7 +13,7 @@ generated:
 # Working Memory
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 104 claims (60 show a difference, 31 mixed, 13 no difference) · 83 studies (25 causal, 20 associational, 19 review, 11 quant-synthesis, 5 theoretical, 3 qualitative), `q1`–`q4` · 13 of 83 report an effect size · 98 claims rest on one study
+> **Evidence** · 106 claims (61 show a difference, 31 mixed, 14 no difference) · 85 studies (25 causal, 22 associational, 19 review, 11 quant-synthesis, 5 theoretical, 3 qualitative), `q1`–`q4` · 14 of 85 report an effect size · 100 claims rest on one study
 
 ## Description
 How much a learner can hold and manipulate at once. It is the best-evidenced dimension here and the most directly actionable: it converts into element counts per screen, whether two sources must be read together, and whether a problem is given whole or as a worked example. Capacity is near-fixed, but *effective* capacity is not — prior knowledge supplies the schemas that let several items be held as one, which is why the same screen overloads a novice and not an expert [~S].
@@ -147,6 +147,8 @@ How much a learner can hold and manipulate at once. It is the best-evidenced dim
 - [The authors propose feedback as a working-memory aid that may increase the testing effect for learners with lower WM capacity](../claims/feedback-as-wm-aid-for-retrieval-practice.md) [~W] — an instructional effect differs with it
 - [The testing effect is moderated by a three-way interaction between retrieval condition, stimulus frequency, and working memory capacity](../claims/three-way-interaction-wm-frequency-testing-effect.md) [~M] — an instructional effect differs with it
 - [Working memory performance ranking does not predict conditioned response percentage](../claims/wm-performance-does-not-predict-crs.md) [-M] — learners who differ on it differ in outcomes
+- [Study 2 replicates the negative SL–EF factor 1 correlation while EF factor 2 (short-term memory) shows no association with implicit SL](../claims/sl-ef-factor1-negative-study2-replication.md) [-M] — learners who differ on it differ in outcomes
+- [Working memory training improvement decomposes into an early task-specific process accounting for 44% of the total increase and a slower capacity improvement](../claims/wm-training-dual-process-decomposition.md) [+M] — instruction changes it
 
 ## The evidence by question
 

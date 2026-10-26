@@ -53,6 +53,7 @@ The review recommends that deployment of agentic AI in education be governed by 
 - [Deployment priorities for classroom AI feedback tools: latency ceiling, adaptive onboarding, and verifier transparency](classroom-ai-feedback-deployment-priorities.md)
 - [Ethical governance safeguards for robot-supported mental health education with children](ethical-safeguards-child-robot-mental-health-education.md)
 - [Automated assessment outputs must retain human monitoring and never serve as official grades or sole decision bases](human-monitoring-automated-assessment.md)
+- [Tailor AI deployment to specific applications and stakeholder groups rather than applying a one-size-fits-all integration approach](stakeholder-specific-ai-deployment-strategy.md)
 
 ## Examples
 -

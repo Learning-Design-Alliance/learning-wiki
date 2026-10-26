@@ -51,3 +51,4 @@ The review reports a series of experiments using a change-detection procedure wi
 - [Children's ability to shield attention against distraction develops until the second decade of life alongside prefrontal cortex maturation](attention-control-develops-second-decade.md) — related
 - [Children's understanding of whole number advances by one developmental level per additional unit of working memory capacity](whole-number-ccs-one-level-per-wm-unit.md) — related
 - Analytical degrees of freedom in the primary study (prior-knowledge filtering and control-variable selection) affected its results: removing prior knowledge as a control rendered the comprehension interaction nonsignificant — reports the opposite
+- [Working memory training improvement decomposes into an early task-specific process accounting for 44% of the total increase and a slower capacity improvement](wm-training-dual-process-decomposition.md) — related

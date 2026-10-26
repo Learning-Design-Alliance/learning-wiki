@@ -13,7 +13,7 @@ generated:
 # Long-Term Memory
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 125 claims (80 show a difference, 26 mixed, 19 no difference) · 78 studies (32 causal, 19 review, 13 quant-synthesis, 7 theoretical, 5 associational, 2 qualitative), `q1`–`q4` · 27 of 78 report an effect size · 118 claims rest on one study
+> **Evidence** · 126 claims (80 show a difference, 26 mixed, 20 no difference) · 79 studies (33 causal, 19 review, 13 quant-synthesis, 7 theoretical, 5 associational, 2 qualitative), `q1`–`q4` · 27 of 79 report an effect size · 119 claims rest on one study
 
 ## Description
 Long-term memory holds information, such as words, facts, events, concepts and procedures, so that it can be retrieved and used later, over spans from hours to decades, and in principle indefinitely. Skills and knowledge get there through repeated practice and use, and stay accessible while they continue to be used. It matters for learning because what is stored there is the base for everything that follows: the [prior knowledge](prior-knowledge.md) and vocabulary that support reading and writing, and the arithmetic facts and procedures that free a learner to work on new mathematics problems. It develops through childhood and adolescence as the brain systems supporting it mature, and older learners lean more on memory-based strategies, for example in mathematics. It is measured with standardised memory batteries that ask learners to recall stories, lists or figures after a delay. It is distinct from [working memory](working-memory.md), which holds information briefly while it is being used; rehearsal and use move material from one to the other.
@@ -160,6 +160,7 @@ Long-term memory holds information, such as words, facts, events, concepts and p
 - [Model-derived prediction error at encoding interacts with prediction outcome in determining subsequent recognition memory](../claims/pe-outcome-interaction-episodic-memory.md) [~M] — instruction changes it
 - [Short post-class naps (<30 min) show no significant retention benefit](../claims/short-naps-no-retention-benefit.md) [-M] — instruction changes it
 - [The overall main effect of prediction error on recognition memory, independent of prediction outcome, is not significant](../claims/overall-pe-main-effect-null.md) [-M] — instruction changes it
+- [Even a substantially increased declarative-load intervening task placed late in training does not impair the post-rest gain (Experiment 2)](../claims/increased-declarative-load-late-no-impairment-experiment-2.md) [-W] — instruction changes it
 
 ## Measures
 - **Wechsler Memory Scale (WMS)** (Wechsler, 2010): its logical memory subtest asks for details of a story heard once, as a measure of declarative memory.

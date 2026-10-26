@@ -13,7 +13,7 @@ generated:
 # Auditory Processing
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 32 claims (16 show a difference, 12 mixed, 4 no difference) · 18 studies (7 associational, 4 causal, 3 review, 2 quant-synthesis, 2 theoretical), `q1`–`q3` · 5 of 18 report an effect size · 30 claims rest on one study
+> **Evidence** · 38 claims (20 show a difference, 13 mixed, 5 no difference) · 21 studies (7 causal, 7 associational, 3 review, 2 quant-synthesis, 2 theoretical), `q1`–`q3` · 6 of 21 report an effect size · 36 claims rest on one study
 
 ## Description
 Auditory processing is what the brain does with sound once it has been heard: locating sounds, telling them apart and interpreting them as meaningful, so that a listener can attend to, understand and remember speech and control their own speaking. It underpins spoken language and listening comprehension and lays the foundation for reading and writing, including [phonological awareness](phonological-awareness.md), at every age the LVN covers from pre-kindergarten to adulthood. It is still developing through adolescence, when academic demands on listening rise. Difficulties show up most where speech must be followed against background noise, as in a busy classroom, and learners with dyslexia may process speech sounds differently. It is measured with standardised batteries of auditory attention, auditory memory and phonological skills, and with tests of auditory processing speed. It is distinct from hearing itself, which [access](access.md) covers, though hearing loss affects it; in older adults, age-related decline in hearing speech in noise is part of the picture.
@@ -68,6 +68,12 @@ Auditory processing is what the brain does with sound once it has been heard: lo
 - [Immersive presentation keeps comprehension performance stable across a training session while auditory-only performance decreases toward the end](../claims/immersive-training-comprehension-stability.md) [~M] — instruction changes it
 - [Lower auditory working memory capacity moderates the training benefit: participants 1 SD below the mean improve significantly more after immersive than auditory training](../claims/awm-moderates-immersive-training-benefit.md) [~M] — an instructional effect differs with it
 - [Speech-in-noise perception improves significantly after a short-term immersive auditory-cognitive training, but not after an audio-only training session](../claims/immersive-act-improves-speech-in-noise.md) [+M] — instruction changes it
+- [Algorithm-group participants report significantly higher soundscape visualizability than Control participants, while group differences in strategy use, confidence, and error awareness are not statistically significant](../claims/visualizability-differs-strategy-use-does-not.md) [+M] — instruction changes it
+- [Processing time increases more for novel than familiar stimuli in algorithm-trained groups than in the Control group, while overall processing time does not differ by group](../claims/processing-time-novelty-increase-varies-by-group.md) [~M] — instruction changes it
+- [Speechreading training does not significantly improve subjectively perceived everyday listening effort or hearing abilities](../claims/speechreading-training-no-subjective-hearing-gain.md) [-M] — instruction changes it
+- [Structured algorithmic mappings (Traditional and Reversed) produce higher first-attempt learning accuracy than an arbitrary single-tone mapping in visual-to-auditory SSD learning](../claims/structured-mappings-facilitate-initial-ssd-learning.md) [+M] — instruction changes it
+- [Three weeks of computer-based speechreading training improves audiovisual speech-in-noise comprehension in middle-aged and older adults, with the effect limited to the audiovisual condition](../claims/speechreading-training-improves-av-speech-in-noise.md) [+M] — instruction changes it
+- [Massed exposure to a single frequency produces lasting suppression of detection at distant frequencies](../claims/massed-single-frequency-suppression.md) [+M] — instruction changes it
 
 ## Measures
 - **Test of Auditory Processing Skills** (Martin, Brownell & Hamaguchi, 2018): auditory attention, auditory memory and phonological skills for ages 4 to 18.

@@ -56,3 +56,4 @@ Children were semi-randomly assigned to work with a (grand)parent or a stranger,
 - [Regardless of dyad type, dyads' Extend/revise and Recognize/agree behaviors facilitated fluency, while child-parent dyad type showed a negative effect](dyad-cognitive-perspective-taking-facilitates-fluency.md) — related
 - [Listen/understand negatively affected dyads' appropriateness, while Extend/revise's negative effect became insignificant once Inviting behavior was controlled](listen-understand-reduces-appropriateness.md) — related
 - [Perspective taking increases the creativity of dyadic interactions](perspective-taking-increases-dyad-creativity.md) — a broader claim this one bears on
+- [In young students' collaborative PF, dyads that produced more constructive utterances generated more solution ideas](constructive-utterances-solution-ideas-correlation.md) — related

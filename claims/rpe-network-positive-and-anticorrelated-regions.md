@@ -52,3 +52,5 @@ Whole-group random-effects fMRI main-effect analysis of model-derived RPEs enter
 - [A risk-sensitive reinforcement learning model with anticorrelated valuation fit reversal learning behavior better than standard models](rsav-model-outperformed-standard-rl-models.md) — related
 - [Adolescents showed a marginally decreased number of punishments before switching in reversal learning](marginal-fewer-punishments-before-adolescent-switches.md) — related
 - [Individual movement-error distributions during strategic adaptation are multimodal (peaks at sign flips, mirror reversals, and defaults), inconsistent with random exploration predicted by reinforcement learning](multimodal-error-distributions-strategic-adaptation.md) — related
+- [Brain responds similarly to prediction errors for human and slot-machine partners' generosity](prediction-errors-human-slot-machine-partners-continuum.md) — related
+- [Mentalizing-network regions (TPJ, STS, dmPFC, MTG) signal social prediction errors beyond ToM tasks](mentalizing-network-social-prediction-error.md) — related

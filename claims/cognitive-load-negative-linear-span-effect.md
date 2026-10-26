@@ -48,3 +48,4 @@ The review reports the complex-span tasks of Barrouillet, Portrat, and Camos, in
 - [A shared attentional resource for storage and processing is the best supported resource theory of WM capacity but faces empirical challenges](shared-resource-storage-processing-wm.md) — a broader claim this one bears on
 - [Children too young to use attentional refreshing are limited by retention interval duration, while older children and adults are limited by cognitive load](refreshing-phase-change-in-childhood.md) — related
 - [There is no convincing evidence that loading WM depletes a resource needed for the control of attention](shared-resource-attention-control-wm-unconvincing.md) — related
+- [Working memory capacity is not solely determined by item complexity: the relationship is non-linear](wm-capacity-not-solely-determined-by-complexity.md) — related

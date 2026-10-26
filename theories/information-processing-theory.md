@@ -17,7 +17,7 @@ sources:
 # Information Processing Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 121 claims (64 for, 56 mixed, 1 against) · 77 studies (30 causal, 25 associational, 13 review, 4 quant-synthesis, 4 theoretical, 1 design), `q1`–`q4` · 16 of 77 report an effect size · 118 claims rest on one study
+> **Evidence** · 123 claims (66 for, 56 mixed, 1 against) · 78 studies (31 causal, 25 associational, 13 review, 4 quant-synthesis, 4 theoretical, 1 design), `q1`–`q4` · 16 of 78 report an effect size · 120 claims rest on one study
 
 ## Description
 Information Processing Theory treats learning as the movement and transformation of information through attention, working memory, encoding, storage, and retrieval. In broad terms, the theory asks what learners notice, how much they can actively process at once, how they organize new information, and how it becomes retrievable later.
@@ -184,6 +184,8 @@ Information processing models are often criticized as overly linear and serial, 
 - [For correct predictions, stronger prediction errors during encoding lead to enhanced recognition memory](../claims/pe-enhances-memory-correct-predictions.md) [+W] — attached 2026-10-26 from Francesco Pupillo et al. (2023), which proposed "Hippocampal-striatal dopaminergic account of outcome-modulated prediction-error effects on encoding".
 - [For incorrect predictions, stronger prediction errors during encoding lead to impaired recognition memory](../claims/pe-impairs-memory-incorrect-predictions.md) [+W] — attached 2026-10-26 from Francesco Pupillo et al. (2023), which proposed "Hippocampal-striatal dopaminergic account of outcome-modulated prediction-error effects on encoding".
 - [A modified SAC simulation with a dual-process account replicated the critical three-way interaction, including the absence of a testing effect for low-WM participants on LF associations](../claims/sac-simulation-replicates-three-way-interaction.md) [+W]
+- [Working memory capacity is not solely determined by item complexity: the relationship is non-linear](../claims/wm-capacity-not-solely-determined-by-complexity.md) [+W] — attached 2026-10-26 from Wuji Lin et al. (2024), which proposed "Integration-before-storage account of visual working memory capacity".
+- [The complexity effect on working memory capacity is not due to insufficient encoding time](../claims/wm-complexity-effect-not-encoding-time.md) [+W]
 
 ## The evidence by question
 - *How large should a unit be, and does grouping static material help?* [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [+S]

@@ -17,7 +17,7 @@ sources:
 # ICAP theory: a taxonomy of four cognitive engagement modes with a hierarchical learning prediction
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 18 claims (10 for, 8 mixed) · 10 studies (5 associational, 2 design, 2 theoretical, 1 review), `q1`–`q3` · 2 of 10 report an effect size · 17 claims rest on one study
+> **Evidence** · 19 claims (11 for, 8 mixed) · 11 studies (5 associational, 2 design, 2 theoretical, 1 causal, 1 review), `q1`–`q3` · 3 of 11 report an effect size · 18 claims rest on one study
 
 ## Description
 ICAP defines four modes of cognitive engagement — Interactive, Constructive, Active, and Passive — operationally differentiated by students' overt behaviors and products. The article states that "ICAP encompasses three components: a taxonomy of four engagement modes and the operational definition of each mode, a metric that can define the degree of engagement based on the cognitive processes corresponding to the four behavioral modes, and a hypothesis that can predict the hierarchical levels of student learning as a function of the mode of engagement." Each mode is mapped to underlying knowledge-change processes (storing, activating, linking, inferring), and the modes are hierarchically ordered so that Interactive subsumes Constructive, which subsumes Active, which subsumes Passive.
@@ -60,6 +60,7 @@ ICAP defines four modes of cognitive engagement — Interactive, Constructive, A
 - [In observed Australian secondary classrooms, only a minority of lesson tasks stimulated Constructive or Interactive engagement](../claims/paucity-constructive-interactive-lesson-tasks.md) [~W]
 - [Students using interactive socioemotional or regulated constructive patterns were more productive cognitively and in knowledge productivity](../claims/socioemotional-regulated-patterns-more-productive.md) [+W]
 - [Learning from examples depends on the explaining mode: prompting principle-based self-explanations and guided comparison of examples improves transfer](../claims/examples-facilitate-explaining.md) [~W] — attached 2026-10-22 from Fiorella (2023), which proposed "Generative sense-making framework: explaining, visualizing, and enacting modes with grounded sense-making"; tests this page's relationship.
+- [Students' relative frequencies of interactive, constructive, and active utterances during collaborative PF correlated positively with their conceptual knowledge posttest scores](../claims/relative-utterance-frequencies-conceptual-knowledge.md) [+M] — attached 2026-10-26 from Claudia Mazziotti et al. (2019), which proposed "ICAP framework as a coding lens for collaborative engagement in Productive Failure"; tests this page's relationship.
 
 ## The evidence by question
 - *Which kind of activity: manipulating material, generating beyond it, or building on a partner's ideas?* [Constructive learning beats active and passive learning](../claims/constructive-learning-beats-active-passive.md) [+M]

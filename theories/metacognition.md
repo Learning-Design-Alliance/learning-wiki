@@ -12,7 +12,7 @@ generated:
 # Metacognition
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 450 claims (209 for, 218 mixed, 23 against) · 227 studies (109 causal, 49 associational, 25 review, 16 theoretical, 12 quant-synthesis, 10 qualitative, 6 design), `q1`–`q4` · 81 of 227 report an effect size · 443 claims rest on one study
+> **Evidence** · 453 claims (211 for, 219 mixed, 23 against) · 228 studies (110 causal, 49 associational, 25 review, 16 theoretical, 12 quant-synthesis, 10 qualitative, 6 design), `q1`–`q4` · 81 of 228 report an effect size · 446 claims rest on one study
 
 ## Description
 Metacognition is knowledge about, and the ability to regulate, one's own cognitive processes — realistically judging how difficult a task will be, monitoring whether a strategy is working, and adjusting accordingly. It is closely related to, but distinct from, [Executive Function Development](executive-function-development.md): executive function is the underlying capacity to control and coordinate cognition, while metacognition is specifically the learner's own knowledge *about* that cognition and the strategies available to direct it.
@@ -493,6 +493,9 @@ A rough age-8 inflection point has been observed in some longitudinal work: stra
 - [Students consistently overestimated how much they learned with answer-revealing images](../claims/overestimating-learning-with-answer-revealing-images.md) [+W]
 - [Higher confidence reduced knowledge exploration after correct answers, and high-confidence errors showed no effect on exploration](../claims/confirmed-confidence-reduces-exploration.md) [~W]
 - [Self-rating word-knowledge responses admitted marked over-estimation, prompting a response format requiring students to name the field of knowledge of each word](../claims/self-rating-overestimation-word-knowledge.md) [+W]
+- [Adults showed an advantage in metacognitive sensitivity for nonword foils, whereas Grade 5 children showed little evidence of such sensitivity](../claims/adult-metacognitive-sensitivity-nonword-foils.md) [+W]
+- [Recognition accuracy was higher for Remember responses than for Guess responses across age groups and foil types, indicating metacognitive sensitivity in all groups](../claims/confidence-accuracy-gradient-sl.md) [+W]
+- [The distribution of confidence responses (Remember, Familiar, Guess) is highly stable across childhood and from late childhood to adulthood](../claims/confidence-response-distribution-stable-development.md) [~W]
 
 ## The evidence by question
 

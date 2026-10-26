@@ -49,6 +49,7 @@ The review proposes its synthesis as a design foundation: "this work offers a fo
 
 - [Upgrade retrieval to Agentic RAG and adopt context-aware emotive narration to reduce cognitive load](agentic-rag-and-context-aware-audio-upgrades.md)
 - [Recommendations for future CA development: educator design templates, multilingual support, and theory-informed pedagogical integration](ca-future-design-recommendations.md)
+- [Emotion-aware AI and multimodal analytics to support self-regulation of emotions in mathematics](emotion-aware-ai-multimodal-support.md)
 
 ## Examples
 -

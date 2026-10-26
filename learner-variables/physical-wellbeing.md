@@ -13,7 +13,7 @@ generated:
 # Physical Well-Being
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 69 claims (46 show a difference, 16 mixed, 7 no difference) · 38 studies (14 causal, 11 associational, 8 review, 2 quant-synthesis, 1 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 7 of 38 report an effect size · 65 claims rest on one study
+> **Evidence** · 70 claims (47 show a difference, 16 mixed, 7 no difference) · 39 studies (15 causal, 11 associational, 8 review, 2 quant-synthesis, 1 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 7 of 39 report an effect size · 66 claims rest on one study
 
 ## Description
 Physical well-being covers a learner's overall physical health: nutrition, regular physical activity and fitness, and good sleep. The LVN's case for it is that the benefits reach beyond the body: learners in good health benefit in cognitive skills, focus and mood, which can support academic performance, and in the early years it frames the same idea as physical fitness, with regular exercise strengthening cognitive skills. Exercise is described as particularly helpful for learners with ADHD. Physical activity tends to fall during adolescence, and for adults, education can itself improve health as health literacy grows and learners become better able to advocate for their needs. Body mass index is the one measure the LVN lists. It overlaps with [sleep](sleep.md), which is one of its components, and with [attention](attention.md) and [executive function](executive-function.md), which are among the outcomes exercise is linked to.
@@ -106,6 +106,7 @@ Physical well-being covers a learner's overall physical health: nutrition, regul
 - [Composite mental test rank shows a large positive correlation with school grade, physical rank only a small one](../claims/mental-rank-large-correlation-school-grade.md) [+M] — learners who differ on it differ in outcomes
 - [Mental and physical test ranks correlate positively but weakly, allowing rough sorting into five ability groups](../claims/weak-mental-physical-correlation-five-groups.md) [+M] — learners who differ on it differ in outcomes
 - [Physical measures showed no appreciable difference in height and a larger weight gain in the untreated class](../claims/physical-measures-weight-height-no-treated-advantage.md) [~M] — instruction changes it
+- [All measured health conditions are associated with greater school absence at 14–16, and depressive symptoms at 10 show a considerably stronger association with GCSEs than at 13 (ALSPAC cohort)](../claims/health-school-absence-and-depression-timing-alspac.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Body Mass Index (BMI)**: a measure of body fat calculated from height and weight.

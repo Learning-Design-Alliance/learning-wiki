@@ -51,6 +51,7 @@ The article recommends that institutions use persona profiles as the basis for d
 - [Provide differentiated scaffolding matched to teachers' behavioral-cognitive profiles when supporting multi-agent AI workflow design](differentiated-scaffolding-teacher-ai-design-profiles.md)
 - [Typology-differentiated AI adoption policy interventions for education systems](typology-differentiated-ai-adoption-policy-interventions.md)
 - [Deployment priorities for classroom AI feedback tools: latency ceiling, adaptive onboarding, and verifier transparency](classroom-ai-feedback-deployment-priorities.md)
+- [Tailor AI deployment to specific applications and stakeholder groups rather than applying a one-size-fits-all integration approach](stakeholder-specific-ai-deployment-strategy.md)
 
 ## Examples
 -
