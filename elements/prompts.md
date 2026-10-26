@@ -82,7 +82,7 @@ Prompts work by triggering self-explanations and strategic processing that learn
 - [Fading-out prompts yield more cognitive strategy use and higher learning outcomes than permanent prompts](../claims/fading-out-prompts-beat-permanent-prompts.md) [~W]
 - [Prompt compliance varied widely across the four metacognitive prompts, with interactive prompts responded to more appropriately](../claims/prompt-compliance-varies-interactivity.md) [+W] — attached 2026-10-23 from Rebecca Pape (2026), which proposed "Brainix metacognitive prompt set (set goal, prioritize, reflect prompts and calendar goals planner)"; tests this page's relationship.
 - [Reviewer questions whether action responses guarantee meaning or become direct cues to responses](../claims/action-response-meaning-question.md) [~W]
-- [Lower secondary students are more likely to study vocabulary on days they receive a smartphone study reminder than on days they do not](../claims/reminder-days-boost-same-day-study-probability.md) [+W]
+- [In two studies of children aged 10–12 and 9–13, students were more likely to study vocabulary on days they received a mobile-app study reminder than on days they did not](../claims/reminder-days-boost-same-day-study-probability.md) [+W]
 - [Students who received study reminders did not study more frequently overall than control students who never received reminders](../claims/reminder-group-no-overall-study-increase.md) [-W]
 - [On days without reminders, reminded students were significantly less likely to study vocabulary than control students, suggesting overreliance on reminders](../claims/reminder-overreliance-on-no-reminder-days.md) [-W]
 

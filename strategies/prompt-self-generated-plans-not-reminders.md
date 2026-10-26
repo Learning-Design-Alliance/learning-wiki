@@ -41,7 +41,7 @@ The article recommends that mobile interventions "prompt students to apply self-
 ## Claims
 
 - [On days without reminders, reminded students were significantly less likely to study vocabulary than control students, suggesting overreliance on reminders](../claims/reminder-overreliance-on-no-reminder-days.md) [+W]
-- [Lower secondary students are more likely to study vocabulary on days they receive a smartphone study reminder than on days they do not](../claims/reminder-days-boost-same-day-study-probability.md) [~W]
+- [In two studies of children aged 10–12 and 9–13, students were more likely to study vocabulary on days they received a mobile-app study reminder than on days they did not](../claims/reminder-days-boost-same-day-study-probability.md) [~W]
 - [Within-person reminders of implementation intentions improve students' short-term study behaviour](../claims/within-person-reminders-improve-study-behaviour.md) [+W]
 
 ## Related Strategies

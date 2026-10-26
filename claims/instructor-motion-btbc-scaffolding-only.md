@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2022
+source_checked: 2026-10-26
 sources:
   - id: yafeng-pan-2022
     resource: "https://doi.org/10.1038/s41539-022-00131-0"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2022 · checked against its sources 2026-10-26 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The approach × instructor motion interaction on BtBC was significant, with a positive instructor motion–BtBC relationship only in the scaffolding condition. [→ Yafeng Pan 2022](#yafeng-pan-2022)

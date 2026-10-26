@@ -47,5 +47,5 @@ Between-group logistic mixed-effects model on daily log-file data in the same pr
 ## Related Claims
 - [Reminder and control groups did not differ in vocabulary test performance, and the test data were too noisy to reliably test the study-frequency–performance link](no-group-difference-vocabulary-test-performance.md) — related
 - [The likelihood of studying on reminder-free days decreased more rapidly over time for reminded students than for control students (non-significant exploratory trend)](no-reminder-study-declines-over-time-trend.md) — related
-- [Lower secondary students are more likely to study vocabulary on days they receive a smartphone study reminder than on days they do not](reminder-days-boost-same-day-study-probability.md) — related
+- [In two studies of children aged 10–12 and 9–13, students were more likely to study vocabulary on days they received a mobile-app study reminder than on days they did not](reminder-days-boost-same-day-study-probability.md) — related
 - [On days without reminders, reminded students were significantly less likely to study vocabulary than control students, suggesting overreliance on reminders](reminder-overreliance-on-no-reminder-days.md) — related

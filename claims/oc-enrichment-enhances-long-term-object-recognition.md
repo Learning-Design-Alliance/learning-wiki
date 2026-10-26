@@ -9,10 +9,11 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2022
+source_checked: 2026-10-26
 sources:
   - id: gattas-2022
     resource: "https://doi.org/10.1038/s41539-022-00134-x"
-    title: "Gattas, S., Collett, H. A., Huff, A. E., Creighton, S. D., Weber, S. E., Buckhalter, S. S., Manning, S. A., Ryait, H. S., McNaughton, B. L., & Winters, B. D. (2022). A rodent obstacle course procedure controls delivery of enrichment and enhances complex cognition. npj Science of Learning. https://doi.org/10.1038/s41539-022-00134-x"
+    title: "Gattas, S., Collett, H. A., Huff, A. E., Creighton, S. D., Weber, S. E., Buckhalter, S. S., Manning, S. A., Ryait, H. S., McNaughton, B. L., & Winters, B. D. (2022). A rodent obstacle course procedure controls delivery of enrichment and enhances complex cognitive functions. npj Science of Learning. https://doi.org/10.1038/s41539-022-00134-x"
     author: "Gattas, S., Collett, H. A., Huff, A. E., Creighton, S. D., Weber, S. E., Buckhalter, S. S., Manning, S. A., Ryait, H. S., McNaughton, B. L., & Winters, B. D."
     q: 2
     i: 3
@@ -20,7 +21,7 @@ sources:
     rigour: 2
   - id: gattas-2022-2
     resource: "https://doi.org/10.1038/s41539-022-00134-x"
-    title: "Gattas, S., Collett, H. A., Huff, A. E., Creighton, S. D., Weber, S. E., Buckhalter, S. S., Manning, S. A., Ryait, H. S., McNaughton, B. L., & Winters, B. D. (2022). A rodent obstacle course procedure controls delivery of enrichment and enhances complex cognition. npj Science of Learning. https://doi.org/10.1038/s41539-022-00134-x"
+    title: "Gattas, S., Collett, H. A., Huff, A. E., Creighton, S. D., Weber, S. E., Buckhalter, S. S., Manning, S. A., Ryait, H. S., McNaughton, B. L., & Winters, B. D. (2022). A rodent obstacle course procedure controls delivery of enrichment and enhances complex cognitive functions. npj Science of Learning. https://doi.org/10.1038/s41539-022-00134-x"
     author: "Gattas, S., Collett, H. A., Huff, A. E., Creighton, S. D., Weber, S. E., Buckhalter, S. S., Manning, S. A., Ryait, H. S., McNaughton, B. L., & Winters, B. D."
     q: 2
     i: 3
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2` · `i3` large
-> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2022 · checked against its sources 2026-10-26 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i3` With a 24-h delay and shortened 7-min sample phase, only the OC group discriminated the novel object, and OC outperformed the EH, CC, and SH groups. [→ Gattas 2022](#gattas-2022)
@@ -42,7 +43,7 @@ sources:
 
 ### Gattas 2022
 
-Gattas, S., Collett, H. A., Huff, A. E., Creighton, S. D., Weber, S. E., Buckhalter, S. S., Manning, S. A., Ryait, H. S., McNaughton, B. L., & Winters, B. D. (2022). A rodent obstacle course procedure controls delivery of enrichment and enhances complex cognition. npj Science of Learning. https://doi.org/10.1038/s41539-022-00134-x
+Gattas, S., Collett, H. A., Huff, A. E., Creighton, S. D., Weber, S. E., Buckhalter, S. S., Manning, S. A., Ryait, H. S., McNaughton, B. L., & Winters, B. D. (2022). A rodent obstacle course procedure controls delivery of enrichment and enhances complex cognitive functions. npj Science of Learning. https://doi.org/10.1038/s41539-022-00134-x
 
 `q2 · i3` · `causal · r2`
 
@@ -52,7 +53,7 @@ Controlled experiment with four housing/course groups of mice (n = 40 total, 10 
 
 ### Gattas 2022 (2)
 
-Gattas, S., Collett, H. A., Huff, A. E., Creighton, S. D., Weber, S. E., Buckhalter, S. S., Manning, S. A., Ryait, H. S., McNaughton, B. L., & Winters, B. D. (2022). A rodent obstacle course procedure controls delivery of enrichment and enhances complex cognition. npj Science of Learning. https://doi.org/10.1038/s41539-022-00134-x
+Gattas, S., Collett, H. A., Huff, A. E., Creighton, S. D., Weber, S. E., Buckhalter, S. S., Manning, S. A., Ryait, H. S., McNaughton, B. L., & Winters, B. D. (2022). A rodent obstacle course procedure controls delivery of enrichment and enhances complex cognitive functions. npj Science of Learning. https://doi.org/10.1038/s41539-022-00134-x
 
 `q2 · i3` · `causal · r2`
 

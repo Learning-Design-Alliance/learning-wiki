@@ -9,11 +9,12 @@ generated:
   at: 2026-10-20
 evidence_strength: weak
 newest_evidence: 2026
+source_checked: 2026-10-26
 sources:
   - id: theobald-2026
     resource: "https://doi.org/10.1007/s10648-026-10157-0"
-    title: "Theobald, M., Kerner auch Koerner, J., Breitwieser, J., Buhr, L., Karbach, J., Könönen, T., Nobbe, L., Reinelt, T., Schaaf, M., Schmiedek, F., Wieland, L. M., & Blume, F. (2026). Executive Functions, Metacognition, Self-Regulation, and Self-Regulated Learning – What are We Talking About? A Review and Introduction of the EMERGE Model. Educational Psychology Review. https://doi.org/10.1007/s10648-026-10157-0"
-    author: "Theobald, M., Kerner auch Koerner, J., Breitwieser, J., Buhr, L., Karbach, J., Könönen, T., Nobbe, L., Reinelt, T., Schaaf, M., Schmiedek, F., Wieland, L. M., & Blume, F."
+    title: "Theobald, M., Kerner auch Koerner, J., Breitwieser, J., Buhr, L., Karbach, J., Könen, T., Nobbe, L., Reinelt, T., Schaaf, M., Schmiedek, F., Wieland, L. M., & Blume, F. (2026). Executive Functions, Metacognition, Self-Regulation, and Self-Regulated Learning – What are We Talking About? A Review and Introduction of the EMERGE Model. Educational Psychology Review. https://doi.org/10.1007/s10648-026-10157-0"
+    author: "Theobald, M., Kerner auch Koerner, J., Breitwieser, J., Buhr, L., Karbach, J., Könen, T., Nobbe, L., Reinelt, T., Schaaf, M., Schmiedek, F., Wieland, L. M., & Blume, F."
     q: 2
     i: "?"
     kind: review
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-10-26 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` On days when students received reminders of their implementation intentions, they were more likely to achieve their self-set study goals or engage in study activities than on days without reminders. [→ Theobald 2026](#theobald-2026)
@@ -33,7 +34,7 @@ sources:
 
 ### Theobald 2026
 
-Theobald, M., Kerner auch Koerner, J., Breitwieser, J., Buhr, L., Karbach, J., Könönen, T., Nobbe, L., Reinelt, T., Schaaf, M., Schmiedek, F., Wieland, L. M., & Blume, F. (2026). Executive Functions, Metacognition, Self-Regulation, and Self-Regulated Learning – What are We Talking About? A Review and Introduction of the EMERGE Model. Educational Psychology Review. https://doi.org/10.1007/s10648-026-10157-0
+Theobald, M., Kerner auch Koerner, J., Breitwieser, J., Buhr, L., Karbach, J., Könen, T., Nobbe, L., Reinelt, T., Schaaf, M., Schmiedek, F., Wieland, L. M., & Blume, F. (2026). Executive Functions, Metacognition, Self-Regulation, and Self-Regulated Learning – What are We Talking About? A Review and Introduction of the EMERGE Model. Educational Psychology Review. https://doi.org/10.1007/s10648-026-10157-0
 
 `q2 · i?` · `review · r?`
 
@@ -53,5 +54,5 @@ The review reports two recent within-person experimental studies (citing Breitwi
 - [In Experiment 1, a five-trial metacognitive prediction-plus-feedback intervention significantly reduced reminder bias, producing more optimal reminder-setting behaviour](metacognitive-feedback-reduces-reminder-bias.md) — related
 - [Effort avoidance contributes to reminder overuse beyond metacognitive error](effort-avoidance-reminder-bias.md) — related
 - [Older adults show reduced reminder bias relative to objective need despite setting more reminders](ageing-reminder-bias-reduced.md) — related
-- [Lower secondary students are more likely to study vocabulary on days they receive a smartphone study reminder than on days they do not](reminder-days-boost-same-day-study-probability.md) — related
+- [In two studies of children aged 10–12 and 9–13, students were more likely to study vocabulary on days they received a mobile-app study reminder than on days they did not](reminder-days-boost-same-day-study-probability.md) — related
 - [The short-term effect of study reminders on same-day studying increased over the study period](reminder-effect-increases-over-time.md) — a narrower finding that bears on this claim

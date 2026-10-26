@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "Sleep Disruption Index classifies TMR responders: participants with an index below 0.13 showed a positive recall cuing effect, those above did not"
-description: "Sleep Disruption Index classifies TMR responders: participants with an index below 0.13 showed a positive recall cuing effect, those above did not"
+title: "Sleep Disruption Index classifies TMR responders: participants with an index below 0.13 showed a positive recall cuing effect, those above did not show a significant one"
+description: "Sleep Disruption Index classifies TMR responders: participants with an index below 0.13 showed a positive recall cuing effect, those above did not show a significant one"
 id: sleep-disruption-index-classifies-tmr-responders
 status: review
 generated:
@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: weak
 newest_evidence: 2022
+source_checked: 2026-10-26
 sources:
   - id: whitmore-2022
     resource: "https://doi.org/10.1038/s41539-021-00119-2"
@@ -28,14 +29,14 @@ sources:
     rigour: 2
 ---
 
-# Sleep Disruption Index classifies TMR responders: participants with an index below 0.13 showed a positive recall cuing effect, those above did not
+# Sleep Disruption Index classifies TMR responders: participants with an index below 0.13 showed a positive recall cuing effect, those above did not show a significant one
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
-> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2022 · checked against its sources 2026-10-26 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
-`q2 i?` In a decision-tree partition analysis, Sleep Disruption Index was the strongest predictor of the Δrecall cuing effect; participants with an index <0.13 (n=15) had a positive cuing effect (mean=1.53 names, t(14)=2.16, p=0.049), while those above 0.13 did not. [→ Whitmore 2022](#whitmore-2022)
+`q2 i?` In a decision-tree partition analysis, Sleep Disruption Index was the strongest predictor of the Δrecall cuing effect; participants with an index <0.13 (n=15) had a positive cuing effect (mean=1.53 names, t(14)=2.16, p=0.049), while those above 0.13 did not have a significant one. [→ Whitmore 2022](#whitmore-2022)
 `q2 i?` For the recognition cuing effect, number of spoken cues was the strongest predictor; participants with >157 cues showed a nonsignificant positive trend (p=0.072) while those with fewer cues showed a negative cuing effect (mean=−0.22, t(18)=2.29, p=0.03). [→ Whitmore 2022 (2)](#whitmore-2022-2)
 
 ## Evidence

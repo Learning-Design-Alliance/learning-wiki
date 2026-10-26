@@ -42,7 +42,7 @@ A laboratory procedure in which participants learned 80 face-name pairs (40 per 
 - [TMR benefits on name recall are negatively correlated with post-cue sleep disruption and post-cue beta-band EEG power, suggesting reactivation depends on undisturbed sleep](../claims/tmr-benefit-negatively-correlated-with-sleep-disruption.md) [+W]
 - [N3 duration, cuing, and sleep-disruption measures are intercorrelated but represent separable facets of sleep quality in predicting the recall cuing effect](../claims/sleep-quality-measures-separable-facets-predicting-tmr-effect.md) [+W]
 - [The TMR cuing effect on face recognition accuracy is associated with N3 sleep duration, though cueing did not significantly improve recognition overall](../claims/tmr-recognition-cuing-effect-associated-with-n3-duration.md) [+W]
-- [Sleep Disruption Index classifies TMR responders: participants with an index below 0.13 showed a positive recall cuing effect, those above did not](../claims/sleep-disruption-index-classifies-tmr-responders.md) [+W]
+- [Sleep Disruption Index classifies TMR responders: participants with an index below 0.13 showed a positive recall cuing effect, those above did not show a significant one](../claims/sleep-disruption-index-classifies-tmr-responders.md) [+W]
 - [The TMR cuing effect on name recall is positively correlated with the duration of stage N3 (slow-wave) sleep during the nap](../claims/tmr-recall-cuing-effect-correlates-with-n3-duration.md) [+W]
 
 ## Related Designs

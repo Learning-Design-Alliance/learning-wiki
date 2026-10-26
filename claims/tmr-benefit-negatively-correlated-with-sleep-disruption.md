@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2022
+source_checked: 2026-10-26
 sources:
   - id: whitmore-2022
     resource: "https://doi.org/10.1038/s41539-021-00119-2"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
-> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2022 · checked against its sources 2026-10-26 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Cue-related sleep disruption (Sleep Disruption Index) was negatively correlated with the cuing effect on Δrecall (χ²(1,N=24)=3.98, p=0.046), with only a trend for the Sleep Fragmentation Index (p=0.109). [→ Whitmore 2022](#whitmore-2022)
@@ -67,7 +68,7 @@ Secondary frequency-band analysis dividing the 0.38–20.35 Hz spectrum into six
 - [Sleep](../learner-variables/sleep.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
-- [Sleep Disruption Index classifies TMR responders: participants with an index below 0.13 showed a positive recall cuing effect, those above did not](sleep-disruption-index-classifies-tmr-responders.md) — related
+- [Sleep Disruption Index classifies TMR responders: participants with an index below 0.13 showed a positive recall cuing effect, those above did not show a significant one](sleep-disruption-index-classifies-tmr-responders.md) — related
 - [N3 duration, cuing, and sleep-disruption measures are intercorrelated but represent separable facets of sleep quality in predicting the recall cuing effect](sleep-quality-measures-separable-facets-predicting-tmr-effect.md) — related
 - [The TMR cuing effect on name recall is positively correlated with the duration of stage N3 (slow-wave) sleep during the nap](tmr-recall-cuing-effect-correlates-with-n3-duration.md) — related
 - [The TMR cuing effect on face recognition accuracy is associated with N3 sleep duration, though cueing did not significantly improve recognition overall](tmr-recognition-cuing-effect-associated-with-n3-duration.md) — related

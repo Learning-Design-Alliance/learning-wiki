@@ -45,6 +45,6 @@ Exploratory time-trend analysis within the same log-file-based mixed-model study
 
 
 ## Related Claims
-- [Lower secondary students are more likely to study vocabulary on days they receive a smartphone study reminder than on days they do not](reminder-days-boost-same-day-study-probability.md) — related
+- [In two studies of children aged 10–12 and 9–13, students were more likely to study vocabulary on days they received a mobile-app study reminder than on days they did not](reminder-days-boost-same-day-study-probability.md) — related
 - [Within-person reminders of implementation intentions improve students' short-term study behaviour](within-person-reminders-improve-study-behaviour.md) — a broader claim this one bears on
 - [The likelihood of studying on reminder-free days decreased more rapidly over time for reminded students than for control students (non-significant exploratory trend)](no-reminder-study-declines-over-time-trend.md) — related

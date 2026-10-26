@@ -41,7 +41,7 @@ The article recommends that sleep-quality variation, often overlooked in the TMR
 
 ## Claims
 
-- [Sleep Disruption Index classifies TMR responders: participants with an index below 0.13 showed a positive recall cuing effect, those above did not](../claims/sleep-disruption-index-classifies-tmr-responders.md) [+W]
+- [Sleep Disruption Index classifies TMR responders: participants with an index below 0.13 showed a positive recall cuing effect, those above did not show a significant one](../claims/sleep-disruption-index-classifies-tmr-responders.md) [+W]
 - [N3 duration, cuing, and sleep-disruption measures are intercorrelated but represent separable facets of sleep quality in predicting the recall cuing effect](../claims/sleep-quality-measures-separable-facets-predicting-tmr-effect.md) [+M]
 - [TMR benefits on name recall are negatively correlated with post-cue sleep disruption and post-cue beta-band EEG power, suggesting reactivation depends on undisturbed sleep](../claims/tmr-benefit-negatively-correlated-with-sleep-disruption.md) [+M]
 - [The TMR cuing effect on name recall is positively correlated with the duration of stage N3 (slow-wave) sleep during the nap](../claims/tmr-recall-cuing-effect-correlates-with-n3-duration.md) [+M]

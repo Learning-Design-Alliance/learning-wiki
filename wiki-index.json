@@ -72149,6 +72149,7 @@
 "id":"directional-btbc-exploratory-findings",
 "newest_evidence":"2022",
 "path":"claims/directional-btbc-exploratory-findings.md",
+"source_checked":"2026-10-26",
 "status":"review",
 "title":"Learner-leading BtBC is larger under scaffolding; instructor-leading BtBC shows only a trending effect, and instructor-leading BtBC fails to predict learning under explanation",
 "type":"claim"
@@ -134602,6 +134603,7 @@
 "id":"instructor-motion-btbc-scaffolding-only",
 "newest_evidence":"2022",
 "path":"claims/instructor-motion-btbc-scaffolding-only.md",
+"source_checked":"2026-10-26",
 "status":"review",
 "title":"Instructor motion is positively associated with BtBC only during scaffolding, not explanation",
 "type":"claim"
@@ -188483,6 +188485,7 @@
 "id":"oc-enrichment-enhances-long-term-object-recognition",
 "newest_evidence":"2022",
 "path":"claims/oc-enrichment-enhances-long-term-object-recognition.md",
+"source_checked":"2026-10-26",
 "status":"review",
 "title":"Obstacle Course enrichment enhances long-term object recognition memory in mice, exceeding the effects of enriched housing at long retention delays",
 "type":"claim"
@@ -188503,6 +188506,7 @@
 "id":"oc-enrichment-enhances-object-location-memory",
 "newest_evidence":"2022",
 "path":"claims/oc-enrichment-enhances-object-location-memory.md",
+"source_checked":"2026-10-26",
 "status":"review",
 "title":"Obstacle Course enrichment enhances spatial object location memory in mice, outperforming enriched housing with a shortened sample phase",
 "type":"claim"
@@ -204407,6 +204411,7 @@
 "id":"pisa-vet-simulations-demonstrations-validity",
 "newest_evidence":"2025",
 "path":"claims/pisa-vet-simulations-demonstrations-validity.md",
+"source_checked":"2026-10-26",
 "status":"review",
 "title":"PISA-VET combines digitalized simulations with hands-on demonstrations to increase measurement validity and engagement",
 "type":"claim"
@@ -226984,13 +226989,14 @@
 },
 {
 "aliases":["prompt-study-prompts-increase-study-behavior"],
-"description":"Lower secondary students are more likely to study vocabulary on days they receive a smartphone study reminder than on days they do not",
+"description":"In two studies of children aged 10–12 and 9–13, students were more likely to study vocabulary on days they received a mobile-app study reminder than on days they did not",
 "evidence_strength":"moderate",
 "id":"reminder-days-boost-same-day-study-probability",
 "newest_evidence":"2024",
 "path":"claims/reminder-days-boost-same-day-study-probability.md",
+"source_checked":"2026-10-26",
 "status":"review",
-"title":"Lower secondary students are more likely to study vocabulary on days they receive a smartphone study reminder than on days they do not",
+"title":"In two studies of children aged 10–12 and 9–13, students were more likely to study vocabulary on days they received a mobile-app study reminder than on days they did not",
 "type":"claim"
 },
 {
@@ -249844,13 +249850,14 @@
 "type":"claim"
 },
 {
-"description":"Sleep Disruption Index classifies TMR responders: participants with an index below 0.13 showed a positive recall cuing effect, those above did not",
+"description":"Sleep Disruption Index classifies TMR responders: participants with an index below 0.13 showed a positive recall cuing effect, those above did not show a significant one",
 "evidence_strength":"weak",
 "id":"sleep-disruption-index-classifies-tmr-responders",
 "newest_evidence":"2022",
 "path":"claims/sleep-disruption-index-classifies-tmr-responders.md",
+"source_checked":"2026-10-26",
 "status":"review",
-"title":"Sleep Disruption Index classifies TMR responders: participants with an index below 0.13 showed a positive recall cuing effect, those above did not",
+"title":"Sleep Disruption Index classifies TMR responders: participants with an index below 0.13 showed a positive recall cuing effect, those above did not show a significant one",
 "type":"claim"
 },
 {
@@ -249949,6 +249956,7 @@
 "id":"sleep-quality-measures-separable-facets-predicting-tmr-effect",
 "newest_evidence":"2022",
 "path":"claims/sleep-quality-measures-separable-facets-predicting-tmr-effect.md",
+"source_checked":"2026-10-26",
 "status":"review",
 "title":"N3 duration, cuing, and sleep-disruption measures are intercorrelated but represent separable facets of sleep quality in predicting the recall cuing effect",
 "type":"claim"
@@ -282533,6 +282541,7 @@
 "id":"tmr-benefit-negatively-correlated-with-sleep-disruption",
 "newest_evidence":"2022",
 "path":"claims/tmr-benefit-negatively-correlated-with-sleep-disruption.md",
+"source_checked":"2026-10-26",
 "status":"review",
 "title":"TMR benefits on name recall are negatively correlated with post-cue sleep disruption and post-cue beta-band EEG power, suggesting reactivation depends on undisturbed sleep",
 "type":"claim"
@@ -282583,6 +282592,7 @@
 "id":"tmr-recall-cuing-effect-correlates-with-n3-duration",
 "newest_evidence":"2022",
 "path":"claims/tmr-recall-cuing-effect-correlates-with-n3-duration.md",
+"source_checked":"2026-10-26",
 "status":"review",
 "title":"The TMR cuing effect on name recall is positively correlated with the duration of stage N3 (slow-wave) sleep during the nap",
 "type":"claim"
@@ -282593,6 +282603,7 @@
 "id":"tmr-recognition-cuing-effect-associated-with-n3-duration",
 "newest_evidence":"2022",
 "path":"claims/tmr-recognition-cuing-effect-associated-with-n3-duration.md",
+"source_checked":"2026-10-26",
 "status":"review",
 "title":"The TMR cuing effect on face recognition accuracy is associated with N3 sleep duration, though cueing did not significantly improve recognition overall",
 "type":"claim"
@@ -298733,6 +298744,7 @@
 "id":"within-person-reminders-improve-study-behaviour",
 "newest_evidence":"2026",
 "path":"claims/within-person-reminders-improve-study-behaviour.md",
+"source_checked":"2026-10-26",
 "status":"review",
 "title":"Within-person reminders of implementation intentions improve students' short-term study behaviour",
 "type":"claim"

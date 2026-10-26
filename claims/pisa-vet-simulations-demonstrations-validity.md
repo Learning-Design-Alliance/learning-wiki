@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: weak
 newest_evidence: 2025
+source_checked: 2026-10-26
 sources:
   - id: dragos-iliescu-2025
     resource: "https://doi.org/10.1038/s41539-025-00317-2"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-10-26 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` PISA-VET's inclusion of simulations and live/recorded demonstrations has the potential to emulate real-world settings and increase participant engagement, participation and completion rates. [→ Dragos Iliescu 2025](#dragos-iliescu-2025)

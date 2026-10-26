@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Lower secondary students are more likely to study vocabulary on days they receive a smartphone study reminder than on days they do not
-description: Lower secondary students are more likely to study vocabulary on days they receive a smartphone study reminder than on days they do not
+title: In two studies of children aged 10–12 and 9–13, students were more likely to study vocabulary on days they received a mobile-app study reminder than on days they did not
+description: In two studies of children aged 10–12 and 9–13, students were more likely to study vocabulary on days they received a mobile-app study reminder than on days they did not
 id: reminder-days-boost-same-day-study-probability
 aliases: [prompt-study-prompts-increase-study-behavior]
 status: review
@@ -10,6 +10,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2024
+source_checked: 2026-10-26
 sources:
   - id: lea-nobbe-2024
     resource: "https://doi.org/10.1038/s41539-024-00253-7"
@@ -29,11 +30,11 @@ sources:
     rigour: 2
 ---
 
-# Lower secondary students are more likely to study vocabulary on days they receive a smartphone study reminder than on days they do not
+# In two studies of children aged 10–12 and 9–13, students were more likely to study vocabulary on days they received a mobile-app study reminder than on days they did not
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 causal `r2` · `q3` · `i1` small
-> **Currency** · newest study 2024 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2024 · checked against its sources 2026-10-26 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 
