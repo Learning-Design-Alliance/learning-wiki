@@ -64,5 +64,5 @@ Local efficiency comparisons across the three stages of each task (Table 1) reac
 
 
 ## Related Claims
-- [EEG average amplitude differs significantly both across learning stages within tasks and across tasks within stages during a semester-long course](eeg-amplitude-stage-task-differences.md) — related
+- [EEG average amplitude differs significantly across learning stages within each task, and across tasks at Stages 1 and 3, during a semester-long course](eeg-amplitude-stage-task-differences.md) — related
 - [Intrinsically motivated students form reflective-iterative metacognitive co-occurrence networks, but overall ENA centroid positions do not differ significantly between motivational groups](ena-networks-motivational-groups.md) — related

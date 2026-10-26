@@ -47,4 +47,4 @@ Doubly robust reweighted regression and PSM analyses of students participating i
 ## Related Claims
 - [Program impacts scaled with exposure intensity, with the most positive and significant results among students who attended at least two semester-long workshops](two-semester-exposure-strongest-impacts.md) — possibly the same claim (merge candidate)
 - [Participation in at least two AP workshops increased probability of pursuing higher education after high school by 16%](ap-higher-education-intent-increase.md) — related
-- [AP participation produced notable and statistically significant improvements in standard measures of creativity](ap-creativity-ttct-improvements.md) — related
+- [Two or more semesters of AP art workshops significantly raised the graphical TTCT 13-forces creativity score in a doubly robust regression, but not total TTCT scores](ap-creativity-ttct-improvements.md) — related

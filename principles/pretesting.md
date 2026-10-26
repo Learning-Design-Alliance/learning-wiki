@@ -159,7 +159,7 @@ The expectation should weaken if classroom comparisons with comparable learners 
 ## Claims
 
 - [Adults report greater curiosity about answers on incorrect-answer trials than on correct-answer trials](../claims/curiosity-higher-incorrect-than-correct-trials.md) [~M]
-- [Positive information prediction errors enhance memory for low-curiosity answers increasingly with age](../claims/positive-ipe-memory-low-curiosity-answers-increase-with-age.md) [~W]
+- [Positive information prediction errors are associated with better memory for low-curiosity answers, more strongly at older ages](../claims/positive-ipe-memory-low-curiosity-answers-increase-with-age.md) [~W]
 - [Competitive true-false questions can produce benefits similar to competitive multiple-choice questions for previously asked and related questions](../claims/competitive-true-false-similar-benefits.md) [~W]
 - [The study addresses whether performance on the low-stakes PISA reading and mathematics assessments can be fostered by coaching and pretesting](../claims/low-stakes-pisa-coaching-question.md) [~W]
 - [Images that reveal the answer reduce recall compared with images appearing after the retrieval attempt](../claims/answer-revealing-images-worse-than-post-retrieval-images.md) [~W]

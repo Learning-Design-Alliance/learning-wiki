@@ -25,7 +25,7 @@ A dataset of semester-long, stage-labeled 14-channel EEG recordings from six und
 
 - [Machine learning models classify the three learning stages from EEG features with over 80% test accuracy, SVM highest at 82.6%](../claims/eeg-stage-classification-over-80.md) [+W]
 - [Relative PSD shows stage- and task-specific band patterns, including higher high-beta in Stage 3 of labs and quizzes](../claims/relative-psd-band-stage-patterns.md) [+W]
-- [EEG average amplitude differs significantly both across learning stages within tasks and across tasks within stages during a semester-long course](../claims/eeg-amplitude-stage-task-differences.md) [+W]
+- [EEG average amplitude differs significantly across learning stages within each task, and across tasks at Stages 1 and 3, during a semester-long course](../claims/eeg-amplitude-stage-task-differences.md) [+W]
 - [Global efficiency declined across stages where tested while local efficiency differed significantly between stages in each task](../claims/eeg-efficiency-stage-changes.md) [+W]
 
 ## Related Products and Programmes

@@ -53,6 +53,6 @@ Behavioral analysis of the same preregistered within-subjects experiment (29 par
 - [Higher curiosity is associated with larger pupil dilation during anticipation of the correct answer](curiosity-pupil-dilation-anticipation.md) — related
 - [Post-answer interest enhances trivia answer memory more strongly in adolescents than in children](post-answer-interest-memory-adolescents-more-than-children.md) — related
 - [States of high pre-answer curiosity enhance memory for trivia answers similarly in children and adolescents](curiosity-enhances-trivia-memory-children-adolescents.md) — possibly the same claim (merge candidate)
-- [Positive information prediction errors enhance memory for low-curiosity answers increasingly with age](positive-ipe-memory-low-curiosity-answers-increase-with-age.md) — related
+- [Positive information prediction errors are associated with better memory for low-curiosity answers, more strongly at older ages](positive-ipe-memory-low-curiosity-answers-increase-with-age.md) — related
 - [High-curiosity states did not enhance recognition memory for incidental face images in children or adolescents](no-curiosity-spillover-incidental-faces-children.md) — related
 - [Generating a prediction before seeing the answer leads more facts to receive high-curiosity ratings than generating a relevant example](prediction-condition-more-high-curiosity-facts.md) — related

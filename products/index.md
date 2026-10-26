@@ -2,7 +2,7 @@
 
 Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's.
 
-**1963 entries** · 0 stable · 1963 in review · 0 drafts
+**1962 entries** · 0 stable · 1962 in review · 0 drafts
 
 ---
 
@@ -876,7 +876,6 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [KiVa, Olweus Bullying Prevention Program (OBPP), NoTrap!, and ViSC](kiva-olweus-bullying-prevention-program-obpp-notrap-and-visc.md) - Four branded school-based anti-bullying programmes run by their respective developers and implementers for primary and secondary schools, using whole-school, classroom, individual, peer, online, and train-the-trainer interventions.
 * [KLDF](kldf.md) - A KIPP programme that disseminates KIPP school-leadership preparation strategies to leaders and schools outside KIPP and to the broader principal-preparation field.
 * [Knower-LevelEstimater.xls](knower-levelestimaterxls.md) - A Microsoft Excel spreadsheet tool by Negen et al.
-* [Knowledge Building](knowledge-building.md) - A pedagogical framework associated with Scardamalia and Bereiter that organizes inquiry, dialogic discourse, and collaborative creation and refinement of community knowledge, with students sharing responsibility and teachers facilitating.
 * [Knowledge Catalyser](knowledge-catalyser.md) - A computer-supported discussion forum developed by Gerry Stahl and colleagues for small-group knowledge-building discussions with tools for voting on, annotating, critiquing, and revising postings.
 * [Knowledge Connections Analyzer (KCA)](knowledge-connections-analyzer-kca.md) - A web-based tool developed by Yang et al.
 * [Knowlify AI video generation platform](knowlify-ai-video-generation-platform.md) - Knowlify is an AI video-generation platform that creates editable explainer videos from natural-language prompts and source documents.

@@ -46,5 +46,5 @@ Experiment 4: 71 participants trained 41 trials with randomized 5–10 s practic
 
 ## Related Claims
 - [Halving practice-period duration from 10 s to 5 s leaves micro-offline gains unchanged, arguing against recovery from motor fatigue](micro-offline-gains-independent-of-practice-duration.md) — related
-- [Performance improvements during early motor skill learning occur predominantly during short rest periods (micro-offline gains), replicated in a large crowdsourced sample](micro-offline-gains-replicated-crowdsourced.md) — related
+- [Performance improvements during early motor skill learning occur predominantly during short rest periods (micro-offline gains), replicated in a large crowdsourced sample and in a laboratory study](micro-offline-gains-replicated-crowdsourced.md) — related
 - [Micro-offline gains are inconsistent with a dominant contribution of latent motor slowing, supporting consolidation as their driver](micro-offline-gains-support-consolidation-not-fatigue-recovery.md) — a broader claim this one bears on

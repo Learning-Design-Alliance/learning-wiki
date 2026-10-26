@@ -51,4 +51,4 @@ Preregistered within-subjects experiment with 29 university students learning nu
 - [Higher curiosity is associated with larger pupil dilation during anticipation of the correct answer](curiosity-pupil-dilation-anticipation.md) — related
 - [Higher curiosity is associated with better memory for the correct answer](curiosity-associated-with-better-memory.md) — related
 - [Generating a prediction enhances pupil dilation both during anticipation of the answer and in response to seeing it](prediction-enhances-pupil-dilation-anticipation-and-surprise.md) — related
-- [Positive information prediction errors enhance memory for low-curiosity answers increasingly with age](positive-ipe-memory-low-curiosity-answers-increase-with-age.md) — related
+- [Positive information prediction errors are associated with better memory for low-curiosity answers, more strongly at older ages](positive-ipe-memory-low-curiosity-answers-increase-with-age.md) — related

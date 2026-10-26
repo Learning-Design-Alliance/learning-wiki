@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2025
+source_checked: 2026-10-26
 sources:
   - id: hui-xie-2025
     resource: "https://doi.org/10.1038/s41539-025-00376-5"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-10-26 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` SVM and neural network models classified the three learning stages with testing accuracies of 82.6% and 81.8% from 84 EEG features. [→ Hui Xie 2025](#hui-xie-2025)
@@ -45,7 +46,7 @@ Classification of learning stage from 10-s EEG segments (84 relative-PSD feature
 
 
 ## Related Claims
-- [EEG average amplitude differs significantly both across learning stages within tasks and across tasks within stages during a semester-long course](eeg-amplitude-stage-task-differences.md) — related
+- [EEG average amplitude differs significantly across learning stages within each task, and across tasks at Stages 1 and 3, during a semester-long course](eeg-amplitude-stage-task-differences.md) — related
 - [Decision trees achieve competitive accuracy with black-box models (LR, RF, SVM), which performed slightly better but lack interpretability](dt-competitive-with-black-box-classifiers.md) — related
 - [A support vector machine classifier outperformed decision tree and random forest models in predicting cognitive engagement levels of online discussion posts](svm-outperforms-dt-rf-cognitive-engagement-prediction.md) — related
 - [Relative PSD shows stage- and task-specific band patterns, including higher high-beta in Stage 3 of labs and quizzes](relative-psd-band-stage-patterns.md) — related

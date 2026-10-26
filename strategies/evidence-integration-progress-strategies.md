@@ -17,7 +17,7 @@ sources:
 # Strategies for progressing evidence integration: research lesser-studied areas and populations, replicate intervention evaluations, and establish educator-researcher partnerships
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 unmarked) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A set of forward-looking recommendations the article derives from its gap analysis for moving evidence integration forward. These include "more funding for lesser-researched areas, including learning in adulthood/learning across the lifespan", conducting "multiple evaluations of educational interventions, either to test replication or to test effects across different settings", testing effects established in WEIRD populations with Global South populations, publishing null findings to counter publication bias, co-production using participatory methods, mixed-methods process and impact evaluations, developing quality measurement tools, training educators in research literacy, and building collaborative partnerships between research and educational institutions.
@@ -42,7 +42,7 @@ A set of forward-looking recommendations the article derives from its gap analys
 
 ## Related Strategies
 
-- [Myriad Mindfulness Null And Harmful Subgroup](../claims/myriad-mindfulness-null-and-harmful-subgroup.md)
+- [Myriad Mindfulness Null And Harmful Subgroup](../claims/myriad-mindfulness-null-and-harmful-subgroup.md) [+W]
 - [Submit intervention studies and replications to Educational Psychology Review's new intervention studies and replication categories](submit-intervention-studies-to-edpr.md)
 - [Build and enhance protective factors in at-risk populations through experimental and intervention studies to support resilient developmental trajectories](build-protective-factors-at-risk-learners-strategy.md)
 - [Five recommendations for integrating Improvement Science with SEERNet](five-recommendations-seernet-improvement-integration.md)

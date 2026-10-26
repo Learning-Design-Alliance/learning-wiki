@@ -64,7 +64,7 @@ Same whole-brain alpha-band comparison: Stage 1 alpha was lower in lectures and 
 
 
 ## Related Claims
-- [EEG average amplitude differs significantly both across learning stages within tasks and across tasks within stages during a semester-long course](eeg-amplitude-stage-task-differences.md) — related
+- [EEG average amplitude differs significantly across learning stages within each task, and across tasks at Stages 1 and 3, during a semester-long course](eeg-amplitude-stage-task-differences.md) — related
 - [MRMR feature ranking identifies occipital alpha PSD as the most discriminative feature, followed by frontal gamma, high-beta, and theta](mrmr-occipital-alpha-top-feature.md) — related
 - [Hemispheric dissociation: right hemisphere sensitive to stage differences, left hemisphere to task differences](eeg-hemispheric-stage-task-dissociation.md) — related
 - [Machine learning models classify the three learning stages from EEG features with over 80% test accuracy, SVM highest at 82.6%](eeg-stage-classification-over-80.md) — related

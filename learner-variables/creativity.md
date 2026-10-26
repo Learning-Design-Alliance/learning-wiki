@@ -124,7 +124,7 @@ Creativity as a learner characteristic is the ability to produce ideas that are 
 - [Dyads showing more Listen/understand and Extend/revise behaviour produced more original ideas regardless of dyad type, while no social-emotional perspective-taking measure was significantly associated with originality](../claims/dyad-cognitive-perspective-taking-originality.md) [+M] — instruction changes it
 - [Children's age, general intelligence, and divergent thinking positively predicted tool innovation performance, while executive function measures predicted only ideal manipulation](../claims/age-intelligence-divergent-thinking-predict-tool-innovation.md) [+M] — learners who differ on it differ in outcomes
 - [Task difficulty moderated the facilitating effect of flexibility on ideal manipulation only, with the effect more salient for harder tasks](../claims/difficulty-moderates-flexibility-ideal-manipulation-only.md) [~M] — learners who differ on it differ in outcomes
-- [AP participation produced notable and statistically significant improvements in standard measures of creativity](../claims/ap-creativity-ttct-improvements.md) [+M] — instruction changes it
+- [Two or more semesters of AP art workshops significantly raised the graphical TTCT 13-forces creativity score in a doubly robust regression, but not total TTCT scores](../claims/ap-creativity-ttct-improvements.md) [+M] — instruction changes it
 
 ## Related Learner Variables
 

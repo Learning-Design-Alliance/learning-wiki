@@ -38,7 +38,7 @@ A web-based implementation of the well-characterized sequential finger tapping t
 
 ### Claims
 
-- [Performance improvements during early motor skill learning occur predominantly during short rest periods (micro-offline gains), replicated in a large crowdsourced sample](../claims/micro-offline-gains-replicated-crowdsourced.md) [+S]
+- [Performance improvements during early motor skill learning occur predominantly during short rest periods (micro-offline gains), replicated in a large crowdsourced sample and in a laboratory study](../claims/micro-offline-gains-replicated-crowdsourced.md) [+S]
 
 ## Related Designs
 - 

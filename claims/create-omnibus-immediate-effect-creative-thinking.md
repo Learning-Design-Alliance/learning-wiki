@@ -52,4 +52,4 @@ Two-factor repeated-measures MANOVA on the London Bridge Task with N = 100 sixth
 - [CREATE does not produce a significant immediate interaction effect on flexibility, though the experimental group improved pre-to-post](create-immediate-flexibility-null-interaction.md) — reports the opposite
 - [CREATE improves students' fluency immediately after the intervention relative to control](create-immediate-fluency-gain.md) — a narrower finding that bears on this claim
 - [CREATE improves students' originality immediately after the intervention across all three originality scoring methods](create-immediate-originality-gain.md) — a narrower finding that bears on this claim
-- [AP participation produced notable and statistically significant improvements in standard measures of creativity](ap-creativity-ttct-improvements.md) — related
+- [Two or more semesters of AP art workshops significantly raised the graphical TTCT 13-forces creativity score in a doubly robust regression, but not total TTCT scores](ap-creativity-ttct-improvements.md) — related

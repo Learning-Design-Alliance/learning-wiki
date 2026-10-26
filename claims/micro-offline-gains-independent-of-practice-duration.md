@@ -47,4 +47,4 @@ Experiment 3: 181 participants trained 48 trials of alternating 5 s practice and
 ## Related Claims
 - [Micro-offline gains are inconsistent with a dominant contribution of latent motor slowing, supporting consolidation as their driver](micro-offline-gains-support-consolidation-not-fatigue-recovery.md) — related
 - [Random termination of practice periods does not reduce micro-offline gains, ruling out preemptive motor slowing](unpredictable-practice-termination-rules-out-preemptive-slowing.md) — related
-- [Performance improvements during early motor skill learning occur predominantly during short rest periods (micro-offline gains), replicated in a large crowdsourced sample](micro-offline-gains-replicated-crowdsourced.md) — related
+- [Performance improvements during early motor skill learning occur predominantly during short rest periods (micro-offline gains), replicated in a large crowdsourced sample and in a laboratory study](micro-offline-gains-replicated-crowdsourced.md) — related

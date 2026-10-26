@@ -48,4 +48,4 @@ Experiment with 16 right-handed adults performing a sequential finger-tapping ta
 - [In a Bayesian linear regression, micro-offline-T learning explains a moderate proportion of variance in LICI (R² = 0.69), with moderate evidence for its inclusion](gabab-regression-micro-offline-variance.md) — related
 - [The GABAB–micro-offline correlation is significantly stronger than the corresponding GABAA (SICI) correlation](gabab-outperforms-gabaa-micro-offline-correlation.md) — related
 - [No other neurophysiological measure (MEP, SICI, ICF, sICF) showed a significant correlation with micro-online or micro-offline learning](no-other-tms-measure-correlates-with-learning.md) — related
-- [Performance improvements during early motor skill learning occur predominantly during short rest periods (micro-offline gains), replicated in a large crowdsourced sample](micro-offline-gains-replicated-crowdsourced.md) — related
+- [Performance improvements during early motor skill learning occur predominantly during short rest periods (micro-offline gains), replicated in a large crowdsourced sample and in a laboratory study](micro-offline-gains-replicated-crowdsourced.md) — related

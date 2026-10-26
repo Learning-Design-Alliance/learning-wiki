@@ -56,7 +56,7 @@ Predictions leverage the pretesting effect: attempting to answer before instruct
 - [A prediction graphing activity revealed preschool children's classification thinking and misconceptions, which class discussion and pictures corrected](../claims/prediction-graphing-reveals-classification-thinking.md) [+W]
 - [Pre-instruction testing enhances memory for directly tested video content, with benefits shown for videos from 5 to 30 minutes](../claims/pretesting-enhances-memory-tested-video.md) [+W]
 - [Classroom pretesting improves high-stakes exam performance on pretested content by 8–9% over a multi-week course](../claims/classroom-pretesting-exam-gains.md) [+W]
-- [Positive information prediction errors enhance memory for low-curiosity answers increasingly with age](../claims/positive-ipe-memory-low-curiosity-answers-increase-with-age.md) [~W]
+- [Positive information prediction errors are associated with better memory for low-curiosity answers, more strongly at older ages](../claims/positive-ipe-memory-low-curiosity-answers-increase-with-age.md) [~W]
 - [Partial resolution of curiosity through immediate feedback increases subsequent curiosity](../claims/immediate-feedback-partial-resolution-increases-curiosity.md) [+W]
 
 ## The evidence by question

@@ -1,7 +1,7 @@
 ---
 type: claim
-title: AP participation produced notable and statistically significant improvements in standard measures of creativity
-description: AP participation produced notable and statistically significant improvements in standard measures of creativity
+title: Two or more semesters of AP art workshops significantly raised the graphical TTCT 13-forces creativity score in a doubly robust regression, but not total TTCT scores
+description: Two or more semesters of AP art workshops significantly raised the graphical TTCT 13-forces creativity score in a doubly robust regression, but not total TTCT scores
 id: ap-creativity-ttct-improvements
 status: review
 generated:
@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2023
+source_checked: 2026-10-26
 sources:
   - id: pablo-egana-delsol-2023
     resource: "https://doi.org/10.1038/s41539-023-00187-6"
@@ -20,15 +21,15 @@ sources:
     rigour: 2
 ---
 
-# AP participation produced notable and statistically significant improvements in standard measures of creativity
+# Two or more semesters of AP art workshops significantly raised the graphical TTCT 13-forces creativity score in a doubly robust regression, but not total TTCT scores
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · checked against its sources 2026-10-26 (automated, 1 of 1 entry) · not reviewed by a person
 > **Design limits** · Pablo Egana-delSol 2023: groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-26)
 
 ## Subclaims
-`q2 i?` AP participation led to statistically significant improvements in creativity as measured by the Torrance Test of Creative Thinking, with results most pronounced for tasks requiring novel insights and manipulation of abstract concepts. [→ Pablo Egana-delSol 2023](#pablo-egana-delsol-2023)
+`q2 i?` In the doubly robust reweighted regression, at least two semesters of AP workshops raised the graphical Torrance Test of Creative Thinking 13-forces score (9.9 points, P < 0.05); the matched (PSM) difference on that score (0.55 SD, t = 1.87) and the total written and graphical TTCT differences were not significant at the 5% level. [→ Pablo Egana-delSol 2023](#pablo-egana-delsol-2023)
 
 ## Evidence
 
@@ -38,7 +39,7 @@ Pablo Egana-delSol. (2023). The impacts of a high-school art-based program on ac
 
 `q2 · i?` · `causal · r2`
 
-PSM analysis of AP participants versus matched controls using Torrance Test of Creative Thinking in graphical and written forms. Results were most pronounced for tasks requiring generation of novel insights and manipulation of conceptual or abstract concepts, with significant impacts on the graphical 13-forces measure.
+Propensity-score matching (PSM) of AP participants with non-participants in four Chilean high schools, complemented by a doubly robust reweighted regression, using the graphical and written forms of the Torrance Test of Creative Thinking. In the PSM comparison for at least two workshops (24 treated, 48 controls), the 13-forces graphical score was 0.55 SD higher (t = 1.87), not significant at the 5% level, and the total TTCT differences were small and non-significant. In the doubly robust regression (89 students), at least two workshops raised the 13-forces score by 9.9 points (P < 0.05). The authors describe the gains as most pronounced on tasks requiring novel insights and manipulation of abstract concepts.
 
 > "students who took part in the AP program demonstrated notable and statistically signi ﬁcant improvements in standard measures of creativity"
 

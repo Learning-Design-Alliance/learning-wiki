@@ -45,7 +45,7 @@ Topographic hemisphere-wise comparisons of EEG relative PSD across the semester-
 
 
 ## Related Claims
-- [EEG average amplitude differs significantly both across learning stages within tasks and across tasks within stages during a semester-long course](eeg-amplitude-stage-task-differences.md) — related
+- [EEG average amplitude differs significantly across learning stages within each task, and across tasks at Stages 1 and 3, during a semester-long course](eeg-amplitude-stage-task-differences.md) — related
 - [Pre-literate children already show a left-hemisphere bias for letter processing before any training](pre-literate-left-hemisphere-letter-bias.md) — related
 - [In catch trials, large numbers elicit greater right-hemisphere P300 positivity than small numbers](catch-trial-number-hemisphere-p300.md) — related
 - [Printing training increases letter response in right anterior fusiform but produces no change in right posterior fusiform](printing-training-right-fusiform-asymmetric-change.md) — related

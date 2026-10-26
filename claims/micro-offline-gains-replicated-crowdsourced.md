@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Performance improvements during early motor skill learning occur predominantly during short rest periods (micro-offline gains), replicated in a large crowdsourced sample
-description: Performance improvements during early motor skill learning occur predominantly during short rest periods (micro-offline gains), replicated in a large crowdsourced sample
+title: Performance improvements during early motor skill learning occur predominantly during short rest periods (micro-offline gains), replicated in a large crowdsourced sample and in a laboratory study
+description: Performance improvements during early motor skill learning occur predominantly during short rest periods (micro-offline gains), replicated in a large crowdsourced sample and in a laboratory study
 id: micro-offline-gains-replicated-crowdsourced
 aliases: [micro-offline-learning-drives-early-motor-gains]
 status: review
@@ -10,6 +10,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-10-26
 sources:
   - id: marlene-bönstrup-2020
     resource: "https://doi.org/10.1038/s41539-020-0066-9"
@@ -29,11 +30,11 @@ sources:
     rigour: 2
 ---
 
-# Performance improvements during early motor skill learning occur predominantly during short rest periods (micro-offline gains), replicated in a large crowdsourced sample
+# Performance improvements during early motor skill learning occur predominantly during short rest periods (micro-offline gains), replicated in a large crowdsourced sample and in a laboratory study
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 causal `r2` · `q3` · `i3` large
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-10-26 (automated, 2 of 2 entries) · not reviewed by a person
 > **Design limits** · Marlene Bönstrup 2020: no comparison group (read from the study by two models, 2026-10-26)
 
 ## Subclaims
@@ -60,7 +61,7 @@ Kawasoe, R., Matsumura, K., Shinohara, T., Arima, K., Takeo, Y., Ikeda, T. & Sug
 
 `q3 · i3` · `causal · r2`
 
-One-sample t-tests in the TMRno group (17 participants after exclusions), run to reproduce prior micro-offline learning findings with a 10-s practice/10-s rest key-press task. The article reports "Cohen’s d = 2.63" for cumulative and "Cohen’s d = 1.75" for micro-offline learning; micro-online gains were negative.
+One-sample t-tests in the TMRno group of a laboratory experiment (17 of the 69 participants randomised to four groups), run to reproduce prior micro-offline learning findings with a 10-s practice/10-s rest key-press task. The article reports "Cohen’s d = 2.63" for cumulative and "Cohen’s d = 1.75" for micro-offline learning; micro-online gains were negative.
 
 > "A one-sample t-test showed significant learning gains for cumulative learning and micro-offline learning (cumulative learning: t = 10.85, p < 0.001, Cohen’s d = 2.63; micro-offline learning: t = 7.22, p < 0.001, Cohen’s d = 1.75), but not for micro-online learning"
 

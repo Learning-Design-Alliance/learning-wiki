@@ -23,7 +23,7 @@ A Chilean National Council for Culture and the Arts, Ministry of Education, and 
 
 ### Claims
 - [Participation in at least two AP workshops produced significant GPA improvements of 0.55 sd overall, 0.61 sd language, 0.36 sd math, and 0.33 sd art](../claims/ap-gpa-improvements-effect-sizes.md) [+M]
-- [AP participation produced notable and statistically significant improvements in standard measures of creativity](../claims/ap-creativity-ttct-improvements.md) [+M]
+- [Two or more semesters of AP art workshops significantly raised the graphical TTCT 13-forces creativity score in a doubly robust regression, but not total TTCT scores](../claims/ap-creativity-ttct-improvements.md) [+M]
 
 ## Related Products and Programmes
 -

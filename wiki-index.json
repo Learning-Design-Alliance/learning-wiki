@@ -8,7 +8,7 @@
 "pattern":54,
 "principle":170,
 "process":18,
-"product":1963,
+"product":1962,
 "research-method":660,
 "strategy":6858,
 "theory":1360
@@ -1330,6 +1330,9 @@
 "supporting-students-with-autism-spectrum-disorder":"learner-variable/autism-spectrum-disorder",
 "theories-constrained-by-biological-hardware":"theory/schema-of-the-moment",
 "use-taxonomy-before-starting-evaluation":"research-method/prospective-value-conflict-analysis-for-educational-evaluation"
+},
+"product":{
+"knowledge-building":"element/knowledge-building"
 },
 "research-method":{
 "design-based-research":"process/design-based-research",
@@ -19960,13 +19963,14 @@
 "type":"claim"
 },
 {
-"description":"AP participation produced notable and statistically significant improvements in standard measures of creativity",
+"description":"Two or more semesters of AP art workshops significantly raised the graphical TTCT 13-forces creativity score in a doubly robust regression, but not total TTCT scores",
 "evidence_strength":"moderate",
 "id":"ap-creativity-ttct-improvements",
 "newest_evidence":"2023",
 "path":"claims/ap-creativity-ttct-improvements.md",
+"source_checked":"2026-10-26",
 "status":"review",
-"title":"AP participation produced notable and statistically significant improvements in standard measures of creativity",
+"title":"Two or more semesters of AP art workshops significantly raised the graphical TTCT 13-forces creativity score in a doubly robust regression, but not total TTCT scores",
 "type":"claim"
 },
 {
@@ -71062,6 +71066,7 @@
 "id":"disadvantaged-children-greater-gains-integrated-intervention",
 "newest_evidence":"2025",
 "path":"claims/disadvantaged-children-greater-gains-integrated-intervention.md",
+"source_checked":"2026-10-26",
 "status":"review",
 "title":"Disadvantaged (EYPP-eligible) children in the integrated intervention gained more in numeracy and spatial skills than disadvantaged controls",
 "type":"claim"
@@ -80420,13 +80425,14 @@
 "type":"claim"
 },
 {
-"description":"EEG average amplitude differs significantly both across learning stages within tasks and across tasks within stages during a semester-long course",
+"description":"EEG average amplitude differs significantly across learning stages within each task, and across tasks at Stages 1 and 3, during a semester-long course",
 "evidence_strength":"moderate",
 "id":"eeg-amplitude-stage-task-differences",
 "newest_evidence":"2025",
 "path":"claims/eeg-amplitude-stage-task-differences.md",
+"source_checked":"2026-10-26",
 "status":"review",
-"title":"EEG average amplitude differs significantly both across learning stages within tasks and across tasks within stages during a semester-long course",
+"title":"EEG average amplitude differs significantly across learning stages within each task, and across tasks at Stages 1 and 3, during a semester-long course",
 "type":"claim"
 },
 {
@@ -80475,6 +80481,7 @@
 "id":"eeg-stage-classification-over-80",
 "newest_evidence":"2025",
 "path":"claims/eeg-stage-classification-over-80.md",
+"source_checked":"2026-10-26",
 "status":"review",
 "title":"Machine learning models classify the three learning stages from EEG features with over 80% test accuracy, SVM highest at 82.6%",
 "type":"claim"
@@ -163580,13 +163587,14 @@
 },
 {
 "aliases":["micro-offline-learning-drives-early-motor-gains"],
-"description":"Performance improvements during early motor skill learning occur predominantly during short rest periods (micro-offline gains), replicated in a large crowdsourced sample",
+"description":"Performance improvements during early motor skill learning occur predominantly during short rest periods (micro-offline gains), replicated in a large crowdsourced sample and in a laboratory study",
 "evidence_strength":"moderate",
 "id":"micro-offline-gains-replicated-crowdsourced",
 "newest_evidence":"2026",
 "path":"claims/micro-offline-gains-replicated-crowdsourced.md",
+"source_checked":"2026-10-26",
 "status":"review",
-"title":"Performance improvements during early motor skill learning occur predominantly during short rest periods (micro-offline gains), replicated in a large crowdsourced sample",
+"title":"Performance improvements during early motor skill learning occur predominantly during short rest periods (micro-offline gains), replicated in a large crowdsourced sample and in a laboratory study",
 "type":"claim"
 },
 {
@@ -202633,13 +202641,14 @@
 "type":"claim"
 },
 {
-"description":"Positive information prediction errors enhance memory for low-curiosity answers increasingly with age",
+"description":"Positive information prediction errors are associated with better memory for low-curiosity answers, more strongly at older ages",
 "evidence_strength":"moderate",
 "id":"positive-ipe-memory-low-curiosity-answers-increase-with-age",
 "newest_evidence":"2021",
 "path":"claims/positive-ipe-memory-low-curiosity-answers-increase-with-age.md",
+"source_checked":"2026-10-26",
 "status":"review",
-"title":"Positive information prediction errors enhance memory for low-curiosity answers increasingly with age",
+"title":"Positive information prediction errors are associated with better memory for low-curiosity answers, more strongly at older ages",
 "type":"claim"
 },
 {
@@ -324161,14 +324170,6 @@
 "type":"product"
 },
 {
-"description":"A pedagogical framework associated with Scardamalia and Bereiter that organizes inquiry, dialogic discourse, and collaborative creation and refinement of community knowledge, with students sharing responsibility and teachers facilitating.",
-"id":"knowledge-building",
-"path":"products/knowledge-building.md",
-"status":"review",
-"title":"Knowledge Building",
-"type":"product"
-},
-{
 "description":"A computer-supported discussion forum developed by Gerry Stahl and colleagues for small-group knowledge-building discussions with tools for voting on, annotating, critiquing, and revising postings.",
 "id":"knowledge-catalyser",
 "path":"products/knowledge-catalyser.md",
@@ -436993,7 +436994,6 @@
 "kiva-olweus-bullying-prevention-program-obpp-notrap-and-visc":"kiva-olweus-bullying-prevention-program-obpp-notrap-and-visc",
 "kldf":"kldf",
 "knower-levelestimaterxls":"knower-levelestimaterxls",
-"knowledge-building":"knowledge-building",
 "knowledge-catalyser":"knowledge-catalyser",
 "knowledge-connections-analyzer-kca":"knowledge-connections-analyzer-kca",
 "knowlify-ai-video-generation-platform":"knowlify-ai-video-generation-platform",

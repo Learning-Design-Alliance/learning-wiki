@@ -42,7 +42,7 @@ The authors propose that EEG-derived markers of learning stage and cognitive sta
 
 ## Claims
 
-- [EEG average amplitude differs significantly both across learning stages within tasks and across tasks within stages during a semester-long course](../claims/eeg-amplitude-stage-task-differences.md) [+W]
+- [EEG average amplitude differs significantly across learning stages within each task, and across tasks at Stages 1 and 3, during a semester-long course](../claims/eeg-amplitude-stage-task-differences.md) [+W]
 - [Global efficiency declined across stages where tested while local efficiency differed significantly between stages in each task](../claims/eeg-efficiency-stage-changes.md) [+W]
 - [Hemispheric dissociation: right hemisphere sensitive to stage differences, left hemisphere to task differences](../claims/eeg-hemispheric-stage-task-dissociation.md) [+W]
 - [Machine learning models classify the three learning stages from EEG features with over 80% test accuracy, SVM highest at 82.6%](../claims/eeg-stage-classification-over-80.md) [+W]
