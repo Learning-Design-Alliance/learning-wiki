@@ -1,0 +1,122 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Engineer LLM grading prompts with detailed, domain-specific evaluation criteria and band descriptors - Learning Design Wiki</title>
+<link rel="icon" href="../../branding/lda-monogram-dawn.svg" type="image/svg+xml">
+<link rel="stylesheet" href="../../assets/stylesheets/main.57a0d79d.min.css">
+<link rel="stylesheet" href="../../assets/stylesheets/palette.fb2fffe2.min.css">
+<link rel="stylesheet" href="../../branding/lda-theme.css">
+<style>
+.lt-header{background:var(--md-primary-fg-color);color:var(--md-primary-bg-color);padding:.6rem 1rem;font-size:.8rem}
+.lt-header a{color:inherit;text-decoration:none;margin-right:.6rem}
+.lt-header a:hover{text-decoration:underline}
+.lt-header form{display:inline;float:right}
+.lt-main{max-width:52rem;margin:0 auto;padding:1rem 1.2rem 3rem}
+</style>
+</head>
+<body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
+<script>try{var s=new URL("../../"||".",location).pathname,p=JSON.parse(localStorage.getItem(s+".__palette"));if(p&&p.color){for(var k of ["scheme","primary","accent"])if(p.color[k])document.body.setAttribute("data-md-color-"+k,p.color[k])}}catch(e){}</script>
+<header class="lt-header">
+<a class="lt-logo" href="../../"><img src="../../branding/lda-monogram-lapis.svg" alt="Learning Design Wiki"></a>
+<a href="../../strategies/">Strategies</a>
+<form class="lt-header-search" action="../../search/" role="search"><input name="q" type="search" placeholder="Search" aria-label="Search the wiki"></form>
+</header>
+<main class="lt-main"><article class="md-typeset" data-pagefind-body data-pagefind-filter="kind:Strategy">
+<h1 id="engineer-llm-grading-prompts-with-detailed-domain-specific-evaluation-criteria-and-band-descriptors">Engineer LLM grading prompts with detailed, domain-specific evaluation criteria and band descriptors<a class="headerlink" href="#engineer-llm-grading-prompts-with-detailed-domain-specific-evaluation-criteria-and-band-descriptors" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Strategy</strong> · <a href="../">All strategies</a><br />
+<strong>Evidence</strong> · 6 claims (4 for, 1 mixed, 1 against) · 1 study (1 causal), <code>q2</code> · 1 of 1 report an effect size · 6 claims rest on one study</p>
+</blockquote>
+<h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
+<p>The study used a three-stage incremental prompt design: Prompt 1 instructed the model to simulate an IELTS examiner with zero-shot reasoning; Prompt 2 added the official grading criteria; Prompt 3 expanded on Prompt 2 "by incorporating comprehensive band descriptors for each criterion". Prompt 3 was the only condition with significant absolute agreement and achieved the best consistency, showing that embedding detailed criteria in prompts enhances criterion-based feedback quality.</p>
+<h2 id="design-implications">Design Implications<a class="headerlink" href="#design-implications" title="Permanent link">&para;</a></h2>
+<h3 id="context">Context<a class="headerlink" href="#context" title="Permanent link">&para;</a></h3>
+<h4 id="requirements">Requirements<a class="headerlink" href="#requirements" title="Permanent link">&para;</a></h4>
+<ul>
+<li>Access to official, detailed evaluation criteria and band descriptors for the assessment domain</li>
+<li>Re-evaluation loop when outputs do not conform to the scoring guidelines, as the study re-evaluated essays until a compliant score was provided</li>
+</ul>
+<h4 id="constraints">Constraints<a class="headerlink" href="#constraints" title="Permanent link">&para;</a></h4>
+<ul>
+<li>The domain-specific information provided was limited to that available on the IELTS official website, which the authors note might neglect essential knowledge used by IELTS examiners</li>
+</ul>
+<h3 id="target-learners">Target Learners<a class="headerlink" href="#target-learners" title="Permanent link">&para;</a></h3>
+<ul>
+<li>Educators and assessment designers integrating LLMs into grading workflows</li>
+</ul>
+<h3 id="target-learning-goals">Target Learning Goals<a class="headerlink" href="#target-learning-goals" title="Permanent link">&para;</a></h3>
+<ul>
+<li>Accurate criterion-based grading and feedback aligned with established assessment standards</li>
+</ul>
+<h2 id="claims">Claims<a class="headerlink" href="#claims" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="../../claims/llm-detailed-criteria-prompt-moderate-agreement-good-consistency/">Prompting ChatGPT 3.5 with detailed IELTS band descriptors achieves moderate interrater agreement and good interrater consistency with official examiner grades</a> [+W]</li>
+<li><a href="../../claims/domain-specific-knowledge-limits-llm-grading-precision/">Domain-specific knowledge, rather than model complexity or general abilities, limits the precision of LLM criterion-based grading</a> [+W]</li>
+<li><a href="../../claims/advanced-llms-no-grading-improvement/">More advanced LLMs (ChatGPT 4.0, Claude 3.0 Haiku) did not improve criterion-based grading over ChatGPT 3.5 with the same prompt</a> [~W]</li>
+<li><a href="../../claims/llm-grades-significantly-lower-than-examiners/">ChatGPT 3.5 grading with the best prompt was significantly lower than official IELTS examiner grades, indicating systematic bias in absolute grading</a> [-W]</li>
+<li><a href="../../claims/llm-grading-excellent-intrarater-consistency/">The best prompt showed excellent test-retest reliability (intrarater consistency ICC = 0.89) when rerun in ChatGPT 3.5</a> [+W]</li>
+<li><a href="../../claims/teacher-grading-poorer-consistency-than-llm/">A teacher without IELTS-specific training showed poorer grading consistency than the best LLM prompt condition</a> [+W]</li>
+</ul>
+<h2 id="related-strategies">Related Strategies<a class="headerlink" href="#related-strategies" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="../rubric-enhanced-llm-grading-prompt/">Provide LLM graders with the full human rubric, accepted solutions, and common-mistake penalties in the prompt (rubric-enhanced prompting)</a></li>
+<li><a href="../reserve-llm-grading-for-structured-rubric-tasks/">Reserve LLM grading for short, well-structured tasks with explicit rubrics or exemplar answers, newer models, and stable API pipelines</a></li>
+</ul>
+<h2 id="examples">Examples<a class="headerlink" href="#examples" title="Permanent link">&para;</a></h2>
+<p>-</p>
+<h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
+<ul>
+<li>Da-Wei Zhang, Melissa Boey, Yan Yu Tan &amp; Alexis Hoh Sheng Jia. (2024). Evaluating large language models for criterion-based grading from agreement to consistency. npj Science of Learning 9:79. https://doi.org/10.1038/s41539-024-00291-1</li>
+</ul>
+<details class="info">
+<summary>Page metadata</summary>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>type</code></td>
+<td><code>strategy</code></td>
+</tr>
+<tr>
+<td><code>id</code></td>
+<td><code>prompt-llm-grading-with-detailed-band-descriptors</code></td>
+</tr>
+<tr>
+<td><code>title</code></td>
+<td><code>Engineer LLM grading prompts with detailed, domain-specific evaluation criteria and band descriptors</code></td>
+</tr>
+<tr>
+<td><code>description</code></td>
+<td><code>The study used a three-stage incremental prompt design: Prompt 1 instructed the model to simulate an IELTS examiner with zero-shot reasoning; Prompt 2 added the official grading criteria; Prompt 3 expanded on Prompt 2...</code></td>
+</tr>
+<tr>
+<td><code>status</code></td>
+<td><code>review</code></td>
+</tr>
+<tr>
+<td><code>generated</code></td>
+<td>by <code>process:wiki-ingest</code> on <code>2026-10-26</code></td>
+</tr>
+<tr>
+<td><code>trust</code></td>
+<td>unverified — no one has confirmed this page's content</td>
+</tr>
+<tr>
+<td><code>sources</code></td>
+<td>1 — <code>da-wei-zhang-2024</code></td>
+</tr>
+</tbody>
+</table>
+<p>Frontmatter is the page's machine-readable record — see the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
+</details>
+</article></main>
+<footer class="lt-footer"><span class="lda-footer-links"><a href="https://www.learningdesignalliance.org">Learning Design Alliance</a> · <a href="https://reports.learningdesignalliance.org">Research reports</a> · <a href="https://wiki.learningdesignalliance.org">Wiki</a> · <a href="https://lazuli.design">Lazuli</a></span> &copy; Learning Design Alliance — content licensed CC BY-SA 4.0 where copyright applies; pages are written largely by AI (<a href="https://wiki.learningdesignalliance.org/checks/#who-wrote-this-and-the-license">who wrote this, and the license</a>)</footer>
+</body>
+</html>
