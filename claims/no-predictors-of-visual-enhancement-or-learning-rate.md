@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Neither visual enhancement nor individual learning rate is significantly associated with hearing level, age, hearing aid use, training intensity, visual working memory, or processing speed
-description: Neither visual enhancement nor individual learning rate is significantly associated with hearing level, age, hearing aid use, training intensity, visual working memory, or processing speed
+title: Visual enhancement is not significantly associated with hearing level, age, visual working memory or processing speed, and learning rate in speechreading training is not significantly associated with those or with hearing aid use or training intensity
+description: Visual enhancement is not significantly associated with hearing level, age, visual working memory or processing speed, and learning rate in speechreading training is not significantly associated with those or with hearing aid use or training intensity
 id: no-predictors-of-visual-enhancement-or-learning-rate
 status: review
 generated:
@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: weak
 newest_evidence: 2023
+source_checked: 2026-10-26
 sources:
   - id: raffael-schmitt-2023
     resource: "https://doi.org/10.1038/s41539-023-00179-6"
@@ -28,15 +29,15 @@ sources:
     rigour: 1
 ---
 
-# Neither visual enhancement nor individual learning rate is significantly associated with hearing level, age, hearing aid use, training intensity, visual working memory, or processing speed
+# Visual enhancement is not significantly associated with hearing level, age, visual working memory or processing speed, and learning rate in speechreading training is not significantly associated with those or with hearing aid use or training intensity
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q3`
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · checked against its sources 2026-10-26 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
-`q3 i?` In multiple regression analyses, no predictor was significantly associated with visual enhancement (all p ≥ 0.115). [→ Raffael Schmitt 2023](#raffael-schmitt-2023)
-`q3 i?` No variable significantly modulated the individual learning rate (all p ≥ 0.505). [→ Raffael Schmitt 2023 (2)](#raffael-schmitt-2023-2)
+`q3 i?` In a multiple regression of pre-training visual enhancement on hearing level (PTA), age, visual working memory and processing speed, no predictor was significantly associated with it (all p ≥ 0.115). [→ Raffael Schmitt 2023](#raffael-schmitt-2023)
+`q3 i?` In the speechreading training group, none of PTA, age, hearing aid use, training intensity, visual working memory or processing speed was significantly associated with the individual learning rate (all p ≥ 0.505). [→ Raffael Schmitt 2023 (2)](#raffael-schmitt-2023-2)
 
 ## Evidence
 
@@ -46,7 +47,7 @@ Raffael Schmitt, Martin Meyer and Nathalie Giroud. (2023). Improvements in natur
 
 `q3 · i?` · `causal · r1`
 
-Multiple regression on pre-training visual enhancement (normalized difference between AV and A-only scores) with PTA, age, visual working memory, and processing speed as z-standardized predictors. "None of the predictors showed a signi ﬁcant association with VE"; no effect size is printed.
+Multiple regression on pre-training visual enhancement (normalized difference between AV and A-only scores) with PTA, age, visual working memory, and processing speed as z-standardized predictors. Hearing aid use and training intensity were not entered in this model. "None of the predictors showed a signi ﬁcant association with VE"; the regression coefficients and 95% CIs are printed (below), and the wide intervals mean a non-significant result here is not evidence of no association.
 
 > "Using multiple regression analysis, none of the predictors showed a signi ﬁcant association with VE (PTA, β = 1.81, 95% CI[ −4.13, 7.76], p = 0.544; age, β = −5.07, 95% CI[−11.42, 1.28], p = 0.115; visual working memory, β = 0.82, 95% CI[ −4.66, 6.30], p = 0.767; processing speed, β = 0.09, 95% CI[ −5.56, 5.74], p = 0.975)"
 

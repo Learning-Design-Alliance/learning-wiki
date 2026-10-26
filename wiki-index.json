@@ -178577,13 +178577,14 @@
 "type":"claim"
 },
 {
-"description":"Neither visual enhancement nor individual learning rate is significantly associated with hearing level, age, hearing aid use, training intensity, visual working memory, or processing speed",
+"description":"Visual enhancement is not significantly associated with hearing level, age, visual working memory or processing speed, and learning rate in speechreading training is not significantly associated with those or with hearing aid use or training intensity",
 "evidence_strength":"weak",
 "id":"no-predictors-of-visual-enhancement-or-learning-rate",
 "newest_evidence":"2023",
 "path":"claims/no-predictors-of-visual-enhancement-or-learning-rate.md",
+"source_checked":"2026-10-26",
 "status":"review",
-"title":"Neither visual enhancement nor individual learning rate is significantly associated with hearing level, age, hearing aid use, training intensity, visual working memory, or processing speed",
+"title":"Visual enhancement is not significantly associated with hearing level, age, visual working memory or processing speed, and learning rate in speechreading training is not significantly associated with those or with hearing aid use or training intensity",
 "type":"claim"
 },
 {
@@ -247370,6 +247371,7 @@
 "id":"speechreading-training-improves-av-speech-in-noise",
 "newest_evidence":"2023",
 "path":"claims/speechreading-training-improves-av-speech-in-noise.md",
+"source_checked":"2026-10-26",
 "status":"review",
 "title":"Three weeks of computer-based speechreading training improves audiovisual speech-in-noise comprehension in middle-aged and older adults, with the effect limited to the audiovisual condition",
 "type":"claim"
@@ -273893,6 +273895,7 @@
 "id":"time-dependent-forgetting-across-intervals",
 "newest_evidence":"2018",
 "path":"claims/time-dependent-forgetting-across-intervals.md",
+"source_checked":"2026-10-26",
 "status":"review",
 "title":"Retention declines with interval (time-dependent forgetting) across images, details, and details-per-image measures",
 "type":"claim"
@@ -285991,13 +285994,14 @@
 "type":"claim"
 },
 {
-"description":"Algorithm-group participants report significantly higher soundscape visualizability than Control participants, while strategy use, confidence, and error awareness do not differ by group",
+"description":"Algorithm-group participants report significantly higher soundscape visualizability than Control participants, while group differences in strategy use, confidence, and error awareness are not statistically significant",
 "evidence_strength":"moderate",
 "id":"visualizability-differs-strategy-use-does-not",
 "newest_evidence":"2025",
 "path":"claims/visualizability-differs-strategy-use-does-not.md",
+"source_checked":"2026-10-26",
 "status":"review",
-"title":"Algorithm-group participants report significantly higher soundscape visualizability than Control participants, while strategy use, confidence, and error awareness do not differ by group",
+"title":"Algorithm-group participants report significantly higher soundscape visualizability than Control participants, while group differences in strategy use, confidence, and error awareness are not statistically significant",
 "type":"claim"
 },
 {

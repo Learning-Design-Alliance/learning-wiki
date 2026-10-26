@@ -40,7 +40,7 @@ The article recommends computer-based speechreading training as a complement wit
 
 - [Three weeks of computer-based speechreading training improves audiovisual speech-in-noise comprehension in middle-aged and older adults, with the effect limited to the audiovisual condition](../claims/speechreading-training-improves-av-speech-in-noise.md) [+W]
 - [Speechreading training does not significantly improve subjectively perceived everyday listening effort or hearing abilities](../claims/speechreading-training-no-subjective-hearing-gain.md) [-W]
-- [Neither visual enhancement nor individual learning rate is significantly associated with hearing level, age, hearing aid use, training intensity, visual working memory, or processing speed](../claims/no-predictors-of-visual-enhancement-or-learning-rate.md) [~W]
+- [Visual enhancement is not significantly associated with hearing level, age, visual working memory or processing speed, and learning rate in speechreading training is not significantly associated with those or with hearing aid use or training intensity](../claims/no-predictors-of-visual-enhancement-or-learning-rate.md) [~W]
 - [Lexical overlap between speechreading training material and test sentences did not significantly account for the observed training effect](../claims/lexical-overlap-not-a-confound.md) [~W]
 - [Participants who improved on audiovisual speech-in-noise comprehension had significantly lower pre-training scores than non-learners, reflecting the inherent correlation between baseline and change scores](../claims/learners-lower-baseline-av-scores.md) [~W]
 

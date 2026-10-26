@@ -182,7 +182,7 @@ Self-efficacy is Bandura's term for task-specific confidence: how sure a learner
 - [Teacher expectation effects on perceived competence are curvilinear: positive expectations are stronger than negative ones](../claims/positive-expectations-stronger-than-negative-tee.md) [+M] — instruction changes it
 - [Teachers' early expectations predict students' later perceived competence in physical education beyond students' background characteristics](../claims/teacher-expectations-predict-later-perceived-competence-pe.md) [+W] — instruction changes it
 - [Perceived competence does not moderate the effect of grading on performance-avoidance goals](../claims/perceived-competence-no-moderation-grading-avoidance.md) [-M] — an instructional effect differs with it
-- [Algorithm-group participants report significantly higher soundscape visualizability than Control participants, while strategy use, confidence, and error awareness do not differ by group](../claims/visualizability-differs-strategy-use-does-not.md) [-M] — instruction changes it
+- [Algorithm-group participants report significantly higher soundscape visualizability than Control participants, while group differences in strategy use, confidence, and error awareness are not statistically significant](../claims/visualizability-differs-strategy-use-does-not.md) [-M] — instruction changes it
 
 ## The evidence by question
 

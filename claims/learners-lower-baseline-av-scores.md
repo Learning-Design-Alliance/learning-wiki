@@ -47,4 +47,4 @@ Analysis of average audiovisual pre-training scores by learner status, reported 
 ## Related Claims
 - [Three weeks of computer-based speechreading training improves audiovisual speech-in-noise comprehension in middle-aged and older adults, with the effect limited to the audiovisual condition](speechreading-training-improves-av-speech-in-noise.md) — related
 - [Lexical overlap between speechreading training material and test sentences did not significantly account for the observed training effect](lexical-overlap-not-a-confound.md) — related
-- [Neither visual enhancement nor individual learning rate is significantly associated with hearing level, age, hearing aid use, training intensity, visual working memory, or processing speed](no-predictors-of-visual-enhancement-or-learning-rate.md) — related
+- [Visual enhancement is not significantly associated with hearing level, age, visual working memory or processing speed, and learning rate in speechreading training is not significantly associated with those or with hearing aid use or training intensity](no-predictors-of-visual-enhancement-or-learning-rate.md) — related

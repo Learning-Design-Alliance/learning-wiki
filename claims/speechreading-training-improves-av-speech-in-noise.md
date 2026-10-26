@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2023
+source_checked: 2026-10-26
 sources:
   - id: raffael-schmitt-2023
     resource: "https://doi.org/10.1038/s41539-023-00179-6"
@@ -32,12 +33,12 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q3`
-> **Currency** · newest study 2023 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2023 · checked against its sources 2026-10-26 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The speechreading training group improved significantly from pre- to post-training in the audiovisual condition, as shown by a significant three-way interaction between condition, session, and group (ΔΧ2(4) = 13.62, p = 0.009). [→ Raffael Schmitt 2023](#raffael-schmitt-2023)
 `q3 i?` The improvement was present only in the speechreading training group and only for the audiovisual condition, not the audio-only condition. [→ Raffael Schmitt 2023](#raffael-schmitt-2023)
-`q3 i?` The speechreading training and active control groups did not differ significantly at pre-training in the audiovisual condition, ruling out baseline differences as a confound (OR = 0.75, p = 0.271). [→ Raffael Schmitt 2023 (2)](#raffael-schmitt-2023-2)
+`q3 i?` The speechreading training and active control groups did not differ significantly at pre-training in the audiovisual condition (OR = 0.75, 95% CI [0.45, 1.25], p = 0.271), which the authors read as suggesting baseline differences did not confound the training effect; a non-significant test does not show the non-randomised groups were equivalent. [→ Raffael Schmitt 2023 (2)](#raffael-schmitt-2023-2)
 
 ## Evidence
 
@@ -57,7 +58,7 @@ Raffael Schmitt, Martin Meyer and Nathalie Giroud. (2023). Improvements in natur
 
 `q3 · i?` · `causal · r1`
 
-Supplementary GLMM re-run with treatment coding comparing speechreading training and active control groups at pre-training in the audiovisual condition. The groups "did not signi ﬁcantly differ at pre-training" (OR = 0.75, 95% CI[0.45, 1.25], p = 0.271), indicating baseline equivalence.
+Supplementary GLMM re-run with treatment coding comparing speechreading training and active control groups at pre-training in the audiovisual condition. The groups "did not signi ﬁcantly differ at pre-training" (OR = 0.75, 95% CI[0.45, 1.25], p = 0.271). The authors take this as suggesting baseline differences did not confound the effect; it shows no significant difference was detected, not that the groups, which were not randomly assigned, were equivalent.
 
 > "Indeed, the two groups did not signi ﬁcantly differ at pre-training (OR = 0.75, 95% CI[0.45, 1.25], p = 0.271) (Fig. 5 and Supplementary Table 3) suggesting that baseline differences in AV did not pose a potentially confounding factor."
 
@@ -71,6 +72,6 @@ Supplementary GLMM re-run with treatment coding comparing speechreading training
 - [Participants who improved on audiovisual speech-in-noise comprehension had significantly lower pre-training scores than non-learners, reflecting the inherent correlation between baseline and change scores](learners-lower-baseline-av-scores.md) — related
 - [Lexical overlap between speechreading training material and test sentences did not significantly account for the observed training effect](lexical-overlap-not-a-confound.md) — a narrower finding that bears on this claim
 - [Speechreading training does not significantly improve subjectively perceived everyday listening effort or hearing abilities](speechreading-training-no-subjective-hearing-gain.md) — related
-- [Neither visual enhancement nor individual learning rate is significantly associated with hearing level, age, hearing aid use, training intensity, visual working memory, or processing speed](no-predictors-of-visual-enhancement-or-learning-rate.md) — related
+- [Visual enhancement is not significantly associated with hearing level, age, visual working memory or processing speed, and learning rate in speechreading training is not significantly associated with those or with hearing aid use or training intensity](no-predictors-of-visual-enhancement-or-learning-rate.md) — related
 - [Older adults show larger multisensory gains for simple stimuli but multisensory deficits for complex speech stimuli](aging-multisensory-gains-simple-deficits-complex.md) — related
 - [Speech-in-noise perception improves significantly after a short-term immersive auditory-cognitive training, but not after an audio-only training session](immersive-act-improves-speech-in-noise.md) — related

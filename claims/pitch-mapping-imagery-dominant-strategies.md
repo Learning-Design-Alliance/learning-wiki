@@ -45,7 +45,7 @@ Qualitative analysis of open-ended debrief responses from the 60 sighted adults;
 
 
 ## Related Claims
-- [Algorithm-group participants report significantly higher soundscape visualizability than Control participants, while strategy use, confidence, and error awareness do not differ by group](visualizability-differs-strategy-use-does-not.md) — related
+- [Algorithm-group participants report significantly higher soundscape visualizability than Control participants, while group differences in strategy use, confidence, and error awareness are not statistically significant](visualizability-differs-strategy-use-does-not.md) — related
 - [Recognition accuracy is higher for familiar than novel stimuli across all mapping groups, with the familiar-novel difference consistent across groups](familiar-beats-novel-ssd-accuracy-all-groups.md) — related
 - [Concreteness, imagery, and verbal associative processes play major roles across multiple educational domains](concreteness-imagery-associative-roles-educational-domains.md) — related
 - [Text-only students based draw judgments on internal mental images while image-condition students recalled external visuals](internal-vs-external-visual-cue-use-draw-judgments.md) — related

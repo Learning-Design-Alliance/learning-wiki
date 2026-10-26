@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2018
+source_checked: 2026-10-26
 sources:
   - id: macleod-2018
     resource: "https://doi.org/10.1038/s41539-018-0025-x"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2018 · checked against its sources 2026-10-26 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Participants in the 28-day and 9-day conditions recalled fewer images than those in the 1-h condition, showing a typical time-dependent forgetting curve. [→ MacLeod 2018](#macleod-2018)

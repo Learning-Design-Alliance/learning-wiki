@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Algorithm-group participants report significantly higher soundscape visualizability than Control participants, while strategy use, confidence, and error awareness do not differ by group
-description: Algorithm-group participants report significantly higher soundscape visualizability than Control participants, while strategy use, confidence, and error awareness do not differ by group
+title: Algorithm-group participants report significantly higher soundscape visualizability than Control participants, while group differences in strategy use, confidence, and error awareness are not statistically significant
+description: Algorithm-group participants report significantly higher soundscape visualizability than Control participants, while group differences in strategy use, confidence, and error awareness are not statistically significant
 id: visualizability-differs-strategy-use-does-not
 status: review
 generated:
@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2025
+source_checked: 2026-10-26
 sources:
   - id: kucinkas-2025
     resource: "https://doi.org/10.1038/s41539-025-00385-4"
@@ -28,11 +29,11 @@ sources:
     rigour: 2
 ---
 
-# Algorithm-group participants report significantly higher soundscape visualizability than Control participants, while strategy use, confidence, and error awareness do not differ by group
+# Algorithm-group participants report significantly higher soundscape visualizability than Control participants, while group differences in strategy use, confidence, and error awareness are not statistically significant
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i3` large
-> **Currency** · newest study 2025 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-10-26 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i3` A significant group effect for the ability to draw soundscapes with a large printed effect size (partial eta-squared 0.186), with both algorithm groups higher than Control. [→ Kucinkas 2025](#kucinkas-2025)
@@ -56,7 +57,7 @@ Kucinkas, A., Retsa, C., Meijer, P. B. L., Wallace, M. T., Gori, M. & Murray, M.
 
 `q3 · i?` · `causal · r2`
 
-Debrief-questionnaire ANOVAs from the same 60 sighted adults; "No significant differences were found for strategy use", confidence, or error awareness; only test statistics and small η²ₚ values printed, so impact is null.
+Debrief-questionnaire ANOVAs from the same 60 sighted adults; "No significant differences were found for strategy use", confidence, or error awareness; the printed η²ₚ values are small (0.004–0.033). Non-significant tests in a sample of 60 do not show that the groups are the same on these measures.
 
 > "No significant differences were found for strategy use (F(2,57) = 0.48, p = 0.622, η²ₚ = 0.016), confidence on incorrect answers (F(2,57) = 0.96, p = 0.387, η²ₚ = 0.033), confidence on correct answers (F(2,57) = 0.10, p = 0.902, η²ₚ = 0.004), or awareness of errors during evaluation (F(2,57) = 0.88, p = 0.421, η²ₚ = 0.030 )."
 

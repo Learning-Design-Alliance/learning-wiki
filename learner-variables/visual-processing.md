@@ -78,7 +78,7 @@ Visual processing is what the brain does with the input that comes through visio
 - [Practise has a very slight effect on the range of attention, explicable by habituation and grouping tricks rather than any expansion of the range itself](../claims/practise-negligible-effect-range-of-attention.md) [-M] — instruction changes it
 - [Systematic practise gives little warrant for markedly improving adults' quick visual perception; the slight poetry gain is attributed to familiarity with the poem](../claims/practise-negligible-effect-apprehension.md) [-M] — instruction changes it
 - [Age, general cognition (MoCA), visual working memory, and hearing loss showed no significant association with the extent of training-induced change, and the three-way modality-by-AWM-by-hearing-loss interaction was not significant](../claims/null-moderators-training-induced-change.md) [-W] — learners who differ on it differ in outcomes
-- [Neither visual enhancement nor individual learning rate is significantly associated with hearing level, age, hearing aid use, training intensity, visual working memory, or processing speed](../claims/no-predictors-of-visual-enhancement-or-learning-rate.md) [-W] — learners who differ on it differ in outcomes
+- [Visual enhancement is not significantly associated with hearing level, age, visual working memory or processing speed, and learning rate in speechreading training is not significantly associated with those or with hearing aid use or training intensity](../claims/no-predictors-of-visual-enhancement-or-learning-rate.md) [-W] — learners who differ on it differ in outcomes
 
 ## Measures
 - **NAB Visual Discrimination Task** (Stern & White, 2003): a match-to-sample task measuring adults' visual perception and visual-spatial skill.
