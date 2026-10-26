@@ -62,3 +62,4 @@ Qualitative case studies of 28 STEM courses at nine institutions; interviews and
 - [An estimated one-third of students fail to learn because of psychosocial problems that interfere with engagement in instruction](one-third-students-fail-learn-psychosocial-barriers.md) — related
 - [In case-study courses that shifted to remote instruction, few instructors offered collaborative learning activities, and some dropped ones used before](remote-shift-reduced-collaborative-learning.md) — related
 - [The scaffolding word-learning advantage disappears in remote (online) learning sessions](scaffolding-advantage-disappears-remote.md) — related
+- [Guided notes increase achievement and participation compared with lecture outlines, lecture only, or lecture plus slides](guided-notes-increase-achievement-participation.md) — related

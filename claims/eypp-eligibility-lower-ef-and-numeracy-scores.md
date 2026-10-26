@@ -12,7 +12,7 @@ newest_evidence: 2025
 sources:
   - id: scerif-2025
     resource: "https://doi.org/10.1038/s41539-025-00302-9"
-    title: "Scerif, G., Sučević, J., Andrews, H., Blakey, E., Gattas, S. U., Godfrey, A., et al. (2025). Enhancing children's numeracy and executive functions via their explicit integration: the ONE programme cluster randomised controlled trial. npj Science of Learning 10, 8. https://doi.org/10.1038/s41539-025-00302-9"
+    title: "Scerif, G., Sučević, J., Andrews, H., Blakey, E., Gattas, S. U., Godfrey, A., et al. (2025). Enhancing children's numeracy and executive functions via their explicit integration. npj Science of Learning 10, 8. https://doi.org/10.1038/s41539-025-00302-9"
     author: Scerif, G., Sučević, J., Andrews, H., Blakey, E., Gattas, S. U., Godfrey, A., et al
     q: 3
     i: 2
@@ -20,7 +20,7 @@ sources:
     rigour: 3
   - id: scerif-2025-2
     resource: "https://doi.org/10.1038/s41539-025-00302-9"
-    title: "Scerif, G., Sučević, J., Andrews, H., Blakey, E., Gattas, S. U., Godfrey, A., et al. (2025). Enhancing children's numeracy and executive functions via their explicit integration: the ONE programme cluster randomised controlled trial. npj Science of Learning 10, 8. https://doi.org/10.1038/s41539-025-00302-9"
+    title: "Scerif, G., Sučević, J., Andrews, H., Blakey, E., Gattas, S. U., Godfrey, A., et al. (2025). Enhancing children's numeracy and executive functions via their explicit integration. npj Science of Learning 10, 8. https://doi.org/10.1038/s41539-025-00302-9"
     author: Scerif, G., Sučević, J., Andrews, H., Blakey, E., Gattas, S. U., Godfrey, A., et al
     q: 3
     i: 3
@@ -42,7 +42,7 @@ sources:
 
 ### Scerif 2025
 
-Scerif, G., Sučević, J., Andrews, H., Blakey, E., Gattas, S. U., Godfrey, A., et al. (2025). Enhancing children's numeracy and executive functions via their explicit integration: the ONE programme cluster randomised controlled trial. npj Science of Learning 10, 8. https://doi.org/10.1038/s41539-025-00302-9
+Scerif, G., Sučević, J., Andrews, H., Blakey, E., Gattas, S. U., Godfrey, A., et al. (2025). Enhancing children's numeracy and executive functions via their explicit integration. npj Science of Learning 10, 8. https://doi.org/10.1038/s41539-025-00302-9
 
 `q3 · i2` · `causal · r3`
 
@@ -52,7 +52,7 @@ Main effects of disadvantage from the cluster RCT's multilevel models; the table
 
 ### Scerif 2025 (2)
 
-Scerif, G., Sučević, J., Andrews, H., Blakey, E., Gattas, S. U., Godfrey, A., et al. (2025). Enhancing children's numeracy and executive functions via their explicit integration: the ONE programme cluster randomised controlled trial. npj Science of Learning 10, 8. https://doi.org/10.1038/s41539-025-00302-9
+Scerif, G., Sučević, J., Andrews, H., Blakey, E., Gattas, S. U., Godfrey, A., et al. (2025). Enhancing children's numeracy and executive functions via their explicit integration. npj Science of Learning 10, 8. https://doi.org/10.1038/s41539-025-00302-9
 
 `q3 · i3` · `causal · r2`
 

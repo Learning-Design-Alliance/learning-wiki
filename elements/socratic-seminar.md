@@ -18,7 +18,7 @@ sources:
 # Socratic Seminar
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 8 claims (2 for, 6 mixed) · 17 studies (5 causal, 4 quant-synthesis, 3 review, 2 qualitative, 2 theoretical, 1 associational), `q1`–`q4` · 3 of 17 report an effect size · 3 claims rest on one study
+> **Evidence** · 9 claims (3 for, 6 mixed) · 18 studies (6 causal, 4 quant-synthesis, 3 review, 2 qualitative, 2 theoretical, 1 associational), `q1`–`q4` · 4 of 18 report an effect size · 4 claims rest on one study
 
 ## Description
 Socratic seminar is the element in which learners build understanding through text-centered questioning and discussion.
@@ -39,6 +39,7 @@ Socratic seminar is the element in which learners build understanding through te
 - [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [~M]
 - [Textual evidence for interpretive claims appeared in whole-class discussion but students struggled to reason about why evidence supported claims](../claims/evidence-in-discussion-but-reasoning-struggle.md) [~W]
 - *Which discussion structures and facilitation make open discussion produce learning, rather than just more talk?* [Some classroom discussion approaches improve text comprehension, but gains are not uniform across approaches and more student talk alone does not produce them](../claims/structured-discussion-methods-improve-comprehension.md) [+M]
+- [Each essay rubric dimension separately favored seminar students: structure d = 0.76, accuracy d = 0.74, understanding d = 0.97](../claims/essay-rubric-subcomponent-differences.md) [+W]
 
 <!-- merged 2026-10-19 from patterns/socratic-seminar ("Socratic Seminar"), a narrower page folded into its canonical page (fragment step): its body as it stood. Its bullets this page lacked were added above.
 

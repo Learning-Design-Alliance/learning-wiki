@@ -46,3 +46,4 @@ Computational model comparison across four Rescorla-Wagner variants fitted to le
 
 ## Related Claims
 - [A multidimensional IRT model with simple structure fits testlet-based reading data better than both the general polytomous testlet model and the standard 2PL/GPCM](mirt-ss-fits-testlet-data-better.md) — related
+- [Preschoolers' Chicken game choices are best explained by reward-based learning with a higher learning rate for the competitive opponent](preschoolers-reward-based-learning-competitive-opponent.md) — related

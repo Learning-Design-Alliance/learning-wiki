@@ -50,3 +50,4 @@ Sensitivity analyses of the multilevel meta-analysis: four effects flagged by Co
 - [Publication-bias checks indicate the pooled effect is unlikely to result from publication bias](srl-meta-analysis-publication-bias-absent.md) — related
 - [Publication-bias tests (Egger's test and trim-and-fill) indicate absence of publication bias for the overall effect and moderators](drawing-support-no-publication-bias.md) — related
 - [No evidence of publication bias was detected in the pooled L2 gender-difference literature](no-publication-bias-l2-gender-meta-analysis.md) — related
+- [Sensitivity reanalyses (outlier removal and sample-standardized age) confirmed that PGS is significantly associated with WM change (all p < 0.01) with no PGS × group interaction.](sensitivity-analyses-confirm-pgs-wm-change-association.md) — a narrower finding that bears on this claim

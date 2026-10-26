@@ -13,7 +13,7 @@ generated:
 # Academic Anxiety
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 143 claims (90 show a difference, 36 mixed, 17 no difference) · 89 studies (39 associational, 17 review, 15 causal, 6 quant-synthesis, 6 theoretical, 5 qualitative, 1 design), `q1`–`q4` · 23 of 89 report an effect size · 136 claims rest on one study
+> **Evidence** · 145 claims (92 show a difference, 36 mixed, 17 no difference) · 90 studies (39 associational, 17 review, 16 causal, 6 quant-synthesis, 6 theoretical, 5 qualitative, 1 design), `q1`–`q4` · 23 of 90 report an effect size · 138 claims rest on one study
 
 ## Description
 Academic anxiety is fear or tension aroused by a subject or by being evaluated in it. The research mostly studies three forms: mathematics anxiety, test anxiety and foreign-language anxiety, each measured with self-report scales. Anxiety predicts lower performance, partly because worry takes up [working memory](working-memory.md); it moderates instructional effects (timed or high-stakes formats hurt anxious learners more); and it is an outcome that some designs reduce, such as low-stakes practice testing and expressive writing before an exam. It is a narrower case of [affect regulation](affect-regulation.md).
@@ -179,6 +179,8 @@ Academic anxiety is fear or tension aroused by a subject or by being evaluated i
 - [Anxious low achievers: a large class of children shows low math achievement and the highest math anxiety despite average numerosity](../claims/anxious-low-achievers-average-numerosity.md) [+W] — learners who differ on it differ in outcomes
 - [No group of high-performing children also showed high math anxiety in this sample](../claims/no-high-performers-with-high-anxiety.md) [+W] — learners who differ on it differ in outcomes
 - [Anxiety is negatively correlated with physics course grade and GPA in sex-specific patterns at pre- and post-instruction](../claims/anxiety-negative-correlation-academic-performance.md) [+M] — learners who differ on it differ in outcomes
+- [Anxiety relief from cyclic sighing is time-locked to learning-proximal moments, with lower anxiety at 11:00/13:00/15:00 prompts than at 20:00 during intervention](../claims/breathwork-anxiety-relief-time-locked-learning-proximal.md) [+M] — instruction changes it
+- [Cyclic sighing buffers phase-level anxiety accumulation: controls' anxiety rose across the intervention while the breathwork group stayed near baseline](../claims/breathwork-buffers-phase-level-anxiety-accumulation.md) [+M] — instruction changes it
 
 ## The evidence by question
 - *Do learners with higher anxiety about a subject or a test achieve less in it?* [Math anxiety has a small-to-moderate negative correlation with math achievement (r = −.28) in a meta-analysis of correlations from 223 studies](../claims/math-anxiety-degrades-performance.md) [+M]

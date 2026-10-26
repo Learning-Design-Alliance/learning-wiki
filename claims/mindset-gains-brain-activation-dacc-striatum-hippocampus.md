@@ -51,3 +51,4 @@ Task-based event-related parametric fMRI whole-brain analysis (post vs. pre) of 
 - [Changes in dorsal ACC–striatum connectivity predict growth-mindset gains, with dACC–striatal connectivity the strongest individual link](dacc-striatal-connectivity-predicts-mindset-gains.md) — related
 - [Children with lower growth mindset before training showed greater growth-mindset gains during cognitive training](lower-baseline-mindset-greater-training-gains.md) — related
 - [Hippocampal engagement during arithmetic problem solving increases longitudinally in children while prefrontal-parietal engagement decreases](hippocampal-engagement-increases-prefrontal-parietal-decreases.md) — a broader claim this one bears on
+- [Individual responses to eight weeks of math training are predicted by pre-training hippocampus and basal ganglia anatomy and connectivity, not parietal areas](pre-training-brain-indices-predict-math-training-response.md) — related

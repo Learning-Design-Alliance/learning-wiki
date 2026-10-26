@@ -56,3 +56,4 @@ Longitudinal block-design fMRI in 28 children; ROI analysis of anatomically defi
 - [Memory-based strategy use continues to increase from childhood through adolescence into adulthood](retrieval-development-through-adolescence-adulthood.md) — related
 - [Growth-mindset gains were correlated with increased activation of dorsal ACC, right dorsal striatum, and right hippocampus during difficult math problem solving](mindset-gains-brain-activation-dacc-striatum-hippocampus.md) — a narrower finding that bears on this claim
 - [With increasing age, brain activity during arithmetic decreases in prefrontal areas and increases in the parietal and occipitotemporal cortex](arithmetic-brain-activity-prefrontal-to-parietal-age-shift.md) — related
+- [Individual responses to eight weeks of math training are predicted by pre-training hippocampus and basal ganglia anatomy and connectivity, not parietal areas](pre-training-brain-indices-predict-math-training-response.md) — related

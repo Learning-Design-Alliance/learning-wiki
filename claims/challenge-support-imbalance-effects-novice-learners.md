@@ -54,3 +54,4 @@ Theoretical assertion made in the paper's discussion of quadrant-one instruction
 - Challenging tasks within the child's capability promote maximum cognitive growth, per the account presented — related
 - [Introducing more challenging work without sufficient supports or attention to students' emotions and learning strategies can lead to frustration, withdrawal, disruption, and less learning](unsupported-challenge-backfires.md) — a narrower finding that bears on this claim
 - [Pursuing unrealistic goals can lead to discouragement and frustration, so goals should balance rigor with realism](unrealistic-goals-lead-discouragement.md) — a narrower finding that bears on this claim
+- [Initial PF activities were too frustrating and were refined with moderate metacognitive support so students struggled without giving up](pf-moderate-support-refinement.md) — a narrower finding that bears on this claim

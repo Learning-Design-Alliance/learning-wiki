@@ -53,3 +53,4 @@ Variance decomposition from cross-nested hierarchical linear models (Table A.2) 
 - [Within-school variation in baseline achievement is greater in middle school grades, but upper elementary grades show an offsetting amount of between-school variation](achievement-variation-offset-across-grade-bands.md) — related
 - [School characteristics were associated with participation: district-run schools, higher proportions of eligible students, and strong family engagement](school-characteristics-chicago-connected-participation.md) — related
 - [28% of eligible CPS students participated in Chicago Connected by May 2021](chicago-connected-28-percent-eligible-participated.md) — related
+- [In the U.S., variance in student achievement is explained more by family economic background than by school-level expenditures](family-economic-background-explains-more-variance-than-school-expenditures.md) — related

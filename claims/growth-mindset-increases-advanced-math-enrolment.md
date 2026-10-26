@@ -53,3 +53,4 @@ Within the highest-achieving 25% of schools the enrolment increase was 4 percent
 - [GPA treatment effects among lower-achieving students were smaller in higher-achieving schools (moderation by school achievement level)](mindset-gpa-effects-smaller-high-achieving-schools.md) — related
 - [Brief online growth-mindset interventions produce modest academic gains concentrated among students at risk of underperformance](online-growth-mindset-intervention-modest-effects.md) — related
 - [Cross-school variability in the GPA treatment effect was significant while variability in the mindset treatment effect was not](heterogeneous-gpa-effects-homogeneous-mindset-effects.md) — related
+- [A values-aligned growth mindset-supportive teaching intervention in a multi-arm RCT raised course pass rates by four percentage points overall and six to eleven points in lower-SES classrooms](values-aligned-teacher-intervention-pass-rates.md) — related

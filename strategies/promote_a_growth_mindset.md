@@ -96,6 +96,7 @@ Growth mindset interventions have produced measurable gains in achievement for s
 - [Theory-guided content revisions for adolescent mindset interventions: strategies over hard work, prosocial motives, peer norms, reactance, and self-persuasion](theory-guided-mindset-content-revisions.md)
 - [Classroom strategies for developing student psycho-social supports and academic mindsets](classroom-psycho-social-support-strategies.md)
 - [Combine growth mindset and cognitive training for students with learning difficulties](combine-mindset-and-cognitive-training-for-struggling-learners.md)
+- [Values-aligned teacher training that connects growth mindset-supportive practices to teachers' core professional values](values-aligned-teacher-training-strategy.md)
 
 ## Examples
 - **[Youcubed](https://www.youcubed.org)** (Jo Boaler, Stanford) — mathematical mindset lessons and teacher resources built around the claim that everyone can learn math to high levels; includes error-normalization routines and "low floor, high ceiling" tasks.

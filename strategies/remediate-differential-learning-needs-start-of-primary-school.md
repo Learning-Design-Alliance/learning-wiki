@@ -48,7 +48,8 @@ The authors' forward-looking recommendation is that "redistributing education re
 - [Intensive remediation alone will not meet students' needs and, if segregating and stigmatizing, can deepen inequality and trauma](../claims/remediation-alone-insufficient-summer-learning.md) [~W]
 
 ## Related Strategies
-- 
+
+- [Focus equality policy on equalising school support for students with lower EA-PGI rather than on residential-area interventions](equalise-school-support-for-low-pgi-students.md)
 
 ## Examples
 -

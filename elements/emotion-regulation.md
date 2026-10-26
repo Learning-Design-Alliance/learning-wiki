@@ -13,7 +13,7 @@ generated:
 # Emotion Regulation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 31 claims (14 for, 17 mixed) · 34 studies (8 review, 7 causal, 7 associational, 6 quant-synthesis, 3 theoretical, 2 qualitative, 1 design), `q1`–`q4` · 11 of 34 report an effect size · 26 claims rest on one study
+> **Evidence** · 33 claims (16 for, 17 mixed) · 36 studies (9 causal, 8 review, 7 associational, 6 quant-synthesis, 3 theoretical, 2 qualitative, 1 design), `q1`–`q4` · 11 of 36 report an effect size · 28 claims rest on one study
 
 ## Description
 Emotion regulation in learning design refers to the deliberate integration of strategies and supports that help learners recognize and manage their emotional responses to academic demands. Drawing on Gross's process model, regulation can target the situation (choosing or modifying tasks), attention (redirecting focus), cognition (reappraising the meaning of stress), or response (calming techniques) ([Gross, 1998](https://doi.org/10.1037/1089-2680.2.3.271)). In instructional contexts, the designer's role is to build regulation opportunities into the learning environment rather than assuming learners arrive with these skills.
@@ -80,6 +80,8 @@ Emotions are not noise around learning — they shape attention, working memory 
 - [Strategy interrelations: expression and suppression are negatively related, while social support seeking and expression are positively related across emotions](../claims/expression-suppression-negative-support-expression-positive.md) [~W]
 - [Achievement emotion regulation strategies are related to, but distinct from, general emotion regulation strategies](../claims/achievement-er-distinct-from-general-er.md) [~W]
 - [The instructor-led mindfulness arm showed significant pre-post improvements in mindfulness, self-compassion, well-being, perceived stress, anxiety, depression, and burnout, while the self-taught arm showed significant pre-post improvements in self-compassion and well-being](../claims/mt-arm-specific-pre-post-improvements.md) [~W]
+- [During breathwork, heart-rate coupling to anxiety and enjoyment weakened, and this altered affect–physiology coupling persisted into the post-intervention phase](../claims/breathwork-weakens-hr-emotion-coupling-persistent.md) [+W]
+- [Negative word counting in stressed teachers engages reappraisal-related regions early, without amygdala activation, suggesting regulation of emotional responses](../claims/early-reappraisal-engagement-negative-words-teachers.md) [+W]
 
 ## The evidence by question
 - *Does a brief regulation exercise before an evaluation (writing about worries, relabelling the feeling) protect anxious learners' performance?* [Brief expressive writing before an exam can raise test-anxious students' scores, but across the wider literature its effect on test performance is negligible](../claims/expressive-writing-improves-exam-performance.md) [~S]

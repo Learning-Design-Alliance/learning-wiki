@@ -13,7 +13,7 @@ generated:
 # Affect Regulation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 186 claims (135 show a difference, 34 mixed, 17 no difference) · 120 studies (45 associational, 22 causal, 22 review, 10 qualitative, 9 quant-synthesis, 8 theoretical, 4 design), `q1`–`q4` · 29 of 120 report an effect size · 180 claims rest on one study
+> **Evidence** · 188 claims (137 show a difference, 34 mixed, 17 no difference) · 122 studies (45 associational, 24 causal, 22 review, 10 qualitative, 9 quant-synthesis, 8 theoretical, 4 design), `q1`–`q4` · 29 of 122 report an effect size · 182 claims rest on one study
 
 ## Description
 What a learner does with frustration, anxiety and failure while the work is still in front of them. It decides whether a hard check needs a recoverable framing and how failure is surfaced. Anxiety is not only unpleasant — it consumes the same working memory the task needs, so it degrades performance through a mechanism entirely separate from motivation [-M]. Naming an emotion measurably reduces its grip, which is why the strategies here look unexpectedly linguistic.
@@ -226,6 +226,8 @@ What a learner does with frustration, anxiety and failure while the work is stil
 - [No group of high-performing children also showed high math anxiety in this sample](../claims/no-high-performers-with-high-anxiety.md) [+M] — learners who differ on it differ in outcomes
 - [Post-instruction math anxiety mediates the relation between DMN–SN connectivity and physics course grade in male students](../claims/math-anxiety-mediates-dmn-sn-grade-males.md) [+W] — learners who differ on it differ in outcomes
 - [Science anxiety increased significantly over the semester for both female and male physics students, with no sex-by-time interaction on any anxiety measure](../claims/science-anxiety-increases-both-sexes-semester.md) [+W] — instruction changes it
+- [Cyclic sighing buffers phase-level anxiety accumulation: controls' anxiety rose across the intervention while the breathwork group stayed near baseline](../claims/breathwork-buffers-phase-level-anxiety-accumulation.md) [+M] — instruction changes it
+- [Initial PF activities were too frustrating and were refined with moderate metacognitive support so students struggled without giving up](../claims/pf-moderate-support-refinement.md) [+W] — instruction changes it
 
 ## The evidence by question
 

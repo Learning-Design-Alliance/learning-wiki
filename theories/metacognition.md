@@ -12,7 +12,7 @@ generated:
 # Metacognition
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 453 claims (211 for, 219 mixed, 23 against) · 228 studies (110 causal, 49 associational, 25 review, 16 theoretical, 12 quant-synthesis, 10 qualitative, 6 design), `q1`–`q4` · 81 of 228 report an effect size · 446 claims rest on one study
+> **Evidence** · 458 claims (214 for, 221 mixed, 23 against) · 231 studies (111 causal, 50 associational, 26 review, 16 theoretical, 12 quant-synthesis, 10 qualitative, 6 design), `q1`–`q4` · 82 of 231 report an effect size · 451 claims rest on one study
 
 ## Description
 Metacognition is knowledge about, and the ability to regulate, one's own cognitive processes — realistically judging how difficult a task will be, monitoring whether a strategy is working, and adjusting accordingly. It is closely related to, but distinct from, [Executive Function Development](executive-function-development.md): executive function is the underlying capacity to control and coordinate cognition, while metacognition is specifically the learner's own knowledge *about* that cognition and the strategies available to direct it.
@@ -496,6 +496,11 @@ A rough age-8 inflection point has been observed in some longitudinal work: stra
 - [Adults showed an advantage in metacognitive sensitivity for nonword foils, whereas Grade 5 children showed little evidence of such sensitivity](../claims/adult-metacognitive-sensitivity-nonword-foils.md) [+W]
 - [Recognition accuracy was higher for Remember responses than for Guess responses across age groups and foil types, indicating metacognitive sensitivity in all groups](../claims/confidence-accuracy-gradient-sl.md) [+W]
 - [The distribution of confidence responses (Remember, Familiar, Guess) is highly stable across childhood and from late childhood to adulthood](../claims/confidence-response-distribution-stable-development.md) [~W]
+- [Undergraduate life sciences students with higher metacognitive calibration show greater right dorsolateral prefrontal activity when evaluating error-containing biology models, controlling for accuracy](../claims/metacognitive-calibration-lateral-pfc-activity-biology-error-detection.md) [+W] — attached 2026-10-26 from Mei Grace Behrendt et al. (2024), which proposed "Metacognitive calibration as a foundation for error detection, self-regulated learning, and conceptual change".
+- [The strength of the relationship between metacognitive measures and academic achievement depends on the operationalisation, with think-aloud protocols correlating highly and self-report questionnaires weakly](../claims/protocol-type-moderates-metacognition-achievement-link.md) [+W] — attached 2026-10-26 from Damien S. Fleur et al. (2021), which proposed "Online versus offline distinction in metacognitive processes".
+- [Metamemory judgments after learning predicted subsequent memory, whereas curiosity ratings did not relate to memory](../claims/metamemory-predicts-memory-curiosity-null.md) [+W]
+- [Confidence bias is not linked to course grades or task accuracy, but lower confidence bias is associated with more left inferior frontal gyrus activity during error evaluation](../claims/confidence-bias-left-ifg-activity-not-grades.md) [~W]
+- [Neural contrasts: confident trials recruit widespread fronto-parietal activation; confident-error trials recruit medial frontal and bilateral inferior prefrontal/insular regions; overconfidence differences are confined to the lingual gyrus](../claims/neural-contrasts-confidence-error-lingual-gyrus.md) [~W]
 
 ## The evidence by question
 

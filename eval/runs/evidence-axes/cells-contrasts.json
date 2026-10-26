@@ -43502,5 +43502,289 @@
  "simulation\tGPT-4 simulation, reflection, and two-round teaching-plan refinement (Dataset E)\toriginal GPT-4 teaching plans (Dataset A)": {
   "label": "simulation vs no simulation",
   "treatment_is_a": true
+ },
+ "active-learning\tgenerate predictions themselves\tobserve Bayesian-matched peer predictions": {
+  "label": "generating predictions vs observing others' predictions",
+  "treatment_is_a": true
+ },
+ "active-learning\tgenerate predictions themselves\tobserve matched predictions of another child": {
+  "label": "generating predictions vs observing others' predictions",
+  "treatment_is_a": true
+ },
+ "active-learning\tgenerated predictions themselves\tobserved matched predictions of another child": {
+  "label": "generating predictions vs observing others' predictions",
+  "treatment_is_a": true
+ },
+ "active-learning\tgenerating predictions oneself\tobserving a matched fictitious child's predictions": {
+  "label": "generating predictions vs observing others' predictions",
+  "treatment_is_a": true
+ },
+ "active-learning\tgenerating predictions oneself\tobserving a matched other child's predictions": {
+  "label": "generating predictions vs observing others' predictions",
+  "treatment_is_a": true
+ },
+ "active-learning\tgenerating predictions themselves\tobserving matched predictions of a fictitious other child": {
+  "label": "generating predictions vs observing others' predictions",
+  "treatment_is_a": true
+ },
+ "active-learning\tguided notes\tlecture outline, lecture only, or lecture plus slides": {
+  "label": "guided notes vs lecture",
+  "treatment_is_a": true
+ },
+ "active-learning\tlecture with response cards\ttraditional lecture without response cards": {
+  "label": "response cards vs traditional lecture",
+  "treatment_is_a": true
+ },
+ "active-learning\tresponse cards\thand raising": {
+  "label": "response cards vs hand raising",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tgenerate predictions themselves\tobserve Bayesian-matched peer predictions": {
+  "label": "self-generated predictions vs observed others' predictions",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tgenerated predictions themselves\tobserved matched predictions of another child": {
+  "label": "self-generated predictions vs observed others' predictions",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tdirect metacognitive instruction\tcontrol or non-metacognitive instruction": {
+  "label": "explicit metacognitive instruction vs control or non-metacognitive instruction",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tfeedback added after an initial no-feedback phase\tno feedback throughout the initial phase": {
+  "label": "feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tfeedback during learning\tno feedback during learning": {
+  "label": "feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tfeedback in the second half after no-feedback first\tno feedback in the first half before feedback was introduced": {
+  "label": "feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tinformative feedback during learning\tno feedback during learning": {
+  "label": "informative feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tinformative performance feedback\tno feedback": {
+  "label": "informative performance feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tinformative performance feedback\tno feedback, with scrambled placeholders": {
+  "label": "informative performance feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-timing\tfeedback added after an initial no-feedback phase\tfeedback removed after an initial feedback phase": {
+  "label": "feedback introduction vs feedback withdrawal",
+  "treatment_is_a": true
+ },
+ "feedback-timing\tfeedback first, then feedback withdrawal\tno feedback first, then feedback introduction": {
+  "label": "feedback withdrawal vs feedback introduction",
+  "treatment_is_a": true
+ },
+ "feedback-timing\tfeedback introduced after an initial no-feedback phase\tfeedback withdrawn after an initial feedback phase": {
+  "label": "feedback introduction vs feedback withdrawal",
+  "treatment_is_a": true
+ },
+ "feedback-timing\tfeedback introduced after an initial no-feedback phase\tno feedback before feedback was introduced": {
+  "label": "feedback introduction after no feedback vs feedback introduction after no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\texplanatory feedback\tno scaffolding": {
+  "label": "explanatory feedback vs no scaffolding",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tdynamic formative assessment of personal learning trajectories\tstatic meritocracy-based assessment": {
+  "label": "dynamic trajectory-based assessment vs static merit-based assessment",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tDiscovery inquiry-based program\tregular course learning": {
+  "label": "guided discovery vs conventional instruction",
+  "treatment_is_a": true
+ },
+ "media-design\tfragmented short videos\tcontinuous long video": {
+  "label": "fragmented short videos vs continuous long video",
+  "treatment_is_a": true
+ },
+ "media-design\tmultiple short videos\tone continuous long video": {
+  "label": "fragmented short videos vs continuous long video",
+  "treatment_is_a": true
+ },
+ "media-design\tshort-video format\tcontinuous long-video format": {
+  "label": "fragmented short videos vs continuous long video",
+  "treatment_is_a": true
+ },
+ "practice-amount\t1 trial of skill A\t2, 5, or 12 trials of skill A": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": false
+ },
+ "practice-amount\t12 trials of skill A\t1 trial of skill A": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\tparticipating in Discovery across 3 or 4 terms\tearlier participation terms": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\tparticipation in multiple Discovery terms\tparticipation in one Discovery term": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\tthree or four cumulative Discovery terms\tearlier Discovery terms": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\tthree or four terms of Discovery participation\tearlier terms of participation": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "problem-first\tproductive failure: group problem solving before instruction\tactive learning: instruction and example before group practice": {
+  "label": "problem-first vs instruction-first",
+  "treatment_is_a": true
+ },
+ "problem-first\tproductive failure: group problem solving before instruction\tactive learning: instruction and example problem before practice": {
+  "label": "problem-first vs instruction-first",
+  "treatment_is_a": true
+ },
+ "problem-first\tproductive failure: group problem-solving before instruction\tactive learning: instruction and example problem before practice": {
+  "label": "problem-first vs instruction-first",
+  "treatment_is_a": true
+ },
+ "problem-first\tproductive failure: problem solving before instruction\tactive learning: instruction and example before practice": {
+  "label": "problem-first vs instruction-first",
+  "treatment_is_a": true
+ },
+ "problem-first\tproductive failure: problem solving before instruction\tactive learning: instruction and example before problem solving": {
+  "label": "problem-first vs instruction-first",
+  "treatment_is_a": true
+ },
+ "prompts\tself-directed metacognitive prompts\tno self-directed metacognitive prompts": {
+  "label": "self-directed metacognitive prompts vs no self-directed metacognitive prompts",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\treward cue after clip and interest rating\tno-reward cue after clip and interest rating": {
+  "label": "Reward cue after clip vs no reward cue after clip",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\treward cue after clip and interest rating, high-interest clips\tno-reward cue after clip and interest rating, high-interest clips": {
+  "label": "Reward cue after clip vs no reward cue after clip",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\treward cue after clip and interest rating, low-interest clips\tno-reward cue after clip and interest rating, low-interest clips": {
+  "label": "Reward cue after clip vs no reward cue after clip",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\treward cue after clip, high-interest clips\tno reward cue after clip, high-interest clips": {
+  "label": "Reward cue after clip vs no reward cue after clip",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\treward cue after clip, low-interest clips\tno reward cue after clip, low-interest clips": {
+  "label": "Reward cue after clip vs no reward cue after clip",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\treward cue before clip\tno-reward cue before clip": {
+  "label": "Reward cue before clip vs no reward cue before clip",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\treward cue before clip, high-interest clips\tno reward cue before clip, high-interest clips": {
+  "label": "Reward cue before clip vs no reward cue before clip",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\treward cue before clip, high-interest clips\tno-reward cue before clip, high-interest clips": {
+  "label": "Reward cue before clip vs no reward cue before clip",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\treward cue before clip, low-interest clips\tno reward cue before clip, low-interest clips": {
+  "label": "Reward cue before clip vs no reward cue before clip",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\treward cue before clip, low-interest clips\tno-reward cue before clip, low-interest clips": {
+  "label": "Reward cue before clip vs no reward cue before clip",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\treward cue before the clip\treward cue after the clip": {
+  "label": "Reward cue before clip vs reward cue after clip",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\treward cue presented after clips and interest rating\tno-reward cue presented after clips and interest rating": {
+  "label": "Reward cue after clip vs no reward cue after clip",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\treward cue presented before clips\tno-reward cue presented before clips": {
+  "label": "Reward cue before clip vs no reward cue before clip",
+  "treatment_is_a": true
+ },
+ "scaffolding\tadaptive task difficulty\tno scaffolding": {
+  "label": "adaptive task difficulty vs no scaffolding",
+  "treatment_is_a": true
+ },
+ "scaffolding\tdynamic visualizations\tno scaffolding": {
+  "label": "dynamic visualizations vs no scaffolding",
+  "treatment_is_a": true
+ },
+ "simulation\tVR simulator\tphysical simulator": {
+  "label": "VR simulation vs physical simulation",
+  "treatment_is_a": true
+ },
+ "spacing\t0–30 seconds between skills A and B\tother inter-skill rest intervals within the 0–30-second range": {
+  "label": "0–30-second gaps vs alternative gaps within 0–30 seconds",
+  "treatment_is_a": true
+ },
+ "spacing\t0–30-second inter-skill rest interval\tother inter-skill rest intervals": {
+  "label": "longer vs shorter gaps",
+  "treatment_is_a": false
+ },
+ "spacing\t30-second inter-skill rest interval\t0-second inter-skill rest interval": {
+  "label": "longer vs shorter gaps",
+  "treatment_is_a": true
+ },
+ "spacing\t30-second rest interval between skills A and B\t0-second rest interval between skills A and B": {
+  "label": "longer vs shorter gaps",
+  "treatment_is_a": true
+ },
+ "test-format\tall spelling assessment conditions\tbaseline": {
+  "label": "spelling assessment vs baseline",
+  "treatment_is_a": true
+ },
+ "test-format\tcloze dictation assessment\tmultiple-choice assessment": {
+  "label": "cloze dictation assessment vs multiple-choice assessment",
+  "treatment_is_a": true
+ },
+ "test-format\tcloze dictation assessment\tproofreading assessment": {
+  "label": "cloze dictation assessment vs proofreading assessment",
+  "treatment_is_a": true
+ },
+ "test-format\tcloze dictation spelling assessment\tproofreading spelling assessment": {
+  "label": "cloze dictation spelling assessment vs proofreading spelling assessment",
+  "treatment_is_a": true
+ },
+ "test-format\tmultiple-choice assessment\tcloze dictation assessment": {
+  "label": "cloze dictation assessment vs multiple-choice assessment",
+  "treatment_is_a": false
+ },
+ "test-format\tmultiple-choice assessment\tproofreading assessment": {
+  "label": "multiple-choice assessment vs proofreading assessment",
+  "treatment_is_a": true
+ },
+ "test-format\tmultiple-choice spelling assessment\tcloze dictation spelling assessment": {
+  "label": "cloze dictation spelling assessment vs multiple-choice spelling assessment",
+  "treatment_is_a": false
+ },
+ "test-format\tmultiple-choice spelling assessment\tproofreading spelling assessment": {
+  "label": "multiple-choice spelling assessment vs proofreading spelling assessment",
+  "treatment_is_a": true
+ },
+ "test-format\tone spelling-assessment condition\tanother spelling-assessment condition": {
+  "label": "one spelling-assessment format vs another spelling-assessment format",
+  "treatment_is_a": true
+ },
+ "test-format\tproofreading assessment\tcloze dictation and multiple-choice assessments": {
+  "label": "proofreading assessment vs cloze dictation and multiple-choice assessments",
+  "treatment_is_a": true
+ },
+ "test-format\tproofreading spelling assessment\tcloze dictation and multiple-choice assessments": {
+  "label": "proofreading spelling assessment vs cloze dictation and multiple-choice assessments",
+  "treatment_is_a": true
  }
 }

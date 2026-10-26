@@ -136,3 +136,4 @@ This claim is one of the most robust premises in educational psychology, but its
 - [Knowledge gains correlate positively with belief change, more strongly for higher relational-understanding levels](knowledge-gains-correlate-belief-change.md) — related
 - [Conceptual feedback significantly reduces the effect of prior knowledge on achievement](conceptual-feedback-nullifies-prior-knowledge-effect.md) — related
 - [Chunking via prior knowledge can massively increase the information processed in working memory](chunking-increases-effective-working-memory.md) — related
+- [Rated topic familiarity is only modestly related to technical passage comprehensibility](topic-familiarity-modest-comprehension-relation.md) — a narrower finding that bears on this claim

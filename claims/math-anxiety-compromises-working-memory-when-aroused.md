@@ -70,3 +70,4 @@ Participants did two-column addition alone or with a letter-recall secondary tas
 - [Verbal working memory directly and positively predicts math performance in grades 3 and 4](verbal-wm-predicts-math-grades-3-4.md) — related
 - [Lower-than-average math ability, low working memory capacity, susceptibility to public embarrassment, and a nonsupportive teacher are proposed risk factors for developing math anxiety](risk-factors-for-developing-math-anxiety.md) — related
 - [Working memory fully mediates the effects of math anxiety and attention on children's non-verbal Numerical Operations](wm-fully-mediates-anxiety-attention-numerical-operations.md) — related
+- [Assessment methods unintentionally impose differing working-memory demands that confound measurement of the target construct (test impurity), biasing results along a gradient of students' WM capacity](assessment-test-impurity-working-memory-confound.md) — related

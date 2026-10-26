@@ -68,3 +68,4 @@ Four-condition ANCOVA including the combination group found no significant overa
 - [Error conditions differed in negative affect but not positive affect after the PS-phase learning materials](negative-affect-differs-positive-affect-not.md) — related
 - [Vicarious failure with high solution diversity is as effective as engaging in Productive Failure oneself for conceptual knowledge acquisition](vf-high-as-effective-as-pf.md) — related
 - [Physical and virtual instructional materials are equally effective for teaching fourth- and fifth-graders to design unconfounded experiments when instructional method is controlled](physical-virtual-materials-equal-cvs-learning.md) — related
+- [Seminar group membership remained a significant predictor of improvement after controlling for pretest scores (η²p = 0.075)](seminar-ancova-group-effect.md) — related

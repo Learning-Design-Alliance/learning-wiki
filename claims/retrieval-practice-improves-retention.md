@@ -6,9 +6,9 @@ generated:
   by: claude/unspecified
   at: 2026-09-25
 id: retrieval-practice-improves-retention
-aliases: [retrieval-practice-enhances-long-term-retention, retrieval-practice-improves-learning, testing-effect-improves-learning, testing-effect-improves-retention, testing-effect-retrieval-practice-improves-retention, testing-improves-retention, retrieval-practice-improves-long-term-retention, retrieval-practice-outperforms-repeated-study-rowland-meta-analysis]
+aliases: [retrieval-practice-enhances-long-term-retention, retrieval-practice-improves-learning, testing-effect-improves-learning, testing-effect-improves-retention, testing-effect-retrieval-practice-improves-retention, testing-improves-retention, retrieval-practice-improves-long-term-retention, retrieval-practice-outperforms-repeated-study-rowland-meta-analysis, retrieval-practice-better-than-restudy]
 evidence_strength: strong
-newest_evidence: 2017
+newest_evidence: 2018
 sources:
   - id: rowland-2014
     resource: "https://doi.org/10.1037/a0037559"
@@ -44,13 +44,21 @@ sources:
     i: 2
     kind: review
     rigour: 3
+  - id: rebecca-a-markovits-and-yana-weinstein-2018
+    resource: "https://doi.org/10.1038/s41539-017-0018-1"
+    title: "Rebecca A. Markovits and Yana Weinstein. (2018). Can cognitive processes help explain the success of instructional techniques recommended by behavior analysts? npj Science of Learning 3:2. https://doi.org/10.1038/s41539-017-0018-1"
+    author: Rebecca A. Markovits and Yana Weinstein
+    q: 3
+    i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Retrieval practice improves long-term retention
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 4 studies · 2 quant-synthesis `r3`, 1 causal `r?`, 1 review `r3` · `q3`–`q4` · `i2`–`i3`
-> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
+> **Evidence** · 5 studies · 2 quant-synthesis `r3`, 2 review `r2`–`r3`, 1 causal `r?` · `q3`–`q4` · `i2`–`i3`
+> **Currency** · newest study 2018 · 1 of 5 entries checked against their sources (automated) · not reviewed by a person
 
 Actively recalling information from memory (rather than rereading or reviewing it) strengthens long-term retention of that information. This is one of the most consistently replicated effects in cognitive psychology of learning, often called the "testing effect."
 
@@ -69,6 +77,8 @@ Actively recalling information from memory (rather than rereading or reviewing i
 `q4 i2` An independent meta-analysis of practice testing against rereading and other comparison conditions found g = 0.51, with the effect holding across education levels and item formats. [→ Adesope et al. 2017](#adesope-et-al-2017)
 
 `q3 i2` The chapter reports that Rowland's (2014) meta-analysis found an overall retrieval practice versus repeated study effect of g = 0.50, with 81% of comparisons favoring retrieval practice. [→ Karpicke 2017](#karpicke-2017)
+
+`q3 i?` Performance on a delayed test is better after retrieval practice than after restudy, a consistent finding across variations in practice type, materials, and feedback, supported by a meta-analysis of 217 retrieval practice studies. [→ Rebecca A. Markovits and Yana Weinstein 2018](#rebecca-a-markovits-and-yana-weinstein-2018)
 
 ## Evidence
 
@@ -126,10 +136,20 @@ The chapter reports Rowland's (2014) meta-analysis as its quantitative synthesis
 
 > "Across 159 studies, the overall effect size of retrieval practice relative to repeated study was g ¼ 0.50, and 81% of comparisons favored retrieval practice over repeated study."
 
+### Rebecca A. Markovits and Yana Weinstein 2018
+
+Rebecca A. Markovits and Yana Weinstein. (2018). Can cognitive processes help explain the success of instructional techniques recommended by behavior analysts? npj Science of Learning 3:2. https://doi.org/10.1038/s41539-017-0018-1
+
+`q3 · i?` · `review · r2`
+
+The article summarizes the retrieval-practice literature: experiments compare study-then-retrieval-practice conditions against restudy controls with a final test, varying practice format, materials, and feedback. A meta-analysis of "217 retrieval practice studies" is cited; no pooled effect size is printed in this article.
+
+> "the consistent ﬁnding is that performance on a delayed test is better after retrieval practice than after restudy, (cf. a meta-analysis of 217 retrieval practice studies28)."
+
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does retrieving material (quizzes, practice tests, recall) improve later retention more than restudying it?* This table gathers the studies behind this claim and the 28 narrower claims that bear on it: **14 distinct studies** (5 quant-synthesis, 5 causal, 3 review, 1 qualitative), `q1`–`q4`, 9 of 14 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does retrieving material (quizzes, practice tests, recall) improve later retention more than restudying it?* This table gathers the studies behind this claim and the 28 narrower claims that bear on it: **15 distinct studies** (5 quant-synthesis, 5 causal, 3 review, 1 kind not coded, 1 qualitative), `q1`–`q4`, 9 of 15 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
@@ -137,6 +157,7 @@ The chapter reports Rowland's (2014) meta-analysis as its quantitative synthesis
 | [Roediger and Karpicke 2006](https://doi.org/10.1111/j.1467-9280.2006.01693.x) | q2 / q3 · causal · r? | i3 · large effect, d=0.83 at 1 week (Exp. 1); i? | this claim; [Rereading is less effective than retrieval practice](rereading-less-effective-than-retrieval-practice.md) (supports) |
 | [Adesope et al. 2017](https://doi.org/10.3102/0034654316689306) | q4 · quant-synthesis · r? | i2 | this claim; [Taking a practice test before a final test produces a moderately large, statistically sign](practice-testing-overall-meta-analytic-benefit.md) (supports) |
 | [Karpicke 2017](https://doi.org/10.1016/b978-0-12-809324-5.21055-9) | q2 / q3 · review · r3 | i2; i? | this claim; [Classroom quizzing delivered by clickers, computer software, or paper improves student per](classroom-quizzing-improves-exam-performance-across-grades-and-content.md) (supports); [The same quizzing or concept-mapping activity produces more learning when done without vie](closed-book-versions-of-quizzes-and-concept-maps-outperform-open-book-versions.md) (supports); [A review chapter (Karpicke 2017) reports, second-hand, experiments in which retrieval prac](retrieval-practice-produces-more-learning-than-concept-mapping-and-imagery-elaboration.md) (supports); [Repeatedly recalling a text without feedback or rereading produces the best one-week reten](repeated-recall-without-feedback-beats-repeated-study-at-one-week-but-not-five-minutes.md) (qualifies); [Benefits of retrieval practice have persisted for 6 months in medical students and 9 month](retrieval-practice-benefits-persist-six-to-nine-months.md) (supports); [Retrieval practice produces reliable positive effects at short delays, although some forge](retrieval-practice-effects-occur-at-short-delays-when-final-tests-avoid-ceiling.md) (qualifies); [Retrieval practice benefits have been observed in children, healthy older adults, and memo](retrieval-practice-benefits-generalize-to-children-older-adults-and-memory-impaired-patients.md) (supports); [Retrieval practice enhances final-test recollection of contextual details and speeds final](retrieval-practice-enhances-final-context-memory-and-memory-search-efficiency.md) (supports); [Inducing learners to recollect the prior study episode during retrieval practice enhances ](recollecting-the-prior-study-episode-during-retrieval-enhances-retention.md) (supports); [Repeated retrieval practice alters the rate at which learned items are forgotten, accordin](repeated-retrieval-alters-the-rate-of-forgetting.md) (supports); [Retrieval practice disrupted within-list order reconstruction of eight-item word lists, ju](retrieval-practice-disrupts-within-list-order-reconstruction.md) (qualifies); [Whether initial retrieval practice enhances semantic organization in final free recall is ](effects-of-retrieval-practice-on-semantic-organization-are-unclear.md) (qualifies); [A review reports that retrieval practice effects grow more robust as initial retrieval suc](retrieval-practice-effects-more-robust-when-initial-retrieval-success-exceeds-75-percent.md) (qualifies) |
+| [Rebecca A. Markovits and Yana Weinstein 2018](https://doi.org/10.1038/s41539-017-0018-1) | q3 | i? | this claim |
 | [Yang 2020](https://doi.org/10.1037/bul0000309) | q4 · quant-synthesis · r? | i2; i1 | [Quizzing outperforms no/filler activity, fewer-question testing and restudying, with a lar](quizzing-beats-restudying-and-elaborative-controls.md) (supports); [Classroom testing (quizzing) significantly boosts student academic achievement to a medium](classroom-quizzing-medium-effect-achievement.md) (supports); [Test-enhanced learning generalizes across education levels, from elementary school (g = 0.](testing-effect-generalizes-education-levels.md) (supports) |
 | [Callender & McDaniel 2009](https://doi.org/10.1016/j.cedpsych.2008.07.001) | q3 · causal · r? | i0 | [Rereading is less effective than retrieval practice](rereading-less-effective-than-retrieval-practice.md) (supports) |
 | [Dunlosky et al. 2013](https://doi.org/10.1177/1529100612453266) | q2 / q3 · review · r2 | i? | [Rereading is less effective than retrieval practice](rereading-less-effective-than-retrieval-practice.md) (supports); [Practice testing and distributed practice receive high utility assessments because their b](practice-testing-distributed-practice-high-utility.md) (supports) |
@@ -220,6 +241,7 @@ Open questions that evidence entries should address include: how retrieval pract
 **Design implications pending evidence.** Until evidence entries are verified, practitioners should treat the strong rating as provisional. The most defensible design heuristics consistent with the claim's scope are: require learners to generate answers before re-exposing them to material; schedule retrieval attempts after a delay rather than immediately after study; and keep retrieval tasks low-stakes so errors carry diagnostic rather than evaluative weight. These follow from the claim's stated mechanism and boundary conditions, not from cited experiments on this page.
 
 ## Learner Variables
+
 - [Long-Term Memory](../learner-variables/long-term-memory.md) — outcome: instruction changes it
 
 ## Related Claims
@@ -308,3 +330,4 @@ Open questions that evidence entries should address include: how retrieval pract
 - [Retrieval practice produced a reliable overall testing effect and a main effect of working memory capacity on final-test accuracy](main-effect-testing-effect-wm-capacity.md) — a narrower finding that bears on this claim
 - [Retrieval practice boosts learning, and the testing effect generalizes to the acquisition of entirely new material (forward testing effect)](testing-effect-backward-and-forward.md) — related
 - [Retrieval practice with feedback yields higher recall than restudy, which yields higher recall than no-feedback retrieval practice](feedback-retrieval-outperforms-restudy-and-nrp.md) — related
+- [Guided notes produce consistently higher performance on later quizzes than conditions without guided notes, including for learning-disabled students](guided-notes-higher-quiz-performance.md) — related

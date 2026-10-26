@@ -87,6 +87,7 @@ Self-regulation instruction has consistent positive effects on academic performa
 - [Support metacognitive awareness by providing time and place for reflection, regulation-practice tasks, and profile-sensitive support](profile-sensitive-metacognitive-support-strategy.md)
 - [Indirect training: prompting metacognitive regulation in regular subject classes to promote transfer across contexts](indirect-training-prompted-metacognitive-regulation.md)
 - [Classroom strategies to develop metacognition: reflective questions, decision diagrams, thinking aloud, reflective dialogue, and metacognitive argumentation](metacognition-classroom-strategies-set.md)
+- [Instructors foster metacognition through reflection on process, direct immediate feedback, and taught study habits](foster-metacognition-reflection-feedback-study-habits.md)
 
 ## Examples
 **Zimmerman & Campillo's cycle in writing instruction** — Students plan (set goals for audience and structure), draft with self-monitoring checklists, and revise after self-evaluation against criteria; the Self-Regulation Strategy Development model (SRSD) for writing has strong experimental support across grade levels.

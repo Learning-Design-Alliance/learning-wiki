@@ -18,7 +18,7 @@ sources:
 # Adaptive Difficulty
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 9 claims (5 for, 4 mixed) · 10 studies (3 quant-synthesis, 2 design, 2 theoretical, 1 causal, 1 associational, 1 qualitative), `q1`–`q4` · 3 of 10 report an effect size · 8 claims rest on one study
+> **Evidence** · 11 claims (7 for, 4 mixed) · 11 studies (3 quant-synthesis, 2 causal, 2 design, 2 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 3 of 11 report an effect size · 10 claims rest on one study
 
 ## Description
 Adaptive difficulty adjusts task challenge in response to learner performance so work remains demanding enough to promote growth without becoming discouraging or trivial.
@@ -60,6 +60,8 @@ Adaptive difficulty adjusts task challenge in response to learner performance so
 - [Exploratory ANCOVA controlling for mastery probability favored the adaptive condition, but is not interpretable as a causal treatment effect](../claims/mastery-probability-covariate-ancova-favors-adaptive.md) [~W]
 - [Adaptable task progression is descriptively more beneficial than fixed task progression in simulation-based learning](../claims/adaptable-task-progression-higher-effects.md) [+W]
 - [System-controlled adaptive instruction does not necessarily yield higher transfer than nonadaptive static approaches](../claims/system-control-not-superior-transfer.md) [~W]
+- [Adaptive task difficulty significantly improved performance for students at non-academic-track schools compared to control](../claims/adaptive-task-difficulty-benefits-nonacademic-track.md) [+W]
+- [Adaptive task difficulty significantly improved fraction knowledge for students in the inattentive unfavorable (lower-SES-associated) profile compared to no scaffolding](../claims/adaptive-task-difficulty-benefits-unfavorable-profile.md) [+W]
 
 ## The evidence by question
 

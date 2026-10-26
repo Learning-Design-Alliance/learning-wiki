@@ -56,3 +56,4 @@ In an illustrative study of students in India, Manu Kapur applied Lag-sequential
 - [The editors identify sequentiality of CSCL discourse — how one action takes up a previous action in online interaction — as a central, under-theorized problem](sequentiality-central-problem-cscl-discourse.md) — related
 - Documented CSCL empirical corpus 2005–2009 relies mostly on questionnaires and code-and-count, not post-cognitive group-process approaches — related
 - [Multimodal data collection is increasingly common but analyses rarely align data streams temporally](rare-alignment-of-multimodal-data-streams.md) — related
+- [Hidden semi-Markov model analysis of mathematical problem-solving yields brain-processing stages matching rationally expected problem-solving steps](hidden-semi-markov-stages-confirm-problem-solving-steps.md) — related

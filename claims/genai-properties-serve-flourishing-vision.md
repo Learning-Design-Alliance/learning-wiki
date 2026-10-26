@@ -53,3 +53,4 @@ Theoretical argument in a position paper: the authors state the vision should no
 - [GenAI can help students overcome contextual constraints when eliciting feedback](genai-overcomes-eliciting-constraints.md) — related
 - [Large language models can support learning and teaching across education levels, from reading and writing support for elementary students to professional training](llm-support-learning-across-education-levels.md) — related
 - [Students perceive GenAI tools as beneficial for academic engagement, particularly for overcoming language barriers and accessing up-to-date resources](students-perceive-genai-academic-benefits.md) — related
+- [Technology's role in education is dual: it can facilitate human flourishing when designed and implemented with attention to context, but can impede learning outcomes and produce harms when implemented without caution](edtech-dual-role-context-dependent.md) — related

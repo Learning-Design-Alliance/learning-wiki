@@ -58,3 +58,4 @@ Narrative review attributing this empirical finding to Lee et al. (2025); the re
 - [Black and Latinx students generally feel less safe at school than their White peers](black-latinx-students-feel-less-safe.md) — related
 - [A racial school-climate gap exists: White and Asian students generally report higher safety, support, and connectedness than African American, American Indian, and Hispanic students](racial-school-climate-gap-students.md) — related
 - [Peer mindsets are socially transmissible: a recent meta-analysis links peers' mindsets to students' own mindsets](peer-mindset-social-contagion-meta-analysis.md) — related
+- [Students who perceive their teacher as supporting a growth mindset report greater belonging and reduced evaluative concerns, impostor feelings, and negative affect](perceived-growth-teacher-belonging-reduced-vulnerability.md) — related

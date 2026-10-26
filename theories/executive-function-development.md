@@ -12,7 +12,7 @@ generated:
 # Executive Function Development
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 211 claims (99 for, 108 mixed, 4 against) · 119 studies (64 associational, 22 review, 19 causal, 10 quant-synthesis, 4 theoretical), `q1`–`q4` · 44 of 119 report an effect size · 203 claims rest on one study
+> **Evidence** · 217 claims (100 for, 113 mixed, 4 against) · 121 studies (66 associational, 22 review, 19 causal, 10 quant-synthesis, 4 theoretical), `q1`–`q4` · 44 of 121 report an effect size · 209 claims rest on one study
 
 ## Description
 Executive functions are the self-regulatory processes that let a person inhibit an impulsive response, flexibly shift between tasks or perspectives, hold and manipulate information in mind, and organize behavior toward a goal rather than react automatically to the immediate situation. They emerge gradually starting in early childhood and continue developing through adolescence, driven both by brain maturation — particularly of the prefrontal cortex, which matures later than most other brain regions — and by experience (Fay-Stammbach, Hawes, & Meredith, 2014).
@@ -252,6 +252,12 @@ Executive function is closely tied to, but distinct from, adolescent risk-taking
 - [Young students' age-related cognitive capacities and self-regulatory strategies are proposed as potential boundary conditions limiting their benefit from Productive Failure](../claims/age-related-boundary-conditions-productive-failure.md) [+W]
 - [Capacity improvement increased continuously throughout training while task-specific improvement occurred only between the first two test sessions](../claims/capacity-linear-task-specific-early-cfa.md) [+W]
 - [At the task level, implicit SL correlates negatively with most individual executive-function measures, strongest with verbal fluency tasks](../claims/sl-ef-task-level-negative-fluency.md) [~W]
+- [EF abilities strongly predict pre-academic abilities in preschoolers](../claims/efs-predict-preacademic-abilities-preschool.md) [+W] — attached 2026-10-26 from Rémeau et al. (2026), which proposed "Three-core executive function framework as foundational for early academic learning".
+- [Age interacts with sample type in predicting WM change: younger participants changed more during 2-year development, while older participants improved more during 25-day training (interaction p = 0.04).](../claims/age-by-sample-interaction-wm-change.md) [~W]
+- [Both samples showed significant WM gains: a 14% mean increase after 2 years of development (β = 0.60, p < 0.001) and a 34% mean increase after 25 days of training (β = 2.10, p < 0.001).](../claims/significant-wm-gains-development-and-training.md) [~W]
+- [The effect of cogPGS on WM change does not depend on whether gains came from typical development or from training (no cogPGS × sample interaction, p = 0.46).](../claims/no-cogpgs-sample-interaction.md) [~W]
+- [Birth month exerts the strongest influence on both EF abilities and their indirect contribution to pre-academic abilities at age 3](../claims/birth-month-strongest-ef-predictor-and-indirect-effect.md) [~W]
+- [Gender shows no significant effect on baseline WM (p = 0.44) or on WM change (p = 0.09) in the combined samples.](../claims/no-gender-effect-wm-baseline-or-change.md) [~W]
 
 ## Related Theories
 

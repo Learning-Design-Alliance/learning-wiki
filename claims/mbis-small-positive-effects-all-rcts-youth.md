@@ -85,3 +85,4 @@ Random effects meta-analysis of 33 RCTs including 3,666 children and adolescents
 - [Population-level surveys indicate adolescent digital regulation failures are not rare](hbsc-problematic-social-media-use-prevalence.md) — related
 - [Eighteen days of brief mindfulness meditation selectively improves executive control network efficiency in healthy adults](bmm-selectively-improves-executive-control-ant.md) — a narrower finding that bears on this claim
 - [Brief mindfulness meditation does not significantly change alerting or orienting network efficiency](bmm-no-alerting-orienting-effects.md) — related
+- [Large-scale RCTs show school mindfulness training does not benefit overall well-being or social-emotional functioning and can harm those most at risk](mindfulness-rcts-no-benefit-possible-harm.md) — reports the opposite

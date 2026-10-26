@@ -53,3 +53,4 @@ A constrained 32-state HMM estimated with the Baum-Welch algorithm on the experi
 - [Q-matrix misspecification, if left unchecked, can have important practical implications](q-matrix-misspecification-practical-implications.md) — related
 - [Type 2 groups showed a communication–behaviour-synergistic transition, Type 1 a behaviour-oriented, and Type 3 a communication-oriented transition in hidden Markov models](hmm-transitional-regularities-pattern-types.md) — related
 - [Markov chain analysis yields nine finer-grained behavioral clusters that map predominantly onto the three broader behavior types](nine-markov-clusters-map-three-behavior-types.md) — related
+- [Hidden semi-Markov model analysis of mathematical problem-solving yields brain-processing stages matching rationally expected problem-solving steps](hidden-semi-markov-stages-confirm-problem-solving-steps.md) — related

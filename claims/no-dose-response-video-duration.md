@@ -50,3 +50,4 @@ Meta-regression and moderation analyses of absolute and relative intervention le
 - [MOOC video engagement declines with video length, with median engagement under half the duration for videos longer than nine minutes](mooc-engagement-declines-with-video-length.md) — related
 - [Multi-session game interventions show significantly larger learning benefits than single-session interventions, while total play duration shows no association with effect size](multiple-sessions-moderator-games.md) — related
 - [Instructional focus (number and operations vs. word-problem solving) and intervention implementer (researcher vs. school personnel) did not significantly predict effect sizes or moderate the dose–response relation](focus-and-implementer-null-moderators.md) — related
+- [HICRT effects on belief assessment show a dose-response pattern with number of fitness sessions](hicrt-dose-response-belief-assessment.md) — related

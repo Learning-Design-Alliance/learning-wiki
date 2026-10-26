@@ -13,7 +13,7 @@ generated:
 # Retrieval Practice Activities
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 9 claims (6 for, 2 mixed, 1 against) · 22 studies (9 causal, 8 quant-synthesis, 4 review, 1 associational), `q2`–`q4` · 11 of 22 report an effect size
+> **Evidence** · 9 claims (6 for, 2 mixed, 1 against) · 23 studies (9 causal, 8 quant-synthesis, 5 review, 1 associational), `q2`–`q4` · 11 of 23 report an effect size
 
 ## Description
 Retrieval practice activities require learners to pull information out of memory — via free recall, short-answer questions, flashcards, low-stakes quizzes, or brain dumps — rather than reviewing material again. The act of successful retrieval itself modifies memory, making the retrieved knowledge more accessible later. Activities range from ungraded "warm-up" recalls to spaced quizzing embedded across a course.

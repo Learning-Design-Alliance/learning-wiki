@@ -107,3 +107,4 @@ Undergraduates read educational texts (textbook chapters or a Scientific America
 - [The advantage of recitation over rereading is greater the less connected the learning material (Kühn 1914; Gates 1917)](recitation-advantage-decreases-material-connectedness-gates-kuehn.md) — related
 - [Ineffective learning strategies show substantially higher habit strength than effective strategies in a proof-of-concept survey](ineffective-strategies-higher-habit-strength.md) — a narrower finding that bears on this claim
 - [Retrieval practice boosts learning, and the testing effect generalizes to the acquisition of entirely new material (forward testing effect)](testing-effect-backward-and-forward.md) — related
+- [Generating information produces a memory advantage over passively reading it (the generation effect)](generation-effect-memory-advantage.md) — related

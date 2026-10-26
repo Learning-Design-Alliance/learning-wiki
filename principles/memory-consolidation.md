@@ -31,7 +31,7 @@ sources:
 # Memory Consolidation
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 30 claims (16 for, 11 mixed, 3 against) · 43 studies (25 causal, 9 review, 7 quant-synthesis, 1 associational, 1 theoretical), `q1`–`q4` · 10 of 43 report an effect size · 23 claims rest on one study
+> **Evidence** · 31 claims (16 for, 12 mixed, 3 against) · 44 studies (26 causal, 9 review, 7 quant-synthesis, 1 associational, 1 theoretical), `q1`–`q4` · 11 of 44 report an effect size · 24 claims rest on one study
 
 ## Conditional relationship
 
@@ -171,6 +171,7 @@ End-of-session performance, delayed recall, use in later tasks and use in the se
 - [Eighth graders show significant vocabulary decline from 3 days to 2 months post-learning, which sixth graders do not](../claims/grade-by-time-decay-eighth-graders-only.md) [+W]
 - [Micro-offline gains are inconsistent with a dominant contribution of latent motor slowing, supporting consolidation as their driver](../claims/micro-offline-gains-support-consolidation-not-fatigue-recovery.md) [+W]
 - [Training sequence accuracy improved in both groups at Post, but only the BCI-SRF group retained a significant improvement at follow-up relative to Pre](../claims/bci-srf-training-sequence-retention.md) [+W]
+- [Subjective reactivation predicted item recognition of new descriptions in experiment 1, but this effect did not appear in experiment 2](../claims/reactivation-item-recognition-exp1.md) [~W]
 
 ## Related Principles
 - [Spaced Learning](spaced-learning.md) — consolidation often depends on how review is distributed over time

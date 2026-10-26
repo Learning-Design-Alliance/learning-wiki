@@ -61,3 +61,4 @@ Theoretical argument in the article's review section: questionnaires aimed at 'o
 - [Task-based and questionnaire-based EF measures show consistently low correlations and may assess partially distinct phenomena](ef-task-questionnaire-low-correlations.md) — related
 - [A general self-report metacognition questionnaire shows no relationship with word problem solving performance and no convergence with on-line metacognitive measures in grade 5](self-report-questionnaire-no-convergence-online-metacognition.md) — related
 - [Think-aloud reports are incomplete and sometimes nonveridical, particularly for metacognitive processes](think-aloud-veridicality-incomplete-reports.md) — related
+- [The strength of the relationship between metacognitive measures and academic achievement depends on the operationalisation, with think-aloud protocols correlating highly and self-report questionnaires weakly](protocol-type-moderates-metacognition-achievement-link.md) — related

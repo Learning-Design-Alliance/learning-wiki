@@ -75,3 +75,4 @@ The review reports, citing Mickelson (1990), the discrepancy between abstract an
 - [Academic achievement is moderately correlated with academic self-concept in African American middle school youth](achievement-self-concept-correlation-african-american-youth.md) — related
 - [African American middle school students on average endorse the traditional academic race stereotype while reporting high academic self-concept](students-endorse-traditional-stereotype-high-self-concept.md) — related
 - [SRL partially mediates the positive relations of both academic value and school belonging to mastery orientation among African American and Latino adolescents](srl-partially-mediates-identity-mastery.md) — related
+- [Growth mindset beliefs are positively associated with academic achievement in nearly all nations, with stronger associations among structurally disadvantaged students](growth-mindset-achievement-association-global.md) — related

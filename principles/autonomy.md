@@ -42,7 +42,7 @@ sources:
 # Autonomy
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 55 claims (24 for, 29 mixed, 2 against) · 52 studies (12 review, 10 associational, 8 causal, 8 theoretical, 6 qualitative, 4 quant-synthesis, 4 design), `q1`–`q4` · 6 of 52 report an effect size · 47 claims rest on one study
+> **Evidence** · 56 claims (25 for, 29 mixed, 2 against) · 53 studies (12 review, 10 associational, 9 causal, 8 theoretical, 6 qualitative, 4 quant-synthesis, 4 design), `q1`–`q4` · 7 of 53 report an effect size · 48 claims rest on one study
 
 ## Conditional relationship
 
@@ -188,6 +188,7 @@ Motivation during a task, free-choice engagement afterwards, immediate learning,
 - [Freedom of instruction added remarkably to the interest and happiness of children in the Bruckner experiment](../claims/bruckner-freedom-increased-interest-happiness.md) [+W]
 - [Teachers' self-determination mediates the link between perceived class self-determination and reported autonomy support and involvement, but not structure](../claims/teacher-sdi-mediates-strategy-use.md) [~W]
 - [Teachers' perceptions of class average self-determination predict their reported use of autonomy support, involvement, and structure](../claims/teacher-perceptions-class-sdi-predict-strategies.md) [~W]
+- [Children in the active condition report higher perceived autonomy than yoked children, and autonomy predicts posttest learning](../claims/diy-increases-perceived-autonomy-which-predicts-learning.md) [+W]
 
 ## Related Principles
 - [Check-ins](check-ins.md) — regular, non-controlling check-ins are a core teacher behavior of autonomy support, signaling interest rather than surveillance

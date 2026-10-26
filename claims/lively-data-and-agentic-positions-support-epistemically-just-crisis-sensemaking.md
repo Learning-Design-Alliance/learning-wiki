@@ -60,3 +60,4 @@ This is a qualitative, single-study, small-sample case analysis (4 focal cases, 
 - School leaders entering the 'death spiral' exhibit noticeable behavioral changes such as hostility toward data, crisis mentality, and guarded communication — related
 - [Algorithmic empathy is culturally fragile: emotional inference errors in socio-emotional AI can invalidate teachers' experiences, so systems require local validation and participatory design](cultural-fragility-algorithmic-empathy.md) — related
 - [Multimodal, culturally grounded formative assessment supports engagement and agency](multimodal-culturally-grounded-assessment-supports-engagement-and-agency.md) — related
+- [Exporting individualistic, universalized well-being curricula across contexts can promote deficit discourse and epistemic injustice](universalized-wellbeing-curricula-promote-deficit-discourse.md) — related

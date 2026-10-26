@@ -47,3 +47,4 @@ Sensitivity analysis identified outliers by confidence-interval overlap criteria
 ## Related Claims
 - [Cross-age tutoring produces a small-to-moderate positive effect on academic outcomes for both tutors and tutees](cross-age-tutoring-positive-academic-effects-both-roles.md) — related
 - [Cross-age tutoring effects on tutees do not significantly differ by number of sessions, tutor type, tutee risk type, or subject area](cross-age-tutoring-tutee-moderators-null.md) — related
+- [Sensitivity reanalyses (outlier removal and sample-standardized age) confirmed that PGS is significantly associated with WM change (all p < 0.01) with no PGS × group interaction.](sensitivity-analyses-confirm-pgs-wm-change-association.md) — a narrower finding that bears on this claim

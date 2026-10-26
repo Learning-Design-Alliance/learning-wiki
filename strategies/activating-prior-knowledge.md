@@ -13,7 +13,7 @@ generated:
 # Activating Prior Knowledge
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (2 for, 1 against) · 9 studies (4 quant-synthesis, 3 causal, 2 review), `q3`–`q4` · 5 of 9 report an effect size
+> **Evidence** · 3 claims (2 for, 1 against) · 10 studies (4 quant-synthesis, 3 causal, 3 review), `q3`–`q4` · 5 of 10 report an effect size
 
 ## Description
 Activating prior knowledge is a strategy in which the instructor or learning environment deliberately prompts learners to retrieve and articulate what they already know before encountering new material. This can take the form of open questions, brainstorming, quick recalls, prediction tasks, or [Advance Organizers](../elements/advance-organizers.md). The goal is to make relevant existing schemas available in working memory so that new information can be connected to — and integrated with — what is already known, rather than encoded as isolated facts.

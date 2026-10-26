@@ -17,7 +17,7 @@ sources:
 # Promote spaced practice for mathematics learning, and design future studies to control whether learners must retrieve during practice
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 8 claims (8 for) · 11 studies (7 quant-synthesis, 3 causal, 1 review), `q3`–`q4` · 7 of 11 report an effect size · 6 claims rest on one study
+> **Evidence** · 8 claims (8 for) · 12 studies (7 quant-synthesis, 3 causal, 2 review), `q3`–`q4` · 7 of 12 report an effect size · 6 claims rest on one study
 
 ## Description
 Based on the robust spacing findings, the article concludes "there is sufficient evidence to promote the use of spacing for mathematics learning as a means to improve mathematics learning". For research design, it recommends that future studies "control, or directly vary, whether participants have to retrieve the information during practice or have it available to them", and that course-based studies structure questions so interleaving can be separated from spacing. It also calls for more testing-effect studies using best practices rather than pushing the effect to find boundary conditions.

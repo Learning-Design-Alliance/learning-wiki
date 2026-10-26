@@ -57,3 +57,4 @@ Theoretical argument in the review's identity-threat pathway section. The author
 - [Mindset-culture mismatch is proposed to lower belonging most for students who strongly endorse a growth mindset](mindset-culture-mismatch-growth-mindset-students.md) — related
 - [Social identity threat impairs math performance via increased intrusive thoughts and working memory load (being-cognition disfluency)](social-identity-threat-working-memory-performance.md) — related
 - [Peer mindsets are socially transmissible: a recent meta-analysis links peers' mindsets to students' own mindsets](peer-mindset-social-contagion-meta-analysis.md) — related
+- [Students who perceive their teacher as supporting a growth mindset report greater belonging and reduced evaluative concerns, impostor feelings, and negative affect](perceived-growth-teacher-belonging-reduced-vulnerability.md) — related

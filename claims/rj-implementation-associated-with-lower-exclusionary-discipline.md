@@ -65,3 +65,4 @@ Narrative review of empirical studies of RJ in U.S. schools. The review reports 
 - [RJ implementation is associated with improved attendance, including lower chronic absenteeism relative to non-RJ schools](rj-implementation-associated-with-improved-attendance.md) — related
 - [School exclusionary policies paradoxically worsen dropout, delinquency, and achievement](school-exclusion-paradox-worse-outcomes.md) — related
 - [Programs offering the highest levels of active student participation are those aimed at generally improving the school environment (Restorative Justice and SEHER), suggesting broad, systemic scope favors student decision-making roles](broad-systemic-scope-yields-highest-asp.md) — related
+- [Contextually sensitive programs combining structural change with community participation have improved educational and well-being outcomes](contextual-structural-community-programs-improved-outcomes.md) — a broader claim this one bears on

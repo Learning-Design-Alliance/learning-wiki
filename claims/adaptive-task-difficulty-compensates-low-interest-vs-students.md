@@ -76,3 +76,4 @@ In the same GLMM analysis, the complex interaction term for self-concept was sig
 - [Advanced-placement students outperformed vocational-school students on most learner characteristics, with large effect sizes except interest](school-track-differences-learner-characteristics.md) — related
 - [At large peer-teacher relatedness discrepancies, high teacher relatedness compensates for absent peer relatedness to support engagement, whereas low teacher relatedness accompanies low engagement (Study 1)](teacher-specific-compensation-engagement.md) — related
 - [The dynamical relational perspective hypothesizes that mutual interactions between interest components underlie interest development](mutual-interactions-underlie-interest-development.md) — related
+- [None of the three scaffolds showed a significant main effect on fraction knowledge across the whole sample](no-main-effects-of-scaffolds.md) — related

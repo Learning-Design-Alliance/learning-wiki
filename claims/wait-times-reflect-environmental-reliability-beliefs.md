@@ -73,3 +73,4 @@ The authors' own hedge in the Discussion: their data do not show self-control is
 - [Mood-related measures (contentedness, smiling, fidgetiness) did not vary systematically across the reliable and unreliable conditions](mood-measures-did-not-vary-across-conditions.md) — related
 - [Percentage of time distracting visual attention away from the reward predicts success on delay-of-gratification tasks in two- and three-year-olds](visual-attention-distraction-predicts-toddler-delay-success.md) — related
 - [Older two- and three-year-olds have lower odds of failing delay-of-gratification tasks](age-predicts-toddler-delay-task-success.md) — related
+- [Environmental factors such as social support modulate classic individual-difference findings, including delay of gratification and heritability estimates](environmental-factors-modulate-individual-difference-findings.md) — related

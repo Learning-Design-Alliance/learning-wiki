@@ -50,3 +50,4 @@ Analysis of responses to Elinor's questions among 156 interactive (n = 79) and p
 - [Contingent AI interaction increased children's likelihood of responding over time (OR = 1.026 per question), while pseudo-interactive interaction decreased it (OR = 0.96)](response-rate-trend-contingency.md) — related
 - [Pseudo-interactive responses showed significantly more repetition: a lower type-token ratio than interactive responses (t = 3.371, p = .001)](pseudo-interactive-repetition-type-token.md) — related
 - [Pseudo-interactive videos also outperformed non-interactive videos by 0.16 standard deviations on science learning](pseudo-interactive-beats-non-interactive.md) — related
+- [Response cards markedly increase student responding and quiz scores compared with hand raising](response-cards-increase-responding-and-quiz-scores.md) — related

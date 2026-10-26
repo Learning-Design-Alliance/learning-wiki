@@ -13,7 +13,7 @@ generated:
 # Creativity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 90 claims (62 show a difference, 22 mixed, 6 no difference) · 45 studies (14 causal, 11 review, 11 associational, 4 quant-synthesis, 3 design, 2 theoretical), `q1`–`q3` · 10 of 45 report an effect size · 88 claims rest on one study
+> **Evidence** · 91 claims (63 show a difference, 22 mixed, 6 no difference) · 46 studies (15 causal, 11 review, 11 associational, 4 quant-synthesis, 3 design, 2 theoretical), `q1`–`q3` · 11 of 46 report an effect size · 89 claims rest on one study
 
 ## Description
 Creativity as a learner characteristic is the ability to produce ideas that are both new and fitting. It is most often measured with divergent-thinking tests (how many and how varied the uses someone can find for an object). It correlates with intelligence and with achievement, including in mathematics, where generating several solution paths may deepen understanding. Creativity can also be an outcome that instruction aims at; this page is about learners who differ in it.
@@ -125,6 +125,7 @@ Creativity as a learner characteristic is the ability to produce ideas that are 
 - [Children's age, general intelligence, and divergent thinking positively predicted tool innovation performance, while executive function measures predicted only ideal manipulation](../claims/age-intelligence-divergent-thinking-predict-tool-innovation.md) [+M] — learners who differ on it differ in outcomes
 - [Task difficulty moderated the facilitating effect of flexibility on ideal manipulation only, with the effect more salient for harder tasks](../claims/difficulty-moderates-flexibility-ideal-manipulation-only.md) [~M] — learners who differ on it differ in outcomes
 - [Two or more semesters of AP art workshops significantly raised the graphical TTCT 13-forces creativity score in a doubly robust regression, but not total TTCT scores](../claims/ap-creativity-ttct-improvements.md) [+M] — instruction changes it
+- [Dyads in which both participants could gesture produced higher team originality and more combined ideas than dyads in which one or neither could gesture](../claims/both-gesturing-higher-originality-cooperation.md) [+M] — instruction changes it
 
 ## Related Learner Variables
 

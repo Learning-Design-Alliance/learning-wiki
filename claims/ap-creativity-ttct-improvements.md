@@ -26,7 +26,6 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
 > **Currency** · newest study 2023 · checked against its sources 2026-10-26 (automated, 1 of 1 entry) · not reviewed by a person
-> **Design limits** · Pablo Egana-delSol 2023: groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-26)
 
 ## Subclaims
 `q2 i?` In the doubly robust reweighted regression, at least two semesters of AP workshops raised the graphical Torrance Test of Creative Thinking 13-forces score (9.9 points, P < 0.05); the matched (PSM) difference on that score (0.55 SD, t = 1.87) and the total written and graphical TTCT differences were not significant at the 5% level. [→ Pablo Egana-delSol 2023](#pablo-egana-delsol-2023)

@@ -73,3 +73,4 @@ Descriptive contrast in uncertainty verbalizations from the same think-aloud stu
 - [Empirical studies support Zimmerman's SRL models, including expert-novice differences and phase-training effects](empirical-support-zimmerman-srl-models.md) — a broader claim this one bears on
 - [SRL phase transitions during clinical reasoning with a multimedia system are frequent, cyclical, and dominated by Forethought→Performance and Performance→Forethought transitions](srl-phase-transitions-cyclical-clinical-reasoning.md) — related
 - [Relations between SRL phase frequency/diversity and illness script activation were mixed across cases: more frequent and diverse transitions were sometimes beneficial (Cases 2, 4) and sometimes detrimental (Cases 1, 3, 5)](srl-transitions-mixed-effects-illness-script-activation.md) — related
+- [Comparing novice and expert activation signatures can guide optimisation of an intervention](novice-expert-signature-optimisation.md) — related

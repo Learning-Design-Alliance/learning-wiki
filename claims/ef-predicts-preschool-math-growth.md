@@ -86,3 +86,4 @@ Longitudinal study of a racially/ethnically and linguistically diverse sample of
 - [Inference-based instruction and teacher–student conflict were more strongly associated with math achievement and growth for children with low early math skills (a three-way interaction in observational data)](inference-conflict-skill-three-way-interaction.md) — related
 - [Long-term academic benefits of preschool are almost entirely mediated by children's earlier skill development](preschool-long-term-benefits-mediated-by-early-skills.md) — related
 - [In Study 1 (N=215), motivation measured at the start of a 10-week gymnastics cycle predicted performance assessed at its end](study1-motivation-predicts-gymnastics-performance.md) — a narrower finding that bears on this claim
+- [EF abilities strongly predict pre-academic abilities in preschoolers](efs-predict-preacademic-abilities-preschool.md) — a broader claim this one bears on

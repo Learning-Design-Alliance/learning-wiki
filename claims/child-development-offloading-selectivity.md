@@ -76,3 +76,4 @@ The review reports Bulley et al. (2020), a short-term retrospective memory task 
 - [Offloading attenuates individual differences linked to unaided ability](offloading-attenuates-individual-differences.md) — related
 - [Higher-value intentions are more likely to be offloaded than lower-value ones](value-drives-offloading-selection.md) — related
 - [Shifting information to external aids enhances task performance with greater gains under high cognitive load](offloading-enhances-performance-under-load.md) — related
+- [Metacognitive knowledge emerges around age 5 and metacognitive control around age 8, initially domain-dependent and becoming more domain-general with expertise](developmental-timeline-meta-knowledge-meta-control.md) — related

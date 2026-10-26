@@ -13,7 +13,7 @@ generated:
 # Feedback
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 187 claims (83 for, 89 mixed, 15 against) · 142 studies (54 causal, 27 review, 20 quant-synthesis, 15 associational, 9 qualitative, 9 design, 8 theoretical), `q1`–`q4` · 36 of 142 report an effect size · 164 claims rest on one study
+> **Evidence** · 190 claims (86 for, 89 mixed, 15 against) · 144 studies (55 causal, 28 review, 20 quant-synthesis, 15 associational, 9 qualitative, 9 design, 8 theoretical), `q1`–`q4` · 36 of 144 report an effect size · 167 claims rest on one study
 
 ## Description
 Feedback is information provided to learners about their performance or understanding, intended to close the gap between current and desired performance. Effective feedback answers three questions: Where am I going? How am I doing? Where to next? ([Hattie & Timperley, 2007](https://doi.org/10.3102/003465430298487)). It functions as the corrective mechanism in any instructional cycle that includes [Practice](practice.md) or [Assessment](assessment.md).
@@ -235,6 +235,9 @@ Feedback is among the most powerful influences on learning, but its effects are 
 - [Elaborated feedback did not significantly outperform non-elaborated KR feedback on achievement](../claims/elaborated-not-superior-to-kr-feedback.md) [~W]
 - [Adaptive feedback does not improve pre-service teachers' diagnostic accuracy in simulation-based learning](../claims/ann-adaptive-feedback-no-diagnostic-accuracy-effect.md) [-M] — attached 2026-10-23 from Sailer et al. (2022), which proposed "ANN-based automatic adaptive feedback in simulations of pupils with learning difficulties".
 - [Under situationally increased self-enhancement motivation, people prefer positive feedback regardless of its perceived accuracy](../claims/situational-self-enhancement-positive-feedback-regardless-accuracy.md) [~W]
+- [In a laboratory word-learning task, introducing feedback in the second half of learning improved immediate meaning-extraction performance, while withdrawing feedback produced no significant drop on day 1](../claims/exp1-adding-feedback-second-half-improves-immediate-extraction.md) [+W]
+- [In an online replication, adding feedback in the second half improved immediate extraction of concrete word meanings for congruent trials only, replicating the laboratory effect](../claims/exp2-adding-feedback-improves-congruent-extraction.md) [+W]
+- [In the laboratory experiment, withdrawing feedback in the second half of learning significantly lowered next-day recognition of congruent word meanings, while adding feedback later did not impair recognition](../claims/exp1-feedback-removal-lowers-congruent-recognition.md) [+W]
 
 ## Design Decisions
 <!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice

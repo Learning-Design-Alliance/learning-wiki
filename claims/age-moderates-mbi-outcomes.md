@@ -88,3 +88,4 @@ Meta-regression within the 17 active-control RCTs. The review reports that "age 
 - [Mindfulness interventions delivered during late adolescence (15–18) show the largest effects on youth mental health and well-being outcomes](mindfulness-late-adolescence-largest-effects.md) — related
 - [Younger children performed more redundant actions than older children](younger-children-more-redundant-actions.md) — related
 - [Attitude effects of innovative teaching decrease with student grade level](attitude-effects-decrease-with-grade-level.md) — related
+- [Large-scale RCTs show school mindfulness training does not benefit overall well-being or social-emotional functioning and can harm those most at risk](mindfulness-rcts-no-benefit-possible-harm.md) — related

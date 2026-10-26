@@ -53,3 +53,4 @@ The review reports findings from studies of elementary students, secondary stude
 - [78.8% of student-GenAI turns lack mastery-oriented aims and reliable epistemic strategies](low-epistemic-engagement-788-percent-non-mastery.md) — related
 - [Only 11.1% of interactions pair mastery-oriented aims with advanced strategies such as epistemic justification](high-epistemic-engagement-111-percent-mastery-justification.md) — related
 - [Interpreting student work is an inherently epistemic endeavor in which teachers evaluate others' knowledge representations against their own epistemic ideals](interpreting-student-work-epistemic-endeavor.md) — a narrower finding that bears on this claim
+- [Exporting individualistic, universalized well-being curricula across contexts can promote deficit discourse and epistemic injustice](universalized-wellbeing-curricula-promote-deficit-discourse.md) — a narrower finding that bears on this claim

@@ -50,3 +50,4 @@ Definitional/argumentative statement in the brief's introduction, citing the lit
 - [Static individual assessment misses developing functions; ZPD-based assessment reveals potential competencies](static-assessment-misses-emerging-functions.md) — related
 - Deep thinking and making connections help students build strong memories and learn more deeply — related
 - [In gamers' interview reports, sustained gaming engagement appeared closely related to controlling an optimal level of challenge: games too hard were often abandoned and games too easy lost their interest](optimal-challenge-sustains-gaming-engagement.md) — related
+- [Initial PF activities were too frustrating and were refined with moderate metacognitive support so students struggled without giving up](pf-moderate-support-refinement.md) — a narrower finding that bears on this claim

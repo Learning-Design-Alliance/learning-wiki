@@ -20,6 +20,7 @@ A four-test group intelligence assessment developed by Pressey for measuring gen
 
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
+- **Design brief group tests for convenience, brevity, and teacher-interpretable scores**: The article argues that group intelligence tests for schools should be built around "convenience, brevity, cost and ready interpretation of results in terms of school practice". The Cross-out scale realizes this: one 9" by 12" sheet, twenty-five minutes of testing, scoring at "90 an hour" by student help or one minute per blank by a teacher, and cheap blanks, so a survey is possible "at a minimum of expense and labor". (Pressey (1920))
 
 ### Claims
 

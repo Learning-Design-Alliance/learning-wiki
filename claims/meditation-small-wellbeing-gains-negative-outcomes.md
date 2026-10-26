@@ -80,3 +80,5 @@ This systematic review summarises one of its included studies, Mendelson et al. 
 - [School-based mindfulness interventions produce small-to-moderate significant pre-post improvements in youth mental health and well-being compared to control groups](school-mindfulness-small-moderate-effect-youth-mental-health.md) — related
 - [Some social-emotional and cognitive-behavioural initiatives showed no effect or a negative effect on educator wellbeing](some-initiatives-no-or-negative-effect.md) — related
 - [A universal school mindfulness intervention (MYRIAD trial) was ineffective for most students and detrimental for those with pre-existing higher internalising symptoms](myriad-mindfulness-null-and-harmful-subgroup.md) — related
+- [Large-scale RCTs show school mindfulness training does not benefit overall well-being or social-emotional functioning and can harm those most at risk](mindfulness-rcts-no-benefit-possible-harm.md) — reports the opposite
+- [Greater perceived stress is associated with greater emotion dysregulation in teachers](stress-correlates-emotion-dysregulation-teachers.md) — related

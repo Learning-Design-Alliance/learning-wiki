@@ -53,3 +53,4 @@ Structural equation model fitting across six NTFD baseline models (three phenoty
 - [Under phenotypic assortment NTFD models, parental education shows no environmental effect on offspring educational attainment once genetic influences are accounted for](parental-education-no-environmental-effect-pa-models.md) — related
 - [Educational achievement is highly heritable, and the common environmental variance is attributable to SES effects](ea-heritable-common-env-variance-attributable-to-ses.md) — related
 - [Genetic and environmental variance components of educational achievement decrease with increasing parental SES](genetic-environmental-variance-decrease-with-ses.md) — related
+- [Environmental factors such as social support modulate classic individual-difference findings, including delay of gratification and heritability estimates](environmental-factors-modulate-individual-difference-findings.md) — related

@@ -78,3 +78,4 @@ The review identifies a challenge from dual-task studies showing the cost of mem
 - [Evidence that perceptual attention and WM maintenance share a limited resource is not yet convincing](shared-resource-perceptual-attention-wm-unconvincing.md) — reports the opposite
 - [Hippocampal malleability from resource-demand mismatch implies students benefit most from challenges matched to individual capacity](hippocampal-plasticity-mismatch-individual-capacity.md) — related
 - [Short-term storage capacity increases from two units at ages 3-4 to four units at ages 10-11 when executive operations are minimal](short-term-storage-capacity-two-to-four-units.md) — related
+- [Assessment methods unintentionally impose differing working-memory demands that confound measurement of the target construct (test impurity), biasing results along a gradient of students' WM capacity](assessment-test-impurity-working-memory-confound.md) — related

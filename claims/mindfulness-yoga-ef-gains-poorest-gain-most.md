@@ -73,3 +73,4 @@ The review reports girls aged 10 and 13 randomly assigned to yoga or physical tr
 - [School meditation studies show significant improvements on several cognitive functioning measures, though effects vary by measure and study](meditation-improves-cognitive-functioning-measures.md) — related
 - [Mindfulness interventions show comparatively robust efficacy for preschool SR/EF, especially for outcomes requiring integrated mobilisation of EFs and SR](mindfulness-preschool-sr-ef-efficacy.md) — related
 - [Drill effect is greatest on the poorest portion of the class and decreases class variability](drill-effect-greatest-on-poorest-pupils.md) — related
+- [Participant expectancies about intervention efficacy did not differ by intervention group](expectancies-did-not-differ-by-intervention-group.md) — related

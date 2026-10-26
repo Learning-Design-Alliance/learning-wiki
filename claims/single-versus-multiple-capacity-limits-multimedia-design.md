@@ -49,3 +49,4 @@ Theoretical argument: both CLT and CTML assume the visual and auditory modalitie
 - [Working memory includes partially independent subcomponents for auditory/verbal and visual/2- or 3-dimensional information](working-memory-partially-independent-modality-subcomponents.md) — related
 - [Cognitive Overload Degrades Learning](cognitive-overload-degrades-learning.md) — related
 - [Standard unconstrained neural networks do not naturally separate working memory from long-term memory or impose human-like capacity limits](unconstrained-neural-networks-lack-memory-capacity-limits.md) — related
+- [Two acknowledged criticisms limit educational neuroscience: partial relevance to classrooms and stronger relevance to learning disorders](educational-neuroscience-criticisms-limits.md) — related

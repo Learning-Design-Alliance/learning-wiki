@@ -13,7 +13,7 @@ generated:
 # Decision-Making
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 10 claims (5 for, 5 mixed) · 16 studies (5 causal, 4 theoretical, 3 review, 2 quant-synthesis, 1 associational, 1 design), `q1`–`q4` · 1 of 16 report an effect size · 6 claims rest on one study
+> **Evidence** · 11 claims (6 for, 5 mixed) · 17 studies (6 causal, 4 theoretical, 3 review, 2 quant-synthesis, 1 associational, 1 design), `q1`–`q4` · 1 of 17 report an effect size · 7 claims rest on one study
 
 ## Description
 Decision-making as an instructional element places learners at a genuine choice point within a structured activity: they must weigh options, justify a selection, and experience the consequences of that selection. Rather than being told the correct course of action, learners construct the reasoning that connects evidence, constraints, and goals to a commitment — making the quality of reasoning, not just the choice itself, the object of instruction.
@@ -58,6 +58,7 @@ Decision-making tasks support learning because they require learners to actively
 - [All three instructional groups began at comparable, mostly low decision-making levels and all improved over the intervention](../claims/all-groups-improved-from-low-baseline.md) [+W]
 - [Reflective strategies such as cognitive forcing, pre-commitment, and uncertainty communication reduce overreliance on AI and improve decision quality, but have been evaluated only as short-term single-session interventions](../claims/reflective-strategies-short-term-only-evidence.md) [~W]
 - [Decision quality collapses toward the majority action in severely imbalanced settings](../claims/decision-collapse-severely-imbalanced-settings.md) [~W]
+- [All three facets of decision-making competence improved from pre- to post-intervention at the omnibus level](../claims/omnibus-improvement-decision-making-competence.md) [+W]
 
 ## The evidence by question
 - *Does instruction built around making and justifying decisions improve learners' decision-making, and which form of it does most?* [All three instructional groups began at comparable, mostly low decision-making levels and all improved over the intervention](../claims/all-groups-improved-from-low-baseline.md) [+M]

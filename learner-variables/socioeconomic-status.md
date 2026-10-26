@@ -13,7 +13,7 @@ generated:
 # Socioeconomic Status
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 139 claims (84 show a difference, 35 mixed, 20 no difference) · 109 studies (61 associational, 22 causal, 13 review, 8 quant-synthesis, 3 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 10 of 109 report an effect size · 138 claims rest on one study
+> **Evidence** · 143 claims (85 show a difference, 37 mixed, 21 no difference) · 111 studies (63 associational, 22 causal, 13 review, 8 quant-synthesis, 3 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 10 of 111 report an effect size · 142 claims rest on one study
 
 ## How to read this page
 
@@ -224,6 +224,10 @@ A learner's economic and social position: family income or poverty (often measur
 - [Average educational achievement at age 12 increases with parental SES in the Netherlands](../claims/dutch-twin-ea-increases-with-parental-ses.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [SES differences in educational achievement persist after accounting for polygenic score differences between children](../claims/ses-ea-differences-persist-after-pgs-adjustment.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Economic disadvantage is associated with lower performance on most early numeracy and EF measures](../claims/eypp-eligibility-lower-ef-and-numeracy-scores.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Genetic variance in educational performance decreases with increasing school SES, partly independent of parental SES](../claims/school-ses-gene-environment-interplay.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [No SES × gender, SES × birth month, gender × birth month, or three-way interactions on pre-academic abilities at age 3](../claims/no-interactions-ses-gender-birth-month-preacademic.md) [-M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Non-shared environmental variance in educational performance decreases with increasing school SES, but this moderation appears attributable to parental SES](../claims/nonshared-env-decreases-school-ses.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [School quality does not moderate genetic and shared-environmental influences on educational performance once moderation by school SES and parental SES is considered](../claims/school-quality-no-moderation-gene-env.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## The evidence by question
 - *Does family income predict achievement and attainment, how large are the gaps, and when do they open?* [School test score averages are strongly related to the income of the families a school serves](../claims/school-test-scores-strongly-related-to-family-income.md) [+M]

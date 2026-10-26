@@ -51,6 +51,7 @@ The genetic (developmental) method is Vygotsky's historically based methodology 
 
 - [Study cognition with methods that allow real-world AI use, including longitudinal designs tracking self-regulation formation](../strategies/research-methods-ai-present-cognition.md)
 - [Pursue SCT-L2 research on L2 as a psychological tool, the teaching-learning dialectic, Dynamic Assessment, and comparative theory work](../strategies/sct-l2-research-avenues-strategy.md)
+- [Theory-guided methodological practices for developmental neuroimaging: theory-based age groups, parametric task design, and process-analytical inference](../strategies/theory-guided-developmental-neuroimaging-methods.md)
 
 ## Key Sources
 - Karimi-Aghdam, S., & Lantolf, J. P. (2020). Dialectical Emergence of Language and Consciousness in Society: An Interview with Professor James P. Lantolf. The Journal of Applied Linguistics and Applied Literature: Dynamics and Advances, 8(2), 3-21. https://eric.ed.gov/?id=ED610078

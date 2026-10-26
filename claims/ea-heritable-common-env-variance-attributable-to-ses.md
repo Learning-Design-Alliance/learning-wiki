@@ -52,3 +52,5 @@ Classical univariate twin model on the total sample: MZ and DZ twin correlations
 - [Under phenotypic assortment NTFD models, parental education shows no environmental effect on offspring educational attainment once genetic influences are accounted for](parental-education-no-environmental-effect-pa-models.md) — related
 - [A Classical Twin Design model of educational attainment in the TwinLife sample estimates shared environmental influence at 43% and additive genetic influence at 34%](ctd-ea-ace-twinlife-43-c.md) — related
 - [Average educational achievement at age 12 increases with parental SES in the Netherlands](dutch-twin-ea-increases-with-parental-ses.md) — related
+- [Environmental factors such as social support modulate classic individual-difference findings, including delay of gratification and heritability estimates](environmental-factors-modulate-individual-difference-findings.md) — related
+- [School quality does not moderate genetic and shared-environmental influences on educational performance once moderation by school SES and parental SES is considered](school-quality-no-moderation-gene-env.md) — related

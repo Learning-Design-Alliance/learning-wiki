@@ -72,3 +72,4 @@ Table 1 entry for Jacob et al. (2019a), a preschooler SRL training study (n = 23
 - [Strategy Instruction Improves Academic Performance](strategy-instruction-improves-academic-performance.md) — related
 - [Self-regulated learning improves achievement](self-regulated-learning-improves-achievement.md) — related
 - [Supplemental first-grade interventions for ELLs improved phonological and word-level skills but not comprehension, with comprehension gains emerging at one-year follow-up](ell-early-reading-intervention-word-level-gains.md) — related
+- [Training executive function shows mixed effects: near transfer in children without far transfer, near and far transfer in adults, and no causal evidence that EF training improves academic achievement](ef-training-mixed-transfer-and-achievement.md) — related

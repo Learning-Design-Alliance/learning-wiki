@@ -77,10 +77,12 @@ The technique operationalizes [Assessment for Learning](../principles/assessment
 6. Periodically vary the prompt (see Implementation Variability) to prevent ritual fatigue.
 
 ## Related Strategies
+
 - [3-2-1 Reflection](3-2-1_reflection.md) — a broader exit-ticket format that includes muddiest-point-style items among structured prompts
 - [One-Minute Paper](one-minute-paper.md) — the parent technique; muddiest point is its most focused variant
 - [Check-In](../elements/check-in.md) — a lighter affective counterpart that gauges learner state rather than content confusion
 - [Exit Tickets](exit-ticket.md) — the general family of end-of-class written checks; muddiest point is the confusion-focused variant
+- [Instructors foster metacognition through reflection on process, direct immediate feedback, and taught study habits](foster-metacognition-reflection-feedback-study-habits.md)
 
 ## Examples
 - **Mosteller's statistics course (Harvard)** — the original report: Mosteller used muddiest-point cards in an introductory statistics lecture course and adjusted each subsequent lecture to the collected responses, reporting strong student approval at negligible time cost.

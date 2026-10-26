@@ -73,3 +73,4 @@ In Experiment 3 of the prior-knowledge article, familiarity and rated imageabili
 - The five passage attributes are significantly intercorrelated, with imagery, interest, and linkage highly correlated — related
 - [Interest-evoking text revision strategies raised fourth and sixth graders' recall of a history passage but not acquisition of abstract, general information](interest-evoking-strategies-recall-history-passage.md) — related
 - [Prior knowledge correlates negatively with delayed ICL and ECL and positively with delayed GCL, consistent with meta-analytic findings](prior-knowledge-correlates-with-load-types.md) — related
+- [Rated topic familiarity is only modestly related to technical passage comprehensibility](topic-familiarity-modest-comprehension-relation.md) — related

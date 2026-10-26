@@ -55,3 +55,4 @@ The article asserts this in its scenario on supporting basic skills development,
 - [AI in adult education risks reinforcing existing inequalities via the digital divide, particularly for rural, low-income, and marginalized learners](ai-digital-divide-reinforces-inequality.md) — related
 - [Advanced technology's hyperinteractivity can intensify social inequality in education](hyperinteractivity-can-intensify-inequality.md) — possibly the same claim (merge candidate)
 - [Existing health equity frameworks often lack implementation guidance and treat equity as distributive rather than addressing how inequity is produced](equity-frameworks-lack-implementation-guidance.md) — related
+- [Individual trainings alone are unlikely to overcome the impact of broader inequities on student outcomes](individual-trainings-unlikely-overcome-structural-inequities.md) — related

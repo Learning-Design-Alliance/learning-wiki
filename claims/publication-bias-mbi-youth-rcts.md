@@ -59,3 +59,4 @@ Begg's funnel plots and Egger's regressions conducted for each meta-analysis. Th
 - [Funnel-plot asymmetry indicates small-study effects for some emotion–learning models](funnel-plot-asymmetry-emotion-learning-models.md) — related
 - [Publication bias was significant for the overall DT analysis but not for the fluency, flexibility, or originality indicator analyses](publication-bias-overall-dt.md) — related
 - [No evidence of publication bias was found in the achievement goal–dishonesty literature](no-publication-bias-goal-dishonesty.md) — related
+- [Large-scale RCTs show school mindfulness training does not benefit overall well-being or social-emotional functioning and can harm those most at risk](mindfulness-rcts-no-benefit-possible-harm.md) — related

@@ -87,3 +87,4 @@ Student interview excerpt in the theme simulation can support inquiry learning a
 - [Students perceive diversity in learning—varied content, outdoor and technology-supported approaches, and physical activity—as essential to fun in learning](diversity-in-learning-fun-element.md) — related
 - [Digital tools complemented hands-on investigations by providing opportunities not possible in the classroom and letting children easily practice what they learned in hands-on activities.](nico-nor-digital-tools-complement-hands-on.md) — related
 - [Virtual labs showed a limitation in helping students transfer what they learned from teacher demonstration to new inquiry contexts](virtual-lab-transfer-from-demonstration-limited.md) — related
+- [Post-program surveys show most students felt more likely to pursue STEM, more comfortable in university labs, and found the program appropriately challenging](discovery-survey-attitudes-comfort-pursuit.md) — related

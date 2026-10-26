@@ -50,3 +50,4 @@ A 4-level (second-, fourth-, sixth-year students, internists) experiment with tw
 ## Related Claims
 - [In Experiment 2, the proportion of fault (pathophysiological) statements decreased monotonically with expertise regardless of probe](fault-statements-decrease-expertise.md) — related
 - [In Experiment 1, model concepts increase monotonically with expertise while detailed biomedical concepts show an inverted U, confirming knowledge encapsulation](model-concepts-increase-detailed-inverted-u.md) — related
+- [Activation changes non-monotonically over three readings of technical passages, consistent with a shift from semantic to executive processing](repetition-activation-inverted-u.md) — related

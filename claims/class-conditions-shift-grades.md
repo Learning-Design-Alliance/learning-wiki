@@ -87,3 +87,4 @@ Table 2c coefficients (relative to algebra I) show grades particularly low in ad
 - [Higher weights on assessments shrank, but did not eliminate, the gender difference in final grades, because young women were more often in classes weighting assessments heavily](assessment-weights-shrank-gender-grade-gap.md) — related
 - [Poor attendance occurs throughout the school day and across subjects; first period is most often missed but missing it does not explain overall truancy](truancy-throughout-day-not-subject-specific.md) — related
 - [Time of day shows no significant effect on students' situation-specific engagement once subject, teacher, and day of week are controlled](no-time-of-day-effect-on-situational-engagement.md) — related
+- [Attendance patterns indicate students were substantially more engaged in Discovery sessions than in regular classes](discovery-attendance-exceeds-class-attendance.md) — related

@@ -18,7 +18,7 @@ moved_from: [principle/self-determination-theory]
 # Self-Determination Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 96 claims (69 for, 25 mixed, 2 against) · 63 studies (23 associational, 13 review, 11 causal, 7 quant-synthesis, 6 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 15 of 63 report an effect size · 90 claims rest on one study
+> **Evidence** · 97 claims (70 for, 25 mixed, 2 against) · 64 studies (23 associational, 13 review, 12 causal, 7 quant-synthesis, 6 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 16 of 64 report an effect size · 91 claims rest on one study
 
 ## Description
 Self-Determination Theory (SDT) explains motivation in terms of the degree to which behavior is experienced as autonomous, competent, and socially connected. Developed by Edward Deci and Richard Ryan, the theory argues that learners are more likely to engage deeply and persist when three basic psychological needs are supported: autonomy, competence, and relatedness.
@@ -151,6 +151,7 @@ These tactics are not unconditionally beneficial, however. Offering choice can h
 - [Students' motivation in physical education combines into three distinct profiles: self-determined, non self-determined, and moderate levels of both types](../claims/three-motivational-profiles-pe-cluster-analysis.md) [+W] — attached 2026-10-25 from Julie Boiché et al. (2008), which proposed "Self-Determination Theory's taxonomy of intrinsic and extrinsic motivation types as combinable motivational profiles".
 - [The self-determined motivational profile is related to the best level of achievement in physical education](../claims/self-determined-profile-best-achievement-pe.md) [+W] — attached 2026-10-25 from Julie Boiché et al. (2008), which proposed "Self-Determination Theory's taxonomy of intrinsic and extrinsic motivation types as combinable motivational profiles"; tests this page's relationship.
 - [Reduced autonomous motivation experienced during a graded task mediates the effect of grading on subsequent performance-avoidance goal adoption](../claims/autonomous-motivation-mediation-grading-avoidance.md) [+W] — attached 2026-10-25 from Pulfrey et al. (2011), which proposed "Self-determination theory's perceived-locus-of-causality framework as the mechanism linking grading to avoidance goals"; tests this page's relationship.
+- [Children in the active condition report higher perceived autonomy than yoked children, and autonomy predicts posttest learning](../claims/diy-increases-perceived-autonomy-which-predicts-learning.md) [+W]
 
 ## The evidence by question
 

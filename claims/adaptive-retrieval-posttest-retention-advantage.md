@@ -57,3 +57,4 @@ Univariate ANCOVA on the seven-week posttest (parallel 14-item multiple-choice f
 - [Adaptive fading with periodic reinforcement yields higher independence than fixed-high or linear-decay scaffolding in simulation](adaptive-fading-beats-fixed-and-linear-scaffolding.md) — related
 - [Educational YouTube videos about ChatGPT fall into three structurally distinct discourse groups: learning-oriented scaffolding (G1), skill-building retrieval practice (G2), and output/productivity orientation (G3)](three-chatgpt-youtube-discourse-groups.md) — related
 - [Exploratory ANCOVA controlling for mastery probability favored the adaptive condition, but is not interpretable as a causal treatment effect](mastery-probability-covariate-ancova-favors-adaptive.md) — related
+- [Seminar group membership remained a significant predictor of improvement after controlling for pretest scores (η²p = 0.075)](seminar-ancova-group-effect.md) — related

@@ -56,3 +56,4 @@ Moderator analysis of academic risk status in Meta-Analysis 1: "Academic risk st
 - [Developmental stage moderates the mind-set–achievement correlation, which is nonsignificant for adults](developmental-stage-moderates-mindset-correlation.md) — related
 - [Effect sizes linking growth mind-set to achievement are highly heterogeneous and often nonsignificant](mindset-achievement-heterogeneity-high.md) — related
 - [Sample characteristics (immigrant/minority status, L2 status, age) show no significant moderator effects, and several program and delivery features are also nonsignificant](flp-nonsignificant-moderators.md) — related
+- [Growth mindset beliefs are positively associated with academic achievement in nearly all nations, with stronger associations among structurally disadvantaged students](growth-mindset-achievement-association-global.md) — reports the opposite

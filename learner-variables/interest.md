@@ -13,7 +13,7 @@ generated:
 # Interest
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 199 claims (146 show a difference, 32 mixed, 21 no difference) · 137 studies (51 causal, 38 associational, 18 review, 12 design, 7 quant-synthesis, 6 theoretical, 5 qualitative), `q1`–`q4` · 35 of 137 report an effect size · 193 claims rest on one study
+> **Evidence** · 204 claims (149 show a difference, 33 mixed, 22 no difference) · 138 studies (52 causal, 38 associational, 18 review, 12 design, 7 quant-synthesis, 6 theoretical, 5 qualitative), `q1`–`q4` · 36 of 138 report an effect size · 198 claims rest on one study
 
 ## Description
 Interest is a learner's attraction to a topic. Research separates individual interest, a lasting disposition a learner brings, from situational interest, which material or activity sparks in the moment and which can grow into individual interest over time. Interest is measured by self-report, choice and persistence. It predicts attention, depth of processing and course choice, it moderates the effect of materials (seductive details catch interest without helping learning), and it is an outcome of designs that show relevance or give learners choice. It is a narrower case of [motivation](motivation.md).
@@ -234,6 +234,11 @@ Interest is a learner's attraction to a topic. Research separates individual int
 - [Teacher invitations to generate ideas and formulate new questions (T:IND, T:ID) were not identified as curiosity antecedents in the network analysis](../claims/teacher-invitation-moves-not-curiosity-antecedents.md) [-M] — instruction changes it
 - [Teacher revoicing with uncertainty (T:RV) predicted student curiosity in second grade but not in third grade](../claims/revoicing-uncertainty-triggers-curiosity-grade-limited.md) [~M] — instruction changes it
 - [Teacher utterances conveying information (T:GI) predict student curiosity in both second and third grade KB classrooms](../claims/teacher-information-utterances-trigger-curiosity.md) [+M] — instruction changes it
+- [Reward cues and delay conditions did not influence participants' interest ratings, confirming the independence of the reward manipulation from interest](../claims/reward-did-not-influence-interest-ratings.md) [-M] — instruction changes it
+- [Rewards attenuated forgetting for low-interest clips when cued before stimuli but for high-interest clips when cued after, per the forgetting-rate analysis](../claims/forgetting-rate-reward-timing-interaction.md) [+M] — an instructional effect differs with it
+- [Rewards decreased the interest effect on memory when cued before clips but increased it when cued after clips, at 1 day but not 10 minutes](../claims/reward-timing-interest-effect-direction.md) [~M] — an instructional effect differs with it
+- [When reward cues follow stimuli, rewards improve memory for high-interest clips at 1 day, increasing the interest effect (additive effect)](../claims/post-clip-reward-enhances-high-interest-memory.md) [+M] — an instructional effect differs with it
+- [When reward cues precede stimuli, rewards improve memory for low-interest clips at 1 day, decreasing the interest effect (undermining effect)](../claims/pre-clip-reward-enhances-low-interest-memory.md) [+M] — an instructional effect differs with it
 
 ## The evidence by question
 - *Does seeing a task as interesting, important or useful raise the effort learners invest in it?* [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](../claims/task-value-increases-motivation-and-engagement.md) [+M]
