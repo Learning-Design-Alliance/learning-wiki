@@ -59,3 +59,4 @@ Experiment 1 assigned 96 first graders quasi-randomly to four training condition
 - [Greater mathematics content in a practice test improves subsequent mathematics performance by a small amount (~2% of a standard deviation per hour of practice)](math-practice-test-improves-math-performance-small-effect.md) — related
 - [Non-symbolic training improves collection comparison at ratios 1:2, 2:3 and 3:4, while symbolic training improves only ratio 1:2](nonsymbolic-training-improves-collection-comparison-ratios.md) — related
 - [Children can learn the meanings of novel number symbols through an artificial symbol learning paradigm, performing above chance on a subsequent symbolic comparison task](children-learn-novel-symbols-artificial-paradigm.md) — related
+- [Infants possess two core numerical systems—approximate magnitude representation and precise tracking of small sets—that underpin later mathematical competencies](core-numerical-systems-underpin-math.md) — related

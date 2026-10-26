@@ -58,3 +58,4 @@ Editorial analysis (critical essay, no empirical dataset reported) countering th
 - [The editorial reports the squib's argument that ambitious learning practices can empower students, support shared meaning-making, and potentially disrupt social inequality](ambitious-learning-practices-argument.md) — related
 - [Individual trainings alone are unlikely to overcome the impact of broader inequities on student outcomes](individual-trainings-unlikely-overcome-structural-inequities.md) — related
 - [The ISEE Assessment finds that meritocracy as the great equalizer perpetuates educational, social and economic exclusion and proposes shifting from static merit-based assessment to potentiality](meritocracy-creates-hereditary-meritocracy-exclusion.md) — related
+- [Assessments like PISA-VET risk reinforcing inequalities in VET if underlying socioeconomic inequities are unaddressed](pisa-vet-equity-risk.md) — a narrower finding that bears on this claim

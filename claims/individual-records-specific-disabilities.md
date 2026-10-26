@@ -54,3 +54,4 @@ Case analysis of one grade VII boy's Cleveland Survey Arithmetic Tests performan
 - [Comparison with standard scores suggested three groupings of pupils with distinct instructional needs](three-groupings-from-standard-scores.md) — a broader claim this one bears on
 - [Adults with dyslexia are slower than controls on single-digit arithmetic, with a larger multiplication-minus-subtraction reaction-time difference, even after controlling digit identification speed](dyslexia-slower-single-digit-arithmetic-rt.md) — related
 - [In arithmetic practice tests, pupils carry the previous operation's mental set into the next examples, and a supplementary lesson in shifting processes improves both accuracy and speed](operation-set-carryover-arithmetic-courtis.md) — related
+- [When the other operation is not controlled, subtraction models include left IPS and multiplication models include right AG](control-models-include-ips-and-ag.md) — related

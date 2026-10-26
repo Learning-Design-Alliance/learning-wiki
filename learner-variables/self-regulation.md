@@ -13,7 +13,7 @@ generated:
 # Self-Regulation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 195 claims (134 show a difference, 36 mixed, 25 no difference) · 140 studies (38 causal, 37 associational, 33 review, 13 quant-synthesis, 10 theoretical, 6 qualitative, 3 design), `q1`–`q4` · 27 of 140 report an effect size · 186 claims rest on one study
+> **Evidence** · 196 claims (135 show a difference, 36 mixed, 25 no difference) · 141 studies (39 causal, 37 associational, 33 review, 13 quant-synthesis, 10 theoretical, 6 qualitative, 3 design), `q1`–`q4` · 28 of 141 report an effect size · 187 claims rest on one study
 
 ## Description
 Whether a learner can plan, monitor and adjust without the structure being supplied for them. It decides whether a multi-week deliverable survives without scaffolding and pacing support. The finding that matters most for design is that self-monitoring is unreliable by default: learners judge fluency rather than learning, and confident misjudgement is the normal case rather than the exception [-M]. So the design job is supplying the external signal, not exhorting reflection.
@@ -244,6 +244,7 @@ Whether a learner can plan, monitor and adjust without the structure being suppl
 - [Metacognitive prompts foster metacognitive strategy use and improve transfer performance, with self-directed prompt effects lasting at least three weeks](../claims/metacognitive-prompts-transfer-effects.md) [+M] — instruction changes it
 - [Training effects are selective: active control improved processing efficiency but not executive function, and uni/multimodal interventions improved executive function but not processing efficiency](../claims/selective-transfer-active-control-processing-efficiency.md) [~M] — instruction changes it
 - [Uni- and multimodal interventions improve executive function (switch cost) relative to active control](../claims/multimodal-training-improves-executive-function-switch-cost.md) [+M] — instruction changes it
+- [Metacognitive chatbot feedback raises metacognitive sensitivity relative to affective and neutral feedback](../claims/chatbot-metacognitive-feedback-raises-metacognitive-sensitivity.md) [+M] — instruction changes it
 
 ## The evidence by question
 - *Does a learner's self-regulation predict achievement, and how strongly?* [Self Regulated Learning Predicts Achievement](../claims/self-regulated-learning-predicts-achievement.md) [+S]

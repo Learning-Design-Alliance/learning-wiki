@@ -52,3 +52,4 @@ Case-control comparison of 12 DD and 12 matched control children (selected from 
 - [Spatial processing is preserved but slower in developmental dyscalculia, with slow trail-making and mental rotation speed attributed to WM/inhibition impairment](dd-spatial-processing-preserved-but-slow.md) — related
 - [Visuo-spatial working memory and inhibition jointly predict mathematics performance in 9–10-year-old children](visuospatial-wm-inhibition-predict-maths.md) — related
 - [In pure developmental dyscalculia with normal reading and verbal IQ, verbal short-term and working memory are intact](pure-dd-verbal-memory-intact.md) — related
+- [Predicted arithmetic scores correlate with visuospatial working memory but show poor correlation with verbal working memory](arithmetic-model-correlates-visuospatial-wm.md) — related

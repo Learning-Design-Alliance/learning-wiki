@@ -56,3 +56,4 @@ Repeated measures ANOVA on approximate addition accuracy with ratio (4:5, 4:6, 4
 - [Characteristic distance effects occur in both nonsymbolic and symbolic single-digit approximate addition](distance-effect-single-digit-approximate-addition.md) — related
 - [Response times in number comparison show group, notation, and ratio main effects, with a larger ratio effect for dot arrays than Arabic numerals](number-comparison-response-time-anova-effects.md) — related
 - [Performance on the newly learned symbols shows canonical ratio effects, consistent with mapping novel symbols onto Approximate Magnitude System representations](novel-symbol-ratio-effects-ams-mapping.md) — related
+- [Infants possess two core numerical systems—approximate magnitude representation and precise tracking of small sets—that underpin later mathematical competencies](core-numerical-systems-underpin-math.md) — related

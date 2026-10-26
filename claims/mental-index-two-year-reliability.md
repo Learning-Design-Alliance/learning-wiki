@@ -71,3 +71,4 @@ The same 46-case retest study found lower correspondence for absolute achievemen
 - [Between-term score correlations are moderate and lowest for Phonological Awareness](spanish-foundational-skills-between-term-correlations.md) — related
 - [Teachers' estimates show the highest single-measure correlation with the Stanford Revision (.72, 60 cases)](teachers-estimates-highest-correlation-stanford-revision.md) — related
 - [Rankings from a battery of eight group class tests corresponded closely with Yerkes Scale rankings, with an overall correlation of r = .80 across the 88 class-tested cases](class-tests-rankings-correlate-with-yerkes-scale.md) — related
+- [The tendency to follow advice shows good test-retest reliability across two sessions (~0.73), behaving as a stable trait-like bias](advice-following-test-retest-reliability.md) — related

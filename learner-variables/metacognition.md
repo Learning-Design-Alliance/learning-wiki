@@ -13,7 +13,7 @@ generated:
 # Metacognition
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 134 claims (87 show a difference, 29 mixed, 18 no difference) · 97 studies (39 causal, 17 associational, 14 review, 11 theoretical, 7 quant-synthesis, 7 qualitative, 2 design), `q1`–`q4` · 28 of 97 report an effect size · 133 claims rest on one study
+> **Evidence** · 135 claims (88 show a difference, 29 mixed, 18 no difference) · 98 studies (40 causal, 17 associational, 14 review, 11 theoretical, 7 quant-synthesis, 7 qualitative, 2 design), `q1`–`q4` · 29 of 98 report an effect size · 134 claims rest on one study
 
 ## Description
 Metacognition is knowing about and managing one's own cognition. It has two sides: knowledge (what a learner knows about how they learn, what they do and do not understand, and which strategies suit a task) and regulation (planning an approach, monitoring progress and comprehension, and adjusting when it is not working). It is usually measured by self-report inventories of strategy awareness, by parent and teacher rating scales, and by comparing a learner's confidence judgements with their actual performance (calibration).
@@ -176,6 +176,7 @@ It overlaps heavily with [self-regulation](self-regulation.md), of which monitor
 - [Two versions of a retrieval-practice intervention left students with equal declarative metacognitive knowledge about retrieval practice, which declined over three weeks regardless of version](../claims/declarative-knowledge-no-version-difference-declines.md) [+M] — instruction changes it
 - [Direct metacognitive instruction improves learning strategies and achievement, with largest effects when strategy instruction is combined with strategy knowledge, longer duration, and in mathematics](../claims/metacognitive-instruction-effects-meta-analyses.md) [+M] — instruction changes it
 - [Metacognitive prompts foster metacognitive strategy use and improve transfer performance, with self-directed prompt effects lasting at least three weeks](../claims/metacognitive-prompts-transfer-effects.md) [+M] — instruction changes it
+- [Metacognitive chatbot feedback raises metacognitive sensitivity relative to affective and neutral feedback](../claims/chatbot-metacognitive-feedback-raises-metacognitive-sensitivity.md) [+M] — instruction changes it
 
 ## Measures
 - **Behavior Rating Inventory of Executive Function (BRIEF)** (Gioia et al., 2000): parent and teacher questionnaires whose metacognition index covers ages 5 to 18.

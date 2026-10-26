@@ -66,6 +66,7 @@ Structured recess leverages the fact that social skills and self-regulation are 
 - [Cooperative Learning](../patterns/cooperative-learning.md) — the same group-reward and individual-accountability logic applied to playground games rather than academic tasks
 - [Social-Emotional Learning Integration](../strategies/social-emotional-learning-integration.md) — recess as a practice field for SEL competencies taught in the classroom
 - [Guide students in organized activities during recess and improve the recess play yard to raise physical activity, especially for girls](organized-recess-activities-yard-improvements-strategy.md)
+- [School and community sports programs that maintain healthy weight may support children's academic performance](school-weight-maintenance-programs-academic-performance.md)
 
 ## Related Elements
 - [Modeling](../elements/modeling.md) — coaches demonstrate games and dispute resolution before students run them independently

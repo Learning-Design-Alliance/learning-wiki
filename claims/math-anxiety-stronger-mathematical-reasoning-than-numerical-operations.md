@@ -75,3 +75,4 @@ Sensitivity analysis collapsing the "Very Nervous" and "Very Very Nervous" ratin
 - [Math anxiety correlates strongly and negatively with mathematics achievement among third graders](math-anxiety-negative-correlation-third-graders.md) — a broader claim this one bears on
 - [Math Reasoning is more strongly correlated with reading comprehension than Numerical Operations is, and the two math measures are highly correlated](mr-reading-correlation-stronger-than-no.md) — related
 - [Mathematics achievement correlates more strongly with learners' knowledge, skills and cognitive abilities than with their personality traits, goals or emotions](math-achievement-relates-more-to-knowledge-and-abilities-than-personality.md) — a broader claim this one bears on
+- [Math anxiety negatively correlates with math performance, controlling for general anxiety and word task performance](math-anxiety-underperformance-partial-correlation-daker-2023.md) — related

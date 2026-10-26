@@ -52,3 +52,4 @@ Experiment 1 (n = 551, MTurk) randomly assigned participants to 1, 2, 5, or 12 t
 - [Performance improvements during early motor skill learning occur predominantly during short rest periods (micro-offline gains), replicated in a large crowdsourced sample and in a laboratory study](micro-offline-gains-replicated-crowdsourced.md) — related
 - [Halving practice-period duration from 10 s to 5 s leaves micro-offline gains unchanged, arguing against recovery from motor fatigue](micro-offline-gains-independent-of-practice-duration.md) — related
 - [Micro-offline gains are inconsistent with a dominant contribution of latent motor slowing, supporting consolidation as their driver](micro-offline-gains-support-consolidation-not-fatigue-recovery.md) — related
+- [Early learning of an implicit motor sequence is accounted for by micro-offline gains during brief rest periods rather than by gains during active practice](implicit-sequence-micro-offline-gains.md) — related

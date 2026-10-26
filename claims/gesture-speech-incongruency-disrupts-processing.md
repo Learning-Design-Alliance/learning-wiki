@@ -50,3 +50,4 @@ The review reports, citing Kandana Arachchige et al. (2021), that "Gesture–spe
 - [Flanker task produces congruency effects in reaction time and accuracy in twelve-year-old children](flanker-congruency-effects-twelve-year-olds.md) — related
 - [Semantically congruent iconic gestures improve L2 vocabulary retention relative to meaningless or incongruent gestures](iconic-congruent-gestures-improve-retention.md) — related
 - [Both text incongruency and knowledge inaccuracy produce increased reading times on target sentences](incongruency-accuracy-reading-time-effects.md) — related
+- [Congruent observation reduces error (overall d = -1.71) while incongruent observation increases error (overall d = 1.19)](congruent-versus-incongruent-observation-directional-effects.md) — related

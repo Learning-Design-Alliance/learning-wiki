@@ -54,3 +54,5 @@ Preregistered three-level multilevel meta-analysis (metafor rma.mv) of studies r
 - [Only 15% of published polygenic score estimates for education come from non-European ancestry samples, all recruited in the US](eurocentric-sample-base-pgs-education-research.md) — related
 - [Educational attainment polygenic scores are positively associated with childhood visual acuity, while myopia polygenic scores show a negative association](ea-pgs-positive-childhood-visual-acuity.md) — a narrower finding that bears on this claim
 - [Education and cognitive-ability polygenic scores significantly predict verbal ability, with the education PGS far more robust](pgs-predict-verbal-ability.md) — related
+- [College completion prevalence differs hugely between the top and bottom deciles of the polygenic score distribution (60% versus 10%)](pgs-decile-college-completion-gap.md) — related
+- [A polygenic score for educational attainment explains about 15% of individual differences in out-of-sample prediction among people of European descent, with a correlation of approximately 0.4 with outcomes](pgs-educational-attainment-15-percent-out-of-sample.md) — related

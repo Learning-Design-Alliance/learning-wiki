@@ -67,3 +67,6 @@ The review reports that Shin et al. (2020) compared logistic regression, support
 - [Students not on track for college enrollment and persistence can be classified with about 90 percent accuracy using a small set of predictors](college-offtrack-classified-90-percent-accuracy.md) — related
 - [Random Forest reaches CV F1 = 0.924 on the psychographic survey dataset, but the article presents this only as a localized exploratory pilot](random-forest-survey-pilot-f1-0924.md) — a narrower finding that bears on this claim
 - [Random-forest models trained on a prior semester showed significantly lower AUC when tested on a new semester's data without retraining](cross-semester-auc-decline-without-retraining.md) — related
+- [Adding student attributes and autoregression improves prediction accuracy, with GP-α (τ = 1) reaching 0.711 accuracy and 0.757 F1.](attributes-autoregression-improve-response-prediction.md) — related
+- [Machine-learning classifiers predict full student response to teacher communication in autism classrooms above random and major-class baselines.](ml-predicts-student-response-autism-communication.md) — related
+- [Unsupervised time-series clustering identifies low performers more accurately than SVM or decision-tree classifiers trained on two temporal statistics](unsupervised-clustering-beats-feature-classifiers.md) — related

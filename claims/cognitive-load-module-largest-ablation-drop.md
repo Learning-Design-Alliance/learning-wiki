@@ -60,3 +60,4 @@ Ablation study on four datasets (Table 3) comparing full LT-MKT with w/o CL, w/o
 - [Ablations show the trustworthiness module contributes most to performance, and the explanation generator cuts human review time by 41%](ablation-trust-module-largest-contribution.md) — related
 - Removing unsupervised pre-training hurts performance across all tasks, causing a 14.8% decrease relative to the full model — related
 - [Removing any ProPRL component reduces F1 on all three datasets, with multi-hop propagation having the largest overall impact](proprl-ablation-components-contribute.md) — related
+- [Omitting the teacher's communication strategy causes the greatest drop in classifier accuracy, marking communication choice as the most impactful feature category.](communication-strategy-most-impactful-ablation.md) — related

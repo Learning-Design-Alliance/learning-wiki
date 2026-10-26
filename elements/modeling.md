@@ -13,7 +13,7 @@ generated:
 # Modeling
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 16 claims (9 for, 7 mixed) · 14 studies (8 causal, 4 review, 1 associational, 1 theoretical), `q1`–`q3` · 4 of 14 report an effect size · 13 claims rest on one study
+> **Evidence** · 18 claims (9 for, 9 mixed) · 15 studies (8 causal, 4 review, 1 quant-synthesis, 1 associational, 1 theoretical), `q1`–`q3` · 5 of 15 report an effect size · 15 claims rest on one study
 
 ## Description
 Modeling is the instructional element in which an instructor, expert, or advanced peer demonstrates expert thinking and behavior — making both the actions and the reasoning behind them visible. It functions as the observational entry point to skill acquisition: learners study a competent performance, including its decision points and self-monitoring, before producing their own attempts.
@@ -66,6 +66,8 @@ Modeling provides structured exposure to expert-level reasoning, reducing the un
 - [Self-modeling raised self-efficacy for learning, motivation, and posttest skill among below-grade-level children](../claims/self-modeling-raises-efficacy-and-skill.md) [+W]
 - [Video modeling examples improve hypothesis quality but not argumentation quality in a transfer task](../claims/video-modeling-transfer-hypothesis-not-argumentation.md) [~W]
 - [First-person video modeling examples yield better task performance than third-person videos regardless of expected or task angle, supporting the Embodied Resonance Hypothesis](../claims/first-person-recording-angle-performance-advantage.md) [+W]
+- [Congruent observation reduces error (overall d = -1.71) while incongruent observation increases error (overall d = 1.19)](../claims/congruent-versus-incongruent-observation-directional-effects.md) [~W]
+- [Aftereffects are largely absent after observational practice (overall d = -3.05 favouring physical practice), suggesting inverse but not forward models are updated](../claims/observational-practice-lacks-aftereffects-inverse-models.md) [~W]
 
 ## The evidence by question
 - *Should modelling come before the learner's first attempts?* [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](../claims/worked-examples-with-practice-improve-transfer.md) [+S]

@@ -59,3 +59,4 @@ Narrative synthesis in the review's student-advantages section. The review repor
 - [Students reported satisfaction with the detailed analyses, personalized multi-dimensional recommendations and motivational guidance provided by the AI systems](students-satisfied-with-genai-feedback-quality.md) — related
 - [Providing all students with instant personalised guidance at the same time is a challenge for flipped learning that ChatGPT-FLGA was designed to address](flipped-learning-personalised-guidance-gap.md) — a narrower finding that bears on this claim
 - [AI chatbots provide students detailed feedback, step-by-step homework solutions, and self-quizzing support](chatbot-homework-study-assistance.md) — related
+- [Mobile devices enable just-in-time adaptive interventions that flexibly adapt support to students' changing internal and contextual states](jitai-just-in-time-mobile-support.md) — related

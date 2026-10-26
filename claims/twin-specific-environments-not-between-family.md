@@ -53,3 +53,4 @@ NTFD decomposition of the shared environment in the TwinLife sample, contrasting
 - [Under phenotypic assortment NTFD models, parental education shows no environmental effect on offspring educational attainment once genetic influences are accounted for](parental-education-no-environmental-effect-pa-models.md) — related
 - [Educational achievement is highly heritable, and the common environmental variance is attributable to SES effects](ea-heritable-common-env-variance-attributable-to-ses.md) — related
 - [Genetic and environmental variance components of educational achievement decrease with increasing parental SES](genetic-environmental-variance-decrease-with-ses.md) — related
+- [Twin and adoption studies suggest that 50–80% of IQ variation is due to genetic differences, with the range reflecting population heritability](iq-variation-50-80-percent-genetic.md) — related

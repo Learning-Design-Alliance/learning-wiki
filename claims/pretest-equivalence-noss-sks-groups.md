@@ -58,3 +58,4 @@ Independent samples t-test on pre-test scores in the quasi-experimental study (n
 - [High and low CT groups showed comparable prior coding knowledge before the AICA intervention](comparable-prior-knowledge-high-low-ct.md) — related
 - [Model-estimated mixture weights show no detectable difference between control and experimental groups in Study 2](study2-mixture-weights-no-group-difference.md) — related
 - [Pretest LSAT scores did not differ reliably between seminar and control groups](seminar-pretest-no-reliable-difference.md) — related
+- [Metacognitive and affective chatbot feedback each produce higher retention scores than neutral feedback, with no significant difference between metacognitive and affective groups](chatbot-metacognitive-affective-feedback-boost-retention.md) — a narrower finding that bears on this claim

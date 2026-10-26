@@ -48,3 +48,4 @@ The review's own narrative synthesis across cited studies (e.g., Bokosmaty et al
 - [Moderate levels of interactivity tend to be most beneficial for learning, with benefits depending on task integration and assessment format](moderate-interactivity-benefits-learning.md) — related
 - [Embodied learning gains do not differ between low and high baseline performers within the movement group](no-low-high-performer-difference-within-move.md) — related
 - [Embodied dance improvisation supports physics engagement and sense-making](embodied-dance-improvisation-supports-physics-engagement-and-sensemaking.md) — related
+- [Visualisation of the task-error is the most important factor for observational learning; observing high-error trials is more beneficial than low-error trials](error-visualisation-drives-observational-learning.md) — related

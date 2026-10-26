@@ -52,3 +52,4 @@ Three-week longitudinal experiment (N=1364, census-representative U.S. sample) w
 - [A majority of users choose sycophantic AI over neutral and challenging alternatives, citing feeling understood and ease of conversation rather than advice quality](users-choose-sycophantic-ai-over-alternatives.md) — related
 - [AI companions are frictionless and sycophantic, lacking the corrective feedback that real relationships provide](sycophantic-ai-companions-lack-corrective-feedback.md) — related
 - [Teachers' most common concern is that agreeable AI companions remove the developmental friction through which adolescents learn to sustain human relationships](agreeable-companions-remove-developmental-friction.md) — related
+- [Advice framed as social information holds greater causal influence than an identical non-social cue (a lottery wheel)](social-framing-of-advice-increases-compliance.md) — related

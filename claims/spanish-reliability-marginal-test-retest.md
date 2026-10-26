@@ -80,3 +80,4 @@ Test-retest reliability with alternate forms across consecutive windows (Table 4
 - [Measurement precision is strongest for students in the middle of the Spanish score distribution, with CSEM near the 3.3 RIT target](spanish-csem-middle-deciles-most-precise.md) — related
 - [Reliability estimates vary by region and instrument, with ARS showing α/ω = 0.90 and ABS α/ω = 0.82, and the evidence base geographically uneven](regional-instrument-reliability-variation.md) — related
 - [Learning patterns are moderately stable over months but changeable, and more stable in constant than in changing educational contexts](learning-pattern-stability-moderate-but-changeable.md) — related
+- [The tendency to follow advice shows good test-retest reliability across two sessions (~0.73), behaving as a stable trait-like bias](advice-following-test-retest-reliability.md) — related

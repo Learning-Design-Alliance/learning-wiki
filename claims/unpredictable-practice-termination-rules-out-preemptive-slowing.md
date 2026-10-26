@@ -50,3 +50,5 @@ Experiment 4: 71 participants trained 41 trials with randomized 5–10 s practic
 - [Micro-offline gains are inconsistent with a dominant contribution of latent motor slowing, supporting consolidation as their driver](micro-offline-gains-support-consolidation-not-fatigue-recovery.md) — a broader claim this one bears on
 - [A single 10-second practice trial of motor skill A produces micro-offline generalization, with performance at the onset of skill B exceeding the end of skill A](one-trial-micro-offline-generalization-early-motor-skill.md) — related
 - [General skill learning appears to occur during rest periods, but fatigue release cannot be excluded as an explanation](general-skill-learning-offline-fatigue-caveat.md) — reports the opposite
+- [A preceding bout of HIIT exercise does not influence micro-consolidation of an implicit motor sequence learned in close temporal proximity to exercise](hiit-does-not-modify-micro-consolidation.md) — related
+- [Early learning of an implicit motor sequence is accounted for by micro-offline gains during brief rest periods rather than by gains during active practice](implicit-sequence-micro-offline-gains.md) — related

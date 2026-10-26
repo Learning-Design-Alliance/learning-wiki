@@ -56,3 +56,4 @@ Narrative review synthesis ordering non-symbolic comparison studies by participa
 - [Measures of the magnitude representation (ratio and distance effects) do not discriminate children with DD from matched controls](dd-magnitude-representation-theory-not-supported.md) — reports the opposite
 - [Anthropomorphic explanations appear in older children but less frequently, with only a minority of 14-year-olds' fuse explanations anthropomorphic](anthropomorphic-explanations-lessen-with-age.md) — related
 - [Training effects on spatial language comprehension and verbal number skills tended to appear in younger rather than older children](age-moderates-training-effects.md) — related
+- [Infants possess two core numerical systems—approximate magnitude representation and precise tracking of small sets—that underpin later mathematical competencies](core-numerical-systems-underpin-math.md) — related

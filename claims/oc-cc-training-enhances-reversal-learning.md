@@ -1,0 +1,74 @@
+---
+type: claim
+title: Both Obstacle Course and Control Course training enhance cognitive flexibility, reducing sessions needed for reversal learning in pairwise visual discrimination
+description: Both Obstacle Course and Control Course training enhance cognitive flexibility, reducing sessions needed for reversal learning in pairwise visual discrimination
+id: oc-cc-training-enhances-reversal-learning
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-26
+evidence_strength: moderate
+newest_evidence: 2022
+sources:
+  - id: gattas-2022
+    resource: "https://doi.org/10.1038/s41539-022-00134-x"
+    title: "Gattas, S., Collett, H. A., Huff, A. E., Creighton, S. D., Weber, S. E., Buckhalter, S. S., Manning, S. A., Ryait, H. S., McNaughton, B. L., & Winters, B. D. (2022). A rodent obstacle course procedure controls delivery of enrichment and enhances complex cognition. npj Science of Learning. https://doi.org/10.1038/s41539-022-00134-x"
+    author: "Gattas, S., Collett, H. A., Huff, A. E., Creighton, S. D., Weber, S. E., Buckhalter, S. S., Manning, S. A., Ryait, H. S., McNaughton, B. L., & Winters, B. D."
+    q: 2
+    i: 3
+    kind: causal
+    rigour: 2
+  - id: gattas-2022-2
+    resource: "https://doi.org/10.1038/s41539-022-00134-x"
+    title: "Gattas, S., Collett, H. A., Huff, A. E., Creighton, S. D., Weber, S. E., Buckhalter, S. S., Manning, S. A., Ryait, H. S., McNaughton, B. L., & Winters, B. D. (2022). A rodent obstacle course procedure controls delivery of enrichment and enhances complex cognition. npj Science of Learning. https://doi.org/10.1038/s41539-022-00134-x"
+    author: "Gattas, S., Collett, H. A., Huff, A. E., Creighton, S. D., Weber, S. E., Buckhalter, S. S., Manning, S. A., Ryait, H. S., McNaughton, B. L., & Winters, B. D."
+    q: 2
+    i: 3
+    kind: causal
+    rigour: 2
+---
+
+# Both Obstacle Course and Control Course training enhance cognitive flexibility, reducing sessions needed for reversal learning in pairwise visual discrimination
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q2` · `i3` large
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
+
+## Subclaims
+`q2 i3` OC and CC groups required significantly fewer sessions than the SH group to reach reversal criterion (80% accuracy on two successive sessions). [→ Gattas 2022](#gattas-2022)
+`q2 i3` The OC group showed significantly higher accuracy than the SH group on reversal session five. [→ Gattas 2022 (2)](#gattas-2022-2)
+
+## Evidence
+
+### Gattas 2022
+
+Gattas, S., Collett, H. A., Huff, A. E., Creighton, S. D., Weber, S. E., Buckhalter, S. S., Manning, S. A., Ryait, H. S., McNaughton, B. L., & Winters, B. D. (2022). A rodent obstacle course procedure controls delivery of enrichment and enhances complex cognition. npj Science of Learning. https://doi.org/10.1038/s41539-022-00134-x
+
+`q2 · i3` · `causal · r2`
+
+Touchscreen pairwise visual discrimination task with reversal in the four-group design (n = 40). Independent samples t-tests revealed significant differences between the OC and SH groups, t(18) = −6.104, p < 0.001, and the CC and SH groups, t(18) = −5.273, p < 0.001.
+
+> "there was a group main effect in the number of sessions to reach criterion (achieving 80% accuracy or higher on two successive sessions), F(3,36) = 12.819, p < 0.001, partial η2 = 0.517"
+
+### Gattas 2022 (2)
+
+Gattas, S., Collett, H. A., Huff, A. E., Creighton, S. D., Weber, S. E., Buckhalter, S. S., Manning, S. A., Ryait, H. S., McNaughton, B. L., & Winters, B. D. (2022). A rodent obstacle course procedure controls delivery of enrichment and enhances complex cognition. npj Science of Learning. https://doi.org/10.1038/s41539-022-00134-x
+
+`q2 · i3` · `causal · r2`
+
+Post hoc analysis of mean group accuracy across the first five reversal sessions showed a session effect, F(3,36) = 61.723, p < 0.001, partial η2 = 0.632, and an effect of group during session 5, F(3,36) = 5.606, p = 0.003, partial η2 = 0.318.
+
+> "Independent sample t-tests revealed that the OC group performed with signi ﬁcantly higher accuracy compared to the SH group on session ﬁve, t(18) = 3.719, p = 0.002"
+
+## Discussion
+
+
+## Learner Variables
+- [Visual Processing](../learner-variables/visual-processing.md) — outcome: instruction changes it
+
+## Related Claims
+- [Obstacle Course enrichment enhances long-term object recognition memory in mice, exceeding the effects of enriched housing at long retention delays](oc-enrichment-enhances-long-term-object-recognition.md) — related
+- [Obstacle Course enrichment enhances cross-modal (tactile-to-visual) object recognition, with only the OC group discriminating at a 1-h delay](oc-enrichment-cross-modal-object-recognition.md) — related
+- [Obstacle Course enrichment enhances object category recognition memory, allowing category discrimination at a 1-h delay without exemplar preexposure](oc-enrichment-enhances-object-category-recognition.md) — related
+- [Obstacle Course enrichment enhances spatial object location memory in mice, outperforming enriched housing with a shortened sample phase](oc-enrichment-enhances-object-location-memory.md) — related
+- [Obstacle Course enrichment supports view-invariant object recognition, with OC mice treating rotated objects as familiar while enriched-housing mice treated them as novel](oc-enrichment-view-invariant-object-recognition.md) — related

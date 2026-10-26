@@ -13,7 +13,7 @@ generated:
 # Scaffolded Inquiry
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 7 claims (5 for, 1 mixed, 1 against) · 17 studies (6 causal, 5 quant-synthesis, 3 review, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 4 of 17 report an effect size · 2 claims rest on one study
+> **Evidence** · 8 claims (5 for, 2 mixed, 1 against) · 18 studies (7 causal, 5 quant-synthesis, 3 review, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 4 of 18 report an effect size · 3 claims rest on one study
 
 ## Description
 Scaffolded inquiry sequences learning tasks so that learners begin with heavily structured investigation — embedded prompts, worked models, and instructor-framed questions — and progressively take over the questioning, reasoning, and design decisions themselves. The instructor's role shifts from directing the inquiry to coaching and eventually observing as learners independently formulate questions, gather evidence, and draw conclusions.
@@ -55,6 +55,7 @@ Scaffolded inquiry resolves the central tension of inquiry learning: open explor
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [The scaffolding intervention unintentionally increased small groups' independent working time, roughly doubling it from premeasurement to postmeasurement](../claims/scaffolding-intervention-increases-independent-working-time.md) [+W]
+- [Learner-leading BtBC is larger under scaffolding; instructor-leading BtBC shows only a trending effect, and instructor-leading BtBC fails to predict learning under explanation](../claims/directional-btbc-exploratory-findings.md) [~W]
 
 ## The evidence by question
 - *Does adding guidance to inquiry improve what learners learn, and does the kind of guidance matter?* [Guidance during inquiry learning improves post-inquiry learning outcomes (d = 0.50)](../claims/guidance-improves-inquiry-learning-outcomes.md) [+M]

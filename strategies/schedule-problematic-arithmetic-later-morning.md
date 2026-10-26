@@ -48,7 +48,8 @@ Winch draws a timetabling recommendation from his three equal-group experiments:
 - [In one very poor neighborhood school the exception occurred: the earlier-working group improved more rapidly than the later-working group](../claims/poor-school-exception-earlier-group-improves-more.md) [-W]
 
 ## Related Strategies
-- 
+
+- [Assess students' chronotype before first year and assign late chronotypes to later school timings, and schedule math in the last hours of morning school days](chronotype-informed-timing-and-subject-scheduling.md)
 
 ## Examples
 -

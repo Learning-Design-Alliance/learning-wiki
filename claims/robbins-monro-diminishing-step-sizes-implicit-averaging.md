@@ -49,3 +49,4 @@ Analytical statement from the Preface and Introduction of the monograph, attribu
 - [For tracking time-varying systems, the step size is kept strictly away from zero](constant-step-size-tracking-nonstationary-systems.md) — related
 - [Many learning algorithms, including neural network training and Q-learning, have recursive forms of the stochastic approximation type](learning-algorithms-stochastic-approximation-recursive-forms.md) — related
 - [Iterate averaging with step sizes decreasing slower than O(1/n) converges at an optimal rate](polyak-juditsky-iterate-averaging-optimal-rate.md) — a narrower finding that bears on this claim
+- [A central objective is designing paradigms and analyses that utilize meaningful interindividual variability and distinguish it from noise](meaningful-interindividual-variability-analysis.md) — related

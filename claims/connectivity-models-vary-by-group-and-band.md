@@ -67,3 +67,4 @@ Post-hoc comparison within the L+R− group of model AUCs; the authors report al
 - [Frontal lateralization of classification-model activity differs by tDCS group: reversed (left-dominant) alpha-band lateralization after L+R− and reduced left prefrontal beta-band engagement after L−R+](frontal-lateralization-shifts-after-tdcs.md) — related
 - [The relationship between RSD and CRA reaction time differs by tDCS group: U-shaped under Sham, monotonically decreasing under L−R+, and no clear relationship under L+R−](rsd-rt-relationship-varies-by-tdcs-group.md) — related
 - [tDCS over the bilateral IFG does not change overall CRA convergent-thinking performance compared across stimulation groups](tdcs-bilateral-ifg-no-overall-cra-change.md) — related
+- [HD-tDCS facilitated and enhanced training-induced increases in frontal task-related theta, alpha, beta, and gamma power](tdcs-enhances-task-related-eeg-power-gains.md) — related

@@ -136,3 +136,4 @@ Pashler, H., Cepeda, N. J., Wixted, J. T., & Rohrer, D. (2005). When does feedba
 - [Immediate knowledge of results during computerized achievement testing produces essentially no systematic differences in achievement estimates or response dimensionality](knowledge-of-results-no-effect-achievement-test-dimensionality.md) — reports the opposite
 - [ManyClasses study found no effect of delayed versus immediate feedback or study incentives across 38 classrooms](manyclasses-no-feedback-timing-incentive-effect.md) — related
 - [Learning through feedback, especially when corrective, significantly boosts learning efficiency](corrective-feedback-boosts-learning-efficiency.md) — a broader claim this one bears on
+- [Feedback moderates the role of WMC in the testing effect, reducing WM load for low-WMC learners](feedback-as-wm-aid-for-retrieval-practice.md) — a narrower finding that bears on this claim

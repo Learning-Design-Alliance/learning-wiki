@@ -51,3 +51,4 @@ A by-items linear regression in Experiment 1 predicted the proportion of partici
 - [Accuracy on approximate addition decreases as ratio approaches 1, with a stronger ratio effect on the non-symbolic task](ratio-effect-approximate-addition.md) — related
 - [Characteristic distance effects occur in both nonsymbolic and symbolic single-digit approximate addition](distance-effect-single-digit-approximate-addition.md) — related
 - [Preschoolers' ANS task performance follows Weber's Law: accuracy decreases as numerical ratio approaches equality, and improves with age over six months](ans-performance-webers-law-ratio-dependence.md) — a broader claim this one bears on
+- [Infants possess two core numerical systems—approximate magnitude representation and precise tracking of small sets—that underpin later mathematical competencies](core-numerical-systems-underpin-math.md) — related

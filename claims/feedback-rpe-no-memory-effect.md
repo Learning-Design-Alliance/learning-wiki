@@ -50,3 +50,4 @@ One-sample and paired-samples t-tests on feedback RPE slopes in 79 participants 
 - [The overall main effect of prediction error on recognition memory, independent of prediction outcome, is not significant](overall-pe-main-effect-null.md) — related
 - [Group-by-RPE interaction in the anterior insula without a general group effect in overall activation](ains-group-by-rpe-interaction-omnibus.md) — related
 - [Adolescents show increased anterior insula responses specifically to negative reward prediction errors](adolescent-ains-increased-negative-rpe-response.md) — related
+- [Pairing tVNS with feedback after correct responses does not enhance speech category learning, suggesting the enhancement is not driven by a reward signal](tvns-enhancement-not-reward-driven.md) — related

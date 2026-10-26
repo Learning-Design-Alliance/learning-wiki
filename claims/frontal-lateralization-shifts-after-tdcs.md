@@ -66,3 +66,4 @@ Mixed ANOVA on weighted frontal degrees across beta-band models; the quote repor
 ## Related Claims
 - [EEG functional-connectivity classification models of CRA correctness differ by tDCS group and frequency band, with alpha-band models underperforming beta-band models specifically in the L+R− group](connectivity-models-vary-by-group-and-band.md) — related
 - [tDCS over the bilateral IFG does not change overall CRA convergent-thinking performance compared across stimulation groups](tdcs-bilateral-ifg-no-overall-cra-change.md) — related
+- [HD-tDCS facilitated and enhanced training-induced increases in frontal task-related theta, alpha, beta, and gamma power](tdcs-enhances-task-related-eeg-power-gains.md) — related

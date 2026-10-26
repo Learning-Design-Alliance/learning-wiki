@@ -12,7 +12,7 @@ generated:
 # Bioecological Model of Human Development
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 36 claims (20 for, 15 mixed, 1 against) · 31 studies (16 associational, 7 review, 5 quant-synthesis, 3 theoretical), `q1`–`q3` · 5 of 31 report an effect size · 34 claims rest on one study
+> **Evidence** · 37 claims (21 for, 15 mixed, 1 against) · 32 studies (16 associational, 7 review, 5 quant-synthesis, 4 theoretical), `q1`–`q3` · 5 of 32 report an effect size · 35 claims rest on one study
 
 ## Description
 Urie Bronfenbrenner's bioecological model holds that human development results from **proximal processes** — "stimulating, regular face-to-face interactions over extended periods with people, objects, or symbols" (Bronfenbrenner, 1994) — that realize a person's biological, psychological, and social potential. A parent shaping a child through parenting behaviors, modeling, and encouragement is a proximal process. Development is **transactional and bidirectional**: children affect their immediate contexts as much as contexts affect children — insecurely attached children are more emotionally demanding, and language-delayed children elicit less verbal exchange from adults.
@@ -77,6 +77,7 @@ The model also emphasizes **experience**: "the scientifically relevant features 
 - [Classmate cognitive engagement, but not classmate behavioral or emotional engagement, predicts individual momentary engagement profile membership](../claims/classmate-cognitive-engagement-predicts-profile-membership.md) [~W]
 - [Student-teacher closeness, conflict and dependency, students' motivation, and academic achievement inform each other across the elementary grades](../claims/transactional-relations-motivation-relationships-achievement-k6.md) [+W]
 - [Environmental factors such as social support modulate classic individual-difference findings, including delay of gratification and heritability estimates](../claims/environmental-factors-modulate-individual-difference-findings.md) [+W]
+- [Development is understood through bidirectional circular causality across levels rather than a unidirectional gene-to-brain-to-behavior path](../claims/circular-causality-across-developmental-levels.md) [+W]
 
 ## The evidence by question
 - *Is closer parent involvement in a child's schooling associated with better student outcomes, and does the form of involvement matter?* [Parent involvement is associated with higher academic achievement in meta-analyses of mostly correlational studies](../claims/parent-involvement-improves-achievement.md) [+M]

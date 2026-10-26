@@ -13,7 +13,7 @@ generated:
 # Reading and Language
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 226 claims (144 show a difference, 36 mixed, 46 no difference) · 153 studies (45 associational, 37 causal, 31 quant-synthesis, 25 review, 8 theoretical, 4 design, 3 qualitative), `q1`–`q4` · 37 of 153 report an effect size · 217 claims rest on one study
+> **Evidence** · 233 claims (146 show a difference, 40 mixed, 47 no difference) · 154 studies (46 associational, 37 causal, 31 quant-synthesis, 25 review, 8 theoretical, 4 design, 3 qualitative), `q1`–`q4` · 38 of 154 report an effect size · 224 claims rest on one study
 
 ## Description
 What a learner can read without effort, and whether the language of instruction is the one they think in. LVN's largest factor family — decoding, vocabulary, fluency, composition, disciplinary literacy and language of instruction all sit here. The load-bearing fact is that decoding which is not automatic spends the same budget comprehension needs, so a reading problem presents as a thinking problem [+S].
@@ -277,6 +277,13 @@ What a learner can read without effort, and whether the language of instruction 
 - [Language dominance interacts with vocabulary size and alerting ability in predicting model-brain alignment in L2 readers](../claims/language-dominance-interacts-expertise-l2-alignment.md) [~M] — learners who differ on it differ in outcomes
 - [Linguistic abilities shape model-brain alignment in both groups, whereas attentional abilities predict alignment only for L2 readers](../claims/expertise-attention-divergent-effects-alignment.md) [+M] — learners who differ on it differ in outcomes
 - [Reading accuracy correlates positively with model-brain alignment in language ROIs, and alignment in left PTG and AG predicts out-of-sample reading accuracy](../claims/alignment-predicts-reading-accuracy-language-rois.md) [+M] — learners who differ on it differ in outcomes
+- [Both simultaneous multilinguals and multilingual learners make faster educational progress than monolinguals between ages 11 and 16](../claims/multilingual-faster-educational-progress-11-16.md) [+M] — learners who differ on it differ in outcomes
+- [Cognitive differences mediate multilingual attainment advantages only in cross-sectional models and only for simultaneous multilinguals, so educational benefits are largely decoupled from cognitive differences](../claims/cognitive-skills-limited-mediator-of-multilingual-advantage.md) [~W] — learners who differ on it differ in outcomes
+- [Cross-sectional cognitive differences favour simultaneous multilinguals but disappear for multilingual learners after adjustment](../claims/cross-sectional-cognitive-differences-language-status.md) [~W] — learners who differ on it differ in outcomes
+- [Multilingual learners show lower attainment at age 11 but reach higher attainment than monolinguals by age 16](../claims/ml-catchup-attainment-ages-11-16.md) [~M] — learners who differ on it differ in outcomes
+- [Multilingual status shows no effect on cognitive development from age 12 to 14, whereas SES and ethnicity predict cognitive change](../claims/no-multilingual-effect-cognitive-development-12-14.md) [-M] — learners who differ on it differ in outcomes
+- [SES and ethnicity are confounded with multilingual status and associated with attainment and cognitive outcomes in UK adolescent samples](../claims/ses-ethnicity-confounds-multilingualism-studies.md) [~W] — learners who differ on it differ in outcomes
+- [Simultaneous multilinguals show a small but reliable educational attainment advantage over monolinguals at ages 11 and 16 in UK adolescents](../claims/sm-attainment-advantage-ages-11-16.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does a learner's oral language and vocabulary predict how well they come to read and understand texts?* [A 1997 conference paper reports, citing Sticht, a positive correlation between preschool oral language skills and later reading achievement](../claims/oral-language-predicts-reading-achievement.md) [+W]

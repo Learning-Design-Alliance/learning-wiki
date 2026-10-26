@@ -68,3 +68,4 @@ The article's stated prediction from its hypothesis: while only small and non-si
 - [ANS acuity correlates with later number sets fluency but does not emerge as a unique predictor once symbolic knowledge is controlled](ans-acuity-not-unique-predictor-of-number-sets.md) — related
 - [ANS acuity improves throughout development, from w = 0.525 at age 3 to w = 0.179 at age 6 and w = 0.108 in adulthood](ans-acuity-improves-throughout-development.md) — related
 - [Measures of the magnitude representation (ratio and distance effects) do not discriminate children with DD from matched controls](dd-magnitude-representation-theory-not-supported.md) — related
+- [Infants possess two core numerical systems—approximate magnitude representation and precise tracking of small sets—that underpin later mathematical competencies](core-numerical-systems-underpin-math.md) — related

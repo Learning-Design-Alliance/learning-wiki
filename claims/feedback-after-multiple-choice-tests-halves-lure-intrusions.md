@@ -67,3 +67,4 @@ The chapter reports studies where students restudied correct answers after multi
 - [Having more multiple-choice alternatives benefits later retention when initial retrieval success is high but hurts learning when it is low](effect-of-more-multiple-choice-alternatives-depends-on-initial-retrieval-success.md) — related
 - [Partial resolution of curiosity through immediate feedback increases subsequent curiosity](immediate-feedback-partial-resolution-increases-curiosity.md) — related
 - [Retrieval practice mostly increases susceptibility to misinformation (retrieval-enhanced suggestibility)](retrieval-practice-increases-misinformation-susceptibility.md) — related
+- [Feedback moderates the role of WMC in the testing effect, reducing WM load for low-WMC learners](feedback-as-wm-aid-for-retrieval-practice.md) — related

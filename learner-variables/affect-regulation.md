@@ -13,7 +13,7 @@ generated:
 # Affect Regulation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 191 claims (140 show a difference, 34 mixed, 17 no difference) · 124 studies (45 associational, 25 causal, 23 review, 10 qualitative, 9 quant-synthesis, 8 theoretical, 4 design), `q1`–`q4` · 29 of 124 report an effect size · 185 claims rest on one study
+> **Evidence** · 196 claims (142 show a difference, 36 mixed, 18 no difference) · 125 studies (46 associational, 25 causal, 23 review, 10 qualitative, 9 quant-synthesis, 8 theoretical, 4 design), `q1`–`q4` · 30 of 125 report an effect size · 190 claims rest on one study
 
 ## Description
 What a learner does with frustration, anxiety and failure while the work is still in front of them. It decides whether a hard check needs a recoverable framing and how failure is surfaced. Anxiety is not only unpleasant — it consumes the same working memory the task needs, so it degrades performance through a mechanism entirely separate from motivation [-M]. Naming an emotion measurably reduces its grip, which is why the strategies here look unexpectedly linguistic.
@@ -231,6 +231,11 @@ What a learner does with frustration, anxiety and failure while the work is stil
 - [Emotion regulation difficulties are reliably associated with maladaptive trajectories including non-suicidal self-injury, aggression, bullying, and social withdrawal in at-risk adolescents](../claims/er-difficulties-maladaptive-trajectories-at-risk-adolescents.md) [+M] — learners who differ on it differ in outcomes
 - [Math anxiety is associated with decreased grade performance in high school math classes before any intervention is introduced](../claims/math-anxiety-associated-with-decreased-high-school-math-grades.md) [+M] — learners who differ on it differ in outcomes
 - [The math-anxiety grade effects were specific to math anxiety: trait anxiety and test anxiety showed no interactions with intervention group or quarter](../claims/grade-effects-specific-to-math-anxiety-not-other-anxiety.md) [+M] — an instructional effect differs with it
+- [For high-HF-HRV math-anxious individuals, underperformance must occur for reasons unrelated to in-the-moment anxiety](../claims/high-hf-hrv-underperformance-non-anxiety-mechanism.md) [~W] — an instructional effect differs with it
+- [HF-HRV does not moderate the link between math anxiety and math performance](../claims/hf-hrv-does-not-moderate-performance-link.md) [-W] — an instructional effect differs with it
+- [HF-HRV moderates the link between math anxiety and in-the-moment anxiety, but self-report emotion regulation measures do not](../claims/hf-hrv-moderates-state-anxiety-link.md) [~M] — an instructional effect differs with it
+- [Math anxiety negatively correlates with math performance, controlling for general anxiety and word task performance](../claims/math-anxiety-underperformance-partial-correlation-daker-2023.md) [+M] — learners who differ on it differ in outcomes
+- [Math-related state anxiety mediates about one-third of the math anxiety-performance link](../claims/state-anxiety-mediation-partial-explanation.md) [+W] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 

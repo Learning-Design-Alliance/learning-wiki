@@ -21,6 +21,7 @@ A publicly released repository containing 506 behavioral sessions from 268 parti
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 - **Openly released behavioral dataset and analysis code for the practice-vs-rest learning study**: The article releases all data and all code for the three experiments online in a public repository. The data availability statement reads: "All data (https://github.com/romquentin/Learning_during_practice_and_rest) are available online", and the code availability statement says "All codes (https://github.com/romquentin/Learning_during_practice_and_rest) are available online." The dataset covers 506 behavioral sessions from 268 healthy young volunteers across the SRT and ASRT experiments. (Romain Quentin et al. (2021))
+- **De-identified behavioural data and analysis code released for the implicit micro-consolidation study**: The article releases the study's supporting materials: "De-identiﬁed behavioural data are available at [https://osf.io/4e3xr/]" and "All code used for analysis is available at [ https://github.com/jhendrikse/micro_consolidation]". These artefacts allow reuse of the behavioural dataset and reproduction of the exponential-function learning modelling, sliding-average micro-scale decomposition, and Bayesian t-test analyses described in the statistical analysis section. (Emily Brooks et al. (2024))
 
 ### Claims
 
@@ -32,3 +33,4 @@ A publicly released repository containing 506 behavioral sessions from 268 parti
 
 ## Key Sources
 - Romain Quentin, Lison Fanuel, Mariann Kiss, Marine Vernet, Teodóra Vékony, Karolina Janacsek, Leonardo G. Cohen and Dezso Nemeth. (2021). Statistical learning occurs during practice while high-order rule learning during rest period. npj Science of Learning 6:14. https://doi.org/10.1038/s41539-021-00093-9
+- Emily Brooks, Sarah Wallis, Joshua Hendrikse & James Coxon. (2024). Micro-consolidation occurs when learning an implicit motor sequence, but is not influenced by HIIT exercise. npj Science of Learning. https://doi.org/10.1038/s41539-024-00238-6

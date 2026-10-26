@@ -13,7 +13,7 @@ generated:
 # Prompts
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 38 claims (13 for, 21 mixed, 4 against) · 40 studies (18 causal, 8 review, 6 quant-synthesis, 4 theoretical, 2 associational, 2 qualitative), `q1`–`q4` · 9 of 40 report an effect size · 32 claims rest on one study
+> **Evidence** · 38 claims (13 for, 21 mixed, 4 against) · 41 studies (19 causal, 8 review, 6 quant-synthesis, 4 theoretical, 2 associational, 2 qualitative), `q1`–`q4` · 9 of 41 report an effect size · 31 claims rest on one study
 
 ## Description
 A prompt is a cue, question, or instruction embedded in a learning task that directs learner attention, elicits a response, or scaffolds a cognitive process at the moment it is needed. Prompts range from simple procedural reminders ("check your units") to elaborative questions ("why does this solution work?") to metacognitive self-questioning stems ("what strategy am I using, and is it working?").
@@ -114,6 +114,7 @@ Prompts work by triggering self-explanations and strategic processing that learn
 - [Revise educational SLM system prompts using the Persona and Context Manager patterns plus cognitive-apprenticeship scaffolding guidelines](../strategies/educational-prompt-patterns-persona-context-manager-apprenticeship.md)
 - [Indirect training: prompting metacognitive regulation in regular subject classes to promote transfer across contexts](../strategies/indirect-training-prompted-metacognitive-regulation.md)
 - [Design CSCL environments to remind learners to think as a group and scaffold cognitive group awareness](../strategies/reminders-group-thinking-and-group-awareness-cscl.md)
+- [Prompt self-generated planning rather than simple reminders to protect student agency and avoid overreliance](../strategies/prompt-self-generated-plans-not-reminders.md)
 
 ## Key Sources
 - Chi, M. T. H., Bassok, M., Lewis, M. W., Reimann, P., & Glaser, R. (1989). Self-explanations: How students study and use examples in learning to solve problems. *Cognitive Science, 13*(2), 145–182. [doi:10.1207/s15516709cog1302_1](https://doi.org/10.1207/s15516709cog1302_1)

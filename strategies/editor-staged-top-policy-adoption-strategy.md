@@ -50,6 +50,7 @@ The article recommends that editors, publishers, and editorial committees at edu
 
 - [Editors and reviewers should reward transparency about limitations so researchers are not incentivized to overstate implications](editors-reward-transparency-about-limitations.md)
 - [Publish an alternative note explaining why data or materials cannot be shared when confidentiality prevents it](alternative-note-for-unshareable-data.md)
+- [Adopt open science practices—data and code sharing, pre-registration, and Registered Reports—to improve reproducibility and replicability](open-science-preregistration-reproducibility.md)
 
 ## Examples
 -

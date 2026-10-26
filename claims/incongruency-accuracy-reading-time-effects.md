@@ -74,3 +74,4 @@ On spill-over sentences (sentence 9), mixed-effects regression showed "spill-ove
 - [Gesture–speech incongruency disrupts multimodal processing, increasing response times and error rates](gesture-speech-incongruency-disrupts-processing.md) — related
 - [Dot Task accuracy decreased from congruent to incongruent to mixed trials, with condition accuracies positively correlated](dot-task-accuracy-gradient-congruent-incongruent-mixed.md) — related
 - [Reading goals do not influence validation processes: no goal × congruency or goal × accuracy interactions on reading times](reading-goals-no-validation-effect-online.md) — related
+- [Congruent observation reduces error (overall d = -1.71) while incongruent observation increases error (overall d = 1.19)](congruent-versus-incongruent-observation-directional-effects.md) — related

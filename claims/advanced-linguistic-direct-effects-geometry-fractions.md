@@ -61,3 +61,4 @@ Longitudinal study of 46 children with Developmental Language Disorder and 122 t
 - [Children with DLD show significantly more weaknesses and fewer strengths across linguistic and cognitive precursors than TD peers, except in verbal reasoning and arithmetic](case-series-weakness-strength-profiles-dld.md) — related
 - [A strength in verbal reasoning partly compensates for geometry and fraction delays in children with DLD at the individual level](verbal-reasoning-strength-compensates-dld-math.md) — related
 - [Early working memory, processing speed, and attentive behavior predict later calculations, word-problem solving, and reading, but nonverbal reasoning is not significantly associated with any outcome](domain-general-predictors-null-nonverbal-reasoning.md) — reports the opposite
+- [In the combined sample, ADHD status showed a small negative correlation with all assessed skills except vocabulary](adhd-negative-correlation-arithmetic-skills.md) — related

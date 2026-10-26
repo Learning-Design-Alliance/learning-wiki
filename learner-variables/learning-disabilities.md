@@ -13,7 +13,7 @@ generated:
 # Learning Disabilities and Developmental Differences
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 117 claims (85 show a difference, 19 mixed, 13 no difference) · 64 studies (35 associational, 10 review, 8 causal, 6 quant-synthesis, 4 theoretical, 1 qualitative), `q1`–`q4` · 11 of 64 report an effect size · 115 claims rest on one study
+> **Evidence** · 118 claims (86 show a difference, 19 mixed, 13 no difference) · 65 studies (36 associational, 10 review, 8 causal, 6 quant-synthesis, 4 theoretical, 1 qualitative), `q1`–`q4` · 12 of 65 report an effect size · 116 claims rest on one study
 
 ## Description
 Identified differences in how a learner learns: specific learning disabilities such as dyslexia and dyscalculia, autism, intellectual disability, and the special educational needs (an IEP in the United States, an EHC plan in England) that formally record them. In the research it appears as a population a design targets, as a moderator (an approach that works differently for these learners), and as a predictor of outcomes. It is distinct from [access](access.md), which is about perceiving and operating the material (sensory and motor impairments, devices); a learner can need both. Attention-related differences such as ADHD sit on [attention](attention.md).
@@ -151,6 +151,7 @@ Identified differences in how a learner learns: specific learning disabilities s
 - [Children with dyscalculia show consistent impairments in symbolic number processing, suggesting symbolic measures as diagnostic markers](../claims/dyscalculia-symbolic-processing-diagnostic-markers.md) [+W] — learners who differ on it differ in outcomes
 - [Groups differed significantly on narrative scores, with only the ASD robot-assisted training group scoring below the TD group](../claims/group-narrative-score-difference-robot-vs-td.md) [+M] — learners who differ on it differ in outcomes
 - [Sharing a dyslexia diagnosis with the child is associated with feeling empowered, while undiagnosed dyslexia is linked to poor self-view and the school-to-prison pipeline](../claims/dyslexia-diagnosis-empowerment-vs-undiagnosed-harms.md) [+W] — learners who differ on it differ in outcomes
+- [In children, lower eye movement consistency correlates with autistic traits specifically in social skills](../claims/eye-movement-consistency-aq-social-skills.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Do learners with disabilities reach lower achievement, graduation and postsecondary outcomes than their peers, by how much, and does it differ by disability type?* [Students with disabilities attained postsecondary readiness and success outcomes at about one half to one third the rate of students without disabilities, the largest difference between any student group and its counterpart](../claims/disability-largest-postsecondary-outcome-gap.md) [+M]

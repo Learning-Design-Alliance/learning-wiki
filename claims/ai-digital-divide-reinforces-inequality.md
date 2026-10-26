@@ -83,3 +83,4 @@ This is a conceptual policy paper drawing on the literature and international po
 - [Computing education has historically excluded marginalized student populations, and large inequities in access persist](computing-education-historic-exclusion-inequity.md) — related
 - [Students identified weaknesses in the AI feedback model: lack of real-time feedback, software/economic access barriers, and occasional incorrect or inconsistent outputs](genai-feedback-weaknesses-realtime-and-errors.md) — related
 - [Adding a listening component to China's college-entrance English exam widened the rural-urban gap in college access by roughly 30 percent, as the article reports citing Li et al.](china-listening-exam-widened-rural-urban-gap.md) — a narrower finding that bears on this claim
+- [Assessments like PISA-VET risk reinforcing inequalities in VET if underlying socioeconomic inequities are unaddressed](pisa-vet-equity-risk.md) — a narrower finding that bears on this claim

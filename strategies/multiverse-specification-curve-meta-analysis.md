@@ -49,7 +49,8 @@ For Analysis Reproducibility (Level 3), the article recommends adopting the mult
 - [Several RECALL effect sizes in the Xie et al. (2018) meta-analysis could not be reproduced, and one reported value (−0.639) is inconsistent with the primary study's data](../claims/xie-2018-recall-effect-sizes-unreproducible.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Adopt open science practices—data and code sharing, pre-registration, and Registered Reports—to improve reproducibility and replicability](open-science-preregistration-reproducibility.md)
 
 ## Examples
 -

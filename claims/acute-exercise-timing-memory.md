@@ -107,3 +107,4 @@ Participants were randomly assigned to one of three groups, and all of them lear
 - [Motor activities combined with high integration and high relevance produce the largest positive effects on memory, per a meta-analysis cited by the review](high-integration-relevance-motor-activity-memory-effects.md) — related
 - [Contrary to predictions, post-practice cardiovascular exercise produced no detectable effect on between-session offline change scores](cve-no-effect-between-session-offline-learning-pd.md) — a narrower finding that bears on this claim
 - [Even a substantially increased declarative-load intervening task placed late in training does not impair the post-rest gain (Experiment 2)](increased-declarative-load-late-no-impairment-experiment-2.md) — related
+- [A preceding bout of HIIT exercise does not influence micro-consolidation of an implicit motor sequence learned in close temporal proximity to exercise](hiit-does-not-modify-micro-consolidation.md) — related

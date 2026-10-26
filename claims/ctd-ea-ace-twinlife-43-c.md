@@ -53,3 +53,4 @@ Model-fitting of a CTD ACE structural equation model to twin-only data from the 
 - [Educational achievement is highly heritable, and the common environmental variance is attributable to SES effects](ea-heritable-common-env-variance-attributable-to-ses.md) — related
 - [Genetic and environmental variance components of educational achievement decrease with increasing parental SES](genetic-environmental-variance-decrease-with-ses.md) — related
 - [Environmental factors such as social support modulate classic individual-difference findings, including delay of gratification and heritability estimates](environmental-factors-modulate-individual-difference-findings.md) — related
+- [Twin and adoption studies suggest that 50–80% of IQ variation is due to genetic differences, with the range reflecting population heritability](iq-variation-50-80-percent-genetic.md) — related

@@ -13,7 +13,7 @@ generated:
 # Motivation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 299 claims (204 show a difference, 65 mixed, 30 no difference) · 219 studies (79 associational, 58 causal, 36 review, 16 theoretical, 14 quant-synthesis, 10 qualitative, 6 design), `q1`–`q4` · 58 of 219 report an effect size · 287 claims rest on one study
+> **Evidence** · 303 claims (207 show a difference, 66 mixed, 30 no difference) · 221 studies (80 associational, 59 causal, 36 review, 16 theoretical, 14 quant-synthesis, 10 qualitative, 6 design), `q1`–`q4` · 59 of 221 report an effect size · 291 claims rest on one study
 
 ## Description
 Whether a learner will spend effort here, and what makes it feel worth spending. It decides whether a page must earn attention before it can teach, and how much open-endedness is tolerable. The honest state of the evidence is that the mechanisms are well supported and the *interventions* are modest — growth-mindset programmes produce small average effects concentrated in specific subgroups [+W], which is a reason to design for motivation rather than to bolt an intervention on.
@@ -349,6 +349,10 @@ Whether a learner will spend effort here, and what makes it feel worth spending.
 - [When reward cues follow stimuli, rewards improve memory for high-interest clips at 1 day, increasing the interest effect (additive effect)](../claims/post-clip-reward-enhances-high-interest-memory.md) [+M] — an instructional effect differs with it
 - [When reward cues precede stimuli, rewards improve memory for low-interest clips at 1 day, decreasing the interest effect (undermining effect)](../claims/pre-clip-reward-enhances-low-interest-memory.md) [+M] — an instructional effect differs with it
 - [A qualitative review reports that AI applications supported learners' attitudes, motivation and self-efficacy in the forethought phase, but self-efficacy gains were inconsistent across studies, and students with initially low self-efficacy often struggled to use the tools](../claims/ai-forethought-phase-mixed-self-efficacy.md) [+M] — instruction changes it
+- [Growth mindset is positively associated with autonomous motivation during COVID-19 home-based learning, controlling for pre-pandemic motivation](../claims/growth-mindset-protects-autonomous-motivation-home-based-learning.md) [+M] — instruction changes it
+- [Parent gender related to adolescents' autonomous motivation during home-based learning, with maternal involvement associated with higher motivation](../claims/parent-gender-associated-with-adolescent-motivation.md) [+M] — instruction changes it
+- [Participants with high achievement motivation showed a learning bias toward goal-relevant stimuli, whereas participants with lower achievement motivation did not](../claims/high-achievement-motivation-learning-bias-simple-slopes.md) [+M] — learners who differ on it differ in outcomes
+- [School burnout negatively predicts autonomous motivation during home-based learning, but does not mediate the mindset-motivation relationship](../claims/school-burnout-predicts-lower-autonomous-motivation-no-mediation.md) [~M] — instruction changes it
 
 ## The evidence by question
 - *Does autonomy-supportive teaching raise motivation and engagement compared with controlling teaching?* [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](../claims/autonomy-supports-intrinsic-motivation.md) [+M]

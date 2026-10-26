@@ -52,3 +52,4 @@ Demonstration with two student cases: Student 1 scored 83.75 academic with an ov
 - [One pilot instructor reported the adaptive proctor differentiated students at multiple proficiency boundaries and decoupled conceptual mastery from computational speed](socratic-test-faculty-differentiation.md) — related
 - [AI chatbots enable flexible personalized learning by adapting teaching strategies to individual student needs](chatbot-flexible-personalized-learning.md) — a broader claim this one bears on
 - [GenAI can provide personalised feedback in group work, but the depth of personalisation is contested](genai-personalised-feedback-contested-depth.md) — related
+- [Mobile devices enable just-in-time adaptive interventions that flexibly adapt support to students' changing internal and contextual states](jitai-just-in-time-mobile-support.md) — related

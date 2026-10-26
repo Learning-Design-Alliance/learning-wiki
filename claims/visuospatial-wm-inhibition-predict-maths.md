@@ -61,3 +61,4 @@ Simultaneous multiple regression on the 24-child sample using averaged visuo-spa
 - [Reading deficits are uniquely associated with phoneme awareness and naming speed, whereas math deficits are uniquely associated with set shifting](disorder-specific-phoneme-naming-set-shifting.md) — related
 - [Spatial processing is preserved but slower in developmental dyscalculia, with slow trail-making and mental rotation speed attributed to WM/inhibition impairment](dd-spatial-processing-preserved-but-slow.md) — related
 - [Working-memory task type moderates MLD deficits: processing speed and updating yield larger effects than inhibition, independent of numerical content](wm-task-type-moderates-mld-deficit.md) — related
+- [Predicted arithmetic scores correlate with visuospatial working memory but show poor correlation with verbal working memory](arithmetic-model-correlates-visuospatial-wm.md) — related

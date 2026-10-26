@@ -38,7 +38,7 @@ grain_size: course, unit
 # Cognitive Apprenticeship
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 28 claims (12 for, 13 mixed, 3 against) · 26 studies (9 causal, 5 quant-synthesis, 4 review, 4 qualitative, 2 associational, 1 design, 1 theoretical), `q1`–`q4` · 3 of 26 report an effect size · 24 claims rest on one study
+> **Evidence** · 29 claims (12 for, 14 mixed, 3 against) · 27 studies (10 causal, 5 quant-synthesis, 4 review, 4 qualitative, 2 associational, 1 design, 1 theoretical), `q1`–`q4` · 3 of 27 report an effect size · 25 claims rest on one study
 
 ## Description and scope
 
@@ -147,6 +147,7 @@ This pattern is general across domains; a clinical round, a writing workshop or 
 - [Active verbal cues from experts most often prompt nonverbal action from novices, often preceding explanatory information](../claims/verbal-cues-prompt-nonverbal-action.md) [~W]
 - [Customized scaffolding (fading/adding) outperforms non-customized scaffolding in PBL-STEM, with fading/adding highest at g = 0.590](../claims/scaffolding-customization-fading-adding-highest.md) [~W]
 - [Expert modeling, feedback, hints, and multiple strategies improve cognitive outcomes, but question prompts show no evident difference from control](../claims/scaffolding-strategy-moderator-question-prompts-null.md) [+W]
+- [Instructor motion is positively associated with BtBC only during scaffolding, not explanation](../claims/instructor-motion-btbc-scaffolding-only.md) [~W]
 
 ## Related Patterns
 - [Four-Component Instructional Design](4cid-four-component-instructional-design.md) — shares the principle of worked examples fading to full tasks; provides more formal scaffolding design rules for complex learning

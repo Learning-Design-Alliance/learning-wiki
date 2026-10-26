@@ -54,3 +54,4 @@ Re-estimated main models testing whether pandemic effects vary by socioeconomic 
 - [PISA mathematics scores declined by an average of 12 points (14.2% of a standard deviation, about 7 months of learning) after COVID-19 school closures](pisa-math-decline-14-percent-sd-covid.md) — related
 - [Each week of full school closure is associated with an additional 0.44-point decline in mathematics achievement](weekly-closure-0-44-point-decline.md) — related
 - [Contrary to the hidden-talents hypothesis, low-SES students scored 18% lower on mathematics items of real-world importance](real-world-math-items-lower-low-ses-scores.md) — related
+- [Assessments like PISA-VET risk reinforcing inequalities in VET if underlying socioeconomic inequities are unaddressed](pisa-vet-equity-risk.md) — related

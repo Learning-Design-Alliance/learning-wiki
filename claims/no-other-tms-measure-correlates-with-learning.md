@@ -48,3 +48,4 @@ Bayesian Pearson correlation matrix (Table 1) covering MEP, SICI, ICF and sICF a
 - [In a Bayesian linear regression, micro-offline-T learning explains a moderate proportion of variance in LICI (R² = 0.69), with moderate evidence for its inclusion](gabab-regression-micro-offline-variance.md) — related
 - [Lower resting GABAB-mediated inhibition in M1 (measured as LICI) is strongly negatively associated with micro-offline motor consolidation gains during early learning](m1-gabab-basal-level-predicts-micro-offline-consolidation.md) — related
 - [The GABAB–micro-offline correlation is significantly stronger than the corresponding GABAA (SICI) correlation](gabab-outperforms-gabaa-micro-offline-correlation.md) — related
+- [The magnitude of micro-online and micro-offline gains is strongly related across participants (r = -0.96 between subjects)](micro-online-offline-tradeoff-correlation.md) — related

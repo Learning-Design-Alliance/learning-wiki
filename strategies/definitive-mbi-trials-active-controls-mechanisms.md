@@ -44,7 +44,8 @@ The review recommends that future evaluations of MBIs for youth move beyond smal
 - [Publication bias is evident for Negative Behaviour and Anxiety/Stress across all RCTs and for Mindfulness in active-control RCTs, suggesting overestimation of MBI effects](../claims/publication-bias-mbi-youth-rcts.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Scale to multisite, large, representative longitudinal samples while complementing them with exploratory small-sample studies](multisite-representative-longitudinal-samples.md)
 
 ## Examples
 -

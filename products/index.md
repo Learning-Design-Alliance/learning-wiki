@@ -2,7 +2,7 @@
 
 Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's.
 
-**1971 entries** · 0 stable · 1971 in review · 0 drafts
+**1976 entries** · 0 stable · 1976 in review · 0 drafts
 
 ---
 
@@ -1165,6 +1165,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Nebraska's AQuESTT Dual State Accountability System](nebraskas-aquestt-dual-state-accountability-system.md) - A state accountability framework operated by the Nebraska Department of Education alongside the federal ESSA accountability system to evaluate and guide Nebraska schools and districts.
 * [Nemo Explain Visualizer (nev)](nemo-explain-visualizer-nev.md) - Nemo Explain Visualizer is a free, open-source web-based visual explanation and debugging tool developed for the Nemo Datalog reasoner, with interactive trace, tree, and fact-table views.
 * [Net.Create](netcreate.md) - Net.Create is a network-visualization platform developed by Craig and colleagues that enables students to co-construct representations of historical events and relationships for collaborative reasoning.
+* [Netherlands Twin Register teacher-rating dataset on self-control, grit, and school performance in 12-year-old twins](netherlands-twin-register-teacher-rating-dataset-on-self-control-grit-and-school-performan.md) - A Netherlands Twin Register dataset of teacher ratings of self-control, grit, and school performance for Dutch 12-year-old twins, created for research on non-cognitive skills, academic performance, and genetic and environmental influences.
 * [Networks for School Improvement (NSI)](networks-for-school-improvement-nsi.md) - A Gates Foundation programme that supports networks of schools in using continuous improvement to improve outcomes for students who are Black, Latino, or experiencing poverty.
 * [Neurone](neurone.md) - Neurone is a web-based platform that supports online inquiry by helping students search texts, select and contextualize snippets, evaluate sources, and compose integrated writing.
 * [NeuroRacer](neuroracer.md) - NeuroRacer is a custom-designed three-dimensional video game developed by Anguera and colleagues that combines perceptual discrimination and visuomotor driving tasks for cognitive-control assessment and training.
@@ -1262,8 +1263,10 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Opening the Doors to College](opening-the-doors-to-college.md) - A Chicago Public Schools Department of Postsecondary Education framework specifying grade-level steps and recommendations for students preparing for college.
 * [OpenLearnLM Benchmark dataset](openlearnlm-benchmark-dataset.md) - OpenLearnLM is an open benchmark dataset created by Unggi Lee et al.
 * [Openly available EEG and behavioral datasets and replicable experimental framework for human-AI interaction studies](openly-available-eeg-and-behavioral-datasets-and-replicable-experimental-framework-for-hum.md) - Khurana et al.'s openly released Kaggle datasets contain raw EEG recordings and behavioral ratings from high-school students who completed AI-assisted problem-solving tasks, supporting reuse in human-AI interaction research.
+* [Openly released behavioral, ROI and raw MRI data from the six merged datasets](openly-released-behavioral-roi-and-raw-mri-data-from-the-six-merged-datasets.md) - Viesel-Nordmeyer et al.
 * [Openly released TTX assessment resources](openly-released-ttx-assessment-resources.md) - A publicly licensed bundle from V.
 * [Openly shared student and teacher measures from the Social Perspective Taking professional development study](openly-shared-student-and-teacher-measures-from-the-social-perspective-taking-professional.md) - Student and teacher measurement instruments from Hunter Gehlbach et al.'s professional-development study, publicly deposited in OSF for reuse and replication.
+* [OpenNeuro ds001486 public arithmetic-processing longitudinal dataset](openneuro-ds001486-public-arithmetic-processing-longitudinal-dataset.md) - OpenNeuro ds001486 is a publicly deposited longitudinal dataset collected by Suárez-Pellicioni et al.
 * [OpenSciEd](openscied.md) - OpenSciEd is a freely available, Creative Commons–licensed middle-school science curriculum developed to address the Next Generation Science Standards.
 * [OpenSciEd lesson-idea dataset of 49 lesson plans and 8820 LLM-simulated student ideas](openscied-lesson-idea-dataset-of-49-lesson-plans-and-8820-llm-simulated-student-ideas.md) - A dataset created by Nguyen et al.
 * [Operation Outbreak](operation-outbreak.md) - Operation Outbreak is a hybrid educational disease-transmission simulation programme that uses a Bluetooth-enabled mobile application and live social interaction to help students investigate contagion and public-health concepts.
@@ -1340,6 +1343,8 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Pirate Math](pirate-math.md) - Pirate Math is a one-to-one mathematics tutoring programme for third-grade students with calculation and word-problem difficulties, delivered through structured sessions using counting-up and missing-number strategies with a treasure-map reward system.
 * [PISA 2018 dataset on intercultural education and student psychosocial outcomes](pisa-2018-dataset-on-intercultural-education-and-student-psychosocial-outcomes.md) - A Programme for International Student Assessment 2018 dataset linking student-, school-, and country-level measures of intercultural education, teacher attitudes, and psychosocial outcomes across 58 countries, produced by the OECD.
 * [PISA 2022 Global Crises Module (GCM) student questionnaire](pisa-2022-global-crises-module-gcm-student-questionnaire.md) - A PISA student questionnaire module administered by the OECD to measure 15-year-old students' learning conditions and experiences during COVID-19 school closures.
+* [PISA-VET](pisa-vet.md) - PISA-VET is an OECD-led large-scale assessment of occupation-specific and employability skills among learners nearing completion of vocational education and training programmes.
+* [PISA-VET dual-domain assessment framework combining occupation-specific and employability skills](pisa-vet-dual-domain-assessment-framework-combining-occupation-specific-and-employability.md) - A proposed PISA-VET assessment framework that evaluates near-completion vocational students across representative occupational skills and transversal employability skills for workforce readiness.
 * [PIVOT](pivot.md) - PIVOT is a three-stage pedagogy-guided generative video tutoring framework developed by Xinchen Ma et al.
 * [Playworks](playworks.md) - Playworks is a school-based programme run by the Playworks nonprofit that places trained full-time coaches in schools to organize inclusive, active play during recess and throughout the school day.
 * [PLEDGE platform](pledge-platform.md) - PLEDGE is Greenfield Learning's online professional-learning platform, where participating educators complete screeners, set goals, access personalized content, and upload application artifacts.

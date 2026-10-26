@@ -51,3 +51,4 @@ Validity check comparing mean propensity for retention of retained versus not-re
 - [Students in the top propensity-for-retention category showed higher gains than students not in the top category](top-retention-propensity-higher-gains.md) — related
 - [Birth month is a significant predictor of retention at all grades, but its connection with achievement is substantial only in the lower primary grades](birth-month-predicts-retention-all-grades.md)
 - [Predictors of retention vary across grades: reading achievement is strongest in lower grades while math increases in importance later, and young-for-grade is the only predictor associated with greater retention probability](retention-predictors-vary-by-grade.md)
+- [First-year grades predict grade retention: 1-point-lower math or language grades are associated with higher odds of repeating a year](grades-predict-grade-retention.md) — related

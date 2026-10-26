@@ -53,3 +53,4 @@ EEG study (Rutman et al.) using a delayed-response task with overlapping face an
 - [Post-hoc finding: P1 latency was increased for attended versus unattended unilateral stimuli, selectively over the ipsilateral ROI](p1-latency-increased-attended-ipsilateral.md) — related
 - [Selective attention reduces encoding of unattended information and induces learned inattention that makes future learning more difficult](selectivity-costs-learned-inattention.md) — related
 - [Perceptual attention and working memory are distinct entities that causally affect each other](wm-perceptual-attention-distinct-entities.md) — related
+- [ERP components in distinct time windows index retrieval attempt and post-retrieval re-encoding](erp-time-windows-retrieval-and-re-encoding.md) — related

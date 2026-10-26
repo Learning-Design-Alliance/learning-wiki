@@ -48,3 +48,4 @@ ANCOVA of the stability platform test showed a significant group effect; "group 
 - [In one 12-week trial, balance and relaxation training did not detectably differ in their effects on cardiorespiratory fitness, Stroop interference, or psychopathological symptoms](no-fitness-executive-symptom-changes.md) — related
 - [Balance and vestibular functioning are impaired in children with ADHD, but evidence is sparse](balance-vestibular-impairment-in-adhd.md) — related
 - [Balance training improves spatial cognition in healthy adults relative to relaxation training](balance-training-improves-spatial-cognition.md) — related
+- [EA training increases the mean frequency of postural fluctuations more than real-error feedback](ea-training-increases-postural-fluctuation-frequency.md) — related

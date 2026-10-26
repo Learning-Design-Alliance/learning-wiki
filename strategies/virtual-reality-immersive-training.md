@@ -105,6 +105,7 @@ Immersion can increase engagement and situational interest, but engagement is no
 - [Structured activity design and moderate realism benefit shared VR learning environments](structured-activity-moderate-realism-vr.md)
 - [Use advanced immersive learning technologies as research and learning tools to deliver developmentally-appropriate metacognitive scaffolding](immersive-tech-metacognitive-scaffolding-strategy.md)
 - [Structure simulator sessions as short introductions followed by repeated task performance with teacher circulation and feedback.](simulator-session-structure-intro-repetition-teacher-circulation.md)
+- [Combine error-amplification visual feedback with balance-based exergaming systems to expedite balance training for older adults, delivered via VR](ea-feedback-vr-exergaming-balance-older-adults.md)
 
 ## Examples
 - **Osso VR** (https://ossovr.com) — hands-on surgical training simulations with performance analytics used in medical device training and residency preparation.
