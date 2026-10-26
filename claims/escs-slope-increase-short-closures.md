@@ -53,3 +53,4 @@ Re-estimated main models testing whether pandemic effects vary by socioeconomic 
 - [National income inequality strengthens the economically based social class test gap (family economic capital)](income-inequality-strengthens-economically-based-gap.md) — related
 - [PISA mathematics scores declined by an average of 12 points (14.2% of a standard deviation, about 7 months of learning) after COVID-19 school closures](pisa-math-decline-14-percent-sd-covid.md) — related
 - [Each week of full school closure is associated with an additional 0.44-point decline in mathematics achievement](weekly-closure-0-44-point-decline.md) — related
+- [Contrary to the hidden-talents hypothesis, low-SES students scored 18% lower on mathematics items of real-world importance](real-world-math-items-lower-low-ses-scores.md) — related

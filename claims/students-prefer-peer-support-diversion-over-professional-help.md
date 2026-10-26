@@ -59,3 +59,4 @@ Qualitative theme 3 asked students what forms of support they consider effective
 - [Digital literacy alone does not guarantee effective digital regulation](digital-literacy-alone-does-not-guarantee-regulation.md) — related
 - [Population-level surveys indicate adolescent digital regulation failures are not rare](hbsc-problematic-social-media-use-prevalence.md) — related
 - [Students experience a rich diversity of academic emotions, with anxiety reported most often (15-25% of reports) but positive emotions described about as often as negative emotions](academic-emotions-rich-diversity-anxiety-most-frequent.md) — related
+- [Emotion regulation difficulties are reliably associated with maladaptive trajectories including non-suicidal self-injury, aggression, bullying, and social withdrawal in at-risk adolescents](er-difficulties-maladaptive-trajectories-at-risk-adolescents.md) — related

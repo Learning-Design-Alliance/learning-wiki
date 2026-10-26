@@ -48,3 +48,4 @@ The review reports, citing Maxwell and Evans, Shield and Dockrell, and Klatte et
 - [In the RANCH study, increasing road traffic noise exposure was associated with enhanced episodic memory, an unexplained counter-intuitive finding](ranch-road-traffic-noise-enhanced-episodic-memory.md) — related
 - [Children are more susceptible than adults to the effects of environmental noise on cognitive performance](children-more-susceptible-to-noise-than-adults.md) — related
 - [Neural coding of consonants in noise strongly predicts phonological processing in 4-year-old pre-readers over and above demographic factors](neural-coding-consonants-noise-predicts-phonological-processing-prereaders.md) — related
+- [Open-plan classroom configurations had significantly higher background noise levels than enclosed configurations, with no reverberation difference](open-plan-classrooms-higher-background-noise.md) — related

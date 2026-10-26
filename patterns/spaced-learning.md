@@ -14,7 +14,7 @@ grain_size: course
 # Spaced Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 67 claims (26 for, 38 mixed, 3 against) · 48 studies (23 causal, 11 review, 7 quant-synthesis, 3 theoretical, 2 design, 1 associational, 1 qualitative), `q1`–`q4` · 14 of 48 report an effect size · 62 claims rest on one study
+> **Evidence** · 68 claims (26 for, 39 mixed, 3 against) · 49 studies (24 causal, 11 review, 7 quant-synthesis, 3 theoretical, 2 design, 1 associational, 1 qualitative), `q1`–`q4` · 14 of 49 report an effect size · 63 claims rest on one study
 
 ## Description
 
@@ -145,6 +145,7 @@ The examples are local design instances, not additional observations from those 
 - [Retention declines with interval (time-dependent forgetting) across images, details, and details-per-image measures](../claims/time-dependent-forgetting-across-intervals.md) [~W]
 - [Halving practice-period duration from 10 s to 5 s leaves micro-offline gains unchanged, arguing against recovery from motor fatigue](../claims/micro-offline-gains-independent-of-practice-duration.md) [~W]
 - [Varying the inter-skill rest interval from 0 to 30 seconds does not modify one-trial generalization from skill A to skill B](../claims/rest-interval-no-impact-one-trial-generalization.md) [~W]
+- [Offline change in general skill between sessions 12 h apart was significant, but between sessions a week apart was not](../claims/long-offline-general-skill-12h-not-week.md) [~W]
 
 ## Examples
 - [Memdora collaborative deck layer](../designs/memdora-collaborative-deck-layer.md) — a teacher's shared deck updates for all followers while each learner's spacing stays individual

@@ -35,7 +35,7 @@ sources:
 # Experiential Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 29 claims (20 for, 9 mixed) · 37 studies (10 causal, 8 quant-synthesis, 7 qualitative, 5 review, 4 theoretical, 2 associational, 1 design), `q1`–`q4` · 7 of 37 report an effect size · 23 claims rest on one study
+> **Evidence** · 31 claims (22 for, 9 mixed) · 39 studies (12 causal, 8 quant-synthesis, 7 qualitative, 5 review, 4 theoretical, 2 associational, 1 design), `q1`–`q4` · 8 of 39 report an effect size · 25 claims rest on one study
 
 ## Conditional relationship
 
@@ -161,6 +161,8 @@ An engaging experience, an immediate skill gain, an explanation, near transfer, 
 - [High school students in a project-based robotics + AI curriculum developed robotics understanding by troubleshooting hardware and operational factors of physical robots](../claims/hardware-troubleshooting-builds-robotics-understanding.md) [+W]
 - [Playful and creative engagement with robots supported students' learning of robotics and AI, including recognizing that robot behavior is driven by sensor data rather than human-like perception](../claims/playful-exploration-supports-robotics-ai-learning.md) [+W]
 - [Included research studies suggest TES with land-based and experiential pedagogies deepens student engagement in post-secondary education](../claims/tes-land-based-experiential-engagement.md) [+W]
+- [Interpersonal feedback improved creativity transfer to novel tasks more than all control conditions](../claims/if-improves-creativity-transfer.md) [+W]
+- [Subjective memory strength is higher for images from experiential than observational learning trials](../claims/memory-strength-higher-experiential.md) [+W]
 
 ## Related Principles
 - [Debriefing](debriefing.md) — a core mechanism for making experience educative

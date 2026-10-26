@@ -60,9 +60,11 @@ Noise competes directly for the same limited resources that [Cognitive Load Mana
 6. **Monitor and adjust.** Re-check conditions seasonally (HVAC changes) and after room reconfigurations; flexible furniture often degrades acoustics silently.
 
 ## Related Strategies
+
 - Chunking and segmenting content — shorter verbal segments reduce the reconstruction burden when conditions are imperfect
 - Captioning and transcripts — redundancy that compensates for degraded audio
 - Quiet-zone scheduling — the temporal complement to physical treatment
+- [Apply acoustic treatment, lowered ceilings and visual barriers when utilising open-plan classroom spaces](acoustic-treatment-and-visual-barriers-for-open-plan-classrooms.md)
 
 ## Examples
 - **Sound-field amplification systems** (e.g., Lightspeed, FrontRow) distribute the teacher's voice evenly; evidence shows modest gains in speech recognition and listening comprehension, strongest in reverberant rooms and for at-risk listeners.

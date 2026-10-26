@@ -35,7 +35,7 @@ sources:
 # Analogical Reasoning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 16 claims (6 for, 10 mixed) · 23 studies (9 causal, 4 review, 4 qualitative, 3 quant-synthesis, 2 associational, 1 design), `q2`–`q4` · 3 of 23 report an effect size · 9 claims rest on one study
+> **Evidence** · 17 claims (6 for, 11 mixed) · 24 studies (9 causal, 5 review, 4 qualitative, 3 quant-synthesis, 2 associational, 1 design), `q2`–`q4` · 3 of 24 report an effect size · 10 claims rest on one study
 
 ## Conditional relationship
 
@@ -134,6 +134,10 @@ For example, an apprentice electrician may want to be able to tell which circuit
 The model should weaken if well-controlled comparisons with comparable learners find no transfer advantage for comparing analogous cases over studying them separately, or find that the advantage disappears at the delay the objective needs. If analogies from a familiar source domain are tested and are found to leave misconceptions that a direct explanation would not, step 1's check and step 5's limits become requirements, not options, or the analogy should be dropped. If comparison keeps changing procedures but not concepts, keep that distinction rather than calling both understanding. If far transfer needs cross-domain comparison, as one study's authors suggest, that is a separate configuration to test. Do not protect the model by calling every transfer failure a retrieval failure or a lack of prior knowledge.
 
 Recognising that a source applies, mapping it correctly, using the principle on a near case, using it in another domain, and remembering it later are separate claims. The present evidence does not establish how many cases to use, how similar they should be, or whether analogies a learner generates for themselves help or hurt.
+
+## Claims
+
+- [Relational reasoning shifts by grade level and object familiarity in students grades 1 to 12](../claims/relational-reasoning-varies-by-grade-and-familiarity.md) [~W]
 
 ## Related Principles
 - [Activation](activation.md) — analogies often work by activating prior knowledge before introducing a new concept

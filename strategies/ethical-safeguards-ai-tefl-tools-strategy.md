@@ -49,6 +49,7 @@ The review identifies three primary ethical concerns—data privacy and security
 - [Deploy agentic AI in education with transparency about agentic decisions, human oversight and institutional responsibility](responsible-deployment-transparency-human-oversight-agentic-ai.md)
 - [Teachers adopting EAI should address digital literacy and ethical design challenges identified for each AI dimension](teacher-challenges-eai-inclusion-digital-literacy-ethics.md)
 - [AI risk management should build students' ability to understand, manage, and respond to AI-related risks, not only reduce perceived risks](build-risk-management-ability-not-only-reduce-risk-perception.md)
+- [Balance AI integration in SRL so technological advantages are harnessed without undermining student self-efficacy](balanced-ai-integration-srl-self-efficacy.md)
 
 ## Examples
 -

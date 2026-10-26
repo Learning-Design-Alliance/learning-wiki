@@ -62,6 +62,7 @@ Distributed practice is one of the most robust findings in learning science, wit
 - [Interleaved Practice](interleaved-practice.md) — mixing problem types within and across sessions compounds spacing benefits
 - [Mastery Learning](mastery-learning.md) — spacing schedules can be driven by individual mastery rather than fixed calendars
 - [Cueing category-level components of learned material as a low-effort reactivation strategy to support long-term retention](component-cue-reactivation-strategy.md)
+- [Align assessment with long-term learning by spreading low-stakes evaluation moments over time](programmatic-assessment-reduce-cramming.md)
 
 ## Examples
 - **Vocabulary learning**: reviewing new words at expanding intervals (1 day, 3 days, 1 week, 1 month) rather than repeating them twenty times in one sitting.

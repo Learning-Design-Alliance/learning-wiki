@@ -65,3 +65,4 @@ One-way ANOVA on BIS/BAS scores across grade groups: significant BAS main effect
 
 ## Related Claims
 - [Preschoolers' Chicken game choices are best explained by reward-based learning with a higher learning rate for the competitive opponent](preschoolers-reward-based-learning-competitive-opponent.md) — related
+- [Suppression tendencies show no significant correlations with BIS/BAS subscale scores across experiments](bis-bas-correlations-null.md) — related

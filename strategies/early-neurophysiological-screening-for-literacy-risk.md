@@ -50,6 +50,7 @@ The article recommends, on the strength of its predictive findings, that evaluat
 ## Related Strategies
 
 - [Use broader baseline cognitive predictors beyond conventional phonological measures to detect at-risk learners and personalize literacy intervention](broad-predictors-personalized-dyslexia-intervention.md)
+- [Use beat synchronization assessment and early music and rhythm training as early indicators and supports of reading readiness](beat-synchronization-early-reading-indicator-strategy.md)
 
 ## Examples
 -

@@ -63,3 +63,4 @@ Omnibus interaction test from the ANOVAs in Experiments 1 and 2, in which cued r
 - [The retention-interval main effect shows forgetting occurred over one week in both experiments](one-week-forgetting-main-effect-both-experiments.md) — related
 - [Retrieval practice takes more learning time than worked examples, and variability slows improvement during practice](retrieval-practice-time-cost-and-slower-varied-learning.md) — related
 - [Retention declines with interval (time-dependent forgetting) across images, details, and details-per-image measures](time-dependent-forgetting-across-intervals.md) — related
+- [Vocabulary retention declines from immediate to 24-hour-delayed no-feedback testing, and goal-directed associations are more semantically distant but slower to produce than free associations](retention-declines-and-goal-directed-costs-more-effort.md) — related

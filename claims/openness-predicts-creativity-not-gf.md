@@ -59,3 +59,4 @@ Extended SEM in Section 3.3 of the same study, adding personality (NEO-FFI openn
 - [Openness to experience predicts creative metaphor quality, and controlling for personality reduces Gc's creative-metaphor effect to zero](openness-predicts-creative-metaphor.md) — related
 - [In children, shifting is a more powerful predictor of creativity than fluid and crystallized intelligence](shifting-stronger-creativity-predictor-than-intelligence.md) — related
 - [Intelligence and creativity share more variance than the traditional assumption of distinct abilities holds](intelligence-creativity-more-in-common.md) — related
+- [A latent creativity factor (writing, drawing, openness) predicts paired-associate vocabulary learning, controlling for general intelligence](latent-creativity-factor-predicts-vocabulary-learning.md) — a narrower finding that bears on this claim

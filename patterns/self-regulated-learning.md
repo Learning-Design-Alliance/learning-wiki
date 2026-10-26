@@ -25,7 +25,7 @@ grain_size: unit
 # Self-Regulated Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 73 claims (25 for, 44 mixed, 4 against) · 64 studies (23 causal, 12 review, 10 associational, 9 quant-synthesis, 8 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 16 of 64 report an effect size · 66 claims rest on one study
+> **Evidence** · 74 claims (25 for, 45 mixed, 4 against) · 65 studies (23 causal, 13 review, 10 associational, 9 quant-synthesis, 8 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 16 of 65 report an effect size · 67 claims rest on one study
 
 ## Description and scope
 
@@ -139,6 +139,7 @@ This pattern is scoped to regulation attached to subject-matter tasks over a uni
 - [Teachers' direct instructional support is associated with students' use of self-regulation strategies, while autonomy as indirect activation was negatively associated with reading performance](../claims/direct-support-strategy-use-autonomy-negative-reading.md) [+W]
 - [Contemporary SRL models largely omit the broader social context and implicitly assume all learners are available to learn](../claims/srl-models-assume-availability-omit-context.md) [~W]
 - [In-between explaining triggered more monitoring of knowledge gaps than after-study explaining (Experiment 1)](../claims/in-between-explaining-increases-monitoring-activities.md) [~W]
+- [All AI applications and tools predominantly influence the performance phase of SRL, particularly by facilitating monitoring and control](../claims/ai-tools-predominantly-influence-performance-phase.md) [~W]
 
 ## Key Sources
 - Zimmerman, B. J. (2002). Becoming a self-regulated learner: An overview. *Theory Into Practice, 41*(2), 64-70. [https://doi.org/10.1207/s15430421tip4102_2](https://doi.org/10.1207/s15430421tip4102_2)

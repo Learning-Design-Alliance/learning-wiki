@@ -198,3 +198,4 @@ The key constraint is specificity: telling learners they are "smart" or "good at
 - [Prior profile research links maladaptive motivational profiles to poorer school adjustment and achievement](prior-profiles-maladaptive-school-adjustment.md) — related
 - [Children's autonomous and controlled motivation for mathematics rarely moderate the effects of task difficulty and instructional style](motivation-moderation-minimal-non-significant.md) — related
 - [Math avoidance motivation is independent of actual math performance, with subjective estimation of task difficulty the primary influencing factor](avoidance-independent-of-actual-math-performance.md) — related
+- [Social regulation is the domain most proximally linked to social well-being, with empathy deficits and moral disengagement operating as proximal predictors of cyberbullying](social-regulation-proximal-social-wellbeing.md) — related

@@ -54,3 +54,4 @@ Mixed-model analysis on collapsed data from both experiments; Table 2 reports th
 - [For incorrect predictions, stronger prediction errors during encoding lead to impaired recognition memory](pe-impairs-memory-incorrect-predictions.md) — related
 - [Choice-outcome-incorporated (signed) prediction error shows a positive relationship with recognition memory](signed-pe-positive-memory-relation.md) — related
 - [For correct predictions, stronger prediction errors during encoding lead to enhanced recognition memory](pe-enhances-memory-correct-predictions.md) — related
+- [Feedback-stage reward prediction errors, signed or unsigned, do not modulate memory in either learning condition](feedback-rpe-no-memory-effect.md) — related

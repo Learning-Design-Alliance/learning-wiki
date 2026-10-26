@@ -66,6 +66,7 @@ Growth mindset interventions have small but reliable average effects on achievem
 - Set mastery-oriented goals — process goals outperform outcome goals for novices [Process goals outperform outcome goals for novice learners.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [+M]
 - [Growth-mindset-informed math teaching practices: norms, no fixed labels, mixed-ability grouping, process praise, and formative assessment with retakes](growth-mindset-teaching-practices-list.md)
 - [School-based interventions promoting growth math mindset and academic grit](school-based-growth-mindset-grit-interventions.md)
+- [Build growth-mindset classroom cultures through teacher practices that convey all students can learn and improve](growth-mindset-classroom-culture-practices.md)
 
 ## Related Elements
 - [Coaching](../elements/coaching.md) — ongoing process feedback during practice is where mindset messaging becomes credible

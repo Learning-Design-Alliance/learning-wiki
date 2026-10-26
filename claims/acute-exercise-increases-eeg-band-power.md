@@ -53,3 +53,4 @@ Review (Crabbe and Dishman) of 18 acute exercise EEG studies with protocols of 2
 - [Sleep restriction lowers tonic arousal (raises EEG theta power) in a simulated classroom, with a medium effect](sleep-restriction-lowers-tonic-arousal-classroom.md) — related
 - [Brain connectivity during essay writing systematically scales down with the amount of external support, with Brain-only strongest, Search Engine intermediate, and LLM weakest](brain-connectivity-scales-down-with-external-support-essay-writing.md) — related
 - [Adolescents show adult-level dlPFC beta-band power but lower FEF alpha-band power and weaker dlPFC/FEF beta-alpha cross-frequency coupling during antisaccade preparation](adolescent-meg-feb-alpha-coupling-deficit.md) — related
+- [Teacher-initiated activities also increased theta power and decreased beta and gamma power, converging with the alpha-based inference of lower wakefulness and attention](theta-beta-gamma-convergent-evidence.md) — related

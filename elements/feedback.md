@@ -13,7 +13,7 @@ generated:
 # Feedback
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 190 claims (86 for, 89 mixed, 15 against) · 144 studies (55 causal, 28 review, 20 quant-synthesis, 15 associational, 9 qualitative, 9 design, 8 theoretical), `q1`–`q4` · 36 of 144 report an effect size · 167 claims rest on one study
+> **Evidence** · 191 claims (86 for, 90 mixed, 15 against) · 145 studies (56 causal, 28 review, 20 quant-synthesis, 15 associational, 9 qualitative, 9 design, 8 theoretical), `q1`–`q4` · 36 of 145 report an effect size · 168 claims rest on one study
 
 ## Description
 Feedback is information provided to learners about their performance or understanding, intended to close the gap between current and desired performance. Effective feedback answers three questions: Where am I going? How am I doing? Where to next? ([Hattie & Timperley, 2007](https://doi.org/10.3102/003465430298487)). It functions as the corrective mechanism in any instructional cycle that includes [Practice](practice.md) or [Assessment](assessment.md).
@@ -238,6 +238,7 @@ Feedback is among the most powerful influences on learning, but its effects are 
 - [In a laboratory word-learning task, introducing feedback in the second half of learning improved immediate meaning-extraction performance, while withdrawing feedback produced no significant drop on day 1](../claims/exp1-adding-feedback-second-half-improves-immediate-extraction.md) [+W]
 - [In an online replication, adding feedback in the second half improved immediate extraction of concrete word meanings for congruent trials only, replicating the laboratory effect](../claims/exp2-adding-feedback-improves-congruent-extraction.md) [+W]
 - [In the laboratory experiment, withdrawing feedback in the second half of learning significantly lowered next-day recognition of congruent word meanings, while adding feedback later did not impair recognition](../claims/exp1-feedback-removal-lowers-congruent-recognition.md) [+W]
+- [Feedback-stage reward prediction errors, signed or unsigned, do not modulate memory in either learning condition](../claims/feedback-rpe-no-memory-effect.md) [~W]
 
 ## Design Decisions
 <!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice

@@ -87,3 +87,4 @@ Confident-accurate > confident-inaccurate contrast yielded one left lingual gyru
 - [A meta-analysis of 47 neuroimaging studies identified a domain-general network for confidence ratings, with domain-specific regions for decision-making and memory tasks](metacognition-domain-general-neural-network.md) — related
 - [Undergraduate life sciences students with higher metacognitive calibration show greater right dorsolateral prefrontal activity when evaluating error-containing biology models, controlling for accuracy](metacognitive-calibration-lateral-pfc-activity-biology-error-detection.md) — related
 - [During the overt spelling phase, all three assessment methods activated a common brain pattern](spelling-phase-common-brain-pattern.md) — related
+- [Interpersonal feedback induced higher interpersonal neural synchronization in superior frontal gyrus and inferior parietal cortex channels than control conditions](if-increases-ins-sfg-ipc.md) — related

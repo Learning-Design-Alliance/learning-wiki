@@ -13,7 +13,7 @@ generated:
 # Executive Function
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 115 claims (69 show a difference, 23 mixed, 23 no difference) · 66 studies (27 associational, 14 causal, 11 review, 10 quant-synthesis, 3 theoretical, 1 design), `q1`–`q4` · 19 of 66 report an effect size · 113 claims rest on one study
+> **Evidence** · 118 claims (71 show a difference, 23 mixed, 24 no difference) · 68 studies (28 associational, 15 causal, 11 review, 10 quant-synthesis, 3 theoretical, 1 design), `q1`–`q4` · 20 of 68 report an effect size · 116 claims rest on one study
 
 ## Description
 Executive function covers inhibitory control, updating working memory, and shifting between tasks or rules. It is measured by performance tasks (such as the Stroop, Flanker and dimensional card-sort tasks) and by teacher or parent ratings. It develops through childhood and adolescence, predicts school readiness and achievement, moderates designs that load self-direction on learners, and is the target of training programmes, whose effects rarely transfer beyond the trained tasks. It underlies [self-regulation](self-regulation.md) and [attention](attention.md) and overlaps with [working memory](working-memory.md).
@@ -152,6 +152,9 @@ Executive function covers inhibitory control, updating working memory, and shift
 - [Pre-intervention executive function correlates with information integration, but not value assessment or belief assessment](../claims/pre-intervention-set-shifting-correlates-information-integration.md) [~M] — learners who differ on it differ in outcomes
 - [Training effects are selective: active control improved processing efficiency but not executive function, and uni/multimodal interventions improved executive function but not processing efficiency](../claims/selective-transfer-active-control-processing-efficiency.md) [~M] — instruction changes it
 - [Uni- and multimodal interventions improve executive function (switch cost) relative to active control](../claims/multimodal-training-improves-executive-function-switch-cost.md) [+M] — instruction changes it
+- [Children's report behaviour correlates moderately with their effortful control and their parent's cognitive empathy](../claims/report-effortful-control-cognitive-empathy.md) [+M] — learners who differ on it differ in outcomes
+- [Children's third-party intervention is not associated with impulsivity or inhibitory control over negative emotion indexed by frontal N2](../claims/intervention-not-impulsivity-n2.md) [-M] — learners who differ on it differ in outcomes
+- [Implementation-intention students reported lower daily study effort and higher concentration in the exam week than controls](../claims/implementation-intentions-lower-effort-higher-concentration.md) [+M] — instruction changes it
 
 ## The evidence by question
 - *Does a child's executive function predict achievement, and through what?* [Children's executive function at the beginning of pre-kindergarten predicts growth in mathematics achievement across the pre-kindergarten year](../claims/ef-predicts-preschool-math-growth.md) [+M]

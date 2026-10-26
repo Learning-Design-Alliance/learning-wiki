@@ -59,3 +59,4 @@ The review summarizes Offner's analysis of factors other than fatigue that condi
 - [Initial spurt takes place as a general rule in addition, which the author argues chance variation cannot explain](initial-spurt-general-rule-addition.md) — a narrower finding that bears on this claim
 - [Addition efficiency drops sharply from the first to the second two-minute period, indicating initial spurt](initial-spurt-in-addition-two-minute-periods.md) — a narrower finding that bears on this claim
 - [Prior initial-spurt experiments failed because test periods were too lengthy and subjects too few](prior-spurt-experiments-two-weaknesses.md) — related
+- [General skill learning appears to occur during rest periods, but fatigue release cannot be excluded as an explanation](general-skill-learning-offline-fatigue-caveat.md) — a narrower finding that bears on this claim

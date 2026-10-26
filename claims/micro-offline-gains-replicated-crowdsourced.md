@@ -81,3 +81,4 @@ One-sample t-tests in the TMRno group of a laboratory experiment (17 of the 69 p
 - [Auditory TMR cues replayed 1.3x faster than the preceding practice speed yield greater early-phase motor learning gains than same-speed cues](tmr-fast-cues-enhance-early-motor-learning.md) — related
 - [A single 10-second practice trial of motor skill A produces micro-offline generalization, with performance at the onset of skill B exceeding the end of skill A](one-trial-micro-offline-generalization-early-motor-skill.md) — related
 - [Varying the inter-skill rest interval from 0 to 30 seconds does not modify one-trial generalization from skill A to skill B](rest-interval-no-impact-one-trial-generalization.md) — a narrower finding that bears on this claim
+- [General skill learning appears to occur during rest periods, but fatigue release cannot be excluded as an explanation](general-skill-learning-offline-fatigue-caveat.md) — related

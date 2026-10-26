@@ -13,7 +13,7 @@ generated:
 # Auditory Processing
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 38 claims (20 show a difference, 13 mixed, 5 no difference) · 21 studies (7 causal, 7 associational, 3 review, 2 quant-synthesis, 2 theoretical), `q1`–`q3` · 6 of 21 report an effect size · 36 claims rest on one study
+> **Evidence** · 40 claims (21 show a difference, 13 mixed, 6 no difference) · 22 studies (8 causal, 7 associational, 3 review, 2 quant-synthesis, 2 theoretical), `q1`–`q3` · 7 of 22 report an effect size · 38 claims rest on one study
 
 ## Description
 Auditory processing is what the brain does with sound once it has been heard: locating sounds, telling them apart and interpreting them as meaningful, so that a listener can attend to, understand and remember speech and control their own speaking. It underpins spoken language and listening comprehension and lays the foundation for reading and writing, including [phonological awareness](phonological-awareness.md), at every age the LVN covers from pre-kindergarten to adulthood. It is still developing through adolescence, when academic demands on listening rise. Difficulties show up most where speech must be followed against background noise, as in a busy classroom, and learners with dyslexia may process speech sounds differently. It is measured with standardised batteries of auditory attention, auditory memory and phonological skills, and with tests of auditory processing speed. It is distinct from hearing itself, which [access](access.md) covers, though hearing loss affects it; in older adults, age-related decline in hearing speech in noise is part of the picture.
@@ -74,6 +74,8 @@ Auditory processing is what the brain does with sound once it has been heard: lo
 - [Structured algorithmic mappings (Traditional and Reversed) produce higher first-attempt learning accuracy than an arbitrary single-tone mapping in visual-to-auditory SSD learning](../claims/structured-mappings-facilitate-initial-ssd-learning.md) [+M] — instruction changes it
 - [Three weeks of computer-based speechreading training improves audiovisual speech-in-noise comprehension in middle-aged and older adults, with the effect limited to the audiovisual condition](../claims/speechreading-training-improves-av-speech-in-noise.md) [+M] — instruction changes it
 - [Massed exposure to a single frequency produces lasting suppression of detection at distant frequencies](../claims/massed-single-frequency-suppression.md) [+M] — instruction changes it
+- [Attention and speech perception in noise predict which children are most disadvantaged by open-plan classrooms](../claims/attention-and-speech-in-noise-predict-environment-sensitivity.md) [+M] — learners who differ on it differ in outcomes
+- [Baseline reading fluency correlates with IQ, attention and working memory but not with age or speech perception in noise](../claims/baseline-reading-correlates-iq-attention-working-memory.md) [-M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Test of Auditory Processing Skills** (Martin, Brownell & Hamaguchi, 2018): auditory attention, auditory memory and phonological skills for ages 4 to 18.

@@ -13,7 +13,7 @@ generated:
 # Practice Testing
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 73 claims (33 for, 36 mixed, 4 against) · 47 studies (27 causal, 8 review, 6 quant-synthesis, 3 associational, 2 qualitative, 1 theoretical), `q1`–`q4` · 19 of 47 report an effect size · 69 claims rest on one study
+> **Evidence** · 74 claims (34 for, 36 mixed, 4 against) · 48 studies (28 causal, 8 review, 6 quant-synthesis, 3 associational, 2 qualitative, 1 theoretical), `q1`–`q4` · 20 of 48 report an effect size · 70 claims rest on one study
 
 ## Description
 Practice testing (retrieval practice) asks learners to recall or apply information from memory — via low- or no-stakes quizzes, flashcards, free recall, or problem-solving — before or instead of restudying. The act of successful retrieval itself strengthens memory and reveals gaps, making testing a learning event rather than merely an assessment event.
@@ -124,6 +124,7 @@ Retrieval practice produces substantially larger and more durable learning gains
 - [The relationship between OET and final-test recall followed a skewed inverted-U, with performance predicted to decrease as OET approaches 1](../claims/inverted-u-oet-recall.md) [~W]
 - [Retrieval practice with feedback yields higher recall than restudy, which yields higher recall than no-feedback retrieval practice](../claims/feedback-retrieval-outperforms-restudy-and-nrp.md) [~W]
 - [Exploratory analysis finds moderate-magnitude correlation between central fast spindle density and retention of no-feedback retrieval-practice items](../claims/fast-spindle-density-correlates-nrp-retention.md) [~W]
+- [Post-testing after reading produces a large retention benefit over re-reading at a 7-day delay (d = 0.74 on trained questions)](../claims/post-testing-effect-dna-course-latimier.md) [+W]
 
 ## The evidence by question
 - *Does retrieving material (quizzes, practice tests, recall) improve later retention more than restudying it?* [Retrieval practice improves long-term retention](../claims/retrieval-practice-improves-retention.md) [+S]

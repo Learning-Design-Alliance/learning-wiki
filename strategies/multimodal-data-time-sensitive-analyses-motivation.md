@@ -53,6 +53,7 @@ The review recommends that future research and learning-technology design exploi
 - [Supplement self-report questionnaires with process-oriented and online measures of motivation during learning](alternatives-to-self-reports-motivation-measurement.md)
 - [Model assets and threats to availability by blending inter-individual self-reports with process-oriented intraindividual online measures](blended-observational-intraindividual-availability-paradigm.md)
 - [Employ multimodal methods to capture the multifaceted feedback process](multimodal-methods-feedback-process.md)
+- [Adopt integrative, longitudinal, multimodal deep-phenotyping designs combining self-report, behavioural tasks, ecological momentary assessment, and physiological measures](deep-phenotyping-multimodal-regulation-research.md)
 
 ## Examples
 -

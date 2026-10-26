@@ -31,7 +31,7 @@ sources:
 # Memory Consolidation
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 31 claims (16 for, 12 mixed, 3 against) · 44 studies (26 causal, 9 review, 7 quant-synthesis, 1 associational, 1 theoretical), `q1`–`q4` · 11 of 44 report an effect size · 24 claims rest on one study
+> **Evidence** · 33 claims (16 for, 14 mixed, 3 against) · 46 studies (27 causal, 9 review, 7 quant-synthesis, 2 associational, 1 theoretical), `q1`–`q4` · 12 of 46 report an effect size · 26 claims rest on one study
 
 ## Conditional relationship
 
@@ -172,6 +172,8 @@ End-of-session performance, delayed recall, use in later tasks and use in the se
 - [Micro-offline gains are inconsistent with a dominant contribution of latent motor slowing, supporting consolidation as their driver](../claims/micro-offline-gains-support-consolidation-not-fatigue-recovery.md) [+W]
 - [Training sequence accuracy improved in both groups at Post, but only the BCI-SRF group retained a significant improvement at follow-up relative to Pre](../claims/bci-srf-training-sequence-retention.md) [+W]
 - [Subjective reactivation predicted item recognition of new descriptions in experiment 1, but this effect did not appear in experiment 2](../claims/reactivation-item-recognition-exp1.md) [~W]
+- [Vocabulary retention declines from immediate to 24-hour-delayed no-feedback testing, and goal-directed associations are more semantically distant but slower to produce than free associations](../claims/retention-declines-and-goal-directed-costs-more-effort.md) [~W]
+- [Offline change in general skill between sessions 12 h apart was significant, but between sessions a week apart was not](../claims/long-offline-general-skill-12h-not-week.md) [~W]
 
 ## Related Principles
 - [Spaced Learning](spaced-learning.md) — consolidation often depends on how review is distributed over time

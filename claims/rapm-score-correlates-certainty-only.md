@@ -45,6 +45,7 @@ Bayesian Pearson correlations across the 100 participants between RAPM scores an
 
 
 ## Related Claims
+
 - [Correct RAPM solutions yield higher Suddenness and Certainty and lower Intuition than incorrect solutions, with a Certainty-by-difficulty interaction](correctness-effects-rapm-ratings.md) — related
 - [Intuition ratings are unaffected by RAPM item difficulty, indicating stable strategy across items](intuition-unaffected-rapm-difficulty.md) — related
 - Pleasure and Certainty ratings are strongly inter-correlated, questioning the independence of the subjective-experience dimensions — related
@@ -52,3 +53,4 @@ Bayesian Pearson correlations across the 100 participants between RAPM scores an
 - [The four-dimensional subjective-experience ratings are validated against classic insight and analytic problems, with Intuition and Suddenness differentiating the problem categories](subjective-ratings-validated-insight-analytic.md) — related
 - [Mean solution time almost perfectly predicts item-level Suddenness and Certainty, and fast performance signals easy items while deliberation signals hard ones](solution-time-predicts-insight-like-ratings.md) — related
 - [Subjective experience on the easiest RAPM items matches that of insight problems, while difficult items resemble analytic problems](easy-rapm-items-insight-like-experience.md) — related
+- [TORR scores correlate positively with Raven's Matrices scores but are more difficult for participants](torr-correlates-with-ravens-but-more-difficult.md)

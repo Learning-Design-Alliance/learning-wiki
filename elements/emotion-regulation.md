@@ -13,7 +13,7 @@ generated:
 # Emotion Regulation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 33 claims (16 for, 17 mixed) · 36 studies (9 causal, 8 review, 7 associational, 6 quant-synthesis, 3 theoretical, 2 qualitative, 1 design), `q1`–`q4` · 11 of 36 report an effect size · 28 claims rest on one study
+> **Evidence** · 34 claims (16 for, 17 mixed, 1 against) · 37 studies (10 causal, 8 review, 7 associational, 6 quant-synthesis, 3 theoretical, 2 qualitative, 1 design), `q1`–`q4` · 11 of 37 report an effect size · 29 claims rest on one study
 
 ## Description
 Emotion regulation in learning design refers to the deliberate integration of strategies and supports that help learners recognize and manage their emotional responses to academic demands. Drawing on Gross's process model, regulation can target the situation (choosing or modifying tasks), attention (redirecting focus), cognition (reappraising the meaning of stress), or response (calming techniques) ([Gross, 1998](https://doi.org/10.1037/1089-2680.2.3.271)). In instructional contexts, the designer's role is to build regulation opportunities into the learning environment rather than assuming learners arrive with these skills.
@@ -82,6 +82,7 @@ Emotions are not noise around learning — they shape attention, working memory 
 - [The instructor-led mindfulness arm showed significant pre-post improvements in mindfulness, self-compassion, well-being, perceived stress, anxiety, depression, and burnout, while the self-taught arm showed significant pre-post improvements in self-compassion and well-being](../claims/mt-arm-specific-pre-post-improvements.md) [~W]
 - [During breathwork, heart-rate coupling to anxiety and enjoyment weakened, and this altered affect–physiology coupling persisted into the post-intervention phase](../claims/breathwork-weakens-hr-emotion-coupling-persistent.md) [+W]
 - [Negative word counting in stressed teachers engages reappraisal-related regions early, without amygdala activation, suggesting regulation of emotional responses](../claims/early-reappraisal-engagement-negative-words-teachers.md) [+W]
+- [The Study Skills intervention ameliorated the negative effect of math anxiety on second-semester math grades, with highly anxious students earning about half a letter grade more than highly anxious students in the Emotion Regulation group](../claims/study-skills-intervention-ameliorates-anxiety-grade-deficit.md) [-W] — attached 2026-10-26 from Rachel G. Pizzie et al. (2023), which proposed "Emotion Regulation intervention using cognitive reappraisal (emotional distancing and arousal reframing)"; tests this page's relationship.
 
 ## The evidence by question
 - *Does a brief regulation exercise before an evaluation (writing about worries, relabelling the feeling) protect anxious learners' performance?* [Brief expressive writing before an exam can raise test-anxious students' scores, but across the wider literature its effect on test performance is negligible](../claims/expressive-writing-improves-exam-performance.md) [~S]

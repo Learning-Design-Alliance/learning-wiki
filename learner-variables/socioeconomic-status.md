@@ -13,7 +13,7 @@ generated:
 # Socioeconomic Status
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 143 claims (85 show a difference, 37 mixed, 21 no difference) · 111 studies (63 associational, 22 causal, 13 review, 8 quant-synthesis, 3 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 10 of 111 report an effect size · 142 claims rest on one study
+> **Evidence** · 148 claims (90 show a difference, 37 mixed, 21 no difference) · 113 studies (65 associational, 22 causal, 13 review, 8 quant-synthesis, 3 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 10 of 113 report an effect size · 147 claims rest on one study
 
 ## How to read this page
 
@@ -228,6 +228,11 @@ A learner's economic and social position: family income or poverty (often measur
 - [No SES × gender, SES × birth month, gender × birth month, or three-way interactions on pre-academic abilities at age 3](../claims/no-interactions-ses-gender-birth-month-preacademic.md) [-M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Non-shared environmental variance in educational performance decreases with increasing school SES, but this moderation appears attributable to parental SES](../claims/nonshared-env-decreases-school-ses.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [School quality does not moderate genetic and shared-environmental influences on educational performance once moderation by school SES and parental SES is considered](../claims/school-quality-no-moderation-gene-env.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [A positive G×E interaction between the education PGS and SES indicates a favorable SES environment enhances the effect of offspring genome](../claims/gene-environment-interaction-ses-pgs.md) [+M] — an instructional effect differs by group
+- [Children from low-SES backgrounds hold more negative academic self-views, which partially mediate the SES-achievement association across 70 countries](../claims/low-ses-negative-self-views-mediate-achievement-inequality.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Including SES and offspring genome in the same model reduces the education PGS effect by more than 20% and SES effects by about 10–15%, implying 20–30% of parental SES effects are genomic](../claims/joint-model-corrects-upward-bias.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Incremental R2s for offspring genome, genomic component in parental SES, and environmental SES are about 1.5%, 1.5%, and 7.8%, yielding total genomic R2 of 3% and environmental R2 of 7.8%](../claims/incremental-r2-genome-versus-ses.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Parental SES context significantly and simultaneously predicts youth verbal ability in Add Health, with mother's education the largest SES coefficient](../claims/ses-context-predicts-verbal-ability-add-health.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## The evidence by question
 - *Does family income predict achievement and attainment, how large are the gaps, and when do they open?* [School test score averages are strongly related to the income of the families a school serves](../claims/school-test-scores-strongly-related-to-family-income.md) [+M]

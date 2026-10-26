@@ -53,3 +53,4 @@ SEM with the NEO-FFI five factors as observed predictors of creative metaphor in
 - [Fluid intelligence strongly predicts the creative quality of produced metaphors (β = .45)](gf-predicts-creative-metaphor-quality.md) — related
 - [Openness to experience predicts creativity but not fluid intelligence, and further reduces the residual intelligence–creativity correlation to a trend.](openness-predicts-creativity-not-gf.md) — related
 - [Updating ability, together with openness, explains a substantial part of the shared variance between fluid intelligence and creativity.](updating-explains-intelligence-creativity-shared-variance.md) — related
+- [A latent creativity factor (writing, drawing, openness) predicts paired-associate vocabulary learning, controlling for general intelligence](latent-creativity-factor-predicts-vocabulary-learning.md) — a narrower finding that bears on this claim

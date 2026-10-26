@@ -54,3 +54,4 @@ Whole-group random-effects fMRI main-effect analysis of model-derived RPEs enter
 - [Individual movement-error distributions during strategic adaptation are multimodal (peaks at sign flips, mirror reversals, and defaults), inconsistent with random exploration predicted by reinforcement learning](multimodal-error-distributions-strategic-adaptation.md) — related
 - [Brain responds similarly to prediction errors for human and slot-machine partners' generosity](prediction-errors-human-slot-machine-partners-continuum.md) — related
 - [Mentalizing-network regions (TPJ, STS, dmPFC, MTG) signal social prediction errors beyond ToM tasks](mentalizing-network-social-prediction-error.md) — related
+- [Feedback-stage reward prediction errors, signed or unsigned, do not modulate memory in either learning condition](feedback-rpe-no-memory-effect.md) — related

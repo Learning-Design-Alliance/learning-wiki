@@ -47,7 +47,7 @@ sources:
 # Interleaving
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 42 claims (18 for, 22 mixed, 2 against) · 27 studies (11 causal, 6 review, 4 quant-synthesis, 4 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 12 of 27 report an effect size · 39 claims rest on one study
+> **Evidence** · 46 claims (20 for, 24 mixed, 2 against) · 28 studies (12 causal, 6 review, 4 quant-synthesis, 4 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 13 of 28 report an effect size · 43 claims rest on one study
 
 ## Conditional relationship
 
@@ -144,6 +144,8 @@ Taken together: mixing kinds in practice reliably helps learners tell confusable
 - [After training, d.tech teachers adopted low-stakes practice tests and spaced, interleaved practice](../claims/dtech-teachers-adopt-retrieval-interleaving.md) [+W]: adoption by teachers, not a learning outcome.
 - [Accuracy in the mixed block decreases across trials while PES also decreases, independent of intelligence](../claims/accuracy-decreases-mixed-block-trials.md) [~W] — read 2026-10-19 (not about this page): a "mixed block" of an executive-function task in kindergarten children, where accuracy fell with fatigue; it is not mixed practice of kinds to be learned.
 - [High and low CI practice do not differ significantly in overall relatively permanent gains (Δ pre-retention)](../claims/ci-no-long-term-gain-difference.md) [-W] — attached 2026-10-21 from Achraf Ammar et al. (2024), which proposed "Do not assume high contextual interference (random) practice guarantees a longer-term performance advantage in PE and sports"; tests this page's relationship.
+- [Interleaved homework yields higher surprise criterial test scores than blocked homework in undergraduate physics, with larger effects in Stage 2](../claims/interleaving-criterial-test-benefit-physics.md) [+M] — attached 2026-10-26 from Joshua Samani et al. (2021), which proposed "Replace conventionally blocked homework with interleaved homework when assignments contain multiple isomorphic problems per topic"; tests this page's relationship.
+- [Interleaving benefits were not detected on high-stakes midterm exams taken after cramming](../claims/interleaving-no-midterm-benefit-cramming.md) [~M] — attached 2026-10-26 from Joshua Samani et al. (2021), which proposed "Replace conventionally blocked homework with interleaved homework when assignments contain multiple isomorphic problems per topic"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 
@@ -168,6 +170,8 @@ The expectation should weaken if comparisons with comparable learners find no ad
 - [In Experiment 2, the interleaving benefit on actual test outcomes was not statistically significant, unlike in Experiment 1](../claims/interleaving-outcome-benefit-nonsignificant-exp2.md) [~W]
 - [Interleaving—presenting different concepts in alternation rather than repeating the same concept—improves students' discrimination among similar concepts, terms, and principles](../claims/interleaving-improves-discrimination-similar-concepts.md) [+W]
 - [Evidence for lasting learning is mixed at 8-week delays: only interleaving, not spacing or retrieval practice in drawing contexts, was supported](../claims/eight-week-delay-evidence-mixed.md) [+W]
+- [Interleaving benefits on criterial tests cannot be attributed to increased study time](../claims/interleaving-benefit-not-study-time.md) [+W]
+- [Students perform worse on interleaved homework than blocked homework and misjudge its learning value](../claims/interleaved-homework-worse-performance-metacognitive-judgments.md) [~W]
 
 ## Related Principles
 - [Spaced Learning](spaced-learning.md) — when practice of the same thing recurs; usually confounded with interleaving

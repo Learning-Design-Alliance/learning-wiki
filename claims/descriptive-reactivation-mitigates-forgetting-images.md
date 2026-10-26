@@ -51,3 +51,4 @@ In the 3×4 between-subject ANOVA (n = 167 analyzed after exclusions and trimmin
 - [At the 28-day retention interval, both descriptive and component reactivations outperform both controls, with relative gains of 58.8–67.2% for images and over 100% for details](reactivation-benefits-largest-at-28-days.md) — related
 - [Reactivations do not increase false memories: no reactivation effect on falsely recalled images or details](reactivation-no-effect-false-memories.md) — related
 - [Retention declines with interval (time-dependent forgetting) across images, details, and details-per-image measures](time-dependent-forgetting-across-intervals.md) — related
+- [Weekly brief reactivations during a 30-day retention interval reduce forgetting of numeric facts relative to controls](weekly-reactivations-reduce-long-term-forgetting.md) — related

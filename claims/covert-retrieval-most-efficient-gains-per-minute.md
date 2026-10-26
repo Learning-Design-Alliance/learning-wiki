@@ -69,3 +69,4 @@ For the 95 participants who practiced and were tested on terms, covert retrieval
 - [Transfer across response formats is incomplete: practicing terms benefited definition recall, but practicing definitions showed no overt-over-covert advantage on a term test](transfer-across-term-definition-formats-mixed.md) — related
 - [Overt retrieval also outperforms covert retrieval for key terms, but with a smaller advantage than for definitions](overt-beats-covert-retrieval-key-terms-smaller.md) — related
 - [The overt-retrieval advantage does not significantly differ by definition complexity (number of idea units), contrary to a retrieval-dynamics prediction](overt-advantage-not-moderated-by-idea-units.md) — related
+- [Standard active-retrieval practice produces larger absolute learning gains than brief reactivations, though at far greater practice time](standard-practice-larger-gains-than-reactivations.md) — related

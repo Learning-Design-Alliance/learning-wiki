@@ -48,3 +48,4 @@ The review's synthesis of the 24 included articles (2016-2022, mostly higher edu
 - [Only a small minority of EER research articles explicitly link educational theory to the EER method](eer-research-theoretical-foundation-weak.md) — related
 - [Only four included articles achieved theoretical grounding with empirical validation](eer-few-empirically-validated-theory.md) — related
 - [Explicit theoretical frameworks of engagement were provided in only 14% of the reviewed ECEC studies](ecec-engagement-theoretical-frameworks-rare.md) — related
+- [SRL theory was the most prominent theoretical foundation in AI-SRL studies, appearing in 4 of 14 studies](srl-theory-most-prominent-in-ai-srl-studies.md) — related

@@ -162,3 +162,4 @@ Small randomized experimental studies (Mueller and Dweck 1998) cited under Recom
 - [Negative emotions are not uniformly detrimental; differentiation by valence, arousal, and object focus is needed](negative-emotions-not-uniformly-detrimental.md) — related
 - [Feedback targeting reading self-efficacy had a positive effect on motivation, while error-focused feedback and rewards had mixed effects on long-term interest and engagement](feedback-motivation-self-efficacy-positive-rewards-mixed.md) — related
 - [Adult ability attributions of young children's success increase test cheating, per the article's title](adult-ability-attributions-increase-child-test-cheating.md) — related
+- [Teachers deliver more inflated praise to low-SES children after success, and observers perceive praised children as less smart](teacher-inflated-praise-low-ses-less-smart.md) — related

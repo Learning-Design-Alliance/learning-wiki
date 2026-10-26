@@ -13,7 +13,7 @@ generated:
 # Interest
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 204 claims (149 show a difference, 33 mixed, 22 no difference) · 138 studies (52 causal, 38 associational, 18 review, 12 design, 7 quant-synthesis, 6 theoretical, 5 qualitative), `q1`–`q4` · 36 of 138 report an effect size · 198 claims rest on one study
+> **Evidence** · 207 claims (151 show a difference, 33 mixed, 23 no difference) · 139 studies (52 causal, 39 associational, 18 review, 12 design, 7 quant-synthesis, 6 theoretical, 5 qualitative), `q1`–`q4` · 36 of 139 report an effect size · 201 claims rest on one study
 
 ## Description
 Interest is a learner's attraction to a topic. Research separates individual interest, a lasting disposition a learner brings, from situational interest, which material or activity sparks in the moment and which can grow into individual interest over time. Interest is measured by self-report, choice and persistence. It predicts attention, depth of processing and course choice, it moderates the effect of materials (seductive details catch interest without helping learning), and it is an outcome of designs that show relevance or give learners choice. It is a narrower case of [motivation](motivation.md).
@@ -239,6 +239,9 @@ Interest is a learner's attraction to a topic. Research separates individual int
 - [Rewards decreased the interest effect on memory when cued before clips but increased it when cued after clips, at 1 day but not 10 minutes](../claims/reward-timing-interest-effect-direction.md) [~M] — an instructional effect differs with it
 - [When reward cues follow stimuli, rewards improve memory for high-interest clips at 1 day, increasing the interest effect (additive effect)](../claims/post-clip-reward-enhances-high-interest-memory.md) [+M] — an instructional effect differs with it
 - [When reward cues precede stimuli, rewards improve memory for low-interest clips at 1 day, decreasing the interest effect (undermining effect)](../claims/pre-clip-reward-enhances-low-interest-memory.md) [+M] — an instructional effect differs with it
+- [Higher measured cognitive ability at age 8 is associated with reporting school enjoyment at age 6](../claims/cognitive-ability-associated-school-enjoyment.md) [+M] — learners who differ on it differ in outcomes
+- [Little evidence of interactions between school enjoyment and sex, social class, maternal education or cognitive ability on GCSE achievement](../claims/no-enjoyment-interactions-gcse.md) [-M] — learners who differ on it differ in outcomes
+- [School enjoyment at age 6 is associated with higher GCSE point scores at age 16, remaining significant after adjustment for socioeconomic position and cognitive ability](../claims/school-enjoyment-age6-gcse-points.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does seeing a task as interesting, important or useful raise the effort learners invest in it?* [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](../claims/task-value-increases-motivation-and-engagement.md) [+M]

@@ -50,3 +50,4 @@ Key finding from the National Longitudinal Transition Study 2012 surveys of seco
 - [Youth with an IEP are more likely than a decade ago to live in households facing economic challenges](iep-youth-household-economic-challenges-increased.md) — related
 - [Low-income and first-generation students are less likely to complete high school and attend college](low-income-first-gen-less-likely-complete-high-school-college.md) — related
 - [NLTS 2012 is the third in a series of federally sponsored studies of youth with disabilities under IDEA](nlts-2012-third-in-series-idea-youth.md) — related
+- [Federal disability law excludes children disadvantaged by environmental, cultural or economic factors from dyslexia diagnosis, which the authors say encourages attributing poor reading to poverty](idea-disadvantage-exclusion-dyslexia-diagnosis.md) — related

@@ -47,6 +47,7 @@ The article recommends three methodological advances: complement self-report wit
 - [Use formal computational modelling to specify dynamic causal processes in motivation theories](computational-modelling-for-motivation-theory.md)
 - [Employ multimodal methods to capture the multifaceted feedback process](multimodal-methods-feedback-process.md)
 - [Adopt a staged research agenda: measure the three belief dimensions, test incremental validity, and run component-level and person-centered tests](possibility-mindset-staged-research-agenda.md)
+- [Adopt integrative, longitudinal, multimodal deep-phenotyping designs combining self-report, behavioural tasks, ecological momentary assessment, and physiological measures](deep-phenotyping-multimodal-regulation-research.md)
 
 ## Examples
 -

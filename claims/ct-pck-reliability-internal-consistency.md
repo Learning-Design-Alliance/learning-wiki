@@ -56,3 +56,4 @@ Reliability analysis of the 16-item survey using pooled responses from 102 teach
 - [CTAT shows robust psychometric properties for higher education CS/AI students, with reliable internal consistency and adequate IRT item parameters](ctat-robust-psychometric-properties.md) — related
 - [A high Cronbach's alpha across items measuring distinct knowledge aspects indicates the test is not working as intended](high-alpha-indicates-domain-knowledge-test-failure.md) — related
 - [FFT scores showed acceptable-to-good internal consistency, with the overall PPR score more internally consistent than any single domain score](fft-internal-consistency-acceptable-to-good.md) — related
+- [AI literacy scales show good structural validity and internal consistency but are rarely tested for other measurement properties](ai-scales-structural-validity-strong-other-properties-untested.md) — related

@@ -99,3 +99,4 @@ This meta-analysis pooled 159 effect sizes from 61 published and unpublished stu
 - [Images that reveal the answer reduce recall compared with images appearing after the retrieval attempt](answer-revealing-images-worse-than-post-retrieval-images.md) — a narrower finding that bears on this claim
 - [Retrieval practice produced a reliable overall testing effect and a main effect of working memory capacity on final-test accuracy](main-effect-testing-effect-wm-capacity.md) — related
 - [Retrieval practice with feedback yields higher recall than restudy, which yields higher recall than no-feedback retrieval practice](feedback-retrieval-outperforms-restudy-and-nrp.md) — related
+- [Post-testing after reading produces a large retention benefit over re-reading at a 7-day delay (d = 0.74 on trained questions)](post-testing-effect-dna-course-latimier.md) — related

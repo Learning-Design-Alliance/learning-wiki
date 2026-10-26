@@ -59,3 +59,4 @@ Covariate effects on random intercepts in the RI-CLPMs (N = 3,425). The article 
 - [Male gender predicted lower grades, moderated by cohort](gender-and-cohort-predict-grading-scores.md) — reports the opposite
 - [Female students and students with lower prior achievement experienced more negative motivational changes](gender-gpa-moderate-motivational-change.md) — related
 - [No significant sex differences in incoming GPA or physics course grade despite sex differences in anxiety](no-sex-difference-gpa-physics-grade.md) — related
+- [Female students had higher math course grades than male students, with no interactions between gender, math anxiety, and intervention group](female-students-higher-grades-no-gender-moderation.md) — reports the opposite

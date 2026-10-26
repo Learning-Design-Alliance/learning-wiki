@@ -43786,5 +43786,193 @@
  "test-format\tproofreading spelling assessment\tcloze dictation and multiple-choice assessments": {
   "label": "proofreading spelling assessment vs cloze dictation and multiple-choice assessments",
   "treatment_is_a": true
+ },
+ "active-learning\tinterpersonal feedback\tone-way feedback, irrelevant communication, or no feedback": {
+  "label": "Interpersonal feedback vs one-way or no feedback",
+  "treatment_is_a": true
+ },
+ "active-learning\tstudent-initiated activities\tteacher-initiated activities": {
+  "label": "Student-initiated activities vs teacher-initiated activities",
+  "treatment_is_a": true
+ },
+ "active-learning\tstudent-initiated activities: group and independent work\tteacher-initiated activities: lecture and video watching": {
+  "label": "Student-initiated activities vs teacher-initiated activities",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\ttraining in encoding, inferring, mapping, and applying\tno training or comparison condition not stated": {
+  "label": "explicit instruction vs no explicit instruction",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tinterpersonal feedback\tno feedback": {
+  "label": "feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tDuring phase with fixed 50% win rate\tPre phase with exploitable opponent behaviour": {
+  "label": "fixed-rate vs exploitable feedback structure",
+  "treatment_is_a": true
+ },
+ "feedback-type\tOBR after a winning trial\tOBR after a losing trial": {
+  "label": "feedback after wins vs feedback after losses",
+  "treatment_is_a": true
+ },
+ "feedback-type\tPost phase\tDuring phase with 25% fixed win rate": {
+  "label": "post-task vs during-task feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tPost phase after exploitable structure returned\tDuring phase with fixed 50% win rate": {
+  "label": "post-task vs during-task feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tPre phase\tDuring phase with 25% fixed win rate": {
+  "label": "pre-task vs during-task feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tapplying feedback\tignoring feedback": {
+  "label": "feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tcomments or scaffolding feedback\tpositive, negative, or assessed feedback": {
+  "label": "elaborated/scaffolding vs evaluative feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tinterpersonal feedback\tno feedback": {
+  "label": "feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tinterpersonal feedback\tone-way feedback": {
+  "label": "interpersonal vs one-way feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tresponses after wins\tresponses after losses": {
+  "label": "feedback after wins vs feedback after losses",
+  "treatment_is_a": true
+ },
+ "interleaving\tinterleaved homework\tblocked homework": {
+  "label": "interleaved vs blocked",
+  "treatment_is_a": true
+ },
+ "interleaving\tinterleaved homework assignments\tblocked homework assignments": {
+  "label": "interleaved vs blocked",
+  "treatment_is_a": true
+ },
+ "interleaving\tinterleaved homework practice\tblocked homework practice": {
+  "label": "interleaved vs blocked",
+  "treatment_is_a": true
+ },
+ "interleaving\tinterleaved homework problems\tblocked homework problems": {
+  "label": "interleaved vs blocked",
+  "treatment_is_a": true
+ },
+ "practice-amount\t16th FISL session\t2nd FISL session": {
+  "label": "more repetitions vs fewer repetitions",
+  "treatment_is_a": true
+ },
+ "practice-amount\t16th FISL session\t2nd and 9th FISL sessions": {
+  "label": "more repetitions vs fewer repetitions",
+  "treatment_is_a": true
+ },
+ "practice-amount\tafter the one-month repetitive FISL course\tbefore the FISL course": {
+  "label": "after practice vs before practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\tmore BTT training time\tless BTT training time": {
+  "label": "more training time vs less training time",
+  "treatment_is_a": true
+ },
+ "practice-amount\tmore repetitions of FISL\tfewer repetitions of FISL": {
+  "label": "more repetitions vs fewer repetitions",
+  "treatment_is_a": true
+ },
+ "practice-amount\tmore repetitive facial imitation learning\tfewer repetitions": {
+  "label": "more repetitions vs fewer repetitions",
+  "treatment_is_a": true
+ },
+ "practice-amount\tpost-FISL assessment after the one-month course\tpre-FISL assessment": {
+  "label": "after practice vs before practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\tpost-one-month FISL assessment\tpre-FISL assessment": {
+  "label": "after practice vs before practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\tpost-one-month repetitive FISL course\tpre-FISL assessment": {
+  "label": "after practice vs before practice",
+  "treatment_is_a": true
+ },
+ "praise\tinflated praise\tno inflated praise": {
+  "label": "inflated praise vs no inflated praise",
+  "treatment_is_a": true
+ },
+ "praise\tpraise for low-SES child success\tpraise for high-SES child success": {
+  "label": "praise for low-SES child success vs praise for high-SES child success",
+  "treatment_is_a": true
+ },
+ "prompts\timplementation-intention planning\tdistributed-practice information and tips without planning": {
+  "label": "implementation-intention planning prompts vs information-only tips",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tpost-testing after reading\tpre-testing before reading": {
+  "label": "post-testing vs pre-testing",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tpost-testing after reading\treading-reading restudy": {
+  "label": "post-testing vs restudying",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tpre-testing before reading\treading-reading restudy": {
+  "label": "pre-testing vs restudying",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tquiz before reading\treading followed by rereading": {
+  "label": "pre-testing vs restudying",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tquiz followed by reading\treading twice": {
+  "label": "pre-testing vs restudying",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\treading followed by quiz\tquiz followed by reading": {
+  "label": "post-testing vs pre-testing",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\treading followed by quiz\treading twice": {
+  "label": "post-testing vs restudying",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\treading followed by quiz (post-testing)\treading followed by reading (restudying)": {
+  "label": "post-testing vs restudying",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tthree active-retrieval practice sessions\tthree brief passive reactivation sessions": {
+  "label": "active retrieval practice vs passive reactivation",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tplay trials\tpass trials": {
+  "label": "play vs pass",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tplay/accepted gamble\tpass/rejected gamble": {
+  "label": "accept gamble vs reject gamble",
+  "treatment_is_a": true
+ },
+ "scaffolding\tstructured opportunities for reflection and scaffolding\tweak or unsupported MR-related capacities": {
+  "label": "scaffolding vs weak or unsupported support",
+  "treatment_is_a": true
+ },
+ "simulation\trobot-assisted training with simulated social interaction\tuntrained autistic control": {
+  "label": "simulation-based training vs no training",
+  "treatment_is_a": true
+ },
+ "spacing\timplementation-intention group\tcontrol group": {
+  "label": "implementation-intention planning vs control",
+  "treatment_is_a": true
+ },
+ "spacing\timplementation-intention planning\tinformation and tips about distributed practice": {
+  "label": "implementation-intention planning vs information and tips about distributed practice",
+  "treatment_is_a": true
+ },
+ "spacing\timplementation-intention planning for distributed practice\tinformation and tips about distributed practice": {
+  "label": "implementation-intention planning for distributed practice vs information and tips about distributed practice",
+  "treatment_is_a": true
  }
 }

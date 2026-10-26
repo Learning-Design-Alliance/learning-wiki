@@ -56,8 +56,10 @@ Speech intelligibility is the gateway to instruction: when children must expend 
 6. Re-measure and survey teachers and students; treat acoustic conditions as part of ongoing [Check-Ins](../principles/check-ins.md) on classroom climate.
 
 ## Related Strategies
+
 - [Acoustics and Noise Management](acoustics_and_noise_management.md) — the operational complement: behavioral and scheduling rules that reduce noise generation
 - [Clear Structure Presentation](../principles/clear-structure.md) — well-structured, signaled instruction is more robust to intermittent noise than unstructured talk
+- [Apply acoustic treatment, lowered ceilings and visual barriers when utilising open-plan classroom spaces](acoustic-treatment-and-visual-barriers-for-open-plan-classrooms.md)
 
 ## Examples
 - **ANSI S12.60 (US)** — classroom acoustics standard specifying ≤35 dBA background noise and reverberation ≤0.6–0.7 s; used to specify new school construction.

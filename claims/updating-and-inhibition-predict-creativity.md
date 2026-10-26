@@ -57,3 +57,4 @@ Latent variable SEM: four divergent thinking tasks rated for creativity regresse
 - [Creativity, crystallized intelligence, fluid intelligence and executive functions are all correlated in children aged 8 to 13](cognitive-variables-creativity-correlations-children.md) — related
 - [Executive functions and intelligence play an important role in creative thinking, but the relationship in children had been under-studied](efs-intelligence-role-creative-thinking-children-gap.md) — reports the opposite
 - [Intelligence and creativity share more variance than the traditional assumption of distinct abilities holds](intelligence-creativity-more-in-common.md) — related
+- [A latent creativity factor (writing, drawing, openness) predicts paired-associate vocabulary learning, controlling for general intelligence](latent-creativity-factor-predicts-vocabulary-learning.md) — a narrower finding that bears on this claim

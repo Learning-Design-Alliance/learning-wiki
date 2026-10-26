@@ -9,6 +9,7 @@ generated:
   at: 2026-10-23
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-10-26
 sources:
   - id: nathalie-aerts-2026
     resource: "https://doi.org/10.1016/j.learninstruc.2026.102414"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-10-26 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Lower-SES students in the 69-country PISA 2018 sample had more positive self-views (self-efficacy and self-perceived ability) in more competitive environments, contrary to the widening hypothesis; the article prints no effect size for this finding. [→ Nathalie Aerts 2026](#nathalie-aerts-2026)
@@ -54,3 +55,5 @@ Preregistered secondary analysis of PISA 2018 data using three-level hierarchica
 - [Equally able students have lower academic self-concepts in high-average-ability schools (the BFLPE), with a cross-national effect size of 0.49](bflpe-lower-asc-high-average-ability-schools.md) — related
 - [The BFLPE is one of the most robust findings in educational psychology, with negative school-average achievement effects on ASC in 181 of 191 PISA samples](bflpe-robust-across-pisa-samples.md) — related
 - [The manuscript reports that income inequality fosters competitiveness at school, as stated in its title.](income-inequality-fosters-competitiveness-at-school.md) — related
+- [Children from low-SES backgrounds hold more negative academic self-views, which partially mediate the SES-achievement association across 70 countries](low-ses-negative-self-views-mediate-achievement-inequality.md) — related
+- [Contrary to the hidden-talents hypothesis, low-SES students scored 18% lower on mathematics items of real-world importance](real-world-math-items-lower-low-ses-scores.md) — related

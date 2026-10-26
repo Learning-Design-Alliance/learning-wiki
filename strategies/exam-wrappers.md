@@ -75,10 +75,12 @@ Exam wrappers operationalize [Assessment for Learning](../principles/assessment-
 4. **Resurface:** require students to reread their wrapper before the next exam, or collect and return it with the next study period ([Check-In](../elements/check-in.md) prompts can prompt this).
 
 ## Related Strategies
+
 - [3-2-1 Reflection](3-2-1_reflection.md) — a lighter-weight reflection format usable for the same purpose on smaller assignments
 - [Muddiest Point](muddiest-point.md) — the in-class analog: rapid written identification of what remains unclear
 - [Retrieval Practice](retrieval-practice-activities.md) — the high-utility study strategy wrappers most often steer students toward
 - [Error Analysis](../principles/error-analysis.md) — the diagnostic activity at the core of the post-exam wrapper
+- [Align assessment with long-term learning by spreading low-stakes evaluation moments over time](programmatic-assessment-reduce-cramming.md)
 
 ## Examples
 - **Carnegie Mellon Eberly Center** — the canonical exam wrapper templates (post-exam question sets for problem-solving and essay courses): [https://www.cmu.edu/teaching/designteach/teach/examwrappers.html](https://www.cmu.edu/teaching/designteach/teach/examwrappers.html)

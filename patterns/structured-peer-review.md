@@ -32,7 +32,7 @@ grain_size: lesson
 # Structured Peer Review
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 48 claims (30 for, 18 mixed) · 56 studies (17 causal, 11 quant-synthesis, 9 associational, 8 review, 4 qualitative, 4 theoretical, 3 design), `q1`–`q4` · 12 of 56 report an effect size · 34 claims rest on one study
+> **Evidence** · 49 claims (30 for, 19 mixed) · 57 studies (18 causal, 11 quant-synthesis, 9 associational, 8 review, 4 qualitative, 4 theoretical, 3 design), `q1`–`q4` · 13 of 57 report an effect size · 35 claims rest on one study
 
 ## Description and scope
 
@@ -168,6 +168,7 @@ This pattern is scoped to peers commenting on an individual's draft that the aut
 
 - [Feedback provision support improves quality of feedback provision (g = 0.72) and quality of feedback reception (g = 0.69) but not subject-matter-related knowledge](../claims/provision-support-improves-both-process-qualities.md) [+W]
 - [High-quality revisers corrected one or two lower order aspects at a time, proofread at the end, and went beyond the suggestions provided in the peer feedback](../claims/high-quality-revisers-incremental-correction-and-proofreading.md) [~W]
+- [Applying feedback correlates positively and ignoring feedback negatively with creativity acquisition](../claims/feedback-uptake-correlates-creativity.md) [~W]
 
 ## Related Patterns
 - [Collaborative Evaluation](collaborative-evaluation.md)

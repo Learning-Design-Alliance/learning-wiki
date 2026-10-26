@@ -108,3 +108,5 @@ Undergraduates read educational texts (textbook chapters or a Scientific America
 - [Ineffective learning strategies show substantially higher habit strength than effective strategies in a proof-of-concept survey](ineffective-strategies-higher-habit-strength.md) — a narrower finding that bears on this claim
 - [Retrieval practice boosts learning, and the testing effect generalizes to the acquisition of entirely new material (forward testing effect)](testing-effect-backward-and-forward.md) — related
 - [Generating information produces a memory advantage over passively reading it (the generation effect)](generation-effect-memory-advantage.md) — related
+- [Post-testing yields significantly better retention than pre-testing when total retrieval-practice time is held comparable (position effect)](quiz-position-post-beats-pre-latimier.md) — related
+- [Both groups shifted from information-collection strategies toward retrieval-based strategies as the exam approached](strategy-use-shifts-toward-retrieval-near-exam.md) — related

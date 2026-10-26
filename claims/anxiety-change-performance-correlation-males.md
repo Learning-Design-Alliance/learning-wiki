@@ -54,3 +54,4 @@ FDR-controlled (0.25) correlations between change in anxiety and academic perfor
 - [Female undergraduate physics students report higher science, spatial, math, and clinical anxiety than male students at both pre- and post-instruction](sex-differences-stem-anxiety-physics-students.md) — related
 - [No significant sex differences in incoming GPA or physics course grade despite sex differences in anxiety](no-sex-difference-gpa-physics-grade.md) — related
 - [Male physics students show significant anxiety–tripartite-network connectivity correlations at pre- and post-instruction, while female students show none](male-specific-anxiety-network-connectivity.md) — related
+- [Female students had higher math course grades than male students, with no interactions between gender, math anxiety, and intervention group](female-students-higher-grades-no-gender-moderation.md) — related

@@ -70,3 +70,4 @@ Group-level hyperparameters of the winning model: mean learning rate for HCO was
 - [Preschoolers gradually learn to cooperate more with high-competitive than low-competitive opponents in the Chicken game](preschoolers-cooperate-more-with-competitive-opponents.md) — related
 - [An instructive reinforcement learning model with a free constant learning rate best explains participants' contingency learning](flri-best-fitting-rl-model.md) — related
 - [School-age children and adolescents distinguish competitive from cooperative opponents, with cooperation peaking in late childhood](school-age-opponent-differentiation-cooperation-peak.md) — related
+- [A reinforcement learning model with separate surprise and uncertainty learning-rate parameters per condition best fits gambling behavior, though individual parameter estimates did not reach significance](rl-model-separate-surprise-uncertainty-el-ol.md) — related

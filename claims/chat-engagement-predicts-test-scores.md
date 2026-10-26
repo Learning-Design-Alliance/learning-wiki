@@ -53,3 +53,4 @@ Correlational analysis of over 100,000 learning records from the MAIC pilot, reg
 - [Students' participation in preparatory exercises positively predicted their final exam grade in every intervention year (β = 0.16–0.31; R² = 0.03–0.16)](participation-preparatory-exercises-predicts-exam-grade.md) — related
 - [More frequent exams are associated with better learning outcomes, including better grades and lower dropout, in classroom comparisons](frequent-exams-better-outcomes-leeming.md) — related
 - [Behavioral-only metrics from an instrumented online textbook support early prediction of final course grades in flipped statistics courses](behavioral-only-early-prediction-flipped-statistics.md) — related
+- [The pre/post-testing advantage cannot be attributed to extra training time: training time did not significantly predict final performance](training-time-null-covariate-latimier.md) — related

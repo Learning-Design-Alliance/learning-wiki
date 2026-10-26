@@ -50,3 +50,4 @@ The report's key findings state that "PROMISE treatment group youth had lower le
 - [PROMISE treatment group youth had higher employment rates than control group youth](promise-higher-employment-rates-than-control.md) — related
 - [PROMISE youth experienced worse education and employment outcomes than ACS youth with and without disabilities](promise-youth-worse-outcomes-than-acs-peers.md) — related
 - [Way2Work Maryland did not affect postsecondary education and training outcomes, but more treatment group members completed high school within two years of enrollment](way2work-high-school-completion-gain-no-postsecondary-effect.md) — related
+- [An SMS-based nudge intervention in Cote d'Ivoire did not reduce child labor or raise learning overall, but raised learning and domestic work among children starting with low learning levels](sms-nudge-ivory-coast-null-overall-low-starters-gain.md) — related

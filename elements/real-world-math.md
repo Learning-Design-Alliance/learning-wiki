@@ -13,7 +13,7 @@ generated:
 # Real-World Math
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (1 for, 1 against) · 2 studies (2 qualitative), `q1`–`q2` · 0 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 3 claims (1 for, 1 mixed, 1 against) · 3 studies (2 qualitative, 1 review), `q1`–`q2` · 0 of 3 report an effect size · 3 claims rest on one study
 
 ## Description
 Real-world math is the element in which mathematical reasoning is embedded in practical or authentic contexts.
@@ -26,3 +26,4 @@ Real-world math is the element in which mathematical reasoning is embedded in pr
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [When a real-life quilt problem was turned into a contextualized mathematics task, its context dropped out during solving and both designers judged it too school-like](../claims/contextualized-real-life-task-reverted-to-pure-mathematics-and-felt-too-school.md) [-W]
 - [Among the five lessons rated highly for both mathematical sense-making and student questioning and reasoning, contextualized story problems featured prominently](../claims/contextualized-story-problems-sense-making.md) [+W]
+- [Contrary to the hidden-talents hypothesis, low-SES students scored 18% lower on mathematics items of real-world importance](../claims/real-world-math-items-lower-low-ses-scores.md) [~W]

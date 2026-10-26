@@ -60,3 +60,4 @@ Abstract-adjacent measurement model result in the same 230-participant SEM study
 - [Men scored higher than women on rated divergent thinking creativity in this sample, with no sex differences in fluid intelligence or the executive functions.](sex-difference-creative-potential-sample.md) — related
 - [Openness to experience predicts creative metaphor quality, and controlling for personality reduces Gc's creative-metaphor effect to zero](openness-predicts-creative-metaphor.md) — related
 - [Intelligence and creativity share more variance than the traditional assumption of distinct abilities holds](intelligence-creativity-more-in-common.md) — possibly the same claim (merge candidate)
+- [A latent creativity factor (writing, drawing, openness) predicts paired-associate vocabulary learning, controlling for general intelligence](latent-creativity-factor-predicts-vocabulary-learning.md) — a narrower finding that bears on this claim

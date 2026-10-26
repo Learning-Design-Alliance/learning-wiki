@@ -75,3 +75,4 @@ Post hoc comparison of N2 amplitude during no go trials in the ERP sample of 212
 - [Maltreated and nonmaltreated adolescents show similar reaction times on go trials of the go/no go task](no-reaction-time-difference-go-trials-groups.md) — related
 - [ERP amplitude shows larger negativity for incongruent and No-Go trials at frontal midline sites](erp-amplitude-incongruent-nogo-frontal-negativity.md) — a broader claim this one bears on
 - [Children show larger and more sustained frontal ERP conflict effects than adults, indicating less efficient executive attention](children-larger-sustained-erp-conflict-effects-than-adults.md) — related
+- [Children's third-party intervention is not associated with impulsivity or inhibitory control over negative emotion indexed by frontal N2](intervention-not-impulsivity-n2.md) — related

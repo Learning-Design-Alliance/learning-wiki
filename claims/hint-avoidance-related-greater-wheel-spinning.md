@@ -62,3 +62,4 @@ Finding from the J48 decision tree analysis of ASSISTments Skill Builder log dat
 - [Undergraduate computing students report help-seeking avoidance and anxiety, with 62.5% sometimes avoiding asking for help even when needed and 75% reporting anxiety when not understanding a topic](students-avoid-help-seeking-despite-need.md) — related
 - [Most students (87.6%) prefer attempting to solve problems independently before seeking support, managing uncertainty privately before engaging formal support](students-prefer-independent-problem-solving-first.md) — related
 - [Mindful-condition students completed fewer problem-solving steps and requested fewer hints per step than Cognitive-condition students](mindful-condition-fewer-steps-hints.md) — related
+- [Children give more disempowering help (right answers) to peers portrayed as incompetent and more empowering help (hints) to competent peers](children-disempowering-help-incompetent-peers.md) — related

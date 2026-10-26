@@ -13,7 +13,7 @@ moved_from: [principle/behaviorism, principle/reinforcement-theory]
 # Behaviorism
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 11 claims (5 for, 3 mixed, 3 against) · 18 studies (6 review, 5 causal, 4 theoretical, 3 quant-synthesis), `q1`–`q4` · 1 of 18 report an effect size · 7 claims rest on one study
+> **Evidence** · 13 claims (5 for, 5 mixed, 3 against) · 19 studies (6 causal, 6 review, 4 theoretical, 3 quant-synthesis), `q1`–`q4` · 2 of 19 report an effect size · 9 claims rest on one study
 
 ## Description
 Behaviorism is a learning theory that defines learning as a change in observable behavior produced by environmental stimuli and reinforcement contingencies. Associated with Watson, Thorndike, and Skinner, behaviorism holds that the internal workings of the mind are not directly accessible and therefore not the proper object of scientific study — what matters is the measurable relationship between stimulus and response ("conclusions about human development should be based on observation of overt behavior rather than speculation about subconscious motives or latent cognitive processes," Shaffer, 2000). Learning occurs when a desired behavior is reliably elicited and strengthened through reinforcement or extinguished through removal of reinforcement.
@@ -72,6 +72,8 @@ Behaviorism is criticized as overly deterministic and as denying free will; by t
 - [Most praise functions as a verbal reward, creating dependence on others' approval rather than self-generated criteria](../claims/praise-functions-as-verbal-reward.md) [-W]
 - [Explicit awareness of stimulus contingencies is not necessary for successful delay eyeblink conditioning](../claims/awareness-not-necessary-delay-conditioning.md) [+W]
 - [The promise of win maximisation, not the threat of win minimisation, drives longer-form reinforcement-learning expression](../claims/win-maximisation-not-minimisation-drives-expression.md) [+W]
+- [Optimal behaviour is more frequent after wins than after losses, but the after-win advantage is absent in the Post phase and under high reinforcement](../claims/after-win-obr-higher-than-after-loss.md) [~W]
+- [Suppression of the old pattern predicts relearning-old success positively under punishment but negatively under reinforcement](../claims/suppression-relearning-old-valence-dependent.md) [~W]
 
 ## The evidence by question
 - *Does reinforcing a target behaviour with rewards, praise or planned consequences raise learners' performance?* Planned contingency-of-reinforcement designs can raise academic achievement above normal classroom levels across a wide range of children [+M]

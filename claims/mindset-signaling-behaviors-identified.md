@@ -9,6 +9,7 @@ generated:
   at: 2026-10-22
 evidence_strength: weak
 newest_evidence: 2025
+source_checked: 2026-10-26
 sources:
   - id: eunjin-seo-2025
     resource: "https://doi.org/10.1007/s10648-025-10082-8"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-10-26 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Research has identified specific behaviors conveying peers' implicit beliefs about ability, including competitiveness, self-deprecation, fixed-oriented verbal messages, withdrawing effort, disinterest in helping, boasting about success, and reluctance to share struggles. [→ Eunjin Seo 2025](#eunjin-seo-2025)

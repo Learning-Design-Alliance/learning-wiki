@@ -50,3 +50,4 @@ Experiment 3: 181 participants trained 48 trials of alternating 5 s practice and
 - [Performance improvements during early motor skill learning occur predominantly during short rest periods (micro-offline gains), replicated in a large crowdsourced sample and in a laboratory study](micro-offline-gains-replicated-crowdsourced.md) — related
 - [A single 10-second practice trial of motor skill A produces micro-offline generalization, with performance at the onset of skill B exceeding the end of skill A](one-trial-micro-offline-generalization-early-motor-skill.md) — related
 - [Varying the inter-skill rest interval from 0 to 30 seconds does not modify one-trial generalization from skill A to skill B](rest-interval-no-impact-one-trial-generalization.md) — related
+- [General skill learning appears to occur during rest periods, but fatigue release cannot be excluded as an explanation](general-skill-learning-offline-fatigue-caveat.md) — reports the opposite

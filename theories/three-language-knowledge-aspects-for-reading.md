@@ -18,7 +18,7 @@ sources:
 # Three aspects of children's language knowledge hypothesized to support fluent reading acquisition
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (1 for, 1 mixed) · 2 studies (1 associational, 1 design), `q1`–`q3` · 0 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 3 claims (1 for, 2 mixed) · 3 studies (2 associational, 1 design), `q1`–`q3` · 0 of 3 report an effect size · 3 claims rest on one study
 
 ## Description
 In analyzing how home-school language switching affects reading development, the paper distinguishes three general aspects of children's knowledge of language hypothesized as important for acquiring fluent reading skills: "vocabulary-concept knowledge" of the child, metalinguistic insights regarding the nature of printed text, and facility in processing decontextualized language. These aspects are conceptually distinguishable but are all determined by the child's linguistic experiences prior to school and are likely strongly related empirically. The pattern frames the primary academic task of the early school years as learning to extract information efficiently from printed text.
@@ -43,6 +43,7 @@ In analyzing how home-school language switching affects reading development, the
 - [Developmental Interdependence Hypothesis](../theories/developmental-interdependence-hypothesis.md) [+M]
 - [Cross-linguistic transfer is skill-specific: phonological awareness and print concepts are more likely to transfer across languages, while vocabulary and comprehension are more language-dependent](../claims/cross-linguistic-transfer-skill-specific.md) [~W]
 - [Language-independent phonological awareness and print knowledge factors relate to each other and to language-specific early literacy factors, suggesting a general language-learning capacity](../claims/cross-construct-relations-general-factors.md) [+W]
+- [Genetic and residual covariance patterns diverge between oral language and literacy/phonological awareness](../claims/genetic-residual-divergence-oral-language-literacy.md) [~W]
 
 ## Related Patterns
 - 

@@ -50,3 +50,4 @@ Convergent behavioral tests across Experiments 3 (reduced practice duration) and
 - [Random termination of practice periods does not reduce micro-offline gains, ruling out preemptive motor slowing](unpredictable-practice-termination-rules-out-preemptive-slowing.md) — a narrower finding that bears on this claim
 - [A single 10-second practice trial of motor skill A produces micro-offline generalization, with performance at the onset of skill B exceeding the end of skill A](one-trial-micro-offline-generalization-early-motor-skill.md) — related
 - [Varying the inter-skill rest interval from 0 to 30 seconds does not modify one-trial generalization from skill A to skill B](rest-interval-no-impact-one-trial-generalization.md) — related
+- [General skill learning appears to occur during rest periods, but fatigue release cannot be excluded as an explanation](general-skill-learning-offline-fatigue-caveat.md) — reports the opposite

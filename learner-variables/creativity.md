@@ -13,7 +13,7 @@ generated:
 # Creativity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 91 claims (63 show a difference, 22 mixed, 6 no difference) · 46 studies (15 causal, 11 review, 11 associational, 4 quant-synthesis, 3 design, 2 theoretical), `q1`–`q3` · 11 of 46 report an effect size · 89 claims rest on one study
+> **Evidence** · 95 claims (67 show a difference, 22 mixed, 6 no difference) · 49 studies (16 causal, 13 associational, 11 review, 4 quant-synthesis, 3 design, 2 theoretical), `q1`–`q3` · 12 of 49 report an effect size · 93 claims rest on one study
 
 ## Description
 Creativity as a learner characteristic is the ability to produce ideas that are both new and fitting. It is most often measured with divergent-thinking tests (how many and how varied the uses someone can find for an object). It correlates with intelligence and with achievement, including in mathematics, where generating several solution paths may deepen understanding. Creativity can also be an outcome that instruction aims at; this page is about learners who differ in it.
@@ -126,6 +126,10 @@ Creativity as a learner characteristic is the ability to produce ideas that are 
 - [Task difficulty moderated the facilitating effect of flexibility on ideal manipulation only, with the effect more salient for harder tasks](../claims/difficulty-moderates-flexibility-ideal-manipulation-only.md) [~M] — learners who differ on it differ in outcomes
 - [Two or more semesters of AP art workshops significantly raised the graphical TTCT 13-forces creativity score in a doubly robust regression, but not total TTCT scores](../claims/ap-creativity-ttct-improvements.md) [+M] — instruction changes it
 - [Dyads in which both participants could gesture produced higher team originality and more combined ideas than dyads in which one or neither could gesture](../claims/both-gesturing-higher-originality-cooperation.md) [+M] — instruction changes it
+- [A latent creativity factor (writing, drawing, openness) predicts paired-associate vocabulary learning, controlling for general intelligence](../claims/latent-creativity-factor-predicts-vocabulary-learning.md) [+M] — learners who differ on it differ in outcomes
+- [Associative thinking partially mediates the relationship between creativity and vocabulary learning, and fully mediates it when intelligence is controlled](../claims/associative-thinking-mediaties-creativity-learning-link.md) [+M] — learners who differ on it differ in outcomes
+- [Higher TORR scores, especially antinomy, predict more creative engineering design solutions](../claims/torr-predicts-creative-engineering-design.md) [+M] — learners who differ on it differ in outcomes
+- [Interpersonal feedback improved creativity acquisition more than one-way feedback, irrelevant communication, or no feedback](../claims/if-improves-creativity-acquisition.md) [+M] — instruction changes it
 
 ## Related Learner Variables
 

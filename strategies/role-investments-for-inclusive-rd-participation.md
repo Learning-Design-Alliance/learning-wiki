@@ -44,6 +44,7 @@ The report lists concrete changes to traditional roles and investments that enab
 
 - [Supportive practices for inclusive youth co-design: reach beyond usual voices, respect time, ensure accessibility, and compensate fairly](inclusive-youth-co-design-supportive-practices.md)
 - [Convene cross-sector stakeholders in a structured eight-step process to co-develop practice-driven, equity-centered R&D agendas](eight-step-practice-driven-equity-centered-rd-agenda-convening.md)
+- [Make research methods inclusive by engaging studied populations as co-constructors of knowledge, including adapting EEG research for all hair types](inclusive-research-methods-populations-as-co-constructors.md)
 
 ## Examples
 -

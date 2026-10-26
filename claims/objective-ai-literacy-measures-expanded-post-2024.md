@@ -50,3 +50,4 @@ Structured review synthesis comparing the Lintner (2024) baseline with the targe
 - [Teachers' self-reported AI literacy correlates only weakly with their objectively measured performance (r = 0.07–0.24)](weak-sr-ob-correlation-ai-literacy.md) — a narrower finding that bears on this claim
 - [Existing AI literacy assessment instruments poorly cover Stages 0–1 and Stage 4 of the continuum](assessment-instruments-gap-stages-0-1-4.md) — related
 - [GLAT scores predicted performance on GenAI-supported tasks better than perceived ChatGPT proficiency](glat-predicts-task-performance-better-than-self-report.md) — a narrower finding that bears on this claim
+- [A 2024 systematic review identified 22 studies validating 16 AI literacy scales, most of them self-report rather than performance-based](review-22-studies-16-ai-literacy-scales.md) — related

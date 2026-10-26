@@ -13,7 +13,7 @@ generated:
 # Self-Efficacy
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 152 claims (111 show a difference, 24 mixed, 17 no difference) · 124 studies (49 associational, 24 causal, 18 review, 14 qualitative, 8 design, 6 theoretical, 5 quant-synthesis), `q1`–`q4` · 28 of 124 report an effect size · 148 claims rest on one study
+> **Evidence** · 154 claims (112 show a difference, 25 mixed, 17 no difference) · 126 studies (50 associational, 24 causal, 19 review, 14 qualitative, 8 design, 6 theoretical, 5 quant-synthesis), `q1`–`q4` · 28 of 126 report an effect size · 150 claims rest on one study
 
 ## Description
 Self-efficacy is Bandura's term for task-specific confidence: how sure a learner is that they can do what a task requires. It is measured with self-report scales tied to a domain (mathematics self-efficacy, writing self-efficacy, computer self-efficacy). It predicts effort, persistence and achievement, it moderates some instructional effects, and it is itself an outcome that instruction can raise, chiefly through experiences of success, seeing similar others succeed, and specific feedback. It is narrower than [motivation](motivation.md) and distinct from general self-esteem.
@@ -183,6 +183,8 @@ Self-efficacy is Bandura's term for task-specific confidence: how sure a learner
 - [Teachers' early expectations predict students' later perceived competence in physical education beyond students' background characteristics](../claims/teacher-expectations-predict-later-perceived-competence-pe.md) [+W] — instruction changes it
 - [Perceived competence does not moderate the effect of grading on performance-avoidance goals](../claims/perceived-competence-no-moderation-grading-avoidance.md) [-M] — an instructional effect differs with it
 - [Algorithm-group participants report significantly higher soundscape visualizability than Control participants, while group differences in strategy use, confidence, and error awareness are not statistically significant](../claims/visualizability-differs-strategy-use-does-not.md) [-M] — instruction changes it
+- [A qualitative review reports that AI applications supported learners' attitudes, motivation and self-efficacy in the forethought phase, but self-efficacy gains were inconsistent across studies, and students with initially low self-efficacy often struggled to use the tools](../claims/ai-forethought-phase-mixed-self-efficacy.md) [~M] — instruction changes it
+- [Home learning environment at age 3 and children's confidence in their intelligence at age 8 were associated with GCSE achievement, while teacher opinion, temperament, work confidence and friendship quality were not](../claims/covariates-gcse-achievement-null-and-positive.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 

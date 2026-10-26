@@ -52,3 +52,4 @@ Pre/post paired-samples t-test in the play-testing study with 18 children aged 9
 - [During REMind, nearly all children reported feeling sad for the victim and attributed bystander inaction mainly to low confidence or fear of retaliation](remind-qualitative-perspective-taking-themes.md) — related
 - [REMind did not significantly increase measured empathy, but baseline human-directed empathy correlated positively with robot-directed empathy](remind-empathy-null-and-robot-empathy-correlation.md) — related
 - [After REMind, children's expectations that confronting a bully would stop the bullying shifted toward a calibrated midpoint](remind-calibrated-bully-outcome-expectations.md) — related
+- [Social regulation is the domain most proximally linked to social well-being, with empathy deficits and moral disengagement operating as proximal predictors of cyberbullying](social-regulation-proximal-social-wellbeing.md) — related
