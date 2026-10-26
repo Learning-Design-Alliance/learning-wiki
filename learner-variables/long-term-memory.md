@@ -13,7 +13,7 @@ generated:
 # Long-Term Memory
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 137 claims (86 show a difference, 29 mixed, 22 no difference) · 84 studies (36 causal, 20 review, 13 quant-synthesis, 8 theoretical, 5 associational, 2 qualitative), `q1`–`q4` · 31 of 84 report an effect size · 129 claims rest on one study
+> **Evidence** · 144 claims (87 show a difference, 35 mixed, 22 no difference) · 88 studies (39 causal, 21 review, 13 quant-synthesis, 8 theoretical, 5 associational, 2 qualitative), `q1`–`q4` · 34 of 88 report an effect size · 136 claims rest on one study
 
 ## Description
 Long-term memory holds information, such as words, facts, events, concepts and procedures, so that it can be retrieved and used later, over spans from hours to decades, and in principle indefinitely. Skills and knowledge get there through repeated practice and use, and stay accessible while they continue to be used. It matters for learning because what is stored there is the base for everything that follows: the [prior knowledge](prior-knowledge.md) and vocabulary that support reading and writing, and the arithmetic facts and procedures that free a learner to work on new mathematics problems. It develops through childhood and adolescence as the brain systems supporting it mature, and older learners lean more on memory-based strategies, for example in mathematics. It is measured with standardised memory batteries that ask learners to recall stories, lists or figures after a delay. It is distinct from [working memory](working-memory.md), which holds information briefly while it is being used; rehearsal and use move material from one to the other.
@@ -172,6 +172,13 @@ Long-term memory holds information, such as words, facts, events, concepts and p
 - [TMR can be used to selectively weaken or promote forgetting of specific memories during sleep](../claims/tmr-promotes-selective-forgetting.md) [~M] — instruction changes it
 - [TMR effects on procedural motor memory emerge over weeks rather than at 24 hours](../claims/tmr-procedural-long-term-weeks.md) [+M] — instruction changes it
 - [TMR enhances declarative memory after one night of sleep across paradigms, though some recent studies did not replicate the effect](../claims/tmr-enhances-declarative-memory.md) [~M] — instruction changes it
+- [Caudate–claustrum functional connectivity during retrieval is lower after short-video learning, with no group differences in MTG-involving connectivity](../claims/short-video-weaker-caudate-claustrum-connectivity.md) [~M] — instruction changes it
+- [Rewards attenuated forgetting for low-interest clips when cued before stimuli but for high-interest clips when cued after, per the forgetting-rate analysis](../claims/forgetting-rate-reward-timing-interaction.md) [~M] — instruction changes it
+- [Rewards decreased the interest effect on memory when cued before clips but increased it when cued after clips, at 1 day but not 10 minutes](../claims/reward-timing-interest-effect-direction.md) [~M] — instruction changes it
+- [Semantic integration of memorized words induces false memory: false-alarm rates are higher to semantically related lure probes than to unseen new probes](../claims/semantic-integration-false-memory-lure-probes.md) [+M] — instruction changes it
+- [The timing of reward cues moderates the reward-by-interest interaction on memory over time (four-way interaction), with effects emerging only after consolidation](../claims/reward-cue-timing-four-way-interaction.md) [~M] — instruction changes it
+- [When reward cues follow stimuli, rewards improve memory for high-interest clips at 1 day, increasing the interest effect (additive effect)](../claims/post-clip-reward-enhances-high-interest-memory.md) [~M] — instruction changes it
+- [When reward cues precede stimuli, rewards improve memory for low-interest clips at 1 day, decreasing the interest effect (undermining effect)](../claims/pre-clip-reward-enhances-low-interest-memory.md) [~M] — instruction changes it
 
 ## Measures
 - **Wechsler Memory Scale (WMS)** (Wechsler, 2010): its logical memory subtest asks for details of a story heard once, as a measure of declarative memory.

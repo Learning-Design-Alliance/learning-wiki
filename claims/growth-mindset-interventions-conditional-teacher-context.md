@@ -83,3 +83,5 @@ The review reports that meta-analyses find benefits concentrated among "economic
 - [The growth mindset intervention successfully fostered mindset beliefs but this did not transfer to learning outcomes](mindset-belief-fostered-without-outcome-change.md) — related
 - [When delivered by master's students, the intervention additionally improved growth mindsets and standardized math achievement](moma-masters-student-mindset-achievement-effects.md) — related
 - [Field experiment: strategic mindset intervention benefits academically prepared students' strategy use but not lower-performing students](strategic-mindset-field-intervention-moderated-by-preparedness.md) — related
+- [In STEM courses taught by instructors with more fixed mindsets, underrepresented minority students' grade gaps are larger than in growth-mindset instructors' courses](fixed-mindset-instructors-larger-racial-grade-gaps.md) — related
+- [Growth mindset beliefs are positively associated with academic achievement in nearly all nations, with stronger associations among structurally disadvantaged students](growth-mindset-achievement-association-global.md) — related

@@ -52,3 +52,4 @@ Narrative review reporting the behavior taxonomy from Muenks and Yan (2024)—co
 - [Students with more positively oriented academic mindsets show better academic behaviors and earn better grades than students for whom the mindset beliefs do not feel true](positive-mindsets-better-behaviors-grades.md) — related
 - [Praise for intelligence (person praise) induces a fixed mindset and helpless reactions compared with process praise](person-praise-induces-fixed-mindset.md) — related
 - [Peer mindsets are socially transmissible: a recent meta-analysis links peers' mindsets to students' own mindsets](peer-mindset-social-contagion-meta-analysis.md) — related
+- [Students overwhelmingly categorize specific teaching practices as signaling growth versus fixed instructor mindsets](teaching-practices-signal-mindset-to-students.md) — related

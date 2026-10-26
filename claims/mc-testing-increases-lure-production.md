@@ -77,3 +77,4 @@ In the SAT II experiment, lure production on the final cued recall test rose fro
 - [Taking a multiple-choice test boosts performance on later tests compared with nontested control conditions, including with complex SAT II materials](mc-testing-boosts-later-performance.md) — related
 - [Retrieval practice mostly increases susceptibility to misinformation (retrieval-enhanced suggestibility)](retrieval-practice-increases-misinformation-susceptibility.md) — related
 - [Contrasting orthographically similar L2 words during multiple-choice learning improves their subsequent recall in the productive direction](contrasting-orthographically-similar-l2-words-improves-recall.md) — related
+- [Semantic integration of memorized words induces false memory: false-alarm rates are higher to semantically related lure probes than to unseen new probes](semantic-integration-false-memory-lure-probes.md) — related

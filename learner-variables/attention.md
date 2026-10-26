@@ -13,7 +13,7 @@ generated:
 # Attention
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 120 claims (83 show a difference, 24 mixed, 13 no difference) · 92 studies (24 causal, 24 associational, 20 review, 12 quant-synthesis, 5 qualitative, 5 design, 2 theoretical), `q1`–`q4` · 17 of 92 report an effect size · 115 claims rest on one study
+> **Evidence** · 122 claims (84 show a difference, 24 mixed, 14 no difference) · 94 studies (25 causal, 25 associational, 20 review, 12 quant-synthesis, 5 qualitative, 5 design, 2 theoretical), `q1`–`q4` · 17 of 94 report an effect size · 117 claims rest on one study
 
 ## Description
 How long a learner can sustain focus, and how readily something else takes it. Distinct from [working memory](working-memory.md): attention governs what *reaches* the store, capacity governs what it holds. It converts into segment length, distractor design, and how much a page may hold in one uninterrupted run. The design lever is mostly subtractive — the strongest findings here are about what to remove [-M].
@@ -158,6 +158,8 @@ How long a learner can sustain focus, and how readily something else takes it. D
 - [Choice decreases self-reported distraction during the lesson, while utility value's effect on distraction depends on baseline interest in statistics](../claims/choice-decreases-distraction-uv-interest-interaction.md) [~M] — instruction changes it
 - [Sustained attention, not learning condition, was the strongest predictor of children's word recall](../claims/sart-strongest-predictor-word-recall.md) [+M] — learners who differ on it differ in outcomes
 - [The PC-over-VR recall difference was significant only for children with higher sustained attention](../claims/condition-difference-only-high-sustained-attention.md) [~M] — an instructional effect differs with it
+- [Cognitive control (attention switching) shows no significant relationship with neural activation during the emotional counting Stroop task](../claims/cognitive-control-no-significant-neural-relationship.md) [-M] — learners who differ on it differ in outcomes
+- [The two unfavorable profiles differ significantly only in sustained attention, while both differ from the favorable profile in prior and post-test fraction knowledge](../claims/unfavorable-profiles-differ-attention-only.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does making material more interesting with details that do not carry the target cost learning?* [Interesting but irrelevant details can impair comprehension and transfer, with effects that vary with the material and the learner](../claims/seductive-details-effect.md) [+S]

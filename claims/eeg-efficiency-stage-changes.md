@@ -66,3 +66,4 @@ Local efficiency comparisons across the three stages of each task (Table 1) reac
 ## Related Claims
 - [EEG average amplitude differs significantly across learning stages within each task, and across tasks at Stages 1 and 3, during a semester-long course](eeg-amplitude-stage-task-differences.md) — related
 - [Intrinsically motivated students form reflective-iterative metacognitive co-occurrence networks, but overall ENA centroid positions do not differ significantly between motivational groups](ena-networks-motivational-groups.md) — related
+- [State 1 of dynamic inter-brain connectivity is a superior communication state: higher global efficiency, clustering and ROI strength, lower path length, with ISFC increments in mirroring and mentalizing regions](disfc-state1-superior-interbrain-state.md) — related

@@ -54,3 +54,4 @@ fMRI findings across age groups in social-cognitive regions. The authors "observ
 - [Instructed reappraisal success improves with age across ages 10-23, following linear and quadratic trends](instructed-reappraisal-success-improves-age-10-23.md) — related
 - [Mid-adolescents show attenuated right vlPFC response to rejection-themed words relative to adults](mid-adolescent-attenuated-vlpfc-rejection-stroop.md) — related
 - [The ventral anterior temporal lobe integrates facial identity with social and conceptual knowledge](ventral-atl-integrates-face-identity-semantic-knowledge.md) — related
+- [Negative word counting in stressed teachers engages reappraisal-related regions early, without amygdala activation, suggesting regulation of emotional responses](early-reappraisal-engagement-negative-words-teachers.md) — related

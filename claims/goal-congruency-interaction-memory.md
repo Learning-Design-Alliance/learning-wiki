@@ -49,3 +49,5 @@ Mixed-effects logistic regression on recognition memory scores (assessed ~24 hr 
 - [Reading goals affect post-validation representation-building rather than validation processes directly](goals-affect-post-validation-representation.md) — a broader claim this one bears on
 - [Both text incongruency and knowledge inaccuracy produce increased reading times on target sentences](incongruency-accuracy-reading-time-effects.md) — related
 - [Reading goals do not influence validation processes: no goal × congruency or goal × accuracy interactions on reading times](reading-goals-no-validation-effect-online.md) — related
+- [In educational learning, prior-knowledge congruency enhances associative memory for indirectly inferred BC-associations in both experiments](congruency-enhances-associative-recall-educational.md) — related
+- [Congruency enhanced item recognition of new descriptions in experiment 2 but not in experiment 1](congruency-item-recognition-exp2-only.md) — related

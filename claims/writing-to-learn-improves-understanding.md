@@ -119,3 +119,4 @@ Open questions the recorded evidence does not settle: how large the effect is re
 - [Cohen's small, medium, and large effect size benchmarks are arbitrary and should not be interpreted rigidly](cohen-benchmarks-arbitrary.md) — related
 - [Writing is presented as uniquely corresponding to the features of successful learning](writing-uniquely-corresponds-features-successful-learning.md) — related
 - [Writing-to-learn activities improve content learning in Grades 1–12, with effects in mathematics indistinguishable from those in science and social studies, in one meta-analysis](writing-improves-mathematical-understanding.md) — related
+- [Learning journals can enhance metacognition and achievement, but benefits depend on reflection type and quality of instructions](learning-journals-reflection-type-moderates-benefit.md) — related

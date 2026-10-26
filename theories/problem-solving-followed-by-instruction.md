@@ -17,7 +17,7 @@ sources:
 # Problem-Solving Followed by Instruction
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 58 claims (22 for, 26 mixed, 10 against) · 31 studies (22 causal, 4 theoretical, 3 review, 1 quant-synthesis, 1 associational), `q1`–`q4` · 13 of 31 report an effect size · 57 claims rest on one study
+> **Evidence** · 63 claims (25 for, 28 mixed, 10 against) · 32 studies (23 causal, 4 theoretical, 3 review, 1 quant-synthesis, 1 associational), `q1`–`q4` · 14 of 32 report an effect size · 62 claims rest on one study
 
 ## Description
 Problem-solving followed by instruction (PS-I, closely related to "productive failure") reverses the conventional tell-then-practice sequence: students first attempt a problem — typically without succeeding at a canonical solution — and only afterward receive direct instruction on the correct method. The prior attempt activates relevant prior knowledge, surfaces students' own (often suboptimal) representations, and raises motivation to learn the canonical method by making its advantages concrete rather than abstract. A meta-analysis across 166 comparisons found PS-I outperforms instruction-first sequencing with Hedge's g=0.36 [95% CI 0.20, 0.51] (Sinha & Kapur, 2021). The underlying attempt can be left unguided ("productive failure" proper, where students generate as many solution representations as they can) or shaped by scaffolds that deliberately steer students toward specific representations before instruction corrects them — see [Failure-Driven Scaffolding](../strategies/failure-driven-scaffolding.md).
@@ -94,6 +94,11 @@ Problem-solving followed by instruction (PS-I, closely related to "productive fa
 - [Small-group discussion of a problem activates relevant prior knowledge, more than doubling free recall of propositions about the underlying process](../claims/problem-analysis-activates-prior-knowledge.md) [+W] — attached 2026-10-25 from Schmidt et al. (1989), which proposed "Prior-knowledge activation through problem analysis: explanatory models as vehicles for text comprehension"; tests this page's relationship.
 - [A higher proportion of dysfunctional behaviors during micro-failures is significantly negatively correlated with posttest scores, while the proportion of functional behaviors shows a non-significant positive correlation](../claims/dysfunctional-behaviors-negative-posttest-correlation.md) [~W]
 - [Fourth-graders given a choice-based (Select) preparation task outperformed those given a highly open-ended (Generate) task on the posttest in a productive-failure-style collaboration design](../claims/select-outperformed-generate-posttest-fourth-grade.md) [~W]
+- [PF students outperformed AL students on condition-topic midterm items by nearly five percentage points after controlling for prior performance](../claims/pf-beats-al-midterm-biology.md) [+W] — attached 2026-10-26 from Sunita G. Chowrira et al. (2019), which proposed "Depth of search and availability of solution as mechanisms explaining PF's advantage over active learning".
+- [PF still showed a positive, significant effect for combined medium- and high-achieving students on the midterm](../claims/pf-effect-med-high-combined.md) [+W]
+- [PF benefit for low-performing students persisted marginally on the final exam while effects for medium and high achievers were non-significant](../claims/pf-final-exam-ability-split.md) [~W]
+- [Low-achieving students gained the most from PF on the midterm, scoring about eight points higher than AL peers](../claims/pf-largest-gain-low-achievers-midterm.md) [+W]
+- [PF advantage on condition topics did not reach significance on the final exam overall](../claims/pf-final-exam-null-overall.md) [~W]
 
 ## The evidence by question
 

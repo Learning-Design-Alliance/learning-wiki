@@ -52,3 +52,4 @@ Correlation matrices from the ECLS-K: 2010 at waves 1, 2, and 4 (Table 3); all c
 - [In a meta-analytic database of ten studies, the latent EF factor model was preferred in seven samples, with two favoring the components model and one equal](meta-analytic-replication-latent-ef-model.md) — related
 - [Executive functions and working memory correlate moderately to strongly with mathematics achievement (r = .28 to .40), from preschool through elementary school](executive-functions-and-working-memory-correlate-with-math-achievement.md) — related
 - [Executive functions show consistent positive meta-analytic associations with academic outcomes](efs-positively-associated-academic-outcomes.md) — a broader claim this one bears on
+- [EF abilities strongly predict pre-academic abilities in preschoolers](efs-predict-preacademic-abilities-preschool.md) — related

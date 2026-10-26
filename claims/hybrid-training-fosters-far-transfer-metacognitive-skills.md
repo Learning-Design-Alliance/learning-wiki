@@ -72,3 +72,4 @@ Analysis of the MST_E at T3 found a significant condition effect, F(5,205) = 6.3
 - [Hybrid training improves fifth-graders' application of metacognitive skills in near-transfer tasks compared to non-hybrid and control training](hybrid-training-improves-near-transfer-metacognitive-skills.md) — related
 - [Training in metacognitive regulation combined with a cognitive learning strategy transfers to better metacognitive regulation of mental effort (far transfer), with small effect sizes](far-transfer-metacognitive-regulation-mental-effort.md) — related
 - [Cognitive learning strategy training yields preliminary evidence of far metacognitive transfer to effort regulation (Wirth et al., 2025)](far-metacognitive-transfer-effort-regulation.md) — related
+- [Metacognitive prompts foster metacognitive strategy use and improve transfer performance, with self-directed prompt effects lasting at least three weeks](metacognitive-prompts-transfer-effects.md) — related

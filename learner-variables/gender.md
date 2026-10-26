@@ -13,7 +13,7 @@ generated:
 # Gender
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 297 claims (181 show a difference, 67 mixed, 49 no difference) · 201 studies (132 associational, 32 causal, 14 quant-synthesis, 9 review, 5 qualitative, 5 theoretical, 4 design), `q1`–`q4` · 36 of 201 report an effect size · 289 claims rest on one study
+> **Evidence** · 298 claims (181 show a difference, 67 mixed, 50 no difference) · 202 studies (133 associational, 32 causal, 14 quant-synthesis, 9 review, 5 qualitative, 5 theoretical, 4 design), `q1`–`q4` · 36 of 202 report an effect size · 290 claims rest on one study
 
 ## How to read this page
 
@@ -336,6 +336,7 @@ Gender is recorded in most education studies, usually as a binary category taken
 - [Suspension-period factors explained substantially more variance in girls' post-resumption worries (46.5%) than boys' (24.2%)](../claims/variance-explained-sex-difference.md) [+M] — an instructional effect differs by group
 - [The nap effect on encoding is consistent across male and female students, with a significant main effect of group](../claims/nap-effect-consistent-across-sexes.md) [-M] — an instructional effect differs by group
 - [The negative association between online learning self-efficacy and later worries is significantly stronger for girls than for boys](../claims/ose-worries-stronger-for-girls.md) [+M] — an instructional effect differs by group
+- [No SES × gender, SES × birth month, gender × birth month, or three-way interactions on pre-academic abilities at age 3](../claims/no-interactions-ses-gender-birth-month-preacademic.md) [-M] — an instructional effect differs by group
 
 ## The evidence by question
 - *Do girls and boys differ in mathematics and reading achievement, by how much, and where in the distribution?* [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](../claims/pisa-sex-differences-math-small-reading-three-times-larger.md) [+M]

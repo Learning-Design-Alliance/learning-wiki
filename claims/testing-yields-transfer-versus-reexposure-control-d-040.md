@@ -53,3 +53,4 @@ Meta-analysis of 192 transfer effect sizes from 122 experiments in 67 published 
 - [Taking a multiple-choice test boosts performance on later tests compared with nontested control conditions, including with complex SAT II materials](mc-testing-boosts-later-performance.md) — related
 - [Positive and negative testing effects occur for questions tapping higher levels of Bloom's taxonomy, and question level does not change the memorial consequences of testing](testing-effects-bloom-higher-levels.md) — related
 - [Retrieval practice boosts learning, and the testing effect generalizes to the acquisition of entirely new material (forward testing effect)](testing-effect-backward-and-forward.md) — related
+- [Guided notes produce consistently higher performance on later quizzes than conditions without guided notes, including for learning-disabled students](guided-notes-higher-quiz-performance.md) — related

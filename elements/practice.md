@@ -13,7 +13,7 @@ generated:
 # Practice
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 38 claims (22 for, 11 mixed, 5 against) · 49 studies (22 causal, 11 quant-synthesis, 8 review, 5 theoretical, 2 associational, 1 qualitative), `q1`–`q4` · 11 of 49 report an effect size · 25 claims rest on one study
+> **Evidence** · 39 claims (22 for, 12 mixed, 5 against) · 51 studies (23 causal, 11 quant-synthesis, 9 review, 5 theoretical, 2 associational, 1 qualitative), `q1`–`q4` · 11 of 51 report an effect size · 26 claims rest on one study
 
 ## Description
 Practice asks learners to actively apply new knowledge or skills through structured activities rather than passively receiving information. It converts exposure into fluency and retention by requiring learners to generate responses, solve problems, or perform procedures under conditions that gradually approximate the target performance.
@@ -92,6 +92,7 @@ Practice is one of the most consistently supported instructional elements: activ
 - [On a delayed transfer test, the drill group recovered ground lost on the immediate transfer test while the rules group again scored better than on the immediate transfer test](../claims/delayed-transfer-spelling-groups-converge.md) [+W]
 - [Training blocks significantly increase conditioned response percentage in delay eyeblink conditioning](../claims/training-blocks-increase-cr-percentage-eyeblink.md) [+W]
 - [Repeated procedural training produces exponential decay of brain activation in a distributed set of regions including fronto-striatal circuits, paralleling exponential improvement in task performance](../claims/exponential-brain-activation-decay-fronto-striatal-procedural-learning.md) [+W]
+- [Increasing initial practice of skill A from 1 to 12 trials does not change parsing-rule generalization to skill B in early learning](../claims/practice-duration-no-impact-early-generalization.md) [~W]
 
 ## Design Decisions
 <!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice

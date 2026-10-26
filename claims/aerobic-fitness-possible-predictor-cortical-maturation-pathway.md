@@ -57,3 +57,4 @@ Authors' interpretation in the Discussion, not a tested result. They suggest "in
 - [Aerobic fitness and diet affect hippocampal volume and predict episodic memory differences, with effects possibly magnified in childhood](aerobic-fitness-diet-hippocampus-episodic-memory.md) — related
 - [The authors hypothesize that brain-reading cortical thickness correlations are positive in early reading acquisition and negative at later, consolidated stages](developmental-sign-flip-ct-reading-correlation-hypothesis.md) — related
 - [SES moderates the brain-behavior relationship in children's arithmetic, with higher and lower SES children engaging different neurocognitive systems](ses-moderates-arithmetic-brain-behavior-relationship.md) — related
+- [Brain structural and activity indices better predict cognitive performance two years later than cognitive measures tied to past learning](brain-indices-predict-future-cognition-better-than-learning-tied-measures.md) — related

@@ -13,7 +13,7 @@ generated:
 # Executive Function
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 111 claims (68 show a difference, 21 mixed, 22 no difference) · 64 studies (26 associational, 13 causal, 11 review, 10 quant-synthesis, 3 theoretical, 1 design), `q1`–`q4` · 18 of 64 report an effect size · 109 claims rest on one study
+> **Evidence** · 115 claims (69 show a difference, 23 mixed, 23 no difference) · 66 studies (27 associational, 14 causal, 11 review, 10 quant-synthesis, 3 theoretical, 1 design), `q1`–`q4` · 19 of 66 report an effect size · 113 claims rest on one study
 
 ## Description
 Executive function covers inhibitory control, updating working memory, and shifting between tasks or rules. It is measured by performance tasks (such as the Stroop, Flanker and dimensional card-sort tasks) and by teacher or parent ratings. It develops through childhood and adolescence, predicts school readiness and achievement, moderates designs that load self-direction on learners, and is the target of training programmes, whose effects rarely transfer beyond the trained tasks. It underlies [self-regulation](self-regulation.md) and [attention](attention.md) and overlaps with [working memory](working-memory.md).
@@ -148,6 +148,10 @@ Executive function covers inhibitory control, updating working memory, and shift
 - [In Study 2 (N=210), the profile-achievement link held while controlling initial performance and using effort and grade as outcomes](../claims/study2-effort-grade-controlling-initial-performance.md) [+M] — learners who differ on it differ in outcomes
 - [NAT produced near-transfer gains in inhibitory control across task difficulty, Go RT, and Go/No-Go accuracy measures](../claims/nat-inhibitory-control-near-transfer.md) [+M] — instruction changes it
 - [tACS cognitive benefits concentrate in executive function for theta protocols and in executive and perceptual-motor function for online gamma protocols](../claims/tacs-domain-moderators-executive-function.md) [~W] — instruction changes it
+- [Cognitive control (attention switching) shows no significant relationship with neural activation during the emotional counting Stroop task](../claims/cognitive-control-no-significant-neural-relationship.md) [-M] — learners who differ on it differ in outcomes
+- [Pre-intervention executive function correlates with information integration, but not value assessment or belief assessment](../claims/pre-intervention-set-shifting-correlates-information-integration.md) [~M] — learners who differ on it differ in outcomes
+- [Training effects are selective: active control improved processing efficiency but not executive function, and uni/multimodal interventions improved executive function but not processing efficiency](../claims/selective-transfer-active-control-processing-efficiency.md) [~M] — instruction changes it
+- [Uni- and multimodal interventions improve executive function (switch cost) relative to active control](../claims/multimodal-training-improves-executive-function-switch-cost.md) [+M] — instruction changes it
 
 ## The evidence by question
 - *Does a child's executive function predict achievement, and through what?* [Children's executive function at the beginning of pre-kindergarten predicts growth in mathematics achievement across the pre-kindergarten year](../claims/ef-predicts-preschool-math-growth.md) [+M]

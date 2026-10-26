@@ -79,7 +79,7 @@ sources:
 # Productive Failure
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 50 claims (19 for, 24 mixed, 7 against) · 30 studies (17 causal, 6 review, 4 theoretical, 2 quant-synthesis, 1 associational), `q1`–`q4` · 12 of 30 report an effect size · 47 claims rest on one study
+> **Evidence** · 56 claims (22 for, 27 mixed, 7 against) · 31 studies (18 causal, 6 review, 4 theoretical, 2 quant-synthesis, 1 associational), `q1`–`q4` · 13 of 31 report an effect size · 53 claims rest on one study
 
 ## Conditional relationship
 
@@ -198,6 +198,8 @@ Read 2026-10-19 (second pass, claims linked overnight); the others linked then m
 - [The proposed cognitive mechanisms explain both positive and negative effects of PS-I](../claims/mechanisms-explain-positive-and-negative-ps-i-effects.md) [~W]: Loibl, Roll & Rummel's (2017) theoretical move; the review's design findings are already in the fidelity row.
 - [The intervention significantly benefited 6th-grade students but showed no significant effects for 7th or 8th graders](../claims/assistments-grade-6-differential-impact.md) [~W] (not about this page): an evaluation of ASSISTments homework support with teacher professional development, not an attempt-before-instruction design.
 - [Struggling with a challenging task before receiving instruction prepares learners to benefit from explicit connections](../claims/struggle-before-instruction-prepares-for-learning.md) [+W] — attached 2026-10-20 from Fries et al. (2020), which proposed "Engage students in productive struggle before presenting explicit connections and solutions"; tests this page's relationship.
+- [Initial PF activities were too frustrating and were refined with moderate metacognitive support so students struggled without giving up](../claims/pf-moderate-support-refinement.md) [~W] — attached 2026-10-26 from Sunita G. Chowrira et al. (2019), which proposed "DIY productive failure cycle for large university classes: Exploration then Consolidation with pre-reading".
+- [PF students outperformed AL students on condition-topic midterm items by nearly five percentage points after controlling for prior performance](../claims/pf-beats-al-midterm-biology.md) [+M] — attached 2026-10-26 from Sunita G. Chowrira et al. (2019), which proposed "DIY productive failure cycle for large university classes: Exploration then Consolidation with pre-reading"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 
@@ -213,6 +215,10 @@ The expectation should weaken if new comparisons with comparable learners, holdi
 - [Instructional design and preferences interacted in predicting knowledge: DI-PS assignment and DI-PS preference were negatively associated with conceptual knowledge gain](../claims/design-preference-interaction-knowledge-gains.md) [-W]
 - [PS-DI learners reported higher intrinsic in-scenario cognitive load during problem solving (d = .53)](../claims/ps-di-higher-intrinsic-in-scenario-cognitive-load.md) [~W]
 - [A higher proportion of dysfunctional behaviors during micro-failures is significantly negatively correlated with posttest scores, while the proportion of functional behaviors shows a non-significant positive correlation](../claims/dysfunctional-behaviors-negative-posttest-correlation.md) [~W]
+- [PF still showed a positive, significant effect for combined medium- and high-achieving students on the midterm](../claims/pf-effect-med-high-combined.md) [+W]
+- [Low-achieving students gained the most from PF on the midterm, scoring about eight points higher than AL peers](../claims/pf-largest-gain-low-achievers-midterm.md) [+W]
+- [PF advantage on condition topics did not reach significance on the final exam overall](../claims/pf-final-exam-null-overall.md) [~W]
+- [PF benefit for low-performing students persisted marginally on the final exam while effects for medium and high achievers were non-significant](../claims/pf-final-exam-ability-split.md) [~W]
 
 ## Related Principles
 - [Pretesting (Prequestions Before Study)](pretesting.md)

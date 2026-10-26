@@ -28,7 +28,8 @@ The two-phase paradigm separates the JOS phase, where participants make intuitiv
 - [In a self-regulated solving phase, S JOSs predicted solving success and AS and NS JOSs predicted effort regulation](../claims/exp3-s-jos-predictive-self-regulated-solving.md) [+M]
 
 ## Related Research Methods
--
+
+- [Misleading-versus-facilitating task paradigm for assessing effective complexity](misleading-versus-facilitating-task-paradigm-for-assessing-effective-complexity.md)
 
 ## Key Sources
 - Burton, O. R., Bodner, G. E., Williamson, P., & Arnold, M. M. (2023). How accurate and predictive are judgments of solvability? Explorations in a two-phase anagram solving paradigm. Metacognition and Learning, 18, 1–35. https://doi.org/10.1007/s11409-022-09313-y

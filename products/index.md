@@ -2,7 +2,7 @@
 
 Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's.
 
-**1962 entries** · 0 stable · 1962 in review · 0 drafts
+**1963 entries** · 0 stable · 1963 in review · 0 drafts
 
 ---
 
@@ -819,6 +819,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [IRLA](irla.md) - The Independent Reading Level Assessment (IRLA) is a reading assessment framework used as a potential screening tool within Response to Intervention.
 * [Is Your State Prioritizing Social, Emotional, and Academic Development? 50-state scan](is-your-state-prioritizing-social-emotional-and-academic-development-50-state-scan.md) - A 50-state policy-scan data resource released by Ed Trust in partnership with CASEL that compiles publicly available state policies so educators, advocates, and policymakers can compare support for students’ social, emotional, and academic development.
 * [ISD-Agent-Bench](isd-agent-bench.md) - ISD-Agent-Bench is a benchmark dataset and evaluation harness created by YoungHoon Jeon et al.
+* [ISEE Assessment](isee-assessment.md) - The ISEE Assessment is a named assessment framework for evaluating education against holistic human-flourishing and well-being goals, developed by the ISEE Assessment initiative.
 * [iSELF professional development program](iself-professional-development-program.md) - iSELF is a professional-development programme developed for primary teachers that combines SRL theory training, lesson-planning support, coached lesson observation, and reflective feedback to promote explicit, integrated SRL instruction.
 * [ISLS webinar video collection for learning sciences and CSCL education](isls-webinar-video-collection-for-learning-sciences-and-cscl-education.md) - A freely available collection of approximately 50 recorded 90-minute webinars coordinated by the International Society of the Learning Sciences for use in learning-sciences and computer-supported collaborative-learning education.
 * [iSTART-2](istart-2.md) - iSTART-2 is a game-based intelligent tutoring system developed by researchers to provide high school students with self-explanation training and practice for reading comprehension.

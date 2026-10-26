@@ -35,7 +35,6 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 causal `r2` · `q3` · `i3` large
 > **Currency** · newest study 2026 · checked against its sources 2026-10-26 (automated, 2 of 2 entries) · not reviewed by a person
-> **Design limits** · Marlene Bönstrup 2020: no comparison group (read from the study by two models, 2026-10-26)
 
 ## Subclaims
 
@@ -80,3 +79,5 @@ One-sample t-tests in the TMRno group of a laboratory experiment (17 of the 69 p
 - [Lower resting GABAB-mediated inhibition in M1 (measured as LICI) is strongly negatively associated with micro-offline motor consolidation gains during early learning](m1-gabab-basal-level-predicts-micro-offline-consolidation.md) — related
 - [Retroactive interference immediately after practice reduces the learning rate relative to interference after 10 s of rest, indicating within-seconds memory stabilization](microscale-stabilization-early-versus-late-interference.md) — related
 - [Auditory TMR cues replayed 1.3x faster than the preceding practice speed yield greater early-phase motor learning gains than same-speed cues](tmr-fast-cues-enhance-early-motor-learning.md) — related
+- [A single 10-second practice trial of motor skill A produces micro-offline generalization, with performance at the onset of skill B exceeding the end of skill A](one-trial-micro-offline-generalization-early-motor-skill.md) — related
+- [Varying the inter-skill rest interval from 0 to 30 seconds does not modify one-trial generalization from skill A to skill B](rest-interval-no-impact-one-trial-generalization.md) — a narrower finding that bears on this claim

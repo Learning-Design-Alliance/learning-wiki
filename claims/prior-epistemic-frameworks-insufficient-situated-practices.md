@@ -48,3 +48,4 @@ The authors' interpretive analysis of two prevalent psychological approaches to 
 - [Heterogeneity-seeking modeling curricula surface epistemic commitments in most students, including care-based commitments absent from prior frameworks](heterogeneity-seeking-curricula-surface-diverse-epistemic-commitments.md) — related
 - [Academic historians' epistemic processes extend well beyond source analysis and writing](historians-epistemic-processes-extend-beyond-source-analysis.md) — related
 - [Epistemic games reveal unacknowledged disciplinary differences in interdisciplinary teams](epistemic-games-reveal-unacknowledged-disciplinary-differences-in-teams.md) — related
+- [Exporting individualistic, universalized well-being curricula across contexts can promote deficit discourse and epistemic injustice](universalized-wellbeing-curricula-promote-deficit-discourse.md) — related

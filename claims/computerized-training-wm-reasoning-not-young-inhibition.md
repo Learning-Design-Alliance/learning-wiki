@@ -78,3 +78,4 @@ Narrative review reporting failed computerized inhibitory-control training in 4-
 - [Isolated EF interventions show robust near-term EF gains but poor transfer, including to early mathematics](isolated-ef-interventions-poor-transfer.md) — related
 - [Interventions targeting SRL or EF show little evidence of far transfer to the other construct](srl-ef-interventions-no-far-transfer.md) — related
 - [Digitalised task training shows highly inconsistent evidence, appearing particularly suited to improving working memory](digitalised-task-training-inconsistent-wm.md) — reports the opposite
+- [Training executive function shows mixed effects: near transfer in children without far transfer, near and far transfer in adults, and no causal evidence that EF training improves academic achievement](ef-training-mixed-transfer-and-achievement.md) — related

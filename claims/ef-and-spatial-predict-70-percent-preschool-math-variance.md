@@ -59,3 +59,4 @@ Final hierarchical regression (Model 3) in a longitudinal study of 44 children t
 - [IQ and working memory are reliable predictors of academic achievement at the beginning of school when domain knowledge is not controlled](iq-and-wm-predict-early-academic-achievement.md) — related
 - [Preschool executive functions robustly predict mathematical skills during preschool and later in development](preschool-ef-predicts-mathematics.md) — a broader claim this one bears on
 - [Spatial ability scores are positively associated with mathematics performance across children and adults, as the review reports](spatial-ability-associated-mathematics-performance.md) — related
+- [EF abilities strongly predict pre-academic abilities in preschoolers](efs-predict-preacademic-abilities-preschool.md) — a broader claim this one bears on

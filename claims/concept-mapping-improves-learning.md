@@ -166,3 +166,4 @@ In Experiment 1, 80 undergraduates studied a science text in one of four ways: s
 - [Drawing to learn shows positive effects on learning performance compared with non-generative and text-focused learning strategies](drawing-beats-text-focused-strategies.md) — related
 - [Text quality after initial study moderates whether free recall beats generative tasks](text-quality-moderates-recall-vs-generative-sequence.md) — related
 - [Visualizing support—provided diagrams or learner-generated drawings—facilitates higher-quality explanations and better comprehension than explaining text alone](visualizing-support-facilitates-explaining.md) — related
+- [Generating information produces a memory advantage over passively reading it (the generation effect)](generation-effect-memory-advantage.md) — related

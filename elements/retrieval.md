@@ -13,7 +13,7 @@ generated:
 # Retrieval
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 20 claims (10 for, 8 mixed, 2 against) · 21 studies (14 causal, 4 quant-synthesis, 3 review), `q2`–`q4` · 11 of 21 report an effect size · 18 claims rest on one study
+> **Evidence** · 20 claims (10 for, 8 mixed, 2 against) · 22 studies (14 causal, 4 quant-synthesis, 4 review), `q2`–`q4` · 11 of 22 report an effect size · 18 claims rest on one study
 
 ## Description
 Retrieval practice (the "testing effect") requires learners to pull information out of memory — via free recall, short-answer questions, quizzes, or self-explanation — instead of passively reviewing it. The act of successful retrieval itself modifies memory, making the retrieved knowledge more accessible later than equivalent time spent re-reading.

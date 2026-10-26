@@ -12,7 +12,7 @@ generated:
 # Retrieval Practice Warm Ups
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (4 for, 1 mixed) · 12 studies (6 quant-synthesis, 4 causal, 2 review), `q2`–`q4` · 8 of 12 report an effect size · 1 claim rests on one study
+> **Evidence** · 5 claims (4 for, 1 mixed) · 13 studies (6 quant-synthesis, 4 causal, 3 review), `q2`–`q4` · 8 of 13 report an effect size · 1 claim rests on one study
 
 ## Description
 Retrieval practice warm ups are brief activities at the start of a lesson in which learners recall previously learned material from memory — answering questions, solving a few problems, or summarizing prior content — before new instruction begins. They function simultaneously as [retrieval practice](../principles/retrieval-practice.md), spaced review, and a formative check that surfaces gaps before new material builds on old.

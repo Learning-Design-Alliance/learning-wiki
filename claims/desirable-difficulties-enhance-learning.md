@@ -168,3 +168,4 @@ A multilevel meta-analysis comparing interleaved with blocked presentation of it
 - [Retrieval practice improves delayed but not immediate performance, consistent with a desirable-difficulties explanation](retrieval-practice-delayed-not-immediate-benefit.md) — related
 - [Images during retrieval practice enhanced feelings of competence but not enjoyment](images-enhance-competence-not-enjoyment.md) — related
 - [Retrieval practice boosts learning, and the testing effect generalizes to the acquisition of entirely new material (forward testing effect)](testing-effect-backward-and-forward.md) — related
+- [Guided notes produce consistently higher performance on later quizzes than conditions without guided notes, including for learning-disabled students](guided-notes-higher-quiz-performance.md) — related

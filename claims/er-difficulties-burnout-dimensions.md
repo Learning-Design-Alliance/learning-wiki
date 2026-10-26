@@ -50,3 +50,4 @@ Pooled random-effects correlations between ER difficulties and the three burnout
 - [Emotion regulation difficulties are positively associated with overall academic burnout in youth (pooled r = 0.25)](er-difficulties-positive-overall-burnout.md) — related
 - [Perceived student misbehavior is consistently identified as a key source of teacher stress and is positively associated with emotional exhaustion](student-misbehavior-teacher-stress-emotional-exhaustion.md) — related
 - [Student burnout is positively associated with dropout intentions, with a pooled meta-analytic correlation of r+ = .46](burnout-dropout-intentions-pooled-r46.md) — related
+- [Greater perceived stress is associated with greater emotion dysregulation in teachers](stress-correlates-emotion-dysregulation-teachers.md) — related

@@ -69,3 +69,4 @@ Same exploratory correlational analysis. Printed effect sizes: r = .585 (interac
 - [Pseudo-interactive responses showed significantly more repetition: a lower type-token ratio than interactive responses (t = 3.371, p = .001)](pseudo-interactive-repetition-type-token.md) — related
 - [Children in the interactive condition responded to 77.94% of Elinor's questions versus 68.13% in the pseudo-interactive condition](interactive-higher-response-rate.md) — related
 - [Pseudo-interactive videos also outperformed non-interactive videos by 0.16 standard deviations on science learning](pseudo-interactive-beats-non-interactive.md) — related
+- [Response cards markedly increase student responding and quiz scores compared with hand raising](response-cards-increase-responding-and-quiz-scores.md) — related

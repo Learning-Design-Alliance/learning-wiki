@@ -18,7 +18,7 @@ sources:
 # Adaptive Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 22 claims (14 for, 8 mixed) · 22 studies (5 causal, 5 review, 3 quant-synthesis, 3 associational, 3 qualitative, 2 theoretical, 1 design), `q1`–`q4` · 3 of 22 report an effect size · 21 claims rest on one study
+> **Evidence** · 24 claims (16 for, 8 mixed) · 23 studies (6 causal, 5 review, 3 quant-synthesis, 3 associational, 3 qualitative, 2 theoretical, 1 design), `q1`–`q4` · 3 of 23 report an effect size · 23 claims rest on one study
 
 ## Description
 Adaptive learning tailors content, pacing, support, or task sequence in response to evidence about a learner's current performance, needs, or prior knowledge.
@@ -74,6 +74,8 @@ Adaptive learning tailors content, pacing, support, or task sequence in response
 - [Personalization and differentiated instruction are rare in blended learning designs](../claims/personalization-limited-blended-designs.md) [~W]
 - [Adaptive scaffolding shows descriptively higher effects than adaptable scaffolding in simulation-based learning, though the difference is not statistically significant](../claims/adaptive-scaffolding-descriptively-higher-than-adaptable.md) [+W]
 - [Technology-supported adaptive teaching units showed significant learning gains, larger for low-prior-knowledge students and high implementation fidelity](../claims/adaptive-teaching-units-learning-gains-moderated.md) [+W]
+- [Adaptive task difficulty significantly improved performance for students at non-academic-track schools compared to control](../claims/adaptive-task-difficulty-benefits-nonacademic-track.md) [+W]
+- [Adaptive task difficulty significantly improved fraction knowledge for students in the inattentive unfavorable (lower-SES-associated) profile compared to no scaffolding](../claims/adaptive-task-difficulty-benefits-unfavorable-profile.md) [+W]
 
 ## The evidence by question
 - *Does adaptive instruction raise achievement over non-individualised instruction or the same content in a fixed sequence?* [Intelligent tutoring systems improve achievement over non-individualised instruction](../claims/adaptive-learning-improves-outcomes.md) [+S]

@@ -13,7 +13,7 @@ generated:
 # Enhance retention and transfer
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 14 claims (11 for, 3 mixed) · 23 studies (7 causal, 6 quant-synthesis, 6 review, 2 theoretical, 1 associational, 1 qualitative), `q2`–`q4` · 9 of 23 report an effect size · 9 claims rest on one study
+> **Evidence** · 14 claims (11 for, 3 mixed) · 24 studies (7 causal, 7 review, 6 quant-synthesis, 2 theoretical, 1 associational, 1 qualitative), `q2`–`q4` · 9 of 24 report an effect size · 9 claims rest on one study
 
 ## Description
 "Enhance retention and transfer" is the culminating phase of instruction (Gagné's final event; Merrill's Integration principle) in which learners consolidate what they have learned and apply it to novel contexts. Rather than ending a lesson at recall, this element deliberately designs activities — reflection, extension problems, far-transfer tasks — that require learners to restructure and redeploy knowledge beyond the conditions in which it was acquired.

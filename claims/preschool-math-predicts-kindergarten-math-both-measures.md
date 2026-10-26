@@ -53,3 +53,4 @@ Model 1 of the multilevel regression in the Family Life Project sample (N = 1005
 - [Children's executive function at the beginning of pre-kindergarten predicts growth in mathematics achievement across the pre-kindergarten year](ef-predicts-preschool-math-growth.md) — related
 - [Under the components model in ECLS-K, working memory is the most closely associated EF component with math, but only at time point 1 does it show a positive residual correlation beyond latent EF](working-memory-strongest-component-association-ecls-k.md) — related
 - [Executive function at 48 months positively predicts mathematics ability at prekindergarten, with effects persisting after cognitive covariate controls](executive-function-predicts-math-persisting-covariates.md) — related
+- [EF abilities strongly predict pre-academic abilities in preschoolers](efs-predict-preacademic-abilities-preschool.md) — related

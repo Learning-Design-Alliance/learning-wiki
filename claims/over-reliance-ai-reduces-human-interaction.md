@@ -72,3 +72,4 @@ The paper, a conceptual discussion of adult education policy drawing on literatu
 - [Hybrid work must be reconceptualised to include the human/AI duality alongside the presence/virtual continuum](hybrid-work-human-ai-duality.md) — related
 - [Automating constructive alignment with GenAI risks shifting it towards an instrument of compliance](genai-automation-shifts-constructive-alignment-toward-compliance.md) — related
 - [The article argues current AI tools focus on the products of learning rather than the human process of learning](ai-focus-products-not-processes.md) — related
+- [Education focused on economic growth has produced upward trends in literacy and credentials alongside downward trends in agency, humanistic values, relationships, and civic engagement, motivating a shift toward human flourishing](education-economic-growth-versus-flourishing-trends.md) — related

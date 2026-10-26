@@ -20,6 +20,7 @@ The article establishes a framework for continuous neural monitoring across a fu
 ## Accounts
 <!-- How each source describes or uses the method -->
 - **Longitudinal multi-task, multi-stage EEG framework for monitoring learning across an entire course**: The article establishes a framework for continuous neural monitoring across a full semester rather than short isolated tasks. As the authors state, "we established a longitudinal EEG acquisition and analysis framework within an authentic course-based learning scenario, achieving continuous neural monitoring over an entire semester." It combines time-domain amplitude, spectral (relative PSD), connectivity (PLI, entropy-based information transfer), and machine-learning analyses across three tasks and three course stages to characterize evolving brain dynamics during learning. (Hui Xie et al. (2025))
+- **Functional activation signatures as the measurement focus: brain activity before, during and after learning**: The article defines functional activation signatures as temporally staged patterns of brain activity in which 'activity takes place mostly in sensory processing areas before becoming more dominant in areas associated with higher-order cognitive abilities'. It argues the neuroscientific focus should be on brain activity before, during and after learning a task, rather than on task performance, since learning indicates a physical change in the brain such as synaptic plasticity, neurogenesis, or changes in neurons, in grey matter, white matter or both. (Robert Colvin (2016))
 
 ### Claims
 - [EEG average amplitude differs significantly across learning stages within each task, and across tasks at Stages 1 and 3, during a semester-long course](../claims/eeg-amplitude-stage-task-differences.md) [+M]
@@ -30,3 +31,4 @@ The article establishes a framework for continuous neural monitoring across a fu
 
 ## Key Sources
 - Hui Xie, Chunli Jia, Yanxia Luo, Jiangshan He, Zexiao Dong, Dan Liang, Ziqi Ren, Mingzhe Jiang, Xinbo Gao & Xueli Chen. (2025). EEG analysis of brain dynamics in a simulated multi-task and multi-stage learning environment. npj Science of Learning. https://doi.org/10.1038/s41539-025-00376-5
+- Robert Colvin. (2016). Optimising, generalising and integrating educational practice using neuroscience. npj Science of Learning. https://doi.org/10.1038/npjscilearn.2016.12

@@ -65,6 +65,7 @@ Note taking supports learning only when it induces generative processing; verbat
 - Sketchnoting — visual-spatial variant emphasizing dual coding
 - Pause Procedure — lecture pacing technique that creates the interaction windows
 - [Advise students on note-taking conditionally: consider cognitive ability, lecture format, and note-taking method rather than recommending note-taking universally](conditional-note-taking-advice.md)
+- [Use guided notes and response cards as low-cost active-responding techniques during lectures](use-guided-notes-and-response-cards.md)
 
 ## Examples
 - **Cornell note-taking system** (Cornell University Learning Strategies Center) — widely adopted two-column format with cue, note, and summary zones: https://lsc.cornell.edu/how-to-study/taking-notes/cornell-note-taking-system/

@@ -50,3 +50,4 @@ The review reports, citing neuroimaging studies, that brain maturation "takes mo
 - [Cognitive flexibility develops protractedly: sharp increase between 7 and 9 years, largely mature by age 10, peaking between 21 and 30](protracted-cognitive-flexibility-development.md) — related
 - [Hot executive function (CGT risk adjustment) shows a bell-shaped developmental curve, peaking at age 14 and declining thereafter](hot-ef-bell-shaped-development.md) — related
 - [CNV and P3 scalp topographies show a frontal shift with increasing age during adolescence](frontal-shift-cnv-p3-topographies-adolescence.md) — related
+- [Brain structural and activity indices better predict cognitive performance two years later than cognitive measures tied to past learning](brain-indices-predict-future-cognition-better-than-learning-tied-measures.md) — related

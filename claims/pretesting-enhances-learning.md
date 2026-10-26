@@ -195,3 +195,4 @@ Narrative review of Richland et al. (2009), in which participants attempted five
 - [Unsuccessful retrieval attempts confer a smaller benefit to future performance than successful retrievals, whose advantage grows with item difficulty](unsuccessful-retrieval-smaller-benefit-than-successful.md) — related
 - [Students already show a pretest congruency effect: existing knowledge yields better baseline performance for schema-related questions](pretest-schema-congruency-effect.md) — related
 - [The study addresses whether performance on the low-stakes PISA reading and mathematics assessments can be fostered by coaching and pretesting](low-stakes-pisa-coaching-question.md) — a narrower finding that bears on this claim
+- [Generating information produces a memory advantage over passively reading it (the generation effect)](generation-effect-memory-advantage.md) — related

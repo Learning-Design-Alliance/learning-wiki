@@ -54,3 +54,4 @@ Mueller and Dweck (1998) conducted six studies with late grade-school children c
 - [Feedback Most Effective At Task And Process Levels](feedback-most-effective-at-task-and-process-levels.md) — related
 - [Gaming participants did not report the negative consequences of task failure; low-stakes experimentation and regeneration supported perseverance](gaming-failure-tolerance-perseverance.md) — related
 - [Specific observable mindset-signaling behaviors have been identified that convey peers' implicit beliefs about ability](mindset-signaling-behaviors-identified.md) — related
+- [Students overwhelmingly categorize specific teaching practices as signaling growth versus fixed instructor mindsets](teaching-practices-signal-mindset-to-students.md) — related

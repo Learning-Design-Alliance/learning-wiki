@@ -71,7 +71,7 @@ sources:
 # Spaced Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 77 claims (40 for, 35 mixed, 2 against) · 51 studies (26 causal, 12 review, 9 quant-synthesis, 3 theoretical, 1 associational), `q1`–`q4` · 16 of 51 report an effect size · 70 claims rest on one study
+> **Evidence** · 78 claims (40 for, 36 mixed, 2 against) · 53 studies (27 causal, 13 review, 9 quant-synthesis, 3 theoretical, 1 associational), `q1`–`q4` · 16 of 53 report an effect size · 71 claims rest on one study
 
 ## Description
 
@@ -478,6 +478,7 @@ The article concludes that AI-generated podcasts are best positioned as a 'mobil
 - [In a self-regulated MOOC, spacing study across more sessions predicts higher unit quiz performance within participants](../claims/self-regulated-spacing-predicts-mooc-quiz-performance.md) [+W]
 - [OET 94 scheduling yielded approximately 40% higher memory retention than conventional scheduling (S15), with a benefit of Cohen's d = 0.64](../claims/oet94-forty-percent-gain-over-conventional.md) [~M]
 - [Shorter retention intervals predict higher quiz grades, and the spacing benefit holds even at short retention intervals](../claims/retention-interval-no-spacing-interaction.md) [~W]
+- [Varying the inter-skill rest interval from 0 to 30 seconds does not modify one-trial generalization from skill A to skill B](../claims/rest-interval-no-impact-one-trial-generalization.md) [~W]
 
 ## Key Sources
 

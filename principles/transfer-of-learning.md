@@ -24,7 +24,7 @@ sources:
 # Transfer of Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 31 claims (20 for, 11 mixed) · 33 studies (13 causal, 8 review, 5 theoretical, 4 quant-synthesis, 2 qualitative, 1 associational), `q1`–`q4` · 6 of 33 report an effect size · 27 claims rest on one study
+> **Evidence** · 33 claims (22 for, 11 mixed) · 34 studies (14 causal, 8 review, 5 theoretical, 4 quant-synthesis, 2 qualitative, 1 associational), `q1`–`q4` · 6 of 34 report an effect size · 29 claims rest on one study
 
 ## Conditional relationship
 
@@ -126,6 +126,7 @@ Claims bearing on transfer that the wiki holds and this model does not use. None
 - [After a lesson series, two sixth graders could switch flexibly between perspectives when comparing negative integers; one distinguished number-line order from context-based absolute-value reasoning about debts](../claims/post-lesson-flexible-perspective-switching.md) [+W] — attached 2026-10-17 from Maike Schindler et al. (2017), which proposed "Design lesson series on negative numbers around a rich out-of-school context plus the number line as origins for students' inferences".
 - [Experimental studies report transfer of training across diverse operations, from sensory discrimination to memorizing](../claims/transfer-of-training-diverse-operations-review.md) [+W] — attached 2026-10-24 from J. E. Wallace Wallin (1905), which proposed "Specific training can insure general training under certain limitations, supporting formal discipline"; tests this page's relationship.
 - [A rules-plus-minimal-drill spelling group showed a distinct advantage over a drill-only group on an immediate transfer test of new words](../claims/spelling-rules-beat-drill-transfer-new-words.md) [+W] — attached 2026-10-25 from Turner et al. (1912), which proposed "Pair spelling-rule instruction with type words and minimal drill when transfer to new words is the goal"; tests this page's relationship.
+- [Early generalization is content-specific: skill B onset performance is higher when skills share a parsing rule than when they share only transition structure](../claims/parsing-rule-content-specific-generalization.md) [+W] — attached 2026-10-26 from B. P. Johnson et al. (2023), which proposed "Design early practice schedules so that successive skills share abstract parsing-rule structure, since this structure generalizes within seconds"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 
@@ -148,6 +149,7 @@ Recall of the taught items, near transfer, far transfer, delayed transfer and us
 - [Structure-emphasizing example sets, using varied cover stories across problem types, lead students to categorize problems by structure rather than surface features](../claims/structure-emphasizing-cover-stories-categorization.md) [+W]
 - [A review of approximately 80 studies found cognitive training teaching both discrimination and generalization effective for inductive reasoning and problem-solving transfer](../claims/cognitive-training-discrimination-generalization-review.md) [+W]
 - [Practice effects in visual reproduction are specific: they transfer to new conditions only in proportion to identical ability-conditioning factors.](../claims/practice-effects-specific-to-conditions.md) [~W]
+- [One-trial generalization of parsing rule structure exceeds sensorimotor mapping benefits: onset of skill B is approximately 19% larger in the PARSING RULE than the RANDOM group](../claims/parsing-generalization-exceeds-sensorimotor-mapping.md) [+W]
 
 ## Related Principles
 - [Experiential Learning](experiential-learning.md)

@@ -57,3 +57,4 @@ Narrative review attribution: the article reports a word-pair memory task study 
 - [Young children can self-initiate external metacognitive strategies and transfer them across contexts, with flexibility increasing over the preschool and early school years](young-children-self-initiate-external-metacognitive-strategies.md) — related
 - Some participants used external memory aids such as notes or web sources during practice, and Experiment 2 analyses were checked excluding these participants. — related
 - [Shifting information to external aids enhances task performance with greater gains under high cognitive load](offloading-enhances-performance-under-load.md) — related
+- [Model support shifts from reward-based learning in early primary school to belief-based opponent tracking from grades 4-5 onward](model-support-shift-reward-to-belief-learning.md) — related

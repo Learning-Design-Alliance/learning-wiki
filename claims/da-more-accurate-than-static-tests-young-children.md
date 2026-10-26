@@ -65,3 +65,4 @@ The review's synthesis of DA research with clinical and educational groups repor
 - [Learning behaviors of typical multilingual development can resemble those of disability, complicating accurate identification](language-development-disability-behavior-overlap.md) — related
 - [Interactionist DA mediation in SCMC reveals learners' microgenetic movement through internalization levels within the ZPD](scmc-da-mediation-reveals-microgenetic-development.md) — related
 - [The mediational strategy is reported as more effective than other intervention approaches such as the graduated prompt](mediational-strategy-more-effective-than-graduated-prompt.md) — related
+- [The ISEE Assessment proposes potentiality, operationalized as an individual's learning rate measured through dynamic formative assessments of personal learning trajectories, in place of merit-based assessment](potentiality-learning-rate-replaces-merit-assessment.md) — related

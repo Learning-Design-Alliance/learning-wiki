@@ -72,3 +72,4 @@ Difference-in-differences analysis of biannual national test scores (n ≈ 350,0
 - [PISA mathematics scores declined by an average of 12 points (14.2% of a standard deviation, about 7 months of learning) after COVID-19 school closures](pisa-math-decline-14-percent-sd-covid.md) — related
 - [Reading losses resemble mathematics losses, but science effects are insignificant and reading/science results are unreliable because pre-pandemic trends were non-linear](reading-science-trend-limits.md) — related
 - [The COVID-19 switch to remote schooling was accompanied by significant declines in math and science scores on a UAE digital learning platform](covid-remote-learning-score-declines-uae-platform.md) — related
+- [School quality is positively but weakly associated with Cito performance (b = 0.61, β = 0.06), much more weakly than parental SES (b = 2.89, β = 0.30)](school-quality-small-association-cito.md) — related

@@ -13,7 +13,7 @@ generated:
 # Representational Drawing
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 8 claims (3 for, 5 mixed) · 7 studies (4 causal, 2 quant-synthesis, 1 review), `q2`–`q3` · 3 of 7 report an effect size · 8 claims rest on one study
+> **Evidence** · 9 claims (4 for, 5 mixed) · 8 studies (5 causal, 2 quant-synthesis, 1 review), `q2`–`q3` · 3 of 8 report an effect size · 9 claims rest on one study
 
 ## Description
 Representational drawing is the element in which learners sketch, diagram, or draw structures and relationships to support understanding.
@@ -31,3 +31,4 @@ Representational drawing is the element in which learners sketch, diagram, or dr
 - [Effect sizes across drawing-support studies show significant heterogeneity for both comprehension and transfer outcomes](../claims/drawing-support-heterogeneity-significant.md) [~W]
 - [Drawing to learn shows positive effects on learning performance compared with non-generative and text-focused learning strategies](../claims/drawing-beats-text-focused-strategies.md) [+W]
 - [Digital drawing shows mixed results relative to paper-based drawing, with a meta-analysis favoring traditional media for some assessment types](../claims/digital-vs-paper-drawing-mixed.md) [~M]
+- [Students rated the seminar highly and many reported transferring argument visualization to other coursework](../claims/seminar-student-ratings-transfer-reports.md) [+W]

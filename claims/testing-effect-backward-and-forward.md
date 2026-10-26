@@ -72,3 +72,4 @@ The comment reports the forward testing effect, citing Yang, Potts & Shanks's re
 - [Retrieval practice and spaced retrieval improve achievement and retention by medium amounts, while interleaving helps category learning only for some materials and blocking beats it for words](desirable-difficulties-enhance-learning.md) — related
 - [Rereading Is A Low Utility Study Strategy](rereading-is-a-low-utility-study-strategy.md) — related
 - [Retrieval Practice Improves Transfer](retrieval-practice-improves-transfer.md) — related
+- [Generating information produces a memory advantage over passively reading it (the generation effect)](generation-effect-memory-advantage.md) — related

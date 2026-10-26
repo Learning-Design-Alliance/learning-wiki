@@ -29,7 +29,7 @@ grain_size: lesson
 # Formative Assessment
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 43 claims (21 for, 21 mixed, 1 against) · 49 studies (15 causal, 12 quant-synthesis, 8 review, 5 qualitative, 4 associational, 4 theoretical, 1 design), `q1`–`q4` · 17 of 49 report an effect size · 32 claims rest on one study
+> **Evidence** · 44 claims (21 for, 22 mixed, 1 against) · 51 studies (16 causal, 12 quant-synthesis, 9 review, 5 qualitative, 4 associational, 4 theoretical, 1 design), `q1`–`q4` · 17 of 51 report an effect size · 33 claims rest on one study
 
 ## Description
 
@@ -211,6 +211,7 @@ This is the article's described classroom pattern for formative assessment in la
 - [Accurately judging cue manifestations, not merely using diagnostic cues, improves teachers' monitoring accuracy; non-diagnostic student cues hamper it](../claims/accurate-cue-manifestation-judgment-improves-teacher-monitoring.md) [~W]
 - [The tests had diagnostic value, corroborating teachers' experience and illuminating difficult cases](../claims/mental-tests-diagnostic-value-corroborate-teachers.md) [+W]
 - [Reviewer questions whether action responses guarantee meaning or become direct cues to responses](../claims/action-response-meaning-question.md) [~W]
+- [In an online replication, adding feedback in the second half improved immediate extraction of concrete word meanings for congruent trials only, replicating the laboratory effect](../claims/exp2-adding-feedback-improves-congruent-extraction.md) [~W]
 
 ## Key Sources
 

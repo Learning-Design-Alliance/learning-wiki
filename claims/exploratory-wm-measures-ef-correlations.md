@@ -53,3 +53,4 @@ Exploratory correlational analyses in the N = 147 sample using span scores and t
 - [Verbal WM correlates with intelligence but visuospatial WM does not in kindergarten children](verbal-wm-intelligence-visuospatial-null.md) — related
 - [PES is robustly present in kindergarten children and decreases over the course of a task block](pes-present-decreases-within-block.md) — related
 - [Shifting accuracy and shift cost show no association with intelligence or WM in kindergarten children](shifting-null-intelligence-wm.md) — related
+- [Pre-intervention executive function correlates with information integration, but not value assessment or belief assessment](pre-intervention-set-shifting-correlates-information-integration.md) — related

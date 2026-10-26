@@ -17,7 +17,7 @@ sources:
 # Support effortful strategy use by making students aware of the benefits of retrieval practice and providing hints
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 5 studies (2 quant-synthesis, 1 causal, 1 review, 1 theoretical), `q2`–`q4` · 4 of 5 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (2 for) · 6 studies (2 quant-synthesis, 2 review, 1 causal, 1 theoretical), `q2`–`q4` · 4 of 6 report an effect size · 1 claim rests on one study
 
 ## Description
 Because students experience retrieval practice as more effortful than restudy and tend to avoid it in self-regulated learning contexts for memory-based tasks, the editorial states that "interventions are needed to aid learners in acknowledging the higher effort as a desirable difficulty and increase the use of retrieval practice during self-regulated learning". Making students aware of the benefits of retrieval practice and providing hints are described as promising ways to do so. Future research should collect observational measures of students' self-regulated learning decisions and multiple subjective and objective measures of effort during retrieval.

@@ -59,3 +59,4 @@ A correlational study reviewed by the article showed that "measures of working m
 - [The WM–flexibility factor predicts math composite scores at both Grade 1 and Grade 3](wm-flexibility-predicts-math-composite-both-grades.md) — related
 - [The central executive component of working memory is the most important domain-general predictor of later-grade mathematics achievement](central-executive-top-domain-general-predictor.md) — related
 - [Beyond prior achievement, predictor groups (IQ, grades, motivation and emotion, cognitive strategies, classroom/home environments, demographics) show smaller yet consistent contributions to predicting math achievement over time](predictor-groups-smaller-consistent-contributions-math.md) — related
+- [Pre-intervention executive function correlates with information integration, but not value assessment or belief assessment](pre-intervention-set-shifting-correlates-information-integration.md) — related

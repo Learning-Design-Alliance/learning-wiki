@@ -95,3 +95,4 @@ The review reports a set of studies (e.g., Siegler & Chen 2008 on water displace
 - [Adding a self-explanation feature to a base game improved transfer performance](self-explanation-feature-improved-game-transfer.md) — related
 - [Correct and complete exemplar supports produced greater improvement in preservice teachers' fraction comparison explanations than supports displaying common misconceptions and errors](correct-exemplars-improve-pst-fraction-explanations.md) — a narrower finding that bears on this claim
 - [Misconception-based adaptive feedback reduced mathematics anxiety and supported motivation without cognitive outcome differences](misconception-feedback-affective-benefits.md) — related
+- [Children who actively generate their own predictions show better conceptual learning about water displacement than children who observe matched predictions from another learner](diy-prediction-better-conceptual-learning-than-yoked-observation.md) — related

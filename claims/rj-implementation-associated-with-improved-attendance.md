@@ -56,3 +56,4 @@ Narrative review reporting an Oakland observational comparison (Jain et al., 201
 - [Asthma linked to poor indoor air quality is a causal chain from facilities to chronic absenteeism and lower achievement](asthma-iaq-absenteeism-causal-chain.md) — related
 - [Schools implementing restorative justice report decreases in exclusionary discipline such as suspensions and expulsions](rj-implementation-associated-with-lower-exclusionary-discipline.md) — related
 - [Evidence on RJ's impact on academic outcomes is limited and mixed, with graduation-rate gains in one study and no GPA change in another](rj-academic-outcomes-evidence-mixed.md) — related
+- [Contextually sensitive programs combining structural change with community participation have improved educational and well-being outcomes](contextual-structural-community-programs-improved-outcomes.md) — a broader claim this one bears on

@@ -36,7 +36,7 @@ sources:
 # Adaptive Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 70 claims (37 for, 29 mixed, 4 against) · 68 studies (23 causal, 18 review, 8 design, 7 quant-synthesis, 6 associational, 4 theoretical, 2 qualitative), `q1`–`q4` · 11 of 68 report an effect size · 63 claims rest on one study
+> **Evidence** · 71 claims (38 for, 29 mixed, 4 against) · 69 studies (24 causal, 18 review, 8 design, 7 quant-synthesis, 6 associational, 4 theoretical, 2 qualitative), `q1`–`q4` · 11 of 69 report an effect size · 64 claims rest on one study
 
 ## Conditional relationship
 
@@ -190,6 +190,7 @@ Within-system performance, aligned achievement, standardised achievement, delaye
 - [System-controlled adaptive instruction does not necessarily yield higher transfer than nonadaptive static approaches](../claims/system-control-not-superior-transfer.md) [~W]
 - [ITS augmentation: meta-analyses find medium to large learning benefits of ITS over unsupported learning and small to medium gains over less adaptive computer-assisted learning](../claims/its-augmentation-benefits-over-unsupported-learning.md) [+M]
 - [Effects of ITSs are mitigated when compared to non-intelligent tutoring systems: three of four comparisons found no significant difference in learning gains](../claims/its-vs-non-intelligent-ts-mitigated.md) [~W]
+- [Adaptive task difficulty significantly improved performance for students at non-academic-track schools compared to control](../claims/adaptive-task-difficulty-benefits-nonacademic-track.md) [+W]
 
 ## Related Principles
 - [Cognitive Load Management](cognitive-load-management.md) — adaptation is the primary mechanism for keeping intrinsic load matched to learner expertise over time

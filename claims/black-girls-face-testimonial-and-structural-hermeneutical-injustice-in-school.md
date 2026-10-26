@@ -104,3 +104,5 @@ The author's argument: a "systematic absence of knowledge about the speaker’s 
 - [Wikipedia editing reproduces inequalities in editors, topics and credible knowledge, but feminist edit-a-thons can redress cultural injustice](wikipedia-editing-inequality-and-edit-a-thons.md) — related
 - [Black girls' awareness of difficulties navigating educational settings is coupled with parental support that promotes positive gendered racial identities](parental-support-promotes-positive-gendered-racial-identities.md) — related
 - [Because many delinquent girls learned quickly and accurately, the article concludes moral defects must be partially explained on grounds other than inferior mentality](delinquency-not-fully-explained-by-mentality.md) — related
+- [Individual trainings alone are unlikely to overcome the impact of broader inequities on student outcomes](individual-trainings-unlikely-overcome-structural-inequities.md) — related
+- [Exporting individualistic, universalized well-being curricula across contexts can promote deficit discourse and epistemic injustice](universalized-wellbeing-curricula-promote-deficit-discourse.md) — related

@@ -12,7 +12,7 @@ generated:
 # Play and Cognitive Development
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 18 claims (13 for, 5 mixed) · 15 studies (4 causal, 4 associational, 2 quant-synthesis, 2 review, 1 qualitative, 1 design, 1 theoretical), `q1`–`q3` · 3 of 15 report an effect size · 18 claims rest on one study
+> **Evidence** · 19 claims (14 for, 5 mixed) · 16 studies (5 causal, 4 associational, 2 quant-synthesis, 2 review, 1 qualitative, 1 design, 1 theoretical), `q1`–`q3` · 4 of 16 report an effect size · 19 claims rest on one study
 
 ## Description
 Play is self-directed, individually constructed, imaginative activity, distinct from product-focused work, that serves cognitive skill development, social-emotional learning, and identity exploration. Piaget identified types of play that track a child's cognitive maturation; Smilansky added an intermediate category; Vygotsky offered a complementary account of *why* pretend play matters developmentally, independent of Piaget's stage framework.
@@ -64,6 +64,7 @@ Vygotsky treated pretend play as central to development in its own right: it let
 - [The pretend play–social competence relation does not differ significantly across types of social competence measures or between intervention and non-intervention studies](../claims/no-difference-by-competence-measure-or-design.md) [+W]
 - [Instinctive tendencies, particularly those evinced in play, already provide efficient machinery for children's acquaintance with the world](../claims/instinctive-play-suffices-sensory-acquaintance.md) [+W]
 - [Building products change qualitatively with age: young children build static, skeleton structures supplemented by imagination, while adolescents build structures that work](../claims/static-to-functional-structures-with-age.md) [+W]
+- [Preschoolers gradually learn to cooperate more with high-competitive than low-competitive opponents in the Chicken game](../claims/preschoolers-cooperate-more-with-competitive-opponents.md) [+W]
 
 ## Related Theories
 

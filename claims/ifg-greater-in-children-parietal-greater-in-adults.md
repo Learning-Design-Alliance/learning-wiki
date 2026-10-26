@@ -54,3 +54,4 @@ Two-sample t test between children's and adults' conjunction maps within a union
 - [A graded left superior parietal retrieval-success effect emerges by age 12 but is absent in 8-year-olds](ppc-retrieval-success-effect-emerges-age-12.md) — related
 - [Among children, differences in Arabic numeral performance are associated with ratio-dependent BOLD differences in left superior parietal cortex and right OTC, but dot array performance differences show no such brain differences](arabic-numeral-performance-parietal-otc-median-split.md) — related
 - [Inferior parietal cortex (BA 39 and 40) shows greater overall activation in adults than children and a more pronounced effect of relational integration in adults](parietal-ipl-greater-activation-adults.md) — related
+- [Children carrying the DRD4 seven-repeat allele show lower left frontal neural activation than children without it despite no behavioral differences](drd4-seven-repeat-lower-frontal-activation.md) — related

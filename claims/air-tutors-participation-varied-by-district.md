@@ -74,3 +74,4 @@ Descriptive attendance analysis for District B showing most participants fell we
 - [One year after tutoring, full-sample Air Tutors participation shows no statistically significant impact on statewide math assessment scores](air-tutors-full-sample-no-long-term-impact.md) — related
 - [Short-term gains from Air Tutors tutoring on district benchmark assessments did not persist to statewide math assessments 1 year later](air-tutors-short-term-gains-did-not-persist.md) — related
 - [In the full-sample analysis, Air Tutors students performed worse than matched peers on the statewide summative assessment (significant overall and in District B) but showed more benchmark growth in District A and no significant benchmark difference in District B](air-tutors-full-sample-mixed-impacts.md) — related
+- [Attendance patterns indicate students were substantially more engaged in Discovery sessions than in regular classes](discovery-attendance-exceeds-class-attendance.md) — related
