@@ -28,7 +28,7 @@ PTA is a data-driven methodology that "produces a representative set of textual 
 - [PTA-derived traits significantly improve explained exam-score variance over a prior-outcome baseline in one semester of StudyChat but not the other](../claims/pta-traits-explain-studychat-exam-variance-semester-inconsistent.md) [+M]
 - [PTA traits significantly predict per-session success in the SWE-Chat developer corpus beyond a prior-outcome baseline](../claims/pta-traits-predict-swe-chat-session-success.md) [+M]
 - [PTA traits show stronger statistical explanatory power than dialogue-act and Bloom's taxonomy coded baselines on StudyChat](../claims/pta-traits-beat-dialogue-act-bloom-baselines.md) [+W]
-- [Trait-score trajectories over time are inconclusive as learning-curve evidence: one StudyChat trait increases while SWE-Chat traits stay flat](../claims/trait-temporal-trends-inconclusive-learning-curves.md) [~W]
+- [Trait-score trajectories over time are inconclusive as learning-curve evidence: one StudyChat trait increases while the significant SWE-Chat traits stay flat](../claims/trait-temporal-trends-inconclusive-learning-curves.md) [~W]
 
 ## Related Research Methods
 -

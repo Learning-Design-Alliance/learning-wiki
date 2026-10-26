@@ -49,7 +49,7 @@ Phase one crossover RCT (n=35) in a simulated noisy classroom. Table 1 reports T
 - [Oral Language](../learner-variables/oral-language.md) — outcome: instruction changes it
 
 ## Related Claims
-- [RMT improves auditory attention, sustained auditory attention and auditory response control, with no effect on visual attention measures](rmt-improves-auditory-not-visual-attention.md) — related
+- [RMT improves auditory attention, sustained auditory attention and auditory response control, with no significant improvement on visual attention measures](rmt-improves-auditory-not-visual-attention.md) — related
 - [RMT use improves speech recognition in noise for inattentive children with listening difficulties during a 4-week crossover RCT](rmt-improves-speech-recognition-inattentive-children.md) — related
 - [Students and teachers report improved classroom listening during RMT use, with reduced teacher-rated inattention and hyperactivity](rmt-improves-reported-classroom-listening-and-adhd-symptoms.md) — related
 - [Long-term RMT use does not improve auditory processing, memory or attention skills beyond the typical developmental trajectory](rmt-no-long-term-auditory-cognitive-gains.md) — related

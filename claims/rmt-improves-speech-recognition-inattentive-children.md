@@ -48,6 +48,6 @@ Phase one 4-week randomized controlled crossover trial (n=35), assessed in a sim
 - [Auditory Processing](../learner-variables/auditory-processing.md) — outcome: instruction changes it
 
 ## Related Claims
-- [RMT improves auditory attention, sustained auditory attention and auditory response control, with no effect on visual attention measures](rmt-improves-auditory-not-visual-attention.md) — related
+- [RMT improves auditory attention, sustained auditory attention and auditory response control, with no significant improvement on visual attention measures](rmt-improves-auditory-not-visual-attention.md) — related
 - [RMT use improves listening comprehension of oral directions in noise for inattentive children with listening difficulties](rmt-improves-listening-comprehension-inattentive-children.md) — related
 - [Students and teachers report improved classroom listening during RMT use, with reduced teacher-rated inattention and hyperactivity](rmt-improves-reported-classroom-listening-and-adhd-symptoms.md) — related

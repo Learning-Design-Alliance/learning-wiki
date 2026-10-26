@@ -163,7 +163,7 @@ How long a learner can sustain focus, and how readily something else takes it. D
 - [A 12-week moderate-intensity Tai Chi intervention reduces attentional bias scores in men with MUD more than moderate-intensity treadmill running](../claims/tai-chi-reduces-attentional-bias-mud.md) [+M] — instruction changes it
 - [Long-term RMT use accelerates reading fluency gains in inattentive children compared to controls over a 30-week extension](../claims/rmt-accelerates-reading-fluency-over-30-weeks.md) [+W] — an instructional effect differs with it
 - [Off-training cognitive transfer shows gains in working memory and focused attention for the ACT group only, with no significant group-by-session interactions](../claims/act-off-training-transfer-mixed.md) [~M] — instruction changes it
-- [RMT improves auditory attention, sustained auditory attention and auditory response control, with no effect on visual attention measures](../claims/rmt-improves-auditory-not-visual-attention.md) [~M] — instruction changes it
+- [RMT improves auditory attention, sustained auditory attention and auditory response control, with no significant improvement on visual attention measures](../claims/rmt-improves-auditory-not-visual-attention.md) [~M] — instruction changes it
 
 ## The evidence by question
 - *Does making material more interesting with details that do not carry the target cost learning?* [Interesting but irrelevant details can impair comprehension and transfer, with effects that vary with the material and the learner](../claims/seductive-details-effect.md) [+S]

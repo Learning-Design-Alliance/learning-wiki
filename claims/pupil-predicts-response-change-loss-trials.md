@@ -11,21 +11,24 @@ evidence_strength: mixed
 newest_evidence: 2026
 sources:
   - id: hallman-2026
-    title: "Hallman, A. E. Z., Willfors, C., Frick, M. A., Nordgren, A. & Kleberg, J. L. (2026). Comparing feedback learning, pupil dilation, and gaze allocation in intellectual disability. npj Science of Learning."
+    resource: "https://doi.org/10.1038/s41539-026-00438-2"
+    title: "Hallman, A. E. Z., Willfors, C., Frick, M. A., Nordgren, A. & Kleberg, J. L. (2026). Comparing feedback learning and arousal responses in Down, Fragile X, and Williams syndromes. npj Science of Learning. https://doi.org/10.1038/s41539-026-00438-2"
     author: "Hallman, A. E. Z., Willfors, C., Frick, M. A., Nordgren, A. & Kleberg, J. L."
     q: 3
     i: "?"
     kind: associational
     rigour: "?"
   - id: hallman-2026-2
-    title: "Hallman, A. E. Z., Willfors, C., Frick, M. A., Nordgren, A. & Kleberg, J. L. (2026). Comparing feedback learning, pupil dilation, and gaze allocation in intellectual disability. npj Science of Learning."
+    resource: "https://doi.org/10.1038/s41539-026-00438-2"
+    title: "Hallman, A. E. Z., Willfors, C., Frick, M. A., Nordgren, A. & Kleberg, J. L. (2026). Comparing feedback learning and arousal responses in Down, Fragile X, and Williams syndromes. npj Science of Learning. https://doi.org/10.1038/s41539-026-00438-2"
     author: "Hallman, A. E. Z., Willfors, C., Frick, M. A., Nordgren, A. & Kleberg, J. L."
     q: 3
     i: "?"
     kind: associational
     rigour: "?"
   - id: hallman-2026-3
-    title: "Hallman, A. E. Z., Willfors, C., Frick, M. A., Nordgren, A. & Kleberg, J. L. (2026). Comparing feedback learning, pupil dilation, and gaze allocation in intellectual disability. npj Science of Learning."
+    resource: "https://doi.org/10.1038/s41539-026-00438-2"
+    title: "Hallman, A. E. Z., Willfors, C., Frick, M. A., Nordgren, A. & Kleberg, J. L. (2026). Comparing feedback learning and arousal responses in Down, Fragile X, and Williams syndromes. npj Science of Learning. https://doi.org/10.1038/s41539-026-00438-2"
     author: "Hallman, A. E. Z., Willfors, C., Frick, M. A., Nordgren, A. & Kleberg, J. L."
     q: 3
     i: "?"
@@ -48,7 +51,7 @@ sources:
 
 ### Hallman 2026
 
-Hallman, A. E. Z., Willfors, C., Frick, M. A., Nordgren, A. & Kleberg, J. L. (2026). Comparing feedback learning, pupil dilation, and gaze allocation in intellectual disability. npj Science of Learning.
+Hallman, A. E. Z., Willfors, C., Frick, M. A., Nordgren, A. & Kleberg, J. L. (2026). Comparing feedback learning and arousal responses in Down, Fragile X, and Williams syndromes. npj Science of Learning. https://doi.org/10.1038/s41539-026-00438-2
 
 `q3 · i?` · `associational · r?`
 
@@ -58,7 +61,7 @@ GLMM fitted on loss-feedback trials only with varying intercepts for participant
 
 ### Hallman 2026 (2)
 
-Hallman, A. E. Z., Willfors, C., Frick, M. A., Nordgren, A. & Kleberg, J. L. (2026). Comparing feedback learning, pupil dilation, and gaze allocation in intellectual disability. npj Science of Learning.
+Hallman, A. E. Z., Willfors, C., Frick, M. A., Nordgren, A. & Kleberg, J. L. (2026). Comparing feedback learning and arousal responses in Down, Fragile X, and Williams syndromes. npj Science of Learning. https://doi.org/10.1038/s41539-026-00438-2
 
 `q3 · i?` · `associational · r?`
 
@@ -68,7 +71,7 @@ Same loss-trial GLMM, FXS group, Results section. The BF of 2.80 falls in the mo
 
 ### Hallman 2026 (3)
 
-Hallman, A. E. Z., Willfors, C., Frick, M. A., Nordgren, A. & Kleberg, J. L. (2026). Comparing feedback learning, pupil dilation, and gaze allocation in intellectual disability. npj Science of Learning.
+Hallman, A. E. Z., Willfors, C., Frick, M. A., Nordgren, A. & Kleberg, J. L. (2026). Comparing feedback learning and arousal responses in Down, Fragile X, and Williams syndromes. npj Science of Learning. https://doi.org/10.1038/s41539-026-00438-2
 
 `q3 · i?` · `associational · r?`
 

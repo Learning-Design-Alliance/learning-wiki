@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Growth mindset confers an early-term performance advantage that diminishes and converges with fixed mindset by the end of university
-description: Growth mindset confers an early-term performance advantage that diminishes and converges with fixed mindset by the end of university
+title: Students with stronger growth mindsets earn higher grades than fixed-mindset students in early university terms, but the gap narrows and is statistically indistinguishable from Term 7 (observational)
+description: Students with stronger growth mindsets earn higher grades than fixed-mindset students in early university terms, but the gap narrows and is statistically indistinguishable from Term 7 (observational)
 id: growth-mindset-early-advantage-diminishes-over-time
 status: review
 generated:
@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2025
+source_checked: 2026-10-26
 sources:
   - id: melody-m-chao-2025
     resource: "https://doi.org/10.1038/s41539-025-00355-w"
@@ -28,11 +29,11 @@ sources:
     rigour: 2
 ---
 
-# Growth mindset confers an early-term performance advantage that diminishes and converges with fixed mindset by the end of university
+# Students with stronger growth mindsets earn higher grades than fixed-mindset students in early university terms, but the gap narrows and is statistically indistinguishable from Term 7 (observational)
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q3`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-10-26 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Mindset interacted with the quadratic term effect such that growth-mindset students outperformed fixed-mindset students in earlier terms, with the difference shrinking over later terms. [→ Melody M. Chao 2025](#melody-m-chao-2025)
@@ -46,7 +47,7 @@ Melody M. Chao, Allen H. Huang, Anirban Mukhopadhyay & Janghoon Shon. (2025). Di
 
 `q3 · i?` · `associational · r2`
 
-Term-level longitudinal regressions (6,918 student-terms) found a significant Mindset × Term Squared interaction (B = −0.003, SE = 0.001, p = 0.029), with "greater" concavity for stronger growth mindsets. Figure 1 plots the predicted divergent-then-converging trajectories.
+Term-level longitudinal regressions on students' self-reported mindsets (6,918 student-terms; observational, so the association cannot show that mindset causes the difference) found a significant Mindset × Term Squared interaction (B = −0.003, SE = 0.001, p = 0.029), with "greater" concavity for stronger growth mindsets. Figure 1 plots the predicted divergent-then-converging trajectories.
 
 > "Assuming the same starting point, this suggests that students with growth mindsets outperform those with fixed mindsets in earlier terms, but the difference decreases over time in the later terms."
 

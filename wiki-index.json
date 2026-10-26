@@ -120339,13 +120339,14 @@
 "type":"claim"
 },
 {
-"description":"Growth mindset confers an early-term performance advantage that diminishes and converges with fixed mindset by the end of university",
+"description":"Students with stronger growth mindsets earn higher grades than fixed-mindset students in early university terms, but the gap narrows and is statistically indistinguishable from Term 7 (observational)",
 "evidence_strength":"moderate",
 "id":"growth-mindset-early-advantage-diminishes-over-time",
 "newest_evidence":"2025",
 "path":"claims/growth-mindset-early-advantage-diminishes-over-time.md",
+"source_checked":"2026-10-26",
 "status":"review",
-"title":"Growth mindset confers an early-term performance advantage that diminishes and converges with fixed mindset by the end of university",
+"title":"Students with stronger growth mindsets earn higher grades than fixed-mindset students in early university terms, but the gap narrows and is statistically indistinguishable from Term 7 (observational)",
 "type":"claim"
 },
 {
@@ -234712,13 +234713,14 @@
 "type":"claim"
 },
 {
-"description":"RMT improves auditory attention, sustained auditory attention and auditory response control, with no effect on visual attention measures",
+"description":"RMT improves auditory attention, sustained auditory attention and auditory response control, with no significant improvement on visual attention measures",
 "evidence_strength":"moderate",
 "id":"rmt-improves-auditory-not-visual-attention",
 "newest_evidence":"2026",
 "path":"claims/rmt-improves-auditory-not-visual-attention.md",
+"source_checked":"2026-10-26",
 "status":"review",
-"title":"RMT improves auditory attention, sustained auditory attention and auditory response control, with no effect on visual attention measures",
+"title":"RMT improves auditory attention, sustained auditory attention and auditory response control, with no significant improvement on visual attention measures",
 "type":"claim"
 },
 {
@@ -245855,6 +245857,7 @@
 "id":"self-regulatory-burden-harms-low-performers",
 "newest_evidence":"2023",
 "path":"claims/self-regulatory-burden-harms-low-performers.md",
+"source_checked":"2026-10-26",
 "status":"review",
 "title":"Personalized learning systems that assume high student self-regulation can overburden students, so low performers learn less despite receiving skill-appropriate content",
 "type":"claim"
@@ -288246,14 +288249,15 @@
 "type":"claim"
 },
 {
-"description":"Trait-score trajectories over time are inconclusive as learning-curve evidence: one StudyChat trait increases while SWE-Chat traits stay flat",
+"description":"Trait-score trajectories over time are inconclusive as learning-curve evidence: one StudyChat trait increases while the significant SWE-Chat traits stay flat",
 "evidence_strength":"weak",
 "id":"trait-temporal-trends-inconclusive-learning-curves",
 "newest_evidence":"2026",
 "path":"claims/trait-temporal-trends-inconclusive-learning-curves.md",
 "recheck_by":"2029",
+"source_checked":"2026-10-26",
 "status":"review",
-"title":"Trait-score trajectories over time are inconclusive as learning-curve evidence: one StudyChat trait increases while SWE-Chat traits stay flat",
+"title":"Trait-score trajectories over time are inconclusive as learning-curve evidence: one StudyChat trait increases while the significant SWE-Chat traits stay flat",
 "type":"claim"
 },
 {

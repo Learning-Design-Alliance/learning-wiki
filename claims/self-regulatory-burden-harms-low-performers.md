@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2023
+source_checked: 2026-10-26
 sources:
   - id: hanna-dumont-and-douglas-d-ready-2023
     resource: "https://doi.org/10.1038/s41539-023-00174-x"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · checked against its sources 2026-10-26 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In one personalized learning system implementation requiring considerable autonomy, low-performing students learned less than high-performing peers even though each student received academic content appropriate for their skill level. [→ Hanna Dumont and Douglas D. Ready 2023](#hanna-dumont-and-douglas-d-ready-2023)

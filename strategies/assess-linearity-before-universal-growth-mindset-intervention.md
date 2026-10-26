@@ -40,7 +40,7 @@ The article recommends that mindset interventions not assume any movement toward
 ## Claims
 
 - [The mindset-performance relationship is U-shaped and non-monotonic: the strongest growth- and strongest fixed-mindset students outperform those with moderate or slightly fixed mindsets](../claims/u-shaped-nonlinear-mindset-performance-relation.md) [+W]
-- [Growth mindset confers an early-term performance advantage that diminishes and converges with fixed mindset by the end of university](../claims/growth-mindset-early-advantage-diminishes-over-time.md) [~W]
+- [Students with stronger growth mindsets earn higher grades than fixed-mindset students in early university terms, but the gap narrows and is statistically indistinguishable from Term 7 (observational)](../claims/growth-mindset-early-advantage-diminishes-over-time.md) [~W]
 - [Students with stronger growth mindsets show better overall academic performance at university](../claims/growth-mindset-better-overall-performance.md) [~W]
 - [In the pilot A/B experiments, indirect framing outperformed direct framing, refuting the fixed mindset backfired for strong fixed-mindset holders, and celebrity endorsements increased adoption](../claims/ab-testing-mindset-content-findings.md) [-W]
 

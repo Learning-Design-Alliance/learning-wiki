@@ -1,7 +1,7 @@
 ---
 type: claim
-title: RMT improves auditory attention, sustained auditory attention and auditory response control, with no effect on visual attention measures
-description: RMT improves auditory attention, sustained auditory attention and auditory response control, with no effect on visual attention measures
+title: RMT improves auditory attention, sustained auditory attention and auditory response control, with no significant improvement on visual attention measures
+description: RMT improves auditory attention, sustained auditory attention and auditory response control, with no significant improvement on visual attention measures
 id: rmt-improves-auditory-not-visual-attention
 status: review
 generated:
@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-10-26
 sources:
   - id: shiels-2026
     resource: "https://doi.org/10.1038/s41539-026-00427-5"
@@ -28,11 +29,11 @@ sources:
     rigour: 2
 ---
 
-# RMT improves auditory attention, sustained auditory attention and auditory response control, with no effect on visual attention measures
+# RMT improves auditory attention, sustained auditory attention and auditory response control, with no significant improvement on visual attention measures
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i2` medium
-> **Currency** · newest study 2026 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-10-26 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Auditory attention (P = .003), sustained auditory attention (P = .003) and auditory response control (P = .001) improved with RMT. [→ Shiels 2026](#shiels-2026)
@@ -56,7 +57,7 @@ Shiels, L., Tomlin, D., Payne, J.M. et al. (2026). Benefits of classroom remote 
 
 `q3 · i?` · `causal · r2`
 
-Same phase one RCT crossover analysis; the IVA-QS visual subscales showed no significant device effects (e.g., visual attention d = 0.22, p = 0.355), indicating the benefit was modality-specific to auditory stimuli.
+Same phase one RCT crossover analysis; the IVA-QS visual subscales showed no significant device effects (e.g., visual attention d = 0.22, p = 0.355), consistent with a benefit specific to auditory stimuli, though a non-significant result does not show the absence of a visual effect.
 
 > "No significant improvements were observed in any of the visual attention or response control measures."
 

@@ -87,4 +87,4 @@ Paired-samples t-test of Bloom-based DS-AQT complexity across the semester repor
 - [General question-asking ability remained stable or declined over the semester, with AQT originality showing a large significant decrease and complexity unchanged](general-question-asking-declines-over-semester.md) — related
 - [Higher question-asking originality and complexity were negatively correlated with closed-ended multiple-choice exam performance](question-originality-complexity-negative-exam.md) — related
 - [Question-asking originality and complexity positively correlated with open-ended group project performance, while fluency measures correlated negatively](question-asking-positive-open-ended-project.md) — related
-- [Trait-score trajectories over time are inconclusive as learning-curve evidence: one StudyChat trait increases while SWE-Chat traits stay flat](trait-temporal-trends-inconclusive-learning-curves.md) — related
+- [Trait-score trajectories over time are inconclusive as learning-curve evidence: one StudyChat trait increases while the significant SWE-Chat traits stay flat](trait-temporal-trends-inconclusive-learning-curves.md) — related

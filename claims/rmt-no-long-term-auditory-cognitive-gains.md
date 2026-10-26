@@ -50,6 +50,6 @@ Phase two behavioral assessments in a soundproof booth at baseline and end-of-tr
 
 ## Related Claims
 - [Long-term RMT use accelerates reading fluency gains in inattentive children compared to controls over a 30-week extension](rmt-accelerates-reading-fluency-over-30-weeks.md) — related
-- [RMT improves auditory attention, sustained auditory attention and auditory response control, with no effect on visual attention measures](rmt-improves-auditory-not-visual-attention.md) — reports the opposite
+- [RMT improves auditory attention, sustained auditory attention and auditory response control, with no significant improvement on visual attention measures](rmt-improves-auditory-not-visual-attention.md) — reports the opposite
 - [Children using RMT long-term report greater improvement in quality of life, with no group differences on parent- or teacher-rated outcomes](rmt-improves-child-rated-quality-of-life.md) — related
 - [RMT use improves listening comprehension of oral directions in noise for inattentive children with listening difficulties](rmt-improves-listening-comprehension-inattentive-children.md) — related

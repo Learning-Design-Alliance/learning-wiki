@@ -67,7 +67,7 @@ Same phase one questionnaire analysis. Table 2 reports parent-rated hyperactivit
 - [Auditory Processing](../learner-variables/auditory-processing.md) — outcome: instruction changes it
 
 ## Related Claims
-- [RMT improves auditory attention, sustained auditory attention and auditory response control, with no effect on visual attention measures](rmt-improves-auditory-not-visual-attention.md) — related
+- [RMT improves auditory attention, sustained auditory attention and auditory response control, with no significant improvement on visual attention measures](rmt-improves-auditory-not-visual-attention.md) — related
 - [Children using RMT long-term report greater improvement in quality of life, with no group differences on parent- or teacher-rated outcomes](rmt-improves-child-rated-quality-of-life.md) — related
 - [RMT use improves speech recognition in noise for inattentive children with listening difficulties during a 4-week crossover RCT](rmt-improves-speech-recognition-inattentive-children.md) — related
 - [RMT use improves listening comprehension of oral directions in noise for inattentive children with listening difficulties](rmt-improves-listening-comprehension-inattentive-children.md) — related

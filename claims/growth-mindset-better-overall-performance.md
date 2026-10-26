@@ -51,6 +51,6 @@ Longitudinal regressions of 915 students' Final CGA and Term GPA on mindset, con
 
 ## Related Claims
 - [The meta-analytic correlation between growth mind-set and academic achievement is weak (r = .10)](growth-mindset-achievement-correlation-weak.md) — a broader claim this one bears on
-- [Growth mindset confers an early-term performance advantage that diminishes and converges with fixed mindset by the end of university](growth-mindset-early-advantage-diminishes-over-time.md) — related
+- [Students with stronger growth mindsets earn higher grades than fixed-mindset students in early university terms, but the gap narrows and is statistically indistinguishable from Term 7 (observational)](growth-mindset-early-advantage-diminishes-over-time.md) — related
 - [Growth mindset beliefs are positively associated with academic achievement in nearly all nations, with stronger associations among structurally disadvantaged students](growth-mindset-achievement-association-global.md) — a broader claim this one bears on
 - [The mindset-performance relationship is U-shaped and non-monotonic: the strongest growth- and strongest fixed-mindset students outperform those with moderate or slightly fixed mindsets](u-shaped-nonlinear-mindset-performance-relation.md) — related

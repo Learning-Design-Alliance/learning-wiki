@@ -50,4 +50,4 @@ Shiels, L., Tomlin, D., Payne, J.M. et al. (2026). Benefits of classroom remote 
 ## Related Claims
 - [Children using RMT long-term report greater improvement in quality of life, with no group differences on parent- or teacher-rated outcomes](rmt-improves-child-rated-quality-of-life.md) — related
 - [Long-term RMT use does not improve auditory processing, memory or attention skills beyond the typical developmental trajectory](rmt-no-long-term-auditory-cognitive-gains.md) — related
-- [RMT improves auditory attention, sustained auditory attention and auditory response control, with no effect on visual attention measures](rmt-improves-auditory-not-visual-attention.md) — related
+- [RMT improves auditory attention, sustained auditory attention and auditory response control, with no significant improvement on visual attention measures](rmt-improves-auditory-not-visual-attention.md) — related

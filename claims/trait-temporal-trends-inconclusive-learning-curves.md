@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "Trait-score trajectories over time are inconclusive as learning-curve evidence: one StudyChat trait increases while SWE-Chat traits stay flat"
-description: "Trait-score trajectories over time are inconclusive as learning-curve evidence: one StudyChat trait increases while SWE-Chat traits stay flat"
+title: "Trait-score trajectories over time are inconclusive as learning-curve evidence: one StudyChat trait increases while the significant SWE-Chat traits stay flat"
+description: "Trait-score trajectories over time are inconclusive as learning-curve evidence: one StudyChat trait increases while the significant SWE-Chat traits stay flat"
 id: trait-temporal-trends-inconclusive-learning-curves
 status: review
 generated:
@@ -9,6 +9,7 @@ generated:
   at: 2026-10-11
 evidence_strength: weak
 newest_evidence: 2026
+source_checked: 2026-10-26
 recheck_by: 2029
 sources:
   - id: hunter-mcnichols-2026
@@ -21,14 +22,14 @@ sources:
     rigour: 2
 ---
 
-# Trait-score trajectories over time are inconclusive as learning-curve evidence: one StudyChat trait increases while SWE-Chat traits stay flat
+# Trait-score trajectories over time are inconclusive as learning-curve evidence: one StudyChat trait increases while the significant SWE-Chat traits stay flat
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
+> **Currency** · newest study 2026 · checked against its sources 2026-10-26 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
-`q2 i?` conceptual_understanding_orientation tends to increase over the StudyChat semester, but other traits appear mostly stable, and all SWE-Chat traits show stable or slightly declining trends across sessions. [→ Hunter McNichols 2026](#hunter-mcnichols-2026)
+`q2 i?` conceptual_understanding_orientation tends to increase over the StudyChat semester, but other traits appear mostly stable, and all significant SWE-Chat traits (those plotted in Figure 3) show stable or slightly declining trends across sessions. [→ Hunter McNichols 2026](#hunter-mcnichols-2026)
 
 ## Evidence
 
@@ -38,7 +39,7 @@ Hunter McNichols, Kai Du, Andrew Lan. (2026). PRINCIPAL TRAIT ANALYSIS: TOWARDS 
 
 `q2 · i?` · `associational · r2`
 
-Temporal analysis plotting mean trait scores over time (Figure 3): semester progression for StudyChat, subsequent-session progression for SWE-Chat. The authors offer an alternative explanation that later, more complex assignments may drive the usage pattern independent of skill acquisition.
+Temporal analysis plotting mean scores of the significant traits (Table 2) over time (Figure 3): semester progression for StudyChat, subsequent-session progression for SWE-Chat. The authors offer an alternative explanation that later, more complex assignments may drive the usage pattern independent of skill acquisition.
 
 > "we observe that for the StudyChat traits, there appears to be a generally positive progression of trait behavior, particularly for theconceptual_understanding_orientation trait that tendsto increase over time. This trend suggests that this trait does appear to be learned over time as students progress in the semester."
 

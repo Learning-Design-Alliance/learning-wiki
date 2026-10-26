@@ -10,7 +10,7 @@ generated:
 sources:
   - id: hallman-2026
     resource: "https://doi.org/10.1038/s41539-026-00438-2"
-    title: "Hallman, A. E. Z., Willfors, C., Frick, M. A., Nordgren, A. & Kleberg, J. L. (2026). Comparing feedback learning, pupil dilation, and gaze allocation in intellectual disability. npj Science of Learning. https://doi.org/10.1038/s41539-026-00438-2"
+    title: "Hallman, A. E. Z., Willfors, C., Frick, M. A., Nordgren, A. & Kleberg, J. L. (2026). Comparing feedback learning and arousal responses in Down, Fragile X, and Williams syndromes. npj Science of Learning. https://doi.org/10.1038/s41539-026-00438-2"
     author: "Hallman, A. E. Z., Willfors, C., Frick, M. A., Nordgren, A. & Kleberg, J. L"
 ---
 
@@ -46,4 +46,4 @@ This is a simplified deterministic reinforcement learning paradigm combined with
 -
 
 ## Key Sources
-- Hallman, A. E. Z., Willfors, C., Frick, M. A., Nordgren, A. & Kleberg, J. L. (2026). Comparing feedback learning, pupil dilation, and gaze allocation in intellectual disability. npj Science of Learning. https://doi.org/10.1038/s41539-026-00438-2
+- Hallman, A. E. Z., Willfors, C., Frick, M. A., Nordgren, A. & Kleberg, J. L. (2026). Comparing feedback learning and arousal responses in Down, Fragile X, and Williams syndromes. npj Science of Learning. https://doi.org/10.1038/s41539-026-00438-2
