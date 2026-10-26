@@ -130,4 +130,8 @@ Removals are logged with their reason in `eval/removed/pages.ndjson`; git histor
 - **Most claims rest on one study.** One study in one setting has not been shown to hold elsewhere; [State of the Evidence](evidence.md) gives the share.
 - **The checks are models and patterns.** They catch what they are built to catch, and each has been wrong; every failure they raise is read before it is acted on, and that reading is recorded.
 
+## Who wrote this, and the license
+
+Pages are written by language models from published research, under rules, templates and checks that people designed; the structure, editorial rules and code are human work. The content is licensed [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) wherever copyright exists in it. In several jurisdictions, including the United States, text an AI system produces without enough human creative control is not protected by copyright, so some pages may carry none and are to that extent in the public domain. Either way you may do at least what the license allows. Quoted passages remain their authors' work. The [LICENSE](https://github.com/Learning-Design-Alliance/learning-wiki/blob/main/LICENSE) file has the details; it is the project's position, not legal advice.
+
 Every record behind these numbers is in the [repository](https://github.com/Learning-Design-Alliance/learning-wiki): `sources/manifest.ndjson`, `eval/load-bearing/`, `eval/source-validity/`, `eval/removed/pages.ndjson`.

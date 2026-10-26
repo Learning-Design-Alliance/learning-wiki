@@ -105,5 +105,14 @@ Pages use structured YAML frontmatter and follow strict templates. See [CLAUDE.m
 
 This repo uses two licenses:
 
-- **Content** (`principles/`, `elements/`, `patterns/`, `strategies/`, `theories/`, `claims/`, `sources/`, `revisions/`, `index.md`, `log.md`) is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) — free to use and commercialize, with attribution, provided derivatives are shared under the same license. See [LICENSE](LICENSE).
+- **Content** (every content folder, plus `observations/`, `research/`, `sources/`, `revisions/`, `history/`, the root pages and the generated data files) is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/): free to use and commercialize, with attribution, provided derivatives are shared under the same license. See [LICENSE](LICENSE).
 - **Code** (`scripts/` and other source files) is licensed under the [MIT License](https://opensource.org/licenses/MIT). See [LICENSE-CODE](LICENSE-CODE).
+
+**AI authorship and copyright.** Most pages are written by language models from published research, under rules,
+templates and checks that people designed. An open license is a use of copyright, not an exception to it: only a
+rights holder can give everyone permission to copy and adapt. But in several jurisdictions, including the United
+States, text an AI system produces without enough human creative control is not protected by copyright, so some
+pages may carry none and are to that extent in the public domain. The license applies wherever rights do exist and
+claims nothing beyond them; the project's structure, schemas, editorial rules and code are human work. Either way,
+you can do at least what the license allows. Short passages quoted from research remain their authors' work. See
+[LICENSE](LICENSE); this is the project's position, not legal advice.
