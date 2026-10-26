@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2025
+source_checked: 2026-10-26
 sources:
   - id: zhongyu-hu-jiongjiong-yang-2025
     resource: "https://doi.org/10.1038/s41539-025-00374-7"
@@ -24,10 +25,10 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-10-26 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
-`q3 i2` In Experiment 2, with reward cues presented after clips, the reward effect on memory was significant only for high-interest clips at 1 day (p < 0.001), not for low-interest clips (p = 0.92). [→ Zhongyu Hu & Jiongjiong Yang 2025](#zhongyu-hu-jiongjiong-yang-2025)
+`q3 i2` In Experiment 2, with reward cues presented after clips, the reward effect on memory was significant only for high-interest clips at 1 day (p < 0.001); across the two delays, the reward effect for low-interest clips was not significant (p = 0.92), while for high-interest clips it was (p = 0.004). [→ Zhongyu Hu & Jiongjiong Yang 2025](#zhongyu-hu-jiongjiong-yang-2025)
 `q3 i2` The three-way interaction among reward, interest, and delay in Experiment 2 was significant (F(1, 41) = 6.64, p = 0.01). [→ Zhongyu Hu & Jiongjiong Yang 2025](#zhongyu-hu-jiongjiong-yang-2025)
 
 ## Evidence

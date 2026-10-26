@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: weak
 newest_evidence: 2023
+source_checked: 2026-10-26
 sources:
   - id: hecht-2023
     resource: "https://doi.org/10.1038/s41539-023-00181-y"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · checked against its sources 2026-10-26 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` An international study found students' growth mindset beliefs positively associated with achievement in 72 of 74 nations, with stronger associations among students from lower-SES and immigrant families. [→ Hecht 2023](#hecht-2023)
@@ -37,7 +38,7 @@ Hecht, C. A., Murphy, M. C., Dweck, C. S., Bryan, C. J., Trzesniewski, K. H., Me
 
 `q2 · i?` · `review · r2`
 
-The article reports, citing an international study, that growth mindset beliefs were "positively associated with academic achievement in 72 of 74 nations," with stronger associations for structurally disadvantaged students. No effect sizes are printed in the article.
+The article reports, citing an international study, that growth mindset beliefs were "positively associated with academic achievement in 72 of 74 nations," with stronger associations for structurally disadvantaged students. The article prints no effect size for this association.
 
 > "students' growth mindset beliefs were positively associated with academic achievement in 72 of 74 nations that administered the growth mindset survey, with stronger associations among students from structurally disadvantaged backgrounds such as those from lower-SES and immigrant families"
 

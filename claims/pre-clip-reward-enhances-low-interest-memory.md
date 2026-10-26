@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2025
+source_checked: 2026-10-26
 sources:
   - id: zhongyu-hu-jiongjiong-yang-2025
     resource: "https://doi.org/10.1038/s41539-025-00374-7"
@@ -24,11 +25,11 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-10-26 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
-`q3 i2` In Experiment 1, with reward cues presented before clips, rewards improved memory for low-interest clips (p < 0.001) but not high-interest clips (p = 0.81) at 1 day. [→ Zhongyu Hu & Jiongjiong Yang 2025](#zhongyu-hu-jiongjiong-yang-2025)
-`q3 i2` The reward-by-interest-by-delay interaction in Experiment 1 with two delays was significant (F(1, 40) = 5.23, p = 0.03). [→ Zhongyu Hu & Jiongjiong Yang 2025](#zhongyu-hu-jiongjiong-yang-2025)
+`q3 i2` In Experiment 1, with reward cues presented before clips, rewards improved memory for low-interest clips (p < 0.001) but not significantly for high-interest clips (p = 0.81) at 1 day; at 10 minutes rewards improved memory for both. [→ Zhongyu Hu & Jiongjiong Yang 2025](#zhongyu-hu-jiongjiong-yang-2025)
+`q3 i2` The reward-by-interest-by-delay interaction in Experiment 1 was not significant across all three delays (F(2, 80) = 2.35, p = 0.10); in an exploratory analysis restricted to two delays (10 min, 1 day) it was significant (F(1, 40) = 5.23, p = 0.03). [→ Zhongyu Hu & Jiongjiong Yang 2025](#zhongyu-hu-jiongjiong-yang-2025)
 
 ## Evidence
 
@@ -38,7 +39,7 @@ Zhongyu Hu & Jiongjiong Yang. (2025). Timing of reward cues alters the interacti
 
 `q3 · i2` · `causal · r2`
 
-Repeated-measures ANOVA in Experiment 1 (41 participants analyzed) with reward cues before clips; the three-way interaction with two delays was significant (F(1, 40) = 5.23, p = 0.03, ηp2 = 0.12), showing "rewards improved memory for low-interest clips" only at 1 day.
+Repeated-measures ANOVA in Experiment 1 (41 participants analyzed) with reward cues before clips; the three-way interaction across all three delays (10 min, 1 day, 1 week) was not significant (F(2, 80) = 2.35, p = 0.10), and an exploratory analysis with two delays found it significant (F(1, 40) = 5.23, p = 0.03, ηp2 = 0.12). At 1 day rewards improved memory for low-interest but not high-interest clips; at 10 minutes they improved memory for both, so the selective low-interest pattern appeared only at 1 day.
 
 > "Post-hoc analysis showed that rewards improved memory for low-interest clips (p < 0.001) but not for high-interest clips (p = 0.81) at 1 day, but the pattern was not observed at 10 minutes"
 

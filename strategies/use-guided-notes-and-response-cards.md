@@ -17,7 +17,7 @@ sources:
 # Use guided notes and response cards as low-cost active-responding techniques during lectures
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (3 for, 2 unmarked) · 5 studies (2 quant-synthesis, 2 review, 1 causal), `q2`–`q4` · 4 of 5 report an effect size · 4 claims rest on one study
+> **Evidence** · 5 claims (5 for) · 5 studies (2 quant-synthesis, 2 review, 1 causal), `q2`–`q4` · 4 of 5 report an effect size · 4 claims rest on one study
 
 ## Description
 The article presents two implementable classroom techniques recommended by behavior analysts. Guided notes are instructor-prepared notes that "cue students to respond to key information in a lecture or discussion" using blank spaces or notations prompting note-taking behaviors. Response cards are 3×5″ index cards or small laminated boards students use to hold up answers to teacher questions throughout a lecture, with color coding to help discriminate answers. Both increase active student responding at low cost.
@@ -52,8 +52,8 @@ The article presents two implementable classroom techniques recommended by behav
 
 ## Related Strategies
 
-- [Retrieval Practice Better Than Restudy](../claims/retrieval-practice-improves-retention.md)
-- [Generation Effect Memory Advantage](../claims/generation-effect-memory-advantage.md)
+- [Retrieval practice improves long-term retention](../claims/retrieval-practice-improves-retention.md) [+M]
+- [Generating information produces a memory advantage over passively reading it (the generation effect)](../claims/generation-effect-memory-advantage.md) [+W]
 - [Interactive Note Taking](interactive-note-taking.md)
 
 ## Examples

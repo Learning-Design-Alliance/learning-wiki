@@ -6496,6 +6496,7 @@
 "id":"adaptive-task-difficulty-benefits-nonacademic-track",
 "newest_evidence":"2025",
 "path":"claims/adaptive-task-difficulty-benefits-nonacademic-track.md",
+"source_checked":"2026-10-26",
 "status":"review",
 "title":"Adaptive task difficulty significantly improved performance for students at non-academic-track schools compared to control",
 "type":"claim"
@@ -6506,6 +6507,7 @@
 "id":"adaptive-task-difficulty-benefits-unfavorable-profile",
 "newest_evidence":"2025",
 "path":"claims/adaptive-task-difficulty-benefits-unfavorable-profile.md",
+"source_checked":"2026-10-26",
 "status":"review",
 "title":"Adaptive task difficulty significantly improved fraction knowledge for students in the inattentive unfavorable (lower-SES-associated) profile compared to no scaffolding",
 "type":"claim"
@@ -117418,6 +117420,7 @@
 "id":"growth-mindset-achievement-association-global",
 "newest_evidence":"2023",
 "path":"claims/growth-mindset-achievement-association-global.md",
+"source_checked":"2026-10-26",
 "status":"review",
 "title":"Growth mindset beliefs are positively associated with academic achievement in nearly all nations, with stronger associations among structurally disadvantaged students",
 "type":"claim"
@@ -192935,6 +192938,7 @@
 "id":"parental-education-no-environmental-effect-pa-models",
 "newest_evidence":"2023",
 "path":"claims/parental-education-no-environmental-effect-pa-models.md",
+"source_checked":"2026-10-26",
 "status":"review",
 "title":"Under phenotypic assortment NTFD models, parental education shows no environmental effect on offspring educational attainment once genetic influences are accounted for",
 "type":"claim"
@@ -204449,6 +204453,7 @@
 "id":"post-clip-reward-enhances-high-interest-memory",
 "newest_evidence":"2025",
 "path":"claims/post-clip-reward-enhances-high-interest-memory.md",
+"source_checked":"2026-10-26",
 "status":"review",
 "title":"When reward cues follow stimuli, rewards improve memory for high-interest clips at 1 day, increasing the interest effect (additive effect)",
 "type":"claim"
@@ -205776,6 +205781,7 @@
 "id":"pre-clip-reward-enhances-low-interest-memory",
 "newest_evidence":"2025",
 "path":"claims/pre-clip-reward-enhances-low-interest-memory.md",
+"source_checked":"2026-10-26",
 "status":"review",
 "title":"When reward cues precede stimuli, rewards improve memory for low-interest clips at 1 day, decreasing the interest effect (undermining effect)",
 "type":"claim"

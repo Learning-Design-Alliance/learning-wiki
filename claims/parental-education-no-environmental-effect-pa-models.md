@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: mixed
 newest_evidence: 2023
+source_checked: 2026-10-26
 sources:
   - id: wolfram-2023
     resource: "https://doi.org/10.1038/s41539-023-00173-y"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · checked against its sources 2026-10-26 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Under all PA models the parent-offspring correlation for EA was entirely genetically mediated, with parental phenotypic transmission estimable at only 0–1% and droppable without fit loss. [→ Wolfram 2023](#wolfram-2023)

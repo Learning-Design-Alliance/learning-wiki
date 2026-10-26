@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2025
+source_checked: 2026-10-26
 sources:
   - id: bach-2025
     resource: "https://doi.org/10.1038/s41539-025-00358-7"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-10-26 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The adaptive task difficulty × school type interaction was significant, with higher performance at non-academic-track schools in the adaptive condition than in control. [→ Bach 2025](#bach-2025)
@@ -37,7 +38,7 @@ Bach, K. M., Reinhold, F., & Hofer, S. I. (2025). Unlocking math potential in st
 
 `q3 · i?` · `causal · r2`
 
-The same linear mixed model (log-transformed post-test, class as random effect) printed this second significant interaction involving adaptive task difficulty. No standardized effect size is printed for the interaction, so impact is null.
+Students were randomly assigned to conditions. In a linear mixed model of the log-transformed post-test (number-line placement error, so lower is better; class as random effect), the adaptive task difficulty × school-type interaction was significant (Table 8: β = −0.62, SE = 0.29, p = .031), meaning the adaptive condition's advantage over control was larger at non-academic-track schools; the main effect of adaptive task difficulty was not significant (p = .090). The β is a regression weight on a log error scale, not a standardized mean difference, so impact is coded `i?` (not reported on a comparable scale), which does not mean the effect is null.
 
 > "Additionally, we found a signiﬁcant interaction effect between the adaptive task dif ﬁculty condition and the school type, indicating that students’ performance at non-academic-track schools was signiﬁcantly higher if they were in this condition compared to the control condition."
 
