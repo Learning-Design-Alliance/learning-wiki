@@ -1,0 +1,122 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>LLM Short-Answer Graders Agree With One Human Rater More, and the Other Less, Than the Two Raters Agree With Each Other - Learning Design Wiki</title>
+<link rel="icon" href="../../branding/lda-monogram-dawn.svg" type="image/svg+xml">
+<link rel="stylesheet" href="../../assets/stylesheets/main.57a0d79d.min.css">
+<link rel="stylesheet" href="../../assets/stylesheets/palette.fb2fffe2.min.css">
+<link rel="stylesheet" href="../../branding/lda-theme.css">
+<style>
+.lt-header{background:var(--md-primary-fg-color);color:var(--md-primary-bg-color);padding:.6rem 1rem;font-size:.8rem}
+.lt-header a{color:inherit;text-decoration:none;margin-right:.6rem}
+.lt-header a:hover{text-decoration:underline}
+.lt-header form{display:inline;float:right}
+.lt-main{max-width:52rem;margin:0 auto;padding:1rem 1.2rem 3rem}
+</style>
+</head>
+<body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
+<script>try{var s=new URL("../../"||".",location).pathname,p=JSON.parse(localStorage.getItem(s+".__palette"));if(p&&p.color){for(var k of ["scheme","primary","accent"])if(p.color[k])document.body.setAttribute("data-md-color-"+k,p.color[k])}}catch(e){}</script>
+<header class="lt-header">
+<a class="lt-logo" href="../../"><img src="../../branding/lda-monogram-lapis.svg" alt="Learning Design Wiki"></a>
+<a href="../../claims/">Claims</a>
+<form class="lt-header-search" action="../../search/" role="search"><input name="q" type="search" placeholder="Search" aria-label="Search the wiki"></form>
+</header>
+<main class="lt-main"><article class="md-typeset" data-pagefind-body data-pagefind-filter="kind:Claim">
+<h1 id="llm-short-answer-graders-agree-with-one-human-rater-more-and-the-other-less-than-the-two-raters-agree-with-each-other">LLM Short-Answer Graders Agree With One Human Rater More, and the Other Less, Than the Two Raters Agree With Each Other<a class="headerlink" href="#llm-short-answer-graders-agree-with-one-human-rater-more-and-the-other-less-than-the-two-raters-agree-with-each-other" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Claim</strong> · <a href="../">All claims</a><br />
+<strong>Evidence</strong> · 1 study · associational <code>r?</code> · <code>q2</code><br />
+<strong>Currency</strong> · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly<br />
+<strong>Evidence quality</strong> · This claim rests on one research release that has not been peer-reviewed. Its research and writing were carried out by an AI system (Claude Code) under one human author, and its scope audit and reproduction were made by AI agents with no part in the work; no research team independent of the author has reviewed or replicated it. Treat it as a lead to check, not an established finding.</p>
+</blockquote>
+<p>On the one corpus in this release with two independent human raters (Mohler: undergraduate data-structures short answers, marked 0–5), an LLM grader scoring against a rubric and a model answer agreed with one rater more closely, and with the other less closely, than the two raters agreed with each other: 0.798 and 0.549 in quadratic-weighted kappa against the raters' 0.608 on the same 150 answers (one model, a single run). On 300 answers graded by three models (under assigned attainment labels, both gradings pooled) the same bracketing held for each: 0.597–0.741 against one rater, 0.366–0.472 against the other, 0.531 between the raters. The source reads this as showing that agreement with one human is a weak instrument on short free-text answers, and says the higher figure should not be read as better-than-human grading; it is not a finding that an LLM grader is as good as a human one.</p>
+<h2 id="subclaims">Subclaims<a class="headerlink" href="#subclaims" title="Permanent link">&para;</a></h2>
+<details class="info">
+<summary>Reading the evidence codes</summary>
+<p><code>q</code> is the design tier, <code>i</code> the impact, <code>n</code> the sample, and the kind with its <code>r</code>
+the rigour judged within that kind: <a href="../evidence-codes/">what each code means</a>.</p>
+<p><strong>This claim:</strong> no standardized effect is recorded in <code>observations/</code> for it yet, so no benchmark reading is possible.</p>
+</details>
+<ul>
+<li>Agreement should be read against a measured human-human ceiling, not against 1.0, and the source recommends stating the reliability of the human reference beside any agreement figure. That ceiling is often unmeasurable: the requirement of two or more independent grades per item ruled out most public grading data the author surveyed, and the corpus behind most of this release's figures (JorGPT) has one rater.</li>
+<li>Which human is chosen as the reference materially changes the measured agreement. On the one corpus here with two independent raters (Mohler) the same grader scores 0.549 against one rater and 0.798 against the other (a single run), and on three models grading 300 answers the choice of rater moves agreement by 0.23–0.27 in quadratic-weighted kappa (0.25–0.28 in Gwet's AC2).</li>
+<li>Agreement should be reported with a spread statistic beside it. A spread ratio (the grader's standard deviation over the human's) well below 1 means the grader concentrates its marks in the middle of the scale, which kappa alone can hide; the shipped prompt's ratio here was 0.94 and 0.89 on two model tiers, against 0.60–0.78 for the corpus's own baselines on a smaller first run. The source also recommends Pearson r beside kappa, to separate better ranking from a shift in where marks land.</li>
+</ul>
+<h2 id="evidence">Evidence<a class="headerlink" href="#evidence" title="Permanent link">&para;</a></h2>
+<h3 id="porcaro-2026">Porcaro 2026<a class="headerlink" href="#porcaro-2026" title="Permanent link">&para;</a></h3>
+<p>David S. Porcaro. (2026). Reliability, calibration and attack surface of an LLM short-answer grader, measured against three human-graded corpora. Research release ai-grader-reliability-2026 1.0.0, Learning Design Alliance. https://doi.org/10.5281/zenodo.23480844</p>
+<p><code>q2 · i?</code> · <code>associational · r?</code></p>
+<p>A shipped LLM grading prompt scored public, teacher-graded corpora, and its agreement with the human marks (quadratic-weighted kappa, with bias and a spread ratio beside it) was read against human–human agreement measured on corpora with two or more raters (the article's Section 5.1): undergraduate computer-science answers with one teacher (JorGPT, a 150-answer stratified draw), data-structures answers with two independent raters (Mohler), whole Java programs with four raters (Menagerie), and a re-analysis of a deposit with four instructors on every item (HARMOGEN-R). Several figures are single runs. Observation records: <code>lazuli-grader-jorgpt-2026</code>, <code>lazuli-grader-mohler-2026</code> and <code>lazuli-grader-harmogen-2026</code> (supports), <code>lazuli-grader-menagerie-2026</code> (qualifies).</p>
+<h2 id="discussion">Discussion<a class="headerlink" href="#discussion" title="Permanent link">&para;</a></h2>
+<p><strong>Scope of the claim.</strong> It is about <em>agreement on a rubric-scored ordinal scale for short free-text answers</em>, measured by quadratic-weighted kappa. It is not a claim that the grader is right, that it is fair, or that it is stable — those are separate propositions with separate evidence, and two of them come out considerably less well. It is also not a claim about production: the measurements are on university computer-science and data-structures corpora, other people's questions and other people's rubrics.</p>
+<p><strong>Why the ceiling is the whole argument.</strong> An agreement of 0.85 sounds like a 15% error rate and is not one. On the only corpus available with two independent raters, two graduate assistants marking the same answers to the same questions on the same course agreed at 0.519 — and lower still on the rows a consistency filter had removed, so the true figure is below that. Against a single human reference, much of what looks like machine error is disagreement the humans would have had with each other: if the grader's errors are independent of the raters', about half (0.45–0.55) of each of three graders' squared error against one human is that human's own disagreement with the others. The level is also a kappa statement: under Gwet's AC2 the same Mohler raters agree at 0.858, and no grader-versus-human comparison reverses.</p>
+<p><strong>What the interventions found.</strong> Four attempts on one model (Gemini 3.5 Flash Lite) detected no change in agreement: a stronger model tier, pooling three or four calls, anchor exemplars, and supplying the learner's previous attempt (three single runs, and an interval on the last that leaves room for a gain of +0.056). The pooling result is in the release's evidence records and interpretation, not its article. They are not four nulls: on a harsh second model the anchor exemplars did raise QWK by 0.033, and on the Mohler corpus sibling course context raised it by up to 0.035 in a single run (also a release-only result). A rescaling applied after grading did move agreement: fitting each grader's unlabeled marks to the teacher's mean and standard deviation, without information about the student, raised QWK by 0.047 to 0.132 on the models that mark below the teacher or compress the scale, and by 0.008 on Gemini, which already used the teacher's spread.</p>
+<p><strong>What would falsify or bound this.</strong> A well-moderated rater pair working to a shared rubric with adjudication would presumably agree far better than 0.519, and the claim should then be read against that higher bar. The corpora here record no rubric, training or moderation for their raters, so this is agreement between two people doing a job rather than agreement under a characterised protocol. On near-closed items the bar is high: on HARMOGEN-R, half multiple choice, four instructors agree at 0.981, and reaching that ceiling is a much weaker statement than reaching one of about 0.5.</p>
+<p><strong>It does not extend to large artefacts or craft rubrics.</strong> This release also had three models grade 60 whole student programs on four rubric dimensions, and in kappa every model agreed with the human graders far less than the humans agreed with each other (QWK 0.058 to 0.233 against 0.438, on fourteen levels); under AC2 no difference was resolved on fourteen levels. The claim is about short free-text answers judged on content.</p>
+<h2 id="related-claims">Related Claims<a class="headerlink" href="#related-claims" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="../human-graders-agree-less-than-single-grade-ground-truth-implies/">Human graders of open-ended work agree with each other less than treating one grade as ground truth implies.</a> — the ceiling this claim is read against</li>
+<li><a href="../pooling-repeated-llm-grades-does-not-improve-agreement/">Pooling repeated LLM grades does not improve agreement on short answers.</a> — one of the four attempts that detected no change in the residual gap</li>
+<li><a href="../graded-exemplars-shift-an-llm-grader-by-the-level-they-are-marked-at/">Graded exemplars shift an LLM grader by the level they are marked at.</a> — another, and the one that separates calibration from agreement</li>
+<li><a href="../peer-feedback-accuracy-depends-on-expertise/">Peer feedback accuracy depends on expertise.</a> — the same question about human raters</li>
+<li><a href="../ta-ground-truth-one-rater-per-item-error-rate/">The TA ground truth was produced under a one-rater-per-item design with co-grading, an exceptions log, instructor audit, and student review, with an estimated grading-error rate of about 0.1% in the student-inspected subsample</a> — related</li>
+<li><a href="../llm-grading-mixed-against-human-raters/">LLM grading performance relative to human graders is mixed: comparable in 12 reviewed cases, worse in 11, with the strongest alignment on short, straightforward tasks</a> — related</li>
+<li><a href="../llm-essay-scoring-weak-human-agreement/">Out-of-the-box LLMs agree with human essay grades far less than human raters agree with each other</a> — a narrower finding that bears on this claim</li>
+<li><a href="../collearn-observation-function-within-tier-reliability/">The LLM observation function's per-answer mastery evidence correlates with true mastery at r = 0.68 pooled, but only r ≈ 0.15 within the weak tier, making it least reliable for low-ability learners</a> — related</li>
+</ul>
+<details class="info">
+<summary>Page metadata</summary>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>type</code></td>
+<td><code>claim</code></td>
+</tr>
+<tr>
+<td><code>id</code></td>
+<td><code>llm-short-answer-graders-can-reach-human-rater-agreement</code></td>
+</tr>
+<tr>
+<td><code>title</code></td>
+<td><code>LLM Short-Answer Graders Agree With One Human Rater More, and the Other Less, Than the Two Raters Agree With Each Other</code></td>
+</tr>
+<tr>
+<td><code>status</code></td>
+<td><code>review</code></td>
+</tr>
+<tr>
+<td><code>newest_evidence</code></td>
+<td><code>2026</code></td>
+</tr>
+<tr>
+<td><code>recheck_by</code></td>
+<td><code>2029</code></td>
+</tr>
+<tr>
+<td><code>generated</code></td>
+<td>by <code>claude/unspecified</code> on <code>2026-10-19</code></td>
+</tr>
+<tr>
+<td><code>trust</code></td>
+<td>unverified — no one has confirmed this page's content</td>
+</tr>
+<tr>
+<td><code>sources</code></td>
+<td>1 — <code>porcaro-2026</code></td>
+</tr>
+</tbody>
+</table>
+<p>Frontmatter is the page's machine-readable record — see the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
+</details>
+</article></main>
+<footer class="lt-footer"><span class="lda-footer-links"><a href="https://www.learningdesignalliance.org">Learning Design Alliance</a> · <a href="https://reports.learningdesignalliance.org">Research reports</a> · <a href="https://wiki.learningdesignalliance.org">Wiki</a> · <a href="https://lazuli.design">Lazuli</a></span> &copy; Learning Design Alliance — content licensed CC BY-SA 4.0 where copyright applies; pages are written largely by AI (<a href="https://wiki.learningdesignalliance.org/checks/#who-wrote-this-and-the-license">who wrote this, and the license</a>)</footer>
+</body>
+</html>

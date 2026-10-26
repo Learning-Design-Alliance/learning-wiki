@@ -1,0 +1,125 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Cluster membership showed a strong multivariate effect on standard text-similarity metrics (Pillai&#x27;s trace = 0.85, F(12, 248) = 15.31, p &lt; 0.001) - Learning Design Wiki</title>
+<link rel="icon" href="../../branding/lda-monogram-dawn.svg" type="image/svg+xml">
+<link rel="stylesheet" href="../../assets/stylesheets/main.57a0d79d.min.css">
+<link rel="stylesheet" href="../../assets/stylesheets/palette.fb2fffe2.min.css">
+<link rel="stylesheet" href="../../branding/lda-theme.css">
+<style>
+.lt-header{background:var(--md-primary-fg-color);color:var(--md-primary-bg-color);padding:.6rem 1rem;font-size:.8rem}
+.lt-header a{color:inherit;text-decoration:none;margin-right:.6rem}
+.lt-header a:hover{text-decoration:underline}
+.lt-header form{display:inline;float:right}
+.lt-main{max-width:52rem;margin:0 auto;padding:1rem 1.2rem 3rem}
+</style>
+</head>
+<body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
+<script>try{var s=new URL("../../"||".",location).pathname,p=JSON.parse(localStorage.getItem(s+".__palette"));if(p&&p.color){for(var k of ["scheme","primary","accent"])if(p.color[k])document.body.setAttribute("data-md-color-"+k,p.color[k])}}catch(e){}</script>
+<header class="lt-header">
+<a class="lt-logo" href="../../"><img src="../../branding/lda-monogram-lapis.svg" alt="Learning Design Wiki"></a>
+<a href="../../claims/">Claims</a>
+<form class="lt-header-search" action="../../search/" role="search"><input name="q" type="search" placeholder="Search" aria-label="Search the wiki"></form>
+</header>
+<main class="lt-main"><article class="md-typeset" data-pagefind-body data-pagefind-filter="kind:Claim">
+<h1 id="cluster-membership-showed-a-strong-multivariate-effect-on-standard-text-similarity-metrics-pillais-trace-085-f12-248-1531-p-0001">Cluster membership showed a strong multivariate effect on standard text-similarity metrics (Pillai's trace = 0.85, F(12, 248) = 15.31, p &lt; 0.001)<a class="headerlink" href="#cluster-membership-showed-a-strong-multivariate-effect-on-standard-text-similarity-metrics-pillais-trace-085-f12-248-1531-p-0001" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Claim</strong> · <a href="../">All claims</a><br />
+<strong>Evidence</strong> · 1 study · associational <code>r2</code> · <code>q3</code><br />
+<strong>Currency</strong> · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly</p>
+</blockquote>
+<h2 id="subclaims">Subclaims<a class="headerlink" href="#subclaims" title="Permanent link">&para;</a></h2>
+<details class="info">
+<summary>Reading the evidence codes</summary>
+<p><code>q</code> is the design tier, <code>i</code> the impact, <code>n</code> the sample, and the kind with its <code>r</code>
+the rigour judged within that kind: <a href="../evidence-codes/">what each code means</a>.</p>
+<p><strong>This claim:</strong> no standardized effect is recorded in <code>observations/</code> for it yet, so no benchmark reading is possible.</p>
+</details>
+<p><code>q3 i?</code> A MANOVA over BLEU, ROUGE-1/2/L, METEOR, and BERTScore revealed that clusters differed reliably in surface-level textual similarity. <a href="#teresa-luther-kate-belcher-joachim-kimmerle-detmar-meurers-ulrike-cress-2026">→ Teresa Luther · Kate Belcher · Joachim Kimmerle · Detmar Meurers · Ulrike Cress 2026</a></p>
+<h2 id="evidence">Evidence<a class="headerlink" href="#evidence" title="Permanent link">&para;</a></h2>
+<h3 id="teresa-luther-kate-belcher-joachim-kimmerle-detmar-meurers-ulrike-cress-2026">Teresa Luther · Kate Belcher · Joachim Kimmerle · Detmar Meurers · Ulrike Cress 2026<a class="headerlink" href="#teresa-luther-kate-belcher-joachim-kimmerle-detmar-meurers-ulrike-cress-2026" title="Permanent link">&para;</a></h3>
+<p>Teresa Luther · Kate Belcher · Joachim Kimmerle · Detmar Meurers · Ulrike Cress (2026). Collaborative knowledge construction with generative AI: Exploring argumentative co-writing processes through n-gram and cluster analysis. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-026-09470-1</p>
+<p><code>q3 · i?</code> · <code>associational · r2</code></p>
+<p>Omnibus MANOVA treating the six benchmark scores as joint dependent variables to validate the n-gram clustering; a "strong multivariate effect of cluster membership" was found. Descriptively, Clusters 1 and 3 had higher BLEU, ROUGE, and BERTScore means than Cluster 2.</p>
+<blockquote>
+<p>"The analysis revealed a strong multivariate effect of cluster membership on the combined set of metrics (Pillai's trace = 0.85, F(12, 248) = 15.31, p &lt; 0.001), indicating that clusters differed reliably in surface-level textual similarity as captured by n-gram overlap."</p>
+</blockquote>
+<h2 id="discussion">Discussion<a class="headerlink" href="#discussion" title="Permanent link">&para;</a></h2>
+<h2 id="related-claims">Related Claims<a class="headerlink" href="#related-claims" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="../higher-bit-quantisation-preserves-semantic-structure-pidgin-llm/">Higher-bit quantisation (8-bit) better preserves structural coherence and semantic alignment in a Pidgin-fine-tuned LLM, achieving the highest ROUGE-L (0.3120) and BERTScore (0.8590) among the quantised models</a> — related</li>
+<li><a href="../lora-improves-reference-answer-similarity-control-systems/">LoRA fine-tuning on control systems course data increases lexical and semantic similarity between model responses and course reference answers at both 3B and 7B model sizes</a> — related</li>
+<li><a href="../model-size-and-lora-rank-joint-effects/">Base-model size effects persist after LoRA adaptation: the 7B model gained more on ROUGE-2 and ROUGE-L, yet 3B-r16 outperformed 7B-r4 on ROUGE-L and BERTScore-F1</a> — related</li>
+<li><a href="../bleu4-zero-mathematical-proofs-metric-limitation/">BLEU-4 scored zero on all 179 mathematical-proof responses, which the authors interpret as a property of n-gram metrics rather than system failure</a> — related</li>
+<li><a href="../algorag-topic-specific-performance-variation/">Per-topic performance varied: NP-completeness scored highest ROUGE-1 F1 (0.1285), sorting algorithms highest pedagogical quality (0.8250), and recurrence relations lowest pedagogical quality (0.6629)</a> — related</li>
+<li><a href="../three-uptake-clusters-human-ai-cowriting/">AI-supported argumentative writing yields three distinct uptake clusters (text reproducers, text integrators, text reconstructors) based on recurring n-gram overlap</a> — a broader claim this one bears on</li>
+<li><a href="../ai-ibi-multivariate-group-effect-positive-correlations/">Multivariate analysis confirmed a significant overall group effect, and all outcome variables correlated positively in both groups</a> — related</li>
+<li><a href="../semantic-grounding-with-surface-variation/">Personalized responses remain semantically grounded in the shared knowledge base while varying in surface-level expression and structure</a> — related</li>
+<li><a href="../text-reproducers-near-verbatim-copying/">Text reproducers copied nearly all of their final text from ChatGPT with long verbatim sequences, while text integrators showed fragment-level micro-uptake</a> — related</li>
+<li><a href="../textbook-format-manova-omnibus-difference/">Textbook format choice produces a significant multivariate difference in university students' motivation and self-regulated learning scores</a> — related</li>
+<li><a href="../surface-similarity-no-effect-integration/">Surface-feature similarity of passage pairs does not affect self-derivation performance or patterns of episode-detail endorsement</a> — related</li>
+</ul>
+<details class="info">
+<summary>Page metadata</summary>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>type</code></td>
+<td><code>claim</code></td>
+</tr>
+<tr>
+<td><code>id</code></td>
+<td><code>manova-cluster-effect-text-metrics</code></td>
+</tr>
+<tr>
+<td><code>title</code></td>
+<td><code>Cluster membership showed a strong multivariate effect on standard text-similarity metrics (Pillai's trace = 0.85, F(12, 248) = 15.31, p &lt; 0.001)</code></td>
+</tr>
+<tr>
+<td><code>description</code></td>
+<td><code>Cluster membership showed a strong multivariate effect on standard text-similarity metrics (Pillai's trace = 0.85, F(12, 248) = 15.31, p &lt; 0.001)</code></td>
+</tr>
+<tr>
+<td><code>status</code></td>
+<td><code>review</code></td>
+</tr>
+<tr>
+<td><code>evidence_strength</code></td>
+<td><code>moderate</code></td>
+</tr>
+<tr>
+<td><code>newest_evidence</code></td>
+<td><code>2026</code></td>
+</tr>
+<tr>
+<td><code>recheck_by</code></td>
+<td><code>2029</code></td>
+</tr>
+<tr>
+<td><code>generated</code></td>
+<td>by <code>process:wiki-ingest</code> on <code>2026-10-18</code></td>
+</tr>
+<tr>
+<td><code>trust</code></td>
+<td>unverified — no one has confirmed this page's content</td>
+</tr>
+<tr>
+<td><code>sources</code></td>
+<td>1 — <code>teresa-luther-kate-belcher-joachim-kimmerle-detmar-meurers-ulrike-cress-2026</code></td>
+</tr>
+</tbody>
+</table>
+<p>Frontmatter is the page's machine-readable record — see the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
+</details>
+</article></main>
+<footer class="lt-footer"><span class="lda-footer-links"><a href="https://www.learningdesignalliance.org">Learning Design Alliance</a> · <a href="https://reports.learningdesignalliance.org">Research reports</a> · <a href="https://wiki.learningdesignalliance.org">Wiki</a> · <a href="https://lazuli.design">Lazuli</a></span> &copy; Learning Design Alliance — content licensed CC BY-SA 4.0 where copyright applies; pages are written largely by AI (<a href="https://wiki.learningdesignalliance.org/checks/#who-wrote-this-and-the-license">who wrote this, and the license</a>)</footer>
+</body>
+</html>
