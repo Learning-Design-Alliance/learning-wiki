@@ -51,3 +51,4 @@ Behavioral results of Experiment 1: accuracy did not differ between groups (p-et
 - [Action video-game players show greater integration rate (sensitivity) than non-players in a visual motion direction discrimination task](vgp-greater-integration-rate-motion-ddm.md) — related
 - [Fifty hours of action video-game training causally improves probabilistic inference in non-gamers, with better use of evidence only in the action-trained group](action-training-causal-probabilistic-inference.md) — related
 - [The improved probabilistic inference of VGPs generalizes to a novel auditory tone-location discrimination task](vgp-improved-inference-auditory-task.md) — related
+- [Detection of motion discrepancies increases with both perturbation magnitude and duration, with response times decreasing with magnitude](detection-scales-with-magnitude-and-duration.md) — related

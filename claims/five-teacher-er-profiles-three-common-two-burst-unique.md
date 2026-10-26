@@ -49,3 +49,4 @@ The study applied multilevel latent profile analyses to daily-diary assessments 
 - [Less experienced teachers are more likely to belong to emotion regulation profiles characterized by avoidance strategies](less-experienced-teachers-avoidance-er-profiles.md) — related
 - [With growing job experience, teachers may shift toward different, more adaptive emotion regulation strategies](job-experience-shift-toward-adaptive-er-strategies.md) — related
 - [Teachers use a wide variety of emotion regulation strategies whose combined use has implications for their occupational well-being](teachers-wide-variety-er-strategies-wellbeing-implications.md) — a broader claim this one bears on
+- [Three distinct racial-mathematical identity profiles emerge among Black adolescents and are robust across two time points one year apart](three-racial-mathematical-identity-profiles-lpa.md) — related

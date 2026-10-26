@@ -34,7 +34,6 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2` · `i3` large
 > **Currency** · newest study 2022 · checked against its sources 2026-10-26 (automated, 2 of 2 entries) · not reviewed by a person
-> **Design limits** · Gattas 2022 (2): the intervention came bundled with another change (read from the study by two models, 2026-10-26)
 
 ## Subclaims
 `q2 i3` With a 24-h delay, OC and EH groups performed significantly better than the CC group on object location memory. [→ Gattas 2022](#gattas-2022)

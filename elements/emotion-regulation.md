@@ -108,6 +108,7 @@ Emotions are not noise around learning — they shape attention, working memory 
 - [Use expressive writing before math situations to offload worry and protect working memory resources](../strategies/expressive-writing-before-math.md)
 - [Design instructional environments to foster positive academic emotions: improve instruction quality, grant calibrated autonomy, match expectations to capabilities, increase success opportunities, and foster cooperative interaction structures](../strategies/instructional-guidelines-foster-positive-academic-emotions.md)
 - [Reduce anxiety first when multiple achievement emotions co-occur](../strategies/reduce-anxiety-first-strategy.md)
+- [Manage pre-task expectation anxiety with cognitive restructuring or relaxation alongside gradual exposure to mathematics](../strategies/manage-anticipatory-math-anxiety-strategy.md)
 
 ## Key Sources
 - Gross, J. J. (1998). The emerging field of emotion regulation: An integrative review. *Review of General Psychology, 2*(3), 271–299. [doi:10.1037/1089-2680.2.3.271](https://doi.org/10.1037/1089-2680.2.3.271)

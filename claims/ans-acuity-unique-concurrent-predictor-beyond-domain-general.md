@@ -54,3 +54,5 @@ Concurrent linear regressions at Time 2 (Table 5) predicting TEMA-3 from ANS acc
 - [Preschoolers' ANS task performance follows Weber's Law: accuracy decreases as numerical ratio approaches equality, and improves with age over six months](ans-performance-webers-law-ratio-dependence.md) — related
 - [Children's knower level of verbal number words is cross-sectionally associated with ANS acuity even after controlling for age and sex](knower-level-correlated-ans-acuity-cross-sectional.md) — related
 - [Concurrent validity evidence is sparse: only 11 assessments and one screener aligned with other validated measurement tools](concurrent-validity-sparse-11-assessments-one-screener.md) — related
+- [Verbal \"more\" scores predict numerical discrimination performance beyond Hearing Age, though the \"more\" task showed limited variability](verbal-more-predicts-numerical-discrimination.md) — related
+- [Vocabulary is not a significant predictor of performance on the numerical tasks when Hearing Age is included](vocabulary-not-predictor-numerical-tasks.md) — reports the opposite

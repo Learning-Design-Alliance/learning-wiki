@@ -22,7 +22,7 @@ sources:
 # Universal Early Literacy Screening
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 39 claims (9 for, 30 mixed) · 18 studies (11 associational, 2 quant-synthesis, 2 design, 1 causal, 1 review, 1 theoretical), `q1`–`q3` · 0 of 18 report an effect size · 38 claims rest on one study
+> **Evidence** · 41 claims (10 for, 31 mixed) · 19 studies (11 associational, 2 quant-synthesis, 2 design, 2 theoretical, 1 causal, 1 review), `q1`–`q3` · 0 of 19 report an effect size · 40 claims rest on one study
 
 ## Conditional relationship
 
@@ -134,6 +134,8 @@ Claims bearing on screening that this page does not use in the model, read only 
 - [Early literacy screening assessments provide multiple benchmarks or performance levels defined in different ways, with no common definition of 'at risk'](../claims/no-common-definition-at-risk-literacy-screeners.md) [~W] — a second report of the definitions finding.
 - [Grade 3 screener benchmark scores marking any level of risk map to MCAS ELA scores from mid Partially Meeting Expectations to the beginning of Meeting Expectations](../claims/risk-benchmarks-map-partially-meeting-mcas.md) [~W] — where cut scores sit on the state scale.
 - [Spanish MAP Growth Reading universal screening cut scores correspond to the 40th percentile of Spanish norms, established by linking to English cut scores](../claims/spanish-map-growth-reading-40th-percentile-cut-scores.md) [~W] — a home-language screener's cut scores.
+- [Adding PGS as an either-cutoff screener alongside progress monitoring raises negative predictive value (fewer false negatives) at all effectiveness levels, while generally lowering PPV](../claims/either-cutoff-pgs-reduces-false-negatives.md) [+W] — attached 2026-10-26 from Shero et al. (2021), which proposed "Use PGS alongside progress monitoring as a strategic learning-disability screener, choosing either- or both-cutoff rules according to the school's priority".
+- [Current progress monitoring screeners have low positive predictive value for learning disability risk even at high effectiveness (PPV 34.5%, NPV 96.1% at r = 0.70)](../claims/progress-monitoring-low-ppv-baseline-screening.md) [~W] — attached 2026-10-26 from Shero et al. (2021), which proposed "Use PGS alongside progress monitoring as a strategic learning-disability screener, choosing either- or both-cutoff rules according to the school's priority".
 
 ## Objective and learner-valued goal
 

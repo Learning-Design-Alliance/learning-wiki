@@ -52,3 +52,4 @@ ANOVA over 20 fNIRS channels (ΔHbO) during human-chatbot interaction, reported 
 - [Metacognitive chatbot feedback produces higher transfer scores than both affective and neutral feedback](chatbot-metacognitive-feedback-improves-transfer.md) — related
 - [Metacognitive chatbot feedback raises metacognitive sensitivity relative to affective and neutral feedback](chatbot-metacognitive-feedback-raises-metacognitive-sensitivity.md) — related
 - [SVM classification of fNIRS activation patterns distinguishes RD with 60–90% accuracy, with left MTG channels the most consistent discriminative features](fnirs-mvpa-classifies-reading-difficulty.md) — related
+- [Task and interpersonal interdependence interact on inter-brain synchrony in the right supramarginal gyrus](ibs-interaction-smg-right.md) — related

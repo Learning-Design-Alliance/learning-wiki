@@ -68,3 +68,4 @@ Cross-sectional behavioral analysis of 36 participants in three age groups (12�
 - [In a change detection task, adults outperform 4-to-5-year-olds on cued shapes while children outperform adults on uncued shapes](developmental-reversal-change-detection-cued-uncued.md) — related
 - [Explicit attention-focusing and discrepancy-detection interventions largely reduce susceptibility; mindfulness interventions do not](attention-focusing-discrepancy-detection-reduces-susceptibility.md) — related
 - [Older age is associated with poorer face recognition: lower d′, higher false alarm rate, and longer response time](aging-poorer-face-recognition-dprime-false-alarm.md) — reports the opposite
+- [Overall dynamic search performance declines with age, with accuracy decreasing and response times slowing](overall-dynamic-search-performance-declines-with-age.md) — reports the opposite

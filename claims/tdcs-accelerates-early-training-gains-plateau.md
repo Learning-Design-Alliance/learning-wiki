@@ -47,3 +47,4 @@ Learning-curve analysis of the capacity index (K = N*d') across ten training ses
 ## Related Claims
 - [Anodal HD-tDCS over left dlPFC during multi-session working memory training yields larger d-prime improvements than sham that persist three weeks](tdcs-wmt-enhances-d-prime-lasting-three-weeks.md) — related
 - [HD-tDCS facilitated and enhanced training-induced increases in frontal task-related theta, alpha, beta, and gamma power](tdcs-enhances-task-related-eeg-power-gains.md) — related
+- [Validation analyses find no generally reduced neural activity after mnemonic training, with increased alpha power uncorrelated with memory gains](no-processing-efficiency-neural-evidence.md) — related

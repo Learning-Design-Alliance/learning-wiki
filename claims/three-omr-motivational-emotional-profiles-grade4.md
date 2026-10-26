@@ -73,3 +73,4 @@ Profile characterization from the same LPA: the Positive Group (G1, N = 96, 34.2
 - [Latent profile analysis of 2015 PISA data identifies four collaborative problem-solver profiles among Chinese 15-year-old students](four-collaborative-problem-solver-profiles-pisa.md) — related
 - [Four distinct action-control belief profiles (agentic, moderate, avoidant, and mixed) emerge among Finnish ninth graders](four-action-control-belief-profiles-ninth-graders.md) — related
 - [Latent profile analysis of 12-year-old twins identifies five distinct profiles of math achievement, numerosity, and math anxiety](five-latent-profiles-math-achievement-numerosity-anxiety.md) — related
+- [Higher negative math emotions are associated with lower odds of membership in the positively oriented profiles](negative-math-emotions-associated-with-profile-membership.md) — related

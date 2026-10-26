@@ -48,3 +48,4 @@ Expert interview with Mieke Van Houtte in this narrative-analysis study. She obs
 - [Formative assessment is theorized to foster motivation by supporting autonomy, competence, and relatedness](formative-assessment-fosters-motivation-autonomy-competence-relatedness.md) — related
 - [Positive teacher–student relationships are associated with greater student engagement and, more weakly, with achievement](teacher-student-relationships-improve-engagement.md) — related
 - [AI's role in shaping interaction, epistemic agency, and shared regulation in collaborative learning remains under-theorized](ai-role-collaborative-learning-undertheorized.md) — related
+- [Grouping students solely by content competence neglected social and motivational differences, which the monitorial system had to patch ad hoc](monitorial-grouping-neglected-affective-needs.md) — related

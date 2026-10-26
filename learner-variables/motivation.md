@@ -13,7 +13,7 @@ generated:
 # Motivation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 303 claims (207 show a difference, 66 mixed, 30 no difference) · 221 studies (80 associational, 59 causal, 36 review, 16 theoretical, 14 quant-synthesis, 10 qualitative, 6 design), `q1`–`q4` · 59 of 221 report an effect size · 291 claims rest on one study
+> **Evidence** · 307 claims (208 show a difference, 69 mixed, 30 no difference) · 222 studies (81 associational, 59 causal, 36 review, 16 theoretical, 14 quant-synthesis, 10 qualitative, 6 design), `q1`–`q4` · 59 of 222 report an effect size · 295 claims rest on one study
 
 ## Description
 Whether a learner will spend effort here, and what makes it feel worth spending. It decides whether a page must earn attention before it can teach, and how much open-endedness is tolerable. The honest state of the evidence is that the mechanisms are well supported and the *interventions* are modest — growth-mindset programmes produce small average effects concentrated in specific subgroups [+W], which is a reason to design for motivation rather than to bolt an intervention on.
@@ -353,6 +353,10 @@ Whether a learner will spend effort here, and what makes it feel worth spending.
 - [Parent gender related to adolescents' autonomous motivation during home-based learning, with maternal involvement associated with higher motivation](../claims/parent-gender-associated-with-adolescent-motivation.md) [+M] — instruction changes it
 - [Participants with high achievement motivation showed a learning bias toward goal-relevant stimuli, whereas participants with lower achievement motivation did not](../claims/high-achievement-motivation-learning-bias-simple-slopes.md) [+M] — learners who differ on it differ in outcomes
 - [School burnout negatively predicts autonomous motivation during home-based learning, but does not mediate the mindset-motivation relationship](../claims/school-burnout-predicts-lower-autonomous-motivation-no-mediation.md) [~M] — instruction changes it
+- [Growth mindset confers an early-term performance advantage that diminishes and converges with fixed mindset by the end of university](../claims/growth-mindset-early-advantage-diminishes-over-time.md) [~W] — learners who differ on it differ in outcomes
+- [Students with stronger growth mindsets show better overall academic performance at university](../claims/growth-mindset-better-overall-performance.md) [+W] — learners who differ on it differ in outcomes
+- [The growth-mindset performance advantage is driven by non-major courses, with no significant relationship for major courses](../claims/growth-mindset-effect-driven-by-non-major-courses.md) [~W] — learners who differ on it differ in outcomes
+- [The mindset-performance relationship is U-shaped and non-monotonic: the strongest growth- and strongest fixed-mindset students outperform those with moderate or slightly fixed mindsets](../claims/u-shaped-nonlinear-mindset-performance-relation.md) [~W] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does autonomy-supportive teaching raise motivation and engagement compared with controlling teaching?* [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](../claims/autonomy-supports-intrinsic-motivation.md) [+M]

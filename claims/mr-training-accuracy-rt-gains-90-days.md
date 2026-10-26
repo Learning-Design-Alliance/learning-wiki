@@ -51,3 +51,4 @@ Pooled one-way repeated-measures bootstrap ANOVAs across the four test sessions 
 - [Long-term aftereffects of mental rotation training differ by task difficulty: sustained gains then decline for the simple 75° task versus decline over time for the complex 150° task](aftereffects-differ-task-difficulty-75-150.md) — reports the opposite
 - [Mental rotation training significantly increases P300 GFP, which peaks at 20 days post-training and remains elevated at 90 days](p300-gfp-elevated-20-and-90-days.md) — related
 - [HD-tDCS combined with mental rotation training shows no significant group effect or Group × Time interaction on accuracy, response time, or P300 GFP](hd-tdcs-no-added-effect-mental-rotation-training.md) — related
+- [Cognitive training gains are maintained or further enhanced at two-month follow-up](act-cognitive-gains-sustained-follow-up.md) — related

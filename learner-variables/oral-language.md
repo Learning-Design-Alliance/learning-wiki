@@ -13,7 +13,7 @@ generated:
 # Oral Language
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 109 claims (62 show a difference, 24 mixed, 23 no difference) · 78 studies (29 associational, 16 review, 15 causal, 15 quant-synthesis, 2 theoretical, 1 design), `q1`–`q3` · 26 of 78 report an effect size · 106 claims rest on one study
+> **Evidence** · 110 claims (63 show a difference, 24 mixed, 23 no difference) · 79 studies (29 associational, 16 causal, 16 review, 15 quant-synthesis, 2 theoretical, 1 design), `q1`–`q3` · 27 of 79 report an effect size · 107 claims rest on one study
 
 ## Description
 Oral language covers the spoken side of language: understanding what is said, using vocabulary and grammar to express ideas, and organising sentences into a coherent account or story. The Learner Variability Navigator includes two factors here: narrative skills, the ability to tell and understand stories, and the broader language skills that support early mathematics as well as reading. Narrative skill is often assessed by asking a child to tell a story from a wordless picture book or sequencing cards and scoring its overall structure and its sentence-level detail; early literacy batteries assess related skills such as vocabulary and phonological awareness.
@@ -146,6 +146,7 @@ It matters most in preschool and the early grades. Telling stories helps childre
 - [Language and incoming calculation skill predict whole-number versus fraction calculations differentially, with significant path-equality tests](../claims/differential-predictors-whole-number-fraction-calculations.md) [+M] — learners who differ on it differ in outcomes
 - [Struggling ELs scored lower than non-ELs in reading comprehension and linguistic comprehension but outperformed non-ELs in word reading](../claims/group-mean-differences-els-word-reading-advantage.md) [~M] — learners who differ on it differ in outcomes
 - [Vocabulary's relation to reading comprehension is completely mediated by listening comprehension and word reading for ELs, but exerts a direct effect for non-ELs](../claims/vocabulary-mediation-differs-els-non-els.md) [~M] — learners who differ on it differ in outcomes
+- [RMT use improves listening comprehension of oral directions in noise for inattentive children with listening difficulties](../claims/rmt-improves-listening-comprehension-inattentive-children.md) [+M] — instruction changes it
 
 ## Measures
 - **Story Generation Tasks**: Macrostructure and microstructure of narrative elements can be assessed by having students tell a story using a wordless picture book or sequencing cards.

@@ -62,3 +62,4 @@ Quasi-experimental matched-comparison analysis of 2,855 treatment students in gr
 - [Early trends suggest students of teachers using ASSISTments as the sole math edtech tool may have benefited more than students where it was part of a suite of tools](assistments-sole-tool-early-trends.md) — related
 - [Impacts varied across teachers: 40 of 59 teachers had a majority of their students outperform their virtual comparison counterparts](assistments-teacher-variation-outperformance.md) — related
 - [The effect of an ITS varies by education level: middle school students benefited more from an ITS than high school students](choi-education-level-moderates-its-effect.md) — related
+- [In an experiment on computer-assisted instruction, low- and high-SES students benefited equally relative to conventional instruction, and the SES achievement gap remained the same](cai-equal-ses-benefits-gap-unchanged.md) — related

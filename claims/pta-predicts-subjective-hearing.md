@@ -48,3 +48,4 @@ GLMM analysis of the same sample's questionnaire data relating objectively measu
 - [Demographic and audiologic factors (age, duration of hearing loss, age at onset, residual hearing) were not significantly correlated with speech recognition in CI users](demographic-factors-not-correlated-ci-speech-recognition.md) — related
 - [Speechreading training does not significantly improve subjectively perceived everyday listening effort or hearing abilities](speechreading-training-no-subjective-hearing-gain.md) — related
 - [More pronounced hearing loss moderates the training benefit: participants with PTA 1 SD above the mean improve significantly more after immersive than auditory training](hearing-loss-moderates-immersive-training-benefit.md) — related
+- [Greater hearing loss predicts lower speech-in-noise comprehension accuracy, with the decline more pronounced at higher noise levels](pta-predicts-sin-accuracy-noise-dependent.md) — related

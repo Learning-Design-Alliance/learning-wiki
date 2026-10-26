@@ -59,3 +59,4 @@ Interpretive summary recommendation from the review, grounded in its evaluation 
 - [The inclusion of developing and using models in K-12 science standards creates an opportunity to examine the role of modeling in science classrooms](ngss-modeling-practice-opportunity-for-educators.md) — related
 - [Classroom environment has a small positive within-student relationship with course grades that is mediated by student noncognitive factors](classroom-environment-grades-mediated-by-noncognitive-factors.md) — related
 - [Student and teacher social validation feedback supported the strategy, with students reporting improved social lives, class engagement, and goal completion](social-validation-feedback-positive-problem-solving.md) — related
+- [Early-stage performance advantages associated with growth mindsets may translate into downstream opportunity benefits such as internships and scholarships](early-advantage-may-translate-to-opportunity-benefits.md) — related

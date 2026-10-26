@@ -81,3 +81,4 @@ Supplementary t test against the no-test control condition, in which no lures ha
 - [Cued-recall testing can impair later memory for competitive, related but non-practiced information (retrieval-induced forgetting)](retrieval-induced-forgetting-cued-recall.md) — related
 - [Retrieval practice mostly increases susceptibility to misinformation (retrieval-enhanced suggestibility)](retrieval-practice-increases-misinformation-susceptibility.md) — related
 - [A literature survey suggests the generation effect is more likely to be demonstrated on delayed than immediate tests](generation-effect-more-likely-delayed-tests.md) — related
+- [Cued recall testing with correct-answer feedback significantly enhances vocabulary learning across three consecutive tests](feedback-enhances-vocabulary-learning-across-consecutive-tests.md) — related

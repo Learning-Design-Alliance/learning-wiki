@@ -88,3 +88,4 @@ A synthesis of eight major meta-analyses of PBL since 1992, reported by the arti
 - [Correct responses to Newton's Third Law questions rose while forces were taught, peaked at the end of that instruction and fell back toward chance by the end of the quarter](instruction-positive-effect-peaks-then-diminishes.md) — a narrower finding that bears on this claim
 - [Direct instruction may create a lock-in that constrains search for novel solutions](direct-instruction-lock-in-constrains-exploration.md) — related
 - [Faster rate of learning may be negatively related to long-term retention (efficiency-effectiveness trade-off)](learning-rate-retention-tradeoff.md) — related
+- [Growth mindset confers an early-term performance advantage that diminishes and converges with fixed mindset by the end of university](growth-mindset-early-advantage-diminishes-over-time.md) — a narrower finding that bears on this claim

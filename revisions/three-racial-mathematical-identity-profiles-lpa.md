@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/three-racial-mathematical-identity-profiles-lpa.md
+---
+
+# Revision history: [claims/three-racial-mathematical-identity-profiles-lpa](../claims/three-racial-mathematical-identity-profiles-lpa.md)
+
+### 2026-10-26 · ingest · process:wiki-ingest
+Ingested from jrnl-9b80d16fb7b7 (Black adolescents’ motivation to resist the false dichotomy between mathematics achievement and racial identity) via eval_harness.py + ingest_extractions.py

@@ -13,7 +13,7 @@ generated:
 # Sleep
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 32 claims (19 show a difference, 9 mixed, 4 no difference) · 15 studies (6 causal, 4 review, 4 associational, 1 quant-synthesis), `q2`–`q3` · 5 of 15 report an effect size · 32 claims rest on one study
+> **Evidence** · 37 claims (22 show a difference, 10 mixed, 5 no difference) · 16 studies (7 causal, 4 review, 4 associational, 1 quant-synthesis), `q2`–`q3` · 6 of 16 report an effect size · 37 claims rest on one study
 
 ## Description
 Sleep is the period in which consciousness is suspended and the body and brain rest and recuperate. During sleep the brain consolidates memories, the body heals and recovers energy, and waste products of brain activity may be cleared. Its quantity, regularity and quality matter for nearly every aspect of cognition, as well as for physical and emotional well-being. When learners do not get enough good sleep, mood and cognitive skills suffer and focus is lost more easily. Sleep is measured with self-report and parent-report questionnaires on sleep habits, timing, quality and daytime sleepiness. The LVN treats it as relevant from pre-kindergarten to adulthood, and suggests extra cognitive supports, such as redirecting attention when a learner's mind wanders, for students who are short of sleep. It overlaps with [physical well-being](physical-wellbeing.md), of which adequate sleep is a part, and with [long-term memory](long-term-memory.md) through consolidation.
@@ -68,6 +68,11 @@ Sleep is the period in which consciousness is suspended and the body and brain r
 - [The positive association between sleep and performance is strongest among lower-achieving students](../claims/sleep-benefits-greatest-lower-achieving-students.md) [~M] — learners who differ on it differ in outcomes
 - [Threshold regression corroborates the inverted U: performance gains below 7–9 h and significantly negative coefficients beyond the second threshold](../claims/threshold-models-sleep-performance.md) [+M] — learners who differ on it differ in outcomes
 - [Each additional hour of homework is associated with about 0.335 fewer hours of nightly sleep, and electronic device use is also negatively associated](../claims/homework-device-use-reduce-sleep-duration.md) [+W] — instruction changes it
+- [A split sleep schedule reduces 24-hour total sleep time and REM sleep duration relative to equal-duration continuous nocturnal sleep, with no consistent reduction in other sleep stages](../claims/split-sleep-reduces-total-and-rem-sleep.md) [+W] — instruction changes it
+- [Adolescents on a split sleep schedule remember more educationally realistic factual material learned in the afternoon than peers with equal total sleep in continuous nocturnal sleep](../claims/split-sleep-afternoon-factual-memory.md) [+M] — learners who differ on it differ in outcomes
+- [Sleep schedule interacts with time of learning on confident factual memory: the split-sleep advantage appears only for afternoon-learned material](../claims/group-by-time-interaction-factual-memory.md) [~W] — an instructional effect differs with it
+- [Splitting sleep with an afternoon nap does not impair morning learning in sleep-restricted adolescents despite reduced nocturnal sleep](../claims/split-sleep-no-morning-learning-cost.md) [-W] — learners who differ on it differ in outcomes
+- [Under restricted sleep, adolescents on a split sleep schedule show better late-afternoon encoding of pictures than adolescents with the same total sleep opportunity in continuous nocturnal sleep](../claims/split-sleep-afternoon-encoding-advantage.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Sleep Timing Questionnaire** (Monk et al., 2003): self-report of sleep-wake patterns on weekdays and weekends.

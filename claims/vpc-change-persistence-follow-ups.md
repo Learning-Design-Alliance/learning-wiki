@@ -9,6 +9,7 @@ generated:
   at: 2026-10-21
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-10-26
 sources:
   - id: mathias-allemand-2026
     resource: "https://doi.org/10.1007/s10648-026-10127-6"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r3` · `q2`–`q3`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-10-26 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Personality changes from digital VPC interventions were sustained or even amplified at three-month and one-year follow-ups, without signs of fadeout. [→ Mathias Allemand 2026](#mathias-allemand-2026)
@@ -73,3 +74,4 @@ The review reports, citing Stieger et al. (2020a, b), a two-week digital coachin
 - [Math self-concept gains from the COMPASS intervention are sustained at three- and six-month follow-ups in Group A, but the three-month gain in waiting-list Group B was not statistically significant](compass-math-self-concept-sustained-follow-ups.md) — related
 - [In trait-change interventions, participants who completed more trait-relevant behavioural challenges showed greater trait change over 15 weeks](behavioural-challenges-produce-trait-change.md) — related
 - [Exploratory 3-month follow-up suggested a sleeper effect on parent-rated empathy, but no maintained gains in other outcomes](zirkus-empathico-followup-sleeper-empathy.md) — related
+- [Cognitive training gains are maintained or further enhanced at two-month follow-up](act-cognitive-gains-sustained-follow-up.md) — a narrower finding that bears on this claim

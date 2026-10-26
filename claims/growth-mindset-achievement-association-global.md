@@ -58,3 +58,4 @@ The article reports, citing an international study, that growth mindset beliefs 
 - [The attitude-achievement paradox: disadvantaged minority youth may show low achievement despite high motivation to achieve upward mobility through schooling](attitude-achievement-paradox-minority-youth.md) — related
 - [The growth mindset intervention successfully fostered mindset beliefs but this did not transfer to learning outcomes](mindset-belief-fostered-without-outcome-change.md) — related
 - [Academic risk status does not significantly moderate the mind-set–achievement correlation](academic-risk-not-moderator-mindset-correlation.md) — reports the opposite
+- [Students with stronger growth mindsets show better overall academic performance at university](growth-mindset-better-overall-performance.md) — a narrower finding that bears on this claim

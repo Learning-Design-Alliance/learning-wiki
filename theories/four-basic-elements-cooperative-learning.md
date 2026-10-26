@@ -45,7 +45,8 @@ The review presents the Johnsons' account of what distinguishes cooperative lear
 - [Cooperative learning as socially structured, mutually accountable group learning](cooperative-learning-definition-olsen-kagan.md)
 
 ## Examples
--
+
+- [Design learning tasks with high interdependence to promote student collaboration](../strategies/design-high-interdependence-tasks-collaboration.md)
 
 ## Key Sources
 - Blosser, P. E. (1993). Using Cooperative Learning in Science Education. ERIC Clearinghouse for Science, Mathematics, and Environmental Education. https://eric.ed.gov/?id=ED351207

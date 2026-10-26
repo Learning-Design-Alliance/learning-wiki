@@ -66,6 +66,7 @@ Because anxious learners' working memory is partially occupied by worry, reducin
 - [Scaffolded Problem Sequencing](scaffolded-problem-sequencing.md) — graduated difficulty keeps challenge within reach
 - [Use expressive writing before math situations to offload worry and protect working memory resources](expressive-writing-before-math.md)
 - [Incorporate self-regulation or classroom-management components into mathematics interventions for lower-achieving students](self-regulation-components-for-low-attention-math-students.md)
+- [Manage pre-task expectation anxiety with cognitive restructuring or relaxation alongside gradual exposure to mathematics](manage-anticipatory-math-anxiety-strategy.md)
 
 ## Examples
 - **[Khan Academy](https://www.khanacademy.org)** — mastery-based, untimed practice with hints and unlimited retries removes speed pressure and public failure from math practice.

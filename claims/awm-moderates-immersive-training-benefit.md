@@ -54,3 +54,5 @@ Post-hoc comparisons (emmeans) on the linear mixed model of training-induced SNR
 - [Age, general cognition (MoCA), visual working memory, and hearing loss showed no significant association with the extent of training-induced change, and the three-way modality-by-AWM-by-hearing-loss interaction was not significant](null-moderators-training-induced-change.md) — related
 - [Speech-in-noise perception improves significantly after a short-term immersive auditory-cognitive training, but not after an audio-only training session](immersive-act-improves-speech-in-noise.md) — related
 - [Immersive presentation keeps comprehension performance stable across a training session while auditory-only performance decreases toward the end](immersive-training-comprehension-stability.md) — related
+- [On-training cognitive performance improves across all four trained domains after ACT, with large effect sizes](act-on-training-gains-four-domains.md) — related
+- [Students with higher working memory capacity benefited more from technology-enabled personalized learning than peers with lower working memory capacity](working-memory-moderates-personalized-learning-benefits.md) — related

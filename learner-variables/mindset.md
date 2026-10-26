@@ -13,7 +13,7 @@ generated:
 # Mindset
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 53 claims (32 show a difference, 15 mixed, 6 no difference) · 27 studies (10 associational, 6 causal, 6 review, 3 theoretical, 2 quant-synthesis), `q1`–`q4` · 8 of 27 report an effect size · 51 claims rest on one study
+> **Evidence** · 57 claims (33 show a difference, 18 mixed, 6 no difference) · 28 studies (11 associational, 6 causal, 6 review, 3 theoretical, 2 quant-synthesis), `q1`–`q4` · 8 of 28 report an effect size · 55 claims rest on one study
 
 ## Description
 Mindset is Dweck's term for implicit theories of intelligence: a fixed mindset holds that ability is set, a growth mindset that it can be developed. It is measured with short self-report scales. Research tests it as a predictor of achievement, as a moderator, and above all as an outcome of brief growth-mindset interventions. Large preregistered trials and meta-analyses find that the average effect of those interventions on achievement is small and concentrated in lower-achieving students in supportive settings, and that the correlation between mindset and achievement is weak.
@@ -84,6 +84,10 @@ Mindset is Dweck's term for implicit theories of intelligence: a fixed mindset h
 - [Growth mindset is positively associated with autonomous motivation during COVID-19 home-based learning, controlling for pre-pandemic motivation](../claims/growth-mindset-protects-autonomous-motivation-home-based-learning.md) [+W] — learners who differ on it differ in outcomes
 - [Peer (school-aggregate) growth mindset is positively associated with students' odds of academic resilience, over and above individual mindset](../claims/cl-peer-growth-mindset-resilience.md) [-W] — learners who differ on it differ in outcomes
 - [Students' individual growth mindset is positively associated with their odds of being academically resilient in PISA 2018 data across 79 countries](../claims/cl-individual-growth-mindset-resilience.md) [+W] — learners who differ on it differ in outcomes
+- [Growth mindset confers an early-term performance advantage that diminishes and converges with fixed mindset by the end of university](../claims/growth-mindset-early-advantage-diminishes-over-time.md) [~W] — learners who differ on it differ in outcomes
+- [Students with stronger growth mindsets show better overall academic performance at university](../claims/growth-mindset-better-overall-performance.md) [+W] — learners who differ on it differ in outcomes
+- [The growth-mindset performance advantage is driven by non-major courses, with no significant relationship for major courses](../claims/growth-mindset-effect-driven-by-non-major-courses.md) [~W] — learners who differ on it differ in outcomes
+- [The mindset-performance relationship is U-shaped and non-monotonic: the strongest growth- and strongest fixed-mindset students outperform those with moderate or slightly fixed mindsets](../claims/u-shaped-nonlinear-mindset-performance-relation.md) [~W] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Do growth-mindset interventions raise achievement, and for which learners and in which settings?* [Growth-mindset interventions have weak average effects on achievement, including a negligible GPA gain (d = 0.11) for lower-achieving US ninth-graders in one preregistered national trial](../claims/growth-mindset-improves-achievement.md) [+S]

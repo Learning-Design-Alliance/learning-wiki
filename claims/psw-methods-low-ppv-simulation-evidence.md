@@ -48,3 +48,4 @@ The article narrates a prior simulation study by Stuebing et al. (2012) that gen
 - [Simulations indicate PSW cognitive assessment would improve classification of response by only about 5-10 students per 1,000 in the best case](psw-cognitive-assessment-minimal-prediction-gain-simulation.md) — related
 - [The XBA and C/DM PSW methods show chance-level agreement (kappa = -.10) in identifying LD among fourth graders with reading comprehension deficits](psw-xba-cdm-poor-agreement-ld-identification.md) — related
 - [A few XBA inclusionary criteria modestly predict word reading only, with very small eta squared values (η2 range .008 to .018)](psw-inclusionary-criteria-word-reading-small-effects.md) — related
+- [Current progress monitoring screeners have low positive predictive value for learning disability risk even at high effectiveness (PPV 34.5%, NPV 96.1% at r = 0.70)](progress-monitoring-low-ppv-baseline-screening.md) — possibly the same claim (merge candidate)

@@ -78,3 +78,4 @@ In the longitudinal analysis of 112 children, ANS acuity (Panamath percent corre
 - [Non-verbal test materials add little to predicting achievement beyond verbal tests and mental age](non-verbal-tests-add-little.md) — related
 - [Kindergarten counting, arithmetic, and letter-knowledge measures correlate with Grade 6 arithmetic fluency (r up to .45)](kindergarten-measures-correlate-grade6-math.md) — related
 - [Infants possess two core numerical systems—approximate magnitude representation and precise tracking of small sets—that underpin later mathematical competencies](core-numerical-systems-underpin-math.md) — related
+- [Vocabulary is not a significant predictor of performance on the numerical tasks when Hearing Age is included](vocabulary-not-predictor-numerical-tasks.md) — related

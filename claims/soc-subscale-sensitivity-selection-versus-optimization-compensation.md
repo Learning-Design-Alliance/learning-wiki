@@ -51,3 +51,4 @@ Sensitivity analyses reported in the Discussion tested each SOC subscale individ
 - [Lower weekly perceived control correlates with more everyday memory problems at the within-person level](weekly-control-correlates-with-memory-problems.md) — related
 - [Higher education predicts more everyday memory problems, consistent with awareness and stress-exposure explanations](higher-education-predicts-more-memory-problems.md) — related
 - [Instruction based on cognitive load theory can compensate for age-related cognitive declines](clt-instruction-compensates-age-related-declines.md) — related
+- [Memory-driven attentional guidance compensates for age-related declines in cognitive control and sensory processing](memory-driven-attentional-control-compensates-aging.md) — related

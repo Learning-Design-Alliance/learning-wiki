@@ -77,3 +77,4 @@ Narrative review synthesis of human studies of parental buffering. The review re
 - [Higher serotonin is associated with persisting in challenging situations, and serotonin synthesis is greater when tryptophan is consumed in the morning or early afternoon](serotonin-persistence-tryptophan-timing.md) — related
 - [Early intervention can remediate neurodevelopmental consequences associated with maltreatment or institutional rearing](early-intervention-remediates-adversity-neurodevelopmental-consequences.md)
 - [Chronicity, developmental timing, and intensity of adversity exposure shape children's neurobiological stress responses](adversity-timing-intensity-shape-responses.md) — related
+- [Variations in maternal care causally alter DNA methylation at the glucocorticoid receptor promoter with lasting effects on stress reactivity, as the review reports from Meaney and colleagues](maternal-care-dna-methylation-stress-reactivity.md) — related

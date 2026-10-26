@@ -55,3 +55,4 @@ The report's magnet schools section synthesizes multiple studies of magnet outco
 - [Racially diverse schools show stronger achievement for historically underserved groups and positive effects on critical thinking, intergroup relationships, and civic engagement](racially-diverse-schools-benefits-underserved-achievement.md) — related
 - [Whole school magnets and magnets without selective admissions policies have generally been found more effective at integration that supports achievement gains](whole-school-magnets-more-effective-integration.md) — a narrower finding that bears on this claim
 - [Recent evidence confirms teacher quality is a critical component of student achievement](teacher-quality-critical-to-student-achievement.md) — related
+- [Magnet schools show significantly lower cultural and critical mathematics instruction and higher racial stereotyping than neighborhood schools](magnet-schools-lower-ccmi-higher-stereotyping.md) — reports the opposite

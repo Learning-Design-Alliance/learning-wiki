@@ -17,7 +17,7 @@ sources:
 # Information Processing Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 127 claims (68 for, 57 mixed, 2 against) · 81 studies (34 causal, 25 associational, 13 review, 4 quant-synthesis, 4 theoretical, 1 design), `q1`–`q4` · 19 of 81 report an effect size · 124 claims rest on one study
+> **Evidence** · 130 claims (71 for, 57 mixed, 2 against) · 84 studies (37 causal, 25 associational, 13 review, 4 quant-synthesis, 4 theoretical, 1 design), `q1`–`q4` · 20 of 84 report an effect size · 127 claims rest on one study
 
 ## Description
 Information Processing Theory treats learning as the movement and transformation of information through attention, working memory, encoding, storage, and retrieval. In broad terms, the theory asks what learners notice, how much they can actively process at once, how they organize new information, and how it becomes retrievable later.
@@ -190,6 +190,9 @@ Information processing models are often criticized as overly linear and serial, 
 - [Learning content via fragmented short videos yields lower immediate memory accuracy than learning the same content via a continuous long video](../claims/short-video-fragmented-learning-lower-memory-accuracy.md) [+W] — attached 2026-10-26 from Wei et al. (2026), which proposed "Fragmented-input deficit account: short-video format disrupts information integration, cognitive control, and semantic processing during memory retrieval".
 - [High WM load shifts learners from model-based toward model-free reinforcement learning strategies](../claims/high-wm-load-shifts-to-model-free-strategy.md) [+W]
 - [Participants earned higher corrected reward rates under low WM load than high WM load in a two-stage RL task](../claims/low-wm-load-higher-corrected-reward-rate.md) [-W]
+- [After mnemonic training, children show enhanced P200 amplitude for even- versus odd-position digits during encoding](../claims/p200-odd-even-pattern-post-mnemonic-training.md) [+W] — attached 2026-10-26 from Yafeng Pan et al. (2023), which proposed "Encoding-pattern versus processing-efficiency hypotheses of mnemonic training, instantiated as four theoretical models of neural change".
+- [On the trained ILD-discrimination task, learning magnitude is smaller 1–3 h after training than 30 min or 6–10 h after training, documenting a transient memory lapse](../claims/transient-memory-lapse-1-3h-trained-ild-task.md) [+W] — attached 2026-10-26 from Beverly A. Wright et al. (2024), which proposed "Transient memory lapses as a fundamental facet of memory formation, explained by transitions between memory phases or by fluctuating internal retrieval cues".
+- [Memory-driven attentional guidance compensates for age-related declines in cognitive control and sensory processing](../claims/memory-driven-attentional-control-compensates-aging.md) [+W]
 
 ## The evidence by question
 - *How large should a unit be, and does grouping static material help?* [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [+S]

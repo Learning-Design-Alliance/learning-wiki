@@ -13,7 +13,7 @@ generated:
 # Feedback
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 192 claims (87 for, 90 mixed, 15 against) · 146 studies (57 causal, 28 review, 20 quant-synthesis, 15 associational, 9 qualitative, 9 design, 8 theoretical), `q1`–`q4` · 37 of 146 report an effect size · 169 claims rest on one study
+> **Evidence** · 194 claims (87 for, 92 mixed, 15 against) · 147 studies (58 causal, 28 review, 20 quant-synthesis, 15 associational, 9 qualitative, 9 design, 8 theoretical), `q1`–`q4` · 38 of 147 report an effect size · 171 claims rest on one study
 
 ## Description
 Feedback is information provided to learners about their performance or understanding, intended to close the gap between current and desired performance. Effective feedback answers three questions: Where am I going? How am I doing? Where to next? ([Hattie & Timperley, 2007](https://doi.org/10.3102/003465430298487)). It functions as the corrective mechanism in any instructional cycle that includes [Practice](practice.md) or [Assessment](assessment.md).
@@ -240,6 +240,8 @@ Feedback is among the most powerful influences on learning, but its effects are 
 - [In the laboratory experiment, withdrawing feedback in the second half of learning significantly lowered next-day recognition of congruent word meanings, while adding feedback later did not impair recognition](../claims/exp1-feedback-removal-lowers-congruent-recognition.md) [+W]
 - [Feedback-stage reward prediction errors, signed or unsigned, do not modulate memory in either learning condition](../claims/feedback-rpe-no-memory-effect.md) [~W]
 - [Feedback types elicit distinct fNIRS activation patterns: frontopolar and middle temporal gyrus higher under metacognitive feedback, supramarginal gyrus under affective feedback, DLPFC under neutral feedback](../claims/chatbot-feedback-type-brain-activation-patterns.md) [+W] — attached 2026-10-26 from Yin et al. (2025), which proposed "Three educational chatbots providing metacognitive, affective, or neutral feedback during human-cardiovascular-system learning".
+- [Months after conjunction training, the global-feedback group showed significantly larger non-linear mixing on an XOR transfer task than the feature-specific group, though average XOR accuracy did not differ between groups](../claims/xor-transfer-nonlinear-mixing-advantage.md) [~W]
+- [Under global feedback, learning reflects significant non-linear mixing of color and orientation, while the linear mixing term does not differ between feedback regimes](../claims/nonlinear-mixing-term-differs-between-feedback.md) [~W]
 
 ## Design Decisions
 <!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice

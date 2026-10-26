@@ -48,3 +48,4 @@ Paired-sample t-tests across deciles of math achievement comparing change in R2 
 - [No evidence for a curvilinear relationship between arousal and test performance](no-curvilinear-arousal-performance.md) — related
 - [Across 37 countries, polynomial models with nonlinear or interactive effects of autonomous and controlled motivation on mathematics achievement always fit better than linear additive-only models](nonlinear-interactive-motivation-models-fit-better-than-linear.md) — related
 - [Quadratic latent growth fits MAP longitudinal achievement data better than linear growth across ten states](quadratic-growth-fits-map-better-than-linear.md) — related
+- [Growth mindset confers an early-term performance advantage that diminishes and converges with fixed mindset by the end of university](growth-mindset-early-advantage-diminishes-over-time.md) — related

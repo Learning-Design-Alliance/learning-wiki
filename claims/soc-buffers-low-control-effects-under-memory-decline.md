@@ -51,3 +51,4 @@ Adjusted multilevel model (n = 103) testing the SOC * Control * Memory decline t
 - [Selection strategies predict fewer memory problems regardless of decline extent; optimization and compensation are adaptive mainly under greater decline](soc-subscale-sensitivity-selection-versus-optimization-compensation.md) — related
 - [Lower weekly perceived control correlates with more everyday memory problems at the within-person level](weekly-control-correlates-with-memory-problems.md) — related
 - [Greater ten-year working memory decline predicts more everyday memory problems in adjusted multilevel analyses](working-memory-decline-predicts-everyday-memory-problems.md) — related
+- [Memory-driven attentional guidance compensates for age-related declines in cognitive control and sensory processing](memory-driven-attentional-control-compensates-aging.md) — related

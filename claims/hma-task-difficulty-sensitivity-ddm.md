@@ -50,3 +50,4 @@ Hierarchical Drift Diffusion Model regression fitted to choices and reaction tim
 - [Under high task difficulty, HMA individuals accept significantly fewer math problem challenges than LMA individuals, with no group difference under low difficulty](hma-avoid-high-difficulty-math-acceptance.md) — related
 - [HMA individuals show weaker brain activation discrepancy between high and low task difficulty than LMA peers in valuation and cognitive control regions](hma-weaker-activation-discrepancy-difficulty.md) — related
 - [Hippocampal, posterior insula and mid-cingulate activation mediate the math anxiety–avoidance relationship via reduced activation discrepancy between difficulties](hpc-pi-mcc-activation-mediation-avoidance.md) — related
+- [Exploratory analyses suggest heightened state math anxiety in production paradigms stems from fear of making mistakes rather than response times](production-anxiety-fear-of-mistakes-exploratory.md) — related

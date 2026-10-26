@@ -56,3 +56,4 @@ The article asserts this in its scenario on supporting basic skills development,
 - [Advanced technology's hyperinteractivity can intensify social inequality in education](hyperinteractivity-can-intensify-inequality.md) — possibly the same claim (merge candidate)
 - [Existing health equity frameworks often lack implementation guidance and treat equity as distributive rather than addressing how inequity is produced](equity-frameworks-lack-implementation-guidance.md) — related
 - [Individual trainings alone are unlikely to overcome the impact of broader inequities on student outcomes](individual-trainings-unlikely-overcome-structural-inequities.md) — related
+- [Evidence on whether personalized learning reduces educational inequalities is mixed, with some studies showing particular benefit for low performers and others showing low performers learning less](personalized-learning-equity-evidence-mixed.md) — a narrower finding that bears on this claim

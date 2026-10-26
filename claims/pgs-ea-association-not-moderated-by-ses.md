@@ -47,3 +47,4 @@ Between-family twin-model regression of EA on PGS within each SES group; the PGS
 ## Related Claims
 - [Children in higher SES families have higher average polygenic scores for educational attainment](higher-pgs-mean-in-higher-ses-groups.md) — related
 - [SES differences in educational achievement persist after accounting for polygenic score differences between children](ses-ea-differences-persist-after-pgs-adjustment.md) — related
+- [School SES and education-PGS each predicted completing Calculus without a significant interaction, and even top-2% polygenic-score students rarely took Calculus](calculus-completion-pgs-school-ses-no-interaction.md) — related

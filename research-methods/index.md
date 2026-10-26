@@ -2,7 +2,7 @@
 
 Methods for studying learning and evaluating education that are specific to it or especially useful in it. General social-science methods are not listed.
 
-**671 entries** · 0 stable · 671 in review · 0 drafts
+**673 entries** · 0 stable · 673 in review · 0 drafts
 
 ---
 
@@ -176,6 +176,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Early-warning indicator construction](early-warning-indicator-construction.md) - A Consortium report cited in the paper outlines five characteristics of effective indicators: predictiveness, usability and clarity, real time/right time availability, direct causal linkage to outcomes, and malleability.
 * [Ebbinghaus savings-paradigm variation for detecting early incidental vocabulary gains](ebbinghaus-savings-paradigm-variation-for-detecting-early-incidental-vocabulary-gains.md) - This methodology exposes learners to novel words incidentally, then asks them to learn the words explicitly, with half of the explicit-phase words previously encountered and half completely new.
 * [EduBehaviors](edubehaviors.md) - EduBehaviors is an interpretable annotation framework in which researchers write explicit binary assertions about conversational behavior; LLMs annotate each assertion as true or false, and a rule or trained statistical model combines these values into a construct label.
+* [Education polygenic-score molecular-tracer method for studying student pathways](education-polygenic-score-molecular-tracer-method-for-studying-student-pathways.md) - The article proposes using the education polygenic score (education-PGS), a composite of genetic variants associated with completing more years of school, as a \"molecular tracer\" of students through the high school math pipeline.
 * [Educational characteristics framework for analyzing democracy-teaching interventions](educational-characteristics-framework-for-analyzing-democracy-teaching-interventions.md) - Beyond teaching-method types, the review analyzes interventions through three educational characteristics.
 * [EEG-based continuous online cognitive-load measurement](eeg-based-continuous-online-cognitive-load-measurement.md) - Antonenko et al.
 * [Effort analysis](effort-analysis.md) - Effort analysis is a method for conducting \"effort-related individual score validation\" of achievement test data.
@@ -222,6 +223,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Eye Movement Sequence (EMS) model for identifying reading sequences from fixations](eye-movement-sequence-ems-model-for-identifying-reading-sequences-from-fixations.md) - The EMS model is an algorithm the authors developed for an earlier study to identify reading sequences from eye-tracking fixation data over look zones.
 * [Eye-tracking paradigm for studying peer feedback processing and use](eye-tracking-paradigm-for-studying-peer-feedback-processing-and-use.md) - A laboratory paradigm in which 59 higher education students read the feedback of two peers on a fictional essay and revise it while their gaze behaviour is recorded.
 * [Eye-tracking research paradigm for studying professional vision and teacher expertise](eye-tracking-research-paradigm-for-studying-professional-vision-and-teacher-expertise.md) - The article characterizes an emerging research paradigm in which eye-tracking methodologies are used to study professional vision and teacher expertise.
+* [Eyetracking metrics for visual search, relational thinking, and relational integration](eyetracking-metrics-for-visual-search-relational-thinking-and-relational-integration.md) - The article develops an eyetracking framework for pinpointing the cognitive mechanisms behind improved reasoning.
 
 #### F {: #letter-f }
 

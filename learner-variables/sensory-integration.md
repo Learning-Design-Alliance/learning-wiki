@@ -13,7 +13,7 @@ generated:
 # Sensory Integration
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 13 claims (7 show a difference, 4 mixed, 2 no difference) · 6 studies (4 causal, 1 quant-synthesis, 1 associational), `q2`–`q3` · 2 of 6 report an effect size · 13 claims rest on one study
+> **Evidence** · 14 claims (7 show a difference, 4 mixed, 3 no difference) · 7 studies (5 causal, 1 quant-synthesis, 1 associational), `q2`–`q3` · 2 of 7 report an effect size · 14 claims rest on one study
 
 ## Description
 Sensory integration is the brain's capacity to receive, process and organise information arriving through several senses at once, such as sights, sounds, smells and touch, and turn it into appropriate physical and emotional responses. When it is difficult for a learner, sensory input can interfere with focusing on reading, writing or mathematics, and the LVN describes knock-on effects on peer relationships, participation in class activities and sleep, all of which can make learning and engagement harder. Learners can have higher or lower thresholds for input in a given sense, and difficulty can show as over-sensitivity or as sensory-motor difficulty. The LVN covers it from pre-kindergarten to grade 12, and notes that its link with mathematics performance weakens as children get older. It is measured with sensory profiles completed by parents, teachers or learners themselves, and with clinical test batteries of visual, tactile and kinaesthetic processing and motor performance. It overlaps with [self-regulation](self-regulation.md), since integration combines sensory processing with behavioural regulation, and with [learning disabilities and developmental differences](learning-disabilities.md).
@@ -48,6 +48,7 @@ Sensory integration is the brain's capacity to receive, process and organise inf
 - [Structured algorithmic mappings (Traditional and Reversed) produce higher first-attempt learning accuracy than an arbitrary single-tone mapping in visual-to-auditory SSD learning](../claims/structured-mappings-facilitate-initial-ssd-learning.md) [+M] — instruction changes it
 - [Multisensory gain in very preterm schoolchildren does not correlate with standardized cognitive or clinical measures](../claims/no-correlation-multisensory-gain-cognition-vpt.md) [-W] — learners who differ on it differ in outcomes
 - [Somatosensory cortex (S1) is involved in observational motor adaptation: median nerve stimulation disrupts learning and observation increases somatosensory evoked potentials correlated with learning gains](../claims/s1-involved-observational-motor-adaptation.md) [+M] — instruction changes it
+- [Individual differences in sensory detection and motor variability do not reliably predict visuomotor adaptation, showing weak cross-task predictive power](../claims/weak-cross-task-predictive-power.md) [-M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Sensory Profile 2 (SP2)** (Dunn, 2014): parent and teacher questionnaires on sensory processing, praxis and social participation from birth to about 15, in several languages.

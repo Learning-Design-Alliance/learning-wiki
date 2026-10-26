@@ -69,3 +69,4 @@ Mediation testing used bias-corrected bootstrapped standard errors with 1000 dra
 - [Age of youngest child is inversely associated with parental self-efficacy among student parents](age-youngest-child-inversely-associated-parental-self-efficacy.md) — related
 - [Family satisfaction fully mediates the relationship between school-family balance and life satisfaction among student parents](family-satisfaction-fully-mediates-balance-life-satisfaction.md) — related
 - [Partnered student parents report higher school and family satisfaction, and part-time enrolment is associated with higher family satisfaction](partner-status-enrolment-subgroup-satisfaction-differences.md) — related
+- [The corrected article examines the association between parental internalizing disorders and child school performance](parental-internalizing-disorders-child-school-performance-correction.md) — related

@@ -63,3 +63,4 @@ Narrative review synthesis of studies on adversity intensity. The review reports
 - [Cumulative stress predicts adult outcomes beyond specific stressor types in longitudinal studies](cumulative-adversity-predicts-adult-depression-cortisol.md) — related
 - [Poverty predicts children's cortisol and executive function, partially mediated by parental sensitive caregiving](poverty-cortisol-executive-function-mediation.md) — related
 - [Each additional period of exposure to social and economic adversity accumulates to produce greater effects on educational and cognitive outcomes, though effects may plateau at a threshold](accumulation-of-exposure-periods-increases-effect.md) — related
+- [Variations in maternal care causally alter DNA methylation at the glucocorticoid receptor promoter with lasting effects on stress reactivity, as the review reports from Meaney and colleagues](maternal-care-dna-methylation-stress-reactivity.md) — related

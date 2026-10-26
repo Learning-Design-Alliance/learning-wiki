@@ -50,3 +50,4 @@ Random-effects meta-analysis (Hedges and Olkin method) of 25 included studies wi
 - [Cognitive subdomains differ in association strength with SiN perception, from r = .18 (crystallized IQ, nonsignificant) to r = .39 (processing speed)](subdomain-associations-range-18-39.md) — related
 - [Degree of unaided hearing loss (normal-to-mild vs normal-to-moderate) does not moderate the cognition–SiN association](hearing-loss-does-not-moderate-cognition-sin.md) — related
 - [Baseline reading fluency correlates with IQ, attention and working memory but not with age or speech perception in noise](baseline-reading-correlates-iq-attention-working-memory.md) — related
+- [Baseline cognitive abilities do not significantly predict the size of ACT-related speech-in-noise improvement](baseline-cognition-does-not-predict-act-benefit.md) — related

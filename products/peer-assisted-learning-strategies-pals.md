@@ -116,7 +116,8 @@ A commercially distributed, scripted peer-assisted reading and literacy curricul
 - Without teacher monitoring, pairs drift off-script and the point system degenerates into off-task point-keeping [~M]
 
 ## Related Products and Programmes
--
+
+- [Lancasterian (Monitorial) System](lancasterian-monitorial-system.md)
 
 ## Key Sources
 - Peer-Assisted Learning Strategies. (2010). WWC Intervention Report. What Works Clearinghouse, U.S. Department of Education. http://kc.vanderbilt.edu/pals
