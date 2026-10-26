@@ -67,3 +67,4 @@ Cross-sectional behavioral analysis of 36 participants in three age groups (12�
 - [Task-relevant emotions affect response inhibition more strongly than task-irrelevant emotions, especially in young children](task-relevant-emotions-stronger-response-inhibition-effect.md) — related
 - [In a change detection task, adults outperform 4-to-5-year-olds on cued shapes while children outperform adults on uncued shapes](developmental-reversal-change-detection-cued-uncued.md) — related
 - [Explicit attention-focusing and discrepancy-detection interventions largely reduce susceptibility; mindfulness interventions do not](attention-focusing-discrepancy-detection-reduces-susceptibility.md) — related
+- [Older age is associated with poorer face recognition: lower d′, higher false alarm rate, and longer response time](aging-poorer-face-recognition-dprime-false-alarm.md) — reports the opposite

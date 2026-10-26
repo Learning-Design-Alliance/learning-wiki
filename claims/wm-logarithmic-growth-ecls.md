@@ -52,3 +52,4 @@ Prospective longitudinal mixed-effects modeling of the ECLS-K:2011 (N = 18,174, 
 - [Math achievement growth from preschool through second grade is best characterized by a latent basis curve rather than linear, exponential, or quadratic functions](latent-basis-best-fit-math-growth.md) — related
 - [Average and superior children develop at different levels and grow increasingly dissimilar with age, with superior children showing adolescent mental acceleration about one year earlier](average-superior-mental-curves-diverge.md) — related
 - [Mental growth curves of superior children diverge from those of average children and resemble physical growth curves](superior-children-growth-curves-diverge.md) — related
+- [Growth models show substantial variability in the shape and rate of learning, but no statistically significant EAPGS associations with that variation](growth-models-pgs-null-shape-rate.md) — related

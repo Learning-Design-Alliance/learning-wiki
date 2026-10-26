@@ -70,3 +70,4 @@ The same review attributes to Baldwin the finding that repeated examinations sho
 - [Cephalic index computed from calliper head measurements shows fluctuations in both children, with parental indices of 78.8 and 81.8](cephalic-index-fluctuations-two-children.md) — related
 - [Large IQ differences in this sample were mostly attributable to identifiable causes such as failures of previously passed tests, chance success, effort fluctuation, or lack of experience](iq-differences-attributable-to-specific-causes.md) — related
 - [The question of the constancy of IQ is not settled; further studies with regular intervals and repeated tests of the same cases over a number of years are needed](iq-constancy-question-not-settled.md) — related
+- [IQ is fairly stable across the lifespan, with mental-ability scores at age 11 correlating about r = .70 with tests taken more than 60 years later](iq-stability-across-lifespan-r70.md) — possibly the same claim (merge candidate)

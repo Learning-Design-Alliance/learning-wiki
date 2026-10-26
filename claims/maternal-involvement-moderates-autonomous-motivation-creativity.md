@@ -67,3 +67,5 @@ The review reports, citing a questionnaire study (N = 733, Korea), that perceive
 - [Parent involvement is associated with higher academic achievement in meta-analyses of mostly correlational studies](parent-involvement-improves-achievement.md) — related
 - [Educational factors supportive of adolescent creativity include balancing freedom with guidance, openness to student ideas, trust, and varied learning resources](educational-factors-support-adolescent-creativity.md) — related
 - [Individual factors supportive of adolescent creativity include openness to experience, intrinsic motivation, creative self-efficacy, and external attributions for adversity](individual-supportive-factors-adolescent-creativity.md) — related
+- [Parent gender related to adolescents' autonomous motivation during home-based learning, with maternal involvement associated with higher motivation](parent-gender-associated-with-adolescent-motivation.md) — related
+- [Perceived parental autonomy support positively predicts adolescents' autonomous motivation during home-based learning](parental-autonomy-support-predicts-autonomous-motivation.md) — related

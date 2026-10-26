@@ -13,7 +13,7 @@ generated:
 # Long-Term Memory
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 145 claims (88 show a difference, 35 mixed, 22 no difference) · 89 studies (40 causal, 21 review, 13 quant-synthesis, 8 theoretical, 5 associational, 2 qualitative), `q1`–`q4` · 35 of 89 report an effect size · 137 claims rest on one study
+> **Evidence** · 149 claims (90 show a difference, 36 mixed, 23 no difference) · 92 studies (43 causal, 21 review, 13 quant-synthesis, 8 theoretical, 5 associational, 2 qualitative), `q1`–`q4` · 38 of 92 report an effect size · 141 claims rest on one study
 
 ## Description
 Long-term memory holds information, such as words, facts, events, concepts and procedures, so that it can be retrieved and used later, over spans from hours to decades, and in principle indefinitely. Skills and knowledge get there through repeated practice and use, and stay accessible while they continue to be used. It matters for learning because what is stored there is the base for everything that follows: the [prior knowledge](prior-knowledge.md) and vocabulary that support reading and writing, and the arithmetic facts and procedures that free a learner to work on new mathematics problems. It develops through childhood and adolescence as the brain systems supporting it mature, and older learners lean more on memory-based strategies, for example in mathematics. It is measured with standardised memory batteries that ask learners to recall stories, lists or figures after a delay. It is distinct from [working memory](working-memory.md), which holds information briefly while it is being used; rehearsal and use move material from one to the other.
@@ -180,6 +180,10 @@ Long-term memory holds information, such as words, facts, events, concepts and p
 - [When reward cues follow stimuli, rewards improve memory for high-interest clips at 1 day, increasing the interest effect (additive effect)](../claims/post-clip-reward-enhances-high-interest-memory.md) [~M] — instruction changes it
 - [When reward cues precede stimuli, rewards improve memory for low-interest clips at 1 day, decreasing the interest effect (undermining effect)](../claims/pre-clip-reward-enhances-low-interest-memory.md) [~M] — instruction changes it
 - [Interleaving improves both long-term memory for formulas and exact answer correctness on criterial tests, with a smaller benefit for correctness](../claims/interleaving-memory-and-correctness-submeasures.md) [+W] — instruction changes it
+- [A preceding bout of HIIT exercise does not influence micro-consolidation of an implicit motor sequence learned in close temporal proximity to exercise](../claims/hiit-does-not-modify-micro-consolidation.md) [-M] — instruction changes it
+- [Chronotype predicts grade retention through its interaction with school timing (synchrony effect), not through a main chronotype effect: morning-attending late chronotypes with low math grades show higher retention odds than their evening peers](../claims/chronotype-school-timing-retention.md) [~W] — learners who differ on it differ in outcomes
+- [Early learning of an implicit motor sequence is accounted for by micro-offline gains during brief rest periods rather than by gains during active practice](../claims/implicit-sequence-micro-offline-gains.md) [+M] — instruction changes it
+- [Obstacle Course enrichment enhances long-term object recognition memory in mice, exceeding the effects of enriched housing at long retention delays](../claims/oc-enrichment-enhances-long-term-object-recognition.md) [+M] — instruction changes it
 
 ## Measures
 - **Wechsler Memory Scale (WMS)** (Wechsler, 2010): its logical memory subtest asks for details of a story heard once, as a measure of declarative memory.

@@ -13,7 +13,7 @@ generated:
 # Sleep
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 20 claims (11 show a difference, 5 mixed, 4 no difference) · 13 studies (5 causal, 4 review, 3 associational, 1 quant-synthesis), `q2`–`q3` · 5 of 13 report an effect size · 20 claims rest on one study
+> **Evidence** · 25 claims (15 show a difference, 6 mixed, 4 no difference) · 14 studies (6 causal, 4 review, 3 associational, 1 quant-synthesis), `q2`–`q3` · 5 of 14 report an effect size · 25 claims rest on one study
 
 ## Description
 Sleep is the period in which consciousness is suspended and the body and brain rest and recuperate. During sleep the brain consolidates memories, the body heals and recovers energy, and waste products of brain activity may be cleared. Its quantity, regularity and quality matter for nearly every aspect of cognition, as well as for physical and emotional well-being. When learners do not get enough good sleep, mood and cognitive skills suffer and focus is lost more easily. Sleep is measured with self-report and parent-report questionnaires on sleep habits, timing, quality and daytime sleepiness. The LVN treats it as relevant from pre-kindergarten to adulthood, and suggests extra cognitive supports, such as redirecting attention when a learner's mind wanders, for students who are short of sleep. It overlaps with [physical well-being](physical-wellbeing.md), of which adequate sleep is a part, and with [long-term memory](long-term-memory.md) through consolidation.
@@ -56,6 +56,11 @@ Sleep is the period in which consciousness is suspended and the body and brain r
 - [The number of slow oscillations during sleep is positively correlated with attractiveness ratings of faces associated with cued names but not uncued names](../claims/slow-oscillations-correlate-cued-attractiveness.md) [+M] — learners who differ on it differ in outcomes
 - [Sleep stage duration and architecture show no significant correlation with memory change in this nap paradigm](../claims/sleep-stage-architecture-no-memory-correlation.md) [-M] — learners who differ on it differ in outcomes
 - [TMR during REM sleep, but not SWS, reduces arousal ratings of negative emotional pictures](../claims/tmr-rem-reduces-emotional-arousal.md) [~M] — an instructional effect differs with it
+- [N3 duration, cuing, and sleep-disruption measures are intercorrelated but represent separable facets of sleep quality in predicting the recall cuing effect](../claims/sleep-quality-measures-separable-facets-predicting-tmr-effect.md) [+M] — an instructional effect differs with it
+- [Sleep Disruption Index classifies TMR responders: participants with an index below 0.13 showed a positive recall cuing effect, those above did not show a significant one](../claims/sleep-disruption-index-classifies-tmr-responders.md) [+W] — an instructional effect differs with it
+- [The TMR cuing effect on face recognition accuracy is associated with N3 sleep duration, though cueing did not significantly improve recognition overall](../claims/tmr-recognition-cuing-effect-associated-with-n3-duration.md) [~M] — an instructional effect differs with it
+- [The TMR cuing effect on name recall is positively correlated with the duration of stage N3 (slow-wave) sleep during the nap](../claims/tmr-recall-cuing-effect-correlates-with-n3-duration.md) [+M] — an instructional effect differs with it
+- [TMR benefits on name recall are negatively correlated with post-cue sleep disruption and post-cue beta-band EEG power, suggesting reactivation depends on undisturbed sleep](../claims/tmr-benefit-negatively-correlated-with-sleep-disruption.md) [+M] — an instructional effect differs with it
 
 ## Measures
 - **Sleep Timing Questionnaire** (Monk et al., 2003): self-report of sleep-wake patterns on weekdays and weekends.

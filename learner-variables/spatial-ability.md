@@ -13,7 +13,7 @@ generated:
 # Spatial Ability
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 63 claims (46 show a difference, 12 mixed, 5 no difference) · 36 studies (16 associational, 9 causal, 7 review, 2 quant-synthesis, 2 qualitative), `q1`–`q4` · 8 of 36 report an effect size · 62 claims rest on one study
+> **Evidence** · 68 claims (48 show a difference, 13 mixed, 7 no difference) · 38 studies (16 associational, 11 causal, 7 review, 2 quant-synthesis, 2 qualitative), `q1`–`q4` · 10 of 38 report an effect size · 67 claims rest on one study
 
 ## Description
 Spatial ability covers mental rotation, visualising objects from other viewpoints, holding visual-spatial information in memory and reasoning about the relations among shapes. It is measured with timed tasks (mental rotation, paper folding, embedded figures). It correlates moderately with mathematics and science achievement and is strongly associated with entry into and success in STEM fields, and training studies show it can be improved. It overlaps with [general cognitive ability](general-cognitive-ability.md) and with visual-spatial [working memory](working-memory.md).
@@ -99,6 +99,11 @@ Spatial ability covers mental rotation, visualising objects from other viewpoint
 - [Students drew mainly on peers and materials rather than adults as resources for spatial reasoning, using other students in 44 percent of resource-use instances and adults in 9 percent](../claims/peers-over-adults-spatial-resources.md) [+M] — instruction changes it
 - [The most important kindergarten predictors of Grade 6 MD are RAN, spatial relations, arithmetic skills, number concepts, attention-orientation, and counting](../claims/top-predictors-md-ran-spatial-attention.md) [+W] — learners who differ on it differ in outcomes
 - [Disadvantaged (EYPP-eligible) children in the integrated intervention gained more in numeracy and spatial skills than disadvantaged controls](../claims/disadvantaged-children-greater-gains-integrated-intervention.md) [+M] — instruction changes it
+- [Gender and baseline performance show no significant main effects or interactions with time on long-term training aftereffects, though descriptively the sustainability of effects was higher in the male group](../claims/gender-baseline-no-significant-moderation.md) [-M] — an instructional effect differs with it
+- [HD-tDCS combined with mental rotation training shows no significant group effect or Group × Time interaction on accuracy, response time, or P300 GFP](../claims/hd-tdcs-no-added-effect-mental-rotation-training.md) [-M] — instruction changes it
+- [Long-term aftereffects of mental rotation training differ by task difficulty: sustained gains then decline for the simple 75° task versus decline over time for the complex 150° task](../claims/aftereffects-differ-task-difficulty-75-150.md) [~M] — instruction changes it
+- [Obstacle Course enrichment enhances spatial object location memory in mice, outperforming enriched housing with a shortened sample phase](../claims/oc-enrichment-enhances-object-location-memory.md) [+M] — instruction changes it
+- [Ten-day mental rotation training improves accuracy and response time, with behavioral benefits maintained up to 90 days post-training](../claims/mr-training-accuracy-rt-gains-90-days.md) [+M] — instruction changes it
 
 ## Related Learner Variables
 

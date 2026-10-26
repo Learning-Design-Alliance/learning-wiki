@@ -53,3 +53,4 @@ Authors' interpretation reconciling the univariate t-test nulls (Section IV-A) w
 - [Trial-independent EEG familiarity classification remains statistically significantly above chance for the 4-class, equations-only, and faces-only tasks under Bonferroni-corrected permutation tests](trial-independent-eeg-familiarity-above-chance.md) — related
 - [Offloading is decodable from metacognitive monitoring and control brain processes](neural-metacognitive-decoding-offloading.md) — related
 - [MRMR feature ranking identifies occipital alpha PSD as the most discriminative feature, followed by frontal gamma, high-beta, and theta](mrmr-occipital-alpha-top-feature.md) — related
+- [SVM classification of fNIRS activation patterns distinguishes RD with 60–90% accuracy, with left MTG channels the most consistent discriminative features](fnirs-mvpa-classifies-reading-difficulty.md) — a narrower finding that bears on this claim

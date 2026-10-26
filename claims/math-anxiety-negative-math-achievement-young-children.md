@@ -56,3 +56,4 @@ Cross-sectional correlational study of 162 second and third graders using hierar
 - [Math anxiety correlates negatively with math achievement, grades, enjoyment, motivation, and amount of math taken](math-anxiety-negative-correlations-achievement.md) — a broader claim this one bears on
 - [Self-image and learning mathematics anxiety, but not other metacognition dimensions or evaluation anxiety, predict mathematics achievement after controlling for IQ](self-image-lma-predict-math-achievement.md) — related
 - [Math anxiety predicts mathematics achievement in linear regression (R2=.357)](math-anxiety-predicts-achievement-regression.md) — related
+- [Math anxiety negatively correlates with math performance, controlling for general anxiety and word task performance](math-anxiety-underperformance-partial-correlation-daker-2023.md) — related

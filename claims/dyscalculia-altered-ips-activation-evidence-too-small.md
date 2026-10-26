@@ -88,3 +88,4 @@ On arithmetic activity in dyscalculia, the review reports both increases (pariet
 ## Related Claims
 - [Children with DD show greater brain activation than TD children in parietal, occipito-temporal and prefrontal regions during both addition and subtraction](dd-hyperactivation-multiple-regions.md) — related
 - [DD children show operation-specific hyperactivation: greater IPS, superior parietal lobule and fusiform activity during subtraction, while during addition only the right superior parietal lobule differs (lower in DD)](dd-subtraction-specific-parietal-hyperactivation.md) — related
+- [When the other operation is not controlled, subtraction models include left IPS and multiplication models include right AG](control-models-include-ips-and-ag.md) — related

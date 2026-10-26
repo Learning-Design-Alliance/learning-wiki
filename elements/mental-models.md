@@ -83,6 +83,7 @@ Instruction is more durable when it helps learners construct a coherent causal m
 **[Analogies and Prior Knowledge Activation](analogies-and-prior-knowledge-activation.md)** — Uses a familiar system (e.g., water flow for electricity) as the source model, with explicit mapping of correspondences and limits.
 
 **[Advance Organizers](advance-organizers.md)** — Ausubel's expository organizers supply a general model into which subsequent detail can be assimilated.
+- [Teach advanced science concepts explicitly along their underlying neurosemantic dimensions](../strategies/teach-along-neurosemantic-dimensions.md)
 
 ## Key Sources
 - Johnson-Laird, P. N. (1983). *Mental models: Towards a cognitive science of language, inference, and consciousness.* Harvard University Press.

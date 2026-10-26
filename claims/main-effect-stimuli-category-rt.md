@@ -49,3 +49,4 @@ Linear mixed model omnibus test of the main effect of stimuli category (no cue, 
 - [Higher cardiorespiratory fitness is associated with faster reaction times for stimuli following valid cues in healthy male high-school students](vo2max-associated-faster-rt-valid-cue.md) — related
 - [Cardiorespiratory fitness is not associated with reaction times for uncued stimuli in healthy male high-school students](vo2max-not-associated-rt-no-cue.md) — related
 - [Higher cardiorespiratory fitness is associated with faster reaction times for stimuli following invalid cues in healthy male high-school students](vo2max-associated-faster-rt-invalid-cue.md) — related
+- [The spatial cueing task produced a small cueing validity effect on reaction times across stimulus categories](cueing-validity-effect-reaction-times.md) — a narrower finding that bears on this claim

@@ -67,3 +67,4 @@ Within the same response-consistency ANOVA, the article reports "RC was higher i
 - [Synchronizers show more precise speech-envelope encoding in the FFR, with the group difference modulated by presentation mode, time region, and stimulus](synchronizers-envelope-encoding-precision.md) — related
 - [Children who synchronize at only one beat rate fall statistically between the other two groups, with mostly non-significant differences](synchronizers-one-rate-only-intermediate.md) — related
 - [Synchronizers show higher phase-locking consistency than Non-synchronizers, especially from transition to steady-state and at higher frequencies](synchronizers-phase-locking-consistency.md) — related
+- [Brief tVNS paired with speech training produces no measurable change in the sensory representation of non-native pitch as indexed by frequency-following responses](no-tvns-change-ffr-sensory-pitch-representation.md) — related

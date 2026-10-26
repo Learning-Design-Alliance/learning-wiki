@@ -55,3 +55,4 @@ The agenda reports, citing Newmann, Bryk, & Nagaoka (2001), that authentic-intel
 - [Students whose assignments are more authentic produce more authentic intellectual work in both writing and mathematics](authentic-assignments-yield-authentic-student-work.md) — related
 - [The report cites research evidence that students exposed to authentic intellectual challenges are more engaged than students given conventional schoolwork](authentic-challenges-increase-engagement.md) — related
 - [Exposure to high-quality assignments predicted substantially higher IGAP reading, mathematics, and writing performance (effect sizes 0.43, 0.64, 0.52)](authentic-assignments-igap-value-added.md) — related
+- [Approximately 10 years of institutionalized education are necessary for intelligence to approach its maximum potential](ten-years-schooling-maximum-intelligence.md) — related

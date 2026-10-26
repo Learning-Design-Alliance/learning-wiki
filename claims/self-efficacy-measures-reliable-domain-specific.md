@@ -76,3 +76,4 @@ Validity discussion of construct validity: self-efficacy for long division corre
 - [The full 32-item computing career intentions survey shows very good internal consistency (alpha = 0.94) in a large-scale field test](full-survey-internal-consistency-alpha-094.md) — a narrower finding that bears on this claim
 - [CMS shows acceptable test-retest reliability and internal consistency](cms-reliability-icc-alpha.md) — a narrower finding that bears on this claim
 - [A 12-item short form of the survey retains acceptable-to-good reliability (alpha = 0.85; test-retest = 0.75)](short-form-survey-acceptable-reliability.md) — related
+- [The tendency to follow advice shows good test-retest reliability across two sessions (~0.73), behaving as a stable trait-like bias](advice-following-test-retest-reliability.md) — related

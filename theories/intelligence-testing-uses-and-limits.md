@@ -13,7 +13,7 @@ generated:
 # Intelligence Testing: Uses and Limits
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 171 claims (58 for, 98 mixed, 15 against) · 85 studies (51 associational, 17 review, 9 theoretical, 5 design, 2 quant-synthesis, 1 causal), `q1`–`q3` · 9 of 85 report an effect size · 170 claims rest on one study
+> **Evidence** · 172 claims (59 for, 98 mixed, 15 against) · 86 studies (51 associational, 18 review, 9 theoretical, 5 design, 2 quant-synthesis, 1 causal), `q1`–`q3` · 10 of 86 report an effect size · 171 claims rest on one study
 
 ## Description
 The first intelligence test, the Binet-Simon test, grew out of Alfred Binet's 1904 appointment as France's Minister of Public Education, where he sought a way to identify children with developmental disabilities so they could receive appropriate support — Binet believed "abnormality" could be remediated, and strongly supported special education on that basis. It was the first test to distinguish "normal" children from those with developmental disabilities, and its later revision became the Stanford-Binet, one of the most widely used intelligence tests (Zimmerman & Schunk, 2003). Binet's original purpose — identifying students who need support — sits in some tension with how intelligence-test scores are more often used today, as a general ranking or classification device (see Constraints below).
@@ -222,6 +222,7 @@ Despite this psychometric strength, intelligence tests and the definitions of in
 - [Applying the Binet-Simon tests thoroughly requires forty-five minutes to an hour per child, so school laboratories should train special-class teachers to give some tests and reserve laboratory time for the rest.](../claims/wallin-1911-teacher-testing-delegation.md) [~W]
 - [One-year Binet retest gains average one year of mental rank, with defectives gaining about half a year (Berry)](../claims/binet-retest-one-year-gain-berry.md) [~W]
 - [Every pedagogically retarded child should receive a psycho-clinical examination to distinguish genuine subnormal development from retardation caused by late entrance, irregular attendance, illness, or poor teaching.](../claims/wallin-1911-examine-retarded-cause-diagnosis.md) [~W]
+- [IQ is fairly stable across the lifespan, with mental-ability scores at age 11 correlating about r = .70 with tests taken more than 60 years later](../claims/iq-stability-across-lifespan-r70.md) [+W]
 
 ## Related Principles
 - [Supporting Gifted and Talented Students](../principles/supporting-gifted-and-talented-students.md) — giftedness classification is conventionally IQ-threshold-based, inheriting all of this principle's measurement caveats

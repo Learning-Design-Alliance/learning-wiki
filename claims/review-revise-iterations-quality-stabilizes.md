@@ -54,3 +54,4 @@ Analysis of the three review-revise iterations (Table 7) scoring accepted proble
 - [Beam search-based self-refinement improves simulated solution alignment with predicted student behavior](beam-search-self-refinement-improves-solution-simulation.md) — related
 - [In a single-teacher case study, redesigning a peer-feedback task produced more specific and varied student notes, which the authors read as a more engaged class](iterative-task-redesign-increased-engagement.md) — related
 - [LLM simulation, reflection, and refinement elevates the quality of LLM-generated teaching plans above their unenhanced baselines](llm-simulation-reflection-enhances-teaching-plans.md) — related
+- [Reading intervention gains tend to be optimal between kindergarten and grade 2, stabilizing thereafter](early-reading-intervention-window-kindergarten-grade-2.md) — related

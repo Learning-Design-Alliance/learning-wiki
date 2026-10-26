@@ -13,7 +13,7 @@ generated:
 # Achievement Goal Orientation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 102 claims (55 show a difference, 32 mixed, 15 no difference) · 41 studies (18 associational, 10 causal, 6 review, 4 quant-synthesis, 3 theoretical), `q2`–`q4` · 15 of 41 report an effect size · 100 claims rest on one study
+> **Evidence** · 105 claims (57 show a difference, 32 mixed, 16 no difference) · 42 studies (18 associational, 11 causal, 6 review, 4 quant-synthesis, 3 theoretical), `q2`–`q4` · 16 of 42 report an effect size · 103 claims rest on one study
 
 ## Description
 Achievement goal theory distinguishes mastery goals (developing competence and understanding) from performance goals (showing competence relative to others), each with an approach form (seeking success) and an avoidance form (avoiding failure or looking incompetent). Goals are measured by self-report and are shaped by classroom goal structures: how tasks, evaluation and recognition are organised. Mastery-approach goals generally go with persistence and deeper processing, performance-avoidance goals with anxiety and lower achievement. It is one part of [motivation](motivation.md).
@@ -137,6 +137,9 @@ Achievement goal theory distinguishes mastery goals (developing competence and u
 - [Reduced autonomous motivation experienced during a graded task mediates the effect of grading on subsequent performance-avoidance goal adoption](../claims/autonomous-motivation-mediation-grading-avoidance.md) [+W] — instruction changes it
 - [The grade effect on performance-avoidance goals persists when grading is accompanied by a formative comment, and comment-only feedback yields lower performance-avoidance than graded conditions](../claims/grade-with-comment-still-raises-performance-avoidance.md) [+W] — instruction changes it
 - [Math avoidance motivation is independent of actual math performance, with subjective estimation of task difficulty the primary influencing factor](../claims/avoidance-independent-of-actual-math-performance.md) [-M] — learners who differ on it differ in outcomes
+- [Achievement motivation modulated conditioned-response acquisition readiness to goal-relevant versus goal-irrelevant stimuli during early acquisition](../claims/achievement-motivation-modulates-early-acquisition-bias.md) [+M] — an instructional effect differs with it
+- [No difference between goal-relevant and goal-irrelevant stimuli in conditioned-response extinction, and no achievement-motivation moderation](../claims/no-extinction-difference-goal-relevance.md) [-M] — an instructional effect differs with it
+- [Participants with high achievement motivation showed a learning bias toward goal-relevant stimuli, whereas participants with lower achievement motivation did not](../claims/high-achievement-motivation-learning-bias-simple-slopes.md) [+M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

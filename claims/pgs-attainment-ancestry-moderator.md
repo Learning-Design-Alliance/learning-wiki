@@ -73,3 +73,5 @@ Adjusted pooled estimate after modeling sample ancestry in the attainment meta-r
 - [Polygenic score predictions of education strengthen as GWAS discovery sample sizes increase](pgs-prediction-strength-grows-gwas-sample-size.md) — related
 - [Polygenic scores show a meta-analytic association of ρ = 0.24 with educational achievement](pgs-educational-achievement-rho-24-meta.md) — related
 - [Polygenic scores based on the Lee et al. (2018) GWAS show a meta-analytic association of ρ = 0.27 with educational attainment](pgs-educational-attainment-rho-27-meta.md) — related
+- [Educational-attainment polygenic score associations with pre-test, post-test, and pre-to-post change scores on individual cognitive tasks are small and mostly nonsignificant after multiple-testing correction](eapgs-regression-task-scores-nonsignificant.md) — related
+- [A polygenic score for educational attainment explains about 15% of individual differences in out-of-sample prediction among people of European descent, with a correlation of approximately 0.4 with outcomes](pgs-educational-attainment-15-percent-out-of-sample.md) — related

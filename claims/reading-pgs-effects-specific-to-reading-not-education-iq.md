@@ -47,3 +47,4 @@ Specificity SEM model adding EY4-PGS and IQ3-PGS as covariates in the twin sampl
 ## Related Claims
 - [Phonological awareness and rapid bimodal temporal processing partially mediate the Reading-PGS-to-reading association](pa-rbtp-mediate-reading-pgs-reading-skills.md) — possibly the same claim (merge candidate)
 - [Serial mediation supports a sequence from Reading-PGS through rapid bimodal temporal processing and phonological awareness to decoding and comprehension](serial-mediation-rbtp-pa-decoding-comprehension.md) — related
+- [Educational-attainment polygenic score associations with pre-test, post-test, and pre-to-post change scores on individual cognitive tasks are small and mostly nonsignificant after multiple-testing correction](eapgs-regression-task-scores-nonsignificant.md) — related

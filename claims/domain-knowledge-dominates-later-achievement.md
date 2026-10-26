@@ -87,3 +87,4 @@ SEM models including academic precursors (Figures 3 and 4) showed spelling and m
 - [Fractions knowledge is a critical domain-specific predictor of mathematics achievement in later grades](fractions-knowledge-predicts-later-achievement.md) — a narrower finding that bears on this claim
 - [Better childhood visual acuity is associated with higher GCSE scores even after adjusting for sex, age, reading skill, verbal and performance IQ, and SES](visual-acuity-gcse-association.md) — related
 - [cogPGS significantly explains baseline WM variation (β = 0.10, p = 0.03; 1.0% of variance after accounting for gender and age).](cogpgs-explains-baseline-wm.md) — related
+- [The confounded variance of prior knowledge and intelligence predicts learning outcome and expertise better than either variable alone](prior-knowledge-and-intelligence-conjoint-prediction.md) — related

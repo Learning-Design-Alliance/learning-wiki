@@ -72,3 +72,4 @@ Simple slopes analysis of the LF Condition by WM interaction, visualized in Fig.
 - [In high-frequency (low WM demand) associations, the testing effect occurred regardless of working memory capacity, with no Condition by WM interaction](testing-effect-high-frequency-regardless-wm.md) — related
 - [The testing effect is moderated by a three-way interaction between retrieval condition, stimulus frequency, and working memory capacity](three-way-interaction-wm-frequency-testing-effect.md) — a broader claim this one bears on
 - [Retrieval practice is costly and benefits learning only when working memory capacity is abundant, as stated in the corrected article's title](retrieval-practice-costly-benefits-only-abundant-wm.md) — a broader claim this one bears on
+- [Testing effect among low-WMC learners depends on stimulus WM demands: negative testing effect for low-frequency stimuli](wmc-stimulus-frequency-interaction-testing-effect.md) — a broader claim this one bears on

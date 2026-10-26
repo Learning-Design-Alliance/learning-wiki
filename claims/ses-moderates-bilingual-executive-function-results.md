@@ -53,3 +53,4 @@ Review narrative in the Results section on participant characteristics: parental
 - [No macrostructure measure differs significantly between bilingual and monolingual children, while age improves story structure, internal state terms, comprehension, and aggregate scores but not structural complexity](macrostructure-stable-across-language-groups.md) — related
 - [Including or excluding calibration status 10 items in scoring has a negligible impact on Spanish student RIT scores for monolingual and bilingual students](status-10-items-negligible-score-impact.md) — related
 - [The bilingual advantage on hard items cannot be attributed to SES differences](ses-ruled-out-bilingual-advantage.md) — related
+- [Simultaneous multilinguals show a small but reliable educational attainment advantage over monolinguals at ages 11 and 16 in UK adolescents](sm-attainment-advantage-ages-11-16.md) — a narrower finding that bears on this claim

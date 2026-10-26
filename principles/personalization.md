@@ -27,7 +27,7 @@ sources:
 # Personalization
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 83 claims (41 for, 35 mixed, 7 against) · 86 studies (28 review, 21 causal, 10 theoretical, 9 qualitative, 8 associational, 5 quant-synthesis, 5 design), `q1`–`q4` · 7 of 86 report an effect size · 78 claims rest on one study
+> **Evidence** · 84 claims (42 for, 35 mixed, 7 against) · 87 studies (28 review, 21 causal, 11 theoretical, 9 qualitative, 8 associational, 5 quant-synthesis, 5 design), `q1`–`q4` · 7 of 87 report an effect size · 79 claims rest on one study
 
 ## Conditional relationship
 
@@ -193,6 +193,7 @@ Engagement, immediate achievement on an aligned test, time saved, delayed retent
 - [Latent profile analysis of RIASEC interests in Dutch Grade 9 students reveals seven distinct vocational interest profiles](../claims/seven-vocational-interest-profiles-grade-9.md) [+W]
 - [Practice should always be considered in light of the pupil's interest and motivation; excess practice enjoyed by the pupil is not a grave defect](../claims/practice-must-be-motivated.md) [~W]
 - [Learning-styles models (particularly VAK) continue to be believed in by most teachers and persist in teacher training despite evidence of no positive impact on educational outcomes](../claims/learning-styles-vak-persist-teacher-training.md) [-W]
+- [Mobile devices enable just-in-time adaptive interventions that flexibly adapt support to students' changing internal and contextual states](../claims/jitai-just-in-time-mobile-support.md) [+W]
 
 ## Related Principles
 - [Adaptive Learning](adaptive-learning.md) — the system-driven end of the personalization spectrum, where algorithms adjust difficulty and sequencing

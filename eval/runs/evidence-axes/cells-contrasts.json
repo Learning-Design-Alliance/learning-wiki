@@ -43974,5 +43974,145 @@
  "spacing\timplementation-intention planning for distributed practice\tinformation and tips about distributed practice": {
   "label": "implementation-intention planning for distributed practice vs information and tips about distributed practice",
   "treatment_is_a": true
+ },
+ "autonomy-support\thigher perceived parental autonomy support\tlower perceived parental autonomy support": {
+  "label": "higher vs lower perceived parental autonomy support",
+  "treatment_is_a": true
+ },
+ "feedback-type\taffective chatbot feedback\tneutral chatbot feedback": {
+  "label": "affective feedback vs neutral feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\taffective feedback\tneutral feedback": {
+  "label": "affective feedback vs neutral feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\terror-amplification visual feedback training\tpre-test stance trials": {
+  "label": "error-amplified visual feedback vs pre-test stance trials",
+  "treatment_is_a": true
+ },
+ "feedback-type\tmetacognitive chatbot feedback\taffective chatbot feedback": {
+  "label": "metacognitive feedback vs affective feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tmetacognitive chatbot feedback\tneutral chatbot feedback": {
+  "label": "metacognitive feedback vs neutral feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tmetacognitive feedback\taffective feedback": {
+  "label": "metacognitive feedback vs affective feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tmetacognitive feedback\tneutral feedback": {
+  "label": "metacognitive feedback vs neutral feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tmetacognitive feedback\tnone; within-group association": {
+  "label": "metacognitive feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tneutral feedback\tmetacognitive feedback": {
+  "label": "metacognitive feedback vs neutral feedback",
+  "treatment_is_a": false
+ },
+ "feedback-type\ttwice-amplified visual error feedback\treal-size visual error feedback": {
+  "label": "amplified visual error feedback vs real-size visual error feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\ttwice-amplified visual error feedback\tvisual feedback displaying real errors": {
+  "label": "amplified visual error feedback vs real-size visual error feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\ttwice-size error amplification visual feedback\treal-size visual feedback": {
+  "label": "amplified visual error feedback vs real-size visual error feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tvisual error amplification feedback\ttraditional visual feedback displaying real errors": {
+  "label": "amplified visual error feedback vs real-size visual error feedback",
+  "treatment_is_a": true
+ },
+ "interleaving\tmixed observational and physical practice\tpure physical practice": {
+  "label": "Interleaved observational and physical practice vs physical-only practice",
+  "treatment_is_a": true
+ },
+ "media-design\tpicture prompt\tobject prompt": {
+  "label": "picture prompts vs object prompts",
+  "treatment_is_a": true
+ },
+ "media-design\tpicture prompts\tother individual communication strategies": {
+  "label": "picture prompts vs other individual communication strategies",
+  "treatment_is_a": true
+ },
+ "media-design\tvisual prompt\tgesture prompt": {
+  "label": "visual prompts vs gesture prompts",
+  "treatment_is_a": true
+ },
+ "media-design\tvisual prompt\tnon-visual prompt": {
+  "label": "visual prompts vs non-visual prompts",
+  "treatment_is_a": true
+ },
+ "media-design\tvisual prompts\tnon-visual prompts": {
+  "label": "visual prompts vs non-visual prompts",
+  "treatment_is_a": true
+ },
+ "media-design\tvisual prompts (pictures or objects)\tnon-visual prompts": {
+  "label": "visual prompts vs non-visual prompts",
+  "treatment_is_a": true
+ },
+ "practice-amount\t100 days of cognitive practice\tpre-test before practice": {
+  "label": "practice vs no practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\tlater training timepoint\tearlier training timepoint": {
+  "label": "later vs earlier training",
+  "treatment_is_a": true
+ },
+ "prompts\tdaily reminder prompt\tno prompt": {
+  "label": "reminder prompt vs no prompt",
+  "treatment_is_a": true
+ },
+ "prompts\treminder prompt\tno prompt": {
+  "label": "reminder prompt vs no prompt",
+  "treatment_is_a": true
+ },
+ "prompts\treminder prompt about distributed practice and study plan\tno reminder prompt": {
+  "label": "reminder prompt vs no prompt",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\ttesting/retrieval practice\trestudy": {
+  "label": "retrieval practice vs restudy",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\ttesting/retrieval practice with high-frequency stimuli\trestudy with high-frequency stimuli": {
+  "label": "retrieval practice vs restudy",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\ttesting/retrieval practice with low-frequency stimuli\trestudy with low-frequency stimuli": {
+  "label": "retrieval practice vs restudy",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\ttesting/retrieval trials\tsuccessful encoding-related activity": {
+  "label": "retrieval practice vs successful encoding-related activity",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\thigher rewards\tlower or unspecified rewards": {
+  "label": "higher rewards vs lower rewards",
+  "treatment_is_a": true
+ },
+ "scaffolding\texplanation approach\tscaffolding approach": {
+  "label": "scaffolding approach vs explanation approach",
+  "treatment_is_a": false
+ },
+ "scaffolding\tscaffolding approach\texplanation approach": {
+  "label": "scaffolding approach vs explanation approach",
+  "treatment_is_a": true
+ },
+ "simulation\tdigitalized occupational simulation\tactual hands-on implementation": {
+  "label": "digital simulation vs actual hands-on implementation",
+  "treatment_is_a": true
+ },
+ "simulation\tdigitalized simulations and hands-on demonstrations\tnon-simulation assessment": {
+  "label": "simulation-based assessment vs non-simulation assessment",
+  "treatment_is_a": true
  }
 }

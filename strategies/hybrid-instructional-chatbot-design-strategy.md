@@ -41,6 +41,7 @@ The authors recommend treating the depth-efficiency trade-off not as a limitatio
 
 - [Adaptive-resolution simulation: allocate more LLM calls to educationally consequential moments and compress routine transitions](adaptive-resolution-educational-simulation.md)
 - [Enhance student development agents with finetuned or small task-specific models and richer memory architectures rather than prompting alone](finetuning-and-small-models-for-developmental-agents.md)
+- [Integrate diverse feedback types into educational chatbots, matched to instructional goals](match-chatbot-feedback-type-to-learning-goal.md)
 
 ## Examples
 -

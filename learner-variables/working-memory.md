@@ -13,7 +13,7 @@ generated:
 # Working Memory
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 108 claims (62 show a difference, 32 mixed, 14 no difference) · 87 studies (25 causal, 22 associational, 20 review, 11 quant-synthesis, 6 theoretical, 3 qualitative), `q1`–`q4` · 14 of 87 report an effect size · 102 claims rest on one study
+> **Evidence** · 109 claims (62 show a difference, 33 mixed, 14 no difference) · 89 studies (25 causal, 23 associational, 20 review, 11 quant-synthesis, 7 theoretical, 3 qualitative), `q1`–`q4` · 15 of 89 report an effect size · 102 claims rest on one study
 
 ## Description
 How much a learner can hold and manipulate at once. It is the best-evidenced dimension here and the most directly actionable: it converts into element counts per screen, whether two sources must be read together, and whether a problem is given whole or as a worked example. Capacity is near-fixed, but *effective* capacity is not — prior knowledge supplies the schemas that let several items be held as one, which is why the same screen overloads a novice and not an expert [~S].
@@ -151,6 +151,7 @@ How much a learner can hold and manipulate at once. It is the best-evidenced dim
 - [Working memory training improvement decomposes into an early task-specific process accounting for 44% of the total increase and a slower capacity improvement](../claims/wm-training-dual-process-decomposition.md) [+M] — instruction changes it
 - [Retrieval practice is costly and benefits learning only when working memory capacity is abundant, as stated in the corrected article's title](../claims/retrieval-practice-costly-benefits-only-abundant-wm.md) [~W] — an instructional effect differs with it
 - [Low-performing students struggle more with working memory demands at the inferring and mapping stages of relational reasoning](../claims/low-performers-working-memory-inferring-mapping.md) [+M] — learners who differ on it differ in outcomes
+- [Predicted arithmetic scores correlate with visuospatial working memory but show poor correlation with verbal working memory](../claims/arithmetic-model-correlates-visuospatial-wm.md) [~M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 

@@ -50,3 +50,5 @@ The editorial reports, citing Hofer et al., a secondary analysis of PISA 2018 da
 ## Related Claims
 - [In more competitive school environments, students from lower SES backgrounds report more positive self-views than their more advantaged peers, narrowing SES gaps in self-views](competitive-schools-narrow-ses-gaps-self-views.md) — related
 - [In more competitive school environments, lower-SES students perform better academically than their more advantaged peers, narrowing SES achievement gaps](competitive-schools-narrow-ses-gaps-achievement.md) — related
+- [Students' individual growth mindset is positively associated with their odds of being academically resilient in PISA 2018 data across 79 countries](cl-individual-growth-mindset-resilience.md) — related
+- [Assessments like PISA-VET risk reinforcing inequalities in VET if underlying socioeconomic inequities are unaddressed](pisa-vet-equity-risk.md) — related

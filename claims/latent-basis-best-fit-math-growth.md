@@ -52,3 +52,4 @@ Latent growth curve model comparison in Results for the 351-child sample, covary
 - [In a prospective longitudinal sample (ECLS-K:2011), numbers reversed performance follows a logarithmic growth pattern, decelerating over ages 6–11](wm-logarithmic-growth-ecls.md) — related
 - [Average and superior children develop at different levels and grow increasingly dissimilar with age, with superior children showing adolescent mental acceleration about one year earlier](average-superior-mental-curves-diverge.md) — related
 - [The average child develops more drawing ability before entering school than during the entire eight years of elementary school](drawing-growth-before-school-exceeds-eight-school-years.md) — related
+- [Growth models show substantial variability in the shape and rate of learning, but no statistically significant EAPGS associations with that variation](growth-models-pgs-null-shape-rate.md) — related

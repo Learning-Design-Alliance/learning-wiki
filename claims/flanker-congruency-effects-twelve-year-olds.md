@@ -57,3 +57,4 @@ Behavioral results from the combined Flanker-Go/No-Go task in 37 children. The s
 - [Cognitive architectures reproduce fine-grained educational phenomena beyond final accuracy, including reaction time distributions and qualitative error patterns](cognitive-architectures-reproduce-fine-grained-phenomena.md) — related
 - [Gesture–speech incongruency disrupts multimodal processing, increasing response times and error rates](gesture-speech-incongruency-disrupts-processing.md) — related
 - [Both text incongruency and knowledge inaccuracy produce increased reading times on target sentences](incongruency-accuracy-reading-time-effects.md) — related
+- [Congruent observation reduces error (overall d = -1.71) while incongruent observation increases error (overall d = 1.19)](congruent-versus-incongruent-observation-directional-effects.md) — related

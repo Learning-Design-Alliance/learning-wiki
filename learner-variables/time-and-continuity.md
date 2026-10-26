@@ -13,7 +13,7 @@ generated:
 # Time and Continuity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 123 claims (82 show a difference, 32 mixed, 9 no difference) · 108 studies (43 causal, 24 associational, 17 review, 11 quant-synthesis, 5 qualitative, 5 design, 3 theoretical), `q1`–`q4` · 20 of 108 report an effect size · 119 claims rest on one study
+> **Evidence** · 124 claims (83 show a difference, 32 mixed, 9 no difference) · 109 studies (43 causal, 25 associational, 17 review, 11 quant-synthesis, 5 qualitative, 5 design, 3 theoretical), `q1`–`q4` · 21 of 109 report an effect size · 120 claims rest on one study
 
 ## Description
 How much uninterrupted time a learner actually gets, and whether progress survives the gap to the next session. It sets page length, whether a task finishes in one sitting, and whether a multi-week deliverable survives a bad month. The awkward part is that the schedule which produces the best retention is the one learners reliably judge worst: spacing feels harder and less effective while producing more durable learning [~S], so this dimension cannot be designed by learner preference.
@@ -180,6 +180,7 @@ How much uninterrupted time a learner actually gets, and whether progress surviv
 - [Greater percentage of off-task time predicts lower post-task group-work quality ratings](../claims/off-task-time-predicts-lower-groupwork-ratings.md) [+M] — learners who differ on it differ in outcomes
 - [In countries with the longest closures, losses were concentrated among average and lowest-achieving students, while the best achievers lost 8–9 points everywhere](../claims/quantile-loss-low-achievers-long-closures.md) [~M] — learners who differ on it differ in outcomes
 - [Learning losses increase with the length of school closures, from 9–12% SD in shortest-closure countries to 17–23% SD in longest-closure countries](../claims/losses-increase-with-closure-length.md) [+M] — learners who differ on it differ in outcomes
+- [Increases in learning duration and screen time predict change in academic grades over 2 years, while BMI change has no main effect](../claims/learning-duration-screen-time-main-effects-grades.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 

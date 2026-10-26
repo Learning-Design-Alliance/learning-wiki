@@ -50,3 +50,4 @@ Test-retest reliability of the Panamath-based Who Has More task across roughly t
 - [The subset-to-cardinal-principle knower-level transition coincides with the largest longitudinal gains in ANS acuity, exceeding other transition types](subset-to-cp-jump-largest-ans-acuity-gain.md) — related
 - [ANS acuity (w) did not significantly improve within children over the six-month period in the session-level analysis, though a hierarchical linear model detected a linear increase in percent correct](no-significant-w-improvement-over-six-months.md) — related
 - [Female preschoolers showed significantly better ANS acuity than males at Session 5, and knower level increased significantly with age](sex-and-age-effects-on-acuity-and-knower-level.md) — related
+- [The tendency to follow advice shows good test-retest reliability across two sessions (~0.73), behaving as a stable trait-like bias](advice-following-test-retest-reliability.md) — related

@@ -48,6 +48,7 @@ The article recommends three methodological advances: complement self-report wit
 - [Employ multimodal methods to capture the multifaceted feedback process](multimodal-methods-feedback-process.md)
 - [Adopt a staged research agenda: measure the three belief dimensions, test incremental validity, and run component-level and person-centered tests](possibility-mindset-staged-research-agenda.md)
 - [Adopt integrative, longitudinal, multimodal deep-phenotyping designs combining self-report, behavioural tasks, ecological momentary assessment, and physiological measures](deep-phenotyping-multimodal-regulation-research.md)
+- [Scale to multisite, large, representative longitudinal samples while complementing them with exploratory small-sample studies](multisite-representative-longitudinal-samples.md)
 
 ## Examples
 -

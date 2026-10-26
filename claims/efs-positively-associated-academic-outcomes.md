@@ -50,3 +50,4 @@ The review narrates meta-analytic findings on EF–achievement associations, cit
 - [Executive functions show significant associations with reading outcomes in elementary school children (meta-analysis of 60 studies, 275 effect sizes)](ef-significantly-associated-with-reading-meta-analysis.md) — a narrower finding that bears on this claim
 - [Math achievement correlates more strongly with EF components than EF components correlate with each other in early childhood](math-correlates-more-with-ef-than-ef-internally.md) — a narrower finding that bears on this claim
 - [EF explains substantial achievement variance (about 20–60% in school children) while SRL shows positive but low-effect-size relations to achievement](ef-achievement-variance-srl-low-effect.md) — related
+- [All types of working memory functions show substantial relationships with IQ, with average correlations greater than .50](working-memory-functions-correlate-with-iq.md) — related

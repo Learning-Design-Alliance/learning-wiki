@@ -47,7 +47,7 @@ sources:
 # Scaffolding and Fading
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 46 claims (21 for, 23 mixed, 2 against) · 46 studies (15 causal, 11 review, 8 theoretical, 4 associational, 4 qualitative, 3 quant-synthesis, 1 design), `q1`–`q4` · 6 of 46 report an effect size · 39 claims rest on one study
+> **Evidence** · 47 claims (22 for, 23 mixed, 2 against) · 47 studies (16 causal, 11 review, 8 theoretical, 4 associational, 4 qualitative, 3 quant-synthesis, 1 design), `q1`–`q4` · 6 of 47 report an effect size · 40 claims rest on one study
 
 ## Conditional relationship
 
@@ -158,6 +158,7 @@ Assisted performance, unassisted immediate performance, delayed retention, trans
 - [Self-selected scaffolding customization yields higher effects than fixed time interval and performance-adapted customization](../claims/self-selected-customization-highest-effect.md) [~W]
 - [The replication successfully reproduced the original study's execution of contingent instruction, with tutors applying the contingency rule in 68.9% of interventions versus 70% in 1978](../claims/tutor-adherence-contingency-rule-replicated.md) [~W]
 - [Tutor accuracy in applying the contingency rule showed no significant association with children's posttest outcome, efficiency, or autonomy, with near-zero correlations](../claims/tutor-accuracy-no-posttest-association.md) [~W]
+- [Body-to-body coupling between instructor and learner is greater during scaffolding than explanation instruction](../claims/btbc-greater-scaffolding-than-explanation.md) [+W]
 
 ## Related Principles
 - [Concreteness Fading](concreteness-fading.md)

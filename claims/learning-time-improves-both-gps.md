@@ -3,6 +3,7 @@ type: claim
 title: Increases in out-of-school learning time are associated with improvements in both the lowest and highest grade points
 description: Increases in out-of-school learning time are associated with improvements in both the lowest and highest grade points
 id: learning-time-improves-both-gps
+aliases: [correction-positive-beta-change-learning-time-lowest-highest-gp]
 status: review
 generated:
   by: "process:wiki-ingest"
@@ -18,16 +19,29 @@ sources:
     i: "?"
     kind: associational
     rigour: 2
+  - id: toru-ishihara-2021-2
+    resource: "https://doi.org/10.1038/s41539-021-00115-6"
+    title: "Toru Ishihara, Noriteru Morita, Toshihiro Nakajima, Koji Yamatsu, Koichi Okita, Masato Sagawa and Keita Kamijo. (2021). Author Correction: Differential effects of changes in cardiorespiratory fitness on worst- and best- school subjects. npj Science of Learning 6:36. https://doi.org/10.1038/s41539-021-00115-6"
+    author: Toru Ishihara, Noriteru Morita, Toshihiro Nakajima, Koji Yamatsu, Koichi Okita, Masato Sagawa and Keita Kamijo
+    q: 3
+    i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Increases in out-of-school learning time are associated with improvements in both the lowest and highest grade points
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · associational `r2` · `q3`
+> **Evidence** · 2 studies · 2 associational `r2` · `q3`
 > **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
+
 `q3 i?` Changes in out-of-school learning time were positively associated with changes in both the lowest and highest GPs (both p < 0.001 in the regression models). [→ Toru Ishihara 2021](#toru-ishihara-2021)
+
+`q3 i?` In the corrected Table 2, the regression coefficient for change in learning time predicting change in lowest GP is positive (β = 0.16; SE = 0.05; 95% CI = 0.07 to 0.25; p < 0.001). [→ Toru Ishihara 2021](#toru-ishihara-2021-2)
+
+`q3 i?` In the corrected Table 2, the regression coefficient for change in learning time predicting change in highest GP is positive (β = 0.22; SE = 0.05; 95% CI = 0.13 to 0.31; p < 0.001). [→ Toru Ishihara 2021](#toru-ishihara-2021-2)
 
 ## Evidence
 
@@ -41,9 +55,21 @@ Pearson's correlation and multiple regression analyses in the 469-student longit
 
 > "However, changes in learning time were positively associated with changes in the lowest and highest GPs, whereas changes in cardiorespira- tory ﬁtness were positively associated with only changes in the lowest GP."
 
+### Toru Ishihara 2021 (2)
+
+Toru Ishihara, Noriteru Morita, Toshihiro Nakajima, Koji Yamatsu, Koichi Okita, Masato Sagawa and Keita Kamijo. (2021). Author Correction: Differential effects of changes in cardiorespiratory fitness on worst- and best- school subjects. npj Science of Learning 6:36. https://doi.org/10.1038/s41539-021-00115-6
+
+`q3 · i?` · `associational · r2`
+
+The correction note states the erratum for the 'Change in learning time' row of Table 2 in the original article, giving corrected values with "Change in lowest GP: β = 0.16" and "Change in highest GP: β = 0.22", both significant at p < 0.001. No effect sizes are printed.
+
+> "This has been corrected to: Change in lowest GP: β = 0.16; SE = 0.05; 95% CI = 0.07 to 0.25; p = <0.001; Change in highest GP: β = 0.22; SE = 0.05; 95% CI = 0.13 to 0.31; p = <0.001."
+
 ## Discussion
 
 
+
 ## Related Claims
+
 - [Improvements in cardiorespiratory fitness are longitudinally associated with improvement in an individual's worst (lowest) school-subject grade points](fitness-improvement-associated-lowest-gp.md) — related
 - [Changes in cardiorespiratory fitness show no longitudinal association with an individual's best (highest) school-subject grade points](no-fitness-association-highest-gp.md) — related

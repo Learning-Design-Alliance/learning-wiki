@@ -23,7 +23,7 @@ sources:
 # Retrieval Practice
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 140 claims (64 for, 66 mixed, 10 against) · 67 studies (33 causal, 15 review, 8 quant-synthesis, 4 associational, 4 theoretical, 3 qualitative), `q1`–`q4` · 22 of 67 report an effect size · 133 claims rest on one study
+> **Evidence** · 142 claims (64 for, 68 mixed, 10 against) · 68 studies (33 causal, 15 review, 8 quant-synthesis, 5 theoretical, 4 associational, 3 qualitative), `q1`–`q4` · 22 of 68 report an effect size · 135 claims rest on one study
 
 ## Conditional relationship
 
@@ -108,6 +108,7 @@ None at present. The sixteen restored claims were read on 2026-10-15; the eleven
 - [Stepwise MCQs, which delay answer options by 4 s, enhance vocabulary retention significantly compared to standard MCQs in three of four experiments, measured days after practice.](../claims/stepwise-mcqs-enhance-vocabulary-retention.md) [+W] — attached 2026-10-24 from van den Broek et al. (2023), which proposed "Use a stepwise display in MCQ-based retrieval practice: present the question before the answer options to create a cued-recall opportunity.".
 - [The stepwise-MCQ benefit is most robust for questions with noncompetitive answer options and for learners who report trying to retrieve the answer during the delay.](../claims/stepwise-mcq-benefit-moderators.md) [+W] — attached 2026-10-24 from van den Broek et al. (2023), which proposed "Use a stepwise display in MCQ-based retrieval practice: present the question before the answer options to create a cued-recall opportunity.".
 - [Post-testing yields significantly better retention than pre-testing when total retrieval-practice time is held comparable (position effect)](../claims/quiz-position-post-beats-pre-latimier.md) [+W] — attached 2026-10-26 from Latimier et al. (2019), which proposed "Spend retrieval-practice time testing students after, not before, initial exposure to learning content".
+- [Testing effect among low-WMC learners depends on stimulus WM demands: negative testing effect for low-frequency stimuli](../claims/wmc-stimulus-frequency-interaction-testing-effect.md) [~W] — attached 2026-10-26 from Zheng et al. (2024), which proposed "Balance learners' working memory capacity with task difficulty to unlock retrieval practice benefits"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 
@@ -266,6 +267,7 @@ A within-session quiz score, delayed recall, transfer to new questions and value
 - [Retrieval practice with feedback yields higher recall than restudy, which yields higher recall than no-feedback retrieval practice](../claims/feedback-retrieval-outperforms-restudy-and-nrp.md) [~W]
 - [In the laboratory experiment, withdrawing feedback in the second half of learning significantly lowered next-day recognition of congruent word meanings, while adding feedback later did not impair recognition](../claims/exp1-feedback-removal-lowers-congruent-recognition.md) [~W]
 - [Post-testing after reading produces a large retention benefit over re-reading at a 7-day delay (d = 0.74 on trained questions)](../claims/post-testing-effect-dna-course-latimier.md) [+W]
+- [Retrieval practice success is not causally linked to the magnitude of the testing effect](../claims/retrieval-success-not-causal-for-testing-effect.md) [~W]
 
 ## Related Principles
 - [Pretesting (Prequestions Before Study)](pretesting.md)

@@ -49,3 +49,4 @@ Experiment with 16 right-handed adults performing a sequential finger-tapping ta
 - [The GABAB–micro-offline correlation is significantly stronger than the corresponding GABAA (SICI) correlation](gabab-outperforms-gabaa-micro-offline-correlation.md) — related
 - [No other neurophysiological measure (MEP, SICI, ICF, sICF) showed a significant correlation with micro-online or micro-offline learning](no-other-tms-measure-correlates-with-learning.md) — related
 - [Performance improvements during early motor skill learning occur predominantly during short rest periods (micro-offline gains), replicated in a large crowdsourced sample and in a laboratory study](micro-offline-gains-replicated-crowdsourced.md) — related
+- [The magnitude of micro-online and micro-offline gains is strongly related across participants (r = -0.96 between subjects)](micro-online-offline-tradeoff-correlation.md) — related

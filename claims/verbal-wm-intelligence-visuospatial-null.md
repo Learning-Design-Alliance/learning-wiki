@@ -50,3 +50,4 @@ Correlational analysis in the N = 147 sample: verbal WM (Dwarf) and visuospatial
 - [Exploratory WM-task measures correlate with EF indices: inhibition accuracy with correct colors, PES mixed with verbal span, congruency effect with correct locations](exploratory-wm-measures-ef-correlations.md) — related
 - [Mean RT in HF blocks is negatively correlated with visuospatial WM and mixed-block RT positively with intelligence](ef-rt-visuospatial-wm-correlations.md) — related
 - [IQ and working memory are reliable predictors of academic achievement at the beginning of school when domain knowledge is not controlled](iq-and-wm-predict-early-academic-achievement.md) — related
+- [Predicted arithmetic scores correlate with visuospatial working memory but show poor correlation with verbal working memory](arithmetic-model-correlates-visuospatial-wm.md) — related

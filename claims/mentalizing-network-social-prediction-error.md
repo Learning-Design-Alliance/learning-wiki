@@ -50,3 +50,4 @@ Review of human neuroimaging findings on advice-taking decisions. The review not
 - [Brain responds similarly to prediction errors for human and slot-machine partners' generosity](prediction-errors-human-slot-machine-partners-continuum.md) — related
 - [Striatum computes other-referenced prediction errors in social and economic games, including without added payoff](striatum-other-referenced-prediction-errors-economic-games.md) — related
 - [Reward prediction errors are positively correlated with putamen, vmPFC, amygdala and posterior cingulate and anticorrelated with aIns, dmPFC and dlPFC](rpe-network-positive-and-anticorrelated-regions.md) — related
+- [A computational model combining informed and non-informed advice-taking with individual learning (Model 5) best predicts participants' choices](winning-mixture-model-advice-taking.md) — related

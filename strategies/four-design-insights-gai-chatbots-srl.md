@@ -42,7 +42,8 @@ From the three-year DBR process, the authors distill four insights for designing
 - [Three Phase Srl Chatbot Scaffolding Framework](../theories/three-phase-srl-chatbot-scaffolding-framework.md)
 
 ## Related Strategies
-- 
+
+- [Integrate diverse feedback types into educational chatbots, matched to instructional goals](match-chatbot-feedback-type-to-learning-goal.md)
 
 ## Examples
 -

@@ -56,3 +56,4 @@ PROCESS Model 4 mediation with 5,000 bootstrap resamples on the 276-respondent s
 - [Metacognitive self-regulation mediates the relationships between all three AI interaction mechanisms and both higher-order outcomes](msr-mediation-ai-interaction-outcomes.md) — related
 - [Both academic self-efficacy and AI self-efficacy are negatively associated with reported AI dependency, supporting a unified compensatory mechanism](self-efficacy-negatively-predicts-ai-dependency.md) — related
 - [Burnout is the strongest predictor of principals' motivation to quit and mediates other predictors](burnout-predicts-motivation-to-quit.md) — related
+- [School burnout negatively predicts autonomous motivation during home-based learning, but does not mediate the mindset-motivation relationship](school-burnout-predicts-lower-autonomous-motivation-no-mediation.md) — related

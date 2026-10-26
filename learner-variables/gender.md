@@ -13,7 +13,7 @@ generated:
 # Gender
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 299 claims (182 show a difference, 67 mixed, 50 no difference) · 203 studies (133 associational, 33 causal, 14 quant-synthesis, 9 review, 5 qualitative, 5 theoretical, 4 design), `q1`–`q4` · 36 of 203 report an effect size · 291 claims rest on one study
+> **Evidence** · 300 claims (182 show a difference, 67 mixed, 51 no difference) · 204 studies (134 associational, 33 causal, 14 quant-synthesis, 9 review, 5 qualitative, 5 theoretical, 4 design), `q1`–`q4` · 36 of 204 report an effect size · 292 claims rest on one study
 
 ## How to read this page
 
@@ -338,6 +338,7 @@ Gender is recorded in most education studies, usually as a binary category taken
 - [The negative association between online learning self-efficacy and later worries is significantly stronger for girls than for boys](../claims/ose-worries-stronger-for-girls.md) [+M] — an instructional effect differs by group
 - [No SES × gender, SES × birth month, gender × birth month, or three-way interactions on pre-academic abilities at age 3](../claims/no-interactions-ses-gender-birth-month-preacademic.md) [-M] — an instructional effect differs by group
 - [Female students had higher math course grades than male students, with no interactions between gender, math anxiety, and intervention group](../claims/female-students-higher-grades-no-gender-moderation.md) [+W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Sex does not moderate the baseline BMI × BMI-change effect on academic performance](../claims/sex-does-not-moderate-bmi-change-effect.md) [-W] — an instructional effect differs by group
 
 ## The evidence by question
 - *Do girls and boys differ in mathematics and reading achievement, by how much, and where in the distribution?* [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](../claims/pisa-sex-differences-math-small-reading-three-times-larger.md) [+M]

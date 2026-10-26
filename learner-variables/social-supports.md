@@ -13,7 +13,7 @@ generated:
 # Social Supports
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 73 claims (60 show a difference, 9 mixed, 4 no difference) · 67 studies (21 associational, 14 qualitative, 12 review, 7 causal, 6 theoretical, 4 quant-synthesis, 3 design), `q1`–`q3` · 4 of 67 report an effect size · 73 claims rest on one study
+> **Evidence** · 74 claims (61 show a difference, 9 mixed, 4 no difference) · 68 studies (22 associational, 14 qualitative, 12 review, 7 causal, 6 theoretical, 4 quant-synthesis, 3 design), `q1`–`q3` · 4 of 68 report an effect size · 74 claims rest on one study
 
 ## Description
 Social supports are the people available to help a learner if needed, and the learner's perception that they are there: parents and family, friends and classmates, teachers and other school staff, and the wider community. The support they give can be emotional (care and compassion), appraisal (useful feedback), instrumental (time, money, resources) and informational (advice). The LVN stresses perception: feeling that support would be there, even if it is never called on, contributes to well-being and academic success, and help that is actually received can strengthen that perception and a learner's sense of efficacy. Effective support looks different across families and cultures and can be provided across income levels; what matters is what the people around a learner do. Supports can be eroded by family separation, bereavement, parental imprisonment, substance misuse or illness, by bullying and discrimination, and by moving schools, and a relationship with another trusted adult can partly make up for that. It is measured with perceived-support scales for children, adolescents and adults. It overlaps with [belonging](belonging.md) and with the [home learning environment](home-learning-environment.md).
@@ -109,6 +109,7 @@ Social supports are the people available to help a learner if needed, and the le
 - [At large peer-teacher relatedness discrepancies, high teacher relatedness compensates for absent peer relatedness to support engagement, whereas low teacher relatedness accompanies low engagement (Study 1)](../claims/teacher-specific-compensation-engagement.md) [~W] — learners who differ on it differ in outcomes
 - [Retention improves perceived positive teacher support, but not perceived parental assistance or peer appreciation of math](../claims/retention-teacher-support-improves-parent-peer-null.md) [~W] — instruction changes it
 - [The intervention group reported higher state parental support than the unreachable/non-interested control group at the 12-month follow-up](../claims/parent-workshop-support-twelve-months.md) [+M] — instruction changes it
+- [Perceived parental autonomy support positively predicts adolescents' autonomous motivation during home-based learning](../claims/parental-autonomy-support-predicts-autonomous-motivation.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Social Support Questionnaire, Short Form** (Sarason et al., 1987): self-report of the number of supportive relationships an adult has and satisfaction with them.

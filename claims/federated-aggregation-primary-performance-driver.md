@@ -59,3 +59,4 @@ Ablation study (Table 4) across three datasets; a simple three-model ensemble al
 - [In the EduAgent framework, removing past cognitive states from memory significantly reduced simulation performance](eduagent-ablation-contextual-memory-critical.md) — related
 - [Ablations show the trustworthiness module contributes most to performance, and the explanation generator cuts human review time by 41%](ablation-trust-module-largest-contribution.md) — related
 - [CLARA's gains come from the interaction of structured representation, constrained annotation, and aggregation, not prompt engineering alone](clara-contribution-decomposition.md) — a broader claim this one bears on
+- [Omitting the teacher's communication strategy causes the greatest drop in classifier accuracy, marking communication choice as the most impactful feature category.](communication-strategy-most-impactful-ablation.md) — related

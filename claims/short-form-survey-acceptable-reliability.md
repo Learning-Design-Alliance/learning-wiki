@@ -70,3 +70,4 @@ The same short-form evaluation reports test-retest reliability of 0.75 and item 
 - [CTAT shows robust psychometric properties for higher education CS/AI students, with reliable internal consistency and adequate IRT item parameters](ctat-robust-psychometric-properties.md) — related
 - [CMS shows acceptable test-retest reliability and internal consistency](cms-reliability-icc-alpha.md) — related
 - [Self-efficacy measures show high reliability and domain-specific validity](self-efficacy-measures-reliable-domain-specific.md) — related
+- [The tendency to follow advice shows good test-retest reliability across two sessions (~0.73), behaving as a stable trait-like bias](advice-following-test-retest-reliability.md) — related

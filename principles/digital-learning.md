@@ -31,7 +31,7 @@ sources:
 # Digital Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 73 claims (35 for, 34 mixed, 4 against) · 82 studies (20 causal, 20 review, 13 theoretical, 12 quant-synthesis, 6 associational, 6 design, 5 qualitative), `q1`–`q4` · 13 of 82 report an effect size · 62 claims rest on one study
+> **Evidence** · 74 claims (35 for, 35 mixed, 4 against) · 83 studies (20 causal, 20 review, 14 theoretical, 12 quant-synthesis, 6 associational, 6 design, 5 qualitative), `q1`–`q4` · 13 of 83 report an effect size · 63 claims rest on one study
 
 ## Conditional relationship
 
@@ -190,6 +190,7 @@ Access, use, assisted success, unaided immediate performance, delayed retention 
 - [Technology can remove geographical barriers and allow rural and external students to engage in WIL activities](../claims/ewil-removes-geographical-barriers.md) [~W]
 - [ITS augmentation: meta-analyses find medium to large learning benefits of ITS over unsupported learning and small to medium gains over less adaptive computer-assisted learning](../claims/its-augmentation-benefits-over-unsupported-learning.md) [~M]
 - [Meta-analysis attributes a medium effect of ICT use on learning that dissipates and vanishes in studies assessing intervals longer than a year](../claims/ict-learning-medium-effect-vanishes-beyond-one-year.md) [-W]
+- [Mobile devices enable just-in-time adaptive interventions that flexibly adapt support to students' changing internal and contextual states](../claims/jitai-just-in-time-mobile-support.md) [~W]
 
 ## Related Principles
 - [Flipped Learning](flipped-learning.md) — digital delivery often makes pre-class access and replayable initial exposure possible

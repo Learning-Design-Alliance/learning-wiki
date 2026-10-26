@@ -13,7 +13,7 @@ generated:
 # Self Efficacy
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 78 claims (45 for, 31 mixed, 2 against) · 66 studies (30 associational, 14 causal, 13 review, 5 quant-synthesis, 3 design, 1 qualitative), `q1`–`q4` · 19 of 66 report an effect size · 73 claims rest on one study
+> **Evidence** · 79 claims (45 for, 31 mixed, 3 against) · 67 studies (31 associational, 14 causal, 13 review, 5 quant-synthesis, 3 design, 1 qualitative), `q1`–`q4` · 19 of 67 report an effect size · 74 claims rest on one study
 
 ## Description
 Self efficacy is a learner's belief in their capability to succeed at a specific task or domain, not a general sense of self-worth. It functions as a proximal driver of learning: learners with higher efficacy set more ambitious goals, persist longer through difficulty, and recover faster from failure [Bandura, 1997]. Because it is domain-specific and malleable, it is a design target rather than a fixed learner trait.
@@ -126,6 +126,7 @@ Instructional design shapes self efficacy primarily through the four sources Ban
 - [Student-reported teacher neuroticism negatively predicts student performance self-efficacy, with effects that differ across mathematics and English](../claims/teacher-neuroticism-predicts-performance-self-efficacy.md) [~W]
 - [Improvement in parent-child relationships during suspension is associated with girls' greater emotional regulation and self-efficacy and less digital entertainment use, but shows no significant associations for boys](../claims/pcr-protects-girls-not-boys.md) [~W]
 - [Perceived robot softness relates to generalized task self-efficacy and confidence, per the authors' discussion-level interpretation](../claims/perceived-softness-generalized-self-efficacy.md) [+W]
+- [Positivity of parent-adolescent interaction and self-efficacy did not significantly predict autonomous motivation during home-based learning](../claims/relatedness-and-self-efficacy-null-during-home-based-learning.md) [-W]
 
 ## The evidence by question
 

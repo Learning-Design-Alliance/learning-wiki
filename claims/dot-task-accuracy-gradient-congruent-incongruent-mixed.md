@@ -55,3 +55,4 @@ Paired-sample t-tests on the 225 children's Dot Task accuracy showed a significa
 - [Balanced bicultural identity showed no relation to working memory or inhibitory control performance in congruent and incongruent Dot Task trials](bicultural-identity-no-effect-working-memory-inhibition.md) — related
 - [Verbal working memory positively and inhibitory control negatively relate to accuracy in the contrasting multiple-choice task](working-memory-and-inhibitory-control-contrasting-task.md) — related
 - [Both text incongruency and knowledge inaccuracy produce increased reading times on target sentences](incongruency-accuracy-reading-time-effects.md) — related
+- [Congruent observation reduces error (overall d = -1.71) while incongruent observation increases error (overall d = 1.19)](congruent-versus-incongruent-observation-directional-effects.md) — related

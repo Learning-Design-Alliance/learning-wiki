@@ -78,3 +78,4 @@ The chapter reports the other half of this pattern: "when initial retrieval succ
 - [Providing feedback after initial multiple-choice tests cut lure intrusions on final short-answer tests roughly in half, with immediate and delayed feedback equally effective](feedback-after-multiple-choice-tests-halves-lure-intrusions.md) — related
 - [Taking initial multiple-choice tests without feedback can lead students to later produce the incorrect lure answers they selected, even when an overall retrieval practice benefit occurs](multiple-choice-lures-can-be-learned-as-false-knowledge.md) — related
 - [Answering MCQs benefits learning when learners retrieve knowledge from memory to evaluate plausible alternatives, but such retrieval may not occur with easy-to-guess answers.](mcq-retrieval-not-always-occurs.md) — related
+- [Retrieval practice success is not causally linked to the magnitude of the testing effect](retrieval-success-not-causal-for-testing-effect.md) — related

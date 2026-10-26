@@ -52,3 +52,4 @@ Descriptive comparison of the study sample (n=106; 61 boys) using independent t-
 - [Laboratory-based lower-limb muscular strength (1-RM leg press) is associated with mathematics skills and persists after adjustment for BMI and cardiorespiratory fitness](leg-press-mathematics-association-persists-adjustment.md) — related
 - [Girls outperform boys on effortful control, teacher-rated social competence, and achievement in this sample](sex-differences-ec-social-achievement.md) — reports the opposite
 - [Boys received more process praise and scored higher in 4th grade math than girls in this sample](gender-differences-process-praise-and-fourth-grade-math.md) — reports the opposite
+- [Sex does not moderate the baseline BMI × BMI-change effect on academic performance](sex-does-not-moderate-bmi-change-effect.md) — related

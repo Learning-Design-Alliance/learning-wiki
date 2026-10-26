@@ -47,3 +47,4 @@ Supplementary analysis of the 5 cohorts designed to be representative of the wid
 ## Related Claims
 - [Family SES correlates 0.28 with children's primary school performance across 16 British cohorts born 1921–2011](ses-primary-school-performance-028-british-cohorts.md) — related
 - [The association between family SES and children's primary school performance remained stable over 95 years, with no systematic increasing or decreasing trend](ses-performance-association-stable-95-years.md) — related
+- [SES and ethnicity are confounded with multilingual status and associated with attainment and cognitive outcomes in UK adolescent samples](ses-ethnicity-confounds-multilingualism-studies.md) — related

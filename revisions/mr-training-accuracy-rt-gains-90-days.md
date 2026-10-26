@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/mr-training-accuracy-rt-gains-90-days.md
+---
+
+# Revision history: [claims/mr-training-accuracy-rt-gains-90-days](../claims/mr-training-accuracy-rt-gains-90-days.md)
+
+### 2026-10-26 · ingest · process:wiki-ingest
+Ingested from jrnl-6cb4e181c7a9 (Long-term cognitive and neurophysiological effects of mental rotation training) via eval_harness.py + ingest_extractions.py

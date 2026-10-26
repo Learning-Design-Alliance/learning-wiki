@@ -13,7 +13,7 @@ generated:
 # Retrieval
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 20 claims (10 for, 8 mixed, 2 against) · 22 studies (14 causal, 4 quant-synthesis, 4 review), `q2`–`q4` · 11 of 22 report an effect size · 18 claims rest on one study
+> **Evidence** · 21 claims (10 for, 9 mixed, 2 against) · 23 studies (14 causal, 4 quant-synthesis, 4 review, 1 theoretical), `q2`–`q4` · 11 of 23 report an effect size · 19 claims rest on one study
 
 ## Description
 Retrieval practice (the "testing effect") requires learners to pull information out of memory — via free recall, short-answer questions, quizzes, or self-explanation — instead of passively reviewing it. The act of successful retrieval itself modifies memory, making the retrieved knowledge more accessible later than equivalent time spent re-reading.
@@ -69,6 +69,7 @@ Retrieval is one of the most robust findings in learning science: testing as a l
 - [Attempted recall during vocabulary study showed no demonstrable superiority over mere reading and re-reading in adult learners](../claims/recall-no-superiority-vocabulary-learning-thorndike.md) [-W]
 - [The overcoming-barriers intervention does not reduce perceived time-and-effort cost of retrieval practice at either time point](../claims/overcoming-barriers-intervention-no-perceived-cost-reduction.md) [~W]
 - [Exploratory analysis finds moderate-magnitude correlation between central fast spindle density and retention of no-feedback retrieval-practice items](../claims/fast-spindle-density-correlates-nrp-retention.md) [~W]
+- [ERP components in distinct time windows index retrieval attempt and post-retrieval re-encoding](../claims/erp-time-windows-retrieval-and-re-encoding.md) [~W]
 
 ## The evidence by question
 - *Does retrieving material (quizzes, practice tests, recall) improve later retention more than restudying it?* [Retrieval practice improves long-term retention](../claims/retrieval-practice-improves-retention.md) [+S]

@@ -56,3 +56,4 @@ Genetic covariance structure modeling in a classical twin design (2479 MZ and 44
 - [Non-shared environmental variance in educational performance decreases with increasing school SES, but this moderation appears attributable to parental SES](nonshared-env-decreases-school-ses.md) — related
 - [School quality does not moderate genetic and shared-environmental influences on educational performance once moderation by school SES and parental SES is considered](school-quality-no-moderation-gene-env.md) — related
 - [Genetic variance in educational performance decreases with increasing school SES, partly independent of parental SES](school-ses-gene-environment-interplay.md) — related
+- [In a genetically informed twin study, the effect of shared family environment was substantially reduced among twins whose tracking was delayed until a later age](delayed-tracking-reduced-family-environment-effect.md) — related

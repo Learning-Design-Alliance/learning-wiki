@@ -50,3 +50,4 @@ The review reports this single physiological study, which combined self-reports 
 - [Increased physiological arousal and higher physiological synchrony relate to more monitoring with negative valence](arousal-synchrony-negative-valence-monitoring.md) — related
 - [Session-level physiological synchrony occurred in the two groups that struggled with the collaborative exam, while the two groups that found the task easy showed no synchrony.](physiological-synchrony-occurs-with-difficulties.md) — related
 - [Declining math self-efficacy is characterized by decreasing mastery experiences and increasing negative emotional and physiological arousal](decreasing-se-negative-mastery-and-arousal.md) — related
+- [Only self-reported, not physiological, indices of math-related state anxiety correlate with both math anxiety and math performance](self-report-not-physiological-state-anxiety-predicts.md) — related

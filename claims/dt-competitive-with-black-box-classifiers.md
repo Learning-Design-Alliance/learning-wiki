@@ -64,3 +64,4 @@ Comparison reported in the Results section across the same four-course module-le
 - [Boosting models (XGBoost) achieved the highest predictive accuracy among the compared ML models, while logistic regression showed the lowest](boosting-highest-accuracy-logistic-lowest.md) — reports the opposite
 - [Machine learning models classify the three learning stages from EEG features with over 80% test accuracy, SVM highest at 82.6%](eeg-stage-classification-over-80.md) — related
 - [Subcortical but not cortical activation-trajectory parameters classify BDNF genotype above chance in an exploratory decision-tree analysis](subcortical-trajectories-classify-bdnf-genotype.md) — related
+- [Unsupervised time-series clustering identifies low performers more accurately than SVM or decision-tree classifiers trained on two temporal statistics](unsupervised-clustering-beats-feature-classifiers.md) — related

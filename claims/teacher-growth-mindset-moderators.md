@@ -72,3 +72,4 @@ Two-level moderator regressions for separate outcomes. Dimensionality significan
 - [Geographical region moderated several engagement-correlate relations, with Eastern students showing higher relations than Western students](region-moderates-engagement-correlate-relations.md) — related
 - [Teachers' growth mindset is unrelated to performance-approach goals, performance-avoidance goals, teachers' test performance, and student achievement](teacher-growth-mindset-null-performance-student-achievement.md) — related
 - [Region, study quality, and interaction domain moderate associations between factors and interactive skills](moderators-region-quality-domain.md) — related
+- [The SES–heritability interaction on intelligence differs cross-nationally: positive in US studies but absent in more egalitarian Western European and Australian studies](ses-heritability-interaction-cross-national.md) — related

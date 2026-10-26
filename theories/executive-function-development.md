@@ -12,7 +12,7 @@ generated:
 # Executive Function Development
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 217 claims (100 for, 113 mixed, 4 against) · 121 studies (66 associational, 22 review, 19 causal, 10 quant-synthesis, 4 theoretical), `q1`–`q4` · 44 of 121 report an effect size · 209 claims rest on one study
+> **Evidence** · 218 claims (100 for, 114 mixed, 4 against) · 122 studies (67 associational, 22 review, 19 causal, 10 quant-synthesis, 4 theoretical), `q1`–`q4` · 44 of 122 report an effect size · 210 claims rest on one study
 
 ## Description
 Executive functions are the self-regulatory processes that let a person inhibit an impulsive response, flexibly shift between tasks or perspectives, hold and manipulate information in mind, and organize behavior toward a goal rather than react automatically to the immediate situation. They emerge gradually starting in early childhood and continue developing through adolescence, driven both by brain maturation — particularly of the prefrontal cortex, which matures later than most other brain regions — and by experience (Fay-Stammbach, Hawes, & Meredith, 2014).
@@ -258,6 +258,7 @@ Executive function is closely tied to, but distinct from, adolescent risk-taking
 - [The effect of cogPGS on WM change does not depend on whether gains came from typical development or from training (no cogPGS × sample interaction, p = 0.46).](../claims/no-cogpgs-sample-interaction.md) [~W]
 - [Birth month exerts the strongest influence on both EF abilities and their indirect contribution to pre-academic abilities at age 3](../claims/birth-month-strongest-ef-predictor-and-indirect-effect.md) [~W]
 - [Gender shows no significant effect on baseline WM (p = 0.44) or on WM change (p = 0.09) in the combined samples.](../claims/no-gender-effect-wm-baseline-or-change.md) [~W]
+- [Children's eye movement consistency is associated with selective attention and executive function, whereas eye movement pattern relates to working memory](../claims/eye-movement-consistency-executive-function-children.md) [~W]
 
 ## Related Theories
 

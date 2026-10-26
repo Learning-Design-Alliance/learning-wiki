@@ -67,3 +67,4 @@ The review reports a study by Johnson-Glenberg & Megowan-Romanowicz (2017) in wh
 - [Making human movements tends to be more beneficial for learning than observing them (review's synthesis)](making-movements-more-beneficial-than-observing.md) — related
 - [The learning benefit of increasing integration is substantially larger for high element interactivity (complex) materials than for low element interactivity materials](element-interactivity-moderates-contiguity-effect.md) — related
 - [Instructional guidance that helps novices can become redundant or counterproductive as expertise grows.](expertise-reversal-effect.md) — related
+- [Visualisation of the task-error is the most important factor for observational learning; observing high-error trials is more beneficial than low-error trials](error-visualisation-drives-observational-learning.md) — related

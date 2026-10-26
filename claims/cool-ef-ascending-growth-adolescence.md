@@ -58,3 +58,4 @@ Cross-sectional ANCOVA of 136 adolescents in six age groups (12–17), controlli
 - [Psycho-motor capacity as measured by the form board increases at every age from two to seventeen](psychomotor-capacity-increases-ages-2-17.md) — related
 - [Complete pictorial comprehension (imaginative insight) emerges only around adolescence, with earlier ages showing enumeration, description, and superficial unification](pictorial-comprehension-stages-by-age.md) — related
 - [Young students' age-related cognitive capacities and self-regulatory strategies are proposed as potential boundary conditions limiting their benefit from Productive Failure](age-related-boundary-conditions-productive-failure.md) — related
+- [Model-based learning emerges in adolescence in standard paradigms but 5-year-old children use it in simplified paradigms with higher rewards](model-based-learning-paradigm-moderation.md) — related

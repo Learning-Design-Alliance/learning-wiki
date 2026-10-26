@@ -55,3 +55,4 @@ Zero-order and partial correlation analyses (controlling WISC Vocabulary, Block 
 - [Working memory, processing speed, and verbal comprehension weaknesses are shared across reading and math deficits](shared-wm-speed-verbal-comprehension-rd-md.md) — related
 - [Non-verbal intelligence measures (Raven, WISC Block Design) are non-significant math predictors when well-specified spatial and memory measures are in the model](nonverbal-iq-nonsignificant-math-predictor.md) — related
 - [Spatial processing is preserved but slower in developmental dyscalculia, with slow trail-making and mental rotation speed attributed to WM/inhibition impairment](dd-spatial-processing-preserved-but-slow.md) — related
+- [Predicted arithmetic scores correlate with visuospatial working memory but show poor correlation with verbal working memory](arithmetic-model-correlates-visuospatial-wm.md) — related

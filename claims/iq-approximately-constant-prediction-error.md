@@ -53,3 +53,4 @@ Repeated Stanford-Binet (Stanford Revision) testing of 143 children begun in 191
 - [Early estimates place the IQ needed for successful first-year high school work between about 110 and 120](iq-110-120-needed-first-year-high-school-1922-estimates.md) — related
 - [Repeated Stanford-Binet testing of summer-school pupils over four years shows mostly small IQ differences, with a median difference of 5.25 points](summer-school-iq-differences-median-525.md) — related
 - [The question of the constancy of IQ is not settled; further studies with regular intervals and repeated tests of the same cases over a number of years are needed](iq-constancy-question-not-settled.md) — related
+- [IQ is fairly stable across the lifespan, with mental-ability scores at age 11 correlating about r = .70 with tests taken more than 60 years later](iq-stability-across-lifespan-r70.md) — related
