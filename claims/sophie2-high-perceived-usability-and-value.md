@@ -53,3 +53,4 @@ Exit-survey Likert results from the 59 completers of the two-session self-servic
 - [Expert evaluation found the virtual patient realistic and immediate ACT feedback increased therapists' awareness of intervention choices](expert-evaluation-realism-and-feedback-awareness.md) — related
 - [91% of UAT participants rated the Taklif.AI user interface as intuitive](uat-91-percent-rate-interface-intuitive.md) — related
 - [Users rate chatbots easy to use with clear, relevant, largely accurate responses, but the intrusive pop-up design is the largest annoyance](chatbot-ux-clear-relevant-popup-annoyance.md) — related
+- [A post-exam survey found the DOT-format online exam well received: 76.9% of students rated time sufficiency 3 or above and 80.8% rated interface convenience 3 or above on 5-point scales.](dot-post-exam-survey-reception.md) — related

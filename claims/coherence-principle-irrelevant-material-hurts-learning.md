@@ -154,3 +154,4 @@ Program of controlled experiments in the author's lab comparing concise versus e
 - [Redundant and decorative elements, including emotional design embellishments, can enhance learning despite constituting potential extraneous load](emotional-design-redundancy-enhance-learning.md) — reports the opposite
 - [Weeding seductive details fostered learning only in a mandatory (high-reward) learning situation, not a voluntary one](weeding-effective-only-mandatory-learning.md) — related
 - [Embodied action can harm learning when it adds motor demands, redundant cues, or irrelevant activity without improving understanding](action-hurts-when-adding-motor-demands.md) — a narrower finding that bears on this claim
+- [The authors propose a humor principle: humor may not improve learning of particular items but may drive learners to preferentially select a course](proposed-humor-principle-course-selection.md) — related

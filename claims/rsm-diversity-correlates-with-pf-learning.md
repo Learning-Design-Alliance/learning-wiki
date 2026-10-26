@@ -51,3 +51,5 @@ Replication within Kapur's classroom-based variance study with 9th-graders: the 
 - [Students observing high-diversity vicarious failure (VF-high) significantly outperform students in VF-low and DI conditions on conceptual knowledge](vf-high-outperforms-vf-low-and-di-conceptual.md) — related
 - [PF students outperformed direct-instruction students on conceptual understanding and transfer without compromising procedural fluency](pf-outperformed-di-variance-conceptual-transfer.md) — related
 - [Number of canonical components in students' PF solutions correlates with conceptual knowledge, but the range of distinct components does not](canonical-components-correlate-conceptual-knowledge.md) — reports the opposite
+- [Number of generated solution methods is the strongest measured predictor of posttest learning from Productive Failure in both topics](inventive-production-strongest-predictor-pf-learning.md) — related
+- [Students with very different prior math achievement generate similar numbers of representations and solution methods during Productive Failure](prior-achievement-weakly-associated-inventive-production.md) — related

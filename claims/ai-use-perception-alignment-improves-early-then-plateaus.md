@@ -49,3 +49,4 @@ Wilcoxon signed-rank tests comparing absolute misalignment (|d|) between consecu
 - [Teams whose perception of who uses more AI reversed between t1 and t3 achieved lower scores than teams with stable perceptions](perception-reversal-associated-with-lower-scores.md) — related
 - [Greater early-project misalignment in partners' perceptions of each other's AI use is associated with lower final project scores](early-ai-use-perception-misalignment-lower-team-scores.md) — related
 - [Week 3 performance differs by perception-transition group, with Aligned teams increasing and Multifaceted teams decreasing in scores](aligned-perceptions-performance-increase-multifaceted-decrease.md) — related
+- [Response boundary changes flexibly, with within-day decreases in most participants and primarily day-1-to-2 between-day decreases](response-boundary-flexible-within-between-day.md) — related

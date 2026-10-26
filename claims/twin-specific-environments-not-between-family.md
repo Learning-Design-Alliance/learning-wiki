@@ -55,3 +55,4 @@ NTFD decomposition of the shared environment in the TwinLife sample, contrasting
 - [Genetic and environmental variance components of educational achievement decrease with increasing parental SES](genetic-environmental-variance-decrease-with-ses.md) — related
 - [Twin and adoption studies suggest that 50–80% of IQ variation is due to genetic differences, with the range reflecting population heritability](iq-variation-50-80-percent-genetic.md) — related
 - [Within twin pairs, education–methylation associations persist but are attenuated, implicating shared environmental or genetic factors](education-methylation-twin-pairs.md) — related
+- [GPAΔ is strikingly highly heritable (85%), exceeding the heritability of achievement itself (67%)](gpad-heritability-85-percent-exceeds-achievement.md) — related

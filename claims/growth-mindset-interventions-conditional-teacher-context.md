@@ -85,3 +85,4 @@ The review reports that meta-analyses find benefits concentrated among "economic
 - [Field experiment: strategic mindset intervention benefits academically prepared students' strategy use but not lower-performing students](strategic-mindset-field-intervention-moderated-by-preparedness.md) — related
 - [In STEM courses taught by instructors with more fixed mindsets, underrepresented minority students' grade gaps are larger than in growth-mindset instructors' courses](fixed-mindset-instructors-larger-racial-grade-gaps.md) — related
 - [Growth mindset beliefs are positively associated with academic achievement in nearly all nations, with stronger associations among structurally disadvantaged students](growth-mindset-achievement-association-global.md) — related
+- [Growth mindsets associate with higher US mathematics scores but slightly lower Chinese mathematics scores (country × mindset interaction)](mindset-math-association-reversed-china-us.md) — related

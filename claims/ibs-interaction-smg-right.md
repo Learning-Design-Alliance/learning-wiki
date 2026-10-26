@@ -50,3 +50,4 @@ Repeated measures 2×2 ANOVA on wavelet transform coherence IBS across 21 channe
 - [In HICT, friend dyads' key-pressing scores correlate positively with IBS in right DLPFC and right pars triangularis](hict-friend-dyad-score-ibs-correlation.md) — related
 - [High interdependent cooperation tasks yield higher key-pressing scores than low interdependent tasks for both friend and stranger dyads](high-interdependence-task-improves-cooperation-scores.md) — related
 - [Feedback types elicit distinct fNIRS activation patterns: frontopolar and middle temporal gyrus higher under metacognitive feedback, supramarginal gyrus under affective feedback, DLPFC under neutral feedback](chatbot-feedback-type-brain-activation-patterns.md) — related
+- [Functional connectivity between right insula/IFG and right SMG is stronger in children with RU2Short alleles](ru2short-stronger-right-ifg-smg-connectivity.md) — related

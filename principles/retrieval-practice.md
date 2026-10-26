@@ -23,7 +23,7 @@ sources:
 # Retrieval Practice
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 143 claims (64 for, 69 mixed, 10 against) · 69 studies (34 causal, 15 review, 8 quant-synthesis, 5 theoretical, 4 associational, 3 qualitative), `q1`–`q4` · 22 of 69 report an effect size · 136 claims rest on one study
+> **Evidence** · 144 claims (64 for, 70 mixed, 10 against) · 70 studies (34 causal, 15 review, 8 quant-synthesis, 6 theoretical, 4 associational, 3 qualitative), `q1`–`q4` · 22 of 70 report an effect size · 137 claims rest on one study
 
 ## Conditional relationship
 
@@ -269,6 +269,7 @@ A within-session quiz score, delayed recall, transfer to new questions and value
 - [Post-testing after reading produces a large retention benefit over re-reading at a 7-day delay (d = 0.74 on trained questions)](../claims/post-testing-effect-dna-course-latimier.md) [+W]
 - [Retrieval practice success is not causally linked to the magnitude of the testing effect](../claims/retrieval-success-not-causal-for-testing-effect.md) [~W]
 - [Following retrieval failure, feedback is accompanied by elevated prefrontal activity (outside VS), identified only at a lenient threshold](../claims/post-failure-feedback-prefrontal-activity-lenient-threshold.md) [~W]
+- [Theoretical mechanisms of the testing effect — semantic elaboration via spreading activation and effortful retrieval within an inverse-U difficulty relationship — may be compromised in learners with dyslexia, whose optimal difficulty levels appear to differ from typical learners](../claims/dyslexia-testing-effect-mechanisms-compromised.md) [~W]
 
 ## Related Principles
 - [Pretesting (Prequestions Before Study)](pretesting.md)

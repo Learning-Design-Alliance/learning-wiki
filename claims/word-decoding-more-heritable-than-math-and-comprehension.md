@@ -50,3 +50,4 @@ Multivariate genetic model estimates of A, C, E proportions for latent factors i
 - [Reading comprehension retains genetic and nonshared environmental influences independent of both mathematics and word decoding](reading-comprehension-genetic-influences-independent-of-decoding-and-math.md) — related
 - [Shared environmental influences on mathematics, word decoding, and reading comprehension are nearly identical across the three domains](shared-environmental-correlations-unity-math-reading.md) — related
 - [The genetic correlation between mathematics and reading comprehension (.76) is significantly higher than between mathematics and word decoding (.50)](genetic-correlation-math-reading-comprehension-exceeds-decoding.md) — related
+- [GPAΔ is strikingly highly heritable (85%), exceeding the heritability of achievement itself (67%)](gpad-heritability-85-percent-exceeds-achievement.md) — related

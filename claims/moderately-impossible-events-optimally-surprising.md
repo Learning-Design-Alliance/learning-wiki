@@ -54,3 +54,4 @@ Theoretical speculation (type e) linking the authors' events to the Goldilocks E
 - [Large arrays exceed young children's attentional resources, preventing optimal allocation to relevant items](large-arrays-exceed-childrens-attentional-resources.md) — related
 - [Non-linear (Goldilocks) effects of expectations and aspirations on outcomes are small and largely non-significant](goldilocks-effect-not-supported-expectations.md) — related
 - [Presenting young children with vast numbers of discrete sense impressions would not augment the natural development of intelligence](sense-impression-presentation-no-intelligence-gain.md) — related
+- [The authors propose a new predictability principle: motion and unexpected visual or audio change help maintain viewer attention in instructional video](proposed-predictability-principle-motion-attention.md) — related

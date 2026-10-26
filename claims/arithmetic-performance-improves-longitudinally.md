@@ -51,3 +51,4 @@ Longitudinal event-related fMRI task performance in 20 children scanned twice; r
 - [Engaging symbolic number representations does not by itself prime subsequent symbolic arithmetic: second test-set performance declined in both training groups](symbolic-activation-insufficient-to-prime-arithmetic.md) — reports the opposite
 - [Children shift from counting to memory-based retrieval strategies in single-digit addition over a 1.2-year interval in middle childhood](counting-to-retrieval-shift-longitudinal-childhood.md) — related
 - [Hippocampal engagement during arithmetic problem solving increases longitudinally in children while prefrontal-parietal engagement decreases](hippocampal-engagement-increases-prefrontal-parietal-decreases.md) — related
+- [Arithmetic task accuracy increases and reaction time decreases with age while age-normed math ability remains stable](arithmetic-task-performance-improves-with-age.md) — related

@@ -69,3 +69,4 @@ Same regression-based matching analysis for the stringent SCD-540 subsample. The
 - [Most children with SCD have vocabulary weaknesses, with intact vocabulary being rare](most-scd-children-have-vocabulary-weaknesses.md) — related
 - [Study findings support multiplicative over additive versions of the Simple View for children with SCD](multiplicative-over-additive-simple-view-scd.md) — related
 - [Expressive vocabulary uniquely explains variance in reading comprehension of adult struggling readers](expressive-vocabulary-predicts-adult-reading-comprehension.md) — related
+- [Children with unexpected poor comprehension show a profound vocabulary deficit despite average-to-above-average word reading](upc-profound-vocabulary-deficit-adequate-decoding.md) — related

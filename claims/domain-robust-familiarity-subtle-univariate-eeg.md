@@ -53,3 +53,4 @@ Trial-level aggregation (N=37 independent trials) with two-sample Welch's t-test
 - [Temporal leakage from shuffled neighboring epochs inflates EEG familiarity classification, with peak weighted F1 dropping from 0.9853 (CNN, stratified) to 0.6038 (CNN, Group K-Fold)](temporal-leakage-inflates-eeg-familiarity-classification.md) — related
 - [Self-rated LLM familiarity is a weaker secondary intake signal, surviving Holm correction for three of five outcomes with a bottom-anchored pattern](llm-familiarity-weaker-secondary-intake-signal.md) — related
 - [Offloading is decodable from metacognitive monitoring and control brain processes](neural-metacognitive-decoding-offloading.md) — related
+- [ERP and alpha-band EEG signals decode old vs new faces above chance, with the high-alpha band more discriminative than the low-alpha band](erp-alpha-band-decoding-old-new-faces.md) — related

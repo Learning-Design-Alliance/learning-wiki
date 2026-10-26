@@ -13,7 +13,7 @@ generated:
 # Practice Testing
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 76 claims (35 for, 37 mixed, 4 against) · 49 studies (29 causal, 8 review, 6 quant-synthesis, 3 associational, 2 qualitative, 1 theoretical), `q1`–`q4` · 20 of 49 report an effect size · 72 claims rest on one study
+> **Evidence** · 77 claims (35 for, 38 mixed, 4 against) · 50 studies (29 causal, 8 review, 6 quant-synthesis, 3 associational, 2 qualitative, 2 theoretical), `q1`–`q4` · 20 of 50 report an effect size · 73 claims rest on one study
 
 ## Description
 Practice testing (retrieval practice) asks learners to recall or apply information from memory — via low- or no-stakes quizzes, flashcards, free recall, or problem-solving — before or instead of restudying. The act of successful retrieval itself strengthens memory and reveals gaps, making testing a learning event rather than merely an assessment event.
@@ -127,6 +127,7 @@ Retrieval practice produces substantially larger and more durable learning gains
 - [Post-testing after reading produces a large retention benefit over re-reading at a 7-day delay (d = 0.74 on trained questions)](../claims/post-testing-effect-dna-course-latimier.md) [+W]
 - [A behavioral comparison sample confirms a typical testing effect (repeated testing with feedback vs repeated study) one week after intervention](../claims/testing-effect-confirmed-one-week-behavioral-sample.md) [+W]
 - [Feedback played little, if any, role in brain-activity modulation after the first successful retrieval](../claims/feedback-little-role-after-first-successful-retrieval.md) [~W]
+- [Theoretical mechanisms of the testing effect — semantic elaboration via spreading activation and effortful retrieval within an inverse-U difficulty relationship — may be compromised in learners with dyslexia, whose optimal difficulty levels appear to differ from typical learners](../claims/dyslexia-testing-effect-mechanisms-compromised.md) [~W]
 
 ## The evidence by question
 - *Does retrieving material (quizzes, practice tests, recall) improve later retention more than restudying it?* [Retrieval practice improves long-term retention](../claims/retrieval-practice-improves-retention.md) [+S]

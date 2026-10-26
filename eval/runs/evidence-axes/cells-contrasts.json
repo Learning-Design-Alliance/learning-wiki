@@ -44990,5 +44990,265 @@
  "test-format\tproduction paradigm\tdecision paradigm": {
   "label": "production paradigm vs decision paradigm",
   "treatment_is_a": true
+ },
+ "explicit-instruction\tlow-frequency words taught in the child’s own classroom\tmatched low-frequency words taught only in peer classrooms": {
+  "label": "explicit instruction vs no explicit instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\ttwo-week classroom learning sprint for assigned words\tcounterbalanced words taught in other classrooms": {
+  "label": "explicit instruction vs no explicit instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\twords learned in the child's own class\twords assigned to other classrooms and not learned": {
+  "label": "explicit instruction vs no explicit instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\twords taught in the child's own classroom\tcounterbalanced words taught in other classrooms": {
+  "label": "explicit instruction vs no explicit instruction",
+  "treatment_is_a": true
+ },
+ "interleaving\tblocked practice\tchance level (1/6)": {
+  "label": "blocked practice vs chance level",
+  "treatment_is_a": true
+ },
+ "interleaving\tinterleaved 2D/3D models\t2D models": {
+  "label": "interleaved 2D/3D models vs 2D models",
+  "treatment_is_a": true
+ },
+ "interleaving\tinterleaved 2D/3D models\t2D-only or 3D-only models": {
+  "label": "interleaved 2D/3D models vs 2D-only or 3D-only models",
+  "treatment_is_a": true
+ },
+ "interleaving\tinterleaved 2D/3D models\t3D models": {
+  "label": "interleaved 2D/3D models vs 3D models",
+  "treatment_is_a": true
+ },
+ "interleaving\tinterleaved practice\trepetitive practice": {
+  "label": "interleaved practice vs repetitive practice",
+  "treatment_is_a": true
+ },
+ "interleaving\tinterleaved practice with sham stimulation\trepetitive practice with sham stimulation": {
+  "label": "interleaved practice vs repetitive practice",
+  "treatment_is_a": true
+ },
+ "interleaving\tlonger interleaved sequences\tshorter interleaved sequences": {
+  "label": "longer interleaved sequences vs shorter interleaved sequences",
+  "treatment_is_a": true
+ },
+ "interleaving\tmore inter-category switches\tfewer inter-category switches": {
+  "label": "more inter-category switches vs fewer inter-category switches",
+  "treatment_is_a": true
+ },
+ "interleaving\trefutations and metacognitive prompts\tcontrol condition": {
+  "label": "refutations and metacognitive prompts vs control condition",
+  "treatment_is_a": true
+ },
+ "interleaving\trefutations plus metacognitive prompts\tcontrol condition": {
+  "label": "refutations and metacognitive prompts vs control condition",
+  "treatment_is_a": true
+ },
+ "media-design\tinstructional multimedia including humor\tinstructional multimedia without humor": {
+  "label": "humorous vs non-humorous multimedia",
+  "treatment_is_a": true
+ },
+ "media-design\tmotion, visual or audio change, and surprise\tstatic or predictable scenes": {
+  "label": "dynamic and surprising vs static and predictable scenes",
+  "treatment_is_a": true
+ },
+ "other\t0.3 mA footshock\t0.1, 0.2, 0.4, or 0.5 mA footshock": {
+  "label": "0.3-mA footshock vs other footshock intensities",
+  "treatment_is_a": true
+ },
+ "other\t0.3 mA footshock\t0.1-0.2 mA footshock": {
+  "label": "higher-intensity vs lower-intensity footshock",
+  "treatment_is_a": true
+ },
+ "other\t0.3 mA footshock\t0.4-0.5 mA footshock": {
+  "label": "higher-intensity vs lower-intensity footshock",
+  "treatment_is_a": false
+ },
+ "other\t0.7× visuomotor gain adaptation\tbaseline reaches": {
+  "label": "visuomotor-gain adaptation vs baseline reaching",
+  "treatment_is_a": true
+ },
+ "other\t1 year of pre-primary programme participation\tless than 1 year or no pre-primary programme participation": {
+  "label": "one year or more of pre-primary participation vs less than one year or none",
+  "treatment_is_a": true
+ },
+ "other\t1-h retention interval\t28-day retention interval": {
+  "label": "longer vs shorter retention interval",
+  "treatment_is_a": false
+ },
+ "other\t1-h retention interval\t9-day and 28-day retention intervals": {
+  "label": "longer vs shorter retention interval",
+  "treatment_is_a": false
+ },
+ "other\t1-h retention interval\t9-day retention interval": {
+  "label": "longer vs shorter retention interval",
+  "treatment_is_a": false
+ },
+ "other\t1.3×-speed auditory TMR during rest\tsame-speed auditory TMR during rest": {
+  "label": "faster-speed vs same-speed auditory TMR",
+  "treatment_is_a": true
+ },
+ "other\t10 a.m. training\t3 p.m. training": {
+  "label": "morning vs afternoon training",
+  "treatment_is_a": true
+ },
+ "other\t10 a.m. training\t8 p.m. training": {
+  "label": "morning vs evening training",
+  "treatment_is_a": true
+ },
+ "other\t10 a.m. training\tno change (reference value zero)": {
+  "label": "training vs no change",
+  "treatment_is_a": true
+ },
+ "other\t10-day mental rotation training\tpre-training baseline": {
+  "label": "post-training vs pre-training baseline",
+  "treatment_is_a": true
+ },
+ "other\t10-session anodal HD-tDCS during working-memory training\tsham stimulation during working-memory training": {
+  "label": "active anodal HD-tDCS vs sham stimulation",
+  "treatment_is_a": true
+ },
+ "other\t10-week Neurocognitive-Academic Training combining computerized neurocognitive training, teacher positive feedback, and handwriting practice\tcontrol group": {
+  "label": "Neurocognitive-Academic Training vs control",
+  "treatment_is_a": true
+ },
+ "other\t100%-probable 1000-Hz tone\t75%-probable modal tone": {
+  "label": "higher-probability vs lower-probability tone",
+  "treatment_is_a": true
+ },
+ "other\t1000 Hz after shift to 20% probability\t1000 Hz when 80% probable": {
+  "label": "higher-probability vs lower-probability tone",
+  "treatment_is_a": false
+ },
+ "other\t12-hour interval between sessions\tperformance at the end of the preceding session": {
+  "label": "delayed vs immediate performance assessment",
+  "treatment_is_a": true
+ },
+ "other\t12-week argument-visualization seminar with practice and feedback\tcontrol students receiving standard university education": {
+  "label": "argument-visualization seminar vs standard education",
+  "treatment_is_a": true
+ },
+ "other\t12-week argument-visualization seminar with practice and feedback\tstandard university education without explicit argument-analysis training": {
+  "label": "argument-visualization seminar vs standard education",
+  "treatment_is_a": true
+ },
+ "other\t12-week argument-visualization seminar with practice and feedback\tstudents in a parallel lecture-based philosophy course": {
+  "label": "argument-visualization seminar vs lecture-based philosophy course",
+  "treatment_is_a": true
+ },
+ "other\t12-week argument-visualization seminar with software, practice, collaboration, and feedback\tstandard university education without explicit argument-analysis training": {
+  "label": "argument-visualization seminar vs standard education",
+  "treatment_is_a": true
+ },
+ "other\t12-week moderate-intensity Tai Chi\tmoderate-intensity treadmill running": {
+  "label": "Tai Chi vs treadmill running",
+  "treatment_is_a": true
+ },
+ "other\t12-week moderate-intensity Tai Chi\tmoderate-intensity treadmill-running control": {
+  "label": "Tai Chi vs treadmill running",
+  "treatment_is_a": true
+ },
+ "other\t150 or 250 ms CS-US interval\t500 ms CS-US interval": {
+  "label": "longer vs shorter CS-US interval",
+  "treatment_is_a": false
+ },
+ "practice-amount\tlater learning blocks\tearlier learning blocks": {
+  "label": "more cumulative practice vs less cumulative practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\tlater trials with more cumulative practice\tearlier trials with less cumulative practice": {
+  "label": "more cumulative practice vs less cumulative practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\ttime-variant model differentiated by number of prior practice trials\tgroup-level time-variant model": {
+  "label": "individualized practice amount vs group-level practice amount",
+  "treatment_is_a": true
+ },
+ "praise\tinflated praise\tmodest praise": {
+  "label": "inflated praise vs modest praise",
+  "treatment_is_a": true
+ },
+ "praise\tinflated praise\tno praise": {
+  "label": "inflated praise vs no praise",
+  "treatment_is_a": true
+ },
+ "praise\tinflated praise for low-SES student\tinflated praise for high-SES student": {
+  "label": "inflated praise for low-SES student vs inflated praise for high-SES student",
+  "treatment_is_a": true
+ },
+ "praise\tmodest praise\tno praise": {
+  "label": "modest praise vs no praise",
+  "treatment_is_a": true
+ },
+ "prompts\tChatGPT 3.5 with Prompt 1\tofficial IELTS examiner ratings": {
+  "label": "AI-generated ratings vs official examiner ratings",
+  "treatment_is_a": true
+ },
+ "prompts\tChatGPT 3.5 with Prompt 2, including official IELTS grading criteria\tofficial IELTS examiner ratings": {
+  "label": "AI-generated ratings vs official examiner ratings",
+  "treatment_is_a": true
+ },
+ "prompts\tChatGPT 3.5 with Prompt 3, including comprehensive IELTS band descriptors\tofficial IELTS examiner ratings": {
+  "label": "AI-generated ratings vs official examiner ratings",
+  "treatment_is_a": true
+ },
+ "prompts\tPrompt 3 with comprehensive IELTS band descriptors\tPrompt 1 zero-shot examiner simulation and Prompt 2 with criterion names": {
+  "label": "Comprehensive band descriptors vs less detailed prompting",
+  "treatment_is_a": true
+ },
+ "prompts\tPrompt 3 with comprehensive band descriptors\tPrompt 1 with zero-shot examiner simulation": {
+  "label": "Comprehensive band descriptors vs zero-shot examiner simulation",
+  "treatment_is_a": true
+ },
+ "prompts\trefutations combined with metacognitive prompts\tcontrol condition": {
+  "label": "Refutations plus metacognitive prompts vs control",
+  "treatment_is_a": true
+ },
+ "prompts\trefutations plus metacognitive prompts\tcontrol condition": {
+  "label": "Refutations plus metacognitive prompts vs control",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tactive retrieval practice\tpassive study/review": {
+  "label": "retrieval practice vs passive study/review",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tretrieval practice\tpassive study": {
+  "label": "retrieval practice vs passive study/review",
+  "treatment_is_a": true
+ },
+ "scaffolding\tmaterial adapted to dyslexia type and reading skill level\tnon-adapted standard material": {
+  "label": "adapted vs non-adapted material",
+  "treatment_is_a": true
+ },
+ "spacing\tLHTL intervention\tunspecified comparison condition": {
+  "label": "spaced vs massed",
+  "treatment_is_a": true
+ },
+ "test-format\tDOT final exam\tconventionally proctored physical midterm exam": {
+  "label": "online exam vs conventionally proctored physical exam",
+  "treatment_is_a": true
+ },
+ "test-format\tlast 20 questions of the DOT exam\tfirst 20 questions of the DOT exam": {
+  "label": "later test questions vs earlier test questions",
+  "treatment_is_a": true
+ },
+ "test-format\toptimized DOT exam\texam without optimized anti-collusion technique": {
+  "label": "optimized anti-collusion exam vs exam without optimized anti-collusion technique",
+  "treatment_is_a": true
+ },
+ "test-format\toptimized DOT exam with individualized synchronized question sequences\tconventional exam with common questions simultaneously": {
+  "label": "individualized synchronized question sequences vs common questions presented simultaneously",
+  "treatment_is_a": true
+ },
+ "test-format\toptimized DOT online exam\tindependent answers with 1/4 same-answer chance rate": {
+  "label": "synchronized answer process vs independent answering",
+  "treatment_is_a": true
+ },
+ "test-format\tspeech responses\ttyping responses": {
+  "label": "speech responses vs typed responses",
+  "treatment_is_a": true
  }
 }

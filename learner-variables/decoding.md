@@ -13,7 +13,7 @@ generated:
 # Decoding
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 115 claims (78 show a difference, 22 mixed, 15 no difference) · 75 studies (27 associational, 19 quant-synthesis, 16 causal, 8 review, 3 design, 2 theoretical), `q1`–`q4` · 26 of 75 report an effect size · 110 claims rest on one study
+> **Evidence** · 116 claims (78 show a difference, 23 mixed, 15 no difference) · 76 studies (27 associational, 19 quant-synthesis, 17 causal, 8 review, 3 design, 2 theoretical), `q1`–`q4` · 26 of 76 report an effect size · 111 claims rest on one study
 
 ## Description
 Decoding is using knowledge of letters and their sounds to work out how an unfamiliar written word is pronounced, and so what it is. This page also covers the related word-level skills the LVN describes separately: sight recognition (knowing a word immediately, without sounding it out, which is necessary for common words that do not follow regular spelling patterns, such as *said* or *could*), orthographic processing (recognising, storing and retrieving the written form of words from memory), and, for adults, the foundational reading skills of phonics and decoding as a whole. Typical measures are reading pseudowords scored by phonics rules, timed word recognition, spelling tasks and lists of high-frequency words.
@@ -156,6 +156,7 @@ It builds on [phonological awareness](phonological-awareness.md) and [alphabet k
 - [Phonological decoding is at the core of learning to read words in alphabetic languages, and children do not learn to read words by contextual guessing](../claims/phonological-decoding-core-of-reading.md) [+M] — learners who differ on it differ in outcomes
 - [Endophenotypes explain roughly 3–17% of variance in decoding and comprehension, with PA best for decoding and RAN best for comprehension](../claims/endophenotypes-variance-reading-skills-correlations.md) [+M] — learners who differ on it differ in outcomes
 - [Serial mediation supports a sequence from Reading-PGS through rapid bimodal temporal processing and phonological awareness to decoding and comprehension](../claims/serial-mediation-rbtp-pa-decoding-comprehension.md) [+M] — learners who differ on it differ in outcomes
+- [Smaller 1 Hz SSVEP oddball amplitudes to newly learned vocabulary are associated with better word decoding and faster rapid automatic naming, with no such correlations for corpus-based word-pseudoword contrasts](../claims/learning-sprint-1hz-brain-behavior-correlation.md) [~M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Woodcock Reading Mastery Test, Revised: Word Attack subtest** (Woodcock, 1998): reading pseudowords, scored by regular phonics rules.

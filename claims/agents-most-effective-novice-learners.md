@@ -52,3 +52,4 @@ The article's retrospective section reports this as accumulated experience citin
 - [Scaffolding improves learning](scaffolding-improves-learning.md) — a broader claim this one bears on
 - [In university physics education, AI has been applied for tutoring and explanations, formative feedback and scaffolding, collaborative problem solving, simulation and modeling, instructional design, and AI literacy development](ai-university-physics-six-pedagogical-functions.md) — related
 - [In second-language teaching for pupils with special educational needs, Pepper was associated with higher participation than digital tablets](pepper-vs-tablets-higher-participation-sen-language.md) — related
+- [Physical presence of a robotic tutor agent is not significantly related to students' task performance in an emotionally-adaptive ITS](physical-presence-no-task-performance-effect.md) — a narrower finding that bears on this claim

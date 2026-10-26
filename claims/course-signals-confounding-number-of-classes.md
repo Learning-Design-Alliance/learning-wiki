@@ -82,3 +82,4 @@ The paper's review of the Course Signals deployment, piloted at Purdue in 2007, 
 - [General composing heuristics produced mixed results in studies of their effectiveness](general-heuristics-mixed-effectiveness-results.md) — related
 - [Causal inference always goes beyond the data, even in randomized experiments, because experimental manipulations may affect other variables that caused the effect](causal-inference-goes-beyond-data-even-in-experiments.md) — related
 - [Uncontrolled estimates of retention effects on dropout are larger than propensity-adjusted estimates, suggesting confounding inflates naive associations](confounding-inflates-retention-dropout-estimates.md) — related
+- [Sensitivity analysis indicated medium-to-large unobserved confounding would be needed to eliminate the reported pandemic effects](unobserved-confounder-sensitivity-pandemic-effects.md) — related

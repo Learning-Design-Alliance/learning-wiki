@@ -50,3 +50,4 @@ After feedback, the effectiveness difference between strategies was no longer st
 - [Learners Misjudge Spacing Benefits](learners-misjudge-spacing-benefits.md) — a broader claim this one bears on
 - [Interleaving Improves Discrimination](interleaving-improves-discrimination.md) — related
 - [Perceived effort is higher and perceived learning lower for interleaving than blocking, and experience-mediated increases in perceived learning raise interleaving choices](interleaving-effort-learning-ratings-onan.md) — related
+- [The intervention corrects erroneous strategy beliefs: perceived effectiveness of blocked practice falls and interleaved practice rises in the intervention condition](intervention-corrects-interleaving-beliefs.md) — related

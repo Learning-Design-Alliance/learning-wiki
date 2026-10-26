@@ -52,3 +52,4 @@ The review reports, citing Han et al. (2022), a study of collaborative learning 
 - [Conventional training received significantly higher ratings for perceived realism and immersion than VR-based training (r=0.774)](conventional-training-higher-realism-immersion.md) — reports the opposite
 - [Increased perceptual fidelity fails to reliably improve serious game learning outcomes (the fidelity fallacy)](fidelity-fallacy-serious-games.md) — related
 - [Learning motivation and perceived social presence are both positively associated with learner engagement in agentic AI-supported online learning](motivation-social-presence-boost-engagement-agentic-ai.md) — related
+- [Novelty-phase on-task enjoyment is positively associated with task performance, while working-phase enjoyment is not](novelty-enjoyment-predicts-performance.md) — related

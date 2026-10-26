@@ -50,3 +50,4 @@ Meta-analytic moderator analysis of effect sizes by type of learning material (k
 - [Interleaving Improves Discrimination](interleaving-improves-discrimination.md) — a narrower finding that bears on this claim
 - [Interleaving benefits are small for mathematical tasks and absent or reversed for expository texts and words](interleaving-limited-for-math-texts-and-words.md) — related
 - [Across ten learning techniques, distributed practice and practice testing have the largest effects and underlining and summarization the smallest](ten-learning-techniques-ranked-distributed-practice-and-practice-testing-highest.md) — related
+- [In self-organized tasks, more interleaved practice is associated with higher classification accuracy](self-organized-interleaving-predicts-accuracy.md) — a narrower finding that bears on this claim

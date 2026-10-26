@@ -45,9 +45,11 @@ Propensity-score-matched path models in the ECLS-K 1998 cohort compared preschoo
 
 
 ## Related Claims
+
 - [Academic convergence between preschool and informal-care groups occurs almost entirely in kindergarten and first grade](academic-convergence-concentrated-in-early-elementary.md) — related
 - [Negative psychosocial effects of preschool concentrate in full-day programs, with no academic difference between full- and part-day attendance and no program-type differences](preschool-dosage-full-day-behavioral-effects.md) — related
 - [Differences in children's social skills account for roughly 10–20% of the convergence in academic test scores](social-skills-explain-test-score-convergence.md) — related
 - [Children who attend pre-kindergarten are advanced on language, reading, writing, and math skills compared to similar children who did not attend](prek-advanced-language-reading-writing-math.md) — related
 - [Children who attend pre-kindergarten are more ready for kindergarten at the end of their pre-k year than children who do not attend](prek-attendance-kindergarten-readiness.md) — related
 - [Long-term academic benefits of preschool are almost entirely mediated by children's earlier skill development](preschool-long-term-benefits-mediated-by-early-skills.md) — related
+- [Pre-primary programme attendance is associated with higher science test scores at age 15 (0.09 SD for at least 1 year; 0.20 SD for 2 or more years)](pisa-pre-primary-science-association.md)

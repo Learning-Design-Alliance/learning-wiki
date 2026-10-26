@@ -50,3 +50,4 @@ In the 208-adolescent sample, ANOVA found no group differences on these GHQ dime
 - [Adolescents with high weekly physical exercise hours (more than 4 h/week) show significantly better selective attention, concentration, and processing speed than lower-exercise groups, with no differences between low and moderate groups](high-exercise-hours-better-cognitive-adolescents.md) — related
 - [Physical fitness measures correlate with selective attention and concentration in adolescents, with VO2max showing moderate correlations](fitness-correlates-attention-concentration-adolescents.md) — related
 - [The most active and fittest adolescent group achieved the best psychosocial indicator scores](fittest-group-best-psychosocial.md) — related
+- [Psychosocial factors (social networks, anxiety, depression) do not predict GPA in older learners](psychosocial-factors-not-predict-gpa-older-learners.md) — related

@@ -17,7 +17,7 @@ sources:
 # Problem-Solving Followed by Instruction
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 63 claims (25 for, 28 mixed, 10 against) · 32 studies (23 causal, 4 theoretical, 3 review, 1 quant-synthesis, 1 associational), `q1`–`q4` · 14 of 32 report an effect size · 62 claims rest on one study
+> **Evidence** · 64 claims (26 for, 28 mixed, 10 against) · 33 studies (23 causal, 4 theoretical, 3 review, 2 associational, 1 quant-synthesis), `q1`–`q4` · 14 of 33 report an effect size · 63 claims rest on one study
 
 ## Description
 Problem-solving followed by instruction (PS-I, closely related to "productive failure") reverses the conventional tell-then-practice sequence: students first attempt a problem — typically without succeeding at a canonical solution — and only afterward receive direct instruction on the correct method. The prior attempt activates relevant prior knowledge, surfaces students' own (often suboptimal) representations, and raises motivation to learn the canonical method by making its advantages concrete rather than abstract. A meta-analysis across 166 comparisons found PS-I outperforms instruction-first sequencing with Hedge's g=0.36 [95% CI 0.20, 0.51] (Sinha & Kapur, 2021). The underlying attempt can be left unguided ("productive failure" proper, where students generate as many solution representations as they can) or shaped by scaffolds that deliberately steer students toward specific representations before instruction corrects them — see [Failure-Driven Scaffolding](../strategies/failure-driven-scaffolding.md).
@@ -99,6 +99,7 @@ Problem-solving followed by instruction (PS-I, closely related to "productive fa
 - [PF benefit for low-performing students persisted marginally on the final exam while effects for medium and high achievers were non-significant](../claims/pf-final-exam-ability-split.md) [~W]
 - [Low-achieving students gained the most from PF on the midterm, scoring about eight points higher than AL peers](../claims/pf-largest-gain-low-achievers-midterm.md) [+W]
 - [PF advantage on condition topics did not reach significance on the final exam overall](../claims/pf-final-exam-null-overall.md) [~W]
+- [Number of generated solution methods is the strongest measured predictor of posttest learning from Productive Failure in both topics](../claims/inventive-production-strongest-predictor-pf-learning.md) [+W] — attached 2026-10-26 from Manu Kapur et al. (2023), which proposed "Productive Failure: problem-solving before instruction as a subset of PS-I designs".
 
 ## The evidence by question
 
@@ -109,7 +110,9 @@ Problem-solving followed by instruction (PS-I, closely related to "productive fa
 - [Self-Regulated Learning](self-regulated-learning.md) — PS-I's pre-instruction attempt phase is a context in which monitoring and affect regulation become consequential for later learning
 
 ## Examples
+
 - [Failure-Driven Scaffolding](../strategies/failure-driven-scaffolding.md)
+- [Use group-based generation and exploration followed by teacher-led consolidation and comparison of student-generated and canonical solutions](../strategies/group-generation-then-consolidation-strategy.md)
 
 ## Key Sources
 - Sinha, T. (2022). Enriching problem-solving followed by instruction with explanatory accounts of emotions. *Journal of the Learning Sciences, 31*(2), 151-198. [https://doi.org/10.1080/10508406.2021.1964506](https://doi.org/10.1080/10508406.2021.1964506)

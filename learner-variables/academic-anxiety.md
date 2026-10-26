@@ -13,7 +13,7 @@ generated:
 # Academic Anxiety
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 153 claims (99 show a difference, 36 mixed, 18 no difference) · 93 studies (40 associational, 18 causal, 17 review, 6 quant-synthesis, 6 theoretical, 5 qualitative, 1 design), `q1`–`q4` · 24 of 93 report an effect size · 146 claims rest on one study
+> **Evidence** · 157 claims (102 show a difference, 37 mixed, 18 no difference) · 94 studies (41 associational, 18 causal, 17 review, 6 quant-synthesis, 6 theoretical, 5 qualitative, 1 design), `q1`–`q4` · 25 of 94 report an effect size · 150 claims rest on one study
 
 ## Description
 Academic anxiety is fear or tension aroused by a subject or by being evaluated in it. The research mostly studies three forms: mathematics anxiety, test anxiety and foreign-language anxiety, each measured with self-report scales. Anxiety predicts lower performance, partly because worry takes up [working memory](working-memory.md); it moderates instructional effects (timed or high-stakes formats hurt anxious learners more); and it is an outcome that some designs reduce, such as low-stakes practice testing and expressive writing before an exam. It is a narrower case of [affect regulation](affect-regulation.md).
@@ -189,6 +189,10 @@ Academic anxiety is fear or tension aroused by a subject or by being evaluated i
 - [Math anxiety negatively correlates with math performance, controlling for general anxiety and word task performance](../claims/math-anxiety-underperformance-partial-correlation-daker-2023.md) [+M] — learners who differ on it differ in outcomes
 - [Math-related state anxiety mediates about one-third of the math anxiety-performance link](../claims/state-anxiety-mediation-partial-explanation.md) [+W] — learners who differ on it differ in outcomes
 - [State math anxiety decreases linearly from pre- to post-task, with a stronger decrease for individuals with higher trait math anxiety](../claims/state-math-anxiety-decreases-pre-to-post.md) [+W] — instruction changes it
+- [First-semester math anxiety uniquely predicts a reduction in the proportion of STEM courses students take over four years of university, controlling for math ability and other covariates](../claims/math-anxiety-predicts-stem-course-avoidance.md) [+M] — learners who differ on it differ in outcomes
+- [First-semester math anxiety uniquely predicts lower STEM grades over four years of university, controlling for math ability, STEM course-taking, and other covariates](../claims/math-anxiety-predicts-stem-grades.md) [+M] — learners who differ on it differ in outcomes
+- [Math ability accounts for only ~12% of math anxiety–STEM associations, whereas math anxiety accounts for ~40% of math ability–STEM associations](../claims/mediation-anxiety-ability-stem-outcomes.md) [+M] — learners who differ on it differ in outcomes
+- [Non-STEM grades moderate the negative math anxiety–STEM grades relation (stronger among high non-STEM achievers) but not the anxiety–STEM participation relation](../claims/nonstem-grades-moderate-anxiety-grades-link.md) [~M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Do learners with higher anxiety about a subject or a test achieve less in it?* [Math anxiety has a small-to-moderate negative correlation with math achievement (r = −.28) in a meta-analysis of correlations from 223 studies](../claims/math-anxiety-degrades-performance.md) [+M]

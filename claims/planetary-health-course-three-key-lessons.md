@@ -51,3 +51,4 @@ Educators' reflective commentary on two editions of the course Planetary Health 
 - [PD support type and salience depends on a teacher team's current phase in the adaptive learning cycle](pd-support-salience-depends-on-adaptive-cycle-phase.md) — related
 - [Centralized district management of partnerships enabled community schools to deliver programs and services without the burden of managing partnerships](centralized-partnership-management-frees-schools.md) — related
 - [Training and technical assistance is most engaging when it is grounded in clear expectations, designed around recipient needs, developed with ongoing recipient input, accessible, delivered by equipped providers, and framed as a partnership](ta-engagement-six-elements-interviews.md) — related
+- [The planetary health impact of prescribing emerged as a new learning outcome for clinical pharmacology and therapeutics education](planetary-health-new-cpt-learning-outcome.md) — related

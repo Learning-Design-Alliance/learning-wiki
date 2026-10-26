@@ -54,3 +54,4 @@ Authors' interpretation in the conclusion (type e), weighing the analytical expo
 - [Individualized Knowledge Tracing parameters fit student data significantly better and change mastery-learning practice decisions for many students](individualized-kt-parameters-change-practice-decisions.md) — related
 - [The Knowledge Tracing Algorithm does not suffer the identifiability problem: all four parameters affect its behavior separately](kt-algorithm-no-identifiability-problem.md) — related
 - [Hidden Markov model of individual training curves shows task-specific improvement plateaued on average on the third day of training](hmm-transition-day-three.md) — related
+- [Drift rate increases as a continuous exponential function of cumulative trial number across four days of perceptual training](drift-rate-continuous-exponential-cumulative-trials.md) — related

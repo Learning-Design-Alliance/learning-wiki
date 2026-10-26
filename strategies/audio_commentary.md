@@ -58,9 +58,11 @@ Audio commentary sits within the broader evidence that feedback is most effectiv
 5. Where coaching relationships exist, use audio commentary as input to a follow-up conversation ([Coaching](../elements/coaching.md)).
 
 ## Related Strategies
+
 - Screencast feedback — the visual-anchored variant of audio commentary
 - Written margin comments — the comparison medium; hybrid audio-plus-annotations is common in practice
 - Draft–revise cycles — audio commentary is most valuable when learners act on it
+- [Pre-planned scripts and teleprompter use to achieve conversational, personalized narration](preplanned-scripts-teleprompter-personalization.md)
 
 ## Examples
 - **Lunt & Curran's medical education study (2010)** — instructors replaced written feedback with MP3 voice files for student assessments; students rated audio as more personal, detailed, and useful, and staff found it faster to produce.

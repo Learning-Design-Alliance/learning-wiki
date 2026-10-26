@@ -53,3 +53,4 @@ Correlational analysis (Table 3) in the longitudinal sample showed predictor-out
 - [Kindergarten symbolic number variables uniquely predict grade 1 math outcomes over and above counting and domain general predictors](symbolic-number-predictors-unique-over-counting.md) — related
 - [Symbolic number predictors account for substantial additional variance in grade 1 math outcomes beyond counting and domain general predictors](symbolic-number-r2-change-grade1-math.md) — related
 - [Number line estimation and numerical magnitude comparison correlate with mathematics achievement (r = .24 to .44), with number line estimation more strongly related in older children](number-sense-tasks-correlate-with-math-achievement.md) — related
+- [STEM participation (% STEM Courses) and STEM achievement (STEM Grades) are largely distinct outcomes, correlating less than 5% shared variance](stem-participation-achievement-distinct.md) — related

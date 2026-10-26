@@ -70,3 +70,4 @@ The authors place this alongside earlier cross-domain findings of a modest link 
 - [Openness is most strongly associated with standardized test scores (especially English) and weakly or negatively associated with mathematics course grades](openness-predicts-standardized-tests-most.md) — related
 - [Personality-achievement coefficients are robust to correction for personality measurement error (average absolute beta differences of .01)](robustness-personality-measurement-error-correction.md) — related
 - [13 of 16 adjusted associations between achievement measures and openness/conscientiousness were statistically significantly positive](thirteen-of-sixteen-adjusted-associations-positive.md) — related
+- [STEM participation (% STEM Courses) and STEM achievement (STEM Grades) are largely distinct outcomes, correlating less than 5% shared variance](stem-participation-achievement-distinct.md) — related

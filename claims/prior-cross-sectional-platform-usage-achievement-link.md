@@ -52,3 +52,4 @@ The article describes prior research on the same platform using a between-group 
 - [RM-CC5 usage metrics correlated positively with achievement, and together accounted for an additional 7.3% of variance in Grade 5 scores beyond prior achievement, though causality and relative contributions could not be inferred](rm-cc5-usage-metrics-achievement-correlation.md) — related
 - [Student-developed specialized modules attract substantial online use and are slated for cMOOC reuse with data-based evaluation](student-modules-online-use-cmooc-reuse.md) — related
 - [Confounding may explain the large retention effects reported for the Course Signals early warning system](course-signals-confounding-number-of-classes.md) — related
+- [Sensitivity analysis indicated medium-to-large unobserved confounding would be needed to eliminate the reported pandemic effects](unobserved-confounder-sensitivity-pandemic-effects.md) — related

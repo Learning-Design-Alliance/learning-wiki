@@ -80,6 +80,7 @@ Invention tasks work by activating relevant prior knowledge and making learners 
 **[Productive Failure lessons (Kapur)](https://www.nie.edu.sg/project-productive-failure)** — Singapore mathematics classrooms where students attempt to solve complex problems in groups before the teacher consolidates with canonical methods.
 
 **[Physics by Inquiry (McDermott)](https://depts.washington.edu/uwplnl/)** — University physics curriculum in which students invent operational definitions and measurement procedures before formal physics concepts are introduced.
+- [Use group-based generation and exploration followed by teacher-led consolidation and comparison of student-generated and canonical solutions](../strategies/group-generation-then-consolidation-strategy.md)
 
 ## Key Sources
 - Schwartz, D. L., & Martin, T. (2004). Inventing to prepare for future learning: The hidden efficiency of encouraging original student production in statistics instruction. *Cognition and Instruction, 22*(2), 129–184. [doi:10.1207/s1532690xci2202_1](https://doi.org/10.1207/s1532690xci2202_1)

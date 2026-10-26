@@ -50,3 +50,4 @@ Perceptual detection task in which participants judged brief changes in a moving
 - [VGPs respond faster than NVGPs with equivalent accuracy, and the RT advantage is larger at low motion coherence](vgp-faster-rt-equivalent-accuracy-coherence-interaction.md) — related
 - [Perceptual sensitivity and decisions rapidly update in volatile statistical contexts](rapid-updating-volatile-distributions.md) — related
 - [Individual differences in sensory detection and motor variability do not reliably predict visuomotor adaptation, showing weak cross-task predictive power](weak-cross-task-predictive-power.md) — related
+- [Response time reliably decreased at all coherence levels while accuracy improved reliably only at intermediate coherence levels](rt-decreased-all-coherences-accuracy-intermediate.md) — related

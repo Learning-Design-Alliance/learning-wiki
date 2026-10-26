@@ -13,7 +13,7 @@ generated:
 # Long-Term Memory
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 158 claims (93 show a difference, 38 mixed, 27 no difference) · 100 studies (51 causal, 21 review, 13 quant-synthesis, 8 theoretical, 5 associational, 2 qualitative), `q1`–`q4` · 41 of 100 report an effect size · 150 claims rest on one study
+> **Evidence** · 166 claims (100 show a difference, 38 mixed, 28 no difference) · 103 studies (53 causal, 21 review, 13 quant-synthesis, 8 theoretical, 6 associational, 2 qualitative), `q1`–`q4` · 43 of 103 report an effect size · 158 claims rest on one study
 
 ## Description
 Long-term memory holds information, such as words, facts, events, concepts and procedures, so that it can be retrieved and used later, over spans from hours to decades, and in principle indefinitely. Skills and knowledge get there through repeated practice and use, and stay accessible while they continue to be used. It matters for learning because what is stored there is the base for everything that follows: the [prior knowledge](prior-knowledge.md) and vocabulary that support reading and writing, and the arithmetic facts and procedures that free a learner to work on new mathematics problems. It develops through childhood and adolescence as the brain systems supporting it mature, and older learners lean more on memory-based strategies, for example in mathematics. It is measured with standardised memory batteries that ask learners to recall stories, lists or figures after a delay. It is distinct from [working memory](working-memory.md), which holds information briefly while it is being used; rehearsal and use move material from one to the other.
@@ -193,6 +193,14 @@ Long-term memory holds information, such as words, facts, events, concepts and p
 - [On the trained ILD-discrimination task, learning magnitude is smaller 1–3 h after training than 30 min or 6–10 h after training, documenting a transient memory lapse](../claims/transient-memory-lapse-1-3h-trained-ild-task.md) [~W] — instruction changes it
 - [Slow oscillation and spindle stimulation did not differentially affect declarative memory change compared to control conditions.](../claims/no-condition-effect-declarative-memory-glt.md) [-W] — instruction changes it
 - [Slow oscillation and spindle stimulation did not differentially affect motor sequence learning improvement compared to control conditions.](../claims/no-condition-effect-procedural-memory-msl.md) [-W] — instruction changes it
+- [An exam taken 1 h after copying improves long-term retention of weakly learned graphical material](../claims/exam-1h-after-improves-weak-retrieval-ltm.md) [+M] — instruction changes it
+- [An exam within 1 h before or after copying impairs long-term retention of strongly learned graphical material](../claims/exam-within-1h-impairs-strong-retrieval-ltm.md) [+M] — instruction changes it
+- [Cathodal tDCS to M1 during interleaved practice weakens encoding, producing poorer performance across training and at all retention tests](../claims/ctdcs-m1-impairs-encoding-during-ip.md) [+M] — instruction changes it
+- [Consolidation trajectories differ by schedule: IP-Sham is stable over 6 h then improves after sleep, while RP-Sham forgets in the first 6 h](../claims/ip-stable-then-sleep-gain-rp-forgets.md) [+M] — instruction changes it
+- [ctDCS to M1 during interleaved practice does not disrupt subsequent offline consolidation, which proceeds similarly with and without stimulation](../claims/ctdcs-does-not-disrupt-consolidation.md) [-M] — instruction changes it
+- [Early offline gain after interleaved practice is reduced by ctDCS: IP-Sham improves from final training block to the 5-min test while IP-ctDCS remains stable](../claims/ctdcs-reduces-early-offline-gain.md) [+M] — instruction changes it
+- [Interleaved practice produces better long-term retention than repetitive practice via offline gains at 6 h and 24 h](../claims/ip-better-retention-than-rp.md) [+M] — instruction changes it
+- [Language processing and episodic memory predict first-year GPA in older university learners](../claims/episodic-memory-language-predict-gpa-older-learners.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Wechsler Memory Scale (WMS)** (Wechsler, 2010): its logical memory subtest asks for details of a story heard once, as a measure of declarative memory.

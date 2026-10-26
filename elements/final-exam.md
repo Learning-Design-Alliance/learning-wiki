@@ -13,7 +13,7 @@ generated:
 # Final Exam
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 7 claims (2 for, 3 mixed, 2 against) · 9 studies (4 review, 2 associational, 1 causal, 1 design, 1 theoretical), `q1`–`q3` · 1 of 9 report an effect size · 5 claims rest on one study
+> **Evidence** · 8 claims (2 for, 4 mixed, 2 against) · 10 studies (4 review, 2 associational, 2 design, 1 causal, 1 theoretical), `q1`–`q3` · 1 of 10 report an effect size · 6 claims rest on one study
 
 ## Description
 A final exam is a high-stakes, cumulative assessment administered at the end of a course or program, covering material from the entire instructional period. It functions primarily as a [Summative Assessment](summative-assessment.md) — certifying proficiency rather than guiding ongoing instruction — though its cumulative design also gives it a powerful secondary learning function.
@@ -56,6 +56,7 @@ Cumulative final exams leverage the testing effect: retrieving knowledge from ea
 - [Cheat sheet type was not significantly associated with exam performance on either exam, though a moderate non-significant trend favoured self-created sheets on the final](../claims/cheatsheet-type-no-significant-performance-difference.md) [~W]
 - [Across both institutions, GATs showed no significant effect on long-term summative exam performance](../claims/gats-no-long-term-exam-effect.md) [~W]
 - [Substantial proportions of students self-report cheating and misconduct during exams, with higher rates in high schools than colleges](../claims/self-reported-cheating-rates-college-high-school.md) [-W]
+- [Final-exam score distributions under the DOT format did not differ significantly from the proctored midterm distributions of the same population (Kolmogorov-Smirnov p = 0.1574; equal-variance t-test p = 0.7997).](../claims/dot-final-midterm-distribution-equivalence.md) [~W]
 
 ## The evidence by question
 - *Does anxiety about the end-point test lower the scores it records, and do the test's conditions change that?* [Test anxiety is negatively associated with exam performance, and no moderation by proctoring was detected](../claims/test-anxiety-negative-exam-performance.md) [-M]

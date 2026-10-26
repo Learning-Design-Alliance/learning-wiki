@@ -57,3 +57,4 @@ Post-test judgment among the 114 Experiment 2 participants: 65% (37/57) favored 
 - [Even when motivated to distinguish and informed that differences matter, learners in Experiment 1 blocked 68% of their study sequence choices](blocking-persists-despite-motivation-and-instruction.md) — related
 - [In Experiment 1, students' prospective judgments of learning were higher for blocked studying even though actual test performance was higher for interleaved studying](jol-outcome-dissociation-interleaved-exp1.md) — a narrower finding that bears on this claim
 - [Students perform worse on interleaved homework than blocked homework and misjudge its learning value](interleaved-homework-worse-performance-metacognitive-judgments.md) — related
+- [Before intervention, students predominantly block their self-organized study order, exceeding chance](students-predominantly-block-self-organized-study.md) — related

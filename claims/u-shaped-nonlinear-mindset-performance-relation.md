@@ -71,3 +71,4 @@ The authors report that "62.62% of the students fall between+/− 1scale point o
 ## Related Claims
 - [Students with stronger growth mindsets show better overall academic performance at university](growth-mindset-better-overall-performance.md) — related
 - [Students with stronger growth mindsets earn higher grades than fixed-mindset students in early university terms, but the gap narrows and is statistically indistinguishable from Term 7 (observational)](growth-mindset-early-advantage-diminishes-over-time.md) — related
+- [Growth mindsets associate with higher US mathematics scores but slightly lower Chinese mathematics scores (country × mindset interaction)](mindset-math-association-reversed-china-us.md) — related

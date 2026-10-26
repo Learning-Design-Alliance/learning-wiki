@@ -13,7 +13,7 @@ generated:
 # Exercise Breaks
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 20 claims (11 for, 6 mixed, 3 against) · 13 studies (5 quant-synthesis, 4 review, 3 causal, 1 qualitative), `q1`–`q3` · 5 of 13 report an effect size · 18 claims rest on one study
+> **Evidence** · 21 claims (11 for, 7 mixed, 3 against) · 14 studies (5 quant-synthesis, 4 causal, 4 review, 1 qualitative), `q1`–`q3` · 5 of 14 report an effect size · 19 claims rest on one study
 
 ## Description
 Exercise breaks are brief (typically 4–20 minute) episodes of moderate-to-vigorous physical activity — movement games, stretching, jumping, or walking — inserted between instructional segments. They function as attention-restoration and consolidation opportunities rather than as fitness interventions, though regular classroom physical activity also contributes to health outcomes.
@@ -70,6 +70,7 @@ Short aerobic activity reliably improves subsequent attention and on-task behavi
 - [Effects of active breaks on mathematical achievement are small and lose significance under Robust Variance Estimation](../claims/active-breaks-math-achievement-mixed-significance.md) [-W]
 - [Pooled active-break effect estimates are robust to sensitivity analyses varying within-study correlation and excluding individual studies](../claims/active-breaks-pooled-estimates-robust-sensitivity.md) [+W]
 - [Classroom active breaks show no reliable effect on mathematical fluency](../claims/active-breaks-null-effect-mathematical-fluency.md) [-W]
+- [Trial time during acquisition was unaffected by exercise group but slowed over blocks for older participants](../claims/trial-time-no-group-effect-age-slowing.md) [~W]
 
 ## Related Elements
 - [Attention](attention.md) — the resource exercise breaks restore; schedule breaks against attentional demand, not the clock alone

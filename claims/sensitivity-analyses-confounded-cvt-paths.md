@@ -66,3 +66,4 @@ For the sole unbiased Forward path, the mediation model "proved sensitive to the
 ## Related Claims
 - [The ESDM's unidirectional trait-ACH-to-trait-ASC path is not empirically identified, and the confounder-based RI-LTVC alternative shows poor fit with no support for a time-varying confounder](esdm-directional-path-not-identified-ri-ltvc-no-support.md) — related
 - [Reanalyses of simulated and PALMA data provide converging support for the extended reciprocal effects model, including an effect of academic self-concept on achievement](reanalyses-converging-support-extended-rem-asc-effect.md) — related
+- [Sensitivity analysis indicated medium-to-large unobserved confounding would be needed to eliminate the reported pandemic effects](unobserved-confounder-sensitivity-pandemic-effects.md) — related

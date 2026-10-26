@@ -13,7 +13,7 @@ generated:
 # Affect Regulation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 200 claims (145 show a difference, 37 mixed, 18 no difference) · 127 studies (47 associational, 26 causal, 23 review, 10 qualitative, 9 quant-synthesis, 8 theoretical, 4 design), `q1`–`q4` · 31 of 127 report an effect size · 194 claims rest on one study
+> **Evidence** · 204 claims (148 show a difference, 38 mixed, 18 no difference) · 128 studies (48 associational, 26 causal, 23 review, 10 qualitative, 9 quant-synthesis, 8 theoretical, 4 design), `q1`–`q4` · 32 of 128 report an effect size · 198 claims rest on one study
 
 ## Description
 What a learner does with frustration, anxiety and failure while the work is still in front of them. It decides whether a hard check needs a recoverable framing and how failure is surfaced. Anxiety is not only unpleasant — it consumes the same working memory the task needs, so it degrades performance through a mechanism entirely separate from motivation [-M]. Naming an emotion measurably reduces its grip, which is why the strategies here look unexpectedly linguistic.
@@ -240,6 +240,10 @@ What a learner does with frustration, anxiety and failure while the work is stil
 - [Production paradigms elicit higher state math anxiety than decision paradigms, particularly for individuals with high trait math anxiety](../claims/production-paradigms-higher-state-math-anxiety.md) [+M] — an instructional effect differs with it
 - [State math anxiety decreases across repeated measurement points during the arithmetic task, consistent with habituation](../claims/state-math-anxiety-decreases-during-task.md) [+M] — instruction changes it
 - [State math anxiety decreases linearly from pre- to post-task, with a stronger decrease for individuals with higher trait math anxiety](../claims/state-math-anxiety-decreases-pre-to-post.md) [+M] — instruction changes it
+- [First-semester math anxiety uniquely predicts a reduction in the proportion of STEM courses students take over four years of university, controlling for math ability and other covariates](../claims/math-anxiety-predicts-stem-course-avoidance.md) [+M] — learners who differ on it differ in outcomes
+- [First-semester math anxiety uniquely predicts lower STEM grades over four years of university, controlling for math ability, STEM course-taking, and other covariates](../claims/math-anxiety-predicts-stem-grades.md) [+M] — learners who differ on it differ in outcomes
+- [Math ability accounts for only ~12% of math anxiety–STEM associations, whereas math anxiety accounts for ~40% of math ability–STEM associations](../claims/mediation-anxiety-ability-stem-outcomes.md) [+M] — learners who differ on it differ in outcomes
+- [Non-STEM grades moderate the negative math anxiety–STEM grades relation (stronger among high non-STEM achievers) but not the anxiety–STEM participation relation](../claims/nonstem-grades-moderate-anxiety-grades-link.md) [~W] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 

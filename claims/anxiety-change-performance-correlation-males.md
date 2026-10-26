@@ -55,3 +55,4 @@ FDR-controlled (0.25) correlations between change in anxiety and academic perfor
 - [No significant sex differences in incoming GPA or physics course grade despite sex differences in anxiety](no-sex-difference-gpa-physics-grade.md) — related
 - [Male physics students show significant anxiety–tripartite-network connectivity correlations at pre- and post-instruction, while female students show none](male-specific-anxiety-network-connectivity.md) — related
 - [Female students had higher math course grades than male students, with no interactions between gender, math anxiety, and intervention group](female-students-higher-grades-no-gender-moderation.md) — related
+- [No GPA difference between male and female older learners, or across faculties](no-gender-faculty-gpa-difference-older-learners.md) — related

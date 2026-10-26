@@ -74,3 +74,5 @@ Test II followed study phase II, in which participants studied six new artists w
 - [Interleaved practice produces higher mathematics test scores than blocked practice in a classroom experiment](interleaved-practice-higher-math-test-scores.md) — related
 - [Strategy efficacy beliefs shift toward the strategy a student chooses: choosers of blocked practice raised blocked beliefs and lowered interleaved beliefs, and vice versa](strategy-beliefs-shift-toward-chosen-strategy.md) — related
 - [Interleaved homework yields higher surprise criterial test scores than blocked homework in undergraduate physics, with larger effects in Stage 2](interleaving-criterial-test-benefit-physics.md) — related
+- [In an experimenter-controlled task, interleaved practice yields better classification performance than blocked practice (d = 1.05)](experimenter-controlled-interleaving-beats-blocked.md) — related
+- [In self-organized tasks, more interleaved practice is associated with higher classification accuracy](self-organized-interleaving-predicts-accuracy.md) — related

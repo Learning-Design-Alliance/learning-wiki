@@ -70,3 +70,4 @@ GAM trend and STL seasonal-trend decomposition of each learner's 21-day series; 
 - [Most variance in students' momentary classroom emotions lies at the within-person level, yet person-aggregated state measures are fairly reliable (ICC(2) from 0.735 to 0.901)](aggregated-state-emotions-reliable-icc2.md) — related
 - [Cohort effects on activity emotions are minimal across fourteen years, with cohort accounting for only 0.2% to 1.2% of variance in mean emotion scores](cohort-effects-minimal-activity-emotions.md) — related
 - [Both lecture time and independent study time show a seven-day weekly rhythm, with lecture time peaking midweek and approaching zero on weekends](weekly-rhythm-study-time-spectral-analysis.md) — related
+- [Response boundary changes flexibly, with within-day decreases in most participants and primarily day-1-to-2 between-day decreases](response-boundary-flexible-within-between-day.md) — related

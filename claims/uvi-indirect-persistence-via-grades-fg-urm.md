@@ -69,3 +69,4 @@ Because no direct UVI persistence effects mirrored the grade effects, the author
 - [The UVI showed no significant main effect on two-year persistence and did not differentially increase persistence for FG or URM students](uvi-no-main-effect-two-year-persistence.md) — related
 - [The UVI influenced short-term performance through engagement and long-term persistence through personal focus, two distinct motivational processes](uvi-two-distinct-motivational-processes.md) — related
 - [Biology course grade partially mediates the UV intervention's effects on course continuation and STEM major persistence](grades-mediate-uv-retention-effects.md) — a narrower finding that bears on this claim
+- [Sensitivity analysis indicated medium-to-large unobserved confounding would be needed to eliminate the reported pandemic effects](unobserved-confounder-sensitivity-pandemic-effects.md) — related

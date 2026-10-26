@@ -47,7 +47,7 @@ sources:
 # Interleaving
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 46 claims (20 for, 24 mixed, 2 against) · 28 studies (12 causal, 6 review, 4 quant-synthesis, 4 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 13 of 28 report an effect size · 43 claims rest on one study
+> **Evidence** · 47 claims (20 for, 25 mixed, 2 against) · 29 studies (13 causal, 6 review, 4 quant-synthesis, 4 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 14 of 29 report an effect size · 44 claims rest on one study
 
 ## Conditional relationship
 
@@ -172,6 +172,7 @@ The expectation should weaken if comparisons with comparable learners find no ad
 - [Evidence for lasting learning is mixed at 8-week delays: only interleaving, not spacing or retrieval practice in drawing contexts, was supported](../claims/eight-week-delay-evidence-mixed.md) [+W]
 - [Interleaving benefits on criterial tests cannot be attributed to increased study time](../claims/interleaving-benefit-not-study-time.md) [+W]
 - [Students perform worse on interleaved homework than blocked homework and misjudge its learning value](../claims/interleaved-homework-worse-performance-metacognitive-judgments.md) [~W]
+- [Stimulation at PMd during repetitive practice fails to induce the early (6-h) time-dependent consolidation typical of interleaved practice](../claims/pmd-tdcs-no-early-6h-consolidation.md) [~M]
 
 ## Related Principles
 - [Spaced Learning](spaced-learning.md) — when practice of the same thing recurs; usually confounded with interleaving

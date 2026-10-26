@@ -50,3 +50,5 @@ LMM with gender, math anxiety, and intervention group as fixed factors: "a main 
 ## Related Claims
 - [Gender related to students' emotions but showed no significant effects on math grades, while intelligence and SES related positively to grades](covariates-gender-intelligence-ses-effects.md) — reports the opposite
 - [Change in anxiety across the semester is negatively correlated with course grade and GPA for male students but not female students](anxiety-change-performance-correlation-males.md) — related
+- [Gender moderation of the math anxiety–STEM outcome relations did not reach traditional significance, though effects were near threshold (d ≈ .28)](gender-moderation-anxiety-stem-nonsignificant.md) — related
+- [No GPA difference between male and female older learners, or across faculties](no-gender-faculty-gpa-difference-older-learners.md) — related

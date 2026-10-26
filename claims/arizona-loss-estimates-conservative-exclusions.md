@@ -51,3 +51,4 @@ Section 5.4's sensitivity analysis is an authors' interpretive argument, not a t
 - [The future lifetime loss from disconnected youth is three times greater than the immediate loss during the youth years](disconnected-youth-future-loss-threefold.md) — related
 - [Arizona high school graduates are predicted to earn $271,040 more over a lifetime than dropouts, net of ability and motivation adjustments](arizona-graduate-earnings-gap-271040.md) — related
 - [The lifetime fiscal loss per Arizona high school dropout is $135,730 across all levels of government, or $2.5 billion per cohort](arizona-dropout-fiscal-loss-135730.md) — related
+- [Simulated costs of inaction from not universalising pre-primary programmes are inversely related to national income, with median losses of 0.58% to 9.06% of GDP across income groups](cost-of-inaction-pre-primary-gdp.md) — related

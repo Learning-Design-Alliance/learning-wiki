@@ -54,3 +54,4 @@ Same propensity score matching analysis of ECLS-K:2011 data; attentional focus w
 - [After propensity score matching, no bilingual-monolingual differences appear on performance-based measures of working memory or cognitive flexibility in kindergarten](psm-no-bilingual-advantage-performance-based-ef.md) — related
 - [Propensity score matching produced baseline-equivalent treatment and comparison groups on all measured variables](psm-baseline-equivalence-mtss-study.md) — related
 - [Bilingual effect evidence appears for inhibition and cognitive flexibility but disappears for working memory in children and adolescents](bilingual-effect-inhibition-flexibility-not-working-memory.md) — a broader claim this one bears on
+- [Sensitivity analysis indicated medium-to-large unobserved confounding would be needed to eliminate the reported pandemic effects](unobserved-confounder-sensitivity-pandemic-effects.md) — related

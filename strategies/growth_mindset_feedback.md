@@ -66,6 +66,7 @@ Feedback that addresses the task and the learning process produces stronger lear
 - [Teachers cultivate approach-oriented goals and help students manage AI-feedback anxiety in AI-assisted language learning](cultivate-approach-goals-manage-ai-feedback-anxiety.md)
 - [Embed growth-mindset messages framing technological competence as developable into existing curricula as a low-cost, broad-reach intervention](embed-growth-mindset-messages-in-curricula-for-ai-literacy.md)
 - [Values-aligned teacher training that connects growth mindset-supportive practices to teachers' core professional values](values-aligned-teacher-training-strategy.md)
+- [Phrase praise modestly and focus on strategies rather than effort to prevent ability-denigrating inferences](modest-strategy-focused-praise-older-children.md)
 
 ## Examples
 - **Mueller & Dweck (1998) studies** — Children praised for effort after success subsequently chose harder tasks and persisted longer after failure than children praised for intelligence [+S]

@@ -31,7 +31,7 @@ sources:
 # Memory Consolidation
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 34 claims (16 for, 15 mixed, 3 against) · 47 studies (27 causal, 9 review, 7 quant-synthesis, 3 associational, 1 theoretical), `q1`–`q4` · 12 of 47 report an effect size · 27 claims rest on one study
+> **Evidence** · 36 claims (17 for, 16 mixed, 3 against) · 48 studies (28 causal, 9 review, 7 quant-synthesis, 3 associational, 1 theoretical), `q1`–`q4` · 13 of 48 report an effect size · 29 claims rest on one study
 
 ## Conditional relationship
 
@@ -175,6 +175,8 @@ End-of-session performance, delayed recall, use in later tasks and use in the se
 - [Vocabulary retention declines from immediate to 24-hour-delayed no-feedback testing, and goal-directed associations are more semantically distant but slower to produce than free associations](../claims/retention-declines-and-goal-directed-costs-more-effort.md) [~W]
 - [Offline change in general skill between sessions 12 h apart was significant, but between sessions a week apart was not](../claims/long-offline-general-skill-12h-not-week.md) [~W]
 - [Losses after long breaks in naturalistic practice are rapidly offset by very little practice: a single gameplay can restore prior performance levels even after delays of hundreds of days](../claims/rapid-relearning-single-gameplay.md) [~W]
+- [Stimulation at PMd during repetitive practice fails to induce the early (6-h) time-dependent consolidation typical of interleaved practice](../claims/pmd-tdcs-no-early-6h-consolidation.md) [~M]
+- [Forgetting after repetitive practice is extremely rapid, appearing within roughly 3–5 minutes after training ends](../claims/rapid-forgetting-after-repetitive-practice.md) [+W]
 
 ## Related Principles
 - [Spaced Learning](spaced-learning.md) — consolidation often depends on how review is distributed over time

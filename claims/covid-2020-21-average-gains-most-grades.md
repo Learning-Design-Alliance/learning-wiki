@@ -57,3 +57,4 @@ The brief's summary of its analysis of 2020-21 school-year gains states that "on
 - The COVID-19 pandemic increased classroom disruptions and negatively affected students' social and emotional development — related
 - [Socio-economic inequality in learning increased during the pandemic for most estimates, across subjects, grades and pandemic stages](covid-learning-inequality-increased-low-ses.md) — related
 - [A 2021 review series aims to provide a definitive account of the best available evidence on how the COVID-19 pandemic affected America's students academically](pandemic-academic-miss-evidence-review-series.md) — a broader claim this one bears on
+- [Schooling during the COVID-19 pandemic produced no significant negative effects on first-grade students' reading or math achievement compared with regular schooling](covid-grade1-no-achievement-decline.md) — related

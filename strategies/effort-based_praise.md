@@ -70,6 +70,7 @@ Process praise works because it makes the *causal attribution* for success or fa
 - [Wise Feedback Across Racial and Ethnic Difference](../principles/wise-feedback-across-difference.md) — a further consideration when feedback (effort-based or otherwise) crosses a racial or ethnic difference between teacher and student
 - [Cultivate positive academic mindsets through instructional practices aligned with students' psychological needs](mindset-cultivation-practices-list.md)
 - [Chatbot support should reinforce that learning ability develops through effort, strategy use, feedback, and reflection](chatbot-support-reinforces-effort-and-strategy.md)
+- [Phrase praise modestly and focus on strategies rather than effort to prevent ability-denigrating inferences](modest-strategy-focused-praise-older-children.md)
 
 ## Related Elements
 - [Provide Feedback](../elements/provide-feedback.md) — the delivery mechanism for process praise

@@ -51,3 +51,4 @@ The commentary reports, citing Kinnebrew et al., that 73 seventh-grade students 
 - [More successful Betty's Brain students showed significantly higher science learning gains, more accurate causal map edits, and more contextually focused, less random activities.](more-successful-students-higher-gains-focused-actions.md) — related
 - The field lacks micro-level S-SRL theory and methodological guidelines, and studies have not connected temporal/sequential characteristics to learning gains — a broader claim this one bears on
 - [Prompted learners’ sequential SRL structure resembled traditional SRL models, using reflection more as an ending activity than unprompted learners](prompting-reflection-ending-activity-structure.md) — related
+- [Module analysis of FCI responses identified 13 student subgroups, with three normative groups differing in accuracy (77%, 73%, 53%) and in conceptual coherence](module-analysis-13-student-groups-fci.md) — related

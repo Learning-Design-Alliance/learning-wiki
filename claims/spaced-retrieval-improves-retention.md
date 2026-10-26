@@ -153,3 +153,4 @@ Meta-analysis (subset 1) aggregating 39 effect sizes from studies comparing spac
 - [Distributed (spaced) learning is reported to work best compared with massed study in one long session](distributed-practice-beats-cramming-principle.md) — related
 - [LTP exhibits electrophysiological properties that make it an attractive candidate memory mechanism, including rapid induction, persistence up to at least a year, and greater persistence with spaced than massed induction protocols](ltp-properties-attractive-memory-mechanism.md) — related
 - [On the OULAD page-click dataset, 6 of 7 low performers fall in the massed-learning cluster, whose grade is significantly lower than the distributed cluster (paired t-test at 5%)](oulad-massed-cluster-low-performers.md) — related
+- [An intervention study of Learning How to Learn reported improved study behaviors and higher second-semester proficiency scores](lhtl-intervention-improved-study-behaviors.md) — related

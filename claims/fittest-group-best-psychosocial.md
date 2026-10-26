@@ -49,3 +49,4 @@ Between-group comparisons in the discussion of the 208-adolescent study state th
 - [Cardiorespiratory fitness predicts nearly all cognitive and psychosocial measures, with anxiety/insomnia predicted by horizontal jump and life satisfaction by fat mass](vo2max-predicts-cognitive-psychosocial.md) — related
 - [Cardiorespiratory fitness (VO2max) is the physical fitness measure most strongly correlated with cognitive functioning in adolescents](vo2max-best-correlated-cognition.md) — related
 - [GHQ social dysfunction and severe depression show no group differences by exercise hours but are significantly related to physical fitness in correlation and regression](ghq-null-groups-fitness-related.md) — related
+- [Psychosocial factors (social networks, anxiety, depression) do not predict GPA in older learners](psychosocial-factors-not-predict-gpa-older-learners.md) — related

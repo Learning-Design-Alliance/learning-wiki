@@ -13,7 +13,7 @@ generated:
 # Mental Models
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 13 claims (8 for, 4 mixed, 1 against) · 30 studies (11 causal, 7 quant-synthesis, 7 review, 2 associational, 1 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 6 of 30 report an effect size · 5 claims rest on one study
+> **Evidence** · 14 claims (9 for, 4 mixed, 1 against) · 31 studies (11 causal, 7 quant-synthesis, 7 review, 3 associational, 1 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 6 of 31 report an effect size · 6 claims rest on one study
 
 ## Description
 A mental model is a learner's internal representation of how a system, process, or domain works — a runnable structure they can use to explain phenomena, predict outcomes, and simulate "what happens if…" scenarios. Instruction that targets mental models aims to build, refine, or repair these representations rather than only transmitting facts or procedures.
@@ -58,6 +58,7 @@ Instruction is more durable when it helps learners construct a coherent causal m
 - [Constructive conflict positively predicts the development of a shared mental model of the task in teams](../claims/constructive-conflict-builds-shared-mental-models.md) [+W]
 - [The five mutual-modelling experiments varied how important it was to build an accurate model (task) and how difficult it was to build one (setting)](../claims/mutual-modelling-experiments-vary-task-and-setting.md) [~W]
 - [Shared mental model development mediates the effect of team learning behaviors on actual team performance](../claims/shared-mental-models-mediate-team-learning-performance.md) [~W]
+- [Students using more coherent physics conceptions showed greater lOFC-V5/MT+ activity, while less coherent reasoners showed greater primary visual and salience network activity](../claims/conceptual-coherence-brain-network-differences.md) [+W]
 
 ## The evidence by question
 - *Does instruction that names and confronts a science misconception change learners' conceptions more than standard exposition?* [Instruction that confronts science misconceptions (conceptual-conflict interventions, refutation text) produces conceptual change more often than standard exposition](../claims/misconceptions-interfere-with-new-learning.md) [+S]

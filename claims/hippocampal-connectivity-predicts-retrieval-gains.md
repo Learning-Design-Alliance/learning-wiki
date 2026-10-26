@@ -69,3 +69,4 @@ Longitudinal analysis in the same 28 children found hippocampal activation chang
 - [Inter-problem multivoxel pattern stability in the hippocampus increases from childhood through adolescence into adulthood, reaching adult-like levels by adolescence](hippocampal-representation-stability-increases-development.md) — related
 - [Memory-based strategy use continues to increase from childhood through adolescence into adulthood](retrieval-development-through-adolescence-adulthood.md) — related
 - [Observational learning is associated with changed functional connectivity between V5/MT and sensorimotor areas, and pre-learning sensorimotor connectivity predicts subsequent learning gains](fmri-connectivity-changes-observational-learning.md) — a narrower finding that bears on this claim
+- [Left IPS connectivity with prefrontal cortex (dlPFC, vlPFC, insula) decreases over childhood in longitudinal task-related fMRI](ips-pfc-connectivity-decreases-longitudinally.md) — related

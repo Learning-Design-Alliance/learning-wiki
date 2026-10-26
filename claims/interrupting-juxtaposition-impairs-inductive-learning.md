@@ -59,3 +59,4 @@ Online experiment with 102 Mechanical Turk participants studying photos of eight
 - [Frequent alternation of categories yields more interrelated concepts than infrequent alternation, as indicated by a diagnosticity-by-alternation interaction](frequent-category-alternation-interrelated-concepts.md) — related
 - [Interleaving is more effective for materials with a low degree of discriminability](interleaving-effectiveness-low-discriminability.md) — related
 - [Interleaving—presenting different concepts in alternation rather than repeating the same concept—improves students' discrimination among similar concepts, terms, and principles](interleaving-improves-discrimination-similar-concepts.md) — related
+- [The intervention lengthens students' interleaved sequences, and longer interleaved runs correlate with better classification accuracy](longer-interleaved-runs-after-intervention.md) — related

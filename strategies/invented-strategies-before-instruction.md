@@ -65,6 +65,7 @@ Struggling to generate solutions before instruction prepares learners to learn d
 - [Worked Examples First](worked-examples-first.md) — the complementary approach; evidence suggests the two trade off depending on learner expertise and target outcome
 - [Use examples of another student's complete failed problem-solving process prior to instruction as an implementable alternative to productive failure](observe-complete-failure-process-before-instruction.md)
 - [Adapt productive failure principles to large university lectures by having the lecturer discuss preparatory exercises and common misconceptions at the start of the lecture](lecturer-discusses-preparatory-exercises-large-lectures.md)
+- [Use group-based generation and exploration followed by teacher-led consolidation and comparison of student-generated and canonical solutions](group-generation-then-consolidation-strategy.md)
 
 ## Examples
 - **Productive Failure in Singapore mathematics classrooms** (Kapur's research program): students invent methods for statistics or average-speed problems before formal teaching; invention-phase performance is worse, but post-test conceptual understanding and transfer are better. See [https://www.nie.edu.sg](https://www.nie.edu.sg) for the research program.

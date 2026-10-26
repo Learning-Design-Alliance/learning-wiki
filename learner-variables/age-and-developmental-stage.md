@@ -13,7 +13,7 @@ generated:
 # Age and Developmental Stage
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 185 claims (120 show a difference, 42 mixed, 23 no difference) · 150 studies (58 associational, 27 causal, 25 review, 23 quant-synthesis, 10 theoretical, 5 design, 2 qualitative), `q1`–`q4` · 23 of 150 report an effect size · 183 claims rest on one study
+> **Evidence** · 186 claims (121 show a difference, 42 mixed, 23 no difference) · 151 studies (58 associational, 28 causal, 25 review, 23 quant-synthesis, 10 theoretical, 5 design, 2 qualitative), `q1`–`q4` · 23 of 151 report an effect size · 184 claims rest on one study
 
 ## Description
 Age and developmental stage cover a learner's chronological age, grade level, and the cognitive, language and social development that comes with them. Research uses them as a predictor (growth curves, when skills emerge), as a moderator (an approach that works for older students but not younger ones, or for adults but not children) and to define a population (early childhood, adolescents, adult learners). Age is often a stand-in for what actually matters, such as prior knowledge, reading skill or self-regulation, so a finding that differs by age is a reason to ask which of those it reflects.
@@ -217,6 +217,7 @@ Age and developmental stage cover a learner's chronological age, grade level, an
 - [Children abstracted synchronicity from the video, and older children retained that abstraction a week later](../claims/children-abstract-synchronicity-from-video.md) [+M] — learners who differ on it differ in outcomes
 - [Older, but not younger, children abstracted decentralized control from the video, and that abstraction did not persist a week later](../claims/older-children-abstract-decentralized-control.md) [+M] — learners who differ on it differ in outcomes
 - [Metacognitive knowledge emerges around age 5 and metacognitive control around age 8, initially domain-dependent and becoming more domain-general with expertise](../claims/developmental-timeline-meta-knowledge-meta-control.md) [+M] — learners who differ on it differ in outcomes
+- [Older children (around 7–9) infer hint recipients are smarter, whereas younger children (~6) see both groups as equally smart](../claims/age-moderates-smartness-inference-help-type.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does being older at school entry, or older than one's classmates, give a lasting achievement advantage?* [Being a year older at kindergarten entry leads to higher initial achievement](../claims/older-entry-higher-initial-achievement.md) [+M]
