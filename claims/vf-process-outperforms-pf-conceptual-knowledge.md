@@ -54,3 +54,4 @@ Randomized experiment with N = 173 secondary students assigned to PF, VF-process
 - [Vicarious failure with high solution diversity is as effective as engaging in Productive Failure oneself for conceptual knowledge acquisition](vf-high-as-effective-as-pf.md) — related
 - [Students observing high-diversity vicarious failure (VF-high) significantly outperform students in VF-low and DI conditions on conceptual knowledge](vf-high-outperforms-vf-low-and-di-conceptual.md) — related
 - [Collaborative and individual problem solving in traditional PF do not differ in conceptual knowledge after instruction](pf-collaborative-individual-no-conceptual-knowledge-difference.md) — related
+- [In young elementary students with a comparing-and-contrasting activity in instruction, problem solving prior to instruction (PF) showed no advantage over direct instruction (DI) for conceptual knowledge](pf-no-advantage-young-students-conceptual-knowledge.md) — related

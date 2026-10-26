@@ -64,6 +64,7 @@ Pre questioning works through two complementary mechanisms: it functions as a [p
 - [Advance Organizers](../elements/advance-organizers.md) — a non-question alternative for orienting learners before instruction
 - [Implement a comprehension-test-expectancy intervention by explicitly describing upcoming inference tests and providing sample inference questions](comprehension-test-expectancy-instruction-strategy.md)
 - [Present problems before explanatory texts to arouse curiosity and situational interest in learners lacking prior knowledge](problem-first-then-explanation.md)
+- [Separate challenging material in time from peak-curiosity moments, or build a sustained curiosity state before presenting less-interesting material](separate-material-from-curiosity-peaks.md)
 
 ## Examples
 - **Prelecture quizzes in large STEM courses** — instructors assign 3–5 multiple-choice prequestions before each lecture (common in flipped and peer-instruction courses); lecture time then resolves the questions.

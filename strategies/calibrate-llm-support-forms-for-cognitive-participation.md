@@ -47,6 +47,7 @@ The article recommends that the educational value of future AI assistants lies i
 - [Design AI learning assistants to make the implications of AI use visible rather than restricting assistance](make-ai-use-implications-visible-design-strategy.md)
 - [Pursue research yielding conditions and parameters for when to use information giving versus information withholding interactions](research-conditions-parameters-information-giving-withholding.md)
 - [Design AI configurations that preserve generative work: feedback-only audiences, generate-then-compare, and calibrated teaching interactions](preserve-generative-work-ai-configurations.md)
+- [AI-supported choice architectures that build agency while the teacher retains curricular scope](ai-predictive-agency-pathways.md)
 
 ## Examples
 -

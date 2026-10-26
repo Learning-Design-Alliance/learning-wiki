@@ -51,3 +51,4 @@ Correlational analyses among speech recognition scores and demographic/audiologi
 - [Current adolescent characteristics including digit span, sentence duration and sign enhancement predict high school language outcomes](late-predictors-ci-high-school-language.md) — related
 - [Early elementary characteristics predict 71% of variance in high school language outcomes of CI users](early-predictors-ci-high-school-language.md) — related
 - [Age at implantation accounts for significant variance in word-learning performance when pre-CI hearing is in the typical range for CI candidates](age-at-implantation-predicts-word-learning.md) — related
+- [Higher pure-tone average (greater hearing loss) is associated with higher self-perceived listening effort and lower self-perceived hearing qualities in daily life](pta-predicts-subjective-hearing.md) — related

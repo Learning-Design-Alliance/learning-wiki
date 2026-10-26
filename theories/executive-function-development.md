@@ -12,7 +12,7 @@ generated:
 # Executive Function Development
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 208 claims (97 for, 107 mixed, 4 against) · 116 studies (62 associational, 22 review, 18 causal, 10 quant-synthesis, 4 theoretical), `q1`–`q4` · 43 of 116 report an effect size · 200 claims rest on one study
+> **Evidence** · 211 claims (99 for, 108 mixed, 4 against) · 119 studies (64 associational, 22 review, 19 causal, 10 quant-synthesis, 4 theoretical), `q1`–`q4` · 44 of 119 report an effect size · 203 claims rest on one study
 
 ## Description
 Executive functions are the self-regulatory processes that let a person inhibit an impulsive response, flexibly shift between tasks or perspectives, hold and manipulate information in mind, and organize behavior toward a goal rather than react automatically to the immediate situation. They emerge gradually starting in early childhood and continue developing through adolescence, driven both by brain maturation — particularly of the prefrontal cortex, which matures later than most other brain regions — and by experience (Fay-Stammbach, Hawes, & Meredith, 2014).
@@ -249,6 +249,9 @@ Executive function is closely tied to, but distinct from, adolescent risk-taking
 - [After propensity score matching, no bilingual-monolingual differences appear on performance-based measures of working memory or cognitive flexibility in kindergarten](../claims/psm-no-bilingual-advantage-performance-based-ef.md) [~W] — attached 2026-10-25 from Goodrich et al. (2019), which proposed "Doebel's ecological framework: executive function develops in the context of goal-directed behavior".
 - [In arithmetic practice tests, pupils carry the previous operation's mental set into the next examples, and a supplementary lesson in shifting processes improves both accuracy and speed](../claims/operation-set-carryover-arithmetic-courtis.md) [+W] — attached 2026-10-25 from Zirbes (1919), which proposed "Mental set and rapid mental adjustment as a skill factor in achievement"; tests this page's relationship.
 - [Relative to chronological age, one year of schooling had its largest ratio on working memory (ratio = 2.2), higher than cIQ (1.1) and fIQ (0.54)](../claims/schooling-age-ratio-highest-working-memory.md) [~W]
+- [Young students' age-related cognitive capacities and self-regulatory strategies are proposed as potential boundary conditions limiting their benefit from Productive Failure](../claims/age-related-boundary-conditions-productive-failure.md) [+W]
+- [Capacity improvement increased continuously throughout training while task-specific improvement occurred only between the first two test sessions](../claims/capacity-linear-task-specific-early-cfa.md) [+W]
+- [At the task level, implicit SL correlates negatively with most individual executive-function measures, strongest with verbal fluency tasks](../claims/sl-ef-task-level-negative-fluency.md) [~W]
 
 ## Related Theories
 
@@ -268,6 +271,7 @@ Executive function is closely tied to, but distinct from, adolescent risk-taking
 - [Target communicative perspective-taking and working memory in interventions for adolescent social difficulties](../strategies/interventions-targeting-perspective-taking-and-working-memory.md)
 - [Extended 36-trial Red-Blue Test](../products/extended-36-trial-red-blue-test.md)
 - [Go/No-Go and Nebraska Barnyard inhibition and working-memory tasks](../products/gono-go-and-nebraska-barnyard-inhibition-and-working-memory-tasks.md)
+- [Target impulsivity through mindfulness training, structured environments, and executive-function interventions as candidate routes to improving college academic outcomes](../strategies/target-impulsivity-mindfulness-structured-environments-strategy.md)
 
 ## Key Sources
 - Fay-Stammbach, T., Hawes, D. J., & Meredith, P. (2014). Parenting influences on executive function in early childhood: A review. *Child Development Perspectives, 8*(4), 258-264.

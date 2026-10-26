@@ -69,3 +69,5 @@ The same ANOVA on RT (N = 87) showed main effects of Trial type, F(1, 83) = 310.
 - [The true-versus-false statement accuracy difference is larger for misconception than control trials, and significant for science but not maths](trial-statement-interaction-science-not-maths.md) — related
 - [Incongruent dot comparison trials are less accurate and slower than congruent trials, consistent with an added inhibition step](incongruent-dot-trials-slower-less-accurate.md) — related
 - [Both text incongruency and knowledge inaccuracy produce increased reading times on target sentences](incongruency-accuracy-reading-time-effects.md) — related
+- [Scientists with a Ph.D. in physics respond more slowly to incongruent statements than to matched congruent statements, with a response-time increase in physics twice as large as in biology](phd-physicists-slower-incongruent-statements.md) — a narrower finding that bears on this claim
+- [Physicists with a Ph.D. are slightly more accurate judging physics statements than biology statements (d = 0.5)](physicists-more-accurate-physics-than-biology-statements.md) — related

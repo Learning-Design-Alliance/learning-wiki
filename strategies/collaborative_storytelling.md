@@ -64,6 +64,7 @@ The strategy combines two well-supported mechanisms: individual think time befor
 - [Jigsaw](jigsaw.md) — an alternative structure for distributing interdependent work across learners
 - [Story Retelling](story-retelling.md) — a receptive counterpart focused on comprehending rather than composing narratives
 - [Allow students to practise storytelling in their preferred language to support creative expression](preferred-language-storytelling-practice.md)
+- [Scaffolding storytelling: guiding a child to create their own story about new material through open-ended questions, hints, and validation](scaffolding-storytelling-strategy.md)
 
 ## Related Elements
 - [Practice](../elements/practice.md) — the rehearsal phase converts the written draft into fluent oral storytelling

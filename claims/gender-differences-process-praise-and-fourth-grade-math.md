@@ -68,3 +68,5 @@ Preliminary t-test comparisons in the same longitudinal sample. Boys' process pr
 - [Studies reporting age and gender differences in student engagement unanimously show higher engagement for girls and younger students](girls-younger-students-higher-engagement.md) — related
 - [Boys outperform girls on the final two-digit number test in this sample](gender-gap-final-math-test-first-graders.md) — related
 - [Gender affects levels of self-concept and mathematics achievement but not the pattern of causal predominance](gender-levels-not-causal-pattern.md) — related
+- [Boys and girls show no gender difference in overall early math achievement on the TEMA-3](no-gender-difference-tema3-overall-math-achievement.md) — reports the opposite
+- [Boys and girls show no gender difference in rote memorization of the verbal counting sequence (How High task)](no-gender-difference-rote-counting-sequence-how-high.md) — related

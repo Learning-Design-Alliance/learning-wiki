@@ -9,6 +9,7 @@ generated:
   at: 2026-10-11
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-10-26
 sources:
   - id: khalifeh-2026
     resource: "https://doi.org/10.1186/s40561-026-00440-6"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-10-26 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across 13 studies, adaptive learning was consistently described as the primary mechanism through which personalization is operationalized, dynamically adjusting task difficulty, learning sequences, feedback, and pacing based on learner data. [→ Khalifeh 2026](#khalifeh-2026)

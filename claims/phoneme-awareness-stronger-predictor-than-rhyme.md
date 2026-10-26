@@ -141,3 +141,4 @@ In a 2-year longitudinal study beginning at school entry (90 British children st
 - [Strategic use of MLs' L1 during decoding instruction was effective: shared letter-sound correspondences did not have to be retaught, and Spanish CVC segmentation instruction increased English decoding](l1-use-in-decoding-instruction-effective.md) — related
 - [Syllable stress awareness and spelling skills correlate with each other and with in-game training performance](stress-awareness-spelling-validity-correlations.md) — related
 - [Phonological awareness predicts irregular word spelling from Yr 2 onward but does not predict regular word or pseudoword spelling at any year group](pa-predicts-irregular-spelling-only.md) — related
+- [Phonological decoding is at the core of learning to read words in alphabetic languages, and children do not learn to read words by contextual guessing](phonological-decoding-core-of-reading.md) — related

@@ -14,7 +14,7 @@ grain_size: lesson
 # Collaborative Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 56 claims (23 for, 30 mixed, 3 against) · 46 studies (14 causal, 7 review, 6 associational, 6 theoretical, 5 quant-synthesis, 5 qualitative, 3 design), `q1`–`q4` · 10 of 46 report an effect size · 54 claims rest on one study
+> **Evidence** · 57 claims (23 for, 31 mixed, 3 against) · 47 studies (15 causal, 7 review, 6 associational, 6 theoretical, 5 quant-synthesis, 5 qualitative, 3 design), `q1`–`q4` · 10 of 47 report an effect size · 55 claims rest on one study
 
 ## Description and scope
 
@@ -137,6 +137,7 @@ This pattern is scoped to pairs and small groups where each member's individual 
 - [Collaborative learning is beneficial or detrimental depending on individual and situational factors](../claims/collaborative-learning-conditionally-beneficial.md) [~W]
 - [Learners who construct good single arguments individually are not always able to apply that competence in comparable collaborative tasks](../claims/solo-argument-competence-not-applied-collaboratively.md) [~W]
 - [Theta-band brain-to-brain coupling increased more steeply during learning in the joint context and was modulated by the presence or absence of statistical regularity](../claims/theta-btbc-increases-joint-context-regularity-modulated.md) [~W]
+- [Collaborative versus individual problem solving during PF showed no significant benefit for young students' conceptual knowledge or number of generated solution ideas](../claims/collaboration-null-effects-pf-young-students.md) [~W]
 
 ## Related Patterns
 - [Collaborative Inquiry](../principles/inquiry-based-learning.md)

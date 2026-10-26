@@ -79,3 +79,4 @@ The chapter reports, citing Carpenter et al. (2008), three experiments with fina
 - [Time-based forgetting occurs across presentation methods, with rate determined by consolidation time](time-based-forgetting-occurs-regardless-of-presentation-method.md) — related
 - [In Experiment 3, individual learners showed greater forgetting over 24 hours than paired learners](condition-by-delay-interaction-experiment-3.md) — related
 - [Memory improves with practice in the field where it is exercised](memory-improves-with-practice-in-exercised-field.md) — related
+- [Retention declines with interval (time-dependent forgetting) across images, details, and details-per-image measures](time-dependent-forgetting-across-intervals.md) — related

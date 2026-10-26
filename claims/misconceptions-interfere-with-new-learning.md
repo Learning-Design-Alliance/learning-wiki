@@ -135,3 +135,4 @@ Reviews roughly twenty years of research (since the mid-1980s) on refutation tex
 - [Inaccurate prior beliefs undermine readers' ability to question online misinformation](inaccurate-beliefs-undermine-misinformation-questioning.md) — related
 - [Cognitive conflict induced by refutational texts and conflicting perspectives may promote epistemic belief change in student teachers](cognitive-conflict-interventions-change-epistemic-beliefs.md) — related
 - [Both truth sandwich and bottom-loaded refutation corrections reduced belief in cancer misinformation relative to no correction](corrections-reduce-belief-in-cancer-misinformation.md) — a narrower finding that bears on this claim
+- [Naive science ideas are extremely persistent and probably never disappear even after extensive training such as a Ph.D. in physics, so conceptual change as replacement may never truly be achieved](naive-ideas-persist-phd-conceptual-change-replacement-questioned.md) — related

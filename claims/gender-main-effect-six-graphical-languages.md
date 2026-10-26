@@ -50,3 +50,4 @@ Omnibus repeated measures MANCOVA on pooled GLIM decoding scores with gender as 
 ## Related Claims
 - [Boys outperform girls on graphics tasks classified as Axis and Map graphical languages](boys-outperform-girls-axis-map-languages.md) — a narrower finding that bears on this claim
 - [The gender gap in graphics decoding remained stable over three years, with no gender-by-year interaction](gender-gap-stable-across-three-years.md) — related
+- [No gender × question-type interaction and no gender main effect on TEMA-3 formal vs. informal math items](no-gender-question-type-interaction-formal-informal-math.md) — related

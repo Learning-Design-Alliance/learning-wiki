@@ -50,3 +50,4 @@ Theoretical argument in this commentary by Wulff and Kubsch, offered without new
 - [Human teacher–GenAI collaboration in embodied mathematics learning calls for a complementary interaction model combining AI feedback with human metacognitive guidance](complementary-human-genai-interaction-model.md) — a narrower finding that bears on this claim
 - [Student participation in validating and iteratively refining AI-generated simulations promotes physics understanding and problem-solving skills](student-validation-of-ai-simulations-promotes-understanding.md) — reports the opposite
 - [Current evidence does not establish that embodied representations are necessary for semantic understanding](embodiment-necessity-not-established.md) — related
+- [The article argues current AI tools focus on the products of learning rather than the human process of learning](ai-focus-products-not-processes.md) — possibly the same claim (merge candidate)

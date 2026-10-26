@@ -83,3 +83,5 @@ Random effects meta-analysis of 33 RCTs including 3,666 children and adolescents
 - [Interventions with high schoolers and young adults show strong consistent improvement in cognitive regulation and small but significant improvements in health, mental health, and delinquency](sr-interventions-improve-cognitive-regulation-young-adults.md) — related
 - [Some social-emotional and cognitive-behavioural initiatives showed no effect or a negative effect on educator wellbeing](some-initiatives-no-or-negative-effect.md) — related
 - [Population-level surveys indicate adolescent digital regulation failures are not rare](hbsc-problematic-social-media-use-prevalence.md) — related
+- [Eighteen days of brief mindfulness meditation selectively improves executive control network efficiency in healthy adults](bmm-selectively-improves-executive-control-ant.md) — a narrower finding that bears on this claim
+- [Brief mindfulness meditation does not significantly change alerting or orienting network efficiency](bmm-no-alerting-orienting-effects.md) — related

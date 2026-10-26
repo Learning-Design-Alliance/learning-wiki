@@ -94,3 +94,4 @@ The WWC-computed domain average effect size for alphabetics was 0.22 across the 
 - REDI effects largely fade by end of kindergarten, with significant positive effects only on TOWRE Phonetic Decoding Efficiency — related
 - Kindergarteners using Bridge to Reading showed greater growth in phonological awareness and phonics/word recognition (ES +0.22 each) — related
 - [Word-reading interventions yield significant positive effects on adolescent literacy outcomes overall (g = 0.30)](word-reading-interventions-significant-adolescent-literacy-g030.md) — related
+- [Phonological decoding is at the core of learning to read words in alphabetic languages, and children do not learn to read words by contextual guessing](phonological-decoding-core-of-reading.md) — related

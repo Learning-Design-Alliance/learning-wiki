@@ -13,7 +13,7 @@ generated:
 # Addressing Student Misconceptions
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 27 claims (21 for, 6 mixed) · 20 studies (7 causal, 4 associational, 3 quant-synthesis, 3 review, 2 qualitative, 1 design), `q2`–`q4` · 9 of 20 report an effect size · 23 claims rest on one study
+> **Evidence** · 28 claims (21 for, 7 mixed) · 21 studies (8 causal, 4 associational, 3 quant-synthesis, 3 review, 2 qualitative, 1 design), `q1`–`q4` · 9 of 21 report an effect size · 24 claims rest on one study
 
 ## Description
 Activating students' prior knowledge is usually beneficial, but it is a mixed blessing when that prior knowledge is itself misleading or wrong — a common situation at any grade level, not just among young children. A kindergartner may think the sun literally "rises" (echoing adult speech) or that the earth is flat because it looks flat from the ground; a high school student may believe a boulder falls faster than a pebble, or that an object dropped from a moving car falls straight down rather than continuing to travel alongside the car as it falls.
@@ -72,6 +72,7 @@ Second, and just as important: **treat students' existing beliefs with respect**
 - [Belief reduction depended on correction condition in Experiment 1 (pre/post × condition interaction)](../claims/belief-reduction-depends-on-correction-condition-exp1.md) [~W]
 - [No belief difference between truth sandwich and bottom-loaded refutation immediately or after a two-week delay](../claims/no-format-difference-belief-after-delay.md) [~W]
 - [Truth sandwich and bottom-loaded refutation produced equivalent belief reduction immediately after correction](../claims/no-belief-difference-truth-sandwich-vs-refutation-immediate.md) [+W]
+- [Naive science ideas are extremely persistent and probably never disappear even after extensive training such as a Ph.D. in physics, so conceptual change as replacement may never truly be achieved](../claims/naive-ideas-persist-phd-conceptual-change-replacement-questioned.md) [~W]
 
 ## The evidence by question
 - *Does instruction that names and confronts a science misconception change learners' conceptions more than standard exposition?* [Instruction that confronts science misconceptions (conceptual-conflict interventions, refutation text) produces conceptual change more often than standard exposition](../claims/misconceptions-interfere-with-new-learning.md) [+S]

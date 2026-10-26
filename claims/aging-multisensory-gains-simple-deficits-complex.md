@@ -55,3 +55,4 @@ The review reports, citing Laurienti et al. and Peiffer et al., that older adult
 - [Noise impairs children's performance in complex listening tasks beyond simple identification, with children affected more than adults](noise-impairs-children-listening-comprehension.md) — related
 - [Individuals with schizophrenia show reduced behavioral benefit from combined audiovisual cues and altered multisensory temporal processing](schizophrenia-reduced-audiovisual-benefit-temporal-acuity.md) — related
 - [Children with specific language impairment show reduced selective attention to and integration of audiovisual speech](sli-reduced-audiovisual-speech-attention-integration.md) — related
+- [Three weeks of computer-based speechreading training improves audiovisual speech-in-noise comprehension in middle-aged and older adults, with the effect limited to the audiovisual condition](speechreading-training-improves-av-speech-in-noise.md) — related

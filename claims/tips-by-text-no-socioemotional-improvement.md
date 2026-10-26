@@ -47,3 +47,5 @@ Analysis of the teacher-completed SDQ secondary outcome (total difficulties, int
 ## Related Claims
 - [The Tips by Text intervention did not produce significant improvements in children's early reading-related skills (YARC) relative to control](tips-by-text-no-reading-improvement.md) — related
 - [Parent-delivered READY4K! text messages improve preschool children's early literacy performance](ready4k-texts-improve-preschool-literacy.md) — related
+- [Zirkus Empathico increased parent-rated prosocial behavior but not child-assessed prosocial behavior](zirkus-empathico-prosocial-behavior-parent-rated.md) — related
+- [Zirkus Empathico reduced parent-rated behavioral problems in preschoolers](zirkus-empathico-reduced-behavioral-problems.md) — related

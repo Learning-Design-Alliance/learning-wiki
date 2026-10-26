@@ -50,6 +50,7 @@ This strategy sequences instruction so learners encounter a problem they cannot 
 
 - [Pre Questioning](pre-questioning.md)
 - [Predicting](predicting.md)
+- [Separate challenging material in time from peak-curiosity moments, or build a sustained curiosity state before presenting less-interesting material](separate-material-from-curiosity-peaks.md)
 
 ## Examples
 -

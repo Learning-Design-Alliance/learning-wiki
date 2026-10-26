@@ -48,3 +48,4 @@ Figure 1b plots type and token counts of the 100 individual books and the indivi
 - [At matched token sizes, samples of picture-book text almost never contain fewer unique word types than samples of child-directed speech](book-speech-type-counts-non-overlapping.md) — possibly the same claim (merge candidate)
 - [The text of children's picture books contains more unique word types than a length-matched sample of child-directed speech](picture-books-more-unique-words-than-child-directed-speech.md) — possibly the same claim (merge candidate)
 - [The greater diversity of book input arises mainly because different books sample the language more broadly than different conversations do](different-books-sample-language-more-broadly.md) — related
+- [Children's books contain many morphologically complex words absent from children's television language](books-contain-complex-words-absent-from-childrens-tv-language.md) — related

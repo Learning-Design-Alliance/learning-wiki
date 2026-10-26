@@ -67,6 +67,7 @@ Dialogic reading converts a typically receptive activity into [Active Learning](
 - Reciprocal teaching — the older-student analogue: structured dialogue turns comprehension responsibility over to the learner
 - Repeated reading — dialogic reading depends on multiple passes over the same book to raise prompt demands
 - [Gradually shift the adult role from reading to listening and higher-level prompting as the child becomes familiar with a book](gradual-shift-to-higher-level-prompts.md)
+- [Scaffolding storytelling: guiding a child to create their own story about new material through open-ended questions, hints, and validation](scaffolding-storytelling-strategy.md)
 
 ## Related Elements
 - [Scaffolding](../elements/scaffolding.md) — the adult's expansions are contingent support calibrated just above the child's current language

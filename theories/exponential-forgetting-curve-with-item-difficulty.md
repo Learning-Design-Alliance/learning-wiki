@@ -17,7 +17,7 @@ sources:
 # Exponential Forgetting Curve with Item Difficulty
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 9 claims (6 for, 1 mixed, 2 against) · 4 studies (3 causal, 1 design), `q2`–`q3` · 2 of 4 report an effect size · 9 claims rest on one study
+> **Evidence** · 10 claims (7 for, 1 mixed, 2 against) · 5 studies (4 causal, 1 design), `q2`–`q3` · 2 of 5 report an effect size · 10 claims rest on one study
 
 ## Description
 The article adopts a variant of the exponential forgetting curve, in which recall is binary and recall probability decays exponentially with time since last review at a rate reduced by memory strength. It adds that "there is a constant, item-speciﬁc component of the memory decay rate" through a difficulty parameter, and its final form uses Leitner deck position as strength with a global difficulty.
@@ -50,6 +50,7 @@ The article adopts a variant of the exponential forgetting curve, in which recal
 - [For Chinese tone learning, simpler models insensitive to memory decay fit as well as or better than memory-feature models](../claims/simpler-models-sufficient-for-tone-learning.md) [-W]
 - [The retention-interval main effect shows forgetting occurred over one week in both experiments](../claims/one-week-forgetting-main-effect-both-experiments.md) [+W]
 - [The scheduling model fit the experimental data well, correlating strongly with actual final-test performance (r = 0.775) with AUC = 0.871](../claims/model-fit-recall-prediction-accuracy.md) [+W]
+- [Retention declines with interval (time-dependent forgetting) across images, details, and details-per-image measures](../claims/time-dependent-forgetting-across-intervals.md) [+W]
 
 ## The evidence by question
 - *Does a learner model that tracks memory decay since the last review predict recall better than one that ignores it, and for which kinds of material?* [Memory-decay-based models fit fact-learning datasets better than models insensitive to memory decay](../claims/memory-features-improve-fit-for-fact-learning-datasets.md) [+M]

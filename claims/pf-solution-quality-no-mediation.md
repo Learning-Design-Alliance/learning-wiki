@@ -69,3 +69,4 @@ Path a2 from condition to solution quality was initially significant (p = 0.045)
 - [Solution quality correlates with conceptual knowledge and gap awareness only for individual problem solvers](pf-solution-quality-correlation-individual-only.md) — related
 - [Solution quantity does not mediate the effect of collaboration on conceptual knowledge in PF](pf-solution-quantity-no-mediation.md) — related
 - [Neither the quantity nor the quality of PF students' own solution attempts correlated with their conceptual knowledge acquisition](solution-attempts-not-correlated-with-conceptual-knowledge.md) — related
+- [Collaborative versus individual problem solving during PF showed no significant benefit for young students' conceptual knowledge or number of generated solution ideas](collaboration-null-effects-pf-young-students.md) — related

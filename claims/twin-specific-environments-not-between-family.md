@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2023
+source_checked: 2026-10-26
 sources:
   - id: wolfram-2023
     resource: "https://doi.org/10.1038/s41539-023-00173-y"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · checked against its sources 2026-10-26 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Twin-specific shared environments (T) accounted for 16–25% of variance in PA models, and including them reduced between-family environmental variance to about 10%, well below the CTD C estimate of 43%. [→ Wolfram 2023](#wolfram-2023)
@@ -50,3 +51,5 @@ NTFD decomposition of the shared environment in the TwinLife sample, contrasting
 - [Dizygotic twin correlations for educational attainment are consistently higher than non-twin sibling correlations across countries, suggesting twin-specific shared environments are a general phenomenon](dz-twin-correlations-exceed-sibling-correlations.md) — related
 - [The best-fitting NTFD model estimates heritability of educational attainment at 51% and total shared environmental influence at 26%, disaggregated into twin-specific (16%) and sibling-shared (10%) components](ntfd-best-fit-aste-51-26.md) — related
 - [Under phenotypic assortment NTFD models, parental education shows no environmental effect on offspring educational attainment once genetic influences are accounted for](parental-education-no-environmental-effect-pa-models.md) — related
+- [Educational achievement is highly heritable, and the common environmental variance is attributable to SES effects](ea-heritable-common-env-variance-attributable-to-ses.md) — related
+- [Genetic and environmental variance components of educational achievement decrease with increasing parental SES](genetic-environmental-variance-decrease-with-ses.md) — related

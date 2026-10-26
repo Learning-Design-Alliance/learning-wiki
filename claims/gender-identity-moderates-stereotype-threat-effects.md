@@ -52,3 +52,4 @@ Structural equation modeling with moderated multiple mediation tested interactio
 - [The threat-by-gender pattern in reading occurred only among highly-identified students](stereotype-threat-reading-only-highly-identified.md) — related
 - [Stereotype threat in collaborative contexts can interfere with working memory and reduce meaningful contribution](stereotype-threat-undermines-collaborative-contribution.md) — related
 - [Altering the order of administration of math and verbal tests serves as an ecological intervention that reduces stereotype threat on girls’ math performance.](test-order-intervention-reduces-stereotype-threat-girls-math.md) — related
+- [Sociocultural factors including stereotype threat, teacher interactions, and parental perceptions are discussed as likely sources of later-emerging gender differences in math](sociocultural-sources-of-gender-differences-in-math.md) — related

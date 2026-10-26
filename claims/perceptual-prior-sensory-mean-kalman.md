@@ -66,3 +66,4 @@ Trial-level Kalman gain estimates showed perceptual likelihood dominating the pr
 ## Related Claims
 - [Most participants' fear generalization aligns with perceptual rather than physical stimulus distances](generalization-aligned-perceptual-distance.md) — related
 - [Perception and perceptual memory diverge over time, creating a disjunction between the two representational systems](perception-memory-disjunction.md) — related
+- [When a single body part performs timing responses for two interval priors, participants learn one generalised prior rather than two independent priors](single-body-part-single-generalised-prior.md) — related

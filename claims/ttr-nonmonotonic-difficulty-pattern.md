@@ -52,3 +52,5 @@ Partial dependence plot for type-token ratio (Figure 2) from the random forest. 
 - [GPT-assisted writing shows higher lexical diversity, richness, and noun/non-stopword ratios, while independently authored writing shows higher adverb ratio and sentence-length variability](stylometric-feature-differences-gpt-vs-human.md) — related
 - [AI-assisted journal entries show higher lexical diversity and more emotion-word usage than unassisted entries](ai-questions-deepen-reflective-writing-quality.md) — related
 - [Revising texts to improve readability-formula scores often produces nonexistent or insignificant comprehension gains](readability-revision-gains-nonexistent-insignificant.md) — related
+- [Training experiments with adults suggest linguistic diversity supports word learning](linguistic-diversity-training-supports-learning.md) — related
+- [Text experience offers unique lexical learning opportunities: most new vocabulary after reading onset is learned via reading, and children's text is more lexically diverse than speech](text-experience-unique-lexical-learning.md) — related

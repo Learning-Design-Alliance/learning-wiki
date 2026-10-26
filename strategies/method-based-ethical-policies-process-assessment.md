@@ -45,6 +45,7 @@ The article recommends that ethical policy for AI in online education be tailore
 - [Institutional recommendations: shift from detection to process-oriented assessment, transparent AI-use protocols, and revised integrity policies](institutional-gai-process-assessment-recommendations.md)
 - [Transition from restrictive AI governance to frameworks that formally integrate operational and epistemic workflow competencies with subject-sensitive guidance](subject-sensitive-ai-governance-integrating-epistemic-literacy.md)
 - [Teach the pedagogical rationale behind AI policies rather than only stating rules](teach-pedagogical-rationale-behind-ai-policies.md)
+- [Tailor AI deployment to specific applications and stakeholder groups rather than applying a one-size-fits-all integration approach](stakeholder-specific-ai-deployment-strategy.md)
 
 ## Examples
 -

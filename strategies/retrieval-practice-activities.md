@@ -132,6 +132,7 @@ Retrieval practice produces substantially larger and more durable learning gains
 - [Interleave Practice Types](interleave_practice_types.md) — interleaving forces retrieval of the correct strategy, not just the answer
 - [Implement weekly low-stakes spaced recall quizzes cycling fundamental concepts monthly, with a plan to address student frustration](weekly-spaced-recall-quiz-strategy-fundamental-concepts.md)
 - [Support effortful strategy use by making students aware of the benefits of retrieval practice and providing hints](awareness-hints-desirable-difficulty-retrieval.md)
+- [Cueing category-level components of learned material as a low-effort reactivation strategy to support long-term retention](component-cue-reactivation-strategy.md)
 
 ## Examples
 - **[Anki](https://apps.ankiweb.net)** — spaced-repetition flashcard system implementing expanding retrieval intervals; widely used in medical education.

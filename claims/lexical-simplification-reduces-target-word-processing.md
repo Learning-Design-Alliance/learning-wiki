@@ -51,3 +51,4 @@ Mixed ANOVAs on target-word measures in the 2×2×2 experiment with 60 adults; F
 - [Unknown words are read significantly longer than known control words in all four eye-tracking measures](targets-read-longer-than-controls-all-measures.md) — related
 - [Reading times for unknown words decrease significantly after three to four encounters, and by eight encounters unknown words are read like known words](reading-times-drop-three-four-encounters.md) — related
 - [Accompanying sentences with an image improves comprehension accuracy, significantly so for sentences containing low-frequency words](visual-support-improves-sentence-comprehension-accuracy.md) — related
+- [Contextual diversity — the number of unique documents a word appears in — is more closely associated with adult lexical processing than raw frequency](contextual-diversity-beats-raw-frequency.md) — related

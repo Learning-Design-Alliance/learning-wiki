@@ -60,7 +60,8 @@ This account holds that effortful retrieval strengthens knowledge and that "The 
 - [Retrieval practice and spaced retrieval improve achievement and retention by medium amounts, while interleaving helps category learning only for some materials and blocking beats it for words](../claims/desirable-difficulties-enhance-learning.md) [+M]
 
 ## Examples
--
+
+- [Cueing category-level components of learned material as a low-effort reactivation strategy to support long-term retention](../strategies/component-cue-reactivation-strategy.md)
 
 ## Key Sources
 - Karpicke, J. D. (2017). Retrieval-Based Learning: A Decade of Progress. Learning and Memory: A Comprehensive Reference, 2nd edition, Volume 2. https://doi.org/10.1016/B978-0-12-809324-5.21055-9

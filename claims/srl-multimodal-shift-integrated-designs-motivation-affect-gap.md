@@ -9,6 +9,7 @@ generated:
   at: 2026-10-22
 evidence_strength: weak
 newest_evidence: 2026
+source_checked: 2026-10-26
 sources:
   - id: tina-seufert-2026
     resource: "https://doi.org/10.1007/s10648-026-10119-6"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-10-26 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A systematic review of multimodal SRL research identifies four types of analytical approaches (unimodal, horizontal, vertical, integrated) and documents a shift from unimodal toward integrated approaches, while motivational and affective dimensions remain underrepresented. [→ Tina Seufert 2026](#tina-seufert-2026)

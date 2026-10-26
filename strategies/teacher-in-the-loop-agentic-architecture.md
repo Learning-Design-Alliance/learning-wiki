@@ -46,6 +46,7 @@ The article recommends an agentic educational architecture that includes the tea
 - [Embed pedagogical guardrails in the generation pipeline to counter cognitive offloading from friction-minimizing generative AI](pedagogical-guardrails-against-cognitive-offloading.md)
 - [Prioritize inclusive-by-design architectures, interoperable agent frameworks, human-AI collaboration models, and real-world implementation studies](future-directions-inclusive-by-design-agentic-ai.md)
 - [Six engagement-based incentive mechanisms that build evaluative moments into chatbot interaction](six-engagement-mechanisms-trust-calibration.md)
+- [AI-supported choice architectures that build agency while the teacher retains curricular scope](ai-predictive-agency-pathways.md)
 
 ## Examples
 -

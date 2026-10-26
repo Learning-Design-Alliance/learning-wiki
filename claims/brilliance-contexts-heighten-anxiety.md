@@ -56,3 +56,4 @@ The review reports, citing Bauer et al. (2023), a study of university students f
 - [Endorsement of brilliance-oriented FABs predicts lower self-efficacy among stigmatized students in brilliance-oriented contexts](brilliance-contexts-lower-self-efficacy.md) — related
 - [Field-specific ability beliefs are consensual cultural beliefs, acquired by early elementary school, that associate brilliance with fields like math more than language fields](fabs-consensual-early-acquired.md) — related
 - [The authors interpret stereotype threat as a partial explanation for the standardized-test achievement gap between low- and high-SES students](stereotype-threat-partly-explains-ses-achievement-gap.md) — related
+- [Sociocultural factors including stereotype threat, teacher interactions, and parental perceptions are discussed as likely sources of later-emerging gender differences in math](sociocultural-sources-of-gender-differences-in-math.md) — related

@@ -71,3 +71,4 @@ The paper, a conceptual discussion of adult education policy drawing on literatu
 - [During the pilot, interaction sessions remained bounded in duration and frequency, and dependency-related risk signals were rare and addressed through prompts encouraging human contact](amico-bounded-usage-rare-dependency-signals.md) — a narrower finding that bears on this claim
 - [Hybrid work must be reconceptualised to include the human/AI duality alongside the presence/virtual continuum](hybrid-work-human-ai-duality.md) — related
 - [Automating constructive alignment with GenAI risks shifting it towards an instrument of compliance](genai-automation-shifts-constructive-alignment-toward-compliance.md) — related
+- [The article argues current AI tools focus on the products of learning rather than the human process of learning](ai-focus-products-not-processes.md) — related

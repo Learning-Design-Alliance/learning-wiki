@@ -56,3 +56,4 @@ The review reports, citing Hannak, Joseph, Larremore, and Cimpian (2023), an ana
 - [Brilliance cues reduce stigmatized students' interest and intrinsic motivation, with effects emerging by age 6–7 and persisting into adulthood](brilliance-cues-reduce-intrinsic-motivation.md) — related
 - [Brilliance stereotypes associating brilliance with boys, higher-SES, and White children emerge by age 6](brilliance-stereotypes-emerge-by-age-six.md) — related
 - [Intersectional brilliance stereotypes show mixed patterns, supporting both intersectional invisibility and double jeopardy accounts](intersectional-brilliance-stereotypes-mixed.md) — related
+- [Sociocultural factors including stereotype threat, teacher interactions, and parental perceptions are discussed as likely sources of later-emerging gender differences in math](sociocultural-sources-of-gender-differences-in-math.md) — related

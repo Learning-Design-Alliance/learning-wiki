@@ -72,3 +72,4 @@ Three additional groups saw pink toys emerge at 10%, 5%, or 2.5% likelihood; all
 - [Core knowledge violations may be 'moderately impossible,' aligning with the Goldilocks effect on attention allocation](moderately-impossible-events-optimally-surprising.md) — a broader claim this one bears on
 - [Eleven-month-old infants who see a core knowledge violation preferentially explore the violating object over a novel distractor](infants-explore-core-knowledge-violating-objects.md) — related
 - [Learning enhancements from core knowledge violations are entity-specific: no benefit for unrelated bystander objects](surprise-learning-effect-is-entity-specific.md) — related
+- [Children learned novel verb meanings better when words were experienced in episodes built around a common scenario](scenario-contexts-improve-verb-meaning-learning.md) — related

@@ -49,3 +49,4 @@ Within-subjects experiment: 14 older adults (12 after outlier removal) walked re
 - [Auditory reaction-time measure of cognitive load did not differ between guided and unguided low-vision navigation in older adults](no-rt-cognitive-load-difference-guidance-older-adults.md) — related
 - [Average pointing error increases linearly with age across younger and older adults in a real-world low-vision navigation task](spatial-learning-worsens-with-age-low-vision-navigation.md) — related
 - [Self-reported safety anxiety (SUDS) did not differ between guided and unguided conditions in older adults with simulated low vision](no-suds-anxiety-difference-guidance-older-adults.md) — related
+- [VGL support improves pointing accuracy, reducing angular errors in spatial knowledge retrieval](vgl-reduces-pointing-angular-errors.md) — related

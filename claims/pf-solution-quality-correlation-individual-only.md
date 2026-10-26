@@ -52,3 +52,4 @@ Exploratory Pearson correlations computed separately per condition (Table 4): fo
 - [Solution quality does not mediate the effect of collaboration on conceptual knowledge in PF](pf-solution-quality-no-mediation.md) — related
 - [Solution quantity does not mediate the effect of collaboration on conceptual knowledge in PF](pf-solution-quantity-no-mediation.md) — related
 - [PF students reported more awareness of knowledge gaps than example observers, but awareness of knowledge gaps did not correlate with conceptual knowledge acquisition](knowledge-gap-awareness-not-linked-to-learning.md) — related
+- [Collaborative versus individual problem solving during PF showed no significant benefit for young students' conceptual knowledge or number of generated solution ideas](collaboration-null-effects-pf-young-students.md) — related

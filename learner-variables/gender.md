@@ -13,7 +13,7 @@ generated:
 # Gender
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 278 claims (172 show a difference, 66 mixed, 40 no difference) · 197 studies (129 associational, 31 causal, 14 quant-synthesis, 9 review, 5 qualitative, 5 theoretical, 4 design), `q1`–`q4` · 34 of 197 report an effect size · 270 claims rest on one study
+> **Evidence** · 285 claims (172 show a difference, 67 mixed, 46 no difference) · 198 studies (130 associational, 31 causal, 14 quant-synthesis, 9 review, 5 qualitative, 5 theoretical, 4 design), `q1`–`q4` · 34 of 198 report an effect size · 277 claims rest on one study
 
 ## How to read this page
 
@@ -317,6 +317,13 @@ Gender is recorded in most education studies, usually as a binary category taken
 - [Sex differences in arithmetic work are slight: girls do about 4% more work and make about 4% fewer errors than boys, but boys lead in the eighth grade](../claims/sex-differences-slight-arithmetic.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Closure-duration losses are larger for boys and immigrant students: boys' overall loss equals girls' at about 40 weeks of full closures, and immigrants' equals natives' at about 25 weeks](../claims/gender-immigrant-closure-heterogeneity.md) [+M] — an instructional effect differs by group
 - [The association between peer commensality and academic performance is stronger for male than female students](../claims/commensality-performance-link-stronger-males.md) [+M] — an instructional effect differs by group
+- [Boys and girls show equal variability in early mathematical performance across all measured tasks](../claims/no-gender-difference-variability-early-math-performance.md) [-M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Boys and girls show no gender difference in numerosity perception in infancy at 6 months of age](../claims/no-gender-difference-infant-numerosity-perception.md) [-M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Boys and girls show no gender difference in overall early math achievement on the TEMA-3](../claims/no-gender-difference-tema3-overall-math-achievement.md) [-M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Boys and girls show no gender difference in rote memorization of the verbal counting sequence (How High task)](../claims/no-gender-difference-rote-counting-sequence-how-high.md) [-M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Boys and girls show no significant gender difference on the Give-N task of cardinal number knowledge, though statistical equivalence was not established](../claims/no-significant-gender-difference-give-n-cardinal-knowledge.md) [-M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [No gender × question-type interaction and no gender main effect on TEMA-3 formal vs. informal math items](../claims/no-gender-question-type-interaction-formal-informal-math.md) [-M] — an instructional effect differs by group
+- [Sociocultural factors including stereotype threat, teacher interactions, and parental perceptions are discussed as likely sources of later-emerging gender differences in math](../claims/sociocultural-sources-of-gender-differences-in-math.md) [~W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## The evidence by question
 - *Do girls and boys differ in mathematics and reading achievement, by how much, and where in the distribution?* [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](../claims/pisa-sex-differences-math-small-reading-three-times-larger.md) [+M]
