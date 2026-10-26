@@ -51,3 +51,4 @@ Structurally-defined bilateral VS ROI mixed-model ANOVA in the same 304-subject 
 - [Ventral striatum activation to correct responses is correlated with discrimination performance in youth](vs-activation-correlated-with-discrimination-performance.md) — related
 - [Post-error slowing occurs in the 2-back condition despite absence of feedback](post-error-slowing-two-back-no-feedback.md) — related
 - [Working memory load degrades discrimination accuracy and slows responses in youth](load-degrades-discrimination-and-slows-responses.md) — related
+- [The first successful retrieval elicits strongest activity in bilateral ventral striatum and fronto-striatal regions, with marked reduction over subsequent successful retrievals](first-successful-retrieval-ventral-striatum-activity-reduction.md) — related

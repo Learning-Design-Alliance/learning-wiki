@@ -70,3 +70,4 @@ Exploratory corrected t-test in the same Experiment 1 sample (n = 259), with pri
 - [Response format (overt vs. covert retrieval) did not affect final cued recall in spaced retrieval practice, and list structure (blocked vs. random; proportion of overt trials) did not moderate the effect.](covert-overt-retrieval-no-effect-spaced-practice.md) — related
 - [The memory rating requirement moderated the restudy-versus-retrieval pattern: interference on retrieval trials and facilitation on restudy trials both contributed to the restudy superiority.](memory-rating-reactivity-moderates-restudy-advantage.md) — possibly the same claim (merge candidate)
 - [Retrieval practice improves long-term retention](retrieval-practice-improves-retention.md) — related
+- [Cued recall testing with correct-answer feedback significantly enhances vocabulary learning across three consecutive tests](feedback-enhances-vocabulary-learning-across-consecutive-tests.md) — related

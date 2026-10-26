@@ -18,7 +18,7 @@ sources:
 # Self-Directed Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 32 claims (12 for, 18 mixed, 2 against) · 41 studies (14 review, 8 theoretical, 7 causal, 5 quant-synthesis, 4 associational, 2 qualitative, 1 design), `q1`–`q4` · 6 of 41 report an effect size · 23 claims rest on one study
+> **Evidence** · 33 claims (12 for, 19 mixed, 2 against) · 42 studies (14 review, 9 theoretical, 7 causal, 5 quant-synthesis, 4 associational, 2 qualitative, 1 design), `q1`–`q4` · 6 of 42 report an effect size · 24 claims rest on one study
 
 ## Conditional relationship
 
@@ -140,6 +140,7 @@ Completion, achievement at the end of the course, self-reported autonomy or moti
 - [Student choice about learning content and path was limited: most teachers did not report high levels of student choice, and two-thirds to three-quarters of students reported sometimes, rarely, or never choosing](../claims/pl-student-choice-limited-teacher-driven.md) [-W]
 - [SDL and SRL are developmental processes: senior students show more self-directed and self-regulated learning across several reviewed studies](../claims/sdl-srl-developmental-processes-pbl.md) [~W]
 - [Review findings on college strategic processing: development under-studied, quality of strategy use matters more than frequency, and learner and environmental conditions determine effectiveness](../claims/strategy-use-quality-conditionality-over-frequency.md) [~W]
+- [Personalized learning systems that assume high student self-regulation can overburden students, so low performers learn less despite receiving skill-appropriate content](../claims/self-regulatory-burden-harms-low-performers.md) [~W]
 
 ## Related Principles
 - [Self-Regulated Learning](self-regulated-learning.md) — provides the mechanism-level account of how learners plan, monitor, and revise

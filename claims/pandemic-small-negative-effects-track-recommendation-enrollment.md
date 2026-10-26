@@ -51,3 +51,4 @@ Counterfactual cohort comparison using Dutch register data (~27% of each cohort,
 - [Socio-economic inequality in learning increased during the pandemic for most estimates, across subjects, grades and pandemic stages](covid-learning-inequality-increased-low-ses.md) — related
 - [Students in The Netherlands lost on average 3.16 percentile points (0.08 SD) in achievement during the 8-week COVID-19 lockdown](dutch-lockdown-learning-loss-3-percentile-points.md) — related
 - [COVID-19 widened the socio-economic performance gap on average, deteriorating more among disadvantaged students, significantly in mathematics and science](covid-widened-socio-economic-performance-gap.md) — related
+- [Ability tracking practices increase educational inequalities because disadvantaged students are more often assigned to less-demanding tracks with fewer opportunities to learn](tracking-increases-educational-inequalities.md) — related

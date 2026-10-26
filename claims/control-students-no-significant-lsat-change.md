@@ -47,3 +47,4 @@ Within-group change in the control condition over the 85-day semester; the artic
 ## Related Claims
 - [Seminar students improved more on LSAT Logical Reasoning than control students (d = 0.71, 95% CI (0.37, 1.04), p < 0.001)](argument-visualization-seminar-lsat-gains.md) — related
 - [Pretest LSAT scores did not differ reliably between seminar and control groups](seminar-pretest-no-reliable-difference.md) — related
+- [A 6-week LSAT Logic Games course produced greater improvement on a composite of four visuospatial reasoning assessments than a Reading Comprehension course](lsat-logic-games-transfer-composite-reasoning.md) — related

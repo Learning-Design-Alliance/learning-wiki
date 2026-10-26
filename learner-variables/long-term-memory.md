@@ -13,7 +13,7 @@ generated:
 # Long-Term Memory
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 151 claims (91 show a difference, 37 mixed, 23 no difference) · 94 studies (45 causal, 21 review, 13 quant-synthesis, 8 theoretical, 5 associational, 2 qualitative), `q1`–`q4` · 39 of 94 report an effect size · 143 claims rest on one study
+> **Evidence** · 158 claims (93 show a difference, 38 mixed, 27 no difference) · 100 studies (51 causal, 21 review, 13 quant-synthesis, 8 theoretical, 5 associational, 2 qualitative), `q1`–`q4` · 41 of 100 report an effect size · 150 claims rest on one study
 
 ## Description
 Long-term memory holds information, such as words, facts, events, concepts and procedures, so that it can be retrieved and used later, over spans from hours to decades, and in principle indefinitely. Skills and knowledge get there through repeated practice and use, and stay accessible while they continue to be used. It matters for learning because what is stored there is the base for everything that follows: the [prior knowledge](prior-knowledge.md) and vocabulary that support reading and writing, and the arithmetic facts and procedures that free a learner to work on new mathematics problems. It develops through childhood and adolescence as the brain systems supporting it mature, and older learners lean more on memory-based strategies, for example in mathematics. It is measured with standardised memory batteries that ask learners to recall stories, lists or figures after a delay. It is distinct from [working memory](working-memory.md), which holds information briefly while it is being used; rehearsal and use move material from one to the other.
@@ -186,6 +186,13 @@ Long-term memory holds information, such as words, facts, events, concepts and p
 - [Obstacle Course enrichment enhances long-term object recognition memory in mice, exceeding the effects of enriched housing at long retention delays](../claims/oc-enrichment-enhances-long-term-object-recognition.md) [+M] — instruction changes it
 - [Children retain trained word-object and letter-sound associations four to six months after the intervention](../claims/long-term-memory-trained-associations-4-6-months.md) [+M] — instruction changes it
 - [Twenty-four-hour consolidation of motor skill differs according to the time of day of training, with deterioration in the morning, stabilization in the afternoon, and improvement in the evening](../claims/consolidation-depends-on-training-time-of-day.md) [~M] — instruction changes it
+- [Across item recognition, associative recognition, and free recall paradigms, reminder-potentiated behavioural interference did not impair declarative memory within-subjects](../claims/no-behavioural-reconsolidation-interference-within-subjects.md) [-M] — instruction changes it
+- [Cued recall testing with correct-answer feedback significantly enhances vocabulary learning across three consecutive tests](../claims/feedback-enhances-vocabulary-learning-across-consecutive-tests.md) [+W] — instruction changes it
+- [Evaluation updating tracked memory for the feedback direction: only correct recall of peers' feedback direction produced following of peers' higher evaluations](../claims/subsequent-memory-moderates-evaluation-updating.md) [+W] — learners who differ on it differ in outcomes
+- [Long-term RMT use does not improve auditory processing, memory or attention skills beyond the typical developmental trajectory](../claims/rmt-no-long-term-auditory-cognitive-gains.md) [-M] — instruction changes it
+- [On the trained ILD-discrimination task, learning magnitude is smaller 1–3 h after training than 30 min or 6–10 h after training, documenting a transient memory lapse](../claims/transient-memory-lapse-1-3h-trained-ild-task.md) [~W] — instruction changes it
+- [Slow oscillation and spindle stimulation did not differentially affect declarative memory change compared to control conditions.](../claims/no-condition-effect-declarative-memory-glt.md) [-W] — instruction changes it
+- [Slow oscillation and spindle stimulation did not differentially affect motor sequence learning improvement compared to control conditions.](../claims/no-condition-effect-procedural-memory-msl.md) [-W] — instruction changes it
 
 ## Measures
 - **Wechsler Memory Scale (WMS)** (Wechsler, 2010): its logical memory subtest asks for details of a story heard once, as a measure of declarative memory.

@@ -61,9 +61,11 @@ Fear-driven avoidance suppresses the practice and help-seeking behaviors on whic
 6. **Climb the hierarchy.** Repeat steps 4–5 across successive sub-tasks, increasing difficulty only after tolerance is established at the current level.
 
 ## Related Strategies
+
 - **Reframing failure as learning** — the cognitive component that makes confrontation sustainable rather than merely endured
 - **Goal-setting with micro-goals** — the hierarchy decomposition is a form of micro-goal setting applied to emotional barriers
 - **Peer support structures** — distribute the social risk of approach behavior
+- [Manage pre-task expectation anxiety with cognitive restructuring or relaxation alongside gradual exposure to mathematics](manage-anticipatory-math-anxiety-strategy.md)
 
 ## Examples
 - **Toastmasters International** ([https://www.toastmasters.org](https://www.toastmasters.org)) — a formalized fear hierarchy for public speaking: members progress from short prepared speeches in a supportive club to impromptu speaking, with structured feedback after each attempt.

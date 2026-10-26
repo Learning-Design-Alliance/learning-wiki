@@ -44362,5 +44362,633 @@
  "test-format\tstandardized test-based assessment and ability grouping\tassessment approaches not imposing a standardized ability hierarchy": {
   "label": "standardized, ability-grouping assessment vs non-standardized, non-hierarchical assessment",
   "treatment_is_a": true
+ },
+ "active-learning\tmodeling-based active learning with collaborative group activities\ttraditional lecture-based instruction": {
+  "label": "modeling-based active learning with collaborative group activities vs traditional lecture-based instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tLSAT Logic Games reasoning instruction and practice\tLSAT Reading Comprehension instruction and practice": {
+  "label": "LSAT Logic Games instruction and practice vs LSAT Reading Comprehension instruction and practice",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tcorrect-answer feedback\tno feedback": {
+  "label": "feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tfeedback after retrieval failure\tfeedback after successful retrieval": {
+  "label": "feedback after retrieval failure vs feedback after successful retrieval",
+  "treatment_is_a": true
+ },
+ "feedback-type\tglobal conjunction-level feedback\tfeature-specific color and orientation feedback": {
+  "label": "global conjunction-level feedback vs feature-specific feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tglobal conjunction-level feedback\tfeature-specific color/orientation feedback": {
+  "label": "global conjunction-level feedback vs feature-specific feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tglobal conjunction-level feedback\tfeature-specific feedback": {
+  "label": "global conjunction-level feedback vs feature-specific feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\thigher peer evaluation\tlower peer evaluation": {
+  "label": "higher vs lower peer-evaluation feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\thigher peer evaluation feedback\tlower peer evaluation feedback": {
+  "label": "higher vs lower peer-evaluation feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\thigher peer evaluation, among correctly remembered feedback\tlower peer evaluation, among correctly remembered feedback": {
+  "label": "higher vs lower peer-evaluation feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\thigher peer evaluations than the participant's initial evaluations\tlower peer evaluations than the participant's initial evaluations": {
+  "label": "higher vs lower peer-evaluation feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\thigher peer feedback\tlower peer feedback": {
+  "label": "higher vs lower peer-evaluation feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\thigher peer-evaluation feedback\tlower peer-evaluation feedback": {
+  "label": "higher vs lower peer-evaluation feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tlosses\twins": {
+  "label": "negative feedback (losses) vs positive feedback (wins)",
+  "treatment_is_a": true
+ },
+ "feedback-type\tnegative feedback (losses)\tpositive feedback (wins)": {
+  "label": "negative feedback (losses) vs positive feedback (wins)",
+  "treatment_is_a": true
+ },
+ "feedback-type\toption associated with a win\toption associated with a loss": {
+  "label": "win-associated options vs loss-associated options",
+  "treatment_is_a": true
+ },
+ "feedback-type\tpositive feedback options\tnegative feedback options": {
+  "label": "win-associated options vs loss-associated options",
+  "treatment_is_a": false
+ },
+ "gamification\tfour-week personalized auditory-cognitive training\tactive foreign-language training control": {
+  "label": "non-gamified auditory-cognitive training vs active foreign-language control",
+  "treatment_is_a": true
+ },
+ "gamification\tfour-week personalized gamified auditory-cognitive training\tactive control foreign-language training": {
+  "label": "gamified auditory-cognitive training vs active foreign-language control",
+  "treatment_is_a": true
+ },
+ "gamification\tfour-week personalized gamified auditory-cognitive training\tpre-training baseline": {
+  "label": "gamified auditory-cognitive training vs pre-training baseline",
+  "treatment_is_a": true
+ },
+ "gamification\tg ameliorated personalized auditory-cognitive training\tactive control foreign-language training": {
+  "label": "gamified auditory-cognitive training vs active foreign-language control",
+  "treatment_is_a": true
+ },
+ "gamification\tpersonalized auditory-cognitive training\tactive control foreign-language training": {
+  "label": "non-gamified auditory-cognitive training vs active foreign-language control",
+  "treatment_is_a": true
+ },
+ "gamification\tpersonalized gamified auditory-cognitive training\tactive control foreign-language training": {
+  "label": "gamified auditory-cognitive training vs active foreign-language control",
+  "treatment_is_a": true
+ },
+ "gamification\tpersonalized gamified auditory-cognitive training\tactive foreign-language training": {
+  "label": "gamified auditory-cognitive training vs active foreign-language control",
+  "treatment_is_a": true
+ },
+ "gamification\tpersonalized gamified auditory-cognitive training\tactive foreign-language training control": {
+  "label": "gamified auditory-cognitive training vs active foreign-language control",
+  "treatment_is_a": true
+ },
+ "learner-difference\t1 SD higher depressive symptoms at age 10\tno increase in depressive symptoms": {
+  "label": "higher depressive symptoms vs lower depressive symptoms",
+  "treatment_is_a": true
+ },
+ "learner-difference\t1 SD higher depressive symptoms at age 13\tno increase in depressive symptoms": {
+  "label": "higher depressive symptoms vs lower depressive symptoms",
+  "treatment_is_a": true
+ },
+ "learner-difference\t1 h later chronotype\tearlier chronotype": {
+  "label": "later chronotype vs earlier chronotype",
+  "treatment_is_a": true
+ },
+ "learner-difference\t1 h later chronotype in morning school timing\t1 h earlier chronotype in morning school timing": {
+  "label": "later chronotype vs earlier chronotype",
+  "treatment_is_a": true
+ },
+ "learner-difference\t1-SD higher education-PGS\tlower education-PGS": {
+  "label": "higher education-PGS vs lower education-PGS",
+  "treatment_is_a": true
+ },
+ "learner-difference\t1-hour-later chronotype\t1-hour-earlier chronotype": {
+  "label": "later chronotype vs earlier chronotype",
+  "treatment_is_a": true
+ },
+ "learner-difference\t1-hour-later chronotype in morning school timing, with math grades 1 point below average\t1-hour-earlier chronotype in morning school timing, with math grades 1 point below average": {
+  "label": "later chronotype vs earlier chronotype",
+  "treatment_is_a": true
+ },
+ "learner-difference\t1-point-lower language grade in the evening timing\t1-point-higher language grade in the evening timing": {
+  "label": "higher language grade vs lower language grade",
+  "treatment_is_a": false
+ },
+ "learner-difference\t1-point-lower language grade in the morning timing\t1-point-higher language grade in the morning timing": {
+  "label": "higher language grade vs lower language grade",
+  "treatment_is_a": false
+ },
+ "learner-difference\t1-point-lower math grade at a 1-hour-earlier chronotype\tmath grade one point higher at a 1-hour-earlier chronotype": {
+  "label": "higher math grade vs lower math grade",
+  "treatment_is_a": false
+ },
+ "learner-difference\t1-point-lower math grade at a 1-hour-later chronotype\tmath grade one point higher at a 1-hour-later chronotype": {
+  "label": "higher math grade vs lower math grade",
+  "treatment_is_a": false
+ },
+ "learner-difference\t1-point-lower math grade at average chronotype\tmath grade one point higher at average chronotype": {
+  "label": "higher math grade vs lower math grade",
+  "treatment_is_a": false
+ },
+ "learner-difference\t12-year-olds versus 5-year-olds\t5-year-olds versus 12-year-olds": {
+  "label": "older learners vs younger learners",
+  "treatment_is_a": true
+ },
+ "learner-difference\t15 participants with the highest EAPGS\t15 participants with the lowest EAPGS": {
+  "label": "higher EAPGS vs lower EAPGS",
+  "treatment_is_a": true
+ },
+ "learner-difference\t1st-year students attending afternoon school\t1st-year students attending evening school": {
+  "label": "afternoon school vs evening school",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2-year follow-up\t3-year follow-up": {
+  "label": "longer follow-up vs shorter follow-up",
+  "treatment_is_a": false
+ },
+ "learner-difference\t5th-year afternoon students with a 1-hour-later chronotype\t5th-year afternoon students with a 1-hour-earlier chronotype": {
+  "label": "later chronotype vs earlier chronotype",
+  "treatment_is_a": true
+ },
+ "learner-difference\t5th-year morning students with a 1-hour-later chronotype\t5th-year morning students with a 1-hour-earlier chronotype": {
+  "label": "later chronotype vs earlier chronotype",
+  "treatment_is_a": true
+ },
+ "learner-difference\t5th-year students attending evening school\t5th-year students attending morning school": {
+  "label": "evening school vs morning school",
+  "treatment_is_a": true
+ },
+ "learner-difference\t5th-year students with later chronotypes in morning school\t5th-year students with later chronotypes in afternoon school": {
+  "label": "morning school vs afternoon school",
+  "treatment_is_a": true
+ },
+ "mastery-learning\tcompetency-based progression\tage-graded fixed progression": {
+  "label": "competency-based progression vs age-graded fixed progression",
+  "treatment_is_a": true
+ },
+ "mastery-learning\tnongraded individualized instruction\tage-graded schooling": {
+  "label": "competency-based progression vs age-graded fixed progression",
+  "treatment_is_a": true
+ },
+ "practice-amount\t180 trials of brief additional conjunction training\tno additional conjunction training": {
+  "label": "additional practice vs no additional practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\tlater repeated feedback tests\tfirst feedback test": {
+  "label": "repeated feedback testing vs initial feedback testing",
+  "treatment_is_a": true
+ },
+ "practice-amount\tlater repeated test\tearlier repeated test": {
+  "label": "later repeated testing vs earlier repeated testing",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tfirst successful retrieval\tsubsequent successful retrievals": {
+  "label": "subsequent successful retrievals vs first successful retrieval",
+  "treatment_is_a": false
+ },
+ "retrieval-practice\tlater repeated tests with feedback\tearlier test with feedback": {
+  "label": "later repeated tests with feedback vs earlier test with feedback",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tlater repeated tests with feedback\tfirst test with feedback": {
+  "label": "later repeated tests with feedback vs first test with feedback",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\trepeated testing with correct-answer feedback\trepeated study": {
+  "label": "repeated testing with feedback vs repeated study",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\trepeated testing with feedback\trepeated study": {
+  "label": "repeated testing with feedback vs repeated study",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tsuccessful retrieval\tretrieval failure": {
+  "label": "successful retrieval vs retrieval failure",
+  "treatment_is_a": true
+ },
+ "technology-tool\t12-week seminar practicing software-based argument visualization\tstandard introductory philosophy lecture course without explicit argument-analysis training": {
+  "label": "software-based argument visualization seminar vs standard lecture course",
+  "treatment_is_a": true
+ },
+ "technology-tool\t4-week BCI-SRF training\t4-week inborn-finger training": {
+  "label": "BCI-SRF training vs inborn-finger training",
+  "treatment_is_a": true
+ },
+ "technology-tool\t4-week brain-actuated BCI-SRF training\t4-week inborn-finger training": {
+  "label": "brain-actuated BCI-SRF training vs inborn-finger training",
+  "treatment_is_a": true
+ },
+ "technology-tool\t4-week brain-actuated supernumerary robotic finger (BCI-SRF) training\t4-week inborn finger training": {
+  "label": "brain-actuated supernumerary robotic finger training vs inborn-finger training",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI applications supporting SRL\tconventional or non-AI learning": {
+  "label": "AI-supported SRL vs conventional or non-AI learning",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI applications supporting all SRL phases\tAI applications focused on the performance phase": {
+  "label": "AI support across all SRL phases vs performance-phase-only AI support",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-driven intelligent tutoring system\ttraditional teacher-led instruction": {
+  "label": "AI-driven intelligent tutoring system vs teacher-led instruction",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-driven intelligent tutoring systems\tvarious comparison conditions": {
+  "label": "AI-driven intelligent tutoring system vs comparison conditions",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-enhanced tools\tnot stated": {
+  "label": "AI-enhanced tools vs unspecified comparator",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-focused learning activities\tno comparison stated": {
+  "label": "AI-focused learning activities vs unspecified comparator",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-generated Markdown instructional videos\tnone; post-test rating only": {
+  "label": "AI-generated instructional videos vs no videos",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-generated admission essays after a self-edit prompt using literary language\tAI-generated admission essays without the self-edit prompt": {
+  "label": "AI-generated text with self-edit prompt vs AI-generated text without self-edit prompt",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-generated animated traces (GATs)\ttextual explanations": {
+  "label": "AI-generated animated traces vs textual explanations",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-generated animated videos (GATs)\ttextual explanations": {
+  "label": "AI-generated animated videos vs textual explanations",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-generated assessment items\thuman-authored assessment items": {
+  "label": "AI-generated assessment items vs human-authored assessment items",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-generated code or analysis without sufficient domain oversight\tmentor- or domain-expert-guided review and debugging": {
+  "label": "AI-generated code or analysis without domain oversight vs expert-guided review and debugging",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-generated content in education\tnot stated": {
+  "label": "AI-generated educational content vs unspecified comparator",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-generated database diagrams\tdatabase diagrams produced by students before": {
+  "label": "AI-generated database diagrams vs student-produced diagrams",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-generated diagnosis or explanations\texpected ability to diagnose misconceptions and explain relevantly": {
+  "label": "AI-generated diagnosis or explanations vs human diagnostic and explanatory ability",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-generated dimension scores\tteacher-generated dimension scores": {
+  "label": "AI-generated scores vs teacher-generated scores",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-generated draft based on participant outline\tAI planning or AI revision support": {
+  "label": "AI-generated draft from participant outline vs AI planning or revision support",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-generated draft based on participant outline\tAI support for planning only": {
+  "label": "AI-generated draft from participant outline vs AI planning-only support",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-generated draft based on participant outline\tAI support for revision only": {
+  "label": "AI-generated draft from participant outline vs AI revision-only support",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-generated draft based on participant outline\tno AI support": {
+  "label": "AI-generated draft from participant outline vs no AI support",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-generated draft based on the participant’s outline\tno AI, AI planning support, or AI revision support": {
+  "label": "AI-generated draft from participant outline vs no AI, planning support, or revision support",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-generated drafting based on the participant's outline\tAI support during planning or revision": {
+  "label": "AI-generated drafting from participant outline vs AI planning or revision support",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-generated empathic response\thuman empathic response": {
+  "label": "AI-generated empathic response vs human empathic response",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-generated empathic responses\thuman empathic responses": {
+  "label": "AI-generated empathic response vs human empathic response",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-generated essay scores\tteacher-generated essay scores": {
+  "label": "AI-generated essay scores vs teacher-generated essay scores",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-generated feedback\texpert human teacher feedback": {
+  "label": "AI-generated feedback vs expert human teacher feedback",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-generated feedback\thuman-targeted feedback": {
+  "label": "AI-generated feedback vs human-targeted feedback",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-generated feedback\tteacher-generated feedback": {
+  "label": "AI-generated feedback vs teacher-generated feedback",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-generated feedback draft\tTA final feedback": {
+  "label": "AI-generated feedback draft vs TA final feedback",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-generated flashcard creation at the point of reading\tmanual card preparation with context switching": {
+  "label": "AI-generated flashcards during reading vs manual card preparation with context switching",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-generated group-work contributions\tpeer collaboration and communication without concealed AI use": {
+  "label": "AI-generated group-work contributions vs peer collaboration without concealed AI",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-generated help\thuman tutor-authored help": {
+  "label": "AI-generated help vs human tutor-authored help",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-generated high-level feedback\thuman high-level assessment and feedback": {
+  "label": "AI-generated high-level feedback vs human high-level assessment and feedback",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-generated instructional materials\tno stated comparator": {
+  "label": "AI-generated instructional materials vs unspecified comparator",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-generated instructional materials\tnone reported": {
+  "label": "AI-generated instructional materials vs no comparator",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-generated instructional materials\tnot reported": {
+  "label": "AI-generated instructional materials vs unspecified comparator",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-generated instructional materials or responses\thuman-generated or scientifically accurate materials and responses": {
+  "label": "AI-generated instructional materials or responses vs human-generated or scientifically accurate materials",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-generated instructional outputs\tinstructional goals and learning objectives": {
+  "label": "AI-generated instructional outputs vs instructional goals and objectives",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-generated instructional videos\thuman-presented instructional videos": {
+  "label": "AI-generated instructional videos vs human-presented instructional videos",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-generated instructional videos\thuman-presented or instructor-recorded instruction": {
+  "label": "AI-generated instructional videos vs human-presented or instructor-recorded instruction",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-generated instructional videos\thuman-presented or instructor/course-staff-recorded videos": {
+  "label": "AI-generated instructional videos vs human-presented or instructor-recorded videos",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-generated instructional videos\tinstructor- or course-staff-recorded videos": {
+  "label": "AI-generated instructional videos vs instructor-recorded videos",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-generated instructional videos\tinstructor-led interaction and human educators": {
+  "label": "AI-generated instructional videos vs instructor-led interaction and human educators",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-generated interactive fiction scenario\tneutral midpoint of engagement scale": {
+  "label": "AI-generated interactive-fiction scenario vs neutral engagement midpoint",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-generated interactive-fiction scenario\tfive-point scale midpoint": {
+  "label": "AI-generated interactive-fiction scenario vs neutral five-point midpoint",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-generated interactive-fiction scenario\tneutral midpoint of the five-point rating scale": {
+  "label": "AI-generated interactive-fiction scenario vs neutral five-point midpoint",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-generated linear-drag video analyzed with Tracker and fitted using Excel Solver\tanalytical exponential linear-drag model": {
+  "label": "AI-generated linear-drag video analysis vs analytical linear-drag model",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-generated math visuals\tusable math visuals": {
+  "label": "AI-generated math visuals vs usable math visuals",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-generated math word problems\tmeaningful, coherent high-quality word problems": {
+  "label": "AI-generated math word problems vs high-quality coherent word problems",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-generated narrated animated traces\tmatched textual explanations": {
+  "label": "AI-generated narrated animated traces vs matched textual explanations",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-generated narrated animated traces\tstep-by-step textual explanations": {
+  "label": "AI-generated narrated animated traces vs step-by-step textual explanations",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-generated or heavily AI-scaffolded writing\tstudent writing involving epistemic labour and intellectual struggle": {
+  "label": "AI-generated or heavily AI-scaffolded writing vs student writing involving epistemic labour",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-generated or heavily AI-scaffolded writing\tstudent-authored writing with disciplinary positioning and an authentic voice": {
+  "label": "AI-generated or heavily AI-scaffolded writing vs student-authored disciplinary writing",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-generated output subjected to critical evaluation in PBL\tAI-generated output accepted without evaluation": {
+  "label": "Critical evaluation of AI output in PBL vs uncritical acceptance of AI output",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-generated personalized videos\thuman-recorded non-personalized videos": {
+  "label": "AI-generated personalized videos vs human-recorded non-personalized videos",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-generated physics materials\tnon-AI or human-generated materials": {
+  "label": "AI-generated physics materials vs non-AI or human-generated materials",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-generated physics responses\tscientifically accurate or human-validated responses": {
+  "label": "AI-generated physics responses vs scientifically accurate or human-validated responses",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-generated practice problems or testing prompts\tlearner-generated practice problems or self-selected testing": {
+  "label": "AI-generated practice problems vs learner-generated practice problems",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-generated real-time responses\tspontaneous unaided target-language responses": {
+  "label": "AI-generated real-time responses vs spontaneous unaided target-language responses",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-generated reference sources\treferences with an existing DOI or findable through Google": {
+  "label": "AI-generated reference sources vs existing or findable references",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-generated responses\tconventional teaching methods": {
+  "label": "AI-generated responses vs conventional teaching methods",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-generated responses\thuman responses": {
+  "label": "AI-generated responses vs human responses",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-generated responses\thuman-generated responses": {
+  "label": "AI-generated responses vs human-generated responses",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-generated revisions\tfirst drafts": {
+  "label": "AI-generated revisions vs first drafts",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-generated revisions\tpeer-feedback revisions": {
+  "label": "AI-generated revisions vs peer-feedback revisions",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-generated scientific abstracts after a self-edit prompt\tAI-generated scientific abstracts without the self-edit prompt": {
+  "label": "AI-generated scientific abstracts with self-edit prompt vs without self-edit prompt",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-generated short texts\tnot stated": {
+  "label": "AI-generated short texts vs unspecified comparator",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-generated skydiver video analyzed with Tracker\tquadratic-drag analytical model": {
+  "label": "AI-generated skydiver video analysis vs quadratic-drag analytical model",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-generated skydiving video analyzed with Tracker\tquadratic-drag analytical model": {
+  "label": "AI-generated skydiving video analysis vs quadratic-drag analytical model",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-generated slide decks and Python-based activities\tmaterials delivered by the authoring instructor only": {
+  "label": "AI-generated slide decks and Python activities vs instructor-only materials",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-generated sliding-block video analyzed with Tracker\tconstant-friction analytical model": {
+  "label": "AI-generated sliding-block video analysis vs constant-friction analytical model",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-generated sliding-block video tracked and fitted to the constant-friction model\tconstant-friction analytical model and literature friction range": {
+  "label": "AI-generated sliding-block video analysis vs analytical model and literature friction range",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-generated solutions\tnot stated": {
+  "label": "AI-generated solutions vs unspecified comparator",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-generated sphere-in-glycerin video analyzed with Tracker\tlinear-drag analytical model": {
+  "label": "AI-generated sphere-in-glycerin video analysis vs linear-drag analytical model",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-generated story visuals\tAI-generated story text and narration": {
+  "label": "AI-generated story visuals vs AI-generated story text and narration",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-generated summaries and translations\tunaided content-and-language learning": {
+  "label": "AI-generated summaries and translations vs unaided content-and-language learning",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-generated summaries or translations\tunaided work demonstrating genuine understanding": {
+  "label": "AI-generated summaries or translations vs unaided demonstration of understanding",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-generated task content\tstudent-completed tasks without AI generation": {
+  "label": "AI-generated task content vs student-completed tasks without AI generation",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-generated task products\tprocess-oriented task completion": {
+  "label": "AI-generated task products vs process-oriented task completion",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-generated text\thuman-authored text": {
+  "label": "AI-generated text vs human-authored text",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-generated text detection\tactual text authorship": {
+  "label": "AI-generated text detection vs actual authorship",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-generated video combined with tracking and curve fitting\tclassical analytical models": {
+  "label": "AI-generated video with tracking and curve fitting vs classical analytical models",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-generated vocal metrics treated as standalone scores or autonomous evaluation\tAI evidence interpreted through human learning and teacher mediation": {
+  "label": "Autonomous AI vocal metrics vs human-mediated interpretation of AI evidence",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-generated weekly reading artifacts\tcommercial textbook materials": {
+  "label": "AI-generated weekly reading artifacts vs commercial textbook materials",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-generated weekly readings\tblanket acceptance of AI-generated readings": {
+  "label": "AI-generated weekly readings vs blanket acceptance of AI-generated readings",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-generated weekly readings with the Class Companion\ta comparable course without AI assistance": {
+  "label": "AI-generated weekly readings with Class Companion vs comparable course without AI",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-guided PD positioning MC, CK, and PCK as integrated reasoning\tMC, CK, and PCK treated as isolated domains": {
+  "label": "AI-guided integrated pedagogical reasoning vs isolated knowledge domains",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-guided adaptive, nonjudgmental prompting\ttraditional or evaluative professional-development interaction": {
+  "label": "AI-guided adaptive nonjudgmental prompting vs traditional evaluative interaction",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-guided iterative interaction\tinteraction with human dialogue": {
+  "label": "AI-guided iterative interaction vs human dialogue",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-guided mathematical and pedagogical exploration\tprocedural mathematical engagement": {
+  "label": "AI-guided mathematical and pedagogical exploration vs procedural engagement",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-guided use\tover-dependence on AI": {
+  "label": "Guided AI use vs AI over-dependence",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-guided virtual trips\tno access to virtual trips or equivalent real-world setting": {
+  "label": "AI-guided virtual trips vs no virtual trips or equivalent real-world setting",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-handling practice in the GenAI workflow session\tanticipated transfer to external professional practice": {
+  "label": "AI-handling practice in workflow session vs anticipated professional transfer",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-incorporated dieting intervention\tcomparison condition": {
+  "label": "AI-incorporated dieting intervention vs comparison condition",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-integrated 5E media-literacy program\texperimental-group pre-intervention scores": {
+  "label": "AI-integrated media-literacy program vs pre-intervention scores",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-integrated PBL engaging complex or wicked problems\tPBL without AI limited to more manageable problems": {
+  "label": "AI-integrated PBL for complex problems vs non-AI PBL for manageable problems",
+  "treatment_is_a": true
+ },
+ "test-format\tproduction paradigm\tdecision paradigm": {
+  "label": "production paradigm vs decision paradigm",
+  "treatment_is_a": true
  }
 }

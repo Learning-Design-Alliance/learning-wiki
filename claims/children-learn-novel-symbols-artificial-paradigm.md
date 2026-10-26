@@ -53,3 +53,4 @@ Experiment 1, a within-subjects study of 74 children (6-10 years), trained parti
 - [Non-symbolic training improves collection comparison at ratios 1:2, 2:3 and 3:4, while symbolic training improves only ratio 1:2](nonsymbolic-training-improves-collection-comparison-ratios.md) — related
 - [Symbols-only training improved kindergarteners' performance on difficult place value items, but base-10 blocks training did not](symbols-only-training-improves-difficult-items.md) — related
 - [In Experiment 1, abstract representations produced better symbol learning than multiple concrete representations, but only for children who completed the concrete condition first](exp1-abstract-advantage-order-interaction.md) — related
+- [Understanding of the word \"more\" was not required to perform above chance on the numerical discrimination task](more-understanding-not-required-numerical-task.md) — related

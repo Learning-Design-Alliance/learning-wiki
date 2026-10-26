@@ -50,3 +50,5 @@ Pearson correlation analyses in the 36-participant sample related ERP predictabi
 - [CNV and P3 scalp topographies show a frontal shift with increasing age during adolescence](frontal-shift-cnv-p3-topographies-adolescence.md) — related
 - [Predictability enhances P3 amplitude, CNV amplitude, and shortens target-P3 latency equally at all ages, indexing mature prediction encoding, preparation, and implementation](prediction-erp-markers-no-age-differences.md) — related
 - [Reaction-time benefit from predictive context is similar across ages 12–24, suggesting mature prediction abilities by age 12](prediction-rt-benefit-mature-by-age-12.md) — related
+- [Instruction-related brain-state changes were not associated with behavioral improvements (null brain-behavior correlation)](no-brain-behavior-cap-behavior-associations.md) — reports the opposite
+- [Reaction times are faster for predictable targets, but the RT benefit of prediction diminishes with progressing age](rt-prediction-benefit-reduced-with-older-age.md) — related

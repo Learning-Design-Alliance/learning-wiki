@@ -69,3 +69,4 @@ Interaction term from the same evaluation-phase ANOVA; "the accuracy difference 
 - [Novel stimuli are recognized above chance only by the Traditional and Reversed algorithm groups, not by the Control group](novel-stimuli-above-chance-algorithm-groups-only.md) — related
 - [Across all mapping groups, pitch-based mapping and mental imagery emerge as the dominant cognitive strategies for interpreting sound-image associations](pitch-mapping-imagery-dominant-strategies.md) — related
 - [Structured algorithmic mappings (Traditional and Reversed) produce higher first-attempt learning accuracy than an arbitrary single-tone mapping in visual-to-auditory SSD learning](structured-mappings-facilitate-initial-ssd-learning.md) — related
+- [Introducing a novel audio-visual pairing in Block 2 produced a reliable accuracy decrease only among reading-matched controls](block2-novel-stimulus-decrease-reading-matched.md) — reports the opposite

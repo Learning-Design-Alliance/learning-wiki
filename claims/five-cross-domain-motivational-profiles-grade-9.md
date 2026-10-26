@@ -67,3 +67,4 @@ In the Results section on the latent profile analyses, the authors report that "
 - [Four distinct action-control belief profiles (agentic, moderate, avoidant, and mixed) emerge among Finnish ninth graders](four-action-control-belief-profiles-ninth-graders.md) — related
 - [Within each school subject, self-concept and the three value facets correlate positively with one another and negatively with opportunity cost](within-subject-value-facets-positive-cost-negative.md) — related
 - [Four integrative motivational profiles (Moderate-High All, Intrinsic and Confident, Average All, Very High All) were identified among upper elementary students.](study1-four-integrative-motivational-profiles-elementary.md) — related
+- [Three distinct racial-mathematical identity profiles emerge among Black adolescents and are robust across two time points one year apart](three-racial-mathematical-identity-profiles-lpa.md) — related

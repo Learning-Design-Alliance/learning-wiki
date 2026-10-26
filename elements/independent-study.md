@@ -13,7 +13,7 @@ generated:
 # Independent Study
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 9 claims (4 for, 3 mixed, 2 against) · 20 studies (7 review, 5 causal, 5 quant-synthesis, 2 theoretical, 1 qualitative), `q1`–`q4` · 5 of 20 report an effect size · 3 claims rest on one study
+> **Evidence** · 10 claims (4 for, 4 mixed, 2 against) · 21 studies (7 review, 5 causal, 5 quant-synthesis, 3 theoretical, 1 qualitative), `q1`–`q4` · 5 of 21 report an effect size · 4 claims rest on one study
 
 ## Description
 Independent study assigns learners primary responsibility for working through content, tasks, or inquiry without direct instructor mediation during the learning episode. The instructor's role shifts to designing the task, providing materials and structure, and checking progress, while the learner supplies pacing, persistence, and self-monitoring.
@@ -55,6 +55,7 @@ Independent study builds self-regulatory capacity and can be efficient for well-
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Faculty and student workshops diverged on pedagogical structure for project-based learning: instructor-driven formats versus student autonomy](../claims/divergence-structure-versus-autonomy-in-projects.md) [~W]
 - [Observed differentiation took place mainly through student independence and working pace, with lesson goals largely the same across groups](../claims/implementation-differentiation-independence-pace.md) [~W]
+- [Personalized learning systems that assume high student self-regulation can overburden students, so low performers learn less despite receiving skill-appropriate content](../claims/self-regulatory-burden-harms-low-performers.md) [~W]
 
 ## The evidence by question
 - *Should novices be left to discover the target content without support?* [Minimal guidance is less effective for novices than explicit instruction](../claims/minimal-guidance-less-effective-for-novices.md) [-S]

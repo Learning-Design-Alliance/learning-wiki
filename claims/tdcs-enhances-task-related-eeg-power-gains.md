@@ -72,3 +72,5 @@ Simple main effects analysis of 6-back gamma power showed no group effect at Pos
 - [EEG functional-connectivity classification models of CRA correctness differ by tDCS group and frequency band, with alpha-band models underperforming beta-band models specifically in the L+R− group](connectivity-models-vary-by-group-and-band.md) — related
 - [Anodal HD-tDCS over left dlPFC during multi-session working memory training yields larger d-prime improvements than sham that persist three weeks](tdcs-wmt-enhances-d-prime-lasting-three-weeks.md) — related
 - [Reaction times decreased with working memory training but were not additionally affected by tDCS](wmt-rt-decreases-unaffected-by-tdcs.md) — related
+- [Validation analyses find no generally reduced neural activity after mnemonic training, with increased alpha power uncorrelated with memory gains](no-processing-efficiency-neural-evidence.md) — reports the opposite
+- [After mnemonic training, children show increased left anterior frontal theta power for even- versus odd-position digits during encoding](theta-odd-even-pattern-post-mnemonic-training.md) — related

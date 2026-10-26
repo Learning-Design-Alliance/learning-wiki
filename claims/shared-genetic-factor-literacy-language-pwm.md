@@ -52,3 +52,5 @@ Multi-domain GSEM analysis (passage reading subset, N = 6453) of ALSPAC unrelate
 - [Reading fluency, spelling, phonemic awareness, listening comprehension and non-word repetition are moderately heritable (SNP-h2 30–50%) in unrelated youth](snp-heritability-30-50-percent-literacy-traits.md) — related
 - [Genetic factors underlying spelling accuracy at age 7 capture nearly all genetic variation in spelling accuracy at age 9](spelling-genetic-stability-age-7-to-9.md) — a narrower finding that bears on this claim
 - [Word reading speed carries a trait-specific genetic factor not present for passage reading accuracy](word-reading-speed-trait-specific-genetic-factor.md) — related
+- [A common genetic factor captures shared genetic influences across four reading-related traits and ADHD, with ADHD loading negatively and reading traits positively](common-genetic-factor-reading-traits-adhd.md) — related
+- [Nonword reading was excluded from the Genomic SEM model because its genetic correlations with word reading and spelling exceeded 1.0](nonword-reading-excluded-correlation-exceeds-one.md) — related

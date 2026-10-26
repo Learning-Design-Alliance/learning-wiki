@@ -60,10 +60,12 @@ Collaboration improves achievement when it is genuinely cooperative — positive
 6. Debrief both the content and the collaboration itself, so group process improves over time.
 
 ## Related Strategies
+
 - [Jigsaw](../strategies/jigsaw.md) — a high-interdependence variant where each member holds unique information
 - [Peer Instruction](../strategies/peer-instruction.md) — short-cycle collaboration around conceptual questions
 - [Reciprocal Teaching](../elements/reciprocal-teaching.md) — structured role-based group dialogue for reading comprehension
 - [Project-Based Learning](project-based-learning-pbl.md) — sustained collaborative work toward an authentic product
+- [Design learning tasks with high interdependence to promote student collaboration](design-high-interdependence-tasks-collaboration.md)
 
 ## Examples
 - **Jigsaw classroom** (Aronson) — students become "experts" in one segment and teach it to their home group; the original design specifically used interdependence to reduce intergroup bias ([jigsaw.org](https://www.jigsaw.org)).

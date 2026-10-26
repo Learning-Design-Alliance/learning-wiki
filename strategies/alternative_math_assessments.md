@@ -60,9 +60,11 @@ Timed tests impose pressure that consumes working memory resources needed for re
 5. Use results to plan targeted [Practice](../elements/practice.md) with spaced retrieval, rather than repeating whole-class timed drills [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+S].
 
 ## Related Strategies
+
 - [Number Talks](math-talks-number-talks.md) — a discussion routine that doubles as whole-class fluency assessment
 - [Formative Assessment](../patterns/formative-assessment.md) — the broader pattern these formats instantiate
 - [Spaced Retrieval Practice](spaced-retrieval-practice.md) — the practice mechanism that builds the fluency being assessed
+- [Use multiple-choice or game-based task formats and repeated exposure to reduce math anxiety, especially for high trait-anxious learners](multiple-choice-game-based-formats-reduce-math-anxiety.md)
 
 ## Examples
 - **"How Close to 100"** (youcubed, Stanford) — a dice-and-grid game in which learners repeatedly compute products in a purposeful context; the teacher observes fluency without any timed component. [https://www.youcubed.org](https://www.youcubed.org)

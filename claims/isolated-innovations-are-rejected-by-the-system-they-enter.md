@@ -130,3 +130,4 @@ A public-domain ERIC digest from 2000, drawn from Ellsworth's book *Surviving Ch
 - [A 2026 case-study brief describes a practical model of a coherent instructional system for reading and science improvement that school leaders can adapt](coherent-instructional-system-reading-science-case-study.md) — related
 - [Balancing the need for pilot-testing with the goal of scaled change is a common challenge to community college reform efforts](pilot-testing-versus-scaled-change-challenge.md) — related
 - [Reviewer judges Cameron's educational psychology textbook innovative for its chapters on the four main school subjects but finds its treatment of learning scanty](cameron-textbook-school-subject-chapters-innovation.md) — related
+- [Instructional technology is rejected when it mismatches the dominant pedagogy, as with the blackboard in monitorial schools](technology-pedagogy-mismatch-blackboard.md) — a narrower finding that bears on this claim

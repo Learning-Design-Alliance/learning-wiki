@@ -49,7 +49,7 @@ Regression analysis of the StudyChat corpus (1,540 sessions by 171 students), co
 - [PTA traits show stronger statistical explanatory power than dialogue-act and Bloom's taxonomy coded baselines on StudyChat](pta-traits-beat-dialogue-act-bloom-baselines.md) — related
 - [PTA traits significantly predict per-session success in the SWE-Chat developer corpus beyond a prior-outcome baseline](pta-traits-predict-swe-chat-session-success.md) — related
 - [In StudyChat, conceptual-understanding behaviors correlate positively with exam outcomes while task-delegating behaviors correlate negatively](studychat-conceptual-positive-delegation-negative.md) — related
-- [Trait-score trajectories over time are inconclusive as learning-curve evidence: one StudyChat trait increases while SWE-Chat traits stay flat](trait-temporal-trends-inconclusive-learning-curves.md) — related
+- [Trait-score trajectories over time are inconclusive as learning-curve evidence: one StudyChat trait increases while the significant SWE-Chat traits stay flat](trait-temporal-trends-inconclusive-learning-curves.md) — related
 - [Scaffolding level provides no consistent additional predictive information about subsequent exam performance beyond prior achievement and observed dialogue behavior](scaffolding-little-incremental-exam-prediction.md) — related
 - [Fall clusters of coding-question students trend toward higher exam scores than report-writer clusters](clustering-report-writers-lower-exam-scores.md) — related
 - [Sequential patterns of online PBL interactions predict final grades with higher explanatory power than interaction frequencies](sequence-patterns-beat-frequencies-pbl-grades.md) — related

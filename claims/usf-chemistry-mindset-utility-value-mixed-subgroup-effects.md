@@ -56,3 +56,4 @@ Randomized study of a general chemistry course innovation combining peer-based i
 - [A personal utility prompt in journal writing improves learning motivation and comprehension](personal-utility-prompt-motivation-comprehension.md) — related
 - [Utility-value interventions improve grades, with the largest gains for first-generation and underrepresented minority students, and can improve STEM persistence years later](utility-value-interventions-improve-grades-and-persistence.md) — reports the opposite
 - [In STEM courses taught by instructors with more fixed mindsets, underrepresented minority students' grade gaps are larger than in growth-mindset instructors' courses](fixed-mindset-instructors-larger-racial-grade-gaps.md) — related
+- [The growth-mindset performance advantage is driven by non-major courses, with no significant relationship for major courses](growth-mindset-effect-driven-by-non-major-courses.md) — related

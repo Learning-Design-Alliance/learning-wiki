@@ -51,3 +51,5 @@ EEG recorded pre- and post-training while participants performed a neural assess
 - [Older adults show reduced midline frontal theta power and frontal–posterior coherence relative to younger adults regardless of single- or multitasking condition](older-adults-baseline-theta-deficit-versus-younger.md)
 - [Training-induced increases in midline frontal theta power correlate with preserved multitasking gains at 6 months and with sustained attention improvement](theta-power-correlates-preserved-gains-attention.md)
 - [Multitasking performance on NeuroRacer declines linearly across the adult lifespan from ages 20 to 79](neuroracer-multitasking-cost-linear-age-decline.md) — related
+- [Validation analyses find no generally reduced neural activity after mnemonic training, with increased alpha power uncorrelated with memory gains](no-processing-efficiency-neural-evidence.md) — related
+- [After mnemonic training, children show increased left anterior frontal theta power for even- versus odd-position digits during encoding](theta-odd-even-pattern-post-mnemonic-training.md) — related

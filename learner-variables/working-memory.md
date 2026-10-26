@@ -13,7 +13,7 @@ generated:
 # Working Memory
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 111 claims (62 show a difference, 33 mixed, 16 no difference) · 90 studies (26 causal, 23 associational, 20 review, 11 quant-synthesis, 7 theoretical, 3 qualitative), `q1`–`q4` · 15 of 90 report an effect size · 104 claims rest on one study
+> **Evidence** · 113 claims (64 show a difference, 33 mixed, 16 no difference) · 92 studies (27 causal, 23 associational, 21 review, 11 quant-synthesis, 7 theoretical, 3 qualitative), `q1`–`q4` · 15 of 92 report an effect size · 106 claims rest on one study
 
 ## Description
 How much a learner can hold and manipulate at once. It is the best-evidenced dimension here and the most directly actionable: it converts into element counts per screen, whether two sources must be read together, and whether a problem is given whole or as a worked example. Capacity is near-fixed, but *effective* capacity is not — prior knowledge supplies the schemas that let several items be held as one, which is why the same screen overloads a novice and not an expert [~S].
@@ -154,6 +154,8 @@ How much a learner can hold and manipulate at once. It is the best-evidenced dim
 - [Predicted arithmetic scores correlate with visuospatial working memory but show poor correlation with verbal working memory](../claims/arithmetic-model-correlates-visuospatial-wm.md) [~M] — learners who differ on it differ in outcomes
 - [No reliable reduction in auditory prediction-error magnitude under high versus low cognitive load, with the load-by-surprise interaction absent in frequentist and Bayesian analyses](../claims/no-load-by-surprise-interaction-statistical-learning.md) [-M] — learners who differ on it differ in outcomes
 - [Statistical learning of probabilistic regularities persists under high concurrent cognitive load, with the surprise-by-variance effect preserved in both low- and high-load conditions](../claims/statistical-learning-preserved-under-high-cognitive-load.md) [-M] — learners who differ on it differ in outcomes
+- [22-day digit-image mnemonic training improves children's short-term digit memory relative to a no-contact control group](../claims/mnemonic-training-improves-children-digit-memory.md) [+W] — instruction changes it
+- [Students with higher working memory capacity benefited more from technology-enabled personalized learning than peers with lower working memory capacity](../claims/working-memory-moderates-personalized-learning-benefits.md) [+M] — an instructional effect differs with it
 
 ## The evidence by question
 

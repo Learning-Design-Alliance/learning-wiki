@@ -64,6 +64,7 @@ Test anxiety is a situational form of state anxiety that consumes working-memory
 - Mastery-based grading — retake policies convert a single threatening event into an iterative process
 - Expressive writing before assessment — the minimal, in-the-moment offloading intervention
 - [Use expressive writing before math situations to offload worry and protect working memory resources](expressive-writing-before-math.md)
+- [Manage pre-task expectation anxiety with cognitive restructuring or relaxation alongside gradual exposure to mathematics](manage-anticipatory-math-anxiety-strategy.md)
 
 ## Examples
 - **Ramirez & Beilock (2011)**: Ninth-grade students wrote about their exam worries for 10 minutes before final exams; anxious students' performance improved to match non-anxious peers. [doi:10.1126/science.1199427](https://doi.org/10.1126/science.1199427)

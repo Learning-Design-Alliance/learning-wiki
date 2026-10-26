@@ -99,3 +99,4 @@ The review synthesises behavioural outcomes across three guiding-analytics studi
 - [SRL training programmes improve SRL strategies, motivation, academic achievement and reduce anxiety across age groups](srl-training-programmes-improve-outcomes.md) — related
 - [An LLM-based Q&A practice system reduced presentation anxiety and improved perceived preparedness among first-time conference participants](llm-qa-practice-reduces-presentation-anxiety.md) — related
 - [LA-enhanced feedback practices are associated with improved student academic performance, the most frequently reported pedagogical objective (37% of studies)](la-feedback-academic-performance-improved.md) — related
+- [Personalized learning systems that assume high student self-regulation can overburden students, so low performers learn less despite receiving skill-appropriate content](self-regulatory-burden-harms-low-performers.md) — related

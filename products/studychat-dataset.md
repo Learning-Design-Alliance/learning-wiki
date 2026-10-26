@@ -30,7 +30,7 @@ StudyChat is a publicly available dataset released by Menggian Wu and collaborat
 - [Direction is observable in nearly all AI-mediated conversations, while Integration and Evaluation become progressively more observable as conversation length increases](../claims/direction-nearly-universal-integration-evaluation-rise-with-length.md) [+M]
 - [Assignment scores do not distinguish conversations in which all three observable dimensions appear from those in which at least one is not observed](../claims/no-stable-score-difference-by-die-coverage.md) [+M]
 - [PTA traits show stronger statistical explanatory power than dialogue-act and Bloom's taxonomy coded baselines on StudyChat](../claims/pta-traits-beat-dialogue-act-bloom-baselines.md) [~W]
-- [Trait-score trajectories over time are inconclusive as learning-curve evidence: one StudyChat trait increases while SWE-Chat traits stay flat](../claims/trait-temporal-trends-inconclusive-learning-curves.md) [~W]
+- [Trait-score trajectories over time are inconclusive as learning-curve evidence: one StudyChat trait increases while the significant SWE-Chat traits stay flat](../claims/trait-temporal-trends-inconclusive-learning-curves.md) [~W]
 
 ## Related Products and Programmes
 

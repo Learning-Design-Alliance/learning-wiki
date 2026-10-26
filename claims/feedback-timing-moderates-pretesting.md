@@ -100,3 +100,4 @@ The review reports that across three Kornell (2014) experiments with trivia fact
 - [Stepwise MCQs, which delay answer options by 4 s, enhance vocabulary retention significantly compared to standard MCQs in three of four experiments, measured days after practice.](stepwise-mcqs-enhance-vocabulary-retention.md) — related
 - [Delayed feedback lowers response rates in an instrumental task compared with immediate feedback](delayed-feedback-lowers-instrumental-response-rates.md) — related
 - [Vocabulary retention declines from immediate to 24-hour-delayed no-feedback testing, and goal-directed associations are more semantically distant but slower to produce than free associations](retention-declines-and-goal-directed-costs-more-effort.md) — related
+- [Cued recall testing with correct-answer feedback significantly enhances vocabulary learning across three consecutive tests](feedback-enhances-vocabulary-learning-across-consecutive-tests.md) — related

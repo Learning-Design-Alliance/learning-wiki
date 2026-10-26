@@ -48,3 +48,4 @@ Homeroom teacher ADHD-RS ratings in the same RCT. For teacher-rated inattention 
 - [NAT significantly reduced parent-rated inattention in children with ADHD relative to control (η²p = 0.46)](nat-parent-rated-inattention-improvement.md) — related
 - [Teacher-rated behavioral inattention was not uniquely predictive of any grade 1 math outcome despite significant zero-order correlations](behavioral-inattention-not-unique-predictor.md) — related
 - [Teacher-rated hyperactive/impulsive behavior did not predict any first-grade academic outcomes in children with low number sense](hyperactivity-impulsivity-no-prediction-academic-outcomes.md) — related
+- [Students and teachers report improved classroom listening during RMT use, with reduced teacher-rated inattention and hyperactivity](rmt-improves-reported-classroom-listening-and-adhd-symptoms.md) — related

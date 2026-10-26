@@ -13,7 +13,7 @@ generated:
 # Prior Knowledge
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 180 claims (110 show a difference, 51 mixed, 19 no difference) · 143 studies (43 causal, 31 review, 23 associational, 21 theoretical, 9 quant-synthesis, 8 qualitative, 8 design), `q1`–`q4` · 19 of 143 report an effect size · 163 claims rest on one study
+> **Evidence** · 181 claims (111 show a difference, 51 mixed, 19 no difference) · 144 studies (43 causal, 32 review, 23 associational, 21 theoretical, 9 quant-synthesis, 8 qualitative, 8 design), `q1`–`q4` · 19 of 144 report an effect size · 164 claims rest on one study
 
 ## Description
 A learner's existing domain knowledge in the subject area before instruction begins — the organized network of concepts, procedures, and experiences that new learning must connect to. It is typically operationalized as a pretest score, a standardized prior-achievement measure, or instructor-rated expertise level, and functions as the single strongest predictor of learning gains in most instructional research [~S]. Prior knowledge is the learner-side variable that drives the [Expertise Reversal Effect](../theories/expertise-reversal-effect.md): the same technique that helps novices can hinder more knowledgeable learners.
@@ -228,6 +228,7 @@ The Learner Variability Navigator's Core Academic Literacies factor belongs here
 - [Novices and experts benefit alike from problem analysis before reading; the treatment-by-expertise interaction is not significant](../claims/problem-analysis-benefits-novices-and-experts-alike.md) [-M] — an instructional effect differs with it
 - [An EXPERTISE × CONGRUENCY interaction in bilateral dorsal ACC shows the congruency effect on BOLD signal is larger for statements in biology, where participants hold basic expertise, than in physics](../claims/expertise-congruency-interaction-dorsal-acc.md) [~W] — an instructional effect differs with it
 - [Engineering students significantly outperform novices on a naturalistic free body diagram task measuring Newtonian force knowledge](../claims/engineering-students-outperform-novices-fbd-task.md) [+M] — learners who differ on it differ in outcomes
+- [Students with lower cognitive abilities and prior knowledge are less capable of self-regulating their learning and require more instructional support, known as the expertise-reversal effect](../claims/expertise-reversal-effect-self-regulation-support.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does knowing more beforehand mean learning more from the instruction?* [Prior Knowledge Determines New Learning](../claims/prior-knowledge-determines-new-learning.md) [+M]

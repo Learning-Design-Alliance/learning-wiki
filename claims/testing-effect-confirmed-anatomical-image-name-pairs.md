@@ -70,3 +70,4 @@ Experiment 2, a mixed two-factor design with 124 university students (individual
 - [Retrieval practice improves long-term retention](retrieval-practice-improves-retention.md) — a broader claim this one bears on
 - [Repeated test-restudy trials produced higher final cued recall than study-only or single test-restudy controls across both experiments](test-restudy-beats-controls.md) — related
 - [Retrieval practice with feedback yields higher recall than restudy, which yields higher recall than no-feedback retrieval practice](feedback-retrieval-outperforms-restudy-and-nrp.md) — related
+- [A behavioral comparison sample confirms a typical testing effect (repeated testing with feedback vs repeated study) one week after intervention](testing-effect-confirmed-one-week-behavioral-sample.md) — possibly the same claim (merge candidate)

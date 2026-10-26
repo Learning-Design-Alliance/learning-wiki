@@ -13,7 +13,7 @@ generated:
 # General Cognitive Ability
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 133 claims (83 show a difference, 31 mixed, 19 no difference) · 95 studies (39 associational, 29 causal, 11 review, 8 quant-synthesis, 7 theoretical, 1 qualitative), `q1`–`q4` · 25 of 95 report an effect size · 130 claims rest on one study
+> **Evidence** · 135 claims (84 show a difference, 31 mixed, 20 no difference) · 97 studies (39 associational, 30 causal, 12 review, 8 quant-synthesis, 7 theoretical, 1 qualitative), `q1`–`q4` · 25 of 97 report an effect size · 132 claims rest on one study
 
 ## Description
 General cognitive ability is what intelligence and reasoning tests measure: fluid reasoning, crystallised knowledge and processing speed. It is a strong predictor of achievement, and research uses it as a covariate and as a moderator: some designs, such as highly structured instruction, help lower-ability learners more, while discovery-based designs can favour higher-ability learners (aptitude-treatment interactions). It overlaps with [prior knowledge](prior-knowledge.md) and [working memory](working-memory.md), and studies often cannot separate them.
@@ -169,6 +169,8 @@ General cognitive ability is what intelligence and reasoning tests measure: flui
 - [Cognitive ability interacts with parental education in predicting self-reported grades at both timepoints, but the authors judge the effect size negligible and not practically relevant](../claims/cognition-parental-education-interaction-grades.md) [~M] — an instructional effect differs with it
 - [Neighborhood deprivation is no longer a statistically significant predictor of self-reported grades once cognitive ability is included in the models, and models including cognition fit better](../claims/neighborhood-deprivation-nonsignificant-with-cognition.md) [+M] — learners who differ on it differ in outcomes
 - [Non-verbal IQ mildly predicts the reading fluency advantage obtained during SFA-On periods, with lower-IQ students benefiting more](../claims/iq-predicts-soundfield-effect-score.md) [+M] — an instructional effect differs with it
+- [Baseline cognitive abilities do not significantly predict the size of ACT-related speech-in-noise improvement](../claims/baseline-cognition-does-not-predict-act-benefit.md) [-W] — learners who differ on it differ in outcomes
+- [Students with lower cognitive abilities and prior knowledge are less capable of self-regulating their learning and require more instructional support, known as the expertise-reversal effect](../claims/expertise-reversal-effect-self-regulation-support.md) [+W] — an instructional effect differs with it
 
 ## The evidence by question
 - *Does a learner's general cognitive ability predict how well they achieve, and how much of achievement does it explain?* [Secondary academic performance is predicted by cognitive ability more strongly than by curiosity](../claims/cognitive-ability-predicts-secondary-gpa-more-than-curiosity.md) [+M]

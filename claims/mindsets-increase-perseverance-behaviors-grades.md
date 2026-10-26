@@ -73,3 +73,4 @@ Review synthesis in Chapter 2 of psychological evidence on mindsets. The review 
 - [Within-student differences in noncognitive factors are associated with differences in course grades across the same student's classes](within-student-noncognitive-factors-relate-to-grades.md) — a narrower finding that bears on this claim
 - [Personal resources have a reciprocal relationship with study resources and relate to engagement and achievement](personal-resources-reciprocal-study-resources.md) — related
 - [Sense of belonging in learning contexts is robustly associated with psychological well-being, academic motivation, and academic performance](belonging-associated-wellbeing-motivation-performance.md) — related
+- [The growth-mindset performance advantage is driven by non-major courses, with no significant relationship for major courses](growth-mindset-effect-driven-by-non-major-courses.md) — a narrower finding that bears on this claim

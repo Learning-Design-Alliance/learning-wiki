@@ -69,3 +69,4 @@ Convenience-sample material test (final N = 239, ages 18–69) validating the br
 - [Narrative comprehension increases from low to high education, independent of narrative codality](narrative-comprehension-increases-with-education.md) — related
 - [Textual slide content yields a small comprehension advantage over pictorial slide content in speeded audio-visual lectures, with no effect of speed](textual-beats-pictorial-slides-speeded-lectures.md) — reports the opposite
 - [Combining textual and pictorial glosses improves incidental vocabulary learning more than single-mode glosses](multimodal-glosses-improve-incidental-vocabulary-learning.md) — related
+- [Participants comprehended expository texts better than narrative texts, and comprehension performance did not correlate with print exposure](expository-comprehension-better-than-narrative.md) — related

@@ -50,3 +50,5 @@ Quasi-experimental field study comparing 105 seminar students across seven cours
 - [Seminar group membership remained a significant predictor of improvement after controlling for pretest scores (η²p = 0.075)](seminar-ancova-group-effect.md) — related
 - [Recent studies found LSAT-measured effect sizes three times smaller than CCTST-measured effect sizes for critical-thinking training](lsat-effect-sizes-smaller-than-cctst.md) — related
 - [Students rated the seminar highly and many reported transferring argument visualization to other coursework](seminar-student-ratings-transfer-reports.md) — related
+- [A 6-week LSAT Logic Games course produced greater improvement on a composite of four visuospatial reasoning assessments than a Reading Comprehension course](lsat-logic-games-transfer-composite-reasoning.md) — related
+- [LSAT practice showed no evidence of far transfer to planning, working memory, selective attention, or verbal comprehension](lsat-practice-no-far-transfer.md) — related

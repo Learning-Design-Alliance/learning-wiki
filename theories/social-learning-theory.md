@@ -12,7 +12,7 @@ generated:
 # Social Learning Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 21 claims (10 for, 8 mixed, 3 against) · 13 studies (6 causal, 2 quant-synthesis, 2 review, 2 associational, 1 qualitative), `q1`–`q3` · 5 of 13 report an effect size · 21 claims rest on one study
+> **Evidence** · 22 claims (11 for, 8 mixed, 3 against) · 14 studies (7 causal, 2 quant-synthesis, 2 review, 2 associational, 1 qualitative), `q1`–`q3` · 6 of 14 report an effect size · 22 claims rest on one study
 
 ## Description
 Social Learning Theory, developed primarily by Albert Bandura, proposes that learning occurs not only through direct reinforcement (as behaviorism holds) but also through observation of others and the cognitive processing of those observations. The core mechanism is *modeling*: learners observe a model performing a behavior, encode the behavioral pattern, and reproduce it — with reproduction mediated by attention, retention, motor reproduction, and motivation. Bandura's Bobo doll studies (Bandura, Ross, & Ross, 1961) are the theory's signature demonstration: children who watched an adult model act aggressively toward an inflatable doll reproduced that aggression themselves. Observational learning can occur in at least three ways (Lefrançois, 2012): a learner acquires an entirely new response; a learner decides whether to imitate a model based on what happened to the model; or a learner extracts a general rule applicable beyond the specific modeled instance. Bandura distinguished three kinds of models: a **live model** demonstrates the behavior in person; a **verbal instructional model** describes or explains the behavior without performing it (e.g., a coach describing correct kicking technique); and a **symbolic model** is a real or fictional figure demonstrating behavior through media (books, film, television, video games, the internet).
@@ -72,6 +72,7 @@ Social Cognitive Theory is not a fully unified theory: the literature offers no 
 - [The copying effect on described ability was driven by a mixed-strategy subgroup, while pure observational outcome learners showed no description-sensitive learning rates](../claims/subgroup-heterogeneity-observational-learning.md) [~W]
 - [Reinforcement learning modeling revealed avoidance of choices made by demonstrators described as Worst, with description affecting copying rather than observational outcome learning](../claims/rl-avoidance-of-worst-demonstrators.md) [~W]
 - [Participants performed equally well regardless of whether demonstrators were described as high or low in ability, failing to replicate a prior performance advantage](../claims/no-performance-benefit-described-demonstrator-ability.md) [~W]
+- [Observing peers' evaluations significantly updates participants' own snack evaluations in the direction of the peers' ratings](../claims/social-learning-feedback-updates-evaluations.md) [+W]
 
 ## Related Theories
 

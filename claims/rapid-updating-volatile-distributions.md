@@ -51,3 +51,4 @@ Exp 3c (detection) showed a significant Freq × Block interaction (p = 2.495e-5,
 - [Distributional learning across a task-irrelevant dimension slows duration decisions for low-probability frequencies](task-irrelevant-distribution-slows-duration-decisions.md) — related
 - [Graded proximity effects: equiprobable rare tones near a distribution mode are detected better than distant ones](proximity-to-mode-graded-detection.md) — related
 - [Massed exposure to a single frequency produces lasting suppression of detection at distant frequencies](massed-single-frequency-suppression.md) — related
+- [Detection of motion discrepancies increases with both perturbation magnitude and duration, with response times decreasing with magnitude](detection-scales-with-magnitude-and-duration.md) — related

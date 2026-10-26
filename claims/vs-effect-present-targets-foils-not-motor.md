@@ -52,3 +52,4 @@ Third GLM modeling HIT, CR, MISS, FP separately, with one-sample t-tests in bila
 - [Ventral striatum response to correct responses scales with working memory load in youth](vs-response-scales-with-working-memory-load.md) — related
 - [Post-error slowing occurs in the 2-back condition despite absence of feedback](post-error-slowing-two-back-no-feedback.md) — related
 - [Adolescents show disproportionately greater false alarms on happy no-go trials with heightened ventral striatum activity](adolescent-happy-nogo-false-alarm-ventral-striatum.md) — related
+- [The first successful retrieval elicits strongest activity in bilateral ventral striatum and fronto-striatal regions, with marked reduction over subsequent successful retrievals](first-successful-retrieval-ventral-striatum-activity-reduction.md) — related

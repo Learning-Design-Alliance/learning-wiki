@@ -58,9 +58,11 @@ The strategy exploits dual coding — pairing verbal rhymes with vivid images cr
 5. [Enhance Retention and Transfer](../elements/enhance-retention-and-transfer.md) through spaced review sessions across days and weeks.
 
 ## Related Strategies
+
 - [Acronyms and Acrostics](acronyms_and_acrostics.md) — the other major verbal mnemonic; pegwords add order and imagery that acronyms lack
 - [Keyword Method](keyword-method.md) — the same rhyme-and-image mechanism applied to vocabulary rather than ordered lists
 - [Spaced Repetition](../elements/spaced-repetition.md) — the schedule that maintains pegword associations over time
+- [Teach even-odd digit-pair-to-image encoding as a memory aid in educational and training programs](digit-image-pair-image-encoding-strategy.md)
 
 ## Related Elements
 - [Demonstration](../elements/demonstration.md) — modeling image formation is the critical instructional step

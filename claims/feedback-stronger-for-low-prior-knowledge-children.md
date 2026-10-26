@@ -56,3 +56,4 @@ Moderator synthesis across 25 papers examining individual differences: "children
 - [Learners with high prior knowledge benefit more from segmenting in retention performance than learners with no or low prior knowledge](prior-knowledge-moderates-segmenting-retention.md) — related
 - [Imagining worked examples benefits learners with adequate prior knowledge but harms performance for low-knowledge learners](imagined-worked-examples-prior-knowledge.md) — related
 - [In the few studies that split by ability, learning techniques helped low-ability students and not high-ability students](learning-techniques-benefit-low-ability-not-high-ability-students.md) — related
+- [Students with lower cognitive abilities and prior knowledge are less capable of self-regulating their learning and require more instructional support, known as the expertise-reversal effect](expertise-reversal-effect-self-regulation-support.md) — related

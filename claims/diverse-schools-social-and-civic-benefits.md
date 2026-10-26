@@ -78,3 +78,4 @@ The report's narrative review states this benefit of attending diverse schools, 
 - [Direct one-on-one interaction with community partners is reported to help students see community members as people rather than stereotypes](csl-one-on-one-partner-contact-disrupts-stereotypes.md) — related
 - [Magnet schools typically show positive effects on achievement, graduation, motivation, and integration, though integration varies widely by district](magnet-schools-positive-effects.md) — related
 - [Domestic study away experiences with experiential and cross-cultural elements can be as effective as international experiences for multicultural competence and critical thinking](domestic-study-away-as-effective-as-international.md) — a narrower finding that bears on this claim
+- [Magnet schools show significantly lower cultural and critical mathematics instruction and higher racial stereotyping than neighborhood schools](magnet-schools-lower-ccmi-higher-stereotyping.md) — related

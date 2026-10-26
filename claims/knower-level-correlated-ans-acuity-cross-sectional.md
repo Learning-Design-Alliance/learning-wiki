@@ -55,3 +55,4 @@ Cross-sectional analyses of 42 children (S2) and 39 children (S5) in the six-mon
 - [Vocabulary adds significantly to predicting knower-level after age, but age does not add after vocabulary, suggesting age does not mediate the vocabulary–number-knowledge link.](vocabulary-predicts-knower-level-beyond-age-hierarchical-regression.md) — related
 - [Early ANS acuity (accuracy and RT) uniquely predicts preschoolers' math ability six months later, controlling for initial math ability, age, and expressive vocabulary](early-ans-acuity-predicts-math-growth-preschoolers.md) — related
 - [ANS acuity is a unique concurrent predictor of preschool math ability beyond expressive vocabulary, non-numerical attention RT, and memory span](ans-acuity-unique-concurrent-predictor-beyond-domain-general.md) — related
+- [Vocabulary is not a significant predictor of performance on the numerical tasks when Hearing Age is included](vocabulary-not-predictor-numerical-tasks.md) — related

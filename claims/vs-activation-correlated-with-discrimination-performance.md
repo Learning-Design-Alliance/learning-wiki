@@ -50,3 +50,4 @@ VS ROI mixed-model analysis testing performance effects on COR>INCOR activation.
 - [Working memory load degrades discrimination accuracy and slows responses in youth](load-degrades-discrimination-and-slows-responses.md) — related
 - [Ventral striatum activation to correct responses peaks in mid-adolescence at approximately age 16](vs-activation-peaks-mid-adolescence.md) — related
 - [Ventral striatum response to correct responses scales with working memory load in youth](vs-response-scales-with-working-memory-load.md) — related
+- [The first successful retrieval elicits strongest activity in bilateral ventral striatum and fronto-striatal regions, with marked reduction over subsequent successful retrievals](first-successful-retrieval-ventral-striatum-activity-reduction.md) — related

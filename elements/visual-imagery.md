@@ -85,9 +85,11 @@ Imagery-based encoding improves recall and comprehension because information sto
 - [Visual Imagery four-step spelling strategy used as the comparison intervention in the 1990 RCT](visual-imagery-four-step-spelling-strategy.md)
 
 ## Examples
+
 - **[Reciprocal Teaching](../strategies/reciprocal_teaching.md) (Palincsar & Brown)** — includes "visualizing" as one of the comprehension strategies students are explicitly taught to apply while reading
 - **Keyword mnemonics in vocabulary instruction** — learners form an interactive image linking a new word's sound to its meaning; a well-replicated imagery-based mnemonic, especially for foreign-language vocabulary
 - **Story mapping in elementary reading programs** — learners picture and then sketch settings and character goals, converting narrative text into spatial imagery
+- [Teach even-odd digit-pair-to-image encoding as a memory aid in educational and training programs](../strategies/digit-image-pair-image-encoding-strategy.md)
 
 ## Key Sources
 - Paivio, A. (1971). *Imagery and verbal processes*. Holt, Rinehart and Winston.

@@ -13,7 +13,7 @@ generated:
 # Attention
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 26 claims (18 for, 5 mixed, 3 against) · 36 studies (12 causal, 12 review, 7 quant-synthesis, 2 associational, 2 qualitative, 1 design), `q1`–`q4` · 6 of 36 report an effect size · 19 claims rest on one study
+> **Evidence** · 27 claims (18 for, 6 mixed, 3 against) · 37 studies (13 causal, 12 review, 7 quant-synthesis, 2 associational, 2 qualitative, 1 design), `q1`–`q4` · 7 of 37 report an effect size · 20 claims rest on one study
 
 ## Description
 Attention is the gateway to learning: information that is not attended to is not encoded, regardless of its quality or presentation. As an instructional element, "attention" refers to the deliberate design moves — signaling, salience, segmentation, and distraction management — that direct learners' limited attentional resources toward the content and interactions that matter.
@@ -71,6 +71,7 @@ Because working memory is severely limited and attention is selective, instructi
 - [In Experiment 1, differences-matter instruction shifted learners' self-reported effort allocation toward detecting differences and away from detecting commonalities](../claims/differences-matter-instruction-shifts-effort-allocation.md) [+W]
 - [Explicit attention-focusing and discrepancy-detection interventions largely reduce susceptibility; mindfulness interventions do not](../claims/attention-focusing-discrepancy-detection-reduces-susceptibility.md) [+W]
 - [Anthropomorphic and colour features can capture and guide attention, overlapping with the signaling principle](../claims/emotional-design-attention-guidance-signaling-overlap.md) [+W]
+- [Orientation learning with salient task-irrelevant color (Experiment 4) is smaller than orientation learning under global feedback (Experiment 1) or attended single-feature training (Experiment 3), but not smaller than feature-specific feedback (Experiment 2)](../claims/irrelevant-color-impairs-orientation-learning.md) [~W]
 
 ## The evidence by question
 - *Do cues that highlight the essential material and its organisation improve learning, and by how much?* [Signaling Improves Learning](../claims/signaling-improves-learning.md) [+S]

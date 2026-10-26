@@ -13,7 +13,7 @@ generated:
 # Creativity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 95 claims (67 show a difference, 22 mixed, 6 no difference) · 49 studies (16 causal, 13 associational, 11 review, 4 quant-synthesis, 3 design, 2 theoretical), `q1`–`q3` · 12 of 49 report an effect size · 93 claims rest on one study
+> **Evidence** · 98 claims (68 show a difference, 24 mixed, 6 no difference) · 50 studies (16 causal, 14 associational, 11 review, 4 quant-synthesis, 3 design, 2 theoretical), `q1`–`q3` · 13 of 50 report an effect size · 96 claims rest on one study
 
 ## Description
 Creativity as a learner characteristic is the ability to produce ideas that are both new and fitting. It is most often measured with divergent-thinking tests (how many and how varied the uses someone can find for an object). It correlates with intelligence and with achievement, including in mathematics, where generating several solution paths may deepen understanding. Creativity can also be an outcome that instruction aims at; this page is about learners who differ in it.
@@ -130,6 +130,9 @@ Creativity as a learner characteristic is the ability to produce ideas that are 
 - [Associative thinking partially mediates the relationship between creativity and vocabulary learning, and fully mediates it when intelligence is controlled](../claims/associative-thinking-mediaties-creativity-learning-link.md) [+M] — learners who differ on it differ in outcomes
 - [Higher TORR scores, especially antinomy, predict more creative engineering design solutions](../claims/torr-predicts-creative-engineering-design.md) [+M] — learners who differ on it differ in outcomes
 - [Interpersonal feedback improved creativity acquisition more than one-way feedback, irrelevant communication, or no feedback](../claims/if-improves-creativity-acquisition.md) [+M] — instruction changes it
+- [General question-asking ability remained stable or declined over the semester, with AQT originality showing a large significant decrease and complexity unchanged](../claims/general-question-asking-declines-over-semester.md) [~M] — instruction changes it
+- [Higher question-asking originality and complexity were negatively correlated with closed-ended multiple-choice exam performance](../claims/question-originality-complexity-negative-exam.md) [+M] — learners who differ on it differ in outcomes
+- [Question-asking originality and complexity positively correlated with open-ended group project performance, while fluency measures correlated negatively](../claims/question-asking-positive-open-ended-project.md) [~M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

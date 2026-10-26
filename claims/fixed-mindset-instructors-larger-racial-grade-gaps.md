@@ -52,3 +52,4 @@ Correlational field study at a large four-year university measured the mindset b
 - [Utility-value interventions improve grades, with the largest gains for first-generation and underrepresented minority students, and can improve STEM persistence years later](utility-value-interventions-improve-grades-and-persistence.md) — related
 - [Growth mindset interventions improve math outcomes, particularly for disadvantaged and high-risk students, but effects depend on a supportive teacher-mindset context](growth-mindset-interventions-conditional-teacher-context.md) — related
 - [Students overwhelmingly categorize specific teaching practices as signaling growth versus fixed instructor mindsets](teaching-practices-signal-mindset-to-students.md) — related
+- [The growth-mindset performance advantage is driven by non-major courses, with no significant relationship for major courses](growth-mindset-effect-driven-by-non-major-courses.md) — related

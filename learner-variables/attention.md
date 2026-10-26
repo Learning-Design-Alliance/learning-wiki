@@ -13,7 +13,7 @@ generated:
 # Attention
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 123 claims (85 show a difference, 24 mixed, 14 no difference) · 95 studies (26 causal, 25 associational, 20 review, 12 quant-synthesis, 5 qualitative, 5 design, 2 theoretical), `q1`–`q4` · 18 of 95 report an effect size · 118 claims rest on one study
+> **Evidence** · 126 claims (86 show a difference, 26 mixed, 14 no difference) · 97 studies (28 causal, 25 associational, 20 review, 12 quant-synthesis, 5 qualitative, 5 design, 2 theoretical), `q1`–`q4` · 20 of 97 report an effect size · 121 claims rest on one study
 
 ## Description
 How long a learner can sustain focus, and how readily something else takes it. Distinct from [working memory](working-memory.md): attention governs what *reaches* the store, capacity governs what it holds. It converts into segment length, distractor design, and how much a page may hold in one uninterrupted run. The design lever is mostly subtractive — the strongest findings here are about what to remove [-M].
@@ -161,6 +161,9 @@ How long a learner can sustain focus, and how readily something else takes it. D
 - [Cognitive control (attention switching) shows no significant relationship with neural activation during the emotional counting Stroop task](../claims/cognitive-control-no-significant-neural-relationship.md) [-M] — learners who differ on it differ in outcomes
 - [The two unfavorable profiles differ significantly only in sustained attention, while both differ from the favorable profile in prior and post-test fraction knowledge](../claims/unfavorable-profiles-differ-attention-only.md) [+M] — learners who differ on it differ in outcomes
 - [A 12-week moderate-intensity Tai Chi intervention reduces attentional bias scores in men with MUD more than moderate-intensity treadmill running](../claims/tai-chi-reduces-attentional-bias-mud.md) [+M] — instruction changes it
+- [Long-term RMT use accelerates reading fluency gains in inattentive children compared to controls over a 30-week extension](../claims/rmt-accelerates-reading-fluency-over-30-weeks.md) [+W] — an instructional effect differs with it
+- [Off-training cognitive transfer shows gains in working memory and focused attention for the ACT group only, with no significant group-by-session interactions](../claims/act-off-training-transfer-mixed.md) [~M] — instruction changes it
+- [RMT improves auditory attention, sustained auditory attention and auditory response control, with no significant improvement on visual attention measures](../claims/rmt-improves-auditory-not-visual-attention.md) [~M] — instruction changes it
 
 ## The evidence by question
 - *Does making material more interesting with details that do not carry the target cost learning?* [Interesting but irrelevant details can impair comprehension and transfer, with effects that vary with the material and the learner](../claims/seductive-details-effect.md) [+S]

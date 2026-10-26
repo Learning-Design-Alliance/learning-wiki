@@ -56,3 +56,4 @@ Whole-group random-effects fMRI main-effect analysis of model-derived RPEs enter
 - [Mentalizing-network regions (TPJ, STS, dmPFC, MTG) signal social prediction errors beyond ToM tasks](mentalizing-network-social-prediction-error.md) — related
 - [Feedback-stage reward prediction errors, signed or unsigned, do not modulate memory in either learning condition](feedback-rpe-no-memory-effect.md) — related
 - [Computational models of the amygdala are scarce relative to other brain areas, with a PubMed search yielding ~30 times fewer citations than for 'cortex'](amygdala-modelling-citations-scarcity.md) — related
+- [Following retrieval failure, feedback is accompanied by elevated prefrontal activity (outside VS), identified only at a lenient threshold](post-failure-feedback-prefrontal-activity-lenient-threshold.md) — related

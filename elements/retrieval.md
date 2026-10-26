@@ -13,7 +13,7 @@ generated:
 # Retrieval
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 21 claims (10 for, 9 mixed, 2 against) · 23 studies (14 causal, 4 quant-synthesis, 4 review, 1 theoretical), `q2`–`q4` · 11 of 23 report an effect size · 19 claims rest on one study
+> **Evidence** · 24 claims (10 for, 12 mixed, 2 against) · 24 studies (15 causal, 4 quant-synthesis, 4 review, 1 theoretical), `q2`–`q4` · 11 of 24 report an effect size · 22 claims rest on one study
 
 ## Description
 Retrieval practice (the "testing effect") requires learners to pull information out of memory — via free recall, short-answer questions, quizzes, or self-explanation — instead of passively reviewing it. The act of successful retrieval itself modifies memory, making the retrieved knowledge more accessible later than equivalent time spent re-reading.
@@ -70,6 +70,9 @@ Retrieval is one of the most robust findings in learning science: testing as a l
 - [The overcoming-barriers intervention does not reduce perceived time-and-effort cost of retrieval practice at either time point](../claims/overcoming-barriers-intervention-no-perceived-cost-reduction.md) [~W]
 - [Exploratory analysis finds moderate-magnitude correlation between central fast spindle density and retention of no-feedback retrieval-practice items](../claims/fast-spindle-density-correlates-nrp-retention.md) [~W]
 - [ERP components in distinct time windows index retrieval attempt and post-retrieval re-encoding](../claims/erp-time-windows-retrieval-and-re-encoding.md) [~W]
+- [Feedback played little, if any, role in brain-activity modulation after the first successful retrieval](../claims/feedback-little-role-after-first-successful-retrieval.md) [~W]
+- [The first successful retrieval elicits strongest activity in bilateral ventral striatum and fronto-striatal regions, with marked reduction over subsequent successful retrievals](../claims/first-successful-retrieval-ventral-striatum-activity-reduction.md) [~W]
+- [Following retrieval failure, feedback is accompanied by elevated prefrontal activity (outside VS), identified only at a lenient threshold](../claims/post-failure-feedback-prefrontal-activity-lenient-threshold.md) [~W]
 
 ## The evidence by question
 - *Does retrieving material (quizzes, practice tests, recall) improve later retention more than restudying it?* [Retrieval practice improves long-term retention](../claims/retrieval-practice-improves-retention.md) [+S]

@@ -13,7 +13,7 @@ generated:
 # Syntax
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 36 claims (22 show a difference, 7 mixed, 7 no difference) · 27 studies (8 associational, 6 causal, 6 review, 4 quant-synthesis, 2 theoretical, 1 design), `q2`–`q3` · 1 of 27 report an effect size · 33 claims rest on one study
+> **Evidence** · 38 claims (22 show a difference, 8 mixed, 8 no difference) · 28 studies (9 associational, 6 causal, 6 review, 4 quant-synthesis, 2 theoretical, 1 design), `q2`–`q3` · 1 of 28 report an effect size · 35 claims rest on one study
 
 ## Description
 Syntax is knowledge of how sentences work: how the order of words, the arrangement of clauses and the use of punctuation change what a sentence means. Readers draw on it to work out who did what to whom in a long sentence, and writers draw on it to turn an idea into a sentence that says what they intend. It is assessed through samples of a learner's speech or writing, coded for features such as words per clause and clauses per sentence, and through standardised language batteries with syntax subtests.
@@ -74,6 +74,8 @@ Syntactic knowledge starts to develop in early childhood and keeps growing throu
 - [Discourse-level oral language is directly predicted by theory of mind, vocabulary, and working memory, but not inference or grammatical knowledge, in Grade 1](../claims/discourse-oral-language-predicted-by-tom-vocabulary-working-memory.md) [-M] — learners who differ on it differ in outcomes
 - [A general oral language factor comprising syntax and vocabulary indicators significantly predicts reading comprehension in all grades 4–10, in models whose latent factors together account for 72%–99% of its variance](../claims/general-oral-language-factor-predicts-comprehension.md) [+M] — learners who differ on it differ in outcomes
 - [Specific syntax and vocabulary factors uniquely predicted reading comprehension in only one grade each (syntax in 4th, vocabulary in 7th)](../claims/specific-syntax-vocabulary-factors-unique-one-grade-each.md) [+M] — learners who differ on it differ in outcomes
+- [Children with dyslexia performed lower than both control groups on reading, reading-related and cognitive skills except nonverbal reasoning and syntactic comprehension](../claims/dd-lower-cognitive-reading-profile.md) [-M] — learners who differ on it differ in outcomes
+- [Non-phonological cognitive skills correlate with AV learning efficiency: syntactic comprehension in reading-matched and DD groups, cognitive flexibility in DD, and verbal working memory in age-matched children](../claims/nonphonological-skills-correlate-av-learning.md) [~M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Measures of syntactic complexity** (Beers & Nagy, 2007): Student writing samples are coded to identify how many words per clause and clauses per T-units (sentences) students use.

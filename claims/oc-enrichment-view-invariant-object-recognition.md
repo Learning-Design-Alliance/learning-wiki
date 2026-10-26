@@ -25,7 +25,6 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
-> **Design limits** · Gattas 2022: the intervention came bundled with another change (read from the study by two models, 2026-10-26)
 
 ## Subclaims
 `q2 i?` No significant overall group effect was observed on view-invariant object recognition, but EH mice showed a significant preference for the rotated object whereas the OC group explored rotated and non-rotated objects equally. [→ Gattas 2022](#gattas-2022)
