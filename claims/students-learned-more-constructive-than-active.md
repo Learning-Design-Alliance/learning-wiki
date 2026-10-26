@@ -50,3 +50,4 @@ In the 5-year translation project, teachers designed and implemented lesson plan
 - The largest learning gain in the ICAP hierarchy occurs when moving from the Active to the Constructive mode — related
 - Included AI literacy activities spanned all four ICAP modes, with passive modes in nine studies, active in five, constructive in seven, and interactive in eight — related
 - [The ICAP hypothesis predicts that learning increases as engagement moves from passive to active to constructive to interactive (I>C>A>P)](icap-hypothesis-learning-increases-i-cap.md) — a broader claim this one bears on
+- [No systematic evaluation exists of the ICAP hypothesis that engagement modes are ordered I > C > A > P in effectiveness](no-systematic-evaluation-icap-hierarchy.md) — related

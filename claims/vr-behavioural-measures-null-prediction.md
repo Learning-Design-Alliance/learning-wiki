@@ -68,3 +68,4 @@ Correlational and t-test analyses of the eye-tracking Word Gaze measure. Older c
 - [Sustained attention, not learning condition, was the strongest predictor of children's word recall](sart-strongest-predictor-word-recall.md) — related
 - [The PC-over-VR recall difference was significant only for children with higher sustained attention](condition-difference-only-high-sustained-attention.md) — related
 - [Longer online reading times on unknown words are associated with higher vocabulary recall test scores](longer-reading-times-linked-higher-recall.md) — related
+- [Referential gaze from a virtual teacher boosts L2 word-object mapping unconsciously in immersive VR, mirroring joint-attention mechanisms in first language acquisition](vr-referential-gaze-boosts-l2-word-learning.md) — related

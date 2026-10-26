@@ -48,3 +48,4 @@ In the 2x2 experiment, the main outcome was a real-life transfer test in which s
 - [Learning in immersive VR produces higher self-reported presence, agency, location, body ownership, and embodied learning than learning via a PC screen](vr-higher-presence-agency-embodied-learning-than-pc.md) — related
 - [Visual-only text yields higher transfer than audio-visual text in immersive VR](vr-reverse-modality-effect-transfer.md) — related
 - [PC-based passive viewing yielded higher word recall than embodied VR assembly training in school-aged children](pc-beats-vr-word-recall-children.md) — related
+- [Referential gaze from a virtual teacher boosts L2 word-object mapping unconsciously in immersive VR, mirroring joint-attention mechanisms in first language acquisition](vr-referential-gaze-boosts-l2-word-learning.md) — related

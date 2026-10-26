@@ -9,6 +9,7 @@ generated:
   at: 2026-10-16
 evidence_strength: moderate
 newest_evidence: 2019
+source_checked: 2026-10-26
 sources:
   - id: oberauer-2019
     resource: "https://doi.org/10.5334/joc.58"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r3` · `q2`
-> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2019 · checked against its sources 2026-10-26 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Considerable evidence confirms that storage and processing compete for a shared content-general attentional resource, lending support to the notion that WM capacity is limited by an attentional resource. [→ Oberauer 2019](#oberauer-2019)

@@ -58,3 +58,4 @@ Publication-bias assessment via funnel plots and a three-parameter selection mod
 - [Video replacing static media (e.g., text) benefits learning more than video replacing a teacher](video-vs-static-media-stronger-than-vs-teacher.md) — related
 - [The pooled self-efficacy–partnership correlation appears robust to the file-drawer problem](publication-bias-robustness.md) — related
 - [The pooled gamification effect is robust across dependence assumptions, quality thresholds, and model specifications, with no evidence of publication bias](gamification-mathematics-robustness-publication-bias.md) — related
+- [Impaired statistical learning in developmental dyslexia is not a robust phenomenon, with meta-analyses hampered by publication bias and task heterogeneity](statistical-learning-dyslexia-impairment-not-robust.md) — related

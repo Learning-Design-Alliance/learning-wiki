@@ -66,3 +66,4 @@ GEE model predicting negative valence monitoring duration from physiological mea
 - [Physiological synchrony is detectable among medical resident teams both before and during CRM simulation training, exceeding surrogate-data chance levels](ps-detected-pre-and-during-crm-simulation.md) — related
 - [Phasic EDA correlated with achievement (r = .66) in a small classroom physics study](phasic-eda-achievement-correlation.md) — related
 - [Phasic, not tonic, EDA correlates with cognitive stress in a reported diver study](phasic-eda-correlates-cognitive-stress.md) — related
+- [Skin conductance is higher during low-interest lecture segments than high-interest segments](low-interest-elevated-skin-conductance.md) — related

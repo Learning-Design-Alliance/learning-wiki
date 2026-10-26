@@ -13,7 +13,7 @@ generated:
 # Vocabulary
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 96 claims (70 show a difference, 15 mixed, 11 no difference) · 72 studies (25 associational, 21 causal, 14 quant-synthesis, 7 review, 3 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 19 of 72 report an effect size · 93 claims rest on one study
+> **Evidence** · 104 claims (74 show a difference, 18 mixed, 12 no difference) · 75 studies (26 associational, 22 causal, 14 quant-synthesis, 8 review, 3 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 19 of 75 report an effect size · 101 claims rest on one study
 
 ## Description
 Vocabulary is the store of words a learner understands (receptive vocabulary) and uses (expressive or productive vocabulary), together with the strategies they use to work out unfamiliar words. It is measured with picture-vocabulary tests, in which a learner picks the picture matching a spoken word, with language samples that count the number and variety of words used, and, for older students, with measures of academic language features in writing.
@@ -137,6 +137,14 @@ The page sits within the wiki's broader [reading and language](reading-and-langu
 - [For typically developing students, vocabulary knowledge and reading comprehension show bidirectional leading influences over time in kindergarten through fourth grade](../claims/bidirectional-vocabulary-reading-comprehension-influences-typically-developing.md) [+M] — learners who differ on it differ in outcomes
 - [Kindergarten students eligible for free or reduced-price lunch scored 16 standard points lower on receptive vocabulary than non-eligible students, regardless of LD status](../claims/frl-kindergarten-vocabulary-gap-16-points.md) [+M] — instruction changes it
 - [Children learned novel verb meanings better when words were experienced in episodes built around a common scenario](../claims/scenario-contexts-improve-verb-meaning-learning.md) [+M] — instruction changes it
+- [Five independent loci reach genome-wide significance for language/literacy phenotypes including Chinese vocabulary, character and word reading, rapid digit naming, and English lexical decision in Hong Kong Chinese bilingual children](../claims/gwas-five-significant-loci-language-literacy-hk-children.md) [+M] — learners who differ on it differ in outcomes
+- [Gene-based tests identify associations including KCNC1 with pure-tone phonological composite, GTF3C1 with Chinese vocabulary measures, and CATSPERD with English word reading](../claims/gene-based-magma-associations-kcnc1-gtf3c1.md) [+M] — learners who differ on it differ in outcomes
+- [Hong Kong sample phenotypes show genetic dependence with GenLang reading traits, with 42 of 170 trait pairs reaching nominal significance and 22 reaching FDR < 0.1, mostly with word reading](../claims/genlang-genetic-overlap-hk-phenotypes.md) [~M] — learners who differ on it differ in outcomes
+- [Interactive social learning of new word concepts improves behavioral accuracy compared with observing recorded social interaction, and seeing the teacher's face aids learning only in the observational condition](../claims/live-social-interaction-beats-observation-concept-learning.md) [~M] — instruction changes it
+- [Polygenic risk scores for educational attainment and cognitive performance show the most consistent associations with language traits, and these associations are stronger for English than Chinese literacy phenotypes](../claims/prs-ea-cp-stronger-english-than-chinese.md) [~M] — learners who differ on it differ in outcomes
+- [Removing supplementary materials from Montessori classrooms improved letter-word identification and executive function but not vocabulary, theory of mind, maths or social problem-solving](../claims/montessori-material-removal-experiment.md) [-M] — instruction changes it
+- [Top SNPs and genes from prior dyslexia and Chinese reading GWAS show significant overlap with the Hong Kong sample's phenotypes, especially Chinese vocabulary breadth](../claims/genetic-overlap-doust-wang-hk-sample.md) [+M] — learners who differ on it differ in outcomes
+- [Transcriptome-wide analyses link genetically predicted expression of DUS3L and HSD3B7 to English literacy phenotypes and SEMA6C to Chinese vocabulary breadth](../claims/twas-dus3l-hsd3b7-sema6c-literacy.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Peabody Picture Vocabulary Test, Fifth Edition (PPVT-5)** (Dunn, 2018): receptive vocabulary for learners of all ages (earlier edition: Dunn & Dunn, 2007).

@@ -25,7 +25,7 @@ sources:
 # Direct Instruction
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 38 claims (19 for, 16 mixed, 3 against) · 40 studies (13 quant-synthesis, 11 review, 10 causal, 4 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 10 of 40 report an effect size · 31 claims rest on one study
+> **Evidence** · 39 claims (19 for, 17 mixed, 3 against) · 41 studies (13 quant-synthesis, 11 causal, 11 review, 4 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 11 of 41 report an effect size · 32 claims rest on one study
 
 ## Description and scope
 
@@ -187,6 +187,7 @@ This pattern is scoped to structured targets with a definable correct performanc
 - [The thesis reports, citing Klahr and Nigam (2004), that discovered and explicitly taught science knowledge did not differ in quality](../claims/klahr-nigam-discovery-knowledge-quality-no-difference-cited.md) [+W]
 - [Explicit teaching shows no effect on students' first-order (topic) knowledge in history](../claims/explicit-teaching-no-effect-first-order-knowledge.md) [-W]
 - [Explicit teaching does not improve overall quality of written causal explanations but improves use of second-order language and causal connections](../claims/explicit-teaching-second-order-language-explanation-criterion.md) [~W]
+- [Performance is substantially better on the Explicit-Assist task than on the No-Explicit-Assist task in both the ADHD and dyslexia comparisons](../claims/explicit-assist-better-than-no-explicit-assist.md) [~M]
 
 ## Related Patterns
 - [Mastery Learning](mastery-learning.md) — a related but distinct term Hunter explicitly distinguishes her model from

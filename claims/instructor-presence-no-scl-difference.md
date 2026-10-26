@@ -71,3 +71,4 @@ Descriptive pattern from Fig. 6 across the two stimulus videos; the authors stat
 - [Physiological measures have limited validity for effort, especially for distinguishing data-driven from goal-driven effort](physiological-effort-measures-limited-validity.md) — a broader claim this one bears on
 - [No differences were found on mental effort during instruction or on transfer across illusion-of-control and instruction-method conditions](no-mental-effort-differences.md) — related
 - [Only self-reported, not physiological, indices of math-related state anxiety correlate with both math anxiety and math performance](self-report-not-physiological-state-anxiety-predicts.md) — related
+- [Learners show significantly lower skin conductance level across the task than non-learners](learners-lower-scl-across-task.md) — related

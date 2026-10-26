@@ -50,3 +50,4 @@ Systematic review of 89 papers (PRISMA, three databases, 2000–2024) categorizi
 - [Among live-evaluation RL-in-education papers reporting significant differences, a majority reported at least one intermediate (n = 5) or large (n = 6) Cohen's d effect on post-test learning outcomes](rl-education-effect-sizes-intermediate-large.md) — related
 - RL-based educational evaluations split across live evaluation (n = 41), real interaction data (n = 23), and simulated users (n = 24) — related
 - [Students with lower baseline performance (below the 50th percentile) showed significantly greater math achievement gains with ASSISTments than matched virtual peers](assistments-low-performers-significant-gains.md) — related
+- [Within-family designs can afford greater statistical power than classroom-based studies for testing aptitude–treatment match effects](within-family-designs-greater-power-ati-testing.md) — related

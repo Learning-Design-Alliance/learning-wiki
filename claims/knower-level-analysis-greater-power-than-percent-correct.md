@@ -50,3 +50,4 @@ Computer simulation (Experiment 3) using the Lee & Sarnecka generative model to 
 - [Fully Bayesian inference on the calibration data set assigned 423 sessions across six knower levels and estimated an evidence value v of 16.94](calibration-knower-levels-and-evidence-value.md) — related
 - Nonintervention (observational) studies in educational psychology are producing recommendations for practice at increasing rates — related
 - The primary study (Lehmann et al., 2016) had only about 45% power to detect its observed interaction effect; roughly 150 participants would be needed for 80% power — related
+- [Within-family designs can afford greater statistical power than classroom-based studies for testing aptitude–treatment match effects](within-family-designs-greater-power-ati-testing.md) — related

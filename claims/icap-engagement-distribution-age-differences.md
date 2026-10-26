@@ -94,3 +94,4 @@ Interactive-mode counts: "older adults were more interactive than younger adults
 - [Interaction during semiempty concept mapping shows higher transactivity: less elicitation and more externalization and integration than summary writing](concept-mapping-higher-transactivity-integration.md) — related
 - [Younger adults show higher learning performance than older adults in collaborative concept-map learning of psychological concepts, and older adults show no learning gain](older-adults-no-learning-gain-cscl-concept-maps.md) — related
 - [Concept-map generation requires age-appropriate instructional support: younger learners profit from high-coherence, pre-structured maps](concept-mapping-support-age-interaction.md) — related
+- [Older learners outperform under passive instruction while younger learners outperform under active instruction (learner age × learning approach interaction)](older-adults-passive-beats-active-concept-learning.md) — related

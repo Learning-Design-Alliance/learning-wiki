@@ -13,7 +13,7 @@ generated:
 # Gender
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 300 claims (182 show a difference, 67 mixed, 51 no difference) · 204 studies (134 associational, 33 causal, 14 quant-synthesis, 9 review, 5 qualitative, 5 theoretical, 4 design), `q1`–`q4` · 36 of 204 report an effect size · 292 claims rest on one study
+> **Evidence** · 305 claims (183 show a difference, 67 mixed, 55 no difference) · 206 studies (135 associational, 33 causal, 14 quant-synthesis, 10 review, 5 qualitative, 5 theoretical, 4 design), `q1`–`q4` · 36 of 206 report an effect size · 297 claims rest on one study
 
 ## How to read this page
 
@@ -339,6 +339,11 @@ Gender is recorded in most education studies, usually as a binary category taken
 - [No SES × gender, SES × birth month, gender × birth month, or three-way interactions on pre-academic abilities at age 3](../claims/no-interactions-ses-gender-birth-month-preacademic.md) [-M] — an instructional effect differs by group
 - [Female students had higher math course grades than male students, with no interactions between gender, math anxiety, and intervention group](../claims/female-students-higher-grades-no-gender-moderation.md) [+W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Sex does not moderate the baseline BMI × BMI-change effect on academic performance](../claims/sex-does-not-moderate-bmi-change-effect.md) [-W] — an instructional effect differs by group
+- [Bayesian analysis finds substantial evidence for gender similarities in neural maturity in most of the brain, with fewer than 1% of voxels supporting gender differences](../claims/bayes-factor-gender-similarities-whole-brain.md) [-W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Benefits of practical life exercises for attention emerge for girls but not boys](../claims/practical-life-attention-gender-effect.md) [+M] — an instructional effect differs by group
+- [Math ability on the TEMA-3 is statistically equivalent between girls and boys, with no gender difference in mean, variance, or age-related growth](../claims/tema3-math-ability-gender-equivalence.md) [-W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Math ability predicts neural maturity in the same brain regions for boys and girls, with no gender-by-ability interaction](../claims/math-ability-predicts-neural-maturity-no-gender-interaction.md) [-W] — an instructional effect differs by group
+- [Whole-brain neural similarity between children is the same for same-gender and different-gender pairs](../claims/child-child-neural-similarity-same-different-gender.md) [-W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## The evidence by question
 - *Do girls and boys differ in mathematics and reading achievement, by how much, and where in the distribution?* [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](../claims/pisa-sex-differences-math-small-reading-three-times-larger.md) [+M]

@@ -50,3 +50,4 @@ LIME profile analysis of non-responder subgroups. "Non -responder subgroups 1 to
 ## Related Claims
 - [K-Means clustering of LIME feature-importance profiles identifies 2 responder and 4 non-responder subgroups within binary intervention-response classes](lime-clustering-dyslexia-subgroups.md) — possibly the same claim (merge candidate)
 - [A meta-analysis attributes the strongest predictors of nonresponsiveness to rapid naming and problem behavior](meta-analysis-predictors-of-nonresponsiveness.md) — related
+- [Learners recall more object locations than non-learners, with no difference in recalled object names](object-location-recall-trending-object-names-null.md) — related

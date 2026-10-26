@@ -52,3 +52,4 @@ DRRW analysis measuring self-concept via the Piers-Harris Self-Concept Scale fou
 - [Two or more semesters of AP art workshops significantly raised the graphical TTCT 13-forces creativity score in a doubly robust regression, but not total TTCT scores](ap-creativity-ttct-improvements.md) — related
 - [Total behavior problems show a moderate negative correlation with self-concept in children with ADHD](total-behavior-problems-negative-correlation-self-concept-adhd.md) — related
 - [Creative writing instruction improved creative text quality in panel 1 and showed a transfer effect on argumentative text quality moderated by Creative Self-Concept, a pattern the second panel did not replicate](cwi-transfer-to-argumentative-quality-moderated-by-csc.md) — related
+- [The art-based program studied by Egana-delSol is a high-school program, not a middle-school program, per the published correction](high-school-art-based-program-correction.md) — related

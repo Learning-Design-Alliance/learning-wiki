@@ -14,7 +14,7 @@ grain_size: course
 # Spaced Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 69 claims (27 for, 39 mixed, 3 against) · 50 studies (24 causal, 11 review, 7 quant-synthesis, 3 theoretical, 2 associational, 2 design, 1 qualitative), `q1`–`q4` · 14 of 50 report an effect size · 64 claims rest on one study
+> **Evidence** · 74 claims (30 for, 41 mixed, 3 against) · 52 studies (25 causal, 11 review, 7 quant-synthesis, 3 associational, 3 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 14 of 52 report an effect size · 69 claims rest on one study
 
 ## Description
 
@@ -147,6 +147,11 @@ The examples are local design instances, not additional observations from those 
 - [Varying the inter-skill rest interval from 0 to 30 seconds does not modify one-trial generalization from skill A to skill B](../claims/rest-interval-no-impact-one-trial-generalization.md) [~W]
 - [Offline change in general skill between sessions 12 h apart was significant, but between sessions a week apart was not](../claims/long-offline-general-skill-12h-not-week.md) [~W]
 - [Cluster task-completion metrics order from Crammers (66%) through Low Engagers (80%) to On time (86%) and Early Birds (90%), with Crammers showing the longest massed sessions](../claims/cluster-completion-rates-order-crammers-lowest.md) [+W]
+- [The counting days treatment's benefit for exam scores is mediated almost entirely by the number of days practiced, not the number of questions](../claims/spacing-days-mediate-exam-benefit.md) [+W]
+- [The spacing incentive benefits lower-GPA students more, nearly equalizing exam performance across prior GPA levels](../claims/counting-days-benefits-lower-gpa-students.md) [~W]
+- [Performance loss after breaks in practice grows with delay: a 100-day delay yields a 20% reduction and a 400-day delay a 50% reduction in first-gameplay performance](../claims/delay-dependent-forgetting-naturalistic-practice.md) [+W]
+- [Counting questions students procrastinate, practicing little until late in the semester, while counting days spreads practice across the term](../claims/counting-questions-procrastination-pattern.md) [~W]
+- [Losses after long breaks in naturalistic practice are rapidly offset by very little practice: a single gameplay can restore prior performance levels even after delays of hundreds of days](../claims/rapid-relearning-single-gameplay.md) [+W]
 
 ## Examples
 - [Memdora collaborative deck layer](../designs/memdora-collaborative-deck-layer.md) — a teacher's shared deck updates for all followers while each learner's spacing stays individual

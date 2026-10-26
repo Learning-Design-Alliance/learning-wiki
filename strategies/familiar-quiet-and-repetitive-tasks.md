@@ -80,12 +80,14 @@ Repetitive, well-practiced tasks impose minimal working-memory and novelty deman
 5. Use the calm state as the bridge into instruction — transition to the next activity while regulation is maintained, rather than letting the child linger indefinitely.
 
 ## Related Strategies
+
 - Sensory Breaks — the broader category; quiet repetitive tasks are one implementation
 - Predictable Routines — the surrounding structure that makes the tasks calming rather than just busy work
 - [Choice Boards](../elements/choice-boards.md) — a way to offer autonomy within a constrained, familiar task set
 - Structured work systems (TEACCH) — a formalized, research-based version of this strategy for autistic learners
 - Sensory breaks — serve the same regulatory function with movement-based rather than fine motor tasks
 - Visual schedules — provide the predictability scaffold within which these tasks sit
+- [Introduce practical life materials into non-Montessori classrooms to support fine motor skills and attention](introduce-practical-life-materials-non-montessori.md)
 
 ## Related Elements
 - [Check-In](../elements/check-in.md) — a brief adult contact point to assess regulation before transitioning out

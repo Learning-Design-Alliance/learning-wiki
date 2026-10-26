@@ -68,3 +68,4 @@ Control analysis of the same validation experiment separated stay trials (condit
 - [Silencing CGRP neurons in the parabrachial nucleus does not impair active avoidance learning and expands successful avoidance to high footshock intensities](cgrp-silencing-expands-avoidance-high-intensity.md) — related
 - [CGRP silencing reduces freezing at high footshock intensities where control mice show significant increases in freezing](cgrp-silencing-reduces-freezing-high-intensity.md) — a narrower finding that bears on this claim
 - [Low footshock intensities (0.1-0.2 mA) yield weak avoidance learning in both CGRP-silenced and control mice](weak-avoidance-low-shock-intensities-both-groups.md) — related
+- [Learners give higher shock expectancy ratings in the dangerous than safe zone while non-learners show no zone difference](expectancy-ratings-discriminate-learners-only.md) — related

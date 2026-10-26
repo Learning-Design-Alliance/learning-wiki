@@ -55,6 +55,7 @@ The study shows that reactivation need not involve effortful full retrieval: bri
 - [Retrieval Practice Activities](retrieval-practice-activities.md)
 - [Flashcard Drill](flashcard-drill.md)
 - [Distributed Practice (Spaced Learning)](distributed-practice-spaced-learning.md)
+- [Apply retrieval practice (quizzes, peer teaching, flipped classroom) and monitor detail loss to balance gist and episodic memory](retrieval-practice-balance-gist-detail-strategy.md)
 
 ## Examples
 -

@@ -20,7 +20,7 @@ sources:
 # PAIR-C Framework (Pattern, Agents, Interactions, Relations, Causality)
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 12 claims (4 for, 7 mixed, 1 against) · 20 studies (7 causal, 5 quant-synthesis, 3 review, 2 qualitative, 2 theoretical, 1 design), `q1`–`q4` · 3 of 20 report an effect size · 7 claims rest on one study
+> **Evidence** · 13 claims (5 for, 7 mixed, 1 against) · 21 studies (8 causal, 5 quant-synthesis, 3 review, 2 qualitative, 2 theoretical, 1 design), `q1`–`q4` · 4 of 21 report an effect size · 8 claims rest on one study
 
 ## Description and scope
 
@@ -152,6 +152,7 @@ This pattern is scoped to explaining one emergent phenomenon with an agent-based
 ## Claims
 
 - [The framework and recommendations are consensus positions from physical-science-weighted contributors, not empirical findings](../claims/open-knowledge-consensus-not-empirical.md) [-W]
+- [The evolution teaching interventions significantly improved student understanding with effect sizes above the 0.40 implementation threshold in both tranches](../claims/evolution-sow-improve-understanding-large-effect.md) [+W]
 
 ## Related Patterns
 - (none yet linked)

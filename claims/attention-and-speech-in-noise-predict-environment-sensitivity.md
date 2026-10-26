@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2023
+source_checked: 2026-10-26
 sources:
   - id: gary-rance-2023
     resource: "https://doi.org/10.1038/s41539-023-00157-y"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i2` medium
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · checked against its sources 2026-10-26 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Attention score (F = 10.52, p < 0.01) and speech recognition in noise (F = 4.92, p < 0.05) were significant independent predictors of the environment score, alongside school and baseline reading score. [→ Gary Rance 2023](#gary-rance-2023)
@@ -72,3 +73,5 @@ Figure 4 plots environment score against participant characteristics, printing r
 - [Noise impairs children's performance in complex listening tasks beyond simple identification, with children affected more than adults](noise-impairs-children-listening-comprehension.md) — a broader claim this one bears on
 - [Children's speech perception in noise is more impaired than adults', requiring higher signal-to-noise ratios for comparable performance](children-speech-perception-noise-more-impaired-than-adults.md) — a broader claim this one bears on
 - [Children are more susceptible than adults to the effects of environmental noise on cognitive performance](children-more-susceptible-to-noise-than-adults.md) — a broader claim this one bears on
+- [Baseline reading fluency is significantly correlated with non-verbal IQ, attention, auditory working memory, and speech discrimination in noise, but not age](baseline-reading-fluency-correlated-cognition-listening.md) — related
+- [In a general linear model, attention, auditory working memory, and school independently predict baseline reading fluency, while speech discrimination in noise and IQ do not](glm-independent-predictors-baseline-reading-fluency.md) — related

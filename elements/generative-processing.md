@@ -84,6 +84,7 @@ Learning improves when learners are prompted to generate content-relevant cognit
 **[Perusall](https://www.perusall.com)** — Social annotation platform where learners generate comments, questions, and responses anchored to specific passages of assigned readings.
 
 **[Recall and self-explanation prompts in science curricula](https://www.serpinstitute.org)** — SERP Institute materials embed prediction and explanation prompts before and during reading to force generative engagement with science texts.
+- [Use elaboration, reactivation of prior knowledge, and desirable difficulty during encoding to build connected, detailed memories](../strategies/encoding-elaboration-reactivation-strategy.md)
 
 ## Key Sources
 - Wittrock, M. C. (1989). Generative processes of comprehension. *Educational Psychologist, 24*(4), 345–376. [doi:10.1207/s15326985ep2404_2](https://doi.org/10.1207/s15326985ep2404_2)

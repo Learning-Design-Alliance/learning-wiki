@@ -44,6 +44,8 @@ The article recommends that during initial vocabulary acquisition, teachers use 
 - [Distributed Practice](distributed-practice.md)
 - [Research agenda: use process-oriented assessments, study encoding-consolidation-retrieval effects, and examine longitudinal outcomes of educational generative AI](genai-learning-research-agenda-process-assessments.md)
 - [Bundle GMT with explicit training on desirable difficulties, metacognitive miscalibration, and effective study strategies such as retrieval practice](bundle-gmt-with-retrieval-practice-training.md)
+- [Use elaboration, reactivation of prior knowledge, and desirable difficulty during encoding to build connected, detailed memories](encoding-elaboration-reactivation-strategy.md)
+- [Optimize consolidation through sufficient sleep, spaced and interleaved study, and rest periods between learning](consolidation-sleep-spacing-interleaving-strategy.md)
 
 ## Examples
 -

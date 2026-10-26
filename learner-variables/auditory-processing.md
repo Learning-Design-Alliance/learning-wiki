@@ -13,7 +13,7 @@ generated:
 # Auditory Processing
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 41 claims (21 show a difference, 14 mixed, 6 no difference) · 23 studies (8 causal, 8 associational, 3 review, 2 quant-synthesis, 2 theoretical), `q1`–`q3` · 8 of 23 report an effect size · 39 claims rest on one study
+> **Evidence** · 45 claims (23 show a difference, 16 mixed, 6 no difference) · 25 studies (10 causal, 8 associational, 3 review, 2 quant-synthesis, 2 theoretical), `q1`–`q3` · 10 of 25 report an effect size · 43 claims rest on one study
 
 ## Description
 Auditory processing is what the brain does with sound once it has been heard: locating sounds, telling them apart and interpreting them as meaningful, so that a listener can attend to, understand and remember speech and control their own speaking. It underpins spoken language and listening comprehension and lays the foundation for reading and writing, including [phonological awareness](phonological-awareness.md), at every age the LVN covers from pre-kindergarten to adulthood. It is still developing through adolescence, when academic demands on listening rise. Difficulties show up most where speech must be followed against background noise, as in a busy classroom, and learners with dyslexia may process speech sounds differently. It is measured with standardised batteries of auditory attention, auditory memory and phonological skills, and with tests of auditory processing speed. It is distinct from hearing itself, which [access](access.md) covers, though hearing loss affects it; in older adults, age-related decline in hearing speech in noise is part of the picture.
@@ -77,6 +77,10 @@ Auditory processing is what the brain does with sound once it has been heard: lo
 - [Attention and speech perception in noise predict which children are most disadvantaged by open-plan classrooms](../claims/attention-and-speech-in-noise-predict-environment-sensitivity.md) [+M] — learners who differ on it differ in outcomes
 - [Baseline reading fluency correlates with IQ, attention and working memory but not with age or speech perception in noise](../claims/baseline-reading-correlates-iq-attention-working-memory.md) [-M] — learners who differ on it differ in outcomes
 - [Right DLPFC activation during Spanish perception correlates negatively with pseudoword rhyming in children with RD but not adults with RD](../claims/dlpfc-activation-phonological-awareness-correlation-child-rd.md) [~M] — learners who differ on it differ in outcomes
+- [Baseline reading fluency is significantly correlated with non-verbal IQ, attention, auditory working memory, and speech discrimination in noise, but not age](../claims/baseline-reading-fluency-correlated-cognition-listening.md) [+M] — learners who differ on it differ in outcomes
+- [In a general linear model, attention, auditory working memory, and school independently predict baseline reading fluency, while speech discrimination in noise and IQ do not](../claims/glm-independent-predictors-baseline-reading-fluency.md) [~W] — learners who differ on it differ in outcomes
+- [Neural speech tracking of the lecturer's speech is stronger during high-interest lecture segments](../claims/high-interest-better-neural-speech-tracking.md) [+M] — instruction changes it
+- [Noise condition modulates neural speech tracking, with better decoding of speech in continuous than quiet or intermittent noise](../claims/speech-tracking-modulated-by-noise-type.md) [~W] — instruction changes it
 
 ## Measures
 - **Test of Auditory Processing Skills** (Martin, Brownell & Hamaguchi, 2018): auditory attention, auditory memory and phonological skills for ages 4 to 18.

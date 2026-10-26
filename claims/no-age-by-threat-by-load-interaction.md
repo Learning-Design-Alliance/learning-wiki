@@ -50,3 +50,4 @@ rANOVA on accuracy with Condition and Load within-subjects and Group between-sub
 - [The threat-of-scream manipulation successfully induced sustained anxiety, with equivalent subjective and startle responses in adolescents and adults](scream-threat-manipulation-induced-anxiety-equally.md) — related
 - [Anxiety-potentiated startle is greater during low- and medium-load tasks than during the high-load task in both age groups](anxiety-potentiated-startle-reduced-high-load.md) — related
 - [Adults show higher overall working memory accuracy than adolescents, and adults but not adolescents increase startle reactivity with load](adults-higher-accuracy-startle-load-group-interaction.md) — related
+- [Concurrent cognitive load was successfully manipulated: participants were slower and less accurate on the high-load (2-back) than low-load (1-back) working memory task](n-back-load-manipulation-verified-slower-less-accurate.md) — related

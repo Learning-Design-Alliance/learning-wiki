@@ -12,7 +12,7 @@ newest_evidence: 2022
 sources:
   - id: gattas-2022
     resource: "https://doi.org/10.1038/s41539-022-00134-x"
-    title: "Gattas, S., Collett, H. A., Huff, A. E., Creighton, S. D., Weber, S. E., Buckhalter, S. S., Manning, S. A., Ryait, H. S., McNaughton, B. L., & Winters, B. D. (2022). A rodent obstacle course procedure controls delivery of enrichment and enhances complex cognition. npj Science of Learning. https://doi.org/10.1038/s41539-022-00134-x"
+    title: "Gattas, S., Collett, H. A., Huff, A. E., Creighton, S. D., Weber, S. E., Buckhalter, S. S., Manning, S. A., Ryait, H. S., McNaughton, B. L., & Winters, B. D. (2022). A rodent obstacle course procedure controls delivery of enrichment and enhances complex cognitive functions. npj Science of Learning. https://doi.org/10.1038/s41539-022-00134-x"
     author: "Gattas, S., Collett, H. A., Huff, A. E., Creighton, S. D., Weber, S. E., Buckhalter, S. S., Manning, S. A., Ryait, H. S., McNaughton, B. L., & Winters, B. D."
     q: 2
     i: "?"
@@ -20,7 +20,7 @@ sources:
     rigour: 2
   - id: gattas-2022-2
     resource: "https://doi.org/10.1038/s41539-022-00134-x"
-    title: "Gattas, S., Collett, H. A., Huff, A. E., Creighton, S. D., Weber, S. E., Buckhalter, S. S., Manning, S. A., Ryait, H. S., McNaughton, B. L., & Winters, B. D. (2022). A rodent obstacle course procedure controls delivery of enrichment and enhances complex cognition. npj Science of Learning. https://doi.org/10.1038/s41539-022-00134-x"
+    title: "Gattas, S., Collett, H. A., Huff, A. E., Creighton, S. D., Weber, S. E., Buckhalter, S. S., Manning, S. A., Ryait, H. S., McNaughton, B. L., & Winters, B. D. (2022). A rodent obstacle course procedure controls delivery of enrichment and enhances complex cognitive functions. npj Science of Learning. https://doi.org/10.1038/s41539-022-00134-x"
     author: "Gattas, S., Collett, H. A., Huff, A. E., Creighton, S. D., Weber, S. E., Buckhalter, S. S., Manning, S. A., Ryait, H. S., McNaughton, B. L., & Winters, B. D."
     q: 2
     i: 3
@@ -42,7 +42,7 @@ sources:
 
 ### Gattas 2022
 
-Gattas, S., Collett, H. A., Huff, A. E., Creighton, S. D., Weber, S. E., Buckhalter, S. S., Manning, S. A., Ryait, H. S., McNaughton, B. L., & Winters, B. D. (2022). A rodent obstacle course procedure controls delivery of enrichment and enhances complex cognition. npj Science of Learning. https://doi.org/10.1038/s41539-022-00134-x
+Gattas, S., Collett, H. A., Huff, A. E., Creighton, S. D., Weber, S. E., Buckhalter, S. S., Manning, S. A., Ryait, H. S., McNaughton, B. L., & Winters, B. D. (2022). A rodent obstacle course procedure controls delivery of enrichment and enhances complex cognitive functions. npj Science of Learning. https://doi.org/10.1038/s41539-022-00134-x
 
 `q2 · i?` · `causal · r2`
 
@@ -52,7 +52,7 @@ Tactile-to-visual cross-modal object recognition task (sample 10 min, delays 30 
 
 ### Gattas 2022 (2)
 
-Gattas, S., Collett, H. A., Huff, A. E., Creighton, S. D., Weber, S. E., Buckhalter, S. S., Manning, S. A., Ryait, H. S., McNaughton, B. L., & Winters, B. D. (2022). A rodent obstacle course procedure controls delivery of enrichment and enhances complex cognition. npj Science of Learning. https://doi.org/10.1038/s41539-022-00134-x
+Gattas, S., Collett, H. A., Huff, A. E., Creighton, S. D., Weber, S. E., Buckhalter, S. S., Manning, S. A., Ryait, H. S., McNaughton, B. L., & Winters, B. D. (2022). A rodent obstacle course procedure controls delivery of enrichment and enhances complex cognitive functions. npj Science of Learning. https://doi.org/10.1038/s41539-022-00134-x
 
 `q2 · i3` · `causal · r2`
 
@@ -72,3 +72,4 @@ CMOR omnibus ANOVA in the four-group design: a significant main effect of group,
 - [Obstacle Course enrichment enhances object category recognition memory, allowing category discrimination at a 1-h delay without exemplar preexposure](oc-enrichment-enhances-object-category-recognition.md) — related
 - [Obstacle Course enrichment enhances spatial object location memory in mice, outperforming enriched housing with a shortened sample phase](oc-enrichment-enhances-object-location-memory.md) — related
 - [Obstacle Course enrichment supports view-invariant object recognition, with OC mice treating rotated objects as familiar while enriched-housing mice treated them as novel](oc-enrichment-view-invariant-object-recognition.md) — related
+- [Non-learners place objects significantly farther from original locations in a spatial memory task than learners do](non-learners-poorer-spatial-memory-object-placement.md) — related

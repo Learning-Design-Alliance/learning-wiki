@@ -68,3 +68,4 @@ Simple-effect analysis of the Grade 5 versus adult interaction: the adult advant
 - [Within childhood, Grade 5 children outperformed Grades 1 and 3 for nonword foils while partword foil performance remained stable](grade5-nonword-foil-advantage-childhood.md) — related
 - [Nonword foils were recognized more accurately than partword foils across all age groups](nonword-foils-easier-than-partword-foils.md) — related
 - [Recognition accuracy was higher for Remember responses than for Guess responses across age groups and foil types, indicating metacognitive sensitivity in all groups](confidence-accuracy-gradient-sl.md) — related
+- [The developmental trajectory of statistical learning across age is not a robust phenomenon, though statistical learning itself occurs at all ages](age-trajectory-statistical-learning-not-robust.md) — a broader claim this one bears on

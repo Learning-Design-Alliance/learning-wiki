@@ -53,3 +53,4 @@ Multigroup latent growth curve models (RQ5) controlling for SES, gender, and mig
 - [In the lowest track, initial stereotype awareness was positively related to initial achievement, consistent with the missed-opportunities hypothesis](stereotype-awareness-achievement-positive-lowest-track.md) — related
 - [Initial stereotype awareness in Grade 5 was negatively related to initial school engagement in all three tracks](stereotype-awareness-engagement-negative-cross-sectional.md) — related
 - [Stereotype awareness increased significantly in all three tracks over the 4-year period, by roughly one third of a standard deviation](stereotype-awareness-increases-all-tracks.md) — related
+- [Some personalization methods such as ability tracking may increase achievement gaps, though empirical evidence is mixed](personalization-methods-achievement-inequality-mixed.md) — related

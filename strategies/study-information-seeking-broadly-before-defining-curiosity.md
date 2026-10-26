@@ -41,7 +41,8 @@ The article recommends that researchers "study it in its ethological context" an
 - [Monkeys pay for non-strategic information: information about a reward is worth about 25% of the reward's value](../claims/monkeys-value-information-25-percent-of-reward.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Attach a minimal terminology statement (term, operational definition, hypothesized pathway) to each study](minimal-terminology-statement-per-study.md)
 
 ## Examples
 -

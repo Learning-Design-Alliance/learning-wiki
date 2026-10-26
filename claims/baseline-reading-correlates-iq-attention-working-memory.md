@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2023
+source_checked: 2026-10-26
 sources:
   - id: gary-rance-2023
     resource: "https://doi.org/10.1038/s41539-023-00157-y"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i2` medium
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · checked against its sources 2026-10-26 (automated, 2 of 2 entries) · not reviewed by a person
 > **Design limits** · Gary Rance 2023: no comparison group (read from the study by two models, 2026-10-26)
 
 ## Subclaims
@@ -72,3 +73,6 @@ General linear model of baseline reading scores including the significant correl
 - [Attention and speech perception in noise predict which children are most disadvantaged by open-plan classrooms](attention-and-speech-in-noise-predict-environment-sensitivity.md) — related
 - [IQ and working memory are reliable predictors of academic achievement at the beginning of school when domain knowledge is not controlled](iq-and-wm-predict-early-academic-achievement.md) — a broader claim this one bears on
 - [Cognitive performance shows a pooled association of r = .31 with speech-in-noise perception across adult unaided listeners](cognition-sin-pooled-association-r31.md) — related
+- [Baseline reading fluency is significantly correlated with non-verbal IQ, attention, auditory working memory, and speech discrimination in noise, but not age](baseline-reading-fluency-correlated-cognition-listening.md) — reports the opposite
+- [In a general linear model, attention, auditory working memory, and school independently predict baseline reading fluency, while speech discrimination in noise and IQ do not](glm-independent-predictors-baseline-reading-fluency.md) — related
+- [In a mixed-effects model, classroom condition significantly predicted reading fluency development, with SFA-On and SFA-Off both exceeding baseline but not each other](sfa-mixed-model-condition-effect-reading-fluency.md) — related

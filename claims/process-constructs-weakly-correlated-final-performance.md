@@ -54,3 +54,4 @@ withaggregateﬁnalperformance."
 - [ChatGPT use boosts university students' self-efficacy for task resolution, but self-efficacy barely tracks actual performance](chatgpt-boosts-self-efficacy-not-performance.md) — related
 - [Questionnaire constructs showed acceptable to strong internal consistency (α = 0.740 to 0.945)](questionnaire-constructs-internal-consistency.md) — related
 - [Creativity research increasingly relies on self-reports, which correlate little or not at all with creative performance](self-reports-poorly-correlate-creative-performance.md) — a broader claim this one bears on
+- [Language gains are weakly correlated with in-game performance, suggesting transfer relies on general-domain mechanisms](weak-correlation-gains-game-performance-general-domain.md) — related

@@ -18,7 +18,7 @@ sources:
 # Teach response precision and new associations with minimal errors, using mediators and stimulus fading
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 15 claims (7 for, 8 mixed) · 22 studies (7 review, 6 causal, 5 theoretical, 4 quant-synthesis), `q1`–`q4` · 5 of 22 report an effect size · 9 claims rest on one study
+> **Evidence** · 16 claims (8 for, 8 mixed) · 23 studies (7 causal, 7 review, 5 theoretical, 4 quant-synthesis), `q1`–`q4` · 5 of 23 report an effect size · 10 claims rest on one study
 
 ## Conditional relationship
 
@@ -155,6 +155,10 @@ For example, an adult learning a new musical instrument may want to play one son
 The expectation should weaken if comparisons of error-minimizing training with errorful training for people, on the same precision or association targets with aligned unaided outcomes, show no advantage, or an advantage at the end of practice that disappears a week later. If faster cue removal with more errors (and immediate correction) consistently beats near-errorless fading for delayed retention, as the retrieval findings suggest for word lists, the model should say "fade fast and correct", not "minimize errors". If a tolerance narrowed in one step works as well as one narrowed gradually, without loss of effort, the shaping half is a preference only. If high-confidence errors, corrected, turn out to be the best teaching moments for associations, minimizing them is the wrong goal for that case. Do not protect the model by calling every failure "too many errors allowed" after the fact.
 
 End-of-practice accuracy, unaided performance at a delay, transfer to new items or the real instrument, and use in the setting the learner values are separate claims. The present evidence establishes no starting band, no step size, no error rate and no rule for when to remove a cue.
+
+## Claims
+
+- [Near-errorless learning: participants acquiring procedural knowledge under accuracy instructions learned despite minimizing response errors](../claims/response-errors-not-needed-procedural-learning.md) [+W]
 
 ## Related Principles
 - [Guided Practice](guided-practice.md): the practice phase after a model, for structured tasks generally

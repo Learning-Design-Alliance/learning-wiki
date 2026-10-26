@@ -51,3 +51,4 @@ Exploratory repeated-measures ANOVA in Experiment 1 on definitions with three ve
 - [Overt retrieval also outperforms covert retrieval for key terms, but with a smaller advantage than for definitions](overt-beats-covert-retrieval-key-terms-smaller.md) — related
 - [Both overt and covert retrieval practice outperform restudy when practice and test match (the testing effect)](both-retrieval-formats-beat-restudy.md) — related
 - [Covert retrieval is the most time-efficient practice strategy, yielding the largest gains per minute of practice for both terms and definitions](covert-retrieval-most-efficient-gains-per-minute.md) — related
+- [Overt student behavior is an unreliable proxy for covert cognitive engagement and instructional effectiveness](overt-behavior-unreliable-proxy-engagement.md) — related

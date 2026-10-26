@@ -52,3 +52,4 @@ Review presenting a contrast of age trends in analytical reasoning versus crossw
 - [Curve estimation shows linear decline in processing speed after age 30, quadratic trajectories for category fluency and IQ, and no age change in letter fluency](curve-estimation-differential-age-trajectories.md) — related
 - [Learning ability does not decline with age in healthy older adults](learning-ability-does-not-decline-with-age.md) — related
 - [Instruction based on cognitive load theory can compensate for age-related cognitive declines](clt-instruction-compensates-age-related-declines.md) — related
+- [Older learners outperform under passive instruction while younger learners outperform under active instruction (learner age × learning approach interaction)](older-adults-passive-beats-active-concept-learning.md) — a narrower finding that bears on this claim

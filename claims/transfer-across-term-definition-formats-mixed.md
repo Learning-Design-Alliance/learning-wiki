@@ -51,3 +51,4 @@ In Experiment 2's test-on-terms group, participants who practiced definitions sh
 - [Overt retrieval practice produces higher delayed recall of definitions than covert retrieval practice for learners studying declarative concepts](overt-beats-covert-retrieval-definitions.md) — related
 - [Overt retrieval also outperforms covert retrieval for key terms, but with a smaller advantage than for definitions](overt-beats-covert-retrieval-key-terms-smaller.md) — related
 - [Response format (overt vs. covert retrieval) did not affect final cued recall in spaced retrieval practice, and list structure (blocked vs. random; proportion of overt trials) did not moderate the effect.](covert-overt-retrieval-no-effect-spaced-practice.md) — related
+- [Overt student behavior is an unreliable proxy for covert cognitive engagement and instructional effectiveness](overt-behavior-unreliable-proxy-engagement.md) — related

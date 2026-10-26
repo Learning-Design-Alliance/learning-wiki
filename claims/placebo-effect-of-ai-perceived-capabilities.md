@@ -53,3 +53,4 @@ The article cites HCI research on the "placebo effect" of AI as the rationale fo
 - [Minimal human-like cues suffice to trigger automatic social reactions to embodied agents, though the role of visual social cues remains contested](minimal-social-cues-trigger-automatic-social-reactions.md) — a broader claim this one bears on
 - [AI assistance reduces subjective mental effort across all tasks even when it does not reduce completion time, dissociating time and effort](ai-effort-reduction-time-effort-dissociation.md) — related
 - [AI-related placebo effects lead users to overestimate their own abilities while or after being assisted by an AI](ai-placebo-effect-overestimation.md) — a narrower finding that bears on this claim
+- [Describing demonstrators as Best versus Worst changed participants' ratings of the demonstrators' performance even though actual performance was identical](description-shifts-performance-ratings.md) — a narrower finding that bears on this claim

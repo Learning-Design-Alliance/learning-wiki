@@ -57,3 +57,4 @@ Moderation analysis (model 8 in Table 4) in the same randomized field experiment
 - [Boys outperform girls on algebra word problems, function mapping, equation memory, and arithmetic fluency, with no sex differences on other mathematics measures](sex-differences-specific-math-measures-geary-2023.md) — related
 - [Boys and girls show equal variability in early mathematical performance across all measured tasks](no-gender-difference-variability-early-math-performance.md) — related
 - [No gender × question-type interaction and no gender main effect on TEMA-3 formal vs. informal math items](no-gender-question-type-interaction-formal-informal-math.md) — related
+- [Benefits of practical life exercises for attention emerge for girls but not boys](practical-life-attention-gender-effect.md) — related

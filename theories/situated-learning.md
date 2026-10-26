@@ -18,7 +18,7 @@ moved_from: [principle/situated-learning]
 # Situated Learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 14 claims (10 for, 3 mixed, 1 against) · 18 studies (6 qualitative, 5 causal, 2 review, 2 theoretical, 1 quant-synthesis, 1 associational, 1 design), `q1`–`q4` · 2 of 18 report an effect size · 12 claims rest on one study
+> **Evidence** · 16 claims (12 for, 3 mixed, 1 against) · 19 studies (6 qualitative, 5 causal, 3 review, 2 theoretical, 1 quant-synthesis, 1 associational, 1 design), `q1`–`q4` · 2 of 19 report an effect size · 14 claims rest on one study
 
 ## Description
 Situated learning holds that knowledge is inseparable from the social, material, and cultural contexts in which it is used. Learning is strengthened when it happens through participation in authentic practices rather than only through abstract decontextualized instruction.
@@ -45,6 +45,8 @@ Situated learning holds that knowledge is inseparable from the social, material,
 - [Students reconstruct authentic work practices in the simulator even when the simulation has removed the relevant environmental elements.](../claims/students-reconstruct-authentic-practice-in-simplified-simulation.md) [~W]
 - [Learning in ecologically valid, authentic contexts is more rapid, durable, and transferable](../claims/authentic-contexts-improve-durability-transfer.md) [+W]
 - [Different FUSE challenges facilitated different types of spatial reasoning, with CAD-software challenges eliciting relatively high intrinsic-dynamic and extrinsic-dynamic reasoning](../claims/challenges-elicited-different-spatial-reasoning.md) [+M] — attached 2026-10-24 from Ramey et al. (2019), which proposed "Distributed spatial sensemaking: spatial reasoning as distributed practices drawing on social and material resources"; tests this page's relationship.
+- [Encoding L2 words by viewing videos of social situations engages more native-like neural responses than textual translation, and in a second study improved behavioral performance over non-social videos](../claims/social-encoding-yields-native-like-neural-processing.md) [+W] — attached 2026-10-26 from Ana Zappa et al. (2025), which proposed "Social L2 Learning (SL2) model: L2 learning in real-life or simulated social interaction, with context quality explaining L1–L2 differences"; tests this page's relationship.
+- [Live direct social interaction during sign-language syntax learning produces native-like left inferior frontal gyrus activation that video viewing does not](../claims/live-interaction-native-like-lifg-sign-syntax.md) [+W] — attached 2026-10-26 from Ana Zappa et al. (2025), which proposed "Social L2 Learning (SL2) model: L2 learning in real-life or simulated social interaction, with context quality explaining L1–L2 differences"; tests this page's relationship.
 
 ## The evidence by question
 - *Does instruction built around authentic tasks and contexts produce better learning and transfer than abstract, decontextualized instruction?* [Chicago classrooms with high-quality authentic intellectual assignments showed greater one-year ITBS gains than classrooms with low-quality assignments](../claims/authentic-assignments-greater-itbs-gains.md) [+M]

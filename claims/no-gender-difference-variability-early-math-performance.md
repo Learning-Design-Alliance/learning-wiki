@@ -54,3 +54,5 @@ Variance equality was tested across all tasks using Levene's test. In the infant
 - [The inverse relation between mathematics and reading sex differences also holds within nations across the performance continuum](within-nation-inverse-relation-performance-continuum.md) — related
 - [The mathematics sex difference is practically non-existent among low performers and largest among high performers, where boys outnumber girls up to 2.7:1 above the 99th percentile](math-sex-difference-concentrated-at-high-end.md) — related
 - [No gender × question-type interaction and no gender main effect on TEMA-3 formal vs. informal math items](no-gender-question-type-interaction-formal-informal-math.md) — related
+- [In one small right posterior parietal region, girls showed greater neural variance than boys at equal mean activation](girls-greater-variance-right-posterior-parietal.md) — related
+- [Math ability on the TEMA-3 is statistically equivalent between girls and boys, with no gender difference in mean, variance, or age-related growth](tema3-math-ability-gender-equivalence.md) — related

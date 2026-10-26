@@ -51,3 +51,4 @@ The article's operational definition of the constructive mode. The authors illus
 - [Group A's discourse contained the idea units needed for knowledge construction but only rare rise-above moves, indicating a threshold rather than well-developed knowledge-creation discourse](group-a-threshold-knowledge-creation-discourse.md) — related
 - [While discussing a problem, learners actively construct situation-specific explanatory models from prior knowledge rather than merely reproducing what they know](learners-construct-situation-specific-explanatory-models.md) — a narrower finding that bears on this claim
 - [Adequate definitions of abstract and familiar terms rarely appear before the eleventh year](adequate-definitions-rare-before-eleventh-year.md) — related
+- [The article argues learning definitions should combine structural and functional perspectives](learning-combines-structural-and-functional-definitions.md) — related

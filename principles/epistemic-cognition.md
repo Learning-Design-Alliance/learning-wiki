@@ -40,7 +40,7 @@ sources:
 # Epistemic Cognition
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 28 claims (13 for, 13 mixed, 2 against) · 39 studies (16 causal, 6 theoretical, 5 review, 4 quant-synthesis, 4 qualitative, 3 associational, 1 design), `q1`–`q4` · 4 of 39 report an effect size · 20 claims rest on one study
+> **Evidence** · 29 claims (14 for, 13 mixed, 2 against) · 40 studies (17 causal, 6 theoretical, 5 review, 4 quant-synthesis, 4 qualitative, 3 associational, 1 design), `q1`–`q4` · 4 of 40 report an effect size · 21 claims rest on one study
 
 ## Conditional relationship
 
@@ -140,6 +140,7 @@ Re-read against the model on 2026-10-19. Of the thirteen claims listed here then
 - [Modernist discourses have produced contradictory environmental effects, raising awareness of problems while helping cultivate stories that construe the earth as an object of instrumental value](../claims/modernist-discourses-contradictory-environmental-effects.md) [+W] — (not about this page) a theoretical argument about environmental education, cited by a folded critical-communication page.
 - [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [~S] — (not about this page) list-recall experiments on memory capacity, cited by the folded Model-Evidence Link pattern as a caution against overload.
 - [Learners given appropriate materials and prompts can successfully develop, articulate, and elaborate rich epistemic ideals for good models and good sources](../claims/learners-develop-elaborate-epistemic-ideals.md) [+W] — attached 2026-10-21 from Sarit Barzilai et al. (2024), which proposed "Design epistemic learning environments by creating opportunities for learners and teachers to collaboratively notice, articulate, elaborate, and evaluate epistemic ideals and processes".
+- [Watching the video improved children's ability to detect real car-engine experts, with the advantage widening with age](../claims/video-improves-expert-detection-age-interaction.md) [+W] — attached 2026-10-26 from Chuey et al. (2021), which proposed "Expose young children to detailed causal mechanisms rather than omitting them, because exposure yields concrete memory plus abstract system-level knowledge that supports epistemic evaluation".
 
 ## Objective and learner-valued goal
 

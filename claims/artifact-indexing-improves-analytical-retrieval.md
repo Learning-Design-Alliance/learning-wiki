@@ -71,3 +71,4 @@ For the 10 direct queries whose terms appear in transcripts, retrieval found rel
 - [The Dashboard's largest rating advantage was on exploring response details (L1, Δ=1.30), while the two platforms were nearly comparable on broad trends (L2, Δ=0.20) and development over time (L6, Δ=0.10)](dashboard-detail-advantage-trends-comparable.md) — related
 - [Retrieval augmentation is essential for on-premise educational QA: a local LLM without retrieval scores below even a TF-IDF baseline](retrieval-augmentation-essential-local-llm-below-tfidf.md) — a broader claim this one bears on
 - [NCERT-tailored RAG preprocessing and figure-aware indexing improve retrieval precision over a generic-chunking baseline, per the authors' assertion](ncert-tailored-rag-improves-retrieval-precision.md) — related
+- [Fragmented vocabularies bias AI-mediated literature retrieval toward the user's home discipline](fragmented-vocabularies-bias-ai-retrieval.md) — related

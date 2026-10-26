@@ -13,7 +13,7 @@ generated:
 # Socioeconomic Status
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 148 claims (90 show a difference, 37 mixed, 21 no difference) · 113 studies (65 associational, 22 causal, 13 review, 8 quant-synthesis, 3 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 10 of 113 report an effect size · 147 claims rest on one study
+> **Evidence** · 151 claims (92 show a difference, 37 mixed, 22 no difference) · 115 studies (67 associational, 22 causal, 13 review, 8 quant-synthesis, 3 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 10 of 115 report an effect size · 150 claims rest on one study
 
 ## How to read this page
 
@@ -233,6 +233,9 @@ A learner's economic and social position: family income or poverty (often measur
 - [Including SES and offspring genome in the same model reduces the education PGS effect by more than 20% and SES effects by about 10–15%, implying 20–30% of parental SES effects are genomic](../claims/joint-model-corrects-upward-bias.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Incremental R2s for offspring genome, genomic component in parental SES, and environmental SES are about 1.5%, 1.5%, and 7.8%, yielding total genomic R2 of 3% and environmental R2 of 7.8%](../claims/incremental-r2-genome-versus-ses.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Parental SES context significantly and simultaneously predicts youth verbal ability in Add Health, with mother's education the largest SES coefficient](../claims/ses-context-predicts-verbal-ability-add-health.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Children reporting top grades come from systematically more advantaged socioeconomic circumstances than children reporting weaker grades, a pattern the authors relate to the Matthew effect](../claims/higher-grades-socioeconomically-better-off-matthew-effect.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [SES-by-timepoint interactions are not statistically significant for any of the three SES measures, although grade odds are higher at the 2-year than at the 3-year follow-up](../claims/ses-time-interactions-nonsignificant-abcd.md) [-W] — an instructional effect differs by group
+- [Sleep duration contributes more to variance in Chinese, mathematics, and science performance than to English and arts, but less than socioeconomic status in every subject](../claims/shapley-sleep-contribution-by-subject.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## The evidence by question
 - *Does family income predict achievement and attainment, how large are the gaps, and when do they open?* [School test score averages are strongly related to the income of the families a school serves](../claims/school-test-scores-strongly-related-to-family-income.md) [+M]

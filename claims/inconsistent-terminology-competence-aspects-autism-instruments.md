@@ -9,6 +9,7 @@ generated:
   at: 2026-10-19
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-10-26
 recheck_by: 2029
 sources:
   - id: nick-gerrit-hasche-2026
@@ -33,7 +34,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r3` · `q3`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
+> **Currency** · newest study 2026 · checked against its sources 2026-10-26 (automated, 2 of 2 entries) · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` Different terms were often used for the same competence aspect and vice versa across instruments, creating confusion between knowledge, beliefs, and motivation. [→ Nick Gerrit Hasche 2026](#nick-gerrit-hasche-2026)
@@ -75,3 +76,6 @@ As part of RQ1, the review coded disciplinary origin (first author's affiliation
 - [Jingle-jangle fallacies fragment SR research in education and impede cumulative progress](jingle-jangle-fallacies-fragment-sr-research.md) — a broader claim this one bears on
 - [Jingle-jangle fallacies plague motivation constructs, requiring explicit justification of construct distinctions](jingle-jangle-motivation-constructs.md) — related
 - [The article reports that research terminology such as 'diagnosis' and 'analysis' is used ambiguously and needs more careful definition](zirbes-1922-diagnosis-analysis-term-ambiguity.md) — possibly the same claim (merge candidate)
+- [Embodiment research lacks a shared vocabulary, with over 20 distinct labels for embodiment-related concepts appearing in the last decade](embodiment-terminology-fragmentation-over-twenty-labels.md) — related
+- [Loose use of movement-based learning language risks conflating evidence-based embodied learning with debunked neuromyths](embodiment-terminology-neuromyth-conflation-risk.md) — related
+- [Inconsistent embodiment labels cause functionally similar experiments to go uncited across disciplines, hindering meta-analysis](terminology-silos-uncited-parallel-experiments.md) — related

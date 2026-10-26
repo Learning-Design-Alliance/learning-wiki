@@ -107,6 +107,7 @@ Elaboration improves retention and comprehension because deeper processing at en
 **[Cornell Note-Taking](https://cil.fas.harvard.edu/guide-note-taking)** — The cue-column/question format prompts students to generate questions and summaries that elaborate on lecture notes rather than transcribe them.
 
 **[Anki](https://apps.ankiweb.net)** — Spaced-repetition flashcards work best when users add personal examples and mnemonics to card fields, embedding elaboration into review.
+- [Use elaboration, reactivation of prior knowledge, and desirable difficulty during encoding to build connected, detailed memories](../strategies/encoding-elaboration-reactivation-strategy.md)
 
 ## Key Sources
 - Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., & Willingham, D. T. (2013). Improving students' learning with effective learning techniques. *Psychological Science in the Public Interest, 14*(1), 4–58. [doi:10.1177/1529100612453266](https://doi.org/10.1177/1529100612453266)

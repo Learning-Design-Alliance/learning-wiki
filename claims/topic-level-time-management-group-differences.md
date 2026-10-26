@@ -49,3 +49,4 @@ Subtracted ENA network of time management modes and topics (Figure 13) comparing
 - [Low-performing students tended to procrastinate more on graded problem-solving exercises and on video watching with formative MCQs](low-performers-procrastinated-exercises-and-videos.md) — related
 - [On the final exam, high performers had more dominant strategy–time-management links than low performers, who showed dominant catching-up, ahead-with-errors, and video-revision links](final-exam-subtracted-network-group-differences.md) — related
 - [Weekly ENA mean comparisons showed significant high–low performer differences in Weeks 2, 3, 6, and 7 on mr1 and in Weeks 5, 6, and 10 on svd2](weekly-ena-ttests-significant-weeks.md) — related
+- [Counting questions students procrastinate, practicing little until late in the semester, while counting days spreads practice across the term](counting-questions-procrastination-pattern.md) — related

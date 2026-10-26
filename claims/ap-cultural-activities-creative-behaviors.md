@@ -46,3 +46,4 @@ DRRW analysis of at least two-semester AP participants measuring hours per week 
 
 ## Related Claims
 - [Participation in at least two AP workshops increased probability of pursuing higher education after high school by 16%](ap-higher-education-intent-increase.md) — related
+- [The art-based program studied by Egana-delSol is a high-school program, not a middle-school program, per the published correction](high-school-art-based-program-correction.md) — related

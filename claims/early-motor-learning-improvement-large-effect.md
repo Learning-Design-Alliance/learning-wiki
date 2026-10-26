@@ -46,3 +46,4 @@ Two-tailed paired-sample t-test comparing mean trial tapping speed between block
 
 ## Related Claims
 - [Adolescents trained on a finger-tapping task in the evening show greater off-line gains in tapping speed than afternoon-trained adolescents at both 24 hours and 7 days](evening-encoding-greater-finger-tapping-speed-gains.md) — related
+- [Skill acquisition during a finger-tapping training session does not differ according to time of day of training](motor-acquisition-independent-of-time-of-day.md) — related

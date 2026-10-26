@@ -2,7 +2,7 @@
 
 Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's.
 
-**1976 entries** · 0 stable · 1976 in review · 0 drafts
+**1977 entries** · 0 stable · 1977 in review · 0 drafts
 
 ---
 
@@ -1429,6 +1429,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 
 #### R {: #letter-r }
 
+* [R-package for computational modeling of the auditory periphery (ANI, pitch expectation, rhythmical density)](r-package-for-computational-modeling-of-the-auditory-periphery-ani-pitch-expectation-rhyth.md) - An R package released by Moura et al.
 * [Raging Skies](raging-skies.md) - Raging Skies is a digital game-based assessment developed by Ying Cui and colleagues that measures Grade 5 students' weather knowledge through storm-chasing tasks, adaptive difficulty, and in-game and summary feedback.
 * [RAIL-Ed framework](rail-ed-framework.md) - A justice-centered framework proposed by Shahin Hossain et al.
 * [Rainbow passage with ASR transcription and segmental error rate (SER)](rainbow-passage-with-asr-transcription-and-segmental-error-rate-ser.md) - A pronunciation diagnostic assessment that uses the Rainbow passage, automatic speech-to-text transcription, and segmental error-rate scoring to identify learners' pronunciation errors.

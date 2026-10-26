@@ -49,3 +49,4 @@ The WWC general reading achievement synthesis covered six studies including 2,57
 - [SFA® shows potentially positive effects on reading fluency for beginning readers](sfa-potentially-positive-reading-fluency.md) — related
 - [SFA® shows positive effects on alphabetics for beginning readers in grades K–4](sfa-positive-effects-alphabetics-k-4.md) — related
 - [Comprehension domain: one study found a substantively important positive effect and one an indeterminate effect](achieve3000-comprehension-mixed-findings.md) — related
+- [In a mixed-effects model, classroom condition significantly predicted reading fluency development, with SFA-On and SFA-Off both exceeding baseline but not each other](sfa-mixed-model-condition-effect-reading-fluency.md) — a narrower finding that bears on this claim

@@ -69,3 +69,5 @@ Mixed effect analysis with participant as random variable and condition, order a
 - [Open-plan classroom configurations had significantly higher background noise levels than enclosed configurations, with no reverberation difference](open-plan-classrooms-higher-background-noise.md) — related
 - [Equated WCPM scores are more highly correlated across passages read by the same student than raw WCPM scores, suggesting greater reliability](equated-wcpm-higher-cross-passage-correlations.md) — related
 - [Cross-term WCPM score differences are more consistent across passage positions after equating, supporting progress monitoring](equated-wcpm-consistent-progress-monitoring-differences.md) — related
+- [Sound field amplification produces no significant overall difference in reading fluency development in 8–10-year-old students](sfa-no-reading-fluency-benefit-grade-3-4.md) — related
+- [In a mixed-effects model, classroom condition significantly predicted reading fluency development, with SFA-On and SFA-Off both exceeding baseline but not each other](sfa-mixed-model-condition-effect-reading-fluency.md) — related

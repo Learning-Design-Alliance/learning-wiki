@@ -204,6 +204,7 @@ Immediate recall, delayed recall, explanation and transfer are separate claims; 
 - [Generative Processing](../strategies/generative_processing.md)
 - A student states "3 × 4" for a slice of a rectangular prism without justification; the teacher physically separates the prism into two slices with a sheet of paper, making the structured counting explicit, and a second student then connects "two slices" and "12 + 12" back to the original expression.
 - A student contributes "3 × 8" with layering gestures already partly justified; the teacher asks her to explain, eliciting "3 floors, 8 cubes per floor," which becomes a shared reference point the rest of the class can build on.
+- [Use elaboration, reactivation of prior knowledge, and desirable difficulty during encoding to build connected, detailed memories](../strategies/encoding-elaboration-reactivation-strategy.md)
 
 ### Validated
 - [Comparing contrasting cases improves learning.](../claims/comparing-contrasting-cases-improves-learning.md) [+M] — Schwartz & Bransford's (1998) "time for telling" studies showed that learners who first compared and elaborated on contrasting cases of bird-adaptation data learned far more from a subsequent lecture than lecture-only controls.

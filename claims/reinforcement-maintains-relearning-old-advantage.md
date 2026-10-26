@@ -69,3 +69,4 @@ Experiment 3 (88% reinforcement condition, n = 70 analysed): Post win rates favo
 - [Fixing the win rate in the During phase reduces optimal behaviour rates, indicating suppression of the previously learned pattern](fixed-win-rate-reduces-obr.md) — related
 - [Relearning an old response pattern generally beats learning a new one in the Post phase, except under severe 25% punishment](relearning-old-beats-learning-new-except-severe-punishment.md) — related
 - [Suppression of the Pre response pattern between Pre and During phases positively predicts Post phase win rates when learning a new pattern, mainly after wins](obr-suppression-predicts-learning-new.md) — related
+- [A 50% shock reinforcement rate yielded the most learners compared with 35% and 60% rates](reinforcement-rate-50-percent-most-learners.md) — related

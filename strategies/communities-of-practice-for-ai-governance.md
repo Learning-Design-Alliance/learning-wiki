@@ -99,6 +99,7 @@ The article recommends that universities move away from rigid, top-down AI polic
 - [Define institutional value from the bottom up, incorporating learning outcomes, community engagement, and career readiness beyond earnings thresholds](bottom-up-value-definition-beyond-earnings.md)
 - [Use consensus processes, editorial strategies, and institutional policies to make theory integration impactful](consensus-processes-editorial-institutional-support-integration.md)
 - [Tailor AI deployment to specific applications and stakeholder groups rather than applying a one-size-fits-all integration approach](stakeholder-specific-ai-deployment-strategy.md)
+- [Develop a community-maintained living glossary of embodiment terminology on an open-science platform](living-glossary-embodiment-consensus-strategy.md)
 
 ## Examples
 -

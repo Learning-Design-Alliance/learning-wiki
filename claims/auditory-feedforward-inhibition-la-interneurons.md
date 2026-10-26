@@ -51,3 +51,4 @@ Slice electrophysiology with interneurons voltage-clamped at −40 mV; outward c
 - [Glutamatergic synapses on BA interneurons are less rectifying than those on LA interneurons, indicating fewer calcium-permeable GluR2-lacking AMPARs in the BA](ba-interneurons-fewer-calcium-permeable-ampar.md) — related
 - [Long-term potentiation at cortical inputs is restricted to LA interneurons and cannot be induced in BA interneurons](ltp-restricted-to-la-interneurons.md) — related
 - [NMDAR subunit stoichiometry differs between LA and BA interneurons: LA NMDAR EPSCs decay faster and LA interneurons include a GluN2A-dominant majority plus NMDAR-lacking cells, absent in the BA](nmdar-subunit-composition-la-ba-differs.md)
+- [Experimental work indicates basolateral amygdala cells activated by appetitive CSs mainly encode behavioural output, not CS identity, challenging amygdalo-centric feedforward accounts](bl-cells-encode-behavioural-output.md) — related

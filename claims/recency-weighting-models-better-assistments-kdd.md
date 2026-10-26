@@ -72,3 +72,4 @@ Analysis of random subsets of the KDD cup 2005/2006 dataset (809,694 observation
 - [For Chinese tone learning, simpler models insensitive to memory decay fit as well as or better than memory-feature models](simpler-models-sufficient-for-tone-learning.md) — related
 - Ablation of feature-vector models: time-window features add no predictive power to logistic regression but boost a feedforward network, and total count features substantially boost performance on all datasets — related
 - Recency weights let MS-BKT capture learning and forgetting from response patterns without a fixed learning rate, in a hypothetical example — a narrower finding that bears on this claim
+- [The interactive two-timescale model (M4) provides the most general account of naturalistic learning, though the additive-forgetting model (M3) fits better at six of eight interval subsets](interactive-model-best-general-account.md) — related

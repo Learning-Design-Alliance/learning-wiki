@@ -49,3 +49,4 @@ PSM analysis comparing AP participants by exposure intensity against matched non
 - [Participation in at least two AP workshops produced significant GPA improvements of 0.55 sd overall, 0.61 sd language, 0.36 sd math, and 0.33 sd art](ap-gpa-improvements-effect-sizes.md) — possibly the same claim (merge candidate)
 - [Participation in at least two AP workshops increased probability of pursuing higher education after high school by 16%](ap-higher-education-intent-increase.md) — possibly the same claim (merge candidate)
 - [Longer operating and better implemented community school programs yield more positive results for students and schools](implementation-dose-response-community-schools.md) — a broader claim this one bears on
+- [The art-based program studied by Egana-delSol is a high-school program, not a middle-school program, per the published correction](high-school-art-based-program-correction.md) — related

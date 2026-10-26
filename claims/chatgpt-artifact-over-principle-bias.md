@@ -75,3 +75,4 @@ Diary excerpt from ChatGPT participant P11 illustrating that even a principle-or
 - [Learning-oriented intentions did not significantly predict enacted in-chat behavior; only selecting final solutions predicted executive and answer-seeking requests](intent-enactment-gap-genai-help-seeking.md) — related
 - [Students using ChatGPT 3.5 experience lower germane cognitive load than students using Google, the strongest of the three load differences](llm-search-lower-germane-cognitive-load.md) — related
 - [Students using Google produce higher-quality justifications in their final recommendations than students using ChatGPT 3.5](web-search-higher-quality-justifications-than-llm.md) — related
+- [Fragmented vocabularies bias AI-mediated literature retrieval toward the user's home discipline](fragmented-vocabularies-bias-ai-retrieval.md) — related

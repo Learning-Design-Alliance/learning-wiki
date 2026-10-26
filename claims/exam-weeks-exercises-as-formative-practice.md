@@ -52,3 +52,4 @@ Weekly epistemic networks for Weeks 6 and 13 (Figure 5) from the same trace-data
 - [The analytics agent surfaced a Module 2 dead zone — students stopping around the 42-minute lecture mark where exercises ended — and the instructor revised the exercise set in response](itas-dead-zone-finding.md) — related
 - [Learners inclined to seek help were less likely to pass an assessment after completing a lecture](help-seekers-less-likely-pass-assessment-after-lecture.md) — related
 - [Commitment devices such as deadlines show demand but mixed effectiveness for student performance](commitment-devices-mixed-effectiveness-education.md) — related
+- [Counting questions students procrastinate, practicing little until late in the semester, while counting days spreads practice across the term](counting-questions-procrastination-pattern.md) — related

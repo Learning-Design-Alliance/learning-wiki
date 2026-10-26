@@ -50,3 +50,4 @@ Discussion-level interpretation (type e) of the three-experiment pattern: the au
 - [Trial-level reactive inhibition (progressively larger sequence RTs within trials) emerges during training and dissipates across rest breaks in the FTT](trial-level-reactive-inhibition-finger-tapping.md) — related
 - [Even a substantially increased declarative-load intervening task placed late in training does not impair the post-rest gain (Experiment 2)](increased-declarative-load-late-no-impairment-experiment-2.md) — a narrower finding that bears on this claim
 - [No significant association exists between intervening-task performance and post-rest motor gain in any experiment](no-association-declarative-performance-motor-gain.md) — a narrower finding that bears on this claim
+- [No retrograde interference: forgetting after months is comparable for early- and late-trained tasks (Experiment 1B)](no-retrograde-interference-retention-exp1b.md) — related

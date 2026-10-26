@@ -115,6 +115,7 @@ Retrieval practice produces substantially more durable retention than restudying
 - [Implement weekly low-stakes spaced recall quizzes cycling fundamental concepts monthly, with a plan to address student frustration](weekly-spaced-recall-quiz-strategy-fundamental-concepts.md)
 - [Use frequent, low-stakes, cumulative tests in varied formats, including pretests, and encourage student self-testing](frequent-low-stakes-cumulative-testing-strategy.md)
 - [In-class Study Skills intervention: a short small-group discussion on spaced studying and self-testing, with pre-test writing prompts and reminders](ss-spaced-studying-self-testing-small-group-intervention.md)
+- [Apply retrieval practice (quizzes, peer teaching, flipped classroom) and monitor detail loss to balance gist and episodic memory](retrieval-practice-balance-gist-detail-strategy.md)
 
 ## Examples
 - **Team-Based Learning** ([tbl.teamslearn.org](http://www.tbl.teamslearn.org)) — individual Readiness Assurance Tests taken before team discussion, with immediate appeal and feedback

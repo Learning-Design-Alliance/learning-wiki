@@ -56,3 +56,5 @@ Cross-sectional administration of the TEMA-3 to 275 children (133 boys, 142 girl
 - [No statistically significant sex differences in the direct associations among EF, task orientation, and mathematics or in the mediating effect of task orientation](no-sex-differences-ef-task-orientation-math-pathways.md) — related
 - [Boys and girls show no gender difference in numerosity perception in infancy at 6 months of age](no-gender-difference-infant-numerosity-perception.md) — related
 - [The cross-lagged model holds equally for intervention and control groups and for boys and girls](model-invariance-gender-and-intervention-groups.md) — related
+- [Children engaged number-selective neural responses in the intraparietal sulci during educational videos, and boys and girls did so equally](ips-number-selectivity-equivalent-genders.md) — related
+- [Math ability on the TEMA-3 is statistically equivalent between girls and boys, with no gender difference in mean, variance, or age-related growth](tema3-math-ability-gender-equivalence.md) — possibly the same claim (merge candidate)

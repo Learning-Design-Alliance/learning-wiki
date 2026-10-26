@@ -42,6 +42,7 @@ The review recommends that future systematic searches extend beyond the term "wo
 - [Boolean Operators](boolean_operators.md)
 - [Direct Instruction: Keyword Search](direct_instruction-keyword_search.md)
 - [Use the Mentefacto Map to define keywords and inclusion/exclusion criteria in systematic reviews](mentefacto-map-review-criteria.md)
+- [Attach a minimal terminology statement (term, operational definition, hypothesized pathway) to each study](minimal-terminology-statement-per-study.md)
 
 ## Examples
 -

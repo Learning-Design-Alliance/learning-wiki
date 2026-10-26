@@ -49,3 +49,4 @@ Non-preregistered item-level mixed-effects and piecewise regression analyses of 
 - [In Experiment 1, cue-only JOLs produced significantly better Phase B memory and transfer than restudy, while overt retrieval's memory advantage over restudy was only marginal](cue-only-jols-beat-restudy-forward.md) — related
 - [Cue-only JOLs performed similarly to overt retrieval, and cue–target JOLs similarly to restudy, on Phase B memory and transfer (Experiment 1)](cue-only-jols-match-overt-retrieval.md) — related
 - [Self-reported retrieval use moderated the forward benefit of cue-only JOLs: higher retrieval ratings predicted better Phase B memory and transfer only in the cue-only JOLs condition](retrieval-self-report-moderates-cue-only-jol-benefit.md) — related
+- [Overt student behavior is an unreliable proxy for covert cognitive engagement and instructional effectiveness](overt-behavior-unreliable-proxy-engagement.md) — related

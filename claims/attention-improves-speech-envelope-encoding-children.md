@@ -54,3 +54,5 @@ Mixed-effects analysis of mTRF reconstruction accuracy (Pearson's r) from 48 chi
 - [Monolingual and bilingual children perform the dichotic comprehension task equivalently, with both groups finding English–English interference hardest](equivalent-comprehension-monolingual-bilingual-children.md) — related
 - [Children of higher maternal education showed a significantly larger attention effect on neural responses (mean attended–unattended difference 1.7 vs. 0.6 μV)](attention-effect-larger-higher-maternal-education.md) — related
 - [The group difference in neural attentional modulation is tied to reduced distractor suppression in the unattended channel, not to differences in response to attended stimuli](ses-distractor-suppression-deficit-not-signal-enhancement.md) — related
+- [Neural speech tracking of the lecturer's speech is stronger during high-interest lecture segments](high-interest-better-neural-speech-tracking.md) — related
+- [Noise condition modulates neural speech tracking, with better decoding of speech in continuous than quiet or intermittent noise](speech-tracking-modulated-by-noise-type.md) — related

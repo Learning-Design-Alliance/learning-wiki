@@ -53,3 +53,4 @@ Per-technique analysis in Section 6.2 of cross-lingual transfer from bilingual p
 - Cross-language SRL classifier transfer shows about 0.1 AUC degradation relative to within-language performance, except for realizing errors — related
 - [Cross-linguistic transfer is skill-specific: phonological awareness and print concepts are more likely to transfer across languages, while vocabulary and comprehension are more language-dependent](cross-linguistic-transfer-skill-specific.md) — a broader claim this one bears on
 - [Preserving a bilingual student's heritage language supports rather than hinders English acquisition](heritage-language-preservation-supports-english-acquisition.md) — related
+- [Low-level dynamic handwriting features may be transferable to more languages, paving the way for a cross-lingual model for detecting handwriting difficulties](cross-lingual-handwriting-difficulty-detection.md) — related

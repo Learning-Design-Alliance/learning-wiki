@@ -13,7 +13,7 @@ generated:
 # Writing Skills
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 150 claims (100 show a difference, 30 mixed, 20 no difference) · 82 studies (29 causal, 26 associational, 10 quant-synthesis, 10 review, 4 theoretical, 3 design), `q1`–`q4` · 30 of 82 report an effect size · 145 claims rest on one study
+> **Evidence** · 153 claims (102 show a difference, 31 mixed, 20 no difference) · 83 studies (30 causal, 26 associational, 10 quant-synthesis, 10 review, 4 theoretical, 3 design), `q1`–`q4` · 31 of 83 report an effect size · 148 claims rest on one study
 
 ## Description
 Writing skills run from the foundational to the compositional. At the foundation are the motor skills of handwriting, knowledge of letters and print, spelling, punctuation, capitalisation and writing speed. Composition is the expression of ideas in writing: setting goals for a piece, deciding on content and structure, and shaping it for an audience and purpose. Genre knowledge is knowing the elements, vocabulary and order a narrative, persuasive or informative text calls for, and argumentative reasoning is the ability to make and support a claim with evidence and judge other people's arguments. The Learner Variability Navigator covers these as five factors across early childhood, the primary and secondary grades and adult learning.
@@ -188,6 +188,9 @@ They are assessed with curriculum-based measures (copying, dictation, spelling, 
 - [Writing fluency completely mediates the relations of Grade 1 spelling and handwriting fluency to Grade 2 writing quality](../claims/fluency-completely-mediattranscription-writing-quality.md) [+W] — learners who differ on it differ in outcomes
 - [In Bird's school-wide testing, speed correlated positively with comprehension and accuracy but negatively with handwriting legibility.](../claims/speed-correlations-vary-by-subject.md) [~M] — learners who differ on it differ in outcomes
 - [NAT produced large gains in Chinese handwriting construction and accuracy but no significant effect on directionality was detected](../claims/nat-chinese-handwriting-construction-accuracy-gains.md) [~M] — instruction changes it
+- [Children's handwriting specificity transfers across scripts: 90% of Cyrillic–Latin feature rank correlations were significant and correlation levels increased with grade](../claims/handwriting-specificity-rank-correlation-transfer.md) [+M] — learners who differ on it differ in outcomes
+- [Fine motor handwriting skills transfer positively from Cyrillic to Latin: Latin-script writing quality improved with grade despite zero Latin experience](../claims/fine-motor-transfer-cyrillic-to-latin.md) [+M] — learners who differ on it differ in outcomes
+- [For features such as Mean Velocity and Handwriting Density, Cyrillic improves faster than Latin, producing an increasing gap that indicates incomplete transfer](../claims/incomplete-transfer-velocity-density.md) [~M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Wechsler Individual Achievement Test (Third Edition)** (Breaux & Frey, 2010): This multi-battery test can be used in a variety of settings to measure ability and screen for potential learning disabilities. There are extensive written expression sub-tests to analyze Composition abilities.
