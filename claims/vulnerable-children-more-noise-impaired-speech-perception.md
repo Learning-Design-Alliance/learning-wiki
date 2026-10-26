@@ -71,3 +71,4 @@ The review reports, citing Crandell and Smaldino, that "A stronger noise effect 
 - [Children are more susceptible than adults to the effects of environmental noise on cognitive performance](children-more-susceptible-to-noise-than-adults.md) — possibly the same claim (merge candidate)
 - [Most children with emotional and behavioral disorders have undiagnosed language impairment](ebd-undiagnosed-language-impairment.md) — related
 - [Children with specific language impairment show reduced selective attention to and integration of audiovisual speech](sli-reduced-audiovisual-speech-attention-integration.md) — related
+- [Attention and speech perception in noise predict which children are most disadvantaged by open-plan classrooms](attention-and-speech-in-noise-predict-environment-sensitivity.md) — a narrower finding that bears on this claim

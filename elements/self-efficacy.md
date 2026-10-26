@@ -146,6 +146,7 @@ Instructional design shapes self efficacy primarily through the four sources Ban
 - **[Writing conferences](../strategies/writing-conferences.md)** — brief one-to-one feedback naming a specific strategy the writer used successfully, building efficacy through verbal persuasion anchored in real evidence.
 - **[Reciprocal teaching](../strategies/reciprocal_teaching.md)** — students take turns leading comprehension strategies, giving each learner a public mastery experience and modeling for peers.
 - [Build relational school resources (teacher–student relationships, peer support, encouragement, extracurriculars) to scaffold self-regulation for low-efficacy marginalized students](../strategies/relational-resources-low-efficacy-students.md)
+- [Balance AI integration in SRL so technological advantages are harnessed without undermining student self-efficacy](../strategies/balanced-ai-integration-srl-self-efficacy.md)
 
 ## Key Sources
 - Bandura, A. (1997). *Self-efficacy: The exercise of control*. W. H. Freeman.

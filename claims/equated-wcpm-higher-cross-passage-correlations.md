@@ -50,3 +50,4 @@ Large-scale observational analysis of adaptive oral reading test records from st
 - [Equated WCPM scores generally correlate more highly with MAP Growth Reading RIT scores than raw WCPM scores, with one exception](equated-wcpm-higher-external-validity-correlations.md) — related
 - [Equated WCPM scores show much less within-student variance than raw WCPM scores, indicating reduced passage-difficulty fluctuations](equated-wcpm-less-within-student-variance.md) — related
 - [Equated WCPM scores from non-reference passages show smaller residuals against reference-passage scores than raw scores, with one passage exception](equated-wcpm-smaller-residuals-one-exception.md) — related
+- [Reading fluency development is greater during enclosed-classroom phases than open-plan phases in 7–10-year-olds](enclosed-classroom-faster-reading-fluency-development.md) — related

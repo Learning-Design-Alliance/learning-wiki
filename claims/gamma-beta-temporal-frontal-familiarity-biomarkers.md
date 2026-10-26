@@ -53,3 +53,4 @@ Interpretability analysis of the 4-class Random Forest (feature importances) and
 - [Domain-separated EEG classifiers decode familiarity within each stimulus category, with peak LOGO Mean Recall of 0.8992 for faces-only (HistGradient Boosting) and 0.8670 for equations-only (CNN)](domain-separated-eeg-familiarity-decoding.md) — related
 - [EEG-derived temporal flexibility and search information in specific Brodmann areas and frequency bands are associated with simulator task performance](eeg-flexibility-search-information-associated-performance.md) — related
 - [MRMR feature ranking identifies occipital alpha PSD as the most discriminative feature, followed by frontal gamma, high-beta, and theta](mrmr-occipital-alpha-top-feature.md) — related
+- [Teacher-initiated activities also increased theta power and decreased beta and gamma power, converging with the alpha-based inference of lower wakefulness and attention](theta-beta-gamma-convergent-evidence.md) — related

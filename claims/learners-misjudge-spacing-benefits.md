@@ -135,3 +135,4 @@ Participants used a web-based programme to learn GRE-type vocabulary word pairs,
 - [In Experiment 1, students' prospective judgments of learning were higher for blocked studying even though actual test performance was higher for interleaved studying](jol-outcome-dissociation-interleaved-exp1.md) — a narrower finding that bears on this claim
 - [Material learned with the expectation of delayed reproduction is retained better than material learned for near-term reproduction](delayed-reproduction-expectation-improves-retention.md) — related
 - [Distributed (spaced) learning is reported to work best compared with massed study in one long session](distributed-practice-beats-cramming-principle.md) — related
+- [Students perform worse on interleaved homework than blocked homework and misjudge its learning value](interleaved-homework-worse-performance-metacognitive-judgments.md) — related

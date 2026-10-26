@@ -72,3 +72,4 @@ Supplementary path analyses replaced the effortful-control factor with its four 
 - [Total childhood ADHD symptoms predict longer adolescent SSRT, but neither symptom domain shows specificity and early precursors do not predict SSRT](ssrt-predicted-by-total-childhood-adhd-symptoms-only.md) — related
 - [Paternal inattention symptoms measured in early infancy predict adolescent N2 amplitude almost 17 years later, suggesting a parent-of-origin effect](paternal-inattention-infancy-predicts-adolescent-n2.md) — related
 - [Lower inhibitory control in early adolescence predicts greater increases in delinquency from middle adolescence to emerging adulthood](early-adolescent-inhibitory-control-predicts-delinquency-increase.md) — related
+- [Children's third-party intervention is not associated with impulsivity or inhibitory control over negative emotion indexed by frontal N2](intervention-not-impulsivity-n2.md) — related

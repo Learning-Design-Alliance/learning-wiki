@@ -48,3 +48,4 @@ EEG analysis of 24 students with adequate data, comparing relative alpha power (
 - [Theta power is higher during on-task than idle or off-task states, but is a less robust engagement indicator than alpha power](theta-higher-ontask-than-idle-offtask.md) — related
 - [During cooperative learning, high-school students alternate between on-task, off-task, and idle states every 10–30 seconds on average](engagement-state-fluctuations-every-10-30s.md) — related
 - [High-school students in cooperative learning appear on-task about 60% of the time, off-task 11%, and idle 13%](on-task-60-percent-cooperative-learning.md) — related
+- [Students were less attentive during video watching than during lecture, with video showing the greatest alpha power of the four activities](video-watching-least-attentive-alpha.md) — related

@@ -50,3 +50,4 @@ The editorial reports, citing Klatte et al. (2013), a review of studies on child
 - [Chronic exposure to indoor noise and reverberation at school is associated with poorer children's reading and prereading skills](chronic-indoor-classroom-noise-reading-prereading.md) — related
 - [Chronic aircraft noise exposure is associated with lower reading comprehension in children, with a linear exposure–effect relationship](chronic-aircraft-noise-lower-reading-comprehension.md) — related
 - [Meaningful background speech impairs delayed memory for texts in teenagers more consistently than transportation noise](meaningful-speech-impairs-prose-memory-teenagers.md) — related
+- [Attention and speech perception in noise predict which children are most disadvantaged by open-plan classrooms](attention-and-speech-in-noise-predict-environment-sensitivity.md) — a narrower finding that bears on this claim

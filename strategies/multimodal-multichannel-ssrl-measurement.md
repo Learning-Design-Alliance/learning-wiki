@@ -47,6 +47,7 @@ The review's stated forward methodological path is to widen data channels toward
 - [Research agenda: investigate affective dynamics with within-person, longitudinal, and multi-channel methods](affective-dynamics-research-agenda-curiosity-interest.md)
 - [Adopt an integrative methodological toolkit using machine learning and computational models to capture SR's multi-level, temporal, and social dynamics](integrative-methodological-toolkit-machine-learning-sr.md)
 - [Employ multimodal methods to capture the multifaceted feedback process](multimodal-methods-feedback-process.md)
+- [Adopt integrative, longitudinal, multimodal deep-phenotyping designs combining self-report, behavioural tasks, ecological momentary assessment, and physiological measures](deep-phenotyping-multimodal-regulation-research.md)
 
 ## Examples
 -

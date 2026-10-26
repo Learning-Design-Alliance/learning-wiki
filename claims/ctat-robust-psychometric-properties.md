@@ -79,3 +79,4 @@ IRT item-parameter analysis of the main-study data using the 3PL1p model. Mean d
 - [The ten-construct instrument showed strong psychometric quality, with the four ARCS dimensions forming a psychometrically sound higher-order motivation construct](utaut3-arcs-instrument-psychometric-validity.md) — related
 - [CSEBench items show adequate psychometric quality, with satisfactory difficulty, discrimination, and reliability for both diagnostic forms](csebench-item-quality-reliability.md) — related
 - [AITAQS dimension reliabilities fall within 0.721–0.745 Cronbach's α, exceeding acceptability thresholds, with all CR values above 0.7 though some AVE values fall below 0.5.](aitaqs-reliability-alpha-cr-ave.md) — related
+- [AI literacy scales show good structural validity and internal consistency but are rarely tested for other measurement properties](ai-scales-structural-validity-strong-other-properties-untested.md) — related

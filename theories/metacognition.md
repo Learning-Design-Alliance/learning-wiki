@@ -12,7 +12,7 @@ generated:
 # Metacognition
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 458 claims (214 for, 221 mixed, 23 against) · 231 studies (111 causal, 50 associational, 26 review, 16 theoretical, 12 quant-synthesis, 10 qualitative, 6 design), `q1`–`q4` · 82 of 231 report an effect size · 451 claims rest on one study
+> **Evidence** · 461 claims (215 for, 223 mixed, 23 against) · 234 studies (112 causal, 50 associational, 28 review, 16 theoretical, 12 quant-synthesis, 10 qualitative, 6 design), `q1`–`q4` · 82 of 234 report an effect size · 454 claims rest on one study
 
 ## Description
 Metacognition is knowledge about, and the ability to regulate, one's own cognitive processes — realistically judging how difficult a task will be, monitoring whether a strategy is working, and adjusting accordingly. It is closely related to, but distinct from, [Executive Function Development](executive-function-development.md): executive function is the underlying capacity to control and coordinate cognition, while metacognition is specifically the learner's own knowledge *about* that cognition and the strategies available to direct it.
@@ -501,6 +501,9 @@ A rough age-8 inflection point has been observed in some longitudinal work: stra
 - [Metamemory judgments after learning predicted subsequent memory, whereas curiosity ratings did not relate to memory](../claims/metamemory-predicts-memory-curiosity-null.md) [+W]
 - [Confidence bias is not linked to course grades or task accuracy, but lower confidence bias is associated with more left inferior frontal gyrus activity during error evaluation](../claims/confidence-bias-left-ifg-activity-not-grades.md) [~W]
 - [Neural contrasts: confident trials recruit widespread fronto-parietal activation; confident-error trials recruit medial frontal and bilateral inferior prefrontal/insular regions; overconfidence differences are confined to the lingual gyrus](../claims/neural-contrasts-confidence-error-lingual-gyrus.md) [~W]
+- [In the performance phase, AI tools helped learners organize tasks and supported metacognitive monitoring, but sometimes inaccurately reflected tasks and lacked in-depth responses](../claims/ai-performance-phase-benefits-and-drawbacks.md) [~W]
+- [Weak metacognitive-regulation capacities are associated with disengagement, aggression, and delinquency, while reflective scaffolding interventions improve psychosocial functioning](../claims/mr-weakness-delinquency-scaffolding-improves.md) [+W]
+- [Students underestimate their retrospective use of distributed practice compared with daily experience-sampling reports](../claims/retrospective-underestimation-distributed-practice.md) [~W]
 
 ## The evidence by question
 

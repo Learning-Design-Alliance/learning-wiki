@@ -59,3 +59,4 @@ The review's third dominant theme, from thematic analysis of the 50 included stu
 - [Current AI deployments in higher education remain task-oriented rather than ecosystem-oriented despite advances in LLMs and multimodal AI](functional-fragmentation-persists-despite-llm-advances.md) — related
 - [Phase VI AI-enabled systems face six documented challenges: explainability, hallucination risk, prompt sensitivity, computational cost, validation complexity, and limited large-scale evidence](phase-vi-ai-systems-six-challenges.md) — related
 - [Most AI-for-sustainability initiatives in higher education remain limited in scope, exploratory, and not integrated into institutional strategies](ai-sustainability-initiatives-limited-exploratory.md) — related
+- [Interpretability and feasibility of AI literacy scales remain largely unknown, and open raw data is scarce](ai-scale-interpretability-feasibility-unreported.md) — related

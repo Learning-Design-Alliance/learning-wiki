@@ -44,7 +44,8 @@ A modified serial reaction time task in which a fixed 12-location stimulus seque
 - [Inserting an interference sequence disrupted and then recovered joint-context performance: RT rose from Block 6 to 7 and fell from Block 7 to 8 only in the joint context](../claims/joint-context-interference-recovery-rt.md) [+M]
 
 ## Related Designs
-- 
+
+- [SRT and ASRT task designs distinguishing general skill, statistical, and high-order rule learning](srt-asrt-triplet-tasks-learning-dissociation.md)
 
 ## Examples
 -

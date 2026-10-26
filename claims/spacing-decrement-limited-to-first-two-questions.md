@@ -67,3 +67,4 @@ Bonferroni-corrected paired t tests on each question position (N = 180) showed m
 ## Related Claims
 - [Spaced quizzing reduces overall performance on calculus practice quizzes relative to massed quizzing](spacing-reduces-quiz-practice-performance.md) — related
 - [Spaced quizzing increases end-of-semester retention of calculus learning objectives relative to massed quizzing](spacing-increases-calculus-retention.md) — related
+- [Across all questions, final performance showed a main effect of learning condition and a large main effect of question type, with only a trend toward an interaction](omnibus-anova-condition-question-type-latimier.md) — related

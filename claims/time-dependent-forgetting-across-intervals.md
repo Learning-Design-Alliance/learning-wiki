@@ -53,3 +53,4 @@ The image-recall ANOVA showed a significant interval main effect, F(2, 155) = 10
 - [The retrieval (TTST) advantage appeared at both short (5 min) and long (24 h) retention delays, with no reliable evidence that it differed between them](ttst-advantage-not-different-at-5min-24h.md) — related
 - [Only descriptive reactivation improves memory precision (correct details per recalled image)](descriptive-reactivation-improves-memory-precision.md) — related
 - [Descriptive reactivations significantly improve free recall of images compared with distractor and no-reactivation controls](descriptive-reactivation-mitigates-forgetting-images.md) — related
+- [Weekly brief reactivations during a 30-day retention interval reduce forgetting of numeric facts relative to controls](weekly-reactivations-reduce-long-term-forgetting.md) — related

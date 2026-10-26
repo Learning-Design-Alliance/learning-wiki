@@ -65,3 +65,4 @@ collaboration."
 - [The ten-construct instrument showed strong psychometric quality, with the four ARCS dimensions forming a psychometrically sound higher-order motivation construct](utaut3-arcs-instrument-psychometric-validity.md) — related
 - [The SKT-SRL shows acceptable-to-very good internal consistency across subscales](skt-srl-reliability.md) — related
 - [Learning-process and psychological constructs correlate only weakly with aggregate final artistic performance](process-constructs-weakly-correlated-final-performance.md) — related
+- [AI literacy scales show good structural validity and internal consistency but are rarely tested for other measurement properties](ai-scales-structural-validity-strong-other-properties-untested.md) — related

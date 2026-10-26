@@ -111,3 +111,4 @@ Participants also reported "the lack of emotional connection and dependence on t
 - [AWE feedback has limited depth and questionable accuracy for evaluating complex writing aspects](awe-limited-feedback-depth-accuracy-complex-writing.md) — related
 - [ChatGPT fabricates references: the authors caught it inventing a non-existent 'Ribeiro and Vala, 2020' article with full bibliographic details](chatgpt-fabricates-references.md) — related
 - [AI over-reliance can produce inversion effects, reducing cognitive processing depth and learning outcomes](ai-inversion-effects-overreliance-reduce-learning.md) — related
+- [In the performance phase, AI tools helped learners organize tasks and supported metacognitive monitoring, but sometimes inaccurately reflected tasks and lacked in-depth responses](ai-performance-phase-benefits-and-drawbacks.md) — related

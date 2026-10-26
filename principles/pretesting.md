@@ -38,7 +38,7 @@ sources:
 # Pretesting (Prequestions Before Study)
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 28 claims (6 for, 19 mixed, 3 against) · 28 studies (13 causal, 5 quant-synthesis, 5 review, 4 theoretical, 1 associational), `q1`–`q4` · 12 of 28 report an effect size · 22 claims rest on one study
+> **Evidence** · 30 claims (8 for, 19 mixed, 3 against) · 29 studies (14 causal, 5 quant-synthesis, 5 review, 4 theoretical, 1 associational), `q1`–`q4` · 13 of 29 report an effect size · 24 claims rest on one study
 
 ## Conditional relationship
 
@@ -163,6 +163,8 @@ The expectation should weaken if classroom comparisons with comparable learners 
 - [Competitive true-false questions can produce benefits similar to competitive multiple-choice questions for previously asked and related questions](../claims/competitive-true-false-similar-benefits.md) [~W]
 - [The study addresses whether performance on the low-stakes PISA reading and mathematics assessments can be fostered by coaching and pretesting](../claims/low-stakes-pisa-coaching-question.md) [~W]
 - [Images that reveal the answer reduce recall compared with images appearing after the retrieval attempt](../claims/answer-revealing-images-worse-than-post-retrieval-images.md) [~W]
+- [Pre-testing before reading produces a smaller but significant retention benefit over re-reading on trained questions (d = 0.35)](../claims/pre-testing-effect-trained-questions-latimier.md) [+W]
+- [The pre/post-testing advantage cannot be attributed to extra training time: training time did not significantly predict final performance](../claims/training-time-null-covariate-latimier.md) [+W]
 
 ## Related Principles
 

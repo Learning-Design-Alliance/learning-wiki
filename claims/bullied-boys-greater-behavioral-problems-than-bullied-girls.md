@@ -55,3 +55,4 @@ Cross-sectional ABCD analysis of bullying-by-sex interactions on CBCL scores. Th
 - [Prosocial behavior, aggression, and peer relationships are stratified along gender, ethnoracial, and socioeconomic lines](citizenship-behavior-sociodemographic-stratification.md) — related
 - [Bullied children with NSSI or suicidality show greater behavioral problems and poorer grades than bullied children without these behaviors](bullying-nssi-suicidality-compounded-outcomes.md) — related
 - [In the early intervention sample, boys increased more in aggression than girls, but intervention effects did not differ by gender](gender-aggression-increase-no-treatment-difference.md) — related
+- [Emotion regulation difficulties are reliably associated with maladaptive trajectories including non-suicidal self-injury, aggression, bullying, and social withdrawal in at-risk adolescents](er-difficulties-maladaptive-trajectories-at-risk-adolescents.md) — related

@@ -34,7 +34,7 @@ sources:
 # Feedback Loops
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 31 claims (18 for, 11 mixed, 2 against) · 47 studies (13 causal, 11 review, 10 quant-synthesis, 5 design, 4 qualitative, 2 associational, 2 theoretical), `q1`–`q4` · 8 of 47 report an effect size · 22 claims rest on one study
+> **Evidence** · 32 claims (19 for, 11 mixed, 2 against) · 48 studies (14 causal, 11 review, 10 quant-synthesis, 5 design, 4 qualitative, 2 associational, 2 theoretical), `q1`–`q4` · 8 of 48 report an effect size · 23 claims rest on one study
 
 ## Conditional relationship
 
@@ -147,6 +147,7 @@ Claims this page has read and does not use in the model above, with how far each
 - [In the Learner Variability Navigator case, feedback loops across multiple partners generated an output of need](../claims/lvn-generator-feedback-loop-case.md) [+W]: read; a design case about feedback loops between organisations in product development, a different sense of "feedback loop"; it does not bear on learners' loops. The principle [Prefer feedback loops over one-directional feedback systems](feedback-loops.md) holds that sense.
 - [In the Maker Learning @ Home cohort, feedback loops with cohort members redefined the initiative's outputs and goals](../claims/maker-cohort-amplifier-case.md) [+W]
 - [Individual performance feedback increased retrieval practice choice only among students who had actually benefited from retrieval practice (Experiment 1)](../claims/individual-feedback-increases-retrieval-practice-choice-only-for-beneficiaries.md) [+W] — attached 2026-10-21 from Luotong Hui et al. (2021), which proposed "Show learners their own performance feedback comparing strategies so they experience a strategy's benefits before expecting them to adopt it"; tests this page's relationship.
+- [Feedback containing comments or scaffolding is more likely applied; affective or assessing feedback is more likely ignored](../claims/comments-scaffolding-applied-affective-ignored.md) [+W] — attached 2026-10-26 from Junting Yin et al. (2025), which proposed "Design feedback dialogues that let receivers actively respond, and include why/how content alongside emotional feedback".
 
 ## Objective and learner-valued goal
 

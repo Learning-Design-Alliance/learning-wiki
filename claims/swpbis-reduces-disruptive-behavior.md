@@ -74,3 +74,4 @@ Group randomized controlled effectiveness trial in 37 elementary schools; 3-leve
 - [SWPBIS reduces the rate of increase in teacher-reported bullying perpetration over elementary school](swpbis-reduces-growth-teacher-reported-bullying.md) — related
 - [Teacher-rated bullying and peer rejection rose over four years of elementary school in both SWPBIS and comparison schools](bullying-rejection-increase-approaching-middle-school.md) — related
 - [PBIS implementation is associated with significant pre-to-post reductions in externalizing and total problem behaviors of students with ED in self-contained settings](pbis-reduces-externalizing-total-problems-ed-self-contained.md) — related
+- [Emotion regulation difficulties are reliably associated with maladaptive trajectories including non-suicidal self-injury, aggression, bullying, and social withdrawal in at-risk adolescents](er-difficulties-maladaptive-trajectories-at-risk-adolescents.md) — related

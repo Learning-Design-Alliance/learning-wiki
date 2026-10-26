@@ -80,3 +80,4 @@ Hierarchical regression analyses of the LOGIC longitudinal sample (assessments a
 - [Kindergarten counting, arithmetic, and letter-knowledge measures correlate with Grade 6 arithmetic fluency (r up to .45)](kindergarten-measures-correlate-grade6-math.md) — related
 - [Better childhood visual acuity is associated with higher GCSE scores even after adjusting for sex, age, reading skill, verbal and performance IQ, and SES](visual-acuity-gcse-association.md) — related
 - [cogPGS significantly explains baseline WM variation (β = 0.10, p = 0.03; 1.0% of variance after accounting for gender and age).](cogpgs-explains-baseline-wm.md) — related
+- [Baseline reading fluency correlates with IQ, attention and working memory but not with age or speech perception in noise](baseline-reading-correlates-iq-attention-working-memory.md) — a narrower finding that bears on this claim

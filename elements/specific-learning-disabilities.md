@@ -13,7 +13,7 @@ generated:
 # Specific Learning Disabilities
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 7 claims (3 for, 4 mixed) · 8 studies (5 associational, 1 quant-synthesis, 1 review, 1 qualitative), `q2`–`q3` · 2 of 8 report an effect size · 6 claims rest on one study
+> **Evidence** · 8 claims (3 for, 5 mixed) · 9 studies (6 associational, 1 quant-synthesis, 1 review, 1 qualitative), `q1`–`q3` · 2 of 9 report an effect size · 7 claims rest on one study
 
 ## Description
 A **learning disability (LD)** is a specific impairment of academic learning that interferes significantly with one particular aspect of schoolwork — reading, writing, listening, speaking, or math — without necessarily affecting the others. By definition, an LD is diagnosed only after other explanations are ruled out: it is not an LD if the difficulty stems from a physical, sensory, or motor impairment, from a general intellectual impairment, or from the ordinary challenges of learning English as a second language. A genuine LD is also one that ordinary teaching effort hasn't resolved, though what counts as "ordinary effort" varies across teachers, schools, and students. LDs are by far the most common special-education category, accounting for roughly half of all students receiving special-education services and an estimated 5-20% of all students overall (U.S. Department of Education, 2005; Ysseldyke & Bielinski, 2002) — common enough that most teachers encounter at least one affected student every year regardless of grade level.
@@ -53,6 +53,7 @@ Because a specific learning disability affects one narrow academic area rather t
 - [RAN predicts reading deficits but not isolated writing deficits, whereas phonological awareness is worse in children with isolated writing deficits](../claims/ran-predicts-reading-not-isolated-writing.md) [+W]
 - [People with MLD show a large pooled deficit in mathematics performance versus typically performing peers (g = 1.52)](../claims/mld-large-pooled-math-deficit.md) [+W]
 - [Multidigit skills deficits differentiate number difficulty groups more clearly than single digit processing or domain-general deficits](../claims/multidigit-deficits-differentiate-groups.md) [~W]
+- [Federal disability law excludes children disadvantaged by environmental, cultural or economic factors from dyslexia diagnosis, which the authors say encourages attributing poor reading to poverty](../claims/idea-disadvantage-exclusion-dyslexia-diagnosis.md) [~W]
 
 ## Related Elements
 

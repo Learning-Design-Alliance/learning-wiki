@@ -47,3 +47,4 @@ The supplied text consists of the title page and open-practices disclosure; the 
 ## Related Claims
 - [Praise for intelligence, rather than for effort, after success undermines children's motivation and performance after a later failure](feedback-praise-reduces-learning.md) — related
 - [Computer-based test advantages can be used to manage the effects of cheating as a construct-irrelevant factor](cbt-manages-cheating-construct-irrelevance.md) — related
+- [Teachers deliver more inflated praise to low-SES children after success, and observers perceive praised children as less smart](teacher-inflated-praise-low-ses-less-smart.md) — related

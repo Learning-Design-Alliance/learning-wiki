@@ -70,3 +70,4 @@ Experiment 1 test scores (20 unseen paintings) showed "actual learning outcomes 
 - [In an exploratory Experiment 1 subgroup analysis, the preference for blocked studying after feedback disappeared among students who actually performed better with interleaved studying](feedback-subgroup-better-interleaved-learners.md) — related
 - [In a within-subjects category-learning experiment, students reported higher mental effort and lower concurrent judgments of learning during interleaved than during blocked studying](interleaved-higher-effort-lower-jol-within-subjects.md) — related
 - [Interleaving Improves Discrimination](interleaving-improves-discrimination.md) — related
+- [Students perform worse on interleaved homework than blocked homework and misjudge its learning value](interleaved-homework-worse-performance-metacognitive-judgments.md) — related

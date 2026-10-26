@@ -51,3 +51,4 @@ Exploratory fMRI analysis binning model-derived RPEs into negative, neutral and 
 - [Adolescents learn faster from negative reward prediction errors than adults in probabilistic reversal learning](adolescents-faster-learning-from-negative-rpes.md) — related
 - [Adolescents showed a marginally decreased number of punishments before switching in reversal learning](marginal-fewer-punishments-before-adolescent-switches.md) — related
 - [Adolescents and adults perform equally well on the probabilistic reversal learning task overall](adolescent-adult-equal-reversal-task-performance.md) — related
+- [Feedback-stage reward prediction errors, signed or unsigned, do not modulate memory in either learning condition](feedback-rpe-no-memory-effect.md) — related

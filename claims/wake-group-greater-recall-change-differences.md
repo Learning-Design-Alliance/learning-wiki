@@ -51,3 +51,4 @@ Repeated-measures ANOVA comparing recall-change differences between learning typ
 - [Exploratory analysis finds moderate-magnitude correlation between fast spindle-slow oscillation coupling strength and retention of no-feedback retrieval-practice items](fast-spindle-so-coupling-correlates-nrp-retention.md) — related
 - [Retrieval practice with feedback yields higher recall than restudy, which yields higher recall than no-feedback retrieval practice](feedback-retrieval-outperforms-restudy-and-nrp.md) — related
 - [Sleep stage duration and architecture show no significant correlation with memory change in this nap paradigm](sleep-stage-architecture-no-memory-correlation.md) — related
+- [The original retrieval-practice EEG study's abstract used the abbreviation \"RP\" incorrectly in place of \"NRP\", corrected throughout the abstract](nrp-abbreviation-correction-retrieval-practice-eeg-study.md) — related

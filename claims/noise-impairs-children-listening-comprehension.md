@@ -72,3 +72,5 @@ The review reports this simulated-classroom study found "signiﬁcant impairment
 - [Not all neurophysiological aspects of auditory distraction mechanisms are mature in late childhood](distraction-mechanisms-immature-late-childhood.md) — related
 - [Older adults show larger multisensory gains for simple stimuli but multisensory deficits for complex speech stimuli](aging-multisensory-gains-simple-deficits-complex.md) — related
 - [Chronic aircraft noise exposure is associated with lower reading comprehension in children, with a linear exposure–effect relationship](chronic-aircraft-noise-lower-reading-comprehension.md) — related
+- [Attention and speech perception in noise predict which children are most disadvantaged by open-plan classrooms](attention-and-speech-in-noise-predict-environment-sensitivity.md) — a narrower finding that bears on this claim
+- [Open-plan classroom configurations had significantly higher background noise levels than enclosed configurations, with no reverberation difference](open-plan-classrooms-higher-background-noise.md) — related

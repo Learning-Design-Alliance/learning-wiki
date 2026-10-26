@@ -40,6 +40,7 @@ The common-facilities section gives implementable material specifications, treat
 ## Related Strategies
 
 - [Optimize Classroom Acoustics](optimize_classroom_acoustics.md)
+- [Apply acoustic treatment, lowered ceilings and visual barriers when utilising open-plan classroom spaces](acoustic-treatment-and-visual-barriers-for-open-plan-classrooms.md)
 
 ## Examples
 -

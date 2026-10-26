@@ -17,7 +17,7 @@ sources:
 # Strength and Retrieval Effort Account (New Theory of Disuse and Bifurcation)
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 13 claims (6 for, 5 mixed, 2 against) · 13 studies (6 quant-synthesis, 5 causal, 2 review), `q1`–`q4` · 5 of 13 report an effect size · 12 claims rest on one study
+> **Evidence** · 14 claims (7 for, 5 mixed, 2 against) · 14 studies (6 causal, 6 quant-synthesis, 2 review), `q1`–`q4` · 6 of 14 report an effect size · 13 claims rest on one study
 
 ## Description
 This account holds that effortful retrieval strengthens knowledge and that "The degree to which knowledge is strengthened is assumed to be proportional to the amount of effort involved in retrieval". Bjork and Bjork's new theory of disuse distinguishes storage and retrieval strength; the bifurcation account of Kornell et al. (2011) adds that only retrieved items are strengthened, explaining delay-dependent effects.
@@ -50,6 +50,7 @@ This account holds that effortful retrieval strengthens knowledge and that "The 
 - [Testing after worked example study invests more mental effort than restudying examples, so restudy is more instructionally efficient at equal delayed performance (Experiment 3)](../claims/testing-more-effortful-than-restudy-exp3.md) [-W]
 - [Mental effort did not explain the testing effect: retrieval practice effort did not predict delayed test scores](../claims/mental-effort-does-not-explain-testing-effect.md) [-W]
 - [Retrieval practice improves delayed but not immediate performance, consistent with a desirable-difficulties explanation](../claims/retrieval-practice-delayed-not-immediate-benefit.md) [+W]
+- [Post-testing after reading produces a large retention benefit over re-reading at a 7-day delay (d = 0.74 on trained questions)](../claims/post-testing-effect-dna-course-latimier.md) [+W]
 
 ## The evidence by question
 

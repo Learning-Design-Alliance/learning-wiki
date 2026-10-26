@@ -51,3 +51,4 @@ On the details-per-image measure, indexing memory quality/precision, the ANOVA s
 - [Reactivations do not increase false memories: no reactivation effect on falsely recalled images or details](reactivation-no-effect-false-memories.md) — related
 - [Component (category-cueing) reactivations mitigate forgetting relative to distractor controls but do not beat no-reactivation controls on image recall](component-reactivation-image-recall-vs-controls.md) — related
 - [Retention declines with interval (time-dependent forgetting) across images, details, and details-per-image measures](time-dependent-forgetting-across-intervals.md) — related
+- [Weekly brief reactivations during a 30-day retention interval reduce forgetting of numeric facts relative to controls](weekly-reactivations-reduce-long-term-forgetting.md) — related

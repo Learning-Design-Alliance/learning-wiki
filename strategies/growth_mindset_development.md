@@ -66,6 +66,7 @@ Growth mindset interventions produce small but reliable gains in achievement for
 - [Embed growth-mindset messages framing technological competence as developable into existing curricula as a low-cost, broad-reach intervention](embed-growth-mindset-messages-in-curricula-for-ai-literacy.md)
 - [School-based interventions promoting growth math mindset and academic grit](school-based-growth-mindset-grit-interventions.md)
 - [Values-aligned teacher training that connects growth mindset-supportive practices to teachers' core professional values](values-aligned-teacher-training-strategy.md)
+- [Build growth-mindset classroom cultures through teacher practices that convey all students can learn and improve](growth-mindset-classroom-culture-practices.md)
 
 ## Examples
 - **[PERTS / Mindset Works](https://www.mindsetworks.com)** — The Brainology curriculum teaches neuroplasticity through interactive modules; the National Study of Learning Mindsets ([Yeager et al., 2019](https://doi.org/10.1038/s41586-019-1466-y)) delivered two 25-minute online sessions to ~12,000 ninth-graders and raised GPA among lower-achieving students.

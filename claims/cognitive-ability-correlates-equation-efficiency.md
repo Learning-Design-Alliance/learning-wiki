@@ -46,7 +46,9 @@ Partial correlation between inverse efficiency and Raven's scores controlling fo
 - [General Cognitive Ability](../learner-variables/general-cognitive-ability.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
+
 - [Stealth assessment estimates of problem solving in Use Your Brainz correlate significantly with external measures (Raven's and MicroDYN) in middle-school students](stealth-assessment-problem-solving-correlates-external-measures.md) — a broader claim this one bears on
 - [Raven's and MicroDYN jointly explain 22% of variance in the stealth assessment estimate, with MicroDYN adding 5.7% unique variance beyond Raven's](regression-ravens-microdyn-unique-variance.md) — related
 - [Students' difficulty rankings of equation types partly mismatch their measured performance, though metacognitive accuracy improves with age](equation-difficulty-self-ranks-mismatch-performance.md) — related
 - [Accuracy and speed of simple equation rearrangement increase with students' age across grades 7–12](equation-rearrangement-accuracy-speed-increase-with-age.md) — related
+- [TORR scores correlate positively with Raven's Matrices scores but are more difficult for participants](torr-correlates-with-ravens-but-more-difficult.md)

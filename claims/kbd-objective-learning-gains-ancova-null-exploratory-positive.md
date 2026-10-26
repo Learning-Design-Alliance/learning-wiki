@@ -92,3 +92,4 @@ In the same exploratory regressions, "Only learning preference had a significant
 - [Students in the non-adaptive condition reached significantly higher average mastery probabilities than students in the adaptive condition](non-adaptive-condition-higher-mastery-probabilities.md) — related
 - [Students' initial knowledge level (midterm scores) did not significantly influence improvement in lab scores, indicating it did not confound the feedback-source difference](midterm-knowledge-did-not-confound-feedback-use.md) — related
 - [Seminar group membership remained a significant predictor of improvement after controlling for pretest scores (η²p = 0.075)](seminar-ancova-group-effect.md) — related
+- [The pre/post-testing advantage cannot be attributed to extra training time: training time did not significantly predict final performance](training-time-null-covariate-latimier.md) — related

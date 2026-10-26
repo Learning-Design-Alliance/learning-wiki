@@ -45,7 +45,9 @@ Mixed ANOVA on shift-shift behaviour across Experiments 5–10 (n = 157 retained
 
 
 ## Related Claims
+
 - [Only against exploitable opponents does individual win rate correlate with win-calmness (positively) and loss-restlessness (negatively)](win-rate-correlations-exploitable-only.md) — related
 - [Against unexploitable opponents, neither win-calmness nor loss-restlessness appears; calmness is instead lower after wins and restlessness lower after losses](no-win-calmness-unexploitable-opponents.md) — related
 - [Win-calmness appears only against exploitable opponents; exploiting opponents instead reproduce the reversed pattern](win-calmness-exploitable-opponents-only.md) — related
 - [The promise of win maximisation, not the threat of win minimisation, drives longer-form reinforcement-learning expression](win-maximisation-not-minimisation-drives-expression.md) — related
+- [Repetitive opponents are exploited more successfully than alternating opponents](repetitive-opponents-higher-win-rate-than-alternating.md)

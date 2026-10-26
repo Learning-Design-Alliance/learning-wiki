@@ -51,3 +51,4 @@ The review reports psychoacoustic studies showing children's speech identificati
 - [Children with language or attention disorders and second-language learners are more impaired by noise in speech perception than age-matched controls](vulnerable-children-more-noise-impaired-speech-perception.md) — related
 - [Older adults show reduced accuracy in severe noise (SNR -5) but perform comparably to younger adults in quiet and moderate noise (SNR 20)](older-adults-reduced-accuracy-severe-noise-only.md) — related
 - [Children are more susceptible than adults to the effects of environmental noise on cognitive performance](children-more-susceptible-to-noise-than-adults.md) — a broader claim this one bears on
+- [Attention and speech perception in noise predict which children are most disadvantaged by open-plan classrooms](attention-and-speech-in-noise-predict-environment-sensitivity.md) — a narrower finding that bears on this claim

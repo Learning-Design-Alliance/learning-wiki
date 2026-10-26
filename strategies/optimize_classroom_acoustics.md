@@ -84,6 +84,7 @@ Speech is the primary instructional medium, and degraded acoustics impose a cont
 - [Chunking](../principles/chunking.md) — acoustic optimization protects the same working-memory capacity that chunking conserves
 - [Specify acoustic, durable finishes and mandatory carpeting in quiet and severe-disorder spaces](acoustic-finishes-and-mandatory-carpeting-specification.md)
 - [Clear Structure and Presentation](../principles/clear-structure.md) — verbal clarity complements acoustic clarity; both reduce reconstruction effort
+- [Apply acoustic treatment, lowered ceilings and visual barriers when utilising open-plan classroom spaces](acoustic-treatment-and-visual-barriers-for-open-plan-classrooms.md)
 
 ## Examples
 - **ANSI S12.60 classroom acoustics standard (USA)** — specifies maximum background noise (35 dBA) and reverberation times for core learning spaces; used as the benchmark for school construction and retrofit. ([https://www.ansi.org](https://www.ansi.org))

@@ -49,3 +49,4 @@ Narrative review reporting Trulson's (1986) study of adolescent juvenile delinqu
 - [Traditional Tae-Kwon-Do training produces greater gains than standard physical education on all studied dimensions of EFs, with gains greatest for older children and boys](taekwondo-greater-ef-gains-than-pe.md) — related
 - [Whether EF gains are seen depends on the amount of time children spend doggedly practicing and pushing themselves to improve](repeated-practice-key-ef-gains.md) — related
 - [Strong guidance and repetition may be needed to discover what cannot be told (Trninic's martial arts case)](repetition-guided-discovery-martial-arts-case.md) — related
+- [Weak metacognitive-regulation capacities are associated with disengagement, aggression, and delinquency, while reflective scaffolding interventions improve psychosocial functioning](mr-weakness-delinquency-scaffolding-improves.md) — related

@@ -169,3 +169,4 @@ A multilevel meta-analysis comparing interleaved with blocked presentation of it
 - [Images during retrieval practice enhanced feelings of competence but not enjoyment](images-enhance-competence-not-enjoyment.md) — related
 - [Retrieval practice boosts learning, and the testing effect generalizes to the acquisition of entirely new material (forward testing effect)](testing-effect-backward-and-forward.md) — related
 - [Guided notes produce consistently higher performance on later quizzes than conditions without guided notes, including for learning-disabled students](guided-notes-higher-quiz-performance.md) — related
+- [Post-testing after reading produces a large retention benefit over re-reading at a 7-day delay (d = 0.74 on trained questions)](post-testing-effect-dna-course-latimier.md) — a narrower finding that bears on this claim

@@ -50,3 +50,5 @@ Linear mixed model on block-wise median RTs in Study 1's 25-block ASRT task (n =
 - [Implicit statistical learning is negatively correlated with a latent executive-function factor comprising verbal fluency and complex working memory in Study 1](sl-ef-factor1-negative-study1.md) — related
 - [Study 2 replicates the negative SL–EF factor 1 correlation while EF factor 2 (short-term memory) shows no association with implicit SL](sl-ef-factor1-negative-study2-replication.md) — related
 - [A fixed-effect meta-analysis pooling both studies yields a pooled negative correlation of r = -0.115 between EF factor scores and implicit SL](sl-ef-pooled-meta-analysis.md) — related
+- [High-order rule learning in the long ASRT task increases during rest periods and decreases during practice](high-order-rule-learning-offline-during-rest.md) — related
+- [Statistical learning in the ASRT task increases during practice periods and decreases during rest periods](statistical-learning-online-during-practice.md) — related

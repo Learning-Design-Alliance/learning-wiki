@@ -2,7 +2,7 @@
 
 Methods for studying learning and evaluating education that are specific to it or especially useful in it. General social-science methods are not listed.
 
-**663 entries** · 0 stable · 663 in review · 0 drafts
+**664 entries** · 0 stable · 664 in review · 0 drafts
 
 ---
 
@@ -466,6 +466,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Planned Comparable-Group Courseware Impact Study](planned-comparable-group-courseware-impact-study.md) - The article distills lessons from the NGCC evaluation about conducting impact studies: measuring impact requires an objective outcome measure, a comparison group, evidence of comparability, adequate numbers in both groups, and holding other influences constant.
 * [Population-first versus individual-first measurement framework](population-first-versus-individual-first-measurement-framework.md) - The article articulates an epistemic framework contrasting two measurement traditions.
 * [Population-level inference with plausible values conditional on assessment design](population-level-inference-with-plausible-values-conditional-on-assessment-design.md) - The article's central recommendation: with large-scale assessment data, 'inferences are only possible at the population-level—and then only when framed as conditional on the assessment design and assumptions—not at the level of individual students'.
+* [Portable classroom EEG for continuous attention measurement](portable-classroom-eeg-for-continuous-attention-measurement.md) - The article argues that portable EEG provides an objective, real-time index of classroom attention that behavioral observation and self-report cannot supply, because those methods \"are each indirect and cannot pick up the dynamic changes in student engagement\".
 * [Post-hoc fairness evaluation testbed for vendor-controlled early-warning systems](post-hoc-fairness-evaluation-testbed-for-vendor-controlled-early-warning-systems.md) - The article built a comparative evaluation testbed simulating an institution's position under vendor procurement: a research replica EWS and six post-hoc fairness methods applied without accessing, modifying, or retraining the underlying model.
 * [Poverty-adjusted value-added school effectiveness rating model](poverty-adjusted-value-added-school-effectiveness-rating-model.md) - A model that rates each school's effectiveness by regressing average school test scores on school poverty level and standardizing the residuals.
 * [Power planning for mediator–outcome linkage analyses in clustered education RCTs](power-planning-for-mediatoroutcome-linkage-analyses-in-clustered-education-rcts.md) - Because the article develops power formulas specifically for exploratory analyses linking teacher practice outcomes to student achievement outcomes in clustered school-based RCTs, it implies that researchers should evaluate power for these analyses when designing studies.

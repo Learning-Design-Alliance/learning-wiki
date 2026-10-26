@@ -39,6 +39,7 @@ The new co-editors-in-chief state an inclusive editorial stance: they will "embr
 ## Related Strategies
 
 - [Reconsider CSCL research designs and methodologies for mass collaboration and learning analytics](reconsider-methods-for-mass-collaboration-analytics.md)
+- [Make research methods inclusive by engaging studied populations as co-constructors of knowledge, including adapting EEG research for all hair types](inclusive-research-methods-populations-as-co-constructors.md)
 
 ## Examples
 -

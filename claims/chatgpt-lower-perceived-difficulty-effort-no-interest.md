@@ -72,3 +72,4 @@ ANCOVA on post-task task interest (100-point scale) in the same experiment; the 
 - [Prior knowledge and intervention condition predict repeated cognitive load and interest measures: prior knowledge lowers effort and difficulty and raises interest and understanding, and prompting groups perceive tasks as more difficult](prior-knowledge-and-prompting-moderate-load-and-interest.md) — related
 - [In Study 1, students rated the revised intervention as more interesting and more informative than the original intervention](revised-intervention-rated-more-interesting-study1.md) — related
 - [ChatGPT use does not change absolute self-evaluation accuracy, but self-evaluation judgments fail to correlate with performance under ChatGPT assistance](chatgpt-no-accuracy-difference-poor-calibration.md) — related
+- [Higher TORR scores, especially antinomy, predict more creative engineering design solutions](torr-predicts-creative-engineering-design.md) — related

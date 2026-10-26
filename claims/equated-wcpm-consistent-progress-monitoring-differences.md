@@ -50,3 +50,4 @@ Descriptive analysis of score differences between terms by passage position, usi
 - [Equated WCPM scores are more highly correlated across passages read by the same student than raw WCPM scores, suggesting greater reliability](equated-wcpm-higher-cross-passage-correlations.md) — related
 - [Equated WCPM scores from non-reference passages show smaller residuals against reference-passage scores than raw scores, with one passage exception](equated-wcpm-smaller-residuals-one-exception.md) — related
 - [Equated WCPM scores generally correlate more highly with MAP Growth Reading RIT scores than raw WCPM scores, with one exception](equated-wcpm-higher-external-validity-correlations.md) — related
+- [Reading fluency development is greater during enclosed-classroom phases than open-plan phases in 7–10-year-olds](enclosed-classroom-faster-reading-fluency-development.md) — related

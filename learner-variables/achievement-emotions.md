@@ -13,7 +13,7 @@ generated:
 # Achievement Emotions
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 156 claims (100 show a difference, 43 mixed, 13 no difference) · 92 studies (33 associational, 24 causal, 13 review, 10 qualitative, 8 theoretical, 4 design), `q1`–`q4` · 20 of 92 report an effect size · 153 claims rest on one study
+> **Evidence** · 158 claims (101 show a difference, 43 mixed, 14 no difference) · 93 studies (34 associational, 24 causal, 13 review, 10 qualitative, 8 theoretical, 4 design), `q1`–`q4` · 20 of 93 report an effect size · 155 claims rest on one study
 
 ## Description
 Achievement emotions are the emotions learners feel about learning activities (enjoyment, boredom, frustration) and about their outcomes (pride, shame, hope, hopelessness). In control-value theory they arise from how much control a learner feels over an activity and how much they value it. Positive activating emotions such as enjoyment go with engagement and achievement, deactivating ones such as boredom with disengagement, and the relationship runs both ways. Anxiety is an achievement emotion with its own page, [academic anxiety](academic-anxiety.md); enjoyment overlaps with [interest](interest.md).
@@ -191,6 +191,8 @@ Achievement emotions are the emotions learners feel about learning activities (e
 - [Parental over-aspiration contemporaneously predicts lower positive and higher negative achievement emotions, particularly anxiety and pride](../claims/parental-overaspiration-contemporaneous-emotions.md) [+W] — instruction changes it
 - [The autonomy-supportive physics unit fostered need satisfaction, positive achievement emotions, and learning behaviors, and reduced negative emotions](../claims/autonomy-support-fosters-need-satisfaction-emotions-behaviors.md) [+M] — instruction changes it
 - [Cyclic sighing weakly buffers boredom accumulation across days but shows no within-day time-locked modulation](../claims/breathwork-weakly-buffers-boredom-accumulation.md) [~M] — instruction changes it
+- [Little evidence of interactions between school enjoyment and sex, social class, maternal education or cognitive ability on GCSE achievement](../claims/no-enjoyment-interactions-gcse.md) [-W] — an instructional effect differs with it
+- [School enjoyment at age 6 is associated with higher GCSE point scores at age 16, remaining significant after adjustment for socioeconomic position and cognitive ability](../claims/school-enjoyment-age6-gcse-points.md) [+W] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

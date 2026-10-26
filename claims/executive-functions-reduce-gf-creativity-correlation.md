@@ -63,3 +63,4 @@ SEM structural model result reported in Section 3.2 of the same study. After reg
 - [Executive functions and intelligence play an important role in creative thinking, but the relationship in children had been under-studied](efs-intelligence-role-creative-thinking-children-gap.md) — related
 - [Intelligence and creativity share more variance than the traditional assumption of distinct abilities holds](intelligence-creativity-more-in-common.md) — possibly the same claim (merge candidate)
 - [Cognitive resources play a dual role in SR, both enabling self-regulatory processes and constraining how Learning Activities unfold](cognitive-resources-dual-role-enable-and-constrain-sr.md) — related
+- [A latent creativity factor (writing, drawing, openness) predicts paired-associate vocabulary learning, controlling for general intelligence](latent-creativity-factor-predicts-vocabulary-learning.md) — a narrower finding that bears on this claim

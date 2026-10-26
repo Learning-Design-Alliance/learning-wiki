@@ -54,3 +54,4 @@ Narrative synthesis of the four GWAS for years spent in education: discovery sam
 - [Only 15% of published polygenic score estimates for education come from non-European ancestry samples, all recruited in the US](eurocentric-sample-base-pgs-education-research.md) — related
 - [Age at assessment and achievement measure moderate polygenic score predictions of educational achievement; the adjusted pooled estimate rises to ρ = 0.50](pgs-achievement-age-grade-moderators-rho-50.md) — related
 - [Heritability of everyday abilities cannot be extrapolated to expert performance; twins almost never reach elite levels](no-heritability-extrapolation-to-expert-performance.md) — related
+- [Education and cognitive-ability polygenic scores significantly predict verbal ability, with the education PGS far more robust](pgs-predict-verbal-ability.md) — a narrower finding that bears on this claim

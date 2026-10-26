@@ -70,3 +70,4 @@ The report attributes to cited research (Fan et al., 2024; Gerlich, 2025; Kosmyn
 - [Cognitive ability is expected to moderate exploration effects: enhancing metacognition for high-ability trainees but inhibiting it for low-ability trainees](cognitive-ability-moderates-exploration-metacognition.md) — related
 - [An efficiency paradox: well-intentioned students default to passive GenAI processes and experience cognitive laziness and overreliance](genai-efficiency-paradox-passive-processes.md) — a broader claim this one bears on
 - [Low-prior-knowledge students struggle to deploy key self-regulatory processes during learning](low-prior-knowledge-students-struggle-self-regulation.md) — related
+- [In the performance phase, AI tools helped learners organize tasks and supported metacognitive monitoring, but sometimes inaccurately reflected tasks and lacked in-depth responses](ai-performance-phase-benefits-and-drawbacks.md) — related

@@ -57,3 +57,4 @@ The guide's research-summary section reports, without citing specific studies, s
 - [Explicit metacognition has severely limited access to underlying cognitive processes, and metacognitive reports can be inaccurate](explicit-metacognition-limited-access-inaccurate-reports.md) — related
 - [Cognitive ability is expected to moderate exploration effects: enhancing metacognition for high-ability trainees but inhibiting it for low-ability trainees](cognitive-ability-moderates-exploration-metacognition.md) — related
 - [Element interactivity moderates the effectiveness of cognitive offloading, with greater benefit for high element interactivity materials](element-interactivity-moderates-offloading.md) — related
+- [In the performance phase, AI tools helped learners organize tasks and supported metacognitive monitoring, but sometimes inaccurately reflected tasks and lacked in-depth responses](ai-performance-phase-benefits-and-drawbacks.md) — related

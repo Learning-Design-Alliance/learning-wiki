@@ -67,3 +67,4 @@ Between-student hierarchical linear regression comparing 68,784 badge-on student
 - [In a hierarchical regression, class-level knowledge gap closing had the largest beta weight of all considered predictors of performance](class-level-gap-closing-largest-performance-predictor.md) — related
 - [Closing knowledge gaps showed the highest association with performance among all considered variables (partial r = 0.17)](closing-knowledge-gaps-associated-with-performance.md) — related
 - [Closing knowledge gaps between a baseline and an end period predicted higher performance in the end period](gap-closing-predicts-subsequent-performance.md) — related
+- [An SMS-based nudge intervention in Cote d'Ivoire did not reduce child labor or raise learning overall, but raised learning and domestic work among children starting with low learning levels](sms-nudge-ivory-coast-null-overall-low-starters-gain.md) — related

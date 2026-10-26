@@ -51,3 +51,4 @@ Relative-score analysis versus the no-reactivation Control average in the 28-day
 - [Retention declines with interval (time-dependent forgetting) across images, details, and details-per-image measures](time-dependent-forgetting-across-intervals.md) — related
 - [Descriptive reactivations increase correct details recalled; component reactivations increase details only versus distractor](reactivation-effects-correct-details.md) — reports the opposite
 - [Reactivations do not increase false memories: no reactivation effect on falsely recalled images or details](reactivation-no-effect-false-memories.md) — related
+- [Weekly brief reactivations during a 30-day retention interval reduce forgetting of numeric facts relative to controls](weekly-reactivations-reduce-long-term-forgetting.md) — related

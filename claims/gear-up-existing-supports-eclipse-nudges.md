@@ -48,3 +48,4 @@ The authors' interpretation, offered without a test: GEAR UP students "may alrea
 - [Broad advisor caseloads may have limited the effectiveness of the GEAR UP messaging by preventing college-specific guidance](gear-up-advisor-caseload-limited-effectiveness.md) — related
 - [Text-message college transition messaging did not increase college enrollment in the fall after high school graduation among GEAR UP students](gear-up-text-messaging-no-enrollment-impact.md) — related
 - [Text-message college transition messaging did not increase college persistence among GEAR UP students](gear-up-text-messaging-no-persistence-impact.md) — related
+- [An SMS-based nudge intervention in Cote d'Ivoire did not reduce child labor or raise learning overall, but raised learning and domestic work among children starting with low learning levels](sms-nudge-ivory-coast-null-overall-low-starters-gain.md) — related

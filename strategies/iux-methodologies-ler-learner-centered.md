@@ -48,6 +48,7 @@ The toolkit recommends seven methodologies it has used to design LER technologie
 - [Engage users and community members in the design process to make learning tools more attractive, useful, and effective](user-and-community-centered-design-methods.md)
 - [Five-step iterative co-design process for developing edtech evaluation criteria with learners and vendors](five-step-codesign-badge-development-process.md)
 - [Six-step design methodology: elicit values, minimal intervention, multi-level multi-outcome evaluation, iterate, simulate scale, sunset](six-step-emancipatory-aied-design-methodology.md)
+- [Make research methods inclusive by engaging studied populations as co-constructors of knowledge, including adapting EEG research for all hair types](inclusive-research-methods-populations-as-co-constructors.md)
 
 ## Examples
 -

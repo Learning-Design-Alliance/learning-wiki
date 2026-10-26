@@ -71,7 +71,7 @@ sources:
 # Spaced Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 78 claims (40 for, 36 mixed, 2 against) · 53 studies (27 causal, 13 review, 9 quant-synthesis, 3 theoretical, 1 associational), `q1`–`q4` · 16 of 53 report an effect size · 71 claims rest on one study
+> **Evidence** · 80 claims (41 for, 37 mixed, 2 against) · 54 studies (28 causal, 13 review, 9 quant-synthesis, 3 theoretical, 1 associational), `q1`–`q4` · 16 of 54 report an effect size · 73 claims rest on one study
 
 ## Description
 
@@ -175,6 +175,7 @@ Claims this page cited before it was rewritten as a conditional model, or that w
 - [A second training session two days later further increases reasoning accuracy beyond the first session, though less strongly](../claims/second-training-session-further-boosts-accuracy.md) [+W] — attached 2026-10-23 from Nina Franiatte et al. (2024), which proposed "Repeat debiasing training sessions to further boost sound intuiting beyond a single-shot intervention"; tests this page's relationship.
 - [The positive relationship between spacing and quiz performance is greater for students who complete fewer activities](../claims/spacing-buffers-passive-learning.md) [~W] — attached 2026-10-26 from Paulo F. Carvalho et al. (2020), which proposed "Use spaced study as a buffer that improves performance for lower-ability students and those who do not engage in active practice"; tests this page's relationship.
 - [The spacing benefit on quiz performance is larger for lower-ability students than for higher-ability students](../claims/spacing-benefit-larger-lower-ability.md) [~W] — attached 2026-10-26 from Paulo F. Carvalho et al. (2020), which proposed "Use spaced study as a buffer that improves performance for lower-ability students and those who do not engage in active practice"; tests this page's relationship.
+- [High-order rule learning in the long ASRT task increases during rest periods and decreases during practice](../claims/high-order-rule-learning-offline-during-rest.md) [+W] — attached 2026-10-26 from Romain Quentin et al. (2021), which proposed "Design training so that rest periods follow practice when high-order rule consolidation is the goal, since different learning subcomponents develop at different times".
 
 ## Source verification and open tests
 
@@ -479,6 +480,7 @@ The article concludes that AI-generated podcasts are best positioned as a 'mobil
 - [OET 94 scheduling yielded approximately 40% higher memory retention than conventional scheduling (S15), with a benefit of Cohen's d = 0.64](../claims/oet94-forty-percent-gain-over-conventional.md) [~M]
 - [Shorter retention intervals predict higher quiz grades, and the spacing benefit holds even at short retention intervals](../claims/retention-interval-no-spacing-interaction.md) [~W]
 - [Varying the inter-skill rest interval from 0 to 30 seconds does not modify one-trial generalization from skill A to skill B](../claims/rest-interval-no-impact-one-trial-generalization.md) [~W]
+- [Offline change in general skill between sessions 12 h apart was significant, but between sessions a week apart was not](../claims/long-offline-general-skill-12h-not-week.md) [~W]
 
 ## Key Sources
 

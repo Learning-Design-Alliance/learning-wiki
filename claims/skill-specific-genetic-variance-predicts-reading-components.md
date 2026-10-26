@@ -52,3 +52,4 @@ Nested behavioral genetic models showed that "skill-specific genetic variance in
 - [Verbal working memory predicts oral reading fluency in children with and without ADHD](verbal-working-memory-predicts-reading-fluency.md) — related
 - [IQ and working memory are reliable predictors of academic achievement at the beginning of school when domain knowledge is not controlled](iq-and-wm-predict-early-academic-achievement.md) — related
 - [Verbal and spatial working memory, and verbal attention span, explain unique variance in Coding beyond motor speed, symptom severity, and IQ](working-memory-explains-coding-variance.md) — related
+- [Literacy, phonological awareness, oral language and PWM abilities share a large proportion of underlying genetic variation in unrelated youth](shared-genetic-factor-literacy-language-pwm.md) — related

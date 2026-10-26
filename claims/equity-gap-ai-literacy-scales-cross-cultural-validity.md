@@ -9,6 +9,7 @@ generated:
   at: 2026-10-10
 evidence_strength: weak
 newest_evidence: 2026
+source_checked: 2026-10-26
 recheck_by: 2029
 sources:
   - id: nama-2026
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q1`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
+> **Currency** · newest study 2026 · checked against its sources 2026-10-26 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` A 2024 systematic review found no AI literacy measurement scale tested for cross-cultural validity, while agentic AI deploys in resource-constrained settings with large digital skills gaps. [→ Nama 2026](#nama-2026)
@@ -53,3 +54,4 @@ The review reports, citing Lintner's 2024 systematic review, that no AI literacy
 - [Algorithmic empathy is culturally fragile: emotional inference errors in socio-emotional AI can invalidate teachers' experiences, so systems require local validation and participatory design](cultural-fragility-algorithmic-empathy.md) — a narrower finding that bears on this claim
 - [Post-2024 instrument development expanded objective AI-literacy measurement, which had been dominated by self-report scales](objective-ai-literacy-measures-expanded-post-2024.md) — related
 - [Little attention has been paid to the undesirable consequences of indiscriminate AI application, including automation-driven socio-economic inequality](k12-ai-literacy-neglects-undesirable-consequences.md) — related
+- [A 2024 systematic review identified 22 studies validating 16 AI literacy scales, most of them self-report rather than performance-based](review-22-studies-16-ai-literacy-scales.md) — related
