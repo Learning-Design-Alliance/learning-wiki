@@ -50,3 +50,4 @@ ROI-based correlation analysis on gPPI t-scores averaged across seeds in the ful
 ## Related Claims
 - [DD children fail to disengage the default mode network during demanding arithmetic, showing aberrant coupling with task-positive IPS regions](dd-failure-disengage-dmn-arithmetic.md) — related
 - [Children with DD show hyper-connectivity, not reduced connectivity, between the IPS and fronto-parietal and default mode networks during arithmetic](dd-ips-hyperconnectivity-fronto-parietal-dmn.md) — related
+- [Longitudinal changes in IPS connectivity occur independently of changes in regional activation](connectivity-changes-independent-of-activation-changes.md) — related

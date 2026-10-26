@@ -61,9 +61,11 @@ Praise is a form of [Feedback](../elements/feedback.md) — plain text — and i
 5. Fade praise as competence grows, shifting learners toward self-evaluation against criteria.
 
 ## Related Strategies
+
 - [Action-Oriented Feedback](action-oriented-feedback.md) — the informational counterpart; praise should open the door to it
 - [Growth Mindset Framing](growth-mindset-framing.md) — process praise is the classroom-level enactment of mindset theory
 - [Check-Ins](../principles/check-ins.md) — relationship-building that makes praise credible
+- [Phrase praise modestly and focus on strategies rather than effort to prevent ability-denigrating inferences](modest-strategy-focused-praise-older-children.md)
 
 ## Examples
 - **[Responsive Classroom](../products/responsive-classroom.md)** (https://www.responsiveschools.org) trains teachers in "reinforcing language" — specific, descriptive acknowledgment of student behavior rather than generic approval.

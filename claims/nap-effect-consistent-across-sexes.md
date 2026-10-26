@@ -50,3 +50,4 @@ Exploratory two-way ANOVA with sex and group as between-subjects factors (N = 76
 
 ## Related Claims
 - [Female children and adolescents recognize vocal emotions more accurately than males, with no interaction between sex and age](female-advantage-vocal-emotion-recognition-stable.md) — related
+- [Exam effects on unrelated graphical memory show no gender differences](exam-ltm-effects-no-gender-differences.md) — related

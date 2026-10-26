@@ -42,7 +42,8 @@ The lesson taught students a reusable template for constructing prompts, built u
 - [Prompting Lesson Raises Self Efficacy](../claims/prompting-lesson-raises-self-efficacy.md) [+M]
 
 ## Related Designs
-- 
+
+- [Structured prompt-template and keyword-card interaction design for human-LLM co-creation](structured-prompt-template-keyword-interaction-design.md)
 
 ## Examples
 -

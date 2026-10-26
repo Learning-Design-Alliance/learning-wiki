@@ -72,3 +72,4 @@ Group-composition comparison in the same two undergraduate variance-invention st
 - [Inventing-phase failure was unproductive: invented solutions did not correlate with transfer, but suboptimal inventions related to lower interest and learning time](inventing-failure-unproductive-no-transfer-correlation.md) — reports the opposite
 - [Diversity of student-generated representations and solution methods is significantly correlated with learning from PF](rsm-diversity-correlates-with-pf-learning.md) — related
 - [Productive Failure Improves Conceptual Learning](productive-failure-improves-conceptual-learning.md) — related
+- [Students with very different prior math achievement generate similar numbers of representations and solution methods during Productive Failure](prior-achievement-weakly-associated-inventive-production.md) — related

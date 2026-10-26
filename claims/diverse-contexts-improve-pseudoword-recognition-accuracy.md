@@ -50,3 +50,4 @@ In the experiment's pseudolexical decision task, average accuracy was 83.9% acro
 - [Diverse and uniform training contexts dissociate: processing ease and semantic representation diverge early in learning](diversity-dissociation-processing-versus-semantics.md) — related
 - [Words higher in contextual diversity and semantic richness are processed more accurately and efficiently in lexical tasks](cd-semantic-richness-improves-lexical-processing.md) — a broader claim this one bears on
 - [Uniform (redundant) contexts yield higher semantic similarity ratings than diverse contexts](redundant-contexts-improve-semantic-representations.md) — related
+- [Children's lexical decision accuracy improved significantly for words learned in their own classroom but not for words assigned to other classrooms, with no difference in the learning effect across the three classes](learning-sprint-behavioral-accuracy-gain.md) — related

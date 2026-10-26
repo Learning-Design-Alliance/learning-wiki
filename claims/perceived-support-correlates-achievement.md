@@ -54,3 +54,4 @@ Pooled-sample Spearman correlations were significant while within-group correlat
 - [Under TAIA the teacher enacted an inquiry-centered instructional loop with repeated within-phase support sequences, identified through lag sequential analysis](taia-inquiry-centered-loop-lsa.md) — related
 - [TAIA reoriented the teacher's action distribution toward inquiry-practice support while the comparison condition emphasized content delivery and assessment](taia-teacher-action-distribution-shift.md) — related
 - [TAIA produced higher adjusted post-test scientific achievement than worksheet-supported inquiry, controlling for pre-test and ICT competency](taia-higher-posttest-achievement-rural.md) — related
+- [Novelty-phase on-task enjoyment is positively associated with task performance, while working-phase enjoyment is not](novelty-enjoyment-predicts-performance.md) — related

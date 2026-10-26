@@ -2,7 +2,7 @@
 
 Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's.
 
-**1984 entries** · 0 stable · 1984 in review · 0 drafts
+**1990 entries** · 0 stable · 1990 in review · 0 drafts
 
 ---
 
@@ -457,6 +457,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Domain-specific GenAI declaration framework translating an activity taxonomy into task-specific disclosure instruments](domain-specific-genai-declaration-framework-translating-an-activity-taxonomy-into-task-spe.md) - A Computer Science higher-education framework developed by Nicholas Micallef for structuring students' disclosure, explanation, and reflection on GenAI use in writing and coding coursework.
 * [Doors to Discovery™](doors-to-discovery.md) - Doors to Discovery™ is a preschool literacy curriculum developed and distributed by Wright Group/McGraw-Hill, organized into eight thematic units with shared-literacy activities targeting oral language, phonological awareness, print knowledge, writing, and comprehension.
 * [Dot comparison congruency-effect measure of numerical inhibition](dot-comparison-congruency-effect-measure-of-numerical-inhibition.md) - A non-symbolic numerical comparison assessment developed by Gilmore et al.
+* [DOT platform](dot-platform.md) - A web application developed by Mengzhou Li and colleagues that delivers individualized, synchronized question sequences for remote online exams and incorporates anti-collusion techniques.
 * [DRAFTTRACE multi-view writing analytics environment](drafttrace-multi-view-writing-analytics-environment.md) - A research-developed web application that records, reconstructs, and analyzes higher-education students’ writing and AI-assistant interactions for instructor-facing process monitoring.
 * [DrawEduMath](drawedumath.md) - DrawEduMath is a benchmark dataset created by Li Lucy et al.
 * [DreamBox Learning](dreambox-learning.md) - DreamBox Learning is a supplemental adaptive online mathematics program developed by DreamBox Learning for students in grades K–5.
@@ -513,6 +514,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [EDUFRAMETRAP](eduframetrap.md) - EDUFRAMETRAP is a controlled pre-deployment benchmark created by Enkelejda Kasneci et al.
 * [EduGage dataset](edugage-dataset.md) - A multimodal learning-engagement dataset released by Zikang Leng and colleagues, containing synchronized sensor streams, engagement-probe ratings, video metadata, and quiz responses from self-guided video-learning sessions for participant-independent engagement-modeling research.
 * [EduGuard](eduguard.md) - EduGuard is a safe AI tutoring architecture that combines instructor-approved retrieval, pedagogical strategy selection, rubric-aware generation, claim verification, and overreliance control for programming education.
+* [Eduq+](eduq.md) - Eduq+ is a Movva-run message-based nudge programme that sends structured SMS or audio messages to parents and teachers to support primary students' learning and engagement.
 * [EduQwen 32B-RL1, EduQwen 32B-SFT, and EduQwen 32B-SFT-RL2](eduqwen-32b-rl1-eduqwen-32b-sft-and-eduqwen-32b-sft-rl2.md) - Singh et al.'s EduQwen family comprises open-source 32-billion-parameter pedagogical LLMs designed for customizable, auditable tutoring and educational-platform integration.
 * [EduSim-LLM](edusim-llm.md) - EduSim-LLM is a zero-coding educational robotics platform developed by Shenqi Lu et al.
 * [Edustories dataset](edustories-dataset.md) - A public dataset of 1,492 anonymized, expert-annotated teacher-written classroom case studies developed from Czech trainee teachers' teaching-practice experiences.
@@ -572,6 +574,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [eSylvan](esylvan.md) - eSylvan was Sylvan Learning Centers' early Internet-based tutoring environment for delivering its reading, writing, and mathematics curriculum through teacher-led online sessions.
 * [Ethical AI and Workforce Readiness (EAWR) micro-credential framework](ethical-ai-and-workforce-readiness-eawr-micro-credential-framework.md) - A proposed micro-credential framework by İsmail Şan et al.
 * [Ethics Training Agents](ethics-training-agents.md) - A web-based multi-human, multi-agent LLM discussion system developed by Seo et al.
+* [EurOP²E — the European Open Platform for Prescribing Education](europ2e-the-european-open-platform-for-prescribing-education.md) - An open educational platform established by the European Association of Clinical Pharmacology and Therapeutics (EACPT) to facilitate international collaboration and sharing of online prescribing-education resources.
 * [Evaluating the Relationships Between Poverty and School Performance interactive data visualization gallery](evaluating-the-relationships-between-poverty-and-school-performance-interactive-data-visua.md) - An interactive data-visualization gallery released and operated by NWEA Research to let users explore relationships between school poverty, achievement, and growth in the report's sample.
 * [Every Learner Everywhere Lighthouse Institution Program and Technical Assistance Model](every-learner-everywhere-lighthouse-institution-program-and-technical-assistance-model.md) - A Gates Foundation-funded Every Learner Everywhere initiative in which a network of organizations helps participating colleges implement adaptive courseware in gateway courses through technical assistance, communities of practice, subgrants, and research support.
 * [EveryDay Intervention](everyday-intervention.md) - A school- and district-partnered attendance intervention that analyzes attendance data and mails personalized absence reports to parents or guardians of students at risk of chronic absenteeism.
@@ -754,6 +757,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Hoot Reading](hoot-reading.md) - Hoot Reading is a proprietary-platform, video-based one-to-one literacy tutoring programme delivered by trained Hoot Reading teachers in partnership with schools and districts.
 * [Hour of Code](hour-of-code.md) - The Hour of Code is a Code.org initiative offering one-hour introductory computer-science activities for K–12 students and implemented by schools and other participating organizations.
 * [How I Know project](how-i-know-project.md) - WestEd's How I Know project framework provides five synergistic practices for school leaders guiding formative-assessment implementation and scaling.
+* [HRIES: Human-Robot Interaction Evaluation Scale with four anthropomorphism subdimensions](hries-human-robot-interaction-evaluation-scale-with-four-anthropomorphism-subdimensions.md) - The HRIES is a questionnaire developed by Ackermann et al.
 
 #### I {: #letter-i }
 
@@ -1158,6 +1162,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [National Student Clearinghouse (NSC)](national-student-clearinghouse-nsc.md) - National Student Clearinghouse data are a nonprofit repository of postsecondary enrollment, completion, and related records voluntarily contributed by participating institutions and used for education research and reporting.
 * [National Study of Online Charter Schools](national-study-of-online-charter-schools.md) - A national research dataset assembled through a survey of online charter-school principals and U.S.
 * [National Study of Online Charter Schools principal survey](national-study-of-online-charter-schools-principal-survey.md) - A nationwide survey dataset collected by Mathematica Policy Research from 127 online charter school principals to describe online charter schools' operations and instructional approaches.
+* [Naturalistic fact-learning dataset from an adaptive learning system (25,843 sequences, 218 learners)](naturalistic-fact-learning-dataset-from-an-adaptive-learning-system-25843-sequences-218-le.md) - An OSF-released dataset from Maarten van der Velde et al.
 * [Nature of Science Scale (NOSS)](nature-of-science-scale-noss.md) - The Nature of Science Scale (NOSS), developed by Özgelen (2013), is a 30-item instrument for measuring views of the nature of science among learners and teachers.
 * [NBA Math Hoops](nba-math-hoops.md) - NBA Math Hoops is a Learn Fresh programme developed in partnership with the NBA and WNBA that uses an interactive basketball board game, real player statistics, and supporting math lessons to teach elementary and middle-grade mathematics.
 * [NCES restricted-use individual-level dataset of seven million US student observations across 160 survey waves](nces-restricted-use-individual-level-dataset-of-seven-million-us-student-observations-acro.md) - A restricted-use NCES dataset combining approximately seven million US student observations from 160 psychometrically linked mathematics and reading survey waves for longitudinal achievement analysis.
@@ -1210,6 +1215,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Number Rockets](number-rockets.md) - Number Rockets is a scripted Tier 2 small-group mathematics tutoring program for first-grade students struggling in math, delivered by tutors in supplemental 40-minute sessions.
 * [Number Sets Test](number-sets-test.md) - A speeded assessment developed by Moore et al.
 * [Number system knowledge test (32 items)](number-system-knowledge-test-32-items.md) - A 32-item oral and written assessment developed by Cowan et al.
+* [Nurturing Care Framework](nurturing-care-framework.md) - A global framework developed by the World Health Organization, UNICEF, and the World Bank that guides policies and services providing young children with health, nutrition, safety, responsive caregiving, and early learning opportunities.
 * [NWEA COVID-19 MAP Growth data visualization](nwea-covid-19-map-growth-data-visualization.md) - An interactive NWEA Research dashboard that visualizes state-level MAP Growth achievement and projected proficiency data for the 2020–2021 school year to inform understanding of pandemic-related learning impacts and recovery.
 * [NWEA MAP Growth 2022–23 achievement dataset](nwea-map-growth-202223-achievement-dataset.md) - A dataset assembled by NWEA from MAP Growth assessments for approximately 6.7 million U.S.
 * [NWEA MAP Growth assessment and longitudinal achievement database](nwea-map-growth-assessment-and-longitudinal-achievement-database.md) - A longitudinal database of student achievement and growth scores collected through NWEA's MAP Growth assessments and used for large-scale educational analysis.

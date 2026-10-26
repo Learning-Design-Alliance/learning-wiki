@@ -22,7 +22,7 @@ sources:
 # Hints
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 13 claims (4 for, 8 mixed, 1 against) · 11 studies (4 causal, 2 review, 2 associational, 2 design, 1 theoretical), `q2`–`q3` · 2 of 11 report an effect size · 12 claims rest on one study
+> **Evidence** · 15 claims (5 for, 9 mixed, 1 against) · 12 studies (5 causal, 2 review, 2 associational, 2 design, 1 theoretical), `q2`–`q3` · 3 of 12 report an effect size · 14 claims rest on one study
 
 ## Description
 Hints are partial prompts or cues that help learners continue a task without fully giving away the answer. They are useful when the design goal is to preserve productive struggle while reducing the chance of stuckness, confusion, or abandonment.
@@ -63,6 +63,8 @@ Hints are partial prompts or cues that help learners continue a task without ful
 - [Feedback effects on time to solution did not differ significantly between novice and advanced students, though predicted trends suggest feedback was more beneficial for advanced students](../claims/no-significant-feedback-expertise-interaction.md) [~W]
 - [Students incorrectly considered partially hinting images helpful](../claims/students-misjudge-hint-images-as-helpful.md) [~W]
 - [Children give more disempowering help (right answers) to peers portrayed as incompetent and more empowering help (hints) to competent peers](../claims/children-disempowering-help-incompetent-peers.md) [~W]
+- [Children aged 6–9 think peers who receive hints will learn more than peers who receive correct answers](../claims/children-hint-recipients-learn-more.md) [+W]
+- [Children aged 7–9 give more empowerment help (hints) to competent peers and more non-empowerment help (answers) to incompetent peers](../claims/children-differentiate-help-by-peer-competence.md) [~W]
 
 ## The evidence by question
 

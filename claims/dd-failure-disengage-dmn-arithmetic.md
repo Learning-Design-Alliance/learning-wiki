@@ -54,3 +54,5 @@ Authors' interpretation of the gPPI Group main effect and activation deactivatio
 - [DD children show operation-specific hyperactivation: greater IPS, superior parietal lobule and fusiform activity during subtraction, while during addition only the right superior parietal lobule differs (lower in DD)](dd-subtraction-specific-parietal-hyperactivation.md) — related
 - [Greater IPS connectivity correlates with worse reaction-time performance during addition but not subtraction in children](ips-connectivity-reaction-time-addition-correlation.md) — related
 - [Adults with dyscalculia show hyper-connectivity between primary visual cortex and inferior occipital cortex and fusiform gyrus](dyscalculia-visual-hyperconnectivity.md) — related
+- [Longitudinal changes in IPS connectivity occur independently of changes in regional activation](connectivity-changes-independent-of-activation-changes.md) — related
+- [Left IPS connectivity with right IPS, superior parietal lobule, and fusiform gyrus increases over childhood](ips-posterior-connectivity-increases-longitudinally.md) — related

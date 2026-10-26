@@ -53,3 +53,4 @@ Theoretical prediction in the reply, illustrated with humor in instruction. The 
 - [Effective instruction requires both focus support and reward: high focus support with low reward, or reward without focus support, yields poor learning](fore-h1-both-focus-support-and-reward-needed.md) — related
 - [A medium degree of both focus support and reward is sufficient for good learning outcomes](fore-h2-medium-degree-sufficient.md) — related
 - [Cognitive-motivational techniques that increase both focus support and reward are hypothesized to be most effective for learning](fore-h3-cognitive-motivational-techniques-most-effective.md) — possibly the same claim (merge candidate)
+- [The authors propose a humor principle: humor may not improve learning of particular items but may drive learners to preferentially select a course](proposed-humor-principle-course-selection.md) — related

@@ -54,3 +54,4 @@ Authors' interpretation reconciling the univariate t-test nulls (Section IV-A) w
 - [Offloading is decodable from metacognitive monitoring and control brain processes](neural-metacognitive-decoding-offloading.md) — related
 - [MRMR feature ranking identifies occipital alpha PSD as the most discriminative feature, followed by frontal gamma, high-beta, and theta](mrmr-occipital-alpha-top-feature.md) — related
 - [SVM classification of fNIRS activation patterns distinguishes RD with 60–90% accuracy, with left MTG channels the most consistent discriminative features](fnirs-mvpa-classifies-reading-difficulty.md) — a narrower finding that bears on this claim
+- [ERP and alpha-band EEG signals decode old vs new faces above chance, with the high-alpha band more discriminative than the low-alpha band](erp-alpha-band-decoding-old-new-faces.md) — a narrower finding that bears on this claim

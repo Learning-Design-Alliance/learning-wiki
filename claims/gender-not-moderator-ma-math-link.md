@@ -51,3 +51,4 @@ Moderation analysis of gender (16 studies; 21 male and 21 female independent sam
 ## Related Claims
 - [The ADHD–depression association does not significantly differ by sex, though point estimates are slightly stronger in females](adhd-depression-association-sex-interaction-null.md) — related
 - [Gender does not moderate the club participation–GPA relationship in math or science](gender-does-not-moderate-club-gpa-relationship.md) — related
+- [Gender moderation of the math anxiety–STEM outcome relations did not reach traditional significance, though effects were near threshold (d ≈ .28)](gender-moderation-anxiety-stem-nonsignificant.md) — possibly the same claim (merge candidate)

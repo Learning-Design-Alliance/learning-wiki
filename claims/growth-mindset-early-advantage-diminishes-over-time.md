@@ -73,3 +73,4 @@ Follow-up comparisons of the estimated trajectories in Fig. 1 showed the growth-
 - [The mindset-performance relationship is U-shaped and non-monotonic: the strongest growth- and strongest fixed-mindset students outperform those with moderate or slightly fixed mindsets](u-shaped-nonlinear-mindset-performance-relation.md) — related
 - [Common and exceptional problems elicit distinct speed-accuracy profiles: curvilinear for common problems versus linear for exceptional problems, converging in older and higher-achieving students](speed-accuracy-profiles-differ-by-problem-type.md) — related
 - [Direct instruction's advantages do not persist over the longer term](direct-instruction-advantages-vanish-long-term.md) — a broader claim this one bears on
+- [Growth mindsets associate with higher US mathematics scores but slightly lower Chinese mathematics scores (country × mindset interaction)](mindset-math-association-reversed-china-us.md) — related

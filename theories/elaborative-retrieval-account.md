@@ -17,7 +17,7 @@ sources:
 # Elaborative Retrieval Account
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 8 claims (3 for, 2 mixed, 3 against) · 4 studies (2 quant-synthesis, 2 review), `q2`–`q4` · 2 of 4 report an effect size · 8 claims rest on one study
+> **Evidence** · 9 claims (3 for, 3 mixed, 3 against) · 5 studies (2 quant-synthesis, 2 review, 1 theoretical), `q2`–`q4` · 2 of 5 report an effect size · 9 claims rest on one study
 
 ## Description
 Proposed by Carpenter (2009), this account holds that "semantic elaboration occurs during the process of retrieval and enhances subsequent recall". When given a cue, learners generate several semantically related items that are incorporated with the target into an elaborated, more recallable trace. The chapter credits it with a plausible mechanism and testable predictions.
@@ -47,6 +47,7 @@ Proposed by Carpenter (2009), this account holds that "semantic elaboration occu
 - [Existing theoretical accounts attributing the testing effect to enhanced semantic elaboration receive limited support](../claims/limited-support-semantic-elaboration-testing-accounts.md) [-W] — attached 2026-10-13 from The effect of testing versus restudy on retention: A meta-analytic review of the testing e, which proposed "The elaborative retrieval hypothesis of the testing effect"; tests this page's relationship.
 - [Pretesting benefits for paired associates depend on semantic association between pair members, with cued-recall benefits absent for unrelated pairs](../claims/semantic-association-moderates-pretesting.md) [+W]
 - [Whether initial retrieval practice enhances semantic organization in final free recall is unclear, with results that may depend on how retrieval practice is implemented](../claims/effects-of-retrieval-practice-on-semantic-organization-are-unclear.md) [~W]
+- [Theoretical mechanisms of the testing effect — semantic elaboration via spreading activation and effortful retrieval within an inverse-U difficulty relationship — may be compromised in learners with dyslexia, whose optimal difficulty levels appear to differ from typical learners](../claims/dyslexia-testing-effect-mechanisms-compromised.md) [~W]
 
 ## The evidence by question
 - *Does retrieving improve later recall because learners elaborate the material semantically while retrieving, as this account holds?* [Existing theoretical accounts attributing the testing effect to enhanced semantic elaboration receive limited support](../claims/limited-support-semantic-elaboration-testing-accounts.md) [-M]

@@ -13,7 +13,7 @@ generated:
 # Self-Efficacy
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 155 claims (113 show a difference, 25 mixed, 17 no difference) · 127 studies (50 associational, 25 causal, 19 review, 14 qualitative, 8 design, 6 theoretical, 5 quant-synthesis), `q1`–`q4` · 28 of 127 report an effect size · 151 claims rest on one study
+> **Evidence** · 156 claims (114 show a difference, 25 mixed, 17 no difference) · 128 studies (51 associational, 25 causal, 19 review, 14 qualitative, 8 design, 6 theoretical, 5 quant-synthesis), `q1`–`q4` · 28 of 128 report an effect size · 152 claims rest on one study
 
 ## Description
 Self-efficacy is Bandura's term for task-specific confidence: how sure a learner is that they can do what a task requires. It is measured with self-report scales tied to a domain (mathematics self-efficacy, writing self-efficacy, computer self-efficacy). It predicts effort, persistence and achievement, it moderates some instructional effects, and it is itself an outcome that instruction can raise, chiefly through experiences of success, seeing similar others succeed, and specific feedback. It is narrower than [motivation](motivation.md) and distinct from general self-esteem.
@@ -186,6 +186,7 @@ Self-efficacy is Bandura's term for task-specific confidence: how sure a learner
 - [A qualitative review reports that AI applications supported learners' attitudes, motivation and self-efficacy in the forethought phase, but self-efficacy gains were inconsistent across studies, and students with initially low self-efficacy often struggled to use the tools](../claims/ai-forethought-phase-mixed-self-efficacy.md) [~M] — instruction changes it
 - [Home learning environment at age 3 and children's confidence in their intelligence at age 8 were associated with GCSE achievement, while teacher opinion, temperament, work confidence and friendship quality were not](../claims/covariates-gcse-achievement-null-and-positive.md) [+M] — learners who differ on it differ in outcomes
 - [Most teacher-level predictors of student performance failed to replicate between tranches, but improved teacher confidence in teaching evolution was a replicable predictor](../claims/teacher-confidence-replicable-predictor.md) [+M] — learners who differ on it differ in outcomes
+- [GPAΔ predicts achievement slopes as well as the traditional ability-based discrepancy index (cogΔ), and the two indices jointly predict 26% of slope variance](../claims/gpad-equals-cogdelta-prediction-and-joint-26-percent.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 

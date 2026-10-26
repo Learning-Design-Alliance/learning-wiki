@@ -108,3 +108,6 @@ Participants were randomly assigned to one of three groups, and all of them lear
 - [Contrary to predictions, post-practice cardiovascular exercise produced no detectable effect on between-session offline change scores](cve-no-effect-between-session-offline-learning-pd.md) — a narrower finding that bears on this claim
 - [Even a substantially increased declarative-load intervening task placed late in training does not impair the post-rest gain (Experiment 2)](increased-declarative-load-late-no-impairment-experiment-2.md) — related
 - [A preceding bout of HIIT exercise does not influence micro-consolidation of an implicit motor sequence learned in close temporal proximity to exercise](hiit-does-not-modify-micro-consolidation.md) — related
+- [Force error increased at retention for the rest group but not the exercise group](force-error-retention-group-by-time.md) — a narrower finding that bears on this claim
+- [Exercise eliminated the offline skill decline seen after rest: the rest group lost skill over the 6-hour delay while the exercise group did not](hiit-preserves-skill-over-six-hour-retention.md) — a narrower finding that bears on this claim
+- [High-intensity exercise prior to practice reduced skill acquisition in older adults, with the detriment specific to the oldest participants](hiit-reduces-motor-acquisition-oldest-older-adults.md) — related

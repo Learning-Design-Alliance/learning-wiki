@@ -78,3 +78,4 @@ Four-way ANOVA over cytoarchitectonic IPS subdivisions (hIP1, hIP2, hIP3) with a
 - [Children with DD show slower reaction times than TD children during arithmetic problem solving, with no operation-specific RT effect](dd-slower-reaction-times-arithmetic.md) — related
 - [Individual records revealed contrasting specific disabilities within the same pupil across arithmetic operations](individual-records-specific-disabilities.md) — related
 - [Children with dyscalculia show altered parietal activation during number processing, including compensatory greater activation in the left IPS, but the evidence base is too small for reliable conclusions](dyscalculia-altered-ips-activation-evidence-too-small.md) — related
+- [Longitudinal changes in IPS connectivity occur independently of changes in regional activation](connectivity-changes-independent-of-activation-changes.md) — related

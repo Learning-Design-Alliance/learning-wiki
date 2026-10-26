@@ -52,3 +52,4 @@ Secondary domain-isolated LOGO evaluations on 37 trial blocks (24 equation, 13 f
 - [Familiarity recognition is represented by a distributed multivariate spatial-spectral pattern rather than localized single-feature shifts, necessitating multivariate machine learning](multivariate-distributed-familiarity-pattern.md) — related
 - [Offloading is decodable from metacognitive monitoring and control brain processes](neural-metacognitive-decoding-offloading.md) — related
 - [Random Forest and SHAP analyses identify Gamma and Beta band power at temporal and frontal channels (T3, P3, F7, T4, T4, F8, F7) as the most critical features for EEG familiarity classification](gamma-beta-temporal-frontal-familiarity-biomarkers.md) — related
+- [ERP and alpha-band EEG signals decode old vs new faces above chance, with the high-alpha band more discriminative than the low-alpha band](erp-alpha-band-decoding-old-new-faces.md) — related

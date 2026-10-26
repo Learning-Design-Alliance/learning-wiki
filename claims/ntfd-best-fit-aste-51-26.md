@@ -56,3 +56,4 @@ Structural equation model fitting across six NTFD baseline models (three phenoty
 - [Environmental factors such as social support modulate classic individual-difference findings, including delay of gratification and heritability estimates](environmental-factors-modulate-individual-difference-findings.md) — related
 - [Twin and adoption studies suggest that 50–80% of IQ variation is due to genetic differences, with the range reflecting population heritability](iq-variation-50-80-percent-genetic.md) — related
 - [Within twin pairs, education–methylation associations persist but are attenuated, implicating shared environmental or genetic factors](education-methylation-twin-pairs.md) — related
+- [GPAΔ is strikingly highly heritable (85%), exceeding the heritability of achievement itself (67%)](gpad-heritability-85-percent-exceeds-achievement.md) — related

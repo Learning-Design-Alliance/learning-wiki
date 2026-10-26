@@ -43,7 +43,8 @@ The authors draw an assessment recommendation from their finding that mathematic
 - [At age 12, mathematics is more strongly correlated with reading comprehension than with word decoding at the phenotypic latent-factor level](../claims/mathematics-more-correlated-with-reading-comprehension-than-decoding.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Identify specific comprehension deficits early and target intervention at comprehension rather than decoding](early-identification-comprehension-targeted-intervention.md)
 
 ## Examples
 -

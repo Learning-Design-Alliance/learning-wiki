@@ -109,3 +109,4 @@ Negative interaction between content difficulty and high-school math achievement
 - [Students' situation-specific and average test performance predict their test-specific self-concept, intrinsic and utility values, and perceived costs](test-performance-predicts-situation-specific-motivation.md) — related
 - [Higher high-school math grades and advanced math course-taking predict higher test-specific motivation even after controlling for test performance](prior-math-achievement-predicts-test-specific-motivation-beyond-performance.md) — related
 - [Female students and students with lower prior achievement experienced more negative motivational changes](gender-gpa-moderate-motivational-change.md) — related
+- [Baseline math performance interacted with teacher–student contact level, with low contact amplifying disadvantages for below-baseline students](baseline-performance-contact-interaction-math.md) — a narrower finding that bears on this claim

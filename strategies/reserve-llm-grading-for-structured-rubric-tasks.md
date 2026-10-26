@@ -40,6 +40,7 @@ The review identifies the conditions under which agreement with human grades was
 
 - [Translate deductive coding rubrics into structured zero-shot prompts to compare LLM coding against human coding](zero-shot-prompt-codebook-translation-strategy.md)
 - [Include an explicit rubric in GenAI feedback prompts, even in Zero-shot conditions](include-explicit-rubric-in-genai-feedback-prompts.md)
+- [Engineer LLM grading prompts with detailed, domain-specific evaluation criteria and band descriptors](prompt-llm-grading-with-detailed-band-descriptors.md)
 
 ## Examples
 -

@@ -137,3 +137,4 @@ This claim is one of the most robust premises in educational psychology, but its
 - [Conceptual feedback significantly reduces the effect of prior knowledge on achievement](conceptual-feedback-nullifies-prior-knowledge-effect.md) — related
 - [Chunking via prior knowledge can massively increase the information processed in working memory](chunking-increases-effective-working-memory.md) — related
 - [Rated topic familiarity is only modestly related to technical passage comprehensibility](topic-familiarity-modest-comprehension-relation.md) — a narrower finding that bears on this claim
+- [Prior math achievement has at most a small effect on learning from Productive Failure, and topic-specific prerequisite knowledge has none](prior-achievement-small-or-no-effect-pf-posttest.md) — a narrower finding that bears on this claim

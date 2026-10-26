@@ -53,3 +53,4 @@ Daily activity analysis in the within-class experiment, shown in Fig. 2 with the
 - [The spacing incentive benefits lower-GPA students more, nearly equalizing exam performance across prior GPA levels](counting-days-benefits-lower-gpa-students.md) — related
 - [A counting days grading incentive raises final exam scores more than a per-question points incentive in an introductory programming course](counting-days-incentive-higher-exam-scores.md) — related
 - [The counting days treatment's benefit for exam scores is mediated almost entirely by the number of days practiced, not the number of questions](spacing-days-mediate-exam-benefit.md) — related
+- [An intervention study of Learning How to Learn reported improved study behaviors and higher second-semester proficiency scores](lhtl-intervention-improved-study-behaviors.md) — related

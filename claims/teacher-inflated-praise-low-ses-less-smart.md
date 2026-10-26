@@ -49,3 +49,7 @@ The editorial reports, citing Schoneveld and Brummelman, two pre-registered expe
 - [Praise for intelligence, rather than for effort, after success undermines children's motivation and performance after a later failure](feedback-praise-reduces-learning.md) — related
 - [Adult ability attributions of young children's success increase test cheating, per the article's title](adult-ability-attributions-increase-child-test-cheating.md) — related
 - [Praise for intelligence (person praise) induces a fixed mindset and helpless reactions compared with process praise](person-praise-induces-fixed-mindset.md) — related
+- [Teachers with low subjective social status show weaker SES biases in praise and attributions](low-subjective-social-status-teachers-weaker-ses-bias.md) — related
+- [Teachers attribute low-SES students' successes more to effort, but not less to ability, than high-SES students' successes](teachers-attribute-low-ses-success-to-effort.md) — related
+- [Teachers give low-SES students less modest praise than high-SES students](teachers-less-modest-praise-low-ses-students.md) — related
+- [Teachers give low-SES students more inflated praise than equally performing high-SES students, though not more total praise](teachers-more-inflated-praise-low-ses-students.md) — a broader claim this one bears on

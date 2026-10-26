@@ -71,3 +71,4 @@ Within-group comparison in the Results section using cohort-based z-scores of SA
 - [Study findings support multiplicative over additive versions of the Simple View for children with SCD](multiplicative-over-additive-simple-view-scd.md) — related
 - [The pattern of SCD weaknesses is consistent across identification criteria, but criteria identify widely differing proportions of children](scd-pattern-robust-across-identification-criteria.md) — related
 - [The vocabulary weakness of children with SCD is best characterized as a developmental delay rather than a developmental deficit](scd-vocabulary-weakness-developmental-delay-not-deficit.md) — related
+- [Children with unexpected poor comprehension show a profound vocabulary deficit despite average-to-above-average word reading](upc-profound-vocabulary-deficit-adequate-decoding.md) — related

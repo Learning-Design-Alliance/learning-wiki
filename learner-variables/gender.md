@@ -13,7 +13,7 @@ generated:
 # Gender
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 306 claims (184 show a difference, 67 mixed, 55 no difference) · 207 studies (136 associational, 33 causal, 14 quant-synthesis, 10 review, 5 qualitative, 5 theoretical, 4 design), `q1`–`q4` · 36 of 207 report an effect size · 298 claims rest on one study
+> **Evidence** · 313 claims (186 show a difference, 67 mixed, 60 no difference) · 211 studies (138 associational, 35 causal, 14 quant-synthesis, 10 review, 5 qualitative, 5 theoretical, 4 design), `q1`–`q4` · 37 of 211 report an effect size · 305 claims rest on one study
 
 ## How to read this page
 
@@ -345,6 +345,13 @@ Gender is recorded in most education studies, usually as a binary category taken
 - [Math ability predicts neural maturity in the same brain regions for boys and girls, with no gender-by-ability interaction](../claims/math-ability-predicts-neural-maturity-no-gender-interaction.md) [-W] — an instructional effect differs by group
 - [Whole-brain neural similarity between children is the same for same-gender and different-gender pairs](../claims/child-child-neural-similarity-same-different-gender.md) [-W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Being female is associated with higher odds of membership in the positively oriented profiles](../claims/female-gender-associated-with-positive-profiles.md) [+W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Exam effects on unrelated graphical memory show no gender differences](../claims/exam-ltm-effects-no-gender-differences.md) [-M] — an instructional effect differs by group
+- [Gender moderation of the math anxiety–STEM outcome relations did not reach traditional significance, though effects were near threshold (d ≈ .28)](../claims/gender-moderation-anxiety-stem-nonsignificant.md) [-M] — an instructional effect differs by group
+- [In an appetitive PIT transfer phase, both males and females show a direction bias, choosing cue-congruent responses more than incongruent ones, with no sex difference](../claims/appetitive-pit-direction-bias-both-sexes.md) [-M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [In an aversive PIT paradigm, the intensity bias (stronger grip force) is again present in males but not females, showing the sex difference is valence-independent](../claims/aversive-pit-intensity-bias-males-only.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [No GPA difference between male and female older learners, or across faculties](../claims/no-gender-faculty-gpa-difference-older-learners.md) [-M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Sex differences in the intensity bias emerge despite comparable baseline liking, wanting, hunger, and instrumental learning between males and females](../claims/sex-groups-matched-on-liking-wanting-learning.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [The direction bias is absent of sex modulation in the aversive PIT context as well, with no male-female difference in direction bias](../claims/aversive-pit-direction-bias-no-sex-difference.md) [-M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## The evidence by question
 - *Do girls and boys differ in mathematics and reading achievement, by how much, and where in the distribution?* [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](../claims/pisa-sex-differences-math-small-reading-three-times-larger.md) [+M]

@@ -42,6 +42,7 @@ The brief's key findings caution that personalized messages "might only work whe
 - [Communicate Quickly and Easily Through Mobile Apps](communicate_quickly_and_easily_through_mobile_apps.md)
 - [Mobile Communication for Family Engagement](mobile_communication_for_family_engagement.md)
 - [Welcome Messages](welcome-messages.md)
+- [Pair demand-side nudge messaging with supply-side teacher professional development and attend to heterogeneous effects](pair-nudges-with-teacher-professional-development.md)
 
 ## Examples
 -

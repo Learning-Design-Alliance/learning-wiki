@@ -53,3 +53,4 @@ Propensity score matching analysis of the ECLS-K:2011 kindergarten sample, match
 - [After propensity score matching, bilingual kindergarteners show greater teacher-rated attentional focus than matched monolinguals, but this effect is not robust to unmeasured confounds](psm-bilingual-advantage-attentional-focus-not-robust.md) — related
 - [After propensity score matching, no bilingual-monolingual differences appear on performance-based measures of working memory or cognitive flexibility in kindergarten](psm-no-bilingual-advantage-performance-based-ef.md) — related
 - [Propensity score matching produced baseline-equivalent treatment and comparison groups on all measured variables](psm-baseline-equivalence-mtss-study.md) — related
+- [Sensitivity analysis indicated medium-to-large unobserved confounding would be needed to eliminate the reported pandemic effects](unobserved-confounder-sensitivity-pandemic-effects.md) — related

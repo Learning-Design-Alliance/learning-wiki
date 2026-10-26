@@ -26,7 +26,8 @@ A manualized 10-session parenting programme developed by Mary Dozier and colleag
 - [Foster children who received the ABC intervention showed stronger theory of mind at preschool age than foster children who received a control intervention](../claims/abc-intervention-improves-theory-of-mind-foster-preschoolers.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [Nurturing Care Framework](nurturing-care-framework.md)
 
 ## Key Sources
 - Lewis-Morrarty, E., Dozier, M., Bernard, K., Terracciano, S., & Moore, S. (2012). Cognitive Flexibility and Theory of Mind Outcomes Among Foster Children: Preschool Follow-up Results of a Randomized Clinical Trial. Journal of Adolescent Health. https://doi.org/10.1016/j.jadohealth.2012.05.005

@@ -72,3 +72,4 @@ Correlational analysis of the Cowan model factors with Gf and Gv factors in the 
 - [Binding tasks showed no separate episodic buffer faculty, loading instead with visuospatial tasks or the focus of attention](binding-tasks-load-focus-of-attention-no-episodic-buffer.md) — related
 - [Short-term storage capacity increases from two units at ages 3-4 to four units at ages 10-11 when executive operations are minimal](short-term-storage-capacity-two-to-four-units.md) — related
 - [Gender differences in fluid intelligence (gF) on the WISC are negligible, and newer fluid-reasoning subtests show no difference or favour females](wisc-fluid-intelligence-no-gender-difference.md) — related
+- [Initial working memory accuracy shows no reliable relation with fluid intelligence](initial-wm-accuracy-no-gf-relation.md) — related

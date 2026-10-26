@@ -48,3 +48,4 @@ Theoretical argument in the introductory statement of a 1913 agenda-setting pape
 - [The editorial argues that fundamental questions about teaching music should be settled by controlled experiment rather than by trial and error.](music-teaching-questions-need-controlled-experiments.md) — related
 - [Knowledge of individual differences in children's memories should shape recitation questioning, and psychology's analysis of school subjects underlies teaching methods](individual-differences-shape-recitations.md) — related
 - [Dewey argues that science has not justified its early promises as part of the educational curriculum](dewey-science-not-justified-curriculum-promises.md) — related
+- [The Learning How to Learn MOOC's popularity appears attributable to its presentation and instructional methods rather than its subject matter alone](lhtl-popularity-from-presentation-methods.md) — related

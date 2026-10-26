@@ -47,3 +47,6 @@ The editorial reports, citing Sierksma, two pre-registered experiments in which 
 ## Related Claims
 - [Turn-taking test review makes each member's expertise visible, enabling peers to locate and draw on community knowledge](test-review-brings-expertise-to-open.md) — related
 - [Not requesting any hints in at least one problem is related to greater wheel-spinning, consistent with help avoidance](hint-avoidance-related-greater-wheel-spinning.md) — related
+- [Children aged 7–9 give more empowerment help (hints) to competent peers and more non-empowerment help (answers) to incompetent peers](children-differentiate-help-by-peer-competence.md) — possibly the same claim (merge candidate)
+- [Children aged 6–9 think peers who receive hints will learn more than peers who receive correct answers](children-hint-recipients-learn-more.md) — related
+- [Perceived niceness does not explain children's competence-based differentiation in helping](niceness-does-not-drive-differentiated-helping.md) — related

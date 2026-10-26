@@ -51,3 +51,4 @@ The authors' own observation while customizing and testing prompts within the LE
 - [Systematic prompting of an LLM can generate cognitively activating formative feedback aligned with research-based scaffold types (demonstrated, not yet empirically validated)](leap-prompt-design-generates-cognitively-activating-feedback.md) — related
 - [Teacher-provided correct answers and pre-prompting reduce erroneous LLM output and hallucinations compared with open chatbot use](leap-pre-prompting-reduces-hallucinations.md) — related
 - [The authors observe that more specific physical descriptions in generation prompts tend to produce more physically coherent AI-generated motion](prompt-specificity-shapes-physical-coherence.md) — related
+- [Domain-specific knowledge, rather than model complexity or general abilities, limits the precision of LLM criterion-based grading](domain-specific-knowledge-limits-llm-grading-precision.md) — reports the opposite

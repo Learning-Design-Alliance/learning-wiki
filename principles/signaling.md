@@ -220,6 +220,7 @@ The expectation should weaken if comparisons with comparable novice learners, ho
 - [Amplifying Key Ideas](../strategies/amplifying_key_ideas.md)
 - [Highlight and Explore Patterns, Critical Features, Big Ideas, and Relationships](../strategies/highlight-and-explore-patterns-critical-features-big-ideas-and-relationships.md)
 - [Brown-Peterson working memory task with animated goal cue tracking for preschoolers](../designs/brown-peterson-goal-cue-tracking-task-preschoolers.md)
+- [Pre-planned scripts and teleprompter use to achieve conversational, personalized narration](../strategies/preplanned-scripts-teleprompter-personalization.md)
 
 ## Key Sources
 - Noetel, M., Griffith, S., Delaney, O., Harris, N. R., Sanders, T., Parker, P., del Pozo Cruz, B., & Lonsdale, C. (2022). Multimedia design for learning: An overview of reviews with meta-meta-analysis. *Review of Educational Research, 92*(3), 413–454. [doi:10.3102/00346543211052329](https://doi.org/10.3102/00346543211052329)

@@ -71,3 +71,4 @@ Secondary correlational analysis in the PF condition using the range of distinct
 - [Solution quality correlates with conceptual knowledge and gap awareness only for individual problem solvers](pf-solution-quality-correlation-individual-only.md) — related
 - [Vicarious failure with high solution diversity is as effective as engaging in Productive Failure oneself for conceptual knowledge acquisition](vf-high-as-effective-as-pf.md) — related
 - [Diversity of student-generated representations and solution methods is significantly correlated with learning from PF](rsm-diversity-correlates-with-pf-learning.md) — reports the opposite
+- [Number of generated solution methods is the strongest measured predictor of posttest learning from Productive Failure in both topics](inventive-production-strongest-predictor-pf-learning.md) — related

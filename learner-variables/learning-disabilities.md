@@ -13,7 +13,7 @@ generated:
 # Learning Disabilities and Developmental Differences
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 121 claims (86 show a difference, 21 mixed, 14 no difference) · 68 studies (37 associational, 10 review, 9 causal, 6 quant-synthesis, 5 theoretical, 1 qualitative), `q1`–`q4` · 12 of 68 report an effect size · 119 claims rest on one study
+> **Evidence** · 122 claims (87 show a difference, 21 mixed, 14 no difference) · 69 studies (37 associational, 11 review, 9 causal, 6 quant-synthesis, 5 theoretical, 1 qualitative), `q1`–`q4` · 12 of 69 report an effect size · 120 claims rest on one study
 
 ## Description
 Identified differences in how a learner learns: specific learning disabilities such as dyslexia and dyscalculia, autism, intellectual disability, and the special educational needs (an IEP in the United States, an EHC plan in England) that formally record them. In the research it appears as a population a design targets, as a moderator (an approach that works differently for these learners), and as a predictor of outcomes. It is distinct from [access](access.md), which is about perceiving and operating the material (sensory and motor impairments, devices); a learner can need both. Attention-related differences such as ADHD sit on [attention](attention.md).
@@ -155,6 +155,7 @@ Identified differences in how a learner learns: specific learning disabilities s
 - [Adults with dyslexia show heightened decay rates than controls in complex learning settings, indicating quicker discounting of learned associations](../claims/dyslexia-heightened-decay-rates.md) [~M] — learners who differ on it differ in outcomes
 - [Impaired statistical learning in developmental dyslexia is not a robust phenomenon, with meta-analyses hampered by publication bias and task heterogeneity](../claims/statistical-learning-dyslexia-impairment-not-robust.md) [-W] — learners who differ on it differ in outcomes
 - [On loss trials, smaller pupil dilation predicted response change in TD participants while larger dilation predicted it in FXS participants, with no robust effect in DS or WS](../claims/pupil-predicts-response-change-loss-trials.md) [~M] — learners who differ on it differ in outcomes
+- [Learners with dyslexia recalled more words with speech-based than typing-based adaptive retrieval practice, with the typing disadvantage attributable to processing delays rather than memory](../claims/speech-based-retrieval-benefits-dyslexia.md) [+M] — an instructional effect differs with it
 
 ## The evidence by question
 - *Do learners with disabilities reach lower achievement, graduation and postsecondary outcomes than their peers, by how much, and does it differ by disability type?* [Students with disabilities attained postsecondary readiness and success outcomes at about one half to one third the rate of students without disabilities, the largest difference between any student group and its counterpart](../claims/disability-largest-postsecondary-outcome-gap.md) [+M]

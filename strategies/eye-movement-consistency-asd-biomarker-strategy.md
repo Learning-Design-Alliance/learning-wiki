@@ -50,7 +50,8 @@ The article proposes that low eye movement consistency in processing faces "may 
 - [In partially trained DNN+HMM models simulating children, eye movement consistency (lower entropy) predicts recognition accuracy but eye movement pattern does not](../claims/partially-trained-model-consistency-predicts-accuracy.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Use eye tracking as a cost-effective method for early screening or personalized diagnosis of face processing or social cognition impairments](eye-tracking-screening-face-processing-impairments.md)
 
 ## Examples
 -

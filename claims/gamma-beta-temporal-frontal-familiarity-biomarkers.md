@@ -54,3 +54,5 @@ Interpretability analysis of the 4-class Random Forest (feature importances) and
 - [EEG-derived temporal flexibility and search information in specific Brodmann areas and frequency bands are associated with simulator task performance](eeg-flexibility-search-information-associated-performance.md) — related
 - [MRMR feature ranking identifies occipital alpha PSD as the most discriminative feature, followed by frontal gamma, high-beta, and theta](mrmr-occipital-alpha-top-feature.md) — related
 - [Teacher-initiated activities also increased theta power and decreased beta and gamma power, converging with the alpha-based inference of lower wakefulness and attention](theta-beta-gamma-convergent-evidence.md) — related
+- [ERP and alpha-band EEG signals decode old vs new faces above chance, with the high-alpha band more discriminative than the low-alpha band](erp-alpha-band-decoding-old-new-faces.md) — related
+- [SVM weight topography shows central and parietal electrodes contribute most to decoding, with eyes-focused participants showing more right-central contribution](svm-topography-central-parietal-eyes-right-bias.md) — related

@@ -62,3 +62,4 @@ Delayed posttest administered 2 weeks after the first session to 14 of the initi
 - [Vocabulary retention declines between immediate and first delayed recall, then rises slightly between the first and second delayed tests](vocabulary-forgetting-pattern-decline-then-rise.md) — related
 - [Deeper processing of target language improves lexical retention and long-term learning](depth-of-processing-improves-l2-retention.md) — related
 - [Writing quality gains from Tekster are maintained eight weeks after the intervention ends](tekster-writing-gains-maintained-8-weeks.md) — related
+- [Two weeks of authentic classroom instruction produces lexical-level discriminative cortical responses to newly learned low-frequency words that resemble responses to high-frequency words versus pseudowords](classroom-learning-sprint-lexical-ssvep-response.md) — related

@@ -13,7 +13,7 @@ generated:
 # Socioeconomic Status
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 154 claims (94 show a difference, 37 mixed, 23 no difference) · 117 studies (68 associational, 22 causal, 14 review, 8 quant-synthesis, 3 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 10 of 117 report an effect size · 153 claims rest on one study
+> **Evidence** · 159 claims (98 show a difference, 38 mixed, 23 no difference) · 120 studies (69 associational, 24 causal, 14 review, 8 quant-synthesis, 3 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 10 of 120 report an effect size · 158 claims rest on one study
 
 ## How to read this page
 
@@ -239,6 +239,11 @@ A learner's economic and social position: family income or poverty (often measur
 - [Ability tracking practices increase educational inequalities because disadvantaged students are more often assigned to less-demanding tracks with fewer opportunities to learn](../claims/tracking-increases-educational-inequalities.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [In an experiment on computer-assisted instruction, low- and high-SES students benefited equally relative to conventional instruction, and the SES achievement gap remained the same](../claims/cai-equal-ses-benefits-gap-unchanged.md) [-M] — an instructional effect differs by group
 - [School socioeconomic advantage buffers low-polygenic-score students from dropping out of math: the PGS-by-school-SES interaction on persistence is significant and negative](../claims/advantaged-schools-buffer-low-pgs-math-dropout.md) [+M] — an instructional effect differs by group
+- [Early childhood development risks and learning opportunities show graded disadvantage from upper-middle- to lower-middle- to low-income countries, and within countries by wealth and rural residence](../claims/early-childhood-inequality-income-gradient.md) [+W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Family SES moderated the pandemic effect on reading self-concept, with stronger negative effects for below-average SES students](../claims/ses-moderates-reading-selfconcept-pandemic.md) [~M] — an instructional effect differs by group
+- [Teachers attribute low-SES students' successes more to effort, but not less to ability, than high-SES students' successes](../claims/teachers-attribute-low-ses-success-to-effort.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Teachers give low-SES students less modest praise than high-SES students](../claims/teachers-less-modest-praise-low-ses-students.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Teachers give low-SES students more inflated praise than equally performing high-SES students, though not more total praise](../claims/teachers-more-inflated-praise-low-ses-students.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## The evidence by question
 - *Does family income predict achievement and attainment, how large are the gaps, and when do they open?* [School test score averages are strongly related to the income of the families a school serves](../claims/school-test-scores-strongly-related-to-family-income.md) [+M]

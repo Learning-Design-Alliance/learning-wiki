@@ -43,6 +43,7 @@ This strategy supplies the automated grader with the same structured guidance hu
 - [Achieve high-precision automated constructive assessment through prompt design alone—explicit role assignment plus human-scored hint examples—without fine-tuning](prompt-design-with-role-and-hints-for-llm-assessment.md)
 - [Mitigate LLM feedback errors by supplying course materials and compiler errors in the prompt, fact-checking generated feedback, and adapting feedback structure to student behavior](mitigate-llm-feedback-errors-context-and-fact-checking.md)
 - [Include an explicit rubric in GenAI feedback prompts, even in Zero-shot conditions](include-explicit-rubric-in-genai-feedback-prompts.md)
+- [Engineer LLM grading prompts with detailed, domain-specific evaluation criteria and band descriptors](prompt-llm-grading-with-detailed-band-descriptors.md)
 
 ## Examples
 -

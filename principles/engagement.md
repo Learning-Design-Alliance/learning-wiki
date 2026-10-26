@@ -22,7 +22,7 @@ sources:
 # Engagement
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 27 claims (9 for, 17 mixed, 1 against) · 46 studies (17 causal, 9 quant-synthesis, 8 review, 5 theoretical, 3 associational, 3 qualitative, 1 design), `q1`–`q4` · 6 of 46 report an effect size · 16 claims rest on one study
+> **Evidence** · 28 claims (10 for, 17 mixed, 1 against) · 47 studies (17 causal, 9 quant-synthesis, 8 review, 5 theoretical, 4 associational, 3 qualitative, 1 design), `q1`–`q4` · 6 of 47 report an effect size · 17 claims rest on one study
 
 ## Conditional relationship
 
@@ -162,6 +162,7 @@ On-task behaviour, interest, completion, voluntary persistence and learning of t
 - [Relative weights analysis identifies behavioral engagement for achievement, agentic for social support, and emotional for motivation and well-being](../claims/relative-weights-engagement-correlates.md) [~W]
 - [Participants attended the implicit task well, with high hit rates and low false alarm rates across all blocks.](../claims/color-detection-task-high-compliance.md) [+W]
 - [Microanalysis shows on-task and off-task participation is multilayered, with students frequently on- and off-task simultaneously through different modalities](../claims/multilayered-on-off-task-microanalysis.md) [~W]
+- [Low teacher–student contact during pandemic closures was associated with negative effects on first-grade students' reading and writing motivation](../claims/low-teacher-contact-motivation-decline.md) [+W]
 
 ## Related Principles
 - [Learner Choice](autonomy.md) — meaningful choice is one common route to stronger engagement

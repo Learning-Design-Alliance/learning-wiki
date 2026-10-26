@@ -47,6 +47,7 @@ A framework for organizing education around developmental relationships, support
 - [Guiding Principles for Enacting SoLD-Aligned Teacher Preparation framework](guiding-principles-for-enacting-sold-aligned-teacher-preparation-framework.md)
 - [SEAD integration framework (the three-legged stool)](sead-integration-framework-the-three-legged-stool.md)
 - [Mirenda's four-aspect framework for classroom participation](mirendas-four-aspect-framework-for-classroom-participation.md)
+- [Nurturing Care Framework](nurturing-care-framework.md)
 
 ## Key Sources
 - Breaking Barriers, California Alliance of Child and Family Services, Santa Clara County Office of Education, & WestEd. (2022). Supporting California's children through a whole child approach: A field guide for creating integrated, school-based systems of care. https://WestEd.org/permissions

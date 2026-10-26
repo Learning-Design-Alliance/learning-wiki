@@ -56,3 +56,4 @@ Results section, Table 4: the rank-averaging ensemble of five trained models rea
 - [A Soft-Voting Ensemble achieves the best behavioral-dataset attrition prediction (CV F1 = 0.737, test recall = 0.769)](soft-voting-ensemble-behavioral-attrition-f1.md) — related
 - [Ensembles of operational raters outperform the LLMs: two raters suffice on average across aspects, but larger ensembles are needed for individual aspects](rater-ensembles-outperform-llms-feedback.md) — related
 - [Model self-confidence, weighted probabilistic scoring, and ensemble modeling each significantly improve LLM-based divergent thinking scoring, raising correlation with human judges from r = 0.781 to r = 0.823](llm-scoring-three-techniques-raise-human-judge-correlation.md) — related
+- [A multi-polygenic-score GPAΔ predicted achievement no better than the EA4 GPS alone](multi-gps-gpad-no-better-than-ea4-alone.md) — related

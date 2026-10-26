@@ -50,3 +50,4 @@ The meta-analysis's summary of its own key results states "support for the role 
 - [Retrieval Failure Reduces Benefit](retrieval-failure-reduces-benefit.md) — related
 - [A review reports that retrieval practice effects grow more robust as initial retrieval success rises, especially above 75%, and separately that giving more retrieval cues yields smaller effects](retrieval-practice-effects-more-robust-when-initial-retrieval-success-exceeds-75-percent.md) — related
 - [Spaced Retrieval Improves Retention](spaced-retrieval-improves-retention.md) — related
+- [Theoretical mechanisms of the testing effect — semantic elaboration via spreading activation and effortful retrieval within an inverse-U difficulty relationship — may be compromised in learners with dyslexia, whose optimal difficulty levels appear to differ from typical learners](dyslexia-testing-effect-mechanisms-compromised.md) — related

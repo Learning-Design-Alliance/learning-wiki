@@ -67,3 +67,6 @@ The editorial reports the same trial's subgroup finding: for children starting w
 - [Existing GEAR UP supports may have eclipsed the benefits of behavioral-nudge text messaging](gear-up-existing-supports-eclipse-nudges.md) — related
 - [Students closed a higher relative number of knowledge gaps when a red notification badge nudged them than when it was turned off](notification-badge-increases-knowledge-gap-closing.md) — related
 - [PROMISE treatment group youth had lower educational attainment than control group youth](promise-lower-educational-attainment-than-control.md) — related
+- [Parents-only SMS/audio nudges produced statistically non-significant learning gains of d = 0.081 in rural Cote d'Ivoire](ivorian-parents-only-nudge-nonsignificant-learning-gains.md) — a narrower finding that bears on this claim
+- [Parents-only nudges marginally significantly increased child-reported child labor (d = 0.113), contrary to intervention goals](parents-only-nudge-increased-child-labor.md) — a narrower finding that bears on this claim
+- [Parents-only nudge effects on learning were larger and positive for children with below-median baseline skills](parents-only-nudge-larger-gains-low-baseline-children.md) — related

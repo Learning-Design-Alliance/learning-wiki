@@ -48,3 +48,4 @@ Discussion-section attribution to Spencer et al. (2014), a large-scale study of 
 - [Children with specific reading comprehension difficulties show substantially poorer reading comprehension than vocabulary relative to typical readers](scd-reading-comprehension-weakness-more-severe-than-vocabulary.md) — related
 - [The pattern of SCD weaknesses is consistent across identification criteria, but criteria identify widely differing proportions of children](scd-pattern-robust-across-identification-criteria.md) — related
 - [The vocabulary weakness of children with SCD is best characterized as a developmental delay rather than a developmental deficit](scd-vocabulary-weakness-developmental-delay-not-deficit.md) — related
+- [Children with unexpected poor comprehension show a profound vocabulary deficit despite average-to-above-average word reading](upc-profound-vocabulary-deficit-adequate-decoding.md) — related

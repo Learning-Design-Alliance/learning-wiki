@@ -66,3 +66,4 @@ The review reports that being male is a risk factor for positively framed outcom
 ## Related Claims
 - [A systematic review of 32 longitudinal studies identified 96 personal risk and protective factors for psychosocial transition success, consolidated into 16 salient elements across five higher-order domains](96-factors-consolidated-16-elements-five-domains.md) — a broader claim this one bears on
 - [The wellbeing effects of school-led nature interventions show a gender effect, with girls benefiting in PA in some studies, but inconclusive findings for age](gender-effect-school-nature-interventions.md) — related
+- [Psychosocial factors (social networks, anxiety, depression) do not predict GPA in older learners](psychosocial-factors-not-predict-gpa-older-learners.md) — related

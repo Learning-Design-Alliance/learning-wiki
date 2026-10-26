@@ -79,7 +79,7 @@ sources:
 # Productive Failure
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 56 claims (22 for, 27 mixed, 7 against) · 31 studies (18 causal, 6 review, 4 theoretical, 2 quant-synthesis, 1 associational), `q1`–`q4` · 13 of 31 report an effect size · 53 claims rest on one study
+> **Evidence** · 57 claims (23 for, 27 mixed, 7 against) · 32 studies (18 causal, 6 review, 4 theoretical, 2 quant-synthesis, 2 associational), `q1`–`q4` · 13 of 32 report an effect size · 54 claims rest on one study
 
 ## Conditional relationship
 
@@ -200,6 +200,7 @@ Read 2026-10-19 (second pass, claims linked overnight); the others linked then m
 - [Struggling with a challenging task before receiving instruction prepares learners to benefit from explicit connections](../claims/struggle-before-instruction-prepares-for-learning.md) [+W] — attached 2026-10-20 from Fries et al. (2020), which proposed "Engage students in productive struggle before presenting explicit connections and solutions"; tests this page's relationship.
 - [Initial PF activities were too frustrating and were refined with moderate metacognitive support so students struggled without giving up](../claims/pf-moderate-support-refinement.md) [~W] — attached 2026-10-26 from Sunita G. Chowrira et al. (2019), which proposed "DIY productive failure cycle for large university classes: Exploration then Consolidation with pre-reading".
 - [PF students outperformed AL students on condition-topic midterm items by nearly five percentage points after controlling for prior performance](../claims/pf-beats-al-midterm-biology.md) [+M] — attached 2026-10-26 from Sunita G. Chowrira et al. (2019), which proposed "DIY productive failure cycle for large university classes: Exploration then Consolidation with pre-reading"; tests this page's relationship.
+- [Number of generated solution methods is the strongest measured predictor of posttest learning from Productive Failure in both topics](../claims/inventive-production-strongest-predictor-pf-learning.md) [+W] — attached 2026-10-26 from Manu Kapur et al. (2023), which proposed "Facilitate learning environments that give space to inventive production, since generating more solution methods promotes learning regardless of prior achievement".
 
 ## Objective and learner-valued goal
 
@@ -234,6 +235,7 @@ The expectation should weaken if new comparisons with comparable learners, holdi
 - [Invention](../elements/invention.md) — the invention activity as a building block.
 - [When implementing PS-I, include contrasting cases or build the instruction phase on student solutions](../strategies/include-contrasting-cases-or-build-instruction-on-student-solutions.md)
 - [Use collaboration scripting to take advantage of the hidden learning in productive failure](../strategies/scripting-leverage-productive-failure-hidden-learning.md)
+- [Use group-based generation and exploration followed by teacher-led consolidation and comparison of student-generated and canonical solutions](../strategies/group-generation-then-consolidation-strategy.md)
 
 ## Key Sources
 - Sinha, T., & Kapur, M. (2021). When problem solving followed by instruction works: Evidence for productive failure. *Review of Educational Research, 91*(5), 761–798. [doi:10.3102/00346543211019105](https://doi.org/10.3102/00346543211019105)

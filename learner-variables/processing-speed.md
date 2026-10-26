@@ -13,7 +13,7 @@ generated:
 # Processing Speed
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 65 claims (39 show a difference, 22 mixed, 4 no difference) · 45 studies (18 associational, 15 causal, 6 quant-synthesis, 4 review, 2 qualitative), `q1`–`q4` · 11 of 45 report an effect size · 65 claims rest on one study
+> **Evidence** · 66 claims (39 show a difference, 23 mixed, 4 no difference) · 46 studies (18 associational, 16 causal, 6 quant-synthesis, 4 review, 2 qualitative), `q1`–`q4` · 11 of 46 report an effect size · 66 claims rest on one study
 
 ## Description
 Processing speed (the LVN calls it speed of processing) is how quickly a learner perceives and processes information and formulates a response. Reading and mathematics both require it constantly: a reader takes in letters, words, punctuation and layout, a mathematics learner numbers, shapes and symbols, and each has to choose and apply the right skills fast enough to keep the whole task in view. It grows quickly in the early years and keeps improving through adolescence, may dip during puberty, and declines with age in older adults. It is measured with timed tasks, such as pattern-matching and cancellation subtests of cognitive batteries and rapid automatised naming, though naming tasks also draw on vocabulary. It is related to [working memory](working-memory.md), since faster processing lets more be rehearsed and held, and to fluid reasoning in [general cognitive ability](general-cognitive-ability.md). Slow processing is also reported in learners with hearing loss and with dyslexia, which overlaps [learning disabilities](learning-disabilities.md).
@@ -101,6 +101,7 @@ Processing speed (the LVN calls it speed of processing) is how quickly a learner
 - [Early-phase FISL improves whole-process imitation performance while late-phase FISL selectively speeds successful imitation of positive emotions](../claims/fisl-phase-specific-performance-speed.md) [~M] — instruction changes it
 - [Reaction times decreased with working memory training but were not additionally affected by tDCS](../claims/wmt-rt-decreases-unaffected-by-tdcs.md) [~M] — instruction changes it
 - [Reaction times on the XOR task reveal a strategy difference: the feature-specific feedback group was slower on XOR relative to conjunction than the global-feedback group](../claims/xor-reaction-time-strategy-difference.md) [+W] — instruction changes it
+- [Smaller 1 Hz SSVEP oddball amplitudes to newly learned vocabulary are associated with better word decoding and faster rapid automatic naming, with no such correlations for corpus-based word-pseudoword contrasts](../claims/learning-sprint-1hz-brain-behavior-correlation.md) [~M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Woodcock-Johnson Tests of Cognitive Abilities** (Schrank, Mather, & McGrew, 2014): includes number-pattern matching, pair cancellation and letter-pattern matching subtests of processing speed.

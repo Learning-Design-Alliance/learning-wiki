@@ -58,3 +58,4 @@ Hierarchical regression on N=80 students using Days 4-5 platform behavioral logs
 - [Teaching a ChatGPT agent improves students' self-regulated learning, specifically self-efficacy and use of cognitive strategies](chatgpt-teaching-self-efficacy-cognitive-strategies.md) — related
 - [Platform logs show behavioral shifts toward goal-oriented optimization between workshop Days 4 and 5](behavioral-shift-goal-oriented-optimization.md) — related
 - [Students with moderate initial CT levels show substantially greater self-efficacy gains than high-CT and low-CT peers, an 'Optimal Development Zone' effect](optimal-development-zone-ct-gains.md) — related
+- [No significant relationships between behavioral variables and computational thinking factors in pooled sample data](no-cts-behavior-pooled-significance.md) — reports the opposite
