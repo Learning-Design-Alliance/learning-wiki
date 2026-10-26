@@ -51,3 +51,4 @@ ANOVA on face recognition accuracy (hits minus false alarms) with factors pre-an
 - [Children with greater curiosity-related trivia memory benefits also show greater curiosity-related incidental face memory benefits](curiosity-answer-face-memory-benefit-correlation.md) — related
 - [Memory for incidental scholastic facts is worse when the facts are paired with pre-determined high- versus low-curiosity trivia questions across three task versions](high-curiosity-trivia-pairs-worse-scholastic-memory.md) — related
 - [Scholastic memory differed between task versions, with Early Anticipation outperforming Late Anticipation but not differing from Post Satisfaction](task-version-differences-scholastic-memory.md) — related
+- [Higher curiosity is associated with better memory for the correct answer](curiosity-associated-with-better-memory.md) — related

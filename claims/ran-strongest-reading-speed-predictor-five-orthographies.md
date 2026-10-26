@@ -9,6 +9,7 @@ generated:
   at: 2026-10-23
 evidence_strength: mixed
 newest_evidence: 2014
+source_checked: 2026-10-26
 sources:
   - id: moll-2014
     resource: "https://doi.org/10.1016/j.learninstruc.2013.09.003"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2`–`r3` · `q2`
-> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2014 · checked against its sources 2026-10-26 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In stepwise regressions per language, RAN explained clearly higher amounts of unique variance in reading speed than the two phonological predictors in English, French, German, and Hungarian (16.7 to 22.8%). [→ Moll 2014](#moll-2014)
@@ -74,3 +75,4 @@ Simple correlations based on grade-specific scores, tabulated separately for eac
 - [Phonological awareness accounted for more unique variance in reading accuracy than RAN in the orthographies studied, while English was the only orthography where RAN added substantial unique variance (14.2%) and total explained variance was highest (39%)](reading-accuracy-predictors-english-ran-exception.md) — related
 - [Cognitive predictors explained more spelling variance in English (34.7%) than in the other orthographies (8.9 to 16.2%), and English was the only orthography where RAN made a significant and highest contribution to spelling](spelling-predictors-english-outlier-beyond-grade-2.md) — related
 - [Wagner and Torgesen's (1987) tripartite phonological processing model transfers to German and its transparent orthography](phonological-processing-model-transfers-german.md) — related
+- [Endophenotypes explain roughly 3–17% of variance in decoding and comprehension, with PA best for decoding and RAN best for comprehension](endophenotypes-variance-reading-skills-correlations.md) — related

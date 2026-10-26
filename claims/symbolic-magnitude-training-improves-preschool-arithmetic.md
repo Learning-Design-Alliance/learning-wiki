@@ -53,3 +53,4 @@ Randomized three-group training study with 56 preschoolers (non-symbolic, symbol
 - [ANS acuity correlates with later number sets fluency but does not emerge as a unique predictor once symbolic knowledge is controlled](ans-acuity-not-unique-predictor-of-number-sets.md) — related
 - [Both numerical training conditions improve magnitude processing more than a story-understanding control condition](numerical-magnitude-training-beats-control.md) — related
 - [The training shows no significant transfer to academic learning tasks, with only a marginal post-test advantage in number conservation](weak-academic-transfer-number-conservation-marginal.md) — related
+- [Training the approximate number system has not provided conclusive evidence of transfer to arithmetic, and the ANS-as-foundation claim is weak](ans-training-no-conclusive-transfer-to-arithmetic.md) — related

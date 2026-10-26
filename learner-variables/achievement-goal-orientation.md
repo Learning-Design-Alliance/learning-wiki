@@ -13,7 +13,7 @@ generated:
 # Achievement Goal Orientation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 101 claims (55 show a difference, 32 mixed, 14 no difference) · 40 studies (18 associational, 9 causal, 6 review, 4 quant-synthesis, 3 theoretical), `q2`–`q4` · 15 of 40 report an effect size · 99 claims rest on one study
+> **Evidence** · 102 claims (55 show a difference, 32 mixed, 15 no difference) · 41 studies (18 associational, 10 causal, 6 review, 4 quant-synthesis, 3 theoretical), `q2`–`q4` · 15 of 41 report an effect size · 100 claims rest on one study
 
 ## Description
 Achievement goal theory distinguishes mastery goals (developing competence and understanding) from performance goals (showing competence relative to others), each with an approach form (seeking success) and an avoidance form (avoiding failure or looking incompetent). Goals are measured by self-report and are shaped by classroom goal structures: how tasks, evaluation and recognition are organised. Mastery-approach goals generally go with persistence and deeper processing, performance-avoidance goals with anxiety and lower achievement. It is one part of [motivation](motivation.md).
@@ -136,6 +136,7 @@ Achievement goal theory distinguishes mastery goals (developing competence and u
 - [Perceived competence does not moderate the effect of grading on performance-avoidance goals](../claims/perceived-competence-no-moderation-grading-avoidance.md) [-M] — instruction changes it
 - [Reduced autonomous motivation experienced during a graded task mediates the effect of grading on subsequent performance-avoidance goal adoption](../claims/autonomous-motivation-mediation-grading-avoidance.md) [+W] — instruction changes it
 - [The grade effect on performance-avoidance goals persists when grading is accompanied by a formative comment, and comment-only feedback yields lower performance-avoidance than graded conditions](../claims/grade-with-comment-still-raises-performance-avoidance.md) [+W] — instruction changes it
+- [Math avoidance motivation is independent of actual math performance, with subjective estimation of task difficulty the primary influencing factor](../claims/avoidance-independent-of-actual-math-performance.md) [-M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

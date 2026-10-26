@@ -84,3 +84,4 @@ Random-effects meta-analysis of 273 effect sizes from 162 independent samples (N
 - [No correlation between an intervention's attitude effect and its achievement effect across studies](no-attitude-achievement-correlation-across-studies.md) — related
 - [Teachers' growth mindset shows a small positive overall association with combined teacher, instructional, and student outcomes (r = .111)](teacher-growth-mindset-small-overall-association.md) — related
 - [No evidence of an association between student grit or parental network centrality and the magnitude of pandemic effects on tracking outcomes](null-grit-parental-network-centrality-pandemic-effects.md) — related
+- [The survey grit measure has limited predictive power over platform performance in this sample and does not predict pandemic-era performance declines](survey-grit-limited-predictive-power.md) — related

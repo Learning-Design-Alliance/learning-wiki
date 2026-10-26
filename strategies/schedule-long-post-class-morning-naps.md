@@ -48,6 +48,7 @@ The article recommends that schools use post-class morning naps of at least 30 m
 
 - [Daily Class Schedules](daily_class_schedules.md)
 - [Nighttime Blue Light Reduction](nighttime_blue_light_reduction.md)
+- [Wait at least 30 minutes after a school nap before the next class to mitigate sleep inertia](wait-30-minutes-post-nap-before-class.md)
 
 ## Examples
 -

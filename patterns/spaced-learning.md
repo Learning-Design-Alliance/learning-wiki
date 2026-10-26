@@ -14,7 +14,7 @@ grain_size: course
 # Spaced Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 65 claims (26 for, 36 mixed, 3 against) · 45 studies (21 causal, 10 review, 7 quant-synthesis, 3 theoretical, 2 design, 1 associational, 1 qualitative), `q1`–`q4` · 14 of 45 report an effect size · 60 claims rest on one study
+> **Evidence** · 66 claims (26 for, 37 mixed, 3 against) · 46 studies (22 causal, 10 review, 7 quant-synthesis, 3 theoretical, 2 design, 1 associational, 1 qualitative), `q1`–`q4` · 14 of 46 report an effect size · 61 claims rest on one study
 
 ## Description
 
@@ -143,6 +143,7 @@ The examples are local design instances, not additional observations from those 
 - [Shorter retention intervals predict higher quiz grades, and the spacing benefit holds even at short retention intervals](../claims/retention-interval-no-spacing-interaction.md) [~W]
 - [In simulations, adaptive model-based scheduling at OETs of 0.8 or higher produced 39–55% better final-test memory than the next best conventional schedule](../claims/simulation-oet-above-08-beats-conventional.md) [~W]
 - [Retention declines with interval (time-dependent forgetting) across images, details, and details-per-image measures](../claims/time-dependent-forgetting-across-intervals.md) [~W]
+- [Halving practice-period duration from 10 s to 5 s leaves micro-offline gains unchanged, arguing against recovery from motor fatigue](../claims/micro-offline-gains-independent-of-practice-duration.md) [~W]
 
 ## Examples
 - [Memdora collaborative deck layer](../designs/memdora-collaborative-deck-layer.md) — a teacher's shared deck updates for all followers while each learner's spacing stays individual

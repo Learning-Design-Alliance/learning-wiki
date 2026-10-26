@@ -49,3 +49,4 @@ Pre-training scans of twelve pre-literate children (all could name at least 80% 
 - [Printing training increases letter response in right anterior fusiform but produces no change in right posterior fusiform](printing-training-right-fusiform-asymmetric-change.md) — related
 - [Printing training increases letter-evoked activation in left anterior fusiform gyrus of pre-school children](printing-training-increases-left-anterior-fusiform-activation.md) — related
 - [Printing (sensori-motor) training, but not visual-only training, increases left posterior fusiform activation during letter perception in pre-school children](printing-training-increases-left-posterior-fusiform-letter-activation.md) — related
+- [Hemispheric dissociation: right hemisphere sensitive to stage differences, left hemisphere to task differences](eeg-hemispheric-stage-task-dissociation.md) — related

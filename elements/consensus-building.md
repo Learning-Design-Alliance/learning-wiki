@@ -13,7 +13,7 @@ generated:
 # Consensus Building
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (1 for, 1 mixed, 1 against) · 6 studies (2 quant-synthesis, 1 causal, 1 review, 1 associational, 1 design), `q2`–`q4` · 1 of 6 report an effect size · 2 claims rest on one study
+> **Evidence** · 4 claims (2 for, 1 mixed, 1 against) · 7 studies (2 quant-synthesis, 2 associational, 1 causal, 1 review, 1 design), `q1`–`q4` · 1 of 7 report an effect size · 3 claims rest on one study
 
 ## Description
 Consensus building is a structured collaborative activity in which learners with differing positions or interpretations must negotiate toward a shared conclusion that all members can accept and articulate. Unlike debate, the goal is not victory but synthesis: participants must integrate opposing arguments into a joint position, which forces them to evaluate evidence, acknowledge partial merit in rival views, and construct a defensible rationale together.
@@ -57,6 +57,7 @@ Consensus building supports learning because articulating and defending a positi
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Premature shared understanding: a group's bypassing of a member's skeptical comment left the social and technology objects misaligned, with partial agreement (Extract 3)](../claims/fragmented-premature-shared-understanding.md) [~W]
 - [Deliberative discourse promotes pedagogies of public deliberation, which are critiqued for exclusion and consensus bias](../claims/deliberative-discourse-pedagogies-critique.md) [-W]
+- [Contrasting cases show the highest-scoring dyad (Select) engaged in inquiry, questioning, explaining, and argumentation to consensus during micro-failures, while the lowest-scoring dyad (Generate) showed dominance, unexplained disagreement, and off-task behavior](../claims/contrasting-cases-inquiry-versus-dominance.md) [+W]
 
 ## Related Elements
 - [Collaborative Decision-Making](collaborative-decision-making.md) — the decision-oriented variant; consensus building adds the requirement of a jointly reasoned rationale

@@ -52,3 +52,4 @@ Preregistered three-level multilevel meta-analysis (metafor rma.mv) of studies r
 - [Sample ancestry significantly moderates polygenic score predictions of educational attainment, with stronger predictions in European-ancestry samples](pgs-attainment-ancestry-moderator.md) — related
 - [Age at assessment and achievement measure moderate polygenic score predictions of educational achievement; the adjusted pooled estimate rises to ρ = 0.50](pgs-achievement-age-grade-moderators-rho-50.md) — related
 - [Only 15% of published polygenic score estimates for education come from non-European ancestry samples, all recruited in the US](eurocentric-sample-base-pgs-education-research.md) — related
+- [Educational attainment polygenic scores are positively associated with childhood visual acuity, while myopia polygenic scores show a negative association](ea-pgs-positive-childhood-visual-acuity.md) — a narrower finding that bears on this claim

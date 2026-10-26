@@ -21,7 +21,7 @@ sources:
 # Self-Regulated Learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 227 claims (103 for, 116 mixed, 8 against) · 170 studies (56 associational, 44 causal, 25 review, 17 quant-synthesis, 15 theoretical, 8 qualitative, 5 design), `q1`–`q4` · 41 of 170 report an effect size · 211 claims rest on one study
+> **Evidence** · 228 claims (104 for, 116 mixed, 8 against) · 171 studies (56 associational, 45 causal, 25 review, 17 quant-synthesis, 15 theoretical, 8 qualitative, 5 design), `q1`–`q4` · 41 of 171 report an effect size · 212 claims rest on one study
 
 ## Description
 Self-Regulated Learning (SRL) explains learning as a cyclical process in which learners set goals, choose strategies, monitor progress, and reflect on outcomes in order to improve later performance. Rather than treating learning as passive reception, SRL emphasizes that effective learners actively manage attention, effort, strategy use, and feedback across time.
@@ -274,6 +274,7 @@ A second, complementary formulation comes from clinical and addiction-behavior r
 - [The study examines the development of motivational regulation strategy knowledge and its longitudinal relationship with academic procrastination over the course of study](../claims/motivational-regulation-knowledge-longitudinal-procrastination.md) [~W]
 - [The three-phase model received partial support with weak self-report–behaviour correspondence in fifth graders' mobile vocabulary learning](../claims/partial-support-three-phase-model-weak-selfreport-links.md) [~W]
 - [In a self-regulated MOOC, spacing study across more sessions predicts higher unit quiz performance within participants](../claims/self-regulated-spacing-predicts-mooc-quiz-performance.md) [~W]
+- [Outcome, shift, and transform goal conditions produce higher self-efficacy than the process goal condition in exoskeleton-assisted boccia practice](../claims/outcome-shift-transform-goals-higher-self-efficacy-than-process.md) [+W] — attached 2026-10-26 from Tsuda et al. (2026), which proposed "Four goal structures (process, outcome, shift, transform) adapted from Zimmerman's framework for robot-assisted motor learning".
 
 ## The evidence by question
 

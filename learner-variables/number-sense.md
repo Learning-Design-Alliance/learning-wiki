@@ -13,7 +13,7 @@ generated:
 # Number Sense
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 101 claims (73 show a difference, 18 mixed, 10 no difference) · 42 studies (24 associational, 10 causal, 2 review, 2 qualitative, 2 design, 2 theoretical), `q1`–`q4` · 16 of 42 report an effect size · 99 claims rest on one study
+> **Evidence** · 103 claims (75 show a difference, 18 mixed, 10 no difference) · 43 studies (24 associational, 11 causal, 2 review, 2 qualitative, 2 design, 2 theoretical), `q1`–`q4` · 17 of 43 report an effect size · 101 claims rest on one study
 
 ## Description
 Number sense is a learner's grasp of how large numbers are and how they relate to one another. It is measured with magnitude comparison (which of two numbers or dot arrays is larger), number line estimation (placing a number on a line with labelled ends) and similar tasks. These measures correlate with mathematics achievement and predict later mathematics learning, and they can be improved by instruction such as number board games and number line activities. It is a domain-specific part of [prior knowledge](prior-knowledge.md) in mathematics.
@@ -136,6 +136,8 @@ Number sense is a learner's grasp of how large numbers are and how they relate t
 - [The most important kindergarten predictors of Grade 6 MD are RAN, spatial relations, arithmetic skills, number concepts, attention-orientation, and counting](../claims/top-predictors-md-ran-spatial-attention.md) [+W] — learners who differ on it differ in outcomes
 - [Kindergarten counting, arithmetic, and letter-knowledge measures correlate with Grade 6 arithmetic fluency (r up to .45)](../claims/kindergarten-measures-correlate-grade6-math.md) [+M] — learners who differ on it differ in outcomes
 - [Children improved their numerical and letter-sound knowledge between pre-test and post-test regardless of condition](../claims/numeracy-letter-sound-gains-all-conditions.md) [+M] — instruction changes it
+- [An integrated EF and mathematics intervention improves overall early numeracy in four-year-olds more than practice as usual](../claims/integrated-ef-math-intervention-improves-numeracy.md) [+M] — instruction changes it
+- [Disadvantaged (EYPP-eligible) children in the integrated intervention gained more in numeracy and spatial skills than disadvantaged controls](../claims/disadvantaged-children-greater-gains-integrated-intervention.md) [+M] — instruction changes it
 
 ## Related Learner Variables
 

@@ -51,3 +51,4 @@ Null finding from the same 6-week cross-over experiment, Table 1 reports Wilcoxo
 ## Related Claims
 - [Long post-class naps (>30 min) improve retention of curricular content versus waking with non-specific interference (a break)](long-post-class-naps-improve-retention-vs-break.md) — related
 - [Long post-class naps (>30 min) improve retention versus waking with specific interference (another lecture in the same discipline)](long-naps-vs-specific-interference-retention.md) — related
+- [A short pre-lesson nap improves immediate memory encoding of a biology lesson in high-school students](short-pre-lesson-nap-improves-encoding.md) — related

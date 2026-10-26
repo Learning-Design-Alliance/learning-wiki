@@ -52,3 +52,4 @@ Narrative synthesis of two quasi-experimental pre-post studies (Wojciehowski & E
 - [The methodological quality of forest-school studies is poor: most are at high or moderate risk of bias, with no follow-ups and inadequate statistical procedures](forest-school-studies-high-risk-of-bias.md) — related
 - [Forest-school benefits are measured with heterogeneous methods, mostly questionnaires and tasks administered to children, with only two studies using objective measures](forest-school-measurement-methods-heterogeneous.md) — related
 - [CREATE does not produce a significant immediate interaction effect on flexibility, though the experimental group improved pre-to-post](create-immediate-flexibility-null-interaction.md) — related
+- [AP participation produced notable and statistically significant improvements in standard measures of creativity](ap-creativity-ttct-improvements.md) — related

@@ -87,3 +87,4 @@ The abstract reports the second panel's non-replication and the crossover effect
 - [Students' creative writing speed decreased in panel 1 except for students with relatively high Creative Self-Concept, and increased in panel 2](creative-writing-speed-panel-pattern-csc.md)
 - [Students in both panels were generally positive about the creative writing unit's instructional design, with only two items scoring below neutral and a group difference on one scale](students-positive-creative-writing-unit-design.md) — related
 - [Implementation fidelity of the creative writing unit was high: absentee rates below about 3% and completion of crucial divergent-thinking and writing assignments between 88% and 94%](cwi-unit-high-fidelity-attendance-completion.md) — related
+- [AP participation did not significantly improve self-concept as measured by the Piers-Harris Self-Concept Scale](ap-self-concept-null-finding.md) — related

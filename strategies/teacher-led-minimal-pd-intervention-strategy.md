@@ -51,6 +51,7 @@ The article recommends delivering innovative interventions through students' usu
 - [Implement Reading Edge with two days of initial teacher training plus monthly in-class coaching and peer support structures](reading-edge-training-coaching-rollout.md)
 - [Implement Classtime with a kick-off training day plus ongoing grade-specific follow-up sessions](classtime-kickoff-plus-ongoing-pd-strategy.md)
 - [Embed new solutions into existing operations and procedures to sustain and scale them](embed-solutions-existing-operations.md)
+- [Deliver embedded EF-mathematics activities through educator professional development plus flexible weekly activity selection](educator-pd-with-flexible-integrated-ef-math-activities.md)
 
 ## Examples
 -

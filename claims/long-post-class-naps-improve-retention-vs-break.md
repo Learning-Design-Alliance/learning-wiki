@@ -47,3 +47,4 @@ Cross-over classroom experiment: 24 fifth graders, weekly randomization over 6 w
 ## Related Claims
 - [Long post-class naps (>30 min) improve retention versus waking with specific interference (another lecture in the same discipline)](long-naps-vs-specific-interference-retention.md) — related
 - [Short post-class naps (<30 min) show no significant retention benefit](short-naps-no-retention-benefit.md) — related
+- [A short pre-lesson nap improves immediate memory encoding of a biology lesson in high-school students](short-pre-lesson-nap-improves-encoding.md) — related

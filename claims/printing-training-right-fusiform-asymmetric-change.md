@@ -68,3 +68,4 @@ Right posterior fusiform ROI ANOVA in the same sample: significant stimulus-type
 - [Printing training increases letter-evoked activation in left anterior fusiform gyrus of pre-school children](printing-training-increases-left-anterior-fusiform-activation.md) — related
 - [Printing (sensori-motor) training, but not visual-only training, increases left posterior fusiform activation during letter perception in pre-school children](printing-training-increases-left-posterior-fusiform-letter-activation.md) — related
 - [Behavioural letter recognition improves more after printing than visual-only training, but not significantly](printing-training-letter-recognition-nonsignificant-trend.md) — related
+- [Hemispheric dissociation: right hemisphere sensitive to stage differences, left hemisphere to task differences](eeg-hemispheric-stage-task-dissociation.md) — related

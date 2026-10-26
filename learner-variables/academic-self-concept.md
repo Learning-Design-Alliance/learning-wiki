@@ -13,7 +13,7 @@ generated:
 # Academic Self-Concept
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 121 claims (83 show a difference, 28 mixed, 10 no difference) · 59 studies (33 associational, 10 review, 9 causal, 2 quant-synthesis, 2 qualitative, 2 design, 1 theoretical), `q1`–`q4` · 15 of 59 report an effect size · 118 claims rest on one study
+> **Evidence** · 122 claims (83 show a difference, 28 mixed, 11 no difference) · 60 studies (33 associational, 10 causal, 10 review, 2 quant-synthesis, 2 qualitative, 2 design, 1 theoretical), `q1`–`q4` · 15 of 60 report an effect size · 119 claims rest on one study
 
 ## Description
 Academic self-concept is a learner's self-perception of ability in a domain ("I am good at maths"). It is domain-specific: mathematics self-concept and verbal self-concept are only weakly related, because learners compare their own subjects with one another as well as with other learners (the internal/external frame of reference model). It is formed partly by comparison with classmates, so the same learner may report a lower self-concept in a high-achieving class (the big-fish-little-pond effect). Self-concept and achievement affect each other over time. It is related to but distinct from [self-efficacy](self-efficacy.md), which is confidence about succeeding at specific tasks.
@@ -156,6 +156,7 @@ Academic self-concept is a learner's self-perception of ability in a domain ("I 
 - [In the verbal domain of 15-year-olds, reading achievement is more strongly related to verbal self-concept for higher achieving than for lower achieving students](../claims/verbal-15yo-stronger-high-achievers.md) [~W] — learners who differ on it differ in outcomes
 - [Person × Situation interactions: prior achievement amplifies performance effects on motivation, gender moderates the performance–self-concept link, and difficulty effects depend on prior math exposure](../claims/person-situation-interactions-situated-motivation-math.md) [~M] — instruction changes it
 - [Students' situation-specific and average test performance predict their test-specific self-concept, intrinsic and utility values, and perceived costs](../claims/test-performance-predicts-situation-specific-motivation.md) [+M] — instruction changes it
+- [AP participation did not significantly improve self-concept as measured by the Piers-Harris Self-Concept Scale](../claims/ap-self-concept-null-finding.md) [-M] — instruction changes it
 
 ## Related Learner Variables
 

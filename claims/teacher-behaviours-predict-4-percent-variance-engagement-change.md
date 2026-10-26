@@ -47,3 +47,4 @@ Longitudinal predictive study in which 1324 Year 7 students (52% female) from 17
 ## Related Claims
 - [Being good role models, taking interest in students' lives outside class, and allowing students choices were the behaviours most consistently associated with positive change in engagement](role-modelling-interest-choice-top-engagement-predictors.md) — related
 - [The teacher behaviours most predictive of engagement change do not neatly fit within any single motivational theory, supporting theoretical integration](cross-theoretical-71-teacher-behaviors-predict-engagement.md) — related
+- [Machine learning on pre-pandemic platform click data explains up to 77% of the variance in academic resilience](ml-platform-data-explains-resilience-variance.md) — related

@@ -42,6 +42,7 @@ The editor's forward-looking recommendation for authors: educational psychology 
 ## Related Strategies
 
 - [Build and enhance protective factors in at-risk populations through experimental and intervention studies to support resilient developmental trajectories](build-protective-factors-at-risk-learners-strategy.md)
+- [Strategies for progressing evidence integration: research lesser-studied areas and populations, replicate intervention evaluations, and establish educator-researcher partnerships](evidence-integration-progress-strategies.md)
 
 ## Examples
 -

@@ -78,3 +78,4 @@ SVM subject classification with leave-one-pair-out cross-validation (1000 repeat
 - [Adults with dyscalculia show hyper-connectivity between primary visual cortex and inferior occipital cortex and fusiform gyrus](dyscalculia-visual-hyperconnectivity.md) — related
 - [Children with DD show greater brain activation than TD children in parietal, occipito-temporal and prefrontal regions during both addition and subtraction](dd-hyperactivation-multiple-regions.md) — related
 - [Measures of the magnitude representation (ratio and distance effects) do not discriminate children with DD from matched controls](dd-magnitude-representation-theory-not-supported.md) — related
+- [Children with dyscalculia show consistent impairments in symbolic number processing, suggesting symbolic measures as diagnostic markers](dyscalculia-symbolic-processing-diagnostic-markers.md) — reports the opposite

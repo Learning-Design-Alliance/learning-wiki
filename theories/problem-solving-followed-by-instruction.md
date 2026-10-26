@@ -17,7 +17,7 @@ sources:
 # Problem-Solving Followed by Instruction
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 56 claims (22 for, 24 mixed, 10 against) · 30 studies (22 causal, 4 theoretical, 3 review, 1 quant-synthesis), `q1`–`q4` · 12 of 30 report an effect size · 55 claims rest on one study
+> **Evidence** · 58 claims (22 for, 26 mixed, 10 against) · 31 studies (22 causal, 4 theoretical, 3 review, 1 quant-synthesis, 1 associational), `q1`–`q4` · 13 of 31 report an effect size · 57 claims rest on one study
 
 ## Description
 Problem-solving followed by instruction (PS-I, closely related to "productive failure") reverses the conventional tell-then-practice sequence: students first attempt a problem — typically without succeeding at a canonical solution — and only afterward receive direct instruction on the correct method. The prior attempt activates relevant prior knowledge, surfaces students' own (often suboptimal) representations, and raises motivation to learn the canonical method by making its advantages concrete rather than abstract. A meta-analysis across 166 comparisons found PS-I outperforms instruction-first sequencing with Hedge's g=0.36 [95% CI 0.20, 0.51] (Sinha & Kapur, 2021). The underlying attempt can be left unguided ("productive failure" proper, where students generate as many solution representations as they can) or shaped by scaffolds that deliberately steer students toward specific representations before instruction corrects them — see [Failure-Driven Scaffolding](../strategies/failure-driven-scaffolding.md).
@@ -92,6 +92,8 @@ Problem-solving followed by instruction (PS-I, closely related to "productive fa
 - [PS-DI learners reported higher intrinsic in-scenario cognitive load during problem solving (d = .53)](../claims/ps-di-higher-intrinsic-in-scenario-cognitive-load.md) [+W]
 - [Neither timing nor learning activity produced significant transfer effects in either experiment](../claims/no-transfer-effects-explaining-timing.md) [-W]
 - [Small-group discussion of a problem activates relevant prior knowledge, more than doubling free recall of propositions about the underlying process](../claims/problem-analysis-activates-prior-knowledge.md) [+W] — attached 2026-10-25 from Schmidt et al. (1989), which proposed "Prior-knowledge activation through problem analysis: explanatory models as vehicles for text comprehension"; tests this page's relationship.
+- [A higher proportion of dysfunctional behaviors during micro-failures is significantly negatively correlated with posttest scores, while the proportion of functional behaviors shows a non-significant positive correlation](../claims/dysfunctional-behaviors-negative-posttest-correlation.md) [~W]
+- [Fourth-graders given a choice-based (Select) preparation task outperformed those given a highly open-ended (Generate) task on the posttest in a productive-failure-style collaboration design](../claims/select-outperformed-generate-posttest-fourth-grade.md) [~W]
 
 ## The evidence by question
 

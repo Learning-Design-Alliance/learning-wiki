@@ -49,3 +49,4 @@ ANT analysis of the episode beginning at turn 76, where S5's open question led s
 - [Non-human actants such as a Bristol board and task instructions can subordinate students and render classroom talk non-dialogic](bristol-board-actant-subordinates-students.md) — related
 - [Dialogic networks in classroom talk can dissolve into non-dialogic ones when task instructions and artifacts regain power over students](dialogic-network-dissolves-to-task-compliance.md) — related
 - [Subtle teacher guidance, not imposition, enables interdisciplinary integration in small-group deliberation](subtle-teacher-guidance-not-imposition-enables-interdisciplinary-integration.md) — related
+- [Non-scaffolding teacher utterances offering affirmation and positive feedback (T:NS) trigger student curiosity](non-scaffolding-affirming-utterances-trigger-curiosity.md) — related

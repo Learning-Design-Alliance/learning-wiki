@@ -58,9 +58,11 @@ The defensible core of this strategy is dual-channel encoding: presenting verbal
 5. Keep guidance explicit during novel or complex tasks; reduce support as expertise grows [Expertise reversal effect.](../claims/expertise-reversal-effect.md) [~S]
 
 ## Related Strategies
+
 - [Active Learning](../principles/active-learning.md) — the broader evidence base that multisensory activities draw on; peer talk and production are active-learning moves
 - [Peer Teaching](../strategies/peer-teaching.md) — the "teach each other face-to-face" component, which works through retrieval and elaboration rather than sensory stimulation
 - [Brain Breaks](../strategies/brain-breaks.md) — the movement component isolated as its own routine
+- [Use review evidence to make teachers critical consumers of brain-based explanations, rather than dropping neuroscience directly into practice](critical-consumers-of-brain-based-explanations.md)
 
 ## Examples
 - **[Gallery Walk](gallery-walk.md)** — learners post work on walls, circulate in small groups, and leave written feedback; combines movement, visual encoding, and peer critique

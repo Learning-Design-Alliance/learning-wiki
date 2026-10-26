@@ -52,3 +52,5 @@ Trial-level Bayesian mixed-effects logistic regression on single-trial recall ac
 - [High-curiosity states did not enhance recognition memory for incidental face images in children or adolescents](no-curiosity-spillover-incidental-faces-children.md) — related
 - [Memory for incidental scholastic facts is worse when the facts are paired with pre-determined high- versus low-curiosity trivia questions across three task versions](high-curiosity-trivia-pairs-worse-scholastic-memory.md) — related
 - [Scholastic memory differed between task versions, with Early Anticipation outperforming Late Anticipation but not differing from Post Satisfaction](task-version-differences-scholastic-memory.md) — related
+- [Higher curiosity is associated with better memory for the correct answer](curiosity-associated-with-better-memory.md) — related
+- [Generating a prediction before seeing the answer leads more facts to receive high-curiosity ratings than generating a relevant example](prediction-condition-more-high-curiosity-facts.md) — related

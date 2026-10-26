@@ -41,6 +41,7 @@ The authors propose a design in which "deployment of Socratic dialogue by defaul
 
 - [Design chatbots that begin with guided inquiry and progressively provide explicit guidance when students remain stuck](chatbots-guided-inquiry-then-explicit-guidance.md)
 - [Use impasse depth and type as real-time learning-analytics signals to trigger graduated escalation of tutor support](impasse-depth-type-analytics-escalation-signals.md)
+- [Use EEG-based real-time monitoring to inform personalized educational interventions](eeg-based-real-time-personalized-interventions.md)
 
 ## Examples
 -

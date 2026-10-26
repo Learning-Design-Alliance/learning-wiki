@@ -53,3 +53,4 @@ Analysis of the three review-revise iterations (Table 7) scoring accepted proble
 - [Under the same teacher model, AgenticMath outperforms prior data-generation methods, indicating gains arise from framework design rather than teacher strength](agenticmath-gains-not-from-stronger-teacher.md) — related
 - [Beam search-based self-refinement improves simulated solution alignment with predicted student behavior](beam-search-self-refinement-improves-solution-simulation.md) — related
 - [In a single-teacher case study, redesigning a peer-feedback task produced more specific and varied student notes, which the authors read as a more engaged class](iterative-task-redesign-increased-engagement.md) — related
+- [LLM simulation, reflection, and refinement elevates the quality of LLM-generated teaching plans above their unenhanced baselines](llm-simulation-reflection-enhances-teaching-plans.md) — related

@@ -50,3 +50,4 @@ In the non-symbolic number line task, the three-way interaction "F(2,49) = 3.25,
 - [Symbolic number magnitude training, but not non-symbolic training, significantly improves preschoolers' exact arithmetic](symbolic-magnitude-training-improves-preschool-arithmetic.md) — related
 - [Symbolic training transfers to the auditory modality, improving spoken number-word magnitude comparison](symbolic-training-transfers-verbal-comparison.md) — related
 - [Both numerical training conditions improve magnitude processing more than a story-understanding control condition](numerical-magnitude-training-beats-control.md) — related
+- [Training the approximate number system has not provided conclusive evidence of transfer to arithmetic, and the ANS-as-foundation claim is weak](ans-training-no-conclusive-transfer-to-arithmetic.md) — related

@@ -49,6 +49,7 @@ Structural equation modeling of data from 224 fourth-grade children, controlling
 - [Self-Regulation](../learner-variables/self-regulation.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
+
 - [Modeling mathematics anxiety as the mediator of metacognition's effect on word problem solving yields no mediating effect](ma-as-mediator-null.md) — related
 - [The direct path from mathematics anxiety to word problem solving is non-significant once metacognition is modeled](ma-direct-path-wps-nonsignificant.md) — related
 - [Self-image and learning mathematics anxiety, but not other metacognition dimensions or evaluation anxiety, predict mathematics achievement after controlling for IQ](self-image-lma-predict-math-achievement.md) — related
@@ -59,3 +60,4 @@ Structural equation modeling of data from 224 fourth-grade children, controlling
 - [Most included studies report a significant positive metacognition–math association, with some null and mixed findings](most-studies-significant-positive-association.md) — related
 - [Mathematics anxiety shows mixed relations to algebraic thinking across studies](math-anxiety-mixed-algebra-relations.md) — related
 - [Text-structure knowledge in passages and word problems mediates acquisition and cross-domain transfer effects](text-structure-knowledge-mediates-transfer.md) — related
+- [Task difficulty sensitivity mediates the relationship between math anxiety and math avoidance tendency](difficulty-sensitivity-mediation-math-avoidance.md)

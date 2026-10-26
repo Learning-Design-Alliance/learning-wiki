@@ -55,3 +55,4 @@ Logistic regression analyses among 988 participants (mean age = 65.3) of the Doe
 - [Higher total literacy is associated with more frequent participation in cognitive, physical, and social activities in older adults without dementia](literacy-associated-health-promoting-behaviors-older-adults.md) — related
 - [Financial literacy, but not health literacy, is associated with mental health indices in older adults without dementia](financial-literacy-associated-mental-health-older-adults.md) — related
 - [The association between health literacy and health task performance is substantially reduced after adjusting for cognitive abilities](health-literacy-task-association-reduced-after-cognitive-adjustment.md) — related
+- [No significant correlation between estimated likelihood to benefit from stimulation and MMSE scores in middle-aged and older adults](mmse-correlation-null-atdcs-likelihood.md) — related

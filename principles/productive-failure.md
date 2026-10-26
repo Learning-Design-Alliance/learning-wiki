@@ -79,7 +79,7 @@ sources:
 # Productive Failure
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 49 claims (19 for, 23 mixed, 7 against) · 29 studies (17 causal, 6 review, 4 theoretical, 2 quant-synthesis), `q1`–`q4` · 12 of 29 report an effect size · 46 claims rest on one study
+> **Evidence** · 50 claims (19 for, 24 mixed, 7 against) · 30 studies (17 causal, 6 review, 4 theoretical, 2 quant-synthesis, 1 associational), `q1`–`q4` · 12 of 30 report an effect size · 47 claims rest on one study
 
 ## Conditional relationship
 
@@ -212,6 +212,7 @@ The expectation should weaken if new comparisons with comparable learners, holdi
 - [DI students relied on notes rather than exploring the agent-based models, while PF classes showed lively collaborative exploration and questioning](../claims/di-passive-note-reliance-vs-pf-exploration.md) [+W]
 - [Instructional design and preferences interacted in predicting knowledge: DI-PS assignment and DI-PS preference were negatively associated with conceptual knowledge gain](../claims/design-preference-interaction-knowledge-gains.md) [-W]
 - [PS-DI learners reported higher intrinsic in-scenario cognitive load during problem solving (d = .53)](../claims/ps-di-higher-intrinsic-in-scenario-cognitive-load.md) [~W]
+- [A higher proportion of dysfunctional behaviors during micro-failures is significantly negatively correlated with posttest scores, while the proportion of functional behaviors shows a non-significant positive correlation](../claims/dysfunctional-behaviors-negative-posttest-correlation.md) [~W]
 
 ## Related Principles
 - [Pretesting (Prequestions Before Study)](pretesting.md)

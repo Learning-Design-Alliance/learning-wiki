@@ -53,6 +53,7 @@ The editors' forward-looking recommendation is that the field move from mapping 
 - [Plan and conduct resilience-in-literacy research using designs and analyses that distinguish promotive, protective, and skill-enhancing factors](plan-resilience-research-distinguish-factor-types.md)
 - [Submit intervention studies and replications to Educational Psychology Review's new intervention studies and replication categories](submit-intervention-studies-to-edpr.md)
 - [Develop complementary LD interventions that strengthen promotive and protective factors alongside interventions remediating core weaknesses](interventions-strengthen-promotive-protective-factors.md)
+- [Strategies for progressing evidence integration: research lesser-studied areas and populations, replicate intervention evaluations, and establish educator-researcher partnerships](evidence-integration-progress-strategies.md)
 
 ## Examples
 -

@@ -54,3 +54,4 @@ Correlational analysis (Table 3) of sex differences in mathematics and reading a
 - [The gender gap in reading is three times bigger than the gender gap in math](reading-gender-gap-three-times-math-gap.md) — related
 - [The mathematics sex difference is practically non-existent among low performers and largest among high performers, where boys outnumber girls up to 2.7:1 above the 99th percentile](math-sex-difference-concentrated-at-high-end.md) — related
 - [Sex differences in mathematics tend to be somewhat larger in more gender-equal countries (GGGI coefficient B = 0.921, p = .051), controlling for region](gender-equality-paradox-mathematics-meta-analysis.md) — reports the opposite
+- [Country-level gender inequality is significantly negatively correlated with academic achievement across three PISA cycles, regardless of gender and subject](gii-negative-correlation-country-level.md) — related

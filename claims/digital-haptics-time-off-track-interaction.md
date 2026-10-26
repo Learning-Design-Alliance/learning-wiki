@@ -1,0 +1,51 @@
+---
+type: claim
+title: Time spent off track showed a Training × Group interaction, with Group 2 spending more time off track on untrained than trained trajectories and no difference for Group 1
+description: Time spent off track showed a Training × Group interaction, with Group 2 spending more time off track on untrained than trained trajectories and no difference for Group 1
+id: digital-haptics-time-off-track-interaction
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-26
+evidence_strength: mixed
+newest_evidence: 2023
+sources:
+  - id: ruxandra-i-tivadar-2023
+    resource: "https://doi.org/10.1038/s41539-023-00208-4"
+    title: "Ruxandra I. Tivadar, Benedetta Franceschiello, Astrid Minier and Micah M. Murray. (2023). Learning and navigating digitally rendered haptic spatial layouts. npj Science of Learning. https://doi.org/10.1038/s41539-023-00208-4"
+    author: Ruxandra I. Tivadar, Benedetta Franceschiello, Astrid Minier and Micah M. Murray
+    q: 3
+    i: 2
+    kind: causal
+    rigour: 1
+---
+
+# Time spent off track showed a Training × Group interaction, with Group 2 spending more time off track on untrained than trained trajectories and no difference for Group 1
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r1` · `q3` · `i2` medium
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Ruxandra I. Tivadar 2023: the intervention came bundled with another change (read from the study by two models, 2026-10-26)
+
+## Subclaims
+`q3 i2` The Training × Group interaction for Time off Track was significant (p = 0.02, pω2 = 0.06); Group 2 spent more time off track on untrained than trained trajectories (2.7 s vs 0.1 s, d = −0.59), while no significant difference was found for Group 1. [→ Ruxandra I. Tivadar 2023](#ruxandra-i-tivadar-2023)
+
+## Evidence
+
+### Ruxandra I. Tivadar 2023
+
+Ruxandra I. Tivadar, Benedetta Franceschiello, Astrid Minier and Micah M. Murray. (2023). Learning and navigating digitally rendered haptic spatial layouts. npj Science of Learning. https://doi.org/10.1038/s41539-023-00208-4
+
+`q3 · i2` · `causal · r1`
+
+Behavioural analysis of the navigation phase: permutation t-tests showed for Group 2 "more time spent off track on untrained than trained trajectories (2.7 s vs 0.1 s)" with d = −0.59, while the article states "no significant difference between trained and untrained trajectories was found for Group 1" — an effect present in one group but not the other.
+
+> "The Training × Group interaction was also signi ﬁcant for Toff (p = 0.02, pω2 = 0.06). Permutation t-tests with the factor Training showed a signi ﬁcant difference for Group 2 ( t = 2.12, p = 0.003, d = −0.59), with more time spent off track on untrained than trained trajectories (2.7 s vs 0.1 s)"
+
+## Discussion
+
+
+## Related Claims
+- [Navigation accuracy on trained versus untrained trajectories depended on training group, with Group 2 (trained on the easier trajectory) more accurate on trained than untrained trajectories](digital-haptics-accuracy-training-interaction.md) — related
+- [Reaction times showed a Training × Group interaction, with Group 1 slower on trained than untrained trajectories and no difference for Group 2](digital-haptics-reaction-time-interaction.md) — related
+- [Inverse Efficiency scores showed a Training × Group interaction, significant for Group 1 (higher IE on trained trajectories) but not Group 2](digital-haptics-inverse-efficiency-interaction.md) — related

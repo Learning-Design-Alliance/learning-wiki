@@ -65,3 +65,4 @@ Post-hoc independent-samples t-tests on post-test scores, justified by equivalen
 - [Symbolic number magnitude training, but not non-symbolic training, significantly improves preschoolers' exact arithmetic](symbolic-magnitude-training-improves-preschool-arithmetic.md) — related
 - [Symbolic training transfers to the auditory modality, improving spoken number-word magnitude comparison](symbolic-training-transfers-verbal-comparison.md) — related
 - [Trained students outperformed controls at selecting the more reliable of two contradictory texts, at both post-tests](sourcing-intervention-near-transfer-accuracy.md) — related
+- [Training the approximate number system has not provided conclusive evidence of transfer to arithmetic, and the ANS-as-foundation claim is weak](ans-training-no-conclusive-transfer-to-arithmetic.md) — possibly the same claim (merge candidate)

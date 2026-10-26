@@ -62,3 +62,5 @@ Comparison reported in the Results section across the same four-course module-le
 - [CFS and GR feature selection shrink decision trees to 3.2-4.7 leaf nodes without degrading predictive performance](feature-selection-reduces-tree-size-maintains-accuracy.md) — related
 - [CatBoost achieved the best classification performance among tested algorithms for predicting course completion risk (F-measure .77, accuracy 78%, AUC .87)](catboost-best-performing-risk-classifier.md) — related
 - [Boosting models (XGBoost) achieved the highest predictive accuracy among the compared ML models, while logistic regression showed the lowest](boosting-highest-accuracy-logistic-lowest.md) — reports the opposite
+- [Machine learning models classify the three learning stages from EEG features with over 80% test accuracy, SVM highest at 82.6%](eeg-stage-classification-over-80.md) — related
+- [Subcortical but not cortical activation-trajectory parameters classify BDNF genotype above chance in an exploratory decision-tree analysis](subcortical-trajectories-classify-bdnf-genotype.md) — related

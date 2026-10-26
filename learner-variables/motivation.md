@@ -13,7 +13,7 @@ generated:
 # Motivation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 290 claims (197 show a difference, 64 mixed, 29 no difference) · 215 studies (79 associational, 56 causal, 34 review, 16 theoretical, 14 quant-synthesis, 10 qualitative, 6 design), `q1`–`q4` · 56 of 215 report an effect size · 278 claims rest on one study
+> **Evidence** · 291 claims (198 show a difference, 64 mixed, 29 no difference) · 216 studies (79 associational, 57 causal, 34 review, 16 theoretical, 14 quant-synthesis, 10 qualitative, 6 design), `q1`–`q4` · 57 of 216 report an effect size · 279 claims rest on one study
 
 ## Description
 Whether a learner will spend effort here, and what makes it feel worth spending. It decides whether a page must earn attention before it can teach, and how much open-endedness is tolerable. The honest state of the evidence is that the mechanisms are well supported and the *interventions* are modest — growth-mindset programmes produce small average effects concentrated in specific subgroups [+W], which is a reason to design for motivation rather than to bolt an intervention on.
@@ -340,6 +340,7 @@ Whether a learner will spend effort here, and what makes it feel worth spending.
 - [Growth mindset prior to training predicted post-training math skills in the training group but not in controls](../claims/pretraining-mindset-predicts-posttraining-math.md) [~M] — an instructional effect differs with it
 - [On-ramp engagement is higher in the type 2 timetable: 52% of 1st year students engaged versus 20% of 2nd year students in type 1](../claims/type2-onramp-engagement-52-vs-20.md) [+M] — instruction changes it
 - [In an observational comparison of timetable configurations, 43% of students meaningfully engaged in off-ramp transitions during the type 2 'bridge' configuration versus 19% in type 1](../claims/type2-timetable-off-ramp-engagement-43-vs-19.md) [+M] — instruction changes it
+- [Self-efficacy co-varies with generalized task self-efficacy and satisfaction, and negative robot perceptions correlate with softness and unassisted performance](../claims/residual-correlations-motivational-outcomes-exoskeleton.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does autonomy-supportive teaching raise motivation and engagement compared with controlling teaching?* [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](../claims/autonomy-supports-intrinsic-motivation.md) [+M]

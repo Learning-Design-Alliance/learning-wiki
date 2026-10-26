@@ -42,6 +42,7 @@ AMSTI's professional development model combines an intensive summer training ses
 - [Combine summer professional development with school-year on-site coaching and provision of complete instructional materials](summer-pd-plus-coaching-plus-materials-kits.md)
 - [Train educators through a Summer Institute plus PLC and coaching cycles on data use and instructional routines](summer-institute-plc-coaching-data-routines.md)
 - [Sustained classroom-embedded professional development through demonstration teachers](demonstration-teachers-classroom-embedded-pd.md)
+- [Deliver embedded EF-mathematics activities through educator professional development plus flexible weekly activity selection](educator-pd-with-flexible-integrated-ef-math-activities.md)
 
 ## Examples
 -

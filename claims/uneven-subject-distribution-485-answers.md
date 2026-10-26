@@ -49,3 +49,4 @@ Descriptive subject-distribution reporting from the Limitations section, derived
 - Research on ChatGPT-supported STEAM inquiry-based learning is unevenly distributed across disciplines, concentrated in science and mathematics — related
 - [Engagement modes were unevenly distributed across units, with some units rated Interactive and others entirely Passive](uneven-icap-mode-distribution-across-units.md) — related
 - [The dataset's 12 question templates contain 47 criteria, with question maxima ranging from 5 to 16 marks](twelve-templates-47-criteria.md) — related
+- [The educational research evidence base is sharply uneven across school subjects, age ranges, and learner populations, with adult learning almost entirely absent](uneven-education-research-evidence-base.md) — related

@@ -82,3 +82,4 @@ The review reports that meta-analyses find benefits concentrated among "economic
 - [In Study 1, the revised growth mindset intervention reduced choosing easy over hard math problems more than the original intervention (d=.19)](revised-mindset-intervention-greater-challenge-seeking-study1.md) — a narrower finding that bears on this claim
 - [The growth mindset intervention successfully fostered mindset beliefs but this did not transfer to learning outcomes](mindset-belief-fostered-without-outcome-change.md) — related
 - [When delivered by master's students, the intervention additionally improved growth mindsets and standardized math achievement](moma-masters-student-mindset-achievement-effects.md) — related
+- [Field experiment: strategic mindset intervention benefits academically prepared students' strategy use but not lower-performing students](strategic-mindset-field-intervention-moderated-by-preparedness.md) — related

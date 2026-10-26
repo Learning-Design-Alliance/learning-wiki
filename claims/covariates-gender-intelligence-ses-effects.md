@@ -58,3 +58,4 @@ Covariate effects on random intercepts in the RI-CLPMs (N = 3,425). The article 
 - [Gender prompts shift feedback stance: female students receive affective, first-person, empathy-oriented feedback while male students receive objective, task-oriented critique](gender-prompt-emotional-connection-pedagogy.md) — related
 - [Male gender predicted lower grades, moderated by cohort](gender-and-cohort-predict-grading-scores.md) — reports the opposite
 - [Female students and students with lower prior achievement experienced more negative motivational changes](gender-gpa-moderate-motivational-change.md) — related
+- [No significant sex differences in incoming GPA or physics course grade despite sex differences in anxiety](no-sex-difference-gpa-physics-grade.md) — related

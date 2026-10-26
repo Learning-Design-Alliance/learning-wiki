@@ -307,3 +307,4 @@ Open questions that evidence entries should address include: how retrieval pract
 - [Retrieval practice improves delayed but not immediate performance, consistent with a desirable-difficulties explanation](retrieval-practice-delayed-not-immediate-benefit.md) — possibly the same claim (merge candidate)
 - [Retrieval practice produced a reliable overall testing effect and a main effect of working memory capacity on final-test accuracy](main-effect-testing-effect-wm-capacity.md) — a narrower finding that bears on this claim
 - [Retrieval practice boosts learning, and the testing effect generalizes to the acquisition of entirely new material (forward testing effect)](testing-effect-backward-and-forward.md) — related
+- [Retrieval practice with feedback yields higher recall than restudy, which yields higher recall than no-feedback retrieval practice](feedback-retrieval-outperforms-restudy-and-nrp.md) — related

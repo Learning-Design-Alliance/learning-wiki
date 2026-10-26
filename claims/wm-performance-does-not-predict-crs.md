@@ -53,3 +53,4 @@ Secondary linear mixed effects model including only working memory group partici
 - [Training blocks significantly increase conditioned response percentage in delay eyeblink conditioning](training-blocks-increase-cr-percentage-eyeblink.md) — related
 - [Concurrent working memory tasks significantly reduce conditioned response percentage](working-memory-tasks-reduce-cr-percentage.md) — related
 - [Longer interstimulus interval significantly increases conditioned response percentage](longer-isi-increases-cr-percentage.md) — related
+- [Contingency knowledge does not directly predict response rates or revaluation sensitivity](contingency-knowledge-does-not-predict-revaluation.md) — related

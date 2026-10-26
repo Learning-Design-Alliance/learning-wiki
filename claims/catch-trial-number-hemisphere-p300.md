@@ -48,3 +48,4 @@ Catch-trial analysis (pink noise in both channels, no target) in the same ERP ex
 - [The authors interpret blind participants' number-space congruency processing as restricted to a controlled, working-memory-dependent cognitive level](blind-number-processing-working-memory-interpretation.md) — related
 - [In an auditory number-cue detection task, both blind and sighted adults detect targets faster on number-size/location congruent trials, with no group difference](auditory-number-congruency-detection-both-groups.md) — related
 - [ERP amplitude shows larger negativity for incongruent and No-Go trials at frontal midline sites](erp-amplitude-incongruent-nogo-frontal-negativity.md) — related
+- [Hemispheric dissociation: right hemisphere sensitive to stage differences, left hemisphere to task differences](eeg-hemispheric-stage-task-dissociation.md) — related

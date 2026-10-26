@@ -59,3 +59,4 @@ Second meta-analysis of mind-set interventions (k = 43 effect sizes, N = 57,155)
 - [GMT as a standalone intervention shows small average effects that approach zero when publication bias is controlled, per the review's account of Macnamara and Burgoyne's meta-analysis](gmt-standalone-small-mixed-effects.md) — a narrower finding that bears on this claim
 - Authors with a financial interest in GMT were 2.5 times as likely to report significant effects, per the review's account of Macnamara and Burgoyne — related
 - [All included studies were rated as having some concerns regarding overall risk of bias, primarily due to absence of preregistered analysis plans](risk-of-bias-some-concerns-included-studies.md) — related
+- [Evidence for metacognitive intervention effectiveness in low-SES populations is inconsistent and weak despite the interventions' high-impact toolkit rating](metacognitive-interventions-low-ses-evidence-weak.md) — related

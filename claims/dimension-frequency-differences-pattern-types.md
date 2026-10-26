@@ -50,3 +50,4 @@ Frequencies of five-dimensional codes compared across 24 CPS activities (n = 5, 
 ## Related Claims
 - [Online concept-mapping behaviour may play a critical role in transforming verbal-discourse knowledge into deep-level co-construction; Type 3's lowest behavioural knowledge construction accompanied its lowest performance](online-behaviour-transforms-discourse-knowledge.md) — related
 - [Exploration behavior is associated with the most complex and most varied conceptual models, with statistically significant differences across behavior types](exploration-associated-with-model-complexity-variety.md) — related
+- [The Statistics knowledge module significantly outperforms the other modules in enhanced teaching plan quality, while Geometry performs lowest](statistics-module-outperforms-other-modules.md) — related

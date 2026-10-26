@@ -56,3 +56,4 @@ ANOVA on proportion correctly recalled trivia answers in N = 60 participants (ch
 - [Memory for incidental scholastic facts is worse when the facts are paired with pre-determined high- versus low-curiosity trivia questions across three task versions](high-curiosity-trivia-pairs-worse-scholastic-memory.md) — reports the opposite
 - [Participants rated pre-determined high-curiosity trivia questions as more curious than pre-determined low-curiosity questions, equally across task versions](manipulation-check-curiosity-ratings.md) — related
 - [Scholastic memory differed between task versions, with Early Anticipation outperforming Late Anticipation but not differing from Post Satisfaction](task-version-differences-scholastic-memory.md) — related
+- [Higher curiosity is associated with better memory for the correct answer](curiosity-associated-with-better-memory.md) — possibly the same claim (merge candidate)

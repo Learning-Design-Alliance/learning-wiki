@@ -23,7 +23,7 @@ sources:
 # Retrieval Practice
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 136 claims (62 for, 64 mixed, 10 against) · 63 studies (30 causal, 14 review, 8 quant-synthesis, 4 associational, 4 theoretical, 3 qualitative), `q1`–`q4` · 20 of 63 report an effect size · 129 claims rest on one study
+> **Evidence** · 137 claims (62 for, 65 mixed, 10 against) · 64 studies (31 causal, 14 review, 8 quant-synthesis, 4 associational, 4 theoretical, 3 qualitative), `q1`–`q4` · 21 of 64 report an effect size · 130 claims rest on one study
 
 ## Conditional relationship
 
@@ -262,6 +262,7 @@ A within-session quiz score, delayed recall, transfer to new questions and value
 - [The overcoming-barriers intervention does not reduce perceived time-and-effort cost of retrieval practice at either time point](../claims/overcoming-barriers-intervention-no-perceived-cost-reduction.md) [~W]
 - [Retrieval practice boosts learning, and the testing effect generalizes to the acquisition of entirely new material (forward testing effect)](../claims/testing-effect-backward-and-forward.md) [+W]
 - [The relationship between OET and final-test recall followed a skewed inverted-U, with performance predicted to decrease as OET approaches 1](../claims/inverted-u-oet-recall.md) [~W]
+- [Retrieval practice with feedback yields higher recall than restudy, which yields higher recall than no-feedback retrieval practice](../claims/feedback-retrieval-outperforms-restudy-and-nrp.md) [~W]
 
 ## Related Principles
 - [Pretesting (Prequestions Before Study)](pretesting.md)

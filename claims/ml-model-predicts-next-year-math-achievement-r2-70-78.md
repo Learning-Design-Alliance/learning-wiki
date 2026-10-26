@@ -46,3 +46,4 @@ Next-year prediction analysis of PALMA data: Elastic Net and Random Forest model
 
 ## Related Claims
 - [Predictor variables beyond prior achievement and school track add predictive value for next-year math achievement, with the smallest added effects for the final-year outcome](predictors-beyond-prior-achievement-add-predictive-value.md) — related
+- [Machine learning on pre-pandemic platform click data explains up to 77% of the variance in academic resilience](ml-platform-data-explains-resilience-variance.md) — related

@@ -49,3 +49,4 @@ Post-training interview of the 11 working memory group participants about the re
 - [Working memory performance ranking does not predict conditioned response percentage](wm-performance-does-not-predict-crs.md) — related
 - [Concurrent working memory tasks significantly reduce conditioned response percentage](working-memory-tasks-reduce-cr-percentage.md) — related
 - [Training blocks significantly increase conditioned response percentage in delay eyeblink conditioning](training-blocks-increase-cr-percentage-eyeblink.md) — related
+- [Contingency knowledge does not directly predict response rates or revaluation sensitivity](contingency-knowledge-does-not-predict-revaluation.md) — related

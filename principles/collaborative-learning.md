@@ -47,7 +47,7 @@ sources:
 # Collaborative Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 79 claims (27 for, 48 mixed, 4 against) · 82 studies (19 causal, 15 review, 15 theoretical, 10 quant-synthesis, 10 associational, 9 qualitative, 4 design), `q1`–`q4` · 11 of 82 report an effect size · 73 claims rest on one study
+> **Evidence** · 80 claims (28 for, 48 mixed, 4 against) · 83 studies (19 causal, 15 review, 15 theoretical, 11 associational, 10 quant-synthesis, 9 qualitative, 4 design), `q1`–`q4` · 11 of 83 report an effect size · 74 claims rest on one study
 
 ## Conditional relationship
 
@@ -180,6 +180,7 @@ Group performance during the task, individual understanding straight after it, d
 - [mCSCL effects do not differ significantly by group size, though tetrads show the largest subgroup effect and dyads alone are not significant](../claims/mcscl-group-size-moderator.md) [~W]
 - [Collaboration does not emerge spontaneously just by placing students together](../claims/collaboration-not-spontaneous-from-grouping.md) [~W]
 - [Collaboration format (individual vs. dyad) was experimentally manipulated alongside feedback format in simulation-based teacher learning](../claims/individual-versus-dyad-simulation-collaboration.md) [~W]
+- [Contrasting cases show the highest-scoring dyad (Select) engaged in inquiry, questioning, explaining, and argumentation to consensus during micro-failures, while the lowest-scoring dyad (Generate) showed dominance, unexplained disagreement, and off-task behavior](../claims/contrasting-cases-inquiry-versus-dominance.md) [+W]
 
 ## Related Principles
 - Conditions for Productive Group Creativity — specializes collaborative learning's general quality-control problem for open-ended creative tasks specifically

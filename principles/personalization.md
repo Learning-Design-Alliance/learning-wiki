@@ -27,7 +27,7 @@ sources:
 # Personalization
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 82 claims (41 for, 35 mixed, 6 against) · 85 studies (28 review, 21 causal, 10 theoretical, 8 associational, 8 qualitative, 5 quant-synthesis, 5 design), `q1`–`q4` · 7 of 85 report an effect size · 77 claims rest on one study
+> **Evidence** · 83 claims (41 for, 35 mixed, 7 against) · 86 studies (28 review, 21 causal, 10 theoretical, 9 qualitative, 8 associational, 5 quant-synthesis, 5 design), `q1`–`q4` · 7 of 86 report an effect size · 78 claims rest on one study
 
 ## Conditional relationship
 
@@ -192,6 +192,7 @@ Engagement, immediate achievement on an aligned test, time saved, delayed retent
 - [System-controlled adaptive instruction does not necessarily yield higher transfer than nonadaptive static approaches](../claims/system-control-not-superior-transfer.md) [~W]
 - [Latent profile analysis of RIASEC interests in Dutch Grade 9 students reveals seven distinct vocational interest profiles](../claims/seven-vocational-interest-profiles-grade-9.md) [+W]
 - [Practice should always be considered in light of the pupil's interest and motivation; excess practice enjoyed by the pupil is not a grave defect](../claims/practice-must-be-motivated.md) [~W]
+- [Learning-styles models (particularly VAK) continue to be believed in by most teachers and persist in teacher training despite evidence of no positive impact on educational outcomes](../claims/learning-styles-vak-persist-teacher-training.md) [-W]
 
 ## Related Principles
 - [Adaptive Learning](adaptive-learning.md) — the system-driven end of the personalization spectrum, where algorithms adjust difficulty and sequencing
