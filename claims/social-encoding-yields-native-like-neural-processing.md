@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Encoding L2 words by viewing social situations versus textual translation engages more native-like neural responses and improves behavioral performance
-description: Encoding L2 words by viewing social situations versus textual translation engages more native-like neural responses and improves behavioral performance
+title: Encoding L2 words by viewing videos of social situations engages more native-like neural responses than textual translation, and in a second study improved behavioral performance over non-social videos
+description: Encoding L2 words by viewing videos of social situations engages more native-like neural responses than textual translation, and in a second study improved behavioral performance over non-social videos
 id: social-encoding-yields-native-like-neural-processing
 status: review
 generated:
@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2025
+source_checked: 2026-10-26
 sources:
   - id: ana-zappa-2025
     resource: "https://doi.org/10.1038/s41539-025-00381-8"
@@ -28,11 +29,11 @@ sources:
     rigour: 3
 ---
 
-# Encoding L2 words by viewing social situations versus textual translation engages more native-like neural responses and improves behavioral performance
+# Encoding L2 words by viewing videos of social situations engages more native-like neural responses than textual translation, and in a second study improved behavioral performance over non-social videos
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r3` · `q2`
-> **Currency** · newest study 2025 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-10-26 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Words learned by viewing videos of social situations activated the right supramarginal gyrus during retrieval, similar to L1 processing, whereas translation-learned words activated the left frontal middle gyrus. [→ Ana Zappa 2025](#ana-zappa-2025)
@@ -46,7 +47,7 @@ Ana Zappa, Mel Slater & Antoni Rodriguez-Fornells. (2025). Social interaction sh
 
 `q2 · i?` · `review · r?`
 
-An fMRI study reviewed by the article (Jeong et al., 2021) compared retrieval-related brain activity for L2 words encoded via social-situation videos versus textual translation; social-video learning engaged the right supramarginal gyrus "similarly to what is observed during L1 processing".
+An fMRI study reviewed by the article (Jeong et al., 2010, its reference 89) compared retrieval-related brain activity for L2 words encoded via social-situation videos versus textual translation; social-video learning engaged the right supramarginal gyrus "similarly to what is observed during L1 processing". The article reports no behavioral result for this comparison.
 
 > "words learned by viewing videos depicting social situations acti-vated the right supramarginal gyrus during retrieval, similarly to what is observed during L1 processing, whereas those learned via textual transla-tions activated the left frontal middle gyrus"
 

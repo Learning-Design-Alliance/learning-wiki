@@ -49,4 +49,4 @@ fMRI informational connectivity analysis (multi-voxel pattern discrimination tim
 - [Neural pattern similarity within the MNS increases across FISL sessions, more for positive emotions, and tracks behavioral improvement](mns-pattern-similarity-increases-fisl.md) — related
 - [Information flow within the MNS progressively shifts toward IFG dominance over repeated FISL sessions](mns-information-flow-ifg-dominance.md) — related
 - [Improved positive imitation performance after FISL is mediated by increased MNS neural pattern similarity and MNS–OFC informational connectivity](fisl-mediation-nps-mns-ofc.md) — a narrower finding that bears on this claim
-- [Encoding L2 words by viewing social situations versus textual translation engages more native-like neural responses and improves behavioral performance](social-encoding-yields-native-like-neural-processing.md) — related
+- [Encoding L2 words by viewing videos of social situations engages more native-like neural responses than textual translation, and in a second study improved behavioral performance over non-social videos](social-encoding-yields-native-like-neural-processing.md) — related

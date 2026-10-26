@@ -10,7 +10,7 @@ generated:
 sources:
   - id: gattas-2022
     resource: "https://doi.org/10.1038/s41539-022-00134-x"
-    title: "Gattas, S., Collett, H. A., Huff, A. E., Creighton, S. D., Weber, S. E., Buckhalter, S. S., Manning, S. A., Ryait, H. S., McNaughton, B. L., & Winters, B. D. (2022). A rodent obstacle course procedure controls delivery of enrichment and enhances complex cognition. npj Science of Learning. https://doi.org/10.1038/s41539-022-00134-x"
+    title: "Gattas, S., Collett, H. A., Huff, A. E., Creighton, S. D., Weber, S. E., Buckhalter, S. S., Manning, S. A., Ryait, H. S., McNaughton, B. L., & Winters, B. D. (2022). A rodent obstacle course procedure controls delivery of enrichment and enhances complex cognitive functions. npj Science of Learning. https://doi.org/10.1038/s41539-022-00134-x"
     author: "Gattas, S., Collett, H. A., Huff, A. E., Creighton, S. D., Weber, S. E., Buckhalter, S. S., Manning, S. A., Ryait, H. S., McNaughton, B. L., & Winters, B. D"
 ---
 
@@ -51,4 +51,4 @@ The Obstacle Course is an enrichment paradigm delivered outside animal housing t
 -
 
 ## Key Sources
-- Gattas, S., Collett, H. A., Huff, A. E., Creighton, S. D., Weber, S. E., Buckhalter, S. S., Manning, S. A., Ryait, H. S., McNaughton, B. L., & Winters, B. D. (2022). A rodent obstacle course procedure controls delivery of enrichment and enhances complex cognition. npj Science of Learning. https://doi.org/10.1038/s41539-022-00134-x
+- Gattas, S., Collett, H. A., Huff, A. E., Creighton, S. D., Weber, S. E., Buckhalter, S. S., Manning, S. A., Ryait, H. S., McNaughton, B. L., & Winters, B. D. (2022). A rodent obstacle course procedure controls delivery of enrichment and enhances complex cognitive functions. npj Science of Learning. https://doi.org/10.1038/s41539-022-00134-x

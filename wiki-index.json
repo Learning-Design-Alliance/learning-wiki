@@ -57863,6 +57863,7 @@
 "id":"counting-days-benefits-lower-gpa-students",
 "newest_evidence":"2025",
 "path":"claims/counting-days-benefits-lower-gpa-students.md",
+"source_checked":"2026-10-26",
 "status":"review",
 "title":"The spacing incentive benefits lower-GPA students more, nearly equalizing exam performance across prior GPA levels",
 "type":"claim"
@@ -85570,6 +85571,7 @@
 "id":"embodiment-terminology-neuromyth-conflation-risk",
 "newest_evidence":"2026",
 "path":"claims/embodiment-terminology-neuromyth-conflation-risk.md",
+"source_checked":"2026-10-26",
 "status":"review",
 "title":"Loose use of movement-based learning language risks conflating evidence-based embodied learning with debunked neuromyths",
 "type":"claim"
@@ -122712,6 +122714,7 @@
 "id":"hidden-talents-prediction-contradicted-by-item-content-findings",
 "newest_evidence":"2024",
 "path":"claims/hidden-talents-prediction-contradicted-by-item-content-findings.md",
+"source_checked":"2026-10-26",
 "status":"review",
 "title":"The expected performance advantage of ecologically relevant content for low-SES students, predicted by the hidden talents approach, was not found; the opposite pattern emerged",
 "type":"claim"
@@ -253048,13 +253051,14 @@
 "type":"claim"
 },
 {
-"description":"Encoding L2 words by viewing social situations versus textual translation engages more native-like neural responses and improves behavioral performance",
+"description":"Encoding L2 words by viewing videos of social situations engages more native-like neural responses than textual translation, and in a second study improved behavioral performance over non-social videos",
 "evidence_strength":"moderate",
 "id":"social-encoding-yields-native-like-neural-processing",
 "newest_evidence":"2025",
 "path":"claims/social-encoding-yields-native-like-neural-processing.md",
+"source_checked":"2026-10-26",
 "status":"review",
-"title":"Encoding L2 words by viewing social situations versus textual translation engages more native-like neural responses and improves behavioral performance",
+"title":"Encoding L2 words by viewing videos of social situations engages more native-like neural responses than textual translation, and in a second study improved behavioral performance over non-social videos",
 "type":"claim"
 },
 {

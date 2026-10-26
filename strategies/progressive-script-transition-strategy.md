@@ -17,7 +17,7 @@ sources:
 # Schedule a progressive transition when switching a language between writing scripts
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (4 for, 1 unmarked) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · 5 claims (5 for) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 The authors recommend that a change of alphabet be introduced progressively because transfer of handwriting skill between scripts is uneven. They state that "The transfer is slower for some features than for others, indicating the need for a progressive transition" and explicitly that they do not claim the transfer is rapid and systematic. The strategy applies to educational planners managing sequential digraphia, such as Kazakhstan's move from Cyrillic to Latin-based Kazakh, where pupils must develop handwriting proficiency in both scripts during the transition stage.
@@ -45,7 +45,7 @@ The authors recommend that a change of alphabet be introduced progressively beca
 - [Some Cyrillic–Latin handwriting feature differences are constant across grades and reflect intrinsic differences between the alphabets, particularly pressure and tilt features](../claims/intrinsic-alphabet-differences-pressure-tilt.md) [+W]
 
 ## Related Strategies
-- [Fine Motor Transfer Cyrillic To Latin](../claims/fine-motor-transfer-cyrillic-to-latin.md)
+- [Fine motor handwriting skills transfer positively from Cyrillic to Latin: Latin-script writing quality improved with grade despite zero Latin experience](../claims/fine-motor-transfer-cyrillic-to-latin.md) [+W]
 
 ## Examples
 -

@@ -9,11 +9,12 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2024
+source_checked: 2026-10-26
 sources:
   - id: marjolein-muskens-2024
     resource: "https://doi.org/10.1038/s41539-024-00228-8"
-    title: "Marjolein Muskens, Willem E. Frankenhuiss & Lex Borghans. (2024). Math items about real-world content lower test-scores of students from families with low socioeconomic status. npj Science of Learning. https://doi.org/10.1038/s41539-024-00228-8"
-    author: "Marjolein Muskens, Willem E. Frankenhuiss & Lex Borghans"
+    title: "Marjolein Muskens, Willem E. Frankenhuis & Lex Borghans. (2024). Math items about real-world content lower test-scores of students from families with low socioeconomic status. npj Science of Learning. https://doi.org/10.1038/s41539-024-00228-8"
+    author: "Marjolein Muskens, Willem E. Frankenhuis & Lex Borghans"
     q: 2
     i: "?"
     kind: associational
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · checked against its sources 2026-10-26 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The authors' preregistered hypothesis, based on the hidden talents approach, was that low-SES students would perform better on math items with ecologically relevant content; the data showed the opposite. [→ Marjolein Muskens 2024](#marjolein-muskens-2024)
@@ -33,7 +34,7 @@ sources:
 
 ### Marjolein Muskens 2024
 
-Marjolein Muskens, Willem E. Frankenhuiss & Lex Borghans. (2024). Math items about real-world content lower test-scores of students from families with low socioeconomic status. npj Science of Learning. https://doi.org/10.1038/s41539-024-00228-8
+Marjolein Muskens, Willem E. Frankenhuis & Lex Borghans. (2024). Math items about real-world content lower test-scores of students from families with low socioeconomic status. npj Science of Learning. https://doi.org/10.1038/s41539-024-00228-8
 
 `q2 · i?` · `associational · r2`
 
