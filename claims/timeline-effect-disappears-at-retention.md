@@ -75,3 +75,4 @@ Paired-samples t-tests per condition in the same experiment: Visual and Timeline
 - [Object manipulation in a visual representation significantly improves scores from post-test to retention test after two weeks of non-instruction](manipulation-improves-retention-logic.md) — reports the opposite
 - [Lessons using contrasts between critical aspects produced greater long-term retention than the other lessons in each learning study cycle, though not significantly so in individual experiments](contrast-lessons-greater-long-term-retention.md) — related
 - [Revisions to visuals had no effect on post-lesson test scores, though prior knowledge predicted performance](revised-visuals-no-learning-effect.md) — related
+- [Retention did not differ between contents tested 3 versus 4 days after learning](retention-similar-3-vs-4-days.md) — related

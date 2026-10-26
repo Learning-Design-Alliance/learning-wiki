@@ -72,3 +72,4 @@ Planned contrast comparing overt retrieval practice with JOLs with word stems on
 - [Retrieval practice enhances final-test recollection of contextual details and speeds final retrieval, as shown by list discrimination, response time, and cumulative recall measures](retrieval-practice-enhances-final-context-memory-and-memory-search-efficiency.md) — a broader claim this one bears on
 - [JOLs with word stems and retrieval practice reduce prior-list intrusions on the List-5 test, whereas JOLs with complete words do not](word-stem-jols-reduce-prior-list-intrusions.md) — related
 - [Both overt and covert retrieval practice outperform restudy when practice and test match (the testing effect)](both-retrieval-formats-beat-restudy.md) — related
+- [Retrieval practice boosts learning, and the testing effect generalizes to the acquisition of entirely new material (forward testing effect)](testing-effect-backward-and-forward.md) — a broader claim this one bears on

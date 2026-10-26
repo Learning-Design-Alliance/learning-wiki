@@ -20,7 +20,7 @@ sources:
 # PAIR-C Framework (Pattern, Agents, Interactions, Relations, Causality)
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 11 claims (4 for, 7 mixed) · 19 studies (7 causal, 5 quant-synthesis, 3 review, 2 qualitative, 1 design, 1 theoretical), `q2`–`q4` · 3 of 19 report an effect size · 6 claims rest on one study
+> **Evidence** · 12 claims (4 for, 7 mixed, 1 against) · 20 studies (7 causal, 5 quant-synthesis, 3 review, 2 qualitative, 2 theoretical, 1 design), `q1`–`q4` · 3 of 20 report an effect size · 7 claims rest on one study
 
 ## Description and scope
 
@@ -148,6 +148,10 @@ Record: **phenomenon and why it is emergent → the second phenomenon used for c
 [Simulation](../elements/simulation.md), [prediction](../elements/prediction.md), [prompts](../elements/prompts.md), [misconception probes](../elements/misconception-probes.md), [comparing cases](../elements/comparing-cases.md), [analogies](../elements/analogies.md), [feedback](../elements/feedback.md), [reflection activities](../elements/reflection-activities.md) and [visual imagery](../elements/visual-imagery.md). Principles the pattern draws on: [Cognitive Disequilibrium](../principles/cognitive-disequilibrium.md), [Simulations and Immersive Virtual Environments](../principles/simulations-immersive-virtual-environments.md), [Inquiry-based Learning](../principles/inquiry-based-learning.md), [Scaffolding](../principles/scaffolding.md), [Analogical Reasoning](../principles/analogical-reasoning.md) and [Transfer of Learning](../principles/transfer-of-learning.md). Theory: [Constructivism](../theories/constructivism.md).
 
 This pattern is scoped to explaining one emergent phenomenon with an agent-based model and the five dimensions, at lesson and short-unit grain. Sequential processes and phenomena with a real controlling agent need other configurations. Whether PAIR-C produces deeper understanding or fewer misconceptions than other conceptual-change designs, whether it transfers across domains with an explicit comparison step, whether it works with school-age learners, and whether its gains last remain to be tested.
+
+## Claims
+
+- [The framework and recommendations are consensus positions from physical-science-weighted contributors, not empirical findings](../claims/open-knowledge-consensus-not-empirical.md) [-W]
 
 ## Related Patterns
 - (none yet linked)

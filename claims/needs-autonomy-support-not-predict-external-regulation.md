@@ -69,3 +69,4 @@ The discussion of the MASEM results reports that small bivariate autonomy-suppor
 - [Competence need satisfaction is the strongest psychological-need predictor of students' self-determined motivation types](competence-strongest-need-predictor-student-motivation.md) — related
 - [Satisfaction of basic psychological needs is positively associated with autonomous motivation, with competence the strongest predictor](basic-needs-satisfaction-autonomous-motivation.md) — related
 - [The intervention does not change general motivation for mathematics measured by the SRQ-A](no-change-general-mathematics-motivation-srq-a.md) — related
+- [Intrinsic motivation was strongly associated with identified regulation, and introjected regulation with external regulation, in the AI motivational network](ai-motivation-network-strong-edges.md) — related

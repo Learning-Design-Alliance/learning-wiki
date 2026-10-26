@@ -49,6 +49,7 @@ The article enumerates five implementable institutional actions: "Recognise AI-d
 - [Address generative AI in higher education through assessment redesign and proportional reflective practices rather than surveillance or punitive controls](assessment-redesign-proportional-reflective-practices.md)
 - [Strengthen institutional policies, ethics education, verification, disclosure, and data protection to support ethical GenAI use](institutional-strategies-ethical-genai-use.md)
 - [Fund AI literacy initiatives integrating AI ethics into curricula and adapting assessments](ai-literacy-ethics-curricula-assessment-strategy.md)
+- [Role-specific pilot actions for shifting to an open knowledge system](stakeholder-open-knowledge-pilot-actions.md)
 
 ## Examples
 -

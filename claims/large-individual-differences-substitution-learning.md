@@ -50,3 +50,4 @@ Descriptive report of the white girls' practice data in Chart I and Table I. The
 - [Practice in substituting digits for letters transferred positively to writing symbols for digits but interfered with writing digits for symbols](kline-substitution-transfer-asymmetric.md) — related
 - [The Chain Puzzle best distinguished the top and bottom quarters of the group among all twelve tests.](chain-puzzle-best-extreme-quarter-differentiation.md) — related
 - [A sixteen-day wigwag-code learning task yields reliable learning curves with wide individual differences, with negro girls as a group inferior to white girls (Baldwin)](wigwag-code-learning-curves-delinquent-girls.md) — related
+- [The associative learning task revealed large individual differences, with d' ranging from −0.09 to 2.32 and 19 of 38 participants not reaching the learning criterion](large-individual-differences-associative-learning-task.md) — related

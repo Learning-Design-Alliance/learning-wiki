@@ -53,6 +53,7 @@ The commentary recommends moving beyond isolated laboratory tasks toward real-wo
 - [Research agenda: investigate affective dynamics with within-person, longitudinal, and multi-channel methods](affective-dynamics-research-agenda-curiosity-interest.md)
 - [Model assets and threats to availability by blending inter-individual self-reports with process-oriented intraindividual online measures](blended-observational-intraindividual-availability-paradigm.md)
 - [Build research programs combining studies optimized for internal validity with studies optimized for ecological validity](research-programs-mixing-internal-and-ecological-validity.md)
+- [Deliver neurocognitive training at low frequency within ecologically valid academic contexts rather than as isolated high-frequency sessions](low-frequency-nat-ecological-embedding-strategy.md)
 
 ## Examples
 -

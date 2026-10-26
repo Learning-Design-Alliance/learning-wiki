@@ -67,3 +67,5 @@ In the same grades 4-5 cluster RCT, the researcher-designed main idea summary me
 - [Text generation interventions improve learning with texts compared to reading them, with a medium overall effect (g = 0.41)](text-generation-overall-effect.md) — related
 - [Disciplinary Literacy Instruction Improves Comprehension](disciplinary-literacy-instruction-improves-comprehension.md) — related
 - [Reading comprehension strategy programs in grades 3–6 yield a medium average effect size of 0.34](grades36-comprehension-programs-es-034.md) — related
+- [ITSs as core or supplementary components of instruction show positive learning gains in individual studies, including ALEKS, Writing Pal, and eDia platform deployments](its-individual-study-positive-gains.md) — related
+- [Most ITS-versus-teacher studies in K-12 report a positive effect of ITSs on student performance, with medium-to-large effect sizes](its-vs-teacher-k12-positive-effects.md) — a broader claim this one bears on

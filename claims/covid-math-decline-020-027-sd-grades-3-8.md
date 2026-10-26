@@ -54,3 +54,4 @@ Large-scale observational analysis of test scores from 5.4 million U.S. students
 - [The study tracked the achievement gap between COVID-year student cohorts and their pre-pandemic peers](covid-cohort-achievement-gap-tracked.md) — related
 - [Covid-19 school closures depressed student achievement on average by about 0.19 standard deviations](covid-closures-average-learning-deficit-0-19-sd.md) — related
 - [One year or more after the first lockdown, students had not recovered the learning deficits caused by Covid-19 school closures](covid-no-catch-up-one-year-after-lockdown.md) — related
+- [PISA mathematics scores declined by an average of 12 points (14.2% of a standard deviation, about 7 months of learning) after COVID-19 school closures](pisa-math-decline-14-percent-sd-covid.md) — related

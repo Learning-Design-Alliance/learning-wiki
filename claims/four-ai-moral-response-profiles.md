@@ -56,3 +56,4 @@ Exploratory k-means cluster analysis in the 109-respondent survey produced four 
 - [Qualitative studies describe distress, relational disruption, and meaningful companion loss when chatbot use becomes emotionally significant](qualitative-distress-companion-loss-emotionally-significant-use.md) — related
 - [AI guilt correlates with avoidance and concealment behaviours, most strongly with limiting use due to uneasiness](ai-guilt-correlates-with-avoidance-behaviours.md) — related
 - [Cluster analysis of instructors identifies three user groups that differ in several AI literacy dimensions, with the ethics scale providing a clear distinction](three-instructor-user-groups-ethics-distinction.md) — related
+- [K-Means clustering of LIME feature-importance profiles identifies 2 responder and 4 non-responder subgroups within binary intervention-response classes](lime-clustering-dyslexia-subgroups.md) — a narrower finding that bears on this claim

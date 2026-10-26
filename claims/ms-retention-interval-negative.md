@@ -53,3 +53,4 @@ Finding attributed to Driskell et al. (1994) within the reviewed literature; the
 - [The testing effect is largest at a retention interval of 1–6 days (g = 0.82) and robust across all intervals](retention-interval-one-to-six-days-largest.md) — related
 - [Several candidate moderators show no reliable effects: retention interval, test type, presentation mode, and publication status](interleaving-null-moderators-retention-test-presentation.md) — related
 - [Memory recall declines over the 12-hour retention interval between encoding and retrieval](memory-declines-over-12-hour-interval.md) — related
+- [Meta-analysis attributes a medium effect of ICT use on learning that dissipates and vanishes in studies assessing intervals longer than a year](ict-learning-medium-effect-vanishes-beyond-one-year.md) — related

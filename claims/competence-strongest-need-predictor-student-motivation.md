@@ -92,3 +92,4 @@ Relative weight analysis of need satisfaction predicting intrinsic motivation fr
 - [Teacher autonomy support predicts students' need satisfaction and self-determined motivation more strongly than parental autonomy support](teacher-autonomy-support-stronger-than-parental.md) — related
 - [Need satisfaction and autonomy support did not predict external regulation, and introjected associations did not hold in the full model](needs-autonomy-support-not-predict-external-regulation.md) — related
 - [In EERs, autonomy, competence, and relatedness are each supported by specific design features per self-determination theory](eer-sdt-needs-design-features.md) — related
+- [In the AI motivation network with correlates, autonomy need satisfaction was strongly related to competence need satisfaction](autonomy-competence-satisfaction-strong-edge-ai.md) — related

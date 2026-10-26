@@ -49,3 +49,4 @@ The editorial summarizes Davidsen and Ryberg's fine-grained analysis of two nine
 - [The editorial reports that successful collaborative making teams resolved coordination challenges through intertwined social-discursive and materially mediated processes](making-team-success-coordination-entanglement.md) — a broader claim this one bears on
 - [Body movements and positions focusing on virtual objects, and shifts away from or around them, signal key interactional collaborative events in shared VR](body-movement-signals-collaborative-events-vr.md) — related
 - [Gestures and bodily actions lighten cognitive load and extend mathematical ideas across group members during collaboration](gestures-material-scaffolding-collaboration.md) — related
+- [Microanalysis shows on-task and off-task participation is multilayered, with students frequently on- and off-task simultaneously through different modalities](multilayered-on-off-task-microanalysis.md) — related

@@ -43,6 +43,7 @@ The article developed a role-based intervention strategy for human-GAI online co
 ## Related Strategies
 
 - [Explicitly frame a group AI agent's role and design introductory activities that encourage collaborative dialogue rather than system testing](frame-agent-role-and-design-dialogue-based-introductory-activities.md)
+- [Mitigate reluctance to participate in group activities with clearly defined roles and an icebreaker interaction with the materials](defined-roles-and-nerf-icebreaker-for-group-activities.md)
 
 ## Examples
 -

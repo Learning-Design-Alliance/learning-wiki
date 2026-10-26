@@ -75,11 +75,13 @@ Multisensory instruction is best understood as explicit, systematic phonics inst
 5. Review previously taught patterns in each session (cumulative review) before introducing new material
 
 ## Related Strategies
+
 - [Explicit teaching](../patterns/direct-instruction.md) — multisensory instruction is a modality-enriched form of explicit, teacher-directed instruction
 - [Chunking](../principles/chunking.md) — cumulative, small-step sequencing keeps each lesson within working memory limits [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]
 - [Cognitive load management](../principles/cognitive-load-management.md) — simultaneous modalities must complement, not duplicate, to avoid extraneous load
 - [Explicit, systematic phonics](explicit-systematic-phonics-instruction.md) — the instructional content that multisensory delivery wraps around
 - [Cumulative review and distributed practice](../strategies/cumulative-review.md) — the retention mechanism multisensory programs rely on
+- [Design auditory-cognitive trainings with natural, relatable speech material and multisensory presentation to target far transfer to real-world listening](naturalistic-multisensory-act-design-strategy.md)
 
 ## Related Elements
 - [Demonstration](../elements/demonstration.md) — the teacher models sound production and letter formation before learners attempt it

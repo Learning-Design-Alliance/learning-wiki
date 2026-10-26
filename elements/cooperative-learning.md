@@ -13,7 +13,7 @@ generated:
 # Cooperative Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 7 claims (5 for, 2 mixed) · 9 studies (4 quant-synthesis, 2 causal, 2 review, 1 qualitative), `q2`–`q3` · 4 of 9 report an effect size · 5 claims rest on one study
+> **Evidence** · 8 claims (5 for, 3 mixed) · 10 studies (4 quant-synthesis, 2 causal, 2 review, 1 associational, 1 qualitative), `q2`–`q3` · 5 of 10 report an effect size · 6 claims rest on one study
 
 ## Description
 Cooperative learning organizes instruction so that small groups of learners work interdependently toward a shared goal, with each member responsible for both their own learning and their teammates' learning. It is distinguished from mere group work by deliberate structuring: positive interdependence, individual accountability, promotive interaction, social skills, and group processing (Johnson & Johnson's five elements).
@@ -59,6 +59,7 @@ Cooperative learning reliably improves achievement when group goals and individu
 - [Pre-event skill surveys enable balanced, skill-diverse team formation, but participants reported that more detailed skill screening would have benefited teams](../claims/pre-event-skill-survey-team-formation.md) [+W]
 - [Structured and ill-structured mCSCL teaching methods show similar effects; competitive methods (TGT, STAD) were not significant](../claims/mcscl-teaching-method-moderator.md) [~W]
 - [Individualized instruction shows low effects compared to cooperative and collaborative learning](../claims/individualized-instruction-low-effects-versus-collaborative.md) [+W]
+- [Pre-to-post gains in cooperative science learning occur for listing cell organelles (d = 0.70) but not for describing their functions](../claims/structure-gains-not-function-gains.md) [~W]
 
 ## Related Elements
 - [Coaching](coaching.md) — the teacher's role shifts to monitoring groups and intervening at the process level

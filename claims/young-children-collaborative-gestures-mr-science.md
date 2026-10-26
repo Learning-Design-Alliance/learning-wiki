@@ -57,3 +57,4 @@ The introduction's summary of the Tu, Danish, Humburg, Zhou, Mathayas, Enyedy, a
 - [Persistence of inscriptions in the VMT environment supported students explaining postings and establishing collaborative activity](persistence-affordance-supports-collaborative-explanation.md) — related
 - [Children aged 6–8 combining augmented reality with socio-dramatic play make significant progress toward explicit physics discourse](augmented-reality-play-physics-trajectory-young-children.md) — related
 - [Gestures and bodily actions lighten cognitive load and extend mathematical ideas across group members during collaboration](gestures-material-scaffolding-collaboration.md) — related
+- [Embodied Nerf-gun activities increased students' self-reported understanding of, and ability to explain, key neural communication concepts in a pre-post seminar design](embodied-nerf-activities-increase-self-reported-understanding-neural-communication.md) — related

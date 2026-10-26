@@ -13,7 +13,7 @@ generated:
 # Motivation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 285 claims (193 show a difference, 63 mixed, 29 no difference) · 213 studies (78 associational, 55 causal, 34 review, 16 theoretical, 14 quant-synthesis, 10 qualitative, 6 design), `q1`–`q4` · 55 of 213 report an effect size · 273 claims rest on one study
+> **Evidence** · 290 claims (197 show a difference, 64 mixed, 29 no difference) · 215 studies (79 associational, 56 causal, 34 review, 16 theoretical, 14 quant-synthesis, 10 qualitative, 6 design), `q1`–`q4` · 56 of 215 report an effect size · 278 claims rest on one study
 
 ## Description
 Whether a learner will spend effort here, and what makes it feel worth spending. It decides whether a page must earn attention before it can teach, and how much open-endedness is tolerable. The honest state of the evidence is that the mechanisms are well supported and the *interventions* are modest — growth-mindset programmes produce small average effects concentrated in specific subgroups [+W], which is a reason to design for motivation rather than to bolt an intervention on.
@@ -335,6 +335,11 @@ Whether a learner will spend effort here, and what makes it feel worth spending.
 - [Expecting a grade does not affect pretask performance-approach goals](../claims/grade-expectation-no-effect-performance-approach-goals.md) [-M] — instruction changes it
 - [Between-person value is weakly linked to app engagement, with no significant between-person links to subjective engagement measures](../claims/between-person-value-engagement-weak-correlation.md) [~M] — learners who differ on it differ in outcomes
 - [Within-person correlations between log-based vocabulary engagement and appraisals and subjective engagement are positive but very small](../claims/small-within-person-links-engagement-appraisals-subjective.md) [+M] — learners who differ on it differ in outcomes
+- [Children with lower growth mindset before training showed greater growth-mindset gains during cognitive training](../claims/lower-baseline-mindset-greater-training-gains.md) [+M] — an instructional effect differs with it
+- [Four weeks of cognitive training produced larger increases in growth mindset in children than business-as-usual schooling](../claims/cognitive-training-increases-growth-mindset-children.md) [+M] — instruction changes it
+- [Growth mindset prior to training predicted post-training math skills in the training group but not in controls](../claims/pretraining-mindset-predicts-posttraining-math.md) [~M] — an instructional effect differs with it
+- [On-ramp engagement is higher in the type 2 timetable: 52% of 1st year students engaged versus 20% of 2nd year students in type 1](../claims/type2-onramp-engagement-52-vs-20.md) [+M] — instruction changes it
+- [In an observational comparison of timetable configurations, 43% of students meaningfully engaged in off-ramp transitions during the type 2 'bridge' configuration versus 19% in type 1](../claims/type2-timetable-off-ramp-engagement-43-vs-19.md) [+M] — instruction changes it
 
 ## The evidence by question
 - *Does autonomy-supportive teaching raise motivation and engagement compared with controlling teaching?* [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](../claims/autonomy-supports-intrinsic-motivation.md) [+M]

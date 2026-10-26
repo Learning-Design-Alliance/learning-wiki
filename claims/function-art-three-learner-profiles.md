@@ -56,3 +56,4 @@ Cluster analysis of 400 artworks using HCPC (PCA, Ward's linkage, k-means refine
 - In reviewed studies, individual data types were analyzed mainly with descriptive analysis, content analysis, network analysis, and clustering — a broader claim this one bears on
 - [Cluster analysis across both studies identifies three meta-attention knowledge profiles, including an overconfident group with a self-knowledge/strategy mismatch](makq-three-meta-attention-profiles.md) — related
 - [Hierarchical clustering of CDM attainment probabilities identifies five learner groups with distinct patterns of professional standards attainment](five-learner-profiles-standards-attainment.md) — related
+- [Unsupervised clustering of individual learning curves identifies seven distinct learner profiles whose proportions shift with target geometry](seven-learner-profiles-soft-dtw-clustering.md) — related

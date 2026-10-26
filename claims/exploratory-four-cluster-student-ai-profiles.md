@@ -80,3 +80,4 @@ Exploratory K-means clustering among students only (n = 961, nine features, fixe
 - [K-means clustering of stage-level CACI observations yields four student-AI interaction patterns: Intensive Engagers, Fast Scanners, Traditionalists, and Frequent Switchers](four-caci-interaction-patterns.md) — related
 - [Students with moderate initial CT levels show substantially greater self-efficacy gains than high-CT and low-CT peers, an 'Optimal Development Zone' effect](optimal-development-zone-ct-gains.md) — related
 - [Four distinct action-control belief profiles (agentic, moderate, avoidant, and mixed) emerge among Finnish ninth graders](four-action-control-belief-profiles-ninth-graders.md) — related
+- [K-Means clustering of LIME feature-importance profiles identifies 2 responder and 4 non-responder subgroups within binary intervention-response classes](lime-clustering-dyslexia-subgroups.md) — a narrower finding that bears on this claim

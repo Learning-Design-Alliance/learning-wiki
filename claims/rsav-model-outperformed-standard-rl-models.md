@@ -48,3 +48,4 @@ Computational model comparison using AIC and Bayesian model selection for groups
 ## Related Claims
 - [Reward prediction errors are positively correlated with putamen, vmPFC, amygdala and posterior cingulate and anticorrelated with aIns, dmPFC and dlPFC](rpe-network-positive-and-anticorrelated-regions.md) — related
 - [Adolescents learn faster from negative reward prediction errors than adults in probabilistic reversal learning](adolescents-faster-learning-from-negative-rpes.md) — related
+- [Individual movement-error distributions during strategic adaptation are multimodal (peaks at sign flips, mirror reversals, and defaults), inconsistent with random exploration predicted by reinforcement learning](multimodal-error-distributions-strategic-adaptation.md) — related

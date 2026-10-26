@@ -49,3 +49,4 @@ Exploratory enter-method regressions on science and maths separately (N = 81): S
 - [Better semantic inhibition (smaller Stroop RT cost) is associated with higher accuracy on counterintuitive science and maths misconception trials](semantic-inhibition-predicts-misconception-accuracy.md) — a broader claim this one bears on
 - [Better response inhibition (complex No-Go accuracy) is associated with longer reaction times on counterintuitive misconception trials, not better performance](response-inhibition-predicts-longer-misconception-rt.md) — related
 - [The true-versus-false statement accuracy difference is larger for misconception than control trials, and significant for science but not maths](trial-statement-interaction-science-not-maths.md) — related
+- [NAT produced near-transfer gains in inhibitory control across task difficulty, Go RT, and Go/No-Go accuracy measures](nat-inhibitory-control-near-transfer.md) — related

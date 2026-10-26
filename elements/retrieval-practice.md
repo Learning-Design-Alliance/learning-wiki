@@ -13,7 +13,7 @@ generated:
 # Retrieval Practice
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 23 claims (15 for, 6 mixed, 2 against) · 21 studies (13 causal, 4 quant-synthesis, 4 review), `q2`–`q4` · 13 of 21 report an effect size · 20 claims rest on one study
+> **Evidence** · 24 claims (16 for, 6 mixed, 2 against) · 22 studies (13 causal, 4 quant-synthesis, 4 review, 1 theoretical), `q2`–`q4` · 13 of 22 report an effect size · 21 claims rest on one study
 
 ## Description
 Retrieval practice is the element in which learners recall information from memory rather than only re-exposing themselves to it.
@@ -58,6 +58,7 @@ Retrieval practice is the element in which learners recall information from memo
 - [Text quality after initial study moderates whether free recall beats generative tasks](../claims/text-quality-moderates-recall-vs-generative-sequence.md) [~W]
 - [When learners receive initial instruction, retrieval practice yields better generalization than worked examples regardless of item variability](../claims/retrieval-practice-beats-worked-examples-with-initial-instruction.md) [+W]
 - [A minority of children cease to improve and deteriorate during repeated memory tests, deterioration being concentrated among afternoon workers](../claims/individual-deterioration-afternoon-workers-winch-1911.md) [~W]
+- [Retrieval practice boosts learning, and the testing effect generalizes to the acquisition of entirely new material (forward testing effect)](../claims/testing-effect-backward-and-forward.md) [+W]
 
 ## The evidence by question
 - *Does retrieving material (quizzes, practice tests, recall) improve later retention more than restudying it?* [Retrieval practice improves long-term retention](../claims/retrieval-practice-improves-retention.md) [+S]

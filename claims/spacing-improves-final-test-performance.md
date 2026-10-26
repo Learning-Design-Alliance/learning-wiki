@@ -51,3 +51,4 @@ The review reports, as an established finding of research on human learning, tha
 - [Learners Misjudge Spacing Benefits](learners-misjudge-spacing-benefits.md) — related
 - [Spaced Practice Improves Retention](spaced-practice-improves-retention.md) — possibly the same claim (merge candidate)
 - [Distributed practice outperforms massed practice for long-term learning, with a possible foreign-language exception](distributed-practice-beats-massed-with-exception.md) — possibly the same claim (merge candidate)
+- [Distributed (spaced) learning is reported to work best compared with massed study in one long session](distributed-practice-beats-cramming-principle.md) — possibly the same claim (merge candidate)

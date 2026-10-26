@@ -13,7 +13,7 @@ generated:
 # Long-Term Memory
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 117 claims (76 show a difference, 25 mixed, 16 no difference) · 74 studies (29 causal, 19 review, 13 quant-synthesis, 6 theoretical, 5 associational, 2 qualitative), `q1`–`q4` · 26 of 74 report an effect size · 110 claims rest on one study
+> **Evidence** · 125 claims (80 show a difference, 26 mixed, 19 no difference) · 78 studies (32 causal, 19 review, 13 quant-synthesis, 7 theoretical, 5 associational, 2 qualitative), `q1`–`q4` · 27 of 78 report an effect size · 118 claims rest on one study
 
 ## Description
 Long-term memory holds information, such as words, facts, events, concepts and procedures, so that it can be retrieved and used later, over spans from hours to decades, and in principle indefinitely. Skills and knowledge get there through repeated practice and use, and stay accessible while they continue to be used. It matters for learning because what is stored there is the base for everything that follows: the [prior knowledge](prior-knowledge.md) and vocabulary that support reading and writing, and the arithmetic facts and procedures that free a learner to work on new mathematics problems. It develops through childhood and adolescence as the brain systems supporting it mature, and older learners lean more on memory-based strategies, for example in mathematics. It is measured with standardised memory batteries that ask learners to recall stories, lists or figures after a delay. It is distinct from [working memory](working-memory.md), which holds information briefly while it is being used; rehearsal and use move material from one to the other.
@@ -152,6 +152,14 @@ Long-term memory holds information, such as words, facts, events, concepts and p
 - [In the reading fluency contrast model, numerical abilities and serial retrieval fluency predict multiplication fluency but working memory does not, indicating partial domain-specificity](../claims/reading-model-domain-specificity-multiplication.md) [+W] — learners who differ on it differ in outcomes
 - [Numerical abilities and serial retrieval fluency predict third-grade multiplication fluency, while working memory shows no significant association in the baseline model](../claims/numerical-abilities-retrieval-fluency-predict-multiplication-baseline.md) [+W] — learners who differ on it differ in outcomes
 - [Incidental learning of nonsense syllables with no intent to secure permanence can nonetheless be retained long term](../claims/incidental-learning-no-intent-permanence-retention.md) [+W] — instruction changes it
+- [Choice-outcome-incorporated (signed) prediction error shows a positive relationship with recognition memory](../claims/signed-pe-positive-memory-relation.md) [+M] — instruction changes it
+- [Contrary to predictions, post-practice cardiovascular exercise produced no detectable effect on between-session offline change scores](../claims/cve-no-effect-between-session-offline-learning-pd.md) [-M] — instruction changes it
+- [Distributed (spaced) learning is reported to work best compared with massed study in one long session](../claims/distributed-practice-beats-cramming-principle.md) [+M] — instruction changes it
+- [For correct predictions, stronger prediction errors during encoding lead to enhanced recognition memory](../claims/pe-enhances-memory-correct-predictions.md) [+M] — instruction changes it
+- [For incorrect predictions, stronger prediction errors during encoding lead to impaired recognition memory](../claims/pe-impairs-memory-incorrect-predictions.md) [+M] — instruction changes it
+- [Model-derived prediction error at encoding interacts with prediction outcome in determining subsequent recognition memory](../claims/pe-outcome-interaction-episodic-memory.md) [~M] — instruction changes it
+- [Short post-class naps (<30 min) show no significant retention benefit](../claims/short-naps-no-retention-benefit.md) [-M] — instruction changes it
+- [The overall main effect of prediction error on recognition memory, independent of prediction outcome, is not significant](../claims/overall-pe-main-effect-null.md) [-M] — instruction changes it
 
 ## Measures
 - **Wechsler Memory Scale (WMS)** (Wechsler, 2010): its logical memory subtest asks for details of a story heard once, as a measure of declarative memory.

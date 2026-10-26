@@ -56,3 +56,4 @@ The review reports, citing Marstaller and Burianová (2013), an assessment of th
 - [A procedural \"answer is coming\" interpretation of the equals sign leads students to chain arithmetic and errors on missing-number equations](answer-coming-equals-sign-misconception.md) — related
 - [After an early algebra intervention, the number of kindergarteners giving a relational definition of the equal sign went from one to nine, and acceptance of non-standard equation forms rose, as reported from the authors' earlier study](kindergarten-early-algebra-intervention-shifts-equal-sign-understanding.md) — related
 - [Meaningful pointing gestures produced higher retention scores than beat gestures (review attributes this to Beege et al., 2020)](meaningful-gestures-beat-beat-gestures.md) — related
+- [The authors propose feedback as a working-memory aid that may increase the testing effect for learners with lower WM capacity](feedback-as-wm-aid-for-retrieval-practice.md) — related

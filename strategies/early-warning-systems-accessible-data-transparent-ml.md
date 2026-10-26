@@ -46,6 +46,7 @@ The article recommends that SRL support tools such as early-warning systems can 
 - [Use an early warning system based on linked school and human services data to target resources and lessen risks before they become more serious](early-warning-system-target-resources-near-term-risks.md)
 - [Build early-warning indicators and leverage online-learning-system process data to support students before gaps widen in Grade 3](early-indicators-online-system-process-data.md)
 - [Use explainable machine learning early warning systems to help teachers identify struggling inquiry learners early](early-warning-system-teacher-support-inquiry.md)
+- [Integrate low-cost BCI neurofeedback with online learning platforms for scalable, personalized math support](integrate-bci-neurofeedback-online-platforms.md)
 
 ## Examples
 -

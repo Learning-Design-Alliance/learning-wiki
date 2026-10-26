@@ -48,7 +48,8 @@ The article recommends, on the strength of its predictive findings, that evaluat
 - [Preschool neurophysiological assessment predicts performance on phonological processing, rapid naming, sentence memory, sight word reading, spelling, and composite reading one year later](../claims/year1-neural-predictions-forecast-year2-literacy.md) [+M]
 
 ## Related Strategies
-- 
+
+- [Use broader baseline cognitive predictors beyond conventional phonological measures to detect at-risk learners and personalize literacy intervention](broad-predictors-personalized-dyslexia-intervention.md)
 
 ## Examples
 -

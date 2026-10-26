@@ -14,7 +14,7 @@ grain_size: course
 # Spaced Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 56 claims (25 for, 28 mixed, 3 against) · 41 studies (19 causal, 9 review, 7 quant-synthesis, 3 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 12 of 41 report an effect size · 51 claims rest on one study
+> **Evidence** · 64 claims (26 for, 35 mixed, 3 against) · 44 studies (20 causal, 10 review, 7 quant-synthesis, 3 theoretical, 2 design, 1 associational, 1 qualitative), `q1`–`q4` · 14 of 44 report an effect size · 59 claims rest on one study
 
 ## Description
 
@@ -134,6 +134,14 @@ The examples are local design instances, not additional observations from those 
 - [Distributing drill repetitions in time gives better learning results than making many repetitions in succession](../claims/distributed-drill-repetitions-better-than-succession.md) [+W]
 - [The motor habit for a maze section shows practically no disintegration over the intervals between part-learning trials](../claims/negligible-motor-disintegration-over-interval.md) [~W]
 - [Distributed practice aids digit memorization, but massed practice is preferred for new and short mazes, indicating a boundary condition on the spacing effect](../claims/distributed-vs-massed-practice-boundary-1921.md) [~W]
+- [Students who spaced their study more also performed better on the MOOC final exam](../claims/spacing-predicts-final-exam-mooc.md) [~W]
+- [In a self-regulated MOOC, spacing study across more sessions predicts higher unit quiz performance within participants](../claims/self-regulated-spacing-predicts-mooc-quiz-performance.md) [+W]
+- [OET 94 scheduling yielded approximately 40% higher memory retention than conventional scheduling (S15), with a benefit of Cohen's d = 0.64](../claims/oet94-forty-percent-gain-over-conventional.md) [~M]
+- [STC associative interactions occur across intervals of hours, extending the temporal contiguity needed for association well beyond the tens of milliseconds typical of Hebbian associativity](../claims/stc-associative-interactions-extend-temporal-contiguity.md) [~W]
+- [Students who complete more practice activities also tend to space their study more](../claims/activity-completion-predicts-spacing.md) [~W]
+- [Experimentally, adaptive scheduling at OET 0.86 and 0.94 produced significantly higher final-test recall than OET 0.40, OET 0.98, and a conventional S15 schedule](../claims/experiment-oet-86-94-significantly-higher-recall.md) [~W]
+- [Shorter retention intervals predict higher quiz grades, and the spacing benefit holds even at short retention intervals](../claims/retention-interval-no-spacing-interaction.md) [~W]
+- [In simulations, adaptive model-based scheduling at OETs of 0.8 or higher produced 39–55% better final-test memory than the next best conventional schedule](../claims/simulation-oet-above-08-beats-conventional.md) [~W]
 
 ## Examples
 - [Memdora collaborative deck layer](../designs/memdora-collaborative-deck-layer.md) — a teacher's shared deck updates for all followers while each learner's spacing stays individual

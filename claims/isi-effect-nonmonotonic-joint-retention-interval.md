@@ -56,3 +56,5 @@ Accuracy difference lag analysis (Table 3): at 1-day retention interval, longer 
 - [In continuous recognition memory, the lag function is inverted U-shaped after a short retention interval and monotonically increasing after a long retention interval](spacing-lag-function-shape-depends-on-cue-bias-and-retention-interval.md) — related
 - [The meaning of theoretical arrows (causal vs predictive, timescale, functional form, magnitude) is unclear, and cross-lagged effect signs can change with assessment intervals](statistical-convenience-obscures-theory-specification.md) — related
 - [Earlier studies reported that quicker recall accompanied better memory results, but with little supporting evidence](earlier-studies-quicker-recall-better-results.md) — related
+- [Longer interstimulus interval significantly increases conditioned response percentage](longer-isi-increases-cr-percentage.md) — related
+- [Shorter retention intervals predict higher quiz grades, and the spacing benefit holds even at short retention intervals](retention-interval-no-spacing-interaction.md) — reports the opposite

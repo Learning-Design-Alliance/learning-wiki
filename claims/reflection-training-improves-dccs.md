@@ -101,3 +101,4 @@ The review reports, citing Chevalier and Blaye (2016), a study recording gaze po
 - [Trained students outperformed controls at selecting the more reliable of two contradictory texts, at both post-tests](sourcing-intervention-near-transfer-accuracy.md) — related
 - [Bilinguals may have a specific advantage in transferring understanding of novel symbolic rules to new contexts](bilingual-transfer-novel-symbolic-rules.md) — related
 - [Experimental studies report transfer of training across diverse operations, from sensory discrimination to memorizing](transfer-of-training-diverse-operations-review.md) — related
+- [Four weeks of cognitive training produced larger increases in growth mindset in children than business-as-usual schooling](cognitive-training-increases-growth-mindset-children.md) — related

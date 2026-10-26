@@ -97,3 +97,4 @@ This meta-analysis pooled 159 effect sizes from 61 published and unpublished stu
 - [Feedback Enhances Retrieval Practice](feedback-enhances-retrieval-practice.md) — related
 - [Feedback likely supported both consolidation and rule induction in the observed retrieval practice benefits](feedback-role-in-retrieval-practice-benefits.md) — related
 - [Images that reveal the answer reduce recall compared with images appearing after the retrieval attempt](answer-revealing-images-worse-than-post-retrieval-images.md) — a narrower finding that bears on this claim
+- [Retrieval practice produced a reliable overall testing effect and a main effect of working memory capacity on final-test accuracy](main-effect-testing-effect-wm-capacity.md) — related

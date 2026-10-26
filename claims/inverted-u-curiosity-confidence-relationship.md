@@ -55,3 +55,4 @@ Experiment 1 regression of curiosity on confidence P and P*(1−P), following pr
 - [Low and medium Knowledge Confidence heighten curiosity, contradicting the predicted inverted U-shaped relationship](low-medium-knowledge-confidence-heighten-curiosity.md) — reports the opposite
 - [Only medium-level incongruity between individual knowledge and wiki information causes cognitive conflict that motivates equilibration](medium-incongruity-inverted-u-cognitive-conflict.md) — related
 - [Non-linear (Goldilocks) effects of expectations and aspirations on outcomes are small and largely non-significant](goldilocks-effect-not-supported-expectations.md) — related
+- [The relationship between OET and final-test recall followed a skewed inverted-U, with performance predicted to decrease as OET approaches 1](inverted-u-oet-recall.md) — related

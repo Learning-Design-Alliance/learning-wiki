@@ -57,3 +57,4 @@ Methodological argument, not a tested result: the authors identify criterion-tra
 - [For short maze problems, massed learning effort is more economical than distributed effort in trials, time and errors, for both rats and human adults](short-problems-massed-effort-more-economical.md) — related
 - [First-pass recall accuracy rises while trials-to-criterion and exposure duration fall across the three weekly relearning sessions](relearning-session-gains-recall-trials-exposure.md) — related
 - [Total exposure time per session was significantly lower in the relearn condition than in the restudy condition, ruling out an exposure confound](relearning-exposure-time-controlled.md) — related
+- [Distributed (spaced) learning is reported to work best compared with massed study in one long session](distributed-practice-beats-cramming-principle.md) — related

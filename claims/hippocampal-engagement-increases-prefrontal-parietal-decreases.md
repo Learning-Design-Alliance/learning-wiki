@@ -54,3 +54,4 @@ Longitudinal block-design fMRI in 28 children; ROI analysis of anatomically defi
 - [Inter-problem multivoxel pattern stability in the hippocampus increases from childhood through adolescence into adulthood, reaching adult-like levels by adolescence](hippocampal-representation-stability-increases-development.md) — related
 - [Arithmetic problem-solving performance improves over 1.2 years in children, with larger gains on standard addition than control problems](arithmetic-performance-improves-longitudinally.md) — related
 - [Memory-based strategy use continues to increase from childhood through adolescence into adulthood](retrieval-development-through-adolescence-adulthood.md) — related
+- [Growth-mindset gains were correlated with increased activation of dorsal ACC, right dorsal striatum, and right hippocampus during difficult math problem solving](mindset-gains-brain-activation-dacc-striatum-hippocampus.md) — a narrower finding that bears on this claim

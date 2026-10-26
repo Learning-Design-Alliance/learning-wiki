@@ -66,3 +66,4 @@ Cross-sectional perception-based survey of 398 business-school students in India
 - [Students with higher baseline relatedness satisfaction perceive less additional relatedness support from AI chatbot use](baseline-relatedness-diminishes-perceived-ai-relatedness.md) — related
 - [School-side support (teacher, instructional, and institutional provision) is associated with learners' motivation, engagement, and need satisfaction](school-side-support-genai-engagement.md) — related
 - [Positive teacher-student relationships fulfill relatedness needs and support internalization of learning](relatedness-care-support-internalization.md) — related
+- [In the AI motivation network with correlates, autonomy need satisfaction was strongly related to competence need satisfaction](autonomy-competence-satisfaction-strong-edge-ai.md) — related

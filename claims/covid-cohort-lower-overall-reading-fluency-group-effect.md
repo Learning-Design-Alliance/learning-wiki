@@ -56,3 +56,4 @@ DiD regression on the Bavarian sample; Table 4 reports β1 = -2.71 (CI -3.98 to 
 - [One year or more after the first lockdown, students had not recovered the learning deficits caused by Covid-19 school closures](covid-no-catch-up-one-year-after-lockdown.md) — related
 - [The negative effect of COVID remote learning was largest among lower primary low-SES students, reaching 25, 20 and 33 points (d = 0.25, 0.20, 0.33) in mathematics, reading and science by autumn 2021](lower-primary-low-ses-largest-loss.md) — related
 - [Longer school closures are associated with greater declines in grade 8 civic knowledge](school-closure-duration-civic-knowledge-declines.md) — related
+- [Learning losses increase with the length of school closures, from 9–12% SD in shortest-closure countries to 17–23% SD in longest-closure countries](losses-increase-with-closure-length.md) — related

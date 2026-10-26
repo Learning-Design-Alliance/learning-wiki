@@ -52,3 +52,4 @@ Robustness analysis of the cross-lagged panel models including domain-specific a
 - [The strength of relations among self-concept and value constructs remains stable in size across Grades 5 to 9](stable-relation-size-across-secondary-years.md) — related
 - [Prior longitudinal SEM studies of self-concept versus achievement causality show heterogeneous causal predominance, varying with design, self-concept operationalization, domain, and achievement measure](heterogeneous-causal-predominance-prior-studies.md) — a broader claim this one bears on
 - [In math and English, students' prior academic self-concept positively predicts their later intrinsic value and attainment value across secondary school](self-concept-predicts-later-value-math-english.md) — related
+- [Growth mindset prior to training predicted post-training math skills in the training group but not in controls](pretraining-mindset-predicts-posttraining-math.md) — related

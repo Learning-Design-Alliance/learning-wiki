@@ -51,6 +51,7 @@ The paper's evaluation approach pairs a quantitative impact estimate with qualit
 ## Related Strategies
 
 - [Evaluate charter school impacts by matching students to demographically and academically similar comparison students](matched-comparison-group-charter-evaluation-strategy.md)
+- [Combine quantitative occupancy monitoring with ethnographic observation and field interviews to target qualitative data collection on learning-space transitions](mixed-occupancy-ethnography-learning-spaces.md)
 
 ## Examples
 -

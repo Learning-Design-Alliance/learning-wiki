@@ -59,3 +59,4 @@ Experiment 1 correlational analysis treating the RT difference between trial typ
 - [Verbal working memory positively and inhibitory control negatively relate to accuracy in the contrasting multiple-choice task](working-memory-and-inhibitory-control-contrasting-task.md) — related
 - [Both text incongruency and knowledge inaccuracy produce increased reading times on target sentences](incongruency-accuracy-reading-time-effects.md) — related
 - [Children's inhibitory control is positively related to math achievement as a main effect, independent of parental input](inhibitory-control-main-effect-math.md) — related
+- [NAT produced near-transfer gains in inhibitory control across task difficulty, Go RT, and Go/No-Go accuracy measures](nat-inhibitory-control-near-transfer.md) — related

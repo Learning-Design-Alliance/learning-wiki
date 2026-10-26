@@ -66,3 +66,4 @@ The same correlational analysis tested teacher and child characteristics as mode
 - [Higher pretest cognitive flexibility predicted greater decoding gains and compensated for lower pretest alphabet knowledge](pretest-cognitive-flexibility-predicts-decoding-gains-compensates-alphabet.md) — related
 - [A combined inhibition and social cognition classroom training improves selective visual attention in 5- and 6-year-olds](classroom-inhibition-social-cognition-training-improves-selective-attention.md) — related
 - [Pre-kindergarten attendance yields small positive impacts on social-emotional development, executive functioning, and emotion recognition](prek-small-positive-social-emotional-executive-emotion.md) — related
+- [Children with lower growth mindset before training showed greater growth-mindset gains during cognitive training](lower-baseline-mindset-greater-training-gains.md) — a narrower finding that bears on this claim

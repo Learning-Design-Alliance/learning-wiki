@@ -56,6 +56,7 @@ The article describes SDT's motivational spectrum as a fine-grained alternative 
 ## Examples
 
 - [Conditioning Natural Reinforcers](../strategies/conditioning-natural-reinforcers.md)
+- [Cultivate identified and intrinsic AI motivation through curriculum integration, activities, workshops, and real-world AI applications](../strategies/cultivate-intrinsic-identified-ai-motivation-strategies.md)
 
 ## Key Sources
 - Jennifer D. Moss. (2017). Inviting Autonomy: Common Roots and Beliefs of Self-determination Theory and Invitational Education Theory. Journal of Invitational Theory and Practice. https://www.invitationaleducation.net/journal-of-invitational-theory-and-practice/

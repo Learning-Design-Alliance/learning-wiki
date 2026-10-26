@@ -100,3 +100,4 @@ Thirty-eight children aged 6–11 with handwriting dysfunction were randomly ass
 - [Arm-body training improves overall legibility of letter script while pencil-and-paper training reduces it](arm-body-training-improves-overall-legibility.md) — related
 - [Accuracy in retrieving orthographic and semantic information is not significantly affected by time spent handwriting or typing during learning](writing-duration-not-related-to-retrieval-accuracy.md) — related
 - [Training for speed in handwriting may be secured without considerable sacrifice of quality](speed-without-quality-sacrifice.md) — related
+- [NAT produced large gains in Chinese handwriting construction and accuracy but no significant effect on directionality was detected](nat-chinese-handwriting-construction-accuracy-gains.md) — reports the opposite

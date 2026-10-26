@@ -13,7 +13,7 @@ generated:
 # Mindset
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 43 claims (24 show a difference, 14 mixed, 5 no difference) · 23 studies (8 associational, 5 causal, 5 review, 3 theoretical, 2 quant-synthesis), `q1`–`q4` · 6 of 23 report an effect size · 41 claims rest on one study
+> **Evidence** · 48 claims (28 show a difference, 15 mixed, 5 no difference) · 24 studies (8 associational, 6 causal, 5 review, 3 theoretical, 2 quant-synthesis), `q1`–`q4` · 7 of 24 report an effect size · 46 claims rest on one study
 
 ## Description
 Mindset is Dweck's term for implicit theories of intelligence: a fixed mindset holds that ability is set, a growth mindset that it can be developed. It is measured with short self-report scales. Research tests it as a predictor of achievement, as a moderator, and above all as an outcome of brief growth-mindset interventions. Large preregistered trials and meta-analyses find that the average effect of those interventions on achievement is small and concentrated in lower-achieving students in supportive settings, and that the correlation between mindset and achievement is weak.
@@ -74,6 +74,11 @@ Mindset is Dweck's term for implicit theories of intelligence: a fixed mindset h
 - [A short growth mindset intervention raised growth mindset belief but produced no significant difference from control in recall performance, interest, enjoyment or perceived difficulty and effort, for either knowledge type](../claims/growth-mindset-no-effect-vocabulary-learning.md) [-M] — instruction changes it
 - [The growth mindset intervention successfully fostered mindset beliefs but this did not transfer to learning outcomes](../claims/mindset-belief-fostered-without-outcome-change.md) [+M] — instruction changes it
 - [When delivered by master's students, the intervention additionally improved growth mindsets and standardized math achievement](../claims/moma-masters-student-mindset-achievement-effects.md) [+M] — instruction changes it
+- [Changes in dorsal ACC–striatum connectivity predict growth-mindset gains, with dACC–striatal connectivity the strongest individual link](../claims/dacc-striatal-connectivity-predicts-mindset-gains.md) [+M] — instruction changes it
+- [Children with lower growth mindset before training showed greater growth-mindset gains during cognitive training](../claims/lower-baseline-mindset-greater-training-gains.md) [+M] — learners who differ on it differ in outcomes
+- [Four weeks of cognitive training produced larger increases in growth mindset in children than business-as-usual schooling](../claims/cognitive-training-increases-growth-mindset-children.md) [+M] — instruction changes it
+- [Growth mindset prior to training predicted post-training math skills in the training group but not in controls](../claims/pretraining-mindset-predicts-posttraining-math.md) [~M] — learners who differ on it differ in outcomes
+- [Growth-mindset gains were correlated with increased activation of dorsal ACC, right dorsal striatum, and right hippocampus during difficult math problem solving](../claims/mindset-gains-brain-activation-dacc-striatum-hippocampus.md) [+M] — instruction changes it
 
 ## The evidence by question
 - *Do growth-mindset interventions raise achievement, and for which learners and in which settings?* [Growth-mindset interventions have weak average effects on achievement, including a negligible GPA gain (d = 0.11) for lower-achieving US ninth-graders in one preregistered national trial](../claims/growth-mindset-improves-achievement.md) [+S]

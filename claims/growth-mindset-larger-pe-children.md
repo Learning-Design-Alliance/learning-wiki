@@ -50,3 +50,4 @@ Correlational ERP analysis of 123 children performing a child-friendly go/no-go 
 - [Growth mindset predicts post-error accuracy for children with small Pe amplitudes but not large Pe amplitudes (exploratory moderation)](mindset-pe-moderation-post-error-accuracy.md)
 - [Growth mindset is unrelated to the ERN (early, automatic error-processing component) in children](mindset-unrelated-ern-children.md)
 - [Pe amplitude on error trials relates to post-error accuracy, but Pe does not mediate the mindset–post-error accuracy link in children](pe-post-error-accuracy-no-mediation-children.md)
+- [Four weeks of cognitive training produced larger increases in growth mindset in children than business-as-usual schooling](cognitive-training-increases-growth-mindset-children.md) — related

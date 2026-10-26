@@ -62,3 +62,4 @@ Feature importance analysis of the random forest classifier using mean decrease 
 - [Feature-based model predictive power derives from a large and varied set of features rather than a few dominant variables](feature-importance-spread-across-many-features.md) — related
 - [Document length alone carries some signal (word-count classifier ROC-AUC 0.68), but the fixed-word sliding-window design largely prevents stylometric features from capturing length differences](sliding-window-controls-document-length-effects.md) — related
 - [Decision tree classifiers trained on slide interaction features predict end-of-module outcomes with high accuracy across four K-12 programming courses](dt-slide-interaction-features-predict-module-outcomes.md) — related
+- [Pre-test mathematical performance and self-efficacy are the most important predictors of post-test math performance in a random forest model](pretest-performance-selfefficacy-predict-posttest-math.md) — related

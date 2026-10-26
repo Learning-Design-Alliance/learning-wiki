@@ -58,3 +58,4 @@ Theoretical neurobiological argument in the review: rising catecholamines and co
 - [Hot executive function (CGT risk adjustment) shows a bell-shaped developmental curve, peaking at age 14 and declining thereafter](hot-ef-bell-shaped-development.md) — related
 - [Only medium-level incongruity between individual knowledge and wiki information causes cognitive conflict that motivates equilibration](medium-incongruity-inverted-u-cognitive-conflict.md) — related
 - [Declining math self-efficacy is characterized by decreasing mastery experiences and increasing negative emotional and physiological arousal](decreasing-se-negative-mastery-and-arousal.md) — related
+- [The relationship between OET and final-test recall followed a skewed inverted-U, with performance predicted to decrease as OET approaches 1](inverted-u-oet-recall.md) — a narrower finding that bears on this claim

@@ -73,3 +73,4 @@ The same mixed ANOVA on A-prime change detection accuracies (2 Age x 2 Shape Typ
 - [Children's drawings suggested they noticed the robot's embedded integration elements and shifted attention from the robot to peer communication](children-drawings-notice-integration-elements.md) — related
 - [Children use qualitatively different strategies from adults for flexible cognition, shifting control strategies around 8 to 9 years of age](children-qualitatively-different-flexibility-strategies.md) — related
 - [Changes were detected more easily on screens presenting fewer objects (66.66%)](fewer-objects-easier-change-detection.md) — related
+- [Participants attended the implicit task well, with high hit rates and low false alarm rates across all blocks.](color-detection-task-high-compliance.md) — related

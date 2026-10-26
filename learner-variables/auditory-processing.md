@@ -13,7 +13,7 @@ generated:
 # Auditory Processing
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 28 claims (15 show a difference, 10 mixed, 3 no difference) · 17 studies (7 associational, 3 causal, 3 review, 2 quant-synthesis, 2 theoretical), `q1`–`q3` · 5 of 17 report an effect size · 26 claims rest on one study
+> **Evidence** · 32 claims (16 show a difference, 12 mixed, 4 no difference) · 18 studies (7 associational, 4 causal, 3 review, 2 quant-synthesis, 2 theoretical), `q1`–`q3` · 5 of 18 report an effect size · 30 claims rest on one study
 
 ## Description
 Auditory processing is what the brain does with sound once it has been heard: locating sounds, telling them apart and interpreting them as meaningful, so that a listener can attend to, understand and remember speech and control their own speaking. It underpins spoken language and listening comprehension and lays the foundation for reading and writing, including [phonological awareness](phonological-awareness.md), at every age the LVN covers from pre-kindergarten to adulthood. It is still developing through adolescence, when academic demands on listening rise. Difficulties show up most where speech must be followed against background noise, as in a busy classroom, and learners with dyslexia may process speech sounds differently. It is measured with standardised batteries of auditory attention, auditory memory and phonological skills, and with tests of auditory processing speed. It is distinct from hearing itself, which [access](access.md) covers, though hearing loss affects it; in older adults, age-related decline in hearing speech in noise is part of the picture.
@@ -64,6 +64,10 @@ Auditory processing is what the brain does with sound once it has been heard: lo
 - [Excluding pedagogically retarded pupils reveals a close correlation between mental growth and immediate auditory sentence memory](../claims/sentence-memory-correlates-with-mental-growth.md) [+M] — learners who differ on it differ in outcomes
 - [Early listening comprehension directly predicts later word-problem solving and word reading but not calculations, and numerical cognition does not mediate this relation](../claims/listening-comprehension-predicts-wps-reading-not-calculations.md) [~W] — learners who differ on it differ in outcomes
 - [Vocabulary's relation to reading comprehension is completely mediated by listening comprehension and word reading for ELs, but exerts a direct effect for non-ELs](../claims/vocabulary-mediation-differs-els-non-els.md) [~W] — learners who differ on it differ in outcomes
+- [Age, general cognition (MoCA), visual working memory, and hearing loss showed no significant association with the extent of training-induced change, and the three-way modality-by-AWM-by-hearing-loss interaction was not significant](../claims/null-moderators-training-induced-change.md) [-M] — an instructional effect differs with it
+- [Immersive presentation keeps comprehension performance stable across a training session while auditory-only performance decreases toward the end](../claims/immersive-training-comprehension-stability.md) [~M] — instruction changes it
+- [Lower auditory working memory capacity moderates the training benefit: participants 1 SD below the mean improve significantly more after immersive than auditory training](../claims/awm-moderates-immersive-training-benefit.md) [~M] — an instructional effect differs with it
+- [Speech-in-noise perception improves significantly after a short-term immersive auditory-cognitive training, but not after an audio-only training session](../claims/immersive-act-improves-speech-in-noise.md) [+M] — instruction changes it
 
 ## Measures
 - **Test of Auditory Processing Skills** (Martin, Brownell & Hamaguchi, 2018): auditory attention, auditory memory and phonological skills for ages 4 to 18.

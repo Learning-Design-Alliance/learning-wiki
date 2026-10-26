@@ -58,3 +58,4 @@ Nested model comparisons of linear versus quadratic MLGM fitted to MAP reading a
 - [Non-linear (Goldilocks) effects of expectations and aspirations on outcomes are small and largely non-significant](goldilocks-effect-not-supported-expectations.md) — related
 - [The relation of autonomous motivation to grades is curvilinear, with grades accelerating at higher autonomous motivation](curvilinear-autonomous-motivation-grades.md) — related
 - [Math achievement growth from preschool through second grade is best characterized by a latent basis curve rather than linear, exponential, or quadratic functions](latent-basis-best-fit-math-growth.md) — related
+- [Common and exceptional problems elicit distinct speed-accuracy profiles: curvilinear for common problems versus linear for exceptional problems, converging in older and higher-achieving students](speed-accuracy-profiles-differ-by-problem-type.md) — related

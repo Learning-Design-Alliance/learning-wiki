@@ -30,7 +30,7 @@ sources:
 # Cooperative Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 38 claims (21 for, 17 mixed) · 36 studies (13 quant-synthesis, 7 causal, 6 review, 6 design, 2 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 13 of 36 report an effect size · 30 claims rest on one study
+> **Evidence** · 40 claims (21 for, 19 mixed) · 37 studies (13 quant-synthesis, 7 causal, 6 review, 6 design, 2 associational, 2 theoretical, 1 qualitative), `q1`–`q4` · 14 of 37 report an effect size · 32 claims rest on one study
 
 ## Description and scope
 
@@ -143,6 +143,8 @@ This pattern is scoped to small-group work where each member's individual learni
 - [Individualized instruction shows low effects compared to cooperative and collaborative learning](../claims/individualized-instruction-low-effects-versus-collaborative.md) [+W]
 - [Students explain effective and ineffective cooperative learning mainly by instructional conditions: type of task, teacher, and group composition are the most frequently mentioned factors](../claims/instructional-conditions-explain-cl-quality.md) [~W]
 - [Intervention schools showed significantly higher observed positive interdependence in classrooms than control schools](../claims/cooperative-learning-fidelity-positive-interdependence-observed.md) [+W]
+- [High-school students in cooperative learning appear on-task about 60% of the time, off-task 11%, and idle 13%](../claims/on-task-60-percent-cooperative-learning.md) [~W]
+- [Pre-to-post gains in cooperative science learning occur for listing cell organelles (d = 0.70) but not for describing their functions](../claims/structure-gains-not-function-gains.md) [~W]
 
 ## Related Patterns
 

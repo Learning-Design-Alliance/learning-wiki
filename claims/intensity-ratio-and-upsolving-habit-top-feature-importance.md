@@ -72,3 +72,4 @@ Random Forest feature importance for the survey-based psychographic model (Fig. 
 - [The Skill-Application Paradox: stopped competitive programmers self-report higher theoretical confidence than active peers yet show significantly weaker practice habits and peer support](skill-application-paradox-cp-attrition.md) — related
 - [A Soft-Voting Ensemble achieves the best behavioral-dataset attrition prediction (CV F1 = 0.737, test recall = 0.769)](soft-voting-ensemble-behavioral-attrition-f1.md) — related
 - [Feature-based model predictive power derives from a large and varied set of features rather than a few dominant variables](feature-importance-spread-across-many-features.md) — related
+- [Pre-test mathematical performance and self-efficacy are the most important predictors of post-test math performance in a random forest model](pretest-performance-selfefficacy-predict-posttest-math.md) — related

@@ -50,3 +50,4 @@ Longitudinal behavioral strategy assessment in 28 children ages 7-9 at two time 
 - [Arithmetic problem-solving performance improves over 1.2 years in children, with larger gains on standard addition than control problems](arithmetic-performance-improves-longitudinally.md) — related
 - [Memory-based strategy use continues to increase from childhood through adolescence into adulthood](retrieval-development-through-adolescence-adulthood.md) — related
 - [Longitudinal gains in children's retrieval fluency are predicted by increased hippocampal-neocortical functional connectivity, not by hippocampal activation levels](hippocampal-connectivity-predicts-retrieval-gains.md) — related
+- [Trial-level analysis replicates discrete-trials effects: fluency decreases with problem size, is faster for addition than subtraction, and increases across grade](rpm-replicates-operation-problem-size-grade-effects.md) — related

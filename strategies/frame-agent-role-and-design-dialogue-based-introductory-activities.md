@@ -47,6 +47,7 @@ The article recommends that when introducing AI partners in classrooms, educator
 - [Structured Discussion Techniques](structured_discussion_techniques.md)
 - [Architect teacher-in-the-loop agentic AI with escalation protocols, guardrail adjustability, and state-interruptibility](teacher-in-the-loop-agentic-architecture.md)
 - [Design clearly defined roles and collaborative interaction rules to empower learners and their AI partners](symbiotic-role-design-intervention-strategy.md)
+- [Mitigate reluctance to participate in group activities with clearly defined roles and an icebreaker interaction with the materials](defined-roles-and-nerf-icebreaker-for-group-activities.md)
 
 ## Examples
 -

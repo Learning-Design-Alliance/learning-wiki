@@ -33,7 +33,6 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
 > **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
-> **Design limits** · Peadar Donohoe and Carmel O’Sullivan 2015 (2): no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` In end-of-study focus groups, all groups said they understood bullying as repeated aggression; the authors read this as the definition having been communicated, but understanding was self-reported, with no earlier focus group or comparison to show a change. [→ Peadar Donohoe and Carmel O’Sullivan 2015](#peadar-donohoe-and-carmel-osullivan-2015)

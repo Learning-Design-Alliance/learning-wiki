@@ -163,6 +163,7 @@ Speech comprehension in the room, use of new material, listening without print, 
 - [Read Aloud with Highlighting](../strategies/read_aloud_with_highlighting.md)
 - [Five-stage spoken learning loop with supplementary visual affordances](../designs/five-stage-spoken-learning-loop.md)
 - [Use captioning to provide adaptable mobile messages across contexts, with font and placement guidelines](../strategies/captioning-guidelines-for-mlearning-messages.md)
+- [Design auditory-cognitive trainings with natural, relatable speech material and multisensory presentation to target far transfer to real-world listening](../strategies/naturalistic-multisensory-act-design-strategy.md)
 
 ## Key Sources
 - Schleppegrell, Mary. (1987). The Older Language Learner. ERIC Clearinghouse on Languages and Linguistics, Washington DC. https://eric.ed.gov/?id=ED287313

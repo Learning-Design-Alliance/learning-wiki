@@ -10,6 +10,7 @@ generated:
   at: 2026-10-08
 evidence_strength: moderate
 newest_evidence: 2008
+source_checked: 2026-10-26
 sources:
   - id: peter-z-schochet-2008
     resource: "https://www.mathematica.org/publications/journal-article-statistical-power-for-random-assignment-evaluations-of-education-programs"
@@ -33,7 +34,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 theoretical `r?` · `q2`
-> **Currency** · newest study 2008 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2008 · checked against its sources 2026-10-26 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 
@@ -79,3 +80,4 @@ The paper's empirical analysis of statistical power for education experiments fi
 - [In a 28-classroom cluster randomized trial, Building Blocks raised end-of-intervention REMA scores with an effect size of 1.07 (improvement index +36)](building-blocks-clements-2008-large-effect.md) — related
 - [The WWC Adolescent Literacy review rates PALS as having potentially positive effects on reading comprehension from one trial of students averaging 9.8 years old, with an effect size of 0.48 that is not statistically significant when adjusted for clustering](pals-potentially-positive-comprehension-effect-adolescent.md) — related
 - [Most studies of literacy resilience have (very) small sample sizes and low statistical power to find relevant effects](literacy-resilience-studies-low-statistical-power.md) — related
+- [The study was adequately powered only for medium-to-large effects on the critical three-way interaction](power-limited-three-way-interaction.md) — related

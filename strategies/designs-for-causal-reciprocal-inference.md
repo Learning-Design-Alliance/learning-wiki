@@ -46,6 +46,7 @@ The review recommends that future studies meet three preconditions for causal in
 ## Related Strategies
 
 - [Supplement self-report questionnaires with process-oriented and online measures of motivation during learning](alternatives-to-self-reports-motivation-measurement.md)
+- [Examine the causal relationship between arts involvement and academic performance with experimental designs controlling for IQ and motivation](experimental-design-arts-transfer-causality.md)
 
 ## Examples
 -

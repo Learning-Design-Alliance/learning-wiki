@@ -191,6 +191,7 @@ These tactics are not unconditionally beneficial, however. Offering choice can h
 - [Go beyond autonomy support with competence-supporting behaviors such as high-quality feedback](../strategies/competence-support-high-quality-feedback.md)
 - [Teachers should consciously invest in involvement behaviors—showing interest and emotional support—to foster student connectedness and self-determined motivation](../strategies/teacher-involvement-investment-strategy.md)
 - [Foster self-determined motivation at the start of a learning cycle to support later achievement](../strategies/foster-self-determined-motivation-before-instruction-cycle.md)
+- [Build students' competence in AI-enriched environments by choosing appropriate tools, giving clear guidance, establishing role models, and offering frequent encouragement](../strategies/build-competence-ai-learning-strategies.md)
 
 ## Key Sources
 - Deci, E. L., & Ryan, R. M. (2000). The "what" and "why" of goal pursuits: Human needs and the self-determination of behavior. *Psychological Inquiry, 11*(4), 227-268. [https://doi.org/10.1207/S15327965PLI1104_01](https://doi.org/10.1207/S15327965PLI1104_01)

@@ -53,3 +53,4 @@ Mann-Whitney tests comparing gain scores of 25 L1 and 23 L2 readers across the e
 - [Viewing a single full-length L2 TV program results in incidental vocabulary learning at the level of meaning recall and meaning recognition](viewing-full-length-tv-incidental-vocabulary-learning.md) — related
 - [Vocabulary Knowledge Grows Incrementally With Repeated Encounters In Varied Contexts](vocabulary-knowledge-grows-incrementally-with-repeated-encounters-in-varied-contexts.md) — a broader claim this one bears on
 - [First language evidence shows extensive reading for meaning leads to vocabulary acquisition over time, probably accounting for most L1 vocabulary growth beyond the first few thousand common words](l1-extensive-reading-drives-vocabulary-growth.md) — related
+- [L1 and L2 readers achieve comparable reading comprehension accuracy, though L2 readers read more slowly with more fixations](l2-comparable-accuracy-longer-reading-time.md) — related

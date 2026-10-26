@@ -47,3 +47,4 @@ Summary of Baldwin's comparative learning study of adolescent delinquent white a
 ## Related Claims
 - [Individual differences in substitution-test learning are large, ranging from 8 to 44 substitutions on the first day and reaching 214 for the best performer by trial sixteen](large-individual-differences-substitution-learning.md) — related
 - [Individual learning curves rise by irregular increments with occasional losses, with plateau-like periods attributed to changes in method and waning interest](irregular-individual-learning-increments-plateaus.md) — related
+- [The associative learning task revealed large individual differences, with d' ranging from −0.09 to 2.32 and 19 of 38 participants not reaching the learning criterion](large-individual-differences-associative-learning-task.md) — related

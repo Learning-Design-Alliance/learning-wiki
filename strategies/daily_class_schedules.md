@@ -65,6 +65,7 @@ Time on task is one of the most consistent correlates of achievement, but raw al
 - [active-recess](active-recess.md) — a restorative slot in the schedule that pays back attentional resources for later blocks
 - [5-minute_writing_conferences](5-minute_writing_conferences.md) — an example of a recurring scheduled routine that fits inside a literacy block
 - [Sustainable block schedule with embedded planning and professional learning time to retain teachers](block-schedule-embedded-planning-time-teacher-retention.md)
+- [Schedule relatively long (30-60 min) post-class morning naps to enhance school learning](schedule-long-post-class-morning-naps.md)
 
 ## Examples
 - A typical elementary day: morning work on arrival, literacy block in the morning (highest attention), mathematics before lunch, science/social studies in the early afternoon, recess placed to break up the afternoon slump.

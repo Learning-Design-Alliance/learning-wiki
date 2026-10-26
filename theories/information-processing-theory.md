@@ -17,7 +17,7 @@ sources:
 # Information Processing Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 116 claims (59 for, 56 mixed, 1 against) · 74 studies (27 causal, 25 associational, 13 review, 4 quant-synthesis, 4 theoretical, 1 design), `q1`–`q4` · 15 of 74 report an effect size · 113 claims rest on one study
+> **Evidence** · 121 claims (64 for, 56 mixed, 1 against) · 77 studies (30 causal, 25 associational, 13 review, 4 quant-synthesis, 4 theoretical, 1 design), `q1`–`q4` · 16 of 77 report an effect size · 118 claims rest on one study
 
 ## Description
 Information Processing Theory treats learning as the movement and transformation of information through attention, working memory, encoding, storage, and retrieval. In broad terms, the theory asks what learners notice, how much they can actively process at once, how they organize new information, and how it becomes retrievable later.
@@ -179,6 +179,11 @@ Information processing models are often criticized as overly linear and serial, 
 - [Analyzing a problem before reading facilitates subsequent recall of a relevant text for both novices and experts](../claims/problem-analysis-facilitates-text-recall.md) [+W] — attached 2026-10-24 from Schmidt et al. (1989), which proposed "Activation hypothesis: problem analysis packages activated prior knowledge into explanatory models that speed access and integration of new text information".
 - [More variable WM performance at all timescales is related to lower school achievement](../claims/wm-variability-lower-school-achievement.md) [+W]
 - [Picture memory span develops in stages: about six objects retained at ages six to seven, nine to ten objects at ages eight to ten, and higher at eleven and above](../claims/picture-memory-span-age-stages.md) [~W]
+- [Lower auditory working memory capacity moderates the training benefit: participants 1 SD below the mean improve significantly more after immersive than auditory training](../claims/awm-moderates-immersive-training-benefit.md) [+W] — attached 2026-10-26 from Vanessa Frei et al. (2025), which proposed "Integrated perceptual-cognitive system theory (Schneider and Pichora-Fuller) as the article's resource-allocation account of speech comprehension"; tests this page's relationship.
+- [Model-derived prediction error at encoding interacts with prediction outcome in determining subsequent recognition memory](../claims/pe-outcome-interaction-episodic-memory.md) [+W] — attached 2026-10-26 from Francesco Pupillo et al. (2023), which proposed "Hippocampal-striatal dopaminergic account of outcome-modulated prediction-error effects on encoding".
+- [For correct predictions, stronger prediction errors during encoding lead to enhanced recognition memory](../claims/pe-enhances-memory-correct-predictions.md) [+W] — attached 2026-10-26 from Francesco Pupillo et al. (2023), which proposed "Hippocampal-striatal dopaminergic account of outcome-modulated prediction-error effects on encoding".
+- [For incorrect predictions, stronger prediction errors during encoding lead to impaired recognition memory](../claims/pe-impairs-memory-incorrect-predictions.md) [+W] — attached 2026-10-26 from Francesco Pupillo et al. (2023), which proposed "Hippocampal-striatal dopaminergic account of outcome-modulated prediction-error effects on encoding".
+- [A modified SAC simulation with a dual-process account replicated the critical three-way interaction, including the absence of a testing effect for low-WM participants on LF associations](../claims/sac-simulation-replicates-three-way-interaction.md) [+W]
 
 ## The evidence by question
 - *How large should a unit be, and does grouping static material help?* [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [+S]

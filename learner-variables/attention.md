@@ -13,7 +13,7 @@ generated:
 # Attention
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 118 claims (82 show a difference, 23 mixed, 13 no difference) · 91 studies (24 associational, 23 causal, 20 review, 12 quant-synthesis, 5 qualitative, 5 design, 2 theoretical), `q1`–`q4` · 16 of 91 report an effect size · 113 claims rest on one study
+> **Evidence** · 120 claims (83 show a difference, 24 mixed, 13 no difference) · 92 studies (24 causal, 24 associational, 20 review, 12 quant-synthesis, 5 qualitative, 5 design, 2 theoretical), `q1`–`q4` · 17 of 92 report an effect size · 115 claims rest on one study
 
 ## Description
 How long a learner can sustain focus, and how readily something else takes it. Distinct from [working memory](working-memory.md): attention governs what *reaches* the store, capacity governs what it holds. It converts into segment length, distractor design, and how much a page may hold in one uninterrupted run. The design lever is mostly subtractive — the strongest findings here are about what to remove [-M].
@@ -156,6 +156,8 @@ How long a learner can sustain focus, and how readily something else takes it. D
 - [Kindergarten working memory is indirectly related to Grade 2 writing fluency and quality via Grade 1 spelling, while attentional control shows no direct or indirect relation](../claims/working-memory-indirect-via-spelling-attentional-control-null.md) [-M] — learners who differ on it differ in outcomes
 - [Students reported more distractions during slow adding than during rapid adding.](../claims/more-distractions-during-slow-adding.md) [+M] — instruction changes it
 - [Choice decreases self-reported distraction during the lesson, while utility value's effect on distraction depends on baseline interest in statistics](../claims/choice-decreases-distraction-uv-interest-interaction.md) [~M] — instruction changes it
+- [Sustained attention, not learning condition, was the strongest predictor of children's word recall](../claims/sart-strongest-predictor-word-recall.md) [+M] — learners who differ on it differ in outcomes
+- [The PC-over-VR recall difference was significant only for children with higher sustained attention](../claims/condition-difference-only-high-sustained-attention.md) [~M] — an instructional effect differs with it
 
 ## The evidence by question
 - *Does making material more interesting with details that do not carry the target cost learning?* [Interesting but irrelevant details can impair comprehension and transfer, with effects that vary with the material and the learner](../claims/seductive-details-effect.md) [+S]

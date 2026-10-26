@@ -13,7 +13,7 @@ generated:
 # Algebraic Thinking
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 49 claims (30 show a difference, 14 mixed, 5 no difference) · 32 studies (16 causal, 6 associational, 3 review, 3 theoretical, 2 qualitative, 1 quant-synthesis, 1 design), `q1`–`q4` · 6 of 32 report an effect size · 46 claims rest on one study
+> **Evidence** · 51 claims (32 show a difference, 14 mixed, 5 no difference) · 33 studies (17 causal, 6 associational, 3 review, 3 theoretical, 2 qualitative, 1 quant-synthesis, 1 design), `q1`–`q4` · 7 of 33 report an effect size · 48 claims rest on one study
 
 ## Description
 Algebraic thinking is the ability to generalise, represent, justify and reason with abstract mathematical structures and relationships: noticing that a pattern holds for all numbers, writing it with symbols, and arguing why it holds. The Learner Variability Navigator stresses that it is not only a secondary-school subject: in the primary grades it deepens understanding of arithmetic, for example by making the properties of operations explicit, and it helps students connect separate parts of their early mathematics. It is assessed with written early-algebra assessments and with researcher-designed measures that separate conceptual knowledge, procedural knowledge and flexibility in solving equations.
@@ -86,6 +86,8 @@ LVN follows it from grade 3 to grade 10. It links forward to [geometric reasonin
 - [Tarski's World facilitated conditional reasoning relative to only-situated or only-formal instruction](../claims/tarski-world-facilitated-conditional-reasoning.md) [+M] — instruction changes it
 - [Prior knowledge about natural numbers supports students dealing with algebraic properties of rational numbers](../claims/natural-number-knowledge-supports-algebraic-properties-rational-numbers.md) [+M] — learners who differ on it differ in outcomes
 - [Students' knowledge of equals sign definitions relates to their equation-solving performance at the student level](../claims/definition-relates-equation-solving.md) [+M] — learners who differ on it differ in outcomes
+- [Alpha neurofeedback via a low-cost single-channel BCI improves university students' algebra performance more than sham feedback](../claims/alpha-neurofeedback-improves-algebra-performance.md) [+M] — instruction changes it
+- [Pre-test mathematical performance and self-efficacy are the most important predictors of post-test math performance in a random forest model](../claims/pretest-performance-selfefficacy-predict-posttest-math.md) [+W] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Early algebra assessment** (Blanton et al., 2015): Written assessment to measure students' understanding of core algebraic concepts and practices.

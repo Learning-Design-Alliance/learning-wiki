@@ -43,6 +43,7 @@ The guide recommends EL-specific summer learning so English learners can "meanin
 - [Deploy federal recovery funding to support recovery, accelerate learning, and transform schools](deploy-federal-aid-recovery-acceleration.md)
 - [Invest in recruiting and retaining a diverse, EL-qualified educator workforce through bilingual teaching pathways](bilingual-teacher-pathways-diverse-el-workforce.md)
 - [Offer summer credit recovery to expand newcomer English learners' access to academic subjects](summer-credit-recovery-expand-newcomer-el-access.md)
+- [Target recovery resources to low-performing students via tutoring and high-quality enrichment](target-recovery-tutoring-enrichment-low-performers.md)
 
 ## Examples
 -

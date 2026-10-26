@@ -2,7 +2,7 @@
 
 Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's.
 
-**1953 entries** · 0 stable · 1953 in review · 0 drafts
+**1954 entries** · 0 stable · 1954 in review · 0 drafts
 
 ---
 
@@ -897,6 +897,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Large-scale Cognitive Tutor log dataset from over 7,000 pre-algebra students](large-scale-cognitive-tutor-log-dataset-from-over-7000-pre-algebra-students.md) - A large-scale dataset of more than 35 million observations from over 7,000 pre-algebra students using Cognitive Tutor, created by Ritter et al.
 * [Large-scale dataset of authentic student–AI chat logs from six Technion courses](large-scale-dataset-of-authentic-studentai-chat-logs-from-six-technion-courses.md) - An anonymized, IRB-approved dataset of authentic undergraduate student–AI interaction logs collected across six Technion courses and released by Taelin Karidi et al.
 * [Large-scale field study dataset and code release for AI-generated exam evaluation](large-scale-field-study-dataset-and-code-release-for-ai-generated-exam-evaluation.md) - A publicly released dataset and code package containing field-study student responses, AI-generated and comparison exam materials, and analysis code for evaluating course-tailored exams, produced by Calvin Isley and colleagues.
+* [Large-scale longitudinal parent-report language dataset collected via a free language therapy app, with code and data released on OSF](large-scale-longitudinal-parent-report-language-dataset-collected-via-a-free-language-ther.md) - A longitudinal parent-reported dataset of language, social functioning, and health measures from autistic children and young people, collected through a free mobile language-therapy app and released with code and data on OSF.
 * [LaTA](lata.md) - LaTA is an open-source, on-premises four-stage LLM autograder for LaTeX-native STEM coursework, developed for instructor-managed automated grading and feedback.
 * [Latin Sentence Tests A, B, I, II and III with printed scale values](latin-sentence-tests-a-b-i-ii-and-iii-with-printed-scale-values.md) - A set of standardized Latin sentence-translation tests with printed scale values for assessing secondary-school pupils' accuracy in translating Latin.
 * [LAUNCH](launch.md) - A Chicago Public Schools professional-development programme that recruits, prepares, and supports aspiring principals through intensified leadership knowledge, skills, and experience.

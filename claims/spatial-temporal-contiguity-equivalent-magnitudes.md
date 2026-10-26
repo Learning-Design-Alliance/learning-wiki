@@ -53,3 +53,4 @@ Moderator analysis comparing the 13 temporal contiguity effects with the 37 spat
 - [Contiguity effects show no statistically reliable difference between static and dynamic presentation of visual information](static-dynamic-presentation-no-moderation.md) — related
 - [The learning benefit of increasing integration is substantially larger for high element interactivity (complex) materials than for low element interactivity materials](element-interactivity-moderates-contiguity-effect.md) — related
 - [Contiguity effects are larger under one-on-one testing (d = .89) than under group testing (d = .65), but remain educationally significant in both](testing-format-moderates-contiguity-effect.md) — related
+- [STC associative interactions occur across intervals of hours, extending the temporal contiguity needed for association well beyond the tens of milliseconds typical of Hebbian associativity](stc-associative-interactions-extend-temporal-contiguity.md) — related

@@ -53,3 +53,4 @@ identity of being part of the global business community."
 - [Chinese ESP learners in this sample were motivated in a mixed manner, and 'certificate motivation' was not supported](mixed-motivation-certificate-not-supported.md) — related
 - [An SDT-based questionnaire yields seven distinct, reliable motivation subtypes for Chinese college ESP learners](sdt-seven-factor-esp-motivation-structure.md) — a broader claim this one bears on
 - [Children with ADHD show higher external regulation, introjected regulation and amotivation, and lower intrinsic motivation and identified regulation, toward learning than TD children](adhd-motivation-profile-sdt-dimensions.md) — related
+- [Introjected regulation is the most central node in university students' AI motivational system](introjected-regulation-central-ai-motivation.md) — related

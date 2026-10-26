@@ -75,3 +75,4 @@ Stability analysis over 10 independent K-Means++ runs with different random seed
 - [Affinity propagation clustering of gameplay attempts yielded an interpretable six-cluster solution (part.6)](affinity-propagation-six-cluster-solution.md)
 - [K-means clustering of standardized prior knowledge and final grades yields four performance profiles: Consistent Achievers, Growing Achievers, Declining Performers, and Struggling Performers](four-kmeans-achievement-trajectory-profiles.md) — related
 - [Teachers' post-workshop platform engagement fell into three behavioral profiles, with most teachers showing minimal creation and browsing](three-behavioral-engagement-profiles-ai-agent-creation.md) — related
+- [Unsupervised clustering of individual learning curves identifies seven distinct learner profiles whose proportions shift with target geometry](seven-learner-profiles-soft-dtw-clustering.md) — related

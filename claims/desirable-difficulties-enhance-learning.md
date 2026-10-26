@@ -167,3 +167,4 @@ A multilevel meta-analysis comparing interleaved with blocked presentation of it
 - [In applied settings, the beneficial effect of random practice on retention is almost negligible, as the competing meta-analysis itself reports](random-practice-retention-negligible-applied.md) — related
 - [Retrieval practice improves delayed but not immediate performance, consistent with a desirable-difficulties explanation](retrieval-practice-delayed-not-immediate-benefit.md) — related
 - [Images during retrieval practice enhanced feelings of competence but not enjoyment](images-enhance-competence-not-enjoyment.md) — related
+- [Retrieval practice boosts learning, and the testing effect generalizes to the acquisition of entirely new material (forward testing effect)](testing-effect-backward-and-forward.md) — related

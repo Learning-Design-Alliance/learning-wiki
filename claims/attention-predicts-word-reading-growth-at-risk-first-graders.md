@@ -9,6 +9,7 @@ generated:
   at: 2026-10-17
 evidence_strength: moderate
 newest_evidence: 2014
+source_checked: 2026-10-26
 sources:
   - id: miller-amanda-c-2014
     resource: "https://doi.org/10.1080/19345747.2014.906691"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
-> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2014 · checked against its sources 2026-10-26 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Pre-treatment teacher ratings of attention were a significant predictor of first-grade sight word reading growth alongside sound matching and vocabulary, while hyperactivity, phonological decoding, backward digit recall, and matrix reasoning were not. [→ Miller Amanda C. 2014](#miller-amanda-c-2014)
@@ -37,7 +38,7 @@ Miller Amanda C., Fuchs Douglas, Fuchs Lynn S., Compton Donald L., Kearns Devin,
 
 `q3 · i?` · `associational · r2`
 
-Multivariate path analysis (Mplus, FIML, bootstrapped 95% CIs with 5,000 draws) of 110 at-risk first graders who completed 20 weeks of one-on-one decoding/fluency tutoring plus classroom instruction. Attention was a significant predictor of sight word reading growth (CI = .86 to 4.42); hyperactivity and other covariates were not significant. No standardized effect size was printed.
+Multivariate path analysis (Mplus, FIML, bootstrapped 95% CIs with 5,000 draws) of at-risk first graders who received 20 weeks of one-on-one decoding/fluency tutoring plus classroom instruction (the path model was fitted on N = 124; 110 of them completed all phases through the third-grade follow-up). Attention was a significant predictor of sight word reading growth (CI = .86 to 4.42), as were pre-treatment sound matching and vocabulary; hyperactivity, pre-treatment sight word reading, phonological decoding, backward digit recall and matrix reasoning were not. The association is observational and cannot show that attention causes reading growth. Standardized betas appear only in the path diagram (Figure 2), which the text read here does not reproduce, so no magnitude is coded.
 
 > "For growth in sight word reading, the significant predictors were pre-treatment sound matching (CI = .11 to .92), attention (CI = .86 to 4.42), and vocabulary (CI = −.54 to −.06). Pre-treatment sight word reading, phonological decoding, hyperactivity, backward digit recall, and matrix reasoning were not significant predictors of first grade growth in sight word reading."
 

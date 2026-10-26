@@ -51,3 +51,4 @@ Paired t-test on the 168 students who completed pre-test, post-test, and all 11 
 - [Students demonstrated significant improvement in genetics knowledge from pre-test to post-test after playing Geniventure](geniventure-significant-pre-post-genetics-improvement.md) — related
 - [First- and second-grade students' multiple-choice understanding of particle behavior improved significantly after seven STEP mixed-reality sessions.](step-mc-prepost-gains.md) — related
 - [Students learned chemistry content from the game-based learning session, with significant pretest-to-posttest gains](learning-occurred-cosmiclean-session.md) — possibly the same claim (merge candidate)
+- [Pre-to-post gains in cooperative science learning occur for listing cell organelles (d = 0.70) but not for describing their functions](structure-gains-not-function-gains.md) — related

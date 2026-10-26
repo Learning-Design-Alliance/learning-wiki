@@ -48,3 +48,4 @@ The review's synthesis of nine studies of supporting elements (goal setting and 
 - [Goal setting combined with performance feedback showed a positive effect on reading fluency](goal-setting-plus-performance-feedback-fluency.md) — related
 - [Feedback targeting reading self-efficacy had a positive effect on motivation, while error-focused feedback and rewards had mixed effects on long-term interest and engagement](feedback-motivation-self-efficacy-positive-rewards-mixed.md) — related
 - [Performance improvements from generative AI assistance diminished once the assistance was removed](genai-performance-gains-diminish-without-assistance.md) — related
+- [Learning through feedback, especially when corrective, significantly boosts learning efficiency](corrective-feedback-boosts-learning-efficiency.md) — related

@@ -75,3 +75,4 @@ Calibration analysis comparing assigned probabilities to observed pass rates in 
 - [The model's posterior confidence estimates are conservative: over 95% of predictions the model claims 90–95% confidence in are correct](peer-grading-confidence-estimates-conservative.md) — related
 - [Models can predict best-fit majors from student records, not only pass or fail within a chosen major, enabling cross-program success questions](cross-program-major-fit-prediction.md) — related
 - [Current-submission evidence and prior traces predict near-term persistent failure with moderate discrimination under student-disjoint evaluation](persistent-failure-moderate-discrimination-student-disjoint.md) — related
+- [The scheduling model fit the experimental data well, correlating strongly with actual final-test performance (r = 0.775) with AUC = 0.871](model-fit-recall-prediction-accuracy.md) — related

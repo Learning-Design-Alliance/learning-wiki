@@ -26,7 +26,7 @@ sources:
 # Note-taking
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 19 claims (9 for, 10 mixed) · 32 studies (10 causal, 9 review, 7 quant-synthesis, 3 theoretical, 2 associational, 1 qualitative), `q1`–`q4` · 10 of 32 report an effect size · 9 claims rest on one study
+> **Evidence** · 20 claims (9 for, 11 mixed) · 33 studies (11 causal, 9 review, 7 quant-synthesis, 3 theoretical, 2 associational, 1 qualitative), `q1`–`q4` · 10 of 33 report an effect size · 10 claims rest on one study
 
 ## Conditional relationship
 
@@ -152,6 +152,7 @@ Note completeness, note accuracy, immediate performance, delayed retention, tran
 - [Better note quality and quantity relate to better memory, verbatim overlap relates negatively, and noted propositions are far more likely to be recalled](../claims/note-quality-quantity-verbatim-overlap-effects.md) [+W]
 - [Transcribed versus organised note-taking effects depend on lecture format: transcription won with audio lectures, summarising won with text](../claims/note-structure-transcribe-organise-format-dependent.md) [~W]
 - [Test format and timing moderate note-taking effects: congruent note-taking and testing modalities improved performance, and transcribed notes won only at immediate test](../claims/test-format-timing-moderate-note-taking-effects.md) [~W]
+- [Taking notes by hand is reported as superior to using laptops for learning](../claims/handwritten-notes-superior-laptop-notes.md) [~W]
 
 ## Related Principles
 - [Graphic Organizers](graphic-organizers.md) — graphic note formats can make structure and relationships more visible.

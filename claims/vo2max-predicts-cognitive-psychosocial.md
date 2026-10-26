@@ -52,3 +52,4 @@ Stepwise linear regression analyses (Table 6) on the 208-adolescent sample found
 - [VO2max is the main linear-regression predictor of attention and concentration, with strength also predictive in boys](vo2max-main-predictor-attention-concentration.md) — related
 - [Physical fitness measures correlate with selective attention and concentration in adolescents, with VO2max showing moderate correlations](fitness-correlates-attention-concentration-adolescents.md) — related
 - [Omissions, commissions and variation index of the d2 test are not related to any physical fitness variable](d2-error-measures-unrelated-to-fitness.md) — related
+- [Higher cardiorespiratory fitness is positively correlated with performance improvements under post-practice exercise, and baseline performance and symptom severity correlate with overall motor learning](fitness-and-baseline-correlates-motor-learning-pd.md) — related
