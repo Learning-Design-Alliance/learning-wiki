@@ -102,3 +102,4 @@ Theoretical argument in the same section, offered as an example with no data: th
 - [Teacher confidence strongly predicts favorable attitudes toward AI adoption, while the direct effect of support on attitudes is not significant](confidence-predicts-ai-attitudes-support-direct-effect-null.md) — a narrower finding that bears on this claim
 - [Teacher confidence fully mediates the relationship between institutional support and attitudes toward AI adoption](confidence-fully-mediate-support-attitude-relationship.md) — related
 - [A gap exists between theory and practice: teachers do not optimally apply the effective teaching principles, and teacher beliefs and contextual factors account for this gap](theory-practice-gap-teacher-beliefs-context.md) — related
+- [Expectations about the application context, not only actual experience at learning, shape generalization breadth](expectations-shape-generalization-not-only-experience.md) — related

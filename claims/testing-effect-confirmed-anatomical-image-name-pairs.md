@@ -69,3 +69,4 @@ Experiment 2, a mixed two-factor design with 124 university students (individual
 - [Across eight delayed-test comparisons, testing showed a small numerical advantage over restudy, but confidence intervals were wide and the combined effect imprecise](small-scale-meta-analysis-testing-restudy-imprecise.md) — related
 - [Retrieval practice improves long-term retention](retrieval-practice-improves-retention.md) — a broader claim this one bears on
 - [Repeated test-restudy trials produced higher final cued recall than study-only or single test-restudy controls across both experiments](test-restudy-beats-controls.md) — related
+- [Retrieval practice with feedback yields higher recall than restudy, which yields higher recall than no-feedback retrieval practice](feedback-retrieval-outperforms-restudy-and-nrp.md) — related

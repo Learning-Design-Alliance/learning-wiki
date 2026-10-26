@@ -55,3 +55,4 @@ Synthesis of 12 mindfulness intervention studies in the review (all conducted si
 - [Tools of the Mind and Montessori curricula improve children's EFs, with Tools children outperforming controls especially on more EF-demanding conditions](tools-montessori-curricula-improve-efs.md) — related
 - [Music interventions show moderately strong evidence for EF change including inhibitory control, possibly stronger with greater intensity and longevity](music-interventions-preschool-ef-efficacy.md) — related
 - [Universal self-regulation interventions improve self-regulation in children and adolescents, with a pooled effect size of d = 0.42 (95% CI, 0.32-0.53) on task performance scores.](universal-sr-interventions-improve-sr-pooled-d-042.md) — related
+- [Integrated intervention changes the network structure of EF-mathematics relations, increasing interconnectedness relative to control](network-interconnectedness-ef-math-increases-post-intervention.md) — related

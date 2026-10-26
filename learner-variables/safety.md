@@ -13,7 +13,7 @@ generated:
 # Safety
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 92 claims (65 show a difference, 18 mixed, 9 no difference) · 53 studies (19 associational, 12 review, 7 causal, 6 qualitative, 4 quant-synthesis, 4 theoretical, 1 design), `q1`–`q4` · 4 of 53 report an effect size · 92 claims rest on one study
+> **Evidence** · 99 claims (69 show a difference, 21 mixed, 9 no difference) · 54 studies (20 associational, 12 review, 7 causal, 6 qualitative, 4 quant-synthesis, 4 theoretical, 1 design), `q1`–`q4` · 5 of 54 report an effect size · 99 claims rest on one study
 
 ## Description
 Safety here means both being and feeling physically and psychologically secure in the places a learner spends time: home, school or work, the neighbourhood and the wider community. It covers violence and crime, bullying and cyberbullying, and, from adolescence on, a learner's own risk-taking behaviour such as substance use. It matters for learning because a learner who feels safe can focus on the task, while one who feels unsafe tends to miss school and take part less in class, losing learning opportunities. For adults, the LVN adds that learners who had bad experiences of school need to feel safe enough to learn again. It is measured with self-report bullying and victimisation scales, neighbourhood questionnaires and screening tools for risky behaviour. It overlaps with [adverse experiences](adverse-experiences.md), since feeling unsafe can be traumatic, and with [belonging](belonging.md).
@@ -128,6 +128,13 @@ Safety here means both being and feeling physically and psychologically secure i
 - [Cooperative learning significantly reduced victimization among marginalized middle school students](../claims/cooperative-learning-reduces-victimization-marginalized.md) [+M] — instruction changes it
 - [Defended and nondefended victims did not differ significantly in severity of victimization, self-esteem, or depressive symptoms at the end of the school year](../claims/defending-did-not-reduce-victimization-self-esteem-depression.md) [-M] — learners who differ on it differ in outcomes
 - [Victims with at least one defender at the start of the school year report higher feelings of belonging at year's end than nondefended victims, but lower belonging than nonvictims](../claims/defended-victims-higher-belonging-than-nondefended-lower-than-nonvictims.md) [+M] — learners who differ on it differ in outcomes
+- [Adolescents' online learning self-efficacy during school suspension is negatively associated with their perceived worries after school resumption, for both girls and boys](../claims/ose-negative-worries-both-sexes.md) [+M] — learners who differ on it differ in outcomes
+- [Cognitive-emotional regulation during suspension is positively associated with online learning self-efficacy for both sexes, and protects boys from cyberbullying involvement](../claims/cer-boosts-ose-protects-boys-cyi.md) [~M] — instruction changes it
+- [Cyberbullying involvement during suspension is positively associated with later worries for boys but not for girls](../claims/cyberbullying-worries-boys-only.md) [~M] — learners who differ on it differ in outcomes
+- [Girls' participation in digital socialization and entertainment during suspension lowered their online learning self-efficacy and increased cyberbullying involvement, while boys' participation showed no significant associations](../claims/girls-dse-lowers-ose-raises-cyi.md) [~M] — instruction changes it
+- [Indirect effects from emotional regulation and parent-child relationship to later worries through online learning self-efficacy are significantly stronger for girls than boys](../claims/indirect-effects-stronger-girls.md) [+W] — instruction changes it
+- [Suspension-period factors explained substantially more variance in girls' post-resumption worries (46.5%) than boys' (24.2%)](../claims/variance-explained-sex-difference.md) [+W] — instruction changes it
+- [The negative association between online learning self-efficacy and later worries is significantly stronger for girls than for boys](../claims/ose-worries-stronger-for-girls.md) [+W] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Electronic Bullying Questionnaire** (Kowalski & Limber, 2007): self-report of how often a person has been cyberbullied or has cyberbullied others.

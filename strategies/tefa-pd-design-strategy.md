@@ -50,6 +50,7 @@ The project's professional development program embeds known best practices from 
 - [Use summer programs as learning labs for teachers to practice new instructional strategies](summer-programs-as-teacher-learning-labs.md)
 - [Shift the locus of professional learning to school sites and classrooms, connected to teachers' everyday practice](site-based-pd-connected-to-everyday-practice.md)
 - [Design teacher PD on differentiation to connect to daily practice, include active learning and collaboration, and sustain implementation through coaches and principals](pd-design-features-differentiation.md)
+- [Deliver embedded EF-mathematics activities through educator professional development plus flexible weekly activity selection](educator-pd-with-flexible-integrated-ef-math-activities.md)
 
 ## Examples
 -

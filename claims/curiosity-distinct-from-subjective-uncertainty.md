@@ -56,3 +56,4 @@ Experiment 4 between-participants comparison (42 subjective-uncertainty, 56 curi
 - [Correctness Confidence linearly predicts curiosity, with higher confidence in a guess associated with greater curiosity](correctness-confidence-linearly-predicts-curiosity.md) — reports the opposite
 - [Higher confidence reduced knowledge exploration after correct answers, and high-confidence errors showed no effect on exploration](confirmed-confidence-reduces-exploration.md) — related
 - [Participants rated pre-determined high-curiosity trivia questions as more curious than pre-determined low-curiosity questions, equally across task versions](manipulation-check-curiosity-ratings.md) — related
+- [Teacher revoicing with uncertainty (T:RV) predicted student curiosity in second grade but not in third grade](revoicing-uncertainty-triggers-curiosity-grade-limited.md) — related

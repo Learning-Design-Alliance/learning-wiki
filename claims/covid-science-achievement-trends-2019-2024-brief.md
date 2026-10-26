@@ -59,3 +59,4 @@ Descriptive statement from the brief's own landing-page description: it is "the 
 - [Student-reported instructional quality declined during remote learning, most sharply in middle-grade science and academic press, and had not recovered to pre-pandemic levels by 2022-23](instructional-quality-declined-remote-learning.md) — related
 - [The brief investigated the degree to which students' reading and math test scores became more variable as a result of the COVID-19 pandemic](covid-score-variability-research-question.md) — related
 - [Reading losses resemble mathematics losses, but science effects are insignificant and reading/science results are unreliable because pre-pandemic trends were non-linear](reading-science-trend-limits.md) — related
+- [The COVID-19 switch to remote schooling was accompanied by significant declines in math and science scores on a UAE digital learning platform](covid-remote-learning-score-declines-uae-platform.md) — related

@@ -49,10 +49,11 @@ ANOVA on proportion correctly recalled trivia answers in N = 60 participants (ch
 - [Curiosity about trivia answers is a U-shaped function of confidence, supporting information-gap theory](curiosity-u-shaped-function-of-confidence.md) — related
 - [Post-answer interest enhances trivia answer memory more strongly in adolescents than in children](post-answer-interest-memory-adolescents-more-than-children.md)
 - [Curiosity enhances learning, including for incidental material encountered during high-curiosity states](curiosity-enhances-learning.md) — related
-- [Positive information prediction errors enhance memory for low-curiosity answers increasingly with age](positive-ipe-memory-low-curiosity-answers-increase-with-age.md) — related
+- [Positive information prediction errors are associated with better memory for low-curiosity answers, more strongly at older ages](positive-ipe-memory-low-curiosity-answers-increase-with-age.md) — related
 - [Children with greater curiosity-related trivia memory benefits also show greater curiosity-related incidental face memory benefits](curiosity-answer-face-memory-benefit-correlation.md) — related
 - [High-curiosity states did not enhance recognition memory for incidental face images in children or adolescents](no-curiosity-spillover-incidental-faces-children.md) — related
 - [Curiosity is a special case of interest, with the two constructs overlapping in a part-whole rather than mutually exclusive relationship](curiosity-special-case-of-interest.md) — related
 - [Memory for incidental scholastic facts is worse when the facts are paired with pre-determined high- versus low-curiosity trivia questions across three task versions](high-curiosity-trivia-pairs-worse-scholastic-memory.md) — reports the opposite
 - [Participants rated pre-determined high-curiosity trivia questions as more curious than pre-determined low-curiosity questions, equally across task versions](manipulation-check-curiosity-ratings.md) — related
 - [Scholastic memory differed between task versions, with Early Anticipation outperforming Late Anticipation but not differing from Post Satisfaction](task-version-differences-scholastic-memory.md) — related
+- [Higher curiosity is associated with better memory for the correct answer](curiosity-associated-with-better-memory.md) — possibly the same claim (merge candidate)

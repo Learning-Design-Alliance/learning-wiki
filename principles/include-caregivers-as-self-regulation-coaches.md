@@ -18,7 +18,7 @@ sources:
 # Include parents, teachers, or mentors in any self-regulation intervention and support their own skills and coaching capacity
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 18 claims (11 for, 7 mixed) · 23 studies (13 quant-synthesis, 5 review, 3 causal, 1 design, 1 theoretical), `q1`–`q4` · 9 of 23 report an effect size · 11 claims rest on one study
+> **Evidence** · 19 claims (11 for, 8 mixed) · 24 studies (13 quant-synthesis, 5 review, 3 causal, 1 associational, 1 design, 1 theoretical), `q1`–`q4` · 10 of 24 report an effect size · 12 claims rest on one study
 
 ## Conditional relationship
 
@@ -140,6 +140,7 @@ Adult knowledge, adult practice, the young person's regulation with the adult pr
 ## Claims
 
 - [Educator social-emotional competency and wellbeing contribute to warm student-teacher relationships and to trusted adults who model stress management for students](../claims/educator-wellbeing-supports-student-relationships.md) [+W]
+- [Improvement in parent-child relationships during suspension is associated with girls' greater emotional regulation and self-efficacy and less digital entertainment use, but shows no significant associations for boys](../claims/pcr-protects-girls-not-boys.md) [~W]
 
 ## Related Principles
 - [Self-Regulated Learning](self-regulated-learning.md) — owns the general relationship between teaching planning, monitoring and acting and the learner's regulation; this page adds the adults around the learner.

@@ -57,9 +57,11 @@ Movement supports cognition primarily through improved attention and executive f
 5. Schedule short movement breaks between demanding segments rather than during them; keep transitions under a minute.
 
 ## Related Strategies
+
 - [Act It Out](act_it_out.md) — the content-embedded variant: dramatizing concepts as an encoding strategy
 - [Active Learning](../principles/active-learning.md) — movement is one channel for the active engagement this principle requires
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — movement warm-ups can double as activation activities
+- [Use review evidence to make teachers critical consumers of brain-based explanations, rather than dropping neuroscience directly into practice](critical-consumers-of-brain-based-explanations.md)
 
 ## Examples
 - **[GoNoodle](https://www.gonoodle.com)** — free classroom movement-break videos used as structured transitions between instructional segments in K–5 classrooms.

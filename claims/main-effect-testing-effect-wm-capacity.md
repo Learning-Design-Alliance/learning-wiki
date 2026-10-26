@@ -53,3 +53,4 @@ Main-effect mixed-effects logistic regression model in the 30-participant experi
 - [Retrieval practice produces reliable positive effects at short delays, although some forgetting must set in so that the final test is not at ceiling](retrieval-practice-effects-occur-at-short-delays-when-final-tests-avoid-ceiling.md) — a broader claim this one bears on
 - [Retrieval Failure Reduces Benefit](retrieval-failure-reduces-benefit.md) — related
 - [The testing effect is moderated by a three-way interaction between retrieval condition, stimulus frequency, and working memory capacity](three-way-interaction-wm-frequency-testing-effect.md) — a narrower finding that bears on this claim
+- [Retrieval practice is costly and benefits learning only when working memory capacity is abundant, as stated in the corrected article's title](retrieval-practice-costly-benefits-only-abundant-wm.md) — reports the opposite

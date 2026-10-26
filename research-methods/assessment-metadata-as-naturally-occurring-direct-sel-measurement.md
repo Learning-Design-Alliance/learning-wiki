@@ -18,7 +18,7 @@ sources:
 # Assessment metadata as naturally occurring direct SEL measurement
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 3 studies (2 associational, 1 review), `q1`–`q2` · 0 of 3 report an effect size · 4 claims rest on one study
+> **Evidence** · 6 claims (5 for, 1 mixed) · 4 studies (3 associational, 1 review), `q1`–`q2` · 0 of 4 report an effect size · 6 claims rest on one study
 
 ## Description
 The article proposes that assessment metadata — data about how students behave on a test or survey, including disengagement indicators — can function as naturally occurring, direct measures of social-emotional competencies, offering an alternative to deliberately administered SEL surveys. The abstract describes the study's focus as "assessment metadata (typically data relevant to how students behave on a test or survey)" that "can provide information on SEL constructs." The framework treats behavioral traces already collected during routine testing and surveying as a new source of SEL data, and the article examines both the promise and the limitations of this approach.
@@ -26,20 +26,23 @@ The article proposes that assessment metadata — data about how students behave
 ## Accounts
 <!-- How each source describes or uses the method -->
 - **Assessment disengagement metadata as naturally occurring direct assessments of SEL competencies**: The article proposes that assessment metadata — data about how students behave on a test or survey, including disengagement indicators — can function as naturally occurring, direct measures of social-emotional competencies, offering an alternative to deliberately administered SEL surveys. The abstract describes the study's focus as "assessment metadata (typically data relevant to how students behave on a test or survey)" that "can provide information on SEL constructs." The framework treats behavioral traces already collected during routine testing and surveying as a new source of SEL data, and the article examines both the promise and the limitations of this approach. (James Soland et al. (2019))
+- **Behavioral grit measure constructed from digital-platform setback responses**: A behavioral, revealed-preference measure of grit computed from naturally occurring data on a digital learning platform. A day with a score at least 5 points below the previous week's average is defined as a "setback", and a student's "gritty response as an increase in effort" — more out-of-school assessment attempts on the following day — is coded 1; behavioral grit is the percentage of setbacks followed by increased effort, calculated separately for math and science for pre- and during-Covid windows. It captures the perseverance-of-effort facet of grit and is not prone to social desirability effects. (Chen et al. (2024))
 
 ### Claims
 - [Educators' efforts to support SEL are hampered by a lack of available, unbiased measures of related competencies](../claims/sel-measurement-lack-unbiased-measures.md) [+M]
 - [A literature review investigated whether assessment metadata can provide information on SEL constructs](../claims/literature-review-assessment-metadata-sel.md) [+M]
 - [Using item response time metadata to measure students' social-emotional learning shows both promise and limitations](../claims/response-time-metadata-sel-promise-and-limitations.md) [~W]
 - [Assessment metadata can be used to quantify the impact of test disengagement on estimates of educational effectiveness](../claims/assessment-metadata-quantify-disengagement-impact.md) [+W]
+- [Behavioral grit measured from pre-pandemic platform effort responses to setbacks predicts platform scores in math and science, especially after Covid commenced](../claims/behavioral-grit-predicts-platform-scores.md) [+M]
+- [Behavioral grit, but not survey grit, predicts academic resilience: grittier students register smaller score declines during the pandemic](../claims/behavioral-grit-predicts-academic-resilience.md) [+M]
 
 ## Related Research Methods
 -
 
 ## Key Sources
 - James Soland, Gema Zamarro, Albert Cheng, Collin Hitt. (2019). Identifying naturally occurring direct assessments of social-emotional competencies: The promise and limitations of survey and assessment disengagement metadata. Educational Researcher 48 (7). https://journals.sagepub.com/home/edr
-
 <!-- merged 2026-10-10 from theories/disengagement-metadata-sel-assessment-framework ("Assessment disengagement metadata as naturally occurring direct assessments of SEL competencies"), misfiled as a theorie and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+- Chen, D. L., Ertac, S., Evgeniou, T., Miao, X., Nadaf, A., & Yilmaz, E. (2024). Grit and academic resilience during the COVID-19 pandemic. npj Science of Learning. https://doi.org/10.1038/s41539-024-00265-3
 
 # Assessment disengagement metadata as naturally occurring direct assessments of SEL competencies
 

@@ -59,3 +59,4 @@ Nested model comparisons of linear versus quadratic MLGM fitted to MAP reading a
 - [The relation of autonomous motivation to grades is curvilinear, with grades accelerating at higher autonomous motivation](curvilinear-autonomous-motivation-grades.md) — related
 - [Math achievement growth from preschool through second grade is best characterized by a latent basis curve rather than linear, exponential, or quadratic functions](latent-basis-best-fit-math-growth.md) — related
 - [Common and exceptional problems elicit distinct speed-accuracy profiles: curvilinear for common problems versus linear for exceptional problems, converging in older and higher-achieving students](speed-accuracy-profiles-differ-by-problem-type.md) — related
+- [Behavioral learning curves in a procedural working memory task are better fit by an exponential model than a linear model across five training sessions](exponential-model-behavioral-procedural-learning-curves.md) — related

@@ -78,3 +78,4 @@ Hierarchical regression analyses of the LOGIC longitudinal sample (assessments a
 - [Among children below 80 IQ in the Providence grammar schools, only one of 220 made a mark better than C](providence-below-80-iq-marks-mostly-conditioned-or-failing.md) — a narrower finding that bears on this claim
 - [IQ scores tend to run low in communities where adults are engaged mostly in unskilled or semi-skilled labor, and apparent age- or grade-level anomalies usually have an explainable cause](iq-skew-linked-to-community-labor-context.md) — related
 - [Kindergarten counting, arithmetic, and letter-knowledge measures correlate with Grade 6 arithmetic fluency (r up to .45)](kindergarten-measures-correlate-grade6-math.md) — related
+- [Better childhood visual acuity is associated with higher GCSE scores even after adjusting for sex, age, reading skill, verbal and performance IQ, and SES](visual-acuity-gcse-association.md) — related

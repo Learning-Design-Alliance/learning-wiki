@@ -13,7 +13,7 @@ generated:
 # Practice Testing
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 71 claims (33 for, 34 mixed, 4 against) · 45 studies (26 causal, 7 review, 6 quant-synthesis, 3 associational, 2 qualitative, 1 theoretical), `q1`–`q4` · 18 of 45 report an effect size · 67 claims rest on one study
+> **Evidence** · 73 claims (33 for, 36 mixed, 4 against) · 46 studies (27 causal, 7 review, 6 quant-synthesis, 3 associational, 2 qualitative, 1 theoretical), `q1`–`q4` · 19 of 46 report an effect size · 69 claims rest on one study
 
 ## Description
 Practice testing (retrieval practice) asks learners to recall or apply information from memory — via low- or no-stakes quizzes, flashcards, free recall, or problem-solving — before or instead of restudying. The act of successful retrieval itself strengthens memory and reveals gaps, making testing a learning event rather than merely an assessment event.
@@ -122,6 +122,8 @@ Retrieval practice produces substantially larger and more durable learning gains
 - [In School B the practised group outscored the non-practised group in final reasoning tests, but the author judged the gain unsafe evidence of transfer](../claims/winch-1910-school-b-small-reasoning-advantage.md) [~W]
 - [Daily practice over three weeks reduces the first-minute advantage, with first-minute accomplishment sometimes falling below later minutes](../claims/extended-practice-reduces-initial-spurt.md) [~W]
 - [The relationship between OET and final-test recall followed a skewed inverted-U, with performance predicted to decrease as OET approaches 1](../claims/inverted-u-oet-recall.md) [~W]
+- [Retrieval practice with feedback yields higher recall than restudy, which yields higher recall than no-feedback retrieval practice](../claims/feedback-retrieval-outperforms-restudy-and-nrp.md) [~W]
+- [Exploratory analysis finds moderate-magnitude correlation between central fast spindle density and retention of no-feedback retrieval-practice items](../claims/fast-spindle-density-correlates-nrp-retention.md) [~W]
 
 ## The evidence by question
 - *Does retrieving material (quizzes, practice tests, recall) improve later retention more than restudying it?* [Retrieval practice improves long-term retention](../claims/retrieval-practice-improves-retention.md) [+S]

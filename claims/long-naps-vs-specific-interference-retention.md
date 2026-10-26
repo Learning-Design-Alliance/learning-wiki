@@ -48,3 +48,4 @@ Pairwise Wilcoxon Ranksum comparison (Bonferroni corrected) in the same 24-stude
 - [Long post-class naps (>30 min) improve retention of curricular content versus waking with non-specific interference (a break)](long-post-class-naps-improve-retention-vs-break.md) — related
 - [Retention did not differ between contents tested 3 versus 4 days after learning](retention-similar-3-vs-4-days.md) — related
 - [Short post-class naps (<30 min) show no significant retention benefit](short-naps-no-retention-benefit.md) — related
+- [A short pre-lesson nap improves immediate memory encoding of a biology lesson in high-school students](short-pre-lesson-nap-improves-encoding.md) — related

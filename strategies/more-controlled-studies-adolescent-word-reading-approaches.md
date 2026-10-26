@@ -44,7 +44,8 @@ The article's forward-looking research recommendation is that "More controlled g
 - [Word-reading interventions yield significant positive effects on adolescent literacy outcomes overall (g = 0.30)](../claims/word-reading-interventions-significant-adolescent-literacy-g030.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Strategies for progressing evidence integration: research lesser-studied areas and populations, replicate intervention evaluations, and establish educator-researcher partnerships](evidence-integration-progress-strategies.md)
 
 ## Examples
 -

@@ -51,3 +51,4 @@ Second-stage TSSEM on three just-identified observable reading models. The compr
 - [SES longitudinally predicts later reading (r = 0.24), and phonological awareness and vocabulary jointly explain about 45% of that association](longitudinal-ses-predicts-reading-linguistic-skills-explain-variance.md) — related
 - [Age moderates the vocabulary-to-reading paths (effects increase with age) but not the fluency model or any SES paths](age-moderates-vocabulary-reading-paths-not-ses-paths.md) — related
 - [Older readers showed a stronger indirect effect of MA on reading comprehension via vocabulary knowledge, with a converse pattern via word reading](age-grade-moderates-indirect-effects.md) — related
+- [Phonological awareness and rapid bimodal temporal processing partially mediate the Reading-PGS-to-reading association](pa-rbtp-mediate-reading-pgs-reading-skills.md) — related

@@ -48,7 +48,8 @@ The article proposes that its EEG and eye-tracking regression models, once valid
 - [No significant correlation between simulator performance and self-reported mental workload (SURG-TLX)](../claims/no-correlation-performance-mental-workload-surg-tlx.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Use EEG-based real-time monitoring to inform personalized educational interventions](eeg-based-real-time-personalized-interventions.md)
 
 ## Examples
 -

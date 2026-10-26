@@ -42,6 +42,7 @@ The article proposes a three-step AI collaboration protocol: seed the context (s
 - [Use the DOT Framework's Empathize and Test/Feedback stages as practical checklists, and build professional learning communities around shared prompting and critique practices](dot-empathize-test-checklist-plc-strategy.md)
 - [Run a pre-class Scout ritual: identify 2-3 cognitive-emotional bottlenecks, prepare 1-2 interventions each, and anticipate logistical failures](pre-class-scout-ritual-proactive-emotional-scaffolding.md)
 - [Educators gamify learning materials or create learning games using generative AI with iterative, phased prompting](gamifying-learning-materials-with-generative-ai.md)
+- [Use prompt-based LLM simulation and reflection via a web interface as a pre-class rehearsal for teaching plan refinement](prompt-based-web-interface-plan-enhancement.md)
 
 ## Examples
 -

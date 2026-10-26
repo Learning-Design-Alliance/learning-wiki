@@ -13,7 +13,7 @@ generated:
 # Long-Term Memory
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 126 claims (80 show a difference, 26 mixed, 20 no difference) · 79 studies (33 causal, 19 review, 13 quant-synthesis, 7 theoretical, 5 associational, 2 qualitative), `q1`–`q4` · 27 of 79 report an effect size · 119 claims rest on one study
+> **Evidence** · 137 claims (86 show a difference, 29 mixed, 22 no difference) · 84 studies (36 causal, 20 review, 13 quant-synthesis, 8 theoretical, 5 associational, 2 qualitative), `q1`–`q4` · 31 of 84 report an effect size · 129 claims rest on one study
 
 ## Description
 Long-term memory holds information, such as words, facts, events, concepts and procedures, so that it can be retrieved and used later, over spans from hours to decades, and in principle indefinitely. Skills and knowledge get there through repeated practice and use, and stay accessible while they continue to be used. It matters for learning because what is stored there is the base for everything that follows: the [prior knowledge](prior-knowledge.md) and vocabulary that support reading and writing, and the arithmetic facts and procedures that free a learner to work on new mathematics problems. It develops through childhood and adolescence as the brain systems supporting it mature, and older learners lean more on memory-based strategies, for example in mathematics. It is measured with standardised memory batteries that ask learners to recall stories, lists or figures after a delay. It is distinct from [working memory](working-memory.md), which holds information briefly while it is being used; rehearsal and use move material from one to the other.
@@ -161,6 +161,17 @@ Long-term memory holds information, such as words, facts, events, concepts and p
 - [Short post-class naps (<30 min) show no significant retention benefit](../claims/short-naps-no-retention-benefit.md) [-M] — instruction changes it
 - [The overall main effect of prediction error on recognition memory, independent of prediction outcome, is not significant](../claims/overall-pe-main-effect-null.md) [-M] — instruction changes it
 - [Even a substantially increased declarative-load intervening task placed late in training does not impair the post-rest gain (Experiment 2)](../claims/increased-declarative-load-late-no-impairment-experiment-2.md) [-W] — instruction changes it
+- [Closed-loop TMR timed to the slow-oscillation up-state improves memory consolidation relative to down-state cueing, though direct up-vs-down comparisons yield mixed results](../claims/closed-loop-tmr-so-up-state-timing.md) [~M] — instruction changes it
+- [Exploratory analysis finds moderate-magnitude correlation between fast spindle-slow oscillation coupling strength and retention of no-feedback retrieval-practice items](../claims/fast-spindle-so-coupling-correlates-nrp-retention.md) [+M] — instruction changes it
+- [In the corrected model, testing imposes an extra working-memory cost that does not strengthen the episode node, unlike consumed resources that do](../claims/extra-cost-of-test-without-strengthening.md) [-W] — instruction changes it
+- [Nap benefits for no-feedback retrieval-practice items appear at both 90-minute immediate and 24-hour delayed tests](../claims/nap-benefit-nrp-immediate-and-delayed.md) [+M] — instruction changes it
+- [Odor TMR applied in regular school settings improves vocabulary and history memory with large effect sizes](../claims/odor-tmr-school-settings.md) [+M] — instruction changes it
+- [Performance improvements during early motor skill learning occur predominantly during short rest periods (micro-offline gains), replicated in a large crowdsourced sample and in a laboratory study](../claims/micro-offline-gains-replicated-crowdsourced.md) [+S] — instruction changes it
+- [Retroactive interference immediately after practice reduces the learning rate relative to interference after 10 s of rest, indicating within-seconds memory stabilization](../claims/microscale-stabilization-early-versus-late-interference.md) [+M] — instruction changes it
+- [Sleep stage duration and architecture show no significant correlation with memory change in this nap paradigm](../claims/sleep-stage-architecture-no-memory-correlation.md) [-M] — instruction changes it
+- [TMR can be used to selectively weaken or promote forgetting of specific memories during sleep](../claims/tmr-promotes-selective-forgetting.md) [~M] — instruction changes it
+- [TMR effects on procedural motor memory emerge over weeks rather than at 24 hours](../claims/tmr-procedural-long-term-weeks.md) [+M] — instruction changes it
+- [TMR enhances declarative memory after one night of sleep across paradigms, though some recent studies did not replicate the effect](../claims/tmr-enhances-declarative-memory.md) [~M] — instruction changes it
 
 ## Measures
 - **Wechsler Memory Scale (WMS)** (Wechsler, 2010): its logical memory subtest asks for details of a story heard once, as a measure of declarative memory.

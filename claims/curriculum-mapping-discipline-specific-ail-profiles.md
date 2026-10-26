@@ -51,3 +51,4 @@ Qualitative expert-led curriculum mapping (collaborative profiling sessions) wit
 - [AI literacy requires discipline-specific calibration beyond prompt-writing skills](ai-literacy-discipline-specific-calibration.md) — a broader claim this one bears on
 - [Industrial arts teacher education must foster understanding of both the technical and the human sides of enterprise](industrial-arts-teacher-education-technical-and-human-sides.md) — related
 - [AIL is delineated from related literacies: it extends Data, Media and Computational Literacy with human-AI interaction and ethical reasoning about autonomous systems](ail-delineation-from-related-literacies.md) — related
+- [Two or more semesters of AP art workshops significantly raised the graphical TTCT 13-forces creativity score in a doubly robust regression, but not total TTCT scores](ap-creativity-ttct-improvements.md) — related

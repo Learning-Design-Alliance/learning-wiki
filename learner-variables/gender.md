@@ -13,7 +13,7 @@ generated:
 # Gender
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 285 claims (172 show a difference, 67 mixed, 46 no difference) · 198 studies (130 associational, 31 causal, 14 quant-synthesis, 9 review, 5 qualitative, 5 theoretical, 4 design), `q1`–`q4` · 34 of 198 report an effect size · 277 claims rest on one study
+> **Evidence** · 297 claims (181 show a difference, 67 mixed, 49 no difference) · 201 studies (132 associational, 32 causal, 14 quant-synthesis, 9 review, 5 qualitative, 5 theoretical, 4 design), `q1`–`q4` · 36 of 201 report an effect size · 289 claims rest on one study
 
 ## How to read this page
 
@@ -324,6 +324,18 @@ Gender is recorded in most education studies, usually as a binary category taken
 - [Boys and girls show no significant gender difference on the Give-N task of cardinal number knowledge, though statistical equivalence was not established](../claims/no-significant-gender-difference-give-n-cardinal-knowledge.md) [-M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [No gender × question-type interaction and no gender main effect on TEMA-3 formal vs. informal math items](../claims/no-gender-question-type-interaction-formal-informal-math.md) [-M] — an instructional effect differs by group
 - [Sociocultural factors including stereotype threat, teacher interactions, and parental perceptions are discussed as likely sources of later-emerging gender differences in math](../claims/sociocultural-sources-of-gender-differences-in-math.md) [~W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Change in anxiety across the semester is negatively correlated with course grade and GPA for male students but not female students](../claims/anxiety-change-performance-correlation-males.md) [+M] — an instructional effect differs by group
+- [Cognitive-emotional regulation during suspension is positively associated with online learning self-efficacy for both sexes, and protects boys from cyberbullying involvement](../claims/cer-boosts-ose-protects-boys-cyi.md) [+M] — an instructional effect differs by group
+- [Cyberbullying involvement during suspension is positively associated with later worries for boys but not for girls](../claims/cyberbullying-worries-boys-only.md) [+M] — an instructional effect differs by group
+- [Female undergraduate physics students report higher science, spatial, math, and clinical anxiety than male students at both pre- and post-instruction](../claims/sex-differences-stem-anxiety-physics-students.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Longitudinal change in spatial anxiety tracks declining SN–CEN connectivity in female students, while change in math anxiety tracks declining SN–CEN connectivity in male students](../claims/anxiety-change-sn-cen-connectivity-sex-specific.md) [+M] — an instructional effect differs by group
+- [Male physics students show significant anxiety–tripartite-network connectivity correlations at pre- and post-instruction, while female students show none](../claims/male-specific-anxiety-network-connectivity.md) [+M] — an instructional effect differs by group
+- [No significant sex differences in incoming GPA or physics course grade despite sex differences in anxiety](../claims/no-sex-difference-gpa-physics-grade.md) [-M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Post-instruction math anxiety mediates the relation between DMN–SN connectivity and physics course grade in male students](../claims/math-anxiety-mediates-dmn-sn-grade-males.md) [+M] — an instructional effect differs by group
+- [Science anxiety increased significantly over the semester for both female and male physics students, with no sex-by-time interaction on any anxiety measure](../claims/science-anxiety-increases-both-sexes-semester.md) [-M] — an instructional effect differs by group
+- [Suspension-period factors explained substantially more variance in girls' post-resumption worries (46.5%) than boys' (24.2%)](../claims/variance-explained-sex-difference.md) [+M] — an instructional effect differs by group
+- [The nap effect on encoding is consistent across male and female students, with a significant main effect of group](../claims/nap-effect-consistent-across-sexes.md) [-M] — an instructional effect differs by group
+- [The negative association between online learning self-efficacy and later worries is significantly stronger for girls than for boys](../claims/ose-worries-stronger-for-girls.md) [+M] — an instructional effect differs by group
 
 ## The evidence by question
 - *Do girls and boys differ in mathematics and reading achievement, by how much, and where in the distribution?* [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](../claims/pisa-sex-differences-math-small-reading-three-times-larger.md) [+M]

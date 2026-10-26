@@ -41,6 +41,7 @@ The paper concludes with five recommendations: "Foster Collaboration" between re
 - [Move from extractive research toward research-practice partnerships, practitioner-facing outputs, and transparent privacy documentation](research-with-not-on-dlp-strategy.md)
 - [Integrate PETs at every stage of the research lifecycle](integrate-pets-across-research-lifecycle.md)
 - [Plan an extended feasibility phase in which research and platform teams jointly refine design, implementation, and logistics](extended-feasibility-phase-dlp-research.md)
+- [Strategies for progressing evidence integration: research lesser-studied areas and populations, replicate intervention evaluations, and establish educator-researcher partnerships](evidence-integration-progress-strategies.md)
 
 ## Examples
 -

@@ -17,7 +17,7 @@ sources:
 # Information Processing Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 123 claims (66 for, 56 mixed, 1 against) · 78 studies (31 causal, 25 associational, 13 review, 4 quant-synthesis, 4 theoretical, 1 design), `q1`–`q4` · 16 of 78 report an effect size · 120 claims rest on one study
+> **Evidence** · 124 claims (66 for, 57 mixed, 1 against) · 79 studies (32 causal, 25 associational, 13 review, 4 quant-synthesis, 4 theoretical, 1 design), `q1`–`q4` · 17 of 79 report an effect size · 121 claims rest on one study
 
 ## Description
 Information Processing Theory treats learning as the movement and transformation of information through attention, working memory, encoding, storage, and retrieval. In broad terms, the theory asks what learners notice, how much they can actively process at once, how they organize new information, and how it becomes retrievable later.
@@ -186,6 +186,7 @@ Information processing models are often criticized as overly linear and serial, 
 - [A modified SAC simulation with a dual-process account replicated the critical three-way interaction, including the absence of a testing effect for low-WM participants on LF associations](../claims/sac-simulation-replicates-three-way-interaction.md) [+W]
 - [Working memory capacity is not solely determined by item complexity: the relationship is non-linear](../claims/wm-capacity-not-solely-determined-by-complexity.md) [+W] — attached 2026-10-26 from Wuji Lin et al. (2024), which proposed "Integration-before-storage account of visual working memory capacity".
 - [The complexity effect on working memory capacity is not due to insufficient encoding time](../claims/wm-complexity-effect-not-encoding-time.md) [+W]
+- [Retroactive interference immediately after practice reduces the learning rate relative to interference after 10 s of rest, indicating within-seconds memory stabilization](../claims/microscale-stabilization-early-versus-late-interference.md) [~W] — attached 2026-10-26 from Marlene Bönstrup et al. (2020), which proposed "Micro-offline gains as rapid within-seconds consolidation extending memory consolidation to a timescale of seconds"; tests this page's relationship.
 
 ## The evidence by question
 - *How large should a unit be, and does grouping static material help?* [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [+S]

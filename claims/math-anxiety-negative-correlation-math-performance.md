@@ -56,3 +56,4 @@ Random-effects meta-analysis of 169 independent samples from 121 studies on the 
 - [Math anxiety correlates negatively with math achievement, grades, enjoyment, motivation, and amount of math taken](math-anxiety-negative-correlations-achievement.md) — related
 - [Mathematics achievement correlates more strongly with learners' knowledge, skills and cognitive abilities than with their personality traits, goals or emotions](math-achievement-relates-more-to-knowledge-and-abilities-than-personality.md) — a broader claim this one bears on
 - [Test anxiety correlates negatively with math achievement at a pooled r = −.23, weaker than math anxiety's correlation](test-anxiety-negative-correlation-math-achievement.md) — related
+- [Math avoidance motivation is independent of actual math performance, with subjective estimation of task difficulty the primary influencing factor](avoidance-independent-of-actual-math-performance.md) — reports the opposite

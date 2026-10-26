@@ -52,3 +52,4 @@ Regression analysis of all comparable PISA rounds for 72 countries modeling the 
 - [The pandemic strengthened the link between socioeconomic status and mathematics scores, but only in countries with closures shorter than 22 weeks](escs-slope-increase-short-closures.md) — related
 - [COVID-19-related school closures in spring 2020 had a negative overall effect on student achievement (median −0.08 SD across eleven studies)](covid-school-closures-negative-achievement-effect.md) — a broader claim this one bears on
 - [Each week of full school closure is associated with an additional 0.44-point decline in mathematics achievement](weekly-closure-0-44-point-decline.md) — related
+- [The COVID-19 switch to remote schooling was accompanied by significant declines in math and science scores on a UAE digital learning platform](covid-remote-learning-score-declines-uae-platform.md) — related

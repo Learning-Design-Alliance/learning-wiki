@@ -9,6 +9,7 @@ generated:
   at: 2026-10-21
 evidence_strength: weak
 newest_evidence: 2019
+source_checked: 2026-10-26
 sources:
   - id: shin-2019
     resource: "https://doi.org/10.1007/s10648-019-09497-x"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2019 · checked against its sources 2026-10-26 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The review argues that repeated cycles of curiosity resolution construct elaborative knowledge and value, potentially developing into individual interest. [→ Shin 2019](#shin-2019)
@@ -53,3 +54,5 @@ Narrative review argument: successful resolution enhances satisfaction and expec
 - [Partial resolution of curiosity through immediate feedback increases subsequent curiosity](immediate-feedback-partial-resolution-increases-curiosity.md) — related
 - [Situational and individual interest can be interpreted as phases of the same reward-learning knowledge-acquisition process](situational-individual-interest-reward-learning-phases.md) — related
 - [Trait-level constructs such as novelty seeking, need for cognition, and vocational interests can be modeled as generalized reward values of knowledge formed through reward-learning generalization](trait-curiosity-generalized-reward-value.md) — a broader claim this one bears on
+- [Student curiosity is self- and other-sustaining, forming social chains of curiosity in elementary Knowledge Building classrooms](curiosity-chains-self-other-sustaining-kb.md) — related
+- [Non-scaffolding teacher utterances offering affirmation and positive feedback (T:NS) trigger student curiosity](non-scaffolding-affirming-utterances-trigger-curiosity.md) — related

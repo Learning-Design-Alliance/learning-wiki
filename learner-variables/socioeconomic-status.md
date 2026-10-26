@@ -13,7 +13,7 @@ generated:
 # Socioeconomic Status
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 138 claims (83 show a difference, 35 mixed, 20 no difference) · 108 studies (61 associational, 21 causal, 13 review, 8 quant-synthesis, 3 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 9 of 108 report an effect size · 137 claims rest on one study
+> **Evidence** · 139 claims (84 show a difference, 35 mixed, 20 no difference) · 109 studies (61 associational, 22 causal, 13 review, 8 quant-synthesis, 3 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 10 of 109 report an effect size · 138 claims rest on one study
 
 ## How to read this page
 
@@ -223,6 +223,7 @@ A learner's economic and social position: family income or poverty (often measur
 - [The pandemic's adverse effects on track recommendation and seventh-grade enrollment were largest for socioeconomically disadvantaged students, enlarging existing inequalities](../claims/pandemic-tracking-effects-largest-disadvantaged.md) [+M] — an instructional effect differs by group
 - [Average educational achievement at age 12 increases with parental SES in the Netherlands](../claims/dutch-twin-ea-increases-with-parental-ses.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [SES differences in educational achievement persist after accounting for polygenic score differences between children](../claims/ses-ea-differences-persist-after-pgs-adjustment.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Economic disadvantage is associated with lower performance on most early numeracy and EF measures](../claims/eypp-eligibility-lower-ef-and-numeracy-scores.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## The evidence by question
 - *Does family income predict achievement and attainment, how large are the gaps, and when do they open?* [School test score averages are strongly related to the income of the families a school serves](../claims/school-test-scores-strongly-related-to-family-income.md) [+M]

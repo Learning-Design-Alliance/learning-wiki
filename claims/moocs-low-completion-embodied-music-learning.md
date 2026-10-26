@@ -67,3 +67,4 @@ The article's review of online platforms reports MOOC "completion rates are noto
 - [Median student engagement with MOOC videos falls sharply as video length increases beyond 6 minutes](video-length-mooc-engagement-declines.md) — related
 - [MOOCs failed to deliver on their proponents' promises of transforming higher education](moocs-failed-to-deliver-on-promises.md) — a broader claim this one bears on
 - [Viewing of the personalized AI videos declined sharply across the quarter, with views of the first week-9 video set suggesting fewer than 10% of the course population was watching voluntarily by the end of the course](video-views-declined-across-quarter.md) — a narrower finding that bears on this claim
+- [The UDMOOC reaches a learner demographic unlike typical MOOC cohorts, with a 42% completion rate](udmooc-reaches-underserved-demographics-42-percent-completion.md) — a narrower finding that bears on this claim

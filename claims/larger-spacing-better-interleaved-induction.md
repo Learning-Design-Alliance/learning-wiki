@@ -59,3 +59,4 @@ Experiment with 53 UCLA undergraduates studying 16 butterfly species, all interl
 - Verbal learning tasks with intervals filled with other to-be-learned items test the discriminative-contrast hypothesis rather than the spacing effect — related
 - [Interleaving is more effective for materials with a low degree of discriminability](interleaving-effectiveness-low-discriminability.md) — related
 - [Interleaved practice yields better category learning than blocked practice, and students who choose interleaved practice outperform those who choose blocked practice on novel materials](interleaving-effect-category-learning-paintings.md) — related
+- [A larger expected temporal distance between learning and application increases learners' expected variability of the application context](temporal-distance-increases-expected-variability.md) — related

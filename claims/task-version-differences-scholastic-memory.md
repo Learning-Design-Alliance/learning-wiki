@@ -47,6 +47,6 @@ Generalized mixed model across the three task versions of the online experiment.
 ## Related Claims
 - [Memory for incidental scholastic facts is worse when the facts are paired with pre-determined high- versus low-curiosity trivia questions across three task versions](high-curiosity-trivia-pairs-worse-scholastic-memory.md) — related
 - [Participants rated pre-determined high-curiosity trivia questions as more curious than pre-determined low-curiosity questions, equally across task versions](manipulation-check-curiosity-ratings.md) — related
-- [Positive information prediction errors enhance memory for low-curiosity answers increasingly with age](positive-ipe-memory-low-curiosity-answers-increase-with-age.md) — related
+- [Positive information prediction errors are associated with better memory for low-curiosity answers, more strongly at older ages](positive-ipe-memory-low-curiosity-answers-increase-with-age.md) — related
 - [High-curiosity states did not enhance recognition memory for incidental face images in children or adolescents](no-curiosity-spillover-incidental-faces-children.md) — related
 - [States of high pre-answer curiosity enhance memory for trivia answers similarly in children and adolescents](curiosity-enhances-trivia-memory-children-adolescents.md) — related

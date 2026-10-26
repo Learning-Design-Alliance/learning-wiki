@@ -52,3 +52,4 @@ Chi-square and binomial logistic regression on students' convincingness choice i
 - [Watching the sourcing instructional video unexpectedly lowered students' trustworthiness ratings of the interviewees](instructional-video-lowered-trustworthiness-ratings.md) — related
 - [Combining the instructional video with embedded rating scales yielded the highest immediate recognition, but the advantage faded by delayed posttest](combined-prompts-immediate-recognition-advantage-fades.md) — related
 - [Learners are more willing to act on feedback when they perceive the sender as credible and trustworthy](sender-credibility-supports-feedback-use.md) — related
+- [Watching the video improved children's ability to detect real car-engine experts, with the advantage widening with age](video-improves-expert-detection-age-interaction.md) — related

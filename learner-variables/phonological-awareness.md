@@ -13,7 +13,7 @@ generated:
 # Phonological Awareness
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 88 claims (54 show a difference, 15 mixed, 19 no difference) · 55 studies (23 associational, 18 causal, 7 quant-synthesis, 4 review, 2 design, 1 theoretical), `q1`–`q3` · 16 of 55 report an effect size · 86 claims rest on one study
+> **Evidence** · 91 claims (56 show a difference, 15 mixed, 20 no difference) · 56 studies (24 associational, 18 causal, 7 quant-synthesis, 4 review, 2 design, 1 theoretical), `q1`–`q3` · 17 of 56 report an effect size · 89 claims rest on one study
 
 ## Description
 Phonological awareness is the ability to hear and manipulate the sound structure of spoken words: recognising rhymes, splitting words into syllables and individual sounds (phonemes), and blending sounds into words. The broader term phonological processing, which this page also covers, includes detecting and handling speech sounds rapidly in both spoken and written words and holding sound information briefly in memory. These skills are measured with tasks such as rhyming, blending (combining separate sounds into a word), elision (saying what remains when a sound is removed) and phoneme manipulation.
@@ -129,6 +129,9 @@ It sits within the wiki's broader [reading and language](reading-and-language.md
 - [Phonological predictors (phonological awareness and number of phonological competitors) add unique variance to SfV item performance beyond general predictors](../claims/sfv-phonological-predictors-add-unique-variance.md) [+M] — learners who differ on it differ in outcomes
 - [Set for Variability performance is strongly correlated with word identification, word attack, phonological awareness, and vocabulary in grades 2–5](../claims/sfv-strongly-correlated-word-reading-decoding-phonemic-awareness-vocabulary.md) [+M] — learners who differ on it differ in outcomes
 - [Phonological decoding is at the core of learning to read words in alphabetic languages, and children do not learn to read words by contextual guessing](../claims/phonological-decoding-core-of-reading.md) [+M] — learners who differ on it differ in outcomes
+- [Phonological awareness and rapid bimodal temporal processing partially mediate the Reading-PGS-to-reading association](../claims/pa-rbtp-mediate-reading-pgs-reading-skills.md) [-M] — learners who differ on it differ in outcomes
+- [Reading-PGS is modestly but significantly associated with phonological awareness, rapid bimodal temporal processing, decoding and comprehension in 8-year-old twins](../claims/reading-pgs-modest-associations-reading-endophenotypes.md) [+M] — learners who differ on it differ in outcomes
+- [Serial mediation supports a sequence from Reading-PGS through rapid bimodal temporal processing and phonological awareness to decoding and comprehension](../claims/serial-mediation-rbtp-pa-decoding-comprehension.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **The Phonological Awareness Test 2 (PAT 2)** (Robertson & Salter, 2007): covers rhyming and detecting and manipulating phonemes, ages 5 to 9.

@@ -79,3 +79,4 @@ This systematic review summarises one of its included studies, Mendelson et al. 
 - [School meditation studies show significant improvements on several cognitive functioning measures, though effects vary by measure and study](meditation-improves-cognitive-functioning-measures.md) — related
 - [School-based mindfulness interventions produce small-to-moderate significant pre-post improvements in youth mental health and well-being compared to control groups](school-mindfulness-small-moderate-effect-youth-mental-health.md) — related
 - [Some social-emotional and cognitive-behavioural initiatives showed no effect or a negative effect on educator wellbeing](some-initiatives-no-or-negative-effect.md) — related
+- [A universal school mindfulness intervention (MYRIAD trial) was ineffective for most students and detrimental for those with pre-existing higher internalising symptoms](myriad-mindfulness-null-and-harmful-subgroup.md) — related

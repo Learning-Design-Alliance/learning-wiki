@@ -47,3 +47,5 @@ Between-family analysis of PGS means across four SES groups in 2335 children wit
 ## Related Claims
 - [The strength of the association between polygenic score and educational achievement does not differ across SES groups](pgs-ea-association-not-moderated-by-ses.md) — related
 - [SES differences in educational achievement persist after accounting for polygenic score differences between children](ses-ea-differences-persist-after-pgs-adjustment.md) — related
+- [Educational attainment polygenic scores are positively associated with childhood visual acuity, while myopia polygenic scores show a negative association](ea-pgs-positive-childhood-visual-acuity.md) — related
+- [Students in state non-selective schools have lower EduYears polygenic scores than students in grammar (d = 0.41) and private (d = 0.37) schools, with no significant difference between grammar and private schools](lower-eduyears-gps-in-non-selective-schools.md) — related

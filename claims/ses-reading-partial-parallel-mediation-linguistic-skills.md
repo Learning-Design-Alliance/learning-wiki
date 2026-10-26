@@ -57,3 +57,4 @@ Two-stage MASEM (TSSEM) of the latent reading model (k = 458 independent samples
 - [Age moderates the vocabulary-to-reading paths (effects increase with age) but not the fluency model or any SES paths](age-moderates-vocabulary-reading-paths-not-ses-paths.md) — related
 - [Composite SES indices predict phonological awareness more strongly than single SES indicators](composite-ses-index-stronger-predictor-phonological-awareness.md) — related
 - [SES is indirectly associated with listening comprehension through vocabulary, and has a significant total indirect effect on RCR](ses-indirect-vocabulary-lc-rcr.md) — related
+- [Phonological awareness and rapid bimodal temporal processing partially mediate the Reading-PGS-to-reading association](pa-rbtp-mediate-reading-pgs-reading-skills.md) — related

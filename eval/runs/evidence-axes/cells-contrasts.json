@@ -43390,5 +43390,117 @@
  "technology-tool\tAI-driven intelligent tutoring system\ttraditional or usual teaching": {
   "label": "AI-driven intelligent tutoring system vs traditional or usual teaching",
   "treatment_is_a": true
+ },
+ "explicit-instruction\t7-minute mechanistic engine video, tested immediately\tno-video control": {
+  "label": "explicit instruction vs no explicit instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\t7-minute mechanistic engine video, tested one week later\tno-video control": {
+  "label": "explicit instruction vs no explicit instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\thigh expected variability between and within sets\tlow expected variability between and within sets": {
+  "label": "high variability vs low variability",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tmechanistic car-engine video\tno-video control": {
+  "label": "explicit instruction vs no explicit instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tmechanistic engine video\tno video control": {
+  "label": "explicit instruction vs no explicit instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tmechanistic engine video\tno-video control": {
+  "label": "explicit instruction vs no explicit instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tmechanistic engine video, delayed test\tno-video control": {
+  "label": "explicit instruction vs no explicit instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tmechanistic engine video, immediate test\tno-video control": {
+  "label": "explicit instruction vs no explicit instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tmechanistic video exposure\tcontrol without video exposure": {
+  "label": "explicit instruction vs no explicit instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tviewed engine video, tested immediately\tno-video control": {
+  "label": "explicit instruction vs no explicit instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tviewed engine video, tested one week later\tno-video control": {
+  "label": "explicit instruction vs no explicit instruction",
+  "treatment_is_a": true
+ },
+ "feedback-timing\t5-s delayed feedback\timmediate feedback": {
+  "label": "immediate vs delayed feedback",
+  "treatment_is_a": false
+ },
+ "feedback-timing\t5-second delayed feedback\timmediate feedback": {
+  "label": "immediate vs delayed feedback",
+  "treatment_is_a": false
+ },
+ "feedback-timing\timmediate feedback\t5-second delayed feedback": {
+  "label": "immediate vs delayed feedback",
+  "treatment_is_a": true
+ },
+ "practice-amount\t5 s practice periods\t10 s practice periods": {
+  "label": "longer vs shorter practice periods",
+  "treatment_is_a": false
+ },
+ "practice-amount\trepeated training across five fMRI sessions\tinitial session": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\trepeated training across five sessions\tearlier session with less training": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\trepeated training across five sessions\tinitial session": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\trepeated training across five sessions\tinitial session or less practice": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\ttrained harder trajectory\tuntrained easier trajectory": {
+  "label": "trained vs untrained",
+  "treatment_is_a": true
+ },
+ "practice-amount\ttrained trajectory\tuntrained trajectory": {
+  "label": "trained vs untrained",
+  "treatment_is_a": true
+ },
+ "prompts\tstrategic mindset intervention\tcontrol condition": {
+  "label": "strategic mindset intervention vs control condition",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\trestudy\tretrieval practice without feedback": {
+  "label": "retrieval practice without feedback vs restudy",
+  "treatment_is_a": false
+ },
+ "retrieval-practice\tretrieval practice with abundant working-memory capacity\trestudy with abundant working-memory capacity": {
+  "label": "retrieval practice vs restudy",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tretrieval practice with feedback\trestudy": {
+  "label": "retrieval practice with feedback vs restudy",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tretrieval practice with feedback\tretrieval practice without feedback": {
+  "label": "retrieval practice with feedback vs retrieval practice without feedback",
+  "treatment_is_a": true
+ },
+ "simulation\tGPT-4 simulation, reflection, and one-round teaching-plan refinement (Dataset D)\toriginal GPT-4 teaching plans (Dataset A)": {
+  "label": "simulation vs no simulation",
+  "treatment_is_a": true
+ },
+ "simulation\tGPT-4 simulation, reflection, and two-round teaching-plan refinement (Dataset E)\toriginal GPT-4 teaching plans (Dataset A)": {
+  "label": "simulation vs no simulation",
+  "treatment_is_a": true
  }
 }

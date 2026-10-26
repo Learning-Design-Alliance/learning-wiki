@@ -23,7 +23,7 @@ sources:
 # Evidence-Based Teaching and Scientific Reasoning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 41 claims (22 for, 17 mixed, 2 against) · 40 studies (10 review, 9 theoretical, 8 causal, 7 associational, 3 quant-synthesis, 2 design, 1 qualitative), `q1`–`q4` · 0 of 40 report an effect size · 39 claims rest on one study
+> **Evidence** · 42 claims (23 for, 17 mixed, 2 against) · 41 studies (10 review, 9 theoretical, 8 causal, 7 associational, 3 quant-synthesis, 2 qualitative, 2 design), `q1`–`q4` · 0 of 41 report an effect size · 40 claims rest on one study
 
 ## Conditional relationship
 
@@ -194,6 +194,7 @@ Choosing on evidence, the quality of the evidence chosen on, the outcome for lea
 - [The reviewer criticizes Davis' Technique of Teaching for ignoring scientific analyses of learning and referring teachers only to empirical, a-priori pedagogies](../claims/davis-teaching-book-lacks-scientific-learning-research.md) [+W]
 - [Propensity score weighting balanced the two non-intervention control groups on all outcomes at T2 and T3, supporting internal validity](../claims/placebo-test-controls-balanced.md) [~W]
 - [Future research should test efficacy of the embodied activities with knowledge tests rather than self-reported impressions](../claims/future-research-knowledge-tests-for-embodied-activities.md) [+W]
+- [Learning-styles models (particularly VAK) continue to be believed in by most teachers and persist in teacher training despite evidence of no positive impact on educational outcomes](../claims/learning-styles-vak-persist-teacher-training.md) [+W]
 
 ## Related Principles
 - [Educational Psychology as Both Art and Science](../theories/educational-psychology-as-art-and-science.md)

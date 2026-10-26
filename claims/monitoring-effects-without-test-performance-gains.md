@@ -56,3 +56,4 @@ In Experiment 1, conditions did not differ in mean performance on any of the tes
 - [Rereading is less effective than retrieval practice](rereading-less-effective-than-retrieval-practice.md) — related
 - [Visualizing support—provided diagrams or learner-generated drawings—facilitates higher-quality explanations and better comprehension than explaining text alone](visualizing-support-facilitates-explaining.md) — related
 - [Technology-enhanced adaptive teaching shows no significant effects on monitoring accuracy, subject-specific interest, or self-efficacy](adaptive-teaching-no-metacognitive-motivational-effects.md) — related
+- [Generating predictions does not by itself improve overall memory performance relative to generating examples](prediction-no-memory-advantage-over-example.md) — related

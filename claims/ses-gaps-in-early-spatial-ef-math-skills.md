@@ -55,3 +55,4 @@ Independent-samples t-tests comparing lower-SES (n = 20) and higher-SES (n = 24)
 - [EF measures jointly account for 43% of math variance, with inhibition (Tap Test) a significant unique predictor but cognitive flexibility (FIST) not significant in any model](tap-test-significant-fist-not-in-math-prediction.md) — related
 - [Executive function and spatial skills jointly predict 70% of the variance in age-4 mathematics performance without an explicit number-knowledge measure](ef-and-spatial-predict-70-percent-preschool-math-variance.md) — related
 - [Spatial assembly skill measured at age 3 (TOSA) strongly correlates with mathematics performance one year later at age 4](tosa-age-3-predicts-age-4-math.md) — related
+- [Economic disadvantage is associated with lower performance on most early numeracy and EF measures](eypp-eligibility-lower-ef-and-numeracy-scores.md) — related

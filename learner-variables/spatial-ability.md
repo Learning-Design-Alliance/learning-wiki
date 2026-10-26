@@ -13,7 +13,7 @@ generated:
 # Spatial Ability
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 62 claims (45 show a difference, 12 mixed, 5 no difference) · 35 studies (16 associational, 8 causal, 7 review, 2 quant-synthesis, 2 qualitative), `q1`–`q4` · 7 of 35 report an effect size · 61 claims rest on one study
+> **Evidence** · 63 claims (46 show a difference, 12 mixed, 5 no difference) · 36 studies (16 associational, 9 causal, 7 review, 2 quant-synthesis, 2 qualitative), `q1`–`q4` · 8 of 36 report an effect size · 62 claims rest on one study
 
 ## Description
 Spatial ability covers mental rotation, visualising objects from other viewpoints, holding visual-spatial information in memory and reasoning about the relations among shapes. It is measured with timed tasks (mental rotation, paper folding, embedded figures). It correlates moderately with mathematics and science achievement and is strongly associated with entry into and success in STEM fields, and training studies show it can be improved. It overlaps with [general cognitive ability](general-cognitive-ability.md) and with visual-spatial [working memory](working-memory.md).
@@ -98,6 +98,7 @@ Spatial ability covers mental rotation, visualising objects from other viewpoint
 - [During FUSE making activities, students engaged in frequent and diverse spatial reasoning, with 9393 coded instances across 13 types spanning all four quadrants of the spatial-skills matrix](../claims/making-activities-frequent-diverse-spatial-reasoning.md) [+M] — instruction changes it
 - [Students drew mainly on peers and materials rather than adults as resources for spatial reasoning, using other students in 44 percent of resource-use instances and adults in 9 percent](../claims/peers-over-adults-spatial-resources.md) [+M] — instruction changes it
 - [The most important kindergarten predictors of Grade 6 MD are RAN, spatial relations, arithmetic skills, number concepts, attention-orientation, and counting](../claims/top-predictors-md-ran-spatial-attention.md) [+W] — learners who differ on it differ in outcomes
+- [Disadvantaged (EYPP-eligible) children in the integrated intervention gained more in numeracy and spatial skills than disadvantaged controls](../claims/disadvantaged-children-greater-gains-integrated-intervention.md) [+M] — instruction changes it
 
 ## Related Learner Variables
 

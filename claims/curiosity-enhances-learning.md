@@ -75,3 +75,4 @@ The review reports the Gruber et al. (2014) fMRI study in which subjects answere
 - [States of high pre-answer curiosity enhance memory for trivia answers similarly in children and adolescents](curiosity-enhances-trivia-memory-children-adolescents.md) — related
 - [Memory for incidental scholastic facts is worse when the facts are paired with pre-determined high- versus low-curiosity trivia questions across three task versions](high-curiosity-trivia-pairs-worse-scholastic-memory.md) — reports the opposite
 - [Participants rated pre-determined high-curiosity trivia questions as more curious than pre-determined low-curiosity questions, equally across task versions](manipulation-check-curiosity-ratings.md) — related
+- [Higher curiosity is associated with better memory for the correct answer](curiosity-associated-with-better-memory.md) — a narrower finding that bears on this claim

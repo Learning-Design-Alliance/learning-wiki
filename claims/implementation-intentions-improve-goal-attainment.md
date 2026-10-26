@@ -126,3 +126,4 @@ performance](goal-setting-improves-performance.md).
 - [Within-person reminders of implementation intentions improve students' short-term study behaviour](within-person-reminders-improve-study-behaviour.md) — a narrower finding that bears on this claim
 - [Adolescents classified as impatient are more likely to drop out of high school even when they state an intention to finish](adolescent-impatience-predicts-high-school-dropout.md) — related
 - [Goal setting and strategic planning positively predict attainment of personal course goals in MOOCs](goal-setting-strategic-planning-predict-mooc-goal-attainment.md) — related
+- [Online strategic mindset intervention increases intentions to use effective learning strategies in college students](strategic-mindset-intervention-increases-strategy-intentions.md) — a narrower finding that bears on this claim

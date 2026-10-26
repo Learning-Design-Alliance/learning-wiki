@@ -61,3 +61,4 @@ Whole-brain block-design fMRI ANOVA main effect of Group in 16 DD and 20 TD chil
 - [The putative visual word form area increases activation with presentation rate similarly in both groups, with no group difference or group-by-rate interaction](vwfa-rate-increase-no-group-difference.md) — related
 - [Adults with dyscalculia show hyper-connectivity between primary visual cortex and inferior occipital cortex and fusiform gyrus](dyscalculia-visual-hyperconnectivity.md) — related
 - [No univariate activation-level differences between adults with dyscalculia and controls during symbolic or non-symbolic number processing](dyscalculia-no-univariate-activation-differences.md) — related
+- [Children with dyscalculia show altered parietal activation during number processing, including compensatory greater activation in the left IPS, but the evidence base is too small for reliable conclusions](dyscalculia-altered-ips-activation-evidence-too-small.md) — related

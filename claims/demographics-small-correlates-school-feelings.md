@@ -66,3 +66,4 @@ Same regression set predicting negative feelings in the national survey. The art
 ## Related Claims
 - [Mastery orientation, value, belonging, self-efficacy, and SRL show small demographic differences by gender, ethnicity, and grade](demographic-correlates-identity-motivation.md) — related
 - [CA dimensions add only small explained variance beyond demographics and game play factors](ca-adds-small-variance-beyond-controls.md) — related
+- [After controlling for selection factors and EduYears GPS, genetic differences between school types disappear and school type explains less than 1% of GCSE variance (down from 7%)](school-type-explains-under-1-percent-gcse-after-controls.md) — related

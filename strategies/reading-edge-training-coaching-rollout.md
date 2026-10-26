@@ -55,6 +55,7 @@ The program's professional development model combines an initial workshop with o
 - [Layered professional development: summer institute plus weekly web conferencing follow-up](tri-layered-pd-summer-institute-web-conferencing.md)
 - [Improve transmedia-curriculum professional development with classroom observation, Q&A-only webinars, and later scheduling](tec-pd-improvement-suggestions.md)
 - [Implement strategy interventions through regular teachers with minimal professional development and structured materials](teacher-led-minimal-pd-intervention-strategy.md)
+- [Deliver embedded EF-mathematics activities through educator professional development plus flexible weekly activity selection](educator-pd-with-flexible-integrated-ef-math-activities.md)
 
 ## Examples
 -

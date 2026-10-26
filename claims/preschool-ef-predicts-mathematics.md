@@ -60,3 +60,4 @@ Narrative synthesis of longitudinal studies (e.g. Clark et al. 2013; Fuhs et al.
 - [Growth in task orientation partially mediates the association between executive function and mathematics achievement in preschoolers](task-orientation-partially-mediates-ef-math.md) — related
 - [Spatial skills uniquely predict 27% of the variance in preschool mathematics over and above executive function](spatial-skills-unique-27-percent-math-variance.md) — related
 - [Children who develop EF later start preschool with the lowest math levels and do not catch up to early or intermediate EF developers through second grade](covariates-early-intermediate-overlap-later-distinct.md) — a narrower finding that bears on this claim
+- [An integrated EF and mathematics intervention improves overall early numeracy in four-year-olds more than practice as usual](integrated-ef-math-intervention-improves-numeracy.md) — related

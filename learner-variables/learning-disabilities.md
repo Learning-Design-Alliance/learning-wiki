@@ -13,7 +13,7 @@ generated:
 # Learning Disabilities and Developmental Differences
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 113 claims (82 show a difference, 18 mixed, 13 no difference) · 61 studies (34 associational, 9 review, 7 causal, 6 quant-synthesis, 4 theoretical, 1 qualitative), `q1`–`q4` · 11 of 61 report an effect size · 111 claims rest on one study
+> **Evidence** · 115 claims (83 show a difference, 19 mixed, 13 no difference) · 62 studies (34 associational, 10 review, 7 causal, 6 quant-synthesis, 4 theoretical, 1 qualitative), `q1`–`q4` · 11 of 62 report an effect size · 113 claims rest on one study
 
 ## Description
 Identified differences in how a learner learns: specific learning disabilities such as dyslexia and dyscalculia, autism, intellectual disability, and the special educational needs (an IEP in the United States, an EHC plan in England) that formally record them. In the research it appears as a population a design targets, as a moderator (an approach that works differently for these learners), and as a predictor of outcomes. It is distinct from [access](access.md), which is about perceiving and operating the material (sensory and motor impairments, devices); a learner can need both. Attention-related differences such as ADHD sit on [attention](attention.md).
@@ -147,6 +147,8 @@ Identified differences in how a learner learns: specific learning disabilities s
 - [Neurotypical and autistic adults show similar average tactile detection thresholds and discrimination accuracy](../claims/asd-typical-tactile-thresholds-and-accuracy.md) [-W] — learners who differ on it differ in outcomes
 - [Prior influence on perception is stronger in autistic than neurotypical adults in a stable context, but not after a frequency-range change](../claims/stronger-prior-influence-asd-stable-context.md) [~M] — learners who differ on it differ in outcomes
 - [Sensory adaptation occurs in neurotypical but not autistic adults in tactile detection](../claims/no-sensory-adaptation-asd.md) [+M] — learners who differ on it differ in outcomes
+- [Children with dyscalculia show altered parietal activation during number processing, including compensatory greater activation in the left IPS, but the evidence base is too small for reliable conclusions](../claims/dyscalculia-altered-ips-activation-evidence-too-small.md) [~W] — learners who differ on it differ in outcomes
+- [Children with dyscalculia show consistent impairments in symbolic number processing, suggesting symbolic measures as diagnostic markers](../claims/dyscalculia-symbolic-processing-diagnostic-markers.md) [+W] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Do learners with disabilities reach lower achievement, graduation and postsecondary outcomes than their peers, by how much, and does it differ by disability type?* [Students with disabilities attained postsecondary readiness and success outcomes at about one half to one third the rate of students without disabilities, the largest difference between any student group and its counterpart](../claims/disability-largest-postsecondary-outcome-gap.md) [+M]

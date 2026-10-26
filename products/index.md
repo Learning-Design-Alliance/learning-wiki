@@ -2,7 +2,7 @@
 
 Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's.
 
-**1958 entries** · 0 stable · 1958 in review · 0 drafts
+**1962 entries** · 0 stable · 1962 in review · 0 drafts
 
 ---
 
@@ -32,6 +32,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Accelerate, TN ALL Corps, and Vetted Texas Tutor Corps](accelerate-tn-all-corps-and-vetted-texas-tutor-corps.md) - These are statewide intensive-tutoring programmes run by Louisiana, Tennessee, and Texas education agencies, respectively, with dedicated public funding, approved or supported providers, tutor training, instructional materials, and implementation assistance.
 * [Accelerated Reader](accelerated-reader.md) - Accelerated Reader™ is Renaissance's software-based K–12 reading practice and assessment system in which students read books, complete computerized quizzes, and receive progress data for teacher monitoring and goal setting.
 * [Accelerated Study in Associate Programs (ASAP)](accelerated-study-in-associate-programs-asap.md) - A three-year City University of New York programme that combines financial, academic, cohort-based, and personal supports to help community-college students complete associate degrees.
+* [Acciona Program (AP)](acciona-program-ap.md) - A Chilean National Council for Culture and the Arts, Ministry of Education, and Balmaceda Youth Art Foundation programme in which professional artists lead semester-long weekly arts workshops in public high schools, alongside schoolteachers.
 * [ACE in Higher Education (ACE-HE)](ace-in-higher-education-ace-he.md) - The ACE-HE, developed by Graham et al., is a bilingual survey instrument measuring affective, behavioral, and cognitive engagement, institutional support, and personal-environment barriers among online and blended higher-education students.
 * [ACEs Aware Initiative](aces-aware-initiative.md) - A California statewide initiative led by the California Surgeon General and the Department of Health Care Services that promotes adverse childhood experiences screening, provider training, and trauma-informed systems of care.
 * [Achieve3000](achieve3000.md) - Achieve3000® is a supplemental online literacy platform developed and provided by Achieve3000 that delivers differentiated nonfiction reading and writing instruction for learners from preK through grade 12.
@@ -422,6 +423,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [DeepTutor](deeptutor.md) - DeepTutor is an AI-powered personalized tutoring platform developed by Zhao et al.
 * [Degree Qualifications Profile (DQP)](degree-qualifications-profile-dqp.md) - The Lumina Foundation's Degree Qualifications Profile is a framework describing expected knowledge and abilities across associate's, bachelor's, and master's degree levels in five learning areas.
 * [DELICATE checklist](delicate-checklist.md) - The DELICATE checklist is a framework developed by Drachsler and Greller for guiding privacy-aware and trusted learning-analytics practice in educational organizations.
+* [Dementia Knowledge Assessment Scale 2.0 (DKAS 2.0)](dementia-knowledge-assessment-scale-20-dkas-20.md) - A 25-item, expert-derived assessment developed to measure dementia knowledge about its characteristics, trajectory, risk factors, and care among carers, care workers, health professionals, and the general public.
 * [Democracy Prep Public Schools](democracy-prep-public-schools.md) - A charter-school network operated by Democracy Prep that serves middle- and high-school students through a civic-education-focused school model intended to prepare them for effective citizenship.
 * [Design Research Plan Template](design-research-plan-template.md) - Mathematica's Design Research Plan Template is a planning tool that helps organizations document theories of change, objectives, research activities, timelines, findings, and design adjustments while incorporating community needs.
 * [Desired Results Development Profile-Preschool (DRDP-PS)](desired-results-development-profile-preschool-drdp-ps.md) - The DRDP-PS is a California Department of Education teacher-rated developmental assessment used to document and monitor preschool children's learning and progress.
@@ -1548,6 +1550,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Self-Determined Learning Model of Instruction](self-determined-learning-model-of-instruction.md) - A teacher-implemented instructional model developed by Palmer et al.
 * [Self-Regulated Strategy Development (SRSD)](self-regulated-strategy-development-srsd.md) - Self-Regulated Strategy Development is a structured instructional framework developed by Karen Harris and Steven Graham for teaching academic strategies and self-regulation skills, especially in writing and other achievement domains.
 * [SelfCode2.0 dataset of student and expert line-by-line code explanations](selfcode20-dataset-of-student-and-expert-line-by-line-code-explanations.md) - A corpus of line-level code explanations produced by novice programming students and experts, annotated for correctness and released for evaluating code-explanation and semantic-similarity systems.
+* [Semester-long simulated-MOOC EEG dataset from an 11-lesson biology course](semester-long-simulated-mooc-eeg-dataset-from-an-11-lesson-biology-course.md) - A dataset of semester-long, stage-labeled 14-channel EEG recordings from six undergraduates completing lecture, virtual-lab, and quiz activities in an 11-lesson simulated-MOOC biology course, released by Hui Xie et al.
 * [Senior Digital Literacy Evaluation (SDLE) instrument](senior-digital-literacy-evaluation-sdle-instrument.md) - A 110-item assessment developed by Martínez-Alcalá and colleagues to measure older adults’ digital literacy and technological competencies across computer use, Internet use, and domestic and daily-life devices.
 * [SensEnablr](sensenablr.md) - SensEnablr is a student-facing learning analytics dashboard developed by Gomathy Ramaswami and colleagues that combines descriptive, predictive, and prescriptive analytics to help students interpret and act on their learning data.
 * [Sensory Profile](sensory-profile.md) - The Sensory Profile is a parent-reported standardized questionnaire developed by Winnie Dunn for assessing children's sensory processing in everyday activities, including auditory, visual, tactile, movement, and social-emotional responses.
@@ -1999,6 +2002,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 #### Z {: #letter-z }
 
 * [Zearn Math](zearn-math.md) - Zearn Math is a nonprofit-developed online supplemental K–8 mathematics curriculum and digital learning program used during math instruction, intervention, and tutoring.
+* [Zenodo repository with all figure-generating data and learner-classification code](zenodo-repository-with-all-figure-generating-data-and-learner-classification-code.md) - A Zenodo repository accompanying Maceira-Elvira et al.
 * [Zimmerman's 100-case comparative dataset of Binet-Simon and Yerkes Point Scale examinations](zimmermans-100-case-comparative-dataset-of-binet-simon-and-yerkes-point-scale-examinations.md) - A historical case-level dataset compiled by Zimmerman containing 100 children's results from comparative Binet-Simon and Yerkes Point Scale examinations, including demographic, age, score, and classification data.
 * [Zirkus Empathico](zirkus-empathico.md) - Zirkus Empathico is a touchscreen application developed for socio-emotional competence training through emotion-recognition, empathy, and prosocial-behavior activities.
 * [Zoo U](zoo-u.md) - Zoo U is a single-player point-and-click educational game developed by Melissa E.

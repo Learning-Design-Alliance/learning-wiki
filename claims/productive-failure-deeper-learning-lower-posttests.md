@@ -68,3 +68,4 @@ The editorial defines productive failure as one of the most interesting findings
 - [Productive Failure Improves Conceptual Learning](productive-failure-improves-conceptual-learning.md) — a broader claim this one bears on
 - [Invention Tasks Prepare Future Learning](invention-tasks-prepare-future-learning.md) — related
 - [The manipulation worked as intended: I-PS students largely succeeded on the problem-solving sheets while PS-I students largely failed](ps-i-manipulation-check-problem-solving-sheets.md) — related
+- [Fourth-graders given a choice-based (Select) preparation task outperformed those given a highly open-ended (Generate) task on the posttest in a productive-failure-style collaboration design](select-outperformed-generate-posttest-fourth-grade.md) — related

@@ -34,7 +34,6 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i0`–`i3`
 > **Currency** · newest study 2026 · checked against its sources 2026-10-26 (automated, 2 of 2 entries) · not reviewed by a person
-> **Design limits** · Han Jiang 2026: the intervention came bundled with another change (read from the study by two models, 2026-10-26)
 
 ## Subclaims
 `q3 i3` Significant Time × Group interactions emerged for handwriting Construction (η²p = 0.68) and Accuracy (η²p = 0.45), while Directionality showed no significant effects. [→ Han Jiang 2026](#han-jiang-2026)

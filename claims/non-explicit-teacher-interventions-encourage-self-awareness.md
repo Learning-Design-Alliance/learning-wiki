@@ -51,3 +51,4 @@ The authors' interpretive claim from the Summary, drawn from Extract 3 where the
 - Students found using a chatbot to solve a photoelectric-effect problem and evaluating its answer insightful, and the authors propose group checking as a way to verify chatbot answers — related
 - [Learners' critical sharing of ideas and the teacher's intentional intervention were the two critical factors for effective folding back](critical-sharing-and-teacher-intervention-effective-folding-back.md) — related
 - [Contrasting cases without explicit guidance on their use showed no significant effect on conceptual understanding or solution-attempt quality](unguided-contrasting-cases-no-learning-effect.md) — related
+- [Non-scaffolding teacher utterances offering affirmation and positive feedback (T:NS) trigger student curiosity](non-scaffolding-affirming-utterances-trigger-curiosity.md) — related

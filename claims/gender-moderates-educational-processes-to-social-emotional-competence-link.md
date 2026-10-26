@@ -74,3 +74,5 @@ Simple slope tests probing the gender interaction. The association between educa
 - [Gains in emotion knowledge during preschool mediate the association between preschool relationships and kindergarten achievement](emotion-knowledge-gains-mediate-relationships-achievement.md) — related
 - [The association between school discipline and social-emotional self-control is stronger for older students](social-emotional-self-control-age-moderation.md) — related
 - [Adolescent girls report higher self-reported social competences than boys in vocational high school](girls-report-higher-social-competences-than-boys.md) — related
+- [Indirect effects from emotional regulation and parent-child relationship to later worries through online learning self-efficacy are significantly stronger for girls than boys](indirect-effects-stronger-girls.md) — a narrower finding that bears on this claim
+- [The negative association between online learning self-efficacy and later worries is significantly stronger for girls than for boys](ose-worries-stronger-for-girls.md) — a narrower finding that bears on this claim

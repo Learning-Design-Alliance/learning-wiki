@@ -52,3 +52,4 @@ Experiment 5 with 124 undergraduates circling 10 of 20 words either to be tested
 - [When the number of remember, forget, and unselected words was equated, words predicted to be forgotten were recalled similarly to unselected words](equated-predictions-forget-similar-to-unselected.md) — reports the opposite
 - [Under sequential presentation with Likert ratings for every word, no memory benefit emerged for items judged likely to be forgotten; negative ratings predicted the poorest recall](sequential-likert-no-forget-reactivity.md) — reports the opposite
 - [Merely selecting words by clicking on them, without any memorability instructions, enhanced their recall (a choice effect)](word-selection-choice-effect-enhances-recall.md) — related
+- [TMR can be used to selectively weaken or promote forgetting of specific memories during sleep](tmr-promotes-selective-forgetting.md) — related

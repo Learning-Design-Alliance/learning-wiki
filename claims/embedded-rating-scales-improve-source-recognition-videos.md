@@ -68,3 +68,4 @@ Mixed ANOVA interaction of experimental phase and embedded rating scales on reco
 - [Students exposed to embedded rating scales mention interviewees' expertise more often in their convincingness justifications](embedded-rating-scales-expertise-justifications.md) — related
 - [Embedded rating scales make middle-schoolers more likely to judge the expert (researcher) speaker as the most convincing](embedded-rating-scales-researcher-most-convincing.md) — related
 - [Watching an instructional video on sourcing before viewing had no significant effect on source recognition or convincingness judgments](instructional-video-no-effect-source-consideration.md) — related
+- [Watching the video improved children's ability to detect real car-engine experts, with the advantage widening with age](video-improves-expert-detection-age-interaction.md) — related

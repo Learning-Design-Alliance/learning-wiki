@@ -49,3 +49,4 @@ The review reports, citing Coolen et al. (2021), that "only EF surviving as a pr
 - [Across basic and extended RI-CLPMs and CLPMs of five-wave secondary-school data, math self-concept and achievement show consistent reciprocal (bidirectional) directional ordering](rem-reciprocal-effects-ri-clpm-clpm-palma.md) — related
 - [Executive functioning and early numeracy skills assessed in kindergarten directly predict mathematical performance in second grade, jointly explaining 57.3% of its variance](ef-and-early-numeracy-directly-predict-grade-2-math.md) — related
 - [Evidence for integrated EF–mathematics interventions is growing but mixed](integrated-ef-math-interventions-mixed-evidence.md) — related
+- [An integrated EF and mathematics intervention improves overall early numeracy in four-year-olds more than practice as usual](integrated-ef-math-intervention-improves-numeracy.md) — related

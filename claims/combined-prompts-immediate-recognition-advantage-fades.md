@@ -50,3 +50,4 @@ Mixed ANOVA three-way interaction on recognition scores with printed effect size
 - [Watching the sourcing instructional video unexpectedly lowered students' trustworthiness ratings of the interviewees](instructional-video-lowered-trustworthiness-ratings.md) — related
 - [Watching an instructional video on sourcing before viewing had no significant effect on source recognition or convincingness judgments](instructional-video-no-effect-source-consideration.md) — related
 - [Embedded rating scales make middle-schoolers more likely to judge the expert (researcher) speaker as the most convincing](embedded-rating-scales-researcher-most-convincing.md) — related
+- [Watching the video improved children's ability to detect real car-engine experts, with the advantage widening with age](video-improves-expert-detection-age-interaction.md) — related

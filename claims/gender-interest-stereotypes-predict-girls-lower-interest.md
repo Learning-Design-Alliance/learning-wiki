@@ -73,3 +73,4 @@ Regression comparison in Study 1 with both stereotype types as simultaneous pred
 - [Gender-interest stereotypes favoring boys in computer science and engineering are endorsed across grades 1–12 and across racial/ethnic groups in a diverse sample](gender-interest-stereotypes-diverse-sample-grades-1-12.md) — related
 - [Girls' lower sense of belonging mediates the relation between gender-interest stereotypes and their lower interest in computer science, with the opposite mediation for boys](belonging-mediation-gender-interest-stereotypes.md) — related
 - [Endorsement of brilliance-oriented FABs predicts lower self-efficacy among stigmatized students in brilliance-oriented contexts](brilliance-contexts-lower-self-efficacy.md) — related
+- [The authors propose that gender stereotypes transmit gender inequality's negative association with achievement to both boys and girls](stereotype-mechanism-both-genders.md) — related

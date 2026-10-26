@@ -51,3 +51,4 @@ Multilevel meta-analysis of polygenic score predictions of educational achieveme
 - [Polygenic score predictions of education strengthen as GWAS discovery sample sizes increase](pgs-prediction-strength-grows-gwas-sample-size.md)
 - [Polygenic score predictions are reduced in African American relative to European ancestry samples, significantly so only for educational attainment](pgs-predictions-reduced-african-american-samples.md) — related
 - [Sample ancestry significantly moderates polygenic score predictions of educational attainment, with stronger predictions in European-ancestry samples](pgs-attainment-ancestry-moderator.md) — related
+- [Educational attainment polygenic scores are positively associated with childhood visual acuity, while myopia polygenic scores show a negative association](ea-pgs-positive-childhood-visual-acuity.md) — a narrower finding that bears on this claim

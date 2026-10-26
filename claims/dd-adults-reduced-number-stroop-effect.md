@@ -52,3 +52,4 @@ Review reports Rubinsten and Henik (2005) Number Stroop study: a "significantly 
 - [Non-symbolic magnitude processing shows mixed associations with inhibition measures](nonsymbolic-nmp-mixed-inhibition-association.md) — related
 - [Groups with reading difficulties perform significantly better than controls on the Stroop interference measure, and only math groups show set-shifting weakness](stroop-advantage-rd-set-shifting-md-only.md) — related
 - [Adults with DD show a smaller subitizing range and impaired enumeration of random sets across visual and tactile modalities](dd-adults-subitizing-enumeration-deficits.md) — related
+- [Children with dyscalculia show consistent impairments in symbolic number processing, suggesting symbolic measures as diagnostic markers](dyscalculia-symbolic-processing-diagnostic-markers.md) — related

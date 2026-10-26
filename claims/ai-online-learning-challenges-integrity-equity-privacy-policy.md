@@ -73,3 +73,4 @@ The review reports, citing Rodríguez et al. (2022), systemic inequality issues 
 - [Ethical concerns (bias, transparency, privacy, authorship, accountability) emerge as cross-cutting dimensions of GenAI-specific TPK across studies of teacher educators](genai-tpk-ethical-dimensions-cross-cutting.md) — related
 - [Common risks of AI integration in nursing education include technological inequities, faculty preparedness gaps, and ethical concerns around privacy and bias](ai-nursing-education-risks-inequity-ethics.md) — related
 - [The review reports AI curriculum-design tools identify learning gaps and equity-analysis tools examine differential policy impacts on student populations](ai-teaching-enhancement-and-equity-analysis-reported.md) — related
+- [An international expert workshop gap analysis identified five dimensions of gaps impeding integration of research evidence into classroom practice](workshop-gap-analysis-five-gap-dimensions.md) — related

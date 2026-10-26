@@ -55,3 +55,4 @@ End-to-end comparison in Section 5.2 across solution-simulation methods (IO, CoT
 - [Behavior-prediction accuracy rises with more past learning records, reaching 0.94 at 40 records](more-past-records-improve-simulation-accuracy.md) — related
 - [Knowledge-graph prototype mapping outperforms existing behavior-prediction baselines for student simulation](prototype-mapping-outperforms-behavior-prediction-baselines.md) — related
 - [Review-revise iterations improve synthesized problem quality, with gains largely stabilizing by the third iteration](review-revise-iterations-quality-stabilizes.md) — related
+- [LLM simulation, reflection, and refinement elevates the quality of LLM-generated teaching plans above their unenhanced baselines](llm-simulation-reflection-enhances-teaching-plans.md) — related

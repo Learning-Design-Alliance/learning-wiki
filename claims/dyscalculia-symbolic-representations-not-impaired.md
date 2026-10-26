@@ -52,3 +52,4 @@ ROI-based decoding in the All Regions ROI; overall symbolic decoding performance
 ## Related Claims
 - [No univariate activation-level differences between adults with dyscalculia and controls during symbolic or non-symbolic number processing](dyscalculia-no-univariate-activation-differences.md) — related
 - [Adults with dyscalculia show less distinct non-symbolic number representations than matched controls in anterior parietal, frontal and temporal cortex](dyscalculia-impaired-nonsymbolic-representations-adults.md) — related
+- [Children with dyscalculia show consistent impairments in symbolic number processing, suggesting symbolic measures as diagnostic markers](dyscalculia-symbolic-processing-diagnostic-markers.md) — reports the opposite

@@ -13,7 +13,7 @@ generated:
 # Decoding
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 113 claims (76 show a difference, 22 mixed, 15 no difference) · 74 studies (26 associational, 19 quant-synthesis, 16 causal, 8 review, 3 design, 2 theoretical), `q1`–`q4` · 26 of 74 report an effect size · 108 claims rest on one study
+> **Evidence** · 115 claims (78 show a difference, 22 mixed, 15 no difference) · 75 studies (27 associational, 19 quant-synthesis, 16 causal, 8 review, 3 design, 2 theoretical), `q1`–`q4` · 26 of 75 report an effect size · 110 claims rest on one study
 
 ## Description
 Decoding is using knowledge of letters and their sounds to work out how an unfamiliar written word is pronounced, and so what it is. This page also covers the related word-level skills the LVN describes separately: sight recognition (knowing a word immediately, without sounding it out, which is necessary for common words that do not follow regular spelling patterns, such as *said* or *could*), orthographic processing (recognising, storing and retrieving the written form of words from memory), and, for adults, the foundational reading skills of phonics and decoding as a whole. Typical measures are reading pseudowords scored by phonics rules, timed word recognition, spelling tasks and lists of high-frequency words.
@@ -154,6 +154,8 @@ It builds on [phonological awareness](phonological-awareness.md) and [alphabet k
 - [Word reading is a significant direct predictor of reading comprehension for both ELs and non-ELs with reading difficulties in grade 4](../claims/word-reading-predicts-comprehension-struggling-els-and-non-els.md) [+W] — learners who differ on it differ in outcomes
 - [Non-responder subgroups showed heterogeneous longitudinal trajectories despite similar short-term regression, including inverse trends in Non-Responder Subgroup 3](../claims/non-responder-subgroup-trajectory-heterogeneity.md) [~M] — instruction changes it
 - [Phonological decoding is at the core of learning to read words in alphabetic languages, and children do not learn to read words by contextual guessing](../claims/phonological-decoding-core-of-reading.md) [+M] — learners who differ on it differ in outcomes
+- [Endophenotypes explain roughly 3–17% of variance in decoding and comprehension, with PA best for decoding and RAN best for comprehension](../claims/endophenotypes-variance-reading-skills-correlations.md) [+M] — learners who differ on it differ in outcomes
+- [Serial mediation supports a sequence from Reading-PGS through rapid bimodal temporal processing and phonological awareness to decoding and comprehension](../claims/serial-mediation-rbtp-pa-decoding-comprehension.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Woodcock Reading Mastery Test, Revised: Word Attack subtest** (Woodcock, 1998): reading pseudowords, scored by regular phonics rules.

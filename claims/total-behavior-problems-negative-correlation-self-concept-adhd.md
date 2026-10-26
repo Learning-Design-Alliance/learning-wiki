@@ -49,3 +49,4 @@ Correlation analysis in the same descriptive correlational study of 145 children
 - [Internalizing behavior problems predict lower self-concept in children and adolescents with ADHD](internalizing-problems-predict-lower-self-concept-adhd.md) — related
 - [No significant ethnic differences in behavior problems or self-concept among children with ADHD, though Caucasian children had the lowest mean self-concept](no-significant-ethnic-differences-self-concept-adhd.md) — related
 - [Older children and adolescents with ADHD have lower self-concept scores](older-age-lower-self-concept-adhd.md) — related
+- [AP participation did not significantly improve self-concept as measured by the Piers-Harris Self-Concept Scale](ap-self-concept-null-finding.md) — related

@@ -56,8 +56,10 @@ The defensible core of BBL is not neuroscience but cognitive psychology: managin
 5. Schedule spaced retrieval of earlier chunks rather than relying on in-class "rest" for consolidation [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+S]
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — a cognitively grounded alternative to generic "brain activation" claims
 - [Spaced Retrieval Practice](spaced-retrieval-practice.md) — the retention mechanism BBL gestures at without naming
+- [Use review evidence to make teachers critical consumers of brain-based explanations, rather than dropping neuroscience directly into practice](critical-consumers-of-brain-based-explanations.md)
 
 ## Examples
 - **Segmented video lessons with embedded questions** (e.g., [Khan Academy](https://www.khanacademy.org)) — chunking plus active processing, the defensible core of BBL without the neuromyth framing

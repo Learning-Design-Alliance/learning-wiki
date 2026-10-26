@@ -49,6 +49,7 @@ The authors recommend that "interventions that combine growth mindset and cognit
 ## Related Strategies
 
 - [Promote a Growth Mindset](promote_a_growth_mindset.md)
+- [Combine strategic mindset intervention with explicit strategy training for less-prepared learners](combine-strategic-mindset-with-strategy-training.md)
 
 ## Examples
 -

@@ -45,6 +45,7 @@ Based on the observed limits of trial-and-error prompting, the authors recommend
 - [Search Strategy Scaffolds](search-strategy-scaffolds.md)
 - [Scaffold question formulation and active help-seeking in AI-supported tutoring systems](scaffold-question-formulation-ai-help-seeking.md)
 - [Teachers should make task demands explicit, compelling, varied, and metacognitively supported when assigning text-study tasks](explicit-compelling-varied-task-demands-strategy.md)
+- [Combine strategic mindset intervention with explicit strategy training for less-prepared learners](combine-strategic-mindset-with-strategy-training.md)
 
 ## Examples
 -
