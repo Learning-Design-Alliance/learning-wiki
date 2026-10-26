@@ -10,6 +10,7 @@ generated:
   at: 2026-10-08
 evidence_strength: moderate
 newest_evidence: 2008
+source_checked: 2026-10-26
 sources:
   - id: peter-z-schochet-2008
     resource: "https://www.mathematica.org/publications/journal-article-statistical-power-for-random-assignment-evaluations-of-education-programs"
@@ -33,7 +34,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 theoretical `r?` · `q2`
-> **Currency** · newest study 2008 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2008 · checked against its sources 2026-10-26 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 

@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "Timetable configuration affects meaningful engagement in off-ramp transitions: 43% of students engaged during the type 2 'bridge' configuration versus 19% in type 1"
-description: "Timetable configuration affects meaningful engagement in off-ramp transitions: 43% of students engaged during the type 2 'bridge' configuration versus 19% in type 1"
+title: "In an observational comparison of timetable configurations, 43% of students meaningfully engaged in off-ramp transitions during the type 2 'bridge' configuration versus 19% in type 1"
+description: "In an observational comparison of timetable configurations, 43% of students meaningfully engaged in off-ramp transitions during the type 2 'bridge' configuration versus 19% in type 1"
 id: type2-timetable-off-ramp-engagement-43-vs-19
 status: review
 generated:
@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: weak
 newest_evidence: 2024
+source_checked: 2026-10-26
 sources:
   - id: luke-mccrone-martyn-kingsbury-2024
     resource: "https://doi.org/10.1038/s41539-024-00267-1"
@@ -20,11 +21,11 @@ sources:
     rigour: 1
 ---
 
-# Timetable configuration affects meaningful engagement in off-ramp transitions: 43% of students engaged during the type 2 'bridge' configuration versus 19% in type 1
+# In an observational comparison of timetable configurations, 43% of students meaningfully engaged in off-ramp transitions during the type 2 'bridge' configuration versus 19% in type 1
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · checked against its sources 2026-10-26 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` More students (43%) meaningfully engaged in the off-ramp transition during the type 2 timetable 'bridge' space than in the type 1 timetable (19%). [→ Luke McCrone & Martyn Kingsbury 2024](#luke-mccrone-martyn-kingsbury-2024)
@@ -37,7 +38,7 @@ Luke McCrone & Martyn Kingsbury. (2024). An ecological approach to understanding
 
 `q2 · i?` · `associational · r1`
 
-Observational occupancy analysis of a lecture theatre and adjacent breakout space across 6 weeks, with 14 days (120 h) of data studied in detail. Percentages were averages of year 1 or 2 cohorts remaining in the breakout space longer than 5 min, showing "more (43%) of the students meaningfully engaged" in type 2 versus type 1.
+Observational occupancy analysis of a lecture theatre and adjacent breakout space across 6 weeks, with 14 days (120 h) of data studied in detail. Percentages were averages of year 1 or 2 cohorts remaining in the breakout space longer than 5 min, showing "more (43%) of the students meaningfully engaged" in type 2 versus type 1. The configurations occurred naturally and were not assigned, so the comparison cannot show that the timetable caused the difference; the authors say only that type 2 "may have the potential for more meaningful transition" engagement.
 
 > "Based on the arithmetic mean, more (43%) of the students meaningfully engaged in the off-ramp transition during the 'bridge' space following the 1st year lecture in the type 2 timetable, whereas less (19%) of the students meaningfully engaged in the off-ramp transition in the type 1 timetable (see Fig.1)."
 

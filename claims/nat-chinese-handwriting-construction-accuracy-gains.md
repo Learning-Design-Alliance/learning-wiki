@@ -1,7 +1,7 @@
 ---
 type: claim
-title: NAT produced large gains in Chinese handwriting construction and accuracy but no effect on directionality
-description: NAT produced large gains in Chinese handwriting construction and accuracy but no effect on directionality
+title: NAT produced large gains in Chinese handwriting construction and accuracy but no significant effect on directionality was detected
+description: NAT produced large gains in Chinese handwriting construction and accuracy but no significant effect on directionality was detected
 id: nat-chinese-handwriting-construction-accuracy-gains
 status: review
 generated:
@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-10-26
 sources:
   - id: han-jiang-2026
     resource: "https://doi.org/10.1038/s41539-026-00415-9"
@@ -28,11 +29,11 @@ sources:
     rigour: 2
 ---
 
-# NAT produced large gains in Chinese handwriting construction and accuracy but no effect on directionality
+# NAT produced large gains in Chinese handwriting construction and accuracy but no significant effect on directionality was detected
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i0`–`i3`
-> **Currency** · newest study 2026 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-10-26 (automated, 2 of 2 entries) · not reviewed by a person
 > **Design limits** · Han Jiang 2026: the intervention came bundled with another change (read from the study by two models, 2026-10-26)
 
 ## Subclaims
@@ -57,7 +58,7 @@ Han Jiang, Stuart J. Johnstone, Yingxin Li, Jinjin Lu & Bo-Bei Mao. (2026). Neur
 
 `q3 · i0` · `causal · r2`
 
-THPC directionality factor (e.g., reversed components) in the same RCT showed null results across all effects, with printed η²p values at or below 0.03.
+THPC directionality factor (e.g., reversed components) in the same RCT showed no statistically significant effects (time, group or interaction), with printed η²p values at or below 0.03; non-significance does not establish that the training had no effect on directionality.
 
 > "For Directionality, no significant effects were found: Time main effect (F(1,54) = 0.55, p = 0.464, η²p = 0.01), Group main effect (F(1,54) = 0.68, p = 0.415, η²p = 0.01), or interaction (F(1,54) = 1.79, p = 0.187, η²p = 0.03)."
 

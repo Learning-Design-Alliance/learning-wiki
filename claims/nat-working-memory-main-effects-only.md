@@ -1,7 +1,7 @@
 ---
 type: claim
-title: NAT improved working memory task performance on main effects of Time and Group, but without significant Time × Group interactions
-description: NAT improved working memory task performance on main effects of Time and Group, but without significant Time × Group interactions
+title: NAT showed no significant Time × Group interaction on working memory task performance; only the main effects of Time and Group were significant
+description: NAT showed no significant Time × Group interaction on working memory task performance; only the main effects of Time and Group were significant
 id: nat-working-memory-main-effects-only
 status: review
 generated:
@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: weak
 newest_evidence: 2026
+source_checked: 2026-10-26
 sources:
   - id: han-jiang-2026
     resource: "https://doi.org/10.1038/s41539-026-00415-9"
@@ -20,14 +21,14 @@ sources:
     rigour: 2
 ---
 
-# NAT improved working memory task performance on main effects of Time and Group, but without significant Time × Group interactions
+# NAT showed no significant Time × Group interaction on working memory task performance; only the main effects of Time and Group were significant
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-10-26 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
-`q3 i?` Working memory measures showed consistent significant main effects of Time and Group but non-significant interactions, indicating improvement progressed differently from the training trajectory. [→ Han Jiang 2026](#han-jiang-2026)
+`q3 i?` Working memory measures showed consistent significant main effects of Time and Group but non-significant interactions, so there was no evidence that the NAT group improved more over time than the control group. [→ Han Jiang 2026](#han-jiang-2026)
 
 ## Evidence
 
@@ -37,7 +38,7 @@ Han Jiang, Stuart J. Johnstone, Yingxin Li, Jinjin Lu & Bo-Bei Mao. (2026). Neur
 
 `q3 · i?` · `causal · r2`
 
-Working memory task (hidden-figure search, distinct from training tasks) in the same RCT. For Task Difficulty: Time F(1,54) = 17.27, p < 0.001; Group F(1,54) = 10.32, p < 0.001; interaction F(1,54) = 1.03, p = 0.314; similar patterns for Found RT and Found Accuracy. No effect sizes beyond η²p for main effects printed; interaction i coded null.
+Working memory task (hidden-figure search, distinct from training tasks) in the same RCT. For Task Difficulty: Time F(1,54) = 17.27, p < 0.001; Group F(1,54) = 10.32, p < 0.001; interaction F(1,54) = 1.03, p = 0.314, η²p = 0.02; similar patterns for Found RT (interaction η²p = 0.003) and Found Accuracy (interaction η²p = 0.02). The Time effect can reflect improvement in both groups and the Group effect an overall difference between groups, so the study does not show a training-specific working-memory gain. Impact left uncoded because the training effect itself (the interaction) was non-significant.
 
 > "For working memory measures, significant main effects of Time and Group emerged consistently, although the Time × Group interactions were non-significant."
 

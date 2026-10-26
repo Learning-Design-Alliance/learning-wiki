@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2018
+source_checked: 2026-10-26
 sources:
   - id: thiago-cabral-2018
     resource: "https://doi.org/10.1038/s41539-018-0031-z"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2018 · checked against its sources 2026-10-26 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` No significant differences were observed for short naps versus either control condition; equivalence was not tested. [→ Thiago Cabral 2018](#thiago-cabral-2018)
@@ -37,7 +38,7 @@ Thiago Cabral, Natália B. Mota, Lucia Fraga, Mauro Copelli, Mark A. McDaniel an
 
 `q3 · i?` · `causal · r2`
 
-Null finding from the same 6-week cross-over experiment, Table 1 reports Wilcoxon p values for short-nap trials and subjects ranging from 0.3631 to 0.8988, none significant. No effect size printed, so impact is null.
+Null finding from the same 6-week cross-over experiment, Table 1 reports Wilcoxon p values for short-nap trials and subjects ranging from 0.3631 to 0.8988, none significant. No effect size is printed, so the magnitude is unknown (impact `i?`); non-significance does not show that short naps have no effect, and no equivalence test was run.
 
 > "No signiﬁcant differences were observed when short naps (<30 min) were considered (Fig. 1d, e)."
 

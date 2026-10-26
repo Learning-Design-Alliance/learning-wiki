@@ -23083,6 +23083,7 @@
 "id":"attention-predicts-word-reading-growth-at-risk-first-graders",
 "newest_evidence":"2014",
 "path":"claims/attention-predicts-word-reading-growth-at-risk-first-graders.md",
+"source_checked":"2026-10-26",
 "status":"review",
 "title":"Teacher-rated behavioral attention significantly predicts first-grade word reading growth among at-risk readers receiving intensive one-on-one intervention, controlling for literacy, language, cognitive, and behavioral covariates",
 "type":"claim"
@@ -43968,6 +43969,7 @@
 "id":"clustering-effects-large-school-samples-education-trials",
 "newest_evidence":"2008",
 "path":"claims/clustering-effects-large-school-samples-education-trials.md",
+"source_checked":"2026-10-26",
 "status":"review",
 "title":"Clustering effects in education random-assignment trials vary by design but are typically large, requiring large school samples",
 "type":"claim"
@@ -170778,13 +170780,14 @@
 "type":"claim"
 },
 {
-"description":"NAT produced large gains in Chinese handwriting construction and accuracy but no effect on directionality",
+"description":"NAT produced large gains in Chinese handwriting construction and accuracy but no significant effect on directionality was detected",
 "evidence_strength":"moderate",
 "id":"nat-chinese-handwriting-construction-accuracy-gains",
 "newest_evidence":"2026",
 "path":"claims/nat-chinese-handwriting-construction-accuracy-gains.md",
+"source_checked":"2026-10-26",
 "status":"review",
-"title":"NAT produced large gains in Chinese handwriting construction and accuracy but no effect on directionality",
+"title":"NAT produced large gains in Chinese handwriting construction and accuracy but no significant effect on directionality was detected",
 "type":"claim"
 },
 {
@@ -170819,13 +170822,14 @@
 "type":"claim"
 },
 {
-"description":"NAT improved working memory task performance on main effects of Time and Group, but without significant Time × Group interactions",
+"description":"NAT showed no significant Time × Group interaction on working memory task performance; only the main effects of Time and Group were significant",
 "evidence_strength":"weak",
 "id":"nat-working-memory-main-effects-only",
 "newest_evidence":"2026",
 "path":"claims/nat-working-memory-main-effects-only.md",
+"source_checked":"2026-10-26",
 "status":"review",
-"title":"NAT improved working memory task performance on main effects of Time and Group, but without significant Time × Group interactions",
+"title":"NAT showed no significant Time × Group interaction on working memory task performance; only the main effects of Time and Group were significant",
 "type":"claim"
 },
 {
@@ -180914,6 +180918,7 @@
 "id":"null-moderators-training-induced-change",
 "newest_evidence":"2025",
 "path":"claims/null-moderators-training-induced-change.md",
+"source_checked":"2026-10-26",
 "status":"review",
 "title":"Age, general cognition (MoCA), visual working memory, and hearing loss showed no significant association with the extent of training-induced change, and the three-way modality-by-AWM-by-hearing-loss interaction was not significant",
 "type":"claim"
@@ -182384,6 +182389,7 @@
 "id":"oet94-forty-percent-gain-over-conventional",
 "newest_evidence":"2020",
 "path":"claims/oet94-forty-percent-gain-over-conventional.md",
+"source_checked":"2026-10-26",
 "status":"review",
 "title":"OET 94 scheduling yielded approximately 40% higher memory retention than conventional scheduling (S15), with a benefit of Cohen's d = 0.64",
 "type":"claim"
@@ -221418,6 +221424,7 @@
 "id":"retention-interval-no-spacing-interaction",
 "newest_evidence":"2020",
 "path":"claims/retention-interval-no-spacing-interaction.md",
+"source_checked":"2026-10-26",
 "status":"review",
 "title":"Shorter retention intervals predict higher quiz grades, and the spacing benefit holds even at short retention intervals",
 "type":"claim"
@@ -234568,6 +234575,7 @@
 "id":"self-regulated-spacing-predicts-mooc-quiz-performance",
 "newest_evidence":"2020",
 "path":"claims/self-regulated-spacing-predicts-mooc-quiz-performance.md",
+"source_checked":"2026-10-26",
 "status":"review",
 "title":"In a self-regulated MOOC, spacing study across more sessions predicts higher unit quiz performance within participants",
 "type":"claim"
@@ -237978,6 +237986,7 @@
 "id":"short-naps-no-retention-benefit",
 "newest_evidence":"2018",
 "path":"claims/short-naps-no-retention-benefit.md",
+"source_checked":"2026-10-26",
 "status":"review",
 "title":"Short post-class naps (<30 min) show no significant retention benefit",
 "type":"claim"
@@ -268794,6 +268803,7 @@
 "id":"testing-effect-backward-and-forward",
 "newest_evidence":"2018",
 "path":"claims/testing-effect-backward-and-forward.md",
+"source_checked":"2026-10-26",
 "status":"review",
 "title":"Retrieval practice boosts learning, and the testing effect generalizes to the acquisition of entirely new material (forward testing effect)",
 "type":"claim"
@@ -278221,13 +278231,14 @@
 "type":"claim"
 },
 {
-"description":"Timetable configuration affects meaningful engagement in off-ramp transitions: 43% of students engaged during the type 2 'bridge' configuration versus 19% in type 1",
+"description":"In an observational comparison of timetable configurations, 43% of students meaningfully engaged in off-ramp transitions during the type 2 'bridge' configuration versus 19% in type 1",
 "evidence_strength":"weak",
 "id":"type2-timetable-off-ramp-engagement-43-vs-19",
 "newest_evidence":"2024",
 "path":"claims/type2-timetable-off-ramp-engagement-43-vs-19.md",
+"source_checked":"2026-10-26",
 "status":"review",
-"title":"Timetable configuration affects meaningful engagement in off-ramp transitions: 43% of students engaged during the type 2 'bridge' configuration versus 19% in type 1",
+"title":"In an observational comparison of timetable configurations, 43% of students meaningfully engaged in off-ramp transitions during the type 2 'bridge' configuration versus 19% in type 1",
 "type":"claim"
 },
 {

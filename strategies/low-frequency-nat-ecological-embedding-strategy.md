@@ -44,11 +44,11 @@ The article recommends embedding EF training within ecologically valid academic 
 
 ## Claims
 
-- [NAT produced large gains in Chinese handwriting construction and accuracy but no effect on directionality](../claims/nat-chinese-handwriting-construction-accuracy-gains.md) [+W]
+- [NAT produced large gains in Chinese handwriting construction and accuracy but no significant effect on directionality was detected](../claims/nat-chinese-handwriting-construction-accuracy-gains.md) [+W]
 - [NAT produced near-transfer gains in inhibitory control across task difficulty, Go RT, and Go/No-Go accuracy measures](../claims/nat-inhibitory-control-near-transfer.md) [+W]
 - [NAT significantly reduced parent-rated inattention in children with ADHD relative to control (η²p = 0.46)](../claims/nat-parent-rated-inattention-improvement.md) [+W]
 - [NAT significantly reduced homeroom teacher-rated inattention and hyperactivity/impulsivity relative to control](../claims/nat-teacher-rated-symptoms-improvement.md) [+W]
-- [NAT improved working memory task performance on main effects of Time and Group, but without significant Time × Group interactions](../claims/nat-working-memory-main-effects-only.md) [~W]
+- [NAT showed no significant Time × Group interaction on working memory task performance; only the main effects of Time and Group were significant](../claims/nat-working-memory-main-effects-only.md) [~W]
 
 ## Related Strategies
 

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2020
+source_checked: 2026-10-26
 sources:
   - id: luke-g-eglington-and-philip-i-pavlik-jr-2020
     resource: "https://doi.org/10.1038/s41539-020-00074-4"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3` · `i2` medium
-> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2020 · checked against its sources 2026-10-26 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i2` The OET 94 condition led to approximately 40% higher memory retention than the conventional S15 schedule; the benefit was Cohen's d = 0.64. [→ Luke G. Eglington and Philip I. Pavlik Jr 2020](#luke-g-eglington-and-philip-i-pavlik-jr-2020)

@@ -51,4 +51,4 @@ Three-way mixed MANOVA (group × time × practice) on video-coded lessons of 70 
 - [The three-way group × time × practice interaction was significant for explicitness but not duration: MCS explicitness rose more in the SRL-AIDE group while KC explicitness rose more in the comparison group](three-way-interaction-explicitness-not-duration.md) — related
 - [Primary teachers who participated in the iSELF professional development program showed significantly higher explicit SRL strategy instruction at post-test than control teachers](iself-pdp-increases-explicit-srl-instruction.md) — related
 - [Teachers typically provide only little explicit support for SRL in their classrooms](teachers-provide-little-explicit-srl-support.md) — related
-- [NAT produced large gains in Chinese handwriting construction and accuracy but no effect on directionality](nat-chinese-handwriting-construction-accuracy-gains.md) — related
+- [NAT produced large gains in Chinese handwriting construction and accuracy but no significant effect on directionality was detected](nat-chinese-handwriting-construction-accuracy-gains.md) — related

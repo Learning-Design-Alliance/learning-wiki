@@ -46,6 +46,6 @@ Ethnographic observation of a bridge period in which two 1st year students discu
 
 ## Related Claims
 - [Students perceive the breakout space as more democratic than the teacher-owned lecture theatre, feeling freer to direct questions and take learning risks](breakout-space-democratic-ownership-agentic-tension.md) — related
-- [Timetable configuration affects meaningful engagement in off-ramp transitions: 43% of students engaged during the type 2 'bridge' configuration versus 19% in type 1](type2-timetable-off-ramp-engagement-43-vs-19.md) — possibly the same claim (merge candidate)
+- [In an observational comparison of timetable configurations, 43% of students meaningfully engaged in off-ramp transitions during the type 2 'bridge' configuration versus 19% in type 1](type2-timetable-off-ramp-engagement-43-vs-19.md) — possibly the same claim (merge candidate)
 - [On-ramp engagement is higher in the type 2 timetable: 52% of 1st year students engaged versus 20% of 2nd year students in type 1](type2-onramp-engagement-52-vs-20.md) — related
 - [The fixed power dynamic of the lecture theatre produces 'failed', hidden and postponed pedagogic interactions among confused students](failed-hidden-postponed-pedagogic-interactions.md) — related

@@ -339,7 +339,7 @@ Whether a learner will spend effort here, and what makes it feel worth spending.
 - [Four weeks of cognitive training produced larger increases in growth mindset in children than business-as-usual schooling](../claims/cognitive-training-increases-growth-mindset-children.md) [+M] — instruction changes it
 - [Growth mindset prior to training predicted post-training math skills in the training group but not in controls](../claims/pretraining-mindset-predicts-posttraining-math.md) [~M] — an instructional effect differs with it
 - [On-ramp engagement is higher in the type 2 timetable: 52% of 1st year students engaged versus 20% of 2nd year students in type 1](../claims/type2-onramp-engagement-52-vs-20.md) [+M] — instruction changes it
-- [Timetable configuration affects meaningful engagement in off-ramp transitions: 43% of students engaged during the type 2 'bridge' configuration versus 19% in type 1](../claims/type2-timetable-off-ramp-engagement-43-vs-19.md) [+M] — instruction changes it
+- [In an observational comparison of timetable configurations, 43% of students meaningfully engaged in off-ramp transitions during the type 2 'bridge' configuration versus 19% in type 1](../claims/type2-timetable-off-ramp-engagement-43-vs-19.md) [+M] — instruction changes it
 
 ## The evidence by question
 - *Does autonomy-supportive teaching raise motivation and engagement compared with controlling teaching?* [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](../claims/autonomy-supports-intrinsic-motivation.md) [+M]

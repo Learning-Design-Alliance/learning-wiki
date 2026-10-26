@@ -47,7 +47,7 @@ The study's method pairs automated occupancy data (collected 24 h per day, 7 day
 - [The fixed power dynamic of the lecture theatre produces 'failed', hidden and postponed pedagogic interactions among confused students](../claims/failed-hidden-postponed-pedagogic-interactions.md) [+W]
 - [Feelings of ownership of the breakout space shift across the academic year among user groups, constraining how different cohorts can use it](../claims/ownership-tensions-shift-academic-year-user-groups.md) [+W]
 - [On-ramp engagement is higher in the type 2 timetable: 52% of 1st year students engaged versus 20% of 2nd year students in type 1](../claims/type2-onramp-engagement-52-vs-20.md) [+W]
-- [Timetable configuration affects meaningful engagement in off-ramp transitions: 43% of students engaged during the type 2 'bridge' configuration versus 19% in type 1](../claims/type2-timetable-off-ramp-engagement-43-vs-19.md) [+W]
+- [In an observational comparison of timetable configurations, 43% of students meaningfully engaged in off-ramp transitions during the type 2 'bridge' configuration versus 19% in type 1](../claims/type2-timetable-off-ramp-engagement-43-vs-19.md) [+W]
 
 ## Related Strategies
 

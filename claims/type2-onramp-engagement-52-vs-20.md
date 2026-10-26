@@ -49,4 +49,4 @@ Same occupancy monitoring analysis, comparing on-ramp engagement across timetabl
 
 ## Related Claims
 - [The type 2 configuration creates a 'bridge' hour of self-directed pedagogic potential between formal teaching in which students discuss difficult lecture content](bridge-period-self-directed-pedagogic-potential.md) — related
-- [Timetable configuration affects meaningful engagement in off-ramp transitions: 43% of students engaged during the type 2 'bridge' configuration versus 19% in type 1](type2-timetable-off-ramp-engagement-43-vs-19.md) — related
+- [In an observational comparison of timetable configurations, 43% of students meaningfully engaged in off-ramp transitions during the type 2 'bridge' configuration versus 19% in type 1](type2-timetable-off-ramp-engagement-43-vs-19.md) — related

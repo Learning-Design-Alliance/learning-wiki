@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2020
+source_checked: 2026-10-26
 sources:
   - id: paulo-f-carvalho-2020
     resource: "https://doi.org/10.1038/s41539-020-0061-1"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2` · `i1` small
-> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2020 · checked against its sources 2026-10-26 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i1` Greater self-regulated spacing (more sessions per unit) is a significant positive predictor of unit quiz grades, controlling for pretest, study time, retention interval, student and unit random factors. [→ Paulo F. Carvalho 2020](#paulo-f-carvalho-2020)

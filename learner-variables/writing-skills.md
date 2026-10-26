@@ -187,7 +187,7 @@ They are assessed with curriculum-based measures (copying, dictation, spelling, 
 - [Grade 2 writing fluency is moderately and independently related to Grade 2 writing quality among beginning writers](../claims/writing-fluency-related-writing-quality-beginning-writers.md) [+W] — learners who differ on it differ in outcomes
 - [Writing fluency completely mediates the relations of Grade 1 spelling and handwriting fluency to Grade 2 writing quality](../claims/fluency-completely-mediattranscription-writing-quality.md) [+W] — learners who differ on it differ in outcomes
 - [In Bird's school-wide testing, speed correlated positively with comprehension and accuracy but negatively with handwriting legibility.](../claims/speed-correlations-vary-by-subject.md) [~M] — learners who differ on it differ in outcomes
-- [NAT produced large gains in Chinese handwriting construction and accuracy but no effect on directionality](../claims/nat-chinese-handwriting-construction-accuracy-gains.md) [~M] — instruction changes it
+- [NAT produced large gains in Chinese handwriting construction and accuracy but no significant effect on directionality was detected](../claims/nat-chinese-handwriting-construction-accuracy-gains.md) [~M] — instruction changes it
 
 ## Measures
 - **Wechsler Individual Achievement Test (Third Edition)** (Breaux & Frey, 2010): This multi-battery test can be used in a variety of settings to measure ability and screen for potential learning disabilities. There are extensive written expression sub-tests to analyze Composition abilities.
