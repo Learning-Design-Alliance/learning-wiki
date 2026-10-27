@@ -46,6 +46,7 @@ As concrete revolutionary moves, the article recommends broadening beyond deskto
 - [Adopt unified KPIs and rigorously assess learner diversity, recommender fairness, and long-term engagement when evaluating ITS](unified-kpis-longitudinal-its-evaluation.md)
 - [Future AI-SRL research should broaden search strategies, include educators and younger learners, address motivation, and apply longitudinal designs](ai-srl-future-research-recommendations.md)
 - [Use data mining in education research in a principled, goal-driven way informed by domain knowledge](principled-data-mining-use-strategy.md)
+- [Move AIED beyond its modeling comfort zone into ill-defined domains](aied-beyond-comfort-zone-ill-defined-domains.md)
 
 ## Examples
 -

@@ -164,8 +164,10 @@ Assisted sorting, unaided rebuilding, integrative-task performance, detail recal
 - [Sequencing](sequencing.md) — the order in which branches of an organization are taught
 
 ## Examples
+
 - [Frame-aided writing procedure for authors of historical explanations](../strategies/frame-aided-writing-procedure.md)
 - [Teach students to use frame slot questions as a reading, studying, and self-monitoring tool](../strategies/teach-students-frame-slot-questions.md)
+- [Task Trees: hierarchical knowledge representation for task recognition and event selection](../designs/task-trees-knowledge-representation.md)
 
 ### Illustrative
 

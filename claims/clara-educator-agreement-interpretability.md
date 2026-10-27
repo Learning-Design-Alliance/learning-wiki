@@ -75,3 +75,4 @@ Same blinded educator evaluation (Table 7), rated on 1-5 Likert criteria includi
 - [Students who experienced annotation subjectivity firsthand most frequently requested ways to reduce disagreement, indicating they had not internalised disagreement as meaningful signal](students-request-eliminating-disagreement.md) — related
 - [CLARA's gains come from the interaction of structured representation, constrained annotation, and aggregation, not prompt engineering alone](clara-contribution-decomposition.md) — related
 - [LLM-as-a-Judge scores correlate with blinded human expert judgments, more strongly for Medical Narrative Generation than Story Direction](llm-judge-correlates-human-experts-medgame.md) — related
+- [The evaluation was a blind, two-condition study in which 30 informatics students ran the Bio-safety Lab scenario both with and without the Narrative Manager across three stages](blind-crossover-biosafety-evaluation-design.md) — related

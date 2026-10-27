@@ -45918,5 +45918,137 @@
  "retrieval-practice\ttest-with-feedback practice\trestudy": {
   "label": "retrieval practice with feedback vs restudy",
   "treatment_is_a": true
+ },
+ "feedback-timing\tconcurrent or immediate feedback during movement\tdelayed feedback after training": {
+  "label": "immediate vs delayed feedback",
+  "treatment_is_a": true
+ },
+ "feedback-timing\tfeedback after every action\tfeedback after five actions": {
+  "label": "more frequent vs less frequent feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\thaptic feedback\tvisual or auditory feedback": {
+  "label": "haptic vs visual or auditory feedback",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tEmbed formative assessment throughout the course\tLearning materials plus summative assessment only": {
+  "label": "formative assessment vs summative assessment only",
+  "treatment_is_a": true
+ },
+ "learner-difference\t1 year of pre-primary programme\tless than 1 year or no pre-primary programme": {
+  "label": "1 year of pre-primary programme attendance vs less than 1 year or no pre-primary programme attendance",
+  "treatment_is_a": true
+ },
+ "learner-difference\t1 year of pre-primary programme attendance\tless than 1 year or no pre-primary programme attendance": {
+  "label": "1 year of pre-primary programme attendance vs less than 1 year or no pre-primary programme attendance",
+  "treatment_is_a": true
+ },
+ "learner-difference\t13–17-year-old participants\tadults": {
+  "label": "adolescents vs adults",
+  "treatment_is_a": true
+ },
+ "learner-difference\t1D-Temporal strategy users in the II task\t2D-Simple strategy users in the II task": {
+  "label": "1D-Temporal strategy use vs 2D-Simple strategy use",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2 or more years of pre-primary programme\tless than 1 year or no pre-primary programme": {
+  "label": "2 or more years of pre-primary programme attendance vs less than 1 year or no pre-primary programme attendance",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2 or more years of pre-primary programme attendance\tless than 1 year or no pre-primary programme attendance": {
+  "label": "2 or more years of pre-primary programme attendance vs less than 1 year or no pre-primary programme attendance",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2D-Complex strategy users in the II task\t2D-Simple strategy users in the II task": {
+  "label": "2D-Complex strategy use vs 2D-Simple strategy use",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2D-Simple strategy users in the RB task\t1D-Temporal strategy users in the RB task": {
+  "label": "2D-Simple strategy use vs 1D-Temporal strategy use",
+  "treatment_is_a": true
+ },
+ "learner-difference\t3–12-year-old children\tadults": {
+  "label": "children vs adults",
+  "treatment_is_a": true
+ },
+ "learner-difference\t4 Hz EEG amplitude for high-frequency words versus pseudowords\treading scores": {
+  "label": "4 Hz EEG amplitude for high-frequency words versus pseudowords vs reading scores",
+  "treatment_is_a": true
+ },
+ "learner-difference\t4 Hz EEG amplitude for learned-versus-unlearned low-frequency words\tword decoding and rapid color-naming scores": {
+  "label": "4 Hz EEG amplitude for learned-versus-unlearned low-frequency words vs word decoding and rapid color-naming scores",
+  "treatment_is_a": true
+ },
+ "learner-difference\t4 Hz EEG amplitude for medium-frequency words versus pseudowords\treading scores": {
+  "label": "4 Hz EEG amplitude for medium-frequency words versus pseudowords vs reading scores",
+  "treatment_is_a": true
+ },
+ "learner-difference\t5th-year students with later chronotypes in morning school\t5th-year students with later chronotypes in evening school": {
+  "label": "morning school vs evening school",
+  "treatment_is_a": true
+ },
+ "learner-difference\t8–9 h of sleep per school night\tless than 6 h": {
+  "label": "8–9 hours of sleep vs less than 6 hours",
+  "treatment_is_a": true
+ },
+ "learner-difference\t8–9 h of sleep per school night\tmore than 10 h": {
+  "label": "8–9 hours of sleep vs more than 10 hours",
+  "treatment_is_a": true
+ },
+ "learner-difference\t9th-grade Algebra 1\t9th-grade Pre-Algebra or lower": {
+  "label": "Algebra 1 vs Pre-Algebra or lower",
+  "treatment_is_a": true
+ },
+ "learner-difference\t9th-grade Geometry or higher\t9th-grade Algebra 1": {
+  "label": "Geometry or higher vs Algebra 1",
+  "treatment_is_a": true
+ },
+ "learner-difference\t>157 spoken cues during sleep\tfewer than 158 spoken cues during sleep": {
+  "label": "more than 157 spoken cues during sleep vs fewer than 158 spoken cues during sleep",
+  "treatment_is_a": true
+ },
+ "learner-difference\tADHD status\tno ADHD": {
+  "label": "ADHD vs no ADHD",
+  "treatment_is_a": true
+ },
+ "media-design\tagent present\tagent absent": {
+  "label": "agent present vs agent absent",
+  "treatment_is_a": true
+ },
+ "media-design\tanimated agent present with voice\tvoice only with agent absent": {
+  "label": "agent present with voice vs agent absent with voice-only instruction",
+  "treatment_is_a": true
+ },
+ "media-design\tnegative emotion ratings for bored instructor\tpositive emotion ratings for bored instructor": {
+  "label": "negative emotion ratings vs positive emotion ratings",
+  "treatment_is_a": true
+ },
+ "media-design\tpositive emotion scales\tnegative emotion scales": {
+  "label": "positive emotion scales vs negative emotion scales",
+  "treatment_is_a": true
+ },
+ "media-design\tpositive emotion scales for the happy instructor\tnegative emotion scales for the happy instructor": {
+  "label": "positive emotion scales vs negative emotion scales",
+  "treatment_is_a": true
+ },
+ "media-design\tvoice plus onscreen animated instructor\tvoice alone with slides": {
+  "label": "on-screen animated instructor with voice vs voice-only instruction",
+  "treatment_is_a": true
+ },
+ "media-design\tvoice-only instruction with agent absent\tvoice plus onscreen animated agent": {
+  "label": "on-screen animated agent with voice vs voice-only instruction",
+  "treatment_is_a": false
+ },
+ "media-design\tvoice-only instructional clips\tvoice plus onscreen animated agent clips": {
+  "label": "on-screen animated agent with voice vs voice-only instruction",
+  "treatment_is_a": false
+ },
+ "scaffolding\tNarrative Manager balancing event difficulty\tidentical system without a Narrative Manager": {
+  "label": "Narrative Manager vs no Narrative Manager",
+  "treatment_is_a": true
+ },
+ "scaffolding\tadaptive peer-tutoring support\tfixed peer-tutoring support": {
+  "label": "Adaptive peer-tutoring support vs fixed peer-tutoring support",
+  "treatment_is_a": true
  }
 }

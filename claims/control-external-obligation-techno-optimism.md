@@ -52,3 +52,4 @@ Results section on sustainability attitudes (control group n=70). Students typic
 - [Expert participants produced predominantly optimistic scenarios with limited discussion of tensions, limits, or unintended consequences](optimistic-scenario-bias-limitation.md) — related
 - [Student perceptions of AI use in academic work are neutral and range from viewing AI as valid learning assistance to viewing it as cheating, depending on task type, transparency, and assessment design](student-ai-perceptions-neutral-task-dependent.md) — related
 - [Agency metaphors expressed fear that GenAI steals human agency and threatens jobs, reflecting a binary human-versus-machine model](agency-metaphors-genai-fear-of-agency-loss.md) — related
+- [Ethics discussions in AIED are largely consequentialist, specifically utilitarian, in nature](aied-ethics-consequentialist-utilitarian.md) — related

@@ -47,6 +47,7 @@ Temporal analysis plotting mean scores of the significant traits (Table 2) over 
 
 
 ## Related Claims
+
 - [PTA traits show stronger statistical explanatory power than dialogue-act and Bloom's taxonomy coded baselines on StudyChat](pta-traits-beat-dialogue-act-bloom-baselines.md) — related
 - [PTA-derived traits significantly improve explained exam-score variance over a prior-outcome baseline in one semester of StudyChat but not the other](pta-traits-explain-studychat-exam-variance-semester-inconsistent.md) — related
 - [In StudyChat, conceptual-understanding behaviors correlate positively with exam outcomes while task-delegating behaviors correlate negatively](studychat-conceptual-positive-delegation-negative.md) — related
@@ -55,3 +56,4 @@ Temporal analysis plotting mean scores of the significant traits (Table 2) over 
 - [Correlations between baseline scores and practice performance follow task-specific qualitative trajectories (upward, downward, or constant) that do not cluster by cognitive ability domain](task-specific-pgs-correlation-trajectories.md) — related
 - [Domain-specific question-asking fluency, originality, and complexity significantly increased over a semester of domain knowledge acquisition](domain-specific-question-asking-improves-with-knowledge.md) — related
 - [Students' interest in the lesson content declined as the semester progressed regardless of condition](lesson-interest-declines-over-time.md) — related
+- [Task progression graphs show difficult Narrative Manager events raise the distance-to-goal curve while assistive events such as hiding materials produce flat zones that cost user time](event-effects-on-task-progression.md)

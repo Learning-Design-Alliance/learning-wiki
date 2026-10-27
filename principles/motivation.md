@@ -46,7 +46,7 @@ sources:
 # Motivation
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 110 claims (69 for, 40 mixed, 1 against) · 98 studies (28 review, 25 causal, 12 associational, 11 theoretical, 9 qualitative, 8 quant-synthesis, 5 design), `q1`–`q4` · 14 of 98 report an effect size · 96 claims rest on one study
+> **Evidence** · 111 claims (69 for, 41 mixed, 1 against) · 99 studies (29 review, 25 causal, 12 associational, 11 theoretical, 9 qualitative, 8 quant-synthesis, 5 design), `q1`–`q4` · 14 of 99 report an effect size · 97 claims rest on one study
 
 ## Conditional relationship
 
@@ -244,6 +244,7 @@ Starting, effort, voluntary persistence, enjoyment, reported motivation and lear
 - [Biology course grade partially mediates the UV intervention's effects on course continuation and STEM major persistence](../claims/grades-mediate-uv-retention-effects.md) [~W]
 - [Difficult math exercises impair elementary children's motivational, cognitive and affective task experiences relative to easier exercises](../claims/difficult-math-tasks-impair-motivation-engagement.md) [+W]
 - [In Study 1, the Moderate-High All, Intrinsic and Confident, and Very High All profiles showed higher behavioral and cognitive engagement than the Average All profile.](../claims/study1-high-motivation-profiles-higher-engagement.md) [~W]
+- [ChatGPT in a flipped classroom with hands-on coding significantly increased computational thinking, self-efficacy, and motivation](../claims/chatgpt-flipped-classroom-increased-ct-self-efficacy-motivation.md) [~W]
 
 ## Related Principles
 - [Learner Choice](autonomy.md) — one route to stronger ownership and autonomy

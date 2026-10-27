@@ -69,3 +69,4 @@ Narrative review attributing this experimental finding to Cheng and Chouldechova
 - [Algorithm aversion persists even among participants who saw the algorithm outperform the human forecaster](aversion-persists-after-seeing-model-outperform.md) — related
 - [Confidence in the algorithm's forecasts mediates the effect of seeing it perform on choosing it](model-confidence-mediates-algorithm-aversion.md) — related
 - [People lose confidence more quickly in algorithms than in humans after seeing the same kind of mistakes](faster-confidence-loss-algorithms-than-humans.md) — related
+- [Algorithm aversion: people show negative attitudes toward algorithms and trust humans more, especially for subjective tasks requiring attention to individual uniqueness](algorithm-aversion-educators-pla.md) — related

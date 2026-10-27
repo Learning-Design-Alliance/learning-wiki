@@ -65,3 +65,4 @@ Narrative synthesis: the review attributes these failure modes to multiple cited
 - [Of 178 reference sources produced by AI dialogue systems, 69 lacked a DOI and 28 could not be found via Google search and had no existing DOI](ai-confabulated-references-178-sample.md) — a narrower finding that bears on this claim
 - [In a narrative educator assessment, coding assistants (Cursor and Claude Code) produced the most accurate, complete, and pedagogically sound slides from textbook chapters](coding-assistants-best-slide-generation.md) — related
 - [Vision-assisted extraction identified chart type in all sampled images but showed ±5–10% numeric estimation error and two failure modes correctable via mandatory review](llm-chart-extraction-accuracy-failure-modes.md) — related
+- [Explainable AI in education is an ethical design choice, grounded in the five principles of beneficial AI including explicability](explainable-ai-education-ethical-design-choice.md) — related

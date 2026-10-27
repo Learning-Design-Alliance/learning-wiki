@@ -13,7 +13,7 @@ generated:
 # Prior Knowledge
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 189 claims (113 show a difference, 54 mixed, 22 no difference) · 149 studies (46 causal, 32 review, 24 associational, 22 theoretical, 9 quant-synthesis, 8 qualitative, 8 design), `q1`–`q4` · 20 of 149 report an effect size · 172 claims rest on one study
+> **Evidence** · 190 claims (113 show a difference, 55 mixed, 22 no difference) · 150 studies (46 causal, 32 review, 24 associational, 22 theoretical, 9 quant-synthesis, 9 qualitative, 8 design), `q1`–`q4` · 20 of 150 report an effect size · 173 claims rest on one study
 
 ## Description
 A learner's existing domain knowledge in the subject area before instruction begins — the organized network of concepts, procedures, and experiences that new learning must connect to. It is typically operationalized as a pretest score, a standardized prior-achievement measure, or instructor-rated expertise level, and functions as the single strongest predictor of learning gains in most instructional research [~S]. Prior knowledge is the learner-side variable that drives the [Expertise Reversal Effect](../theories/expertise-reversal-effect.md): the same technique that helps novices can hinder more knowledgeable learners.
@@ -237,6 +237,7 @@ The Learner Variability Navigator's Core Academic Literacies factor belongs here
 - [Overall choice frequency did not differ by condition or prior knowledge, but the condition pattern reversed across prior-knowledge groups](../claims/choice-frequency-pk-condition-reversal.md) [~M] — an instructional effect differs with it
 - [Prior domain knowledge predicts learning outcomes but not, on average, learning gains](../claims/prior-knowledge-predicts-outcomes-not-gains.md) [~M] — learners who differ on it differ in outcomes
 - [Prior knowledge significantly predicted algebra posttest scores and learning gains, with high-prior-knowledge students scoring higher and low-prior-knowledge students gaining more](../claims/prior-knowledge-moderates-algebra-outcomes.md) [+M] — learners who differ on it differ in outcomes
+- [STyLE-OLM benefited both more knowledgeable learners (reflective domain interactions) and less knowledgeable learners (inspecting and challenging their models)](../claims/iolm-benefits-both-knowledge-levels.md) [~M] — an instructional effect differs with it
 
 ## The evidence by question
 - *Does knowing more beforehand mean learning more from the instruction?* [Prior Knowledge Determines New Learning](../claims/prior-knowledge-determines-new-learning.md) [+M]

@@ -50,3 +50,4 @@ Confidence ratings (5-point scales) collected after the choice across Studies 1,
 - [Seeing an algorithm perform makes people significantly less likely to choose it over a human forecaster](seeing-algorithm-perform-reduces-choice-of-algorithm.md) — related
 - [A belief that the algorithm is less likely to be perfect does not explain experience-driven algorithm aversion](perfection-belief-does-not-explain-aversion.md) — related
 - [Slight control over an algorithm's output reduces algorithm aversion, with process control producing the strongest calibration effects](slight-control-reduces-algorithm-aversion.md) — related
+- [Algorithm aversion: people show negative attitudes toward algorithms and trust humans more, especially for subjective tasks requiring attention to individual uniqueness](algorithm-aversion-educators-pla.md) — related

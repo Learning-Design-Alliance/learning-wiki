@@ -50,3 +50,4 @@ The editors report the experimental study by Tegos, Demetriadis, Papadopoulos, a
 - [Teaching a ChatGPT agent improves students' self-regulated learning, specifically self-efficacy and use of cognitive strategies](chatgpt-teaching-self-efficacy-cognitive-strategies.md) — related
 - [Students who teach a ChatGPT teachable agent in natural language achieve greater knowledge gains than students who learn the same material from online videos](chatgpt-teachable-agent-knowledge-gains.md) — related
 - [In math problem solving, a tutor LLM alone significantly improved unassisted test accuracy over no-agent control, while peer-like error agents alone did not reach significance](tutor-alone-significant-peers-alone-not-math.md) — related
+- [SAIC dialogue agent improved children's schematic knowledge more than a multimedia system without it (statistically significant U-test difference)](saic-agent-improves-schematic-knowledge.md) — related

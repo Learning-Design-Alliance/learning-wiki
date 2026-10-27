@@ -40,6 +40,7 @@ The article recommends that institutions beginning a focused push with learning 
 
 - [Provide in-depth privacy training and transparent communication about learning analytics processes to build user understanding and student trust](privacy-training-and-transparency-build-trust.md)
 - [Involve key stakeholders directly in defining privacy and designing LA systems](stakeholder-involvement-defining-privacy-la.md)
+- [Investigate stakeholder privacy requirements and define transparent rules for learner-data use](aied-learner-data-privacy-practices.md)
 
 ## Examples
 -

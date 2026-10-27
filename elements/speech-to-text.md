@@ -26,7 +26,7 @@ sources:
 # Speech-to-text
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 11 claims (1 for, 8 mixed, 2 against) · 20 studies (7 qualitative, 5 associational, 2 causal, 2 review, 2 design, 1 quant-synthesis, 1 theoretical), `q2`–`q4` · 0 of 20 report an effect size · 6 claims rest on one study
+> **Evidence** · 12 claims (1 for, 9 mixed, 2 against) · 21 studies (7 qualitative, 5 associational, 3 design, 2 causal, 2 review, 1 quant-synthesis, 1 theoretical), `q1`–`q4` · 0 of 21 report an effect size · 7 claims rest on one study
 
 ## Description
 Speech-to-text converts spoken language into written text, giving learners another route for composing, capturing ideas, and participating in text-based environments. Its instructional value is not just accommodation, although that is often essential. It can reduce transcription barriers, help learners externalize ideas more quickly, and support drafting when handwriting or keyboarding would otherwise consume too much effort.
@@ -80,6 +80,7 @@ Speech-to-text is most useful when transcription effort, not idea generation, is
 - [ASR recognition accuracy enhances learning motivation but does not significantly predict reflective behavior](../claims/asr-accuracy-motivation-not-reflection.md) [~M]
 - [Successful transcriptions of videos using Dirac notation, eigenstate derivations, and vector calculus indicate generalized capability beyond introductory physics](../claims/transcription-capability-beyond-introductory-physics.md) [~W]
 - [Students reported text supports structured, iterative planning while some valued voice for getting initial ideas out](../claims/modality-shapes-planning-and-idea-generation.md) [~W]
+- [Off-the-shelf speech models preserve and correct reading errors differently: wav2vec 2.0 preserves errors phonetically, Whisper V2 often corrects them](../claims/asr-models-differ-in-preserving-reading-errors.md) [~W]
 
 ## The evidence by question
 

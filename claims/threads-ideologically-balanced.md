@@ -1,0 +1,53 @@
+---
+type: claim
+title: Course-created forum threads in these MOOCs showed balanced ideological contribution, with only small conservative-leaning exceptions
+description: Course-created forum threads in these MOOCs showed balanced ideological contribution, with only small conservative-leaning exceptions
+id: threads-ideologically-balanced
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-27
+evidence_strength: moderate
+newest_evidence: 2018
+sources:
+  - id: yeomans-2018
+    resource: "https://doi.org/10.1007/s40593-017-0161-0"
+    title: "Yeomans, M., Stewart, B. M., Mavon, K., Kindel, A., Tingley, D., & Reich, J. (2018). The Civic Mission of MOOCs: Engagement across Political Differences in Online Forums. International Journal of Artificial Intelligence in Education, 28, 553–589. https://doi.org/10.1007/s40593-017-0161-0"
+    author: "Yeomans, M., Stewart, B. M., Mavon, K., Kindel, A., Tingley, D., & Reich, J."
+    q: 2
+    i: "?"
+    kind: associational
+    rigour: 2
+---
+
+# Course-created forum threads in these MOOCs showed balanced ideological contribution, with only small conservative-leaning exceptions
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
+
+## Subclaims
+`q2 i?` Almost all substantive course threads in both classes had balanced ideological contribution relative to the poster distribution. [→ Yeomans 2018](#yeomans-2018)
+
+## Evidence
+
+### Yeomans 2018
+
+Yeomans, M., Stewart, B. M., Mavon, K., Kindel, A., Tingley, D., & Reich, J. (2018). The Civic Mission of MOOCs: Engagement across Political Differences in Online Forums. International Journal of Artificial Intelligence in Education, 28, 553–589. https://doi.org/10.1007/s40593-017-0161-0
+
+`q2 · i?` · `associational · r2`
+
+Descriptive analysis plotting average poster ideology per substantive course thread against effective sample size (Fig. 3). "almost all the threads in both classes had a balanced ideological contribution"; conservative-leaning threads existed but were small (under fifty posts) and few.
+
+> "The results show that almost all the threads in both classes had a balanced ideological contribution, relative to the distribution of individual posters. There are some conservative-leaning threads, but they are small (under fifty posts) and limited to a small number of partisan topics."
+
+## Discussion
+
+
+## Related Claims
+- [Political ideology shows essentially no relationship with total forum activity in politically-themed MOOCs](ideology-no-relationship-forum-activity.md) — related
+- [Forum comments show little evidence of ideology-based sorting, indicating engagement across political difference](little-ideological-sorting-in-comments.md) — related
+- [Politically-themed MOOCs attract U.S. students representing a diverse range of political beliefs across the ideological spectrum](moocs-attract-ideologically-diverse-students.md) — related
+- [Upvote assortativity by ideology appeared in American Government but not Saving Schools, with sorting stronger among conservatives](upvote-assortativity-mixed-across-courses.md) — related
+- [Structural topic models show partisan differences in topic use amount to less than 2% of all MOOC forum posts](topic-use-converges-across-partisans.md) — related
+- [Partisan language is only weakly predictive of ideology in MOOC forum posts, suggesting linguistic convergence](weak-partisan-language-distinctiveness.md) — related

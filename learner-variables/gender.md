@@ -13,7 +13,7 @@ generated:
 # Gender
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 327 claims (192 show a difference, 73 mixed, 62 no difference) · 217 studies (141 associational, 38 causal, 14 quant-synthesis, 10 review, 5 qualitative, 5 theoretical, 4 design), `q1`–`q4` · 39 of 217 report an effect size · 319 claims rest on one study
+> **Evidence** · 328 claims (193 show a difference, 73 mixed, 62 no difference) · 218 studies (141 associational, 38 causal, 14 quant-synthesis, 11 review, 5 qualitative, 5 theoretical, 4 design), `q1`–`q4` · 39 of 218 report an effect size · 320 claims rest on one study
 
 ## How to read this page
 
@@ -366,6 +366,7 @@ Gender is recorded in most education studies, usually as a binary category taken
 - [Post-COVID boys showed no significant literacy or schooling-attainment loss and had 2% lower out-of-school rates](../claims/post-covid-boys-no-literacy-loss.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Post-COVID girls completed 0.08–0.1 fewer years of schooling than matched pre-COVID girls, with no difference in out-of-school rates](../claims/post-covid-girls-schooling-attainment-loss.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Boys report moderately higher academic self-concept than girls in fourth and fifth grades, but not in sixth grade](../claims/boys-higher-asc-grades-4-5-not-6.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Agent benefits vary by learner characteristics: females and marginalized learners favor agent-based environments more](../claims/agent-benefits-learner-characteristics.md) [+M] — an instructional effect differs by group
 
 ## The evidence by question
 - *Do girls and boys differ in mathematics and reading achievement, by how much, and where in the distribution?* [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](../claims/pisa-sex-differences-math-small-reading-three-times-larger.md) [+M]

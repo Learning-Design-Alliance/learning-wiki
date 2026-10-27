@@ -54,6 +54,7 @@ Bayesian Knowledge Tracing models student learning of a skill with four paramete
 
 - [Fit the combined parameter A and fix P(G) or P(L0) externally as an alternative to Dirichlet priors when fitting the BKT HMM](../strategies/fit-a-fix-one-parameter-alternative-to-dirichlet-priors.md)
 - [Use posterior credible intervals on condition-specific BKT parameter contrasts to compare experimental conditions](../strategies/posterior-contrasts-condition-specific-bkt-parameters.md)
+- [Give collaborators the benefit of the doubt by inflating guess and slip parameters in collaborative knowledge tracing](../strategies/inflated-guess-slip-collaborative-kt.md)
 
 ## Key Sources
 - Van de Sande, B. (2013). Properties of the Bayesian Knowledge Tracing Model. Journal of Educational Data Mining, 5(2). https://doi.org/10.5281/zenodo.3554629 <!-- corrected 2026-10-05: was the JEDM homepage; DataCite (Zenodo) DOI verified -->

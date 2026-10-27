@@ -52,3 +52,4 @@ Null interaction tests in MSEM Models C5 and D5 of the Swedish grade 4 TIMSS 201
 - [At the classroom level in the joint Model E, only aggregated classroom management, aggregated SES and aggregated language background related significantly to mathematics achievement](classroom-level-model-e-composition-effects.md) — related
 - [Student-perceived instructional clarity is significantly and substantially related to mathematics confidence at both student and classroom levels](instructional-clarity-math-confidence-both-levels.md) — related
 - [Student-perceived classroom management is significantly associated with mathematics achievement at both student and classroom levels in Swedish grade 4 TIMSS 2019](classroom-management-math-achievement-both-levels.md) — related
+- [No statistically significant evidence that the model scores Ghanaian students differently by gender or home language relative to human raters](no-significant-asr-bias-gender-home-language.md) — related

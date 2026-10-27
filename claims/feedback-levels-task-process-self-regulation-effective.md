@@ -130,3 +130,4 @@ Read from the abstract only. A meta-analysis of feedback interventions on task p
 - [Self-regulated learning improves achievement](self-regulated-learning-improves-achievement.md) — related
 - [Self Assessment Improves Self Regulated Learning](self-assessment-improves-self-regulated-learning.md) — related
 - [Established feedback frameworks do not address the epistemic status of feedback tasks relevant to automation decisions](existing-feedback-frameworks-silent-on-epistemic-status.md) — related
+- [Grounding LAI feedback in constructive alignment and the Hattie–Timperley feedback model structures personalised interventions](ca-and-feedback-model-structure-lai-interventions.md) — a narrower finding that bears on this claim

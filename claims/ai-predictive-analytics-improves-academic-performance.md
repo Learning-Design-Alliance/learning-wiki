@@ -84,3 +84,4 @@ A PRISMA 2020 systematic review with a narrative (not meta-analytic) synthesis. 
 - [More than 30% of identified at-risk students visited previously unengaged learning activities within two weeks of the relational feedback email](relational-feedback-email-increases-activity-visits.md) — a narrower finding that bears on this claim
 - [Ninth-grade early warning systems around course grades and attendance led to substantial improvements in grades, graduation rates, and test-measured learning gains](ninth-grade-early-warning-systems-improvements.md) — related
 - [Confounding may explain the large retention effects reported for the Course Signals early warning system](course-signals-confounding-number-of-classes.md) — related
+- [Active educator use of predictive learning analytics can produce substantial gains for disadvantaged students, but only a fraction of educators use such systems effectively](pla-active-use-gains-disadvantaged-students.md) — related

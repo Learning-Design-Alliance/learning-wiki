@@ -57,3 +57,4 @@ Focus group finding: virtually every participant stressed equity, but campuses l
 - [Ethical, financial, and infrastructural barriers significantly constrain the long-term sustainability of AI-driven educational transformation in higher education](ethical-financial-infrastructural-barriers-constrain-ai-sustainability.md) — related
 - [Reported benefits of AI integration were efficiency, personalization, and engagement, while challenges were equity, ethics, and academic integrity](ai-integration-benefits-and-challenges.md) — related
 - [Technology can play a key role in comprehensive reform, but the adaptive capacity of the institution is equally critical for success](technology-role-adaptive-capacity-reform.md) — related
+- [A self-service course-level framework lowers the infrastructure barrier to piloting learning analytics interventions](self-service-lai-infrastructure-lowers-barrier.md) — a narrower finding that bears on this claim

@@ -68,3 +68,4 @@ Mixed ANOVA on perceived trustworthiness ratings (α=0.85) with effect size "η�
 - [Students exposed to embedded rating scales mention interviewees' expertise more often in their convincingness justifications](embedded-rating-scales-expertise-justifications.md) — related
 - [Watching the sourcing instructional video unexpectedly lowered students' trustworthiness ratings of the interviewees](instructional-video-lowered-trustworthiness-ratings.md) — related
 - [Learners are more willing to act on feedback when they perceive the sender as credible and trustworthy](sender-credibility-supports-feedback-use.md) — related
+- [Agents with expertise (Expert and Mentor) improved learning outcomes and were perceived as more credible](expertise-agents-improved-learning.md) — related

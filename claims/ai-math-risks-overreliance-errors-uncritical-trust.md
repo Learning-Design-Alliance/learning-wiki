@@ -208,3 +208,5 @@ Review synthesis on uncritical trust in AI outputs. The authors conclude that "u
 - [AI over-reliance can produce inversion effects, reducing cognitive processing depth and learning outcomes](ai-inversion-effects-overreliance-reduce-learning.md) — related
 - [On novel, hard tasks, superior trained adults tend to jump at conclusions, accept results without surety, and become confused, more than orthodox psychology supposes](adult-thinking-task-novelty-not-constitutional.md) — a narrower finding that bears on this claim
 - [A perspective article warns that students risk overreliance on LMFM outputs and that overuse may impede critical thinking, research skills, and independent problem-solving](lmfm-overreliance-impedes-critical-thinking.md) — related
+- [Debugging GenAI-generated code fosters critical, reflective, logical, and adaptive thinking skills](debugging-genai-code-fosters-thinking-skills.md) — related
+- [Overreliance on GenAI risks diminishing higher-order thinking skills and programming logic](genai-overreliance-risks-hots-programming-logic.md) — related

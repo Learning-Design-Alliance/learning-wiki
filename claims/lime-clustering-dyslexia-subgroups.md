@@ -55,3 +55,4 @@ K-Means clustering of LIME coefficients from a Gaussian Naive Bayes model (F1 = 
 - [Four distinct action-control belief profiles (agentic, moderate, avoidant, and mixed) emerge among Finnish ninth graders](four-action-control-belief-profiles-ninth-graders.md) — a broader claim this one bears on
 - [Subgroup membership predicted distinct long-term literacy trajectories 68.2 months after intervention ended](subgroup-membership-predicts-long-term-literacy.md) — related
 - [Machine-learning-based responder selection raises mean group reading-speed gain from 23% to 43%](responder-selection-gain-23-to-43.md) — a broader claim this one bears on
+- [LIME analysis shows the latent features mainly encode information from eye and mouth areas of the face](lime-eye-mouth-areas-in-latent-features.md) — related

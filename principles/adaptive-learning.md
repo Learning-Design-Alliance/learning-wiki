@@ -36,7 +36,7 @@ sources:
 # Adaptive Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 72 claims (39 for, 29 mixed, 4 against) · 70 studies (24 causal, 18 review, 8 design, 7 quant-synthesis, 7 associational, 4 theoretical, 2 qualitative), `q1`–`q4` · 11 of 70 report an effect size · 65 claims rest on one study
+> **Evidence** · 73 claims (40 for, 29 mixed, 4 against) · 71 studies (24 causal, 18 review, 9 design, 7 quant-synthesis, 7 associational, 4 theoretical, 2 qualitative), `q1`–`q4` · 11 of 71 report an effect size · 66 claims rest on one study
 
 ## Conditional relationship
 
@@ -192,6 +192,7 @@ Within-system performance, aligned achievement, standardised achievement, delaye
 - [Effects of ITSs are mitigated when compared to non-intelligent tutoring systems: three of four comparisons found no significant difference in learning gains](../claims/its-vs-non-intelligent-ts-mitigated.md) [~W]
 - [Adaptive task difficulty significantly improved performance for students at non-academic-track schools compared to control](../claims/adaptive-task-difficulty-benefits-nonacademic-track.md) [+W]
 - [Fifty minutes of adaptive n-back training produced small but significant accuracy gains and response-time decreases with large individual differences](../claims/fifty-minute-nback-training-improves-accuracy-and-response-time.md) [+W]
+- [KERMIT observes students' actions and adapts to their knowledge and learning abilities](../claims/kermit-adapts-to-student-actions.md) [+W]
 
 ## Related Principles
 - [Cognitive Load Management](cognitive-load-management.md) — adaptation is the primary mechanism for keeping intrinsic load matched to learner expertise over time

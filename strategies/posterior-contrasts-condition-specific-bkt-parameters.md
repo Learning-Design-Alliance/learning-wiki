@@ -42,6 +42,7 @@ The article demonstrates a concrete analysis recipe for educational experiments:
 ## Related Strategies
 
 - [Initialize BKT parameters from simulated student data when no human data is available](initialize-bkt-parameters-from-simulated-data.md)
+- [Give collaborators the benefit of the doubt by inflating guess and slip parameters in collaborative knowledge tracing](inflated-guess-slip-collaborative-kt.md)
 
 ## Examples
 -

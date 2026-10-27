@@ -49,3 +49,4 @@ Frequency analysis of 1376 WAT response tokens from 436 undergraduates at four T
 - [Turkish undergraduates show a use-cognition gap: 77.7% use AI tools at least several times per week while formal AI education remains low](use-cognition-gap-turkish-undergraduates.md) — related
 - [AI governance vocabulary (bias, transparency, privacy, accountability, regulation, fairness) is a structural zero in students' AI associative networks](structural-zero-ai-governance-vocabulary.md) — related
 - [Algorithmic and technical-mechanism concepts are marginal in students' AI networks: machine learning was produced by a single participant across 436 respondents](algorithmic-concepts-marginal-machine-learning-single-response.md) — related
+- [Ethics discussions in AIED are largely consequentialist, specifically utilitarian, in nature](aied-ethics-consequentialist-utilitarian.md) — related

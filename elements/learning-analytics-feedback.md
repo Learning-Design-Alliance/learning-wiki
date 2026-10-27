@@ -13,7 +13,7 @@ generated:
 # Learning Analytics-Driven Feedback
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 59 claims (23 for, 27 mixed, 9 against) · 51 studies (16 review, 15 associational, 8 theoretical, 4 causal, 4 qualitative, 4 design), `q1`–`q3` · 4 of 51 report an effect size · 56 claims rest on one study
+> **Evidence** · 60 claims (23 for, 28 mixed, 9 against) · 52 studies (16 review, 15 associational, 8 theoretical, 5 design, 4 causal, 4 qualitative), `q1`–`q3` · 4 of 52 report an effect size · 57 claims rest on one study
 
 ## Description
 In face-to-face instruction, a teacher can visually notice disengagement or confusion; a distance instructor cannot, and many learners fail to recognize their own need for help or fail to seek it even when it is available ([Baker & Inventado, 2016](https://edtechbooks.org/lidtfoundations/educational_data_mining_and_learning_analytics)). Educational data mining (EDM) and learning analytics (LA) address this by mining the large amounts of interaction data online and distance courses generate — content-management, discussion-forum, gradebook, and clickstream data — to build models that predict which learners are at risk and to surface feedback that would otherwise depend on an instructor noticing in person.
@@ -105,6 +105,7 @@ These models feed three uses that benefit learners directly: **automated feedbac
 - [In static concurrent prediction, TabPFN outperformed Random Forest, XGBoost and Linear Regression across the four emotional and proficiency targets](../claims/tabpfn-outperforms-baselines-static-concurrent-prediction.md) [+W]
 - [The teacher remains central to linking learning analytics with appropriate educational action](../claims/teacher-central-linking-analytics-to-action.md) [+W]
 - [Laboratory-identified behavioural markers of states such as confusion can, with care, indicate the same state in real online learning environments](../claims/lab-behavioural-markers-transfer-online.md) [~W]
+- [Course-specific prediction models may outperform institution-wide one-size-fits-all models because instructional conditions vary](../claims/course-specific-models-over-institutional-models.md) [~W]
 
 ## The evidence by question
 

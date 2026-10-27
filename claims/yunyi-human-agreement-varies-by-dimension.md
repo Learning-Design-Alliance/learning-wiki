@@ -75,3 +75,4 @@ Dimension-level agreement on the 40 pilot recordings was strongest for logical c
 - [Students were reasonably accurate overall across the nine scored interview questions (M = 6.17, SD = 2.12), with accuracy varying by question type](overall-interview-accuracy-reasonable.md) — related
 - [Human ratings and automated metrics converge on coherence and temporal alignment as the dimensions most enhanced by the dual gatekeeping pipeline](dual-evaluation-convergence-coherence-temporal.md) — related
 - [Independent expert ratings of physics concepts correlate with brain-derived factor scores on each dimension](expert-ratings-correlate-with-factor-scores.md) — related
+- [Fully automated WCPM scores from Whisper V2 transcriptions closely align with expert human raters (correlation 0.98, average difference 4.82 WCPM)](automated-wcpm-correlates-098-human-raters.md) — related

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-10
 evidence_strength: weak
 newest_evidence: 2026
+source_checked: 2026-10-27
 sources:
   - id: theodora-2026
     resource: "https://doi.org/10.48550/arxiv.2605.16296"
@@ -24,10 +25,10 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-10-27 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
-`q2 i?` AI systems trained on datasets reflecting existing social inequalities can produce biased outcomes in assessment, recommendations, or learner profiling, disproportionately affecting vulnerable groups. [→ Theodora 2026](#theodora-2026)
+`q2 i?` AI systems trained on datasets reflecting existing social inequalities can produce biased outcomes in assessment, recommendations, or learner profiling; in adult education the paper argues this could mean unequal opportunities or reinforced stereotypes, particularly for vulnerable groups. [→ Theodora 2026](#theodora-2026)
 `q2 i?` AI reliance on large amounts of personal data, including learning behaviours and sometimes biometric information, creates risks of unauthorized access, misuse, or lack of informed consent. [→ Theodora 2026](#theodora-2026)
 
 ## Evidence
@@ -38,7 +39,7 @@ Theodora, A., & Tselios, N. (2026). Artificial Intelligence in Lifelong Learning
 
 `q2 · i?` · `review · r?`
 
-The review identifies algorithmic bias as central to AI-in-education debates, citing Holmes et al., and separately discusses privacy and surveillance risks from collection of personal data, citing Williamson & Eynon. It concludes transparency, accountability, and ethical oversight are needed.
+This conceptual policy paper, drawing on contemporary literature and international policy frameworks rather than a systematic review, describes algorithmic bias as central to AI-in-education debates, citing Holmes et al., and separately discusses privacy and surveillance risks from collection of personal data, citing Williamson & Eynon. It concludes transparency, accountability, and ethical oversight are needed.
 
 > "AI systems are trained on datasets that may reflect existing social inequalities, which can lead to biased outcomes in areas such as assessment, recommendations, or learner profiling."
 

@@ -54,3 +54,5 @@ Partial dependence plot for type-token ratio (Figure 2) from the random forest. 
 - [Revising texts to improve readability-formula scores often produces nonexistent or insignificant comprehension gains](readability-revision-gains-nonexistent-insignificant.md) — related
 - [Training experiments with adults suggest linguistic diversity supports word learning](linguistic-diversity-training-supports-learning.md) — related
 - [Text experience offers unique lexical learning opportunities: most new vocabulary after reading onset is learned via reading, and children's text is more lexically diverse than speech](text-experience-unique-lexical-learning.md) — related
+- [The most predictive linguistic features differ across datasets, overlapping only in lexical diversity measures](aes-predictive-features-not-generalizable-across-corpora.md) — related
+- [Feature operationalization can reverse the direction of the relationship with essay score, as with document length and TTR variants](feature-operationalization-reverses-score-relationship.md) — related

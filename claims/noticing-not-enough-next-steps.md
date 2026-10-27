@@ -47,3 +47,4 @@ The brief reports this research finding (endnote citing Heritage, 2009) to argue
 
 ## Related Claims
 - [Feedback that answers three questions (Where am I going? How am I doing? Where to next?) improves learning](feedback-answers-three-questions-improves-learning.md) — related
+- [Grounding LAI feedback in constructive alignment and the Hattie–Timperley feedback model structures personalised interventions](ca-and-feedback-model-structure-lai-interventions.md) — related

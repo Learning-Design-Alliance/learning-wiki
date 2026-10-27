@@ -50,3 +50,4 @@ Qualitative case-study analysis of the agent's outputs on lesson designs: the au
 - [Accurate LLM solution diagnosis does not reliably produce pedagogically actionable feedback, with lowest rubric scores on error identification and actionability](accurate-diagnosis-not-actionable-feedback.md) — reports the opposite
 - [Trust in customized agents was associated with clear, accurate, and contextually aligned feedback](trust-customized-agents-accuracy-contextual-alignment.md) — related
 - [Judge-condition verification did not consistently improve LLM feedback quality and often propagated Peer agents' errors](judge-verification-propagates-peer-errors.md) — related
+- [The COMP272 case study confirms the SPOL learning barriers and shows the design strategies are practical to adopt, in a work-in-progress DBR project](comp272-case-study-confirms-barriers-strategies-practical.md) — related

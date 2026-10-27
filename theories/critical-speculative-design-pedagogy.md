@@ -17,7 +17,7 @@ sources:
 # Critical Speculative Design Pedagogy
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 2 studies (2 qualitative), `q2` · 1 of 2 report an effect size · 3 claims rest on one study
+> **Evidence** · 4 claims (3 for, 1 mixed) · 3 studies (2 qualitative, 1 theoretical), `q1`–`q2` · 1 of 3 report an effect size · 4 claims rest on one study
 
 ## Description
 Critical Speculative Design Pedagogy (CSDP) integrates Cultural Learning Pathways (a social-practice theory of learning attentive to sociomaterial, relational, affective, and power-laden dimensions), Freirean critical consciousness (building capacity to "read the world" and recognize structural — not just individual — injustice), culturally sustaining pedagogy, and speculative design (design fiction and social dreaming used to refuse the assumptions embedded in existing technologies and imagine alternatives). It rests on five interdependent design commitments: **consequential concern** (shifting learning's purpose from individual academic competition to collective well-being), **kindred relationality** (bonding relationships of reciprocal respect and care, "thick solidarity"), **critical and liberatory presencing** (exposing youth to scientists and designers who look like them working expansively), **constellar youth knowledges** (recognizing youth's fluid movement across cultural ecologies — specialized interests, family knowledge, felt resonances — as legitimate expertise), and **futurity play** (protected space for playful, non-adultified experimentation and "social dreaming"). The name "pattern makers" is metaphorical rather than a reference to design-pattern languages: it names the practice of youth identifying recurring patterns of harm in technoscientific systems and redesigning those patterns toward justice (after Ruha Benjamin's "each twist, coil, and code is a chance for us to weave new patterns, practices, and politics").
@@ -41,6 +41,7 @@ Critical Speculative Design Pedagogy (CSDP) integrates Cultural Learning Pathway
 - [Critical speculative design pedagogy supports critical consciousness and justice-oriented sensemaking in science](../claims/critical-speculative-design-supports-critical-consciousness-in-science.md) [~M]
 - [Students' perceptions of futures broadened and pluralised, and deterministic thought patterns were questioned](../claims/course-pluralised-futures-questioned-determinism.md) [+W] — attached 2026-10-18 from Tapio Rasa et al. (2022), which proposed "Futures thinking connected to the projective dimension of transformative agency".
 - [Imagining preferable futures, especially via backcasting, was seen by students as creating possibilities for agency](../claims/preferable-futures-backcasting-agency.md) [+W] — attached 2026-10-18 from Tapio Rasa et al. (2022), which proposed "Futures thinking connected to the projective dimension of transformative agency".
+- [Critical knowledge traditions theorise technology as an artefact embodying social, cultural and political practices](../claims/critical-traditions-technology-as-artefact.md) [+W]
 
 ## Related Theories
 

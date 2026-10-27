@@ -56,3 +56,4 @@ Post-hoc comparison within the developmental sample of 225 participants in the f
 - [The ability to identify basic emotions from non-linguistic vocal bursts improves significantly with age from 5 to 17 years](vocal-emotion-recognition-improves-age-5-17.md) — related
 - [Female participants showed higher metacognitive ability than male participants](females-higher-metacognitive-ability-than-males.md) — related
 - [The nap effect on encoding is consistent across male and female students, with a significant main effect of group](nap-effect-consistent-across-sexes.md) — related
+- [Mind wandering detection is more accurate for female than male learners, with the gender gap larger for temporal models](gender-bias-favoring-female-mind-wandering-detection.md) — related

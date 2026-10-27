@@ -44,6 +44,7 @@ The article recommends that institutions deploying AIAA-style variant generation
 ## Related Strategies
 
 - [Translate deductive coding rubrics into structured zero-shot prompts to compare LLM coding against human coding](zero-shot-prompt-codebook-translation-strategy.md)
+- [Tune the mind wandering detection threshold to the deployment setting, and choose thresholds by use case (recall for research, precision for interventions)](threshold-tuning-per-use-case-strategy.md)
 
 ## Examples
 -

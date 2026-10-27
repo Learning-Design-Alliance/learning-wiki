@@ -14,7 +14,7 @@ grain_size: unit
 # Practice with Simulated People
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 126 claims (59 for, 52 mixed, 15 against) · 61 studies (15 causal, 14 review, 12 quant-synthesis, 9 qualitative, 7 design, 4 theoretical), `q1`–`q4` · 17 of 61 report an effect size · 121 claims rest on one study
+> **Evidence** · 127 claims (60 for, 52 mixed, 15 against) · 62 studies (16 causal, 14 review, 12 quant-synthesis, 9 qualitative, 7 design, 4 theoretical), `q1`–`q4` · 17 of 62 report an effect size · 122 claims rest on one study
 
 ## Description and scope
 
@@ -155,6 +155,7 @@ This pattern is scoped to rehearsal of an interaction with a person who responds
 ## Claims
 
 - [The review reports, citing Chernikova and colleagues, that simulations of professional situations such as classroom interactions are beneficial in teacher training](../claims/simulations-of-professional-situations-beneficial-teacher-training.md) [+W]
+- [Recognizing a frustrated instructor's emotional tone required the embodied onscreen agent, contradicting the voice hypothesis for that emotion](../claims/frustrated-emotion-recognition-requires-embodied-agent.md) [+W]
 
 ## Examples
 

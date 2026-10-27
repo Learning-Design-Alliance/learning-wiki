@@ -73,3 +73,4 @@ In the same 18-student study, three predictors were compared: gaze shifts only, 
 - [Neither self-report nor eye tracking can reliably distinguish strategic from habituated behavior in empirical practice](measurement-cannot-separate-strategic-from-habituated.md) — related
 - [Leave-one-out cross-validation over 36 students confirms significant accuracy and stability gains from eye-tracking in both self-explanation and exploration assessment](cross-validation-confirms-eye-tracking-gains.md) — related
 - [Quality of work rather than time consumed proved the most reliable measure of intelligence across the battery](quality-of-work-over-time-as-intelligence-measure.md) — related
+- [A moving-average assessment over the past five actions set the Surveillance Tutor's feedback window, sized from pilot testing showing participants received more feedback than they could process](moving-average-five-action-feedback-window.md) — related

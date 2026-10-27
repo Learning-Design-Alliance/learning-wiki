@@ -49,3 +49,4 @@ Systematic review synthesis of 56 studies: the review reports genre frequencies 
 - Attitude is the most frequently measured motivation construct in K‑5 writing‑motivation self‑report studies, within the interest‑and‑value component — related
 - [The predictive effects of writing self-efficacy and motivation regulation strategies on writing achievement vary across achievement goal profiles and writing genre](profile-varying-predictive-effects-writing-achievement.md) — related
 - [Narrative and storying genres in educational inquiry risk disempowering the very people they claim to empower](narrative-genres-may-disempower-while-claiming-empowerment.md) — related
+- [Simulated learner models in the reviewed literature tend to represent only narrow aspects of student learning.](simulated-learners-models-narrow-aspects.md) — related

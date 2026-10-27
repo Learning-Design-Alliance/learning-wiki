@@ -75,3 +75,4 @@ Self versus yoked post hoc comparisons on retention AD in the same experiment: b
 - [Guiding questions and student control over video movement improve learning outcomes and satisfaction](guiding-questions-and-video-control-improve-learning.md) — related
 - [Self-rating word-knowledge responses admitted marked over-estimation, prompting a response format requiring students to name the field of knowledge of each word](self-rating-overestimation-word-knowledge.md) — related
 - [Participants who reported higher subjective performance showed significantly greater motor performance gains](subjective-performance-correlates-gains.md) — related
+- [An external focus of attention (on movement effects rather than body movements) enhances motor performance and learning](external-focus-attention-enhances-motor-learning.md) — related
