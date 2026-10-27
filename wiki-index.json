@@ -8,7 +8,7 @@
 "pattern":54,
 "principle":170,
 "process":18,
-"product":2073,
+"product":2072,
 "research-method":724,
 "strategy":7091,
 "theory":1360
@@ -202170,6 +202170,7 @@
 "id":"on-demand-hint-requests-rare-and-equivalent",
 "newest_evidence":"2020",
 "path":"claims/on-demand-hint-requests-rare-and-equivalent.md",
+"source_checked":"2026-10-27",
 "status":"review",
 "title":"Students rarely request on-demand hints in this tutor, with no significant differences between conditions or proficiency groups",
 "type":"claim"
@@ -346821,14 +346822,6 @@
 "type":"product"
 },
 {
-"description":"A dataset of 1,830 AIED research articles from five major publication venues covering 2010–2019, prepared for mapping research topics and their evolution.",
-"id":"dataset-of-1830-aied-articles-from-five-major-publication-sources-20102019",
-"path":"products/dataset-of-1830-aied-articles-from-five-major-publication-sources-20102019.md",
-"status":"review",
-"title":"Dataset of 1830 AIED articles from five major publication sources, 2010–2019",
-"type":"product"
-},
-{
 "description":"A dataset compiled by Francis Geng et al.",
 "id":"dataset-of-23-publicly-available-us-ai-assisted-software-engineering-course-syllabi-and-ma",
 "path":"products/dataset-of-23-publicly-available-us-ai-assisted-software-engineering-course-syllabi-and-ma.md",
@@ -468556,7 +468549,6 @@
 "dash4emotion":"dash4emotion",
 "datacanvas-edu-ai-agent-skill-package":"datacanvas-edu-ai-agent-skill-package",
 "dataset-of-103-postgraduate-data-science-project-proposals-with-instructor-feedback-used-t":"dataset-of-103-postgraduate-data-science-project-proposals-with-instructor-feedback-used-t",
-"dataset-of-1830-aied-articles-from-five-major-publication-sources-20102019":"dataset-of-1830-aied-articles-from-five-major-publication-sources-20102019",
 "dataset-of-23-publicly-available-us-ai-assisted-software-engineering-course-syllabi-and-ma":"dataset-of-23-publicly-available-us-ai-assisted-software-engineering-course-syllabi-and-ma",
 "dataset-of-434-expert-labelled-authentic-learner-questions-augmented-to-balance-class-dist":"dataset-of-434-expert-labelled-authentic-learner-questions-augmented-to-balance-class-dist",
 "dataset-of-484-de-identified-student-project-reports-with-instructor-reviews-collected-ove":"dataset-of-484-de-identified-student-project-reports-with-instructor-reviews-collected-ove",

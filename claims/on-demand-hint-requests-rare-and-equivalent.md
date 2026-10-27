@@ -9,6 +9,7 @@ generated:
   at: 2026-10-27
 evidence_strength: moderate
 newest_evidence: 2020
+source_checked: 2026-10-27
 sources:
   - id: mehak-maniktala-2020
     resource: "https://arxiv.org/abs/2009.13371"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2020 · checked against its sources 2026-10-27 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` On-demand hint requests averaged less than one per problem in all conditions, with no significant main effects or interaction of Condition and Prior Proficiency. [→ Mehak Maniktala 2020](#mehak-maniktala-2020)

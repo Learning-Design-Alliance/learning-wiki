@@ -2,7 +2,7 @@
 
 Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's.
 
-**2073 entries** · 0 stable · 2073 in review · 0 drafts
+**2072 entries** · 0 stable · 2072 in review · 0 drafts
 
 ---
 
@@ -423,7 +423,6 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Dash4Emotion](dash4emotion.md) - A research prototype developed by Osama Swidan that uses webcam-based facial-emotion classification to provide teachers with real-time individual alerts and class-level emotional summaries during students’ mathematics problem-solving.
 * [DataCanvas-EDU AI Agent Skill package](datacanvas-edu-ai-agent-skill-package.md) - DataCanvas-EDU is an installable, versioned AI-agent software package developed by Bang An et al.
 * [Dataset of 103 postgraduate data-science project proposals with instructor feedback used to evaluate GPT feedback generation](dataset-of-103-postgraduate-data-science-project-proposals-with-instructor-feedback-used-t.md) - A dataset created by Wei Dai et al.
-* [Dataset of 1830 AIED articles from five major publication sources, 2010–2019](dataset-of-1830-aied-articles-from-five-major-publication-sources-20102019.md) - A dataset of 1,830 AIED research articles from five major publication venues covering 2010–2019, prepared for mapping research topics and their evolution.
 * [Dataset of 23 publicly available U.S. AI-assisted software engineering course syllabi and materials](dataset-of-23-publicly-available-us-ai-assisted-software-engineering-course-syllabi-and-ma.md) - A dataset compiled by Francis Geng et al.
 * [Dataset of 434 expert-labelled authentic learner questions augmented to balance class distributions](dataset-of-434-expert-labelled-authentic-learner-questions-augmented-to-balance-class-dist.md) - A dataset created by Lee et al.
 * [Dataset of 484 de-identified student project reports with instructor reviews collected over twelve semesters](dataset-of-484-de-identified-student-project-reports-with-instructor-reviews-collected-ove.md) - A publicly released research dataset created by Qinjin Jia et al.

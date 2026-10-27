@@ -10,14 +10,14 @@ This wiki is written by language models, from published research, and checked by
 |---|---|
 | Claims | 30,955, from 7,783 sources |
 | Reviewed by a person | 0 |
-| Every evidence entry compared with its source by the faithfulness judge | 5,124 claims (17%) |
+| Every evidence entry compared with its source by the faithfulness judge | 5,125 claims (17%) |
 | Claims citing at least one DOI | 23,429 claims (76%) |
 | Sources whose citations went through the Crossref identity gate | 7,313 of 7,783 |
 | Sources read for impossible statistics and invented references | 6,251 of 7,135 (2026-10-25) |
 | Cited DOIs checked for retraction | 6,793 of 6,793 (2026-10-25) |
 | Retracted sources found and acted on | 3 |
 | Claims past their recheck year (fast-ageing kinds only) | 2,571 of 5,710 with one |
-| Claims removed by a check, all time | 4,426 |
+| Claims removed by a check, all time | 4,427 |
 
 ## The checks, in the order a claim meets them
 
@@ -59,7 +59,7 @@ A second model, from a different provider, reads each evidence entry beside the 
 
 **Cannot catch.** A claim checked only against an abstract, for detail an abstract does not carry. The judge is a model and has been wrong; its failures are read before they are acted on.
 
-**Coverage.** 5,124 claims (17%) have had every evidence entry compared with its source and passed; 161 judge failures were read and recorded with a reason. Each claim states this on its page, in its *Currency* line.
+**Coverage.** 5,125 claims (17%) have had every evidence entry compared with its source and passed; 161 judge failures were read and recorded with a reason. Each claim states this on its page, in its *Currency* line.
 
 ### 6. Can the source be believed?
 
@@ -75,7 +75,7 @@ Also added 2026-10-25, from the same audit's most common findings. For each caus
 
 **Cannot catch.** Problems the paper does not report. The judge reads only what the study says about itself.
 
-**Coverage.** causal entries on AI claims: 1,319 of 1,319 judged (2026-10-25); found unit 108, isolation 96, comparison 71. every causal entry: 7,568 of 7,638 judged (2026-10-25); found isolation 488, unit 337, comparison 295. 1,176 findings read and acted on.
+**Coverage.** causal entries on AI claims: 1,319 of 1,319 judged (2026-10-25); found unit 108, isolation 96, comparison 71. every causal entry: 7,568 of 7,638 judged (2026-10-25); found isolation 488, unit 337, comparison 295. 1,177 findings read and acted on.
 
 ### 8. Evidence codes
 
@@ -120,7 +120,7 @@ Removals are logged with their reason in `eval/removed/pages.ndjson`; git histor
 | Local context only (one district, programme or year) | 217 |
 | Source cannot be believed (impossible statistics, invented references, retraction) | 11 |
 | Citation chase: a retracted article or off-topic methods literature | 83 |
-| Misfiled or thin page folded or dropped | 236 |
+| Misfiled or thin page folded or dropped | 237 |
 | Other (see eval/removed/pages.ndjson) | 6 |
 
 ## What no check here does
