@@ -45866,5 +45866,57 @@
  "spacing\ttraining intervals longer than 5 days\ttraining intervals of 5 days or less": {
   "label": "longer vs shorter gaps",
   "treatment_is_a": true
+ },
+ "explicit-instruction\tintentional learning instruction\tincidental learning instruction": {
+  "label": "intentional vs incidental learning instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tintentional learning with anticipatory cues\tincidental learning with anticipatory cues": {
+  "label": "intentional vs incidental learning instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tintentional learning without anticipatory cues\tincidental learning without anticipatory cues": {
+  "label": "intentional vs incidental learning instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tintentional sequence-learning instruction\tincidental sequence-learning instruction": {
+  "label": "intentional vs incidental sequence-learning instruction",
+  "treatment_is_a": true
+ },
+ "practice-amount\t50 minutes of adaptive n-back training\tpre-training assessment": {
+  "label": "practiced vs unpracticed",
+  "treatment_is_a": true
+ },
+ "practice-amount\tdual-task performance on the practiced sequence after training\tdual-task performance on the control sequence after training": {
+  "label": "practiced vs unpracticed",
+  "treatment_is_a": true
+ },
+ "practice-amount\tpracticed sequence after ten sessions\tunpracticed control sequence": {
+  "label": "practiced vs unpracticed",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tobserved test-with-feedback performance\tdual-memory model prediction": {
+  "label": "observed test-with-feedback performance vs dual-memory model prediction",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tretrieval practice versus restudy for high-relatedness pairs\tretrieval practice versus restudy for low-relatedness pairs": {
+  "label": "high-relatedness pairs vs low-relatedness pairs (retrieval-practice benefit relative to restudy)",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\ttest with feedback\trestudy": {
+  "label": "retrieval practice with feedback vs restudy",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\ttest with feedback for high-relatedness pairs\trestudy for high-relatedness pairs": {
+  "label": "retrieval practice with feedback vs restudy for high-relatedness pairs",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\ttest with feedback for low-relatedness pairs\trestudy for low-relatedness pairs": {
+  "label": "retrieval practice with feedback vs restudy for low-relatedness pairs",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\ttest-with-feedback practice\trestudy": {
+  "label": "retrieval practice with feedback vs restudy",
+  "treatment_is_a": true
  }
 }

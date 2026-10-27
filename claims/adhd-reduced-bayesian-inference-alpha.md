@@ -49,3 +49,4 @@ Computational modeling of trial-by-trial choices with a hybrid reinforcement lea
 - [The group-by-task interaction is not significant for either ADHD or dyslexia comparisons, though simple t-tests show task-specific group differences](group-task-interaction-not-significant.md) — related
 - [Adults with dyslexia show heightened decay rates than controls in complex learning settings, indicating quicker discounting of learned associations](dyslexia-heightened-decay-rates.md) — related
 - [Performance is substantially better on the Explicit-Assist task than on the No-Explicit-Assist task in both the ADHD and dyslexia comparisons](explicit-assist-better-than-no-explicit-assist.md) — related
+- [Children's reinforcement learning is best fit by a one-learning-rate model, whereas adolescents and adults are best fit by Bayesian models incorporating hidden-agent beliefs](children-do-not-use-causal-structure-in-learning.md) — related

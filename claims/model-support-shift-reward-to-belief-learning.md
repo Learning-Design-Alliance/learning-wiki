@@ -49,3 +49,4 @@ LOO-based model-family comparison in Study 2: reward-based M1-3 fit best in grad
 - [Review reports a developmental shift in cognitive offloading: children under-use external aids while adolescents over-rely on them](developmental-shift-cognitive-offloading.md) — related
 - [Preschoolers gradually learn to cooperate more with high-competitive than low-competitive opponents in the Chicken game](preschoolers-cooperate-more-with-competitive-opponents.md) — related
 - [School-age children and adolescents distinguish competitive from cooperative opponents, with cooperation peaking in late childhood](school-age-opponent-differentiation-cooperation-peak.md) — related
+- [Children's reinforcement learning is best fit by a one-learning-rate model, whereas adolescents and adults are best fit by Bayesian models incorporating hidden-agent beliefs](children-do-not-use-causal-structure-in-learning.md) — a narrower finding that bears on this claim

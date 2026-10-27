@@ -71,3 +71,4 @@ Group-level hyperparameters of the winning model: mean learning rate for HCO was
 - [An instructive reinforcement learning model with a free constant learning rate best explains participants' contingency learning](flri-best-fitting-rl-model.md) — related
 - [School-age children and adolescents distinguish competitive from cooperative opponents, with cooperation peaking in late childhood](school-age-opponent-differentiation-cooperation-peak.md) — related
 - [A reinforcement learning model with separate surprise and uncertainty learning-rate parameters per condition best fits gambling behavior, though individual parameter estimates did not reach significance](rl-model-separate-surprise-uncertainty-el-ol.md) — related
+- [Children's reinforcement learning is best fit by a one-learning-rate model, whereas adolescents and adults are best fit by Bayesian models incorporating hidden-agent beliefs](children-do-not-use-causal-structure-in-learning.md) — related

@@ -74,3 +74,4 @@ Simple main effects analysis of 6-back gamma power showed no group effect at Pos
 - [Reaction times decreased with working memory training but were not additionally affected by tDCS](wmt-rt-decreases-unaffected-by-tdcs.md) — related
 - [Validation analyses find no generally reduced neural activity after mnemonic training, with increased alpha power uncorrelated with memory gains](no-processing-efficiency-neural-evidence.md) — reports the opposite
 - [After mnemonic training, children show increased left anterior frontal theta power for even- versus odd-position digits during encoding](theta-odd-even-pattern-post-mnemonic-training.md) — related
+- [Fifty minutes of adaptive n-back training produced small but significant accuracy gains and response-time decreases with large individual differences](fifty-minute-nback-training-improves-accuracy-and-response-time.md) — related

@@ -53,3 +53,4 @@ Review synthesis of behavioral and neural retro-cue studies in delayed-response 
 - [Predictive cues aid transfer of perceptual representations into working memory via pre-encoding top-down modulation](predictive-cues-pre-encoding-modulation-wm-benefit.md) — related
 - [Perceptual attention is probably necessary but not sufficient for encoding stimuli into working memory](perceptual-attention-necessary-not-sufficient-wm-encoding.md) — related
 - [Distraction during maintenance impairs working memory, with distractor processing inversely related to recognition accuracy](distraction-during-maintenance-impairs-wm.md) — related
+- [Visual recognition of the sequence benefits from intentional instruction only when anticipatory cues are given, and from cues only under incidental instruction](recognition-cues-instruction-interactions.md) — related

@@ -65,3 +65,4 @@ Analysis of MAP Growth assessment data from "6 million students in grades 3-8" c
 - [AI-supported PBL offerings showed higher A-rates and fewer low grades than pre-integration control offerings when including the COVID-19 year](genai-pbl-higher-a-rates-fewer-low-grades.md) — related
 - [The brief investigated the degree to which students' reading and math test scores became more variable as a result of the COVID-19 pandemic](covid-score-variability-research-question.md) — related
 - [The average student demonstrated positive math and reading gains during the 2020-2021 school year](positive-gains-2020-2021-school-year.md) — related
+- [More than half of teachers reported students performed below grade expectations during 2020–2021, with drops reported more frequently in lower-SES classrooms](teachers-report-performance-decline-ses-gradient.md) — related

@@ -13,7 +13,7 @@ generated:
 # Retrieval Practice
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 27 claims (19 for, 6 mixed, 2 against) · 24 studies (13 causal, 6 review, 4 quant-synthesis, 1 theoretical), `q2`–`q4` · 13 of 24 report an effect size · 24 claims rest on one study
+> **Evidence** · 28 claims (19 for, 7 mixed, 2 against) · 25 studies (14 causal, 6 review, 4 quant-synthesis, 1 theoretical), `q2`–`q4` · 13 of 25 report an effect size · 25 claims rest on one study
 
 ## Description
 Retrieval practice is the element in which learners recall information from memory rather than only re-exposing themselves to it.
@@ -62,6 +62,7 @@ Retrieval practice is the element in which learners recall information from memo
 - [In inductive learning, interim testing of studied category exemplars enhances learning and retention of new categories](../claims/forward-testing-inductive-learning.md) [+W]
 - [In single item learning, interim testing of studied lists roughly doubles recall of new items compared with distractor or restudy control groups](../claims/forward-testing-single-items-doubled-recall.md) [+W]
 - [In paired-associate learning, interim testing about doubles recall of new face-name and foreign-translation pairs relative to a distractor control](../claims/forward-testing-paired-associates.md) [+W]
+- [Model-based analysis shows the relative efficacy of testing is reduced for highly related word pairs, with the dual-memory model overpredicting test performance only in the high-relatedness group](../claims/retrieval-efficacy-reduced-high-relatedness-model-fit.md) [~W]
 
 ## The evidence by question
 - *Does retrieving material (quizzes, practice tests, recall) improve later retention more than restudying it?* [Retrieval practice improves long-term retention](../claims/retrieval-practice-improves-retention.md) [+S]

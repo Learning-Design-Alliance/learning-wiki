@@ -71,3 +71,4 @@ Experiment 2 mixed-factor ANOVA, F(1,63) = 96.2, p < .001; schedule main effect 
 - [Both overt and covert retrieval practice outperform restudy when practice and test match (the testing effect)](both-retrieval-formats-beat-restudy.md) — a broader claim this one bears on
 - [Retrieval practice yields better delayed test performance than restudy (the testing effect) in both experiments](testing-effect-confirmed-anatomical-image-name-pairs.md) — related
 - [Retrieval practice produced a reliable overall testing effect and a main effect of working memory capacity on final-test accuracy](main-effect-testing-effect-wm-capacity.md) — related
+- [Retrieval practice with feedback improves 24-hour cued recall more than restudy, and high semantic relatedness raises overall accuracy, but the Training Task × Relatedness ANOVA interaction is non-significant](testing-effect-robust-relatedness-anova-interaction-null.md) — a narrower finding that bears on this claim

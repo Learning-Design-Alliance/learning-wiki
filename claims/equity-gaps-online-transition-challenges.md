@@ -92,3 +92,5 @@ Survey analysis compared frequencies of connectivity and hardware/software probl
 - [Internet connection rates in Canada differ sharply by income, with 97% of the highest income quartile connected versus 58% of the lowest](income-internet-connection-gap.md) — related
 - [The multilevel digital divide presents multiple challenges for parents in technology-integrated family–school partnerships](multilevel-digital-divide-challenges-parents-partnerships.md) — related
 - [The second-level digital divide (skills and usage gaps) limits the benefits of technology-integrated family–school partnerships for many parents](second-level-digital-divide-limits-partnership-benefits.md) — related
+- [Perceived adult support with homeschooling was higher for teachers of higher-income students](adult-homeschooling-support-ses-gradient.md) — related
+- [Teachers of lower-SES students were less likely to have previous online teaching experience and reported the transition to remote instruction as more challenging](ses-gap-teacher-online-experience-transition.md) — related

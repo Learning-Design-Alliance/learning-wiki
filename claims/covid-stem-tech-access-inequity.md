@@ -101,3 +101,4 @@ Same national student survey (n = 1,008, weighted sample 23% Hispanic, 15% Black
 - [The multilevel digital divide presents multiple challenges for parents in technology-integrated family–school partnerships](multilevel-digital-divide-challenges-parents-partnerships.md) — related
 - [The second-level digital divide (skills and usage gaps) limits the benefits of technology-integrated family–school partnerships for many parents](second-level-digital-divide-limits-partnership-benefits.md) — related
 - [Digital technology in family–school partnerships provides new opportunities but raises concerns for families with limited access or digital skills](digital-technology-opportunities-and-access-concerns.md) — related
+- [Teachers of lower-SES students were less likely to have previous online teaching experience and reported the transition to remote instruction as more challenging](ses-gap-teacher-online-experience-transition.md) — related

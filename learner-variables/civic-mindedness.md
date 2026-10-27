@@ -13,7 +13,7 @@ generated:
 # Civic Mindedness
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 42 claims (29 show a difference, 7 mixed, 6 no difference) · 18 studies (7 associational, 4 causal, 3 theoretical, 2 review, 1 quant-synthesis, 1 qualitative), `q1`–`q4` · 3 of 18 report an effect size · 40 claims rest on one study
+> **Evidence** · 43 claims (29 show a difference, 8 mixed, 6 no difference) · 19 studies (7 associational, 5 causal, 3 theoretical, 2 review, 1 quant-synthesis, 1 qualitative), `q1`–`q4` · 4 of 19 report an effect size · 41 claims rest on one study
 
 ## Description
 Civic mindedness is a learner's orientation toward their community: seeing themselves as someone who can contribute, being informed about and attentive to the needs and goals of others (including needs that differ from their own), and joining with others to pursue shared aims. It includes thinking critically about civic content and social movements and about the democratic systems that govern communities, including the inequities those systems can produce and how they might be addressed. Prosocial behaviour, acting with others in mind, is described as one of its foundations. It is measured with sets of civic-outcome instruments for elementary classrooms (knowledge, thinking, dispositions and participation) and with critical-consciousness scales for older adolescents and adults.
@@ -83,6 +83,7 @@ It is related to [social awareness and relationship skills](social-awareness-and
 - [Stricter, longer lockdowns are associated with increases (or smaller declines) in students' expected protest participation, strongest for legal protest](../claims/lockdown-protest-participation-increases.md) [+M] — instruction changes it
 - [The COVID cohort scored significantly lower than the control cohort across the whole study duration](../claims/covid-cohort-lower-overall-reading-fluency-group-effect.md) [+M] — instruction changes it
 - [Education focused on economic growth has produced upward trends in literacy and credentials alongside downward trends in agency, humanistic values, relationships, and civic engagement, motivating a shift toward human flourishing](../claims/education-economic-growth-versus-flourishing-trends.md) [+W] — instruction changes it
+- [Social value orientation moderates the self-other gap in model-based decision-making, with prosocials showing smaller gaps](../claims/svo-moderates-self-other-model-based-gap.md) [~W] — an instructional effect differs with it
 
 ## Measures
 - **Civic Outcomes for Elementary School** (Chi et al., 2006): instruments for civic knowledge, thinking, dispositions and participation in elementary classrooms.

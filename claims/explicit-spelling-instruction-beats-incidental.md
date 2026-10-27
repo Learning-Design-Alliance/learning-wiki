@@ -47,3 +47,4 @@ The review reports a meta-analysis of 23 studies directly comparing explicit and
 ## Related Claims
 - [Phonics instruction has a small but statistically confirmed effect for children with reading disabilities, while Orton-Gillingham structured-literacy programs show positive but non-significant effects](structured-literacy-interventions-help-struggling-readers.md) — related
 - [Intentional vocabulary learning yields higher, faster gains and better retention than incidental learning through reading](intentional-beats-incidental-vocabulary-gains.md) — related
+- [Intentional instruction enhances sequence learning relative to incidental instruction, particularly in explicit sequence knowledge](intentional-instruction-enhances-sequence-learning.md) — related

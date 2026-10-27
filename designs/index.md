@@ -2,7 +2,7 @@
 
 Designs for a particular setting, course, population or product: what a design uses the general patterns for. A pattern is general across contexts; a design is not.
 
-**1105 entries** · 0 stable · 1105 in review · 0 drafts
+**1106 entries** · 0 stable · 1106 in review · 0 drafts
 
 ---
 
@@ -1069,6 +1069,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Three-step design model for GAI-powered characters in IVR](three-step-gai-character-design-model.md) - The article's Pedagogical Design answer to RQ2 is a three-step design model integrating pedagogy with GAI and VR: \"selecting the applicable reference framework, identifying the learning objectives and the instructiona...
 * [Three-step district pathway design sequence: Why, What, How](why-what-how-pathway-design.md) - The toolkit structures district CS/CT pathway design as a three-step sequence.
 * [Three-step structured multimodal dialogue intervention protocol (describe, correct, solve)](three-step-multimodal-dialogue-protocol.md) - A prompting protocol for correcting LLM multimodal errors, described as follows: \"The intervention followed a three-step dialogue: (i) 'Describe what you observe in the figure/graph,' (ii) researcher correction of any...
+* [Three-territory gold-mining reinforcement learning task with hidden agents](gold-mining-hidden-agent-rl-task.md) - A developmental adaptation of the Dorfman et al.
 * [Three-tier train-the-trainer professional development cascade through school networks](train-the-trainer-network-pd-cascade.md) - A district-scale professional development delivery pattern in which each school network sends experienced teachers to full-day district-sponsored sessions three to four times per year; these teacher facilitators \"repl...
 * [Three-type taxonomy of newcomer schools: programs-within-a-school, transitional, and comprehensive](newcomer-school-three-type-taxonomy.md) - The report organizes newcomer schools into three structural types.
 * [Three-variant AI-assisted collaborative writing text editor](three-variant-ai-collaborative-text-editor.md) - A custom web-based text editor in which an LLM-backed artificial agent acts as a peer editor offering replacement suggestions and comments in an Editing Pane.

@@ -57,3 +57,4 @@ An analysis of state funding statutes identified "11 states that provide dual fu
 - [In 2023–24, 44 states provided unique funding for at-risk students, with all 44 classifying low-income students as at-risk and 22 providing concentration-based funding](44-states-provide-at-risk-funding-2023-24.md) — related
 - [California's 20% supplemental grant weight falls below other states' adequacy-study recommendations for English learners and at-risk students](lcff-supplemental-weight-below-adequacy-recommendations.md) — related
 - [Shifting staffing decisions from a per-pupil formula to needs-based allocation addresses staffing resource inequities](needs-based-staffing-addresses-inequity.md) — related
+- [US teachers reported higher proportions of students performing below standards and lower proportions above standards than Canadian teachers across all domains](country-differences-below-standard-proportions.md) — related
