@@ -1,6 +1,6 @@
 {
 "counts":{
-"claim":30335,
+"claim":30341,
 "design":1106,
 "element":1057,
 "learner-variable":75,
@@ -30619,6 +30619,16 @@
 "path":"claims/bilingual-fluency-enhances-metalinguistic-awareness.md",
 "status":"review",
 "title":"Fluent bilingualism is linked to metalinguistic awareness of how the two languages relate",
+"type":"claim"
+},
+{
+"description":"In adult Chinese-English bilinguals, Chinese items are recognized faster and more accurately than English items, and morphologically primed items faster than semantically primed items",
+"evidence_strength":"moderate",
+"id":"bilingual-lexical-decision-language-and-priming-effects",
+"newest_evidence":"2023",
+"path":"claims/bilingual-lexical-decision-language-and-priming-effects.md",
+"status":"review",
+"title":"In adult Chinese-English bilinguals, Chinese items are recognized faster and more accurately than English items, and morphologically primed items faster than semantically primed items",
 "type":"claim"
 },
 {
@@ -87105,6 +87115,16 @@
 "type":"claim"
 },
 {
+"description":"Early left anterior negativity (ELAN, 80–150 ms) shows L1-L2 difference in degree, not in kind: L1 elicits enhanced negativity, and the morphological priming effect on ELAN is present only in Chinese",
+"evidence_strength":"moderate",
+"id":"elan-l1-l2-difference-in-degree-not-kind",
+"newest_evidence":"2023",
+"path":"claims/elan-l1-l2-difference-in-degree-not-kind.md",
+"status":"review",
+"title":"Early left anterior negativity (ELAN, 80–150 ms) shows L1-L2 difference in degree, not in kind: L1 elicits enhanced negativity, and the morphological priming effect on ELAN is present only in Chinese",
+"type":"claim"
+},
+{
 "description":"Judges found statements from elderly adults more interesting and clearer than those from young adults, suggesting a trade-off between syntactic complexity and clear, interesting prose",
 "evidence_strength":"moderate",
 "id":"elderly-statements-judged-clearer-more-interesting",
@@ -107055,6 +107075,16 @@
 "path":"claims/fnirs-extra-trees-predict-transfer-scores.md",
 "status":"review",
 "title":"Machine learning models using whole-module fNIRS features predict transfer scores in all feedback groups, with the frontopolar area a predictor regardless of feedback type",
+"type":"claim"
+},
+{
+"description":"fNIRS reveals a neural dissociation between morphological and semantic priming in the left fronto-temporal network of bilinguals",
+"evidence_strength":"moderate",
+"id":"fnirs-morphological-semantic-dissociation-dlpfc-stg-mtg",
+"newest_evidence":"2023",
+"path":"claims/fnirs-morphological-semantic-dissociation-dlpfc-stg-mtg.md",
+"status":"review",
+"title":"fNIRS reveals a neural dissociation between morphological and semantic priming in the left fronto-temporal network of bilinguals",
 "type":"claim"
 },
 {
@@ -150191,6 +150221,16 @@
 "type":"claim"
 },
 {
+"description":"L1 Chinese engages enhanced left prefrontal (frontopolar) activation relative to L2 English for both morphological and semantic priming",
+"evidence_strength":"moderate",
+"id":"l1-chinese-enhanced-frontopolar-activation-versus-l2",
+"newest_evidence":"2023",
+"path":"claims/l1-chinese-enhanced-frontopolar-activation-versus-l2.md",
+"status":"review",
+"title":"L1 Chinese engages enhanced left prefrontal (frontopolar) activation relative to L2 English for both morphological and semantic priming",
+"type":"claim"
+},
+{
 "description":"L1 decoding is positively related to English reading comprehension for Spanish- and Chinese-speaking MLs, with the correlation decreasing as children get older",
 "evidence_strength":"moderate",
 "id":"l1-decoding-positive-relationship-english-comprehension",
@@ -150323,6 +150363,16 @@
 "path":"claims/l1-maintenance-supports-l2-without-cost.md",
 "status":"review",
 "title":"Promoting minority children's L1 raises L1 achievement at no cost to L2 achievement",
+"type":"claim"
+},
+{
+"description":"Chinese morphological facilitation on reaction time is greater than English facilitation, while accuracy patterns are comparable across languages",
+"evidence_strength":"moderate",
+"id":"l1-morphological-facilitation-greater-than-l2",
+"newest_evidence":"2023",
+"path":"claims/l1-morphological-facilitation-greater-than-l2.md",
+"status":"review",
+"title":"Chinese morphological facilitation on reaction time is greater than English facilitation, while accuracy patterns are comparable across languages",
 "type":"claim"
 },
 {
@@ -151087,6 +151137,16 @@
 "recheck_by":"2022",
 "status":"review",
 "title":"Canadian federal and provincial digital policies reflect a laissez-faire approach with near absence of consideration of affordability and digital skills for low-income adults",
+"type":"claim"
+},
+{
+"description":"Late negativity (LAN, 300–500 ms) shows a morphological priming effect with no language interaction, implicating a language-general controlled evaluation of morphological constraints",
+"evidence_strength":"moderate",
+"id":"lan-300-500-language-general-morphological-evaluation",
+"newest_evidence":"2023",
+"path":"claims/lan-300-500-language-general-morphological-evaluation.md",
+"status":"review",
+"title":"Late negativity (LAN, 300–500 ms) shows a morphological priming effect with no language interaction, implicating a language-general controlled evaluation of morphological constraints",
 "type":"claim"
 },
 {
@@ -428623,6 +428683,7 @@
 "bilingual-faster-sky-search-selective-attention":"bilingual-faster-sky-search-selective-attention",
 "bilingual-flatter-attended-encoding-pattern":"bilingual-flatter-attended-encoding-pattern",
 "bilingual-fluency-enhances-metalinguistic-awareness":"bilingual-fluency-enhances-metalinguistic-awareness",
+"bilingual-lexical-decision-language-and-priming-effects":"bilingual-lexical-decision-language-and-priming-effects",
 "bilingual-math-classes-two-language-term-building":"bilingual-math-classes-two-language-term-building",
 "bilingual-pairs-cross-lingual-technique-transfer":"bilingual-pairs-cross-lingual-technique-transfer",
 "bilingual-policy-changes-drove-inclusion-drops":"bilingual-policy-changes-drove-inclusion-drops",
@@ -434129,6 +434190,7 @@
 "elaborative-interrogation-reduces-confidence-in-errors":"elaborative-interrogation-reduces-confidence-in-errors",
 "elaborative-processing-enhances-retrieval":"elaborative-processing-enhances-retrieval",
 "elaborative-reminiscing-interventions-causal-role":"elaborative-reminiscing-interventions-causal-role",
+"elan-l1-l2-difference-in-degree-not-kind":"elan-l1-l2-difference-in-degree-not-kind",
 "elderly-statements-judged-clearer-more-interesting":"elderly-statements-judged-clearer-more-interesting",
 "element-difficulty-distributions-five-tests":"element-difficulty-distributions-five-tests",
 "element-interactivity-changes-from-material-type":"element-interactivity-changes-from-material-type",
@@ -436095,6 +436157,7 @@
 "fms-predict-later-arithmetic":"fms-predict-later-arithmetic",
 "fms-subdomain-differentiated-links":"fms-subdomain-differentiated-links",
 "fnirs-extra-trees-predict-transfer-scores":"fnirs-extra-trees-predict-transfer-scores",
+"fnirs-morphological-semantic-dissociation-dlpfc-stg-mtg":"fnirs-morphological-semantic-dissociation-dlpfc-stg-mtg",
 "fnirs-mvpa-classifies-reading-difficulty":"fnirs-mvpa-classifies-reading-difficulty",
 "focal-paths-robust-to-background-controls":"focal-paths-robust-to-background-controls",
 "focal-smps-deep-study-more-productive":"focal-smps-deep-study-more-productive",
@@ -440317,6 +440380,7 @@
 "kuhlmann-rate-of-mental-progress-over-age-difference":"kuhlmann-rate-of-mental-progress-over-age-difference",
 "kvec-microcredentials-teacher-rank-and-salary-increase":"kvec-microcredentials-teacher-rank-and-salary-increase",
 "l-and-l-star-theoretical-value-ranges":"l-and-l-star-theoretical-value-ranges",
+"l1-chinese-enhanced-frontopolar-activation-versus-l2":"l1-chinese-enhanced-frontopolar-activation-versus-l2",
 "l1-decoding-positive-relationship-english-comprehension":"l1-decoding-positive-relationship-english-comprehension",
 "l1-extensive-reading-drives-vocabulary-growth":"l1-extensive-reading-drives-vocabulary-growth",
 "l1-glosses-improve-immediate-vocabulary-recall":"l1-glosses-improve-immediate-vocabulary-recall",
@@ -440330,6 +440394,7 @@
 "l1-l2-transfer-of-writing-metacognitive-strategies-invariant":"l1-l2-transfer-of-writing-metacognitive-strategies-invariant",
 "l1-l3-proficiency-not-correlated":"l1-l3-proficiency-not-correlated",
 "l1-maintenance-supports-l2-without-cost":"l1-maintenance-supports-l2-without-cost",
+"l1-morphological-facilitation-greater-than-l2":"l1-morphological-facilitation-greater-than-l2",
 "l1-motivational-beliefs-predict-achievement-aspirations":"l1-motivational-beliefs-predict-achievement-aspirations",
 "l1-predicts-l2-phoneme-perception-more-than-proficiency":"l1-predicts-l2-phoneme-perception-more-than-proficiency",
 "l1-spanish-comprehension-correlates-english-comprehension":"l1-spanish-comprehension-correlates-english-comprehension",
@@ -440405,6 +440470,7 @@
 "lag-sequential-analysis-reveals-interaction-ordering":"lag-sequential-analysis-reveals-interaction-ordering",
 "lagged-achievement-tracking-accounted-for-in-vams":"lagged-achievement-tracking-accounted-for-in-vams",
 "laissez-faire-digital-policy-gaps":"laissez-faire-digital-policy-gaps",
+"lan-300-500-language-general-morphological-evaluation":"lan-300-500-language-general-morphological-evaluation",
 "langer-four-stances-across-text-types":"langer-four-stances-across-text-types",
 "language-abilities-positive-effect-expectancies-of-success":"language-abilities-positive-effect-expectancies-of-success",
 "language-asymmetry-general-factor-loadings":"language-asymmetry-general-factor-loadings",
