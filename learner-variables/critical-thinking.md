@@ -109,7 +109,7 @@ It draws on [metacognition](metacognition.md) (monitoring one's own reasoning), 
 - [After the intervention, some students shifted from one-sided to two-sided reasoning: comments against their own side doubled and own-side support halved when reading the other-side text](../claims/shift-to-two-sided-reasoning-after-intervention.md) [+M] — instruction changes it
 - [Reading the own-side account elicited more valid elaborative inferences, relevant associations, consequences-for-present statements and evaluative comments, while the other-side account elicited more invalid inferences](../claims/own-side-text-deeper-processing-other-side-invalid-inferences.md) [+M] — instruction changes it
 - [Students made more evaluative comments after the dialogic argumentation intervention, but their evaluations still favored their own position](../claims/more-evaluative-comments-post-intervention-still-biased.md) [~M] — instruction changes it
-- [The review warns that students risk overreliance on LMFM outputs and that overuse may impede critical thinking, research skills, and independent problem-solving](../claims/lmfm-overreliance-impedes-critical-thinking.md) [~W] — instruction changes it
+- [A perspective article warns that students risk overreliance on LMFM outputs and that overuse may impede critical thinking, research skills, and independent problem-solving](../claims/lmfm-overreliance-impedes-critical-thinking.md) [~W] — instruction changes it
 
 ## Measures
 - **California Critical Thinking Disposition Inventory** (Facione et al., 2001): learner questionnaire on attitudes and dispositions toward critical thinking.

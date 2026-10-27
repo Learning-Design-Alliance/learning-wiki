@@ -25,7 +25,7 @@ Eduq+ is a Movva-run message-based nudge programme that sends structured SMS or 
 ### Claims
 - [Parents-only SMS/audio nudges produced statistically non-significant learning gains of d = 0.081 in rural Cote d'Ivoire](../claims/ivorian-parents-only-nudge-nonsignificant-learning-gains.md) [+M]
 - [Parents-only nudges marginally significantly increased child-reported child labor (d = 0.113), contrary to intervention goals](../claims/parents-only-nudge-increased-child-labor.md) [-M]
-- [Teacher-only and combined parent-teacher nudges showed no impacts on learning, with small negative point estimates](../claims/teacher-and-combined-nudge-arms-no-learning-impacts.md) [+W]
+- [Teacher-only and combined parent-teacher nudges showed no statistically significant impacts on learning; point estimates were small and negative for the learning summary and literacy, and near zero for numeracy](../claims/teacher-and-combined-nudge-arms-no-learning-impacts.md) [+W]
 
 ## Related Products and Programmes
 -

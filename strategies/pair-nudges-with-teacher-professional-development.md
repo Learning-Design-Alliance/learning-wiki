@@ -42,7 +42,7 @@ Based on the trial results, the authors recommend that low-cost, message-based n
 - [The nudge intervention had no statistically significant effects on parenting mechanisms of motivation and engagement](../claims/nudge-no-effects-parenting-mechanisms.md) [+W]
 - [Parents-only nudges marginally significantly increased child-reported child labor (d = 0.113), contrary to intervention goals](../claims/parents-only-nudge-increased-child-labor.md) [+W]
 - [Parents-only nudge effects on learning were larger and positive for children with below-median baseline skills](../claims/parents-only-nudge-larger-gains-low-baseline-children.md) [+W]
-- [Teacher-only and combined parent-teacher nudges showed no impacts on learning, with small negative point estimates](../claims/teacher-and-combined-nudge-arms-no-learning-impacts.md) [+W]
+- [Teacher-only and combined parent-teacher nudges showed no statistically significant impacts on learning; point estimates were small and negative for the learning summary and literacy, and near zero for numeracy](../claims/teacher-and-combined-nudge-arms-no-learning-impacts.md) [+W]
 - [Teacher-targeted nudges showed significant negative interactions with child sex, with negative learning impacts for girls](../claims/teacher-only-nudge-negative-learning-girls.md) [+W]
 
 ## Related Strategies

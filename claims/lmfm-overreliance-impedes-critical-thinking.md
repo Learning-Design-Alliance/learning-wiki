@@ -1,7 +1,7 @@
 ---
 type: claim
-title: The review warns that students risk overreliance on LMFM outputs and that overuse may impede critical thinking, research skills, and independent problem-solving
-description: The review warns that students risk overreliance on LMFM outputs and that overuse may impede critical thinking, research skills, and independent problem-solving
+title: A perspective article warns that students risk overreliance on LMFM outputs and that overuse may impede critical thinking, research skills, and independent problem-solving
+description: A perspective article warns that students risk overreliance on LMFM outputs and that overuse may impede critical thinking, research skills, and independent problem-solving
 id: lmfm-overreliance-impedes-critical-thinking
 status: review
 generated:
@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: weak
 newest_evidence: 2025
+source_checked: 2026-10-27
 sources:
   - id: küchemann-2025
     resource: "https://doi.org/10.1038/s41539-025-00301-w"
@@ -28,15 +29,15 @@ sources:
     rigour: 1
 ---
 
-# The review warns that students risk overreliance on LMFM outputs and that overuse may impede critical thinking, research skills, and independent problem-solving
+# A perspective article warns that students risk overreliance on LMFM outputs and that overuse may impede critical thinking, research skills, and independent problem-solving
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r1`–`r2` · `q1`–`q2`
-> **Currency** · newest study 2025 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-10-27 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
-`q2 i?` The review asserts a risk that students overly rely on LMFM outcomes without critically reflecting on them, and that overuse in learning situations may impede critical thinking, research skills, and independent problem-solving abilities. [→ Küchemann 2025](#kuchemann-2025)
-`q2 i?` The review, citing Anderson and colleagues, argues AI may erode human abilities and create dependence, with students potentially dependent on tools for tasks they should accomplish independently. [→ Küchemann 2025 (2)](#kuchemann-2025-2)
+`q2 i?` The perspective article (an overview, not an empirical or systematic review) asserts a risk that students overly rely on LMFM outcomes without critically reflecting on them, and that overuse in learning situations may impede critical thinking, research skills, and independent problem-solving abilities. [→ Küchemann 2025](#kuchemann-2025)
+`q2 i?` The perspective article, citing Anderson and colleagues, argues AI may erode human abilities and create dependence, with students potentially dependent on tools for tasks they should accomplish independently. [→ Küchemann 2025 (2)](#kuchemann-2025-2)
 
 ## Evidence
 
@@ -56,7 +57,7 @@ Küchemann, S., Avila, K. E., Dinc, Y., Hortmann, C., Revenga, N., Ruf, V., Stau
 
 `q1 · i?` · `review · r1`
 
-Review attributing to Anderson and colleagues the argument that AI may erode human abilities and create dependence; the review adds that overuse "may impede the development of critical thinking, research skills, and independent problem-solving abilities". No empirical data are reported here.
+Perspective article (the authors' overview of opportunities and challenges, not an empirical or systematic review) attributing to Anderson and colleagues the argument that AI may erode human abilities and create dependence; the authors add that overuse "may impede the development of critical thinking, research skills, and independent problem-solving abilities". No empirical data are reported here.
 
 > "Anderson and colleagues argue that artiﬁcial intelligence may erode human abilities, thus creating a dependence78"
 

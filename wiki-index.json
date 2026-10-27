@@ -45276,6 +45276,7 @@
 "id":"classroom-exercise-no-cognitive-engagement-effect",
 "newest_evidence":"2022",
 "path":"claims/classroom-exercise-no-cognitive-engagement-effect.md",
+"source_checked":"2026-10-27",
 "status":"review",
 "title":"Exercise during class does not significantly affect depression, interest, sleep frequency, or mind-wandering",
 "type":"claim"
@@ -158082,13 +158083,14 @@
 "type":"claim"
 },
 {
-"description":"The review warns that students risk overreliance on LMFM outputs and that overuse may impede critical thinking, research skills, and independent problem-solving",
+"description":"A perspective article warns that students risk overreliance on LMFM outputs and that overuse may impede critical thinking, research skills, and independent problem-solving",
 "evidence_strength":"weak",
 "id":"lmfm-overreliance-impedes-critical-thinking",
 "newest_evidence":"2025",
 "path":"claims/lmfm-overreliance-impedes-critical-thinking.md",
+"source_checked":"2026-10-27",
 "status":"review",
-"title":"The review warns that students risk overreliance on LMFM outputs and that overuse may impede critical thinking, research skills, and independent problem-solving",
+"title":"A perspective article warns that students risk overreliance on LMFM outputs and that overuse may impede critical thinking, research skills, and independent problem-solving",
 "type":"claim"
 },
 {
@@ -166780,6 +166782,7 @@
 "id":"maths-self-efficacy-female-only-stem-choice",
 "newest_evidence":"2024",
 "path":"claims/maths-self-efficacy-female-only-stem-choice.md",
+"source_checked":"2026-10-26",
 "status":"review",
 "title":"Maths self-efficacy predicted STEM career choice in females but not males, though the association was explained by maths achievement after adjustment",
 "type":"claim"
@@ -278975,13 +278978,14 @@
 "type":"claim"
 },
 {
-"description":"Teacher-only and combined parent-teacher nudges showed no impacts on learning, with small negative point estimates",
+"description":"Teacher-only and combined parent-teacher nudges showed no statistically significant impacts on learning; point estimates were small and negative for the learning summary and literacy, and near zero for numeracy",
 "evidence_strength":"moderate",
 "id":"teacher-and-combined-nudge-arms-no-learning-impacts",
 "newest_evidence":"2023",
 "path":"claims/teacher-and-combined-nudge-arms-no-learning-impacts.md",
+"source_checked":"2026-10-27",
 "status":"review",
-"title":"Teacher-only and combined parent-teacher nudges showed no impacts on learning, with small negative point estimates",
+"title":"Teacher-only and combined parent-teacher nudges showed no statistically significant impacts on learning; point estimates were small and negative for the learning summary and literacy, and near zero for numeracy",
 "type":"claim"
 },
 {
@@ -355050,7 +355054,7 @@
 "type":"strategy"
 },
 {
-"description":"The review proposes multifaceted risk-mitigation strategies for responsibly integrating LMFMs in education.",
+"description":"The perspective article proposes multifaceted risk-mitigation strategies for responsibly integrating LMFMs in education.",
 "id":"ai-literacy-fact-checking-mitigation-strategy",
 "path":"strategies/ai-literacy-fact-checking-mitigation-strategy.md",
 "status":"review",

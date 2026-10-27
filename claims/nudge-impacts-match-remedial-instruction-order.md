@@ -50,5 +50,5 @@ The article benchmarks its own effect sizes against a second-hand study it cites
 - [The intervention increased student engagement with remote activities and motivation to return to in-person classes](nudges-increase-engagement-motivation.md) — related
 - [Message content mattered: loss framing and avoiding social pressure produced significantly larger test-score effects, ruling out experimenter-demand explanations](message-content-matters-nudge-effects.md) — related
 - [The nudge intervention had no statistically significant effects on parenting mechanisms of motivation and engagement](nudge-no-effects-parenting-mechanisms.md) — related
-- [Teacher-only and combined parent-teacher nudges showed no impacts on learning, with small negative point estimates](teacher-and-combined-nudge-arms-no-learning-impacts.md) — related
+- [Teacher-only and combined parent-teacher nudges showed no statistically significant impacts on learning; point estimates were small and negative for the learning summary and literacy, and near zero for numeracy](teacher-and-combined-nudge-arms-no-learning-impacts.md) — related
 - [SMS nudges targeting socio-emotional skills increased student-level standardized test scores during remote learning, by 0.21 s.d. in Portuguese and 0.19 s.d. on the summary measure](sms-nudges-raise-student-test-scores-remote-learning.md) — related

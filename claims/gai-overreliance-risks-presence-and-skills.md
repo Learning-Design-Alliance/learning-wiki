@@ -65,4 +65,4 @@ Authors' conceptual interpretation in the framework development section, not a t
 - [Critical disposition is least spontaneous when confronting one's most basic prejudices or deeply held convictions](critical-temper-weakest-on-basic-prejudices.md) — related
 - [System-controlled adaptive instruction does not necessarily yield higher transfer than nonadaptive static approaches](system-control-not-superior-transfer.md) — related
 - [Generative AI tools risk inducing overestimated abilities and diminishing training of foundational skills](generative-ai-overconfidence-risk.md) — related
-- [The review warns that students risk overreliance on LMFM outputs and that overuse may impede critical thinking, research skills, and independent problem-solving](lmfm-overreliance-impedes-critical-thinking.md) — related
+- [A perspective article warns that students risk overreliance on LMFM outputs and that overuse may impede critical thinking, research skills, and independent problem-solving](lmfm-overreliance-impedes-critical-thinking.md) — related

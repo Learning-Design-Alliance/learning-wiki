@@ -111,7 +111,7 @@ For adults, problem solving bears on navigating personal, workplace and educatio
 - [Training restructuring strategies improves grade-2 students' word problem solving skills at four-week follow-up relative to a control group](../claims/restructuring-training-improves-word-problem-solving.md) [+W] — instruction changes it
 - [Project-method proponents claim skills are acquired without specific repetition through motivated life situations, refusing compromise with demands for economical skill practice](../claims/project-method-no-specific-repetition-claim.md) [+W] — instruction changes it
 - [Higher TORR scores, especially antinomy, predict more creative engineering design solutions](../claims/torr-predicts-creative-engineering-design.md) [+M] — learners who differ on it differ in outcomes
-- [The review warns that students risk overreliance on LMFM outputs and that overuse may impede critical thinking, research skills, and independent problem-solving](../claims/lmfm-overreliance-impedes-critical-thinking.md) [~W] — instruction changes it
+- [A perspective article warns that students risk overreliance on LMFM outputs and that overuse may impede critical thinking, research skills, and independent problem-solving](../claims/lmfm-overreliance-impedes-critical-thinking.md) [~W] — instruction changes it
 
 ## Measures
 - **Everyday Problem Solving Inventory** (Cornelius & Capsi, 1987): task-based assessment in which learners analyse 48 real-life scenarios about family, home, conflict and managing information.

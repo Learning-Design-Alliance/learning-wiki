@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Teacher-only and combined parent-teacher nudges showed no impacts on learning, with small negative point estimates
-description: Teacher-only and combined parent-teacher nudges showed no impacts on learning, with small negative point estimates
+title: Teacher-only and combined parent-teacher nudges showed no statistically significant impacts on learning; point estimates were small and negative for the learning summary and literacy, and near zero for numeracy
+description: Teacher-only and combined parent-teacher nudges showed no statistically significant impacts on learning; point estimates were small and negative for the learning summary and literacy, and near zero for numeracy
 id: teacher-and-combined-nudge-arms-no-learning-impacts
 status: review
 generated:
@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2023
+source_checked: 2026-10-27
 sources:
   - id: sharon-wolf-and-guilherme-lichand-2023
     resource: "https://doi.org/10.1038/s41539-023-00180-z"
@@ -20,14 +21,14 @@ sources:
     rigour: 3
 ---
 
-# Teacher-only and combined parent-teacher nudges showed no impacts on learning, with small negative point estimates
+# Teacher-only and combined parent-teacher nudges showed no statistically significant impacts on learning; point estimates were small and negative for the learning summary and literacy, and near zero for numeracy
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q3`
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · checked against its sources 2026-10-27 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
-`q3 i?` Impacts of the teacher treatment and the parent-and-teacher combined treatment on learning summary, literacy, and numeracy were statistically insignificant and negative (d = -0.019 to -0.073). [→ Sharon Wolf and Guilherme Lichand 2023](#sharon-wolf-and-guilherme-lichand-2023)
+`q3 i?` Impacts of the teacher treatment and the parent-and-teacher combined treatment on learning summary, literacy, and numeracy were statistically insignificant; the estimates were negative for the summary measure and literacy (d = −0.019 to −0.073) and near zero for numeracy (0.000 teachers-only, 0.011 combined). [→ Sharon Wolf and Guilherme Lichand 2023](#sharon-wolf-and-guilherme-lichand-2023)
 
 ## Evidence
 
@@ -37,7 +38,7 @@ Sharon Wolf and Guilherme Lichand. (2023). Nudging parents and teachers to impro
 
 `q3 · i?` · `causal · r3`
 
-Same school-randomized trial (2246 observations, school-clustered SEs). The article reports the teacher-only and combined arms were "statistically insigni ﬁcant and negative" across the learning summary, literacy, and numeracy outcomes.
+Same school-randomized trial (2246 observations, school-clustered SEs). The article's text describes the teacher-only and combined arms as "statistically insigni ﬁcant and negative" on all three learning outcomes, but its Table 1 gives negative estimates only for the learning summary (teachers −0.037, p = 0.449; both −0.019, p = 0.673) and literacy (teachers −0.073, p = 0.234; both −0.049, p = 0.382); numeracy was 0.000 (p = 0.996) for teachers-only and 0.011 (p = 0.811) for the combined arm. Non-significance here does not show the impacts are zero.
 
 > "Impacts of the teacher treatment and of the parent and teacher combined treatment on all three outcomes were also statistically insigni ﬁcant and negative ( d = −0.019 to −0.073)."
 

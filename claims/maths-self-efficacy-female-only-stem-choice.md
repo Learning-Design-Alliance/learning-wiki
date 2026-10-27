@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2024
+source_checked: 2026-10-26
 sources:
   - id: ferdinand-2024
     resource: "https://doi.org/10.1038/s41539-024-00275-1"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · checked against its sources 2026-10-26 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The effect of maths self-efficacy in the unadjusted female model (OR = 1.77) was significantly larger than in the unadjusted male model (OR = 0.98), but was attenuated when accounting for maths achievement. [→ Ferdinand 2024](#ferdinand-2024)

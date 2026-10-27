@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2022
+source_checked: 2026-10-27
 sources:
   - id: ayame-tamura-2022
     resource: "https://doi.org/10.1038/s41539-022-00125-y"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2022 · checked against its sources 2026-10-27 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Condition effects were non-significant for depression, interest, sleep frequency, and mind-wandering; equivalence was not tested. [→ Ayame Tamura 2022](#ayame-tamura-2022)
@@ -37,7 +38,7 @@ Ayame Tamura, Kou Murayama, Ryo Ishii, Michiko Sakaki and Ayumi Tanaka. (2022). 
 
 `q3 · i?` · `causal · r2`
 
-Linear mixed-effects final models for the remaining four dependent variables in the nine-lesson classroom intervention. The condition effects on "depression, interest, sleep frequency, and mind-wandering" were all non-significant. No effect sizes printed, so impact is null.
+Linear mixed-effects final models for the remaining four dependent variables in the nine-lesson classroom intervention. The condition effects on "depression, interest, sleep frequency, and mind-wandering" were all non-significant (Table 3, unstandardised B with exercise coded 1 and control −1: depression −0.04, P = 0.08; interest 0.04, P = 0.11; sleep frequency −0.06, P = 0.20; mind-wandering −0.05, P = 0.43). No standardised effect size is printed, so impact is coded `i?`; non-significance here does not show the effects are zero, and equivalence was not tested.
 
 > "The condition effects were not signiﬁcant in the models predicting depression, interest, sleep frequency, and mind-wandering."
 

@@ -2,7 +2,7 @@
 type: strategy
 id: ai-literacy-fact-checking-mitigation-strategy
 title: "Mitigation strategy: AI-literacy curricula with fact-checking modules, comprehensive educator training, and transparent documentation of AI use"
-description: The review proposes multifaceted risk-mitigation strategies for responsibly integrating LMFMs in education.
+description: The perspective article proposes multifaceted risk-mitigation strategies for responsibly integrating LMFMs in education.
 status: review
 generated:
   by: "process:wiki-ingest"
@@ -20,7 +20,7 @@ sources:
 > **Evidence** · 1 claim (1 for) · 1 study (1 review), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
-The review proposes multifaceted risk-mitigation strategies for responsibly integrating LMFMs in education. Within curricula, AI literacy should be "a core part of the curriculum" for both teachers and students, with modules on fact checking and ethical considerations to develop students' critical evaluation of AI-generated content, plus assessment strategies aligned with learning objectives in LMFM-enhanced environments. Educators need comprehensive training in AI literacy, ethical usage, data privacy, and fact-checking, and researchers should transparently document LMFM utilization and cross-reference AI outputs with established resources.
+The perspective article proposes multifaceted risk-mitigation strategies for responsibly integrating LMFMs in education. Within curricula, AI literacy should be "a core part of the curriculum" for both teachers and students, with modules on fact checking and ethical considerations to develop students' critical evaluation of AI-generated content, plus assessment strategies aligned with learning objectives in LMFM-enhanced environments. Educators need comprehensive training in AI literacy, ethical usage, data privacy, and fact-checking, and researchers should transparently document LMFM utilization and cross-reference AI outputs with established resources.
 
 ## Design Implications
 
@@ -30,7 +30,7 @@ The review proposes multifaceted risk-mitigation strategies for responsibly inte
 - Policies and resource allocation prioritizing equitable access to AI technologies for all students.
 - Engaging parents as part of the educational community to foster long-term acceptance.
 #### Constraints
-- The review states regular policy reviews and updates are needed to monitor AI developments for biases, indicating mitigation requires ongoing rather than one-time effort.
+- The perspective article states regular policy reviews and updates are needed to monitor AI developments for biases, indicating mitigation requires ongoing rather than one-time effort.
 
 ### Target Learners
 - teachers and educators
@@ -48,7 +48,7 @@ The review proposes multifaceted risk-mitigation strategies for responsibly inte
 
 ## Claims
 
-- [The review warns that students risk overreliance on LMFM outputs and that overuse may impede critical thinking, research skills, and independent problem-solving](../claims/lmfm-overreliance-impedes-critical-thinking.md) [+W]
+- [A perspective article warns that students risk overreliance on LMFM outputs and that overuse may impede critical thinking, research skills, and independent problem-solving](../claims/lmfm-overreliance-impedes-critical-thinking.md) [+W]
 
 ## Related Strategies
 
