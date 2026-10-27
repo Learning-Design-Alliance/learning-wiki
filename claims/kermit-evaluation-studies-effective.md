@@ -9,6 +9,7 @@ generated:
   at: 2026-10-27
 evidence_strength: moderate
 newest_evidence: 2004
+source_checked: 2026-10-27
 sources:
   - id: pramuditha-suraweera-2004
     resource: "https://telearn.hal.science/hal-00197310"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r?` · `q2`
-> **Currency** · newest study 2004 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2004 · checked against its sources 2026-10-27 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Two evaluation studies with students taking database courses showed KERMIT to be an effective system. [→ Pramuditha Suraweera 2004](#pramuditha-suraweera-2004)

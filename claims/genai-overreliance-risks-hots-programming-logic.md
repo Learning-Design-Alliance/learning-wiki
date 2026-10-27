@@ -9,6 +9,7 @@ generated:
   at: 2026-10-27
 evidence_strength: moderate
 newest_evidence: 2025
+source_checked: 2026-10-27
 sources:
   - id: jemimah-nathaniel-2025
     resource: "https://doi.org/10.1007/s40593-025-00524-3"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-10-27 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The review reports that students' potential overdependence on GenAI tools may reduce understanding of programming logic and higher-order thinking skills. [→ Jemimah Nathaniel 2025](#jemimah-nathaniel-2025)

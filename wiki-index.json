@@ -18066,6 +18066,7 @@
 "id":"algorithmic-bias-privacy-risks-adult-education",
 "newest_evidence":"2026",
 "path":"claims/algorithmic-bias-privacy-risks-adult-education.md",
+"source_checked":"2026-10-27",
 "status":"review",
 "title":"Algorithmic bias and data privacy are central ethical risks of AI in adult education",
 "type":"claim"
@@ -35256,6 +35257,7 @@
 "id":"ca-and-feedback-model-structure-lai-interventions",
 "newest_evidence":"2024",
 "path":"claims/ca-and-feedback-model-structure-lai-interventions.md",
+"source_checked":"2026-10-27",
 "status":"review",
 "title":"Grounding LAI feedback in constructive alignment and the Hattie–Timperley feedback model structures personalised interventions",
 "type":"claim"
@@ -115461,6 +115463,7 @@
 "id":"genai-overreliance-risks-hots-programming-logic",
 "newest_evidence":"2025",
 "path":"claims/genai-overreliance-risks-hots-programming-logic.md",
+"source_checked":"2026-10-27",
 "status":"review",
 "title":"Overreliance on GenAI risks diminishing higher-order thinking skills and programming logic",
 "type":"claim"
@@ -148780,6 +148783,7 @@
 "id":"kermit-adapts-to-student-actions",
 "newest_evidence":"2004",
 "path":"claims/kermit-adapts-to-student-actions.md",
+"source_checked":"2026-10-27",
 "status":"review",
 "title":"KERMIT observes students' actions and adapts to their knowledge and learning abilities",
 "type":"claim"
@@ -148790,6 +148794,7 @@
 "id":"kermit-evaluation-studies-effective",
 "newest_evidence":"2004",
 "path":"claims/kermit-evaluation-studies-effective.md",
+"source_checked":"2026-10-27",
 "status":"review",
 "title":"KERMIT was effective in two evaluation studies with university database-course students",
 "type":"claim"
@@ -181026,6 +181031,7 @@
 "id":"motivational-agents-improved-self-efficacy",
 "newest_evidence":"2015",
 "path":"claims/motivational-agents-improved-self-efficacy.md",
+"source_checked":"2026-10-27",
 "status":"review",
 "title":"Motivational agent roles (Motivator and Mentor) were perceived as more human-like and improved learner self-efficacy",
 "type":"claim"
@@ -198481,6 +198487,7 @@
 "id":"omnibus-theory-neutral-authoring-uniqueness",
 "newest_evidence":"2015",
 "path":"claims/omnibus-theory-neutral-authoring-uniqueness.md",
+"source_checked":"2026-10-27",
 "status":"review",
 "title":"OMNIBUS/SMARTIES is, to the authors' knowledge, the only authoring system that does not favor one learning/instructional theory over another",
 "type":"claim"

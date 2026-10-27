@@ -9,6 +9,7 @@ generated:
   at: 2026-10-27
 evidence_strength: weak
 newest_evidence: 2015
+source_checked: 2026-10-27
 sources:
   - id: mizoguchi-2015
     resource: "https://doi.org/10.1007/s40593-015-0077-5"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2015 · checked against its sources 2026-10-27 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The authors state that OMNIBUS-based authoring does not constrain or favor any particular theory, making it, to their knowledge, unique among authoring systems. [→ Mizoguchi 2015](#mizoguchi-2015)
