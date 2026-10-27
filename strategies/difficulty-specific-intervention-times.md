@@ -39,7 +39,7 @@ The article proposes choosing an intervention time for each student difficulty b
 
 ## Claims
 
-- [Eye tracking data can predict specific student difficulties in graphical differentiation tasks as a multiclass classification problem](../claims/gaze-prediction-specific-math-difficulties-multiclass.md) [+W]
+- [On one graphical differentiation item, eye tracking data predicted students' specific difficulties as a multiclass classification problem](../claims/gaze-prediction-specific-math-difficulties-multiclass.md) [+W]
 
 ## Related Strategies
 

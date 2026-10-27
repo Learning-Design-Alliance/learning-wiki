@@ -23,7 +23,7 @@ A multimedia intelligent tutoring system for middle- and high-school mathematics
 
 ### Claims
 - [Students using Wayang Outpost earned higher state standardized test (MCAS) scores at year end than matched control students](../claims/wayang-higher-mcas-scores.md) [+M]
-- [In the 2012 study, Wayang use produced significant MAP gains in patterns and algebra (d = 0.38 overall; d = 0.77 for eighth graders)](../claims/wayang-map-algebra-gains.md) [+M]
+- [In the 2012 study, classes using Wayang showed significantly larger MAP gains in patterns and algebra than control classes (d = 0.38)](../claims/wayang-map-algebra-gains.md) [+M]
 
 ## Related Products and Programmes
 -

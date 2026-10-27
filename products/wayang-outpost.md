@@ -23,7 +23,7 @@ Wayang Outpost is an intelligent tutoring system for middle- and high-school mat
 - **Effort-based tutoring (EBT): adaptive problem selection and pedagogical moves inferred from correctness, help requests and time**: EBT is Wayang Outpost's pedagogical decision-making model. It "adapts problem selection depending on the effort exerted by a student on a practice activity based on three different dimensions of student behavior: attempts to solve a problem, help requested, and time to answer". It defines a region of expected behavior per problem from historical log data, infers a most-likely student state (e.g., mastery without effort, hint abuse, low effort), and selects pedagogical and affective/motivational moves accordingly (Table 1). The authors contrast it with BKT and IRT, claiming it models cognitive, affective and metacognitive states together and captures inherent item difficulty beyond the required procedure. (Arroyo et al. (2014))
 
 ### Claims
-- [In the 2012 study, Wayang use produced significant MAP gains in patterns and algebra (d = 0.38 overall; d = 0.77 for eighth graders)](../claims/wayang-map-algebra-gains.md) [+M]
+- [In the 2012 study, classes using Wayang showed significantly larger MAP gains in patterns and algebra than control classes (d = 0.38)](../claims/wayang-map-algebra-gains.md) [+M]
 
 ## Related Products and Programmes
 -

@@ -1,7 +1,7 @@
 ---
 type: claim
-title: In the 2012 study, Wayang use produced significant MAP gains in patterns and algebra (d = 0.38 overall; d = 0.77 for eighth graders)
-description: In the 2012 study, Wayang use produced significant MAP gains in patterns and algebra (d = 0.38 overall; d = 0.77 for eighth graders)
+title: In the 2012 study, classes using Wayang showed significantly larger MAP gains in patterns and algebra than control classes (d = 0.38)
+description: In the 2012 study, classes using Wayang showed significantly larger MAP gains in patterns and algebra than control classes (d = 0.38)
 id: wayang-map-algebra-gains
 status: review
 generated:
@@ -9,6 +9,7 @@ generated:
   at: 2026-10-27
 evidence_strength: moderate
 newest_evidence: 2014
+source_checked: 2026-10-27
 sources:
   - id: arroyo-2014
     resource: "https://doi.org/10.1007/s40593-014-0023-y"
@@ -28,11 +29,11 @@ sources:
     rigour: 1
 ---
 
-# In the 2012 study, Wayang use produced significant MAP gains in patterns and algebra (d = 0.38 overall; d = 0.77 for eighth graders)
+# In the 2012 study, classes using Wayang showed significantly larger MAP gains in patterns and algebra than control classes (d = 0.38)
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q3` · `i1`–`i2`
-> **Currency** · newest study 2014 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2014 · checked against its sources 2026-10-27 (automated, 2 of 2 entries) · not reviewed by a person
 > **Design limits** · Arroyo 2014: groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-27)
 
 ## Subclaims
@@ -47,7 +48,7 @@ Arroyo, I., Woolf, B. P., Burelson, W., Muldner, K., Rai, D., & Tai, M. (2014). 
 
 `q3 · i1` · `causal · r1`
 
-Controlled 2012 study with 198 seventh and eighth graders in one Massachusetts school, half assigned to Wayang use about once a month all year; MAP given at beginning and end of year. The article reports "a significant difference in student gains" for patterns and algebra with Cohen's d = 0.38.
+Controlled 2012 study with 198 seventh and eighth graders in one Massachusetts school: half the math classes were assigned to Wayang use about once a month all year (the article does not say the assignment was random, and the split was uneven across grades); MAP given at beginning and end of year. The article reports "a significant difference in student gains" for patterns and algebra with Cohen's d = 0.38. A between-group difference from class-level assignment, not a randomised test of Wayang's effect.
 
 > "indicated a significant difference in student gains from the beginning to the end of the year for one specific area of the mathematics curriculum, the “patterns and algebra” section of MAP , between the control and Wayang groups (p<0.01 *, ef fect sizeCohen’sd = 0.38)."
 

@@ -47,4 +47,4 @@ Aggregate analysis of Massachusetts MCAS results from studies since 2004 with ma
 
 ## Related Claims
 - [Math fact retrieval (MFR) fluency training before Wayang tutoring improved math learning (Wayang vs. no-Wayang d = 0.39), with the Wayang-MFR combination scoring highest](mfr-fluency-training-improves-learning.md) — related
-- [In the 2012 study, Wayang use produced significant MAP gains in patterns and algebra (d = 0.38 overall; d = 0.77 for eighth graders)](wayang-map-algebra-gains.md) — related
+- [In the 2012 study, classes using Wayang showed significantly larger MAP gains in patterns and algebra than control classes (d = 0.38)](wayang-map-algebra-gains.md) — related

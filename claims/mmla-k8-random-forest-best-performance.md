@@ -70,5 +70,5 @@ The review reports that Shin et al. (2020) compared logistic regression, support
 - [Adding student attributes and autoregression improves prediction accuracy, with GP-α (τ = 1) reaching 0.711 accuracy and 0.757 F1.](attributes-autoregression-improve-response-prediction.md) — related
 - [Machine-learning classifiers predict full student response to teacher communication in autism classrooms above random and major-class baselines.](ml-predicts-student-response-autism-communication.md) — related
 - [Unsupervised time-series clustering identifies low performers more accurately than SVM or decision-tree classifiers trained on two temporal statistics](unsupervised-clustering-beats-feature-classifiers.md) — related
-- [Eye tracking data can predict specific student difficulties in graphical differentiation tasks as a multiclass classification problem](gaze-prediction-specific-math-difficulties-multiclass.md) — related
+- [On one graphical differentiation item, eye tracking data predicted students' specific difficulties as a multiclass classification problem](gaze-prediction-specific-math-difficulties-multiclass.md) — related
 - [Random Forest performed slightly better overall than SVM and Complement Naive Bayes for classifying short exam answers, with an average F-score of 0.82](random-forest-slightly-better-for-answer-classification.md) — related

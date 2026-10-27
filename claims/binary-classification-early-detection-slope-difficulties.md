@@ -46,4 +46,4 @@ Binary classification results from the same eye tracking study with 143 students
 
 ## Related Claims
 - [The five difficulty groups differ significantly on all 15 eye tracking metrics](five-groups-differ-all-metrics.md) — related
-- [Eye tracking data can predict specific student difficulties in graphical differentiation tasks as a multiclass classification problem](gaze-prediction-specific-math-difficulties-multiclass.md) — related
+- [On one graphical differentiation item, eye tracking data predicted students' specific difficulties as a multiclass classification problem](gaze-prediction-specific-math-difficulties-multiclass.md) — related

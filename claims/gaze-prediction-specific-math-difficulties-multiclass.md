@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Eye tracking data can predict specific student difficulties in graphical differentiation tasks as a multiclass classification problem
-description: Eye tracking data can predict specific student difficulties in graphical differentiation tasks as a multiclass classification problem
+title: On one graphical differentiation item, eye tracking data predicted students' specific difficulties as a multiclass classification problem
+description: On one graphical differentiation item, eye tracking data predicted students' specific difficulties as a multiclass classification problem
 id: gaze-prediction-specific-math-difficulties-multiclass
 status: review
 generated:
@@ -9,6 +9,7 @@ generated:
   at: 2026-10-27
 evidence_strength: moderate
 newest_evidence: 2025
+source_checked: 2026-10-27
 sources:
   - id: kennel-2025
     resource: "https://doi.org/10.1007/s40593-024-00447-5"
@@ -20,14 +21,14 @@ sources:
     rigour: 2
 ---
 
-# Eye tracking data can predict specific student difficulties in graphical differentiation tasks as a multiclass classification problem
+# On one graphical differentiation item, eye tracking data predicted students' specific difficulties as a multiclass classification problem
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-10-27 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
-`q2 i?` Three machine learning algorithms (KNN, Random Forest, SVM) applied to eye tracking features achieve an MCC around 0.78 in multiclass classification of five student difficulty categories in graphical differentiation. [→ Kennel 2025](#kennel-2025)
+`q2 i?` Three machine learning algorithms (KNN, Random Forest, SVM) applied to eye tracking features achieve an MCC around 0.78 in multiclass classification of five solution categories (correct, slope-height error, block-slope error, inverted-slope error, guess) on the one graphical differentiation item analysed; the authors propose, but did not test, transfer to other items. [→ Kennel 2025](#kennel-2025)
 
 ## Evidence
 
@@ -37,7 +38,7 @@ Kennel, K., Ishimaru, S., Küchemann, S., Steinert, S., Kuhn, J., & Ruzika, S. (
 
 `q2 · i?` · `associational · r2`
 
-Machine learning classification study with 143 upper-secondary students using a stationary eye tracker; features included fixation counts, relative fixation counts, transitions, and saccade direction. The article reports "all 3 classifiers achieve values of the MCC around 0.78" for the multiclass case.
+Machine learning classification study with 143 upper-secondary students using a stationary eye tracker, analysing one graphical differentiation item in depth; features included fixation counts, relative fixation counts, transitions, and saccade direction. The article reports "all 3 classifiers achieve values of the MCC around 0.78" for the multiclass case.
 
 > "Overall, all 3 classifiers achieve values of the MCC around 0.78, whereby the values after 50 s are already very good with values above 0.7 (for the KNN algorithm even a little earlier)."
 

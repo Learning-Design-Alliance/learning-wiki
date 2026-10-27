@@ -113670,13 +113670,14 @@
 "type":"claim"
 },
 {
-"description":"Eye tracking data can predict specific student difficulties in graphical differentiation tasks as a multiclass classification problem",
+"description":"On one graphical differentiation item, eye tracking data predicted students' specific difficulties as a multiclass classification problem",
 "evidence_strength":"moderate",
 "id":"gaze-prediction-specific-math-difficulties-multiclass",
 "newest_evidence":"2025",
 "path":"claims/gaze-prediction-specific-math-difficulties-multiclass.md",
+"source_checked":"2026-10-27",
 "status":"review",
-"title":"Eye tracking data can predict specific student difficulties in graphical differentiation tasks as a multiclass classification problem",
+"title":"On one graphical differentiation item, eye tracking data predicted students' specific difficulties as a multiclass classification problem",
 "type":"claim"
 },
 {
@@ -310917,13 +310918,14 @@
 "type":"claim"
 },
 {
-"description":"In the 2012 study, Wayang use produced significant MAP gains in patterns and algebra (d = 0.38 overall; d = 0.77 for eighth graders)",
+"description":"In the 2012 study, classes using Wayang showed significantly larger MAP gains in patterns and algebra than control classes (d = 0.38)",
 "evidence_strength":"moderate",
 "id":"wayang-map-algebra-gains",
 "newest_evidence":"2014",
 "path":"claims/wayang-map-algebra-gains.md",
+"source_checked":"2026-10-27",
 "status":"review",
-"title":"In the 2012 study, Wayang use produced significant MAP gains in patterns and algebra (d = 0.38 overall; d = 0.77 for eighth graders)",
+"title":"In the 2012 study, classes using Wayang showed significantly larger MAP gains in patterns and algebra than control classes (d = 0.38)",
 "type":"claim"
 },
 {

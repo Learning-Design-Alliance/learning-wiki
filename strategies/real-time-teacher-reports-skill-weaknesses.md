@@ -42,7 +42,7 @@ Wayang's teacher tools reify the tutor's assessment through a graphical interfac
 
 - [A small randomized controlled study found adaptive problem selection improved learning compared with random problem selection](../claims/adaptive-problem-selection-improves-learning.md) [+W]
 - [Students using Wayang Outpost earned higher state standardized test (MCAS) scores at year end than matched control students](../claims/wayang-higher-mcas-scores.md) [+W]
-- [In the 2012 study, Wayang use produced significant MAP gains in patterns and algebra (d = 0.38 overall; d = 0.77 for eighth graders)](../claims/wayang-map-algebra-gains.md) [+W]
+- [In the 2012 study, classes using Wayang showed significantly larger MAP gains in patterns and algebra than control classes (d = 0.38)](../claims/wayang-map-algebra-gains.md) [+W]
 
 ## Related Strategies
 
