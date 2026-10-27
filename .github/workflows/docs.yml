@@ -65,6 +65,20 @@ jobs:
             git archive origin/gh-pages pr-preview | tar -x -C site
           fi
 
+      # GitHub Pages publishes sites up to 1 GB. Measured 2026-10-27: 625 MB, of which the
+      # long tail is 371 MB and Pagefind 113 MB, about 12 KB a long-tail page. Past 850 MB
+      # this warns, leaving room for the long tail to move (compressed pages rendered in the
+      # browser, or another host) before a deploy fails. Bytes, not disk blocks: du's default
+      # counts each small file as a whole block and reads ~60% high.
+      - name: Check the published size
+        run: |
+          bytes=$(du -sb site | cut -f1)
+          mb=$((bytes / 1000000))
+          echo "Published site: ${mb} MB of GitHub Pages' 1000 MB limit." | tee -a "$GITHUB_STEP_SUMMARY"
+          if [ "$mb" -gt 850 ]; then
+            echo "::warning title=Site near the GitHub Pages limit::The site is ${mb} MB of 1000 MB. Plan the long tail's move off GitHub Pages (CLAUDE.md, The site and the generated files)."
+          fi
+
       # keep_files: false replaces the published tree with this build. It was true,
       # to keep the previews, and so kept every page ever renamed or deleted as well:
       # the published site only grew (2026-10-10). Not `mkdocs gh-deploy`, which
