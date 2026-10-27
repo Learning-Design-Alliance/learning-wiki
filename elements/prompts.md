@@ -13,7 +13,7 @@ generated:
 # Prompts
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 38 claims (13 for, 21 mixed, 4 against) · 41 studies (19 causal, 8 review, 6 quant-synthesis, 4 theoretical, 2 associational, 2 qualitative), `q1`–`q4` · 9 of 41 report an effect size · 31 claims rest on one study
+> **Evidence** · 39 claims (13 for, 22 mixed, 4 against) · 42 studies (20 causal, 8 review, 6 quant-synthesis, 4 theoretical, 2 associational, 2 qualitative), `q1`–`q4` · 9 of 42 report an effect size · 32 claims rest on one study
 
 ## Description
 A prompt is a cue, question, or instruction embedded in a learning task that directs learner attention, elicits a response, or scaffolds a cognitive process at the moment it is needed. Prompts range from simple procedural reminders ("check your units") to elaborative questions ("why does this solution work?") to metacognitive self-questioning stems ("what strategy am I using, and is it working?").
@@ -85,6 +85,7 @@ Prompts work by triggering self-explanations and strategic processing that learn
 - [In two studies of children aged 10–12 and 9–13, students were more likely to study vocabulary on days they received a mobile-app study reminder than on days they did not](../claims/reminder-days-boost-same-day-study-probability.md) [+W]
 - [Students who received study reminders did not study more frequently overall than control students who never received reminders](../claims/reminder-group-no-overall-study-increase.md) [-W]
 - [On days without reminders, reminded students were significantly less likely to study vocabulary than control students, suggesting overreliance on reminders](../claims/reminder-overreliance-on-no-reminder-days.md) [-W]
+- [Question-asking practice changes children's response to a pedagogical exploration cue: the listening group opened more cued envelopes in the first minute of play](../claims/exploration-cue-response-shifts-after-question-asking.md) [~W]
 
 ## The evidence by question
 

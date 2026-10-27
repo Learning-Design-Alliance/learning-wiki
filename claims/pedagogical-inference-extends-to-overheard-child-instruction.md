@@ -70,3 +70,4 @@ In Experiment 2, discovery of non-demonstrated functions (0–3 scale) was lower
 - [Children structure their play to reduce uncertainty and deconfound causal variables](children-play-deconfound-causal-variables.md) — related
 - [Schooling disciplines and constrains children's spontaneity in idea generation with mixed results](schooling-disciplines-childrens-spontaneity-mixed-results.md) — related
 - [Overhearing dialogue between virtual tutor and tutee produced more recall propositions, transfer questions, and deeper reasoning than monologue](pal-dialogue-beats-monologue-recall-reasoning.md) — related
+- [Question-asking practice changes children's response to a pedagogical exploration cue: the listening group opened more cued envelopes in the first minute of play](exploration-cue-response-shifts-after-question-asking.md) — related

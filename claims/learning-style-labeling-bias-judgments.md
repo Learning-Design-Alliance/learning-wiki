@@ -47,3 +47,5 @@ The review reports, citing Sun et al. (2023), three studies showing labeling eff
 ## Related Claims
 - [Parental aspiration/expectation for children's educational achievement has the strongest relationship with academic achievement among involvement components](parental-aspiration-expectation-strongest-relationship.md) — related
 - [Praise for intelligence, rather than for effort, after success undermines children's motivation and performance after a later failure](feedback-praise-reduces-learning.md) — related
+- [Parents and teachers predict visual learners earn higher grades in core subjects and hands-on learners higher grades in non-core subjects (pre-registered)](grade-predictions-core-versus-non-core-subjects.md) — related
+- [Parents and teachers spontaneously list different school subjects as strengths for visual versus hands-on learners](open-ended-subject-strengths-by-learning-style.md) — a narrower finding that bears on this claim

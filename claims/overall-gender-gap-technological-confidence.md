@@ -70,3 +70,4 @@ Independent samples t-test with Welch's correction on the survey's gender-based 
 - [Gender differences in AI perception scores appear only in the overall score and attitudes dimension, with males scoring higher](gender-differences-ai-perceptions-limited-dimensions.md) — related
 - [The review reports that highly competent PALs increased learners' application of acquired knowledge while low-competent PALs increased self-efficacy](pal-competency-self-efficacy-application-tradeoff.md) — related
 - [Female student teachers score significantly higher on performance goal orientation than male students, with no gender differences on the other dimensions](gender-performance-goal-orientation-females-higher.md) — reports the opposite
+- [Female participants reported significantly higher maths anxiety and general anxiety, while males reported higher maths self-efficacy and maths interest](sex-differences-maths-anxiety-motivation-means.md) — related

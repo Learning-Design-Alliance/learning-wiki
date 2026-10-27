@@ -89,6 +89,7 @@ Short aerobic activity reliably improves subsequent attention and on-task behavi
 **[GoNoodle](https://www.gonoodle.com)** — Short (2–5 minute) guided movement videos designed for classroom transitions; widely used for K–5 brain breaks with minimal setup time.
 
 **[The Daily Mile](https://thedailymile.org)** — 15 minutes of daily running or walking embedded in the school day; implemented in over 80 countries as a scheduled whole-class activity break.
+- [Incorporate a 3-minute low-intensity exercise break about 20 minutes into university lessons](../strategies/three-minute-slow-aerobics-class-break.md)
 
 ## Key Sources
 - Hillman, C. H., Erickson, K. I., & Kramer, A. F. (2008). Be smart, exercise your heart: Exercise effects on brain and cognition. *Nature Reviews Neuroscience, 9*(1), 58–65. [doi:10.1038/nrn2298](https://doi.org/10.1038/nrn2298)

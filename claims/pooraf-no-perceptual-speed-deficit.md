@@ -56,3 +56,4 @@ A second ANCOVA with L3 scores as covariate confirmed a group effect only for th
 - [Children with poor arithmetic fact abilities are significantly slower than matched controls only on the multiplication selection task](pooraf-slower-only-multiplication-task.md) — related
 - [PoorAF children show a significant problem-size effect in multiplication RTs, with a marginally significant stronger problem-size influence than controls](pooraf-problem-size-effect-multiplication.md) — related
 - [Adolescents with ADHD respond more slowly than non-ADHD peers across all conditions, and color-shape binding slows responses in both groups](adhd-slower-rt-wm-binding-task.md) — related
+- [Mathematical deficits among children with dyslexia are heterogeneous, spanning four distinct deficit profiles](four-math-deficit-subtypes-dyslexia.md) — related

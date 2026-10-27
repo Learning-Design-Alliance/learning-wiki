@@ -48,3 +48,4 @@ Multinomial logistic regression predicting comprehension group membership (UPC r
 - [RU2Short READ1 genotype proportions differ significantly across comprehension groups, highest in UPC](ru2short-genotype-proportions-vary-comprehension-groups.md) — related
 - [Functional connectivity between right insula/IFG and right SMG is stronger in children with RU2Short alleles](ru2short-stronger-right-ifg-smg-connectivity.md) — related
 - [Children with unexpected poor comprehension show a profound vocabulary deficit despite average-to-above-average word reading](upc-profound-vocabulary-deficit-adequate-decoding.md) — related
+- [Phonological awareness mediates the effect of the DCDC2-READ1 RU2-Short allele on word reading accuracy, word reading fluency, and reading comprehension](phonological-awareness-mediate-read1-reading-outcomes.md) — related

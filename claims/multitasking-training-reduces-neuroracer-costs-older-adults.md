@@ -72,3 +72,7 @@ Follow-up comparison in experiment 3 context: MTT post-training cost (reported a
 - [Multitasking training transferred to untrained working memory and sustained attention tasks in older adults, unlike control training](multitasking-training-transfers-working-memory-sustained-attention.md) — related
 - [Training-induced increases in midline frontal theta power correlate with preserved multitasking gains at 6 months and with sustained attention improvement](theta-power-correlates-preserved-gains-attention.md) — related
 - [Multitasking performance on NeuroRacer declines linearly across the adult lifespan from ages 20 to 79](neuroracer-multitasking-cost-linear-age-decline.md) — related
+- [Discrimination accuracy improved across training sessions more for the multitasking group than the single-task group](discrimination-training-gain-multitask-group.md) — related
+- [Simultaneous performance of tracking and discrimination tasks produces large multitasking costs at baseline](multitasking-cost-large-baseline-2017.md) — related
+- [Multitasking training reduces dual-task cost relative to single-task component training, with gains specific to the multitasking group](multitasking-training-task-specific-gains.md) — related
+- [Multitasking training benefits do not transfer to untrained action control tasks (PRP, Stroop, AB, single response selection, Go-Nogo, Flanker)](no-transfer-action-control-tasks.md) — related

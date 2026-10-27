@@ -48,3 +48,5 @@ Single-channel EEG at Fp1 recorded alpha power before and after the 50-minute in
 - [Alpha neurofeedback via a low-cost single-channel BCI improves university students' algebra performance more than sham feedback](alpha-neurofeedback-improves-algebra-performance.md) — related
 - [Alpha neurofeedback raises mathematics self-efficacy relative to sham feedback](alpha-neurofeedback-raises-math-self-efficacy.md) — related
 - [In a randomized three-arm trial, medication but not physical exercise or neurofeedback was related to improved response inhibition and reduced theta power in children with ADHD](medication-not-exercise-improved-response-inhibition-janssen.md) — related
+- [Alpha neurofeedback training produces no change in alpha ERSP or pre-stimulus alpha in the encoding and maintenance phases of the modified Sternberg task](alpha-nf-no-neural-change-sternberg.md) — related
+- [Alpha neurofeedback training increases alpha amplitude within training sessions relative to sham control, but the increase does not persist across sessions](alpha-nf-within-session-alpha-increase.md) — related

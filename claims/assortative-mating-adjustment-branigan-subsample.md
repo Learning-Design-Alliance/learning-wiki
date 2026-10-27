@@ -54,3 +54,4 @@ Secondary re-analysis of a subsample of the Branigan et al. (2013) meta-analysis
 - [Environmental factors such as social support modulate classic individual-difference findings, including delay of gratification and heritability estimates](environmental-factors-modulate-individual-difference-findings.md) — related
 - [Within twin pairs, education–methylation associations persist but are attenuated, implicating shared environmental or genetic factors](education-methylation-twin-pairs.md) — related
 - [GPAΔ is strikingly highly heritable (85%), exceeding the heritability of achievement itself (67%)](gpad-heritability-85-percent-exceeds-achievement.md) — related
+- [The general Spatial Ability factor is 84% heritable, with shared genetic variance underlying clustering across all sixteen tests and no meaningful shared environmental contribution](spatial-ability-factor-84-percent-heritable-shared-genetic-variance.md) — related

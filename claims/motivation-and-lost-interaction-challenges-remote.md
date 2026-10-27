@@ -85,3 +85,4 @@ Thematic analysis of open-ended greatest-challenge responses found motivation, m
 - [In OUSD dual enrollment courses, students most often identify the point person as their main source of support, at higher rates than the instructor, peers, or family](students-identify-point-person-main-support.md) — related
 - [Maintaining student engagement is the greatest challenge reported by online charter school principals, identified nearly three times as often as any other challenge](online-charters-engagement-greatest-challenge.md) — related
 - [Online apprenticeship learning offers greater flexibility than in-person learning despite implementation challenges for hybrid or remote options](online-apprenticeship-learning-flexibility-tradeoffs.md) — related
+- [The intervention increased student engagement with remote activities and motivation to return to in-person classes](nudges-increase-engagement-motivation.md) — related

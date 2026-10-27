@@ -49,3 +49,4 @@ Aggregated time-series trend analysis across 105 students' daily diary records o
 - [Both lecture time and independent study time show a seven-day weekly rhythm, with lecture time peaking midweek and approaching zero on weekends](weekly-rhythm-study-time-spectral-analysis.md) — related
 - [Math self-concept declined then leveled off (U-shaped), L1 self-concept declined slightly, math interest declined while L1 interest increased across Grades 7–9](domain-divergent-motivation-trends-lower-secondary.md) — related
 - [Using breaks between lectures for independent study is an independent positive predictor of daily study satisfaction beyond overall time investment](breaks-for-independent-study-predict-satisfaction.md) — related
+- [Students' interest in the lesson content declined as the semester progressed regardless of condition](lesson-interest-declines-over-time.md) — related

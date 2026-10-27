@@ -61,3 +61,4 @@ RQ4 theme on concerns about overreliance and degradation of core scientific abil
 - [Overreliance on AWE may lower learners' critical thinking and creativity](awe-overreliance-lowers-critical-thinking-creativity.md) — related
 - [Stakeholder communities differ sharply in GenAI discourse focus: K-12 teachers foreground cognitive dependency, academics detection, professional students career anxiety](stakeholder-communities-differential-genai-focus.md) — a broader claim this one bears on
 - [Generative AI use shows divergent effects on creativity: weakened creative writing but increased creative problem-solving and idea quality](generative-ai-creativity-divergent-effects.md) — related
+- [A perspective article warns that students risk overreliance on LMFM outputs and that overuse may impede critical thinking, research skills, and independent problem-solving](lmfm-overreliance-impedes-critical-thinking.md) — related

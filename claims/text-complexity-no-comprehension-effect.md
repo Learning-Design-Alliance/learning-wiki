@@ -48,3 +48,4 @@ In the randomized experiment, the complexity factor (basic Stone text vs. compre
 ## Related Claims
 - [College students show no comprehension difference between digital and paperbound textbook reading, immediately or after 1 week](no-comprehension-difference-digital-paper-textbooks.md) — related
 - [No significant interactions emerged between text medium and any other variable (test time, complexity, engagement)](no-interactions-with-text-medium.md) — related
+- [Lab-based versus textbook-based instruction produced no significant difference in novices' quiz learning over the experiment's timecourse](no-group-effect-quiz-lab-vs-textbook.md) — related

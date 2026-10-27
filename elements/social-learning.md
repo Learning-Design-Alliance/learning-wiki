@@ -13,7 +13,7 @@ generated:
 # Social Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 24 claims (14 for, 10 mixed) · 22 studies (6 qualitative, 5 causal, 5 quant-synthesis, 3 review, 1 associational, 1 design, 1 theoretical), `q1`–`q4` · 5 of 22 report an effect size · 22 claims rest on one study
+> **Evidence** · 25 claims (15 for, 10 mixed) · 23 studies (6 causal, 6 qualitative, 5 quant-synthesis, 3 review, 1 associational, 1 design, 1 theoretical), `q1`–`q4` · 5 of 23 report an effect size · 23 claims rest on one study
 
 ## Description
 Social learning is the element in which interaction with peers, models, or communities is treated as a direct source of learning.
@@ -48,6 +48,7 @@ Social learning is the element in which interaction with peers, models, or commu
 - [DLGs help overcome stereotypes and cultural barriers, including prejudices about Roma people, Muslim immigrant women, and learners without basic education](../claims/dlg-overcome-stereotypes-cultural-barriers.md) [+W]
 - [Social presence influences how social interaction unfolds in online group learning, which in turn affects learning outcomes](../claims/social-presence-shapes-online-group-interaction-and-outcomes.md) [~W]
 - [Positive image reward prediction errors during gambling or observed gambling selectively enhance memory in both experiential and observational learning](../claims/positive-image-rpe-enhances-memory-gambling.md) [~W]
+- [Participants perceived the observational task as social learning: 93% reported attending to the observed peer and rated them as similar, reliable and believable](../claims/social-manipulation-credibility-check.md) [+W]
 
 ## The evidence by question
 - *Does structured cooperative group work raise achievement more than individualistic, competitive or traditional whole-class instruction?* [Cooperative Learning Improves Achievement](../claims/cooperative-learning-improves-achievement.md) [+S]

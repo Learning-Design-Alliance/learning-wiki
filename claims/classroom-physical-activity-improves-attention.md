@@ -127,3 +127,4 @@ A registered systematic review of single (acute) bouts of classroom movement bre
 - [Physical activity interventions in childhood improve working memory with a small summary effect, based on very low-certainty evidence](pa-interventions-improve-working-memory-childhood.md) — reports the opposite
 - [Fatigue depends on age, sex, lesson length and number, time of day, weekday, recesses, holidays, rest, sleep, nature of work, school program, and teacher personality (Offner's laws of fatigue)](laws-of-fatigue-school-conditions.md) — related
 - [Studies on the mental fatigue of school children assist in arranging the daily program, including order of subjects and recess periods](fatigue-studies-inform-daily-program.md) — related
+- [Low-intensity exercise during university class significantly increases students' vigour during the lesson](classroom-exercise-increases-vigour.md) — related

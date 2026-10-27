@@ -58,3 +58,4 @@ The review's synthesis of included studies (RQ1 findings section) reports that i
 - [Leading LLMs hallucinated legal authorities in 58%-88% of tested cases while failing to recognise incorrect legal assumptions in prompts](llms-hallucinate-legal-authorities-58-88.md)
 - [Critical AI literacy emerged as both a learning-design goal and a condition of teachers' professional mediation](critical-ai-literacy-dimension.md) — related
 - [Optimizing prompts can vastly improve the accuracy of LLM outputs, but critical evaluation of the resulting outputs still requires domain expertise.](prompt-optimization-improves-accuracy-expertise-still-needed.md) — related
+- [A perspective article warns that students risk overreliance on LMFM outputs and that overuse may impede critical thinking, research skills, and independent problem-solving](lmfm-overreliance-impedes-critical-thinking.md) — reports the opposite

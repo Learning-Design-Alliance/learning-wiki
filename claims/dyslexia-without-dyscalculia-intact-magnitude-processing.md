@@ -52,3 +52,4 @@ Nonsymbolic magnitude comparison control task (72 dot-array trials) in the dysle
 - [Adults with DD rely on time-consuming back-up strategies like finger usage for single-digit arithmetic, with prolonged response latencies that appear number-specific](dd-adults-backup-strategies-prolonged-latencies.md) — related
 - [Adults with DD show deficient conceptual size processing with preserved physical size processing, supporting shared magnitude substrates](dd-adults-conceptual-size-dissociation.md) — related
 - [Distance estimation is preserved in adults with developmental dyscalculia](dd-adults-distance-estimation-preserved.md) — related
+- [Mathematical deficits among children with dyslexia are heterogeneous, spanning four distinct deficit profiles](four-math-deficit-subtypes-dyslexia.md) — related

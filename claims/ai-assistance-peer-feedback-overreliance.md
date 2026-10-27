@@ -60,3 +60,4 @@ The review reports, citing Darvishi et al. (2024), a controlled study in which "
 - [High-school students given GPT-4 access solved more problems in the moment but performed worse than controls once the tool was removed (review attribution)](gpt4-access-worse-after-removal-math.md) — related
 - [Substituting tasks with generative AI may promote inclusion and free time for more demanding activities, but risks foundational-skill loss and presupposes prior knowledge](ai-substitution-inclusion-and-time-tradeoffs.md) — related
 - [Outcome feedback (mere knowledge of results) impedes learning of complex tasks in the multiple-cue probability learning paradigm](outcome-feedback-impedes-complex-task-learning-mcpl.md) — related
+- [A perspective article warns that students risk overreliance on LMFM outputs and that overuse may impede critical thinking, research skills, and independent problem-solving](lmfm-overreliance-impedes-critical-thinking.md) — related

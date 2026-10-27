@@ -67,3 +67,5 @@ Wilcoxon signed-rank tests of maximum likelihood parameter estimates against zer
 - [Preschoolers' Chicken game choices are best explained by reward-based learning with a higher learning rate for the competitive opponent](preschoolers-reward-based-learning-competitive-opponent.md) — related
 - [A risk-sensitive reinforcement learning model with anticorrelated valuation fit reversal learning behavior better than standard models](rsav-model-outperformed-standard-rl-models.md) — related
 - [Adolescents learn faster from negative reward prediction errors than adults in probabilistic reversal learning](adolescents-faster-learning-from-negative-rpes.md) — related
+- [Choice behavior is more value-driven in the observational than individual learning condition, and adults show higher choice specificity than children](inverse-temperature-condition-age-differences.md) — related
+- [Observational learning yields high performance early in learning while individual learning improves gradually across trials](observational-learning-fast-individual-gradual.md) — related

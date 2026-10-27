@@ -56,6 +56,7 @@ The review proposes that impairments in multisensory integration and temporal pr
 ## Related Strategies
 
 - [Design auditory-cognitive trainings with natural, relatable speech material and multisensory presentation to target far transfer to real-world listening](naturalistic-multisensory-act-design-strategy.md)
+- [Use learning-based neurophysiological indicators of speech-print mapping difficulty for early diagnosis and intervention of developmental dyslexia](rhythmic-stimulation-dyslexia-indicator-strategy.md)
 
 ## Examples
 -

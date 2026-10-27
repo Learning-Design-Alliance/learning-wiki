@@ -67,3 +67,4 @@ Effort-ability attribution measured on a 7-point scale for school- and expert-le
 - [Chinese students' spontaneous definitions of intelligence include more fluid and less crystallized intelligence than US students', corresponding to their more fixed mindsets](chinese-definitions-more-fluid-less-crystallized.md) — a narrower finding that bears on this claim
 - [Chinese middle-school students endorse significantly more fixed mindsets of intelligence than US students (PISA 2018)](chinese-students-more-fixed-mindsets-than-us-pisa-2018.md) — related
 - [Intelligence mindsets correlate with effort-ability attributions and achievement more strongly in the US than in the Chinese college sample](mindset-attribution-correlations-weaker-chinese-sample.md) — related
+- [Students in countries culturally more distant from the US (less WEIRD) endorse growth mindsets less, r(46) = -.47](non-weird-countries-endorse-growth-mindsets-less.md) — related

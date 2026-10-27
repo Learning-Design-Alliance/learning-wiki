@@ -34,7 +34,7 @@ moved_from: [pattern/cognitive-load-theory]
 # Cognitive Load Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 112 claims (71 for, 31 mixed, 10 against) · 93 studies (37 causal, 23 review, 18 theoretical, 12 quant-synthesis, 2 design, 1 associational), `q1`–`q4` · 19 of 93 report an effect size · 101 claims rest on one study
+> **Evidence** · 113 claims (72 for, 31 mixed, 10 against) · 94 studies (38 causal, 23 review, 18 theoretical, 12 quant-synthesis, 2 design, 1 associational), `q1`–`q4` · 19 of 94 report an effect size · 102 claims rest on one study
 
 ## Description
 Cognitive Load Theory (CLT) proposes that learning is constrained by the limited capacity of working memory. When the total cognitive demand of a learning task exceeds that capacity, learning breaks down — not because the learner lacks ability, but because the instructional design has exhausted the resources available for processing. The theory distinguishes three sources of load and argues that effective instruction reduces unnecessary load to free capacity for the mental work that actually builds schema.
@@ -182,6 +182,7 @@ CLT was developed by John Sweller and colleagues in the 1980s–1990s, drawing o
 - [Incorporating interacting elements into a diagrammatic schema reduces cognitive load and enhances understanding](../claims/diagrammatic-schema-reduces-load-enhances-understanding.md) [+W] — attached 2026-10-24 from Marcus (1998), which proposed "Element interactivity account of understanding instructions within cognitive load theory"; tests this page's relationship.
 - [Visual working memory capacity is significantly lower for complex items than for simple items](../claims/wm-capacity-decreases-with-item-complexity.md) [+W]
 - [Children's spelling test performance declines as the cognitive load of the assessment method increases, with accuracy greatest in multiple-choice, then cloze dictation, then proofreading](../claims/assessment-method-cognitive-load-performance-decline.md) [+W] — attached 2026-10-26 from Howard et al. (2017), which proposed "Cognitive Load Theory extends from learning and instructional design to the design of educational assessment"; tests this page's relationship.
+- [Cognitive load eliminated instruction-induced reversal of specific PIT in prior cited work, suggesting reversal instruction use is resource-dependent](../claims/cognitive-load-eliminates-reversal-pit-cited.md) [+W]
 
 ## The evidence by question
 

@@ -79,3 +79,4 @@ The article reports, citing Chen et al. (2015, 2016a, b, 2017) and Kalyuga et al
 - [Working-memory limitations can be circumvented by schema construction, automation, and multiple presentation modalities](clt-circumvent-working-memory-limits.md) — related
 - [The thesis hypothesises that with increasing expertise the worked example effect may be eliminated or reversed while the generation effect remains robust](expertise-reversal-hypothesis-generation-remains-robust.md) — a narrower finding that bears on this claim
 - [Incorporating interacting elements into a diagrammatic schema reduces cognitive load and enhances understanding](diagrammatic-schema-reduces-load-enhances-understanding.md) — related
+- [Cognitive load eliminated instruction-induced reversal of specific PIT in prior cited work, suggesting reversal instruction use is resource-dependent](cognitive-load-eliminates-reversal-pit-cited.md) — related

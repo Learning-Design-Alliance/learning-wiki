@@ -49,3 +49,4 @@ The review reports, citing Preiss et al. (2016), that trait mind wandering "pred
 - [Mind wandering episodes during incubation are correlated with individuals' ability to solve creative problems](mind-wandering-incubation-correlated-creative-problem-solving.md) — related
 - [Professional creators develop the capacity to mindfully mind-wander, identifying and capitalizing on mind wandering during long-term creative enterprises](mindful-mind-wandering-professional-creators.md) — related
 - [Metacognition may limit creativity during the generative stage but facilitate it during the exploratory stage](metacognition-dual-impact-generative-exploratory-stages.md) — related
+- [Within a person, vigour correlates positively with interest and negatively with fatigue, depression, sleepiness, and mind-wandering](vigour-within-person-correlations-engagement.md) — related

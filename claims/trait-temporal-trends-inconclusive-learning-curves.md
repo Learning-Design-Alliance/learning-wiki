@@ -54,3 +54,4 @@ Temporal analysis plotting mean scores of the significant traits (Table 2) over 
 - [Across a geometry curriculum, overall percent correct stays fairly constant over time while percent correct on actions involving a single skill increases, as ACT-R's knowledge-component claim predicts](constant-error-rate-rising-skill-correct.md) — related
 - [Correlations between baseline scores and practice performance follow task-specific qualitative trajectories (upward, downward, or constant) that do not cluster by cognitive ability domain](task-specific-pgs-correlation-trajectories.md) — related
 - [Domain-specific question-asking fluency, originality, and complexity significantly increased over a semester of domain knowledge acquisition](domain-specific-question-asking-improves-with-knowledge.md) — related
+- [Students' interest in the lesson content declined as the semester progressed regardless of condition](lesson-interest-declines-over-time.md) — related

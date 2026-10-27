@@ -49,3 +49,4 @@ Voxel-based morphometry analysis of six merged structural MRI datasets of childr
 - [Bayesian analyses provide evidence that arithmetic skill does not relate to gray matter volume in the left angular gyrus, intraparietal sulcus, or hippocampus](no-gmv-arithmetic-relation-parietal-hippocampus.md) — related
 - [Gray matter volume significantly predicts children's multiplication skill in a cross-validated model](gmv-predicts-multiplication-children.md) — related
 - [Exploratory whole-sample cortical thickness analysis found no relation between arithmetic score and cortical thickness](no-cortical-thickness-arithmetic-relation.md) — related
+- [Age of second-language acquisition relates to cortical thickness differences in the inferior frontal gyrus among bilinguals](second-language-acquisition-cortical-thickness.md) — related

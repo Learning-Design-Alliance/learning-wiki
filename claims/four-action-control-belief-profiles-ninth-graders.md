@@ -58,3 +58,4 @@ Latent profile analysis was applied to action-control belief scales (agency beli
 - [Five cross-domain motivational profiles emerge among ninth-graders in both semesters: Adjusted, Highly motivated, Unattached, Math-motivated, and Language-motivated](five-cross-domain-motivational-profiles-grade-9.md) — related
 - [K-Means clustering of LIME feature-importance profiles identifies 2 responder and 4 non-responder subgroups within binary intervention-response classes](lime-clustering-dyslexia-subgroups.md) — a narrower finding that bears on this claim
 - [Three distinct racial-mathematical identity profiles emerge among Black adolescents and are robust across two time points one year apart](three-racial-mathematical-identity-profiles-lpa.md) — related
+- [Data-driven clustering of struggling learners identifies behavioral subgroups distinguished by structural brain connectivity](clustering-subgroups-struggling-learners.md) — related

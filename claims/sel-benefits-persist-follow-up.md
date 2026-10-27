@@ -137,3 +137,4 @@ Open questions: how large effects remain beyond the typical 1–2 year follow-up
 - [Personality changes achieved through digital VPC interventions persist, remaining sustained or amplified at three-month and one-year follow-ups](vpc-change-persistence-follow-ups.md) — related
 - [SEL programs with explicit skill teaching and regular practice can promote preschool EF, possibly including inhibitory control](sel-programs-preschool-ef-efficacy.md) — a narrower finding that bears on this claim
 - [A cluster randomized trial tests the impact of a skill-targeted social and emotional learning curriculum with Syrian refugee children in Lebanon](cluster-rct-skill-targeted-sel-syrian-refugee-children-lebanon.md) — a narrower finding that bears on this claim
+- [Grade 2 intervention effects persist in the medium term while grade 8 effects fade out and become non-significant](grade2-effects-persist-grade8-fade-out.md) — related

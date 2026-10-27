@@ -66,3 +66,4 @@ Eye-tracking analysis under speed discrepancies: GUD increased strongly and sign
 ## Related Claims
 - [Angular and speed perturbations in a visuomotor interception task engage distinct adaptive strategies: spatial correction for angular errors and velocity-based adjustment for speed errors](angular-speed-perturbations-distinct-adaptive-strategies.md) — related
 - [Detection of motion discrepancies increases with both perturbation magnitude and duration, with response times decreasing with magnitude](detection-scales-with-magnitude-and-duration.md) — related
+- [Visuomotor tracking accuracy improved across sessions similarly for both training groups](tracking-accuracy-gains-both-groups.md) — related

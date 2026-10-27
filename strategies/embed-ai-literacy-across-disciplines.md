@@ -55,6 +55,7 @@ For curriculum design, the chapter recommends a transdisciplinary approach in wh
 - [Embed AIL across disciplines by adding modules to existing Digital Literacy courses and offering interdisciplinary AI ethics and legal seminars](embed-ail-modules-and-interdisciplinary-seminars.md)
 - [Embed subject-specific web credibility modules into existing courses rather than creating standalone courses](embed-subject-specific-credibility-modules.md)
 - [Integrate AI literacy into disciplinary core subjects rather than adding a new AI subject](integrate-ai-literacy-into-core-subjects.md)
+- [Mitigation strategy: AI-literacy curricula with fact-checking modules, comprehensive educator training, and transparent documentation of AI use](ai-literacy-fact-checking-mitigation-strategy.md)
 
 ## Examples
 -

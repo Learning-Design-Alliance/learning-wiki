@@ -13,7 +13,7 @@ generated:
 # Physical Well-Being
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 74 claims (50 show a difference, 16 mixed, 8 no difference) · 41 studies (17 causal, 11 associational, 8 review, 2 quant-synthesis, 1 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 7 of 41 report an effect size · 70 claims rest on one study
+> **Evidence** · 77 claims (52 show a difference, 16 mixed, 9 no difference) · 42 studies (18 causal, 11 associational, 8 review, 2 quant-synthesis, 1 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 7 of 42 report an effect size · 73 claims rest on one study
 
 ## Description
 Physical well-being covers a learner's overall physical health: nutrition, regular physical activity and fitness, and good sleep. The LVN's case for it is that the benefits reach beyond the body: learners in good health benefit in cognitive skills, focus and mood, which can support academic performance, and in the early years it frames the same idea as physical fitness, with regular exercise strengthening cognitive skills. Exercise is described as particularly helpful for learners with ADHD. Physical activity tends to fall during adolescence, and for adults, education can itself improve health as health literacy grows and learners become better able to advocate for their needs. Body mass index is the one measure the LVN lists. It overlaps with [sleep](sleep.md), which is one of its components, and with [attention](attention.md) and [executive function](executive-function.md), which are among the outcomes exercise is linked to.
@@ -111,6 +111,9 @@ Physical well-being covers a learner's overall physical health: nutrition, regul
 - [Exercise eliminated the offline skill decline seen after rest: the rest group lost skill over the 6-hour delay while the exercise group did not](../claims/hiit-preserves-skill-over-six-hour-retention.md) [+M] — learners who differ on it differ in outcomes
 - [Force error increased at retention for the rest group but not the exercise group](../claims/force-error-retention-group-by-time.md) [+M] — learners who differ on it differ in outcomes
 - [The acquisition detriment after exercise was driven by the accuracy subcomponent: older participants reduced force error after rest but not after exercise](../claims/force-error-three-way-interaction-acquisition.md) [+M] — learners who differ on it differ in outcomes
+- [Exercise during class does not significantly affect depression, interest, sleep frequency, or mind-wandering](../claims/classroom-exercise-no-cognitive-engagement-effect.md) [-M] — instruction changes it
+- [Low-intensity exercise during class significantly decreases students' fatigue](../claims/classroom-exercise-decreases-fatigue.md) [+M] — instruction changes it
+- [Low-intensity exercise during university class significantly increases students' vigour during the lesson](../claims/classroom-exercise-increases-vigour.md) [+M] — instruction changes it
 
 ## Measures
 - **Body Mass Index (BMI)**: a measure of body fat calculated from height and weight.

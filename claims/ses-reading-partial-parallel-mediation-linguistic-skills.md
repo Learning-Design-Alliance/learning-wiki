@@ -58,3 +58,4 @@ Two-stage MASEM (TSSEM) of the latent reading model (k = 458 independent samples
 - [Composite SES indices predict phonological awareness more strongly than single SES indicators](composite-ses-index-stronger-predictor-phonological-awareness.md) — related
 - [SES is indirectly associated with listening comprehension through vocabulary, and has a significant total indirect effect on RCR](ses-indirect-vocabulary-lc-rcr.md) — related
 - [Phonological awareness and rapid bimodal temporal processing partially mediate the Reading-PGS-to-reading association](pa-rbtp-mediate-reading-pgs-reading-skills.md) — related
+- [Phonological awareness mediates the effect of the DCDC2-READ1 RU2-Short allele on word reading accuracy, word reading fluency, and reading comprehension](phonological-awareness-mediate-read1-reading-outcomes.md) — related

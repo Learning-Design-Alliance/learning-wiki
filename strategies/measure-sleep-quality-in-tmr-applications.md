@@ -49,7 +49,8 @@ The article recommends that sleep-quality variation, often overlooked in the TMR
 - [Closed-loop TMR timed to the slow-oscillation up-state improves memory consolidation relative to down-state cueing, though direct up-vs-down comparisons yield mixed results](../claims/closed-loop-tmr-so-up-state-timing.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Apply memory-weakening reactivation with sleep disruption soon after a traumatic experience, before a long delay intervenes](early-tmr-sd-for-weakening-unwanted-memories.md)
 
 ## Examples
 -

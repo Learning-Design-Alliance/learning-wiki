@@ -13,7 +13,7 @@ generated:
 # Interest
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 210 claims (152 show a difference, 35 mixed, 23 no difference) · 140 studies (53 causal, 39 associational, 18 review, 12 design, 7 quant-synthesis, 6 theoretical, 5 qualitative), `q1`–`q4` · 36 of 140 report an effect size · 204 claims rest on one study
+> **Evidence** · 211 claims (152 show a difference, 36 mixed, 23 no difference) · 141 studies (54 causal, 39 associational, 18 review, 12 design, 7 quant-synthesis, 6 theoretical, 5 qualitative), `q1`–`q4` · 37 of 141 report an effect size · 205 claims rest on one study
 
 ## Description
 Interest is a learner's attraction to a topic. Research separates individual interest, a lasting disposition a learner brings, from situational interest, which material or activity sparks in the moment and which can grow into individual interest over time. Interest is measured by self-report, choice and persistence. It predicts attention, depth of processing and course choice, it moderates the effect of materials (seductive details catch interest without helping learning), and it is an outcome of designs that show relevance or give learners choice. It is a narrower case of [motivation](motivation.md).
@@ -245,6 +245,7 @@ Interest is a learner's attraction to a topic. Research separates individual int
 - [Higher student-reported disturbance of the robotic tutor is associated with lower on-task enjoyment in the novelty phase](../claims/disturbance-lowers-novelty-enjoyment.md) [+M] — instruction changes it
 - [Novelty-phase on-task enjoyment is positively associated with task performance, while working-phase enjoyment is not](../claims/novelty-enjoyment-predicts-performance.md) [~M] — learners who differ on it differ in outcomes
 - [Physical presence of the robotic tutor is related to higher initial on-task enjoyment in the novelty phase, but only in two of four path models](../claims/physical-presence-novelty-enjoyment.md) [~M] — instruction changes it
+- [Grade 2 intervention effects persist in the medium term while grade 8 effects fade out and become non-significant](../claims/grade2-effects-persist-grade8-fade-out.md) [~W] — instruction changes it
 
 ## The evidence by question
 - *Does seeing a task as interesting, important or useful raise the effort learners invest in it?* [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](../claims/task-value-increases-motivation-and-engagement.md) [+M]

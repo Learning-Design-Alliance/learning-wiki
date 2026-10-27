@@ -13,7 +13,7 @@ generated:
 # Learning-Style Preferences
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 25 claims (16 show a difference, 3 mixed, 6 no difference) · 14 studies (4 causal, 4 review, 4 associational, 2 theoretical), `q1`–`q3` · 7 of 14 report an effect size · 24 claims rest on one study
+> **Evidence** · 30 claims (17 show a difference, 7 mixed, 6 no difference) · 15 studies (5 causal, 4 review, 4 associational, 2 theoretical), `q1`–`q3` · 8 of 15 report an effect size · 29 claims rest on one study
 
 ## Bottom line
 
@@ -63,6 +63,11 @@ Learning-style preferences are learners' reported preferences for one mode or fo
 - [Science achievements correlated significantly and positively with preferences for visual, auditory, and agency-support means, but not sensorimotor means, with low coefficients](../claims/achievement-correlates-visual-auditory-agency-preferences.md) [+W] — learners reporting different styles differed here; not a test of matching instruction to style
 - [Correlational meta-analyses of learning styles and achievement average r = 0.24 but do not test or support the matching hypothesis](../claims/learning-style-achievement-correlations-r24.md) [+M] — learners reporting different styles differed here; not a test of matching instruction to style
 - [Meta-analyses testing the matching hypothesis show a negligible overall effect of matching teaching to students' learning styles (d = 0.04)](../claims/matching-learning-styles-negligible-effect.md) [-M] — an effect differed by reported style in this study; matching to style is not supported overall
+- [Children aged 6–12 rate students described as visual learners as smarter than students described as hands-on learners](../claims/children-rate-visual-learners-smarter-than-hands-on.md) [+M] — learners reporting different styles differed here; not a test of matching instruction to style
+- [Parents and teachers predict visual learners earn higher grades in core subjects and hands-on learners higher grades in non-core subjects (pre-registered)](../claims/grade-predictions-core-versus-non-core-subjects.md) [~M] — learners reporting different styles differed here; not a test of matching instruction to style
+- [Parents and teachers spontaneously list different school subjects as strengths for visual versus hands-on learners](../claims/open-ended-subject-strengths-by-learning-style.md) [~W] — learners reporting different styles differed here; not a test of matching instruction to style
+- [Parents rate visual learners as smarter and hands-on learners as sportier](../claims/parents-rate-visual-smarter-hands-on-sportier.md) [~M] — learners reporting different styles differed here; not a test of matching instruction to style
+- [Science is an exception: hands-on and visual learners are predicted equal science grades despite visual advantage in math, language arts, and social studies](../claims/science-exception-grade-predictions.md) [~M] — learners reporting different styles differed here; not a test of matching instruction to style
 
 ## The evidence by question
 - *What should the adaptation be based on: responses, or learner styles and preferences?* [Learning Styles Matching Does Not Improve Learning](../claims/learning-styles-matching-does-not-improve-learning.md) [+S]

@@ -69,3 +69,4 @@ Multiple linear regressions of BTT training progress on baseline and change in G
 - [No significant longitudinal changes in SV2A tracer binding in six visuomotor VOIs after four weeks of motor learning, and no associations between SV2A binding and learning progress](no-sv2a-binding-changes-motor-learning.md) — related
 - [Exploratory whole-brain voxel-wise analysis reveals a decrease in SV2A tracer binding in the left temporal pole from PRE to POST, to be interpreted with caution](exploratory-left-temporal-pole-sv2a-decrease.md) — related
 - [Learning progress (linear slope of progress-test scores) differs significantly between simple and complex training groups for complex subtasks but not the 1:1 subtask](learning-slope-group-difference-complex-only.md)
+- [No correlations were detected between short-term GMV or WMV change and changes in implicit sequence learning or general visuomotor skill](no-correlation-volume-change-learning-change.md) — related

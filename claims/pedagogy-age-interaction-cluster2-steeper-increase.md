@@ -50,3 +50,4 @@ Same cluster-level GLM as the main effect, testing the Pedagogy × Age term (par
 ## Related Claims
 - [Montessori- and traditionally-enrolled children in this sample were demographically matched on age, gender, fluid intelligence, and SES](montessori-traditional-matched-sample-demographics.md) — related
 - [Time spent in the current pedagogy did not predict Cluster 2 connectivity, arguing against a simple cumulative-dose interpretation](no-cumulative-dose-effect-cluster2-fc.md) — related
+- [Functional connectivity after correct versus incorrect responses differs by pedagogy: ACC–hippocampus in traditional students after correct trials, ACC–frontal connectivity in Montessori students after incorrect trials](pedagogy-acc-connectivity-error-monitoring.md) — related

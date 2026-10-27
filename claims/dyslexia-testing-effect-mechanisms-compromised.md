@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: weak
 newest_evidence: 2026
+source_checked: 2026-10-26
 sources:
   - id: wilschut-2026
     resource: "https://doi.org/10.1038/s41539-026-00400-2"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · theoretical `r3` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-10-26 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Associative spreading-activation processes supporting elaborative retrieval are likely compromised in at least some learning contexts for learners with dyslexia. [→ Wilschut 2026](#wilschut-2026)

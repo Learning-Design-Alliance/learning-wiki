@@ -72,3 +72,4 @@ The review attributes to Whitmore and colleagues the finding that manipulating c
 - [TMR effects on procedural motor memory emerge over weeks rather than at 24 hours](tmr-procedural-long-term-weeks.md) — related
 - [In self-cued directed forgetting, selected words were better recalled than unselected words regardless of whether they were designated to-be-remembered or to-be-forgotten](self-cued-directed-forgetting-selection-benefit.md) — related
 - [TMR during REM sleep, but not SWS, reduces arousal ratings of negative emotional pictures](tmr-rem-reduces-emotional-arousal.md) — related
+- [TMR-SD auditory cues presented during sleep did not reliably weaken week-old spatial memories compared to uncued objects](tmr-sd-no-weakening-week-old-memories.md) — related

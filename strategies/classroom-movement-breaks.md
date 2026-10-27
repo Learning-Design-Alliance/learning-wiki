@@ -62,6 +62,7 @@ Movement breaks leverage the link between acute physical activity and subsequent
 - [Check-Ins](../elements/check-in.md) — the settling routine that converts a break back into instructional readiness
 - [Act It Out](../elements/act-it-out.md) — content-integrated movement that merges the break with rehearsal
 - [Include opportunities for mini-breaks during lessons, such as drawing, music, games, stretching, or going outside](mini-breaks-during-lessons.md)
+- [Incorporate a 3-minute low-intensity exercise break about 20 minutes into university lessons](three-minute-slow-aerobics-class-break.md)
 
 ## Examples
 - **GoNoodle** (https://www.gonoodle.com) — short guided movement and mindfulness videos widely used for K–5 classroom breaks.

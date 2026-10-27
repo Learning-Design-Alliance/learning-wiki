@@ -42,6 +42,7 @@ The commentary concludes that the dual goal of use-inspired basic research proba
 - [Study effort regulation in real-world, personally relevant contexts over longer timeframes, including via ecological momentary assessment](study-effort-regulation-real-world-contexts.md)
 - [Adopt an integrative methodological toolkit using machine learning and computational models to capture SR's multi-level, temporal, and social dynamics](integrative-methodological-toolkit-machine-learning-sr.md)
 - [Target motivation and achievement improvement efforts across student, home, and school levels in large-scale assessment programs](multi-level-efforts-improve-motivation-numeracy.md)
+- [Use interactive VR to study cognition under realistic, controlled boundary conditions](vr-interactive-cognition-research-strategy.md)
 
 ## Examples
 -

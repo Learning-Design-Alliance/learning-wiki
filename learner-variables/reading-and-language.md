@@ -13,7 +13,7 @@ generated:
 # Reading and Language
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 235 claims (147 show a difference, 40 mixed, 48 no difference) · 155 studies (46 associational, 38 causal, 31 quant-synthesis, 25 review, 8 theoretical, 4 design, 3 qualitative), `q1`–`q4` · 38 of 155 report an effect size · 226 claims rest on one study
+> **Evidence** · 237 claims (148 show a difference, 41 mixed, 48 no difference) · 156 studies (47 associational, 38 causal, 31 quant-synthesis, 25 review, 8 theoretical, 4 design, 3 qualitative), `q1`–`q4` · 38 of 156 report an effect size · 228 claims rest on one study
 
 ## Description
 What a learner can read without effort, and whether the language of instruction is the one they think in. LVN's largest factor family — decoding, vocabulary, fluency, composition, disciplinary literacy and language of instruction all sit here. The load-bearing fact is that decoding which is not automatic spends the same budget comprehension needs, so a reading problem presents as a thinking problem [+S].
@@ -286,6 +286,8 @@ What a learner can read without effort, and whether the language of instruction 
 - [Simultaneous multilinguals show a small but reliable educational attainment advantage over monolinguals at ages 11 and 16 in UK adolescents](../claims/sm-attainment-advantage-ages-11-16.md) [+M] — learners who differ on it differ in outcomes
 - [Sound field amplification produces no significant overall difference in reading fluency development in 8–10-year-old students](../claims/sfa-no-reading-fluency-benefit-grade-3-4.md) [-W] — instruction changes it
 - [In a mixed-effects model, classroom condition significantly predicted reading fluency development, with SFA-On and SFA-Off both exceeding baseline but not each other](../claims/sfa-mixed-model-condition-effect-reading-fluency.md) [+M] — instruction changes it
+- [Internalizing problems at age 14 mediate the association between leisure reading at age 11 and mathematics ability at age 17 among males](../claims/internalizing-problems-mediate-reading-math-males.md) [~M] — learners who differ on it differ in outcomes
+- [Leisure reading at age 11 is positively associated with mathematics ability at age 17 among female adolescents](../claims/leisure-reading-age-11-higher-math-age-17-females.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does a learner's oral language and vocabulary predict how well they come to read and understand texts?* [A 1997 conference paper reports, citing Sticht, a positive correlation between preschool oral language skills and later reading achievement](../claims/oral-language-predicts-reading-achievement.md) [+W]

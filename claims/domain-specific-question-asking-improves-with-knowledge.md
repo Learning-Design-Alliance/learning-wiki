@@ -88,3 +88,4 @@ Paired-samples t-test of Bloom-based DS-AQT complexity across the semester repor
 - [Higher question-asking originality and complexity were negatively correlated with closed-ended multiple-choice exam performance](question-originality-complexity-negative-exam.md) — related
 - [Question-asking originality and complexity positively correlated with open-ended group project performance, while fluency measures correlated negatively](question-asking-positive-open-ended-project.md) — related
 - [Trait-score trajectories over time are inconclusive as learning-curve evidence: one StudyChat trait increases while the significant SWE-Chat traits stay flat](trait-temporal-trends-inconclusive-learning-curves.md) — related
+- [Children encouraged to ask questions increase the number of relevant questions they ask over the course of training, but non-linearly](question-asking-increases-over-training-sessions.md) — a narrower finding that bears on this claim

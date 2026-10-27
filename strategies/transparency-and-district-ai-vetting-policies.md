@@ -48,6 +48,7 @@ Drawing on educator concerns about bias, inaccuracies, and data privacy, the rep
 - [Establish AI-specific evaluation and accountability systems using independent audits, role-based dashboards, and privacy and equity safeguards](independent-audits-role-based-dashboards-ai-accountability.md)
 - [Audit AI vocal-assessment systems for bias, transparency, privacy, and recording-context robustness before evaluative use](responsible-assessment-context-audit-ai-vocal.md)
 - [Train teachers in prompt engineering, evaluating AI-generated responses, ethical and privacy considerations, and integrating AI outputs into pedagogical decision-making](teacher-training-ai-tools-prompt-evaluation-ethics.md)
+- [Mitigation strategy: AI-literacy curricula with fact-checking modules, comprehensive educator training, and transparent documentation of AI use](ai-literacy-fact-checking-mitigation-strategy.md)
 
 ## Examples
 -

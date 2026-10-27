@@ -59,3 +59,4 @@ Mann-Whitney U-tests compared initial self-efficacy by gender/sex for each task;
 - [The review reports that highly competent PALs increased learners' application of acquired knowledge while low-competent PALs increased self-efficacy](pal-competency-self-efficacy-application-tradeoff.md) — related
 - [Female students reported lower challenge emotions than male students after controlling for other variables](female-lower-challenge-emotions-genai.md) — related
 - [Female student teachers score significantly higher on performance goal orientation than male students, with no gender differences on the other dimensions](gender-performance-goal-orientation-females-higher.md) — reports the opposite
+- [Female participants reported significantly higher maths anxiety and general anxiety, while males reported higher maths self-efficacy and maths interest](sex-differences-maths-anxiety-motivation-means.md) — related

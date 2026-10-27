@@ -64,6 +64,7 @@ Brief aerobic activity acutely improves subsequent attention and executive funct
 - [Embed brief daily wellbeing check-ins across academic courses to build student-teacher connection](brief-daily-wellbeing-check-ins.md)
 - [Include opportunities for mini-breaks during lessons, such as drawing, music, games, stretching, or going outside](mini-breaks-during-lessons.md)
 - [Use a multiple-baseline across-classrooms observation routine to monitor on-task behavior around classroom activity breaks](multiple-baseline-ontask-observation-strategy.md)
+- [Incorporate a 3-minute low-intensity exercise break about 20 minutes into university lessons](three-minute-slow-aerobics-class-break.md)
 
 ## Examples
 - **[Take 10!®](https://www.take10.net)** — Classroom-based physical activity program with 10-minute curriculum-linked activity routines for K–5; evaluated in multiple school studies.

@@ -13,7 +13,7 @@ generated:
 # Sleep
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 37 claims (22 show a difference, 10 mixed, 5 no difference) · 16 studies (7 causal, 4 review, 4 associational, 1 quant-synthesis), `q2`–`q3` · 6 of 16 report an effect size · 37 claims rest on one study
+> **Evidence** · 38 claims (22 show a difference, 10 mixed, 6 no difference) · 17 studies (8 causal, 4 review, 4 associational, 1 quant-synthesis), `q2`–`q3` · 6 of 17 report an effect size · 38 claims rest on one study
 
 ## Description
 Sleep is the period in which consciousness is suspended and the body and brain rest and recuperate. During sleep the brain consolidates memories, the body heals and recovers energy, and waste products of brain activity may be cleared. Its quantity, regularity and quality matter for nearly every aspect of cognition, as well as for physical and emotional well-being. When learners do not get enough good sleep, mood and cognitive skills suffer and focus is lost more easily. Sleep is measured with self-report and parent-report questionnaires on sleep habits, timing, quality and daytime sleepiness. The LVN treats it as relevant from pre-kindergarten to adulthood, and suggests extra cognitive supports, such as redirecting attention when a learner's mind wanders, for students who are short of sleep. It overlaps with [physical well-being](physical-wellbeing.md), of which adequate sleep is a part, and with [long-term memory](long-term-memory.md) through consolidation.
@@ -73,6 +73,7 @@ Sleep is the period in which consciousness is suspended and the body and brain r
 - [Sleep schedule interacts with time of learning on confident factual memory: the split-sleep advantage appears only for afternoon-learned material](../claims/group-by-time-interaction-factual-memory.md) [~W] — an instructional effect differs with it
 - [Splitting sleep with an afternoon nap does not impair morning learning in sleep-restricted adolescents despite reduced nocturnal sleep](../claims/split-sleep-no-morning-learning-cost.md) [-W] — learners who differ on it differ in outcomes
 - [Under restricted sleep, adolescents on a split sleep schedule show better late-afternoon encoding of pictures than adolescents with the same total sleep opportunity in continuous nocturnal sleep](../claims/split-sleep-afternoon-encoding-advantage.md) [+M] — learners who differ on it differ in outcomes
+- [Sleep-stage durations, sleep fragmentation, and pre- and post-cue EEG band power were not significantly correlated with forgetting of cued items or the TMR-SD effect](../claims/sleep-measures-uncorrelated-with-tmr-sd-outcomes.md) [-W] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Sleep Timing Questionnaire** (Monk et al., 2003): self-report of sleep-wake patterns on weekdays and weekends.

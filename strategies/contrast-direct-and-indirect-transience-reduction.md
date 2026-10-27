@@ -46,6 +46,7 @@ The article recommends that future research should explore the benefits of allow
 ## Related Strategies
 
 - [Design experimental studies that systematically vary how GenAI outputs are presented, comparing full solutions against structured hints or constructive feedback guardrails.](vary-genai-output-presentation-hints-vs-solutions.md)
+- [Design future developmental observational-learning studies to manipulate social context, direct versus indirect observation, and active versus passive learning](future-observational-learning-design-recommendations.md)
 
 ## Examples
 -

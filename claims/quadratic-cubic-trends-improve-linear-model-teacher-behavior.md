@@ -61,3 +61,4 @@ Ordinary least squares regression trend analysis of the two classrooms' time-ser
 - [Mental effort relates to self-rated certainty in a cubic (declining–flat–declining) rather than linear pattern](mental-effort-certainty-cubic.md) — related
 - [Non-linear (Goldilocks) effects of expectations and aspirations on outcomes are small and largely non-significant](goldilocks-effect-not-supported-expectations.md) — related
 - [Over a full term, aggregated lecture time decreases linearly while independent study time follows a negative quadratic trajectory, rising until the end of the lecture period and then declining](lecture-time-linear-decrease-independent-study-quadratic-trend.md) — a narrower finding that bears on this claim
+- [Students' interest in the lesson content declined as the semester progressed regardless of condition](lesson-interest-declines-over-time.md) — related

@@ -55,3 +55,4 @@ Random-effects meta-analysis with robust-variance estimation of 205 included stu
 - [The 2018 review reported a larger pooled effect (SMD = 0.30) that was not sustained at longer-term follow-up](prior-review-larger-unsustained-effect.md) — related
 - [Longer-run effects of targeted secondary interventions are small and not statistically significant, with only seven studies providing follow-up evidence](long-run-effects-null-seven-studies.md) — a narrower finding that bears on this claim
 - [Intensive mathematics interventions for K-3 students with or at risk for MD yield an overall pooled mean effect size of β = 0.61 with substantial heterogeneity](pooled-effect-early-math-interventions.md) — a narrower finding that bears on this claim
+- [Tailored small-group mathematics instruction significantly improves math outcomes for low achievers in grades 2 and 8](tailored-small-group-math-instruction-improves-low-achievers.md) — a narrower finding that bears on this claim

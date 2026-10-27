@@ -60,3 +60,4 @@ Systematic review synthesis answering research question 1, integrating findings 
 - [Positive LLM tutor perceptions do not necessarily translate to learning gains, creating an over-reliance risk](llm-scaffolding-over-reliance-paradox.md) — related
 - [System-controlled adaptive instruction does not necessarily yield higher transfer than nonadaptive static approaches](system-control-not-superior-transfer.md) — related
 - [Generative AI tools risk inducing overestimated abilities and diminishing training of foundational skills](generative-ai-overconfidence-risk.md) — related
+- [A perspective article warns that students risk overreliance on LMFM outputs and that overuse may impede critical thinking, research skills, and independent problem-solving](lmfm-overreliance-impedes-critical-thinking.md) — related

@@ -51,3 +51,4 @@ Multilevel logit regression (model 1) on PISA 2018 data, resilience coded binary
 - [Peer (school-aggregate) growth mindset is positively associated with students' odds of academic resilience, over and above individual mindset](cl-peer-growth-mindset-resilience.md) — related
 - [Academic resilience correlates positively with both individual (r = .15) and peer (r = .19) growth mindset in bivariate analyses](cl-resilience-mindset-bivariate-correlations.md) — related
 - [Children from low-SES backgrounds hold more negative academic self-views, which partially mediate the SES-achievement association across 70 countries](low-ses-negative-self-views-mediate-achievement-inequality.md) — related
+- [Growth mindset is positively associated with PISA reading, science and math performance overall (Model B standardized βs .21, .20, .16)](growth-mindset-positive-association-pisa-scores.md) — related

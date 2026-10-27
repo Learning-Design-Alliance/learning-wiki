@@ -60,6 +60,7 @@ The article recommends that institutions fund AI literacy initiatives that embed
 - [Strategic steps to move beyond informal AI innovation: recognise redesign in workload models, embed innovation in promotion criteria, set institutional AI principles, redesign assessment, and fund scaling pilots](strategic-steps-beyond-informal-ai-innovation.md)
 - [Embed GenAI into existing pedagogical strategies instead of undertaking full curriculum redesign](embed-genai-into-existing-pedagogical-strategies.md)
 - [Embed AIL across disciplines by adding modules to existing Digital Literacy courses and offering interdisciplinary AI ethics and legal seminars](embed-ail-modules-and-interdisciplinary-seminars.md)
+- [Mitigation strategy: AI-literacy curricula with fact-checking modules, comprehensive educator training, and transparent documentation of AI use](ai-literacy-fact-checking-mitigation-strategy.md)
 
 ## Examples
 -

@@ -54,3 +54,4 @@ Metaregression moderator analysis of authenticity, with printed effects "g = 0.5
 - [Domain-specific challenges and authentic environmental prompting in the VR simulation fostered both experiential and vicarious learning of teaching](vr-authentic-prompting-fosters-experiential-vicarious-learning.md) — related
 - [Functional correspondence predicts simulation learning outcomes better than physical resemblance or appeals to authenticity](functional-correspondence-predicts-outcomes.md) — related
 - [Higher levels of technology support during simulation are associated with greater effects on learning outcomes](technology-support-associated-with-greater-effects.md) — related
+- [The review reports, citing Chernikova and colleagues, that simulations of professional situations such as classroom interactions are beneficial in teacher training](simulations-of-professional-situations-beneficial-teacher-training.md) — related

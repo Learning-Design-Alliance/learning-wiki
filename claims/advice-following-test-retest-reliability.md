@@ -53,3 +53,4 @@ Participants completed the same bandit task in two sessions on adjacent days wit
 - [A 12-item short form of the survey retains acceptable-to-good reliability (alpha = 0.85; test-retest = 0.75)](short-form-survey-acceptable-reliability.md) — related
 - [The full survey's test-retest reliability coefficient is 0.79, considered acceptable bordering on good](test-retest-reliability-079-full-survey.md) — related
 - [Spanish Math and Reading scores show high marginal reliability and moderate-to-strong test-retest stability, lowest for fall–spring and kindergarten](spanish-reliability-marginal-test-retest.md) — related
+- [Spatial orientation skills can be measured reliably with a gamified virtual-environment battery, with average test–retest reliability r = 0.74](vr-battery-reliably-measures-spatial-orientation.md) — related

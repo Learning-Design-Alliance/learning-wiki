@@ -53,3 +53,4 @@ Mixed ANCOVAs on 4- and 6-back d-primes at Post1 and Post21 in a randomized acti
 - [Lower pre-training performance predicted greater training gains, and tDCS broke the \"less room for change\" pattern in task-related EEG responses](tdcs-breaks-less-room-for-change-pattern.md) — related
 - [Reaction times decreased with working memory training but were not additionally affected by tDCS](wmt-rt-decreases-unaffected-by-tdcs.md) — related
 - [Validation analyses find no generally reduced neural activity after mnemonic training, with increased alpha power uncorrelated with memory gains](no-processing-efficiency-neural-evidence.md) — related
+- [Alpha neurofeedback training improves visual working memory capacity measured by the Corsi-block tapping task, with an effect lasting seven days after training ends](alpha-nf-improves-corsi-capacity.md) — related

@@ -48,3 +48,4 @@ The editorial reports, citing Chernikova et al.'s meta-analyses of simulation-ba
 - [Cognitive factors explain about 49% of variance in simulation-based inquiry performance among young adults](cognitive-factors-explain-half-inquiry-variance.md) — related
 - [Cognitive inquiry skills are positively intercorrelated, but the functional thinking–CVS correlation diminishes when controlling for content knowledge](cognitive-skill-intercorrelations-conditional.md) — related
 - [High authenticity simulations show higher effects than low authenticity simulations](high-authenticity-simulations-higher-effects.md) — related
+- [The review reports, citing Chernikova and colleagues, that simulations of professional situations such as classroom interactions are beneficial in teacher training](simulations-of-professional-situations-beneficial-teacher-training.md) — related

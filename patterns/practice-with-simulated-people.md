@@ -14,7 +14,7 @@ grain_size: unit
 # Practice with Simulated People
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 125 claims (58 for, 52 mixed, 15 against) · 60 studies (15 causal, 13 review, 12 quant-synthesis, 9 qualitative, 7 design, 4 theoretical), `q1`–`q4` · 17 of 60 report an effect size · 120 claims rest on one study
+> **Evidence** · 126 claims (59 for, 52 mixed, 15 against) · 61 studies (15 causal, 14 review, 12 quant-synthesis, 9 qualitative, 7 design, 4 theoretical), `q1`–`q4` · 17 of 61 report an effect size · 121 claims rest on one study
 
 ## Description and scope
 
@@ -151,6 +151,10 @@ Record: **performance and rubric → simulated person (who or what, disclosure r
 [Simulation](../elements/simulation.md), [role-playing](../elements/role-playing.md), [debrief](../elements/debrief.md), [feedback](../elements/feedback.md), [immediate feedback](../elements/immediate-feedback.md), [worked examples](../elements/worked-examples.md), [scaffolding](../elements/scaffolding.md), [reflection](../elements/reflection.md) and [pedagogical agent signalling](../elements/pedagogical-agent-signaling.md).
 
 This pattern is scoped to rehearsal of an interaction with a person who responds. Procedural simulation with mannequins and part-task trainers, written cases with no one to talk to, simulations of physical systems, and assessment of competence for certification need distinct configurations and evidence. The wiki records no randomized comparison of an LLM role-play partner with a human standardized patient on a transferred communication outcome, no study of mixed-reality avatar classrooms for teacher candidates, and no study in business or technology settings of practice with simulated clients or customers, and no controlled study of an AI conversation partner for second-language speaking (only a review's thematic coding). The checks on the simulated person (content accuracy, push-back, fidelity of a simulated learner) rest on evaluations of the agents themselves, not on what learners gained from better-checked ones. The diagnostic branches and doses above remain to be tested with actual learners.
+
+## Claims
+
+- [The review reports, citing Chernikova and colleagues, that simulations of professional situations such as classroom interactions are beneficial in teacher training](../claims/simulations-of-professional-situations-beneficial-teacher-training.md) [+W]
 
 ## Examples
 

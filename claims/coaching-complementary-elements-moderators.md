@@ -91,3 +91,4 @@ Same exploratory meta-analytic regression of design features on pooled effect si
 - [Coaching dosage shows precisely estimated null effects: more coaching hours are not associated with larger program effects](coaching-dosage-null-effect.md) — related
 - [Effective skill training combines theory presentation, demonstration, practice with feedback, and coaching for transfer (review attribution)](skill-training-effective-techniques.md) — related
 - [Coaching time focused on instructional delivery improves coached teachers' practices, while time focused on behavioral management is associated with a significant decrease in practice quality](coaching-focus-instructional-delivery-versus-behavior-management.md) — related
+- [In grade 2, 1-1 with coaching shows the largest effect (LATE = 0.8 SD) and 1-group is also significant, while 1-group with coaching is insignificant](grade2-arm-effects-1-1-coaching-largest.md) — related

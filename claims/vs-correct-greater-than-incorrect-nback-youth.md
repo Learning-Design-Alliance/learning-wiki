@@ -54,3 +54,4 @@ Across-level voxelwise GLM in 304 youths aged 8-22 performing a fractal n-back t
 - [Working memory load degrades discrimination accuracy and slows responses in youth](load-degrades-discrimination-and-slows-responses.md) — related
 - [Post-error behavioural adjustments can occur automatically, dissociated from explicit error detection](implicit-post-error-adjustment-typists.md) — related
 - [The first successful retrieval elicits strongest activity in bilateral ventral striatum and fronto-striatal regions, with marked reduction over subsequent successful retrievals](first-successful-retrieval-ventral-striatum-activity-reduction.md) — related
+- [Adolescents show heightened striatal sensitivity to positive prediction errors, with context-specific valence asymmetries in learning](adolescent-positive-prediction-error-sensitivity.md) — related

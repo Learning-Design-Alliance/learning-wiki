@@ -90,3 +90,4 @@ Study of 15 non-native English speaking EFL learners using AI dialogue systems f
 - [Reflective strategies such as cognitive forcing, pre-commitment, and uncertainty communication reduce overreliance on AI and improve decision quality, but have been evaluated only as short-term single-session interventions](reflective-strategies-short-term-only-evidence.md) — related
 - [Excessive dependence on AI may reduce human interaction and dehumanize adult education](over-reliance-ai-reduces-human-interaction.md) — related
 - [The effectiveness of reflective AI-engagement mechanisms varies across users, depending on Need for Cognition, expertise, domain familiarity, and task difficulty](reflective-support-effects-vary-by-user.md) — related
+- [A perspective article warns that students risk overreliance on LMFM outputs and that overuse may impede critical thinking, research skills, and independent problem-solving](lmfm-overreliance-impedes-critical-thinking.md) — related

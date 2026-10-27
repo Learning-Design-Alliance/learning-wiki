@@ -48,6 +48,7 @@ The article proposes that nonverbal rhythm assessment, possibly combined with th
 ## Related Strategies
 
 - [Use a 30-minute neurophysiological assessment of consonants-in-noise coding for early identification of children at risk for language and literacy problems](early-neurophysiological-screening-for-literacy-risk.md)
+- [Use learning-based neurophysiological indicators of speech-print mapping difficulty for early diagnosis and intervention of developmental dyslexia](rhythmic-stimulation-dyslexia-indicator-strategy.md)
 
 ## Examples
 -

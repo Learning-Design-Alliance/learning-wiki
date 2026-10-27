@@ -45250,5 +45250,53 @@
  "test-format\tspeech responses\ttyping responses": {
   "label": "speech responses vs typed responses",
   "treatment_is_a": true
+ },
+ "active-learning\tinteractive laboratory activity\twritten instructional material": {
+  "label": "interactive laboratory activity vs written instructional material",
+  "treatment_is_a": true
+ },
+ "active-learning\tinteractive laboratory activity\twritten instructional material only": {
+  "label": "interactive laboratory activity vs written instructional material",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\treversal instruction to use the opposite defensive action\tstandard instruction": {
+  "label": "reversal instruction vs standard instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\treversal instruction without cognitive load\tstandard instruction without cognitive load": {
+  "label": "reversal instruction vs standard instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\treversal instructions\tstandard instructions": {
+  "label": "reversal instruction vs standard instruction",
+  "treatment_is_a": true
+ },
+ "media-design\ttext combined with images\ttext alone": {
+  "label": "text with images vs text alone",
+  "treatment_is_a": true
+ },
+ "practice-amount\tSRT session 2 after training\tSRT session 1 baseline": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\tday 2 after SRT training\tday 1 before the second session": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\tlast lesson after question-asking practice\tfirst lesson": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\tlater training blocks\tearlier training blocks": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\tsuccessive learning blocks\tinitial learning block": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "simulation\tsimulations of professional situations\tnot stated": {
+  "label": "simulation vs no simulation",
+  "treatment_is_a": true
  }
 }

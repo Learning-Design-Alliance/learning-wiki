@@ -51,3 +51,4 @@ Bivariate correlations between scanner task scores and out-of-scanner measures. 
 - [Adults outperform adolescents on fluency measures of divergent thinking (scanner AU-score, verbal fluency, and AUT-brick fluency), but not on originality or flexibility](adults-outperform-adolescents-fluency-not-originality.md) — related
 - [A 50-minute metacognitive strategy instruction produced positive effects on secondary students' fluency, flexibility and originality of ideas in both cohorts](strategy-instruction-improves-divergent-thinking.md) — related
 - [Creativity, crystallized intelligence, fluid intelligence and executive functions are all correlated in children aged 8 to 13](cognitive-variables-creativity-correlations-children.md) — related
+- [Creativity scores correlate positively with total verbal fluency responses](creativity-correlates-verbal-fluency-responses.md) — related

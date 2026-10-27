@@ -61,3 +61,4 @@ Correlational analysis of the ten-day study: 45 coefficients computed among tria
 - [Duplicate-form reliability coefficients placed the Spelling Test highest among the ten tests, which the author attributed to the longer tests having 50 elements versus 25 or less](duplicate-form-reliability-spelling-highest.md) — related
 - [On the seven-digit rote memory test the treated class gained 10.8% over its own first record while the untreated class gained none](treated-class-gain-seven-digit-rote-memory.md) — related
 - [The tendency to follow advice shows good test-retest reliability across two sessions (~0.73), behaving as a stable trait-like bias](advice-following-test-retest-reliability.md) — related
+- [Spatial orientation skills can be measured reliably with a gamified virtual-environment battery, with average test–retest reliability r = 0.74](vr-battery-reliably-measures-spatial-orientation.md) — related

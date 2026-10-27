@@ -49,3 +49,4 @@ The review reports that EEG paradigms "showed attenuated neural responses among 
 - [Process-tracing measures should accompany outcome measures because process changes may not be immediately reflected in outcomes](process-tracing-measures-for-learning.md) — related
 - [Weak metacognitive-regulation capacities are associated with disengagement, aggression, and delinquency, while reflective scaffolding interventions improve psychosocial functioning](mr-weakness-delinquency-scaffolding-improves.md) — related
 - [Emotion regulation difficulties are reliably associated with maladaptive trajectories including non-suicidal self-injury, aggression, bullying, and social withdrawal in at-risk adolescents](er-difficulties-maladaptive-trajectories-at-risk-adolescents.md) — related
+- [Neural and cognitive profiles in struggling learners are not one-to-one, supporting a transdiagnostic view of learning difficulties](transdiagnostic-neural-cognitive-profiles.md) — related

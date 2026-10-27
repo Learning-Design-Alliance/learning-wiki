@@ -25,7 +25,8 @@ A Netherlands Twin Register dataset of teacher ratings of self-control, grit, an
 - [Teacher-rated self-control and grit jointly explain 28.4% of the variance in school performance in standard phenotypic regression](../claims/self-control-grit-explain-28-percent-school-performance.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [Twins Early Development Study (TEDS)](twins-early-development-study-teds.md)
 
 ## Key Sources
 - Kevenaar, S. T., van Bergen, E., Oldehinkel, A. J., Boomsma, D. I. & Dolan, C. V. (2023). The relationship of school performance with self-control and grit is strongly genetic and weakly causal. npj Science of Learning, 8:53. https://doi.org/10.1038/s41539-023-00198-3

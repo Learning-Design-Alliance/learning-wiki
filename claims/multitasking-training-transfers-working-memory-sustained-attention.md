@@ -54,3 +54,5 @@ Experiment 2 transfer testing on untrained cognitive control tasks (delayed-reco
 - [Older adults show reduced midline frontal theta power and frontal–posterior coherence relative to younger adults regardless of single- or multitasking condition](older-adults-baseline-theta-deficit-versus-younger.md) — related
 - [Off-training cognitive transfer shows gains in working memory and focused attention for the ACT group only, with no significant group-by-session interactions](act-off-training-transfer-mixed.md) — related
 - [Mnemonic training yields limited far-transfer: only the number-noun pairs measure improved, persisting at 4-month follow-up](mnemonic-training-limited-transfer-number-noun-pairs.md) — related
+- [Simultaneous performance of tracking and discrimination tasks produces large multitasking costs at baseline](multitasking-cost-large-baseline-2017.md) — related
+- [Multitasking training benefits do not transfer to untrained action control tasks (PRP, Stroop, AB, single response selection, Go-Nogo, Flanker)](no-transfer-action-control-tasks.md) — reports the opposite

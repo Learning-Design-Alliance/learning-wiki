@@ -47,5 +47,5 @@ Child-reported index of four labor activities over the past month, from the same
 ## Related Claims
 - [Parents-only SMS/audio nudges produced statistically non-significant learning gains of d = 0.081 in rural Cote d'Ivoire](ivorian-parents-only-nudge-nonsignificant-learning-gains.md) — related
 - [An SMS-based nudge intervention in Cote d'Ivoire did not reduce child labor or raise learning overall, but raised learning and domestic work among children starting with low learning levels](sms-nudge-ivory-coast-null-overall-low-starters-gain.md) — a broader claim this one bears on
-- [Teacher-only and combined parent-teacher nudges showed no impacts on learning, with small negative point estimates](teacher-and-combined-nudge-arms-no-learning-impacts.md) — related
+- [Teacher-only and combined parent-teacher nudges showed no statistically significant impacts on learning; point estimates were small and negative for the learning summary and literacy, and near zero for numeracy](teacher-and-combined-nudge-arms-no-learning-impacts.md) — related
 - [Teacher-targeted nudges showed significant negative interactions with child sex, with negative learning impacts for girls](teacher-only-nudge-negative-learning-girls.md) — related

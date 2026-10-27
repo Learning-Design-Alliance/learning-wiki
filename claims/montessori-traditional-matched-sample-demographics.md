@@ -47,3 +47,6 @@ Demographic and behavioral analysis of the full study sample (Montessori n = 32,
 ## Related Claims
 - [The Montessori–traditional connectivity difference in Cluster 2 increases with age, with Montessori-enrolled children showing a steeper age-related FC increase](pedagogy-age-interaction-cluster2-steeper-increase.md) — related
 - [Before intervention, treatment and control kindergartners did not differ on age, demographics, vocabulary, phoneme segmentation, letter knowledge, or reading](pretest-equivalence-phoneme-awareness-kindergarten-trial.md) — related
+- [In a math proofreading task, Montessori-schooled children respond faster than traditionally-schooled children despite similar accuracy](montessori-faster-response-math-fmri.md) — related
+- [Montessori-schooled children show shorter average shortest path length and lower modularity in their semantic networks than traditionally-schooled children](montessori-lower-aspl-modularity-semantic-network.md) — related
+- [Montessori students miss fewer trials but make more incorrect responses than traditionally-schooled students at equivalent accuracy](montessori-more-errors-fewer-misses.md) — related

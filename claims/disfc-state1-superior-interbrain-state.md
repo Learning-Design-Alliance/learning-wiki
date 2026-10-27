@@ -68,3 +68,4 @@ Correlational analysis linking occurrence rates of dISFC states to behavioural i
 - [Averaging brain connectivity over the whole task period failed to detect intra-brain differences between gesture conditions, motivating dynamic analysis](static-averaging-misses-intra-brain-dynamics.md) — related
 - [Fluid gestures accompany the superior intra-brain state (State 1) of the gesturing participant, whose occurrence rate correlates with fluency](fluid-gestures-lock-to-superior-intrabrain-state.md) — related
 - [Global efficiency declined across stages where tested while local efficiency differed significantly between stages in each task](eeg-efficiency-stage-changes.md) — related
+- [Montessori-schooled children show shorter average shortest path length and lower modularity in their semantic networks than traditionally-schooled children](montessori-lower-aspl-modularity-semantic-network.md) — related

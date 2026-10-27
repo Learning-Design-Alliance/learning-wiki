@@ -52,3 +52,4 @@ Experiment 2 one-sample t tests against zero on internal and external metacognit
 - [Individuals show a systematic positive reminder bias, setting more reminders than optimal](positive-reminder-bias.md) — related
 - [Framing reminders as losses reduces, but does not eliminate or reverse, the reminder bias in both between- and within-participants designs](loss-framing-reduces-reminder-bias.md) — related
 - [Learners generally underestimate how fast they will learn word pairs, and this underconfidence is larger for low-variability lists](eol-underestimation-of-learnability.md) — related
+- [Message content mattered: loss framing and avoiding social pressure produced significantly larger test-score effects, ruling out experimenter-demand explanations](message-content-matters-nudge-effects.md) — related

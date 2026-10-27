@@ -51,3 +51,4 @@ Narrative review statement about STC findings in L-LTP research. The review repo
 - [Conscious awareness of action onset lags brain activity initiation by hundreds of milliseconds](awareness-lags-action-initiation.md) — related
 - [Contiguity effects show no statistically reliable difference between static and dynamic presentation of visual information](static-dynamic-presentation-no-moderation.md) — related
 - [The timing rule of fear conditioning contradicts the Hebbian coincidence rule because simultaneous CS–US pairing is less efficient than CS onset preceding the US with co-termination tens of seconds later](hebbian-rule-incompatible-with-fear-conditioning-timing.md) — a narrower finding that bears on this claim
+- [The Hebbian CS–US convergence model of lateral amygdala plasticity is inconsistent with the timing and brevity of LA CS responses](hebbian-la-model-timing-inconsistency.md) — a narrower finding that bears on this claim

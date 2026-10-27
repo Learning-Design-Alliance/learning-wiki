@@ -52,3 +52,4 @@ The review reports Boldt and Gilbert (2022), an fMRI study using multivariate pa
 - [Supervised ML/DL Bloom question classifiers trained on one dataset drop substantially in weighted F1 when tested on unseen datasets](supervised-bloom-classifiers-degrade-cross-dataset.md) — related
 - [Temporal leakage from shuffled neighboring epochs inflates EEG familiarity classification, with peak weighted F1 dropping from 0.9853 (CNN, stratified) to 0.6038 (CNN, Group K-Fold)](temporal-leakage-inflates-eeg-familiarity-classification.md) — related
 - [Trial-level spectral features robustly differentiate stimulus domains (faces vs. equations) but no familiarity-driven spectral shift survives FDR correction](domain-robust-familiarity-subtle-univariate-eeg.md) — related
+- [Group-average neural patterns in 160 of 300 cortical parcels contained decodable information about the three mechanical categories of the stimuli](group-average-classification-160-parcels.md) — related

@@ -72,3 +72,4 @@ Long-term memory test in 31 Control and 27 Study preschoolers 4-6 months post-in
 - [Game accuracy increases across sessions only in the encoding phase of the word-object task, and encoding accuracy exceeds recognition accuracy](encoding-accuracy-exceeds-recognition-across-sessions.md) — related
 - [An 11-week teacher-delivered phonological awareness intervention significantly improves kindergarten children's phoneme segmentation, letter knowledge, reading, and invented spelling](teacher-delivered-phoneme-awareness-kindergarten-improves-early-literacy.md) — related
 - [A brief tablet-based fast-mapping game improves toddlers' verbal communication skills relative to matched controls](tablet-fast-mapping-improves-toddler-communication.md) — related
+- [Spatial recall error increased from initial test to the one-week pre-nap test, but recall remained above chance after the delay](spatial-recall-declines-over-week-above-chance.md) — related

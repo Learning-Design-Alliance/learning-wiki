@@ -46,3 +46,5 @@ An author correction notice published in npj Science of Learning in 2023, correc
 
 ## Related Claims
 - [Academic self-efficacy is positively associated with school satisfaction among student parents, both directly and indirectly through school-family balance](academic-self-efficacy-predicts-school-satisfaction-student-parents.md) — related
+- [The association between parental internalizing disorders and child GPA disappears in adoptee children (β = 0.03, not statistically significant).](adoptee-association-disappears.md) — a narrower finding that bears on this claim
+- [Any causal effect of parental internalizing disorders on child school performance is too small to be a main driver of social inequality — about 1/7 of the total association and 15 times smaller than the gender difference.](parental-internalizing-not-main-inequality-driver.md) — related

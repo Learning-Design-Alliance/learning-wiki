@@ -80,6 +80,7 @@ Generating questions is a form of generative processing: learners must select co
 - [Directly teach students when, why, and how to elaborate on new information](directly-teach-elaborative-processing-strategies.md)
 - [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) — pre-questions serve the same schema-activation function from the learner's side
 - [Self-Explanation](../elements/self-explanation.md) — answering one's own generated "why" questions is self-explanation in disguise
+- [Incorporate the finer possibility-oriented question taxonomy into the Question Formulation Technique](possibility-taxonomy-in-question-formulation-technique.md)
 
 ## Examples
 - **[Reciprocal Teaching](reciprocal_teaching.md) (Palincsar & Brown)** — small reading groups rotate a "questioner" role; students generate questions about a passage before discussing it, with teacher coaching on question quality.

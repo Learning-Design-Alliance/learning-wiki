@@ -56,3 +56,4 @@ Baseline OLS regression on pre-workshop survey data from Npre = 199 Australian s
 - [New Mexico CTE enrollment shows breadth over depth and demographic underrepresentation, with females only 19% of STEM CTE enrollment versus 49% of the total population](new-mexico-cte-enrollment-breadth-and-equity-gaps.md) — related
 - [Deepfake behaviours show gender patterns: males more likely to have shared deepfakes, females more likely to have reported them](gender-patterns-deepfake-behaviours.md) — related
 - [Male secondary students report higher self-efficacy than female students after learning from video modeling examples, without higher performance](male-students-higher-self-efficacy-video-modeling.md) — related
+- [Males were more than 2.5 times as likely as females to make a STEM career choice in the TEDS sample](male-female-stem-choice-disparity-teds.md) — related
