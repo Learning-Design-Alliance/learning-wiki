@@ -62,3 +62,4 @@ Survey-based case study findings section; Table 2 summarizes unit adoption level
 - [Universities widely view AI as a strategic priority but few have formalised senior AI leadership roles, per the EDUCAUSE survey the review reports](ai-strategic-priority-versus-senior-ai-roles-gap.md) — related
 - [Institutional AI adoption is uneven, with partial adoption, incomplete policy development and uncertainty in high-stakes contexts](institutional-ai-governance-uneven.md) — related
 - [A qualitative case study of 17 GenAI adoption cases in a UK business school identified current integration practices along with associated benefits, challenges and influencing factors](genai-adoption-practices-benefits-challenges-17-cases.md) — related
+- [Skills gained from GenAI integration vary with teaching methodology, tool choice, and assessment methods, with student performance varying by engagement level](genai-skills-vary-by-methodology-engagement.md) — related

@@ -13,7 +13,7 @@ generated:
 # Constructed-Response Assessment Items
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 57 claims (18 for, 37 mixed, 2 against) · 43 studies (14 design, 13 associational, 8 causal, 3 review, 2 quant-synthesis, 2 theoretical, 1 qualitative), `q1`–`q4` · 8 of 43 report an effect size · 57 claims rest on one study
+> **Evidence** · 58 claims (18 for, 38 mixed, 2 against) · 44 studies (14 associational, 14 design, 8 causal, 3 review, 2 quant-synthesis, 2 theoretical, 1 qualitative), `q1`–`q4` · 8 of 44 report an effect size · 58 claims rest on one study
 
 ## Description
 Constructed-response items ask students to recall information and produce their own answer rather than recognize a provided one, which reduces guessing compared with [selected-response items](selected-response-assessment-items.md). Two major kinds are used: **completion/short-answer** items (answerable in a word, phrase, number, or symbol — the same underlying format whether phrased as a statement to complete or a question to answer) and **extended-response** items (answers ranging from a paragraph to several pages, often called essay questions when they run long).
@@ -101,6 +101,7 @@ The central disadvantage of extended-response items is unreliable scoring: diffe
 - [Using the Hillegas Scale reduces the standard deviations of judgments on all but two of the twenty-five compositions](../claims/hillegas-scale-reduces-judgment-sd.md) [+W]
 - [Using the Hillegas Scale reduces the range of judgments on each composition, with an average reduction of 11.5 points](../claims/hillegas-scale-reduces-judgment-range.md) [~W]
 - [The scale reduces spread on individual compositions without reducing the spread of median scores across compositions (range of medians 32 points in both conditions)](../claims/hillegas-scale-preserves-median-spread.md) [~W]
+- [A broad linguistic feature set yields 73.2% classification accuracy for three-level proficiency scoring of TOEFL11 essays](../claims/broad-linguistic-features-73-percent-toefl11-classification.md) [~W]
 
 ## The evidence by question
 - *Which practice format: short answer, multiple choice, or matching the final test?* [Evidence on whether initial short-answer questions produce more learning than initial multiple-choice questions is mixed, with recent studies finding little or no difference](../claims/short-answer-versus-multiple-choice-retrieval-practice-evidence-is-mixed.md) [~M]

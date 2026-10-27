@@ -51,3 +51,4 @@ Review synthesis of implementation findings across the 13 studies. The review re
 - [Technical difficulties were the most frequently reported implementation limitation, mentioned in ten of the thirteen studies](pepper-technical-difficulties-most-reported-limitation.md) — related
 - [Technical issues (login scanning, internet connectivity, projector setup, and glitches) frustrated students and created a significant barrier to playlist implementation](technical-issues-barrier-playlist-implementation.md) — related
 - [Persistent technical limitations constitute an authenticity gap in AI-powered nursing simulations](ai-simulation-authenticity-gap.md) — related
+- [Failures of education technology implementations are attributed to social, psychological, and cultural issues rather than technical shortcomings](edtech-failures-social-psychological-cultural.md) — reports the opposite

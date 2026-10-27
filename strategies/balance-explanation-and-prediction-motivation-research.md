@@ -46,6 +46,7 @@ The essay observes that motivation theories focus almost exclusively on explanat
 
 - [Shift journal editorial and review practices to reward theoretically integrative work](editors-reward-integrative-work.md)
 - [Evaluate motivational theories rigorously on predictive, practical, explanatory, and developmental value before integrating](evaluate-theories-predictive-practical-explanatory-developmental-value.md)
+- [Require learner models that predict data and also provide scientific insight and practical outcomes](explanatory-learner-models-predict-and-explain.md)
 
 ## Examples
 -

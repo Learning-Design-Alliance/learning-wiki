@@ -14,7 +14,7 @@ grain_size: course
 # Mentor Support in Self-Paced Online Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 102 claims (53 for, 43 mixed, 6 against) · 81 studies (17 associational, 16 causal, 12 review, 11 quant-synthesis, 10 qualitative, 8 theoretical, 7 design), `q1`–`q4` · 12 of 81 report an effect size · 92 claims rest on one study
+> **Evidence** · 103 claims (54 for, 43 mixed, 6 against) · 82 studies (17 associational, 16 causal, 13 review, 11 quant-synthesis, 10 qualitative, 8 theoretical, 7 design), `q1`–`q4` · 12 of 82 report an effect size · 93 claims rest on one study
 
 ## Description and scope
 
@@ -145,6 +145,7 @@ This pattern is scoped to support around self-paced online courses and programme
 - [People value emotional and esteem support more from close humans than from AI systems, with no significant difference for informational support](../claims/humans-valued-emotional-esteem-support-over-ai.md) [~W]
 - [Teachers envisioned chatbots as extending teacher capacity and availability by providing additional access to support and redistributing planning workload](../claims/teachers-envision-chatbots-extending-capacity-availability.md) [+W]
 - [Baseline math performance interacted with teacher–student contact level, with low contact amplifying disadvantages for below-baseline students](../claims/baseline-performance-contact-interaction-math.md) [~W]
+- [The Mentor agent had the overall best combined impact on learning and motivation](../claims/mentor-agent-best-overall-impact.md) [+W]
 
 ## Related Patterns
 

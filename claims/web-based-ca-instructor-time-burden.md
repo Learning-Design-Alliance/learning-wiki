@@ -52,3 +52,4 @@ Author's interpretive summary of the case study experience: OMS videos and anima
 - [Instructor access to students' individual Web folders enabled coaching on work-in-progress in the Web-based course](web-folders-enable-coaching.md) — related
 - [PROMISE service costs represented relatively large investments](promise-service-costs-relatively-large-investments.md) — related
 - [The cost analysis suggests the ERWC is a modest investment whose upfront development and training costs become insignificant over time](erwc-modest-investment-cost-analysis.md) — related
+- [A self-service course-level framework lowers the infrastructure barrier to piloting learning analytics interventions](self-service-lai-infrastructure-lowers-barrier.md) — related

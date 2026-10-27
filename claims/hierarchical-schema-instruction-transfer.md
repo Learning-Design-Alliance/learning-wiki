@@ -51,3 +51,4 @@ This theoretical article does not run an experiment of its own; it reports a stu
 - [Advance organizers produce a small average learning benefit, larger for high-ability than for low-ability learners](advance-organizers-improve-learning.md) — related
 - [A hierarchical organization facilitates tasks only when matched to the task domain: organization A aids deductive tasks and organization B aids historical tasks](organization-task-match-determines-benefit.md) — related
 - [Ability moderates the hierarchical-organization advantage: low-ability subjects showed no significant benefit, while medium-ability subjects did](ability-moderates-hierarchical-organization-benefit.md) — related
+- [SAIC dialogue agent improved children's schematic knowledge more than a multimedia system without it (statistically significant U-test difference)](saic-agent-improves-schematic-knowledge.md) — related

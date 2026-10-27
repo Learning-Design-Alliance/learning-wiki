@@ -47,3 +47,4 @@ The article's Limitations section (type e) notes high-demand domains such as con
 ## Related Claims
 - [Digital-competency disparities may confound computerized PISA-VET assessments of vocational competence](pisa-vet-digital-competency-confound.md) — related
 - [PISA-VET combines digitalized simulations with hands-on demonstrations to increase measurement validity and engagement](pisa-vet-simulations-demonstrations-validity.md) — related
+- [Haptic feedback is unique to motor skills learning environments but has acclimation and cognitive-demand limitations](haptic-feedback-motor-skills-limits.md) — related

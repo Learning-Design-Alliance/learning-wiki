@@ -14,7 +14,7 @@ grain_size: course
 # AI Tutoring
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 332 claims (151 for, 130 mixed, 51 against) · 224 studies (81 causal, 48 review, 27 design, 25 theoretical, 19 quant-synthesis, 13 associational, 11 qualitative), `q1`–`q4` · 47 of 224 report an effect size · 317 claims rest on one study
+> **Evidence** · 336 claims (153 for, 132 mixed, 51 against) · 227 studies (82 causal, 49 review, 27 design, 26 theoretical, 19 quant-synthesis, 13 associational, 11 qualitative), `q1`–`q4` · 47 of 227 report an effect size · 321 claims rest on one study
 
 ## Description and scope
 
@@ -313,6 +313,10 @@ This pattern is scoped to the tutor's moves within tasks and the handoff to peop
 - [Children aged 6–9 think peers who receive hints will learn more than peers who receive correct answers](../claims/children-hint-recipients-learn-more.md) [~W]
 - [Motivational pedagogical agents did not significantly improve posttest scores or error rates in an adaptive algebra system after controlling for pretest](../claims/motivational-pa-null-conceptual-gains.md) [-W]
 - [Agent-condition learning gains trended higher (marginal), with Agent LPK students gaining significantly more than Non-Agent HPK students](../claims/agent-condition-learning-gains-trend-lpk.md) [~W]
+- [SAIC dialogue agent improved children's schematic knowledge more than a multimedia system without it (statistically significant U-test difference)](../claims/saic-agent-improves-schematic-knowledge.md) [+W]
+- [Tutoring systems appear to be culturally dependent, per insights the paper attributes to Ogan and Johnson](../claims/tutoring-systems-culturally-dependent.md) [~W]
+- [Agents with expertise (Expert and Mentor) improved learning outcomes and were perceived as more credible](../claims/expertise-agents-improved-learning.md) [+W]
+- [Motivational agent roles (Motivator and Mentor) were perceived as more human-like and improved learner self-efficacy](../claims/motivational-agents-improved-self-efficacy.md) [~W]
 
 ## Examples
 - [ChatGPT as a virtual laboratory assistant in a sociotechnical system](../designs/sts-theory-chatgpt-virtual-laboratory-assistant.md) — ChatGPT answers lab questions beside human TAs, not in their place

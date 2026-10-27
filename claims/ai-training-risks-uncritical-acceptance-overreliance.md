@@ -56,3 +56,4 @@ Review synthesis of limitations and risks across included studies, which also re
 - [ChatGPT use improves the quality, elaboration, and originality of university students' solutions to a complex ill-defined problem-solving task](chatgpt-improves-quality-elaboration-originality-pit.md) — related
 - [Graduate seminars with hands-on generative AI use and reflection increased students' comfort with AI and ability to critically assess AI outputs](hands-on-genai-seminars-raise-critical-assessment.md) — related
 - [Pre-service teachers rate ChatGPT-generated texts higher on structure but often fail to identify AI authorship, indicating limited critical AI literacy](preservice-teachers-limited-critical-ai-literacy.md) — a narrower finding that bears on this claim
+- [Haptic feedback is unique to motor skills learning environments but has acclimation and cognitive-demand limitations](haptic-feedback-motor-skills-limits.md) — related

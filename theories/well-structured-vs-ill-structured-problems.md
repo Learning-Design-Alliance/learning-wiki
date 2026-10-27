@@ -52,7 +52,9 @@ Beyond recognizing structure, several general strategies help regardless of a pr
 - [Problem-based Learning](../principles/problem-based-learning.md) — deliberately poses ill-structured problems as a design choice
 
 ## Examples
+
 - A "word lily" problem ("lilies double their lake coverage every day; it takes 100 days to cover the whole lake — how many days to cover half?") is well-structured and solvable by working backward from Day 100, but a solver who treats the stated lily size as relevant has misrepresented the problem and will be misled by irrelevant information.
+- [Move AIED beyond its modeling comfort zone into ill-defined domains](../strategies/aied-beyond-comfort-zone-ill-defined-domains.md)
 
 ## Key Sources
 - Voss, J. F. (2006). Toulmin's model and the solving of ill-structured problems. In D. Hitchcock & B. Verheij (Eds.), *Arguing on the Toulmin model* (pp. 303-311). Springer.

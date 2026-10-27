@@ -57,3 +57,4 @@ Simulation-style experiment on the IELTS Task 2 subset using Google Gemini 2.5, 
 - [Removing grid-search initialization of IRT discrimination and difficulty parameters drops scoring performance from QWK 0.747 to 0.705](psyscore-irt-initialization-ablation-qwk-drop.md) — related
 - [The four grading recipes exhibit an accuracy-cost tradeoff, with the most accurate recipe costing roughly five times the balanced alternative](aes-accuracy-cost-tradeoff-recipes.md) — related
 - [MAB assignment overestimates effect sizes for normally distributed rewards, with greater overestimation for smaller true effects](mab-overestimates-effect-sizes.md) — related
+- [The choice of adaptive assessment mechanism should match the assessment's purpose: IRT for time-limited diagnostic tests, MAB for learning-gain formative assessment](adaptive-mechanism-matches-assessment-purpose.md) — related

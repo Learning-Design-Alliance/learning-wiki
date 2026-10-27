@@ -58,3 +58,4 @@ Descriptive statistics from the SRL ANCOVA in the RCT (TG N = 31, CG N = 30); Ta
 - [Teachers hold conflicting attitudes about whether gameful assessments support students’ intrinsic motivation and desire to learn](teacher-attitudes-gameful-assessment-conflicted.md) — related
 - [Generative AI support can foster self-regulated learning more effectively than traditional AI-based implementations](generative-ai-supports-self-regulated-learning.md) — reports the opposite
 - [Intrinsic motivation ranks among the lowest-centrality factors in students' AI motivational system](intrinsic-motivation-low-centrality-ai.md) — related
+- [ChatGPT in a flipped classroom with hands-on coding significantly increased computational thinking, self-efficacy, and motivation](chatgpt-flipped-classroom-increased-ct-self-efficacy-motivation.md) — related

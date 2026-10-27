@@ -79,3 +79,4 @@ As part of RQ1, the review coded disciplinary origin (first author's affiliation
 - [Embodiment research lacks a shared vocabulary, with over 20 distinct labels for embodiment-related concepts appearing in the last decade](embodiment-terminology-fragmentation-over-twenty-labels.md) — related
 - [Loose use of movement-based learning language risks conflating evidence-based embodied learning with debunked neuromyths](embodiment-terminology-neuromyth-conflation-risk.md) — related
 - [Inconsistent embodiment labels cause functionally similar experiments to go uncited across disciplines, hindering meta-analysis](terminology-silos-uncited-parallel-experiments.md) — related
+- [Interactive open learner modelling dialogue produced resultant learner models with more beliefs than initial models, most approved by both learners and a teacher](iolm-dialogue-increases-lm-beliefs-approved.md) — related

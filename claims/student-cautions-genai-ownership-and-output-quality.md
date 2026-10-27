@@ -64,3 +64,4 @@ Thematic analysis of semi-structured interviews (N=6) in the third semester. The
 - [Reduced engagement with GenAI feedback functionalities was attributed to a mismatch between GenAI outputs and student expectations](mismatch-genai-outputs-student-expectations-reduced-engagement.md) — related
 - [Students exhibited high trust in GenAI but limited critical evaluation of its outputs](high-trust-limited-critical-evaluation-genai.md) — reports the opposite
 - [Students hold cautious trust in the course-specific RAG system, expressing some level of trust but not treating it as an authoritative source and indicating they would verify important information](cautious-trust-in-course-specific-rag.md) — related
+- [Debugging GenAI-generated code fosters critical, reflective, logical, and adaptive thinking skills](debugging-genai-code-fosters-thinking-skills.md) — related

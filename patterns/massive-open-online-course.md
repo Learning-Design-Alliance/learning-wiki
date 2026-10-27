@@ -13,7 +13,7 @@ generated:
 # Massive Open Online Course (MOOC)
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 33 claims (10 for, 18 mixed, 5 against) · 32 studies (7 review, 7 associational, 6 causal, 5 quant-synthesis, 3 design, 3 theoretical, 1 qualitative), `q1`–`q4` · 5 of 32 report an effect size · 29 claims rest on one study
+> **Evidence** · 36 claims (10 for, 21 mixed, 5 against) · 33 studies (8 associational, 7 review, 6 causal, 5 quant-synthesis, 3 design, 3 theoretical, 1 qualitative), `q1`–`q4` · 6 of 33 report an effect size · 32 claims rest on one study
 
 ## Description and scope
 
@@ -152,6 +152,9 @@ This pattern is scoped to open courses at a scale where teacher time per learner
 - [MOOCs failed to deliver on their proponents' promises of transforming higher education](../claims/moocs-failed-to-deliver-on-promises.md) [-W]
 - [In a large online class, peer grades correlated highly with staff-assigned grades, with median agreement of 42.9% within 5% and 65.5% within 10% of staff grades in the second iteration](../claims/peer-grades-correlate-highly-with-staff-grades-mooc.md) [+W]
 - [Median student engagement with MOOC videos falls sharply as video length increases beyond 6 minutes](../claims/video-length-mooc-engagement-declines.md) [+W]
+- [Political ideology shows essentially no relationship with total forum activity in politically-themed MOOCs](../claims/ideology-no-relationship-forum-activity.md) [~W]
+- [Course-created forum threads in these MOOCs showed balanced ideological contribution, with only small conservative-leaning exceptions](../claims/threads-ideologically-balanced.md) [~W]
+- [Structural topic models show partisan differences in topic use amount to less than 2% of all MOOC forum posts](../claims/topic-use-converges-across-partisans.md) [~W]
 
 ## Related Patterns
 - [Online Course Design (Community of Inquiry)](online-course-design.md) — shares concern for interaction design, but MOOC scale makes deep learner-instructor interaction impractical in a way a smaller online course does not face

@@ -67,3 +67,4 @@ ANCOVA on an adapted MSLQ-based SRL questionnaire administered pre and post; the
 - [Pilot studies in computing-related majors report measurable improvements in student engagement, self-efficacy, and learning outcomes](pilot-studies-measurable-improvements-engagement-self-efficacy.md) — related
 - [Students using an AR system for plant study showed higher learning motivation than a control group](arflora-ar-higher-motivation-plant-study.md) — related
 - [Conversational-agent prompts improve student dialogue outcomes at both individual and dyad levels](conversational-agent-prompts-improve-individual-and-dyad-outcomes.md) — related
+- [ChatGPT in a flipped classroom with hands-on coding significantly increased computational thinking, self-efficacy, and motivation](chatgpt-flipped-classroom-increased-ct-self-efficacy-motivation.md) — related

@@ -175,3 +175,4 @@ A meta-analysis of 50 controlled evaluations of intelligent computer tutoring sy
 - [ITS substitution: meta-analyses find no significant cognitive learning differences between ITS and human tutoring or small-group instruction](its-substitution-equivalent-to-human-tutoring.md) — related
 - [Cognitive-load-based quiz adaptation raised learning gains while domain-specific confidence-based adaptation did not](cognitive-load-adaptation-beats-confidence-adaptation.md) — a narrower finding that bears on this claim
 - [In an experiment on computer-assisted instruction, low- and high-SES students benefited equally relative to conventional instruction, and the SES achievement gap remained the same](cai-equal-ses-benefits-gap-unchanged.md) — a narrower finding that bears on this claim
+- [KERMIT observes students' actions and adapts to their knowledge and learning abilities](kermit-adapts-to-student-actions.md) — a narrower finding that bears on this claim

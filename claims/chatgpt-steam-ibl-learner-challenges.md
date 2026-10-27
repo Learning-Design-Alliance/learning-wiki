@@ -80,3 +80,4 @@ The review's orientation-phase challenge findings, with students relying on gene
 - [AI roles in learning communities risk passivity, diminished authenticity, and overdependence if reflective inquiry is bypassed](ai-risks-when-reflective-inquiry-bypassed.md) — related
 - [Students identified weaknesses in the AI feedback model: lack of real-time feedback, software/economic access barriers, and occasional incorrect or inconsistent outputs](genai-feedback-weaknesses-realtime-and-errors.md) — related
 - [In the performance phase, AI tools helped learners organize tasks and supported metacognitive monitoring, but sometimes inaccurately reflected tasks and lacked in-depth responses](ai-performance-phase-benefits-and-drawbacks.md) — related
+- [Overreliance on GenAI risks diminishing higher-order thinking skills and programming logic](genai-overreliance-risks-hots-programming-logic.md) — a narrower finding that bears on this claim

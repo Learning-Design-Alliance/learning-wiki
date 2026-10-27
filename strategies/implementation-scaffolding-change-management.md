@@ -46,6 +46,7 @@ The article's recommendation for district leaders rolling out new tools: "pair n
 - [Plan mutual accountability for implementation, including rollout plans, educator supports, and early indicators for pivoting](obc-mutual-accountability-implementation.md)
 - [Build trust early through quick wins and visible responsiveness to feedback, using a tiered rollout to grow champions](build-trust-early-quick-wins-tiered-rollout.md)
 - [Mobilize & Implement: provide professional learning throughout the pilot and use real-time data dashboards to keep usage aligned with dosage requirements](ongoing-professional-learning-dashboards-during-edtech-pilot.md)
+- [Design AIED deployments to meet school operational criteria such as support, stability, and availability](aied-deployments-meet-school-criteria.md)
 
 ## Examples
 -

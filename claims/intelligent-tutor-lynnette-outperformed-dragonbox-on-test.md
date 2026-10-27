@@ -50,3 +50,4 @@ Narrative review of Long and Aleven's classroom experiment comparing the equatio
 - [The review reports that students learning with serious games often perform better on content knowledge assessments than those in traditional settings](serious-games-better-content-knowledge-than-traditional.md) — related
 - [Intelligent tutoring systems are reported to improve learning outcomes, especially in structured knowledge domains](its-improve-outcomes-structured-domains.md) — related
 - [Intelligent tutoring systems have been shown to improve upon typical classroom instruction](its-improve-upon-typical-classroom-instruction.md) — a broader claim this one bears on
+- [Students enjoyed KERMIT's adaptability and found it a valuable asset to their learning](kermit-students-enjoyed-adaptability.md) — related

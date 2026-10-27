@@ -67,3 +67,4 @@ The review's synthesis of ethical aspects across 34 review articles (RQ3), ident
 - [Ethics, privacy, bias, over-reliance, accuracy, usability and cost are key challenges AI use poses for learner satisfaction and engagement](ai-challenges-engagement-satisfaction.md) — related
 - [Reported benefits of AI integration were efficiency, personalization, and engagement, while challenges were equity, ethics, and academic integrity](ai-integration-benefits-and-challenges.md) — related
 - [Research on five of six teacher-identified concerns increased between AERA's 2005–2014 and 2022–2025 conference eras, led by mental health (+670%) and technology/AI (+145%)](teacher-concern-research-increased-between-aera-eras.md) — related
+- [Explainable AI in education is an ethical design choice, grounded in the five principles of beneficial AI including explicability](explainable-ai-education-ethical-design-choice.md) — related

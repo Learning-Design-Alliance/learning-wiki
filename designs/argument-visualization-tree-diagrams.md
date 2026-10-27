@@ -45,7 +45,8 @@ Argument visualizations are tree diagrams that illustrate the logical relations 
 - [Argument Visualization Essay Quality Gains](../claims/argument-visualization-essay-quality-gains.md) [+M]
 
 ## Related Designs
-- 
+
+- [Task Trees: hierarchical knowledge representation for task recognition and event selection](task-trees-knowledge-representation.md)
 
 ## Examples
 -

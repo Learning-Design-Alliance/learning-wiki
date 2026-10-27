@@ -50,3 +50,4 @@ The review attributes this comparative conclusion to Gupta and Heggond's (2026) 
 - [Intelligent tutoring systems improve achievement over non-individualised instruction](adaptive-learning-improves-outcomes.md) — a broader claim this one bears on
 - [Among deep learning KT models, simpler DKT performs comparably to complex architectures under limited dialogue data](dkt-comparable-to-complex-kt-architectures.md) — related
 - [The RHSI condition ordering is robust across a 20-cell window-size and demand-floor grid, with EO strictly worst in all cells, though ST–MAS ordering reverses at demand floors ≥0.45](rhsi-ordering-parameter-robustness.md) — related
+- [KERMIT observes students' actions and adapts to their knowledge and learning abilities](kermit-adapts-to-student-actions.md) — related

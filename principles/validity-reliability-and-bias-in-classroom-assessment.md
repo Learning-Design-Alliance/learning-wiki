@@ -36,7 +36,7 @@ sources:
 # Validity, Reliability, and Bias in Classroom Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 287 claims (126 for, 142 mixed, 19 against) · 213 studies (83 associational, 49 design, 28 review, 24 theoretical, 20 causal, 6 quant-synthesis, 3 qualitative), `q1`–`q3` · 20 of 213 report an effect size · 280 claims rest on one study
+> **Evidence** · 289 claims (127 for, 142 mixed, 20 against) · 215 studies (84 associational, 50 design, 28 review, 24 theoretical, 20 causal, 6 quant-synthesis, 3 qualitative), `q1`–`q3` · 20 of 215 report an effect size · 282 claims rest on one study
 
 ## Conditional relationship
 
@@ -361,6 +361,8 @@ Content validity, construct validity, criterion validity, consistency across occ
 - [The editorial argues existing composition scales measure form on topics of artificial interest and cannot measure improvement in thought content](../claims/existing-composition-scales-miss-thought-content.md) [~W]
 - [School grades show very wide variation among teachers, shrinking little within a single institution (Starch)](../claims/starch-wide-variation-school-grades.md) [-W]
 - [SES gap patterns in PISA-like items are robust to scoring responses with generative AI instead of hand-coding](../claims/genai-scoring-replicates-ses-gap-patterns.md) [+W]
+- [Fully automated WCPM scores from Whisper V2 transcriptions closely align with expert human raters (correlation 0.98, average difference 4.82 WCPM)](../claims/automated-wcpm-correlates-098-human-raters.md) [+W]
+- [Removing native language (L1) sharply degrades discourse-feature scoring on TOEFL11 but not on FCE](../claims/l1-feature-influences-discourse-features-toefl11.md) [-W]
 
 ## Related Principles
 - [Criterion- and Norm-Referenced Testing](criterion-and-norm-referenced-testing.md) — validity and reliability apply to standardized as well as teacher-made assessments, with additional considerations

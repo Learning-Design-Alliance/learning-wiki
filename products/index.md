@@ -2,7 +2,7 @@
 
 Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's.
 
-**2005 entries** · 0 stable · 2005 in review · 0 drafts
+**2014 entries** · 0 stable · 2014 in review · 0 drafts
 
 ---
 
@@ -108,6 +108,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [AntiSkillBench](antiskillbench.md) - AntiSkillBench is a benchmark dataset and evaluation suite created by Yongli Xiang et al.
 * [ANVIL](anvil.md) - ANVIL is an open-source generative software pipeline developed by Noviello et al.
 * [APLUS (Artificial Peer Learning Using SimStudent)](aplus-artificial-peer-learning-using-simstudent.md) - APLUS is an online learning-by-teaching environment developed by its researchers in which students tutor the SimStudent virtual agent to solve algebraic equations through guided problem solving.
+* [APTA (Adaptive Peer Tutoring Assistant)](apta-adaptive-peer-tutoring-assistant.md) - A software environment developed by Walker et al.
 * [ARC Core](arc-core.md) - ARC Core is a K–12 English and Spanish literacy curriculum developed by American Reading Company that organizes extensive reading, writing, research, and analysis into knowledge-building units integrating literacy with science, social studies, and literature.
 * [ARDESOS-DIAPROVE program](ardesos-diaprove-program.md) - A 16-week classroom programme developed by the ARDESOS-DIAPROVE team that teaches critical thinking through problem-based and cooperative learning activities, contextualized problems, rubrics, and feedback.
 * [Argus](argus.md) - Argus is a static-analysis triage tool developed by David Racovan et al.
@@ -195,6 +196,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 
 #### C {: #letter-c }
 
+* [C2STEM environment](c2stem-environment.md) - The Collaborative, Computational STEM (C2STEM) learning environment is a Snap!-based software platform developed by Nicole M.
 * [CALI (Content-Area Literacy Instruction)](cali-content-area-literacy-instruction.md) - CALI is an individualized K–4 content-area literacy curriculum developed by Dombek et al.
 * [California Classified School Employee Teacher Credentialing Program (Grow Your Own)](california-classified-school-employee-teacher-credentialing-program-grow-your-own.md) - A California state programme that funds and supports classified school employees and paraprofessionals in completing undergraduate education and teacher preparation to become credentialed teachers.
 * [California College Promise Guidebook](california-college-promise-guidebook.md) - A California College Promise planning guidebook and toolkit developed by the California College Promise Project with worksheets, cost-estimation tools, and example implementation artifacts for college leaders and partners.
@@ -454,6 +456,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [DIPSER multimodal classroom dataset for in-person student engagement and attention recognition](dipser-multimodal-classroom-dataset-for-in-person-student-engagement-and-attention-recogni.md) - A multimodal classroom dataset created by Christoforos Fragkiadakis et al.
 * [Disciplinary Learning Companion (DLC)](disciplinary-learning-companion-dlc.md) - An online tool developed by Sijmkens et al.
 * [Disconumbers, Shapedance, and Digitspan game-based assessment packages](disconumbers-shapedance-and-digitspan-game-based-assessment-packages.md) - A package of serious games developed for assessing non-social cognitive abilities such as working memory, visuospatial ability, and math-based memory in job-selection contexts.
+* [Discourse](discourse.md) - Discourse is a software tool developed by Yeomans et al.
 * [District-Charter Collaboration Grants program](district-charter-collaboration-grants-program.md) - A Bill & Melinda Gates Foundation grant program that funded cross-sector collaboration between public and charter schools in seven cities.
 * [DLM Early Childhood Express Math software](dlm-early-childhood-express-math-software.md) - DLM Early Childhood Express Math software, developed by Douglas H.
 * [Domain-specific GenAI declaration framework translating an activity taxonomy into task-specific disclosure instruments](domain-specific-genai-declaration-framework-translating-an-activity-taxonomy-into-task-spe.md) - A Computer Science higher-education framework developed by Nicholas Micallef for structuring students' disclosure, explanation, and reflection on GenAI use in writing and coding coursework.
@@ -702,6 +705,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [German Test Anxiety Inventory (PAF)](german-test-anxiety-inventory-paf.md) - A 20-item self-report questionnaire measuring worry, interference, lack of confidence, and arousal facets of test anxiety in students.
 * [Getting Ready](getting-ready.md) - Getting Ready is a University of Nebraska–Lincoln program that trains early childhood educators in evidence-based family-partnership strategies and coaches them in collaborative goal-setting through home visits, conferences, and informal interactions.
 * [GGMnonreg](ggmnonreg.md) - GGMnonreg is an R package that implements non-regularized Gaussian graphical-modeling methods for low-dimensional data, developed by Donald Williams.
+* [Ghanaian Student Oral Reading Fluency Dataset](ghanaian-student-oral-reading-fluency-dataset.md) - A publicly available dataset created by the University of Oxford and Rising Academies containing oral-reading passages, student audio recordings, and faithful human transcriptions for oral reading fluency research and assessment.
 * [GO Tutor Corps](go-tutor-corps.md) - GO Tutor Corps is a school-based high-impact mathematics tutoring programme that provides individualized or small-group tutoring, structured sessions, and progress monitoring for students needing additional academic support.
 * [Go-Lab ecosystem](go-lab-ecosystem.md) - The Go-Lab ecosystem, including the Graasp authoring and implementation platform and Golabz repository, is a technology environment developed and maintained to help teachers create and use inquiry-based STEM learning spaces.
 * [Go-Lab online teacher community and Inquiry Learning Spaces](go-lab-online-teacher-community-and-inquiry-learning-spaces.md) - Go-Lab is an online ecosystem and teacher community that supports the creation, sharing, reuse, and refinement of inquiry-based learning spaces and resources, developed and maintained by the Go-Lab Initiative.
@@ -874,6 +878,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [KDD Cup 2010 Bridge to Algebra dataset](kdd-cup-2010-bridge-to-algebra-dataset.md) - A Carnegie Learning–donated dataset distributed through the PSLC DataShop containing large-scale student interaction records from mathematics curriculum practice for educational data-mining and knowledge-tracing research.
 * [Keller et al. (2021) harmonized six-cycle PISA top-performing student dataset](keller-et-al-2021-harmonized-six-cycle-pisa-top-performing-student-dataset.md) - A harmonized individual-participant dataset covering six PISA cycles and 82 countries, with accompanying analysis protocols, R code, and materials released by the study authors through OSF.
 * [Kentucky Academic Standards for Computer Science](kentucky-academic-standards-for-computer-science.md) - A framework issued by the Kentucky Department of Education that defines K–8 computer-science learning standards, including Data & Analysis and Impacts of Computing strands.
+* [KERMIT](kermit.md) - KERMIT is a knowledge-based intelligent tutoring and problem-solving environment developed by Pramuditha Suraweera for university students practising conceptual database design with the Entity-Relationship data model.
 * [KG-grounded benchmark of 10,836 solution-feedback pairs for step-level LLM tutoring evaluation](kg-grounded-benchmark-of-10836-solution-feedback-pairs-for-step-level-llm-tutoring-evaluat.md) - A benchmark dataset released by Tahreem Yasir et al.
 * [Khanmigo](khanmigo.md) - Khanmigo is Khan Academy's GPT-4-powered educational tutoring app, offering guided tutoring, writing, debate, chat, practice, and other interactive learning activities.
 * [KinderTEK](kindertek.md) - KinderTEK is an iPad-delivered mathematics intervention for kindergarten students developed and studied by Lina Shanley and colleagues.
@@ -1249,6 +1254,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Ohio’s Dyslexia Guidebook](ohios-dyslexia-guidebook.md) - A framework and implementation guide produced by the Ohio Department of Education and Workforce for universal literacy screening, dyslexia screening, and related instructional supports in Ohio schools.
 * [Oklahoma Teacher and Leader Effectiveness Evaluation System](oklahoma-teacher-and-leader-effectiveness-evaluation-system.md) - Oklahoma's statewide system for evaluating teachers and school leaders, including value-added measures estimated from student test scores and related teacher and student information.
 * [Ollie](ollie.md) - Ollie is a gaze-informed GPT-4o storytelling assistant developed by Wu et al.
+* [OMNIBUS ontology of learning/instructional theories](omnibus-ontology-of-learninginstructional-theories.md) - OMNIBUS is an ontology-based framework developed by Mizoguchi and colleagues for representing instructional theories as alternative decompositions of learning goals into sequenced sub-goals for instructional-system and scenario design.
 * [OmniEdu capability-oriented instruction-tuning corpus](omniedu-capability-oriented-instruction-tuning-corpus.md) - The OmniEdu corpus is a curated, audited, diverse instruction-tuning dataset for education-focused language models, created by Hao Liang et al.
 * [On Biodiversity's Tracks](on-biodiversitys-tracks.md) - On Biodiversity's Tracks is a Greenpeace-developed virtual-reality learning application that lets secondary students explore biodiversity and environmental topics in immersive virtual environments.
 * [On the Rise Academy](on-the-rise-academy.md) - A Detroit Public Schools Community District alternative teacher-certification and recruitment programme that prepares local community members and school support staff through coaching, observations, and supported school placements.
@@ -1630,6 +1636,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Skyline ELA](skyline-ela.md) - A K–2 literacy curriculum launched and implemented by Chicago Public Schools in 2021.
 * [slidesqaqa](slidesqaqa.md) - slidesqaqa is a Flask-based application that uses document extraction and multimodal LLM inference to analyze PDF presentation slides and generate hierarchical topics, slide-role classifications, learning goals, and context-aware comprehension questions.
 * [SLM prototype Cognitive Agent with QKV-style retrieval over a natural-language Knowledge Base](slm-prototype-cognitive-agent-with-qkv-style-retrieval-over-a-natural-language-knowledge-b.md) - A research prototype developed by Hyeongdon Moon et al.
+* [SMARTIES](smarties.md) - SMARTIES is an intelligent authoring system developed by Mizoguchi et al.
 * [SmartPhysics: Rotation Lab](smartphysics-rotation-lab.md) - A self-contained, AI-generated browser application developed by Josep Ll.
 * [SmartTutor](smarttutor.md) - A simulated Python tutoring environment developed by Oluseyi Olukolaa for testing pedagogical safety and adaptive tutoring policies in educational reinforcement-learning systems.
 * [SMART®](smart.md) - Start Making a Reader Today (SMART®) is a low-cost Oregon school-based programme that provides volunteer one-on-one reading tutoring and free books to K–2 students at risk of reading failure.
@@ -1665,6 +1672,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [SpellRead™](spellread.md) - SpellRead™ is a structured literacy programme for struggling readers in grade 2 and above, delivered through systematic explicit auditory and visual reading instruction in small groups and supported by an instructor monitoring system.
 * [SPIRaL (Students Partners for Information Research and Literacy)](spiral-students-partners-for-information-research-and-literacy.md) - SPIRaL is Purdue's two-semester students-as-partners undergraduate research programme in which information-studies students investigate societal information challenges while developing information-literacy and research skills.
 * [Splash and Bubbles for Parents](splash-and-bubbles-for-parents.md) - A PBS KIDS companion app for the Splash and Bubbles television series that supports joint parent-child viewing, science-related conversation, and hands-on activities.
+* [SPPA: Student Performance Prediction and Action framework](sppa-student-performance-prediction-and-action-framework.md) - An open-source web-based learning-analytics application developed by Alalawi et al.
 * [SPREE](spree.md) - A process developed and applied by the Corporation for National and Community Service to help funders and grantees evaluate, select, and scale evidence-based interventions.
 * [Springboard Summer](springboard-summer.md) - Springboard Summer is a five-week intensive summer literacy programme run by Springboard Collaborative for rising kindergarteners through fourth graders, combining literacy instruction, family engagement, educator support, and incentives.
 * [Spritz](spritz.md) - Spritz is a Discord-based LLM conversational agent that detects collaboration tensions, elicits private individual reflections, and returns anonymized perspective syntheses for interdisciplinary student teams.
@@ -1721,6 +1729,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Student–Teacher Relationship Scale (STRS)](studentteacher-relationship-scale-strs.md) - The STRS is a teacher-report questionnaire developed by Robert C.
 * [Study-developed NGSS-focused assessments of 1st grade three-dimensional learning and science vocabulary in-use](study-developed-ngss-focused-assessments-of-1st-grade-three-dimensional-learning-and-scien.md) - These are researcher-developed assessments measuring first-grade NGSS-focused science learning and science-vocabulary use in the study.
 * [StudyChat dataset](studychat-dataset.md) - StudyChat is a publicly available dataset released by Menggian Wu and collaborators containing naturalistic undergraduate student–LLM programming dialogues linked to assignment submissions.
+* [STyLE-OLM framework for interactive open learner modelling](style-olm-framework-for-interactive-open-learner-modelling.md) - A computational framework developed by Vania Dimitrova and colleagues that supports dialogue-based inspection, negotiation, and joint construction of learner models in educational systems.
 * [SuaCode Africa](suacode-africa.md) - A two-month smartphone-based online programming curriculum developed for high school students, university students, and recent graduates in Africa and the diaspora, using Processing and the APDE Android app.
 * [Success Boston Coaching](success-boston-coaching.md) - Success Boston Coaching is a college-access coaching programme run through Boston-area coaching partner organizations to support students' transition to and persistence in college.
 * [Success for All](success-for-all.md) - Success for All is a comprehensive K–5 school reform and reading programme developed and operated by the Success for All Foundation for schools serving students at risk of reading difficulty.

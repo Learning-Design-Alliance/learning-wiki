@@ -13,7 +13,7 @@ generated:
 # Technology Integration
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 92 claims (41 for, 44 mixed, 7 against) · 84 studies (20 associational, 17 qualitative, 13 review, 11 causal, 10 quant-synthesis, 8 design, 5 theoretical), `q1`–`q4` · 15 of 84 report an effect size · 89 claims rest on one study
+> **Evidence** · 95 claims (43 for, 45 mixed, 7 against) · 85 studies (20 associational, 17 qualitative, 14 review, 11 causal, 10 quant-synthesis, 8 design, 5 theoretical), `q1`–`q4` · 15 of 85 report an effect size · 92 claims rest on one study
 
 ## Description
 Technology integration is the element in which digital tools are used in direct service of learning goals, feedback, access, or collaboration.
@@ -117,6 +117,9 @@ Technology integration is the element in which digital tools are used in direct 
 - [Earlier meta-analyses report small positive effects for computer-assisted literacy instruction (0.19; 0.16)](../claims/prior-meta-analyses-small-positive-effects.md) [+W]
 - [Educators' written ideas about ChatGPT in education followed four themes: fostering AI literacy, acting as a character, improving learning, and serving as a teacher's help](../claims/chatgpt-ideas-four-themes-dataset2.md) [~W]
 - [Dataset 1 identified challenges in current teaching (resources, knowledge, digital tools) alongside opportunities for emerging technologies to clarify complex concepts and teach critical skills](../claims/dataset1-challenges-and-opportunities-themes.md) [+W]
+- [Successful GenAI integration in programming education hinges on intentional teaching strategies, designed assessments, and structured integration processes](../claims/genai-integration-success-hinges-on-strategy-assessment-structure.md) [+W]
+- [Barriers to seamless GenAI integration include limited accessibility, insufficient bias mitigation, and tool availability prioritized over curriculum alignment](../claims/genai-integration-barriers-accessibility-bias-alignment.md) [+W]
+- [Skills gained from GenAI integration vary with teaching methodology, tool choice, and assessment methods, with student performance varying by engagement level](../claims/genai-skills-vary-by-methodology-engagement.md) [~W]
 
 ## The evidence by question
 - *Does building AI tools into instruction raise achievement over teaching the same content without them, and in which settings?* [AI-supported instruction has a moderate positive effect on student achievement in STEM education (g = 0.670 under a random effects model)](../claims/ai-instruction-stem-moderate-positive-effect.md) [+M]

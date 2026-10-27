@@ -49,3 +49,4 @@ Descriptive bibliometric analysis of 321 eligible WoS articles on WCF in L2 writ
 - Yu Shulin and Lee Icy were the most productive WCF-in-L2-writing authors, Assessing Writing and Journal of Second Language Writing the leading journals, and University of Macau the leading institution — related
 - WCF research trends shifted from accuracy and error correction, through efficacy of feedback strategies and scope, to teacher practices, motivation, student engagement and automated feedback — related
 - Annual output in Instructional Science rose markedly from around 2008, peaked at about 55 documents in the early 2010s, then declined to roughly 30–40 papers annually — related
+- [Research on GenAI in programming education increased markedly from 2019 onward](genai-programming-education-publications-increase-2019.md) — related

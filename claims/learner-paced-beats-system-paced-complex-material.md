@@ -142,3 +142,4 @@ This meta-analysis updated earlier work (Niemiec, Sikorski, & Walberg) on giving
 - [Segmentation improves learning from dynamic visualizations, but because studies always used pauses, whether the pause's processing time or its segment-end signal drives the effect is unclear](segmentation-effect-cause-unclear.md) — related
 - [Animations often do not produce more effective learning than static visualizations, partly because their transience creates high working memory load](animations-transience-working-memory-load.md) — related
 - [The authors interpret the null movement effect as possibly due to experimenter-controlled video pacing obstructing children's memory encoding](experimenter-paced-segmentation-may-obstruct-encoding.md) — related
+- [Studying dynamic phenomena as discrete time steps supports students' understanding of system behavior compared with continuous-time equation-derived processes.](discrete-time-steps-support-understanding.md) — related

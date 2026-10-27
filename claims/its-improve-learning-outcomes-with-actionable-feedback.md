@@ -58,3 +58,4 @@ The paper, a workshop-informed white paper and curriculum-oriented position arti
 - [Intelligent tutoring systems are a mature, technologically sophisticated implementation of AI-driven personalized learning with mostly positive outcomes in programming, mathematics, and STEM](its-mature-implementation-personalized-learning.md) — related
 - [Intelligent tutoring systems with dynamic student modeling increase learning gains over regular instruction](its-dynamic-modeling-effective.md) — related
 - [ITS augmentation: meta-analyses find medium to large learning benefits of ITS over unsupported learning and small to medium gains over less adaptive computer-assisted learning](its-augmentation-benefits-over-unsupported-learning.md) — related
+- [KERMIT observes students' actions and adapts to their knowledge and learning abilities](kermit-adapts-to-student-actions.md) — a narrower finding that bears on this claim

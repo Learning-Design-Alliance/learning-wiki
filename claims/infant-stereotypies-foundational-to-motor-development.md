@@ -47,3 +47,4 @@ The authors cite Thelen's infant observational studies: "arm waving and body roc
 ## Related Claims
 - [Explicit Handwriting Instruction Improves Legibility](explicit-handwriting-instruction-improves-legibility.md) — related
 - [Meaningful-task rehabilitation produced up to 30% improvement in impaired arm-movement performance versus control](galperin-meaningful-task-rehabilitation.md) — related
+- [An external focus of attention (on movement effects rather than body movements) enhances motor performance and learning](external-focus-attention-enhances-motor-learning.md) — related

@@ -54,3 +54,4 @@ Theoretical argument in this field-notes article: the authors assert, without re
 - [Unstructured LLM use risks cognitive offloading that displaces effortful thought and weakens argument construction](unstructured-llm-use-cognitive-offloading.md) — related
 - [Immediate LLM explanations risk bypassing the generative processes required for durable understanding](genai-offloading-bypasses-desirable-difficulties.md) — related
 - [Learner-level challenges of ChatGPT in STEAM IBL include over-reliance, inaccurate or irrelevant feedback, conceptual confusion, and diminished creativity](chatgpt-steam-ibl-learner-challenges.md) — related
+- [Overreliance on GenAI risks diminishing higher-order thinking skills and programming logic](genai-overreliance-risks-hots-programming-logic.md) — related

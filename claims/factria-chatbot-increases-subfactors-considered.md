@@ -88,3 +88,4 @@ Descriptive baseline from the discussion of the think-aloud study: without chatb
 - [The FACTRIA-aware chatbot received good usability ratings (SUS 70.84) and high usefulness ratings from most of the 11 stakeholders](factria-chatbot-usability-sus-70-84.md) — related
 - [Transition network analysis shows the chatbot's prompts and explanations structured the interaction while participants generated their own interpretations](tna-chatbot-prompts-structure-user-interpretation.md) — related
 - [Stakeholder survey rated achievability lowest across Framework elements, especially Element 5 (continuous improvement)](framework-achievability-ratings-low.md) — related
+- [Current course learning design practices do not consider what and how data should be generated for learning analytics, limiting LA implementation](current-course-design-lacks-la-data-sourcing.md) — related

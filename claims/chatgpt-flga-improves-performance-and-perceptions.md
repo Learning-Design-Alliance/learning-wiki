@@ -60,3 +60,4 @@ A quasi-experiment in a courseware project compared two classes: one randomly as
 - [GCLA use enhances higher-order thinking skills—critical thinking, problem-solving, and creativity—compared with traditional ChatGPT use](gcla-improves-hots.md) — related
 - [GCLA does not bolster motivational aspects of SRL: traditional ChatGPT users showed higher intrinsic motivation and higher amotivation than GCLA users](gcla-no-motivation-advantage.md) — reports the opposite
 - [Individual factors supportive of adolescent creativity include openness to experience, intrinsic motivation, creative self-efficacy, and external attributions for adversity](individual-supportive-factors-adolescent-creativity.md) — related
+- [ChatGPT in a flipped classroom with hands-on coding significantly increased computational thinking, self-efficacy, and motivation](chatgpt-flipped-classroom-increased-ct-self-efficacy-motivation.md) — related

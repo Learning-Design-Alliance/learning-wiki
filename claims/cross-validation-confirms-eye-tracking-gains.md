@@ -70,3 +70,4 @@ Cross-validation of exploration nodes across the three model versions (Table 6):
 - [In an initial eye-tracking study, time on action predicted self-explanation (16-second threshold) and gaze shifts were most reliable at detecting its absence](initial-study-time-and-gaze-predict-self-explanation.md) — related
 - [More accurate assessment of self-explanation significantly improves the model's assessment of student learning through exploration](se-assessment-improves-exploration-assessment.md) — related
 - [Customizing knowledge-node priors from pretest scores improves model accuracy, but tailoring SE-tendency priors yields no significant improvement](knowledge-priors-help-se-tendency-priors-do-not.md) — related
+- [A moving-average assessment over the past five actions set the Surveillance Tutor's feedback window, sized from pilot testing showing participants received more feedback than they could process](moving-average-five-action-feedback-window.md) — related

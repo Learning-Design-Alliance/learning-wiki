@@ -52,3 +52,4 @@ Narrative subgroup synthesis of the four prespecified AI modalities (GenAI/LLM n
 - [High-frequency LLM users show higher minimum course outcomes and reduced score variability, though interaction level is not a dominant outcome predictor](high-usage-lower-variance-higher-minimum.md) — related
 - [Simulation effects vary by complex skill: highest for technical performance, lowest for communication skills](simulation-effects-vary-by-complex-skill.md) — related
 - [Purpose-built chatbot effects on educational performance are mixed, with some studies showing no benefits or worse outcomes than comparison conditions](educational-performance-mixed-ai-chatbots.md) — related
+- [AIED developments in personalized motor skills learning have lagged behind cognitive skills support despite procedural learning being considered since the 1980s](aied-motor-skills-research-lags-cognitive.md) — related

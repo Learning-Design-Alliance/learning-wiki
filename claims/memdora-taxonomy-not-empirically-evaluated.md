@@ -45,3 +45,4 @@ Authors' stated limitation in the paper's Limitations section: the design ration
 
 ## Related Claims
 - [The system has no empirical evaluation yet: profile accuracy has not been assessed and learning outcomes remain an open question](ecnuclaw-no-empirical-evaluation-yet.md) — possibly the same claim (merge candidate)
+- [No empirical evidence has been examined that an interactive open learner model leads to better learning than a non-negotiable or absent open learner model](no-evidence-iolm-beats-non-negotiable-olm.md) — related

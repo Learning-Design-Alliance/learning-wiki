@@ -53,3 +53,4 @@ Authors' stated limitations in the paper's discussion section (§9.3). The paper
 - [Instructional design models are rarely tested against outcomes; their credibility comes from practitioners finding them useful.](instructional-design-models-are-validated-by-adoption-not-testing.md) — related
 - [Optimizing prompts can vastly improve the accuracy of LLM outputs, but critical evaluation of the resulting outputs still requires domain expertise.](prompt-optimization-improves-accuracy-expertise-still-needed.md) — related
 - [Runtime GenUI adaptation is too late, too costly, and accuracy-risky to be equitable at scale for learners needing non-default representations](runtime-genui-too-late-costly-inequitable.md) — related
+- [No empirical evidence has been examined that an interactive open learner model leads to better learning than a non-negotiable or absent open learner model](no-evidence-iolm-beats-non-negotiable-olm.md) — related

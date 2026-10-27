@@ -50,3 +50,4 @@ Chi-square tests across Studies 1, 3a, 3b, and 4 restricted to model-and-human p
 - [People lose confidence more quickly in algorithms than in humans after seeing the same kind of mistakes](faster-confidence-loss-algorithms-than-humans.md) — related
 - [A belief that the algorithm is less likely to be perfect does not explain experience-driven algorithm aversion](perfection-belief-does-not-explain-aversion.md) — related
 - [Slight control over an algorithm's output reduces algorithm aversion, with process control producing the strongest calibration effects](slight-control-reduces-algorithm-aversion.md) — related
+- [Algorithm aversion: people show negative attitudes toward algorithms and trust humans more, especially for subjective tasks requiring attention to individual uniqueness](algorithm-aversion-educators-pla.md) — related

@@ -55,6 +55,7 @@ This strategy packages the eight best practices Digital Promise identified for d
 - [Five-step iterative co-design process for developing edtech evaluation criteria with learners and vendors](five-step-codesign-badge-development-process.md)
 - [Five recommendations for higher education systems elevating student and faculty voice in edtech evaluation](recommendations-learner-voice-edtech-evaluation-systems.md)
 - [Adopt AI incrementally in waves from simple to complex tasks, on free-tier tools, with mandatory multi-step human review before any document is issued](incremental-free-tier-ai-adoption-with-triple-review.md)
+- [Distinguish academic AIED from the commercial sector and develop ways to hold the sector to account](distinguish-academic-aied-from-commercial-sector.md)
 
 ## Examples
 -

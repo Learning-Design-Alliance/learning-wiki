@@ -61,3 +61,4 @@ Systematic review synthesis answering research question 1, integrating findings 
 - [System-controlled adaptive instruction does not necessarily yield higher transfer than nonadaptive static approaches](system-control-not-superior-transfer.md) — related
 - [Generative AI tools risk inducing overestimated abilities and diminishing training of foundational skills](generative-ai-overconfidence-risk.md) — related
 - [A perspective article warns that students risk overreliance on LMFM outputs and that overuse may impede critical thinking, research skills, and independent problem-solving](lmfm-overreliance-impedes-critical-thinking.md) — related
+- [Overreliance on GenAI risks diminishing higher-order thinking skills and programming logic](genai-overreliance-risks-hots-programming-logic.md) — a narrower finding that bears on this claim

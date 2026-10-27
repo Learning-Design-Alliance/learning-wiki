@@ -54,3 +54,4 @@ Descriptive analysis of responses from the three originally fine-tuned models (T
 - [PPB maintained comparable readability on three of four measures while increasing Flesch-Kincaid toward grade level](ppb-readability-comparable-flesch-kincaid-increased.md) — related
 - [Fine-tuned 8B LLMs generate K-2 stories with difficulty-related metric scores statistically significantly different from (mostly better than) zero-shot GPT-4o and Llama 3.3 70B](finetuned-8b-llms-beat-zero-shot-large-models-on-difficulty-metrics.md) — related
 - [Revising texts to improve readability-formula scores often produces nonexistent or insignificant comprehension gains](readability-revision-gains-nonexistent-insignificant.md) — related
+- [LLM temperature settings significantly affect generated-text length and complexity, with Llama3 producing more complex texts than GPT-3.5](temperature-drives-generated-text-complexity.md) — related

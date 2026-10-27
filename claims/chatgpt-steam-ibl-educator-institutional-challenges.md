@@ -65,3 +65,4 @@ The review's summary of educator- and institutional-level challenges (Table 5, e
 - [Respondents identified algorithmic bias (31.9%), data privacy (27.5%), and technical reliability (27.5%) as the primary risks of AI in education](rfi-ai-risks-bias-privacy-reliability.md) — related
 - [Institutional AI policy formation lags behind practical AI presence in coursework, leaving many faculty in policy vacuums](institutional-ai-policy-maturity-lags-adoption.md) — related
 - [Regional context moderates GenAI effects: positive in China and Pakistan, negative in Korea and Turkey](genai-effects-vary-by-country.md) — related
+- [Faculty focus groups raised concerns about authenticity, validity, and reliability of ChatGPT-generated SBMCQs, including cultural and linguistic bias](faculty-fgd-concerns-chatgpt-sbmcq-quality.md) — a narrower finding that bears on this claim

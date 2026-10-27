@@ -55,3 +55,4 @@ Design-tier stratification of the review's included studies: 3 RCTs assessed wit
 - [GenAI/LLM modalities provide the strongest evidence for cognitive and communication outcomes, while chatbots show weak independent effects](genai-llm-strongest-evidence-cognitive-communication.md) — a broader claim this one bears on
 - [Multi-agent AI standardized patient training improved final OSCE-aligned examination scores compared with a structured non-LLM control condition](ma-scaffolding-improves-osce-exam-score.md) — related
 - [Purpose-built chatbot effects on educational performance are mixed, with some studies showing no benefits or worse outcomes than comparison conditions](educational-performance-mixed-ai-chatbots.md) — a broader claim this one bears on
+- [AIED developments in personalized motor skills learning have lagged behind cognitive skills support despite procedural learning being considered since the 1980s](aied-motor-skills-research-lags-cognitive.md) — related

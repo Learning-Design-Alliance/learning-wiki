@@ -9,6 +9,7 @@ generated:
   at: 2026-10-15
 evidence_strength: weak
 newest_evidence: 2017
+source_checked: 2026-10-27
 sources:
   - id: popenici-2017
     resource: "https://doi.org/10.1186/s41039-017-0062-8"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
-> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2017 · checked against its sources 2026-10-27 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The article concludes that research and data show MOOCs failed to deliver on proponents' promises and remain just a different kind of online course. [→ Popenici 2017](#popenici-2017)

@@ -13,7 +13,7 @@ generated:
 # Critical Thinking
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 70 claims (49 show a difference, 16 mixed, 5 no difference) · 52 studies (18 causal, 10 review, 9 associational, 6 theoretical, 5 qualitative, 3 design, 1 quant-synthesis), `q1`–`q3` · 11 of 52 report an effect size · 68 claims rest on one study
+> **Evidence** · 72 claims (50 show a difference, 17 mixed, 5 no difference) · 53 studies (18 causal, 11 review, 9 associational, 6 theoretical, 5 qualitative, 3 design, 1 quant-synthesis), `q1`–`q3` · 11 of 53 report an effect size · 70 claims rest on one study
 
 ## Description
 Critical thinking is purposeful, reasoned evaluation: asking who is presenting information, in what context and on what evidence, considering several perspectives and kinds of evidence before drawing an inference, and using that to make decisions and solve problems. It combines a set of reasoning skills with a disposition to use them. It is often measured by questionnaires about attitudes toward critical thinking, as well as by reasoning tasks.
@@ -110,6 +110,8 @@ It draws on [metacognition](metacognition.md) (monitoring one's own reasoning), 
 - [Reading the own-side account elicited more valid elaborative inferences, relevant associations, consequences-for-present statements and evaluative comments, while the other-side account elicited more invalid inferences](../claims/own-side-text-deeper-processing-other-side-invalid-inferences.md) [+M] — instruction changes it
 - [Students made more evaluative comments after the dialogic argumentation intervention, but their evaluations still favored their own position](../claims/more-evaluative-comments-post-intervention-still-biased.md) [~M] — instruction changes it
 - [A perspective article warns that students risk overreliance on LMFM outputs and that overuse may impede critical thinking, research skills, and independent problem-solving](../claims/lmfm-overreliance-impedes-critical-thinking.md) [~W] — instruction changes it
+- [Debugging GenAI-generated code fosters critical, reflective, logical, and adaptive thinking skills](../claims/debugging-genai-code-fosters-thinking-skills.md) [+M] — instruction changes it
+- [Overreliance on GenAI risks diminishing higher-order thinking skills and programming logic](../claims/genai-overreliance-risks-hots-programming-logic.md) [~M] — instruction changes it
 
 ## Measures
 - **California Critical Thinking Disposition Inventory** (Facione et al., 2001): learner questionnaire on attitudes and dispositions toward critical thinking.
