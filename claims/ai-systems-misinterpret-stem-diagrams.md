@@ -9,6 +9,7 @@ generated:
   at: 2026-10-11
 evidence_strength: weak
 newest_evidence: 2026
+source_checked: 2026-10-27
 recheck_by: 2029
 sources:
   - id: sun-y-2026
@@ -33,7 +34,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q1`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
+> **Currency** · newest study 2026 · checked against its sources 2026-10-27 (automated, 2 of 2 entries) · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` Existing AI systems fail to accurately capture topological relationships such as node adjacency and edge directionality in real-world STEM diagrams, producing incomplete or distorted structures. [→ Sun Y. 2026](#sun-y-2026)
@@ -69,3 +70,4 @@ Illustrative failure analysis of network topology interpretation (Figure 1c), de
 - [StructRAG achieves 89.3% question-level accuracy and 93.0% edge-level F1 on 1,650 STEM diagram questions, outperforming OCR+CV, GPT-4 graph-only, direct-image GPT-4o, and ablated variants](structrag-outperforms-baselines-stem-diagrams.md) — reports the opposite
 - [Visualization analysis indicates the learned graph topology recovers interpretable relational structures such as modular node clusters and directed dependency hierarchies](adaptive-g-ukt-learned-topology-interpretable.md) — related
 - [The pipeline generated grounded questions about complex multimodal diagrams, citing visual evidence](grounded-multimodal-diagram-questions.md) — related
+- [State-of-the-art multimodal LLMs cannot reliably interpret circuit diagrams and therefore cannot independently solve circuit analysis problems](vlm-cannot-interpret-circuit-diagrams.md) — a narrower finding that bears on this claim

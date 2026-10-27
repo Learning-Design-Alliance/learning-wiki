@@ -50,3 +50,4 @@ Alignment analysis computing Jaccard similarity and Spearman rank correlation be
 - [SHAP explanations transfer robustly across architectures while LLM rationales transfer poorly to PLM predictions](shap-explanations-transfer-across-architectures.md) — related
 - [LLMs and instructors agree broadly on where feedback belongs but diverge on exact sentence spans, with span overlap strongly goal-dependent and LLMs highlighting more of each essay](llm-instructor-span-overlap-goal-dependent.md) — related
 - [Human-LLM agreement on a complex multi-label codebook falls well below human-human agreement, while LLM-LLM agreement is comparable to human-human agreement](human-llm-agreement-gap-jaccard.md) — related
+- [Expert-judged sentence selection by a tuned rhetorical parser succeeded, but student reactions to key-sentence highlighting were mixed](awa-sentence-highlighting-mixed-student-response.md) — related

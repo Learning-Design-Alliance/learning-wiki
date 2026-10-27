@@ -54,3 +54,4 @@ Within-subjects comparison of cognitive-load measures between the AI-access and 
 - [Students taught by teachers who received training outperformed those in the control condition, and adding the AIED-U system did not improve learning gains further beyond training alone](teacher-training-improves-numeracy-gains-aied-u-no-additional.md) — related
 - [GenAI training leaves total cognitive load comparable while marginally raising intrinsic cognitive load](genai-training-comparable-load-marginal-intrinsic-increase.md) — related
 - [ADA use shows a modest non-significant tendency toward increased intrinsic and extrinsic cognitive load, contrary to prior chatbot research](ada-cognitive-load-slightly-increased-non-significant.md) — related
+- [GenAI assistance after targeted instruction reduces graduate students' professional writing time by 56.7%](genai-instruction-writing-time-reduction.md) — related

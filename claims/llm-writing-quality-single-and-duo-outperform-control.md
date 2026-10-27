@@ -52,3 +52,4 @@ Three-condition between-subjects Prolific experiment (247 participants with two 
 - [Essay quality was highest for AI-generated drafts and lowest with no AI, negatively correlated with ownership, suggesting an ownership-quality tradeoff.](ai-draft-quality-ownership-tradeoff.md) — related
 - [Single-LLM writing assistance increased idea-level homogenization across writers, while a role-specialized duo of architecturally distinct LLMs preserved baseline diversity](role-specialized-duo-preserves-idea-diversity.md) — related
 - [Adding a second writing agent increased reported cognitive load, and writing confidence did not increase monotonically with support, with the Single condition reporting the lowest confidence](second-agent-increases-cognitive-load-writing.md) — related
+- [GenAI assistance after targeted instruction improves rubric-evaluated writing quality from A- to A](genai-instruction-writing-quality-gain.md) — related

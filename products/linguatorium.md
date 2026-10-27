@@ -35,6 +35,7 @@ Linguatorium is a web-based computer-assisted language-learning system that auto
 ## Related Products and Programmes
 
 - [Memdora](memdora.md)
+- [E-Tutor](e-tutor.md)
 
 ## Key Sources
 - Evgeny Chukharev-Hudilainen and Tatiana A. Klepikova. (2016). The effectiveness of computer-based spaced repetition in foreign language vocabulary instruction: a double-blind study. calico journal vol 33.3. https://doi.org/10.1558/cj.v33i3.26055

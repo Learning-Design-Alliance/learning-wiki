@@ -58,3 +58,4 @@ The design is known here only through the review's one-paragraph account, and th
 - [Incidentally acquired vocabulary is retained over time while intentionally learned (focus-on-form) words are rapidly forgotten](incidental-vocabulary-retained-intentional-forgotten.md) — reports the opposite
 - [Adding reciprocal peer tutoring with audio prompting to incidental exposure produced stronger vocabulary gains than incidental exposure alone for fourth-grade struggling readers](peer-tutoring-audio-prompting-vocabulary-gains.md) — related
 - [Teachers with high incidental exposure described expanded opportunities for word use and connecting words to topics](teacher-practices-expanded-word-use-themes.md) — related
+- [Combining reading comprehension and writing strategy instruction in an ITS is significantly more effective than either strategy alone](combined-reading-writing-strategy-instruction-its.md) — a narrower finding that bears on this claim

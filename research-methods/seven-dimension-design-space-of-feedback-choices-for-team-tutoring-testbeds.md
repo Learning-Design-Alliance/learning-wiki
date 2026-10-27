@@ -25,7 +25,8 @@ The article organizes feedback design as seven dimensions realizable in the Surv
 - [A moving-average assessment over the past five actions set the Surveillance Tutor's feedback window, sized from pilot testing showing participants received more feedback than they could process](../claims/moving-average-five-action-feedback-window.md) [~M]
 
 ## Related Research Methods
--
+
+- [GIFT evaluation testbed methodology for experimentally assessing ITS technologies](gift-evaluation-testbed-methodology-for-experimentally-assessing-its-technologies.md)
 
 ## Key Sources
 - Gilbert, S. B., Slavina, A., Dorneich, M. C., Sinatra, A. M., Bonner, D., Johnston, J., Holub, J., MacAllister, A., & Winer, E. (2017). Creating a Team Tutor Using GIFT. Int J Artif Intell Educ. https://doi.org/10.1007/s40593-017-0151-2

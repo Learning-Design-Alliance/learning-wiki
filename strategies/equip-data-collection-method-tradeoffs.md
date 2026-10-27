@@ -43,6 +43,7 @@ EQUIP can capture interactions live, via prerecorded video, or both, and althoug
 - [Use EQUIP data to take action: test new strategies, collect data again, and align professional development to surfaced needs](use-equip-data-to-take-action.md)
 - [Send EQUIP data reports in advance of debriefs and use discussion protocols to guide data conversations](advance-data-reports-with-debrief-protocols.md)
 - [Use video streaming technology instead of in-person observers to assess pre-K classroom quality](video-streaming-virtual-classroom-observation-strategy.md)
+- [Have users self-report competence-development activities instead of monitoring their devices](user-self-reported-development-activities.md)
 
 ## Examples
 -

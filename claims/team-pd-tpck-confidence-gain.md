@@ -48,3 +48,4 @@ Survey studies by Rienties, Brouwer, Bohle Carbonell, et al. (2013) and Rienties
 - [Team-based professional development is associated with shifts toward more student-centered teaching in qualitative studies, but not in one quantitative online-training study](team-pd-teaching-approach-shift.md) — related
 - [An online PD program using unplugged explainable machine-learning activities increased K–12 educators' AI self-efficacy from below-moderate to above-moderate levels](unplugged-ml-pd-raises-teacher-ai-self-efficacy.md) — related
 - [Short-duration TPACK-based professional development improved teachers' ML knowledge and interest (ML4STEM)](ml4stem-teacher-pd-initial-evidence.md) — related
+- [Teachers' confidence and interest in ML integration progressively increased from the Teachers-as-Learners to the Teachers-as-Designers session.](ml-confidence-interest-increase.md) — related

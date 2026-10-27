@@ -21,6 +21,7 @@ APLUS is an online learning-by-teaching environment developed by its researchers
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 - **APLUS: a learning-by-teaching environment in which students tutor SimStudent to solve algebraic equations**: APLUS (Artificial Peer Learning Using SimStudent) is an online learning-by-teaching environment in which students, acting as tutors, "teach a virtual agent named SimStudent to solve algebraic equations through guided problem solving". SimStudent learns production rules via programming by demonstration (inductive logic programming), proposes solution steps, and asks focal questions when the tutor disagrees or lacks a production. Tutors can quiz SimStudent across four quiz levels and access a Problem Bank, Unit Overview, Introduction Video, worked Examples, and a meta-tutor agent, Mr. Williams, who gives voluntary metacognitive hints. (Fathima Ameen et al. (2026))
+- **Simulated Student architecture for detecting and avoiding negative situations in collaborative learning**: The Simulated Student architecture is a model of a simulated peer agent that monitors collaborative learning interactions to detect and avoid situations that decrease the benefits of learning in collaboration. It targets three named situations: off-topic conversations, students with passive behaviour, and problems related to students' learning. The article presents it as a model whose features are instantiated in an agent added to a real collaborative system, and evaluates whether the model is adequate in the avoidance of negative situations. (Aurora Vizcaíno (2005))
 
 ### Claims
 
@@ -32,3 +33,4 @@ APLUS is an online learning-by-teaching environment developed by its researchers
 
 ## Key Sources
 - Fathima Ameen, Tasmia Shahriar, Aditi Mallavarapu, Shiyan Jiang, Noboru Matsuda. (2026). Beyond prior knowledge: the predictive role of knowledge-building in tutor learning. Behaviormetrika. https://doi.org/10.1007/s41237-026-00294-9
+- Aurora Vizcaíno. (2005). A Simulated Student Can Improve Collaborative Learning. International Journal of Artificial Intelligence in Education. https://telearn.hal.science/hal-00197303

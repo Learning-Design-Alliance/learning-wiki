@@ -64,3 +64,4 @@ The special-issue introduction's summary of Nückles et al.'s two longitudinal f
 - [Design guidelines beneficial for novice learners can be ineffective or even detrimental when applied to experts (expertise reversal)](expertise-reversal-interactivity-guidelines.md) — a broader claim this one bears on
 - [Expertise reversal effect: instructional aids effective for low-knowledge learners hinder high-knowledge learners across all three layers](expertise-reversal-effect-instructional-aids.md) — a broader claim this one bears on
 - [Fading-out prompts yield more cognitive strategy use and higher learning outcomes than permanent prompts](fading-out-prompts-beat-permanent-prompts.md) — related
+- [Special-issue evidence: a knowledge-graph-enriched legal-writing textbook led to better learning outcomes than baselines, and aggregated emoji annotations helped teachers identify challenging text](special-issue-textbook-enhancements-outcomes.md) — related

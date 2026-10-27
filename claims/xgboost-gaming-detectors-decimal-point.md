@@ -52,3 +52,4 @@ Detectors were built by hand-labeling log data via text replay coding (800 probl
 - [No significant gender difference in gaming the system appears in the non-game control condition or in the problem-solving step](no-gender-gaming-difference-nongame-and-problem-solving.md) — related
 - [Generalizable detectors of students' affective states in DLPs remain an unsolved problem](no-generalizable-affective-detectors.md) — a broader claim this one bears on
 - [Male students game the system significantly more than female students in the self-explanation step of a digital learning game, across three studies](males-gaming-more-self-explanation-game-condition.md) — related
+- [GIFT supports the full affect-sensitivity research workflow from detector development data collection through embedding models and running intervention experiments](gift-testbed-affect-sensitivity-workflow.md) — related

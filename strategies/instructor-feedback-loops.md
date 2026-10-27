@@ -66,6 +66,7 @@ Feedback is among the most powerful influences on learning, but its effects are 
 - [5-Minute Writing Conferences](../strategies/5-minute_writing_conferences.md) — a high-frequency individual loop for writing instruction
 - [Use the taxonomy to self-evaluate an implemented research experience and level up milestones](ur-taxonomy-self-evaluation-loop.md)
 - [Identify information gaps through national conference review to set research and development strategies](national-conference-gap-identification-strategy.md)
+- [Use gaze-based automated strategy identification for teacher dashboards and personalized feedback in online statistics learning](gaze-based-teacher-dashboards-feedback.md)
 
 ## Examples
 **Formative assessment programs (Black & Wiliam)** — UK mathematics classrooms where teachers used comment-only marking (no grades) plus class-time for students to respond to comments; substantial achievement gains, largest for low achievers.

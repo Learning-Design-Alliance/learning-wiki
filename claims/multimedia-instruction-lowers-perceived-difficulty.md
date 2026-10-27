@@ -70,3 +70,4 @@ The same ANCOVA on perceived difficulty of instruction included condition-by-pre
 - [Learners invest more mental effort in media they perceive as difficult, so multimedia should raise perceived demand characteristics](perceived-demand-drives-invested-mental-effort.md) — reports the opposite
 - [Multimedia initial instruction shows no detectable benefit over text-only instruction on posttest performance](multimedia-instruction-no-posttest-benefit.md) — related
 - [Spontaneous drawings at posttest mediate the effect of multimedia instruction on posttest performance, but not the effect of multimedia feedback](spontaneous-drawings-mediate-instruction-effect.md) — related
+- [Monitoring drop-out rates at specific pages identified difficult text, and revising those pages lowered drop-out rates back to normal](dropout-monitoring-guided-text-revision.md) — related

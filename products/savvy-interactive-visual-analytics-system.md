@@ -27,7 +27,8 @@ SAVVY is a research-developed interactive visual analytics system that helps tea
 - [Two case studies and expert interviews with six experts demonstrated SAVVY's effectiveness and usability for identifying attention variations and supporting video optimization](../claims/savvy-case-studies-expert-interviews-effectiveness.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [LOCO-Analyst](loco-analyst.md)
 
 ## Key Sources
 - Shixian Zhou, Minghuan Shen, Xiaolin Wen, Zijun Qiu, Yongliang Jiang, Xiangyang Wu, Fei Wu, Yong Wang, and Zhiguang Zhou. (2026). SAVVY: Student Attention Visualization for Video-based Learning Analysis. arXiv. https://arxiv.org/abs/2607.29413

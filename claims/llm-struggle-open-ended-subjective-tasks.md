@@ -74,3 +74,5 @@ The review reports, from one university chemistry study in its evidence table, t
 - [LLM-generated feedback is more comprehensive in volume than human feedback but is sometimes too generic, abstract, or misaligned with the assigned grade](llm-feedback-volume-vs-quality.md) — a narrower finding that bears on this claim
 - [ChatGPT shows high success on open-ended general chemistry exam questions but lower accuracy at the university level, and unverified copying of its answers is a reported risk](chatgpt-accuracy-varies-by-question-level.md) — related
 - [Task complexity moderates whether users experience the constructive information search process](task-complexity-moderates-information-search-process.md) — related
+- [ASAG and AEG systems differ on answer length, grading focus, and question openness](asag-content-focus-versus-aeg-style.md) — a narrower finding that bears on this claim
+- [LLM grading performance is markedly worse for open-ended history and philosophy questions than for content-based astronomy and astrobiology questions](llm-grading-worse-on-open-ended-questions.md) — a narrower finding that bears on this claim

@@ -53,3 +53,4 @@ The paper reports that analyses using hidden Markov models, differential sequenc
 - [Confused guessers had significantly lower pre- and post-test skill scores than most other clusters, but their science learning gains were not significantly different from those of Clusters 1, 2, and 4.](confused-guessers-lower-skills-similar-gains.md) — related
 - [Classroom use of Betty's Brain showed a performance dichotomy: one study found 18 of 40 students made very little progress teaching Betty, while 16 taught a correct or nearly correct map.](betty-brain-classroom-performance-dichotomy.md) — related
 - [Engagement predicted concept-map final performance, which in turn predicted learning gains in the ITS](engagement-performance-learning-gains-chain.md) — related
+- [Concept-map and causal-chain scoring of text-based science explanations show high interrater reliability and predict comprehension test performance](concept-map-causal-chain-scoring-explanations.md) — related

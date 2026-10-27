@@ -49,6 +49,7 @@ CyberAGENTS is a layered, ontology-guided multi-agent framework for gamified cyb
 
 - [AISecKG ontology as a pre-display validation layer for agent-generated content](aiseckg-ontology-pre-display-validation.md)
 - [Competency-mapping module organizing curriculum topics by difficulty, prerequisites, and concept clusters](cyberagents-competency-mapping-module.md)
+- [Operating Systems ontology built for OBT (344 classes, 57 object properties, 10 data properties)](os-ontology-obt-knowledge-base.md)
 
 ## Examples
 -

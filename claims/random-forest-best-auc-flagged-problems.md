@@ -75,3 +75,4 @@ Model comparison on a 20% scenario-held-out test set, with 3-fold cross-validati
 - [Unsupervised time-series clustering identifies low performers more accurately than SVM or decision-tree classifiers trained on two temporal statistics](unsupervised-clustering-beats-feature-classifiers.md) — related
 - [On one graphical differentiation item, eye tracking data predicted students' specific difficulties as a multiclass classification problem](gaze-prediction-specific-math-difficulties-multiclass.md) — related
 - [The ensemble learner attains the highest classification accuracy and AUC for predicting a non-repeatable grade (C or better)](ensemble-highest-classification-nonrepeatable-grade.md) — related
+- [SVM with RoBERTa sentence embeddings was the most accurate automatic scoring method (κ = .82) among the four tested combinations](roberta-svm-most-accurate-scoring-pisa.md) — related

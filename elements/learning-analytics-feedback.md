@@ -135,6 +135,7 @@ These models feed three uses that benefit learners directly: **automated feedbac
 - Social network analysis of discussion-forum interaction patterns to identify learners at risk of feeling isolated from the learning community
 - [Use coordination-based indicators rather than inactivity alone to trigger alerts and adaptive interventions for struggling groups](../strategies/coordination-based-alert-strategy.md)
 - [Use discussion analytics to alert instructors about students who may need more assistance](../strategies/instructor-alerts-from-discussion-analytics.md)
+- [Use gaze-based automated strategy identification for teacher dashboards and personalized feedback in online statistics learning](../strategies/gaze-based-teacher-dashboards-feedback.md)
 
 ## Key Sources
 - Baker, R. S., & Inventado, P. S. (2016). Educational data mining and learning analytics: Potentials and possibilities for online education. In G. Veletsianos (Ed.), *Emergence and Innovation in Digital Learning* (pp. 83–98). AU Press. Republished in R. West (Ed.), *Foundations of Learning and Instructional Design Technology*. EdTech Books. [https://edtechbooks.org/lidtfoundations/educational_data_mining_and_learning_analytics](https://edtechbooks.org/lidtfoundations/educational_data_mining_and_learning_analytics)

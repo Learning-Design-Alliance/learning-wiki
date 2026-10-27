@@ -17,7 +17,7 @@ sources:
 # Address core ethical challenges—data privacy, algorithmic fairness, and transparency—when deploying AI-driven personalized learning
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 2 studies (1 quant-synthesis, 1 review), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 3 claims (2 for, 1 mixed) · 3 studies (1 quant-synthesis, 1 review, 1 associational), `q2`–`q3` · 0 of 3 report an effect size · 3 claims rest on one study
 
 ## Description
 The review identifies three central ethical challenges for AI-driven personalized learning: data privacy and security (requiring "robust data protection, anonymization, and clear consent protocols"), algorithmic fairness and bias (mitigated through "regular bias audits, diverse datasets, and fairness-aware algorithms"), and transparency and explainability (explainable AI models and transparent data practices to ensure accountability and foster trust). It argues addressing these requires technical safeguards, robust governance, and a human-centered approach so innovation benefits all learners equitably.
@@ -42,6 +42,7 @@ The review identifies three central ethical challenges for AI-driven personalize
 
 - [Educator- and institutional-level challenges include curricular misalignment, need for teacher mediation, unequal access, privacy concerns, academic integrity risks, and algorithmic bias](../claims/chatgpt-steam-ibl-educator-institutional-challenges.md) [+M]
 - [Review reports ethical concerns of educational AI including algorithmic bias and exploitation of personal data](../claims/ethical-concerns-algorithmic-bias-data.md) [+W]
+- [Institutional trust, data-collection concern, and comfort with instructor data use are the key factors in students' decisions to consent to learning analytics](../claims/three-factors-consent-learning-analytics.md) [~W]
 
 ## Related Strategies
 

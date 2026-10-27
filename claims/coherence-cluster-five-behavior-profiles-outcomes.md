@@ -52,3 +52,4 @@ In the classroom study applying coherence analysis (Segedy et al. 2015, describe
 - [Hierarchical clustering of CDM attainment probabilities identifies five learner groups with distinct patterns of professional standards attainment](five-learner-profiles-standards-attainment.md) — related
 - [High Overall Engagement and Metacognitive-but-not-Constructive profiles show the highest immediate and delayed knowledge, with metacognitive engagement marking the key difference from lower performers](high-engagement-metacognitive-profiles-best-outcomes.md) — related
 - [Engagement predicted concept-map final performance, which in turn predicted learning gains in the ITS](engagement-performance-learning-gains-chain.md) — related
+- [Concept-map and causal-chain scoring of text-based science explanations show high interrater reliability and predict comprehension test performance](concept-map-causal-chain-scoring-explanations.md) — related

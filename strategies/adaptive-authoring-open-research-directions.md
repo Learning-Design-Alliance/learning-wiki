@@ -47,6 +47,7 @@ The editorial's forward-looking recommendations for future authoring research. I
 - [Human-in-the-loop instructor control as a design direction for adaptive learning systems](human-in-loop-instructor-realtime-adaptive-control.md)
 - [Future directions: auto-generate edge-case test scenarios and integrate learning-science guidance into AI tutor authoring](future-ai-tutor-authoring-edge-cases-and-learning-science-guidance.md)
 - [Future improvements: real-world user studies, advanced student modeling, and spaced repetition](future-work-user-studies-student-modeling-spaced-repetition.md)
+- [Author ITSs without programming by enabling non-programmers to create, curate, and sequence instruction through authoring tools](non-programmer-its-authoring-strategy.md)
 
 ## Examples
 -

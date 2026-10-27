@@ -54,3 +54,4 @@ The article reports, citing prior work, that raw agreement often exceeded 90% wh
 - [On CK items, GradeOpt showed near-perfect alignment with human codes (κ = .88 and .85; QWK = .89 and .94), comparable to human–human agreement](gradeopt-near-perfect-ck-agreement.md) — related
 - [Human–GPT coding agreement varied sharply by code, with near-chance or negative Kappa for co-ordination codes despite near-perfect agreement on others](gpt4-kappa-varies-by-dialogue-code.md) — related
 - [The rule-based recipe annotation system reaches near-perfect inter-annotator agreement (Cohen's Kappa 0.85) and average accuracy 0.95 in a validation on sampled recipe segments.](relex-annotation-validation-kappa-accuracy.md) — related
+- [Lower model performance on Prompt 2 tracks poor inter-annotator agreement (QWK 0.560 vs 0.758)](prompt2-low-performance-tracks-annotator-agreement.md) — related

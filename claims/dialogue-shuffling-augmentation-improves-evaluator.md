@@ -46,3 +46,4 @@ Training-strategy comparison for Llama 3.1 8B on the Mistake Identification task
 
 ## Related Claims
 - [Knowledge distillation from a frontier LLM substantially improves lightweight AI-tutor evaluation across all four pedagogical dimensions](distillation-improves-ai-tutor-evaluation.md) — related
+- [An expert dataset of 4803 annotated chest compressions from 10 experts was collected and downsampled to 3434 samples to train the mistake-detection models](cpr-tutor-expert-dataset-4803-ccs.md) — related

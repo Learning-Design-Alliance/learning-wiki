@@ -46,3 +46,4 @@ Editorial announcement by the guest editors of the International Journal of Arti
 
 ## Related Claims
 - [The special issue's accepted papers illustrate progress toward enabling non-programmer teachers and trainers to author adaptive systems](smart-authoring-enables-non-programmers-adaptive-systems.md) — related
+- [The ten special-issue papers collectively indicate near-term feasibility of automated guidance and feedback on reading and writing skills](near-term-feasibility-automated-reading-writing-feedback.md) — related

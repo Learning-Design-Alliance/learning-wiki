@@ -51,3 +51,4 @@ Colvin's informal observational report from his own student advising work, prese
 - [Group intelligence scores correlated only modestly with school marks (freshmen: 0.41 Thurstone, 0.56 Brown; junior high: 0.25 Illinois, 0.32 Otis), which the author attributes to marks depending on many non-intelligence factors](intelligence-scores-school-mark-correlations.md) — related
 - [The validity of mental testing rests on the assumption that those tested have had common opportunity to learn](mental-test-validity-common-opportunity-to-learn.md) — related
 - [Students in the upper and lower tenths of an intelligence test show wide divergence in the character of their work](upper-lower-tenths-divergent-college-work.md) — related
+- [Coh-Metrix indices predicting college writing quality fail for low-skilled adults, for whom ten other indices are predictive](cohetrix-indices-low-skilled-adults-writing.md) — related

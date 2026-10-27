@@ -18,7 +18,7 @@ sources:
 # Adaptive Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 26 claims (17 for, 8 mixed, 1 against) · 25 studies (7 review, 6 causal, 3 quant-synthesis, 3 associational, 3 qualitative, 2 theoretical, 1 design), `q1`–`q4` · 3 of 25 report an effect size · 25 claims rest on one study
+> **Evidence** · 27 claims (17 for, 9 mixed, 1 against) · 26 studies (7 causal, 7 review, 3 quant-synthesis, 3 associational, 3 qualitative, 2 theoretical, 1 design), `q1`–`q4` · 3 of 26 report an effect size · 26 claims rest on one study
 
 ## Description
 Adaptive learning tailors content, pacing, support, or task sequence in response to evidence about a learner's current performance, needs, or prior knowledge.
@@ -78,6 +78,7 @@ Adaptive learning tailors content, pacing, support, or task sequence in response
 - [Adaptive task difficulty significantly improved fraction knowledge for students in the inattentive unfavorable (lower-SES-associated) profile compared to no scaffolding](../claims/adaptive-task-difficulty-benefits-unfavorable-profile.md) [+W]
 - [Technology-supported personalized learning approaches, especially adaptive learning technologies, are reported to raise student achievement more than traditional non-adaptive instruction](../claims/tech-personalized-learning-raises-achievement.md) [+W]
 - [AI in psychomotor ITS is used predominantly for feedback construction rather than for task recommendation or adaptation](../claims/its-ai-feedback-over-recommendation.md) [-W]
+- [Personalized and transparent automated guidance improved science learning mainly for low-prior-knowledge students, and two specific guidance types yielded similar gains](../claims/personalized-transparent-automated-guidance-science-learning.md) [~W]
 
 ## The evidence by question
 - *Does adaptive instruction raise achievement over non-individualised instruction or the same content in a fixed sequence?* [Intelligent tutoring systems improve achievement over non-individualised instruction](../claims/adaptive-learning-improves-outcomes.md) [+S]

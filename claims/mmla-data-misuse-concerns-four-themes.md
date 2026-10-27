@@ -73,3 +73,4 @@ Interview study on misuse of data and consequences; thematic analysis identified
 - [Most reviews reporting neurophysiological AI use stressed the need for further ethical considerations, including participant consent and transparent development](neurophysiological-ai-ethics-consent-transparency.md) — related
 - [Arts-based methods in community-based research raise specific ethical challenges around anonymity, ownership, representation and emotions, alongside practical limits of time, training and cost](abr-ethical-practical-challenges.md) — related
 - [Manual tracking cases showed no substantial privacy concerns while automatic activity-tracking cases raised consistent privacy concerns](manual-tracking-user-control-privacy.md) — related
+- [Students who consented most often cited improving education (30%), while students who denied consent most often cited privacy and security concerns (63%)](self-reported-consent-deny-reasons.md) — related

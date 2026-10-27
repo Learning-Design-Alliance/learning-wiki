@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/aied-reviews-context-reporting-gaps.md
+---
+
+# Revision history: [claims/aied-reviews-context-reporting-gaps](../claims/aied-reviews-context-reporting-gaps.md)
+
+### 2026-10-27 · ingest · process:wiki-ingest
+Ingested from jrnl-561f6095acf3 (Examining AI Use in Educational Contexts: A Scoping Meta-Review and Bibliometric Analysis) via eval_harness.py + ingest_extractions.py

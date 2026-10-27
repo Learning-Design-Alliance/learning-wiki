@@ -48,3 +48,4 @@ Pearson correlation matrix (Table 8) among the seven TPACK domain scores in the 
 - [Faculty report high self-perceived knowledge in traditional TPACK domains but substantially lower self-perceived knowledge in technology-integrated GenAI domains](faculty-high-traditional-low-technology-integrated-genai-knowledge.md) — related
 - The three technology-integrated TPACK domains intercorrelate so strongly (r = .81–.91) that they may function as a single factor in this faculty population — related
 - [AI-TK contributes to AI-TPACK only indirectly through AI-TPK and AI-TCK, which positively predict AI-TPACK](ai-tk-indirect-path-aick.md) — related
+- [Teachers' post-TaL technology knowledge is not significantly associated with their technology content knowledge.](tk-tck-correlation-null.md) — related

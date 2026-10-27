@@ -55,3 +55,4 @@ Qualitative trio-ethnography: the student consistently portrayed AI as a learnin
 - [Educators' interpretations of students' AI use evolved from perceived AI stigma toward emphasizing AI usage transparency and explicit AI guidance](ai-stigma-to-explicit-ai-guidance-evolution.md) — related
 - [53% of student essays named at least one AI behavior that supports rather than replaces thinking](students-name-scaffolding-ai-behaviors.md) — related
 - [US K-12 teachers judge AI companion roles along a gradient from academic to intimate, ranking Romantic Partner most concerning and Tutor or Study Buddy most acceptable](teachers-judge-ai-companions-academic-to-intimate-gradient.md) — related
+- [Post-solution dialogues in physics tutoring most prominently serve explaining conceptual knowledge and integrating it with strategic problem-solving knowledge](post-solution-dialogue-roles-conceptual-integration.md) — related

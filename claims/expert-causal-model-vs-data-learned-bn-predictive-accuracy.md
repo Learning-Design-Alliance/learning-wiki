@@ -48,3 +48,4 @@ Five-fold cross-validation comparison on the CAT assessment data (109 students) 
 ## Related Claims
 - [The framework's validation is limited: structure and parameterisation were tested only on a small dataset and only for predictive accuracy](causal-assessment-framework-validation-limitations.md) — possibly the same claim (merge candidate)
 - [Group-level marginal inferences identify population propensity and autonomy but are nearly vacuous for higher algorithmic skill levels](group-marginal-inferences-cat-skills-propensity.md) — related
+- [Cross-fold validation supports generalized expert models of marksmanship behavior across firing conditions and behavioral measures](generalized-expert-models-marksmanship-cross-fold-validated.md) — related

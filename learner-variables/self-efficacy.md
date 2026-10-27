@@ -13,7 +13,7 @@ generated:
 # Self-Efficacy
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 157 claims (115 show a difference, 25 mixed, 17 no difference) · 129 studies (52 associational, 25 causal, 19 review, 14 qualitative, 8 design, 6 theoretical, 5 quant-synthesis), `q1`–`q4` · 28 of 129 report an effect size · 153 claims rest on one study
+> **Evidence** · 158 claims (116 show a difference, 25 mixed, 17 no difference) · 130 studies (52 associational, 26 causal, 19 review, 14 qualitative, 8 design, 6 theoretical, 5 quant-synthesis), `q1`–`q4` · 28 of 130 report an effect size · 154 claims rest on one study
 
 ## Description
 Self-efficacy is Bandura's term for task-specific confidence: how sure a learner is that they can do what a task requires. It is measured with self-report scales tied to a domain (mathematics self-efficacy, writing self-efficacy, computer self-efficacy). It predicts effort, persistence and achievement, it moderates some instructional effects, and it is itself an outcome that instruction can raise, chiefly through experiences of success, seeing similar others succeed, and specific feedback. It is narrower than [motivation](motivation.md) and distinct from general self-esteem.
@@ -188,6 +188,7 @@ Self-efficacy is Bandura's term for task-specific confidence: how sure a learner
 - [Most teacher-level predictors of student performance failed to replicate between tranches, but improved teacher confidence in teaching evolution was a replicable predictor](../claims/teacher-confidence-replicable-predictor.md) [+M] — learners who differ on it differ in outcomes
 - [GPAΔ predicts achievement slopes as well as the traditional ability-based discrepancy index (cogΔ), and the two indices jointly predict 26% of slope variance](../claims/gpad-equals-cogdelta-prediction-and-joint-26-percent.md) [+M] — learners who differ on it differ in outcomes
 - [Self-perceived reading competency is the strongest mediator of SES–reading achievement (indirect βa×b, SMD = 0.020); fear of failure is the weakest](../claims/self-perceived-competency-strongest-mediator.md) [+M] — learners who differ on it differ in outcomes
+- [NNES graduate students perceive genAI as more useful for writing and report marginally increased writing self-efficacy](../claims/genai-nnes-perceived-usefulness-competency.md) [+M] — instruction changes it
 
 ## The evidence by question
 

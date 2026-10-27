@@ -60,9 +60,11 @@ Writing is a problem-solving process that novices cannot infer from reading fini
 6. Repeat with progressively less modeling as students internalize the strategy.
 
 ## Related Strategies
+
 - [Think-Aloud Modeling](think-aloud-modeling.md) — the general narration method that makes any modeling effective
 - [Collaborative Writing](collaborative-writing.md) — co-construction distributes writing decisions across peers
 - [Formative Feedback](formative-feedback.md) — revision modeling teaches students how to act on feedback
+- [Support struggling readers and writers with increased practice time, skill diagnosis and guidance, and targeted feedback during practice](practice-diagnosis-targeted-feedback-reading-writing.md)
 
 ## Examples
 - **[Graham & Perin's Writing Next](https://www.carnegie.org/media/filer_public/3c/f5/3cf58727-34f4-4140-a014-723a00ac56f7/ccny_report_2007_writing_next.pdf)** — meta-analysis identifying strategy instruction with modeled exemplars among the most effective practices for adolescent writing.

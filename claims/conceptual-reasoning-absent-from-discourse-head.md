@@ -53,3 +53,4 @@ Observational analysis of the top-20 category list from the 2,874-turn corpus. T
 - [Grade-9 students' LLM-supported mathematical interactions are strongly request-dominated, with little explicit planning, monitoring, or evaluation](llm-math-interactions-request-dominated-grade9.md) — related
 - [Meta-procedural requests are prominent in student discourse with a Socratic AI tutor: Next Step Guidance is the second-most common discourse move despite the tutor being designed not to direct students](meta-procedural-requests-socratic-ai-tutor.md) — related
 - [During AI-tutor interactions, students' turns were dominated by help requests with near-absent monitoring and evaluation](request-dominance-monitoring-evaluate-absent.md) — related
+- [Post-solution dialogues in physics tutoring most prominently serve explaining conceptual knowledge and integrating it with strategic problem-solving knowledge](post-solution-dialogue-roles-conceptual-integration.md) — related

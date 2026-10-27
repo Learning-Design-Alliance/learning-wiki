@@ -47,6 +47,7 @@ The article recommends an agentic educational architecture that includes the tea
 - [Prioritize inclusive-by-design architectures, interoperable agent frameworks, human-AI collaboration models, and real-world implementation studies](future-directions-inclusive-by-design-agentic-ai.md)
 - [Six engagement-based incentive mechanisms that build evaluative moments into chatbot interaction](six-engagement-mechanisms-trust-calibration.md)
 - [AI-supported choice architectures that build agency while the teacher retains curricular scope](ai-predictive-agency-pathways.md)
+- [Add a simulated student agent to collaborative systems to intervene in off-topic, passive, and learning-problem situations](add-simulated-student-to-collaborative-systems.md)
 
 ## Examples
 -

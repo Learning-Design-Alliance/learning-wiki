@@ -48,3 +48,4 @@ The authors' narrative review of prior approaches (Papasalouros et al., Alsubait
 - [EMCQG generated more than 3 million distinct case-based questions for four physician specialities from the EMMeT ontology](emcqg-three-million-questions-four-specialities.md) — related
 - [Ontology-based generation produced exam-appropriate case-based MCQs, with 30% of a stratified sample rated appropriate by both expert raters and 50% by at least one](emcqg-expert-rated-exam-appropriate-questions.md) — related
 - [Case-based (vignette) MCQs are classified as testing higher-order thinking and discriminate better between low- and high-information students](case-based-questions-higher-order-value.md) — related
+- [Existing AQG approaches concentrate on non-technical domains, and technical-domain Wh-type generation has been limited to Bloom's cognitive Level I](existing-aqg-technical-domain-limited-non-technical.md) — related

@@ -64,6 +64,7 @@ Revision is a metacognitively demanding activity: writers must detect mismatches
 - Peer Revision and Feedback — the natural follow-on once learners can diagnose texts
 - Incremental Rehearsal of Writing Routines — building the modeled routine into habitual practice
 - [Focusing techniques for checking a text during drafting and revision](focusing-techniques-drafting-revision.md)
+- [Support struggling readers and writers with increased practice time, skill diagnosis and guidance, and targeted feedback during practice](practice-diagnosis-targeted-feedback-reading-writing.md)
 
 ## Examples
 **[Calkins' Units of Study](https://www.heinemann.com/unitsofstudy/)** (Teachers College Reading & Writing Project) — writing workshop mini-lessons built around the teacher "demonstrating" revision on their own draft, then sending students off to try the same move in their writing.

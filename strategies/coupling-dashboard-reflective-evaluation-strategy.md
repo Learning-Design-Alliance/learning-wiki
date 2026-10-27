@@ -44,6 +44,7 @@ The authors propose translating coupling estimates "into intuitive summaries and
 
 - [Learning Dashboards](learning-dashboards.md)
 - [Research Reports](research_reports.md)
+- [Use gaze-based automated strategy identification for teacher dashboards and personalized feedback in online statistics learning](gaze-based-teacher-dashboards-feedback.md)
 
 ## Examples
 -

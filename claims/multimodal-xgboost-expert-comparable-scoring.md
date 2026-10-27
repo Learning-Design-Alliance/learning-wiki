@@ -65,9 +65,11 @@ Unimodal baseline models trained with only acoustic, facial, oculomotor, or text
 
 
 ## Related Claims
+
 - [Adult learners using the closed-loop ITS improved significantly across all seven BARS presentation dimensions over a 30-day practice window (Cohen's d = 0.39–0.90)](its-prepost-gains-all-seven-bars-dimensions.md) — related
 - [Domain-matched experts judged 87% of Bespoke-generated lecture videos at or above the rubric midpoint corresponding to a standard MOOC lecture's quality (mean G = 3.42 of 5)](bespoke-87-percent-mooc-comparable-quality.md) — related
 - [Pedagogy and production dimensions associated most strongly with global quality (Spearman ρ = 0.68 and 0.66), while content was relatively independent (ρ = 0.46)](bespoke-pedagogy-production-correlate-with-global-quality.md) — related
 - [Confidence-aware selective test-time scoring achieves the best average agreement with expert rubric scoring across six NGSS drawing items](ca-selective-best-average-agreement-drawings.md) — related
 - [Across rubric dimensions, content scored highest (A = 4.03) while production scored lowest (D = 3.41), driven by synthetic voice quality (D1 = 3.16)](bespoke-content-strongest-production-weakest-voice.md) — related
 - [SHAP modality attributions aligned with each BARS dimension's behavioral focus, supporting interpretable feedback](shap-modality-contributions-align-with-bars-dimensions.md) — related
+- [Acoustic features have none to least impact on scoring QWK except for prompts 2 and 6](acoustic-features-least-impact-except-prompts-2-6.md)

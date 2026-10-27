@@ -46,3 +46,4 @@ Publication-year analysis of the 40 eligible papers (2010–February 2024; Fig. 
 
 ## Related Claims
 - [Publication output on WCF in L2 writing grew over 2014–2024, with a small early phase (2014–2018) and a surge after 2019 peaking in 2023](wcf-l2-writing-publications-grew-2014-2024.md) — related
+- [Systematic reviews of AIED were absent from 2015 to 2018 in this corpus and increased steadily from 2019 onward](aied-review-publication-trend-2019-increase.md) — related

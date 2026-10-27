@@ -76,3 +76,4 @@ Pangram 4 detector applied to essays from the same randomized experiment. The ar
 - [Access to expert-verified AI study materials is associated with a 2.34-mark difference-in-differences advantage on a 50-mark examination component, reflecting protection from a decline rather than a rise](did-2-34-mark-advantage-verified-ai-materials.md) — related
 - [Prior genAI use and incentives show no clear effects on later memory retention](genai-no-clear-memory-effect.md) — related
 - [Intervention studies reported larger effect sizes than cross-sectional studies, and studies including more teaching assistants reported larger effects](moderators-intervention-design-teaching-assistants.md) — related
+- [GenAI assistance shows a leveling effect on writing quality for non-native English speaking students](genai-quality-leveling-nnes.md) — a narrower finding that bears on this claim

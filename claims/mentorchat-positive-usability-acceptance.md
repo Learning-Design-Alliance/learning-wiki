@@ -54,3 +54,4 @@ Post-task questionnaire with 25 items (21 Likert-scale) completed by 30 students
 - [Older adults rated the KOKU digital programme with excellent usability and high acceptability](koku-high-usability-acceptability.md) — related
 - [In an exploratory pilot, students perceived the course-specific RAG system's responses as highly aligned with course materials (89%) and helpful for assessment understanding](pilot-students-perceive-rag-responses-course-aligned.md) — related
 - [In preliminary user acceptance testing, 84% of participants rated Taklif.AI's personalization feature as beneficial](uat-84-percent-rate-personalization-beneficial.md) — related
+- [A second experiment evaluated system acceptance with a scenario followed by 21 users who filled out a questionnaire](multccomp-acceptance-21-user-experiment.md) — related

@@ -59,3 +59,4 @@ Comparative analysis of bias mitigation techniques applied to LR models on OULAD
 - [Bias in predicting learning productivity, measured as accuracy differences across gender and parental educational background, was highly dependent on the ML method used](bias-dependent-on-ml-method.md) — related
 - [Class balancing techniques improved fairness in education prediction tasks, with over-sampling also improving accuracy](class-balancing-improves-fairness.md) — related
 - [Education algorithm fairness is measured with a diverse set of metrics, most commonly ABROCA, TPR/TNR, FPR/FNR disparity metrics, and group difference in performance](education-fairness-metrics-diverse-set.md) — related
+- [Methods with higher scoring accuracy showed lower demographic disparity across the tested model combinations](higher-accuracy-lower-disparity.md) — related

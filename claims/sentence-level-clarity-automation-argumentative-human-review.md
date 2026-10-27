@@ -53,3 +53,4 @@ Theoretical caveat in Section 3.1 of this conceptual paper. The article argues t
 - [AI involvement at the intermediate feedback level is appropriate only if five non-negotiable boundary principles hold simultaneously](five-boundary-principles-intermediate-ai-feedback.md)
 - [Argumentative dialogs between humans and generative AI can support knowledge transformation when prompted appropriately](human-ai-argumentative-dialog-knowledge-transformation.md) — related
 - [High-level feedback on reasoning and synthesis should remain a human responsibility for the foreseeable future](high-level-feedback-remains-human-responsibility.md) — a broader claim this one bears on
+- [Expert-judged sentence selection by a tuned rhetorical parser succeeded, but student reactions to key-sentence highlighting were mixed](awa-sentence-highlighting-mixed-student-response.md) — related

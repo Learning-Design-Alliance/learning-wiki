@@ -57,6 +57,7 @@ For curriculum design, the chapter recommends a transdisciplinary approach in wh
 - [Integrate AI literacy into disciplinary core subjects rather than adding a new AI subject](integrate-ai-literacy-into-core-subjects.md)
 - [Mitigation strategy: AI-literacy curricula with fact-checking modules, comprehensive educator training, and transparent documentation of AI use](ai-literacy-fact-checking-mitigation-strategy.md)
 - [Use co-design approaches to develop grade-appropriate AI curricula for elementary students](codesign-elementary-ai-curricula.md)
+- [Design AI literacy curricula for K-12 as interdisciplinary short-term courses grounded in learning theory and developed with teachers](interdisciplinary-ai-literacy-curriculum-k12.md)
 
 ## Examples
 -
