@@ -56,3 +56,4 @@ Subtracted epistemic network (Figure 8) comparing midterm high- and low-performi
 - [The analytics agent surfaced a Module 2 dead zone — students stopping around the 42-minute lecture mark where exercises ended — and the instructor revised the exercise set in response](itas-dead-zone-finding.md) — related
 - [The study examines the development of motivational regulation strategy knowledge and its longitudinal relationship with academic procrastination over the course of study](motivational-regulation-knowledge-longitudinal-procrastination.md) — related
 - [Counting questions students procrastinate, practicing little until late in the semester, while counting days spreads practice across the term](counting-questions-procrastination-pattern.md) — related
+- [Earlier participation relative to project deadlines (higher APTTD) predicts higher project grades](early-posting-apttd-predicts-grades.md) — related

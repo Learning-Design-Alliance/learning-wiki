@@ -54,3 +54,4 @@ Postsurvey on AI perspectives (Figure 3). Students found AI "particularly effect
 - [AI-supported lab manual design increased students' confidence in experimental design in an upper-division analytical chemistry laboratory course](ai-lab-manual-design-increased-confidence-experimental-design.md) — related
 - [ChatGPT-generated art lesson plans pose challenges of impracticality, overlooked safety issues, and required teacher revision time](chatgpt-lesson-plan-challenges-practicality-safety.md) — related
 - [Teachers' tool preferences are stage-dependent, with pre-gen valued for ideation, mid-gen for structuring, post-gen for finalization, motivating hybrid workflows](stage-dependent-preferences-hybrid-workflows.md) — related
+- [GAI tools enriched student ideation, aesthetic development and confidence in architecture and design education, especially for lower-competency learners](gai-tools-ideation-architecture-design-lower-competency.md) — related

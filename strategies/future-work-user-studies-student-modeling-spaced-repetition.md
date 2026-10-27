@@ -49,6 +49,7 @@ The authors recommend a forward-looking agenda for the platform: conduct real-wo
 - [Best practices for RL in education: evaluate live with actual users at scale, look beyond STEM, and target under-served learner groups including children](rl-education-best-practices-live-evaluation-beyond-stem.md)
 - [Collaborative cross-cultural research agenda for validating AI-enabled pedagogical accompaniment](collaborative-agenda-validating-pedagogical-accompaniment.md)
 - [Planned extensions: expanded user studies, expert-in-the-loop RLHF, hybrid retrieval, and hand-tracking-based assessment](hdr-platform-future-work-strategies.md)
+- [Open design directions for adaptive authoring: crowdsourced standards, individual differences, modular customization, path visualization, and instructor real-time control](adaptive-authoring-open-research-directions.md)
 
 ## Examples
 -

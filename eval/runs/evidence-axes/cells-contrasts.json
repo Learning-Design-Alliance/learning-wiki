@@ -46202,5 +46202,41 @@
  "self-explanation\tcreate explanations for one topic\tprovide answers for the other topic": {
   "label": "self-explanation vs answer provision",
   "treatment_is_a": true
+ },
+ "active-learning\tsupplemental instruction section\tno supplemental instruction": {
+  "label": "supplemental instruction vs no supplemental instruction",
+  "treatment_is_a": true
+ },
+ "prompts\tweak-directed agent interventions\tundirected agent interventions": {
+  "label": "weak-directed agent interventions vs undirected agent interventions",
+  "treatment_is_a": true
+ },
+ "scaffolding\tLOGAX hints and feedback\tnot stated": {
+  "label": "Scaffolding vs no stated scaffolding",
+  "treatment_is_a": true
+ },
+ "scaffolding\tintelligent AR tutor\ttraditional AR tutor": {
+  "label": "Intelligent/adaptive tutoring vs traditional tutoring",
+  "treatment_is_a": true
+ },
+ "scaffolding\tintelligent AR tutor with adaptive corrective feedback\ttraditional AR tutor without intelligent support": {
+  "label": "Adaptive corrective feedback with intelligent support vs traditional tutoring without intelligent support",
+  "treatment_is_a": true
+ },
+ "scaffolding\tintelligent AR tutor with adaptive feedback\ttraditional AR tutor with fixed guidance": {
+  "label": "Adaptive feedback vs fixed guidance",
+  "treatment_is_a": true
+ },
+ "scaffolding\tintelligent AR tutor with adaptive feedback\ttraditional AR tutor without intelligent support": {
+  "label": "Adaptive feedback with intelligent support vs traditional tutoring without intelligent support",
+  "treatment_is_a": true
+ },
+ "scaffolding\tpersonalized examples with adaptive feedback\tnon-personalized examples without adaptive feedback": {
+  "label": "Personalized examples with adaptive feedback vs non-personalized examples without adaptive feedback",
+  "treatment_is_a": true
+ },
+ "scaffolding\tpersonalized higher-quality, similar examples with adaptive feedback\tnon-personalized examples and feedback": {
+  "label": "Personalized, higher-quality examples with adaptive feedback vs non-personalized examples with feedback",
+  "treatment_is_a": true
  }
 }

@@ -63,3 +63,4 @@ Country categorization of all 183 publications by author affiliations shows "73%
 - [AIED conference authorship is strongly WEIRD-imbalanced, with 90% of first authors from WEIRD institutions and no African first authors](aied-weird-authorship-imbalance.md) — related
 - [Samples used to investigate human features in AIED research are 94% WEIRD and 62% US, with no African samples](aied-weird-sample-imbalance.md) — related
 - [Top-tier psychology journals show extreme WEIRD dominance: 97% of first authors and 95% of samples](psychology-weird-representation-imbalance.md) — related
+- [ITS authoring tool research is concentrated in academic settings, and 45.45% of included papers conducted empirical studies while illustrative scenarios were the most common method](its-authoring-research-mostly-academic-nonempirical.md) — related

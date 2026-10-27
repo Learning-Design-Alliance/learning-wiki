@@ -9,6 +9,7 @@ generated:
   at: 2026-09-25
 evidence_strength: moderate
 newest_evidence: 2021
+source_checked: 2026-10-27
 recheck_by: 2024
 sources:
   - id: philip-i-pavlik-2021
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: tool and model accuracy changes quickly
+> **Currency** · newest study 2021 · checked against its sources 2026-10-27 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2024**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Across six learning technology datasets, the best-fitting model differed by dataset, showing no specific model is likely best for all circumstances. [→ Philip I. Pavlik 2021](#philip-i-pavlik-2021)
@@ -54,3 +55,5 @@ Cross-dataset model comparison fitting 12 models to six datasets with 100 split-
 - [Models able to weight performance by recency fit better on the Assistments and KDD datasets, without explicit memory-decay terms being necessary](recency-weighting-models-better-assistments-kdd.md) — a narrower finding that bears on this claim
 - MS-BKT performs similarly to classic BKT on held-out data, with classic BKT better on most of six datasets but differences not very large — related
 - Dataset size moderates the LR-versus-DKT comparison: Best-LR dominates in low and medium data regimes and DKT takes over in the high data regime — related
+- [The combined model with both PEV and student-level proportional decay typically fit better than either feature alone](combined-pev-student-proportion-best-fit.md) — related
+- [Learner models with individual-difference features (PEV, student-level proportional correctness) improve cross-validated fit on six educational datasets](individual-difference-features-improve-fit-six-datasets.md) — related

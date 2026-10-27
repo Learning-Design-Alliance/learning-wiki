@@ -14,7 +14,7 @@ grain_size: course
 # AI Tutoring
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 339 claims (153 for, 135 mixed, 51 against) · 229 studies (82 causal, 50 review, 27 design, 26 theoretical, 19 quant-synthesis, 14 associational, 11 qualitative), `q1`–`q4` · 47 of 229 report an effect size · 324 claims rest on one study
+> **Evidence** · 344 claims (156 for, 137 mixed, 51 against) · 231 studies (82 causal, 51 review, 28 design, 26 theoretical, 19 quant-synthesis, 14 associational, 11 qualitative), `q1`–`q4` · 47 of 231 report an effect size · 329 claims rest on one study
 
 ## Description and scope
 
@@ -320,6 +320,11 @@ This pattern is scoped to the tutor's moves within tasks and the handoff to peop
 - [Time spent with bottom-out hints correlates positively with learning, consistent with spontaneous self-explanation](../claims/bottom-out-hint-time-positive-learning-relation.md) [~W]
 - [Understanding of Help Avoidance is evolving: persistence may beat help at low mastery, yet Help Avoidance predicted poorer transfer performance](../claims/help-avoidance-understanding-evolving.md) [~W]
 - [Failure learning and transfer parameters are not sustained in later trials, suggesting repeating the same feedback does not provide sustained assistance](../claims/failure-feedback-not-cumulative-later-trials.md) [~W]
+- [Kulik and Fletcher (2015) found similar-sized ITS improvements to other meta-analyses, with larger effect sizes when tests were tuned to the tutoring system than when standardised tests were used](../claims/kulik-fletcher-2015-its-effect-test-tuning.md) [+M]
+- [VanLehn (2011) found step-based intelligent tutoring systems nearly as effective as average human tutors, and both more effective than no tutoring but less effective than expert human tutors](../claims/vanlehn-2011-step-based-its-nearly-average-human-tutors.md) [+M]
+- [A large-scale USA study of Cognitive Tutors found only limited evidence of relative effectiveness over conventional teaching, with classroom use not strongly controlled](../claims/pane-2014-cognitive-tutor-limited-effectiveness-scale.md) [~W]
+- [Ma et al. (2014) meta-analysis: step-based ITSs outperformed no tutoring and large-group teacher-led instruction, but showed no differences against small-group or one-to-one human tutoring](../claims/ma-2014-its-beats-no-tutoring-large-group-not-small-or-one-to-one.md) [~W]
+- [Dynamically generated proof graphs let LOGAX recognize all correct student solutions and give hints on them](../claims/dynamic-dams-recognize-all-student-solutions.md) [+W]
 
 ## Examples
 - [ChatGPT as a virtual laboratory assistant in a sociotechnical system](../designs/sts-theory-chatgpt-virtual-laboratory-assistant.md) — ChatGPT answers lab questions beside human TAs, not in their place

@@ -26,7 +26,8 @@ A web-based chatbot developed by Marques et al. that uses retrieval-augmented, F
 - [The FACTRIA-aware chatbot received good usability ratings (SUS 70.84) and high usefulness ratings from most of the 11 stakeholders](../claims/factria-chatbot-usability-sus-70-84.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [Cipherbot](cipherbot.md)
 
 ## Key Sources
 - Marques, F., Ortiz-Beltrán, A., Amarasinghe, I., & Hernández-Leo, D. (2026). Responsible Institutional Analytics: Interpreting Bias with AI Support. Journal of Universal Computer Science, 33(6). https://arxiv.org/abs/2610.07205. [doi:10.48550/arxiv.2610.07205](https://doi.org/10.48550/arxiv.2610.07205)

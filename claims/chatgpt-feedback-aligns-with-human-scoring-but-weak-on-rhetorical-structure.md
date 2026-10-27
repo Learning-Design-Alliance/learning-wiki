@@ -56,3 +56,4 @@ Mixed-methods comparison in which 30 first-year EAP students each submitted two 
 - [First-year EAP students prefer a hybrid feedback model combining AI-generated comments with instructor feedback over either source alone](students-prefer-hybrid-ai-instructor-feedback.md) — related
 - [LLM grading performance relative to human graders is mixed: comparable in 12 reviewed cases, worse in 11, with the strongest alignment on short, straightforward tasks](llm-grading-mixed-against-human-raters.md) — a broader claim this one bears on
 - [Zero-shot GenAI feedback quality is statistically comparable to teacher feedback quality](zero-shot-feedback-quality-comparable-to-teacher.md) — related
+- [Marks for ChatGPT-generated essays show no significant difference from participants' overall course mark averages](chatgpt-essay-marks-no-significant-difference-course-average.md) — related

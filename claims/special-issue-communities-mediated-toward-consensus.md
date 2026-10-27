@@ -48,3 +48,4 @@ The authors' reading of the four Special Issue papers (Fong and Slotta; Tao and 
 - [Nearly all peer critique disagreements were resolved, mostly through concession, with co-construction appearing only in soft and mixed disagreements](disagreement-resolution-consensus-concession.md) — related
 - [Premature shared understanding: a group's bypassing of a member's skeptical comment left the social and technology objects misaligned, with partial agreement (Extract 3)](fragmented-premature-shared-understanding.md) — related
 - [The member check did not resolve the dissensus: the distrust item (C4) was the weakest-endorsed confirmatory item, with participants reframing what distrust meant](member-check-c4-weakest-endorsed.md) — related
+- [The special issue's accepted papers illustrate progress toward enabling non-programmer teachers and trainers to author adaptive systems](smart-authoring-enables-non-programmers-adaptive-systems.md) — related

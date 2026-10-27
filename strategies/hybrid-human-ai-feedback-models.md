@@ -50,6 +50,7 @@ The authors propose hybrid feedback models enabling human–AI collaboration in 
 - [Combine GAI tools with traditional methods in a hybrid approach to balance efficient collaboration and critical evaluation](hybrid-gai-traditional-dst-approach.md)
 - [Train AI feedback models on context-specific educational data including student, course and instructor data](train-ai-on-context-specific-educational-data.md)
 - [Integrate ChatGPT as a feedback resource alongside peer feedback for essay writing in higher education](integrate-chatgpt-with-peer-feedback-essays.md)
+- [Pair AI-generated mentoring with human judgment when scaling teacher education](pair-ai-mentoring-with-human-judgment-teacher-training.md)
 
 ## Examples
 -

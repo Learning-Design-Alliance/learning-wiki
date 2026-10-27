@@ -29,7 +29,8 @@ KERMIT is a knowledge-based intelligent tutoring and problem-solving environment
 - [KERMIT was effective in two evaluation studies with university database-course students](../claims/kermit-evaluation-studies-effective.md) [+W]
 
 ## Related Products and Programmes
--
+
+- [ASPIRE](aspire.md)
 
 ## Key Sources
 - Pramuditha Suraweera, Antonija Mitrovic. (2004). An Intelligent Tutoring System for Entity Relationship Modelling. International Journal of Artificial Intelligence in Education. https://telearn.hal.science/hal-00197310

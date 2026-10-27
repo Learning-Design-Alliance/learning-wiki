@@ -13,7 +13,7 @@ generated:
 # Learner-Centered Paradigm of Education
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 23 claims (15 for, 7 mixed, 1 against) · 21 studies (6 causal, 5 quant-synthesis, 4 theoretical, 3 associational, 2 review, 1 qualitative), `q1`–`q4` · 5 of 21 report an effect size · 21 claims rest on one study
+> **Evidence** · 24 claims (15 for, 7 mixed, 2 against) · 22 studies (6 causal, 5 quant-synthesis, 5 theoretical, 3 associational, 2 review, 1 qualitative), `q1`–`q4` · 5 of 22 report an effect size · 22 claims rest on one study
 
 ## Description
 Watson and Reigeluth (2008) argue that most school systems are still organized on an Industrial-Age, sorting-based model: time is held constant (a fixed school year, fixed pace), so achievement is forced to vary — some students master the material, others fall behind and accumulate deficits, and the system's implicit function is to sort students into different tracks rather than ensure everyone reaches mastery. The learner-centered paradigm proposes inverting this: hold **attainment** constant (every learner reaches mastery of each standard) and let **time/pace** vary to fit the individual, alongside person-based (rather than group-based) progression, resource-based (rather than purely teacher-based) instruction, and criterion-based (rather than norm-based) assessment.
@@ -70,6 +70,7 @@ Reigeluth (2011) elaborates the roles that shift under this paradigm. **Teachers
 - [Dividing the 120 pupils into four class-sections by one test would place 51.6 per cent in the wrong section according to the other test](../claims/wrong-section-placement-51-6-percent.md) [+W]
 - [Teaching efficiency is impossible without continuous adjustment of the work to pupils' advancing attainments](../claims/continuous-adjustment-attainments-teaching-efficiency.md) [+W]
 - [Low-achieving students using a personalized learning system learned most when working closely with teachers and least when working alone](../claims/low-achievers-learn-most-with-teachers.md) [~W]
+- [The commentary argues 'learning at your own pace' is a contradiction in terms that presupposes a deficit view of knowledge](../claims/own-pace-contradiction-in-terms.md) [-W]
 
 ## The evidence by question
 

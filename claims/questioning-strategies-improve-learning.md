@@ -155,3 +155,4 @@ Reviewed studies of "wait time" — the duration of pauses separating utterances
 - [Across a review of 50 classroom experiments, lessons with question prompts consistently increased student learning compared to lessons without them](retrieval-practice-classroom-review-consistent-benefits.md) — related
 - [Higher-level quiz questions engage learners in generative activities as well as retrieval](higher-level-quiz-questions-engage-generative-activities.md) — related
 - [Implicit feedback via higher- and lower-order questions showed no significant effect on first-graders' reading comprehension](implicit-question-feedback-no-comprehension-effect.md) — related
+- [Integrating external knowledge improves the quality and complexity of generated questions](external-knowledge-improves-question-quality.md) — related

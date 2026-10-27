@@ -52,3 +52,4 @@ Cross-sectional correlational analysis in the LitCog study of 882 English-speaki
 - [Participants with low health literacy had poorer cognitive functioning in all domains and were more often (very) low-educated](low-health-literacy-participants-older-lower-educated-poorer-cognition.md) — related
 - [Measures of everyday functioning and independent living correlate with psychometric cognition, with stronger relations for fluid reasoning than for crystallized knowledge](fluid-cognition-predicts-independent-living.md) — related
 - [Common health literacy measures largely detect individual differences in cognitive abilities](health-literacy-measures-detect-cognitive-ability-differences.md) — possibly the same claim (merge candidate)
+- [Questionnaire variables showed significant correlations, including between enhanced domain knowledge and beneficial learning experience](questionnaire-correlations-domain-knowledge-experience.md) — related

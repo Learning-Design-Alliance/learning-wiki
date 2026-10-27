@@ -51,3 +51,4 @@ Spearman correlation analysis from the same experiment; the entirely negative bo
 - [LLM use for seeking additional explanations does not significantly impact final grades](llm-explanations-no-significant-grade-impact.md) — related
 - [A downward trend in final grades is observed with increased average LLM use across all task types](downward-grade-trend-increased-average-llm-use.md)
 - [By the final survey wave, using LLMs for debugging and understanding concepts was nearly universal among surveyed students](debugging-and-concept-llm-use-nearly-universal-by-term-end.md)
+- [Students score significantly lower on correcting LLM-generated code than on instructor-designed exam tasks in later terms](students-underperform-llm-debugging-exam-tasks.md) — related

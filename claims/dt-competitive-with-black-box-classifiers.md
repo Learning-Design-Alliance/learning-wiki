@@ -68,3 +68,4 @@ Comparison reported in the Results section across the same four-course module-le
 - [A Decision Tree classifier distinguishes high- from low-quality Wikipedia-based explanations with an F1 score of 80.32% on the validation set](decision-tree-explanation-quality-f1-80.md) — related
 - [The discourse personalization hint-selection model achieves the highest cross-validated accuracy (86.71%) and F1 (84.81%), significantly above all other models](discourse-personalization-hint-selection-best-cv.md) — related
 - [SMOTEENN over- and undersampling produced significantly higher classifier accuracy (p < 0.01) than SMOTE-only scenarios, though the authors judge such classifiers not applicable in real time](smoteenn-denoising-higher-accuracy.md) — related
+- [Machine-learned Sink/Source classifiers classify information roles with F-scores of 0.914 and 0.908 on noisy student discussion text](sink-source-role-classifiers-accuracy.md) — related

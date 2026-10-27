@@ -49,3 +49,4 @@ Gamma regression model of student reasoning (turn-level justifications, if-then 
 - [A QT-based literary intervention reduced teachers' monologic practices (teacher turns, turn allocation, test questions, evaluation) in small-group discussions](qt-intervention-reduces-monologic-teacher-practices.md) — related
 - [The intervention increased students' elaborated explanations and cumulative and exploratory talk](qt-increases-explanations-cumulative-exploratory-talk.md) — related
 - [Some classroom discussion approaches improve text comprehension, but gains are not uniform across approaches and more student talk alone does not produce them](structured-discussion-methods-improve-comprehension.md) — related
+- [Clair did not significantly increase deepening of reasoning (Goal 3), with the What-if talk move rarely triggered](clair-no-effect-deepening-reasoning.md) — reports the opposite

@@ -73,3 +73,4 @@ Group comparison and correlation analysis in the concerns results: students who 
 - [Frequency of AI use predicts AI feedback preference, while comfort with technology and frequency of human feedback predict relative preference for AI over human grading](regression-predictors-of-ai-assessment-preferences.md) — related
 - [Interviews revealed six themes: enhanced efficiency, improved quality, facilitated reflection, increased interaction, improved collaboration, and concerns about over-reliance](gai-dst-interview-six-themes.md) — related
 - [University students report a generally good understanding of GenAI technologies, with highest self-rated knowledge of limitations and lowest for emotional-intelligence limits](students-good-understanding-genai-limitations.md) — related
+- [Students' concerns about GenAI do not differ significantly from neutral, with over-reliance the top-rated concern](genai-concerns-neutral-overreliance-top.md) — reports the opposite

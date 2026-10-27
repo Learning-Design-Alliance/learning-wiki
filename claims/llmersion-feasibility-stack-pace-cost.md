@@ -91,3 +91,4 @@ The article's cost derivation at the 2024 average US residential electricity pri
 - [Households pay substantial recurring sums for private supplementary language education, with Korea at 29.2 trillion won in 2024 and English the leading subject](shadow-education-household-spending-scale.md)
 - [An ELEVATE prototype achieves near real-time end-to-end tutoring interaction on consumer-grade school hardware without cloud GPUs](elevate-prototype-near-real-time-consumer-hardware.md) — related
 - [NF4 4-bit quantization reduces VRAM usage by 38.7% for Qwen-7B and 37.9% for DeepSeek-MoE while maintaining practical response times](nf4-quantization-vram-reduction.md) — related
+- [BM25-based recipe similarity computation runs in real time, averaging 0.8 seconds (sigma 0.1) in the worst case of 100,000 comparisons.](relex-bm25-real-time-similarity.md) — related

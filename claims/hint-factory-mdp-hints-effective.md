@@ -54,3 +54,4 @@ Secondary report: this review article describes Barnes and Stamper (2008), whose
 - [Influence-function diagnostics identify steps 3–8 of the Big-L peg-solitaire board as the most consequential region, with the lowest-β participants showing substantially larger absolute influence values there](rlmm-influence-diagnostics-big-l-steps-3-8.md) — related
 - [K-12 learners preferred incremental hints and multiple attempts over immediately revealed solutions](learners-prefer-incremental-hints-over-solutions.md) — related
 - [Personalized hints raise student success at solving exercises: 60.47% success before second attempt with the discourse model versus 37.93% baseline (p = 0.03)](personalized-hints-improve-success-rate-pilot.md) — related
+- [Dynamically generated proof graphs let LOGAX recognize all correct student solutions and give hints on them](dynamic-dams-recognize-all-student-solutions.md) — related

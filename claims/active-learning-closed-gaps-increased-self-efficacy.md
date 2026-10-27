@@ -54,3 +54,4 @@ The review reports, citing Ballen et al. (2017), a study of underrepresented and
 - [Effects of active learning on achievement gaps vary widely across studies, with a minority of studies showing larger benefits for non-minoritized students](active-learning-gap-effects-vary-across-studies.md) — related
 - [High-intensity active learning narrows achievement gaps far more than low-intensity active learning; intensity of in-class active engagement is positively correlated with narrower gaps](high-intensity-active-learning-narrows-gaps.md) — related
 - [Active Learning Improves Exam Performance](active-learning-improves-exam-performance.md) — related
+- [Underrepresented minority students in the course showed significantly positive individualized treatment effects from supplemental instruction](si-urm-subgroup-positive-ite.md) — related

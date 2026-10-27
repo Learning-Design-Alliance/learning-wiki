@@ -81,8 +81,10 @@ Hints are partial prompts or cues that help learners continue a task without ful
 - [Game-Based Mastery Learning (e.g., Duolingo Pattern)](../patterns/game-based-mastery-learning.md)
 
 ## Examples
+
 - A tutoring system offers a first hint that points to the next subgoal, then a later hint that shows the relevant formula.
 - A writing teacher gives a prompt about evidence quality instead of rewriting the paragraph for the student.
+- [Provide subgoal hints alongside step hints in proof construction](../strategies/subgoal-hints-in-proof-tutoring.md)
 
 ## Key Sources
 - Koedinger, K. R., & Aleven, V. (2007). Exploring the assistance dilemma in experiments with cognitive tutors. *Educational Psychology Review, 19*(3), 239-264. [https://doi.org/10.1007/s10648-007-9049-0](https://doi.org/10.1007/s10648-007-9049-0)

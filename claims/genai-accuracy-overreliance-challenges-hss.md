@@ -77,3 +77,4 @@ Ethics and privacy results (Figure 7): 87.97% rated ethical issues important or 
 - [Concerns about accuracy, reliability, academic integrity, and potential negative effects on cognitive and social development were consistently highlighted across many included studies.](chatgpt-concerns-accuracy-integrity-development.md) — a broader claim this one bears on
 - [Faculty concerns centered on academic integrity (80%) and student over-reliance on AI (70%), and their most requested development topic was AI ethics and academic integrity (70%)](faculty-ai-concerns-integrity-ethics-training-demand.md) — related
 - [Distillation increases misclassification of ambiguous To Some Extent tutor responses as Yes](distillation-increases-ambiguous-yes-bias.md) — related
+- [Students' concerns about GenAI do not differ significantly from neutral, with over-reliance the top-rated concern](genai-concerns-neutral-overreliance-top.md) — related

@@ -52,3 +52,4 @@ The review's analysis of the multiculturalist version, spanning difference to tr
 - [Participatory discourse privileges action and praxis over communication and consensus, and treats elitism as antidemocratic](participatory-discourse-action-praxis.md) — related
 - [Neoliberal discourse recommends market practices in education, which reviewed research links to class privilege and reduced democratic opportunities](neoliberal-discourse-market-education-critique.md) — related
 - [Synthetic cultural environments promoted intercultural competence when combined with suitable classroom instruction (reported by Hall et al., 2014)](synthetic-cultures-promote-intercultural-competence.md) — related
+- [The commentary argues that the 'one size fits all' critique of common curricula mischaracterises both the empirical reality and the professional ideal of education](one-size-fits-all-neither-reality-nor-ideal.md) — related

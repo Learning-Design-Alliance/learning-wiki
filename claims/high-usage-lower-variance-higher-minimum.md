@@ -53,3 +53,4 @@ Regression and descriptive comparison of students grouped by total utterances (b
 - [Structural paths did not differ significantly across AI usage-frequency groups, though exploratory coefficients varied numerically](no-significant-path-differences-across-usage-frequency-groups.md) — related
 - [Students who used LLMs on assignments scored significantly lower than non-users on the first midterm (large effect size), but this gap narrowed and was non-significant on the later midterms](llm-users-lower-midterm1-score-gap-narrowed.md) — related
 - [Student LLM usage patterns varied across data science courses: Course-BD showed the highest frequency and over-reliance with near-zero perceived learning effect](llm-usage-varied-across-data-science-courses.md) — related
+- [Integrating LLMs into data science course feedback systems improved student engagement and learning outcomes](llm-feedback-systems-data-science-engagement-outcomes.md) — related

@@ -68,3 +68,4 @@ Per-topic performance analysis on the 70-question gold set: the abstention class
 - [A few-shot FastFit classifier maps conversational AI teaching assistant questions to 43 curriculum topic labels with 80.0% accuracy on a 70-question gold set](fastfit-few-shot-topic-classification-80-accuracy.md) — related
 - [The FastFit classifier slightly outperforms GPT-4 used directly under the same closed-label prompt on the same gold set (0.800 vs. 0.786 accuracy)](fastfit-outperforms-gpt4-direct-classification.md) — related
 - [Classifiers systematically confuse adjacent engagement levels: social with active, constructive with interactive, and interactive with active](adjacent-engagement-level-misclassification-patterns.md) — related
+- [Student teachers generated 2,181 Cipherbot conversations, dominated by topic inquiries targeting deepening understanding and clarifications](cipherbot-conversation-analytics-2181.md) — related

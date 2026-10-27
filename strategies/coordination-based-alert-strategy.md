@@ -44,6 +44,7 @@ Because the decision-tree analysis showed that coordination actions discriminate
 ## Related Strategies
 
 - [Adaptive Learning](adaptive-learning.md)
+- [Use discussion analytics to alert instructors about students who may need more assistance](instructor-alerts-from-discussion-analytics.md)
 
 ## Examples
 -

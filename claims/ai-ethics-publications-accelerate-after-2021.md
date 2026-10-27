@@ -50,3 +50,4 @@ Descriptive bibliometric analysis of annual publication and citation counts from
 - [Vocabulary showed accelerating linear growth and social communication skills showed decelerating linear growth from preschool to kindergarten, with substantial individual variation](differential-growth-trajectories-vocabulary-versus-social-communication.md) — related
 - [For Han students, metacognitive knowledge followed a quadratic (accelerating) growth model while vocabulary breadth followed a linear growth model, and initially high vocabulary knowledge predicted faster later vocabulary growth](han-mck-quadratic-vk-linear-growth.md) — related
 - [Publications on prior knowledge and learning increased strongly from 1980 to 2021, reaching about 600 new publications per year](prior-knowledge-publication-growth-600-year.md) — related
+- [NQG publications grew each year from 2016 to 2021, indicating the topic remains open](nqg-publication-growth-2016-2021.md) — related

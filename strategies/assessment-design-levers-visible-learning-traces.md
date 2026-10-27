@@ -47,6 +47,7 @@ The article recommends concrete levers: staged submissions (proposal, outline, a
 - [Provide explicit instructional boundary cues, process-oriented assessment, and peer modeling of verification to frame responsible GenAI use](boundary-cues-and-peer-modeling-for-genai-use.md)
 - [Require process transparency artefacts: process logs, prompt records, reflective commentaries and oral defences](process-transparency-artefacts-strategy.md)
 - [Prevent AI-assisted plagiarism through student education, signed declarations, draft submissions, clear guidelines, and close monitoring](educate-and-monitor-to-prevent-ai-plagiarism.md)
+- [Use generative AI as an educator content-creation tool for student critique, supported by explicit guidelines and training](genai-content-creation-for-critique-with-guidelines-and-training.md)
 
 ## Examples
 -

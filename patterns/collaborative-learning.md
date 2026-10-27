@@ -14,7 +14,7 @@ grain_size: lesson
 # Collaborative Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 57 claims (23 for, 31 mixed, 3 against) · 47 studies (15 causal, 7 review, 6 associational, 6 theoretical, 5 quant-synthesis, 5 qualitative, 3 design), `q1`–`q4` · 10 of 47 report an effect size · 55 claims rest on one study
+> **Evidence** · 59 claims (24 for, 32 mixed, 3 against) · 49 studies (15 causal, 8 review, 6 associational, 6 theoretical, 5 quant-synthesis, 5 qualitative, 4 design), `q1`–`q4` · 10 of 49 report an effect size · 57 claims rest on one study
 
 ## Description and scope
 
@@ -138,6 +138,8 @@ This pattern is scoped to pairs and small groups where each member's individual 
 - [Learners who construct good single arguments individually are not always able to apply that competence in comparable collaborative tasks](../claims/solo-argument-competence-not-applied-collaboratively.md) [~W]
 - [Theta-band brain-to-brain coupling increased more steeply during learning in the joint context and was modulated by the presence or absence of statistical regularity](../claims/theta-btbc-increases-joint-context-regularity-modulated.md) [~W]
 - [Collaborative versus individual problem solving during PF showed no significant benefit for young students' conceptual knowledge or number of generated solution ideas](../claims/collaboration-null-effects-pf-young-students.md) [~W]
+- [Pairing several children per computer did not lower learning gains despite weaker individualisation](../claims/two-children-per-computer-gains-not-lower.md) [+W]
+- [Collaborative features of Lab4CE saw very little use in the exploratory study](../claims/lab4ce-collaboration-low-usage.md) [~W]
 
 ## Related Patterns
 - [Collaborative Inquiry](../principles/inquiry-based-learning.md)

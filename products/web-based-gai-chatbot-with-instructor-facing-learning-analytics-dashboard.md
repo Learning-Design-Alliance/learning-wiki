@@ -34,7 +34,8 @@ A login-based web application built with OpenAI's Assistants API that provides c
 - [Students find reflective prompts accompanied by visual elements more actionable and easier to interpret than plain-text prompts](../claims/visual-prompts-more-actionable-than-plain-text.md) [+W]
 
 ## Related Products and Programmes
--
+
+- [Knowledge-based learning analytics dashboard for authoring courses with smart learning content](knowledge-based-learning-analytics-dashboard-for-authoring-courses-with-smart-learning-con.md)
 
 ## Key Sources
 - Hilliger, I., Pérez-Sanagustín, M., González, C., Villalobos, E. and Celis, S. (2026). A GAI-Based Chatbot for Scaffolding Self-Regulated Learning: Insights from a Design-Based Research Approach. Journal of Learning Analytics, 13(1), 74–88. https://doi.org/10.18608/jla.2026.9143

@@ -51,3 +51,4 @@ The review's analysis of the liberal version, the discourse it calls likely the 
 - [An open and democratic classroom climate with discussion and dialogue appears to effectively promote citizenship development among secondary school students](open-democratic-classroom-climate-promotes-citizenship.md) — related
 - [A formal curriculum that includes citizenship projects and courses also appears to be an effective type of citizenship education](formal-curriculum-citizenship-projects-courses-effective.md) — related
 - [Elitist discourse links differentiated education to students' future social roles and is widely critiqued as minimally democratic](elitist-discourse-differentiated-education.md) — related
+- [The commentary argues that the 'one size fits all' critique of common curricula mischaracterises both the empirical reality and the professional ideal of education](one-size-fits-all-neither-reality-nor-ideal.md) — related

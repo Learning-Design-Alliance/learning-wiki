@@ -51,3 +51,4 @@ Theoretical expectation (Expectation 1) argued from a literature review of peer 
 - [Combined Trainer and Synthesizer use is expected to support speaking development and more equitable participation over time](combined-genai-expected-speaking-gains-equity.md) — related
 - [The Trainer is expected to develop feedback literacy capacities](trainer-expected-develop-feedback-literacy.md) — related
 - [The Trainer is expected to make peer comments more specific, criterion-referenced, and evidence-based](trainer-expected-improve-comment-quality.md) — related
+- [The special issue's accepted papers illustrate progress toward enabling non-programmer teachers and trainers to author adaptive systems](smart-authoring-enables-non-programmers-adaptive-systems.md) — related

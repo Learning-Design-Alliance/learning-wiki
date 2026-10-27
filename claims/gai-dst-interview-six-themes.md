@@ -57,3 +57,5 @@ Qualitative thematic analysis of 30-minute semi-structured interviews with 10 ra
 - [Experimental-group students detected AI errors and enacted verification and ethical self-regulation as routine practices](verification-routines-ethical-self-regulation.md) — related
 - [University students who created digital stories with generative-AI help rated their own collaborative problem-solving skills higher than traditionally taught students](gai-assisted-dst-improves-cps-skills.md) — related
 - [University philosophy teachers prioritize fostering students' intellectual growth over transmitting content](philosophy-teachers-prioritize-intellectual-growth-over-content.md) — related
+- [Factor 1 student teachers were confident self-reliant GenAI users who showed limited ethical awareness and reflective practices](f1-self-reliant-limited-ethical-awareness.md) — related
+- [GAI tools enriched student ideation, aesthetic development and confidence in architecture and design education, especially for lower-competency learners](gai-tools-ideation-architecture-design-lower-competency.md) — related

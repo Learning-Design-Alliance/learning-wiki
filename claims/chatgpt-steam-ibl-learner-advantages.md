@@ -60,3 +60,4 @@ The review's synthesis of cross-phase advantages, mentioned in 104 instances acr
 - [The review reports, citing Karamustafaoğlu and Pektaş (2023), that inquiry-based STEM activities significantly enhance students' problem-solving skills and STEM awareness](inquiry-based-stem-activities-enhance-problem-solving-reported.md) — related
 - [Inquiry-based learning strategies in laboratory courses are reported to significantly improve critical thinking skills](inquiry-based-lab-learning-improves-ct.md) — related
 - [GenAI in CS education is argued to enhance student engagement, support equitable learning, and relieve instructional burden](genai-engagement-equity-instructional-burden-benefits.md) — related
+- [Students rate GenAI's creativity enhancement in programming significantly above neutral](genai-creativity-enhancement-perceptions.md) — related

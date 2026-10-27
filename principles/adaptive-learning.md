@@ -36,7 +36,7 @@ sources:
 # Adaptive Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 73 claims (40 for, 29 mixed, 4 against) · 71 studies (24 causal, 18 review, 9 design, 7 quant-synthesis, 7 associational, 4 theoretical, 2 qualitative), `q1`–`q4` · 11 of 71 report an effect size · 66 claims rest on one study
+> **Evidence** · 75 claims (41 for, 30 mixed, 4 against) · 73 studies (24 causal, 19 review, 10 design, 7 quant-synthesis, 7 associational, 4 theoretical, 2 qualitative), `q1`–`q4` · 11 of 73 report an effect size · 68 claims rest on one study
 
 ## Conditional relationship
 
@@ -136,6 +136,7 @@ Re-read 2026-10-15: the claims below were read against the model above and do no
 - [Degree of adaptivity moderates the adaptive teaching effect: only highly adaptive units outperform control, and boost self-efficacy](../claims/degree-of-adaptivity-moderates-adaptive-teaching-effect.md) [+M] — attached 2026-10-22 from Sibley et al. (2025), which proposed "Implement adaptive teaching with high fidelity: apply adaptive elements constantly, since benefits emerge only in highly adaptive units"; tests this page's relationship.
 - [Subject domain moderates the adaptive teaching effect: benefits in languages, none in STEM or humanities](../claims/domain-moderates-adaptive-teaching-effect.md) [~M] — attached 2026-10-22 from Sibley et al. (2025), which proposed "Implement adaptive teaching with high fidelity: apply adaptive elements constantly, since benefits emerge only in highly adaptive units"; tests this page's relationship.
 - [Individual records revealed contrasting specific disabilities within the same pupil across arithmetic operations](../claims/individual-records-specific-disabilities.md) [+W] — attached 2026-10-24 from Buford Johnson (1918), which proposed "Instruction should be devised from elaborated testing built on analysis of individual performance".
+- [Learner models with population-level parameters systematically misestimate the trial of mastery for most students whose learning rates vary](../claims/population-parameters-systematic-mastery-error.md) [+W] — attached 2026-10-27 from Eglington et al. (2022), which proposed "Adaptive instructional systems should include online mechanisms that adjust for systematic learner-model error".
 
 ## Objective and learner-valued goal
 
@@ -193,6 +194,7 @@ Within-system performance, aligned achievement, standardised achievement, delaye
 - [Adaptive task difficulty significantly improved performance for students at non-academic-track schools compared to control](../claims/adaptive-task-difficulty-benefits-nonacademic-track.md) [+W]
 - [Fifty minutes of adaptive n-back training produced small but significant accuracy gains and response-time decreases with large individual differences](../claims/fifty-minute-nback-training-improves-accuracy-and-response-time.md) [+W]
 - [KERMIT observes students' actions and adapts to their knowledge and learning abilities](../claims/kermit-adapts-to-student-actions.md) [+W]
+- [A large-scale USA study of Cognitive Tutors found only limited evidence of relative effectiveness over conventional teaching, with classroom use not strongly controlled](../claims/pane-2014-cognitive-tutor-limited-effectiveness-scale.md) [~W]
 
 ## Related Principles
 - [Cognitive Load Management](cognitive-load-management.md) — adaptation is the primary mechanism for keeping intrinsic load matched to learner expertise over time

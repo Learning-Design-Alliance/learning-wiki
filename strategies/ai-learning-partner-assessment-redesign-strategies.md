@@ -53,6 +53,7 @@ The review's recommendations section advises instructors to proactively incorpor
 - [Embed ethical inquiry into AI-supported instruction by having learners compare AI-generated texts with peer-reviewed sources](compare-ai-texts-with-peer-reviewed-sources.md)
 - [Embed GenAI into existing pedagogical strategies instead of undertaking full curriculum redesign](embed-genai-into-existing-pedagogical-strategies.md)
 - [Redesign assessments to require critical thinking, originality, interactive activities, and real-time or proctored formats](redesign-assessments-to-resist-chatgpt.md)
+- [AI-generated-essay-then-critical-evaluation task sequence for teaching critical evaluation skills](ai-generate-then-critically-evaluate-task-sequence.md)
 
 ## Examples
 -

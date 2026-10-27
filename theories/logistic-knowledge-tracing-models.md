@@ -17,7 +17,7 @@ sources:
 # Logistic Knowledge Tracing Models (LFA, PFA, KTM)
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The survey's logistic branch covers Learning Factor Analysis, Performance Factor Analysis and Knowledge Tracing Machines. "Logistic models represent the probability of students cor- rectly answering exercises as a logistic function of the student and KC parameters." LFA uses initial knowledge, KC easiness and KC learning rate; PFA uses prior failures, prior successes and KC easiness; KTM uses factorization machines to encode side information about exercises or students.
@@ -37,7 +37,8 @@ The survey's logistic branch covers Learning Factor Analysis, Performance Factor
 - Monitoring students' evolving knowledge states on knowledge concepts and predicting performance on future exercises
 
 ### Claims
-- 
+
+- [EPFA estimates fewer trials to mastery for above-average students and more trials for below-average students relative to standard PFA](../claims/epfa-mastery-trials-by-student-level.md) [~W]
 
 ## Related Theories
 - [Knowledge Tracing Model Taxonomy](knowledge-tracing-model-taxonomy.md)

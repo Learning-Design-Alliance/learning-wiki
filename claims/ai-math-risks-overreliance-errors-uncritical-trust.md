@@ -210,3 +210,5 @@ Review synthesis on uncritical trust in AI outputs. The authors conclude that "u
 - [A perspective article warns that students risk overreliance on LMFM outputs and that overuse may impede critical thinking, research skills, and independent problem-solving](lmfm-overreliance-impedes-critical-thinking.md) — related
 - [Debugging GenAI-generated code fosters critical, reflective, logical, and adaptive thinking skills](debugging-genai-code-fosters-thinking-skills.md) — related
 - [Overreliance on GenAI risks diminishing higher-order thinking skills and programming logic](genai-overreliance-risks-hots-programming-logic.md) — related
+- [Factor 3 student teachers were uncritical users whose agency was almost completely subverted to the GenAI system](f3-uncritical-reliant-diminished-agency.md) — a narrower finding that bears on this claim
+- [LLMs show discoverability bias: they accurately identify only high-quality open-ended biology responses and miss nuanced misconceptions](llm-discoverability-bias-open-ended-biology-assessment.md) — a narrower finding that bears on this claim

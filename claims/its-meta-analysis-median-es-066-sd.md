@@ -67,3 +67,4 @@ Supplementary random-effects weighted analysis with evaluation report as unit, u
 - [The DARPA Digital Tutor, an ITS for U.S. Navy information systems technicians, produced the largest effects in the data set (average ES of 1.97 and 3.18 in two summative evaluations)](darpa-digital-tutor-largest-its-effects.md) — a narrower finding that bears on this claim
 - [Intelligent tutoring systems improve achievement over non-individualised instruction](adaptive-learning-improves-outcomes.md) — related
 - [ITS groups outperformed conventional-instruction controls in 92% of the 50 evaluations, with gains above 0.25 SD in 78%](its-beat-controls-in-92-percent-of-evaluations.md) — a narrower finding that bears on this claim
+- [Kulik and Fletcher (2015) found similar-sized ITS improvements to other meta-analyses, with larger effect sizes when tests were tuned to the tutoring system than when standardised tests were used](kulik-fletcher-2015-its-effect-test-tuning.md) — related

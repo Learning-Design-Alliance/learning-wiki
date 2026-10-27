@@ -51,6 +51,7 @@ The article recommends that system developers and LA researchers incorporating L
 - [Implement AI scoring of OEQs through iterative rubric engineering with humans in the loop checking validity, reliability, reproducibility, and bias](iterative-rubric-engineering-human-in-loop-ai-scoring.md)
 - [Integrate co-design and continuous feedback loops into AI evaluation processes](co-design-feedback-loops-ai-evaluation.md)
 - [AI system developers should ensure human-centric design, institutional leaders should stay updated on global AI regulations, and LA experts should engage policymakers through dialogue](human-centric-ai-and-policymaker-dialogue-practices.md)
+- [Human-in-the-loop instructor control as a design direction for adaptive learning systems](human-in-loop-instructor-realtime-adaptive-control.md)
 
 ## Examples
 -

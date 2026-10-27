@@ -54,3 +54,4 @@ Case study by Simmhan and Kulkarni (2025) at the Indian Institute of Science, Ba
 - [A field study with 10 faculty across two institutions observed a 25% reduction in administrative load and improved LMS data utilization from agentic teaching-assistant systems](agentic-teaching-assistant-25-percent-admin-load-reduction.md) — related
 - [A three-week MALA deployment recorded 62 distinct usernames across 128 conversations, with 63% of conversations resolved or partially resolved](mala-deployment-62-users-63-percent-resolved.md) — related
 - [In deployment, 13% of sampled LLM agent responses were faulty and 37% very useful, with response quality improving over weeks of use](llm-agent-response-quality-evaluation.md) — related
+- [Student teachers generated 2,181 Cipherbot conversations, dominated by topic inquiries targeting deepening understanding and clarifications](cipherbot-conversation-analytics-2181.md) — related

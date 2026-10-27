@@ -54,3 +54,4 @@ This is the authors' characterizing statement, not an empirical result: despite 
 - Under standard BKT with non-degenerate parameters, the mastery probability stays above the learn rate even after unboundedly many incorrect responses — related
 - [A multi-skill prior strategy yielded lower prediction error in 33 of 42 problem sets](multi-skill-prior-strategy-best-prediction-error.md) — related
 - [Individualized Knowledge Tracing parameters fit student data significantly better and change mastery-learning practice decisions for many students](individualized-kt-parameters-change-practice-decisions.md) — related
+- [Learner models with population-level parameters systematically misestimate the trial of mastery for most students whose learning rates vary](population-parameters-systematic-mastery-error.md) — a narrower finding that bears on this claim

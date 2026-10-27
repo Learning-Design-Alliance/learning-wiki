@@ -58,3 +58,4 @@ Descriptive summarisation of usability and acceptability questionnaires complete
 - [Learner acceptance of AI simulations is generally high, with System Usability Scale scores of 61.6 to 78.56 and 72%-93% willingness to recommend](ai-simulation-high-learner-acceptance.md) — a broader claim this one bears on
 - [Students rated AISSA's usability as excellent, with an average SUS score of 83.38 from 30 of 46 pilot students](aissa-sus-usability-83.md) — related
 - [Students rated Zoo U highly for engagement and likeability, with every usability area rated at least 3.8 on a four-point scale](zoo-u-high-student-engagement-likeability.md) — related
+- [Students reported positive usability and acceptance of MentorChat](mentorchat-positive-usability-acceptance.md) — related

@@ -57,3 +57,4 @@ Questionnaire study with 30 participants, all with prior STEM teaching experienc
 - [In a usability study, 12 U.S. STEM teachers rated all generated learning interactives 7 or above for usability, averaging above 8.1, with 3 of 36 requests deemed too low quality to present](teacher-usability-study-average-rating-above-8-1.md) — related
 - [Students rated Zoo U highly for engagement and likeability, with every usability area rated at least 3.8 on a four-point scale](zoo-u-high-student-engagement-likeability.md) — related
 - [In preliminary user acceptance testing, 84% of participants rated Taklif.AI's personalization feature as beneficial](uat-84-percent-rate-personalization-beneficial.md) — related
+- [Students reported positive usability and acceptance of MentorChat](mentorchat-positive-usability-acceptance.md) — related

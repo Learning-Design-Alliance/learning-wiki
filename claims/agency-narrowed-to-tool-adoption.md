@@ -72,3 +72,4 @@ The review reports, citing Zhang et al. (2025), that "pre-service teachers had a
 - [The review argues that the dominance of adaptive learning within AI integration undermines educational goals and limits student agency and creativity](adaptive-learning-dominance-limits-student-agency.md) — related
 - [Despite a student's claims of purely human authorial agency, posthumanist analysis of his AI-mediated revision shows meaning co-produced through human-AI entanglement](zhimo-revision-meaning-negotiation.md) — related
 - [Teacher professional judgement is represented in AI ethics literature as an ethical and interpretive capacity central to responsible AI use, not a technical skill to be replaced](teacher-judgement-ethical-interpretive-capacity.md) — reports the opposite
+- [The authors argue pre-GenAI acceptance frameworks such as TAM cannot account for student agency complexities with GenAI](tam-insufficient-pre-genai-frameworks.md) — related

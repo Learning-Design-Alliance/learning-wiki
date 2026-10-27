@@ -71,3 +71,4 @@ Evaluation of the Vantage collaboration protocol with 188 Prolific-recruited par
 - [Judges' ratings on the Thorndike handwriting scale agree closely, and averaged ratings give a constant determination](thorndike-scale-judge-agreement.md) — related
 - [Multi-label classification of open-ended course feedback was challenging even for expert human annotators who developed the label set, with average inter-rater Jaccard similarity of 81.24%](multi-label-survey-classification-challenging-expert-annotators.md) — related
 - [ASR-based item-level accuracy scores show moderate agreement with human raters in a Dutch word decoding and passage reading task](asr-accuracy-moderate-agreement-human-raters.md) — related
+- [The rule-based recipe annotation system reaches near-perfect inter-annotator agreement (Cohen's Kappa 0.85) and average accuracy 0.95 in a validation on sampled recipe segments.](relex-annotation-validation-kappa-accuracy.md) — related

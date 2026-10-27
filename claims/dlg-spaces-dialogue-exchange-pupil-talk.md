@@ -69,3 +69,4 @@ The review's synthesis of all 46 studies for RQ1 reports that "In all the articl
 - [Some classroom discussion approaches improve text comprehension, but gains are not uniform across approaches and more student talk alone does not produce them](structured-discussion-methods-improve-comprehension.md) — related
 - [Discussion participation shifted from teacher-driven exchanges with few contributors to broader student participation and student-to-student argumentation](discussion-participation-shift-over-module.md) — related
 - [Nunn argues the school's main function is to socialize its pupils, and that this does not contradict cultivating individuality](nunn-school-socializes-without-contradicting-individuality.md) — related
+- [Agent interventions induced a substantial share of explicit dialogue contributions](agent-interventions-induced-explicit-contributions.md) — related

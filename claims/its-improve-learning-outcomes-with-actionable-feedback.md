@@ -59,3 +59,4 @@ The paper, a workshop-informed white paper and curriculum-oriented position arti
 - [Intelligent tutoring systems with dynamic student modeling increase learning gains over regular instruction](its-dynamic-modeling-effective.md) — related
 - [ITS augmentation: meta-analyses find medium to large learning benefits of ITS over unsupported learning and small to medium gains over less adaptive computer-assisted learning](its-augmentation-benefits-over-unsupported-learning.md) — related
 - [KERMIT observes students' actions and adapts to their knowledge and learning abilities](kermit-adapts-to-student-actions.md) — a narrower finding that bears on this claim
+- [VanLehn (2011) found step-based intelligent tutoring systems nearly as effective as average human tutors, and both more effective than no tutoring but less effective than expert human tutors](vanlehn-2011-step-based-its-nearly-average-human-tutors.md) — a narrower finding that bears on this claim

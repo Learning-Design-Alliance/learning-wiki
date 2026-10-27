@@ -39,6 +39,7 @@ The article recommends the academic AIED community make clear the difference bet
 ## Related Strategies
 
 - [Conduct ed-tech pilots by articulating the instructional need, setting clear product-review criteria, involving educators in planning, supporting educators throughout, gathering data from all users, deciding from data, negotiating purchasing options, and sharing results](rapid-cycle-edtech-pilot-best-practices.md)
+- [Six collective-responsibility strategies for AIED researchers facing commercial misuse](aied-collective-responsibility-strategies.md)
 
 ## Examples
 -

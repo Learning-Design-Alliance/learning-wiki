@@ -47,6 +47,7 @@ The author proposes running a model like TRACE continuously as student grade dat
 - [Intrusive, data-driven advising: track unregistered students, audit degree plans, and bring advising directly to students](intrusive-data-driven-advising-usc.md)
 - [Iterative semester-long improvement cycles combining feature integration with real-world testing](iterative-semester-testing-improvement-cycles.md)
 - [Use genetic prediction early to identify children likely to struggle and deliver early, individualized prevention and learning programs](gps-early-identification-precision-education.md)
+- [Use individualized treatment effect estimates as an early warning system to advise students into an intervention at the start of a course](ite-early-warning-advise-into-intervention.md)
 
 ## Examples
 -
