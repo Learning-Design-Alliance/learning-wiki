@@ -66,3 +66,4 @@ The authors argue from existing MOOC analytics literature that, using data deriv
 ## Related Claims
 - [Algorithmic bias and data privacy are central ethical risks of AI in adult education](algorithmic-bias-privacy-risks-adult-education.md) — a broader claim this one bears on
 - [Behavioural engagement indicators such as platform interaction and task completion do not by themselves establish cognitive engagement with mathematical ideas](behavioural-engagement-not-cognitive-engagement.md) — related
+- [A student model that is easily ported to another ITS may still fail there, because student behaviour depends on domain, interface, and the system that generated training data, so ported models must be re-tested.](ported-models-context-sensitive-must-be-retested.md) — related

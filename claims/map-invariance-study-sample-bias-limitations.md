@@ -70,3 +70,4 @@ Stated limitation: the pooled state samples were heterogeneous by gender and eth
 - [Participant samples in AI trust research skew WEIRD: mostly Western, adult, university-educated participants, limiting external validity](weird-bias-ai-trust-research.md) — related
 - Establishing longitudinal factorial invariance is neither sufficient nor necessary for examining developmental change — related
 - [Sample selection bias may have led the study to overestimate language outcomes for adolescents with long-term CI use](ci-study-selection-bias-overestimate.md) — related
+- [The time model has group invariance, so it captures problem difficulty without the selection bias that biases mean solving times](group-invariance-time-model-difficulty.md) — related

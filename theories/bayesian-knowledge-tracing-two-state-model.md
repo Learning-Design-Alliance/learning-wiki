@@ -21,7 +21,7 @@ sources:
 # Bayesian Knowledge Tracing (Two-State Hidden Markov Model)
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 15 claims (5 for, 7 mixed, 3 against) · 9 studies (3 causal, 2 associational, 2 design, 1 review, 1 theoretical), `q1`–`q3` · 0 of 9 report an effect size · 15 claims rest on one study
+> **Evidence** · 16 claims (5 for, 8 mixed, 3 against) · 10 studies (3 causal, 3 design, 2 associational, 1 review, 1 theoretical), `q1`–`q3` · 0 of 10 report an effect size · 16 claims rest on one study
 
 ## Description
 The survey describes Bayesian Knowledge Tracing (BKT), introduced by Corbett and Anderson, as a special case of the Hidden Markov Model with learning parameters (transition, forgetting) and performance parameters (guess, slip) plus an initial mastery probability. "BKT operates within a two-state student modeling framework: knowledge is either learned or unlearned, and there is no forgetting once a student has mastered the knowledge." Dynamic Bayesian knowledge tracing extends it to model hierarchies and relationships among knowledge concepts jointly.
@@ -66,6 +66,7 @@ The survey describes Bayesian Knowledge Tracing (BKT), introduced by Corbett and
 - [Individualized Knowledge Tracing parameters fit student data significantly better and change mastery-learning practice decisions for many students](../claims/individualized-kt-parameters-change-practice-decisions.md) [~W]
 - [Standard knowledge tracing models in use do not allow individual learning rates or individualized initial knowledge](../claims/standard-knowledge-tracing-lacks-individualization.md) [-W]
 - [Simulation study shows the HMM recovers the true transition day within one day in 88% of cases](../claims/hmm-simulation-reliability-transition-day.md) [~W]
+- [Split-half stability analysis shows fitted learning-rate parameters are meaningful, with Spearman correlations between 0.5 and 0.7 across independent data halves](../claims/split-half-learning-rate-stability.md) [~W]
 
 ## The evidence by question
 - *Does choosing practice or scaffolding by BKT's mastery estimate improve learning or reduce the practice needed, compared with fixed or random sequencing, and for whom?* [Adaptive scaffolding policies (BKT and DRL) significantly improve posttest performance over a non-adaptive control in a logic ITS](../claims/adaptive-icap-scaffolding-improves-posttest-logic-tutor.md) [+M]
@@ -88,6 +89,7 @@ The survey describes Bayesian Knowledge Tracing (BKT), introduced by Corbett and
 ## Examples
 
 - [Fit the combined parameter A and fix P(G) or P(L0) externally as an alternative to Dirichlet priors when fitting the BKT HMM](../strategies/fit-a-fix-one-parameter-alternative-to-dirichlet-priors.md)
+- [Problem Solving Tutor](../products/problem-solving-tutor.md)
 
 ## Key Sources
 - Shuanghong Shen, Qi Liu, Zhenya Huang, Yonghe Zheng, Minghao Yin, Minjuan Wang, and Enhong Chen. (2021). A Survey of Knowledge Tracing: Models, Variants, and Applications. https://arxiv.org/abs/2105.15106

@@ -51,3 +51,4 @@ Process-data analysis of hints and errors over time in the fractions ITS study; 
 - [Error rates per completed problem-solving step did not significantly differ between conditions](no-difference-error-rate-log.md) — reports the opposite
 - [Collaboration facilitates learning only under specific knowledge and experience conditions; with advanced learners it can be detrimental via the expertise reversal effect](collaboration-beneficial-conditions-expertise-reversal.md) — a broader claim this one bears on
 - [4th and 5th grade students learning fractions with an ITS show significant learning gains in individual, collaborative, and combined conditions](all-conditions-significant-fractions-its-gains.md) — related
+- [Students rarely request on-demand hints in this tutor, with no significant differences between conditions or proficiency groups](on-demand-hint-requests-rare-and-equivalent.md) — related

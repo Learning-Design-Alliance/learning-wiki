@@ -52,3 +52,5 @@ The editorial reports, citing Haake and Pfister, a semester-long computer-scienc
 - [A three-phased collaboration script leads distance students to provide more and longer input in grounding discussions, with the structured interface further increasing input length](script-increases-grounding-input-amount-length.md) — related
 - [No significant differences between conditions in the quantity or quality of discussion summaries](no-script-effect-on-summary-quantity-quality.md) — related
 - [Technology affordance conditions, manipulated via device-to-student ratio and scripts, shape role emergence, role coordination, and group structure in collaboration](device-ratio-affordances-role-interaction.md) — related
+- [No differences in quality and correctness of final energy-chain diagrams between interface conditions](no-difference-final-diagram-quality-interfaces.md) — related
+- [Structured CSCL communication interfaces produced more communicative acts and more symmetrical participation than free chat](structured-cscl-interface-acts-and-symmetry.md) — related

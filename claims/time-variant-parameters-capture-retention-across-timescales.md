@@ -49,3 +49,4 @@ Model-fitting analysis in which data were split into bins of equal width on a lo
 - [Optimal ACT-R parameter values change systematically and predictably with the length of the between-session interval](parameters-vary-systematically-with-interval.md) — a narrower finding that bears on this claim
 - [Extrapolating from parameters fitted to a restricted range of between-session intervals produces worse predictions than time-variant fits](restricted-range-fits-extrapolate-poorly.md) — a narrower finding that bears on this claim
 - [A single time-invariant ACT-R forgetting function cannot simultaneously capture recall accuracy on short and long between-session intervals](single-forgetting-function-fails-across-timescales.md) — related
+- [Split-half stability analysis shows fitted learning-rate parameters are meaningful, with Spearman correlations between 0.5 and 0.7 across independent data halves](split-half-learning-rate-stability.md) — related

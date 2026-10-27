@@ -46330,5 +46330,113 @@
  "scaffolding\tpersonalized and transparent automated guidance\tless personalized and less transparent automated guidance": {
   "label": "More personalized and transparent automated guidance vs less personalized and transparent automated guidance",
   "treatment_is_a": true
+ },
+ "autonomy-support\tHigh-Agency condition\tLow-Agency condition": {
+  "label": "High-agency vs low-agency",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tHigh-Agency condition post-test\tHigh-Agency condition pre-test": {
+  "label": "Post-test vs pre-test",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tLow-Agency adaptive selection\tHigh-Agency free selection": {
+  "label": "High-agency free selection vs low-agency adaptive selection",
+  "treatment_is_a": false
+ },
+ "autonomy-support\tLow-Agency condition\tHigh-Agency condition": {
+  "label": "High-agency vs low-agency",
+  "treatment_is_a": false
+ },
+ "autonomy-support\tLow-Agency condition post-test\tLow-Agency condition pre-test": {
+  "label": "Post-test vs pre-test",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tITS-enabled web problems with feedback\tsame multi-step real-data problems without ITS feedback": {
+  "label": "feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tGPT-4 few-shot rephrasing\thuman rephrasing": {
+  "label": "GPT-generated vs human-generated feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tGPT-4 few-shot rephrasing\thuman-expert rephrasing": {
+  "label": "GPT-generated vs human-generated feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tGPT-4 zero-shot rephrasing\thuman rephrasing": {
+  "label": "GPT-generated vs human-generated feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tGPT-4-rephrased incorrect responses\thuman-expert-rephrased responses": {
+  "label": "GPT-generated vs human-generated feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tdynamically generated feedback\tnon-NLP feedback": {
+  "label": "Dynamically generated vs non-NLP feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tdynamically generated feedback\tnon-NLP feedback condition": {
+  "label": "Dynamically generated vs non-NLP feedback",
+  "treatment_is_a": true
+ },
+ "gamification\tPersonalized gamification\tOSFA gamification": {
+  "label": "personalized gamification vs one-size-fits-all gamification",
+  "treatment_is_a": true
+ },
+ "gamification\tmultidimensionally personalized gamification\tone-size-fits-all gamification": {
+  "label": "personalized gamification vs one-size-fits-all gamification",
+  "treatment_is_a": true
+ },
+ "gamification\tmultidimensionally personalized gamification\tone-size-fits-all points, badges, and leaderboards": {
+  "label": "personalized gamification vs one-size-fits-all gamification",
+  "treatment_is_a": true
+ },
+ "gamification\tmultidimensionally personalized gamification for female users\tone-size-fits-all gamification for female users": {
+  "label": "personalized gamification vs one-size-fits-all gamification",
+  "treatment_is_a": true
+ },
+ "gamification\tmultidimensionally personalized gamification for technical-degree students\tone-size-fits-all gamification": {
+  "label": "personalized gamification vs one-size-fits-all gamification",
+  "treatment_is_a": true
+ },
+ "gamification\tmultidimensionally personalized gamification for users holding a technical degree\tone-size-fits-all gamification for users holding a technical degree": {
+  "label": "personalized gamification vs one-size-fits-all gamification",
+  "treatment_is_a": true
+ },
+ "gamification\tmultidimensionally personalized gamification for users preferring adventure games or single-playing\tone-size-fits-all gamification for users preferring adventure games or single-playing": {
+  "label": "personalized gamification vs one-size-fits-all gamification",
+  "treatment_is_a": true
+ },
+ "gamification\tpersonalized gamification\tOSFA gamification": {
+  "label": "personalized gamification vs one-size-fits-all gamification",
+  "treatment_is_a": true
+ },
+ "media-design\tAssertions\tMessages": {
+  "label": "Assertions vs messages",
+  "treatment_is_a": true
+ },
+ "media-design\tAssertions interface\tMessages interface": {
+  "label": "Assertions vs messages",
+  "treatment_is_a": true
+ },
+ "media-design\tAssertions unsolicited hints\tMessages unsolicited hints": {
+  "label": "Assertions vs messages",
+  "treatment_is_a": true
+ },
+ "media-design\tAssertions: unsolicited hints shown as partially worked steps in the workspace\tMessages: text-based unsolicited hints shown after inactivity": {
+  "label": "Partially worked-step hints vs text-based hints",
+  "treatment_is_a": true
+ },
+ "simulation\t5% random subsets of the test data, including a degraded autograder with 20% of correct predictions flipped\tfull test-data performance or non-degraded autograder": {
+  "label": "simulated/degraded evaluation vs full/accurate evaluation",
+  "treatment_is_a": true
+ },
+ "worked-examples\texample-based curriculum\ttraditional instruction": {
+  "label": "worked examples vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "worked-examples\tworked examples\ttraditional lecture-style instruction": {
+  "label": "worked examples vs traditional instruction",
+  "treatment_is_a": true
  }
 }

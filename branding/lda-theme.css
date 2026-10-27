@@ -355,3 +355,95 @@ body[data-md-color-primary="custom"] {
 .lt-main {
   width: 100%;
 }
+
+/* The long-tail section menu (assets/javascripts/lt-nav.js, written by build_longtail.py). It is
+ * built in the browser from one shared, cached file, so a long-tail page carries a script tag
+ * rather than the menu. Wide screens show it as a sticky column beside the page, as the curated
+ * pages show Material's sidebar; narrow ones open it from the header's Menu button. */
+.lt-nav-toggle {
+  display: none;
+  font: inherit;
+  color: inherit;
+  background: none;
+  border: 1px solid var(--lda-rule);
+  border-radius: 0.2rem;
+  padding: 0.2rem 0.5rem;
+  margin-right: 0.6rem;
+  cursor: pointer;
+}
+.lt-nav {
+  font-size: 0.7rem;
+  line-height: 1.5;
+}
+.lt-nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.lt-nav ul ul {
+  margin: 0.15rem 0 0.5rem;
+}
+.lt-nav li {
+  margin: 0.15rem 0;
+}
+.lt-nav a {
+  color: var(--md-default-fg-color--light);
+  text-decoration: none;
+}
+.lt-nav a:hover,
+.lt-nav a:focus {
+  color: var(--lda-lapis);
+  text-decoration: underline;
+}
+.lt-nav .lt-nav__current {
+  color: var(--lda-lapis);
+  font-weight: 700;
+}
+.lt-nav__group {
+  display: block;
+  margin-top: 0.6rem;
+  font-family: "DM Mono", ui-monospace, Menlo, monospace;
+  text-transform: uppercase;
+  letter-spacing: 0.07em;
+  font-size: 0.6rem;
+  color: var(--lda-lapis);
+}
+.lt-nav__letters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.1rem 0.45rem;
+  margin: 0.3rem 0 0.4rem 0.4rem;
+  font-size: 0.62rem;
+}
+@media screen and (min-width: 76.25em) {
+  .lt-body {
+    display: flex;
+    justify-content: center;
+    gap: 1.5rem;
+  }
+  .lt-nav {
+    flex: 0 0 12rem;
+    position: sticky;
+    top: 1rem;
+    align-self: flex-start;
+    max-height: calc(100vh - 2rem);
+    overflow-y: auto;
+    padding: 1rem 0 2rem 1rem;
+  }
+  .lt-body .lt-main {
+    margin: 0;
+  }
+}
+@media screen and (max-width: 76.24em) {
+  .lt-has-nav .lt-nav-toggle {
+    display: inline-block;
+  }
+  .lt-nav {
+    display: none;
+    padding: 0.6rem 1.2rem 0.8rem;
+    border-bottom: 1px solid var(--lda-rule);
+  }
+  .lt-nav-open .lt-nav {
+    display: block;
+  }
+}

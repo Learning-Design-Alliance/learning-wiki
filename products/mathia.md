@@ -32,7 +32,8 @@ MATHia is Carnegie Learning's adaptive mathematics intelligent tutoring system t
 - [Rewriting MATHia word problems for struggling readers, by human experts or LLMs, sped completion by 30% and improved mastery rate](../claims/rewritten-word-problems-faster-completion-mastery.md) [+W]
 
 ## Related Products and Programmes
--
+
+- [Problem Solving Tutor](problem-solving-tutor.md)
 
 ## Key Sources
 - Murphy, A. (2026, July). Classroom-Based experimentation in a digital learning platform. Digital Promise. https://doi.org/10.51388/20.500.12265/306

@@ -78,3 +78,4 @@ The article argues algorithms may dismiss contradicting data if it is in the min
 - [Assessments like PISA-VET risk reinforcing inequalities in VET if underlying socioeconomic inequities are unaddressed](pisa-vet-equity-risk.md) — a narrower finding that bears on this claim
 - [A narrow focus on cognitive outcomes in evaluating educational inequality may perpetuate or increase inequality](cognitive-outcome-focus-may-perpetuate-inequality.md) — related
 - [EEG data processing steps such as epoch rejection may produce race-based exclusion of participants, because styles like scalp braids make it more likely interpolation thresholds are exceeded](epoch-rejection-race-based-data-exclusion.md) — a narrower finding that bears on this claim
+- [AIED harms are relational, arising from datafication reductions and falling hardest on less privileged groups](aied-harms-relational-differential.md) — related

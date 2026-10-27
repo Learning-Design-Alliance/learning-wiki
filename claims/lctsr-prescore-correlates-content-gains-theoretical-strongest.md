@@ -62,3 +62,4 @@ Correlational analysis over two years of conceptual physics courses relating pre
 - [mPFC activity during schema-related encoding predicts normalized second-year course grades, with no such relation for MTL activity](mpfc-schema-encoding-predicts-grades.md) — related
 - [Non-STEM majors in conceptual physics and astronomy courses score significantly lower pre-instruction on the LCTSR than STEM majors](non-stem-lower-lctsr-pre-scores-than-stem.md) — related
 - [The AI-tutoring advantage holds across prior-ability and scientific-attitude subpopulations](ai-tutor-advantage-holds-subpopulations.md) — reports the opposite
+- [Low Prior Knowledge students achieved significantly higher normalized learning gains than High Prior Knowledge students](lpk-normalized-gain-exceeds-hpk.md) — related

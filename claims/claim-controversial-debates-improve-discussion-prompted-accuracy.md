@@ -104,3 +104,4 @@ Same mixed-effects analysis. The collaborating-modes row reports "(-8.420, -0.25
 ## Related Claims
 - [The number of conflicting labels before discussion shows no relationship with accuracy gains from AI agent discussions, while post-discussion conflict frequency negatively predicts gains](claim-conflicting-labels-before-discussion-no-gain.md) — related
 - [Undecidable labels before discussion predict accuracy gains from AI agent discussions, but persistent undecidable labels after discussion signal smaller gains](claim-undecidable-labels-signal-discussion-gains.md) — related
+- [Debating freely before re-analysing the debate as a diagram was more beneficial than concurrent discussion and diagram co-creation](debate-then-diagram-sequencing-beneficial.md) — related

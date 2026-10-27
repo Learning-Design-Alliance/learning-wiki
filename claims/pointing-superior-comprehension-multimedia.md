@@ -52,3 +52,4 @@ The review reports the eye-tracking study by Park et al. (2023) comparing tracin
 - [Mimicking tracing and pointing gestures on a touchscreen during timed multimedia worked examples hindered adolescent learners' geometry learning](touchscreen-tracing-hinders-timed-worked-examples.md) — related
 - [Pointing outperformed tracing on the terminology test, while neither touch-based group differed significantly from the no-touch group on terminology](pointing-beats-tracing-terminology-only.md) — related
 - [Observing typical gestures significantly benefits narrative comprehension compared with atypical or no gestures, which do not differ significantly](typical-gestures-benefit-narrative-comprehension.md) — related
+- [Model tracing is superior for targeted, high-quality remediation, and this superiority increases with the complexity of the solution process goal structure](model-tracing-superior-remediation-increases-with-goal-structure-complexity.md) — related

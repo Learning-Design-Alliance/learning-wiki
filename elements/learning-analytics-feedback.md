@@ -13,7 +13,7 @@ generated:
 # Learning Analytics-Driven Feedback
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 67 claims (24 for, 31 mixed, 12 against) · 56 studies (18 review, 17 associational, 8 theoretical, 5 design, 4 causal, 4 qualitative), `q1`–`q3` · 4 of 56 report an effect size · 64 claims rest on one study
+> **Evidence** · 69 claims (24 for, 32 mixed, 13 against) · 58 studies (18 review, 18 associational, 9 theoretical, 5 design, 4 causal, 4 qualitative), `q1`–`q3` · 4 of 58 report an effect size · 66 claims rest on one study
 
 ## Description
 In face-to-face instruction, a teacher can visually notice disengagement or confusion; a distance instructor cannot, and many learners fail to recognize their own need for help or fail to seek it even when it is available ([Baker & Inventado, 2016](https://edtechbooks.org/lidtfoundations/educational_data_mining_and_learning_analytics)). Educational data mining (EDM) and learning analytics (LA) address this by mining the large amounts of interaction data online and distance courses generate — content-management, discussion-forum, gradebook, and clickstream data — to build models that predict which learners are at risk and to surface feedback that would otherwise depend on an instructor noticing in person.
@@ -113,6 +113,8 @@ These models feed three uses that benefit learners directly: **automated feedbac
 - [Data source choice affects both accuracy and fairness: institutional features were most accurate-related yet most discriminatory](../claims/data-source-fairness-accuracy-effects.md) [~W]
 - [Education algorithm fairness is measured with a diverse set of metrics, most commonly ABROCA, TPR/TNR, FPR/FNR disparity metrics, and group difference in performance](../claims/education-fairness-metrics-diverse-set.md) [~W]
 - [The ensemble learner attains the highest classification accuracy and AUC for predicting a non-repeatable grade (C or better)](../claims/ensemble-highest-classification-nonrepeatable-grade.md) [+W]
+- [Help-seeking models transfer above chance across sites but perform poorly on the Costa Rican data](../claims/help-seeking-model-transfer-mixed.md) [~W]
+- [AIED harms are relational, arising from datafication reductions and falling hardest on less privileged groups](../claims/aied-harms-relational-differential.md) [-W]
 
 ## The evidence by question
 

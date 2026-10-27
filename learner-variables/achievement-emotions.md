@@ -13,7 +13,7 @@ generated:
 # Achievement Emotions
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 169 claims (107 show a difference, 47 mixed, 15 no difference) · 98 studies (36 associational, 27 causal, 13 review, 10 qualitative, 8 theoretical, 4 design), `q1`–`q4` · 22 of 98 report an effect size · 166 claims rest on one study
+> **Evidence** · 172 claims (109 show a difference, 48 mixed, 15 no difference) · 99 studies (37 associational, 27 causal, 13 review, 10 qualitative, 8 theoretical, 4 design), `q1`–`q4` · 23 of 99 report an effect size · 169 claims rest on one study
 
 ## Description
 Achievement emotions are the emotions learners feel about learning activities (enjoyment, boredom, frustration) and about their outcomes (pride, shame, hope, hopelessness). In control-value theory they arise from how much control a learner feels over an activity and how much they value it. Positive activating emotions such as enjoyment go with engagement and achievement, deactivating ones such as boredom with disengagement, and the relationship runs both ways. Anxiety is an achievement emotion with its own page, [academic anxiety](academic-anxiety.md); enjoyment overlaps with [interest](interest.md).
@@ -204,6 +204,9 @@ Achievement emotions are the emotions learners feel about learning activities (e
 - [Text condition shapes in-the-moment epistemic emotions: negative refutation texts raise anxiety and frustration, positive refutation raises curiosity and enjoyment, and non-refutation raises boredom and neutral emotion](../claims/text-condition-shapes-epistemic-emotions.md) [+M] — instruction changes it
 - [Enjoyment of the instructional type did not differ between the movement and seated video groups, with both groups reporting high enjoyment](../claims/movement-videos-enjoyment-null-group-difference.md) [-M] — instruction changes it
 - [After partialling out control variables, boredom and frustration during scaffolded learning negatively correlated with fadeout performance, while confusion↔frustration transitions and boredom→engagement transition positively correlated with it](../claims/affect-learning-partial-correlations-programming.md) [~W] — learners who differ on it differ in outcomes
+- [Affective states shifted over tutor usage: confusion decreased while engaged concentration and boredom increased](../claims/affect-shifts-over-tutor-usage.md) [~W] — instruction changes it
+- [Carelessness is negatively correlated with boredom in both tutor conditions](../claims/carelessness-negative-boredom.md) [+M] — learners who differ on it differ in outcomes
+- [Carelessness is negatively correlated with confusion in both tutor conditions](../claims/carelessness-negative-confusion.md) [+M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

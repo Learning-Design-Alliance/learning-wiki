@@ -48,3 +48,4 @@ Systematic review of 126 activities classifying each by the learner role it assi
 - [Across 133 K-12 ML activities, a technical and a societal perspective on the same algorithm co-occur in roughly 3% of cases](critical-technical-gap-k12-ml-activities.md) — related
 - [In a review of 126 K-12 ML activities, supervised learning activities cluster overwhelmingly in the lowest algorithmic-abstraction levels](k12-ml-activities-cluster-low-abstraction.md) — related
 - [Algorithmic and technical-mechanism concepts are marginal in students' AI networks: machine learning was produced by a single participant across 436 respondents](algorithmic-concepts-marginal-machine-learning-single-response.md) — related
+- [Domain independence is a desirable trait for user model sharing, but defining a domain is subjective and is decided by the creator of each tutoring system.](domain-independence-desirable-but-subjectively-defined.md) — related

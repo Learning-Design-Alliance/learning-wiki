@@ -55,3 +55,4 @@ Authors' interpretation in the conclusion (type e), weighing the analytical expo
 - [The Knowledge Tracing Algorithm does not suffer the identifiability problem: all four parameters affect its behavior separately](kt-algorithm-no-identifiability-problem.md) — related
 - [Hidden Markov model of individual training curves shows task-specific improvement plateaued on average on the third day of training](hmm-transition-day-three.md) — related
 - [Drift rate increases as a continuous exponential function of cumulative trial number across four days of perceptual training](drift-rate-continuous-exponential-cumulative-trials.md) — related
+- [Split-half stability analysis shows fitted learning-rate parameters are meaningful, with Spearman correlations between 0.5 and 0.7 across independent data halves](split-half-learning-rate-stability.md) — related

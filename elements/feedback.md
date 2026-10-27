@@ -13,7 +13,7 @@ generated:
 # Feedback
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 198 claims (88 for, 95 mixed, 15 against) · 149 studies (59 causal, 29 review, 20 quant-synthesis, 15 associational, 9 qualitative, 9 design, 8 theoretical), `q1`–`q4` · 38 of 149 report an effect size · 175 claims rest on one study
+> **Evidence** · 199 claims (88 for, 96 mixed, 15 against) · 150 studies (60 causal, 29 review, 20 quant-synthesis, 15 associational, 9 qualitative, 9 design, 8 theoretical), `q1`–`q4` · 38 of 150 report an effect size · 176 claims rest on one study
 
 ## Description
 Feedback is information provided to learners about their performance or understanding, intended to close the gap between current and desired performance. Effective feedback answers three questions: Where am I going? How am I doing? Where to next? ([Hattie & Timperley, 2007](https://doi.org/10.3102/003465430298487)). It functions as the corrective mechanism in any instructional cycle that includes [Practice](practice.md) or [Assessment](assessment.md).
@@ -246,6 +246,7 @@ Feedback is among the most powerful influences on learning, but its effects are 
 - [Feedback manipulations were insufficient to isolate learning mechanisms: participants used both error-based and reward-based learning regardless of the feedback provided](../claims/feedback-manipulation-cannot-isolate-motor-learning-mechanisms.md) [~W]
 - [Inter-trial variability decay showed reward-like signatures in the error-feedback condition, especially when learning was matched across conditions (Round 2)](../claims/itv-decay-reward-like-signatures-error-condition.md) [~W]
 - [In the LeActiveMaths knowledge-elicitation studies, tutors' feedback became more positive, more elaborate, and more targeted to situational diagnoses over successive interactions](../claims/leam-ke-improved-tutor-feedback.md) [~W]
+- [Dynamically generated natural-language feedback was not demonstrated to be superior to a non-NLP feedback condition that told students the answer](../claims/beetle-ii-elicit-vs-tell-no-superiority.md) [~W]
 
 ## Design Decisions
 <!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice

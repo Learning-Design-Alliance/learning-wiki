@@ -224,6 +224,7 @@ Within-system performance, aligned achievement, standardised achievement, delaye
 - [Self-improving mechanism: learning strategy-selection criteria from student model states by concept learning from examples](../designs/strategy-selection-criteria-from-student-model-states.md)
 - [For young learners, adapt instructional support level rather than only task difficulty, and investigate adaptive features in isolation](../strategies/adapt-support-not-just-difficulty-young-learners.md)
 - [Use strategy-based evidence models to trigger adaptive scaffolding toward more productive problem-solving strategies](../strategies/strategy-evidence-models-trigger-adaptive-scaffolding.md)
+- [Problem Solving Tutor](../products/problem-solving-tutor.md)
 
 ### Validated
 - **[ASSISTments](https://www.assistments.org)** — Free web-based math platform (grades 6–12) that adapts problem selection and hint delivery based on item-level responses. Randomized studies across Maine schools showed significant homework-related learning gains over business-as-usual conditions (Roschelle et al., 2016, *AERJ*).

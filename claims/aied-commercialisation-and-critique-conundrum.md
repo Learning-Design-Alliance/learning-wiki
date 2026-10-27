@@ -46,3 +46,4 @@ The panel provocation, authored by Holmes, asserts these commercial figures and 
 
 ## Related Claims
 - [Global inclusion gaps persist despite large EdTech investment](inclusion-gap-persists-despite-edtech-investment.md) — related
+- [AIED criticism is largely application-specific rather than opposition to all AI in education](aied-criticism-application-specific.md) — a broader claim this one bears on

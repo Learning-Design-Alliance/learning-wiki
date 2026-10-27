@@ -66,3 +66,4 @@ Finding from the J48 decision tree analysis of ASSISTments Skill Builder log dat
 - [Unsolicited hints and meta-hints raised first-attempt correctness by d=0.682 and problem completion by d=0.727](unsolicited-meta-hints-effect-sizes.md) — related
 - [Understanding of Help Avoidance is evolving: persistence may beat help at low mastery, yet Help Avoidance predicted poorer transfer performance](help-avoidance-understanding-evolving.md) — related
 - [Hints benefit local within-tutor learning only when students have a medium level of skill](hints-beneficial-at-medium-skill-level.md) — related
+- [Students rarely request on-demand hints in this tutor, with no significant differences between conditions or proficiency groups](on-demand-hint-requests-rare-and-equivalent.md) — related

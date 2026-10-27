@@ -71,3 +71,4 @@ Off-task behavior detection (Baker 2007, as reported here) relied solely on sema
 - [During observed playlist sessions, students were mostly on task and concentrating, though off-task behavior rose when the digital notebook was repeated](bromp-observation-mostly-on-task-concentrating.md) — related
 - [Student disengagement in adaptive learning platforms is linked to technical problems, boredom with long or irrelevant content, insufficient challenge and feedback, and declining engagement over time](disengagement-factors-adaptive-platforms.md) — related
 - [An automated agent responding to detected gaming-the-system reduced gaming by half and improved gaming students' learning](gaming-agent-reduced-gaming-improved-learning.md) — related
+- [Carelessness detectors trained on Philippine students generalize to USA students without re-fitting](carelessness-detector-cross-country-generalizability.md) — related

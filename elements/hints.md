@@ -22,7 +22,7 @@ sources:
 # Hints
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 15 claims (5 for, 9 mixed, 1 against) · 12 studies (5 causal, 2 review, 2 associational, 2 design, 1 theoretical), `q2`–`q3` · 3 of 12 report an effect size · 14 claims rest on one study
+> **Evidence** · 19 claims (6 for, 12 mixed, 1 against) · 13 studies (6 causal, 2 review, 2 associational, 2 design, 1 theoretical), `q2`–`q3` · 4 of 13 report an effect size · 18 claims rest on one study
 
 ## Description
 Hints are partial prompts or cues that help learners continue a task without fully giving away the answer. They are useful when the design goal is to preserve productive struggle while reducing the chance of stuckness, confusion, or abandonment.
@@ -65,6 +65,10 @@ Hints are partial prompts or cues that help learners continue a task without ful
 - [Children give more disempowering help (right answers) to peers portrayed as incompetent and more empowering help (hints) to competent peers](../claims/children-disempowering-help-incompetent-peers.md) [~W]
 - [Children aged 6–9 think peers who receive hints will learn more than peers who receive correct answers](../claims/children-hint-recipients-learn-more.md) [+W]
 - [Children aged 7–9 give more empowerment help (hints) to competent peers and more non-empowerment help (answers) to incompetent peers](../claims/children-differentiate-help-by-peer-competence.md) [~W]
+- [Assertions significantly increase unsolicited hint usage (justification and needed rates) over Messages for students regardless of prior proficiency](../claims/assertions-increase-unsolicited-hint-usage.md) [+M] — attached 2026-10-27 from Mehak Maniktala et al. (2020), which proposed "Assertions: unsolicited hint steps presented in the workspace as partially-worked example steps".
+- [The Assertions condition delivered significantly more unsolicited hints than the Messages condition during training](../claims/assertions-more-hints-given-than-messages.md) [~W]
+- [For low prior proficiency students, unsolicited hint usage rates correlate negatively with posttest solution length, while hint frequency does not correlate](../claims/hint-needed-rate-correlates-shorter-proofs-low-proficiency.md) [~W]
+- [Students rarely request on-demand hints in this tutor, with no significant differences between conditions or proficiency groups](../claims/on-demand-hint-requests-rare-and-equivalent.md) [~W]
 
 ## The evidence by question
 

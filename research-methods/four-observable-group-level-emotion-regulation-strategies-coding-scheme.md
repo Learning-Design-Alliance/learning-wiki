@@ -26,6 +26,7 @@ The article distinguishes four qualitatively different, socially observable emot
 ## Related Research Methods
 
 - [Three-dimensional coding framework for monitoring events (target, valence, phase) to identify adaptive regulation and maladaptive behavior in collaborative learning](three-dimensional-coding-framework-for-monitoring-events-target-valence-phase-to-identify.md)
+- [Tension-relaxation analysis of interpersonal relations in collaborative argumentation](tension-relaxation-analysis-of-interpersonal-relations-in-collaborative-argumentation.md)
 
 ## Key Sources
 - Piia Näykki, Tiina Törmänen, Jaana Isohätälä, Hanna Järvenoja, Sanna Järvelä. (2026). Outspoken emotions – Emotion regulation during emotional challenges in collaborative learning. Instructional Science. https://doi.org/10.1007/s11251-026-09815-1

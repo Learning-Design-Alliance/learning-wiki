@@ -55,3 +55,4 @@ Pre-experiment questionnaire of the main study's fifteen undergraduate computing
 - [K-12 learners preferred incremental hints and multiple attempts over immediately revealed solutions](learners-prefer-incremental-hints-over-solutions.md)
 - [Not requesting any hints in at least one problem is related to greater wheel-spinning, consistent with help avoidance](hint-avoidance-related-greater-wheel-spinning.md) — related
 - [Unsolicited hints and meta-hints raised first-attempt correctness by d=0.682 and problem completion by d=0.727](unsolicited-meta-hints-effect-sizes.md) — related
+- [Students rarely request on-demand hints in this tutor, with no significant differences between conditions or proficiency groups](on-demand-hint-requests-rare-and-equivalent.md) — related
