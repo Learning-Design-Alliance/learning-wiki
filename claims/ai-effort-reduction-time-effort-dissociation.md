@@ -89,3 +89,4 @@ Completion-sample participants answered the 5-question NASA-TLX after each task.
 - [The overcoming-barriers intervention does not reduce perceived time-and-effort cost of retrieval practice at either time point](overcoming-barriers-intervention-no-perceived-cost-reduction.md) — related
 - [No significant correlation between simulator performance and self-reported mental workload (SURG-TLX)](no-correlation-performance-mental-workload-surg-tlx.md) — related
 - [Speechreading training does not significantly improve subjectively perceived everyday listening effort or hearing abilities](speechreading-training-no-subjective-hearing-gain.md) — related
+- [Subjective cognitive workload decreases across teleoperation training and lower workload is associated with higher performance](workload-decreases-with-teleoperation-skill.md) — related

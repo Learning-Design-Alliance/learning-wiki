@@ -52,3 +52,4 @@ Comprehension questions after each story pair (two alternatives, 12 questions mi
 - [Children of higher and lower maternal education did not differ on on-task comprehension of attended stories during the ERP task](no-group-difference-attended-story-comprehension.md) — related
 - [A majority of 5- and 6-year-olds can describe metacognitive emotion regulation strategies when asked about familiar hypothetical situations with multiple prompts](five-six-year-olds-describe-metacognitive-emotion-regulation.md) — related
 - [Inference-making performance improves with age between 6 and 10 years, with children performing better on global than local coherence inference questions](developmental-improvements-local-global-coherence-inferences.md) — related
+- [The ease of learning varies with age from infancy to old age, informing timing of formal education and interventions](ease-of-learning-varies-with-age.md) — a broader claim this one bears on

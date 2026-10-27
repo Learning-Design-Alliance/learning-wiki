@@ -75,3 +75,4 @@ Figure 4 and Table 4 analysis of non-OECD countries, where mathematics sex diffe
 - [Sex differences in mathematics tend to be somewhat larger in more gender-equal countries (GGGI coefficient B = 0.921, p = .051), controlling for region](gender-equality-paradox-mathematics-meta-analysis.md) — related
 - [Boys outperform girls on the final two-digit number test in this sample](gender-gap-final-math-test-first-graders.md) — a narrower finding that bears on this claim
 - [Boys outperform girls on algebra word problems, function mapping, equation memory, and arithmetic fluency, with no sex differences on other mathematics measures](sex-differences-specific-math-measures-geary-2023.md) — related
+- [Countries whose languages are gendered show larger average gender gaps in mathematics achievement than genderless or gender-neutral language countries](gendered-languages-pisa-maths-gap-correlation.md) — related

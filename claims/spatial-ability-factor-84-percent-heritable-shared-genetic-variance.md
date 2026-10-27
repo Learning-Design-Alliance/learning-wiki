@@ -75,3 +75,4 @@ in accounting for individual differences in spatial skills."
 - [The six spatial orientation tests cluster into a single Navigation factor that is 64% heritable and captures 66–100% of each test's heritability](navigation-factor-64-percent-heritable.md) — a narrower finding that bears on this claim
 - [GPAΔ is strikingly highly heritable (85%), exceeding the heritability of achievement itself (67%)](gpad-heritability-85-percent-exceeds-achievement.md) — related
 - [Adjusting published twin-study ACE estimates for assortative mating raises mean heritability by about 17 points and lowers shared environmental estimates by about 16 points](assortative-mating-adjustment-branigan-subsample.md) — related
+- [Educational achievement is highly heritable across school years and subjects, with twin heritability around 60% and SNP heritability around 30%](educational-achievement-heritability-60-percent-twin-30-snp.md) — related

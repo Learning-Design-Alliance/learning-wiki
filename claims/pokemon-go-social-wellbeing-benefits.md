@@ -49,3 +49,4 @@ The review's synthesis of Pokémon Go research reports that eleven studies found
 - [Positive teacher–student relationships are associated with greater student engagement and, more weakly, with achievement](teacher-student-relationships-improve-engagement.md) — a broader claim this one bears on
 - [Students with belonging, purpose, collaboration, goal-setting, and perseverance skills alongside academic knowledge are more likely to reach their full potential](sel-skills-plus-academics-full-potential.md) — a broader claim this one bears on
 - [Casual games show promise for mitigating anxiety, depression, stress, and low mood across the range of mental health issues examined](casual-games-mental-health-promise.md) — related
+- [Pedagogy has evolved to include gaming, social interaction and play, and contemplative practices](pedagogy-evolved-new-methods.md) — a broader claim this one bears on

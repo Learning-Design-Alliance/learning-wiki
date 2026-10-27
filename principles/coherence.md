@@ -64,7 +64,7 @@ sources:
 # Coherence Principle
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 37 claims (15 for, 20 mixed, 2 against) · 39 studies (17 causal, 8 review, 5 quant-synthesis, 5 theoretical, 2 associational, 1 qualitative, 1 design), `q1`–`q4` · 10 of 39 report an effect size · 30 claims rest on one study
+> **Evidence** · 43 claims (20 for, 21 mixed, 2 against) · 41 studies (19 causal, 8 review, 5 quant-synthesis, 5 theoretical, 2 associational, 1 qualitative, 1 design), `q1`–`q4` · 11 of 41 report an effect size · 36 claims rest on one study
 
 ## Conditional relationship
 
@@ -165,6 +165,8 @@ Each question links a general claim that gathers the studies behind it and the n
 - [Adding seductive details to multimedia instruction significantly worsens recall of pertinent content compared with instruction without seductive details](../claims/seductive-details-worsen-recall-versus-control.md) [+M] — attached 2026-10-16 from Kienitz et al. (2023), which proposed "Prompt learners that seductive details are irrelevant to the learning objective to protect recall of pertinent content"; tests this page's relationship.
 - [In Study 1, a greater seductive detail amount linearly worsened recall performance (b = −0.11, p = .030)](../claims/sd-amount-linear-negative-recall-study1.md) [+W] — attached 2026-10-18 from Lukas Wesenberg et al. (2026), which proposed "Avoid large amounts of seductive details in learning materials; small amounts may have negligible effects"; tests this page's relationship.
 - [In Study 2 with a longer text and five SD amounts, greater seductive detail amount again worsened recall (b = −0.33, p = .005)](../claims/sd-amount-negative-recall-study2.md) [+W] — attached 2026-10-18 from Lukas Wesenberg et al. (2026), which proposed "Avoid large amounts of seductive details in learning materials; small amounts may have negligible effects"; tests this page's relationship.
+- [Reading comprehension is significantly higher when extraneous illustrations are removed from beginning reader books](../claims/streamlined-illustrations-improve-reading-comprehension.md) [+M] — attached 2026-10-27 from Eng et al. (2020), which proposed "Limit extraneous illustrations in reading materials for beginning readers to support attention and comprehension"; tests this page's relationship.
+- [Beginning readers make more gaze shifts away from text when reading a book with extraneous illustrations than a streamlined version](../claims/extraneous-illustrations-increase-gaze-shifts-away-from-text.md) [+M] — attached 2026-10-27 from Eng et al. (2020), which proposed "Limit extraneous illustrations in reading materials for beginning readers to support attention and comprehension".
 
 ## Objective and learner-valued goal
 
@@ -186,6 +188,10 @@ The expectation should weaken if independent comparisons with comparable learner
 - [Coherence principle: people learn better when extraneous material is excluded rather than included (d = 0.86 across 19 tests)](../claims/coherence-principle-extraneous-material-effect.md) [+W]
 - [Weeding seductive details fostered learning only in a mandatory (high-reward) learning situation, not a voluntary one](../claims/weeding-effective-only-mandatory-learning.md) [~W]
 - [Disrupting text coherence lowered both practice-test and retention-test performance](../claims/coherence-disruption-lowered-recall-performance.md) [+W]
+- [In the Standard condition, gaze shifts away from text and fixations to extraneous details are negatively associated with reading comprehension](../claims/extraneous-fixations-negatively-associated-comprehension.md) [+W]
+- [In the lab study, adding irrelevant information impaired performance only among low-working-memory participants in the distal condition](../claims/irrelevant-info-impairs-low-kmax-distal.md) [~W]
+- [Children most prone to looking away from text and fixating extraneous details gain the most comprehension from the streamlined book](../claims/greatest-comprehension-gains-for-attentionally-vulnerable-children.md) [+W]
+- [Control experiment shows streamlined-book effects are not due to enhanced text saliency and replicate the negative gaze-comprehension association](../claims/control-experiment-rules-out-text-saliency.md) [+W]
 
 ## Related Principles
 - [Modality Principle](modality.md)

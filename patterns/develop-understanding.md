@@ -15,7 +15,7 @@ grain_size: lesson
 # Develop Understanding
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 31 claims (14 for, 15 mixed, 2 against) · 43 studies (19 causal, 9 review, 8 quant-synthesis, 4 theoretical, 2 qualitative, 1 associational), `q1`–`q4` · 8 of 43 report an effect size · 23 claims rest on one study
+> **Evidence** · 32 claims (15 for, 15 mixed, 2 against) · 44 studies (20 causal, 9 review, 8 quant-synthesis, 4 theoretical, 2 qualitative, 1 associational), `q1`–`q4` · 8 of 44 report an effect size · 24 claims rest on one study
 
 ## Description and scope
 
@@ -151,6 +151,7 @@ This pattern is scoped to building understanding of a `concept` or `principle` o
 - [Both truth sandwich and bottom-loaded refutation corrections reduced belief in cancer misinformation relative to no correction](../claims/corrections-reduce-belief-in-cancer-misinformation.md) [+W]
 - [No belief difference between truth sandwich and bottom-loaded refutation immediately or after a two-week delay](../claims/no-format-difference-belief-after-delay.md) [~W]
 - [Truth sandwich and bottom-loaded refutation produced equivalent belief reduction immediately after correction](../claims/no-belief-difference-truth-sandwich-vs-refutation-immediate.md) [~W]
+- [Reading refutation texts (standard, positive, or negative) yields significantly higher combined True/False-plus-explanation scores than non-refutation texts](../claims/refutation-texts-combined-score-advantage.md) [+W]
 
 ## Related Patterns
 - [Gagne's 9 Events of Instruction](gagnes-9-events-of-instruction.md)

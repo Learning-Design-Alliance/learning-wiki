@@ -56,3 +56,4 @@ Same nonequivalent-groups pretest-posttest experiment; ANCOVA on posttest self-e
 - [Peer-teaching flipped classroom students show higher calculus conceptual understanding than conventional flipped classroom students after controlling for pretest](ptfc-beats-cfc-conceptual-understanding.md) — related
 - [PTFC and CFC differ on general and future self-efficacy dimensions but not on grade-anxiety, in-class, or assignment dimensions](self-efficacy-dimension-differences-ptfc-cfc.md) — related
 - [Self-efficacy correlates positively with conceptual understanding in both flipped classroom methods](self-efficacy-correlates-conceptual-understanding.md) — related
+- [Flipped classroom teaching with structured interaction improves learning outcomes more than lecture-based teaching and a video-lecture control](structured-interaction-flipped-classroom-improves-learning.md) — related

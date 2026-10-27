@@ -55,3 +55,4 @@ DSEM lagged models on the 212 within-person session observations. Model 2 with s
 - [Intra-individual effects of high-confidence errors, discrepancy resolution, and emotions on exploration did not vary significantly between persons](no-inter-individual-variation-in-emotional-mechanisms.md) — related
 - [DSEM identifies both positive and negative feedback loops within and between daily learning sessions](dsem-positive-negative-feedback-loops-sessions.md) — related
 - [Negative emotions, particularly anxiety and boredom, show greater day-to-day stability than positive emotions and anger during exam preparation](negative-emotions-greater-daily-stability-exam-prep.md) — related
+- [Text condition shapes in-the-moment epistemic emotions: negative refutation texts raise anxiety and frustration, positive refutation raises curiosity and enjoyment, and non-refutation raises boredom and neutral emotion](text-condition-shapes-epistemic-emotions.md) — related

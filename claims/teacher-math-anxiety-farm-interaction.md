@@ -51,3 +51,4 @@ Interactions model from the multiple regression analysis of 463 students in 33 c
 - [Girls and FARM-enrolled students report higher mathematics anxiety at year's end, controlling for fall anxiety](girls-farm-higher-math-anxiety.md) — related
 - [Teachers' science anxiety is positively associated with the science anxiety of their low-SES students via a teacher-anxiety-by-FARM interaction](teacher-science-anxiety-farm-interaction.md) — related
 - [SES–learning effect sizes did not differ by SES indicator or outcome type in an umbrella review's meta-regressions; differences by grade level and study year rested on one or two effect sizes](ses-effect-moderators-indicator-outcome-grade-year.md) — related
+- [The direct effect of SES on achievement dominates: the controlled direct effect accounts for about 98% of the total SES effect in math](ses-direct-effect-dominates-pisa-decomposition.md) — related

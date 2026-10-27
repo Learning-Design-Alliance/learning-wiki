@@ -50,3 +50,4 @@ Whole-brain voxelwise hierarchical linear modeling of gPPI task-related connecti
 - [Hippocampal engagement during arithmetic problem solving increases longitudinally in children while prefrontal-parietal engagement decreases](hippocampal-engagement-increases-prefrontal-parietal-decreases.md) — related
 - [Longitudinal gains in children's retrieval fluency are predicted by increased hippocampal-neocortical functional connectivity, not by hippocampal activation levels](hippocampal-connectivity-predicts-retrieval-gains.md) — related
 - [Age-related connectivity changes persist after controlling for head motion, which itself decreases with age](motion-does-not-confound-connectivity-findings.md) — related
+- [Richer home numeracy experiences are associated with stronger number-specific functional connectivity between the left IPS and other regions.](home-numeracy-positive-ips-connectivity.md) — related

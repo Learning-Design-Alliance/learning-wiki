@@ -47,3 +47,5 @@ Correlational analysis of EduYears GPS with selection factors and GCSE in the TE
 ## Related Claims
 - [After controlling for selection factors and EduYears GPS, genetic differences between school types disappear and school type explains less than 1% of GCSE variance (down from 7%)](school-type-explains-under-1-percent-gcse-after-controls.md) — related
 - [Students in state non-selective schools have lower EduYears polygenic scores than students in grammar (d = 0.41) and private (d = 0.37) schools, with no significant difference between grammar and private schools](lower-eduyears-gps-in-non-selective-schools.md) — related
+- [EduYears polygenic scores predict achievement increasingly with age (about 4% at KS1 to 10% at GCSE) and show largely stable effects, with less than 1% age-specific prediction](eduyears-gps-increasing-stable-prediction-achievement.md) — related
+- [EduYears GPS predicts more variance in GCSE scores (about 10%) than in its GWA target trait, adult years of education (about 4%)](gps-predicts-more-gcse-than-educational-attainment.md) — related

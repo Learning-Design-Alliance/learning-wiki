@@ -72,3 +72,4 @@ Experiment 1 inference verification task (25 true/false inferences): the same 2x
 - [Interesting but irrelevant details can impair comprehension and transfer, with effects that vary with the material and the learner](seductive-details-effect.md) — a broader claim this one bears on
 - [In Study 2 with a longer text and five SD amounts, greater seductive detail amount again worsened recall (b = −0.33, p = .005)](sd-amount-negative-recall-study2.md) — related
 - [Adding relevant pictures or graphics to text improves learning from it, with a small pooled effect on reading comprehension, though whether dual coding explains the benefit is disputed](dual-coding-improves-learning.md) — related
+- [In the lab study, adding irrelevant information impaired performance only among low-working-memory participants in the distal condition](irrelevant-info-impairs-low-kmax-distal.md) — a narrower finding that bears on this claim

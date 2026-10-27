@@ -71,3 +71,4 @@ Randomized trial in which 50 schools were assigned to four interventions and stu
 - [One year after the intervention ended, SpellRead™ effects were not statistically significant on the supplemental Torgesen et al. (2007) outcomes](spellread-one-year-followup-not-significant.md) — related
 - [Remedial reading programs show effects around 0.49 for struggling readers and 0.54 for more severe difficulties](remedial-reading-programs-effectful-struggling-readers.md) — a broader claim this one bears on
 - [Re-measurement of final test scores after four months of remedial work indicated that classroom use of the Texas reading diagnosis procedures would prove profitable](texas-reading-remediation-remeasurement-profitable.md) — related
+- [Phonemic awareness improvements from AVG training are maintained at a 6-month follow-up](avg-phonemic-awareness-gain-6month-maintenance.md) — related

@@ -71,3 +71,4 @@ PPI analysis of proactive inhibition found an age-by-sex interaction (F(1, 636) 
 - [Higher self-regulation in pre-adolescent children is associated with stronger right mid frontal cortex activation during proactive inhibition](self-regulation-frontal-activation-proactive-inhibition.md) — related
 - [Children aged 8–11 with higher parent-rated self-regulation show more proactive response slowing on a stop-signal anticipation task](self-regulation-proactive-response-slowing-children.md) — related
 - [Changes in dorsal ACC–striatum connectivity predict growth-mindset gains, with dACC–striatal connectivity the strongest individual link](dacc-striatal-connectivity-predicts-mindset-gains.md) — related
+- [The ease of learning varies with age from infancy to old age, informing timing of formal education and interventions](ease-of-learning-varies-with-age.md) — related

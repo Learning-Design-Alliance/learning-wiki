@@ -79,3 +79,4 @@ fNIRS repetition of the young-adult study in older individuals, showing bilatera
 - [The Stroop condition elicits significantly more left DLPFC activation than the NonStroop condition in preschoolers](stroop-condition-elicits-more-left-dlpfc-activation.md) — related
 - [Process-tracing measures should accompany outcome measures because process changes may not be immediately reflected in outcomes](process-tracing-measures-for-learning.md) — a broader claim this one bears on
 - [Brief pre-class exercise selectively enhanced mathematics-specific inhibitory control while domain-general interference control (Flanker) showed no reliable change, per Zhang et al. (2026)](brief-exercise-selective-math-inhibition-dissociation.md) — related
+- [Neuroscience shows prefrontal and anterior cingulate areas exert inhibitory control over alternative conceptions during learning](inhibitory-control-alternative-conceptions-prefrontal.md) — related

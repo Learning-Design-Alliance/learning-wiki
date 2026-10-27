@@ -31,7 +31,8 @@ A Benton Foundation and EDC Center for Children and Technology toolkit of instru
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [Supplementary implementation toolkit](supplementary-implementation-toolkit.md)
 
 ## Key Sources
 - The Evaluation Toolkit: A Work-in-Progress. (2002). https://eric.ed.gov/?id=ED463744

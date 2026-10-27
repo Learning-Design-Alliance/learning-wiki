@@ -51,3 +51,6 @@ The review's synthesis of twin and adoption research states "50 –80% of IQ var
 - [Educational achievement is highly heritable, and the common environmental variance is attributable to SES effects](ea-heritable-common-env-variance-attributable-to-ses.md) — related
 - [Twin-specific shared environments account for a substantial portion of CTD shared-environment estimates for educational attainment and cannot be interpreted as between-family environmental differences](twin-specific-environments-not-between-family.md) — related
 - [GPAΔ is strikingly highly heritable (85%), exceeding the heritability of achievement itself (67%)](gpad-heritability-85-percent-exceeds-achievement.md) — related
+- [Genetic factors account for a substantial share of variation in educational outcomes and related behavioral traits](genetic-factors-substantial-share-educational-outcome-variation.md) — a narrower finding that bears on this claim
+- [Heritability estimates are population-specific parameters, and the heritability of cognitive skills rises gradually through childhood and adolescence](heritability-population-specific-rises-through-childhood.md) — related
+- [High heritability does not imply that environmental interventions to modify a trait are doomed to failure](high-heritability-does-not-preclude-environmental-intervention.md) — related

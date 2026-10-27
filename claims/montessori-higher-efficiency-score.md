@@ -48,3 +48,4 @@ Independent t-test on efficiency (RT/accuracy) in the fMRI math task: Montessori
 - [In a math proofreading task, Montessori-schooled children respond faster than traditionally-schooled children despite similar accuracy](montessori-faster-response-math-fmri.md) — related
 - [Montessori students miss fewer trials but make more incorrect responses than traditionally-schooled students at equivalent accuracy](montessori-more-errors-fewer-misses.md) — related
 - [Better response inhibition (complex No-Go accuracy) is associated with longer reaction times on counterintuitive misconception trials, not better performance](response-inhibition-predicts-longer-misconception-rt.md) — related
+- [Montessori-schooled students show higher whole-brain system diversity (functional integration) than traditionally schooled students](montessori-higher-global-system-diversity.md) — related

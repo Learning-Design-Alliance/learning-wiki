@@ -47,3 +47,4 @@ The review's interpretive synthesis across its corpus reports "evidence for the 
 - [Pokémon Go play is associated with improved social well-being, belonging, and connection, and reduced anxiety about leaving the house](pokemon-go-social-wellbeing-benefits.md) — a narrower finding that bears on this claim
 - [Players of RPGs engage in ethical decision making as part of their game play, and games under the right conditions have the potential to foster critical ethical reasoning](rpg-players-engage-ethical-decision-making.md) — a narrower finding that bears on this claim
 - [Action-adventure videogames negatively predict social problem-solving scores while simulation, puzzle, serious and educational videogames predict positively](videogame-genre-spsic-regression-predictors.md) — related
+- [Pedagogy has evolved to include gaming, social interaction and play, and contemplative practices](pedagogy-evolved-new-methods.md) — a broader claim this one bears on

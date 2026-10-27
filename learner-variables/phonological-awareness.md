@@ -13,7 +13,7 @@ generated:
 # Phonological Awareness
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 93 claims (57 show a difference, 15 mixed, 21 no difference) · 58 studies (26 associational, 18 causal, 7 quant-synthesis, 4 review, 2 design, 1 theoretical), `q1`–`q3` · 17 of 58 report an effect size · 91 claims rest on one study
+> **Evidence** · 98 claims (61 show a difference, 15 mixed, 22 no difference) · 59 studies (26 associational, 19 causal, 7 quant-synthesis, 4 review, 2 design, 1 theoretical), `q1`–`q3` · 18 of 59 report an effect size · 96 claims rest on one study
 
 ## Description
 Phonological awareness is the ability to hear and manipulate the sound structure of spoken words: recognising rhymes, splitting words into syllables and individual sounds (phonemes), and blending sounds into words. The broader term phonological processing, which this page also covers, includes detecting and handling speech sounds rapidly in both spoken and written words and holding sound information briefly in memory. These skills are measured with tasks such as rhyming, blending (combining separate sounds into a word), elision (saying what remains when a sound is removed) and phoneme manipulation.
@@ -134,6 +134,11 @@ It sits within the wiki's broader [reading and language](reading-and-language.md
 - [Serial mediation supports a sequence from Reading-PGS through rapid bimodal temporal processing and phonological awareness to decoding and comprehension](../claims/serial-mediation-rbtp-pa-decoding-comprehension.md) [+M] — learners who differ on it differ in outcomes
 - [Phonological awareness does not correlate with non-linguistic audio-visual learning in any group of children](../claims/phonological-awareness-not-correlated-av-learning.md) [-M] — learners who differ on it differ in outcomes
 - [Phonological awareness mediates the effect of the DCDC2-READ1 RU2-Short allele on word reading accuracy, word reading fluency, and reading comprehension](../claims/phonological-awareness-mediate-read1-reading-outcomes.md) [+M] — learners who differ on it differ in outcomes
+- [Action video game training produces significantly larger phonemic awareness gains than waiting list, non-action serious games, and speech therapy in pre-readers at risk for dyslexia](../claims/avg-training-phonemic-awareness-gains-at-risk-prereaders.md) [+M] — instruction changes it
+- [AVG training effects are specific to phonemic awareness, with no significant gains in phonological working memory or rapid automatized naming](../claims/avg-training-null-pwr-ran.md) [+W] — instruction changes it
+- [Neither speech therapy nor serious non-action video games produced significant phonemic awareness gains in at-risk pre-readers](../claims/active-controls-no-phonemic-awareness-gain.md) [-M] — instruction changes it
+- [Phonemic awareness gains after AVG training occur in more than 80% of at-risk pre-readers](../claims/avg-phonemic-awareness-gain-majority-responder.md) [+M] — instruction changes it
+- [Phonemic awareness improvements from AVG training are maintained at a 6-month follow-up](../claims/avg-phonemic-awareness-gain-6month-maintenance.md) [+M] — instruction changes it
 
 ## Measures
 - **The Phonological Awareness Test 2 (PAT 2)** (Robertson & Salter, 2007): covers rhyming and detecting and manipulating phonemes, ages 5 to 9.

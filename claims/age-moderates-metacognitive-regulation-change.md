@@ -50,3 +50,4 @@ Area-level repeated-measures ANCOVA of on-task metacognitive regulation; childre
 - [Number of rubric sessions interacts negatively with mean age: intervention length matters less for older students](sessions-mean-age-interaction-rubrics.md) — related
 - [Metacognition interventions enhance cognitive and academic outcomes in typically developing children up to age 12 at immediate post-test (g = 0.48)](metacognition-interventions-effective-immediate-posttest-young-children.md) — related
 - [Training effects on spatial language comprehension and verbal number skills tended to appear in younger rather than older children](age-moderates-training-effects.md) — related
+- [The height of connected components decreases with age, while their number and length are unrelated to age or pedagogy](cc-height-decreases-with-age-pedagogy-null.md) — related

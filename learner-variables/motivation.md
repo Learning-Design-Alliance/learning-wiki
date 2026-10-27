@@ -13,7 +13,7 @@ generated:
 # Motivation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 311 claims (209 show a difference, 71 mixed, 31 no difference) · 226 studies (83 associational, 61 causal, 36 review, 16 theoretical, 14 quant-synthesis, 10 qualitative, 6 design), `q1`–`q4` · 61 of 226 report an effect size · 299 claims rest on one study
+> **Evidence** · 312 claims (209 show a difference, 72 mixed, 31 no difference) · 227 studies (84 associational, 61 causal, 36 review, 16 theoretical, 14 quant-synthesis, 10 qualitative, 6 design), `q1`–`q4` · 61 of 227 report an effect size · 300 claims rest on one study
 
 ## Description
 Whether a learner will spend effort here, and what makes it feel worth spending. It decides whether a page must earn attention before it can teach, and how much open-endedness is tolerable. The honest state of the evidence is that the mechanisms are well supported and the *interventions* are modest — growth-mindset programmes produce small average effects concentrated in specific subgroups [+W], which is a reason to design for motivation rather than to bolt an intervention on.
@@ -361,6 +361,7 @@ Whether a learner will spend effort here, and what makes it feel worth spending.
 - [Students' initial math motivation moderated the pandemic effect on math interest, with below-average motivation students benefiting under pandemic schooling](../claims/initial-math-motivation-moderates-math-interest.md) [~M] — an instructional effect differs with it
 - [Growth mindset is positively associated with PISA reading, science and math performance overall (Model B standardized βs .21, .20, .16)](../claims/growth-mindset-positive-association-pisa-scores.md) [+M] — learners who differ on it differ in outcomes
 - [No significant main effect of question-asking practice on persistence in a spot-the-differences task](../claims/no-main-effect-persistence.md) [-M] — instruction changes it
+- [Growth mindset is associated with better PISA performance across SES levels, but appears less beneficial at low SES and advantaged students still achieve better outcomes](../claims/mindset-benefit-weaker-at-low-ses.md) [~M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does autonomy-supportive teaching raise motivation and engagement compared with controlling teaching?* [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](../claims/autonomy-supports-intrinsic-motivation.md) [+M]

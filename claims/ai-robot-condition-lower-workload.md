@@ -70,3 +70,4 @@ Frustration violated normality, so medians and a Wilcoxon signed-rank test were 
 - [Students' actual task selections deviate about half a difficulty level and half a support level from SRLTS model-based selections](selections-deviate-half-level-from-srlts.md) — related
 - [Teacher perceived workload did not differ significantly across conditions on any NASA-TLX subscale, though the experimental condition was descriptively lower on most subscales](aied-u-no-significant-workload-difference.md) — reports the opposite
 - [Teacher perceived workload was negatively associated with student learning gains, especially for Mental Demand and Effort](teacher-workload-negatively-associated-learning-gains.md) — related
+- [Subjective cognitive workload decreases across teleoperation training and lower workload is associated with higher performance](workload-decreases-with-teleoperation-skill.md) — related

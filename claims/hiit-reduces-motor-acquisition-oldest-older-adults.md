@@ -49,3 +49,5 @@ Linear mixed model analysis of acquisition data from a randomised between-groups
 - [Trial time during acquisition was unaffected by exercise group but slowed over blocks for older participants](trial-time-no-group-effect-age-slowing.md) — related
 - [Exercise eliminated the offline skill decline seen after rest: the rest group lost skill over the 6-hour delay while the exercise group did not](hiit-preserves-skill-over-six-hour-retention.md) — related
 - [The timing of acute exercise relative to learning modulates memory consolidation](acute-exercise-timing-memory.md) — related
+- [The HIIT benefit on skill learning is driven primarily by improved accuracy, shown by a Group × Block interaction for force error](hiit-skill-gains-driven-by-accuracy.md) — related
+- [A preceding HIIT bout enhances skill acquisition on a novel visuomotor task relative to an active control, with group differences emerging from Block 4 of practice](hiit-priming-enhances-motor-skill-acquisition.md) — reports the opposite

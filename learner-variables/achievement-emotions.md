@@ -13,7 +13,7 @@ generated:
 # Achievement Emotions
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 161 claims (102 show a difference, 45 mixed, 14 no difference) · 94 studies (34 associational, 25 causal, 13 review, 10 qualitative, 8 theoretical, 4 design), `q1`–`q4` · 20 of 94 report an effect size · 158 claims rest on one study
+> **Evidence** · 167 claims (107 show a difference, 46 mixed, 14 no difference) · 96 studies (35 associational, 26 causal, 13 review, 10 qualitative, 8 theoretical, 4 design), `q1`–`q4` · 21 of 96 report an effect size · 164 claims rest on one study
 
 ## Description
 Achievement emotions are the emotions learners feel about learning activities (enjoyment, boredom, frustration) and about their outcomes (pride, shame, hope, hopelessness). In control-value theory they arise from how much control a learner feels over an activity and how much they value it. Positive activating emotions such as enjoyment go with engagement and achievement, deactivating ones such as boredom with disengagement, and the relationship runs both ways. Anxiety is an achievement emotion with its own page, [academic anxiety](academic-anxiety.md); enjoyment overlaps with [interest](interest.md).
@@ -196,6 +196,12 @@ Achievement emotions are the emotions learners feel about learning activities (e
 - [Higher student-reported disturbance of the robotic tutor is associated with lower on-task enjoyment in the novelty phase](../claims/disturbance-lowers-novelty-enjoyment.md) [+M] — instruction changes it
 - [Novelty-phase on-task enjoyment is positively associated with task performance, while working-phase enjoyment is not](../claims/novelty-enjoyment-predicts-performance.md) [~M] — learners who differ on it differ in outcomes
 - [Physical presence of the robotic tutor is related to higher initial on-task enjoyment in the novelty phase, but only in two of four path models](../claims/physical-presence-novelty-enjoyment.md) [~M] — instruction changes it
+- [Average task enjoyment correlates with trait-based reading motivation (AMRS) but not with reading engagement](../claims/task-enjoyment-correlates-with-amrs.md) [~M] — learners who differ on it differ in outcomes
+- [Higher synopsis enjoyment predicts better comprehension of that synopsis, even controlling for reading ability in Experiment 1](../claims/enjoyment-predicts-synopsis-comprehension.md) [+W] — learners who differ on it differ in outcomes
+- [Negative in-the-moment emotions toward correct-outcome sentences predict significantly lower open-ended knowledge revision scores](../claims/negative-emotions-correct-outcome-predict-lower-revision.md) [+M] — learners who differ on it differ in outcomes
+- [Paragraphs presenting inconsistent information in refutation texts elicit activating epistemic emotions and suppress deactivating emotions, with text condition × paragraph interactions](../claims/inconsistent-paragraphs-activate-epistemic-emotions.md) [+M] — instruction changes it
+- [Rated enjoyment of a synopsis predicts readers' willingness to take on a temporal cost (waiting for more book information) in both experiments](../claims/enjoyment-predicts-willingness-to-wait.md) [+M] — learners who differ on it differ in outcomes
+- [Text condition shapes in-the-moment epistemic emotions: negative refutation texts raise anxiety and frustration, positive refutation raises curiosity and enjoyment, and non-refutation raises boredom and neutral emotion](../claims/text-condition-shapes-epistemic-emotions.md) [+M] — instruction changes it
 
 ## Related Learner Variables
 

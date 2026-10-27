@@ -53,3 +53,4 @@ Narrative review of intervention studies: the article reports, citing Lunn Brown
 - [Conflict with a machine-learning decision support system's output induces deeper reflection than confirmation](conflict-seed-induces-deeper-reflection.md) — related
 - [Inaccurate prior beliefs undermine readers' ability to question online misinformation](inaccurate-beliefs-undermine-misinformation-questioning.md) — related
 - [Misconceptions were addressed in nine reviewed articles, all in science, via augmented activation, refutation texts, or analogical reasoning, though one study found activating inaccurate information may not be detrimental](misconception-addressing-techniques-science-review.md) — related
+- [Paragraphs presenting inconsistent information in refutation texts elicit activating epistemic emotions and suppress deactivating emotions, with text condition × paragraph interactions](inconsistent-paragraphs-activate-epistemic-emotions.md) — related

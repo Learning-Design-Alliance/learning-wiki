@@ -52,3 +52,4 @@ Mediation analyses with GII as mediator and Gini as predictor of country-level a
 - [At the student level, GII has a significant main effect on achievement across all three cycles while the Gini coefficient is nonsignificant](hlm-gii-student-level-main-effect.md) — related
 - [Country-level gender inequality is significantly negatively correlated with academic achievement across three PISA cycles, regardless of gender and subject](gii-negative-correlation-country-level.md) — related
 - [Gender inequality in female reproductive health is associated with academic achievement for the 2015 and 2018 PISA](reproductive-health-dimension-association.md) — related
+- [Social mobility, not income inequality, predicts cross-country variation in the competency mediation (a×b prediction b = 1.952)](social-mobility-predicts-competency-mediation.md) — related

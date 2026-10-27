@@ -27,7 +27,7 @@ sources:
 # Standardized Test Fairness and Bias
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 52 claims (9 for, 38 mixed, 5 against) · 34 studies (11 associational, 8 causal, 8 review, 3 theoretical, 2 design, 1 quant-synthesis, 1 qualitative), `q1`–`q3` · 4 of 34 report an effect size · 51 claims rest on one study
+> **Evidence** · 56 claims (13 for, 38 mixed, 5 against) · 36 studies (11 associational, 10 causal, 8 review, 3 theoretical, 2 design, 1 quant-synthesis, 1 qualitative), `q1`–`q3` · 4 of 36 report an effect size · 55 claims rest on one study
 
 ## Conditional relationship
 
@@ -142,6 +142,10 @@ Claims found while rewriting, used in the default design or the situation table 
 - [Math assessment items can be classified as high-quality or low-quality for students with visual impairments based on whether they measure achievement equally well for students with and without VI](../claims/map-growth-item-quality-vi-classification.md) [+W] — attached 2026-10-09 from Kang Xue (2022), which proposed "Assess item quality for accessible math tests by checking whether items measure achievement equally well for students with and without visual impairments"; tests this page's relationship.
 - [In-person proctored nursing cohorts achieved significantly higher HESI scores and NCLEX readiness than remotely proctored (ProctorU) cohorts](../claims/in-person-proctored-higher-hesi-than-remote.md) [+W] — attached 2026-10-11 from Harerimana A et al. (2026), which proposed "Implement context-sensitive, ethically grounded proctoring policies supported by integrity-by-design assessment approaches"; tests this page's relationship.
 - [Alpha predicts academic standing better in Agriculture (r = .54) than in Arts or Engineering, and subtest patterns vary by college](../claims/alpha-correlation-varies-by-college.md) [-M] — attached 2026-10-24 from Bridges (1920), which proposed "Intelligence tests used to predict college grades should be standardized separately for each college, with weak subtests improved or dropped"; tests this page's relationship.
+- [Addressing women in the feminine rather than the masculine in Hebrew improves their maths test scores and reduces the maths gender gap](../claims/feminine-address-improves-women-maths-scores.md) [+W] — attached 2026-10-27 from Tamar Kricheli-Katz et al. (2021), which proposed "Grant test takers the choice of being addressed in the feminine or the masculine in exams"; tests this page's relationship.
+- [On a task stereotypically associated with women's strengths (empathy reading comprehension), women perform better when addressed in the masculine](../claims/masculine-address-helps-women-on-female-stereotyped-task.md) [+W] — attached 2026-10-27 from Tamar Kricheli-Katz et al. (2021), which proposed "Grant test takers the choice of being addressed in the feminine or the masculine in exams"; tests this page's relationship.
+- [The proximal-content advantage on AAT questions is more pronounced for low-achieving examinees](../claims/proximity-advantage-low-achievers-corpus.md) [+W] — attached 2026-10-27 from Britt Hadar et al. (2023), which proposed "Test developers should pre-test question materials so content is not psychologically closer to some examinees than to others"; tests this page's relationship.
+- [In a high-stakes field exam, proximity improved performance of low-achieving examinees only on questions containing irrelevant details](../claims/proximity-helps-low-achievers-irrelevant-details-field.md) [+W] — attached 2026-10-27 from Britt Hadar et al. (2023), which proposed "Test developers should pre-test question materials so content is not psychologically closer to some examinees than to others"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

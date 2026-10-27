@@ -47,3 +47,5 @@ Acquisition analysis of the speed measure in the same study. The article reports
 ## Related Claims
 - [High-intensity exercise prior to practice reduced skill acquisition in older adults, with the detriment specific to the oldest participants](hiit-reduces-motor-acquisition-oldest-older-adults.md) — related
 - [The acquisition detriment after exercise was driven by the accuracy subcomponent: older participants reduced force error after rest but not after exercise](force-error-three-way-interaction-acquisition.md) — related
+- [The HIIT benefit on skill learning is driven primarily by improved accuracy, shown by a Group × Block interaction for force error](hiit-skill-gains-driven-by-accuracy.md) — related
+- [A preceding HIIT bout enhances skill acquisition on a novel visuomotor task relative to an active control, with group differences emerging from Block 4 of practice](hiit-priming-enhances-motor-skill-acquisition.md) — related

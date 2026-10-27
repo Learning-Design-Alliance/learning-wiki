@@ -70,3 +70,4 @@ In the transfer test, where "performance in both groups was well below ceiling,"
 - [Explaining one's own potentially incorrect ideas can reduce learning, while explaining known-correct content supports it](explaining-own-incorrect-ideas-reduces-learning.md) — related
 - [Productive Failure Improves Conceptual Learning](productive-failure-improves-conceptual-learning.md) — related
 - [DIY prediction advantage on transfer is limited to receptive transfer and does not extend significantly to productive or explicit conceptual transfer](diy-transfer-advantage-limited-to-receptive-task.md) — related
+- [All Montessori materials encourage active engagement, illustrated by a fetching-and-matching activity that exercises working memory](montessori-materials-active-engagement.md) — a narrower finding that bears on this claim

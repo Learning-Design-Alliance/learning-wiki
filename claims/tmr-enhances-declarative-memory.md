@@ -53,3 +53,4 @@ Narrative review synthesis of recent declarative-memory TMR studies (word pairs,
 - [TMR can be used to selectively weaken or promote forgetting of specific memories during sleep](tmr-promotes-selective-forgetting.md) — related
 - [TMR effects on procedural motor memory emerge over weeks rather than at 24 hours](tmr-procedural-long-term-weeks.md) — related
 - [TMR during REM sleep, but not SWS, reduces arousal ratings of negative emotional pictures](tmr-rem-reduces-emotional-arousal.md) — related
+- [Full word-pair cues can promote rather than disrupt reactivation when delivered with sufficient spacing and during stable NREM sleep](full-pair-cues-effective-under-boundary-conditions.md) — related

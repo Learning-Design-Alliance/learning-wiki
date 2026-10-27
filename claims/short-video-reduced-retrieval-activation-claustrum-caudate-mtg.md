@@ -49,3 +49,4 @@ Group-level GLM contrast of retrieval-phase BOLD activity in the randomized two-
 - [Retrieval-phase neural measures correlate with memory accuracy and habitual short-video use scales within each group](neural-measures-correlate-accuracy-and-short-video-use.md) — related
 - [Learning content via fragmented short videos yields lower immediate memory accuracy than learning the same content via a continuous long video](short-video-fragmented-learning-lower-memory-accuracy.md) — related
 - [Caudate–claustrum functional connectivity during retrieval is lower after short-video learning, with no group differences in MTG-involving connectivity](short-video-weaker-caudate-claustrum-connectivity.md) — related
+- [Acute exposure to randomly selected short videos, combined with habitual daily viewing, is associated with poorer memory for continuous movies](random-short-video-impairs-continuous-memory.md) — related

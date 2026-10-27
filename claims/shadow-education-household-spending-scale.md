@@ -50,3 +50,4 @@ The article reports official national survey figures from Statistics Korea and t
 - [Adding a listening component to China's college-entrance English exam widened the rural-urban gap in college access by roughly 30 percent, as the article reports citing Li et al.](china-listening-exam-widened-rural-urban-gap.md)
 - [A complete four-skill open-model stack fits under 4 GB, runs at reading pace on the cheapest hardware by community measurements, and costs about one US cent of electricity per study hour](llmersion-feasibility-stack-pace-cost.md)
 - [Regional context moderates GenAI effects: positive in China and Pakistan, negative in Korea and Turkey](genai-effects-vary-by-country.md)
+- [Shadow education (private supplementary tutoring) is increasingly significant with implications for schooling and inequality](shadow-education-implications-for-schooling.md) — a broader claim this one bears on

@@ -56,3 +56,8 @@ NTFD decomposition of the shared environment in the TwinLife sample, contrasting
 - [Twin and adoption studies suggest that 50–80% of IQ variation is due to genetic differences, with the range reflecting population heritability](iq-variation-50-80-percent-genetic.md) — related
 - [Within twin pairs, education–methylation associations persist but are attenuated, implicating shared environmental or genetic factors](education-methylation-twin-pairs.md) — related
 - [GPAΔ is strikingly highly heritable (85%), exceeding the heritability of achievement itself (67%)](gpad-heritability-85-percent-exceeds-achievement.md) — related
+- [Educational achievement is highly heritable across school years and subjects, with twin heritability around 60% and SNP heritability around 30%](educational-achievement-heritability-60-percent-twin-30-snp.md) — related
+- [Genetic factors account for a substantial share of variation in educational outcomes and related behavioral traits](genetic-factors-substantial-share-educational-outcome-variation.md) — related
+- [Age-to-age change in achievement is largely explained by non-shared environmental factors, while genetic and shared environmental influences are stable](genetic-stability-environmental-change-achievement.md) — related
+- [Heritability estimates are population-specific parameters, and the heritability of cognitive skills rises gradually through childhood and adolescence](heritability-population-specific-rises-through-childhood.md) — related
+- [High heritability does not imply that environmental interventions to modify a trait are doomed to failure](high-heritability-does-not-preclude-environmental-intervention.md) — related

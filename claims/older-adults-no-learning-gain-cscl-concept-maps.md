@@ -70,3 +70,4 @@ Within-group analysis in the Findings section: younger adults' medians rose from
 - [No age difference in the strength of active–constructive connections in collaborative discourse networks](no-age-difference-active-constructive-connection.md) — related
 - [Older adults produce fewer specific responses than younger adults in the generation task across both experiments](aging-fewer-specific-responses-generation.md) — related
 - [Concept-map generation requires age-appropriate instructional support: younger learners profit from high-coherence, pre-structured maps](concept-mapping-support-age-interaction.md) — related
+- [Older age is associated with lower knowledge revision scores, with each additional year predicting a 0.04-unit reduction](age-negative-predictor-knowledge-revision.md) — related

@@ -13,7 +13,7 @@ generated:
 # Feedback
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 194 claims (87 for, 92 mixed, 15 against) · 147 studies (58 causal, 28 review, 20 quant-synthesis, 15 associational, 9 qualitative, 9 design, 8 theoretical), `q1`–`q4` · 38 of 147 report an effect size · 171 claims rest on one study
+> **Evidence** · 197 claims (88 for, 94 mixed, 15 against) · 148 studies (59 causal, 28 review, 20 quant-synthesis, 15 associational, 9 qualitative, 9 design, 8 theoretical), `q1`–`q4` · 38 of 148 report an effect size · 174 claims rest on one study
 
 ## Description
 Feedback is information provided to learners about their performance or understanding, intended to close the gap between current and desired performance. Effective feedback answers three questions: Where am I going? How am I doing? Where to next? ([Hattie & Timperley, 2007](https://doi.org/10.3102/003465430298487)). It functions as the corrective mechanism in any instructional cycle that includes [Practice](practice.md) or [Assessment](assessment.md).
@@ -242,6 +242,9 @@ Feedback is among the most powerful influences on learning, but its effects are 
 - [Feedback types elicit distinct fNIRS activation patterns: frontopolar and middle temporal gyrus higher under metacognitive feedback, supramarginal gyrus under affective feedback, DLPFC under neutral feedback](../claims/chatbot-feedback-type-brain-activation-patterns.md) [+W] — attached 2026-10-26 from Yin et al. (2025), which proposed "Three educational chatbots providing metacognitive, affective, or neutral feedback during human-cardiovascular-system learning".
 - [Months after conjunction training, the global-feedback group showed significantly larger non-linear mixing on an XOR transfer task than the feature-specific group, though average XOR accuracy did not differ between groups](../claims/xor-transfer-nonlinear-mixing-advantage.md) [~W]
 - [Under global feedback, learning reflects significant non-linear mixing of color and orientation, while the linear mixing term does not differ between feedback regimes](../claims/nonlinear-mixing-term-differs-between-feedback.md) [~W]
+- [Participants made larger movement corrections after failed shots than after successful ones in both feedback conditions, indicating reward-based learning occurred even without reward feedback](../claims/greater-corrections-after-failure-both-conditions.md) [+W]
+- [Feedback manipulations were insufficient to isolate learning mechanisms: participants used both error-based and reward-based learning regardless of the feedback provided](../claims/feedback-manipulation-cannot-isolate-motor-learning-mechanisms.md) [~W]
+- [Inter-trial variability decay showed reward-like signatures in the error-feedback condition, especially when learning was matched across conditions (Round 2)](../claims/itv-decay-reward-like-signatures-error-condition.md) [~W]
 
 ## Design Decisions
 <!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice

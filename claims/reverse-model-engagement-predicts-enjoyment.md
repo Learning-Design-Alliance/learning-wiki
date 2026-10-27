@@ -50,3 +50,4 @@ Reverse path model inverting temporal precedence (learning-related measures at T
 ## Related Claims
 - [In the Forward temporal model, initial enjoyment predicted later engagement, while initial boredom did not and emotions were unrelated to later raw performance](forward-model-enjoyment-engagement-temporal.md) — related
 - [Within persons, better-than-usual math grades positively predict subsequent enjoyment and pride, and enjoyment and pride positively predict subsequent grades](grades-positive-emotions-within-person-reciprocal.md) — related
+- [Higher synopsis enjoyment predicts better comprehension of that synopsis, even controlling for reading ability in Experiment 1](enjoyment-predicts-synopsis-comprehension.md) — related

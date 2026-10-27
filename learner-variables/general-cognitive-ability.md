@@ -13,7 +13,7 @@ generated:
 # General Cognitive Ability
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 139 claims (86 show a difference, 31 mixed, 22 no difference) · 99 studies (41 associational, 30 causal, 12 review, 8 quant-synthesis, 7 theoretical, 1 qualitative), `q1`–`q4` · 26 of 99 report an effect size · 136 claims rest on one study
+> **Evidence** · 141 claims (88 show a difference, 31 mixed, 22 no difference) · 100 studies (41 associational, 31 causal, 12 review, 8 quant-synthesis, 7 theoretical, 1 qualitative), `q1`–`q4` · 26 of 100 report an effect size · 138 claims rest on one study
 
 ## Description
 General cognitive ability is what intelligence and reasoning tests measure: fluid reasoning, crystallised knowledge and processing speed. It is a strong predictor of achievement, and research uses it as a covariate and as a moderator: some designs, such as highly structured instruction, help lower-ability learners more, while discovery-based designs can favour higher-ability learners (aptitude-treatment interactions). It overlaps with [prior knowledge](prior-knowledge.md) and [working memory](working-memory.md), and studies often cannot separate them.
@@ -175,6 +175,8 @@ General cognitive ability is what intelligence and reasoning tests measure: flui
 - [Full-scale IQ does not predict GPA in older learners](../claims/iq-not-predict-gpa-older-learners.md) [-M] — learners who differ on it differ in outcomes
 - [Initial working memory accuracy shows no reliable relation with fluid intelligence](../claims/initial-wm-accuracy-no-gf-relation.md) [-M] — learners who differ on it differ in outcomes
 - [Rate of change in working memory performance correlates with fluid intelligence independently of final accuracy](../claims/wm-rate-of-change-independent-gf-link.md) [+M] — learners who differ on it differ in outcomes
+- [In the lab study, distance and relevance of question content did not significantly affect accuracy overall, while AAT score and working-memory capacity each improved it and intensified each other](../claims/study2-main-effects-and-aat-kmax-interaction.md) [+M] — learners who differ on it differ in outcomes
+- [The proximal-content advantage on AAT questions is more pronounced for low-achieving examinees](../claims/proximity-advantage-low-achievers-corpus.md) [+M] — an instructional effect differs with it
 
 ## The evidence by question
 - *Does a learner's general cognitive ability predict how well they achieve, and how much of achievement does it explain?* [Secondary academic performance is predicted by cognitive ability more strongly than by curiosity](../claims/cognitive-ability-predicts-secondary-gpa-more-than-curiosity.md) [+M]

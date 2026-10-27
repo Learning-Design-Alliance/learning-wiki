@@ -45,6 +45,7 @@ R15CC designed and facilitated a highly collaborative six-session workgroup in w
 - [Represent small and rural districts in statewide materials review through regional professional development program coordinators](rpdp-regional-coordinator-representation-strategy.md)
 - [Phased LEA and SEA recommendations for adopting Opportunity Culture staffing redesign](oc-adoption-recommendations-lea-sea.md)
 - [Recommendations for state education agencies and districts implementing formative assessment at scale](sea-lea-recommendations-formative-assessment-scale.md)
+- [Synthesize cross-disciplinary evidence on education to guide policy-making beyond the 2030 education agenda](cross-disciplinary-evidence-synthesis-for-education-policy.md)
 
 ## Examples
 -

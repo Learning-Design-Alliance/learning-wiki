@@ -13,7 +13,7 @@ generated:
 # Technology Integration
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 90 claims (40 for, 43 mixed, 7 against) · 83 studies (20 associational, 16 qualitative, 13 review, 11 causal, 10 quant-synthesis, 8 design, 5 theoretical), `q1`–`q4` · 15 of 83 report an effect size · 87 claims rest on one study
+> **Evidence** · 92 claims (41 for, 44 mixed, 7 against) · 84 studies (20 associational, 17 qualitative, 13 review, 11 causal, 10 quant-synthesis, 8 design, 5 theoretical), `q1`–`q4` · 15 of 84 report an effect size · 89 claims rest on one study
 
 ## Description
 Technology integration is the element in which digital tools are used in direct service of learning goals, feedback, access, or collaboration.
@@ -115,6 +115,8 @@ Technology integration is the element in which digital tools are used in direct 
 - [Educational technology interventions show positive effects on unconstrained literacy skills in elementary school](../claims/edtech-positive-effects-unconstrained-skills.md) [+W]
 - [Robot-assisted language learning is a rapidly developing field with increasing implementation of robots as language tutors](../claims/rall-field-rapid-development.md) [~W]
 - [Earlier meta-analyses report small positive effects for computer-assisted literacy instruction (0.19; 0.16)](../claims/prior-meta-analyses-small-positive-effects.md) [+W]
+- [Educators' written ideas about ChatGPT in education followed four themes: fostering AI literacy, acting as a character, improving learning, and serving as a teacher's help](../claims/chatgpt-ideas-four-themes-dataset2.md) [~W]
+- [Dataset 1 identified challenges in current teaching (resources, knowledge, digital tools) alongside opportunities for emerging technologies to clarify complex concepts and teach critical skills](../claims/dataset1-challenges-and-opportunities-themes.md) [+W]
 
 ## The evidence by question
 - *Does building AI tools into instruction raise achievement over teaching the same content without them, and in which settings?* [AI-supported instruction has a moderate positive effect on student achievement in STEM education (g = 0.670 under a random effects model)](../claims/ai-instruction-stem-moderate-positive-effect.md) [+M]

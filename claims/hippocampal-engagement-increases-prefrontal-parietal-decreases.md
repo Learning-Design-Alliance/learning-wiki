@@ -59,3 +59,4 @@ Longitudinal block-design fMRI in 28 children; ROI analysis of anatomically defi
 - [Individual responses to eight weeks of math training are predicted by pre-training hippocampus and basal ganglia anatomy and connectivity, not parietal areas](pre-training-brain-indices-predict-math-training-response.md) — related
 - [Arithmetic task accuracy increases and reaction time decreases with age while age-normed math ability remains stable](arithmetic-task-performance-improves-with-age.md) — related
 - [Left IPS connectivity with prefrontal cortex (dlPFC, vlPFC, insula) decreases over childhood in longitudinal task-related fMRI](ips-pfc-connectivity-decreases-longitudinally.md) — related
+- [The height of connected components decreases with age, while their number and length are unrelated to age or pedagogy](cc-height-decreases-with-age-pedagogy-null.md) — related

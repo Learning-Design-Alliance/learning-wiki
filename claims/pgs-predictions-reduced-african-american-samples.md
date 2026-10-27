@@ -55,3 +55,4 @@ Discussion synthesis of the meta-regression results: predictions "were reduced b
 - [Polygenic scores show a meta-analytic association of ρ = 0.24 with educational achievement](pgs-educational-achievement-rho-24-meta.md) — related
 - [Education and cognitive-ability polygenic scores significantly predict verbal ability, with the education PGS far more robust](pgs-predict-verbal-ability.md) — related
 - [A polygenic score for educational attainment explains about 15% of individual differences in out-of-sample prediction among people of European descent, with a correlation of approximately 0.4 with outcomes](pgs-educational-attainment-15-percent-out-of-sample.md) — related
+- [Polygenic score predictive power for educational attainment increases with discovery sample size and is projected to approach the SNP heritability bound](pgs-predictive-power-increases-with-discovery-sample-size.md) — related

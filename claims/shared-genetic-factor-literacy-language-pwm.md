@@ -54,3 +54,4 @@ Multi-domain GSEM analysis (passage reading subset, N = 6453) of ALSPAC unrelate
 - [Word reading speed carries a trait-specific genetic factor not present for passage reading accuracy](word-reading-speed-trait-specific-genetic-factor.md) — related
 - [A common genetic factor captures shared genetic influences across four reading-related traits and ADHD, with ADHD loading negatively and reading traits positively](common-genetic-factor-reading-traits-adhd.md) — related
 - [Nonword reading was excluded from the Genomic SEM model because its genetic correlations with word reading and spelling exceeded 1.0](nonword-reading-excluded-correlation-exceeds-one.md) — related
+- [Genetic stability of educational achievement persists after controlling for general cognitive ability (g), with genetic factors explaining about 60% of stability](genetic-stability-persists-controlling-for-g.md) — related

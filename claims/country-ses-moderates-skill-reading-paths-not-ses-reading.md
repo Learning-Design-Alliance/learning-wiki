@@ -72,3 +72,4 @@ In the OSMASEM country-SES analyses, besides the PA-to-accuracy path (β = 0.15,
 - [Composite SES indices predict phonological awareness more strongly than single SES indicators](composite-ses-index-stronger-predictor-phonological-awareness.md) — related
 - [SES longitudinally predicts later reading (r = 0.24), and phonological awareness and vocabulary jointly explain about 45% of that association](longitudinal-ses-predicts-reading-linguistic-skills-explain-variance.md) — related
 - [SES moderates relationships between other variables and student learning](ses-as-moderator-of-other-relationships.md) — related
+- [Across 70 countries, socioeconomic status is positively associated with reading achievement (meta-analytic r = 0.339)](ses-reading-achievement-association-70-countries.md) — related

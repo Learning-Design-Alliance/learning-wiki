@@ -34,7 +34,8 @@ A theoretically informed, participatory four-phase SWOT-based strategic-manageme
 - [SWOT in educational settings is typically applied superficially, episodically, and detached from improvement cycles](../claims/swot-applied-superficially-episodically-in-schools.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [Supplementary implementation toolkit](supplementary-implementation-toolkit.md)
 
 ## Key Sources
 - Keravnos, N., & Orphanos, S. (2025). Utilisation of SWOT analysis for decision-making in educational contexts. European Journal of Educational Management, 8(4), 219-234. https://doi.org/10.12973/eujem.8.4.219

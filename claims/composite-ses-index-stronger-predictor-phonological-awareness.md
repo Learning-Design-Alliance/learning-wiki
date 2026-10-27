@@ -53,3 +53,4 @@ OSMASEM moderation analysis restricted to the 100 articles reporting SES measure
 - [Age moderates the vocabulary-to-reading paths (effects increase with age) but not the fluency model or any SES paths](age-moderates-vocabulary-reading-paths-not-ses-paths.md) — related
 - [SES shows significant direct and indirect effects on each reading outcome separately, with larger indirect effects through vocabulary for comprehension](ses-effects-on-accuracy-comprehension-fluency-separately.md) — related
 - [The association between family SES and children's reading is partially mediated, statistically, in parallel by phonological awareness and vocabulary knowledge](ses-reading-partial-parallel-mediation-linguistic-skills.md) — related
+- [Across 70 countries, socioeconomic status is positively associated with reading achievement (meta-analytic r = 0.339)](ses-reading-achievement-association-70-countries.md) — related

@@ -93,3 +93,4 @@ Qualitative interview findings from the discussion of concerns; faculty worried 
 - [Four current challenges impede AI literacy implementation: inconsistent policies, uneven knowledge, resistance, and cost barriers](four-challenges-ai-literacy-implementation.md) — related
 - [Little attention has been paid to the undesirable consequences of indiscriminate AI application, including automation-driven socio-economic inequality](k12-ai-literacy-neglects-undesirable-consequences.md) — related
 - [An efficiency paradox: well-intentioned students default to passive GenAI processes and experience cognitive laziness and overreliance](genai-efficiency-paradox-passive-processes.md) — related
+- [Dataset 1 identified challenges in current teaching (resources, knowledge, digital tools) alongside opportunities for emerging technologies to clarify complex concepts and teach critical skills](dataset1-challenges-and-opportunities-themes.md) — related

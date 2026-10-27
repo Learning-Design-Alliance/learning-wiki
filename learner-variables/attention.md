@@ -13,7 +13,7 @@ generated:
 # Attention
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 128 claims (87 show a difference, 26 mixed, 15 no difference) · 99 studies (29 causal, 25 associational, 20 review, 12 quant-synthesis, 5 qualitative, 5 design, 3 theoretical), `q1`–`q4` · 20 of 99 report an effect size · 123 claims rest on one study
+> **Evidence** · 129 claims (87 show a difference, 27 mixed, 15 no difference) · 100 studies (29 causal, 26 associational, 20 review, 12 quant-synthesis, 5 qualitative, 5 design, 3 theoretical), `q1`–`q4` · 20 of 100 report an effect size · 124 claims rest on one study
 
 ## Description
 How long a learner can sustain focus, and how readily something else takes it. Distinct from [working memory](working-memory.md): attention governs what *reaches* the store, capacity governs what it holds. It converts into segment length, distractor design, and how much a page may hold in one uninterrupted run. The design lever is mostly subtractive — the strongest findings here are about what to remove [-M].
@@ -166,6 +166,7 @@ How long a learner can sustain focus, and how readily something else takes it. D
 - [RMT improves auditory attention, sustained auditory attention and auditory response control, with no significant improvement on visual attention measures](../claims/rmt-improves-auditory-not-visual-attention.md) [~M] — instruction changes it
 - [The authors propose a new predictability principle: motion and unexpected visual or audio change help maintain viewer attention in instructional video](../claims/proposed-predictability-principle-motion-attention.md) [+W] — instruction changes it
 - [Exercise during class does not significantly affect depression, interest, sleep frequency, or mind-wandering](../claims/classroom-exercise-no-cognitive-engagement-effect.md) [-M] — instruction changes it
+- [Montessori-schooled students show higher temporal stability than traditionally schooled students in dorsal attention, ventral attention, somatomotor, frontoparietal, and cerebellar networks, but not in visual, limbic, or default mode networks](../claims/montessori-higher-stability-attention-motor-frontoparietal-networks.md) [~M] — instruction changes it
 
 ## The evidence by question
 - *Does making material more interesting with details that do not carry the target cost learning?* [Interesting but irrelevant details can impair comprehension and transfer, with effects that vary with the material and the learner](../claims/seductive-details-effect.md) [+S]

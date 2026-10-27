@@ -13,7 +13,7 @@ generated:
 # Socioeconomic Status
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 159 claims (98 show a difference, 38 mixed, 23 no difference) · 120 studies (69 associational, 24 causal, 14 review, 8 quant-synthesis, 3 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 10 of 120 report an effect size · 158 claims rest on one study
+> **Evidence** · 164 claims (100 show a difference, 41 mixed, 23 no difference) · 123 studies (71 associational, 25 causal, 14 review, 8 quant-synthesis, 3 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 12 of 123 report an effect size · 163 claims rest on one study
 
 ## How to read this page
 
@@ -244,6 +244,11 @@ A learner's economic and social position: family income or poverty (often measur
 - [Teachers attribute low-SES students' successes more to effort, but not less to ability, than high-SES students' successes](../claims/teachers-attribute-low-ses-success-to-effort.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Teachers give low-SES students less modest praise than high-SES students](../claims/teachers-less-modest-praise-low-ses-students.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Teachers give low-SES students more inflated praise than equally performing high-SES students, though not more total praise](../claims/teachers-more-inflated-praise-low-ses-students.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Across 70 countries, socioeconomic status is positively associated with reading achievement (meta-analytic r = 0.339)](../claims/ses-reading-achievement-association-70-countries.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Experimentally removing reading requirements eliminates the SES gap in standard creativity measures: high-SES students outperform low-SES ones only when they read the prompts themselves](../claims/rct-reading-requirements-eliminate-ses-gap.md) [~W] — an instructional effect differs by group
+- [In PISA 2022-like creativity items, the SES gap reverses in favor of low-SES students when enumerators read the prompts](../claims/pisa-items-ses-gap-reverses-without-reading.md) [~W] — an instructional effect differs by group
+- [Standard creativity measures show a statistically significant SES gap among Brazilian 6-9th graders, with high-SES students scoring 0.154 s.d. higher than low-SES students](../claims/ses-gap-standard-creativity-measures-brazil.md) [+W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [The mediated interaction between SES and growth mindset is small but positive (about 0.006), indicating only minimal moderation of the SES effect](../claims/mediated-interaction-ses-mindset-minimal.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## The evidence by question
 - *Does family income predict achievement and attainment, how large are the gaps, and when do they open?* [School test score averages are strongly related to the income of the families a school serves](../claims/school-test-scores-strongly-related-to-family-income.md) [+M]

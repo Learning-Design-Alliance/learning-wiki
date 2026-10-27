@@ -59,3 +59,4 @@ Exploratory supplementary path analysis with SIMS80 data modeling mathematics se
 - [Equally able students report lower academic self-concepts in high-achieving classrooms than in low-achieving classrooms (the Big-Fish-Little-Pond Effect)](bflpe-lower-asc-high-achieving-classrooms.md) — related
 - [Students with higher initial achievement in German benefited more from higher class mean achievement levels](german-class-mean-achievement-benefits-high-initial-achievers.md) — related
 - [Class mean mathematics achievement composition effects were smaller and less often statistically significant than in the original Flemish study, underscoring the value of conceptual replications](math-composition-effects-smaller-in-german-replication.md) — related
+- [Self-efficacy showed a slightly negative meta-analytic mediation effect, with negative mediation in some countries and positive in others](self-efficacy-negative-mediation-effect.md) — related

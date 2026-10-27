@@ -52,3 +52,4 @@ Exploratory correlation analysis of fast spindle-slow oscillation coupling stren
 - [Exploratory analysis finds moderate-magnitude correlation between central fast spindle density and retention of no-feedback retrieval-practice items](fast-spindle-density-correlates-nrp-retention.md) — related
 - [Napping reduces forgetting only for items learned by retrieval practice without feedback, not for restudied or feedback-retrieved items](nap-reduces-forgetting-only-no-feedback-retrieval.md) — related
 - [Wake groups show greater recall-change differences between learning conditions than nap groups, driven by no-feedback items](wake-group-greater-recall-change-differences.md) — related
+- [In the personalized TMR group, memory improvement for challenging items correlates positively with SW-spindle coupling (r = 0.70), but no such correlation appears in the All condition or other groups](sw-spindle-coupling-correlates-l3-gains.md) — related

@@ -123,3 +123,4 @@ Correlational evidence cited in the overview (Simpkins and Davis-Kean 2005; Upde
 - [Maths self-efficacy predicted STEM career choice in females but not males, though the association was explained by maths achievement after adjustment](maths-self-efficacy-female-only-stem-choice.md) — related
 - [Female participants reported significantly higher maths anxiety and general anxiety, while males reported higher maths self-efficacy and maths interest](sex-differences-maths-anxiety-motivation-means.md) — a narrower finding that bears on this claim
 - [TV viewing at age 11 is negatively associated with mathematics ability at age 17 among male adolescents](tv-viewing-age-11-lower-math-age-17-males.md) — related
+- [The effect of feminine address on women's maths scores is stronger among those who acquired Hebrew early in childhood](hebrew-acquisition-age-moderates-address-effect.md) — related

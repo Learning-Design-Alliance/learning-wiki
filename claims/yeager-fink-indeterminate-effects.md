@@ -72,3 +72,4 @@ Compromised RCT in a General Chemistry course at a private university, meeting W
 - [A general chemistry utility-value and growth mindset intervention showed statistically significant positive outcomes overall but statistically nonsignificant outcomes for underrepresented students](usf-chemistry-mindset-utility-value-mixed-subgroup-effects.md) — related
 - [Dual enrollment programs show no discernible effects on general academic achievement (college)](dual-enrollment-no-effect-college-achievement.md) — related
 - [The growth mindset intervention increased tenth-grade advanced mathematics course enrolment overall, with larger gains in the highest-achieving schools](growth-mindset-increases-advanced-math-enrolment.md) — related
+- [Prior meta-analyses report mixed effects of growth mindset interventions on achievement, with estimates ranging from a non-significant d = 0.05 to d = 0.14](growth-mindset-intervention-meta-analyses-mixed.md) — related

@@ -77,3 +77,4 @@ Six pairwise comparisons of PISA mathematics scores by mindset response per coun
 - [The mindset-performance relationship is U-shaped and non-monotonic: the strongest growth- and strongest fixed-mindset students outperform those with moderate or slightly fixed mindsets](u-shaped-nonlinear-mindset-performance-relation.md) — related
 - [Growth mindset is positively associated with PISA reading, science and math performance overall (Model B standardized βs .21, .20, .16)](growth-mindset-positive-association-pisa-scores.md) — related
 - [The mindset–achievement association is significantly weaker in more culturally distant (non-WEIRD) countries for reading and science, and marginally for math](mindset-achievement-weaker-non-weird.md) — related
+- [Growth mindset is associated with better PISA performance across SES levels, but appears less beneficial at low SES and advantaged students still achieve better outcomes](mindset-benefit-weaker-at-low-ses.md) — related

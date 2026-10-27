@@ -52,3 +52,4 @@ Training study (Experiment 3): NVGPs underwent 50 hours of action or control vid
 - [VGPs respond faster than NVGPs with equivalent accuracy, and the RT advantage is larger at low motion coherence](vgp-faster-rt-equivalent-accuracy-coherence-interaction.md) — related
 - [Action video game training causally improves cognitive skills relative to active control training (small effect, g = 0.30)](avg-training-causal-improvement-g-030.md) — a broader claim this one bears on
 - [In fixed-duration conditions, accuracy rises faster with presentation duration in VGPs, confirming greater sensory integration and ruling out non-decision-time accounts](fixed-duration-faster-accuracy-rise-vgp.md) — related
+- [Action video game training produces significantly larger phonemic awareness gains than waiting list, non-action serious games, and speech therapy in pre-readers at risk for dyslexia](avg-training-phonemic-awareness-gains-at-risk-prereaders.md) — related

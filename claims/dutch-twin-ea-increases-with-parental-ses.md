@@ -52,3 +52,4 @@ Descriptive analysis of national EA test scores for 12,889 Dutch twins from 6929
 - [The boys-versus-girls achievement gap narrows and disappears in the highest SES group](sex-gap-in-ea-narrows-at-highest-ses.md) — related
 - [Educational achievement is highly heritable, and the common environmental variance is attributable to SES effects](ea-heritable-common-env-variance-attributable-to-ses.md) — related
 - [In a genetically informed twin study, the effect of shared family environment was substantially reduced among twins whose tracking was delayed until a later age](delayed-tracking-reduced-family-environment-effect.md) — related
+- [The chance of delayed tracking generally increases with the child's performance level, except among the highest performers](performance-predicts-delayed-tracking.md) — related

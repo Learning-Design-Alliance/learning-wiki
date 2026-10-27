@@ -68,3 +68,4 @@ The review describes path-analytic causal-model tests, including Schunk (1981), 
 - [Cognitive modeling raised division skill more than didactic instruction while both raised self-efficacy equally, with self-efficacy mediating treatment effects](cognitive-modeling-versus-didactic-instruction-division.md) — related
 - [All ten sub-factors of the L2 motivational self-system correlate significantly and positively with L2 self-efficacy](ten-motivation-subfactors-correlate-self-efficacy.md) — related
 - [Huang's meta-analysis of 39 independent samples reported average cross-lagged correlations between self-concept and achievement of roughly .19 to .27](huang-2011-meta-analysis-self-concept-achievement-correlations.md) — related
+- [Self-efficacy showed a slightly negative meta-analytic mediation effect, with negative mediation in some countries and positive in others](self-efficacy-negative-mediation-effect.md) — related

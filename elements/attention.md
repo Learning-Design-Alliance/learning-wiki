@@ -13,7 +13,7 @@ generated:
 # Attention
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 27 claims (18 for, 6 mixed, 3 against) · 37 studies (13 causal, 12 review, 7 quant-synthesis, 2 associational, 2 qualitative, 1 design), `q1`–`q4` · 7 of 37 report an effect size · 20 claims rest on one study
+> **Evidence** · 32 claims (19 for, 10 mixed, 3 against) · 39 studies (15 causal, 12 review, 7 quant-synthesis, 2 associational, 2 qualitative, 1 design), `q1`–`q4` · 9 of 39 report an effect size · 25 claims rest on one study
 
 ## Description
 Attention is the gateway to learning: information that is not attended to is not encoded, regardless of its quality or presentation. As an instructional element, "attention" refers to the deliberate design moves — signaling, salience, segmentation, and distraction management — that direct learners' limited attentional resources toward the content and interactions that matter.
@@ -72,6 +72,11 @@ Because working memory is severely limited and attention is selective, instructi
 - [Explicit attention-focusing and discrepancy-detection interventions largely reduce susceptibility; mindfulness interventions do not](../claims/attention-focusing-discrepancy-detection-reduces-susceptibility.md) [+W]
 - [Anthropomorphic and colour features can capture and guide attention, overlapping with the signaling principle](../claims/emotional-design-attention-guidance-signaling-overlap.md) [+W]
 - [Orientation learning with salient task-irrelevant color (Experiment 4) is smaller than orientation learning under global feedback (Experiment 1) or attended single-feature training (Experiment 3), but not smaller than feature-specific feedback (Experiment 2)](../claims/irrelevant-color-impairs-orientation-learning.md) [~W]
+- [In the Standard condition, gaze shifts away from text and fixations to extraneous details are negatively associated with reading comprehension](../claims/extraneous-fixations-negatively-associated-comprehension.md) [+W]
+- [Feature search training among similar distractors (Experiment 2b) shows no relational reward effect and only marginal feature-value capture](../claims/exp2b-null-relational-effect.md) [~W]
+- [Feature search training among similar distractors abolishes value-driven relational attention](../claims/feature-search-similar-relational-attention-abolished.md) [~W]
+- [Reward-associated distractors elicited attentional capture rather than suppression in Experiment 2c](../claims/reward-distractor-capture-not-suppression-exp2c.md) [~W]
+- [Singleton search training induces value-driven relational attention regardless of target-distractor similarity](../claims/singleton-training-relational-attention-both-similarities.md) [~W]
 
 ## The evidence by question
 - *Do cues that highlight the essential material and its organisation improve learning, and by how much?* [Signaling Improves Learning](../claims/signaling-improves-learning.md) [+S]

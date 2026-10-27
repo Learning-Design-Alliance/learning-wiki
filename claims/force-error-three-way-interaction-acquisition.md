@@ -51,3 +51,5 @@ Same randomised between-groups acquisition analysis, force error subcomponent. T
 - [Force error increased at retention for the rest group but not the exercise group](force-error-retention-group-by-time.md) — related
 - [High-intensity exercise prior to practice reduced skill acquisition in older adults, with the detriment specific to the oldest participants](hiit-reduces-motor-acquisition-oldest-older-adults.md) — possibly the same claim (merge candidate)
 - [Trial time during acquisition was unaffected by exercise group but slowed over blocks for older participants](trial-time-no-group-effect-age-slowing.md) — related
+- [The HIIT benefit on skill learning is driven primarily by improved accuracy, shown by a Group × Block interaction for force error](hiit-skill-gains-driven-by-accuracy.md) — related
+- [A preceding HIIT bout enhances skill acquisition on a novel visuomotor task relative to an active control, with group differences emerging from Block 4 of practice](hiit-priming-enhances-motor-skill-acquisition.md) — reports the opposite

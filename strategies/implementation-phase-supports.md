@@ -46,6 +46,7 @@ During implementation, R15CC co-designs all-staff meetings and helps leaders con
 - [Pilot guidance documents with a small set of schools and iterate before wide dissemination](pilot-then-refine-guidance-dissemination.md)
 - [Phased LEA and SEA recommendations for adopting Opportunity Culture staffing redesign](oc-adoption-recommendations-lea-sea.md)
 - [Build community-wide foundations before implementation through knowledge exchanges and planning meetings across sites](pre-implementation-community-knowledge-exchanges.md)
+- [Getting-started sequence: build authentic partnerships, assess intervention-context fit, then budget for continuous revision](stakeholder-partnership-first-implementation-strategy.md)
 
 ## Examples
 -

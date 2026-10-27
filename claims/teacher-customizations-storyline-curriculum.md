@@ -53,3 +53,4 @@ The review reports, citing McNeill, Fine, et al. (2023), an online survey with f
 - [Working-group synthesis identified four crosscutting research themes for OpenSciEd](four-themes-openscied-research-agenda.md) — related
 - [Most surveyed teachers report accounting for learner prior knowledge and material complexity in instructional design](teachers-account-for-prior-knowledge-and-complexity.md) — related
 - [Teachers and education leaders differ in which OpenSciEd challenges they prioritize: teachers rate student engagement higher, leaders rate materials adaptation and teacher capacity higher.](openscied-teacher-leader-priority-differences.md) — related
+- [Implementation projects most commonly fail due to simplistic planning, lack of adaptation, and poor teamwork](implementation-failure-modes-planning-adaptation-teamwork.md) — related

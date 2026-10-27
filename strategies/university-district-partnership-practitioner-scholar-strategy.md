@@ -43,6 +43,7 @@ The article's strategy is a university–district research partnership in which 
 
 - [Build agency analytic capacity by hiring technically skilled staff, partnering with vendors, and providing data-use training](build-analytic-capacity-hiring-vendors-training.md)
 - [Technical assistance providers should plan to work themselves out of a job by building districts' internal capacity](ta-providers-build-internal-capacity.md)
+- [Getting-started sequence: build authentic partnerships, assess intervention-context fit, then budget for continuous revision](stakeholder-partnership-first-implementation-strategy.md)
 
 ## Examples
 -

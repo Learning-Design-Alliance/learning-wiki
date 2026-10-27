@@ -67,3 +67,4 @@ In the same study, 16-year-olds showed an adult-like P1 latency yet only a trend
 ## Related Claims
 - [P1 latency for nonlinguistic auditory probes decreases with age from childhood through adulthood](nonlinguistic-p1-latency-decreases-with-age.md) — related
 - [Attention robustly increases linguistic-probe late-N1 amplitude from age 10 through adulthood](linguistic-late-n1-attention-amplitude-increases-from-age-10.md) — related
+- [The ease of learning varies with age from infancy to old age, informing timing of formal education and interventions](ease-of-learning-varies-with-age.md) — related

@@ -172,3 +172,4 @@ Cross-unit thematic findings from the seven-respondent survey case study; the ar
 - [Students report gaps in AI training and awareness of institutional AI policies despite widespread adoption](ai-training-and-policy-awareness-gaps-students.md) — related
 - [Australian universities show an escalating trend toward contingent academic appointments and a declining trend in continuing teaching-and-research staff](contingent-academic-employment-trend-australia.md) — related
 - [The authors call for formal research that systematically identifies educators' implementation concerns and evaluates effective ways to communicate the science of learning](call-for-implementation-reform-research.md) — related
+- [Dataset 1 identified challenges in current teaching (resources, knowledge, digital tools) alongside opportunities for emerging technologies to clarify complex concepts and teach critical skills](dataset1-challenges-and-opportunities-themes.md) — related

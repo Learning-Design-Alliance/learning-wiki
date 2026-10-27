@@ -13,7 +13,7 @@ generated:
 # Gender
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 318 claims (188 show a difference, 68 mixed, 62 no difference) · 214 studies (140 associational, 36 causal, 14 quant-synthesis, 10 review, 5 qualitative, 5 theoretical, 4 design), `q1`–`q4` · 38 of 214 report an effect size · 310 claims rest on one study
+> **Evidence** · 326 claims (192 show a difference, 72 mixed, 62 no difference) · 216 studies (140 associational, 38 causal, 14 quant-synthesis, 10 review, 5 qualitative, 5 theoretical, 4 design), `q1`–`q4` · 38 of 216 report an effect size · 318 claims rest on one study
 
 ## How to read this page
 
@@ -357,6 +357,14 @@ Gender is recorded in most education studies, usually as a binary category taken
 - [Maths anxiety predicted STEM career choice in males but not females, although the sex difference itself was not statistically significant](../claims/maths-anxiety-stem-choice-male-only.md) [-M] — an instructional effect differs by group
 - [No sex-related differences in adaptation (initial angle) or final angle were found in this visuomotor learning task across childhood](../claims/no-sex-differences-visuomotor-adaptation.md) [-M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Sex moderated the associations between specific sedentary behavior types and mathematics ability, prompting sex-stratified analyses](../claims/sex-by-sedentary-behavior-interaction-math.md) [~M] — an instructional effect differs by group
+- [Countries whose languages are gendered show larger average gender gaps in mathematics achievement than genderless or gender-neutral language countries](../claims/gendered-languages-pisa-maths-gap-correlation.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Literacy loss among post-COVID girls was concentrated among disadvantaged subgroups (poorest quintile, rural, OBC caste)](../claims/literacy-loss-disadvantaged-girls-subgroups.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Markers of vulnerability (rural residence, disadvantaged caste, poverty) amplified pandemic learning loss for girls but not boys](../claims/vulnerability-markers-amplify-girls-learning-loss.md) [+M] — an instructional effect differs by group
+- [Out-of-school post-COVID boys cited cost of schooling at 5–6% higher rates than matched pre-COVID boys](../claims/out-of-school-boys-cost-of-schooling-increase.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Out-of-school post-COVID girls were less likely to cite marriage or employment and more likely to cite schooling costs as the reason](../claims/out-of-school-girls-reasons-shifted-to-cost.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Post-COVID 15–17-year-old girls in India had 1.5–1.6% lower reading ability than matched pre-COVID girls](../claims/post-covid-girls-literacy-loss-india.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Post-COVID boys showed no significant literacy or schooling-attainment loss and had 2% lower out-of-school rates](../claims/post-covid-boys-no-literacy-loss.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Post-COVID girls completed 0.08–0.1 fewer years of schooling than matched pre-COVID girls, with no difference in out-of-school rates](../claims/post-covid-girls-schooling-attainment-loss.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## The evidence by question
 - *Do girls and boys differ in mathematics and reading achievement, by how much, and where in the distribution?* [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](../claims/pisa-sex-differences-math-small-reading-three-times-larger.md) [+M]

@@ -45298,5 +45298,217 @@
  "simulation\tsimulations of professional situations\tnot stated": {
   "label": "simulation vs no simulation",
   "treatment_is_a": true
+ },
+ "active-learning\tfetching and matching a number rod to its numeral\tpassive receipt of information": {
+  "label": "active learning vs passive learning",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tnegative refutation text\tnon-refutation text": {
+  "label": "negative refutation text vs non-refutation text",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tpositive refutation text\tnon-refutation text": {
+  "label": "positive refutation text vs non-refutation text",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tstandard refutation text\tnon-refutation text": {
+  "label": "standard refutation text vs non-refutation text",
+  "treatment_is_a": true
+ },
+ "fading\tcumulative sequence with progressively less-concrete representations\tnot specified in study": {
+  "label": "fading vs no fading",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tMontessori mathematics materials with built-in control of error\tnot stated": {
+  "label": "feedback present vs absent",
+  "treatment_is_a": true
+ },
+ "feedback-type\tactions following losses under loss maximization\tactions following wins under loss maximization": {
+  "label": "loss-following vs win-following",
+  "treatment_is_a": true
+ },
+ "feedback-type\tactions following wins\tactions following losses": {
+  "label": "win-following vs loss-following",
+  "treatment_is_a": true
+ },
+ "feedback-type\terror-only feedback\treward-only feedback": {
+  "label": "error-only feedback vs reward-only feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\terror-only feedback\tzero inter-trial variability decay": {
+  "label": "error-only feedback vs zero inter-trial variability decay",
+  "treatment_is_a": true
+ },
+ "feedback-type\terror-only visual feedback\treward-only visual feedback": {
+  "label": "error-only feedback vs reward-only feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tpositive social-feedback cue\tnegative social-feedback cue": {
+  "label": "positive social-feedback cue vs negative social-feedback cue",
+  "treatment_is_a": true
+ },
+ "feedback-type\tpositive social-feedback cue\tneutral social-feedback cue": {
+  "label": "positive social-feedback cue vs neutral social-feedback cue",
+  "treatment_is_a": true
+ },
+ "feedback-type\treward feedback, Round 2\terror-feedback sessions": {
+  "label": "reward feedback vs error feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\treward-only feedback\tzero inter-trial variability decay": {
+  "label": "reward-only feedback vs zero inter-trial variability decay",
+  "treatment_is_a": true
+ },
+ "feedback-type\treward-only visual feedback\terror-only visual feedback": {
+  "label": "error-only feedback vs reward-only feedback",
+  "treatment_is_a": false
+ },
+ "feedback-type\ttrial following a failed shot in the error-feedback condition\ttrial following a successful shot in the error-feedback condition": {
+  "label": "trial following a failed shot vs trial following a successful shot",
+  "treatment_is_a": true
+ },
+ "feedback-type\ttrial following a failed shot in the reward-feedback condition\ttrial following a successful shot in the reward-feedback condition": {
+  "label": "trial following a failed shot vs trial following a successful shot",
+  "treatment_is_a": true
+ },
+ "interleaving\tinterleaved and spaced homework\tblocked and massed homework": {
+  "label": "interleaved and spaced vs blocked and massed",
+  "treatment_is_a": true
+ },
+ "interleaving\tinterleaved homework sets\tblocked homework sets": {
+  "label": "interleaved vs blocked",
+  "treatment_is_a": true
+ },
+ "interleaving\tinterleaved-and-spaced homework\tblocked-and-massed homework": {
+  "label": "interleaved and spaced vs blocked and massed",
+  "treatment_is_a": true
+ },
+ "interleaving\tinterleaved-and-spaced homework for URM students\tblocked-and-massed homework for URM students": {
+  "label": "interleaved and spaced vs blocked and massed",
+  "treatment_is_a": true
+ },
+ "interleaving\tinterleaved-and-spaced homework for first-generation students\tblocked-and-massed homework for first-generation students": {
+  "label": "interleaved and spaced vs blocked and massed",
+  "treatment_is_a": true
+ },
+ "interleaving\tinterleaved-and-spaced homework for lower-scoring students\tblocked-and-massed homework for lower-scoring students": {
+  "label": "interleaved and spaced vs blocked and massed",
+  "treatment_is_a": true
+ },
+ "media-design\tFeatureless Background\tStandard illustrations": {
+  "label": "Featureless backgrounds vs illustrated backgrounds",
+  "treatment_is_a": true
+ },
+ "media-design\tStreamlined illustrations\tStandard illustrations": {
+  "label": "Streamlined illustrations vs standard illustrations",
+  "treatment_is_a": true
+ },
+ "media-design\tStreamlined illustrations\tStandard illustrations with extraneous details": {
+  "label": "Streamlined illustrations vs detailed illustrations",
+  "treatment_is_a": true
+ },
+ "media-design\tStreamlined illustrations with extraneous details removed\tStandard illustrations with extraneous details": {
+  "label": "Streamlined illustrations vs detailed illustrations",
+  "treatment_is_a": true
+ },
+ "media-design\tdynamic video feedback\tstatic photo feedback": {
+  "label": "Dynamic video feedback vs static photo feedback",
+  "treatment_is_a": true
+ },
+ "media-design\tdynamic video social feedback\tstatic photo social feedback": {
+  "label": "Dynamic video feedback vs static photo feedback",
+  "treatment_is_a": true
+ },
+ "media-design\tirrelevant information added to distal questions\trelevant information only in distal questions": {
+  "label": "Irrelevant information added vs relevant information only",
+  "treatment_is_a": true
+ },
+ "media-design\tscience fiction films blurring reality and fiction\tnot stated": {
+  "label": "Reality-fiction blurring vs unspecified alternative",
+  "treatment_is_a": true
+ },
+ "media-design\tshort-video manipulation\tlong-video manipulation": {
+  "label": "Longer video manipulation vs shorter video manipulation",
+  "treatment_is_a": false
+ },
+ "practice-amount\tlater training and retention blocks\tearliest training block": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\tpractice through Retention\tBlock 1": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\tretention after training\tBlock 1": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\ttraining across four training blocks\tBlock 1 performance": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\ttraining through Retention\tBlock 1": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\ttraining through repeated blocks\tBlock 1": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\ttraining through retention\tBlock 1": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\ttraining through the later blocks and retention\tBlock 1": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tanticipating negative social feedback\tanticipating neutral social feedback": {
+  "label": "anticipating negative social feedback vs anticipating neutral social feedback",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tanticipating positive social feedback\tanticipating neutral social feedback": {
+  "label": "anticipating positive social feedback vs anticipating neutral social feedback",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tcues predicting positive social feedback\tcues predicting neutral or negative social feedback": {
+  "label": "cues predicting positive social feedback vs cues predicting neutral or negative social feedback",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\thigh-reward distractor\tlow-reward distractor": {
+  "label": "high-reward distractor vs low-reward distractor",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\thigh-reward relational distractor\tlow-reward relational distractor": {
+  "label": "high-reward relational distractor vs low-reward relational distractor",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\thigh-reward relationally matched distractor\tlow-reward relationally matched distractor": {
+  "label": "high-reward relationally matched distractor vs low-reward relationally matched distractor",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\thigh-reward-associated color\tlow-reward-associated color": {
+  "label": "high-reward-associated color vs low-reward-associated color",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\thigh-reward-associated feature relationship\tlow-reward-associated feature relationship": {
+  "label": "high-reward-associated feature relationship vs low-reward-associated feature relationship",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tpositive or negative social feedback cues\tneutral social feedback cues": {
+  "label": "positive or negative social feedback cues vs neutral social feedback cues",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\trelational distractor associated with high reward\trelational distractor associated with low reward": {
+  "label": "high-reward relational distractor vs low-reward relational distractor",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\treward-history distractor condition\tother reward-history distractor conditions": {
+  "label": "reward-history distractor condition vs other reward-history distractor conditions",
+  "treatment_is_a": true
+ },
+ "test-format\tenumerators read the prompts aloud\tstudents read the prompts themselves": {
+  "label": "prompts read aloud vs prompts read silently",
+  "treatment_is_a": true
  }
 }

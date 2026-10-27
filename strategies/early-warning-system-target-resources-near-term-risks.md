@@ -50,6 +50,7 @@ The article recommends that identifying the students most likely to have certain
 - [Implement early-warning systems in real classrooms using easily accessible data and transparent machine learning techniques](early-warning-systems-accessible-data-transparent-ml.md)
 - [Use explainable machine learning early warning systems to help teachers identify struggling inquiry learners early](early-warning-system-teacher-support-inquiry.md)
 - [Use dropout among siblings and same-age intimates as risk markers to target prevention resources and monitoring](target-prevention-via-network-dropout-markers.md)
+- [Use genetic prediction early to identify children likely to struggle and deliver early, individualized prevention and learning programs](gps-early-identification-precision-education.md)
 
 ## Examples
 -

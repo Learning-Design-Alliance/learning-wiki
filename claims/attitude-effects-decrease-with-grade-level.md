@@ -52,3 +52,4 @@ Meta-regression of overall attitude effects (Akçay et al. excluded) found a sig
 - [For standardized mean changes, rubric effects on performance decrease with mean age, yet secondary-education studies show larger effects than primary and middle school — contradictory moderator results](rubric-effect-age-educational-level-contradictory.md) — related
 - [Age significantly moderates MBI effects on executive functions across all RCTs (larger benefits with older age) and on negative behaviour in active-control RCTs (larger benefits with younger age)](age-moderates-mbi-outcomes.md) — related
 - [No significant differences in attitude effects between the five types of innovative teaching approach](no-approach-differences-attitude-effects.md) — related
+- [The height of connected components decreases with age, while their number and length are unrelated to age or pedagogy](cc-height-decreases-with-age-pedagogy-null.md) — related

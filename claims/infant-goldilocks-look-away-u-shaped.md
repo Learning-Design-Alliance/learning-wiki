@@ -55,3 +55,4 @@ The review reports the authors' infant studies (Kidd, Piantadosi, & Aslin, 2012,
 - [Learning enhancements from core knowledge violations are entity-specific: no benefit for unrelated bystander objects](surprise-learning-effect-is-entity-specific.md) — related
 - [Sound localization ability is present in the first ten days of infancy as soon as the infant begins to notice sound](infant-sound-localization-first-ten-days.md) — related
 - [The authors propose a new predictability principle: motion and unexpected visual or audio change help maintain viewer attention in instructional video](proposed-predictability-principle-motion-attention.md) — related
+- [The ease of learning varies with age from infancy to old age, informing timing of formal education and interventions](ease-of-learning-varies-with-age.md) — related

@@ -71,3 +71,4 @@ The review reports that in Wang and colleagues' word-pair closed-loop study, "No
 - [Odor TMR applied in regular school settings improves vocabulary and history memory with large effect sizes](odor-tmr-school-settings.md) — related
 - [Exploratory analysis finds moderate-magnitude correlation between fast spindle-slow oscillation coupling strength and retention of no-feedback retrieval-practice items](fast-spindle-so-coupling-correlates-nrp-retention.md) — related
 - [TMR enhances declarative memory after one night of sleep across paradigms, though some recent studies did not replicate the effect](tmr-enhances-declarative-memory.md) — related
+- [Full word-pair cues can promote rather than disrupt reactivation when delivered with sufficient spacing and during stable NREM sleep](full-pair-cues-effective-under-boundary-conditions.md) — related

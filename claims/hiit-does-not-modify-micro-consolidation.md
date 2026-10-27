@@ -55,3 +55,4 @@ Independent-samples t-tests and Bayesian t-tests compared HIIT (n = 19) and LOW 
 - [Random termination of practice periods does not reduce micro-offline gains, ruling out preemptive motor slowing](unpredictable-practice-termination-rules-out-preemptive-slowing.md) — related
 - [Halving practice-period duration from 10 s to 5 s leaves micro-offline gains unchanged, arguing against recovery from motor fatigue](micro-offline-gains-independent-of-practice-duration.md) — related
 - [Micro-offline gains are inconsistent with a dominant contribution of latent motor slowing, supporting consolidation as their driver](micro-offline-gains-support-consolidation-not-fatigue-recovery.md) — related
+- [HIIT did not selectively influence online or offline learning subcomponents relative to active control](no-selective-hiit-effect-online-offline.md) — related

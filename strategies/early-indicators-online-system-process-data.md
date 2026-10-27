@@ -50,6 +50,7 @@ The authors recommend creating indicators to alert educators to students needing
 - [Use KEAs to strengthen early learning systems: family engagement, p–3 alignment, and aggregated data for equitable investment](kea-system-strengthening-family-engagement-alignment.md)
 - [Implement early-warning systems in real classrooms using easily accessible data and transparent machine learning techniques](early-warning-systems-accessible-data-transparent-ml.md)
 - [Use explainable machine learning early warning systems to help teachers identify struggling inquiry learners early](early-warning-system-teacher-support-inquiry.md)
+- [Use genetic prediction early to identify children likely to struggle and deliver early, individualized prevention and learning programs](gps-early-identification-precision-education.md)
 
 ## Examples
 -

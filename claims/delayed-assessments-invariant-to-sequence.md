@@ -54,3 +54,4 @@ Two-tailed t-tests in the main study comparing the two sequence conditions on th
 - [Correlations among cognitive load types partially contradict theory-based assumptions of the additivity hypothesis](load-type-correlations-partially-contradict-clt.md) — related
 - [GCL ratings move opposite to the hypothesised pattern, decreasing in the increasing-complexity condition and increasing in the decreasing-complexity condition](gcl-ratings-opposite-hypothesized-pattern.md) — related
 - [Constantly high complexity lowers reported intrinsic cognitive load and metacognitive strategy use compared with gradually increasing complexity](high-complexity-lowers-icl-and-metacognitive-strategy-use.md) — related
+- [Rail complexity affects retention and transfer in opposite directions: retention gains increase with complexity while transfer gains decrease, with no inverted-U](complexity-retention-transfer-dissociation.md) — related

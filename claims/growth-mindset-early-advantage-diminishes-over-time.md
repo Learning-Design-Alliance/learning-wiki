@@ -74,3 +74,4 @@ Follow-up comparisons of the estimated trajectories in Fig. 1 showed the growth-
 - [Common and exceptional problems elicit distinct speed-accuracy profiles: curvilinear for common problems versus linear for exceptional problems, converging in older and higher-achieving students](speed-accuracy-profiles-differ-by-problem-type.md) — related
 - [Direct instruction's advantages do not persist over the longer term](direct-instruction-advantages-vanish-long-term.md) — a broader claim this one bears on
 - [Growth mindsets associate with higher US mathematics scores but slightly lower Chinese mathematics scores (country × mindset interaction)](mindset-math-association-reversed-china-us.md) — related
+- [Growth mindset is associated with better PISA performance across SES levels, but appears less beneficial at low SES and advantaged students still achieve better outcomes](mindset-benefit-weaker-at-low-ses.md) — related

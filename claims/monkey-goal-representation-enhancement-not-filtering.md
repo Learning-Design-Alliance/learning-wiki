@@ -54,3 +54,4 @@ The review reports single-neuron recordings in monkeys performing the antisaccad
 - [The ability to generate a single correct inhibitory response is evident early in development, while what improves through adolescence is the proportion of trials with correct inhibitory responses](inhibition-early-available-consistency-improves-adolescence.md) — a broader claim this one bears on
 - [Cognition is a transient phenomenon created by the functioning of distributed components of the nervous system](cognition-transient-distributed-functioning.md) — related
 - [Process-tracing measures should accompany outcome measures because process changes may not be immediately reflected in outcomes](process-tracing-measures-for-learning.md) — a broader claim this one bears on
+- [Neuroscience shows prefrontal and anterior cingulate areas exert inhibitory control over alternative conceptions during learning](inhibitory-control-alternative-conceptions-prefrontal.md) — related

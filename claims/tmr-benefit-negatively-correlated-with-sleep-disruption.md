@@ -74,3 +74,4 @@ Secondary frequency-band analysis dividing the 0.38–20.35 Hz spectrum into six
 - [The TMR cuing effect on face recognition accuracy is associated with N3 sleep duration, though cueing did not significantly improve recognition overall](tmr-recognition-cuing-effect-associated-with-n3-duration.md) — related
 - [Greater sleep disruption in the present study rules out reduced sleep disruption as an explanation for the absent memory weakening](sleep-fragmentation-higher-in-null-tmr-sd-study.md) — related
 - [Sleep-stage durations, sleep fragmentation, and pre- and post-cue EEG band power were not significantly correlated with forgetting of cued items or the TMR-SD effect](sleep-measures-uncorrelated-with-tmr-sd-outcomes.md) — related
+- [Full word-pair cues can promote rather than disrupt reactivation when delivered with sufficient spacing and during stable NREM sleep](full-pair-cues-effective-under-boundary-conditions.md) — related

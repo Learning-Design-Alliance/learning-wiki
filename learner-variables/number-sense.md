@@ -13,7 +13,7 @@ generated:
 # Number Sense
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 105 claims (77 show a difference, 18 mixed, 10 no difference) · 45 studies (25 associational, 11 causal, 3 review, 2 qualitative, 2 design, 2 theoretical), `q1`–`q4` · 17 of 45 report an effect size · 103 claims rest on one study
+> **Evidence** · 106 claims (78 show a difference, 18 mixed, 10 no difference) · 46 studies (26 associational, 11 causal, 3 review, 2 qualitative, 2 design, 2 theoretical), `q1`–`q4` · 18 of 46 report an effect size · 104 claims rest on one study
 
 ## Description
 Number sense is a learner's grasp of how large numbers are and how they relate to one another. It is measured with magnitude comparison (which of two numbers or dot arrays is larger), number line estimation (placing a number on a line with labelled ends) and similar tasks. These measures correlate with mathematics achievement and predict later mathematics learning, and they can be improved by instruction such as number board games and number line activities. It is a domain-specific part of [prior knowledge](prior-knowledge.md) in mathematics.
@@ -140,6 +140,7 @@ Number sense is a learner's grasp of how large numbers are and how they relate t
 - [Disadvantaged (EYPP-eligible) children in the integrated intervention gained more in numeracy and spatial skills than disadvantaged controls](../claims/disadvantaged-children-greater-gains-integrated-intervention.md) [+M] — instruction changes it
 - [Infants possess two core numerical systems—approximate magnitude representation and precise tracking of small sets—that underpin later mathematical competencies](../claims/core-numerical-systems-underpin-math.md) [+W] — learners who differ on it differ in outcomes
 - [Number-processing deficits represent the most pervasive profile, lowering performance across the whole mathematics battery](../claims/number-processing-deficit-lowest-across-battery.md) [+W] — learners who differ on it differ in outcomes
+- [Advanced formal home numeracy practices are positively associated with five-year-olds' transcoding and calculation skills.](../claims/advanced-formal-practices-transcoding-calculation.md) [+M] — instruction changes it
 
 ## Related Learner Variables
 

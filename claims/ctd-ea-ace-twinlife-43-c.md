@@ -56,3 +56,9 @@ Model-fitting of a CTD ACE structural equation model to twin-only data from the 
 - [Twin and adoption studies suggest that 50–80% of IQ variation is due to genetic differences, with the range reflecting population heritability](iq-variation-50-80-percent-genetic.md) — related
 - [Within twin pairs, education–methylation associations persist but are attenuated, implicating shared environmental or genetic factors](education-methylation-twin-pairs.md) — related
 - [GPAΔ is strikingly highly heritable (85%), exceeding the heritability of achievement itself (67%)](gpad-heritability-85-percent-exceeds-achievement.md) — related
+- [Educational achievement is highly heritable across school years and subjects, with twin heritability around 60% and SNP heritability around 30%](educational-achievement-heritability-60-percent-twin-30-snp.md) — related
+- [Genetic factors account for a substantial share of variation in educational outcomes and related behavioral traits](genetic-factors-substantial-share-educational-outcome-variation.md) — possibly the same claim (merge candidate)
+- [Age-to-age change in achievement is largely explained by non-shared environmental factors, while genetic and shared environmental influences are stable](genetic-stability-environmental-change-achievement.md) — related
+- [Genetic stability of educational achievement persists after controlling for general cognitive ability (g), with genetic factors explaining about 60% of stability](genetic-stability-persists-controlling-for-g.md) — related
+- [Heritability estimates are population-specific parameters, and the heritability of cognitive skills rises gradually through childhood and adolescence](heritability-population-specific-rises-through-childhood.md) — related
+- [A large share of the genetic influence on secondary-school attainment is due to genes that did not influence primary-school performance](genes-unique-to-attainment-beyond-cito.md) — related

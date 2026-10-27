@@ -76,3 +76,4 @@ The review reports that dACC activation, correlated with performance and linked 
 - [Impending rewards improve adolescent antisaccade performance toward adult levels, accompanied by greater nucleus accumbens activation](rewards-improve-adolescent-antisaccade-nacc.md) — related
 - [A 10-minute bout of moderate-intensity exercise improves Stroop inhibitory control with increased left dorsolateral prefrontal activation in young adults](moderate-exercise-stroop-dlpfc-activation.md) — related
 - [Children's ability to shield attention against distraction develops until the second decade of life alongside prefrontal cortex maturation](attention-control-develops-second-decade.md) — related
+- [Neuroscience shows prefrontal and anterior cingulate areas exert inhibitory control over alternative conceptions during learning](inhibitory-control-alternative-conceptions-prefrontal.md) — related

@@ -47,7 +47,7 @@ sources:
 # Interleaving
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 47 claims (20 for, 25 mixed, 2 against) · 29 studies (13 causal, 6 review, 4 quant-synthesis, 4 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 14 of 29 report an effect size · 44 claims rest on one study
+> **Evidence** · 51 claims (21 for, 28 mixed, 2 against) · 30 studies (14 causal, 6 review, 4 quant-synthesis, 4 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 15 of 30 report an effect size · 48 claims rest on one study
 
 ## Conditional relationship
 
@@ -146,6 +146,8 @@ Taken together: mixing kinds in practice reliably helps learners tell confusable
 - [High and low CI practice do not differ significantly in overall relatively permanent gains (Δ pre-retention)](../claims/ci-no-long-term-gain-difference.md) [-W] — attached 2026-10-21 from Achraf Ammar et al. (2024), which proposed "Do not assume high contextual interference (random) practice guarantees a longer-term performance advantage in PE and sports"; tests this page's relationship.
 - [Interleaved homework yields higher surprise criterial test scores than blocked homework in undergraduate physics, with larger effects in Stage 2](../claims/interleaving-criterial-test-benefit-physics.md) [+M] — attached 2026-10-26 from Joshua Samani et al. (2021), which proposed "Replace conventionally blocked homework with interleaved homework when assignments contain multiple isomorphic problems per topic"; tests this page's relationship.
 - [Interleaving benefits were not detected on high-stakes midterm exams taken after cramming](../claims/interleaving-no-midterm-benefit-cramming.md) [~M] — attached 2026-10-26 from Joshua Samani et al. (2021), which proposed "Replace conventionally blocked homework with interleaved homework when assignments contain multiple isomorphic problems per topic"; tests this page's relationship.
+- [Controlling for prior knowledge and demographics, interleaving benefited all students on the final exam (β = 0.21, p < 0.001)](../claims/interleaving-final-exam-main-effect.md) [~M] — attached 2026-10-27 from Steve Bennoun et al. (2026), which proposed "Reorder homework sets so problems on each topic are distributed across multiple assignments — a low-cost restructuring that requires no extra time, technology, or curricular change"; tests this page's relationship.
+- [On the final exam, interleaving reduced gaps for URM students, first-generation students, students with lower mother's education, and students with weaker high school mathematics preparation](../claims/interleaving-reduces-prior-knowledge-gaps-final-exam.md) [~M] — attached 2026-10-27 from Steve Bennoun et al. (2026), which proposed "Reorder homework sets so problems on each topic are distributed across multiple assignments — a low-cost restructuring that requires no extra time, technology, or curricular change"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 
@@ -173,6 +175,8 @@ The expectation should weaken if comparisons with comparable learners find no ad
 - [Interleaving benefits on criterial tests cannot be attributed to increased study time](../claims/interleaving-benefit-not-study-time.md) [+W]
 - [Students perform worse on interleaved homework than blocked homework and misjudge its learning value](../claims/interleaved-homework-worse-performance-metacognitive-judgments.md) [~W]
 - [Stimulation at PMd during repetitive practice fails to induce the early (6-h) time-dependent consolidation typical of interleaved practice](../claims/pmd-tdcs-no-early-6h-consolidation.md) [~M]
+- [On raw exam scores, interleaved homework produced no significant midterm difference between sections but a significant final exam advantage for the interleaved section](../claims/interleaved-homework-final-exam-raw-advantage-calculus.md) [+W]
+- [Interleaving disproportionately benefited students with below-average or up-to-0.96-SD-above-average midterm scores, though ceiling effects may contribute](../claims/interleaving-disproportionately-benefits-lower-midterm-scores.md) [~W]
 
 ## Related Principles
 - [Spaced Learning](spaced-learning.md) — when practice of the same thing recurs; usually confounded with interleaving

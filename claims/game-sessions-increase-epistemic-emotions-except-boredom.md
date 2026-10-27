@@ -56,3 +56,4 @@ Within-person DSEM analysis of 212 session-level surveys nested in 22 students, 
 - [Most variance in students' epistemic emotions was situational (within-person) fluctuation, with 18–37% due to between-person variability.](within-person-fluctuation-dominates-epistemic-emotions.md) — related
 - [Competition was a constant source of enjoyment for math circle participants, with evaluation focused on the task rather than the individual](competition-enjoyment-task-focused-evaluation.md) — related
 - [The game sessions showed high attendance, engagement, and enjoyment, with no differences among conditions](board-game-high-engagement-enjoyment-attendance.md) — related
+- [Text condition shapes in-the-moment epistemic emotions: negative refutation texts raise anxiety and frustration, positive refutation raises curiosity and enjoyment, and non-refutation raises boredom and neutral emotion](text-condition-shapes-epistemic-emotions.md) — related
