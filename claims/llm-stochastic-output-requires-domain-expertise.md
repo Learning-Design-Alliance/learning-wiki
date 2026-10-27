@@ -54,3 +54,4 @@ Theoretical argument in this perspective piece: the authors explain that LLMs co
 - [Students' top two concerns about educational LLM use are output quality (fabricated or misleading content, 53 mentions) and the verification burden (34 mentions)](students-top-concerns-output-quality-verification-burden.md) — related
 - [A structured mixture-of-experts candidate improved some corrections on fixed-evidence cases but introduced new factual and continuity regressions, so activation was held](moe-candidate-mixed-fidelity-result.md) — a narrower finding that bears on this claim
 - [Attachment to LLMs exhibits cruel optimism: desired efficiency collides with the vigilance and expertise students do not yet possess](cruel-optimism-of-llms-in-education.md) — related
+- [Anthropomorphic language about AIED tools misleads people into overestimating what the tools can do](anthropomorphic-language-misleads-about-aied.md) — related

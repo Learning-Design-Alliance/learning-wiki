@@ -60,3 +60,4 @@ Group comparison in the cluster-randomized controlled study (N = 195 ninth-grade
 - [Pre-service teachers studying with text-based cases report higher situational interest than those studying the same content with theoretical models](text-based-cases-higher-situational-interest.md) — related
 - [AI-supported inquiry-based learning significantly improved secondary students' creative mathematical performance compared with traditional instruction](ai-ibi-improves-creative-mathematical-performance.md) — related
 - [TAIA students perceived more teacher support for hypothesis generation and argumentation and enjoyed inquiry more; perceived experiment-related support did not differ](taia-perceived-support-hypothesis-argumentation.md) — related
+- [Context-personalized GAI-generated math materials increased primary students' motivation, interest and performance](gai-context-personalized-math-materials-primary-school.md) — related

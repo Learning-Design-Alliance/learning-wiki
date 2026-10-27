@@ -30,7 +30,8 @@ StatBot is a retrieval-augmented GPT-4 chatbot developed and deployed by Yuan-Hs
 - [Student chatbot queries were overwhelmingly task-oriented initial inquiries, dominated by definition requests and pasted assignment questions rather than iterative critique](../claims/initial-inquiry-dominates-chatbot-question-types.md) [+W]
 
 ## Related Products and Programmes
--
+
+- [Cipherbot](cipherbot.md)
 
 ## Key Sources
 - Yuan-Hsuan Lee and Jiun-Yu Wu. (2026). Differential engagement with generative artificial intelligence in higher education: Gender, motivation, and achievement trajectories. International Journal of Educational Technology in Higher Education. https://doi.org/10.1186/s41239-026-00615-8

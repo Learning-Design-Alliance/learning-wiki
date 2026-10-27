@@ -51,3 +51,4 @@ Spearman correlation reported in Table 1 of the 468-student survey; the article 
 - [Attitude, facilitating conditions, and social influence correlate most strongly with behavioral intention, while perceived ease of use correlates weakest](at-fc-si-strongest-bi-correlates-peou-weakest.md) — related
 - [Familiarity with ChatGPT is positively correlated with frequency of academic use](chatgpt-familiarity-correlates-academic-use.md) — related
 - [Students express willingness to integrate GenAI in learning and future careers, and willingness correlates with knowledge and frequency of use](students-willing-to-use-genai-correlates.md) — related
+- [Students express strong behavioral intention to continue using GenAI in programming](genai-behavioral-intention-strong.md) — related

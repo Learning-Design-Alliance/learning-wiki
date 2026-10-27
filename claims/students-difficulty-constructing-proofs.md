@@ -49,3 +49,4 @@ The review reports Senk's large-scale study asking 1520 high school geometry stu
 
 ## Related Claims
 - [Students and researchers gave systematically different types of explanatory comments about the visual argument, with students rejecting pictures as proofs](student-visual-argument-norm-comments.md) — related
+- [Students struggle with constructing axiomatic proofs substantially more than with semantic tableaux in the same logic course](axiomatic-proofs-harder-than-semantic-tableaux-homework.md) — a narrower finding that bears on this claim

@@ -49,3 +49,4 @@ Initial training of FATE on the 300 BEA 2025 student-tutor conversations. The ar
 - [Knowledge distillation from a frontier LLM substantially improves lightweight AI-tutor evaluation across all four pedagogical dimensions](distillation-improves-ai-tutor-evaluation.md) — related
 - [EduBehaviors underperforms the fine-tuned RoBERTa encoder trained on expert-labeled TalkMoves data](edubehaviors-underperforms-finetuned-encoder.md) — related
 - [The framework offers a scalable alternative to manual curation, but the small dataset and label dependence limit current conclusions](scalable-curation-alternative-with-limits.md) — related
+- [Training NQG models on multiple datasets with different answer types improved performance over single-dataset training](multi-dataset-training-improves-nqg-answer-types.md) — related

@@ -65,3 +65,4 @@ Explanatory qualitative follow-up interviews with 20 purposively selected studen
 - [Effort expectancy and facilitating conditions negatively predict behavioral intention, contradicting conventional UTAUT assumptions in studio-based creative education](ee-fc-negative-predict-bi-t2i.md) — related
 - [Metacognition may limit creativity during the generative stage but facilitate it during the exploratory stage](metacognition-dual-impact-generative-exploratory-stages.md) — related
 - [Behavioral intention translates only weakly into self-reported use behavior, and the extended UTAUT model explains intention formation better than enactment](intention-use-gap-t2i-creative-education.md) — related
+- [GAI tools enriched student ideation, aesthetic development and confidence in architecture and design education, especially for lower-competency learners](gai-tools-ideation-architecture-design-lower-competency.md) — related

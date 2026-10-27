@@ -55,3 +55,4 @@ Hierarchical regression (Step 1) on first-year GPA in a sample of 386 Spanish un
 - [Conscientiousness shows the strongest links to SRL and robustly predicts academic performance even after accounting for cognitive ability](conscientiousness-predicts-achievement-srl-link.md) — related
 - [Conscientiousness is robustly associated with academic performance across primary, secondary, and tertiary education, with openness the next strongest predictor](conscientiousness-predicts-academic-performance-review.md) — related
 - [Both conscientiousness (β = .25) and openness (β = .17) are positively associated with GPA in adjusted models](gpa-associated-with-conscientiousness-and-openness.md) — related
+- [A three-predictor regression model (Source, APTTD, positive emotion) explains 32% of variance in group project grades](regression-model-32-percent-variance-grades.md) — related

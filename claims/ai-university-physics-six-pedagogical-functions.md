@@ -55,3 +55,4 @@ The review's synthesis of 11 included studies (Section 3.3) characterizes the pe
 - [Pedagogical agents as coaches and tutors are most useful with novice learners, while virtual role-players benefit learners across expertise levels](agents-most-effective-novice-learners.md) — related
 - [Evidence for agentic AI in education is strongest for formative tutoring and SRL coaching, while orchestration and assessment applications remain at mid technology-readiness stages](agentic-ai-evidence-strongest-tutoring-srl-coaching.md) — related
 - [GenAI consolidates multiple core pedagogical functions within a single technological interface, a scaling effect qualitatively distinct from prior educational tools](genai-consolidates-pedagogical-functions-single-interface.md) — related
+- [The Lantern ambient awareness device significantly increases the efficiency of supervised collaborative problem-solving sections](lantern-increases-recitation-section-efficiency.md) — related

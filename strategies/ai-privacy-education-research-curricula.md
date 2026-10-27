@@ -46,6 +46,7 @@ The article proposes informing students and colleagues about the novel risks of 
 
 - [Provide explicit instruction in AI prompting and information verification alongside AI integration in laboratory courses](explicit-ai-prompting-verification-instruction.md)
 - [Offer privacy-preserving participation alternatives such as on-site labs and bootable privacy-oriented operating systems](privacy-preserving-collection-alternatives.md)
+- [Six collective-responsibility strategies for AIED researchers facing commercial misuse](aied-collective-responsibility-strategies.md)
 
 ## Examples
 -

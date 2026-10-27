@@ -56,3 +56,4 @@ Focus-group thematic analysis identified two complementary ways teachers envisio
 - [Teachers envision AI companion literacy as shared work across stakeholders, starting early and spiraling across grade levels, but disagree on which level owns it](ai-companion-literacy-shared-stakeholder-responsibility.md) — related
 - [AI chatbots enable flexible personalized learning by adapting teaching strategies to individual student needs](chatbot-flexible-personalized-learning.md) — related
 - [Pedagogical considerations and workload reduction potential are additional factors influencing teachers' acceptance of AI-EdTech, beyond trust](pedagogical-considerations-workload-reduction-acceptance-factors.md) — related
+- [The commentary argues there is little evidence that personalised learning technologies have saved teacher time or reduced workload](little-evidence-personalisation-saves-teacher-time.md) — reports the opposite

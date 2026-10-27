@@ -55,3 +55,4 @@ Qualitative case description of Andrea Stanczyk's classroom project on environme
 - [Teachers treated AI as a provisional thinking partner whose outputs required iterative adaptation rather than automatic adoption](ai-provisional-thinking-partner-iterative-design.md) — related
 - [Instructors engage LLM-generated suggestions as a controllable refinement process](instructors-use-llm-suggestions-as-controllable-refinement.md) — related
 - [Active engagement with AI outputs (cross-verifying, refining prompts, revising) supports productive learning and depends on learners' prior knowledge](active-ai-engagement-depends-on-prior-knowledge.md) — a broader claim this one bears on
+- [AI-powered reading assistants enhanced student expression, personalized reading pathways and supported teacher feedback in literacy education](ai-reading-assistants-literacy-supportive-not-substitutive.md) — related

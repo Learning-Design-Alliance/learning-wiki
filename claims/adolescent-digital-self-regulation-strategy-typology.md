@@ -52,3 +52,4 @@ The review's synthesis of prior literature (Table 1) presents four strategy cate
 - [Students' help requests to the AI tutor were predominantly instrumental rather than executive, with procedural content and low verification](instrumental-help-seeking-procedural-low-verification.md) — related
 - [Experimental-group students detected AI errors and enacted verification and ethical self-regulation as routine practices](verification-routines-ethical-self-regulation.md) — related
 - [Digital literacy alone does not guarantee effective digital regulation](digital-literacy-alone-does-not-guarantee-regulation.md) — related
+- [Factor 2 student teachers enacted balanced, intentional and ethical engagement with Cipherbot through self-directed strategies](f2-balanced-intentional-ethical-engagement.md) — related

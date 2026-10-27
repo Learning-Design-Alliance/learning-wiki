@@ -50,3 +50,4 @@ Pre-registered randomized field experiment: 493 first-year students from 10 cour
 - [Attendance at offered SI sessions is low and highly variable: on average 2.3 of 7 sessions, with 29% never attending](si-attendance-low-variable.md) — related
 - [Chatbot outreach increased supplemental instruction tutoring attendance by about two percentage points, mediating a small share of the grade effect](chatbot-increases-tutoring-attendance.md) — related
 - [Offering SI costs about €385.88 per invited student (€154 when set-up costs are spread over subsequent quarters)](si-cost-per-student.md) — related
+- [Enrollment in the supplemental instruction section is associated with significantly positive average individualized treatment effects on final exam score and course grade](si-positive-average-ite-exam-grade.md) — related

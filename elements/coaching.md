@@ -13,7 +13,7 @@ generated:
 # Coaching
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 23 claims (14 for, 7 mixed, 2 against) · 29 studies (9 review, 7 causal, 5 qualitative, 4 quant-synthesis, 2 theoretical, 1 associational, 1 design), `q2`–`q4` · 2 of 29 report an effect size · 15 claims rest on one study
+> **Evidence** · 24 claims (14 for, 8 mixed, 2 against) · 30 studies (9 review, 7 causal, 5 qualitative, 4 quant-synthesis, 2 design, 2 theoretical, 1 associational), `q2`–`q4` · 2 of 30 report an effect size · 16 claims rest on one study
 
 ## Description
 Coaching is the provision of individualized support and guidance while learners actively perform a task. The coach observes performance, diagnoses gaps between current and target performance, and intervenes with hints, questions, modeling, or [Feedback](feedback.md) calibrated to what the learner needs at that moment. Unlike one-time instruction, coaching is sustained and adaptive — support rises and falls with learner performance.
@@ -67,6 +67,7 @@ Coaching accelerates skill development by keeping learners in a productive strug
 - [No significant differences in learning measures across teacher-coached, researcher-coached, and BioWorld-alone conditions](../claims/bioworld-coaching-condition-null-manova.md) [-W]
 - [Expert modeling, feedback, hints, and multiple strategies improve cognitive outcomes, but question prompts show no evident difference from control](../claims/scaffolding-strategy-moderator-question-prompts-null.md) [+W]
 - [Coaching and pretest effects on PISA performance were studied separately for each content domain (reading and mathematics)](../claims/pisa-coaching-effects-studied-per-content-domain.md) [~W]
+- [Student ratings of hint and feedback content trend negatively at 60% cultural density, likely linked to informal dialect](../claims/negative-ratings-60-percent-density-hints-feedback.md) [~W]
 
 ## The evidence by question
 - *Must support be contingent on the learner's last response, rather than fixed?* [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+S]

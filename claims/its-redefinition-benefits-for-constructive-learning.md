@@ -46,3 +46,4 @@ The review reports, citing Ma et al. (2014) and Steenbergen-Hu and Cooper (2014)
 
 ## Related Claims
 - [ITS augmentation: meta-analyses find medium to large learning benefits of ITS over unsupported learning and small to medium gains over less adaptive computer-assisted learning](its-augmentation-benefits-over-unsupported-learning.md) — related
+- [Steenbergen-Hu and Cooper found smaller ITS effects in K-12 school settings where lower-achievers did worse, but more positive ITS effects for university students versus conventional instruction](steenbergen-hu-cooper-school-vs-university-its-effects.md) — related

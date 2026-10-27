@@ -60,3 +60,4 @@ Independent samples t-test on pre-test scores in the quasi-experimental study (n
 - [Pretest LSAT scores did not differ reliably between seminar and control groups](seminar-pretest-no-reliable-difference.md) — related
 - [Metacognitive and affective chatbot feedback each produce higher retention scores than neutral feedback, with no significant difference between metacognitive and affective groups](chatbot-metacognitive-affective-feedback-boost-retention.md) — a narrower finding that bears on this claim
 - [Baseline equivalence across stimulation groups rules out prior memory-ability differences as an explanation for post-intervention effects](tacs-baseline-equivalence-pre-intervention-recall.md) — related
+- [Interacting with Clair had no significant effect on secondary-school students' post-test knowledge acquisition](clair-no-effect-knowledge-acquisition.md) — related

@@ -56,3 +56,4 @@ Observational data from three instructors teaching in VR with LumiNote, drawing 
 - [LLM assistance value in VR instruction varies with instructional intent type](llm-assistance-value-varies-with-intent-type.md) — related
 - [AI-assisted ideation was conditionally acceptable when researchers retained decision-making authority, but problematic when it displaced conceptual labour](conditional-ideation-dialogic-aid-vs-outsourcing.md) — related
 - [Low comment rewriting does not imply a smooth process: students describe the main effort as verifying generated code rather than revising prompts](verification-burden-shifts-work-from-rewriting-to-reviewing.md) — related
+- [Integrating LLMs into data science course feedback systems improved student engagement and learning outcomes](llm-feedback-systems-data-science-engagement-outcomes.md) — related

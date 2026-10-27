@@ -57,3 +57,4 @@ Results section, Table 4: the rank-averaging ensemble of five trained models rea
 - [Ensembles of operational raters outperform the LLMs: two raters suffice on average across aspects, but larger ensembles are needed for individual aspects](rater-ensembles-outperform-llms-feedback.md) — related
 - [Model self-confidence, weighted probabilistic scoring, and ensemble modeling each significantly improve LLM-based divergent thinking scoring, raising correlation with human judges from r = 0.781 to r = 0.823](llm-scoring-three-techniques-raise-human-judge-correlation.md) — related
 - [A multi-polygenic-score GPAΔ predicted achievement no better than the EA4 GPS alone](multi-gps-gpad-no-better-than-ea4-alone.md) — related
+- [An ensemble learner outperforms every individual base learner for predicting final exam score and course grade in a large introductory statistics course](ensemble-outperforms-base-learners-exam-grade.md) — related

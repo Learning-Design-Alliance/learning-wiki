@@ -67,3 +67,4 @@ Finding from the thematic analysis of institutional and scholarly documents, rep
 - [Fairness of AI outputs remains under-evaluated in edtech research](ai-output-fairness-under-evaluated-edtech.md) — a broader claim this one bears on
 - [The review reports that AI detection tools disproportionately flag multilingual writers, which the authors frame as digital structural violence](detection-tools-disproportionately-flag-multilingual-writers.md) — related
 - [Model accuracy of vision-based proctoring systems can vary across demographics, lighting conditions, and hardware setups, potentially disadvantaging some students](proctoring-accuracy-demographic-bias.md) — related
+- [ChatGPT-generated essays showed high written English and PEEL-framework structure across native and non-native speakers](chatgpt-essays-high-english-structure-peel.md) — related

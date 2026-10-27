@@ -13,7 +13,7 @@ generated:
 # Provide Feedback
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 24 claims (13 for, 10 mixed, 1 against) · 26 studies (9 review, 5 quant-synthesis, 3 causal, 3 qualitative, 2 associational, 2 design, 2 theoretical), `q2`–`q4` · 4 of 26 report an effect size · 19 claims rest on one study
+> **Evidence** · 25 claims (13 for, 11 mixed, 1 against) · 27 studies (9 review, 5 quant-synthesis, 3 causal, 3 qualitative, 3 design, 2 associational, 2 theoretical), `q2`–`q4` · 4 of 27 report an effect size · 20 claims rest on one study
 
 ## Description
 Providing feedback gives learners information about the gap between their current and desired performance, so they can correct errors and refine understanding. Effective feedback answers three questions: Where am I going? How am I doing? Where to next? ([Hattie & Timperley, 2007](https://doi.org/10.3102/003465430298487)). It functions as the corrective loop that makes [Practice](practice.md) productive rather than merely repetitive.
@@ -71,6 +71,7 @@ Feedback is among the most powerful influences on learning, but its effects are 
 - [Teachers provided targeted extra support, immediate feedback, and reinforcers to learners with DD](../claims/targeted-support-feedback-reinforcers-dd.md) [+W]
 - [Learners are more willing to act on feedback when they perceive the sender as credible and trustworthy](../claims/sender-credibility-supports-feedback-use.md) [+W]
 - [Learning through feedback, especially when corrective, significantly boosts learning efficiency](../claims/corrective-feedback-boosts-learning-efficiency.md) [+W]
+- [Student ratings of hint and feedback content trend negatively at 60% cultural density, likely linked to informal dialect](../claims/negative-ratings-60-percent-density-hints-feedback.md) [~W]
 
 ## The evidence by question
 - *What should the feedback after a check say, and who or what should give it?* [Feedback improves learning by a medium amount on average, but its effect varies widely with the information it carries, and a substantial share of feedback effects are negative](../claims/feedback-improves-learning.md) [+S]

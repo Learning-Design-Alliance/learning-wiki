@@ -69,3 +69,4 @@ In the Debates and Critiques section the review reports that among the reviewed 
 - [Liberal discourse grounds democratic education in knowledge of democratic institutions and critical thinking across the curriculum](liberal-discourse-knowledge-and-reason.md) — related
 - [Multiculturalist discourse prioritizes diversity over universal frameworks and recommends curricula of self-understanding, encounter with the Other, and intercultural competency](multiculturalist-discourse-diversity-curriculum.md) — related
 - [Neoliberal discourse recommends market practices in education, which reviewed research links to class privilege and reduced democratic opportunities](neoliberal-discourse-market-education-critique.md) — related
+- [The commentary argues that the 'one size fits all' critique of common curricula mischaracterises both the empirical reality and the professional ideal of education](one-size-fits-all-neither-reality-nor-ideal.md) — related

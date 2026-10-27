@@ -43,6 +43,7 @@ The article proposes a replicable set of implementation principles for instructo
 - [Design PjBL projects so students must evaluate, critique, and improve AI-generated outputs rather than prohibiting AI use](design-projects-for-evaluating-ai-outputs.md)
 - [Train teachers in prompt engineering, evaluating AI-generated responses, ethical and privacy considerations, and integrating AI outputs into pedagogical decision-making](teacher-training-ai-tools-prompt-evaluation-ethics.md)
 - [Institutional governance should establish practical conditions supporting AI literacy, learner agency, and critical evaluation rather than relying on prohibition and detection](governance-beyond-prohibition-detection.md)
+- [Use generative AI as an educator content-creation tool for student critique, supported by explicit guidelines and training](genai-content-creation-for-critique-with-guidelines-and-training.md)
 
 ## Examples
 -

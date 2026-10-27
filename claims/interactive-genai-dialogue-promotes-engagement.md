@@ -62,3 +62,4 @@ Cross-site finding from focus groups, surveys, and School C observations; the in
 - [GenAI can help students overcome contextual constraints when eliciting feedback](genai-overcomes-eliciting-constraints.md) — related
 - [Students showed only modest engagement with GenAI functionalities during in-semester use of the feedback tool](modest-in-semester-engagement-genai-feedback-tool.md) — related
 - [Teachers shape writing outcomes through instructional practices and through engagement, support, and feedback](teacher-practices-support-feedback-shape-writing.md) — related
+- [Student teachers generated 2,181 Cipherbot conversations, dominated by topic inquiries targeting deepening understanding and clarifications](cipherbot-conversation-analytics-2181.md) — related

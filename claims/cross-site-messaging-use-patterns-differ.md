@@ -49,3 +49,4 @@ Findings from the questionnaire survey and verbal data analysis of message diari
 - [Users successfully localized the hard-to-use mobile text messaging technology into their daily lives despite poor developer localization](users-localize-hard-to-use-text-messaging.md) — a broader claim this one bears on
 - [User localization success of text messaging is unqualified and fragile: some participants reduced use when costs rose or alternatives appeared](user-localization-success-fragile.md) — related
 - [Problematic one-way links between production and consumption processes impede the technology's circulation, with only one manufacturer responding to users](problematic-production-consumption-links.md) — related
+- [Treatment dyads exchanged more words per message and spent more time on chat than control dyads](clair-dyads-higher-chat-activity.md) — related

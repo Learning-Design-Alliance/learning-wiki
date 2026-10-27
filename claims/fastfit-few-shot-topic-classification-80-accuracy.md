@@ -48,3 +48,4 @@ Evaluation of the FastFit classifier on a 70-question gold set labeled by a cour
 ## Related Claims
 - [Classifier errors cluster into three interpretable patterns, and the unknown abstention class is well classified (F1 = 0.93), reliably filtering off-topic chat](classifier-error-patterns-and-abstention-f1.md) — related
 - [The FastFit classifier slightly outperforms GPT-4 used directly under the same closed-label prompt on the same gold set (0.800 vs. 0.786 accuracy)](fastfit-outperforms-gpt4-direct-classification.md) — possibly the same claim (merge candidate)
+- [Student teachers generated 2,181 Cipherbot conversations, dominated by topic inquiries targeting deepening understanding and clarifications](cipherbot-conversation-analytics-2181.md) — related

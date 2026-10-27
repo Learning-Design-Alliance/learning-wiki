@@ -56,3 +56,4 @@ Theoretical argument from the cross-cutting theme synthesis concerning self-expl
 - [Reviewed literature reports risks of overreliance, AI errors in complex tasks, and students' uncritical acceptance of AI-generated outputs](ai-math-risks-overreliance-errors-uncritical-trust.md) — related
 - [Unstructured LLM use risks cognitive offloading that displaces effortful thought and weakens argument construction](unstructured-llm-use-cognitive-offloading.md) — related
 - [GenAI fluency corrupts metacognitive monitoring by producing cognitive ease that is misread as comprehension, weakening the regulation needed to keep offloading beneficial](metacognitive-trap-genai-fluency.md) — related
+- [Factor 3 student teachers were uncritical users whose agency was almost completely subverted to the GenAI system](f3-uncritical-reliant-diminished-agency.md) — related

@@ -52,3 +52,4 @@ Interview excerpt (Lydia) coded under the theme 'SCOT views in pluralised future
 - [Students saw technology and STEM careers as creating concrete possibilities for their own agency](stem-careers-possibilities-agency.md) — related
 - [Students express fear and apathy about AI's impact on their careers, shifting focus toward outcomes over process and questioning effort investment in learning computer science](career-fear-apathy-outcomes-over-process.md) — related
 - [Students perceived the future as more unpredictable after the course, often finding the openness liberating rather than distressing](course-future-perceived-more-unpredictable.md) — related
+- [Focus-group participants preferred creating their own essays while viewing ChatGPT as an initial resource for fundamentals and idea generation](participants-prefer-own-essays-chatgpt-initial-resource.md) — related

@@ -101,3 +101,4 @@ The review reports, citing Barus et al. (2025), that the policy and training vac
 - [Judgement is theorized as the evaluative locus of educational integrity within GenAI-augmented authorship](judgement-locus-of-educational-integrity.md) — related
 - [Students use self-initiated strategies of verification, skill improvement, post-editing, pre-editing and reliance management to cope with GenAI challenges](genai-translation-self-initiated-coping-strategies.md) — related
 - [Journal analysis shows heavy GenAI reliance in secondary research and transcription but student autonomy in planning and interpretation of primary research](journals-secondary-research-heavy-genai-primary-autonomy.md) — related
+- [Factor 2 student teachers enacted balanced, intentional and ethical engagement with Cipherbot through self-directed strategies](f2-balanced-intentional-ethical-engagement.md) — a narrower finding that bears on this claim

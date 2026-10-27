@@ -53,3 +53,4 @@ Anonymous online questionnaire (WJX platform) completed by 29 of 31 AI-enhanced 
 - 87.8% of surveyed students in the introductory OOP course had used AI assistants in the course at least once — related
 - [International students use conversational AI predominantly for task-oriented academic and logistical support rather than for psychological or chronic emotional challenges](ai-task-oriented-over-emotional-support-international-students.md) — related
 - [Students rate AI's helpfulness positively overall, with academic challenges receiving the highest usefulness, satisfaction, and intent-to-continue scores](academic-domain-highest-ai-helpfulness-ratings.md) — related
+- [Students express strong behavioral intention to continue using GenAI in programming](genai-behavioral-intention-strong.md) — related

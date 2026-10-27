@@ -187,3 +187,4 @@ Participants studied words printed in different font sizes for a free-recall tes
 - [Access to web-based information creates illusions of learning and reduces memorization](web-access-illusion-of-learning.md) — related
 - [Recent AI-in-education studies often rely on subjective or performance-during-support measures and weak comparison designs, limiting claims about learning effects](ai-studies-measurement-design-limitations.md) — a narrower finding that bears on this claim
 - [Lecturing persists for identifiable psychological and practical reasons: it is easy, exploits personal opinion, and satisfies pupils' craving for authority and ready-made knowledge](why-lecturing-persists.md) — related
+- [Anthropomorphic language about AIED tools misleads people into overestimating what the tools can do](anthropomorphic-language-misleads-about-aied.md) — related

@@ -235,3 +235,4 @@ Intrinsic interest is less reliably shapeable in the short term than utility val
 - [Directly-communicated utility value increases beliefs about the usefulness of regression, unmoderated by baseline confidence or interest](utility-value-increases-usefulness-beliefs-unmoderated.md) — a narrower finding that bears on this claim
 - [The SINM identifies structurally important interest variables as candidate targets for intervention](sinm-identifies-intervention-candidate-variables.md) — related
 - [Students' situation-specific and average test performance predict their test-specific self-concept, intrinsic and utility values, and perceived costs](test-performance-predicts-situation-specific-motivation.md) — related
+- [Context-personalized GAI-generated math materials increased primary students' motivation, interest and performance](gai-context-personalized-math-materials-primary-school.md) — a narrower finding that bears on this claim

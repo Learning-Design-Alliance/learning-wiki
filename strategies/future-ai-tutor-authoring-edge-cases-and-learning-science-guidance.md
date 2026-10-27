@@ -40,6 +40,7 @@ The authors outline two forward-looking directions for authoring tools like Prom
 
 - Reverse Prompting Pipeline
 - [Use simulated student profiles (expected path, struggling learner, off-topic input) as test scenarios for AI tutor QA](simulated-student-profile-test-scenarios.md)
+- [Open design directions for adaptive authoring: crowdsourced standards, individual differences, modular customization, path visualization, and instructor real-time control](adaptive-authoring-open-research-directions.md)
 
 ## Examples
 -

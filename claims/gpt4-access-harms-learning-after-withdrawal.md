@@ -304,3 +304,4 @@ Every entry this page had was a second-hand report of one trial (Bastani et al.,
 - [In math problem solving, a tutor LLM alone significantly improved unassisted test accuracy over no-agent control, while peer-like error agents alone did not reach significance](tutor-alone-significant-peers-alone-not-math.md) — related
 - [Chatbot access during mathematics practice improved practice performance but lowered subsequent unaided exam performance, and a hint-giving interface eliminated the penalty](chatbot-crutch-unaided-exam-penalty.md) — possibly the same claim (merge candidate)
 - [AI over-reliance can produce inversion effects, reducing cognitive processing depth and learning outcomes](ai-inversion-effects-overreliance-reduce-learning.md) — a narrower finding that bears on this claim
+- [Students used GAI in coursework but struggled to correct LLM-generated code during exams](students-struggle-correcting-llm-generated-code-exams.md) — related

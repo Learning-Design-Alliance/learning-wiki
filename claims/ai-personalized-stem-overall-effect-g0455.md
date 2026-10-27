@@ -57,3 +57,4 @@ Random-effects meta-analysis of 99 independent effect sizes extracted from 32 ra
 - [Students improved significantly from pre- to post-test in both topics, with a medium effect in experimental design and a small effect in graphing](pre-post-gains-inquiry-competencies.md) — related
 - [Subject significantly moderates effects, with AI-enabled personalized STEM education most effective in comprehensive courses (g = 2.161)](comprehensive-courses-largest-subject-effect.md) — a narrower finding that bears on this claim
 - [Learning-by-design shows medium- to large-sized positive effects on student achievement in K-12 STEM education, per meta-analysis cited by the review](learning-by-design-medium-large-effects-stem.md)
+- [Intelligent AR tutoring produces significantly higher post-test performance than non-intelligent AR training for motherboard assembly](intelligent-ar-tutor-outperforms-traditional-ar-posttest.md) — a narrower finding that bears on this claim

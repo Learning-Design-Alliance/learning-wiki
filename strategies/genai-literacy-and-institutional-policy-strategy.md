@@ -52,6 +52,7 @@ The article recommends that institutions develop policies and formal guidance on
 - [Foster communities of practice for AI governance instead of rigid top-down policies](communities-of-practice-for-ai-governance.md)
 - [Higher education leaders should develop more inclusive and future-oriented GenAI policies integrating social equity, interdisciplinary experimentation, and sustainability considerations](develop-inclusive-future-oriented-genai-policies.md)
 - [Provide institutional support: regular GenAI workshops, subsidized access to advanced tools, reliable resources, and curriculum inclusion](institutional-support-genai-translation-workshops-curriculum.md)
+- [Use generative AI as an educator content-creation tool for student critique, supported by explicit guidelines and training](genai-content-creation-for-critique-with-guidelines-and-training.md)
 
 ## Examples
 -

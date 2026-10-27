@@ -55,3 +55,4 @@ The originality findings from the thematic analysis report that "The views of pa
 - [Whether student GenAI use constitutes academic misconduct depends fundamentally on the prior question of the university's purpose](genai-misconduct-depends-on-university-purpose.md) — related
 - Evaluators view GenAI use in story writing as broadly acceptable but reject unacknowledged use and demand compensation for source creators — related
 - [Students and educators disagree on the acceptability of unacknowledged generative AI use across academic writing subtasks](student-educator-ai-acceptability-gaps.md) — related
+- [Focus-group participants preferred creating their own essays while viewing ChatGPT as an initial resource for fundamentals and idea generation](participants-prefer-own-essays-chatgpt-initial-resource.md) — related

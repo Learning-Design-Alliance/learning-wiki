@@ -77,3 +77,4 @@ The article's argued cross-context transfer risk, grounded in the observation th
 - [Algorithmically inferred measurement functions may intensify, rather than resolve, the problem of nomic measurement in analyzing student learning](ai-intensifies-nomic-measurement-problem.md) — related
 - [Personas developed without care and empathy can create stereotypes](personas-risk-stereotypes-without-empathy.md) — related
 - [Cultural variations exist in emotion and other psychological topics of interest to AIED, so psychology research influencing AIED is likely WEIRD-imbalanced](cultural-variation-emotion-aied-topics.md) — related
+- [The intelligent learning systems in the issue all include some features of profound empathy but all lack an elaborate definition of care](issue-systems-lack-elaborate-care-definition.md) — related

@@ -57,3 +57,4 @@ Narrative synthesis of the reviewed corpus: the review attributes the engagement
 - [Portfolio analysis revealed children were critically and creatively engaged in the learning procedures](portfolio-analysis-critical-creative-engagement.md) — a narrower finding that bears on this claim
 - [Primary studies report possible benefits of GenAI for children's divergent thinking, narrative creativity and creative self-efficacy, without confirmed efficacy](genai-possible-benefits-children-creative-thinking.md) — related
 - [Generative AI use shows divergent effects on creativity: weakened creative writing but increased creative problem-solving and idea quality](generative-ai-creativity-divergent-effects.md) — a narrower finding that bears on this claim
+- [Students rate GenAI's creativity enhancement in programming significantly above neutral](genai-creativity-enhancement-perceptions.md) — a narrower finding that bears on this claim

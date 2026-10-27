@@ -95,3 +95,4 @@ Identical non-GenAI homework items also differed significantly across halves (r=
 - [Learning-by-teaching an LLM improved assignment and project performance versus historical cohorts, but not exam performance, in an undergraduate CS course](learning-by-teaching-llm-improves-assignments-projects.md) — related
 - [Across three physics assessments, students who declared GenAI use scored slightly higher than non-users, but none of the differences were statistically significant](genai-users-slightly-higher-scores-not-significant-physics.md) — related
 - [AI chatbots provide students detailed feedback, step-by-step homework solutions, and self-quizzing support](chatbot-homework-study-assistance.md) — related
+- [Students used GAI in coursework but struggled to correct LLM-generated code during exams](students-struggle-correcting-llm-generated-code-exams.md) — related

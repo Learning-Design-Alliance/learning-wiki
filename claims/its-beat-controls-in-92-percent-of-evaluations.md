@@ -48,3 +48,4 @@ Primary meta-analysis of the 50 qualifying controlled evaluations. The article r
 - [Intelligent tutoring raised test scores by a median of 0.66 standard deviations over conventional instruction across 50 controlled evaluations](its-meta-analysis-median-es-066-sd.md) — a broader claim this one bears on
 - [Intelligent tutoring systems improve achievement over non-individualised instruction](adaptive-learning-improves-outcomes.md) — related
 - [The DARPA Digital Tutor, an ITS for U.S. Navy information systems technicians, produced the largest effects in the data set (average ES of 1.97 and 3.18 in two summative evaluations)](darpa-digital-tutor-largest-its-effects.md) — related
+- [Kulik and Fletcher (2015) found similar-sized ITS improvements to other meta-analyses, with larger effect sizes when tests were tuned to the tutoring system than when standardised tests were used](kulik-fletcher-2015-its-effect-test-tuning.md) — related

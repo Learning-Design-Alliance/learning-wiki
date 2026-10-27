@@ -58,3 +58,4 @@ Model evaluation using a modified k-fold cross-validation training on nine cours
 - [Machine learning methods outperformed logistic regression in classification accuracy across reviewed studies](ml-outperforms-logistic-regression-aied.md) — a broader claim this one bears on
 - [Decision trees achieve competitive accuracy with black-box models (LR, RF, SVM), which performed slightly better but lack interpretability](dt-competitive-with-black-box-classifiers.md) — related
 - [Boosting models (XGBoost) achieved the highest predictive accuracy among the compared ML models, while logistic regression showed the lowest](boosting-highest-accuracy-logistic-lowest.md) — related
+- [The ensemble learner attains the highest classification accuracy and AUC for predicting a non-repeatable grade (C or better)](ensemble-highest-classification-nonrepeatable-grade.md) — reports the opposite

@@ -52,3 +52,4 @@ Synthesis under the competence theme: a participant using Scratch described "It'
 - [Online spaces hold distinctive value for underrepresented adolescents for identity expression, supportive peer networks, and friendships](online-spaces-distinctive-value-underrepresented-adolescents.md) — related
 - [Participating in game jams develops 4C skills (critical thinking, creativity, communication, collaboration) in adolescent students, though skill gains are difficult to verify](game-jams-develop-4c-skills.md) — related
 - [Instructors perceive that experiential learning cultivates enjoyment, satisfaction, and self-confidence through peer and community engagement (beauty)](instructors-enjoyment-peer-community-engagement.md) — related
+- [GAI tools enriched student ideation, aesthetic development and confidence in architecture and design education, especially for lower-competency learners](gai-tools-ideation-architecture-design-lower-competency.md) — related

@@ -105,3 +105,4 @@ Critical-reflection items of the post-course questionnaire (n=29 respondents). S
 - [Most surveyed marketing educators use GAI as a tool, followed by teammate and tutor, and 64% incorporate AI in their courses](marketing-educators-gai-use-tool-most-common.md) — related
 - [Students evolved from passive users of GenAI to critical evaluators, developing strategies for bias detection and source validation](students-passive-users-to-critical-evaluators-genai.md) — related
 - [Educators' written ideas about ChatGPT in education followed four themes: fostering AI literacy, acting as a character, improving learning, and serving as a teacher's help](chatgpt-ideas-four-themes-dataset2.md) — related
+- [Students rate GenAI's creativity enhancement in programming significantly above neutral](genai-creativity-enhancement-perceptions.md) — related

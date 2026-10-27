@@ -51,3 +51,4 @@ Narrative summary of the Schroeder et al. (2013) meta-analysis of 43 studies inv
 - [Pedagogical agents significantly improve learners' self-efficacy expectations (g = 0.29), with effects moderated by grade level, facial expressions, and reliability reporting](pa-improve-self-efficacy-expectations.md) — related
 - [Pedagogical agents significantly improve learners' interest (g = 0.30), with the effect depending on the type of control condition](pa-improve-interest.md) — related
 - [Pedagogical agents do not significantly affect learners' engagement (g = -0.02, non-significant)](pa-no-effect-engagement.md) — related
+- [Online pedagogical agents produced a small but significant effect on learning (Schroeder et al. 2013)](schroeder-2013-pedagogical-agents-small-significant-effect.md) — possibly the same claim (merge candidate)

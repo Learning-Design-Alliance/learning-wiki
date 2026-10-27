@@ -51,6 +51,7 @@ The article recommends that university staff design assessments that are harder 
 - [Redesign assessment reflectively for possible AI use, using supervised tasks for lower-order skills and intentional AI use with reflection for higher-order work](reflective-ai-aware-assessment-redesign.md)
 - [Embed AI as a learning partner and redesign assessments for AI-rich contexts](ai-learning-partner-assessment-redesign-strategies.md)
 - [Detect machine-generated writing by checking citations, originality, factual errors, grammar, contextual awareness, and with language-analysis tools](detect-chatgpt-writing-signs-and-tools.md)
+- [AI-generated-essay-then-critical-evaluation task sequence for teaching critical evaluation skills](ai-generate-then-critically-evaluate-task-sequence.md)
 
 ## Examples
 -

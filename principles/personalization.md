@@ -27,7 +27,7 @@ sources:
 # Personalization
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 85 claims (43 for, 35 mixed, 7 against) · 88 studies (29 review, 21 causal, 11 theoretical, 9 qualitative, 8 associational, 5 quant-synthesis, 5 design), `q1`–`q4` · 7 of 88 report an effect size · 80 claims rest on one study
+> **Evidence** · 86 claims (44 for, 35 mixed, 7 against) · 89 studies (29 review, 21 causal, 11 theoretical, 9 qualitative, 8 associational, 6 design, 5 quant-synthesis), `q1`–`q4` · 7 of 89 report an effect size · 81 claims rest on one study
 
 ## Conditional relationship
 
@@ -172,6 +172,7 @@ Claims this page cited that were re-read against the model (on 2026-10-15, and a
 - [Within-class heterogeneity in achievement or interest did not directly predict outcomes, but differentiated instruction was particularly advantageous in more heterogeneous German classes](../claims/heterogeneity-null-differentiated-instruction-german-interaction.md) [+W] — attached 2026-10-23 from Kopatz et al. (2025), which proposed "Adapt instruction to individual needs in heterogeneous classes to support achievement and interest"; tests this page's relationship.
 - [Individual pupils' abilities vary widely across traits, showing little evidence of correlation of abilities](../claims/little-correlation-of-abilities-within-pupils.md) [+W] — attached 2026-10-25 from Chambers (1909), which proposed "Grade rigid grading and promotion on natural rather than artificial distinctions, since a rigid system works injustice to individuals".
 - [Poor readers are highly heterogeneous and do not all display the same type of reading impairment](../claims/poor-readers-heterogeneous-reading-behaviours.md) [+W] — attached 2026-10-27 from Genevieve McArthur et al. (2017), which proposed "Assess reading behaviours, proximal causes, and comorbidities before designing an individualised intervention".
+- [Adaptive hyperbooks can ameliorate discontinuous conceptual and narrative flow during flexible navigation](../claims/adaptive-hyperbooks-ameliorate-discontinuous-flow.md) [+W] — attached 2026-10-27 from Tom Murray (2003), which proposed "Provide flexible, adaptive on-line learning material to support opportunistic active reading"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

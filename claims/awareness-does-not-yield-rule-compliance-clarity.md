@@ -53,3 +53,4 @@ Exploratory cross-tabulation (visualized as a heatmap in Fig. 1) of regulatory a
 - [Undifferentiated GenAI integrity rules convert linguistic disadvantage into integrity risk for EAL students](undifferentiated-genai-rules-convert-language-disadvantage-into-integrity-risk.md) — related
 - [Perceived clarity of AI rules is significantly dependent on discipline, with the most restrictive subjects also the least clear](rule-clarity-depends-on-discipline.md) — related
 - [AI integration in academic settings has outpaced regulatory frameworks, leaving ethical practices, assessment, and institutional responses inconsistent](ai-adoption-outpaces-regulatory-frameworks-inconsistency.md) — a broader claim this one bears on
+- [Factor 1 student teachers were confident self-reliant GenAI users who showed limited ethical awareness and reflective practices](f1-self-reliant-limited-ethical-awareness.md) — related

@@ -74,3 +74,4 @@ Same quasi-experimental cohort comparison, exam measure. The article reports the
 - [Students who used LLMs on assignments scored significantly lower than non-users on the first midterm (large effect size), but this gap narrowed and was non-significant on the later midterms](llm-users-lower-midterm1-score-gap-narrowed.md) — related
 - [Prompt-literacy guidance was associated with higher transcript-coded rule-following compliance than unrestricted LLM access, mainly in process-over-answer and stepwise-hint behaviors](guided-llm-training-raises-rule-following-compliance.md) — related
 - [AI-assisted software engineering courses assess primarily through participation, project work, and coding assignments rather than exams](ai-se-assessment-project-based-not-exams.md) — related
+- [Students used GAI in coursework but struggled to correct LLM-generated code during exams](students-struggle-correcting-llm-generated-code-exams.md) — related

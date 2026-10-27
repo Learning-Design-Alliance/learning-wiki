@@ -28,6 +28,7 @@ GIFT is a software framework for authoring, integrating, and adapting computer-b
 
 - [AutoTutor Script Authoring Tool (ASAT) and generic AutoTutor Conversation Engine (ACE)](autotutor-script-authoring-tool-asat-and-generic-autotutor-conversation-engine-ace.md)
 - [Graph4Learn (G4L) intelligent tutoring system](graph4learn-g4l-intelligent-tutoring-system.md)
+- [ASPIRE](aspire.md)
 
 ## Key Sources
 - Ventura, M., Shute, V., & Small, M. (2013). Assessing Persistence in Educational Games. Design Recommendations for Intelligent Tutoring Systems - Volume 2: Adaptive Instructional Management. https://eric.ed.gov/?q=Assessing+Persistence+in+Educational+Games

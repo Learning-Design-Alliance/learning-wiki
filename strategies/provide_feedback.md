@@ -58,9 +58,11 @@ Feedback is among the most powerful influences on learning, but its effects are 
 5. Gradually shift toward learner-generated self-assessment against criteria to build independence.
 
 ## Related Strategies
+
 - [Action-Oriented Feedback](action-oriented-feedback.md) — a specific formulation of feedback that mandates a next action
 - [Formative Assessment](../principles/assessment-for-learning.md) — the assessment cycle that generates feedback opportunities
 - [Peer Review](../elements/peer-review.md) — distributes feedback generation to learners
+- [Provide negative feedback on errors without knowledge engineering efforts by diagnosing errors via impasse-and-repair interpolation of the task model](negative-feedback-without-knowledge-engineering.md)
 
 ## Examples
 - **ASSISTments** ([https://www.assistments.org](https://www.assistments.org)) — math homework platform delivering immediate, step-level feedback to students and error reports to teachers.

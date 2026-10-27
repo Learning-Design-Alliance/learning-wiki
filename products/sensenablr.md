@@ -36,7 +36,8 @@ SensEnablr is a student-facing learning analytics dashboard developed by Gomathy
 - [Comparative dashboard features found less support among online students than recommendations and contact features](../claims/comparative-features-less-support-online-students.md) [~W]
 
 ## Related Products and Programmes
--
+
+- [Knowledge-based learning analytics dashboard for authoring courses with smart learning content](knowledge-based-learning-analytics-dashboard-for-authoring-courses-with-smart-learning-con.md)
 
 ## Key Sources
 - Gomathy Ramaswami, Teo Susnjak and Anuradha Mathrani. (2023). Effectiveness of a Learning Analytics Dashboard for Increasing Student Engagement Levels. Journal of Learning Analytics, 10(3). https://doi.org/10.18608/jla.2023.7935

@@ -70,3 +70,4 @@ Hierarchical multiple regression on exam scores: Time 2 predictors raised total 
 - [Domain-specific question-asking fluency, originality, and complexity significantly increased over a semester of domain knowledge acquisition](domain-specific-question-asking-improves-with-knowledge.md) — related
 - [Question-asking originality and complexity positively correlated with open-ended group project performance, while fluency measures correlated negatively](question-asking-positive-open-ended-project.md) — related
 - [Predictors of open-ended project performance showed a temporal reversal: early-semester DS-AQT complexity negatively predicted project performance while end-of-semester DS-AQT complexity positively predicted it](temporal-reversal-project-predictors.md) — related
+- [Students' activity within Lab4CE correlates positively with their learning achievement (r = 0.41, p = .002)](lab4ce-activity-achievement-correlation.md) — related

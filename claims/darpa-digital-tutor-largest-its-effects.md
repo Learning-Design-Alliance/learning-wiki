@@ -49,3 +49,4 @@ Two summative field evaluations compared end-of-course test scores from Digital 
 - [Intelligent tutoring raised test scores by a median of 0.66 standard deviations over conventional instruction across 50 controlled evaluations](its-meta-analysis-median-es-066-sd.md) — a broader claim this one bears on
 - [ITS groups outperformed conventional-instruction controls in 92% of the 50 evaluations, with gains above 0.25 SD in 78%](its-beat-controls-in-92-percent-of-evaluations.md) — related
 - [Intelligent tutoring systems improve achievement over non-individualised instruction](adaptive-learning-improves-outcomes.md) — a broader claim this one bears on
+- [A large-scale USA study of Cognitive Tutors found only limited evidence of relative effectiveness over conventional teaching, with classroom use not strongly controlled](pane-2014-cognitive-tutor-limited-effectiveness-scale.md) — related
