@@ -47,7 +47,8 @@ The article's authors recommend that if the underlying dimensions of neural repr
 - [Neural signatures of physics concepts are measurably common across physicists](../claims/neural-signatures-common-across-physicists.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Explicitly explain the visuospatial motivation of concept-motivated signs to support learners with weaker foundations](explain-cm-sign-motivations-strategy.md)
 
 ## Examples
 -

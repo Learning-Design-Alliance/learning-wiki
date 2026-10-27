@@ -162,3 +162,4 @@ Two meta-analyses: the first (k=273 studies, N=365,915) examined the correlation
 - [Experimentally manipulated growth mindset-supportive messages and opportunities causally affect students' willingness to act on their growth mindset beliefs, with strongest effects when both are present](messages-and-opportunities-shape-mindset-culture.md) — related
 - [Early-stage performance advantages associated with growth mindsets may translate into downstream opportunity benefits such as internships and scholarships](early-advantage-may-translate-to-opportunity-benefits.md) — related
 - [Prior meta-analyses report mixed effects of growth mindset interventions on achievement, with estimates ranging from a non-significant d = 0.05 to d = 0.14](growth-mindset-intervention-meta-analyses-mixed.md) — related
+- [Mindset interventions have only a weak effect on later academic achievement](mindset-interventions-weak-effect.md) — related

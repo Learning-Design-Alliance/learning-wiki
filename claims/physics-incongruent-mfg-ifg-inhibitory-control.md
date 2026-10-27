@@ -72,3 +72,4 @@ Authors' interpretation in the discussion: the greater involvement of frontal an
 - [Scientists with a Ph.D. in physics respond more slowly to incongruent statements than to matched congruent statements, with a response-time increase in physics twice as large as in biology](phd-physicists-slower-incongruent-statements.md) — related
 - [Physicists with a Ph.D. are slightly more accurate judging physics statements than biology statements (d = 0.5)](physicists-more-accurate-physics-than-biology-statements.md) — related
 - [Alternative conceptions persist alongside scientific conceptions and resist change even after instruction](alternative-conceptions-persist-coexist.md) — related
+- [Reading supernatural scenarios with unexpected realistic characters activates the left preCG, poCG and IFG more than reading supernatural scenarios with fictional characters](sr-greater-activation-than-sf-sensorimotor-ifg.md) — related

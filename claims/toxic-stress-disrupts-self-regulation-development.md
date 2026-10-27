@@ -67,3 +67,4 @@ The brief states this as a finding from the research literature on stress and se
 - [Positive developmental relationships are the active ingredient in effective child-serving systems, buffering stress and fueling learning](positive-developmental-relationships-active-ingredient.md) — related
 - [Coaching helped students manage daily stress and enhanced their sense of well-being and self-control](coaching-enhanced-well-being-stress-management.md) — a narrower finding that bears on this claim
 - [Affective reactivity can override adolescents' regulatory intentions for digital engagement](affective-reactivity-overrides-digital-regulation-intentions.md) — a narrower finding that bears on this claim
+- [The school environment can serve as a source of chronic stress: bullying at school is linked to higher hair cortisol and poorer executive function](school-environment-chronic-stress-hair-cortisol.md) — a narrower finding that bears on this claim

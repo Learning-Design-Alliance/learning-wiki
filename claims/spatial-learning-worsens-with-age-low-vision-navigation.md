@@ -51,3 +51,4 @@ Cross-age comparison combining 12 older adults with younger-adult data from Rand
 - [Multitasking performance on NeuroRacer declines linearly across the adult lifespan from ages 20 to 79](neuroracer-multitasking-cost-linear-age-decline.md) — related
 - [Cross-sectional advantages are largest for perception, multitasking, spatial cognition, and top-down attention](avg-domain-pattern-perception-attention-spatial.md) — related
 - [Self-reported safety anxiety (SUDS) did not differ between guided and unguided conditions in older adults with simulated low vision](no-suds-anxiety-difference-guidance-older-adults.md) — related
+- [Reversal learning performance increases with age from 10 to 22 years, with the steepest improvement between 10 and 14 years](reversal-learning-increases-age-early-adolescence.md) — related

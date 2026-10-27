@@ -46,3 +46,4 @@ The review reports, citing a cortical thickness study of bilingual and monolingu
 
 ## Related Claims
 - [In children and adolescents, arithmetic skill is positively related to gray matter volume in the left inferior frontal gyrus and left middle temporal gyrus](arithmetic-skill-left-ifg-mtg-gray-matter-volume.md) — related
+- [VR-based interactive L2 vocabulary learning shows cortical-thickness correlations in right IPL across training and with delayed retention, unlike non-VR learning](vr-l2-cortical-thickness-right-ipl.md) — related

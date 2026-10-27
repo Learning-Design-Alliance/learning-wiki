@@ -53,3 +53,4 @@ Control-variable results from the final three-level model, with male as the refe
 - [Girls show less confidence and interest in math and science from early adolescence, and a strong math/science self-concept predicts course choice and performance for both genders](girls-confidence-interest-gap-self-concept-predicts-choices.md) — related
 - [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](pisa-sex-differences-math-small-reading-three-times-larger.md) — related
 - [Emotional and behavioral engagement decline during the first year of secondary school, with emotional engagement declining more strongly for boys than girls](engagement-declines-first-year-secondary-school.md) — related
+- [Boys report moderately higher academic self-concept than girls in fourth and fifth grades, but not in sixth grade](boys-higher-asc-grades-4-5-not-6.md) — related

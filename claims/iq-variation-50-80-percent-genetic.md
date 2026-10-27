@@ -54,3 +54,5 @@ The review's synthesis of twin and adoption research states "50 –80% of IQ var
 - [Genetic factors account for a substantial share of variation in educational outcomes and related behavioral traits](genetic-factors-substantial-share-educational-outcome-variation.md) — a narrower finding that bears on this claim
 - [Heritability estimates are population-specific parameters, and the heritability of cognitive skills rises gradually through childhood and adolescence](heritability-population-specific-rises-through-childhood.md) — related
 - [High heritability does not imply that environmental interventions to modify a trait are doomed to failure](high-heritability-does-not-preclude-environmental-intervention.md) — related
+- [Twin ratings show chaos in the home is partially genetically confounded with school achievement (22% genetic variance; 37% of association via shared genes)](chaos-home-genetic-confound-school-achievement.md) — related
+- [Heritability of educational achievement varies as a function of SES in the United States but not in countries with more uniform access to high-quality education](heritability-ses-interaction-country-policy.md) — related

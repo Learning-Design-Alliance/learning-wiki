@@ -54,3 +54,4 @@ Reconstruction from lecture XXVIII of Mead's Course 50, reported in the article'
 - Mead holds that social interaction precedes and produces reflective self-consciousness — related
 - [A tool's effectiveness results from the whole configuration of events, activities, and contexts in which it is used](tool-effectiveness-depends-on-context-configuration.md) — related
 - [Ability acquired in one branch of study appears transferable to another to a considerable extent, or else general intellectual and moral attitude matters more than method](transfer-of-study-methods-mature-age.md)
+- [Learning from others acquires usable information efficiently but limits the potential for innovation](social-learning-limits-innovation.md) — reports the opposite

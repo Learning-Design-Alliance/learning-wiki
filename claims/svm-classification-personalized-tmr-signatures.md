@@ -48,3 +48,4 @@ SVM with RBF kernel, 5-fold cross-validation with 2 repetitions, classifying gro
 - [Auditory cueing during NREM sleep elevates slow wave and spindle power relative to no stimulation, with effects concentrated in frontal and central regions](tmr-elevates-sw-spindle-power-nrem.md) — related
 - [In the personalized TMR group, memory improvement for challenging items correlates positively with SW-spindle coupling (r = 0.70), but no such correlation appears in the All condition or other groups](sw-spindle-coupling-correlates-l3-gains.md) — related
 - [Personalized TMR improves recall accuracy for the most challenging (L3) word pairs, outperforming both uniform TMR and no-stimulation control in the post-sleep session](personalized-tmr-l3-accuracy-improvement.md) — related
+- [Hippocampal sharp-wave ripples during SWS and waking support memory consolidation and spatial task performance](swr-replay-supports-consolidation-and-spatial-memory.md) — related

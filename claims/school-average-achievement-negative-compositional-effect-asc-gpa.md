@@ -59,3 +59,4 @@ Doubly-latent multilevel SEM analysis of ELS:2002 data (N = 16,197 students, 751
 - [Classroom-average mathematics achievement shows no statistically significant association with ASC development when clique achievement is modeled simultaneously](classroom-achievement-no-significant-asc-effect.md) — reports the opposite
 - [Clique-average mathematics achievement negatively predicts the development of adolescents' academic self-concept (a BFLPE at the clique level)](clique-achievement-negative-bflpe-asc-change.md) — a narrower finding that bears on this claim
 - [The school-level BFLPE on math self-concept is weak once class-level achievement is controlled](school-level-bflpe-weak-after-class-control.md) — related
+- [School-level academic achievement does not mediate the association between school-level parental education and school-level academic self-concept](school-achievement-not-mediator-school-asc.md) — related

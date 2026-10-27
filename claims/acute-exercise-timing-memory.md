@@ -111,3 +111,4 @@ Participants were randomly assigned to one of three groups, and all of them lear
 - [Force error increased at retention for the rest group but not the exercise group](force-error-retention-group-by-time.md) — a narrower finding that bears on this claim
 - [Exercise eliminated the offline skill decline seen after rest: the rest group lost skill over the 6-hour delay while the exercise group did not](hiit-preserves-skill-over-six-hour-retention.md) — a narrower finding that bears on this claim
 - [High-intensity exercise prior to practice reduced skill acquisition in older adults, with the detriment specific to the oldest participants](hiit-reduces-motor-acquisition-oldest-older-adults.md) — related
+- [Cognitive control strategies enhanced young children's coding skills, with attention during learning related to coding outcomes](cognitive-control-strategies-improve-coding-skills-attention-linked.md) — a narrower finding that bears on this claim

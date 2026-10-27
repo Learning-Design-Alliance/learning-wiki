@@ -75,3 +75,4 @@ The review reports, citing García-Gámez and Macizo (2023), that "congruent ges
 - [Gesture-enriched learning improves 8-year-olds' L2 vocabulary translation and free recall compared with non-enriched learning, persisting up to 6 months](gesture-enrichment-l2-vocabulary-children.md) — related
 - [Gesture and picture enrichment produced similar benefits on children's L2 vocabulary learning, contrary to adult findings favoring gestures](gesture-picture-similar-benefits-children.md) — related
 - [Item-level retention advantage of a highly motionally salient gesture cannot be attributed to movement dynamics alone](motional-salience-not-independently-causal-nunun.md) — related
+- [Gesture-enacted L2 vocabulary learning yields significantly better memory and more sustained retention than non-gesture learning, lasting 2–6 months](gesture-learning-sustained-l2-retention.md) — related

@@ -172,3 +172,4 @@ Open questions include the optimal pacing of the letter–sound sequence, how mu
 - [The National Reading Panel provided no evidence that phonics helps the majority of struggling readers above grade 1](nrp-no-evidence-struggling-readers-above-grade-1.md) — related
 - [The Torgerson et al. (2006) meta-analysis of randomized controlled trials found almost no strong evidence for systematic phonics](torgerson-rct-meta-analysis-weak-evidence-phonics.md) — reports the opposite
 - [The multi-component intervention produced statistically significant advantages over business-as-usual on one decoding measure (ES = 0.58) and one fluency measure (ES = 0.46), but not on reading comprehension](intervention-gains-decoding-fluency-not-comprehension.md) — related
+- [Phonics control training did not significantly increase reading speed in language learners and did not differ significantly from lexical categorization training](phonics-control-null-reading-speed.md) — related

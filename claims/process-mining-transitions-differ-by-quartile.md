@@ -69,3 +69,4 @@ The high-performing group's process map (Fig. 2a) showed most students began wit
 - [Frequency of incorrect quiz submissions differs across performance quartiles, with low performers submitting incorrect answers most often](incorrect-submissions-differ-across-quartiles.md) — related
 - [Exam scores correlate positively with correct submissions and negatively with incorrect submissions and solution access](trace-frequencies-correlate-with-exam-scores.md) — related
 - [Low-performing students access solutions more often than higher-performing students, while hint access does not differ across quartiles](solution-access-differs-hints-do-not.md) — related
+- [Process mining showed LPK students began with preparatory tasks and achieved a higher proportion of correct decisions, while HPK students skipped preparation and increasingly took advanced tasks](process-mining-correct-decision-lpk.md) — a narrower finding that bears on this claim

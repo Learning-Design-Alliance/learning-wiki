@@ -51,3 +51,4 @@ Pre-post control group intervention; robust mixed-design analysis of gains on th
 ## Related Claims
 - [Spatial language training significantly improves 4-6-year-olds' spatial language comprehension compared to controls](spatial-language-training-improves-comprehension.md) — related
 - [Spatial language training does not significantly improve verbal number skills compared to controls](spatial-language-training-no-verbal-number-effect.md) — related
+- [Spatial training causally improves mathematics performance, with an overall effect size of Hedges's g = 0.28](spatial-training-improves-math-performance.md) — related

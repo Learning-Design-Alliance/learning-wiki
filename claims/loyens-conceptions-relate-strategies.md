@@ -54,3 +54,4 @@ Summary of the Loyens, Rikers, and Schmidt study examining how students' concept
 - [Studies since 2004 confirm strong interrelations among processing strategies, regulation strategies, conceptions, and motivations of learning patterns](learning-pattern-components-interrelated.md) — a broader claim this one bears on
 - [Students' conceptions of self-regulated learning can diverge from their reported self-regulated learning activities](conceptions-diverge-from-srl-activities.md) — a narrower finding that bears on this claim
 - [Conceptions of knowledge construction showed no significant relationships with students' reported regulation strategies](knowledge-construction-conceptions-no-regulation-relationships.md) — reports the opposite
+- [Dichotomous views of learning as individual or social continue to shape research and learning environments](constructivist-sociocultural-dichotomy-shapes-practice.md) — related

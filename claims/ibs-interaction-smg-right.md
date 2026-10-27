@@ -51,3 +51,4 @@ Repeated measures 2×2 ANOVA on wavelet transform coherence IBS across 21 channe
 - [High interdependent cooperation tasks yield higher key-pressing scores than low interdependent tasks for both friend and stranger dyads](high-interdependence-task-improves-cooperation-scores.md) — related
 - [Feedback types elicit distinct fNIRS activation patterns: frontopolar and middle temporal gyrus higher under metacognitive feedback, supramarginal gyrus under affective feedback, DLPFC under neutral feedback](chatbot-feedback-type-brain-activation-patterns.md) — related
 - [Functional connectivity between right insula/IFG and right SMG is stronger in children with RU2Short alleles](ru2short-stronger-right-ifg-smg-connectivity.md) — related
+- [The mere presence of a social partner facilitates L2 word learning, with right SMG and IFG activity tracking learning outcomes and partner coordination](partner-presence-facilitates-l2-word-learning.md) — related

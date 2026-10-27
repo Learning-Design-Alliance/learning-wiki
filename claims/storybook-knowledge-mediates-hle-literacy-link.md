@@ -71,3 +71,5 @@ Hierarchical regression Model 2 on letter knowledge (N = 174): book-cover recogn
 - [Book-cover recognition predicts vocabulary and letter knowledge even after controlling for intelligence and cognitive control](book-cover-recognition-predicts-literacy-beyond-intelligence.md) — related
 - [Cognitive control mechanisms do not moderate the beneficial effects of book exposure on early literacy outcomes](cognitive-control-does-not-moderate-book-exposure.md) — related
 - [More frequent parent-reported home literacy activities were associated with better children's math performance, controlling for covariates](literacy-activities-associated-math.md) — related
+- [Under the Familial Control Method, most home-literacy effects on children's reading vanish after controlling parental reading, but books in the home retain a significant effect](home-literacy-genetic-confound-books-exception.md) — related
+- [More frequent home literacy practices are associated with children's vocabulary skill but not with reading accuracy or speed](home-literacy-vocabulary-not-reading-fluency.md) — related

@@ -44,6 +44,7 @@ The article recommends pairing AI-driven learning predictions with interpretabil
 - [Use interpretable feature-driven machine learning as a human-in-the-loop baseline for flagging ethnic bias in learning content](feature-driven-ml-baseline-bias-flagging.md)
 - [Deploy agentic AI in education with transparency about agentic decisions, human oversight and institutional responsibility](responsible-deployment-transparency-human-oversight-agentic-ai.md)
 - [Jointly investigate fairness in machine learning with core ML researchers when deploying adaptive collaborative learning support](cscl-ml-fairness-joint-investigation.md)
+- [Embed ethical safeguards — informed consent, moral decision-making frameworks, explainable AI — when deploying AI agents in MOOC research](ethical-safeguards-for-ai-agents-in-moocs.md)
 
 ## Examples
 -

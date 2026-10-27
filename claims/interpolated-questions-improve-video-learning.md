@@ -60,3 +60,4 @@ The essay reports, citing Szpunar et al. (2013), a comparison of interpolated-qu
 - [Properly segmented text facilitates decoding, encoding, and retrieval better than poorly segmented text](segmentation-idea-units-improve-learning.md) — related
 - [Guiding questions and student control over video movement improve learning outcomes and satisfaction](guiding-questions-and-video-control-improve-learning.md) — related
 - [Continuously thematically structured lectures led to worse free recall than discontinuous lectures, contrary to intuition](lecture-structure-worse-recall-continuous.md) — related
+- [In complex materials, interim testing improves learning of new lecture-video segments and passage sections, including comprehension and integration](forward-testing-complex-materials.md) — possibly the same claim (merge candidate)

@@ -52,3 +52,4 @@ Multilevel models of verbal ability on the two PGSs without SES (Table 3, combin
 - [Polygenic score predictions are reduced in African American relative to European ancestry samples, significantly so only for educational attainment](pgs-predictions-reduced-african-american-samples.md) — related
 - [Parental SES context significantly and simultaneously predicts youth verbal ability in Add Health, with mother's education the largest SES coefficient](ses-context-predicts-verbal-ability-add-health.md) — related
 - [A polygenic score for educational attainment positively predicts reading and speaking skills in early childhood, later scholastic achievement, and adult economic security](pgs-predicts-skills-across-life-course.md) — related
+- [Non-transmitted parental polygenic scores predict offspring educational attainment, evidencing genetic nurturing effects in adults](genetic-nurturing-nontransmitted-pgs-adult-attainment.md) — related

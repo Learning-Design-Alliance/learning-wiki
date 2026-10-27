@@ -50,3 +50,4 @@ Experiment 1: 98 right-handed undergraduates randomly assigned to a cued-recall 
 - [Even a substantially increased declarative-load intervening task placed late in training does not impair the post-rest gain (Experiment 2)](increased-declarative-load-late-no-impairment-experiment-2.md) — possibly the same claim (merge candidate)
 - [Trial-level reactive inhibition (progressively larger sequence RTs within trials) emerges during training and dissipates across rest breaks in the FTT](trial-level-reactive-inhibition-finger-tapping.md) — related
 - [No significant association exists between intervening-task performance and post-rest motor gain in any experiment](no-association-declarative-performance-motor-gain.md) — related
+- [Reactive inhibition builds within trials during motor sequence practice, appearing as slower responses later in each trial](reactive-inhibition-builds-within-motor-trials.md) — related

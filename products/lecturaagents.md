@@ -29,7 +29,8 @@ LecturaAgents is a hierarchical multi-agent AI framework developed by Jaward Ses
 - [Embodied teaching actions are spatially accurate across models, but temporal action–speech alignment remains more variable](../claims/lecturaagents-taq-spatial-strong-temporal-variable.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [Goal Net and Multi-Agent Development Environment (MADE)](goal-net-and-multi-agent-development-environment-made.md)
 
 ## Key Sources
 - Jaward Sesay, Yue Yu, Siwei Dong, Börje F. Karlsson. (2026). Lect¯uraAgents: A Multi-Agent Framework for Adaptive Personalized AI-Assisted Learning and Embodied Teaching. arXiv. https://arxiv.org/abs/2606.16428

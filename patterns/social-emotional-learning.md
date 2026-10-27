@@ -176,6 +176,7 @@ This pattern is scoped to sustained, explicit teaching and reinforcement of name
 - [Community of Inquiry](../principles/community-of-inquiry.md) — both treat social presence as a precondition for deep engagement, though RC operates at classroom-routine grain rather than discourse grain
 
 ## Examples
+
 - [Bronxdale High School whole-school design](../designs/bronxdale-whole-school-design-pattern.md) — inquiry instruction integrated with social-emotional supports and restorative discipline
 - [Gateway guiding principles and structures](../designs/gateway-guiding-principles-structures-pattern.md) — inclusivity, relationships and continuous improvement carried by advisories, inclusion and project-based instruction
 
@@ -189,6 +190,7 @@ This pattern is scoped to sustained, explicit teaching and reinforcement of name
 - **[Center for Responsive Schools](https://www.responsiveschool.org)** — the developer organization; publishes RC professional development, the *Responsive Classroom* course sequence, and implementation fidelity tools used in the evaluation studies below.
 - **Fairfield, Connecticut elementary schools (i3-scale RCT):** A large randomized controlled trial across 24 elementary schools found significant gains in math and reading achievement and improved teacher efficacy in schools implementing RC with fidelity (Ottmar et al., 2017).
 - **Morning Meeting in a 3rd-grade classroom:** 25-minute daily meeting — greeting around the circle, two student shares with peer questions, a quick cooperative game, and preview of the day's learning goals — followed by interactive modeling of the new math-station routine.
+- [Tailor SEL programming to developmental level, from preschool skill practice through adolescent status-and-respect opportunities](../strategies/developmentally-tailored-sel-programs.md)
 
 ## Key Sources
 - Durlak, J. A., Weissberg, R. P., Dymnicki, A. B., Taylor, R. D., & Schellinger, K. B. (2011). The impact of enhancing students' social and emotional learning: A meta-analysis of school-based universal interventions. *Child Development, 82*(1), 405–432. [doi:10.1111/j.1467-8624.2010.01564.x](https://doi.org/10.1111/j.1467-8624.2010.01564.x)

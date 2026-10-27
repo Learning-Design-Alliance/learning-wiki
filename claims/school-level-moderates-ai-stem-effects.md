@@ -55,3 +55,4 @@ Subgroup analysis across school levels within the meta-analysis of 99 effect siz
 - [ITS produce significant positive effects at all grade levels and in almost all subject domains evaluated, with exceptions such as chemistry](its-effects-across-grades-subjects-prior-knowledge.md) — related
 - [The effect of SRL interventions does not differ significantly by course type, SRL strategy type, school level, or learning context](srl-effect-no-significant-moderator-differences.md) — reports the opposite
 - [Neither grade level nor outcome type significantly moderates the effects of Spanish reading programs](no-moderator-effects-grade-or-outcome.md) — reports the opposite
+- [Dynamic coupling-improvement effects are grade-dependent, significant in junior but not senior students](coupling-dynamic-effects-junior-subsample.md) — related

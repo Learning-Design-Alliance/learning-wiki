@@ -73,3 +73,4 @@ High school mediation model in the same SECCYD SEM framework; the indirect path 
 - [The mediating role of executive functions remains significant when children's temperament and vocabulary are modeled as alternative mediators](ef-mediation-robust-to-temperament-vocabulary.md) — a narrower finding that bears on this claim
 - [Indirect effects via executive functions hold for CPT inhibition, sustained attention, and delay of gratification indicators but not the Day-Night Stroop](stroop-indicator-mediation-nonsignificant.md) — a narrower finding that bears on this claim
 - [The mediated EC-achievement model is not moderated by children's sex, age, or SES](no-moderation-sex-age-ses.md) — related
+- [Executive function partially mediates the link between family SES and middle-school academic achievement](ef-mediation-ses-achievement.md) — related

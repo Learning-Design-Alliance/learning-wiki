@@ -48,6 +48,7 @@ Because excluding money, food, and social-interaction content from tests is "nei
 ## Related Strategies
 
 - [Use design-based implementation research with educator co-design and iterative pre-post testing cycles to develop a usable, feasible classroom intervention.](dbir-iterative-co-design-process.md)
+- [Leverage cognitive strengths of low-SES children via group work, real-world application, and oral/narrative learning and assessment](leverage-hidden-talents-low-ses.md)
 
 ## Examples
 -

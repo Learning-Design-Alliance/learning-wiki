@@ -76,3 +76,4 @@ Welch t-test on the Perceived Competence subscale; the control group (M = 4.71, 
 - [Students report higher engagement and motivation with the AI tutor, with comparable enjoyment and growth mindset](ai-tutor-engagement-motivation-higher.md) — related
 - [In-session autonomy, competence and intrinsic motivation are higher during basketball mathematics than during classroom mathematics](higher-in-session-motivation-during-basketball-mathematics.md) — related
 - [The game sessions showed high attendance, engagement, and enjoyment, with no differences among conditions](board-game-high-engagement-enjoyment-attendance.md) — related
+- [Enjoyment of the instructional type did not differ between the movement and seated video groups, with both groups reporting high enjoyment](movement-videos-enjoyment-null-group-difference.md) — related

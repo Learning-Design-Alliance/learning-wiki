@@ -49,3 +49,4 @@ The review reports, citing Terwiesch (2023), a Wharton professor's account that 
 - [Mathematics teachers critique ChatGPT-generated generative learning lessons for poor fit to students, boredom, preparation time, missing student-facing materials, mathematical flaws, and required materials](teachers-critique-chatgpt-lesson-output.md) — related
 - [A page-by-page, rubric-guided multimodal LLM workflow graded an authentic handwritten exam in about three hours at roughly $100 in token costs, versus about $3,500 in TA time](ai-grading-workflow-feasibility-cost.md) — related
 - [Human scoring and feedback for HDR takes about 11 minutes 30 seconds per learner, while GPT-based scoring and feedback is nearly instant](hdr-human-scoring-time-burden.md) — related
+- [ChatGPT-based coding of classroom dialogue is about 30 times faster than experienced human manual coding](gpt4-dialogue-coding-thirtyfold-time-saving.md) — related

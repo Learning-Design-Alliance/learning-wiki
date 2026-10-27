@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2023
+source_checked: 2026-10-27
 sources:
   - id: leila-etemadi-2023
     resource: "https://doi.org/10.1038/s41539-023-00167-w"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · checked against its sources 2026-10-27 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` For each block of 10 trials, CR percentage increases by an average of 2.15%, a statistically significant effect. [→ Leila Etemadi 2023](#leila-etemadi-2023)
@@ -51,3 +52,4 @@ Linear mixed effects model of CR percentage across 10 training blocks in 42 part
 - [Concurrent working memory tasks significantly reduce conditioned response percentage](working-memory-tasks-reduce-cr-percentage.md) — related
 - [Working memory performance ranking does not predict conditioned response percentage](wm-performance-does-not-predict-crs.md) — related
 - [Explicit awareness of stimulus contingencies is not necessary for successful delay eyeblink conditioning](awareness-not-necessary-delay-conditioning.md) — related
+- [CR percentage gains occur on both day 2 and day 3, with a larger gain on day 2 than day 3](day2-and-day3-cr-gains-embedded-conditioning.md) — related

@@ -52,3 +52,4 @@ Causal regression model with A confounding (Model 4), the article's model of cho
 ## Related Claims
 - [Teacher-rated self-control and grit jointly explain 28.4% of the variance in school performance in standard phenotypic regression](self-control-grit-explain-28-percent-school-performance.md) — related
 - [Twin correlations indicate genetic influences on self-control, grit, and school performance, with cross-trait cross-twin correlations higher in MZ than DZ twins](mz-dz-twin-correlations-genetic-influences-traits.md) — related
+- [Associations between the rearing environment and children's outcomes can be partly or fully due to genetic confounding rather than causal environmental transmission](genetic-confounding-rearing-environment-causal-claims.md) — related

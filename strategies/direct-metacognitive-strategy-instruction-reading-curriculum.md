@@ -40,6 +40,7 @@ The article recommends that direct instruction of metacognitive strategies be bu
 
 - [Teach less-proficient EFL learners metacognitive strategies, effort regulation, and help-seeking, supported by goal-setting training](teach-srl-strategies-less-proficient-efl-learners.md)
 - [Teachers should act as interfaces between textbooks and learners, adapting strategies to individual learner variables](teachers-interface-textbooks-learners-adapt-strategies.md)
+- [Integrate planning, monitoring and reflecting strategies systematically into early-childhood lesson design](embed-planning-monitoring-reflecting-early-childhood-lessons.md)
 
 ## Examples
 -

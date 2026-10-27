@@ -25,7 +25,8 @@ ParaTutor is a multi-agent LLM-based home math word-problem tutoring system deve
 - [Interactive visual grounding helped children interpret word problems by making hidden relational constraints manipulable and visible](../claims/interactive-visual-grounding-relational-interpretation.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [Goal Net and Multi-Agent Development Environment (MADE)](goal-net-and-multi-agent-development-environment-made.md)
 
 ## Key Sources
 - LUO Lan, WANG Anqi, ZHOU Muzhi, ZHU Junhua, CAI Jie, YU Ao, and PAN Hui. (2024). ParaTutor: Coordinating Parent-Child Math Tutoring through Role-Separated LLM Scaffolding. https://arxiv.org/abs/2606.18030

@@ -13,7 +13,7 @@ generated:
 # Spatial Ability
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 70 claims (50 show a difference, 13 mixed, 7 no difference) · 40 studies (16 associational, 13 causal, 7 review, 2 quant-synthesis, 2 qualitative), `q1`–`q4` · 11 of 40 report an effect size · 69 claims rest on one study
+> **Evidence** · 71 claims (50 show a difference, 14 mixed, 7 no difference) · 41 studies (16 associational, 13 causal, 7 review, 2 quant-synthesis, 2 qualitative, 1 theoretical), `q1`–`q4` · 11 of 41 report an effect size · 70 claims rest on one study
 
 ## Description
 Spatial ability covers mental rotation, visualising objects from other viewpoints, holding visual-spatial information in memory and reasoning about the relations among shapes. It is measured with timed tasks (mental rotation, paper folding, embedded figures). It correlates moderately with mathematics and science achievement and is strongly associated with entry into and success in STEM fields, and training studies show it can be improved. It overlaps with [general cognitive ability](general-cognitive-ability.md) and with visual-spatial [working memory](working-memory.md).
@@ -106,6 +106,7 @@ Spatial ability covers mental rotation, visualising objects from other viewpoint
 - [Ten-day mental rotation training improves accuracy and response time, with behavioral benefits maintained up to 90 days post-training](../claims/mr-training-accuracy-rt-gains-90-days.md) [+M] — instruction changes it
 - [Non-learners place objects significantly farther from original locations in a spatial memory task than learners do](../claims/non-learners-poorer-spatial-memory-object-placement.md) [+M] — learners who differ on it differ in outcomes
 - [A 6-week LSAT Logic Games course produced greater improvement on a composite of four visuospatial reasoning assessments than a Reading Comprehension course](../claims/lsat-logic-games-transfer-composite-reasoning.md) [+M] — instruction changes it
+- [Spatial skill-mathematics associations may be particularly strong for lower-SES children, suggesting spatial instruction could promote equity](../claims/spatial-instruction-equity-lower-ses.md) [~W] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

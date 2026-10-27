@@ -13,7 +13,7 @@ generated:
 # Prior Knowledge
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 185 claims (112 show a difference, 51 mixed, 22 no difference) · 147 studies (45 causal, 32 review, 24 associational, 21 theoretical, 9 quant-synthesis, 8 qualitative, 8 design), `q1`–`q4` · 20 of 147 report an effect size · 168 claims rest on one study
+> **Evidence** · 189 claims (113 show a difference, 54 mixed, 22 no difference) · 149 studies (46 causal, 32 review, 24 associational, 22 theoretical, 9 quant-synthesis, 8 qualitative, 8 design), `q1`–`q4` · 20 of 149 report an effect size · 172 claims rest on one study
 
 ## Description
 A learner's existing domain knowledge in the subject area before instruction begins — the organized network of concepts, procedures, and experiences that new learning must connect to. It is typically operationalized as a pretest score, a standardized prior-achievement measure, or instructor-rated expertise level, and functions as the single strongest predictor of learning gains in most instructional research [~S]. Prior knowledge is the learner-side variable that drives the [Expertise Reversal Effect](../theories/expertise-reversal-effect.md): the same technique that helps novices can hinder more knowledgeable learners.
@@ -233,6 +233,10 @@ The Learner Variability Navigator's Core Academic Literacies factor belongs here
 - [Prior math achievement has at most a small effect on learning from Productive Failure, and topic-specific prerequisite knowledge has none](../claims/prior-achievement-small-or-no-effect-pf-posttest.md) [-M] — learners who differ on it differ in outcomes
 - [Students with very different prior math achievement generate similar numbers of representations and solution methods during Productive Failure](../claims/prior-achievement-weakly-associated-inventive-production.md) [-M] — learners who differ on it differ in outcomes
 - [Baseline science knowledge moderates the question-asking benefit on willingness-to-pay: children with lower background knowledge gain more](../claims/baseline-science-knowledge-moderates-valuation-benefit.md) [+M] — an instructional effect differs with it
+- [Available prior knowledge affects learning only when it is activated before the task](../claims/activation-required-prior-knowledge-effects.md) [~M] — learners who differ on it differ in outcomes
+- [Overall choice frequency did not differ by condition or prior knowledge, but the condition pattern reversed across prior-knowledge groups](../claims/choice-frequency-pk-condition-reversal.md) [~M] — an instructional effect differs with it
+- [Prior domain knowledge predicts learning outcomes but not, on average, learning gains](../claims/prior-knowledge-predicts-outcomes-not-gains.md) [~M] — learners who differ on it differ in outcomes
+- [Prior knowledge significantly predicted algebra posttest scores and learning gains, with high-prior-knowledge students scoring higher and low-prior-knowledge students gaining more](../claims/prior-knowledge-moderates-algebra-outcomes.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does knowing more beforehand mean learning more from the instruction?* [Prior Knowledge Determines New Learning](../claims/prior-knowledge-determines-new-learning.md) [+M]

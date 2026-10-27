@@ -45,6 +45,7 @@ The article recommends that institutions prioritize long-term integration of AI 
 - [Adopt AI-PBL frameworks with institutional and policy-level support and teacher training investment](adopt-ai-pbl-with-teacher-training-investment.md)
 - [Sustain doctoral methodological competence through continued practice, feedback, and authentic application rather than isolated short courses](sustained-practice-for-doctoral-methodological-skills.md)
 - [Align peer mindset interventions with teacher practices and broader classroom context rather than isolating them](align-peer-interventions-with-classroom-context.md)
+- [Sustain educational interventions throughout development and evaluate long-term rather than short-term efficacy](sustained-interventions-throughout-development.md)
 
 ## Examples
 -

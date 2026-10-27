@@ -9,6 +9,7 @@ generated:
   at: 2026-10-21
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-10-27
 sources:
   - id: núñez-regueiro-2026
     resource: "https://doi.org/10.1007/s10648-026-10131-w"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q3`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-10-27 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Multigroup analyses by gender and by initial ability level showed highly comparable effects, with no fit improvement from allowing effects to vary. [→ Núñez-Regueiro 2026](#nunez-regueiro-2026)
@@ -55,3 +56,4 @@ Multigroup RI-CCLPM variants by gender and initial ability. The temporal structu
 - [The mutualism model's coupling structure held equally across sexes and age did not directly predict change scores](coupling-robust-across-sexes-age.md) — related
 - [Reciprocal associations between relationship quality and emotions are largely equivalent across school domains](domain-equivalence-relationship-emotions-links.md) — related
 - [Baseline vocabulary moderates the effect of question-asking practice on science learning, weakening the vocabulary-learning link and equalizing outcomes](vocabulary-moderates-science-learning-equalizing.md) — related
+- [The coupling-performance relationship differs across baseline achievement groups](coupling-effects-vary-by-achievement-group.md) — related

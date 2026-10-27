@@ -64,6 +64,7 @@ Strengths-based teaching works primarily through motivational and self-belief ch
 - [Formative Assessment](../patterns/formative-assessment.md) — provides the evidence base for noticing strengths accurately rather than guessing
 - [Accommodations](../elements/accommodations.md) — strengths-based demonstration options often function as accommodations for learners with disabilities
 - [Form Interest Groups and Strengths-Based Groups in Science](interest-based-grouping-in-science.md)
+- [Leverage cognitive strengths of low-SES children via group work, real-world application, and oral/narrative learning and assessment](leverage-hidden-talents-low-ses.md)
 
 ## Examples
 - **CliftonStrengths (Gallup) in schools** — students complete the strengths assessment and teachers design roles and projects around top themes ([https://www.gallup.com/cliftonstrengths](https://www.gallup.com/cliftonstrengths))

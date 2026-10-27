@@ -49,3 +49,4 @@ Simulation result of the biophysically realistic LA network model described in t
 - [Model ablation of engram neurons showed other neurons emerge to support memory, indicating competitive neuronal interactions underlie learning](engram-ablation-competitive-interactions.md) — related
 - [Experimental work indicates basolateral amygdala cells activated by appetitive CSs mainly encode behavioural output, not CS identity, challenging amygdalo-centric feedforward accounts](bl-cells-encode-behavioural-output.md) — related
 - [The Hebbian CS–US convergence model of lateral amygdala plasticity is inconsistent with the timing and brevity of LA CS responses](hebbian-la-model-timing-inconsistency.md) — related
+- [REM theta supports consolidation of select procedural memories such as emotional memory, but not skilled motor memory](rem-theta-selective-procedural-consolidation.md) — related

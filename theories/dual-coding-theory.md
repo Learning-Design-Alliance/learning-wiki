@@ -12,7 +12,7 @@ generated:
 # Dual Coding Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 9 claims (8 for, 1 mixed) · 6 studies (3 review, 2 causal, 1 qualitative), `q2`–`q3` · 0 of 6 report an effect size · 9 claims rest on one study
+> **Evidence** · 10 claims (8 for, 2 mixed) · 7 studies (4 review, 2 causal, 1 qualitative), `q2`–`q3` · 0 of 7 report an effect size · 10 claims rest on one study
 
 ## Description
 Dual Coding Theory proposes that verbal and nonverbal information can be processed in partly distinct but connected representational systems. Learning can improve when instruction coordinates language with meaningful imagery or other visual representation.
@@ -34,6 +34,7 @@ Dual Coding Theory proposes that verbal and nonverbal information can be process
 - [Third graders taught with simultaneous speech and gesture retain math equivalence problems better at a one-day delay than children taught the same strategies sequentially](../claims/simultaneous-speech-gesture-next-day-retention.md) [+W] — attached 2026-10-23 from Congdon Eliza L. et al. (2017), which proposed "Simultaneity account of gesture's effect on learning: temporal synchrony between speech and gesture enables integration of complementary messages"; tests this page's relationship.
 - [The simultaneous speech-and-gesture advantage on math equivalence persists at a four-week delay on both basic and generalization problems](../claims/simultaneous-speech-gesture-four-week-retention.md) [+W] — attached 2026-10-23 from Congdon Eliza L. et al. (2017), which proposed "Simultaneity account of gesture's effect on learning: temporal synchrony between speech and gesture enables integration of complementary messages"; tests this page's relationship.
 - [Using two modalities per se does not drive the benefit: sequential speech-then-gesture instruction performed no better than speech-only instruction](../claims/multiple-modalities-alone-insufficient.md) [~W] — attached 2026-10-23 from Congdon Eliza L. et al. (2017), which proposed "Simultaneity account of gesture's effect on learning: temporal synchrony between speech and gesture enables integration of complementary messages".
+- [Gesture-enacted L2 vocabulary learning yields significantly better memory and more sustained retention than non-gesture learning, lasting 2–6 months](../claims/gesture-learning-sustained-l2-retention.md) [~W]
 
 ## Related Theories
 

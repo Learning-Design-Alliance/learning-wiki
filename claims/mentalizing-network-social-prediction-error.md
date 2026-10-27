@@ -51,3 +51,4 @@ Review of human neuroimaging findings on advice-taking decisions. The review not
 - [Striatum computes other-referenced prediction errors in social and economic games, including without added payoff](striatum-other-referenced-prediction-errors-economic-games.md) — related
 - [Reward prediction errors are positively correlated with putamen, vmPFC, amygdala and posterior cingulate and anticorrelated with aIns, dmPFC and dlPFC](rpe-network-positive-and-anticorrelated-regions.md) — related
 - [A computational model combining informed and non-informed advice-taking with individual learning (Model 5) best predicts participants' choices](winning-mixture-model-advice-taking.md) — related
+- [Encoding L2 words through simulated social interaction activates bilateral posterior STS and right IPL, with delayed-test performance correlating with right TPJ, hippocampus, and motor activity](social-encoding-fmri-sts-tpj-hippocampus.md) — related

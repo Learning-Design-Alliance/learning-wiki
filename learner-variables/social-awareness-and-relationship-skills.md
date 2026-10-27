@@ -13,7 +13,7 @@ generated:
 # Social Awareness and Relationship Skills
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 119 claims (79 show a difference, 28 mixed, 12 no difference) · 87 studies (25 review, 21 associational, 15 causal, 13 quant-synthesis, 5 qualitative, 5 design, 3 theoretical), `q1`–`q4` · 25 of 87 report an effect size · 115 claims rest on one study
+> **Evidence** · 121 claims (80 show a difference, 28 mixed, 13 no difference) · 89 studies (26 review, 21 associational, 16 causal, 13 quant-synthesis, 5 qualitative, 5 design, 3 theoretical), `q1`–`q4` · 25 of 89 report an effect size · 117 claims rest on one study
 
 ## Description
 Social awareness is the ability to take another person's perspective, read their feelings and understand the social norms of a setting; relationship skills are the ability to make and keep positive relationships, cooperate, communicate clearly and handle conflict. They are usually measured by parent, teacher and self-report rating scales of social-emotional competence, and by self-report scales of empathy and of how well a learner feels they fit in.
@@ -160,6 +160,8 @@ The page overlaps with [emotional intelligence](emotional-intelligence.md), whic
 - [Six-week Zirkus Empathico training increased parent-rated empathy (EMK 3-6) but not GEM-rated or child-assessed empathy in preschoolers](../claims/zirkus-empathico-empathy-gains-measure-dependent.md) [~W] — instruction changes it
 - [Large-scale RCTs show school mindfulness training does not benefit overall well-being or social-emotional functioning and can harm those most at risk](../claims/mindfulness-rcts-no-benefit-possible-harm.md) [-M] — instruction changes it
 - [Track-related stereotypes exist among secondary students, but changes in stereotype awareness were not consistently related to changes in engagement, self-perceived ability, or achievement](../claims/track-stereotypes-present-but-awareness-not-linked-to-outcomes.md) [~W] — learners who differ on it differ in outcomes
+- [An SEL program with mindfulness training (MindUP) improved diurnal cortisol slopes and social-emotional, self-concept, and math outcomes versus an active control](../claims/mindup-cortisol-randomized-trial.md) [+M] — instruction changes it
+- [Playing the empathy training game Crystals of Kaydor produced no greater improvement in adolescents' empathic accuracy than playing the commercial control game Bastion](../claims/crystals-no-group-difference-empathic-accuracy-change.md) [-M] — instruction changes it
 
 ## Measures
 - **Devereux Student Strengths Assessment (DESSA)** (LeBuffe, Naglieri & Shapiro, 2012): parent or teacher rating of social-emotional competencies, including social awareness and relationship skills, from kindergarten to grade 8, with a short screening form (DESSA-mini).

@@ -32,6 +32,7 @@ CocoFlow is an AI agent builder platform developed by COCOROBO Limited that enab
 
 - [AutoGen, MetaGPT, CrewAI, LangGraph, and Phidata](autogen-metagpt-crewai-langgraph-and-phidata.md)
 - [CS50-Duck](cs50-duck.md)
+- [Goal Net and Multi-Agent Development Environment (MADE)](goal-net-and-multi-agent-development-environment-made.md)
 
 ## Key Sources
 - Haiyang Xin, Qiannan Niu, Shuang Li, Yimeng Sun, Ching Sing Chai, Lingyun Huang, Gaowei Chen. (2026). An Activity-Theoretical Approach to Teacher Professional Development in Pedagogical AI Agent Design. https://arxiv.org/abs/2605.12934

@@ -6,6 +6,7 @@ generated:
   by: claude/unspecified
   at: 2026-09-25
 id: spatial-training-improves-math-performance
+aliases: [spatial-training-improves-mathematics-g-028]
 evidence_strength: emerging
 newest_evidence: 2022
 sources:
@@ -18,19 +19,29 @@ sources:
     n: 3,765 participants across 29 studies, k=89 effect sizes
     kind: quant-synthesis
     rigour: 2
+  - id: katie-a-gilligan-lee-2022
+    resource: "https://doi.org/10.1038/s41539-022-00128-9"
+    title: "Katie A. Gilligan-Lee, Zachary C. K. Hawes and Kelly S. Mix. (2022). Spatial thinking as the missing piece in mathematics curricula. npj Science of Learning 7:10. https://doi.org/10.1038/s41539-022-00128-9"
+    author: Katie A. Gilligan-Lee, Zachary C. K. Hawes and Kelly S. Mix
+    q: 3
+    i: 1
+    kind: theoretical
+    rigour: 3
 ---
 
 # Spatial Training Improves Math Performance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i1` small · n=3,765 participants across 29 studies, k=89 effect sizes
-> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
+> **Evidence** · 2 studies · 1 quant-synthesis `r2`, 1 theoretical `r3` · `q3` · `i1` small · n=3,765 participants across 29 studies, k=89 effect sizes
+> **Currency** · newest study 2022 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
 
 Training learners' spatial skills — through mental rotation, spatial visualization, and similar tasks — transfers to improved performance in mathematics, particularly in areas with strong spatial components such as geometry, measurement, and graph interpretation.
 
 ## Subclaims
 
 `q3 i1` A meta-analysis of 29 controlled pre-post training studies finds that spatial training produces a small-to-moderate transfer improvement in mathematics performance, with larger transfer when training uses concrete manipulatives and when outcomes are "near" (closely aligned to the spatial training) rather than "far". [→ Hawes et al. 2022](#hawes-et-al-2022)
+
+`q3 i1` Spatial training/instruction improves mathematics outcomes relative to controls, with an overall effect size of g = 0.28 (Hedges's g) across 29 pre-post design studies (N = 3765). [→ Katie A. Gilligan-Lee 2022](#katie-a-gilligan-lee-2022)
 
 ## Evidence
 
@@ -41,6 +52,16 @@ Hawes, Z. C. K., Gilligan-Lee, K. A., & Mix, K. S. (2022). Effects of spatial tr
 `q3 · systematic meta-analysis of controlled pre-post training studies` · `i1 · small-to-moderate effect, Hedges's g=0.28 (SE=0.07)` · `n=3,765 participants across 29 studies, k=89 effect sizes` · `quant-synthesis · r2`
 
 This meta-analysis pooled 29 controlled pre-post studies (N = 3,765, k = 89 effect sizes) testing whether training spatial skills (e.g., mental rotation, spatial visualization tasks) transfers to mathematics performance. Relative to control conditions, spatial training produced an average transfer effect on math of Hedges's g = .28 (SE = .07), alongside a larger direct effect on spatial thinking itself (g = .49, SE = .09). Effects were moderated by participant age (larger in older participants, ages 3–20), by use of concrete manipulatives (larger than computerized training), and by transfer distance ("near" transfer to spatially-aligned math content produced larger effects than "far" transfer); training dosage, spatial gains, posttest timing, control-group type, experimental design, and publication status did not moderate effects, and publication-bias/selective-reporting checks were nonsignificant.
+
+### Katie A. Gilligan-Lee 2022
+
+Katie A. Gilligan-Lee, Zachary C. K. Hawes and Kelly S. Mix. (2022). Spatial thinking as the missing piece in mathematics curricula. npj Science of Learning 7:10. https://doi.org/10.1038/s41539-022-00128-9
+
+`q3 · i1` · `theoretical · r3`
+
+The authors' meta-analysis of 29 studies (N = 3765) using rigorous pre-post designs allows causal inference about spatial training effects on mathematics. The article reports an "overall effect size of 0.28 (Hedges 's g)" for spatial training on mathematics compared to controls.
+
+> "The results of this study were promising, with an overall effect size of 0.28 (Hedges 's g) for spatial training on mathematics compared to controls 9."
 
 ## Discussion
 
@@ -77,3 +98,8 @@ This meta-analysis pooled 29 controlled pre-post studies (N = 3,765, k = 89 effe
 - [Transfer-outcome format can favor symbolic controls over manipulative conditions (transfer-appropriate processing), potentially explaining inconsistent transfer findings](transfer-appropriate-processing-manipulatives-inconsistent-transfer.md) — related
 - [Trained students outperformed controls at selecting the more reliable of two contradictory texts, at both post-tests](sourcing-intervention-near-transfer-accuracy.md) — related
 - [The article argues that chemistry offers opportunities for mental training in manipulation, directed observation, correlation of ideas, and logical reasoning beyond its factual content.](chemistry-mental-training-opportunities.md) — related
+- [Spatial skill-mathematics associations may be particularly strong for lower-SES children, suggesting spatial instruction could promote equity](spatial-instruction-equity-lower-ses.md) — a narrower finding that bears on this claim
+- [The g = 0.28 effect of spatial training on mathematics compares favorably to average effects of other educational and mathematics interventions](spatial-training-effect-compares-favorably-to-other-interventions.md) — related
+- [Not all spatial interventions are equivalent: concrete-material training yields larger math gains than computer-based training, and effects increase with age](spatial-training-moderators-concrete-materials-and-age.md) — possibly the same claim (merge candidate)
+- [Spatial language training improves children's numerical magnitude understanding (number words comparison)](spatial-language-training-improves-magnitude-understanding.md) — related
+- [Action video game training causally improves cognitive skills relative to active control training (small effect, g = 0.30)](avg-training-causal-improvement-g-030.md) — related

@@ -47,3 +47,4 @@ Descriptive learning-curve analysis of rule learners in the coin-searching task.
 - [High cognitive flexibility learners show significantly higher accuracy than low flexibility learners only after rule acquisition in probabilistic rule learning](high-cf-post-learning-accuracy-advantage.md) — related
 - [After rule learning, low flexibility learners show latency differences across probability conditions while high flexibility learners do not](low-cf-latency-varies-probability-pairs.md) — related
 - [Rule learners report higher confidence in their described rules than non-learners, but confidence does not differ within flexibility groups](rule-learner-confidence-higher-than-non-learners.md) — related
+- [Only adults reduced flexible reactions to negative feedback across learning blocks, consistent with strategy adaptation to the paradigm's structure](adults-reduce-flexible-reactions-across-blocks.md) — related

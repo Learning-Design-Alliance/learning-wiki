@@ -72,3 +72,4 @@ Exploratory omnibus Wald χ2 tests in the same GLMMs found a significant target-
 - [Cue-only JOLs performed similarly to overt retrieval, and cue–target JOLs similarly to restudy, on Phase B memory and transfer (Experiment 1)](cue-only-jols-match-overt-retrieval.md) — a narrower finding that bears on this claim
 - [In Experiment 1, the interim learning task did not affect Phase A posttest performance, indicating the forward benefit was not due to improved prior learning](no-backward-effect-phase-a-null.md) — related
 - [Self-reported retrieval use moderated the forward benefit of cue-only JOLs: higher retrieval ratings predicted better Phase B memory and transfer only in the cue-only JOLs condition](retrieval-self-report-moderates-cue-only-jol-benefit.md) — related
+- [In inductive learning, interim testing of studied category exemplars enhances learning and retention of new categories](forward-testing-inductive-learning.md) — related

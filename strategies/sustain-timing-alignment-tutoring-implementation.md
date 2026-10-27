@@ -40,6 +40,7 @@ Based on the null long-term findings, the authors recommend that future tutoring
 
 - [Align AI learning-support communication and nudges with empirically observed usage windows and adapt support to learner groups](align-ai-support-nudges-observed-usage-windows.md)
 - [Three-point standardized testing schedule for teachers: determine needs at the opening of the term, note progress mid-year, and measure year's gains and vacation losses](three-point-standardized-testing-schedule.md)
+- [Sustain educational interventions throughout development and evaluate long-term rather than short-term efficacy](sustained-interventions-throughout-development.md)
 
 ## Examples
 -

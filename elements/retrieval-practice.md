@@ -13,7 +13,7 @@ generated:
 # Retrieval Practice
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 24 claims (16 for, 6 mixed, 2 against) · 23 studies (13 causal, 5 review, 4 quant-synthesis, 1 theoretical), `q2`–`q4` · 13 of 23 report an effect size · 21 claims rest on one study
+> **Evidence** · 27 claims (19 for, 6 mixed, 2 against) · 24 studies (13 causal, 6 review, 4 quant-synthesis, 1 theoretical), `q2`–`q4` · 13 of 24 report an effect size · 24 claims rest on one study
 
 ## Description
 Retrieval practice is the element in which learners recall information from memory rather than only re-exposing themselves to it.
@@ -59,6 +59,9 @@ Retrieval practice is the element in which learners recall information from memo
 - [When learners receive initial instruction, retrieval practice yields better generalization than worked examples regardless of item variability](../claims/retrieval-practice-beats-worked-examples-with-initial-instruction.md) [+W]
 - [A minority of children cease to improve and deteriorate during repeated memory tests, deterioration being concentrated among afternoon workers](../claims/individual-deterioration-afternoon-workers-winch-1911.md) [~W]
 - [Retrieval practice boosts learning, and the testing effect generalizes to the acquisition of entirely new material (forward testing effect)](../claims/testing-effect-backward-and-forward.md) [+W]
+- [In inductive learning, interim testing of studied category exemplars enhances learning and retention of new categories](../claims/forward-testing-inductive-learning.md) [+W]
+- [In single item learning, interim testing of studied lists roughly doubles recall of new items compared with distractor or restudy control groups](../claims/forward-testing-single-items-doubled-recall.md) [+W]
+- [In paired-associate learning, interim testing about doubles recall of new face-name and foreign-translation pairs relative to a distractor control](../claims/forward-testing-paired-associates.md) [+W]
 
 ## The evidence by question
 - *Does retrieving material (quizzes, practice tests, recall) improve later retention more than restudying it?* [Retrieval practice improves long-term retention](../claims/retrieval-practice-improves-retention.md) [+S]

@@ -55,3 +55,4 @@ Narrative review synthesis in the literature review, citing Wahlen et al. (2020)
 - [Perceptions of feedback characteristics vary between researcher and teacher coders, with agreement shaped by professional background](coder-background-varies-feedback-interpretation.md) — related
 - [Cohen's kappa exhibits a paradox in which high observed agreement yields low kappa, making it unsuitable for pass/fail decision consistency](cohens-kappa-paradox-decision-consistency.md) — related
 - [Studies of teachers' SRL knowledge use heterogeneous, often implicit definitions, limiting comparability](heterogeneous-definitions-limit-comparability.md) — related
+- [Human–GPT coding agreement varied sharply by code, with near-chance or negative Kappa for co-ordination codes despite near-perfect agreement on others](gpt4-kappa-varies-by-dialogue-code.md) — related

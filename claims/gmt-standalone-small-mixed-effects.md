@@ -50,3 +50,4 @@ Narrative review attributing this to Macnamara and Burgoyne (2023a): their meta-
 - [Mind-set interventions show weak overall effects on achievement, with some support that low-SES or academically at-risk students might benefit](mindset-intervention-effects-weak-subgroup-benefit.md) — a broader claim this one bears on
 - [Growth-mindset interventions have weak average effects on achievement, including a negligible GPA gain (d = 0.11) for lower-achieving US ninth-graders in one preregistered national trial](growth-mindset-improves-achievement.md) — related
 - [Prior meta-analyses report mixed effects of growth mindset interventions on achievement, with estimates ranging from a non-significant d = 0.05 to d = 0.14](growth-mindset-intervention-meta-analyses-mixed.md) — a broader claim this one bears on
+- [Mindset interventions have only a weak effect on later academic achievement](mindset-interventions-weak-effect.md) — a broader claim this one bears on

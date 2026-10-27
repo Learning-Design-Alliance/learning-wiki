@@ -50,6 +50,7 @@ The report recommends that states and districts use Bipartisan Safer Communities
 - [Use advisories and looping to ensure every student is known and supported by adults](advisories-and-looping-whole-child.md)
 - [Federal policy should fund wraparound supports and community schools integrating health, mental health, social services, and extended learning time](federal-wraparound-supports-community-schools.md)
 - [Four district-level recommendations for improving school safety and student well-being regardless of position on the spectrum](four-recommendations-school-safety-reform.md)
+- [Adopt transformative SEL and system-level policy reforms—funding restructure, disciplinary equity, healthcare access—to address poverty-driven inequity](transformative-sel-system-level-reforms.md)
 
 ## Examples
 -

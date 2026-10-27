@@ -41,7 +41,8 @@ As a research-gap strategy, the review recommends that future studies address th
 - [Frequency of Internet use negatively predicts longitudinal change in gray and white matter volumes and in verbal IQ in early adolescents](../claims/internet-use-frequency-longitudinal-gray-matter-verbal-iq.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Design recommendations for longitudinal neuroimaging studies of reading development and dyslexia](longitudinal-neuroimaging-dyslexia-design-recommendations.md)
 
 ## Examples
 -

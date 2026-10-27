@@ -45,6 +45,7 @@ The authors propose that the present observation "may lead to learning-based neu
 - [Use a 30-minute neurophysiological assessment of consonants-in-noise coding for early identification of children at risk for language and literacy problems](early-neurophysiological-screening-for-literacy-risk.md)
 - [Use beat synchronization assessment and early music and rhythm training as early indicators and supports of reading readiness](beat-synchronization-early-reading-indicator-strategy.md)
 - [Use multisensory exposure and training as targets for remediation of sensory-based developmental and cognitive impairments](multisensory-training-remediation-strategy.md)
+- [Design recommendations for longitudinal neuroimaging studies of reading development and dyslexia](longitudinal-neuroimaging-dyslexia-design-recommendations.md)
 
 ## Examples
 -

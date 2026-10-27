@@ -68,3 +68,4 @@ Between-instructor randomized experiment: 71 instructors teaching 1,648 students
 - [The counting days treatment's benefit for exam scores is mediated almost entirely by the number of days practiced, not the number of questions](spacing-days-mediate-exam-benefit.md) — related
 - [The spacing incentive benefits lower-GPA students more, nearly equalizing exam performance across prior GPA levels](counting-days-benefits-lower-gpa-students.md) — related
 - [Counting questions students procrastinate, practicing little until late in the semester, while counting days spreads practice across the term](counting-questions-procrastination-pattern.md) — related
+- [Class climate—peer uptake and instructor credit incentives—relates to larger Exam Playbook effect sizes](exam-playbook-class-climate-moderators.md) — related

@@ -51,3 +51,4 @@ The review reports, citing Wetzels et al. (2011b), a comparison of written open-
 - [Interesting but irrelevant details can impair comprehension and transfer, with effects that vary with the material and the learner](seductive-details-effect.md) — related
 - [Advance organizers aided learning in a 1980 meta-analysis, but activating prior topic knowledge did not improve primary pupils' text comprehension in one experiment](activation-improves-learning.md) — related
 - [Coherence Principle Irrelevant Material Hurts Learning](coherence-principle-irrelevant-material-hurts-learning.md) — related
+- [Activated prior knowledge must be relevant to the task; irrelevant knowledge can hamper learning](relevance-irrelevant-knowledge-hampers.md) — possibly the same claim (merge candidate)

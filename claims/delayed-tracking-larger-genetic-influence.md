@@ -91,3 +91,4 @@ Likelihood-ratio comparison of the constrained versus unconstrained multigroup A
 - [A large share of the genetic influence on secondary-school attainment is due to genes that did not influence primary-school performance](genes-unique-to-attainment-beyond-cito.md) — related
 - [In a genetically informed twin study, the effect of shared family environment was substantially reduced among twins whose tracking was delayed until a later age](delayed-tracking-reduced-family-environment-effect.md) — related
 - [Parental education is not related to whether children are tracked immediately or delayed](parental-education-not-related-delayed-tracking.md) — related
+- [Twin ratings show chaos in the home is partially genetically confounded with school achievement (22% genetic variance; 37% of association via shared genes)](chaos-home-genetic-confound-school-achievement.md) — related

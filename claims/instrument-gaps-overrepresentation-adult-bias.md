@@ -48,3 +48,4 @@ The review's own analysis of its compiled instrument table (Table 1), identifyin
 - [Aggregating versus separating mental rotation and non-rotational spatial visualization factors can yield conflicting interpretations of their relevance to mathematics](factor-aggregation-changes-interpretations-schenck-2022.md) — related
 - [Perspective-taking (spatial orientation) shows evidence of uniqueness from mental rotation factors](perspective-taking-distinct-from-mental-rotation.md) — related
 - [Confirmatory factor analysis failed to support the static-dynamic dimension of the 2x2 spatial classification framework in children](mix-2018-cfa-fails-static-dynamic-dimension.md) — related
+- [Spatial thinking is largely absent from mathematics curricula worldwide, including the US Common Core and England's primary curriculum](spatial-thinking-absent-from-mathematics-curricula.md) — related

@@ -62,3 +62,4 @@ Model-fitting of a CTD ACE structural equation model to twin-only data from the 
 - [Genetic stability of educational achievement persists after controlling for general cognitive ability (g), with genetic factors explaining about 60% of stability](genetic-stability-persists-controlling-for-g.md) — related
 - [Heritability estimates are population-specific parameters, and the heritability of cognitive skills rises gradually through childhood and adolescence](heritability-population-specific-rises-through-childhood.md) — related
 - [A large share of the genetic influence on secondary-school attainment is due to genes that did not influence primary-school performance](genes-unique-to-attainment-beyond-cito.md) — related
+- [Twin ratings show chaos in the home is partially genetically confounded with school achievement (22% genetic variance; 37% of association via shared genes)](chaos-home-genetic-confound-school-achievement.md) — related

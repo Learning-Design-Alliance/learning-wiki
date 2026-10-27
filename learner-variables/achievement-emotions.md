@@ -13,7 +13,7 @@ generated:
 # Achievement Emotions
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 167 claims (107 show a difference, 46 mixed, 14 no difference) · 96 studies (35 associational, 26 causal, 13 review, 10 qualitative, 8 theoretical, 4 design), `q1`–`q4` · 21 of 96 report an effect size · 164 claims rest on one study
+> **Evidence** · 168 claims (107 show a difference, 46 mixed, 15 no difference) · 97 studies (35 associational, 27 causal, 13 review, 10 qualitative, 8 theoretical, 4 design), `q1`–`q4` · 21 of 97 report an effect size · 165 claims rest on one study
 
 ## Description
 Achievement emotions are the emotions learners feel about learning activities (enjoyment, boredom, frustration) and about their outcomes (pride, shame, hope, hopelessness). In control-value theory they arise from how much control a learner feels over an activity and how much they value it. Positive activating emotions such as enjoyment go with engagement and achievement, deactivating ones such as boredom with disengagement, and the relationship runs both ways. Anxiety is an achievement emotion with its own page, [academic anxiety](academic-anxiety.md); enjoyment overlaps with [interest](interest.md).
@@ -202,6 +202,7 @@ Achievement emotions are the emotions learners feel about learning activities (e
 - [Paragraphs presenting inconsistent information in refutation texts elicit activating epistemic emotions and suppress deactivating emotions, with text condition × paragraph interactions](../claims/inconsistent-paragraphs-activate-epistemic-emotions.md) [+M] — instruction changes it
 - [Rated enjoyment of a synopsis predicts readers' willingness to take on a temporal cost (waiting for more book information) in both experiments](../claims/enjoyment-predicts-willingness-to-wait.md) [+M] — learners who differ on it differ in outcomes
 - [Text condition shapes in-the-moment epistemic emotions: negative refutation texts raise anxiety and frustration, positive refutation raises curiosity and enjoyment, and non-refutation raises boredom and neutral emotion](../claims/text-condition-shapes-epistemic-emotions.md) [+M] — instruction changes it
+- [Enjoyment of the instructional type did not differ between the movement and seated video groups, with both groups reporting high enjoyment](../claims/movement-videos-enjoyment-null-group-difference.md) [-M] — instruction changes it
 
 ## Related Learner Variables
 

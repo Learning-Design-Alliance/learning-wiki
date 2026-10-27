@@ -47,7 +47,7 @@ sources:
 # Game-based Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 51 claims (23 for, 28 mixed) · 40 studies (13 quant-synthesis, 10 causal, 10 review, 3 associational, 3 theoretical, 1 design), `q1`–`q4` · 15 of 40 report an effect size · 45 claims rest on one study
+> **Evidence** · 52 claims (23 for, 29 mixed) · 41 studies (13 quant-synthesis, 11 causal, 10 review, 3 associational, 3 theoretical, 1 design), `q1`–`q4` · 15 of 41 report an effect size · 46 claims rest on one study
 
 ## Conditional relationship
 
@@ -155,6 +155,7 @@ Claims read against this model that do not change it. Each says what it is and w
 - [Playing modern board games in class produced greater pre-post improvement in working-memory updating than regular classes, in both first-grade and second-to-sixth-grade samples](../claims/board-games-improve-updating-primary.md) [+W] — attached 2026-10-22 from Nuria Vita-Barrull et al. (2024), which proposed "Include board-game play in primary classrooms as an alternative or complement to regular direct instruction for cognitive and academic development"; tests this page's relationship.
 - [The board-game group showed greater pre-post improvement than controls in reading fluency, maths fluency and calculus in grades two to six](../claims/board-games-improve-reading-maths.md) [+W] — attached 2026-10-22 from Nuria Vita-Barrull et al. (2024), which proposed "Include board-game play in primary classrooms as an alternative or complement to regular direct instruction for cognitive and academic development"; tests this page's relationship.
 - [Classroom board-game play improved inhibition in first grade but not in grades two to six, where inhibition and flexibility improved in both groups](../claims/board-games-inhibition-grade-dependent.md) [~W] — attached 2026-10-22 from Nuria Vita-Barrull et al. (2024), which proposed "Include board-game play in primary classrooms as an alternative or complement to regular direct instruction for cognitive and academic development"; tests this page's relationship.
+- [Playing the empathy training game Crystals of Kaydor produced no greater improvement in adolescents' empathic accuracy than playing the commercial control game Bastion](../claims/crystals-no-group-difference-empathic-accuracy-change.md) [~W] — attached 2026-10-27 from Kral et al. (2018), which proposed "Design empathy training games so that engagement with empathy-specific mechanics, not generic playtime, drives the targeted learning processes"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

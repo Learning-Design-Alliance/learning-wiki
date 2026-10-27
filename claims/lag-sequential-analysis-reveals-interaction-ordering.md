@@ -57,3 +57,4 @@ In an illustrative study of students in India, Manu Kapur applied Lag-sequential
 - Documented CSCL empirical corpus 2005–2009 relies mostly on questionnaires and code-and-count, not post-cognitive group-process approaches — related
 - [Multimodal data collection is increasingly common but analyses rarely align data streams temporally](rare-alignment-of-multimodal-data-streams.md) — related
 - [Hidden semi-Markov model analysis of mathematical problem-solving yields brain-processing stages matching rationally expected problem-solving steps](hidden-semi-markov-stages-confirm-problem-solving-steps.md) — related
+- [Lag sequential analysis revealed distinct choice-making trajectories: HPK students showed confidence-driven extra-task engagement and unre reflective repeated-failure sequences, while LPK students relied on preparatory worked examples](lsa-pk-choice-trajectories.md) — a narrower finding that bears on this claim

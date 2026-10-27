@@ -9,6 +9,7 @@ generated:
   at: 2026-10-09
 evidence_strength: moderate
 newest_evidence: 2014
+source_checked: 2026-10-27
 recheck_by: 2019
 sources:
   - id: morrison-2014
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
-> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2019**: baselines and conditions change
+> **Currency** · newest study 2014 · checked against its sources 2026-10-27 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2019**: baselines and conditions change
 > **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
@@ -76,3 +77,4 @@ Survey and interview findings from district participants. The report states ther
 - [Districts defined pilot success differently, making it difficult to set a standard for evaluating product effects on student improvement](varied-success-definitions-hinder-evaluation.md) — related
 - [District teams struggled to produce rigorous, reliable evidence for assessing their improvement work](districts-struggled-with-evidence-rigor.md) — related
 - [Teachers tended to adopt district-provided tools, and single-application step-by-step training supported uptake of Forms](district-provided-tools-single-tool-training.md) — related
+- [Most popular EdTech products lack research evidence of positive learning impact](edtech-products-lack-evidence-base.md) — a narrower finding that bears on this claim

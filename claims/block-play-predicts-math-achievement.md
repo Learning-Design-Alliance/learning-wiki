@@ -102,3 +102,4 @@ An intact group of 37 four-year-olds at a play-oriented preschool was rated on b
 - [Supporting early childhood math development is important for young children's development](early-math-development-importance.md) — a broader claim this one bears on
 - [Spatial ability scores are positively associated with mathematics performance across children and adults, as the review reports](spatial-ability-associated-mathematics-performance.md) — a broader claim this one bears on
 - [No evidence that experience with metal building outfits or Tinker Toy blocks improves constructive ability test performance](no-transfer-metal-and-tinker-toy-experience.md) — related
+- [Not all spatial interventions are equivalent: concrete-material training yields larger math gains than computer-based training, and effects increase with age](spatial-training-moderators-concrete-materials-and-age.md) — related

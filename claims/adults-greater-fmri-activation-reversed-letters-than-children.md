@@ -49,3 +49,5 @@ Whole-brain random-effects fMRI analysis of the letter reversal task in 15 child
 - [Adults, but not children, show a differential N170 response to typical versus reversed letters](n170-reversal-effect-adults-not-children.md) — related
 - [Math achievement correlates with ventral occipital-temporal NRE in both children and adults, with children relying on extrastriate and adults on anterior higher-order visual regions](vot-nre-achievement-developmental-reorganization.md) — related
 - [Learning to read drives interactive specialization of the visual word form area while suppressing its prior tool-related specialization](interactive-specialization-vwfa-reading.md) — related
+- [The left ventral occipito-temporal cortex becomes increasingly specialized for print during reading acquisition, with an inverted U-shaped developmental trajectory](vot-print-specialization-inverted-u-development.md) — related
+- [French-speaking 8-year-olds show word adaptation effects in a left-lateralized network largely replicating that found in English-speaking typical adult readers](word-adaptation-network-replication-children.md) — related

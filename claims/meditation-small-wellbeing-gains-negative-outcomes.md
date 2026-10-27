@@ -82,3 +82,4 @@ This systematic review summarises one of its included studies, Mendelson et al. 
 - [A universal school mindfulness intervention (MYRIAD trial) was ineffective for most students and detrimental for those with pre-existing higher internalising symptoms](myriad-mindfulness-null-and-harmful-subgroup.md) — related
 - [Large-scale RCTs show school mindfulness training does not benefit overall well-being or social-emotional functioning and can harm those most at risk](mindfulness-rcts-no-benefit-possible-harm.md) — reports the opposite
 - [Greater perceived stress is associated with greater emotion dysregulation in teachers](stress-correlates-emotion-dysregulation-teachers.md) — related
+- [Isolated school mindfulness programs show mixed results, with one multi-site trial showing no improvement and increased anxiety in some subgroups](school-mindfulness-mixed-results.md) — reports the opposite

@@ -63,3 +63,4 @@ Random effects models across the same 16-study meta-analysis produced moderate a
 - [Most predictor effect sizes showed high heterogeneity; only morphological awareness, working memory, and language comprehension fell in the moderate I² range](high-heterogeneity-adult-predictor-effect-sizes.md) — related
 - [Syllable stress awareness and spelling skills correlate with each other and with in-game training performance](stress-awareness-spelling-validity-correlations.md) — related
 - [Text reading is strongly related to reading comprehension overall (r = .61)](text-reading-comprehension-overall-relation-r61.md) — related
+- [Poor readers are highly heterogeneous and do not all display the same type of reading impairment](poor-readers-heterogeneous-reading-behaviours.md) — related

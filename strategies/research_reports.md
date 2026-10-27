@@ -65,6 +65,7 @@ Research reports work as both a communication format and a synthesis task. As a 
 - [Peer Feedback](../elements/peer-feedback.md) — structured critique of report drafts improves both the draft and the reviewer's evaluative skill
 - [Use data visualization to make complex concepts accessible in research communication](data-visualization-for-accessible-research-communication.md)
 - [Disseminate evaluation findings through audience-segmented briefs backed by a shared methods summary](audience-segmented-findings-briefs-with-methods-summary.md)
+- [Translate coupling indices into intuitive dashboards for teachers' reflective evaluation](coupling-dashboard-reflective-evaluation-strategy.md)
 
 ## Examples
 - **AAAS Science in the Classroom** ([https://www.scienceintheclassroom.org](https://www.scienceintheclassroom.org)) — published research papers annotated with learning lenses, letting students read authentic reports with scaffolds.

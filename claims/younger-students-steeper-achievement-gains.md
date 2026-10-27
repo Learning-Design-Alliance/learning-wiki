@@ -74,3 +74,4 @@ The same Results section reports reading trends of 0.05sd–0.09sd for younger s
 - [Bottom-quartile SES students show greater progress than top-quartile students when young, but the pattern reverses at older ages](ses-quartile-gains-reverse-with-age.md) — related
 - [Reading score trends flattened for ages 9-12 and declined at ages 9 and 12 in the grade equivalent metric by 2000](cps-reading-trends-flattened-declined-younger-ages.md) — related
 - [Reading and math achievement gains in 2021-22 paralleled pre-pandemic trends in many grades, with stronger rebounding in math and among younger students](pandemic-rebound-2021-22-gains-paralleled-prepandemic.md) — related
+- [Reversal learning performance increases with age from 10 to 22 years, with the steepest improvement between 10 and 14 years](reversal-learning-increases-age-early-adolescence.md) — a narrower finding that bears on this claim

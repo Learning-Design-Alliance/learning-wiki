@@ -77,3 +77,4 @@ Narrative summary of the Luo et al. meta-analysis of 33 preschool studies (ages 
 - [Example-based instructional activities yield larger effects when delivered jointly by ICT and teachers than by teachers alone](examples-joint-ict-teacher-delivery-larger-effects.md) — a narrower finding that bears on this claim
 - [No coded study characteristics moderated the emotion–political learning associations in Bayesian regularized meta-analysis](no-moderators-emotion-political-learning.md) — related
 - [Descriptively, larger effects were associated with control groups, secondary-level teachers, indicated samples, cognitive-behavioural content, teacher-specific adaptation, group format, school delivery, and programs over one week](teacher-program-characteristics-descriptive-effects.md) — related
+- [SEL programs implemented well show positive impacts on targeted skills and academic outcomes, including meta-analytic support](sel-programs-academic-outcomes.md) — related

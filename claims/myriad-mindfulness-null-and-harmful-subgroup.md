@@ -46,3 +46,4 @@ Narrative review section citing the MYRIAD trial as an example that intervention
 
 ## Related Claims
 - [School meditation programmes foster small improvements in well-being, more consistently reducing negative outcomes than promoting positive ones](meditation-small-wellbeing-gains-negative-outcomes.md) — related
+- [Isolated school mindfulness programs show mixed results, with one multi-site trial showing no improvement and increased anxiety in some subgroups](school-mindfulness-mixed-results.md) — possibly the same claim (merge candidate)

@@ -31,7 +31,8 @@ The guide presents an organizing framework of four evidence types that educators
 - [Different evidence types differ in how strongly they can support claims about effectiveness](../claims/evidence-types-differ-support-strength.md) [+W]
 
 ## Related Research Methods
--
+
+- [EVER framework for judging EdTech evidence](ever-framework-for-judging-edtech-evidence.md)
 
 ## Key Sources
 - Gregory Chojnacki, Alexandra Resch, Alma Vigil, Ignacio Martinez, Steve Bates. (2016). Understanding Types of Evidence: A Guide for Educators. Washington, DC: Mathematica Policy Research. https://www.mathematica.org/publications/understanding-types-of-evidence-a-guide-for-educators

@@ -76,3 +76,4 @@ The report cites, without reproducing the study's design, a 2015 Joan Ganz Coone
 - Only 17% of expert-awarded literacy apps also appear among app stores' Top 50 educational lists, so parents searching different sources encounter largely different apps — related
 - [Dinosaurs was the most popular chatbot topic, especially among first graders, with sneakers and shoes second](ama-topic-popularity-dinosaurs.md) — related
 - [Most surveyed ed tech developers report their products are informed by research, but purchasers struggle to evaluate that research](developers-report-research-informed-products.md) — related
+- [Most popular EdTech products lack research evidence of positive learning impact](edtech-products-lack-evidence-base.md) — related

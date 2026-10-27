@@ -52,3 +52,4 @@ Experiment 3: 105 undergraduates; intervening task moved to after the first thre
 - [Trial-level reactive inhibition (progressively larger sequence RTs within trials) emerges during training and dissipates across rest breaks in the FTT](trial-level-reactive-inhibition-finger-tapping.md) — related
 - [Retroactive interference immediately after practice reduces the learning rate relative to interference after 10 s of rest, indicating within-seconds memory stabilization](microscale-stabilization-early-versus-late-interference.md) — related
 - [On the trained ILD-discrimination task, learning magnitude is smaller 1–3 h after training than 30 min or 6–10 h after training, documenting a transient memory lapse](transient-memory-lapse-1-3h-trained-ild-task.md) — related
+- [Reactive inhibition builds within trials during motor sequence practice, appearing as slower responses later in each trial](reactive-inhibition-builds-within-motor-trials.md) — related

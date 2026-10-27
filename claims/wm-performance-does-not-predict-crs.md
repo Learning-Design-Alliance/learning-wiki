@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: weak
 newest_evidence: 2023
+source_checked: 2026-10-27
 sources:
   - id: leila-etemadi-2023
     resource: "https://doi.org/10.1038/s41539-023-00167-w"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · checked against its sources 2026-10-27 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A subject's relative ranking on working memory performance did not predict the percentage of CRs. [→ Leila Etemadi 2023](#leila-etemadi-2023)
@@ -54,3 +55,4 @@ Secondary linear mixed effects model including only working memory group partici
 - [Concurrent working memory tasks significantly reduce conditioned response percentage](working-memory-tasks-reduce-cr-percentage.md) — related
 - [Longer interstimulus interval significantly increases conditioned response percentage](longer-isi-increases-cr-percentage.md) — related
 - [Contingency knowledge does not directly predict response rates or revaluation sensitivity](contingency-knowledge-does-not-predict-revaluation.md) — related
+- [CR onset latency variation tends to increase over days while participant sex shows no significant effect on either CR measure](cr-onset-latency-increases-sex-no-effect.md) — related

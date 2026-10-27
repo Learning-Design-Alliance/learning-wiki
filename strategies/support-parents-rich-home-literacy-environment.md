@@ -47,6 +47,7 @@ The article concludes that its findings "suggest potential for interventions whi
 ## Related Strategies
 
 - [Start early: foster a positive math climate at home and school to prevent the distal avoidance pathway](early-positive-math-climate-prevention.md)
+- [Provide rich linguistic environments with high-consistency orthographic patterns in early childhood before introducing subtler regularities](early-childhood-high-consistency-literacy-environments.md)
 
 ## Examples
 -

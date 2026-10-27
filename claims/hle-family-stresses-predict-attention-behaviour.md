@@ -57,3 +57,4 @@ Hierarchical regression predicting parental ratings of attention and behaviour (
 - [Formal math activities in the home environment mitigated the risk of parental math difficulties for children's math development (reported by the editors, citing Torppa et al.)](home-formal-math-activities-protect-against-parental-math-risk.md) — related
 - [Parental emotional support was not an independent predictor of Chinese kindergarten children's SRL, in contrast to Western findings](emotional-support-not-predictor-chinese-context.md) — related
 - [More frequent parent-reported home literacy activities were associated with better children's math performance, controlling for covariates](literacy-activities-associated-math.md) — related
+- [Under the Familial Control Method, most home-literacy effects on children's reading vanish after controlling parental reading, but books in the home retain a significant effect](home-literacy-genetic-confound-books-exception.md) — related

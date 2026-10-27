@@ -40,6 +40,7 @@ The report's EnGen case study recommends that developers not conflate metrics me
 
 - [Plan and design backwards from a research-based learning goal to features, metrics, and measurement tools](backwards-design-from-research-based-goal.md)
 - [Build formal feedback mechanisms and an evaluation plan into ed-tech pilots](formal-feedback-and-evaluation-plan-pilots.md)
+- [Require full disclosure of an EdTech product's development and evaluation maturity, and assess developers' willingness to engage with research](edtech-full-disclosure-evidence-engagement.md)
 
 ## Examples
 -

@@ -55,3 +55,4 @@ Experiment 2 activation analysis: students talked 1.5 minutes about topic-releva
 - [The quality of elaborative-interrogation answers had little effect on retention; even failed or inadequate why-answers facilitated learning relative to reading](response-quality-little-effect-on-elaborative-interrogation-retention.md) — related
 - [Analyzing a problem before reading facilitates subsequent recall of a relevant text for both novices and experts](problem-analysis-facilitates-text-recall.md) — related
 - [Analyzing a problem before reading facilitates overall free recall of a relevant expository text](exp2-problem-analysis-total-recall-gain.md) — related
+- [Available prior knowledge affects learning only when it is activated before the task](activation-required-prior-knowledge-effects.md) — reports the opposite

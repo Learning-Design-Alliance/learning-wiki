@@ -72,3 +72,4 @@ Split-plot ANOVA null results: the hypothesized prior knowledge effect on load a
 - [Propositional knowledge showed a prior knowledge main effect but no instructional method × prior knowledge interaction](no-expertise-reversal-propositional-knowledge.md) — related
 - [The effectiveness of instructional techniques and procedures interacts with levels of learner prior knowledge, a pattern known as the expertise reversal effect](expertise-reversal-prior-knowledge-interaction.md) — related
 - [Sequence of worked examples and problems had no significant effect on self-reported cognitive load, but higher prior knowledge was associated with lower load in experimental design](cognitive-load-no-sequence-effect.md) — related
+- [Overall choice frequency did not differ by condition or prior knowledge, but the condition pattern reversed across prior-knowledge groups](choice-frequency-pk-condition-reversal.md) — related

@@ -112,3 +112,4 @@ The chapter reports that "Several recent studies have shown promising results us
 - [In a Terracotta study across classes, retrieval practice review outperformed restudy review on subsequent exams](terracotta-retrieval-practice-outperforms-restudy.md) — related
 - [Test-enhanced learning generalizes across education levels, from elementary school (g = 0.328) through university/college (g = 0.486).](testing-effect-generalizes-education-levels.md) — related
 - [Younger children are much more suggestible than older children or adults in response to suggestive questions](age-gradient-in-suggestibility.md) — related
+- [The forward testing effect generalizes to individuals with traumatic brain injury but is absent for younger children's single item learning](forward-testing-individual-differences.md) — related

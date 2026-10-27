@@ -61,3 +61,4 @@ NTFD decomposition of the shared environment in the TwinLife sample, contrasting
 - [Age-to-age change in achievement is largely explained by non-shared environmental factors, while genetic and shared environmental influences are stable](genetic-stability-environmental-change-achievement.md) — related
 - [Heritability estimates are population-specific parameters, and the heritability of cognitive skills rises gradually through childhood and adolescence](heritability-population-specific-rises-through-childhood.md) — related
 - [High heritability does not imply that environmental interventions to modify a trait are doomed to failure](high-heritability-does-not-preclude-environmental-intervention.md) — related
+- [Associations between the rearing environment and children's outcomes can be partly or fully due to genetic confounding rather than causal environmental transmission](genetic-confounding-rearing-environment-causal-claims.md) — related

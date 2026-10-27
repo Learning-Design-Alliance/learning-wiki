@@ -60,3 +60,4 @@ Descriptive CHKS tabulations of school safety measures by gender identity and sc
 - [Transgender students across all race/ethnicity groups report suicide ideation at 45–57%, versus no more than 20% of non-transgender students](transgender-students-suicide-ideation-45-57-percent.md) — related
 - [Equalizing perceived supports and safety would reduce gay/lesbian/bisexual versus straight disparities in connectedness by 90-100 percent and other disparities by half](supports-safety-account-orientation-disparities.md) — related
 - [Identity- or bias-based harassment shows negative social-emotional and academic consequences over and above general victimization](bias-based-harassment-added-harm.md) — related
+- [The school environment can serve as a source of chronic stress: bullying at school is linked to higher hair cortisol and poorer executive function](school-environment-chronic-stress-hair-cortisol.md) — related

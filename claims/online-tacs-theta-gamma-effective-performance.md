@@ -49,3 +49,4 @@ Moderator analysis of online-tACS comparisons by frequency band in the meta-anal
 - [tACS effects on cognitive performance depend on targeted brain region: theta on PFC and PPC and online gamma on PPC are effective](tacs-region-moderators-pfc-ppc.md) — a narrower finding that bears on this claim
 - [tACS cognitive benefits concentrate in executive function for theta protocols and in executive and perceptual-motor function for online gamma protocols](tacs-domain-moderators-executive-function.md) — a narrower finding that bears on this claim
 - [tACS protocols produce a small significant overall improvement in cognitive performance in healthy young adults](tacs-small-positive-effect-cognitive-performance.md) — a broader claim this one bears on
+- [Theta and gamma oscillations show similar relationships with memory encoding and retrieval across multiple memory systems and brain regions](theta-gamma-similar-encoding-retrieval-across-memory-systems.md) — related

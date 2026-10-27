@@ -28,7 +28,7 @@ sources:
 # Activation
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 25 claims (10 for, 13 mixed, 2 against) · 29 studies (11 causal, 8 review, 6 quant-synthesis, 2 qualitative, 1 associational, 1 theoretical), `q1`–`q4` · 7 of 29 report an effect size · 17 claims rest on one study
+> **Evidence** · 26 claims (10 for, 14 mixed, 2 against) · 30 studies (12 causal, 8 review, 6 quant-synthesis, 2 qualitative, 1 associational, 1 theoretical), `q1`–`q4` · 7 of 30 report an effect size · 18 claims rest on one study
 
 ## Conditional relationship
 
@@ -119,6 +119,7 @@ The present evidence does not establish an optimal activation format or duration
 - [Prior problem-based discussion does not change the number of inaccurate propositions recalled](../claims/pbl-discussion-no-change-in-inaccurate-recall.md) [~W]
 - [PS-I effectiveness did not depend on the breadth of prior knowledge activated, but on activation of relevant prior knowledge](../claims/relevant-not-breadth-prior-knowledge-activation.md) [~W]
 - [The recall benefit of prior problem-based discussion applies to both explanatory and descriptive propositions, with no interaction between treatment and proposition type](../claims/pbl-recall-benefit-general-not-explanation-specific.md) [+W]
+- [Activated prior knowledge must be relevant to the task; irrelevant knowledge can hamper learning](../claims/relevance-irrelevant-knowledge-hampers.md) [~W]
 
 ## Related Principles
 

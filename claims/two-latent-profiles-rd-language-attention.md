@@ -68,3 +68,4 @@ Profile comparisons from the latent profile solution (Table 3 and Figure 1) show
 - [Latent profile analysis of kindergarten pre-reading measures yields six distinct performance profiles, including PA risk, RAN risk, and double-deficit risk groups](six-latent-prereading-profiles-kindergarten.md) — related
 - [Elementary school children show distinct latent profiles of procedural metacognition combining monitoring accuracy, restudy effectiveness, and decision accuracy across tasks](distinct-metacognition-profiles-lpa-children.md) — related
 - [Four distinct action-control belief profiles (agentic, moderate, avoidant, and mixed) emerge among Finnish ninth graders](four-action-control-belief-profiles-ninth-graders.md) — related
+- [Poor readers are highly heterogeneous and do not all display the same type of reading impairment](poor-readers-heterogeneous-reading-behaviours.md) — a broader claim this one bears on

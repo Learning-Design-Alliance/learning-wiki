@@ -50,3 +50,4 @@ Meta-analytic covariate-combination results from the German samples quantify inc
 - [Domain-identical pretests are the most powerful single-level covariate type for student achievement, outperforming cross-domain pretests, fluid intelligence, and sociodemographic characteristics](ip-most-powerful-single-level-covariate-achievement.md) — related
 - [Sociodemographic covariates outweigh domain-identical pretests for predicting between-classroom and between-school variance in elementary school](sc-outweigh-ip-elementary-group-levels.md) — related
 - [CPS predicts GPA beyond g, though the increment is small and not consistent across all grades](cps-predicts-gpa-beyond-g.md) — a narrower finding that bears on this claim
+- [Prior domain knowledge predicts learning outcomes but not, on average, learning gains](prior-knowledge-predicts-outcomes-not-gains.md) — related

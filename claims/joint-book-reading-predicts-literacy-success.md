@@ -141,3 +141,4 @@ This research synthesis meta-analysed 99 studies (N = 7,669) of leisure-time rea
 - [Home literacy environment predicts early literacy outcomes, with parent print exposure predicting vocabulary and book-sharing frequency predicting letter knowledge](hle-predicts-early-literacy-outcomes.md) — related
 - [Cognitive control mechanisms do not moderate the beneficial effects of book exposure on early literacy outcomes](cognitive-control-does-not-moderate-book-exposure.md) — related
 - [Programs offering only shared reading yield the largest comprehension-related effects, and combining shared reading with other activity types reduces effects](flp-shared-reading-only-largest-comprehension-effect.md) — related
+- [More frequent home literacy practices are associated with children's vocabulary skill but not with reading accuracy or speed](home-literacy-vocabulary-not-reading-fluency.md) — a narrower finding that bears on this claim

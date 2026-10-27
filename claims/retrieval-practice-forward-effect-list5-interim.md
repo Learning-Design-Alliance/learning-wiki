@@ -73,3 +73,6 @@ Planned contrast comparing overt retrieval practice with JOLs with word stems on
 - [JOLs with word stems and retrieval practice reduce prior-list intrusions on the List-5 test, whereas JOLs with complete words do not](word-stem-jols-reduce-prior-list-intrusions.md) — related
 - [Both overt and covert retrieval practice outperform restudy when practice and test match (the testing effect)](both-retrieval-formats-beat-restudy.md) — related
 - [Retrieval practice boosts learning, and the testing effect generalizes to the acquisition of entirely new material (forward testing effect)](testing-effect-backward-and-forward.md) — a broader claim this one bears on
+- [In paired-associate learning, interim testing about doubles recall of new face-name and foreign-translation pairs relative to a distractor control](forward-testing-paired-associates.md) — related
+- [In single item learning, interim testing of studied lists roughly doubles recall of new items compared with distractor or restudy control groups](forward-testing-single-items-doubled-recall.md) — related
+- [In self-paced learning, interim testing maintains study-time allocation across successive lists, preventing the decline seen without tests](interim-testing-maintains-study-time.md) — related

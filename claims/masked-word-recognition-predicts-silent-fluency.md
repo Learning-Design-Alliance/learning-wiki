@@ -50,3 +50,4 @@ Hierarchical regression on silent fluency (TOSCRF) in the same 56-student sample
 - [Masked (automatic) word recognition uniquely predicts oral reading fluency over and above unmasked accuracy and vocabulary in middle-school students](masked-word-recognition-predicts-oral-fluency.md) — related
 - [Automaticity is detectable in the orthography-to-phonology pathway using nonword trials](automaticity-op-pathway-nonwords.md) — related
 - [Backward masking produces a large, reliable accuracy decrement across all three reading tasks](masking-accuracy-decrement-all-tasks.md) — related
+- [Word-picture matching task accuracy was predicted by post-test scores but not pre-test scores, supporting it as a concurrent measure of learning](matching-task-post-scores-concurrent-learning.md) — related

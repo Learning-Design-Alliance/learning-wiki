@@ -13,7 +13,7 @@ generated:
 # Interest
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 214 claims (154 show a difference, 37 mixed, 23 no difference) · 142 studies (54 causal, 40 associational, 18 review, 12 design, 7 quant-synthesis, 6 theoretical, 5 qualitative), `q1`–`q4` · 38 of 142 report an effect size · 208 claims rest on one study
+> **Evidence** · 215 claims (154 show a difference, 37 mixed, 24 no difference) · 143 studies (55 causal, 40 associational, 18 review, 12 design, 7 quant-synthesis, 6 theoretical, 5 qualitative), `q1`–`q4` · 38 of 143 report an effect size · 209 claims rest on one study
 
 ## Description
 Interest is a learner's attraction to a topic. Research separates individual interest, a lasting disposition a learner brings, from situational interest, which material or activity sparks in the moment and which can grow into individual interest over time. Interest is measured by self-report, choice and persistence. It predicts attention, depth of processing and course choice, it moderates the effect of materials (seductive details catch interest without helping learning), and it is an outcome of designs that show relevance or give learners choice. It is a narrower case of [motivation](motivation.md).
@@ -249,6 +249,7 @@ Interest is a learner's attraction to a topic. Research separates individual int
 - [Average task enjoyment correlates with trait-based reading motivation (AMRS) but not with reading engagement](../claims/task-enjoyment-correlates-with-amrs.md) [~M] — learners who differ on it differ in outcomes
 - [Higher synopsis enjoyment predicts better comprehension of that synopsis, even controlling for reading ability in Experiment 1](../claims/enjoyment-predicts-synopsis-comprehension.md) [+W] — learners who differ on it differ in outcomes
 - [Rated enjoyment of a synopsis predicts readers' willingness to take on a temporal cost (waiting for more book information) in both experiments](../claims/enjoyment-predicts-willingness-to-wait.md) [+M] — learners who differ on it differ in outcomes
+- [Enjoyment of the instructional type did not differ between the movement and seated video groups, with both groups reporting high enjoyment](../claims/movement-videos-enjoyment-null-group-difference.md) [-M] — instruction changes it
 
 ## The evidence by question
 - *Does seeing a task as interesting, important or useful raise the effort learners invest in it?* [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](../claims/task-value-increases-motivation-and-engagement.md) [+M]

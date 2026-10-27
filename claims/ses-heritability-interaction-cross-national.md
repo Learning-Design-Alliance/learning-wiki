@@ -46,3 +46,4 @@ The review reports a meta-analysis on interactions between SES and heritability 
 
 ## Related Claims
 - [Moderators of teachers' growth mindset effects include publication year, world region, publication status, dimensionality, referent, content, and study quality](teacher-growth-mindset-moderators.md) — related
+- [Heritability of educational achievement varies as a function of SES in the United States but not in countries with more uniform access to high-quality education](heritability-ses-interaction-country-policy.md) — possibly the same claim (merge candidate)

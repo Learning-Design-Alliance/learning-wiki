@@ -67,3 +67,4 @@ The article reports, citing Macnamara and Burgoyne, that this meta-analysis of 7
 - [GMT as a standalone intervention shows small average effects that approach zero when publication bias is controlled, per the review's account of Macnamara and Burgoyne's meta-analysis](gmt-standalone-small-mixed-effects.md) — a narrower finding that bears on this claim
 - [Growth-mindset interventions have weak average effects on achievement, including a negligible GPA gain (d = 0.11) for lower-achieving US ninth-graders in one preregistered national trial](growth-mindset-improves-achievement.md) — related
 - [Yeager et al. (2016) and Fink et al. (2018) found indeterminate effects on enrollment, credit completion, and chemistry final exam scores](yeager-fink-indeterminate-effects.md) — related
+- [Mindset interventions have only a weak effect on later academic achievement](mindset-interventions-weak-effect.md) — related

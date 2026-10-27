@@ -50,3 +50,4 @@ The brief reports, in Recommendation 5, that there is limited evidence for the e
 - [Certified edtech developers report that learning sciences research helps them name and evaluate their product's expected impact on learning](edtech-developers-report-research-clarifies-impact.md) — related
 - Technology directors are the least likely to trust evidence from providers, with only 29 percent satisfied with the credibility of provider evidence — related
 - [The report calls for reframing edtech certification applications to help developers identify equity gaps in the research they use](certification-equity-gap-reframing.md) — related
+- [Most popular EdTech products lack research evidence of positive learning impact](edtech-products-lack-evidence-base.md) — related

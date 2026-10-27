@@ -48,6 +48,7 @@ The report proposes five priorities as a roadmap for sustained change: fair and 
 - [Eight state and local strategies to address California teacher shortages](eight-strategies-address-teacher-shortages.md)
 - [Five-step state roadmap for equitable access to experienced teachers: examine data, diagnose level, set goals, enact policy, monitor accountability](five-step-state-roadmap-teacher-equity.md)
 - [Five-step state roadmap for equitable access to experienced teachers: examine data, diagnose root causes, set goals, implement data-based policies, and monitor with transparency](state-roadmap-equitable-teacher-access.md)
+- [Adopt transformative SEL and system-level policy reforms—funding restructure, disciplinary equity, healthcare access—to address poverty-driven inequity](transformative-sel-system-level-reforms.md)
 
 ## Examples
 -

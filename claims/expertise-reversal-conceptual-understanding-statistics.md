@@ -53,3 +53,4 @@ Two-way ANOVA (instructional method × prior knowledge group) on conceptual unde
 - [The expertise reversal effect relies on changes in relative levels of element interactivity due to changes in relative levels of expertise](expertise-reversal-changes-from-expertise-levels.md) — a broader claim this one bears on
 - [Most existing task complexity frameworks rely on objective measures and neglect learner expertise](complexity-frameworks-neglect-expertise.md) — related
 - [Prior knowledge, worked-example type (full vs completion) and task difficulty show a significant three-way interaction on an algebra posttest, but not on self-reported cognitive load](prior-knowledge-worked-example-task-difficulty-three-way-interaction-on-algebra-posttest.md) — related
+- [Overall choice frequency did not differ by condition or prior knowledge, but the condition pattern reversed across prior-knowledge groups](choice-frequency-pk-condition-reversal.md) — related

@@ -49,3 +49,4 @@ Fixed effect of sex (male or female) in the linear mixed effects model of CR per
 - [Training blocks significantly increase conditioned response percentage in delay eyeblink conditioning](training-blocks-increase-cr-percentage-eyeblink.md) — related
 - [Longer interstimulus interval significantly increases conditioned response percentage](longer-isi-increases-cr-percentage.md) — related
 - [Concurrent working memory tasks significantly reduce conditioned response percentage](working-memory-tasks-reduce-cr-percentage.md) — related
+- [CR onset latency variation tends to increase over days while participant sex shows no significant effect on either CR measure](cr-onset-latency-increases-sex-no-effect.md) — possibly the same claim (merge candidate)

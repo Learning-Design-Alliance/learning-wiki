@@ -13,7 +13,7 @@ generated:
 # Reading Fluency
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 83 claims (52 show a difference, 18 mixed, 13 no difference) · 55 studies (16 causal, 16 associational, 10 review, 9 quant-synthesis, 2 design, 2 theoretical), `q1`–`q4` · 14 of 55 report an effect size · 82 claims rest on one study
+> **Evidence** · 86 claims (54 show a difference, 18 mixed, 14 no difference) · 56 studies (17 causal, 16 associational, 10 review, 9 quant-synthesis, 2 design, 2 theoretical), `q1`–`q4` · 14 of 56 report an effect size · 85 claims rest on one study
 
 ## Description
 Reading fluency is reading text accurately, at an appropriate rate and smoothly, whether silently or aloud. It rests on the word-level skills beneath it: [decoding](decoding.md), orthographic processing, phonological processing, [morphological awareness](morphological-awareness.md) and an understanding of [syntax](syntax.md). It is measured by counting words read correctly within a time limit and by having students read passages aloud, scored for accuracy and rate.
@@ -123,6 +123,9 @@ It is part of the wiki's broader [reading and language](reading-and-language.md)
 - [Numerical cognition assessed at end of first grade statistically mediates associations between early processing speed, working memory, calculation skill, word-problem solving, and attentive behavior and later calculations, word-problem solving, and reading](../claims/numerical-cognition-mediation-academic-outcomes.md) [+W] — instruction changes it
 - [Sound field amplification produces no significant overall difference in reading fluency development in 8–10-year-old students](../claims/sfa-no-reading-fluency-benefit-grade-3-4.md) [-M] — instruction changes it
 - [In a mixed-effects model, classroom condition significantly predicted reading fluency development, with SFA-On and SFA-Off both exceeding baseline but not each other](../claims/sfa-mixed-model-condition-effect-reading-fluency.md) [+M] — instruction changes it
+- [A font-change variant of lexical categorization training significantly increased reading speed, but not significantly more than lexical categorization training alone](../claims/font-change-training-not-superior.md) [+M] — instruction changes it
+- [Lexical categorization training significantly increases reading speed in adult non-native German learners, replicated across three experiments](../claims/lc-training-reading-speed-gains-language-learners.md) [+M] — instruction changes it
+- [Phonics control training did not significantly increase reading speed in language learners and did not differ significantly from lexical categorization training](../claims/phonics-control-null-reading-speed.md) [-M] — instruction changes it
 
 ## Measures
 - **Test of Word Reading Efficiency (TOWRE)** (Torgesen et al., 1999): number of printed words read correctly in 45 seconds.

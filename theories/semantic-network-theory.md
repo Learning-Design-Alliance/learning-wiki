@@ -17,7 +17,7 @@ sources:
 # Semantic network theory of learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 6 claims (4 for, 2 mixed) · 7 studies (4 causal, 3 quant-synthesis), `q1`–`q4` · 3 of 7 report an effect size · 5 claims rest on one study
+> **Evidence** · 7 claims (5 for, 2 mixed) · 8 studies (4 causal, 3 quant-synthesis, 1 theoretical), `q1`–`q4` · 3 of 8 report an effect size · 6 claims rest on one study
 
 ## Description
 Knowledge is represented as semantic networks of nodes and links; learning consists of building new structures by constructing new nodes and interrelating them with existing nodes. The article uses this framework to define structural knowledge as knowledge of how concepts are interrelated, and frames learning as reorganization of the learner's knowledge structure to resemble the expert's, which mapping exercises are meant to induce.
@@ -46,6 +46,7 @@ Knowledge is represented as semantic networks of nodes and links; learning consi
 - [Whether a prototype or caricature is categorized more easily is predicted to depend on concept interrelatedness: prototype advantage for isolated, caricature advantage for interrelated concepts](../claims/prototype-caricature-interrelatedness-prediction.md) [~W]
 - [Concept-mapping effect sizes vary by science subject (physics/earth science g = 1.040, biology g = 0.671, chemistry g = 0.590) but not significantly](../claims/concept-map-effects-vary-by-science-subject.md) [+W]
 - [In Experiment 1, model concepts increase monotonically with expertise while detailed biomedical concepts show an inverted U, confirming knowledge encapsulation](../claims/model-concepts-increase-detailed-inverted-u.md) [+W] — attached 2026-10-23 from Boshuizen et al. (1995), which proposed "Theory of medical expertise development through knowledge encapsulation and illness script formation"; tests this page's relationship.
+- [The greater the reorganization of prior knowledge required, the harder new information is to acquire](../claims/reorganization-depth-difficulty-conceptual-change.md) [+W]
 
 ## Related Theories
 

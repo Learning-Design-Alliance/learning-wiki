@@ -9,6 +9,7 @@ generated:
   at: 2026-10-27
 evidence_strength: moderate
 newest_evidence: 2025
+source_checked: 2026-10-27
 sources:
   - id: shin-2025
     resource: "https://doi.org/10.1038/s41539-025-00340-3"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q3`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-10-27 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In the L3 difficulty condition, only the personalized TMR group showed significant pre- to post-sleep improvement, and it significantly outperformed both TMR and CNT after sleep. [→ Shin 2025](#shin-2025)
@@ -70,3 +71,4 @@ Two-way ANOVA (group × time) on L3 accuracy in the word-pair memory task; the o
 - [Auditory cueing during NREM sleep elevates slow wave and spindle power relative to no stimulation, with effects concentrated in frontal and central regions](tmr-elevates-sw-spindle-power-nrem.md) — related
 - [Full word-pair cues can promote rather than disrupt reactivation when delivered with sufficient spacing and during stable NREM sleep](full-pair-cues-effective-under-boundary-conditions.md) — related
 - [Multivariate classification of SW power, spindle power, and SW-spindle coupling distinguishes the personalized TMR, TMR, and control groups above chance, peaking around 3 s after cue onset](svm-classification-personalized-tmr-signatures.md) — related
+- [Hippocampal sharp-wave ripples during SWS and waking support memory consolidation and spatial task performance](swr-replay-supports-consolidation-and-spatial-memory.md) — related
