@@ -1130,7 +1130,7 @@
 <h1 id="gpt-4o-automated-dialogue-annotation-with-recursive-common-core-tagging">GPT-4o Automated Dialogue Annotation with Recursive Common Core Tagging<a class="headerlink" href="#gpt-4o-automated-dialogue-annotation-with-recursive-common-core-tagging" title="Permanent link">&para;</a></h1>
 <blockquote>
 <p><strong>Element</strong> · <a href="../">All elements</a><br />
-<strong>Evidence</strong> · 8 claims (5 for, 3 mixed) · 6 studies (5 design, 1 causal), <code>q2</code> · 0 of 6 report an effect size · 8 claims rest on one study</p>
+<strong>Evidence</strong> · 11 claims (6 for, 4 mixed, 1 against) · 7 studies (6 design, 1 causal), <code>q2</code> · 0 of 7 report an effect size · 11 claims rest on one study</p>
 </blockquote>
 <h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
 <p>The article annotates each student turn with correctness and KC labels using GPT-4o via simple, zero-shot chain-of-thought prompting, instructing it to summarize turns before labeling. "For KC annotation, we adapt the recursive tagging algorithm from [34], which tags math word problems with Common Core math standards": the model selects domains, then clusters, then turn-level standards from the Achieve the Core coherence map. The two tasks are run separately because "doing so leads to improved accuracy compared to combining them".</p>
@@ -1169,6 +1169,9 @@
 <li><a href="../../claims/clara-educator-agreement-interpretability/">CLARA annotations align with blinded educator judgments, with 0.81 pairwise agreement and highest-rated educational interpretability</a> [~W]</li>
 <li><a href="../../claims/gpt4-diagnoses-its-errors-87-8-accuracy/">Given sufficient prompt context, GPT-4 describes student errors in a College Algebra ITS with 87.8% accuracy</a> [+W]</li>
 <li><a href="../../claims/framework-robust-asr-noise-cross-domain-transfer/">The framework is robust to 15% ASR transcription noise and retains 99.6% of its ICS under zero-shot cross-domain transfer to EdNet-Math</a> [~W]</li>
+<li><a href="../../claims/gpt4o-consistency-vs-llama3-unit-weakness/">GPT-4o shows more consistent performance than Llama 3 70B across topics and metrics, while Llama 3 70B falls below 60% on the unit metric for three advanced topics</a> [+W]</li>
+<li><a href="../../claims/llama3-lenient-gpt4o-rigor-tradeoff/">Llama 3 70B outperforms GPT-4o on completeness and method metrics due to its leniency, but performs significantly worse on the unit metric</a> [~W]</li>
+<li><a href="../../claims/gpt4o-characteristic-assessment-error-types/">GPT-4o frequently makes characteristic errors in homework assessment, including failing to recognize unit and numeric equivalences, marking complete solutions incomplete, and mishandling alternative methods and notations</a> [-W]</li>
 </ul>
 <h2 id="the-evidence-by-question">The evidence by question<a class="headerlink" href="#the-evidence-by-question" title="Permanent link">&para;</a></h2>
 <ul>
