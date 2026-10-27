@@ -48,3 +48,4 @@ Narrative review section on HCI. The review reports that designers use 'models o
 
 - [Integrating culture in ICT design serves a broader scope than current methods recognise, from culture-neutral to culture-specific](culture-integration-broader-scope-than-current-methods.md) — related
 - [Cross-cultural study of university websites found similar technical features and audience-significant cultural emphases](callahan-university-websites-similar-features.md)
+- [Dimensional national-culture models (Hofstede; Hall) did not prove useful as a basis for modeling culture in educational technology design](dimensional-culture-models-insufficient-for-edtech-design.md) — reports the opposite

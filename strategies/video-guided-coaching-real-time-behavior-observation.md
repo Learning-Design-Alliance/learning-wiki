@@ -43,6 +43,7 @@ The article's practical implication is a general suggestion for teacher educatio
 ## Related Strategies
 
 - [Track interactional resources across levels as a research approach for CSCL](track-interactional-resources-across-levels.md)
+- [Decompose aggregate models of group learning using fine-grained behavioural observations](decompose-group-learning-models-fine-grained-observations.md)
 
 ## Examples
 -

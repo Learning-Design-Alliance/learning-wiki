@@ -130,3 +130,4 @@ Human-LLM agreement for self-efficacy across configurations. Non-mini models out
 - [GPT-4 demonstrated higher reliability of feedback than GPT-3.5, with higher F1 agreement with instructors on most assessment aspects](gpt4-higher-polarity-reliability-than-gpt35.md) — related
 - [Human expert review is the most credible but slowest and most resource-intensive evaluation method](human-expert-review-most-credible-slowest.md) — related
 - [Across 468 data points, human coders, LLMs, and both standards agreed on the same value in 280 cases (59.8%)](coder-agreement-patterns-upset-468.md) — related
+- [Multi-label classification of open-ended course feedback was challenging even for expert human annotators who developed the label set, with average inter-rater Jaccard similarity of 81.24%](multi-label-survey-classification-challenging-expert-annotators.md) — related

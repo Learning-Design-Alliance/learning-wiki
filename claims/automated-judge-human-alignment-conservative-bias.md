@@ -64,3 +64,4 @@ A human validation study had three domain experts independently score a stratifi
 - [High agreement between two LLM screeners indicates consistency among outputs, not accuracy, because models may exhibit correlated failure patterns](llm-agreement-is-consistency-not-accuracy.md) — related
 - [Five judges classifying 63 test units reached average inter-judge correlation of 0.542 ± 0.019 on the two scales](judge-agreement-classifying-test-units-scales.md) — related
 - [Independent grading by eight judges of 34 specimens showed average deviations below the 10-point scale spacing (average 6.1), supporting the scale's objectivity](ayres-scale-interjudge-consistency.md) — related
+- [Three expert coders reached 77.15% overall agreement (Fleiss' κ = 0.763) on the LCT MOOC sample, and over half of their disagreements lay between Exploration and Integration](coder-agreement-exploration-integration-disagreements.md) — related

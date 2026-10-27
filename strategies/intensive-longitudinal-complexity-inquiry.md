@@ -41,6 +41,7 @@ The article recommends that research into the dynamics of complex systems be con
 
 - [Future creativity research should study moment-to-moment interactions and mechanisms connecting levels of creativity](future-research-moment-to-moment-interactions-creativity.md)
 - [Develop a theoretically grounded data-granularity structure and stronger evaluation baselines, including meta-analysis-derived baselines](granularity-and-baseline-optimization-strategy.md)
+- [Decompose aggregate models of group learning using fine-grained behavioural observations](decompose-group-learning-models-fine-grained-observations.md)
 
 ## Examples
 -

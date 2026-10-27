@@ -44,6 +44,7 @@ The report's third key takeaway is that raising teacher awareness of additional 
 - [Combine live cohort sessions, self-guided application, peer coaching, and virtual office hours in literacy professional learning](cohort-peer-coaching-office-hours-pd-model.md)
 - [Combine public information campaigns, continuous staff education, and direct outreach to identify students experiencing homelessness](multi-channel-homeless-student-identification-strategy.md)
 - [Use identified KAM social practices to guide collaborative platform features supporting teacher adoption](platform-features-guided-by-kam-practices.md)
+- [Center teacher professional development on machine learning platforms so teachers can use AI in classrooms](pd-machine-learning-platform-stem-teachers.md)
 
 ## Examples
 -

@@ -49,3 +49,4 @@ Theoretical argument drawing on Moll and Greenberg (1990) and Gardner (1983): th
 - [AI systems are non-neutral socio-technical artifacts embedding cultural assumptions and power relations](ai-non-neutral-embeds-power-relations.md) — a broader claim this one bears on
 - Luria's Uzbekistan cognition research is of questionable validity because its mediational means were culturally inappropriate — a narrower finding that bears on this claim
 - Data on learning in the ZPD are social constructs, so the purity-of-data metaphor is inappropriate — a narrower finding that bears on this claim
+- [Instructional design methods cannot always be universally applied across cultures because their effects vary across contexts](instructional-design-effects-vary-across-cultural-contexts.md) — related

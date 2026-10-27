@@ -53,3 +53,4 @@ Pre-post evaluation (Study 3) of the Prometheus MOOC masterclass; paired-samples
 - [AI applications support prompt engineering, professional skill development, technology acceptance, and active participation in science and chemistry education](ai-outcome-themes-prompt-skills-technology-acceptance.md) — related
 - [Participation in the short INSIGHT training session is associated with a significant pre-post increase in teachers’ perceived usefulness of AI-based technologies](insight-training-increases-perceived-usefulness-ai.md) — related
 - [An online PD program using unplugged explainable machine-learning activities increased K–12 educators' AI self-efficacy from below-moderate to above-moderate levels](unplugged-ml-pd-raises-teacher-ai-self-efficacy.md) — related
+- [Short-duration TPACK-based professional development improved teachers' ML knowledge and interest (ML4STEM)](ml4stem-teacher-pd-initial-evidence.md) — related

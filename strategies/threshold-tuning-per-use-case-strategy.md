@@ -44,6 +44,7 @@ The article recommends systematically testing classification thresholds (0.1 to 
 ## Related Strategies
 
 - [Select the variant-generation prompting protocol by deployment threat profile: zero-shot or structured CoT for construct fidelity, few-shot or dimension-preserving generation for surface separation](threat-profile-keyed-generation-protocol.md)
+- [Set difficulty-specific intervention times based on when prediction quality exceeds a fixed threshold](difficulty-specific-intervention-times.md)
 
 ## Examples
 -

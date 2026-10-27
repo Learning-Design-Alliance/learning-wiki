@@ -48,3 +48,4 @@ Two-level regression analysis (lme4 in R) of exam performance with students nest
 - [Students needed to attend at least five SI-PASS meetings before their exam performance significantly improved](si-pass-attendance-threshold-five-meetings.md) — related
 - [In a randomized controlled trial, SI-PASS participation did not significantly improve final exam performance compared to a waiting-list control group](si-pass-rct-no-performance-effect.md) — related
 - [A quasi-experimental comparison of SI-PASS participants with non-volunteering enrolled students shows significantly higher exam performance, contrasting with the null RCT result](si-pass-quasi-experimental-significant-effect.md) — related
+- [Group membership accounts for a substantial portion of variance in collaboration performance satisfaction](group-membership-variance-collaboration-satisfaction.md) — related

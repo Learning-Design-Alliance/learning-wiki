@@ -47,3 +47,4 @@ Pairwise comparison within the same randomized experiment's create question gene
 ## Related Claims
 - [Writing teaching scripts or textbook explanations improves university students' create-level research question generation more than writing study notes for their own learning](generating-for-others-beats-notetaking-question-generation.md) — a broader claim this one bears on
 - [Learning By Teaching Improves Tutor Learning](learning-by-teaching-improves-tutor-learning.md) — related
+- [Explanations generated from generic questions were rated significantly better than those generated from random questions, supporting the hypothesis that question selection strategy matters](generic-questions-beat-random-questions-explanations.md) — related

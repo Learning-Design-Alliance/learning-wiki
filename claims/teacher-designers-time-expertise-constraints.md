@@ -52,3 +52,4 @@ Descriptive statement in the ecology-of-education section, set against research 
 - [TEL design is not a distinct teacher competence but part of ordinary learning design](tel-not-distinct-teacher-competence.md) — related
 - Special issue findings are soft: small-scale case studies limit generalizability — related
 - [Districts report recurring pain points in edtech evaluation, including no formal process, curriculum–technology team disconnects, uneven evaluation depth, and outdated tool inventories](district-edtech-evaluation-pain-points.md) — related
+- [The special issue presents emerging K-12 AI education work spanning curricula, frameworks, and teacher professional development](special-issue-k12-ai-education-articles.md) — a broader claim this one bears on

@@ -80,3 +80,4 @@ The review reports Chen's (2013) examination of Tablet PC use for informal Engli
 - [LLMs act as catalysts for collaboration by aiding idea generation, organization and peer feedback, and by democratizing access to knowledge in large-class settings](llms-catalyze-collaboration-idea-generation-peer-feedback.md) — related
 - [Lack of practice ranks fourth among speaking anxiety sources, which the authors suggest may be due to teacher-centered Iranian classrooms](lack-of-practice-teacher-centered-anxiety.md) — related
 - [Students guided to use LiquidText show lower acceptance of tablets for multiple document work than controls despite better performance](liquidtext-guidance-acceptance-paradox.md) — related
+- [Students' basic ICT skills pose little barrier in classroom settings but major hurdles for individual and mobile use, mitigated by peer support and initial device setup](basic-ict-skills-setting-dependent-barrier.md) — related

@@ -63,3 +63,4 @@ Finding from the J48 decision tree analysis of ASSISTments Skill Builder log dat
 - [Most students (87.6%) prefer attempting to solve problems independently before seeking support, managing uncertainty privately before engaging formal support](students-prefer-independent-problem-solving-first.md) — related
 - [Mindful-condition students completed fewer problem-solving steps and requested fewer hints per step than Cognitive-condition students](mindful-condition-fewer-steps-hints.md) — related
 - [Children give more disempowering help (right answers) to peers portrayed as incompetent and more empowering help (hints) to competent peers](children-disempowering-help-incompetent-peers.md) — related
+- [Unsolicited hints and meta-hints raised first-attempt correctness by d=0.682 and problem completion by d=0.727](unsolicited-meta-hints-effect-sizes.md) — related

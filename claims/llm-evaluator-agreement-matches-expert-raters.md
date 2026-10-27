@@ -69,3 +69,4 @@ Evaluation of the Vantage collaboration protocol with 188 Prolific-recruited par
 - [Inter-rater agreement among pre-service teachers is low regardless of grading approach or essay quality](low-inter-rater-agreement-preservice-grading.md) — related
 - [Five judges classifying 63 test units reached average inter-judge correlation of 0.542 ± 0.019 on the two scales](judge-agreement-classifying-test-units-scales.md) — related
 - [Judges' ratings on the Thorndike handwriting scale agree closely, and averaged ratings give a constant determination](thorndike-scale-judge-agreement.md) — related
+- [Multi-label classification of open-ended course feedback was challenging even for expert human annotators who developed the label set, with average inter-rater Jaccard similarity of 81.24%](multi-label-survey-classification-challenging-expert-annotators.md) — related

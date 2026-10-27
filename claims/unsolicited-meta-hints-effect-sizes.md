@@ -1,0 +1,52 @@
+---
+type: claim
+title: Unsolicited hints and meta-hints raised first-attempt correctness by d=0.682 and problem completion by d=0.727
+description: Unsolicited hints and meta-hints raised first-attempt correctness by d=0.682 and problem completion by d=0.727
+id: unsolicited-meta-hints-effect-sizes
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-27
+evidence_strength: moderate
+newest_evidence: 2015
+sources:
+  - id: vanlehn-2015
+    resource: "https://doi.org/10.1007/s40593-015-0067-7"
+    title: "VanLehn, K. (2015). Reflections on Andes' Goal-free User Interface. International Journal of Artificial Intelligence in Education. https://doi.org/10.1007/s40593-015-0067-7"
+    author: VanLehn, K.
+    q: 2
+    i: 2
+    kind: review
+    rigour: 2
+---
+
+# Unsolicited hints and meta-hints raised first-attempt correctness by d=0.682 and problem completion by d=0.727
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · review `r2` · `q2` · `i2` medium
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
+
+## Subclaims
+`q2 i2` The most recent Andes version's judiciously provided unsolicited hints and meta-hints raised the frequency of getting a step right on the first attempt by d=0.682 and the problem completion rate by d=0.727. [→ VanLehn 2015](#vanlehn-2015)
+
+## Evidence
+
+### VanLehn 2015
+
+VanLehn, K. (2015). Reflections on Andes' Goal-free User Interface. International Journal of Artificial Intelligence in Education. https://doi.org/10.1007/s40593-015-0067-7
+
+`q2 · i2` · `review · r2`
+
+The most recent Andes version (Ranganathan et al., unpublished) alleviated hint underuse by "judiciously providing unsolicited hints" and unsolicited meta-hints that always used the same wording ("You should ask for a hint."). Reported effects: d=0.682 on first-attempt correctness and d=0.727 on completion rate.
+
+> "This raised the frequency of getting a step right on the first attempt by d=0. 682 and raised the problem completion rate by d= 0.727."
+
+## Discussion
+
+
+## Related Claims
+- [Error rates per completed problem-solving step did not significantly differ between conditions](no-difference-error-rate-log.md) — related
+- [Mindful-condition students completed fewer problem-solving steps and requested fewer hints per step than Cognitive-condition students](mindful-condition-fewer-steps-hints.md) — related
+- [K-12 learners preferred incremental hints and multiple attempts over immediately revealed solutions](learners-prefer-incremental-hints-over-solutions.md) — related
+- [Not requesting any hints in at least one problem is related to greater wheel-spinning, consistent with help avoidance](hint-avoidance-related-greater-wheel-spinning.md) — related
+- [Most students (87.6%) prefer attempting to solve problems independently before seeking support, managing uncertainty privately before engaging formal support](students-prefer-independent-problem-solving-first.md) — related

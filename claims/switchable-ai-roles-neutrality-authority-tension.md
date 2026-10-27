@@ -74,3 +74,4 @@ Thematic-analysis finding on role expansion: participants questioned the legitim
 - [No reviewed participatory design method satisfies all seven criteria for designing disruptive socio-technical systems](no-reviewed-method-meets-all-seven-criteria.md) — related
 - [The value of the student-staff collaboration was explored from student, staff, and institutional perspectives, with benefits, limitations, and recommendations presented](student-staff-collaboration-value-three-perspectives.md) — related
 - [Authoring a team tutor requires at least three new ITS modules beyond those of an individual tutor: a team-skills expert model, a team-capable pedagogical model, and a team model, plus a learner model per member](team-tutor-requires-three-new-modules.md) — related
+- [K-12 students need competencies for effective human-AI teaming in future workplaces](k12-competencies-human-ai-teaming.md) — related

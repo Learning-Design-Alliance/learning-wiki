@@ -52,3 +52,4 @@ Elastic regression on platform click data (400 categories, PCA-reduced, N = 1434
 - [A machine learning model using 105 predictors predicts next-year standardized math achievement with out-of-sample prediction R-squared of .70–.78](ml-model-predicts-next-year-math-achievement-r2-70-78.md) — related
 - [The COVID-19 switch to remote schooling was accompanied by significant declines in math and science scores on a UAE digital learning platform](covid-remote-learning-score-declines-uae-platform.md) — related
 - [Regression optimizes explanation of data at hand while machine learning optimizes out-of-sample prediction, and studies must state which aim they pursue](explaining-versus-predicting-development.md) — related
+- [TimeOnTask threshold values computed by ToTCompute explain up to 76.2% of the variance in engagement change](totcompute-threshold-explains-engagement-change-variance.md) — related

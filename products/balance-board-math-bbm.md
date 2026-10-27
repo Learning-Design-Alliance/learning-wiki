@@ -24,7 +24,8 @@ Balance Board Math is a sensor-equipped balance-board environment and interface 
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [Kinect-sensor environment for young children to learn and practice Chinese](kinect-sensor-environment-for-young-children-to-learn-and-practice-chinese.md)
 
 ## Key Sources
 - Sofia Tancredi, Dor Abrahamson. (2024). Stimming as Thinking: a Critical Reevaluation of Self-Stimulatory Behavior as an Epistemic Resource for Inclusive Education. Educational Psychology Review. https://doi.org/10.1007/s10648-024-09904-y

@@ -67,3 +67,4 @@ The review attributes to Johnstone et al. (2018) the finding that domestic study
 - [Intercultural development progress occurred for students in intentionally designed courses regardless of whether study away was a component](idi-progress-regardless-of-study-away.md) — related
 - [Intergroup contact in diverse schools reduces prejudice and increases positive cross-racial relationships, alongside improved critical thinking and civic outcomes](diverse-schools-social-and-civic-benefits.md) — a broader claim this one bears on
 - [Review reports exposure abroad alone does not guarantee gains in social-change competencies, calling the learning mechanism a black box](social-change-exposure-black-box.md) — related
+- [Synthetic cultural environments promoted intercultural competence when combined with suitable classroom instruction (reported by Hall et al., 2014)](synthetic-cultures-promote-intercultural-competence.md) — related

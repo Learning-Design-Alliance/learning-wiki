@@ -53,3 +53,4 @@ Comparative evaluation of tuned machine learning models on a test set of 49,299 
 - [Random forest feature importance identifies EDA, ACC, and TEMP as the top three physiological predictors of exam outcomes](eda-acc-temp-top-three-predictors-exam-outcomes.md) — related
 - Simple classifiers (Logistic Regression, Naive Bayes) outperformed tree-based models on this small dataset — reports the opposite
 - [An LSTM-based strategy temporal analytics framework outperforms random forest, SVM, and majority-class baselines for stealth assessment predictive accuracy](lstm-strategy-temporal-analytics-outperforms-baselines.md) — reports the opposite
+- [Random Forest performed slightly better overall than SVM and Complement Naive Bayes for classifying short exam answers, with an average F-score of 0.82](random-forest-slightly-better-for-answer-classification.md) — related

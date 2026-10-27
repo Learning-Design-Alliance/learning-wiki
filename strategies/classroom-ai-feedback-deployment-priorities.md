@@ -42,6 +42,7 @@ Based on their user study, the authors recommend three deployment priorities for
 - [Support employee professional learning about AI through onboarding, transparency, direct tool access, and job-embedded training](support-employee-ai-professional-learning.md)
 - [Deploy agentic AI in education with transparency about agentic decisions, human oversight and institutional responsibility](responsible-deployment-transparency-human-oversight-agentic-ai.md)
 - [Provide transparent, inspectable evaluation trails in AI-teaching benchmarks](transparent-inspectable-evaluation-trails.md)
+- [Three solutions for data costs in mobile learning: avoid data, batch data, and transfer data locally](data-cost-mitigation-three-solutions.md)
 
 ## Examples
 -

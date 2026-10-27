@@ -59,3 +59,4 @@ Qualitative constant comparative analysis of GPT-4's reasoning chains during the
 - [On the Debugging Task, CoTAL raised average subscore QWK from 0.567 to 0.706 (24.5% improvement) and Total Score QWK by 0.218 (a 38.9% gain) over the Baseline](cotal-debugging-task-qwk-gain.md) — related
 - [Dominant logical fallacies in LLM mathematical explanations shift from family to family and across prompting modes](llm-math-explanation-fallacies-vary-by-family.md) — related
 - [Behavioral similarity between LLMs and learners does not guarantee mechanistic similarity](llm-behavioral-similarity-not-mechanistic-similarity.md) — related
+- [GPT-4's chain-of-thought reasoning, captured via structured output, was consistently reliable and appeared to provide logical, context-grounded justification usable for prompt tuning and end-user insight](gpt4-cot-reasoning-reliable-transparent.md) — reports the opposite

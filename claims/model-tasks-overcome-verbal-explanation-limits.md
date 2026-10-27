@@ -52,3 +52,4 @@ In the discussion of the interview study, the author reports "almost half of the
 - [Young children with limited vocabulary express metacognitive knowledge through behavioral and nonverbal expressions as well as verbalizations](nonverbal-behavioral-metacognitive-expressions.md) — related
 - [Boys and girls do not differ in the type of mental models of the day and night cycle they hold](no-gender-difference-day-night-mental-models.md) — related
 - [Physically or imaginatively manipulating objects during reading improves children's reading comprehension](moved-by-reading-object-manipulation-comprehension.md) — related
+- [Elementary students hold limited views of the difference between programmed behavior and AI-produced behavior](children-limited-programmed-vs-ai-behavior-views.md) — related

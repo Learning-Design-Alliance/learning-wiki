@@ -45,6 +45,7 @@ Building on their review finding that creativity is usually measured statically,
 ## Related Strategies
 
 - [Study learning dynamics through intensive, long-term, fine-grained repeated observation](intensive-longitudinal-complexity-inquiry.md)
+- [Decompose aggregate models of group learning using fine-grained behavioural observations](decompose-group-learning-models-fine-grained-observations.md)
 
 ## Examples
 -

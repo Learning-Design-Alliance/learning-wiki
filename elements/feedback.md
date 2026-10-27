@@ -13,7 +13,7 @@ generated:
 # Feedback
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 197 claims (88 for, 94 mixed, 15 against) · 148 studies (59 causal, 28 review, 20 quant-synthesis, 15 associational, 9 qualitative, 9 design, 8 theoretical), `q1`–`q4` · 38 of 148 report an effect size · 174 claims rest on one study
+> **Evidence** · 198 claims (88 for, 95 mixed, 15 against) · 149 studies (59 causal, 29 review, 20 quant-synthesis, 15 associational, 9 qualitative, 9 design, 8 theoretical), `q1`–`q4` · 38 of 149 report an effect size · 175 claims rest on one study
 
 ## Description
 Feedback is information provided to learners about their performance or understanding, intended to close the gap between current and desired performance. Effective feedback answers three questions: Where am I going? How am I doing? Where to next? ([Hattie & Timperley, 2007](https://doi.org/10.3102/003465430298487)). It functions as the corrective mechanism in any instructional cycle that includes [Practice](practice.md) or [Assessment](assessment.md).
@@ -245,6 +245,7 @@ Feedback is among the most powerful influences on learning, but its effects are 
 - [Participants made larger movement corrections after failed shots than after successful ones in both feedback conditions, indicating reward-based learning occurred even without reward feedback](../claims/greater-corrections-after-failure-both-conditions.md) [+W]
 - [Feedback manipulations were insufficient to isolate learning mechanisms: participants used both error-based and reward-based learning regardless of the feedback provided](../claims/feedback-manipulation-cannot-isolate-motor-learning-mechanisms.md) [~W]
 - [Inter-trial variability decay showed reward-like signatures in the error-feedback condition, especially when learning was matched across conditions (Round 2)](../claims/itv-decay-reward-like-signatures-error-condition.md) [~W]
+- [In the LeActiveMaths knowledge-elicitation studies, tutors' feedback became more positive, more elaborate, and more targeted to situational diagnoses over successive interactions](../claims/leam-ke-improved-tutor-feedback.md) [~W]
 
 ## Design Decisions
 <!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice
@@ -318,6 +319,7 @@ Feedback is among the most powerful influences on learning, but its effects are 
 - [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md) — the coaching phase, where the expert diagnoses and corrects learner performance
 
 ## Examples
+
 - [WAT-C classroom writing analytics platform](wat-c-classroom-writing-analytics-platform.md) — open-source NLP feedback on persuasive and source-based essays
 
 **[Action-Oriented Feedback](../strategies/action-oriented-feedback.md)** — Comments phrased as a next action ("add a counterexample here") rather than a judgment ("weak argument"), making the revision path explicit.
@@ -329,6 +331,7 @@ Feedback is among the most powerful influences on learning, but its effects are 
 **[Draftback / Google Docs commenting](https://www.google.com/docs/about)** — Inline, asynchronous teacher comments on drafts before final submission, preserving the revision cycle.
 - [Provide timely automated feedback through an AI chatbot during EFL writing practice](../strategies/ai-chatbot-feedback-writing-courses.md)
 - [Pair form-focused instruction with prompts that push learners to self-repair rather than recasts](../strategies/pair-ffi-with-prompts-not-recasts.md)
+- [Position AWE as a formative assessment tool that facilitates evidence-based practices in writing instruction](../strategies/awe-as-formative-assessment-facilitating-ebps.md)
 
 ## Key Sources
 - Hattie, J., & Timperley, H. (2007). The power of feedback. *Review of Educational Research, 77*(1), 81–112. [doi:10.3102/003465430298487](https://doi.org/10.3102/003465430298487)

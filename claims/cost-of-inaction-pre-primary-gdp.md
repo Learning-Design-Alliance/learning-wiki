@@ -49,3 +49,4 @@ Simulation of present discounted value of forgone lifetime earnings (net of prog
 - [The report's loss estimates are conservative because they exclude health, psychological, family, community, and broader societal costs that cannot be monetized](arizona-loss-estimates-conservative-exclusions.md) — related
 - [Early childhood development risks and learning opportunities show graded disadvantage from upper-middle- to lower-middle- to low-income countries, and within countries by wealth and rural residence](early-childhood-inequality-income-gradient.md) — related
 - [Pre-primary programme attendance is associated with higher science test scores at age 15 (0.09 SD for at least 1 year; 0.20 SD for 2 or more years)](pisa-pre-primary-science-association.md)
+- [Country GDP strongly correlates with the number of ITS research papers a country produces (r=0.88, p<0.001)](gdp-correlates-its-publication-output.md) — related

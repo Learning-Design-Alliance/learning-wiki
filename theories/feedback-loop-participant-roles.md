@@ -16,7 +16,7 @@ sources:
 # Six participant roles in feedback loops: translators, facilitators, users, informants, advisors, designers
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 3 claims (3 for) · 3 studies (3 design), `q1` · 0 of 3 report an effect size · 3 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 4 studies (4 design), `q1` · 0 of 4 report an effect size · 4 claims rest on one study
 
 ## Description
 The report identifies recurring participant roles that contribute to knowledge transformation in feedback loops. Translators bridge understanding between communities; facilitators manage the loop through planning, organizing, and leading engagements; users actively engage with outputs; informants generate feedback without engaging the outputs; advisors share expertise without engaging outputs; and designers construct outputs from the transformed knowledge. An individual may play more than one role depending on the structure, and some participants, such as informants, may contribute without being part of the loop itself.
@@ -40,6 +40,7 @@ The report identifies recurring participant roles that contribute to knowledge t
 - [In the Learner Variability Navigator case, feedback loops across multiple partners generated an output of need that the authors say simple surveys may not have produced](../claims/lvn-generator-feedback-loop-case.md) [+W]
 - [In the Maker Learning @ Home cohort, feedback loops with cohort members redefined the initiative's outputs and goals](../claims/maker-cohort-amplifier-case.md) [+W]
 - [Some initiatives fit no single generalized structure: the OER for Racial Justice project required a novel generator-plus-catalyzer combination](../claims/oer-racial-justice-novel-structure.md) [+W]
+- [Across TARDIS's three project stages, practitioners' roles progressed from willing informants to advisors and co-designers, and ultimately to independent lead-practitioners](../claims/tardis-practitioner-role-progression.md) [+W]
 
 ## Related Theories
 

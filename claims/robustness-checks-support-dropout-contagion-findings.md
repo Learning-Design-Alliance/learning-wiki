@@ -69,3 +69,4 @@ Alternative confounder-handling specifications — risk-index items entered sepa
 - [The association between network dropout and adolescents' own dropout does not significantly differ by gender or by regular versus special education sector](no-moderation-gender-special-education-dropout-contagion.md) — related
 - [Risk of dropout is especially high when an adolescent's network includes more than one type of same-age intimate who recently dropped out](multiple-dropout-intimates-cumulative-risk.md) — related
 - [Only recent (within the past year) occurrences of dropout in an adolescent's network are associated with the adolescent's own dropout; older occurrences are not](dropout-contagion-limited-to-past-year.md) — related
+- [Stabilized IPTW achieved covariate balance on all variables, outperforming unstabilized IPTW, and was used for effect estimation](siptw-superior-balance-for-time-varying-treatment.md) — related

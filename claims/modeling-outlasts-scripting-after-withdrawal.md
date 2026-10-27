@@ -56,3 +56,4 @@ The editorial describes the Rummel, Spada and Hauser experiment with dyads of a 
 - [Teacher-guided classroom discussion before reflection prompts yields higher learning gains than all other support conditions, especially on application-level items](classroom-discussion-before-prompts-higher-concept-map-learning-gains.md) — related
 - [FRAC and combined intervention advantages transferred to a new writing task and were retained after AI support was withdrawn](frac-transfer-retention-after-ai-removal.md) — related
 - [Alternating observation and performance in dyads yielded better transfer than individual practice or a control condition in a video-game task](dyad-observation-performance-alternation-transfer.md) — related
+- [A five-step structured video-based reflection cycle led teachers to produce substantially more new and more specific solutions than a vicarious-reflection control condition](ceble-structured-reflection-more-specific-solutions.md) — related

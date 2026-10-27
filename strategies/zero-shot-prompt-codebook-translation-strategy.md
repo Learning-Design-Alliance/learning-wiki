@@ -49,6 +49,7 @@ The article describes a pipeline in which human codebook rubrics are converted i
 - [Reserve LLM grading for short, well-structured tasks with explicit rubrics or exemplar answers, newer models, and stable API pipelines](reserve-llm-grading-for-structured-rubric-tasks.md)
 - [Provide LLM graders with the full human rubric, accepted solutions, and common-mistake penalties in the prompt (rubric-enhanced prompting)](rubric-enhanced-llm-grading-prompt.md)
 - [Select the variant-generation prompting protocol by deployment threat profile: zero-shot or structured CoT for construct fidelity, few-shot or dimension-preserving generation for surface separation](threat-profile-keyed-generation-protocol.md)
+- [Apply effective zero-shot prompting practices — CoT, label definitions, survey-question context, function calling, and persona — when using LLMs for survey analysis](zero-shot-llm-prompting-practices-for-survey-analysis.md)
 
 ## Examples
 -

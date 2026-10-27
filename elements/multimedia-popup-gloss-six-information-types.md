@@ -49,6 +49,7 @@ The study's gloss is a pop-up window that appears when a reader clicks an underl
 ## Examples
 
 - [Guidelines for designing and deploying multimedia glosses in reading texts](../strategies/multimedia-gloss-design-guidelines.md)
+- [Annotate only words that the knowledge graph can explain, to avoid overwhelming readers with redundant glosses](../strategies/smart-annotation-only-explainable-words.md)
 
 ## Key Sources
 - Samah Zakareya Ahmad. (2019). Multimedia Glosses for Enhancing EFL Students' Vocabulary Acquisition and Retention. English Language Teaching, 12(12). https://doi.org/10.5539/elt.v12n12p46

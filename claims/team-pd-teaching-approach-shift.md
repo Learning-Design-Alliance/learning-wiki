@@ -71,3 +71,4 @@ Quantitative survey study (N = 33) of an 8–12-week online training with a team
 - [Team-based professional development can help higher education teachers learn to reflect critically on their teaching, but true reflection is often not achieved](team-pd-critical-reflection.md) — related
 - [Teachers in online team-based training reported significantly greater confidence in their technological pedagogical content knowledge after training](team-pd-tpck-confidence-gain.md) — related
 - [Teachers oriented towards students and changing students' conceptions are associated with students reporting deeper approaches to learning](teacher-orientation-deep-approaches.md) — related
+- [Short-duration TPACK-based professional development improved teachers' ML knowledge and interest (ML4STEM)](ml4stem-teacher-pd-initial-evidence.md) — related

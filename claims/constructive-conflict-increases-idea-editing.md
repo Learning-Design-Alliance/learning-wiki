@@ -57,3 +57,4 @@ Sub-analysis of edit types in the same experiment: revisions were significantly 
 - [Stepwise constructive-conflict guidance reduced new idea generation, while the antagonistic agent played a more balanced role](stepwise-conflict-guidance-reduces-idea-addition.md) — related
 - [Novice designers deleted ideas only when confronted with stakeholder friction; unsupported self-reflection produced no deletions](idea-deletion-requires-stakeholder-friction.md) — related
 - [Perturbation type determines the interaction types needed: conflicting evidence elicits argumentation](conflicting-evidence-increases-argumentation.md) — related
+- [A five-step structured video-based reflection cycle led teachers to produce substantially more new and more specific solutions than a vicarious-reflection control condition](ceble-structured-reflection-more-specific-solutions.md) — related
