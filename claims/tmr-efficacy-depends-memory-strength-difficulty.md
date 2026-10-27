@@ -32,7 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q3`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` No significant pre-to-post changes or group effects were found in the L1 (easy) condition, suggesting targeted stimulation offers limited advantage for already-consolidated items. [→ Shin 2025](#shin-2025)
@@ -72,3 +72,5 @@ Spearman rank correlations between prospective subjective difficulty ratings and
 - [The TMR-SD effect did not differ for objects with low versus high pre-nap spatial error, ruling out memory strength as the explanation](tmr-sd-effect-independent-of-prenap-accuracy.md) — reports the opposite
 - [In the personalized TMR group, memory improvement for challenging items correlates positively with SW-spindle coupling (r = 0.70), but no such correlation appears in the All condition or other groups](sw-spindle-coupling-correlates-l3-gains.md) — related
 - [Personalized TMR improves error correction (higher incorrect-to-correct transitions) and reduces persistence of incorrect responses, mainly for challenging items](personalized-tmr-error-correction-transitions.md) — a narrower finding that bears on this claim
+- [Lower pre-sleep performance predicts larger TMR memory benefit in night 3](negative-presleep-performance-tmr-benefit-correlation.md) — a narrower finding that bears on this claim
+- [Hippocampal sharp-wave ripples during SWS and waking support memory consolidation and spatial task performance](swr-replay-supports-consolidation-and-spatial-memory.md) — related

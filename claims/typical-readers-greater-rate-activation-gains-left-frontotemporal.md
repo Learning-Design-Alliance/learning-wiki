@@ -48,3 +48,4 @@ Whole-brain parametric modulation analysis (cluster-level FDR corrected, p<.01) 
 - [Typical readers respond faster than dyslexic readers overall, and responses slow as presentation rates increase, without a group-by-rate interaction for reaction time](reaction-time-group-and-rate-effects-no-interaction.md) — related
 - [Individuals with dyslexia show impairments in audiovisual integration beyond phoneme-grapheme mapping](dyslexia-audiovisual-integration-impairments.md) — related
 - [Individuals with schizophrenia show reduced behavioral benefit from combined audiovisual cues and altered multisensory temporal processing](schizophrenia-reduced-audiovisual-benefit-temporal-acuity.md) — related
+- [Dyslexic readers show an altered early pattern of brain response to reading tasks, possibly followed by delayed specialization in later years](dyslexia-altered-functional-pattern-early-delayed-later.md) — related

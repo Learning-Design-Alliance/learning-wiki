@@ -13,7 +13,7 @@ generated:
 # Oral Language
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 110 claims (63 show a difference, 24 mixed, 23 no difference) · 79 studies (29 associational, 16 causal, 16 review, 15 quant-synthesis, 2 theoretical, 1 design), `q1`–`q3` · 27 of 79 report an effect size · 107 claims rest on one study
+> **Evidence** · 115 claims (65 show a difference, 27 mixed, 23 no difference) · 81 studies (30 associational, 17 review, 16 causal, 15 quant-synthesis, 2 theoretical, 1 design), `q1`–`q3` · 27 of 81 report an effect size · 112 claims rest on one study
 
 ## Description
 Oral language covers the spoken side of language: understanding what is said, using vocabulary and grammar to express ideas, and organising sentences into a coherent account or story. The Learner Variability Navigator includes two factors here: narrative skills, the ability to tell and understand stories, and the broader language skills that support early mathematics as well as reading. Narrative skill is often assessed by asking a child to tell a story from a wordless picture book or sequencing cards and scoring its overall structure and its sentence-level detail; early literacy batteries assess related skills such as vocabulary and phonological awareness.
@@ -147,6 +147,11 @@ It matters most in preschool and the early grades. Telling stories helps childre
 - [Struggling ELs scored lower than non-ELs in reading comprehension and linguistic comprehension but outperformed non-ELs in word reading](../claims/group-mean-differences-els-word-reading-advantage.md) [~M] — learners who differ on it differ in outcomes
 - [Vocabulary's relation to reading comprehension is completely mediated by listening comprehension and word reading for ELs, but exerts a direct effect for non-ELs](../claims/vocabulary-mediation-differs-els-non-els.md) [~M] — learners who differ on it differ in outcomes
 - [RMT use improves listening comprehension of oral directions in noise for inattentive children with listening difficulties](../claims/rmt-improves-listening-comprehension-inattentive-children.md) [+M] — instruction changes it
+- [Girls showed higher oral narrative connectedness than boys, with a different pattern of association with reading performance.](../claims/sex-difference-narrative-connectedness.md) [~W] — learners who differ on it differ in outcomes
+- [Many but not all poor readers have comorbid impairments in spoken language, attention, anxiety, and self-concept](../claims/poor-readers-comorbid-cognitive-emotional-problems.md) [~M] — learners who differ on it differ in outcomes
+- [Oral narrative connectedness in June positively correlates with phonological awareness, reading comprehension, and word accuracy measured in October.](../claims/june-connectedness-correlates-october-reading.md) [+M] — learners who differ on it differ in outcomes
+- [Oral narrative connectedness predicts reading performance 3–4 months in advance for phonological awareness, reading accuracy, and text comprehension, but not reading fluency.](../claims/connectedness-predicts-reading-3-4-months-not-fluency.md) [~M] — learners who differ on it differ in outcomes
+- [School enrollment is associated with narrative connectedness development: the RE-decrease/LCC-LSC-increase dynamic was interrupted by mid-year vacations and resumed after return to school.](../claims/school-environment-effect-narrative-connectedness.md) [+M] — instruction changes it
 
 ## Measures
 - **Story Generation Tasks**: Macrostructure and microstructure of narrative elements can be assessed by having students tell a story using a wordless picture book or sequencing cards.

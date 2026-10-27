@@ -65,6 +65,7 @@ Reflection functions as self-regulated professional learning: teachers who monit
 - [Activities for Student Self-Reflection](activities_for_student_self-reflection.md) — the student-facing counterpart; pairing teacher and student reflection gives both sides of the instructional exchange
 - [New teachers should diagnose problem areas with reflection, mentoring, self-assessment, observation of experts, and video review](new-teacher-management-problem-identification-strategy.md)
 - [Review evidence of learning at three points: before, during, and after the lesson](three-evidence-review-points-strategy.md)
+- [Integrate planning, monitoring and reflecting strategies systematically into early-childhood lesson design](embed-planning-monitoring-reflecting-early-childhood-lessons.md)
 
 ## Related Elements
 - [Coaching](../elements/coaching.md) — instructional coaching externalizes and challenges reflection, guarding against biased self-assessment

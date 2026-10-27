@@ -71,3 +71,4 @@ Second regression model with L3 Global scores as dependent variable, additionall
 - [L1 and L3 proficiency are not significantly associated](l1-l3-proficiency-not-correlated.md) — a narrower finding that bears on this claim
 - [Structural equation modeling supports the LCH path structure over adding an L1–L3 path](sem-supports-lch-over-lcdh-path.md) — a narrower finding that bears on this claim
 - [Association of learning success with English does not differ by L3 typological distance](typological-distance-no-effect-l3-association.md) — related
+- [Late-learned L2 lexical representations are parasitic on L1: the later L2 is learned, the less well organized and more fragmented its representations](late-l2-parasitic-entrenched-representations.md) — related

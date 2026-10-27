@@ -27,3 +27,7 @@ Real-world math is the element in which mathematical reasoning is embedded in pr
 - [When a real-life quilt problem was turned into a contextualized mathematics task, its context dropped out during solving and both designers judged it too school-like](../claims/contextualized-real-life-task-reverted-to-pure-mathematics-and-felt-too-school.md) [-W]
 - [Among the five lessons rated highly for both mathematical sense-making and student questioning and reasoning, contextualized story problems featured prominently](../claims/contextualized-story-problems-sense-making.md) [+W]
 - [Contrary to the hidden-talents hypothesis, low-SES students scored 18% lower on mathematics items of real-world importance](../claims/real-world-math-items-lower-low-ses-scores.md) [~W]
+
+## Examples
+
+- [Leverage cognitive strengths of low-SES children via group work, real-world application, and oral/narrative learning and assessment](../strategies/leverage-hidden-talents-low-ses.md)

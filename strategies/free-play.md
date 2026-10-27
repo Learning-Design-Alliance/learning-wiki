@@ -86,6 +86,7 @@ Free play supports holistic development — physical, social, cognitive, and cre
 - [Learning Through Play](learning-through-play.md) — the broader family of play-based pedagogies
 - [Cooperative Learning](cooperative-learning.md) — structures the social interaction that free play develops informally
 - [Schedule time for intentional learning and recognize children's backgrounds and experiences in preschool classrooms](schedule-intentional-learning-time-preschool.md)
+- [Design guided play environments that balance child-initiated curiosity with social scaffolding](guided-play-balances-curiosity-and-scaffolding.md)
 
 ## Examples
 - **Anji Play (China)** — a published approach in which children engage in extended outdoor self-directed play with large, open materials (ladders, barrels, planks) while teachers observe and document; teachers later discuss play stories with children ([https://www.anjiplay.com](https://www.anjiplay.com))

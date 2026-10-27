@@ -71,6 +71,7 @@ Dashboards are only as effective as the self-regulatory behavior they trigger; d
 - [Embed factor-aware guidance directly within analytics tools at the point of interpretation](embed-factor-aware-guidance-in-analytics-tools.md)
 - [Design teacher-facing analytics that support interpretation of student persistence within classroom contexts](teacher-facing-analytics-persistence-interpretation.md)
 - [Teacher supports for self-regulated GenAI feedback engagement](teacher-supports-self-regulated-genai-feedback.md)
+- [Translate coupling indices into intuitive dashboards for teachers' reflective evaluation](coupling-dashboard-reflective-evaluation-strategy.md)
 
 ## Examples
 - **[Open University, UK — "Student Progress Dashboard"](https://www.open.ac.uk)** — self-referenced progress indicators shown to distance learners; evaluated studies found effects depended on students' prior attainment.

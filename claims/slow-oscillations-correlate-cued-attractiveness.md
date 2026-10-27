@@ -71,3 +71,4 @@ Secondary control analysis ruled out N1 sleep differences between groups as a co
 - [Sleep cueing with name+positive trait pairs improves explicit attitudes: likeability, social willingness, and trust choices favor the cued person](sleep-cueing-improves-explicit-attitudes-trust.md) — related
 - [Sleep cueing with name+positive trait pairs improves implicit attitudes (IAT D-scores) toward the cued person](sleep-cueing-improves-implicit-attitudes-iat.md) — related
 - [Acoustic name+positive trait pair cueing during slow-wave sleep increases the perceived attractiveness of the cued person's mental facial representation](sleep-cueing-improves-mental-facial-representation-attractiveness.md) — related
+- [Cortical delta oscillations during slow-wave sleep support declarative memory consolidation](delta-sws-declarative-consolidation.md) — related

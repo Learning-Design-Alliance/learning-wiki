@@ -88,3 +88,4 @@ Post-test enjoyment ratings (two smiley-scale questions averaged) analyzed in a 
 - [Adaptive versus non-adaptive ITS condition showed no significant differences in mental effort, subjective difficulty, or enjoyment](adaptive-its-no-difference-cognitive-load-enjoyment.md) — related
 - [In a pre-registered RCT, neither the forward nor bidirectional number board game (nor the alphabet control) produced a statistically significant condition effect on numerical or letter-sound outcomes in four- to five-year-olds](number-board-game-no-condition-effect-young-children.md) — related
 - [Children preferred playing a number game over a letter game at pre-test, and this preference did not vary by condition](number-game-preference-no-condition-difference.md) — related
+- [Enjoyment of the instructional type did not differ between the movement and seated video groups, with both groups reporting high enjoyment](movement-videos-enjoyment-null-group-difference.md) — related

@@ -87,3 +87,4 @@ The report presents the Center on the Developing Child at Harvard University's i
 - [Coaching helped students manage daily stress and enhanced their sense of well-being and self-control](coaching-enhanced-well-being-stress-management.md) — related
 - [Strong relationships and supportive conditions can offset the effects of trauma on learning and behavior](relationships-offset-trauma-effects.md) — related
 - [Stress-adapted children possess hidden talents that educators can take advantage of](hidden-talents-stress-adapted-children.md) — reports the opposite
+- [The school environment can serve as a source of chronic stress: bullying at school is linked to higher hair cortisol and poorer executive function](school-environment-chronic-stress-hair-cortisol.md) — a narrower finding that bears on this claim

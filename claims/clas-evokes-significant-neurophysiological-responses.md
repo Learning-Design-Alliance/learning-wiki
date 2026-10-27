@@ -50,3 +50,4 @@ In a randomized between-subjects nap study with 102 healthy young adults, stimul
 - [Immediate spindle stimulation truncates the stimulated spindle, while delayed stimulation enhances spindle activity without interruption.](spindle-stimulation-timing-truncates-or-enhances-spindles.md) — related
 - [Slow oscillation and spindle stimulation did not differentially affect motor sequence learning improvement compared to control conditions.](no-condition-effect-procedural-memory-msl.md) — related
 - [Auditory cueing during NREM sleep elevates slow wave and spindle power relative to no stimulation, with effects concentrated in frontal and central regions](tmr-elevates-sw-spindle-power-nrem.md) — a narrower finding that bears on this claim
+- [Cortical delta oscillations during slow-wave sleep support declarative memory consolidation](delta-sws-declarative-consolidation.md) — related

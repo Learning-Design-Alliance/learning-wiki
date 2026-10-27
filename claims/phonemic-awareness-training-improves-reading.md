@@ -133,3 +133,4 @@ This National Reading Panel meta-analysis pooled 52 peer-reviewed studies (96 tr
 - [Working memory, orthographic, phonological, and morphological training each show significant medium effects on Chinese children's literacy](medium-effects-wm-ortho-phono-morph-training.md) — related
 - [Learners shift from letter-by-letter reading to word and phrase units and gain keyboard familiarity, and the shift to larger units is temporarily accompanied by more errors](strategy-shift-letters-to-phrases-errors.md) — related
 - [Phonological decoding is at the core of learning to read words in alphabetic languages, and children do not learn to read words by contextual guessing](phonological-decoding-core-of-reading.md) — related
+- [In a systematic review of RCTs, only phonics training — a proximal intervention — produced a statistically reliable effect in poor readers](phonics-only-reliable-rct-effect-poor-readers.md) — related

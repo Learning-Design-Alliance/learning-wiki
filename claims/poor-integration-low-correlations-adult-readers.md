@@ -52,3 +52,4 @@ Pearson correlations were conducted within and across time points among the stud
 - [Real word decoding relates more strongly to adult reading comprehension (r = .52) than pseudoword decoding (r = .42), though not significantly](real-word-vs-pseudoword-decoding-adults.md) — related
 - [Expressive vocabulary adds small but significant variance to exception word reading, but not to general or nonword reading, in adult struggling readers](expressive-vocabulary-exception-word-reading-adults.md) — related
 - [Expressive vocabulary uniquely explains variance in reading comprehension of adult struggling readers](expressive-vocabulary-predicts-adult-reading-comprehension.md) — related
+- [Poor readers are highly heterogeneous and do not all display the same type of reading impairment](poor-readers-heterogeneous-reading-behaviours.md) — related

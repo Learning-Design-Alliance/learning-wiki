@@ -138,3 +138,4 @@ Reviews roughly twenty years of research (since the mid-1980s) on refutation tex
 - [Naive science ideas are extremely persistent and probably never disappear even after extensive training such as a Ph.D. in physics, so conceptual change as replacement may never truly be achieved](naive-ideas-persist-phd-conceptual-change-replacement-questioned.md) — related
 - [Alternative conceptions persist alongside scientific conceptions and resist change even after instruction](alternative-conceptions-persist-coexist.md) — related
 - [Reading standard, positive, or negative refutation texts yields significantly higher open-ended explanation scores than reading non-refutation texts in adults](refutation-texts-explanation-knowledge-revision-adults.md) — a narrower finding that bears on this claim
+- [The greater the reorganization of prior knowledge required, the harder new information is to acquire](reorganization-depth-difficulty-conceptual-change.md) — related

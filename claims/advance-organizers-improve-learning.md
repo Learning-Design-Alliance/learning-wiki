@@ -161,3 +161,4 @@ Open questions: most of the evidence base predates modern multimedia learning re
 - [Aptitude-by-treatment interactions for instructional structure show mixed support: crossovers in some studies, nulls in others](ati-structure-ability-interactions-mixed.md) — related
 - [Prior-knowledge activation instructions before study had little effect on retention in Experiment 2](prior-knowledge-activation-little-effect-on-retention.md) — related
 - [Hierarchical top-down schema-based instruction improved transfer performance compared with single-level and control instruction](hierarchical-schema-instruction-transfer.md) — related
+- [Available prior knowledge affects learning only when it is activated before the task](activation-required-prior-knowledge-effects.md) — related

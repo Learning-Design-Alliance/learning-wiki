@@ -50,3 +50,4 @@ Experiment 3 regression analyses of post-rest gain on task accuracy: cued-recall
 - [An intervening declarative cued-recall task placed late in finger-tapping training does not reduce the post-rest performance gain (Experiment 1)](late-declarative-task-no-impairment-experiment-1.md) — related
 - [Trial-level reactive inhibition (progressively larger sequence RTs within trials) emerges during training and dissipates across rest breaks in the FTT](trial-level-reactive-inhibition-finger-tapping.md) — related
 - [Neither consolidation-disruption nor breakdown-of-inhibition hypotheses are supported for the finger-tapping task; only tenuous support exists for the resource hypothesis](hypothesis-adjudication-consolidation-inhibition-rejected.md) — a broader claim this one bears on
+- [Reactive inhibition builds within trials during motor sequence practice, appearing as slower responses later in each trial](reactive-inhibition-builds-within-motor-trials.md) — related

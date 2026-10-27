@@ -46,6 +46,7 @@ Based on survey and interview findings, the authors recommend moving AI support 
 
 - [Adopt a systems approach to AI integration rather than spotlights or gaps](systems-approach-to-ai-integration.md)
 - [Explore hybrid assessment models combining AI conversational agent-based and face-to-face formats, with long-term study of effects on performance and well-being](hybrid-ai-and-face-to-face-assessment-models.md)
+- [Sustain educational interventions throughout development and evaluate long-term rather than short-term efficacy](sustained-interventions-throughout-development.md)
 
 ## Examples
 -

@@ -77,3 +77,4 @@ Univariate latent growth model for interest in the same three-wave sample showed
 - [Changes in mathematics self-concept and interest are independent of prior achievement and do not predict later achievement](motivation-changes-independent-of-achievement.md) — related
 - [Both sense of belonging and intentions to persist decline over the first academic year](belonging-and-persistence-intentions-decline-first-year.md) — related
 - [Variance in ASC change is statistically significant at individual, clique, and classroom levels, with a slight average decline in ASC across the school year](asc-change-variance-all-three-levels.md) — related
+- [Academic self-concept levels are relatively high and stable from fourth to sixth grade of elementary school](asc-stable-fourth-to-sixth-grade.md) — related

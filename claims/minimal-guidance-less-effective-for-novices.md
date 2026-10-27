@@ -324,3 +324,5 @@ This claim does not imply that pure discovery is useless or that direct telling 
 - [Scaffolding effectiveness depends on knowledge base: high-guidance scaffolding suits less advanced learners, high-self-regulation scaffolding suits advanced learners](scaffolding-guidance-self-regulation-moderated-by-knowledge-base.md) — a narrower finding that bears on this claim
 - [Adults can promote young children's STEM skill learning during guided play but may need support to incorporate STEM talk and reduce directive management](adults-need-support-stem-talk-guided-play.md) — related
 - [The thesis reports, citing Klahr and Nigam (2004), that discovered and explicitly taught science knowledge did not differ in quality](klahr-nigam-discovery-knowledge-quality-no-difference-cited.md) — reports the opposite
+- [Children choose exploratory approaches when less is known and social learning when reasonable solutions are at hand](children-select-exploratory-or-social-mode-by-knowledge-state.md) — related
+- [Environments with limited ready-made information spur children's exploration](limited-ready-information-spurs-exploration.md) — reports the opposite

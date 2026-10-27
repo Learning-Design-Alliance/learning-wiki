@@ -72,3 +72,5 @@ Dosage analysis within the same two RCTs comparing students who completed both p
 - [Women assigned to the chatbot in Microeconomics earned final grades seven points higher than control women, with no treatment effects for men](chatbot-gender-heterogeneity-microeconomics-women.md) — related
 - [Chatbot outreach showed suggestive effects on assignment completion in Microeconomics but no effects on assignments in Government](chatbot-assignment-completion-course-specific.md) — related
 - [The instructor's own final exam showed the same direction of advantage on the intact randomized sample, with no difference on the pre-treatment midterm](instructor-final-confirms-tutor-advantage-direction.md) — related
+- [Exam Playbook benefits relate to dosage and to earlier use before exams](exam-playbook-dosage-timing-benefits.md) — related
+- [Self-administered Exam Playbook use predicts higher exam scores in real-world college classes (d = 0.18)](exam-playbook-use-exam-performance.md) — related

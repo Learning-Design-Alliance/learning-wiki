@@ -57,3 +57,4 @@ Bivariate correlations in the descriptive analysis of the full sample showed gen
 - [Boys rate their mathematics ability under challenge significantly higher than girls at every level of observed mathematics ability, including the highest (p < 0.001)](boys-higher-math-ability-beliefs-under-challenge-same-observed-ability.md) — related
 - [Exploratory analyses found videos more beneficial for retention among boys than girls and among fifth graders more than sixth graders](modality-gender-grade-interactions.md) — related
 - [Gender affects levels of self-concept and mathematics achievement but not the pattern of causal predominance](gender-levels-not-causal-pattern.md) — related
+- [Boys report moderately higher academic self-concept than girls in fourth and fifth grades, but not in sixth grade](boys-higher-asc-grades-4-5-not-6.md) — related

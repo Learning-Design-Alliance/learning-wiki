@@ -66,3 +66,4 @@ Review of the follow-up GWAS: in a combined analysis of discovery and replicatio
 ## Related Claims
 - [Polygenic risk scores for educational attainment and cognitive performance show the most consistent associations with language traits, and these associations are stronger for English than Chinese literacy phenotypes](prs-ea-cp-stronger-english-than-chinese.md) — related
 - [Educational attainment polygenic scores are positively associated with childhood visual acuity, while myopia polygenic scores show a negative association](ea-pgs-positive-childhood-visual-acuity.md) — related
+- [Genome-wide association studies and polygenic scores link genetic variants to individual differences in educational attainment, with small per-SNP but increasing aggregate effects](gwas-polygenic-scores-educational-attainment.md) — related

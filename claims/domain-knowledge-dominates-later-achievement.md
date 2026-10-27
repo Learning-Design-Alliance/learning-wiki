@@ -92,3 +92,4 @@ SEM models including academic precursors (Figures 3 and 4) showed spelling and m
 - [Across the full sample, individual differences in response-time reductions were best explained by a model combining relational thinking, relational integration, and visual search changes, with relational thinking the strongest single predictor](relational-thinking-predicts-rt-reduction.md) — related
 - [GPAΔ at age 7 correlates negatively with subsequent achievement slopes, with students regressing on average 38.4% toward genomically predicted levels by age 16](gpad-regression-toward-genomic-prediction-one-third.md) — related
 - [Working memory predicts GPA in the initial model but not the final full-sample model](working-memory-gpa-mixed-older-learners.md) — related
+- [Prior domain knowledge predicts learning outcomes but not, on average, learning gains](prior-knowledge-predicts-outcomes-not-gains.md) — related

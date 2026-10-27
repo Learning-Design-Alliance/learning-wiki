@@ -13,7 +13,7 @@ generated:
 # Practice Testing
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 77 claims (35 for, 38 mixed, 4 against) · 50 studies (29 causal, 8 review, 6 quant-synthesis, 3 associational, 2 qualitative, 2 theoretical), `q1`–`q4` · 20 of 50 report an effect size · 73 claims rest on one study
+> **Evidence** · 79 claims (37 for, 38 mixed, 4 against) · 51 studies (30 causal, 8 review, 6 quant-synthesis, 3 associational, 2 qualitative, 2 theoretical), `q1`–`q4` · 20 of 51 report an effect size · 75 claims rest on one study
 
 ## Description
 Practice testing (retrieval practice) asks learners to recall or apply information from memory — via low- or no-stakes quizzes, flashcards, free recall, or problem-solving — before or instead of restudying. The act of successful retrieval itself strengthens memory and reveals gaps, making testing a learning event rather than merely an assessment event.
@@ -128,6 +128,8 @@ Retrieval practice produces substantially larger and more durable learning gains
 - [A behavioral comparison sample confirms a typical testing effect (repeated testing with feedback vs repeated study) one week after intervention](../claims/testing-effect-confirmed-one-week-behavioral-sample.md) [+W]
 - [Feedback played little, if any, role in brain-activity modulation after the first successful retrieval](../claims/feedback-little-role-after-first-successful-retrieval.md) [~W]
 - [Theoretical mechanisms of the testing effect — semantic elaboration via spreading activation and effortful retrieval within an inverse-U difficulty relationship — may be compromised in learners with dyslexia, whose optimal difficulty levels appear to differ from typical learners](../claims/dyslexia-testing-effect-mechanisms-compromised.md) [~W]
+- [In single item learning, interim testing of studied lists roughly doubles recall of new items compared with distractor or restudy control groups](../claims/forward-testing-single-items-doubled-recall.md) [+W]
+- [In paired-associate learning, interim testing about doubles recall of new face-name and foreign-translation pairs relative to a distractor control](../claims/forward-testing-paired-associates.md) [+W]
 
 ## The evidence by question
 - *Does retrieving material (quizzes, practice tests, recall) improve later retention more than restudying it?* [Retrieval practice improves long-term retention](../claims/retrieval-practice-improves-retention.md) [+S]

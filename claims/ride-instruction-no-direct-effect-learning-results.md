@@ -51,3 +51,4 @@ One-way ANOVA on SWLE (experimental M = 27.59, SD = 10.28; control M = 29.33, SD
 - [Support conditions did not differ from control in learning scores within the environment](no-condition-differences-learning-scores-swlep.md) — related
 - [RIDE instruction leads to more frequent use of the communicative activities associated with the Deciding together and Encouraging rules](ride-instruction-increases-deciding-together-encouraging-activities.md) — related
 - [Instruction combining communication rules (RIDE) and a hypothesis tool (CHT) increases team regulation in computer-supported collaborative inquiry, and team regulation relates to learning outcomes only in that combined condition](ride-cht-instruction-increases-team-regulation-cscl.md) — related
+- [Environments with limited ready-made information spur children's exploration](limited-ready-information-spurs-exploration.md) — related

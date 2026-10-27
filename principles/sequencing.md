@@ -48,7 +48,7 @@ sources:
 # Sequencing
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 45 claims (23 for, 21 mixed, 1 against) · 40 studies (14 causal, 10 theoretical, 9 review, 2 quant-synthesis, 2 associational, 2 design, 1 qualitative), `q1`–`q4` · 4 of 40 report an effect size · 41 claims rest on one study
+> **Evidence** · 46 claims (23 for, 22 mixed, 1 against) · 41 studies (15 causal, 10 theoretical, 9 review, 2 quant-synthesis, 2 associational, 2 design, 1 qualitative), `q1`–`q4` · 4 of 41 report an effect size · 42 claims rest on one study
 
 ## Conditional relationship
 
@@ -196,6 +196,7 @@ Performance during practice, unaided performance at the end of the unit, delayed
 - [The authors' data supports that Calculus 1 need not be a prerequisite for lower-level CS courses](../claims/calculus1-need-not-prerequisite-lower-level-cs.md) [~W]
 - [Arithmetic work in the Bruckner free-order experiment was distinctly inferior to that of children with the same amount of schooling](../claims/bruckner-arithmetic-inferior.md) [+W]
 - [Sequences beginning with visual prompts produce higher full-response rates across subsequent time steps, while sequences beginning with physical prompts end at the lowest rates.](../claims/visual-prompts-sustained-response-physical-prompts-decline.md) [+W]
+- [Task-order carryover effects on accuracy and strategy were small, fleeting, and did not replicate across experiments](../claims/order-effects-small-and-nonreplicating.md) [~W]
 
 ## Related Principles
 - [Holistic Learning](holistic-learning.md)

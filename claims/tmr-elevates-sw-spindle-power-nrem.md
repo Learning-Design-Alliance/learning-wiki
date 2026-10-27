@@ -68,3 +68,5 @@ Spindle power comparisons: the personalized TMR group exceeded CNT in both the A
 - [Personalized TMR improves recall accuracy for the most challenging (L3) word pairs, outperforming both uniform TMR and no-stimulation control in the post-sleep session](personalized-tmr-l3-accuracy-improvement.md) — related
 - [Multivariate classification of SW power, spindle power, and SW-spindle coupling distinguishes the personalized TMR, TMR, and control groups above chance, peaking around 3 s after cue onset](svm-classification-personalized-tmr-signatures.md) — related
 - [Closed-loop auditory stimulation of slow oscillations and spindles evokes significant neurophysiological responses compared to sham in healthy young adults.](clas-evokes-significant-neurophysiological-responses.md) — a broader claim this one bears on
+- [Cortical delta oscillations during slow-wave sleep support declarative memory consolidation](delta-sws-declarative-consolidation.md) — related
+- [Hippocampal sharp-wave ripples during SWS and waking support memory consolidation and spatial task performance](swr-replay-supports-consolidation-and-spatial-memory.md) — related

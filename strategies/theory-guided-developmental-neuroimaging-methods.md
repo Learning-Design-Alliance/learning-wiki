@@ -44,7 +44,8 @@ The article proposes that developmental cognitive neuroscience will grow by usin
 - [Hidden semi-Markov model analysis of mathematical problem-solving yields brain-processing stages matching rationally expected problem-solving steps](../claims/hidden-semi-markov-stages-confirm-problem-solving-steps.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Design recommendations for longitudinal neuroimaging studies of reading development and dyslexia](longitudinal-neuroimaging-dyslexia-design-recommendations.md)
 
 ## Examples
 -

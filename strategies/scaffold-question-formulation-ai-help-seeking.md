@@ -45,6 +45,7 @@ Based on observed differences in inquiry behavior, the article recommends that "
 - [Embed the KWL strategy across inquiry phases to guide question generation and question-quality monitoring](kwl-integrated-inquiry-question-generation.md)
 - [Provide explicit prompting instruction and expert scaffolding before or during novice LLM activities](explicit-prompting-instruction-before-llm-tasks.md)
 - [Support children's ecological active learning through explanation prompts, active control, and environment design rather than explicit strategy training](support-ecological-active-learning-strategies.md)
+- [Adaptive systems should deliver prior-knowledge-tailored discrepancy prompts and regular self-assessment calibration prompts](pk-tailored-discrepancy-prompts.md)
 
 ## Examples
 -

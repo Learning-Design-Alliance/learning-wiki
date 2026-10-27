@@ -30,7 +30,8 @@ MedEasy is a web-based multi-agent virtual standardized-patient platform develop
 - [Learners valued repeatable practice and recorded review in MedEasy while questioning missing actions and feedback criteria](../claims/learners-value-repeatable-practice-question-gaps.md) [+W]
 
 ## Related Products and Programmes
--
+
+- [Goal Net and Multi-Agent Development Environment (MADE)](goal-net-and-multi-agent-development-environment-made.md)
 
 ## Key Sources
 - Zhiqi Gao, Huarui Luo, Guo Zhu, Bingquan Zhang, Dongyijie Primo Pan, Yizhan Feng, Jiahuan Pei, Jie Li, Benyou Wang. (2026). MedEasy: Designing AI Standardized Patients for Clinical Consultation Training. arXiv. https://arxiv.org/abs/2606.17512

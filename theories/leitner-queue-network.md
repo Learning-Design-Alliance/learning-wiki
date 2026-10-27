@@ -51,7 +51,8 @@ The Leitner Queue Network is the article's stochastic model of a spaced repetiti
 - [Flashcards](../strategies/flashcards.md)
 
 ## Examples
--
+
+- [Apply stochastic optimization to divide and schedule community teaching assistants' work at scale](../strategies/stochastic-optimization-community-ta-work-allocation.md)
 
 ## Key Sources
 - Reddy, S., Labutov, I., Banerjee, S., & Joachims, T. (2016). Unbounded Human Learning: Optimal Scheduling for Spaced Repetition. KDD ’16, San Francisco, CA, USA. https://doi.org/10.1145/2939672.2939850

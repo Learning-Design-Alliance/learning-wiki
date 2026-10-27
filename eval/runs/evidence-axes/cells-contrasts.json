@@ -45510,5 +45510,361 @@
  "test-format\tenumerators read the prompts aloud\tstudents read the prompts themselves": {
   "label": "prompts read aloud vs prompts read silently",
   "treatment_is_a": true
+ },
+ "explicit-instruction\tanswers are given\tanswers are not given": {
+  "label": "answers given vs answers not given",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tdirect ASL instruction through STEM video lessons\tpre-test before the lessons": {
+  "label": "direct instruction/signed lessons vs pretest before lessons",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tlearning from others and direct instruction\texploratory and playful learning": {
+  "label": "direct instruction/social learning vs exploratory and playful learning",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tlearning from others and ready-made information\texploratory and playful learning": {
+  "label": "direct instruction/ready-made information vs exploratory and playful learning",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tpost-test after signed video lessons\tpre-test before signed video lessons": {
+  "label": "post-test after lessons vs pre-test before lessons",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tsigned STEM lessons\tpretest before lessons": {
+  "label": "direct instruction/signed lessons vs pretest before lessons",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tsocial learning or direct instruction\texploratory and playful learning": {
+  "label": "direct instruction/social learning vs exploratory and playful learning",
+  "treatment_is_a": true
+ },
+ "guided-discovery\texploratory and playful learning\tlearning from others or ready-made information": {
+  "label": "Exploratory discovery learning vs learning from others or ready-made information",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tguided play combining child-initiated curiosity and social scaffolding\tseparate individual- or social-learning approaches": {
+  "label": "Guided play vs separate individual- or social-learning approaches",
+  "treatment_is_a": true
+ },
+ "media-design\tconcept-motivated ASL lesson\tEnglish-motivated ASL lesson": {
+  "label": "concept-motivated vs English-motivated",
+  "treatment_is_a": true
+ },
+ "media-design\tconcept-motivated signing video\tEnglish-motivated signing video": {
+  "label": "concept-motivated vs English-motivated",
+  "treatment_is_a": true
+ },
+ "other\t1-1 tailored small-group instruction with teacher coaching\tcontrol group": {
+  "label": "tailored small-group instruction with teacher coaching vs control",
+  "treatment_is_a": true
+ },
+ "other\t1-1 with coaching\tcontrol group": {
+  "label": "one-to-one instruction with coaching vs control",
+  "treatment_is_a": true
+ },
+ "other\t1-group\tcontrol group": {
+  "label": "one-to-one instruction vs control",
+  "treatment_is_a": true
+ },
+ "other\t1-group tailored small-group instruction\tcontrol group": {
+  "label": "tailored small-group instruction vs control",
+  "treatment_is_a": true
+ },
+ "other\t1-group tailored small-group instruction with teacher coaching\tcontrol group": {
+  "label": "tailored small-group instruction with teacher coaching vs control",
+  "treatment_is_a": true
+ },
+ "other\t1-group with coaching\tcontrol group": {
+  "label": "small-group instruction with coaching vs control",
+  "treatment_is_a": true
+ },
+ "other\t10 Hz alpha-rate sensory stimulation\t5 Hz theta-rate sensory stimulation": {
+  "label": "10 Hz alpha-rate sensory stimulation vs 5 Hz theta-rate sensory stimulation",
+  "treatment_is_a": true
+ },
+ "other\t10 Hz alpha-rate tone-flash sensory stimulation\t5 Hz theta-rate tone-flash sensory stimulation": {
+  "label": "10 Hz alpha-rate tone-flash sensory stimulation vs 5 Hz theta-rate tone-flash sensory stimulation",
+  "treatment_is_a": true
+ },
+ "other\t10 Hz alpha-rate tone-flash sensory stimulation\tnull stimulation": {
+  "label": "10 Hz alpha-rate tone-flash sensory stimulation vs null stimulation",
+  "treatment_is_a": true
+ },
+ "other\t10 Hz alpha-rate tone-flash stimulation\t5 Hz theta-rate tone-flash stimulation": {
+  "label": "10 Hz alpha-rate tone-flash stimulation vs 5 Hz theta-rate tone-flash stimulation",
+  "treatment_is_a": true
+ },
+ "other\t10 Hz alpha-rate tone-flash stimulation\tnull stimulation": {
+  "label": "10 Hz alpha-rate tone-flash stimulation vs null stimulation",
+  "treatment_is_a": true
+ },
+ "other\t10 s breaks between trials\t30 s breaks between trials": {
+  "label": "longer vs shorter gaps",
+  "treatment_is_a": false
+ },
+ "other\t100% norm-consistent behavior\t75% norm-consistent behavior": {
+  "label": "more norm-consistent behavior vs less norm-consistent behavior",
+  "treatment_is_a": true
+ },
+ "other\t117 bpm music tapping\t150 bpm metronome tapping": {
+  "label": "music tapping vs metronome tapping",
+  "treatment_is_a": true
+ },
+ "other\t150 bpm metronome tapping\t50 bpm bimanual tapping": {
+  "label": "metronome tapping vs bimanual tapping",
+  "treatment_is_a": true
+ },
+ "other\t16th FISL session\t2nd FISL session": {
+  "label": "later vs earlier session",
+  "treatment_is_a": true
+ },
+ "other\t18 days of 15-min/day JW2016 brief mindfulness meditation\tcontrol group": {
+  "label": "brief mindfulness meditation vs control",
+  "treatment_is_a": true
+ },
+ "other\t18 days of 15-minute daily brief mindfulness meditation\tcontrol condition": {
+  "label": "brief mindfulness meditation vs control",
+  "treatment_is_a": true
+ },
+ "other\t18 days of 15-minute/day JW2016 brief mindfulness meditation\tcontrol group": {
+  "label": "brief mindfulness meditation vs control",
+  "treatment_is_a": true
+ },
+ "other\t18 days of JW2016 brief mindfulness meditation\tcontrol group": {
+  "label": "brief mindfulness meditation vs control",
+  "treatment_is_a": true
+ },
+ "other\t18 days of JW2016 brief mindfulness meditation, 15 min/day\tcontrol condition": {
+  "label": "brief mindfulness meditation vs control",
+  "treatment_is_a": true
+ },
+ "other\t18 days of JW2016 brief mindfulness meditation, 15 min/day\tcontrol group": {
+  "label": "brief mindfulness meditation vs control",
+  "treatment_is_a": true
+ },
+ "other\t18 days of brief mindfulness meditation\tcontrol condition": {
+  "label": "brief mindfulness meditation vs control",
+  "treatment_is_a": true
+ },
+ "other\t18 days of brief mindfulness meditation\tcontrol group": {
+  "label": "brief mindfulness meditation vs control",
+  "treatment_is_a": true
+ },
+ "other\t1920 Stanford-Binet examination\t1919 Stanford-Binet examination": {
+  "label": "newer Stanford-Binet examination vs older Stanford-Binet examination",
+  "treatment_is_a": true
+ },
+ "other\t1–5 point assignments for digit span\tBinet age-scale growth intervals": {
+  "label": "digit-span point assignments vs Binet age-scale growth intervals",
+  "treatment_is_a": true
+ },
+ "other\t2 or more years of pre-primary programme participation\tless than 1 year or no pre-primary programme participation": {
+  "label": "longer pre-primary participation vs shorter or no pre-primary participation",
+  "treatment_is_a": true
+ },
+ "other\t20 inversion problems\t20 two-term arithmetic problems": {
+  "label": "inversion problems vs two-term arithmetic problems",
+  "treatment_is_a": true
+ },
+ "other\t20 repeated benchmark runs\tsingle or fewer runs": {
+  "label": "repeated benchmark runs vs single or fewer runs",
+  "treatment_is_a": true
+ },
+ "other\t20 source chunks per section\t10 source chunks per section": {
+  "label": "more source chunks per section vs fewer source chunks per section",
+  "treatment_is_a": true
+ },
+ "practice-amount\t300 cumulative trials across three days\tearlier or single-day training": {
+  "label": "distributed vs massed practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\tday 2 training after day 1\tday 1 training": {
+  "label": "later training days vs earlier training days",
+  "treatment_is_a": true
+ },
+ "practice-amount\tday 3 training after day 2\tday 2 training": {
+  "label": "later training days vs earlier training days",
+  "treatment_is_a": true
+ },
+ "practice-amount\thigher Exam Playbook dosage\tlower Exam Playbook dosage": {
+  "label": "higher vs lower practice dosage",
+  "treatment_is_a": true
+ },
+ "practice-amount\tlater training days\tearlier training days": {
+  "label": "later training days vs earlier training days",
+  "treatment_is_a": true
+ },
+ "practice-amount\tlater training days across 300 cumulative trials\tearlier training days": {
+  "label": "later training days vs earlier training days",
+  "treatment_is_a": true
+ },
+ "practice-amount\tlonger spatial training\tshorter spatial training": {
+  "label": "longer vs shorter training exposure",
+  "treatment_is_a": true
+ },
+ "practice-amount\tlonger spatial-training exposure\tshorter spatial-training exposure": {
+  "label": "longer vs shorter training exposure",
+  "treatment_is_a": true
+ },
+ "practice-amount\tmore frequent home literacy practices\tless frequent home literacy practices": {
+  "label": "more frequent vs less frequent practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\tshorter spatial-training exposure\tlonger spatial-training exposure": {
+  "label": "longer vs shorter training exposure",
+  "treatment_is_a": false
+ },
+ "practice-amount\ttraining on day 2\ttraining on day 1": {
+  "label": "later training days vs earlier training days",
+  "treatment_is_a": true
+ },
+ "practice-amount\ttraining on day 3\ttraining on day 2": {
+  "label": "later training days vs earlier training days",
+  "treatment_is_a": true
+ },
+ "practice-amount\ttraining on days 2 and 3\ttraining on day 1": {
+  "label": "later training days vs earlier training days",
+  "treatment_is_a": true
+ },
+ "prompts\tadopted the Exam Playbook for the second exam after not using it for the first exam\tnever used the Exam Playbook": {
+  "label": "Exam Playbook use vs nonuse",
+  "treatment_is_a": true
+ },
+ "prompts\tadopted the Exam Playbook on the second exam\tnever used it": {
+  "label": "Exam Playbook use vs nonuse",
+  "treatment_is_a": true
+ },
+ "prompts\tadopted the Exam Playbook on the second exam\tnever used the Exam Playbook": {
+  "label": "Exam Playbook use vs nonuse",
+  "treatment_is_a": true
+ },
+ "prompts\tcontinued Exam Playbook use\tdropped Exam Playbook use": {
+  "label": "continued use vs dropped use",
+  "treatment_is_a": true
+ },
+ "prompts\tcontinued using the Exam Playbook for the second exam\tdropped the Exam Playbook after using it for the first exam": {
+  "label": "continued use vs dropped use",
+  "treatment_is_a": true
+ },
+ "prompts\tcontinued using the Exam Playbook on the second exam\tdropped the Exam Playbook after the first exam": {
+  "label": "continued use vs dropped use",
+  "treatment_is_a": true
+ },
+ "prompts\tplanning, monitoring, and reflecting strategies\tcoding learning without these strategies": {
+  "label": "planning, monitoring, and reflecting strategies vs no cognitive control strategies",
+  "treatment_is_a": true
+ },
+ "prompts\tplanning, monitoring, and reflecting strategies\tno cognitive control strategies": {
+  "label": "planning, monitoring, and reflecting strategies vs no cognitive control strategies",
+  "treatment_is_a": true
+ },
+ "prompts\tself-administered Exam Playbook\tnon-users": {
+  "label": "Exam Playbook use vs nonuse",
+  "treatment_is_a": true
+ },
+ "prompts\tself-administering the Exam Playbook\tnot using the Exam Playbook": {
+  "label": "Exam Playbook use vs nonuse",
+  "treatment_is_a": true
+ },
+ "prompts\tused and completed the Exam Playbook\tdid not use the Exam Playbook": {
+  "label": "Exam Playbook use vs nonuse",
+  "treatment_is_a": true
+ },
+ "prompts\tused the Exam Playbook at least once in the class\tdid not use the Exam Playbook at all": {
+  "label": "Exam Playbook use vs nonuse",
+  "treatment_is_a": true
+ },
+ "prompts\tused the Exam Playbook for a given exam\tdid not use the Exam Playbook for that exam": {
+  "label": "Exam Playbook use vs nonuse",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tinterim test after each list\tdistractor task after each list": {
+  "label": "interim testing vs distractor task",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tinterim testing\tinterim restudy": {
+  "label": "interim testing vs restudy",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tinterim testing of preceding lists\tno interim testing of preceding lists": {
+  "label": "interim testing vs no interim testing",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tinterim testing of prior word lists\tnot stated": {
+  "label": "interim testing vs no interim testing",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tinterim testing on face-name pairs before encoding face-profession pairs\trestudying face-name pairs before encoding face-profession pairs": {
+  "label": "interim testing vs restudy",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tinterim testing on face-name pairs separated from encoding face-profession pairs\trestudying face-name pairs": {
+  "label": "interim testing vs restudy",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tinterim testing on names\tinterim restudy": {
+  "label": "interim testing vs restudy",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tinterim tests after Block 1\tinterim distractor task after Block 1": {
+  "label": "interim testing vs distractor task",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tinterim tests after Block 1\tinterim restudy after Block 1": {
+  "label": "interim testing vs restudy",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tinterim tests after Lists 1–4\tdistractor task after Lists 1–4": {
+  "label": "interim testing vs distractor task",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tinterim tests after Lists 1–4\trestudy after Lists 1–4": {
+  "label": "interim testing vs restudy",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tinterim tests after each list\tdistractor task after earlier lists": {
+  "label": "interim testing vs distractor task",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tinterim tests after each video segment\tdistractor task after preceding segments": {
+  "label": "interim testing vs distractor task",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tinterim tests after each video segment\tdistractor task or restudy after preceding segments": {
+  "label": "interim testing vs distractor task or restudy",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tinterim tests after each video segment\trestudy after preceding segments": {
+  "label": "interim testing vs restudy",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tinterim tests on artist statements\trestudying artist statements": {
+  "label": "interim testing vs restudy",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tExam Playbook use offered course-credit incentive\tExam Playbook use offered without course-credit incentive": {
+  "label": "course-credit incentive vs no course-credit incentive",
+  "treatment_is_a": true
+ },
+ "spacing\t10 s breaks between trials\t30 s breaks between trials": {
+  "label": "longer vs shorter gaps",
+  "treatment_is_a": false
+ },
+ "spacing\t10 s on-task trials with 10 s breaks\t10 s on-task trials with 30 s breaks": {
+  "label": "longer vs shorter gaps",
+  "treatment_is_a": false
+ },
+ "spacing\t30 s on-task trials\t10 s on-task trials": {
+  "label": "longer vs shorter on-task durations",
+  "treatment_is_a": true
+ },
+ "spacing\tpost-rest trials after 300 s rest\tlast two training trials before rest": {
+  "label": "post-rest vs pre-rest trials",
+  "treatment_is_a": true
+ },
+ "spacing\ttraining intervals longer than 5 days\ttraining intervals of 5 days or less": {
+  "label": "longer vs shorter gaps",
+  "treatment_is_a": true
  }
 }

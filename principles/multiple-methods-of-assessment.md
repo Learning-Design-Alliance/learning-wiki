@@ -35,7 +35,7 @@ sources:
 # Multiple Methods of Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 44 claims (24 for, 18 mixed, 2 against) · 50 studies (12 causal, 10 review, 7 associational, 7 theoretical, 5 quant-synthesis, 5 qualitative, 4 design), `q1`–`q4` · 5 of 50 report an effect size · 38 claims rest on one study
+> **Evidence** · 45 claims (25 for, 18 mixed, 2 against) · 51 studies (12 causal, 10 review, 8 theoretical, 7 associational, 5 quant-synthesis, 5 qualitative, 4 design), `q1`–`q4` · 5 of 51 report an effect size · 39 claims rest on one study
 
 ## Conditional relationship
 
@@ -186,6 +186,7 @@ Agreement between methods, accuracy of a decision, later achievement and motivat
 - [Self-report empathy measures predominate and may inflate associations via common method bias and self-serving bias](../claims/empathy-self-report-method-bias.md) [+W]
 - [Monroe's silent reading test permits substantial chance success, inflating comprehension scores](../claims/monroe-test-chance-success-defect.md) [+W]
 - [Adding the verbal group test to Stanford MA raises the multiple correlation with achievement from 0.54 to 0.605](../claims/group-test-adds-to-stanford-ma-prediction.md) [~W]
+- [A single reading behaviour with a common proximal cause may have multiple different distal causes](../claims/multiple-distal-causes-one-reading-behaviour.md) [+W]
 
 ## Related Principles
 - [Formative Assessment](formative-assessment.md) — multiple methods improve formative interpretation when different evidence streams inform next steps.

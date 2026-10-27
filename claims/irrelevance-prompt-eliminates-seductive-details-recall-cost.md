@@ -72,3 +72,4 @@ Two-step mediation (prompt → perceived relevance → relative processing time 
 - [Adding seductive details to multimedia instruction significantly worsens recall of pertinent content compared with instruction without seductive details](seductive-details-worsen-recall-versus-control.md) — related
 - [Self-explanation promotes transfer of general patterns but can reduce recall of details and cause overgeneralization](self-explanation-improves-transfer-reduces-detail-recall.md) — related
 - [A medium degree of both focus support and reward is sufficient for good learning outcomes](fore-h2-medium-degree-sufficient.md) — related
+- [Activated prior knowledge must be relevant to the task; irrelevant knowledge can hamper learning](relevance-irrelevant-knowledge-hampers.md) — related

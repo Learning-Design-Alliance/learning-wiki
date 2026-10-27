@@ -49,3 +49,4 @@ Unmoderated ACE decomposition (Table 1) of Cito scores for 29,434 twin pairs, ru
 - [School quality is positively but weakly associated with Cito performance (b = 0.61, β = 0.06), much more weakly than parental SES (b = 2.89, β = 0.30)](school-quality-small-association-cito.md) — related
 - [School quality does not moderate genetic and shared-environmental influences on educational performance once moderation by school SES and parental SES is considered](school-quality-no-moderation-gene-env.md) — related
 - [Delaying definite tracking is associated with a larger genetic influence and a lower shared-environmental influence on secondary educational attainment among Dutch twins](delayed-tracking-larger-genetic-influence.md) — related
+- [Twin ratings show chaos in the home is partially genetically confounded with school achievement (22% genetic variance; 37% of association via shared genes)](chaos-home-genetic-confound-school-achievement.md) — related

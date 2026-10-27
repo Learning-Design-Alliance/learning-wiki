@@ -52,3 +52,4 @@ The abstract reports the study's between-group comparison of intelligence gains 
 - [Transfer from computer-based working-memory and reasoning training in children is narrow: gains stay within the trained domain](narrow-transfer-computerized-ef-training.md) — a broader claim this one bears on
 - [Task-switching training improves untrained switching and other executive functions in school-aged children, though transfer findings are heterogeneous](task-switching-training-transfer-ef.md) — related
 - [Isolated EF interventions show robust near-term EF gains but poor transfer, including to early mathematics](isolated-ef-interventions-poor-transfer.md) — related
+- [Not all spatial interventions are equivalent: concrete-material training yields larger math gains than computer-based training, and effects increase with age](spatial-training-moderators-concrete-materials-and-age.md) — related

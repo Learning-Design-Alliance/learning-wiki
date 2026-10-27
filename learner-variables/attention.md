@@ -13,7 +13,7 @@ generated:
 # Attention
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 129 claims (87 show a difference, 27 mixed, 15 no difference) · 100 studies (29 causal, 26 associational, 20 review, 12 quant-synthesis, 5 qualitative, 5 design, 3 theoretical), `q1`–`q4` · 20 of 100 report an effect size · 124 claims rest on one study
+> **Evidence** · 132 claims (90 show a difference, 27 mixed, 15 no difference) · 101 studies (30 causal, 26 associational, 20 review, 12 quant-synthesis, 5 qualitative, 5 design, 3 theoretical), `q1`–`q4` · 21 of 101 report an effect size · 127 claims rest on one study
 
 ## Description
 How long a learner can sustain focus, and how readily something else takes it. Distinct from [working memory](working-memory.md): attention governs what *reaches* the store, capacity governs what it holds. It converts into segment length, distractor design, and how much a page may hold in one uninterrupted run. The design lever is mostly subtractive — the strongest findings here are about what to remove [-M].
@@ -167,6 +167,9 @@ How long a learner can sustain focus, and how readily something else takes it. D
 - [The authors propose a new predictability principle: motion and unexpected visual or audio change help maintain viewer attention in instructional video](../claims/proposed-predictability-principle-motion-attention.md) [+W] — instruction changes it
 - [Exercise during class does not significantly affect depression, interest, sleep frequency, or mind-wandering](../claims/classroom-exercise-no-cognitive-engagement-effect.md) [-M] — instruction changes it
 - [Montessori-schooled students show higher temporal stability than traditionally schooled students in dorsal attention, ventral attention, somatomotor, frontoparietal, and cerebellar networks, but not in visual, limbic, or default mode networks](../claims/montessori-higher-stability-attention-motor-frontoparietal-networks.md) [~M] — instruction changes it
+- [Cognitive control strategies enhanced young children's coding skills, with attention during learning related to coding outcomes](../claims/cognitive-control-strategies-improve-coding-skills-attention-linked.md) [+M] — learners who differ on it differ in outcomes
+- [Cognitive control strategies helped young children maintain attention during real coding lessons](../claims/cognitive-control-strategies-maintain-young-children-attention-coding.md) [+M] — instruction changes it
+- [Strategy-group children maintained stable attention across lessons while control-group attention varied by lesson](../claims/stable-attention-across-lessons-strategy-group.md) [+M] — instruction changes it
 
 ## The evidence by question
 - *Does making material more interesting with details that do not carry the target cost learning?* [Interesting but irrelevant details can impair comprehension and transfer, with effects that vary with the material and the learner](../claims/seductive-details-effect.md) [+S]

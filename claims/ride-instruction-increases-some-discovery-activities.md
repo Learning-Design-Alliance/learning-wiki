@@ -51,3 +51,4 @@ Mann–Whitney U-tests on logged discovery activities of 17 experimental versus 
 - [RIDE instruction shows no direct effect on discovery learning results (SWLE or domain knowledge posttest)](ride-instruction-no-direct-effect-learning-results.md) — related
 - [RIDE communication instruction and RIDE plus CHT both increase team regulation relative to no support](support-increases-team-regulation.md) — related
 - [Instruction combining communication rules (RIDE) and a hypothesis tool (CHT) increases team regulation in computer-supported collaborative inquiry, and team regulation relates to learning outcomes only in that combined condition](ride-cht-instruction-increases-team-regulation-cscl.md) — related
+- [Environments with limited ready-made information spur children's exploration](limited-ready-information-spurs-exploration.md) — related

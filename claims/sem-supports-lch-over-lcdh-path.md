@@ -50,3 +50,4 @@ Latent-variable SEMs on all 636 participants tested LCH (L1→L2→L3) against a
 - [L1 and L2 proficiency are significantly associated in L3 learners](l1-l2-proficiency-significantly-correlated.md) — a narrower finding that bears on this claim
 - [Machine-learning prediction of L3 proficiency is driven mainly by L2, not L1](svr-l3-prediction-driven-by-l2.md) — related
 - [Association of learning success with English does not differ by L3 typological distance](typological-distance-no-effect-l3-association.md) — related
+- [Late-learned L2 lexical representations are parasitic on L1: the later L2 is learned, the less well organized and more fragmented its representations](late-l2-parasitic-entrenched-representations.md) — related

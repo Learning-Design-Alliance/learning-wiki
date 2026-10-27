@@ -13,7 +13,7 @@ generated:
 # Mathematical Flexibility
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 15 claims (10 show a difference, 4 mixed, 1 no difference) · 12 studies (6 causal, 3 associational, 1 quant-synthesis, 1 review, 1 qualitative), `q2`–`q4` · 4 of 12 report an effect size · 14 claims rest on one study
+> **Evidence** · 20 claims (11 show a difference, 7 mixed, 2 no difference) · 14 studies (7 causal, 4 associational, 1 quant-synthesis, 1 review, 1 qualitative), `q2`–`q4` · 5 of 14 report an effect size · 19 claims rest on one study
 
 ## Description
 Mathematical flexibility is the ability to keep several representations of a number in mind (a fraction as a shaded region, a decimal, a point on a line) and several ways of solving a problem, and to move among them adaptively, choosing the strategy that suits the problem rather than always using the same one. The Learner Variability Navigator says it helps learners understand concepts more deeply and find solutions more efficiently. It is measured with tasks that test knowledge of multiple strategies for solving equations and judgement of which is most efficient.
@@ -51,6 +51,11 @@ LVN follows it from preschool to grade 10. Its general counterpart is cognitive 
 - [Training effects on flexibility and word problem solving are delayed, appearing at four-week follow-up but not directly after the training](../claims/delayed-training-effects-word-problems.md) [~M] — instruction changes it
 - [Training effects on flexibility and word problem solving do not differ between students with low and high language skills](../claims/training-effects-not-moderated-by-language-skills.md) [-M] — instruction changes it
 - [Training restructuring strategies fosters grade-2 students' flexibility in dealing with additive situations relative to a control group, with stronger growth at follow-up](../claims/restructuring-training-fosters-additive-flexibility.md) [+M] — instruction changes it
+- [Learners flexibly tailor their learning strategies to the task: strategies are mostly unrelated across RB and II tasks](../claims/strategies-flexibly-tailored-across-tasks.md) [+M] — instruction changes it
+- [Only adults reduced flexible reactions to negative feedback across learning blocks, consistent with strategy adaptation to the paradigm's structure](../claims/adults-reduce-flexible-reactions-across-blocks.md) [~M] — instruction changes it
+- [Strategy consistency is stable within individuals across RB and II tasks](../claims/strategy-consistency-stable-across-tasks.md) [-M] — instruction changes it
+- [Strategy type and strategy consistency relate distinctly to learning success in RB versus II tasks](../claims/strategy-consistency-success-distinct-by-task.md) [~M] — learners who differ on it differ in outcomes
+- [The positive association between flexible reactions and reversal learning is significant only in adults, with no significant age-by-flexibility interaction](../claims/flexibility-rl-relation-adults-only.md) [~M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Flexibility in problem solving** (Star & Rittle-Johnson, 2008): Measures students' knowledge of multiple strategies and strategy efficiency in equation solving.

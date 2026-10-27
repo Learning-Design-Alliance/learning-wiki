@@ -68,3 +68,4 @@ Table 1 paired t-test for experiment 1 item recognition; congruent d′ 1.37 vs 
 - [In the laboratory experiment, next-day recognition was higher for congruent new-word meanings than for incongruent items, while day-1 performance showed the opposite pattern](exp1-recognition-congruent-over-incongruent.md) — related
 - [Reading goal × congruency interaction on memory: study goal improves memory for congruent but not incongruent targets](goal-congruency-interaction-memory.md) — related
 - [Subjective reactivation predicted item recognition of new descriptions in experiment 1, but this effect did not appear in experiment 2](reactivation-item-recognition-exp1.md) — related
+- [Congruent new information is better remembered, though strongly surprising incongruent information can also be learned well](memory-congruency-effect-prior-knowledge.md) — a broader claim this one bears on

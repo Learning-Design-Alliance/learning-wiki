@@ -13,7 +13,7 @@ generated:
 # Emotional Intelligence
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 49 claims (37 show a difference, 6 mixed, 6 no difference) · 35 studies (10 causal, 10 review, 7 associational, 6 quant-synthesis, 1 qualitative, 1 theoretical), `q1`–`q4` · 10 of 35 report an effect size · 48 claims rest on one study
+> **Evidence** · 51 claims (39 show a difference, 6 mixed, 6 no difference) · 37 studies (11 causal, 11 review, 7 associational, 6 quant-synthesis, 1 qualitative, 1 theoretical), `q1`–`q4` · 10 of 37 report an effect size · 50 claims rest on one study
 
 ## Description
 Emotional intelligence is the ability to perceive emotions accurately, use them to support thinking, understand them and manage them. It is measured either as an ability (performance tests) or as a self-reported trait. It correlates with academic achievement, more strongly in the humanities than in STEM subjects, and overlaps with [affect regulation](affect-regulation.md) and with social-emotional skills that programmes aim to build.
@@ -85,6 +85,8 @@ Emotional intelligence is the ability to perceive emotions accurately, use them 
 - [Exploratory 3-month follow-up suggested a sleeper effect on parent-rated empathy, but no maintained gains in other outcomes](../claims/zirkus-empathico-followup-sleeper-empathy.md) [~M] — instruction changes it
 - [Six-week Zirkus Empathico training increased parent-rated empathy (EMK 3-6) but not GEM-rated or child-assessed empathy in preschoolers](../claims/zirkus-empathico-empathy-gains-measure-dependent.md) [~M] — instruction changes it
 - [Zirkus Empathico improved child-assessed emotion recognition but not parent-rated emotion recognition in preschoolers](../claims/zirkus-empathico-emotion-recognition-child-assessment.md) [~M] — instruction changes it
+- [Adolescents who engaged more with Crystals' empathy training mechanics showed greater increases in empathic accuracy-related RTPJ activation, controlling for total playtime](../claims/game-engagement-rtpj-activation-increase.md) [+M] — instruction changes it
+- [SEL programs implemented well show positive impacts on targeted skills and academic outcomes, including meta-analytic support](../claims/sel-programs-academic-outcomes.md) [+M] — instruction changes it
 
 ## Related Learner Variables
 

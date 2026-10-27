@@ -53,3 +53,4 @@ Fourth moderator analysis of online-tACS comparisons by cognitive domain found s
 - [Online-tACS with theta and gamma frequency bands significantly improves cognitive performance, while delta, alpha and beta bands do not](online-tacs-theta-gamma-effective-performance.md) — a broader claim this one bears on
 - [tACS effects on cognitive performance depend on targeted brain region: theta on PFC and PPC and online gamma on PPC are effective](tacs-region-moderators-pfc-ppc.md) — related
 - [tACS protocols produce a small significant overall improvement in cognitive performance in healthy young adults](tacs-small-positive-effect-cognitive-performance.md) — a broader claim this one bears on
+- [Theta and gamma oscillations show similar relationships with memory encoding and retrieval across multiple memory systems and brain regions](theta-gamma-similar-encoding-retrieval-across-memory-systems.md) — related

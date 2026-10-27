@@ -53,3 +53,4 @@ Authors' interpretation from ERP and TFR analyses showing enhanced responses fol
 - [Auditory cueing during NREM sleep elevates slow wave and spindle power relative to no stimulation, with effects concentrated in frontal and central regions](tmr-elevates-sw-spindle-power-nrem.md) — related
 - [Closed-loop TMR timed to the slow-oscillation up-state improves memory consolidation relative to down-state cueing, though direct up-vs-down comparisons yield mixed results](closed-loop-tmr-so-up-state-timing.md) — related
 - [Personalized TMR improves recall accuracy for the most challenging (L3) word pairs, outperforming both uniform TMR and no-stimulation control in the post-sleep session](personalized-tmr-l3-accuracy-improvement.md) — related
+- [Hippocampal sharp-wave ripples during SWS and waking support memory consolidation and spatial task performance](swr-replay-supports-consolidation-and-spatial-memory.md) — related

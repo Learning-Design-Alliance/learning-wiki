@@ -51,3 +51,4 @@ Genetic association analysis in ALSPAC adjusting for gender and 20 ancestry prin
 - [School absence mediates health–attainment associations, least for ADHD (7.1%) and most for migraine (72.0%) and BMI (39.9%) (ALSPAC cohort)](school-absence-mediation-health-attainment.md) — related
 - [Children's own polygenic index for educational attainment is negatively associated with their ADHD traits at age 8, independent of parental PGIs](child-education-pgi-lower-adhd-traits.md) — related
 - [Genetic instrumental-variable analysis supports a causal negative effect of higher BMI in childhood and adolescence on GCSE attainment and school absence (ALSPAC cohort)](bmi-causal-effect-educational-attainment-mr.md) — related
+- [For childhood outcomes (academic achievement, ADHD symptoms), genetic-nurturing designs found only direct genetic effects and no genetic nurturing](no-genetic-nurturing-childhood-outcomes.md) — related

@@ -66,6 +66,7 @@ Play based learning leverages intrinsic motivation and active exploration, align
 - [Act It Out](../elements/act-it-out.md) — dramatic enactment is a play-based form that supports comprehension and empathy
 - Simulation and role-play at older ages serves the same intrinsic-engagement function in adult-appropriate form
 - [Resist policies that reduce time for social pretend play in preschool and primary grades](resist-policies-reducing-social-pretend-play-time.md)
+- [Design guided play environments that balance child-initiated curiosity with social scaffolding](guided-play-balances-curiosity-and-scaffolding.md)
 
 ## Examples
 - **Tools of the Mind** (https://toolsofthemind.org) — a Vygotskian early childhood curriculum using mature dramatic play to develop self-regulation and executive function.

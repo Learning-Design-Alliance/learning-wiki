@@ -135,3 +135,4 @@ Open questions include how much guidance activation prompts need (open recall vs
 - [Students' prior knowledge about a topic impacts their understanding of text as they read](prior-knowledge-impacts-text-understanding.md) — related
 - [Across 88 investigated techniques, prior knowledge activation showed positive comprehension outcomes in 51 instances, negative in 15, neutral in 8, and mixed in 8](activation-techniques-outcome-distribution-88-instances.md) — related
 - [The relevance and level of students' knowledge moderates activation effectiveness: mobilizing irrelevant information impaired comprehension, while open-ended mobilization benefited students with lower topic knowledge more](knowledge-relevance-and-level-moderate-activation-effects.md) — related
+- [Available prior knowledge affects learning only when it is activated before the task](activation-required-prior-knowledge-effects.md) — related

@@ -46,6 +46,7 @@ For schools, administrators, and policymakers, the article recommends that "proc
 
 - [Establish AI-specific evaluation and accountability systems using independent audits, role-based dashboards, and privacy and equity safeguards](independent-audits-role-based-dashboards-ai-accountability.md)
 - [Mask small table cells (fewer than five students) when publishing study data](mask-cells-fewer-than-five-students.md)
+- [Require full disclosure of an EdTech product's development and evaluation maturity, and assess developers' willingness to engage with research](edtech-full-disclosure-evidence-engagement.md)
 
 ## Examples
 -

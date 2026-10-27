@@ -69,3 +69,4 @@ Same study as reported by the review: a mediation analysis found "about half the
 - [Polygenic scores based on the Lee et al. (2018) GWAS show a meta-analytic association of ρ = 0.27 with educational attainment](pgs-educational-attainment-rho-27-meta.md) — a broader claim this one bears on
 - [Polygenic score predictive power for educational attainment increases with discovery sample size and is projected to approach the SNP heritability bound](pgs-predictive-power-increases-with-discovery-sample-size.md) — related
 - [Children in higher SES families have higher average polygenic scores for educational attainment](higher-pgs-mean-in-higher-ses-groups.md) — related
+- [Non-transmitted parental polygenic scores predict offspring educational attainment, evidencing genetic nurturing effects in adults](genetic-nurturing-nontransmitted-pgs-adult-attainment.md) — related

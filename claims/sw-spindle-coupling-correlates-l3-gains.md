@@ -50,3 +50,5 @@ Pearson correlation (FDR-corrected) between behavioral improvement and EEG featu
 - [Multivariate classification of SW power, spindle power, and SW-spindle coupling distinguishes the personalized TMR, TMR, and control groups above chance, peaking around 3 s after cue onset](svm-classification-personalized-tmr-signatures.md) — related
 - [TMR efficacy depends on memory strength and task difficulty: benefits concentrate on moderately strong and challenging items, with limited advantage for easy (L1) items](tmr-efficacy-depends-memory-strength-difficulty.md) — related
 - [Exploratory analysis finds moderate-magnitude correlation between fast spindle-slow oscillation coupling strength and retention of no-feedback retrieval-practice items](fast-spindle-so-coupling-correlates-nrp-retention.md) — related
+- [Cortical delta oscillations during slow-wave sleep support declarative memory consolidation](delta-sws-declarative-consolidation.md) — related
+- [Hippocampal sharp-wave ripples during SWS and waking support memory consolidation and spatial task performance](swr-replay-supports-consolidation-and-spatial-memory.md) — related

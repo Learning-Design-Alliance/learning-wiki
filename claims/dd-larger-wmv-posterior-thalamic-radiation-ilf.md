@@ -47,3 +47,4 @@ Group contrast in the longitudinal VBM analysis of 17 DD versus 18 TD children; 
 ## Related Claims
 - [No correlations were detected between short-term GMV or WMV change and changes in implicit sequence learning or general visuomotor skill](no-correlation-volume-change-learning-change.md) — related
 - [An intensive 8-week reading intervention in children with reading difficulties changed white matter integrity in reading-related tracts, coupled to improved reading skill](reading-intervention-white-matter-plasticity.md) — related
+- [Structural abnormalities of the left perisylvian cortex and left arcuate fasciculus present before reading onset are candidate predictors of dyslexia](left-perisylvian-arcuate-precursors-predict-dyslexia.md) — related

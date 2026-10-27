@@ -99,3 +99,4 @@ Grade level significantly moderated self-efficacy effects (F(4.00, 6.83) = 11.42
 - [Pedagogical agents enhance learning compared with learning environments that do not feature agents](pedagogical-agents-enhance-learning.md) — related
 - [Technology effects on TEFL outcomes trend upward across educational levels (primary g = 0.29, secondary g = 0.35, tertiary g = 0.44), though between-level differences are not statistically significant](tefl-tech-effects-increase-by-educational-level.md) — related
 - [Learning with multimedia pedagogical agents is more effective than learning without these agents, with a small overall effect (g+ = 0.20)](pedagogical-agents-small-overall-learning-benefit.md) — related
+- [Motivational pedagogical agents did not significantly improve posttest scores or error rates in an adaptive algebra system after controlling for pretest](motivational-pa-null-conceptual-gains.md) — related

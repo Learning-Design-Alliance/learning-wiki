@@ -52,3 +52,4 @@ Same between-subjects experiment (N = 161); the planned contrast for the JOLs-wi
 - [JOLs with word stems and retrieval practice reduce prior-list intrusions on the List-5 test, whereas JOLs with complete words do not](word-stem-jols-reduce-prior-list-intrusions.md) — related
 - [JOL magnitudes decline across successive lists in both JOL groups, reflecting learners' belief that recall decreases with continued new learning](jol-magnitudes-decline-across-lists.md) — related
 - [Making JOLs is not a neutral act: metacognitive ratings reactively affect subsequent learning, so experiments need judgment-free conditions](jol-reactivity-requires-judgment-free-control-condition.md) — a broader claim this one bears on
+- [In paired-associate learning, interim testing about doubles recall of new face-name and foreign-translation pairs relative to a distractor control](forward-testing-paired-associates.md) — related

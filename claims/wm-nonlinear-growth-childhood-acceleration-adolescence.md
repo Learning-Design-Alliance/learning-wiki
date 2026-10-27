@@ -64,3 +64,4 @@ Longitudinal mixed-effects modeling of the PSID-CDS accelerated longitudinal sam
 - [Average and superior children develop at different levels and grow increasingly dissimilar with age, with superior children showing adolescent mental acceleration about one year earlier](average-superior-mental-curves-diverge.md) — related
 - [Mental growth curves of superior children diverge from those of average children and resemble physical growth curves](superior-children-growth-curves-diverge.md) — related
 - [Growth models show substantial variability in the shape and rate of learning, but no statistically significant EAPGS associations with that variation](growth-models-pgs-null-shape-rate.md) — related
+- [Power-function models fit the developmental trajectory better than linear models, with significant developmental change for high and moderate consistency only](power-function-developmental-trajectory-statistical-learning.md) — a narrower finding that bears on this claim

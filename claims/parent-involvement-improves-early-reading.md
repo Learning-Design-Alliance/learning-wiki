@@ -107,3 +107,4 @@ This meta-analysis isolates the "added value" of dialogic (interactive) shared r
 - [Children gain more from interventions administered by researchers or combined implementers than by parents](implementer-moderates-intervention-effect.md) — related
 - [The Tips by Text intervention did not produce significant improvements in children's early reading-related skills (YARC) relative to control](tips-by-text-no-reading-improvement.md) — reports the opposite
 - [More frequent parent-reported home literacy activities were associated with better children's math performance, controlling for covariates](literacy-activities-associated-math.md) — related
+- [More frequent home literacy practices are associated with children's vocabulary skill but not with reading accuracy or speed](home-literacy-vocabulary-not-reading-fluency.md) — related

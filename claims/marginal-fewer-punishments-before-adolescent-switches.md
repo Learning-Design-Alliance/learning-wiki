@@ -54,3 +54,4 @@ Secondary behavioral measure from the same probabilistic reversal learning task 
 - [Group-by-RPE interaction in the anterior insula without a general group effect in overall activation](ains-group-by-rpe-interaction-omnibus.md) — related
 - [Reward prediction errors are positively correlated with putamen, vmPFC, amygdala and posterior cingulate and anticorrelated with aIns, dmPFC and dlPFC](rpe-network-positive-and-anticorrelated-regions.md) — related
 - [Number of rubric sessions interacts negatively with mean age: intervention length matters less for older students](sessions-mean-age-interaction-rubrics.md) — related
+- [Reversal learning response times did not significantly decrease with age, though the relation became significant after excluding implausibly fast responses](rl-response-time-age-null.md) — related

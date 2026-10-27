@@ -13,7 +13,7 @@ generated:
 # Socioeconomic Status
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 164 claims (100 show a difference, 41 mixed, 23 no difference) · 123 studies (71 associational, 25 causal, 14 review, 8 quant-synthesis, 3 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 12 of 123 report an effect size · 163 claims rest on one study
+> **Evidence** · 167 claims (102 show a difference, 42 mixed, 23 no difference) · 124 studies (72 associational, 25 causal, 14 review, 8 quant-synthesis, 3 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 13 of 124 report an effect size · 166 claims rest on one study
 
 ## How to read this page
 
@@ -249,6 +249,9 @@ A learner's economic and social position: family income or poverty (often measur
 - [In PISA 2022-like creativity items, the SES gap reverses in favor of low-SES students when enumerators read the prompts](../claims/pisa-items-ses-gap-reverses-without-reading.md) [~W] — an instructional effect differs by group
 - [Standard creativity measures show a statistically significant SES gap among Brazilian 6-9th graders, with high-SES students scoring 0.154 s.d. higher than low-SES students](../claims/ses-gap-standard-creativity-measures-brazil.md) [+W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [The mediated interaction between SES and growth mindset is small but positive (about 0.006), indicating only minimal moderation of the SES effect](../claims/mediated-interaction-ses-mindset-minimal.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Children of lower-educated parents report less positive academic self-concept than children of higher-educated parents, with differences stable from fourth to sixth grade](../claims/household-parental-education-lower-child-asc.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [School-level academic self-concept is lower in higher parental education schools than in lower parental education schools](../claims/school-asc-lower-in-higher-parental-education-schools.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [School-level parental education moderates the household-education–ASC association: children of lower-educated parents show less positive ASC only in higher parental education schools](../claims/cross-level-interaction-household-school-parental-education-asc.md) [~M] — an instructional effect differs by group
 
 ## The evidence by question
 - *Does family income predict achievement and attainment, how large are the gaps, and when do they open?* [School test score averages are strongly related to the income of the families a school serves](../claims/school-test-scores-strongly-related-to-family-income.md) [+M]

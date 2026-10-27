@@ -52,3 +52,4 @@ Controlled lab experiment in a multiple-list paradigm with N = 161 undergraduate
 - [Making JOLs is not a neutral act: metacognitive ratings reactively affect subsequent learning, so experiments need judgment-free conditions](jol-reactivity-requires-judgment-free-control-condition.md) — a broader claim this one bears on
 - [Overt retrieval practice enhances interim recall of new List-5 material compared to restudy, and does not differ from JOLs with word stems](retrieval-practice-forward-effect-list5-interim.md) — related
 - [JOLs with word stems and retrieval practice reduce prior-list intrusions on the List-5 test, whereas JOLs with complete words do not](word-stem-jols-reduce-prior-list-intrusions.md) — related
+- [In paired-associate learning, interim testing about doubles recall of new face-name and foreign-translation pairs relative to a distractor control](forward-testing-paired-associates.md) — related

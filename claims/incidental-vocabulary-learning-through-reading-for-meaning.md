@@ -100,3 +100,4 @@ Webb et al. (2023) support the first half of this claim and qualify the second: 
 - [Teachers with high incidental exposure described expanded opportunities for word use and connecting words to topics](teacher-practices-expanded-word-use-themes.md) — related
 - [Treatment teachers reported providing more incidental exposure to target vocabulary than control teachers (ES = .54)](treatment-teachers-more-incidental-exposure.md) — related
 - [Referential gaze from a virtual teacher boosts L2 word-object mapping unconsciously in immersive VR, mirroring joint-attention mechanisms in first language acquisition](vr-referential-gaze-boosts-l2-word-learning.md) — a narrower finding that bears on this claim
+- [Desktop virtual-world learners needed about half the exposures of associative learners and showed exploratory navigation patterns that predict learning success](virtual-world-fewer-exposures-roaming-entropy.md) — a narrower finding that bears on this claim

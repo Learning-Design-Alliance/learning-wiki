@@ -47,3 +47,4 @@ Descriptive (non-inferential) comparison across nine studies reporting SES infor
 ## Related Claims
 - [Group differences in receptive language did not hold when controlling for SES, and receptive language was the covariate retained in the main analyses](receptive-language-group-differences-ses-mediated.md) — related
 - [Teacher mediation interacts with SES: the SES gap in elaborated utterances appears only in the low-mediating classroom](mediation-ses-interaction-elaborated-utterances.md) — related
+- [Spatial skill-mathematics associations may be particularly strong for lower-SES children, suggesting spatial instruction could promote equity](spatial-instruction-equity-lower-ses.md) — related

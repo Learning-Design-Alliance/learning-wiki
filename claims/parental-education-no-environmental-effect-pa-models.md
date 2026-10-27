@@ -54,3 +54,4 @@ NTFD phenotypic assortment model fitting in the TwinLife sample, where phenotypi
 - [Educational achievement is highly heritable, and the common environmental variance is attributable to SES effects](ea-heritable-common-env-variance-attributable-to-ses.md) — related
 - [Genetic and environmental variance components of educational achievement decrease with increasing parental SES](genetic-environmental-variance-decrease-with-ses.md) — related
 - [Phenotypic and genetic associations with musicality are robust to genetic confounding via educational attainment](musicality-communication-links-robust-to-ea-confounding.md)
+- [Associations between the rearing environment and children's outcomes can be partly or fully due to genetic confounding rather than causal environmental transmission](genetic-confounding-rearing-environment-causal-claims.md) — a broader claim this one bears on

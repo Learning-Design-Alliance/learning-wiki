@@ -93,3 +93,4 @@ Null moderator analyses within the meta-analysis: intervention duration and moti
 - [The simulation advantage and interest differences hold across subgroups of age, gender, school form, and grade](no-subgroup-differences-method-comparison.md) — related
 - [Gender does not significantly moderate the effect of AI-supported PBL on computational thinking or academic achievement](gender-does-not-moderate-ai-pbl-effects.md) — related
 - [Effect sizes were not moderated by publication year, age, or percentage of females, but were related to study quality; publication-bias tests gave mixed signals](meta-moderators-study-quality-publication-bias.md) — related
+- [Exam Playbook benefits were larger for female users and for first-generation students, reducing achievement gaps](exam-playbook-moderation-demographic-benefits.md) — related

@@ -70,3 +70,4 @@ In the same VR study, self-reports showed participants were unaware of the gaze 
 - [The review reports that real-world experiential simulations offer affordances beyond virtual-only formats, including heightened presence through embodiment, place, and face-to-face social immersion](real-world-simulations-embodiment-affordances.md) — related
 - [Grasping virtual objects during L2 vocabulary learning enhances test performance relative to audiovisual-only learning](grasping-virtual-objects-enhances-l2-vocabulary-retention.md) — related
 - [PC-based passive viewing yielded higher word recall than embodied VR assembly training in school-aged children](pc-beats-vr-word-recall-children.md) — related
+- [Immersive VR L2 vocabulary learning outperforms word-to-word association, especially for struggling learners, with manipulable-context words learned better](ivr-vocabulary-beats-association-strugglers-gain-more.md) — related

@@ -12,7 +12,7 @@ generated:
 # Executive Function Development
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 220 claims (101 for, 115 mixed, 4 against) · 124 studies (68 associational, 23 review, 19 causal, 10 quant-synthesis, 4 theoretical), `q1`–`q4` · 44 of 124 report an effect size · 212 claims rest on one study
+> **Evidence** · 221 claims (101 for, 116 mixed, 4 against) · 125 studies (69 associational, 23 review, 19 causal, 10 quant-synthesis, 4 theoretical), `q1`–`q4` · 44 of 125 report an effect size · 213 claims rest on one study
 
 ## Description
 Executive functions are the self-regulatory processes that let a person inhibit an impulsive response, flexibly shift between tasks or perspectives, hold and manipulate information in mind, and organize behavior toward a goal rather than react automatically to the immediate situation. They emerge gradually starting in early childhood and continue developing through adolescence, driven both by brain maturation — particularly of the prefrontal cortex, which matures later than most other brain regions — and by experience (Fay-Stammbach, Hawes, & Meredith, 2014).
@@ -261,6 +261,7 @@ Executive function is closely tied to, but distinct from, adolescent risk-taking
 - [Children's eye movement consistency is associated with selective attention and executive function, whereas eye movement pattern relates to working memory](../claims/eye-movement-consistency-executive-function-children.md) [~W]
 - [In a lottery-based comparison, Montessori children showed advantages on academic, executive function, social and theory-of-mind measures, with no differences on all measures](../claims/montessori-lottery-study-advantages.md) [+W]
 - [Left IPS connectivity with prefrontal cortex (dlPFC, vlPFC, insula) decreases over childhood in longitudinal task-related fMRI](../claims/ips-pfc-connectivity-decreases-longitudinally.md) [~W]
+- [Reversal learning response times did not significantly decrease with age, though the relation became significant after excluding implausibly fast responses](../claims/rl-response-time-age-null.md) [~W]
 
 ## Related Theories
 

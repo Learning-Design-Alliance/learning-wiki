@@ -60,3 +60,4 @@ The study's abstract reports a comparison of stability of academic achievement r
 - [Self-control shows substantial rank-order stability in early adolescence, yet situational influences still matter](self-control-rank-order-stability-with-situational-change.md) — related
 - [Situational motivation is highly context-dependent and fluctuates within and between learners, but most studies rely on self-reports](situational-motivation-context-dependent-fluctuating-self-report-dominated.md) — related
 - [Internalizing and externalizing behavioral problems show moderate to strong rank-order stability from grade 1 to grade 4](behavior-problems-stability-elementary.md) — related
+- [The striking short-term improvements of early educational interventions fade out over time, with pre-existing child differences explaining much of the fade-out in math](early-intervention-fade-out-preexisting-differences.md) — related

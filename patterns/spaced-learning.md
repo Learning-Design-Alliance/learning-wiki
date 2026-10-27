@@ -14,7 +14,7 @@ grain_size: course
 # Spaced Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 76 claims (30 for, 43 mixed, 3 against) · 54 studies (27 causal, 11 review, 7 quant-synthesis, 3 associational, 3 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 15 of 54 report an effect size · 71 claims rest on one study
+> **Evidence** · 77 claims (30 for, 44 mixed, 3 against) · 55 studies (28 causal, 11 review, 7 quant-synthesis, 3 associational, 3 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 15 of 55 report an effect size · 72 claims rest on one study
 
 ## Description
 
@@ -154,6 +154,7 @@ The examples are local design instances, not additional observations from those 
 - [Losses after long breaks in naturalistic practice are rapidly offset by very little practice: a single gameplay can restore prior performance levels even after delays of hundreds of days](../claims/rapid-relearning-single-gameplay.md) [+W]
 - [For the untrained ITD task, the 1–3 h lapse manifested as uniform performance at naïve levels with stable within-session performance](../claims/itd-lapse-uniform-naive-level-performance.md) [~W]
 - [Reward positivity showed no forgetting-curve lapse after ~30 days despite a lapse in behavioral accuracy, indicating retained ability to internally evaluate responses](../claims/reward-positivity-no-forgetting-curve-30-days.md) [~W]
+- [Post-rest RT improvement was negligible and non-significant only in the 10 s trial, 30 s break group](../claims/null-post-rest-improvement-10s-trial-30s-break.md) [~M]
 
 ## Examples
 - [Memdora collaborative deck layer](../designs/memdora-collaborative-deck-layer.md) — a teacher's shared deck updates for all followers while each learner's spacing stays individual

@@ -13,7 +13,7 @@ generated:
 # Affect Regulation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 204 claims (148 show a difference, 38 mixed, 18 no difference) · 128 studies (48 associational, 26 causal, 23 review, 10 qualitative, 9 quant-synthesis, 8 theoretical, 4 design), `q1`–`q4` · 32 of 128 report an effect size · 198 claims rest on one study
+> **Evidence** · 208 claims (151 show a difference, 38 mixed, 19 no difference) · 130 studies (49 associational, 27 causal, 23 review, 10 qualitative, 9 quant-synthesis, 8 theoretical, 4 design), `q1`–`q4` · 33 of 130 report an effect size · 202 claims rest on one study
 
 ## Description
 What a learner does with frustration, anxiety and failure while the work is still in front of them. It decides whether a hard check needs a recoverable framing and how failure is surfaced. Anxiety is not only unpleasant — it consumes the same working memory the task needs, so it degrades performance through a mechanism entirely separate from motivation [-M]. Naming an emotion measurably reduces its grip, which is why the strategies here look unexpectedly linguistic.
@@ -244,6 +244,10 @@ What a learner does with frustration, anxiety and failure while the work is stil
 - [First-semester math anxiety uniquely predicts lower STEM grades over four years of university, controlling for math ability, STEM course-taking, and other covariates](../claims/math-anxiety-predicts-stem-grades.md) [+M] — learners who differ on it differ in outcomes
 - [Math ability accounts for only ~12% of math anxiety–STEM associations, whereas math anxiety accounts for ~40% of math ability–STEM associations](../claims/mediation-anxiety-ability-stem-outcomes.md) [+M] — learners who differ on it differ in outcomes
 - [Non-STEM grades moderate the negative math anxiety–STEM grades relation (stronger among high non-STEM achievers) but not the anxiety–STEM participation relation](../claims/nonstem-grades-moderate-anxiety-grades-link.md) [~W] — learners who differ on it differ in outcomes
+- [Expert reviewers rated concept-motivated and English-motivated ASL lesson pairs as approximately equally clear, enjoyable, and frustrating](../claims/cm-em-lessons-equally-clear-enjoyable-validation.md) [-M] — instruction changes it
+- [Math and science anxiety are significant negative predictors of interest in studying STEM, even above and beyond an actual measure of spatial skill](../claims/math-science-anxiety-predict-stem-interest.md) [+M] — learners who differ on it differ in outcomes
+- [Math and science anxiety are significant positive predictors of mental rotation commission error rate, above and beyond spatial anxiety, spatial habits, ASL experience, and hearing status](../claims/math-science-anxiety-predict-mr-error.md) [+M] — learners who differ on it differ in outcomes
+- [Math, science, and spatial anxieties are positively intercorrelated, and math anxiety shows the strongest negative relation with STEM interest](../claims/anxieties-intercorrelated-math-strongest-interest.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 

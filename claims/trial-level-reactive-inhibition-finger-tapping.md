@@ -49,3 +49,6 @@ Experiment 1: last-sequence minus second-sequence RT difference averaged over th
 - [An intervening declarative cued-recall task placed late in finger-tapping training does not reduce the post-rest performance gain (Experiment 1)](late-declarative-task-no-impairment-experiment-1.md) — related
 - [No significant association exists between intervening-task performance and post-rest motor gain in any experiment](no-association-declarative-performance-motor-gain.md) — related
 - [A declarative task placed early in training is associated with a small, transient reduction in post-rest gain (Experiment 3), with only weak statistical support](early-declarative-task-transient-impairment-experiment-3.md) — related
+- [Both inter-trial break time and on-task trial time significantly affect post-rest RT improvement after a 300 s rest](break-and-trial-time-affect-post-rest-improvement.md) — related
+- [Reactive inhibition builds within trials during motor sequence practice, appearing as slower responses later in each trial](reactive-inhibition-builds-within-motor-trials.md) — possibly the same claim (merge candidate)
+- [The smaller the ratio of break time to on-task trial time during training, the larger the post-rest RT improvement](smaller-break-to-trial-ratio-larger-post-rest-improvement.md) — related

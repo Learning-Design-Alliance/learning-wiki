@@ -63,3 +63,6 @@ Classical univariate twin model on the total sample: MZ and DZ twin correlations
 - [High heritability does not imply that environmental interventions to modify a trait are doomed to failure](high-heritability-does-not-preclude-environmental-intervention.md) — related
 - [A large share of the genetic influence on secondary-school attainment is due to genes that did not influence primary-school performance](genes-unique-to-attainment-beyond-cito.md) — related
 - [Genetic factors account for most of the longitudinal stability of educational achievement (70% in the common pathway model; 63–79% of bivariate phenotypic correlations)](genetic-factors-account-for-most-achievement-stability.md) — related
+- [Twin ratings show chaos in the home is partially genetically confounded with school achievement (22% genetic variance; 37% of association via shared genes)](chaos-home-genetic-confound-school-achievement.md) — related
+- [Associations between the rearing environment and children's outcomes can be partly or fully due to genetic confounding rather than causal environmental transmission](genetic-confounding-rearing-environment-causal-claims.md) — related
+- [For childhood outcomes (academic achievement, ADHD symptoms), genetic-nurturing designs found only direct genetic effects and no genetic nurturing](no-genetic-nurturing-childhood-outcomes.md) — related

@@ -68,3 +68,4 @@ Paired t-test row in Table 1 for experiment 2 (23 analysed participants) associa
 - [Congruency enhanced item recognition of new descriptions in experiment 2 but not in experiment 1](congruency-item-recognition-exp2-only.md) — related
 - [Reading goal × congruency interaction on memory: study goal improves memory for congruent but not incongruent targets](goal-congruency-interaction-memory.md) — related
 - [Congruent mental reinstatement of the learning context enhanced short-delay recall transfer in a non-VR setting, regardless of learning-context group](congruent-mental-reinstatement-improved-transfer.md) — related
+- [Congruent new information is better remembered, though strongly surprising incongruent information can also be learned well](memory-congruency-effect-prior-knowledge.md) — a broader claim this one bears on

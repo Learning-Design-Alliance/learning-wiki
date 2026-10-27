@@ -51,3 +51,4 @@ Mixed-effects logistic regression on recognition memory scores (assessed ~24 hr 
 - [Reading goals do not influence validation processes: no goal × congruency or goal × accuracy interactions on reading times](reading-goals-no-validation-effect-online.md) — related
 - [In educational learning, prior-knowledge congruency enhances associative memory for indirectly inferred BC-associations in both experiments](congruency-enhances-associative-recall-educational.md) — related
 - [Congruency enhanced item recognition of new descriptions in experiment 2 but not in experiment 1](congruency-item-recognition-exp2-only.md) — related
+- [Congruent new information is better remembered, though strongly surprising incongruent information can also be learned well](memory-congruency-effect-prior-knowledge.md) — related

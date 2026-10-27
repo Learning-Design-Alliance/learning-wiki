@@ -53,3 +53,4 @@ The editors report, citing Torppa et al. (2025), latent interaction models on lo
 - [Home literacy environment and family stresses predict attention and behaviour at school entry](hle-family-stresses-predict-attention-behaviour.md) — related
 - [Explicit, instructional home numeracy activities acted as protective (not promotive) factors for 1st–2nd grade math performance in Torppa (2025)](home-numeracy-protective-math-torppa.md) — possibly the same claim (merge candidate)
 - [Formal home math environment moderates the effect of parental math skills on children's arithmetic skills, showing a protective (gap-closing) effect for higher-risk children](formal-hme-protective-effect.md) — possibly the same claim (merge candidate)
+- [Under the Familial Control Method, most home-literacy effects on children's reading vanish after controlling parental reading, but books in the home retain a significant effect](home-literacy-genetic-confound-books-exception.md) — related

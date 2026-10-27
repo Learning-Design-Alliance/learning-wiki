@@ -46,3 +46,4 @@ Whole-brain fMRI analysis of the letter reversal task (15 children, 15 adults) a
 ## Related Claims
 - [Adults show significantly greater whole-brain fMRI activation than children for reversed versus typical letters, including left ventral visual stream and bilateral parietal cortices](adults-greater-fmri-activation-reversed-letters-than-children.md) — related
 - [Adults, but not children, show a differential N170 response to typical versus reversed letters](n170-reversal-effect-adults-not-children.md) — related
+- [French-speaking 8-year-olds show word adaptation effects in a left-lateralized network largely replicating that found in English-speaking typical adult readers](word-adaptation-network-replication-children.md) — related

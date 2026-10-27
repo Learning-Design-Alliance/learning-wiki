@@ -67,3 +67,4 @@ Experiment 2 repeated-measures ANOVA on associative recall; the reactivation mai
 - [In educational learning, prior-knowledge congruency enhances associative memory for indirectly inferred BC-associations in both experiments](congruency-enhances-associative-recall-educational.md) — related
 - [Congruency and reactivation affect associative memory independently, with no congruency × reactivation interaction in either experiment](no-congruency-reactivation-interaction.md) — related
 - [Subjective reactivation predicted item recognition of new descriptions in experiment 1, but this effect did not appear in experiment 2](reactivation-item-recognition-exp1.md) — related
+- [Congruent new information is better remembered, though strongly surprising incongruent information can also be learned well](memory-congruency-effect-prior-knowledge.md) — related

@@ -46,3 +46,5 @@ The review reports a longitudinal intervention study that measured white matter 
 
 ## Related Claims
 - [Children with developmental dyslexia have larger white matter volume in the left posterior thalamic radiation and ILF than typically developing children](dd-larger-wmv-posterior-thalamic-radiation-ilf.md) — related
+- [Structural abnormalities of the left perisylvian cortex and left arcuate fasciculus present before reading onset are candidate predictors of dyslexia](left-perisylvian-arcuate-precursors-predict-dyslexia.md) — related
+- [Typical reading development is accompanied by gray matter decreases and increasing white matter integrity in left-hemispheric language tracts](reading-development-structural-maturation-left-language-tracts.md) — related
