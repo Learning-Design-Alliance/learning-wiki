@@ -66,3 +66,4 @@ The review describes multi-input ITS field systems, citing Brunskill et al. (201
 ## Related Claims
 - [Tutoring systems appear to be culturally dependent, per insights the paper attributes to Ogan and Johnson](tutoring-systems-culturally-dependent.md) — related
 - [Help-seeking skill models built from ITS practice data were not transferable across Costa Rican, Philippine, and US contexts (reported by Ogan et al., 2014)](help-seeking-models-not-transferable-across-cultures.md) — related
+- [Collaborative classroom practice in Costa Rica may explain why help-seeking models fail to transfer there](collaboration-explains-costa-rica-divergence.md) — related

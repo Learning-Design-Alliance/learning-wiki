@@ -19,7 +19,7 @@ sources:
 # Free-Choice Learning Environment Design
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 17 claims (6 for, 10 mixed, 1 against) · 19 studies (5 review, 4 causal, 4 theoretical, 3 qualitative, 2 quant-synthesis, 1 design), `q1`–`q4` · 2 of 19 report an effect size · 15 claims rest on one study
+> **Evidence** · 18 claims (6 for, 11 mixed, 1 against) · 20 studies (5 causal, 5 review, 4 theoretical, 3 qualitative, 2 quant-synthesis, 1 design), `q1`–`q4` · 2 of 20 report an effect size · 16 claims rest on one study
 
 ## Conditional relationship
 
@@ -142,6 +142,7 @@ Dwell time, voluntary return, self-extended projects, explained understanding at
 
 - [Grades themselves, regardless of formula, detrimentally affect creative thinking, long-term retention, interest in learning, and preference for challenging tasks](../claims/grades-detrimental-creative-thinking-retention.md) [+W]
 - [In Experiment 1, both the high-grade and no-grade conditions produced higher self-report task interest than the standard-grade condition](../claims/high-and-no-grade-raise-task-interest-vs-standard.md) [~W]
+- [In the High-Agency condition, HPK students selected significantly more challenging preparatory tasks than LPK students ('step size' U = 21, p = .038)](../claims/step-size-hpk-challenging-selection.md) [~W]
 
 ## Related Principles
 - [Learner Choice](autonomy.md) — a related but distinct concept: bounded choice offered inside an otherwise fixed course, versus free-choice design's assumption of no externally imposed curriculum at all

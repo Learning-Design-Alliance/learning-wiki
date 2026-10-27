@@ -62,3 +62,4 @@ The article reports (Section V.B) Coletta et al. (2005)'s four interactive-engag
 - [Simulating higher-cognitive-ability students is easier: simulation quality correlates positively with student cognitive score](simulation-quality-correlates-with-cognitive-ability.md) — related
 - [Prior physics knowledge moderated the correlation between feeling of learning and actual test performance (positive interaction, P < 0.05)](prior-knowledge-moderates-feeling-of-learning-accuracy.md) — related
 - [Knowledge gains correlate positively with belief change, more strongly for higher relational-understanding levels](knowledge-gains-correlate-belief-change.md) — related
+- [Low Prior Knowledge students achieved significantly higher normalized learning gains than High Prior Knowledge students](lpk-normalized-gain-exceeds-hpk.md) — related

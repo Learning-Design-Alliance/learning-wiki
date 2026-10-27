@@ -55,3 +55,4 @@ The authors' demonstration of LEAP on a Newton's cradle video task, with prompts
 - [Human-LLM agreement remains low across constructs (κ = 0.000 to 0.419), with self-efficacy showing the best alignment and Prior KSAs none](human-llm-agreement-low-construct-varying.md) — reports the opposite
 - [Self-regulated learning improves achievement](self-regulated-learning-improves-achievement.md) — related
 - [Instructor-scripted self-explanation prompts have limitations, motivating computer-generated prompts](computer-generated-self-explanation-prompts-recommendation.md) — related
+- [Dynamically generated natural-language feedback was not demonstrated to be superior to a non-NLP feedback condition that told students the answer](beetle-ii-elicit-vs-tell-no-superiority.md) — related

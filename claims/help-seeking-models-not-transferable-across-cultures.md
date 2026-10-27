@@ -49,3 +49,8 @@ The editorial reports, describing Ogan et al. (2014), that cross-context compari
 - [Computer sharing accounts for over 60% of Cognitive Tutor use in developing areas, and multi-input shared-device designs reduce cost-per-student](hardware-sharing-prevalent-developing-areas.md) — related
 - [Tutoring systems appear to be culturally dependent, per insights the paper attributes to Ogan and Johnson](tutoring-systems-culturally-dependent.md) — a broader claim this one bears on
 - [Students' help-seeking error frequencies correlate strongly across different Cognitive Tutor units and cohorts (r = 0.89)](help-seeking-errors-stable-across-units.md) — related
+- [Collaborative classroom practice in Costa Rica may explain why help-seeking models fail to transfer there](collaboration-explains-costa-rica-divergence.md) — a narrower finding that bears on this claim
+- [Help abuse is negatively associated with learning in both the Philippines and United States datasets](help-abuse-negative-philippines-us.md) — related
+- [Help-seeking models transfer above chance across sites but perform poorly on the Costa Rican data](help-seeking-model-transfer-mixed.md) — reports the opposite
+- [Pre-test knowledge differed significantly across the three countries, producing a country by test time interaction](pretest-differences-country-time-interaction.md) — related
+- [Each site's help-seeking model predicted learning in its own data, with widely differing fit (Costa Rica r=0.462, U.S. r=0.350, Philippines r=0.126)](site-specific-help-seeking-model-fit.md) — related

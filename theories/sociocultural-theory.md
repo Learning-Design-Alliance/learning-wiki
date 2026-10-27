@@ -19,7 +19,7 @@ sources:
 # Sociocultural Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 38 claims (29 for, 8 mixed, 1 against) · 46 studies (10 review, 10 qualitative, 9 causal, 7 quant-synthesis, 5 associational, 5 theoretical), `q1`–`q4` · 4 of 46 report an effect size · 32 claims rest on one study
+> **Evidence** · 39 claims (29 for, 9 mixed, 1 against) · 47 studies (10 review, 10 qualitative, 9 causal, 7 quant-synthesis, 6 associational, 5 theoretical), `q1`–`q4` · 4 of 47 report an effect size · 33 claims rest on one study
 
 ## Description
 Sociocultural theory originates in the work of Russian psychologist Lev Vygotsky (1924–1934) and holds that human development and higher-order thinking originate in social, historical, and cultural interaction rather than inside an isolated individual mind. Vygotsky summarized this as a developmental law: "Every function in the child's cultural development appears twice: first, on the social level, and later, on the individual level; first between people (interpsychological) and then inside the child (intrapsychological)" (Vygotsky, 1978, p. 57). Development is a transformation of participation in shared social activity, not a transmission of discrete facts or skills ([Polly et al., 2018](https://edtechbooks.org/lidtfoundations/sociocultural_perspectives_of_learning)).
@@ -119,6 +119,7 @@ A related developmental mechanism is **private speech**: children's habit of tal
 - [Meaning negotiation and appropriation are mechanisms for achieving conceptual change in scientific thinking](../claims/conceptual-change-via-meaning-negotiation-appropriation.md) [+W] — attached 2026-10-22 from Roy D. Pea (1994), which proposed "A sociocultural framework informed by conversation analysis explains conceptual change through meaning negotiation and appropriation".
 - [Child-parent dyads generated more ideas and more original ideas than child-stranger dyads on the AUT, with no significant difference in appropriateness](../claims/child-parent-dyads-higher-fluency-originality-aut.md) [+W]
 - [Learners acquire concepts better under a scaffolding approach than an explanation approach](../claims/scaffolding-beats-explanation-concept-learning.md) [+W]
+- [Collaborative classroom practice in Costa Rica may explain why help-seeking models fail to transfer there](../claims/collaboration-explains-costa-rica-divergence.md) [~W]
 
 ## The evidence by question
 - *Does support during an attempt improve later learning compared with attempting unsupported, and for which learners, contexts and outcomes?* [Scaffolding improves learning](../claims/scaffolding-improves-learning.md) [+S]

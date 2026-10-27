@@ -60,3 +60,4 @@ Classroom experiment at a secondary school in Tokyo with 252 seventh-grade stude
 - [The Help Tutor improved students' in-tutor help-seeking behavior, but only for a subset of help-seeking action types](help-tutor-improved-in-tutor-help-seeking.md) — related
 - [Mindful-condition students completed fewer problem-solving steps and requested fewer hints per step than Cognitive-condition students](mindful-condition-fewer-steps-hints.md) — related
 - [Teacher-created video mistake messages were not harmful but produced no significant learning differences compared with answer-only feedback (n = 649)](teacher-video-mistake-messages-null.md) — related
+- [Students rarely request on-demand hints in this tutor, with no significant differences between conditions or proficiency groups](on-demand-hint-requests-rare-and-equivalent.md) — related

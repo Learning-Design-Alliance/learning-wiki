@@ -83,3 +83,4 @@ PLS-MGA path difference tests (Table 12: H10 difference −0.21, p = .005; H12 d
 - [Gender moderates the association between emotion regulation and academic motivation, with a stronger positive association among male students](gender-moderates-emotion-regulation-motivation-association.md) — related
 - [Gender related to students' emotions but showed no significant effects on math grades, while intelligence and SES related positively to grades](covariates-gender-intelligence-ses-effects.md) — related
 - [Male and female networks differ in structure and overall connectivity, with tighter internal connections in the male sample](gender-network-structure-invariance-differences.md) — related
+- [Personalization's motivational effect was positive for females, with no such difference among males](gender-moderates-personalization-amotivation.md) — related

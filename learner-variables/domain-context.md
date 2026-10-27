@@ -13,7 +13,7 @@ generated:
 # Domain Context
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 61 claims (44 show a difference, 14 mixed, 3 no difference) · 54 studies (16 review, 11 qualitative, 9 causal, 6 design, 5 quant-synthesis, 4 theoretical, 3 associational), `q1`–`q4` · 7 of 54 report an effect size · 57 claims rest on one study
+> **Evidence** · 62 claims (45 show a difference, 14 mixed, 3 no difference) · 55 studies (16 review, 11 qualitative, 9 causal, 7 design, 5 quant-synthesis, 4 theoretical, 3 associational), `q1`–`q4` · 7 of 55 report an effect size · 58 claims rest on one study
 
 ## Description
 The sector, role or setting a scenario must be placed in before a learner recognises it as theirs. This is the course-specific dimension: what counts as a recognisable case differs by subject in a way the other dimensions do not. It changes who appears in a scenario and what a task is *about*, not how hard it is — and it is the dimension most likely to be filled with the designer's own context by default.
@@ -102,6 +102,7 @@ The sector, role or setting a scenario must be placed in before a learner recogn
 - [Low-SES students have a lower chance of correctly answering math items with money, food, or social-interaction content than expected given their average math performance](../claims/low-ses-students-disadvantaged-by-ecologically-relevant-math-content.md) [+M] — an instructional effect differs with it
 - [The disadvantage from ecologically relevant content is driven by money and social-interaction items in both grades, but food items show the effect only in grade 4](../claims/money-and-social-content-drive-ses-item-bias.md) [~M] — an instructional effect differs with it
 - [The expected performance advantage of ecologically relevant content for low-SES students, predicted by the hidden talents approach, was not found; the opposite pattern emerged](../claims/hidden-talents-prediction-contradicted-by-item-content-findings.md) [-M] — an instructional effect differs with it
+- [A student model that is easily ported to another ITS may still fail there, because student behaviour depends on domain, interface, and the system that generated training data, so ported models must be re-tested.](../claims/ported-models-context-sensitive-must-be-retested.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does setting problems in contexts drawn from learners' interests raise engagement and performance?* [An IES practice-guide presentation recommends personalized problem contexts, asserting without cited studies that students engage more actively and perform better in them](../claims/personalized-problem-contexts-boost-engagement-grades-4-8.md) [+W]

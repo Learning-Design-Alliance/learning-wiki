@@ -13,7 +13,7 @@ generated:
 # Constructed-Response Assessment Items
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 66 claims (21 for, 43 mixed, 2 against) · 50 studies (18 design, 14 associational, 8 causal, 5 review, 2 quant-synthesis, 2 theoretical, 1 qualitative), `q1`–`q4` · 8 of 50 report an effect size · 66 claims rest on one study
+> **Evidence** · 67 claims (21 for, 44 mixed, 2 against) · 51 studies (19 design, 14 associational, 8 causal, 5 review, 2 quant-synthesis, 2 theoretical, 1 qualitative), `q1`–`q4` · 8 of 51 report an effect size · 67 claims rest on one study
 
 ## Description
 Constructed-response items ask students to recall information and produce their own answer rather than recognize a provided one, which reduces guessing compared with [selected-response items](selected-response-assessment-items.md). Two major kinds are used: **completion/short-answer** items (answerable in a word, phrase, number, or symbol — the same underlying format whether phrased as a statement to complete or a question to answer) and **extended-response** items (answers ranging from a paragraph to several pages, often called essay questions when they run long).
@@ -110,6 +110,7 @@ The central disadvantage of extended-response items is unreliable scoring: diffe
 - [Wise-crowd content models for summary assessment correlate well with an educational rubric, manually and via two automated NLP methods](../claims/wise-crowd-content-model-summary-assessment.md) [+W]
 - [Klein '11 LSA approach achieved its desired effectiveness only after manually marking the majority of student answers, totaling 83 percent across scenarios](../claims/klein-lsa-manual-marking-83-percent.md) [~W]
 - [GPT-4o frequently makes characteristic errors in homework assessment, including failing to recognize unit and numeric equivalences, marking complete solutions incomplete, and mishandling alternative methods and notations](../claims/gpt4o-characteristic-assessment-error-types.md) [~W]
+- [Autograding is most accurate for numeric answers, and error rates vary less than 8% across languages](../claims/numeric-answers-most-accurate-language-variation-under-8.md) [~W]
 
 ## The evidence by question
 - *Which practice format: short answer, multiple choice, or matching the final test?* [Evidence on whether initial short-answer questions produce more learning than initial multiple-choice questions is mixed, with recent studies finding little or no difference](../claims/short-answer-versus-multiple-choice-retrieval-practice-evidence-is-mixed.md) [~M]

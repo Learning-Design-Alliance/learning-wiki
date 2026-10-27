@@ -65,3 +65,4 @@ Null result from the Other Results section: supplementing the training data for 
 
 ## Related Claims
 - [Random Forest performed slightly better overall than SVM and Complement Naive Bayes for classifying short exam answers, with an average F-score of 0.82](random-forest-slightly-better-for-answer-classification.md) — related
+- [Targeting zero false negatives and 98% accuracy leaves about a 10% teacher workload reduction with accuracy slightly above 98%](zero-false-negative-target-yields-10-percent-workload-reduction.md) — related

@@ -39,6 +39,7 @@ The authors propose concrete research directions: treat learners' exposure to mu
 ## Related Strategies
 
 - [Sequence CSCL research on human-AI knowledge construction from exploratory observation to experimental variable manipulation](human-ai-research-program-sequence.md)
+- [Target formalisation of interpersonal relations and analysis of discourse-genre appropriation in AIED systems](aied-challenges-interpersonal-relations-genre-appropriation.md)
 
 ## Examples
 -

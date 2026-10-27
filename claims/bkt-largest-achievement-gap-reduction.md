@@ -61,3 +61,4 @@ Descriptive gap analysis in the N=113 study defining the test gap as the differe
 - [Pretest accuracy moderated the training effect for typical full-fledged arguments: students with high pretest scores benefited most](pretest-accuracy-moderates-typical-argument-training.md) — related
 - [Scaffolding mitigated the limiting effect of low prior knowledge: prior knowledge predicted posttest irrelevant-evidence reasoning only under the control condition](scaffolds-mitigate-prior-knowledge-limit.md) — related
 - [Teacher-judged logical reasoning combined with prior knowledge to predict learning only under the control condition; scaffolding almost fully diminished the disadvantage of lower logical reasoning](scaffolds-diminish-logical-reasoning-disadvantage.md) — related
+- [Low Prior Knowledge students achieved significantly higher normalized learning gains than High Prior Knowledge students](lpk-normalized-gain-exceeds-hpk.md) — related

@@ -14,7 +14,7 @@ grain_size: course
 # AI Tutoring
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 346 claims (156 for, 139 mixed, 51 against) · 233 studies (83 causal, 51 review, 29 design, 26 theoretical, 19 quant-synthesis, 14 associational, 11 qualitative), `q1`–`q4` · 47 of 233 report an effect size · 331 claims rest on one study
+> **Evidence** · 354 claims (159 for, 144 mixed, 51 against) · 239 studies (86 causal, 51 review, 31 design, 26 theoretical, 19 quant-synthesis, 15 associational, 11 qualitative), `q1`–`q4` · 48 of 239 report an effect size · 339 claims rest on one study
 
 ## Description and scope
 
@@ -291,6 +291,7 @@ Claims linked to this pattern that the model above does not use. All were read a
 - [Personalised guidance for all students at once is a flipped-learning gap](../claims/flipped-learning-personalised-guidance-gap.md) [+W] — read 2026-10-19: an article's motivating statement, no data.
 - [Explanations widen the human–AI fairness gap](../claims/explanations-widen-fairness-gap.md) [~W] (not about this page) — read 2026-10-19: acceptance of AI grading decisions; AI grading is outside this page's scope.
 - [In Study 1, university students using ChatTutor scored significantly higher than teaching-as-usual students on a delayed conceptual knowledge test four weeks after the lesson, but did not differ significantly from ChatGPT students](../claims/chattutor-delayed-conceptual-knowledge-study1.md) [+M] — attached 2026-10-20 from Guido Makransky et al. (2025), which proposed "Use theoretically informed GenAI chatbots to scale personalized scaffolding of generative learning activities where instructor formative assessment is not feasible"; tests this page's relationship.
+- [Model tracing is superior for targeted, high-quality remediation, and this superiority increases with the complexity of the solution process goal structure](../claims/model-tracing-superior-remediation-increases-with-goal-structure-complexity.md) [+W] — attached 2026-10-27 from Viswanathan Kodaganallur et al. (2005), which proposed "Choose between model-tracing and constraint-based tutoring paradigms by assessing solution information richness and goal-structure complexity".
 
 ## Illustrative design instance and observation record
 
@@ -327,6 +328,13 @@ This pattern is scoped to the tutor's moves within tasks and the handoff to peop
 - [Dynamically generated proof graphs let LOGAX recognize all correct student solutions and give hints on them](../claims/dynamic-dams-recognize-all-student-solutions.md) [+W]
 - [Most learners (85%) prefer to work through error correction on their own, with proficiency moderating help use](../claims/learners-prefer-own-error-correction-85-percent.md) [~W]
 - [Teaching via paraphrased natural language is perceived as more helpful for learning than sentence-selection, but this perception is not reflected in actual learning gains](../claims/nl-perceived-helpful-not-reflected-in-gains.md) [~W]
+- [The Assertions condition delivered significantly more unsolicited hints than the Messages condition during training](../claims/assertions-more-hints-given-than-messages.md) [~W]
+- [Previously published work associates Genie 2 with high acceptance, test-score increases over business-as-usual, high time on task, and a positive affective profile](../claims/genie2-previously-published-outcomes.md) [+W]
+- [Human-tutoring transcript analysis informed BEETLE II tactics, including defaulting to the full answer after three unsuccessful elicitation attempts](../claims/tutor-tactics-three-attempt-bottom-out.md) [~W]
+- [Students at all three international sites showed significant pre-test to post-test learning gains with the Scatterplot Tutor](../claims/cross-cultural-tutor-learning-gains-all-sites.md) [+W]
+- [HPK students improved significantly only in the Low-Agency condition, with a large post-test advantage over HPK peers in High-Agency (d = .95)](../claims/hpk-improved-only-low-agency.md) [~W]
+- [High- and Low-Agency conditions in SQL-Tutor do not differ in learning outcomes, though both improve significantly from pre- to post-test](../claims/no-agency-effect-sql-tutor-learning.md) [~W]
+- [Students rarely request on-demand hints in this tutor, with no significant differences between conditions or proficiency groups](../claims/on-demand-hint-requests-rare-and-equivalent.md) [~W]
 
 ## Examples
 - [ChatGPT as a virtual laboratory assistant in a sociotechnical system](../designs/sts-theory-chatgpt-virtual-laboratory-assistant.md) — ChatGPT answers lab questions beside human TAs, not in their place

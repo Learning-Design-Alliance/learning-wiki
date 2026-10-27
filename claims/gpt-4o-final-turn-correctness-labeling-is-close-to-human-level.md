@@ -9,6 +9,7 @@ generated:
   at: 2026-09-24
 evidence_strength: weak
 newest_evidence: 2024
+source_checked: 2026-10-27
 recheck_by: 2027
 sources:
   - id: alexander-scarlatos-2024
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2027: tool and model accuracy changes quickly
+> **Currency** · newest study 2024 · checked against its sources 2026-10-27 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2027: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` The average human annotator's final turn correctness accuracy is only slightly higher than GPT-4o's, so GPT-4o achieves close to human-level performance on a challenging labeling task. [→ Alexander Scarlatos 2024](#alexander-scarlatos-2024)
@@ -64,3 +65,4 @@ Final-turn accuracy against CoMTA's ground-truth labels in the human evaluation:
 - [Adding regex-based rules to few-shot LLM labeling improves agreement with human annotation (0.818 to 0.852 overall)](regex-rules-improve-fewshot-llm-labeling-accuracy.md) — related
 - [GPT-4o-mini natural language feedback was overwhelmingly helpful and never harmful in quality annotation](nl-feedback-quality-92-percent-helpful.md) — related
 - [Some VLMs perform near chance on binary judgments of student correctness, and error-assessment behavior is idiosyncratic across models](binary-correctness-judgments-near-chance.md) — related
+- [A GPT-4 few-shot binary classifier effectively identifies correct/incorrect trainee responses across three tutor-training lessons, with average F1 of 0.84 and AUC of 0.85](gpt4-few-shot-classifies-trainee-responses.md) — related

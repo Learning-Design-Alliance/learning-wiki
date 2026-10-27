@@ -65,3 +65,4 @@ Narrative synthesis of the countervailing finding: Schulz and Voermanek's log-da
 
 ## Related Claims
 - [AHS is frequently associated with self-regulation and self-efficacy, but these associations are not consistent across studies](ahs-self-regulation-self-efficacy-inconsistent.md) — a broader claim this one bears on
+- [Help abuse is negatively associated with learning in both the Philippines and United States datasets](help-abuse-negative-philippines-us.md) — related

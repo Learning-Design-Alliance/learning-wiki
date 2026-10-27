@@ -101,6 +101,7 @@ Adaptive learning tailors content, pacing, support, or task sequence in response
 - [Four ecosystem recommendations: experiment with currency forms, protect time for inquiry, include everyone in team learning, and invest in adaptive platforms](../strategies/four-micro-credential-ecosystem-recommendations.md)
 - [For young learners, adapt instructional support level rather than only task difficulty, and investigate adaptive features in isolation](../strategies/adapt-support-not-just-difficulty-young-learners.md)
 - [Use cognitive-sensing feedback on attention and learning progress to tailor instruction to individual learners](../strategies/cognitive-sensing-feedback-tailor-instruction.md)
+- [Adaptive responses to carelessness should take probable student affect into account and tailor messages to highly engaged students](../strategies/affect-aware-carelessness-interventions.md)
 
 ## Key Sources
 - Shute, V. J., & Towle, B. (2003). Adaptive e-learning. *Educational Psychologist, 38*(2), 105-114. [https://doi.org/10.1207/s15326985ep3802_5](https://doi.org/10.1207/s15326985ep3802_5)

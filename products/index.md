@@ -2,7 +2,7 @@
 
 Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's.
 
-**2066 entries** · 0 stable · 2066 in review · 0 drafts
+**2073 entries** · 0 stable · 2073 in review · 0 drafts
 
 ---
 
@@ -166,6 +166,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Beable Academy](beable-academy.md) - Beable Academy is Beable's self-paced online professional-development programme for educators, complemented by orientation and ongoing platform support.
 * [Beacon](beacon.md) - Beacon is a web-based conversational academic-support system developed by Andy Gray that uses retrieval-augmented generation over approved course teaching materials to assist undergraduate computing students.
 * [Becoming Effective Learners Student Survey (BEL-S)](becoming-effective-learners-student-survey-bel-s.md) - The BEL-S is a Rasch-based student self-report survey developed by Camille A.
+* [BEETLE II intelligent tutoring system](beetle-ii-intelligent-tutoring-system.md) - BEETLE II is an intelligent tutoring system developed by Dzikovska et al.
 * [Bell Chemistry Test and appended Payne correction sheet](bell-chemistry-test-and-appended-payne-correction-sheet.md) - A 25-question secondary-school chemistry achievement test with a Payne-prepared correction and partial-credit scoring sheet, originally used to assess knowledge of electrolysis, oxidation-reduction, valence, water purification, gases, and commercial chemistry.
 * [Berea College Promise Neighborhood initiative](berea-college-promise-neighborhood-initiative.md) - A Berea College–run place-based education initiative serving students and communities across Clay, Jackson, and Owsley Counties in rural Appalachian Kentucky.
 * [Berlin end-of-schooling tracking dataset (2,155 students, 87 schools)](berlin-end-of-schooling-tracking-dataset-2155-students-87-schools.md) - A research dataset from Dumont et al.
@@ -422,6 +423,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Dash4Emotion](dash4emotion.md) - A research prototype developed by Osama Swidan that uses webcam-based facial-emotion classification to provide teachers with real-time individual alerts and class-level emotional summaries during students’ mathematics problem-solving.
 * [DataCanvas-EDU AI Agent Skill package](datacanvas-edu-ai-agent-skill-package.md) - DataCanvas-EDU is an installable, versioned AI-agent software package developed by Bang An et al.
 * [Dataset of 103 postgraduate data-science project proposals with instructor feedback used to evaluate GPT feedback generation](dataset-of-103-postgraduate-data-science-project-proposals-with-instructor-feedback-used-t.md) - A dataset created by Wei Dai et al.
+* [Dataset of 1830 AIED articles from five major publication sources, 2010–2019](dataset-of-1830-aied-articles-from-five-major-publication-sources-20102019.md) - A dataset of 1,830 AIED research articles from five major publication venues covering 2010–2019, prepared for mapping research topics and their evolution.
 * [Dataset of 23 publicly available U.S. AI-assisted software engineering course syllabi and materials](dataset-of-23-publicly-available-us-ai-assisted-software-engineering-course-syllabi-and-ma.md) - A dataset compiled by Francis Geng et al.
 * [Dataset of 434 expert-labelled authentic learner questions augmented to balance class distributions](dataset-of-434-expert-labelled-authentic-learner-questions-augmented-to-balance-class-dist.md) - A dataset created by Lee et al.
 * [Dataset of 484 de-identified student project reports with instructor reviews collected over twelve semesters](dataset-of-484-de-identified-student-project-reports-with-instructor-reviews-collected-ove.md) - A publicly released research dataset created by Qinjin Jia et al.
@@ -491,6 +493,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [E-CLASS survey for assessing student views of experiments in physics lab courses](e-class-survey-for-assessing-student-views-of-experiments-in-physics-lab-courses.md) - E-CLASS is a pre/post survey assessment developed by physics education researchers to measure undergraduate students’ views, strategies, habits of mind, and attitudes concerning experimental physics.
 * [E-Tutor](e-tutor.md) - A web-delivered intelligent language tutoring system developed by Trude Heift for university learners of German as a foreign language, providing curriculum-aligned activities, linguistically sophisticated answer processing, learner modeling, and instructor-accessible performance records.
 * [E3Sense](e3sense.md) - E3Sense is a research platform developed by Sidharth Anupkrishnan et al.
+* [Eagle-Edu](eagle-edu.md) - Eagle-Edu is a virtual learning environment developed for creating subject-independent courses and delivering gamified assessment activities, including personalized and one-size-fits-all gamification designs.
 * [Early Childhood Ethnic Identity Interview (ECEII)](early-childhood-ethnic-identity-interview-eceii.md) - A bilingual open- and close-ended interview developed by Serrano-Villar et al.
 * [Early Childhood Longitudinal Study, Kindergarten Class of 1998-1999 (ECLS-K)](early-childhood-longitudinal-study-kindergarten-class-of-1998-1999-ecls-k.md) - ECLS-K is a nationally representative longitudinal dataset tracking children from kindergarten through elementary school, conducted by the National Center for Education Statistics within the U.S.
 * [Early College](early-college.md) - A whole-school dual-enrollment programme run through district-college partnerships that combines college-level coursework with academic, social, and transition supports for high-school students.
@@ -714,6 +717,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Generative AI Literacy Assessment Test (GLAT)](generative-ai-literacy-assessment-test-glat.md) - A 20-item multiple-choice performance assessment developed by Jin et al.
 * [Generative AI Student Feedback Literacy Scale (GenAI-SFLS)](generative-ai-student-feedback-literacy-scale-genai-sfls.md) - A 39-item Chinese-language self-report scale developed by Cui et al.
 * [GENESIS framework](genesis-framework.md) - A five-pillar framework proposed by Ahangama (2026) for guiding GenAI-era assessment reform in Australian ICT tertiary institutions at AQF levels 7–9.
+* [Genie 2](genie-2.md) - Genie 2 is an intelligent tutoring system developed by Reasoning Mind that delivers a Russian-tradition mathematics curriculum to students in grades 2–6.
 * [Geniventure](geniventure.md) - Geniventure is a game-based learning environment developed for middle- and high-school introductory genetics instruction, using virtual drakes, scaffolded challenges, hints, and interaction tracing.
 * [GeoGebra](geogebra.md) - GeoGebra is a free dynamic mathematics software platform developed and maintained by GeoGebra for interactive work across algebra, geometry, calculus, and spreadsheets.
 * [Geometry Reasoning and Proof Test (GRPT) with perception and attitude questionnaire](geometry-reasoning-and-proof-test-grpt-with-perception-and-attitude-questionnaire.md) - A study-developed assessment package combining a geometry reasoning and proof test with a five-point questionnaire measuring students’ perceptions and attitudes toward AI-supported geometry instruction.
@@ -1437,6 +1441,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [PrivacyAI](privacyai.md) - PrivacyAI is an open-source GPT-4o-mini-based pipeline released by the authors for detecting, labeling, extracting, and verifying personally identifiable information in educational text.
 * [Pro audito computer-based speechreading training (lippenlesen.ch)](pro-audito-computer-based-speechreading-training-lippenlesench.md) - A freely accessible web-based speechreading training developed by pro audito Schweiz, providing video instruction, flashcards, and exercises to practise visual speech cues and audiovisual speech comprehension in noise.
 * [Prober.ai](proberai.md) - Prober.ai is a research-logging software platform that records consented participant sessions, events, drafts, challenges, unlocks, and reflection-coaching interactions for studying learning behavior.
+* [Problem Solving Tutor](problem-solving-tutor.md) - A free web-based adaptive practice system developed by Pelánek and colleagues that recommends programming, mathematics, and logic problems according to learners' estimated skill and predicted solving time.
 * [Production-Based Learning Model](production-based-learning-model.md) - A named vocational-education instructional framework developed by the article’s authors that organizes lessons around a nine-step production cycle for solving authentic product and troubleshooting problems.
 * [Professional Learning Communities at Work (PLC at Work)](professional-learning-communities-at-work-plc-at-work.md) - Solution Tree's school-improvement programme organizes recurring cycles of educator collaboration, assessment, and targeted intervention around collective responsibility for student learning.
 * [Profy](profy.md) - Profy is a deep-learning automated pronunciation-feedback system developed by Kazuki Kawamura that evaluates learner speech against native-speaker data and highlights localized deviations for imitation-based skill practice.
@@ -2048,6 +2053,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Way2Work Maryland](way2work-maryland.md) - A U.S.
 * [Wayang Outpost](wayang-outpost.md) - Wayang Outpost is an intelligent tutoring system for middle- and high-school mathematics developed to provide adaptive practice, tutoring, and motivational support.
 * [Wayang Outpost / MathSpring multimedia mathematics tutoring system](wayang-outpost-mathspring-multimedia-mathematics-tutoring-system.md) - A multimedia intelligent tutoring system for middle- and high-school mathematics that provides worked examples, practice problems, adaptive difficulty, hints, affective learning companions, and teacher progress reporting.
+* [Web xPST](web-xpst.md) - Web xPST is a web-based authoring and delivery environment developed by Stephen B.
 * [Web-based GAI chatbot with instructor-facing learning analytics dashboard](web-based-gai-chatbot-with-instructor-facing-learning-analytics-dashboard.md) - A login-based web application built with OpenAI's Assistants API that provides course-specific Socratic tutoring and instructors with dashboards for analyzing student conversations and engagement.
 * [Web-based multiplication practice program dataset of 469 multidigit problems](web-based-multiplication-practice-program-dataset-of-469-multidigit-problems.md) - A large-scale corpus of primary-school children's logged solutions to 469 multidigit multiplication problems collected through a web-based practice program and used for item-difficulty analysis.
 * [Weights simulation tool for Texas community college funding scenarios](weights-simulation-tool-for-texas-community-college-funding-scenarios.md) - A simulation tool developed by REL Southwest with the Texas Higher Education Coordinating Board to model community-college funding scenarios and project adequate spending levels based on student-need and institutional factors.
@@ -2090,6 +2096,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 
 #### X {: #letter-x }
 
+* [xPST](xpst.md) - xPST is an authoring system and tutor engine developed by Stephen B.
 * [Xtreme Reading](xtreme-reading.md) - Xtreme Reading is a structured supplemental curriculum for struggling adolescent readers, derived from the University of Kansas Strategic Instruction Model and delivered through trained teachers using prescribed strategy lessons and materials.
 
 #### Y {: #letter-y }

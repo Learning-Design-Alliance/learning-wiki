@@ -73,3 +73,4 @@ Negative-perceptions sub-theme from thematic analysis of interviews with 10 trai
 - [Four current challenges impede AI literacy implementation: inconsistent policies, uneven knowledge, resistance, and cost barriers](four-challenges-ai-literacy-implementation.md) — related
 - [Institutional guidance cautions instructors about privacy (60% of institutions) while syllabi more often flag veracity of GenAI output and hindering learning](concerns-privacy-institutional-veracity-syllabi.md) — related
 - [Barriers to seamless GenAI integration include limited accessibility, insufficient bias mitigation, and tool availability prioritized over curriculum alignment](genai-integration-barriers-accessibility-bias-alignment.md) — related
+- [AIED criticism is largely application-specific rather than opposition to all AI in education](aied-criticism-application-specific.md) — related

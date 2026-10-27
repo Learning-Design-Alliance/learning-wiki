@@ -34,7 +34,8 @@ The article applies a multivariate joint model under the generalized linear mixe
 - [Scores from a different subject test can serve as collateral information: mathematics scores can improve reading item parameter estimation and vice versa](../claims/cross-test-scores-as-collateral-information.md) [+W]
 
 ## Related Research Methods
--
+
+- [Log-linear model of problem solving times analogical to the IRT three-parameter model](log-linear-model-of-problem-solving-times-analogical-to-the-irt-three-parameter-model.md)
 
 ## Key Sources
 - Wang, S., & Jiao, H. (2011). Incorporating Person Covariates and Response Times as Collateral Information to Improve Person and Item Parameter Estimations. Paper presented at the annual meeting of the National Council on Measurement in Education, New Orleans, LA. https://www.nwea.org/research/publication/incorporating-person-covariates-and-response-times-as-collateral-information-to-improve-person-and-item-parameter-estimations/

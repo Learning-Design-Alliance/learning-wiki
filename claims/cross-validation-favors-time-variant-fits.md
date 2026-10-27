@@ -67,3 +67,4 @@ Same cross-validated comparison at the group, by-learner, and by-practice-trial 
 - [Allowing ACT-R memory parameters to vary with the between-session interval produces a strong fit between model and recall data across timescales](time-variant-parameters-capture-retention-across-timescales.md) — related
 - [Extrapolating from parameters fitted to a restricted range of between-session intervals produces worse predictions than time-variant fits](restricted-range-fits-extrapolate-poorly.md) — related
 - [Optimal ACT-R parameter values change systematically and predictably with the length of the between-session interval](parameters-vary-systematically-with-interval.md) — related
+- [Split-half stability analysis shows fitted learning-rate parameters are meaningful, with Spearman correlations between 0.5 and 0.7 across independent data halves](split-half-learning-rate-stability.md) — related

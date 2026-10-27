@@ -31,7 +31,7 @@ sources:
 # Flexible Grouping
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 38 claims (18 for, 17 mixed, 3 against) · 43 studies (13 causal, 11 quant-synthesis, 9 review, 3 associational, 3 qualitative, 3 theoretical, 1 design), `q1`–`q4` · 9 of 43 report an effect size · 27 claims rest on one study
+> **Evidence** · 39 claims (19 for, 17 mixed, 3 against) · 44 studies (13 causal, 11 quant-synthesis, 9 review, 3 associational, 3 qualitative, 3 theoretical, 2 design), `q1`–`q4` · 9 of 44 report an effect size · 28 claims rest on one study
 
 ## Conditional relationship
 
@@ -165,6 +165,7 @@ Claims bearing on group work that this page did not cite before, read only for t
 - [Prior Achievement Affects Conceptual Understanding](../claims/prior-achievement-affects-conceptual-understanding.md) [+M]
 - [In one flipped calculus study, teaching method (peer-teaching versus conventional flipped classroom) and prior achievement level interact on self-efficacy](../claims/method-achievement-interaction-self-efficacy.md) [+W]
 - [In one flipped calculus study, prior achievement level had no significant main effect on self-efficacy, although it interacted with teaching method](../claims/prior-achievement-null-self-efficacy.md) [~W]
+- [Across 11 modules of one ALEKS Algebra 1 class, the within-module grouping method obtained more favorable outer-fringe overlap metrics than random grouping and grouping by course score, on average](../claims/within-module-grouping-beats-random-and-score-metrics.md) [+W] — attached 2026-10-27 from Lechuga et al. (2023), which proposed "Use multidimensional learning data from personalized tutoring systems to form student groups with content recommendations, bridging personalized instruction and classroom pedagogy".
 
 ## Objective and learner-valued goal
 

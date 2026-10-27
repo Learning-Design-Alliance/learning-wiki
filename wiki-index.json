@@ -1,16 +1,16 @@
 {
 "counts":{
-"claim":30865,
-"design":1132,
+"claim":30955,
+"design":1135,
 "element":1057,
 "learner-variable":75,
 "method":37,
 "pattern":54,
 "principle":170,
 "process":18,
-"product":2066,
-"research-method":716,
-"strategy":7087,
+"product":2073,
+"research-method":724,
+"strategy":7091,
 "theory":1360
 },
 "kinds":[
@@ -4239,6 +4239,16 @@
 "type":"claim"
 },
 {
+"description":"Accessibility and complexity dimensions show the lowest portability restrictions among surveyed student models, while popularity and architecture show the highest.",
+"evidence_strength":"weak",
+"id":"accessibility-complexity-lowest-restrictions-architecture-popularity-highest",
+"newest_evidence":"2016",
+"path":"claims/accessibility-complexity-lowest-restrictions-architecture-popularity-highest.md",
+"status":"review",
+"title":"Accessibility and complexity dimensions show the lowest portability restrictions among surveyed student models, while popularity and architecture show the highest.",
+"type":"claim"
+},
+{
 "description":"Anterior cingulate gyrus specializes in other-referenced social valuation and prediction errors, dissociable from the sulcus",
 "evidence_strength":"moderate",
 "id":"accg-other-referenced-prediction-error-dissociation",
@@ -6006,6 +6016,16 @@
 "recheck_by":"2031",
 "status":"review",
 "title":"Activity-Technology alignment is the weakest quality dimension across all agents (mean = 2.19), identifying technology integration as a universal challenge",
+"type":"claim"
+},
+{
+"description":"The Low-Agency condition produced a significantly different mix of preparatory activities than the High-Agency condition",
+"evidence_strength":"moderate",
+"id":"activity-type-differences-between-conditions",
+"newest_evidence":"2019",
+"path":"claims/activity-type-differences-between-conditions.md",
+"status":"review",
+"title":"The Low-Agency condition produced a significantly different mix of preparatory activities than the High-Agency condition",
 "type":"claim"
 },
 {
@@ -9171,6 +9191,16 @@
 "path":"claims/affect-preference-link-dissociates-with-age.md",
 "status":"review",
 "title":"The link between children's affect index and their subsequent collaboration preferences varied with age, with the two proxies for social motivation becoming dissociated in older children",
+"type":"claim"
+},
+{
+"description":"Affective states shifted over tutor usage: confusion decreased while engaged concentration and boredom increased",
+"evidence_strength":"moderate",
+"id":"affect-shifts-over-tutor-usage",
+"newest_evidence":"2014",
+"path":"claims/affect-shifts-over-tutor-usage.md",
+"status":"review",
+"title":"Affective states shifted over tutor usage: confusion decreased while engaged concentration and boredom increased",
 "type":"claim"
 },
 {
@@ -17283,6 +17313,16 @@
 "type":"claim"
 },
 {
+"description":"AIED criticism is largely application-specific rather than opposition to all AI in education",
+"evidence_strength":"weak",
+"id":"aied-criticism-application-specific",
+"newest_evidence":"2023",
+"path":"claims/aied-criticism-application-specific.md",
+"status":"review",
+"title":"AIED criticism is largely application-specific rather than opposition to all AI in education",
+"type":"claim"
+},
+{
 "description":"Ethics discussions in AIED are largely consequentialist, specifically utilitarian, in nature",
 "evidence_strength":"weak",
 "id":"aied-ethics-consequentialist-utilitarian",
@@ -17300,6 +17340,36 @@
 "path":"claims/aied-global-south-special-issue-ten-reviewed-papers.md",
 "status":"review",
 "title":"The special issue on AIED in the Global South features 10 papers reviewed according to journal standards",
+"type":"claim"
+},
+{
+"description":"AIED harms are relational, arising from datafication reductions and falling hardest on less privileged groups",
+"evidence_strength":"weak",
+"id":"aied-harms-relational-differential",
+"newest_evidence":"2023",
+"path":"claims/aied-harms-relational-differential.md",
+"status":"review",
+"title":"AIED harms are relational, arising from datafication reductions and falling hardest on less privileged groups",
+"type":"claim"
+},
+{
+"description":"Hub keywords in the AIED KCN show disassortative tendencies: popular keywords connect with less popular ones and vice versa",
+"evidence_strength":"moderate",
+"id":"aied-kcn-disassortative-attachment-pattern",
+"newest_evidence":"2021",
+"path":"claims/aied-kcn-disassortative-attachment-pattern.md",
+"status":"review",
+"title":"Hub keywords in the AIED KCN show disassortative tendencies: popular keywords connect with less popular ones and vice versa",
+"type":"claim"
+},
+{
+"description":"The AIED keyword co-occurrence network has a hierarchical structure with a few widely studied hub keywords bridging diverse research topics",
+"evidence_strength":"moderate",
+"id":"aied-kcn-hierarchical-hub-structure",
+"newest_evidence":"2021",
+"path":"claims/aied-kcn-hierarchical-hub-structure.md",
+"status":"review",
+"title":"The AIED keyword co-occurrence network has a hierarchical structure with a few widely studied hub keywords bridging diverse research topics",
 "type":"claim"
 },
 {
@@ -17383,6 +17453,16 @@
 "type":"claim"
 },
 {
+"description":"Seven prominent educational foci of AIED research, 2010–2019: online learning, game-based learning, collaborative learning, assessment, affect, engagement, learning design",
+"evidence_strength":"moderate",
+"id":"aied-seven-educational-foci",
+"newest_evidence":"2021",
+"path":"claims/aied-seven-educational-foci.md",
+"status":"review",
+"title":"Seven prominent educational foci of AIED research, 2010–2019: online learning, game-based learning, collaborative learning, assessment, affect, engagement, learning design",
+"type":"claim"
+},
+{
 "description":"The field moved toward step-based problem solving and increased support for collaboration, while focusing on domain-level knowledge",
 "evidence_strength":"moderate",
 "id":"aied-step-based-domain-focus-collaboration-growth",
@@ -17390,6 +17470,26 @@
 "path":"claims/aied-step-based-domain-focus-collaboration-growth.md",
 "status":"review",
 "title":"The field moved toward step-based problem solving and increased support for collaboration, while focusing on domain-level knowledge",
+"type":"claim"
+},
+{
+"description":"Neural network, deep learning, eye tracking and personalized learning are trending AIED keywords emerging with key structural roles in the latest period",
+"evidence_strength":"moderate",
+"id":"aied-trending-keywords-2018-2019",
+"newest_evidence":"2021",
+"path":"claims/aied-trending-keywords-2018-2019.md",
+"status":"review",
+"title":"Neural network, deep learning, eye tracking and personalized learning are trending AIED keywords emerging with key structural roles in the latest period",
+"type":"claim"
+},
+{
+"description":"AIED research centers on two sustained themes: intelligent tutoring systems (2010–19) and massive open online courses (since 2014)",
+"evidence_strength":"moderate",
+"id":"aied-two-sustained-themes-its-mooc",
+"newest_evidence":"2021",
+"path":"claims/aied-two-sustained-themes-its-mooc.md",
+"status":"review",
+"title":"AIED research centers on two sustained themes: intelligent tutoring systems (2010–19) and massive open online courses (since 2014)",
 "type":"claim"
 },
 {
@@ -23616,6 +23716,46 @@
 "type":"claim"
 },
 {
+"description":"Assertions significantly increase unsolicited hint usage (justification and needed rates) over Messages for students regardless of prior proficiency",
+"evidence_strength":"moderate",
+"id":"assertions-increase-unsolicited-hint-usage",
+"newest_evidence":"2020",
+"path":"claims/assertions-increase-unsolicited-hint-usage.md",
+"status":"review",
+"title":"Assertions significantly increase unsolicited hint usage (justification and needed rates) over Messages for students regardless of prior proficiency",
+"type":"claim"
+},
+{
+"description":"Assertions led low prior proficiency students to complete the posttest significantly faster than Messages",
+"evidence_strength":"moderate",
+"id":"assertions-low-proficiency-faster-posttest",
+"newest_evidence":"2020",
+"path":"claims/assertions-low-proficiency-faster-posttest.md",
+"status":"review",
+"title":"Assertions led low prior proficiency students to complete the posttest significantly faster than Messages",
+"type":"claim"
+},
+{
+"description":"Aptitude-treatment interaction: Assertions led low prior proficiency students to form significantly shorter posttest proofs than Messages",
+"evidence_strength":"moderate",
+"id":"assertions-low-proficiency-shorter-posttest-proofs",
+"newest_evidence":"2020",
+"path":"claims/assertions-low-proficiency-shorter-posttest-proofs.md",
+"status":"review",
+"title":"Aptitude-treatment interaction: Assertions led low prior proficiency students to form significantly shorter posttest proofs than Messages",
+"type":"claim"
+},
+{
+"description":"The Assertions condition delivered significantly more unsolicited hints than the Messages condition during training",
+"evidence_strength":"weak",
+"id":"assertions-more-hints-given-than-messages",
+"newest_evidence":"2020",
+"path":"claims/assertions-more-hints-given-than-messages.md",
+"status":"review",
+"title":"The Assertions condition delivered significantly more unsolicited hints than the Messages condition during training",
+"type":"claim"
+},
+{
 "description":"Assessing AI feedback within PAIRR helped students develop AI literacy and writerly agency, with very few showing overconfidence in AI",
 "evidence_strength":"moderate",
 "id":"assessing-ai-feedback-builds-ai-literacy-and-agency",
@@ -27241,6 +27381,7 @@
 "id":"awa-lacks-sensitivity-linguistic-nuance",
 "newest_evidence":"2016",
 "path":"claims/awa-lacks-sensitivity-linguistic-nuance.md",
+"source_checked":"2026-10-27",
 "status":"review",
 "title":"Students identified lack of sensitivity to linguistic nuance as a limitation of AWA feedback",
 "type":"claim"
@@ -28983,6 +29124,26 @@
 "path":"claims/bedtime-routine-interventions-improve-maternal-and-family-outcomes.md",
 "status":"review",
 "title":"Bedtime routine interventions improved maternal mood, maternal confidence, and, in one study, marital satisfaction, beyond child sleep outcomes",
+"type":"claim"
+},
+{
+"description":"Dynamically generated natural-language feedback was not demonstrated to be superior to a non-NLP feedback condition that told students the answer",
+"evidence_strength":"moderate",
+"id":"beetle-ii-elicit-vs-tell-no-superiority",
+"newest_evidence":"2014",
+"path":"claims/beetle-ii-elicit-vs-tell-no-superiority.md",
+"status":"review",
+"title":"Dynamically generated natural-language feedback was not demonstrated to be superior to a non-NLP feedback condition that told students the answer",
+"type":"claim"
+},
+{
+"description":"The BEETLE II curriculum produces large pre- to post-test learning gains relative to a no-training control group (effect size 1.72)",
+"evidence_strength":"moderate",
+"id":"beetle-ii-large-learning-gains-vs-control",
+"newest_evidence":"2014",
+"path":"claims/beetle-ii-large-learning-gains-vs-control.md",
+"status":"review",
+"title":"The BEETLE II curriculum produces large pre- to post-test learning gains relative to a no-training control group (effect size 1.72)",
 "type":"claim"
 },
 {
@@ -37515,6 +37676,46 @@
 "path":"claims/carelessness-23-percent-spelling-errors.md",
 "status":"review",
 "title":"Carelessness accounts for 23 per cent of spelling errors in college students' written themes",
+"type":"claim"
+},
+{
+"description":"Carelessness detectors trained on Philippine students generalize to USA students without re-fitting",
+"evidence_strength":"moderate",
+"id":"carelessness-detector-cross-country-generalizability",
+"newest_evidence":"2014",
+"path":"claims/carelessness-detector-cross-country-generalizability.md",
+"status":"review",
+"title":"Carelessness detectors trained on Philippine students generalize to USA students without re-fitting",
+"type":"claim"
+},
+{
+"description":"Carelessness is negatively correlated with boredom in both tutor conditions",
+"evidence_strength":"moderate",
+"id":"carelessness-negative-boredom",
+"newest_evidence":"2014",
+"path":"claims/carelessness-negative-boredom.md",
+"status":"review",
+"title":"Carelessness is negatively correlated with boredom in both tutor conditions",
+"type":"claim"
+},
+{
+"description":"Carelessness is negatively correlated with confusion in both tutor conditions",
+"evidence_strength":"moderate",
+"id":"carelessness-negative-confusion",
+"newest_evidence":"2014",
+"path":"claims/carelessness-negative-confusion.md",
+"status":"review",
+"title":"Carelessness is negatively correlated with confusion in both tutor conditions",
+"type":"claim"
+},
+{
+"description":"Carelessness is positively correlated with engaged concentration in both tutor conditions",
+"evidence_strength":"moderate",
+"id":"carelessness-positive-engaged-concentration",
+"newest_evidence":"2014",
+"path":"claims/carelessness-positive-engaged-concentration.md",
+"status":"review",
+"title":"Carelessness is positively correlated with engaged concentration in both tutor conditions",
 "type":"claim"
 },
 {
@@ -46401,6 +46602,16 @@
 "type":"claim"
 },
 {
+"description":"Classification was weakest for the Determining What Students Know lesson, where zero-shot learning scored F1 0.66 and AUC 0.668",
+"evidence_strength":"moderate",
+"id":"classification-weakest-determining-students-know",
+"newest_evidence":"2024",
+"path":"claims/classification-weakest-determining-students-know.md",
+"status":"review",
+"title":"Classification was weakest for the Determining What Students Know lesson, where zero-shot learning scored F1 0.66 and AUC 0.668",
+"type":"claim"
+},
+{
 "description":"Classification accuracy correlated with student performance: the classifier was more accurate on questions with more high-quality answers and less accurate where students struggled",
 "evidence_strength":"weak",
 "id":"classifier-accuracy-correlates-with-student-performance",
@@ -51019,6 +51230,16 @@
 "path":"claims/collaboration-enhances-intuitive-knowledge.md",
 "status":"review",
 "title":"Collaborative learners outperform individuals on intuitive knowledge, indicating collaboration rather than representation construction drives the advantage",
+"type":"claim"
+},
+{
+"description":"Collaborative classroom practice in Costa Rica may explain why help-seeking models fail to transfer there",
+"evidence_strength":"weak",
+"id":"collaboration-explains-costa-rica-divergence",
+"newest_evidence":"2015",
+"path":"claims/collaboration-explains-costa-rica-divergence.md",
+"status":"review",
+"title":"Collaborative classroom practice in Costa Rica may explain why help-seeking models fail to transfer there",
 "type":"claim"
 },
 {
@@ -57288,6 +57509,16 @@
 "source_checked":"2026-10-17",
 "status":"review",
 "title":"A constrained architecture combining prerequisite enforcement and a minimum cognitive-demand floor substantially reduces reward hacking, lowering RHSI from 0.317 (MO) to 0.102 (ST)",
+"type":"claim"
+},
+{
+"description":"The constraint-based tutoring paradigm is feasible only for domains in which the solution itself is rich in information, whereas model tracing has no such restriction",
+"evidence_strength":"weak",
+"id":"constraint-based-tutoring-requires-information-rich-solutions",
+"newest_evidence":"2005",
+"path":"claims/constraint-based-tutoring-requires-information-rich-solutions.md",
+"status":"review",
+"title":"The constraint-based tutoring paradigm is feasible only for domains in which the solution itself is rich in information, whereas model tracing has no such restriction",
 "type":"claim"
 },
 {
@@ -64888,6 +65119,16 @@
 "type":"claim"
 },
 {
+"description":"Students at all three international sites showed significant pre-test to post-test learning gains with the Scatterplot Tutor",
+"evidence_strength":"moderate",
+"id":"cross-cultural-tutor-learning-gains-all-sites",
+"newest_evidence":"2015",
+"path":"claims/cross-cultural-tutor-learning-gains-all-sites.md",
+"status":"review",
+"title":"Students at all three international sites showed significant pre-test to post-test learning gains with the Scatterplot Tutor",
+"type":"claim"
+},
+{
 "description":"Lab-trained mind wandering detectors generalize to in-the-wild lecture viewing across task, setting, and cultural group, with BiLSTM on latent features reaching F1 = 0.352",
 "evidence_strength":"moderate",
 "id":"cross-dataset-generalization-mind-wandering-detection",
@@ -70147,6 +70388,26 @@
 "type":"claim"
 },
 {
+"description":"Debating freely before re-analysing the debate as a diagram was more beneficial than concurrent discussion and diagram co-creation",
+"evidence_strength":"weak",
+"id":"debate-then-diagram-sequencing-beneficial",
+"newest_evidence":"2015",
+"path":"claims/debate-then-diagram-sequencing-beneficial.md",
+"status":"review",
+"title":"Debating freely before re-analysing the debate as a diagram was more beneficial than concurrent discussion and diagram co-creation",
+"type":"claim"
+},
+{
+"description":"Effects of pedagogical debate on students' viewpoints differ between scientific and socio-scientific domains",
+"evidence_strength":"weak",
+"id":"debate-viewpoint-change-domain-differentiated",
+"newest_evidence":"2015",
+"path":"claims/debate-viewpoint-change-domain-differentiated.md",
+"status":"review",
+"title":"Effects of pedagogical debate on students' viewpoints differ between scientific and socio-scientific domains",
+"type":"claim"
+},
+{
 "description":"DeBERTa achieved the highest overall accuracy (86.36%) among the evaluated NLP models for classifying learner-generated questions, yet struggled with contextual nuances in complex queries",
 "evidence_strength":"moderate",
 "id":"deberta-highest-accuracy-86-36-learner-question-classification",
@@ -70963,6 +71224,16 @@
 "recheck_by":"2029",
 "status":"review",
 "title":"Under defense-in-depth, all 171 multi-layer bypass events are rated severity S0 (no impact) because the tutor system prompt and provider filter absorbed residual leakage",
+"type":"claim"
+},
+{
+"description":"Deferring difficult question-answer pairs to humans raises grading accuracy, with 62% of samples classified at 92% accuracy",
+"evidence_strength":"moderate",
+"id":"deferring-difficult-answers-raises-accuracy-92-percent",
+"newest_evidence":"2023",
+"path":"claims/deferring-difficult-answers-raises-accuracy-92-percent.md",
+"status":"review",
+"title":"Deferring difficult question-answer pairs to humans raises grading accuracy, with 62% of samples classified at 92% accuracy",
 "type":"claim"
 },
 {
@@ -79272,6 +79543,16 @@
 "type":"claim"
 },
 {
+"description":"Domain independence is a desirable trait for user model sharing, but defining a domain is subjective and is decided by the creator of each tutoring system.",
+"evidence_strength":"weak",
+"id":"domain-independence-desirable-but-subjectively-defined",
+"newest_evidence":"2016",
+"path":"claims/domain-independence-desirable-but-subjectively-defined.md",
+"status":"review",
+"title":"Domain independence is a desirable trait for user model sharing, but defining a domain is subjective and is decided by the creator of each tutoring system.",
+"type":"claim"
+},
+{
 "description":"Students' Domain interest increased largely across a short introductory teaching course (Cohen's d = 2.07).",
 "evidence_strength":"moderate",
 "id":"domain-interest-large-increase-short-course",
@@ -82690,6 +82971,16 @@
 "type":"claim"
 },
 {
+"description":"Early AI pioneers were cognitive scientists directly invested in education research, not merely AI researchers whose tools were later applied to education",
+"evidence_strength":"weak",
+"id":"early-ai-pioneers-invested-in-education",
+"newest_evidence":"2022",
+"path":"claims/early-ai-pioneers-invested-in-education.md",
+"status":"review",
+"title":"Early AI pioneers were cognitive scientists directly invested in education research, not merely AI researchers whose tools were later applied to education",
+"type":"claim"
+},
+{
 "description":"Greater early-project misalignment in partners' perceptions of each other's AI use is associated with lower final project scores",
 "evidence_strength":"moderate",
 "id":"early-ai-use-perception-misalignment-lower-team-scores",
@@ -84880,6 +85171,16 @@
 "path":"claims/editorial-wikiglass-teacher-student-interplay.md",
 "status":"review",
 "title":"Review reports the Wikiglass learning analytics tool study shows interplay between teacher and student use of the tool",
+"type":"claim"
+},
+{
+"description":"Educational data mining keywords redistribute across new clusters over time, showing evolving specialization in AIED",
+"evidence_strength":"weak",
+"id":"edm-keywords-redistribute-across-clusters",
+"newest_evidence":"2021",
+"path":"claims/edm-keywords-redistribute-across-clusters.md",
+"status":"review",
+"title":"Educational data mining keywords redistribute across new clusters over time, showing evolving specialization in AIED",
 "type":"claim"
 },
 {
@@ -105297,6 +105598,16 @@
 "type":"claim"
 },
 {
+"description":"Few-shot learning with increasing shots generally improves GPT-4 classification performance, with the 5-shot variant strongest for Reacting to Errors (F1 0.867, AUC 0.866, TNR 0.83)",
+"evidence_strength":"moderate",
+"id":"few-shot-shots-improve-classification",
+"newest_evidence":"2024",
+"path":"claims/few-shot-shots-improve-classification.md",
+"status":"review",
+"title":"Few-shot learning with increasing shots generally improves GPT-4 classification performance, with the 5-shot variant strongest for Reacting to Errors (F1 0.867, AUC 0.866, TNR 0.83)",
+"type":"claim"
+},
+{
 "description":"Few SIG schools with high ELL enrollments used staffing strategies to build teacher capacity for serving ELLs",
 "evidence_strength":"moderate",
 "id":"few-sig-schools-staffing-strategies-ell-teacher-capacity",
@@ -106725,6 +107036,16 @@
 "recheck_by":"2029",
 "status":"review",
 "title":"Fine-tuned 8B LLMs generate K-2 stories with difficulty-related metric scores statistically significantly different from (mostly better than) zero-shot GPT-4o and Llama 3.3 70B",
+"type":"claim"
+},
+{
+"description":"Fine-tuned LaBSE achieves about 86.5% accuracy classifying all answers as correct or incorrect on a large multilingual dataset",
+"evidence_strength":"moderate",
+"id":"finetuned-labse-86-5-percent-autograding-accuracy",
+"newest_evidence":"2023",
+"path":"claims/finetuned-labse-86-5-percent-autograding-accuracy.md",
+"status":"review",
+"title":"Fine-tuned LaBSE achieves about 86.5% accuracy classifying all answers as correct or incorrect on a large multilingual dataset",
 "type":"claim"
 },
 {
@@ -114060,6 +114381,16 @@
 "type":"claim"
 },
 {
+"description":"Preferred game genre (adventure) and preferred playing setting (singleplayer) moderated personalization's effect, in both cases in favor of OSFA",
+"evidence_strength":"weak",
+"id":"game-genre-setting-moderate-personalization",
+"newest_evidence":"2023",
+"path":"claims/game-genre-setting-moderate-personalization.md",
+"status":"review",
+"title":"Preferred game genre (adventure) and preferred playing setting (singleplayer) moderated personalization's effect, in both cases in favor of OSFA",
+"type":"claim"
+},
+{
 "description":"In a randomised trial, undergraduates who played commercial video games for about 14 hours over eight weeks rated themselves higher than controls on self-report scales of communication, adaptability and resourcefulness; the skills themselves were not directly assessed",
 "evidence_strength":"moderate",
 "id":"game-intervention-gains-all-three-graduate-skills",
@@ -119183,6 +119514,16 @@
 "type":"claim"
 },
 {
+"description":"Personalization's motivational effect was positive for females, with no such difference among males",
+"evidence_strength":"weak",
+"id":"gender-moderates-personalization-amotivation",
+"newest_evidence":"2023",
+"path":"claims/gender-moderates-personalization-amotivation.md",
+"status":"review",
+"title":"Personalization's motivational effect was positive for females, with no such difference among males",
+"type":"claim"
+},
+{
 "description":"The effects of thoughtless GenAI use on motivation, self-efficacy, and self-directed learning differ significantly by gender",
 "evidence_strength":"moderate",
 "id":"gender-moderates-tuga-effects",
@@ -120300,6 +120641,26 @@
 "path":"claims/genetic-stability-persists-controlling-for-g.md",
 "status":"review",
 "title":"Genetic stability of educational achievement persists after controlling for general cognitive ability (g), with genetic factors explaining about 60% of stability",
+"type":"claim"
+},
+{
+"description":"Genie 2 achieved large-scale adoption, with around 67,000 United States students participating in the 2012–2013 school year",
+"evidence_strength":"moderate",
+"id":"genie2-67000-us-students-2012-2013",
+"newest_evidence":"2014",
+"path":"claims/genie2-67000-us-students-2012-2013.md",
+"status":"review",
+"title":"Genie 2 achieved large-scale adoption, with around 67,000 United States students participating in the 2012–2013 school year",
+"type":"claim"
+},
+{
+"description":"Previously published work associates Genie 2 with high acceptance, test-score increases over business-as-usual, high time on task, and a positive affective profile",
+"evidence_strength":"weak",
+"id":"genie2-previously-published-outcomes",
+"newest_evidence":"2014",
+"path":"claims/genie2-previously-published-outcomes.md",
+"status":"review",
+"title":"Previously published work associates Genie 2 with high acceptance, test-score increases over business-as-usual, high time on task, and a positive affective profile",
 "type":"claim"
 },
 {
@@ -122674,6 +123035,7 @@
 "newest_evidence":"2024",
 "path":"claims/gpt-4o-final-turn-correctness-labeling-is-close-to-human-level.md",
 "recheck_by":"2027",
+"source_checked":"2026-10-27",
 "status":"review",
 "title":"GPT-4o's final-turn correctness labeling on CoMTA is only slightly less accurate than expert human annotators, which the authors read as close to human-level performance on a challenging task.",
 "type":"claim"
@@ -123094,6 +123456,16 @@
 "type":"claim"
 },
 {
+"description":"A GPT-4 few-shot binary classifier effectively identifies correct/incorrect trainee responses across three tutor-training lessons, with average F1 of 0.84 and AUC of 0.85",
+"evidence_strength":"moderate",
+"id":"gpt4-few-shot-classifies-trainee-responses",
+"newest_evidence":"2024",
+"path":"claims/gpt4-few-shot-classifies-trainee-responses.md",
+"status":"review",
+"title":"A GPT-4 few-shot binary classifier effectively identifies correct/incorrect trainee responses across three tutor-training lessons, with average F1 of 0.84 and AUC of 0.85",
+"type":"claim"
+},
+{
 "description":"GPT-4 achieves high recall (average 0.958) but low precision (average 0.526) when de-identifying MOOC forum posts",
 "evidence_strength":"moderate",
 "id":"gpt4-high-recall-low-precision-pii-redaction",
@@ -123198,6 +123570,36 @@
 "source_checked":"2026-10-20",
 "status":"review",
 "title":"GPT-4 de-identification performance varies by course, with lower agreement in courses with longer posts and more qualitative discussion",
+"type":"claim"
+},
+{
+"description":"For the Giving Effective Praise lesson, GPT-4-rephrased responses were rated significantly more accurate than human-expert rephrasings (p < 0.001), with no significant difference in responsiveness",
+"evidence_strength":"moderate",
+"id":"gpt4-rephrasing-more-accurate-than-humans-praise",
+"newest_evidence":"2024",
+"path":"claims/gpt4-rephrasing-more-accurate-than-humans-praise.md",
+"status":"review",
+"title":"For the Giving Effective Praise lesson, GPT-4-rephrased responses were rated significantly more accurate than human-expert rephrasings (p < 0.001), with no significant difference in responsiveness",
+"type":"claim"
+},
+{
+"description":"For Determining What Students Know, no significant difference in accuracy or responsiveness was found between GPT-4 and human rephrasings",
+"evidence_strength":"moderate",
+"id":"gpt4-rephrasing-no-difference-determining-students-know",
+"newest_evidence":"2024",
+"path":"claims/gpt4-rephrasing-no-difference-determining-students-know.md",
+"status":"review",
+"title":"For Determining What Students Know, no significant difference in accuracy or responsiveness was found between GPT-4 and human rephrasings",
+"type":"claim"
+},
+{
+"description":"For Reacting to Errors, GPT-4 rephrasings were rated more accurate than human rephrasings (few-shot p < 0.01, zero-shot p < 0.05) with no significant responsiveness difference",
+"evidence_strength":"moderate",
+"id":"gpt4-rephrasing-reacting-to-errors-accuracy",
+"newest_evidence":"2024",
+"path":"claims/gpt4-rephrasing-reacting-to-errors-accuracy.md",
+"status":"review",
+"title":"For Reacting to Errors, GPT-4 rephrasings were rated more accurate than human rephrasings (few-shot p < 0.01, zero-shot p < 0.05) with no significant responsiveness difference",
 "type":"claim"
 },
 {
@@ -124006,6 +124408,16 @@
 "recheck_by":"2029",
 "status":"review",
 "title":"Graded Exemplars Shift an LLM Grader by the Level They Are Marked At",
+"type":"claim"
+},
+{
+"description":"Of the student models surveyed from 2013-2014 AIED, EDM and ITS conferences, 53% have low or mid portability restrictions.",
+"evidence_strength":"weak",
+"id":"graded-portability-of-70-student-models-2013-2014",
+"newest_evidence":"2016",
+"path":"claims/graded-portability-of-70-student-models-2013-2014.md",
+"status":"review",
+"title":"Of the student models surveyed from 2013-2014 AIED, EDM and ITS conferences, 53% have low or mid portability restrictions.",
 "type":"claim"
 },
 {
@@ -125330,6 +125742,16 @@
 "recheck_by":"2017",
 "status":"review",
 "title":"Group interaction profiles differed: Groups D and E favored generative actions while Group B's interaction was predominantly regulative",
+"type":"claim"
+},
+{
+"description":"The time model has group invariance, so it captures problem difficulty without the selection bias that biases mean solving times",
+"evidence_strength":"moderate",
+"id":"group-invariance-time-model-difficulty",
+"newest_evidence":"2015",
+"path":"claims/group-invariance-time-model-difficulty.md",
+"status":"review",
+"title":"The time model has group invariance, so it captures problem difficulty without the selection bias that biases mean solving times",
 "type":"claim"
 },
 {
@@ -127020,6 +127442,16 @@
 "type":"claim"
 },
 {
+"description":"Generic User Modeling Systems (GUMS) work for models that act as repositories of information but not for models that emulate behaviours.",
+"evidence_strength":"weak",
+"id":"gums-viable-repositories-not-behaviour-models",
+"newest_evidence":"2016",
+"path":"claims/gums-viable-repositories-not-behaviour-models.md",
+"status":"review",
+"title":"Generic User Modeling Systems (GUMS) work for models that act as repositories of information but not for models that emulate behaviours.",
+"type":"claim"
+},
+{
 "description":"Politically charged framing (gun control ban) makes responses to the same data politically polarized and less accurate",
 "evidence_strength":"moderate",
 "id":"gun-control-framing-polarizes-and-reduces-accuracy",
@@ -128692,6 +129124,16 @@
 "type":"claim"
 },
 {
+"description":"Help abuse is negatively associated with learning in both the Philippines and United States datasets",
+"evidence_strength":"moderate",
+"id":"help-abuse-negative-philippines-us",
+"newest_evidence":"2015",
+"path":"claims/help-abuse-negative-philippines-us.md",
+"status":"review",
+"title":"Help abuse is negatively associated with learning in both the Philippines and United States datasets",
+"type":"claim"
+},
+{
 "description":"Understanding of Help Avoidance is evolving: persistence may beat help at low mastery, yet Help Avoidance predicted poorer transfer performance",
 "evidence_strength":"mixed",
 "id":"help-avoidance-understanding-evolving",
@@ -128760,6 +129202,16 @@
 "path":"claims/help-seeking-less-frequent-than-withholding.md",
 "status":"review",
 "title":"Participants seek help less often than they withhold answers when both strategies are available or compared across conditions",
+"type":"claim"
+},
+{
+"description":"Help-seeking models transfer above chance across sites but perform poorly on the Costa Rican data",
+"evidence_strength":"mixed",
+"id":"help-seeking-model-transfer-mixed",
+"newest_evidence":"2015",
+"path":"claims/help-seeking-model-transfer-mixed.md",
+"status":"review",
+"title":"Help-seeking models transfer above chance across sites but perform poorly on the Costa Rican data",
 "type":"claim"
 },
 {
@@ -131993,6 +132445,16 @@
 "type":"claim"
 },
 {
+"description":"For low prior proficiency students, unsolicited hint usage rates correlate negatively with posttest solution length, while hint frequency does not correlate",
+"evidence_strength":"moderate",
+"id":"hint-needed-rate-correlates-shorter-proofs-low-proficiency",
+"newest_evidence":"2020",
+"path":"claims/hint-needed-rate-correlates-shorter-proofs-low-proficiency.md",
+"status":"review",
+"title":"For low prior proficiency students, unsolicited hint usage rates correlate negatively with posttest solution length, while hint frequency does not correlate",
+"type":"claim"
+},
+{
 "description":"Hint-not-solution is the most challenging rubric dimension, with scores ranging from 6% to 81% across models",
 "evidence_strength":"moderate",
 "id":"hint-not-solution-most-challenging-dimension",
@@ -133580,6 +134042,16 @@
 "path":"claims/hpc-pi-mcc-activation-mediation-avoidance.md",
 "status":"review",
 "title":"Hippocampal, posterior insula and mid-cingulate activation mediate the math anxiety–avoidance relationship via reduced activation discrepancy between difficulties",
+"type":"claim"
+},
+{
+"description":"HPK students improved significantly only in the Low-Agency condition, with a large post-test advantage over HPK peers in High-Agency (d = .95)",
+"evidence_strength":"moderate",
+"id":"hpk-improved-only-low-agency",
+"newest_evidence":"2019",
+"path":"claims/hpk-improved-only-low-agency.md",
+"status":"review",
+"title":"HPK students improved significantly only in the Low-Agency condition, with a large post-test advantage over HPK peers in High-Agency (d = .95)",
 "type":"claim"
 },
 {
@@ -152893,6 +153365,16 @@
 "type":"claim"
 },
 {
+"description":"Knowledge tracing (KT) is a sequential student model technique, whereas NIDA is a non-sequential technique, and the technique used indicates the model's type.",
+"evidence_strength":"weak",
+"id":"kt-sequential-versus-nida-non-sequential",
+"newest_evidence":"2016",
+"path":"claims/kt-sequential-versus-nida-non-sequential.md",
+"status":"review",
+"title":"Knowledge tracing (KT) is a sequential student model technique, whereas NIDA is a non-sequential technique, and the technique used indicates the model's type.",
+"type":"claim"
+},
+{
 "description":"Course design created frictions: undeclared programming prerequisites, copied AI-generated tutorial solutions, intimidating blackboard turns, and AI-guessing cycles for students lacking evaluation knowledge",
 "evidence_strength":"weak",
 "id":"kt1-design-frictions-programming-tutorials-ai-guessing",
@@ -166853,6 +167335,16 @@
 "type":"claim"
 },
 {
+"description":"Low Prior Knowledge students achieved significantly higher normalized learning gains than High Prior Knowledge students",
+"evidence_strength":"moderate",
+"id":"lpk-normalized-gain-exceeds-hpk",
+"newest_evidence":"2019",
+"path":"claims/lpk-normalized-gain-exceeds-hpk.md",
+"status":"review",
+"title":"Low Prior Knowledge students achieved significantly higher normalized learning gains than High Prior Knowledge students",
+"type":"claim"
+},
+{
 "description":"Non-protesters show reduced central LPP to harming versus helping scenes, with a significant Group × Condition interaction",
 "evidence_strength":"moderate",
 "id":"lpp-group-condition-interaction-protesters",
@@ -177466,6 +177958,7 @@
 "id":"mindful-condition-fewer-steps-hints",
 "newest_evidence":"2026",
 "path":"claims/mindful-condition-fewer-steps-hints.md",
+"source_checked":"2026-10-27",
 "status":"review",
 "title":"Mindful-condition students completed fewer problem-solving steps and requested fewer hints per step than Cognitive-condition students",
 "type":"claim"
@@ -180825,6 +181318,16 @@
 "type":"claim"
 },
 {
+"description":"The extra development effort of model tracing stems from additional design requirements that are responsible for its improved remediation",
+"evidence_strength":"weak",
+"id":"model-tracing-design-requirements-explain-remediation",
+"newest_evidence":"2005",
+"path":"claims/model-tracing-design-requirements-explain-remediation.md",
+"status":"review",
+"title":"The extra development effort of model tracing stems from additional design requirements that are responsible for its improved remediation",
+"type":"claim"
+},
+{
 "description":"Model-tracing/cognitive tutors and example-tracing tutors are the predominant ITS types designed with authoring tools, together accounting for almost 40% of included studies",
 "evidence_strength":"moderate",
 "id":"model-tracing-example-tracing-dominant-authored-types",
@@ -180832,6 +181335,26 @@
 "path":"claims/model-tracing-example-tracing-dominant-authored-types.md",
 "status":"review",
 "title":"Model-tracing/cognitive tutors and example-tracing tutors are the predominant ITS types designed with authoring tools, together accounting for almost 40% of included studies",
+"type":"claim"
+},
+{
+"description":"Model tracing is superior for targeted, high-quality remediation, and this superiority increases with the complexity of the solution process goal structure",
+"evidence_strength":"weak",
+"id":"model-tracing-superior-remediation-increases-with-goal-structure-complexity",
+"newest_evidence":"2005",
+"path":"claims/model-tracing-superior-remediation-increases-with-goal-structure-complexity.md",
+"status":"review",
+"title":"Model tracing is superior for targeted, high-quality remediation, and this superiority increases with the complexity of the solution process goal structure",
+"type":"claim"
+},
+{
+"description":"Building a model-tracing tutor requires greater development effort than building a constraint-based tutor for the same domain",
+"evidence_strength":"weak",
+"id":"model-tracing-tutor-greater-development-effort",
+"newest_evidence":"2005",
+"path":"claims/model-tracing-tutor-greater-development-effort.md",
+"status":"review",
+"title":"Building a model-tracing tutor requires greater development effort than building a constraint-based tutor for the same domain",
 "type":"claim"
 },
 {
@@ -189809,6 +190332,16 @@
 "type":"claim"
 },
 {
+"description":"New AIED knowledge clusters — 'eye tracking' and 'deep learning' — emerge only in the most recent period (2018–19)",
+"evidence_strength":"moderate",
+"id":"new-clusters-eye-tracking-deep-learning-2018-19",
+"newest_evidence":"2021",
+"path":"claims/new-clusters-eye-tracking-deep-learning-2018-19.md",
+"status":"review",
+"title":"New AIED knowledge clusters — 'eye tracking' and 'deep learning' — emerge only in the most recent period (2018–19)",
+"type":"claim"
+},
+{
 "description":"Teacher reports in the New Haven survey identified 370 children (about 1.5 per cent) as mentally deficient but only 45 as mentally superior",
 "evidence_strength":"weak",
 "id":"new-haven-teacher-reports-370-deficient-45-superior",
@@ -190375,6 +190908,16 @@
 "path":"claims/nicole-subtraction-strategy-order-relation.md",
 "status":"review",
 "title":"Students' initial correct answers can mask reasoning based on a subtraction strategy not previously reported for integer order comparisons",
+"type":"claim"
+},
+{
+"description":"NIDA applies a Q-matrix conjunctively: every skill in an item must be mastered for the item to be answered successfully.",
+"evidence_strength":"weak",
+"id":"nida-conjunctive-qmatrix-mastery-requirement",
+"newest_evidence":"2016",
+"path":"claims/nida-conjunctive-qmatrix-mastery-requirement.md",
+"status":"review",
+"title":"NIDA applies a Q-matrix conjunctively: every skill in an item must be mastered for the item to be answered successfully.",
 "type":"claim"
 },
 {
@@ -191357,6 +191900,16 @@
 "path":"claims/no-age-or-career-type-differences-tpack-genai.md",
 "status":"review",
 "title":"Self-perceived TPACK-21 domain scores do not differ significantly by faculty age group or appointment type",
+"type":"claim"
+},
+{
+"description":"High- and Low-Agency conditions in SQL-Tutor do not differ in learning outcomes, though both improve significantly from pre- to post-test",
+"evidence_strength":"moderate",
+"id":"no-agency-effect-sql-tutor-learning",
+"newest_evidence":"2019",
+"path":"claims/no-agency-effect-sql-tutor-learning.md",
+"status":"review",
+"title":"High- and Low-Agency conditions in SQL-Tutor do not differ in learning outcomes, though both improve significantly from pre- to post-test",
 "type":"claim"
 },
 {
@@ -192575,6 +193128,16 @@
 "source_checked":"2026-10-20",
 "status":"review",
 "title":"Error rates per completed problem-solving step did not significantly differ between conditions",
+"type":"claim"
+},
+{
+"description":"No differences in quality and correctness of final energy-chain diagrams between interface conditions",
+"evidence_strength":"weak",
+"id":"no-difference-final-diagram-quality-interfaces",
+"newest_evidence":"2015",
+"path":"claims/no-difference-final-diagram-quality-interfaces.md",
+"status":"review",
+"title":"No differences in quality and correctness of final energy-chain diagrams between interface conditions",
 "type":"claim"
 },
 {
@@ -199439,6 +200002,16 @@
 "type":"claim"
 },
 {
+"description":"Autograding is most accurate for numeric answers, and error rates vary less than 8% across languages",
+"evidence_strength":"moderate",
+"id":"numeric-answers-most-accurate-language-variation-under-8",
+"newest_evidence":"2023",
+"path":"claims/numeric-answers-most-accurate-language-variation-under-8.md",
+"status":"review",
+"title":"Autograding is most accurate for numeric answers, and error rates vary less than 8% across languages",
+"type":"claim"
+},
+{
 "description":"Numerical abilities and serial retrieval fluency predict third-grade multiplication fluency, while working memory shows no significant association in the baseline model",
 "evidence_strength":"moderate",
 "id":"numerical-abilities-retrieval-fluency-predict-multiplication-baseline",
@@ -201589,6 +202162,16 @@
 "source_checked":"2026-10-20",
 "status":"review",
 "title":"In a Web-based teacher education course, screen-capture videos and Flash animations modeling the instructor's internal problem-solving processes were the elements students most strongly associated with cognitive apprenticeship modeling",
+"type":"claim"
+},
+{
+"description":"Students rarely request on-demand hints in this tutor, with no significant differences between conditions or proficiency groups",
+"evidence_strength":"moderate",
+"id":"on-demand-hint-requests-rare-and-equivalent",
+"newest_evidence":"2020",
+"path":"claims/on-demand-hint-requests-rare-and-equivalent.md",
+"status":"review",
+"title":"Students rarely request on-demand hints in this tutor, with no significant differences between conditions or proficiency groups",
 "type":"claim"
 },
 {
@@ -204702,6 +205285,16 @@
 "type":"claim"
 },
 {
+"description":"At session 1, OSFA students made fewer mistakes per assessment item than Personalized-condition students",
+"evidence_strength":"moderate",
+"id":"osfa-fewer-mistakes-session1-performance",
+"newest_evidence":"2023",
+"path":"claims/osfa-fewer-mistakes-session1-performance.md",
+"status":"review",
+"title":"At session 1, OSFA students made fewer mistakes per assessment item than Personalized-condition students",
+"type":"claim"
+},
+{
 "description":"O'Shea's 1921 textbook interprets mental development for classroom problems and adds over one hundred pages of problem material for practice in thinking",
 "evidence_strength":"weak",
 "id":"oshea-textbook-mental-development-practice-problems",
@@ -205167,6 +205760,16 @@
 "path":"claims/outer-context-shapes-cris-implementation.md",
 "status":"review",
 "title":"Contextual conditions beyond district control shape how a college readiness indicator system can be implemented",
+"type":"claim"
+},
+{
+"description":"In one module, a student with an outlier course score of 41 had outer-fringe readiness comparable to groupmates scoring 64–81, illustrating readiness not captured by a unidimensional score",
+"evidence_strength":"weak",
+"id":"outlier-score-student-similar-module-readiness",
+"newest_evidence":"2023",
+"path":"claims/outlier-score-student-similar-module-readiness.md",
+"status":"review",
+"title":"In one module, a student with an outlier course score of 41 had outer-fringe readiness comparable to groupmates scoring 64–81, illustrating readiness not captured by a unidimensional score",
 "type":"claim"
 },
 {
@@ -206454,6 +207057,26 @@
 "type":"claim"
 },
 {
+"description":"Paint.NET ITS users rated the system's usability significantly lower than book and movie condition students",
+"evidence_strength":"moderate",
+"id":"paintdotnet-its-lower-usability",
+"newest_evidence":"2015",
+"path":"claims/paintdotnet-its-lower-usability.md",
+"status":"review",
+"title":"Paint.NET ITS users rated the system's usability significantly lower than book and movie condition students",
+"type":"claim"
+},
+{
+"description":"In the Paint.NET embedded-tutor comparison, task performance differed among book, movie, and ITS groups, with the book group scoring significantly higher than the movie group and the ITS group in between",
+"evidence_strength":"mixed",
+"id":"paintdotnet-its-task-performance-mixed",
+"newest_evidence":"2015",
+"path":"claims/paintdotnet-its-task-performance-mixed.md",
+"status":"review",
+"title":"In the Paint.NET embedded-tutor comparison, task performance differed among book, movie, and ITS groups, with the book group scoring significantly higher than the movie group and the ITS group in between",
+"type":"claim"
+},
+{
 "description":"",
 "evidence_strength":"weak",
 "id":"pair-c-scaffolding-shows-mixed-evidence-for-emergent-phenomena-instruction",
@@ -207163,6 +207786,16 @@
 "path":"claims/parallel-forms-equal-total-values.md",
 "status":"review",
 "title":"The two test forms were built to pair exercises of closely the same value, equal total values, and similar inter-exercise intervals, with 100 total points per form",
+"type":"claim"
+},
+{
+"description":"Estimated parameters show lower-skill students have more variable performance (correlations typically from r = -0.2 to r = -0.4) and harder problems are more discriminating (r = 0.17)",
+"evidence_strength":"moderate",
+"id":"parameter-correlations-skill-variability-difficulty-discrimination",
+"newest_evidence":"2015",
+"path":"claims/parameter-correlations-skill-variability-difficulty-discrimination.md",
+"status":"review",
+"title":"Estimated parameters show lower-skill students have more variable performance (correlations typically from r = -0.2 to r = -0.4) and harder problems are more discriminating (r = 0.17)",
 "type":"claim"
 },
 {
@@ -212163,6 +212796,16 @@
 "type":"claim"
 },
 {
+"description":"Autograder accuracy on individual exams fluctuates around the expected performance, and strong deviations can be reliably detected by validation",
+"evidence_strength":"moderate",
+"id":"per-exam-accuracy-fluctuates-validation-detects-deviations",
+"newest_evidence":"2023",
+"path":"claims/per-exam-accuracy-fluctuates-validation-detects-deviations.md",
+"status":"review",
+"title":"Autograder accuracy on individual exams fluctuates around the expected performance, and strong deviations can be reliably detected by validation",
+"type":"claim"
+},
+{
 "description":"Per-exposure learning gains decrease as the number of exposures increases: a small but significant negative linear trend in the normalized incidental learning effect",
 "evidence_strength":"weak",
 "id":"per-exposure-gains-decrease",
@@ -213520,6 +214163,16 @@
 "type":"claim"
 },
 {
+"description":"Performance moderated personalization's effect on external motivation, correlating positively with external motivation only in the OSFA condition",
+"evidence_strength":"weak",
+"id":"performance-moderates-external-motivation",
+"newest_evidence":"2023",
+"path":"claims/performance-moderates-external-motivation.md",
+"status":"review",
+"title":"Performance moderated personalization's effect on external motivation, correlating positively with external motivation only in the OSFA condition",
+"type":"claim"
+},
+{
 "description":"Students perceiving high classroom performance norms are more affectively reactive to grades, strengthening the indirect effect of grades on emotional engagement via negative affect",
 "evidence_strength":"moderate",
 "id":"performance-norms-moderate-affective-reactivity",
@@ -214342,6 +214995,16 @@
 "type":"claim"
 },
 {
+"description":"Across confirmatory analyses, motivation depended on fewer user characteristics under personalization, and subject and usage interval did not moderate its effect",
+"evidence_strength":"weak",
+"id":"personalization-fewer-moderators-subject-interval-null",
+"newest_evidence":"2023",
+"path":"claims/personalization-fewer-moderators-subject-interval-null.md",
+"status":"review",
+"title":"Across confirmatory analyses, motivation depended on fewer user characteristics under personalization, and subject and usage interval did not moderate its effect",
+"type":"claim"
+},
+{
 "description":"Personalizing algebra story problems to student interests improved accuracy on easy knowledge components within the tutoring unit",
 "evidence_strength":"moderate",
 "id":"personalization-improves-easy-kc-accuracy-algebra-its",
@@ -214380,6 +215043,16 @@
 "path":"claims/personalization-methods-achievement-inequality-mixed.md",
 "status":"review",
 "title":"Some personalization methods such as ability tracking may increase achievement gaps, though empirical evidence is mixed",
+"type":"claim"
+},
+{
+"description":"Multidimensional personalization of gamification produced no statistically significant motivational differences from OSFA gamification in gamified review assessments",
+"evidence_strength":"moderate",
+"id":"personalization-no-significant-motivation-difference-gamified-assessments",
+"newest_evidence":"2023",
+"path":"claims/personalization-no-significant-motivation-difference-gamified-assessments.md",
+"status":"review",
+"title":"Multidimensional personalization of gamification produced no statistically significant motivational differences from OSFA gamification in gamified review assessments",
 "type":"claim"
 },
 {
@@ -219523,6 +220196,16 @@
 "type":"claim"
 },
 {
+"description":"A student model that is easily ported to another ITS may still fail there, because student behaviour depends on domain, interface, and the system that generated training data, so ported models must be re-tested.",
+"evidence_strength":"weak",
+"id":"ported-models-context-sensitive-must-be-retested",
+"newest_evidence":"2016",
+"path":"claims/ported-models-context-sensitive-must-be-retested.md",
+"status":"review",
+"title":"A student model that is easily ported to another ITS may still fail there, because student behaviour depends on domain, interface, and the system that generated training data, so ported models must be re-tested.",
+"type":"claim"
+},
+{
 "description":"The portfolio adds context to holistic review that readers say helps level the playing field for applicants from under-resourced high schools",
 "evidence_strength":"weak",
 "id":"portfolio-adds-equity-context-holistic-review",
@@ -223784,6 +224467,26 @@
 "path":"claims/pretest-cognitive-flexibility-predicts-decoding-gains-compensates-alphabet.md",
 "status":"review",
 "title":"Higher pretest cognitive flexibility predicted greater decoding gains and compensated for lower pretest alphabet knowledge",
+"type":"claim"
+},
+{
+"description":"Pre-test knowledge differed significantly across the three countries, producing a country by test time interaction",
+"evidence_strength":"moderate",
+"id":"pretest-differences-country-time-interaction",
+"newest_evidence":"2015",
+"path":"claims/pretest-differences-country-time-interaction.md",
+"status":"review",
+"title":"Pre-test knowledge differed significantly across the three countries, producing a country by test time interaction",
+"type":"claim"
+},
+{
+"description":"Pre-test score differences do not explain the cross-cultural differences in effective help-seeking behaviors",
+"evidence_strength":"moderate",
+"id":"pretest-does-not-explain-cultural-differences",
+"newest_evidence":"2015",
+"path":"claims/pretest-does-not-explain-cultural-differences.md",
+"status":"review",
+"title":"Pre-test score differences do not explain the cross-cultural differences in effective help-seeking behaviors",
 "type":"claim"
 },
 {
@@ -237302,6 +238005,16 @@
 "recheck_by":"2029",
 "status":"review",
 "title":"Real cohorts separate from marginal-preserving surrogates of themselves in all four years, while three of four synthetic cohorts do not",
+"type":"claim"
+},
+{
+"description":"On real tutor log data, the models beat mean-time prediction but most of the gain is captured by a simple baseline, and the learning extension slightly overfits",
+"evidence_strength":"mixed",
+"id":"real-data-prediction-baseline-captures-most-gain",
+"newest_evidence":"2015",
+"path":"claims/real-data-prediction-baseline-captures-most-gain.md",
+"status":"review",
+"title":"On real tutor log data, the models beat mean-time prediction but most of the gain is captured by a simple baseline, and the learning extension slightly overfits",
 "type":"claim"
 },
 {
@@ -263012,6 +263725,16 @@
 "type":"claim"
 },
 {
+"description":"Simulated-data study shows difficulty and skill are estimated from few data, while discrimination and variance require far more (at least 30 solvers; 50 problems and 150 students)",
+"evidence_strength":"moderate",
+"id":"simulation-data-requirements-parameter-estimation",
+"newest_evidence":"2015",
+"path":"claims/simulation-data-requirements-parameter-estimation.md",
+"status":"review",
+"title":"Simulated-data study shows difficulty and skill are estimated from few data, while discrimination and variance require far more (at least 30 solvers; 50 problems and 150 students)",
+"type":"claim"
+},
+{
 "description":"Simulation effects vary by complex skill: highest for technical performance, lowest for communication skills",
 "evidence_strength":"moderate",
 "id":"simulation-effects-vary-by-complex-skill",
@@ -263893,6 +264616,16 @@
 "path":"claims/sit-outperformed-write-practice-instruction.md",
 "status":"review",
 "title":"The sit control condition outperformed the write control condition on practice-phase instruction score",
+"type":"claim"
+},
+{
+"description":"Each site's help-seeking model predicted learning in its own data, with widely differing fit (Costa Rica r=0.462, U.S.",
+"evidence_strength":"moderate",
+"id":"site-specific-help-seeking-model-fit",
+"newest_evidence":"2015",
+"path":"claims/site-specific-help-seeking-model-fit.md",
+"status":"review",
+"title":"Each site's help-seeking model predicted learning in its own data, with widely differing fit (Costa Rica r=0.462, U.S. r=0.350, Philippines r=0.126)",
 "type":"claim"
 },
 {
@@ -270777,6 +271510,16 @@
 "type":"claim"
 },
 {
+"description":"Split-half stability analysis shows fitted learning-rate parameters are meaningful, with Spearman correlations between 0.5 and 0.7 across independent data halves",
+"evidence_strength":"moderate",
+"id":"split-half-learning-rate-stability",
+"newest_evidence":"2015",
+"path":"claims/split-half-learning-rate-stability.md",
+"status":"review",
+"title":"Split-half stability analysis shows fitted learning-rate parameters are meaningful, with Spearman correlations between 0.5 and 0.7 across independent data halves",
+"type":"claim"
+},
+{
 "description":"Split-persona effect: two distinct agent roles (Expert and Motivator) outperformed one combined Mentor agent",
 "evidence_strength":"moderate",
 "id":"split-persona-effect-agents",
@@ -274918,6 +275661,16 @@
 "type":"claim"
 },
 {
+"description":"In the High-Agency condition, HPK students selected significantly more challenging preparatory tasks than LPK students ('step size' U = 21, p = .038)",
+"evidence_strength":"moderate",
+"id":"step-size-hpk-challenging-selection",
+"newest_evidence":"2019",
+"path":"claims/step-size-hpk-challenging-selection.md",
+"status":"review",
+"title":"In the High-Agency condition, HPK students selected significantly more challenging preparatory tasks than LPK students ('step size' U = 21, p = .038)",
+"type":"claim"
+},
+{
 "description":"Stepwise constructive-conflict guidance reduced new idea generation, while the antagonistic agent played a more balanced role",
 "evidence_strength":"moderate",
 "id":"stepwise-conflict-guidance-reduces-idea-addition",
@@ -276925,6 +277678,16 @@
 "path":"claims/structured-chatgpt-integration-improves-programming-learning.md",
 "status":"review",
 "title":"A 2026 text-mining review chapter reports that studies of ChatGPT in programming education find benefits where it is used with structured pedagogical guidance and teacher facilitation",
+"type":"claim"
+},
+{
+"description":"Structured CSCL communication interfaces produced more communicative acts and more symmetrical participation than free chat",
+"evidence_strength":"moderate",
+"id":"structured-cscl-interface-acts-and-symmetry",
+"newest_evidence":"2015",
+"path":"claims/structured-cscl-interface-acts-and-symmetry.md",
+"status":"review",
+"title":"Structured CSCL communication interfaces produced more communicative acts and more symmetrical participation than free chat",
 "type":"claim"
 },
 {
@@ -293339,6 +294102,26 @@
 "type":"claim"
 },
 {
+"description":"Students with a technical degree reported higher intrinsic motivation with personalized design than with OSFA",
+"evidence_strength":"weak",
+"id":"technical-degree-personalization-intrinsic-motivation",
+"newest_evidence":"2023",
+"path":"claims/technical-degree-personalization-intrinsic-motivation.md",
+"status":"review",
+"title":"Students with a technical degree reported higher intrinsic motivation with personalized design than with OSFA",
+"type":"claim"
+},
+{
+"description":"Technical reframings of AIED criticism fail to address the fundamental political questions",
+"evidence_strength":"weak",
+"id":"technical-fixes-miss-political-questions",
+"newest_evidence":"2023",
+"path":"claims/technical-fixes-miss-political-questions.md",
+"status":"review",
+"title":"Technical reframings of AIED criticism fail to address the fundamental political questions",
+"type":"claim"
+},
+{
 "description":"Technical issues (login scanning, internet connectivity, projector setup, and glitches) frustrated students and created a significant barrier to playlist implementation",
 "evidence_strength":"moderate",
 "id":"technical-issues-barrier-playlist-implementation",
@@ -304437,6 +305220,16 @@
 "type":"claim"
 },
 {
+"description":"Human-tutoring transcript analysis informed BEETLE II tactics, including defaulting to the full answer after three unsuccessful elicitation attempts",
+"evidence_strength":"weak",
+"id":"tutor-tactics-three-attempt-bottom-out",
+"newest_evidence":"2014",
+"path":"claims/tutor-tactics-three-attempt-bottom-out.md",
+"status":"review",
+"title":"Human-tutoring transcript analysis informed BEETLE II tactics, including defaulting to the full answer after three unsuccessful elicitation attempts",
+"type":"claim"
+},
+{
 "description":"In the public TutorBench sample, agency-oriented rubric criteria are most concentrated in the active-learning use case (agency-dimension density 0.720, agency-skill density 0.411)",
 "evidence_strength":"weak",
 "id":"tutorbench-rubrics-encode-agency-active-learning-highest",
@@ -304998,6 +305791,16 @@
 "type":"claim"
 },
 {
+"description":"Two characteristics of the problem domain are key in distinguishing which tutoring paradigm is appropriate for a given domain",
+"evidence_strength":"weak",
+"id":"two-domain-characteristics-distinguish-tutoring-paradigms",
+"newest_evidence":"2005",
+"path":"claims/two-domain-characteristics-distinguish-tutoring-paradigms.md",
+"status":"review",
+"title":"Two characteristics of the problem domain are key in distinguishing which tutoring paradigm is appropriate for a given domain",
+"type":"claim"
+},
+{
 "description":"Whole-number and fraction calculations fit a two-factor structure significantly better than a one-factor model",
 "evidence_strength":"moderate",
 "id":"two-factor-calculation-structure-better-fit",
@@ -305291,6 +306094,16 @@
 "path":"claims/two-track-structure-teacher-genai-beliefs.md",
 "status":"review",
 "title":"Predictors of positive GenAI beliefs explain only 6–7% of variance in plagiarism and creativity concerns, indicating a two-track belief structure",
+"type":"claim"
+},
+{
+"description":"Student modelling research follows two main trends: describing student attributes versus building representations that reason about and simulate student behaviour.",
+"evidence_strength":"weak",
+"id":"two-trends-student-modelling-description-simulation",
+"newest_evidence":"2016",
+"path":"claims/two-trends-student-modelling-description-simulation.md",
+"status":"review",
+"title":"Student modelling research follows two main trends: describing student attributes versus building representations that reason about and simulate student behaviour.",
 "type":"claim"
 },
 {
@@ -314752,6 +315565,26 @@
 "type":"claim"
 },
 {
+"description":"Five non-programmers authoring with final Web xPST produced 74 effective statistics tutors in a month, with coding a small share of total authoring time",
+"evidence_strength":"moderate",
+"id":"web-xpst-authoring-productivity-study",
+"newest_evidence":"2015",
+"path":"claims/web-xpst-authoring-productivity-study.md",
+"status":"review",
+"title":"Five non-programmers authoring with final Web xPST produced 74 effective statistics tutors in a month, with coding a small share of total authoring time",
+"type":"claim"
+},
+{
+"description":"Ten non-programmer graduate students quickly learned early Web xPST and produced mostly high-quality tutors, with authoring time dropping across successive tasks",
+"evidence_strength":"moderate",
+"id":"web-xpst-nonprogrammers-author-successfully",
+"newest_evidence":"2015",
+"path":"claims/web-xpst-nonprogrammers-author-successfully.md",
+"status":"review",
+"title":"Ten non-programmer graduate students quickly learned early Web xPST and produced mostly high-quality tutors, with authoring time dropping across successive tasks",
+"type":"claim"
+},
+{
 "description":"Academics hold both positive and negative views of Web 2.0 tools for self-actualisation, with creativity skills the most frequent positive and time loss the most frequent negative",
 "evidence_strength":"weak",
 "id":"web20-self-actualisation-views-mixed",
@@ -316678,6 +317511,36 @@
 "source_checked":"2026-10-20",
 "status":"review",
 "title":"A within-list lag effect persisted at all retention intervals (up to 7 days) when the orienting task allowed interitem associations, contrary to what a context-only retrieval account predicts for that condition",
+"type":"claim"
+},
+{
+"description":"Across 11 modules of one ALEKS Algebra 1 class, the within-module grouping method obtained more favorable outer-fringe overlap metrics than random grouping and grouping by course score, on average",
+"evidence_strength":"moderate",
+"id":"within-module-grouping-beats-random-and-score-metrics",
+"newest_evidence":"2023",
+"path":"claims/within-module-grouping-beats-random-and-score-metrics.md",
+"status":"review",
+"title":"Across 11 modules of one ALEKS Algebra 1 class, the within-module grouping method obtained more favorable outer-fringe overlap metrics than random grouping and grouping by course score, on average",
+"type":"claim"
+},
+{
+"description":"Average shared-item metrics of within-module groups fell almost always above the 90th percentile of all possible size-5 groups, and above the 95th percentile half the time",
+"evidence_strength":"moderate",
+"id":"within-module-groups-high-percentile-shared-items",
+"newest_evidence":"2023",
+"path":"claims/within-module-groups-high-percentile-shared-items.md",
+"status":"review",
+"title":"Average shared-item metrics of within-module groups fell almost always above the 90th percentile of all possible size-5 groups, and above the 95th percentile half the time",
+"type":"claim"
+},
+{
+"description":"Of 55 within-module groups formed across 11 modules, only 6 contained a pair of students sharing no module outer-fringe item",
+"evidence_strength":"moderate",
+"id":"within-module-groups-rarely-lack-shared-items",
+"newest_evidence":"2023",
+"path":"claims/within-module-groups-rarely-lack-shared-items.md",
+"status":"review",
+"title":"Of 55 within-module groups formed across 11 modules, only 6 contained a pair of students sharing no module outer-fringe item",
 "type":"claim"
 },
 {
@@ -319981,6 +320844,16 @@
 "type":"claim"
 },
 {
+"description":"In a head-to-head comparison, xPST and CTAT both let non-programmers create high-caliber tutors, with no significant time differences by the third problem",
+"evidence_strength":"weak",
+"id":"xpst-ctat-comparable-authoring-outcomes",
+"newest_evidence":"2015",
+"path":"claims/xpst-ctat-comparable-authoring-outcomes.md",
+"status":"review",
+"title":"In a head-to-head comparison, xPST and CTAT both let non-programmers create high-caliber tutors, with no significant time differences by the third problem",
+"type":"claim"
+},
+{
 "description":"Immersive media environments enable higher visual and behavioral realism of pedagogical agents than non-immersive formats",
 "evidence_strength":"weak",
 "id":"xr-higher-agent-realism-than-non-immersive",
@@ -320009,6 +320882,26 @@
 "path":"claims/xrcl-meta-analysis-effect-041.md",
 "status":"review",
 "title":"A meta-analysis reported a mean effect size advantage of 0.41 for collaborative learning prototypes in immersive versus non-immersive approaches",
+"type":"claim"
+},
+{
+"description":"Students tutored by xSTAT reported higher satisfaction than untutored students",
+"evidence_strength":"moderate",
+"id":"xstat-tutor-satisfaction-higher",
+"newest_evidence":"2015",
+"path":"claims/xstat-tutor-satisfaction-higher.md",
+"status":"review",
+"title":"Students tutored by xSTAT reported higher satisfaction than untutored students",
+"type":"claim"
+},
+{
+"description":"Students tutored by an xPST-created web statistics tutor (xSTAT) scored higher on exam transfer problems than untutored students",
+"evidence_strength":"moderate",
+"id":"xstat-tutor-transfer-gains",
+"newest_evidence":"2015",
+"path":"claims/xstat-tutor-transfer-gains.md",
+"status":"review",
+"title":"Students tutored by an xPST-created web statistics tutor (xSTAT) scored higher on exam transfer problems than untutored students",
 "type":"claim"
 },
 {
@@ -320838,6 +321731,16 @@
 "path":"claims/zearn-rct-nwea-map-effect-011.md",
 "status":"review",
 "title":"Zearn Math schools significantly outperformed control schools on NWEA MAP in a large Texas RCT (effect size +0.11 overall)",
+"type":"claim"
+},
+{
+"description":"Targeting zero false negatives and 98% accuracy leaves about a 10% teacher workload reduction with accuracy slightly above 98%",
+"evidence_strength":"weak",
+"id":"zero-false-negative-target-yields-10-percent-workload-reduction",
+"newest_evidence":"2023",
+"path":"claims/zero-false-negative-target-yields-10-percent-workload-reduction.md",
+"status":"review",
+"title":"Targeting zero false negatives and 98% accuracy leaves about a 10% teacher workload reduction with accuracy slightly above 98%",
 "type":"claim"
 },
 {
@@ -322702,6 +323605,14 @@
 "path":"designs/computer-supported-complex-systems-curricula.md",
 "status":"review",
 "title":"Computer-supported complex systems curricula delivered in science classrooms",
+"type":"design"
+},
+{
+"description":"The conceptual change method is a science-instruction framework the article adopts as the organizing approach for its electricity curriculum.",
+"id":"conceptual-change-approach-beetle",
+"path":"designs/conceptual-change-approach-beetle.md",
+"status":"review",
+"title":"Conceptual change instructional approach for countering naïve science conceptions",
 "type":"design"
 },
 {
@@ -324964,6 +325875,14 @@
 "type":"design"
 },
 {
+"description":"For each objective, an expert Russian teacher writes a detailed script describing how they would present it, including material presented to students plus bracketed instructions for which questions to ask and how to r...",
+"id":"genie2-lesson-scripts",
+"path":"designs/genie2-lesson-scripts.md",
+"status":"review",
+"title":"Detailed lesson scripts capturing expert teachers' instructional decision-making",
+"type":"design"
+},
+{
 "description":"Genius Hour is Los Padillas's extended-day enrichment structure in which \\\"Students select an extracurricular activity to focus on daily for 6 weeks,\\\" with options ranging \\\"from coding, robotics, and circuits to knitti...",
 "id":"genius-hour-elected-enrichment-blocks",
 "path":"designs/genius-hour-elected-enrichment-blocks.md",
@@ -327135,6 +328054,14 @@
 "path":"designs/pair-based-discovery-llm-analysis-activity.md",
 "status":"review",
 "title":"Pair-based, discovery-oriented LLM analysis activity following an eight-week disciplinary module",
+"type":"design"
+},
+{
+"description":"The article's empirical artifact is a pair of intelligent tutoring systems built by the authors: \\\"a model-tracing and constraint-based tutor for the same problem domain (statistical hypothesis testing)\\\".",
+"id":"paired-mt-cb-tutors-statistical-hypothesis-testing",
+"path":"designs/paired-mt-cb-tutors-statistical-hypothesis-testing.md",
+"status":"review",
+"title":"Paired model-tracing and constraint-based tutors for statistical hypothesis testing",
 "type":"design"
 },
 {
@@ -343882,6 +344809,14 @@
 "type":"product"
 },
 {
+"description":"BEETLE II is an intelligent tutoring system developed by Dzikovska et al.",
+"id":"beetle-ii-intelligent-tutoring-system",
+"path":"products/beetle-ii-intelligent-tutoring-system.md",
+"status":"review",
+"title":"BEETLE II intelligent tutoring system",
+"type":"product"
+},
+{
 "description":"A 25-question secondary-school chemistry achievement test with a Payne-prepared correction and partial-credit scoring sheet, originally used to assess knowledge of electrolysis, oxidation-reduction, valence, water purification, gases, and commercial chemistry.",
 "id":"bell-chemistry-test-and-appended-payne-correction-sheet",
 "path":"products/bell-chemistry-test-and-appended-payne-correction-sheet.md",
@@ -345886,6 +346821,14 @@
 "type":"product"
 },
 {
+"description":"A dataset of 1,830 AIED research articles from five major publication venues covering 2010–2019, prepared for mapping research topics and their evolution.",
+"id":"dataset-of-1830-aied-articles-from-five-major-publication-sources-20102019",
+"path":"products/dataset-of-1830-aied-articles-from-five-major-publication-sources-20102019.md",
+"status":"review",
+"title":"Dataset of 1830 AIED articles from five major publication sources, 2010–2019",
+"type":"product"
+},
+{
 "description":"A dataset compiled by Francis Geng et al.",
 "id":"dataset-of-23-publicly-available-us-ai-assisted-software-engineering-course-syllabi-and-ma",
 "path":"products/dataset-of-23-publicly-available-us-ai-assisted-software-engineering-course-syllabi-and-ma.md",
@@ -346413,6 +347356,14 @@
 "path":"products/e3sense.md",
 "status":"review",
 "title":"E3Sense",
+"type":"product"
+},
+{
+"description":"Eagle-Edu is a virtual learning environment developed for creating subject-independent courses and delivering gamified assessment activities, including personalized and one-size-fits-all gamification designs.",
+"id":"eagle-edu",
+"path":"products/eagle-edu.md",
+"status":"review",
+"title":"Eagle-Edu",
 "type":"product"
 },
 {
@@ -348157,6 +349108,14 @@
 "path":"products/genesis-framework.md",
 "status":"review",
 "title":"GENESIS framework",
+"type":"product"
+},
+{
+"description":"Genie 2 is an intelligent tutoring system developed by Reasoning Mind that delivers a Russian-tradition mathematics curriculum to students in grades 2–6.",
+"id":"genie-2",
+"path":"products/genie-2.md",
+"status":"review",
+"title":"Genie 2",
 "type":"product"
 },
 {
@@ -353741,6 +354700,14 @@
 "type":"product"
 },
 {
+"description":"A free web-based adaptive practice system developed by Pelánek and colleagues that recommends programming, mathematics, and logic problems according to learners' estimated skill and predicted solving time.",
+"id":"problem-solving-tutor",
+"path":"products/problem-solving-tutor.md",
+"status":"review",
+"title":"Problem Solving Tutor",
+"type":"product"
+},
+{
 "description":"A named vocational-education instructional framework developed by the article’s authors that organizes lessons around a nine-step production cycle for solving authentic product and troubleshooting problems.",
 "id":"production-based-learning-model",
 "path":"products/production-based-learning-model.md",
@@ -358481,6 +359448,14 @@
 "type":"product"
 },
 {
+"description":"Web xPST is a web-based authoring and delivery environment developed by Stephen B.",
+"id":"web-xpst",
+"path":"products/web-xpst.md",
+"status":"review",
+"title":"Web xPST",
+"type":"product"
+},
+{
 "description":"A simulation tool developed by REL Southwest with the Texas Higher Education Coordinating Board to model community-college funding scenarios and project adequate spending levels based on student-need and institutional factors.",
 "id":"weights-simulation-tool-for-texas-community-college-funding-scenarios",
 "path":"products/weights-simulation-tool-for-texas-community-college-funding-scenarios.md",
@@ -358774,6 +359749,14 @@
 "path":"products/www-entrez.md",
 "status":"review",
 "title":"WWW Entrez",
+"type":"product"
+},
+{
+"description":"xPST is an authoring system and tutor engine developed by Stephen B.",
+"id":"xpst",
+"path":"products/xpst.md",
+"status":"review",
+"title":"xPST",
 "type":"product"
 },
 {
@@ -359466,6 +360449,14 @@
 "type":"research-method"
 },
 {
+"description":"The article proposes \\\"a new cluster-based method that combines posttest performance, eﬀort (to quantify persistence), and unsolicited hint usage to discover productive persistence.\\\" It defines productive persistence as \\\"persistent (high) eﬀorts that result in higher posttest performance\\\", building o",
+"id":"cluster-based-productive-persistence-discovery-method",
+"path":"research-methods/cluster-based-productive-persistence-discovery-method.md",
+"status":"review",
+"title":"Cluster-based productive-persistence discovery method",
+"type":"research-method"
+},
+{
 "description":"The Evans, Feenstra, Ryon and McNeill article provides analytic tools for collaborative interactions around external representations, honing in on \\\"co-referencing\\\": multiple people referencing the same thing through a deictic word, a pointing gesture, or any verbal, physical, or virtual action refer",
 "id":"co-referencing-typology-and-coding-scheme-for-analyzing-collaborative-interaction-around-e",
 "path":"research-methods/co-referencing-typology-and-coding-scheme-for-analyzing-collaborative-interaction-around-e.md",
@@ -359616,6 +360607,14 @@
 "path":"research-methods/comparative-framework-for-longitudinal-models-differing-in-change-processes-temporal-struc.md",
 "status":"review",
 "title":"Comparative framework for longitudinal models differing in change processes, temporal structure, and measurement design",
+"type":"research-method"
+},
+{
+"description":"The article contrasts two approaches to building intelligent tutoring systems: the \\\"well-established model-tracing paradigm\\\" and \\\"the relatively newer constraint-based paradigm\\\".",
+"id":"comparative-framework-for-model-tracing-and-constraint-based-intelligent-tutoring-paradigm",
+"path":"research-methods/comparative-framework-for-model-tracing-and-constraint-based-intelligent-tutoring-paradigm.md",
+"status":"review",
+"title":"Comparative framework for model-tracing and constraint-based intelligent tutoring paradigms",
 "type":"research-method"
 },
 {
@@ -360886,6 +361885,14 @@
 "type":"research-method"
 },
 {
+"description":"The article introduces a classification that grades student models in terms of portability.",
+"id":"four-dimension-classification-for-grading-student-model-portability",
+"path":"research-methods/four-dimension-classification-for-grading-student-model-portability.md",
+"status":"review",
+"title":"Four-dimension classification for grading student model portability",
+"type":"research-method"
+},
+{
 "description":"The review adopts Chatti et al.'s (2012) reference model in which \\\"LA consists of four dimensions including (1) what (what types of data does the system capture and analyze), (2) how (how does the system perform analytics), (3) why (for what reasons does the system gather and analyze data), and (4) ",
 "id":"four-dimension-learning-analytics-reference-model-what-how-why-who",
 "path":"research-methods/four-dimension-learning-analytics-reference-model-what-how-why-who.md",
@@ -361059,6 +362066,14 @@
 "path":"research-methods/four-type-taxonomy-of-word-problem-process-models-by-process-order-and-mental-representati.md",
 "status":"review",
 "title":"Four-type taxonomy of word-problem process models by process order and mental representation",
+"type":"research-method"
+},
+{
+"description":"A two-dimensional framework the authors propose from their evaluation results for judging the quality of rephrased feedback responses.",
+"id":"framework-for-determining-the-quality-of-rephrased-responses-accuracy-responsiveness",
+"path":"research-methods/framework-for-determining-the-quality-of-rephrased-responses-accuracy-responsiveness.md",
+"status":"review",
+"title":"Framework for determining the quality of rephrased responses (accuracy × responsiveness)",
 "type":"research-method"
 },
 {
@@ -361615,6 +362630,14 @@
 "type":"research-method"
 },
 {
+"description":"ALEKS's domain model is based on Knowledge Space Theory, a combinatoric and probabilistic model of knowledge assessment in which a student's knowledge state is the set of items the student can complete correctly unaided, and a knowledge structure captures prerequisite relationships among items.",
+"id":"knowledge-space-theory-kst",
+"path":"research-methods/knowledge-space-theory-kst.md",
+"status":"review",
+"title":"Knowledge Space Theory (KST)",
+"type":"research-method"
+},
+{
 "description":"The framework operationalizes educational LLM capability using the KSA (Knowledge-Skills-Attitude) model from educational assessment.",
 "id":"ksa-three-axis-evaluation-framework-with-a-four-level-skills-hierarchy-centerrolescenarios",
 "path":"research-methods/ksa-three-axis-evaluation-framework-with-a-four-level-skills-hierarchy-centerrolescenarios.md",
@@ -361716,6 +362739,14 @@
 "path":"research-methods/llm-scoring-generated-feedback-and-essay-feature-analysis-framework.md",
 "status":"review",
 "title":"LLM scoring, generated-feedback, and essay-feature analysis framework",
+"type":"research-method"
+},
+{
+"description":"A generative student model for interactive problem solving that specifies the distribution of problem solving times rather than correctness probability.",
+"id":"log-linear-model-of-problem-solving-times-analogical-to-the-irt-three-parameter-model",
+"path":"research-methods/log-linear-model-of-problem-solving-times-analogical-to-the-irt-three-parameter-model.md",
+"status":"review",
+"title":"Log-linear model of problem solving times analogical to the IRT three-parameter model",
 "type":"research-method"
 },
 {
@@ -363068,6 +364099,14 @@
 "type":"research-method"
 },
 {
+"description":"A set of 17 behavioral features distilled from tutor log files and normalized as a percentage of total student actions, designed to \\\"encompass a wide array of possible help-seeking behaviors\\\".",
+"id":"seventeen-log-derived-help-seeking-features-for-assessing-help-seeking-in-intelligent-tuto",
+"path":"research-methods/seventeen-log-derived-help-seeking-features-for-assessing-help-seeking-in-intelligent-tuto.md",
+"status":"review",
+"title":"Seventeen log-derived help-seeking features for assessing help seeking in intelligent tutors",
+"type":"research-method"
+},
+{
 "description":"The framework bins student ability into L labeled intervals (Table 2, from Foundational to Elite mastery), prompts the LLM to answer as a student of a given ability level with the correct answer supplied, and trains it with an MSE loss on next-token option probabilities against interval-averaged MCM",
 "id":"simulated-respondent-framework",
 "path":"research-methods/simulated-respondent-framework.md",
@@ -363609,6 +364648,14 @@
 "path":"research-methods/temporal-smoothness-doubly-robust-tsdr-framework-for-debiased-knowledge-tracing.md",
 "status":"review",
 "title":"Temporal Smoothness Doubly Robust (TSDR) framework for debiased knowledge tracing",
+"type":"research-method"
+},
+{
+"description":"Extending Bales' division of social interaction into a task zone and a socio-emotional zone, the author and Andriessen developed a formal analysis method aimed at studying \\\"the 'interaction' between deepening of a conflict (extending down into an argument chain) and fluctuations in tension-relaxatio",
+"id":"tension-relaxation-analysis-of-interpersonal-relations-in-collaborative-argumentation",
+"path":"research-methods/tension-relaxation-analysis-of-interpersonal-relations-in-collaborative-argumentation.md",
+"status":"review",
+"title":"Tension-relaxation analysis of interpersonal relations in collaborative argumentation",
 "type":"research-method"
 },
 {
@@ -365744,6 +366791,14 @@
 "type":"strategy"
 },
 {
+"description":"Because carelessness is concentrated among highly engaged, generally successful students, the article recommends that interventions differ from typical disengagement responses.",
+"id":"affect-aware-carelessness-interventions",
+"path":"strategies/affect-aware-carelessness-interventions.md",
+"status":"review",
+"title":"Adaptive responses to carelessness should take probable student affect into account and tailor messages to highly engaged students",
+"type":"strategy"
+},
+{
 "description":"The article derives design guidance for intelligent learning environments for programming from its affect findings.",
 "id":"affect-aware-programming-environments-strategy",
 "path":"strategies/affect-aware-programming-environments-strategy.md",
@@ -366597,6 +367652,14 @@
 "path":"strategies/aied-beyond-comfort-zone-ill-defined-domains.md",
 "status":"review",
 "title":"Move AIED beyond its modeling comfort zone into ill-defined domains",
+"type":"strategy"
+},
+{
+"description":"Looking forward, the author identifies two priority problems for Artificial Intelligence and Education research: formalising interpersonal relationships beyond simple categories as they fluctuate in dialogue alongside...",
+"id":"aied-challenges-interpersonal-relations-genre-appropriation",
+"path":"strategies/aied-challenges-interpersonal-relations-genre-appropriation.md",
+"status":"review",
+"title":"Target formalisation of interpersonal relations and analysis of discourse-genre appropriation in AIED systems",
 "type":"strategy"
 },
 {
@@ -387223,6 +388286,14 @@
 "type":"strategy"
 },
 {
+"description":"The authors recommend integrating GPT-4 classification and rephrasing into template-based feedback systems so novice tutors receive real-time explanatory feedback showing the desired response form.",
+"id":"gpt4-rephrase-incorrect-responses-feedback-strategy",
+"path":"strategies/gpt4-rephrase-incorrect-responses-feedback-strategy.md",
+"status":"review",
+"title":"Use GPT-4 few-shot rephrasing of incorrect trainee responses to deliver corrective explanatory feedback at scale",
+"type":"strategy"
+},
+{
 "description":"From implementation, the authors recommend that if the goal is dialogue, then the grading criteria should reflect dialogue: students should provide the main contextual prompt and enough follow-up interaction to demons...",
 "id":"grade-ai-assignments-on-dialogue",
 "path":"strategies/grade-ai-assignments-on-dialogue.md",
@@ -400330,6 +401401,14 @@
 "path":"strategies/pepperoni_pizza.md",
 "status":"review",
 "title":"Pepperoni Pizza",
+"type":"strategy"
+},
+{
+"description":"The article recommends a per-usage validation mechanism rather than relying on average performance over large datasets.",
+"id":"per-exam-validation-via-difficult-samples",
+"path":"strategies/per-exam-validation-via-difficult-samples.md",
+"status":"review",
+"title":"Validate the autograder on each exam by leveraging the difficult samples a teacher must grade anyway",
 "type":"strategy"
 },
 {
@@ -432978,6 +434057,7 @@
 "access-effective-teaching-varies-across-districts":"access-effective-teaching-varies-across-districts",
 "access-function-only-link-to-aging-skilled-readers":"access-function-only-link-to-aging-skilled-readers",
 "access-proficiency-timing-fifth-grade-window":"access-proficiency-timing-fifth-grade-window",
+"accessibility-complexity-lowest-restrictions-architecture-popularity-highest":"accessibility-complexity-lowest-restrictions-architecture-popularity-highest",
 "accg-other-referenced-prediction-error-dissociation":"accg-other-referenced-prediction-error-dissociation",
 "accommodation-policies-drift-with-expectations-and-technology":"accommodation-policies-drift-with-expectations-and-technology",
 "accommodations-feel-transitional-not-fully-equal":"accommodations-feel-transitional-not-fully-equal",
@@ -433153,6 +434233,7 @@
 "activity-format-moderates-motivational-ratings":"activity-format-moderates-motivational-ratings",
 "activity-scores-no-condition-difference-replication":"activity-scores-no-condition-difference-replication",
 "activity-technology-alignment-weakest-dimension":"activity-technology-alignment-weakest-dimension",
+"activity-type-differences-between-conditions":"activity-type-differences-between-conditions",
 "activity-type-proportions-predict-learning-outcomes":"activity-type-proportions-predict-learning-outcomes",
 "actsat-prep-positive-effects-high-school-achievement":"actsat-prep-positive-effects-high-school-achievement",
 "actual-genai-use-tied-to-interest-and-usefulness":"actual-genai-use-tied-to-interest-and-usefulness",
@@ -433459,6 +434540,7 @@
 "affect-interaction-event-transitions-programming":"affect-interaction-event-transitions-programming",
 "affect-learning-partial-correlations-programming":"affect-learning-partial-correlations-programming",
 "affect-preference-link-dissociates-with-age":"affect-preference-link-dissociates-with-age",
+"affect-shifts-over-tutor-usage":"affect-shifts-over-tutor-usage",
 "affect-transitions-model-test-programming":"affect-transitions-model-test-programming",
 "affective-climate-neglected-blended-designs":"affective-climate-neglected-blended-designs",
 "affective-gender-no-moderation":"affective-gender-no-moderation",
@@ -434241,8 +435323,12 @@
 "aided-systems-advantage-over-manual-signs":"aided-systems-advantage-over-manual-signs",
 "aied-breadth-increase-topics-time":"aied-breadth-increase-topics-time",
 "aied-commercialisation-and-critique-conundrum":"aied-commercialisation-and-critique-conundrum",
+"aied-criticism-application-specific":"aied-criticism-application-specific",
 "aied-ethics-consequentialist-utilitarian":"aied-ethics-consequentialist-utilitarian",
 "aied-global-south-special-issue-ten-reviewed-papers":"aied-global-south-special-issue-ten-reviewed-papers",
+"aied-harms-relational-differential":"aied-harms-relational-differential",
+"aied-kcn-disassortative-attachment-pattern":"aied-kcn-disassortative-attachment-pattern",
+"aied-kcn-hierarchical-hub-structure":"aied-kcn-hierarchical-hub-structure",
 "aied-motor-skills-research-lags-cognitive":"aied-motor-skills-research-lags-cognitive",
 "aied-research-dominated-by-cs-stem":"aied-research-dominated-by-cs-stem",
 "aied-research-effort-imbalance-contexts":"aied-research-effort-imbalance-contexts",
@@ -434251,7 +435337,10 @@
 "aied-review-publication-trend-2019-increase":"aied-review-publication-trend-2019-increase",
 "aied-reviews-context-reporting-gaps":"aied-reviews-context-reporting-gaps",
 "aied-reviews-quality-assessment-gaps":"aied-reviews-quality-assessment-gaps",
+"aied-seven-educational-foci":"aied-seven-educational-foci",
 "aied-step-based-domain-focus-collaboration-growth":"aied-step-based-domain-focus-collaboration-growth",
+"aied-trending-keywords-2018-2019":"aied-trending-keywords-2018-2019",
+"aied-two-sustained-themes-its-mooc":"aied-two-sustained-themes-its-mooc",
 "aied-u-no-significant-workload-difference":"aied-u-no-significant-workload-difference",
 "aied-u-positive-indirect-effect-via-effort-reduction":"aied-u-positive-indirect-effect-via-effort-reduction",
 "aied-weird-authorship-imbalance":"aied-weird-authorship-imbalance",
@@ -434865,6 +435954,10 @@
 "asrt-implicit-sl-robust-both-studies":"asrt-implicit-sl-robust-both-studies",
 "assembly-time-reduction-learning-effect":"assembly-time-reduction-learning-effect",
 "assertion-cross-model-agreement-moderate-median-0401":"assertion-cross-model-agreement-moderate-median-0401",
+"assertions-increase-unsolicited-hint-usage":"assertions-increase-unsolicited-hint-usage",
+"assertions-low-proficiency-faster-posttest":"assertions-low-proficiency-faster-posttest",
+"assertions-low-proficiency-shorter-posttest-proofs":"assertions-low-proficiency-shorter-posttest-proofs",
+"assertions-more-hints-given-than-messages":"assertions-more-hints-given-than-messages",
 "assessing-ai-feedback-builds-ai-literacy-and-agency":"assessing-ai-feedback-builds-ai-literacy-and-agency",
 "assessing-intervention-package-impacts-challenge":"assessing-intervention-package-impacts-challenge",
 "assessing-minicycle-requires-extended-time-scale":"assessing-minicycle-requires-extended-time-scale",
@@ -435388,6 +436481,8 @@
 "beat-following-anticipation-versus-lag-arm-versus-finger":"beat-following-anticipation-versus-lag-arm-versus-finger",
 "bedtime-routine-dose-dependent-sleep-benefits":"bedtime-routine-dose-dependent-sleep-benefits",
 "bedtime-routine-interventions-improve-maternal-and-family-outcomes":"bedtime-routine-interventions-improve-maternal-and-family-outcomes",
+"beetle-ii-elicit-vs-tell-no-superiority":"beetle-ii-elicit-vs-tell-no-superiority",
+"beetle-ii-large-learning-gains-vs-control":"beetle-ii-large-learning-gains-vs-control",
 "began-as-els-similar-achievement-higher-attendance":"began-as-els-similar-achievement-higher-attendance",
 "beginner-tutor-overwhelmed-withdrew":"beginner-tutor-overwhelmed-withdrew",
 "beginning-teachers-of-color-less-preservice-coursework":"beginning-teachers-of-color-less-preservice-coursework",
@@ -436214,6 +437309,10 @@
 "caregiver-book-sharing-competence-mediation":"caregiver-book-sharing-competence-mediation",
 "caregiver-education-interactive-skills-positive-association":"caregiver-education-interactive-skills-positive-association",
 "carelessness-23-percent-spelling-errors":"carelessness-23-percent-spelling-errors",
+"carelessness-detector-cross-country-generalizability":"carelessness-detector-cross-country-generalizability",
+"carelessness-negative-boredom":"carelessness-negative-boredom",
+"carelessness-negative-confusion":"carelessness-negative-confusion",
+"carelessness-positive-engaged-concentration":"carelessness-positive-engaged-concentration",
 "caring-accountable-coach-relationship-benefits":"caring-accountable-coach-relationship-benefits",
 "caring-understanding-supportive-teachers-subtheme":"caring-understanding-supportive-teachers-subtheme",
 "carnegie-learning-algebra-i-cluster-randomized-cohorts":"carnegie-learning-algebra-i-cluster-randomized-cohorts",
@@ -437077,6 +438176,7 @@
 "classical-indeterminism-model-fails-anticorrelation":"classical-indeterminism-model-fails-anticorrelation",
 "classification-accuracy-22-lo-combinations":"classification-accuracy-22-lo-combinations",
 "classification-correctness-feedback-null":"classification-correctness-feedback-null",
+"classification-weakest-determining-students-know":"classification-weakest-determining-students-know",
 "classifier-accuracy-correlates-with-student-performance":"classifier-accuracy-correlates-with-student-performance",
 "classifier-error-patterns-and-abstention-f1":"classifier-error-patterns-and-abstention-f1",
 "classifier-generalises-to-expert-definitions":"classifier-generalises-to-expert-definitions",
@@ -437531,6 +438631,7 @@
 "collaboration-buy-in-student-leadership":"collaboration-buy-in-student-leadership",
 "collaboration-enables-transfer-benefit-of-animation":"collaboration-enables-transfer-benefit-of-animation",
 "collaboration-enhances-intuitive-knowledge":"collaboration-enhances-intuitive-knowledge",
+"collaboration-explains-costa-rica-divergence":"collaboration-explains-costa-rica-divergence",
 "collaboration-factors-explain-half-performance-variance":"collaboration-factors-explain-half-performance-variance",
 "collaboration-fundamentally-relational":"collaboration-fundamentally-relational",
 "collaboration-interest-belonging-worse-online":"collaboration-interest-belonging-worse-online",
@@ -438145,6 +439246,7 @@
 "constantinidou-baker-vvq-no-recall-relation":"constantinidou-baker-vvq-no-recall-relation",
 "constantly-high-complexity-improves-posttest-performance":"constantly-high-complexity-improves-posttest-performance",
 "constrained-architecture-reduces-rhsi":"constrained-architecture-reduces-rhsi",
+"constraint-based-tutoring-requires-information-rich-solutions":"constraint-based-tutoring-requires-information-rich-solutions",
 "constraints-selectively-affect-inefficient-strategies":"constraints-selectively-affect-inefficient-strategies",
 "construct-stability-assumption-longitudinal-linking":"construct-stability-assumption-longitudinal-linking",
 "construction-based-sorting-increases-with-grade-level":"construction-based-sorting-increases-with-grade-level",
@@ -438886,6 +439988,7 @@
 "cross-cultural-game-time-differences-children":"cross-cultural-game-time-differences-children",
 "cross-cultural-invariance-dual-pathway-model":"cross-cultural-invariance-dual-pathway-model",
 "cross-cultural-measurement-bias-in-translated-psychosocial-instruments":"cross-cultural-measurement-bias-in-translated-psychosocial-instruments",
+"cross-cultural-tutor-learning-gains-all-sites":"cross-cultural-tutor-learning-gains-all-sites",
 "cross-dataset-generalization-mind-wandering-detection":"cross-dataset-generalization-mind-wandering-detection",
 "cross-domain-initial-status-predicts-other-domain-growth":"cross-domain-initial-status-predicts-other-domain-growth",
 "cross-domain-metacognitive-efficiency-correlation":"cross-domain-metacognitive-efficiency-correlation",
@@ -439399,6 +440502,8 @@
 "dearborn-relative-ranking-maintained-university":"dearborn-relative-ranking-maintained-university",
 "dearborn-standards-normal-iq-band-across-communities":"dearborn-standards-normal-iq-band-across-communities",
 "dearth-research-older-collaborators":"dearth-research-older-collaborators",
+"debate-then-diagram-sequencing-beneficial":"debate-then-diagram-sequencing-beneficial",
+"debate-viewpoint-change-domain-differentiated":"debate-viewpoint-change-domain-differentiated",
 "deberta-highest-accuracy-86-36-learner-question-classification":"deberta-highest-accuracy-86-36-learner-question-classification",
 "debiasing-shifts-incorrect-to-correct-intuitions":"debiasing-shifts-incorrect-to-correct-intuitions",
 "debriefing-conversational-remembering-public-artifact":"debriefing-conversational-remembering-public-artifact",
@@ -439480,6 +440585,7 @@
 "defending-more-positive-in-intervention-schools":"defending-more-positive-in-intervention-schools",
 "defending-norms-did-not-moderate-defending-effects":"defending-norms-did-not-moderate-defending-effects",
 "defense-in-depth-critical-bypass-zero":"defense-in-depth-critical-bypass-zero",
+"deferring-difficult-answers-raises-accuracy-92-percent":"deferring-difficult-answers-raises-accuracy-92-percent",
 "defiance-drives-most-high-school-suspensions":"defiance-drives-most-high-school-suspensions",
 "deficit-narratives-arise-from-vulnerability-under-emotional-regimes":"deficit-narratives-arise-from-vulnerability-under-emotional-regimes",
 "deficit-thinking-negative-climate-relationships":"deficit-thinking-negative-climate-relationships",
@@ -440290,6 +441396,7 @@
 "domain-general-scaffolds-outperform-domain-specific":"domain-general-scaffolds-outperform-domain-specific",
 "domain-general-skills-favor-ips":"domain-general-skills-favor-ips",
 "domain-general-variance-varies-by-skill":"domain-general-variance-varies-by-skill",
+"domain-independence-desirable-but-subjectively-defined":"domain-independence-desirable-but-subjectively-defined",
 "domain-interest-large-increase-short-course":"domain-interest-large-increase-short-course",
 "domain-knowledge-dominates-later-achievement":"domain-knowledge-dominates-later-achievement",
 "domain-knowledge-formative-construct":"domain-knowledge-formative-construct",
@@ -440626,6 +441733,7 @@
 "early-adopters-used-alternative-growth-measures-in-formal-evaluations":"early-adopters-used-alternative-growth-measures-in-formal-evaluations",
 "early-advantage-may-translate-to-opportunity-benefits":"early-advantage-may-translate-to-opportunity-benefits",
 "early-adversity-increases-developmental-risk-cognitive-emotional":"early-adversity-increases-developmental-risk-cognitive-emotional",
+"early-ai-pioneers-invested-in-education":"early-ai-pioneers-invested-in-education",
 "early-ai-use-perception-misalignment-lower-team-scores":"early-ai-use-perception-misalignment-lower-team-scores",
 "early-and-later-stage-complementarity-null-by-outcome":"early-and-later-stage-complementarity-null-by-outcome",
 "early-ans-acuity-predicts-math-growth-preschoolers":"early-ans-acuity-predicts-math-growth-preschoolers",
@@ -440838,6 +441946,7 @@
 "editorial-reports-meta-group-talk-aids-group-performance":"editorial-reports-meta-group-talk-aids-group-performance",
 "editorial-special-attention-general-mental-tests":"editorial-special-attention-general-mental-tests",
 "editorial-wikiglass-teacher-student-interplay":"editorial-wikiglass-teacher-student-interplay",
+"edm-keywords-redistribute-across-clusters":"edm-keywords-redistribute-across-clusters",
 "ednet-scalability-federated-diagnosis":"ednet-scalability-federated-diagnosis",
 "edpr-board-geographic-diversity":"edpr-board-geographic-diversity",
 "edpr-decision-time-50-to-25-days":"edpr-decision-time-50-to-25-days",
@@ -442839,6 +443948,7 @@
 "few-shot-prompting-degrades-phonology-mastery":"few-shot-prompting-degrades-phonology-mastery",
 "few-shot-prompting-inconsistent-grading-gains":"few-shot-prompting-inconsistent-grading-gains",
 "few-shot-prompting-no-f1-gain-reduces-overattribution":"few-shot-prompting-no-f1-gain-reduces-overattribution",
+"few-shot-shots-improve-classification":"few-shot-shots-improve-classification",
 "few-sig-schools-staffing-strategies-ell-teacher-capacity":"few-sig-schools-staffing-strategies-ell-teacher-capacity",
 "few-signs-global-task-awareness-selection":"few-signs-global-task-awareness-selection",
 "few-solution-attempts-bayesian-problem-solving":"few-solution-attempts-bayesian-problem-solving",
@@ -442984,6 +444094,7 @@
 "fine-tuning-limited-gains-hand-drawn-tasks":"fine-tuning-limited-gains-hand-drawn-tasks",
 "fine-tuning-synthetic-data-improves-turtleai":"fine-tuning-synthetic-data-improves-turtleai",
 "finetuned-8b-llms-beat-zero-shot-large-models-on-difficulty-metrics":"finetuned-8b-llms-beat-zero-shot-large-models-on-difficulty-metrics",
+"finetuned-labse-86-5-percent-autograding-accuracy":"finetuned-labse-86-5-percent-autograding-accuracy",
 "finetuned-story-repetition-suboptimal-diversity":"finetuned-story-repetition-suboptimal-diversity",
 "finetuned-story-toxicity-near-zero":"finetuned-story-toxicity-near-zero",
 "finger-gnosia-arithmetic-mixed-evidence":"finger-gnosia-arithmetic-mixed-evidence",
@@ -443705,6 +444816,7 @@
 "game-design-moderates-dgbl-effectiveness":"game-design-moderates-dgbl-effectiveness",
 "game-engagement-rtpj-activation-increase":"game-engagement-rtpj-activation-increase",
 "game-genre-preferences-cross-cultural-patterns":"game-genre-preferences-cross-cultural-patterns",
+"game-genre-setting-moderate-personalization":"game-genre-setting-moderate-personalization",
 "game-intervention-gains-all-three-graduate-skills":"game-intervention-gains-all-three-graduate-skills",
 "game-jam-challenges-4c-affected":"game-jam-challenges-4c-affected",
 "game-jam-five-phases-4c-links":"game-jam-five-phases-4c-links",
@@ -444202,6 +445314,7 @@
 "gender-moderates-educational-processes-to-social-emotional-competence-link":"gender-moderates-educational-processes-to-social-emotional-competence-link",
 "gender-moderates-emotion-regulation-motivation-association":"gender-moderates-emotion-regulation-motivation-association",
 "gender-moderates-fitness-attention-links":"gender-moderates-fitness-attention-links",
+"gender-moderates-personalization-amotivation":"gender-moderates-personalization-amotivation",
 "gender-moderates-tuga-effects":"gender-moderates-tuga-effects",
 "gender-moderation-anxiety-stem-nonsignificant":"gender-moderation-anxiety-stem-nonsignificant",
 "gender-mother-quantity-longitudinal-interaction":"gender-mother-quantity-longitudinal-interaction",
@@ -444315,6 +445428,8 @@
 "genetic-residual-divergence-oral-language-literacy":"genetic-residual-divergence-oral-language-literacy",
 "genetic-stability-environmental-change-achievement":"genetic-stability-environmental-change-achievement",
 "genetic-stability-persists-controlling-for-g":"genetic-stability-persists-controlling-for-g",
+"genie2-67000-us-students-2012-2013":"genie2-67000-us-students-2012-2013",
+"genie2-previously-published-outcomes":"genie2-previously-published-outcomes",
 "geniventure-significant-pre-post-genetics-improvement":"geniventure-significant-pre-post-genetics-improvement",
 "genlang-genetic-overlap-hk-phenotypes":"genlang-genetic-overlap-hk-phenotypes",
 "genre-by-generation-task-interaction-map":"genre-by-generation-task-interaction-map",
@@ -444589,6 +445704,7 @@
 "gpt4-feedback-66-percent-targeted-35-percent-flawed":"gpt4-feedback-66-percent-targeted-35-percent-flawed",
 "gpt4-feedback-no-superior-linguistic-progress-enl":"gpt4-feedback-no-superior-linguistic-progress-enl",
 "gpt4-feedback-useful-for-error-identification":"gpt4-feedback-useful-for-error-identification",
+"gpt4-few-shot-classifies-trainee-responses":"gpt4-few-shot-classifies-trainee-responses",
 "gpt4-high-recall-low-precision-pii-redaction":"gpt4-high-recall-low-precision-pii-redaction",
 "gpt4-higher-polarity-reliability-than-gpt35":"gpt4-higher-polarity-reliability-than-gpt35",
 "gpt4-human-coder-agreement-over-90-percent":"gpt4-human-coder-agreement-over-90-percent",
@@ -444600,6 +445716,9 @@
 "gpt4-practice-gains-exam-loss-cognitive-debt":"gpt4-access-harms-learning-after-withdrawal",
 "gpt4-redaction-compared-to-prior-methods":"gpt4-redaction-compared-to-prior-methods",
 "gpt4-redaction-performance-varies-by-course-content":"gpt4-redaction-performance-varies-by-course-content",
+"gpt4-rephrasing-more-accurate-than-humans-praise":"gpt4-rephrasing-more-accurate-than-humans-praise",
+"gpt4-rephrasing-no-difference-determining-students-know":"gpt4-rephrasing-no-difference-determining-students-know",
+"gpt4-rephrasing-reacting-to-errors-accuracy":"gpt4-rephrasing-reacting-to-errors-accuracy",
 "gpt4-surpasses-specialised-intelligence-agreement":"gpt4-surpasses-specialised-intelligence-agreement",
 "gpt4-zero-shot-comparable-finetuned-classifiers":"gpt4-zero-shot-comparable-finetuned-classifiers",
 "gpt4o-characteristic-assessment-error-types":"gpt4o-characteristic-assessment-error-types",
@@ -444679,6 +445798,7 @@
 "grade9-distance-problems-summer-school-achievement":"grade9-distance-problems-summer-school-achievement",
 "grade9-sen-l-r-steeper-negative-trends":"grade9-sen-l-r-steeper-negative-trends",
 "graded-exemplars-shift-an-llm-grader-by-the-level-they-are-marked-at":"graded-exemplars-shift-an-llm-grader-by-the-level-they-are-marked-at",
+"graded-portability-of-70-student-models-2013-2014":"graded-portability-of-70-student-models-2013-2014",
 "gradeopt-near-perfect-ck-agreement":"gradeopt-near-perfect-ck-agreement",
 "gradeopt-substantial-agreement-pck-outperforms-baselines":"gradeopt-substantial-agreement-pck-outperforms-baselines",
 "grader-bias-estimation-dominates-accuracy-gains":"grader-bias-estimation-dominates-accuracy-gains",
@@ -444807,6 +445927,7 @@
 "group-effect-knowledge-shift-anova":"group-effect-knowledge-shift-anova",
 "group-expertise-raises-explanation-quality":"group-expertise-raises-explanation-quality",
 "group-interaction-type-profiles-differ":"group-interaction-type-profiles-differ",
+"group-invariance-time-model-difficulty":"group-invariance-time-model-difficulty",
 "group-level-feedback-visualizations-metadiscourse":"group-level-feedback-visualizations-metadiscourse",
 "group-level-scaffolding-training-increases-teacher-process-support-and-student-participation":"group-level-scaffolding-training-increases-teacher-process-support-and-student-participation",
 "group-marginal-inferences-cat-skills-propensity":"group-marginal-inferences-cat-skills-propensity",
@@ -444977,6 +446098,7 @@
 "guiding-support-more-orchestration-actions-than-mirroring":"guiding-support-more-orchestration-actions-than-mirroring",
 "guiding-support-stimulated-targeted-group-interactions":"guiding-support-stimulated-targeted-group-interactions",
 "guidon-students-could-not-understand-mycin-rules":"guidon-students-could-not-understand-mycin-rules",
+"gums-viable-repositories-not-behaviour-models":"gums-viable-repositories-not-behaviour-models",
 "gun-control-framing-polarizes-and-reduces-accuracy":"gun-control-framing-polarizes-and-reduces-accuracy",
 "gunn-1996-negative-nonsignificant-alphabetics":"gunn-1996-negative-nonsignificant-alphabetics",
 "guo-video-style-engagement-findings":"guo-video-style-engagement-findings",
@@ -445141,6 +446263,7 @@
 "heising-simons-funded-early-math-family-engagement-projects":"heising-simons-funded-early-math-family-engagement-projects",
 "heistad-2008-significant-nalt-reading-effect":"heistad-2008-significant-nalt-reading-effect",
 "held-out-concept-activation-predicted-from-ratings":"held-out-concept-activation-predicted-from-ratings",
+"help-abuse-negative-philippines-us":"help-abuse-negative-philippines-us",
 "help-avoidance-understanding-evolving":"help-avoidance-understanding-evolving",
 "help-episode-outcomes-andes-protocols":"help-episode-outcomes-andes-protocols",
 "help-requests-mostly-conceptual-cogreg":"help-requests-mostly-conceptual-cogreg",
@@ -445148,6 +446271,7 @@
 "help-seeking-decline-then-rise-dura-semester":"help-seeking-decline-then-rise-dura-semester",
 "help-seeking-errors-stable-across-units":"help-seeking-errors-stable-across-units",
 "help-seeking-less-frequent-than-withholding":"help-seeking-less-frequent-than-withholding",
+"help-seeking-model-transfer-mixed":"help-seeking-model-transfer-mixed",
 "help-seeking-models-not-transferable-across-cultures":"help-seeking-models-not-transferable-across-cultures",
 "help-seeking-multiple-considerations-beyond-accuracy":"help-seeking-multiple-considerations-beyond-accuracy",
 "help-seeking-negative-predictor-mooc-goal-attainment":"help-seeking-negative-predictor-mooc-goal-attainment",
@@ -445466,6 +446590,7 @@
 "hint-budget-mismanaged-two-patterns":"hint-budget-mismanaged-two-patterns",
 "hint-conditions-time-on-task":"hint-conditions-time-on-task",
 "hint-factory-mdp-hints-effective":"hint-factory-mdp-hints-effective",
+"hint-needed-rate-correlates-shorter-proofs-low-proficiency":"hint-needed-rate-correlates-shorter-proofs-low-proficiency",
 "hint-not-solution-most-challenging-dimension":"hint-not-solution-most-challenging-dimension",
 "hint-prompts-raise-llm-scoring-agreement":"hint-prompts-raise-llm-scoring-agreement",
 "hints-beneficial-at-medium-skill-level":"hints-beneficial-at-medium-skill-level",
@@ -445620,6 +446745,7 @@
 "how-comments-procedural-constructs-shift":"how-comments-procedural-constructs-shift",
 "hpa-crh-glucocorticoid-partial-mediation":"hpa-crh-glucocorticoid-partial-mediation",
 "hpc-pi-mcc-activation-mediation-avoidance":"hpc-pi-mcc-activation-mediation-avoidance",
+"hpk-improved-only-low-agency":"hpk-improved-only-low-agency",
 "hpl-ii-cultural-differences-special-populations":"hpl-ii-cultural-differences-special-populations",
 "hpl-ii-updates-extends-hpl-2000-lifespan":"hpl-ii-updates-extends-hpl-2000-lifespan",
 "hpt-multiple-selves-intertwined":"hpt-multiple-selves-intertwined",
@@ -447507,6 +448633,7 @@
 "kt-algorithm-fixed-point-parameter-constraints":"kt-algorithm-fixed-point-parameter-constraints",
 "kt-algorithm-no-identifiability-problem":"kt-algorithm-no-identifiability-problem",
 "kt-encoders-entity-isolated-deterministic-limits":"kt-encoders-entity-isolated-deterministic-limits",
+"kt-sequential-versus-nida-non-sequential":"kt-sequential-versus-nida-non-sequential",
 "kt1-design-frictions-programming-tutorials-ai-guessing":"kt1-design-frictions-programming-tutorials-ai-guessing",
 "kt1-exam-low-unaided-performance-warning":"kt1-exam-low-unaided-performance-warning",
 "kt1-model-resistance-six-of-ten-assignments":"kt1-model-resistance-six-of-ten-assignments",
@@ -448865,6 +449992,7 @@
 "lpa-six-interest-profiles-two-time-points":"lpa-six-interest-profiles-two-time-points",
 "lpf-trial-math-interest-increase":"lpf-trial-math-interest-increase",
 "lpf-trial-no-effects-except-math-interest":"lpf-trial-no-effects-except-math-interest",
+"lpk-normalized-gain-exceeds-hpk":"lpk-normalized-gain-exceeds-hpk",
 "lpp-group-condition-interaction-protesters":"lpp-group-condition-interaction-protesters",
 "lqg-transfer-complexity-dominates-ratio-efficiency-only":"lqg-transfer-complexity-dominates-ratio-efficiency-only",
 "lr-sbert-highest-specificity-screening":"lr-sbert-highest-specificity-screening",
@@ -450233,7 +451361,10 @@
 "model-size-not-primary-outcome-prediction-factor":"model-size-not-primary-outcome-prediction-factor",
 "model-support-shift-reward-to-belief-learning":"model-support-shift-reward-to-belief-learning",
 "model-tasks-overcome-verbal-explanation-limits":"model-tasks-overcome-verbal-explanation-limits",
+"model-tracing-design-requirements-explain-remediation":"model-tracing-design-requirements-explain-remediation",
 "model-tracing-example-tracing-dominant-authored-types":"model-tracing-example-tracing-dominant-authored-types",
+"model-tracing-superior-remediation-increases-with-goal-structure-complexity":"model-tracing-superior-remediation-increases-with-goal-structure-complexity",
+"model-tracing-tutor-greater-development-effort":"model-tracing-tutor-greater-development-effort",
 "model-user-policy-imaginary":"model-user-policy-imaginary",
 "model-variance-decreases-across-grades":"model-variance-decreases-across-grades",
 "model-variance-explained-galp-bi":"model-variance-explained-galp-bi",
@@ -451112,6 +452243,7 @@
 "new-chance-ged-positive-diploma-negative":"new-chance-ged-positive-diploma-negative",
 "new-chance-improvement-index-plus-8":"new-chance-improvement-index-plus-8",
 "new-chance-significant-increase-diploma-or-ged":"new-chance-significant-increase-diploma-or-ged",
+"new-clusters-eye-tracking-deep-learning-2018-19":"new-clusters-eye-tracking-deep-learning-2018-19",
 "new-haven-teacher-reports-370-deficient-45-superior":"new-haven-teacher-reports-370-deficient-45-superior",
 "new-heights-effective-improving-educational-outcomes":"new-heights-effective-improving-educational-outcomes",
 "new-jersey-abbott-p3-credential-scale-up":"new-jersey-abbott-p3-credential-scale-up",
@@ -451168,6 +452300,7 @@
 "nico-nor-science-gains-over-comparison":"nico-nor-science-gains-over-comparison",
 "nico-nor-teacher-implementation-experience":"nico-nor-teacher-implementation-experience",
 "nicole-subtraction-strategy-order-relation":"nicole-subtraction-strategy-order-relation",
+"nida-conjunctive-qmatrix-mastery-requirement":"nida-conjunctive-qmatrix-mastery-requirement",
 "night-to-night-sleep-variability-adolescents":"night-to-night-sleep-variability-adolescents",
 "nih-scholars-higher-biomedical-research-rates-than-finalists":"nih-ugsp-scholars-outpace-non-awarded-finalists",
 "nih-spends-millions-annually-ugsp-scholarships":"nih-spends-millions-annually-ugsp-scholarships",
@@ -451264,6 +452397,7 @@
 "no-age-difference-jol-information-sources":"no-age-difference-jol-information-sources",
 "no-age-differences-relational-reasoning-this-task":"no-age-differences-relational-reasoning-this-task",
 "no-age-or-career-type-differences-tpack-genai":"no-age-or-career-type-differences-tpack-genai",
+"no-agency-effect-sql-tutor-learning":"no-agency-effect-sql-tutor-learning",
 "no-ai-longer-time-on-task-descriptive":"no-ai-longer-time-on-task-descriptive",
 "no-ai-use-high-comprehension-level3-low":"no-ai-use-high-comprehension-level3-low",
 "no-aied-ethics-framework-or-policy":"no-aied-ethics-framework-or-policy",
@@ -451383,6 +452517,7 @@
 "no-difference-ai-purpose-ratings":"no-difference-ai-purpose-ratings",
 "no-difference-by-competence-measure-or-design":"no-difference-by-competence-measure-or-design",
 "no-difference-error-rate-log":"no-difference-error-rate-log",
+"no-difference-final-diagram-quality-interfaces":"no-difference-final-diagram-quality-interfaces",
 "no-difference-financial-education-analytical-methods-intertemporal":"no-difference-financial-education-analytical-methods-intertemporal",
 "no-difference-gpt35-turbo-claude3-opus":"no-difference-gpt35-turbo-claude3-opus",
 "no-difference-operational-skills-usability":"no-difference-operational-skills-usability",
@@ -452057,6 +453192,7 @@
 "numeral-recognition-predicts-early-cpk":"numeral-recognition-predicts-early-cpk",
 "numerals-condition-outperforms-blocks-and-dots":"numerals-condition-outperforms-blocks-and-dots",
 "numerate-subjects-better-skin-rash-inference":"numerate-subjects-better-skin-rash-inference",
+"numeric-answers-most-accurate-language-variation-under-8":"numeric-answers-most-accurate-language-variation-under-8",
 "numerical-abilities-retrieval-fluency-predict-multiplication-baseline":"numerical-abilities-retrieval-fluency-predict-multiplication-baseline",
 "numerical-cognition-mediation-academic-outcomes":"numerical-cognition-mediation-academic-outcomes",
 "numerical-cognition-predicts-all-three-outcomes":"numerical-cognition-predicts-all-three-outcomes",
@@ -452267,6 +453403,7 @@
 "omnifam-ip-self-censorship-design":"omnifam-ip-self-censorship-design",
 "oms-download-time-barrier":"oms-download-time-barrier",
 "oms-videos-animations-most-impactful-modeling":"oms-videos-animations-most-impactful-modeling",
+"on-demand-hint-requests-rare-and-equivalent":"on-demand-hint-requests-rare-and-equivalent",
 "on-grade-math-pools-larger-sem-low-end":"on-grade-math-pools-larger-sem-low-end",
 "on-grade-pools-larger-bias-rmse":"on-grade-pools-larger-bias-rmse",
 "on-screen-distractions-no-comprehension-cost":"on-screen-distractions-no-comprehension-cost",
@@ -452570,6 +453707,7 @@
 "osce-advantage-4cid-not-significant":"osce-advantage-4cid-not-significant",
 "ose-negative-worries-both-sexes":"ose-negative-worries-both-sexes",
 "ose-worries-stronger-for-girls":"ose-worries-stronger-for-girls",
+"osfa-fewer-mistakes-session1-performance":"osfa-fewer-mistakes-session1-performance",
 "oshea-textbook-mental-development-practice-problems":"oshea-textbook-mental-development-practice-problems",
 "osl-authenticity-studies-inconsistent-effects":"osl-authenticity-studies-inconsistent-effects",
 "osp-community-remixed-75-ejs-models":"osp-community-remixed-75-ejs-models",
@@ -452616,6 +453754,7 @@
 "outdoor-learning-reduces-student-stress-cortisol":"outdoor-learning-reduces-student-stress-cortisol",
 "outdoor-time-associated-with-right-dlpfc-grey-matter":"outdoor-time-associated-with-right-dlpfc-grey-matter",
 "outer-context-shapes-cris-implementation":"outer-context-shapes-cris-implementation",
+"outlier-score-student-similar-module-readiness":"outlier-score-student-similar-module-readiness",
 "output-based-evaluation-misaligned-llm-assistance":"output-based-evaluation-misaligned-llm-assistance",
 "output-evaluation-competence-gains":"output-evaluation-competence-gains",
 "output-incentives-no-achievement-gains":"output-incentives-no-achievement-gains",
@@ -452743,6 +453882,8 @@
 "page-revising-more-backtracking":"page-revising-more-backtracking",
 "paid-ai-tool-access-equity-advantage":"paid-ai-tool-access-equity-advantage",
 "paid-leave-benefits-mothers-infants":"paid-leave-benefits-mothers-infants",
+"paintdotnet-its-lower-usability":"paintdotnet-its-lower-usability",
+"paintdotnet-its-task-performance-mixed":"paintdotnet-its-task-performance-mixed",
 "pair-c-scaffolding-shows-mixed-evidence-for-emergent-phenomena-instruction":"pair-c-scaffolding-shows-mixed-evidence-for-emergent-phenomena-instruction",
 "paired-associate-lag-function-retention-interval":"paired-associate-lag-function-retention-interval",
 "paired-ballot-preference-study-195-classes":"paired-ballot-preference-study-195-classes",
@@ -452813,6 +453954,7 @@
 "par-gains-transfer-to-independent-evaluators":"par-gains-transfer-to-independent-evaluators",
 "paradoxical-trust-untrustworthy-genai":"paradoxical-trust-untrustworthy-genai",
 "parallel-forms-equal-total-values":"parallel-forms-equal-total-values",
+"parameter-correlations-skill-variability-difficulty-discrimination":"parameter-correlations-skill-variability-difficulty-discrimination",
 "parameter-differences-predict-prosocial-signatures":"parameter-differences-predict-prosocial-signatures",
 "parameters-individual-and-advice-bias":"parameters-individual-and-advice-bias",
 "parameters-vary-systematically-with-interval":"parameters-vary-systematically-with-interval",
@@ -453307,6 +454449,7 @@
 "pepper-three-pedagogical-roles":"pepper-three-pedagogical-roles",
 "pepper-vs-tablets-higher-participation-sen-language":"pepper-vs-tablets-higher-participation-sen-language",
 "per-elision-computed-values-unequal":"per-elision-computed-values-unequal",
+"per-exam-accuracy-fluctuates-validation-detects-deviations":"per-exam-accuracy-fluctuates-validation-detects-deviations",
 "per-exposure-gains-decrease":"per-exposure-gains-decrease",
 "per-letter-difficulty-and-name-knowledge-gains":"per-letter-difficulty-and-name-knowledge-gains",
 "per-pupil-spending-increase-improves-adult-outcomes":"per-pupil-spending-increase-improves-adult-outcomes",
@@ -453440,6 +454583,7 @@
 "performance-goals-self-competence-assertion":"performance-goals-self-competence-assertion",
 "performance-improved-day1-to-day2-tapacarp":"performance-improved-day1-to-day2-tapacarp",
 "performance-increases-monotonically-with-practice-exams-concave-curve":"performance-increases-monotonically-with-practice-exams-concave-curve",
+"performance-moderates-external-motivation":"performance-moderates-external-motivation",
 "performance-norms-moderate-affective-reactivity":"performance-norms-moderate-affective-reactivity",
 "performance-not-indicator-learning-open-ended":"performance-not-indicator-learning-open-ended",
 "performance-peak-augmentation-llama-rises":"performance-peak-augmentation-llama-rises",
@@ -453519,10 +454663,12 @@
 "personality-traits-are-malleable":"personality-traits-are-malleable",
 "personality-traits-teacher-child-relationships":"personality-traits-teacher-child-relationships",
 "personalization-effect-social-cues":"personalization-effect-social-cues",
+"personalization-fewer-moderators-subject-interval-null":"personalization-fewer-moderators-subject-interval-null",
 "personalization-improves-easy-kc-accuracy-algebra-its":"personalization-improves-easy-kc-accuracy-algebra-its",
 "personalization-improves-hard-kc-accuracy-algebra-its":"personalization-improves-hard-kc-accuracy-algebra-its",
 "personalization-limited-blended-designs":"personalization-limited-blended-designs",
 "personalization-methods-achievement-inequality-mixed":"personalization-methods-achievement-inequality-mixed",
+"personalization-no-significant-motivation-difference-gamified-assessments":"personalization-no-significant-motivation-difference-gamified-assessments",
 "personalization-null-body-coupling":"personalization-null-body-coupling",
 "personalization-reduces-gaming-behavior":"personalization-reduces-gaming-behavior",
 "personalization-reduces-solution-time-efficiency":"personalization-reduces-solution-time-efficiency",
@@ -454025,6 +455171,7 @@
 "popular-prevention-approaches-understudied":"popular-prevention-approaches-understudied",
 "population-parameters-systematic-mastery-error":"population-parameters-systematic-mastery-error",
 "population-type-moderates-l2-gender-gap":"population-type-moderates-l2-gender-gap",
+"ported-models-context-sensitive-must-be-retested":"ported-models-context-sensitive-must-be-retested",
 "portfolio-adds-equity-context-holistic-review":"portfolio-adds-equity-context-holistic-review",
 "portfolio-analysis-critical-creative-engagement":"portfolio-analysis-critical-creative-engagement",
 "portfolio-environment-no-deeper-learning-surface-increase":"portfolio-environment-no-deeper-learning-surface-increase",
@@ -454446,6 +455593,8 @@
 "pretest-accuracy-moderates-typical-argument-training":"pretest-accuracy-moderates-typical-argument-training",
 "pretest-assumption-conclusion-difficulties":"pretest-assumption-conclusion-difficulties",
 "pretest-cognitive-flexibility-predicts-decoding-gains-compensates-alphabet":"pretest-cognitive-flexibility-predicts-decoding-gains-compensates-alphabet",
+"pretest-differences-country-time-interaction":"pretest-differences-country-time-interaction",
+"pretest-does-not-explain-cultural-differences":"pretest-does-not-explain-cultural-differences",
 "pretest-equivalence-noss-sks-groups":"pretest-equivalence-noss-sks-groups",
 "pretest-equivalence-phoneme-awareness-kindergarten-trial":"pretest-equivalence-phoneme-awareness-kindergarten-trial",
 "pretest-grade-correlate-conceptual-not-procedural":"pretest-grade-correlate-conceptual-not-procedural",
@@ -455774,6 +456923,7 @@
 "ready-set-leap-null-print-knowledge":"ready-set-leap-null-print-knowledge",
 "ready4k-texts-improve-preschool-literacy":"ready4k-texts-improve-preschool-literacy",
 "real-cohorts-separate-from-marginal-surrogates-synthetic-do-not":"real-cohorts-separate-from-marginal-surrogates-synthetic-do-not",
+"real-data-prediction-baseline-captures-most-gain":"real-data-prediction-baseline-captures-most-gain",
 "real-data-reliability-overestimated-2-3-to-4-9-percent":"real-data-reliability-overestimated-2-3-to-4-9-percent",
 "real-groups-higher-synchrony-than-false-groups":"real-groups-higher-synchrony-than-false-groups",
 "real-life-tasks-high-intrinsic-load-need-management":"real-life-tasks-high-intrinsic-load-need-management",
@@ -458321,6 +459471,7 @@
 "simulation-based-learning-large-positive-effect-complex-skills":"simulation-based-learning-large-positive-effect-complex-skills",
 "simulation-comparability-60-items-1200-simulees":"simulation-comparability-60-items-1200-simulees",
 "simulation-content-shifts-curiosity-categories":"simulation-content-shifts-curiosity-categories",
+"simulation-data-requirements-parameter-estimation":"simulation-data-requirements-parameter-estimation",
 "simulation-effects-vary-by-complex-skill":"simulation-effects-vary-by-complex-skill",
 "simulation-games-as-supplement-not-standalone":"simulation-games-as-supplement-not-standalone",
 "simulation-games-effective-when-instruction-active":"simulation-games-effective-when-instruction-active",
@@ -458409,6 +459560,7 @@
 "sips-do-not-guide-root-cause-efforts":"sips-do-not-guide-root-cause-efforts",
 "siptw-superior-balance-for-time-varying-treatment":"siptw-superior-balance-for-time-varying-treatment",
 "sit-outperformed-write-practice-instruction":"sit-outperformed-write-practice-instruction",
+"site-specific-help-seeking-model-fit":"site-specific-help-seeking-model-fit",
 "sitthiworachart-peer-ratings-objective-judgements":"sitthiworachart-peer-ratings-objective-judgements",
 "situated-instruction-outperformed-abstract-control-causality":"situated-instruction-outperformed-abstract-control-causality",
 "situated-perspective-bilingual-math-meaning":"situated-perspective-bilingual-math-meaning",
@@ -459096,6 +460248,7 @@
 "split-attention-effect-in-worked-examples":"split-attention-effect-in-worked-examples",
 "split-attention-effect-integration-improves-learning":"split-attention-effect-degrades-learning",
 "split-group-validation-replicates-interaction":"split-group-validation-replicates-interaction",
+"split-half-learning-rate-stability":"split-half-learning-rate-stability",
 "split-persona-effect-agents":"split-persona-effect-agents",
 "split-sleep-afternoon-alertness-focus":"split-sleep-afternoon-alertness-focus",
 "split-sleep-afternoon-encoding-advantage":"split-sleep-afternoon-encoding-advantage",
@@ -459497,6 +460650,7 @@
 "step-level-supervision-essential-misconception-acquisition":"step-level-supervision-essential-misconception-acquisition",
 "step-linked-visualization-externalizes-reasoning":"step-linked-visualization-externalizes-reasoning",
 "step-mc-prepost-gains":"step-mc-prepost-gains",
+"step-size-hpk-challenging-selection":"step-size-hpk-challenging-selection",
 "stepwise-conflict-guidance-reduces-idea-addition":"stepwise-conflict-guidance-reduces-idea-addition",
 "stepwise-mcq-benefit-moderators":"stepwise-mcq-benefit-moderators",
 "stepwise-mcq-benefits-generalize":"stepwise-mcq-benefits-generalize",
@@ -459696,6 +460850,7 @@
 "structured-cai-maintains-memory-recall-to-retention":"structured-cai-maintains-memory-recall-to-retention",
 "structured-cai-spacing-improves-recall-and-retention":"structured-cai-spacing-improves-recall-and-retention",
 "structured-chatgpt-integration-improves-programming-learning":"structured-chatgpt-integration-improves-programming-learning",
+"structured-cscl-interface-acts-and-symmetry":"structured-cscl-interface-acts-and-symmetry",
 "structured-dialogue-corrects-82-percent-llm-errors":"structured-dialogue-corrects-82-percent-llm-errors",
 "structured-discussion-approaches-improve-comprehension":"structured-discussion-methods-improve-comprehension",
 "structured-discussion-methods-improve-comprehension":"structured-discussion-methods-improve-comprehension",
@@ -461307,6 +462462,8 @@
 "technical-ailes-dominate-creative-managerial-underrepresented":"technical-ailes-dominate-creative-managerial-underrepresented",
 "technical-assistance-professional-learning-highest":"technical-assistance-professional-learning-highest",
 "technical-competency-associated-lower-distraction":"technical-competency-associated-lower-distraction",
+"technical-degree-personalization-intrinsic-motivation":"technical-degree-personalization-intrinsic-motivation",
+"technical-fixes-miss-political-questions":"technical-fixes-miss-political-questions",
 "technical-issues-barrier-playlist-implementation":"technical-issues-barrier-playlist-implementation",
 "technological-failures-inhibit-social-vr-communication":"technological-failures-inhibit-social-vr-communication",
 "technological-self-efficacy-modest-predictor-ai-well-being":"technological-self-efficacy-modest-predictor-ai-well-being",
@@ -462401,6 +463558,7 @@
 "tutor-practice-greater-learning-gains-than-paper":"tutor-practice-greater-learning-gains-than-paper",
 "tutor-prompt-outperforms-base-prompt-mathdial":"tutor-prompt-outperforms-base-prompt-mathdial",
 "tutor-rating-factors-not-one-trait":"tutor-rating-factors-not-one-trait",
+"tutor-tactics-three-attempt-bottom-out":"tutor-tactics-three-attempt-bottom-out",
 "tutorbench-rubrics-encode-agency-active-learning-highest":"tutorbench-rubrics-encode-agency-active-learning-highest",
 "tutored-strategy-training-most-effective-for-inference-drawing":"tutored-strategy-training-most-effective-for-inference-drawing",
 "tutorial-group-size-moderates-sdl":"tutorial-group-size-moderates-sdl",
@@ -462457,6 +463615,7 @@
 "two-developmental-types-of-feeble-mindedness":"two-developmental-types-of-feeble-mindedness",
 "two-dimensional-rasch-models-fit-better":"two-dimensional-rasch-models-fit-better",
 "two-dimensions-metacognitive-awareness-university-students":"two-dimensions-metacognitive-awareness-university-students",
+"two-domain-characteristics-distinguish-tutoring-paradigms":"two-domain-characteristics-distinguish-tutoring-paradigms",
 "two-factor-calculation-structure-better-fit":"two-factor-calculation-structure-better-fit",
 "two-factor-structure-ent3-nrs-cs":"two-factor-structure-ent3-nrs-cs",
 "two-force-plate-impulse-asymmetry-student-project":"two-force-plate-impulse-asymmetry-student-project",
@@ -462486,6 +463645,7 @@
 "two-thirds-laggards-weak-high-school-records":"two-thirds-laggards-weak-high-school-records",
 "two-thirds-students-declined-genai-when-allowed":"two-thirds-students-declined-genai-when-allowed",
 "two-track-structure-teacher-genai-beliefs":"two-track-structure-teacher-genai-beliefs",
+"two-trends-student-modelling-description-simulation":"two-trends-student-modelling-description-simulation",
 "two-truancy-problems-full-day-and-class-cutting":"two-truancy-problems-full-day-and-class-cutting",
 "two-types-of-equation-confusion":"two-types-of-equation-confusion",
 "two-vs-four-year-transfers-differ-key-characteristics":"two-vs-four-year-transfers-differ-key-characteristics",
@@ -463414,6 +464574,8 @@
 "web-folders-enable-coaching":"web-folders-enable-coaching",
 "web-search-higher-quality-justifications-than-llm":"web-search-higher-quality-justifications-than-llm",
 "web-spa-peer-review-consistency-and-improvement":"web-spa-peer-review-consistency-and-improvement",
+"web-xpst-authoring-productivity-study":"web-xpst-authoring-productivity-study",
+"web-xpst-nonprogrammers-author-successfully":"web-xpst-nonprogrammers-author-successfully",
 "web20-self-actualisation-views-mixed":"web20-self-actualisation-views-mixed",
 "website-inscriptions-procedural-only":"website-inscriptions-procedural-only",
 "wec-achievement-relationship-stable-year-census":"wec-achievement-relationship-stable-year-census",
@@ -463605,6 +464767,9 @@
 "within-group-gains-design-and-ai-readiness-only":"within-group-gains-design-and-ai-readiness-only",
 "within-judge-stability-llm-rubric":"within-judge-stability-llm-rubric",
 "within-list-lag-persists-with-interitem-associations":"within-list-lag-persists-with-interitem-associations",
+"within-module-grouping-beats-random-and-score-metrics":"within-module-grouping-beats-random-and-score-metrics",
+"within-module-groups-high-percentile-shared-items":"within-module-groups-high-percentile-shared-items",
+"within-module-groups-rarely-lack-shared-items":"within-module-groups-rarely-lack-shared-items",
 "within-nation-inverse-relation-performance-continuum":"within-nation-inverse-relation-performance-continuum",
 "within-person-deviations-unrelated-across-constructs":"within-person-deviations-unrelated-across-constructs",
 "within-person-fairness-mediates-trust-motivation":"within-person-fairness-mediates-trust-motivation",
@@ -463934,9 +465099,12 @@
 "xor-reaction-time-strategy-difference":"xor-reaction-time-strategy-difference",
 "xor-transfer-nonlinear-mixing-advantage":"xor-transfer-nonlinear-mixing-advantage",
 "xorder-intractable-institutional-scale":"xorder-intractable-institutional-scale",
+"xpst-ctat-comparable-authoring-outcomes":"xpst-ctat-comparable-authoring-outcomes",
 "xr-higher-agent-realism-than-non-immersive":"xr-higher-agent-realism-than-non-immersive",
 "xrcl-advantages-increase-with-adaptation":"xrcl-advantages-increase-with-adaptation",
 "xrcl-meta-analysis-effect-041":"xrcl-meta-analysis-effect-041",
+"xstat-tutor-satisfaction-higher":"xstat-tutor-satisfaction-higher",
+"xstat-tutor-transfer-gains":"xstat-tutor-transfer-gains",
 "yai4edu-intelligent-explanations-rated-higher-than-baselines":"yai4edu-intelligent-explanations-rated-higher-than-baselines",
 "yao-linear-growth-mck-vk":"yao-linear-growth-mck-vk",
 "yeager-fink-indeterminate-effects":"yeager-fink-indeterminate-effects",
@@ -464016,6 +465184,7 @@
 "zambrano-2019-low-density-benefit-shortlived":"zambrano-2019-low-density-benefit-shortlived",
 "zambrano-2019-low-density-lower-effort-learning":"zambrano-2019-low-density-lower-effort-learning",
 "zearn-rct-nwea-map-effect-011":"zearn-rct-nwea-map-effect-011",
+"zero-false-negative-target-yields-10-percent-workload-reduction":"zero-false-negative-target-yields-10-percent-workload-reduction",
 "zero-location-from-zero-scorers":"zero-location-from-zero-scorers",
 "zero-shot-feedback-quality-comparable-to-teacher":"zero-shot-feedback-quality-comparable-to-teacher",
 "zero-shot-llm-granularity-competency-classification":"zero-shot-llm-granularity-competency-classification",
@@ -464243,6 +465412,7 @@
 "compound-line-graph-ai-integration-lesson":"compound-line-graph-ai-integration-lesson",
 "comprehensive-principal-preparation-features":"comprehensive-principal-preparation-features",
 "computer-supported-complex-systems-curricula":"computer-supported-complex-systems-curricula",
+"conceptual-change-approach-beetle":"conceptual-change-approach-beetle",
 "conceptual-model-cultural-contextual-discussion-behaviors":"conceptual-model-cultural-contextual-discussion-behaviors",
 "conceptual-narrative-flow-hyperbook-design":"conceptual-narrative-flow-hyperbook-design",
 "conditions-for-equitable-learning-and-development-three-categories":"conditions-for-equitable-learning-and-development-three-categories",
@@ -464525,6 +465695,7 @@
 "genai-video-tracking-fitting-workflow":"genai-video-tracking-fitting-workflow",
 "geneplore-schacter-creative-writing-design-framework":"geneplore-schacter-creative-writing-design-framework",
 "generated-activity-types-collision-prevention":"generated-activity-types-collision-prevention",
+"genie2-lesson-scripts":"genie2-lesson-scripts",
 "genius-hour-elected-enrichment-blocks":"genius-hour-elected-enrichment-blocks",
 "georgia-doe-lead-certification-pilot":"georgia-doe-lead-certification-pilot",
 "geospatial-semester-gis-curriculum":"geospatial-semester-gis-curriculum",
@@ -464796,6 +465967,7 @@
 "padlet-chatgpt-eportfolio-workspace":"padlet-chatgpt-eportfolio-workspace",
 "page-scroll-screen-presentation-prototypes":"page-scroll-screen-presentation-prototypes",
 "pair-based-discovery-llm-analysis-activity":"pair-based-discovery-llm-analysis-activity",
+"paired-mt-cb-tutors-statistical-hypothesis-testing":"paired-mt-cb-tutors-statistical-hypothesis-testing",
 "pal-rhythmic-entrainment-paradigm":"pal-rhythmic-entrainment-paradigm",
 "paper-based-group-awareness-brochure":"paper-based-group-awareness-brochure",
 "parallel-text-structure-intervention-design":"parallel-text-structure-intervention-design",
@@ -467127,6 +468299,7 @@
 "beable-academy":"beable-academy",
 "beacon":"beacon",
 "becoming-effective-learners-student-survey-bel-s":"becoming-effective-learners-student-survey-bel-s",
+"beetle-ii-intelligent-tutoring-system":"beetle-ii-intelligent-tutoring-system",
 "bell-chemistry-test-and-appended-payne-correction-sheet":"bell-chemistry-test-and-appended-payne-correction-sheet",
 "berea-college-promise-neighborhood-initiative":"berea-college-promise-neighborhood-initiative",
 "berlin-end-of-schooling-tracking-dataset-2155-students-87-schools":"berlin-end-of-schooling-tracking-dataset-2155-students-87-schools",
@@ -467383,6 +468556,7 @@
 "dash4emotion":"dash4emotion",
 "datacanvas-edu-ai-agent-skill-package":"datacanvas-edu-ai-agent-skill-package",
 "dataset-of-103-postgraduate-data-science-project-proposals-with-instructor-feedback-used-t":"dataset-of-103-postgraduate-data-science-project-proposals-with-instructor-feedback-used-t",
+"dataset-of-1830-aied-articles-from-five-major-publication-sources-20102019":"dataset-of-1830-aied-articles-from-five-major-publication-sources-20102019",
 "dataset-of-23-publicly-available-us-ai-assisted-software-engineering-course-syllabi-and-ma":"dataset-of-23-publicly-available-us-ai-assisted-software-engineering-course-syllabi-and-ma",
 "dataset-of-434-expert-labelled-authentic-learner-questions-augmented-to-balance-class-dist":"dataset-of-434-expert-labelled-authentic-learner-questions-augmented-to-balance-class-dist",
 "dataset-of-484-de-identified-student-project-reports-with-instructor-reviews-collected-ove":"dataset-of-484-de-identified-student-project-reports-with-instructor-reviews-collected-ove",
@@ -467449,6 +468623,7 @@
 "e-mcqg":"e-mcqg",
 "e-tutor":"e-tutor",
 "e3sense":"e3sense",
+"eagle-edu":"eagle-edu",
 "early-childhood-ethnic-identity-interview-eceii":"early-childhood-ethnic-identity-interview-eceii",
 "early-childhood-longitudinal-study-kindergarten-class-of-1998-1999-ecls-k":"early-childhood-longitudinal-study-kindergarten-class-of-1998-1999-ecls-k",
 "early-college":"early-college",
@@ -467673,6 +468848,7 @@
 "generative-ai-literacy-assessment-test-glat":"generative-ai-literacy-assessment-test-glat",
 "generative-ai-student-feedback-literacy-scale-genai-sfls":"generative-ai-student-feedback-literacy-scale-genai-sfls",
 "genesis-framework":"genesis-framework",
+"genie-2":"genie-2",
 "geniventure":"geniventure",
 "geogebra":"geogebra",
 "geometry-reasoning-and-proof-test-grpt-with-perception-and-attitude-questionnaire":"geometry-reasoning-and-proof-test-grpt-with-perception-and-attitude-questionnaire",
@@ -468377,6 +469553,7 @@
 "privacyai":"privacyai",
 "pro-audito-computer-based-speechreading-training-lippenlesench":"pro-audito-computer-based-speechreading-training-lippenlesench",
 "proberai":"proberai",
+"problem-solving-tutor":"problem-solving-tutor",
 "production-based-learning-model":"production-based-learning-model",
 "professional-learning-communities-at-work-plc-at-work":"professional-learning-communities-at-work-plc-at-work",
 "profy":"profy",
@@ -468976,6 +470153,7 @@
 "wayang-outpost-mathspring-multimedia-mathematics-tutoring-system":"wayang-outpost-mathspring-multimedia-mathematics-tutoring-system",
 "web-based-gai-chatbot-with-instructor-facing-learning-analytics-dashboard":"web-based-gai-chatbot-with-instructor-facing-learning-analytics-dashboard",
 "web-based-multiplication-practice-program-dataset-of-469-multidigit-problems":"web-based-multiplication-practice-program-dataset-of-469-multidigit-problems",
+"web-xpst":"web-xpst",
 "weights-simulation-tool-for-texas-community-college-funding-scenarios":"weights-simulation-tool-for-texas-community-college-funding-scenarios",
 "wested-center-on-school-turnaround-journeys-project":"wested-center-on-school-turnaround-journeys-project",
 "wested-mtss-coaching-model":"wested-mtss-coaching-model",
@@ -469013,6 +470191,7 @@
 "writing-to-read":"writing-to-read",
 "wwc-seven-recommendation-framework-for-preparing-young-children-for-school":"wwc-seven-recommendation-framework-for-preparing-young-children-for-school",
 "www-entrez":"www-entrez",
+"xpst":"xpst",
 "xtreme-reading":"xtreme-reading",
 "yai4edu":"yai4edu",
 "year-up":"year-up",
@@ -469101,6 +470280,7 @@
 "classical-test-theory-decision-consistency-estimation-methods":"classical-test-theory-decision-consistency-estimation-methods",
 "classical-twin-design":"classical-twin-design",
 "classification-framework-distinguishing-global-quality-global-process-quality-quality-peda":"classification-framework-distinguishing-global-quality-global-process-quality-quality-peda",
+"cluster-based-productive-persistence-discovery-method":"cluster-based-productive-persistence-discovery-method",
 "co-referencing-typology-and-coding-scheme-for-analyzing-collaborative-interaction-around-e":"co-referencing-typology-and-coding-scheme-for-analyzing-collaborative-interaction-around-e",
 "codil-framework-taxonomy-of-learning-activities-for-digitally-enriched-educational-setting":"codil-framework-taxonomy-of-learning-activities-for-digitally-enriched-educational-setting",
 "coding-framework-of-metacognition-intervention-components-and-instructional-methods":"coding-framework-of-metacognition-intervention-components-and-instructional-methods",
@@ -469120,6 +470300,7 @@
 "common-acceptability-thresholds-for-psychometric-evidence-in-educational-measurement":"common-acceptability-thresholds-for-psychometric-evidence-in-educational-measurement",
 "common-multilevel-developmental-framework-for-cross-study-coordination":"common-multilevel-developmental-framework-for-cross-study-coordination",
 "comparative-framework-for-longitudinal-models-differing-in-change-processes-temporal-struc":"comparative-framework-for-longitudinal-models-differing-in-change-processes-temporal-struc",
+"comparative-framework-for-model-tracing-and-constraint-based-intelligent-tutoring-paradigm":"comparative-framework-for-model-tracing-and-constraint-based-intelligent-tutoring-paradigm",
 "comparative-guide-table-of-ai-model-families-for-cognitive-model-selection-and-validity-ch":"comparative-guide-table-of-ai-model-families-for-cognitive-model-selection-and-validity-ch",
 "compas-framework-six-forms-modeling-individual-participation-in-collaborative-learning":"compas-framework-six-forms-modeling-individual-participation-in-collaborative-learning",
 "component-based-instructional-design-framework-for-analyzing-ict-supported-writing-interve":"component-based-instructional-design-framework-for-analyzing-ict-supported-writing-interve",
@@ -469284,6 +470465,7 @@
 "four-component-validity-scoring-scheme-for-eye-tracking-measures":"four-component-validity-scoring-scheme-for-eye-tracking-measures",
 "four-condition-dichotic-listening-paradigm-with-mtrf-speech-envelope-reconstruction":"four-condition-dichotic-listening-paradigm-with-mtrf-speech-envelope-reconstruction",
 "four-criterion-selection-of-neuropsychological-measures-for-portable-classroom-eeg":"four-criterion-selection-of-neuropsychological-measures-for-portable-classroom-eeg",
+"four-dimension-classification-for-grading-student-model-portability":"four-dimension-classification-for-grading-student-model-portability",
 "four-dimension-learning-analytics-reference-model-what-how-why-who":"four-dimension-learning-analytics-reference-model-what-how-why-who",
 "four-dimension-team-creative-performance-framework-for-dst-evaluation":"four-dimension-team-creative-performance-framework-for-dst-evaluation",
 "four-function-taxonomy-of-pictures-in-multimedia-testing-decorative-representational-organ":"four-function-taxonomy-of-pictures-in-multimedia-testing-decorative-representational-organ",
@@ -469306,6 +470488,7 @@
 "four-type-taxonomy-of-behavioural-change-in-team-learning-behaviours-dynamics-pattern-deve":"four-type-taxonomy-of-behavioural-change-in-team-learning-behaviours-dynamics-pattern-deve",
 "four-type-taxonomy-of-computer-assisted-word-reading-interventions":"four-type-taxonomy-of-computer-assisted-word-reading-interventions",
 "four-type-taxonomy-of-word-problem-process-models-by-process-order-and-mental-representati":"four-type-taxonomy-of-word-problem-process-models-by-process-order-and-mental-representati",
+"framework-for-determining-the-quality-of-rephrased-responses-accuracy-responsiveness":"framework-for-determining-the-quality-of-rephrased-responses-accuracy-responsiveness",
 "framework-of-computer-based-scaffolding-design-characteristics-and-moderators":"framework-of-computer-based-scaffolding-design-characteristics-and-moderators",
 "framework-of-reliability-and-validity-evidence-categories-for-classifying-rcr-outcome-meas":"framework-of-reliability-and-validity-evidence-categories-for-classifying-rcr-outcome-meas",
 "framework-of-teachers-judgments-of-students-monitoring-skills-with-three-accuracy-measures":"framework-of-teachers-judgments-of-students-monitoring-skills-with-three-accuracy-measures",
@@ -469378,6 +470561,7 @@
 "joint-rt-and-accuracy-diffusion-modeling-of-trial-level-learning-trajectories":"joint-rt-and-accuracy-diffusion-modeling-of-trial-level-learning-trajectories",
 "jonassen-informed-prompt-variation-framework-with-maps-based-evaluation-for-probing-lrm-ph":"jonassen-informed-prompt-variation-framework-with-maps-based-evaluation-for-probing-lrm-ph",
 "justified-claims-coding-scheme-for-self-explanation-quality-in-ill-defined-statistics-prob":"justified-claims-coding-scheme-for-self-explanation-quality-in-ill-defined-statistics-prob",
+"knowledge-space-theory-kst":"knowledge-space-theory-kst",
 "ksa-three-axis-evaluation-framework-with-a-four-level-skills-hierarchy-centerrolescenarios":"ksa-three-axis-evaluation-framework-with-a-four-level-skills-hierarchy-centerrolescenarios",
 "kt-grounded-simulated-learner":"kt-grounded-simulated-learner",
 "l-statistic":"l-statistic",
@@ -469391,6 +470575,7 @@
 "linearity-assumption-testing-for-mental-effort-relations":"linearity-assumption-testing-for-mental-effort-relations",
 "llm-embedding-autograding-pipeline-for-freeform-mathematical-proofs":"llm-embedding-autograding-pipeline-for-freeform-mathematical-proofs",
 "llm-scoring-generated-feedback-and-essay-feature-analysis-framework":"llm-scoring-generated-feedback-and-essay-feature-analysis-framework",
+"log-linear-model-of-problem-solving-times-analogical-to-the-irt-three-parameter-model":"log-linear-model-of-problem-solving-times-analogical-to-the-irt-three-parameter-model",
 "lonchamps-three-level-integration-of-dialog-knowledge-and-action-analysis-for-dual-interac":"lonchamps-three-level-integration-of-dialog-knowledge-and-action-analysis-for-dual-interac",
 "longitudinal-achievement-growth-analysis":"longitudinal-achievement-growth-analysis",
 "longitudinal-intervention-design-for-disentangling-maturational-and-experience-dependent-l":"longitudinal-intervention-design-for-disentangling-maturational-and-experience-dependent-l",
@@ -469566,6 +470751,7 @@
 "seven-step-recursive-ant-analysis-of-dialogic-and-non-dialogic-classroom-talk-networks":"seven-step-recursive-ant-analysis-of-dialogic-and-non-dialogic-classroom-talk-networks",
 "seven-step-recursive-ant-analysis-procedure-for-classroom-discourse":"seven-step-recursive-ant-analysis-procedure-for-classroom-discourse",
 "seven-type-feedback-focus-taxonomy-adapted-from-narciss-for-written-teacher-feedback":"seven-type-feedback-focus-taxonomy-adapted-from-narciss-for-written-teacher-feedback",
+"seventeen-log-derived-help-seeking-features-for-assessing-help-seeking-in-intelligent-tuto":"seventeen-log-derived-help-seeking-features-for-assessing-help-seeking-in-intelligent-tuto",
 "simulated-respondent-framework":"simulated-respondent-framework",
 "simulated-video-group-discussion-method-for-isolating-cognitive-activities-in-collaborativ":"simulated-video-group-discussion-method-for-isolating-cognitive-activities-in-collaborativ",
 "simulation-based-framework-for-evaluating-learner-task-selection-strategies-and-system-con":"simulation-based-framework-for-evaluating-learner-task-selection-strategies-and-system-con",
@@ -469636,6 +470822,7 @@
 "teaching-through-interactions-framework":"teaching-through-interactions-framework",
 "temporal-network-analysis":"temporal-network-analysis",
 "temporal-smoothness-doubly-robust-tsdr-framework-for-debiased-knowledge-tracing":"temporal-smoothness-doubly-robust-tsdr-framework-for-debiased-knowledge-tracing",
+"tension-relaxation-analysis-of-interpersonal-relations-in-collaborative-argumentation":"tension-relaxation-analysis-of-interpersonal-relations-in-collaborative-argumentation",
 "test-disengagement-adjustment-through-sample-removal-and-rapid-guess-score-correction":"test-disengagement-adjustment-through-sample-removal-and-rapid-guess-score-correction",
 "testlet-level-cfa-for-assessing-dimensionality-of-cat-data":"testlet-level-cfa-for-assessing-dimensionality-of-cat-data",
 "text-based-cognitive-mapping-method-for-measuring-team-shared-mental-models":"text-based-cognitive-mapping-method-for-measuring-team-shared-mental-models",
@@ -469912,6 +471099,7 @@
 "adventure-therapy-effect-size-benchmarks":"adventure-therapy-effect-size-benchmarks",
 "advise-students-plan-breaks-effort-avoid-procrastination":"advise-students-plan-breaks-effort-avoid-procrastination",
 "advisories-and-looping-whole-child":"advisories-and-looping-whole-child",
+"affect-aware-carelessness-interventions":"affect-aware-carelessness-interventions",
 "affect-aware-programming-environments-strategy":"affect-aware-programming-environments-strategy",
 "affect-sensitive-autotutor-responses":"affect-sensitive-autotutor-responses",
 "affective-data-governance-safeguards":"affective-data-governance-safeguards",
@@ -470019,6 +471207,7 @@
 "ai_in_education_toolkit_for_racial_equity":"ai_in_education_toolkit_for_racial_equity",
 "aids-to-cooperative-learning-implementation":"aids-to-cooperative-learning-implementation",
 "aied-beyond-comfort-zone-ill-defined-domains":"aied-beyond-comfort-zone-ill-defined-domains",
+"aied-challenges-interpersonal-relations-genre-appropriation":"aied-challenges-interpersonal-relations-genre-appropriation",
 "aied-collaboration-at-scale":"aied-collaboration-at-scale",
 "aied-collective-responsibility-strategies":"aied-collective-responsibility-strategies",
 "aied-deployments-meet-school-criteria":"aied-deployments-meet-school-criteria",
@@ -472701,6 +473890,7 @@
 "governance-reform-architectures-people-technologies":"governance-reform-architectures-people-technologies",
 "gpa-3-0-college-readiness-benchmark":"gpa-3-0-college-readiness-benchmark",
 "gps-early-identification-precision-education":"gps-early-identification-precision-education",
+"gpt4-rephrase-incorrect-responses-feedback-strategy":"gpt4-rephrase-incorrect-responses-feedback-strategy",
 "grade-ai-assignments-on-dialogue":"grade-ai-assignments-on-dialogue",
 "grade-free-classroom-set-clicker-implementation":"grade-free-classroom-set-clicker-implementation",
 "grade-level-cluster-z-score-cross-state-evaluation-strategy":"grade-level-cluster-z-score-cross-state-evaluation-strategy",
@@ -474415,6 +475605,7 @@
 "pegword_strategy":"pegword_strategy",
 "pencil_grasp_activities":"pencil_grasp_activities",
 "pepperoni_pizza":"pepperoni_pizza",
+"per-exam-validation-via-difficult-samples":"per-exam-validation-via-difficult-samples",
 "per-technique-coverage-targets-over-raw-volume":"per-technique-coverage-targets-over-raw-volume",
 "perceived-versus-actual-fading-rate-strategy":"perceived-versus-actual-fading-rate-strategy",
 "percentage-consensus-opinionnaires":"percentage-consensus-opinionnaires",

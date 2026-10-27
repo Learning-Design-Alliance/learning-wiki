@@ -110,3 +110,4 @@ gamified vocabulary practice.
 - [Effects of gamification on mathematics motivation show substantial heterogeneity (I² = 80.74%), mostly within-study](gamification-mathematics-heterogeneity-substantial.md) — related
 - [Educational level, methodological quality, and competitiveness of design do not significantly moderate gamification's effect on mathematics motivation](gamification-mathematics-moderators-nonsignificant.md) — related
 - [Gamification produces a statistically significant small-to-moderate positive effect on motivation in secondary and higher education mathematics (g = .383)](gamification-motivation-mathematics-meta-effect.md) — a narrower finding that bears on this claim
+- [Multidimensional personalization of gamification produced no statistically significant motivational differences from OSFA gamification in gamified review assessments](personalization-no-significant-motivation-difference-gamified-assessments.md) — related

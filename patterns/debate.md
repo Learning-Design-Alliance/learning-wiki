@@ -29,7 +29,7 @@ sources:
 # Debate
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 17 claims (3 for, 13 mixed, 1 against) · 27 studies (8 causal, 7 review, 5 quant-synthesis, 4 theoretical, 1 associational, 1 qualitative, 1 design), `q1`–`q4` · 5 of 27 report an effect size · 10 claims rest on one study
+> **Evidence** · 19 claims (3 for, 15 mixed, 1 against) · 28 studies (9 causal, 7 review, 5 quant-synthesis, 4 theoretical, 1 associational, 1 qualitative, 1 design), `q1`–`q4` · 5 of 28 report an effect size · 12 claims rest on one study
 
 ## Description and scope
 
@@ -129,6 +129,8 @@ This pattern is scoped to structured adversarial argument on a question that adm
 - Defending Consistent Positions Improves Advocacy [+W]
 - [Students in the GD and TD conditions did not differ significantly in time online or in adding, editing, or deleting elements in the Debate-tool.](../claims/no-condition-difference-tool-activity.md) [~W]
 - [Adding reflective activities to dialogic argumentation produced greater content-knowledge gains on the intervention topic than argumentation practice alone](../claims/reflection-boosts-topic-knowledge-gains.md) [~W]
+- [Effects of pedagogical debate on students' viewpoints differ between scientific and socio-scientific domains](../claims/debate-viewpoint-change-domain-differentiated.md) [~W]
+- [Debating freely before re-analysing the debate as a diagram was more beneficial than concurrent discussion and diagram co-creation](../claims/debate-then-diagram-sequencing-beneficial.md) [~W]
 
 ## Related Patterns
 - [Socratic Seminar](../elements/socratic-seminar.md)
