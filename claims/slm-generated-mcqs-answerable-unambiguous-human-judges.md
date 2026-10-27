@@ -52,3 +52,4 @@ Human evaluation study: seven middle-school science teachers answered 64 MCQs ge
 - [Expert review establishes excellent content validity for TAILS (S-CVI/Ave = 0.98; I-CVI 0.86–1.00)](tails-content-validity-cvi.md) — related
 - [Model size defines a core trade-off: too-large SLMs answer without the cognitive structure while too-small SLMs break instruction-following coherence](curse-of-prior-knowledge-size-tradeoff.md)
 - [Expert evaluation found the hybrid system's generated MCQ stems promising in usefulness and grammatical correctness](expert-evaluation-mcq-stems-promising.md) — related
+- [Math and science are well-structured domains whose formal tasks make them favorable application areas for AIED technology](well-structured-domains-favor-aied.md) — related

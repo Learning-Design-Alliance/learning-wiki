@@ -53,3 +53,4 @@ Discussion-level analysis mapped observed behaviors onto the A3C framework (Jeon
 - [Danmaku learners engage in parasocial greetings and compliments to the instructor and seek co-learning presence, phenomena absent on the discussion board](parasocial-greetings-and-co-learning-presence-in-danmaku.md) — related
 - [Danmaku interaction is predominantly socio-emotional while discussion-board interaction tilts cognitive, and the tools share only four content categories](danmaku-socio-emotional-vs-board-cognitive-categories.md) — related
 - [Danmaku primarily carries tacit knowledge sharing via personal experience while the discussion board carries explicit mathematical knowledge](danmaku-tacit-versus-board-explicit-knowledge-sharing.md) — related
+- [Student engagement in iHelp was not uniform: many lurkers read without contributing while a small minority sought helper status](ihelp-engagement-nonuniform-lurkers-helpers.md) — related

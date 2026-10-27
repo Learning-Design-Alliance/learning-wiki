@@ -46,6 +46,7 @@ The article recommends that "in place of employing short-term interventions in t
 - [Sustain doctoral methodological competence through continued practice, feedback, and authentic application rather than isolated short courses](sustained-practice-for-doctoral-methodological-skills.md)
 - [Design AI-powered support for international students that integrates with university systems and helps sustain community for long-term use](long-term-ai-support-integrated-university-systems.md)
 - [Prioritize sustained, pedagogically grounded faculty TPACK development over one-off technology workshops and infrastructure investment](sustained-faculty-tpack-development-programs.md)
+- [Evaluate satisfaction with the learning experience separately from satisfaction with the learning outcome](evaluate-experience-and-outcome-satisfaction-separately.md)
 
 ## Examples
 -

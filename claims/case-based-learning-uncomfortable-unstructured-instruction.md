@@ -49,3 +49,4 @@ Interview finding from the discussion section of the case study. The authors lin
 - [International students wanted more global cases and closer connections between case analyses and their local work contexts](lack-of-global-cases-local-relevance.md) — related
 - [Students perceive debriefing and guided psychometric-property exploration as the most beneficial components of a simulated clinical course](debriefing-psychometric-instruction-valued.md) — related
 - [An internal program review found absence of a consistent pedagogical framework and need for active case-based materials](program-review-five-design-findings.md) — related
+- [Learners in the dual-layer DALMOOC experienced uncertainty and discomfort transitioning from instructor-driven to self-regulated learning, and found the distributed structure confusing](dalmooc-learners-uncertain-in-self-regulated-transition.md) — related

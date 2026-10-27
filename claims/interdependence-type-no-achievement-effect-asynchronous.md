@@ -68,3 +68,4 @@ One experiment (Brewer & Klein 2003, 280 undergraduate business majors in triads
 - [Small-group learning improves undergraduate STEM achievement](small-group-learning-improves-stem-achievement.md) — a broader claim this one bears on
 - [In one study of undergraduate business majors in asynchronous online small groups, learners with high affiliation motive agreed more than low-affiliation learners with six of twelve attitude statements about group work](high-affiliation-motive-favorable-group-attitudes.md) — related
 - [Kindergarten triads sharing one computer with three mice and interdependent roles enhanced social skills](kindergarten-triads-shared-computer-social-skills.md) — related
+- [A dynamic adaptive reward mechanism in Comtella regulated online community contributions sustainably at an instructor-predefined level](comtella-adaptive-incentive-regulation.md) — related

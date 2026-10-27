@@ -85,7 +85,7 @@ In Experiment 1, 80 undergraduates studied a science text in one of four ways: s
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does having learners build an organization of the content as a concept map help, and against what comparison?* This table gathers the studies behind this claim and the 10 narrower claims that bear on it: **10 distinct studies** (4 causal, 3 quant-synthesis, 1 review, 1 design, 1 theoretical), `q1`–`q4`, 5 of 10 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Should learners build the visual themselves, and does building it beat studying a provided one or recalling from memory?* This table gathers the studies behind this claim and the 10 narrower claims that bear on it: **10 distinct studies** (4 causal, 3 quant-synthesis, 1 review, 1 design, 1 theoretical), `q1`–`q4`, 5 of 10 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|

@@ -49,3 +49,4 @@ Numerical evaluation on the held-out test dataset DV of the Classtime corpus, wi
 - [In zero-shot evaluation, GPT-4's multi-label classification results were similar to what might be expected of fine-tuned classifiers, with SetFit and GPT-3.5 showing contrasting precision/recall patterns](gpt4-zero-shot-comparable-finetuned-classifiers.md) — related
 - [The fine-tuned BERT model generalizes to an external dataset collected by a different research team, maintaining almost perfect agreement with human coders](bert-generalizes-external-self-affirmation-dataset.md) — related
 - [Autograding is most accurate for numeric answers, and error rates vary less than 8% across languages](numeric-answers-most-accurate-language-variation-under-8.md) — related
+- [Under unseen-answers evaluation, the German Transformer model's F-Scores are numerically similar to state-of-the-art Transformer results for English](german-english-fscore-comparable.md) — related

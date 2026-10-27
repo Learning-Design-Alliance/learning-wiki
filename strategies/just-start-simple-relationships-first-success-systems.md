@@ -44,6 +44,7 @@ Drawing on Demopolis High School's experience, the report recommends that distri
 - [Know every student well through many adults, multi-year teacher loops, and flexible small-group instruction](know-every-student-well-flexible-grouping.md)
 - [Design schools for strong, personalized relationships through small learning communities, looping, advisory systems, teaching teams, and longer grade spans](personalized-relationship-structures-strategy.md)
 - [Distance from broad global solutions and design education around specific local needs, letting communities decide the purpose school serves](locally-negotiated-education-hunter-gatherer.md)
+- [Use the system's student data analysis to let teachers monitor class progress and mistakes at scale](teacher-monitors-class-progress-via-its-data.md)
 
 ## Examples
 -

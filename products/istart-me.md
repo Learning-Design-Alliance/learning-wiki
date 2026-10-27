@@ -30,3 +30,4 @@ iSTART-ME is a game-based intelligent tutoring system developed by the iSTART re
 
 ## Key Sources
 - Erica L. Snow, Aaron D. Likens, Laura K. Allen, & Danielle S. McNamara. (2016). Taking Control: Stealth Assessment of Deterministic Behaviors Within a Game-Based System. International Journal of Artificial Intelligence in Education. https://doi.org/10.1007/s40593-015-0085-5
+- Snow, E. L., Allen, L. K., Jackson, G. T., & McNamara, D. S. (2015). Spendency: Students' Propensity to Use System Currency. International Journal of Artificial Intelligence in Education, 25, 407–427. https://doi.org/10.1007/s40593-015-0044-1

@@ -49,6 +49,7 @@ The article recommends a combination of organisational and technical measures ra
 ## Related Strategies
 
 - [Institutional governance should establish practical conditions supporting AI literacy, learner agency, and critical evaluation rather than relying on prohibition and detection](governance-beyond-prohibition-detection.md)
+- [Recommendations for using automatic grading systems more securely in practice](recommendations-safer-asag-deployment.md)
 
 ## Examples
 -

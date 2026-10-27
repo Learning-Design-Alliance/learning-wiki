@@ -26,7 +26,7 @@ sources:
 # Assessment Mechanic
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 8 claims (3 for, 5 mixed) · 8 studies (2 quant-synthesis, 2 associational, 2 theoretical, 1 causal, 1 review), `q1`–`q4` · 4 of 8 report an effect size · 7 claims rest on one study
+> **Evidence** · 10 claims (4 for, 6 mixed) · 9 studies (2 quant-synthesis, 2 associational, 2 theoretical, 1 causal, 1 review, 1 design), `q1`–`q4` · 4 of 9 report an effect size · 9 claims rest on one study
 
 ## Description
 Games instrument themselves. Every action a player takes can be written to a log, which means a game is already collecting far more evidence about how a learner is thinking than a test administered afterwards ever could — *provided the actions it records are the ones worth interpreting*. An **assessment mechanic** is the design construct that makes that proviso hold. Plass and colleagues define it in the same parallel to Salen and Zimmerman that gives us the [Learning Mechanic](learning-mechanic.md):
@@ -86,6 +86,8 @@ The source's central warning is that instantiating an assessment mechanic as a g
 - [Stealth assessment estimates of problem solving in Use Your Brainz correlate significantly with external measures (Raven's and MicroDYN) in middle-school students](../claims/stealth-assessment-problem-solving-correlates-external-measures.md) [+W] — attached 2026-10-16 from Shute et al. (2016), which proposed "Use Your Brainz stealth assessment with 32 indicators and per-level Bayesian networks".
 - [MicroDYN is a stronger predictor of the in-game problem solving estimates than Raven's, with the rule-application facet more relevant than rule acquisition](../claims/microdyn-stronger-predictor-than-ravens.md) [~W]
 - [Log-based behaviours predicted problem-solving performance in the DI-PS group but hardly explained knowledge acquisition in either group](../claims/log-behaviours-predict-performance-not-knowledge.md) [~W]
+- [On the TIMSS dataset, InitialD reaches the same estimation error with fewer questions than random sampling or a traditional adaptive test](../claims/initiald-question-efficiency-timss.md) [+W] — attached 2026-10-27 from Jill-Jêenn Vie et al. (2018), which proposed "InitialD: DPP-based diverse question sampling for cold-start assessment"; tests this page's relationship.
+- [InitialD converges faster toward the final diagnosis only for small question counts; a standard CAT converges faster beyond about 14 questions](../claims/initiald-early-cat-late-convergence.md) [~W] — attached 2026-10-27 from Jill-Jêenn Vie et al. (2018), which proposed "InitialD: DPP-based diverse question sampling for cold-start assessment"; tests this page's relationship.
 
 ## Related Elements
 

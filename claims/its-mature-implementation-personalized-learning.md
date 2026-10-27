@@ -64,3 +64,5 @@ The review's Research Question 6 synthesis of nine ITS studies, which the review
 - [The personalization effect improves learning, moderated by prior knowledge, content type, pacing, culture, and language](personalization-effect-social-cues.md) — related
 - [ITS authoring tools have mainly targeted design before students' instruction, but works also address authoring during and/or post-instruction relying on human and artificial intelligence](authoring-mainly-pre-instruction-life-cycle-emerging.md) — related
 - [Machine learning is the most frequently studied AI type in AIED systematic reviews, followed by intelligent tutoring systems, learning analytics, and data mining](machine-learning-most-studied-ai-in-aied-reviews.md) — related
+- [A minimalist approach to intelligence and adaptivity can still achieve practical success at scale in real classrooms](a-little-intelligence-can-go-a-long-way.md) — related
+- [Simulated students were used to evaluate whether the prototype engines select rational tutorial actions emulating human tutors](simulated-students-evaluate-action-selection.md) — a narrower finding that bears on this claim

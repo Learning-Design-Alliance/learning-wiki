@@ -51,3 +51,4 @@ The article's problem-specification section reviews prior attempts at collecting
 - [The Orientation Statistic Read From Learner Records Is a Difficulty Sort](observation-orients-edges-only-where-prerequisites-gate.md)
 - [Zero-shot LLMs perform only marginally above random in five-class competency classification but exceed 70% accuracy on binary classification](zero-shot-llm-granularity-competency-classification.md) — related
 - [One student group compared outputs across three LLMs and judged Gemini more accurate overall, though it still failed fine-grained distinctions](multi-llm-comparison-gemini-more-accurate.md) — related
+- [Research favors fine-grained knowledge components, but fine granularity brings practical costs that can outweigh better data fit](fine-granularity-knowledge-components-practical-costs.md) — related

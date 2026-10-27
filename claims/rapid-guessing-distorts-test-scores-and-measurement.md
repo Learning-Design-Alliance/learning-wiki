@@ -126,3 +126,4 @@ The article's abstract states the consequence of the opt-out conceptualization: 
 - [Disengaged responding biases observed scores from achievement tests and surveys in practically and statistically significant ways](disengaged-responding-biases-observed-scores.md) — a broader claim this one bears on
 - [Representational pictures enhance test-taker enjoyment, response certainty, and reduce rapid-guessing behaviour](representational-pictures-affective-metacognitive-benefits.md) — related
 - [Opting out has disadvantages: it can obscure implicit knowledge, enable excessive opting out, and complicate assessment](opting-out-disadvantages-assessment.md) — related
+- [Aberrant student behavior produces systematic, non-random data biases: cheating concentrated in difficult exercises and domain-dependent rapid guessing](aberrant-behavior-systematic-data-biases.md) — a narrower finding that bears on this claim

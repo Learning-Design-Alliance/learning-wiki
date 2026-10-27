@@ -58,3 +58,4 @@ Student interviews and focus groups in the course case studies. "Online lab exer
 - [Teachers who focused on knowledge-building principles showed deeper understanding than those focused on surface procedures or technical aspects](principle-focused-teachers-deeper-understanding.md) — related
 - [Disclosing personal histories related to course topics tends to lead to longer and deeper discussion threads, especially when instructors encourage such identity presence](identity-presence-deeper-discussion-threads.md) — related
 - [Visual presentation, especially motion pictures, dispenses largely with the teacher's personal influence and the group's social interaction](visual-presentation-reduces-teacher-influence.md) — related
+- [Instructors who visibly promoted iHelp and the peer help model seemed to engender greater student engagement](ihelp-instructor-promotion-engagement.md) — related

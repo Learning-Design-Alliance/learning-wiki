@@ -38,7 +38,8 @@ The article recommends a structured workflow for scaling coding of open-ended st
 - Scalable, reliable identification of self-affirming content in student writing to support intervention research and educator feedback
 
 ## Related Strategies
-- 
+
+- [Deploy automated reflection analytics for immediate, scalable feedback on reflective writing](automated-reflection-analytics-immediate-scalable.md)
 
 ## Examples
 -

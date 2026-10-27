@@ -45,7 +45,8 @@ The paper argues that current MOOCs use simple technology—video, quizzes, foru
 - [The UDMOOC reaches a learner demographic unlike typical MOOC cohorts, with a 42% completion rate](../claims/udmooc-reaches-underserved-demographics-42-percent-completion.md) [~W]
 
 ## Related Strategies
-- 
+
+- [Address MOOC personalization at scale by using learners as helpers plus personalization technology to find the right helper at the right time](peer-help-personalization-scalable-moocs.md)
 
 ## Examples
 -

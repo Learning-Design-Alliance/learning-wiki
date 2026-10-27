@@ -18,7 +18,7 @@ sources:
 # Adaptive Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 27 claims (17 for, 9 mixed, 1 against) · 26 studies (7 causal, 7 review, 3 quant-synthesis, 3 associational, 3 qualitative, 2 theoretical, 1 design), `q1`–`q4` · 3 of 26 report an effect size · 26 claims rest on one study
+> **Evidence** · 29 claims (19 for, 9 mixed, 1 against) · 28 studies (8 causal, 8 review, 3 quant-synthesis, 3 associational, 3 qualitative, 2 theoretical, 1 design), `q1`–`q4` · 3 of 28 report an effect size · 28 claims rest on one study
 
 ## Description
 Adaptive learning tailors content, pacing, support, or task sequence in response to evidence about a learner's current performance, needs, or prior knowledge.
@@ -79,6 +79,8 @@ Adaptive learning tailors content, pacing, support, or task sequence in response
 - [Technology-supported personalized learning approaches, especially adaptive learning technologies, are reported to raise student achievement more than traditional non-adaptive instruction](../claims/tech-personalized-learning-raises-achievement.md) [+W]
 - [AI in psychomotor ITS is used predominantly for feedback construction rather than for task recommendation or adaptation](../claims/its-ai-feedback-over-recommendation.md) [-W]
 - [Personalized and transparent automated guidance improved science learning mainly for low-prior-knowledge students, and two specific guidance types yielded similar gains](../claims/personalized-transparent-automated-guidance-science-learning.md) [~W]
+- [The type of emotional support and slant given to a learner depends on the score the learner achieved (Experiment 1: conscientiousness)](../claims/feedback-type-depends-on-achieved-score.md) [+W] — attached 2026-10-27 from Matt Dennis et al. (2016), which proposed "Algorithm for adapting emotional support and slant to learner personality and performance"; tests this page's relationship.
+- [Many countries face serious STEM education problems, and tailoring instruction to students' knowledge levels is identified as a key challenge](../claims/stem-problems-tailoring-instruction-challenge.md) [+W]
 
 ## The evidence by question
 - *Does adaptive instruction raise achievement over non-individualised instruction or the same content in a fixed sequence?* [Intelligent tutoring systems improve achievement over non-individualised instruction](../claims/adaptive-learning-improves-outcomes.md) [+S]

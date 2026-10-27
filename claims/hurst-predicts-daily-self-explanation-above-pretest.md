@@ -50,3 +50,6 @@ Linear regression with 40 students: model one showed pretest self-explanation pr
 - [Students who interact more deterministically within iSTART-ME generate higher quality self-explanations during training](deterministic-interaction-patterns-higher-training-self-explanation-quality.md) — related
 - [Hurst exponents are unrelated to the frequency of interacting with any specific game-based feature](hurst-unrelated-to-feature-frequency.md) — related
 - [Surrogate analysis validates that observed Hurst exponents reflect genuine persistence rather than short-series artifacts](surrogate-analysis-validates-hurst-exponents.md) — related
+- [Spendency is negatively related to daily self-explanation quality during training but not to posttest or retention self-explanation quality](spendency-daily-self-explanation-negative.md) — related
+- [High-spendency students show an interaction loop alternating between generative practice games and personalizable features](spendency-practice-personalization-loop.md) — related
+- [Spendency is unrelated to prior reading ability, prior self-explanation performance, and self-reported enjoyment and motivation](spendency-unrelated-prior-ability-attitudes.md) — related

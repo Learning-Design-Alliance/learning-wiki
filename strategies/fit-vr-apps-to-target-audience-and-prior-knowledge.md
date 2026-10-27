@@ -37,7 +37,8 @@ Because school type, rather than test condition, determined how effective the VR
 - Sustainability and biodiversity learning outcomes, including knowledge, interest, and pro-environmental attitudes
 
 ## Related Strategies
-- 
+
+- [Design future AI curricula to fit the school day, centering student and teacher needs for K-12 in-person and virtual learning](design-recommendations-future-k12-ai-curricula.md)
 
 ## Examples
 -

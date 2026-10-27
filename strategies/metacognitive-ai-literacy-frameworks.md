@@ -48,6 +48,7 @@ The article recommends updating AI literacy frameworks so they "move beyond tool
 - [Formative friction: require goal statements, alternative comparison, and justification before high-stakes delegation, kept proportionate and accessible](formative-friction-proportionate-accessible.md)
 - [Integrate emotion-regulation and metacognitive support into AI literacy education, with differentiated learning assistance](ai-literacy-emotion-regulation-metacognitive-support.md)
 - [Define a shared empirical research agenda grounding K-12 AI education designs](k12-ai-education-research-agenda.md)
+- [Provide early, proactive metacognitive support that guides feedback interpretation and strategy adjustment, beyond merely presenting performance information](early-proactive-calibration-support-tools.md)
 
 ## Examples
 -

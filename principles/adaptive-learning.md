@@ -36,7 +36,7 @@ sources:
 # Adaptive Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 75 claims (41 for, 30 mixed, 4 against) · 73 studies (24 causal, 19 review, 10 design, 7 quant-synthesis, 7 associational, 4 theoretical, 2 qualitative), `q1`–`q4` · 11 of 73 report an effect size · 68 claims rest on one study
+> **Evidence** · 76 claims (41 for, 31 mixed, 4 against) · 74 studies (24 causal, 19 review, 10 design, 7 quant-synthesis, 7 associational, 5 theoretical, 2 qualitative), `q1`–`q4` · 11 of 74 report an effect size · 69 claims rest on one study
 
 ## Conditional relationship
 
@@ -195,6 +195,7 @@ Within-system performance, aligned achievement, standardised achievement, delaye
 - [Fifty minutes of adaptive n-back training produced small but significant accuracy gains and response-time decreases with large individual differences](../claims/fifty-minute-nback-training-improves-accuracy-and-response-time.md) [+W]
 - [KERMIT observes students' actions and adapts to their knowledge and learning abilities](../claims/kermit-adapts-to-student-actions.md) [+W]
 - [A large-scale USA study of Cognitive Tutors found only limited evidence of relative effectiveness over conventional teaching, with classroom use not strongly controlled](../claims/pane-2014-cognitive-tutor-limited-effectiveness-scale.md) [~W]
+- [Optimizing pedagogical parameters on proxy measures risks trading learning for engagement, and simulated students carry their own accuracy limits](../claims/proxy-optimization-engagement-trap.md) [~W]
 
 ## Related Principles
 - [Cognitive Load Management](cognitive-load-management.md) — adaptation is the primary mechanism for keeping intrinsic load matched to learner expertise over time

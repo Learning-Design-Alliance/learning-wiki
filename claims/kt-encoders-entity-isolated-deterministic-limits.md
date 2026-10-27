@@ -54,3 +54,4 @@ The authors' interpretive framing of the field: they state that despite question
 - DKT influence graphs recover latent concept structure from unlabeled interaction data — related
 - [Classical description logic cannot model non-crisp knowledge, and fuzzy and probabilistic DL extensions substantially increase reasoning complexity, limiting practical use](dl-crisp-limitation-fuzzy-probabilistic-complexity.md) — related
 - [Meta-behavioral pattern extraction outperforms knowledge-concept-based collaborative extraction, which fails to consistently boost performance due to data sparsity](meta-behavioral-extraction-beats-kc-based-variants.md) — related
+- [Automatic analysis of collaboration logs via a fuzzy model was redesigned to use Bayesian reasoning for larger groups because fuzzy modelling of teachers' criteria was not easily scalable](fuzzy-to-bayesian-collaboration-analysis-scalability.md) — related

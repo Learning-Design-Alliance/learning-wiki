@@ -14,7 +14,7 @@ grain_size: lesson
 # Collaborative Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 59 claims (24 for, 32 mixed, 3 against) · 49 studies (15 causal, 8 review, 6 associational, 6 theoretical, 5 quant-synthesis, 5 qualitative, 4 design), `q1`–`q4` · 10 of 49 report an effect size · 57 claims rest on one study
+> **Evidence** · 61 claims (24 for, 34 mixed, 3 against) · 51 studies (15 causal, 8 review, 7 theoretical, 6 associational, 6 qualitative, 5 quant-synthesis, 4 design), `q1`–`q4` · 10 of 51 report an effect size · 59 claims rest on one study
 
 ## Description and scope
 
@@ -140,6 +140,8 @@ This pattern is scoped to pairs and small groups where each member's individual 
 - [Collaborative versus individual problem solving during PF showed no significant benefit for young students' conceptual knowledge or number of generated solution ideas](../claims/collaboration-null-effects-pf-young-students.md) [~W]
 - [Pairing several children per computer did not lower learning gains despite weaker individualisation](../claims/two-children-per-computer-gains-not-lower.md) [+W]
 - [Collaborative features of Lab4CE saw very little use in the exploratory study](../claims/lab4ce-collaboration-low-usage.md) [~W]
+- [Students learning fractions with an AIED system achieved the best outcomes in a condition mixing individual and collaborative work rather than wholly either mode](../claims/combined-individual-collaborative-its-best-outcomes.md) [~W]
+- [Co-regulation and socially shared regulation occur rarely in synchronous online collaborative learning](../claims/corl-ssrl-rare-synchronous-cscl.md) [~W]
 
 ## Related Patterns
 - [Collaborative Inquiry](../principles/inquiry-based-learning.md)

@@ -49,3 +49,4 @@ Normative results from the same 100 subjects show the hardest words with printed
 - [Wells' proposed equally-difficult easy list was not fully standardized, with sick, open, and glad producing non-uniform responses](wells-list-not-fully-standardized.md) — related
 - [Earlier opposites-test scoring methods ignored differences in stimulus-word difficulty, penalizing all errors equally](opposites-earlier-scoring-ignored-word-difficulty.md) — related
 - [Response frequencies to stimulus words vary widely, with easy words answered correctly by most subjects and hard words such as suave missed by 96%](opposites-word-difficulty-range-suave-96-percent.md) — related
+- [When all students follow an identical task sequence, data from an easy-to-hard sequence with learning and a flat sequence without learning can be virtually indistinguishable](ordering-bias-task-sequence-indistinguishable.md) — related

@@ -52,3 +52,4 @@ Kruskal–Wallis H test on course-log participation counts across the three cond
 - [Both SRL intervention modes produced higher course exit quiz scores than control in a programming MOOC](srl-interventions-raised-exit-quiz-scores-mooc.md) — related
 - [SRL intervention groups had significantly lower dropout than control in a MOOC, with no difference between the two intervention modes](srl-interventions-reduced-mooc-dropout.md) — related
 - [The intervention did not increase students' SRL aptitude, yet supported higher course grades](regulatory-support-no-increase-srl-aptitude.md) — related
+- [Participation in Bazaar synchronous chat sessions is associated with roughly a 50 percent lower risk of dropout in an edX MOOC](chat-participation-halves-dropout-risk.md) — related

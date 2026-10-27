@@ -59,3 +59,4 @@ The design is known here only through the review's one-paragraph account, and th
 - [Adding reciprocal peer tutoring with audio prompting to incidental exposure produced stronger vocabulary gains than incidental exposure alone for fourth-grade struggling readers](peer-tutoring-audio-prompting-vocabulary-gains.md) — related
 - [Teachers with high incidental exposure described expanded opportunities for word use and connecting words to topics](teacher-practices-expanded-word-use-themes.md) — related
 - [Combining reading comprehension and writing strategy instruction in an ITS is significantly more effective than either strategy alone](combined-reading-writing-strategy-instruction-its.md) — a narrower finding that bears on this claim
+- [Students learning fractions with an AIED system achieved the best outcomes in a condition mixing individual and collaborative work rather than wholly either mode](combined-individual-collaborative-its-best-outcomes.md) — related

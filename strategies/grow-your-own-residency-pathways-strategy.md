@@ -66,6 +66,7 @@ The report describes GYO programs that "recruit local community members into tea
 - [Recruit residency candidates locally from the communities they will teach in, with LEA partners participating in admissions](local-recruitment-lea-partner-admissions.md)
 - [Deploy a portfolio of research-based strategies — service scholarships, residencies, Grow Your Own programs, mentoring and induction, and compensation reform — to strengthen the teacher pipeline](portfolio-strategies-teacher-pipeline-texas.md)
 - [Program-leader recommendations for strengthening teacher apprenticeship experiences](rtap-program-leader-recommendations.md)
+- [Partner with and train in-service local teachers to co-instruct AI workshops and become ambassadors for AI education](teacher-co-instruction-ai-workshops.md)
 
 ## Examples
 - [California Classified School Employee Teacher Credentialing Program](../products/california-classified-school-employee-teacher-credentialing-program-grow-your-own.md) — state funding for tuition reimbursement of classified staff becoming teachers

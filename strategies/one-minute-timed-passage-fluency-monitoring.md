@@ -42,6 +42,7 @@ The Fluency Formula™ Assessment System "allows teachers to assess student flue
 - [Curriculum Based Measurement](curriculum-based-measurement.md)
 - [Timed Practice With Progress Monitoring](timed-practice-with-progress-monitoring.md)
 - [Progress Monitoring](progress_monitoring.md)
+- [Use the system's student data analysis to let teachers monitor class progress and mistakes at scale](teacher-monitors-class-progress-via-its-data.md)
 
 ## Examples
 -

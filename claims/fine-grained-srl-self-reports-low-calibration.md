@@ -52,3 +52,4 @@ Narrative review synthesis of ten included higher-education studies comparing se
 - [A task-specific questionnaire built item-by-item from a think-aloud coding taxonomy correlated r=.51 with think-aloud protocols, higher than the -.07 to .42 regularly reported](task-specific-questionnaire-think-aloud-correlation-51.md) — related
 - [The SKT-SRL shows low, mostly non-significant correlations with SRL microanalysis (online measure)](skt-srl-microanalysis-low-correlation.md) — a narrower finding that bears on this claim
 - [Trace data tend to predict achievement better than self-reports, but self-reports of global SRL intensity can outperform traces](traces-predict-achievement-better-than-self-reports.md) — related
+- [Research favors fine-grained knowledge components, but fine granularity brings practical costs that can outweigh better data fit](fine-granularity-knowledge-components-practical-costs.md) — related

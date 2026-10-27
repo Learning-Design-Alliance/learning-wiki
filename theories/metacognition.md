@@ -12,7 +12,7 @@ generated:
 # Metacognition
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 461 claims (215 for, 223 mixed, 23 against) · 234 studies (112 causal, 50 associational, 28 review, 16 theoretical, 12 quant-synthesis, 10 qualitative, 6 design), `q1`–`q4` · 82 of 234 report an effect size · 454 claims rest on one study
+> **Evidence** · 462 claims (215 for, 224 mixed, 23 against) · 235 studies (112 causal, 51 associational, 28 review, 16 theoretical, 12 quant-synthesis, 10 qualitative, 6 design), `q1`–`q4` · 82 of 235 report an effect size · 455 claims rest on one study
 
 ## Description
 Metacognition is knowledge about, and the ability to regulate, one's own cognitive processes — realistically judging how difficult a task will be, monitoring whether a strategy is working, and adjusting accordingly. It is closely related to, but distinct from, [Executive Function Development](executive-function-development.md): executive function is the underlying capacity to control and coordinate cognition, while metacognition is specifically the learner's own knowledge *about* that cognition and the strategies available to direct it.
@@ -504,6 +504,7 @@ A rough age-8 inflection point has been observed in some longitudinal work: stra
 - [In the performance phase, AI tools helped learners organize tasks and supported metacognitive monitoring, but sometimes inaccurately reflected tasks and lacked in-depth responses](../claims/ai-performance-phase-benefits-and-drawbacks.md) [~W]
 - [Weak metacognitive-regulation capacities are associated with disengagement, aggression, and delinquency, while reflective scaffolding interventions improve psychosocial functioning](../claims/mr-weakness-delinquency-scaffolding-improves.md) [+W]
 - [Students underestimate their retrospective use of distributed practice compared with daily experience-sampling reports](../claims/retrospective-underestimation-distributed-practice.md) [~W]
+- [Greater engagement in repeated quiz-taking predicts more conservative downward shifts in students' metacognitive judgments during learning](../claims/repeated-quizzing-shifts-judgments-conservatively.md) [~W]
 
 ## The evidence by question
 

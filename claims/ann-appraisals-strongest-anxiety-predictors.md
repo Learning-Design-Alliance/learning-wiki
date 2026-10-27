@@ -51,3 +51,4 @@ Supplementary ANN (5–3–1 network, repeated 10-fold cross-validation with 10 
 - [Educational cross-sectional studies link stronger AI reliance or dependence scores with lower academic self-efficacy, higher academic stress, and stronger performance expectations](academic-reliance-linked-stress-low-self-efficacy.md) — related
 - [Technological self-efficacy significantly but modestly predicts faculty AI well-being](technological-self-efficacy-modest-predictor-ai-well-being.md) — related
 - [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md) — related
+- [Complex DNN architectures offer little advantage over simple linear ridge-regression baselines for trait scoring, implying nonlinearities and interactions were of minor importance](dnn-advantage-over-linear-baseline-minor.md) — related

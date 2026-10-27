@@ -82,3 +82,4 @@ Interview response from Viki, a peer feedback participant, coded under limited c
 - [Providing peer feedback can be more beneficial than receiving it because it is more cognitively engaging](providing-peer-feedback-more-cognitively-engaging.md) — related
 - [VSDR helped students reflect on and adopt alternative problem-solving approaches to tasks](vsdr-alternative-problem-solving-reflection.md) — related
 - [Students reported AWA highlighting provoked reflection on their writing despite questioning its accuracy](awa-highlighting-provokes-student-reflection.md) — related
+- [Instructors who visibly promoted iHelp and the peer help model seemed to engender greater student engagement](ihelp-instructor-promotion-engagement.md) — related

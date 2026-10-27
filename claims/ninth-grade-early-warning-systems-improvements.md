@@ -55,3 +55,4 @@ The agenda summarizes prior Consortium research (citing Allensworth, Gwynne, Hea
 - [Students show signs of dropout risk early in high school, and schools that reach out in the ninth-grade year can keep them on track to graduate](ninth-grade-early-outreach-keeps-students-on-track.md) — related
 - [Monitoring all students and proactively intervening on early warning signs has minimal-level evidence of improving dropout-related outcomes](proactive-monitoring-minimal-evidence.md) — related
 - [Three freshman warning indicators—off-track status, any course failure, and attendance below 85 percent—identify 70 percent of eventual non-graduates](freshman-warning-indicators-identify-70-percent-nongraduates.md) — related
+- [Pre-admission data (2018–2022) contain sufficient information to identify early patterns of dropout or course failure in first-year engineering mathematics subjects](pre-admission-data-identify-early-dropout-failure-patterns.md) — related

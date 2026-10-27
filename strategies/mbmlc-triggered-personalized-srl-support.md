@@ -41,7 +41,8 @@ The article proposes that moment-by-moment learning curves "could potentially be
 - [Mbmlc Personalized Visualization Srl Theory](../theories/bayesian-knowledge-tracing-two-state-model.md)
 
 ## Related Strategies
-- 
+
+- [Pedagogical nudges triggered by WBA analytics to encourage engagement](wba-analytics-pedagogical-nudges.md)
 
 ## Examples
 -

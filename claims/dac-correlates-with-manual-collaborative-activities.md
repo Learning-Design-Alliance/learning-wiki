@@ -51,3 +51,4 @@ Validity analysis correlating automatic dialogue act coding with a manual coding
 - [Automatically coded dialogue acts distinguish male and female students' online communication](dac-detects-gender-differences-dialogue-acts.md)
 - [Automatic DAC coding of dialogue acts agrees substantially with manual coding (79.0% agreement, kappa 0.75)](dac-automatic-coding-agrees-with-manual-coding.md) — related
 - [Wise-crowd content models for summary assessment correlate well with an educational rubric, manually and via two automated NLP methods](wise-crowd-content-model-summary-assessment.md) — related
+- [Automated analysis accuracies were on average 10% lower than the accuracies of manual analysis](ml-accuracy-ten-percent-below-manual-coding.md) — related

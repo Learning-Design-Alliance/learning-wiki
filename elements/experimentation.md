@@ -13,7 +13,7 @@ generated:
 # Experimentation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 13 claims (7 for, 4 mixed, 2 against) · 22 studies (9 quant-synthesis, 7 causal, 3 theoretical, 2 review, 1 associational), `q1`–`q4` · 8 of 22 report an effect size · 7 claims rest on one study
+> **Evidence** · 16 claims (7 for, 7 mixed, 2 against) · 23 studies (9 quant-synthesis, 7 causal, 3 theoretical, 2 review, 2 associational), `q1`–`q4` · 8 of 23 report an effect size · 10 claims rest on one study
 
 ## Description
 Experimentation asks learners to pose a question or prediction, systematically vary conditions, observe outcomes, and revise their understanding based on evidence. It functions as both a learning activity and a model of scientific reasoning: the learner generates a hypothesis, gathers data, and confronts discrepancies between expectation and result.
@@ -59,6 +59,9 @@ Experimentation supports learning by making learners active generators and teste
 - [Individual children in both training conditions were equally likely to become good experimenters or nonlearners after CVS training](../claims/good-experimenter-classification-equal-conditions.md) [~W]
 - [Instruction increased robust CVS use — designing unconfounded experiments plus providing a CVS rationale — in individual interviews](../claims/robust-cvs-use-interview-gains.md) [+W]
 - [Causal inference always goes beyond the data, even in randomized experiments, because experimental manipulations may affect other variables that caused the effect](../claims/causal-inference-goes-beyond-data-even-in-experiments.md) [~W]
+- [Prior knowledge influences which inquiry strategy learners adopt, with learners holding some knowledge more likely to behave systematically](../claims/prior-knowledge-influences-inquiry-strategy.md) [~W]
+- [Systematic inquiry behavior is associated with gaining quantitative understanding of simulation variables, while free exploration is associated with only qualitative understanding](../claims/systematic-strategy-quantitative-understanding.md) [~W]
+- [In two minimally-guided PhET simulation activities, spectral clustering consistently identifies a larger systematic-inquiry cluster and a smaller free-exploration cluster across all three feature paradigms](../claims/systematic-free-inquiry-clusters-simulations.md) [~W]
 
 ## The evidence by question
 - *Does adding guidance to inquiry improve what learners learn, and does the kind of guidance matter?* [Guidance during inquiry learning improves post-inquiry learning outcomes (d = 0.50)](../claims/guidance-improves-inquiry-learning-outcomes.md) [+M]

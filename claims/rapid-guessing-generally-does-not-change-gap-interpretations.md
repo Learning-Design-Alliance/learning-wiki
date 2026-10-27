@@ -58,3 +58,4 @@ Sensitivity analysis comparing achievement gap estimates unconditional and condi
 - [Accounting for test disengagement had minimal impact on estimates of school growth contributions, achievement gaps, and summer learning loss](disengagement-corrections-minimal-impact-effectiveness-estimates.md) — a broader claim this one bears on
 - [Motivation filtering reversed the estimated Black-White fall-to-fall growth gap direction in later grades](filtering-reverses-black-white-growth-gap.md) — reports the opposite
 - [Disengaged responding biases observed scores from achievement tests and surveys in practically and statistically significant ways](disengaged-responding-biases-observed-scores.md) — reports the opposite
+- [A feedback loop between rapid guessing and the mastery-criteria algorithm drove rapid guessing to nearly half of all attempts on some knowledge components, blocking mastery](rapid-guessing-mastery-feedback-loop.md) — related

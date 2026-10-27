@@ -27,7 +27,7 @@ sources:
 # Personalization
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 86 claims (44 for, 35 mixed, 7 against) · 89 studies (29 review, 21 causal, 11 theoretical, 9 qualitative, 8 associational, 6 design, 5 quant-synthesis), `q1`–`q4` · 7 of 89 report an effect size · 81 claims rest on one study
+> **Evidence** · 88 claims (46 for, 35 mixed, 7 against) · 91 studies (30 review, 21 causal, 12 theoretical, 9 qualitative, 8 associational, 6 design, 5 quant-synthesis), `q1`–`q4` · 7 of 91 report an effect size · 83 claims rest on one study
 
 ## Conditional relationship
 
@@ -196,6 +196,8 @@ Engagement, immediate achievement on an aligned test, time saved, delayed retent
 - [Practice should always be considered in light of the pupil's interest and motivation; excess practice enjoyed by the pupil is not a grave defect](../claims/practice-must-be-motivated.md) [~W]
 - [Learning-styles models (particularly VAK) continue to be believed in by most teachers and persist in teacher training despite evidence of no positive impact on educational outcomes](../claims/learning-styles-vak-persist-teacher-training.md) [-W]
 - [Mobile devices enable just-in-time adaptive interventions that flexibly adapt support to students' changing internal and contextual states](../claims/jitai-just-in-time-mobile-support.md) [+W]
+- [Adjusting algebra problem contexts to students' out-of-school interests was beneficial](../claims/personalizing-algebra-context-to-interests-beneficial.md) [+W]
+- [Many countries face serious STEM education problems, and tailoring instruction to students' knowledge levels is identified as a key challenge](../claims/stem-problems-tailoring-instruction-challenge.md) [+W]
 
 ## Related Principles
 - [Adaptive Learning](adaptive-learning.md) — the system-driven end of the personalization spectrum, where algorithms adjust difficulty and sequencing

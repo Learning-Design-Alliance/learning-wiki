@@ -51,3 +51,4 @@ Prototype demonstration in a real-world educational context: the authors report 
 - [The 3B VR classroom system achieves an average end-to-end latency of approximately 73 ms, below the 150 ms threshold required for real-time interactions](3b-end-to-end-latency-below-realtime-threshold.md) — a narrower finding that bears on this claim
 - [A complete four-skill open-model stack fits under 4 GB, runs at reading pace on the cheapest hardware by community measurements, and costs about one US cent of electricity per study hour](llmersion-feasibility-stack-pace-cost.md) — related
 - [The end-to-end attention-estimation pipeline meets the one-second prediction stride on an NVIDIA A100 GPU, with warm latency of 50.65 ms per window and 1.02 ms for the temporal model](real-time-pipeline-latency-one-second-stride-a100.md) — related
+- [The article evaluated the action selection engines' speed for real-time tutoring use](action-selection-speed-evaluation.md) — related

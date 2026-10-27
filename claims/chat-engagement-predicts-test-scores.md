@@ -54,3 +54,4 @@ Correlational analysis of over 100,000 learning records from the MAIC pilot, reg
 - [More frequent exams are associated with better learning outcomes, including better grades and lower dropout, in classroom comparisons](frequent-exams-better-outcomes-leeming.md) — related
 - [Behavioral-only metrics from an instrumented online textbook support early prediction of final course grades in flipped statistics courses](behavioral-only-early-prediction-flipped-statistics.md) — related
 - [The pre/post-testing advantage cannot be attributed to extra training time: training time did not significantly predict final performance](training-time-null-covariate-latimier.md) — related
+- [Participation in Bazaar synchronous chat sessions is associated with roughly a 50 percent lower risk of dropout in an edX MOOC](chat-participation-halves-dropout-risk.md) — related

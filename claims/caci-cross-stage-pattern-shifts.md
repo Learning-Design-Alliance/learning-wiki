@@ -64,3 +64,4 @@ Descriptive consistency rates per cluster across the two interpreting stages, re
 - [Prior CACI training is associated with more stable, AI-oriented interaction patterns across interpreting stages](caci-training-pattern-stability.md) — related
 - [The article interprets Frequent Switchers' balanced AI-note coordination as achieving the best performance, with multiple pathways to adequate performance in CACI](frequent-switchers-best-performance.md) — related
 - [Input-stage, but not output-stage, interaction patterns are significantly associated with interpreting fluency and target language quality, with Intensive Engagers scoring lowest](input-stage-patterns-predict-quality.md) — related
+- [Most learners (68%) maintain the same inquiry-strategy cluster across two different simulations, indicating stable rather than task-specific approaches](inquiry-cluster-stability-across-simulations.md) — related

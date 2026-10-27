@@ -143,3 +143,4 @@ Open questions include how much scaffolding converts a failing constructive atte
 - [In the Menekse et al. studies cited as strong ICAP tests, the interactive and constructive modes did not differ significantly in learning](menekse-studies-weak-icap-support.md) — reports the opposite
 - [No systematic evaluation exists of the ICAP hypothesis that engagement modes are ordered I > C > A > P in effectiveness](no-systematic-evaluation-icap-hierarchy.md) — related
 - [All Montessori materials encourage active engagement, illustrated by a fetching-and-matching activity that exercises working memory](montessori-materials-active-engagement.md) — a narrower finding that bears on this claim
+- [Students learning fractions with an AIED system achieved the best outcomes in a condition mixing individual and collaborative work rather than wholly either mode](combined-individual-collaborative-its-best-outcomes.md) — related

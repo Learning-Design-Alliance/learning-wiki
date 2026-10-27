@@ -84,7 +84,7 @@ Sixty-eight 11th-grade students took eight lessons on strategies for evaluating 
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does teaching learners how to check a source improve their judgments of unfamiliar sources, and how much can one session do?* This table gathers the studies behind this claim and the 7 narrower claims that bear on it: **9 distinct studies** (7 causal, 1 qualitative, 1 design), `q2`–`q3`, 1 of 9 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*When the objects are online sources, which criteria should learners be taught to judge them by?* This table gathers the studies behind this claim and the 7 narrower claims that bear on it: **9 distinct studies** (7 causal, 1 qualitative, 1 design), `q2`–`q3`, 1 of 9 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|

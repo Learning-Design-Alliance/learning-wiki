@@ -53,3 +53,4 @@ Mixed-method pilot study of 12 Black middle-school-age youth (9 girls, 3 boys) i
 
 ## Related Claims
 - [Interest and self-efficacy are distinct yet reciprocally related in supporting learning](interest-self-efficacy-reciprocal-relation.md) — a broader claim this one bears on
+- [Learners' self-efficacy judgments during problem-solving shift from being informed by accuracy to being increasingly informed by fluency over time](self-efficacy-shifts-accuracy-to-fluency.md) — related

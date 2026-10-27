@@ -47,3 +47,4 @@ Leave-one-category-out ablation (Table 14, Fig. 9) with the XGBoost regressor re
 ## Related Claims
 - [Acoustic features have none to least impact on scoring QWK except for prompts 2 and 6](acoustic-features-least-impact-except-prompts-2-6.md) — related
 - [Adding fluency features to content features sharply increases scoring QWK for every prompt](fluency-features-sharp-qwk-increase-ablation.md) — related
+- [Ablation tests identify unique trait-relevant information in specific feature groups: readability and syntactic complexity for content, cohesion and readability for organization, and occurrence, length, or error features for language](ablation-tests-unique-feature-contributions.md) — related

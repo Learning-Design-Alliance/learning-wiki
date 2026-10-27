@@ -26,7 +26,8 @@ The ETDP, described by Kundisch et al. and adopted as this article's method, is 
 - [Collaborative testing shows the taxonomy enables comparison between similar GenAI activities while inevitably falling short of portraying all entangled aspects](../claims/taxonomy-testing-reveals-limits-and-comparison.md) [+M]
 
 ## Related Research Methods
--
+
+- [Improvement Science](improvement-science.md)
 
 ## Key Sources
 - Dimitri Eckert and Christian Kautz. (2026). How Students (Mis)understand Conditionals and Loops – A Taxonomy. arXiv preprint. https://arxiv.org/abs/2605.26966v1

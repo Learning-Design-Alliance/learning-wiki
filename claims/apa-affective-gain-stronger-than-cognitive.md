@@ -49,3 +49,4 @@ Narrative review of studies (e.g. Lester et al. 1997; Atkinson 2002; Baylor & Ry
 - [Agent appearance (iconic vs realistic) shows no significant difference in retention, transfer, or interest](apa-appearance-null-effect.md) — related
 - [Animated personas produce better learning than static ones, and agent voice contributes significantly to learning](animated-persona-and-voice-effects.md) — related
 - [Beneficial effects of pedagogical agents are attributed primarily to the agent's voice rather than its visual presence](agent-effects-due-to-voice-not-visual-presence.md) — related
+- [Emotional feedback from an animated pedagogical agent produced no significant learning performance gain but made the learning process more engaging](emotional-feedback-engaging-not-performance.md) — a narrower finding that bears on this claim

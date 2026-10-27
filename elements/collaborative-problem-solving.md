@@ -13,7 +13,7 @@ generated:
 # Collaborative Problem-Solving
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 46 claims (19 for, 26 mixed, 1 against) · 42 studies (11 associational, 8 causal, 7 theoretical, 5 quant-synthesis, 5 review, 4 qualitative, 2 design), `q1`–`q4` · 5 of 42 report an effect size · 44 claims rest on one study
+> **Evidence** · 47 claims (19 for, 27 mixed, 1 against) · 43 studies (11 associational, 8 causal, 7 theoretical, 5 quant-synthesis, 5 review, 5 qualitative, 2 design), `q1`–`q4` · 5 of 43 report an effect size · 45 claims rest on one study
 
 ## Description
 Collaborative problem-solving (CPS) places a small group of learners around a problem that no single member can solve alone, requiring them to pool knowledge, divide cognitive labor, negotiate approaches, and converge on a shared solution. It functions simultaneously as a content-learning activity and as practice in the social-cognitive skills — perspective-taking, task regulation, and joint reasoning — that the OECD treats as a distinct competency domain.
@@ -97,6 +97,7 @@ CPS improves learning when the group's discussion forces learners to externalize
 - [Temporal network motif frequencies differ significantly between perception groups, with dyadic motifs characterising divergent-perception teams and triadic motifs aligned teams](../claims/temporal-motifs-differ-by-perception-group.md) [~W]
 - [g predicts CPS performance, but substantial shared CPS variance remains separable from g](../claims/cps-variance-separable-from-g.md) [~W]
 - [Collaborative versus individual problem solving during PF showed no significant benefit for young students' conceptual knowledge or number of generated solution ideas](../claims/collaboration-null-effects-pf-young-students.md) [~W]
+- [Regulatory sequencing in synchronous CSCL: cognitive interactions initiate cycles, co-regulation iterates with task execution, and SSRL follows socio-emotional interactions](../claims/regulation-sequencing-pattern-synchronous-cscl.md) [~W]
 
 ## The evidence by question
 

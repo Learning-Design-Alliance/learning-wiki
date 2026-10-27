@@ -48,3 +48,4 @@ The authors' argumentative claim, not a tested result: they assert that current 
 - [Pedagogical challenges inherent in distance and online learning must be considered in instructional design and software development](pedagogical-challenges-distance-learning-design-software.md) — related
 - [The educational value of GAI is contingent on pedagogical integration, not on the technology itself](gai-value-contingent-on-pedagogical-integration.md) — related
 - [A FACTRIA-aware chatbot increases the number of biasing sub-factors stakeholders consider when interpreting institutional analytics visualizations](factria-chatbot-increases-subfactors-considered.md) — related
+- [Current interaction analysis shows a gap between collecting and visualizing mined data and interpreting it in terms of the learning process](gap-mined-data-learning-interpretation.md) — related

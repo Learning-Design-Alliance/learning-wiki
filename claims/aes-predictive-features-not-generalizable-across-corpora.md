@@ -69,3 +69,4 @@ Error features also diverge: percentage of spelling errors was most predictive f
 - [A broad linguistic feature set yields 73.2% classification accuracy for three-level proficiency scoring of TOEFL11 essays](broad-linguistic-features-73-percent-toefl11-classification.md) — related
 - [Removing native language (L1) sharply degrades discourse-feature scoring on TOEFL11 but not on FCE](l1-feature-influences-discourse-features-toefl11.md) — related
 - [Systematic linguistic differences exist between demographic groups in PISA text responses, including response length, lexical diversity, and out-of-vocabulary tokens](linguistic-group-differences-pisa-responses.md) — related
+- [Addition tests show trait-specific feature groups that most consistently enhance embedding-based models: morphological complexity for content, length for organization, and lexical sophistication, error, and occurrence features for language](addition-tests-trait-specific-feature-groups.md) — related

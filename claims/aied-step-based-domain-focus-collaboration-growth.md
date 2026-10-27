@@ -68,3 +68,4 @@ Learning-goal coding (Table 7) of the analysed papers: 90% of 2014 empirical pap
 - The proportion of empirical papers in IJAIED rose sharply between 1994 and 2014 — related
 - [Scaffolding research and frameworks have shifted from motivational-plus-cognitive support toward mostly cognitive support](scaffolding-became-cognitively-skewed.md) — related
 - [Design features of the CSCL environment — procedural-only educational inscriptions on the website and the storyline of the 3D model — pulled interactions toward procedural problem solving](website-inscriptions-procedural-only.md) — related
+- [Special issues of IJAIED in 1997–2001 played a significant part in developing AIED sub-fields such as collaborative learning and modelling teaching](ijaied-special-issues-developed-aied-subfields.md) — related

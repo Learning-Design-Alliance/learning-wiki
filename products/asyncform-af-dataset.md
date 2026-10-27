@@ -34,6 +34,7 @@ A corpus of 863 AI-generated educational questions in English, Mathematics, and 
 ## Related Products and Programmes
 
 - [Dataset of 434 expert-labelled authentic learner questions augmented to balance class distributions](dataset-of-434-expert-labelled-authentic-learner-questions-augmented-to-balance-class-dist.md)
+- [Dataset Nutrition Label](dataset-nutrition-label.md)
 
 ## Key Sources
 - Michael Lawrence Castanares, Princess Ventures, and Allan Tan. (2026). Evaluation of Pre-trained Models for Pedagogical Assessment of NovelAI-Assisted Educational Questions. Preprint. https://arxiv.org/abs/2609.27749

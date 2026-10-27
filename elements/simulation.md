@@ -14,7 +14,7 @@ generated:
 # Simulation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 62 claims (36 for, 23 mixed, 3 against) · 59 studies (16 review, 15 causal, 13 quant-synthesis, 7 design, 4 qualitative, 3 theoretical, 1 associational), `q1`–`q4` · 13 of 59 report an effect size · 52 claims rest on one study
+> **Evidence** · 65 claims (36 for, 26 mixed, 3 against) · 60 studies (16 review, 15 causal, 13 quant-synthesis, 7 design, 4 qualitative, 3 theoretical, 2 associational), `q1`–`q4` · 13 of 60 report an effect size · 55 claims rest on one study
 
 ## Description
 A simulation is an interactive model of a real or hypothetical system — physical, biological, economic, social, or procedural — in which learners take actions, observe the consequences, and adjust their approach. Unlike a [Demonstration](demonstration.md), which presents expert performance for observation, a simulation makes the learner the actor, embedding practice inside a simplified environment where errors are safe and consequences are visible.
@@ -117,6 +117,9 @@ Simulations support learning by making system dynamics explorable: learners buil
 - [Simulator technology (physical vs VR) significantly affects directed connectivity from RPFC to LPMC, with higher flow in the VR simulator](../claims/simulator-technology-rpfc-lpmc-connectivity.md) [~W]
 - [Skill level interacts with simulator technology on directed connectivity from LPMC to RPFC and SMA to LPFC](../claims/skill-by-simulator-interaction-connectivity.md) [~W]
 - [Immersive VR L2 vocabulary learning outperforms word-to-word association, especially for struggling learners, with manipulable-context words learned better](../claims/ivr-vocabulary-beats-association-strugglers-gain-more.md) [+W]
+- [In two minimally-guided PhET simulation activities, spectral clustering consistently identifies a larger systematic-inquiry cluster and a smaller free-exploration cluster across all three feature paradigms](../claims/systematic-free-inquiry-clusters-simulations.md) [~W]
+- [Most learners (68%) maintain the same inquiry-strategy cluster across two different simulations, indicating stable rather than task-specific approaches](../claims/inquiry-cluster-stability-across-simulations.md) [~W]
+- [Systematic inquiry behavior is associated with gaining quantitative understanding of simulation variables, while free exploration is associated with only qualitative understanding](../claims/systematic-strategy-quantitative-understanding.md) [~W]
 
 ## Design Decisions
 <!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice

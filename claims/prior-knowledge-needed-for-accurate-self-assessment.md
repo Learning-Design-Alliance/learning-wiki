@@ -139,3 +139,4 @@ Open questions: how much prior knowledge is "enough" for calibration in a given 
 - [Across both experiments, self-assessment feedback failed to improve self-assessment accuracy in the absence of feedback, and learners' self-assessments did not track practice-driven performance gains](self-assessment-feedback-no-benefit-absence-of-feedback.md) — a narrower finding that bears on this claim
 - [Monitoring judgments are positively associated with learning outcomes (β = 0.29)](monitoring-judgments-positively-related-to-learning-outcomes-masem.md) — related
 - [Students feel quite confident about their monitoring and regulation judgments even before self-scoring](students-confident-judgments-before-self-scoring.md) — related
+- [Learners' self-efficacy judgments during problem-solving shift from being informed by accuracy to being increasingly informed by fluency over time](self-efficacy-shifts-accuracy-to-fluency.md) — related

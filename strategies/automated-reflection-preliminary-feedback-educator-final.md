@@ -49,6 +49,7 @@ The article recommends deploying automatic reflection-level classifiers as assis
 - [Use reward-aligned LLM scoring as a teacher-supervised auxiliary tool for preliminary essay scoring at scale](teacher-supervised-auxiliary-llm-essay-scoring.md)
 - [Implement AI in assessment as a hybrid support tool for low-stakes, formative stages while humans retain final grading authority](hybrid-ai-human-assessment-implementation.md)
 - [Deploy automated analysis tools to support tutors' time-consuming analysis of CSCL conversations](automated-tools-supporting-tutor-conversation-analysis.md)
+- [Deploy automated reflection analytics for immediate, scalable feedback on reflective writing](automated-reflection-analytics-immediate-scalable.md)
 
 ## Examples
 -

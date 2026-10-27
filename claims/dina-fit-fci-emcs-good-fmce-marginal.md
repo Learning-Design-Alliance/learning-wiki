@@ -67,3 +67,4 @@ The same DINA analyses of LASSO posttest data found FMCE misfit. The authors att
 - [The 14-LO attribute structure improved DINA model fit over MCD-v1's four-skill structure for all three RBAs](14-lo-structure-improved-fit-over-mcd-v1.md) — related
 - [Classification accuracy met or exceeded benchmarks for 19 of 22 LO-assessment combinations, with three EMCS energy LOs below the acceptable range](classification-accuracy-22-lo-combinations.md) — related
 - [Higher item noise, shared items among conceptually nested energy LOs, and smallest sample size explain the EMCS energy LOs' low classification accuracy](energy-lo-low-accuracy-sources.md) — related
+- [Research favors fine-grained knowledge components, but fine granularity brings practical costs that can outweigh better data fit](fine-granularity-knowledge-components-practical-costs.md) — related

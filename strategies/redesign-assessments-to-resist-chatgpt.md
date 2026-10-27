@@ -52,6 +52,7 @@ The article recommends that university staff design assessments that are harder 
 - [Embed AI as a learning partner and redesign assessments for AI-rich contexts](ai-learning-partner-assessment-redesign-strategies.md)
 - [Detect machine-generated writing by checking citations, originality, factual errors, grammar, contextual awareness, and with language-analysis tools](detect-chatgpt-writing-signs-and-tools.md)
 - [AI-generated-essay-then-critical-evaluation task sequence for teaching critical evaluation skills](ai-generate-then-critically-evaluate-task-sequence.md)
+- [Design literature-class tasks in which students critically assess AI-generated content and propose improvements](critical-assessment-of-ai-generated-content-tasks.md)
 
 ## Examples
 -

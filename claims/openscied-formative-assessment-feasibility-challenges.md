@@ -73,3 +73,4 @@ Focus group vignette in which teachers described difficulty fitting OpenSciEd wo
 - [A goal gap misaligns the measurable-performance aims promoted by current technologies with education's broader developmental aims](goal-gap-performance-vs-development.md) — related
 - [Two writing teachers report that decoupling evaluation from grades under a grading contract lets them give blunter feedback that students can weigh, an account with no data reported](decoupling-evaluation-from-grades-improves-feedback.md) — related
 - [Teachers report ChatGPT-generated math questions misalign with grade level and topic, are unreliable or unanswerable, and cost time](chatgpt-brainstorming-concerns-misalignment-reliability.md) — related
+- [Manual content analysis of reflective writing is time-consuming, constraining pedagogical use and large-scale research](manual-reflection-analysis-costly-constrains-use.md) — a narrower finding that bears on this claim

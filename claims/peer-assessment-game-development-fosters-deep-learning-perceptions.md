@@ -52,3 +52,4 @@ Analysis of open-ended question responses from the experiment found that "most o
 - [A peer assessment-based game development approach promotes elementary students' learning achievement, learning motivation and problem-solving skills more than conventional game development](peer-assessment-game-development-improves-achievement-motivation-problem-solving.md) — related
 - [Relative to traditional PBL, the AI-IVE-PBL model improves vocational students' design ability and creative ability](ai-ive-pbl-improves-design-creativity.md) — related
 - [Student experiences with GenAI in design thinking fall into four themes: perceived benefits, ethical concerns, hesitance and acceptance, and critical validation](genai-design-thinking-four-themes.md) — related
+- [Both writing-based and AI-based alternative-ending activities motivated students, though with distinct concerns in each group](alternative-ending-tasks-motivated-both-groups.md) — related

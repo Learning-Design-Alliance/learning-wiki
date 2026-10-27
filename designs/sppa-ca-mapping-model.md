@@ -43,7 +43,9 @@ The CA Mapping Model operationalises Biggs' Constructive Alignment inside SPPA: 
 - [Grounding LAI feedback in constructive alignment and the Hattie–Timperley feedback model structures personalised interventions](../claims/ca-and-feedback-model-structure-lai-interventions.md) [+W]
 
 ## Related Designs
+
 - Sppa Framework
+- [A table of nine pedagogical activities for teaching interpretability, each paired with an assessment method](interpretability-pedagogical-activities-table1.md)
 
 ## Examples
 -

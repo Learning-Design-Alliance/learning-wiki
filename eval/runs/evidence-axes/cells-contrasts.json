@@ -46438,5 +46438,169 @@
  "worked-examples\tworked examples\ttraditional lecture-style instruction": {
   "label": "worked examples vs traditional instruction",
   "treatment_is_a": true
+ },
+ "active-learning\tend of Creative AI workshop\tbeginning of Creative AI workshop": {
+  "label": "end vs beginning of workshop",
+  "treatment_is_a": true
+ },
+ "active-learning\tworking with a partner student\tworking alone": {
+  "label": "partner vs alone",
+  "treatment_is_a": true
+ },
+ "example-problem-sequencing\tincreasing-difficulty task sequence with learning\tcomparable-difficulty task sequence with minimal learning": {
+  "label": "increasing-difficulty vs comparable-difficulty",
+  "treatment_is_a": true
+ },
+ "feedback-type\tcognitive-model-based tutoring support\tnone reported": {
+  "label": "cognitive-model-based tutoring support vs no support",
+  "treatment_is_a": true
+ },
+ "feedback-type\tfeedback students judged helpful\tfeedback students judged not helpful": {
+  "label": "helpful feedback vs unhelpful feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\thidden-wizard hints sent via Slack\tnot stated": {
+  "label": "hidden-wizard hints via Slack vs no hints",
+  "treatment_is_a": true
+ },
+ "feedback-type\thigher learner test score\tlower learner test score": {
+  "label": "higher learner test score vs lower learner test score",
+  "treatment_is_a": true
+ },
+ "learner-difference\t“Smart” high AI-usage cluster\tZero-usage cluster": {
+  "label": "High AI usage vs zero AI usage",
+  "treatment_is_a": true
+ },
+ "mastery-learning\tmastery learning with corrective loops\tfixed pacing or non-mastery learning": {
+  "label": "mastery learning vs fixed pacing or non-mastery learning",
+  "treatment_is_a": true
+ },
+ "other\t11 class-balancing techniques\tunbalanced training data": {
+  "label": "class balancing vs unbalanced training data",
+  "treatment_is_a": true
+ },
+ "other\t15/30 or 20/30 of the keystrokes\tlater keystroke stages": {
+  "label": "earlier keystroke stages vs later keystroke stages",
+  "treatment_is_a": true
+ },
+ "other\t1988 ITS and 1989 AIED conferences\t1987 Pittsburgh AIED conference": {
+  "label": "1988–1989 conferences vs 1987 conference",
+  "treatment_is_a": true
+ },
+ "other\t2-level classification\t4-level classification": {
+  "label": "4-level classification vs 2-level classification",
+  "treatment_is_a": false
+ },
+ "other\t20% cultural density\t40% cultural density": {
+  "label": "higher cultural density vs lower cultural density",
+  "treatment_is_a": false
+ },
+ "other\t20% increase in per-pupil spending throughout K–12\tlower or no comparable spending increase": {
+  "label": "increased per-pupil spending vs lower or no comparable spending increase",
+  "treatment_is_a": true
+ },
+ "other\t20% suspicious-question cutoff\t10% and 30% cutoffs": {
+  "label": "20% suspicious-question cutoff vs alternative cutoffs",
+  "treatment_is_a": true
+ },
+ "other\t20-item domain-specific knowledge tests\tnone": {
+  "label": "domain-specific knowledge tests vs no tests",
+  "treatment_is_a": true
+ },
+ "other\t20-minute HIIT cycling before the task\t20-minute very-low-intensity cycling": {
+  "label": "HIIT cycling vs very-low-intensity cycling",
+  "treatment_is_a": true
+ },
+ "other\t20-minute HIIT exercise before practice\tlow-intensity active control exercise before practice": {
+  "label": "HIIT exercise vs low-intensity active-control exercise",
+  "treatment_is_a": true
+ },
+ "other\t20-minute early-semester presentation about active learning\tbefore the presentation": {
+  "label": "early-semester active-learning presentation vs before the presentation",
+  "treatment_is_a": true
+ },
+ "other\t20-minute high-intensity interval cycling before learning\tequivalent period of active rest before learning": {
+  "label": "HIIT cycling before learning vs active rest",
+  "treatment_is_a": true
+ },
+ "other\t20-minute high-intensity interval exercise\tequivalent period of active rest": {
+  "label": "HIIT exercise vs active rest",
+  "treatment_is_a": true
+ },
+ "other\t20-minute high-intensity interval exercise before learning\tequivalent period of active rest before learning": {
+  "label": "HIIT exercise before learning vs active rest",
+  "treatment_is_a": true
+ },
+ "other\t20-minute high-intensity interval training\t20-minute low-intensity active control exercise": {
+  "label": "HIIT training vs low-intensity active-control exercise",
+  "treatment_is_a": true
+ },
+ "other\t20-minute high-intensity interval training\t20-minute very-low-intensity active control": {
+  "label": "HIIT training vs very-low-intensity active control",
+  "treatment_is_a": true
+ },
+ "other\t20-minute high-intensity interval training\tlow-intensity active-control exercise": {
+  "label": "HIIT training vs low-intensity active-control exercise",
+  "treatment_is_a": true
+ },
+ "other\t20-percentage-point increase in college-preparatory math enrollment\tremedial math enrollment": {
+  "label": "increased college-preparatory math enrollment vs remedial math enrollment",
+  "treatment_is_a": true
+ },
+ "other\t2005\t1992": {
+  "label": "2005 vs 1992",
+  "treatment_is_a": true
+ },
+ "other\t2005 public community-college cohort\t1999 public community-college cohort": {
+  "label": "2005 community-college cohort vs 1999 cohort",
+  "treatment_is_a": true
+ },
+ "practice-amount\tBWE+BPS training (T2)\tcontrol with no treatment (C)": {
+  "label": "practice vs no practice",
+  "treatment_is_a": true
+ },
+ "scaffolding\tcognitive-model-based immediate feedback\tpre-intervention performance": {
+  "label": "scaffolded vs unscaffolded",
+  "treatment_is_a": true
+ },
+ "simulation\tsimulated students\treal students": {
+  "label": "simulated students vs real students",
+  "treatment_is_a": true
+ },
+ "test-format\tGenMA computerized adaptive test\tInitialD determinantal point-process question sampling": {
+  "label": "Diverse-question sampling vs computerized adaptive testing",
+  "treatment_is_a": false
+ },
+ "test-format\tInitialD determinantal point-process question sampling\tGenMA computerized adaptive test": {
+  "label": "Diverse-question sampling vs computerized adaptive testing",
+  "treatment_is_a": true
+ },
+ "test-format\tInitialD determinantal point-process question sampling\tRandom question sampling": {
+  "label": "Diverse-question sampling vs random question sampling",
+  "treatment_is_a": true
+ },
+ "test-format\tInitialD diverse-question sampling\trandom question sampling": {
+  "label": "Diverse-question sampling vs random question sampling",
+  "treatment_is_a": true
+ },
+ "test-format\tInitialD diverse-question sampling\ttraditional computerized adaptive test (CAT)": {
+  "label": "Diverse-question sampling vs computerized adaptive testing",
+  "treatment_is_a": true
+ },
+ "test-format\tInitialD diverse-question sampling\tuncertainty sampling": {
+  "label": "Diverse-question sampling vs uncertainty sampling",
+  "treatment_is_a": true
+ },
+ "test-format\trandom question selection\tnormal adaptive test": {
+  "label": "Computerized adaptive testing vs random question selection",
+  "treatment_is_a": false
+ },
+ "worked-examples\tBWE-only training\tno backward-strategy treatment": {
+  "label": "Backward worked examples vs no backward-strategy treatment",
+  "treatment_is_a": true
+ },
+ "worked-examples\tworked examples\thigh-assistance instructional software": {
+  "label": "Worked examples vs high-assistance instructional software",
+  "treatment_is_a": true
  }
 }

@@ -51,3 +51,4 @@ Global χ² and ordinal logistic trend test over skill tiers (none/basic/interme
 - [Gamified robotics studies favor project-based learning while GBL studies favor constructivist pedagogy](gamification-pbl-gbl-constructivist-robotics.md) — related
 - [Immersive technologies are rarely adopted in robotics GBL/gamification but studies using them report heightened engagement, improved spatial reasoning, and enhanced perceived realism](immersive-tech-underused-positive-outcomes-robotics.md) — related
 - [Formal learning context is a significant positive predictor of whether a robotics study reports quantifiable learning gains](formal-context-predicts-learning-gains-robotics.md) — related
+- [In the first WOZ I intervention, students' problems lay mostly in the software category, especially the programming environment](robotics-problems-mostly-software.md) — related

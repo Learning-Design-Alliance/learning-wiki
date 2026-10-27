@@ -13,7 +13,7 @@ generated:
 # Worked Examples
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 37 claims (18 for, 15 mixed, 4 against) · 41 studies (20 causal, 11 review, 5 theoretical, 4 quant-synthesis, 1 associational), `q1`–`q4` · 7 of 41 report an effect size · 28 claims rest on one study
+> **Evidence** · 38 claims (18 for, 16 mixed, 4 against) · 42 studies (21 causal, 11 review, 5 theoretical, 4 quant-synthesis, 1 associational), `q1`–`q4` · 7 of 42 report an effect size · 29 claims rest on one study
 
 ## Description
 Worked examples are the element in which learners study complete or partial solutions before attempting similar problems independently.
@@ -71,6 +71,7 @@ Worked examples are the element in which learners study complete or partial solu
 - [Worked examples benefit learning even compared to tutored problem solving with on-demand guidance, indicating the effect is not an artefact of weak control conditions](../claims/worked-examples-beat-tutored-problem-solving.md) [+W]
 - [On the immediate test, novices showed a worked example effect (high guidance superior) while more knowledgeable learners showed a generation effect (low guidance superior)](../claims/immediate-test-guidance-expertise-interaction-worked-example-generation.md) [+W]
 - [Problem solving after acquisition outperformed example study at a one-week delayed posttest but not immediately](../claims/problem-solving-beats-example-study-at-delay.md) [~W]
+- [Students trained with both backward worked examples and backward problem solving significantly outperformed control and BWE-only students on posttest problem scores](../claims/bwe-bps-training-improves-posttest-problem-scores.md) [~W]
 
 ## Design Decisions
 <!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice

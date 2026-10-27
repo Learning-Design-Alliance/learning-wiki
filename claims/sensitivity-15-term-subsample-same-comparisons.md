@@ -53,3 +53,4 @@ Sensitivity check addressing student attrition: the restricted subsample had sli
 - [The dashboard's cross-sectional view compares same-grade students across terms using the full sample of testers, but attrition is not random](cross-sectional-view-full-sample-attrition-caveat.md) — related
 - [The intervention effects on mathematics are robust across model specifications and did not differ between RCT and COVID-affected implementation contexts](math-effects-robust-across-rct-and-covid-contexts.md) — related
 - [Robustness checks with fixed-effect and first-difference models reproduce the three-way interaction; continuous-time growth curve modelling does not](robustness-checks-three-way-interaction.md) — related
+- [Mastery learning implementation causes a mastery attrition bias that confounds learning curves, and it cannot be addressed universally](mastery-attrition-bias-confounds-learning-curves.md) — related

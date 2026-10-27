@@ -73,6 +73,7 @@ Connectivism also draws on network science: nodes compete for connections, well-
 - Personal learning networks built through social media, RSS, and professional communities
 - [Implement connectivism in K-12 classrooms by never providing information students can access themselves](../strategies/never-provide-information-students-can-access.md)
 - [Promote networks of learning spaces in which non-formal and informal learning complement formal institutions](../strategies/networks-of-learning-spaces.md)
+- [Address MOOC personalization at scale by using learners as helpers plus personalization technology to find the right helper at the right time](../strategies/peer-help-personalization-scalable-moocs.md)
 
 ## Key Sources
 - Siemens, G. (2004). Connectivism: A learning theory for the digital age. Retrieved from http://www.elearnspace.org/Articles/connectivism.htm

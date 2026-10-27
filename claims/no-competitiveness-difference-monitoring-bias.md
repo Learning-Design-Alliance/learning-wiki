@@ -54,3 +54,4 @@ A 2x8 mixed ANOVA on bias scores from prediction judgments across eight Kahoots 
 - [The relationship between Kahoot performance and quiz scores differed by competitiveness only on the first quiz, and was not replicated later in the semester](quiz1-kahoot-moderation-competitiveness.md) — related
 - [Monitoring accuracy score does not moderate the effort–monitoring correlation](monitoring-accuracy-no-moderation.md) — related
 - [Serial dilution accuracy showed a small significant increase over time, but post-hoc tests detected no significant improvement in either group](serial-dilution-accuracy-small-time-effect.md) — related
+- [Greater engagement in repeated quiz-taking predicts more conservative downward shifts in students' metacognitive judgments during learning](repeated-quizzing-shifts-judgments-conservatively.md) — related

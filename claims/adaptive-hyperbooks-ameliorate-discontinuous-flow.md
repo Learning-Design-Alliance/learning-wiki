@@ -47,3 +47,4 @@ Design analysis of the MetaLinks system identifying the central usability proble
 ## Related Claims
 - [Two formative evaluations of a MetaLinks hyperbook were conducted](metalinks-two-formative-evaluations.md) — related
 - [An LLM-generated flowchart linking semantic feature descriptions to code across HTML, CSS, and JS files supports novice creative coders' orientation, navigation, and code understanding](flowchart-supports-code-orientation-navigation.md) — related
+- [Authoring tool usability trades off against the depth and flexibility of the ITSs that can be built](authoring-tool-usability-power-tradeoff.md) — related

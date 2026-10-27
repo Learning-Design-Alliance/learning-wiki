@@ -54,3 +54,4 @@ The editorial reports a four-session study of shared regulation in small groups 
 - [Regulation tools for collaboration are very rare in educational VRLs, identified in only 8 laboratories, mostly supporting regulation by teachers](regulation-tools-very-rare-vrls.md)
 - [Across the special issue, all four levels of coupling minds correlate with task performance](all-four-levels-coupling-correlate-task-performance.md) — related
 - [Approximately half of students' analysed texts showed collaborative learning meeting co-regulation and co-construction descriptors](half-of-texts-showed-collaborative-learning.md) — related
+- [Co-regulation and socially shared regulation occur rarely in synchronous online collaborative learning](corl-ssrl-rare-synchronous-cscl.md) — related

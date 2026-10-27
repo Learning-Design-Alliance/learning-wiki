@@ -52,3 +52,5 @@ Reliability analysis comparing DAC-filter coding to a human coder familiar with 
 - [Automatically coded dialogue acts correlate with manually coded collaborative activities as expected](dac-correlates-with-manual-collaborative-activities.md) — related
 - [A heuristic for assigning blame to rules behind incorrect steps agreed with human coders at kappa=0.78](heuristic-blame-assignment-kappa-078.md) — related
 - [The rule-based recipe annotation system reaches near-perfect inter-annotator agreement (Cohen's Kappa 0.85) and average accuracy 0.95 in a validation on sampled recipe segments.](relex-annotation-validation-kappa-accuracy.md) — related
+- [Automated analysis accuracies were on average 10% lower than the accuracies of manual analysis](ml-accuracy-ten-percent-below-manual-coding.md) — related
+- [Machine learning detects five of eight reflective-writing categories with substantial or almost perfect reliability and three with moderate reliability (Cohen's κ .53–.85)](ml-detects-reflection-categories-kappa-053-085.md) — related

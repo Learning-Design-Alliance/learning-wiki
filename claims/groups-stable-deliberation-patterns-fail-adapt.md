@@ -54,3 +54,4 @@ Figure 9 analysis of sequence distribution across triggering phases showed most 
 - [Patterns of SRL and SSRL behaviors among medical trainees predict electrodermal activity at distinct stages of high-fidelity simulation training](srl-ssrl-behaviors-predict-eda-simulation-stages.md) — related
 - [PIA and TFA clusters differ significantly in both deliberative and regulatory interaction proportions](pia-tfa-significant-differences-chi-square.md) — related
 - [Most PBL groups settled into stable regulatory patterns early in the course, with transitions usually between similar patterns](stable-early-regulatory-patterns-limited-change.md) — related
+- [Most learners (68%) maintain the same inquiry-strategy cluster across two different simulations, indicating stable rather than task-specific approaches](inquiry-cluster-stability-across-simulations.md) — related

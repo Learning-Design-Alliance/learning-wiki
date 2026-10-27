@@ -50,3 +50,4 @@ The letter reports, citing VanLehn (2011), a survey finding that step-based ITSs
 - [Meta-analytic evidence indicates intelligent tutoring systems yield positive learning outcomes compared with non-ITS conditions](its-meta-analytic-positive-outcomes.md) — a broader claim this one bears on
 - [ITS substitution: meta-analyses find no significant cognitive learning differences between ITS and human tutoring or small-group instruction](its-substitution-equivalent-to-human-tutoring.md) — related
 - [Intelligent tutoring systems can improve learning outcomes, particularly with immediate actionable feedback](its-improve-learning-outcomes-with-actionable-feedback.md) — a broader claim this one bears on
+- [A meta-review found intelligent tutoring systems approaching the effectiveness of ordinary human tutors, whose effectiveness is below that of expert tutoring](vanlehn-metareview-its-approaching-human-tutors.md) — possibly the same claim (merge candidate)

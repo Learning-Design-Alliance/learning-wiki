@@ -52,3 +52,4 @@ The report's challenge section cites statistics including that "Almost 40% of hi
 - A global survey found more than 50% of 10,000 young people across 10 countries feel sad, anxious, angry, powerless, helpless, and guilty about climate change — related
 - [Global inclusion gaps persist despite large EdTech investment](inclusion-gap-persists-despite-edtech-investment.md) — related
 - [The Yolo County needs assessment identifies eight countywide needs for children, youth, and families, led by childcare, mental health access, and transportation](yolo-county-eight-countywide-needs.md) — related
+- [Many countries face serious STEM education problems, and tailoring instruction to students' knowledge levels is identified as a key challenge](stem-problems-tailoring-instruction-challenge.md) — related

@@ -66,3 +66,5 @@ Commentary noting that students in Cober et al.'s studies were considered passiv
 ## Related Claims
 - [Essay quality was highest for AI-generated drafts and lowest with no AI, negatively correlated with ownership, suggesting an ownership-quality tradeoff.](ai-draft-quality-ownership-tradeoff.md) — related
 - [Deeper co-leadership emerges when staff support lets partners progressively take on responsibility, but recedes when staff carry the process](calibrated-support-co-leadership.md) — related
+- [User-centered and participatory AIEd approaches engage users mainly in early design, limiting recognition of FATE issues arising in use](participatory-design-limits-fate-in-use.md) — possibly the same claim (merge candidate)
+- [FATE issues in AIEd present themselves when users gain ownership and adapt systems to their local contexts](ownership-process-surfaces-fate-issues.md) — related

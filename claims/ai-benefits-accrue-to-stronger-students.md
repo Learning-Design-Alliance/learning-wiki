@@ -47,3 +47,5 @@ Controlled & AI-Free Assessment room discussion of where AI helps learning rathe
 ## Related Claims
 - [Academic integrity, professional development, and equity concerns about AI span all surveyed units, though interpreted differently](integrity-equity-concerns-span-all-units.md) — related
 - [Universities pair academic-integrity guidance with AI literacy and student readiness supports, treating literacy as strategic rather than punitive](genai-integrity-paired-with-ai-literacy.md) — related
+- [Middle school students enter AI workshops already aware of and familiar with AI, but misattribute AI status to everyday technologies and view their relationship with AI as symbiotic](middle-school-students-prior-ai-perceptions-workshops.md) — related
+- [Mailing students the low-cost Bluetooth robot in the online How to Train Your Robot workshop increased excitement about the topic and aided understanding of computational ideas](robot-component-engagement-online-ai-workshop.md) — related

@@ -53,3 +53,4 @@ Video-based process mining (MAXQDA 24 coding of cognitive and social behaviors) 
 - [Group summary scores did not differ significantly between algorithm-formed and randomly formed groups on content, vocabulary, or grammar rubrics](group-summary-scores-no-significant-difference.md) — related
 - [Argumentation quality is associated with denser co-occurrence of scientific reasoning and self-regulation processes](argumentation-quality-associated-with-reasoning-self-regulation-co-occurrence.md) — related
 - [Process mining shows the ChatGPT group's revision loop centred on consulting ChatGPT, while the human-expert group strengthened connections between revising and reading, orientation and evaluation](chatgpt-process-map-loop-metacognitive-disengagement.md) — related
+- [Process mining of WBA logs shows students typically start with Handwashing, then Pulse and History, with frequent looping back to basic clinical skills](process-mining-wba-learning-paths.md) — related

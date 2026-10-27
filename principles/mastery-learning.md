@@ -18,7 +18,7 @@ sources:
 # Mastery Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 21 claims (8 for, 11 mixed, 2 against) · 21 studies (5 causal, 5 quant-synthesis, 4 review, 4 theoretical, 2 qualitative, 1 associational), `q1`–`q4` · 5 of 21 report an effect size · 17 claims rest on one study
+> **Evidence** · 22 claims (8 for, 11 mixed, 3 against) · 22 studies (5 causal, 5 quant-synthesis, 5 theoretical, 4 review, 2 qualitative, 1 associational), `q1`–`q4` · 5 of 22 report an effect size · 18 claims rest on one study
 
 ## Conditional relationship
 
@@ -102,6 +102,7 @@ Unit-check success, course-examination performance, delayed retention, transfer 
 - [Mastery learning improves students' attitudes toward the instruction and toward the subject](../claims/mastery-learning-improves-attitudes-toward-instruction.md) [+M]
 - [Mastery learning effects are larger for lower-aptitude students, narrowing the spread of achievement in a class](../claims/mastery-learning-effects-larger-for-lower-aptitude-students.md) [~M]
 - [Self-paced mastery programs (PSI) reduce college course completion, though not by enough to explain their examination advantage](../claims/self-paced-mastery-programs-reduce-college-course-completion.md) [-M]
+- [A feedback loop between rapid guessing and the mastery-criteria algorithm drove rapid guessing to nearly half of all attempts on some knowledge components, blocking mastery](../claims/rapid-guessing-mastery-feedback-loop.md) [-W]
 
 ## Related Principles
 - [Formative Assessment](formative-assessment.md)
