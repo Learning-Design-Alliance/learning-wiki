@@ -47,3 +47,4 @@ Qualitative and scatter-plot analysis (Figs. 7-11, Table 8) of the partially cor
 ## Related Claims
 - [Tested on coder-disagreement messages, multi-label classifiers labelled most messages into two adjacent phases with one predicted label matching the manual label, and partially correct predictions exceeded half of the set](disagreementset-partially-correct-adjacent-predictions.md) — related
 - [Multi-label classifiers predicted MOOC messages as one label or two adjacent cognitive presence phases only, while expert coders produced non-adjacent and three-phase labels on almost 4% of messages](multi-label-predictions-adjacent-phases-only.md) — related
+- [Cognitive presence comprises four phases of critical thinking — triggering event, exploration, integration, and resolution — which are not always sequential](coi-cognitive-presence-four-phases.md) — related

@@ -13,7 +13,7 @@ generated:
 # General Cognitive Ability
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 141 claims (88 show a difference, 31 mixed, 22 no difference) · 100 studies (41 associational, 31 causal, 12 review, 8 quant-synthesis, 7 theoretical, 1 qualitative), `q1`–`q4` · 26 of 100 report an effect size · 138 claims rest on one study
+> **Evidence** · 144 claims (91 show a difference, 31 mixed, 22 no difference) · 101 studies (41 associational, 32 causal, 12 review, 8 quant-synthesis, 7 theoretical, 1 qualitative), `q1`–`q4` · 26 of 101 report an effect size · 141 claims rest on one study
 
 ## Description
 General cognitive ability is what intelligence and reasoning tests measure: fluid reasoning, crystallised knowledge and processing speed. It is a strong predictor of achievement, and research uses it as a covariate and as a moderator: some designs, such as highly structured instruction, help lower-ability learners more, while discovery-based designs can favour higher-ability learners (aptitude-treatment interactions). It overlaps with [prior knowledge](prior-knowledge.md) and [working memory](working-memory.md), and studies often cannot separate them.
@@ -177,6 +177,9 @@ General cognitive ability is what intelligence and reasoning tests measure: flui
 - [Rate of change in working memory performance correlates with fluid intelligence independently of final accuracy](../claims/wm-rate-of-change-independent-gf-link.md) [+M] — learners who differ on it differ in outcomes
 - [In the lab study, distance and relevance of question content did not significantly affect accuracy overall, while AAT score and working-memory capacity each improved it and intensified each other](../claims/study2-main-effects-and-aat-kmax-interaction.md) [+M] — learners who differ on it differ in outcomes
 - [The proximal-content advantage on AAT questions is more pronounced for low-achieving examinees](../claims/proximity-advantage-low-achievers-corpus.md) [+M] — an instructional effect differs with it
+- [CFLS planner outperforms the SPP for medium and high aptitude learners within the success triangle despite lacking prerequisite knowledge](../claims/cfls-outperforms-spp-medium-high-aptitude.md) [+W] — an instructional effect differs with it
+- [Optimal CFLS b and f settings vary by learner aptitude: higher aptitude benefits from larger values](../claims/cfls-optimal-bf-vary-by-aptitude.md) [+W] — an instructional effect differs with it
+- [Recommended CFLS settings: b=f with b scaled to aptitude level (1, 2, or 3)](../claims/cfls-recommended-settings-b-equals-f.md) [+W] — an instructional effect differs with it
 
 ## The evidence by question
 - *Does a learner's general cognitive ability predict how well they achieve, and how much of achievement does it explain?* [Secondary academic performance is predicted by cognitive ability more strongly than by curiosity](../claims/cognitive-ability-predicts-secondary-gpa-more-than-curiosity.md) [+M]

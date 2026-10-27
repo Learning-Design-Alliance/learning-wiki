@@ -55,3 +55,4 @@ Exploratory log-data analysis from all 252 participating students found error ra
 - [Self-explanation support did not change Answer-item performance even though the explanation condition completed only half as many problems](answer-items-no-difference-self-explanation-tutor.md) — related
 - [Students in the combined condition tended to make fewer errors and request fewer hints over time than students in individual-only or collaborative-only conditions](combined-condition-fewer-errors-and-hints.md) — reports the opposite
 - [Unsolicited hints and meta-hints raised first-attempt correctness by d=0.682 and problem completion by d=0.727](unsolicited-meta-hints-effect-sizes.md) — related
+- [Logic students make fewest translation errors on sentences with only shape, size or space information; combining spatial with size or shape information raises error rates](visual-impedance-translation-errors.md) — related

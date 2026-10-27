@@ -21,7 +21,7 @@ sources:
 # Self-Regulated Learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 231 claims (104 for, 118 mixed, 9 against) · 173 studies (56 associational, 46 causal, 26 review, 17 quant-synthesis, 15 theoretical, 8 qualitative, 5 design), `q1`–`q4` · 41 of 173 report an effect size · 215 claims rest on one study
+> **Evidence** · 232 claims (104 for, 119 mixed, 9 against) · 174 studies (56 associational, 46 causal, 27 review, 17 quant-synthesis, 15 theoretical, 8 qualitative, 5 design), `q1`–`q4` · 41 of 174 report an effect size · 216 claims rest on one study
 
 ## Description
 Self-Regulated Learning (SRL) explains learning as a cyclical process in which learners set goals, choose strategies, monitor progress, and reflect on outcomes in order to improve later performance. Rather than treating learning as passive reception, SRL emphasizes that effective learners actively manage attention, effort, strategy use, and feedback across time.
@@ -278,6 +278,7 @@ A second, complementary formulation comes from clinical and addiction-behavior r
 - [SRL theory was the most prominent theoretical foundation in AI-SRL studies, appearing in 4 of 14 studies](../claims/srl-theory-most-prominent-in-ai-srl-studies.md) [~W]
 - [In the performance phase, AI tools helped learners organize tasks and supported metacognitive monitoring, but sometimes inaccurately reflected tasks and lacked in-depth responses](../claims/ai-performance-phase-benefits-and-drawbacks.md) [~W]
 - [Implementation intentions did not affect final exam performance, whereas prior performance strongly predicted exam grade](../claims/implementation-intentions-no-exam-performance-effect.md) [-W]
+- [Students frequently used on-demand help ineffectively, and raw help frequency correlated negatively with learning gains](../claims/ineffective-help-seeking-log-data-findings.md) [~W]
 
 ## The evidence by question
 

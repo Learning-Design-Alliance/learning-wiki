@@ -46,6 +46,7 @@ Based on recent developments, early progress, and current challenges, the report
 - [Prioritize process-data instrumentation, open collaboration, and dissemination in learning platforms](platform-instrumentation-open-research-recommendations.md)
 - [Six recommendations for moving toward a data-driven, worker-centered learning ecosystem](six-recommendations-worker-centered-data-ecosystem.md)
 - [Require participants to complete an individual leadership project with a planning template and protected work time](individual-leadership-project-protected-time.md)
+- [Adapt instructional systems to local contexts through systematic inquiry and collaboration among educators, developers, and researchers](continuous-improvement-collaboration-for-aied.md)
 
 ## Examples
 -

@@ -70,6 +70,7 @@ Data-informed problem framing improves the fit between interventions and local c
 - [Surface best practices for crisis-era learning support from district, school, and teacher leaders' perspectives](surface-best-practices-from-local-leader-perspectives.md)
 - [Use data collaboratively through a structured data analysis process among educators](collaborative-structured-data-analysis.md)
 - [Use a family engagement survey within a data inquiry cycle to gather family feedback and drive changes to policies and practices](family-engagement-survey-data-inquiry-cycle.md)
+- [Adapt instructional systems to local contexts through systematic inquiry and collaboration among educators, developers, and researchers](continuous-improvement-collaboration-for-aied.md)
 
 ## Examples
 - A school team reviewing achievement and behavioral data disaggregated by race, then conducting walkthroughs and student focus groups to understand school culture before redesigning discipline practices — surfacing how specific policies reinforced disproportionality.

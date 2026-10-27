@@ -2,7 +2,7 @@
 
 Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's.
 
-**2024 entries** · 0 stable · 2024 in review · 0 drafts
+**2036 entries** · 0 stable · 2036 in review · 0 drafts
 
 ---
 
@@ -480,6 +480,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 
 #### E {: #letter-e }
 
+* [E MCQG](e-mcqg.md) - E MCQG is a medical multiple-choice-question generation system that uses expert-derived clinical question templates and ontology-based relations to generate board-examination-style case questions.
 * [E-CLASS survey for assessing student views of experiments in physics lab courses](e-class-survey-for-assessing-student-views-of-experiments-in-physics-lab-courses.md) - E-CLASS is a pre/post survey assessment developed by physics education researchers to measure undergraduate students’ views, strategies, habits of mind, and attitudes concerning experimental physics.
 * [E3Sense](e3sense.md) - E3Sense is a research platform developed by Sidharth Anupkrishnan et al.
 * [Early Childhood Ethnic Identity Interview (ECEII)](early-childhood-ethnic-identity-interview-eceii.md) - A bilingual open- and close-ended interview developed by Serrano-Villar et al.
@@ -552,9 +553,11 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [ELLM/Plus curriculum](ellmplus-curriculum.md) - ELLM/Plus is a literacy-focused comprehensive curriculum for young children from low-income families, comprising theme-based instructional packets, children’s books, support materials, and home/school activities.
 * [ELS:2002 longitudinal database](els2002-longitudinal-database.md) - A nationally representative U.S.
 * [Embodied simulated-patient training application for ACT-oriented psychotherapy practice with spoken dialogue](embodied-simulated-patient-training-application-for-act-oriented-psychotherapy-practice-wi.md) - A Unity application developed by Pascal Riachi et al.
+* [EMCQG (EMMeT Multiple Choice Question Generator)](emcqg-emmet-multiple-choice-question-generator.md) - A modular question-generation system developed by J.
 * [Emergent writing assessment battery of conceptual, procedural, and generative subtests for preschoolers](emergent-writing-assessment-battery-of-conceptual-procedural-and-generative-subtests-for-p.md) - Puranik et al.'s individually administered assessment battery measures preschoolers' conceptual, procedural, and generative emergent-writing skills through structured writing and language tasks.
 * [Emerging Technology Adoption Framework](emerging-technology-adoption-framework.md) - A living edtech evaluation and procurement framework developed by Digital Promise and Educator CIRCLS, organizing stakeholder questions and criteria across initial evaluation, adoption, and post-adoption stages.
 * [eMINTS](emints.md) - A professional-development and coaching programme run by the eMINTS National Center that helps teachers integrate technology and inquiry-based learning into curriculum and instruction.
+* [EMMeT-OWL](emmet-owl.md) - EMMeT-OWL is an OWL-encoded clinical knowledge base translated from Elsevier's Merged Medical Taxonomy and used by EMCQG to generate medical assessment questions.
 * [Emotion Socialization Observation Scale (ESOS)](emotion-socialization-observation-scale-esos.md) - A structured classroom-observation assessment developed by Veraksa and colleagues to rate kindergarten teachers' reactions to children's emotions, modeling of emotional expressiveness, and teaching about emotions.
 * [Emotiv EPOC headset Affectiv Suite](emotiv-epoc-headset-affectiv-suite.md) - Emotiv's wireless EEG headset and Affectiv Suite software measure affective states such as engagement, excitement, frustration, and meditation during activities.
 * [Energizers](energizers.md) - Energizers is a classroom-based physical-activity programme developed for elementary students and implemented during the school day to increase activity and support on-task behaviour.
@@ -599,6 +602,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Expository Reading and Writing Course (ERWC)](expository-reading-and-writing-course-erwc.md) - The Expository Reading and Writing Course is a college-preparatory English language arts curriculum developed by the California State University system for secondary students, with modules that integrate rhetorical reading, writing, revision, and language study.
 * [Extended 36-trial Red-Blue Test](extended-36-trial-red-blue-test.md) - A computer-based Stroop/Day-Night-adapted assessment for early primary school children that measures inhibitory control through 36 rule-reversal color-naming trials scored by accuracy.
 * [Extended labelled dataset of 345 OER sentences with ethnic-bias annotations from 193 students](extended-labelled-dataset-of-345-oer-sentences-with-ethnic-bias-annotations-from-193-stude.md) - A dataset released by Josmario Albuquerque and colleagues containing 345 contextualized OER sentences annotated by 193 higher-education students for perceived ethnic bias, with contextual metadata, aggregate labels, bias scores, and reproducibility code.
+* [External Representation Selection Tutor (ERST)](external-representation-selection-tutor-erst.md) - ERST is an adaptive educational system developed to individualise and support learners' choices among information visualisations during reasoning tasks.
 
 #### F {: #letter-f }
 
@@ -675,6 +679,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Funder reflection and action tool](funder-reflection-and-action-tool.md) - A structured organizational self-assessment tool developed by Meg Long and colleagues to help funders evaluate whether their strategic intent, culture, and capacity support place-based systems-change investing.
 * [Future Forward](future-forward.md) - Future Forward is a branded early-literacy tutoring and family-engagement programme implemented by participating schools and sites for struggling students in kindergarten through grade 3.
 * [Future Ready Talent Framework](future-ready-talent-framework.md) - A conceptual framework synthesized by Pretti et al.
+* [FutureLearn multi-run MOOC dataset (23 runs, 5 courses, 245,255 learners) with clickstream and demographic features](futurelearn-multi-run-mooc-dataset-23-runs-5-courses-245255-learners-with-clickstream-and.md) - A dataset assembled from 23 FutureLearn course runs across five University of Warwick MOOCs, containing learner clickstream activity, completion timestamps, derived time-spent measures, and optional demographic survey data for studying online-course participation and revenue-related outcomes.
 
 #### G {: #letter-g }
 
@@ -776,6 +781,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 
 * [I CAN Learn](i-can-learn.md) - I CAN Learn® is a self-paced, mastery-based computer mathematics curriculum developed by JRL Enterprises, Inc., with interactive lessons, placement-based learning paths, practice, quizzes, and classroom tracking tools.
 * [I-BEST](i-best.md) - A Washington State Board for Community and Technical Colleges programme that integrates adult basic education with occupational training through team teaching and learner support services.
+* [i-Read](i-read.md) - i-Read is an online reading environment developed by Omheni et al.
 * [i-Ready](i-ready.md) - i-Ready is Curriculum Associates' digital learning platform combining computer-adaptive Diagnostic assessments with personalized Reading and Mathematics instruction.
 * [i-Ready Personalized Instruction](i-ready-personalized-instruction.md) - An online personalized reading-instruction program for grades K–8 that uses i-Ready Diagnostic data to assign lessons and monitor progress, developed and provided by Curriculum Associates.
 * [I3P](i3p.md) - A programme run by UNAL's National Directorate of Pedagogical Innovation that supports collaborative pedagogical innovation projects intended to foster Professional Learning Communities across campuses and faculties.
@@ -901,8 +907,10 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Knowledge Catalyser](knowledge-catalyser.md) - A computer-supported discussion forum developed by Gerry Stahl and colleagues for small-group knowledge-building discussions with tools for voting on, annotating, critiquing, and revising postings.
 * [Knowledge Connections Analyzer (KCA)](knowledge-connections-analyzer-kca.md) - A web-based tool developed by Yang et al.
 * [Knowlify AI video generation platform](knowlify-ai-video-generation-platform.md) - Knowlify is an AI video-generation platform that creates editable explainer videos from natural-language prompts and source documents.
+* [KnowSelf](knowself.md) - KnowSelf is a Windows activity-logging and reflection application developed as a prototype by Pammer-Schindler et al.
 * [KOKU](koku.md) - An NHS-approved tablet-delivered falls-prevention programme co-developed with older adults and falls-prevention experts, combining progressive strength-and-balance exercises with eCoach guidance, safety information, reminders, progress tracking, and health-literacy games for older adults.
 * [Kolibri](kolibri.md) - Kolibri is Learning Equality's open-source, offline-first learning platform for delivering educational content and supporting learning in low-connectivity settings.
+* [Korbit dialogue-based intelligent tutoring system](korbit-dialogue-based-intelligent-tutoring-system.md) - Korbit is a machine-learning, NLP, and reinforcement-learning platform developed to provide interactive, personalized tutoring through lecture videos, exercises, automated free-text solution checking, and adaptive interventions.
 * [Korean alphabet writing assessment for handwriting legibility](korean-alphabet-writing-assessment-for-handwriting-legibility.md) - A short-range copying assessment that measures preschool children's handwriting legibility by having them reproduce Korean alphabet letters in designated boxes; it was used by Seo S-M (2018).
 * [KP-Lab](kp-lab.md) - The KP-Lab toolset, developed by the European KP-Lab project, is a suite of digital tools for creating knowledge artefacts, coordinating collaborative knowledge-creation processes, supporting networked communities, and enabling reflection.
 * [KPE](kpe.md) - KPE is a KP-Lab collaborative knowledge-creation platform that provides shared workspaces and tools for planning, producing, organizing, annotating, versioning, commenting on, and reflecting on shared knowledge objects.
@@ -916,6 +924,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 
 #### L {: #letter-l }
 
+* [Labeled corpus of student induction proofs graded against a 7-point rubric](labeled-corpus-of-student-induction-proofs-graded-against-a-7-point-rubric.md) - A research dataset of undergraduate students’ written mathematical-induction proofs collected at pretest and posttest and annotated by multiple raters with rubric-based correctness labels for training and evaluating automated proof-grading models.
 * [Labelled corpus of 4,217 discussion posts](labelled-corpus-of-4217-discussion-posts.md) - A dataset created by Gorgun et al.
 * [Ladders to Literacy](ladders-to-literacy.md) - A supplemental kindergarten literacy curriculum developed by Notari-Syverson, O’Connor, and Vadasy and published by Sopris West, with activities targeting print awareness, phonological awareness, and oral language.
 * [Lancasterian (Monitorial) System](lancasterian-monitorial-system.md) - A nineteenth-century mass-schooling programme created by John Lancaster that used student monitors, scripted lessons, learning progressions, and mastery assessments to organize peer-assisted instruction at scale.
@@ -1128,6 +1137,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Montevidisco](montevidisco.md) - An interactive video-based Spanish-language conversational simulation created by Edward Schneider and Junius Bennion in which learners navigate branching encounters in a Mexican village and record spoken responses for evaluation.
 * [MOOC Replication Framework](mooc-replication-framework.md) - MORF, described by Gardner (2018), is a framework that supports controlled, privacy-preserving replication of predictive analyses across MOOC studies, courses, and datasets.
 * [Moodle Workshop module](moodle-workshop-module.md) - Moodle's Workshop activity module supports the distribution, anonymous peer assessment, and teacher assessment of learner submissions using defined assessment criteria and grading schemes.
+* [MoodMap App](moodmap-app.md) - MoodMap App is a prototype software application developed by Pammer-Schindler et al.
 * [Morphology+](morphology.md) - IMSE's Morphology+ is a structured literacy curriculum and educator-training program developed by the Institute for Multisensory Education for grades 3–5 morphology, vocabulary, and comprehension instruction.
 * [MotiBo](motibo.md) - MotiBo is an interactive digital storytelling system designed by Fung et al.
 * [Motivated Strategies for Learning Questionnaire (MSLQ)](motivated-strategies-for-learning-questionnaire-mslq.md) - The MSLQ is Pintrich and colleagues' self-report assessment of students' motivation and learning-strategy use, comprising motivation and self-regulated-learning scales for college and high-school learners.
@@ -1138,6 +1148,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Mr. Vetro simulation framework](mr-vetro-simulation-framework.md) - A student-facing, Agentsheets-based collaborative cardiovascular-system simulation developed by Gerry Stahl and colleagues for K–12 students to explore physiological parameters and complex-system causality.
 * [MRIM scale](mrim-scale.md) - A 19-item, 6-point Likert self-report assessment developed by Chenghui Chen for measuring planning, monitoring, and evaluating of interactive metadiscourse strategies in L2 argumentative writing among first-year non-English major university EFL students.
 * [MSCEIT-YV Emotion Regulation Ability subtest](msceit-yv-emotion-regulation-ability-subtest.md) - A standardized youth assessment subtest that measures adolescents’ ability to judge the effectiveness of alternative actions for achieving emotion-regulation goals, developed as part of the Mayer, Salovey, and Caruso Emotional Intelligence Test—Youth Version.
+* [MT-ITS (embedded moving-target marksmanship tutoring system)](mt-its-embedded-moving-target-marksmanship-tutoring-system.md) - MT-ITS is a software-based intelligent tutoring system embedded in an instrumented rifle's digital sight for training novice shooters in moving-target marksmanship using the Virtual Immersive Soldier Simulator.
 * [Multi-measure metacognition assessment paradigm combining MAI, confidence judgments, and trial-by-trial AUROC2](multi-measure-metacognition-assessment-paradigm-combining-mai-confidence-judgments-and-tri.md) - A study-developed assessment paradigm by Terneusen et al.
 * [Multi-Payer School-Linked Fee Schedule](multi-payer-school-linked-fee-schedule.md) - A California optional programme administered through Carelon that enables enrolled local educational agencies and designated school-linked providers to obtain reimbursement from commercial and Medi-Cal managed care plans for student mental health and substance use disorder services.
 * [Multi-scale portfolio of 14 adoption-ready computing PjBL project packages](multi-scale-portfolio-of-14-adoption-ready-computing-pjbl-project-packages.md) - A portfolio developed by Suleiman et al.
@@ -1599,6 +1610,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Sensory Profile](sensory-profile.md) - The Sensory Profile is a parent-reported standardized questionnaire developed by Winnie Dunn for assessing children's sensory processing in everyday activities, including auditory, visual, tactile, movement, and social-emotional responses.
 * [Sentence-level episode-labeling corpus and RoBERTa classifier trained on ThinkARM annotations](sentence-level-episode-labeling-corpus-and-roberta-classifier-trained-on-thinkarm-annotati.md) - A sentence-level corpus of ThinkARM-annotated Omni-MATH reasoning traces with a RoBERTa classifier for automatically labeling problem-solving episodes, developed by Chenguang Wang et al.
 * [Sentinel AI-powered security game platform](sentinel-ai-powered-security-game-platform.md) - Sentinel is a mobile game platform developed by Bingjun Li et al.
+* [SERDA: Speech Enabled Reading Diagnostics App for Dutch oral reading fluency](serda-speech-enabled-reading-diagnostics-app-for-dutch-oral-reading-fluency.md) - SERDA is a tablet-based speech-recognition assessment developed by van der Velde et al.
 * [Serie Leamos](serie-leamos.md) - Serie Leamos is a free digital Spanish library created by Georgia State University's Spanish program and School of Art and Design, offering student-written and student-illustrated stories with multiple reading levels, vocabulary support, activities, downloadable texts, and audiobooks.
 * [Seven categories of charter school core functions for organizing distress indicators](seven-categories-of-charter-school-core-functions-for-organizing-distress-indicators.md) - A charter-school authorizer toolkit framework that organizes longitudinal review of school distress indicators across leadership, governing board, operations, financial management, talent, culture, and instruction.
 * [Seven co-designed Learning Transition Design Principles for LER technologies](seven-co-designed-learning-transition-design-principles-for-ler-technologies.md) - A co-designed framework from the report authors for guiding and evaluating learning and employment record technologies serving HSE learners and workers.

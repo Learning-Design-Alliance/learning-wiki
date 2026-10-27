@@ -50,6 +50,7 @@ The article recommends that institutions use machine learning predictions of wit
 - [Prioritize more studies of direct dropout behavior, including objective enrollment data, before drawing firm retention conclusions](prioritize-dropout-behavior-studies.md)
 - [Use explainable machine learning early warning systems to help teachers identify struggling inquiry learners early](early-warning-system-teacher-support-inquiry.md)
 - [Integrate low-cost BCI neurofeedback with online learning platforms for scalable, personalized math support](integrate-bci-neurofeedback-online-platforms.md)
+- [Use early-run purchase predictions to trigger interventions guiding learners towards paying behaviour](early-purchase-prediction-interventions.md)
 
 ## Examples
 -

@@ -52,3 +52,4 @@ ANOVA on letter size in the main experiment (65 students). The article reports "
 - [A pre-experiment cluster analysis identified b, f, g and p as the most graphomotor-difficult cursive consonants for 1st graders](pre-experiment-difficult-letters-bfgp.md) — related
 - [Handwriting duration of the first letter improves massively between Grade 1 and Grade 3, then plateaus](handwriting-duration-improves-grade1-to-grade3.md) — related
 - [The lexical frequency effect on writing a difficult first letter is present only in 1st graders, indicating spelling-motor interference before handwriting automation](frequency-interacts-with-letter-difficulty-in-grade-1-handwriting.md) — related
+- [ITS for psychomotor skills cluster in medicine, with sport second and other domains marginal](its-domain-distribution-medicine.md) — related

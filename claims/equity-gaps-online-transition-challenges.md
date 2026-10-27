@@ -94,3 +94,4 @@ Survey analysis compared frequencies of connectivity and hardware/software probl
 - [The second-level digital divide (skills and usage gaps) limits the benefits of technology-integrated family–school partnerships for many parents](second-level-digital-divide-limits-partnership-benefits.md) — related
 - [Perceived adult support with homeschooling was higher for teachers of higher-income students](adult-homeschooling-support-ses-gradient.md) — related
 - [Teachers of lower-SES students were less likely to have previous online teaching experience and reported the transition to remote instruction as more challenging](ses-gap-teacher-online-experience-transition.md) — related
+- [Pandemic-era emergency online learning produced mixed educational results that exacerbated existing inequities](pandemic-online-learning-exacerbated-inequities.md) — a broader claim this one bears on

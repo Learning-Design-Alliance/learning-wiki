@@ -47,3 +47,4 @@ Table 9 mean mastery probabilities for solve attributes by proficiency group. Th
 ## Related Claims
 - [Attribute mastery showed significant proficiency-group, attribute, and attribute-by-proficiency effects, but no significant status-group main effect](attribute-mastery-proficiency-effects-null-status-effect.md) — a broader claim this one bears on
 - [Rule Space successfully classified most examinees in architecture, with solve attributes the most powerful and check attributes the least powerful](rule-space-classifies-architecture-examinees-solve-strongest.md) — related
+- [Case-based (vignette) MCQs are classified as testing higher-order thinking and discriminate better between low- and high-information students](case-based-questions-higher-order-value.md) — related

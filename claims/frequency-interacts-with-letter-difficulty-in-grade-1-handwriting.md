@@ -52,3 +52,4 @@ Main experiment in which 65 French students in Grades 1, 3 and 5 wrote eight fiv
 - [Handwriting duration of the first letter improves massively between Grade 1 and Grade 3, then plateaus](handwriting-duration-improves-grade1-to-grade3.md) — related
 - [A pre-experiment cluster analysis identified b, f, g and p as the most graphomotor-difficult cursive consonants for 1st graders](pre-experiment-difficult-letters-bfgp.md) — related
 - [Graphemic complexity of the final letters has only marginal effects, limited to letter size](graphemic-complexity-marginal-letter-size-effect.md) — related
+- [ITS for psychomotor skills cluster in medicine, with sport second and other domains marginal](its-domain-distribution-medicine.md) — related

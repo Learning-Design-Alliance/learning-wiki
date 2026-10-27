@@ -73,3 +73,4 @@ The review reports Asher et al. (2023) as a large-scale RCT of a utility-value i
 - [A brief values-affirmation writing exercise raised African American seventh-graders' grades in two small field experiments, but a large same-district replication found no effect](self-affirmation-improves-outcomes.md) — related
 - [Neither URM status nor first-generation status moderates the intervention effects on retrieval practice outcomes](no-demographic-moderation-intervention-effects.md) — related
 - [In STEM courses taught by instructors with more fixed mindsets, underrepresented minority students' grade gaps are larger than in growth-mindset instructors' courses](fixed-mindset-instructors-larger-racial-grade-gaps.md) — related
+- [Students' propensity to consent to learning analytics and their institutional trust differ for underrepresented minorities](consent-and-trust-differ-for-underrepresented-minorities.md) — related

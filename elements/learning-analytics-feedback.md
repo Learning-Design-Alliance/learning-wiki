@@ -13,7 +13,7 @@ generated:
 # Learning Analytics-Driven Feedback
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 64 claims (23 for, 29 mixed, 12 against) · 54 studies (17 review, 16 associational, 8 theoretical, 5 design, 4 causal, 4 qualitative), `q1`–`q3` · 4 of 54 report an effect size · 61 claims rest on one study
+> **Evidence** · 66 claims (23 for, 31 mixed, 12 against) · 55 studies (18 review, 16 associational, 8 theoretical, 5 design, 4 causal, 4 qualitative), `q1`–`q3` · 4 of 55 report an effect size · 63 claims rest on one study
 
 ## Description
 In face-to-face instruction, a teacher can visually notice disengagement or confusion; a distance instructor cannot, and many learners fail to recognize their own need for help or fail to seek it even when it is available ([Baker & Inventado, 2016](https://edtechbooks.org/lidtfoundations/educational_data_mining_and_learning_analytics)). Educational data mining (EDM) and learning analytics (LA) address this by mining the large amounts of interaction data online and distance courses generate — content-management, discussion-forum, gradebook, and clickstream data — to build models that predict which learners are at risk and to surface feedback that would otherwise depend on an instructor noticing in person.
@@ -110,6 +110,8 @@ These models feed three uses that benefit learners directly: **automated feedbac
 - [Keystroke-feature regression models fail to predict final writing grade at any point during the writing process](../claims/keystroke-regression-does-not-beat-grade-baseline.md) [-W]
 - [Binary classification of students who might need support from keystroke data only slightly exceeds the majority-class baseline (highest AUC 0.57)](../claims/keystroke-classification-weak-auc.md) [-W]
 - [Help-seeking skill models built from ITS practice data were not transferable across Costa Rican, Philippine, and US contexts (reported by Ogan et al., 2014)](../claims/help-seeking-models-not-transferable-across-cultures.md) [-W]
+- [Data source choice affects both accuracy and fairness: institutional features were most accurate-related yet most discriminatory](../claims/data-source-fairness-accuracy-effects.md) [~W]
+- [Education algorithm fairness is measured with a diverse set of metrics, most commonly ABROCA, TPR/TNR, FPR/FNR disparity metrics, and group difference in performance](../claims/education-fairness-metrics-diverse-set.md) [~W]
 
 ## The evidence by question
 
@@ -126,9 +128,11 @@ These models feed three uses that benefit learners directly: **automated feedbac
 - [Early Detection System (EDS) built on standardized HStatG administrative student data](hstatg-administrative-data-eds.md)
 
 ## Examples
+
 - Purdue's Course Signals project — mined LMS, student-information-system, and gradebook data to give instructors near-real-time, color-coded risk indicators and suggested interventions, improving student help-seeking and retention when instructors acted on the signals
 - Cognitive Tutors' "skill bars" — visual indicators of a student's inferred mastery of specific skills, later extended to communicate suspected misconceptions
 - Social network analysis of discussion-forum interaction patterns to identify learners at risk of feeling isolated from the learning community
+- [Use coordination-based indicators rather than inactivity alone to trigger alerts and adaptive interventions for struggling groups](../strategies/coordination-based-alert-strategy.md)
 
 ## Key Sources
 - Baker, R. S., & Inventado, P. S. (2016). Educational data mining and learning analytics: Potentials and possibilities for online education. In G. Veletsianos (Ed.), *Emergence and Innovation in Digital Learning* (pp. 83–98). AU Press. Republished in R. West (Ed.), *Foundations of Learning and Instructional Design Technology*. EdTech Books. [https://edtechbooks.org/lidtfoundations/educational_data_mining_and_learning_analytics](https://edtechbooks.org/lidtfoundations/educational_data_mining_and_learning_analytics)

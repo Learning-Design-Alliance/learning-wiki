@@ -54,3 +54,4 @@ Classification accuracy analysis of the weighted linking sample (Tables 3.9 and 
 - [Agreement between K–3 screening assessments on risk classification varied from 47 percent to 85 percent depending on the assessment combination](screening-assessment-agreement-varies-47-85-percent.md) — related
 - [Linear regression outperformed equipercentile and mean-sigma equating for predicting ARM scores and was selected as the final linking model](linear-regression-selected-linking-model.md) — related
 - [A body of work standard setting process produced classification agreement rates ranging from 71% to 97% for an alternate portfolio assessment](body-of-work-agreement-rates-71-97.md) — related
+- [SERDA-derived scores classify children into DMT and AVI proficiency classes with moderate to good accuracy and items discriminate moderately well or better](serda-scores-predict-proficiency-classes.md) — related

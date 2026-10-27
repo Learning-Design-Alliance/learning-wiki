@@ -53,3 +53,4 @@ Analysis of the 2024 calibration phase (50 texts, each scored 10 times by the AI
 - [AI grading of the exam is highly stable across five independent runs at the total-score level (ICC(A,1) = 0.967), with lower but still strong cell-level stability (ICC(A,1) = 0.836)](ai-grading-run-to-run-reliability-icc.md) — related
 - [Out-of-the-box LLMs agree with human essay grades far less than human raters agree with each other](llm-essay-scoring-weak-human-agreement.md) — related
 - [Spellcheck and autocorrect are not foolproof: efficacy is bounded near 80% and the most common student writing error is now correctly spelled but inappropriate words](spellcheck-not-foolproof-wrong-word-errors.md) — related
+- [ASR-based item-level accuracy scores show moderate agreement with human raters in a Dutch word decoding and passage reading task](asr-accuracy-moderate-agreement-human-raters.md) — related

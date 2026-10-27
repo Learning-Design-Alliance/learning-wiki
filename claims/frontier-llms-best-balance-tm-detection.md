@@ -83,3 +83,4 @@ Evaluation of fine-tuned T5-small and BERT-base classifiers on the Eedi test dat
 - [LLM misconception analysis that ties student errors to instructional content reveals insights not apparent from performance data alone](llm-misconception-analysis-reveals-insights-beyond-performance-data.md) — related
 - [In zero-shot evaluation, GPT-4's multi-label classification results were similar to what might be expected of fine-tuned classifiers, with SetFit and GPT-3.5 showing contrasting precision/recall patterns](gpt4-zero-shot-comparable-finetuned-classifiers.md) — related
 - [The fine-tuned T5 question-extraction model reached an average training loss of 0.4098, indicating imperfect question extraction](t5-finetuning-average-loss-04098.md) — related
+- [About 400 labeled proofs are sufficient for adequate autograding performance](400-proofs-sufficient-training.md) — related

@@ -54,3 +54,4 @@ Baseline LR and XGBoost classifiers were trained on OULAD (25,690 students); gro
 - [Machine learning methods outperformed logistic regression in classification accuracy across reviewed studies](ml-outperforms-logistic-regression-aied.md) — related
 - [Using demographic variables as predictors risks reinforcing biases embedded in training labels, including self-fulfilling prophecies](demographic-predictors-reinforce-training-label-bias.md) — related
 - [Bias in predicting learning productivity, measured as accuracy differences across gender and parental educational background, was highly dependent on the ML method used](bias-dependent-on-ml-method.md) — related
+- [Education algorithm fairness is measured with a diverse set of metrics, most commonly ABROCA, TPR/TNR, FPR/FNR disparity metrics, and group difference in performance](education-fairness-metrics-diverse-set.md) — related

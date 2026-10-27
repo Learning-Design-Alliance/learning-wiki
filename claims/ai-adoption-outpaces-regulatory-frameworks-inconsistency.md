@@ -72,3 +72,4 @@ Systematic literature review of recent studies on AI ethics in education. The re
 - [Under GenAI power dynamics, many instructors updated teaching practices to retain authority and promote student accountability](instructors-update-practices-to-retain-authority-accountability.md) — related
 - [Awareness of institutional GenAI regulations does not automatically translate into clarity about rule-compliant use](awareness-does-not-yield-rule-compliance-clarity.md) — a narrower finding that bears on this claim
 - [Australian universities show an escalating trend toward contingent academic appointments and a declining trend in continuing teaching-and-research staff](contingent-academic-employment-trend-australia.md) — related
+- [No framework, guidelines, policies or regulations have been devised to address the specific ethical issues raised by the use of AI in education](no-aied-ethics-framework-or-policy.md) — related

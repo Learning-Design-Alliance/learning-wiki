@@ -18,7 +18,7 @@ sources:
 # Teach response precision and new associations with minimal errors, using mediators and stimulus fading
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 16 claims (8 for, 8 mixed) · 23 studies (7 causal, 7 review, 5 theoretical, 4 quant-synthesis), `q1`–`q4` · 5 of 23 report an effect size · 10 claims rest on one study
+> **Evidence** · 17 claims (9 for, 8 mixed) · 24 studies (7 causal, 7 review, 5 theoretical, 4 quant-synthesis, 1 associational), `q1`–`q4` · 5 of 24 report an effect size · 11 claims rest on one study
 
 ## Conditional relationship
 
@@ -159,6 +159,7 @@ End-of-practice accuracy, unaided performance at a delay, transfer to new items 
 ## Claims
 
 - [Near-errorless learning: participants acquiring procedural knowledge under accuracy instructions learned despite minimizing response errors](../claims/response-errors-not-needed-procedural-learning.md) [+W]
+- [Learning from failures is much weaker than learning from successes for LCM items](../claims/weak-failure-learning-lcm.md) [+W]
 
 ## Related Principles
 - [Guided Practice](guided-practice.md): the practice phase after a model, for structured tasks generally

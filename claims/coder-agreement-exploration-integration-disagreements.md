@@ -66,3 +66,5 @@ Analysis of the coder disagreements (Table 3, Fig. 3). The article reports "Most
 ## Related Claims
 - [Systems Thinking Practices is the hardest CT construct to code reliably for both human raters and the LLM, requiring more explicitly operationalized rubrics](stp-low-reliability-complex-construct.md) — related
 - [Automated judging aligns strongly with three domain experts (r = 0.82 for role fidelity) but exhibits a conservative bias, scoring ethical deviation 0.08 points lower than humans](automated-judge-human-alignment-conservative-bias.md) — related
+- [A structured negotiated-coding process reached nearly 98% interrater agreement before machine learning](negotiated-coding-98-consensus.md) — related
+- [In the coded dataset, exploration was the most frequent phase (727 units, 48%), followed by integration (444, 29%), resolution (235, 15%), and non-cognitive presence (115, 8%)](phase-distribution-skew.md) — related

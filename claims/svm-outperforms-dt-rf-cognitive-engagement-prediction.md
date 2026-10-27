@@ -66,3 +66,5 @@ Test-set evaluation of three classifiers trained on 104 Coh-Metrix indicators pl
 - [Machine learning models classify the three learning stages from EEG features with over 80% test accuracy, SVM highest at 82.6%](eeg-stage-classification-over-80.md) — related
 - [On one graphical differentiation item, eye tracking data predicted students' specific difficulties as a multiclass classification problem](gaze-prediction-specific-math-difficulties-multiclass.md) — related
 - [Multi-label BERT classifiers slightly outperformed single-label Random Forest baselines on example-based F1 scores but under-performed with lower exact match ratios on MOOC cognitive presence classification](multi-label-bert-f1-beats-rf-exact-match-lower.md) — related
+- [A Decision Tree classifier distinguishes high- from low-quality Wikipedia-based explanations with an F1 score of 80.32% on the validation set](decision-tree-explanation-quality-f1-80.md) — related
+- [A multilayer perceptron classifier using German LIWC features classifies cognitive presence phases with accuracy of 0.82 and Cohen's κ of 0.76](german-liwc-mlp-cognitive-presence-classifier-kappa-076.md) — related

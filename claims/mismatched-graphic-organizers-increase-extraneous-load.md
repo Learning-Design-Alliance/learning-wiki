@@ -82,3 +82,5 @@ Well-aligned organizers and advance organizers can support learning — see [Adv
 - The webinar presents glyphs, pictographs, bar graphs, and Google Forms as ways for K-2 students to collect and analyze data. — related
 - [Teams with part-task congruent tools adjusted their representations across phases—broad causal representations first, then more selective algebraic specification—unlike single-tool teams](matched-tools-phase-appropriate-representations.md) — a narrower finding that bears on this claim
 - [Cognitive load theory may help identify mismatches between representational schemes and the execution of (sub)tasks in CSCL](clt-identifies-representation-task-mismatches.md) — related
+- [Better diagrammatic reasoners sort external representations into fewer, more cohesive and more accurately named categories than poorer diagrammatic reasoners](card-sort-diagrammatic-reasoning-differences.md) — related
+- [Acting on graphs while observing racetrack behaviour improved students' graph interpretation more than racing cars while observing automatic graph construction](embodied-graph-interaction-asymmetry.md) — related

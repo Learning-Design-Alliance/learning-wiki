@@ -49,3 +49,4 @@ Country-level correlation across 48 countries in PISA 2018 (N = 409,287 students
 - [Chinese middle-school students endorse significantly more fixed mindsets of intelligence than US students (PISA 2018)](chinese-students-more-fixed-mindsets-than-us-pisa-2018.md) — related
 - [Chinese college students endorse more fixed intelligence mindsets, more effort attribution for school-level achievement, and more ability attribution for expert-level achievement than US students](study2-mindset-attribution-cultural-differences.md) — related
 - [Growth mindset is positively associated with PISA reading, science and math performance overall (Model B standardized βs .21, .20, .16)](growth-mindset-positive-association-pisa-scores.md) — related
+- [Cultural variations exist in emotion and other psychological topics of interest to AIED, so psychology research influencing AIED is likely WEIRD-imbalanced](cultural-variation-emotion-aied-topics.md) — a broader claim this one bears on

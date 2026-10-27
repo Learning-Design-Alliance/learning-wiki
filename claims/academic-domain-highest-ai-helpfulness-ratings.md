@@ -69,3 +69,4 @@ Summary of the survey's three global helpfulness questions (Table 2: dealing wit
 - [Interviews confirm students use AI across all four challenge domains throughout the migration timeline, including for academic communication support](interviews-confirm-cross-domain-ai-usage.md) — related
 - [International students use conversational AI predominantly for task-oriented academic and logistical support rather than for psychological or chronic emotional challenges](ai-task-oriented-over-emotional-support-international-students.md) — related
 - [Over three-quarters of international medical students used AI tools at least weekly and reported strong intentions to continue, valuing teacher-AI collaboration](students-regular-ai-use-and-adoption-intent.md) — related
+- [Students perceive human graders as more accurate and helpful than the AI autograder](students-trust-humans-more-than-autograder.md) — related

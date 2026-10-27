@@ -48,3 +48,4 @@ Systematic mapping study of 1055 papers (815 ITS, 240 adaptive learning systems)
 - [Ten years of AIED publications were predominantly by and for the Western world (reported by Blanchard, 2014)](aied-research-western-centric-bias.md) — related
 - [Participant samples in AI trust research skew WEIRD: mostly Western, adult, university-educated participants, limiting external validity](weird-bias-ai-trust-research.md) — related
 - [AI-based proctoring systems trained on western behavioural norms may exacerbate cultural and social challenges in non-English-speaking regions](ai-proctoring-western-norms-cultural-bias.md) — related
+- [Conference localization in non-WEIRD countries coincided with the highest rates of papers from Latin America and Asia](conference-localization-diversity-effect.md) — related

@@ -89,3 +89,4 @@ Separate meta-analysis for tutors from 30 effect sizes across 14 studies. The pr
 - [Publication bias evidence is mixed: marginal asymmetry for tutees but no missing studies, and no bias for tutors](cross-age-tutoring-publication-bias-mixed.md) — related
 - [The review reports that college tutors who espoused a malleable view of intelligence to their tutees improved their own academic performance, with benefits for tutees as well](tutor-espousing-malleable-intelligence-gains.md) — related
 - [Tutoring is highly effective, and hiring older peers as tutors supports learning gains for both older and younger students](tutoring-and-cross-age-peer-tutors-effective.md) — a broader claim this one bears on
+- [Variable reciprocity assigns tutor roles for problems a student solved and tutee roles for problems not solved (as proposed by Evans and Moore)](variable-reciprocity-solved-problems-tutor.md) — related

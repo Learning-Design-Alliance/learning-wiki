@@ -66,3 +66,4 @@ The authors' interpretation of cognitive science research as applied in the bump
 - [Verbal-protocol-guided revisions of functional documents improved comprehension, with error rates falling from 50% to 22% despite longer texts](protocol-guided-revision-improves-comprehension.md) — related
 - [Related decorative pictures do not increase triggered or maintained situational interest; in Experiment 2 they reduced maintained interest](related-pictures-no-interest-increase.md) — related
 - [Unfamiliar problem contexts and vocabulary distract students from the mathematics and reasoning a problem requires](unfamiliar-contexts-distract-from-mathematics.md) — related
+- [Decorating curriculum diagrams with pictorial elements may engender 'graph-as-picture' misconceptions in students](diagram-decoration-graph-as-picture-risk.md) — related

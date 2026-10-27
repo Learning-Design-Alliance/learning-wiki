@@ -55,3 +55,4 @@ Evaluation of SBERT, USE, T5, BERT and RoBERTa using cosine similarity against r
 - [Most faculty–GPT-4 scoring discrepancies were only one-point differences, shrinking across iterations](oeq-scoring-discrepancies-mostly-one-point.md) — related
 - [Comparison models (RoBERTa, SBERT, naïve GPT-4o prompting) failed to reach acceptable agreement on PCK items, with Cohen's κ at or below .55](baseline-models-unacceptable-pck-agreement.md) — related
 - [LLM grading performance relative to human graders is mixed: comparable in 12 reviewed cases, worse in 11, with the strongest alignment on short, straightforward tasks](llm-grading-mixed-against-human-raters.md) — a broader claim this one bears on
+- [ASR-based item-level accuracy scores show moderate agreement with human raters in a Dutch word decoding and passage reading task](asr-accuracy-moderate-agreement-human-raters.md) — related

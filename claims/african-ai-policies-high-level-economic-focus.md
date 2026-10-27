@@ -50,3 +50,4 @@ Comparative analysis of three African countries' AI strategies (Egypt, Mauritius
 - [The EU and China have adopted the most comprehensive AI regulations, each covering four of the five OECD classification dimensions](eu-china-most-comprehensive-ai-regulations-oecd.md) — related
 - [Nordic countries and New Zealand cover UNESCO's GenAI framework elements more fully than some higher-ranked AI Preparedness Index countries, so AIPI ranking does not guarantee strong GenAI policies](aipi-ranking-does-not-guarantee-strong-genai-policies.md) — related
 - [US AI regulation shifted dramatically in early 2025: the AI Bill of Rights and Executive Order 14110 were revoked and replaced by a deregulation-focused executive order](us-ai-policy-shift-deregulation-2025.md) — related
+- [Most nations' AI policy strategies focus on developing an AI-ready workforce rather than on the general use of AI in education](national-ai-policies-prioritize-workforce-over-education.md) — related

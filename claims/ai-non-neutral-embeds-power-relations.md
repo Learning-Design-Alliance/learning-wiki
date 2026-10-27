@@ -80,3 +80,4 @@ Theoretical assertion in the discussion, attributed by the article to Coeckelber
 - [Educators cautiously support AI for culturally responsive content generation while fearing cultural biases and stereotypes in AI output](culturally-responsive-ai-content-cautious-optimism.md) — related
 - [Students assisted by a gender-biased LLM produce career-plan essays with a significantly larger male-female agentic gap than students in neutral-LLM and no-AI control conditions](biased-llm-assistance-increases-agentic-gap-student-essays.md) — a narrower finding that bears on this claim
 - [Assessment instruments are never neutral but always mediational, embedding a culturally biased telos](assessment-always-mediational.md) — a narrower finding that bears on this claim
+- [Cultural variations exist in emotion and other psychological topics of interest to AIED, so psychology research influencing AIED is likely WEIRD-imbalanced](cultural-variation-emotion-aied-topics.md) — related

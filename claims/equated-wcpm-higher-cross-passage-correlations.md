@@ -51,3 +51,4 @@ Large-scale observational analysis of adaptive oral reading test records from st
 - [Equated WCPM scores show much less within-student variance than raw WCPM scores, indicating reduced passage-difficulty fluctuations](equated-wcpm-less-within-student-variance.md) — related
 - [Equated WCPM scores from non-reference passages show smaller residuals against reference-passage scores than raw scores, with one passage exception](equated-wcpm-smaller-residuals-one-exception.md) — related
 - [Reading fluency development is greater during enclosed-classroom phases than open-plan phases in 7–10-year-olds](enclosed-classroom-faster-reading-fluency-development.md) — related
+- [SERDA oral reading metrics correlate with DMT and AVI classifications (0.32–0.88), with speed and WCPM metrics outperforming ability estimates](serda-metrics-correlate-dmt-avi.md) — related

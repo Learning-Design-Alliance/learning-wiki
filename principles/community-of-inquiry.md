@@ -18,7 +18,7 @@ sources:
 # Community of Inquiry
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 17 claims (6 for, 10 mixed, 1 against) · 22 studies (5 causal, 5 review, 4 qualitative, 3 quant-synthesis, 2 associational, 2 theoretical, 1 design), `q1`–`q4` · 1 of 22 report an effect size · 14 claims rest on one study
+> **Evidence** · 19 claims (7 for, 11 mixed, 1 against) · 23 studies (5 causal, 5 review, 4 qualitative, 3 quant-synthesis, 2 associational, 2 design, 2 theoretical), `q1`–`q4` · 1 of 23 report an effect size · 16 claims rest on one study
 
 ## Conditional relationship
 
@@ -114,6 +114,8 @@ Perceived presence, the quality of the discourse, each learner's understanding a
 - [Students' resolution of both direct and soft disagreements promoted collective knowledge advancement while maintaining a positive socio-emotional climate](../claims/resolution-promotes-collective-knowledge-advancement.md) [~W]
 - [A small-scale pilot study explored the impact of a variety of roles on discussion-forum interaction across participative, social, cognitive, and teaching dimensions](../claims/role-playing-forum-interaction-pilot.md) [~W]
 - [Social presence influences how social interaction unfolds in online group learning, which in turn affects learning outcomes](../claims/social-presence-shapes-online-group-interaction-and-outcomes.md) [+W]
+- [Cognitive presence comprises four phases of critical thinking — triggering event, exploration, integration, and resolution — which are not always sequential](../claims/coi-cognitive-presence-four-phases.md) [+W]
+- [In the coded dataset, exploration was the most frequent phase (727 units, 48%), followed by integration (444, 29%), resolution (235, 15%), and non-cognitive presence (115, 8%)](../claims/phase-distribution-skew.md) [~W]
 
 ## Related Principles
 - [Collaborative Learning](collaborative-learning.md) — community of inquiry explains one strong form of collaborative meaning-making

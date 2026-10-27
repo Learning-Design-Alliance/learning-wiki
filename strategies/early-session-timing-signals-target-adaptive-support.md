@@ -46,6 +46,7 @@ The article recommends that timing-based signals be used to identify early risk 
 - [Use postsecondary readiness indicators in an early warning system and combine cultural responsiveness with tiered interventions to address disparities](early-warning-system-with-tiered-culturally-responsive-supports.md)
 - [Use early cheating-risk predictions only for low-stakes support with human review, never for disciplinary decisions](support-oriented-use-of-cheating-risk-predictions.md)
 - [Use LCF risk clusters to target Supplemental Instruction recruitment and resource allocation](lcf-clusters-guide-si-resource-allocation.md)
+- [Use early-run purchase predictions to trigger interventions guiding learners towards paying behaviour](early-purchase-prediction-interventions.md)
 
 ## Examples
 -

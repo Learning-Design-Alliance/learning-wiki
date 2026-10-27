@@ -39,6 +39,7 @@ The guide presents three models districts may adapt: an administrative approach 
 ## Related Strategies
 
 - [Nine-step self-monitoring review process for local job-training program compliance](jtpa-nine-step-self-monitoring-process.md)
+- [Adapt instructional systems to local contexts through systematic inquiry and collaboration among educators, developers, and researchers](continuous-improvement-collaboration-for-aied.md)
 
 ## Examples
 -

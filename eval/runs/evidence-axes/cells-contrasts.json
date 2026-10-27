@@ -46086,5 +46086,121 @@
  "simulation\tsynthetic cultural environments combined with suitable classroom instruction\tnot stated": {
   "label": "simulation-enhanced instruction vs no simulation",
   "treatment_is_a": true
+ },
+ "feedback-presence\tITS providing feedback\tNo or unspecified feedback": {
+  "label": "Feedback vs no or unspecified feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tDISCOURSE PERSONALIZATION MODEL\tBASELINE MODEL": {
+  "label": "discourse personalization model vs baseline model",
+  "treatment_is_a": true
+ },
+ "feedback-type\tDISCOURSE PERSONALIZATION hint-selection model\tRANDOM hint-selection model": {
+  "label": "personalized hint-selection model vs random hint-selection model",
+  "treatment_is_a": true
+ },
+ "feedback-type\tHelp Tutor feedback on help-seeking\tno Help Tutor feedback": {
+  "label": "feedback on help-seeking behavior vs no feedback on help-seeking behavior",
+  "treatment_is_a": true
+ },
+ "feedback-type\tautomated data-driven personalized feedback\tcomparison condition not specified in the supplied study text": {
+  "label": "automated data-driven personalized feedback vs comparison feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tautomated data-driven personalized feedback\tcomparison feedback condition": {
+  "label": "automated data-driven personalized feedback vs comparison feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\telaborated feedback\tcorrectness feedback or accuracy-only information": {
+  "label": "elaborated feedback vs correctness-only feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\textracted explanations\tgenerated explanations": {
+  "label": "extracted explanations vs generated explanations",
+  "treatment_is_a": true
+ },
+ "feedback-type\tfeedback on help-seeking behavior\tno feedback on help-seeking behavior": {
+  "label": "feedback on help-seeking behavior vs no feedback on help-seeking behavior",
+  "treatment_is_a": true
+ },
+ "feedback-type\tpersonalized feedback\tcomparison feedback condition": {
+  "label": "personalized feedback vs comparison feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tpersonalized hints\tWikipedia-based explanations": {
+  "label": "personalized hints vs Wikipedia-based explanations",
+  "treatment_is_a": true
+ },
+ "feedback-type\tshowing both extracted and generated explanations\tshowing only extracted explanations": {
+  "label": "combined extracted and generated explanations vs extracted explanations only",
+  "treatment_is_a": true
+ },
+ "feedback-type\ttailored 20–30 second teacher video mistake messages\tfeedback restricted to the correct answer": {
+  "label": "tailored teacher video mistake messages vs correct-answer-only feedback",
+  "treatment_is_a": true
+ },
+ "learner-difference\tAI/AN 8th-grade students\twhite 8th-grade students": {
+  "label": "AI/AN students vs White students",
+  "treatment_is_a": true
+ },
+ "learner-difference\tAI/AN students\tAI/AN students in the past": {
+  "label": "Current AI/AN students vs past AI/AN students",
+  "treatment_is_a": true
+ },
+ "learner-difference\tAI/AN students\tWhite peers": {
+  "label": "AI/AN students vs White students",
+  "treatment_is_a": true
+ },
+ "learner-difference\tAI/AN students\tother student groups": {
+  "label": "AI/AN students vs other student groups",
+  "treatment_is_a": true
+ },
+ "learner-difference\tAI/AN students\tstudents from other reported ethnic groups": {
+  "label": "AI/AN students vs students from other ethnic groups",
+  "treatment_is_a": true
+ },
+ "learner-difference\tAI/AN students\twhite students": {
+  "label": "AI/AN students vs White students",
+  "treatment_is_a": true
+ },
+ "learner-difference\tAI/AN students across reported states\tWhite students across the same reported states": {
+  "label": "AI/AN students vs White students",
+  "treatment_is_a": true
+ },
+ "learner-difference\tAI/AN students in Alaska\tWhite students in Alaska": {
+  "label": "AI/AN students vs White students",
+  "treatment_is_a": true
+ },
+ "learner-difference\tAI/AN students in SY 2021/22\toverall students in SY 2021/22": {
+  "label": "AI/AN students vs overall students",
+  "treatment_is_a": true
+ },
+ "learner-difference\tAIAN, Latinx, and Native Hawaiian students\tBlack and Asian American students": {
+  "label": "AIAN, Latinx, and Native Hawaiian students vs Black and Asian American students",
+  "treatment_is_a": true
+ },
+ "media-design\tdiagrams decorated with pictorial elements\tdiagrams without pictorial decoration": {
+  "label": "decorated diagrams vs undecorated diagrams",
+  "treatment_is_a": true
+ },
+ "media-design\tmatched video feedback\tmatched text feedback": {
+  "label": "video feedback vs text feedback",
+  "treatment_is_a": true
+ },
+ "practice-amount\t400 training proofs\tfull available training set": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": false
+ },
+ "prompts\tfeedback on help-seeking behavior\tno feedback on help-seeking behavior": {
+  "label": "feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "prompts\tprompting to connect information across representations\tno prompting; spontaneous connection": {
+  "label": "prompting vs no prompting",
+  "treatment_is_a": true
+ },
+ "self-explanation\tcreate explanations for one topic\tprovide answers for the other topic": {
+  "label": "self-explanation vs answer provision",
+  "treatment_is_a": true
  }
 }

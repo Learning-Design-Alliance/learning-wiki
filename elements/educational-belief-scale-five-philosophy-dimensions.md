@@ -18,7 +18,7 @@ sources:
 # Educational Belief Scale (40 items, five philosophy sub-dimensions)
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 against) · 1 study (1 quant-synthesis), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A self-report instrument the article uses to measure teachers' educational philosophy beliefs: "there are 40 items composed of five sub-dimensions that are scored as five-point Likert-type". Higher sub-dimension scores indicate that a teacher believes and adopts that philosophy more. In this survey of 789 physical education teachers, Cronbach alpha was .75-.87 in the sub-dimensions and .89 in total; the five-factor structure had been verified with confirmatory factor analysis.
@@ -43,6 +43,7 @@ A self-report instrument the article uses to measure teachers' educational philo
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- [Self-report Likert measures of team constructs are subject to social desirability bias, availability heuristics, and scale-point interpretation problems, favoring behavioral markers as a measurement approach](../claims/self-report-likert-biases-team-measurement.md) [-W]
 
 ## Related Elements
 - 

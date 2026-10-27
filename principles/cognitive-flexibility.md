@@ -43,7 +43,7 @@ sources:
 # Cognitive Flexibility
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 23 claims (9 for, 12 mixed, 2 against) · 28 studies (10 causal, 6 theoretical, 3 quant-synthesis, 3 review, 3 qualitative, 2 design, 1 associational), `q1`–`q4` · 4 of 28 report an effect size · 17 claims rest on one study
+> **Evidence** · 24 claims (10 for, 12 mixed, 2 against) · 29 studies (10 causal, 6 theoretical, 4 review, 3 quant-synthesis, 3 qualitative, 2 design, 1 associational), `q1`–`q4` · 4 of 29 report an effect size · 18 claims rest on one study
 
 ## Conditional relationship
 
@@ -169,6 +169,7 @@ Noticing that a case differs, saying what changes, choosing an appropriate metho
 - [Variation-theory-based teaching significantly improves students' alternation of points of view on novel, untaught societal issues (transfer), with smaller effects than on the taught task](../claims/variation-theory-transfer-novel-issues.md) [~W]
 - [Walking the body-scale number line disrupted students' prior misconceptions and erroneous rules, which resurfaced when they returned to the desk-scale number line](../claims/walking-disrupts-misconceptions-which-resurface.md) [~W]
 - [Learning with multiple representations imposes high demands and often fails to produce expected results because learners do not integrate the representations](../claims/multi-representational-learning-integration-failure.md) [~W]
+- [Students require prompting to connect information across multiple representations and do not do so spontaneously](../claims/students-need-prompting-connect-mers.md) [+W]
 
 ## Related Principles
 - [Constructivist Learning](cognitive-activation.md) — cognitive flexibility assumes knowledge is actively reorganized, not merely stored

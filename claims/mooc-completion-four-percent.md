@@ -9,6 +9,7 @@ generated:
   at: 2026-10-09
 evidence_strength: weak
 newest_evidence: 2014
+source_checked: 2026-10-27
 recheck_by: 2019
 sources:
   - id: karen-cator-2014
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
-> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2019**: baselines and conditions change
+> **Currency** · newest study 2014 · checked against its sources 2026-10-27 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2019**: baselines and conditions change
 > **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
@@ -53,3 +54,4 @@ The paper cites a University of Pennsylvania Graduate School of Education study 
 - [Viewing of the personalized AI videos declined sharply across the quarter, with views of the first week-9 video set suggesting fewer than 10% of the course population was watching voluntarily by the end of the course](video-views-declined-across-quarter.md) — related
 - [Median student engagement with MOOC videos falls sharply as video length increases beyond 6 minutes](video-length-mooc-engagement-declines.md) — related
 - [Guo et al. found engagement depends on video production style: short videos, talking heads on slides, Khan-style drawing more engaging than slides or coding, classroom recording weak online](guo-video-style-engagement-findings.md) — related
+- [MOOC certificate purchasing is rare: under 1% of enrolled learners purchase, with completion around 10%](mooc-purchase-rate-under-one-percent.md) — related

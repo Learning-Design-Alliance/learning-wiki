@@ -52,3 +52,4 @@ The article's theoretical synthesis of leadership and trust research reports tha
 - [Continuous improvement can fall short when it becomes a compliance-based checklist activity detached from purpose and equity](ci-compliance-activity-undermines-equity.md) — related
 - [Relational elements — trust, voice and agency, and equity — are preconditions for restorative practices to work](relational-elements-precede-technical-restorative-results.md) — a narrower finding that bears on this claim
 - [Contextual resources shape teachers' agentic responses in challenging situations, which in turn shape their interpretations of student behavior and possibilities for responsiveness](contextual-resources-shape-teacher-responsiveness.md) — related
+- [Learning is not an a priori shared goal of stakeholders in informal workplace learning settings, which undermines trust in data collection for learning](learning-non-shared-goal-workplace.md) — related

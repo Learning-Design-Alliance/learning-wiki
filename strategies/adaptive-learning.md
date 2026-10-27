@@ -66,6 +66,7 @@ Adaptive systems work by keeping each learner operating at the edge of their cur
 - [Profile-driven adaptive strategy rules composed dynamically and injected into the system prompt each turn](adaptive-strategy-prompt-injection-rules.md)
 - [Use strategy-based evidence models to trigger adaptive scaffolding toward more productive problem-solving strategies](strategy-evidence-models-trigger-adaptive-scaffolding.md)
 - [Select adaptive prompts through rule-linked feedback thresholds and priorities](threshold-priority-prompt-selection.md)
+- [Use coordination-based indicators rather than inactivity alone to trigger alerts and adaptive interventions for struggling groups](coordination-based-alert-strategy.md)
 
 ## Examples
 - **[ASSISTments](https://www.assistments.org)** — free math platform that adapts problem selection and scaffolding based on student responses; evaluated in randomized controlled trials in Maine middle schools.

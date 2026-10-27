@@ -98,3 +98,4 @@ The authors' own synthesis of the conflicting findings: "it is unclear whether i
 - [Predictive learning analytics can generate early warnings of dropout risk and trigger targeted interventions in adult education](predictive-analytics-early-warning-dropout-adults.md) — related
 - [Prediction algorithms forecast student achievement from small windows of data, more accurately when data are enriched with instructional design and learning-process detail](enriched-data-improve-achievement-prediction.md) — related
 - [Prediction and intervention are different problems: highly predictive features such as prior GPA are often ones an institution cannot change](prediction-versus-causal-intervention-distinction.md) — related
+- [Data source choice affects both accuracy and fairness: institutional features were most accurate-related yet most discriminatory](data-source-fairness-accuracy-effects.md) — related

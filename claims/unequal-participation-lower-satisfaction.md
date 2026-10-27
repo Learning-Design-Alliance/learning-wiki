@@ -53,3 +53,4 @@ Spearman correlations between group-level gini coefficient and group-mean satisf
 - [Tentative evidence that groups receiving the collaboration support more often achieved near-equal participation, since most groups failing the gini criterion were controls](tentative-support-equal-participation.md) — related
 - [Participation within teams was fairly equal in all conditions, with Gini coefficients close to zero and no significant between-condition differences](equal-participation-across-collaboration-conditions.md) — related
 - [AI agent communities exhibit extreme participation inequality (comment Gini = 0.91), exceeding human online learning communities](ai-agent-communities-extreme-participation-inequality.md) — related
+- [Perceived satisfaction correlates strongly and negatively with work imbalance (Gini index), and willingness to collaborate again correlates with group productivity](satisfaction-gini-correlation.md) — possibly the same claim (merge candidate)

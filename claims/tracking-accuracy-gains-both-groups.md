@@ -49,3 +49,4 @@ Six-session mixed-design ANOVA of training data showed a significant session mai
 - [General visuomotor skill learning on the SRT task occurs in both DD and TD children with no group difference](gsl-present-both-groups-no-group-difference.md) — related
 - [Angular and speed perturbations in a visuomotor interception task engage distinct adaptive strategies: spatial correction for angular errors and velocity-based adjustment for speed errors](angular-speed-perturbations-distinct-adaptive-strategies.md) — related
 - [Gaze behavior shows distinct tracking modes: angular discrepancies engage both external target tracking and self-monitoring, whereas speed discrepancies engage predominantly self-referential monitoring](gaze-tracking-modes-by-perturbation-type.md) — related
+- [MT-ITS training produced significantly stronger pre-to-post gains in shooting accuracy and aiming-lead reduction than standard training](mt-its-training-gains-exceed-standard-training.md) — related

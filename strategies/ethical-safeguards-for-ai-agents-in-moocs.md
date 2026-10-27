@@ -17,7 +17,7 @@ sources:
 # Embed ethical safeguards — informed consent, moral decision-making frameworks, explainable AI — when deploying AI agents in MOOC research
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (1 for, 1 mixed) · 2 studies (2 theoretical), `q1` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 The article recommends that VLC research follow the Belmont Report principles: "VLCs should not violate learners 'personal autonomy, bene ﬁts brought by the VLCs should outweigh risks, and the bene ﬁts and risks should be distributed fairly among learners." It proposes mechanisms to obtain informed consent, emerging moral decision-making frameworks to reduce risk of inappropriate social engineering, and explainable AI frameworks to articulate recommendation rationales and build trust.
@@ -41,6 +41,7 @@ The article recommends that VLC research follow the Belmont Report principles: "
 ## Claims
 
 - [AI models trained on MOOC completion data risk bias toward high-performing learners, and machine-learned assessment reflects interaction rather than learning](../claims/mooc-ai-bias-toward-completers-and-interaction-not-learning.md) [+W]
+- [Students' propensity to consent to learning analytics and their institutional trust differ for underrepresented minorities](../claims/consent-and-trust-differ-for-underrepresented-minorities.md) [~W]
 
 ## Related Strategies
 

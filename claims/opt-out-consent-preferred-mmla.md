@@ -73,3 +73,4 @@ Same ethics theme: reasons for not reading included length (the document was jus
 - [Students raised four categories of concern about potential misuse of MMLA data: judgment, privacy, career impact, and academic integrity](mmla-data-misuse-concerns-four-themes.md) — related
 - Students remained receptive to chatbot communication over four years, with annual opt-out rates below 4% and average interactive-campaign engagement near 5% — related
 - [Most reviews reporting neurophysiological AI use stressed the need for further ethical considerations, including participant consent and transparent development](neurophysiological-ai-ethics-consent-transparency.md) — related
+- [Students' propensity to consent to learning analytics and their institutional trust differ for underrepresented minorities](consent-and-trust-differ-for-underrepresented-minorities.md) — related
