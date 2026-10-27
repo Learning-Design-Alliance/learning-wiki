@@ -165,8 +165,11 @@ reasons and the numbers (moved there 2026-10-09, when this file had reached 272 
   above the full results, turns off Pagefind's long-page penalty, and every page has a header
   search box.
 - **Deploys replace the published tree** (`keep_files: false`), carrying open PR previews over,
-  so renamed and deleted pages do not accumulate. At about 21 KB a page (measured 2026-10-12), the 1 GB
-  Pages limit is near 48,000 pages; past that the long tail has to move off GitHub Pages.
+  so renamed and deleted pages do not accumulate. Measured in bytes on 2026-10-27, the site was 625 MB
+  at 44,700 pages (long tail 371 MB, Pagefind 113 MB; about 12 KB a long-tail page), so the 1 GB
+  Pages limit is roughly 30,000 pages away. The 2026-10-12 figure (21 KB a page, 48,000 pages) read
+  disk blocks, not bytes. The deploy warns past 850 MB; then the long tail moves off GitHub Pages or
+  is stored compressed and rendered in the browser.
 - **`log.md` holds the current month**; `okf_lib.rotate_log()` moves earlier months to
   `log/YYYY-MM.md`. The log is not on the site.
 - **`wiki-index.json` and `reverse-index.json` are written one record per line**
