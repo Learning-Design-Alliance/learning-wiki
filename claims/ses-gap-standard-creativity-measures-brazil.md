@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-27
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: guilherme-lichand-2026
     resource: "https://doi.org/10.1038/s41539-026-00404-y"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i0` negligible
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i0` High-SES students outscore low-SES students by 0.154 s.d. on a divergent thinking summary measure (AUT and DAT), a statistically significant difference. [→ Guilherme Lichand 2026](#guilherme-lichand-2026)

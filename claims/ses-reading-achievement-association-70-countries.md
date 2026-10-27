@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-27
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: hofer-2024
     resource: "https://doi.org/10.1038/s41539-023-00211-9"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` SES shows a positive meta-analytic correlation with reading achievement across countries (r = 0.339), with significant between-country heterogeneity. [→ Hofer 2024](#hofer-2024)

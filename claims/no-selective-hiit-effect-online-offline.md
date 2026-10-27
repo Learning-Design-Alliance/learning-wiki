@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-27
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: brooks-2026
     resource: "https://doi.org/10.1038/s41539-026-00432-8"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Independent-samples comparisons found no group differences for online or offline periods (online d = 0.28, p = .33; offline d = 0.08, p = .78). [→ Brooks 2026](#brooks-2026)
@@ -44,6 +46,6 @@ Independent-samples t-tests comparing HIIT and active control groups on online a
 
 ## Related Claims
 - [HIIT participants achieved greater total SVIPT learning than active controls over the session (d = 0.58)](hiit-greater-total-svipt-learning.md) — related
-- [A preceding bout of HIIT exercise does not influence micro-consolidation of an implicit motor sequence learned in close temporal proximity to exercise](hiit-does-not-modify-micro-consolidation.md) — related
+- [A preceding bout of HIIT exercise produced no detectable difference in micro-consolidation of an implicit motor sequence learned in close temporal proximity to exercise](hiit-does-not-modify-micro-consolidation.md) — related
 - [A preceding HIIT bout enhances skill acquisition on a novel visuomotor task relative to an active control, with group differences emerging from Block 4 of practice](hiit-priming-enhances-motor-skill-acquisition.md) — related
 - [The HIIT and active control exercise conditions were physiologically distinct, confirming the intended exercise manipulation](exercise-conditions-physiologically-confirmed.md) — related

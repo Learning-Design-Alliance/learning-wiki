@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-27
 evidence_strength: mixed
+newest_evidence: 2023
 sources:
   - id: yajing-zhang-2023
     resource: "https://doi.org/10.1038/s41539-023-00206-6"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In win maximization, participants were significantly less consistent deploying win-stay than win-shift (r = 0.708 vs [abs] r = 0.874; z = -2.935, p = 0.003), with no significant difference in loss maximization conditions. [→ Yajing Zhang 2023](#yajing-zhang-2023)

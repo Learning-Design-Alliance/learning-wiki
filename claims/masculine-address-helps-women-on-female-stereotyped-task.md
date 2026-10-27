@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-27
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: tamar-kricheli-katz-and-tali-regev-2021
     resource: "https://doi.org/10.1038/s41539-021-00087-7"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In the empathy reading comprehension experiment, women scored 56.6 when addressed in the masculine versus 51 when addressed in the feminine; differences for men were nonsignificant. [→ Tamar Kricheli-Katz and Tali Regev 2021](#tamar-kricheli-katz-and-tali-regev-2021)

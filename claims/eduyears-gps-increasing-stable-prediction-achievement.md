@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-27
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: rimfeld-2018
     resource: "https://doi.org/10.1038/s41539-018-0030-0"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r3` · `q3`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` EduYears GPS prediction of core achievement rises across school years: about 4% at KS1, 6% at KS2, 8% at KS3, and 10% at GCSE. [→ Rimfeld 2018](#rimfeld-2018)

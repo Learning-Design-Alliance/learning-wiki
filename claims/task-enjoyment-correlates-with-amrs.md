@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-27
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: amrita-bains-2023
     resource: "https://doi.org/10.1038/s41539-023-00160-3"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3` · `i2` medium
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Average enjoyment in the task correlated with AMRS trait motivation (r = 0.27, p = 0.019) but not with reading engagement (r = 0.15, p = 0.21). [→ Amrita Bains 2023](#amrita-bains-2023)

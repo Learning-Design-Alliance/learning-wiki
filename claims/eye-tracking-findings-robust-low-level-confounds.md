@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-27
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: li-2025
     resource: "https://doi.org/10.1038/s41539-025-00378-3"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` After correcting pupil data for gaze location, screen luminance, motion energy, and audio volume, Short-Random still showed lower boundary ISC than Short-Personalized (d = -0.93) and higher HMM K values (d = -0.85). [→ Li 2025](#li-2025)

@@ -42,7 +42,7 @@ The article proposes that anticipating positive and negative social feedback in 
 
 - [Anticipating positive and negative social feedback accelerates response times in young and older adults, with no additional effect of dynamic video over static photo feedback](../claims/social-feedback-anticipation-accelerates-rt-across-age.md) [+W]
 - [Cues predicting positive social feedback acquire positive implicit valence (evaluative learning) in both young and older adults, while negative cues do not differ from neutral](../claims/evaluative-learning-positive-social-feedback-cues.md) [+W]
-- [Feedback valence does not directly affect willingness to invest effort, but has significant indirect effects via challenge and threat pointing in opposite directions (all four experiments)](../claims/feedback-willingness-indirect-challenge-threat.md) [~W]
+- [Feedback valence had no significant direct effect on willingness to invest effort in four experiments, but had significant indirect effects via threat (all four) and via challenge (Experiments 1 and 2) pointing in opposite directions](../claims/feedback-willingness-indirect-challenge-threat.md) [~W]
 
 ## Related Strategies
 - 

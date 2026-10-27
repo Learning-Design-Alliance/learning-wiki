@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-27
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: zanchi-2024
     resource: "https://doi.org/10.1038/s41539-024-00254-6"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` At the global whole-brain level, Montessori-schooled students exhibited higher SD than traditionally schooled students. [→ Zanchi 2024](#zanchi-2024)

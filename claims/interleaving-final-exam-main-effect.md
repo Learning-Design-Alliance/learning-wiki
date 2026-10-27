@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-27
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: steve-bennoun-2026
     resource: "https://doi.org/10.1038/s41539-026-00450-6"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2` · `i2` medium
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i2` After controlling for gender, URM status, mother's education, high school mathematics, high school GPA, first-generation status, and midterm score, the main effect of homework type on final exam scores was significant (β = 0.21). [→ Steve Bennoun 2026](#steve-bennoun-2026)

@@ -8,17 +8,20 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-27
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
-  - id: check-2025
-    title: "Check, G.-H., Kweon, Y.-S., Oh, S., & Lee, S.-W. (2025). Personalized targeted memory reactivation enhances consolidation of challenging memories via slow wave and spindle dynamics. npj Science of Learning 10:47."
-    author: "Check, G.-H., Kweon, Y.-S., Oh, S., & Lee, S.-W."
+  - id: shin-2025
+    resource: "https://doi.org/10.1038/s41539-025-00340-3"
+    title: "Shin, G.-H., Kweon, Y.-S., Oh, S., & Lee, S.-W. (2025). Personalized targeted memory reactivation enhances consolidation of challenging memories via slow wave and spindle dynamics. npj Science of Learning 10:47. https://doi.org/10.1038/s41539-025-00340-3"
+    author: "Shin, G.-H., Kweon, Y.-S., Oh, S., & Lee, S.-W."
     q: 3
     i: "?"
     kind: causal
     rigour: 1
-  - id: check-2025-2
-    title: "Check, G.-H., Kweon, Y.-S., Oh, S., & Lee, S.-W. (2025). Personalized targeted memory reactivation enhances consolidation of challenging memories via slow wave and spindle dynamics. npj Science of Learning 10:47."
-    author: "Check, G.-H., Kweon, Y.-S., Oh, S., & Lee, S.-W."
+  - id: shin-2025-2
+    resource: "https://doi.org/10.1038/s41539-025-00340-3"
+    title: "Shin, G.-H., Kweon, Y.-S., Oh, S., & Lee, S.-W. (2025). Personalized targeted memory reactivation enhances consolidation of challenging memories via slow wave and spindle dynamics. npj Science of Learning 10:47. https://doi.org/10.1038/s41539-025-00340-3"
+    author: "Shin, G.-H., Kweon, Y.-S., Oh, S., & Lee, S.-W."
     q: 3
     i: "?"
     kind: causal
@@ -29,16 +32,17 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q3`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q3 i?` In the L3 difficulty condition, only the personalized TMR group showed significant pre- to post-sleep improvement, and it significantly outperformed both TMR and CNT after sleep. [→ Check 2025](#check-2025)
-`q3 i?` A significant group × time interaction was observed in the L3 condition, indicating that the benefit of personalized cueing depended on both group and session. [→ Check 2025 (2)](#check-2025-2)
+`q3 i?` In the L3 difficulty condition, only the personalized TMR group showed significant pre- to post-sleep improvement, and it significantly outperformed both TMR and CNT after sleep. [→ Shin 2025](#shin-2025)
+`q3 i?` A significant group × time interaction was observed in the L3 condition, indicating that the benefit of personalized cueing depended on both group and session. [→ Shin 2025 (2)](#shin-2025-2)
 
 ## Evidence
 
-### Check 2025
+### Shin 2025
 
-Check, G.-H., Kweon, Y.-S., Oh, S., & Lee, S.-W. (2025). Personalized targeted memory reactivation enhances consolidation of challenging memories via slow wave and spindle dynamics. npj Science of Learning 10:47.
+Shin, G.-H., Kweon, Y.-S., Oh, S., & Lee, S.-W. (2025). Personalized targeted memory reactivation enhances consolidation of challenging memories via slow wave and spindle dynamics. npj Science of Learning 10:47. https://doi.org/10.1038/s41539-025-00340-3
 
 `q3 · i?` · `causal · r1`
 
@@ -46,9 +50,9 @@ Controlled between-group experiment (12 participants per group) comparing memory
 
 > "Paired t-tests showed improvements in personalized TMR (t11 = -5.68,p < 0.001), but not in TMR (t11 = -1.50,p = 0.161) or CNT (t11 = -1.56,p = 0.148). personalized TMR performed signiﬁc a n t l yb e t t e rt h a nb o t h TMR (t22 =3 . 9 6 ,p < 0.001) and CNT (t22 =4 . 4 9 ,p <0 . 0 0 1 )i nt h ep o s t - s l e e p session."
 
-### Check 2025 (2)
+### Shin 2025 (2)
 
-Check, G.-H., Kweon, Y.-S., Oh, S., & Lee, S.-W. (2025). Personalized targeted memory reactivation enhances consolidation of challenging memories via slow wave and spindle dynamics. npj Science of Learning 10:47.
+Shin, G.-H., Kweon, Y.-S., Oh, S., & Lee, S.-W. (2025). Personalized targeted memory reactivation enhances consolidation of challenging memories via slow wave and spindle dynamics. npj Science of Learning 10:47. https://doi.org/10.1038/s41539-025-00340-3
 
 `q3 · i?` · `causal · r2`
 

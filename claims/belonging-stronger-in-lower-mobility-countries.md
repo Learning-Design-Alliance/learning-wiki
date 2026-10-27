@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-27
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: hofer-2024
     resource: "https://doi.org/10.1038/s41539-023-00211-9"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Social mobility negatively predicted the belonging–achievement b-path (b = −3.093): the association was weaker in higher-social-mobility countries. [→ Hofer 2024](#hofer-2024)

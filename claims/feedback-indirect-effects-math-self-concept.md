@@ -52,4 +52,4 @@ Model 2 of the randomized path analysis (n = 219), with math self-concept (PISA-
 ## Related Claims
 - [Negative normative feedback lowered math performance indirectly via reduced hope](negative-feedback-indirect-lowered-performance-hope.md) — related
 - [Negative performance feedback raises expected future mental effort and affects perceived effort and willingness to invest effort via challenge and threat (van Gog et al., 2024)](feedback-valence-affects-effort-via-challenge-threat.md) — related
-- [Feedback valence does not directly affect willingness to invest effort, but has significant indirect effects via challenge and threat pointing in opposite directions (all four experiments)](feedback-willingness-indirect-challenge-threat.md) — related
+- [Feedback valence had no significant direct effect on willingness to invest effort in four experiments, but had significant indirect effects via threat (all four) and via challenge (Experiments 1 and 2) pointing in opposite directions](feedback-willingness-indirect-challenge-threat.md) — related

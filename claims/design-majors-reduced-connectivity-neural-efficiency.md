@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-27
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: jing-teng-2025
     resource: "https://doi.org/10.1038/s41539-025-00388-1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The design group showed lower neural coupling than non-design peers between frontal pole, premotor, somatosensory association, and visual regions during product and book cover tasks, though some book cover effects were very small (d = 0.099). [→ Jing Teng 2025](#jing-teng-2025)

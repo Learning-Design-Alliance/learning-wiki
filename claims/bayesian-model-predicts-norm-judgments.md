@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-27
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: duan-2026
     resource: "https://doi.org/10.1038/s41539-026-00405-x"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Model-derived posterior probabilities positively predicted participants' judgmental posterior probabilities, indicating consistency with Bayesian updating. [→ Duan 2026](#duan-2026)

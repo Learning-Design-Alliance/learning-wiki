@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-27
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: jheng-2025
     resource: "https://doi.org/10.1038/s41539-025-00324-3"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q3`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Negative refutation texts elicited significantly higher anxiety (e.g., vs. non-refutation, b = 0.65) and frustration (b = 0.84) than the other conditions. [→ Jheng 2025](#jheng-2025)

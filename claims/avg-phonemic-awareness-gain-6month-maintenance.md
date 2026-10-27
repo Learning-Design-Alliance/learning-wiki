@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-27
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: bertoni-2024
     resource: "https://doi.org/10.1038/s41539-024-00230-0"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Post-training and 6-month follow-up phoneme discrimination scores did not differ significantly within the AVG subgroup assessed at follow-up. [→ Bertoni 2024](#bertoni-2024)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-27
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: nandi-2023
     resource: "https://doi.org/10.1038/s41539-023-00193-8"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The pandemic's negative effect on girls' reading ability was largest among the poorest wealth quintile (3.1–3.8%), rural girls (~1.8%), and OBC caste girls (1.5–1.6%); no significant effect was seen in the richest wealth quintile. [→ Nandi 2023](#nandi-2023)

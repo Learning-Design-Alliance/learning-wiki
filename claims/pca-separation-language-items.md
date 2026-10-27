@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-27
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: vyshedskiy-2024
     resource: "https://doi.org/10.1038/s41539-024-00284-0"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` PCA of the 15 abilities shows clear separation of the three item groups, with PC1 accounting for 35.0% and PC2 for 11.0% of the variance. [→ Vyshedskiy 2024](#vyshedskiy-2024)

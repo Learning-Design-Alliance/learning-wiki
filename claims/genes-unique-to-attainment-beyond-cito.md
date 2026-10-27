@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-27
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: antonie-knigge-2022
     resource: "https://doi.org/10.1038/s41539-022-00122-1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` 43% of the genetic impact on attainment comes from genes that influence only attainment, not the end-of-primary-school performance test. [→ Antonie Knigge 2022](#antonie-knigge-2022)

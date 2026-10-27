@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-27
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: marshall-2026
     resource: "https://doi.org/10.1038/s41539-026-00436-4"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Materials are designed so children can detect their own mistakes, as with the Spindle Box's exactly 55 spindles and the empty zero compartment. [→ Marshall 2026](#marshall-2026)

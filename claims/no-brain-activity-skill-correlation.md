@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-27
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: girard-2026
     resource: "https://doi.org/10.1038/s41539-026-00419-5"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Whole-brain analyses found no significant relation between number-specific activity and any numeracy skill, preventing mediation tests of hypotheses #2 and #3. [→ Girard 2026](#girard-2026)

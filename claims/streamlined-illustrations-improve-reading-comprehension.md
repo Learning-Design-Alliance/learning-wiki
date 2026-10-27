@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-27
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: eng-2020
     resource: "https://doi.org/10.1038/s41539-020-00073-5"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Children scored on average 32.86% higher on the comprehension assessment in the Streamlined condition than in the Standard condition (Cohen's d = 1.05). [→ Eng 2020](#eng-2020)

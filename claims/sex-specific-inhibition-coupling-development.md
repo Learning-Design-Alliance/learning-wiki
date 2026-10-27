@@ -9,6 +9,7 @@ generated:
   at: 2026-10-17
 evidence_strength: moderate
 newest_evidence: 2021
+source_checked: 2026-10-27
 recheck_by: 2026
 sources:
   - id: pas-p-2021
@@ -33,7 +34,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2` · `i1`–`i2`
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · recheck by 2026: baselines and conditions change
+> **Currency** · newest study 2021 · checked against its sources 2026-10-27 (automated, 2 of 2 entries) · not reviewed by a person · recheck by 2026: baselines and conditions change
 
 ## Subclaims
 `q2 i1` During reactive inhibition, coupling between the right striatum and left motor cortex increased with age specifically for girls (r = 0.17), not boys (r = 0.01). [→ Pas P. 2021](#pas-p-2021)

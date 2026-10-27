@@ -1,7 +1,7 @@
 ---
 type: claim
-title: A preceding bout of HIIT exercise does not influence micro-consolidation of an implicit motor sequence learned in close temporal proximity to exercise
-description: A preceding bout of HIIT exercise does not influence micro-consolidation of an implicit motor sequence learned in close temporal proximity to exercise
+title: A preceding bout of HIIT exercise produced no detectable difference in micro-consolidation of an implicit motor sequence learned in close temporal proximity to exercise
+description: A preceding bout of HIIT exercise produced no detectable difference in micro-consolidation of an implicit motor sequence learned in close temporal proximity to exercise
 id: hiit-does-not-modify-micro-consolidation
 status: review
 generated:
@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2024
+source_checked: 2026-10-27
 sources:
   - id: emily-brooks-2024
     resource: "https://doi.org/10.1038/s41539-024-00238-6"
@@ -20,14 +21,14 @@ sources:
     rigour: 2
 ---
 
-# A preceding bout of HIIT exercise does not influence micro-consolidation of an implicit motor sequence learned in close temporal proximity to exercise
+# A preceding bout of HIIT exercise produced no detectable difference in micro-consolidation of an implicit motor sequence learned in close temporal proximity to exercise
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · checked against its sources 2026-10-27 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
-`q3 i?` There were no differences between HIIT and LOW groups on total early learning, micro-online or micro-offline learning, with Bayesian evidence favouring the null (BF10 values 0.47, 0.36, 0.37). [→ Emily Brooks 2024](#emily-brooks-2024)
+`q3 i?` There were no differences between HIIT and LOW groups on total early learning, micro-online or micro-offline learning, with Bayes factors below 1, leaning toward the null (BF10 values 0.47, 0.36, 0.37). [→ Emily Brooks 2024](#emily-brooks-2024)
 
 ## Evidence
 
@@ -37,7 +38,7 @@ Emily Brooks, Sarah Wallis, Joshua Hendrikse & James Coxon. (2024). Micro-consol
 
 `q3 · i?` · `causal · r2`
 
-Independent-samples t-tests and Bayesian t-tests compared HIIT (n = 19) and LOW (n = 19 minus aware participants) groups after a 20-min exercise bout. The article reports "no differences between the HIIT and LOW groups across primary outcome variables"; BF10 = 0.47 for total learning, 0.36 micro-online, 0.37 micro-offline. No effect sizes are printed, so impact is null.
+Independent-samples t-tests and Bayesian t-tests compared HIIT and LOW groups (19 recruited per group; 2 per group removed for explicit sequence awareness, leaving 17 and 17, t(32)) after a 20-min exercise bout. The article reports "no differences between the HIIT and LOW groups across primary outcome variables"; BF10 = 0.47 for total learning, 0.36 micro-online, 0.37 micro-offline. No standardised effect size is printed for the group comparisons, so impact is not coded (`i?`); a non-significant difference in 34 participants does not establish that there is no effect.
 
 > "There were also no differences between the HIIT and LOW groups across primary outcome variables [total early learning (HIIT:M = 0.63,SD = 0.15, LOW:M = 0.56,SD = 0.27), t (32) = -0.96, p = 0.34, 95% CI [ -0.23, 0.08], BF10 =0 . 4 7"
 

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-27
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: steve-bennoun-2026
     resource: "https://doi.org/10.1038/s41539-026-00450-6"
@@ -47,6 +48,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (4 entries) · causal `r2` · `q2` · `i1`–`i2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i2` The Homework Type × URM Status interaction was significant on the final exam (β = 0.22, p < 0.05), with URM students going from below average in the blocked condition to above average in the interleaved condition. [→ Steve Bennoun 2026](#steve-bennoun-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-27
 evidence_strength: weak
+newest_evidence: 2017
 sources:
   - id: david-cesarini-and-peter-m-visscher-2017
     resource: "https://doi.org/10.1038/s41539-017-0005-6"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2`–`r3` · `q1`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The article argues it is a mistaken inference to conclude from substantial heritabilities that environmental interventions cannot succeed, since genes may act through modifiable channels. [→ David Cesarini and Peter M. Visscher 2017](#david-cesarini-and-peter-m-visscher-2017)

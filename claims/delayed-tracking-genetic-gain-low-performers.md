@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-27
 evidence_strength: mixed
+newest_evidence: 2022
 sources:
   - id: antonie-knigge-2022
     resource: "https://doi.org/10.1038/s41539-022-00122-1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The difference in unique genetic effects on attainment between immediate and delayed tracking is absent for high performers but much larger for low performers. [→ Antonie Knigge 2022](#antonie-knigge-2022)

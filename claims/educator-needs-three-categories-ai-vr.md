@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-27
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: ulla-hemminki-reijonen-2025
     resource: "https://doi.org/10.1038/s41539-025-00326-1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Inductive thematic analysis of two educator datasets yielded a conclusion matrix of three main categories of educator needs for emerging technologies. [→ Ulla Hemminki-Reijonen 2025](#ulla-hemminki-reijonen-2025)

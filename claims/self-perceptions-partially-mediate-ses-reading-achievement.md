@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-27
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: hofer-2024
     resource: "https://doi.org/10.1038/s41539-023-00211-9"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q3`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The joint standardized indirect effect of SES on reading achievement via the five self-perceptions is significant (βa×b, SMD = 0.064, p < 0.001), with the full model explaining R² = 0.220 versus R² = 0.115 for SES alone (ΔR² = 0.105). [→ Hofer 2024](#hofer-2024)

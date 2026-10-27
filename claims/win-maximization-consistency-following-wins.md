@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-27
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: yajing-zhang-2023
     resource: "https://doi.org/10.1038/s41539-023-00206-6"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Against repetition opponents under win maximization, stay actions following wins correlate more strongly with win rate than shift actions following losses (z = 2.347, p = 0.019). [→ Yajing Zhang 2023](#yajing-zhang-2023)

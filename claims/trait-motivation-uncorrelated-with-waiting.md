@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-27
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: amrita-bains-2023
     resource: "https://doi.org/10.1038/s41539-023-00160-3"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Pooled across experiments, decision to wait did not significantly correlate with reading engagement (r = 0.04) or AMRS (r = −0.09), and comprehension did not correlate with either measure. [→ Amrita Bains 2023](#amrita-bains-2023)

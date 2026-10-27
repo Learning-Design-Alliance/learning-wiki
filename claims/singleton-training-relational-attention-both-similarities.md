@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-27
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: oudeng-jia-2025
     resource: "https://doi.org/10.1038/s41539-025-00342-1"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` In Experiments 1a and 1b, distractors matching the previously high-rewarded feature relationship produced significantly slower RTs than low-reward relational distractors, at both low and high target-distractor similarity. [→ Oudeng Jia 2025](#oudeng-jia-2025)

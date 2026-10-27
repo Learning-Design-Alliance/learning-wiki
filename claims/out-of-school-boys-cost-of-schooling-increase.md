@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-27
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: nandi-2023
     resource: "https://doi.org/10.1038/s41539-023-00193-8"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Out-of-school boys in the post-COVID group reported the cost of schooling as their reason for non-enrollment at 5–6% higher rates than matched pre-COVID boys. [→ Nandi 2023](#nandi-2023)

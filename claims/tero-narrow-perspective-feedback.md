@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-27
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: ulla-hemminki-reijonen-2025
     resource: "https://doi.org/10.1038/s41539-025-00326-1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Two domain experts initially found Tero's interaction unrealistic due to overly complete answers, and later feedback noted a narrow perspective on forest ownership. [→ Ulla Hemminki-Reijonen 2025](#ulla-hemminki-reijonen-2025)

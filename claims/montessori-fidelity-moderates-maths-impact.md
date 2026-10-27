@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-27
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: marshall-2026
     resource: "https://doi.org/10.1038/s41539-026-00436-4"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Montessori education is not always implemented with high fidelity, and higher fidelity is associated with a stronger positive impact on maths. [→ Marshall 2026](#marshall-2026)

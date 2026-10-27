@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-27
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: brooks-2026
     resource: "https://doi.org/10.1038/s41539-026-00432-8"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2` · `i2` medium
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i2` Total learning, defined as the change in skill from start of block 1 to end of block 6, was greater in the HIIT group than the active control group, d = 0.58. [→ Brooks 2026](#brooks-2026)

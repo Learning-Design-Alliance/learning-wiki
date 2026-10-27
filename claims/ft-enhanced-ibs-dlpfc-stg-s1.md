@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-27
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: qi-li-2024
     resource: "https://doi.org/10.1038/s41539-024-00286-y"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` One-sample tests against zero revealed significantly enhanced class-related IBS during FT in left DLPFC (e.g., CH11 d = 0.84), STG (d = 0.73), and S1 (d = 0.81), but not in LT or CT. [→ Qi Li 2024](#qi-li-2024)

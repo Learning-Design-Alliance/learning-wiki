@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-27
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: brooks-2026
     resource: "https://doi.org/10.1038/s41539-026-00432-8"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Comparisons of the final HIIT interval with the active control session showed significant differences on all exercise parameters with large effect sizes (e.g., %HRR d = 8.56). [→ Brooks 2026](#brooks-2026)

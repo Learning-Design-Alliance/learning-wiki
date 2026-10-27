@@ -8,10 +8,10 @@ generated:
   by: "process:settle-candidates"
   at: 2026-10-27
 sources:
-  - id: check-2025
+  - id: shin-2025
     resource: "https://doi.org/10.1038/s41539-025-00340-3"
-    title: "Check, G.-H., Kweon, Y.-S., Oh, S., & Lee, S.-W. (2025). Personalized targeted memory reactivation enhances consolidation of challenging memories via slow wave and spindle dynamics. npj Science of Learning 10:47. https://doi.org/10.1038/s41539-025-00340-3"
-    author: "Check, G.-H., Kweon, Y.-S., Oh, S., & Lee, S.-W"
+    title: "Shin, G.-H., Kweon, Y.-S., Oh, S., & Lee, S.-W. (2025). Personalized targeted memory reactivation enhances consolidation of challenging memories via slow wave and spindle dynamics. npj Science of Learning 10:47. https://doi.org/10.1038/s41539-025-00340-3"
+    author: "Shin, G.-H., Kweon, Y.-S., Oh, S., & Lee, S.-W"
 ---
 
 # Personalized TMR protocol: response-contingent cue repetition schedule (1/2/4 PRES by difficulty and accuracy)
@@ -50,4 +50,4 @@ A sleep-based intervention in which auditory cues for 104 semantically related w
 -
 
 ## Key Sources
-- Check, G.-H., Kweon, Y.-S., Oh, S., & Lee, S.-W. (2025). Personalized targeted memory reactivation enhances consolidation of challenging memories via slow wave and spindle dynamics. npj Science of Learning 10:47. https://doi.org/10.1038/s41539-025-00340-3
+- Shin, G.-H., Kweon, Y.-S., Oh, S., & Lee, S.-W. (2025). Personalized targeted memory reactivation enhances consolidation of challenging memories via slow wave and spindle dynamics. npj Science of Learning 10:47. https://doi.org/10.1038/s41539-025-00340-3

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-27
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: li-2025
     resource: "https://doi.org/10.1038/s41539-025-00378-3"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i3` large
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` The Short-Personalized group showed significantly lower optimal K values (fewer latent events) than the Short-Random group (d = -1.29), contrary to the initial hypothesis. [→ Li 2025](#li-2025)

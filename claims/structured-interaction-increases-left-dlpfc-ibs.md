@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-27
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: qi-li-2024
     resource: "https://doi.org/10.1038/s41539-024-00286-y"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Class-related IBS at left DLPFC channel CH11 was significantly higher in FT than in LT (d = 1.09) and CT (d = 0.76). [→ Qi Li 2024](#qi-li-2024)

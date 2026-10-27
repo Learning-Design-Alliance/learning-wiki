@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-27
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: allen-2026
     resource: "https://doi.org/10.1038/s41539-026-00430-w"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In the early-2010s California cases, the Milpitas School District's technology initiative achieved improved learning outcomes and smoother teacher work processes, while the LAUSD's billion-dollar tablet purchase caused severe classroom disruptions, with the difference attributed to collaborative, iterative, planned versus unplanned approaches. [→ Allen 2026](#allen-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-27
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: jing-teng-2025
     resource: "https://doi.org/10.1038/s41539-025-00388-1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2` · `i2` medium
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i2` In the non-design group, left somatosensory association cortex activation correlated significantly with product originality (r = 0.353), imagination (r = 0.361), and aesthetic scores (r = 0.418); no significant correlations appeared in the design group. [→ Jing Teng 2025](#jing-teng-2025)

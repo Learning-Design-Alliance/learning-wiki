@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-27
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: romanovska-2022
     resource: "https://doi.org/10.1038/s41539-021-00118-3"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` No associations were observed between left STG/pre-CG session changes and reading fluency or pre-test slope, and no pre-CG interactions reached significance. [→ Romanovska 2022](#romanovska-2022)

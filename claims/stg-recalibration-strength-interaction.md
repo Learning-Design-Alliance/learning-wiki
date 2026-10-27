@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-27
 evidence_strength: weak
+newest_evidence: 2022
 sources:
   - id: romanovska-2022
     resource: "https://doi.org/10.1038/s41539-021-00118-3"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A significant session × recalibration-effect interaction showed higher left STG activation at session 2 for children with stronger recalibration effects (mean difference = 0.603, p < 0.05). [→ Romanovska 2022](#romanovska-2022)

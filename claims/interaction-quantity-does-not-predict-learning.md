@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-27
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: qi-li-2024
     resource: "https://doi.org/10.1038/s41539-024-00286-y"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Although perceived interaction quantity was higher in FT (d = 1.67 vs LT), GLM tests found no significant linear relationship between perceived quantity of interaction and learning improvements in any condition. [→ Qi Li 2024](#qi-li-2024)

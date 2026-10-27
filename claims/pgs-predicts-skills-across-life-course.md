@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-27
 evidence_strength: weak
+newest_evidence: 2017
 sources:
   - id: david-cesarini-and-peter-m-visscher-2017
     resource: "https://doi.org/10.1038/s41539-017-0005-6"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r3` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` PGSs were positively associated with reading and speaking skills in early childhood, subsequent scholastic achievement, and an index of economic security in adulthood. [→ David Cesarini and Peter M. Visscher 2017](#david-cesarini-and-peter-m-visscher-2017)

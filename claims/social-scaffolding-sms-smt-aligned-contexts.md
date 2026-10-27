@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-27
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: yunhee-kim-2026
     resource: "https://doi.org/10.1038/s41539-026-00443-5"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i0` negligible
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i0` The reduction in synchronization variability from solo to joint tapping was significantly more pronounced in the 150 bpm metronome condition than in the music and 50 bpm bimanual conditions. [→ Yunhee Kim 2026](#yunhee-kim-2026)

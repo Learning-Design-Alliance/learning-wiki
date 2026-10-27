@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-27
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: rimfeld-2018
     resource: "https://doi.org/10.1038/s41539-018-0030-0"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q3` · `i3` large
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Core academic achievement (mean of English and Mathematics) is highly stable across compulsory education, with age-to-age phenotypic correlations of 0.66 to 0.85. [→ Rimfeld 2018](#rimfeld-2018)

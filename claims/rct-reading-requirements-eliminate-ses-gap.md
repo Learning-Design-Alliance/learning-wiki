@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-27
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: guilherme-lichand-2026
     resource: "https://doi.org/10.1038/s41539-026-00404-y"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i0` negligible
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i0` In a randomized trial (N = 1,100), the SES gap is 0.134 s.d. (p = 0.023) in the control condition where students read the prompts, but 0.068 s.d. (p = 0.249) and non-significant when enumerators read the prompts on their behalf. [→ Guilherme Lichand 2026](#guilherme-lichand-2026)

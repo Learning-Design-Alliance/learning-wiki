@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-27
 evidence_strength: weak
+newest_evidence: 2026
+source_checked: 2026-10-27
 sources:
   - id: marshall-2026
     resource: "https://doi.org/10.1038/s41539-026-00436-4"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-27 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The curriculum consolidates knowledge through cumulative sequences and repetition, moving from embodied quantities (Number Rods) to less concrete ones (counters). [→ Marshall 2026](#marshall-2026)

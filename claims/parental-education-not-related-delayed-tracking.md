@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-27
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: antonie-knigge-2022
     resource: "https://doi.org/10.1038/s41539-022-00122-1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The percentage of children with delayed tracking hovers around 27.0% across parental-education levels. [→ Antonie Knigge 2022](#antonie-knigge-2022)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-27
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: limor-shtoots-2024
     resource: "https://doi.org/10.1038/s41539-024-00222-0"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Guesses about group assignment did not differ across the four conditions, χ2(3,72) = 1.48, p = 0.69. [→ Limor Shtoots 2024](#limor-shtoots-2024)

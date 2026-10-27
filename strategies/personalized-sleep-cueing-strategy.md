@@ -8,9 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-27
 sources:
-  - id: check-2025
-    title: "Check, G.-H., Kweon, Y.-S., Oh, S., & Lee, S.-W. (2025). Personalized targeted memory reactivation enhances consolidation of challenging memories via slow wave and spindle dynamics. npj Science of Learning 10:47."
-    author: "Check, G.-H., Kweon, Y.-S., Oh, S., & Lee, S.-W"
+  - id: shin-2025
+    title: "Shin, G.-H., Kweon, Y.-S., Oh, S., & Lee, S.-W. (2025). Personalized targeted memory reactivation enhances consolidation of challenging memories via slow wave and spindle dynamics. npj Science of Learning 10:47. https://doi.org/10.1038/s41539-025-00340-3"
+    author: "Shin, G.-H., Kweon, Y.-S., Oh, S., & Lee, S.-W"
 ---
 
 # Tailor sleep cueing frequency to individual retrieval performance and task difficulty rather than using fixed uniform stimulation
@@ -53,4 +53,4 @@ A strategy for sleep-based memory interventions: instead of delivering cues unif
 -
 
 ## Key Sources
-- Check, G.-H., Kweon, Y.-S., Oh, S., & Lee, S.-W. (2025). Personalized targeted memory reactivation enhances consolidation of challenging memories via slow wave and spindle dynamics. npj Science of Learning 10:47.
+- Shin, G.-H., Kweon, Y.-S., Oh, S., & Lee, S.-W. (2025). Personalized targeted memory reactivation enhances consolidation of challenging memories via slow wave and spindle dynamics. npj Science of Learning 10:47. https://doi.org/10.1038/s41539-025-00340-3

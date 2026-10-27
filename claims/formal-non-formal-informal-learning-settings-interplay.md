@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-27
 evidence_strength: weak
+newest_evidence: 2021
 sources:
   - id: duraiappah-2021
     resource: "https://doi.org/10.1038/s41539-021-00085-9"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Learning occurs across formal (e.g., school), non-formal (e.g., work) and informal (unintentional, e.g., peer interactions) settings and across face-to-face and online modes, and their interplay affects learning. [→ Duraiappah 2021](#duraiappah-2021)

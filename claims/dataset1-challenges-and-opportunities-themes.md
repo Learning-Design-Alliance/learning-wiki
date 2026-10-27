@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-27
 evidence_strength: weak
+newest_evidence: 2025
+source_checked: 2026-10-27
 sources:
   - id: ulla-hemminki-reijonen-2025
     resource: "https://doi.org/10.1038/s41539-025-00326-1"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Currency** · newest study 2025 · checked against its sources 2026-10-27 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` University teachers reported challenges including lack of resources, lack of knowledge, and lack of appropriate digital tools. [→ Ulla Hemminki-Reijonen 2025](#ulla-hemminki-reijonen-2025)
@@ -54,7 +57,7 @@ Ulla Hemminki-Reijonen, Noha M. A. M. Hassan, Minna Huotilainen, Jaana-Maija Koi
 
 `q2 · i?` · `design · r2`
 
-Within the opportunities theme of Dataset 1, teachers described using VR to "demonstrate spatial and temporal scale" and to clarify complex concepts such as cause and effect that are impossible to show in a classroom.
+Within the opportunities theme of Dataset 1, teachers described using VR to "demonstrate spatial and temporal scale" to make complex concepts such as cause and effect easier, and to do things that are impossible in the classroom (for example, showing the journey of a molecule from the body to wastewater, or walking inside a leaf to experience the carbon cycle).
 
 > "Teachers would also like to be able to demonstrate spatial and temporal scale, e.g., in biological processes: some effects happen slowly, some in the long term."
 

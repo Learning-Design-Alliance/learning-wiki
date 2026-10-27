@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-27
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: yunhee-kim-2026
     resource: "https://doi.org/10.1038/s41539-026-00443-5"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Cognitive flexibility (DCCS) showed no significant association with synchronization across any condition. [→ Yunhee Kim 2026](#yunhee-kim-2026)

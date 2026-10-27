@@ -8,10 +8,12 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-27
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
-  - id: check-2025
-    title: "Check, G.-H., Kweon, Y.-S., Oh, S., & Lee, S.-W. (2025). Personalized targeted memory reactivation enhances consolidation of challenging memories via slow wave and spindle dynamics. npj Science of Learning 10:47."
-    author: "Check, G.-H., Kweon, Y.-S., Oh, S., & Lee, S.-W."
+  - id: shin-2025
+    resource: "https://doi.org/10.1038/s41539-025-00340-3"
+    title: "Shin, G.-H., Kweon, Y.-S., Oh, S., & Lee, S.-W. (2025). Personalized targeted memory reactivation enhances consolidation of challenging memories via slow wave and spindle dynamics. npj Science of Learning 10:47. https://doi.org/10.1038/s41539-025-00340-3"
+    author: "Shin, G.-H., Kweon, Y.-S., Oh, S., & Lee, S.-W."
     q: 3
     i: 3
     kind: causal
@@ -22,15 +24,16 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q3 i3` Differences in accuracy showed a strong positive association with SW-spindle coupling (r = 0.70) exclusively in the L3 condition of the personalized TMR group. [→ Check 2025](#check-2025)
+`q3 i3` Differences in accuracy showed a strong positive association with SW-spindle coupling (r = 0.70) exclusively in the L3 condition of the personalized TMR group. [→ Shin 2025](#shin-2025)
 
 ## Evidence
 
-### Check 2025
+### Shin 2025
 
-Check, G.-H., Kweon, Y.-S., Oh, S., & Lee, S.-W. (2025). Personalized targeted memory reactivation enhances consolidation of challenging memories via slow wave and spindle dynamics. npj Science of Learning 10:47.
+Shin, G.-H., Kweon, Y.-S., Oh, S., & Lee, S.-W. (2025). Personalized targeted memory reactivation enhances consolidation of challenging memories via slow wave and spindle dynamics. npj Science of Learning 10:47. https://doi.org/10.1038/s41539-025-00340-3
 
 `q3 · i3` · `causal · r2`
 

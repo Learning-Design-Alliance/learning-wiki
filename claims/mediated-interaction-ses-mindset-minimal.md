@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-27
 evidence_strength: moderate
+newest_evidence: 2025
+source_checked: 2026-10-27
 sources:
   - id: madia-2025
     resource: "https://doi.org/10.1038/s41539-025-00365-8"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q3`
+> **Currency** · newest study 2025 · checked against its sources 2026-10-27 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The mediated interaction effect is 0.006, accounting for only about -1% of the total effect (Prop. INT_med = -0.010). [→ Madia 2025](#madia-2025)

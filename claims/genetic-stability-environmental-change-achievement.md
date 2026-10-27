@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-27
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: rimfeld-2018
     resource: "https://doi.org/10.1038/s41539-018-0030-0"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q3`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Non-shared environmental factors account for much of the age-to-age change in achievement, contrasting with stable genetic and shared environmental effects. [→ Rimfeld 2018](#rimfeld-2018)

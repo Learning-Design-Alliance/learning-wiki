@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-27
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: joey-ka-yee-essoe-2022
     resource: "https://doi.org/10.1038/s41539-022-00147-6"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Among high-presence participants, the dual-context group retained 92% (±7%) versus 76% (±12%) at one week; the group-by-presence interaction was significant with a printed partial eta-squared of 0.11. [→ Joey Ka-Yee Essoe 2022](#joey-ka-yee-essoe-2022)

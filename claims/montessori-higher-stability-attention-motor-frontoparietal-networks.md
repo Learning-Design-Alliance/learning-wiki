@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-27
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: zanchi-2024
     resource: "https://doi.org/10.1038/s41539-024-00254-6"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q3`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` STD differed significantly in the DA, VA, SM, FP, and CBL systems, with Montessori-schooled participants consistently lower (more stable). [→ Zanchi 2024](#zanchi-2024)

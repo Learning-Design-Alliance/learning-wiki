@@ -8,10 +8,12 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-27
 evidence_strength: weak
+newest_evidence: 2025
 sources:
-  - id: check-2025
-    title: "Check, G.-H., Kweon, Y.-S., Oh, S., & Lee, S.-W. (2025). Personalized targeted memory reactivation enhances consolidation of challenging memories via slow wave and spindle dynamics. npj Science of Learning 10:47."
-    author: "Check, G.-H., Kweon, Y.-S., Oh, S., & Lee, S.-W."
+  - id: shin-2025
+    resource: "https://doi.org/10.1038/s41539-025-00340-3"
+    title: "Shin, G.-H., Kweon, Y.-S., Oh, S., & Lee, S.-W. (2025). Personalized targeted memory reactivation enhances consolidation of challenging memories via slow wave and spindle dynamics. npj Science of Learning 10:47. https://doi.org/10.1038/s41539-025-00340-3"
+    author: "Shin, G.-H., Kweon, Y.-S., Oh, S., & Lee, S.-W."
     q: 2
     i: "?"
     kind: causal
@@ -22,15 +24,16 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q2 i?` SVM classification of EEG features significantly exceeded chance across conditions, with higher accuracy after the second stimulus, peaking around 3 s. [→ Check 2025](#check-2025)
+`q2 i?` SVM classification of EEG features significantly exceeded chance across conditions, with higher accuracy after the second stimulus, peaking around 3 s. [→ Shin 2025](#shin-2025)
 
 ## Evidence
 
-### Check 2025
+### Shin 2025
 
-Check, G.-H., Kweon, Y.-S., Oh, S., & Lee, S.-W. (2025). Personalized targeted memory reactivation enhances consolidation of challenging memories via slow wave and spindle dynamics. npj Science of Learning 10:47.
+Shin, G.-H., Kweon, Y.-S., Oh, S., & Lee, S.-W. (2025). Personalized targeted memory reactivation enhances consolidation of challenging memories via slow wave and spindle dynamics. npj Science of Learning 10:47. https://doi.org/10.1038/s41539-025-00340-3
 
 `q2 · i?` · `causal · r2`
 

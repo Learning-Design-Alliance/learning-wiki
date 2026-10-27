@@ -8,17 +8,20 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-27
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
-  - id: check-2025
-    title: "Check, G.-H., Kweon, Y.-S., Oh, S., & Lee, S.-W. (2025). Personalized targeted memory reactivation enhances consolidation of challenging memories via slow wave and spindle dynamics. npj Science of Learning 10:47."
-    author: "Check, G.-H., Kweon, Y.-S., Oh, S., & Lee, S.-W."
+  - id: shin-2025
+    resource: "https://doi.org/10.1038/s41539-025-00340-3"
+    title: "Shin, G.-H., Kweon, Y.-S., Oh, S., & Lee, S.-W. (2025). Personalized targeted memory reactivation enhances consolidation of challenging memories via slow wave and spindle dynamics. npj Science of Learning 10:47. https://doi.org/10.1038/s41539-025-00340-3"
+    author: "Shin, G.-H., Kweon, Y.-S., Oh, S., & Lee, S.-W."
     q: 3
     i: "?"
     kind: causal
     rigour: 2
-  - id: check-2025-2
-    title: "Check, G.-H., Kweon, Y.-S., Oh, S., & Lee, S.-W. (2025). Personalized targeted memory reactivation enhances consolidation of challenging memories via slow wave and spindle dynamics. npj Science of Learning 10:47."
-    author: "Check, G.-H., Kweon, Y.-S., Oh, S., & Lee, S.-W."
+  - id: shin-2025-2
+    resource: "https://doi.org/10.1038/s41539-025-00340-3"
+    title: "Shin, G.-H., Kweon, Y.-S., Oh, S., & Lee, S.-W. (2025). Personalized targeted memory reactivation enhances consolidation of challenging memories via slow wave and spindle dynamics. npj Science of Learning 10:47. https://doi.org/10.1038/s41539-025-00340-3"
+    author: "Shin, G.-H., Kweon, Y.-S., Oh, S., & Lee, S.-W."
     q: 3
     i: "?"
     kind: causal
@@ -29,16 +32,17 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q3`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q3 i?` No significant pre-to-post changes or group effects were found in the L1 (easy) condition, suggesting targeted stimulation offers limited advantage for already-consolidated items. [→ Check 2025](#check-2025)
-`q3 i?` Strong negative correlations between difficulty ratings and recall accuracy (rho = -0.878 to -0.948) validated the prospective difficulty classification across all groups and sessions. [→ Check 2025 (2)](#check-2025-2)
+`q3 i?` No significant pre-to-post changes or group effects were found in the L1 (easy) condition, suggesting targeted stimulation offers limited advantage for already-consolidated items. [→ Shin 2025](#shin-2025)
+`q3 i?` Strong negative correlations between difficulty ratings and recall accuracy (rho = -0.878 to -0.948) validated the prospective difficulty classification across all groups and sessions. [→ Shin 2025 (2)](#shin-2025-2)
 
 ## Evidence
 
-### Check 2025
+### Shin 2025
 
-Check, G.-H., Kweon, Y.-S., Oh, S., & Lee, S.-W. (2025). Personalized targeted memory reactivation enhances consolidation of challenging memories via slow wave and spindle dynamics. npj Science of Learning 10:47.
+Shin, G.-H., Kweon, Y.-S., Oh, S., & Lee, S.-W. (2025). Personalized targeted memory reactivation enhances consolidation of challenging memories via slow wave and spindle dynamics. npj Science of Learning 10:47. https://doi.org/10.1038/s41539-025-00340-3
 
 `q3 · i?` · `causal · r2`
 
@@ -46,9 +50,9 @@ Two-way ANOVA on L1 accuracy: a significant group effect but no time or interact
 
 > "For the L1 condition, a signiﬁcant group effect was observed (F2,66 = 3.61, p = 0.033), while effects of time (F1,66 = 1.85, p =0 . 1 7 9 )a n d interaction (F2,66 = 0.63, p = 0.538) were not signiﬁcant. Post-hoc pairedt-tests revealed no signiﬁcant changes from pre- to post-sleep in any group."
 
-### Check 2025 (2)
+### Shin 2025 (2)
 
-Check, G.-H., Kweon, Y.-S., Oh, S., & Lee, S.-W. (2025). Personalized targeted memory reactivation enhances consolidation of challenging memories via slow wave and spindle dynamics. npj Science of Learning 10:47.
+Shin, G.-H., Kweon, Y.-S., Oh, S., & Lee, S.-W. (2025). Personalized targeted memory reactivation enhances consolidation of challenging memories via slow wave and spindle dynamics. npj Science of Learning 10:47. https://doi.org/10.1038/s41539-025-00340-3
 
 `q3 · i?` · `causal · r1`
 

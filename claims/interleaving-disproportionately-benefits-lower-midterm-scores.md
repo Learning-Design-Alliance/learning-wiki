@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-27
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: steve-bennoun-2026
     resource: "https://doi.org/10.1038/s41539-026-00450-6"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2` · `i2` medium
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i2` The Homework Type × Midterm Score interaction was significant (β = −0.26, t(552) = −4.53, p < 0.001), indicating larger benefits for students with lower midterm scores. [→ Steve Bennoun 2026](#steve-bennoun-2026)

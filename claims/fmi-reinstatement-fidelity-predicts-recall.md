@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-27
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: joey-ka-yee-essoe-2022
     resource: "https://doi.org/10.1038/s41539-022-00147-6"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2` · `i3` large
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` High-fidelity trials showed higher recall than low-fidelity trials (0.50 ± 0.17 vs 0.45 ± 0.18; F(1, 21) = 13.712, p = 0.001), with a printed partial eta-squared of 0.395; the effect was significant at both T4 and T5. [→ Joey Ka-Yee Essoe 2022](#joey-ka-yee-essoe-2022)

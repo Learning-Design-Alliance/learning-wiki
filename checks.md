@@ -10,8 +10,8 @@ This wiki is written by language models, from published research, and checked by
 |---|---|
 | Claims | 30,082, from 7,604 sources |
 | Reviewed by a person | 0 |
-| Every evidence entry compared with its source by the faithfulness judge | 5,046 claims (17%) |
-| Claims citing at least one DOI | 22,586 claims (75%) |
+| Every evidence entry compared with its source by the faithfulness judge | 5,061 claims (17%) |
+| Claims citing at least one DOI | 22,593 claims (75%) |
 | Sources whose citations went through the Crossref identity gate | 7,135 of 7,604 |
 | Sources read for impossible statistics and invented references | 6,251 of 7,135 (2026-10-25) |
 | Cited DOIs checked for retraction | 6,793 of 6,793 (2026-10-25) |
@@ -51,7 +51,7 @@ A claim whose evidence has no DOI after a Crossref and DataCite search is remove
 
 **Cannot catch.** Whether the DOI'd source is any good.
 
-**Coverage.** 22,586 of 30,082 claims (75%) cite a DOI; 2,878 claims removed for having none.
+**Coverage.** 22,593 of 30,082 claims (75%) cite a DOI; 2,878 claims removed for having none.
 
 ### 5. Faithfulness to the source
 
@@ -59,7 +59,7 @@ A second model, from a different provider, reads each evidence entry beside the 
 
 **Cannot catch.** A claim checked only against an abstract, for detail an abstract does not carry. The judge is a model and has been wrong; its failures are read before they are acted on.
 
-**Coverage.** 5,046 claims (17%) have had every evidence entry compared with its source and passed; 160 judge failures were read and recorded with a reason. Each claim states this on its page, in its *Currency* line.
+**Coverage.** 5,061 claims (17%) have had every evidence entry compared with its source and passed; 161 judge failures were read and recorded with a reason. Each claim states this on its page, in its *Currency* line.
 
 ### 6. Can the source be believed?
 
@@ -83,7 +83,7 @@ Each evidence entry carries a design tier (`q1`–`q4`), an impact code (`i0`–
 
 **Cannot catch.** Whether a study's conclusion is true. The codes describe how a study was done, not whether it was right.
 
-**Coverage.** 36,293 evidence entries; 5,329 rest on a printed effect size and 30,983 report none (`i?`); 31,499 carry a rigour rating.
+**Coverage.** 36,293 evidence entries; 5,328 rest on a printed effect size and 30,984 report none (`i?`); 31,499 carry a rigour rating.
 
 ### 9. Duplicates and merges
 
@@ -91,7 +91,7 @@ Two claims stating the same finding are merged, and two pages on the same thing 
 
 **Cannot catch.** Near-duplicates phrased far apart.
 
-**Coverage.** 3,060 pair decisions recorded.
+**Coverage.** 3,074 pair decisions recorded.
 
 ### 10. Currency
 

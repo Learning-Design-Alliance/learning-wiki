@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-27
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: hofer-2024
     resource: "https://doi.org/10.1038/s41539-023-00211-9"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The standardized indirect effect via self-perceived competency (βa×b, SMD = 0.020) is the largest of the five mediators; fear of failure is weakest (βa×b, SMD = 0.001) and self-efficacy is slightly negative (βa×b, SMD = −0.002), all ps < 0.001. [→ Hofer 2024](#hofer-2024)
