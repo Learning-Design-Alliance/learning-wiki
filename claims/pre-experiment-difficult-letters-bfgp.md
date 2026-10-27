@@ -49,3 +49,4 @@ Pre-experiment in which 19 Grade 1 students copied eleven consonant-vowel bigram
 - [The lexical frequency effect on writing a difficult first letter is present only in 1st graders, indicating spelling-motor interference before handwriting automation](frequency-interacts-with-letter-difficulty-in-grade-1-handwriting.md) — related
 - [Graphemic complexity of the final letters has only marginal effects, limited to letter size](graphemic-complexity-marginal-letter-size-effect.md) — related
 - [Handwriting duration of the first letter improves massively between Grade 1 and Grade 3, then plateaus](handwriting-duration-improves-grade1-to-grade3.md) — related
+- [ITS for psychomotor skills cluster in medicine, with sport second and other domains marginal](its-domain-distribution-medicine.md) — related

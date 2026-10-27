@@ -52,3 +52,4 @@ Cross-country comparison within the qualitative policy analysis of thirty univer
 - [No public GenAI policies were found for German universities and Tallinn University of Technology among the sampled institutions](no-public-genai-policies-german-universities-tallinn.md) — related
 - [African countries' AI policies are high-level and more focused on economic goals than on establishing specific regulatory requirements](african-ai-policies-high-level-economic-focus.md) — related
 - [Institutional AI adoption is uneven, with partial adoption, incomplete policy development and uncertainty in high-stakes contexts](institutional-ai-governance-uneven.md) — related
+- [Most nations' AI policy strategies focus on developing an AI-ready workforce rather than on the general use of AI in education](national-ai-policies-prioritize-workforce-over-education.md) — related

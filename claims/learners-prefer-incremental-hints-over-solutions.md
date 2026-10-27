@@ -51,3 +51,4 @@ Participant quote from the four-week study's feedback data. Early in the study, 
 - [Productive Failure Improves Conceptual Learning](productive-failure-improves-conceptual-learning.md) — a broader claim this one bears on
 - [Hint Factory MDP-generated hints gave correct next-step hints over 80% of the time and a pilot showed students solved more logic proofs with hints](hint-factory-mdp-hints-effective.md) — related
 - [Unsolicited hints and meta-hints raised first-attempt correctness by d=0.682 and problem completion by d=0.727](unsolicited-meta-hints-effect-sizes.md) — related
+- [Personalized hints raise student success at solving exercises: 60.47% success before second attempt with the discourse model versus 37.93% baseline (p = 0.03)](personalized-hints-improve-success-rate-pilot.md) — related

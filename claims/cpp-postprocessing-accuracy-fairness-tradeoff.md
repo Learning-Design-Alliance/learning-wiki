@@ -54,3 +54,7 @@ Accuracy-fairness trade-off analysis of LR models with four mitigation technique
 - [When demographic groups have different base rates, no method can satisfy calibration, equalized odds, and statistical parity simultaneously](impossibility-fairness-metrics-base-rates.md) — related
 - [Post-hoc fairness interventions on a vendor-controlled EWS redistributed disparities across demographic groups without consistently reducing them](six-posthoc-interventions-redistribute-disparities.md) — a broader claim this one bears on
 - [At a sensitivity of .672 the MD prediction model showed specificity of .754–.762 but a low positive predictive value (.245–.252)](md-model-sensitivity-specificity-ppv.md) — related
+- [Class balancing techniques improved fairness in education prediction tasks, with over-sampling also improving accuracy](class-balancing-improves-fairness.md) — related
+- [Education algorithm fairness is measured with a diverse set of metrics, most commonly ABROCA, TPR/TNR, FPR/FNR disparity metrics, and group difference in performance](education-fairness-metrics-diverse-set.md) — related
+- [Most reviewed education-fairness studies found no strict tradeoff between fairness and accuracy](no-strict-fairness-accuracy-tradeoff.md) — related
+- [Education algorithmic fairness research concentrates on gender and race, rarely covering disability, language, or other attributes](sensitive-features-gender-race-dominance.md) — related

@@ -42,6 +42,7 @@ The report recommends that CCSS implementation in AI/AN communities combine an "
 
 - [Teach AI/AN students through place-based content, culturally familiar interaction patterns, and culturally harmonious assessment integrated with the CCSS](place-based-culturally-harmonious-ccss-instruction.md)
 - [Implement ethnic studies curricula with locally grounded development, compensated education partners, and sustained professional learning](ethnic-studies-curricula-braided-implementation.md)
+- [Adapt instructional systems to local contexts through systematic inquiry and collaboration among educators, developers, and researchers](continuous-improvement-collaboration-for-aied.md)
 
 ## Examples
 -

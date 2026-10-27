@@ -14,7 +14,7 @@ grain_size: course
 # AI Tutoring
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 336 claims (153 for, 132 mixed, 51 against) · 227 studies (82 causal, 49 review, 27 design, 26 theoretical, 19 quant-synthesis, 13 associational, 11 qualitative), `q1`–`q4` · 47 of 227 report an effect size · 321 claims rest on one study
+> **Evidence** · 339 claims (153 for, 135 mixed, 51 against) · 229 studies (82 causal, 50 review, 27 design, 26 theoretical, 19 quant-synthesis, 14 associational, 11 qualitative), `q1`–`q4` · 47 of 229 report an effect size · 324 claims rest on one study
 
 ## Description and scope
 
@@ -317,6 +317,9 @@ This pattern is scoped to the tutor's moves within tasks and the handoff to peop
 - [Tutoring systems appear to be culturally dependent, per insights the paper attributes to Ogan and Johnson](../claims/tutoring-systems-culturally-dependent.md) [~W]
 - [Agents with expertise (Expert and Mentor) improved learning outcomes and were perceived as more credible](../claims/expertise-agents-improved-learning.md) [+W]
 - [Motivational agent roles (Motivator and Mentor) were perceived as more human-like and improved learner self-efficacy](../claims/motivational-agents-improved-self-efficacy.md) [~W]
+- [Time spent with bottom-out hints correlates positively with learning, consistent with spontaneous self-explanation](../claims/bottom-out-hint-time-positive-learning-relation.md) [~W]
+- [Understanding of Help Avoidance is evolving: persistence may beat help at low mastery, yet Help Avoidance predicted poorer transfer performance](../claims/help-avoidance-understanding-evolving.md) [~W]
+- [Failure learning and transfer parameters are not sustained in later trials, suggesting repeating the same feedback does not provide sustained assistance](../claims/failure-feedback-not-cumulative-later-trials.md) [~W]
 
 ## Examples
 - [ChatGPT as a virtual laboratory assistant in a sociotechnical system](../designs/sts-theory-chatgpt-virtual-laboratory-assistant.md) — ChatGPT answers lab questions beside human TAs, not in their place

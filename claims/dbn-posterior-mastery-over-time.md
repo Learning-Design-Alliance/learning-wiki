@@ -49,3 +49,4 @@ DBN analysis in GeNIe of students' first game completion, with 11 time slices fo
 - [Learning curves show error rates decreased for wind direction, air movement, and cloud type but stayed high for wind speed and precipitation skills](bkt-learning-curves-skill-differences.md) — related
 - [BKT estimates show most students mastered wind direction and air movement but few mastered wind speed, precipitation type, or amount](bkt-mastery-profile-weather-skills.md) — related
 - Both BKT and DBN show high classification accuracy but low consistency for wind direction, cloud type, and air movement — related
+- [Trial-by-trial performance rose consistently in the MT-ITS condition while Standard-condition training curves stayed mostly flat](mt-its-training-trials-steady-increase.md) — related

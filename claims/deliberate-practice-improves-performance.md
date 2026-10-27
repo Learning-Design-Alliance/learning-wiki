@@ -126,3 +126,4 @@ The article reports that the meta-analysis by Macnamara et al. (2014), echoed by
 - [Note-level singing correctness rises with practice repetition in a negatively accelerated curve, gaining about 7 percentage points over 30 repetitions](singing-accuracy-negatively-accurated-repetition-curve.md) — a narrower finding that bears on this claim
 - [Not every hour of study time is equally productive; the benefit of an additional hour depends on the student's position on their learning curve](comsa-study-hours-unequal-productivity.md) — related
 - [Memory improves with practice in the field where it is exercised](memory-improves-with-practice-in-exercised-field.md) — related
+- [ITS for psychomotor skills cluster in medicine, with sport second and other domains marginal](its-domain-distribution-medicine.md) — related

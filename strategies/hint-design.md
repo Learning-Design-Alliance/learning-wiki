@@ -70,6 +70,7 @@ Well-designed hints keep learners in productive struggle rather than either flou
 - [Realign: deploy Socratic withholding protocols that delay direct answers for conceptual or diagnostic queries](realign-socratic-withholding-protocol.md)
 - [Identify which suggested actions are beneficial at what time to inform scaffold design, and deliver scaffolds at natural breakpoints preceded by a notification.](identify-beneficial-actions-and-timing-for-scaffolds.md)
 - [Probe problem solving with a graduated suggestion sequence moving from pure reason to concrete imagery to objective experiment](graduated-suggestion-sequence-probing.md)
+- [ITS developers should continue to provide principle-based and bottom-out hints and support sense making around them](design-recommendations-principle-based-hints-and-sense-making.md)
 
 ## Examples
 - **[ASSISTments](https://www.assistments.org)** — online math homework system with structured hint ladders; research using its logged hint data showed that bottom-out hint usage predicts lower learning gains [+M]

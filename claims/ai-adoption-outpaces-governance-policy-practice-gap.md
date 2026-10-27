@@ -69,3 +69,4 @@ Cross-study finding from the review's Theme 3 synthesis, attributed to Bates et 
 - [Existing K-12 computing standards give AI minimal coverage](csta-standards-minimal-ai-coverage.md) — a narrower finding that bears on this claim
 - [A persistent theory-practice gap: students may develop conceptual AI understanding but lack opportunities to apply it in authentic contexts](ail-theory-practice-gap-he-programs.md) — related
 - [Students report gaps in AI training and awareness of institutional AI policies despite widespread adoption](ai-training-and-policy-awareness-gaps-students.md) — a narrower finding that bears on this claim
+- [No framework, guidelines, policies or regulations have been devised to address the specific ethical issues raised by the use of AI in education](no-aied-ethics-framework-or-policy.md) — related

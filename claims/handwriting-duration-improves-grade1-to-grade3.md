@@ -52,3 +52,4 @@ ANOVA on first-letter duration in the main experiment with 65 students across Gr
 - [The lexical frequency effect on writing a difficult first letter is present only in 1st graders, indicating spelling-motor interference before handwriting automation](frequency-interacts-with-letter-difficulty-in-grade-1-handwriting.md) — related
 - [Graphemic complexity of the final letters has only marginal effects, limited to letter size](graphemic-complexity-marginal-letter-size-effect.md) — related
 - [A pre-experiment cluster analysis identified b, f, g and p as the most graphomotor-difficult cursive consonants for 1st graders](pre-experiment-difficult-letters-bfgp.md) — related
+- [ITS for psychomotor skills cluster in medicine, with sport second and other domains marginal](its-domain-distribution-medicine.md) — related

@@ -56,3 +56,4 @@ This is the authors' interpretive conclusion drawn from their trend modeling of 
 - [Post-COVID classrooms show increased academic diversity in the composition and spread of student achievement levels](post-covid-classrooms-academically-diverse-achievement-spread.md) — related
 - [Achievement disparities by student race/ethnicity widened substantively during the pandemic](covid-race-ethnicity-disparities-widened.md) — a narrower finding that bears on this claim
 - [Post-pandemic classrooms present teachers with students in the same grade who differ more in learning needs than before the pandemic](same-grade-students-differ-more-in-needs.md) — a narrower finding that bears on this claim
+- [Pandemic-era emergency online learning produced mixed educational results that exacerbated existing inequities](pandemic-online-learning-exacerbated-inequities.md) — possibly the same claim (merge candidate)

@@ -15,7 +15,7 @@ grain_size: course
 # Online Course Design (Community of Inquiry)
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 43 claims (20 for, 22 mixed, 1 against) · 31 studies (9 associational, 6 quant-synthesis, 4 causal, 4 qualitative, 4 design, 3 review, 1 theoretical), `q1`–`q4` · 6 of 31 report an effect size · 40 claims rest on one study
+> **Evidence** · 44 claims (20 for, 23 mixed, 1 against) · 32 studies (9 associational, 6 quant-synthesis, 5 design, 4 causal, 4 qualitative, 3 review, 1 theoretical), `q1`–`q4` · 6 of 32 report an effect size · 41 claims rest on one study
 
 ## Description and scope
 
@@ -162,6 +162,7 @@ This pattern is scoped to the shape of a mostly online course across a term. How
 - [Students rated icebreaker/introduction discussions and collaborative work with online communication tools as the most beneficial learner-to-learner strategies](../claims/icebreaker-collaboration-top-learner-learner-strategies.md) [+W]
 - [Time zone differences affected international students' timely participation in asynchronous forums, and a balance of synchronous and asynchronous communication was regarded as beneficial](../claims/time-zone-differences-asynchronous-participation-balance.md) [~W]
 - [Baseline math performance interacted with teacher–student contact level, with low contact amplifying disadvantages for below-baseline students](../claims/baseline-performance-contact-interaction-math.md) [~W]
+- [In the coded dataset, exploration was the most frequent phase (727 units, 48%), followed by integration (444, 29%), resolution (235, 15%), and non-cognitive presence (115, 8%)](../claims/phase-distribution-skew.md) [~W]
 
 ## Related Patterns
 - [Blended Learning](blended-learning.md) — divides a course between online and in-person time; this pattern shapes the online course itself

@@ -48,3 +48,4 @@ Systematic review of 73 articles; the abstract-level finding is stated in the re
 - [Cognitive feedback comments were the most frequently identified content in online peer feedback studies](cognitive-content-most-frequent-online-peer-feedback.md) — related
 - [Too few studies exist to draw robust conclusions on moderating factors (age, gender, screen size, dosage, SAMR-based activities) or on whether benefits persist beyond the post-test](mobile-device-moderators-insufficient-evidence.md) — related
 - [Team structure factors (gender, age, game experience) markedly influence TEAMUP speed and distance but not avoidable mistakes](teamup-structure-drives-time-distance-not-errors.md) — related
+- [Learner activity is mainly studied through log files in data analysis studies, while interactive features are scrutinized in controlled experiments](vbl-activity-logs-interactive-experiments.md) — related

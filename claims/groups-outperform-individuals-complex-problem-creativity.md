@@ -51,3 +51,4 @@ The article reports, citing Sawyer (2012), that "groups outperform individuals" 
 - [AI-assisted outputs are more similar to each other than purely human-authored ones, indicating a homogenization risk](ai-assisted-outputs-homogenization-risk.md) — related
 - [Collaboration facilitates learning only under specific knowledge and experience conditions; with advanced learners it can be detrimental via the expertise reversal effect](collaboration-beneficial-conditions-expertise-reversal.md) — related
 - [Collaborative learning is beneficial or detrimental depending on individual and situational factors](collaborative-learning-conditionally-beneficial.md) — related
+- [Homogeneous-high groups showed the highest productivity; heterogeneous groups outperformed homogeneous-average and homogeneous-low groups, and low-activity students were more productive in homogeneous groups](group-composition-productivity-effects.md) — related

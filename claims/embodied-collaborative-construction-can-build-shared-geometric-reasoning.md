@@ -78,3 +78,4 @@ This is a single case study of four graduate students already trained in embodie
 - [Suppressing or restricting hand movements disrupts children's arithmetic performance, suggesting gestures play a functional role in calculation](hand-movement-interference-disrupts-calculation.md) — related
 - [Even adults learning substantially new content often need at least partial materialization with supports like orienting charts](materialization-needed-for-adult-novel-learning.md) — related
 - [Sensorimotor action supports learning when it makes concept-relevant relations easier to process](action-helps-when-concept-relevant-relations-easier.md) — related
+- [Perceptual tasks dominate the Harrow proficiency levels supported by existing ITS, with physical activities and non-discursive communication rare](harrow-tasks-perceptual-dominance.md) — related

@@ -74,3 +74,4 @@ Human inter-rater reliability measured with Fleiss' κ among three researchers c
 - [The framework treats systems thinking and computational thinking as co-equal, separate entities within the context of modeling](st-and-ct-co-equal-separate-entities.md) — related
 - [Inter-rater agreement among pre-service teachers is low regardless of grading approach or essay quality](low-inter-rater-agreement-preservice-grading.md) — related
 - [Three expert coders reached 77.15% overall agreement (Fleiss' κ = 0.763) on the LCT MOOC sample, and over half of their disagreements lay between Exploration and Integration](coder-agreement-exploration-integration-disagreements.md) — related
+- [A structured negotiated-coding process reached nearly 98% interrater agreement before machine learning](negotiated-coding-98-consensus.md) — related

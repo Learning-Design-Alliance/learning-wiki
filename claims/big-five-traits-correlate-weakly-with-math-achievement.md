@@ -72,3 +72,4 @@ The authors place this alongside earlier cross-domain findings of a modest link 
 - [13 of 16 adjusted associations between achievement measures and openness/conscientiousness were statistically significantly positive](thirteen-of-sixteen-adjusted-associations-positive.md) — related
 - [STEM participation (% STEM Courses) and STEM achievement (STEM Grades) are largely distinct outcomes, correlating less than 5% shared variance](stem-participation-achievement-distinct.md) — related
 - [Gaze patterns during intelligence test completion are unrelated to Big Five personality traits, though several facets are linked to gaze](gaze-patterns-unrelated-to-big-five-traits.md) — related
+- [Extraversion is negatively correlated with the average number of annotation acts](extraversion-negatively-correlated-average-annotation-acts.md) — related

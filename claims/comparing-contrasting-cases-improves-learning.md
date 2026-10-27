@@ -232,3 +232,4 @@ Seventy seventh-grade students learning to solve algebra equations were randomly
 - [Providing both a simple and a complex example facilitates transfer better than a single example or an example plus procedures](multiple-examples-per-problem-type.md) — a narrower finding that bears on this claim
 - [Lesson variability benefits transfer only in combination with worked-example instruction, as shown by a variability-by-instruction interaction](example-variability-interaction-with-cognitive-load.md) — related
 - [Relational reasoning appears malleable and trainable, but may stabilize in adulthood without relevant experience](relational-reasoning-malleable-and-trainable.md) — related
+- [Students require prompting to connect information across multiple representations and do not do so spontaneously](students-need-prompting-connect-mers.md) — related

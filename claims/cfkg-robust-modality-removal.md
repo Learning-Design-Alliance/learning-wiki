@@ -50,3 +50,4 @@ Modality ablation study on CF–KG (Table 6) with three degraded variants (no te
 - [Both CF-only and KG-only ablated variants underperform the full CF–KG model, indicating complementary behavioral and semantic signals](cfkg-component-ablation-complementary.md) — related
 - [The CF–KG model attains the highest coverage (0.736) and cross-domain accuracy (0.741) among all compared recommenders](cfkg-highest-coverage-cda.md) — related
 - [The CF–KG hybrid model achieves higher offline NDCG than all eight baselines on the MARS English subset, reaching about 0.625 at epoch 40](cfkg-outperforms-baselines-ndcg.md) — related
+- [VBL tools most frequently use textual and visual features, mainly for recommendation, information extraction, summarization, and navigation](vbl-tools-use-text-visual-features.md) — related

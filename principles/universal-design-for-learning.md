@@ -35,7 +35,7 @@ sources:
 # Universal Design For Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 20 claims (13 for, 7 mixed) · 33 studies (13 review, 7 causal, 5 quant-synthesis, 3 qualitative, 3 theoretical, 2 design), `q1`–`q4` · 6 of 33 report an effect size · 12 claims rest on one study
+> **Evidence** · 21 claims (14 for, 7 mixed) · 34 studies (14 review, 7 causal, 5 quant-synthesis, 3 qualitative, 3 theoretical, 2 design), `q1`–`q4` · 6 of 34 report an effect size · 13 claims rest on one study
 
 ## Conditional relationship
 
@@ -153,6 +153,7 @@ The expectation should weaken if comparisons of a design with several routes aga
 - [Educators' adaptations of the modified Hero Elementary resources, including accommodations and modifications, provided students with greater access to the virtual learning content](../claims/educator-adaptations-greater-access-virtual-content.md) [+W]
 - [Teachers found the animated videos the easiest Hero Elementary component to implement virtually and fun and engaging for students, and described them as an equal, shared platform for students with IEPs and English learners](../claims/animated-videos-easiest-engaging-virtual-component.md) [+W]
 - [Educators' understanding of UDL shifted from a static framework to a dynamic way of thinking emphasizing moment-to-moment responsiveness to students' access needs](../claims/udl-reconceived-moment-to-moment-responsiveness.md) [~W]
+- [Support for learners who reason with external representations must be flexible enough to accommodate wide individual differences in representational knowledge](../claims/flexible-support-individual-differences-er.md) [+W]
 
 ## Related Principles
 - [Multimodal Instruction](multimodal-instruction.md) — holds the conditional model for coordinated modes and alternative modes where one is inaccessible.

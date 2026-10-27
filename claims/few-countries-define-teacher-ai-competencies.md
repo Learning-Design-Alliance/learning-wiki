@@ -56,3 +56,4 @@ The publication states, without citing supporting data, that few countries have 
 - [Institutional AI adoption is uneven, with partial adoption, incomplete policy development and uncertainty in high-stakes contexts](institutional-ai-governance-uneven.md) — related
 - [A review of 13 recent AI literacy frameworks found most lack explicit scaffolded progression and are context-bound](recent-ai-literacy-frameworks-lack-scaffolded-progression.md) — related
 - [Resource mismatch, missing incentives, and discontinuous post-training support constrain the sustainability of training transfer](resource-mismatch-and-support-discontinuity-constrain-transfer.md) — related
+- [Most nations' AI policy strategies focus on developing an AI-ready workforce rather than on the general use of AI in education](national-ai-policies-prioritize-workforce-over-education.md) — related

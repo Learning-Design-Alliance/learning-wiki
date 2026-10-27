@@ -60,3 +60,4 @@ Classification of the 84 studies using the Bond et al. (2024) typology found "AI
 - [LA is used in higher-education feedback studies for a range of objectives beyond improving feedback itself, with reflection the most common (43% of studies)](la-feedback-objectives-reflection-most-common.md) — related
 - [Chatbots were the most frequently used AI application type for supporting SRL, followed by evaluation systems](chatbots-most-common-ai-srl-application.md) — related
 - [Mobile devices enable just-in-time adaptive interventions that flexibly adapt support to students' changing internal and contextual states](jitai-just-in-time-mobile-support.md) — related
+- [AI in psychomotor ITS is used predominantly for feedback construction rather than for task recommendation or adaptation](its-ai-feedback-over-recommendation.md) — related

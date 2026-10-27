@@ -89,3 +89,4 @@ Survey finding (120 respondents): over 70% reported campus provision of paid gen
 - [Practitioner governance activity in Australian Group of Eight institutions outpaces what the published GenAI literature has documented, while Indonesian participants report less formal scaffolding](governance-practice-outpaces-genai-scholarship.md) — related
 - [No public GenAI policies were found for German universities and Tallinn University of Technology among the sampled institutions](no-public-genai-policies-german-universities-tallinn.md) — related
 - [Over one-third of PGR participants emphasised financial support for paid AI tools as necessary institutional support for responsible GenAI use](financial-support-paid-ai-tools-institutional.md) — related
+- [No framework, guidelines, policies or regulations have been devised to address the specific ethical issues raised by the use of AI in education](no-aied-ethics-framework-or-policy.md) — related

@@ -273,3 +273,4 @@ This study found that the seductive details effect was not uniform: readers with
 - [In the Standard condition, gaze shifts away from text and fixations to extraneous details are negatively associated with reading comprehension](extraneous-fixations-negatively-associated-comprehension.md) — a narrower finding that bears on this claim
 - [Reading comprehension is significantly higher when extraneous illustrations are removed from beginning reader books](streamlined-illustrations-improve-reading-comprehension.md) — a narrower finding that bears on this claim
 - [Activated prior knowledge must be relevant to the task; irrelevant knowledge can hamper learning](relevance-irrelevant-knowledge-hampers.md) — a narrower finding that bears on this claim
+- [Decorating curriculum diagrams with pictorial elements may engender 'graph-as-picture' misconceptions in students](diagram-decoration-graph-as-picture-risk.md) — a narrower finding that bears on this claim

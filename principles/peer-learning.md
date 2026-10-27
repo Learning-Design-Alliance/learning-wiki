@@ -51,7 +51,7 @@ sources:
 # Peer Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 44 claims (22 for, 22 mixed) · 49 studies (13 quant-synthesis, 12 causal, 7 review, 5 associational, 5 qualitative, 4 design, 3 theoretical), `q1`–`q4` · 13 of 49 report an effect size · 36 claims rest on one study
+> **Evidence** · 45 claims (22 for, 23 mixed) · 50 studies (13 quant-synthesis, 12 causal, 7 review, 5 associational, 5 qualitative, 4 design, 4 theoretical), `q1`–`q4` · 13 of 50 report an effect size · 37 claims rest on one study
 
 ## Conditional relationship
 
@@ -187,6 +187,7 @@ Pair performance, each learner's immediate unaided performance, delayed retentio
 ## Claims
 
 - [Cross-age tutoring effects on tutees do not significantly differ by number of sessions, tutor type, tutee risk type, or subject area](../claims/cross-age-tutoring-tutee-moderators-null.md) [~W]
+- [Variable reciprocity assigns tutor roles for problems a student solved and tutee roles for problems not solved (as proposed by Evans and Moore)](../claims/variable-reciprocity-solved-problems-tutor.md) [~W]
 
 ## Related Principles
 - [Peer Discussion](peer-discussion.md) — one of the clearest vehicles for peer learning

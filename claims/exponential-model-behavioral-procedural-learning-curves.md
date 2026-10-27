@@ -51,3 +51,4 @@ Group-level curve fitting of error rates across sessions s1-s5 of a modified Ste
 - [Behavioral self-regulation development between ages three and seven is best described by an exponential (nonlinear) growth curve](exponential-growth-behavioral-self-regulation-early-childhood.md) — related
 - [Quadratic latent growth fits MAP longitudinal achievement data better than linear growth across ten states](quadratic-growth-fits-map-better-than-linear.md) — related
 - [Growth models show substantial variability in the shape and rate of learning, but no statistically significant EAPGS associations with that variation](growth-models-pgs-null-shape-rate.md) — related
+- [Trial-by-trial performance rose consistently in the MT-ITS condition while Standard-condition training curves stayed mostly flat](mt-its-training-trials-steady-increase.md) — related

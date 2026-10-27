@@ -68,3 +68,4 @@ Table 1 lists elaborative feedback at d = 0.71* for recall (k = 155) and d = 0.4
 - [Reward techniques show positive meta-analytic effects for gamification and personalization, but perceptual fluency did not directly affect learning outcomes](reward-techniques-meta-analytic-effects-mixed.md) — related
 - [Cognitive Load Reduction Improves Learning](cognitive-load-reduction-improves-learning.md) — related
 - [Multimedia design interventions yield small average improvements in cognitive load management (g = 0.22), with personalisation and modality showing the largest effects](design-principles-improve-cognitive-load-management.md) — related
+- [A meta-analysis of 40 studies reports elaborated feedback in computer-based learning environments yields an overall effect size of 0.49 (attributed to Van der Kleij et al. 2015)](elaborated-feedback-effect-size-0-49.md) — related

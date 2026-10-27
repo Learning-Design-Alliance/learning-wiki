@@ -13,7 +13,7 @@ generated:
 # Personality Traits
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 71 claims (45 show a difference, 16 mixed, 10 no difference) · 33 studies (13 review, 10 associational, 5 quant-synthesis, 3 causal, 2 theoretical), `q2`–`q4` · 11 of 33 report an effect size · 71 claims rest on one study
+> **Evidence** · 74 claims (48 show a difference, 16 mixed, 10 no difference) · 34 studies (13 review, 11 associational, 5 quant-synthesis, 3 causal, 2 theoretical), `q2`–`q4` · 12 of 34 report an effect size · 74 claims rest on one study
 
 ## Description
 Personality traits are relatively stable individual differences, most often measured on the Big Five dimensions. For learning, conscientiousness (being organised, persistent and self-controlled) is the trait most consistently associated with achievement, and openness (curiosity, breadth of interests) the second; agreeableness, extraversion and neuroticism show little association. Traits correlate with other variables here, such as [self-regulation](self-regulation.md) and [need for cognition](need-for-cognition.md).
@@ -106,6 +106,9 @@ Personality traits are relatively stable individual differences, most often meas
 - [Big Five personality traits explain 3.18% of variance in fluid intelligence test scores, with Openness and Agreeableness the only meaningful contributors](../claims/big-five-explain-3-percent-fluid-intelligence.md) [+M] — learners who differ on it differ in outcomes
 - [Combining gaze-based predictions with personality explains 37.50% of intelligence test variance, with significant unique contributions from both; with facets, 38.02%](../claims/gaze-plus-personality-combined-prediction.md) [+M] — learners who differ on it differ in outcomes
 - [Facet-level personality measures explain more than twice the variance of trait-level measures in intelligence test scores (7.67% vs 3.18%)](../claims/personality-facets-explain-more-variance-than-traits.md) [+M] — learners who differ on it differ in outcomes
+- [Conscientiousness is positively related to the number of textual annotation acts](../claims/conscientiousness-positively-related-textual-annotations.md) [+W] — learners who differ on it differ in outcomes
+- [Extraversion is negatively correlated with the average number of annotation acts](../claims/extraversion-negatively-correlated-average-annotation-acts.md) [+W] — learners who differ on it differ in outcomes
+- [Neuroticism is negatively correlated with all annotation activity features](../claims/neuroticism-negatively-correlated-annotation-features.md) [+W] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

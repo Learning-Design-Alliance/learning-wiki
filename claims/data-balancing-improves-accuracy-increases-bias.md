@@ -76,3 +76,4 @@ Fairness comparison between models trained on balanced and imbalanced datasets s
 - [Post-hoc fairness interventions on a vendor-controlled EWS redistributed disparities across demographic groups without consistently reducing them](six-posthoc-interventions-redistribute-disparities.md) — related
 - [AI-powered predictive analytics improves academic performance by enabling early identification of at-risk students and timely intervention](ai-predictive-analytics-improves-academic-performance.md) — related
 - [Training the MLP on an oversampled (balanced) MD dataset did not improve performance over training on the unbalanced data](oversampled-balanced-data-no-gain-md-model.md) — reports the opposite
+- [Data source choice affects both accuracy and fairness: institutional features were most accurate-related yet most discriminatory](data-source-fairness-accuracy-effects.md) — related

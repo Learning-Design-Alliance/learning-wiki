@@ -51,3 +51,4 @@ Post-intervention survey in the quasi-experiment; the trust construct was a comp
 - Nine interaction design factors recur in post-2023 research on trust in AI-enabled systems, with explainability the most studied — related
 - [High-level feedback on reasoning and synthesis should remain a human responsibility for the foreseeable future](high-level-feedback-remains-human-responsibility.md) — reports the opposite
 - [Open-ended student feedback highlighted relevance and conciseness as benefits of personalized AI videos, alongside concerns about unnaturalness, uncanny-valley discomfort, and trust](student-feedback-benefits-and-concerns-ai-videos.md) — related
+- [Post-experimental questionnaire ratings favoured MT-ITS numerically but the differences between conditions were not significant](mt-its-questionnaire-ratings-not-significant.md) — related

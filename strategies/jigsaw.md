@@ -63,6 +63,7 @@ Jigsaw operationalizes positive interdependence and individual accountability �
 - [Think-Pair-Share](../patterns/think-pair-share.md) — a lighter-weight structure sharing the individual-preparation-then-verbalization sequence
 - [Reciprocal Teaching](../elements/reciprocal-teaching.md) — rotates the teaching role within one shared text rather than across segments
 - [Use jigsaw-style sharing so every student is responsible for all the material](jigsaw-sharing-inquiry-posters.md)
+- [Start an RTS in a basic form, then add CLS mechanisms only as evaluation shows necessity](start-basic-rts-then-add-mechanisms.md)
 
 ## Related Elements
 - [Collaboration](../elements/collaboration.md) — the interdependent group structure that makes jigsaw work

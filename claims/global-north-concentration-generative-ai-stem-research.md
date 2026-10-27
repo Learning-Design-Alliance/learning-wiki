@@ -60,3 +60,6 @@ Country categorization of all 183 publications by author affiliations shows "73%
 - The 209 included articles were primarily North American (132), mostly qualitative in design, with 15% quantitative, 15% mixed methods, and nearly a fifth non-empirical — related
 - [The evidence base is dominated by US studies and quantitative designs, with sample sizes ranging from one teacher to 53 schools and 1,323 teachers](descriptive-overview-51-studies.md) — related
 - [School belonging research is geographically concentrated in WEIRD contexts, with entire world regions virtually absent from the evidence base](weird-concentration-school-belonging-research.md) — related
+- [AIED conference authorship is strongly WEIRD-imbalanced, with 90% of first authors from WEIRD institutions and no African first authors](aied-weird-authorship-imbalance.md) — related
+- [Samples used to investigate human features in AIED research are 94% WEIRD and 62% US, with no African samples](aied-weird-sample-imbalance.md) — related
+- [Top-tier psychology journals show extreme WEIRD dominance: 97% of first authors and 95% of samples](psychology-weird-representation-imbalance.md) — related

@@ -71,3 +71,4 @@ The report's findings summary states that "Both the prior performance flags and 
 - [Post-hoc fairness interventions on a vendor-controlled EWS redistributed disparities across demographic groups without consistently reducing them](six-posthoc-interventions-redistribute-disparities.md) — related
 - [When demographic groups have different base rates, no method can satisfy calibration, equalized odds, and statistical parity simultaneously](impossibility-fairness-metrics-base-rates.md) — related
 - [Removing the sensitive race feature caused little impact on predictive performance at Stage 1 and no significant fairness differences, with mixed fairness effects](removing-race-feature-little-performance-impact.md) — related
+- [Data source choice affects both accuracy and fairness: institutional features were most accurate-related yet most discriminatory](data-source-fairness-accuracy-effects.md) — related

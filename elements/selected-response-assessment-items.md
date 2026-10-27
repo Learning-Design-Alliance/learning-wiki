@@ -13,7 +13,7 @@ generated:
 # Selected-Response Assessment Items
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 25 claims (4 for, 17 mixed, 4 against) · 24 studies (7 associational, 5 causal, 5 review, 3 design, 2 qualitative, 1 quant-synthesis, 1 theoretical), `q1`–`q3` · 6 of 24 report an effect size · 23 claims rest on one study
+> **Evidence** · 26 claims (4 for, 18 mixed, 4 against) · 25 studies (7 associational, 5 causal, 5 review, 4 design, 2 qualitative, 1 quant-synthesis, 1 theoretical), `q1`–`q3` · 6 of 25 report an effect size · 24 claims rest on one study
 
 ## Description
 In selected-response items — multiple-choice, true-false, and matching — students select a response the teacher or test developer provides rather than constructing one in their own words, so the item measures recognition rather than recall. Because results don't depend on a scorer's judgment (and so are often machine-scored), these items are called "objective," and their elimination of scoring error increases reliability. But teachers who rely on objective items exclusively risk reducing the validity of their overall assessment, since objective items aren't appropriate for every learning goal — effective assessment depends on aligning the technique to the actual goal (if the goal is for students to conduct an experiment, they should be asked to conduct one, not asked about conducting one).
@@ -83,6 +83,7 @@ Other common item-writing mistakes cut across formats: unclear wording (leaving 
 - [Competitive true-false questions can produce benefits similar to competitive multiple-choice questions for previously asked and related questions](../claims/competitive-true-false-similar-benefits.md) [~W]
 - [Open response format is associated with higher Alpha than multiple choice in knowledge tests](../claims/knowledge-test-alpha-response-format.md) [-W]
 - [Word-picture matching task accuracy was predicted by post-test scores but not pre-test scores, supporting it as a concurrent measure of learning](../claims/matching-task-post-scores-concurrent-learning.md) [~W]
+- [Case-based (vignette) MCQs are classified as testing higher-order thinking and discriminate better between low- and high-information students](../claims/case-based-questions-higher-order-value.md) [~W]
 
 ## The evidence by question
 - *Which practice format: short answer, multiple choice, or matching the final test?* [Evidence on whether initial short-answer questions produce more learning than initial multiple-choice questions is mixed, with recent studies finding little or no difference](../claims/short-answer-versus-multiple-choice-retrieval-practice-evidence-is-mixed.md) [~M]

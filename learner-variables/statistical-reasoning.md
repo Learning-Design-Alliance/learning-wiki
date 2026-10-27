@@ -13,7 +13,7 @@ generated:
 # Statistical Reasoning
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 16 claims (12 show a difference, 4 mixed) · 6 studies (3 causal, 1 associational, 1 qualitative, 1 design), `q2`–`q3` · 1 of 6 report an effect size · 16 claims rest on one study
+> **Evidence** · 18 claims (14 show a difference, 4 mixed) · 7 studies (3 causal, 1 review, 1 associational, 1 qualitative, 1 design), `q2`–`q3` · 1 of 7 report an effect size · 18 claims rest on one study
 
 ## Description
 Statistical reasoning is thinking about uncertainty and building mental models of real-world phenomena from data. The Learner Variability Navigator describes it as a cycle: learners pose a question about data, decide what data they need, gather it, organise, analyse and display it, and then describe what it shows and draw inferences to answer the question. It is assessed with questionnaires on understanding of variation (in chance settings such as dice, and in data and graphs) that pair multiple-choice items with written explanations, and with the data-analysis and probability subtests of diagnostic batteries.
@@ -54,6 +54,8 @@ LVN follows it from grade 3 to grade 10. It builds on [measurement](measurement.
 - [Students produced a wide range of self-chosen hand-drawn representations, mostly frequency-based, but most summary statements only described the graph rather than its message](../claims/hand-drawn-representations-value-frequency-solo.md) [~M] — instruction changes it
 - [After training, prospective teachers caught up with current faculty in reasoning but still had lower noticing scores](../claims/posttest-group-differences-reasoning-noticing.md) [+M] — instruction changes it
 - [Reasoning scores of both prospective and current faculty teachers increased significantly during the short pedagogical training, but noticing did not improve significantly in either group](../claims/training-improves-reasoning-not-noticing.md) [+M] — instruction changes it
+- [Acting on graphs while observing racetrack behaviour improved students' graph interpretation more than racing cars while observing automatic graph construction](../claims/embodied-graph-interaction-asymmetry.md) [+W] — instruction changes it
+- [Decorating curriculum diagrams with pictorial elements may engender 'graph-as-picture' misconceptions in students](../claims/diagram-decoration-graph-as-picture-risk.md) [+W] — instruction changes it
 
 ## Measures
 - **Statistical Variation Measure** (Watson et al., 2003): Questionnaire examining student understanding of statistical variation, including understanding of basic chance measurement and graph reading, variation in a chance setting (e.g., results of throwing a die), and variation in data and graphs. Students respond to multiple choice questions but also have space to explain their responses which allows for a more comprehensive measure of their understanding.

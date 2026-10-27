@@ -68,3 +68,4 @@ Results section, Table 7 breakdown: "twice the percentage of low-proficiency exa
 - [The understand-solve-check cognitive model accounted for 71% of protocol subjects' verbalizations](cognitive-model-captures-71-percent-verbalizations.md) — related
 - [Solve attributes differ in discrimination: the environment attribute strongly separated proficiency groups while the learned-procedure attribute did not](solve-attributes-vary-in-discrimination.md) — related
 - [Attribute mastery showed significant proficiency-group, attribute, and attribute-by-proficiency effects, but no significant status-group main effect](attribute-mastery-proficiency-effects-null-status-effect.md) — related
+- [Case-based (vignette) MCQs are classified as testing higher-order thinking and discriminate better between low- and high-information students](case-based-questions-higher-order-value.md) — related

@@ -2,7 +2,7 @@
 
 Designs for a particular setting, course, population or product: what a design uses the general patterns for. A pattern is general across contexts; a design is not.
 
-**1121 entries** · 0 stable · 1121 in review · 0 drafts
+**1123 entries** · 0 stable · 1123 in review · 0 drafts
 
 ---
 
@@ -236,6 +236,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Critique-then-inquire sequence for virtual lab activities](critique-then-inquire-virtual-lab-sequence.md) - A lesson-level sequence in which students first critique problematic inquiry cases and then conduct science inquiries with a virtual lab.
 * [Critique-to-evidence workflow: snapshot, independent coding, reconciliation, export](critique-to-evidence-workflow-pattern.md) - This pattern connects an evolving design artefact, its critique, an action plan and an inspectable research record.
 * [Cross-device learning platform with Course, Gallery, and GenAI modules for flipped studio preparation](cross-device-flipped-genai-design-platform.md) - A responsive website developed to support pre-class learning, studio readiness, and early-stage visual ideation in an undergraduate knit yarn design course, accessible on desktop and mobile devices.
+* [Crowdsourcing as a knowledge base building model with three primary design issues](crowdsourcing-knowledge-base-building-model.md) - The article organizes crowdsourced content creation using the taxonomy of Saxton et al.
 * [CS1-CR course structure: unrestricted AI use with mandatory oral code review interviews and a flipped classroom](cs1-cr-course-structure.md) - CS1-CR is a CS1 course design in which students may freely use generative AI on coding assignments but must complete \"an oral, in-person code review (CR) interview session with a TA or instructor within 48 hours after...
 * [CSCL teacher dashboard prototype for primary-school fractions with six activity indicators](cscl-teacher-dashboard-prototype-fractions.md) - A teacher dashboard prototype built on MathTutor digital traces for dyads collaborating on fraction assignments, developed through \"a teacher co-design methodology\" with 10 teachers.
 * [CSUB Teacher Residency Consortium, a monthly professional learning community of residency coordinators](csub-residency-consortium-plc.md) - The CSUB Teacher Residency Consortium is a professional learning community that brings together all of the university's residency coordinators monthly to align practices and share solutions across the seven residency...
@@ -1085,6 +1086,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Three-step district pathway design sequence: Why, What, How](why-what-how-pathway-design.md) - The toolkit structures district CS/CT pathway design as a three-step sequence.
 * [Three-step structured multimodal dialogue intervention protocol (describe, correct, solve)](three-step-multimodal-dialogue-protocol.md) - A prompting protocol for correcting LLM multimodal errors, described as follows: \"The intervention followed a three-step dialogue: (i) 'Describe what you observe in the figure/graph,' (ii) researcher correction of any...
 * [Three-territory gold-mining reinforcement learning task with hidden agents](gold-mining-hidden-agent-rl-task.md) - A developmental adaptation of the Dorfman et al.
+* [Three-tier personalization architecture for feedback selection in a dialogue-based ITS](tiered-feedback-personalization-architecture.md) - The article organizes feedback selection as three increasingly personalized Random Forest models: a BASELINE model using only \"linguistic features\" assessing hint quality in isolation (14 features), a SHALLOW PERSONAL...
 * [Three-tier train-the-trainer professional development cascade through school networks](train-the-trainer-network-pd-cascade.md) - A district-scale professional development delivery pattern in which each school network sends experienced teachers to full-day district-sponsored sessions three to four times per year; these teacher facilitators \"repl...
 * [Three-type taxonomy of newcomer schools: programs-within-a-school, transitional, and comprehensive](newcomer-school-three-type-taxonomy.md) - The report organizes newcomer schools into three structural types.
 * [Three-variant AI-assisted collaborative writing text editor](three-variant-ai-collaborative-text-editor.md) - A custom web-based text editor in which an LLM-backed artificial agent acts as a peer editor offering replacement suggestions and comments in an Editing Pane.
