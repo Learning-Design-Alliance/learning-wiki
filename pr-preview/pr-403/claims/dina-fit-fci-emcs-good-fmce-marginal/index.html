@@ -1,0 +1,125 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>DINA models fit FCI and EMCS posttest data well but fit FMCE data only marginally - Learning Design Wiki</title>
+<link rel="icon" href="../../branding/lda-monogram-dawn.svg" type="image/svg+xml">
+<link rel="stylesheet" href="../../assets/stylesheets/main.57a0d79d.min.css">
+<link rel="stylesheet" href="../../assets/stylesheets/palette.fb2fffe2.min.css">
+<link rel="stylesheet" href="../../branding/lda-theme.css">
+<style>
+.lt-header{background:var(--md-primary-fg-color);color:var(--md-primary-bg-color);padding:.6rem 1rem;font-size:.8rem}
+.lt-header a{color:inherit;text-decoration:none;margin-right:.6rem}
+.lt-header a:hover{text-decoration:underline}
+.lt-header form{display:inline;float:right}
+.lt-main{max-width:52rem;margin:0 auto;padding:1rem 1.2rem 3rem}
+</style>
+</head>
+<body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
+<script>try{var s=new URL("../../"||".",location).pathname,p=JSON.parse(localStorage.getItem(s+".__palette"));if(p&&p.color){for(var k of ["scheme","primary","accent"])if(p.color[k])document.body.setAttribute("data-md-color-"+k,p.color[k])}}catch(e){}</script>
+<header class="lt-header">
+<a class="lt-logo" href="../../"><img src="../../branding/lda-monogram-lapis.svg" alt="Learning Design Wiki"></a>
+<a href="../../claims/">Claims</a>
+<form class="lt-header-search" action="../../search/" role="search"><input name="q" type="search" placeholder="Search" aria-label="Search the wiki"></form>
+</header>
+<main class="lt-main"><article class="md-typeset" data-pagefind-body data-pagefind-filter="kind:Claim">
+<h1 id="dina-models-fit-fci-and-emcs-posttest-data-well-but-fit-fmce-data-only-marginally">DINA models fit FCI and EMCS posttest data well but fit FMCE data only marginally<a class="headerlink" href="#dina-models-fit-fci-and-emcs-posttest-data-well-but-fit-fmce-data-only-marginally" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Claim</strong> · <a href="../">All claims</a><br />
+<strong>Evidence</strong> · 1 study (2 entries) · design <code>r2</code> · <code>q2</code><br />
+<strong>Currency</strong> · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly</p>
+</blockquote>
+<h2 id="subclaims">Subclaims<a class="headerlink" href="#subclaims" title="Permanent link">&para;</a></h2>
+<details class="info">
+<summary>Reading the evidence codes</summary>
+<p><code>q</code> is the design tier, <code>i</code> the impact, <code>n</code> the sample, and the kind with its <code>r</code>
+the rigour judged within that kind: <a href="../evidence-codes/">what each code means</a>.</p>
+<p><strong>This claim:</strong> no standardized effect is recorded in <code>observations/</code> for it yet, so no benchmark reading is possible.</p>
+</details>
+<p><code>q2 i?</code> DINA models fit FCI and EMCS response data well (RMSEA2 at or below 0.05, SRMSR at or below 0.07) but not FMCE data. <a href="#vy-le-2026">→ Vy Le 2026</a></p>
+<h2 id="evidence">Evidence<a class="headerlink" href="#evidence" title="Permanent link">&para;</a></h2>
+<h3 id="vy-le-2026">Vy Le 2026<a class="headerlink" href="#vy-le-2026" title="Permanent link">&para;</a></h3>
+<p>Vy Le, Jayson M. Nissen, Jason W. Morphew, Hua Hua Chang, and Ben Van Dusen. (2026). Mechanics Cognitive Diagnostic: Testing Fine-Grained Learning Objectives in Introductory Physics. https://arxiv.org/abs/2609.09584 <a href="https://doi.org/10.48550/arxiv.2609.09584">doi:10.48550/arxiv.2609.09584</a></p>
+<p><code>q2 · i?</code> · <code>design · r2</code></p>
+<p>Analysis of cleaned LASSO posttest responses (15,371 FCI, 7,033 FMCE, 1,990 EMCS) fit separate DINA models with the refined Q-matrix. "Both assessments met the criteria for good model fit" (RMSEA2 ≤ 0.05, SRMSR ≤ 0.07).</p>
+<blockquote>
+<p>"The FCI yielded RMSEA2 = 0.033 and SRMSR = 0.055. The EMCS yielded RMSEA2 = 0.022 and SRMSR = 0.037. Both assessments met the criteria for good model fit."</p>
+</blockquote>
+<h3 id="vy-le-2026-2">Vy Le 2026 (2)<a class="headerlink" href="#vy-le-2026-2" title="Permanent link">&para;</a></h3>
+<p>Vy Le, Jayson M. Nissen, Jason W. Morphew, Hua Hua Chang, and Ben Van Dusen. (2026). Mechanics Cognitive Diagnostic: Testing Fine-Grained Learning Objectives in Introductory Physics. https://arxiv.org/abs/2609.09584</p>
+<p><code>q2 · i?</code> · <code>design · r2</code></p>
+<p>The same DINA analyses of LASSO posttest data found FMCE misfit. The authors attribute it to item blocking: "Item chaining creates local item dependence among items within each block," violating the DINA conditional independence assumption.</p>
+<blockquote>
+<p>"The FMCE yielded RMSEA2 = 0.065 and SRMSR = 0.087, falling outside the criteria (RMSEA2 ≤ 0.05, and SRMSR ≤ 0.07). These results indicate that the DINA model does not reproduce the FMCE response data as well as it does for the FCI and EMCS."</p>
+</blockquote>
+<h2 id="discussion">Discussion<a class="headerlink" href="#discussion" title="Permanent link">&para;</a></h2>
+<h2 id="related-claims">Related Claims<a class="headerlink" href="#related-claims" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="../14-lo-structure-improved-fit-over-mcd-v1/">The 14-LO attribute structure improved DINA model fit over MCD-v1's four-skill structure for all three RBAs</a> — related</li>
+<li><a href="../classification-accuracy-22-lo-combinations/">Classification accuracy met or exceeded benchmarks for 19 of 22 LO-assessment combinations, with three EMCS energy LOs below the acceptable range</a> — related</li>
+<li><a href="../energy-lo-low-accuracy-sources/">Higher item noise, shared items among conceptually nested energy LOs, and smallest sample size explain the EMCS energy LOs' low classification accuracy</a> — related</li>
+</ul>
+<details class="info">
+<summary>Page metadata</summary>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>type</code></td>
+<td><code>claim</code></td>
+</tr>
+<tr>
+<td><code>id</code></td>
+<td><code>dina-fit-fci-emcs-good-fmce-marginal</code></td>
+</tr>
+<tr>
+<td><code>title</code></td>
+<td><code>DINA models fit FCI and EMCS posttest data well but fit FMCE data only marginally</code></td>
+</tr>
+<tr>
+<td><code>description</code></td>
+<td><code>DINA models fit FCI and EMCS posttest data well but fit FMCE data only marginally</code></td>
+</tr>
+<tr>
+<td><code>status</code></td>
+<td><code>review</code></td>
+</tr>
+<tr>
+<td><code>evidence_strength</code></td>
+<td><code>moderate</code></td>
+</tr>
+<tr>
+<td><code>newest_evidence</code></td>
+<td><code>2026</code></td>
+</tr>
+<tr>
+<td><code>recheck_by</code></td>
+<td><code>2029</code></td>
+</tr>
+<tr>
+<td><code>generated</code></td>
+<td>by <code>process:wiki-ingest</code> on <code>2026-10-11</code></td>
+</tr>
+<tr>
+<td><code>trust</code></td>
+<td>unverified — no one has confirmed this page's content</td>
+</tr>
+<tr>
+<td><code>sources</code></td>
+<td>2 — <code>vy-le-2026</code>, <code>vy-le-2026-2</code></td>
+</tr>
+</tbody>
+</table>
+<p>Frontmatter is the page's machine-readable record — see the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
+</details>
+</article></main>
+<footer class="lt-footer"><span class="lda-footer-links"><a href="https://www.learningdesignalliance.org">Learning Design Alliance</a> · <a href="https://reports.learningdesignalliance.org">Research reports</a> · <a href="https://wiki.learningdesignalliance.org">Wiki</a> · <a href="https://lazuli.design">Lazuli</a></span> &copy; Learning Design Alliance — content licensed CC BY-SA 4.0 where copyright applies; pages are written largely by AI (<a href="https://wiki.learningdesignalliance.org/checks/#who-wrote-this-and-the-license">who wrote this, and the license</a>)</footer>
+<script src="../../assets/javascripts/lt-nav.js" data-root="../../" data-folder="claims"></script>
+</body>
+</html>

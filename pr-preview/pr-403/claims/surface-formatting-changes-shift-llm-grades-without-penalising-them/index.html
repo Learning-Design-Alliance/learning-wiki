@@ -1,0 +1,123 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Surface Formatting Changes Shift LLM Grades, With No Consistent Penalty Detected - Learning Design Wiki</title>
+<link rel="icon" href="../../branding/lda-monogram-dawn.svg" type="image/svg+xml">
+<link rel="stylesheet" href="../../assets/stylesheets/main.57a0d79d.min.css">
+<link rel="stylesheet" href="../../assets/stylesheets/palette.fb2fffe2.min.css">
+<link rel="stylesheet" href="../../branding/lda-theme.css">
+<style>
+.lt-header{background:var(--md-primary-fg-color);color:var(--md-primary-bg-color);padding:.6rem 1rem;font-size:.8rem}
+.lt-header a{color:inherit;text-decoration:none;margin-right:.6rem}
+.lt-header a:hover{text-decoration:underline}
+.lt-header form{display:inline;float:right}
+.lt-main{max-width:52rem;margin:0 auto;padding:1rem 1.2rem 3rem}
+</style>
+</head>
+<body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
+<script>try{var s=new URL("../../"||".",location).pathname,p=JSON.parse(localStorage.getItem(s+".__palette"));if(p&&p.color){for(var k of ["scheme","primary","accent"])if(p.color[k])document.body.setAttribute("data-md-color-"+k,p.color[k])}}catch(e){}</script>
+<header class="lt-header">
+<a class="lt-logo" href="../../"><img src="../../branding/lda-monogram-lapis.svg" alt="Learning Design Wiki"></a>
+<a href="../../claims/">Claims</a>
+<form class="lt-header-search" action="../../search/" role="search"><input name="q" type="search" placeholder="Search" aria-label="Search the wiki"></form>
+</header>
+<main class="lt-main"><article class="md-typeset" data-pagefind-body data-pagefind-filter="kind:Claim">
+<h1 id="surface-formatting-changes-shift-llm-grades-with-no-consistent-penalty-detected">Surface Formatting Changes Shift LLM Grades, With No Consistent Penalty Detected<a class="headerlink" href="#surface-formatting-changes-shift-llm-grades-with-no-consistent-penalty-detected" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Claim</strong> · <a href="../">All claims</a><br />
+<strong>Evidence</strong> · 1 study · causal <code>r?</code> · <code>q2</code><br />
+<strong>Currency</strong> · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly<br />
+<strong>Evidence quality</strong> · This claim rests on one research release that has not been peer-reviewed. Its research and writing were carried out by an AI system (Claude Code) under one human author, and its scope audit and reproduction were made by AI agents with no part in the work; no research team independent of the author has reviewed or replicated it. Treat it as a lead to check, not an established finding.</p>
+</blockquote>
+<p>In this release's evidence records and interpretation (the finding is not in its article), reformatting an answer without changing its words moved the grade a level in about two cases in five on matched answers (39%, against 25% for re-grading identical text; 17–37% across seven variants at n = 30 each), with no consistent direction across variants and no intervals. The release reads it as a shift in where the grader settles rather than a penalty for any particular style, and on matched cases it was larger than the noise of simply grading the same text twice. One model, single runs; no penalty was detected, which is not the same as showing there is none.</p>
+<h2 id="subclaims">Subclaims<a class="headerlink" href="#subclaims" title="Permanent link">&para;</a></h2>
+<details class="info">
+<summary>Reading the evidence codes</summary>
+<p><code>q</code> is the design tier, <code>i</code> the impact, <code>n</code> the sample, and the kind with its <code>r</code>
+the rigour judged within that kind: <a href="../evidence-codes/">what each code means</a>.</p>
+<p><strong>This claim:</strong> no standardized effect is recorded in <code>observations/</code> for it yet, so no benchmark reading is possible.</p>
+</details>
+<ul>
+<li>No penalty was detected for bullets, lowercase starts, or one-line-per-sentence layout: signed changes run from −0.10 to +0.22 across variants with no consistent direction, at n = 30 each and with no interval, which cannot show that any one variant's mean is zero.</li>
+<li>The movement is not merely re-sampling. On matched cases, reformatting moves the grade more than twice as far as re-grading byte-identical text does (mean absolute change 0.46 against 0.21).</li>
+<li>Averaging repeated grades did not remove it: a median of three grades left 37% of reformatted cases moving a level, against 39% for a single grade, which the release attributes to the reformat shifting the grader's centre rather than adding noise around it.</li>
+<li>Grading byte-identical text twice already lands on a different integer level about a quarter of the time, which is the floor any account of this has to start from.</li>
+</ul>
+<h2 id="evidence">Evidence<a class="headerlink" href="#evidence" title="Permanent link">&para;</a></h2>
+<h3 id="porcaro-2026">Porcaro 2026<a class="headerlink" href="#porcaro-2026" title="Permanent link">&para;</a></h3>
+<p>David S. Porcaro. (2026). Reliability, calibration and attack surface of an LLM short-answer grader, measured against three human-graded corpora. Research release ai-grader-reliability-2026 1.0.0, Learning Design Alliance. https://doi.org/10.5281/zenodo.23480844</p>
+<p><code>q2 · i?</code> · <code>causal · r?</code></p>
+<p>Layout-only edits that keep every word and its order (whitespace, one paragraph, one line per sentence, bullets, lowercased sentence starts, final punctuation, and a typo variant) applied to answers from a public, teacher-graded corpus of undergraduate computer-science answers, graded by one model against a re-grade of the byte-identical text on the same 100 answers, with a seven-variant sweep at n = 30 each and a full-corpus scan for identical answers from different students. Single runs. These results are in the release's evidence records and interpretation, not in its article. Observation record: <code>lazuli-grader-jorgpt-2026</code>.</p>
+<h2 id="discussion">Discussion<a class="headerlink" href="#discussion" title="Permanent link">&para;</a></h2>
+<p><strong>Scope of the claim.</strong> The perturbations tested preserve the words and their order exactly; only layout, capitalisation and punctuation vary. Variants that alter characters as well as layout behave about the same, so the sensitivity is not specific to whitespace. Nothing here speaks to substantive edits, where a real grade change and a noise flip are inseparable by construction.</p>
+<p><strong>Why "no penalty detected" matters as much as "it moves".</strong> The complaint a learner makes is directional — they reformatted and the mark went <em>down</em>. That happens (10–30% of cases per variant moved down), and marks also go up, with no consistent direction detected across variants. On the release's reading the fix is therefore not a formatting-invariance instruction or a style rule for learners, but not re-grading unchanged words at all.</p>
+<p><strong>The fix that follows is architectural rather than prompt-level.</strong> Key the grade on a normalised content signature — words in order, case and punctuation stripped — and return the stored grade when a learner resubmits the same words. In the measurement every layout-only variant hit such a signature, and the typo variant, which changes a word, correctly did not. It also removes the cost of the re-grade.</p>
+<p><strong>One non-obvious constraint on that fix.</strong> The cache must be keyed per learner and never shared on content alone. In the corpus measured, 2% of answers were identical text from <em>different</em> students, and the human graded 15 of those 18 groups differently — mostly crediting one and zeroing the rest. An integrity judgement is about provenance, not content, so a content-only cache would hand the credited grade to the student who was zeroed.</p>
+<p><strong>What is left over.</strong> Residual movement on genuinely edited resubmissions stays. The release's working record names two options there: a better model and showing bands rather than false-precision points.</p>
+<h2 id="related-claims">Related Claims<a class="headerlink" href="#related-claims" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="../pooling-repeated-llm-grades-does-not-improve-agreement/">Pooling repeated LLM grades does not improve agreement on short answers.</a> — the intervention this rules out, and why</li>
+<li><a href="../llm-short-answer-graders-can-reach-human-rater-agreement/">LLM short-answer graders agree with one human rater more, and the other less, than the two raters agree with each other.</a> — stability and agreement are separate properties</li>
+<li><a href="../fluent-illusions-mislead-self-assessment/">Fluent illusions mislead self-assessment.</a> — surface fluency affecting judgement, in human readers</li>
+<li><a href="../graded-exemplars-shift-an-llm-grader-by-the-level-they-are-marked-at/">Graded Exemplars Shift an LLM Grader by the Level They Are Marked At</a> — related</li>
+<li><a href="../benchmark-scores-may-not-transfer-construct-interpretation/">Benchmark success on human-designed assessments may not establish that the underlying abilities are being measured</a> — related</li>
+<li><a href="../showing-a-grader-a-learners-prior-performance-biases-the-grade/">Showing an LLM Grader a Learner's Prior Performance Biases the Grade</a> — related</li>
+<li><a href="../likelihood-prompt-beats-binary-detection/">A graded likelihood detector prompt produced more consistent separation than a binary yes/no detector prompt</a> — related</li>
+</ul>
+<details class="info">
+<summary>Page metadata</summary>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>type</code></td>
+<td><code>claim</code></td>
+</tr>
+<tr>
+<td><code>id</code></td>
+<td><code>surface-formatting-changes-shift-llm-grades-without-penalising-them</code></td>
+</tr>
+<tr>
+<td><code>title</code></td>
+<td><code>Surface Formatting Changes Shift LLM Grades, With No Consistent Penalty Detected</code></td>
+</tr>
+<tr>
+<td><code>status</code></td>
+<td><code>review</code></td>
+</tr>
+<tr>
+<td><code>newest_evidence</code></td>
+<td><code>2026</code></td>
+</tr>
+<tr>
+<td><code>recheck_by</code></td>
+<td><code>2029</code></td>
+</tr>
+<tr>
+<td><code>generated</code></td>
+<td>by <code>claude/unspecified</code> on <code>2026-10-19</code></td>
+</tr>
+<tr>
+<td><code>trust</code></td>
+<td>unverified — no one has confirmed this page's content</td>
+</tr>
+<tr>
+<td><code>sources</code></td>
+<td>1 — <code>porcaro-2026</code></td>
+</tr>
+</tbody>
+</table>
+<p>Frontmatter is the page's machine-readable record — see the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
+</details>
+</article></main>
+<footer class="lt-footer"><span class="lda-footer-links"><a href="https://www.learningdesignalliance.org">Learning Design Alliance</a> · <a href="https://reports.learningdesignalliance.org">Research reports</a> · <a href="https://wiki.learningdesignalliance.org">Wiki</a> · <a href="https://lazuli.design">Lazuli</a></span> &copy; Learning Design Alliance — content licensed CC BY-SA 4.0 where copyright applies; pages are written largely by AI (<a href="https://wiki.learningdesignalliance.org/checks/#who-wrote-this-and-the-license">who wrote this, and the license</a>)</footer>
+<script src="../../assets/javascripts/lt-nav.js" data-root="../../" data-folder="claims"></script>
+</body>
+</html>

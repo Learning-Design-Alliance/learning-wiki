@@ -1,0 +1,129 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Automated metrics and LLM judges can misalign with expert human preferences in non-verifiable educational evaluation - Learning Design Wiki</title>
+<link rel="icon" href="../../branding/lda-monogram-dawn.svg" type="image/svg+xml">
+<link rel="stylesheet" href="../../assets/stylesheets/main.57a0d79d.min.css">
+<link rel="stylesheet" href="../../assets/stylesheets/palette.fb2fffe2.min.css">
+<link rel="stylesheet" href="../../branding/lda-theme.css">
+<style>
+.lt-header{background:var(--md-primary-fg-color);color:var(--md-primary-bg-color);padding:.6rem 1rem;font-size:.8rem}
+.lt-header a{color:inherit;text-decoration:none;margin-right:.6rem}
+.lt-header a:hover{text-decoration:underline}
+.lt-header form{display:inline;float:right}
+.lt-main{max-width:52rem;margin:0 auto;padding:1rem 1.2rem 3rem}
+</style>
+</head>
+<body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
+<script>try{var s=new URL("../../"||".",location).pathname,p=JSON.parse(localStorage.getItem(s+".__palette"));if(p&&p.color){for(var k of ["scheme","primary","accent"])if(p.color[k])document.body.setAttribute("data-md-color-"+k,p.color[k])}}catch(e){}</script>
+<header class="lt-header">
+<a class="lt-logo" href="../../"><img src="../../branding/lda-monogram-lapis.svg" alt="Learning Design Wiki"></a>
+<a href="../../claims/">Claims</a>
+<form class="lt-header-search" action="../../search/" role="search"><input name="q" type="search" placeholder="Search" aria-label="Search the wiki"></form>
+</header>
+<main class="lt-main"><article class="md-typeset" data-pagefind-body data-pagefind-filter="kind:Claim">
+<h1 id="automated-metrics-and-llm-judges-can-misalign-with-expert-human-preferences-in-non-verifiable-educational-evaluation">Automated metrics and LLM judges can misalign with expert human preferences in non-verifiable educational evaluation<a class="headerlink" href="#automated-metrics-and-llm-judges-can-misalign-with-expert-human-preferences-in-non-verifiable-educational-evaluation" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Claim</strong> · <a href="../">All claims</a><br />
+<strong>Evidence</strong> · 1 study · theoretical <code>r2</code> · <code>q2</code><br />
+<strong>Currency</strong> · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly</p>
+</blockquote>
+<h2 id="subclaims">Subclaims<a class="headerlink" href="#subclaims" title="Permanent link">&para;</a></h2>
+<details class="info">
+<summary>Reading the evidence codes</summary>
+<p><code>q</code> is the design tier, <code>i</code> the impact, <code>n</code> the sample, and the kind with its <code>r</code>
+the rigour judged within that kind: <a href="../evidence-codes/">what each code means</a>.</p>
+<p><strong>This claim:</strong> no standardized effect is recorded in <code>observations/</code> for it yet, so no benchmark reading is possible.</p>
+</details>
+<p><code>q2 i?</code> In some scientific reasoning settings, LLM-based judges show preference-matching accuracy on the order of about 65% relative to expert human preferences, threatening evaluation of open-ended simulated-student behavior. <a href="#zhihao-yuan-2026">→ Zhihao Yuan 2026</a></p>
+<h2 id="evidence">Evidence<a class="headerlink" href="#evidence" title="Permanent link">&para;</a></h2>
+<h3 id="zhihao-yuan-2026">Zhihao Yuan 2026<a class="headerlink" href="#zhihao-yuan-2026" title="Permanent link">&para;</a></h3>
+<p>Zhihao Yuan, Yunze Xiao, Ming Li, Weihao Xuan, Richard Tong, Mona Diab, Tom Mitchell. (2026). Towards Valid Student Simulation with Large Language Models. https://arxiv.org/abs/2601.05473 <a href="https://doi.org/10.48550/arxiv.2601.05473">doi:10.48550/arxiv.2601.05473</a></p>
+<p><code>q2 · i?</code> · <code>theoretical · r2</code></p>
+<p>The review reports, citing Zhao et al. (2025), a broader non-verifiability crisis in which automated evaluators may fail to distinguish a student who is productively struggling from a simulator that is convincingly hallucinating. The cited study's design is not described in this article.</p>
+<blockquote>
+<p>"standard automated metrics and even LLM-based judges can misalign with expert human preferences, with reported preference-matching accuracy on the order of ∼65% in some scientific reasoning settings"</p>
+</blockquote>
+<h2 id="discussion">Discussion<a class="headerlink" href="#discussion" title="Permanent link">&para;</a></h2>
+<h2 id="related-claims">Related Claims<a class="headerlink" href="#related-claims" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="../blind-verification-no-overall-human-preference/">Blind expert verification shows no overall preference for human over LLM qualitative coding when sources are judged symmetrically</a> — related</li>
+<li><a href="../expert-leaderboards-separate-ai-tutors/">Expert tutors' lesson-planning and practice-design leaderboards separated AI models, and expert-rated practice design correlated with fewer student answer disputes</a> — related</li>
+<li><a href="../agreement-quality-divergence-human-consensus-bias/">Agreement metrics and expert quality judgments diverge in both directions: human consensus can encode shared conservative bias that the verifier rejects in favor of LLM coding</a> — related</li>
+<li><a href="../bradley-terry-model-selection-matters-more-than-source-type/">In blind verification, model selection matters more than source type: Bradley-Terry ranking interleaves human coders and LLMs, with per-model win rates spanning significant human advantage to numerical LLM advantage</a> — related</li>
+<li><a href="../educlaw-bench-judge-panel-human-validation/">The cross-family LLM judge panel agrees with human domain experts on every judged axis, reaching the expert ceiling on answer-holding</a> — reports the opposite</li>
+<li><a href="../yunyi-human-agreement-varies-by-dimension/">The automated scoring system's agreement with human raters varied widely by dimension, with information fidelity showing a weak, non-significant correlation</a> — a narrower finding that bears on this claim</li>
+<li><a href="../human-llm-judge-preference-alignment-deeptutor/">Human raters' preferences align with the LLM judge on TutorBench (Pearson r = 0.82 across metric-level win rates)</a> — reports the opposite</li>
+<li><a href="../llm-style-over-fit-uniform-deviation/">On structured pedagogical-judgment items, all evaluated models share a systematic style-over-fit deviation, converging on the same non-reference option</a> — a narrower finding that bears on this claim</li>
+<li><a href="../off-the-shelf-llms-misaligned-human-difficulty-judgments/">Off-the-shelf LLMs are systematically misaligned with human item-difficulty judgments and struggle to simulate lower-proficiency states</a> — related</li>
+<li><a href="../llm-grader-precision-recall-tradeoffs-single-metric-insufficient/">LLM graders show model-specific precision/recall trade-offs, so a single metric is insufficient to judge grading quality</a> — related</li>
+<li><a href="../expert-preferences-split-despite-c2-higher-scores/">Expert plan preferences were split, with some experts preferring the lower-scoring general-purpose plan for its social-emotional emphasis</a> — a narrower finding that bears on this claim</li>
+<li><a href="../collearn-ab-personalised-question-preference/">In blind A/B comparison, raters prefer personalised (Adaptive) questions over non-personalised (Random-topic) questions about 68–69% of the time in Biology and Chemistry</a> — related</li>
+<li><a href="../unanimous-panels-40-percent-activation-reduction/">Unanimous-fail panels alone reduced benchmark activation by approximately 40% on average for three Critical evaluators, but were insufficient on their own</a> — related</li>
+<li><a href="../deeptutor-improves-interactive-tutoring-quality-10-76/">DeepTutor improves overall first-person interactive tutoring quality by 10.76% over a Naive Tutor baseline on TutorBench</a> — related</li>
+</ul>
+<details class="info">
+<summary>Page metadata</summary>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>type</code></td>
+<td><code>claim</code></td>
+</tr>
+<tr>
+<td><code>id</code></td>
+<td><code>non-verifiability-crisis-llm-judges-misalign</code></td>
+</tr>
+<tr>
+<td><code>title</code></td>
+<td><code>Automated metrics and LLM judges can misalign with expert human preferences in non-verifiable educational evaluation</code></td>
+</tr>
+<tr>
+<td><code>description</code></td>
+<td><code>Automated metrics and LLM judges can misalign with expert human preferences in non-verifiable educational evaluation</code></td>
+</tr>
+<tr>
+<td><code>status</code></td>
+<td><code>review</code></td>
+</tr>
+<tr>
+<td><code>evidence_strength</code></td>
+<td><code>weak</code></td>
+</tr>
+<tr>
+<td><code>newest_evidence</code></td>
+<td><code>2026</code></td>
+</tr>
+<tr>
+<td><code>recheck_by</code></td>
+<td><code>2029</code></td>
+</tr>
+<tr>
+<td><code>generated</code></td>
+<td>by <code>process:wiki-ingest</code> on <code>2026-10-11</code></td>
+</tr>
+<tr>
+<td><code>trust</code></td>
+<td>unverified — no one has confirmed this page's content</td>
+</tr>
+<tr>
+<td><code>sources</code></td>
+<td>1 — <code>zhihao-yuan-2026</code></td>
+</tr>
+</tbody>
+</table>
+<p>Frontmatter is the page's machine-readable record — see the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
+</details>
+</article></main>
+<footer class="lt-footer"><span class="lda-footer-links"><a href="https://www.learningdesignalliance.org">Learning Design Alliance</a> · <a href="https://reports.learningdesignalliance.org">Research reports</a> · <a href="https://wiki.learningdesignalliance.org">Wiki</a> · <a href="https://lazuli.design">Lazuli</a></span> &copy; Learning Design Alliance — content licensed CC BY-SA 4.0 where copyright applies; pages are written largely by AI (<a href="https://wiki.learningdesignalliance.org/checks/#who-wrote-this-and-the-license">who wrote this, and the license</a>)</footer>
+<script src="../../assets/javascripts/lt-nav.js" data-root="../../" data-folder="claims"></script>
+</body>
+</html>

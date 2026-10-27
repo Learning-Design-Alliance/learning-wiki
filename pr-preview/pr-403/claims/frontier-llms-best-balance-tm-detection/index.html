@@ -1,0 +1,142 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Frontier LLMs achieve the best balance between detecting misconceptions in correct-answer cases and not over-flagging correct students, while fine-tuned local models achieve under 58% TM recall - Learning Design Wiki</title>
+<link rel="icon" href="../../branding/lda-monogram-dawn.svg" type="image/svg+xml">
+<link rel="stylesheet" href="../../assets/stylesheets/main.57a0d79d.min.css">
+<link rel="stylesheet" href="../../assets/stylesheets/palette.fb2fffe2.min.css">
+<link rel="stylesheet" href="../../branding/lda-theme.css">
+<style>
+.lt-header{background:var(--md-primary-fg-color);color:var(--md-primary-bg-color);padding:.6rem 1rem;font-size:.8rem}
+.lt-header a{color:inherit;text-decoration:none;margin-right:.6rem}
+.lt-header a:hover{text-decoration:underline}
+.lt-header form{display:inline;float:right}
+.lt-main{max-width:52rem;margin:0 auto;padding:1rem 1.2rem 3rem}
+</style>
+</head>
+<body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
+<script>try{var s=new URL("../../"||".",location).pathname,p=JSON.parse(localStorage.getItem(s+".__palette"));if(p&&p.color){for(var k of ["scheme","primary","accent"])if(p.color[k])document.body.setAttribute("data-md-color-"+k,p.color[k])}}catch(e){}</script>
+<header class="lt-header">
+<a class="lt-logo" href="../../"><img src="../../branding/lda-monogram-lapis.svg" alt="Learning Design Wiki"></a>
+<a href="../../claims/">Claims</a>
+<form class="lt-header-search" action="../../search/" role="search"><input name="q" type="search" placeholder="Search" aria-label="Search the wiki"></form>
+</header>
+<main class="lt-main"><article class="md-typeset" data-pagefind-body data-pagefind-filter="kind:Claim">
+<h1 id="frontier-llms-achieve-the-best-balance-between-detecting-misconceptions-in-correct-answer-cases-and-not-over-flagging-correct-students-while-fine-tuned-local-models-achieve-under-58-tm-recall">Frontier LLMs achieve the best balance between detecting misconceptions in correct-answer cases and not over-flagging correct students, while fine-tuned local models achieve under 58% TM recall<a class="headerlink" href="#frontier-llms-achieve-the-best-balance-between-detecting-misconceptions-in-correct-answer-cases-and-not-over-flagging-correct-students-while-fine-tuned-local-models-achieve-under-58-tm-recall" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Claim</strong> · <a href="../">All claims</a><br />
+<strong>Evidence</strong> · 1 study (2 entries) · causal <code>r?</code> · <code>q2</code><br />
+<strong>Currency</strong> · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly</p>
+</blockquote>
+<h2 id="subclaims">Subclaims<a class="headerlink" href="#subclaims" title="Permanent link">&para;</a></h2>
+<details class="info">
+<summary>Reading the evidence codes</summary>
+<p><code>q</code> is the design tier, <code>i</code> the impact, <code>n</code> the sample, and the kind with its <code>r</code>
+the rigour judged within that kind: <a href="../evidence-codes/">what each code means</a>.</p>
+<p><strong>This claim:</strong> no standardized effect is recorded in <code>observations/</code> for it yet, so no benchmark reading is possible.</p>
+</details>
+<p><code>q2 i?</code> Gemini 3 Flash reaches 83.6% TM recall with 94.0% TC recall, significantly better than fine-tuned T5 on TM detection. <a href="#moiz-imran-and-sahan-bulathwela-2026">→ Moiz Imran and Sahan Bulathwela 2026</a>
+<code>q2 i?</code> Fine-tuned T5 and BERT achieve under 58% TM recall despite near-perfect separation of correct and incorrect answers (FM recall at or above 98%). <a href="#moiz-imran-and-sahan-bulathwela-2026-2">→ Moiz Imran and Sahan Bulathwela 2026 (2)</a></p>
+<h2 id="evidence">Evidence<a class="headerlink" href="#evidence" title="Permanent link">&para;</a></h2>
+<h3 id="moiz-imran-and-sahan-bulathwela-2026">Moiz Imran and Sahan Bulathwela 2026<a class="headerlink" href="#moiz-imran-and-sahan-bulathwela-2026" title="Permanent link">&para;</a></h3>
+<p>Moiz Imran and Sahan Bulathwela. (2026). Catching TheCorrectAnswerTrap: Characterising AI Tutor Blind Spots When Analysing Student Reasoning. arXiv preprint. https://arxiv.org/abs/2605.23925 <a href="https://doi.org/10.48550/arxiv.2605.23925">doi:10.48550/arxiv.2605.23925</a></p>
+<p><code>q2 · i?</code> · <code>causal · r?</code></p>
+<p>Model comparison on the 61-case TM test set from the Eedi benchmark. The authors report Gemini 3 Flash "improves TM recall to 83.6% [72.4, 90.8]" with a significant McNemar's test over T5 (p= 0.005).</p>
+<blockquote>
+<p>"Gemini 3 Flash improves TM recall to 83.6% [72.4, 90.8] while maintaining 94.0% TC recall; the improvement over T5 is significant (McNemar's test,p= 0.005)."</p>
+</blockquote>
+<h3 id="moiz-imran-and-sahan-bulathwela-2026-2">Moiz Imran and Sahan Bulathwela 2026 (2)<a class="headerlink" href="#moiz-imran-and-sahan-bulathwela-2026-2" title="Permanent link">&para;</a></h3>
+<p>Moiz Imran and Sahan Bulathwela. (2026). Catching TheCorrectAnswerTrap: Characterising AI Tutor Blind Spots When Analysing Student Reasoning. arXiv preprint. https://arxiv.org/abs/2605.23925</p>
+<p><code>q2 · i?</code> · <code>design · r?</code></p>
+<p>Evaluation of fine-tuned T5-small and BERT-base classifiers on the Eedi test data; both models detect few true-misconception cases among correct answers, with TM recall "under 58%".</p>
+<blockquote>
+<p>"Both achieve under 58% TM recall, showing that optimisation for domi- nant labels leaves rare TM cases under-detected."</p>
+</blockquote>
+<h2 id="discussion">Discussion<a class="headerlink" href="#discussion" title="Permanent link">&para;</a></h2>
+<h2 id="related-claims">Related Claims<a class="headerlink" href="#related-claims" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="../cat-extends-to-prm800k-validation/">On the PRM800K validation dataset, detection rates dropped by 10.5 percentage points when final answers were correct, consistent with the correct answer trap extending beyond the Eedi data</a> — related</li>
+<li><a href="../collearn-misconception-mining-f1/">Mined misconception labels match personas' assigned misconceptions at F1 ≈ 0.56, a score that does not test whether generated questions elicit the named misconception</a> — related</li>
+<li><a href="../false-alarms-make-standalone-screening-impractical/">At natural TM prevalence (1.6%), even the best model generates roughly 4.3 false alarms per genuine detection, making fully automated stand-alone screening not viable on its own</a> — related</li>
+<li>Fine-tuned classifiers detect only about 57% of correct-answer misconceptions despite near-perfect wrong-answer classification — possibly the same claim (merge candidate)</li>
+<li>Standard ML interventions do not improve hidden-misconception detection beyond the fine-tuned classifier baseline — related</li>
+<li>A reasoning-capable open-weight model detects 84% of hidden misconceptions but at realistic prevalence false alarms outnumber genuine detections roughly 8 to 1 — related</li>
+<li><a href="../task-specific-prompt-beats-pedcot-prompting/">A task-specific prompt with explicit guidance about correct-answer cases significantly outperforms literature-based PedCoT prompting on TM test cases (84% vs 59% accuracy)</a> — related</li>
+<li><a href="../prompt-engineering-adaptation-transparency-tradeoff/">Adaptation through prompt injection avoids fine-tuning, so the system works with any OpenAI-compatible LLM and its logic is transparent to educators</a> — related</li>
+<li><a href="../epi2diff-best-across-four-difficulty-benchmarks/">Epi2Diff achieves the best performance across all four item-difficulty test sets and all reported metrics, outperforming SLM fine-tuning, LLM prompting, and supervised LLM adaptation baselines</a> — related</li>
+<li><a href="../gpt-models-more-rubric-errors-than-gemini/">GPT models showed lower accuracy with more rubric-related errors (28% vs. 13% for Gemini 3 Flash) and near parity between false positives and negatives</a> — related</li>
+<li><a href="../llm-assessment-outperforms-semantic-similarity-code-explanations/">LLM-based automated assessment of student code self-explanations outperforms semantic similarity methods on a balanced classification task</a> — related</li>
+<li><a href="../fine-tuning-authentic-data-improves-pedagogical-benchmarks/">Fine-tuning frontier LLMs on authentic tutoring data improves performance on all six conversational and pedagogical benchmarks, moving values toward human-tutor levels</a> — related</li>
+<li><a href="../llm-tutors-near-ceiling-optimal-poor-valid-alternative-incorrect/">LLM feedback agents classify optimal logic proof steps near-ceiling but perform poorly on valid-alternative and incorrect solutions</a> — related</li>
+<li><a href="../rhythm-error-detection-recall-91-2/">The system's error detection recall rate for complex rhythm errors was 91.2% ± 1.8%</a> — related</li>
+<li><a href="../llm-over-rejection-over-validation-patterns/">LLM feedback agents show model-specific over-rejection of valid-alternative reasoning and over-validation of incorrect solutions</a> — related</li>
+<li><a href="../llm-misconception-analysis-reveals-insights-beyond-performance-data/">LLM misconception analysis that ties student errors to instructional content reveals insights not apparent from performance data alone</a> — related</li>
+<li><a href="../gpt4-zero-shot-comparable-finetuned-classifiers/">In zero-shot evaluation, GPT-4's multi-label classification results were similar to what might be expected of fine-tuned classifiers, with SetFit and GPT-3.5 showing contrasting precision/recall patterns</a> — related</li>
+<li><a href="../t5-finetuning-average-loss-04098/">The fine-tuned T5 question-extraction model reached an average training loss of 0.4098, indicating imperfect question extraction</a> — related</li>
+<li><a href="../400-proofs-sufficient-training/">About 400 labeled proofs are sufficient for adequate autograding performance</a> — related</li>
+</ul>
+<details class="info">
+<summary>Page metadata</summary>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>type</code></td>
+<td><code>claim</code></td>
+</tr>
+<tr>
+<td><code>id</code></td>
+<td><code>frontier-llms-best-balance-tm-detection</code></td>
+</tr>
+<tr>
+<td><code>title</code></td>
+<td><code>Frontier LLMs achieve the best balance between detecting misconceptions in correct-answer cases and not over-flagging correct students, while fine-tuned local models achieve under 58% TM recall</code></td>
+</tr>
+<tr>
+<td><code>description</code></td>
+<td><code>Frontier LLMs achieve the best balance between detecting misconceptions in correct-answer cases and not over-flagging correct students, while fine-tuned local models achieve under 58% TM recall</code></td>
+</tr>
+<tr>
+<td><code>status</code></td>
+<td><code>review</code></td>
+</tr>
+<tr>
+<td><code>evidence_strength</code></td>
+<td><code>moderate</code></td>
+</tr>
+<tr>
+<td><code>newest_evidence</code></td>
+<td><code>2026</code></td>
+</tr>
+<tr>
+<td><code>recheck_by</code></td>
+<td><code>2029</code></td>
+</tr>
+<tr>
+<td><code>generated</code></td>
+<td>by <code>process:wiki-ingest</code> on <code>2026-10-10</code></td>
+</tr>
+<tr>
+<td><code>trust</code></td>
+<td>unverified — no one has confirmed this page's content</td>
+</tr>
+<tr>
+<td><code>sources</code></td>
+<td>2 — <code>moiz-imran-and-sahan-bulathwela-2026</code>, <code>moiz-imran-and-sahan-bulathwela-2026-2</code></td>
+</tr>
+</tbody>
+</table>
+<p>Frontmatter is the page's machine-readable record — see the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
+</details>
+</article></main>
+<footer class="lt-footer"><span class="lda-footer-links"><a href="https://www.learningdesignalliance.org">Learning Design Alliance</a> · <a href="https://reports.learningdesignalliance.org">Research reports</a> · <a href="https://wiki.learningdesignalliance.org">Wiki</a> · <a href="https://lazuli.design">Lazuli</a></span> &copy; Learning Design Alliance — content licensed CC BY-SA 4.0 where copyright applies; pages are written largely by AI (<a href="https://wiki.learningdesignalliance.org/checks/#who-wrote-this-and-the-license">who wrote this, and the license</a>)</footer>
+<script src="../../assets/javascripts/lt-nav.js" data-root="../../" data-folder="claims"></script>
+</body>
+</html>
