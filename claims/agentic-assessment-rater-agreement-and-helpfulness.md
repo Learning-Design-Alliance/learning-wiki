@@ -74,3 +74,4 @@ The review reports, citing Kaldaras et al., a controlled classroom deployment wi
 - [An LLM-based AI Evaluator agrees with expert human raters on collaboration transcripts at a level similar to inter-expert agreement](llm-evaluator-agreement-matches-expert-raters.md) — a broader claim this one bears on
 - [GPT-4 demonstrated higher reliability of feedback than GPT-3.5, with higher F1 agreement with instructors on most assessment aspects](gpt4-higher-polarity-reliability-than-gpt35.md) — related
 - [State-of-the-art conversational agents (Blender and GPT-3) replied adequately to students but were well behind human performance in helping the student (reported from a dialogue study)](conversational-agents-behind-human-helping-students.md) — related
+- [A heuristic for assigning blame to rules behind incorrect steps agreed with human coders at kappa=0.78](heuristic-blame-assignment-kappa-078.md) — related

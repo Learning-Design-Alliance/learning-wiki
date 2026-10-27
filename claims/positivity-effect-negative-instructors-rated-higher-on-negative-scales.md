@@ -87,3 +87,4 @@ Follow-up ANOVA on frustrated-instructor ratings showed the valence effect was m
 - [Participants detected emotional valence but did not distinguish between discrete emotions of the same valence](valence-detected-without-discrete-emotion-distinction.md) — related
 - [Participants rated happy and content instructors higher on positive than negative emotion scales, supporting the positivity hypothesis](positivity-effect-positive-instructors-rated-higher-on-positive-scales.md) — related
 - [Voice alone conveys the emotional tone of happy, content, and bored instructors as accurately as voice plus an embodied onscreen agent](voice-alone-conveys-happy-content-bored-emotion.md) — related
+- [Suggesting the SPP at detected boredom did not change its use: students were almost never bored, so SPP use was not reliably different between conditions](spp-boredom-suggestion-null.md) — related

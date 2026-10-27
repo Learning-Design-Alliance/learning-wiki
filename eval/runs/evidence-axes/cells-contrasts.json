@@ -46050,5 +46050,41 @@
  "scaffolding\tadaptive peer-tutoring support\tfixed peer-tutoring support": {
   "label": "Adaptive peer-tutoring support vs fixed peer-tutoring support",
   "treatment_is_a": true
+ },
+ "case-comparison\tcomparing decisions with other teachers' reflections\tparticipants' original decisions before comparison": {
+  "label": "comparison with others' decisions vs original decisions only",
+  "treatment_is_a": true
+ },
+ "example-problem-sequencing\tEBT adaptive problem selection\trandom problem selection within a knowledge unit": {
+  "label": "adaptive problem selection vs random problem selection",
+  "treatment_is_a": true
+ },
+ "fading\tunscaffolded fadeout phase\tscaffolded learning phase": {
+  "label": "faded scaffolding vs persistent scaffolding",
+  "treatment_is_a": true
+ },
+ "prompts\tCEBLE five-step structured reflection cycle\treflection without zooming in on situations or comparing solutions with others": {
+  "label": "structured reflection prompts vs unstructured reflection prompts",
+  "treatment_is_a": true
+ },
+ "prompts\tSPP suggestions triggered by detected boredom\tSPP available through a button": {
+  "label": "automatically triggered prompts vs on-demand prompts",
+  "treatment_is_a": true
+ },
+ "prompts\tfive-step structured reflection cycle with comparison of teachers’ perspectives\treflection without zooming in on situations or comparing solutions": {
+  "label": "structured reflection prompts vs unstructured reflection prompts",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tMFR training\tnon-MFR students": {
+  "label": "retrieval practice vs no retrieval practice",
+  "treatment_is_a": true
+ },
+ "simulation\tsynthetic cultural environments combined with classroom instruction\tnot stated": {
+  "label": "simulation-enhanced instruction vs no simulation",
+  "treatment_is_a": true
+ },
+ "simulation\tsynthetic cultural environments combined with suitable classroom instruction\tnot stated": {
+  "label": "simulation-enhanced instruction vs no simulation",
+  "treatment_is_a": true
  }
 }

@@ -53,3 +53,4 @@ In the same randomized trial (n = 139), Tukey follow-up comparisons found no dif
 - [MD-only students outperform MDRD students in fact retrieval skill overall](md-only-outperform-mdrd-fact-retrieval.md) — related
 - [Procedural computation/estimation tutoring does not improve automatic fact retrieval](procedural-tutoring-no-fact-retrieval-gain.md) — related
 - [Adding conceptual instruction to fact retrieval practice yields no additional fact retrieval benefit](conceptual-instruction-no-added-fact-retrieval-benefit.md) — related
+- [Math fact retrieval (MFR) fluency training before Wayang tutoring improved math learning (Wayang vs. no-Wayang d = 0.39), with the Wayang-MFR combination scoring highest](mfr-fluency-training-improves-learning.md) — related

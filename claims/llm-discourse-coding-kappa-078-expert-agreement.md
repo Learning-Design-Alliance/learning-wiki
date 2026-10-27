@@ -57,3 +57,4 @@ Reliability validation of the LLM coding pipeline: an expert independently coded
 - The qualitative coding achieved 82% exact interrater agreement, indicating acceptable reliability — related
 - [Human inter-rater agreement for FRISCO essay scoring was reliable, with mean kappa 0.78–0.84 and percentage of agreement above 75% in all six dimensions](frisco-rater-agreement-reliable.md) — related
 - [A multimodal LLM achieves moderate-to-substantial agreement with human consensus on well-defined CT practices but lower agreement on multi-component constructs like Physics Correctness and Systems Thinking](llm-human-agreement-ct-practices.md) — related
+- [A heuristic for assigning blame to rules behind incorrect steps agreed with human coders at kappa=0.78](heuristic-blame-assignment-kappa-078.md) — related

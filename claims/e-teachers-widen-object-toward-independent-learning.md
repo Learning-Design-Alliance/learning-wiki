@@ -70,3 +70,4 @@ In the Findings (Object section), one e-teacher's interview statement describes 
 - [Blended teaching shifted the teacher's self-identity from facilitator to co-facilitator and co-designer with students](blended-teaching-shifts-identity-to-co-facilitator.md) — related
 - [Discussion promotes more active thinking than lecture, though lecture is no worse for transmitting information](discussion-promotes-more-active-thought-than-lecture.md) — related
 - [Online peer assessment shifts instructional assessment from teacher-controlled to a combination of teacher assessment and student peer assessment](online-peer-assessment-shifts-assessment-control-to-students.md) — related
+- [Across TARDIS's three project stages, practitioners' roles progressed from willing informants to advisors and co-designers, and ultimately to independent lead-practitioners](tardis-practitioner-role-progression.md) — related

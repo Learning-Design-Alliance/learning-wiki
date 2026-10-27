@@ -60,9 +60,11 @@ Guided Math operationalizes [formative assessment](../patterns/formative-assessm
 5. Use observation notes from group time to re-form groups and plan the next cycle.
 
 ## Related Strategies
+
 - [Cognitively Guided Instruction](cognitively-guided-instruction.md) — a research program informing how teachers elicit and build on student strategies in small groups
 - [Station Rotation](station-rotation.md) — the general classroom structure Guided Math adapts
 - [Formative Assessment Loops](formative-assessment-loops.md) — the assessment cycle that drives group formation
+- [Use real-time teacher reports of skill-level strengths and weaknesses to guide whole-class and small-group follow-up](real-time-teacher-reports-skill-weaknesses.md)
 
 ## Examples
 - **Laney Sammons' *Guided Math* framework (2010)** — the widely adopted elementary model with a "Nuts and Bolts" board, math stretch warm-ups, and three rotating groups ([overview](https://www.solutiontree.com/guided-math.html))

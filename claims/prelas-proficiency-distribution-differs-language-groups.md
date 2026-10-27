@@ -51,3 +51,4 @@ Descriptive comparison of PreLAS English screening score distributions in the un
 - [Sequential bilinguals score significantly below monolinguals on English vocabulary even with conceptual scoring and SES controlled](sequential-bilinguals-gap-persists-conceptual-scoring.md) — related
 - [After propensity score matching, no bilingual-monolingual differences appear on performance-based measures of working memory or cognitive flexibility in kindergarten](psm-no-bilingual-advantage-performance-based-ef.md) — related
 - [After propensity score matching, bilingual kindergarteners show greater teacher-rated inhibitory control than matched monolinguals, and this effect is robust to unmeasured confounds](psm-bilingual-advantage-teacher-rated-inhibitory-control.md) — related
+- [Stabilized IPTW achieved covariate balance on all variables, outperforming unstabilized IPTW, and was used for effect estimation](siptw-superior-balance-for-time-varying-treatment.md) — related

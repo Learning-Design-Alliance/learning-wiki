@@ -70,3 +70,4 @@ Analysis of propensity score logit distributions (Figure 3) shows the remaining 
 - [An adapted SimCalc intervention in Florida produced strong learning gains (ES = 1.09), significantly higher posttests than predicted from the Texas control group](simcalc-florida-extension-gains.md) — related
 - [An adapted SimCalc linear-function unit in England produced significant posttest gains versus Texas-control predictions (ES = 0.57), with no significant gain differences by poverty or prior achievement](simcalc-uk-extension-gains.md) — related
 - [SimCalc replacement units produced statistically significant pretest-to-posttest gains in conceptual understanding with student-level effect sizes of .63, .50, and .56 in three Texas experiments](simcalc-texas-experiments-effect-sizes.md) — related
+- [One year of Utah Compose exposure raised students' SAGE ELA scale scores by 9.14 points (ES = 0.12) versus no exposure](uc-one-year-ela-ate-9-points.md) — related

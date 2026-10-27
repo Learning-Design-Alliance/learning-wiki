@@ -46,3 +46,5 @@ The paper cites the special issue by Ogan and Johnson as evidence that tutoring 
 
 ## Related Claims
 - [Reviewed literature identifies personalisation, adaptive support, rapid feedback, and teacher-facing automation as recurring pedagogical opportunities of AI in mathematics education](ai-math-pedagogical-opportunities-personalisation-feedback.md) — related
+- [Computer sharing accounts for over 60% of Cognitive Tutor use in developing areas, and multi-input shared-device designs reduce cost-per-student](hardware-sharing-prevalent-developing-areas.md) — related
+- [Help-seeking skill models built from ITS practice data were not transferable across Costa Rican, Philippine, and US contexts (reported by Ogan et al., 2014)](help-seeking-models-not-transferable-across-cultures.md) — a narrower finding that bears on this claim

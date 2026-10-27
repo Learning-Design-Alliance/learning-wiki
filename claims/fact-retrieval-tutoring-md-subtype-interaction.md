@@ -55,3 +55,4 @@ Randomized controlled trial of 139 third graders blocked by site and MD subtype 
 - [MD-only third graders in fact retrieval tutoring outperform PROC/E and control students on fact retrieval](md-only-fact-retrieval-tutoring-gains.md) — related
 - [Treatment effects were not moderated by emergent bilingual status, pretest levels, or tutoring attendance](no-treatment-moderators-eb-pretest-attendance.md) — related
 - [Procedural computation/estimation tutoring does not improve automatic fact retrieval](procedural-tutoring-no-fact-retrieval-gain.md) — related
+- [Math fact retrieval (MFR) fluency training before Wayang tutoring improved math learning (Wayang vs. no-Wayang d = 0.39), with the Wayang-MFR combination scoring highest](mfr-fluency-training-improves-learning.md) — related

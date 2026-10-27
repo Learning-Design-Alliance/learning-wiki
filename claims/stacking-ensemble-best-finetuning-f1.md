@@ -54,3 +54,4 @@ Fine-tuning experiment evaluating 120 stacking combinations by F1-score during t
 - [Machine learning methods outperformed logistic regression in classification accuracy across reviewed studies](ml-outperforms-logistic-regression-aied.md) — related
 - [k-nearest neighbours achieves the highest recall of the tested models, making it better suited when identifying which students know a topic matters](knn-highest-recall-for-identifying-students.md) — related
 - [Rank-averaged ensembling stabilized predictions but did not outperform the single base model](ensemble-stabilizes-but-not-better-than-model1.md) — related
+- [Eye tracking data can predict specific student difficulties in graphical differentiation tasks as a multiclass classification problem](gaze-prediction-specific-math-difficulties-multiclass.md) — related

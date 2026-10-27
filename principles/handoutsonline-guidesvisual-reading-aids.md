@@ -155,6 +155,7 @@ Comprehension with the aid, comprehension of a new text without it, delayed rete
 - **Visual glosses and cueing**: Key vocabulary, symbols, or process markers are visually highlighted to support comprehension.
 - **Structured note guides**: Learners receive a partial outline or concept frame to complete while reading or listening.
 - [Guide and time generative learning activities to overcome barriers to sense-making](../strategies/guide-and-time-glas-strategy.md)
+- [Annotate only words that the knowledge graph can explain, to avoid overwhelming readers with redundant glosses](../strategies/smart-annotation-only-explainable-words.md)
 
 ## Key Sources
 - Carlson, R., Padron, K., & Andrews, C. (2018). Evidence-based instructional strategies for adult learners: A review of the literature. *Codex, 4*(4), 29-47.

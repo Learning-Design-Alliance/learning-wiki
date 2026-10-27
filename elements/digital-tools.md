@@ -13,7 +13,7 @@ generated:
 # Digital Tools
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 46 claims (23 for, 20 mixed, 3 against) · 44 studies (11 review, 10 associational, 6 theoretical, 5 causal, 5 quant-synthesis, 4 design, 3 qualitative), `q1`–`q4` · 6 of 44 report an effect size · 45 claims rest on one study
+> **Evidence** · 47 claims (24 for, 20 mixed, 3 against) · 45 studies (11 review, 10 associational, 6 causal, 6 theoretical, 5 quant-synthesis, 4 design, 3 qualitative), `q1`–`q4` · 6 of 45 report an effect size · 46 claims rest on one study
 
 ## Description
 Digital tools are the element in which learners use software, platforms, or digital applications to create, collaborate, practice, or receive feedback. They are useful when a tool meaningfully extends what learners can do.
@@ -81,6 +81,7 @@ Digital tools are the element in which learners use software, platforms, or digi
 - [Most ITS-versus-teacher studies in K-12 report a positive effect of ITSs on student performance, with medium-to-large effect sizes](../claims/its-vs-teacher-k12-positive-effects.md) [+W]
 - [In a randomized experiment in China, EdTech and paper workbook exercises of equal time and content had the same effect on math test scores and grades](../claims/edtech-equal-substitute-china-experiment.md) [-W]
 - [Skills gained from GenAI integration vary with teaching methodology, tool choice, and assessment methods, with student performance varying by engagement level](../claims/genai-skills-vary-by-methodology-engagement.md) [~W]
+- [ChatGPT-based training produced significantly higher ADAS activation accuracy than conventional video-and-manual training for the LKA, CA and ACC functions](../claims/chatgpt-training-higher-adas-accuracy-than-conventional.md) [+M] — attached 2026-10-27 from Murtaza et al. (2024), which proposed "ChatGPT-based interactive user manual for training drivers on ADAS and AV functions".
 
 ## The evidence by question
 - *Does putting instruction on a digital medium change learning by itself, or only through the method, time and teaching it carries?* [Media comparison studies produce uninterpretable "no significant difference" findings.](../claims/media-comparison-studies-produce-uninterpretable-results.md) [+M]

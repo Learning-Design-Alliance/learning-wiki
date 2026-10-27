@@ -71,3 +71,4 @@ RQ2 model-level comparison across all prompting strategies and datasets (Table 3
 - [LLM diagnostic performance drops sharply when student responses contain vague rather than evident evidence](vague-evidence-degrades-llm-diagnosis.md) — related
 - [In one essay-feedback system, fine-tuned models produced no usable deep-level feedback output, so only directly prompted LLMs were evaluated; the authors suggest prompting may be more effective than supervised fine-tuning for this task](sft-less-effective-than-prompting-for-feedback-generation.md) — reports the opposite
 - [Transfer between two specific datasets is asymmetric: Sangodiah-trained models transfer unusually well to Gani questions](sangodiah-gani-asymmetric-transfer.md) — related
+- [The fine-tuned T5 question-extraction model reached an average training loss of 0.4098, indicating imperfect question extraction](t5-finetuning-average-loss-04098.md) — related

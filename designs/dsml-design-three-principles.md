@@ -40,7 +40,8 @@ The article's design framework rests on three principles the authors name explic
 - Learning By Modeling Framework [+M]
 
 ## Related Designs
-- 
+
+- [Four-step educational DSML design process mapping curriculum learning objectives to modeling-language constructs](four-step-dsml-design-process.md)
 
 ## Examples
 -

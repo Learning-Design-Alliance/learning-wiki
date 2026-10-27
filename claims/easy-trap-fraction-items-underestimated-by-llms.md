@@ -77,3 +77,4 @@ Figure 2 comparison of LLM-predicted versus empirical IRT difficulty shows non-f
 - Only 25% of US Grade 4 students identified the fraction closest to 1/2 on the 2009 NAEP test — related
 - [LLMs show a systematic optimism bias in knowledge tracing, predicting far more accurately for students who answer correctly than for those who answer incorrectly](llm-optimism-bias-knowledge-tracing.md) — related
 - [Direct LLM estimation accuracy varies by grade, performing worse for early grades; math grade K was worse than the dummy regressor and math grade 1 showed no significant prediction](direct-llm-accuracy-varies-by-grade-early-grades-worse.md) — related
+- [Classification accuracy correlated with student performance: the classifier was more accurate on questions with more high-quality answers and less accurate where students struggled](classifier-accuracy-correlates-with-student-performance.md) — related

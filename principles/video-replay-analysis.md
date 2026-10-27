@@ -30,7 +30,7 @@ sources:
 # Video Replay Analysis
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 25 claims (15 for, 10 mixed) · 28 studies (10 qualitative, 4 quant-synthesis, 4 review, 3 causal, 3 theoretical, 2 associational, 2 design), `q1`–`q4` · 4 of 28 report an effect size · 21 claims rest on one study
+> **Evidence** · 26 claims (16 for, 10 mixed) · 29 studies (10 qualitative, 5 review, 4 quant-synthesis, 3 causal, 3 theoretical, 2 associational, 2 design), `q1`–`q4` · 4 of 29 report an effect size · 22 claims rest on one study
 
 ## Conditional relationship
 
@@ -152,6 +152,7 @@ Noticing in a recording, explaining it, the next performance and lasting change 
 - [Findings suggest VR-mediated mentoring with 360VR supports newly qualified teachers' noticing, classroom management competencies and self-efficacy](../claims/abc-vr-mentoring-supports-teacher-noticing-self-efficacy.md) [+W]
 - [Most simulation participants preferred high-tech video-assisted debriefing over lower-tech VAD and verbal debriefing, mainly for its better audio/video quality and focused review](../claims/participants-prefer-high-tech-vad-debriefing.md) [+W]
 - [All interviewed facilitators preferred video-assisted debriefing over verbal debriefing because video allowed precise, objective feedback whose credibility was not restricted by facilitator hierarchy](../claims/facilitators-prefer-vad-objective-feedback.md) [+W]
+- [A five-step structured video-based reflection cycle led teachers to produce substantially more new and more specific solutions than a vicarious-reflection control condition](../claims/ceble-structured-reflection-more-specific-solutions.md) [+W]
 
 ## Related Principles
 - [Purposeful Reflection](reflection.md) — replay provides concrete evidence for reflection instead of relying on memory alone.

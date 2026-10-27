@@ -50,3 +50,4 @@ Individual interviews with the five facilitators of the SIMMed training cycle. F
 - [High-tech VAD equipment made some participants feel under observation and stressed, and viewing recorded mistakes before teammates was seen as critical in both VAD forms, a potential threat to psychological safety](vad-stress-psychological-safety-threat.md) — related
 - [Most simulation participants preferred high-tech video-assisted debriefing over lower-tech VAD and verbal debriefing, mainly for its better audio/video quality and focused review](participants-prefer-high-tech-vad-debriefing.md) — related
 - [Video-assisted debriefing enhances precision but risks psychological safety and narrows reflection to individual performance](video-debriefing-precision-safety-tradeoffs.md) — related
+- [Reflections immediately following the events of interest facilitate greater and more situated recall and precision](immediate-reflection-situated-recall.md) — related

@@ -13,7 +13,7 @@ generated:
 # Arithmetic Fact Retrieval
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 34 claims (20 show a difference, 6 mixed, 8 no difference) · 13 studies (9 associational, 4 causal), `q2`–`q3` · 3 of 13 report an effect size · 32 claims rest on one study
+> **Evidence** · 35 claims (20 show a difference, 7 mixed, 8 no difference) · 14 studies (9 associational, 5 causal), `q2`–`q3` · 4 of 14 report an effect size · 33 claims rest on one study
 
 ## Description
 Arithmetic fact retrieval is the ability to pull basic number combinations (3 + 4, 6 × 7) from long-term memory efficiently, accurately and flexibly, rather than working them out each time, so that they can be used inside larger calculations. It is usually assessed by having learners solve simple problems while their strategy is observed or self-reported (did they retrieve the answer or count it out?), and, for a fuller picture of accuracy, flexibility and efficiency, through interviews, observations and short untimed quizzes.
@@ -71,6 +71,7 @@ Facts are usually in place by the end of primary school, but the Learner Variabi
 - [Numerical abilities and serial retrieval fluency predict third-grade multiplication fluency, while working memory shows no significant association in the baseline model](../claims/numerical-abilities-retrieval-fluency-predict-multiplication-baseline.md) [+M] — learners who differ on it differ in outcomes
 - [Brief passive reactivations induce significant learning gains in numeric fact recall at retest 8 days after encoding](../claims/reactivations-induce-numeric-fact-learning-gains.md) [+M] — instruction changes it
 - [Standard active-retrieval practice produces larger absolute learning gains than brief reactivations, though at far greater practice time](../claims/standard-practice-larger-gains-than-reactivations.md) [+M] — instruction changes it
+- [Math fact retrieval (MFR) fluency training before Wayang tutoring improved math learning (Wayang vs. no-Wayang d = 0.39), with the Wayang-MFR combination scoring highest](../claims/mfr-fluency-training-improves-learning.md) [~W] — an instructional effect differs with it
 
 ## Measures
 - **Open-ended formats** (Kling & Bay-William, 2014): Using a range of measures including student interviews, observations, writing prompts, and short, untimed quizzes around solving simple arithmetic problems can help capture students' accuracy, flexibility, and efficiency which are core components of Arithmetic Fact Retrieval.

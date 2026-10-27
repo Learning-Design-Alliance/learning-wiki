@@ -47,3 +47,4 @@ Benchmark construction described in Section 3.2: "The test set contains 108 inst
 ## Related Claims
 - [LLM-generated robot control code succeeds on 100%, 94.4%, and 88.9% of simple, composite, and complex instructions respectively](llm-code-success-rate-declines-with-instruction-difficulty.md) — related
 - [A single natural-language command can be decomposed by an LLM into coordinated sequential action sequences for multiple robots](llm-decomposes-command-into-multi-robot-action-sequences.md) — related
+- [A gradient-matching algorithm decomposes almost any composite student equation into primitive physics equations](shapiro-equation-decomposition-algorithm.md) — related

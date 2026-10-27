@@ -50,3 +50,4 @@ Study 2 (n = 20) collected concurrent think-aloud protocols and retrospective in
 - [Self-report factors correlate weakly with metacognitive behavior while within-factor subcomponent correlations are larger, per studies reviewed for the meta-analysis](self-report-factors-weakly-relate-to-behavior.md) — related
 - [Think-aloud reports are incomplete and sometimes nonveridical, particularly for metacognitive processes](think-aloud-veridicality-incomplete-reports.md) — related
 - [After high-confidence errors, resolving the discrepancy with additional information produced enjoyment, while failure to resolve it produced frustration](discrepancy-resolution-drives-enjoyment-or-frustration.md) — related
+- [Educators confirmed the ecological validity of the physiological findings and identified scenario discrepancy and practical utility themes](educators-confirm-ecological-validity-physiological-findings.md) — related

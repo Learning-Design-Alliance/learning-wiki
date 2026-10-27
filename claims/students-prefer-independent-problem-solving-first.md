@@ -54,3 +54,4 @@ Pre-experiment questionnaire of the main study's fifteen undergraduate computing
 - [Sequencing independent task engagement before LLM consultation is associated with stronger student outputs](independent-work-before-llm-stronger-outputs.md) — related
 - [K-12 learners preferred incremental hints and multiple attempts over immediately revealed solutions](learners-prefer-incremental-hints-over-solutions.md)
 - [Not requesting any hints in at least one problem is related to greater wheel-spinning, consistent with help avoidance](hint-avoidance-related-greater-wheel-spinning.md) — related
+- [Unsolicited hints and meta-hints raised first-attempt correctness by d=0.682 and problem completion by d=0.727](unsolicited-meta-hints-effect-sizes.md) — related

@@ -25,7 +25,7 @@ sources:
 # Debriefing
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 23 claims (15 for, 7 mixed, 1 against) · 39 studies (11 causal, 11 quant-synthesis, 8 review, 4 qualitative, 2 associational, 2 theoretical, 1 design), `q1`–`q4` · 9 of 39 report an effect size · 12 claims rest on one study
+> **Evidence** · 24 claims (16 for, 7 mixed, 1 against) · 40 studies (11 causal, 11 quant-synthesis, 9 review, 4 qualitative, 2 associational, 2 theoretical, 1 design), `q1`–`q4` · 9 of 40 report an effect size · 13 claims rest on one study
 
 ## Conditional relationship
 
@@ -153,6 +153,7 @@ A good debrief conversation, a correct stated change, the next performance, dela
 - [All interviewed facilitators preferred video-assisted debriefing over verbal debriefing because video allowed precise, objective feedback whose credibility was not restricted by facilitator hierarchy](../claims/facilitators-prefer-vad-objective-feedback.md) [~W]
 - [In the debriefings, students who observed a scenario via live video join facilitators in attempts to reconceptualise the experiences expressed by scenario participants, using audiovisual appearances as a resource](../claims/peer-students-reconceptualisation-supported.md) [+W]
 - [Implementing VAD raised facilitator cognitive demand, debriefing time, and attention competition with the video, with segment-search time greater in lower-tech VAD](../claims/vad-implementation-costs-facilitator-cognitive-load.md) [~W]
+- [Reflections immediately following the events of interest facilitate greater and more situated recall and precision](../claims/immediate-reflection-situated-recall.md) [+W]
 
 ## Related Principles
 - [Purposeful Reflection](reflection.md) — debriefing is one of the most structured forms of reflection after action

@@ -53,3 +53,4 @@ The statement assembles published figures from UNICEF, UNESCO, and others to cha
 - [Learning deficits are appreciably larger in middle-income countries than in high-income countries, with no evidence available from low-income countries](covid-deficits-larger-middle-income-countries.md) — related
 - [Research on generative AI in secondary STEM education is concentrated in the Global North, with 73% of affiliations and the United States accounting for 30% of publications](global-north-concentration-generative-ai-stem-research.md) — related
 - [Computing education has historically excluded marginalized student populations, and large inequities in access persist](computing-education-historic-exclusion-inequity.md) — related
+- [Country GDP strongly correlates with the number of ITS research papers a country produces (r=0.88, p<0.001)](gdp-correlates-its-publication-output.md) — related

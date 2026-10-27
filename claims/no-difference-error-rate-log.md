@@ -54,3 +54,4 @@ Exploratory log-data analysis from all 252 participating students found error ra
 - [Hint Factory MDP-generated hints gave correct next-step hints over 80% of the time and a pilot showed students solved more logic proofs with hints](hint-factory-mdp-hints-effective.md) — related
 - [Self-explanation support did not change Answer-item performance even though the explanation condition completed only half as many problems](answer-items-no-difference-self-explanation-tutor.md) — related
 - [Students in the combined condition tended to make fewer errors and request fewer hints over time than students in individual-only or collaborative-only conditions](combined-condition-fewer-errors-and-hints.md) — reports the opposite
+- [Unsolicited hints and meta-hints raised first-attempt correctness by d=0.682 and problem completion by d=0.727](unsolicited-meta-hints-effect-sizes.md) — related

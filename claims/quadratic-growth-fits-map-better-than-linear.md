@@ -60,3 +60,4 @@ Nested model comparisons of linear versus quadratic MLGM fitted to MAP reading a
 - [Math achievement growth from preschool through second grade is best characterized by a latent basis curve rather than linear, exponential, or quadratic functions](latent-basis-best-fit-math-growth.md) — related
 - [Common and exceptional problems elicit distinct speed-accuracy profiles: curvilinear for common problems versus linear for exceptional problems, converging in older and higher-achieving students](speed-accuracy-profiles-differ-by-problem-type.md) — related
 - [Behavioral learning curves in a procedural working memory task are better fit by an exponential model than a linear model across five training sessions](exponential-model-behavioral-procedural-learning-curves.md) — related
+- [Students' ELA growth over the four years followed a logarithmic pattern, selected over a quadratic model by AIC](ela-growth-logarithmic-pattern-utah-cohorts.md) — related

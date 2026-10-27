@@ -50,6 +50,7 @@ The summary describes a multi-channel support model so teachers can implement th
 - [Multi-layer coach training and support system: coach camp, paired mentoring, ongoing webinars, and coach-the-coach sessions](vils-coach-training-support-system.md)
 - [Provide customized, multi-mode professional development for teachers implementing DreamBox Math](dreambox-customized-multimode-professional-development.md)
 - [Customer-specific professional development and implementation plan identifying targeted students](achieve3000-implementation-plan-pd.md)
+- [Center teacher professional development on machine learning platforms so teachers can use AI in classrooms](pd-machine-learning-platform-stem-teachers.md)
 
 ## Examples
 -

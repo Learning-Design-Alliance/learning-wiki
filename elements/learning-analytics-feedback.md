@@ -13,7 +13,7 @@ generated:
 # Learning Analytics-Driven Feedback
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 60 claims (23 for, 28 mixed, 9 against) · 52 studies (16 review, 15 associational, 8 theoretical, 5 design, 4 causal, 4 qualitative), `q1`–`q3` · 4 of 52 report an effect size · 57 claims rest on one study
+> **Evidence** · 64 claims (23 for, 29 mixed, 12 against) · 54 studies (17 review, 16 associational, 8 theoretical, 5 design, 4 causal, 4 qualitative), `q1`–`q3` · 4 of 54 report an effect size · 61 claims rest on one study
 
 ## Description
 In face-to-face instruction, a teacher can visually notice disengagement or confusion; a distance instructor cannot, and many learners fail to recognize their own need for help or fail to seek it even when it is available ([Baker & Inventado, 2016](https://edtechbooks.org/lidtfoundations/educational_data_mining_and_learning_analytics)). Educational data mining (EDM) and learning analytics (LA) address this by mining the large amounts of interaction data online and distance courses generate — content-management, discussion-forum, gradebook, and clickstream data — to build models that predict which learners are at risk and to surface feedback that would otherwise depend on an instructor noticing in person.
@@ -106,6 +106,10 @@ These models feed three uses that benefit learners directly: **automated feedbac
 - [The teacher remains central to linking learning analytics with appropriate educational action](../claims/teacher-central-linking-analytics-to-action.md) [+W]
 - [Laboratory-identified behavioural markers of states such as confusion can, with care, indicate the same state in real online learning environments](../claims/lab-behavioural-markers-transfer-online.md) [~W]
 - [Course-specific prediction models may outperform institution-wide one-size-fits-all models because instructional conditions vary](../claims/course-specific-models-over-institutional-models.md) [~W]
+- [Important keystroke features for classifying at-risk writers differ by stage: early models emphasize focus shifts and initial pause, later models emphasize inter-keystroke-interval variance](../claims/feature-importance-shifts-across-writing-stages.md) [~W]
+- [Keystroke-feature regression models fail to predict final writing grade at any point during the writing process](../claims/keystroke-regression-does-not-beat-grade-baseline.md) [-W]
+- [Binary classification of students who might need support from keystroke data only slightly exceeds the majority-class baseline (highest AUC 0.57)](../claims/keystroke-classification-weak-auc.md) [-W]
+- [Help-seeking skill models built from ITS practice data were not transferable across Costa Rican, Philippine, and US contexts (reported by Ogan et al., 2014)](../claims/help-seeking-models-not-transferable-across-cultures.md) [-W]
 
 ## The evidence by question
 

@@ -50,3 +50,4 @@ Urgency-ranking agreement analysis in FOXGLOVE (§4.1). Among all pairs, models 
 - [Human-LLM agreement on a complex multi-label codebook falls well below human-human agreement, while LLM-LLM agreement is comparable to human-human agreement](human-llm-agreement-gap-jaccard.md) — related
 - [Human and agent framework revisions concentrate on the mid-level engagement categories (Levels 3–5), indicating greater ambiguity there than at scale endpoints](mid-level-icap-categories-most-ambiguous.md) — related
 - [The LLM judge agrees with human annotators at 87.7% (κ = 0.842) on consensus pairs, but severity-rating agreement is uneven and medium-tier boundaries are uncertain](judge-calibration-labels-strong-severity-uneven.md) — related
+- [Bayesian plan recognition worked poorly in a goal-free interface because students often had no recognizable plan](plan-recognition-fails-goal-free-interface.md) — related

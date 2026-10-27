@@ -53,3 +53,4 @@ Prospective longitudinal mixed-effects modeling of the ECLS-K:2011 (N = 18,174, 
 - [Average and superior children develop at different levels and grow increasingly dissimilar with age, with superior children showing adolescent mental acceleration about one year earlier](average-superior-mental-curves-diverge.md) — related
 - [Mental growth curves of superior children diverge from those of average children and resemble physical growth curves](superior-children-growth-curves-diverge.md) — related
 - [Growth models show substantial variability in the shape and rate of learning, but no statistically significant EAPGS associations with that variation](growth-models-pgs-null-shape-rate.md) — related
+- [Students' ELA growth over the four years followed a logarithmic pattern, selected over a quadratic model by AIC](ela-growth-logarithmic-pattern-utah-cohorts.md) — related

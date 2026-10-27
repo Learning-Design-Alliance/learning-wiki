@@ -46,3 +46,4 @@ The commentary's audit of systematic reviews and meta-analyses in the topical co
 
 ## Related Claims
 - [Research on generative AI in secondary STEM education is concentrated in the Global North, with 73% of affiliations and the United States accounting for 30% of publications](global-north-concentration-generative-ai-stem-research.md) — related
+- [Ten years of AIED publications were predominantly by and for the Western world (reported by Blanchard, 2014)](aied-research-western-centric-bias.md) — related

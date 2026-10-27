@@ -57,3 +57,4 @@ The report states its scope: the quantitative methods for varying treatment effe
 - [The study explores hypotheses about factors that predict the magnitude of cross-site impact variation](hypotheses-predicting-cross-site-impact-variation.md) — related
 - [Causal inference always goes beyond the data, even in randomized experiments, because experimental manipulations may affect other variables that caused the effect](causal-inference-goes-beyond-data-even-in-experiments.md) — related
 - [Quasi-experimental and experimental interventions can positively change epistemic cognition, but the theory-of-change remains unidentified](interventions-change-epistemic-cognition.md) — related
+- [Instructional design methods cannot always be universally applied across cultures because their effects vary across contexts](instructional-design-effects-vary-across-cultural-contexts.md) — related

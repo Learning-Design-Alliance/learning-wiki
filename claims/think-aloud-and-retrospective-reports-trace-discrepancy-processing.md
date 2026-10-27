@@ -47,3 +47,4 @@ Study 2, part of the multi-study mixed method design, collected "concurrent thin
 - [Learners resolve grammar-related noticing with intuition, reasoning, rephrasing and explicit rules rather than external resources](grammar-lres-solved-with-own-resources-not-external.md) — related
 - [Lexical LREs dominate grammar-related LREs in young learners' L2 writing noticing](lexical-lres-dominate-grammar-lres-l2-writing.md) — related
 - [After high-confidence errors, resolving the discrepancy with additional information produced enjoyment, while failure to resolve it produced frustration](discrepancy-resolution-drives-enjoyment-or-frustration.md) — related
+- [Educators confirmed the ecological validity of the physiological findings and identified scenario discrepancy and practical utility themes](educators-confirm-ecological-validity-physiological-findings.md) — related

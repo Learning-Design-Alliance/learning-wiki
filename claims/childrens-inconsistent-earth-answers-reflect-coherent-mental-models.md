@@ -52,3 +52,4 @@ The study is the standard citation for the view that children's misconceptions a
 ## Related Claims
 - [Student misconceptions can be read as knowledge elements that serve in some contexts and are refined and reorganised during learning, rather than as strongly held flawed ideas that instruction must confront and replace](misconceptions-are-knowledge-elements-refined-not-replaced.md) — the contrasting knowledge-in-pieces view
 - [Boys and girls do not differ in the type of mental models of the day and night cycle they hold](no-gender-difference-day-night-mental-models.md) — related
+- [Elementary students hold limited views of the difference between programmed behavior and AI-produced behavior](children-limited-programmed-vs-ai-behavior-views.md) — a narrower finding that bears on this claim

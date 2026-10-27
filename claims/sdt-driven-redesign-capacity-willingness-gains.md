@@ -59,3 +59,4 @@ Paired-sample t-tests comparing pre- and post-intervention scores for 26 Cycle 2
 - [An online PD program using unplugged explainable machine-learning activities increased K–12 educators' AI self-efficacy from below-moderate to above-moderate levels](unplugged-ml-pd-raises-teacher-ai-self-efficacy.md) — related
 - [A professional development masterclass produces a 24% overall improvement in educators' AI utilization competence with large effect sizes](pd-masterclass-24-percent-ai-competence-gain.md) — related
 - [Learning outcome focus significantly moderates effects: knowledge outcomes benefit more than skills, attitudes, or ethics](knowledge-outcomes-benefit-more-than-skills-ethics-attitudes.md) — related
+- [Short-duration TPACK-based professional development improved teachers' ML knowledge and interest (ML4STEM)](ml4stem-teacher-pd-initial-evidence.md) — related
