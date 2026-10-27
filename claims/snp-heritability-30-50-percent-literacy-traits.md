@@ -49,3 +49,5 @@ Univariate GCTA-GREML analysis of ALSPAC measures (Ns per measure ~4121–5749 a
 - [Literacy, phonological awareness, oral language and PWM abilities share a large proportion of underlying genetic variation in unrelated youth](shared-genetic-factor-literacy-language-pwm.md) — related
 - [Listening comprehension shows trait-specific genetic variance beyond the shared genetic factor](trait-specific-genetic-variance-listening-comprehension.md) — related
 - [Non-word repetition (PWM) shows trait-specific genetic variance beyond the shared genetic factor](trait-specific-genetic-variance-nonword-repetition.md) — related
+- [Educational achievement is highly heritable across school years and subjects, with twin heritability around 60% and SNP heritability around 30%](educational-achievement-heritability-60-percent-twin-30-snp.md) — related
+- [Heritability estimates are population-specific parameters, and the heritability of cognitive skills rises gradually through childhood and adolescence](heritability-population-specific-rises-through-childhood.md) — related

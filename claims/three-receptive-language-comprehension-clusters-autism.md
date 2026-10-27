@@ -67,3 +67,7 @@ Chi-square test of independence on phenotype-by-severity contingency data (Table
 - [Combined receptive-expressive phenotyping identifies four participant phenotypes that do not map one-to-one onto the traditional tripartite groups](four-combined-receptive-expressive-phenotypes.md) — related
 - [Joint clustering of receptive and expressive items yields six distinct clusters, supporting independent receptive and expressive dimensions](six-clusters-joint-receptive-expressive.md) — related
 - [Eleven expressive language abilities resolve into three stable clusters (Single-Word, Single-Sentence, Multi-Sentence), a solution the authors find superior to two- and four-cluster alternatives](three-expressive-language-clusters-autism.md) — related
+- [Syntactic-phenotype prevalence decreases and command-phenotype prevalence increases with autism severity](asd-severity-phenotype-gradient.md) — related
+- [Principal component analysis independently separates command, modifier, and syntactic language comprehension items](pca-separation-language-items.md) — related
+- [Hierarchical clustering of 15 language comprehension abilities in verbal individuals with language deficits yields three distinct ability clusters: command, modifier, and syntactic](three-language-comprehension-mechanism-clusters.md) — possibly the same claim (merge candidate)
+- [Clustering participants independently yields three language-comprehension phenotypes present at 44.7%, 25.0%, and 30.3% of the sample](three-language-comprehension-phenotypes.md) — related

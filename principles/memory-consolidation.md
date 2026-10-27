@@ -31,7 +31,7 @@ sources:
 # Memory Consolidation
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 37 claims (18 for, 16 mixed, 3 against) · 49 studies (29 causal, 9 review, 7 quant-synthesis, 3 associational, 1 theoretical), `q1`–`q4` · 13 of 49 report an effect size · 30 claims rest on one study
+> **Evidence** · 38 claims (19 for, 16 mixed, 3 against) · 50 studies (30 causal, 9 review, 7 quant-synthesis, 3 associational, 1 theoretical), `q1`–`q4` · 14 of 50 report an effect size · 31 claims rest on one study
 
 ## Conditional relationship
 
@@ -178,6 +178,7 @@ End-of-session performance, delayed recall, use in later tasks and use in the se
 - [Stimulation at PMd during repetitive practice fails to induce the early (6-h) time-dependent consolidation typical of interleaved practice](../claims/pmd-tdcs-no-early-6h-consolidation.md) [~M]
 - [Forgetting after repetitive practice is extremely rapid, appearing within roughly 3–5 minutes after training ends](../claims/rapid-forgetting-after-repetitive-practice.md) [+W]
 - [Novice quiz performance rises after a one-hour static mechanics lesson and then declines over subsequent weeks, following a quadratic learning curve](../claims/quadratic-quiz-learning-curve-brief-stem-lesson.md) [+W]
+- [Task errors (drops, collisions, collision duration) decrease significantly over teleoperation training and are retained](../claims/teleoperation-error-metrics-decrease-over-training.md) [+W]
 
 ## Related Principles
 - [Spaced Learning](spaced-learning.md) — consolidation often depends on how review is distributed over time

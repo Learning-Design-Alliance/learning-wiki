@@ -54,3 +54,4 @@ Quasi-experimental baseline check comparing the two intact classes on previous-s
 - Random assignment produced treatment and control groups balanced in mathematical preparedness before the intervention — related
 - [No significant pre-test difference existed between the two groups' entry listening knowledge](no-pretest-listening-difference-groups.md) — related
 - [Randomization does not ensure baseline equivalence in small-sample motor learning studies, so unbalanced pre-tests can overstate random-practice benefits](randomization-no-baseline-equivalence.md) — related
+- [Baseline equivalence across stimulation groups rules out prior memory-ability differences as an explanation for post-intervention effects](tacs-baseline-equivalence-pre-intervention-recall.md) — related

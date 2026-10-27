@@ -50,3 +50,4 @@ Wilcoxon rank-sum test on the TMR-SD effect for low versus high pre-nap error ob
 - [Greater sleep disruption in the present study rules out reduced sleep disruption as an explanation for the absent memory weakening](sleep-fragmentation-higher-in-null-tmr-sd-study.md) — related
 - [Sleep-stage durations, sleep fragmentation, and pre- and post-cue EEG band power were not significantly correlated with forgetting of cued items or the TMR-SD effect](sleep-measures-uncorrelated-with-tmr-sd-outcomes.md) — related
 - [The TMR-SD memory effect differed by post-learning delay: memory weakening occurred with a 1-hour delay but not with a 1-week delay](tmr-sd-effect-varies-with-post-learning-delay.md) — related
+- [TMR efficacy depends on memory strength and task difficulty: benefits concentrate on moderately strong and challenging items, with limited advantage for easy (L1) items](tmr-efficacy-depends-memory-strength-difficulty.md) — reports the opposite

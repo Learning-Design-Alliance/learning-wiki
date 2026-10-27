@@ -13,7 +13,7 @@ generated:
 # Digital Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 11 claims (5 for, 5 mixed, 1 against) · 11 studies (3 causal, 2 associational, 2 qualitative, 1 quant-synthesis, 1 review, 1 design, 1 theoretical), `q1`–`q3` · 1 of 11 report an effect size · 10 claims rest on one study
+> **Evidence** · 12 claims (6 for, 5 mixed, 1 against) · 12 studies (3 causal, 3 qualitative, 2 associational, 1 quant-synthesis, 1 review, 1 design, 1 theoretical), `q1`–`q3` · 1 of 12 report an effect size · 11 claims rest on one study
 
 ## Description
 Digital learning is the element in which instruction, resources, or interaction are mediated through digital tools, platforms, or networks. It is useful when learners need flexible access, interactive media, or non-linear exploration.
@@ -47,6 +47,7 @@ Digital learning is the element in which instruction, resources, or interaction 
 - [Educational technology interventions show positive effects on constrained literacy skills in elementary school](../claims/edtech-positive-effects-constrained-skills.md) [+W]
 - [Educational technology interventions show positive effects on unconstrained literacy skills in elementary school](../claims/edtech-positive-effects-unconstrained-skills.md) [+W]
 - [The COVID-19 switch to remote schooling was accompanied by significant declines in math and science scores on a UAE digital learning platform](../claims/covid-remote-learning-score-declines-uae-platform.md) [~W]
+- [Dataset 1 identified challenges in current teaching (resources, knowledge, digital tools) alongside opportunities for emerging technologies to clarify complex concepts and teach critical skills](../claims/dataset1-challenges-and-opportunities-themes.md) [+W]
 
 ## Related Elements
 

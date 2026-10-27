@@ -71,3 +71,4 @@ Authors' interpretation in the discussion: the greater involvement of frontal an
 - [Scientists with a Ph.D. in physics are less accurate when judging the scientific value of incongruent statements that trigger naive ideas than matched congruent statements, in both physics and biology](phd-physicists-less-accurate-incongruent-statements.md) — related
 - [Scientists with a Ph.D. in physics respond more slowly to incongruent statements than to matched congruent statements, with a response-time increase in physics twice as large as in biology](phd-physicists-slower-incongruent-statements.md) — related
 - [Physicists with a Ph.D. are slightly more accurate judging physics statements than biology statements (d = 0.5)](physicists-more-accurate-physics-than-biology-statements.md) — related
+- [Alternative conceptions persist alongside scientific conceptions and resist change even after instruction](alternative-conceptions-persist-coexist.md) — related

@@ -63,3 +63,4 @@ Delayed posttest administered 2 weeks after the first session to 14 of the initi
 - [Deeper processing of target language improves lexical retention and long-term learning](depth-of-processing-improves-l2-retention.md) — related
 - [Writing quality gains from Tekster are maintained eight weeks after the intervention ends](tekster-writing-gains-maintained-8-weeks.md) — related
 - [Two weeks of authentic classroom instruction produces lexical-level discriminative cortical responses to newly learned low-frequency words that resemble responses to high-frequency words versus pseudowords](classroom-learning-sprint-lexical-ssvep-response.md) — related
+- [High-presence dual-context learners showed 92% one-week retention versus 76% for single-context learners, with no group difference among low-presence participants](high-presence-dual-context-one-week-retention.md) — related

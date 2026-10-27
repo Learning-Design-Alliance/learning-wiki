@@ -51,3 +51,4 @@ Retention analysis in the same randomised between-groups study, tested ~6 hours 
 - [Force error increased at retention for the rest group but not the exercise group](force-error-retention-group-by-time.md) — related
 - [The timing of acute exercise relative to learning modulates memory consolidation](acute-exercise-timing-memory.md) — a broader claim this one bears on
 - [High-intensity exercise prior to practice reduced skill acquisition in older adults, with the detriment specific to the oldest participants](hiit-reduces-motor-acquisition-oldest-older-adults.md) — related
+- [The HIIT benefit on skill learning is driven primarily by improved accuracy, shown by a Group × Block interaction for force error](hiit-skill-gains-driven-by-accuracy.md) — related

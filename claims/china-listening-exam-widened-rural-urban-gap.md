@@ -52,3 +52,4 @@ The article reports, citing Li et al. (2024), an analysis of administrative reco
 - [Students without home broadband or who rely only on a cell phone show a digital skill gap of roughly three grade levels and are less likely to plan for college](home-broadband-digital-skill-gap.md) — related
 - [Rural youth report less access to internship opportunities than urban peers (38% vs. 55%)](rural-youth-internship-access-gap-38-vs-55.md) — related
 - [The authors attribute rural children's superiority to city-school conditions: lack of correlation between the urban community and the school and inflexibility of the grade system](city-school-inflexibility-attribution.md) — related
+- [Shadow education (private supplementary tutoring) is increasingly significant with implications for schooling and inequality](shadow-education-implications-for-schooling.md) — related

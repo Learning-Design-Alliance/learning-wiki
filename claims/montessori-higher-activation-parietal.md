@@ -47,3 +47,4 @@ Main effect of pedagogy in the second-level ANOVA of fMRI activation: Montessori
 ## Related Claims
 - [Functional connectivity after correct versus incorrect responses differs by pedagogy: ACC–hippocampus in traditional students after correct trials, ACC–frontal connectivity in Montessori students after incorrect trials](pedagogy-acc-connectivity-error-monitoring.md) — related
 - [Montessori students miss fewer trials but make more incorrect responses than traditionally-schooled students at equivalent accuracy](montessori-more-errors-fewer-misses.md) — related
+- [Montessori-schooled students show higher whole-brain system diversity (functional integration) than traditionally schooled students](montessori-higher-global-system-diversity.md) — related

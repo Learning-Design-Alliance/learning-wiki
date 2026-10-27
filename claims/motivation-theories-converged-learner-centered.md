@@ -50,3 +50,4 @@ Theoretical argument by the author reviewing the history of the field since the 
 - [Students want curriculum connected to real life, careers, and life skills, and report that the majority of the high school curriculum lacks real-world application](students-want-curricular-relevance-and-life-skills.md) — related
 - [Youth with an IEP experience bullying and suspension at higher rates and are less engaged in school and social activities than peers, though most youth with and without an IEP feel positive about school](iep-youth-bullying-suspension-engagement.md) — related
 - [The constellation of dominant motivation theories in educational psychology has changed very little over recent decades](motivation-theory-constellation-stagnant-decades.md) — related
+- [Pedagogy has evolved to include gaming, social interaction and play, and contemplative practices](pedagogy-evolved-new-methods.md) — related

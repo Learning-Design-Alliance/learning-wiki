@@ -9,6 +9,7 @@ generated:
   at: 2026-10-19
 evidence_strength: strong
 newest_evidence: 2023
+source_checked: 2026-10-27
 sources:
   - id: li-2023
     resource: "https://doi.org/10.1007/s10648-023-09834-1"
@@ -40,12 +41,12 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · quant-synthesis `r2` · `q3` · `i1`–`i2`
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · checked against its sources 2026-10-27 (automated, 3 of 3 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i2` SES significantly predicted later reading performance, overall r = 0.24, 95% CI [0.20, 0.28]. [→ Li 2023](#li-2023)
 `q3 i1` After partialing out both phonological awareness and vocabulary knowledge, the SES-later-reading correlation dropped to r = 0.15, with the two skills jointly explaining about 45.11% of the variance. [→ Li 2023 (2)](#li-2023-2)
-`q3 i?` No moderator (age at Time 1, time interval, writing system, country SES, SES measurement) affected the partialled longitudinal SES-reading relation. [→ Li 2023 (3)](#li-2023-3)
+`q3 i?` No moderator tested (age at Time 1, time interval, writing system, country SES, SES measurement) significantly moderated the partialled longitudinal SES-reading relation. [→ Li 2023 (3)](#li-2023-3)
 
 ## Evidence
 
@@ -92,3 +93,5 @@ Metaregression (ROBUMETA) of the partialled longitudinal SES-reading relation wi
 - [SES shows significant direct and indirect effects on each reading outcome separately, with larger indirect effects through vocabulary for comprehension](ses-effects-on-accuracy-comprehension-fluency-separately.md) — related
 - [The association between family SES and children's reading is partially mediated, statistically, in parallel by phonological awareness and vocabulary knowledge](ses-reading-partial-parallel-mediation-linguistic-skills.md) — related
 - [SES moderates relationships between other variables and student learning](ses-as-moderator-of-other-relationships.md) — related
+- [Children's self-perceptions jointly and separately partially mediate the SES–reading achievement association, explaining additional ΔR² = 0.105](self-perceptions-partially-mediate-ses-reading-achievement.md) — related
+- [Across 70 countries, socioeconomic status is positively associated with reading achievement (meta-analytic r = 0.339)](ses-reading-achievement-association-70-countries.md) — related

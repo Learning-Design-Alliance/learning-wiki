@@ -51,3 +51,4 @@ The review reports, citing Ruggeri and Lombrozo (2015), that children aged 7 to 
 - [Explicit training in constraint-seeking questions showed only moderate, non-generalizing benefits, whereas prompting explanation supports better question asking](question-asking-interventions-mixed-success.md) — related
 - [Children's exploratory behavior is related to their question asking](exploration-related-to-question-asking.md) — related
 - [Encouraging 5-7-year-olds to ask questions during science lessons increases how much they value new science information relative to a careful-listening control](question-asking-raises-willingness-to-pay-science.md) — related
+- [The ease of learning varies with age from infancy to old age, informing timing of formal education and interventions](ease-of-learning-varies-with-age.md) — related

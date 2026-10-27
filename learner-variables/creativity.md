@@ -13,7 +13,7 @@ generated:
 # Creativity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 100 claims (70 show a difference, 24 mixed, 6 no difference) · 51 studies (16 causal, 15 associational, 11 review, 4 quant-synthesis, 3 design, 2 theoretical), `q1`–`q3` · 14 of 51 report an effect size · 98 claims rest on one study
+> **Evidence** · 101 claims (70 show a difference, 25 mixed, 6 no difference) · 52 studies (16 causal, 16 associational, 11 review, 4 quant-synthesis, 3 design, 2 theoretical), `q1`–`q3` · 15 of 52 report an effect size · 99 claims rest on one study
 
 ## Description
 Creativity as a learner characteristic is the ability to produce ideas that are both new and fitting. It is most often measured with divergent-thinking tests (how many and how varied the uses someone can find for an object). It correlates with intelligence and with achievement, including in mathematics, where generating several solution paths may deepen understanding. Creativity can also be an outcome that instruction aims at; this page is about learners who differ in it.
@@ -135,6 +135,7 @@ Creativity as a learner characteristic is the ability to produce ideas that are 
 - [Question-asking originality and complexity positively correlated with open-ended group project performance, while fluency measures correlated negatively](../claims/question-asking-positive-open-ended-project.md) [~M] — learners who differ on it differ in outcomes
 - [Creativity scores correlate positively with total verbal fluency responses](../claims/creativity-correlates-verbal-fluency-responses.md) [+M] — learners who differ on it differ in outcomes
 - [Montessori-schooled children outperform traditionally-schooled children on both divergent and convergent creativity tests](../claims/montessori-higher-divergent-convergent-creativity.md) [+M] — instruction changes it
+- [Design majors outperform matched peers on divergent thinking, though AUT originality shows no significant difference](../claims/design-majors-divergent-thinking-advantage.md) [~M] — instruction changes it
 
 ## Related Learner Variables
 

@@ -97,3 +97,4 @@ Nothing here says where retention falls off.
 - [Spaced retrieval practice (successive relearning) produced multi-year retention of foreign language vocabulary in adults, as reported by the review](spaced-retrieval-multiyear-vocabulary-retention.md) — related
 - [Short-term creativity interventions can be effective in changing creativity positively](short-term-interventions-change-creativity.md) — a narrower finding that bears on this claim
 - [Grade 2 intervention effects persist in the medium term while grade 8 effects fade out and become non-significant](grade2-effects-persist-grade8-fade-out.md) — related
+- [High-presence dual-context learners showed 92% one-week retention versus 76% for single-context learners, with no group difference among low-presence participants](high-presence-dual-context-one-week-retention.md) — related

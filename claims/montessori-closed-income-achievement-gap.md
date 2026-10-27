@@ -53,3 +53,4 @@ The review reports the Lillard et al. (2017) longitudinal lottery study in Hartf
 - [Implementation fidelity matters: classrooms using only Montessori materials produced greater gains than classrooms mixing in other materials](montessori-fidelity-materials-only-gains.md) — related
 - [Children in high-fidelity Montessori classrooms show significantly greater gains in school readiness skills than children in supplemented Montessori or conventional classrooms](montessori-fidelity-greater-school-readiness-gains.md) — related
 - [In a lottery-based comparison, Montessori children showed advantages on academic, executive function, social and theory-of-mind measures, with no differences on all measures](montessori-lottery-study-advantages.md) — related
+- [The stronger a school's adherence to Montessori principles (implementation fidelity), the stronger its positive impact on maths](montessori-fidelity-moderates-maths-impact.md) — related

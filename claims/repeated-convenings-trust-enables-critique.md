@@ -71,3 +71,4 @@ Interview participants in the three content-specific communities, each convened 
 - [Wave 1's greatest challenge was achieving mutual knowledge and coherence among six independently selected projects while respecting their differences](seernet-wave1-coherence-challenge.md) — related
 - [Learning in virtual communities ranges across many settings, requiring connective ethnography and analysis at multiple units of analysis](virtual-community-learning-multiple-units-of-analysis.md) — related
 - [The social network perspective rests on three assumptions: interdependence, relationships as resource exchanges, and structure enabling or constraining access to resources](social-network-perspective-three-assumptions.md) — a broader claim this one bears on
+- [Implementation projects most commonly fail due to simplistic planning, lack of adaptation, and poor teamwork](implementation-failure-modes-planning-adaptation-teamwork.md) — related

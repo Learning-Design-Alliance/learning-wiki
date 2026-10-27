@@ -55,3 +55,5 @@ Secondary re-analysis of a subsample of the Branigan et al. (2013) meta-analysis
 - [Within twin pairs, education–methylation associations persist but are attenuated, implicating shared environmental or genetic factors](education-methylation-twin-pairs.md) — related
 - [GPAΔ is strikingly highly heritable (85%), exceeding the heritability of achievement itself (67%)](gpad-heritability-85-percent-exceeds-achievement.md) — related
 - [The general Spatial Ability factor is 84% heritable, with shared genetic variance underlying clustering across all sixteen tests and no meaningful shared environmental contribution](spatial-ability-factor-84-percent-heritable-shared-genetic-variance.md) — related
+- [Educational achievement is highly heritable across school years and subjects, with twin heritability around 60% and SNP heritability around 30%](educational-achievement-heritability-60-percent-twin-30-snp.md) — related
+- [High heritability does not imply that environmental interventions to modify a trait are doomed to failure](high-heritability-does-not-preclude-environmental-intervention.md) — related

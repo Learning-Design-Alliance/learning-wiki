@@ -48,3 +48,4 @@ Qualitative case study findings section: examination of Table 7 shows the four p
 - [Participants' pre-teaching conceptions of the republic conflated it with democracy or associated it with Atatürk](pre-teaching-republic-alternative-conceptions.md) — related
 - [After metaconceptual activities, participants differentiated the republic as a form of government from democracy as its method of implementation](post-teaching-republic-democracy-differentiation.md) — a narrower finding that bears on this claim
 - [Peer discussion and poster activities prompted students to articulate and revise their ideas, with metaconceptual awareness and evaluation observed](peer-discussion-revision-metaconceptual-awareness.md) — related
+- [Alternative conceptions persist alongside scientific conceptions and resist change even after instruction](alternative-conceptions-persist-coexist.md) — reports the opposite

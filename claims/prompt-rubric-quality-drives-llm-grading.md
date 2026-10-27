@@ -97,3 +97,4 @@ The review reports, from a single chemistry study in its table, that detailed ru
 - [Expert-in-the-loop revision substantially improves medical accuracy and educational quality of generated storylines](expert-revision-improves-generated-medical-storylines.md) — related
 - [LLMs overrate short underdeveloped essays and over-penalize minor language errors in well-developed essays](llm-overrate-short-essays-overpenalize-errors.md) — related
 - [LLMs support the shift from memorization-focused to competency-based assessment by generating rubrics, varied assessment items and authentic scenario-based tasks](llms-support-competency-based-assessment-design.md) — related
+- [SES gap patterns in PISA-like items are robust to scoring responses with generative AI instead of hand-coding](genai-scoring-replicates-ses-gap-patterns.md) — a narrower finding that bears on this claim

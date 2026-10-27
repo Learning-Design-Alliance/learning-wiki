@@ -53,3 +53,5 @@ The commentary reports the latest GWAS of educational attainment, from a sample 
 - [Polygenic scores based on the Lee et al. (2018) GWAS show a meta-analytic association of ρ = 0.27 with educational attainment](pgs-educational-attainment-rho-27-meta.md) — related
 - [Polygenic scores show a meta-analytic association of ρ = 0.24 with educational achievement](pgs-educational-achievement-rho-24-meta.md) — related
 - [Age at assessment and achievement measure moderate polygenic score predictions of educational achievement; the adjusted pooled estimate rises to ρ = 0.50](pgs-achievement-age-grade-moderators-rho-50.md) — related
+- [Adding a polygenic score as a control variable in a randomized controlled trial can be worth a 13% reduction in sample size](pgs-control-variable-rct-sample-savings.md) — a narrower finding that bears on this claim
+- [Polygenic score predictive power for educational attainment increases with discovery sample size and is projected to approach the SNP heritability bound](pgs-predictive-power-increases-with-discovery-sample-size.md) — a broader claim this one bears on

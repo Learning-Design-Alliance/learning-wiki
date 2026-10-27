@@ -47,6 +47,7 @@ Focus-group theme from a qualitative phenomenological pilot: two focus groups (f
 
 
 ## Related Claims
+
 - [Students perceive debriefing and guided psychometric-property exploration as the most beneficial components of a simulated clinical course](debriefing-psychometric-instruction-valued.md) — related
 - [Students find computer-based simulation feedback insufficient because incorrect responses are marked without explanation](simucase-feedback-insufficient.md) — related
 - [Graduate SLP students perceive the learning mode of computer-based simulation as highly beneficial because it allows unlimited attempts without grade penalty](simucase-learning-mode-perceived-beneficial.md) — related
@@ -60,3 +61,4 @@ Focus-group theme from a qualitative phenomenological pilot: two focus groups (f
 - [International students wanted more global cases and closer connections between case analyses and their local work contexts](lack-of-global-cases-local-relevance.md) — related
 - [Learning-stories research indicates meaningful learning involves felt ownership of knowledge, emotional integration, generativity, real-life context, interaction with others' learning, and transformed self-perceptions](learning-stories-meaningful-learning-dimensions.md) — related
 - [Simulation and hybrid authentic-learning approaches do not necessarily differ in participants or experienced meaningfulness of collaboration](simulation-hybrid-approaches-differ-not-participants-meaningfulness.md) — related
+- [Domain-expert feedback indicated the Tero character initially felt unrealistic and presented a narrow perspective of forest ownership](tero-narrow-perspective-feedback.md)

@@ -49,7 +49,7 @@ Controlled experiment: 38 adults completed an implicit serial reaction time task
 - [Long-Term Memory](../learner-variables/long-term-memory.md) — outcome: instruction changes it
 
 ## Related Claims
-- [A preceding bout of HIIT exercise does not influence micro-consolidation of an implicit motor sequence learned in close temporal proximity to exercise](hiit-does-not-modify-micro-consolidation.md) — related
+- [A preceding bout of HIIT exercise produced no detectable difference in micro-consolidation of an implicit motor sequence learned in close temporal proximity to exercise](hiit-does-not-modify-micro-consolidation.md) — related
 - [Performance improvements during early motor skill learning occur predominantly during short rest periods (micro-offline gains), replicated in a large crowdsourced sample and in a laboratory study](micro-offline-gains-replicated-crowdsourced.md) — possibly the same claim (merge candidate)
 - [Random termination of practice periods does not reduce micro-offline gains, ruling out preemptive motor slowing](unpredictable-practice-termination-rules-out-preemptive-slowing.md) — related
 - [The magnitude of micro-online and micro-offline gains is strongly related across participants (r = -0.96 between subjects)](micro-online-offline-tradeoff-correlation.md) — related

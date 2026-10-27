@@ -51,3 +51,4 @@ Qualitative synthesis of artifacts from three 90-minute working-group sessions w
 - [Most surveyed teachers make small customizations to OpenSciEd materials often or daily, commonly to shorten lessons, increase engagement, support prior knowledge and increase relevance](teacher-customizations-storyline-curriculum.md) — related
 - [Practitioners most often name students with disabilities (37.4%) and multilingual learners (31.0%) as groups experiencing equity challenges with OpenSciEd.](openscied-equity-challenges-swd-and-mls.md) — related
 - [Teachers are able to support rich and participatory science discussions during OpenSciEd enactment, per detailed case studies of experienced teachers](openscied-rich-participatory-discussions.md) — a narrower finding that bears on this claim
+- [Implementation projects most commonly fail due to simplistic planning, lack of adaptation, and poor teamwork](implementation-failure-modes-planning-adaptation-teamwork.md) — related

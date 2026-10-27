@@ -70,3 +70,4 @@ Responses to the statement "Without Facebook I would be lonely": "only 3 per cen
 - [Students' online and offline social worlds coexisted and were used in different ways for different relationship types, rather than one simply converting into the other.](online-offline-relationships-coexisting.md) — related
 - [Students were generally opposed to tutors contacting them via Facebook for formal teaching, though a majority saw some role for departmental and module-level administrative uses.](student-opposition-tutor-facebook-contact.md) — related
 - [Facebook use in higher education is associated with increased teacher-student and student-student interaction](facebook-increases-teacher-student-student-student-interaction.md) — related
+- [Learning happens across formal, non-formal and informal settings, face-to-face and online](formal-non-formal-informal-learning-settings-interplay.md) — a broader claim this one bears on

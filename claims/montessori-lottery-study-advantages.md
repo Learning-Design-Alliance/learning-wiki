@@ -69,3 +69,4 @@ Same lottery-based study, older cohort: the review reports significant Montessor
 - [Low-income children in high-fidelity Montessori significantly closed the achievement gap with higher-income children by the end of a longitudinal lottery study](montessori-closed-income-achievement-gap.md) — related
 - [Removing supplementary materials from Montessori classrooms improved letter-word identification and executive function but not vocabulary, theory of mind, maths or social problem-solving](montessori-material-removal-experiment.md) — related
 - [Implementation fidelity matters: classrooms using only Montessori materials produced greater gains than classrooms mixing in other materials](montessori-fidelity-materials-only-gains.md) — related
+- [The stronger a school's adherence to Montessori principles (implementation fidelity), the stronger its positive impact on maths](montessori-fidelity-moderates-maths-impact.md) — related

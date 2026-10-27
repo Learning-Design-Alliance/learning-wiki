@@ -57,3 +57,4 @@ Subgroup comparison within the 155-respondent survey between 113 classroom teach
 - [OpenSciEd classrooms showed greater science achievement growth than non-OpenSciEd classrooms in one district comparison](open-scied-greater-science-growth-single-district.md) — related
 - [Disconnected educator data systems are a common implementation challenge; a unified talent data system can generate prioritization insights](unified-talent-data-system-generates-prioritization-insights.md) — related
 - [Most surveyed teachers make small customizations to OpenSciEd materials often or daily, commonly to shorten lessons, increase engagement, support prior knowledge and increase relevance](teacher-customizations-storyline-curriculum.md) — related
+- [Implementation projects most commonly fail due to simplistic planning, lack of adaptation, and poor teamwork](implementation-failure-modes-planning-adaptation-teamwork.md) — related

@@ -28,7 +28,7 @@ sources:
 # Flipped Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 33 claims (15 for, 17 mixed, 1 against) · 36 studies (12 causal, 10 review, 8 quant-synthesis, 3 associational, 2 theoretical, 1 qualitative), `q1`–`q4` · 10 of 36 report an effect size · 26 claims rest on one study
+> **Evidence** · 34 claims (16 for, 17 mixed, 1 against) · 37 studies (13 causal, 10 review, 8 quant-synthesis, 3 associational, 2 theoretical, 1 qualitative), `q1`–`q4` · 11 of 37 report an effect size · 27 claims rest on one study
 
 ## Conditional relationship
 
@@ -145,6 +145,7 @@ Claims from the calculus study behind a core claim, read on 2026-10-15 and left 
 - [PTFC and CFC differ on general and future self-efficacy dimensions but not on grade-anxiety, in-class, or assignment dimensions](../claims/self-efficacy-dimension-differences-ptfc-cfc.md) [~M] — same study; self-efficacy subscales.
 - [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [~S]
 - [In one reviewed study, flipped classrooms using AI tools raised cognitive and emotional engagement but behavioral engagement showed no significant difference from traditional methods](../claims/ai-flipped-classroom-behavioral-engagement-null.md) [~W]
+- [Flipped classroom teaching with structured interaction improves learning outcomes more than lecture-based teaching and a video-lecture control](../claims/structured-interaction-flipped-classroom-improves-learning.md) [+M] — attached 2026-10-27 from Qi Li et al. (2024), which proposed "Design teacher-student interaction in flipped classrooms as a structured, planned sequence rather than leaving it spontaneous"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

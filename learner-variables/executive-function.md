@@ -13,7 +13,7 @@ generated:
 # Executive Function
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 120 claims (72 show a difference, 23 mixed, 25 no difference) · 70 studies (29 associational, 16 causal, 11 review, 10 quant-synthesis, 3 theoretical, 1 design), `q1`–`q4` · 21 of 70 report an effect size · 118 claims rest on one study
+> **Evidence** · 121 claims (72 show a difference, 23 mixed, 26 no difference) · 71 studies (30 associational, 16 causal, 11 review, 10 quant-synthesis, 3 theoretical, 1 design), `q1`–`q4` · 21 of 71 report an effect size · 119 claims rest on one study
 
 ## Description
 Executive function covers inhibitory control, updating working memory, and shifting between tasks or rules. It is measured by performance tasks (such as the Stroop, Flanker and dimensional card-sort tasks) and by teacher or parent ratings. It develops through childhood and adolescence, predicts school readiness and achievement, moderates designs that load self-direction on learners, and is the target of training programmes, whose effects rarely transfer beyond the trained tasks. It underlies [self-regulation](self-regulation.md) and [attention](attention.md) and overlaps with [working memory](working-memory.md).
@@ -157,6 +157,7 @@ Executive function covers inhibitory control, updating working memory, and shift
 - [Implementation-intention students reported lower daily study effort and higher concentration in the exam week than controls](../claims/implementation-intentions-lower-effort-higher-concentration.md) [+M] — instruction changes it
 - [All groups, including individuals with Down, Fragile X, and Williams syndromes, adapted their choices based on deterministic feedback, staying with rewarded options and switching after losses](../claims/feedback-learning-intact-genetic-id-groups.md) [-M] — learners who differ on it differ in outcomes
 - [Non-phonological cognitive skills correlate with AV learning efficiency: syntactic comprehension in reading-matched and DD groups, cognitive flexibility in DD, and verbal working memory in age-matched children](../claims/nonphonological-skills-correlate-av-learning.md) [+M] — learners who differ on it differ in outcomes
+- [Cognitive flexibility shows no significant association with sensorimotor synchronization in any task condition](../claims/cognitive-flexibility-no-sms-association.md) [-W] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does a child's executive function predict achievement, and through what?* [Children's executive function at the beginning of pre-kindergarten predicts growth in mathematics achievement across the pre-kindergarten year](../claims/ef-predicts-preschool-math-growth.md) [+M]

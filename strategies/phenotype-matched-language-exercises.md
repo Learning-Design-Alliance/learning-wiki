@@ -48,6 +48,7 @@ The article recommends selecting language therapy exercises at the level just ab
 
 - [Tailor number-game difficulty to each child's zone of proximal development rather than using a fixed interval for all](tailor-number-game-difficulty-to-zpd.md)
 - [Knowledge-Tracing-Driven Exercise Recommendation](knowledge-tracing-driven-exercise-recommendation.md)
+- [Assess and tailor language therapy by comprehension phenotype rather than spoken-language level alone](phenotype-tailored-language-therapy.md)
 
 ## Examples
 -

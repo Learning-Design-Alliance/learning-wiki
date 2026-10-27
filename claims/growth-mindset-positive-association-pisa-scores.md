@@ -54,3 +54,4 @@ Three-level multilevel mixed-effects model (Model B) in Mplus with sampling weig
 - [Students' individual growth mindset is positively associated with their odds of being academically resilient in PISA 2018 data across 79 countries](cl-individual-growth-mindset-resilience.md) — related
 - [Growth mindsets associate with higher US mathematics scores but slightly lower Chinese mathematics scores (country × mindset interaction)](mindset-math-association-reversed-china-us.md) — related
 - [Students in countries culturally more distant from the US (less WEIRD) endorse growth mindsets less, r(46) = -.47](non-weird-countries-endorse-growth-mindsets-less.md) — related
+- [Growth mindset is associated with better PISA performance across SES levels, but appears less beneficial at low SES and advantaged students still achieve better outcomes](mindset-benefit-weaker-at-low-ses.md) — a narrower finding that bears on this claim

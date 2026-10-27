@@ -50,3 +50,4 @@ Linear mixed-effects models on segment-level mean EDA (double-normalized EDA ind
 - [Teaching implementation (flipped vs. lecture-based) shows no significant main effect on post-event emotional valence](no-main-effect-of-teaching-implementation-on-post-event-valence.md) — related
 - [In case examples, leaders and team members showed markedly different average peaks-per-segment EDA values during the same simulation segments](leader-team-member-eda-divergence-case-examples.md) — related
 - [Teacher-led learning events are associated with more positive post-event emotional valence than individual events, particularly in the lecture-based implementation](teacher-led-events-more-positive-valence-than-individual.md) — related
+- [Flipped classroom teaching with structured interaction improves learning outcomes more than lecture-based teaching and a video-lecture control](structured-interaction-flipped-classroom-improves-learning.md) — related

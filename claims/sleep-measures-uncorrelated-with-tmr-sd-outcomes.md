@@ -60,3 +60,4 @@ Exploratory Spearman rank correlations with Benjamini-Hochberg corrections acros
 - [Sleep stage duration and architecture show no significant correlation with memory change in this nap paradigm](sleep-stage-architecture-no-memory-correlation.md) — related
 - [The TMR-SD effect did not differ for objects with low versus high pre-nap spatial error, ruling out memory strength as the explanation](tmr-sd-effect-independent-of-prenap-accuracy.md) — related
 - [The TMR-SD memory effect differed by post-learning delay: memory weakening occurred with a 1-hour delay but not with a 1-week delay](tmr-sd-effect-varies-with-post-learning-delay.md) — related
+- [TMR efficacy depends on memory strength and task difficulty: benefits concentrate on moderately strong and challenging items, with limited advantage for easy (L1) items](tmr-efficacy-depends-memory-strength-difficulty.md) — related

@@ -2,7 +2,7 @@
 
 Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's.
 
-**1996 entries** · 0 stable · 1996 in review · 0 drafts
+**1998 entries** · 0 stable · 1998 in review · 0 drafts
 
 ---
 
@@ -468,6 +468,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Dutch COOL triennial cohort study dataset](dutch-cool-triennial-cohort-study-dataset.md) - A Dutch national longitudinal cohort dataset following elementary students with repeated teacher reports, student motivational measures, and nationally normed reading and mathematics achievement tests.
 * [Dynamic hands-on ramp task for assessing kindergartners' CVS use across four variable-count levels](dynamic-hands-on-ramp-task-for-assessing-kindergartners-cvs-use-across-four-variable-count.md) - A researcher-administered hands-on ramp-task assessment adapted from Chen and Klahr's ramp task to measure kindergartners' control-of-variables strategy through progressively complex experiment designs and feedback.
 * [Dynamic Learning Project](dynamic-learning-project.md) - A school-based instructional technology coaching programme run by Digital Promise that places full-time coaches in underserved schools to support teachers through iterative coaching cycles, modeling, co-teaching, and reflection.
+* [DynamicEmo](dynamicemo.md) - DynamicEmo is a computer-based online measure developed by Jheng et al.
 * [DysLexLens](dyslexlens.md) - DysLexLens is a low-resource, evidence-traceable LLM framework developed by Dana Rezazadegan et al.
 
 #### E {: #letter-e }
@@ -1726,6 +1727,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Superkids Reading Program](superkids-reading-program.md) - The Superkids Reading Program is a K–2 beginning-reading curriculum developed and provided by the Rowland Reading Foundation, covering phonemic awareness, phonics, vocabulary, comprehension, writing, and spelling.
 * [Supplemental Educational Services](supplemental-educational-services.md) - A No Child Left Behind programme administered through states and approved public or private providers to offer free out-of-school tutoring and academic support to eligible students in low-performing schools.
 * [Supplemental matrix of intervention strategies for 18 Tier 2 literacy interventions](supplemental-matrix-of-intervention-strategies-for-18-tier-2-literacy-interventions.md) - A study-developed matrix that organizes implementation strategies from 18 Tier 2 literacy interventions to help CNMI PSS staff assess feasibility and inform intervention selection or local design.
+* [Supplementary implementation toolkit](supplementary-implementation-toolkit.md) - Allen et al.'s implementation-planning toolkit combines a one-page overview, milestone checklist, SWOT-based Theory of Change aid, and case studies for non-specialists planning education implementation projects.
 * [Supplementary spreadsheet for effect size calculations](supplementary-spreadsheet-for-effect-size-calculations.md) - A spreadsheet accompanying Lakens (2013) that calculates and recommends effect sizes for t-test and ANOVA results from user-entered study statistics.
 * [SupplyNet](supplynet.md) - SupplyNet is a gamified visual simulation system developed by Yanjia Li et al.
 * [Supporting Effective Educator Development](supporting-effective-educator-development.md) - A U.S.

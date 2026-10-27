@@ -52,3 +52,4 @@ Retention analysis of the force error subcomponent in the same study. The articl
 - [The acquisition detriment after exercise was driven by the accuracy subcomponent: older participants reduced force error after rest but not after exercise](force-error-three-way-interaction-acquisition.md) — related
 - [The timing of acute exercise relative to learning modulates memory consolidation](acute-exercise-timing-memory.md) — a broader claim this one bears on
 - [Exercise performed four hours, but not immediately, after encoding enhances 48-hour retention of picture-location associations and hippocampal pattern similarity](delayed-post-learning-exercise-enhances-retention.md) — related
+- [The HIIT benefit on skill learning is driven primarily by improved accuracy, shown by a Group × Block interaction for force error](hiit-skill-gains-driven-by-accuracy.md) — related

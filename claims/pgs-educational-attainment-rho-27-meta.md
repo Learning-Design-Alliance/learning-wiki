@@ -56,3 +56,4 @@ Preregistered three-level multilevel meta-analysis (metafor rma.mv) of studies r
 - [Education and cognitive-ability polygenic scores significantly predict verbal ability, with the education PGS far more robust](pgs-predict-verbal-ability.md) — related
 - [College completion prevalence differs hugely between the top and bottom deciles of the polygenic score distribution (60% versus 10%)](pgs-decile-college-completion-gap.md) — related
 - [A polygenic score for educational attainment explains about 15% of individual differences in out-of-sample prediction among people of European descent, with a correlation of approximately 0.4 with outcomes](pgs-educational-attainment-15-percent-out-of-sample.md) — related
+- [A polygenic score for educational attainment positively predicts reading and speaking skills in early childhood, later scholastic achievement, and adult economic security](pgs-predicts-skills-across-life-course.md) — a narrower finding that bears on this claim

@@ -51,3 +51,4 @@ The agenda's mental health priority reports, citing multiple endnoted studies on
 - [Classroom Design Affects Learning Progress](classroom-design-affects-learning-progress.md) — a narrower finding that bears on this claim
 - [Classroom views of greenery improve children's concentration compared with built views or windowless classrooms](green-classroom-views-boost-concentration.md) — a narrower finding that bears on this claim
 - [Physical environment elements — sunlight, nature views, temperature, and lighting — affect learning](physical-environment-affects-learning.md) — a narrower finding that bears on this claim
+- [Alternative conceptions originate in contextual sources including teachers, media, textbooks, physical and social environments](contextual-sources-of-alternative-conceptions.md) — related

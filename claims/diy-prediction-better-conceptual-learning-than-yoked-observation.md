@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2025
+source_checked: 2026-10-27
 sources:
   - id: brod-2025
     resource: "https://doi.org/10.1038/s41539-025-00364-9"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r3` · `q3` · `i1`–`i2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-10-27 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Children aged 5-7 who generated their own predictions before seeing outcomes performed significantly better on a posttest of water displacement concepts than children who observed predictions matched to their own prior beliefs (d = 0.45). [→ Brod 2025](#brod-2025)
@@ -70,3 +71,4 @@ In the transfer test, where "performance in both groups was well below ceiling,"
 - [Explaining one's own potentially incorrect ideas can reduce learning, while explaining known-correct content supports it](explaining-own-incorrect-ideas-reduces-learning.md) — related
 - [Productive Failure Improves Conceptual Learning](productive-failure-improves-conceptual-learning.md) — related
 - [DIY prediction advantage on transfer is limited to receptive transfer and does not extend significantly to productive or explicit conceptual transfer](diy-transfer-advantage-limited-to-receptive-task.md) — related
+- [All Montessori materials encourage active engagement, illustrated by a fetching-and-matching activity that exercises working memory](montessori-materials-active-engagement.md) — a narrower finding that bears on this claim

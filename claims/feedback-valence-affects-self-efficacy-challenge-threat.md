@@ -67,7 +67,7 @@ In both experiments, ANOVAs showed challenge and threat differed significantly b
 ## Related Claims
 - [With reduced construct overlap and a no-feedback control, feedback did not significantly affect challenge (Experiments 3 and 4), and negative feedback raised expected effort required only in Experiment 3](challenge-effect-absent-revised-measures.md) — related
 - [The effect of feedback valence on expected effort required is fully mediated by self-efficacy (Experiments 1 and 2) and threat (Experiment 1)](feedback-effort-mediated-by-self-efficacy-threat.md) — related
-- [Feedback valence does not directly affect willingness to invest effort, but has significant indirect effects via challenge and threat pointing in opposite directions (all four experiments)](feedback-willingness-indirect-challenge-threat.md) — related
+- [Feedback valence had no significant direct effect on willingness to invest effort in four experiments, but had significant indirect effects via threat (all four) and via challenge (Experiments 1 and 2) pointing in opposite directions](feedback-willingness-indirect-challenge-threat.md) — related
 - [In the absence of feedback, self-efficacy after problem solving was not associated with invested, expected, or willingness-to-invest effort, and threat was not associated with any effort measure (Experiments 3 and 4)](no-feedback-effort-associations-null.md) — related
 - [Predominantly negative feedback leads students to expect a next round of problems will require more effort than predominantly positive feedback (Experiments 1 and 2)](negative-feedback-raises-anticipated-effort.md) — related
 - [Emotion affects motivation, which in turn affects mental effort investment during learning](emotion-affects-motivation-mental-effort.md) — related

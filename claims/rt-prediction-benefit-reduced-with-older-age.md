@@ -68,3 +68,5 @@ Same LMM on reaction times. The Age × Response-Onset Interval interaction "(β 
 - [Overall dynamic search performance declines with age, with accuracy decreasing and response times slowing](overall-dynamic-search-performance-declines-with-age.md) — related
 - [The magnitude of ERP prediction markers correlates with the behavioral reaction-time benefit of predictability](erp-prediction-markers-correlate-rt-benefit.md) — related
 - [Predictable targets are detected at higher hit rates than unpredictable targets in dynamic visual search across adulthood](spatiotemporal-predictability-raises-hit-rate-dynamic-search.md) — related
+- [Anticipating positive and negative social feedback accelerates response times in young and older adults, with no additional effect of dynamic video over static photo feedback](social-feedback-anticipation-accelerates-rt-across-age.md) — related
+- [Baseline simple response times were faster in the SID-Video study than the SID-Photo study and faster in young than older adults, with no study × age interaction](baseline-simple-rt-study-and-age-effects.md) — related

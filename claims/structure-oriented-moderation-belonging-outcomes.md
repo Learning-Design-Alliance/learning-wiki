@@ -58,3 +58,4 @@ Second-hand evidence: the commentary attributes this meta-analytic finding to Yu
 - [SOBAS differs across attributes of countries, families, schools, teachers, and students in 41 countries](sobas-varies-across-country-family-school-teacher-student-attributes.md) — related
 - [The teacher-student relationship has the strongest link with students' sense of belonging at school and mediates the link between egalitarianism and SOBAS](teacher-student-relationship-strongest-sobas-link.md) — related
 - [Interpersonal relationships are framed as supports for motivation at school](interpersonal-relationships-support-school-motivation.md) — related
+- [Sense of belonging relates more strongly to reading achievement in countries with lower social mobility (b = −3.093)](belonging-stronger-in-lower-mobility-countries.md) — a narrower finding that bears on this claim

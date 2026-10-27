@@ -53,3 +53,4 @@ The review's synthesis of 52 articles on unintentional processes, mostly in form
 - [Student-generated Facebook groups constitute a hidden curriculum that supports learning outside the formal design studio](student-generated-hidden-curriculum-sns.md) — related
 - [Online spaces hold distinctive value for underrepresented adolescents for identity expression, supportive peer networks, and friendships](online-spaces-distinctive-value-underrepresented-adolescents.md) — related
 - [Selection practices and differentiation shape adolescents' identities, but evidence on tracking's role in identity development remains inconclusive](selection-differentiation-identity-effects.md) — related
+- [Learning happens across formal, non-formal and informal settings, face-to-face and online](formal-non-formal-informal-learning-settings-interplay.md) — related

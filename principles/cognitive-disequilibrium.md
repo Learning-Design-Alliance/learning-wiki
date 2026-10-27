@@ -22,7 +22,7 @@ sources:
 # Cognitive Disequilibrium
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 30 claims (15 for, 12 mixed, 3 against) · 31 studies (13 causal, 5 quant-synthesis, 5 review, 3 theoretical, 2 qualitative, 2 design, 1 associational), `q1`–`q4` · 8 of 31 report an effect size · 25 claims rest on one study
+> **Evidence** · 33 claims (17 for, 12 mixed, 4 against) · 32 studies (14 causal, 5 quant-synthesis, 5 review, 3 theoretical, 2 qualitative, 2 design, 1 associational), `q1`–`q4` · 8 of 32 report an effect size · 28 claims rest on one study
 
 ## Conditional relationship
 
@@ -136,6 +136,9 @@ Surprise or confusion during the lesson, a correct answer immediately after it, 
 - [Only medium-level incongruity between individual knowledge and wiki information causes cognitive conflict that motivates equilibration](../claims/medium-incongruity-inverted-u-cognitive-conflict.md) [~W]
 - [Readers with misconceptions engage in more conceptual change strategies than readers without misconceptions, but only when reading a refutation text](../claims/misconception-refutation-conceptual-change-strategies.md) [+W]
 - [Reviews of cognitive conflict interventions find benefits that are typically smaller than expected, with no measurable benefit in the majority of studies.](../claims/cognitive-conflict-interventions-weak-effects.md) [-W]
+- [Refutation text type shows no significant effect on binary True/False posttest scores](../claims/refutation-texts-no-tf-effect.md) [-M]
+- [Reading standard, positive, or negative refutation texts yields significantly higher open-ended explanation scores than reading non-refutation texts in adults](../claims/refutation-texts-explanation-knowledge-revision-adults.md) [+W]
+- [Reading refutation texts (standard, positive, or negative) yields significantly higher combined True/False-plus-explanation scores than non-refutation texts](../claims/refutation-texts-combined-score-advantage.md) [+W]
 
 ## Related Principles
 - [Error Analysis](error-analysis.md) — cognitive disequilibrium often begins by surfacing and examining an incorrect but plausible model

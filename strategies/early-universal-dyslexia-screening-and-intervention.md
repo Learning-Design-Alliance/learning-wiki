@@ -41,7 +41,8 @@ The article recommends that "these children must be screened for dyslexia early 
 - [Nearly half of screened K-2 children in two New Orleans charter schools screened at risk for dyslexia, and most tested at-risk children met dyslexia criteria](../claims/nearly-half-k2-charter-children-at-risk-dyslexia.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Offer supplementary reading programs to children at substantially elevated genetic risk for dyslexia years before formal diagnosis](genetic-dyslexia-screening-early-reading-programs.md)
 
 ## Examples
 -

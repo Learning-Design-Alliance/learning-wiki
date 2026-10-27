@@ -71,3 +71,5 @@ In the Discussion, the authors summarize the behavioral outcome of the reward co
 - [On loss trials, smaller pupil dilation predicted response change in TD participants while larger dilation predicted it in FXS participants, with no robust effect in DS or WS](pupil-predicts-response-change-loss-trials.md) — related
 - [All groups looked longer at the previously rewarded option than at the loss-associated option, with no group differences in gaze allocation](gaze-toward-rewarded-option-all-groups.md) — related
 - [Individuals with Williams syndrome show intact behavioral feedback learning but no loss-driven pupil dilation, a dissociation from typically developing controls](ws-pupil-valence-dissociation.md) — a narrower finding that bears on this claim
+- [Humans can readily abandon operant win-stay/lose-shift outcome-action associations when a loss-maximization goal requires the reversed strategies](flexible-abandonment-of-win-stay-lose-shift.md) — related
+- [Win-stay/lose-shift associations are not privileged: consistency sometimes favours win-shift, and reaction times show no outcome-by-action interaction](win-stay-lose-shift-not-privileged.md) — related

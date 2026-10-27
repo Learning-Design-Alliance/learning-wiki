@@ -36,7 +36,7 @@ sources:
 # Validity, Reliability, and Bias in Classroom Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 284 claims (123 for, 142 mixed, 19 against) · 212 studies (83 associational, 49 design, 28 review, 24 theoretical, 19 causal, 6 quant-synthesis, 3 qualitative), `q1`–`q3` · 19 of 212 report an effect size · 277 claims rest on one study
+> **Evidence** · 287 claims (126 for, 142 mixed, 19 against) · 213 studies (83 associational, 49 design, 28 review, 24 theoretical, 20 causal, 6 quant-synthesis, 3 qualitative), `q1`–`q3` · 20 of 213 report an effect size · 280 claims rest on one study
 
 ## Conditional relationship
 
@@ -226,6 +226,8 @@ Claims linked to this page that do not bear on its relationship, a step or a sit
 - [Standardized illustrative sentences written in advance were used by all examiners when administering the Springfield spelling list to about 25,000 children in 78 schools](../claims/standardized-illustrative-sentences-spelling-administration.md) [+W] — attached 2026-10-25 from David Spence Hill (1917), which proposed "Standardize the administration procedure of spelling scales, including uniform illustrative sentences, before comparing achievement results".
 - [Children's spelling test performance declines as the cognitive load of the assessment method increases, with accuracy greatest in multiple-choice, then cloze dictation, then proofreading](../claims/assessment-method-cognitive-load-performance-decline.md) [+M] — attached 2026-10-26 from Howard et al. (2017), which proposed "Design assessments to maximise variance associated with the target competencies and minimise variance from extraneous information and processing"; tests this page's relationship.
 - [Assessment methods unintentionally impose differing working-memory demands that confound measurement of the target construct (test impurity), biasing results along a gradient of students' WM capacity](../claims/assessment-test-impurity-working-memory-confound.md) [+W] — attached 2026-10-26 from Howard et al. (2017), which proposed "Design assessments to maximise variance associated with the target competencies and minimise variance from extraneous information and processing".
+- [Experimentally removing reading requirements eliminates the SES gap in standard creativity measures: high-SES students outperform low-SES ones only when they read the prompts themselves](../claims/rct-reading-requirements-eliminate-ses-gap.md) [+W] — attached 2026-10-27 from Guilherme Lichand et al. (2026), which proposed "Assessments of higher-order skills should account for limitations in foundational skills, e.g., by administering oral exams or non-verbal measures"; tests this page's relationship.
+- [In PISA 2022-like creativity items, the SES gap reverses in favor of low-SES students when enumerators read the prompts](../claims/pisa-items-ses-gap-reverses-without-reading.md) [+W] — attached 2026-10-27 from Guilherme Lichand et al. (2026), which proposed "Assessments of higher-order skills should account for limitations in foundational skills, e.g., by administering oral exams or non-verbal measures"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 
@@ -358,6 +360,7 @@ Content validity, construct validity, criterion validity, consistency across occ
 - [Teachers' geometry marks usually bear a positive relation to the four fundamental abilities](../claims/teachers-marks-relate-to-geometry-abilities.md) [~W]
 - [The editorial argues existing composition scales measure form on topics of artificial interest and cannot measure improvement in thought content](../claims/existing-composition-scales-miss-thought-content.md) [~W]
 - [School grades show very wide variation among teachers, shrinking little within a single institution (Starch)](../claims/starch-wide-variation-school-grades.md) [-W]
+- [SES gap patterns in PISA-like items are robust to scoring responses with generative AI instead of hand-coding](../claims/genai-scoring-replicates-ses-gap-patterns.md) [+W]
 
 ## Related Principles
 - [Criterion- and Norm-Referenced Testing](criterion-and-norm-referenced-testing.md) — validity and reliability apply to standardized as well as teacher-made assessments, with additional considerations

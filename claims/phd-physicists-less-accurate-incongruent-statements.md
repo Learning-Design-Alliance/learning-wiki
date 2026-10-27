@@ -51,3 +51,4 @@ Statement-verification task with 25 Ph.D. physicists scanned in an fMRI block-de
 - [Physicists with a Ph.D. are slightly more accurate judging physics statements than biology statements (d = 0.5)](physicists-more-accurate-physics-than-biology-statements.md) — related
 - [When physicists with a Ph.D. confront naive ideas in their domain of expertise, MFG and IFG associated with inhibitory control are significantly more activated by incongruent than congruent statements](physics-incongruent-mfg-ifg-inhibitory-control.md) — related
 - [Incongruent items in school-topic tasks are generally associated with longer response times and lower accuracy, patterns consistent with inhibitory control recruitment](incongruent-items-longer-rt-lower-accuracy.md) — a broader claim this one bears on
+- [Alternative conceptions persist alongside scientific conceptions and resist change even after instruction](alternative-conceptions-persist-coexist.md) — related

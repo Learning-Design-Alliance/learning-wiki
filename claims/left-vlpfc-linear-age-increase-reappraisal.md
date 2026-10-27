@@ -51,3 +51,4 @@ fMRI results from the developmental reappraisal task across three age groups. Th
 - [Children's ability to shield attention against distraction develops until the second decade of life alongside prefrontal cortex maturation](attention-control-develops-second-decade.md) — related
 - [Instructed reappraisal success improves with age across ages 10-23, following linear and quadratic trends](instructed-reappraisal-success-improves-age-10-23.md) — related
 - [Mid-adolescents show attenuated right vlPFC response to rejection-themed words relative to adults](mid-adolescent-attenuated-vlpfc-rejection-stroop.md) — related
+- [Only about half of autistic adolescents could follow non-canonical-word-order instructions, suggesting routinization substitutes for prefrontal synthesis](routinization-non-canonical-word-order-limit.md) — related

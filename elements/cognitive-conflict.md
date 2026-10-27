@@ -13,7 +13,7 @@ generated:
 # Cognitive Conflict
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 11 claims (7 for, 4 mixed) · 16 studies (8 causal, 4 quant-synthesis, 1 associational, 1 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 3 of 16 report an effect size · 8 claims rest on one study
+> **Evidence** · 13 claims (9 for, 4 mixed) · 17 studies (9 causal, 4 quant-synthesis, 1 associational, 1 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 3 of 17 report an effect size · 10 claims rest on one study
 
 ## Description
 Cognitive conflict is the deliberate introduction of evidence, questions, or situations that contradict learners' existing conceptions, creating a state of [Cognitive Disequilibrium](../principles/cognitive-disequilibrium.md) that motivates accommodation. Rooted in Piaget's equilibration model, it functions as the trigger for conceptual change: learners must notice the conflict, experience dissatisfaction with their current conception, and construct a replacement that resolves it.
@@ -60,6 +60,8 @@ Cognitive conflict supports learning by making naive or partial conceptions visi
 - [Readers with misconceptions engage in more conceptual change strategies than readers without misconceptions, but only when reading a refutation text](../claims/misconception-refutation-conceptual-change-strategies.md) [+W]
 - [Discrepant peer feedback leads to more transitions between feedback and essay, but only for students who report the discrepancy afterwards](../claims/discrepant-peer-feedback-more-transitions-only-reporters.md) [~W]
 - [Judging incongruent statements that trigger naive ideas recruits left IFG, bilateral superior frontal gyrus and bilateral ACC more than judging matched congruent statements](../claims/incongruent-statements-frontal-inhibitory-activation.md) [+W]
+- [Reading standard, positive, or negative refutation texts yields significantly higher open-ended explanation scores than reading non-refutation texts in adults](../claims/refutation-texts-explanation-knowledge-revision-adults.md) [+W]
+- [Reading refutation texts (standard, positive, or negative) yields significantly higher combined True/False-plus-explanation scores than non-refutation texts](../claims/refutation-texts-combined-score-advantage.md) [+W]
 
 ## The evidence by question
 

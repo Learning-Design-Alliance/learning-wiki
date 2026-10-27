@@ -63,3 +63,4 @@ Delayed measurement two weeks after the posttest with the same 45 participants; 
 - [Dual coding elucidation raises adolescent EFL learners' awareness of lexical errors and correct usage more than verbal-only elucidation](dual-coding-elucidation-improves-lexical-error-awareness.md) — related
 - [Experimental and control groups were equivalent in vocabulary before the glossing treatment](gloss-study-groups-equivalent-at-pretest.md) — related
 - [In Chun and Plass's CyberBuch studies, the text + picture annotation group significantly outperformed text-definition and text + video groups on a vocabulary test](chun-plass-text-picture-outperformed-text-video.md) — related
+- [High-presence dual-context learners showed 92% one-week retention versus 76% for single-context learners, with no group difference among low-presence participants](high-presence-dual-context-one-week-retention.md) — related

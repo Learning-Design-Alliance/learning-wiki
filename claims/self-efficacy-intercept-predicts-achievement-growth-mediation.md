@@ -62,3 +62,4 @@ Indirect-effect decomposition in the math model (Question 3), significant at the
 - [The institutionalized “ELL” label positioned labelled students as the Other, depriving them of access to agentive participation in the unit](ell-label-positioned-students-as-other.md) — related
 - [Daily SR of students is positively associated with their perceived daily academic success at the within-person level](daily-sr-within-person-academic-success.md) — related
 - [Expectancies of success and intrinsic task value positively predict achievement test scores, but language-related variables show no indirect effects on achievement via these beliefs](expectancy-value-beliefs-predict-achievement-no-indirect-language-effects.md) — related
+- [Self-efficacy showed a slightly negative meta-analytic mediation effect, with negative mediation in some countries and positive in others](self-efficacy-negative-mediation-effect.md) — related

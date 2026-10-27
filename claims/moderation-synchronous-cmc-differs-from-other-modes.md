@@ -49,3 +49,4 @@ The editorial reports on the Asterhan and Schwarz study of four classes using an
 - [Time zone differences affected international students' timely participation in asynchronous forums, and a balance of synchronous and asynchronous communication was regarded as beneficial](time-zone-differences-asynchronous-participation-balance.md) — related
 - [The change in tools caused the most disruption in e-teachers' activity system, replacing body language and visual cues with text and voice mediation](tool-change-most-disruption-online-teaching.md) — related
 - [Computer-mediated (videoconferencing) collaboration leads learners to use a wider range of knowledge resources than face-to-face collaboration](videoconferencing-wider-range-of-resources.md) — related
+- [Learning happens across formal, non-formal and informal settings, face-to-face and online](formal-non-formal-informal-learning-settings-interplay.md) — related

@@ -48,3 +48,7 @@ The commentary reports Knigge and colleagues' genetically informed twin study us
 - [Genetic and environmental variance components of educational achievement decrease with increasing parental SES](genetic-environmental-variance-decrease-with-ses.md) — related
 - [Average educational achievement at age 12 increases with parental SES in the Netherlands](dutch-twin-ea-increases-with-parental-ses.md) — related
 - [Dizygotic twin correlations for educational attainment are consistently higher than non-twin sibling correlations across countries, suggesting twin-specific shared environments are a general phenomenon](dz-twin-correlations-exceed-sibling-correlations.md) — related
+- [Delaying tracking is associated with a larger genetic influence especially among low-performing students, supporting the compensation hypothesis (H2b)](delayed-tracking-genetic-gain-low-performers.md) — related
+- [Delaying definite tracking is associated with a larger genetic influence and a lower shared-environmental influence on secondary educational attainment among Dutch twins](delayed-tracking-larger-genetic-influence.md) — related
+- [The association between delayed tracking and larger genetic influence is driven mostly by reduced primary effects (influences common to performance and attainment), not secondary effects](delayed-tracking-reduces-primary-effects.md) — related
+- [Parental education is not related to whether children are tracked immediately or delayed](parental-education-not-related-delayed-tracking.md) — related

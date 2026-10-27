@@ -65,7 +65,7 @@ One-way ANOVAs on expected effort required across the three feedback conditions 
 
 ## Related Claims
 - [Feedback valence affects post-task self-efficacy, challenge, and threat: negative feedback lowers self-efficacy and challenge and raises threat (Experiments 1 and 2)](feedback-valence-affects-self-efficacy-challenge-threat.md) — related
-- [Feedback valence does not directly affect willingness to invest effort, but has significant indirect effects via challenge and threat pointing in opposite directions (all four experiments)](feedback-willingness-indirect-challenge-threat.md) — related
+- [Feedback valence had no significant direct effect on willingness to invest effort in four experiments, but had significant indirect effects via threat (all four) and via challenge (Experiments 1 and 2) pointing in opposite directions](feedback-willingness-indirect-challenge-threat.md) — related
 - [The effect of feedback valence on expected effort required is fully mediated by self-efficacy (Experiments 1 and 2) and threat (Experiment 1)](feedback-effort-mediated-by-self-efficacy-threat.md) — related
 - [Predominantly negative feedback leads students to expect a next round of problems will require more effort than predominantly positive feedback (Experiments 1 and 2)](negative-feedback-raises-anticipated-effort.md) — related
 - [In the absence of feedback, self-efficacy after problem solving was not associated with invested, expected, or willingness-to-invest effort, and threat was not associated with any effort measure (Experiments 3 and 4)](no-feedback-effort-associations-null.md) — related

@@ -13,7 +13,7 @@ generated:
 # Working Memory
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 114 claims (65 show a difference, 33 mixed, 16 no difference) · 93 studies (28 causal, 23 associational, 21 review, 11 quant-synthesis, 7 theoretical, 3 qualitative), `q1`–`q4` · 15 of 93 report an effect size · 107 claims rest on one study
+> **Evidence** · 115 claims (66 show a difference, 33 mixed, 16 no difference) · 94 studies (29 causal, 23 associational, 21 review, 11 quant-synthesis, 7 theoretical, 3 qualitative), `q1`–`q4` · 15 of 94 report an effect size · 108 claims rest on one study
 
 ## Description
 How much a learner can hold and manipulate at once. It is the best-evidenced dimension here and the most directly actionable: it converts into element counts per screen, whether two sources must be read together, and whether a problem is given whole or as a worked example. Capacity is near-fixed, but *effective* capacity is not — prior knowledge supplies the schemas that let several items be held as one, which is why the same screen overloads a novice and not an expert [~S].
@@ -157,6 +157,7 @@ How much a learner can hold and manipulate at once. It is the best-evidenced dim
 - [22-day digit-image mnemonic training improves children's short-term digit memory relative to a no-contact control group](../claims/mnemonic-training-improves-children-digit-memory.md) [+W] — instruction changes it
 - [Students with higher working memory capacity benefited more from technology-enabled personalized learning than peers with lower working memory capacity](../claims/working-memory-moderates-personalized-learning-benefits.md) [+M] — an instructional effect differs with it
 - [Alpha neurofeedback training improves visual working memory capacity measured by the Corsi-block tapping task, with an effect lasting seven days after training ends](../claims/alpha-nf-improves-corsi-capacity.md) [+W] — instruction changes it
+- [In the lab study, distance and relevance of question content did not significantly affect accuracy overall, while AAT score and working-memory capacity each improved it and intensified each other](../claims/study2-main-effects-and-aat-kmax-interaction.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 

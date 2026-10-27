@@ -55,3 +55,5 @@ Meta-regression of 239 estimates comparing the 2021 assessment-timing moderator 
 - [The COVID cohort scored significantly lower than the control cohort across the whole study duration](covid-cohort-lower-overall-reading-fluency-group-effect.md) — related
 - [Learning losses increase with the length of school closures, from 9–12% SD in shortest-closure countries to 17–23% SD in longest-closure countries](losses-increase-with-closure-length.md) — related
 - [Schooling during the COVID-19 pandemic produced no significant negative effects on first-grade students' reading or math achievement compared with regular schooling](covid-grade1-no-achievement-decline.md) — related
+- [Post-COVID girls completed 0.08–0.1 fewer years of schooling than matched pre-COVID girls, with no difference in out-of-school rates](post-covid-girls-schooling-attainment-loss.md) — related
+- [Post-COVID 15–17-year-old girls in India had 1.5–1.6% lower reading ability than matched pre-COVID girls](post-covid-girls-literacy-loss-india.md) — related

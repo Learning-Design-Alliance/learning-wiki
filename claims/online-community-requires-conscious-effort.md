@@ -55,3 +55,4 @@ In the Findings (Community section) of the interview study, e-teachers reported 
 - [A student-led small-group discussion assessment sustained online participation and produced denser peer interaction than a standard teacher-led discussion board](student-led-discussion-task-sustains-online-participation.md) — related
 - Online peer assisted learning communities foster informal learning and spontaneous interest-based groups — reports the opposite
 - [Design has not caught up with technology; creating for diverse audiences must be deliberate](design-has-not-caught-up-with-technology.md) — a broader claim this one bears on
+- [Learning happens across formal, non-formal and informal settings, face-to-face and online](formal-non-formal-informal-learning-settings-interplay.md) — a broader claim this one bears on

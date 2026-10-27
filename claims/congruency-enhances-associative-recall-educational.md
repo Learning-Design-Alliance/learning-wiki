@@ -67,3 +67,4 @@ Paired t-test row in Table 1 for experiment 2 (23 analysed participants) associa
 - [Subjective reactivation of the prior-knowledge item during new learning enhances associative recall for inferred associations, for congruent and incongruent items alike](subjective-reactivation-enhances-associative-recall.md) — related
 - [Congruency enhanced item recognition of new descriptions in experiment 2 but not in experiment 1](congruency-item-recognition-exp2-only.md) — related
 - [Reading goal × congruency interaction on memory: study goal improves memory for congruent but not incongruent targets](goal-congruency-interaction-memory.md) — related
+- [Congruent mental reinstatement of the learning context enhanced short-delay recall transfer in a non-VR setting, regardless of learning-context group](congruent-mental-reinstatement-improved-transfer.md) — related

@@ -64,3 +64,4 @@ Testimony of Phyllis Rosser citing MIT's admissions experience as evidence again
 - [The fraction of women enrolling in mathematics degree programs in the UK and the Netherlands has remained constant despite rising female participation in higher education](female-mathematics-enrollment-fraction-constant-uk-netherlands.md) — related
 - [Single-sex math classrooms raised female students' math performance by 7–10% over co-educational programs](single-sex-classrooms-raise-female-math-performance.md)
 - [Women score lower than men in high-stakes final exams across advanced undergraduate STEM courses, with mean differences of 2.5 to ~7 points on a 100-point scale](gender-gap-high-stakes-exams-advanced-stem.md) — related
+- [Addressing women in the feminine rather than the masculine in Hebrew improves their maths test scores and reduces the maths gender gap](feminine-address-improves-women-maths-scores.md) — related

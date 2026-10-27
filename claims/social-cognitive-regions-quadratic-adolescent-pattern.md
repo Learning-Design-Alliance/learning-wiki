@@ -55,3 +55,4 @@ fMRI findings across age groups in social-cognitive regions. The authors "observ
 - [Mid-adolescents show attenuated right vlPFC response to rejection-themed words relative to adults](mid-adolescent-attenuated-vlpfc-rejection-stroop.md) — related
 - [The ventral anterior temporal lobe integrates facial identity with social and conceptual knowledge](ventral-atl-integrates-face-identity-semantic-knowledge.md) — related
 - [Negative word counting in stressed teachers engages reappraisal-related regions early, without amygdala activation, suggesting regulation of emotional responses](early-reappraisal-engagement-negative-words-teachers.md) — related
+- [Only about half of autistic adolescents could follow non-canonical-word-order instructions, suggesting routinization substitutes for prefrontal synthesis](routinization-non-canonical-word-order-limit.md) — related

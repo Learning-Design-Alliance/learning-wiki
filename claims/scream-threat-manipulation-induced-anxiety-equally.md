@@ -50,3 +50,4 @@ Manipulation check in the same experiment: subjective "how anxious" ratings show
 - [Threat of an aversive scream lowers verbal working memory accuracy at low and medium load but not at high load in both adolescents and adults](threat-impairs-accuracy-low-medium-not-high-load.md) — related
 - [Reaction times are faster during threat than safe conditions only on the high-load (3-back) task, in both adolescents and adults](threat-speeds-rt-high-load-only.md) — related
 - [No age differences emerge in how threat and cognitive load interact on working memory accuracy or reaction time](no-age-by-threat-by-load-interaction.md) — related
+- [Participants were successfully blind to stimulation condition assignment across all four groups](tacs-participant-blindness-confirmed.md) — related

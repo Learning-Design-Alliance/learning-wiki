@@ -77,3 +77,4 @@ RQ2 theme establishing the teacher as supervisor and ethicist of AI use. Teacher
 - [Educators' interpretations of students' AI use evolved from perceived AI stigma toward emphasizing AI usage transparency and explicit AI guidance](ai-stigma-to-explicit-ai-guidance-evolution.md) — related
 - [Blended teaching shifted the teacher's self-identity from facilitator to co-facilitator and co-designer with students](blended-teaching-shifts-identity-to-co-facilitator.md) — related
 - [In the direct method, teachers perceive conversational ventriloquism, autonomy shifts, authority challenges, and memory erosion](dm-four-ethical-tensions.md) — related
+- [Educators' written ideas about ChatGPT in education followed four themes: fostering AI literacy, acting as a character, improving learning, and serving as a teacher's help](chatgpt-ideas-four-themes-dataset2.md) — related

@@ -59,3 +59,4 @@ Independent samples t-test on pre-test scores in the quasi-experimental study (n
 - [Model-estimated mixture weights show no detectable difference between control and experimental groups in Study 2](study2-mixture-weights-no-group-difference.md) — related
 - [Pretest LSAT scores did not differ reliably between seminar and control groups](seminar-pretest-no-reliable-difference.md) — related
 - [Metacognitive and affective chatbot feedback each produce higher retention scores than neutral feedback, with no significant difference between metacognitive and affective groups](chatbot-metacognitive-affective-feedback-boost-retention.md) — a narrower finding that bears on this claim
+- [Baseline equivalence across stimulation groups rules out prior memory-ability differences as an explanation for post-intervention effects](tacs-baseline-equivalence-pre-intervention-recall.md) — related

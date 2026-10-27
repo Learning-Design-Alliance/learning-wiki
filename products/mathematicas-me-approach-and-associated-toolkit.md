@@ -32,7 +32,8 @@ A Mathematica framework and toolkit that structures evidence gathering and decis
 - [Progress in evidence-based solution development is not always linear; evidence determines phase movement](../claims/evidence-determines-nonlinear-phase-movement.md) [+W]
 
 ## Related Products and Programmes
--
+
+- [Supplementary implementation toolkit](supplementary-implementation-toolkit.md)
 
 ## Key Sources
 - Kate Place, Kara Conroy, Gregory Chojnacki. (2023). A Road Map for Building Evidence that Drives Learning and Improvement. Mathematica. https://www.mathematica.org/publications/a-road-map-for-building-evidence-that-drives-learning-and-improvement

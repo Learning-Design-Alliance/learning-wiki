@@ -52,3 +52,4 @@ Second-stage TSSEM on three just-identified observable reading models. The compr
 - [Age moderates the vocabulary-to-reading paths (effects increase with age) but not the fluency model or any SES paths](age-moderates-vocabulary-reading-paths-not-ses-paths.md) — related
 - [Older readers showed a stronger indirect effect of MA on reading comprehension via vocabulary knowledge, with a converse pattern via word reading](age-grade-moderates-indirect-effects.md) — related
 - [Phonological awareness and rapid bimodal temporal processing partially mediate the Reading-PGS-to-reading association](pa-rbtp-mediate-reading-pgs-reading-skills.md) — related
+- [Children's self-perceptions jointly and separately partially mediate the SES–reading achievement association, explaining additional ΔR² = 0.105](self-perceptions-partially-mediate-ses-reading-achievement.md) — related

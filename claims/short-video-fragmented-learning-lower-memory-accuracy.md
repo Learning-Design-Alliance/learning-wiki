@@ -48,3 +48,6 @@ Between-subjects fMRI experiment: 57 university students randomly assigned to sh
 - [Retrieval-phase neural measures correlate with memory accuracy and habitual short-video use scales within each group](neural-measures-correlate-accuracy-and-short-video-use.md) — related
 - [Caudate–claustrum functional connectivity during retrieval is lower after short-video learning, with no group differences in MTG-involving connectivity](short-video-weaker-caudate-claustrum-connectivity.md) — related
 - [Short video learners show reduced activation in left claustrum, caudate, and middle temporal gyrus during memory retrieval](short-video-reduced-retrieval-activation-claustrum-caudate-mtg.md) — related
+- [Acute exposure to randomly selected short videos, combined with habitual daily viewing, is associated with poorer memory for continuous movies](random-short-video-impairs-continuous-memory.md) — related
+- [Random short video watching attenuates eye-movement synchronization (ISC) at event boundaries during subsequent movie encoding](random-short-video-reduces-boundary-isc.md) — related
+- [Short-video exposure does not impair memory encoding of static pictures (Study 2 null result)](short-video-no-effect-static-picture-encoding.md) — related

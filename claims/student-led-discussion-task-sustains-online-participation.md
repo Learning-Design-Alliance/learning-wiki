@@ -57,3 +57,4 @@ Observational analysis of SNAPP visualisations of discussion-board interactions 
 - [Discussion participation shifted from teacher-driven exchanges with few contributors to broader student participation and student-to-student argumentation](discussion-participation-shift-over-module.md) — possibly the same claim (merge candidate)
 - [Non-scientific discussion was much denser than scientific discussion, with all students participating non-scientifically but only 12 scientifically](non-scientific-denser-than-scientific-discussion.md) — related
 - [Danmaku questions elicit rapid co-answering and co-confusion, while discussion-board questions often go unanswered or support multi-round elaboration](co-answering-co-confusion-versus-lonely-confusion.md) — related
+- [Learning happens across formal, non-formal and informal settings, face-to-face and online](formal-non-formal-informal-learning-settings-interplay.md) — a broader claim this one bears on

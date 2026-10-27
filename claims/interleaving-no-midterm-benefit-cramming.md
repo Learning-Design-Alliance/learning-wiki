@@ -49,3 +49,8 @@ Analysis of two midterm exams in the same experiment, completed in individual an
 - [Interleaved homework yields higher surprise criterial test scores than blocked homework in undergraduate physics, with larger effects in Stage 2](interleaving-criterial-test-benefit-physics.md) — related
 - [Interleaving improves both long-term memory for formulas and exact answer correctness on criterial tests, with a smaller benefit for correctness](interleaving-memory-and-correctness-submeasures.md) — related
 - [Interleaving benefits on criterial tests cannot be attributed to increased study time](interleaving-benefit-not-study-time.md) — related
+- [On raw exam scores, interleaved homework produced no significant midterm difference between sections but a significant final exam advantage for the interleaved section](interleaved-homework-final-exam-raw-advantage-calculus.md) — related
+- [Interleaving showed robust benefits across a multiverse analysis of data-processing choices, with all key p-values below stated thresholds](interleaving-benefits-robust-multiverse-analysis.md) — related
+- [Interleaving disproportionately benefited students with below-average or up-to-0.96-SD-above-average midterm scores, though ceiling effects may contribute](interleaving-disproportionately-benefits-lower-midterm-scores.md) — related
+- [On the midterm, interleaving significantly reduced the gap between URM and non-URM students relative to blocked homework](interleaving-reduces-urm-gap-midterm.md) — related
+- [Controlling for prior knowledge and demographics, interleaving benefited all students on the final exam (β = 0.21, p < 0.001)](interleaving-final-exam-main-effect.md) — related

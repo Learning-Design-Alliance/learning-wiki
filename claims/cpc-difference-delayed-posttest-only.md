@@ -50,3 +50,4 @@ Extreme-groups comparison of high versus low CPC students in the retention study
 - Retention after learning with the chunking method is high, with 85% to 95% of original learning retained over three months — related
 - The correlation between cognitive processing capacity and test performance is non-significant when using the chunking method — reports the opposite
 - [CBI subjects outperform print subjects on the delayed posttest only](cbi-superior-print-delayed-posttest.md)
+- [High-presence dual-context learners showed 92% one-week retention versus 76% for single-context learners, with no group difference among low-presence participants](high-presence-dual-context-one-week-retention.md) — related

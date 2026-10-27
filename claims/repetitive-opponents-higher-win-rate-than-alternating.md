@@ -51,3 +51,4 @@ Paired t-test pooling Pre phase data across all three experiments (n = 218 analy
 - [Only against exploitable opponents does individual win rate correlate with win-calmness (positively) and loss-restlessness (negatively)](win-rate-correlations-exploitable-only.md)
 - [Loss-restlessness is not observed even in structured environments, though restlessness is generally higher against exploiting opponents](no-loss-restlessness-structured-contexts.md)
 - [Against unexploitable opponents, neither win-calmness nor loss-restlessness appears; calmness is instead lower after wins and restlessness lower after losses](no-win-calmness-unexploitable-opponents.md)
+- [In win maximization, performance is more consistent following wins than losses in both repetition- and alternation-exploitable opponents](win-maximization-consistency-following-wins.md) — related

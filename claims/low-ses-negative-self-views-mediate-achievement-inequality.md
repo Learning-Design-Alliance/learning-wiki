@@ -52,3 +52,8 @@ The editorial reports, citing Hofer et al., a secondary analysis of PISA 2018 da
 - [In more competitive school environments, lower-SES students perform better academically than their more advantaged peers, narrowing SES achievement gaps](competitive-schools-narrow-ses-gaps-achievement.md) — related
 - [Students' individual growth mindset is positively associated with their odds of being academically resilient in PISA 2018 data across 79 countries](cl-individual-growth-mindset-resilience.md) — related
 - [Assessments like PISA-VET risk reinforcing inequalities in VET if underlying socioeconomic inequities are unaddressed](pisa-vet-equity-risk.md) — related
+- [The proportion of the SES effect mediated by growth mindset varies across countries, reaching at most 0.11 in a few countries while most fall between 0 and 0.08](cross-national-variation-mindset-mediation-pisa.md) — related
+- [Growth mindset mediates only a small share (about 2.9–3.2%) of the effect of SES on academic achievement across 73 countries](growth-mindset-mediation-of-ses-effect-small-pisa-2022.md) — related
+- [Growth mindset is associated with better PISA performance across SES levels, but appears less beneficial at low SES and advantaged students still achieve better outcomes](mindset-benefit-weaker-at-low-ses.md) — related
+- [Across 70 countries, socioeconomic status is positively associated with reading achievement (meta-analytic r = 0.339)](ses-reading-achievement-association-70-countries.md) — related
+- [The mediated interaction between SES and growth mindset is small but positive (about 0.006), indicating only minimal moderation of the SES effect](mediated-interaction-ses-mindset-minimal.md) — related

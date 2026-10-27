@@ -337,3 +337,4 @@ Open questions that evidence entries should address include: how retrieval pract
 - [Feedback moderates the role of WMC in the testing effect, reducing WM load for low-WMC learners](feedback-as-wm-aid-for-retrieval-practice.md) — related
 - [Feedback played little, if any, role in brain-activity modulation after the first successful retrieval](feedback-little-role-after-first-successful-retrieval.md) — related
 - [Learners with dyslexia recalled more words with speech-based than typing-based adaptive retrieval practice, with the typing disadvantage attributable to processing delays rather than memory](speech-based-retrieval-benefits-dyslexia.md) — a narrower finding that bears on this claim
+- [After one-week delay, high-fidelity reinstatement benefited recall only following incongruent pre-recall reinstatement prompts, suggesting a desirable-difficulty effect](fidelity-incongruent-prompt-one-week-interaction.md) — a narrower finding that bears on this claim

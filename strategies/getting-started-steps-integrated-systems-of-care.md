@@ -44,6 +44,7 @@ The guide prescribes five steps for LEAs beginning whole child work: examine the
 - [Use the tools as facilitated conversation starters that produce artifacts, not as a checklist exercise](tools-as-conversation-starters-not-checklist.md)
 - [Implement SEL systemically as a public health approach with shared vision, adult SEL, aligned programs, and continuous improvement](systemic-sel-public-health-implementation.md)
 - [Conduct readiness checks and align systems to local student need before replication, expansion, or merger](readiness-check-before-replication-expansion.md)
+- [Getting-started sequence: build authentic partnerships, assess intervention-context fit, then budget for continuous revision](stakeholder-partnership-first-implementation-strategy.md)
 
 ## Examples
 -
