@@ -9,6 +9,7 @@ generated:
   at: 2026-10-27
 evidence_strength: moderate
 newest_evidence: 2018
+source_checked: 2026-10-27
 sources:
   - id: chunliang-yang-2018
     resource: "https://doi.org/10.1038/s41539-018-0024-y"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
-> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2018 · checked against its sources 2026-10-27 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In Szpunar et al.'s single item learning study, the Interim Test group recalled about twice as many List 5 words as the Interim Distractor and Interim Restudy groups, and made roughly ten times fewer intrusion errors. [→ Chunliang Yang 2018](#chunliang-yang-2018)

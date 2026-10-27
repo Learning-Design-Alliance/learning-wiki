@@ -9,6 +9,7 @@ generated:
   at: 2026-10-27
 evidence_strength: moderate
 newest_evidence: 2025
+source_checked: 2026-10-27
 sources:
   - id: shin-2025
     resource: "https://doi.org/10.1038/s41539-025-00340-3"
@@ -32,10 +33,10 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q3`
-> **Currency** · newest study 2025 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-10-27 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
-`q3 i?` No significant pre-to-post changes or group effects were found in the L1 (easy) condition, suggesting targeted stimulation offers limited advantage for already-consolidated items. [→ Shin 2025](#shin-2025)
+`q3 i?` In the L1 (easy) condition there was a significant main effect of group but no significant effect of time or group-by-time interaction, and no significant pre-to-post change in any group; the authors read this as targeted stimulation offering limited advantage for items already consolidated before sleep (non-significance, not a tested absence of effect). [→ Shin 2025](#shin-2025)
 `q3 i?` Strong negative correlations between difficulty ratings and recall accuracy (rho = -0.878 to -0.948) validated the prospective difficulty classification across all groups and sessions. [→ Shin 2025 (2)](#shin-2025-2)
 
 ## Evidence

@@ -9,11 +9,12 @@ generated:
   at: 2026-10-27
 evidence_strength: moderate
 newest_evidence: 2024
+source_checked: 2026-10-27
 sources:
   - id: bárbara-malcorra-2024
     resource: "https://doi.org/10.1038/s41539-024-00248-4"
-    title: "Bárbara Malcorra, Marina Ribeiro, Giovanna Jensen, Tamara Meletti & Natália Bezerra Mota. (2024). Speech connectedness predicts reading performance three months in advance: a longitudinal experiment. npj Science of Learning. https://doi.org/10.1038/s41539-024-00248-4"
-    author: "Bárbara Malcorra, Marina Ribeiro, Giovanna Jensen, Tamara Meletti & Natália Bezerra Mota"
+    title: "Bárbara Malcorra, Marina Ribeiro, Luísa Jensen, Giovana Gomes, Tamara Meletti & Natália Bezerra Mota. (2024). Speech connectedness predicts reading performance three months in advance: a longitudinal experiment. npj Science of Learning. https://doi.org/10.1038/s41539-024-00248-4"
+    author: "Bárbara Malcorra, Marina Ribeiro, Luísa Jensen, Giovana Gomes, Tamara Meletti & Natália Bezerra Mota"
     q: 2
     i: "?"
     kind: associational
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · checked against its sources 2026-10-27 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Significant positive Spearman correlations were found between June (third assessment) narrative connectedness (LCC and LSC) and October (fifth assessment) phonological awareness, reading comprehension, and word accuracy, after multiple-comparison correction. [→ Bárbara Malcorra 2024](#barbara-malcorra-2024)
@@ -33,7 +34,7 @@ sources:
 
 ### Bárbara Malcorra 2024
 
-Bárbara Malcorra, Marina Ribeiro, Giovanna Jensen, Tamara Meletti & Natália Bezerra Mota. (2024). Speech connectedness predicts reading performance three months in advance: a longitudinal experiment. npj Science of Learning. https://doi.org/10.1038/s41539-024-00248-4
+Bárbara Malcorra, Marina Ribeiro, Luísa Jensen, Giovana Gomes, Tamara Meletti & Natália Bezerra Mota. (2024). Speech connectedness predicts reading performance three months in advance: a longitudinal experiment. npj Science of Learning. https://doi.org/10.1038/s41539-024-00248-4
 
 `q2 · i?` · `associational · r2`
 

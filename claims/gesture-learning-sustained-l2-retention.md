@@ -9,6 +9,7 @@ generated:
   at: 2026-10-27
 evidence_strength: weak
 newest_evidence: 2020
+source_checked: 2026-10-27
 sources:
   - id: ping-li-and-hyeonjeong-jeong-2020
     resource: "https://doi.org/10.1038/s41539-020-0068-7"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r1` · `q2`
-> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2020 · checked against its sources 2026-10-27 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Review-attributed neurocognitive study: learners in a gesture condition showed significantly better memory for L2 words and more sustained retention than non-gesture learners, even after 2–6 months. [→ Ping Li and Hyeonjeong Jeong 2020](#ping-li-and-hyeonjeong-jeong-2020)

@@ -10,8 +10,8 @@ generated:
 sources:
   - id: bárbara-malcorra-2024
     resource: "https://doi.org/10.1038/s41539-024-00248-4"
-    title: "Bárbara Malcorra, Marina Ribeiro, Giovanna Jensen, Tamara Meletti & Natália Bezerra Mota. (2024). Speech connectedness predicts reading performance three months in advance: a longitudinal experiment. npj Science of Learning. https://doi.org/10.1038/s41539-024-00248-4"
-    author: "Bárbara Malcorra, Marina Ribeiro, Giovanna Jensen, Tamara Meletti & Natália Bezerra Mota"
+    title: "Bárbara Malcorra, Marina Ribeiro, Luísa Jensen, Giovana Gomes, Tamara Meletti & Natália Bezerra Mota. (2024). Speech connectedness predicts reading performance three months in advance: a longitudinal experiment. npj Science of Learning. https://doi.org/10.1038/s41539-024-00248-4"
+    author: "Bárbara Malcorra, Marina Ribeiro, Luísa Jensen, Giovana Gomes, Tamara Meletti & Natália Bezerra Mota"
 ---
 
 # Use storytelling-based connectedness assessment as a low-cost, inclusive early tracking tool for reading acquisition
@@ -54,4 +54,4 @@ Because the storytelling task "does not require the child to be able to read," t
 -
 
 ## Key Sources
-- Bárbara Malcorra, Marina Ribeiro, Giovanna Jensen, Tamara Meletti & Natália Bezerra Mota. (2024). Speech connectedness predicts reading performance three months in advance: a longitudinal experiment. npj Science of Learning. https://doi.org/10.1038/s41539-024-00248-4
+- Bárbara Malcorra, Marina Ribeiro, Luísa Jensen, Giovana Gomes, Tamara Meletti & Natália Bezerra Mota. (2024). Speech connectedness predicts reading performance three months in advance: a longitudinal experiment. npj Science of Learning. https://doi.org/10.1038/s41539-024-00248-4

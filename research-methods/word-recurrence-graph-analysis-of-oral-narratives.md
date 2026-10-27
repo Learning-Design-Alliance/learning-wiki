@@ -28,4 +28,4 @@ The article represents transcribed oral narratives as directed graphs in which "
 -
 
 ## Key Sources
-- Bárbara Malcorra, Marina Ribeiro, Giovanna Jensen, Tamara Meletti & Natália Bezerra Mota. (2024). Speech connectedness predicts reading performance three months in advance: a longitudinal experiment. npj Science of Learning. https://doi.org/10.1038/s41539-024-00248-4
+- Bárbara Malcorra, Marina Ribeiro, Luísa Jensen, Giovana Gomes, Tamara Meletti & Natália Bezerra Mota. (2024). Speech connectedness predicts reading performance three months in advance: a longitudinal experiment. npj Science of Learning. https://doi.org/10.1038/s41539-024-00248-4
