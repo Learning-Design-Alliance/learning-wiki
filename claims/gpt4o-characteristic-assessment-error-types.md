@@ -9,6 +9,7 @@ generated:
   at: 2026-10-27
 evidence_strength: weak
 newest_evidence: 2025
+source_checked: 2026-10-27
 sources:
   - id: liangliang-chen-2025
     resource: "https://doi.org/10.1007/s40593-025-00501-w"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-10-27 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` GPT-4o's recurring assessment errors include unit-conversion equivalence failures, number-format equivalence failures, false incompleteness judgments, rejection of correct alternative methods, and failures to recognize exchanged variable notations. [→ Liangliang Chen 2025](#liangliang-chen-2025)

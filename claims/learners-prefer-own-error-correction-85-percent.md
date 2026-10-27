@@ -9,6 +9,7 @@ generated:
   at: 2026-10-27
 evidence_strength: weak
 newest_evidence: 2016
+source_checked: 2026-10-27
 sources:
   - id: trude-heift-2016
     resource: "https://doi.org/10.1007/s40593-015-0061-0"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2016 · checked against its sources 2026-10-27 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Heift (2002) found the majority of students (85%) prefer to work through error correction on their own, accessing system-provided correct answers only occasionally. [→ Trude Heift 2016](#trude-heift-2016)

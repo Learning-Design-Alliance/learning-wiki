@@ -11,7 +11,8 @@ evidence_strength: moderate
 newest_evidence: 2016
 sources:
   - id: knight-2016
-    title: "Knight, S., Buckingham Shum, S., Ryan, P., Sándor, Á., & Wang, X. (2016). Designing Academic Writing Analytics for Civil Law Student Self-Assessment. Int J Artif Intell Educ."
+    resource: "https://doi.org/10.1007/s40593-016-0121-0"
+    title: "Knight, S., Buckingham Shum, S., Ryan, P., Sándor, Á., & Wang, X. (2016). Designing Academic Writing Analytics for Civil Law Student Self-Assessment. *International Journal of Artificial Intelligence in Education, 28*(1), 1–28. [doi:10.1007/s40593-016-0121-0](https://doi.org/10.1007/s40593-016-0121-0)"
     author: "Knight, S., Buckingham Shum, S., Ryan, P., Sándor, Á., & Wang, X."
     q: 2
     i: "?"
@@ -32,7 +33,7 @@ sources:
 
 ### Knight 2016
 
-Knight, S., Buckingham Shum, S., Ryan, P., Sándor, Á., & Wang, X. (2016). Designing Academic Writing Analytics for Civil Law Student Self-Assessment. Int J Artif Intell Educ.
+Knight, S., Buckingham Shum, S., Ryan, P., Sándor, Á., & Wang, X. (2016). Designing Academic Writing Analytics for Civil Law Student Self-Assessment. *International Journal of Artificial Intelligence in Education, 28*(1), 1–28. [doi:10.1007/s40593-016-0121-0](https://doi.org/10.1007/s40593-016-0121-0)
 
 `q2 · i?` · `design · r2`
 

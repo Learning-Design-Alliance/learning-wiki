@@ -50,4 +50,4 @@ AWA deliberately positions its feedback not as a summative grade but as formativ
 -
 
 ## Key Sources
-- Knight, S., Buckingham Shum, S., Ryan, P., Sándor, Á., & Wang, X. (2016). Designing Academic Writing Analytics for Civil Law Student Self-Assessment. Int J Artif Intell Educ.
+- Knight, S., Buckingham Shum, S., Ryan, P., Sándor, Á., & Wang, X. (2016). Designing Academic Writing Analytics for Civil Law Student Self-Assessment. *International Journal of Artificial Intelligence in Education, 28*(1), 1–28. https://doi.org/10.1007/s40593-016-0121-0

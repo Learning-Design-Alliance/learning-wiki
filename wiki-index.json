@@ -123226,6 +123226,7 @@
 "id":"gpt4o-characteristic-assessment-error-types",
 "newest_evidence":"2025",
 "path":"claims/gpt4o-characteristic-assessment-error-types.md",
+"source_checked":"2026-10-27",
 "status":"review",
 "title":"GPT-4o frequently makes characteristic errors in homework assessment, including failing to recognize unit and numeric equivalences, marking complete solutions incomplete, and mishandling alternative methods and notations",
 "type":"claim"
@@ -156683,6 +156684,7 @@
 "id":"learners-prefer-own-error-correction-85-percent",
 "newest_evidence":"2016",
 "path":"claims/learners-prefer-own-error-correction-85-percent.md",
+"source_checked":"2026-10-27",
 "status":"review",
 "title":"Most learners (85%) prefer to work through error correction on their own, with proficiency moderating help use",
 "type":"claim"
