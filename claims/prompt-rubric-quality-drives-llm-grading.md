@@ -98,3 +98,4 @@ The review reports, from a single chemistry study in its table, that detailed ru
 - [LLMs overrate short underdeveloped essays and over-penalize minor language errors in well-developed essays](llm-overrate-short-essays-overpenalize-errors.md) — related
 - [LLMs support the shift from memorization-focused to competency-based assessment by generating rubrics, varied assessment items and authentic scenario-based tasks](llms-support-competency-based-assessment-design.md) — related
 - [SES gap patterns in PISA-like items are robust to scoring responses with generative AI instead of hand-coding](genai-scoring-replicates-ses-gap-patterns.md) — a narrower finding that bears on this claim
+- [GPT-4 grading agrees best with the instructor when the prompt includes the instructor's model answer with a rubric, and worst with an AI-generated rubric alone](prompt-design-model-answer-plus-rubric-best.md) — a narrower finding that bears on this claim

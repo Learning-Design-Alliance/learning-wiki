@@ -71,3 +71,4 @@ Bonferroni-adjusted follow-up simple-effect analyses on the mixed-design ANCOVA.
 - [Performance during the AI-supported task consistently predicted performance on the subsequent AI-removal task across all writing dimensions](ai-support-performance-continuity-to-independent-performance.md) — related
 - [Generative AI-assisted feedback is associated with a statistically significant pretest–posttest improvement in violin students' intonation performance over a four-week period](genai-feedback-improves-violin-intonation-posttest.md) — related
 - [Neither feedback mode produced differential improvements in syntactic complexity; a general time effect appeared only in the first task](syntactic-complexity-no-differential-effect.md) — related
+- [GenAI benefits vary across writing sub-tasks: organization and style improve marginally while policy logic shows no improvement](genai-subtask-differential-benefits.md) — related

@@ -72,3 +72,4 @@ The report's findings summary states that "Both the prior performance flags and 
 - [When demographic groups have different base rates, no method can satisfy calibration, equalized odds, and statistical parity simultaneously](impossibility-fairness-metrics-base-rates.md) — related
 - [Removing the sensitive race feature caused little impact on predictive performance at Stage 1 and no significant fairness differences, with mixed fairness effects](removing-race-feature-little-performance-impact.md) — related
 - [Data source choice affects both accuracy and fairness: institutional features were most accurate-related yet most discriminatory](data-source-fairness-accuracy-effects.md) — related
+- [Methods with higher scoring accuracy showed lower demographic disparity across the tested model combinations](higher-accuracy-lower-disparity.md) — related

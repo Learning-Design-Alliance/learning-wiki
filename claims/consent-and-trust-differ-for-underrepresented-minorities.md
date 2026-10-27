@@ -47,3 +47,4 @@ The editorial summarizes the special-issue paper on learning-analytics consent, 
 ## Related Claims
 - [Utility-value interventions improve grades, with the largest gains for first-generation and underrepresented minority students, and can improve STEM persistence years later](utility-value-interventions-improve-grades-and-persistence.md) — related
 - [In one MMLA nursing simulation study, 11 of 14 interviewed students preferred opt-out over opt-in consent, but most did not fully read the explanatory statement](opt-out-consent-preferred-mmla.md) — related
+- [Institutional trust, data-collection concern, and comfort with instructor data use are the key factors in students' decisions to consent to learning analytics](three-factors-consent-learning-analytics.md) — related

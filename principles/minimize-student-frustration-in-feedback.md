@@ -152,6 +152,7 @@ Learners' ratings of feedback, their uptake in the next draft, later writing qua
 ## Examples
 
 - [Hold one-on-one writing conferences to negotiate feedback and revision](../strategies/one-on-one-writing-conferences.md)
+- [Frame automated writing analytics as formative guidance rather than summative grading](../strategies/frame-analytics-formative-not-summative.md)
 
 ## Key Sources
 - Shvidko, Elena. (2020). Taking into Account Interpersonal Aspects of Teacher Feedback: Principles of Responding to Student Writing. Journal on Empowering Teaching Excellence, Vol. 4, Iss. 2, Article 7. https://doi.org/10.26077/936a-72f7

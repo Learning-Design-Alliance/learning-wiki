@@ -59,3 +59,4 @@ Trends and comments from the Job or Graduate/Professional School Application ass
 - [Student perceptions of GenAI feedback functionalities diverged, with some finding them redundant when feedback was perceived as clear](divergent-perceptions-genai-feedback-redundancy.md) — related
 - [Students bound their reliance on AI feedback and advocate a hybrid model assigning AI broad language concerns and instructors individualized relational guidance](bounded-reliance-hybrid-feedback-preference.md) — related
 - [Students producing high-quality revisions spent more time addressing higher order comments](high-quality-revisers-more-time-higher-order-comments.md) — related
+- [Students identified lack of sensitivity to linguistic nuance as a limitation of AWA feedback](awa-lacks-sensitivity-linguistic-nuance.md) — related

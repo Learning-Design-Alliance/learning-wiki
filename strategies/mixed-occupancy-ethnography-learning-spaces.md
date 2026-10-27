@@ -53,6 +53,7 @@ The study's method pairs automated occupancy data (collected 24 h per day, 7 day
 
 - [Use a multi-study mixed method design combining process data (eye tracking), concurrent think-aloud, and retrospective interviews to study SRL adaptation](mixed-method-eye-tracking-think-aloud-retrospective-srl-strategy.md)
 - [Use a matched comparison group design with qualitative mechanism exploration to evaluate charter school impacts](matched-comparison-group-design-with-qualitative-mechanism-exploration.md)
+- [Have users self-report competence-development activities instead of monitoring their devices](user-self-reported-development-activities.md)
 
 ## Examples
 -

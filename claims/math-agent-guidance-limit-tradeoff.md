@@ -55,3 +55,4 @@ Live experiment removing the Math Agent's verbose guidance section, hypothesizin
 - [Adolescent students' stated pre-chat intentions with an AI math tutor tilt strongly toward scaffolded support rather than answer offloading](forethought-intentions-learning-oriented-genai-tutor.md) — related
 - [Tutors with Tutor CoPilot access use more understanding-fostering strategies (e.g., prompting students to explain) and rely less on giving away answers than control tutors](tutor-copilot-shifts-tutors-toward-understanding-fostering-strategies.md) — related
 - [GPT-4 generates targeted corrective feedback for 66% of student errors, but 35% of hints are too general, incorrect, or give away the answer](gpt4-feedback-66-percent-targeted-35-percent-flawed.md) — related
+- [Most learners (85%) prefer to work through error correction on their own, with proficiency moderating help use](learners-prefer-own-error-correction-85-percent.md) — related

@@ -87,3 +87,4 @@ Janelli, M., & Lipnevich, A. A. (2021). Effects of pre-tests and feedback on per
 - [MOOCs failed to deliver on their proponents' promises of transforming higher education](moocs-failed-to-deliver-on-promises.md) — related
 - [Recorded natural-language feedback was associated with lower odds of subsequent persistent failure than no feedback in the randomized course subset](natural-language-feedback-lower-persistent-failure-odds.md) — related
 - [The study addresses whether performance on the low-stakes PISA reading and mathematics assessments can be fostered by coaching and pretesting](low-stakes-pisa-coaching-question.md) — related
+- [Monitoring drop-out rates at specific pages identified difficult text, and revising those pages lowered drop-out rates back to normal](dropout-monitoring-guided-text-revision.md) — related

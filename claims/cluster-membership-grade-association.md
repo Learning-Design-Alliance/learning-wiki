@@ -75,3 +75,4 @@ Chi-square test of independence examining gender distribution across the three c
 - [The six clusters differ substantially in academic performance: Final Grade ANOVA η² = 0.770, with C0 exceeding C1 by 40.17 exam-score points](cluster-performance-anova-tukey.md) — related
 - [Female gender and Irish ethnicity predict membership of less positively engaged momentary profiles relative to the engaged profile](gender-ethnicity-predict-engagement-profile-membership.md) — related
 - [The Devalued/Ambivalent profile is significantly overrepresented in academically selective magnet schools, and Resistors are underrepresented there](devalued-ambivalent-profile-overrepresented-in-magnet-schools.md) — related
+- [Response rates to a learning analytics consent email differ by gender and ethnicity, with Black students underrepresented and White students overrepresented among respondents](la-consent-response-gap-gender-ethnicity.md) — related

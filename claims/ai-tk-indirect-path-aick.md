@@ -70,3 +70,4 @@ AI-TPACK-SEM path analysis (N=412) showing AI-TCK's standardized path "β = 0.79
 - [Chinese MTES show medium-level AI-TPACK overall, with AI-TK the lowest-scoring component and teaching beliefs the highest, indicating a basic, preliminary stage](mtes-aick-tk-lowest-medium-level-basic-stage.md) — related
 - [Teaching beliefs are negatively associated with AI-TCK and AI-TPK and show no significant effect on AI-TK, suggesting excessive teaching beliefs may impede AI-TPACK advancement](teaching-beliefs-negative-aick.md) — related
 - [Content knowledge is not significantly associated with self-perceived knowledge in any technology-integrated GenAI domain](content-knowledge-not-associated-genai-integration.md) — related
+- [Teachers' post-TaL technology knowledge is not significantly associated with their technology content knowledge.](tk-tck-correlation-null.md) — related

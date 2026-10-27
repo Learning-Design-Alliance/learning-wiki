@@ -61,3 +61,4 @@ Classification of the 84 studies using the Bond et al. (2024) typology found "AI
 - [Chatbots were the most frequently used AI application type for supporting SRL, followed by evaluation systems](chatbots-most-common-ai-srl-application.md) — related
 - [Mobile devices enable just-in-time adaptive interventions that flexibly adapt support to students' changing internal and contextual states](jitai-just-in-time-mobile-support.md) — related
 - [AI in psychomotor ITS is used predominantly for feedback construction rather than for task recommendation or adaptation](its-ai-feedback-over-recommendation.md) — related
+- [Machine learning is the most frequently studied AI type in AIED systematic reviews, followed by intelligent tutoring systems, learning analytics, and data mining](machine-learning-most-studied-ai-in-aied-reviews.md) — related

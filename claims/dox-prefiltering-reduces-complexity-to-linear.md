@@ -47,3 +47,4 @@ Analytical derivation under the article's model: without step 1, selecting the q
 
 ## Related Claims
 - [Explanations generated from generic questions were rated significantly better than those generated from random questions, supporting the hypothesis that question selection strategy matters](generic-questions-beat-random-questions-explanations.md) — related
+- [Special-issue evidence: a knowledge-graph-enriched legal-writing textbook led to better learning outcomes than baselines, and aggregated emoji annotations helped teachers identify challenging text](special-issue-textbook-enhancements-outcomes.md) — related

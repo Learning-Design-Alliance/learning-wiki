@@ -21,6 +21,7 @@ The ASAP 2.0 dataset is a public benchmark of approximately 24,000 student argum
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 - **ASAP 2.0 dataset of argumentative student essays with 1–6 human-assigned scores**: The ASAP 2.0 dataset (Crossley et al. 2024) is the public AES benchmark used to evaluate RACES. It "contains approximately 24,000 argumentative essays written by students, covering diverse topics and writing styles", with about 17,000 used for training and the rest for validation and testing. Each essay carries a human-assigned score from 1 to 6 based on strict evaluation criteria, serving as the only human-assigned labels in the experiments. (Zhenxin Zhang et al. (2026))
+- **ASAP '12 SAS Kaggle competition dataset for short answer scoring**: The Automated Student Assessment Prize (ASAP) short answer scoring competition was hosted on Kaggle in 2012, covering ten questions of varied high-school-level subject matter from arts to science. "The participants were given 1,800 student answers for training, which were randomly taken from a pool of 3,000." A further 6,000 student answers were used for testing, and agreement between predicted and human-judge-resolved scores was evaluated with quadratic weighted kappa. The review examines the top three systems from a modified ranking: Tandella '12, Zbontar '12, and Conort '12. (Steven Burrows et al. (2015))
 
 ### Claims
 
@@ -34,3 +35,4 @@ The ASAP 2.0 dataset is a public benchmark of approximately 24,000 student argum
 
 ## Key Sources
 - Zhenxin Zhang, Ziyu Ding, Mengyun Liu and Haiwei Sang. (2026). RACES: reward-aligned consistent essay scoring with large language models. International Journal of Educational Technology in Higher Education. https://doi.org/10.1186/s41239-026-00607-8
+- Steven Burrows, Iryna Gurevych, Benno Stein. (2015). The Eras and Trends of Automatic Short Answer Grading. Int J Artif Intell Educ. https://doi.org/10.1007/s40593-014-0026-8

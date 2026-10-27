@@ -46238,5 +46238,97 @@
  "scaffolding\tpersonalized higher-quality, similar examples with adaptive feedback\tnon-personalized examples and feedback": {
   "label": "Personalized, higher-quality examples with adaptive feedback vs non-personalized examples with feedback",
   "treatment_is_a": true
+ },
+ "debriefing\tmore post-solution discussions\tfewer post-solution discussions": {
+  "label": "more post-solution discussions vs fewer post-solution discussions",
+  "treatment_is_a": true
+ },
+ "debriefing\tmore post-solution discussions abstracting from the current problem\tfewer such abstracting discussions": {
+  "label": "more abstracting post-solution discussions vs fewer abstracting post-solution discussions",
+  "treatment_is_a": true
+ },
+ "debriefing\tpost-solution discussions abstracting from the current problem\tdiscussions not abstracting from the current problem": {
+  "label": "abstracting post-solution discussions vs non-abstracting post-solution discussions",
+  "treatment_is_a": true
+ },
+ "debriefing\tpost-solution discussions that abstracted from the current problem\tdiscussions that did not abstract from the current problem": {
+  "label": "abstracting post-solution discussions vs non-abstracting post-solution discussions",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tpost-course perceived competency after genAI instruction and use\tpre-course perceived competency": {
+  "label": "post-course vs pre-course perceived competency",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tELM-ART with cognitive diagnosis and feedback\tELM-PE without cognitive diagnosis and feedback": {
+  "label": "feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tELM-PE with cognitive diagnosis and feedback\tsame environment without cognitive diagnosis and feedback": {
+  "label": "feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\treal-time audio feedback\t10 seconds before feedback": {
+  "label": "immediate vs delayed feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\treal-time audio feedback\tcontrol condition": {
+  "label": "feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tcanned feedback following reflection questions\thuman tutor feedback following reflection questions": {
+  "label": "human tutor feedback vs canned feedback",
+  "treatment_is_a": false
+ },
+ "feedback-type\tguidance prompting students to plan a revision\tguidance asking students to revisit ideas": {
+  "label": "revision-planning guidance vs idea-revisiting guidance",
+  "treatment_is_a": true
+ },
+ "feedback-type\tguidance to revisit ideas\tprompts on planning a revision": {
+  "label": "revision-planning guidance vs idea-revisiting guidance",
+  "treatment_is_a": false
+ },
+ "feedback-type\thuman tutor feedback\tsingle canned explanation": {
+  "label": "human tutor feedback vs canned feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tpersonalized and transparent automated guidance\tless personalized or less transparent guidance": {
+  "label": "personalized and transparent automated guidance vs less personalized or transparent guidance",
+  "treatment_is_a": true
+ },
+ "feedback-type\treflection questions followed by human tutor feedback\treflection questions followed by canned feedback": {
+  "label": "human tutor feedback vs canned feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\treflection questions followed by human tutor feedback\tthe same reflection questions followed by canned feedback": {
+  "label": "human tutor feedback vs canned feedback",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tstudent self-assessment using the formal rubric\tinstructor assessment": {
+  "label": "student self-assessment vs instructor assessment",
+  "treatment_is_a": true
+ },
+ "prompts\tmore tutor-initiated post-solution discussions\tfewer tutor-initiated post-solution discussions": {
+  "label": "more tutor-initiated post-solution discussions vs fewer tutor-initiated post-solution discussions",
+  "treatment_is_a": true
+ },
+ "prompts\treflection questions and feedback after problem solving\tno reflection questions after problem solving": {
+  "label": "reflection questions with feedback vs no reflection questions",
+  "treatment_is_a": true
+ },
+ "prompts\treflection questions with feedback\tno reflection questions after problem solving": {
+  "label": "reflection questions with feedback vs no reflection questions",
+  "treatment_is_a": true
+ },
+ "prompts\treflection questions with human tutors or canned feedback\tno reflection questions": {
+  "label": "reflection questions with feedback vs no reflection questions",
+  "treatment_is_a": true
+ },
+ "scaffolding\tTeachers-as-Designers session after Teachers-as-Learners\tTeachers-as-Learners session": {
+  "label": "Teachers-as-Designers-after-Teachers-as-Learners session vs Teachers-as-Learners-only session",
+  "treatment_is_a": true
+ },
+ "scaffolding\tpersonalized and transparent automated guidance\tless personalized and less transparent automated guidance": {
+  "label": "More personalized and transparent automated guidance vs less personalized and transparent automated guidance",
+  "treatment_is_a": true
  }
 }

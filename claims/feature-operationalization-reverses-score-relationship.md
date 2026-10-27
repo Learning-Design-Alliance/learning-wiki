@@ -66,3 +66,4 @@ The authors conclude from the FCE weight table (e.g., TTR negative, corrected TT
 - [The most predictive linguistic features differ across datasets, overlapping only in lexical diversity measures](aes-predictive-features-not-generalizable-across-corpora.md) — related
 - [Document length alone carries some signal (word-count classifier ROC-AUC 0.68), but the fixed-word sliding-window design largely prevents stylometric features from capturing length differences](sliding-window-controls-document-length-effects.md) — related
 - [Type-token ratio showed a non-monotonic relationship with predicted difficulty, with both very low and very high lexical diversity increasing predicted text difficulty](ttr-nonmonotonic-difficulty-pattern.md) — related
+- [Systematic linguistic differences exist between demographic groups in PISA text responses, including response length, lexical diversity, and out-of-vocabulary tokens](linguistic-group-differences-pisa-responses.md) — related

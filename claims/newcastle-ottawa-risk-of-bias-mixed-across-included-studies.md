@@ -50,3 +50,4 @@ Results overview of the 90 included studies assessed with the Newcastle–Ottawa
 - [Inter-annotator agreement was moderate (combined mean Fleiss's κ of 0.62 across 23 groups), yet most students reported having reached consensus](moderate-kappa-versus-perceived-consensus-gap.md)
 - [Inter-rater agreement among the 20 expert teachers was low, at or below chance across QM criteria](low-inter-rater-agreement-qm-criteria.md)
 - [Human inter-rater agreement for FRISCO essay scoring was reliable, with mean kappa 0.78–0.84 and percentage of agreement above 75% in all six dimensions](frisco-rater-agreement-reliable.md)
+- [Most AIED systematic reviews omit quality assessment, inter-rater reliability, and sufficient details about individual included studies](aied-reviews-quality-assessment-gaps.md) — related

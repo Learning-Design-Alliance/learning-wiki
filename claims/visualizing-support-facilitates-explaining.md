@@ -96,3 +96,4 @@ Narrative review attributing this to Fiorella and Kuhlmann (2020): college stude
 - [Neither rereading nor self-explanation changed comprehension test performance itself; effects were specific to monitoring accuracy](monitoring-effects-without-test-performance-gains.md) — related
 - [Concept mapping improves learning over most comparison conditions by a moderate average amount, but not over time-matched retrieval practice](concept-mapping-improves-learning.md) — related
 - [Receiving two model answer diagrams improves secondary students' delayed-diagramming text comprehension relative to no model answers](two-model-answers-improve-comprehension-delayed-diagramming.md) — related
+- [Argument diagramming tools increase relevant citations and opposing evidence in college writing, with domain-specific diagrams adding citation validity](argument-diagramming-increases-citations-opposing-evidence.md) — a narrower finding that bears on this claim

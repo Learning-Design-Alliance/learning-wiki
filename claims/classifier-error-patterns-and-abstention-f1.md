@@ -69,3 +69,4 @@ Per-topic performance analysis on the 70-question gold set: the abstention class
 - [The FastFit classifier slightly outperforms GPT-4 used directly under the same closed-label prompt on the same gold set (0.800 vs. 0.786 accuracy)](fastfit-outperforms-gpt4-direct-classification.md) — related
 - [Classifiers systematically confuse adjacent engagement levels: social with active, constructive with interactive, and interactive with active](adjacent-engagement-level-misclassification-patterns.md) — related
 - [Student teachers generated 2,181 Cipherbot conversations, dominated by topic inquiries targeting deepening understanding and clarifications](cipherbot-conversation-analytics-2181.md) — related
+- [A Simulated Student architecture detects and avoids three situations that decrease the benefits of learning in collaboration](simulated-student-detects-negative-collaboration-situations.md) — related

@@ -13,7 +13,7 @@ generated:
 # Massive Open Online Course (MOOC)
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 36 claims (10 for, 21 mixed, 5 against) · 33 studies (8 associational, 7 review, 6 causal, 5 quant-synthesis, 3 design, 3 theoretical, 1 qualitative), `q1`–`q4` · 6 of 33 report an effect size · 32 claims rest on one study
+> **Evidence** · 37 claims (10 for, 22 mixed, 5 against) · 34 studies (8 associational, 7 causal, 7 review, 5 quant-synthesis, 3 design, 3 theoretical, 1 qualitative), `q1`–`q4` · 6 of 34 report an effect size · 33 claims rest on one study
 
 ## Description and scope
 
@@ -155,6 +155,7 @@ This pattern is scoped to open courses at a scale where teacher time per learner
 - [Political ideology shows essentially no relationship with total forum activity in politically-themed MOOCs](../claims/ideology-no-relationship-forum-activity.md) [~W]
 - [Course-created forum threads in these MOOCs showed balanced ideological contribution, with only small conservative-leaning exceptions](../claims/threads-ideologically-balanced.md) [~W]
 - [Structural topic models show partisan differences in topic use amount to less than 2% of all MOOC forum posts](../claims/topic-use-converges-across-partisans.md) [~W]
+- [Peer graders in these MOOCs score more leniently and with greater dispersion than the instructor](../claims/peer-grading-lenient-high-dispersion-moocs.md) [~W]
 
 ## Related Patterns
 - [Online Course Design (Community of Inquiry)](online-course-design.md) — shares concern for interaction design, but MOOC scale makes deep learner-instructor interaction impractical in a way a smaller online course does not face

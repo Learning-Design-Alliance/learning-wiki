@@ -14,7 +14,7 @@ grain_size: course
 # AI Tutoring
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 344 claims (156 for, 137 mixed, 51 against) · 231 studies (82 causal, 51 review, 28 design, 26 theoretical, 19 quant-synthesis, 14 associational, 11 qualitative), `q1`–`q4` · 47 of 231 report an effect size · 329 claims rest on one study
+> **Evidence** · 346 claims (156 for, 139 mixed, 51 against) · 233 studies (83 causal, 51 review, 29 design, 26 theoretical, 19 quant-synthesis, 14 associational, 11 qualitative), `q1`–`q4` · 47 of 233 report an effect size · 331 claims rest on one study
 
 ## Description and scope
 
@@ -325,6 +325,8 @@ This pattern is scoped to the tutor's moves within tasks and the handoff to peop
 - [A large-scale USA study of Cognitive Tutors found only limited evidence of relative effectiveness over conventional teaching, with classroom use not strongly controlled](../claims/pane-2014-cognitive-tutor-limited-effectiveness-scale.md) [~W]
 - [Ma et al. (2014) meta-analysis: step-based ITSs outperformed no tutoring and large-group teacher-led instruction, but showed no differences against small-group or one-to-one human tutoring](../claims/ma-2014-its-beats-no-tutoring-large-group-not-small-or-one-to-one.md) [~W]
 - [Dynamically generated proof graphs let LOGAX recognize all correct student solutions and give hints on them](../claims/dynamic-dams-recognize-all-student-solutions.md) [+W]
+- [Most learners (85%) prefer to work through error correction on their own, with proficiency moderating help use](../claims/learners-prefer-own-error-correction-85-percent.md) [~W]
+- [Teaching via paraphrased natural language is perceived as more helpful for learning than sentence-selection, but this perception is not reflected in actual learning gains](../claims/nl-perceived-helpful-not-reflected-in-gains.md) [~W]
 
 ## Examples
 - [ChatGPT as a virtual laboratory assistant in a sociotechnical system](../designs/sts-theory-chatgpt-virtual-laboratory-assistant.md) — ChatGPT answers lab questions beside human TAs, not in their place

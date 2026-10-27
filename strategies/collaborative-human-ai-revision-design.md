@@ -49,6 +49,7 @@ The article proposes a "Collaborative Human-AI Revision Design" that systematica
 - [Provide explicit instructional boundary cues, process-oriented assessment, and peer modeling of verification to frame responsible GenAI use](boundary-cues-and-peer-modeling-for-genai-use.md)
 - [Design AI writing support to reduce ownership loss: fade AI interactions over time, generate incomplete text requiring rewriting, and make the chatbox editable](fade-incomplete-editable-ai-writing-support.md)
 - [Provide timely automated feedback through an AI chatbot during EFL writing practice](ai-chatbot-feedback-writing-courses.md)
+- [Teach genAI operations, prompt engineering, failure modes, and supervised overreliance before graded genAI-assisted writing](genai-writing-instruction-before-use-strategy.md)
 
 ## Examples
 -

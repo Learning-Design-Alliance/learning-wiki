@@ -55,3 +55,4 @@ Challenge finding from the systematic review's thematic analysis. The review sta
 - [Students report negative experiences with ChatGPT including inaccurate outputs, lack of emotional connection, and risk of overreliance, which constrain competence](chatgpt-negative-experiences-inaccuracy-overreliance.md) — related
 - [Reviewed literature reports risks of overreliance, AI errors in complex tasks, and students' uncritical acceptance of AI-generated outputs](ai-math-risks-overreliance-errors-uncritical-trust.md) — related
 - [In the performance phase, AI tools helped learners organize tasks and supported metacognitive monitoring, but sometimes inaccurately reflected tasks and lacked in-depth responses](ai-performance-phase-benefits-and-drawbacks.md) — related
+- [Students reported AWA highlighting provoked reflection on their writing despite questioning its accuracy](awa-highlighting-provokes-student-reflection.md) — a narrower finding that bears on this claim

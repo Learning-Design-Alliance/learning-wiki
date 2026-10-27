@@ -81,3 +81,4 @@ Interview response from Viki, a peer feedback participant, coded under limited c
 - [Reviewed literature reports risks of overreliance, AI errors in complex tasks, and students' uncritical acceptance of AI-generated outputs](ai-math-risks-overreliance-errors-uncritical-trust.md) — related
 - [Providing peer feedback can be more beneficial than receiving it because it is more cognitively engaging](providing-peer-feedback-more-cognitively-engaging.md) — related
 - [VSDR helped students reflect on and adopt alternative problem-solving approaches to tasks](vsdr-alternative-problem-solving-reflection.md) — related
+- [Students reported AWA highlighting provoked reflection on their writing despite questioning its accuracy](awa-highlighting-provokes-student-reflection.md) — related

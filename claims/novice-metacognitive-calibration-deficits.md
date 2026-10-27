@@ -79,3 +79,4 @@ The article reports, citing Garbayo et al. (2023), a replication in high-fidelit
 - [Email-detection confidence judgments show good calibration but poor resolution, with aggregate overconfidence of 18%](phishing-metacognition-good-calibration-poor-resolution.md) — a narrower finding that bears on this claim
 - [Hard-easy effect: students are more accurate but underconfident on easy items and less accurate but overconfident on difficult items](hard-easy-effect-calibration.md) — related
 - [Secondary students tend to overestimate their text comprehension, though monitoring is relatively accurate in this sample](students-overestimate-text-comprehension-delayed-diagramming.md) — related
+- [Law students overestimated their writing performance when self-assessing against the formal rubric](law-students-overestimate-rubric-self-assessment.md) — a narrower finding that bears on this claim

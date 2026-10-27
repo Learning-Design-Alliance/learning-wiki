@@ -36,7 +36,7 @@ sources:
 # Validity, Reliability, and Bias in Classroom Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 289 claims (127 for, 142 mixed, 20 against) · 215 studies (84 associational, 50 design, 28 review, 24 theoretical, 20 causal, 6 quant-synthesis, 3 qualitative), `q1`–`q3` · 20 of 215 report an effect size · 282 claims rest on one study
+> **Evidence** · 291 claims (127 for, 143 mixed, 21 against) · 217 studies (85 associational, 50 design, 29 review, 24 theoretical, 20 causal, 6 quant-synthesis, 3 qualitative), `q1`–`q3` · 20 of 217 report an effect size · 284 claims rest on one study
 
 ## Conditional relationship
 
@@ -363,6 +363,8 @@ Content validity, construct validity, criterion validity, consistency across occ
 - [SES gap patterns in PISA-like items are robust to scoring responses with generative AI instead of hand-coding](../claims/genai-scoring-replicates-ses-gap-patterns.md) [+W]
 - [Fully automated WCPM scores from Whisper V2 transcriptions closely align with expert human raters (correlation 0.98, average difference 4.82 WCPM)](../claims/automated-wcpm-correlates-098-human-raters.md) [+W]
 - [Removing native language (L1) sharply degrades discourse-feature scoring on TOEFL11 but not on FCE](../claims/l1-feature-influences-discourse-features-toefl11.md) [-W]
+- [Automated concept-based scoring for c-rater model building achieved kappa comparable to manually built models in 11 of 12 scenarios](../claims/c-rater-automated-concept-scoring-comparable-kappa.md) [~W]
+- [The most accurate scorer showed no gender disparity but a small significant language-background disparity favoring foreign-language speakers](../claims/language-bias-favors-foreign-speakers-roberta-svm.md) [-W]
 
 ## Related Principles
 - [Criterion- and Norm-Referenced Testing](criterion-and-norm-referenced-testing.md) — validity and reliability apply to standardized as well as teacher-made assessments, with additional considerations

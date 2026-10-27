@@ -75,3 +75,4 @@ The same review's summary of Nückles et al. (2009), a replication experiment (N
 - [Short-term prompting in weekly learning journals increases university students' self-reported cognitive strategy use over time](short-term-journal-prompts-increase-cognitive-strategy-use.md) — a narrower finding that bears on this claim
 - [Cognitive and metacognitive prompts did not increase self-reported online strategy use, the quality of strategies in learners' notes, or learning outcomes in hypermedia learning](prompts-no-effect-strategy-use-outcomes-hypermedia.md) — reports the opposite
 - [A personal utility prompt in journal writing improves learning motivation and comprehension](personal-utility-prompt-motivation-comprehension.md) — related
+- [Combining reading comprehension and writing strategy instruction in an ITS is significantly more effective than either strategy alone](combined-reading-writing-strategy-instruction-its.md) — a narrower finding that bears on this claim

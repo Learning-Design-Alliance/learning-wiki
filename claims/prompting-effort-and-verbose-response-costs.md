@@ -57,3 +57,4 @@ Analysis of user-LLM interaction logs found more than 70% single-turn interactio
 - [AI assistance provides no significant overall time savings and can slow completion on easy task variants, with chat-interface friction (prompting time) dominating on trivial tasks](ai-no-efficiency-gain-simple-tasks.md) — related
 - [Behavioural engagement indicators such as platform interaction and task completion do not by themselves establish cognitive engagement with mathematical ideas](behavioural-engagement-not-cognitive-engagement.md) — related
 - [Reducing Math Agent output and disabling it for non-math courses reduced latency and increased behavioral engagement](math-agent-reduction-livelatency-engagement-gains.md) — related
+- [GenAI assistance after targeted instruction reduces graduate students' professional writing time by 56.7%](genai-instruction-writing-time-reduction.md) — related

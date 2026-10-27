@@ -54,3 +54,4 @@ Cross-model comparison from the conclusion's summary of the rubric-item-level er
 - [Validator false-negative cases reveal structural reasoning weaknesses, including answer-schema misinterpretation and internal inconsistency](code-gen-validator-fn-reasoning-weaknesses.md) — related
 - [FATE benchmarks rank Gemini 2.5 Flash highest among commercial AI tutors, with actionability weakest for all models](fate-benchmark-commercial-ai-tutors.md) — related
 - [Students reported first-pass false-positive deductions at a mean of 2.94 per term, normalising to about 0.6% of rubric items](student-reported-grading-errors-lata.md) — related
+- [Lexical adaptation of the general rhetorical parser reduced false positives in legal essay analysis without introducing parse errors](lexical-adaptation-reduced-false-positives-legal-parser.md) — related

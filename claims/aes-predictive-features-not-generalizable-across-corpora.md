@@ -68,3 +68,4 @@ Error features also diverge: percentage of spelling errors was most predictive f
 - [SHAP analysis identifies Hapax Ratio as the most influential stylometric feature in Random Forest predictions, followed by NSR, Noun Ratio, Adverb Ratio, and TTR](shap-hapax-ratio-most-influential-feature.md) — related
 - [A broad linguistic feature set yields 73.2% classification accuracy for three-level proficiency scoring of TOEFL11 essays](broad-linguistic-features-73-percent-toefl11-classification.md) — related
 - [Removing native language (L1) sharply degrades discourse-feature scoring on TOEFL11 but not on FCE](l1-feature-influences-discourse-features-toefl11.md) — related
+- [Systematic linguistic differences exist between demographic groups in PISA text responses, including response length, lexical diversity, and out-of-vocabulary tokens](linguistic-group-differences-pisa-responses.md) — related

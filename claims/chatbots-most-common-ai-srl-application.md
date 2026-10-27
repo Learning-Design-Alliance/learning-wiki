@@ -47,3 +47,4 @@ Descriptive synthesis across the 14 included studies. The review states "Chatbot
 ## Related Claims
 - [All AI applications and tools predominantly influence the performance phase of SRL, particularly by facilitating monitoring and control](ai-tools-predominantly-influence-performance-phase.md) — related
 - [AI is implemented in SRL research primarily as an intervention, most often through adaptive systems and personalization](ai-implemented-as-intervention-adaptive-systems-personalization.md) — related
+- [Machine learning is the most frequently studied AI type in AIED systematic reviews, followed by intelligent tutoring systems, learning analytics, and data mining](machine-learning-most-studied-ai-in-aied-reviews.md) — related

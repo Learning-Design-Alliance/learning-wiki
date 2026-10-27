@@ -41,6 +41,7 @@ The authors outline future iterations of the instructional assistant: interactiv
 - [Future improvements: real-world user studies, advanced student modeling, and spaced repetition](future-work-user-studies-student-modeling-spaced-repetition.md)
 - [Iterative semester-long improvement cycles combining feature integration with real-world testing](iterative-semester-testing-improvement-cycles.md)
 - [Upgrade retrieval to Agentic RAG and adopt context-aware emotive narration to reduce cognitive load](agentic-rag-and-context-aware-audio-upgrades.md)
+- [Iterate real-time tutor feedback based on user questionnaires: add explanations, positive feedback, session summaries and pause warnings](cpr-tutor-questionnaire-driven-feature-improvements.md)
 
 ## Examples
 -

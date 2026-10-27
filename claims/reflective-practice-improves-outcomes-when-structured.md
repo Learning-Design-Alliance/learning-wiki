@@ -160,3 +160,4 @@ Meta-analysis of school-based writing-to-learn task assignments including inform
 - [Goal-setting interventions with action plans and public commitment improved academic performance (review-reported)](goal-setting-intervention-academic-performance-gains.md) — related
 - [Learning journals can enhance metacognition and achievement, but benefits depend on reflection type and quality of instructions](learning-journals-reflection-type-moderates-benefit.md) — related
 - [Direct metacognitive instruction improves learning strategies and achievement, with largest effects when strategy instruction is combined with strategy knowledge, longer duration, and in mathematics](metacognitive-instruction-effects-meta-analyses.md) — related
+- [Combining reading comprehension and writing strategy instruction in an ITS is significantly more effective than either strategy alone](combined-reading-writing-strategy-instruction-its.md) — related

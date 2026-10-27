@@ -31,6 +31,7 @@ SCRIPT is a web-based intelligent tutoring system developed by Alina Deriyeva an
 ## Related Products and Programmes
 
 - [Graph4Learn (G4L) intelligent tutoring system](graph4learn-g4l-intelligent-tutoring-system.md)
+- [E-Tutor](e-tutor.md)
 
 ## Key Sources
 - Alina Deriyeva, Jesper Dannath, and Benjamin Paaßen. (2025). SCRIPT: Implementing an Intelligent Tutoring System for Programming in a German University Context. Artificial Intelligence in Education (Springer). https://doi.org/10.1007/978-3-031-99261-2_16

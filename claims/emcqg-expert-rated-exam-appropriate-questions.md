@@ -47,3 +47,5 @@ Evaluation of EMCQG's generated questions: a stratified random sample of 435 que
 ## Related Claims
 - [EMCQG generated more than 3 million distinct case-based questions for four physician specialities from the EMMeT ontology](emcqg-three-million-questions-four-specialities.md) — related
 - [Prior automatic MCQ generation approaches produce structurally simple questions (at most two stem entities) testing mainly recall](prior-aqg-simple-recall-questions.md) — related
+- [Expert evaluation found the hybrid system's generated MCQ stems promising in usefulness and grammatical correctness](expert-evaluation-mcq-stems-promising.md) — related
+- [Prior AQG work shows ML yields grammatically correct Cloze questions while ontology approaches struggle with Cloze but produce meaningful Wh-type questions](ml-cloze-ontology-wh-grammaticality-gap.md) — related

@@ -31,7 +31,7 @@ sources:
 # Employ flexible error treatment strategies matched to objectives, competence, affect, and correction effectiveness
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 34 claims (15 for, 18 mixed, 1 against) · 26 studies (10 causal, 8 review, 3 theoretical, 2 quant-synthesis, 2 qualitative, 1 associational), `q1`–`q3` · 4 of 26 report an effect size · 30 claims rest on one study
+> **Evidence** · 35 claims (15 for, 19 mixed, 1 against) · 27 studies (10 causal, 8 review, 3 theoretical, 2 quant-synthesis, 2 qualitative, 1 associational, 1 design), `q1`–`q3` · 4 of 27 report an effect size · 31 claims rest on one study
 
 ## Conditional relationship
 
@@ -159,6 +159,7 @@ Accuracy on the treated form straight after correction, accuracy at a delay, acc
 ## Claims
 
 - [The politeness effect: learners learn better with polite instructions or feedback than with direct language forms](../claims/politeness-effect-polite-instructions-feedback.md) [~W]
+- [Most learners (85%) prefer to work through error correction on their own, with proficiency moderating help use](../claims/learners-prefer-own-error-correction-85-percent.md) [~W]
 
 ## Related Principles
 
