@@ -48,3 +48,4 @@ Analysis of Google Meets login minutes for 270,061 students in grades K-12 enrol
 - [No evidence that 300 minutes of daily instruction can be delivered within a 330-minute school day; a 360-400 minute day is needed](300-minutes-requires-360-400-minute-day.md) — related
 - [High school students participated in synchronous remote instruction on more days than they were counted present, suggesting under-minutes rather than full-day absence drove their absences](hs-remote-absence-driven-by-minutes.md) — related
 - [Attendance and online platform participation remained predictive of students' course grades during remote learning, with relationships as large or larger than pre-pandemic](attendance-predictive-of-grades-remote-learning.md) — related
+- [Remote instruction time fell below two thirds of typical weekly requirements and most teachers could not deliver the full curriculum](remote-instruction-time-below-requirements.md) — related

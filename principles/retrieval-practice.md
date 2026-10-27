@@ -23,7 +23,7 @@ sources:
 # Retrieval Practice
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 145 claims (65 for, 70 mixed, 10 against) · 71 studies (35 causal, 15 review, 8 quant-synthesis, 6 theoretical, 4 associational, 3 qualitative), `q1`–`q4` · 22 of 71 report an effect size · 138 claims rest on one study
+> **Evidence** · 146 claims (65 for, 71 mixed, 10 against) · 72 studies (36 causal, 15 review, 8 quant-synthesis, 6 theoretical, 4 associational, 3 qualitative), `q1`–`q4` · 22 of 72 report an effect size · 139 claims rest on one study
 
 ## Conditional relationship
 
@@ -271,6 +271,7 @@ A within-session quiz score, delayed recall, transfer to new questions and value
 - [Following retrieval failure, feedback is accompanied by elevated prefrontal activity (outside VS), identified only at a lenient threshold](../claims/post-failure-feedback-prefrontal-activity-lenient-threshold.md) [~W]
 - [Theoretical mechanisms of the testing effect — semantic elaboration via spreading activation and effortful retrieval within an inverse-U difficulty relationship — may be compromised in learners with dyslexia, whose optimal difficulty levels appear to differ from typical learners](../claims/dyslexia-testing-effect-mechanisms-compromised.md) [~W]
 - [In single item learning, interim testing of studied lists roughly doubles recall of new items compared with distractor or restudy control groups](../claims/forward-testing-single-items-doubled-recall.md) [+W]
+- [Item-level generalized linear mixed model finds no Testing Condition × Semantic Relatedness interaction, and item-level proportions correct show no pervasive ceiling effect](../claims/item-level-glimmix-no-relatedness-compression.md) [~W]
 
 ## Related Principles
 - [Pretesting (Prequestions Before Study)](pretesting.md)

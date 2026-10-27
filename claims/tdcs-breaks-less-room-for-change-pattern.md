@@ -67,3 +67,4 @@ Correlation analyses with Fisher's Z-tests on task-related EEG dynamics found si
 - [HD-tDCS facilitated and enhanced training-induced increases in frontal task-related theta, alpha, beta, and gamma power](tdcs-enhances-task-related-eeg-power-gains.md) — related
 - [Reaction times decreased with working memory training but were not additionally affected by tDCS](wmt-rt-decreases-unaffected-by-tdcs.md) — related
 - [Anodal HD-tDCS over left dlPFC during multi-session working memory training yields larger d-prime improvements than sham that persist three weeks](tdcs-wmt-enhances-d-prime-lasting-three-weeks.md) — related
+- [Lower baseline performance predicted larger gains on both accuracy and response time, and accuracy gains were independent of response-time gains](lower-baseline-performance-predicts-larger-nback-gains.md) — related

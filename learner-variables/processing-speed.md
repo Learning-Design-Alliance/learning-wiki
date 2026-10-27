@@ -13,7 +13,7 @@ generated:
 # Processing Speed
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 69 claims (40 show a difference, 24 mixed, 5 no difference) · 49 studies (19 causal, 18 associational, 6 quant-synthesis, 4 review, 2 qualitative), `q1`–`q4` · 14 of 49 report an effect size · 69 claims rest on one study
+> **Evidence** · 71 claims (41 show a difference, 24 mixed, 6 no difference) · 50 studies (20 causal, 18 associational, 6 quant-synthesis, 4 review, 2 qualitative), `q1`–`q4` · 15 of 50 report an effect size · 71 claims rest on one study
 
 ## Description
 Processing speed (the LVN calls it speed of processing) is how quickly a learner perceives and processes information and formulates a response. Reading and mathematics both require it constantly: a reader takes in letters, words, punctuation and layout, a mathematics learner numbers, shapes and symbols, and each has to choose and apply the right skills fast enough to keep the whole task in view. It grows quickly in the early years and keeps improving through adolescence, may dip during puberty, and declines with age in older adults. It is measured with timed tasks, such as pattern-matching and cancellation subtests of cognitive batteries and rapid automatised naming, though naming tasks also draw on vocabulary. It is related to [working memory](working-memory.md), since faster processing lets more be rehearsed and held, and to fluid reasoning in [general cognitive ability](general-cognitive-ability.md). Slow processing is also reported in learners with hearing loss and with dyslexia, which overlaps [learning disabilities](learning-disabilities.md).
@@ -105,6 +105,8 @@ Processing speed (the LVN calls it speed of processing) is how quickly a learner
 - [Mindfulness training does not change reaction times, decision boundary, or response bias, with only emotion-specific nondecision-time increases](../claims/mindfulness-training-leaves-other-ddm-parameters-unchanged.md) [~M] — instruction changes it
 - [Self-referential information reduces the Stroop congruency effect in reaction time](../claims/self-reference-reduces-stroop-congruency-effect.md) [+M] — instruction changes it
 - [AVG training effects are specific to phonemic awareness, with no significant gains in phonological working memory or rapid automatized naming](../claims/avg-training-null-pwr-ran.md) [-W] — instruction changes it
+- [Anticipatory cues during practice do not affect reaction times or dual-task costs, and may hinder developing an explicit visual sequence representation](../claims/anticipatory-cues-no-effect-rt-dual-task.md) [-W] — instruction changes it
+- [Practicing a fixed motor sequence produces sequence-specific learning, with significantly shorter reaction times for the practiced than the control sequence after training](../claims/srtt-sequence-specific-learning-practice-vs-control.md) [+M] — instruction changes it
 
 ## Measures
 - **Woodcock-Johnson Tests of Cognitive Abilities** (Schrank, Mather, & McGrew, 2014): includes number-pattern matching, pair cancellation and letter-pattern matching subtests of processing speed.

@@ -13,7 +13,7 @@ generated:
 # Personality Traits
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 68 claims (42 show a difference, 16 mixed, 10 no difference) · 32 studies (13 review, 9 associational, 5 quant-synthesis, 3 causal, 2 theoretical), `q2`–`q4` · 11 of 32 report an effect size · 68 claims rest on one study
+> **Evidence** · 71 claims (45 show a difference, 16 mixed, 10 no difference) · 33 studies (13 review, 10 associational, 5 quant-synthesis, 3 causal, 2 theoretical), `q2`–`q4` · 11 of 33 report an effect size · 71 claims rest on one study
 
 ## Description
 Personality traits are relatively stable individual differences, most often measured on the Big Five dimensions. For learning, conscientiousness (being organised, persistent and self-controlled) is the trait most consistently associated with achievement, and openness (curiosity, breadth of interests) the second; agreeableness, extraversion and neuroticism show little association. Traits correlate with other variables here, such as [self-regulation](self-regulation.md) and [need for cognition](need-for-cognition.md).
@@ -103,6 +103,9 @@ Personality traits are relatively stable individual differences, most often meas
 - [Direct causal effects of self-control and grit account for only 4.4% of school performance variance, with self-control the stronger causal predictor](../claims/causal-effects-only-4-percent-school-performance.md) [+M] — learners who differ on it differ in outcomes
 - [Teacher-rated self-control and grit jointly explain 28.4% of the variance in school performance in standard phenotypic regression](../claims/self-control-grit-explain-28-percent-school-performance.md) [+M] — learners who differ on it differ in outcomes
 - [Twin correlations indicate genetic influences on self-control, grit, and school performance, with cross-trait cross-twin correlations higher in MZ than DZ twins](../claims/mz-dz-twin-correlations-genetic-influences-traits.md) [+M] — learners who differ on it differ in outcomes
+- [Big Five personality traits explain 3.18% of variance in fluid intelligence test scores, with Openness and Agreeableness the only meaningful contributors](../claims/big-five-explain-3-percent-fluid-intelligence.md) [+M] — learners who differ on it differ in outcomes
+- [Combining gaze-based predictions with personality explains 37.50% of intelligence test variance, with significant unique contributions from both; with facets, 38.02%](../claims/gaze-plus-personality-combined-prediction.md) [+M] — learners who differ on it differ in outcomes
+- [Facet-level personality measures explain more than twice the variance of trait-level measures in intelligence test scores (7.67% vs 3.18%)](../claims/personality-facets-explain-more-variance-than-traits.md) [+M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

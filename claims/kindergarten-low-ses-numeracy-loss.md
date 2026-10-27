@@ -52,3 +52,4 @@ SES-grouped regression analysis (Fig. 6) comparing learning loss in schools with
 - [Achievement gaps between low-poverty and high-poverty elementary schools grew by .10–.20 SD, primarily during 2020–2021](covid-poverty-gap-grew-010-020-sd-elementary.md) — related
 - [Children from low-SES families were more negatively affected by COVID-19 school closures than children from high-SES families](covid-closures-low-ses-students-more-affected.md) — a broader claim this one bears on
 - [No SES difference was found in kindergarten children's learning loss for reading precursors and inductive reasoning](no-ses-gap-reading-reasoning-loss.md) — related
+- [About 58% of teachers reported the gap between low- and high-performing students widened during the 2020–2021 school year](teachers-report-achievement-gap-widened.md) — related

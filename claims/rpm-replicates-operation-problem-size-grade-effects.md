@@ -66,3 +66,4 @@ Same mixed-effects model examining operation effects on RPM. The article reports
 - [Students across all grades answer exceptional problems (ties, successor, identity) faster than common problems](exceptional-problems-faster-than-common.md) — related
 - [The problem-size effect on fluency is slightly steeper for subtraction than addition problems](problem-size-operation-interaction-rpm.md) — related
 - [Children shift from counting to memory-based retrieval strategies in single-digit addition over a 1.2-year interval in middle childhood](counting-to-retrieval-shift-longitudinal-childhood.md) — related
+- [Older participants learn faster across all territories while younger participants learn better in the environment where a hidden agent generates positive outcomes](age-differences-learning-across-territories.md) — related

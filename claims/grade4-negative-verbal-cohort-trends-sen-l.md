@@ -53,3 +53,4 @@ Trend analysis of representative German large-scale assessment data comparing th
 - [Students in The Netherlands lost on average 3.16 percentile points (0.08 SD) in achievement during the 8-week COVID-19 lockdown](dutch-lockdown-learning-loss-3-percentile-points.md) — related
 - [One year after emergency remote instruction, Norwegian second-graders showed no statistically significant differences from a pre-pandemic cohort in writing quality, handwriting fluency, or attitude toward writing](covid-writing-losses-dissipated-by-second-grade.md) — related
 - [The COVID-affected cohort caught up to the control cohort in reading fluency one year after the pandemic](covid-cohort-caught-up-control-cohort-end-grade-four.md) — reports the opposite
+- [Teachers reported learning losses of similar severity across Math, Reading, and Spelling, with no significant domain differences](no-domain-differences-in-reported-learning-losses.md) — related

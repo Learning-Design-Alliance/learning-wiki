@@ -49,3 +49,4 @@ Same regression framework applied to reading (comparable since 2000) and science
 - [NWEA's 2024 technical brief examines pandemic impacts on science achievement and gains from 2019 through 2024, continuing research on COVID-19 school-closure effects on learning](covid-science-achievement-trends-2019-2024-brief.md) — related
 - [Students in The Netherlands lost on average 3.16 percentile points (0.08 SD) in achievement during the 8-week COVID-19 lockdown](dutch-lockdown-learning-loss-3-percentile-points.md) — related
 - [The 2022-23 school year showed stalled progress toward pandemic recovery in student achievement](2022-23-achievement-stalled-pandemic-recovery.md) — related
+- [Teachers reported learning losses of similar severity across Math, Reading, and Spelling, with no significant domain differences](no-domain-differences-in-reported-learning-losses.md) — related

@@ -57,3 +57,4 @@ The review attributes this to prior meta-analytic work (Mammadov, 2022; Poropat,
 - [The CONIC model proposes conscientiousness and interest can partly compensate for one another in explaining academic effort and achievement](conic-compensation-conscientiousness-interest.md) — related
 - [Conscientiousness is a reliable meta-analytic predictor of academic achievement](conscientiousness-predicts-academic-achievement.md) — related
 - [Both conscientiousness (β = .25) and openness (β = .17) are positively associated with GPA in adjusted models](gpa-associated-with-conscientiousness-and-openness.md) — related
+- [Gaze patterns during intelligence test completion are unrelated to Big Five personality traits, though several facets are linked to gaze](gaze-patterns-unrelated-to-big-five-traits.md) — related

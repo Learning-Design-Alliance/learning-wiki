@@ -52,3 +52,4 @@ Mixed ANCOVAs on RTs of verbal 4- and 6-back tasks at Post1 and Post21, controll
 - [Anodal HD-tDCS over left dlPFC during multi-session working memory training yields larger d-prime improvements than sham that persist three weeks](tdcs-wmt-enhances-d-prime-lasting-three-weeks.md) — related
 - [HD-tDCS facilitated and enhanced training-induced increases in frontal task-related theta, alpha, beta, and gamma power](tdcs-enhances-task-related-eeg-power-gains.md) — related
 - [HD-tDCS combined with mental rotation training shows no significant group effect or Group × Time interaction on accuracy, response time, or P300 GFP](hd-tdcs-no-added-effect-mental-rotation-training.md) — related
+- [Fifty minutes of adaptive n-back training produced small but significant accuracy gains and response-time decreases with large individual differences](fifty-minute-nback-training-improves-accuracy-and-response-time.md) — related

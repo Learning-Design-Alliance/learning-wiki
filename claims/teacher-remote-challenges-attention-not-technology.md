@@ -54,3 +54,4 @@ Descriptive survey of teachers' challenges with online instruction during buildi
 - [Just under half of New York charter schools (45.8%) reported no challenges supporting ELL/MLL students remotely; high-poverty schools were more likely to report challenges](ell-mll-remote-support-challenges.md) — related
 - [Maintaining student engagement is the greatest challenge reported by online charter school principals, identified nearly three times as often as any other challenge](online-charters-engagement-greatest-challenge.md) — related
 - [Nearly 80 percent of surveyed charter schools operated fully remotely in April 2020, falling to about half by the 2020-21 school year](charter-instructional-modes-remote-to-hybrid-shift.md) — related
+- [Teachers of lower-SES students were less likely to have previous online teaching experience and reported the transition to remote instruction as more challenging](ses-gap-teacher-online-experience-transition.md) — reports the opposite

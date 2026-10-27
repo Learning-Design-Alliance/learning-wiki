@@ -54,3 +54,4 @@ Comparative finding from the OLS analyses comparing participants to otherwise si
 - [Chicago Connected participation was associated with higher fall 2020 and spring 2021 GPAs for high pre-pandemic GPA students and lower GPAs for low pre-pandemic GPA students](chicago-connected-participation-heterogeneous-gpa-effects.md) — related
 - [The achievement divide between high and low achievers widened significantly over the last two years of the pandemic](achievement-divide-widened-significantly.md) — related
 - [Achievement gaps between low-poverty and high-poverty elementary schools grew by .10–.20 SD, primarily during 2020–2021](covid-poverty-gap-grew-010-020-sd-elementary.md) — related
+- [About 58% of teachers reported the gap between low- and high-performing students widened during the 2020–2021 school year](teachers-report-achievement-gap-widened.md) — related

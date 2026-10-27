@@ -53,3 +53,4 @@ Analysis relating district attendance data and Google Meets participation to 202
 - [During remote learning, students at all grade levels spent about four hours per day in synchronous online instruction regardless of district requirements](four-hour-synchronous-remote-instruction-threshold.md) — related
 - [Course grades of students in grades 4-8 declined during remote and hybrid learning relative to pre-pandemic years](cps-grades-4-8-declined-remote-learning.md) — related
 - [High school course grades improved in spring 2020 and remained higher than pre-pandemic levels through spring 2021, with a slight rise in Fs](cps-high-school-grades-improved-remote-learning.md) — related
+- [More than 65% of teachers reported class attendance decreased during remote instruction, with lower attendance more frequent among low-income US students](remote-instruction-attendance-drop-ses.md) — related

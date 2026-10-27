@@ -50,3 +50,4 @@ Omnibus repeated-measures ANOVA on recall accuracy with learning condition and t
 ## Related Claims
 - [Napping reduces forgetting only for items learned by retrieval practice without feedback, not for restudied or feedback-retrieved items](nap-reduces-forgetting-only-no-feedback-retrieval.md) — related
 - [Wake groups show greater recall-change differences between learning conditions than nap groups, driven by no-feedback items](wake-group-greater-recall-change-differences.md) — related
+- [Retrieval practice with feedback improves 24-hour cued recall more than restudy, and high semantic relatedness raises overall accuracy, but the Training Task × Relatedness ANOVA interaction is non-significant](testing-effect-robust-relatedness-anova-interaction-null.md) — related

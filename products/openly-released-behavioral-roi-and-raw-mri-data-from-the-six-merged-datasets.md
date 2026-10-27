@@ -20,6 +20,7 @@ Viesel-Nordmeyer et al. provide openly reusable behavioral, region-of-interest, 
 
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
+- **Open behavioral, imaging, and code release for the frontoparietal plasticity study**: The article releases all study materials for reuse: behavioral data, task-based and control regions of interest, and values extracted from neuroimaging data are freely available on GitHub, deidentified neuroimaging data in BIDS format are on OpenNeuro, and all code used to collect task data and analyze behavioral and imaging data is on GitHub. The authors state "We share all behavioral and imaging data to facilitate this future work", inviting data-driven analyses beyond their hypothesis-tailored models, such as whether baseline connectivity within the FPS predicts learning. (Boroshok et al. (2022))
 
 ### Claims
 - [In children and adolescents, arithmetic skill is positively related to gray matter volume in the left inferior frontal gyrus and left middle temporal gyrus](../claims/arithmetic-skill-left-ifg-mtg-gray-matter-volume.md) [+M]
@@ -29,3 +30,4 @@ Viesel-Nordmeyer et al. provide openly reusable behavioral, region-of-interest, 
 
 ## Key Sources
 - Nurit Viesel-Nordmeyer and Jérôme Prado. (2023). Arithmetic skills are associated with left fronto-temporal gray matter volume in 536 children and adolescents. npj Science of Learning. https://doi.org/10.1038/s41539-023-00201-x
+- Boroshok, A. L., Park, A. T., Fotiadis, P., Velasquez, G. H., Tooley, U. A., Simon, K. R., Forde, J. C. P., Delgado Reyes, L. M., Tisdall, M. D., Bassett, D. S., Cooper, E. A. & Mackey, A. P. (2022). Individual differences in frontoparietal plasticity in humans. npj Science of Learning 7:14. https://doi.org/10.1038/s41539-022-00130-1
