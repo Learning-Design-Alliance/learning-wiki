@@ -31,7 +31,7 @@ sources:
 # Digital Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 76 claims (36 for, 35 mixed, 5 against) · 85 studies (20 causal, 20 review, 16 theoretical, 12 quant-synthesis, 6 associational, 6 design, 5 qualitative), `q1`–`q4` · 14 of 85 report an effect size · 65 claims rest on one study
+> **Evidence** · 77 claims (36 for, 36 mixed, 5 against) · 86 studies (20 causal, 20 review, 17 theoretical, 12 quant-synthesis, 6 associational, 6 design, 5 qualitative), `q1`–`q4` · 14 of 86 report an effect size · 66 claims rest on one study
 
 ## Conditional relationship
 
@@ -193,6 +193,7 @@ Access, use, assisted success, unaided immediate performance, delayed retention 
 - [Mobile devices enable just-in-time adaptive interventions that flexibly adapt support to students' changing internal and contextual states](../claims/jitai-just-in-time-mobile-support.md) [~W]
 - [A meta-analysis of 40 studies reports elaborated feedback in computer-based learning environments yields an overall effect size of 0.49 (attributed to Van der Kleij et al. 2015)](../claims/elaborated-feedback-effect-size-0-49.md) [+M]
 - [Pandemic-era emergency online learning produced mixed educational results that exacerbated existing inequities](../claims/pandemic-online-learning-exacerbated-inequities.md) [-W]
+- [Mobile devices served as the primary tool for learners and teachers during the emergent remote teaching process of the pandemic](../claims/mobile-devices-primary-tool-emergent-remote-teaching.md) [~W]
 
 ## Related Principles
 - [Flipped Learning](flipped-learning.md) — digital delivery often makes pre-class access and replayable initial exposure possible

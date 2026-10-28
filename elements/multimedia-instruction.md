@@ -13,7 +13,7 @@ generated:
 # Multimedia Instruction
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 29 claims (17 for, 12 mixed) · 34 studies (14 causal, 9 quant-synthesis, 8 review, 2 theoretical, 1 design), `q1`–`q4` · 10 of 34 report an effect size · 24 claims rest on one study
+> **Evidence** · 30 claims (17 for, 13 mixed) · 35 studies (15 causal, 9 quant-synthesis, 8 review, 2 theoretical, 1 design), `q1`–`q4` · 10 of 35 report an effect size · 25 claims rest on one study
 
 ## Description
 Multimedia instruction is the element in which teaching combines spoken or written language with visuals, diagrams, animation, or other media in a coordinated instructional sequence. It is useful when multiple representations clarify explanation and support comprehension.
@@ -65,6 +65,7 @@ Multimedia instruction is the element in which teaching combines spoken or writt
 - [Animations can be superior to static graphics for learning tasks involving human motor movement](../claims/human-movement-effect-animations-motor-tasks.md) [~W]
 - [The superiority of the combined directed method held across all ability levels, with the advantage present in every section of a grouped correlation table](../claims/spelling-method-advantage-across-ability-levels.md) [+W]
 - [For Standard IV boys (average age 11), a combined articulatory-auditory-visual spelling method with directed attention yields higher dictation scores than a silent visual method without directed attention](../claims/combined-spelling-method-beats-visual-standard-iv.md) [~W]
+- [Dynamic slides did not improve knowledge acquisition compared to static slides](../claims/dynamic-slides-no-knowledge-benefit.md) [~W]
 
 ## The evidence by question
 - *Do words with a relevant picture beat words alone?* [Multimedia Principle Improves Learning](../claims/multimedia-principle-improves-learning.md) [+S]

@@ -50,3 +50,4 @@ The comment states that learning "through feedback, especially when corrective" 
 - [Learners judge explanatory feedback as more effective preparation than correct-response feedback, in both studies](explanatory-feedback-judged-more-effective-than-correct-response.md) — related
 - [Practice with feedback is more efficient than lecture, saving about 24% of instructional time in Study 1 and yielding 2–3 times higher learning rates in Study 2](practice-feedback-more-efficient-than-lecture.md) — a broader claim this one bears on
 - [Taking initial multiple-choice tests without feedback can lead students to later produce the incorrect lure answers they selected, even when an overall retrieval practice benefit occurs](multiple-choice-lures-can-be-learned-as-false-knowledge.md) — related
+- [Explanatory feedback has a greater benefit for students than corrective feedback in digital environments](explanatory-feedback-beats-corrective-digital.md) — related

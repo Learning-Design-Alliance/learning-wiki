@@ -95,3 +95,4 @@ Bibliometric keyword-evolution analysis (Path 3). Early research centered on kno
 - [AI applications contributed to STEM students' higher-order thinking, including problem-solving, computational thinking, and self-regulated learning](ai-stem-higher-order-thinking-effects.md) — related
 - [Early conceptual and terminological choices, such as the shift from cybernetics to artificial intelligence, have shaped current AI-in-education debates](cybernetics-to-ai-terminology-shaped-debates.md) — related
 - [The gold standard for advanced cyberlearning technology shifted from one-on-one tutoring parity to empowering individuals and teams in dynamic configurations (authors' historical account)](new-gold-standard-beyond-its-parity.md) — related
+- [AWE technology has evolved through four distinct generations from traditional NLP-based systems to AI-driven LLM-integrated tools (2000–2024)](awe-four-generations-evolution.md) — a narrower finding that bears on this claim

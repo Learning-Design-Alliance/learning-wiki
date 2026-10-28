@@ -47,6 +47,7 @@ The article recommends that educators and system designers not integrate raw LLM
 - [Introduce prompt-engineering training before students use Gen AI for structured self-study techniques](prompt-engineering-training-before-gen-ai-self-study.md)
 - [Build infrastructure-level mechanisms to monitor, benchmark, and control LLM response behavior across model transitions in conversation-based assessment](infrastructure-mechanisms-for-llm-response-consistency.md)
 - [Mitigate LLM feedback errors by supplying course materials and compiler errors in the prompt, fact-checking generated feedback, and adapting feedback structure to student behavior](mitigate-llm-feedback-errors-context-and-fact-checking.md)
+- [Implement sequential feedback models deploying AWE from surface-level corrections to deeper feedback on cohesion and argumentation](awe-sequential-feedback-model-strategy.md)
 
 ## Examples
 -

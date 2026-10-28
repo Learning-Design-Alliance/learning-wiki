@@ -95,12 +95,14 @@ CBL works because it situates abstract concepts in the messy, contextualized con
 5. Follow with a second, structurally different case so learners must adapt rather than repeat their first solution [Comparing and contrasting cases improves learning.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 
 ## Related Strategies
+
 - [Problem-Based Learning](problem-based-learning.md) — sibling strategy; PBL starts from an open problem, CBL from a narrated situation
 - [Role Play](role-play.md) — cases can be enacted rather than analyzed, adding perspective-taking
 - [Jigsaw](jigsaw.md) — distributes case information across group members, forcing interdependence
 - [Debrief](../elements/debrief.md) — the reflection phase where case learning is consolidated
 - [Debate](debate.md) — structured argumentation over case decisions
 - [Peer Instruction](peer-instruction.md) — a scalable way to inject commitment-and-discussion cycles into large classes
+- [Design implications for web-enhanced case-based activity environments](web-enhanced-cba-design-implications.md)
 
 ## Examples
 - **Harvard Business School case method** — MBA students analyze ~500 published cases (e.g., from [HBP Education](https://www.hbs.edu/education/Pages/default.aspx)) in cold-call discussion sections

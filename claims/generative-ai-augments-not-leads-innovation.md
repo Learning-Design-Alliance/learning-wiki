@@ -51,3 +51,4 @@ Interpretive argument in the innovation-management contribution, reasoning that 
 - [ChatGPT-generated art lesson plans pose challenges of impracticality, overlooked safety issues, and required teacher revision time](chatgpt-lesson-plan-challenges-practicality-safety.md) — related
 - [AI is not yet ready to replace teachers but presents a real possibility to augment them](ai-augments-not-replaces-teachers.md) — related
 - [AI solutions can automate routine tasks but cannot yet handle the complex tasks of higher learning](ai-limited-to-automatable-tasks-in-higher-learning.md) — a broader claim this one bears on
+- [Teachers transitioned from using AI for basic routine tasks to leveraging it as a tool for innovation](ai-use-transition-routine-to-innovation.md) — a narrower finding that bears on this claim

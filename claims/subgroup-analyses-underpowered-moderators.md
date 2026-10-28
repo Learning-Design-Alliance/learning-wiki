@@ -52,3 +52,4 @@ Subgroup-analysis stage of the meta-analysis (Results, §3.5.2). The authors rep
 - [Poor readers show moderately elevated anxiety compared to typical readers (d = 0.41)](poor-readers-elevated-anxiety.md) — related
 - [Poor readers show moderately elevated general internalising problems compared to typical readers (d = 0.41)](poor-readers-moderate-internalising-problems.md) — related
 - [Poor readers show a small but significant elevation in depression compared to typical readers (d = 0.23)](poor-readers-small-depression-elevation.md) — related
+- [Future OER research should examine disaggregated data for specific student populations, conduct quantitative meta-analyses, and compare specific OER materials and subject areas.](oer-future-research-directions.md) — related

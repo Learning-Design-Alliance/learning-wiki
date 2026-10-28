@@ -54,3 +54,4 @@ One-way ANCOVA (pre-test covariate) on accommodator learners' gain scores across
 - [In the VR (guided exploration) mode, assimilator and accommodator learners did not differ significantly in gain score](guided-vr-no-learning-style-difference.md) — related
 - [VR (non-guided exploration) did not differ significantly from Non VR for either assimilator or accommodator learners](non-guided-vr-no-better-than-non-vr.md) — related
 - [No significant interaction between learning mode and learning style on gain scores, while the learning-mode main effect was significant](no-mode-by-style-interaction-vr-gains.md) — related
+- [Declarative knowledge does not differ after unguided VR exploration but improves after scaffolded guidance is introduced](desktop-vr-scaffolded-guidance-declarative-knowledge-statics.md) — related

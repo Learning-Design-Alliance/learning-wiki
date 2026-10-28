@@ -53,3 +53,4 @@ Embedded case study of eight Grade 5-6 rural teachers completing ten AI-guided m
 - [The multi-agent LLM GradeOpt achieved substantial agreement with human coders on overall PCK items (κ = .68, QWK = .79) and outperformed RoBERTa, SBERT, and naïve GPT-4o prompting](gradeopt-substantial-agreement-pck-outperforms-baselines.md) — related
 - [Teachers' knowledge of SRL is partial and unevenly developed across all three dimensions](teachers-srl-knowledge-partial-uneven.md) — related
 - [AI systems perform poorly at identifying Shulman CK, PCK and GPK categories in line-by-line coding](ai-poor-shulman-coding-accuracy.md) — related
+- [Curriculum and subject content knowledge gained prominence from Week 3, while student diversity remained consistent throughout](pck-element-prominence-shifts-week-3.md) — related

@@ -218,3 +218,5 @@ Open questions include how the effect interacts with learner control over pacing
 - [Working-memory limitations can be circumvented by schema construction, automation, and multiple presentation modalities](clt-circumvent-working-memory-limits.md) — a broader claim this one bears on
 - [Multimodal presentation on multiple senses or channels simultaneously is reported to facilitate learning by providing many routes for storage and retrieval](multimodal-learning-facilitates-storage-retrieval.md) — a broader claim this one bears on
 - [Modality effects in statistical learning, specifically auditory-serial and visual-spatial advantages, are a relatively robust finding, though construct validity and causality remain open](modality-effects-statistical-learning-relatively-robust.md) — related
+- [DHH students report using redundant multimedia features for support, conflicting with the CTML redundancy principle](dhh-redundant-support-conflicts-ctml-redundancy.md) — related
+- [Direct TV narration appeared to be the most effective method of presentation.](direct-tv-narration-most-effective-presentation-method.md) — a narrower finding that bears on this claim

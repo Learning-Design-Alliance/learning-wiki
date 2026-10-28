@@ -24,7 +24,7 @@ sources:
 # Responsive Teaching
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 26 claims (14 for, 10 mixed, 2 against) · 43 studies (12 review, 9 quant-synthesis, 9 qualitative, 8 causal, 2 associational, 2 theoretical, 1 design), `q1`–`q4` · 5 of 43 report an effect size · 17 claims rest on one study
+> **Evidence** · 27 claims (14 for, 11 mixed, 2 against) · 44 studies (12 review, 10 qualitative, 9 quant-synthesis, 8 causal, 2 associational, 2 theoretical, 1 design), `q1`–`q4` · 5 of 44 report an effect size · 18 claims rest on one study
 
 ## Conditional relationship
 
@@ -150,6 +150,7 @@ Visible thinking, the teacher's accurate reading of it, a well-chosen move, the 
 ## Claims
 
 - [Learners' critical sharing of ideas and the teacher's intentional intervention were the two critical factors for effective folding back](../claims/critical-sharing-and-teacher-intervention-effective-folding-back.md) [~W]
+- [AI tools positively affected student engagement and enabled real-time lesson adjustments based on student feedback](../claims/ai-tools-boost-engagement-real-time-adjustment.md) [~W]
 
 ## Related Principles
 - [Assessment for Learning](assessment-for-learning.md) — responsive teaching is formative assessment enacted at the level of moment-to-moment instructional decisions

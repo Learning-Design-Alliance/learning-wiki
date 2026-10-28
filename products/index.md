@@ -2,7 +2,7 @@
 
 Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's.
 
-**2150 entries** · 0 stable · 2150 in review · 0 drafts
+**2161 entries** · 0 stable · 2161 in review · 0 drafts
 
 ---
 
@@ -60,6 +60,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [AI & Data Acumen Learning Outcomes Framework](ai-data-acumen-learning-outcomes-framework.md) - A University of Arizona faculty, student, and staff task force framework that crosses seven AI-and-data knowledge dimensions with four cognitive proficiency levels to support higher-education curriculum development and assessment.
 * [AI adaptive learning environment perception scale (15 items, three dimensions)](ai-adaptive-learning-environment-perception-scale-15-items-three-dimensions.md) - A 15-item Likert self-report scale developed by Li J et al.
 * [AI Certificate Pedagogical Transformation Effectiveness Evaluation Indicator System (20 indicators, S1–S20)](ai-certificate-pedagogical-transformation-effectiveness-evaluation-indicator-system-20-ind.md) - A 20-indicator, TPACK-mapped evaluation framework developed by Zijing Wu et al.
+* [AI digital competencies framework extending DigCompEdu and revising P21](ai-digital-competencies-framework-extending-digcompedu-and-revising-p21.md) - A framework proposed by Ng and colleagues that extends DigCompEdu and revises P21 to organize AI-related competencies for higher-education teachers' teaching, learning, and assessment practices.
 * [AI Ecological Education Policy Framework](ai-ecological-education-policy-framework.md) - A framework proposed by Chan for guiding institutional AI integration through pedagogical, governance, and operational dimensions.
 * [AI Guilt Index](ai-guilt-index.md) - A four-item Likert-scale instrument developed by Diane Vassallo to measure university academic staff's guilt-related moral distress about using AI in academic practice.
 * [AI literacy test](ai-literacy-test.md) - The AI literacy test is Tomáš Lintner's German- and English-language performance-based assessment of university students' AI-related knowledge, comprising 30 multiple-choice items and one sorting item.
@@ -69,6 +70,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [AI-SEE framework](ai-see-framework.md) - The AI-SEE framework proposed by Feng Liu et al.
 * [AI4K12 Five Big Ideas in Artificial Intelligence](ai4k12-five-big-ideas-in-artificial-intelligence.md) - A framework developed by the AI for K-12 working group that organizes K–12 artificial-intelligence education around five thematic strands and four grade bands.
 * [AiAWE](aiawe.md) - AiAWE is an open-source Django platform developed by John Maurice Gayed and collaborators for real-time and batch automated essay scoring, custom-rubric feedback, and formative writing support.
+* [AICO_edu (AI Competence Educators) questionnaire](aico-edu-ai-competence-educators-questionnaire.md) - AICO_edu is a teacher self-report questionnaire developed by Delcker et al.
 * [AICoFe](aicofe.md) - AICoFe is a human-centered AI collaborative feedback system developed by Alvaro Becerra and colleagues that supports peer, self-, and teacher assessment through customized rubrics, multimodal performance recording, dashboards, and mediated AI-generated feedback.
 * [AICoFe Visualization Module](aicofe-visualization-module.md) - AICoFe's Visualization Module is a Dash-based learning-analytics dashboard system developed by Becerra et al.
 * [AIDA](aida.md) - A human-centred generative-AI digital assistant developed by the Open University to provide provenance-grounded, pedagogically configured learning support, feedback, quiz practice, and study guidance.
@@ -151,6 +153,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [AutoGen, MetaGPT, CrewAI, LangGraph, and Phidata](autogen-metagpt-crewai-langgraph-and-phidata.md) - A set of software platforms developed by their respective makers for building, orchestrating, and deploying agentic AI systems, including multi-agent workflows and role-based delegation.
 * [Automated Extended Essay Grading Software (AEEGS)](automated-extended-essay-grading-software-aeegs.md) - A web-based application developed by Olaoye DD et al.
 * [AutoTutor Script Authoring Tool (ASAT) and generic AutoTutor Conversation Engine (ACE)](autotutor-script-authoring-tool-asat-and-generic-autotutor-conversation-engine-ace.md) - The AutoTutor project’s ASAT authoring tool and ACE conversation engine let organizations create and deploy scripted conversational tutoring applications across domains.
+* [AVDS: a free online animation and visualization tool for data structures](avds-a-free-online-animation-and-visualization-tool-for-data-structures.md) - AVDS is a free online web-based animation and visualization tool developed by Kogan et al.
 * [AVW-Space](avw-space.md) - AVW-Space is a digital platform developed by Vania Dimitrova and colleagues for teacher-curated video learning with timestamped comments, micro-scaffolds, and moderated social reflection.
 * [AWA](awa.md) - AWA is a University of Technology Sydney web application that analyzes pasted student writing with natural-language-processing services and displays rhetorical-move highlights and related text statistics for formative self-assessment.
 * [Ayres scale](ayres-scale.md) - A standardized handwriting-legibility rating scale developed by Leonard P.
@@ -571,6 +574,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [EER-Tutor](eer-tutor.md) - EER-Tutor is a web-enabled constraint-based intelligent tutoring system for learning Enhanced Entity Relationship modeling and database design, developed by Antonija Mitrovic and colleagues in the WETAS authoring shell.
 * [Effective Practice Incentive Community (EPIC) incentive program](effective-practice-incentive-community-epic-incentive-program.md) - A New Leaders for New Schools programme that offers incentives to educators in eligible schools showing significant student achievement gains and supports documenting and disseminating their practices.
 * [Effective Practice Incentive Community (EPIC) school award program](effective-practice-incentive-community-epic-school-award-program.md) - A school-level award programme operated through three partner organizations that uses school data to determine eligibility and recognizes eligible schools with EPIC awards.
+* [EIDU DPL tool](eidu-dpl-tool.md) - The EIDU DPL tool is an offline-capable Android-based digital personalised learning platform developed by EIDU to deliver curriculum-aligned literacy and numeracy content with learner-specific sequencing.
 * [Eight proposed CRESST assessment tools](eight-proposed-cresst-assessment-tools.md) - A suite of eight assessment tools proposed by the National Center for Research on Evaluation, Standards, and Student Testing (CRESST) to measure learning processes and performance through concept mapping, simulation, outlining, problem solving, and related tasks.
 * [Eight-scale instrument for classifying teaching style](eight-scale-instrument-for-classifying-teaching-style.md) - A behavioral-recording and rating instrument developed by Garfunkel for describing classroom atmosphere and teaching style across eight bipolar scales.
 * [Eight-test ancient-history recall scale with weighted score cards](eight-test-ancient-history-recall-scale-with-weighted-score-cards.md) - An assessment developed by Sackett for measuring high-school and university learners’ recall of ancient-history facts through eight timed tests with weighted scoring.
@@ -712,6 +716,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Framework for Powerful Learning with Emerging Technology](framework-for-powerful-learning-with-emerging-technology.md) - A three-principle framework developed by its authors to guide educators, caregivers, and learners in using emerging technologies through learner-centered, evidence-based, and skill-building practices.
 * [Framework for Teaching](framework-for-teaching.md) - The Charlotte Danielson Framework for Teaching is a framework developed by Charlotte Danielson for evaluating and supporting classroom teaching through observable components across four domains and four performance levels.
 * [Freely available Longformer Content and Wording summary scoring models on HuggingFace](freely-available-longformer-content-and-wording-summary-scoring-models-on-huggingface.md) - Two Longformer checkpoints, longformer-content-global and longformer-wording-global, released by Morris et al.
+* [French Assistant](french-assistant.md) - French Assistant is an AI-powered French pronunciation learning app that uses automatic speech recognition to assess uploaded pronunciation audio and provide automated corrective feedback.
 * [Frequentist-based Representative Diversity (FRD) index](frequentist-based-representative-diversity-frd-index.md) - A proposed index by Chan et al.
 * [Freshman OnTrack](freshman-ontrack.md) - A school early-warning indicator and dashboard system that combines student attendance, grades, discipline, and momentum data to monitor freshman on-track status and guide support.
 * [Freshman OnTrack indicator](freshman-ontrack-indicator.md) - A research-based early-warning measurement developed and used by the University of Chicago Consortium and Chicago Public Schools to identify ninth-grade students at risk of not graduating.
@@ -807,6 +812,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Healy Picture Completion Test](healy-picture-completion-test.md) - A standardized performance assessment in which children complete pictures and receive score-, time-, and age-level classifications, administered and scored using Pintner and Anderson procedures.
 * [HEARTS](hearts.md) - A whole-school, trauma-informed programme developed by the University of California, San Francisco and implemented in San Francisco Unified School District schools through tiered supports, staff training, consultation, and student interventions.
 * [HEC Health Equity Framework](hec-health-equity-framework.md) - A co-developed health-equity framework with implementation supports that organizes actions to improve care and disrupt intersecting systems of oppression in healthcare.
+* [HeDiCom (Higher Education Digital Competence) framework](hedicom-higher-education-digital-competence-framework.md) - A framework developed by Tondeur and colleagues that defines digital competencies for higher-education teachers, including technical, pedagogical, and student-empowerment dimensions, to guide online and blended teaching.
 * [Heggerty's Bridge to Reading](heggertys-bridge-to-reading.md) - A teacher-led foundational skills curriculum from Heggerty that combines explicit phonics and phonemic-awareness lessons for daily kindergarten through grade 2 instruction.
 * [HelpCoach](helpcoach.md) - A research-developed in situ chat-interface add-on by Hyoungwook Jin and colleagues that monitors and scaffolds students’ targeted help-seeking during AI-supported problem solving.
 * [Here and Now Story Book](here-and-now-story-book.md) - A collection of stories for young children based on their everyday activities and interests, published by E.
@@ -906,6 +912,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [iTELL (Intelligent Textbook for Enhanced Language Learning)](itell-intelligent-textbook-for-enhanced-language-learning.md) - iTELL is a computational framework and interactive intelligent-textbook web application developed by Morris et al.
 * [ITSS](itss.md) - ITSS is a web-based intelligent tutoring system for grades K–8 that teaches students to recognize and use factual-text structures through animated modeling, self-paced practice, and immediate feedback.
 * [IUPUI ePortfolio HIP taxonomy: four attributes of high-impact ePortfolio practice at three ascending levels of impact](iupui-epportfolio-taxonomy-four-attributes.md) - The taxonomy identifies four attributes of high-impact ePortfolio practice: \"1.
+* [iVR application for femorotibial mobilization training on Meta Quest 2](ivr-application-for-femorotibial-mobilization-training-on-meta-quest-2.md) - A Meta Quest 2 immersive virtual-reality application developed by Trinidad-Fernández et al.
 * [IXL Math](ixl-math.md) - IXL Learning's IXL Math is a personalized mathematics learning platform with adaptive skills, tutorials, diagnostics, analytics, and classroom-support tools for learners from PreK through Calculus.
 
 #### J {: #letter-j }
@@ -1146,8 +1153,10 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Mathematical Imagery Trainer for Proportion](mathematical-imagery-trainer-for-proportion.md) - An embodied mathematics-learning environment developed by Dor Abrahamson and colleagues in which learners manipulate on-screen cursors to construct proportional relationships through staged visual and numerical overlays.
 * [Mathematics Diagnostic Testing Project (MDTP)](mathematics-diagnostic-testing-project-mdtp.md) - MDTP is a mathematics diagnostic assessment project that provides topic-level mastery information for students and educators, including online results used to inform algebra placement decisions.
 * [Mathematics-Related Beliefs Questionnaire](mathematics-related-beliefs-questionnaire.md) - The MRBQ is a 58-item, six-point Likert-scale questionnaire developed by Op ’t Eynde and colleagues to measure students’ beliefs about mathematics, themselves as mathematics learners, and their classroom social context.
+* [MATHERIAL](matherial.md) - A two-player interactive mathematics game created by Es-Sajjade et al.
 * [MATHia](mathia.md) - MATHia is Carnegie Learning's adaptive mathematics intelligent tutoring system that analyzes students' step-by-step problem solving and provides personalized instruction and feedback toward mastery.
 * [MAWSQ: Metacognitive Academic Writing Strategies Questionnaire](mawsq-metacognitive-academic-writing-strategies-questionnaire.md) - A 43-item, 7-point Likert self-report questionnaire developed by Teng and colleagues to assess EFL university students' metacognitive knowledge and regulation strategies in academic writing.
+* [mBot with mBlock](mbot-with-mblock.md) - mBot is an educational Arduino-based robot programmed through Makeblock's mBlock visual programming environment for classroom coding and STEM activities.
 * [MCD-v2](mcd-v2.md) - MCD-v2 is a computerized adaptive cognitive diagnostic test developed by Vy Le et al.
 * [McKinney-Vento Act](mckinney-vento-act.md) - A U.S.
 * [MDTP Algebra Readiness test](mdtp-algebra-readiness-test.md) - A 45-item multiple-choice mathematics diagnostic assessment developed by the Mathematics Diagnostic Testing Project to measure students' algebra readiness across seven topic areas.
@@ -1674,6 +1683,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [School-Home Early Language and Literacy assessment](school-home-early-language-and-literacy-assessment.md) - A language and literacy assessment that measures young children's English narrative production and related expressive-language skills through tasks such as the Bear Story picture-prompt narrative.
 * [School-Wide Information System (SWIS)](school-wide-information-system-swis.md) - An internet-based data-entry and reporting system developed for schools to collect, manage, and analyze office discipline referral data for behavior-support decision making.
 * [Science Student Electronic Exit Ticket (SEET)](science-student-electronic-exit-ticket-seet.md) - A web-based application developed by Ali Raza and colleagues that collects student experience exit-ticket surveys and provides whole-class and demographic-disaggregated visualizations for teachers.
+* [Scientific Habits of Mind (SHOM) Survey](scientific-habits-of-mind-shom-survey.md) - A 32-item, seven-subscale self-report instrument developed by Çalık and Coll for measuring scientific habits of mind such as skepticism, objectivity, rationality, open-mindedness, curiosity, and resistance to authority.
 * [Scientific Reasoning Inventory (SRI)](scientific-reasoning-inventory-sri.md) - A paper-and-pencil assessment developed by Van de Sande et al.
 * [SciEntsBank](scientsbank.md) - SciEntsBank is a benchmark dataset of human-annotated student science short answers and semantic-correctness labels used to develop and evaluate automated short-answer assessment systems.
 * [Scratch](scratch.md) - Scratch is an MIT Media Lab-developed block-based programming language and online sharing ecosystem in which learners create, remix, debug, and share interactive projects.
@@ -1877,6 +1887,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 
 #### T {: #letter-t }
 
+* [T-MITOCAR (Text-Model Inspection Trace of Concepts and Relations)](t-mitocar-text-model-inspection-trace-of-concepts-and-relations.md) - An automated computer-based assessment tool developed by Lehmann et al.
 * [T-SQsrl paired teacher and student SRL questionnaires](t-sqsrl-paired-teacher-and-student-srl-questionnaires.md) - A paired teacher-and-student questionnaire instrument developed by Avivit Arvatz and colleagues to assess self-regulated-learning subprocesses and reflection through self-report and triangulated open-ended responses.
 * [T3 Turnaround Teacher Teams](t3-turnaround-teacher-teams.md) - T3 Turnaround Teacher Teams is a Teach Plus and Boston Public Schools school-turnaround programme that places trained teacher leaders and coaches in low-performing schools to support shared leadership, data use, and collaborative planning.
 * [TACTCorpus and TACTBench](tactcorpus-and-tactbench.md) - Dongjie Yang et al.'s released corpus, diagnostic benchmark, annotations, and model weights support reproducible research on pedagogically adaptive next-turn generation for one-to-one ESL tutoring.

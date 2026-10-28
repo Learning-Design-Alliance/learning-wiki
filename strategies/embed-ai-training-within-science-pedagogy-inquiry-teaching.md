@@ -55,6 +55,7 @@ The article recommends that teacher educators go beyond general AI tool operatio
 - [Embed GenAI into existing pedagogical strategies instead of undertaking full curriculum redesign](embed-genai-into-existing-pedagogical-strategies.md)
 - [Introduce computational thinking to preservice teachers within teacher education programs](ct-in-preservice-teacher-education.md)
 - [Integrate structured opportunities for critical engagement with AI into teacher education programs](structured-critical-ai-engagement-teacher-education.md)
+- [Structure AI-supported professional development around collaborative reflection rather than technical training alone](collaborative-reflection-ai-tpd.md)
 
 ## Examples
 -

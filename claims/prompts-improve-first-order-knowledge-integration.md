@@ -91,3 +91,4 @@ Follow-up ANOVA on the integrative measure elaborations across domains in the sa
 - [Pre-reading relevance instructions produce better cued recall for test questions more similar to the instructions than for questions less similar to them](relevance-instruction-similarity-cued-recall-advantage.md) — related
 - [Reflective Practice Improves Outcomes When Structured](reflective-practice-improves-outcomes-when-structured.md) — related
 - [Pre-reading relevance instructions did not change reading time on sentences targeted by the questions](no-reading-time-difference-targeted-sentences.md) — related
+- [Integration prompts improve structural integration of knowledge across professional domains in pre-service teachers' mental models](integration-prompts-improve-structural-integration-teacher-knowledge.md) — related

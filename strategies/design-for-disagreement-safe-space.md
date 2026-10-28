@@ -51,6 +51,7 @@ The article's tentative design suggestion is that "providing a safe space for me
 
 - [Use hedges, hypotheticals and questions to open space for safe exploration of new ideas](hedges-hypotheticals-questions-safe-exploration.md)
 - [Creating Space for New Ideas](creating_space_for_new_ideas.md)
+- [Support tertiary educators to dialogue safely with colleagues about student feedback and teaching failure](collegial-dialogue-teaching-failure-strategy.md)
 
 ## Examples
 -

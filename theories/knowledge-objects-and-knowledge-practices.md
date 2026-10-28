@@ -17,7 +17,7 @@ sources:
 # Knowledge Objects and Knowledge Practices
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 42 claims (31 for, 10 mixed, 1 against) · 33 studies (11 qualitative, 7 associational, 5 review, 5 design, 4 theoretical, 1 causal), `q1`–`q3` · 0 of 33 report an effect size · 42 claims rest on one study
+> **Evidence** · 44 claims (33 for, 10 mixed, 1 against) · 34 studies (11 qualitative, 8 associational, 5 review, 5 design, 4 theoretical, 1 causal), `q1`–`q3` · 1 of 34 report an effect size · 44 claims rest on one study
 
 ## Description
 Drawing on Knorr Cetina's (2001) concept of epistemic objects, a **knowledge object (KO)** is an evolving, materially mediated artifact or representation — a report, a proposal, a logo, a plan — that is shaped through participants' interaction and, in turn, structures what the group does next. Unlike a finished document, a knowledge object is treated as perpetually unfinished: it raises awareness of understanding gaps, makes group progress visible, and prompts reflection precisely because it keeps changing. A **knowledge practice (KP)** is a recurring, dynamic epistemic activity through which a group jointly creates knowledge around an open-ended, complex problem — not limited to talk, but including the embodied and materially mediated practices (writing on a flip chart, restructuring a shared document) that channel a group's collective effort.
@@ -80,6 +80,8 @@ This is a distinct lens from [boundary crossing](boundary-crossing-learning.md):
 - [The reconstruction phase produced two interdependent objects: a social object leading to a role-play script and a technology object leading to a Minecraft building](../claims/social-and-technology-objects-reconstruction-phase.md) [+W]
 - [Wiki pages produced by many anonymous edits exhibit group-generated meaning not attributable to any individual contributor](../claims/wiki-page-group-generated-meaning-unplanned-edits.md) [+W]
 - [Wikipedia history analysis shows external assimilation: a user added only the CSILE/Knowledge Forum link without further changes](../claims/wikipedia-cscl-external-assimilation-example.md) [~W]
+- [Discourse shifted significantly from sharing-oriented toward argument- and integration-oriented moves between early and later stages](../claims/discourse-shift-toward-integration-and-argument.md) [+W] — attached 2026-10-28 from Huang-Yao Hong et al. (2025), which proposed "Hong and Sullivan's idea-centered discourse framework: sharing-, argument-, and integration-oriented discourse".
+- [Integration-oriented discourse predicted knowing-why, explaining 48.3% of variance, with sharing-oriented adding 12.1%](../claims/integration-discourse-predicts-knowing-why.md) [+W] — attached 2026-10-28 from Huang-Yao Hong et al. (2025), which proposed "Hong and Sullivan's idea-centered discourse framework: sharing-, argument-, and integration-oriented discourse"; tests this page's relationship.
 
 ## Related Theories
 

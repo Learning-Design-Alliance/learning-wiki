@@ -15,7 +15,7 @@ grain_size: course
 # Design-Based Research
 
 > **Design Process** · [All design processes](index.md)
-> **Evidence** · 7 claims (7 for) · 6 studies (4 design, 1 qualitative, 1 theoretical), `q1`–`q2` · 0 of 6 report an effect size · 7 claims rest on one study
+> **Evidence** · 12 claims (10 for, 2 mixed) · 8 studies (4 design, 1 review, 1 associational, 1 qualitative, 1 theoretical), `q1`–`q2` · 0 of 8 report an effect size · 12 claims rest on one study
 
 ## Description
 Design-based research (DBR) develops an educational intervention and a theory together. The designer-researcher builds the intervention in a real teaching and learning setting, tests it, revises it, and tests it again. Each revision is a small experiment, and what is learned is meant to improve the design and contribute to theory about learning. Christensen and West's review trace it to Brown (1992) and Collins (1990, 1992), who took Herbert Simon's call in *The Sciences of the Artificial* for a rigorous science of designed things and applied it to classrooms.
@@ -73,6 +73,11 @@ Borrowing from interdisciplinary design research, Christensen and West recommend
 - [Design-based research is important for the development of technology-enhanced learning environments](../claims/dbr-importance-for-tele-development.md) [+W]
 - [In Quebec's Remote Networked School initiative, teacher collaborative design proved to be relevant, feasible, and sustainable despite systemic limits](../claims/rns-collaborative-design-relevant-feasible-sustainable.md) [+W]
 - [Research questions are rarely conceived in partnership with practitioners, which undermines research impact on educational decision making](../claims/research-questions-rarely-designed-with-practitioners.md) [+W]
+- [Close collaboration between researchers and practitioners was prominent in all 18 reviewed design research projects](../claims/close-collaboration-prominent-in-all-projects.md) [+W]
+- [Nearly all reviewed projects reported anchoring designed solutions in research from literature or in-house project data](../claims/designs-anchored-in-literature-or-project-data.md) [+W]
+- [Collaboration increases design effort significantly, especially between teachers and project members](../claims/collaboration-increases-design-effort.md) [~W]
+- [All reviewed articles indicated research fed (re)design, but few specified how](../claims/research-feeds-redesign-but-few-specify-how.md) [+W]
+- [Practitioner involvement was high in design and implementation but less so in knowledge production](../claims/practitioner-involvement-high-in-design-less-in-knowledge-production.md) [~W]
 
 #### Supporting
 - None yet recorded in the wiki from a DBR study's own evidence
@@ -106,6 +111,7 @@ The literature offers no single sequence. This composite follows the stages Bann
 
 - *The Journal of the Learning Sciences* 13(1) (2004), which carries two of the papers the chapter leans on most: Barab and Squire (2004) and Collins, Joseph and Bielaczyc (2004)
 - [Four design insights for GAI chatbots supporting SRL: real-time personalization, warm language, platform integration, and course-content embedding](../strategies/four-design-insights-gai-chatbots-srl.md)
+- [Instructional systems design (ISD) with design-based research (DBR) for orientation resource development](../designs/isd-dbr-orientation-resource-development.md)
 
 ## Key Sources
 - Christensen, K. D. N., & West, R. E. (2018). The development of design-based research. In *Foundations of Learning and Instructional Design Technology* (1st ed., pp. 323–339). EdTech Books. https://edtechbooks.org/lidtfoundations/development_of_design-based_research

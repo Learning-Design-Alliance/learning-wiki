@@ -54,3 +54,4 @@ The review's prototype technology analysis (RQ3), organized by a four-module arc
 - [LLM capabilities enabled family education systems across conversational, embodied, and spatial interface forms to generate support from the context of an unfolding interaction](llm-generated-support-unfolding-interaction.md) — a narrower finding that bears on this claim
 - SET-NLP shows expansion of the methodological repertoire without simple replacement of earlier approaches by newer ones — related
 - [Targeted enhancements (retrieval-augmented inference, multimodal training) substantially raise open-source models' phonology mastery to near-ceiling levels](targeted-enhancements-raise-phonology-mastery.md) — a narrower finding that bears on this claim
+- [AWE technology has evolved through four distinct generations from traditional NLP-based systems to AI-driven LLM-integrated tools (2000–2024)](awe-four-generations-evolution.md) — related

@@ -53,3 +53,4 @@ Repeated-measures ANOVA across 11 undergraduate engineering groups comparing tur
 - [Groups' distribution of the four problem-solving processes deviated less from the ideal distribution (lower Gini coefficients) on scaffolded than non-scaffolded tasks](scaffolds-lower-gini-cps-process-distribution.md) — related
 - [Explicit scaffolding prompts elicited P1 (exploring) and P2 (planning) engagement at task start that groups did not show on the non-scaffolded task](scaffolds-prompt-p1-p2-engagement-at-start.md) — related
 - [Video-graph analysis shows scaffolded tasks produced more diverse process episodes, more fluent transitions between processes, and more P3–P4 oscillation than non-scaffolded tasks](scaffolds-video-graph-episode-diversity-transitions.md) — related
+- [Practices P1, P2, P3, P4 and P7 received the highest percentages at the Redefinition level](p1-p2-p3-p4-p7-highest-redefinition-percentages.md) — related

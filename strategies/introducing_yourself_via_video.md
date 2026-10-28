@@ -63,6 +63,7 @@ Video introductions build the instructor's social presence, which the [Community
 - [Instructor presence in discussions](../strategies/instructor-presence-in-discussions.md) — sustaining the connection the introduction opens
 - [Icebreakers](../strategies/icebreakers.md) — structured activities that extend the introduction into peer-to-peer connection
 - [Instructors apply chatbots to support goal setting and social presence in fully online activities](instructor-strategy-chatbots-goal-setting-social-presence.md)
+- [Use video-based feedback to provide socio-emotional support and social presence in remote learning](video-feedback-socio-emotional-support.md)
 
 ## Examples
 - **Flip (https://info.flip.com)** — commonly used for video introduction threads where instructor and students post short intro videos in a shared grid.

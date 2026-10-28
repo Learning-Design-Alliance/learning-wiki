@@ -57,6 +57,7 @@ The article recommends embedding CT ideas in the subjects students already learn
 - [Integrate AI literacy across grades and subject-area learning rather than confining it to electives](integrate-ai-literacy-across-subject-areas.md)
 - [Embed algorithmic thinking lessons across content, standalone, SEL, problem-based, and review contexts](when-to-teach-algorithms-five-contexts.md)
 - [Integrate AI literacy into disciplinary core subjects rather than adding a new AI subject](integrate-ai-literacy-into-core-subjects.md)
+- [Integrate robotics with visual block programming into mathematics units on coordinates and integers](integrate-robotics-block-programming-math-units.md)
 
 ## Examples
 -

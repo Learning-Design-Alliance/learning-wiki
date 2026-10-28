@@ -88,6 +88,7 @@ Making is a form of [active learning](../principles/active-learning.md) grounded
 - Design thinking challenges — supply the framing that keeps making conceptually productive
 - Tinkering-based science — interest-driven exploration with conceptual debriefs
 - [Involve cross-age peer tutors in maker-project pedagogical infrastructure](cross-age-peer-tutors-maker-infrastructure.md)
+- [Provide open-ended, making-focused environments with space to experiment and invent as a route to powerful mathematical discoveries](open-ended-making-environments-math-discoveries.md)
 
 ## Related Elements
 - [Application](../elements/application.md) — making is application made physical

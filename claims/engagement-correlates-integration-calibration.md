@@ -56,3 +56,4 @@ Zero-order correlational analysis on the full sample (descriptive statistics in 
 - [University students spent longer processing time watching two complementary videos than reading two complementary digital texts](videos-longer-processing-time-than-texts.md) — related
 - [No significant medium, context, or interaction effects on integration of information across complementary texts or videos](no-medium-context-effect-integration.md) — related
 - [Longer eye fixation time is ambiguous between processing difficulty and extra processing effort, so eye movement data should be validated with outcome measures](fixation-time-ambiguity-validation.md) — related
+- [Invested effort was positively associated with knowledge acquisition for research designs](invested-effort-knowledge-research-designs.md) — related

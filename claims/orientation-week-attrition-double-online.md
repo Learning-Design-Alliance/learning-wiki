@@ -56,3 +56,4 @@ Analysis of drop timing across the two-year data set (Table 5): 8 percent of onl
 - [Self-reported withdrawal reasons are largely similar online and onground, led by no/other reason, transfer, and schedule conflict](withdrawal-reasons-similar-across-modalities.md) — related
 - Course modality moderated student experience: instructor responsiveness was more prevalent in face-to-face classes and online students reported more frustration — related
 - [Differential attrition may explain the reported reduction in achievement gaps under daily online testing](differential-attrition-may-explain-gap-reduction.md) — related
+- [A baseline survey of online course stakeholders found widespread duplication of orientation resources across courses, reflecting siloed development.](molh-baseline-survey-duplicated-orientation-resources.md) — related

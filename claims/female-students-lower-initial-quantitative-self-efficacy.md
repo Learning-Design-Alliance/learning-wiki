@@ -60,3 +60,4 @@ Mann-Whitney U-tests compared initial self-efficacy by gender/sex for each task;
 - [Female students reported lower challenge emotions than male students after controlling for other variables](female-lower-challenge-emotions-genai.md) — related
 - [Female student teachers score significantly higher on performance goal orientation than male students, with no gender differences on the other dimensions](gender-performance-goal-orientation-females-higher.md) — reports the opposite
 - [Female participants reported significantly higher maths anxiety and general anxiety, while males reported higher maths self-efficacy and maths interest](sex-differences-maths-anxiety-motivation-means.md) — related
+- [Female students in the experimental group showed significantly higher maths gains than female controls, while males did not differ](mobile-math-gains-female-students-only.md) — related

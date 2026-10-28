@@ -79,3 +79,4 @@ Meta-analysis of 29 studies on spaced retrieval practice, split into two subsets
 - [Distributed practice outperforms massed practice for long-term learning, with a possible foreign-language exception](distributed-practice-beats-massed-with-exception.md) — a broader claim this one bears on
 - [Distributed (spaced) learning is reported to work best compared with massed study in one long session](distributed-practice-beats-cramming-principle.md) — related
 - [LTP exhibits electrophysiological properties that make it an attractive candidate memory mechanism, including rapid induction, persistence up to at least a year, and greater persistence with spaced than massed induction protocols](ltp-properties-attractive-memory-mechanism.md) — related
+- [Massed review at end of film produced significantly greater learning than no review or spaced review](massed-review-greater-learning-than-spaced-or-none.md) — reports the opposite

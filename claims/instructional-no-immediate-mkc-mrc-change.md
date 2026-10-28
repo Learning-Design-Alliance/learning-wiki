@@ -59,3 +59,4 @@ Within-group paired analysis of the instructional group (n1 = 61) at T0 to T1 in
 - The evidence base is concentrated in self-reported metacognitive regulation, with planning support and non-self-report measures under-represented — related
 - [Pre-test/post-test learning gains showed no significant difference compared to a control group](tapacarp-learning-gain-null-vs-control.md) — related
 - [Both groups showed large sustained five-week gains in AI engagement](sustained-aie-gains-both-groups.md) — related
+- [The video lectures were effective overall, producing significant knowledge gains](video-lecture-overall-effectiveness.md) — related

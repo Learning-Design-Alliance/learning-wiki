@@ -53,3 +53,4 @@ Qualitative themes across RQ2 reporting: students revised before grading (e.g., 
 - [GenAI feedback limitations require students to exercise evaluative judgement](genai-limitations-require-evaluative-judgement.md) — related
 - [Students report heightened autonomy in English learning through self-directed regulation, personalized feedback, and active evaluation of ChatGPT suggestions](chatgpt-autonomy-self-directed-learning.md) — related
 - [Both ChatGPT feedback and peer feedback prompted doctoral students to actively exercise hard evaluative judgement in statistical analysis, through different challenges](both-feedback-modalities-prompt-hard-evaluative-judgement.md) — related
+- [Correctness and informative feedback with appropriate challenge fostered competence and autonomy](feedback-features-fostered-competence-autonomy.md) — related

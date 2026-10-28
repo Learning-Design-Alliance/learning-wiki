@@ -53,3 +53,4 @@ The review's synthesis identifies teachers' digital competence as influencing bo
 - [About half of teachers report access to data technologies, but roughly half lack confidence in their data skills and do not use digital data to plan and adjust teaching](teachers-access-but-low-skill-and-use.md) — related
 - [A teacher-initiated report card comment generator built in Solara saw immediate high adoption without formal rollout or training](teacher-initiated-tool-high-adoption.md) — related
 - [Dataset 1 identified challenges in current teaching (resources, knowledge, digital tools) alongside opportunities for emerging technologies to clarify complex concepts and teach critical skills](dataset1-challenges-and-opportunities-themes.md) — related
+- [Higher education teachers require digital competencies that align with disciplinary culture and available technologies](digital-competencies-align-with-disciplinary-culture.md) — related

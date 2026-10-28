@@ -52,3 +52,4 @@ Teacher-level descriptive analysis complementing the ILS-level results. Teachers
 - [Logistic regression shows all traced KAM practices except fading are significant positive predictors of adoption, with maturation strongest (odds ratios up to 12.36) and model AUC = 0.79](logistic-regression-kam-practices-predict-adoption.md) — related
 - [Expert scaffolding is associated with ILS adoption, but the fading stage shows a comparatively low rate (8.27%) and was a non-significant predictor](expert-scaffolding-associated-with-adoption-except-fading.md) — related
 - [The higher the maturation level of an Inquiry Learning Space (create, share, co-create, publish), the higher its probability of being implemented in a classroom](higher-maturation-level-higher-ils-implementation-probability.md) — related
+- [Most created ILSs are not implemented in classrooms, with implementation increasing over time](ils-implementation-gap-narrowing-over-time.md) — related

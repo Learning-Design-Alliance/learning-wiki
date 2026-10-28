@@ -12,7 +12,7 @@ generated:
 # Cognitive Apprenticeship
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 10 claims (6 for, 3 mixed, 1 against) · 7 studies (3 causal, 2 theoretical, 1 associational, 1 qualitative), `q1`–`q3` · 0 of 7 report an effect size · 10 claims rest on one study
+> **Evidence** · 11 claims (6 for, 3 mixed, 2 against) · 8 studies (4 causal, 2 theoretical, 1 associational, 1 qualitative), `q1`–`q3` · 0 of 8 report an effect size · 11 claims rest on one study
 
 ## Description
 Cognitive apprenticeship is the theory that complex thinking is learned through modeled expert performance, coached participation, scaffolding, articulation, reflection, and gradual fading in authentic tasks.
@@ -29,6 +29,7 @@ Cognitive apprenticeship is the theory that complex thinking is learned through 
 - [Instructor motion is positively associated with BtBC only during scaffolding, not explanation](../claims/instructor-motion-btbc-scaffolding-only.md) [~W]
 - [Learner-leading BtBC is larger under scaffolding; instructor-leading BtBC shows only a trending effect, and instructor-leading BtBC fails to predict learning under explanation](../claims/directional-btbc-exploratory-findings.md) [~W]
 - [A simulated learning companion using menu-based dialogue in an ITS encourages student reflection and articulation, enhancing learning](../claims/menu-based-learning-companion-encourages-reflection-articulation.md) [+W]
+- [Adding modeling videos and prompts during video analysis does not improve posttest or follow-up professional vision outcomes beyond the basic VLE](../claims/modeling-videos-prompts-no-additional-vision-gains.md) [-W] — attached 2026-10-28 from Janeczko et al. (2026), which proposed "Cognitive apprenticeship approach as a didactic framework for designing digital support tools in video-based learning"; tests this page's relationship.
 
 ## Related Theories
 

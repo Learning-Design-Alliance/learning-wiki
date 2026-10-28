@@ -15,7 +15,7 @@ grain_size: program, school
 # Positive Behavioral Interventions And Supports
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 44 claims (32 for, 10 mixed, 2 against) · 30 studies (14 causal, 6 quant-synthesis, 6 review, 2 theoretical, 1 associational, 1 design), `q1`–`q4` · 9 of 30 report an effect size · 38 claims rest on one study
+> **Evidence** · 45 claims (33 for, 10 mixed, 2 against) · 31 studies (14 causal, 7 review, 6 quant-synthesis, 2 theoretical, 1 associational, 1 design), `q1`–`q4` · 9 of 31 report an effect size · 39 claims rest on one study
 
 ## Description and scope
 
@@ -132,6 +132,10 @@ Record: **expectations and setting matrix → lessons taught, where and when →
 [Clear structure](../principles/clear-structure.md), [reinforcement](../elements/reinforcement.md), [behaviour-specific praise](../strategies/behavior-specific-praise.md), [feedback](../elements/feedback.md), [check-in](../elements/check-in.md), [Check In/Check Out](../strategies/check-incheck-out.md), [functional behaviour assessment](../strategies/functional-behavior-assessment.md), [accommodations](../elements/accommodations.md) and [belonging](../elements/belonging.md). Theories: [Behaviorism](../theories/behaviorism.md) (reinforcing expected behaviour rather than punishing the unwanted), [Social Learning Theory](../theories/social-learning-theory.md) (expectations learned by modelling) and [Self-Determination Theory](../theories/self-determination-theory.md) (acknowledgment that informs rather than controls, supporting [autonomy](../principles/autonomy.md)); the long-term aim of self-management connects to [Self-Regulated Learning](../theories/self-regulated-learning.md). Neighbouring principles: [Building Empathy](../principles/building-empathy.md), [Culturally Responsive Classroom Norms](../principles/culturally-responsive-classroom-norms.md) and [Wise Feedback Across Difference](../principles/wise-feedback-across-difference.md) for corrections given across difference.
 
 This pattern is scoped to a school-wide, tiered system of taught and acknowledged expectations with data-based decisions. It is not an academic intervention, not a single classroom's plan (see the classroom management principle) and not, by itself, an answer to trauma or severe emotional need, which the intensive tier and other services must address. In the claims recorded here, the one randomized trial found whole-school PBIS in elementary schools lowered office referrals and slightly improved teacher-rated behaviour over four years, most for children at risk, without changing out-of-school suspensions or achievement; the one matched comparison found a suspension difference only where all three tiers ran with fidelity. Whether it works the same way in secondary schools, and which tier produces which change, remains untested in the claims recorded here.
+
+## Claims
+
+- [Positive changes in student attitude, behavior, and mentality and improved cognitive, physical, and social-emotional development were observed](../claims/gamified-vr-positive-changes-attitude-behavior-development.md) [+W]
 
 ## Related Patterns
 - [Social-Emotional Learning](social-emotional-learning.md) — teaches named social and emotional skills; PBIS teaches and acknowledges setting-specific expectations, and the two are often run together

@@ -27,7 +27,7 @@ sources:
 # Personalization
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 95 claims (53 for, 35 mixed, 7 against) · 98 studies (31 review, 23 causal, 12 theoretical, 9 associational, 9 qualitative, 9 design, 5 quant-synthesis), `q1`–`q4` · 8 of 98 report an effect size · 90 claims rest on one study
+> **Evidence** · 96 claims (53 for, 36 mixed, 7 against) · 99 studies (31 review, 23 causal, 12 theoretical, 10 associational, 9 qualitative, 9 design, 5 quant-synthesis), `q1`–`q4` · 8 of 99 report an effect size · 91 claims rest on one study
 
 ## Conditional relationship
 
@@ -205,6 +205,7 @@ Engagement, immediate achievement on an aligned test, time saved, delayed retent
 - [The student model rapidly adapts to a child's knowledge level, reaching the first key skill after about 148 tasks](../claims/rapid-adaptation-to-learner-knowledge-level.md) [+W]
 - [Solving context-personalized AI-generated tasks raises interest more than solving standard tasks](../claims/gai-personalized-tasks-interest.md) [+W]
 - [LLM-generated student plans in a game-based learning environment are valid, with T5 plans closely matching student-created plans and GPT-3.5 producing more diverse plans, supporting real-time adaptive scaffolding](../claims/llm-plan-generation-adaptive-scaffolding-gbl.md) [+W]
+- [DHH students' communication preferences partly predict which multimedia tutorial features they attend to](../claims/dhh-communication-preference-predicts-feature-attention.md) [~W]
 
 ## Related Principles
 - [Adaptive Learning](adaptive-learning.md) — the system-driven end of the personalization spectrum, where algorithms adjust difficulty and sequencing

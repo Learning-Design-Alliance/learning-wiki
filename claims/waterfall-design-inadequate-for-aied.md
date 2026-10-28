@@ -49,3 +49,4 @@ A theoretical argument in the Pursuing FATE through Improvement Science section.
 - [A student model that is easily ported to another ITS may still fail there, because student behaviour depends on domain, interface, and the system that generated training data, so ported models must be re-tested.](ported-models-context-sensitive-must-be-retested.md) — related
 - [Inquiry environments are hard to scale because they are ambitious learning activity systems requiring changes in roles, participation, and system coherence](inquiry-environments-ambitious-systems-hard-to-scale.md) — related
 - [User-centered and participatory AIEd approaches engage users mainly in early design, limiting recognition of FATE issues arising in use](participatory-design-limits-fate-in-use.md) — related
+- [User experience challenges include poor matching, inadequate scaffolding, and suboptimal interface design](user-experience-challenges-srl-recommenders.md) — related

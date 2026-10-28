@@ -13,7 +13,7 @@ generated:
 # Digital Literacy
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 53 claims (36 show a difference, 10 mixed, 7 no difference) · 43 studies (15 associational, 9 causal, 6 review, 5 qualitative, 3 quant-synthesis, 3 design, 2 theoretical), `q1`–`q4` · 9 of 43 report an effect size · 51 claims rest on one study
+> **Evidence** · 55 claims (38 show a difference, 10 mixed, 7 no difference) · 45 studies (16 associational, 9 causal, 6 review, 5 qualitative, 3 quant-synthesis, 3 design, 3 theoretical), `q1`–`q4` · 9 of 45 report an effect size · 53 claims rest on one study
 
 ## Description
 Whether a learner can *operate* the interface — distinct from [access](access.md), which is whether they can load it at all. It covers navigation, file handling, knowing what is clickable, and the confidence to explore without fear of breaking something. Every course here is delivered digitally, so this is never out of scope, and it is the dimension most often assumed away: a designer fluent in the interface cannot see it.
@@ -87,6 +87,8 @@ Whether a learner can *operate* the interface — distinct from [access](access.
 - [Digital literacy alone does not guarantee effective digital regulation](../claims/digital-literacy-alone-does-not-guarantee-regulation.md) [~W] — learners who differ on it differ in outcomes
 - [Digital literacy develops unevenly rather than robustly for many adolescents](../claims/uneven-digital-literacy-development-unicef.md) [~W] — instruction changes it
 - [Students' basic ICT skills pose little barrier in classroom settings but major hurdles for individual and mobile use, mitigated by peer support and initial device setup](../claims/basic-ict-skills-setting-dependent-barrier.md) [~M] — learners who differ on it differ in outcomes
+- [Higher education teachers' digital competence positively and significantly correlates with their work engagement and effort expectancy](../claims/digital-competence-correlates-work-engagement.md) [+M] — learners who differ on it differ in outcomes
+- [Learner characteristics — levels of income, country statuses, and digital skills — shape mobile learning inclusion and require design and practical solutions](../claims/learner-income-country-digital-skills-mobile-inclusion.md) [+W] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Do learners who differ in digital literacy differ in learning, engagement and later outcomes?* [Digital skills gaps span demographic groups and shape e-learning, job performance, and earnings](../claims/digital-literacy-gaps-span-demographics.md) [+M]

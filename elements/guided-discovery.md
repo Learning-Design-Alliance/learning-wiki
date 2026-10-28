@@ -19,7 +19,7 @@ sources:
 # Guided Discovery
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 12 claims (7 for, 5 mixed) · 11 studies (5 quant-synthesis, 2 review, 2 design, 1 causal, 1 theoretical), `q2`–`q4` · 3 of 11 report an effect size · 9 claims rest on one study
+> **Evidence** · 13 claims (8 for, 5 mixed) · 12 studies (5 quant-synthesis, 2 causal, 2 review, 2 design, 1 theoretical), `q2`–`q4` · 4 of 12 report an effect size · 10 claims rest on one study
 
 ## Description
 Guided discovery is the element in which learners investigate, infer, or notice patterns for themselves, but with prompts, constraints, examples, or feedback that keep the exploration productive. It is useful when the goal is active sensemaking without leaving learners entirely unguided.
@@ -59,6 +59,7 @@ Guided discovery is the element in which learners investigate, infer, or notice 
 - [One review reports that more teacher guidance within inquiry is associated with larger advantages over traditional instruction, though the two meta-analyses it cites differ in magnitude](../claims/teacher-guided-inquiry-larger-effects.md) [+M]
 - [High teaching guidance in concept mapping yields larger effects than low guidance, though marginal after excluding influential studies](../claims/high-teaching-guidance-larger-concept-map-effects.md) [~W]
 - [Teacher Feedback Led to Increased TU Duration by 50 Percent and Two Guidance Levels](../claims/teacher-feedback-tu-improvements.md) [+W]
+- [Declarative knowledge does not differ after unguided VR exploration but improves after scaffolded guidance is introduced](../claims/desktop-vr-scaffolded-guidance-declarative-knowledge-statics.md) [+W]
 
 ## The evidence by question
 - *Does discovery with guidance (prompts, feedback, worked examples, elicited explanations) produce more learning than unassisted discovery or other instruction?* [Enhanced discovery learning produces greater learning than other forms of instruction](../claims/enhanced-discovery-beats-other-instruction.md) [+M]

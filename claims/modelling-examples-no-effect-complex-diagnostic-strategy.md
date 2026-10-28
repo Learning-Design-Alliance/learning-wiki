@@ -73,3 +73,4 @@ ANOVA on posttest-only measures (second diagnosis, intrinsic, germane, and extra
 - [Restudy of an evidence summary alone produces no measurable skill improvement between simulator attempts](restudy-alone-no-skill-improvement.md) — related
 - [All participants reported higher teaching self-efficacy after the teaching-simulation training](teaching-simulation-training-raises-self-efficacy.md) — related
 - [Problem-solving facilitates diagnostic competences independent of learners' professional knowledge base](problem-solving-facilitates-diagnostic-competences-regardless-knowledge-base.md) — related
+- [Adding modeling videos and prompts during video analysis does not improve posttest or follow-up professional vision outcomes beyond the basic VLE](modeling-videos-prompts-no-additional-vision-gains.md) — related

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-21
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-10-28
 sources:
   - id: coppe-2026
     resource: "https://doi.org/10.1016/j.edurev.2026.100818"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-10-28 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In 32 of 51 reviewed studies, teachers' social networks are viewed as a means through which teachers learn, are supported, and develop, with TPD resulting from teachers interacting with colleagues in daily discussions. [→ Coppe 2026](#coppe-2026)
@@ -50,3 +51,5 @@ Systematic review synthesis of 51 empirical studies (2000–2024) identified via
 - [The four rationales differ along two dimensions: the network's functional role (independent vs. dependent variable) and its ontological stance (active vs. passive)](network-functional-role-ontological-stance-dimensions.md) — related
 - [Most reviewed studies used a sociocentric network approach (36 of 51), while 12 used an egocentric approach and 3 combined both](sociocentric-dominant-network-approach.md) — related
 - [Included studies conceptualized TPD in ten distinct themes, most often as improvement of instructional practices (20 studies)](ten-tpd-conceptualization-themes.md) — related
+- [Maintaining access to TPD materials and community was highly valued by faculty in a pandemic-redesigned program](maintained-tpd-material-access-valued.md) — related
+- [Prior TPD research focused on teacher impact, leaving student-centered evaluation of TPD for OBL unexamined](student-centered-tpd-evaluation-gap.md) — related

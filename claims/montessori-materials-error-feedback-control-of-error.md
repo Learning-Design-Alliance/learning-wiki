@@ -47,3 +47,4 @@ The authors' illustrative mapping: the Spindle Box's fixed count of "exactly 55 
 ## Related Claims
 - [Consolidation in the Montessori maths curriculum is achieved through cumulative material sequences, repetition and automatisation, with progressively less concrete representations](montessori-consolidation-cumulative-sequence.md) — related
 - [Montessori materials support attention by isolating a single quality, so children focus on one new thing at a time](montessori-materials-attention-single-quality-isolation.md) — related
+- [Peer review helped students notice their own mistakes through reviewing others' work](peer-review-reveals-own-mistakes.md) — related

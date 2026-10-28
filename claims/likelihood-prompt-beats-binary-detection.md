@@ -54,3 +54,4 @@ Comparison of the two detector prompts (likelihood percentage vs yes/no), each r
 - [LLM self-detection performance is strongly task-dependent: reliable for programming tasks and longer reflective responses but poor for short-answer questions](llm-self-detection-task-dependent.md) — related
 - [Surface Formatting Changes Shift LLM Grades, With No Consistent Penalty Detected](surface-formatting-changes-shift-llm-grades-without-penalising-them.md) — related
 - [The programming-process replay was the most prompt-intensive view to develop, requiring 31 prompts to work reliably and handle edge cases](replay-most-prompt-intensive-view-31-prompts.md) — related
+- [LLMs struggle with nuanced coding schemes but binary question detection is feasible with simple prompts](llm-struggle-nuanced-coding-binary-feasible.md) — related

@@ -59,6 +59,7 @@ The article recommends that instructors scaffold self-regulated learning by desi
 - [Embed repeated AI engagement and habit formation into everyday teaching practice, alongside supportive resources and collegial exchange](embed-habitual-ai-engagement-everyday-teaching.md)
 - [Embed media literacy across disciplines from early education and position AI tools as cognitive scaffolds](embed-media-literacy-ai-cognitive-scaffolds.md)
 - [Frame GenAI labs explicitly as verification and repair practice alongside prompting](frame-genai-labs-as-verification-and-repair-practice.md)
+- [Diagnose self-regulation at semester start and provide scaffolding or self-regulation instruction for online learners](diagnose-scaffold-self-regulation-online.md)
 
 ## Examples
 -

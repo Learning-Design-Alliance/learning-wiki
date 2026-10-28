@@ -77,3 +77,4 @@ An LLM prompt tournament with 12 learning engineers comparing 5 prompt templates
 - Global-judgment criteria of counselor effectiveness lack clarity, making replication fruitless and the research unproductive — related
 - [Inter-rater reliability between human experts and AI coding is very low](low-irr-experts-vs-ai-coding.md) — related
 - [Including supplemental response context in modified inputs was necessary because human raters scored target responses with access to those responses](supplemental-response-context-modified-inputs.md) — related
+- [Interrater reliability of algorithm categorizations was 93% using percent-agreement method](interrater-reliability-93-percent-algorithm-categorization.md) — related

@@ -176,3 +176,4 @@ Cross-unit thematic findings from the seven-respondent survey case study; the ar
 - [Barriers to seamless GenAI integration include limited accessibility, insufficient bias mitigation, and tool availability prioritized over curriculum alignment](genai-integration-barriers-accessibility-bias-alignment.md) — related
 - [Cultural difference and inclusion challenges affect equity: 53% of relevant papers flag insufficient cross-cultural tailoring, and facial recognition misidentifies darker skin tones](aied-cultural-inclusion-challenges.md) — related
 - [Teachers aspire to enhanced cognitive abilities such as superintelligence and super memory to support teaching](teachers-desire-enhanced-cognitive-abilities.md) — related
+- [ITS adoption is limited by instructors' lack of programming skills and high outsourcing costs](its-barriers-programming-skills-and-cost.md) — related

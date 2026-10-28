@@ -48,3 +48,4 @@ Content analysis of 6599 L-PLC WhatsApp messages annotated by two experts (IRR >
 - [Sharing of teaching materials became a norm in the L-PLC during COVID-19, rising significantly in pandemic cohorts and remaining steady thereafter](sharing-became-norm-pandemic-cohorts.md) — related
 - [Requests for and sharing of technological knowledge rose sharply during COVID-19 (TK from 9 to 206 tags; ASK-TK from 6 to 82 tags between cohorts I and III)](covid-surge-tk-ask-tk-tags.md) — related
 - [Positive Feedback tags peaked significantly in the first pandemic cohort, interpreted as socioemotional support during a time of crisis](positive-feedback-peak-crisis-cohort.md) — related
+- [Faculty dispositions and use of technological affordances for online teaching changed over time during the pandemic](faculty-dispositions-change-over-time-pandemic.md) — related

@@ -52,3 +52,4 @@ Theoretical argument in the reply, departing from Mayer's position that motivati
 - [Extraneous, essential, and generative processing are tapped by different assessment instruments, partially validating the triarchic theory](triarchic-processing-separable-measures.md) — related
 - [Task-essentialness and productive use of new words in goal-directed activity may positively affect vocabulary learning and retention](task-essentialness-goal-directed-vocabulary-retention.md) — related
 - [Total adherence to instructional design principles does not correlate with learning outcomes, mental effort, or motivational variables](principle-adherence-no-correlation-with-outcomes.md) — related
+- [No effects of learning setting (embedded vs. not embedded) on affective or cognitive outcomes in Study 2](no-embeddedness-effects-study2.md) — related

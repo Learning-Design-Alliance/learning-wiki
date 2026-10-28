@@ -100,6 +100,7 @@ The article recommends that universities move away from rigid, top-down AI polic
 - [Use consensus processes, editorial strategies, and institutional policies to make theory integration impactful](consensus-processes-editorial-institutional-support-integration.md)
 - [Tailor AI deployment to specific applications and stakeholder groups rather than applying a one-size-fits-all integration approach](stakeholder-specific-ai-deployment-strategy.md)
 - [Develop a community-maintained living glossary of embodiment terminology on an open-science platform](living-glossary-embodiment-consensus-strategy.md)
+- [Use a community of practice to collaboratively develop university-wide online orientation resources](community-of-practice-collaborative-orientation-development.md)
 
 ## Examples
 -

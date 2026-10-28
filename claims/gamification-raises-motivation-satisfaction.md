@@ -57,3 +57,4 @@ The review reports, citing Yu (2023), a mixed-methods study of university studen
 - [Reward techniques show positive meta-analytic effects for gamification and personalization, but perceptual fluency did not directly affect learning outcomes](reward-techniques-meta-analytic-effects-mixed.md) — related
 - [Technology-supported personalized learning approaches, especially adaptive learning technologies, are reported to raise student achievement more than traditional non-adaptive instruction](tech-personalized-learning-raises-achievement.md) — related
 - [Students using AI-driven EFL tools showed notable improvements in vocabulary, grammar, speaking fluency, and comprehension compared to traditional methods, per the review's synthesis](ai-efl-skill-improvements-vs-traditional.md) — related
+- [Gamification elements significantly affected students' achievements](gamification-elements-significantly-affected-achievements.md) — a broader claim this one bears on

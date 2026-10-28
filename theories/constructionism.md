@@ -56,6 +56,7 @@ Papert saw computers as giving children unprecedented power to explore what he c
 - The Logo programming language and "turtle graphics," Papert's original vehicle for children to construct and debug geometric ideas through programming
 - [Scratch block-based programming language and sharing ecosystem](../products/scratch.md)
 - [Mathbot's design framework: Constructionism combined with Reinforcement Learning Theory for adaptive AI-driven learning](../designs/mathbot-constructionism-reinforcement-framework.md)
+- [Own It, Learn It, Share It framework for student-centered learning](../designs/own-it-learn-it-share-it-framework.md)
 
 ## Key Sources
 - Papert, S. (1980). *Mindstorms: Children, computers, and powerful ideas*. Basic Books.

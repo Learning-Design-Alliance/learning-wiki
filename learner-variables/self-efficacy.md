@@ -13,7 +13,7 @@ generated:
 # Self-Efficacy
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 163 claims (120 show a difference, 25 mixed, 18 no difference) · 133 studies (52 associational, 28 causal, 20 review, 14 qualitative, 8 design, 6 theoretical, 5 quant-synthesis), `q1`–`q4` · 29 of 133 report an effect size · 159 claims rest on one study
+> **Evidence** · 164 claims (120 show a difference, 25 mixed, 19 no difference) · 134 studies (53 associational, 28 causal, 20 review, 14 qualitative, 8 design, 6 theoretical, 5 quant-synthesis), `q1`–`q4` · 29 of 134 report an effect size · 160 claims rest on one study
 
 ## Description
 Self-efficacy is Bandura's term for task-specific confidence: how sure a learner is that they can do what a task requires. It is measured with self-report scales tied to a domain (mathematics self-efficacy, writing self-efficacy, computer self-efficacy). It predicts effort, persistence and achievement, it moderates some instructional effects, and it is itself an outcome that instruction can raise, chiefly through experiences of success, seeing similar others succeed, and specific feedback. It is narrower than [motivation](motivation.md) and distinct from general self-esteem.
@@ -194,6 +194,7 @@ Self-efficacy is Bandura's term for task-specific confidence: how sure a learner
 - [Low self-efficacy students significantly increased their self-efficacy when matched with a low self-efficacy tutee, but mismatched students did not](../claims/se-match-increases-low-se-students.md) [+M] — instruction changes it
 - [Low self-efficacy students teaching a low self-efficacy tutee performed on par with high self-efficacy students](../claims/low-se-students-match-performance-par.md) [-M] — learners who differ on it differ in outcomes
 - [Students teaching a digital tutee with low self-efficacy show better in-game math performance than students teaching a high self-efficacy tutee](../claims/low-se-tutee-better-in-game-performance.md) [+M] — an instructional effect differs with it
+- [Self-efficacy had no direct relationship with learning engagement; its effect was fully mediated by self-regulation, teaching presence, and cognitive presence](../claims/self-efficacy-engagement-fully-mediated.md) [-M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 

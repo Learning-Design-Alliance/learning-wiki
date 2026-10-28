@@ -41,6 +41,7 @@ The report recommends concrete pre-expansion steps: "Prior to a decision to expa
 
 - [Assess team readiness across leadership, facilitation, communication, shared understanding, and capacity before starting](readiness-assessment-before-alignment-work.md)
 - [Five getting-started steps for building an integrated, school-based system of care](getting-started-steps-integrated-systems-of-care.md)
+- [Conduct replication studies of the Own It, Learn It, Share It model across contexts](replication-studies-for-student-centered-framework.md)
 
 ## Examples
 -

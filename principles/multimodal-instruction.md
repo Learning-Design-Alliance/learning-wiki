@@ -31,7 +31,7 @@ sources:
 # Multimodal Instruction
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 45 claims (21 for, 20 mixed, 4 against) · 45 studies (21 causal, 11 review, 7 quant-synthesis, 2 associational, 2 qualitative, 1 design, 1 theoretical), `q2`–`q4` · 10 of 45 report an effect size · 39 claims rest on one study
+> **Evidence** · 47 claims (21 for, 22 mixed, 4 against) · 47 studies (21 causal, 11 review, 7 quant-synthesis, 3 associational, 2 qualitative, 2 design, 1 theoretical), `q1`–`q4` · 10 of 47 report an effect size · 41 claims rest on one study
 
 ## Conditional relationship
 
@@ -170,6 +170,8 @@ A learner's preference for a mode, immediate comprehension, the ability to trans
 - [Across Standards II and IV (ages 8 to 11) in the same school, the spelling method with pronounced auditory, articulatory, and visual factors plus directed attention proved definitely superior to a more purely visual method with less directed attention](../claims/combined-spelling-superiority-ages-8-11-same-school.md) [+W]
 - [Students require prompting to connect information across multiple representations and do not do so spontaneously](../claims/students-need-prompting-connect-mers.md) [~W]
 - [Students make connections between graphical representations only when explicitly prompted, not spontaneously.](../claims/connections-only-when-prompted.md) [~W]
+- [Microgenetic case studies of students with disabilities suggest conceptual advantages from coordinating egocentric actions with distal avatar enactment](../claims/moves-nl-perspectival-coordination-case-studies.md) [~W]
+- [Deictic gestures had stronger connections to other features in the high-learning group, suggesting a more effective use of embodied representations to ground abstract concepts and direct attention.](../claims/deictic-gestures-stronger-connections-high-learning.md) [~W]
 
 ## Related Principles
 - [Creating Visual Representations](dual-coding.md) — multimodal instruction often incorporates learner-generated visuals and explanations.

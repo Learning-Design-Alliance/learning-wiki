@@ -50,6 +50,8 @@ The article recommends that teacher education programs deliberately build in str
 - [Build teacher AI readiness through structured institutional support: professional development, mentoring, technical assistance, and AI literacy in teacher education](structured-institutional-support-teacher-ai-readiness.md)
 - [Integrate LLM-based CRP support tools within professional development to encourage teacher reflection beyond template-based outputs](integrate-llm-crp-tools-in-professional-development.md)
 - [Design AI-related teacher professional development as practice-oriented, case-based and connected to teachers' real pedagogical decisions](practice-oriented-case-based-ai-professional-development.md)
+- [Structure AI-supported professional development around collaborative reflection rather than technical training alone](collaborative-reflection-ai-tpd.md)
+- [Support teachers' digital competence development through operationalisations connecting technical and pedagogical knowledge while protecting educator well-being](connect-technical-pedagogical-support-wellbeing.md)
 
 ## Examples
 -

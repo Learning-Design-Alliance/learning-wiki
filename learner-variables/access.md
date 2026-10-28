@@ -13,7 +13,7 @@ generated:
 # Access
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 72 claims (50 show a difference, 16 mixed, 6 no difference) · 52 studies (27 associational, 6 review, 5 causal, 4 qualitative, 4 design, 4 theoretical, 2 quant-synthesis), `q1`–`q4` · 3 of 52 report an effect size · 68 claims rest on one study
+> **Evidence** · 77 claims (53 show a difference, 18 mixed, 6 no difference) · 55 studies (27 associational, 6 review, 5 causal, 5 qualitative, 5 design, 5 theoretical, 2 quant-synthesis), `q1`–`q4` · 4 of 55 report an effect size · 73 claims rest on one study
 
 ## Description
 Whether a learner can perceive and operate the material at all: device, bandwidth, screen reader, captions, motor demands. Distinct from [digital literacy](digital-literacy.md), which is whether they can *drive* it. Access is binary in a way the other dimensions are not — a design that cannot be perceived does not teach less, it teaches nothing — which is why it is checked rather than optimised.
@@ -116,6 +116,11 @@ Whether a learner can perceive and operate the material at all: device, bandwidt
 - [Education appears unable to remedy severely defective sensory mechanisms such as color-blindness or tonal deafness](../claims/education-cannot-remedy-defective-senses.md) [-W] — instruction changes it
 - [Blind and seeing high-school pupils show about the same sensory discrimination thresholds across six touch, hearing, and kinaesthetic measures](../claims/blind-seeing-equal-sensory-thresholds-six-tests.md) [-M] — learners who differ on it differ in outcomes
 - [Students with low internet bandwidth could complete the course when offered offline video download and batch mode alternatives](../claims/low-bandwidth-mitigation-strategies.md) [+M] — an instructional effect differs with it
+- [A significant disordinal interaction between disability status and time of measurement was found for integer arithmetic scores](../claims/moves-nl-disability-time-interaction.md) [+M] — an instructional effect differs with it
+- [Mobile devices make education more accessible anytime and anywhere, but this attractiveness comes with limitations for adoption and usage](../claims/mobile-access-anytime-anywhere-with-adoption-limits.md) [~W] — instruction changes it
+- [Students with disabilities showed significant pre-to-post gains in integer arithmetic after the MOVES-NL intervention, while students without disabilities did not](../claims/moves-nl-disability-gains-integers.md) [+M] — an instructional effect differs with it
+- [Students without disabilities scored significantly higher than students with disabilities on the integer arithmetic pre-test and overall](../claims/moves-nl-condition-main-effect.md) [+M] — learners who differ on it differ in outcomes
+- [Temporal contiguity of simultaneous visual, spoken, and signed events may be unfavorable for DHH students](../claims/dhh-temporal-contiguity-unfavorable.md) [~M] — an instructional effect differs with it
 
 ## The evidence by question
 

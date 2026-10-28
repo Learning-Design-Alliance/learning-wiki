@@ -76,3 +76,4 @@ In the same duration moderator analysis, the 1–7 day group showed a small, non
 - [Educational robotics has a moderate positive overall effect on K-16 students' STEM learning compared to non-robotics instruction](educational-robotics-moderate-overall-effect-stem-learning.md) — related
 - [mCSCL effects vary significantly by intervention duration, peaking at 1–4 weeks](mcscl-intervention-duration-moderator.md) — related
 - [Intervention duration in weeks and study-quality characteristics did not significantly moderate extensive reading effects](er-duration-study-characteristics-null-moderators.md) — related
+- [Intervention duration of 3–9 weeks yields the greatest AWE gains, with diminishing returns beyond 10 weeks](awe-duration-3-9-weeks-optimal.md) — related

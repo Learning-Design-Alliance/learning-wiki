@@ -97,3 +97,5 @@ Facilitator subtheme from interviews; participants reported that case-based teac
 - [Performance during the virtual pipetting lesson predicts real-life transfer test performance](in-lesson-performance-predicts-real-life-transfer.md) — a narrower finding that bears on this claim
 - [Through experience with real cases, causal knowledge transforms into narrative illness scripts](causal-knowledge-transforms-illness-scripts.md) — related
 - [The review reports, citing Chernikova and colleagues, that simulations of professional situations such as classroom interactions are beneficial in teacher training](simulations-of-professional-situations-beneficial-teacher-training.md) — related
+- [Preservice teachers in web-enhanced CBA showed improved understanding of technology integration through sequenced authentic tasks](cba-sequenced-tasks-improve-preservice-tech-integration.md) — related
+- [Commentators recommend contextual adaptations of the Own It, Learn It, Share It framework](six-scholar-critiques-context-needed-for-ols-framework.md) — related

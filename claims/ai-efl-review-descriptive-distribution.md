@@ -66,3 +66,4 @@ The review's methodology tally across the 22 studies: "Majority of studies (9) a
 ## Related Claims
 - [AI-motivation research is geographically and educationally concentrated: over half of reviewed studies were conducted in China and most in higher education](ai-motivation-research-china-higher-ed-concentration.md) — related
 - [China has overtaken the US as the leading producer of AIEd higher education publications](china-overtakes-us-ai-ed-he-publications.md) — related
+- [Most empirical studies adopted a quantitative research approach](most-studies-quantitative-approach.md) — related

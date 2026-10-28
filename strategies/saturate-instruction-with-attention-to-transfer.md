@@ -41,6 +41,7 @@ Drawing on Perkins and Salomon, the review recommends that teachers who want kno
 - [Teaching For Transfer](teaching-for-transfer.md)
 - [Maximize Transfer and Generalization](maximize_transfer_and_generalization.md)
 - [Mindful Moment](mindful_moment.md)
+- [Use task-supplemental integration prompts (focus questions) to foster structural knowledge integration across domains](task-supplemental-integration-prompts-strategy.md)
 
 ## Examples
 -

@@ -42,6 +42,7 @@ The article's implications section recommends that researchers "be principled in
 ## Related Strategies
 
 - [Diversify AIED: use diverse technologies, address big problems, and reuse existing resources rather than reinventing content](aied-diversify-technologies-big-problems-existing-resources.md)
+- [Future mGBL research should avoid research to prove and embrace research to improve](mgbl-research-to-improve-not-prove.md)
 
 ## Examples
 -

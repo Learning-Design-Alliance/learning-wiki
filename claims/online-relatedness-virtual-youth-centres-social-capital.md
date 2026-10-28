@@ -69,3 +69,4 @@ Subtheme on social capital: adolescents described strengthening existing relatio
 - [Different organisational structures may foster different dimensions of social capital (bonding, bridging and linking)](structures-foster-different-social-capital-dimensions.md) — a broader claim this one bears on
 - [The student-tutor relationship alone is judged insufficient: peer mixing and virtual communities are needed to counter isolation in online research supervision](virtual-communities-counter-supervision-isolation.md) — related
 - [Online spaces hold distinctive value for underrepresented adolescents for identity expression, supportive peer networks, and friendships](online-spaces-distinctive-value-underrepresented-adolescents.md) — related
+- [Forums fostered feelings of relatedness through positive peer connections and shared struggles](forums-fostered-relatedness-peer-connections.md) — related

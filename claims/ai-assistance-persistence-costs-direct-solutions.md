@@ -65,3 +65,4 @@ The paper reports, citing Liu et al.'s randomized experiments, that brief AI-ass
 - [Practicing cover letter writing with an AI tool improved unassisted writing skill more than practicing without AI or not practicing, with benefits persisting one day later](ai-practice-improved-writing-skill-persisted-one-day.md) — related
 - [Most students report using LLMs to get solutions more often than they believe is ideal for learning, and this gap widened after the lesson](usage-exceeds-ideal-for-solution-generation.md) — related
 - [Hints that instruction is suboptimal trigger compensatory self-regulation, but self-management carries cognitive and motivational costs that deplete over time](suboptimal-design-hints-trigger-costly-self-management.md) — related
+- [Uncontrolled hint use can considerably reduce students' learning and autonomous solving capacity](uncontrolled-hint-use-reduces-learning.md) — related

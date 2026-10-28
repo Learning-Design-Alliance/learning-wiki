@@ -69,3 +69,4 @@ In the same ranking task, middle school teachers with less post-secondary mathem
 - [Equations of the form a/x = b are the most difficult equation type, reflecting procedural complexity](c-equations-most-difficult-type.md)
 - [In Grossman's case study, English teachers without formal teacher education adopted text-centered instruction, while teacher education graduates adopted student-centered instruction](teacher-education-graduates-student-centered-text-selection.md)
 - [Ramp task levels are ordered by difficulty: performance declines as the number of variables to set increases](cvs-level-difficulty-ordering.md) — related
+- [Teachers rated literacy rankings as more accurate than numeracy rankings](literacy-rankings-rated-more-accurate-than-numeracy.md) — related

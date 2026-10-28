@@ -121,3 +121,4 @@ The claim also sits within the wider evidence base on [collaborative learning im
 - [Student assessors led the pilot assessment of the Centering Students' Diverse Lived Experiences badge, shifting evaluation power toward student voice](student-assessors-led-csdle-pilot-assessment.md) — related
 - [Peer grading behaviors do not significantly predict project performance for assessors or assessees](peer-grading-not-significant-predictor.md) — related
 - [Process-based and product-based feedback produce larger performance gains than no feedback, with rubric-based feedback only marginal](process-product-feedback-strongest-performance-gains.md) — related
+- [Holding participants accountable for critique quality (not evaluation accuracy) improves review outcomes](accountability-for-critique-quality-improves-reviews.md) — related

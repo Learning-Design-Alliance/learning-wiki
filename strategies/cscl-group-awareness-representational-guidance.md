@@ -51,6 +51,7 @@ The article recommends that CSCL environments be designed to support group aware
 - [Combine process-oriented analysis with cognitive load measures to determine which transaction costs are germane or extraneous for learning](combine-process-and-clt-measures.md)
 - [Anchor discussion and chat facilities in CSCL firmly in the external representation, integrating diagrammatic and textual information](anchor-chat-and-discussion-in-external-representation.md)
 - [Use external representations to help manage cognitive load in Computer Supported Collaborative Learning environments](external-representations-manage-cl-cscl.md)
+- [CSCL environments should support learners' engagement with multiple forms of representations and help them meaningfully connect them in ways that foster knowledge construction.](cscl-environments-support-multiple-representations.md)
 
 ## Examples
 -

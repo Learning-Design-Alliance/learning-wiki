@@ -55,3 +55,4 @@ Qualitative case analysis of lesson recordings and teacher tablet screen capture
 - [Instructor roles shift from exclusive information source toward orchestrating and regulating AI-mediated learning activities](instructor-role-shift-orchestrating-genai.md) — related
 - [Teacher interviews identified five types of monitored information and, via the Kano method, four highest-priority dashboard indicators for CSCL monitoring](teacher-interviews-prioritize-dashboard-indicators.md) — related
 - [Dashboard support type did not influence detection of CSCL events but did influence teachers' interpretation of the situation](dashboard-support-type-affects-interpretation-not-detection.md) — related
+- [AI tools positively affected student engagement and enabled real-time lesson adjustments based on student feedback](ai-tools-boost-engagement-real-time-adjustment.md) — related

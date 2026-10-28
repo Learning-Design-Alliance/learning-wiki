@@ -50,7 +50,7 @@ sources:
 # Contiguity Principle (Spatial and Temporal)
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 30 claims (16 for, 14 mixed) · 24 studies (8 review, 6 causal, 5 quant-synthesis, 2 associational, 2 design, 1 theoretical), `q1`–`q4` · 7 of 24 report an effect size · 25 claims rest on one study
+> **Evidence** · 31 claims (17 for, 14 mixed) · 25 studies (8 review, 6 causal, 5 quant-synthesis, 2 associational, 2 design, 1 qualitative, 1 theoretical), `q1`–`q4` · 7 of 25 report an effect size · 26 claims rest on one study
 
 ## Conditional relationship
 
@@ -172,6 +172,7 @@ The expectation should weaken if new comparisons with novice learners on complex
 - [The effects of LDI structure on recall and recognition of linkages are fully mediated by fixation times on the referred-to picture elements](../claims/fixation-times-fully-mediate-ldi-linkage-memory.md) [+W]
 - [Fewer than half of textbook images requiring comparison have an optimal spatial layout (direct placement) for structural alignment](../claims/fewer-than-half-images-direct-placement.md) [+W]
 - [The pipeline feasibly produces coherent, synchronized educational videos from textbook queries, integrating retrieval, image generation, animation, and speech](../claims/feasible-synchronized-video-generation-from-textbook-queries.md) [~W]
+- [DHH students suggest applying spatial contiguity between interpreter and visuals to reduce split attention](../claims/dhh-spatial-contiguity-interpreter-visuals.md) [+W]
 
 ## Related Principles
 - [Modality Principle](modality.md)

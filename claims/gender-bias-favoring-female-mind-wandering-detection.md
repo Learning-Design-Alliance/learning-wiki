@@ -50,3 +50,4 @@ Gender comparison of all latent-feature models (Table 6) in within- and cross-da
 - [Latent transfer-learned features yield better overall mind wandering detection than explicit OpenFace features, and temporal models add a small improvement, especially cross-dataset](latent-features-beat-explicit-features-overall.md) — related
 - [Female children and adolescents recognize vocal emotions more accurately than males, with no interaction between sex and age](female-advantage-vocal-emotion-recognition-stable.md) — related
 - [Transfer-learned latent facial features support above-chance video-based mind wandering detection within a lab reading dataset, with LSTM reaching F1 = 0.459](latent-features-within-lab-mind-wandering-detection.md) — related
+- [Teachers perceived the ranking of male students to be more accurate than that of female students](gender-bias-in-dashboard-accuracy-ratings.md) — related

@@ -68,3 +68,4 @@ Acceptability (η² = 0.02) and confidence (F(1, 49) = 0.23, p =.631, η² = 0.0
 - [Skin conductance level did not differ significantly between instructor-presence conditions, though arousal patterns appeared to vary with content difficulty](instructor-presence-no-scl-difference.md)
 - [Instructor video presence produced no significant difference in retention or transfer of Mandarin tone distinction among true-beginner learners](instructor-presence-no-retention-transfer-effect.md) — related
 - [Learners reported higher perceived learning and satisfaction and lower mental effort with the instructor video, despite no performance gains — a perception-performance gap](instructor-presence-perception-performance-gap.md) — related
+- [No effects of visible instructor on learning outcomes across three field studies](no-visible-instructor-learning-effects.md) — related

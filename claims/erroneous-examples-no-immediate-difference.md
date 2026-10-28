@@ -55,3 +55,4 @@ Same randomized study's immediate posttest analysis: "a marginally significant e
 - [Initial failure did not hurt subsequent learning during instruction: no condition differences on example generation or immediate learning tests](no-condition-differences-example-generation-immediate-tests.md) — related
 - [Time on task does not explain the erroneous-examples delayed learning advantage](time-on-task-does-not-explain-delayed-advantage.md) — related
 - [Contrasting examples, correct examples, erroneous examples, and practice problems produced no differences in learning gains or transfer of unbiased-reasoning skills](no-condition-differences-ct-practice-formats.md) — related
+- [Immediate explanatory feedback prevents consolidation of erroneous concepts in interactive tutoring](immediate-explanatory-feedback-prevents-error-consolidation.md) — related

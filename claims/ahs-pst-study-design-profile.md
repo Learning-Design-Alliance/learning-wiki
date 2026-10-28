@@ -67,3 +67,4 @@ Descriptive synthesis of sampling across quantitative questionnaire studies. The
 - [Research on teachers' SRL knowledge is methodologically dominated by cross-sectional quantitative designs with non-standardized measures](cross-sectional-quantitative-dominance-srl-teacher-knowledge.md) — related
 - [Most cross-sectional studies report positive teacher-student SEC links, while teacher-targeted intervention trials show mixed distal effects on students](sec-narrative-findings-positive-links-mixed-trials.md) — related
 - [The reviewed evidence base is predominantly cross-sectional, with small self-report-heavy teacher samples](teacher-empathy-evidence-base-cross-sectional.md) — related
+- [Most empirical studies adopted a quantitative research approach](most-studies-quantitative-approach.md) — related

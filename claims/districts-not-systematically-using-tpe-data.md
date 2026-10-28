@@ -49,3 +49,4 @@ Key leader interviews and four-district case study findings on technology and da
 - [Consolidating edtech tools enabled DPS to pursue vendor partnerships that systematically compare app usage with student data to evaluate tool effectiveness](dps-consolidation-enables-impact-analysis.md) — related
 - [Principals are generally more positive about TPE than teachers, but perception gaps are narrowing](principal-teacher-perception-gap-narrowing.md) — related
 - [Generic User Modeling Systems (GUMS) work for models that act as repositories of information but not for models that emulate behaviours.](gums-viable-repositories-not-behaviour-models.md) — related
+- [There was a clear lack of detailed descriptions regarding development approaches, processes, and tools](lack-of-detailed-technical-descriptions.md) — related

@@ -71,3 +71,4 @@ In the Findings (Object section), one e-teacher's interview statement describes 
 - [Discussion promotes more active thinking than lecture, though lecture is no worse for transmitting information](discussion-promotes-more-active-thought-than-lecture.md) — related
 - [Online peer assessment shifts instructional assessment from teacher-controlled to a combination of teacher assessment and student peer assessment](online-peer-assessment-shifts-assessment-control-to-students.md) — related
 - [Across TARDIS's three project stages, practitioners' roles progressed from willing informants to advisors and co-designers, and ultimately to independent lead-practitioners](tardis-practitioner-role-progression.md) — related
+- [Virtual-world teaching shifts perceived classroom power, with students becoming more independent than in face-to-face contexts.](vw-teaching-shifts-power-toward-student-autonomy.md) — related

@@ -58,3 +58,4 @@ In the same RCT, survey data from 139 students with complete survey data measure
 - [Cognitive apprenticeship students became more anxious about mathematics but reported gains in self-confidence, rapport, and enjoyment](cognitive-apprenticeship-attitude-anxiety-confidence-effects.md) — related
 - [In a randomised experiment, AI access raised students' enjoyment of learning (p = 0.063) with no statistically detectable effect on self-assessed knowledge or felt effectiveness](genai-raises-learning-enjoyment.md) — related
 - [Math circle participants reported positive mathematics attitudes, with most respondents indicating mathematics was important, interesting, liked, and that they felt confident solving problems](math-circle-positive-attitude-survey.md) — related
+- [No significant change in mathematics attitudes for either group except a significant decline in enjoyment for the control group](mobile-math-no-attitude-change-control-enjoyment-decline.md) — related

@@ -48,3 +48,4 @@ Exploratory qualitative study of semi-structured interviews with six US higher e
 - [Most assessment methods for dispositions were suggestions rather than implemented practices, and some designers had no assessment ideas](disposition-assessment-mostly-unimplemented.md) — related
 - [The gap between dispositions as learning goals and their assessment indicates misalignment among Integrated Course Design components](misalignment-dispositions-goals-assessment-fink.md) — related
 - [Instructional designers define dispositions in varied and divergent ways, with several conflating them with soft skills](ids-varied-definitions-of-dispositions.md) — related
+- [Dispositions such as positivity, lifelong learning orientation, and persistence are reported as essential for ID/ET practice](dispositions-essential-for-id-et-practice.md) — related

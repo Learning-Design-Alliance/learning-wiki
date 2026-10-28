@@ -68,3 +68,4 @@ Pairwise comparison of teaching versus explaining on the comprehension test show
 - [Writing teaching scripts or textbook explanations improves university students' create-level research question generation more than writing study notes for their own learning](generating-for-others-beats-notetaking-question-generation.md) — related
 - [Learning conditions did not differ in total questions attempted, ruling out differential effort quantity as the source of create-question differences](no-condition-difference-total-questions-generated.md) — related
 - [Self-explanation beats unguided studying for equal time, but instructional explanations, problem solving and retrieval practice can be equally or more effective](instructional-explanations-sometimes-equal-or-better-than-self-explanation.md) — related
+- [Notetaking was not a significant predictor of knowledge acquisition](notetaking-not-significant-predictor.md) — related

@@ -123,7 +123,7 @@ sources:
 # Simulations & Immersive Virtual Environments
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 105 claims (39 for, 58 mixed, 8 against) · 75 studies (23 causal, 18 review, 11 quant-synthesis, 9 qualitative, 8 theoretical, 5 design, 1 associational), `q1`–`q4` · 19 of 75 report an effect size · 100 claims rest on one study
+> **Evidence** · 113 claims (44 for, 61 mixed, 8 against) · 80 studies (26 causal, 19 review, 11 quant-synthesis, 9 qualitative, 8 theoretical, 6 design, 1 associational), `q1`–`q4` · 20 of 80 report an effect size · 108 claims rest on one study
 
 ## Conditional relationship
 
@@ -312,6 +312,9 @@ Read against this model on 2026-10-15 and again on 2026-10-19; the claims below 
 - [Families' geoscience sense-making during learning-on-the-move was shaped by the immersive qualities of a mobile AR app](../claims/mobile-ar-families-immersive-geoscience-lotm.md) [+W] — read 2026-10-19: a special-issue introduction summarising one qualitative study of families with a mobile AR app in a garden; second-hand, no outcome measure. It describes informal, place-based use, which no row here covers; one second-hand account is too little to write one.
 - [In a rule-based simulation game with narrow scope and high distance, facilitator interventions were predominantly first- and second-order and participant learning was mainly first- and second-order](../claims/rule-based-sg-yields-first-second-order-learning.md) [~W] — read 2026-10-19: coded transcripts from one simulation-game case in professional training; a game whose rules absorb attention drew the facilitator to procedural interventions. It bears on facilitating simulation games and their debriefs ([Debriefing](debriefing.md), [Game-Based Learning](game-based-learning.md)) more than on this page's steps.
 - [Guided inquiry learning with virtual and video experiments during Covid-19 remote schooling significantly improves seventh-graders' conceptual understanding in physics](../claims/remote-inquiry-virtual-video-experiments-improve-conceptual-understanding.md) [+M] — attached 2026-10-23 from Flegr et al. (2023), which proposed "Use virtual experiments, optionally combined with video experiments, for guided inquiry learning when hands-on experimentation is not possible".
+- [Desktop VR with scaffolded interaction and reflective self-explanation improves procedural knowledge in engineering statics compared to traditional instruction](../claims/desktop-vr-scaffolded-self-explanation-procedural-knowledge-statics.md) [+W] — attached 2026-10-28 from Adurangba Victor Oje (2026), which proposed "Structure VR learning activities with scaffolded interaction and reflective explanation to support learning efficiency and learner confidence"; tests this page's relationship.
+- [Desktop VR with scaffolded interaction and reflective self-explanation improves problem-solving performance on a novel statics scenario compared to traditional instruction](../claims/desktop-vr-scaffolded-self-explanation-problem-solving-statics.md) [+W] — attached 2026-10-28 from Adurangba Victor Oje (2026), which proposed "Structure VR learning activities with scaffolded interaction and reflective explanation to support learning efficiency and learner confidence"; tests this page's relationship.
+- [Desktop VR with scaffolded interaction and reflective self-explanation reduces extraneous and intrinsic cognitive load compared to traditional instruction](../claims/desktop-vr-scaffolded-self-explanation-cognitive-load.md) [+W] — attached 2026-10-28 from Adurangba Victor Oje (2026), which proposed "Structure VR learning activities with scaffolded interaction and reflective explanation to support learning efficiency and learner confidence"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 
@@ -339,6 +342,11 @@ Success inside the simulation, immediate performance outside it, delayed retenti
 - [The review reports, citing Chernikova and colleagues, that simulations of professional situations such as classroom interactions are beneficial in teacher training](../claims/simulations-of-professional-situations-beneficial-teacher-training.md) [+W]
 - [Human trainees show no clear asymmetric transfer of motion scaling ratio, and scaling ratio effects are small relative to complexity effects](../claims/no-asymmetric-scaling-transfer-in-humans.md) [~W]
 - [Human experts provide more nuanced and mixed feedback than ChatGPT-4o and Perplexity in mixed reality simulation mentoring](../claims/human-experts-more-nuanced-feedback-than-llm-mrs.md) [~W]
+- [MR training produces considerably lower social presence than real-life exercises, with slightly lower physical presence](../claims/mr-lower-social-presence-than-rle.md) [~W]
+- [Gamified virtual reality learning environments were more motivating, engaging, and interactive than traditional learning environments](../claims/gamified-vr-more-motivating-engaging-interactive-than-traditional.md) [~W]
+- [A video-based virtual learning environment improves preservice teachers' multiperspective professional vision of classroom management and instructional support compared to an untreated control group](../claims/vle-improves-multiperspective-professional-vision.md) [+W]
+- [Qualitative analysis found predominantly positive perceptions of iVR, with real-time feedback the most valued element and lack of realism the main concern](../claims/qualitative-ivr-perceptions-feedback-valued-realism-concern.md) [~W]
+- [Declarative knowledge does not differ after unguided VR exploration but improves after scaffolded guidance is introduced](../claims/desktop-vr-scaffolded-guidance-declarative-knowledge-statics.md) [+W]
 
 ## Related Principles
 - [Experiential Learning](experiential-learning.md) — simulations provide structured experiences that later reflection can interpret.
@@ -368,6 +376,7 @@ Success inside the simulation, immediate performance outside it, delayed retenti
 - [Use advanced immersive learning technologies as research and learning tools to deliver developmentally-appropriate metacognitive scaffolding](../strategies/immersive-tech-metacognitive-scaffolding-strategy.md)
 - [Text-based heterogeneity simulation with simulated peer feedback](../designs/heterogeneity-simulation-written-feedback-intervention.md)
 - [DEGREE](../products/degree.md)
+- [Integrate model-based supports across pretraining, in-simulation, and post-simulation stages of VR teacher practice](../strategies/integrate-supports-across-vr-simulation-stages.md)
 
 ## Key Sources
 - Akcayir, M., & Akcayir, G. (2017). Advantages and challenges associated with augmented reality for education: A systematic review of the literature. *Educational Research Review, 20*, 1-11. [https://doi.org/10.1016/j.edurev.2016.11.002](https://doi.org/10.1016/j.edurev.2016.11.002)

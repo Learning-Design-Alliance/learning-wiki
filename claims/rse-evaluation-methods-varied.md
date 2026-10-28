@@ -49,3 +49,4 @@ Methodological mapping of the review's 134-paper corpus. The review reports the 
 - [Growth in RSE research has been accompanied by divergence rather than convergence of content](rse-content-divergence.md) — related
 - [Most RSE studies in the review corpus did not define their central term](rse-studies-lack-definitions.md) — related
 - [Over a third of RSE studies report no outcomes, and student outcome measurement prioritises knowledge](rse-outcomes-knowledge-prioritised.md) — related
+- [Most empirical studies adopted a quantitative research approach](most-studies-quantitative-approach.md) — related

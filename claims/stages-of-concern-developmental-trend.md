@@ -68,3 +68,4 @@ Longitudinal SoCQ study of Kansas elementary teachers implementing SCIS, assesse
 - [Teacher concern development is better characterized as progression and retreat than linear stage movement](teacher-concern-progression-and-retreat.md) — related
 - [Not all educators develop impact concerns even when colleagues do; concern change cannot be forced by an outside agent](not-all-educators-develop-impact-concerns.md) — related
 - [Literacy coaching responsibilities fall into two major areas: teacher mentoring and literacy program advocacy](coaching-responsibilities-mentoring-and-advocacy.md) — related
+- [Teachers' AI integration followed a developmental trajectory from self to task and impact concerns](ai-integration-self-task-impact-trajectory.md) — a narrower finding that bears on this claim

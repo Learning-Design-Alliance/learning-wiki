@@ -49,3 +49,4 @@ From the same survey of 71 K-8 teachers: "30% of teachers planned to adopt trans
 - [K-8 teachers responding to the sudden 2020 shift to distance learning engaged in three of the core practices of adaptive experts](covid-distance-teaching-three-adaptive-expert-practices.md) — related
 - [Most surveyed teachers planned to transfer what they learned during pandemic distance teaching to adapt future in-person teaching](teachers-plan-transfer-distance-learning-lessons-in-person.md) — related
 - [The pandemic disruption promoted teacher adaptation and may have prompted lasting new practices, per the authors](pandemic-promoted-teacher-adaptation-lasting-practices.md) — related
+- [Reports of transformation in teaching practices are associated with changes in the roles of teachers and students, with transforming uses focused on active methodologies](transformation-associated-with-role-shifts-active-methodologies.md) — related

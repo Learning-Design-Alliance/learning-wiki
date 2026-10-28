@@ -139,3 +139,4 @@ A meta-analysis of 54 control-group studies (141 effect sizes; the abstract's fi
 - [Web-SPA peer review activities showed considerable consistency between instructor and peer marks and improved quality of work](web-spa-peer-review-consistency-and-improvement.md) — a narrower finding that bears on this claim
 - [Cognitive feedback benefits assessors rather than assessees, and weak students do not benefit from receiving more feedback](cognitive-feedback-benefits-assessors-not-assessees.md) — reports the opposite
 - [Process-based and product-based feedback produce larger performance gains than no feedback, with rubric-based feedback only marginal](process-product-feedback-strongest-performance-gains.md) — a narrower finding that bears on this claim
+- [Holding participants accountable for critique quality (not evaluation accuracy) improves review outcomes](accountability-for-critique-quality-improves-reviews.md) — a narrower finding that bears on this claim

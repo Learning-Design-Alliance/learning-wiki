@@ -58,6 +58,10 @@ Communication channels are the element in which learners use designated tools or
 ## The evidence by question
 - *Does the channel learners interact through (face to face, video, text chat, discussion board) change the interaction and what language learners gain from it?* [SCMC interaction shows a small advantage over FTF on overall L2 learning outcomes](../claims/scmc-small-advantage-overall-l2-outcomes.md) [~M]
 
+## Examples
+
+- [Drawingvoice 2.0: a three-phase method combining small-group collaborative drawing, Facebook sharing, and face-to-face re-discussion](../strategies/drawingvoice-2-0-three-phase-method.md)
+
 ## Related Elements
 - [Collaboration](collaboration.md)
 - [Task Management](task-management.md)

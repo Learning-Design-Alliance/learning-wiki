@@ -53,3 +53,4 @@ Hierarchical multiple regression on data from 181 students, controlling for prio
 - [Giving students feedback about their grading bias increased their subsequent grading accuracy](grading-bias-feedback-increases-accuracy.md) — related
 - [Peer grading behaviors do not significantly predict project performance for assessors or assessees](peer-grading-not-significant-predictor.md) — related
 - [Cognitive feedback benefits assessors rather than assessees, and weak students do not benefit from receiving more feedback](cognitive-feedback-benefits-assessors-not-assessees.md) — related
+- [Regression analysis in iteration 1 identifies which skill sets significantly predict student assessment scores](regression-iteration1-skill-predictors.md) — related

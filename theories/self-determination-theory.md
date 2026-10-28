@@ -18,7 +18,7 @@ moved_from: [principle/self-determination-theory]
 # Self-Determination Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 99 claims (71 for, 26 mixed, 2 against) · 65 studies (24 associational, 13 review, 12 causal, 7 quant-synthesis, 6 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 16 of 65 report an effect size · 93 claims rest on one study
+> **Evidence** · 101 claims (72 for, 26 mixed, 3 against) · 66 studies (24 associational, 13 review, 12 causal, 7 quant-synthesis, 6 theoretical, 3 design, 1 qualitative), `q1`–`q4` · 16 of 66 report an effect size · 95 claims rest on one study
 
 ## Description
 Self-Determination Theory (SDT) explains motivation in terms of the degree to which behavior is experienced as autonomous, competent, and socially connected. Developed by Edward Deci and Richard Ryan, the theory argues that learners are more likely to engage deeply and persist when three basic psychological needs are supported: autonomy, competence, and relatedness.
@@ -154,6 +154,8 @@ These tactics are not unconditionally beneficial, however. Offering choice can h
 - [Children in the active condition report higher perceived autonomy than yoked children, and autonomy predicts posttest learning](../claims/diy-increases-perceived-autonomy-which-predicts-learning.md) [+W]
 - [Perceived parental autonomy support positively predicts adolescents' autonomous motivation during home-based learning](../claims/parental-autonomy-support-predicts-autonomous-motivation.md) [+W] — attached 2026-10-26 from Benneker et al. (2023), which proposed "Self-determination theory's three basic psychological needs as a framework for predicting autonomous motivation during home-based learning"; tests this page's relationship.
 - [Adolescents' autonomous motivation significantly decreased during the COVID-19 lockdown compared to one month before it](../claims/autonomous-motivation-decreased-during-covid-lockdown.md) [~W]
+- [SDT-based online unit significantly increased competence in online Algebra 2 students](../claims/sdt-based-online-unit-increased-competence.md) [+W]
+- [No significant quantitative change in autonomy after the SDT-based online unit](../claims/sdt-based-online-unit-autonomy-not-significant.md) [-W]
 
 ## The evidence by question
 

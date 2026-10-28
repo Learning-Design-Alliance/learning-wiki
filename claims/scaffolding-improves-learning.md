@@ -159,3 +159,4 @@ A systematic review of scaffolding research in primary/secondary teacher–stude
 - [Computer-based metacognitive scaffolding shows limited evidence of long-term retention or transfer of the scaffolded skills](limited-evidence-long-term-metacognitive-retention.md) — related
 - [Adaptive SE-Coach scaffolding improved problem-solving performance for students in the early stage of learning Newton's Laws, at p<0.05](se-coach-adaptive-scaffolding-early-stage-learning-gains.md) — a narrower finding that bears on this claim
 - [Timing of support poses the assistance dilemma, and no empirically validated principles yet exist for when and how much support to give collaborating students](assistance-dilemma-timing-no-validated-principles.md) — related
+- [Metacognitive scaffolding outperforms conceptual scaffolding alone in online learning environments](metacognitive-scaffolding-outperforms-conceptual.md) — a narrower finding that bears on this claim

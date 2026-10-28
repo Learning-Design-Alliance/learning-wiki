@@ -9,6 +9,7 @@ generated:
   at: 2026-10-17
 evidence_strength: weak
 newest_evidence: 2017
+source_checked: 2026-10-28
 sources:
   - id: maike-schindler-2017
     resource: "https://doi.org/10.1007/s13394-017-0202-x"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · qualitative `r2` · `q2`
-> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2017 · checked against its sources 2026-10-28 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Nicole gave correct initial answers on all four comparison situations, yet her reasoning drew on subtraction and the minus sign as an operative sign rather than a predicative sign. [→ Maike Schindler 2017](#maike-schindler-2017)

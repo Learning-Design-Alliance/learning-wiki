@@ -47,6 +47,8 @@ The article recommends that LA scholars involve students, teachers, parents, and
 - [Triangulate LLM-based discourse measures with multiple methods and seek input from participating communities](triangulate-llm-discourse-measures-with-community-input.md)
 - [Investigate stakeholder privacy requirements and define transparent rules for learner-data use](aied-learner-data-privacy-practices.md)
 - [Engage the AI in Education community actively with the public and key stakeholders to mitigate the in-credible AI effect](aied-public-engagement-strategy.md)
+- [Build students' understanding of the purposes and benefits of sharing data before implementing learning analytics](build-student-understanding-of-data-sharing.md)
+- [Involve end-users and teachers early in educational game development](involve-end-users-early-game-development.md)
 
 ## Examples
 -

@@ -49,3 +49,4 @@ Open-coded survey responses (Cohen's κ = .77) from 116 respondents: 92 consente
 - [Students raised four categories of concern about potential misuse of MMLA data: judgment, privacy, career impact, and academic integrity](mmla-data-misuse-concerns-four-themes.md) — related
 - [A one-point increase in comfort with instructor data use raises consent odds by 212%, institutional trust by 132%, while a one-point increase in data-collection concern drops consent odds by 78%](consent-odds-ratios-trust-collection-instructor.md) — related
 - [Institutional trust, data-collection concern, and comfort with instructor data use are the key factors in students' decisions to consent to learning analytics](three-factors-consent-learning-analytics.md) — related
+- [Privacy concerns and trust in technology contributed to user interactions by 25% and 31% respectively](privacy-trust-contribute-user-interactions-25-31-percent.md) — related

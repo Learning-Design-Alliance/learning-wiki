@@ -54,3 +54,4 @@ Descriptive structural finding from the latent profile analyses of the 204 stude
 - [Profile structures and transitions over time largely align with common descriptions of interest development](profile-transitions-align-interest-development-theory.md) — related
 - [Latent profile analysis of RIASEC interests in Dutch Grade 9 students reveals seven distinct vocational interest profiles](seven-vocational-interest-profiles-grade-9.md) — a narrower finding that bears on this claim
 - [Three distinct racial-mathematical identity profiles emerge among Black adolescents and are robust across two time points one year apart](three-racial-mathematical-identity-profiles-lpa.md) — related
+- [AI competence dimensions are unequally developed among vocational school teachers](ai-competence-dimensions-unequally-developed.md) — related

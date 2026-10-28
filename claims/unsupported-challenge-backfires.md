@@ -60,3 +60,4 @@ The review reports, citing Sporte, Hart, & Wechsler (2009) and Allensworth et al
 - [The usefulness of the GAP depends on players being sufficiently challenged in the game](gap-usefulness-depends-on-challenge.md) — related
 - [Case analysis shows regulation strategies did not always align with the challenges faced, leading to recurring difficulties within the group](regulation-misalignment-recurring-group-difficulties.md) — related
 - [Initial PF activities were too frustrating and were refined with moderate metacognitive support so students struggled without giving up](pf-moderate-support-refinement.md) — a narrower finding that bears on this claim
+- [Case of positive behavioral change in a sixth-grade student](matherial-positive-behavioral-change-case.md) — related

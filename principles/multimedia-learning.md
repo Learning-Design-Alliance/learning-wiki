@@ -27,7 +27,7 @@ sources:
 # Multimedia Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 86 claims (35 for, 48 mixed, 3 against) · 66 studies (28 causal, 14 review, 13 quant-synthesis, 4 associational, 4 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 19 of 66 report an effect size · 77 claims rest on one study
+> **Evidence** · 89 claims (35 for, 51 mixed, 3 against) · 68 studies (29 causal, 14 review, 13 quant-synthesis, 5 associational, 4 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 19 of 68 report an effect size · 80 claims rest on one study
 
 ## Conditional relationship
 
@@ -170,6 +170,9 @@ A learning-phase preference, immediate recall, explanation of a mechanism, delay
 - [Exploratory analyses found videos more beneficial for retention among boys than girls and among fifth graders more than sixth graders](../claims/modality-gender-grade-interactions.md) [~W]
 - [Students recognized the harm of answer-revealing images only when images clearly revealed the answer](../claims/students-recognize-harm-only-when-images-reveal-answer.md) [~W]
 - [Students consistently overestimated how much they learned with answer-revealing images](../claims/overestimating-learning-with-answer-revealing-images.md) [~W]
+- [DHH students' communication preferences partly predict which multimedia tutorial features they attend to](../claims/dhh-communication-preference-predicts-feature-attention.md) [~W]
+- [Presentation slide visuals were the feature most cited by DHH students for facilitating learning](../claims/dhh-presentation-visuals-facilitate-learning.md) [~W]
+- [Dynamic slides did not improve knowledge acquisition compared to static slides](../claims/dynamic-slides-no-knowledge-benefit.md) [~W]
 
 ## Related Principles
 - [Modality Principle](modality.md)

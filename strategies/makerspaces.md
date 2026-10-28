@@ -69,6 +69,7 @@ Makerspaces enact constructionist claims that learning is deepest when learners 
 - [Peer Critique](peer-critique.md) — the feedback routine that turns individual making into collective learning
 - [Connect computational thinking to local maker and problem-solver heritage to teach it responsively to local culture](connect-ct-to-local-maker-heritage.md)
 - [Develop new pedagogical solutions to facilitate and collectively manage students' multimodal knowledge practices in makerspaces](pedagogical-solutions-multimodal-knowledge-practices.md)
+- [Provide open-ended, making-focused environments with space to experiment and invent as a route to powerful mathematical discoveries](open-ended-making-environments-math-discoveries.md)
 
 ## Examples
 - **[Maker Ed](https://makered.org)** — supports school and library makerspace programs with guidance on facilitation and equitable implementation.

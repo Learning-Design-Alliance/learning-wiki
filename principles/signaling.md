@@ -66,7 +66,7 @@ sources:
 # Signaling Principle
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 32 claims (15 for, 16 mixed, 1 against) · 26 studies (11 review, 10 causal, 4 quant-synthesis, 1 theoretical), `q1`–`q4` · 8 of 26 report an effect size · 28 claims rest on one study
+> **Evidence** · 34 claims (17 for, 16 mixed, 1 against) · 28 studies (11 causal, 11 review, 4 quant-synthesis, 1 qualitative, 1 theoretical), `q1`–`q4` · 8 of 28 report an effect size · 30 claims rest on one study
 
 ## Conditional relationship
 
@@ -176,6 +176,7 @@ Each question below links a general claim that gathers the studies behind it int
 - [Multimedia principles benefit novices](../claims/expertise-reversal-effect.md) [~S] and [Instructional guidance that helps novices can become redundant as expertise grows](../claims/expertise-reversal-effect.md) [~S]: Kalyuga et al.'s expertise-reversal account, from other cognitive-load paradigms than signaling.
 - [Advance organizers produce a small average learning benefit, larger for high-ability learners](../claims/advance-organizers-improve-learning.md) [~S]: the organizer, a neighbour of the overview signal, owned by [Clear Structure](clear-structure.md).
 - [In one experiment, students who generated their own underlining did not score significantly higher than students given experimenter underlining](../claims/experimenter-underlining-effective-as-student-underlining.md) [~M].
+- [Instructor signaling enhanced knowledge acquisition as perceived difficulty increased for research designs](../claims/instructor-signaling-knowledge-high-difficulty.md) [+W] — attached 2026-10-28 from Reuter et al. (2025), which proposed "Use instructor cues such as pointing gestures and gaze shifts when teaching complex content"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 
@@ -193,6 +194,7 @@ The expectation should weaken if comparisons with comparable novice learners, ho
 - [Combined verbal and nonverbal cueing most often draws attention to landmarks and clarifies tool use](../claims/combined-cueing-landmarks-and-tools.md) [+W]
 - [In a three-group eye-tracking experiment, the pointing group significantly outperformed both the tracing group and the no-touch group on comprehension performance](../claims/pointing-outperforms-tracing-and-no-touch-comprehension.md) [+W]
 - [Realism can serve as signaling when a drastic contrast in shading and rendering highlights relevant parts](../claims/realism-signaling-drastic-contrast.md) [~W]
+- [DHH students' feedback suggests the signaling principle may be a valuable design consideration](../claims/dhh-signaling-principle-valuable.md) [+W]
 
 ## Related Principles
 - [Modality Principle](modality.md)

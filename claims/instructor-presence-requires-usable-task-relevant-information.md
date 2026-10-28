@@ -49,3 +49,5 @@ The authors' interpretive conclusion drawn from their null performance results a
 - [A 2024 vendor white paper cites research that avatars provide social presence and that realistic avatars in intelligent tutoring systems can increase student-tutor engagement](avatar-social-presence-increases-tutor-engagement.md) — related
 - [Social presence from social cues can improve task performance (social facilitation) but may impair performance on complex tasks (social inhibition)](social-facilitation-social-presence-performance.md) — related
 - [Instruction in methods of study improved school children's work when the instruction was specific to the tasks being undertaken](study-methods-instruction-improves-work.md) — related
+- [A visible instructor increased social presence in an exploratory field study (d = 0.85)](visible-instructor-social-presence-study1.md) — related
+- [A visible instructor increased well-being in Study 3 (d = 1.01)](visible-instructor-wellbeing-study3.md) — related

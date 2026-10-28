@@ -53,3 +53,4 @@ Video-graph episode analysis of 11 groups. "Four groups responded to the prompt 
 - [Minimal guidance is less effective for novices than explicit instruction](minimal-guidance-less-effective-for-novices.md) — a broader claim this one bears on
 - [Video-graph analysis shows scaffolded tasks produced more diverse process episodes, more fluent transitions between processes, and more P3–P4 oscillation than non-scaffolded tasks](scaffolds-video-graph-episode-diversity-transitions.md) — related
 - [Groups' distribution of the four problem-solving processes deviated less from the ideal distribution (lower Gini coefficients) on scaffolded than non-scaffolded tasks](scaffolds-lower-gini-cps-process-distribution.md) — related
+- [Practices P1, P2, P3, P4 and P7 received the highest percentages at the Redefinition level](p1-p2-p3-p4-p7-highest-redefinition-percentages.md) — related

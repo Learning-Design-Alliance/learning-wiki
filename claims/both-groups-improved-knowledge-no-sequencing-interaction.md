@@ -52,3 +52,4 @@ Mixed ANOVA on pre-post gain scores (12 items per test; KR-20 of .57 pre-test an
 - [On the physics conceptual test, both teachers' students improved significantly, with a significant teacher-by-time interaction in which Mrs. Lewis's students overcame a lower pre-test disadvantage by post-test](physics-test-teacher-time-interaction-lewis-overcame-pretest-gap.md) — related
 - [Instructional design and preferences interacted in predicting knowledge: DI-PS assignment and DI-PS preference were negatively associated with conceptual knowledge gain](design-preference-interaction-knowledge-gains.md) — related
 - [Both experimental and control groups improved significantly on all questions and conceptual questions from pre- to post-test after using PyKinetic](pykinetic-improves-python-learning.md) — related
+- [Playing MATHERIAL improved math achievement](matherial-improved-math-achievement.md) — related

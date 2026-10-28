@@ -13,7 +13,7 @@ generated:
 # Self-Regulation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 198 claims (137 show a difference, 36 mixed, 25 no difference) · 142 studies (39 causal, 37 associational, 34 review, 13 quant-synthesis, 10 theoretical, 6 qualitative, 3 design), `q1`–`q4` · 28 of 142 report an effect size · 189 claims rest on one study
+> **Evidence** · 201 claims (139 show a difference, 37 mixed, 25 no difference) · 143 studies (39 causal, 38 associational, 34 review, 13 quant-synthesis, 10 theoretical, 6 qualitative, 3 design), `q1`–`q4` · 29 of 143 report an effect size · 192 claims rest on one study
 
 ## Description
 Whether a learner can plan, monitor and adjust without the structure being supplied for them. It decides whether a multi-week deliverable survives without scaffolding and pacing support. The finding that matters most for design is that self-monitoring is unreliable by default: learners judge fluency rather than learning, and confident misjudgement is the normal case rather than the exception [-M]. So the design job is supplying the external signal, not exhorting reflection.
@@ -247,6 +247,9 @@ Whether a learner can plan, monitor and adjust without the structure being suppl
 - [Metacognitive chatbot feedback raises metacognitive sensitivity relative to affective and neutral feedback](../claims/chatbot-metacognitive-feedback-raises-metacognitive-sensitivity.md) [+M] — instruction changes it
 - [Executive function partially mediates the link between family SES and middle-school academic achievement](../claims/ef-mediation-ses-achievement.md) [+M] — learners who differ on it differ in outcomes
 - [The school environment can serve as a source of chronic stress: bullying at school is linked to higher hair cortisol and poorer executive function](../claims/school-environment-chronic-stress-hair-cortisol.md) [+M] — instruction changes it
+- [Cognitive presence was positively related to learning engagement and mediated relationships of teaching presence (full) and self-regulation (partial) with engagement](../claims/cognitive-presence-direct-and-mediation-engagement.md) [~M] — learners who differ on it differ in outcomes
+- [Self-efficacy had no direct relationship with learning engagement; its effect was fully mediated by self-regulation, teaching presence, and cognitive presence](../claims/self-efficacy-engagement-fully-mediated.md) [+M] — learners who differ on it differ in outcomes
+- [Self-regulation was positively related to both cognitive presence and learning engagement](../claims/self-regulation-positive-cognitive-presence-engagement.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does a learner's self-regulation predict achievement, and how strongly?* [Self Regulated Learning Predicts Achievement](../claims/self-regulated-learning-predicts-achievement.md) [+S]

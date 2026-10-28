@@ -56,3 +56,4 @@ Subgroup analysis across school levels within the meta-analysis of 99 effect siz
 - [The effect of SRL interventions does not differ significantly by course type, SRL strategy type, school level, or learning context](srl-effect-no-significant-moderator-differences.md) — reports the opposite
 - [Neither grade level nor outcome type significantly moderates the effects of Spanish reading programs](no-moderator-effects-grade-or-outcome.md) — reports the opposite
 - [Dynamic coupling-improvement effects are grade-dependent, significant in junior but not senior students](coupling-dynamic-effects-junior-subsample.md) — related
+- [Educational level moderates AWE effectiveness: university students show larger effects (g = 0.58–0.62) than junior and senior high students (0.25–0.50)](awe-educational-level-moderator.md) — related

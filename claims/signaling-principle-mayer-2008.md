@@ -53,3 +53,4 @@ Controlled experiments comparing signaled versus nonsignaled lessons (overview s
 - [Clear Structure Improves Learning](clear-structure-improves-learning.md) — the general claim this finding bears on, with the studies behind it
 -
 - [A narrative review reports that the signaling studies it cites found higher learning outcomes with signaled multimedia (illustrations with labeled text) than without](signaling-principle-increased-learning-outcomes.md) — a broader claim this one bears on
+- [DHH students' feedback suggests the signaling principle may be a valuable design consideration](dhh-signaling-principle-valuable.md) — a narrower finding that bears on this claim

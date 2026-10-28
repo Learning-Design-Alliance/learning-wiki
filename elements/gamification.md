@@ -13,7 +13,7 @@ generated:
 # Gamification
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 13 claims (6 for, 6 mixed, 1 against) · 11 studies (3 causal, 3 quant-synthesis, 3 review, 1 qualitative, 1 theoretical), `q2`–`q4` · 3 of 11 report an effect size · 12 claims rest on one study
+> **Evidence** · 15 claims (8 for, 6 mixed, 1 against) · 12 studies (4 review, 3 causal, 3 quant-synthesis, 1 qualitative, 1 theoretical), `q2`–`q4` · 3 of 12 report an effect size · 14 claims rest on one study
 
 ## Description
 Gamification is the element in which points, progress indicators, challenges, or other game-like structures are used to shape participation and persistence.
@@ -37,6 +37,8 @@ Gamification is the element in which points, progress indicators, challenges, or
 - [A counting days grading incentive raises final exam scores more than a per-question points incentive in an introductory programming course](../claims/counting-days-incentive-higher-exam-scores.md) [+M] — attached 2026-10-26 from Iman YeckehZaare et al. (2025), which proposed "Counting Days grading incentive in the Runestone retrieval practice tool"; tests this page's relationship.
 - [The competitive Game Show increased students' tutoring engagement relative to baseline](../claims/game-show-increases-tutoring-engagement.md) [+W]
 - [Game Show availability did not affect tutor learning on either test](../claims/game-show-no-effect-tutor-learning.md) [~W]
+- [Gamification elements significantly affected students' achievements](../claims/gamification-elements-significantly-affected-achievements.md) [+W]
+- [Gamified virtual reality learning environments were more motivating, engaging, and interactive than traditional learning environments](../claims/gamified-vr-more-motivating-engaging-interactive-than-traditional.md) [+W]
 
 ## Related Elements
 - [Adaptive Difficulty](adaptive-difficulty.md)

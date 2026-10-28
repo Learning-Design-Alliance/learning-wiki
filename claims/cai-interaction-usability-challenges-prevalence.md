@@ -53,3 +53,4 @@ Thematic synthesis of challenge themes by agent type across the 34 reviews (RQ2)
 - [Human-AI relationship concerns persist across all CAI generations while academic integrity and data privacy are emerging ethical concerns](cai-ethical-concerns-human-ai-relationship-persistent.md) — related
 - [Rigorous investigation of GenAI's actual educational and cognitive effects remains limited despite increasing integration into learning environments](genai-pedagogical-effects-investigation-limited.md) — related
 - [Ethics, privacy, bias, over-reliance, accuracy, usability and cost are key challenges AI use poses for learner satisfaction and engagement](ai-challenges-engagement-satisfaction.md) — related
+- [Privacy concerns and trust in technology contributed to user interactions by 25% and 31% respectively](privacy-trust-contribute-user-interactions-25-31-percent.md) — related

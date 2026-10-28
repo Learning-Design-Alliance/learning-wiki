@@ -45,6 +45,7 @@ Building on PGR students' practices and support expectations, the study proposed
 ## Related Strategies
 
 - [Foster communities of practice for AI governance instead of rigid top-down policies](communities-of-practice-for-ai-governance.md)
+- [Illustrate design guidelines with descriptive, practical examples](practical-examples-for-design-guidelines.md)
 
 ## Examples
 -

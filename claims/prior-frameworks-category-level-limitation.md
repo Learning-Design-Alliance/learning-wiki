@@ -47,3 +47,4 @@ Theoretical argument in the review's Summary and Limitations of Prior Frameworks
 ## Related Claims
 - [Cognitive barriers—insufficient background knowledge or working memory capacity—impede productive engagement in generative learning activities](cognitive-barriers-impede-glas.md) — related
 - [The ICAP Framework was found effective for assessing potential for active learning in an asynchronous online environment and identifying where design improvements are needed](icap-effective-audit-tool-asynchronous-online.md) — related
+- [All reviewed articles indicated research fed (re)design, but few specified how](research-feeds-redesign-but-few-specify-how.md) — related

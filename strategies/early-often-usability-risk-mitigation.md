@@ -47,6 +47,8 @@ Because authoring tools are labor-intensive and the risk grows that investment w
 - [Use iterative design with short feedback loops and multiple user-feedback methods during product development](iterative-design-short-feedback-loops.md)
 - [Center co-design with teachers and students throughout AI tool R&D, using human-in-the-loop workflows as a primary risk mitigation](co-design-human-in-the-loop-ai-edtech-strategy.md)
 - [Engage users and community members in the design process to make learning tools more attractive, useful, and effective](user-and-community-centered-design-methods.md)
+- [Involve end-users and teachers early in educational game development](involve-end-users-early-game-development.md)
+- [Plan user administration and curriculum fit carefully for educational games](plan-user-administration-and-curriculum-fit.md)
 
 ## Examples
 -

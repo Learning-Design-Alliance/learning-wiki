@@ -85,3 +85,4 @@ The review reports this meta-analysis of longer-term SEL effects as evidence of 
 - [A 2017 meta-analysis found SEL program participation associated with a 6% increase in high school and an 11% increase in college graduation rates](sel-meta-analysis-graduation-increases.md) — related
 - [SEL (PATHS) behavior improvements in low-income kindergartners persisted a year post-program, especially for children with lower baseline heart rate variability](paths-sustained-benefits-low-hrv.md) — a narrower finding that bears on this claim
 - [SEL programs implemented well show positive impacts on targeted skills and academic outcomes, including meta-analytic support](sel-programs-academic-outcomes.md) — related
+- [Positive changes in student attitude, behavior, and mentality and improved cognitive, physical, and social-emotional development were observed](gamified-vr-positive-changes-attitude-behavior-development.md) — related

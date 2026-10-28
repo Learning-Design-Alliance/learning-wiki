@@ -46,3 +46,4 @@ Historical analysis of the Lancasterian system, an interpretive (type e) histori
 
 ## Related Claims
 - [Theories of school belonging situate causes at the individual level and neglect the structural and compositional features of schools, which remain under-theorized](structural-compositional-school-features-neglected.md) — related
+- [An informed design is likely to be of higher quality than a design based solely on implicit assumptions](informed-design-higher-quality-than-implicit-assumptions.md) — related

@@ -49,3 +49,4 @@ Theoretical argument in the article's review of ITS authoring tool design tradeo
 - [Adaptive hyperbooks can ameliorate discontinuous conceptual and narrative flow during flexible navigation](adaptive-hyperbooks-ameliorate-discontinuous-flow.md) — related
 - [The increased efficiency effect confounds attempts to exploit the speed-ability trade-off central to many response-time models](increased-efficiency-confounds-speed-ability-tradeoff.md) — related
 - [Faster rate of learning may be negatively related to long-term retention (efficiency-effectiveness trade-off)](learning-rate-retention-tradeoff.md) — related
+- [A tradeoff exists between OPRA system flexibility and ease of use](opra-flexibility-ease-of-use-tradeoff.md) — related

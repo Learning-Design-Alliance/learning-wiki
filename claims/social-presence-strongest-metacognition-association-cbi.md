@@ -72,3 +72,4 @@ Correlational analysis under RQ3 in the survey of 47 graduate students in the on
 - In an online course, student performance can be examined in relationship to measures of student interaction and sense of presence using multiple independent and dependent variables. — related
 - [Online PBL group interaction follows the scripted sequence initially, but co-regulation derails over time into social bonding with fewer high-cognitive interactions](pbl-group-sequence-derails-to-social.md) — related
 - [No single metacognitive self-report can be recommended as the industry standard; the COMEGAM-ro has the strongest statistical support but is unreplicated](no-industry-standard-metacognitive-self-report.md) — related
+- [Invested effort and perceived value positively predicted social presence across all topics](perceived-value-predicts-social-presence.md) — related

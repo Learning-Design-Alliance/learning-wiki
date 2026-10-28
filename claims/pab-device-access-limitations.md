@@ -50,3 +50,4 @@ From the Opportunities for Improvement section of the six-month preliminary repo
 - [Practitioner Advisory Board members reported learning more about AI and related edtech through their engagement](practitioners-learned-about-ai.md) — related
 - [Educator involvement in choosing a pilot tool is associated with higher engagement and implementation fidelity, while lack of autonomy contributed to low usage and negative feelings](educator-buy-in-engagement-fidelity-edtech-pilots.md) — related
 - [Participants reported professional growth through networking and collaboration within the RPIP](pab-networking-professional-growth.md) — related
+- [Practitioner involvement was high in design and implementation but less so in knowledge production](practitioner-involvement-high-in-design-less-in-knowledge-production.md) — related

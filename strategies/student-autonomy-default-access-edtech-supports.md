@@ -43,6 +43,7 @@ The report recommends having student-facing options available so students can ch
 - [Providing Accessible Educational Tools](providing_accessible_educational_tools.md)
 - [Academic Choice (Planning, Working, Reflecting)](academic-choice-planning-working-reflecting.md)
 - [Teachers reflect on student, EdTech, and teacher agency levels when selecting classroom EdTech](teachers-reflect-agency-levels-selecting-edtech.md)
+- [Incorporate optional choice features (remediation buttons, enrichment questions, self-check options) to support autonomy](optional-choice-features-support-autonomy.md)
 
 ## Examples
 -

@@ -49,3 +49,4 @@ Algorithmic assessment of a corpus of 14 videos (7 topics × 2 conditions) from 
 - [CTML-guided educator review of AI video scripts yields statistically significant improvements across all 12 CTML principles and overall instructional validity](ctml-review-improves-educator-ratings.md) — related
 - [A deterministic slide-image override converts a 0/9 corpus-grounding failure into 9/10 successful slide matches on the same topic](slide-image-override-corpus-grounding-recovery.md) — related
 - [The pipeline feasibly produces coherent, synchronized educational videos from textbook queries, integrating retrieval, image generation, animation, and speech](feasible-synchronized-video-generation-from-textbook-queries.md) — related
+- [DHH students report using redundant multimedia features for support, conflicting with the CTML redundancy principle](dhh-redundant-support-conflicts-ctml-redundancy.md) — related

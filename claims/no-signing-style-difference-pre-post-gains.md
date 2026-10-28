@@ -50,3 +50,4 @@ Within-participant experiment (N = 30): an LMM testing style * time on test scor
 - [Producing more concept-motivated signs in signed summaries predicted higher test scores, especially post-test, while English-motivated sign use did not](cm-sign-production-predicts-post-test-scores.md) — related
 - [Longer and more accurate signed summaries predicted higher post-test scores only for concept-motivated lessons, not English-motivated lessons](cm-summary-length-accuracy-predict-post-scores.md) — related
 - [Brief signed video lessons produced learning gains, but the study could not rule out practice effects because it lacked a no-training control group](practice-effects-no-control-group-limitation.md) — a broader claim this one bears on
+- [A significant main effect of time indicated overall higher post-test than pre-test scores](moves-nl-time-main-effect.md) — related

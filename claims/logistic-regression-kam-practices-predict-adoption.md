@@ -9,6 +9,7 @@ generated:
   at: 2026-10-18
 evidence_strength: moderate
 newest_evidence: 2020
+source_checked: 2026-10-28
 sources:
   - id: maría-jesús-rodríguez-triana-2020
     resource: "https://doi.org/10.1007/s11412-020-09331-5"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
-> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2020 · checked against its sources 2026-10-28 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Sharing, co-creating and formalizing multiply the odds of adoption by 3.81, 9.04 and 12.36 respectively; scaffolding practices multiply odds by about three while fading is non-significant; reuse multiplies odds by 3.86. [→ María Jesús Rodríguez-Triana 2020](#maria-jesus-rodriguez-triana-2020)
@@ -70,3 +71,5 @@ Model-level assessment of the same logistic regression. The article describes th
 - [Teachers who participated in ILSs with KAM practices were far more likely to be involved in an implemented ILS (42–53%) than the dataset average (16.27%)](teacher-level-kam-participation-linked-to-implemented-ils.md) — related
 - [The higher the maturation level of an Inquiry Learning Space (create, share, co-create, publish), the higher its probability of being implemented in a classroom](higher-maturation-level-higher-ils-implementation-probability.md) — a broader claim this one bears on
 - [Expert scaffolding is associated with ILS adoption, but the fading stage shows a comparatively low rate (8.27%) and was a non-significant predictor](expert-scaffolding-associated-with-adoption-except-fading.md) — possibly the same claim (merge candidate)
+- [Most created ILSs are not implemented in classrooms, with implementation increasing over time](ils-implementation-gap-narrowing-over-time.md) — related
+- [Published ILSs differ from unpublished ILSs in design time, reuse, apps, and resources](published-ils-differ-from-unpublished.md) — related

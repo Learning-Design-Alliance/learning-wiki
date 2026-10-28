@@ -49,6 +49,7 @@ The article proposes a project-based learning framework in which students work i
 - [Scrum methodology as an educational scaffold: a project-management framework with ceremonies, roles and artefacts that structures planning, monitoring and reflection in complex context-based learning environments](scrum-methodology-educational-scaffold-framework.md)
 - [AI-driven talent cultivation reform framework with five interconnected components](ai-driven-talent-cultivation-reform-framework.md)
 - [ROS-based disassembly station with two robots and conveyor belts as the project hardware platform](ros-disassembly-station-two-robots-conveyors.md)
+- [Authentic learning environment framework for cultivating digital innovation skills](authentic-learning-digital-innovation-framework.md)
 
 ## Examples
 -

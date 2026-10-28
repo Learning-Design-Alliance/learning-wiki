@@ -53,3 +53,4 @@ Theoretical argument from the review's abstract, presented as the second of four
 - [Embodied collaborative construction can build shared geometric reasoning](embodied-collaborative-construction-can-build-shared-geometric-reasoning.md) — a narrower finding that bears on this claim
 - [Returning to direct somatic experience can re-vision thinking and change perception (attributed to Reason)](somatic-return-revisions-thinking.md) — related
 - [Physical Experience Enhances Science Learning](physical-experience-enhances-science-learning.md) — a narrower finding that bears on this claim
+- [Deictic gestures had stronger connections to other features in the high-learning group, suggesting a more effective use of embodied representations to ground abstract concepts and direct attention.](deictic-gestures-stronger-connections-high-learning.md) — a narrower finding that bears on this claim

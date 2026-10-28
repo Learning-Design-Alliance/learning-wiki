@@ -73,3 +73,4 @@ First-person case reflection from the author's adult education classroom experie
 - [Immigration discussion frequency shows no significant association with critical reflection or sociopolitical efficacy](immigration-discussion-null-critical-consciousness.md) — related
 - [Discussing immigration more frequently than fellow GSA members predicts increased perceived peer validation by year's end](immigration-discussion-in-gsas-predicts-peer-validation.md) — related
 - [Participants enact agency through others by empowering across participant categories: educational staff empower students, while societal partners and students empower each other](agency-empowering-others.md) — related
+- [Lecturers initially experience anxiety and intimidation when teaching in virtual worlds, but develop an enhanced sense of agency over time.](initial-vw-anxiety-then-enhanced-agency.md) — related

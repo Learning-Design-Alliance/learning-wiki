@@ -13,7 +13,7 @@ generated:
 # Working Memory
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 119 claims (69 show a difference, 34 mixed, 16 no difference) · 97 studies (30 causal, 25 associational, 21 review, 11 quant-synthesis, 7 theoretical, 3 qualitative), `q1`–`q4` · 16 of 97 report an effect size · 112 claims rest on one study
+> **Evidence** · 120 claims (70 show a difference, 34 mixed, 16 no difference) · 98 studies (31 causal, 25 associational, 21 review, 11 quant-synthesis, 7 theoretical, 3 qualitative), `q1`–`q4` · 17 of 98 report an effect size · 113 claims rest on one study
 
 ## Description
 How much a learner can hold and manipulate at once. It is the best-evidenced dimension here and the most directly actionable: it converts into element counts per screen, whether two sources must be read together, and whether a problem is given whole or as a worked example. Capacity is near-fixed, but *effective* capacity is not — prior knowledge supplies the schemas that let several items be held as one, which is why the same screen overloads a novice and not an expert [~S].
@@ -162,6 +162,7 @@ How much a learner can hold and manipulate at once. It is the best-evidenced dim
 - [Working memory capacity is positively associated with reversal learning performance and with flexible reactions, while need for cognition shows no association](../claims/working-memory-associated-reversal-learning.md) [+M] — learners who differ on it differ in outcomes
 - [Working memory capacity is related to initial analogical reasoning ability in children](../claims/wm-related-initial-analogy-ability.md) [+W] — learners who differ on it differ in outcomes
 - [Working memory moderates feedback effects: higher working memory children gain more from tutoring feedback and no feedback, but gains in the multiple-try condition are unrelated to working memory](../claims/wm-moderates-feedback-effects-analogy.md) [~W] — an instructional effect differs with it
+- [Preschoolers using gesture recognition with the memory strategy achieved significantly better working memory scores than the control group](../claims/gesture-recognition-memory-strategy-better-working-memory.md) [+M] — instruction changes it
 
 ## The evidence by question
 

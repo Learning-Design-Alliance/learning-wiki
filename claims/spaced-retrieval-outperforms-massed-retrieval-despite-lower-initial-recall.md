@@ -112,3 +112,4 @@ In the same Karpicke and Bauernschmidt (2011) experiment, as the chapter reports
 - [End-of-semester recall of course material was better for relearning than for restudying](successive-relearning-better-semester-end-recall.md) — related
 - [Distributed (spaced) learning is reported to work best compared with massed study in one long session](distributed-practice-beats-cramming-principle.md) — related
 - [An intervention study of Learning How to Learn reported improved study behaviors and higher second-semester proficiency scores](lhtl-intervention-improved-study-behaviors.md) — related
+- [Massed review at end of film produced significantly greater learning than no review or spaced review](massed-review-greater-learning-than-spaced-or-none.md) — related

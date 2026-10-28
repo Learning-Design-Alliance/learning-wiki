@@ -47,3 +47,4 @@ Mediation analysis (PROCESS macro, bootstrap samples per the method section) rel
 ## Related Claims
 - [Relevance instructions and guiding questions both improve pre-service teachers' first-order knowledge integration in a reading- and writing-based learning setting with three domain-specific texts](prompts-improve-first-order-knowledge-integration.md) — related
 - [Domain-specific knowledge gains from the learning session were large but comparable across the three experimental conditions](knowledge-gains-comparable-across-prompt-conditions.md) — related
+- [Integration prompts improve structural integration of knowledge across professional domains in pre-service teachers' mental models](integration-prompts-improve-structural-integration-teacher-knowledge.md) — related

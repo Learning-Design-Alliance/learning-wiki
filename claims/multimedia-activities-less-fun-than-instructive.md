@@ -53,3 +53,4 @@ Paired t-tests averaged across both study parts showed experimental-group studen
 - [Four of six activity groups are rated better in multimedia format, but quizzes and picture descriptions are rated equally across formats](activity-format-moderates-motivational-ratings.md) — related
 - [Multimedia motivational introductory messages produce better immediate knowledge-test outcomes than traditional teaching aids in elementary Nature and Society lessons](multimedia-introductory-message-better-immediate-tests.md) — related
 - [The learning advantage of multimedia introductory messages is partially visible on global exams and not durable across the study](multimedia-introductory-message-exam-effect-partial.md) — related
+- [Motivation, participation, encouragement, fun and interest rated high during the intervention; critical thinking more modest](mbot-motivation-engagement-high.md) — related

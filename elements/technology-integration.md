@@ -13,7 +13,7 @@ generated:
 # Technology Integration
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 104 claims (48 for, 49 mixed, 7 against) · 93 studies (20 associational, 18 qualitative, 17 review, 13 causal, 10 quant-synthesis, 10 design, 5 theoretical), `q1`–`q4` · 15 of 93 report an effect size · 101 claims rest on one study
+> **Evidence** · 110 claims (53 for, 49 mixed, 8 against) · 98 studies (20 associational, 19 qualitative, 18 review, 16 causal, 10 quant-synthesis, 10 design, 5 theoretical), `q1`–`q4` · 17 of 98 report an effect size · 107 claims rest on one study
 
 ## Description
 Technology integration is the element in which digital tools are used in direct service of learning goals, feedback, access, or collaboration.
@@ -129,6 +129,12 @@ Technology integration is the element in which digital tools are used in direct 
 - [Students in the ICLS experiments were satisfied with the system and mostly found it useful for collaborating, but were concerned about its slowness](../claims/icls-students-satisfied-and-found-useful.md) [~W]
 - [AI-enabled EFL teaching in schools is associated with improvements in student engagement, motivation, and language proficiency, per a systematic review of 22 empirical studies](../claims/ai-efl-engagement-motivation-proficiency-review.md) [+M]
 - [A peer-role robot in break-time science classrooms did not increase overall science curiosity, though it increased for students who asked it questions](../claims/robovie-science-curiosity-mixed-effect.md) [~W]
+- [Teachers used three free AI tools (DeepSeek, Doubao, Meta) mainly for lesson planning, assessment, and teaching material development](../claims/three-free-ai-tools-for-planning-assessment-materials.md) [+W]
+- [Students using the AVDS tool scored higher on an AVL-tree performance test than controls](../claims/avds-tool-improves-data-structures-test-scores.md) [+W]
+- [AI tools positively affected student engagement and enabled real-time lesson adjustments based on student feedback](../claims/ai-tools-boost-engagement-real-time-adjustment.md) [+W]
+- [AWE shows moderate positive effects on overall writing performance, with effect sizes ranging from g = 0.39 to g = 0.67 across meta-analyses](../claims/awe-moderate-positive-effects-writing-performance.md) [+W]
+- [No significant improvement in science test performance from the robotics and programming unit](../claims/mbot-no-science-improvement.md) [-W]
+- [Undergraduate physiotherapy students who used iVR alongside traditional teaching scored higher on overall manual therapy performance one week later](../claims/ivr-complement-improves-manual-therapy-performance-score.md) [+W]
 
 ## The evidence by question
 - *Does building AI tools into instruction raise achievement over teaching the same content without them, and in which settings?* [AI-supported instruction has a moderate positive effect on student achievement in STEM education (g = 0.670 under a random effects model)](../claims/ai-instruction-stem-moderate-positive-effect.md) [+M]

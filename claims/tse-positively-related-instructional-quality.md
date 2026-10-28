@@ -46,3 +46,4 @@ Doubly latent multilevel SEM at the teacher level with 94 teachers and their 208
 - [More teaching experience is associated with lower teacher self-efficacy and somewhat lower student-rated classroom management and student self-efficacy](experience-negatively-related-tse.md) — related
 - [Teacher self-efficacy is not directly related to student self-efficacy or intrinsic motivation when teacher and student reports are combined at the class level](tse-not-related-student-motivational-beliefs.md) — related
 - [Teachers with higher self-efficacy report higher instructional quality at the individual teacher level, with congruent domain-specific associations](teacher-level-self-efficacy-instructional-quality-association.md) — related
+- [Effective classroom management is a necessary but insufficient condition for cognitive activation and instructional support](cm-necessary-insufficient-for-cognitive-activation.md) — related

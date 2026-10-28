@@ -14,7 +14,7 @@ grain_size: course
 # Faculty Course Design
 
 > **Design Process** · [All design processes](index.md)
-> **Evidence** · 7 claims (4 for, 2 mixed, 1 against) · 16 studies (6 quant-synthesis, 4 review, 3 causal, 2 qualitative, 1 theoretical), `q1`–`q4` · 6 of 16 report an effect size · 2 claims rest on one study
+> **Evidence** · 9 claims (5 for, 3 mixed, 1 against) · 18 studies (6 quant-synthesis, 4 review, 3 causal, 2 qualitative, 2 theoretical, 1 associational), `q1`–`q4` · 6 of 18 report an effect size · 4 claims rest on one study
 
 ## Description
 Most courses in higher education are not designed by instructional designers. They are designed by the person who will teach them, in the weeks before term, alongside a full teaching and research load, with no budget, no team and no client. A teaching and learning centre may consult, run a workshop or read a draft syllabus — but it advises, it does not approve, and the instructor holds the decision. This is the most common design process in the sector and it is a distinct pattern, not a degraded version of a professional one.
@@ -64,6 +64,8 @@ Treating it as an inferior [systematic process](systematic-instructional-design.
 
 - [Instructional decisions form the hub of decision-type co-occurrence, most strongly with assessment decisions](../claims/instructional-decisions-hub-of-co-occurrence-structure.md) [~W]
 - [Teachers retain ultimate control over AI systems because professional responsibility cannot be delegated](../claims/teachers-retain-ultimate-control-responsibility-not-delegable.md) [+W]
+- [Teachers' design work extends before, while, and after a unit is taught](../claims/design-work-extends-before-while-after-unit.md) [+W]
+- [Design team composition influences design process characteristics and ILS structure](../claims/design-team-composition-influences-ils-characteristics.md) [~W]
 
 #### Supporting
 - [Goal setting improves performance](../claims/goal-setting-improves-performance.md) [+M] — the case for writing objectives before the schedule

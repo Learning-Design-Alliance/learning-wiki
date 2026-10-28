@@ -14,7 +14,7 @@ grain_size: course
 # Design Thinking
 
 > **Design Process** · [All design processes](index.md)
-> **Evidence** · 6 claims (3 for, 2 mixed, 1 against) · 12 studies (3 causal, 3 quant-synthesis, 3 review, 1 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 3 of 12 report an effect size · 3 claims rest on one study
+> **Evidence** · 7 claims (4 for, 2 mixed, 1 against) · 13 studies (3 causal, 3 quant-synthesis, 3 review, 2 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 3 of 13 report an effect size · 4 claims rest on one study
 
 ## Description
 Design Thinking organizes the *design* of a course around five moves: empathize with the people who will learn, define the problem their situation actually poses, ideate broadly before committing, prototype cheaply, and test with real learners. Its defining commitment is that the design problem is discovered rather than assumed — the designer begins by investigating learners and their context, and treats the first course outline as a hypothesis to be falsified rather than a plan to be executed.
@@ -70,6 +70,7 @@ The same five moves are also used *with learners* — students empathizing with 
 - [Students often do not know which questions to ask about college until it is too late, and want colleges to anticipate their information needs](../claims/students-unknow-questions-until-too-late.md) [~W]
 - [The prototyping exercise promoted exchange of ideas for HLC development and enhanced a shared image of the HLC among team members](../claims/prototyping-exercise-promotes-idea-exchange-shared-image.md) [+W]
 - [Subjects most often attributed their iteration to new insights or discovering that initial choices were not the best](../claims/subjects-attribute-iteration-to-new-insights.md) [~W]
+- [An informed design is likely to be of higher quality than a design based solely on implicit assumptions](../claims/informed-design-higher-quality-than-implicit-assumptions.md) [+W]
 
 #### Supporting
 - [Multiple varied cases support learning in ill-structured domains.](../claims/cognitive-flexibility-theory-multiple-cases.md) [+M] — the case for encountering several framings of a problem before committing to one

@@ -60,3 +60,4 @@ Trends and comments from the Job or Graduate/Professional School Application ass
 - [Students bound their reliance on AI feedback and advocate a hybrid model assigning AI broad language concerns and instructors individualized relational guidance](bounded-reliance-hybrid-feedback-preference.md) — related
 - [Students producing high-quality revisions spent more time addressing higher order comments](high-quality-revisers-more-time-higher-order-comments.md) — related
 - [Students identified lack of sensitivity to linguistic nuance as a limitation of AWA feedback](awa-lacks-sensitivity-linguistic-nuance.md) — related
+- [AWE is more effective for surface-level writing skills than for higher-order skills such as argumentation and coherence](awe-surface-level-stronger-than-higher-order.md) — reports the opposite

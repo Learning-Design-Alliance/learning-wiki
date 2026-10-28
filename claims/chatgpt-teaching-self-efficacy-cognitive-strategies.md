@@ -68,3 +68,4 @@ ANCOVA on an adapted MSLQ-based SRL questionnaire administered pre and post; the
 - [Students using an AR system for plant study showed higher learning motivation than a control group](arflora-ar-higher-motivation-plant-study.md) — related
 - [Conversational-agent prompts improve student dialogue outcomes at both individual and dyad levels](conversational-agent-prompts-improve-individual-and-dyad-outcomes.md) — related
 - [ChatGPT in a flipped classroom with hands-on coding significantly increased computational thinking, self-efficacy, and motivation](chatgpt-flipped-classroom-increased-ct-self-efficacy-motivation.md) — related
+- [Students using the ACF-PA approach developed significantly greater self-regulated learning conceptions than students using the C-PA approach](acf-pa-improves-self-regulated-learning-conceptions.md) — related

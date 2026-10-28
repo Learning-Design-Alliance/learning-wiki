@@ -53,3 +53,4 @@ Multimodal analysis of 108 episodes of video from three groups of in-service tea
 - [VET teachers use body gestures and pointing to recreate the three-dimensional machine space represented two-dimensionally on the simulator screen.](teacher-gestures-recreate-3d-space-on-2d-screen.md) — related
 - [Gestures and bodily actions lighten cognitive load and extend mathematical ideas across group members during collaboration](gestures-material-scaffolding-collaboration.md) — related
 - [Microanalysis shows on-task and off-task participation is multilayered, with students frequently on- and off-task simultaneously through different modalities](multilayered-on-off-task-microanalysis.md) — related
+- [High-learning groups demonstrate more frequent and stronger cross-modal connections linking verbal explanations with digital representations and embodied gestures.](high-learning-groups-stronger-cross-modal-connections.md) — related

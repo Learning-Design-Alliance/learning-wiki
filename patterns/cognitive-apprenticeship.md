@@ -38,7 +38,7 @@ grain_size: course, unit
 # Cognitive Apprenticeship
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 31 claims (13 for, 15 mixed, 3 against) · 29 studies (10 causal, 5 quant-synthesis, 4 review, 4 qualitative, 3 associational, 2 theoretical, 1 design), `q1`–`q4` · 3 of 29 report an effect size · 27 claims rest on one study
+> **Evidence** · 32 claims (14 for, 15 mixed, 3 against) · 30 studies (11 causal, 5 quant-synthesis, 4 review, 4 qualitative, 3 associational, 2 theoretical, 1 design), `q1`–`q4` · 4 of 30 report an effect size · 28 claims rest on one study
 
 ## Description and scope
 
@@ -150,6 +150,7 @@ This pattern is general across domains; a clinical round, a writing workshop or 
 - [Instructor motion is positively associated with BtBC only during scaffolding, not explanation](../claims/instructor-motion-btbc-scaffolding-only.md) [~W]
 - [Engagement was reported more during the unscaffolded fadeout phase, while curiosity and neutral were reported more during the scaffolded learning phase](../claims/affect-differences-scaffolded-fadeout-phases.md) [~W]
 - [A simulated learning companion using menu-based dialogue in an ITS encourages student reflection and articulation, enhancing learning](../claims/menu-based-learning-companion-encourages-reflection-articulation.md) [+W]
+- [Desktop VR with scaffolded interaction and reflective self-explanation increases self-efficacy compared to traditional instruction](../claims/desktop-vr-scaffolded-self-explanation-self-efficacy.md) [+W]
 
 ## Related Patterns
 - [Four-Component Instructional Design](4cid-four-component-instructional-design.md) — shares the principle of worked examples fading to full tasks; provides more formal scaffolding design rules for complex learning

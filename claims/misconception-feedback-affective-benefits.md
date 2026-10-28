@@ -51,3 +51,4 @@ The editorial reports, citing Demedts et al. (2024), a study in which each incor
 - [Engagement profiles predict who benefits most from accuracy-based adaptive support](engagement-profiles-predict-adaptive-benefit.md) — related
 - [Number Board Games Improve Numerical Knowledge](number-board-games-improve-numerical-knowledge.md) — related
 - [Explaining one's own potentially incorrect ideas can reduce learning, while explaining known-correct content supports it](explaining-own-incorrect-ideas-reduces-learning.md) — related
+- [Explanatory feedback has a greater benefit for students than corrective feedback in digital environments](explanatory-feedback-beats-corrective-digital.md) — related

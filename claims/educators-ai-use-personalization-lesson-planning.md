@@ -93,3 +93,4 @@ Interview and listening-session data showed "some level of AI tool use" among ne
 - [Interviewed teachers cite poor AI output quality and risks to students' cognitive engagement as main obstacles, and subject-specific use cases as their top professional-development need](teacher-interviews-obstacles-and-pd-needs.md) — related
 - [Ukrainian educators show high AI adoption (84%) but only 11% can identify specialized AI services beyond ChatGPT](educators-high-ai-adoption-low-specialized-awareness.md) — related
 - [ChatGPT was the most commonly used GenAI tool in reviewed programming education research](chatgpt-most-used-genai-tool-programming-education.md) — related
+- [Teachers used three free AI tools (DeepSeek, Doubao, Meta) mainly for lesson planning, assessment, and teaching material development](three-free-ai-tools-for-planning-assessment-materials.md) — a narrower finding that bears on this claim

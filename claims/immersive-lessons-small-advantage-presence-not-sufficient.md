@@ -70,3 +70,4 @@ The review reports, citing multiple studies, that using XR without considering i
 - [VR improved movement-based transfer test performance versus reading in security training, while learning in VR without the possibility to act was detrimental](vr-transfer-benefit-but-actionless-vr-detrimental.md) — related
 - [Immersive VR simulation increased self-efficacy and intrinsic motivation more than a conventional safety manual in laboratory safety training](immersive-vr-boosted-self-efficacy-intrinsic-motivation.md) — related
 - [A meta-analysis reported a mean effect size advantage of 0.41 for collaborative learning prototypes in immersive versus non-immersive approaches](xrcl-meta-analysis-effect-041.md) — a narrower finding that bears on this claim
+- [Gamified virtual reality learning environments were more motivating, engaging, and interactive than traditional learning environments](gamified-vr-more-motivating-engaging-interactive-than-traditional.md) — related

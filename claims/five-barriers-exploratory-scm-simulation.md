@@ -50,3 +50,4 @@ Formative study with 7 students and 3 instructors using one-hour semi-structured
 - [Insufficient data systems, LCFF funding limits, transportation barriers, and child welfare capacity constraints impede coordinated support for students in foster care](foster-care-coordination-challenges.md) — related
 - [Interviews identify IEI implementation gaps — curriculum-industry misalignment, limited project diversity, and weak enterprise engagement — as boundary conditions on the psychological pathways](iei-implementation-gaps-boundary-conditions.md) — related
 - [Interviewed teachers attributed disengagement to technical, institutional, and social-relational environmental constraints rather than capability deficits](environmental-constraints-attributed-disengagement.md) — related
+- [Challenges interact dynamically to form a self-reinforcing recursive constraint](self-reinforcing-recursive-constraint-srl-recommenders.md) — related

@@ -18,7 +18,7 @@ sources:
 # TPACK (Technological Pedagogical Content Knowledge)
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 33 claims (15 for, 17 mixed, 1 against) · 18 studies (6 associational, 3 causal, 3 design, 3 theoretical, 1 quant-synthesis, 1 review, 1 qualitative), `q1`–`q3` · 5 of 18 report an effect size · 33 claims rest on one study
+> **Evidence** · 35 claims (17 for, 17 mixed, 1 against) · 19 studies (6 associational, 4 design, 3 causal, 3 theoretical, 1 quant-synthesis, 1 review, 1 qualitative), `q1`–`q3` · 5 of 19 report an effect size · 35 claims rest on one study
 
 ## Description
 TPACK ([Koehler & Mishra, 2009](https://edtechbooks.org/lidtfoundations/tpack)) extends Shulman's concept of Pedagogical Content Knowledge (PCK) — the specialized knowledge of how to teach a particular subject — by adding technology as a third interacting knowledge domain. Teaching with technology is treated as an ill-structured problem: there is no single best way to integrate a given technology into a curriculum, because content, pedagogy, and technology constrain and reshape one another differently in every classroom context.
@@ -85,6 +85,8 @@ TPACK is not additive — a teacher cannot be TPACK-competent by separately mast
 - [The ML4STEM Teachers-as-Learners session significantly increases K-12 STEM teachers' technology knowledge of k-means clustering on five of six assessment questions.](../claims/ml4stem-tk-learning-gain.md) [+W] — attached 2026-10-27 from Jingwan Tang et al. (2023), which proposed "ML4STEM: a two-session professional development framework for integrating machine learning into K-12 STEM teaching".
 - [Most participating teachers produce ML-empowered scientific discovery teaching ideas of excellent, good, or fair quality after the TaL session.](../claims/ml4stem-tck-idea-quality.md) [+W] — attached 2026-10-27 from Jingwan Tang et al. (2023), which proposed "ML4STEM: a two-session professional development framework for integrating machine learning into K-12 STEM teaching".
 - [Science teachers show higher TCK understanding levels than math teachers in the ML4STEM study.](../claims/science-math-tck-gap.md) [~W]
+- [In Prototype 2, both TK and PCK significantly explained variation in TPACK, unlike Prototype 1 where only TK did](../claims/prototype2-tk-and-pck-explain-tpack-variation.md) [+W]
+- [Within-between modelling suggests differences between PSTs' TK and individual change in PCK explain TPACK variation in Prototype 1](../claims/within-between-model-prototype1-tk-between-pck-within.md) [+W]
 
 ## The evidence by question
 

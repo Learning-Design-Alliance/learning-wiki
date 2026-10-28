@@ -72,3 +72,4 @@ Descriptive pattern from Fig. 6 across the two stimulus videos; the authors stat
 - [No differences were found on mental effort during instruction or on transfer across illusion-of-control and instruction-method conditions](no-mental-effort-differences.md) — related
 - [Only self-reported, not physiological, indices of math-related state anxiety correlate with both math anxiety and math performance](self-report-not-physiological-state-anxiety-predicts.md) — related
 - [Learners show significantly lower skin conductance level across the task than non-learners](learners-lower-scl-across-task.md) — related
+- [No effects of visible instructor on learning outcomes across three field studies](no-visible-instructor-learning-effects.md) — related

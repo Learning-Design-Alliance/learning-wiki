@@ -47,3 +47,4 @@ Review synthesis categorizing TPD conceptualizations across the 51 studies into 
 ## Related Claims
 - [The most common rationale treats the teacher network as a source of professional development (32 of 51 studies)](network-as-source-of-tpd-rationale.md) — related
 - [A second rationale treats the network as a catalyst for enactment and sustainability of reforms with TPD (15 studies, mostly US)](network-as-catalyst-for-reform-rationale.md) — related
+- [Prior TPD research focused on teacher impact, leaving student-centered evaluation of TPD for OBL unexamined](student-centered-tpd-evaluation-gap.md) — related
