@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-27
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: andrea-horbach-2024
     resource: "https://doi.org/10.1007/s40593-023-00370-1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across Study 2 blocks, the M-BERT setting almost always outperformed logistic regression, and machine translation was beneficial compared with zero-shot multilingual representations. [→ Andrea Horbach 2024](#andrea-horbach-2024)

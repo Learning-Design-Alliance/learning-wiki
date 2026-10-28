@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-27
 evidence_strength: weak
+newest_evidence: 2004
 sources:
   - id: r-charles-murray-2004
     resource: "https://telearn.hal.science/hal-00197308"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2004 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The article evaluated the prototype engines' capability to select tutorial actions quickly enough for real-world tutoring applications. [→ R. Charles Murray 2004](#r-charles-murray-2004)

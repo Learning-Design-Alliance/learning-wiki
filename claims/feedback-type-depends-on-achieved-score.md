@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-27
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: matt-dennis-2016
     resource: "https://doi.org/10.1007/s40593-015-0059-7"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In the conscientiousness experiment, score had a significant effect on all emotional support types (Advice, Emotional Reflection, Praise, Reassurance) and on slant; praise was only used for passing scores. [→ Matt Dennis 2016](#matt-dennis-2016)

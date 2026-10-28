@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-27
 evidence_strength: weak
+newest_evidence: 2016
 sources:
   - id: john-self-2015
     resource: "https://doi.org/10.1007/s40593-015-0040-5"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r1` · `q1`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Triggered by disputes over scope and administration, including AACE's 1996 attempt to widen the scope of AIED 97, the committee voted to leave AACE; the new society, journal and conference came into existence simultaneously in December 1996. [→ John Self 2015](#john-self-2015)

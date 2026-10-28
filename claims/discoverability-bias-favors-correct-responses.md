@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-27
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: abigail-gurin-schleifer-2025
     resource: "https://doi.org/10.1007/s40593-025-00485-7"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` KP1 (highest-quality responses) achieved the highest F1 discoverability score in ten of twelve model-algorithm-item configurations, with AlephBERT+KMeans reaching F1 .60 (Q1) and .67 (Q2), while other KPs were generally below 0.50. [→ Abigail Gurin Schleifer 2025](#abigail-gurin-schleifer-2025)

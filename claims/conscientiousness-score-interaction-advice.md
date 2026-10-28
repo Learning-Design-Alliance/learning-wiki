@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-27
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: matt-dennis-2016
     resource: "https://doi.org/10.1007/s40593-015-0059-7"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The MANOVA showed an interaction effect between conscientiousness level and score on the usage of advice and slant; when conscientiousness is low, advice is used for scores 10% to 70% inclusive, whereas for high conscientiousness advice is not used for 70%. [→ Matt Dennis 2016](#matt-dennis-2016)

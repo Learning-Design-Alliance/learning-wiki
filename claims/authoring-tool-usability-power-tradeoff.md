@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-27
 evidence_strength: weak
+newest_evidence: 2015
 sources:
   - id: tom-murray-2015
     resource: "https://doi.org/10.1007/s40593-015-0076-6"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q1`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The easier or more efficient an authoring tool is to use, the more simplistic or constrained are the ITSs that can be built with it; usability is usually at odds with both depth and flexibility. [→ Tom Murray 2015](#tom-murray-2015)

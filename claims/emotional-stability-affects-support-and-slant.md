@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-27
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: matt-dennis-2016
     resource: "https://doi.org/10.1007/s40593-015-0059-7"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r?` · `q3`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Score had a significant effect on the use of Advice, Reassurance, Praise and Emotional Reflection in the emotional stability experiment. [→ Matt Dennis 2016](#matt-dennis-2016)

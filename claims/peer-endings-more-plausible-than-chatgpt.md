@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-27
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: andrea-roxana-bellot-2025
     resource: "https://doi.org/10.1007/s40593-025-00497-3"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` On Q16, 68.18% of the control group affirmed the new ending was sound and convincing in plot terms, versus only 47.62% of the experimental group. [→ Andrea Roxana Bellot 2025](#andrea-roxana-bellot-2025)

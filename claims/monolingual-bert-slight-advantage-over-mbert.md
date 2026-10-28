@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-27
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: andrea-horbach-2024
     resource: "https://doi.org/10.1007/s40593-023-00370-1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Comparing the two transformer models on the three English datasets, results were mixed with a tendency favoring the monolingual model (.671 vs .660 average QWK). [→ Andrea Horbach 2024](#andrea-horbach-2024)

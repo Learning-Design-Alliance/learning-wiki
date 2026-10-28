@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-27
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: jill-jêenn-vie-2018
     resource: "https://doi.org/10.1007/s40593-017-0163-y"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Using the Fraction dataset, the InitialD DPP-based strategy achieves lower log-loss and a narrower confidence interval than Random, Uncertainty and CAT strategies when the first questions are asked to a newcomer. [→ Jill-Jêenn Vie 2018](#jill-jeenn-vie-2018)

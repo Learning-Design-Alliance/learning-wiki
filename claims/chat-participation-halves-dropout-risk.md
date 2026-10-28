@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-27
 evidence_strength: weak
+newest_evidence: 2016
 sources:
   - id: carolyn-penstein-rosé-oliver-ferschke-2016
     resource: "https://doi.org/10.1007/s40593-016-0107-y"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A survival analysis of DALMOOC data, controlling for video clicks and discussion forum participation, found participation in chats lowers the risk of dropout by approximately 50 percent. [→ Carolyn Penstein Rosé & Oliver Ferschke 2016](#carolyn-penstein-rose-oliver-ferschke-2016)

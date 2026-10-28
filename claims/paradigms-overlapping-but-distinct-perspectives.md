@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-27
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: jade-mai-cock-ido-roll-käser-tanja-2025
     resource: "https://doi.org/10.1007/s40593-025-00512-7"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Rand indices of 0.64 and 0.65 between variable–focus and relationship–focus, and 0.7 between relationship and variable, show the paradigms capture related but not identical strategies. [→ Jade Mai Cock · Ido Roll · Käser Tanja 2025](#jade-mai-cock-ido-roll-kaser-tanja-2025)

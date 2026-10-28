@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-27
 evidence_strength: moderate
+newest_evidence: 2013
 sources:
   - id: gálvez-2013
     resource: "https://doi.org/10.1007/s40593-013-0008-2"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Only 8 of the initial 17 constraints were triggered in the experiments; the other 9 were never triggered or were uniformly satisfied or violated by all students. [→ Gálvez 2013](#galvez-2013)

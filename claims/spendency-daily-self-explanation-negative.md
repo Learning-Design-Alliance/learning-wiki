@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-27
 evidence_strength: mixed
+newest_evidence: 2015
 sources:
   - id: snow-2015
     resource: "https://doi.org/10.1007/s40593-015-0044-1"
@@ -39,6 +40,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · associational `r1`–`r2` · `q2`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Spendency correlated negatively with daily self-explanation quality on training days 3 through 8, but not on days 1 and 2. [→ Snow 2015](#snow-2015)

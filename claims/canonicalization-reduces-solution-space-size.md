@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-27
 evidence_strength: moderate
+newest_evidence: 2015
 sources:
   - id: kelly-rivers-kenneth-r-koedinger-2015
     resource: "https://doi.org/10.1007/s40593-015-0070-z"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Normalizing functions reduced the number of unique states in most problems, with a much larger reduction among correct states (60%) than incorrect states (26%), indicating fewer semantically distinct correct strategies than incorrect attempts. [→ Kelly Rivers & Kenneth R. Koedinger 2015](#kelly-rivers-kenneth-r-koedinger-2015)

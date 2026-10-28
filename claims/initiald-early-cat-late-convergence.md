@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-27
 evidence_strength: mixed
+newest_evidence: 2018
 sources:
   - id: jill-jêenn-vie-2018
     resource: "https://doi.org/10.1007/s40593-017-0163-y"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` For k ≤ 9 questions InitialD converges faster towards the final diagnosis, while for k ≥ 14 the CAT baseline converges faster, indicating adaptation benefits emerge only in later stages. [→ Jill-Jêenn Vie 2018](#jill-jeenn-vie-2018)

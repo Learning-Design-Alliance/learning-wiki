@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-27
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: sandra-schulz-bruce-m-mclaren-niels-pinkwart-2023
     resource: "https://doi.org/10.1007/s40593-022-00305-2"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q1`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` On the validated programming-abilities test, WOZ I students answered 65% of tasks correctly post-intervention with M = 5 (SD = 4.6), a positive descriptive trend; no significance test was computed. [→ Sandra Schulz · Bruce M. McLaren · Niels Pinkwart 2023](#sandra-schulz-bruce-m-mclaren-niels-pinkwart-2023)

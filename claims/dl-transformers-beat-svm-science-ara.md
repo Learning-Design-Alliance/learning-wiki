@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-27
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: uçar-2024
     resource: "https://doi.org/10.1007/s40593-024-00393-2"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In cross-validation on the three compiled science corpora, transformer-based DL models obtain higher accuracy and F1 than SVM models in every language and configuration, improving over the SVM models by more than 20 points in the 4-level setup. [→ Uçar 2024](#ucar-2024)

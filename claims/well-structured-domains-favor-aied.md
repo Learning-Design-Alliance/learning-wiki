@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-27
 evidence_strength: weak
+newest_evidence: 2014
 sources:
   - id: sergey-sosnovsky-bruce-m-mclaren-vincent-aleven-2014
     resource: "https://doi.org/10.1007/s40593-014-0025-9"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r1` · `q1`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Many math and science problems are well-defined, well-structured formal tasks with unambiguously correct answers and well-defined sets of solution paths, making it easier than in ill-defined domains to identify the knowledge components of a complex skill, giving ITS developers greater flexibility in knowledge representation, pedagogical strategies and adaptation technologies. [→ Sergey Sosnovsky & Bruce M. McLaren & Vincent Aleven 2014](#sergey-sosnovsky-bruce-m-mclaren-vincent-aleven-2014)

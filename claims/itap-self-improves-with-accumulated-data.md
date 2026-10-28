@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-27
 evidence_strength: weak
+newest_evidence: 2015
 sources:
   - id: kelly-rivers-kenneth-r-koedinger-2015
     resource: "https://doi.org/10.1007/s40593-015-0070-z"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Evaluating hint path lengths at three points of data accumulation (teacher solution only, half the states, all states) against a gold-standard minimum path length shows ITAP's performance improves as more student data is collected. [→ Kelly Rivers & Kenneth R. Koedinger 2015](#kelly-rivers-kenneth-r-koedinger-2015)

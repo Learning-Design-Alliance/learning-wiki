@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-27
 evidence_strength: moderate
+newest_evidence: 2013
 sources:
   - id: gálvez-2013
     resource: "https://doi.org/10.1007/s40593-013-0008-2"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In experiment 1, removing C2 raised Cronbach's alpha from 0.557 to 0.622, and a second iteration flagged C6 though the improvement was not significant. [→ Gálvez 2013](#galvez-2013)

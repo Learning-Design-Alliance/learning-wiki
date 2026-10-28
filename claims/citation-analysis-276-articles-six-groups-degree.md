@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-27
 evidence_strength: weak
+newest_evidence: 2016
 sources:
   - id: b-barros-m-f-verdejo-2015
     resource: "https://doi.org/10.1007/s40593-015-0063-y"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The community that responded to the DEGREE 2000 article comprised researchers in instructional design/scripting/scenario definition and researchers in interaction analysis, regulation, and assessment, and the cited aspects formed six groups. [→ B. Barros & M. F. Verdejo 2015](#b-barros-m-f-verdejo-2015)

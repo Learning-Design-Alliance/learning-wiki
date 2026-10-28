@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-27
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: randi-williams-2023
     resource: "https://doi.org/10.1007/s40593-022-00298-y"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Majorities of student responses correctly identified the generator's target and the discriminator's training dataset after exploring four GAN tools. [→ Randi Williams 2023](#randi-williams-2023)

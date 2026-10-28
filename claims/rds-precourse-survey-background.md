@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-27
 evidence_strength: weak
+newest_evidence: 2021
 sources:
   - id: lewis-armanda-stoyanovich-julia-2021
     resource: "https://doi.org/10.1007/s40593-021-00241-7"
@@ -39,6 +40,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · design `r2` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Of 48 survey respondents, 41 (86%) were enrolled in masters programs in data science or related disciplines, 6 (12%) were doctoral students, and 1 was an undergraduate. [→ Lewis Armanda; Stoyanovich Julia 2021](#lewis-armanda-stoyanovich-julia-2021)

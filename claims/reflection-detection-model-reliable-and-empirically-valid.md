@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-27
 evidence_strength: moderate
+newest_evidence: 2019
+source_checked: 2026-10-27
 sources:
   - id: thomas-daniel-ullmann-2019
     resource: "https://doi.org/10.1007/s40593-019-00174-2"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q3`
+> **Currency** · newest study 2019 · checked against its sources 2026-10-27 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The model categories can be annotated in a reliable way and the model components showed empirical validity. [→ Thomas Daniel Ullmann 2019](#thomas-daniel-ullmann-2019)

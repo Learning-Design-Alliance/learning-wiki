@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-27
 evidence_strength: moderate
+newest_evidence: 2015
 sources:
   - id: kelly-rivers-kenneth-r-koedinger-2015
     resource: "https://doi.org/10.1007/s40593-015-0070-z"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` On average across all problems, ITAP took 5.62 token edits to reach a correct state, compared with 8.27 tokens in the average teacher solution, indicating hints guide students along shorter, personalized paths. [→ Kelly Rivers & Kenneth R. Koedinger 2015](#kelly-rivers-kenneth-r-koedinger-2015)

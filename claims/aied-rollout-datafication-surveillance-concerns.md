@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-27
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: benedict-du-boulay-2024
     resource: "https://doi.org/10.1007/s40593-023-00355-0"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` There are legitimate concerns about the rollout of AI tools in education in terms of datafication and surveillance and possibly also of poor pedagogy, attributed to the broad field rather than the academic community. [→ Benedict du Boulay 2024](#benedict-du-boulay-2024)

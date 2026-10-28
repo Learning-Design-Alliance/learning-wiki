@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-27
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: ruth-janning-2016
     resource: "https://doi.org/10.1007/s40593-016-0097-9"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The best performing plait on average is the KNN plait, except for class hard where the SVM plait performed best; DCT plait showed weaker performance. [→ Ruth Janning 2016](#ruth-janning-2016)

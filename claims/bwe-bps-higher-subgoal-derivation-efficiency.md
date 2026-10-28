@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-27
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: preya-shabrina-2024
     resource: "https://doi.org/10.1007/s40593-023-00338-1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` BWE+BPS-trained students derived expert-identified subgoals with significantly higher efficiency than control and BWE-only students. [→ Preya Shabrina 2024](#preya-shabrina-2024)

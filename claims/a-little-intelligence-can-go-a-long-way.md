@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-27
 evidence_strength: weak
+newest_evidence: 2014
 sources:
   - id: sergey-sosnovsky-bruce-m-mclaren-vincent-aleven-2014
     resource: "https://doi.org/10.1007/s40593-014-0025-9"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r1` · `q2`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` ASSISTments, which follows a minimalist approach to intelligence and adaptivity without a strong student model or sophisticated adaptation, has achieved remarkable classroom adoption, demonstrating that a little intelligence can go a long way. [→ Sergey Sosnovsky & Bruce M. McLaren & Vincent Aleven 2014](#sergey-sosnovsky-bruce-m-mclaren-vincent-aleven-2014)

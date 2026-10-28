@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-27
 evidence_strength: weak
+newest_evidence: 2015
 sources:
   - id: vassileva-2015
     resource: "https://doi.org/10.1007/s40593-015-0073-9"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Engagement in iHelp was not uniform: many students were quiet lurkers who read postings but contributed nothing, while a small minority enjoyed the status of being a visible helper and expert. [→ Vassileva 2015](#vassileva-2015)

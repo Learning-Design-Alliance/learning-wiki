@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-27
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: thomas-daniel-ullmann-2019
     resource: "https://doi.org/10.1007/s40593-019-00174-2"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q3`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The accuracies of the automated analysis were on average 10% lower than the accuracies of the manual analysis. [→ Thomas Daniel Ullmann 2019](#thomas-daniel-ullmann-2019)

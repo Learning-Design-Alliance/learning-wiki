@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-27
 evidence_strength: weak
+newest_evidence: 2022
 sources:
   - id: bhimdiwala-2022
     resource: "https://doi.org/10.1007/s40593-021-00278-8"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q1`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The article argues that significant FATE-related issues surface during the process of users gaining ownership of an AIEd system and adapting it to specific contexts. [→ Bhimdiwala 2022](#bhimdiwala-2022)

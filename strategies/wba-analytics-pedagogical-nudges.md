@@ -17,7 +17,7 @@ sources:
 # Pedagogical nudges triggered by WBA analytics to encourage engagement
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 7 claims (7 for) · 2 studies (1 review, 1 associational), `q2` · 0 of 2 report an effect size · 7 claims rest on one study
+> **Evidence** · 7 claims (7 for) · 2 studies (1 review, 1 associational), `q1`–`q2` · 0 of 2 report an effect size · 7 claims rest on one study
 
 ## Description
 The authors propose using the analysis findings to trigger targeted nudges (e.g. targeted email messages, notifications) in workplace-based assessment. Examples include messaging students whose "assessment data suggests that student has feedback from few selected healthcare professionals", suggesting skills often completed together, reminding students about peer assessment, and prompting students with few completed assessments to attempt a common skill. Clinical assessment colleagues had already explored nudges to encourage at-risk students to engage in WBA.

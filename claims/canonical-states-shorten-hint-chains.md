@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-27
 evidence_strength: mixed
+newest_evidence: 2015
 sources:
   - id: kelly-rivers-kenneth-r-koedinger-2015
     resource: "https://doi.org/10.1007/s40593-015-0070-z"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Using canonical rather than original states reduced average hint chain length from 7.61 to 6.00 edits, but for three problems (hasTwoDigits, isWeekend, onlyOneTrue) the abstract chain was longer. [→ Kelly Rivers & Kenneth R. Koedinger 2015](#kelly-rivers-kenneth-r-koedinger-2015)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-27
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: uçar-2024
     resource: "https://doi.org/10.1007/s40593-024-00393-2"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Confusion-matrix analysis of the 4-level models shows that, for all three languages, both ML and DL models most often confuse level 1 and level 2 documents; the Basque model also struggles with levels 1 and 3. [→ Uçar 2024](#ucar-2024)

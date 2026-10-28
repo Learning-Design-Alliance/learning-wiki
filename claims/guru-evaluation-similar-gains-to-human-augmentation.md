@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-27
 evidence_strength: moderate
+newest_evidence: 2015
 sources:
   - id: benedict-du-boulay-rosemary-luckin-2015
     resource: "https://doi.org/10.1007/s40593-015-0053-0"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q3`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In an evaluation comparing standard classroom teaching, classroom teaching augmented by a non-expert human teacher, and classroom teaching augmented by GURU, the two augmented modes produced similar learning gains, both better than classroom teaching alone. [→ Benedict du Boulay & Rosemary Luckin 2015](#benedict-du-boulay-rosemary-luckin-2015)

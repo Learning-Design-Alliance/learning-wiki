@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-27
 evidence_strength: moderate
+newest_evidence: 2015
 sources:
   - id: snow-2015
     resource: "https://doi.org/10.1007/s40593-015-0044-1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Spendency was a significant negative predictor of achievement levels in iSTART-ME over and above pretest strategy knowledge, accounting for 17% of additional variance. [→ Snow 2015](#snow-2015)

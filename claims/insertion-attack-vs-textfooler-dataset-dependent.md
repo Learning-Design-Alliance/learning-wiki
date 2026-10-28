@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-27
 evidence_strength: mixed
+newest_evidence: 2024
 sources:
   - id: anna-filighera-2024
     resource: "https://doi.org/10.1007/s40593-023-00361-2"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` On the SciEntsBank ASAG test splits the insertion attack drops accuracy by an additional 0.4 to 3.8 percentage points beyond TextFooler, while TextFooler outperforms it by 2.9 to 8.1 percentage points on the other tasks. [→ Anna Filighera 2024](#anna-filighera-2024)

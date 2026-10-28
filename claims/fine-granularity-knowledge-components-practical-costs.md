@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-27
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: pelánek-2025
     resource: "https://doi.org/10.1007/s40593-024-00400-6"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In the author's own data analyses, finer granularity was conceptually meaningful in several cases but its practical merit was unclear; difficulty differences may or may not reflect a new knowledge component. [→ Pelánek 2025](#pelanek-2025)

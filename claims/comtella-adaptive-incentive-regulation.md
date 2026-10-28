@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-27
 evidence_strength: weak
+newest_evidence: 2015
 sources:
   - id: vassileva-2015
     resource: "https://doi.org/10.1007/s40593-015-0073-9"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A dynamic adaptive reward mechanism that scaled points by current community usefulness and individual participation history regulated contributions sustainably, matching an instructor-predefined level for timing, quantity and quality. [→ Vassileva 2015](#vassileva-2015)

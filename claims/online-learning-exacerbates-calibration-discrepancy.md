@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-27
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: haejin-lee-nigel-bosch-2025
     resource: "https://doi.org/10.1007/s40593-025-00514-5"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q1`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The challenges students face in self-assessing their understanding are particularly pronounced in online learning environments where limited external feedback can exacerbate calibration discrepancy. [→ HaeJin Lee · Nigel Bosch 2025](#haejin-lee-nigel-bosch-2025)

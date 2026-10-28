@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-27
 evidence_strength: moderate
+newest_evidence: 2005
 sources:
   - id: kalina-yacef-2005
     resource: "https://telearn.hal.science/hal-00257107"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
+> **Currency** · newest study 2005 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Since its introduction, over 600 students have used the Logic-ITA tool. [→ Kalina Yacef 2005](#kalina-yacef-2005)

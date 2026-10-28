@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-27
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: uçar-2024
     resource: "https://doi.org/10.1007/s40593-024-00393-2"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` When the best per-language models are applied to newly compiled unseen corpora (IkasElkar, Intef, NSC), accuracy drops sharply: English models fall from 86.01% cross-validation accuracy to 36.61% on NSC in the 4-level setup, and Basque DL drops from 80.60% to 70.65% in the 2-level balanced setting. [→ Uçar 2024](#ucar-2024)

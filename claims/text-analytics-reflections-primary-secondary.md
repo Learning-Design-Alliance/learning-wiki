@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-27
 evidence_strength: weak
+newest_evidence: 2021
+source_checked: 2026-10-28
 sources:
   - id: alicja-piotrkowicz-2021
     resource: "https://doi.org/10.1007/s40593-021-00264-0"
@@ -31,10 +33,11 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
+> **Currency** · newest study 2021 · checked against its sources 2026-10-28 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` All three year groups shared similar frequently mentioned words in both placement types, i.e. "practice", "confident", "competent". [→ Alicja Piotrkowicz 2021](#alicja-piotrkowicz-2021)
-`q2 i?` Reflection content differed by setting and year, e.g. infection control words dominated secondary care reflections in 2018/19. [→ Alicja Piotrkowicz 2021 (2)](#alicja-piotrkowicz-2021-2)
+`q2 i?` Reflection content differed by setting and year, e.g. infection control was one of the key focuses of secondary care reflections in 2018/19, with "dry" and "hands" among the most frequent words. [→ Alicja Piotrkowicz 2021 (2)](#alicja-piotrkowicz-2021-2)
 
 ## Evidence
 

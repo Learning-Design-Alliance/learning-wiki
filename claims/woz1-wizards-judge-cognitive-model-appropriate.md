@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-27
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: sandra-schulz-bruce-m-mclaren-niels-pinkwart-2023
     resource: "https://doi.org/10.1007/s40593-022-00305-2"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` After the second and third WOZ I interventions, most wizards found the cognitive model appropriate for supporting students as described (N = 7). [→ Sandra Schulz · Bruce M. McLaren · Niels Pinkwart 2023](#sandra-schulz-bruce-m-mclaren-niels-pinkwart-2023)

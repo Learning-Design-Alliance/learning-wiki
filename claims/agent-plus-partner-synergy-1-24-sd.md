@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-27
 evidence_strength: weak
+newest_evidence: 2016
 sources:
   - id: carolyn-penstein-rosé-oliver-ferschke-2016
     resource: "https://doi.org/10.1007/s40593-016-0107-y"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2` · `i3` large
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` The review reports that in the Kumar et al. study, working with a partner student and with support of an agent led to a 1.24 standard deviation improvement in learning over a control condition where students worked alone. [→ Carolyn Penstein Rosé & Oliver Ferschke 2016](#carolyn-penstein-rose-oliver-ferschke-2016)

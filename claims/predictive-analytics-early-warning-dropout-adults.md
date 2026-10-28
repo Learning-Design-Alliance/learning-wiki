@@ -9,13 +9,14 @@ generated:
   at: 2026-10-10
 evidence_strength: weak
 newest_evidence: 2026
+source_checked: 2026-10-28
 recheck_by: 2029
 sources:
   - id: theodora-2026
     resource: "https://doi.org/10.48550/arxiv.2605.16296"
     title: "Theodora, A., & Tselios, N. (2026). Artificial Intelligence in Lifelong Learning: Opportunities and Challenges in Adult Education Policy. https://arxiv.org/abs/2605.16296 [doi:10.48550/arxiv.2605.16296](https://doi.org/10.48550/arxiv.2605.16296)"
     author: "Theodora, A., & Tselios, N."
-    q: 2
+    q: 1
     i: "?"
     kind: review
     rigour: 2
@@ -24,11 +25,11 @@ sources:
 # Predictive learning analytics can generate early warnings of dropout risk and trigger targeted interventions in adult education
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
+> **Evidence** · 1 study · review `r2` · `q1`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-28 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
-`q2 i?` By analysing patterns such as reduced participation or declining performance, AI systems can generate early dropout warnings and trigger targeted interventions, which matters where adult dropout rates are high. [→ Theodora 2026](#theodora-2026)
+`q1 i?` By analysing patterns such as reduced participation or declining performance, AI systems can generate early dropout warnings and trigger targeted interventions, which matters where adult dropout rates are high. [→ Theodora 2026](#theodora-2026)
 
 ## Evidence
 
@@ -36,9 +37,9 @@ sources:
 
 Theodora, A., & Tselios, N. (2026). Artificial Intelligence in Lifelong Learning: Opportunities and Challenges in Adult Education Policy. https://arxiv.org/abs/2605.16296 [doi:10.48550/arxiv.2605.16296](https://doi.org/10.48550/arxiv.2605.16296)
 
-`q2 · i?` · `review · r2`
+`q1 · conceptual policy paper` · `i?` · `review · r2`
 
-The review describes predictive analytics as a significant development in learning analytics for identifying learners at risk of dropping out, citing Siemens & Baker. It notes this is especially important in adult education, where competing work and family responsibilities can drive high dropout. No effect sizes are printed.
+This conceptual policy paper, which draws on the literature and policy frameworks rather than reviewing studies systematically, describes predictive analytics as a significant development in learning analytics for identifying learners at risk of dropping out, citing Siemens & Baker. It notes this is especially important in adult education, where competing work and family responsibilities can drive high dropout. No effect sizes are printed.
 
 > "By analysing patterns such as reduced participation or declining performance, AI systems can generate early warnings and trigger targeted interventions."
 

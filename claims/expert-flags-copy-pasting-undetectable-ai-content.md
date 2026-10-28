@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-27
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: mehedi-hasan-anik-2023
     resource: "https://doi.org/10.21203/rs.3.rs-3481002/v1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q1`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` An expert interviewee reported that AI tools increased student writing proficiency but raised concerns about copy-pasting and plagiarism tools being unable to detect AI-generated content. [→ Mehedi Hasan Anik 2023](#mehedi-hasan-anik-2023)

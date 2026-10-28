@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-27
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: fabian-santiago-muñoz-2025
     resource: "https://doi.org/10.1007/s40593-025-00502-9"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The choice of data transformation technique influences clustering outcomes. [→ Fabian Santiago-Muñoz 2025](#fabian-santiago-munoz-2025)

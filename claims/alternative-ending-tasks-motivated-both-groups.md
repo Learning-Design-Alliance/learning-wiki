@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-27
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: andrea-roxana-bellot-2025
     resource: "https://doi.org/10.1007/s40593-025-00497-3"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Open-response item Q18 showed both groups highly motivated: the control group cited creative freedom, fun and peer interaction, while the experimental group cited novelty, efficiency and educational value of ChatGPT, with concerns about fairness, stress and impersonality. [→ Andrea Roxana Bellot 2025](#andrea-roxana-bellot-2025)
