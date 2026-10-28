@@ -13,7 +13,7 @@ generated:
 # Feedback
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 201 claims (89 for, 97 mixed, 15 against) · 152 studies (60 causal, 31 review, 20 quant-synthesis, 15 associational, 9 qualitative, 9 design, 8 theoretical), `q1`–`q4` · 38 of 152 report an effect size · 178 claims rest on one study
+> **Evidence** · 205 claims (91 for, 99 mixed, 15 against) · 155 studies (61 causal, 31 review, 20 quant-synthesis, 15 associational, 11 design, 9 qualitative, 8 theoretical), `q1`–`q4` · 38 of 155 report an effect size · 182 claims rest on one study
 
 ## Description
 Feedback is information provided to learners about their performance or understanding, intended to close the gap between current and desired performance. Effective feedback answers three questions: Where am I going? How am I doing? Where to next? ([Hattie & Timperley, 2007](https://doi.org/10.3102/003465430298487)). It functions as the corrective mechanism in any instructional cycle that includes [Practice](practice.md) or [Assessment](assessment.md).
@@ -249,6 +249,10 @@ Feedback is among the most powerful influences on learning, but its effects are 
 - [Dynamically generated natural-language feedback was not demonstrated to be superior to a non-NLP feedback condition that told students the answer](../claims/beetle-ii-elicit-vs-tell-no-superiority.md) [~W]
 - [Emotional feedback from an animated pedagogical agent produced no significant learning performance gain but made the learning process more engaging](../claims/emotional-feedback-engaging-not-performance.md) [~W]
 - [Including videos of the students' own human teacher giving motivational feedback was more effective than an animated pedagogical agent and improved homework completion rates](../claims/teacher-videos-beat-pedagogical-agent-motivation.md) [+W]
+- [AI feedback after sessions can provide on average eight qualified comments aligned with expert feedback per 30-min lesson](../claims/ai-feedback-eight-comments-per-lesson.md) [+W]
+- [Human experts provide more nuanced and mixed feedback than ChatGPT-4o and Perplexity in mixed reality simulation mentoring](../claims/human-experts-more-nuanced-feedback-than-llm-mrs.md) [+W]
+- [LLM-enhanced feedback did not yield a statistically significant improvement in final grades compared with traditional AI feedback](../claims/llm-feedback-no-significant-grade-gain.md) [~W]
+- [AI-assisted interpretation of mockup review comments revealed low Clarity scores in Map and Bud projects](../claims/genai-mockup-review-clarity-scores.md) [~W]
 
 ## Design Decisions
 <!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice

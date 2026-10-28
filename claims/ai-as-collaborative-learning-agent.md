@@ -57,3 +57,4 @@ Cross-cutting finding reported in the abstract and RQ2 findings: learners direct
 - [The main student use of GAI tools consistently in view was supporting language-usage and text production](student-gai-use-text-production.md) — related
 - [GAI-assisted DST creation produced significantly better team creativity performance than traditional methods, particularly in novelty and user experience](gai-assisted-dst-improves-team-creativity.md) — related
 - [Anderson's structured cognitive tutoring systems and Papert's constructionist approach embody contrasting positions on control and learner agency](anderson-papert-comparative-models-control-agency.md) — related
+- [Example-tracing tutors support a variety of pedagogical approaches beyond step-based problem solving, including collaborative learning, educational games, and guided invention activities.](example-tracing-tutors-support-varied-pedagogies.md) — related

@@ -90,3 +90,4 @@ Three separate regressions at item-group level; selecting items explained 40.3% 
 - [Re-analyses support PSVT:R structural validity: degree of rotation explains 66.9% of item-difficulty variance, though modified problematic items show no rotation-difficulty relationship](psvtr-rotation-difficulty-validity-reanalysis.md) — related
 - [CASTLE's cognitive influence hypothesis states that (para-)social processes influence selection, organization, integration, and retrieval of information](parasocial-processes-influence-cognitive-processing.md) — related
 - [Test tasks requiring analysis, selection and organization of elements give better predictive results per unit cost than simpler tasks](analytic-tasks-better-prediction-per-cost.md) — related
+- [Recall versus recognition response format changes difficulty estimates for vocabulary items](recall-recognition-difficulty-differ.md) — related

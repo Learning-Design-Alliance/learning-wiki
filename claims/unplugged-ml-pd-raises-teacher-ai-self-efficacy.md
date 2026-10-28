@@ -9,6 +9,7 @@ generated:
   at: 2026-10-11
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-10-28
 sources:
   - id: sung-2026
     resource: "https://doi.org/10.19173/irrodl.v27i2.9140"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-10-28 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` After the online professional development intervention, participants' AI self-efficacy increased from below-moderate to above-moderate levels. [→ Sung 2026](#sung-2026)
@@ -49,7 +50,7 @@ Pre/post study of an online PD program with ten K–12 educators who created exp
 - [Thematic analysis identified three outcomes: AI concepts became explainable and learnable, participants gained enhanced understanding of classification processes, and participants valued the practical applicability of unplugged approaches](thematic-outcomes-unplugged-ai-literacy-pd.md) — related
 - [Sentiment toward AI in education shifted from negative to positive, with negative descriptors falling from 30% of participants to 0% after the intervention](sentiment-shift-negative-to-positive-ai-education.md) — related
 - [Students’ prompt self-efficacy increased significantly after the scaffolded GenAI course (t = 3.729, p < .001)](prompt-self-efficacy-significant-increase.md) — related
-- [SDT-driven activity system redesign in Cycle 2 produced significant pre-post gains in AI-TPACK (d = 0.70), IPACK (d = 0.86), and AI attitude (d = 0.58)](sdt-driven-redesign-capacity-willingness-gains.md) — related
+- [After an SDT-driven redesign of a two-day teacher workshop (one cohort of 26, no control group), self-reported AI-TPACK (d = 0.70), IPACK (d = 0.86) and AI attitude (d = 0.58) rose significantly from pre to post](sdt-driven-redesign-capacity-willingness-gains.md) — related
 - [A within-subjects pilot with 27 professional software engineers found statistically significant self-reported self-efficacy gains across all 10 assessed skill areas after completing the cc-self-train curriculum](cc-self-train-pilot-self-efficacy-gains.md) — related
 - [Immersion in inquiry-based learning significantly increases student teachers' value for procedural knowledge goals and self-efficacy for inquiry, but not substantive knowledge goals](immersion-ibl-increases-procedural-knowledge-goals-self-efficacy.md) — related
 - [Instruction in STEAM AI literacy is predominantly technology-enhanced (82.1% of studies) rather than unplugged (17.9%)](steam-ai-literacy-instruction-technology-enhanced-dominant.md) — related

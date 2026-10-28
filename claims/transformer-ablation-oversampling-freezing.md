@@ -53,3 +53,5 @@ Transformer ablation (Table 5) averaged over the 2 transformer models and hyperp
 - [T-tests show no significant shallow-vs-transformer difference in accuracy, weighted F1 or macro-F1, but a significant ROC-AUC advantage for the shallow model](ttest-roc-auc-advantage-shallow.md) — related
 - [Training the MLP on an oversampled (balanced) MD dataset did not improve performance over training on the unbalanced data](oversampled-balanced-data-no-gain-md-model.md) — related
 - [Class balancing techniques improved fairness in education prediction tasks, with over-sampling also improving accuracy](class-balancing-improves-fairness.md) — related
+- [Reducing BERT to a single encoder layer (BERT (1)) decreases classification performance by .05 points in weighted F1 average compared to the full 12-layer model](bert-encoder-layer-count-affects-classification-performance.md) — related
+- [Class balance and score distribution matter more than overall sample size for training accurate scoring models](class-balance-more-important-than-sample-size.md) — related

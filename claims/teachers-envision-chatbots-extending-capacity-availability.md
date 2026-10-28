@@ -57,3 +57,4 @@ Focus-group thematic analysis identified two complementary ways teachers envisio
 - [AI chatbots enable flexible personalized learning by adapting teaching strategies to individual student needs](chatbot-flexible-personalized-learning.md) — related
 - [Pedagogical considerations and workload reduction potential are additional factors influencing teachers' acceptance of AI-EdTech, beyond trust](pedagogical-considerations-workload-reduction-acceptance-factors.md) — related
 - [The commentary argues there is little evidence that personalised learning technologies have saved teacher time or reduced workload](little-evidence-personalisation-saves-teacher-time.md) — reports the opposite
+- [Computer-based learning systems need to adapt to learners' needs to provide effective personalised instruction](adaptation-needed-for-personalised-instruction.md) — related

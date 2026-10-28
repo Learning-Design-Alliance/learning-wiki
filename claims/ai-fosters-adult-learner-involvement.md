@@ -60,3 +60,5 @@ Thematic analysis of semi-structured interviews with 20 adult learners, prompted
 - [AI-powered multimodal approaches tracking emotional and physiological responses increase student engagement and motivation in collaborative learning](ai-multimodal-monitoring-increases-engagement.md) — related
 - [The article hypothesizes that fostering self-determined, self-regulated and reflective adult educators and learners achieves the goal of creating people who know how to learn](fostering-three-factors-learning-how-to-learn.md) — related
 - [Adult learners expect AI to enhance autonomy through choices, flexible learning spaces, metacognitive awareness, and structured self-assessment](ai-enhances-adult-learner-autonomy.md) — related
+- [Students rated the usefulness of LLM-enhanced combined feedback significantly higher than their own prior expectations](llm-combined-feedback-exceeds-expectations-usefulness.md) — related
+- [A simulated learning companion using menu-based dialogue in an ITS encourages student reflection and articulation, enhancing learning](menu-based-learning-companion-encourages-reflection-articulation.md) — related

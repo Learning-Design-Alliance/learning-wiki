@@ -56,3 +56,4 @@ The abstract reports the temporal coherence analysis comparing Responsible-DKT w
 - [Injecting MBP-KT's global collaborative information consistently improves KT models across RNN, memory-network, Transformer and state-based backbones](mbp-kt-consistently-improves-kt-backbones.md) — related
 - BKT+SK reliably predicts post-test scores using only the earliest 50% of training sequences — related
 - BKT and BKT+SK are the best models for predicting students' post-test scores in tutoring systems with elicit and tell interventions — related
+- [DKT+ regularization addresses two DKT deficits: failure to reconstruct observed interactions and inconsistent knowledge-state transitions across time steps.](dkt-plus-regularization-addresses-reconstruction-and-transition-consistency.md) — related

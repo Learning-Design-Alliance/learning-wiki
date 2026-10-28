@@ -36,7 +36,7 @@ sources:
 # Adaptive Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 76 claims (41 for, 31 mixed, 4 against) · 74 studies (24 causal, 19 review, 10 design, 7 quant-synthesis, 7 associational, 5 theoretical, 2 qualitative), `q1`–`q4` · 11 of 74 report an effect size · 69 claims rest on one study
+> **Evidence** · 79 claims (43 for, 32 mixed, 4 against) · 76 studies (25 causal, 19 review, 11 design, 7 quant-synthesis, 7 associational, 5 theoretical, 2 qualitative), `q1`–`q4` · 11 of 76 report an effect size · 72 claims rest on one study
 
 ## Conditional relationship
 
@@ -196,6 +196,9 @@ Within-system performance, aligned achievement, standardised achievement, delaye
 - [KERMIT observes students' actions and adapts to their knowledge and learning abilities](../claims/kermit-adapts-to-student-actions.md) [+W]
 - [A large-scale USA study of Cognitive Tutors found only limited evidence of relative effectiveness over conventional teaching, with classroom use not strongly controlled](../claims/pane-2014-cognitive-tutor-limited-effectiveness-scale.md) [~W]
 - [Optimizing pedagogical parameters on proxy measures risks trading learning for engagement, and simulated students carry their own accuracy limits](../claims/proxy-optimization-engagement-trap.md) [~W]
+- [Log analysis shows adaptive condition concentrates practice on unmastered concepts while random condition over-practices easy ones](../claims/bkt-adaptivity-log-practice-allocation.md) [+W]
+- [Computer-based learning systems need to adapt to learners' needs to provide effective personalised instruction](../claims/adaptation-needed-for-personalised-instruction.md) [+W]
+- [Adaptive condition shows only a non-significant trend for transfer to engineering outcomes (tower building)](../claims/bkt-adaptivity-tower-building-nonsignificant-trend.md) [~W]
 
 ## Related Principles
 - [Cognitive Load Management](cognitive-load-management.md) — adaptation is the primary mechanism for keeping intrinsic load matched to learner expertise over time

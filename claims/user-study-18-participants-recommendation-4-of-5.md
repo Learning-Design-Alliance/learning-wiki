@@ -68,3 +68,4 @@ The same 18-participant Likert-scale usability study reports "The overall recomm
 - [The FACTRIA-aware chatbot received good usability ratings (SUS 70.84) and high usefulness ratings from most of the 11 stakeholders](factria-chatbot-usability-sus-70-84.md) — related
 - [Teachers rate LearnLens positively across usability, relevance, and accuracy, with all nine Likert items averaging at least 4.1/5](learnlens-teacher-satisfaction-4-1-of-5.md) — related
 - [Users rate chatbots easy to use with clear, relevant, largely accurate responses, but the intrusive pop-up design is the largest annoyance](chatbot-ux-clear-relevant-popup-annoyance.md) — related
+- [Students rated the tutor 3.4 out of 5 overall and particularly liked the worked-out solution feedback](ask-elle-student-satisfaction-3-4-of-5.md) — related

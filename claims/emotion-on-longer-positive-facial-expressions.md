@@ -49,3 +49,4 @@ Within-subject user study with 30 participants (aged 15-55) using MathBuddy in E
 - [MathBuddy's multimodal emotion aggregation matched participant-reviewed emotions at 60% overall accuracy, with sharply reduced recall for the Neutral class](multimodal-emotion-aggregation-60-percent-accuracy.md) — related
 - [Learners showed reliable pre–post changes in facial, vocal, and lexical expressive signals after sustained system use](prepost-changes-expressive-emotion-signals.md) — related
 - [Simulation feedback predicts sadness and neutral facial expressions and metacognitive judgement, but not perceived task difficulty](feedback-predicts-facial-expressions-and-judgement.md) — related
+- [Facial expression recognition of six basic emotions via FACS can detect learner emotional states in real time](facs-six-basic-emotions-detection.md) — related

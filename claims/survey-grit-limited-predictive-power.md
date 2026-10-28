@@ -74,3 +74,4 @@ Table 4 regressions of performance change on survey grit show coefficients of 0.
 - [No evidence of an association between student grit or parental network centrality and the magnitude of pandemic effects on tracking outcomes](null-grit-parental-network-centrality-pandemic-effects.md) — related
 - [The meta-analytic correlation between growth mind-set and academic achievement is weak (r = .10)](growth-mindset-achievement-correlation-weak.md) — related
 - [In a Chicago middle-grades study, the combination of grades and attendance provided the best prediction of high school on-track rates, and adding test scores and grit measures did not further improve prediction](middle-grades-grades-attendance-best-prediction.md) — related
+- [Engagement does not mediate the grade difference between tool users and non-users](engagement-does-not-mediate-grade-difference.md) — related

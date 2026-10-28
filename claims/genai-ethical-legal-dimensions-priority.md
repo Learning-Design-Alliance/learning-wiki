@@ -52,3 +52,4 @@ The thematic analysis of 166 capstone business students' qualitative responses l
 - [Students' key areas of interest in GenAI are real-world business applications, ethical considerations, and future technological advancements](student-genai-interest-areas-applications-ethics-advancements.md) — related
 - [Students view GenAI use on a spectrum from unethical to ethical, with a vast middle grey area of uses such as paraphrasing AI-generated text or generating ideas](genai-use-ethical-spectrum-grey-area.md) — related
 - [Undergraduate business students strongly support integrating GenAI knowledge and application into higher education curricula](business-students-support-genai-curriculum-integration.md) — a broader claim this one bears on
+- [Eight AI Topics Cover Main Processes of Intelligent Agent Operation](eight-ai-topics-cover-agent-processes.md) — related

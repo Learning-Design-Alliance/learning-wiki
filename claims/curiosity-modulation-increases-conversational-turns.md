@@ -57,3 +57,4 @@ Engagement-depth analysis (§5.1) across 270 conversations reported in Table 2: 
 - [Curiosity gains depend on operator sequencing: how operators are ordered across turns, not only which operator is applied, shapes curiosity induction](operator-sequencing-affects-curiosity-gains.md) — related
 - [Commercially optimized study-oriented modes achieve higher learner-side scores than baseline, and CURIOBOT shifts general-purpose LLM behavior toward those patterns via prompting alone](study-oriented-modes-upper-bound-reference.md) — related
 - [Students who engaged more meaningfully with the GenAI tended to have more sustained interest than control students (exploratory)](meaningful-genai-engagement-sustained-interest.md) — related
+- [The competitive Game Show increased students' tutoring engagement relative to baseline](game-show-increases-tutoring-engagement.md) — related

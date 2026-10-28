@@ -13,7 +13,7 @@ generated:
 # Writing Skills
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 158 claims (105 show a difference, 33 mixed, 20 no difference) · 85 studies (32 causal, 26 associational, 10 quant-synthesis, 10 review, 4 theoretical, 3 design), `q1`–`q4` · 31 of 85 report an effect size · 153 claims rest on one study
+> **Evidence** · 160 claims (106 show a difference, 33 mixed, 21 no difference) · 87 studies (34 causal, 26 associational, 10 quant-synthesis, 10 review, 4 theoretical, 3 design), `q1`–`q4` · 32 of 87 report an effect size · 155 claims rest on one study
 
 ## Description
 Writing skills run from the foundational to the compositional. At the foundation are the motor skills of handwriting, knowledge of letters and print, spelling, punctuation, capitalisation and writing speed. Composition is the expression of ideas in writing: setting goals for a piece, deciding on content and structure, and shaping it for an audience and purpose. Genre knowledge is knowing the elements, vocabulary and order a narrative, persuasive or informative text calls for, and argumentative reasoning is the ability to make and support a claim with evidence and judge other people's arguments. The Learner Variability Navigator covers these as five factors across early childhood, the primary and secondary grades and adult learning.
@@ -196,6 +196,8 @@ They are assessed with curriculum-based measures (copying, dictation, spelling, 
 - [GenAI assistance after targeted instruction improves rubric-evaluated writing quality from A- to A](../claims/genai-instruction-writing-quality-gain.md) [+M] — instruction changes it
 - [GenAI assistance shows a leveling effect on writing quality for non-native English speaking students](../claims/genai-quality-leveling-nnes.md) [+M] — instruction changes it
 - [GenAI benefits vary across writing sub-tasks: organization and style improve marginally while policy logic shows no improvement](../claims/genai-subtask-differential-benefits.md) [~M] — instruction changes it
+- [No significant difference in essay-assessment learning gains between TG1 and CG.](../claims/cts-learner-control-no-learning-outcome-gain.md) [-M] — instruction changes it
+- [Writing quality improvement varied with initial proficiency (r = -0.42)](../claims/improvement-varies-with-initial-proficiency.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Wechsler Individual Achievement Test (Third Edition)** (Breaux & Frey, 2010): This multi-battery test can be used in a variety of settings to measure ability and screen for potential learning disabilities. There are extensive written expression sub-tests to analyze Composition abilities.

@@ -13,7 +13,7 @@ generated:
 # Massive Open Online Course (MOOC)
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 37 claims (10 for, 22 mixed, 5 against) · 34 studies (8 associational, 7 causal, 7 review, 5 quant-synthesis, 3 design, 3 theoretical, 1 qualitative), `q1`–`q4` · 6 of 34 report an effect size · 33 claims rest on one study
+> **Evidence** · 38 claims (10 for, 23 mixed, 5 against) · 35 studies (9 associational, 7 causal, 7 review, 5 quant-synthesis, 3 design, 3 theoretical, 1 qualitative), `q1`–`q4` · 6 of 35 report an effect size · 34 claims rest on one study
 
 ## Description and scope
 
@@ -156,6 +156,7 @@ This pattern is scoped to open courses at a scale where teacher time per learner
 - [Course-created forum threads in these MOOCs showed balanced ideological contribution, with only small conservative-leaning exceptions](../claims/threads-ideologically-balanced.md) [~W]
 - [Structural topic models show partisan differences in topic use amount to less than 2% of all MOOC forum posts](../claims/topic-use-converges-across-partisans.md) [~W]
 - [Peer graders in these MOOCs score more leniently and with greater dispersion than the instructor](../claims/peer-grading-lenient-high-dispersion-moocs.md) [~W]
+- [Learning tactics shaped by instructional cues are embedded in different units of study in the MOOC](../claims/instructional-cues-embed-tactics-units.md) [~W]
 
 ## Related Patterns
 - [Online Course Design (Community of Inquiry)](online-course-design.md) — shares concern for interaction design, but MOOC scale makes deep learner-instructor interaction impractical in a way a smaller online course does not face
@@ -171,6 +172,7 @@ This pattern is scoped to open courses at a scale where teacher time per learner
 - [Use a four-week MOOC seminar with rubric self-assessment to develop teachers' OER competencies](../strategies/mooc-seminar-rubric-self-assessment-oer-strategy.md)
 - [KISS-Pro openHPI MOOC on AI for teachers](../designs/kiss-pro-openhpi-mooc-ai-teacher-pd.md) — a self-paced teacher PD course carrying a face-to-face training to a wider audience
 - [Address MOOC personalization at scale by using learners as helpers plus personalization technology to find the right helper at the right time](../strategies/peer-help-personalization-scalable-moocs.md)
+- [Flipped Classroom MOOC with diverse unit-level learning designs as research context](../designs/flipped-classroom-mooc-diverse-unit-designs.md)
 
 ## Key Sources
 - Weller, M. (2018). Twenty years of EdTech. *EDUCAUSE Review, 53*(4). Republished in R. West (Ed.), *Foundations of Learning and Instructional Design Technology*. EdTech Books. [https://edtechbooks.org/lidtfoundations/twenty_years_of_edtech](https://edtechbooks.org/lidtfoundations/twenty_years_of_edtech)

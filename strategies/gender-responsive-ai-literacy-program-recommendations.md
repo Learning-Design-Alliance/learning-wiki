@@ -47,6 +47,7 @@ The article closes with three recommendations for AI literacy program design gro
 ## Related Strategies
 
 - [Develop gender-specific well-being strategies, especially literacy support for male students](gender-specific-wellbeing-strategies-literacy.md)
+- [Build students' mathematics ability, alongside STEM exposure, to foster STEM career interest during middle school.](build-math-ability-to-foster-stem-interest.md)
 
 ## Examples
 -

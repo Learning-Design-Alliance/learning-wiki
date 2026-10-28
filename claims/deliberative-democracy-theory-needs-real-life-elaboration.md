@@ -49,3 +49,4 @@ Authors' interpretive conclusion drawn from the Danish Deliberative Poll finding
 - [Deliberation in the Danish Deliberative Poll produced considerable opinion change, increased knowledge and improved ability to form reasoned opinions among participants](deliberative-poll-opinion-change-knowledge-reasoned-opinions.md) — related
 - [Mutual understanding on the euro prevailed among participants in the Danish Deliberative Poll](deliberative-poll-mutual-understanding.md) — related
 - [Deliberative policy proposals center on inclusive decision making governed by nonrepression and nondiscrimination principles](deliberative-policy-nonrepression-nondiscrimination.md) — related
+- [Deliberative discussion, detectable through dialogue acts, is characterized by social cooperation and openness to persuasion and should lead to better learning outcomes](deliberative-discussion-dialogue-acts.md) — related

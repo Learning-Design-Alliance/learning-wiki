@@ -51,3 +51,4 @@ Coefficient for the SRL change score in the same full regression model with N = 
 - [Within-session help-seeking development predicts unaided post-test performance beyond pre-test performance and static AI-use features](hs-trajectory-predicts-unaided-posttest.md) — reports the opposite
 - [Within a single LLM session, students' help-seeking shifts toward answer- and verification-seeking while explicit self-regulation modestly increases](within-session-hs-shifts-toward-closure-srl-increases.md) — related
 - [Static whole-session summaries of AI use add no detectable post-test variance beyond pre-test performance](static-ai-use-features-no-incremental-posttest-variance.md) — related
+- [Students' SRL scores significantly predict post-curriculum test performance above and beyond prior knowledge](srl-scores-predict-post-test-above-prior-knowledge.md) — related

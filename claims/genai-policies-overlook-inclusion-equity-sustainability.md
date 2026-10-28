@@ -64,3 +64,4 @@ Qualitative policy analysis of GenAI policies from thirty highly ranked universi
 - [Institutional AI adoption is uneven, with partial adoption, incomplete policy development and uncertainty in high-stakes contexts](institutional-ai-governance-uneven.md) — related
 - [Academic integrity terms dominate HI/HIM AI policy content while healthcare regulatory references (HIPAA, FERPA, IRB) appear infrequently](integrity-dominates-regulatory-terms-rare.md) — related
 - [Uneven GenAI access across teams creates a two-speed culture pressuring teams without access despite equally demanding work](genai-two-speed-culture-uneven-team-access.md) — a narrower finding that bears on this claim
+- [Eight AI Topics Cover Main Processes of Intelligent Agent Operation](eight-ai-topics-cover-agent-processes.md) — related

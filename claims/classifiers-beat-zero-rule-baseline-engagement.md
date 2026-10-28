@@ -61,3 +61,4 @@ Results section comparison of the three classifiers against the zero-rule baseli
 - [Decision tree classifiers trained on slide interaction features predict end-of-module outcomes with high accuracy across four K-12 programming courses](dt-slide-interaction-features-predict-module-outcomes.md) — related
 - [Unsupervised time-series clustering identifies low performers more accurately than SVM or decision-tree classifiers trained on two temporal statistics](unsupervised-clustering-beats-feature-classifiers.md) — related
 - [On one graphical differentiation item, eye tracking data predicted students' specific difficulties as a multiclass classification problem](gaze-prediction-specific-math-difficulties-multiclass.md) — related
+- [Machine learning models can predict SRL-use categories early in students' interactions with accuracy significantly above baseline](ml-models-predict-srl-early.md) — related

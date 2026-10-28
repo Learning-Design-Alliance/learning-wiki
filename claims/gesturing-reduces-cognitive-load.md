@@ -68,3 +68,4 @@ The review summarises a Piagetian liquid quantity conservation task study by Pin
 - [Gesturing during learning improves retention and reduces cognitive load](gesturing-during-learning-retention-load.md) — related
 - [Gestures and bodily actions lighten cognitive load and extend mathematical ideas across group members during collaboration](gestures-material-scaffolding-collaboration.md) — a broader claim this one bears on
 - [Suppressing or restricting hand movements disrupts children's arithmetic performance, suggesting gestures play a functional role in calculation](hand-movement-interference-disrupts-calculation.md) — related
+- [Lexical alignment reduces ambiguity and cognitive costs and is detectable as recurrence in conversational data](lexical-alignment-reduces-ambiguity.md) — related

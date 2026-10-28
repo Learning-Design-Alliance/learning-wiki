@@ -38,7 +38,7 @@ grain_size: course, unit
 # Cognitive Apprenticeship
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 30 claims (12 for, 15 mixed, 3 against) · 28 studies (10 causal, 5 quant-synthesis, 4 review, 4 qualitative, 3 associational, 1 design, 1 theoretical), `q1`–`q4` · 3 of 28 report an effect size · 26 claims rest on one study
+> **Evidence** · 31 claims (13 for, 15 mixed, 3 against) · 29 studies (10 causal, 5 quant-synthesis, 4 review, 4 qualitative, 3 associational, 2 theoretical, 1 design), `q1`–`q4` · 3 of 29 report an effect size · 27 claims rest on one study
 
 ## Description and scope
 
@@ -149,6 +149,7 @@ This pattern is general across domains; a clinical round, a writing workshop or 
 - [Expert modeling, feedback, hints, and multiple strategies improve cognitive outcomes, but question prompts show no evident difference from control](../claims/scaffolding-strategy-moderator-question-prompts-null.md) [+W]
 - [Instructor motion is positively associated with BtBC only during scaffolding, not explanation](../claims/instructor-motion-btbc-scaffolding-only.md) [~W]
 - [Engagement was reported more during the unscaffolded fadeout phase, while curiosity and neutral were reported more during the scaffolded learning phase](../claims/affect-differences-scaffolded-fadeout-phases.md) [~W]
+- [A simulated learning companion using menu-based dialogue in an ITS encourages student reflection and articulation, enhancing learning](../claims/menu-based-learning-companion-encourages-reflection-articulation.md) [+W]
 
 ## Related Patterns
 - [Four-Component Instructional Design](4cid-four-component-instructional-design.md) — shares the principle of worked examples fading to full tasks; provides more formal scaffolding design rules for complex learning

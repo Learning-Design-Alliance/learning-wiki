@@ -69,3 +69,4 @@ Additional review attribution, citing Wigfield and Cambria (2010), that task val
 - [Different value components differentially predict outcomes: low cost for achievement, attainment value for effort, and utility value uniquely predicting none](value-components-differential-prediction-outcomes.md) — related
 - [Student-level achievement and aspirations positively predict subsequent expectancy and utility value, but not effort cost](achievement-aspirations-predict-beliefs-reciprocal.md) — related
 - [Emotional attitude is claimed to be of the greatest importance in learning](emotional-attitude-central-to-learning.md) — related
+- [High SRL students report significantly more interest/enjoyment, effort/importance, and value/usefulness than Medium or Low SRL students](high-srl-higher-motivation-subscale-scores.md) — related

@@ -72,3 +72,4 @@ EFA on 89 seventh-graders (SG1) grouped 15 of 18 items into five factors; a CFA 
 - [The post-interaction reflection instrument showed satisfactory internal consistency (Cronbach's α = .863)](ai-reflection-instrument-alpha-863.md) — related
 - [A high Cronbach's alpha across items measuring distinct knowledge aspects indicates the test is not working as intended](high-alpha-indicates-domain-knowledge-test-failure.md) — related
 - [Acceptance of individual and collective cheating form two distinct factors in students' responses](individual-collective-cheating-two-factor-distinction.md) — related
+- [EFA of the CONNECT instrument identifies seven transversal-skill components](seven-transversal-skill-components-efa.md) — related

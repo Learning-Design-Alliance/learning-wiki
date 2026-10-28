@@ -9,6 +9,7 @@ generated:
   at: 2026-10-09
 evidence_strength: weak
 newest_evidence: 2026
+source_checked: 2026-10-28
 sources:
   - id: gartrell-2026
     resource: "https://doi.org/10.51388/20.500.12265/299"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q1`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-10-28 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` By compressing the time from idea to prototype, AI tools allow UX teams to spend more time on understanding the problem and aligning the team around how to solve it. [→ Gartrell 2026](#gartrell-2026)
@@ -52,3 +53,4 @@ Authors' practitioner claim (core insight) about AI-enabled workflows, presented
 - [Low-fidelity prototype evaluation found initial UI options overwhelming and checkbox selections unintuitive](paper-prototype-overwhelming-options-feedback.md) — related
 - [Rapid AI generation may compress exploratory learning processes and reduce encounters with failure and material constraints](ai-generation-compresses-learning-processes.md) — reports the opposite
 - [Operation Warp Speed illustrates that purpose-built agile R&D structures can compress time-to-impact during systemic disruption](ows-agile-rd-compressed-vaccine-timeline.md) — related
+- [GenAI tools proved most valuable in early UX ideation stages, while design and testing require a human touch](genai-most-valuable-early-ux-stages.md) — related

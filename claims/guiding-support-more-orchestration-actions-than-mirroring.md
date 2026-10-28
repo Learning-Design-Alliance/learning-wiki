@@ -57,3 +57,4 @@ Epistemic network analysis of coded teacher actions across six teachers' classro
 - [Teacher-facing dashboards that mirror or guide increase teacher awareness and targeted interventions during classroom orchestration](dashboard-conditions-increase-teacher-awareness-and-interventions.md) — a broader claim this one bears on
 - [The alerting & guiding dashboard reduced teachers' overall workload more than the mirroring dashboard in authentic settings (H2 supported)](alerting-guiding-dashboard-reduces-teacher-workload.md) — related
 - [Mirroring-condition teachers relied more on indicator views while alerting and advising teachers opened more group overviews](mirroring-teachers-rely-on-indicators-not-group-overviews.md) — related
+- [Mirroring systems display basic actions to collaborators](mirroring-systems-display-basic-actions.md) — related

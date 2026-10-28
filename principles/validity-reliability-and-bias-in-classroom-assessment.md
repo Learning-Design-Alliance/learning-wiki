@@ -36,7 +36,7 @@ sources:
 # Validity, Reliability, and Bias in Classroom Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 297 claims (128 for, 146 mixed, 23 against) · 222 studies (86 associational, 53 design, 29 review, 25 theoretical, 20 causal, 6 quant-synthesis, 3 qualitative), `q1`–`q3` · 20 of 222 report an effect size · 290 claims rest on one study
+> **Evidence** · 299 claims (129 for, 147 mixed, 23 against) · 224 studies (86 associational, 55 design, 29 review, 25 theoretical, 20 causal, 6 quant-synthesis, 3 qualitative), `q1`–`q3` · 20 of 224 report an effect size · 292 claims rest on one study
 
 ## Conditional relationship
 
@@ -371,6 +371,8 @@ Content validity, construct validity, criterion validity, consistency across occ
 - [Aberrant student behavior produces systematic, non-random data biases: cheating concentrated in difficult exercises and domain-dependent rapid guessing](../claims/aberrant-behavior-systematic-data-biases.md) [~W]
 - [Machine translation of training and test data does not degrade monolingual content scoring performance and can normalize learner errors](../claims/mt-normalizes-learner-errors-scoring.md) [~W]
 - [Prior machine learning research on reflection detection covers only partial models with no evidence of empirical validity and mostly no reported inter-rater reliability](../claims/prior-ml-reflection-research-fragmented-unvalidated.md) [-W]
+- [The scoring models showed no meaningful demographic bias in pairwise standardized mean differences or mixed-effects prediction error analysis](../claims/no-meaningful-demographic-bias-naep-scoring-models.md) [+W]
+- [Linear regression shows automated grade predicts manual grade (R² = 0.829)](../claims/regression-automated-predicts-manual-grade-r2-0829.md) [~W]
 
 ## Related Principles
 - [Criterion- and Norm-Referenced Testing](criterion-and-norm-referenced-testing.md) — validity and reliability apply to standardized as well as teacher-made assessments, with additional considerations

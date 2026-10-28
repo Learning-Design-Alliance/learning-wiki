@@ -13,7 +13,7 @@ generated:
 # Algebraic Thinking
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 53 claims (33 show a difference, 15 mixed, 5 no difference) · 35 studies (18 causal, 6 associational, 4 review, 3 theoretical, 2 qualitative, 1 quant-synthesis, 1 design), `q1`–`q4` · 7 of 35 report an effect size · 50 claims rest on one study
+> **Evidence** · 54 claims (33 show a difference, 15 mixed, 6 no difference) · 36 studies (19 causal, 6 associational, 4 review, 3 theoretical, 2 qualitative, 1 quant-synthesis, 1 design), `q1`–`q4` · 7 of 36 report an effect size · 51 claims rest on one study
 
 ## Description
 Algebraic thinking is the ability to generalise, represent, justify and reason with abstract mathematical structures and relationships: noticing that a pattern holds for all numbers, writing it with symbols, and arguing why it holds. The Learner Variability Navigator stresses that it is not only a secondary-school subject: in the primary grades it deepens understanding of arithmetic, for example by making the properties of operations explicit, and it helps students connect separate parts of their early mathematics. It is assessed with written early-algebra assessments and with researcher-designed measures that separate conceptual knowledge, procedural knowledge and flexibility in solving equations.
@@ -90,6 +90,7 @@ LVN follows it from grade 3 to grade 10. It links forward to [geometric reasonin
 - [Pre-test mathematical performance and self-efficacy are the most important predictors of post-test math performance in a random forest model](../claims/pretest-performance-selfefficacy-predict-posttest-math.md) [+W] — learners who differ on it differ in outcomes
 - [Relational reasoning appears malleable and trainable, but may stabilize in adulthood without relevant experience](../claims/relational-reasoning-malleable-and-trainable.md) [~M] — instruction changes it
 - [Prior knowledge significantly predicted algebra posttest scores and learning gains, with high-prior-knowledge students scoring higher and low-prior-knowledge students gaining more](../claims/prior-knowledge-moderates-algebra-outcomes.md) [+M] — learners who differ on it differ in outcomes
+- [Students improved procedural equation-solving skill after tutoring SimStudent, but conceptual understanding did not improve](../claims/tutoring-simstudent-improves-procedural-not-conceptual.md) [-W] — instruction changes it
 
 ## Measures
 - **Early algebra assessment** (Blanton et al., 2015): Written assessment to measure students' understanding of core algebraic concepts and practices.

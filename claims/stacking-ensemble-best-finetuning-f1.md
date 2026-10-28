@@ -57,3 +57,4 @@ Fine-tuning experiment evaluating 120 stacking combinations by F1-score during t
 - [On one graphical differentiation item, eye tracking data predicted students' specific difficulties as a multiclass classification problem](gaze-prediction-specific-math-difficulties-multiclass.md) — related
 - [The generalised plait ensemble outperforms single classifiers, majority-vote and stacking ensembles, substantially improving perceived task-difficulty classification (e.g., SVM plait error 14.54%, KNN plait 12.84%).](plait-ensemble-outperforms-single-and-standard-ensembles.md) — related
 - [Log-file features are suitable for recognising perceived task-difficulty per task, with SVM the best single classifier (25.24% average test error).](svm-best-single-classifier-task-difficulty.md) — related
+- [SVM classifier on sentence embeddings classifies comment correctness with F1 = 0.914 and Cohen's K = 0.764](svm-embeddings-classify-comments-f1-0914.md) — related

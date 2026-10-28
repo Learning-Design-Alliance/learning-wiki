@@ -14,7 +14,7 @@ grain_size: course
 # AI Tutoring
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 362 claims (161 for, 150 mixed, 51 against) · 246 studies (86 causal, 55 review, 32 design, 27 theoretical, 19 quant-synthesis, 15 associational, 12 qualitative), `q1`–`q4` · 49 of 246 report an effect size · 347 claims rest on one study
+> **Evidence** · 374 claims (165 for, 156 mixed, 53 against) · 254 studies (91 causal, 57 review, 33 design, 27 theoretical, 19 quant-synthesis, 15 associational, 12 qualitative), `q1`–`q4` · 51 of 254 report an effect size · 359 claims rest on one study
 
 ## Description and scope
 
@@ -343,6 +343,18 @@ This pattern is scoped to the tutor's moves within tasks and the handoff to peop
 - [In a thermodynamics course, pairs working with a tutorial dialogue agent learned about 1.24 standard deviations more than students working alone, with partner and agent support synergistic rather than redundant](../claims/agent-plus-partner-synergy-1-24-sd.md) [+W]
 - [Optimizing pedagogical parameters on proxy measures risks trading learning for engagement, and simulated students carry their own accuracy limits](../claims/proxy-optimization-engagement-trap.md) [~W]
 - [Simulated students were used to evaluate whether the prototype engines select rational tutorial actions emulating human tutors](../claims/simulated-students-evaluate-action-selection.md) [~W]
+- [WritingTutor with high learner control was rated easier to use than static tutoring (TG1 vs CG), but not after Bonferroni correction.](../claims/cts-high-learner-control-ease-of-use-tg1-cg.md) [~W]
+- [The Genetics Tutor produced average pretest-to-posttest learning gains of about 18 percentage points across 45 single-unit evaluations.](../claims/genetics-tutor-18-percentage-point-gains.md) [~W]
+- [CTAT-built example-tracing tutors have been shown to be effective in helping students learn in real educational settings, often with large pre/post effect sizes.](../claims/example-tracing-tutors-effective-real-settings-large-effect-sizes.md) [+W]
+- [Example-tracing tutors support a variety of pedagogical approaches beyond step-based problem solving, including collaborative learning, educational games, and guided invention activities.](../claims/example-tracing-tutors-support-varied-pedagogies.md) [+W]
+- [The Fractions Tutor leads to significant learning gains in fractions knowledge that persist over at least one week.](../claims/fractions-tutor-significant-learning-gains.md) [+W]
+- [Human experts provide more nuanced and mixed feedback than ChatGPT-4o and Perplexity in mixed reality simulation mentoring](../claims/human-experts-more-nuanced-feedback-than-llm-mrs.md) [-W]
+- [LLM-enhanced feedback did not yield a statistically significant improvement in final grades compared with traditional AI feedback](../claims/llm-feedback-no-significant-grade-gain.md) [~W]
+- [The empirical evidence for claimed pedagogical benefits of virtual characters is weak and inconclusive](../claims/virtual-character-pedagogical-benefits-weak-evidence.md) [-W]
+- [Next-Step hints outperform Waypoint hints on posttest total steps and accuracy](../claims/next-step-hints-outperform-waypoints-posttest.md) [+W]
+- [Waypoint hints show lower justification and adoption rates than Next-Step hints](../claims/waypoints-lower-justification-adoption.md) [~W]
+- [No correlation between motivation or engagement measures and tutor learning gains](../claims/no-correlation-motivation-learning-gain.md) [~W]
+- [Next-Step hints outperform Waypoint hints during training on time, steps, accuracy, and score](../claims/next-step-hints-outperform-waypoints-training.md) [~W]
 
 ## Examples
 - [ChatGPT as a virtual laboratory assistant in a sociotechnical system](../designs/sts-theory-chatgpt-virtual-laboratory-assistant.md) — ChatGPT answers lab questions beside human TAs, not in their place

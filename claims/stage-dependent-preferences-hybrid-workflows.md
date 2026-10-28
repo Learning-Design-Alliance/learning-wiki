@@ -53,3 +53,4 @@ Interview findings from the 24-teacher mixed-methods study: "15 teachers explici
 - [In teacher-AI learning task design studies, GenAI tools are predominantly used for lesson planning, prompt generation, and creative ideation, while traditional AI tools are commonly used for designing analytics and feedback](genai-for-planning-ideation-traditional-ai-for-analytics-feedback.md) — related
 - [Students found AI effective for ideation and formatting but unreliable for practical experimental details](ai-effective-ideation-unreliable-practical-details.md) — related
 - [Teachers perceived the AIED-U system as a mixed experience: valued exercise lists and reports, but recognition imprecision and workflow demands added work](teachers-mixed-perception-aied-u-system.md) — related
+- [GenAI tools proved most valuable in early UX ideation stages, while design and testing require a human touch](genai-most-valuable-early-ux-stages.md) — related

@@ -52,3 +52,6 @@ Paired t-tests in the pretest-intervention-posttest study with 23 middle school 
 - [%KBR correlated with prior knowledge only among high-prior students, not among low-prior students](kbr-prior-correlation-only-high-prior.md) — related
 - [Low-prior-knowledge tutors with high %KBR outperformed their low-%KBR counterparts at post-test and scored statistically equivalent to high-prior peers](low-prior-high-kbr-match-high-prior-peers.md) — related
 - [Both sequencing groups improved in conceptual and procedural knowledge, with no significant group-by-time interaction](both-groups-improved-knowledge-no-sequencing-interaction.md) — related
+- [Game Show availability did not affect tutor learning on either test](game-show-no-effect-tutor-learning.md) — related
+- [Tutoring after competition was rare and not predictive of procedural learning gains](low-tutoring-after-competition-not-predictive.md) — related
+- [Students improved procedural equation-solving skill after tutoring SimStudent, but conceptual understanding did not improve](tutoring-simstudent-improves-procedural-not-conceptual.md) — reports the opposite

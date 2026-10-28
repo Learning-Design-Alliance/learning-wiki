@@ -22,7 +22,7 @@ sources:
 # Hints
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 21 claims (6 for, 14 mixed, 1 against) · 15 studies (6 causal, 3 design, 2 review, 2 associational, 1 qualitative, 1 theoretical), `q2`–`q3` · 4 of 15 report an effect size · 20 claims rest on one study
+> **Evidence** · 24 claims (8 for, 15 mixed, 1 against) · 16 studies (7 causal, 3 design, 2 review, 2 associational, 1 qualitative, 1 theoretical), `q2`–`q3` · 4 of 16 report an effect size · 23 claims rest on one study
 
 ## Description
 Hints are partial prompts or cues that help learners continue a task without fully giving away the answer. They are useful when the design goal is to preserve productive struggle while reducing the chance of stuckness, confusion, or abandonment.
@@ -71,6 +71,9 @@ Hints are partial prompts or cues that help learners continue a task without ful
 - [Students rarely request on-demand hints in this tutor, with no significant differences between conditions or proficiency groups](../claims/on-demand-hint-requests-rare-and-equivalent.md) [~W]
 - [ITAP's average hint chain length (5.62 token edits) is shorter than the token length of the teacher solution (8.27), suggesting personalized paths](../claims/itap-hint-chains-shorter-than-teacher-solution.md) [~W]
 - [In the hidden-wizard WOZ II study, students' reactions to the wizard's Slack hints were mostly positive, though some hints were read without discussion](../claims/woz2-hidden-wizard-hints-mostly-positive.md) [~W]
+- [Next-Step hints outperform Waypoint hints during training on time, steps, accuracy, and score](../claims/next-step-hints-outperform-waypoints-training.md) [+W]
+- [Next-Step hints outperform Waypoint hints on posttest total steps and accuracy](../claims/next-step-hints-outperform-waypoints-posttest.md) [+W]
+- [Waypoint hints show lower justification and adoption rates than Next-Step hints](../claims/waypoints-lower-justification-adoption.md) [~M]
 
 ## The evidence by question
 

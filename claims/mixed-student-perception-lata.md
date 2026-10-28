@@ -51,3 +51,4 @@ Three 5-point Likert perception items from the anonymous post-term survey (N=159
 - [Students reported first-pass false-positive deductions at a mean of 2.94 per term, normalising to about 0.6% of rubric items](student-reported-grading-errors-lata.md) — related
 - [About 400 labeled proofs are sufficient for adequate autograding performance](400-proofs-sufficient-training.md) — related
 - [Students perceive human graders as more accurate and helpful than the AI autograder](students-trust-humans-more-than-autograder.md) — related
+- [Automated tool reduces correction time by 43% (raw) and 33% (normalised)](automated-tool-reduces-correction-time-43-percent.md) — related

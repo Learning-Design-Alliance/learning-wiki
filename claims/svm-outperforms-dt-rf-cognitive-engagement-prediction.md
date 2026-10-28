@@ -70,3 +70,4 @@ Test-set evaluation of three classifiers trained on 104 Coh-Metrix indicators pl
 - [A multilayer perceptron classifier using German LIWC features classifies cognitive presence phases with accuracy of 0.82 and Cohen's κ of 0.76](german-liwc-mlp-cognitive-presence-classifier-kappa-076.md) — related
 - [Machine-learned Sink/Source classifiers classify information roles with F-scores of 0.914 and 0.908 on noisy student discussion text](sink-source-role-classifiers-accuracy.md) — related
 - [SVM with RoBERTa sentence embeddings was the most accurate automatic scoring method (κ = .82) among the four tested combinations](roberta-svm-most-accurate-scoring-pisa.md) — related
+- [SVM classifier on sentence embeddings classifies comment correctness with F1 = 0.914 and Cohen's K = 0.764](svm-embeddings-classify-comments-f1-0914.md) — related

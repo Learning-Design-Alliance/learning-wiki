@@ -51,3 +51,4 @@ Analysis of the eight rubric sub-tasks (Table 1): organization Z = −1.89, p =.
 - [AI-peer integrated feedback yields significant gains on all four writing dimensions, with the group × dimension interaction showing differential improvement favoring task achievement and lexical resource over coherence and cohesion](ai-peer-feedback-writing-gains-differential.md) — related
 - [Gains from automated scoring concentrated in linguistic accuracy and logical coherence but were absent in information fidelity and delivery fluency](automated-scoring-gains-uneven-across-dimensions.md) — related
 - [ChatGPT-generated text shows inaccuracy, weak logical flow, lack of critical elaboration and non-originality in an author's first-hand test](chatgpt-output-inaccuracy-nonoriginality.md) — related
+- [ChatGPT-assisted revision significantly improved abstract clarity and conciseness ratings](chatgpt-revision-improves-clarity-conciseness.md) — related

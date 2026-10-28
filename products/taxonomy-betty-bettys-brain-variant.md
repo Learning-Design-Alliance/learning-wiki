@@ -28,7 +28,8 @@ A Betty's Brain teachable-agent software variant developed by Doris B. Chin and 
 - [Classroom use of Betty's Brain showed a performance dichotomy: one study found 18 of 40 students made very little progress teaching Betty, while 16 taught a correct or nearly correct map.](../claims/betty-brain-classroom-performance-dichotomy.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [Betty's Brain](bettys-brain.md)
 
 ## Key Sources
 - Doris B. Chin, Ilsa M. Dohmen, and Daniel L. Schwartz. (2013). Young Children Can Learn Scientific Reasoning with Teachable Agents. IEEE Transactions on Learning Technologies. https://doi.org/10.1109/TLT.2013.24

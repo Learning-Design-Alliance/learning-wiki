@@ -35,7 +35,7 @@ sources:
 # Self-Regulated Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 156 claims (64 for, 84 mixed, 8 against) · 109 studies (33 causal, 24 review, 18 associational, 17 quant-synthesis, 13 theoretical, 3 design, 1 qualitative), `q1`–`q4` · 29 of 109 report an effect size · 145 claims rest on one study
+> **Evidence** · 157 claims (64 for, 84 mixed, 9 against) · 110 studies (33 causal, 24 review, 19 associational, 17 quant-synthesis, 13 theoretical, 3 design, 1 qualitative), `q1`–`q4` · 29 of 110 report an effect size · 146 claims rest on one study
 
 ## Conditional relationship
 
@@ -248,6 +248,7 @@ Gains in strategy knowledge, self-reported regulation, self-efficacy, study time
 - [The study examines the development of motivational regulation strategy knowledge and its longitudinal relationship with academic procrastination over the course of study](../claims/motivational-regulation-knowledge-longitudinal-procrastination.md) [~W]
 - [All AI applications and tools predominantly influence the performance phase of SRL, particularly by facilitating monitoring and control](../claims/ai-tools-predominantly-influence-performance-phase.md) [~W]
 - [In the performance phase, AI tools helped learners organize tasks and supported metacognitive monitoring, but sometimes inaccurately reflected tasks and lacked in-depth responses](../claims/ai-performance-phase-benefits-and-drawbacks.md) [~W]
+- [Percentage of students solving the mystery does not differ significantly by SRL group](../claims/no-srl-difference-mystery-completion.md) [-W]
 
 ## Related Principles
 - [Goal Setting & Monitoring](goal-setting-monitoring.md)

@@ -101,3 +101,4 @@ After building an offline evaluation dataset for the Tutor Me request classifier
 - [A git-history audit found 96.3% of AI-generated answer-key question blocks needed no post-release semantic repair](ai-answer-keys-mostly-correct-git-audit.md) — related
 - [Gemma and LLaMA produce higher-quality responses than GPT-2 by TIGERSCORE, with accuracy and comprehension gaps remaining](gemma-llama-outperform-gpt2-tigerscore.md) — related
 - [In a 10-student pilot, EduGuard produced higher post-test accuracy, larger normalized learning gain, lower calibration error, and lower overreliance than GPT-4o-mini Tutor](eduguard-pilot-learning-gain-overreliance.md) — related
+- [Semantic-level communication between tool and tutor allows changes in either component without modifying both together](semantic-messaging-tool-tutor-decoupling.md) — related

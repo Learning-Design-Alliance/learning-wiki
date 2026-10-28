@@ -52,3 +52,4 @@ Results section comparison of four architectures evaluated with 10-fold cross-va
 - [The proposed Transformer-based framework achieved first place in the EDM Cup 2023 with an AUC of 78.969% on the private evaluation dataset](transformer-kt-first-place-edm-cup-2023.md) — related
 - In a student project on laser-drilled hole diameter detection, GPR significantly outperformed MLP in detection accuracy and training speed — related
 - [Among deep learning KT models, simpler DKT performs comparably to complex architectures under limited dialogue data](dkt-comparable-to-complex-kt-architectures.md) — a broader claim this one bears on
+- [The two-fold training process suffers from overfitting due to the small labeled training set relative to feature dimensionality.](overfitting-from-small-labeled-set-and-high-dimensionality.md) — related

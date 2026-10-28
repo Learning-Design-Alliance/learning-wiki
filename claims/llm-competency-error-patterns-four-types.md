@@ -92,3 +92,4 @@ Manual error analysis found missed nuanced evidence mainly in long learning acti
 - [Retrieval-augmented generation reduces but does not eliminate hallucinations in AI-assisted verification](rag-reduces-not-eliminates-hallucinations.md) — related
 - [LLMs in educational applications hallucinate in 15–25% of responses and can amplify bias against non-native language inputs](llm-hallucination-rate-education.md) — related
 - [GPT-4o frequently makes characteristic errors in homework assessment, including failing to recognize unit and numeric equivalences, marking complete solutions incomplete, and mishandling alternative methods and notations](gpt4o-characteristic-assessment-error-types.md) — related
+- [Authoring by Tutoring produces fewer errors of all types than Authoring by Demonstration](tutoring-fewer-error-types-than-demonstration.md) — related

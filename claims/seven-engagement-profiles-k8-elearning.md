@@ -64,3 +64,4 @@ Observational log analysis of anonymized activity data from 67,686 students in 2
 - [The theory-into-game profile appears only in Grades 1–5 and the traditional comprehensive profile is absent in Grade 1](grade-specific-profile-presence-theory-into-game.md) — related
 - [Trace data is the dominant data type LA uses to support feedback in higher education (36% of coded data types)](trace-data-dominant-la-feedback.md) — related
 - [Data-driven clustering of struggling learners identifies behavioral subgroups distinguished by structural brain connectivity](clustering-subgroups-struggling-learners.md) — related
+- [Cluster analysis of MOOC trace data identifies four learning tactics: Search oriented, Content and assessment oriented, Content oriented, and Assessment oriented](four-learning-tactics-mooc-cluster-analysis.md) — related

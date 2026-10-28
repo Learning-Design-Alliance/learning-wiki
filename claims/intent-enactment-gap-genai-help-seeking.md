@@ -79,3 +79,4 @@ Same correlational intent-enactment analysis, reporting null associations for le
 - [Within a single LLM session, students' help-seeking shifts toward answer- and verification-seeking while explicit self-regulation modestly increases](within-session-hs-shifts-toward-closure-srl-increases.md) — related
 - [Metacognitive knowledge and intentions to use effective strategies do not reliably translate into actual strategy use (intention-behavior gap)](intention-behavior-gap-strategy-use.md) — related
 - [Adolescent digital self-regulation is enacted through a typology of four strategy types differing in executive effort versus external scaffolding](adolescent-digital-self-regulation-strategy-typology.md) — related
+- [Goal orientation affects children's help-seeking behaviour in Ecolab II](goal-orientation-affects-help-seeking-ecolab-ii.md) — related

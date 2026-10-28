@@ -117,6 +117,7 @@ Prompts work by triggering self-explanations and strategic processing that learn
 - [Indirect training: prompting metacognitive regulation in regular subject classes to promote transfer across contexts](../strategies/indirect-training-prompted-metacognitive-regulation.md)
 - [Design CSCL environments to remind learners to think as a group and scaffold cognitive group awareness](../strategies/reminders-group-thinking-and-group-awareness-cscl.md)
 - [Prompt self-generated planning rather than simple reminders to protect student agency and avoid overreliance](../strategies/prompt-self-generated-plans-not-reminders.md)
+- [Use PCA facilitation messages that prompt reflection on task goals, metacognition, and motivation during collaborative explanation tasks](../strategies/pca-facilitation-prompt-types.md)
 
 ## Key Sources
 - Chi, M. T. H., Bassok, M., Lewis, M. W., Reimann, P., & Glaser, R. (1989). Self-explanations: How students study and use examples in learning to solve problems. *Cognitive Science, 13*(2), 145–182. [doi:10.1207/s15516709cog1302_1](https://doi.org/10.1207/s15516709cog1302_1)

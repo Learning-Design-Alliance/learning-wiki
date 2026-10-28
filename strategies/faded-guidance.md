@@ -64,6 +64,7 @@ Fading operationalizes the [Scaffolding](../principles/scaffolding.md) principle
 - [Self-Explanation](../elements/self-explanation.md) — prompts that keep faded steps cognitively active
 - [Mastery Learning](mastery-learning.md) — an alternative criterion for deciding when to fade (performance-based rather than sequence-based)
 - [Use learner skill levels to determine when to transition from worked examples to problem solving in tutoring systems](skill-based-adaptive-fading-schedule.md)
+- [Provide student-adaptive self-explanation prompts that target only example parts the student may not fully understand, rather than prompting at every step](adaptive-selective-self-explanation-prompting.md)
 
 ## Examples
 - **[4C/ID](../patterns/4cid-four-component-instructional-design.md)** — van Merriënboer's whole-task design explicitly prescribes fading support across task classes as expertise develops; used in technical and medical training curricula.

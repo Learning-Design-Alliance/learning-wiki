@@ -54,3 +54,4 @@ Path analysis regression coefficient from the classroom study; the article state
 - [Tutors showed significant pre-to-post gains in both conceptual knowledge and procedural skill after teaching with adaptive follow-up questioning](significant-prepost-gains-ckt-pst.md) — related
 - Pre-test scores strongly predict post-test scores but not normalized learning gains — related
 - [Pretest performance and average math grade correlate with conceptual knowledge but not procedural knowledge posttest scores](pretest-grade-correlate-conceptual-not-procedural.md) — related
+- [Game Show availability did not affect tutor learning on either test](game-show-no-effect-tutor-learning.md) — related

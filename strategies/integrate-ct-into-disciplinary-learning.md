@@ -51,6 +51,7 @@ The guide recommends that educators embed computational thinking into topics the
 - [Embed subject-specific web credibility modules into existing courses rather than creating standalone courses](embed-subject-specific-credibility-modules.md)
 - [Integrate AI literacy into disciplinary core subjects rather than adding a new AI subject](integrate-ai-literacy-into-core-subjects.md)
 - [Embed computational thinking across existing K-12 subject areas using everyday and data-based activities](embed-ct-across-subject-areas.md)
+- [Integrate AI education throughout the K-12 curriculum via innovative approaches to integrative AI-science, AI-math, AI-language arts, and AI-social science education](integrative-ai-education-across-disciplines.md)
 
 ## Examples
 -

@@ -55,3 +55,5 @@ Reliability analysis comparing DAC-filter coding to a human coder familiar with 
 - [The rule-based recipe annotation system reaches near-perfect inter-annotator agreement (Cohen's Kappa 0.85) and average accuracy 0.95 in a validation on sampled recipe segments.](relex-annotation-validation-kappa-accuracy.md) — related
 - [Automated analysis accuracies were on average 10% lower than the accuracies of manual analysis](ml-accuracy-ten-percent-below-manual-coding.md) — related
 - [Machine learning detects five of eight reflective-writing categories with substantial or almost perfect reliability and three with moderate reliability (Cohen's κ .53–.85)](ml-detects-reflection-categories-kappa-053-085.md) — related
+- [Deliberative discussion, detectable through dialogue acts, is characterized by social cooperation and openness to persuasion and should lead to better learning outcomes](deliberative-discussion-dialogue-acts.md) — related
+- [Dialogue acts can distinguish balanced, supportive collaborative learning groups from unbalanced, unsupportive ones](dialogue-acts-distinguish-group-types.md) — related

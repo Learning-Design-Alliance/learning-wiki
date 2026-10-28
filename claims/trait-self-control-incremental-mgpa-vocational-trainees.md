@@ -54,3 +54,4 @@ Simultaneous multivariate multiple regression in Mplus with cluster-robust stand
 - [Trait emotional intelligence showed no significant association with university GPA, despite correlating with engagement, SRL strategies and self-efficacy](trait-ei-no-direct-association-university-gpa.md) — related
 - [Fluid reasoning significantly predicted enjoyment but not self-efficacy after accounting for adaptability and covariates](fluid-reasoning-predicts-enjoyment-not-self-efficacy.md) — related
 - [Conscientiousness is positively associated with course grades and final examination grades in mathematics and English after controlling for covariates](conscientiousness-positively-predicts-grades-adjusted.md) — related
+- [Students' SRL scores significantly predict post-curriculum test performance above and beyond prior knowledge](srl-scores-predict-post-test-above-prior-knowledge.md) — related

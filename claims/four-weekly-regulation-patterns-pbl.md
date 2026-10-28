@@ -51,3 +51,4 @@ Model-based clustering (Gaussian mixture models via MoEClust) of each group's we
 - [Students using interactive socioemotional or regulated constructive patterns were more productive cognitively and in knowledge productivity](socioemotional-regulated-patterns-more-productive.md) — related
 - [Gaussian Mixture Modeling identifies two latent clusters of delayed start behavior, outperforming three-cluster and unimodal models](gmm-two-clusters-delayed-start.md) — related
 - [Trace data can capture the temporal progress of regulation as learners engage in learning tasks over time](trace-data-capture-temporal-regulation.md) — related
+- [Cluster analysis of MOOC trace data identifies four learning tactics: Search oriented, Content and assessment oriented, Content oriented, and Assessment oriented](four-learning-tactics-mooc-cluster-analysis.md) — related

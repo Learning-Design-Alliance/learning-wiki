@@ -1,7 +1,7 @@
 ---
 type: claim
-title: SDT-driven activity system redesign in Cycle 2 produced significant pre-post gains in AI-TPACK (d = 0.70), IPACK (d = 0.86), and AI attitude (d = 0.58)
-description: SDT-driven activity system redesign in Cycle 2 produced significant pre-post gains in AI-TPACK (d = 0.70), IPACK (d = 0.86), and AI attitude (d = 0.58)
+title: After an SDT-driven redesign of a two-day teacher workshop (one cohort of 26, no control group), self-reported AI-TPACK (d = 0.70), IPACK (d = 0.86) and AI attitude (d = 0.58) rose significantly from pre to post
+description: After an SDT-driven redesign of a two-day teacher workshop (one cohort of 26, no control group), self-reported AI-TPACK (d = 0.70), IPACK (d = 0.86) and AI attitude (d = 0.58) rose significantly from pre to post
 id: sdt-driven-redesign-capacity-willingness-gains
 status: review
 generated:
@@ -9,6 +9,7 @@ generated:
   at: 2026-10-10
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-10-28
 sources:
   - id: haiyang-xin-2026
     resource: "https://doi.org/10.48550/arxiv.2605.12934"
@@ -20,14 +21,14 @@ sources:
     rigour: 3
 ---
 
-# SDT-driven activity system redesign in Cycle 2 produced significant pre-post gains in AI-TPACK (d = 0.70), IPACK (d = 0.86), and AI attitude (d = 0.58)
+# After an SDT-driven redesign of a two-day teacher workshop (one cohort of 26, no control group), self-reported AI-TPACK (d = 0.70), IPACK (d = 0.86) and AI attitude (d = 0.58) rose significantly from pre to post
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r3` · `q2` · `i3` large
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-10-28 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
-`q2 i3` Paired-sample t-tests showed medium-to-large pre-post improvements in capacity and willingness after the redesigned two-day workshop, with IPACK agent creation capacity at d = 0.86. [→ Haiyang Xin 2026](#haiyang-xin-2026)
+`q2 i3` Paired-sample t-tests on self-report surveys showed medium-to-large pre-post improvements in capacity and willingness among the 26 teachers of the redesigned two-day workshop, with IPACK agent creation capacity at d = 0.86; with no control group, the gains cannot be attributed to the redesign. [→ Haiyang Xin 2026](#haiyang-xin-2026)
 
 ## Evidence
 
@@ -37,7 +38,7 @@ Haiyang Xin, Qiannan Niu, Shuang Li, Yimeng Sun, Ching Sing Chai, Lingyun Huang,
 
 `q2 · i3` · `design · r3`
 
-Paired-sample t-tests comparing pre- and post-intervention scores for 26 Cycle 2 teachers. IPACK showed the largest change (t = -4.38, df = 25, p < .001, d = 0.86); the article reports "medium to large effect sizes" across dimensions.
+A single cohort of 26 volunteer teachers (Cycle 2) completed self-report surveys (7-point Likert scales) at the start of the two-day redesigned workshop and immediately after it, compared with paired-sample t-tests. There was no control or comparison group, so the pre-post gains are associated with the workshop but do not show that the SDT-driven redesign caused them. IPACK showed the largest change (t = -4.38, df = 25, p < .001, d = 0.86); the article reports "medium to large effect sizes" across dimensions.
 
 > "Most notably, AI-TPACK capacity (d = 0.70), IPACK agent creation capacity (d = 0.86), and AI attitude toward sustained use (d = 0.58) all showed medium to large effect sizes."
 

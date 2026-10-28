@@ -66,3 +66,4 @@ Vincent Hoogerheide, Sofie M. M. Loyens, Tamara van Gog. (2016). Learning from v
 ## Related Claims
 - [Model-observer gender combination affects mental effort invested during example study: male students invest less effort with a male model, female students more effort with a male model](gender-interaction-mental-effort-example-study.md) — related
 - [Observing a male model enhances perceived competence more from pretest to posttest than observing a female model, for both male and female observers](male-model-boosts-perceived-competence.md) — related
+- [Students across all genders perceive scientific citizenship positively](scientific-citizenship-positive-across-genders.md) — related

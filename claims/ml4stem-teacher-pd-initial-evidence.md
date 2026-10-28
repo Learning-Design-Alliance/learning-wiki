@@ -47,7 +47,7 @@ Evaluation of the ML4STEM professional development program, which the commentary
 
 ## Related Claims
 - [Team-based professional development is associated with shifts toward more student-centered teaching in qualitative studies, but not in one quantitative online-training study](team-pd-teaching-approach-shift.md) — related
-- [SDT-driven activity system redesign in Cycle 2 produced significant pre-post gains in AI-TPACK (d = 0.70), IPACK (d = 0.86), and AI attitude (d = 0.58)](sdt-driven-redesign-capacity-willingness-gains.md) — related
+- [After an SDT-driven redesign of a two-day teacher workshop (one cohort of 26, no control group), self-reported AI-TPACK (d = 0.70), IPACK (d = 0.86) and AI attitude (d = 0.58) rose significantly from pre to post](sdt-driven-redesign-capacity-willingness-gains.md) — related
 - [An online PD program using unplugged explainable machine-learning activities increased K–12 educators' AI self-efficacy from below-moderate to above-moderate levels](unplugged-ml-pd-raises-teacher-ai-self-efficacy.md) — related
 - [A professional development masterclass produces a 24% overall improvement in educators' AI utilization competence with large effect sizes](pd-masterclass-24-percent-ai-competence-gain.md) — related
 - [The study demonstrates the need for particular instructional supports, including differentiated expertise-building opportunities and addressing teacher beliefs about computational-model construction](instructional-supports-needed-for-complex-systems-implementation.md) — related

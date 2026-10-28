@@ -13,7 +13,7 @@ generated:
 # Metacognitive Strategies
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 10 claims (4 for, 5 mixed, 1 against) · 11 studies (3 theoretical, 2 quant-synthesis, 2 review, 2 associational, 1 causal, 1 qualitative), `q1`–`q4` · 1 of 11 report an effect size · 9 claims rest on one study
+> **Evidence** · 11 claims (5 for, 5 mixed, 1 against) · 12 studies (3 theoretical, 2 quant-synthesis, 2 review, 2 associational, 1 causal, 1 qualitative, 1 design), `q1`–`q4` · 1 of 12 report an effect size · 10 claims rest on one study
 
 ## Description
 Metacognitive strategies are deliberate learner moves for planning, monitoring, checking, and revising thinking during learning. This element captures concrete supports for self-regulation such as confidence checks, self-questioning, and strategy review.
@@ -51,6 +51,7 @@ Metacognitive strategies are deliberate learner moves for planning, monitoring, 
 - [AI takeover of metacognitive monitoring may foster illusion of competence (untested conjecture)](../claims/metacognitive-displacement-illusion-of-competence.md) [~W]
 - [Metacognitive monitoring bias and precision modulate when students stop studying relative to their goals](../claims/comsa-metacognitive-monitoring-stopping.md) [~W]
 - [Effects of monitoring tools are highest when tools address both learning content and learning behavior and stimulate metacognitive monitoring](../claims/monitoring-tool-moderators-focus-and-type.md) [+W]
+- [Interactive open learner modelling can foster reflective thinking](../claims/iolm-fosters-reflective-thinking.md) [+W]
 
 ## Related Elements
 - [Self-Assessment](self-assessment.md)

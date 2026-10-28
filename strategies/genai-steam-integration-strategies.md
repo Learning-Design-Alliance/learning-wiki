@@ -59,6 +59,7 @@ The review recommends a set of classroom strategies: AI-assisted lesson planning
 - [Embed explicit AI-integrity practices such as ethics lessons, usage pledges, and AI-output marking into science instruction](ai-integrity-practices-science-classroom.md)
 - [Reaffirm learning-by-making through STEAM tinkering and critical AI literacy to cultivate epistemic resilience](steam-tinkering-critical-ai-literacy-strategy.md)
 - [Integrate AI-enabled personalized STEM education with teacher participation, project-based collaboration, and cross-disciplinary task design, matched to students' cognitive developmental level](evidence-based-pedagogically-aligned-ai-stem-integration.md)
+- [Develop research programs across four areas of K-12 AI education: Learning & Teaching, Integration into STEM/Language Arts/Social Science, Professional Development, and Assessment](four-areas-k12-ai-education-research.md)
 
 ## Examples
 -

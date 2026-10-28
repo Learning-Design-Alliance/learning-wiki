@@ -70,3 +70,4 @@ Figure 11b plots F1 against inference time for the searched architectures by hid
 - [BERT was the best unimodal text classifier for Key Stage classification with an F1 score of 0.75](bert-best-unimodal-f1-075.md) — related
 - [Fusing transformer text classifiers with a linguistic-feature neural network significantly outperforms unimodal models for UK Key Stage classification, with ELECTRA + ANN reaching F1 = 0.996](multimodal-fusion-outperforms-unimodal-key-stage-classification.md) — related
 - [AI systems relying on black-box models should not be used for high-stakes applications](black-box-ai-not-for-high-stakes-applications.md) — related
+- [SGD classifiers on document-term matrices outperformed explicit linguistic-feature filters for removing low-scoring responses](sgd-classifier-filtering-outperformed-linguistic-features.md) — related

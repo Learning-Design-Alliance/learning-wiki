@@ -49,3 +49,4 @@ The reviewers' own interpretive statement in the Risks section, not a tested res
 - [Using AI to evaluate AI outputs was often challenging because AI act as yes people and humans struggled to agree on evaluation rubrics](ai-evaluating-ai-outputs-challenging.md) — related
 - [State AI guidance describes risks but risk-management work is at an early stage, with some documents possibly too upbeat given school readiness](state-ai-guidance-risks-early-stage.md) — related
 - [An SLM executor under tight constraints can drive a Cognitive Agent through formatted outputs and logit-based action selection, yielding partial rather than full explainability](slm-executor-partial-explicit-control.md) — related
+- [Leveraging existing OS mechanisms (script recording, accessibility interfaces) for tutoring is problematic for widespread deployment](os-mechanism-tutoring-deployment-problematic.md) — related

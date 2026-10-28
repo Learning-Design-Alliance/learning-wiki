@@ -80,3 +80,4 @@ Same longitudinal survey analysis (Lowell, 2022); the review notes confidence in
 - [Training facilitates belief change particularly when it encourages reflection of beliefs and teachers gain practical experience in inclusive classrooms](belief-change-reflection-plus-practical-inclusive-experience.md) — related
 - [The motivation movement shifted teacher attention from textbooks and lesson plans to the learning process and pupil attitude](motivation-emphasis-shifts-teacher-attention-to-learning-process.md) — related
 - [Short-duration TPACK-based professional development improved teachers' ML knowledge and interest (ML4STEM)](ml4stem-teacher-pd-initial-evidence.md) — related
+- [Teachers Feel Confident to Teach AI but Many Not in the Short-Term Without Specific Training](teachers-confident-but-need-training.md) — related

@@ -51,3 +51,5 @@ Multilevel analysis (students within groups) of 19,889 automatically coded chat 
 - [Automatically coded dialogue acts correlate with manually coded collaborative activities as expected](dac-correlates-with-manual-collaborative-activities.md)
 - [DAC reliability varies by category: Informatives (especially negative evaluations and nonsense statements) code poorly](dac-reliability-varies-by-category-informatives-weak.md)
 - [Gender prompts shift feedback stance: female students receive affective, first-person, empathy-oriented feedback while male students receive objective, task-oriented critique](gender-prompt-emotional-connection-pedagogy.md) — related
+- [Deliberative discussion, detectable through dialogue acts, is characterized by social cooperation and openness to persuasion and should lead to better learning outcomes](deliberative-discussion-dialogue-acts.md) — related
+- [Dialogue acts can distinguish balanced, supportive collaborative learning groups from unbalanced, unsupportive ones](dialogue-acts-distinguish-group-types.md) — related

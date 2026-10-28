@@ -52,3 +52,5 @@ Validity analysis correlating automatic dialogue act coding with a manual coding
 - [Automatic DAC coding of dialogue acts agrees substantially with manual coding (79.0% agreement, kappa 0.75)](dac-automatic-coding-agrees-with-manual-coding.md) — related
 - [Wise-crowd content models for summary assessment correlate well with an educational rubric, manually and via two automated NLP methods](wise-crowd-content-model-summary-assessment.md) — related
 - [Automated analysis accuracies were on average 10% lower than the accuracies of manual analysis](ml-accuracy-ten-percent-below-manual-coding.md) — related
+- [Deliberative discussion, detectable through dialogue acts, is characterized by social cooperation and openness to persuasion and should lead to better learning outcomes](deliberative-discussion-dialogue-acts.md) — related
+- [Dialogue acts can distinguish balanced, supportive collaborative learning groups from unbalanced, unsupportive ones](dialogue-acts-distinguish-group-types.md) — related

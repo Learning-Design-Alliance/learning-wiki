@@ -71,3 +71,4 @@ The high-performing group's process map (Fig. 2a) showed most students began wit
 - [Low-performing students access solutions more often than higher-performing students, while hint access does not differ across quartiles](solution-access-differs-hints-do-not.md) — related
 - [Process mining showed LPK students began with preparatory tasks and achieved a higher proportion of correct decisions, while HPK students skipped preparation and increasingly took advanced tasks](process-mining-correct-decision-lpk.md) — a narrower finding that bears on this claim
 - [Confusion and frustration followed incorrect solution submissions and preceded hint requests, while coding was the central activity surrounding all affective states](affect-interaction-event-transitions-programming.md) — related
+- [Learners from different performance groups differ in priorities of learning tactic usage across learning sessions](performance-groups-differ-tactic-usage.md) — related

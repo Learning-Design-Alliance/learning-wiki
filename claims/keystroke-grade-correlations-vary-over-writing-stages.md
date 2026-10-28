@@ -49,3 +49,4 @@ Stage-wise correlational analyses (beginning 0–10, middle 10–20, end 20–30
 - [Over the full writing process, only one of 54 keystroke features (percentage of long pauses between words) correlates significantly with final writing grade in ESL academic summaries](only-one-keystroke-feature-correlates-with-writing-grade.md) — related
 - [Keystroke-feature regression models fail to predict final writing grade at any point during the writing process](keystroke-regression-does-not-beat-grade-baseline.md) — reports the opposite
 - [The relationship between keystroke data and writing quality may be less clear than previously posited](keystroke-quality-relationship-limited.md) — related
+- [The proposed model's effectiveness was demonstrated by applying it to actual keystroke log datasets](tdlhmm-effectiveness-demonstrated-keystroke-datasets.md) — related

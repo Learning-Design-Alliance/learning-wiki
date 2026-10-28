@@ -50,6 +50,7 @@ Because state math anxiety is highest before a math task and declines during and
 - [Math Anxiety Reduction](math-anxiety-reduction.md)
 - [Reducing Test Anxiety](reducing-test-anxiety.md)
 - [Test Anxiety Reduction](test-anxiety-reduction.md)
+- [Build students' mathematics ability, alongside STEM exposure, to foster STEM career interest during middle school.](build-math-ability-to-foster-stem-interest.md)
 
 ## Examples
 -

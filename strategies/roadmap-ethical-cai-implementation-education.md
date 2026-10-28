@@ -53,6 +53,7 @@ The review concludes by proposing a roadmap for ethical CAI implementation in ed
 - [Prioritise longitudinal validation, pedagogical grounding, governed adoption of agent infrastructures, and ethics with human oversight in educational agentic AI research](agentic-ai-education-future-priorities.md)
 - [Deploy agentic AI in education with transparency about agentic decisions, human oversight and institutional responsibility](responsible-deployment-transparency-human-oversight-agentic-ai.md)
 - [Justify GenAI integration through a when-how-why framework: proven contexts, specific implementation methods, and pedagogical reasoning](when-how-why-genai-integration-framework.md)
+- [Propose a research agenda for the near future in character-enhanced learning](virtual-character-research-agenda.md)
 
 ## Examples
 -

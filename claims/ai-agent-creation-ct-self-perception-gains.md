@@ -47,7 +47,7 @@ Paired-samples t-tests (N=84) comparing pre-post CT Self-Perception Scale scores
 
 ## Related Claims
 - [Iterative testing engagement during AI agent creation predicts CT self-efficacy gains after controlling for initial self-efficacy](iterative-testing-predicts-self-efficacy-gains.md) — related
-- [SDT-driven activity system redesign in Cycle 2 produced significant pre-post gains in AI-TPACK (d = 0.70), IPACK (d = 0.86), and AI attitude (d = 0.58)](sdt-driven-redesign-capacity-willingness-gains.md) — related
+- [After an SDT-driven redesign of a two-day teacher workshop (one cohort of 26, no control group), self-reported AI-TPACK (d = 0.70), IPACK (d = 0.86) and AI attitude (d = 0.58) rose significantly from pre to post](sdt-driven-redesign-capacity-willingness-gains.md) — related
 - [Students reported significant perceived gains in abstract and critical thinking, with other higher-order thinking effects ambiguous](perceived-higher-order-thinking-gains.md) — related
 - [High school novices show large CT learning gains after using RoboBlockly Studio, improving Bebras performance from 1.28 to 2.88 of 4 tasks](roboblockly-studio-bebras-ct-gains.md) — related
 - [Students with moderate initial CT levels show substantially greater self-efficacy gains than high-CT and low-CT peers, an 'Optimal Development Zone' effect](optimal-development-zone-ct-gains.md) — related

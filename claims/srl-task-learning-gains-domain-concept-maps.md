@@ -51,3 +51,4 @@ Wilcoxon signed-rank pre-/post-test comparisons in the Results section of the ex
 - [ESL students taught concept mapping show significantly greater pretest-to-posttest achievement gains than students taught an alternative learning strategy](concept-mapping-greater-achievement-gains-esl.md) — related
 - [Immersion in inquiry-based learning significantly increases student teachers' value for procedural knowledge goals and self-efficacy for inquiry, but not substantive knowledge goals](immersion-ibl-increases-procedural-knowledge-goals-self-efficacy.md) — related
 - [ESL students taught concept mapping show significantly greater gains in self-efficacy for learning from text than students taught an alternative learning strategy](concept-mapping-greater-self-efficacy-gains-esl.md) — related
+- [High and Medium SRL students show significantly better learning gains than Low SRL students](high-medium-srl-better-learning-gains.md) — related

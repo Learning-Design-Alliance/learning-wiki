@@ -61,3 +61,4 @@ The editorial reports, citing Kasepalu, Chejara, Prieto and Ley, a quasi-experim
 - [Dashboard support type did not influence detection of CSCL events but did influence teachers' interpretation of the situation](dashboard-support-type-affects-interpretation-not-detection.md) — related
 - [Reported cognitive load was lowest in the mirroring condition (5.4), compared with no dashboard (5.6) and guiding (6.2)](mirroring-lowest-reported-cognitive-load.md) — reports the opposite
 - [Guiding dashboard support enabled teachers to perform more orchestration actions, more targeted interactions, and more class announcements than mirroring support](guiding-support-more-orchestration-actions-than-mirroring.md) — related
+- [Mirroring systems display basic actions to collaborators](mirroring-systems-display-basic-actions.md) — related

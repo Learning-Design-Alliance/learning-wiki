@@ -49,3 +49,4 @@ Sample-wide analysis generalizing the two-dyad qualitative finding; the study "f
 - [Collaboration quality relates to the ratio of group to individual activity in gaze-supported dyads](collaboration-quality-ratio-group-individual-activity.md) — related
 - [High joint visual attention can hide a free-rider effect in collaborative dyads](high-jva-hides-free-rider-effect.md) — related
 - [Levels of joint visual attention are correlated with collaboration quality across collaborative groups](jva-correlated-with-collaboration-quality.md) — related
+- [Dialogue acts can distinguish balanced, supportive collaborative learning groups from unbalanced, unsupportive ones](dialogue-acts-distinguish-group-types.md) — related

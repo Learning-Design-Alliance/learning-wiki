@@ -46,7 +46,7 @@ Narrative review assertion. The review states that research "has highlighted str
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*When learners choose their own study strategies, do they choose the ones that work?* This table gathers the studies behind this claim and the 12 narrower claims that bear on it: **11 distinct studies** (5 review, 4 causal, 1 associational, 1 theoretical), `q1`–`q3`, 1 of 11 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Will learners choose to test themselves on their own, and can they be taught to?* This table gathers the studies behind this claim and the 12 narrower claims that bear on it: **11 distinct studies** (5 review, 4 causal, 1 associational, 1 theoretical), `q1`–`q3`, 1 of 11 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|

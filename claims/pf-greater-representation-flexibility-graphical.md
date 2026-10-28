@@ -54,3 +54,4 @@ Post-test measure from the same three-condition study of 109 seventh-grade stude
 - [Productive Failure Improves Conceptual Learning](productive-failure-improves-conceptual-learning.md) — a broader claim this one bears on
 - [Multiple representations improve learning](multiple-representations-improve-learning.md) — related
 - [Guidance during initial problem solving does not translate into better learning from subsequent instruction](initial-guidance-does-not-improve-learning-from-instruction.md) — related
+- [Interleaving multiple graphical representations of fractions gave a qualified advantage over blocked practice, mainly on delayed conceptual transfer and for low-prior-knowledge students](interleaved-representations-better-learning.md) — related

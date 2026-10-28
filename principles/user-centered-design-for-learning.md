@@ -19,7 +19,7 @@ sources:
 # User-Centered Design for Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 22 claims (13 for, 8 mixed, 1 against) · 19 studies (7 design, 6 causal, 4 qualitative, 1 quant-synthesis, 1 associational), `q1`–`q4` · 3 of 19 report an effect size · 21 claims rest on one study
+> **Evidence** · 23 claims (13 for, 9 mixed, 1 against) · 20 studies (8 design, 6 causal, 4 qualitative, 1 quant-synthesis, 1 associational), `q1`–`q4` · 3 of 20 report an effect size · 22 claims rest on one study
 
 ## Conditional relationship
 
@@ -139,6 +139,10 @@ For example, a teacher-designer's objective for a course page is that every lear
 The expectation should weaken if comparisons of a user-tested interface with an untested one, used by comparable learners on the same content, show no difference in task success or in learning on aligned measures, or if gains in rated usability are not followed by gains in task success. If the learners' failures in practice come mostly from infrastructure (logins, connections, devices) rather than interface design, the model should put plumbing first and design second, as step 7 begins to. If usability work helps novices to the interface and not experienced users, say so and limit the default to novices. Do not protect the model by calling every failure "not enough user testing" after the fact.
 
 Rated usability, task success, understanding of what a screen shows, and learning on the content are separate claims. The present evidence establishes no number of users per round, no number of rounds and no usability threshold below which learning suffers.
+
+## Claims
+
+- [Students report no usability issues with the formative assessment tool (ASQ means 5.2–5.5)](../claims/students-report-no-usability-issues-asq.md) [~W]
 
 ## Related Principles
 - [Scaffolding and Fading](scaffolding-and-fading.md) — both concern how much support structure a learner needs and when it should be reduced, though scaffolding targets content mastery while UCD targets interface usability

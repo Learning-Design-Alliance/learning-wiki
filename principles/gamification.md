@@ -13,7 +13,7 @@ generated:
 # Gamification
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 36 claims (16 for, 18 mixed, 2 against) · 43 studies (15 causal, 12 quant-synthesis, 10 review, 3 associational, 2 theoretical, 1 design), `q1`–`q4` · 12 of 43 report an effect size · 28 claims rest on one study
+> **Evidence** · 37 claims (17 for, 18 mixed, 2 against) · 44 studies (16 causal, 12 quant-synthesis, 10 review, 3 associational, 2 theoretical, 1 design), `q1`–`q4` · 12 of 44 report an effect size · 29 claims rest on one study
 
 ## Conditional relationship
 
@@ -202,6 +202,7 @@ The expectation should weaken if controlled comparisons of the same practice wit
 - [The pooled gamification effect is robust across dependence assumptions, quality thresholds, and model specifications, with no evidence of publication bias](../claims/gamification-mathematics-robustness-publication-bias.md) [+W]
 - [Gamification produces a statistically significant small-to-moderate positive effect on motivation in secondary and higher education mathematics (g = .383)](../claims/gamification-motivation-mathematics-meta-effect.md) [+W]
 - [Effects of gamification on mathematics motivation show substantial heterogeneity (I² = 80.74%), mostly within-study](../claims/gamification-mathematics-heterogeneity-substantial.md) [~W]
+- [The competitive Game Show increased students' tutoring engagement relative to baseline](../claims/game-show-increases-tutoring-engagement.md) [+W]
 
 ## Related Principles
 - [Autonomy](autonomy.md) — gamification works when it expands meaningful choice, not when it controls learners through rewards

@@ -136,6 +136,7 @@ Civic attitudes, self-reported self-efficacy, the quality of reflection, content
 - [Leave flexibility within the curriculum so student coaches can respond to emerging student needs in CEL/CBL courses](responsive-teaching.md)
 
 ## Examples
+
 - [Indigenous–non-Indigenous academic collaboration grounded in trust, collegiality and un-learning of Western epistemic authority](../strategies/indigenous-non-indigenous-collaborative-pedagogy.md)
 - [On-country visits where students interact with Aboriginal Elders as experiential learning](../strategies/on-country-elder-visits-experiential-learning.md)
 - [Holistic, place-based, time-bound Indigenous teaching pattern](../designs/holistic-place-based-time-bound-indigenous-teaching.md)
@@ -145,6 +146,7 @@ Civic attitudes, self-reported self-efficacy, the quality of reflection, content
 - [Cultural Exchange Kits](../strategies/cultural_exchange_kits.md)
 - [Incorporate structured reflective exercises on equality, reciprocity, positionality and bias into any (I)CEL exercise for staff and students](../strategies/structured-reflection-equality-reciprocity-icel.md)
 - [SPIRaL (Students Partners for Information Research and Literacy)](../products/spiral-students-partners-for-information-research-and-literacy.md)
+- [Embed real-life problems into national curricula for open schooling](../strategies/embed-real-life-problems-national-curricula.md)
 
 ### Illustrative
 

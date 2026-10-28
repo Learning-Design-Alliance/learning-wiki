@@ -13,7 +13,7 @@ generated:
 # Age and Developmental Stage
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 197 claims (129 show a difference, 44 mixed, 24 no difference) · 158 studies (60 associational, 31 causal, 27 review, 23 quant-synthesis, 10 theoretical, 5 design, 2 qualitative), `q1`–`q4` · 23 of 158 report an effect size · 195 claims rest on one study
+> **Evidence** · 198 claims (130 show a difference, 44 mixed, 24 no difference) · 159 studies (61 associational, 31 causal, 27 review, 23 quant-synthesis, 10 theoretical, 5 design, 2 qualitative), `q1`–`q4` · 23 of 159 report an effect size · 196 claims rest on one study
 
 ## Description
 Age and developmental stage cover a learner's chronological age, grade level, and the cognitive, language and social development that comes with them. Research uses them as a predictor (growth curves, when skills emerge), as a moderator (an approach that works for older students but not younger ones, or for adults but not children) and to define a population (early childhood, adolescents, adult learners). Age is often a stand-in for what actually matters, such as prior knowledge, reading skill or self-regulation, so a finding that differs by age is a reason to ask which of those it reflects.
@@ -229,6 +229,7 @@ Age and developmental stage cover a learner's chronological age, grade level, an
 - [Only adults reduced flexible reactions to negative feedback across learning blocks, consistent with strategy adaptation to the paradigm's structure](../claims/adults-reduce-flexible-reactions-across-blocks.md) [+M] — learners who differ on it differ in outcomes
 - [The forward testing effect generalizes to individuals with traumatic brain injury but is absent for younger children's single item learning](../claims/forward-testing-individual-differences.md) [~M] — an instructional effect differs with it
 - [The left ventral occipito-temporal cortex becomes increasingly specialized for print during reading acquisition, with an inverted U-shaped developmental trajectory](../claims/vot-print-specialization-inverted-u-development.md) [+M] — learners who differ on it differ in outcomes
+- [Age-related component differences show proactive exploration lowest for youngest students](../claims/proactive-exploration-lowest-youngest-age-group.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does being older at school entry, or older than one's classmates, give a lasting achievement advantage?* [Being a year older at kindergarten entry leads to higher initial achievement](../claims/older-entry-higher-initial-achievement.md) [+M]

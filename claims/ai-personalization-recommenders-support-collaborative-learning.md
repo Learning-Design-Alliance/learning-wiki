@@ -55,3 +55,4 @@ The review's synthesis of personalization studies (narrative review attributing 
 - [The AMOEBA system's automated collaboration-pairing recommendations led to improved learning and more sophisticated programming by students](amoeba-live-analytics-improved-learning-pairing.md)
 - [AI technologies in education enhance teaching and learning through personalization and data analytics while reshaping administrative functions and decision-making](ai-enhances-teaching-administration-education.md) — a broader claim this one bears on
 - [Intelligent tutoring systems are a mature, technologically sophisticated implementation of AI-driven personalized learning with mostly positive outcomes in programming, mathematics, and STEM](its-mature-implementation-personalized-learning.md) — related
+- [Matching system goal-orientation feedback to child's goal orientation may improve learning gains](matching-goal-orientation-improves-gains.md) — related

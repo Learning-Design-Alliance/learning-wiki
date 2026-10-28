@@ -51,7 +51,8 @@ The article proposes deliberation — the "deliberative, negotiation characteris
 - 
 
 ## Examples
--
+
+- [Pedagogical agent interventions to improve collaborative learning: keep conversation coherent, encourage deliberative discussion, and monitor peer needs](../strategies/pedagogical-agent-cscl-interventions.md)
 
 ## Key Sources
 - Belle Dang, Andy Nguyen and Sanna Järvelä. (2024). Deliberative Interactions for Socially Shared Regulation in Collaborative Learning: An AI-Driven Learning Analytics Study. Journal of Learning Analytics, 11(3). https://doi.org/10.18608/jla.2024.8393

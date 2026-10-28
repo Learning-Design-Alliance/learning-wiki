@@ -53,3 +53,4 @@ Random-slope hierarchical model of students nested in high schools (n=17,753). T
 - [ACT scores weakly predict college graduation, and the school-level variance in the ACT slope (0.192) exceeds the average slope (0.129), so school effects introduce more noise than the ACT signal](act-weak-predictor-noise-exceeds-signal.md) — related
 - [Both HSGPA and ACT strongly predict four-year college enrollment and enrollment in colleges with strong graduation rates](gpa-and-act-predict-enrollment-college-quality.md) — related
 - [For four-year (rather than six-year) graduation, ACT scores are slightly predictive but their coefficient is one-sixth the HSGPA coefficient](act-weakly-predicts-four-year-graduation.md) — related
+- [Higher HSGPA and higher mathematics and chosen-subject matura scores significantly increase the predicted probability of graduation.](hsgpa-math-chosen-subject-increase-graduation-probability.md) — related

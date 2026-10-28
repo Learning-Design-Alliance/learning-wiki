@@ -85,3 +85,4 @@ The authors' comparison of achievement across gender groups in the same test fou
 - [Screen reader choice affects time and effort for accessing math: JAWS users completed a quadratic-equation task faster than NVDA users](screen-reader-effort-quadratic-equation-bvi.md) — related
 - [Findings on gender differences in engagement with adaptive learning platforms are mixed, with some studies showing higher engagement among girls and others among boys](gender-engagement-adaptive-platforms-mixed.md) — related
 - [Benefits of practical life exercises for attention emerge for girls but not boys](practical-life-attention-gender-effect.md) — related
+- [Girls directed more visual attention to instructional content (virtual teacher and screen) while boys distributed attention more broadly including to virtual peer learners.](gender-differences-visual-attention-vr-classroom.md) — related

@@ -53,3 +53,4 @@ Thematic analysis of seven focus groups with 28 PGR students at the University o
 - [Panelists strongly agreed human oversight must remain central in academic decisions involving GenAI, with clear accountability assignments](human-oversight-central-genai-academic-decisions.md) — related
 - [Interviews indicated flipped learning supported studio readiness while the GenAI module served as a supplementary tool for early-stage visual ideation](interviews-flipped-readiness-genai-supplementary.md) — related
 - [Experimental-group students framed AI as a flexible writing scaffold supporting their own composing rather than a substitute for authorship](ai-scaffold-authorship-retained-theme1.md) — a narrower finding that bears on this claim
+- [Graduate students experienced GenAI-assisted research as supporting originality through new ideas and perspectives](genai-assisted-research-supports-originality.md) — related

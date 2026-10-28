@@ -42,6 +42,7 @@ Imbedded Aids are units of assistance and enrichment — line numbering locators
 ## Related Strategies
 
 - [Specific Technique Identification](specific_technique_identification.md)
+- [Combat mind wandering by interleaving questions and embedded activities](interleaved-questions-reduce-mind-wandering.md)
 
 ## Examples
 -

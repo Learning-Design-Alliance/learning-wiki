@@ -47,3 +47,4 @@ Discussion summary of the exploratory observational study: binary classification
 ## Related Claims
 - [Adding student attributes and autoregression improves prediction accuracy, with GP-α (τ = 1) reaching 0.711 accuracy and 0.757 F1.](attributes-autoregression-improve-response-prediction.md) — related
 - [Random forest algorithms yielded the best classification performance in K–8 MMLA studies comparing multiple machine learning models](mmla-k8-random-forest-best-performance.md) — related
+- [Machine learning models can predict SRL-use categories early in students' interactions with accuracy significantly above baseline](ml-models-predict-srl-early.md) — related

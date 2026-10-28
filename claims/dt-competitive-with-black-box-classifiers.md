@@ -71,3 +71,4 @@ Comparison reported in the Results section across the same four-course module-le
 - [Machine-learned Sink/Source classifiers classify information roles with F-scores of 0.914 and 0.908 on noisy student discussion text](sink-source-role-classifiers-accuracy.md) — related
 - [An interpretable mathematical model based on saccade lengths and angles performs well, is transparent, and is theoretically meaningful for identifying students' histogram strategies](imm-transparent-performs-well.md) — related
 - [SVM with RoBERTa sentence embeddings was the most accurate automatic scoring method (κ = .82) among the four tested combinations](roberta-svm-most-accurate-scoring-pisa.md) — related
+- [Authoring by Tutoring yields a more accurate expert model than Authoring by Demonstration while maintaining the same level of completeness](authoring-by-tutoring-higher-accuracy-than-demonstration.md) — related

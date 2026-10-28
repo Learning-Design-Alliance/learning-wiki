@@ -48,3 +48,4 @@ Word-frequency analysis of AI applications across the 126 included systematic re
 - [AI is implemented in SRL research primarily as an intervention, most often through adaptive systems and personalization](ai-implemented-as-intervention-adaptive-systems-personalization.md) — related
 - [Intelligent tutoring systems are a mature, technologically sophisticated implementation of AI-driven personalized learning with mostly positive outcomes in programming, mathematics, and STEM](its-mature-implementation-personalized-learning.md) — related
 - [Chatbots were the most frequently used AI application type for supporting SRL, followed by evaluation systems](chatbots-most-common-ai-srl-application.md) — related
+- [Intelligent class monitoring is separated from intelligent collaboration support because it focuses on teacher support and relies on data mining and machine learning](intelligent-class-monitoring-separate-group-rationale.md) — related

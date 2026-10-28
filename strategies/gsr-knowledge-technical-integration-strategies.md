@@ -43,6 +43,7 @@ The authors propose concrete integration mechanisms for the identified requireme
 ## Related Strategies
 
 - [Domain-adapt RAG pipelines for mathematical education via entity recognition, notation-aware retrieval, and pedagogical re-ranking](domain-adapted-rag-for-mathematical-education.md)
+- [Refine LLM feedback prompts and adopt RAG to reduce verbosity and align feedback with course content](refine-llm-prompts-rag-reduce-verbosity.md)
 
 ## Examples
 -

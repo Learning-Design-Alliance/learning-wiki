@@ -53,3 +53,4 @@ LIME interpretability analysis of the retrained BERT model across the three data
 - [Replacing context-specific terms with syntactic descriptors and entity categories allows NLP rules for argumentation-component segmentation that are less context dependent](nlp-argumentation-segmentation-entity-categories.md) — related
 - [Feature-based ML Bloom classifiers trained on IID data degrade sharply on out-of-distribution AI-assisted questions](ml-bloom-classifiers-degrade-ood-aeq.md) — related
 - [LLMs show robust zero- and few-shot Bloom classification of OOD AI-assisted questions compared with ML and BERT models](llms-robust-ood-bloom-classification.md) — related
+- [Attribution analysis identifies interpretable input features for BERT's classification decisions, including subjunctive verbs in alternatives and appraisal words in evaluation](attribution-analysis-identifies-bert-classification-features.md) — related

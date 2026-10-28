@@ -54,3 +54,4 @@ Observational analysis of 128,569 naturalistic conversations from WildChat, LMSY
 - [Trained students engage in more conversational turns with the GenAI tool](trained-students-more-conversational-turns.md) — related
 - [Scaffolded assistant support marks richer constructive participation at the conversation level across all six task settings](scaffolded-support-constructive-participation.md) — related
 - [Support form differentiates the scaffolding–engagement association: feedback and explaining align most with constructive engagement, with a task-ecology crossover between instructing and modelling](support-form-differentiates-engagement.md) — related
+- [Lexical alignment reduces ambiguity and cognitive costs and is detectable as recurrence in conversational data](lexical-alignment-reduces-ambiguity.md) — related

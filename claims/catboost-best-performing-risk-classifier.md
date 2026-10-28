@@ -59,3 +59,4 @@ Model evaluation using a modified k-fold cross-validation training on nine cours
 - [Decision trees achieve competitive accuracy with black-box models (LR, RF, SVM), which performed slightly better but lack interpretability](dt-competitive-with-black-box-classifiers.md) — related
 - [Boosting models (XGBoost) achieved the highest predictive accuracy among the compared ML models, while logistic regression showed the lowest](boosting-highest-accuracy-logistic-lowest.md) — related
 - [The ensemble learner attains the highest classification accuracy and AUC for predicting a non-repeatable grade (C or better)](ensemble-highest-classification-nonrepeatable-grade.md) — reports the opposite
+- [A CatBoost classifier using only pre-enrollment achievement measures predicts dropout with an AUC of 0.774 and average precision of 0.847 on a held-out 2017 cohort.](catboost-preenrollment-dropout-prediction-auc-0774.md) — related

@@ -46,7 +46,7 @@ This meta-analysis synthesized studies on the effects of vocabulary instruction 
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does combining deliberate word study with learning from meaning-focused input give more words and better retention than either alone?* This table gathers the studies behind this claim and the 6 narrower claims that bear on it: **8 distinct studies** (4 quant-synthesis, 3 review, 1 causal), `q2`–`q3`, 2 of 8 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does combining explicit instruction with contextual or incidental learning outperform either alone?* This table gathers the studies behind this claim and the 6 narrower claims that bear on it: **8 distinct studies** (4 quant-synthesis, 3 review, 1 causal), `q2`–`q3`, 2 of 8 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|

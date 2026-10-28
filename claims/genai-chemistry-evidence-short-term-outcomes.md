@@ -52,3 +52,4 @@ The review's synthesis across its representative evidence matrix, which also sta
 - [Agentivism generates six empirically testable propositions linking delegation structure, verification, reconstruction, and reduced-support transfer to learning outcomes](agentivism-six-testable-propositions.md) — related
 - [AI-assisted task performance can rise without corresponding gains in underlying knowledge, metacognitive processing, or independent reasoning](ai-performance-learning-gains-diverge.md) — related
 - [Short-term, non-longitudinal training programmes pose challenges for estimating long-term skill retention](short-term-training-challenges-long-term-skill-retention.md) — related
+- [Computer-based metacognitive scaffolding shows limited evidence of long-term retention or transfer of the scaffolded skills](limited-evidence-long-term-metacognitive-retention.md) — related

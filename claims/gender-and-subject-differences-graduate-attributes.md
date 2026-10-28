@@ -49,3 +49,4 @@ Gender and subject-level analyses of the survey (Table 1, Tables 4 and 5). The a
 - [Cognitive strategy use was highest in social studies and lowest in mathematics, and females reported more use than males](cognitive-strategy-use-varies-by-subject-area.md) — related
 - [Graduate attribute attainment correlates only extremely weakly with years spent at university](weak-correlation-year-of-study-graduate-attributes.md)
 - [Test anxiety was highest in social studies and lowest in English, with the pattern differing by gender](test-anxiety-varies-by-subject-and-gender.md) — related
+- [Gender differences in perceived transversal skills, with male students higher](gender-differences-transversal-skills-male-higher.md) — reports the opposite

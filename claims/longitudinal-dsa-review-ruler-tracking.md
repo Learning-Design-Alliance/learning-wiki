@@ -51,3 +51,4 @@ Longitudinal review-based calibration of 26 problems across 4 final machine exam
 - [Exam-level AI difficulty correlations with student performance are directionally consistent but weaker and only exploratory](exam-level-ai-difficulty-correlation-exploratory.md) — related
 - [The negative AI-difficulty–performance correlation is stable across exposure-discount values 0 to 0.40, and is strongest with no adjustment](exposure-discount-sensitivity-stable-correlation.md) — related
 - [Review-based AI overall difficulty correlates strongly with problem-level student pass rate across 79 parallel-class exam problems](review-based-ai-difficulty-problem-level-correlation.md) — related
+- [Background story does not significantly impact difficulty of introductory programming problems](background-story-no-difficulty-impact.md) — related

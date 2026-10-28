@@ -58,3 +58,4 @@ The review reports, citing an included study, that "providing elaborate explanat
 - [Learners reported higher perceived learning and satisfaction and lower mental effort with the instructor video, despite no performance gains — a perception-performance gap](instructor-presence-perception-performance-gap.md) — related
 - [Elaborative Interrogation Improves Learning](elaborative-interrogation-improves-learning.md) — related
 - [In complex materials, interim testing improves learning of new lecture-video segments and passage sections, including comprehension and integration](forward-testing-complex-materials.md) — related
+- [Preliminary results suggest a real-time mind-wandering intervention may correct comprehension deficits when mind-wandering probability is high](mind-wandering-intervention-corrects-comprehension.md) — related

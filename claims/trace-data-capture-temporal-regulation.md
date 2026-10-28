@@ -55,3 +55,4 @@ Narrative review of trace-methodology work following Winne's idea of trace as da
 - [Model-based clustering of tied durations identifies four weekly regulation patterns in PBL group discussions](four-weekly-regulation-patterns-pbl.md) — related
 - Weekly group data on PBL interactions showed substantial between-group variability (ICC 0.4), requiring multilevel growth models — related
 - [Lag sequential analysis revealed distinct choice-making trajectories: HPK students showed confidence-driven extra-task engagement and unre reflective repeated-failure sequences, while LPK students relied on preparatory worked examples](lsa-pk-choice-trajectories.md) — a narrower finding that bears on this claim
+- [Cluster analysis of MOOC trace data identifies four learning tactics: Search oriented, Content and assessment oriented, Content oriented, and Assessment oriented](four-learning-tactics-mooc-cluster-analysis.md) — related

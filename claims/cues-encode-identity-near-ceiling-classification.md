@@ -50,3 +50,4 @@ A Top-1 identification analysis per triad "correctly identified the AI teammate 
 - [Judgment-truth dissociation: the same cues that predict ground-truth identity are only weakly incorporated into explicit identity judgments](judgment-truth-dissociation-cues.md) — related
 - [Systems adapt to the specified learner persona in ways human raters can perceive, scoring well above chance in persona identification](persona-adaptation-perceptible-to-raters.md) — related
 - [Representational similarity analysis shows identity judgments are organised around subjective impressions, orthogonal to diagnostic cue structure](representational-dissociation-subjective-impressions.md) — related
+- [Reviewed CSCL systems are further characterized by interaction data type, derivation processes, and feedback type](cscl-systems-characterized-data-processes-feedback.md) — related

@@ -64,6 +64,7 @@ Pairwise reliability analysis across temperature settings. Higher-temperature pa
 
 
 ## Related Claims
+
 - Constructs with higher operational clarity show higher overall coder agreement, and low clarity harms human coder agreement more than LLM agreement — related
 - [Human-LLM agreement remains low across constructs (κ = 0.000 to 0.419), with self-efficacy showing the best alignment and Prior KSAs none](human-llm-agreement-low-construct-varying.md) — reports the opposite
 - [Same-model LLM configuration pairs agree more than cross-model pairs, and agreement decreases monotonically as temperature difference increases](llm-pairwise-agreement-model-type-temperature.md) — related
@@ -73,3 +74,6 @@ Pairwise reliability analysis across temperature settings. Higher-temperature pa
 - [Optimal RAG configuration differs by discipline: STEM subjects perform best with 512-character chunks and temperature 0.3 (faithfulness 0.97), while humanities require 1000-character chunks and temperature 0.1 (context recall 1.00, faithfulness 0.98)](rag-configuration-discipline-dependent-moodle-tutor.md) — related
 - [Lowering an LLM's temperature setting is one lever for improving output consistency](lowering-temperature-improves-llm-consistency.md) — a broader claim this one bears on
 - [Higher LLM temperature settings yield the best English augmentation performance, with Llama temperature 2 the top generator overall](temperature-affects-augmentation-performance.md) — related
+- [Clarity showed the strongest and most consistent gains; coherence gains were more variable](clarity-strongest-gain-coherence-variable.md) — related
+- [Card sorting of GenAI-brainstormed concepts showed best agreement for the Refreshing Stimulus category and under-70% agreement for some concepts](genai-card-sorting-concept-agreement.md) — reports the opposite
+- [Hyperparameter setting with maximum token 53 and temperature 1 (Set C) yields the most accurate AGE grading performance](age-hyperparameter-set-c-most-accurate.md)

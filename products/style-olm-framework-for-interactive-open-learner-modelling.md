@@ -20,6 +20,8 @@ A computational framework developed by Vania Dimitrova and colleagues that suppo
 
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
+- **Interactive open learner modelling (IOLM): diagnosis as an interactive process between system and learner**: IOLM conceives diagnosis not as a one-shot system inference but as "an interactive process involving both a computer system and a learner that discuss and together construct the learner model". The article outlines the architecture of an IOLM system and illustrates the method in a terminological domain through the STyLE-OLM demonstrator. (Vania Dimitrova (2003))
+- **STyLE-OLM: an interactive open learner modelling demonstrator for a terminological domain**: STyLE-OLM is "a system called STyLE-OLM", an "IOLM demonstrator" built to illustrate the interactive open learner modelling method. It operates in a terminological domain and was used in an evaluative study examining the benefits of the IOLM approach for learner modelling and learner reflection. (Vania Dimitrova (2003))
 
 ### Claims
 - [Interactive open learner modelling dialogue produced resultant learner models with more beliefs than initial models, most approved by both learners and a teacher](../claims/iolm-dialogue-increases-lm-beliefs-approved.md) [+M]
@@ -30,3 +32,4 @@ A computational framework developed by Vania Dimitrova and colleagues that suppo
 
 ## Key Sources
 - Vania Dimitrova & Paul Brna. (2016). From Interactive Open Learner Modelling to Intelligent Mentoring: STyLE-OLM and Beyond. Int J Artif Intell Educ 26:332–349. https://doi.org/10.1007/s40593-015-0087-3
+- Vania Dimitrova. (2003). STyLE-OLM: Interactive Open Learner Modelling. International Journal of Artificial Intelligence in Education. https://telearn.hal.science/hal-00197312

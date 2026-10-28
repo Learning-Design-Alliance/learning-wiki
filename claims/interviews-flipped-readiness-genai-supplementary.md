@@ -53,3 +53,4 @@ Thematic analysis of brief interviews with four intervention-cohort students and
 - [Teachers' tool preferences are stage-dependent, with pre-gen valued for ideation, mid-gen for structuring, post-gen for finalization, motivating hybrid workflows](stage-dependent-preferences-hybrid-workflows.md) — related
 - [Students found AI effective for ideation and formatting but unreliable for practical experimental details](ai-effective-ideation-unreliable-practical-details.md) — related
 - [The perceived value of GenAI and XR varied across design stages: GenAI suited early exploratory prototyping, XR once a 3D artifact existed for spatial evaluation](phase-dependent-genai-xr-value-design-stages.md) — related
+- [GenAI tools proved most valuable in early UX ideation stages, while design and testing require a human touch](genai-most-valuable-early-ux-stages.md) — related

@@ -18,7 +18,7 @@ sources:
 # GPT-4o Automated Dialogue Annotation with Recursive Common Core Tagging
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 11 claims (6 for, 4 mixed, 1 against) · 7 studies (6 design, 1 causal), `q2` · 0 of 7 report an effect size · 11 claims rest on one study
+> **Evidence** · 12 claims (6 for, 4 mixed, 2 against) · 8 studies (7 design, 1 causal), `q2` · 0 of 8 report an effect size · 12 claims rest on one study
 
 ## Description
 The article annotates each student turn with correctness and KC labels using GPT-4o via simple, zero-shot chain-of-thought prompting, instructing it to summarize turns before labeling. "For KC annotation, we adapt the recursive tagging algorithm from [34], which tags math word problems with Common Core math standards": the model selects domains, then clusters, then turn-level standards from the Achieve the Core coherence map. The two tasks are run separately because "doing so leads to improved accuracy compared to combining them".
@@ -55,6 +55,7 @@ The article annotates each student turn with correctness and KC labels using GPT
 - [GPT-4o shows more consistent performance than Llama 3 70B across topics and metrics, while Llama 3 70B falls below 60% on the unit metric for three advanced topics](../claims/gpt4o-consistency-vs-llama3-unit-weakness.md) [+W]
 - [Llama 3 70B outperforms GPT-4o on completeness and method metrics due to its leniency, but performs significantly worse on the unit metric](../claims/llama3-lenient-gpt4o-rigor-tradeoff.md) [~W]
 - [GPT-4o frequently makes characteristic errors in homework assessment, including failing to recognize unit and numeric equivalences, marking complete solutions incomplete, and mishandling alternative methods and notations](../claims/gpt4o-characteristic-assessment-error-types.md) [-W]
+- [Inter-rater reliability between human experts and AI coding is very low](../claims/low-irr-experts-vs-ai-coding.md) [-W]
 
 ## The evidence by question
 - *Can a large language model label whether students' responses are correct, and which skills they show, accurately enough to stand in for human annotators?* [GPT-4o's final-turn correctness labeling on CoMTA is only slightly less accurate than expert human annotators, which the authors read as close to human-level performance on a challenging task.](../claims/gpt-4o-final-turn-correctness-labeling-is-close-to-human-level.md) [+M]

@@ -90,3 +90,4 @@ Section 8 calibration analysis with reliability diagrams binned by predicted and
 - [Emerging evidence indicates generative AI tutors currently struggle to accurately infer student knowledge at the outset of an interaction or as the activity progresses](genai-tutors-struggle-infer-student-knowledge.md) — related
 - [TSDR consistently improves calibration (ACC and RMSE) even on datasets where AUC gains plateau](tsdr-improves-calibration-acc-rmse.md) — related
 - [In open-ended constructivist activities, task success or failure is not a reliable indicator of learning, so learner models based only on performance risk misjudging learners](performance-not-indicator-learning-open-ended.md) — related
+- [DKT+ regularization addresses two DKT deficits: failure to reconstruct observed interactions and inconsistent knowledge-state transitions across time steps.](dkt-plus-regularization-addresses-reconstruction-and-transition-consistency.md) — related

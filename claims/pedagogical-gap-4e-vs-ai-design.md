@@ -54,3 +54,4 @@ Theoretical argument in the Pedagogical Gap section: the misalignment is 'not an
 - [Traditional dance class structure offers insufficient opportunity for students to develop a sensitized relationship with their body](traditional-dance-class-structure-limits-body-listening.md) — related
 - [New technologies excite creative pedagogical ideas but are rarely designed with teaching and learning in mind](new-technologies-rarely-designed-for-teaching-learning.md) — related
 - [Because learning theories are not operationalized into system structures, pedagogical use of digital resources is delegated to teachers' judgment at the moment of use](pedagogical-use-delegated-to-teacher-judgment.md) — a narrower finding that bears on this claim
+- [There is not currently a research foundation for K-12 AI education comparable to those for K-12 science and mathematics education](no-research-foundation-k12-ai-education.md) — related

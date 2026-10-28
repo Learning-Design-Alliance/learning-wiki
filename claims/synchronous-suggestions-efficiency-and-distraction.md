@@ -79,3 +79,4 @@ Interview data from the same user study showed synchronous pop-up suggestions di
 - [Students perceive conversational-agent interventions as disruptive and react to the automatic disruptions differently](agent-interruptions-perceived-disruption-varies.md) — related
 - [Usability problems — disorientation, distraction, and cognitive overload — hinder demonstrating effectiveness of self-controlled hypermedia learning](hypermedia-usability-problems-hinder-effectiveness.md) — related
 - [Macrosystem conditions such as social media and AI access shape availability to learn, with FoMO causing distractions during learning](macrosystem-fomo-distracts-learning.md) — related
+- [The commentary pattern can cause tool-tutor desynchronization when students act faster than the tutor reacts](commentary-pattern-synchronization-problem.md) — related

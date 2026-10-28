@@ -32,7 +32,8 @@ The pipeline vectorizes English and German think-aloud utterances with OpenAI's 
 - [Classifier errors cluster into three interpretable patterns, and the unknown abstention class is well classified (F1 = 0.93), reliably filtering off-topic chat](../claims/classifier-error-patterns-and-abstention-f1.md) [+W]
 
 ## Related Research Methods
--
+
+- [Transformer attention-based semantic representation for automated constructed response scoring](transformer-attention-based-semantic-representation-for-automated-constructed-response-sco.md)
 
 ## Key Sources
 - Conrad Borchers, Jiayi Zhang, Hendrik Fleischer, Sascha Schanze, Vincent Aleven, Ryan S. Baker. (2025). Large Language Models Generalize SRL Prediction to New Languages Within But Not Between Domains. Journal of Educational Data Mining, Volume 17, No 2. https://github.com/pcla-code/EDM24_SRL-detectors-for-think-aloud

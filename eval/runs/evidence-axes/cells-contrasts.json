@@ -46602,5 +46602,217 @@
  "worked-examples\tworked examples\thigh-assistance instructional software": {
   "label": "Worked examples vs high-assistance instructional software",
   "treatment_is_a": true
+ },
+ "active-learning\tActive Grade Estimator grading only selected answers\tGrading all student answers": {
+  "label": "selective grading vs grading all answers",
+  "treatment_is_a": true
+ },
+ "active-learning\tActive Grade Estimator on the LL dataset\tstate-of-the-art automated short-answer grading methods": {
+  "label": "active-learning grading vs state-of-the-art automated grading",
+  "treatment_is_a": true
+ },
+ "active-learning\tActive Grade Estimator with two-stage query sampling\tconventional active-learning approaches": {
+  "label": "two-stage query sampling vs conventional active learning",
+  "treatment_is_a": true
+ },
+ "active-learning\tactive and well-functioning learning teams\tgroups merely placed together and assigned a task": {
+  "label": "active, functioning learning teams vs nominal task-assigned groups",
+  "treatment_is_a": true
+ },
+ "active-learning\tcooperative project-based learning with learning by doing\tno comparison condition reported": {
+  "label": "cooperative project-based learning by doing vs no comparison condition reported",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tWritingTutor with high-level learner control\tstatic tutoring with no learner control": {
+  "label": "high learner control vs low/no learner control",
+  "treatment_is_a": true
+ },
+ "autonomy-support\thigh learner control with content navigation and interface appearance control\tlower learner control without additional learner-control features": {
+  "label": "high learner control vs low/no learner control",
+  "treatment_is_a": true
+ },
+ "autonomy-support\thigh learner-control WritingTutor\tstatic tutoring approach": {
+  "label": "high learner control vs low/no learner control",
+  "treatment_is_a": true
+ },
+ "autonomy-support\thigh learner-control WritingTutor with content navigation and interface-appearance control\tlow learner-control WritingTutor without additional learner-control features": {
+  "label": "high learner control vs low/no learner control",
+  "treatment_is_a": true
+ },
+ "feedback-type\tAI-generated feedback\thuman expert analysis": {
+  "label": "AI-generated feedback vs human expert analysis",
+  "treatment_is_a": true
+ },
+ "feedback-type\tAI-generated feedback\thuman expert feedback": {
+  "label": "AI-generated feedback vs human expert feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tAI-generated feedback from ChatGPT-4o and Perplexity\thuman expert feedback": {
+  "label": "AI-generated feedback vs human expert feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tChatGPT-4o and Perplexity feedback\thuman expert feedback": {
+  "label": "AI-generated feedback vs human expert feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tChatGPT-4o feedback\thuman expert feedback": {
+  "label": "AI-generated feedback vs human expert feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tHuman expert analysis and feedback\tAI-generated analysis and feedback from LLMs": {
+  "label": "Human expert analysis and feedback vs AI-generated analysis and feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tHuman expert mentoring feedback\tAI-generated mentoring feedback from LLMs": {
+  "label": "Human expert mentoring feedback vs AI-generated mentoring feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tLLM-based combined feedback\ttraditional-AI schematic feedback": {
+  "label": "LLM-based combined feedback vs traditional-AI schematic feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tLLM-generated feedback\thuman expert analysis": {
+  "label": "AI-generated feedback vs human expert analysis",
+  "treatment_is_a": true
+ },
+ "feedback-type\tLLM-generated feedback\thuman expert feedback": {
+  "label": "AI-generated feedback vs human expert feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tgoal-matched feedback\tgoal-mismatched feedback": {
+  "label": "Goal-matched feedback vs goal-mismatched feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\thuman expert feedback\tAI-generated feedback from ChatGPT-4o and Perplexity": {
+  "label": "AI-generated feedback vs human expert feedback",
+  "treatment_is_a": false
+ },
+ "feedback-type\thuman expert feedback\tLLM-generated feedback": {
+  "label": "AI-generated feedback vs human expert feedback",
+  "treatment_is_a": false
+ },
+ "feedback-type\trepeated AI-generated feedback attempts\tother AI generation attempts for the same lesson": {
+  "label": "Repeated AI-generated feedback attempts vs other AI-generation attempts",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tusing the tool for more than half of the exercises\tusing the tool for half or fewer exercises": {
+  "label": "more frequent formative assessment vs less frequent formative assessment",
+  "treatment_is_a": true
+ },
+ "gamification\tAPLUS with Competitive Game Show\tAPLUS without Game Show": {
+  "label": "competitive game show vs no competitive game show",
+  "treatment_is_a": true
+ },
+ "gamification\tAPLUS with competitive Game Show\tAPLUS only": {
+  "label": "competitive game show vs no competitive game show",
+  "treatment_is_a": true
+ },
+ "gamification\tGame Show condition\tBaseline condition without Game Show": {
+  "label": "competitive game show vs no competitive game show",
+  "treatment_is_a": true
+ },
+ "gamification\tTAC after a competition win\tTAC after a competition loss": {
+  "label": "competition win vs competition loss",
+  "treatment_is_a": true
+ },
+ "gamification\tstudents in higher procedural-gain quartiles\tstudents in lower procedural-gain quartiles": {
+  "label": "higher procedural-gain quartile vs lower procedural-gain quartile",
+  "treatment_is_a": true
+ },
+ "interleaving\tfully interleaved practice\tblocked practice": {
+  "label": "interleaved vs blocked",
+  "treatment_is_a": true
+ },
+ "interleaving\tincreasingly interleaved representation practice\tblocked representation practice": {
+  "label": "interleaved vs blocked",
+  "treatment_is_a": true
+ },
+ "interleaving\tinterleaved graphical-representation practice\tblocked graphical-representation practice": {
+  "label": "interleaved vs blocked",
+  "treatment_is_a": true
+ },
+ "interleaving\tinterleaved items of different types\tblocked practice by item type": {
+  "label": "interleaved vs blocked",
+  "treatment_is_a": true
+ },
+ "interleaving\tinterleaved practice of graphical representations\tblocked practice of graphical representations": {
+  "label": "interleaved vs blocked",
+  "treatment_is_a": true
+ },
+ "interleaving\tinterleaved practice of graphical representations\tother practice schedules": {
+  "label": "interleaved vs other practice schedules",
+  "treatment_is_a": true
+ },
+ "interleaving\tinterleaved representation practice\tblocked representation practice": {
+  "label": "interleaved vs blocked",
+  "treatment_is_a": true
+ },
+ "mastery-learning\tBKT-adaptive task selection\trandomly selected tasks": {
+  "label": "mastery-based adaptive task selection vs random task selection",
+  "treatment_is_a": true
+ },
+ "mastery-learning\tBKT-adaptive task selection toward mastery\trandom task selection": {
+  "label": "mastery-based adaptive task selection vs random task selection",
+  "treatment_is_a": true
+ },
+ "media-design\tAI research frame\teducational psychology research frame": {
+  "label": "AI research frame vs educational psychology research frame",
+  "treatment_is_a": true
+ },
+ "media-design\tAI research frame\tneuroscience research frame": {
+  "label": "AI research frame vs neuroscience research frame",
+  "treatment_is_a": true
+ },
+ "media-design\tneuroscience research frame\teducational psychology research frame": {
+  "label": "neuroscience research frame vs educational psychology research frame",
+  "treatment_is_a": true
+ },
+ "practice-amount\tmore than 90 exercises\t90 or fewer exercises": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\tsolving more exercises with the tool\tsolving fewer exercises with the tool": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\tstudents who solved more exercises\tstudents who solved fewer exercises": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "prompts\texplicit prompts to connect representations\tspontaneous connection-making without prompts": {
+  "label": "explicit prompts to connect representations vs spontaneous connection-making without prompts",
+  "treatment_is_a": true
+ },
+ "scaffolding\tEcolab II with metacognitive scaffolding\tEcolab II without metacognitive scaffolding": {
+  "label": "metacognitive scaffolding vs no metacognitive scaffolding",
+  "treatment_is_a": true
+ },
+ "scaffolding\tVIS, the full Vygotskian instructional system\tWIS and NIS versions": {
+  "label": "full Vygotskian instructional system vs reduced Vygotskian instructional systems",
+  "treatment_is_a": true
+ },
+ "scaffolding\tcomplete adaptive SE-Coach with explicit tutorial interventions\tmasking interface with untailored self-explain prompts": {
+  "label": "adaptive SE-Coach scaffolding vs untailored self-explanation prompts",
+  "treatment_is_a": true
+ },
+ "scaffolding\tcomplete adaptive SE-Coach with multiple levels of scaffolding\tmasking interface with untailored self-explain prompts": {
+  "label": "adaptive SE-Coach scaffolding vs untailored self-explanation prompts",
+  "treatment_is_a": true
+ },
+ "scaffolding\tcomplete adaptive SE-Coach with multiple scaffolding levels\tmasking interface with untailored self-explain prompts": {
+  "label": "adaptive SE-Coach scaffolding vs untailored self-explanation prompts",
+  "treatment_is_a": true
+ },
+ "scaffolding\texplicit SRL scaffolding\tno explicit SRL scaffolding": {
+  "label": "explicit self-regulated-learning scaffolding vs no explicit self-regulated-learning scaffolding",
+  "treatment_is_a": true
+ },
+ "scaffolding\tscaffolding for help-seeking strategies\tno scaffolding for help-seeking strategies": {
+  "label": "help-seeking scaffolding vs no help-seeking scaffolding",
+  "treatment_is_a": true
+ },
+ "scaffolding\ttwo levels of student guidance\tsingle or unspecified level of guidance": {
+  "label": "multiple-level guidance vs single-level or unspecified guidance",
+  "treatment_is_a": true
  }
 }

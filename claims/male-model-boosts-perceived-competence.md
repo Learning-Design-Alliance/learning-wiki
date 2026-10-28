@@ -50,3 +50,4 @@ Mixed ANOVA on perceived competence in the 2x2 experiment: significant Test Mome
 - [Model-observer gender combination affects mental effort invested during example study: male students invest less effort with a male model, female students more effort with a male model](gender-interaction-mental-effort-example-study.md) — related
 - [Male secondary students report higher self-efficacy than female students after learning from video modeling examples, without higher performance](male-students-higher-self-efficacy-video-modeling.md) — related
 - [Model gender and observer gender do not affect learning outcomes or near transfer from video modeling examples](no-gender-effects-learning-transfer-video-modeling.md) — related
+- [Students across all genders perceive scientific citizenship positively](scientific-citizenship-positive-across-genders.md) — related

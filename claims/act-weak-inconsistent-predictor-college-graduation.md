@@ -56,3 +56,4 @@ Continuous-variable HLM models (Model 2, Table 4) predicting six-year graduation
 - [School average ACT scores predict college graduation for students with the same individual HSGPA and ACT score, reducing between-school variance by 42 percent, while school poverty is not significant once average ACT is included](school-average-act-explains-school-variance.md) — related
 - [Both HSGPA and ACT scores leave large high school effects on college graduation unexplained, which the study recommends measuring and publishing directly](high-school-effects-beyond-gpa-and-act.md) — related
 - [School-average ACT scores strongly predict individual college graduation, doubling the odds per standard deviation](school-average-act-predicts-graduation.md) — related
+- [Higher HSGPA and higher mathematics and chosen-subject matura scores significantly increase the predicted probability of graduation.](hsgpa-math-chosen-subject-increase-graduation-probability.md) — related

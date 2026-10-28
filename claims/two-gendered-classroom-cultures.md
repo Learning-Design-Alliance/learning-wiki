@@ -77,3 +77,4 @@ From the strong girls section: in the one group where boys did not dominate the 
 - [EQUIP data reports surfaced participation inequities that teachers were unaware of and motivated instructional change](equip-data-surfaces-unseen-participation-inequities.md) — related
 - [Black girls across developmental stages reported awareness of stereotypes specific to Black girls and connected them to negative school experiences](black-girls-stereotype-awareness-school-experiences.md) — related
 - [Boys report more frequent classroom discipline problems than girls in language classes](boys-report-more-discipline-problems-than-girls.md) — related
+- [Girls directed more visual attention to instructional content (virtual teacher and screen) while boys distributed attention more broadly including to virtual peer learners.](gender-differences-visual-attention-vr-classroom.md) — related

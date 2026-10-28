@@ -51,3 +51,5 @@ Discourse analysis of interaction transcripts from the same LARFLAST user study 
 ## Related Claims
 - [Interactive open learner modelling dialogue produced resultant learner models with more beliefs than initial models, most approved by both learners and a teacher](iolm-dialogue-increases-lm-beliefs-approved.md) — related
 - [The interactive open learner modelling approach was suitable for dealing with cold start in user-adaptive systems (OWL-OLM trial)](iolm-suitable-for-cold-start.md) — related
+- [Interactive open learner modelling can foster reflective thinking](iolm-fosters-reflective-thinking.md) — a broader claim this one bears on
+- [An evaluative study of STyLE-OLM shows the IOLM approach can improve the quality of the learner model](iolm-improves-learner-model-quality.md) — a broader claim this one bears on

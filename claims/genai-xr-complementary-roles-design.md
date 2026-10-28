@@ -54,3 +54,4 @@ Thematic analysis of semi-structured group interviews with the four GenARch team
 - [Students rated the flipped-learning component highest and the GenAI module lower, with GenAI rated stronger for ideation than for time saving or direct output use](genai-rated-for-ideation-not-time-saving.md) — related
 - [Prompts referencing architectural styles or local architectures yielded less desired image outcomes than future-themed prompts, motivating selectable checkpoints in GAI-A](style-prompts-underperform-future-themed-prompts.md) — related
 - [GAI tools enriched student ideation, aesthetic development and confidence in architecture and design education, especially for lower-competency learners](gai-tools-ideation-architecture-design-lower-competency.md) — related
+- [GenAI tools proved most valuable in early UX ideation stages, while design and testing require a human touch](genai-most-valuable-early-ux-stages.md) — related

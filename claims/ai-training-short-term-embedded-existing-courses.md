@@ -52,3 +52,4 @@ Systematic review synthesis of 11 studies answering research question 1 on train
 - [Integrated instructional hours correlate more positively with technology integration ability than stand-alone technology courses](integrated-hours-beat-standalone-tech-courses.md) — a broader claim this one bears on
 - [The IPS evidence base predominantly addresses information search and selection, with library and ecological-validity biases limiting generalizability to broader IPS competence](ips-evidence-base-search-selection-bias.md) — related
 - [PreK-12 and higher education differ in AI curriculum focus: AI literacy courses in PreK-12 versus incorporation of AI in teaching methodologies in higher education, and dropout prediction is concentrated in higher education](prek12-higher-ed-ai-focus-differences.md) — related
+- [Teachers Feel Confident to Teach AI but Many Not in the Short-Term Without Specific Training](teachers-confident-but-need-training.md) — related

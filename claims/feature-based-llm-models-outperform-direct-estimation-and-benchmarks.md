@@ -72,3 +72,4 @@ Reading holdout results: the random forest beat the direct approach, dummy regre
 - [Feature-based model predictive power derives from a large and varied set of features rather than a few dominant variables](feature-importance-spread-across-many-features.md) — related
 - [Models with similar rank correlations differ substantially in estimating difficulty magnitude (RMSE and MAE)](llm-difficulty-magnitude-error-varies-across-models.md) — related
 - [The explainable feature-based model with LLM-extracted features outperforms the closed-track encoder baseline by a wide margin](explainable-model-outperforms-closed-track-baseline.md) — related
+- [SGD classifiers on document-term matrices outperformed explicit linguistic-feature filters for removing low-scoring responses](sgd-classifier-filtering-outperformed-linguistic-features.md) — related

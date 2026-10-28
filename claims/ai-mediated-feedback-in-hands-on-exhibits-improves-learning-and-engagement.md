@@ -65,3 +65,4 @@ This is one of the stronger-evidence sources in this ingestion round: a randomiz
 - Adding prediction and discussion to lecture demonstrations significantly improves students' ability to explain the outcomes compared with merely observing — related
 - [Physical access to AI-provided material does not automatically produce epistemological access; facilitation converts one into the other](facilitation-converts-physical-to-epistemological-access.md) — reports the opposite
 - [Children who watched AI-powered interactive videos with contingent feedback scored 0.32 standard deviations higher on a science post-test than children who watched the non-interactive broadcast version](ai-interactive-video-science-learning-gain.md) — related
+- [BKT adaptivity in a mixed-reality Intelligent Science Station improves children's post-test learning of scientific principles compared to random task selection](bkt-adaptivity-mixed-reality-improves-science-learning.md) — related

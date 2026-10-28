@@ -43,7 +43,7 @@ In its What Does the Research Say? section, the primer attributes this synthesis
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does a learner's sense of belonging predict motivation, engagement, persistence and achievement?* This table gathers the studies behind this claim and the 9 narrower claims that bear on it: **9 distinct studies** (5 review, 2 quant-synthesis, 1 causal, 1 theoretical), `q2`–`q3`, 1 of 9 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does a stronger sense of belonging go with more engagement, achievement and persistence?* This table gathers the studies behind this claim and the 9 narrower claims that bear on it: **9 distinct studies** (5 review, 2 quant-synthesis, 1 causal, 1 theoretical), `q2`–`q3`, 1 of 9 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|

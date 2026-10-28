@@ -76,3 +76,4 @@ Human inter-rater reliability measured with Fleiss' κ among three researchers c
 - [Three expert coders reached 77.15% overall agreement (Fleiss' κ = 0.763) on the LCT MOOC sample, and over half of their disagreements lay between Exploration and Integration](coder-agreement-exploration-integration-disagreements.md) — related
 - [A structured negotiated-coding process reached nearly 98% interrater agreement before machine learning](negotiated-coding-98-consensus.md) — related
 - [Machine learning detects five of eight reflective-writing categories with substantial or almost perfect reliability and three with moderate reliability (Cohen's κ .53–.85)](ml-detects-reflection-categories-kappa-053-085.md) — related
+- [Inter-rater reliability between human experts and AI coding is very low](low-irr-experts-vs-ai-coding.md) — related

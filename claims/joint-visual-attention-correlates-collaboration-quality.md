@@ -57,3 +57,5 @@ In the editorial's summary of Schneider et al.'s TinkerLamp study, dyads used mo
 - [Proactive feedback produces significant post-intervention increases in Joint Visual Attention of dyads](propact-feedback-increases-jva-post-intervention.md) — related
 - [Collaboration quality relates to the ratio of group to individual activity in gaze-supported dyads](collaboration-quality-ratio-group-individual-activity.md) — related
 - [Joint attention is a group phenomenon not reducible to either individual's mental representations](joint-attention-group-phenomenon.md) — related
+- [Dialogue acts can distinguish balanced, supportive collaborative learning groups from unbalanced, unsupportive ones](dialogue-acts-distinguish-group-types.md) — related
+- [Recurrence indicators (gaze, lexical, emotional) predicted collaborative learning process measures but not learning performance](recurrence-indicators-predict-process-not-performance.md) — related

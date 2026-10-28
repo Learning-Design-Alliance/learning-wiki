@@ -58,3 +58,5 @@ One-way ANOVAs by gender across the seven TPACK domains in the 127-faculty surve
 - [Gender disparities in CT education show a very small but statistically significant overall effect favoring males (g = 0.106)](small-significant-gender-gap-ct-overall.md) — related
 - [Faculty report high self-perceived knowledge in traditional TPACK domains but substantially lower self-perceived knowledge in technology-integrated GenAI domains](faculty-high-traditional-low-technology-integrated-genai-knowledge.md) — related
 - [Self-perceived TPACK-21 domain scores do not differ significantly by faculty age group or appointment type](no-age-or-career-type-differences-tpack-genai.md) — related
+- [Gender differences in perceived transversal skills, with male students higher](gender-differences-transversal-skills-male-higher.md) — related
+- [Students across all genders perceive scientific citizenship positively](scientific-citizenship-positive-across-genders.md) — related

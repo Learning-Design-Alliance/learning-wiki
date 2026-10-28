@@ -52,3 +52,4 @@ Exploration-node accuracy was evaluated by comparing final exploration-of-catego
 - [Adding eye-tracking evidence to ACE's student model significantly improves assessment of implicit self-explanation over a time-only model](eye-tracking-improves-implicit-se-assessment.md) — a narrower finding that bears on this claim
 - [Customizing knowledge-node priors from pretest scores improves model accuracy, but tailoring SE-tendency priors yields no significant improvement](knowledge-priors-help-se-tendency-priors-do-not.md) — related
 - [Leave-one-out cross-validation over 36 students confirms significant accuracy and stability gains from eye-tracking in both self-explanation and exploration assessment](cross-validation-confirms-eye-tracking-gains.md) — related
+- [Eye-tracker attention patterns significantly improved a student model's ability to capture self-explanation versus a time-based predictor](eye-tracking-improves-self-explanation-modeling.md) — related

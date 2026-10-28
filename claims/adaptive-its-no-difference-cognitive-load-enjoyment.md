@@ -57,3 +57,4 @@ Linear regressions with condition as independent variable and the three self-rep
 - [Conscientiousness exploratorily moderated the effect of ITS condition on subjective difficulty and enjoyment](conscientiousness-moderates-difficulty-enjoyment-adaptive-its.md) — related
 - [KBD configuration produced no significant between-condition differences in system acceptance, intrinsic motivation, or subjective learning effectiveness in a single tutoring session](kbd-no-difference-acceptance-motivation-subjective-learning.md) — related
 - [The game sessions showed high attendance, engagement, and enjoyment, with no differences among conditions](board-game-high-engagement-enjoyment-attendance.md) — related
+- [Adaptivity does not sacrifice enjoyment](bkt-adaptivity-no-enjoyment-cost.md) — possibly the same claim (merge candidate)

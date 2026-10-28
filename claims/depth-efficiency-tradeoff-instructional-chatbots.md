@@ -52,3 +52,4 @@ Qualitative findings from the 41-instructor user study, drawn from surveys and 1
 - [Agreement between chatbot preference and perceived learning attribution was low (39%)](low-agreement-preference-learning-attribution-39-percent.md) — related
 - [How a user engages with AI matters more than whether: structured, deliberate engagement can mitigate or reverse offloading effects](engagement-style-matters-more-than-whether.md) — a broader claim this one bears on
 - [Authoring tool usability trades off against the depth and flexibility of the ITSs that can be built](authoring-tool-usability-power-tradeoff.md) — related
+- [Qualitative analysis suggests CTS dialog-based interaction already provides a natural level of learner control.](cts-dialog-provides-natural-learner-control.md) — related

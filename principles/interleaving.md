@@ -47,7 +47,7 @@ sources:
 # Interleaving
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 51 claims (21 for, 28 mixed, 2 against) · 30 studies (14 causal, 6 review, 4 quant-synthesis, 4 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 15 of 30 report an effect size · 48 claims rest on one study
+> **Evidence** · 52 claims (22 for, 28 mixed, 2 against) · 31 studies (15 causal, 6 review, 4 quant-synthesis, 4 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 16 of 31 report an effect size · 49 claims rest on one study
 
 ## Conditional relationship
 
@@ -148,6 +148,7 @@ Taken together: mixing kinds in practice reliably helps learners tell confusable
 - [Interleaving benefits were not detected on high-stakes midterm exams taken after cramming](../claims/interleaving-no-midterm-benefit-cramming.md) [~M] — attached 2026-10-26 from Joshua Samani et al. (2021), which proposed "Replace conventionally blocked homework with interleaved homework when assignments contain multiple isomorphic problems per topic"; tests this page's relationship.
 - [Controlling for prior knowledge and demographics, interleaving benefited all students on the final exam (β = 0.21, p < 0.001)](../claims/interleaving-final-exam-main-effect.md) [~M] — attached 2026-10-27 from Steve Bennoun et al. (2026), which proposed "Reorder homework sets so problems on each topic are distributed across multiple assignments — a low-cost restructuring that requires no extra time, technology, or curricular change"; tests this page's relationship.
 - [On the final exam, interleaving reduced gaps for URM students, first-generation students, students with lower mother's education, and students with weaker high school mathematics preparation](../claims/interleaving-reduces-prior-knowledge-gaps-final-exam.md) [~M] — attached 2026-10-27 from Steve Bennoun et al. (2026), which proposed "Reorder homework sets so problems on each topic are distributed across multiple assignments — a low-cost restructuring that requires no extra time, technology, or curricular change"; tests this page's relationship.
+- [Interleaving multiple graphical representations of fractions gave a qualified advantage over blocked practice, mainly on delayed conceptual transfer and for low-prior-knowledge students](../claims/interleaved-representations-better-learning.md) [+W] — attached 2026-10-28 from Rau et al. (2014), which proposed "Instructional materials should provide interleaved practice with multiple graphical representations to promote robust learning, especially for conceptual knowledge."; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

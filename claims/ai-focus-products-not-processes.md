@@ -53,3 +53,4 @@ In the discussion section of this comment article, the authors offer an interpre
 - [Current AIED rests on five faulty assumptions that risk learner dependence, isolation, and reduced flourishing](five-faulty-assumptions-aied-dependence.md) — related
 - [Over-reliance on AI scaffolding risks learned helplessness, so focus should shift to fostering self-regulated AI interaction](ai-scaffolding-fading-learned-helplessness.md) — related
 - [AI-driven reforms frequently operate through an efficiency–sustainability substitution mechanism that redefines sustainability as operational performance](efficiency-sustainability-substitution-mechanism.md) — related
+- [There is not currently a research foundation for K-12 AI education comparable to those for K-12 science and mathematics education](no-research-foundation-k12-ai-education.md) — related

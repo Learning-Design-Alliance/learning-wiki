@@ -45,6 +45,7 @@ Observational analysis of assignment–user pairs from an online introductory We
 
 
 ## Related Claims
+
 - [Advanced students showed reduced attempts with all hint types, while novices did not clearly benefit and made slightly more submissions with Single-Issue Feedback](advanced-students-attempt-reduction-novices-not.md) — related
 - [Attempt-reduction patterns differed across course parts: Diagnostic and General Feedback were associated with fewer attempts for New Content, Single-Issue for Old Content](attempt-reduction-varies-by-course-part.md) — related
 - [Feedback type did not affect whether students solved assignments; solution rates were very similar across all conditions](feedback-type-no-effect-solution-rates.md) — related
@@ -53,3 +54,4 @@ Observational analysis of assignment–user pairs from an online introductory We
 - [Natural language AI feedback is associated with faster convergence to correct solutions](nl-feedback-faster-convergence-correctness.md) — related
 - [All three LLM feedback types credibly reduced attempts to success relative to the baseline, with the largest reduction for Diagnostic Feedback](llm-feedback-fewer-attempts.md) — related
 - [Student-voted Good feedback was associated with far fewer attempts and shorter solution times than Poor feedback, and thematic analysis identified outdated references and false positives as common failure modes](student-voted-poor-feedback-failure-modes.md) — related
+- [Compiler errors accounted for over half of diagnosis interactions in the log analysis](ask-elle-compiler-errors-majority-of-interactions.md)

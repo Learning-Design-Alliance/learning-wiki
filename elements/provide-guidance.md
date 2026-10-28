@@ -93,6 +93,7 @@ Guidance reduces the working-memory burden of early learning by narrowing the sp
 **[Khan Academy](https://www.khanacademy.org)** — Narrated video demonstrations paired with practice exercises and a graduated hint system that delivers progressively more explicit guidance on demand.
 
 **[Cognitive Tutor](https://www.carnegielearning.com)** (Carnegie Learning) — Adaptive tutoring software that provides just-in-time hints and feedback calibrated to each learner's current step in a problem, enacting contingent guidance at scale.
+- [Author by tutoring a machine-learning agent rather than demonstrating solutions](../strategies/author-by-tutoring-machine-learning-agent.md)
 
 ## Key Sources
 - Sweller, J., & Cooper, G. A. (1985). The use of worked examples as a substitute for problem solving in learning algebra. *Cognition and Instruction, 2*(1), 59–89. [doi:10.1207/s1532690xci0201_3](https://doi.org/10.1207/s1532690xci0201_3)

@@ -50,3 +50,4 @@ Comparison of stratified 5-fold CV results (Table 9) with held-out test results 
 - [Decision quality collapses toward the majority action in severely imbalanced settings](decision-collapse-severely-imbalanced-settings.md) — related
 - [Core-Ed dimensions capture part of the FineWeb-Edu scalar signal while remaining not individually redundant with it (six-dimension cross-validated R2 of 0.228)](core-ed-dimensions-decompose-fineweb-edu-signal.md) — related
 - [Core-Ed Edu-QuRater scores vary sensibly with education-level metadata on out-of-sample materials (marginal Pearson correlations 0.62 and 0.64; six-dimension cross-validated R2 of 0.449)](core-ed-scores-track-education-level-metadata.md) — related
+- [The two-fold training process suffers from overfitting due to the small labeled training set relative to feature dimensionality.](overfitting-from-small-labeled-set-and-high-dimensionality.md) — related

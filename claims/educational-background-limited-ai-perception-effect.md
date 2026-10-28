@@ -53,3 +53,4 @@ One-way ANOVA by educational level in the quantitative phase (N = 302). The arti
 - [Prior AI-related training is associated with higher perception scores in the overall score and the willingness, attitudes, and personal-experiences dimensions](prior-ai-training-associated-perceptions.md) — related
 - [Syntea usage is slightly higher among Bachelor's (58.17%) than Master's students (54.25%), possibly reflecting program structure rather than acceptance](syntea-usage-bachelor-master-difference.md) — related
 - [Higher educational attainment is associated with more positive evaluations of international cooperation efforts](education-level-internationalization-perceptions.md) — related
+- [AI tool usage patterns differed by academic level](ai-usage-patterns-differ-by-level.md) — related

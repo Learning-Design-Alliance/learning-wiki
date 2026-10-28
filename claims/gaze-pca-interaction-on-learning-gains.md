@@ -9,6 +9,7 @@ generated:
   at: 2026-10-18
 evidence_strength: moderate
 newest_evidence: 2020
+source_checked: 2026-10-28
 sources:
   - id: hayashi-2020
     resource: "https://doi.org/10.1007/s11412-020-09333-3"
@@ -40,7 +41,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · causal `r2` · `q3` · `i2`–`i3`
-> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2020 · checked against its sources 2026-10-28 (automated, 3 of 3 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i2` A significant gaze × PCA interaction on gain score (η2p = 0.078). [→ Hayashi 2020](#hayashi-2020)
@@ -96,3 +97,4 @@ respectively)."
 - [Visible real-time gaze feedback improves collaborative-process coordination, especially information pooling, in dyadic knowledge integration tasks](gaze-feedback-improves-collaborative-process.md) — related
 - [PCA metacognitive suggestions improve consensus reaching, task division and reciprocal interaction during collaboration](pca-suggestions-improve-consensus-and-task-division.md) — related
 - [In a 2x2 experiment on jigsaw dyads, the implicit gaze awareness tool affected dialogue processes much more than the explicit pedagogical conversational agent, which compensated when gaze awareness was absent](gaze-awareness-tool-more-effective-than-explicit-agent-jigsaw-dyads.md) — related
+- [PCA facilitation did not significantly improve collaborative learning process or performance compared with no-PCA control](pca-facilitation-no-significant-gain.md) — related

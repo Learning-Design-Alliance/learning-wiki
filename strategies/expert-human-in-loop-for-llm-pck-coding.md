@@ -43,6 +43,7 @@ The article's discussion recommends exploring human-in-the-loop support when mul
 - [Integrate GPT models into LA-supported feedback systems with an iterative instructor-student validation loop to improve reliability](iterative-validation-loop-gpt-feedback-systems.md)
 - [Use customised LLM coding as a scalable first-pass for classroom dialogue analysis, with human review of low-reliability codes](llm-first-pass-dialogue-coding-with-human-review.md)
 - [Human-in-the-loop instructor control as a design direction for adaptive learning systems](human-in-loop-instructor-realtime-adaptive-control.md)
+- [Use iterative prompt engineering mirroring human coders' labeling processes to refine LLM classification prompts](iterative-prompt-engineering-mirroring-human-coder-refinement.md)
 
 ## Examples
 -

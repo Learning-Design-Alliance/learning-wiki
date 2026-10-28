@@ -37,7 +37,8 @@ NAEP is a recurring national student assessment administered by the National Cen
 - [The article presents a Bayesian reanalysis of NAEP long-term trend reading and math score changes from 2020 to 2023.](../claims/naep-ltt-2020-2023-bayesian-reanalysis.md) [+W]
 
 ## Related Products and Programmes
--
+
+- [NAEP 2023 Automatic Math Scoring Challenge dataset and competition](naep-2023-automatic-math-scoring-challenge-dataset-and-competition.md)
 
 ## Key Sources
 - Duncan Chaplin. (2021). Testimony: Impact of the DC School Reforms on Student Achievement. Mathematica. https://www.mathematica.org/publications/testimony-impact-of-the-dc-school-reforms-on-student-achievement

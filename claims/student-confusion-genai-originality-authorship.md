@@ -56,3 +56,5 @@ The originality findings from the thematic analysis report that "The views of pa
 - Evaluators view GenAI use in story writing as broadly acceptable but reject unacknowledged use and demand compensation for source creators — related
 - [Students and educators disagree on the acceptability of unacknowledged generative AI use across academic writing subtasks](student-educator-ai-acceptability-gaps.md) — related
 - [Focus-group participants preferred creating their own essays while viewing ChatGPT as an initial resource for fundamentals and idea generation](participants-prefer-own-essays-chatgpt-initial-resource.md) — related
+- [Graduate students experienced GenAI-assisted research as supporting originality through new ideas and perspectives](genai-assisted-research-supports-originality.md) — related
+- [Graduate students initially feared GenAI use constituted cheating but came to view it as a collaborative tool compatible with academic integrity when used responsibly](genai-collaboration-shifts-student-integrity-perceptions.md) — related

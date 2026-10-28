@@ -54,3 +54,4 @@ ANOVA on proportion of multiple-choice questions correctly answered across 6 mys
 - [High-performance feedback increases performance expectations more than low-performance feedback, with additive effects of age and control beliefs](high-performance-feedback-increases-performance-expectations.md) — related
 - [The false feedback manipulation successfully altered performance beliefs: the high-PFB group rated their performance higher relative to age peers than the low-PFB group](false-feedback-manipulation-check-successful.md) — related
 - [High-performance feedback increases self-efficacy more than low-performance feedback, with comparable effects across younger and older adults](high-performance-feedback-increases-self-efficacy-across-age-groups.md) — related
+- [Percentage of students solving the mystery does not differ significantly by SRL group](no-srl-difference-mystery-completion.md) — related

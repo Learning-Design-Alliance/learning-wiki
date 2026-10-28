@@ -52,3 +52,4 @@ ANOVA on the transfer-of-learning measure in the tutoring experiment; only the t
 - [General biology students in the expansive condition transferred more of what they learned about the differential pressure principle (d = 1.2)](general-biology-transfer-of-learning-differential-pressure.md) — related
 - [Expansive framing increased transfer-after-exposure of facts (d = .94)](expansive-framing-boosts-transfer-after-exposure-facts.md) — related
 - [Students perceived the intended expansive versus bounded framing manipulation (d = 1.4)](students-perceived-framing-manipulation.md) — related
+- [Adaptive condition shows only a non-significant trend for transfer to engineering outcomes (tower building)](bkt-adaptivity-tower-building-nonsignificant-trend.md) — related
