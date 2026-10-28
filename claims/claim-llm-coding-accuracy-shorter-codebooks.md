@@ -85,3 +85,4 @@ Same mixed-effects analysis, using a Word Difficulty Score based on COCA inverse
 
 ## Related Claims
 - [Cosine similarity has opposing effects on LLM coding accuracy: lower similarity within codebooks helps, higher similarity within excerpts helps](claim-opposing-cosine-similarity-codebook-excerpt.md) — related
+- [Higher-scored learner answers tend to be longer, and crowdsourced answers tend to be shorter than original classroom data](higher-scored-answers-tend-longer.md) — related

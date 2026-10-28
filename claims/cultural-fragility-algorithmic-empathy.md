@@ -79,3 +79,4 @@ The article's argued cross-context transfer risk, grounded in the observation th
 - [Cultural variations exist in emotion and other psychological topics of interest to AIED, so psychology research influencing AIED is likely WEIRD-imbalanced](cultural-variation-emotion-aied-topics.md) — related
 - [The intelligent learning systems in the issue all include some features of profound empathy but all lack an elaborate definition of care](issue-systems-lack-elaborate-care-definition.md) — related
 - [A student model that is easily ported to another ITS may still fail there, because student behaviour depends on domain, interface, and the system that generated training data, so ported models must be re-tested.](ported-models-context-sensitive-must-be-retested.md) — related
+- [FATE issues in AIEd present themselves when users gain ownership and adapt systems to their local contexts](ownership-process-surfaces-fate-issues.md) — related

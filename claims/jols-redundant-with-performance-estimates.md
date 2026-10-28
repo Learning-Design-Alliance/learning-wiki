@@ -52,3 +52,4 @@ In the N = 15 experiment, median JOL (3.75 steps) closely matched median perform
 - [Making JOLs is not a neutral act: metacognitive ratings reactively affect subsequent learning, so experiments need judgment-free conditions](jol-reactivity-requires-judgment-free-control-condition.md) — related
 - [Delayed JOL bias: multiple text readers are underconfident, rereaders overconfident at one day, and single readers overconfident at one week](mtr-underconfident-rr-overconfident-bias.md) — related
 - [Backward-associated word pairs produce a foresight bias: judgments of learning are inflated relative to actual recall when the dominant association runs from target to cue](foresight-bias-backward-pairs-inflated-jols.md) — related
+- [Learners' self-efficacy judgments during problem-solving shift from being informed by accuracy to being increasingly informed by fluency over time](self-efficacy-shifts-accuracy-to-fluency.md) — related

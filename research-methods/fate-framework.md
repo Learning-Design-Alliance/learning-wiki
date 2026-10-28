@@ -26,6 +26,7 @@ The article organizes the evaluation of multimodal learning analytics around fou
 ## Accounts
 <!-- How each source describes or uses the method -->
 - **FATE framework for MMLA: fairness, accountability, transparency, and ethics as student-centred evaluation dimensions**: The article organizes the evaluation of multimodal learning analytics around four dimensions synthesized from prior FATE research in AI and learning analytics. Fairness concerns unbiased analytics and "the equitable and impartial reporting and visualization of these analytics"; accountability concerns distributed responsibility and data access; transparency concerns articulation of data-driven insights so students can understand and trust them; ethics concerns privacy and informed consent. The study operationalizes each dimension through student interviews after an authentic MMLA deployment. (Jin et al. (2024))
+- **FATE in AIEd conceptualized as four interwoven, inseparable dimensions**: The article defines FATE in AIEd as four interwoven dimensions: fairness attends to discrimination based on contextual and temporal student characteristics; accountability provides mechanisms for teacher knowhow and institutional resources; transparency discloses design rationale to practitioners; and ethics keeps "values of fairness, local voice, and agency in view". The authors state the dimensions are "interwoven and inseparable from one other", so a fairness issue entails transparency, ethics, or accountability problems. (Bhimdiwala et al. (2022))
 
 ### Claims
 - [Students' perceptions of the fairness of MMLA visualizations in an authentic nursing simulation deployment were mixed, hinging on accuracy and completeness of data representation](../claims/mmla-fairness-perceptions-mixed-accuracy.md) [+M]
@@ -38,8 +39,8 @@ The article organizes the evaluation of multimodal learning analytics around fou
 
 ## Key Sources
 - Jin, Y., Echeverria, V., Yan, L., Zhao, L., Alfredo, R., Tsai, Y.-S., Gašević, D., & Martinez-Maldonado, R. (2024). FATE in MMLA: A Student-Centred Exploration of Fairness, Accountability, Transparency, and Ethics in Multimodal Learning Analytics. Journal of Learning Analytics, 11(3), 6–23. https://doi.org/10.18608/jla.2024.8351
-
 <!-- merged 2026-10-10 from theories/fate-framework-mmla-student-centred ("FATE framework for MMLA: fairness, accountability, transparency, and ethics as student-centred evaluation dimensions"), misfiled as a theorie and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+- Bhimdiwala, A., Neri, R. C., & Gomez, L. M. (2022). Advancing the Design and Implementation of Artificial Intelligence in Education through Continuous Improvement. International Journal of Artificial Intelligence in Education. https://doi.org/10.1007/s40593-021-00278-8
 
 # FATE framework for MMLA: fairness, accountability, transparency, and ethics as student-centred evaluation dimensions
 

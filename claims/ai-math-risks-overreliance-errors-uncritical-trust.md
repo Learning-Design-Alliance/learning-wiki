@@ -212,3 +212,5 @@ Review synthesis on uncritical trust in AI outputs. The authors conclude that "u
 - [Overreliance on GenAI risks diminishing higher-order thinking skills and programming logic](genai-overreliance-risks-hots-programming-logic.md) — related
 - [Factor 3 student teachers were uncritical users whose agency was almost completely subverted to the GenAI system](f3-uncritical-reliant-diminished-agency.md) — a narrower finding that bears on this claim
 - [LLMs show discoverability bias: they accurately identify only high-quality open-ended biology responses and miss nuanced misconceptions](llm-discoverability-bias-open-ended-biology-assessment.md) — a narrower finding that bears on this claim
+- [Students were far more likely to accept peer-written alternative endings as valid conclusions to the novel than ChatGPT-generated endings](peer-endings-accepted-more-than-chatgpt-endings.md) — a narrower finding that bears on this claim
+- [Optimizing pedagogical parameters on proxy measures risks trading learning for engagement, and simulated students carry their own accuracy limits](proxy-optimization-engagement-trap.md) — related

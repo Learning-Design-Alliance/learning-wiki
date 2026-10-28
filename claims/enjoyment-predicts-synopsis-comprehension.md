@@ -75,3 +75,4 @@ Direct replication (N = 40); reading ability was excluded because it "was not si
 - [Rated enjoyment of a synopsis predicts readers' willingness to take on a temporal cost (waiting for more book information) in both experiments](enjoyment-predicts-willingness-to-wait.md) — related
 - [Trait motivation (AMRS) and reading engagement do not significantly correlate with wait decisions or task comprehension](trait-motivation-uncorrelated-with-waiting.md) — related
 - [Average task enjoyment correlates with trait-based reading motivation (AMRS) but not with reading engagement](task-enjoyment-correlates-with-amrs.md) — related
+- [Spendency is unrelated to prior reading ability, prior self-explanation performance, and self-reported enjoyment and motivation](spendency-unrelated-prior-ability-attitudes.md) — reports the opposite

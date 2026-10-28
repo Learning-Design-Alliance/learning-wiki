@@ -36,7 +36,7 @@ sources:
 # Validity, Reliability, and Bias in Classroom Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 291 claims (127 for, 143 mixed, 21 against) · 217 studies (85 associational, 50 design, 29 review, 24 theoretical, 20 causal, 6 quant-synthesis, 3 qualitative), `q1`–`q3` · 20 of 217 report an effect size · 284 claims rest on one study
+> **Evidence** · 297 claims (128 for, 146 mixed, 23 against) · 222 studies (86 associational, 53 design, 29 review, 25 theoretical, 20 causal, 6 quant-synthesis, 3 qualitative), `q1`–`q3` · 20 of 222 report an effect size · 290 claims rest on one study
 
 ## Conditional relationship
 
@@ -228,6 +228,8 @@ Claims linked to this page that do not bear on its relationship, a step or a sit
 - [Assessment methods unintentionally impose differing working-memory demands that confound measurement of the target construct (test impurity), biasing results along a gradient of students' WM capacity](../claims/assessment-test-impurity-working-memory-confound.md) [+W] — attached 2026-10-26 from Howard et al. (2017), which proposed "Design assessments to maximise variance associated with the target competencies and minimise variance from extraneous information and processing".
 - [Experimentally removing reading requirements eliminates the SES gap in standard creativity measures: high-SES students outperform low-SES ones only when they read the prompts themselves](../claims/rct-reading-requirements-eliminate-ses-gap.md) [+W] — attached 2026-10-27 from Guilherme Lichand et al. (2026), which proposed "Assessments of higher-order skills should account for limitations in foundational skills, e.g., by administering oral exams or non-verbal measures"; tests this page's relationship.
 - [In PISA 2022-like creativity items, the SES gap reverses in favor of low-SES students when enumerators read the prompts](../claims/pisa-items-ses-gap-reverses-without-reading.md) [+W] — attached 2026-10-27 from Guilherme Lichand et al. (2026), which proposed "Assessments of higher-order skills should account for limitations in foundational skills, e.g., by administering oral exams or non-verbal measures"; tests this page's relationship.
+- [Crosslingual content scoring transfer works better between closely related languages, with Chinese the hardest target in this setup](../claims/crosslingual-transfer-language-proximity.md) [+W] — attached 2026-10-27 from Andrea Horbach et al. (2024), which proposed "Do not use crosslingual automated content scoring for high-stakes assessment at present".
+- [Clusters computed from pre-trained LLM embeddings show low overall alignment with theory-driven Knowledge Profiles of student biology responses](../claims/llm-embedding-clusters-low-alignment-kps.md) [-W] — attached 2026-10-27 from Abigail Gurin Schleifer et al. (2025), which proposed "Validate and adjust pre-trained LLM embeddings before using them for task-specific formative assessment"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 
@@ -365,6 +367,10 @@ Content validity, construct validity, criterion validity, consistency across occ
 - [Removing native language (L1) sharply degrades discourse-feature scoring on TOEFL11 but not on FCE](../claims/l1-feature-influences-discourse-features-toefl11.md) [-W]
 - [Automated concept-based scoring for c-rater model building achieved kappa comparable to manually built models in 11 of 12 scenarios](../claims/c-rater-automated-concept-scoring-comparable-kappa.md) [~W]
 - [The most accurate scorer showed no gender disparity but a small significant language-background disparity favoring foreign-language speakers](../claims/language-bias-favors-foreign-speakers-roberta-svm.md) [-W]
+- [Cronbach's alpha if-item-deleted analysis identifies constraints that reduce problem consistency](../claims/cronbach-alpha-if-deleted-constraint-analysis.md) [~W]
+- [Aberrant student behavior produces systematic, non-random data biases: cheating concentrated in difficult exercises and domain-dependent rapid guessing](../claims/aberrant-behavior-systematic-data-biases.md) [~W]
+- [Machine translation of training and test data does not degrade monolingual content scoring performance and can normalize learner errors](../claims/mt-normalizes-learner-errors-scoring.md) [~W]
+- [Prior machine learning research on reflection detection covers only partial models with no evidence of empirical validity and mostly no reported inter-rater reliability](../claims/prior-ml-reflection-research-fragmented-unvalidated.md) [-W]
 
 ## Related Principles
 - [Criterion- and Norm-Referenced Testing](criterion-and-norm-referenced-testing.md) — validity and reliability apply to standardized as well as teacher-made assessments, with additional considerations

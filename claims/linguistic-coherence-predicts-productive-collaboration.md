@@ -56,3 +56,4 @@ The review reports, citing Schneider and Pea (2015), a methodological study comb
 - [Levels of joint visual attention are correlated with collaboration quality across collaborative groups](jva-correlated-with-collaboration-quality.md) — related
 - [Multimodal data can reverse the interpretation of silence in collaborative problem-solving](multimodality-reverses-silence-interpretation-cps.md) — related
 - [High joint visual attention can hide a free-rider effect in collaborative dyads](high-jva-hides-free-rider-effect.md) — related
+- [Current interaction analysis shows a gap between collecting and visualizing mined data and interpreting it in terms of the learning process](gap-mined-data-learning-interpretation.md) — related

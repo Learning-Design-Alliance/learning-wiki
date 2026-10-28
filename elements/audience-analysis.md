@@ -13,7 +13,7 @@ generated:
 # Audience Analysis
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 26 claims (15 for, 11 mixed) · 34 studies (11 associational, 7 causal, 7 review, 5 theoretical, 2 quant-synthesis, 1 qualitative, 1 design), `q1`–`q4` · 4 of 34 report an effect size · 21 claims rest on one study
+> **Evidence** · 27 claims (16 for, 11 mixed) · 35 studies (11 associational, 7 causal, 7 review, 5 theoretical, 2 quant-synthesis, 2 design, 1 qualitative), `q1`–`q4` · 4 of 35 report an effect size · 22 claims rest on one study
 
 ## Description
 Audience analysis (often called learner analysis) is the systematic investigation of who the learners are — their prior knowledge, skills, motivations, language proficiency, demographics, and learning context — conducted before designing instruction. It functions as the evidence base for decisions about sequencing, vocabulary, examples, pacing, and support, replacing designer assumptions with data about the actual audience.
@@ -75,6 +75,7 @@ Audience analysis improves learning primarily by aligning instruction with learn
 - [Latent profile analysis of RIASEC interests in Dutch Grade 9 students reveals seven distinct vocational interest profiles](../claims/seven-vocational-interest-profiles-grade-9.md) [+W]
 - [Latent profile analysis of nine cognitive and motivational-affective characteristics identifies three learner profiles (inattentive unfavorable, attentive unfavorable, favorable)](../claims/three-profiles-cognitive-motivational-lpa.md) [+W]
 - [Lower SES predicts assignment to the inattentive unfavorable and attentive unfavorable learner profiles](../claims/lower-ses-predicts-unfavorable-profiles.md) [~W]
+- [A Spring 2020 pre-course survey of 48 RDS students found mostly masters-level technical majors, about half with little to no prior knowledge of legal studies or social science, and a majority holding that data science and AI should reflect ethical principles](../claims/rds-precourse-survey-background.md) [+W]
 
 ## The evidence by question
 

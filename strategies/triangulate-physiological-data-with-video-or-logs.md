@@ -48,6 +48,7 @@ The article recommends combining physiological sensors with other data sources t
 - [Combine system logs, eye-tracking, and speech recognition to capture professional performance, communication, and collaboration for automated feedback in full-mission simulator training](mmla-sensor-set-simulator-feedback.md)
 - [Use multimodal data and time-sensitive analyses to capture situational motivational processes](multimodal-data-time-sensitive-analyses-motivation.md)
 - [Employ multimodal methods to capture the multifaceted feedback process](multimodal-methods-feedback-process.md)
+- [Use unobtrusive AI facial expression recognition alongside qualitative interaction coding to study emotion regulation in collaborative learning](fer-alongside-qualitative-coding-for-ssrl-research.md)
 
 ## Examples
 -

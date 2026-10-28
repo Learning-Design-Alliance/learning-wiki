@@ -60,7 +60,7 @@ Multilevel random-effects meta-analysis of 59 studies (238 effect sizes, 158 sam
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Should examples or problems of confusable categories be met in blocks or interleaved, and for which materials?* This table gathers the studies behind this claim and the 11 narrower claims that bear on it: **6 distinct studies** (3 causal, 2 quant-synthesis, 1 review), `q2`–`q4`, 3 of 6 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Should labelled examples of confusable categories be mixed or presented one category at a time, and for which material?* This table gathers the studies behind this claim and the 11 narrower claims that bear on it: **6 distinct studies** (3 causal, 2 quant-synthesis, 1 review), `q2`–`q4`, 3 of 6 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|

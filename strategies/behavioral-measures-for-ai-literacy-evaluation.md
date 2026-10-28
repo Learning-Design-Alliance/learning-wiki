@@ -42,6 +42,7 @@ The article recommends that AI literacy interventions be evaluated with behavior
 - [Evaluate LLM-supported learning beyond binary access by measuring enacted interaction and preserving no-help assessments](evaluate-llm-learning-beyond-access.md)
 - [Combine cognitive tasks and ecological teacher questionnaires when measuring children's inhibition for academic research](combine-task-and-teacher-inhibition-measures.md)
 - [Use external instruments rather than teacher judgment to measure learning strategies for differentiation decisions](external-instruments-measure-learning-strategies.md)
+- [Evaluate satisfaction with the learning experience separately from satisfaction with the learning outcome](evaluate-experience-and-outcome-satisfaction-separately.md)
 
 ## Examples
 -

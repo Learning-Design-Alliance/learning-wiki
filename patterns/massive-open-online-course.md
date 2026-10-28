@@ -170,6 +170,7 @@ This pattern is scoped to open courses at a scale where teacher time per learner
 - The original Downes/Siemens connectivist MOOCs (2008–2009), built around distributed, learner-networked content rather than centralized video lectures
 - [Use a four-week MOOC seminar with rubric self-assessment to develop teachers' OER competencies](../strategies/mooc-seminar-rubric-self-assessment-oer-strategy.md)
 - [KISS-Pro openHPI MOOC on AI for teachers](../designs/kiss-pro-openhpi-mooc-ai-teacher-pd.md) — a self-paced teacher PD course carrying a face-to-face training to a wider audience
+- [Address MOOC personalization at scale by using learners as helpers plus personalization technology to find the right helper at the right time](../strategies/peer-help-personalization-scalable-moocs.md)
 
 ## Key Sources
 - Weller, M. (2018). Twenty years of EdTech. *EDUCAUSE Review, 53*(4). Republished in R. West (Ed.), *Foundations of Learning and Instructional Design Technology*. EdTech Books. [https://edtechbooks.org/lidtfoundations/twenty_years_of_edtech](https://edtechbooks.org/lidtfoundations/twenty_years_of_edtech)

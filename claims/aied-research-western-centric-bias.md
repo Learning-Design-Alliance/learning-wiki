@@ -48,3 +48,4 @@ The editorial reports Blanchard's (2014) analysis of a decade of AIED publicatio
 - [School belonging research is geographically concentrated in WEIRD contexts, with entire world regions virtually absent from the evidence base](weird-concentration-school-belonging-research.md) — related
 - [Recent ITS research shows a strong WEIRD bias, with approximately 75% of papers having a first author in a Western, Educated, Industrialized, Rich, Democratic country](its-research-weird-bias-75-percent.md) — related
 - [Populations most exposed to agentic AI risks are least served by AI literacy research: no scale has been tested for cross-cultural validity](equity-gap-ai-literacy-scales-cross-cultural-validity.md) — related
+- [AIED has long researched pedagogy, cognition, and social and cultural context, with ethics and human rights a strong more recent interest](aied-already-researches-pedagogy-cognition-rights.md) — related

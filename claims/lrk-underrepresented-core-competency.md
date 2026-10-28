@@ -53,3 +53,4 @@ Finding from the integrative literature review's thematic coding (Table 1). The 
 - [Agency, information, linking, and meta-discourse dimensions appeared infrequently in the dataset despite their theoretical importance](agency-information-linking-meta-discourse-infrequent.md) — related
 - [Existing legal and sector guidance each address only part of ethical learning analytics governance, and none integrates all six LEAGUE dimensions](existing-guidance-partial-ethical-coverage.md) — related
 - [The EU AI Act's ban on emotion recognition in education restricts an area of potential application for learning analytics](eu-emotion-recognition-ban-limits-la-applications.md) — related
+- [AIED, as a small academic society, is in a weak position to regulate the AI-in-education market](aied-weak-position-regulate-market.md) — related

@@ -72,3 +72,4 @@ RQ3 thematic analysis of focus groups reports these output-quality concerns; par
 - [Disciplinary expertise alone is insufficient for teachers to detect GenAI representational bias](discipline-expertise-insufficient-bias-detection.md) — related
 - [Faculty focus groups raised concerns about authenticity, validity, and reliability of ChatGPT-generated SBMCQs, including cultural and linguistic bias](faculty-fgd-concerns-chatgpt-sbmcq-quality.md) — a narrower finding that bears on this claim
 - [The main concern in all critical evaluations was the veracity of ChatGPT-provided references, which often do not exist](chatgpt-references-often-do-not-exist.md) — a narrower finding that bears on this claim
+- [ChatGPT users report fabricated references and wrong sources from auto-generated literature content](chatgpt-fabricated-references-wrong-sources.md) — a narrower finding that bears on this claim

@@ -47,3 +47,4 @@ Theoretical commentary arguing from observation of the AIED backlash. The author
 ## Related Claims
 - [AIED has reached substantial commercial scale while attracting criticism for poor pedagogy, datafication and surveillance](aied-commercialisation-and-critique-conundrum.md) — a narrower finding that bears on this claim
 - [Teachers report concerns about infrastructure, reliability, age appropriateness, teacher competence, and student over-reliance on AI](teacher-constraints-responsible-ai-integration.md) — related
+- [Legitimate concerns exist about aied rollout regarding datafication, surveillance, and possibly poor pedagogy](aied-rollout-datafication-surveillance-concerns.md) — related

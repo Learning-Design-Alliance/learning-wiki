@@ -75,3 +75,4 @@ Another student comment in the same theme, noting the virtual lab hastened learn
 - [Inquiry activities can be especially beneficial for students in low-income schools, yet resource demands can impede equitable scaling](inquiry-benefits-low-income-equity-tension.md) — related
 - [High school students report they learn best through interactive, hands-on projects, real-world applications, and discussions rather than lectures, note-taking, and worksheets](students-report-hands-on-learning-most-effective.md) — related
 - [Virtual labs showed a limitation in helping students transfer what they learned from teacher demonstration to new inquiry contexts](virtual-lab-transfer-from-demonstration-limited.md) — related
+- [Wavelength (and analogously voltage) is a difficult concept for learners: most show no improvement and some regress, even under systematic inquiry](wavelength-voltage-hard-to-learn-simulations.md) — related

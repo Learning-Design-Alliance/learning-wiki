@@ -74,3 +74,4 @@ The report, citing Lopez, Heilig, & Schram (2013) and Bosse et al. (2011), state
 - [Senior-year advanced coursework is unevenly distributed by race/ethnicity among CPS graduates](cps-senior-year-coursework-racial-gaps.md) — related
 - [A few decision-tree splits identify very high-risk students, such as low-SES students who doubt they will reach college](few-splits-identify-high-risk-students.md) — related
 - [Technology access problems during the COVID shift were more prevalent among minoritized students and students from lower-income households](covid-stem-tech-access-inequity.md) — related
+- [Many countries face serious STEM education problems, and tailoring instruction to students' knowledge levels is identified as a key challenge](stem-problems-tailoring-instruction-challenge.md) — related

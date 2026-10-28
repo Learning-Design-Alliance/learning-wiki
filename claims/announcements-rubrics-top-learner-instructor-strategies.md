@@ -50,3 +50,4 @@ Student ratings in the survey study identified the top learner-to-instructor str
 - [Instructor-confirmed grading errors occurred at roughly 0.02–0.04% of rubric line items across the term](lata-instructor-confirmed-error-rate.md) — related
 - [GPT-4o's rubric-guided grading of team communication disagreed with instructors at near-chance levels (55% RMSE), while GPT-5.2 improved but remained insufficiently aligned (35%)](llm-communication-grading-insufficient-alignment-ttx.md) — related
 - [Online students value learner-to-instructor engagement strategies most among the three interaction categories](learner-to-instructor-strategies-most-valued-online.md) — a broader claim this one bears on
+- [Mailing students the low-cost Bluetooth robot in the online How to Train Your Robot workshop increased excitement about the topic and aided understanding of computational ideas](robot-component-engagement-online-ai-workshop.md) — related

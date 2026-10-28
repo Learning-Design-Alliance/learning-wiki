@@ -68,3 +68,4 @@ Questionnaire with five-point Likert scales and open-text feedback in both user-
 - [Assessing AI feedback within PAIRR helped students develop AI literacy and writerly agency, with very few showing overconfidence in AI](assessing-ai-feedback-builds-ai-literacy-and-agency.md) — related
 - [Large language models can produce fluent but factually inaccurate or fabricated outputs (AI hallucination), posing risks for uncritical users in science education](llm-hallucination-risk-science-education.md) — related
 - [A student-facing chatbot was pulled after it reinforced a student's self-deprecating views about math, illustrating substantial risk of direct AI engagement with students](student-facing-chatbot-toxicity-risk.md) — related
+- [ChatGPT users report fabricated references and wrong sources from auto-generated literature content](chatgpt-fabricated-references-wrong-sources.md) — related

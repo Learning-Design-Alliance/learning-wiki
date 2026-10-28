@@ -70,3 +70,4 @@ The review reports that Moreno and colleagues found transfer, not recall, enhanc
 - [Animated personas produce better learning than static ones, and agent voice contributes significantly to learning](animated-persona-and-voice-effects.md) — related
 - [The review reports no evidence that the mere visual presence of a human-like body produces distinct effects, though likeable appearance improves motivation and transfer](no-evidence-mere-visual-presence-social-cue-hypothesis.md) — related
 - [APAs produce more definitive results for affective gain and group learning than for cognitive achievement gains](apa-affective-gain-stronger-than-cognitive.md) — related
+- [Emotional feedback from an animated pedagogical agent produced no significant learning performance gain but made the learning process more engaging](emotional-feedback-engaging-not-performance.md) — related

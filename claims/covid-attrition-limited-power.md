@@ -47,3 +47,4 @@ Attrition analysis in the RCT: nationwide school closures in early 2021 prevente
 ## Related Claims
 - [Systematic attrition differences mean COVID-19 impacts on student achievement are likely underestimated in fall 2020 MAP Growth results](covid-achievement-impacts-likely-underestimated-attrition.md) — related
 - [Educators and evaluators faced open questions about how to measure student performance after COVID disruptions](measuring-student-performance-after-covid-open-question.md) — related
+- [Mastery learning implementation causes a mastery attrition bias that confounds learning curves, and it cannot be addressed universally](mastery-attrition-bias-confounds-learning-curves.md) — related

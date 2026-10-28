@@ -72,3 +72,4 @@ Convergent validity analysis (Table 9). All CR values "exceed 0.7"; AVE values b
 - [SFAILQ shows high reliability, convergent validity with digital literacy (r = 0.49–0.68), and discriminant validity (HTMT below 0.80)](sfailq-reliability-convergent-discriminant.md) — related
 - [CTAT shows robust psychometric properties for higher education CS/AI students, with reliable internal consistency and adequate IRT item parameters](ctat-robust-psychometric-properties.md) — related
 - [The GAA-LS shows satisfactory-to-strong internal consistency and evidence of convergent and discriminant validity](gaa-ls-reliability-convergent-discriminant.md) — related
+- [Cronbach's alpha if-item-deleted analysis identifies constraints that reduce problem consistency](cronbach-alpha-if-deleted-constraint-analysis.md) — related

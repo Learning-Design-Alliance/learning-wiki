@@ -58,3 +58,4 @@ Theoretical argument in the chapter's Section 3, offered as a conjecture buildin
 - [Scaling up educational innovation requires attention to breadth of use, depth of understanding, sustainability, and teachers' ability to refine the innovation](scaling-up-dimensions-breadth-depth-sustainability.md) — related
 - [Development of collaborative classrooms and effective CSCL curriculum is a multi-year, multi-iteration process requiring sustained institutional commitment](cscl-teacher-development-multi-year-multi-iteration.md) — related
 - [Program-based studies cannot isolate the effect of inquiry-based instruction because they vary many program elements simultaneously](program-based-studies-cannot-isolate-inquiry-effect.md) — related
+- [Waterfall-like design spaces are inadequate for AIEd because adaptable systems have untestable states](waterfall-design-inadequate-for-aied.md) — related

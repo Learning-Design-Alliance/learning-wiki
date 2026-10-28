@@ -55,3 +55,4 @@ Secondary report: this review article describes Barnes and Stamper (2008), whose
 - [K-12 learners preferred incremental hints and multiple attempts over immediately revealed solutions](learners-prefer-incremental-hints-over-solutions.md) — related
 - [Personalized hints raise student success at solving exercises: 60.47% success before second attempt with the discourse model versus 37.93% baseline (p = 0.03)](personalized-hints-improve-success-rate-pilot.md) — related
 - [Dynamically generated proof graphs let LOGAX recognize all correct student solutions and give hints on them](dynamic-dams-recognize-all-student-solutions.md) — related
+- [Canonicalization reduces solution space size, with a 60% reduction for correct states versus 26% for incorrect states](canonicalization-reduces-solution-space-size.md) — related

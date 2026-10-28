@@ -49,3 +49,5 @@ The article's abstract, an author explanation rather than a reported study, stat
 - Procedures developed for evaluating content alignment of linear tests are not readily applicable to computerized adaptive tests — related
 - [The study examines how CAT test design and item bank distribution affect content coverage and test efficiency in a CCSS-aligned reading comprehension test](cat-design-and-bank-distribution-affect-coverage-and-efficiency.md) — related
 - [Adaptivity and score reliability of both engines depend on item-pool depth; the CBE often performed better than COLO for extreme low or high achievers when item banks were shallow](cbe-better-adaptivity-extreme-achievers-shallow-banks.md) — related
+- [On the TIMSS dataset, random sampling performs well compared to a normal adaptive test, possibly because the test is already balanced](random-competitive-with-cat-on-balanced-timss.md) — a narrower finding that bears on this claim
+- [On the TIMSS dataset, InitialD reaches the same estimation error with fewer questions than random sampling or a traditional adaptive test](initiald-question-efficiency-timss.md) — related

@@ -54,3 +54,4 @@ The two-wave SEM of 360 university students supported the hypothesis that "H3c w
 - [Task interest remains stable across consecutive creativity tasks: interest in one task is strongly and directly associated with interest in the next, with little mediation by task experience](task-interest-stable-across-creativity-tasks.md) — related
 - [Perceived effort ratings are metacognitive judgments based on heuristic cue processing and prone to bias](perceived-effort-metacognitive-judgment.md) — related
 - [Task interest was strongly interconnected across the course, with each task's interest predicting interest in the next tasks.](task-interest-strong-proximal-interconnections.md) — related
+- [Student task value judgments' antecedents and consequences show initial interest and mastery goals predict subsequent interest, and individual differences matter for teaching strategy](hulleman-task-values-individual-differences.md) — related

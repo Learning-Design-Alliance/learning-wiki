@@ -35,7 +35,7 @@ sources:
 # Harmonize opposites: strike a balance between competing educational ideas rather than embracing one method wholesale
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 31 claims (20 for, 11 mixed) · 25 studies (8 review, 6 causal, 6 theoretical, 3 quant-synthesis, 1 qualitative, 1 design), `q1`–`q4` · 4 of 25 report an effect size · 29 claims rest on one study
+> **Evidence** · 32 claims (21 for, 11 mixed) · 26 studies (8 review, 7 theoretical, 6 causal, 3 quant-synthesis, 1 qualitative, 1 design), `q1`–`q4` · 4 of 26 report an effect size · 30 claims rest on one study
 
 ## Conditional relationship
 
@@ -160,6 +160,7 @@ Combining two methods, the share of time each gets, the order of the two, and th
 - [Educational factors supportive of adolescent creativity include balancing freedom with guidance, openness to student ideas, trust, and varied learning resources](../claims/educational-factors-support-adolescent-creativity.md) [+W]
 - [The relation between frequency of inquiry activities and science achievement is curvilinear, with the highest gains where inquiry combines with direct teacher-based instruction](../claims/pisa-curvilinear-inquiry-achievement.md) [+W]
 - [Neither the expert educational psychologist alone nor the expert empirical teacher alone can solve the problems of method; a combination is needed](../claims/combination-psychologist-teacher-needed.md) [+W]
+- [Students learning fractions with an AIED system achieved the best outcomes in a condition mixing individual and collaborative work rather than wholly either mode](../claims/combined-individual-collaborative-its-best-outcomes.md) [+W]
 
 ## Related Principles
 

@@ -46,3 +46,4 @@ The authors' own interpretive assessment (type e) in the section on limitations 
 
 ## Related Claims
 - [Educational ontologies are rarely used in practical e-learning platforms, mainly due to cost, complexity, integration, performance, and scalability problems, which ontology reuse can partially overcome](ontology-adoption-barriers-practical-elearning.md) — related
+- [PHelpS proved easy to use and mostly recommended good peer helpers in a proof-of-concept test with real CSC workers](phelps-proof-of-concept-peer-help.md) — related

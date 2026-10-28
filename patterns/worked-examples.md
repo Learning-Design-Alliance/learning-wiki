@@ -14,7 +14,7 @@ grain_size: lesson
 # Worked Examples
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 28 claims (11 for, 15 mixed, 2 against) · 23 studies (11 causal, 6 review, 4 theoretical, 1 quant-synthesis, 1 design), `q1`–`q3` · 1 of 23 report an effect size · 26 claims rest on one study
+> **Evidence** · 29 claims (11 for, 16 mixed, 2 against) · 24 studies (12 causal, 6 review, 4 theoretical, 1 quant-synthesis, 1 design), `q1`–`q3` · 1 of 24 report an effect size · 27 claims rest on one study
 
 ## Description and scope
 
@@ -85,6 +85,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 
 - [Worked examples reduce unnecessary search for novices.](../claims/worked-examples-reduce-novice-search.md) [+W] — not settled: the abstract available could not confirm the entries
 - [Example–problem sequences reduce cognitive load and improve learning outcomes](../claims/worked-example-problem-sequences.md) [+W] — not yet checked against its sources
+- [Backward worked examples alone did not change student behavior or performance: the BWE-only group behaved like the control group](../claims/bwe-alone-behaves-like-control.md) [~W] — attached 2026-10-27 from Preya Shabrina et al. (2024), which proposed "Backward strategy training needs both worked examples and mandatory practice with enough problems to allow adaptation"; tests this page's relationship.
 
 ## Illustrative design instance and observation record
 

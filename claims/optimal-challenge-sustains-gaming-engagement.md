@@ -57,3 +57,4 @@ Interview finding from the 25-player subset: participants perceived difficulty a
 - [Downgrading to simpler code after failure on personally hard levels is negatively associated with persistence on an unsolvable task](code-downgrades-negatively-predict-challenge-time.md) — related
 - [Students avoided metaphorical visualizations they perceived as childish or insufficiently rigorous, signaling disciplinary legitimacy concerns even when the tools could help them](legitimacy-disciplinary-identity-resistance.md) — related
 - [Learning pitched at the edge of students' current abilities — the ZPD — is more effective than learning that is too easy or too frustrating](zpd-edge-learning-english-learners.md) — related
+- [When all students follow an identical task sequence, data from an easy-to-hard sequence with learning and a flat sequence without learning can be virtually indistinguishable](ordering-bias-task-sequence-indistinguishable.md) — related

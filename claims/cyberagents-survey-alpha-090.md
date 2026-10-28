@@ -67,3 +67,5 @@ Reliability analysis of the post-study Likert survey administered to undergradua
 - [The SKT-SRL shows acceptable-to-very good internal consistency across subscales](skt-srl-reliability.md) — related
 - [Single-item effort ratings show high internal consistency but their reliability is difficult to establish](single-item-effort-rating-reliability-problematic.md) — related
 - [AI literacy scales show good structural validity and internal consistency but are rarely tested for other measurement properties](ai-scales-structural-validity-strong-other-properties-untested.md) — related
+- [Cronbach's alpha if-item-deleted analysis identifies constraints that reduce problem consistency](cronbach-alpha-if-deleted-constraint-analysis.md) — related
+- [A pilot mixed-method trial with 71 participants found students valued the system along three dimensions: career exploration, personalisation, and skill awareness/self-reflection](c3-ioc-pilot-three-value-dimensions.md) — related

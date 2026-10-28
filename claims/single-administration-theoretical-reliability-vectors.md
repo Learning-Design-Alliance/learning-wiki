@@ -69,3 +69,4 @@ Comparison of reliability estimates on the same data: split-half reliability rgh
 - [Adding items to a knowledge test can increase reliability without requiring the added items to be redundant with existing items](adding-items-increases-reliability-without-redundancy.md) — related
 - [Cronbach's alpha equals the reliability of the scale score under classical test theory, domain sampling, and generalizability theory, and should be interpreted as a reliability coefficient](alpha-is-reliability-coefficient-knowledge-tests.md) — related
 - [The standard deviation of true scores equals the square root of the reliability coefficient times the standard deviation of obtained scores](otis-1922-true-score-sd-formula.md) — related
+- [Cronbach's alpha if-item-deleted analysis identifies constraints that reduce problem consistency](cronbach-alpha-if-deleted-constraint-analysis.md) — related

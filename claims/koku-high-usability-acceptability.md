@@ -59,3 +59,4 @@ Descriptive summarisation of usability and acceptability questionnaires complete
 - [Students rated AISSA's usability as excellent, with an average SUS score of 83.38 from 30 of 46 pilot students](aissa-sus-usability-83.md) — related
 - [Students rated Zoo U highly for engagement and likeability, with every usability area rated at least 3.8 on a four-point scale](zoo-u-high-student-engagement-likeability.md) — related
 - [Students reported positive usability and acceptance of MentorChat](mentorchat-positive-usability-acceptance.md) — related
+- [Six expert teachers completed grading tasks in ASYST with 100% effectiveness, median 2:15 minutes, and an average SUS score of 88.8](asyst-usability-study-high-sus.md) — related

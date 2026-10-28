@@ -52,3 +52,4 @@ Attitude results from the four-condition experiment (Table 2, item significant a
 - [Type of interdependence shifts the nature of interactions: no-structure groups show the most cognitive interactions, role groups the most group processing, and reward groups the most off-task behavior](interdependence-type-shifts-interaction-nature.md) — related
 - [In one experiment with undergraduate business majors in asynchronous online small groups, reward interdependence raised agreement that group work was beneficial and generated better ideas](reward-interdependence-benefit-attitudes.md) — related
 - [Higher numbers of interactions are associated with higher posttest scores in asynchronous online small group work](interaction-quantity-correlates-posttest-online-groups.md) — related
+- [A dynamic adaptive reward mechanism in Comtella regulated online community contributions sustainably at an instructor-predefined level](comtella-adaptive-incentive-regulation.md) — related

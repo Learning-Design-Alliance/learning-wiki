@@ -35,7 +35,8 @@ A dataset released by Josmario Albuquerque and colleagues containing 345 context
 - [SVM and random forest classifiers showed consistent performance in classifying ethnic bias, with F1-scores of 0.71 and 0.70 on the test set](../claims/svm-rf-consistent-bias-classification.md) [+W]
 
 ## Related Products and Programmes
--
+
+- [Dataset Nutrition Label](dataset-nutrition-label.md)
 
 ## Key Sources
 - Josmario Albuquerque, Bart Rienties, Martin Hlosta, Wayne Holmes. (2026). Learning Analytics to Uncover Ethnic Bias in Educational Texts: An Ensemble Learning Approach. Journal of Learning Analytics 13(1). https://doi.org/10.18608/jla.2026.8905

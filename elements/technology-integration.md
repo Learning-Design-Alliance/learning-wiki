@@ -13,7 +13,7 @@ generated:
 # Technology Integration
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 97 claims (45 for, 45 mixed, 7 against) · 86 studies (20 associational, 17 qualitative, 15 review, 11 causal, 10 quant-synthesis, 8 design, 5 theoretical), `q1`–`q4` · 15 of 86 report an effect size · 94 claims rest on one study
+> **Evidence** · 98 claims (45 for, 46 mixed, 7 against) · 87 studies (20 associational, 18 qualitative, 15 review, 11 causal, 10 quant-synthesis, 8 design, 5 theoretical), `q1`–`q4` · 15 of 87 report an effect size · 95 claims rest on one study
 
 ## Description
 Technology integration is the element in which digital tools are used in direct service of learning goals, feedback, access, or collaboration.
@@ -122,6 +122,7 @@ Technology integration is the element in which digital tools are used in direct 
 - [Skills gained from GenAI integration vary with teaching methodology, tool choice, and assessment methods, with student performance varying by engagement level](../claims/genai-skills-vary-by-methodology-engagement.md) [~W]
 - [Integrating LLMs into data science course feedback systems improved student engagement and learning outcomes](../claims/llm-feedback-systems-data-science-engagement-outcomes.md) [+W]
 - [GAI tools enriched student ideation, aesthetic development and confidence in architecture and design education, especially for lower-competency learners](../claims/gai-tools-ideation-architecture-design-lower-competency.md) [+W]
+- [An experienced supervisor linked rising student writing proficiency to AI tools while flagging copy-pasting and undetectable AI-generated content](../claims/expert-flags-copy-pasting-undetectable-ai-content.md) [~W]
 
 ## The evidence by question
 - *Does building AI tools into instruction raise achievement over teaching the same content without them, and in which settings?* [AI-supported instruction has a moderate positive effect on student achievement in STEM education (g = 0.670 under a random effects model)](../claims/ai-instruction-stem-moderate-positive-effect.md) [+M]

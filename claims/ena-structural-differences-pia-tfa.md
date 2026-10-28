@@ -54,3 +54,4 @@ Epistemic network analysis compared structural connections of deliberative codes
 - [Most groups maintain stable deliberation patterns across triggering events and fail to adapt to emerging regulatory needs](groups-stable-deliberation-patterns-fail-adapt.md) — related
 - [Classroom events occur at different time scales requiring different modes of cognition](time-scales-require-different-modes-of-cognition.md) — related
 - [Metacognitive activity alone does not equate to effective regulation; unaccompanied metacognitive processes may be counterproductive](metacognitive-alone-not-effective-regulation.md) — related
+- [Regulatory sequencing in synchronous CSCL: cognitive interactions initiate cycles, co-regulation iterates with task execution, and SSRL follows socio-emotional interactions](regulation-sequencing-pattern-synchronous-cscl.md) — related

@@ -65,3 +65,4 @@ The article's abstract states the premise of the study: that in computer-based t
 - [Disengaged test taking in international assessment programs threatens the validity of inferences about a country's educational attainment](disengaged-test-taking-invalidates-country-level-attainment-inferences.md) — related
 - [Academic and test disengagement are connected through a common association with poor self-management](self-management-common-link-disengagement.md) — related
 - [After a proctor notification triggered by rapid-guessing detection, test-taking engagement tended to increase](proctor-notification-increases-engagement.md) — related
+- [Aberrant student behavior produces systematic, non-random data biases: cheating concentrated in difficult exercises and domain-dependent rapid guessing](aberrant-behavior-systematic-data-biases.md) — a narrower finding that bears on this claim

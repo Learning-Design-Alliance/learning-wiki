@@ -85,3 +85,4 @@ Description of control conditions across the 50 studies; the review notes such c
 ## Related Claims
 - [Student choice is rare in authentic assessment designs while assigned, sometimes graded, self-reflection is more common](aa-student-choice-rare-reflection-assigned.md) — related
 - [Most reviewed studies pursued real-life-experience authenticity, and no study combined all four intentions of authenticity](intentions-of-authenticity-implemented-studies.md) — related
+- [Only 8 of 17 constraints played an active role in the problem-based assessment](eight-of-seventeen-constraints-active.md) — related

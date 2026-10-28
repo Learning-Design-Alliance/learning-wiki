@@ -92,3 +92,4 @@ The review reports these positive signals alongside settings where incorrect key
 - [Judging learning-objective alignment of generated MCQs is more subjective than answering them, with only moderate human agreement](lo-alignment-judgment-more-subjective-than-answering.md) — related
 - [Faculty-generated SBMCQs met all three ideal item-analysis criteria more often than ChatGPT-generated SBMCQs (19 vs. 9 of 40)](faculty-sbmcqs-outperform-chatgpt-ideal-criteria.md) — possibly the same claim (merge candidate)
 - [Faculty-generated SBMCQs showed superior discrimination indices and distractor effectiveness compared with ChatGPT-generated SBMCQs](faculty-sbmcqs-superior-discrimination.md) — related
+- [Math and science are well-structured domains whose formal tasks make them favorable application areas for AIED technology](well-structured-domains-favor-aied.md) — related

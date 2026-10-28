@@ -49,3 +49,4 @@ Computational experiments solved the formulation with Gurobi as an exact classic
 - [The hybrid qualitative-COM solver solves arbitrary Camelot Jr. configuration challenges within the game's problem space](camelot-jr-solver-solves-arbitrary-configurations.md) — related
 - [The baseline and capacitated facility location formulations of school aggregation are formally equivalent](equivalent-school-aggregation-formulations.md) — related
 - [The model was validated on the complete public school network of the Calabria region using real institutional, territorial, and demographic data](calabria-school-network-case-study.md) — related
+- [PHelpS proved easy to use and mostly recommended good peer helpers in a proof-of-concept test with real CSC workers](phelps-proof-of-concept-peer-help.md) — related

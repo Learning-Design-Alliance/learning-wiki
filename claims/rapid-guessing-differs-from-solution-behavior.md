@@ -56,3 +56,4 @@ The brief's own description states its focus: "How does rapid-guessing differ fr
 - [Computer-based test advantages can be used to manage the effects of cheating as a construct-irrelevant factor](cbt-manages-cheating-construct-irrelevance.md) — related
 - [Computer-based tests provide unique advantages that can be used to control construct-irrelevant factors threatening test score validity](cbt-unique-advantages-control-construct-irrelevant-factors.md) — related
 - [Differing response styles create a construct-irrelevant source of bias that distorts fundamental inferences made from survey data](response-styles-construct-irrelevant-bias.md) — related
+- [Aberrant student behavior produces systematic, non-random data biases: cheating concentrated in difficult exercises and domain-dependent rapid guessing](aberrant-behavior-systematic-data-biases.md) — a narrower finding that bears on this claim

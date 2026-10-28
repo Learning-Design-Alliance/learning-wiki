@@ -64,7 +64,7 @@ Meta-analysis of the segmenting effect covering "56 investigations including 88 
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does breaking a continuous presentation into segments improve learning over presenting it whole?* This table gathers the studies behind this claim and the 14 narrower claims that bear on it: **10 distinct studies** (3 review, 3 causal, 2 quant-synthesis, 1 qualitative, 1 associational), `q1`–`q4`, 2 of 10 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does breaking transient material (animation, video, narration) into segments improve learning over a continuous presentation?* This table gathers the studies behind this claim and the 14 narrower claims that bear on it: **10 distinct studies** (3 review, 3 causal, 2 quant-synthesis, 1 qualitative, 1 associational), `q1`–`q4`, 2 of 10 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|

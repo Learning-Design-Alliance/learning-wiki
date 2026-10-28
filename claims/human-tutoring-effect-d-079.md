@@ -52,3 +52,4 @@ The article reports, citing VanLehn (2011) and Bloom (1984), that one-to-one tut
 - [High-quality tutoring produces large learning gains cost-effectively, in person and virtually](tutoring-large-cost-effective-gains.md) — a broader claim this one bears on
 - [AutoTutor's learning gains are virtually equivalent to those of 1-to-1 human tutoring in direct comparisons](autotutor-gains-equivalent-to-human-tutoring.md) — related
 - [VanLehn (2011) found step-based intelligent tutoring systems nearly as effective as average human tutors, and both more effective than no tutoring but less effective than expert human tutors](vanlehn-2011-step-based-its-nearly-average-human-tutors.md) — related
+- [A meta-review found intelligent tutoring systems approaching the effectiveness of ordinary human tutors, whose effectiveness is below that of expert tutoring](vanlehn-metareview-its-approaching-human-tutors.md) — related

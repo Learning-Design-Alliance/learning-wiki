@@ -56,3 +56,4 @@ Correlational study of 73 Grade 4 children who completed the WMPT at five diffic
 - [A minority of item judgments show downregulation of confidence after pre-monitoring, suggesting differentiated evaluation can sometimes trigger more accurate monitoring](confidence-downregulation-after-pre-monitoring.md) — related
 - [Hard-easy effect: students are more accurate but underconfident on easy items and less accurate but overconfident on difficult items](hard-easy-effect-calibration.md) — a broader claim this one bears on
 - [Metacognitive monitoring bias and precision modulate when students stop studying relative to their goals](comsa-metacognitive-monitoring-stopping.md) — related
+- [When all students follow an identical task sequence, data from an easy-to-hard sequence with learning and a flat sequence without learning can be virtually indistinguishable](ordering-bias-task-sequence-indistinguishable.md) — related

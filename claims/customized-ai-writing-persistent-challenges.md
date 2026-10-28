@@ -66,3 +66,5 @@ Systematic review synthesis of challenges across the 23 studies (RQ4, Fig. 7), i
 - [Graduate seminars with hands-on generative AI use and reflection increased students' comfort with AI and ability to critically assess AI outputs](hands-on-genai-seminars-raise-critical-assessment.md) — related
 - [AWE feedback has limited depth and questionable accuracy for evaluating complex writing aspects](awe-limited-feedback-depth-accuracy-complex-writing.md) — a narrower finding that bears on this claim
 - [Six implementation modes operationalize customized AI writing systems, with standalone evaluation most common](six-implementation-modes-customized-ai-writing.md) — related
+- [An experienced supervisor linked rising student writing proficiency to AI tools while flagging copy-pasting and undetectable AI-generated content](expert-flags-copy-pasting-undetectable-ai-content.md) — related
+- [Optimizing pedagogical parameters on proxy measures risks trading learning for engagement, and simulated students carry their own accuracy limits](proxy-optimization-engagement-trap.md) — related

@@ -13,7 +13,7 @@ generated:
 # Time and Continuity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 134 claims (92 show a difference, 33 mixed, 9 no difference) · 116 studies (47 causal, 28 associational, 17 review, 11 quant-synthesis, 5 qualitative, 5 design, 3 theoretical), `q1`–`q4` · 25 of 116 report an effect size · 130 claims rest on one study
+> **Evidence** · 135 claims (93 show a difference, 33 mixed, 9 no difference) · 117 studies (47 causal, 29 associational, 17 review, 11 quant-synthesis, 5 qualitative, 5 design, 3 theoretical), `q1`–`q4` · 25 of 117 report an effect size · 131 claims rest on one study
 
 ## Description
 How much uninterrupted time a learner actually gets, and whether progress survives the gap to the next session. It sets page length, whether a task finishes in one sitting, and whether a multi-week deliverable survives a bad month. The awkward part is that the schedule which produces the best retention is the one learners reliably judge worst: spacing feels harder and less effective while producing more durable learning [~S], so this dimension cannot be designed by learner preference.
@@ -191,6 +191,7 @@ How much uninterrupted time a learner actually gets, and whether progress surviv
 - [The smaller the ratio of break time to on-task trial time during training, the larger the post-rest RT improvement](../claims/smaller-break-to-trial-ratio-larger-post-rest-improvement.md) [+M] — learners who differ on it differ in outcomes
 - [More than 65% of teachers reported class attendance decreased during remote instruction, with lower attendance more frequent among low-income US students](../claims/remote-instruction-attendance-drop-ses.md) [+M] — instruction changes it
 - [Remote instruction time fell below two thirds of typical weekly requirements and most teachers could not deliver the full curriculum](../claims/remote-instruction-time-below-requirements.md) [+M] — instruction changes it
+- [A two-feature combination of average time until skip and average time until first hint request statistically significantly describes students' accumulated perceived task-difficulty across a learning session.](../claims/log-feature-combination-significant-accumulated-difficulty.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 

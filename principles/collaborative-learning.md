@@ -47,7 +47,7 @@ sources:
 # Collaborative Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 80 claims (28 for, 48 mixed, 4 against) · 83 studies (19 causal, 15 review, 15 theoretical, 11 associational, 10 quant-synthesis, 9 qualitative, 4 design), `q1`–`q4` · 11 of 83 report an effect size · 74 claims rest on one study
+> **Evidence** · 81 claims (29 for, 48 mixed, 4 against) · 84 studies (19 causal, 16 review, 15 theoretical, 11 associational, 10 quant-synthesis, 9 qualitative, 4 design), `q1`–`q4` · 12 of 84 report an effect size · 75 claims rest on one study
 
 ## Conditional relationship
 
@@ -181,6 +181,7 @@ Group performance during the task, individual understanding straight after it, d
 - [Collaboration does not emerge spontaneously just by placing students together](../claims/collaboration-not-spontaneous-from-grouping.md) [~W]
 - [Collaboration format (individual vs. dyad) was experimentally manipulated alongside feedback format in simulation-based teacher learning](../claims/individual-versus-dyad-simulation-collaboration.md) [~W]
 - [Contrasting cases show the highest-scoring dyad (Select) engaged in inquiry, questioning, explaining, and argumentation to consensus during micro-failures, while the lowest-scoring dyad (Generate) showed dominance, unexplained disagreement, and off-task behavior](../claims/contrasting-cases-inquiry-versus-dominance.md) [+W]
+- [In a thermodynamics course, pairs working with a tutorial dialogue agent learned about 1.24 standard deviations more than students working alone, with partner and agent support synergistic rather than redundant](../claims/agent-plus-partner-synergy-1-24-sd.md) [+W]
 
 ## Related Principles
 - Conditions for Productive Group Creativity — specializes collaborative learning's general quality-control problem for open-ended creative tasks specifically

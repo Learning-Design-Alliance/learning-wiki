@@ -101,7 +101,7 @@ Program of controlled experiments in the author's lab comparing concise versus e
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Should interesting but unneeded material be cut?* This table gathers the studies behind this claim and the 3 narrower claims that bear on it: **11 distinct studies** (7 causal, 2 quant-synthesis, 1 theoretical, 1 design), `q1`–`q4`, 2 of 11 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does leaving out interesting but irrelevant material improve comprehension and transfer?* This table gathers the studies behind this claim and the 3 narrower claims that bear on it: **11 distinct studies** (7 causal, 2 quant-synthesis, 1 theoretical, 1 design), `q1`–`q4`, 2 of 11 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|

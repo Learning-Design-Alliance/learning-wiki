@@ -106,3 +106,4 @@ Critical-reflection items of the post-course questionnaire (n=29 respondents). S
 - [Students evolved from passive users of GenAI to critical evaluators, developing strategies for bias detection and source validation](students-passive-users-to-critical-evaluators-genai.md) — related
 - [Educators' written ideas about ChatGPT in education followed four themes: fostering AI literacy, acting as a character, improving learning, and serving as a teacher's help](chatgpt-ideas-four-themes-dataset2.md) — related
 - [Students rate GenAI's creativity enhancement in programming significantly above neutral](genai-creativity-enhancement-perceptions.md) — related
+- [Both writing-based and AI-based alternative-ending activities motivated students, though with distinct concerns in each group](alternative-ending-tasks-motivated-both-groups.md) — related

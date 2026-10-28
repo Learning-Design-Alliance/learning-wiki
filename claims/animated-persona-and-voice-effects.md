@@ -51,3 +51,4 @@ Secondhand reporting: this retrospective article attributes these findings to th
 - [Beneficial effects of pedagogical agents are attributed primarily to the agent's voice rather than its visual presence](agent-effects-due-to-voice-not-visual-presence.md) — related
 - [APAs produce more definitive results for affective gain and group learning than for cognitive achievement gains](apa-affective-gain-stronger-than-cognitive.md) — related
 - [Screencast design findings: static vs. dynamic screen movement, explicit vs. implicit narration, and handwriting preferred though typefaces judged more legible](screencast-design-movement-narration-handwriting.md) — related
+- [Emotional feedback from an animated pedagogical agent produced no significant learning performance gain but made the learning process more engaging](emotional-feedback-engaging-not-performance.md) — related

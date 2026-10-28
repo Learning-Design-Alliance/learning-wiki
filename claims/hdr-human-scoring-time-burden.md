@@ -60,3 +60,4 @@ Time analysis (Table 8): five graders spent 138 minutes scoring 117 responses pl
 - [LLM-based extraction of three variables from 156 meta-analyses cost about $50 in computing fees, far less than estimated human-assistant labor costs](llm-extraction-cost-time-savings.md) — related
 - [The short form saves about eleven hours of giving and scoring time per class of thirty pupils compared with the long scales](survey-test-saves-eleven-hours-per-class.md) — related
 - [Machine-learning-supported grading with complete manual review of all classifier output reduced total exam grading time by 74% (or 64% under a conservative estimate) compared with fully manual grading](ml-supported-grading-cuts-exam-workload-64-74-percent.md) — related
+- [Six expert teachers completed grading tasks in ASYST with 100% effectiveness, median 2:15 minutes, and an average SUS score of 88.8](asyst-usability-study-high-sus.md) — related

@@ -31,6 +31,7 @@ A restricted corpus created by Andres Karjus et al. from first-year humanities c
 ## Related Products and Programmes
 
 - [FEEDTYPE: a benchmark of teacher and LLM feedback annotated for feedback focus across three writing domains](feedtype-a-benchmark-of-teacher-and-llm-feedback-annotated-for-feedback-focus-across-three.md)
+- [Annotated reflective-writing sentence dataset of 5080 sentences from 76 student essays](annotated-reflective-writing-sentence-dataset-of-5080-sentences-from-76-student-essays.md)
 
 ## Key Sources
 - Andres Karjus, Janika Leoste, Tiia Õun. (2026). Student Evaluation of Repeated AI Feedback Across a Semester of Writing. arXiv:2607.16115 [cs.CY]. https://arxiv.org/abs/2607.16115

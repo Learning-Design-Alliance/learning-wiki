@@ -69,3 +69,4 @@ The article attributes the overfitting risk to Paquette et al. (2015), stating t
 ## Related Claims
 - [AI models trained on MOOC completion data risk bias toward high-performing learners, and machine-learned assessment reflects interaction rather than learning](mooc-ai-bias-toward-completers-and-interaction-not-learning.md) — related
 - [Algorithmic empathy is culturally fragile: emotional inference errors in socio-emotional AI can invalidate teachers' experiences, so systems require local validation and participatory design](cultural-fragility-algorithmic-empathy.md) — related
+- [Waterfall-like design spaces are inadequate for AIEd because adaptable systems have untestable states](waterfall-design-inadequate-for-aied.md) — related

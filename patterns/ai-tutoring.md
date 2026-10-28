@@ -14,7 +14,7 @@ grain_size: course
 # AI Tutoring
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 354 claims (159 for, 144 mixed, 51 against) · 239 studies (86 causal, 51 review, 31 design, 26 theoretical, 19 quant-synthesis, 15 associational, 11 qualitative), `q1`–`q4` · 48 of 239 report an effect size · 339 claims rest on one study
+> **Evidence** · 362 claims (161 for, 150 mixed, 51 against) · 246 studies (86 causal, 55 review, 32 design, 27 theoretical, 19 quant-synthesis, 15 associational, 12 qualitative), `q1`–`q4` · 49 of 246 report an effect size · 347 claims rest on one study
 
 ## Description and scope
 
@@ -335,6 +335,14 @@ This pattern is scoped to the tutor's moves within tasks and the handoff to peop
 - [HPK students improved significantly only in the Low-Agency condition, with a large post-test advantage over HPK peers in High-Agency (d = .95)](../claims/hpk-improved-only-low-agency.md) [~W]
 - [High- and Low-Agency conditions in SQL-Tutor do not differ in learning outcomes, though both improve significantly from pre- to post-test](../claims/no-agency-effect-sql-tutor-learning.md) [~W]
 - [Students rarely request on-demand hints in this tutor, with no significant differences between conditions or proficiency groups](../claims/on-demand-hint-requests-rare-and-equivalent.md) [~W]
+- [GURU, a tutor embodying expert-teacher behaviour, produced learning gains similar to small-group human teaching and better than classroom teaching alone](../claims/guru-evaluation-similar-gains-to-human-augmentation.md) [+W]
+- [Emotional feedback from an animated pedagogical agent produced no significant learning performance gain but made the learning process more engaging](../claims/emotional-feedback-engaging-not-performance.md) [~W]
+- [A minimalist approach to intelligence and adaptivity can still achieve practical success at scale in real classrooms](../claims/a-little-intelligence-can-go-a-long-way.md) [~W]
+- [The article evaluated the action selection engines' speed for real-time tutoring use](../claims/action-selection-speed-evaluation.md) [~W]
+- [In the hidden-wizard WOZ II study, students' reactions to the wizard's Slack hints were mostly positive, though some hints were read without discussion](../claims/woz2-hidden-wizard-hints-mostly-positive.md) [~W]
+- [In a thermodynamics course, pairs working with a tutorial dialogue agent learned about 1.24 standard deviations more than students working alone, with partner and agent support synergistic rather than redundant](../claims/agent-plus-partner-synergy-1-24-sd.md) [+W]
+- [Optimizing pedagogical parameters on proxy measures risks trading learning for engagement, and simulated students carry their own accuracy limits](../claims/proxy-optimization-engagement-trap.md) [~W]
+- [Simulated students were used to evaluate whether the prototype engines select rational tutorial actions emulating human tutors](../claims/simulated-students-evaluate-action-selection.md) [~W]
 
 ## Examples
 - [ChatGPT as a virtual laboratory assistant in a sociotechnical system](../designs/sts-theory-chatgpt-virtual-laboratory-assistant.md) — ChatGPT answers lab questions beside human TAs, not in their place

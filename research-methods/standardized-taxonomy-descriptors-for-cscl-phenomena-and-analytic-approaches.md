@@ -25,7 +25,8 @@ Because CSCL lacks shared descriptors for phenomena and analytic approaches, the
 - [Participants identified communication across paradigms, not the absence of a single paradigm, as CSCL's main challenge](../claims/cross-paradigm-communication-the-main-cscl-challenge.md) [+M]
 
 ## Related Research Methods
--
+
+- [Taxonomy of indicators characterizing group and individual behaviour in CSCL from three perspectives](taxonomy-of-indicators-characterizing-group-and-individual-behaviour-in-cscl-from-three-pe.md)
 
 ## Key Sources
 - Simon, S., Şener, B., Greisel, M., Pifarré Turmo, M., Borchers, C., Chernikova, O., Shahrokhian, B., Tajik, E., Sitjà Martín, M., Čarapina, M., Hu, X., & Ataş, A. H. (2026). Toward a Taxonomy: Insights from the 2025 CSCL paradigm building workshop. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-026-09477-8

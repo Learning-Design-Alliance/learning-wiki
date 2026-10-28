@@ -55,3 +55,4 @@ Careful analysis of the learning consciousness, verified by objective writing re
 - [Grace E. Bird advanced the thesis that emphasizing speed rather than accuracy from the start yields the most effective learning, with generalization flagged as risky](rapid-drill-speed-emphasis-thesis.md) — related
 - [Individual learning curves rise by irregular increments with occasional losses, with plateau-like periods attributed to changes in method and waning interest](irregular-individual-learning-increments-plateaus.md) — related
 - [Practice curves in computation and reasoning would resemble the learning curves of Bryan and Harter and Book](practice-curves-computation-reasoning-bryan-harter.md) — related
+- [Mastery learning implementation causes a mastery attrition bias that confounds learning curves, and it cannot be addressed universally](mastery-attrition-bias-confounds-learning-curves.md) — related

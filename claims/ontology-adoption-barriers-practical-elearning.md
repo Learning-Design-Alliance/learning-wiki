@@ -51,3 +51,4 @@ Theoretical argument in the article's background and motivation section, reviewi
 - [Classical description logic cannot model non-crisp knowledge, and fuzzy and probabilistic DL extensions substantially increase reasoning complexity, limiting practical use](dl-crisp-limitation-fuzzy-probabilistic-complexity.md)
 - [The axiom dataset is work-local: 1,448 of 1,455 axioms map to exactly one work](axiom-dataset-work-local-sparse-reuse.md) — related
 - [Heavy-weight ontology engineering in AIED saw limited adoption despite a complete proof-of-concept](limited-adoption-heavyweight-oe-aied.md) — related
+- [Automatic analysis of collaboration logs via a fuzzy model was redesigned to use Bayesian reasoning for larger groups because fuzzy modelling of teachers' criteria was not easily scalable](fuzzy-to-bayesian-collaboration-analysis-scalability.md) — related

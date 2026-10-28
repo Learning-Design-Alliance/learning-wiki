@@ -64,3 +64,4 @@ The review reports, citing Smith, Ghazizadeh and Shadmehr (2006), evidence from 
 - [In visuomotor rotation learning, constrained outer-target geometry slows learning at trained targets but yields more consistent generalization to a probe target than unconstrained inner-target geometry](target-geometry-dissociation-learning-generalization-exp1.md) — related
 - [Multi-state model parameters do not differ between Norwegian and Japanese groups](multi-state-parameters-no-group-difference.md) — related
 - [Later sequence position slows general learning rate in the face view discrimination task](sequence-position-slows-face-learning-rate.md) — related
+- [Authoring tool usability trades off against the depth and flexibility of the ITSs that can be built](authoring-tool-usability-power-tradeoff.md) — related

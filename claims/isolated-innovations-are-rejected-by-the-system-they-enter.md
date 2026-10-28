@@ -60,7 +60,7 @@ A public-domain ERIC digest from 2000, drawn from Ellsworth's book *Surviving Ch
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does an innovation's adoption and effect depend on the rest of the system it enters, beyond the innovation itself?* This table gathers the studies behind this claim and the 20 narrower claims that bear on it: **18 distinct studies** (5 qualitative, 5 theoretical, 4 review, 2 design, 1 causal, 1 associational), `q1`–`q2`, 2 of 18 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does introducing a new tool, space or programme change practice on its own, or does lasting change need the activity's rules, roles and community redesigned with it?* This table gathers the studies behind this claim and the 20 narrower claims that bear on it: **18 distinct studies** (5 qualitative, 5 theoretical, 4 review, 2 design, 1 causal, 1 associational), `q1`–`q2`, 2 of 18 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
@@ -132,3 +132,4 @@ A public-domain ERIC digest from 2000, drawn from Ellsworth's book *Surviving Ch
 - [Reviewer judges Cameron's educational psychology textbook innovative for its chapters on the four main school subjects but finds its treatment of learning scanty](cameron-textbook-school-subject-chapters-innovation.md) — related
 - [Instructional technology is rejected when it mismatches the dominant pedagogy, as with the blackboard in monitorial schools](technology-pedagogy-mismatch-blackboard.md) — a narrower finding that bears on this claim
 - [Failures of education technology implementations are attributed to social, psychological, and cultural issues rather than technical shortcomings](edtech-failures-social-psychological-cultural.md) — a narrower finding that bears on this claim
+- [A key factor in the slow adoption of adaptive learning environments is the inherent complexity of developing them, particularly the modeling component](adaptive-adoption-slow-modeling-complexity.md) — a narrower finding that bears on this claim

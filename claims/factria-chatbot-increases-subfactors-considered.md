@@ -89,3 +89,4 @@ Descriptive baseline from the discussion of the think-aloud study: without chatb
 - [Transition network analysis shows the chatbot's prompts and explanations structured the interaction while participants generated their own interpretations](tna-chatbot-prompts-structure-user-interpretation.md) — related
 - [Stakeholder survey rated achievability lowest across Framework elements, especially Element 5 (continuous improvement)](framework-achievability-ratings-low.md) — related
 - [Current course learning design practices do not consider what and how data should be generated for learning analytics, limiting LA implementation](current-course-design-lacks-la-data-sourcing.md) — related
+- [Current interaction analysis shows a gap between collecting and visualizing mined data and interpreting it in terms of the learning process](gap-mined-data-learning-interpretation.md) — related

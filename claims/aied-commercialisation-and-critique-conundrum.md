@@ -47,3 +47,5 @@ The panel provocation, authored by Holmes, asserts these commercial figures and 
 ## Related Claims
 - [Global inclusion gaps persist despite large EdTech investment](inclusion-gap-persists-despite-edtech-investment.md) — related
 - [AIED criticism is largely application-specific rather than opposition to all AI in education](aied-criticism-application-specific.md) — a broader claim this one bears on
+- [Legitimate concerns exist about aied rollout regarding datafication, surveillance, and possibly poor pedagogy](aied-rollout-datafication-surveillance-concerns.md) — possibly the same claim (merge candidate)
+- [AIED, as a small academic society, is in a weak position to regulate the AI-in-education market](aied-weak-position-regulate-market.md) — related

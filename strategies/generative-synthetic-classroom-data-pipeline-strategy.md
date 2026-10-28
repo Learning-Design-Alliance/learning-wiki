@@ -42,6 +42,7 @@ A reusable recipe for building synthetic training data for classroom understandi
 
 - [Involve domain experts throughout the AI safety evaluation pipeline, especially for defining unsafe content](domain-experts-throughout-child-safety-evaluation.md)
 - [Center co-design with teachers and students throughout AI tool R&D, using human-in-the-loop workflows as a primary risk mitigation](co-design-human-in-the-loop-ai-edtech-strategy.md)
+- [Automated Grading Workflow: teachers evaluate the model on their own data, set a disagreement threshold, and choose which predictions to review](hybrid-grading-workflow-teacher-control.md)
 
 ## Examples
 -

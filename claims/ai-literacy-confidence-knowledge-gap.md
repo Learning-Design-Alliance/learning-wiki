@@ -55,3 +55,4 @@ The report attributes this finding to prior empirical work by Archambault et al.
 - [People use AI on simple tasks at a rate significantly higher than they predict for themselves (self-estimate miscalibration), especially on easy task variants](self-estimate-miscalibration-ai-use-simple-tasks.md) — related
 - [Some GenAI tools can inhibit productive struggle by reducing cognitive effort (metacognitive laziness)](genai-metacognitive-laziness.md) — related
 - [AI-assisted practice applications improved music students' performance outcomes, self-efficacy, and self-regulated learning](ai-practice-apps-improve-music-learning-outcomes.md) — related
+- [Overconfidence in self-assessment is especially concerning in online learning environments where limited external feedback widens gaps between perceived and actual performance](online-learning-exacerbates-calibration-discrepancy.md) — a broader claim this one bears on

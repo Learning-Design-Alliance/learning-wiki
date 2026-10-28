@@ -45,6 +45,7 @@ Based directly on apprentices' perspectives, the report recommends that program 
 - [Develop high-retention pathways — Grow Your Own programs and teacher residencies — to build and diversify local teacher supply](grow-your-own-residency-pathways-strategy.md)
 - [State actions to strengthen and sustain a funded residency pathway: clarify goals, upgrade data systems, adjust grant parameters, offer transition grants, and pair new LEAs with experienced IHEs](trgp-scaling-sustainability-recommendations.md)
 - [Treat pathway legitimacy as a design target: ensure alternative routes are perceived as legitimate, usable, and socially recognized](pathway-legitimacy-design-target.md)
+- [Partner with and train in-service local teachers to co-instruct AI workshops and become ambassadors for AI education](teacher-co-instruction-ai-workshops.md)
 
 ## Examples
 -

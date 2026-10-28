@@ -13,7 +13,7 @@ generated:
 # Achievement Emotions
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 172 claims (109 show a difference, 48 mixed, 15 no difference) · 99 studies (37 associational, 27 causal, 13 review, 10 qualitative, 8 theoretical, 4 design), `q1`–`q4` · 23 of 99 report an effect size · 169 claims rest on one study
+> **Evidence** · 173 claims (110 show a difference, 48 mixed, 15 no difference) · 100 studies (37 associational, 27 causal, 13 review, 10 qualitative, 8 theoretical, 5 design), `q1`–`q4` · 23 of 100 report an effect size · 170 claims rest on one study
 
 ## Description
 Achievement emotions are the emotions learners feel about learning activities (enjoyment, boredom, frustration) and about their outcomes (pride, shame, hope, hopelessness). In control-value theory they arise from how much control a learner feels over an activity and how much they value it. Positive activating emotions such as enjoyment go with engagement and achievement, deactivating ones such as boredom with disengagement, and the relationship runs both ways. Anxiety is an achievement emotion with its own page, [academic anxiety](academic-anxiety.md); enjoyment overlaps with [interest](interest.md).
@@ -207,6 +207,7 @@ Achievement emotions are the emotions learners feel about learning activities (e
 - [Affective states shifted over tutor usage: confusion decreased while engaged concentration and boredom increased](../claims/affect-shifts-over-tutor-usage.md) [~W] — instruction changes it
 - [Carelessness is negatively correlated with boredom in both tutor conditions](../claims/carelessness-negative-boredom.md) [+M] — learners who differ on it differ in outcomes
 - [Carelessness is negatively correlated with confusion in both tutor conditions](../claims/carelessness-negative-confusion.md) [+M] — learners who differ on it differ in outcomes
+- [Learners in the dual-layer DALMOOC experienced uncertainty and discomfort transitioning from instructor-driven to self-regulated learning, and found the distributed structure confusing](../claims/dalmooc-learners-uncertain-in-self-regulated-transition.md) [+M] — instruction changes it
 
 ## Related Learner Variables
 

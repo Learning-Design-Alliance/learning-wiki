@@ -67,3 +67,4 @@ Finding from the J48 decision tree analysis of ASSISTments Skill Builder log dat
 - [Understanding of Help Avoidance is evolving: persistence may beat help at low mastery, yet Help Avoidance predicted poorer transfer performance](help-avoidance-understanding-evolving.md) — related
 - [Hints benefit local within-tutor learning only when students have a medium level of skill](hints-beneficial-at-medium-skill-level.md) — related
 - [Students rarely request on-demand hints in this tutor, with no significant differences between conditions or proficiency groups](on-demand-hint-requests-rare-and-equivalent.md) — related
+- [A two-feature combination of average time until skip and average time until first hint request statistically significantly describes students' accumulated perceived task-difficulty across a learning session.](log-feature-combination-significant-accumulated-difficulty.md) — related

@@ -64,3 +64,4 @@ One experiment is recorded (Brewer & Klein 2003); the outcome is self-reported a
 - [Teacher education students in PBL identified valuing others' perspectives, interdependence, and learning about self as attitudes necessary for collaborative learning](pbl-attitudes-valuing-interdependence-self.md) — related
 - [Kindergarten triads sharing one computer with three mice and interdependent roles enhanced social skills](kindergarten-triads-shared-computer-social-skills.md) — related
 - [Resistance messages in asynchronous discussions elicit most messages with perspectival understanding](resistance-messages-elicit-perspectival-understanding.md) — related
+- [A dynamic adaptive reward mechanism in Comtella regulated online community contributions sustainably at an instructor-predefined level](comtella-adaptive-incentive-regulation.md) — related

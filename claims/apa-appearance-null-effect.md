@@ -54,3 +54,5 @@ Review reports Moreno et al.'s (2001) detailed comparison of two learning condit
 - [The review reports no evidence that the mere visual presence of a human-like body produces distinct effects, though likeable appearance improves motivation and transfer](no-evidence-mere-visual-presence-social-cue-hypothesis.md) — a broader claim this one bears on
 - [Instructor video presence produced no significant difference in retention or transfer of Mandarin tone distinction among true-beginner learners](instructor-presence-no-retention-transfer-effect.md) — related
 - [Pedagogical agents do not significantly affect learners' engagement (g = -0.02, non-significant)](pa-no-effect-engagement.md) — related
+- [Emotional feedback from an animated pedagogical agent produced no significant learning performance gain but made the learning process more engaging](emotional-feedback-engaging-not-performance.md) — related
+- [Including videos of the students' own human teacher giving motivational feedback was more effective than an animated pedagogical agent and improved homework completion rates](teacher-videos-beat-pedagogical-agent-motivation.md) — related

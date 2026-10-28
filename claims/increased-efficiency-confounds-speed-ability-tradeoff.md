@@ -52,3 +52,4 @@ Theoretical argument: because exhibited speed can change "without a commensurate
 - [Ability and speed are negatively correlated, and the reading test's ability estimates are more affected by speed than the math test's](negative-ability-speed-correlation-li52-stronger.md) — related
 - [Computer-based testing's routine capture of item-level response times has driven increased interest in applications of response time to measuring ability and achievement](computer-based-testing-drives-response-time-interest.md) — related
 - [Tests may appear to measure an ability while actually measuring an unintended one, such as speed of writing figures or attention](face-validity-failure-speed-attention.md) — related
+- [Authoring tool usability trades off against the depth and flexibility of the ITSs that can be built](authoring-tool-usability-power-tradeoff.md) — related

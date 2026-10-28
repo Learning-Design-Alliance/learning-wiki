@@ -61,3 +61,4 @@ Ablation study on four datasets (Table 3) comparing full LT-MKT with w/o CL, w/o
 - Removing unsupervised pre-training hurts performance across all tasks, causing a 14.8% decrease relative to the full model — related
 - [Removing any ProPRL component reduces F1 on all three datasets, with multi-hop propagation having the largest overall impact](proprl-ablation-components-contribute.md) — related
 - [Omitting the teacher's communication strategy causes the greatest drop in classifier accuracy, marking communication choice as the most impactful feature category.](communication-strategy-most-impactful-ablation.md) — related
+- [Ablation testing shows simplification and ordering transformations contribute most to canonical reduction, while many domain-specific functions had no effect](ablation-simplification-ordering-transformations-most-effective.md) — related

@@ -48,3 +48,4 @@ The editors describe the surprising cluster-analysis result of the Rhem et al. s
 - [Exploratory K-means clustering identifies four heterogeneous student AI-user profiles differing in experience, competence, usefulness, trust, and control, but the solution's optimality and stability are not established](exploratory-four-cluster-student-ai-profiles.md) — related
 - [Teachers' post-workshop platform engagement fell into three behavioral profiles, with most teachers showing minimal creation and browsing](three-behavioral-engagement-profiles-ai-agent-creation.md) — related
 - [Mastery in a quasi-community is dynamically and relatively distributed rather than structured as stable core-periphery hierarchy](quasi-community-distributed-mastery.md) — related
+- [Student engagement in iHelp was not uniform: many lurkers read without contributing while a small minority sought helper status](ihelp-engagement-nonuniform-lurkers-helpers.md) — related

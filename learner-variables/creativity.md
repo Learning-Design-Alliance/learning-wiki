@@ -13,7 +13,7 @@ generated:
 # Creativity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 102 claims (71 show a difference, 25 mixed, 6 no difference) · 53 studies (17 associational, 16 causal, 11 review, 4 quant-synthesis, 3 design, 2 theoretical), `q1`–`q3` · 16 of 53 report an effect size · 100 claims rest on one study
+> **Evidence** · 103 claims (72 show a difference, 25 mixed, 6 no difference) · 54 studies (18 associational, 16 causal, 11 review, 4 quant-synthesis, 3 design, 2 theoretical), `q1`–`q3` · 16 of 54 report an effect size · 101 claims rest on one study
 
 ## Description
 Creativity as a learner characteristic is the ability to produce ideas that are both new and fitting. It is most often measured with divergent-thinking tests (how many and how varied the uses someone can find for an object). It correlates with intelligence and with achievement, including in mathematics, where generating several solution paths may deepen understanding. Creativity can also be an outcome that instruction aims at; this page is about learners who differ in it.
@@ -137,6 +137,7 @@ Creativity as a learner characteristic is the ability to produce ideas that are 
 - [Montessori-schooled children outperform traditionally-schooled children on both divergent and convergent creativity tests](../claims/montessori-higher-divergent-convergent-creativity.md) [+M] — instruction changes it
 - [Design majors outperform matched peers on divergent thinking, though AUT originality shows no significant difference](../claims/design-majors-divergent-thinking-advantage.md) [~M] — instruction changes it
 - [Students rate GenAI's creativity enhancement in programming significantly above neutral](../claims/genai-creativity-enhancement-perceptions.md) [+M] — instruction changes it
+- [Higher-scored learner answers tend to be longer, and crowdsourced answers tend to be shorter than original classroom data](../claims/higher-scored-answers-tend-longer.md) [+W] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

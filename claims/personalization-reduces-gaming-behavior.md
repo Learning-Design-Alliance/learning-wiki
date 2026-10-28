@@ -54,3 +54,4 @@ Gaming detector (Baker & deCarvalho, 2008) run on Unit 6 log data. Student's t-t
 - [In a small subgroup of struggling students (n = 25), interest personalization greatly improved expression-writing accuracy within the tutoring unit](personalization-struggling-students-moderation.md) — related
 - [Scooter the Tutor was associated with a marginally significant reduction in observed gaming among middle-school math students](scooter-reduced-gaming-marginally.md) — related
 - [Personalizing algebra story problems to student interests improved accuracy on easy knowledge components within the tutoring unit](personalization-improves-easy-kc-accuracy-algebra-its.md) — related
+- [Adjusting algebra problem contexts to students' out-of-school interests was beneficial](personalizing-algebra-context-to-interests-beneficial.md) — related

@@ -47,6 +47,7 @@ The article recommends that intelligent game-based learning environments use ind
 
 - [Use dynamic user models to recognize non-optimal learning behaviors and redirect students toward more effective behaviors](dynamic-user-models-redirect-non-optimal-behaviors.md)
 - [Adaptive Learning](adaptive-learning.md)
+- [Recognize high-spendency behavior and prompt students toward less spending and more generative practice](prompt-high-spendency-students-toward-generative-practice.md)
 
 ## Examples
 -

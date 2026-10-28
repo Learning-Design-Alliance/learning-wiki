@@ -92,3 +92,4 @@ Pairwise accuracy differences with 95% bootstrap confidence intervals in the bas
 - [Certain aspects of AI literacy play a role in higher-quality prompt engineering by non-expert students](ai-literacy-aspects-support-prompt-engineering.md) — a broader claim this one bears on
 - [Success rates decrease monotonically from easy to medium to hard difficulty levels across all models](monotonic-difficulty-decline-turtleai.md) — related
 - [Prompt design significantly influences LLM accuracy on IVDA MCQs, with slide context reducing smaller-model accuracy but improving GPT models, while persona effects are inconsistent](prompt-design-affects-mcq-accuracy-asymmetrically.md) — related
+- [C3-IoC job role matching accuracy increases monotonically with the number of questionnaire questions answered, reaching about 80% accuracy with four questions and nearly 100% with 24](c3-ioc-matching-accuracy-increases-with-questions.md) — related

@@ -59,3 +59,5 @@ Agglomerative hierarchical clustering of 42 three-minute deliberation sequences 
 - [Patterns of SRL and SSRL behaviors among medical trainees predict electrodermal activity at distinct stages of high-fidelity simulation training](srl-ssrl-behaviors-predict-eda-simulation-stages.md) — related
 - [SRL writing-stage clusters differed in production and revision but not in pausing](srl-writing-clusters-production-revision.md) — related
 - [Classroom events occur at different time scales requiring different modes of cognition](time-scales-require-different-modes-of-cognition.md) — related
+- [Regulatory sequencing in synchronous CSCL: cognitive interactions initiate cycles, co-regulation iterates with task execution, and SSRL follows socio-emotional interactions](regulation-sequencing-pattern-synchronous-cscl.md) — related
+- [Emotional synchrony frequency differs slightly across regulatory activities but the metric does not discriminate SSRL, cognitive, and task-execution interactions](emotional-synchrony-differs-by-regulatory-activity-limited-discrimination.md) — related

@@ -58,3 +58,4 @@ Randomized experiment with 145 ninth-grade Algebra I students in Cognitive Tutor
 - [Eyetracking showed students often answer word problems without looking at the algebraic expression, leading the curriculum to treat expression-writing as an induction task with the formula row moved to the bottom of the table](eyetracking-word-problem-gaze-patterns.md) — related
 - [Students are significantly worse at translating two-step algebra story problems than matched one-step problems, implicating a hidden integrative knowledge component](integrative-kc-two-step-algebra-translation.md) — related
 - [The personalization effect improves learning, moderated by prior knowledge, content type, pacing, culture, and language](personalization-effect-social-cues.md) — a broader claim this one bears on
+- [Adjusting algebra problem contexts to students' out-of-school interests was beneficial](personalizing-algebra-context-to-interests-beneficial.md) — a broader claim this one bears on

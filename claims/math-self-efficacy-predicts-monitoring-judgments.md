@@ -50,3 +50,4 @@ Linear regressions predicting item-level monitoring judgments for each of the fo
 - [Adults who answered health math problems correctly reported higher monitoring judgments than those who answered incorrectly, with larger differences at posttest than pretest](accuracy-linked-to-higher-monitoring-judgments.md) — related
 - [Math anxiety explained variance in posttest monitoring judgments beyond trait anxiety, supporting its distinctness from general anxiety](math-anxiety-distinct-from-trait-anxiety-in-monitoring.md) — related
 - [Math anxiety mediated the effect of gender on pretest monitoring judgments in exploratory analyses](math-anxiety-mediates-gender-effect-on-monitoring.md) — related
+- [Pretest retrospective judgments, rather than actual pretest scores, predict college students' engagement in preparatory metacognitive strategies](judgment-not-actual-score-predicts-strategy-use.md) — related

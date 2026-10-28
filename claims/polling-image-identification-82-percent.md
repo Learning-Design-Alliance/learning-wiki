@@ -63,3 +63,5 @@ Authors' characterization of the polling design in the session feedback section:
 - [AI-supported project-based learning at YCHS produced authentic student-designed products through iterative prompting and refinement](ai-supported-pbl-authentic-student-products.md) — related
 - Human guidance remains essential for ethical grounding when integrating AI with situated learning, including resisting complacency toward generative AI outputs — related
 - [A 30-minute generative AI literacy training increased intelligence analysts' overall accuracy at distinguishing real from AI-generated images by 9 percentage points](brief-generative-ai-literacy-training-raises-analyst-image-discrimination-accuracy.md) — related
+- [In the Exploring GANs activity, 65% of student responses correctly identified what the generator was trying to generate and 61% correctly identified the discriminator's dataset](gan-tool-analysis-accuracy.md) — related
+- [Students identified more benefits than harms of GAN tools overall, with benefits concentrated in purely artistic tools and harms in tools generating human faces or videos](gan-benefit-harm-tool-asymmetry.md) — related

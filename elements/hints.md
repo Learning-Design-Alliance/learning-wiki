@@ -22,7 +22,7 @@ sources:
 # Hints
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 19 claims (6 for, 12 mixed, 1 against) · 13 studies (6 causal, 2 review, 2 associational, 2 design, 1 theoretical), `q2`–`q3` · 4 of 13 report an effect size · 18 claims rest on one study
+> **Evidence** · 21 claims (6 for, 14 mixed, 1 against) · 15 studies (6 causal, 3 design, 2 review, 2 associational, 1 qualitative, 1 theoretical), `q2`–`q3` · 4 of 15 report an effect size · 20 claims rest on one study
 
 ## Description
 Hints are partial prompts or cues that help learners continue a task without fully giving away the answer. They are useful when the design goal is to preserve productive struggle while reducing the chance of stuckness, confusion, or abandonment.
@@ -69,6 +69,8 @@ Hints are partial prompts or cues that help learners continue a task without ful
 - [The Assertions condition delivered significantly more unsolicited hints than the Messages condition during training](../claims/assertions-more-hints-given-than-messages.md) [~W]
 - [For low prior proficiency students, unsolicited hint usage rates correlate negatively with posttest solution length, while hint frequency does not correlate](../claims/hint-needed-rate-correlates-shorter-proofs-low-proficiency.md) [~W]
 - [Students rarely request on-demand hints in this tutor, with no significant differences between conditions or proficiency groups](../claims/on-demand-hint-requests-rare-and-equivalent.md) [~W]
+- [ITAP's average hint chain length (5.62 token edits) is shorter than the token length of the teacher solution (8.27), suggesting personalized paths](../claims/itap-hint-chains-shorter-than-teacher-solution.md) [~W]
+- [In the hidden-wizard WOZ II study, students' reactions to the wizard's Slack hints were mostly positive, though some hints were read without discussion](../claims/woz2-hidden-wizard-hints-mostly-positive.md) [~W]
 
 ## The evidence by question
 

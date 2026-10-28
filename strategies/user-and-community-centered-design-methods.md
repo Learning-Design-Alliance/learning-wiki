@@ -42,6 +42,7 @@ User- and community-centered design is one of three methodological advances the 
 - [Seven IUX methodologies for centering learners in LER technology development](iux-methodologies-ler-learner-centered.md)
 - [Design Thinking](design-thinking.md)
 - [Use iterative design with short feedback loops and multiple user-feedback methods during product development](iterative-design-short-feedback-loops.md)
+- [Mitigate authoring tool investment risk with early-and-often user feedback and a theoretical understanding of users and tasks](early-often-usability-risk-mitigation.md)
 
 ## Examples
 -

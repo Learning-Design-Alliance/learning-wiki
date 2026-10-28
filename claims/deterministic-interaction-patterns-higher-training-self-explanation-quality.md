@@ -51,3 +51,4 @@ Pearson correlation analysis of 40 high school students' Hurst exponents against
 - [Hurst exponents are unrelated to the frequency of interacting with any specific game-based feature](hurst-unrelated-to-feature-frequency.md) — related
 - [Surrogate analysis validates that observed Hurst exponents reflect genuine persistence rather than short-series artifacts](surrogate-analysis-validates-hurst-exponents.md) — related
 - [Hurst exponents do not significantly predict retention self-explanation quality over and above pretest scores](hurst-not-predict-retention-above-pretest.md) — related
+- [Spendency is negatively related to daily self-explanation quality during training but not to posttest or retention self-explanation quality](spendency-daily-self-explanation-negative.md) — related

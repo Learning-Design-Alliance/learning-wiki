@@ -65,3 +65,4 @@ Description of the two implemented pruning methods in the Episodic Tree Search O
 
 ## Related Claims
 - [Astus diagnoses many learner errors without erroneous knowledge units by interpolating incorrect executions of procedures in the episodic tree](astus-error-diagnosis-interpolation.md) — related
+- [Allowing procedural constructs (branches, rules, loops, recursion) in an authoring tool dramatically raises authoring complexity and demands debugging support](procedural-authoring-constructs-raise-complexity.md) — related

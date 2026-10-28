@@ -13,7 +13,7 @@ generated:
 # Metacognition
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 135 claims (88 show a difference, 29 mixed, 18 no difference) · 98 studies (40 causal, 17 associational, 14 review, 11 theoretical, 7 quant-synthesis, 7 qualitative, 2 design), `q1`–`q4` · 29 of 98 report an effect size · 134 claims rest on one study
+> **Evidence** · 137 claims (90 show a difference, 29 mixed, 18 no difference) · 99 studies (40 causal, 18 associational, 14 review, 11 theoretical, 7 quant-synthesis, 7 qualitative, 2 design), `q1`–`q4` · 29 of 99 report an effect size · 136 claims rest on one study
 
 ## Description
 Metacognition is knowing about and managing one's own cognition. It has two sides: knowledge (what a learner knows about how they learn, what they do and do not understand, and which strategies suit a task) and regulation (planning an approach, monitoring progress and comprehension, and adjusting when it is not working). It is usually measured by self-report inventories of strategy awareness, by parent and teacher rating scales, and by comparing a learner's confidence judgements with their actual performance (calibration).
@@ -177,6 +177,8 @@ It overlaps heavily with [self-regulation](self-regulation.md), of which monitor
 - [Direct metacognitive instruction improves learning strategies and achievement, with largest effects when strategy instruction is combined with strategy knowledge, longer duration, and in mathematics](../claims/metacognitive-instruction-effects-meta-analyses.md) [+M] — instruction changes it
 - [Metacognitive prompts foster metacognitive strategy use and improve transfer performance, with self-directed prompt effects lasting at least three weeks](../claims/metacognitive-prompts-transfer-effects.md) [+M] — instruction changes it
 - [Metacognitive chatbot feedback raises metacognitive sensitivity relative to affective and neutral feedback](../claims/chatbot-metacognitive-feedback-raises-metacognitive-sensitivity.md) [+M] — instruction changes it
+- [College students who overestimate their pretest retrospective judgments engage less in preparatory metacognitive strategies before quizzes in computer-based learning environments](../claims/overestimation-predicts-less-preparatory-metacognitive-strategy-use.md) [+M] — learners who differ on it differ in outcomes
+- [Pretest retrospective judgments, rather than actual pretest scores, predict college students' engagement in preparatory metacognitive strategies](../claims/judgment-not-actual-score-predicts-strategy-use.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Behavior Rating Inventory of Executive Function (BRIEF)** (Gioia et al., 2000): parent and teacher questionnaires whose metacognition index covers ages 5 to 18.

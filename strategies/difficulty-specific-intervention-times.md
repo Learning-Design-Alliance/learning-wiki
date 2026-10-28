@@ -44,6 +44,7 @@ The article proposes choosing an intervention time for each student difficulty b
 ## Related Strategies
 
 - [Tune the mind wandering detection threshold to the deployment setting, and choose thresholds by use case (recall for research, precision for interventions)](threshold-tuning-per-use-case-strategy.md)
+- [Automated Grading Workflow: teachers evaluate the model on their own data, set a disagreement threshold, and choose which predictions to review](hybrid-grading-workflow-teacher-control.md)
 
 ## Examples
 -
