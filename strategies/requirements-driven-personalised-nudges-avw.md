@@ -41,7 +41,7 @@ The authors distilled four requirements from Studies 1 and 2 to guide the extens
 
 ## Claims
 
-- [Only active/constructive engagement (commenting and rating comments) led to increased conceptual understanding of presentation skills, while passive video watching did not](../claims/active-constructive-engagement-improves-video-conceptual-understanding.md) [+W]
+- [Students who chose to comment on videos and rate comments (active/constructive) were reported to gain conceptual understanding of presentation skills while passive watchers did not, in self-selected groups](../claims/active-constructive-engagement-improves-video-conceptual-understanding.md) [+W]
 - [Specified aspects acted as micro-scaffolds: comments on example videos were almost equally distributed over the aspects, indicating participants watched with those aspects in mind](../claims/aspects-scaffold-video-commenting-thinking.md) [+W]
 
 ## Related Strategies

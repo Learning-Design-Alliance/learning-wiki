@@ -5642,13 +5642,14 @@
 "type":"claim"
 },
 {
-"description":"Only active/constructive engagement (commenting and rating comments) led to increased conceptual understanding of presentation skills, while passive video watching did not",
+"description":"Students who chose to comment on videos and rate comments (active/constructive) were reported to gain conceptual understanding of presentation skills while passive watchers did not, in self-selected groups",
 "evidence_strength":"moderate",
 "id":"active-constructive-engagement-improves-video-conceptual-understanding",
 "newest_evidence":"2021",
 "path":"claims/active-constructive-engagement-improves-video-conceptual-understanding.md",
+"source_checked":"2026-10-28",
 "status":"review",
-"title":"Only active/constructive engagement (commenting and rating comments) led to increased conceptual understanding of presentation skills, while passive video watching did not",
+"title":"Students who chose to comment on videos and rate comments (active/constructive) were reported to gain conceptual understanding of presentation skills while passive watchers did not, in self-selected groups",
 "type":"claim"
 },
 {
@@ -7016,6 +7017,7 @@
 "id":"adaptive-tutorial-dialogues-effect-size-069",
 "newest_evidence":"2016",
 "path":"claims/adaptive-tutorial-dialogues-effect-size-069.md",
+"source_checked":"2026-10-28",
 "status":"review",
 "title":"Students receiving adaptive tutorial dialogues in EER-Tutor outperformed peers receiving non-adaptive dialogues, with effect size 0.69 on learning gains",
 "type":"claim"
@@ -12635,6 +12637,7 @@
 "id":"ai-comparative-evaluation-critical-reading",
 "newest_evidence":"2025",
 "path":"claims/ai-comparative-evaluation-critical-reading.md",
+"source_checked":"2026-10-28",
 "status":"review",
 "title":"Comparative evaluation of AI output taught students that AI is not infallible and reinforced critical reading",
 "type":"claim"
@@ -77942,22 +77945,23 @@
 "description":"Direct LLM estimation accuracy varies by grade, performing worse for early grades; math grade K was worse than the dummy regressor and math grade 1 showed no significant prediction",
 "evidence_strength":"moderate",
 "id":"direct-llm-accuracy-varies-by-grade-early-grades-worse",
-"newest_evidence":"2025",
+"newest_evidence":"2026",
 "path":"claims/direct-llm-accuracy-varies-by-grade-early-grades-worse.md",
-"recheck_by":"2028",
+"recheck_by":"2029",
 "status":"review",
 "title":"Direct LLM estimation accuracy varies by grade, performing worse for early grades; math grade K was worse than the dummy regressor and math grade 1 showed no significant prediction",
 "type":"claim"
 },
 {
-"description":"Direct zero-shot GPT-4o difficulty ratings beat a grade-level dummy regressor and correlate strongly with true Rasch difficulties overall, for K-5 math and reading items",
+"description":"Zero-shot GPT-4o difficulty ratings, rescaled and entered in grade-specific regressions, beat a grade-level dummy regressor and correlate strongly with true Rasch difficulties overall, for K-5 math and reading items",
 "evidence_strength":"moderate",
 "id":"direct-llm-estimation-beats-dummy-regressor-k5-items",
-"newest_evidence":"2025",
+"newest_evidence":"2026",
 "path":"claims/direct-llm-estimation-beats-dummy-regressor-k5-items.md",
-"recheck_by":"2028",
+"recheck_by":"2029",
+"source_checked":"2026-10-28",
 "status":"review",
-"title":"Direct zero-shot GPT-4o difficulty ratings beat a grade-level dummy regressor and correlate strongly with true Rasch difficulties overall, for K-5 math and reading items",
+"title":"Zero-shot GPT-4o difficulty ratings, rescaled and entered in grade-specific regressions, beat a grade-level dummy regressor and correlate strongly with true Rasch difficulties overall, for K-5 math and reading items",
 "type":"claim"
 },
 {
@@ -93178,6 +93182,7 @@
 "id":"empirical-qualitative-study-informed-lecs-design",
 "newest_evidence":"2004",
 "path":"claims/empirical-qualitative-study-informed-lecs-design.md",
+"source_checked":"2026-10-28",
 "status":"review",
 "title":"An empirical qualitative study of paired distance collaboration informed the design of LeCS",
 "type":"claim"
@@ -98816,6 +98821,7 @@
 "id":"examples-plus-problems-beat-examples-alone",
 "newest_evidence":"2015",
 "path":"claims/examples-plus-problems-beat-examples-alone.md",
+"source_checked":"2026-10-28",
 "status":"review",
 "title":"Alternating examples and problems yielded more learning and more conceptual knowledge than examples alone or problem-solving alone",
 "type":"claim"
@@ -135645,6 +135651,7 @@
 "id":"hint-level-feedback-superior-sql-tutor",
 "newest_evidence":"2015",
 "path":"claims/hint-level-feedback-superior-sql-tutor.md",
+"source_checked":"2026-10-28",
 "status":"review",
 "title":"Hint-level feedback about violated domain principles produced faster and more effective learning than other feedback levels in SQL-Tutor",
 "type":"claim"
@@ -223276,13 +223283,14 @@
 "type":"claim"
 },
 {
-"description":"The generalised plait ensemble outperforms single classifiers, majority-vote and stacking ensembles, substantially improving perceived task-difficulty classification (e.g., SVM plait error 14.54%, KNN plait 12.84%).",
+"description":"Each generalised plait ensemble (SVM, KNN, DCT) beats the single classifier, majority-vote and stacking ensemble of the same type in perceived task-difficulty classification (e.g., SVM plait error 14.54%, KNN plait 12.84%), though the DCT plait does not beat SVM stacking",
 "evidence_strength":"moderate",
 "id":"plait-ensemble-outperforms-single-and-standard-ensembles",
 "newest_evidence":"2016",
 "path":"claims/plait-ensemble-outperforms-single-and-standard-ensembles.md",
+"source_checked":"2026-10-28",
 "status":"review",
-"title":"The generalised plait ensemble outperforms single classifiers, majority-vote and stacking ensembles, substantially improving perceived task-difficulty classification (e.g., SVM plait error 14.54%, KNN plait 12.84%).",
+"title":"Each generalised plait ensemble (SVM, KNN, DCT) beats the single classifier, majority-vote and stacking ensemble of the same type in perceived task-difficulty classification (e.g., SVM plait error 14.54%, KNN plait 12.84%), though the DCT plait does not beat SVM stacking",
 "type":"claim"
 },
 {

@@ -8,20 +8,20 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
-newest_evidence: 2025
-recheck_by: 2028
+newest_evidence: 2026
+recheck_by: 2029
 sources:
-  - id: pooya-razavi-2025
+  - id: pooya-razavi-2026
     resource: "https://doi.org/10.1016/j.ijaied.2026.100015"
-    title: "Pooya Razavi, Sonya Powers. (2025). Estimating Item Difficulty Using Large Language Models and Tree-Based Machine Learning Algorithms. Edmentum. https://doi.org/10.1016/j.ijaied.2026.100015"
+    title: "Pooya Razavi, Sonya Powers. (2026). Estimating Item Difficulty Using Large Language Models and Tree-Based Machine Learning Algorithms. *International Journal of Artificial Intelligence in Education, 36*, 100015. https://doi.org/10.1016/j.ijaied.2026.100015"
     author: Pooya Razavi, Sonya Powers
     q: 2
     i: "?"
     kind: associational
     rigour: 2
-  - id: pooya-razavi-2025-2
+  - id: pooya-razavi-2026-2
     resource: "https://doi.org/10.1016/j.ijaied.2026.100015"
-    title: "Pooya Razavi, Sonya Powers. (2025). Estimating Item Difficulty Using Large Language Models and Tree-Based Machine Learning Algorithms. Edmentum. https://doi.org/10.1016/j.ijaied.2026.100015"
+    title: "Pooya Razavi, Sonya Powers. (2026). Estimating Item Difficulty Using Large Language Models and Tree-Based Machine Learning Algorithms. *International Journal of Artificial Intelligence in Education, 36*, 100015. https://doi.org/10.1016/j.ijaied.2026.100015"
     author: Pooya Razavi, Sonya Powers
     q: 2
     i: "?"
@@ -33,17 +33,17 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
-`q2 i?` For math grade K, both error indices exceeded the dummy regressor benchmarks, and grade 1 errors were only minimally better than benchmarks. [→ Pooya Razavi 2025](#pooya-razavi-2025)
-`q2 i?` In the per-grade training regressions, GPT estimates did not significantly predict true difficulty for math grade 1 (p = 0.369), and reading R2 ranged from .02 (grade 1) to .45 (grade 3). [→ Pooya Razavi 2025 (2)](#pooya-razavi-2025-2)
+`q2 i?` For math grade K, both error indices exceeded the dummy regressor benchmarks, and grade 1 errors were only minimally better than benchmarks. [→ Pooya Razavi 2026](#pooya-razavi-2026)
+`q2 i?` In the per-grade training regressions, GPT estimates did not significantly predict true difficulty for math grade 1 (p = 0.369), and reading R2 ranged from .02 (grade 1) to .45 (grade 3). [→ Pooya Razavi 2026 (2)](#pooya-razavi-2026-2)
 
 ## Evidence
 
-### Pooya Razavi 2025
+### Pooya Razavi 2026
 
-Pooya Razavi, Sonya Powers. (2025). Estimating Item Difficulty Using Large Language Models and Tree-Based Machine Learning Algorithms. Edmentum. https://doi.org/10.1016/j.ijaied.2026.100015
+Pooya Razavi, Sonya Powers. (2026). Estimating Item Difficulty Using Large Language Models and Tree-Based Machine Learning Algorithms. *International Journal of Artificial Intelligence in Education, 36*, 100015. https://doi.org/10.1016/j.ijaied.2026.100015
 
 `q2 · i?` · `associational · r2`
 
@@ -51,9 +51,9 @@ By-grade holdout analysis of the direct approach for math. "both error indices f
 
 > "Importantly, both error indices for grade K were higher than the benchmarks, showing that even though this grade has the lowest RMSE and MAE, the prediction accuracy is worse than a model predicting item difficulties based on grade averages."
 
-### Pooya Razavi 2025 (2)
+### Pooya Razavi 2026 (2)
 
-Pooya Razavi, Sonya Powers. (2025). Estimating Item Difficulty Using Large Language Models and Tree-Based Machine Learning Algorithms. Edmentum. https://doi.org/10.1016/j.ijaied.2026.100015
+Pooya Razavi, Sonya Powers. (2026). Estimating Item Difficulty Using Large Language Models and Tree-Based Machine Learning Algorithms. *International Journal of Artificial Intelligence in Education, 36*, 100015. https://doi.org/10.1016/j.ijaied.2026.100015
 
 `q2 · i?` · `associational · r2`
 

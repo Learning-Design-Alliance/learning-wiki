@@ -23,7 +23,7 @@ The review introduces a classification (its Fig. 1) that distinguishes two famil
 
 ### Claims
 
-- [Direct zero-shot GPT-4o difficulty ratings beat a grade-level dummy regressor and correlate strongly with true Rasch difficulties overall, for K-5 math and reading items](../claims/direct-llm-estimation-beats-dummy-regressor-k5-items.md) [+W]
+- [Zero-shot GPT-4o difficulty ratings, rescaled and entered in grade-specific regressions, beat a grade-level dummy regressor and correlate strongly with true Rasch difficulties overall, for K-5 math and reading items](../claims/direct-llm-estimation-beats-dummy-regressor-k5-items.md) [+W]
 - [LLMs systematically underestimate fraction items whose difficulty is driven by misconceptions (the \"Easy Trap\")](../claims/easy-trap-fraction-items-underestimated-by-llms.md) [+W]
 
 ## Related Research Methods

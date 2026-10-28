@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: weak
 newest_evidence: 2004
+source_checked: 2026-10-28
 sources:
   - id: marta-c-rosatelli-2004
     resource: "https://telearn.hal.science/hal-00197307"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q2`
-> **Currency** · newest study 2004 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2004 · checked against its sources 2026-10-28 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The results of an empirical qualitative study simulating distance collaboration had implications that informed the design of the LeCS system. [→ Marta C. Rosatelli 2004](#marta-c-rosatelli-2004)

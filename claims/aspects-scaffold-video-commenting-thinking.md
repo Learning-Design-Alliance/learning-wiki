@@ -45,5 +45,5 @@ Analysis of comments written in the initial AVW-Space studies on the four exampl
 
 
 ## Related Claims
-- [Only active/constructive engagement (commenting and rating comments) led to increased conceptual understanding of presentation skills, while passive video watching did not](active-constructive-engagement-improves-video-conceptual-understanding.md) — related
+- [Students who chose to comment on videos and rate comments (active/constructive) were reported to gain conceptual understanding of presentation skills while passive watchers did not, in self-selected groups](active-constructive-engagement-improves-video-conceptual-understanding.md) — related
 - [Identical overt behaviors can reflect different engagement modes: a video-watching example](identical-overt-behavior-different-modes.md) — related

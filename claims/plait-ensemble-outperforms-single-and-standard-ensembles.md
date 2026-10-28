@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "The generalised plait ensemble outperforms single classifiers, majority-vote and stacking ensembles, substantially improving perceived task-difficulty classification (e.g., SVM plait error 14.54%, KNN plait 12.84%)."
-description: "The generalised plait ensemble outperforms single classifiers, majority-vote and stacking ensembles, substantially improving perceived task-difficulty classification (e.g., SVM plait error 14.54%, KNN plait 12.84%)."
+title: Each generalised plait ensemble (SVM, KNN, DCT) beats the single classifier, majority-vote and stacking ensemble of the same type in perceived task-difficulty classification (e.g., SVM plait error 14.54%, KNN plait 12.84%), though the DCT plait does not beat SVM stacking
+description: Each generalised plait ensemble (SVM, KNN, DCT) beats the single classifier, majority-vote and stacking ensemble of the same type in perceived task-difficulty classification (e.g., SVM plait error 14.54%, KNN plait 12.84%), though the DCT plait does not beat SVM stacking
 id: plait-ensemble-outperforms-single-and-standard-ensembles
 status: review
 generated:
@@ -9,6 +9,7 @@ generated:
   at: 2026-10-27
 evidence_strength: moderate
 newest_evidence: 2016
+source_checked: 2026-10-28
 sources:
   - id: ruth-janning-2016
     resource: "https://doi.org/10.1007/s40593-016-0097-9"
@@ -20,11 +21,11 @@ sources:
     rigour: 2
 ---
 
-# The generalised plait ensemble outperforms single classifiers, majority-vote and stacking ensembles, substantially improving perceived task-difficulty classification (e.g., SVM plait error 14.54%, KNN plait 12.84%).
+# Each generalised plait ensemble (SVM, KNN, DCT) beats the single classifier, majority-vote and stacking ensemble of the same type in perceived task-difficulty classification (e.g., SVM plait error 14.54%, KNN plait 12.84%), though the DCT plait does not beat SVM stacking
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2016 · checked against its sources 2026-10-28 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The best performing plait on average is the KNN plait, except for class hard where the SVM plait performed best; DCT plait showed weaker performance. [→ Ruth Janning 2016](#ruth-janning-2016)
@@ -37,7 +38,7 @@ Ruth Janning, Carlotta Schatten, Lars Schmidt-Thieme. (2016). Perceived Task-Dif
 
 `q2 · i?` · `design · r2`
 
-Per-student and per-class analysis of the same plait experiments (Fig. 2 and Fig. 3 plus Table 9). The figure-based analysis shows the plait "in each case the plait outperformed the other models, except for SVM and DCT applied to the data of student 7", and DCT plait "seems not always to work well".
+Per-student and per-class analysis of the same plait experiments (Fig. 2 and Fig. 3 plus Table 9). In Table 9 each plait has a lower average test error than the single classifier, majority and stacking ensemble of the same type (SVM 14.54% vs stacking 20.41%; KNN 12.84% vs 22.67%; DCT 20.57% vs 28.93%), though the DCT plait (20.57%) is slightly worse than the SVM stacking ensemble (20.41%). Per student (Fig. 2), the authors report the plait "outperformed the other models, except for SVM and DCT applied to the data of student 7", and that the DCT plait "seems not always to work well".
 
 > "The best performing plait on average is the KNN plait, except for class hard where the SVM plait performed best. Overall, both SVM and KNN plait performed similarly good whereas DCT plait showed a weaker performance."
 

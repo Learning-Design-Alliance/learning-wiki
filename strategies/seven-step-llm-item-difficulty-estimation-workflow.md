@@ -41,7 +41,7 @@ The article offers its methods as a reusable implementation path for other testi
 ## Claims
 
 - [Direct LLM estimation accuracy varies by grade, performing worse for early grades; math grade K was worse than the dummy regressor and math grade 1 showed no significant prediction](../claims/direct-llm-accuracy-varies-by-grade-early-grades-worse.md) [~W]
-- [Direct zero-shot GPT-4o difficulty ratings beat a grade-level dummy regressor and correlate strongly with true Rasch difficulties overall, for K-5 math and reading items](../claims/direct-llm-estimation-beats-dummy-regressor-k5-items.md) [+W]
+- [Zero-shot GPT-4o difficulty ratings, rescaled and entered in grade-specific regressions, beat a grade-level dummy regressor and correlate strongly with true Rasch difficulties overall, for K-5 math and reading items](../claims/direct-llm-estimation-beats-dummy-regressor-k5-items.md) [+W]
 - [Feature-based models (LLM-extracted features plus metadata in random forest and gradient boosting) outperform direct LLM estimation, dummy regressor, TF-IDF, and metadata-only benchmarks, with correlations up to r = .87](../claims/feature-based-llm-models-outperform-direct-estimation-and-benchmarks.md) [+W]
 - [Feature-based model predictive power derives from a large and varied set of features rather than a few dominant variables](../claims/feature-importance-spread-across-many-features.md) [+W]
 - [LLM-extracted cognitive and linguistic features add predictive value beyond readily available item metadata (grade, domain, item type, word count)](../claims/llm-features-add-value-beyond-item-metadata.md) [+W]

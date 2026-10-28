@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Only active/constructive engagement (commenting and rating comments) led to increased conceptual understanding of presentation skills, while passive video watching did not
-description: Only active/constructive engagement (commenting and rating comments) led to increased conceptual understanding of presentation skills, while passive video watching did not
+title: Students who chose to comment on videos and rate comments (active/constructive) were reported to gain conceptual understanding of presentation skills while passive watchers did not, in self-selected groups
+description: Students who chose to comment on videos and rate comments (active/constructive) were reported to gain conceptual understanding of presentation skills while passive watchers did not, in self-selected groups
 id: active-constructive-engagement-improves-video-conceptual-understanding
 status: review
 generated:
@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: moderate
 newest_evidence: 2021
+source_checked: 2026-10-28
 sources:
   - id: vania-dimitrova-antonija-mitrovic-2021
     resource: "https://doi.org/10.1007/s40593-021-00263-1"
@@ -20,14 +21,14 @@ sources:
     rigour: 1
 ---
 
-# Only active/constructive engagement (commenting and rating comments) led to increased conceptual understanding of presentation skills, while passive video watching did not
+# Students who chose to comment on videos and rate comments (active/constructive) were reported to gain conceptual understanding of presentation skills while passive watchers did not, in self-selected groups
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2021 · checked against its sources 2026-10-28 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
-`q2 i?` In Study 1 with postgraduate students, only Active/Constructive learners who watched videos, wrote comments and rated comments showed increased conceptual understanding; passive engagement did not lead to increased conceptual understanding. [→ Vania Dimitrova & Antonija Mitrovic 2021](#vania-dimitrova-antonija-mitrovic-2021)
+`q2 i?` In Study 1 with postgraduate students, the article (citing Mitrovic et al., 2017) reports increased conceptual understanding only for the Active/Constructive learners who watched videos, wrote comments and rated comments, and not for passive watchers; the groups were formed from students' own behaviour, not assigned, so this cannot show that commenting caused the gain. [→ Vania Dimitrova & Antonija Mitrovic 2021](#vania-dimitrova-antonija-mitrovic-2021)
 
 ## Evidence
 
@@ -37,7 +38,7 @@ Vania Dimitrova & Antonija Mitrovic. (2021). Choice Architecture for Nudges to S
 
 `q2 · i?` · `associational · r1`
 
-User study with postgraduate students using the full AVW-Space version; 40 participants commented on videos and were classified as Active/Constructive Learners while two students watched videos passively. The article reports that "only Active/Constructive (watching videos, writing comments and rating comments) led to increased conceptual understanding"; no effect size is printed.
+User study with postgraduate volunteers using the full AVW-Space version; nobody was assigned to a condition. Of the 42 who logged on, 40 chose to comment on videos and were classified as Active/Constructive Learners, and two watched videos passively. Summarising an earlier report (Mitrovic et al., 2017), the article says only Active/Constructive engagement "led to increased conceptual understanding". Because the groups are self-selected (and the passive group is two students), this is an association, not evidence that commenting causes understanding. The same article's own comparison of Study 1's commenting phase found "no significant difference between CK1 and the conceptual knowledge score at the end of the study (CK2)". No effect size is printed.
 
 > "The results of Study 1 showed that only Active/Constructive (watching videos, writing comments and rating comments) led to increased conceptual understanding (Mitrovic et al., 2017). In contrast, Passive engagement did not lead to increased conceptual understanding."
 

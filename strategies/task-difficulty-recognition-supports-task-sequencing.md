@@ -39,7 +39,7 @@ The authors propose feeding perceived task-difficulty recognition into the Schat
 ## Claims
 
 - [A two-feature combination of average time until skip and average time until first hint request statistically significantly describes students' accumulated perceived task-difficulty across a learning session.](../claims/log-feature-combination-significant-accumulated-difficulty.md) [+W]
-- [The generalised plait ensemble outperforms single classifiers, majority-vote and stacking ensembles, substantially improving perceived task-difficulty classification (e.g., SVM plait error 14.54%, KNN plait 12.84%).](../claims/plait-ensemble-outperforms-single-and-standard-ensembles.md) [+W]
+- [Each generalised plait ensemble (SVM, KNN, DCT) beats the single classifier, majority-vote and stacking ensemble of the same type in perceived task-difficulty classification (e.g., SVM plait error 14.54%, KNN plait 12.84%), though the DCT plait does not beat SVM stacking](../claims/plait-ensemble-outperforms-single-and-standard-ensembles.md) [+W]
 - [Single log-file features per task show very small p-values but weak fit, with number of hints seen the strongest single predictor of perceived task-difficulty.](../claims/single-per-task-features-weak-fit.md) [~W]
 - [Log-file features are suitable for recognising perceived task-difficulty per task, with SVM the best single classifier (25.24% average test error).](../claims/svm-best-single-classifier-task-difficulty.md) [+W]
 

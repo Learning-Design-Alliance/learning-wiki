@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: moderate
 newest_evidence: 2016
+source_checked: 2026-10-28
 sources:
   - id: antonija-mitrovic-pramuditha-suraweera-2016
     resource: "https://doi.org/10.1007/s40593-015-0084-6"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2` · `i2` medium
-> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2016 · checked against its sources 2026-10-28 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i2` In a March 2010 study, students with adaptive dialogues outperformed peers with non-adaptive dialogs, effect size 0.69 on learning gains after approximately 100 minutes of interaction. [→ Antonija Mitrovic & Pramuditha Suraweera 2016](#antonija-mitrovic-pramuditha-suraweera-2016)

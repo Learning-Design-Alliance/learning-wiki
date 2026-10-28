@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: weak
 newest_evidence: 2025
+source_checked: 2026-10-28
 sources:
   - id: jessica-l-parker-2025
     resource: "https://doi.org/10.1007/s40593-024-00425-x"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-10-28 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` By comparing AI feedback to their own observations and instructor feedback, students found errors in AI output and learned to reject its suggestions. [→ Jessica L. Parker 2025](#jessica-l-parker-2025)

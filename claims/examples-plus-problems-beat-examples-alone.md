@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: weak
 newest_evidence: 2015
+source_checked: 2026-10-28
 sources:
   - id: mitrovic-2015
     resource: "https://doi.org/10.1007/s40593-015-0049-9"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q2`
-> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2015 · checked against its sources 2026-10-28 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students learned significantly more from alternative presentation of examples and problems than from examples only, and acquired significantly more conceptual knowledge than from problem-solving alone. [→ Mitrovic 2015](#mitrovic-2015)
