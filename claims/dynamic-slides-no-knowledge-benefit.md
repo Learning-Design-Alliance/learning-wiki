@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: moderate
 newest_evidence: 2025
+source_checked: 2026-10-28
 sources:
   - id: reuter-2025
     resource: "https://doi.org/10.1007/s11423-025-10572-0"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-10-28 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Dynamic slides with voiceover narration did not improve knowledge acquisition compared to static slides with voiceover narration. [→ Reuter 2025](#reuter-2025)

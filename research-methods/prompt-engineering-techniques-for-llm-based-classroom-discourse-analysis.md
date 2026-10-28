@@ -22,7 +22,7 @@ The article describes a framework of prompting techniques — Vanilla, Chain of 
 - **Prompt engineering techniques for LLM-based classroom discourse analysis**: The article describes a framework of prompting techniques — Vanilla, Chain of Thought, and Self-Ask — applied with zero-shot and few-shot strategies to detect teacher questions from ASR outputs. "Recent advancements have introduced techniques to enhance response quality, such as Chain of Thought (CoT) (Lee et al., 2024) and Self-Ask (SA) (Press et al., 2023)." Self-Ask "explicitly introduces intermediate sub-questions that guide the model through each reasoning step." The framework frames prompt engineering as "designing effective prompts to elicit desired responses from LLMs, crucial for instructing models in specific tasks." (Lehesvuori et al. (2026))
 
 ### Claims
-- [Chain-of-thought prompting outperforms Self-Ask under zero-shot conditions](../claims/cot-outperforms-self-ask-zero-shot.md) [+M]
+- [In detecting teacher questions with zero-shot GPT-3.5-turbo, chain-of-thought prompting had slightly higher F1 and precision than Self-Ask but slightly lower recall and balanced accuracy](../claims/cot-outperforms-self-ask-zero-shot.md) [+M]
 - [Few-shot chain-of-thought prompting outperforms zero-shot prompting for detecting teacher questions](../claims/few-shot-cot-outperforms-zero-shot-question-detection.md) [+M]
 
 ## Related Research Methods

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: moderate
 newest_evidence: 2024
+source_checked: 2026-10-28
 sources:
   - id: kogan-2024
     resource: "https://doi.org/10.1007/s11423-024-10382-w"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · checked against its sources 2026-10-28 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The mean SUS score of the experimental group was 79.17 (Excellent) while the control group scored 69.23 (Good). [→ Kogan 2024](#kogan-2024)

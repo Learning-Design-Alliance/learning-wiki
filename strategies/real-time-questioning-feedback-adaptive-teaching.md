@@ -44,7 +44,7 @@ The article suggests LLM-based question detection could provide real-time feedba
 - [LLMs struggle with nuanced coding schemes but binary question detection is feasible with simple prompts](../claims/llm-struggle-nuanced-coding-binary-feasible.md) [+W]
 - [GPT-4 outperforms GPT-3.5-turbo in a single-lesson question-detection test](../claims/gpt4-outperforms-gpt35-single-lesson.md) [+W]
 - [Few-shot LLM approaches outperform standalone supervised ML approaches, yet hand-crafted rules remain relevant](../claims/few-shot-llm-outperforms-ml-hcr-relevant.md) [+W]
-- [Chain-of-thought prompting outperforms Self-Ask under zero-shot conditions](../claims/cot-outperforms-self-ask-zero-shot.md) [+W]
+- [In detecting teacher questions with zero-shot GPT-3.5-turbo, chain-of-thought prompting had slightly higher F1 and precision than Self-Ask but slightly lower recall and balanced accuracy](../claims/cot-outperforms-self-ask-zero-shot.md) [+W]
 
 ## Related Strategies
 

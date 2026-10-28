@@ -84,7 +84,7 @@ Bayesian estimation compared germane cognitive load between conditions. No meani
 
 ## Related Claims
 - [No difference in extraneous cognitive load between modality conditions in VR, contrary to the modality principle](vr-modality-no-extraneous-load-difference.md) — related
-- [Declarative knowledge does not differ after unguided VR exploration but improves after scaffolded guidance is introduced](desktop-vr-scaffolded-guidance-declarative-knowledge-statics.md) — related
+- [Desktop VR showed no significant declarative-knowledge advantage over traditional instruction after unguided exploration (d = 0.24), and a marginal, non-significant one after scaffolded guidance (d = 0.63, p = .06)](desktop-vr-scaffolded-guidance-declarative-knowledge-statics.md) — related
 - [No difference in intrinsic cognitive load between visual-only and audio-visual text conditions in VR](vr-modality-no-intrinsic-load-difference.md) — related
 - [Desktop VR with scaffolded interaction and reflective self-explanation improves problem-solving performance on a novel statics scenario compared to traditional instruction](desktop-vr-scaffolded-self-explanation-problem-solving-statics.md) — related
 - [Desktop VR with scaffolded interaction and reflective self-explanation improves procedural knowledge in engineering statics compared to traditional instruction](desktop-vr-scaffolded-self-explanation-procedural-knowledge-statics.md) — related

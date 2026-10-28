@@ -9,12 +9,13 @@ generated:
   at: 2026-10-28
 evidence_strength: moderate
 newest_evidence: 2024
+source_checked: 2026-10-28
 sources:
   - id: kogan-2024
     resource: "https://doi.org/10.1007/s11423-024-10382-w"
     title: "Kogan, G., Chassidim, H., & Rabaev, I. (2024). The efficacy of animation and visualization in teaching data structures: a case study. Education Tech Research Dev. https://doi.org/10.1007/s11423-024-10382-w"
     author: "Kogan, G., Chassidim, H., & Rabaev, I."
-    q: 2
+    q: 3
     i: "?"
     kind: causal
     rigour: 2
@@ -23,11 +24,11 @@ sources:
 # Students using the AVDS tool scored higher on an AVL-tree performance test than controls
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · causal `r2` · `q2`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2024 · checked against its sources 2026-10-28 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
-`q2 i?` The experimental group using the AVDS tool achieved considerably higher test scores than the control group, with more than 75% of students scoring 80-100 belonging to the AVDS group. [→ Kogan 2024](#kogan-2024)
+`q3 i?` The experimental group using the AVDS tool achieved considerably higher test scores than the control group, with more than 75% of students scoring 80-100 belonging to the AVDS group. [→ Kogan 2024](#kogan-2024)
 
 ## Evidence
 
@@ -35,9 +36,9 @@ sources:
 
 Kogan, G., Chassidim, H., & Rabaev, I. (2024). The efficacy of animation and visualization in teaching data structures: a case study. Education Tech Research Dev. https://doi.org/10.1007/s11423-024-10382-w
 
-`q2 · i?` · `causal · r2`
+`q3 · i?` · `causal · r2`
 
-Quasi-experimental comparison of 78 students randomly assigned to experimental (n=39, with AVDS tool) and control (n=39, without) groups on a six-question AVL-tree performance test. The article reports "a significant difference existed in the test scores" with no printed effect size.
+Randomised experiment: 78 students randomly assigned to experimental (n=39, using the AVDS tool during the test) and control (n=39, without it) groups, on a six-question AVL-tree performance test. The article reports "a significant difference existed in the test scores" with no printed effect size.
 
 > "A significant difference existed in the test scores of the experimental and control groups (see Fig. 5). For the experimental group, the test scores were considerably higher: more than 75% of students who got grades from 80 to 100 belonged to the group that used the AVDS tool."
 

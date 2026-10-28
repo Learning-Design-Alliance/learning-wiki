@@ -11,8 +11,9 @@ evidence_strength: weak
 newest_evidence: 1959
 sources:
   - id: dworkin-1959
-    title: Dworkin, Solomon, and Holden, Alan. (1959). An Experimental Evaluation of Sound Filmstrips vs. Classroom Lectures. Journal of the Society of Motion Picture and Television Engineers.
-    author: Dworkin, Solomon, and Holden, Alan
+    resource: "https://doi.org/10.5594/j13825"
+    title: "Dworkin, S., & Holden, A. (1959). An Experimental Evaluation of Sound Filmstrips vs. Classroom Lectures. *Journal of the Society of Motion Picture and Television Engineers, 68*, 383–385. [doi:10.5594/j13825](https://doi.org/10.5594/j13825) (read through Twyford's 1960 research abstract, [doi:10.1007/bf02713416](https://doi.org/10.1007/bf02713416))"
+    author: "Dworkin, S., & Holden, A."
     q: 2
     i: "?"
     kind: causal
@@ -32,7 +33,7 @@ sources:
 
 ### Dworkin 1959
 
-Dworkin, Solomon, and Holden, Alan. (1959). An Experimental Evaluation of Sound Filmstrips vs. Classroom Lectures. Journal of the Society of Motion Picture and Television Engineers.
+Dworkin, S., & Holden, A. (1959). An Experimental Evaluation of Sound Filmstrips vs. Classroom Lectures. *Journal of the Society of Motion Picture and Television Engineers, 68*, 383–385. [doi:10.5594/j13825](https://doi.org/10.5594/j13825) (read through Twyford's 1960 research abstract, [doi:10.1007/bf02713416](https://doi.org/10.1007/bf02713416))
 
 `q2 · i?` · `causal · r2`
 

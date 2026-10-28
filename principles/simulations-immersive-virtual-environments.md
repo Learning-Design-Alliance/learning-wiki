@@ -346,7 +346,7 @@ Success inside the simulation, immediate performance outside it, delayed retenti
 - [Gamified virtual reality learning environments were more motivating, engaging, and interactive than traditional learning environments](../claims/gamified-vr-more-motivating-engaging-interactive-than-traditional.md) [~W]
 - [A video-based virtual learning environment improves preservice teachers' multiperspective professional vision of classroom management and instructional support compared to an untreated control group](../claims/vle-improves-multiperspective-professional-vision.md) [+W]
 - [Qualitative analysis found predominantly positive perceptions of iVR, with real-time feedback the most valued element and lack of realism the main concern](../claims/qualitative-ivr-perceptions-feedback-valued-realism-concern.md) [~W]
-- [Declarative knowledge does not differ after unguided VR exploration but improves after scaffolded guidance is introduced](../claims/desktop-vr-scaffolded-guidance-declarative-knowledge-statics.md) [+W]
+- [Desktop VR showed no significant declarative-knowledge advantage over traditional instruction after unguided exploration (d = 0.24), and a marginal, non-significant one after scaffolded guidance (d = 0.63, p = .06)](../claims/desktop-vr-scaffolded-guidance-declarative-knowledge-statics.md) [+W]
 
 ## Related Principles
 - [Experiential Learning](experiential-learning.md) — simulations provide structured experiences that later reflection can interpret.

@@ -50,6 +50,6 @@ A one-way between-subjects ANOVA compared knowledge application scores on a nove
 ## Related Claims
 - [Desktop VR with scaffolded interaction and reflective self-explanation improves procedural knowledge in engineering statics compared to traditional instruction](desktop-vr-scaffolded-self-explanation-procedural-knowledge-statics.md) — related
 - [Desktop VR with scaffolded interaction and reflective self-explanation increases self-efficacy compared to traditional instruction](desktop-vr-scaffolded-self-explanation-self-efficacy.md) — related
-- [Declarative knowledge does not differ after unguided VR exploration but improves after scaffolded guidance is introduced](desktop-vr-scaffolded-guidance-declarative-knowledge-statics.md) — related
+- [Desktop VR showed no significant declarative-knowledge advantage over traditional instruction after unguided exploration (d = 0.24), and a marginal, non-significant one after scaffolded guidance (d = 0.63, p = .06)](desktop-vr-scaffolded-guidance-declarative-knowledge-statics.md) — related
 - [Desktop VR with scaffolded interaction and reflective self-explanation reduces extraneous and intrinsic cognitive load compared to traditional instruction](desktop-vr-scaffolded-self-explanation-cognitive-load.md) — related
 - [Triggered situational interest shows anecdotal evidence of being higher in the VR condition while maintained situational interest does not differ](desktop-vr-scaffolded-self-explanation-situational-interest.md) — related

@@ -46,5 +46,5 @@ SEM analysis in the 1435-student survey found teaching presence predicted cognit
 
 ## Related Claims
 - [Cognitive presence was positively related to learning engagement and mediated relationships of teaching presence (full) and self-regulation (partial) with engagement](cognitive-presence-direct-and-mediation-engagement.md) — a broader claim this one bears on
-- [Self-efficacy had no direct relationship with learning engagement; its effect was fully mediated by self-regulation, teaching presence, and cognitive presence](self-efficacy-engagement-fully-mediated.md) — related
+- [In a cross-sectional survey analysed with SEM, self-efficacy's direct path to learning engagement was non-significant, and its association with engagement ran indirectly through self-regulation, teaching presence and cognitive presence (statistical mediation, which cannot show cause)](self-efficacy-engagement-fully-mediated.md) — related
 - [Self-efficacy for learning was positively related to teaching presence, self-regulation, and cognitive presence among Korean undergraduates during COVID-19](self-efficacy-positive-relationships-presences-self-regulation-covid.md) — related

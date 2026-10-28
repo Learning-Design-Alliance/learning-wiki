@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-10-28
 sources:
   - id: trinidad-fernández-2026
     resource: "https://doi.org/10.1007/s11423-026-10620-3"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3` · `i2` medium
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-10-28 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i2` The experimental group achieved a significantly higher overall evaluation score (8.3/10 vs 7.2/10) on the femorotibial mobilization technique one week after the intervention. [→ Trinidad-Fernández 2026](#trinidad-fernandez-2026)

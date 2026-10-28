@@ -28349,6 +28349,7 @@
 "id":"avds-tool-improves-data-structures-test-scores",
 "newest_evidence":"2024",
 "path":"claims/avds-tool-improves-data-structures-test-scores.md",
+"source_checked":"2026-10-28",
 "status":"review",
 "title":"Students using the AVDS tool scored higher on an AVL-tree performance test than controls",
 "type":"claim"
@@ -41784,6 +41785,7 @@
 "id":"cfa-partially-supports-six-dimension-structure",
 "newest_evidence":"2025",
 "path":"claims/cfa-partially-supports-six-dimension-structure.md",
+"source_checked":"2026-10-28",
 "status":"review",
 "title":"CFA partially supports the six-dimension structure of perceived AI competence",
 "type":"claim"
@@ -62997,13 +62999,14 @@
 "type":"claim"
 },
 {
-"description":"Chain-of-thought prompting outperforms Self-Ask under zero-shot conditions",
+"description":"In detecting teacher questions with zero-shot GPT-3.5-turbo, chain-of-thought prompting had slightly higher F1 and precision than Self-Ask but slightly lower recall and balanced accuracy",
 "evidence_strength":"weak",
 "id":"cot-outperforms-self-ask-zero-shot",
 "newest_evidence":"2026",
 "path":"claims/cot-outperforms-self-ask-zero-shot.md",
+"source_checked":"2026-10-28",
 "status":"review",
-"title":"Chain-of-thought prompting outperforms Self-Ask under zero-shot conditions",
+"title":"In detecting teacher questions with zero-shot GPT-3.5-turbo, chain-of-thought prompting had slightly higher F1 and precision than Self-Ask but slightly lower recall and balanced accuracy",
 "type":"claim"
 },
 {
@@ -76087,13 +76090,14 @@
 "type":"claim"
 },
 {
-"description":"Declarative knowledge does not differ after unguided VR exploration but improves after scaffolded guidance is introduced",
+"description":"Desktop VR showed no significant declarative-knowledge advantage over traditional instruction after unguided exploration (d = 0.24), and a marginal, non-significant one after scaffolded guidance (d = 0.63, p = .06)",
 "evidence_strength":"mixed",
 "id":"desktop-vr-scaffolded-guidance-declarative-knowledge-statics",
 "newest_evidence":"2026",
 "path":"claims/desktop-vr-scaffolded-guidance-declarative-knowledge-statics.md",
+"source_checked":"2026-10-28",
 "status":"review",
-"title":"Declarative knowledge does not differ after unguided VR exploration but improves after scaffolded guidance is introduced",
+"title":"Desktop VR showed no significant declarative-knowledge advantage over traditional instruction after unguided exploration (d = 0.24), and a marginal, non-significant one after scaffolded guidance (d = 0.63, p = .06)",
 "type":"claim"
 },
 {
@@ -76957,6 +76961,7 @@
 "id":"dhh-communication-preference-predicts-feature-attention",
 "newest_evidence":"2025",
 "path":"claims/dhh-communication-preference-predicts-feature-attention.md",
+"source_checked":"2026-10-28",
 "status":"review",
 "title":"DHH students' communication preferences partly predict which multimedia tutorial features they attend to",
 "type":"claim"
@@ -77028,6 +77033,7 @@
 "id":"dhh-spatial-contiguity-interpreter-visuals",
 "newest_evidence":"2025",
 "path":"claims/dhh-spatial-contiguity-interpreter-visuals.md",
+"source_checked":"2026-10-28",
 "status":"review",
 "title":"DHH students suggest applying spatial contiguity between interpreter and visuals to reduce split attention",
 "type":"claim"
@@ -85327,6 +85333,7 @@
 "id":"dynamic-slides-no-knowledge-benefit",
 "newest_evidence":"2025",
 "path":"claims/dynamic-slides-no-knowledge-benefit.md",
+"source_checked":"2026-10-28",
 "status":"review",
 "title":"Dynamic slides did not improve knowledge acquisition compared to static slides",
 "type":"claim"
@@ -145789,13 +145796,14 @@
 "type":"claim"
 },
 {
-"description":"Industry feedback on student conduct and digital innovation usefulness improved in iteration 3 after partnering with entrepreneurs",
+"description":"In iteration 3, when student teams partnered with start-up entrepreneurs, industry partners rated student conduct highest of the three iterations on 7 of 10 items, but innovation usefulness highest on only 3 of 10",
 "evidence_strength":"weak",
 "id":"industry-feedback-improved-iteration3",
 "newest_evidence":"2024",
 "path":"claims/industry-feedback-improved-iteration3.md",
+"source_checked":"2026-10-28",
 "status":"review",
-"title":"Industry feedback on student conduct and digital innovation usefulness improved in iteration 3 after partnering with entrepreneurs",
+"title":"In iteration 3, when student teams partnered with start-up entrepreneurs, industry partners rated student conduct highest of the three iterations on 7 of 10 items, but innovation usefulness highest on only 3 of 10",
 "type":"claim"
 },
 {
@@ -154835,6 +154843,7 @@
 "id":"ivr-complement-improves-manual-therapy-performance-score",
 "newest_evidence":"2026",
 "path":"claims/ivr-complement-improves-manual-therapy-performance-score.md",
+"source_checked":"2026-10-28",
 "status":"review",
 "title":"Undergraduate physiotherapy students who used iVR alongside traditional teaching scored higher on overall manual therapy performance one week later",
 "type":"claim"
@@ -187746,6 +187755,7 @@
 "id":"mobile-devices-primary-tool-emergent-remote-teaching",
 "newest_evidence":"2021",
 "path":"claims/mobile-devices-primary-tool-emergent-remote-teaching.md",
+"source_checked":"2026-10-28",
 "status":"review",
 "title":"Mobile devices served as the primary tool for learners and teachers during the emergent remote teaching process of the pandemic",
 "type":"claim"
@@ -242331,6 +242341,7 @@
 "id":"qualitative-ivr-perceptions-feedback-valued-realism-concern",
 "newest_evidence":"2026",
 "path":"claims/qualitative-ivr-perceptions-feedback-valued-realism-concern.md",
+"source_checked":"2026-10-28",
 "status":"review",
 "title":"Qualitative analysis found predominantly positive perceptions of iVR, with real-time feedback the most valued element and lack of realism the main concern",
 "type":"claim"
@@ -266566,13 +266577,14 @@
 "type":"claim"
 },
 {
-"description":"Self-efficacy had no direct relationship with learning engagement; its effect was fully mediated by self-regulation, teaching presence, and cognitive presence",
+"description":"In a cross-sectional survey analysed with SEM, self-efficacy's direct path to learning engagement was non-significant, and its association with engagement ran indirectly through self-regulation, teaching presence and cognitive presence (statistical mediation, which cannot show cause)",
 "evidence_strength":"moderate",
 "id":"self-efficacy-engagement-fully-mediated",
 "newest_evidence":"2023",
 "path":"claims/self-efficacy-engagement-fully-mediated.md",
+"source_checked":"2026-10-28",
 "status":"review",
-"title":"Self-efficacy had no direct relationship with learning engagement; its effect was fully mediated by self-regulation, teaching presence, and cognitive presence",
+"title":"In a cross-sectional survey analysed with SEM, self-efficacy's direct path to learning engagement was non-significant, and its association with engagement ran indirectly through self-regulation, teaching presence and cognitive presence (statistical mediation, which cannot show cause)",
 "type":"claim"
 },
 {
@@ -294728,6 +294740,7 @@
 "id":"sus-usability-excellent-experimental-good-control",
 "newest_evidence":"2024",
 "path":"claims/sus-usability-excellent-experimental-good-control.md",
+"source_checked":"2026-10-28",
 "status":"review",
 "title":"The experimental group rated AVDS usability as excellent while the control group rated it as good",
 "type":"claim"
@@ -319971,6 +319984,7 @@
 "id":"user-experience-challenges-srl-recommenders",
 "newest_evidence":"2026",
 "path":"claims/user-experience-challenges-srl-recommenders.md",
+"source_checked":"2026-10-28",
 "status":"review",
 "title":"User experience challenges include poor matching, inadequate scaffolding, and suboptimal interface design",
 "type":"claim"
@@ -323622,6 +323636,7 @@
 "id":"visual-joint-displays-reduce-cognitive-burden",
 "newest_evidence":"2024",
 "path":"claims/visual-joint-displays-reduce-cognitive-burden.md",
+"source_checked":"2026-10-28",
 "status":"review",
 "title":"Visual joint displays can reduce the cognitive burden of integration analysis and reporting compared to tabular joint displays",
 "type":"claim"

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: weak
 newest_evidence: 2021
+source_checked: 2026-10-28
 sources:
   - id: hale-ilgaz-2021
     resource: "https://doi.org/10.1007/s11423-021-09945-y"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2021 · checked against its sources 2026-10-28 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Compared to other devices, mobile devices were accessible by the vast majority of both learners and teachers and were used as the primary tool during pandemic emergent remote teaching. [→ Hale Ilgaz 2021](#hale-ilgaz-2021)

@@ -248,7 +248,7 @@ Whether a learner can plan, monitor and adjust without the structure being suppl
 - [Executive function partially mediates the link between family SES and middle-school academic achievement](../claims/ef-mediation-ses-achievement.md) [+M] — learners who differ on it differ in outcomes
 - [The school environment can serve as a source of chronic stress: bullying at school is linked to higher hair cortisol and poorer executive function](../claims/school-environment-chronic-stress-hair-cortisol.md) [+M] — instruction changes it
 - [Cognitive presence was positively related to learning engagement and mediated relationships of teaching presence (full) and self-regulation (partial) with engagement](../claims/cognitive-presence-direct-and-mediation-engagement.md) [~M] — learners who differ on it differ in outcomes
-- [Self-efficacy had no direct relationship with learning engagement; its effect was fully mediated by self-regulation, teaching presence, and cognitive presence](../claims/self-efficacy-engagement-fully-mediated.md) [+M] — learners who differ on it differ in outcomes
+- [In a cross-sectional survey analysed with SEM, self-efficacy's direct path to learning engagement was non-significant, and its association with engagement ran indirectly through self-regulation, teaching presence and cognitive presence (statistical mediation, which cannot show cause)](../claims/self-efficacy-engagement-fully-mediated.md) [+M] — learners who differ on it differ in outcomes
 - [Self-regulation was positively related to both cognitive presence and learning engagement](../claims/self-regulation-positive-cognitive-presence-engagement.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question

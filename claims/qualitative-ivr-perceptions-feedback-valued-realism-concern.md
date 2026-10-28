@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-10-28
 sources:
   - id: trinidad-fernández-2026
     resource: "https://doi.org/10.1007/s11423-026-10620-3"
@@ -40,7 +41,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · causal `r1` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-10-28 (automated, 3 of 3 entries) · not reviewed by a person
 > **Design limits** · Trinidad-Fernández 2026 (2): no comparison group (read from the study by two models, 2026-10-28)
 
 ## Subclaims

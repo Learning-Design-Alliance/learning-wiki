@@ -40,7 +40,7 @@ A strategy refined through the DBR iterations: after students found early indust
 
 ## Claims
 
-- [Industry feedback on student conduct and digital innovation usefulness improved in iteration 3 after partnering with entrepreneurs](../claims/industry-feedback-improved-iteration3.md) [+W]
+- [In iteration 3, when student teams partnered with start-up entrepreneurs, industry partners rated student conduct highest of the three iterations on 7 of 10 items, but innovation usefulness highest on only 3 of 10](../claims/industry-feedback-improved-iteration3.md) [+W]
 - [Students reported insufficient engagement with industry partners and projects not real enough in iteration 2](../claims/students-insufficient-industry-engagement-iteration2.md) [+W]
 - [Community projects need conceptual framing to avoid narrowing the learning object](../claims/community-projects-need-conceptual-framing-to-avoid-narrowing-the-learning-object.md) [+W]
 

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: moderate
 newest_evidence: 2025
+source_checked: 2026-10-28
 sources:
   - id: delcker-2025
     resource: "https://doi.org/10.1007/s11423-024-10418-1"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-10-28 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A six-factor CFA of 45 items shows the items can partially be grouped into the six theoretical dimensions, with fit improving after removing eight poorly worded items. [→ Delcker 2025](#delcker-2025)

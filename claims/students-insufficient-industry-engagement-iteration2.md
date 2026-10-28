@@ -45,5 +45,5 @@ Qualitative analysis of student blogs and open-ended survey responses in iterati
 
 
 ## Related Claims
-- [Industry feedback on student conduct and digital innovation usefulness improved in iteration 3 after partnering with entrepreneurs](industry-feedback-improved-iteration3.md) — related
+- [In iteration 3, when student teams partnered with start-up entrepreneurs, industry partners rated student conduct highest of the three iterations on 7 of 10 items, but innovation usefulness highest on only 3 of 10](industry-feedback-improved-iteration3.md) — related
 - [Students responded most positively to projects that felt authentic and were organized in a clear sequence with manageable milestones](student-engagement-authenticity-clear-sequence.md) — related

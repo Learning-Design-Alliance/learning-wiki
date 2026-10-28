@@ -49,6 +49,6 @@ SEM results from 1435 undergraduates supported H9 with "β = 0.592, t = 12.705, 
 
 ## Related Claims
 - [Teaching presence was positively related to cognitive presence but had no direct relationship with learning engagement; cognitive presence fully mediated the teaching presence–engagement relationship](teaching-presence-cognitive-mediation-engagement.md) — a narrower finding that bears on this claim
-- [Self-efficacy had no direct relationship with learning engagement; its effect was fully mediated by self-regulation, teaching presence, and cognitive presence](self-efficacy-engagement-fully-mediated.md) — related
+- [In a cross-sectional survey analysed with SEM, self-efficacy's direct path to learning engagement was non-significant, and its association with engagement ran indirectly through self-regulation, teaching presence and cognitive presence (statistical mediation, which cannot show cause)](self-efficacy-engagement-fully-mediated.md) — related
 - [Self-efficacy for learning was positively related to teaching presence, self-regulation, and cognitive presence among Korean undergraduates during COVID-19](self-efficacy-positive-relationships-presences-self-regulation-covid.md) — related
 - [Self-regulation was positively related to both cognitive presence and learning engagement](self-regulation-positive-cognitive-presence-engagement.md) — related

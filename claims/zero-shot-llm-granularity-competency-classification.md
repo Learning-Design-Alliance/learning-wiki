@@ -76,5 +76,5 @@ Same zero-shot benchmark at binary granularity: the article prints accuracies of
 - [Reviewed studies reported good algorithm accuracy and efficiency for AI in STEM, with performance varying by algorithm and granularity](ai-stem-technological-effects-algorithm-accuracy.md)
 - [Prior difficulty collections mostly lack fine-grained classification of student difficulties](prior-difficulty-collections-lack-fine-grained-classification.md) — related
 - [Zero-shot GPT-4o difficulty ratings, rescaled and entered in grade-specific regressions, beat a grade-level dummy regressor and correlate strongly with true Rasch difficulties overall, for K-5 math and reading items](direct-llm-estimation-beats-dummy-regressor-k5-items.md) — related
-- [Chain-of-thought prompting outperforms Self-Ask under zero-shot conditions](cot-outperforms-self-ask-zero-shot.md) — related
+- [In detecting teacher questions with zero-shot GPT-3.5-turbo, chain-of-thought prompting had slightly higher F1 and precision than Self-Ask but slightly lower recall and balanced accuracy](cot-outperforms-self-ask-zero-shot.md) — related
 - [Few-shot LLM approaches outperform standalone supervised ML approaches, yet hand-crafted rules remain relevant](few-shot-llm-outperforms-ml-hcr-relevant.md) — related

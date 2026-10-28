@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Chain-of-thought prompting outperforms Self-Ask under zero-shot conditions
-description: Chain-of-thought prompting outperforms Self-Ask under zero-shot conditions
+title: In detecting teacher questions with zero-shot GPT-3.5-turbo, chain-of-thought prompting had slightly higher F1 and precision than Self-Ask but slightly lower recall and balanced accuracy
+description: In detecting teacher questions with zero-shot GPT-3.5-turbo, chain-of-thought prompting had slightly higher F1 and precision than Self-Ask but slightly lower recall and balanced accuracy
 id: cot-outperforms-self-ask-zero-shot
 status: review
 generated:
@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: weak
 newest_evidence: 2026
+source_checked: 2026-10-28
 sources:
   - id: lehesvuori-2026
     resource: "https://doi.org/10.1007/s11423-025-10545-3"
@@ -20,14 +21,14 @@ sources:
     rigour: 2
 ---
 
-# Chain-of-thought prompting outperforms Self-Ask under zero-shot conditions
+# In detecting teacher questions with zero-shot GPT-3.5-turbo, chain-of-thought prompting had slightly higher F1 and precision than Self-Ask but slightly lower recall and balanced accuracy
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-10-28 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
-`q2 i?` With GPT-3.5-turbo zero-shot on seven lessons, CoT prompting achieved higher balanced accuracy and F1 than Self-Ask prompting. [→ Lehesvuori 2026](#lehesvuori-2026)
+`q2 i?` With GPT-3.5-turbo zero-shot on seven lessons, CoT prompting had a higher F1 (0.2931 vs 0.2789) and precision (0.2818 vs 0.2387) than Self-Ask prompting, but lower recall (0.3054 vs 0.3352) and balanced accuracy (0.6245 vs 0.6289); the authors summarise this as CoT performing better and kept CoT for later experiments. [→ Lehesvuori 2026](#lehesvuori-2026)
 
 ## Evidence
 
@@ -37,7 +38,7 @@ Lehesvuori, S., Urrutia, F., Heilala, V., Araya, R., & Hämäläinen, R. (2026).
 
 `q2 · i?` · `design · r2`
 
-Seven-lesson prompt comparison (Table 2): zero-shot CoT reached F1 0.2931 and BA 0.6245 versus F1 0.2789 and BA 0.6289 for Self-Ask; the article reports "CoT performed bet- ter than SA."
+Seven-lesson prompt comparison (Table 2): zero-shot CoT reached precision 0.2818, recall 0.3054, BA 0.6245 and F1 0.2931, versus precision 0.2387, recall 0.3352, BA 0.6289 and F1 0.2789 for Self-Ask. CoT is ahead on F1 and precision and slightly behind on recall and balanced accuracy, with no test of the differences; the article nonetheless reports "CoT performed bet- ter than SA."
 
 > "The seven lesson test results show that with GPT-3.5-turbo zero-shots CoT performed bet- ter than SA."
 

@@ -44,7 +44,7 @@ A pattern for designing learning environments that develop digital business inno
 
 ### Claims
 - [Anova Iteration1 Significant Skill Gains Except Cultural](../claims/anova-iteration1-significant-skill-gains-except-cultural.md) [+M]
-- [Industry Feedback Improved Iteration3](../claims/industry-feedback-improved-iteration3.md) [+M]
+- [In iteration 3, when student teams partnered with start-up entrepreneurs, industry partners rated student conduct highest of the three iterations on 7 of 10 items, but innovation usefulness highest on only 3 of 10](../claims/industry-feedback-improved-iteration3.md) [+M]
 
 ## Related Designs
 

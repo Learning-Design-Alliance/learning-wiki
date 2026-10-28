@@ -194,7 +194,7 @@ Self-efficacy is Bandura's term for task-specific confidence: how sure a learner
 - [Low self-efficacy students significantly increased their self-efficacy when matched with a low self-efficacy tutee, but mismatched students did not](../claims/se-match-increases-low-se-students.md) [+M] — instruction changes it
 - [Low self-efficacy students teaching a low self-efficacy tutee performed on par with high self-efficacy students](../claims/low-se-students-match-performance-par.md) [-M] — learners who differ on it differ in outcomes
 - [Students teaching a digital tutee with low self-efficacy show better in-game math performance than students teaching a high self-efficacy tutee](../claims/low-se-tutee-better-in-game-performance.md) [+M] — an instructional effect differs with it
-- [Self-efficacy had no direct relationship with learning engagement; its effect was fully mediated by self-regulation, teaching presence, and cognitive presence](../claims/self-efficacy-engagement-fully-mediated.md) [-M] — learners who differ on it differ in outcomes
+- [In a cross-sectional survey analysed with SEM, self-efficacy's direct path to learning engagement was non-significant, and its association with engagement ran indirectly through self-regulation, teaching presence and cognitive presence (statistical mediation, which cannot show cause)](../claims/self-efficacy-engagement-fully-mediated.md) [-M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 

@@ -41,7 +41,7 @@ Based on findings that self-regulation is required to benefit from learner auton
 ## Claims
 
 - [Self-regulation was positively related to both cognitive presence and learning engagement](../claims/self-regulation-positive-cognitive-presence-engagement.md) [+W]
-- [Self-efficacy had no direct relationship with learning engagement; its effect was fully mediated by self-regulation, teaching presence, and cognitive presence](../claims/self-efficacy-engagement-fully-mediated.md) [+W]
+- [In a cross-sectional survey analysed with SEM, self-efficacy's direct path to learning engagement was non-significant, and its association with engagement ran indirectly through self-regulation, teaching presence and cognitive presence (statistical mediation, which cannot show cause)](../claims/self-efficacy-engagement-fully-mediated.md) [+W]
 - [Cognitive presence was positively related to learning engagement and mediated relationships of teaching presence (full) and self-regulation (partial) with engagement](../claims/cognitive-presence-direct-and-mediation-engagement.md) [+W]
 - [Self-efficacy for learning was positively related to teaching presence, self-regulation, and cognitive presence among Korean undergraduates during COVID-19](../claims/self-efficacy-positive-relationships-presences-self-regulation-covid.md) [+W]
 

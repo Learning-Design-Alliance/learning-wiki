@@ -45,7 +45,7 @@ SEM analysis of survey data from 1435 Korean undergraduates supported H1, H2, an
 
 
 ## Related Claims
-- [Self-efficacy had no direct relationship with learning engagement; its effect was fully mediated by self-regulation, teaching presence, and cognitive presence](self-efficacy-engagement-fully-mediated.md) — related
+- [In a cross-sectional survey analysed with SEM, self-efficacy's direct path to learning engagement was non-significant, and its association with engagement ran indirectly through self-regulation, teaching presence and cognitive presence (statistical mediation, which cannot show cause)](self-efficacy-engagement-fully-mediated.md) — related
 - [Cognitive presence was positively related to learning engagement and mediated relationships of teaching presence (full) and self-regulation (partial) with engagement](cognitive-presence-direct-and-mediation-engagement.md) — related
 - [Teaching presence was positively related to cognitive presence but had no direct relationship with learning engagement; cognitive presence fully mediated the teaching presence–engagement relationship](teaching-presence-cognitive-mediation-engagement.md) — related
 - [Self-regulation was positively related to both cognitive presence and learning engagement](self-regulation-positive-cognitive-presence-engagement.md) — related
