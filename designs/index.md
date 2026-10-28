@@ -2,7 +2,7 @@
 
 Designs for a particular setting, course, population or product: what a design uses the general patterns for. A pattern is general across contexts; a design is not.
 
-**1174 entries** · 0 stable · 1174 in review · 0 drafts
+**1175 entries** · 0 stable · 1175 in review · 0 drafts
 
 ---
 
@@ -1027,6 +1027,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Tabletop environments as focal multimedia settings for small-group collaborative knowledge building](tabletop-multimedia-tribal-fire-small-group-knowledge-building.md) - Stahl proposes tabletop educational environments as a hybrid of oral, literate, and digital interaction, analogizing them to conversation around a tribal fire.
 * [Tailored small-group mathematics intervention with screening, dialog-based teaching and an adaptive learning path](tailored-math-small-group-intervention-element.md) - A 12-week small-group mathematics instruction intervention for the 20% lowest achievers, inspired by Math Recovery but with an adaptive learning path and assessment by the intervention teachers themselves.
 * [TANDEM radar-tracking simulation training task with 2x2x2 fully crossed experimental design (N = 350)](tandem-radar-simulation-2x2x2-active-learning-experiment.md) - The study's training task is TANDEM, a PC-based radar-tracking simulation requiring basic skills (hooking contacts, collecting information, classification subdecisions) and strategic skills (monitoring and prioritizin...
+* [Targeted soft skill profile per specialisation represented as kiviat-style thresholds](targeted-soft-skill-profile-per-specialisation.md) - A targeted soft skill profile is the ensemble of minimum expected proficiency targets for each soft skill, defined per program specialisation and represented as polygons of 10 sides (kiviat diagrams) showing the targe...
 * [TASD: teacher-authored prompt layers as orchestration levers for configuring student-AI dialogue](tasd-teacher-authored-prompt-orchestration.md) - TASD (Colleague AI Classroom Teaching Aide) frames student-AI interaction as a configurable classroom routine rather than an autonomous tutor.
 * [Task database with 75 biology problems organized by five complexity levels and three support levels](srl-task-database-complexity-support-levels.md) - The learning environment contained a task database of monohybrid cross problems in biology: \"The task database (cf.
 * [Task Trees: hierarchical knowledge representation for task recognition and event selection](task-trees-knowledge-representation.md) - Task Trees are the knowledge structure used by both the Task Model Reasoner and the Narrative Manager in the Bio-safety Lab.
