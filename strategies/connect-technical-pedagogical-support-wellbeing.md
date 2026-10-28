@@ -49,6 +49,7 @@ The preface reports that institutions can support teachers' digital competence d
 - [Design AI-related teacher professional development as practice-oriented, case-based and connected to teachers' real pedagogical decisions](practice-oriented-case-based-ai-professional-development.md)
 - [Integrate structured opportunities for critical engagement with AI into teacher education programs](structured-critical-ai-engagement-teacher-education.md)
 - [Faculty professional development treating AI literacy as core professionalism with critical, ethical, and pedagogical emphasis](ai-literacy-pd-critical-ethical-pedagogical.md)
+- [Revise university digital competence operationalisations to connect technical and pedagogical knowledge, make digital possibilities explicit, and protect educator wellbeing](ert-framework-revision-strategy.md)
 
 ## Examples
 -

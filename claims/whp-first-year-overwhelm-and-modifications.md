@@ -53,3 +53,4 @@ Teacher interviews (25 in total, including 6 usability interviews and 2 exit int
 - [Low-fidelity prototype evaluation found initial UI options overwhelming and checkbox selections unintuitive](paper-prototype-overwhelming-options-feedback.md) — a broader claim this one bears on
 - [Rubric scoring supports answering diagnostic questions about opportunities for and evidence of historical thinking](rubric-scoring-diagnostic-questions.md) — related
 - [Trained scorers applied the historical thinking skills rubrics with good overall inter-rater consistency](hts-rubrics-good-inter-rater-consistency.md) — related
+- [Making open data usable for learning requires substantial educator work: finding suitable data, refining and curating sources, and coping with poor formats and documentation](open-data-making-data-usable-challenges.md) — related

@@ -48,3 +48,4 @@ The publication's own abstract description of the study: it examines an urban di
 ## Related Claims
 - [COVID-19 school closures in Pennsylvania are likely to have caused substantial learning losses, with harms concentrated in populations also disproportionately harmed by the disease](covid-closures-pennsylvania-learning-loss-equity.md) — related
 - [Academic impacts of closures hinge on the quality of receiving schools, and fewer than half of displaced students transfer to higher-performing schools](receiving-school-quality-moderates-closure-impacts.md) — related
+- [K-12 students are at risk of harm when local education agencies use digital learning analytics without carefully reflecting on the risks of resulting decisions](k12-students-risk-harm-digital-learning-analytics-decisions.md) — related

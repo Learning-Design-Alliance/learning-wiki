@@ -50,3 +50,4 @@ Interview sessions with five university participants (two master's students, two
 - [AI tools compress idea-to-prototype time, freeing UX teams for human-led connection and alignment](ai-compression-frees-human-led-alignment.md) — related
 - [Teachers find World History Project overwhelming in their initial adoption year and make substantial modifications across three main categories](whp-first-year-overwhelm-and-modifications.md) — a narrower finding that bears on this claim
 - [The authors report five twenty-minute screenshare sessions can surface more actionable design insights than a 100-person survey](five-screenshare-sessions-beat-large-survey.md) — related
+- [Teachers rated the TARGET-tool's core features as easy to learn and efficient, but found scheduling student scans complex and the abundance of motivating strategies overwhelming](target-tool-usability-strengths-and-frictions.md) — related

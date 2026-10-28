@@ -48,3 +48,4 @@ The article reports program statistics for the course-in-a-box initiative, an on
 ## Related Claims
 - [Short online pedagogy courses shifted university teachers’ interpretations of a learning-focused teaching video from knowledge transmission toward learning facilitation](short-online-training-shifts-interpretations-learning-focused-video.md) — related
 - [ePortfolio produced more powerful outcomes when faculty and staff received extended intensive professional development than brief training or none](intensive-professional-development-stronger-epportfolio-outcomes.md) — related
+- [The Philipsen et al. framework of TPD components for online and blended learning is biased toward higher education settings](philipsen-framework-higher-education-bias.md) — related

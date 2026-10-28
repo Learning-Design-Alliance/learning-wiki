@@ -70,3 +70,4 @@ The same accuracy ANOVA in adult readers found "The effect of Group and the thre
 - [Phonologically similar pairs are learned with lower accuracy and slower reaction-time learning than dissimilar pairs, in both groups](phonological-similarity-slows-s-ss-learning.md) — related
 - [Consonant-confusion error patterns in artificial script reading differ between dyslexic and typical readers](consonant-confusion-error-patterns-differ-groups.md) — related
 - [In Block 4, matching vs non-matching pairs differ only in the temporoparietal cluster in S3, with no group differences](temporoparietal-matching-effect-learning-outcome.md) — related
+- [HPL students learned as much as Scratch students, with equivalent improvement in both conditions](hpl-equivalent-learning-outcomes-scratch.md) — related

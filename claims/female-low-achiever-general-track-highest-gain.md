@@ -51,3 +51,4 @@ Multilevel Model 1 interaction effect from the quasi-experimental study. The Gir
 - [No significant gender differences in knowledge pretest scores or learning gains after Web-based collaborative inquiry](no-gender-difference-knowledge-web-inquiry.md) — reports the opposite
 - [General-track students reported significantly lower initial interest in science than science-track students, with no difference in interest gain](general-track-lower-initial-interest.md) — related
 - [A Web-based collaborative inquiry project produces significant overall learning gains in science knowledge in secondary classrooms](web-based-collaborative-inquiry-significant-knowledge-gains.md) — related
+- [Girls produced 34 comprehensive PSAs and dozens of mini-Scratch projects, providing project-based evidence of computing knowledge gain](e5c-scratch-project-artifacts.md) — related

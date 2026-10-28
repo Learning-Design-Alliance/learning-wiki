@@ -60,10 +60,12 @@ JIT delivery exploits the fact that information encountered at the moment of app
 7. Schedule spaced follow-up so just-learned content is revisited and retained [Spaced practice improves retention.](../claims/spaced-practice-improves-retention.md) [+S]
 
 ## Related Strategies
+
 - [Scaffolding](../elements/scaffolding.md) — JIT support is scaffolding delivered at need points; both require fading as competence grows
 - [Adaptive Learning](../principles/adaptive-learning.md) — automates the diagnosis-and-deliver loop at scale
 - [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md) — expert hints and coaching during task performance are a JIT mechanism
 - [Blended Learning](../patterns/blended-learning.md) — JiTT is a common blended design, with online warm-ups driving face-to-face instruction
+- [Provide need-based, just-in-time support and resources for faculty design work](need-based-just-in-time-faculty-design-support.md)
 
 ## Examples
 - **Just-in-Time Teaching (JiTT)** ([https://www.jitt.org](http://www.jitt.org)) — web-based pre-class questions on physics or biology; instructors adjust lecture content to the misconceptions students reveal hours before class [Novak et al., 1999]

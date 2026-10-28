@@ -48,3 +48,4 @@ Mapping question analysis of publication counts across the 2011–2022 review pe
 - [AI ethics research shows a pronounced acceleration in publications after 2021, with nonlinear accelerating growth rather than linear development](ai-ethics-publications-accelerate-after-2021.md) — related
 - [Research on GenAI in programming education increased markedly from 2019 onward](genai-programming-education-publications-increase-2019.md) — related
 - [Systematic reviews of AIED were absent from 2015 to 2018 in this corpus and increased steadily from 2019 onward](aied-review-publication-trend-2019-increase.md) — related
+- [Annual metacognition publications rose through the period, peaking at over 250 in 2022 before dropping to 125 in 2023](metacognition-publication-growth-peak-2022.md) — related

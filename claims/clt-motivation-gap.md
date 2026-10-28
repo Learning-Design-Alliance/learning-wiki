@@ -62,3 +62,5 @@ Document analysis within the review: the authors note the 1998 CLT theory articl
 - [Stimming and fidgeting increase under high cognitive load and sustained task effort, rather than appearing only during low engagement](stimming-increases-under-high-cognitive-load.md) — related
 - [Low environment-change beliefs lead students to allocate cognitive resources to monitoring for breakdowns, creating extraneous load](low-environment-change-beliefs-extraneous-load.md) — related
 - [Instruction based on cognitive load theory can compensate for age-related cognitive declines](clt-instruction-compensates-age-related-declines.md) — related
+- [Design guidelines from motivational and complex-skill theories (4C/ID, ARCS, CLT) contradict multimedia learning guidelines (CTML), producing seven specific design dilemmas](seven-design-dilemmas-multimedia-vs-complex-skill-guidelines.md) — related
+- [Special-issue papers present theoretical frameworks for guiding online teaching practices, including framing of instruction, cognitive load in CSCL, and engagement](special-issue-frameworks-online-teaching.md) — a broader claim this one bears on

@@ -56,3 +56,4 @@ Subgroup meta-analyses of short-run effects by content domain. The review report
 - [Extensive reading shows small-to-medium significant positive effects on every measured language domain, including vocabulary, reading comprehension, and general proficiency](er-effects-across-language-domains.md) — a narrower finding that bears on this claim
 - [Reading interventions significantly improve literacy skills of Chinese children overall (g = 0.68)](reading-interventions-overall-effect-chinese-children.md) — related
 - [SRL strategy interventions improve academic achievement, with meta-analytic effects that vary by domain](srl-interventions-improve-achievement-domain-effects.md) — related
+- [Effects of technology-delivered literacy instruction did not significantly differ by outcome domain, though comprehension effects appeared particularly small (g = 0.12)](outcome-domain-effects-descriptive.md) — related

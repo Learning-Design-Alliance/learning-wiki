@@ -78,3 +78,4 @@ Narrative summary of the Luo et al. meta-analysis of 33 preschool studies (ages 
 - [No coded study characteristics moderated the emotion–political learning associations in Bayesian regularized meta-analysis](no-moderators-emotion-political-learning.md) — related
 - [Descriptively, larger effects were associated with control groups, secondary-level teachers, indicated samples, cognitive-behavioural content, teacher-specific adaptation, group format, school delivery, and programs over one week](teacher-program-characteristics-descriptive-effects.md) — related
 - [SEL programs implemented well show positive impacts on targeted skills and academic outcomes, including meta-analytic support](sel-programs-academic-outcomes.md) — related
+- [Longer total intervention time is associated with greater learning gains, especially for low achievers](longer-time-on-task-greater-gains.md) — related

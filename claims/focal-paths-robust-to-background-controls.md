@@ -73,3 +73,4 @@ Secondary control-model analysis of the same 548-teacher sample; the quote repor
 - [Structural paths are stable when continued-use intention and current use are modeled as separate outcomes, and AI anxiety is not directly related to continued use](outcome-robustness-anxiety-null-direct.md) — related
 - [Gender and migration background have only very small impacts on the strength of single comparison effects](ipd-meta-gender-migration-negligible-moderation.md) — related
 - [Higher AI agency is associated with lower intention to use AI in education, while transparency, explainability, and privacy do not directly predict intention to use](ai-agency-negative-direct-predictor-itu.md) — related
+- [Outcome expectations have a stronger direct influence on technology integration intentions than self-efficacy, and interests contribute directly](outcome-expectations-stronger-than-self-efficacy-on-intentions.md) — a narrower finding that bears on this claim

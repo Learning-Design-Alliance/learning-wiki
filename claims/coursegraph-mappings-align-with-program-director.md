@@ -70,3 +70,4 @@ In the same worked example (test student 1, TU Delft), the authors give one inst
 ## Related Claims
 - [Component-level embeddings make CourseGraph interpretable: learning outcomes contributed most to an example overlap decision](coursegraph-component-level-interpretability.md) — related
 - [On the TU/e CS overlap dataset, supervised NLP classifiers (Random Forest, XGBoost) outperform thresholding and zero-shot LLM baselines at detecting course overlap](rf-xgboost-beat-thresholds-and-llms-on-course-overlap.md) — related
+- [Teachers primarily used OUA's colour-coded risk flags and VLE activity indicators, ignoring other features](selective-use-of-oua-features.md) — related

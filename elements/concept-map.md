@@ -19,7 +19,7 @@ sources:
 # Concept Map
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 17 claims (6 for, 10 mixed, 1 against) · 18 studies (7 causal, 4 review, 3 quant-synthesis, 2 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 7 of 18 report an effect size · 13 claims rest on one study
+> **Evidence** · 18 claims (6 for, 10 mixed, 2 against) · 19 studies (8 causal, 4 review, 3 quant-synthesis, 2 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 8 of 19 report an effect size · 14 claims rest on one study
 
 ## Description
 A concept map is a diagram in which concepts appear as nodes and labeled links express the relationships between them, forming a propositional structure ("concept — linking word — concept"). It functions both as a learning activity (learners construct maps) and as an assessment or advance organizer (instructors provide or score maps). Concept maps make knowledge structure — not just knowledge items — visible and revisable.
@@ -77,6 +77,7 @@ Concept mapping supports meaningful learning by forcing learners to identify rel
 - [Concept mapping shows a large effect for low-achieving students (g = 2.019) and moderate effect for high-achieving students (g = 0.610), not significantly different](../claims/concept-maps-large-effect-low-achieving-students.md) [~W]
 - [Self-generated concept mapping benefits learning from grade 4 onwards with similar effect sizes across grades 4–8, 9–12, and college](../claims/concept-mapping-effective-grade-4-onwards.md) [+W]
 - [Concept-map and causal-chain scoring of text-based science explanations show high interrater reliability and predict comprehension test performance](../claims/concept-map-causal-chain-scoring-explanations.md) [+W]
+- [Use of yellow quotation nodes (marking logical inconsistencies) correlated negatively with essay logical coherence in the knowledge-mapping class](../claims/yellow-quotation-nodes-negative-coherence-correlation.md) [-W]
 
 ## The evidence by question
 - *Does having learners build an organization of the content as a concept map help, and against what comparison?* [Concept mapping improves learning over most comparison conditions by a moderate average amount, but not over time-matched retrieval practice](../claims/concept-mapping-improves-learning.md) [+S]

@@ -69,3 +69,5 @@ Barrier subtheme from manager and trainee interviews; participants also cited eq
 - [Lack of time and heavy workload are organizational barriers to team-based professional development in higher education](time-workload-barriers-team-pd.md) — related
 - [A dynamic adaptive reward mechanism in Comtella regulated online community contributions sustainably at an instructor-predefined level](comtella-adaptive-incentive-regulation.md) — related
 - [Teachers Feel Confident to Teach AI but Many Not in the Short-Term Without Specific Training](teachers-confident-but-need-training.md) — related
+- [Teacher training need and access difficulties are the main reported barriers to using assistive technology with students with disabilities](at-barriers-teacher-training-access.md) — related
+- [Three barriers impede replication, meta-analysis, and large-scale impact research: funding, researcher incentives, and instrument sharing](three-barriers-replication-impact-research.md) — related

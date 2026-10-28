@@ -49,3 +49,4 @@ Experiment 1 randomly assigned 200 undergraduates to listen to two Science Podca
 - [Interest and familiarity positively predict comprehension of speeded audio clips, but the benefit of familiarity decreases as playback speed increases](interest-familiarity-predict-speeded-comprehension.md) — related
 - [Textual slide content yields a small comprehension advantage over pictorial slide content in speeded audio-visual lectures, with no effect of speed](textual-beats-pictorial-slides-speeded-lectures.md) — related
 - [Computer-based distractions (phone calls, texts, emails, notifications) do not significantly impair comprehension of lecture videos at 1x or 2x speed](on-screen-distractions-no-comprehension-cost.md) — related
+- [Listening to podcasts improved EFL students' self-regulation more than listening to radio programs](podcasts-improved-efl-self-regulation.md) — related

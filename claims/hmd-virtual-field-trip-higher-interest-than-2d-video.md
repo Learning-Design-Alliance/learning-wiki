@@ -50,3 +50,4 @@ Independent-samples t-test (Hypothesis 3) on the interest scale; the article's s
 - [Middle-school students taking a virtual field trip via a 3D HMD report higher presence than students taking the same trip as a 2D video](hmd-virtual-field-trip-higher-presence-than-2d-video.md) — related
 - [Enjoyment mediates the pathway from immersive media to immediate posttest score while interest mediates the pathway to delayed posttest score](camil-enjoyment-immediate-interest-delayed-pathways.md) — related
 - [Immersion principle: people do not necessarily learn better in 3D immersive virtual reality than with a corresponding 2D desktop presentation (d = -0.10 across 9 tests)](immersion-principle-no-vr-benefit.md) — reports the opposite
+- [High-immersion VR produced significantly higher enjoyment than video instruction, with a medium effect size](vr-higher-enjoyment-than-video.md) — related

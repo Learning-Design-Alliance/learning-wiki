@@ -13,7 +13,7 @@ generated:
 # Technology Integration
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 110 claims (53 for, 49 mixed, 8 against) · 98 studies (20 associational, 19 qualitative, 18 review, 16 causal, 10 quant-synthesis, 10 design, 5 theoretical), `q1`–`q4` · 17 of 98 report an effect size · 107 claims rest on one study
+> **Evidence** · 115 claims (54 for, 53 mixed, 8 against) · 102 studies (21 associational, 20 qualitative, 18 review, 17 causal, 11 quant-synthesis, 10 design, 5 theoretical), `q1`–`q4` · 17 of 102 report an effect size · 112 claims rest on one study
 
 ## Description
 Technology integration is the element in which digital tools are used in direct service of learning goals, feedback, access, or collaboration.
@@ -135,6 +135,11 @@ Technology integration is the element in which digital tools are used in direct 
 - [AWE shows moderate positive effects on overall writing performance, with effect sizes ranging from g = 0.39 to g = 0.67 across meta-analyses](../claims/awe-moderate-positive-effects-writing-performance.md) [+W]
 - [No significant improvement in science test performance from the robotics and programming unit](../claims/mbot-no-science-improvement.md) [-W]
 - [Undergraduate physiotherapy students who used iVR alongside traditional teaching scored higher on overall manual therapy performance one week later](../claims/ivr-complement-improves-manual-therapy-performance-score.md) [+W]
+- [Irûmi increased teachers' probability of using robots in class by 82 percentage points and notebooks by 18 percentage points](../claims/irumi-teacher-technology-use.md) [+W]
+- [Effects of technology-delivered literacy instruction did not significantly differ by outcome domain, though comprehension effects appeared particularly small (g = 0.12)](../claims/outcome-domain-effects-descriptive.md) [~W]
+- [Teacher interviews identified perceived risks of gamified EFL tools: lack of support from principals, parents or students, side effects, and loss of teacher control](../claims/teacher-perceived-risks-gamified-efl.md) [~W]
+- [Teachers identified cost, bulky headsets, Wi-Fi connectivity, and technical issues as key challenges to integrating VR into ML2 teaching](../claims/vr-challenges-cost-headsets-wifi.md) [~W]
+- [No study or participant characteristic (publication type, research design, sample size, grade level, reading difficulties) significantly moderated effects of technology-delivered literacy instruction](../claims/no-study-participant-moderators.md) [~W]
 
 ## The evidence by question
 - *Does building AI tools into instruction raise achievement over teaching the same content without them, and in which settings?* [AI-supported instruction has a moderate positive effect on student achievement in STEM education (g = 0.670 under a random effects model)](../claims/ai-instruction-stem-moderate-positive-effect.md) [+M]

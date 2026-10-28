@@ -75,3 +75,4 @@ OLS regression comparing scaffolded novices to baseline LLM novices with a treat
 - [Without explicit guidance and scaffolding, unguided GenAI use may disproportionately benefit already advantaged students and widen performance gaps](unguided-genai-benefits-advantaged-students.md) — related
 - [Baseline capability moderates AI productivity benefits non-monotonically across AI's capability frontier](baseline-capability-nonmonotonic-ai-benefit.md) — related
 - [High teaching guidance in concept mapping yields larger effects than low guidance, though marginal after excluding influential studies](high-teaching-guidance-larger-concept-map-effects.md) — related
+- [Non-knowledge-mapping students reported concentrating more on identifying the author's argument during reading than knowledge-mapping students](non-mapping-students-concentrated-more-on-identification.md) — related

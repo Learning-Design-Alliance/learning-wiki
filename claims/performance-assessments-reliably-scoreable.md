@@ -67,3 +67,4 @@ This is the report's own summary assertion, supported by its description of scor
 - Reporting of reliability and validity evidence for quantitative motivation measures was incomplete in K‑5 writing‑motivation studies — related
 - [In one community-college lab class, six scorers rating six teams with an engineering rubric differed by a mean of 1.2 of 9 points, which the authors read as a sign the rubric may not be reliable](engineering-rubric-low-scoring-reliability.md) — related
 - [Making trustworthiness metrics and visualizations explicit increased inter-rater reliability among learning engineers evaluating LLM responses](trustworthiness-metrics-visualizations-increase-expert-agreement.md) — related
+- [Performance-based assessments score low on generalizability, reliability, and standardization, with rater effects influencing scores](pba-psychometric-weaknesses.md) — reports the opposite

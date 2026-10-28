@@ -47,3 +47,4 @@ The article reports, citing Hernández-de Menéndez et al. (2022), a survey of t
 ## Related Claims
 - [Early warning and proactive support agents are associated with reported retention and grade improvements in institutional deployments](early-warning-agents-retention-gains.md) — related
 - [AI-ALOE technology deployments were associated with improved adult learner outcomes, including higher course grades and retention for Jill Watson and higher-quality written work for SMART, though VERA outcomes varied by course structure](aialoe-deployments-improved-adult-learner-outcomes.md) — related
+- [Teaching staff trusted HEIs' competence to adopt LA based on existing e-learning infrastructure and data-analysis expertise](hei-competence-builds-la-trust.md) — a narrower finding that bears on this claim

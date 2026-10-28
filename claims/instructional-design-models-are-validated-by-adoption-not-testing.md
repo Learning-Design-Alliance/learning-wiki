@@ -78,3 +78,4 @@ A textbook chapter by a co-author of the *Survey of Instructional Design Models*
 - [The mid-winter Department of Superintendence meeting serves as a clearing-house between educational theorists and practical schoolmen, with discussions grounded in proved fact](indianapolis-meeting-clearinghouse-theory-practice.md) — related
 - [Two main sources of data exist for evaluating teaching methods: measurements of current practices and measurements of specifically controlled practices](two-sources-of-method-evaluation-data.md) — related
 - [No systematic evaluation exists of the ICAP hypothesis that engagement modes are ordered I > C > A > P in effectiveness](no-systematic-evaluation-icap-hierarchy.md) — a narrower finding that bears on this claim
+- [Standard empirical review criteria are not relevant to theoretical scholarship and may lead reviewers to reject it](empirical-review-criteria-misfit-theoretical-papers.md) — related

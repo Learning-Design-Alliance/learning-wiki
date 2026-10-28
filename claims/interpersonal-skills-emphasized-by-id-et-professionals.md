@@ -67,3 +67,4 @@ The comparison section reports that “many K12 ETs emphasized gaining buy-in an
 - [Competency emphases vary by role and context: IDs focus on ID models, curriculum design, and content creation, while ETs focus on technology evaluation, integration, and support](competency-emphasis-varies-by-role-and-context.md) — related
 - [ID/ET professionals report that cross-disciplinary skills and dispositions are crucial and under-emphasized in existing competency lists](cross-disciplinary-skills-dispositions-underemphasized.md) — related
 - [Balanced SEL frameworks cover intrapersonal, interpersonal, and cognitive competencies and mix skills, knowledge, and attitudes](balance-criterion-intrapersonal-interpersonal-cognitive-competencies.md) — related
+- [A scoping review found no existing teacher-education digital frameworks include more than passing mention of dispositions or safety/wellbeing considerations](existing-frameworks-omit-dispositions-safety.md) — related

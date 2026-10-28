@@ -48,3 +48,4 @@ The review's analysis of publication frequency found that "The years 2019, 2020,
 - [Publication of embodied learning in language education studies accelerated late in the 2010s, with 85% published 2015–2020 and 46% in 2019–2020](embodied-language-studies-85-percent-2015-2020.md) — related
 - [Systematic reviews of AIED were absent from 2015 to 2018 in this corpus and increased steadily from 2019 onward](aied-review-publication-trend-2019-increase.md) — related
 - [Use of mixed methods in educational psychology journals increased after the 2019 Contemporary Educational Psychology special issue, with 54.4% of the 2016–2022 mixed methods articles published in 2020–2022](mmr-use-increased-after-2019-special-issue.md) — related
+- [Research on assistive technology in education shows an increasing publication trend from 2017 onwards but low citation impact](at-research-trend-increase-2017.md) — related

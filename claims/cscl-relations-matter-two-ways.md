@@ -55,3 +55,4 @@ Theoretical argument of the special-issue editors framing the edition's four pap
 - Wise and Schwarz's eight provocations, per Rummel, emphasize important CSCL dimensions but do not develop a common position, prompting a proposed taxonomy for a shared field agenda. — related
 - [Timing of support poses the assistance dilemma, and no empirically validated principles yet exist for when and how much support to give collaborating students](assistance-dilemma-timing-no-validated-principles.md) — related
 - [An empirical qualitative study of paired distance collaboration informed the design of LeCS](empirical-qualitative-study-informed-lecs-design.md) — a narrower finding that bears on this claim
+- [Special-issue papers present theoretical frameworks for guiding online teaching practices, including framing of instruction, cognitive load in CSCL, and engagement](special-issue-frameworks-online-teaching.md) — a broader claim this one bears on

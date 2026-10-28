@@ -48,3 +48,4 @@ Exploratory landscape scan of 21 MLL-focused edtech and digital media products, 
 ## Related Claims
 - [Edtech designers rarely make explicit design for multilingual learners central, favoring general universal design](mll-explicit-design-less-prominent-than-universal-design.md) — related
 - [Nearly all attendance-related text-messaging events were targeted to specific students or subgroups, and nearly a third were sent in a language other than English, mostly Spanish](targeted-attendance-texts-and-translation-use.md) — related
+- [Evaluated technology-delivered literacy programs are overwhelmingly multicomponent (90%), publicly available, computer/laptop-delivered, and school-based, targeting an average of four literacy skills](multicomponent-public-computer-school-programs.md) — related

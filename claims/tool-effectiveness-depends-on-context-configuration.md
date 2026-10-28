@@ -74,3 +74,4 @@ The paper cites prior Logo research (Jonassen & Reeves, 1996; Pea, Kurland, & Ha
 - Computer-led exploration set the decision boundary for what counted as an interaction, shaping which events became detectable and how interpretation proceeded — a narrower finding that bears on this claim
 - [Predictive performance of sensor configurations does not change monotonically with the number of sensing streams; preferred configuration depends on target metric and sensing cost](sensor-stream-performance-non-monotonic.md) — related
 - [A medium feature's affordance does not guarantee its actual cognitive effects: LOGO instruction designed to enhance conditional reasoning may not do so](affordance-does-not-guarantee-cognitive-effect.md) — related
+- [Numbers of computers per class differed between schools but not between school types](computers-per-class-no-school-type-difference.md) — a narrower finding that bears on this claim

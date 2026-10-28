@@ -65,6 +65,7 @@ Reflection prompts work because they force the generative processing that passiv
 - **One-minute papers** — a research-validated classroom variant focused on "what was the muddiest point?"
 - [Design activities that make students' AI-supported learning processes visible through reflection prompts and process documentation](process-documentation-ai-learning-visibility.md)
 - [Use explanation essays as a sensitive measure of student understanding](explanation-essays-assess-understanding.md)
+- [Use peer feedback to prompt students to reconsider design judgments and engage in reflection](peer-feedback-prompts-reflective-design-judgment.md)
 
 ## Examples
 - At the end of a history lesson, students respond to "What is one thing you learned, and one question you still have?" on an exit ticket; the teacher sorts responses to plan the next session's opening.

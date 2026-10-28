@@ -52,6 +52,7 @@ The report recommends that educators 'integrate AI literacy within the topics th
 - [Use a modular lesson structure to keep integrated AI curricula scalable under time constraints](modular-lesson-structure-scalable-integrated-ai-curriculum.md)
 - [Integrate AI literacy into disciplinary core subjects rather than adding a new AI subject](integrate-ai-literacy-into-core-subjects.md)
 - [Embed computational thinking across existing K-12 subject areas using everyday and data-based activities](embed-ct-across-subject-areas.md)
+- [Integrate collaborative videomaking (DST) into STEM-A and CLIL courses as an authentic, student-centred literacy activity](dst-videomaking-integration-stem-clil.md)
 
 ## Examples
 -

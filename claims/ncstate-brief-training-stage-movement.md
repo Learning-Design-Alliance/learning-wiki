@@ -53,3 +53,4 @@ Observational case study of NC State AI literacy initiatives (Fall 2024–Spring
 - [Individual teachers' concern profiles vary widely and can diverge from group trends during implementation](individual-concern-profiles-vary-widely.md) — related
 - [Faculty workshop participants agreed the educational focus should shift toward higher-level skills, naming abstraction, verification, and taking responsibility for systems](faculty-shift-to-abstraction-verification-responsibility.md) — related
 - [Student off-task behavior is lower in trained teachers' classrooms than in control classrooms after adjusting for baseline off-task rates](off-task-behavior-declines-after-training.md) — related
+- [Preschool teachers with no coding background shifted from initial CS-related resistance to voluntary ownership of coding instruction after brief PD and curriculum implementation](teachers-shifted-resistance-to-ownership.md) — a narrower finding that bears on this claim

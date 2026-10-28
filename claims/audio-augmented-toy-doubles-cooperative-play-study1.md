@@ -48,3 +48,4 @@ Study 1: video data of 48 6- to 11-year-olds randomly allocated to triads with t
 - [Groups with the augmented toy used more balanced narrative roles, with more narrator and fewer metanarrator utterances](narrative-roles-more-balanced-augmented-toy.md) — related
 - [Joint narratives after augmented play were rated more creative, and per-child creativity correlated with cooperative play (r = 0.72) and negatively with parallel play](narrative-creativity-linked-to-cooperative-play.md) — related
 - [The review reports that minimal-group categorization produces in-group favoritism in resource allocation, cooperation, prosocial behavior, and evaluation](minimal-group-in-group-favoritism-reported.md) — related
+- [Irûmi increased girls' STEM toy preferences and gender flexibility regarding who can play with STEM toys](irumi-girls-stem-toy-preference-flexibility.md) — related

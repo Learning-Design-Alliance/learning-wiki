@@ -140,3 +140,4 @@ Open questions: how much prior knowledge is "enough" for calibration in a given 
 - [Monitoring judgments are positively associated with learning outcomes (β = 0.29)](monitoring-judgments-positively-related-to-learning-outcomes-masem.md) — related
 - [Students feel quite confident about their monitoring and regulation judgments even before self-scoring](students-confident-judgments-before-self-scoring.md) — related
 - [Learners' self-efficacy judgments during problem-solving shift from being informed by accuracy to being increasingly informed by fluency over time](self-efficacy-shifts-accuracy-to-fluency.md) — related
+- [When ID students lack prior experience with a design activity, they tend to follow guidelines and make judgments without reflection, especially in formative evaluation](no-prior-experience-follow-guidelines-no-reflection.md) — related

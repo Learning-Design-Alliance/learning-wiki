@@ -46,3 +46,4 @@ ANCOVA on posttest total time in the same study found a Condition x Prior Profic
 
 ## Related Claims
 - [Aptitude-treatment interaction: Assertions led low prior proficiency students to form significantly shorter posttest proofs than Messages](assertions-low-proficiency-shorter-posttest-proofs.md) — related
+- [Using the Kakao-Talk mobile messaging tool outside class improved low-proficiency students' English to-verb writing](kakao-talk-improved-english-writing.md) — related

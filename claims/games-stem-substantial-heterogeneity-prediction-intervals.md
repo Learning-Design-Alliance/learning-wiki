@@ -56,3 +56,4 @@ Random-effects meta-analysis reporting heterogeneity statistics: I2 ranges from 
 - [Effect sizes across shared text reading studies show substantial true heterogeneity (I2 = 80.09)](substantial-heterogeneity-shared-reading-effects.md) — related
 - [Effect sizes across studies show substantial heterogeneity, with wide prediction intervals spanning large negative to large positive true effects](heterogeneity-math-interventions-co-occurring.md) — related
 - [Effect sizes for gender differences in L2 achievement are highly heterogeneous across studies (I² = 89.82%)](high-heterogeneity-l2-gender-effect-sizes.md) — related
+- [Effect sizes of technology-delivered literacy instruction are heterogeneous across studies (Q = 165.38, I2 = 68.56)](tech-literacy-effect-heterogeneity.md) — related

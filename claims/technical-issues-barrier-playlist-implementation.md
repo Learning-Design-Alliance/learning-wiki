@@ -70,3 +70,5 @@ Observational and interview study of four after-school sites; educators reported
 - [Pepper's classroom operation required frequent teacher supervision in over half of the studies, mainly due to voice recognition and technical failures](pepper-requires-constant-teacher-supervision.md) — related
 - [Failures of education technology implementations are attributed to social, psychological, and cultural issues rather than technical shortcomings](edtech-failures-social-psychological-cultural.md) — reports the opposite
 - [Student interviewees reported technical support availability as a significant gap for online students.](molh-student-interviews-technical-support-gap.md) — related
+- [Ash and Jaspen studied the effects of viewing angle, screen distance, and room illumination on learning with a rear-projection daylight screen](viewing-conditions-rear-projection-study.md) — related
+- [Teachers identified cost, bulky headsets, Wi-Fi connectivity, and technical issues as key challenges to integrating VR into ML2 teaching](vr-challenges-cost-headsets-wifi.md) — related

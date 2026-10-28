@@ -54,6 +54,7 @@ The authors propose applying their predictive analysis results formatively: inst
 - [Use coordination-based indicators rather than inactivity alone to trigger alerts and adaptive interventions for struggling groups](coordination-based-alert-strategy.md)
 - [Learning Dashboards](learning-dashboards.md)
 - [Pedagogical nudges triggered by WBA analytics to encourage engagement](wba-analytics-pedagogical-nudges.md)
+- [Engage teachers with predictive analytics dashboards to trigger timely interventions with students at risk](teacher-engagement-with-pla-interventions.md)
 
 ## Examples
 -

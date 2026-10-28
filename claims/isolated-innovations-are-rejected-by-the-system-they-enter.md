@@ -133,3 +133,4 @@ A public-domain ERIC digest from 2000, drawn from Ellsworth's book *Surviving Ch
 - [Instructional technology is rejected when it mismatches the dominant pedagogy, as with the blackboard in monitorial schools](technology-pedagogy-mismatch-blackboard.md) — a narrower finding that bears on this claim
 - [Failures of education technology implementations are attributed to social, psychological, and cultural issues rather than technical shortcomings](edtech-failures-social-psychological-cultural.md) — a narrower finding that bears on this claim
 - [A key factor in the slow adoption of adaptive learning environments is the inherent complexity of developing them, particularly the modeling component](adaptive-adoption-slow-modeling-complexity.md) — a narrower finding that bears on this claim
+- [Sustained large-scale systemic change in education is rare, with few success stories such as Head Start](large-scale-systemic-change-rare.md) — related

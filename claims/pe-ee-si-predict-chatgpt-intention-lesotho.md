@@ -60,3 +60,5 @@ PLS-SEM structural analysis of survey data from 842 Lesotho students (bootstrapp
 - [In a Vietnamese EFL sample, all six Meta-UTAUT hypotheses on MALL adoption were accepted with p-values below 0.05](meta-utaut-hypotheses-accepted-mall-efl.md) — related
 - [Social influence plays a diminishing role in Gen Z students' AI adoption intention](si-diminishing-role-gen-z-ai-adoption.md) — reports the opposite
 - [Perceived ease of use positively influenced attitudes toward using the AVDS tool](peou-positive-impact-attitude-avds.md) — related
+- [Effort expectancy positively influences behavioural intention to adopt m-learning in the three countries](ee-predicts-ml-bi-three-countries.md) — related
+- [Performance expectancy positively influences behavioural intention to adopt m-learning in Tunisia, Morocco, and Libya](pe-predicts-ml-bi-three-countries.md) — related

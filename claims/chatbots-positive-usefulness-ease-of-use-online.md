@@ -49,3 +49,4 @@ Summary of the two-study evaluation in fully online courses, where participants 
 - [Eight AI-driven factors positively influence learner satisfaction and engagement in online higher education](eight-ai-factors-positive-engagement-satisfaction.md) — a broader claim this one bears on
 - [Students in secondary mathematics report high acceptance of the domain-specific AI chatbot ADA across all Technology Acceptance Model dimensions](ada-high-tam-acceptance-secondary-math.md) — related
 - [Chatbot support systems in online learning are associated with higher learner satisfaction and engagement when perceived as useful](chatbot-support-raises-satisfaction.md) — related
+- [Students perceived HPL as positively as Scratch across TAM dimensions](hpl-student-perception-equal-scratch.md) — related

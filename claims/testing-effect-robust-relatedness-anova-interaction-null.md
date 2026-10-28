@@ -76,3 +76,4 @@ Same mixed-factors ANOVA on final test proportion correct. The article reports "
 - [Cued recall testing with correct-answer feedback significantly enhances vocabulary learning across three consecutive tests](feedback-enhances-vocabulary-learning-across-consecutive-tests.md) — related
 - [Repeated test-restudy trials produced higher final cued recall than study-only or single test-restudy controls across both experiments](test-restudy-beats-controls.md) — a broader claim this one bears on
 - [Nap benefits for no-feedback retrieval-practice items appear at both 90-minute immediate and 24-hour delayed tests](nap-benefit-nrp-immediate-and-delayed.md) — related
+- [HPL students learned as much as Scratch students, with equivalent improvement in both conditions](hpl-equivalent-learning-outcomes-scratch.md) — related

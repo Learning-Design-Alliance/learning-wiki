@@ -67,3 +67,4 @@ Same multivariable regression (Table 7): Centre 2 carried an unadjusted associat
 - [AI-generated revision podcasts produce statistically significant immediate learning gains in medical students at both study centres](ai-revision-podcasts-immediate-learning-gains-medical-students.md) — related
 - [Pre-instruction LCTSR scores correlate with normalized learning gains, most strongly for theoretical content (TUG-K r=0.59) and more weakly for descriptive content (DIRECT r=0.50)](lctsr-prescore-correlates-content-gains-theoretical-strongest.md) — related
 - [Retention trajectories diverged by centre: Centre 1 retained gains at 30 days while Centre 2 showed significant post-to-delayed decay](podcast-retention-divergence-massed-vs-distributed.md) — related
+- [Listening to podcasts improved EFL students' self-regulation more than listening to radio programs](podcasts-improved-efl-self-regulation.md) — related

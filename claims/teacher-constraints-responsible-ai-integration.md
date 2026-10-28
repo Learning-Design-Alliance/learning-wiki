@@ -75,3 +75,4 @@ Negative-perceptions sub-theme from thematic analysis of interviews with 10 trai
 - [Barriers to seamless GenAI integration include limited accessibility, insufficient bias mitigation, and tool availability prioritized over curriculum alignment](genai-integration-barriers-accessibility-bias-alignment.md) — related
 - [AIED criticism is largely application-specific rather than opposition to all AI in education](aied-criticism-application-specific.md) — related
 - [ITS adoption is limited by instructors' lack of programming skills and high outsourcing costs](its-barriers-programming-skills-and-cost.md) — related
+- [Teachers identified cost, bulky headsets, Wi-Fi connectivity, and technical issues as key challenges to integrating VR into ML2 teaching](vr-challenges-cost-headsets-wifi.md) — related

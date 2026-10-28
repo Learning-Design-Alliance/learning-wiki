@@ -52,3 +52,4 @@ The report's review of school networks based on distinct educational designs (Mo
 - [Networks and professional learning communities of practicing principals support sharing best practices and problem solving on the job](principal-networks-professional-learning-communities.md) — related
 - [Teacher support is among the strongest predictors of school belonging](teacher-support-strongest-predictor-school-belonging.md) — related
 - [Small school contexts may both enable and constrain professional communities: collegiality rises but heavy workloads make collective instructional focus difficult](small-school-contexts-enable-and-constrain-communities.md) — related
+- [Resilience and shared commitment of the learning community were crucial for the program's sustainability during economic and environmental challenges](community-resilience-shared-commitment-sustainability.md) — related

@@ -49,3 +49,5 @@ TAM-based validation test (five-point Likert scale) applied to the blended works
 - [Digital literacy workshops ameliorate older adults' digital competence in both face-to-face and blended modalities](workshops-ameliorate-older-adult-digital-competence.md) — related
 - [Participants held generally positive attitudes toward VISIGARP but rated diagram layout clarity low while finding layout easy to adjust](visigarp-attitudes-layout.md) — related
 - [Adult ESL learners report above-neutral perceptions of ASR as a writing tool on usefulness, ease of use, and intention to use](esl-learners-positive-perceptions-asr-writing.md) — related
+- [Students perceived HPL as positively as Scratch across TAM dimensions](hpl-student-perception-equal-scratch.md) — related
+- [Teachers perceived OUA as useful and easy to use, with positive cognitive evaluations suggesting low academic resistance](teachers-perceive-oua-useful-easy.md) — related

@@ -26,7 +26,7 @@ sources:
 # Text underlining and annotating
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 14 claims (3 for, 8 mixed, 3 against) · 10 studies (4 causal, 2 quant-synthesis, 2 associational, 1 review, 1 design), `q1`–`q4` · 4 of 10 report an effect size · 13 claims rest on one study
+> **Evidence** · 16 claims (3 for, 8 mixed, 5 against) · 11 studies (5 causal, 2 quant-synthesis, 2 associational, 1 review, 1 design), `q1`–`q4` · 4 of 11 report an effect size · 15 claims rest on one study
 
 ## Description
 A study aid involving marking text to indicate importance. Underlining (or highlighting) designates important information within the text; annotating adds marginal notes or written responses that go beyond selection to interpretation. The two differ in cognitive depth: underlining is a selection activity, while annotating is a generative one.
@@ -77,6 +77,8 @@ Underlining alone is one of the weakest studied techniques for durable learning;
 - [When every word was judged, words circled as to-be-remembered were recalled better and words underlined as to-be-forgotten worse than a no-instruction control group's recall](../claims/judging-every-item-remember-enhanced-forget-impaired.md) [~W]
 - [Engagement via annotation (underlining, highlighting, notes) shows no significant effect on comprehension](../claims/annotation-engagement-no-comprehension-effect.md) [-W]
 - [After introduction, the student used the INSERT text-marking strategy consistently and independently, suggesting transfer](../claims/insert-strategy-independent-use-transfer-case.md) [+W]
+- [Appropriately identifying the author's statement and grounds while underlining was not associated with essay coherence or constructiveness scores](../claims/identification-during-underlining-not-critical-for-essay-quality.md) [-W]
+- [The two classes did not differ in the amount of underlining/highlighting or in appropriate identification of the argument while underlining](../claims/no-class-difference-in-underlining-amount-or-identification.md) [-W]
 
 ## The evidence by question
 - *Does asking learners to highlight or underline while reading improve learning over reading alone, and for which outcomes?* [Learner highlighting of text gives a small memory benefit but no reliable comprehension benefit, and evidence on other forms of annotation is not yet recorded here](../claims/annotating-improves-learning.md) [+S]

@@ -50,3 +50,6 @@ The study compared comparable groups of Naval Air Reservists taught a series of 
 - [Live television and television recordings were about equal in their instructional effectiveness.](live-tv-and-tv-recordings-about-equal-effectiveness.md) — related
 - [Naval trainees generally liked television instruction, with over half the comments being favorable.](naval-trainees-favorable-comments-tv-instruction.md) — related
 - [The measured advantage of computer-based instruction over conventional teaching shrinks when the same teacher teaches both versions](cbi-advantage-shrinks-same-teacher-comparisons.md) — related
+- [Kinescope recordings of television instruction were equally effective as regular instruction](kinescope-recordings-equally-effective.md) — reports the opposite
+- [Television instruction was at least as effective as regular instruction in Army basic training](tv-instruction-as-effective-as-regular-army-basic.md) — related
+- [Almost 90 percent of comparisons between television and conventional instruction showed no substantial differences in achievement or information gain](tv-research-90-percent-no-substantial-differences.md) — a broader claim this one bears on

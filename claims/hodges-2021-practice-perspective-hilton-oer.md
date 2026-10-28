@@ -53,3 +53,4 @@ The commentary's abstract states its purpose: offering "perspectives from a lens
 - [The majority of faculty and students who have used OER had a positive experience and would do so again.](oer-positive-perceptions-majority.md) — related
 - [Future OER research should examine disaggregated data for specific student populations, conduct quantitative meta-analyses, and compare specific OER materials and subject areas.](oer-future-research-directions.md) — related
 - [In direct comparisons of OER and commercial textbooks, a strong majority of participants report OER are as good or better.](oer-direct-comparison-strong-majority-as-good-or-better.md) — related
+- [OER effectiveness in online courses is attributed to their technological affordances](oer-online-effectiveness-technological-affordances.md) — related

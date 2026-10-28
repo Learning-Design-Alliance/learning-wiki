@@ -47,6 +47,7 @@ The essay identifies reviewers and journal editors as the most important leverag
 - [Balance explanation-focused and prediction-focused methodological strategies in motivation research](balance-explanation-and-prediction-motivation-research.md)
 - [Evaluate motivational theories rigorously on predictive, practical, explanatory, and developmental value before integrating](evaluate-theories-predictive-practical-explanatory-developmental-value.md)
 - [Editors and reviewers should reward transparency about limitations so researchers are not incentivized to overstate implications](editors-reward-transparency-about-limitations.md)
+- [Journals should adopt criteria appropriate to theoretical submissions rather than empirical-only rubrics](adopt-criteria-for-theoretical-submissions.md)
 
 ## Examples
 -

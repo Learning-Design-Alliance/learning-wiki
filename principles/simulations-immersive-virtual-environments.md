@@ -123,7 +123,7 @@ sources:
 # Simulations & Immersive Virtual Environments
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 113 claims (44 for, 61 mixed, 8 against) · 80 studies (26 causal, 19 review, 11 quant-synthesis, 9 qualitative, 8 theoretical, 6 design, 1 associational), `q1`–`q4` · 20 of 80 report an effect size · 108 claims rest on one study
+> **Evidence** · 115 claims (45 for, 62 mixed, 8 against) · 82 studies (27 causal, 19 review, 11 quant-synthesis, 9 qualitative, 8 theoretical, 7 design, 1 associational), `q1`–`q4` · 21 of 82 report an effect size · 110 claims rest on one study
 
 ## Conditional relationship
 
@@ -347,6 +347,8 @@ Success inside the simulation, immediate performance outside it, delayed retenti
 - [A video-based virtual learning environment improves preservice teachers' multiperspective professional vision of classroom management and instructional support compared to an untreated control group](../claims/vle-improves-multiperspective-professional-vision.md) [+W]
 - [Qualitative analysis found predominantly positive perceptions of iVR, with real-time feedback the most valued element and lack of realism the main concern](../claims/qualitative-ivr-perceptions-feedback-valued-realism-concern.md) [~W]
 - [Desktop VR showed no significant declarative-knowledge advantage over traditional instruction after unguided exploration (d = 0.24), and a marginal, non-significant one after scaffolded guidance (d = 0.63, p = .06)](../claims/desktop-vr-scaffolded-guidance-declarative-knowledge-statics.md) [+W]
+- [The iVR-orchestrated lesson produced significantly stronger comprehension gains (troubleshooting procedure ordering) than the control group](../claims/ivr-authentic-classroom-comprehension-gains.md) [+W]
+- [Expert evaluation supported the VR classroom's vividness and the expert validity of the classroom events' likely interpretations](../claims/ivr-pvas-expert-evaluation-vividness-validity.md) [~W]
 
 ## Related Principles
 - [Experiential Learning](experiential-learning.md) — simulations provide structured experiences that later reflection can interpret.
@@ -377,6 +379,7 @@ Success inside the simulation, immediate performance outside it, delayed retenti
 - [Text-based heterogeneity simulation with simulated peer feedback](../designs/heterogeneity-simulation-written-feedback-intervention.md)
 - [DEGREE](../products/degree.md)
 - [Integrate model-based supports across pretraining, in-simulation, and post-simulation stages of VR teacher practice](../strategies/integrate-supports-across-vr-simulation-stages.md)
+- [Design VR lessons with structured pre-, during-, and post-experience tasks](../strategies/structured-pre-during-post-vr-tasks.md)
 
 ## Key Sources
 - Akcayir, M., & Akcayir, G. (2017). Advantages and challenges associated with augmented reality for education: A systematic review of the literature. *Educational Research Review, 20*, 1-11. [https://doi.org/10.1016/j.edurev.2016.11.002](https://doi.org/10.1016/j.edurev.2016.11.002)

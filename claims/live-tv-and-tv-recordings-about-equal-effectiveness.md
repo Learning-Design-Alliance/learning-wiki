@@ -49,3 +49,5 @@ In the same comparative study of Naval Air Reservists, the abstract states "Live
 - [Live television and television recordings were superior to local instructors in teaching Naval Air Reservists.](tv-instruction-superior-to-local-instructors-naval-reservists.md) — related
 - [Direct TV narration appeared to be the most effective method of presentation.](direct-tv-narration-most-effective-presentation-method.md) — related
 - [Naval trainees generally liked television instruction, with over half the comments being favorable.](naval-trainees-favorable-comments-tv-instruction.md) — related
+- [Kinescope recordings of television instruction were equally effective as regular instruction](kinescope-recordings-equally-effective.md) — related
+- [Television instruction was at least as effective as regular instruction in Army basic training](tv-instruction-as-effective-as-regular-army-basic.md) — related

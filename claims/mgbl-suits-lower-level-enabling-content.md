@@ -47,3 +47,4 @@ Theoretical commentary drawing on the author's experience designing instructiona
 ## Related Claims
 - [mGBL's main benefit is affective, which may sacrifice effectiveness or efficiency to increase motivation and engagement](mgbl-affective-benefit-sacrifices-effectiveness-efficiency.md) — related
 - [Presenting multiple cases from different perspectives supports transfer in ill-structured domains](cognitive-flexibility-theory-multiple-cases.md) — related
+- [The Giannakas et al. (2018) review found that transitioning game-based learning to mobile requires well-designed technological and pedagogical solutions, not quick modification](mobile-transition-requires-well-designed-solutions.md) — related

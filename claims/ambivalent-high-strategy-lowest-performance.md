@@ -51,3 +51,4 @@ Wald chi-square tests (BCH approach) comparing the three latent profiles on OMR 
 - [Ambivalent-profile students undervalued visual information and rigidly applied print-reading strategies, undermining their OMR comprehension](ambivalent-students-undervalue-visual-information.md) — related
 - [Strategy effectiveness varied across profiles: main idea selection helped only the ambivalent group and trial-and-error helped only the moderate group](strategy-effectiveness-varies-across-profiles.md) — related
 - [Higher negative math emotions are associated with lower odds of membership in the positively oriented profiles](negative-math-emotions-associated-with-profile-membership.md) — related
+- [Malaysian undergraduates' overall CCTDI disposition was moderate to positive: 47% positive, 53% ambivalent, none negative](cctdi-composite-moderate-positive-disposition.md) — related

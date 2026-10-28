@@ -48,3 +48,4 @@ Descriptive publication-rate analysis from the review's literature search, with 
 - [Few NQG studies focus on education: only 11 education-related papers among 224 reviewed](few-nqg-studies-focus-on-education.md) — related
 - [AI ethics research shows a pronounced acceleration in publications after 2021, with nonlinear accelerating growth rather than linear development](ai-ethics-publications-accelerate-after-2021.md) — related
 - [Publications on prior knowledge and learning increased strongly from 1980 to 2021, reaching about 600 new publications per year](prior-knowledge-publication-growth-600-year.md) — related
+- [Research on assistive technology in education shows an increasing publication trend from 2017 onwards but low citation impact](at-research-trend-increase-2017.md) — related

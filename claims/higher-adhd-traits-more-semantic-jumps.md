@@ -52,3 +52,4 @@ Linear regressions on per-child mean and SD of word2vec semantic distances in th
 - [Exploratory search behaviour in visual and semantic tasks is not correlated across children once ADHD score is controlled](no-cross-domain-correlation-exploratory-search.md) — related
 - [Longer inter-item response times follow larger semantic distances in children's semantic search paths](semantic-distance-predicts-longer-response-times.md) — related
 - [Higher ADHD rating-scale scores predict better semantic fluency performance and more immediate repetitions in children](higher-adhd-traits-better-semantic-fluency.md) — related
+- [Across-session focus gains extend to students with ADHD, though within-session gains do not](focus-coach-gains-extend-adhd-students.md) — related

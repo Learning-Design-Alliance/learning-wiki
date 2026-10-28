@@ -50,3 +50,4 @@ Descriptive bibliometric analysis of 321 eligible WoS articles on WCF in L2 writ
 - WCF research trends shifted from accuracy and error correction, through efficacy of feedback strategies and scope, to teacher practices, motivation, student engagement and automated feedback — related
 - Annual output in Instructional Science rose markedly from around 2008, peaked at about 55 documents in the early 2010s, then declined to roughly 30–40 papers annually — related
 - [Research on GenAI in programming education increased markedly from 2019 onward](genai-programming-education-publications-increase-2019.md) — related
+- [Annual metacognition publications rose through the period, peaking at over 250 in 2022 before dropping to 125 in 2023](metacognition-publication-growth-peak-2022.md) — related

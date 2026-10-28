@@ -87,3 +87,4 @@ Spearman correlation analysis of continuous factors in the survey. Training dura
 - [Exploratory moderation analyses found no significant moderators (age, gender, SES, baseline self-control, baseline life events) of the life events–self-control relation](no-moderators-life-events-self-control.md) — related
 - [Demographic moderators (child gender, parent gender, ethnicity, sample type, socio-economic status) show limited moderating effects on the self-efficacy–partnership association](limited-demographic-moderators.md) — related
 - [Background variables (need for cognition, test anxiety, mindset, puzzle experience) showed no consistent moderating patterns across the three experiments](background-moderators-no-consistent-patterns.md) — related
+- [Training location (home, school, or both) did not affect GL learning gains](training-place-no-effect-gains.md) — related

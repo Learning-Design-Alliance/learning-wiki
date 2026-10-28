@@ -73,3 +73,4 @@ Follow-up logistic regression with ADHD subtypes (n = 743) re-ran the model with
 - [All diagnostic groups of referred youth, including those without full diagnoses, show processing speed below the population norm](ps-below-norms-all-clinical-groups.md) — related
 - [Processing speed is the most impaired Wechsler cognitive domain among youth referred for neuropsychiatric evaluation](ps-lowest-wechsler-index-referred-youth.md) — related
 - [The inattentive ADHD subtype has the worst learning ability score among ADHD subtypes](inattentive-adhd-worst-learning-score.md) — related
+- [Across-session focus gains extend to students with ADHD, though within-session gains do not](focus-coach-gains-extend-adhd-students.md) — related

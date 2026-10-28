@@ -47586,5 +47586,145 @@
  "spacing\tspaced review\tno review": {
   "label": "review vs no review",
   "treatment_is_a": true
+ },
+ "active-learning\tactive participation, dialogue, and action-focused reflection\tpassive lecture-based safety training": {
+  "label": "active learning vs passive instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tactively promoting learner discussion\tless or no active discussion": {
+  "label": "active discussion vs little or no discussion",
+  "treatment_is_a": true
+ },
+ "active-learning\tcollaborative-learning intervention\tno intervention": {
+  "label": "collaborative learning vs no intervention",
+  "treatment_is_a": true
+ },
+ "active-learning\tonline project-based collaborative coding\tnot stated": {
+  "label": "project-based collaborative coding vs unspecified comparison",
+  "treatment_is_a": true
+ },
+ "active-learning\tproject-based collaborative coding activities\tno comparable collaborative computing opportunity": {
+  "label": "project-based collaborative coding vs no comparable collaborative computing opportunity",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tfreedom-of-gameplay mechanics\tmore restrictive gameplay": {
+  "label": "freedom of gameplay mechanics vs restrictive gameplay",
+  "treatment_is_a": true
+ },
+ "debriefing\tfacilitated debriefing after IVR\tno debriefing": {
+  "label": "debriefing vs no debriefing",
+  "treatment_is_a": true
+ },
+ "gamification\tcasual game session\tpretest baseline": {
+  "label": "gamified vs non-gamified",
+  "treatment_is_a": true
+ },
+ "gamification\tgamified learning tools\tnone reported": {
+  "label": "gamified vs non-gamified",
+  "treatment_is_a": true
+ },
+ "gamification\tsituational cognitive training games\tcasual games": {
+  "label": "training-oriented games vs casual games",
+  "treatment_is_a": true
+ },
+ "gamification\tsituational inhibition-training games\tpre-test before training": {
+  "label": "gamified vs non-gamified",
+  "treatment_is_a": true
+ },
+ "gamification\tsituational training games\tcasual games": {
+  "label": "training-oriented games vs casual games",
+  "treatment_is_a": true
+ },
+ "media-design\tone distance from the screen\tanother distance from the screen": {
+  "label": "one viewing distance vs another viewing distance",
+  "treatment_is_a": true
+ },
+ "media-design\tone room-illumination condition\tanother room-illumination condition": {
+  "label": "one room-illumination condition vs another room-illumination condition",
+  "treatment_is_a": true
+ },
+ "media-design\tone viewing angle\tanother viewing angle": {
+  "label": "one viewing angle vs another viewing angle",
+  "treatment_is_a": true
+ },
+ "media-design\tspoken words\twritten words": {
+  "label": "spoken words vs written words",
+  "treatment_is_a": true
+ },
+ "media-design\tvideo-enhanced rubric combining textual descriptions with video-modeling examples\ttext-based rubric alone": {
+  "label": "video-enhanced rubric vs text-only rubric",
+  "treatment_is_a": true
+ },
+ "media-design\tvideo-enhanced rubric with video-modeling examples\ttext-based analytic rubric": {
+  "label": "video-enhanced rubric vs text-only rubric",
+  "treatment_is_a": true
+ },
+ "media-design\tvideo-modeling examples added to a textual rubric\ttext-based analytic rubric alone": {
+  "label": "video-enhanced rubric vs text-only rubric",
+  "treatment_is_a": true
+ },
+ "practice-amount\t16 response-pretraining trials with letter stimuli\tno response pretraining": {
+  "label": "response pretraining vs no response pretraining",
+  "treatment_is_a": true
+ },
+ "practice-amount\t32 response-pretraining trials with letter stimuli\tno response pretraining": {
+  "label": "response pretraining vs no response pretraining",
+  "treatment_is_a": true
+ },
+ "practice-amount\t64 response-pretraining trials with letter stimuli\tno response pretraining": {
+  "label": "response pretraining vs no response pretraining",
+  "treatment_is_a": true
+ },
+ "practice-amount\tdesign practice over the semester\tearlier or less design practice": {
+  "label": "more design practice vs less design practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\tfour showings\tthree showings": {
+  "label": "more film showings vs fewer film showings",
+  "treatment_is_a": true
+ },
+ "practice-amount\tfour showings of the film\tthree showings of the film": {
+  "label": "more film showings vs fewer film showings",
+  "treatment_is_a": true
+ },
+ "practice-amount\thigher dosage\tlower dosage": {
+  "label": "higher dosage vs lower dosage",
+  "treatment_is_a": true
+ },
+ "practice-amount\tlonger tablet-game duration\tshorter tablet-game duration": {
+  "label": "longer tablet-game duration vs shorter tablet-game duration",
+  "treatment_is_a": true
+ },
+ "practice-amount\tmore Focus Coach sessions\tfewer Focus Coach sessions": {
+  "label": "more Focus Coach sessions vs fewer Focus Coach sessions",
+  "treatment_is_a": true
+ },
+ "practice-amount\tmore completed Focus Coach sessions\tfewer completed Focus Coach sessions": {
+  "label": "more completed Focus Coach sessions vs fewer completed Focus Coach sessions",
+  "treatment_is_a": true
+ },
+ "practice-amount\tthree showings of the film\ttwo showings of the film": {
+  "label": "more film showings vs fewer film showings",
+  "treatment_is_a": true
+ },
+ "practice-amount\ttwo showings of the film\tone showing of the film": {
+  "label": "more film showings vs fewer film showings",
+  "treatment_is_a": true
+ },
+ "prompts\tindividual-reflection intervention\tno intervention": {
+  "label": "reflection prompts vs no prompts",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\toffering ethical or career incentives to voluntary external supervisors\tno stated incentives": {
+  "label": "incentives vs no incentives",
+  "treatment_is_a": true
+ },
+ "scaffolding\tself-adaptive digital mathematical game design\tgames without adaptive learning design": {
+  "label": "adaptive scaffolding vs non-adaptive scaffolding",
+  "treatment_is_a": true
+ },
+ "simulation\tlooking out the window event\tother classroom events involving rocking in a chair or peeking at a book": {
+  "label": "Looking out the window event vs other classroom events",
+  "treatment_is_a": true
  }
 }

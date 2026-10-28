@@ -78,3 +78,4 @@ Survey and interview findings from district participants. The report states ther
 - [District teams struggled to produce rigorous, reliable evidence for assessing their improvement work](districts-struggled-with-evidence-rigor.md) — related
 - [Teachers tended to adopt district-provided tools, and single-application step-by-step training supported uptake of Forms](district-provided-tools-single-tool-training.md) — related
 - [Most popular EdTech products lack research evidence of positive learning impact](edtech-products-lack-evidence-base.md) — a narrower finding that bears on this claim
+- [Polish and Turkish participants differed significantly in how they learned about the applications, with teacher recommendation least common and a moderate-level association](cultural-differences-app-discovery-memorizing.md) — related

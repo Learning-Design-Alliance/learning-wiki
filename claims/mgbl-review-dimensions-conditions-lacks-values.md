@@ -66,3 +66,4 @@ Theoretical commentary identifying the primary gap in the Giannakas et al. (2018
 ## Related Claims
 - [mGBL's main benefit is affective, which may sacrifice effectiveness or efficiency to increase motivation and engagement](mgbl-affective-benefit-sacrifices-effectiveness-efficiency.md) — related
 - [Giannakas et al. (2018) mixes instructional methods with learning theories, listing problem solving, experiential learning, situated learning, and task-based language learning as learning theories](mgbl-review-mixes-methods-with-learning-theories.md) — related
+- [The Giannakas et al. (2018) review found that transitioning game-based learning to mobile requires well-designed technological and pedagogical solutions, not quick modification](mobile-transition-requires-well-designed-solutions.md) — related

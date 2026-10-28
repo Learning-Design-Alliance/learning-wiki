@@ -47,6 +47,7 @@ The paper argues that current MOOCs use simple technology—video, quizzes, foru
 ## Related Strategies
 
 - [Address MOOC personalization at scale by using learners as helpers plus personalization technology to find the right helper at the right time](peer-help-personalization-scalable-moocs.md)
+- [Use MOOCocracy learning culture themes to inform digital course design and online learner engagement](moococracy-themes-for-course-design.md)
 
 ## Examples
 -

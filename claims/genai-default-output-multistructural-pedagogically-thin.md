@@ -55,3 +55,4 @@ Reflective demonstration: the authors, role-playing a naive student, prompted Cl
 - [As cited second-hand in an AI-literacy framework paper: ChatGPT use improved short-term essay scores but triggered metacognitive laziness with no significant knowledge-transfer gains](chatgpt-metacognitive-laziness-fan-2025.md) — related
 - [Reviewed literature reports risks of overreliance, AI errors in complex tasks, and students' uncritical acceptance of AI-generated outputs](ai-math-risks-overreliance-errors-uncritical-trust.md) — related
 - [Most student essays remained at a descriptive reflection level despite repeated AI feedback](essays-remain-descriptive-despite-ai-feedback.md) — related
+- [The EFL group with the lowest initial target-language proficiency (Group 4) made the largest SOLO improvement without explicit literacy instruction](group4-lowest-proficiency-largest-gains.md) — related

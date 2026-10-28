@@ -33,7 +33,8 @@ College Explorer is a data-visualization tool from NWEA Research that links MAP 
 - [Linking studies connect MAP Growth scores to state summative proficiency predictions and external measures](../claims/map-growth-linking-studies-predictions.md) [+W]
 
 ## Related Products and Programmes
--
+
+- [Gapminder](gapminder.md)
 
 ## Key Sources
 - Kowalski, S. (2026). NWEA College Explorer. NWEA Research. https://www.nwea.org

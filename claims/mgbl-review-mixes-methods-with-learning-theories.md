@@ -47,3 +47,4 @@ Theoretical commentary critiquing Table 2 of the Giannakas et al. (2018) review 
 ## Related Claims
 - [mGBL's main benefit is affective, which may sacrifice effectiveness or efficiency to increase motivation and engagement](mgbl-affective-benefit-sacrifices-effectiveness-efficiency.md) — related
 - [The six dimensions of the Giannakas et al. (2018) review are categories of conditions, and the review lacks guidance for analyzing values](mgbl-review-dimensions-conditions-lacks-values.md) — related
+- [The Giannakas et al. (2018) review found that transitioning game-based learning to mobile requires well-designed technological and pedagogical solutions, not quick modification](mobile-transition-requires-well-designed-solutions.md) — related

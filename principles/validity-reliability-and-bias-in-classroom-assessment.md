@@ -36,7 +36,7 @@ sources:
 # Validity, Reliability, and Bias in Classroom Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 308 claims (132 for, 153 mixed, 23 against) · 232 studies (89 associational, 58 design, 30 review, 25 theoretical, 21 causal, 6 quant-synthesis, 3 qualitative), `q1`–`q3` · 20 of 232 report an effect size · 301 claims rest on one study
+> **Evidence** · 309 claims (132 for, 154 mixed, 23 against) · 233 studies (90 associational, 58 design, 30 review, 25 theoretical, 21 causal, 6 quant-synthesis, 3 qualitative), `q1`–`q3` · 20 of 233 report an effect size · 302 claims rest on one study
 
 ## Conditional relationship
 
@@ -382,6 +382,7 @@ Content validity, construct validity, criterion validity, consistency across occ
 - [The introduction reports that deep learning and NLP techniques predicted fine-grained rubric scores of student essays with success well beyond the agreement level between two human raters](../claims/deep-learning-essay-scoring-beyond-human-rater-agreement.md) [~W]
 - [The three LLMs showed fair inter-model agreement on the AAMC SJT, agreeing most strongly on incorrect answers](../claims/llm-fair-agreement-same-errors-aamc-sjt.md) [~W]
 - [Misclassified assessments cluster near placement cut scores](../claims/misclassifications-cluster-near-cut-scores.md) [~W]
+- [Most proposed constructs showed high internal consistency (Cronbach's alpha above 0.70) but control variables did not and were removed](../claims/scale-reliability-alphas-control-variables-removed.md) [~W]
 
 ## Related Principles
 - [Criterion- and Norm-Referenced Testing](criterion-and-norm-referenced-testing.md) — validity and reliability apply to standardized as well as teacher-made assessments, with additional considerations

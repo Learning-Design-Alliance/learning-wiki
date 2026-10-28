@@ -13,7 +13,7 @@ generated:
 # Annotating
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 26 claims (9 for, 14 mixed, 3 against) · 34 studies (13 causal, 8 review, 6 quant-synthesis, 3 associational, 2 design, 1 qualitative, 1 theoretical), `q1`–`q4` · 7 of 34 report an effect size · 17 claims rest on one study
+> **Evidence** · 28 claims (9 for, 15 mixed, 4 against) · 35 studies (14 causal, 8 review, 6 quant-synthesis, 3 associational, 2 design, 1 qualitative, 1 theoretical), `q1`–`q4` · 7 of 35 report an effect size · 19 claims rest on one study
 
 ## Conditional relationship
 
@@ -110,6 +110,8 @@ Part 1 should weaken if well-selected learner highlighting fails to improve perf
 - [Snippet selection contributes to integration quality over and above reading fluency and reading comprehension](../claims/snippet-selection-predicts-integration-above-reading-skills.md) [+W]
 - [Better note quality and quantity relate to better memory, verbatim overlap relates negatively, and noted propositions are far more likely to be recalled](../claims/note-quality-quantity-verbatim-overlap-effects.md) [+W]
 - [Expert-judged sentence selection by a tuned rhetorical parser succeeded, but student reactions to key-sentence highlighting were mixed](../claims/awa-sentence-highlighting-mixed-student-response.md) [~W]
+- [Appropriately identifying the author's statement and grounds while underlining was not associated with essay coherence or constructiveness scores](../claims/identification-during-underlining-not-critical-for-essay-quality.md) [~W]
+- [The two classes did not differ in the amount of underlining/highlighting or in appropriate identification of the argument while underlining](../claims/no-class-difference-in-underlining-amount-or-identification.md) [-W]
 
 ## Related Principles
 - [Note-taking](note-taking.md) — annotation is note-taking anchored directly to a source text

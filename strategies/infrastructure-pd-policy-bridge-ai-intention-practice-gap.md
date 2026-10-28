@@ -50,6 +50,7 @@ The article recommends that effective AI integration in science education requir
 - [Adopt a systems approach to AI integration rather than spotlights or gaps](systems-approach-to-ai-integration.md)
 - [Institutional governance should establish practical conditions supporting AI literacy, learner agency, and critical evaluation rather than relying on prohibition and detection](governance-beyond-prohibition-detection.md)
 - [Shift teacher professional development from information-based training to experience-based AI design activities in sustainability contexts](experience-based-ai-design-teacher-pd.md)
+- [Research agenda: measure intent versus actual design practices and study design support for under-resourced contexts](design-practice-research-gaps-agenda.md)
 
 ## Examples
 -

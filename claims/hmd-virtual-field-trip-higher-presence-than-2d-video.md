@@ -50,3 +50,5 @@ Independent-samples t-test in the between-subjects experiment (49 HMD, 53 2D vid
 - [Middle-school students taking a virtual field trip via a 3D HMD report higher interest than students taking the same trip as a 2D video](hmd-virtual-field-trip-higher-interest-than-2d-video.md) — related
 - [Learning in immersive VR produces higher self-reported presence, agency, location, body ownership, and embodied learning than learning via a PC screen](vr-higher-presence-agency-embodied-learning-than-pc.md) — related
 - [Immersion principle: people do not necessarily learn better in 3D immersive virtual reality than with a corresponding 2D desktop presentation (d = -0.10 across 9 tests)](immersion-principle-no-vr-benefit.md) — related
+- [High-immersion VR produced significantly higher enjoyment than video instruction, with a medium effect size](vr-higher-enjoyment-than-video.md) — related
+- [High-immersion VR produced a significantly higher sense of presence than video instruction, with a large effect size](vr-higher-presence-than-video.md) — a broader claim this one bears on

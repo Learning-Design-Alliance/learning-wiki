@@ -39,7 +39,7 @@ sources:
 # Cognitive Load Management
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 83 claims (34 for, 46 mixed, 3 against) · 70 studies (32 causal, 15 review, 10 quant-synthesis, 10 theoretical, 2 associational, 1 design), `q1`–`q4` · 25 of 70 report an effect size · 74 claims rest on one study
+> **Evidence** · 85 claims (35 for, 47 mixed, 3 against) · 72 studies (32 causal, 15 review, 10 quant-synthesis, 10 theoretical, 2 associational, 2 design, 1 qualitative), `q1`–`q4` · 25 of 72 report an effect size · 76 claims rest on one study
 
 ## Conditional relationship
 
@@ -165,6 +165,8 @@ A learning-phase efficiency gain, immediate performance, near transfer, delayed 
 - [Task complexity has a strong omnibus multivariate effect on performance, GCL, meta-awareness, and intrinsic interest combined](../claims/complexity-omnibus-manova-effect.md) [~W]
 - [In-between learning activities increased invested mental effort in reading the second text unit (Experiment 2)](../claims/in-between-activities-raise-mental-effort-second-text-unit.md) [~W]
 - [The anxiety-complexity effect was replicated in response time only, with no speed-accuracy trade-off, in manageable two-digit arithmetic](../claims/anxiety-complexity-effect-replicated-response-time.md) [~W]
+- [Educators simplified open data sources and activities to prevent learners being overwhelmed by complexity and time constraints](../claims/open-data-simplification-of-activities.md) [+W]
+- [Cognitive load during the IVR-based PVAS task was generally low despite unsatisfactory perception and interpretation performance](../claims/ivr-pvas-low-cognitive-load-poor-performance.md) [~W]
 
 ## Related Principles
 - [Segmenting Principle](segmenting.md)

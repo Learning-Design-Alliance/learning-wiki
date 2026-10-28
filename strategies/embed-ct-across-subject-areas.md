@@ -58,6 +58,7 @@ The article recommends embedding CT ideas in the subjects students already learn
 - [Embed algorithmic thinking lessons across content, standalone, SEL, problem-based, and review contexts](when-to-teach-algorithms-five-contexts.md)
 - [Integrate AI literacy into disciplinary core subjects rather than adding a new AI subject](integrate-ai-literacy-into-core-subjects.md)
 - [Integrate robotics with visual block programming into mathematics units on coordinates and integers](integrate-robotics-block-programming-math-units.md)
+- [Integrate collaborative videomaking (DST) into STEM-A and CLIL courses as an authentic, student-centred literacy activity](dst-videomaking-integration-stem-clil.md)
 
 ## Examples
 -

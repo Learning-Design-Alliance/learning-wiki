@@ -50,3 +50,4 @@ Panel-position statement describing the project team's interpretive account (typ
 - [Eastern Kentucky educators and organizations have focused attention on CS and CT education for K-16 students as part of regional revitalization](eastern-ky-educators-invest-in-k16-cs-ct.md) — related
 - Two Eastern KY teachers shifted from learners to trainers and taught 15 new teachers what they had learned — related
 - [Connecting CT education to real community opportunities is powerful for teachers and students](connect-ct-to-community-opportunities.md) — related
+- [The Covid-19 pandemic's rapid shift of US K-12 schools to digital learning produced a wealth of digital learning analytics available for improving student learning outcomes](covid-shift-digital-produced-wealth-learning-analytics.md) — related

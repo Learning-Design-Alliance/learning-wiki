@@ -53,3 +53,4 @@ The abstract warns, as an argument rather than a finding, that ignoring the diff
 - [Predictive learning analytics can generate early warnings of dropout risk and trigger targeted interventions in adult education](predictive-analytics-early-warning-dropout-adults.md) — related
 - [Attendance, behavior, and course performance (the ABC indicators) reliably predict which secondary students are at risk of dropping out](abc-early-warning-indicators-predict-dropout.md) — related
 - [The teacher remains central to linking learning analytics with appropriate educational action](teacher-central-linking-analytics-to-action.md) — related
+- [Teachers primarily used OUA's colour-coded risk flags and VLE activity indicators, ignoring other features](selective-use-of-oua-features.md) — related

@@ -51,6 +51,7 @@ The authors recommend that, if used in a regulated way, interactive technologies
 ## Related Strategies
 
 - [Support gamified learning implementation with teacher training, technical preparedness, and regular tool evaluation](gamification-implementation-support-strategy.md)
+- [Five implementation suggestions for tablet-based DGBL in preschools](five-suggestions-tablet-dgbl-implementation.md)
 
 ## Examples
 -

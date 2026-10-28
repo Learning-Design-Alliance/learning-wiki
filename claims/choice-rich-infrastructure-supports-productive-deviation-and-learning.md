@@ -66,3 +66,4 @@ The authors explicitly frame this as an extreme case chosen to illustrate a *pos
 - [Students in interdisciplinary design studio courses reported high authentic motivation stemming from the problems rather than grades](studio-authentic-motivation-beyond-grades.md) — related
 - [Detailed case study shows a spell checker's affordances are enacted in rich, creative ways beyond designers' intentions](spell-checker-situated-affordances.md) — related
 - [Case of positive behavioral change in a sixth-grade student](matherial-positive-behavioral-change-case.md) — related
+- [A combination of human facilitators and well-constructed tutorials has the potential to improve girls' self-study skills and prepare them to become more independent learners](e5c-facilitators-tutorials-independent-learning.md) — related

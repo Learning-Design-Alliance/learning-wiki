@@ -37,7 +37,7 @@ grain_size: unit
 # 4C/ID (Four-Component Instructional Design)
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 26 claims (14 for, 12 mixed) · 27 studies (11 causal, 5 theoretical, 4 review, 3 design, 2 qualitative, 1 quant-synthesis, 1 associational), `q1`–`q4` · 3 of 27 report an effect size · 23 claims rest on one study
+> **Evidence** · 27 claims (14 for, 13 mixed) · 28 studies (11 causal, 6 theoretical, 4 review, 3 design, 2 qualitative, 1 quant-synthesis, 1 associational), `q1`–`q4` · 3 of 28 report an effect size · 24 claims rest on one study
 
 ## Description and scope
 
@@ -140,6 +140,7 @@ This pattern is scoped to complex skills where whole-task transfer is the object
 - [ICL ratings track the manipulated complexity sequence: increasing across units in the increasing condition and decreasing in the decreasing condition](../claims/icl-ratings-track-complexity-sequence.md) [~W]
 - [For rats, whole and part maze learning show no difference in trials, but the whole method saves time and errors](../claims/rats-whole-method-time-errors-advantage.md) [~W]
 - [The motor habit for a maze section shows practically no disintegration over the intervals between part-learning trials](../claims/negligible-motor-disintegration-over-interval.md) [~W]
+- [Design guidelines from motivational and complex-skill theories (4C/ID, ARCS, CLT) contradict multimedia learning guidelines (CTML), producing seven specific design dilemmas](../claims/seven-design-dilemmas-multimedia-vs-complex-skill-guidelines.md) [~W]
 
 ## Related Patterns
 - [Problem-Based Learning (PBL)](problem-based-learning.md)

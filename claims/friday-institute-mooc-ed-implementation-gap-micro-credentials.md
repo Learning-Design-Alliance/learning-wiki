@@ -53,3 +53,4 @@ Case study of the Friday Institute, an issuer. It scaled content access through 
 - [The review reports, citing Meyer et al., that stacking micro-credentials increases employment by four percent and quarterly wages by seven percent](stacking-microcredentials-increases-employment-wages.md) — related
 - [Potential early adopters of micro-credentials are driven by intrinsic motivations and heavy informal professional learning, while late adopters are more experienced and driven by extrinsic motivations](early-vs-late-adopter-motivation-profiles.md) — related
 - [Collaborative planning time with colleagues was the top support cited by teachers earning micro-credentials, cited by 74 percent of respondents](collaborative-planning-time-top-micro-credential-support.md) — related
+- [Loizzo and Ertmer propose combining c-MOOC and xMOOC designs to foster a flexible, learner-centered culture](combining-cmooc-xmooc-flexible-culture.md) — related

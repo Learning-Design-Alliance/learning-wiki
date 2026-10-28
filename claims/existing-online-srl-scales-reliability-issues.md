@@ -57,3 +57,4 @@ The authors' review of Cronbach's alpha for relevant scales of existing online S
 - [No existing online SRL questionnaire covers the breadth of motivational beliefs and learning strategies the SRL-O covers](no-online-srl-measure-covers-breadth.md) — related
 - [The IEA-provided Instruction to Engage Students in Learning Scale has practically zero correlation to student achievement, according to IEA (2011) exhibit data cited in the article](iea-engagement-scale-zero-achievement-correlation.md) — related
 - [Measurement of AHS in preservice teachers is heterogeneous and often relies on brief subscales of broader SRL questionnaires with variable reliability](ahs-measurement-heterogeneity-pst.md) — related
+- [The DIGISOC questionnaire shows acceptable validity and reliability, including CFA data and favorable Cronbach's alpha coefficients](digisoc-acceptable-validity-reliability.md) — related

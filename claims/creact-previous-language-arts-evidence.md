@@ -53,3 +53,4 @@ The article reports, citing Sak & Oz (2009), a one group pretest-posttest study 
 - No significant interaction between gender and CREACT on pretest or posttest creative performance — related
 - [Short-term creativity interventions can be effective in changing creativity positively](short-term-interventions-change-creativity.md) — a broader claim this one bears on
 - Critical thinking gains were significant for creative critical thought but not for logic and reasoning — related
+- [Girls in the online E-5C-guided clubs showed significant pretest-to-posttest gains in creativity, critical thinking, and overall computational thinking, but not in algorithmic thinking, cooperativity, or problem solving](e5c-ct-survey-significant-gains.md) — related

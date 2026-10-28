@@ -88,3 +88,4 @@ This is a conceptual policy paper drawing on the literature and international po
 - [Growing gaps in prior knowledge among students in the same class make it difficult for educators to maintain learner engagement](prior-knowledge-gap-engagement-challenge.md) — related
 - [Big Tech hyperscalers are introducing cloud and AI infrastructures into education with a business model tending towards monopoly capture](big-tech-hyperscalers-education-monopoly-capture.md) — related
 - [Remote exam proctoring software based on automated facial detection tends to disproportionately flag already-marginalized student groups as suspicious](remote-proctoring-facial-ai-disproportionate-flagging.md) — a narrower finding that bears on this claim
+- [Access to opportunities is critical to promote equity in computing, per the study's examination of marginalized girls' experience during the COVID pandemic](e5c-access-critical-for-equity.md) — related

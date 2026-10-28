@@ -49,3 +49,4 @@ The review reports, citing Faust, Ashcraft, & Fleck (1996), that "high-math-anxi
 - [Design studies found that timing adults' oral reading led them to sacrifice accuracy for speed, motivating untimed repeated reading practice in the curriculum](timed-reading-adults-sacrifice-accuracy.md) — related
 - [Higher prior proficiency is associated with faster step-level response-time propensities](higher-proficiency-faster-step-responses.md) — related
 - [Cognitive efficiency motives lead perceivers to sacrifice accuracy in person perception](cognitive-efficiency-sacrifices-accuracy.md) — related
+- [Rapid shifts from face-to-face to digital delivery during the pandemic forced teachers to sacrifice appropriate designs to meet deadlines](pandemic-pivot-sacrificed-appropriate-designs.md) — related

@@ -13,7 +13,7 @@ generated:
 # Domain Context
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 64 claims (46 show a difference, 14 mixed, 4 no difference) · 57 studies (16 review, 11 qualitative, 10 causal, 7 design, 5 quant-synthesis, 4 associational, 4 theoretical), `q1`–`q4` · 7 of 57 report an effect size · 60 claims rest on one study
+> **Evidence** · 67 claims (47 show a difference, 15 mixed, 5 no difference) · 60 studies (17 review, 12 qualitative, 10 causal, 8 design, 5 quant-synthesis, 4 associational, 4 theoretical), `q1`–`q4` · 7 of 60 report an effect size · 63 claims rest on one study
 
 ## Description
 The sector, role or setting a scenario must be placed in before a learner recognises it as theirs. This is the course-specific dimension: what counts as a recognisable case differs by subject in a way the other dimensions do not. It changes who appears in a scenario and what a task is *about*, not how hard it is — and it is the dimension most likely to be filled with the designer's own context by default.
@@ -105,6 +105,9 @@ The sector, role or setting a scenario must be placed in before a learner recogn
 - [A student model that is easily ported to another ITS may still fail there, because student behaviour depends on domain, interface, and the system that generated training data, so ported models must be re-tested.](../claims/ported-models-context-sensitive-must-be-retested.md) [+M] — learners who differ on it differ in outcomes
 - [Student reflections share common frequent words across placements but differ between primary and secondary care and across year groups](../claims/text-analytics-reflections-primary-secondary.md) [+M] — learners who differ on it differ in outcomes
 - [The benefits of argument diagramming for citation relevance and opposing evidence are robust across diagramming framework, with no difference between the domain-general and domain-specific frameworks on those measures](../claims/diagramming-benefits-robust-across-frameworks.md) [-M] — an instructional effect differs with it
+- [Replacing the simulated worst-case profile with pupils' own SNS profiles added no measurable benefit](../claims/authentic-own-profile-no-added-value.md) [-M] — instruction changes it
+- [Serious games can provide an authentic physical context and task for professional competencies, though a small number of successful games used neither](../claims/serious-games-authentic-context-task.md) [~M] — instruction changes it
+- [Thematic analysis identified immersion as the dominant theme, with teachers reporting VR could remove physical barriers and provide authentic practice settings for ML2](../claims/vr-themes-immersion-barriers-tours.md) [+M] — instruction changes it
 
 ## The evidence by question
 - *Does setting problems in contexts drawn from learners' interests raise engagement and performance?* [An IES practice-guide presentation recommends personalized problem contexts, asserting without cited studies that students engage more actively and perform better in them](../claims/personalized-problem-contexts-boost-engagement-grades-4-8.md) [+W]
