@@ -53,3 +53,4 @@ Narrative review of early BFLPE studies (Marsh and Parker 1984; Marsh 1987). The
 - [Equally able students report lower academic self-concepts in high-achieving classrooms than in low-achieving classrooms (the Big-Fish-Little-Pond Effect)](bflpe-lower-asc-high-achieving-classrooms.md) — related
 - [Schoolmates' achievement (big-fish-little-pond effect) relates only to academic self-concepts, not to labor market beliefs or disengagement](big-fish-little-pond-only-self-concepts-end-of-schooling.md) — related
 - [BFLPE is stronger on the regular class level and strongest on the domain-specific math class level](math-class-strongest-bflpe-course-tracking.md) — related
+- [Using the ICLS improved students' knowledge of modular programming but produced no significant change in self-esteem or interest in the subject](icls-achievement-gain-self-esteem-null.md) — related

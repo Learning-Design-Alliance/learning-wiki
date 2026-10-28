@@ -52,3 +52,4 @@ Theme 2 subtheme on resources and supportive infrastructure for Latinx youth and
 - [Youth and parents reimagined inclusive, student-engaged learning with bilingual resources, gradual transitions to English coursework, and hands-on activities](inclusive-bilingual-student-engaged-learning.md) — related
 - [Youth and parents reimagined schools with more caring, understanding, and supportive teachers who know students personally and are trained to engage them respectfully](caring-understanding-supportive-teachers-subtheme.md) — related
 - [Youth and parents reimagined schools without discrimination, with clear rules for equitable treatment, and with adults and peers who speak up against discrimination and support them](speaking-up-against-discrimination-allies.md) — related
+- [Teachers report a burden of daily bureaucratic tasks and a desire to automate them](teachers-want-bureaucratic-task-automation.md) — related

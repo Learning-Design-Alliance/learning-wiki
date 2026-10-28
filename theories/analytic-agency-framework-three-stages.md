@@ -46,6 +46,7 @@ The framework treats data analysis as proceeding through three stages: explorati
 
 - [Multimodal pipeline for detecting and analyzing teacher–student group interactions in classroom video](../research-methods/multimodal-analysis.md)
 - [Design teacher-facing analytics that support interpretation of student persistence within classroom contexts](../strategies/teacher-facing-analytics-persistence-interpretation.md)
+- [The Holodeck](../products/the-holodeck.md)
 
 ## Key Sources
 - Hur, P., Palaguachi, C., Machaka, N., Krist, C., Dyer, E. B., D'Angelo, C., & Bosch, N. (2026). A Framework for Considering Exploration, Interpretation, and Confirmation During Data Analysis: Computationally Assisted Analysis of Teacher–Group Interactions. Journal of Educational Data Mining, 18(1). https://jedm.educationaldatamining.org/index.php/JEDM/article/view/1030

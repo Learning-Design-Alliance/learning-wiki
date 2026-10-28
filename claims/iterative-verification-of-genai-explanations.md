@@ -68,3 +68,4 @@ Interview and think-aloud accounts in the ten-participant study. The article rep
 - [Oral and explanation-based evaluation of AI-leveraged projects is complicated because students may break down on counterfactual questions even when they did the work](counterfactual-breakdown-complicates-oral-evaluation.md) — related
 - [The verification threshold trades hallucination reduction against over-refusal, with the default tau of 0.20 providing the best balance](eduguard-verifier-threshold-sensitivity.md) — related
 - [Instructor verification of AI-generated content before delivery is feasible and crucial for quality, per prior systems reviewed](instructor-verification-feasible-crucial.md) — related
+- [Comparative evaluation of AI output taught students that AI is not infallible and reinforced critical reading](ai-comparative-evaluation-critical-reading.md) — related

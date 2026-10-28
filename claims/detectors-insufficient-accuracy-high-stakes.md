@@ -74,3 +74,5 @@ The review reports the Weber-Wulff et al. independent evaluation across "multipl
 - [The system's error detection recall rate for complex rhythm errors was 91.2% ± 1.8%](rhythm-error-detection-recall-91-2.md) — related
 - [Blinded review identified 68% of ChatGPT-generated abstracts as chatbot-produced while 14% of authentic abstracts were misclassified as chatbot-generated](chatgpt-abstract-detection-68-14-percent.md) — a narrower finding that bears on this claim
 - [The stylometric detector misclassified 4 of 18 independently authored documents as GPT-assisted (FPR 22.2%) and 2 of 18 GPT-assisted documents (FNR 11.1%), with wide confidence intervals](stylometric-detector-fpr-22-fnr-11.md) — a narrower finding that bears on this claim
+- [Neither humans nor machines reliably detect machine-generated text; humans detect it at chance level](ai-text-detection-at-chance-level.md) — a narrower finding that bears on this claim
+- [Plagiarism detection software does not detect AI-generated essays because the text is original, not copied](plagiarism-software-fails-on-generated-text.md) — a narrower finding that bears on this claim

@@ -65,3 +65,4 @@ The chapter identifies three failure scenarios as analytical risks, citing prior
 - [Reinforcement learning operationalizes motivational constructs by representing motivation in the reward function](rl-reward-function-operationalizes-motivation.md) — a broader claim this one bears on
 - [The choice of adaptive assessment mechanism should match the assessment's purpose: IRT for time-limited diagnostic tests, MAB for learning-gain formative assessment](adaptive-mechanism-matches-assessment-purpose.md) — related
 - [Optimizing pedagogical parameters on proxy measures risks trading learning for engagement, and simulated students carry their own accuracy limits](proxy-optimization-engagement-trap.md) — a narrower finding that bears on this claim
+- [Micro-optimization models currently transfer poorly across tasks and contexts, and tight fitting to interface or content creates versioning and transferability issues](micro-optimization-transfer-limitations.md) — related

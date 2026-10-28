@@ -13,7 +13,7 @@ generated:
 # Constructed-Response Assessment Items
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 70 claims (22 for, 46 mixed, 2 against) · 53 studies (20 design, 14 associational, 9 causal, 5 review, 2 quant-synthesis, 2 theoretical, 1 qualitative), `q1`–`q4` · 8 of 53 report an effect size · 70 claims rest on one study
+> **Evidence** · 72 claims (22 for, 48 mixed, 2 against) · 54 studies (20 design, 14 associational, 10 causal, 5 review, 2 quant-synthesis, 2 theoretical, 1 qualitative), `q1`–`q4` · 8 of 54 report an effect size · 72 claims rest on one study
 
 ## Description
 Constructed-response items ask students to recall information and produce their own answer rather than recognize a provided one, which reduces guessing compared with [selected-response items](selected-response-assessment-items.md). Two major kinds are used: **completion/short-answer** items (answerable in a word, phrase, number, or symbol — the same underlying format whether phrased as a statement to complete or a question to answer) and **extended-response** items (answers ranging from a paragraph to several pages, often called essay questions when they run long).
@@ -114,6 +114,8 @@ The central disadvantage of extended-response items is unreliable scoring: diffe
 - [MSE loss performed at least as well as cross-entropy loss for pseudo-regression scoring of constructed response items](../claims/mse-loss-at-least-as-effective-as-cross-entropy.md) [+W]
 - [Finetuned DeBERTa-v3-large models achieved human-like agreement on nine of ten NAEP math constructed response items in the held-out test set](../claims/deberta-human-like-agreement-nine-of-ten-naep-math-items.md) [~W]
 - [Inter-rater reliability between human experts and AI coding is very low](../claims/low-irr-experts-vs-ai-coding.md) [~W]
+- [LLMs cannot effectively perform in-context learning for short answer scoring, but cross-prompt pre-finetuning substantially boosts their zero-shot performance](../claims/llm-icl-insufficient-prefinetuning-boosts-zero-shot.md) [~W]
+- [Cross-prompt finetuning of a pre-finetuned 8B LLM on 50 instances per prompt achieves average QWK of 0.85, comparable to professional human graders (0.87)](../claims/cross-prompt-finetuning-8b-human-level.md) [~W]
 
 ## The evidence by question
 - *Which practice format: short answer, multiple choice, or matching the final test?* [Evidence on whether initial short-answer questions produce more learning than initial multiple-choice questions is mixed, with recent studies finding little or no difference](../claims/short-answer-versus-multiple-choice-retrieval-practice-evidence-is-mixed.md) [~M]

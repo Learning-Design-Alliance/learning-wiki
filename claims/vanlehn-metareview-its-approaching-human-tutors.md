@@ -51,3 +51,4 @@ The review reports VanLehn's (2011) meta-review comparing human tutoring and ITS
 - [ITS substitution: meta-analyses find no significant cognitive learning differences between ITS and human tutoring or small-group instruction](its-substitution-equivalent-to-human-tutoring.md) — related
 - [Ma et al. (2014) meta-analysis: step-based ITSs outperformed no tutoring and large-group teacher-led instruction, but showed no differences against small-group or one-to-one human tutoring](ma-2014-its-beats-no-tutoring-large-group-not-small-or-one-to-one.md) — related
 - [AutoTutor's learning gains are virtually equivalent to those of 1-to-1 human tutoring in direct comparisons](autotutor-gains-equivalent-to-human-tutoring.md) — related
+- [Non-expert human tutors follow a limited 5-step collaborative reasoning repertoire, with far more student question-asking than classroom instruction](five-step-frame-human-tutor-corpus.md) — related

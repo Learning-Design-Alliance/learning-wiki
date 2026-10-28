@@ -73,3 +73,4 @@ Evaluation of the Vantage collaboration protocol with 188 Prolific-recruited par
 - [ASR-based item-level accuracy scores show moderate agreement with human raters in a Dutch word decoding and passage reading task](asr-accuracy-moderate-agreement-human-raters.md) — related
 - [The rule-based recipe annotation system reaches near-perfect inter-annotator agreement (Cohen's Kappa 0.85) and average accuracy 0.95 in a validation on sampled recipe segments.](relex-annotation-validation-kappa-accuracy.md) — related
 - [Inter-rater reliability between human experts and AI coding is very low](low-irr-experts-vs-ai-coding.md) — reports the opposite
+- [Sentence-opener-based classification of collaborative skill was imperfect, and connecting openers with closers improved classification](sentence-opener-classification-accuracy.md) — related

@@ -54,6 +54,7 @@ The article recommends that institutions govern generative AI use by redesigning
 - [Institutional recommendations: shift from detection to process-oriented assessment, transparent AI-use protocols, and revised integrity policies](institutional-gai-process-assessment-recommendations.md)
 - [Strategic steps to move beyond informal AI innovation: recognise redesign in workload models, embed innovation in promotion criteria, set institutional AI principles, redesign assessment, and fund scaling pilots](strategic-steps-beyond-informal-ai-innovation.md)
 - [Redesign assessment toward progressive, authentic, and reflective methods rather than intensive paperwork](redesign-assessment-authentic-progressive-methods.md)
+- [Redesign assessment so AI-generated text cannot substitute for student work: reflective, contextualised and project-based assignments](assessment-redesign-reflective-contextualised-assignments.md)
 
 ## Examples
 -

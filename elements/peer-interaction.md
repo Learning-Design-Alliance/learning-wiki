@@ -13,7 +13,7 @@ generated:
 # Peer Interaction
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 21 claims (10 for, 11 mixed) · 25 studies (6 causal, 6 review, 5 associational, 4 qualitative, 2 quant-synthesis, 2 theoretical), `q1`–`q4` · 3 of 25 report an effect size · 19 claims rest on one study
+> **Evidence** · 22 claims (11 for, 11 mixed) · 26 studies (7 review, 6 causal, 5 associational, 4 qualitative, 2 quant-synthesis, 2 theoretical), `q1`–`q4` · 3 of 26 report an effect size · 20 claims rest on one study
 
 ## Description
 Peer interaction places learners in direct engagement with one another through discussion, debate, peer teaching, or collaborative task work. It functions as a social engine for learning: learners articulate ideas, encounter alternative perspectives, and negotiate shared understanding rather than receiving instruction passively.
@@ -71,6 +71,7 @@ Peer interaction supports learning when it requires learners to actively constru
 - [The study examined how LLMs affected group dynamics, idea generation, consensus building, and overall productivity in team-based projects](../claims/llm-effects-on-group-dynamics-idea-generation-consensus-productivity.md) [~W]
 - [The two phases of the argumentative task required different organizing principles, and groups changed or failed to change accordingly](../claims/two-phases-require-different-principles.md) [~W]
 - [Treatment dyads exchanged more words per message and spent more time on chat than control dyads](../claims/clair-dyads-higher-chat-activity.md) [+W]
+- [Online discussion participation predicted team project grades: students who answered others' questions more frequently and had a positive attitude received better grades](../claims/discussion-participation-predicts-project-grade.md) [+W]
 
 ## The evidence by question
 - *Does class time spent with learners talking, explaining and discussing, rather than listening, change what they think about and understand, and does more talk alone do it?* [Discussion promotes more active thinking than lecture, though lecture is no worse for transmitting information](../claims/discussion-promotes-more-active-thought-than-lecture.md) [+S]

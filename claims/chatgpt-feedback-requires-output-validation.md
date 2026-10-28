@@ -58,3 +58,4 @@ Findings on the ChatGPT feedback group in the case study. Students such as John 
 - [Students perceive LLM chatbots as useful for learning but requiring critical use, reporting hallucinations, overconfidence, and dependency risks](students-view-llms-useful-but-requiring-critical-use.md) — related
 - [Students report heightened autonomy in English learning through self-directed regulation, personalized feedback, and active evaluation of ChatGPT suggestions](chatgpt-autonomy-self-directed-learning.md) — related
 - [Effects of AI-generated test case feedback depend critically on feedback validity](test-case-feedback-effects-depend-on-validity.md) — related
+- [Comparative evaluation of AI output taught students that AI is not infallible and reinforced critical reading](ai-comparative-evaluation-critical-reading.md) — related

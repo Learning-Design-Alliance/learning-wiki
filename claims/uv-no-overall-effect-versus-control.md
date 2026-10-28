@@ -75,3 +75,4 @@ In the supplementary dummy-coded replication model comparing each UV condition i
 - [A utility-value writing intervention increases course grades in introductory biology relative to a summarizing control](uv-intervention-increases-biology-grades.md) — reports the opposite
 - [A utility-value writing intervention increases continuation to the second course of the biology sequence](uv-intervention-increases-sequence-continuation.md) — reports the opposite
 - [A utility-value writing intervention increases STEM major persistence across the semester](uv-intervention-increases-stem-major-persistence.md) — reports the opposite
+- [Choice-based personalization did not affect assignment submission likelihood, essay length, or self-reported time-on-task](choice-personalization-no-assignment-effort-effect.md) — related

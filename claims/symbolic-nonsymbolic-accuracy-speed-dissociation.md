@@ -61,3 +61,4 @@ Partial correlations (controlling for intellectual ability) in the 56-child samp
 - [The association between numerical magnitude processing and subtraction is more prominent for items eliciting indirect addition than for direct subtraction items](magnitude-processing-stronger-indirect-addition-items.md) — related
 - [Symbolic magnitude comparison is a stronger longitudinal predictor of mathematical achievement than nonsymbolic comparison](symbolic-stronger-predictor-than-nonsymbolic.md) — related
 - [Decimal magnitude comparison accuracy is unrelated to direction of effect judgment accuracy, indicating the errors do not stem from poor access to decimal magnitudes](decimal-magnitude-comparison-unrelated-direction-of-effect.md) — related
+- [Subtraction skills were the most frequent key skills, with over 50% of children struggling with 0–100 number-line positioning and subtraction with ten crossings](subtraction-and-number-line-key-skills.md) — related

@@ -60,3 +60,4 @@ Correlational analysis within the same algebra study, relating Leppink et al.'s 
 - [Germane cognitive load is reformulated as redistributing working memory resources from extraneous to intrinsic processing rather than adding to total load](germane-load-redistributive-function-reformulation.md) — related
 - [Personalization to student interests improved accuracy on hard knowledge components involving algebraic expression-writing within the tutoring unit](personalization-improves-hard-kc-accuracy-algebra-its.md) — related
 - [Germane load measurement is problematic: GCL-outcome correlations and item understanding show weaknesses across instruments](germane-load-measurement-problems.md) — related
+- [Solving context-personalized AI-generated tasks raises interest more than solving standard tasks](gai-personalized-tasks-interest.md) — related

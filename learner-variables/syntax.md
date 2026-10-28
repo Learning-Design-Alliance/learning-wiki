@@ -13,7 +13,7 @@ generated:
 # Syntax
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 40 claims (23 show a difference, 9 mixed, 8 no difference) · 30 studies (9 associational, 6 causal, 6 review, 4 quant-synthesis, 3 design, 2 theoretical), `q2`–`q3` · 1 of 30 report an effect size · 37 claims rest on one study
+> **Evidence** · 41 claims (23 show a difference, 9 mixed, 9 no difference) · 31 studies (9 associational, 7 causal, 6 review, 4 quant-synthesis, 3 design, 2 theoretical), `q2`–`q3` · 1 of 31 report an effect size · 38 claims rest on one study
 
 ## Description
 Syntax is knowledge of how sentences work: how the order of words, the arrangement of clauses and the use of punctuation change what a sentence means. Readers draw on it to work out who did what to whom in a long sentence, and writers draw on it to turn an idea into a sentence that says what they intend. It is assessed through samples of a learner's speech or writing, coded for features such as words per clause and clauses per sentence, and through standardised language batteries with syntax subtests.
@@ -78,6 +78,7 @@ Syntactic knowledge starts to develop in early childhood and keeps growing throu
 - [Non-phonological cognitive skills correlate with AV learning efficiency: syntactic comprehension in reading-matched and DD groups, cognitive flexibility in DD, and verbal working memory in age-matched children](../claims/nonphonological-skills-correlate-av-learning.md) [~M] — learners who differ on it differ in outcomes
 - [Longitudinal learner data reveal individual differences in grammar acquisition not apparent in aggregate data, calling for fine-grained student models](../claims/longitudinal-data-reveal-fine-grained-learner-variability.md) [+W] — instruction changes it
 - [Students identified lack of sensitivity to linguistic nuance as a limitation of AWA feedback](../claims/awa-lacks-sensitivity-linguistic-nuance.md) [~W] — an instructional effect differs with it
+- [No significant difference in syntactic quality scores of questions across the three agent conditions](../claims/syntactic-scores-similar-across-agents.md) [-M] — instruction changes it
 
 ## Measures
 - **Measures of syntactic complexity** (Beers & Nagy, 2007): Student writing samples are coded to identify how many words per clause and clauses per T-units (sentences) students use.

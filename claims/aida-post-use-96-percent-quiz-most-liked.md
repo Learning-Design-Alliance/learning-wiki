@@ -52,3 +52,4 @@ Study 6 post-test perceptions; the experimental group rated all core AIDA functi
 - [Attitudes toward AI improved after direct experience, and satisfaction was predicted by within-turn production fluency rather than linguistic uptake](satisfaction-predicted-by-production-fluency-not-uptake.md) — related
 - [Students express willingness to integrate GenAI in learning and future careers, and willingness correlates with knowledge and frequency of use](students-willing-to-use-genai-correlates.md) — related
 - [Students scored an average of 4.3 out of 5 on a Markdown quiz after watching the AI-generated videos, suggesting short-term learning](ai-video-viewing-yields-quiz-scores-4-3.md) — related
+- [Most students would reengage with context-personalized tasks and prefer them over standard tasks, across both experimental conditions](gai-reengagement-task-preference.md) — related

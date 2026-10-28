@@ -9,6 +9,7 @@ generated:
   at: 2026-10-27
 evidence_strength: weak
 newest_evidence: 2017
+source_checked: 2026-10-28
 sources:
   - id: passonneau-2017
     resource: "https://doi.org/10.1007/s40593-017-0158-8"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
-> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2017 · checked against its sources 2026-10-28 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` College students using argument diagramming tools produced significantly more relevant citations and examples of opposing evidence than controls, and the domain-specific psychology tool group showed greater validity of supporting and opposing citations. [→ Passonneau 2017](#passonneau-2017)
@@ -52,3 +53,7 @@ The editors report, citing Barstow et al., a study contrasting a control group w
 - [Diagramming scaffold also improves absolute metacomprehension accuracy for causal relations, extending the effect beyond relative accuracy](diagramming-improves-absolute-metacomprehension-accuracy.md) — related
 - [Adding diagram self-assessment to diagram completion does not increase diagnostic cue utilization or metacomprehension accuracy beyond diagramming alone](self-assessment-scaffold-no-added-benefit.md) — related
 - [Diagramming conditions show no significant differences from control in regulation measures or reading comprehension test scores for causal relations](diagramming-no-effect-regulation-test-scores.md) — related
+- [The benefits of argument diagramming for citation relevance and opposing evidence are robust across diagramming framework, with no difference between the domain-general and domain-specific frameworks on those measures](diagramming-benefits-robust-across-frameworks.md) — related
+- [Students given argument diagramming support are significantly more likely to include opposing evidence in their research paper introductions than unsupported students](diagramming-increases-opposing-evidence.md) — possibly the same claim (merge candidate)
+- [A psychology-specific diagramming framework produces trend-level increases in writing about the validity of supporting citations, compared with no support](psychology-specific-framework-validity-writing.md) — reports the opposite
+- [Inclusion of supporting evidence did not differ significantly across diagramming iterations, with only a trend-level difference between the domain-specific and domain-general groups](supporting-evidence-no-significant-difference.md) — related

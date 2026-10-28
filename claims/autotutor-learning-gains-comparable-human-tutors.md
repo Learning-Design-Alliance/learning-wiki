@@ -52,3 +52,5 @@ Narrative review attribution: the review reports, citing Graesser et al. [88], t
 - [AutoTutor cannot handle most student questions, so student question frequency extinguishes quickly in tutoring sessions](autotutor-student-questions-extinguish.md) — related
 - [AutoTutor's learning gains are virtually equivalent to those of 1-to-1 human tutoring in direct comparisons](autotutor-gains-equivalent-to-human-tutoring.md) — possibly the same claim (merge candidate)
 - [The review reports that AutoTutor improves learning by nearly one letter grade compared with reading a textbook for an equivalent time or with a pretest](autotutor-improves-learning-one-letter-grade.md) — related
+- [AutoTutor produces learning gains averaging about 0.8 standard deviations over static-textbook controls, and bystanders cannot distinguish its tutoring turns from a human tutor's](autotutor-learning-gains-0-8-sigma.md) — related
+- [In WHY2 physics studies, AutoTutor outperformed read-textbook and no-materials controls and performed comparably to WHY2/Atlas and non-expert human tutors](why2-autotutor-physics-gains.md) — a narrower finding that bears on this claim

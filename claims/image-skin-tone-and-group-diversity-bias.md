@@ -66,3 +66,4 @@ Multi-person analysis of the same 500-image corpus; Imagen 4 shows a significant
 
 ## Related Claims
 - [Text-to-image models generating single-person software engineering images predominantly depict men, with a strong significant effect for both evaluated models](single-person-image-gender-bias.md) — related
+- [Cultural difference and inclusion challenges affect equity: 53% of relevant papers flag insufficient cross-cultural tailoring, and facial recognition misidentifies darker skin tones](aied-cultural-inclusion-challenges.md) — related

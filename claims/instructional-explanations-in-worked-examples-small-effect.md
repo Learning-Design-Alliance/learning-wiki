@@ -48,3 +48,4 @@ The review reports the meta-analysis by Wittwer and Renkl (2010) on instructiona
 ## Related Claims
 - [Self-explanation beats unguided studying for equal time, but instructional explanations, problem solving and retrieval practice can be equally or more effective](instructional-explanations-sometimes-equal-or-better-than-self-explanation.md) — related
 - [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](self-explanation-improves-conceptual-understanding.md) — related
+- [Alternating examples and problems yielded more learning and more conceptual knowledge than examples alone or problem-solving alone](examples-plus-problems-beat-examples-alone.md) — related

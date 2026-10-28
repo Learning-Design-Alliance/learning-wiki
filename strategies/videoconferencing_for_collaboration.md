@@ -66,6 +66,7 @@ Videoconferencing can support [Collaborative Learning](../principles/collaborati
 - [Case-Based Learning](../patterns/case-based-learning.md) — small-group case analysis translates naturally to breakout-room formats
 - [Discussion-Based Learning](../principles/collaborative-learning.md) — videoconferencing is the remote carrier for discussion, but requires tighter facilitation
 - [Invite students to co-facilitate tasks by typing content into the shared whiteboard or chat](student-co-facilitation-via-shared-chat-typing.md)
+- [Provide real-time learning-process support to distant learners during case study solution](real-time-learning-process-support-strategy.md)
 
 ## Examples
 - **Microsoft Teams** (https://www.microsoft.com/education/products/teams) — channels, breakout rooms, and integrated Office co-editing; widely used in K-12 and higher education for project groups.

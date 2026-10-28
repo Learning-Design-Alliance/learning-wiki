@@ -49,3 +49,4 @@ Cluster-analysis study comparing bottom-up clusters from three LLM embedding mod
 - [A discoverability bias favors correct responses: the highest-quality KP is retrieved far better than all other KPs across embedding models and clustering algorithms](discoverability-bias-favors-correct-responses.md) — related
 - [LLMs show discoverability bias: they accurately identify only high-quality open-ended biology responses and miss nuanced misconceptions](llm-discoverability-bias-open-ended-biology-assessment.md) — related
 - [A small monolingual embedding model (AlephBERT) outperformed larger multilingual models on KP retrieval in both ARI and per-KP F1 analyses](monolingual-small-model-outperforms-multilingual-kp-retrieval.md) — a broader claim this one bears on
+- [HDBSCAN clustering of BERT embeddings yielded fifteen clusters capturing the content and complexity of students' mechanistic reasoning](hdbscan-clusters-capture-reasoning-content-and-complexity.md) — related

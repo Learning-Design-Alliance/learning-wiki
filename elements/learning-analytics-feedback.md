@@ -13,7 +13,7 @@ generated:
 # Learning Analytics-Driven Feedback
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 71 claims (24 for, 34 mixed, 13 against) · 60 studies (19 review, 19 associational, 9 theoretical, 5 design, 4 causal, 4 qualitative), `q1`–`q3` · 4 of 60 report an effect size · 68 claims rest on one study
+> **Evidence** · 72 claims (24 for, 35 mixed, 13 against) · 61 studies (20 review, 19 associational, 9 theoretical, 5 design, 4 causal, 4 qualitative), `q1`–`q3` · 4 of 61 report an effect size · 69 claims rest on one study
 
 ## Description
 In face-to-face instruction, a teacher can visually notice disengagement or confusion; a distance instructor cannot, and many learners fail to recognize their own need for help or fail to seek it even when it is available ([Baker & Inventado, 2016](https://edtechbooks.org/lidtfoundations/educational_data_mining_and_learning_analytics)). Educational data mining (EDM) and learning analytics (LA) address this by mining the large amounts of interaction data online and distance courses generate — content-management, discussion-forum, gradebook, and clickstream data — to build models that predict which learners are at risk and to surface feedback that would otherwise depend on an instructor noticing in person.
@@ -117,6 +117,7 @@ These models feed three uses that benefit learners directly: **automated feedbac
 - [AIED harms are relational, arising from datafication reductions and falling hardest on less privileged groups](../claims/aied-harms-relational-differential.md) [-W]
 - [Reviewed CSCL systems are further characterized by interaction data type, derivation processes, and feedback type](../claims/cscl-systems-characterized-data-processes-feedback.md) [~W]
 - [Local explanations from SHAP and LIME show feature contributions but do not indicate whether a feature value should be increased or decreased to improve the prediction.](../claims/local-explanations-lack-directional-guidance.md) [~W]
+- [The special issue reports a deep learning approach to predicting student purchasing behaviour and drop-out in MOOCs](../claims/deep-learning-predicts-mooc-dropout-purchasing.md) [~W]
 
 ## The evidence by question
 

@@ -47,3 +47,4 @@ Definitional/historical statement in the report's 'The Forerunners' section abou
 
 ## Related Claims
 - [PBL offers potential to help students develop flexible understanding and lifelong learning skills](pbl-potential-flexible-understanding-lifelong-learning.md) — related
+- [The study generalizes individual fairness to education by targeting equal principle consistency for all learners without pairwise learner similarity](individual-fairness-generalized-equal-consistency-all-learners.md) — related

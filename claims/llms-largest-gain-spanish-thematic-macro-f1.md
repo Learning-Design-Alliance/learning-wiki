@@ -51,3 +51,5 @@ Descriptive comparison across arms on the unified 233-comment Spanish held-out s
 - [The small open-weights Qwen2.5-1.5B model is the weakest arm in both languages, with Spanish thematic weighted F1 of 0.31 zero-shot rising to 0.63 with few-shot](qwen-15b-weakest-arm-fewshot-recovers.md) — related
 - [On Spanish sentiment, the 2026 frontier model shows no advantage over the cheap model, with Haiku zero-shot at 0.923 versus Opus zero-shot at 0.884 and the head-to-head McNemar favoring Haiku](frontier-no-spanish-sentiment-advantage-over-cheap.md) — related
 - [Self-hosted open-weight LLMs offer privacy, reproducibility, and environmental advantages over commercial LLM interfaces in educational ITSs](self-hosted-llm-advantages-education.md) — related
+- [State-of-the-art embedding-based keyphrase models degrade on lecture slides while TF-IDF generalizes better to them](embedding-keyphrase-models-degrade-lecture-slides.md) — related
+- [Sentence-opener-based classification of collaborative skill was imperfect, and connecting openers with closers improved classification](sentence-opener-classification-accuracy.md) — related

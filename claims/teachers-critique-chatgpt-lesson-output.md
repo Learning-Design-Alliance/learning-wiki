@@ -66,3 +66,4 @@ Reflexive thematic analysis of the same 11 teachers' written responses (Table 2 
 - [Students frequently reported that personalized problem topics did not match their interests](students-report-topic-mismatch-interests.md) — related
 - [Teachers actively use AI tools but face challenges with content accuracy and usage guidelines](teachers-ai-tool-use-accuracy-concerns.md) — related
 - [For exam-oriented learners, trust in AI tutors hinges on curriculum fit: students abandon mathematically correct solutions that use out-of-syllabus methods](curriculum-fit-determines-trust-investment.md) — related
+- [Teachers report a need for faster lesson planning and material preparation to gain time for higher-value activities](teachers-need-faster-lesson-planning.md) — related

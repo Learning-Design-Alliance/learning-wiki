@@ -58,3 +58,4 @@ The article's abstract reports the headline outcome of its comparative evaluatio
 - [Balancing the dataset significantly improved model predictive performance but increased bias under demographic parity](data-balancing-improves-accuracy-increases-bias.md) — related
 - [Fairness of AI outputs remains under-evaluated in edtech research](ai-output-fairness-under-evaluated-edtech.md) — related
 - [Bias in predicting learning productivity, measured as accuracy differences across gender and parental educational background, was highly dependent on the ML method used](bias-dependent-on-ml-method.md) — related
+- [A post-processing re-ranking approach balancing personalization and equality of recommended opportunities leads to higher equality with negligible loss in personalization, as reported by the authors](postprocessing-reranking-higher-equality-negligible-personalization-loss.md) — related

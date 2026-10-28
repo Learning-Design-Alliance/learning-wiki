@@ -90,3 +90,4 @@ Thematic synthesis codes 3 studies to over-reliance on AI, reporting that "Exces
 - [Over-reliance on AI in chemical experimentation carries ethical considerations and pitfalls as AI automates routine tasks and alters how experiments are conceptualized](ai-overreliance-pitfalls-chemistry-experimentation.md) — related
 - [Persistent challenges include feedback inaccuracy, learner overreliance, and limited transparency](customized-ai-writing-persistent-challenges.md) — related
 - [A 2025 systematic review reports that AI tools raising social presence and emotional engagement may improve AI-supported collaborative learning outcomes](emotional-engagement-social-presence-ai-collaborative-learning.md) — related
+- [Sustained interactive dialogue with generative AI over 14 weeks may catalyze rather than constrain learner agency, unlike shorter one-way automated feedback](sustained-ai-dialogue-catalyzes-agency.md) — related

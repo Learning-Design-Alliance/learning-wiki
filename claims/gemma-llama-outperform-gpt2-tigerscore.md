@@ -50,3 +50,5 @@ Explainable error analysis of counterfactual fine-tuned model replies using TIGE
 - [Zero-shot LLMs perform only marginally above random in five-class competency classification but exceed 70% accuracy on binary classification](zero-shot-llm-granularity-competency-classification.md) — related
 - Three LLMs fine-tuned on teacher-validated feedback reach reported training losses with qualitative teacher validation — related
 - [Model selection experiments show newer models are not strict improvements, with component-specific effects on quality metrics](model-migration-component-specific-metric-effects.md) — related
+- [The special issue reports that a GPT-2 model could provide supportive and contextual replies to MOOC learners to a similar extent as humans](gpt2-mooc-forum-replies-similar-to-humans.md) — related
+- [GPT-2 outperformed an LSTM-based RNN on word perplexity, readability, and cosine-similarity coherence when generating MOOC forum replies](gpt2-outperformed-rnn-mooc-nlg.md) — related

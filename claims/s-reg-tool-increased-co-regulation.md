@@ -47,3 +47,4 @@ The review reports the S-Reg tool study attributed to Järvenoja et al. (2017), 
 ## Related Claims
 - [Temporal phases of co-regulation matter: prolonged early planning to establish shared goals and common ground facilitates co-regulation and collaboration in later phases](temporal-phases-prolonged-early-planning-facilitates-later-co-regulation.md) — related
 - [In-situ analysis of challenge episodes reveals a wide range of cognitive, motivational, emotional, and socially oriented micro-level challenges in collaborative learning](challenge-episodes-reveal-micro-level-challenges.md) — related
+- [Students tended to ignore adaptive prompts while collaborating, motivating socially sensitive or implicit support](students-ignore-adaptive-prompts-collaborating.md) — related

@@ -49,6 +49,7 @@ The article recommends that VLC research follow the Belmont Report principles: "
 - [Deploy agentic AI in education with transparency about agentic decisions, human oversight and institutional responsibility](responsible-deployment-transparency-human-oversight-agentic-ai.md)
 - [Address core ethical challenges—data privacy, algorithmic fairness, and transparency—when deploying AI-driven personalized learning](ethical-safeguards-ai-personalized-learning.md)
 - [Use explainability tools (SHAP/LIME) and human monitoring for fair, transparent AI-driven personalized learning](explainability-tools-human-monitoring-personalized-learning.md)
+- [Pursue open AIED-in-MOOCs research directions: sensing-based affective modeling for embodied adaptive learning and MOOC data visualization for stakeholder feedback](ai4moocs-open-research-directions.md)
 
 ## Examples
 -

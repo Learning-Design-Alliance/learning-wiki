@@ -73,3 +73,4 @@ Bootstrap post-hoc pairwise comparisons after the significant omnibus ANCOVA. AV
 - [AVG training effects are specific to phonemic awareness, with no significant gains in phonological working memory or rapid automatized naming](avg-training-null-pwr-ran.md) — related
 - [Fifty hours of action video-game training causally improves probabilistic inference in non-gamers, with better use of evidence only in the action-trained group](action-training-causal-probabilistic-inference.md) — related
 - [Action video game training causally improves cognitive skills relative to active control training (small effect, g = 0.30)](avg-training-causal-improvement-g-030.md) — related
+- [Six weeks of adaptive training produced a significant improvement in subtraction relative to a waiting control group](calcularis-training-significant-subtraction-gains.md) — related

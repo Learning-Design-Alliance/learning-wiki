@@ -53,3 +53,5 @@ Theoretical argument of the special-issue editors framing the edition's four pap
 - Argumentation is one of the most-attended CSCL subareas, reviewed comprehensively by Scheuer, Loll, Pinkwart and McLaren in this issue — related
 - [The editors identify sequentiality of CSCL discourse — how one action takes up a previous action in online interaction — as a central, under-theorized problem](sequentiality-central-problem-cscl-discourse.md) — related
 - Wise and Schwarz's eight provocations, per Rummel, emphasize important CSCL dimensions but do not develop a common position, prompting a proposed taxonomy for a shared field agenda. — related
+- [Timing of support poses the assistance dilemma, and no empirically validated principles yet exist for when and how much support to give collaborating students](assistance-dilemma-timing-no-validated-principles.md) — related
+- [An empirical qualitative study of paired distance collaboration informed the design of LeCS](empirical-qualitative-study-informed-lecs-design.md) — a narrower finding that bears on this claim

@@ -13,7 +13,7 @@ generated:
 # Prior Knowledge
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 193 claims (115 show a difference, 55 mixed, 23 no difference) · 153 studies (48 causal, 32 review, 25 associational, 22 theoretical, 9 quant-synthesis, 9 qualitative, 8 design), `q1`–`q4` · 21 of 153 report an effect size · 176 claims rest on one study
+> **Evidence** · 196 claims (118 show a difference, 55 mixed, 23 no difference) · 155 studies (48 causal, 32 review, 26 associational, 22 theoretical, 9 quant-synthesis, 9 qualitative, 9 design), `q1`–`q4` · 22 of 155 report an effect size · 179 claims rest on one study
 
 ## Description
 A learner's existing domain knowledge in the subject area before instruction begins — the organized network of concepts, procedures, and experiences that new learning must connect to. It is typically operationalized as a pretest score, a standardized prior-achievement measure, or instructor-rated expertise level, and functions as the single strongest predictor of learning gains in most instructional research [~S]. Prior knowledge is the learner-side variable that drives the [Expertise Reversal Effect](../theories/expertise-reversal-effect.md): the same technique that helps novices can hinder more knowledgeable learners.
@@ -241,6 +241,9 @@ The Learner Variability Navigator's Core Academic Literacies factor belongs here
 - [Low Prior Knowledge students achieved significantly higher normalized learning gains than High Prior Knowledge students](../claims/lpk-normalized-gain-exceeds-hpk.md) [+M] — learners who differ on it differ in outcomes
 - [Pre-test score differences do not explain the cross-cultural differences in effective help-seeking behaviors](../claims/pretest-does-not-explain-cultural-differences.md) [-M] — learners who differ on it differ in outcomes
 - [The effect of practice schedules on learning outcomes depends on students' prior knowledge.](../claims/schedule-effect-depends-prior-knowledge.md) [+W] — an instructional effect differs with it
+- [Hands-on collaborative activity in responsive environments helps learners understand from multiple perspectives and begin to become experts (authors' reported experience)](../claims/hands-on-collaboration-becoming-experts.md) [+W] — instruction changes it
+- [Sequence mining detects distinct SRL process sequences by prior knowledge group: high prior knowledge students generated more frequent sequences and predominantly accurate metacognitive judgment sequences](../claims/sequence-mining-detects-srl-sequences-by-prior-knowledge.md) [+M] — learners who differ on it differ in outcomes
+- [Students with low prior knowledge show significantly higher proportional learning gains than students with high prior knowledge when learning with MetaTutor](../claims/lpk-higher-proportional-learning-gain-metatutor.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does knowing more beforehand mean learning more from the instruction?* [Prior Knowledge Determines New Learning](../claims/prior-knowledge-determines-new-learning.md) [+M]

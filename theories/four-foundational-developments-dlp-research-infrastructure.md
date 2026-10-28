@@ -53,6 +53,7 @@ The article organizes the history of DLP-based research infrastructure into four
 - [Teacher-as-researcher experimental design via Terracotta in Canvas](../strategies/terracotta-teacher-as-researcher.md)
 - [Invest in social structures and cross-disciplinary standards to strengthen the DLP research community](../strategies/invest-social-structure-and-standards-dlp-community.md)
 - [Grow a peer review community that understands the affordances and limits of DLP-based research](../strategies/peer-review-community-dlp-research.md)
+- [Build a publicly available repository of standardised datasets for item difficulty prediction research](../strategies/standardised-difficulty-dataset-repository-strategy.md)
 
 ## Key Sources
 - Schellinger, A., & Roschelle, J. (2024, January). Looking Back to Move Forward. Digital Promise. https://doi.org/10.51388/20.500.12265/203

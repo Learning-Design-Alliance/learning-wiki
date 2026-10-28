@@ -61,8 +61,10 @@ Problem solving works because generating a solution forces retrieval, elaboratio
 7. Follow with a second, structurally similar problem to consolidate the schema ([Analogical Reasoning](../principles/analogical-reasoning.md)).
 
 ## Related Strategies
+
 - [Case-Based Learning](../patterns/case-based-learning.md) — problems embedded in narrative cases; supplies the authenticity problem solving needs
 - [Productive Failure](productive-failure.md) — a specific sequencing of problem solving before instruction
+- [Provide real-time learning-process support to distant learners during case study solution](real-time-learning-process-support-strategy.md)
 
 ## Related Elements
 - [Coaching](../elements/coaching.md) — the facilitation stance that keeps problem solving guided without taking over

@@ -75,3 +75,4 @@ In the Denton, Ory, Glassnap, & Poggio (1976) study included in the synthesis, g
 - [Cognitive apprenticeship students became more anxious about mathematics but reported gains in self-confidence, rapport, and enjoyment](cognitive-apprenticeship-attitude-anxiety-confidence-effects.md) — related
 - [Group-based mastery learning programs yield positive achievement effects in every included study, but effect sizes vary so widely that an average was deemed inappropriate](group-mastery-positive-achievement-all-studies.md) — related
 - [Mastery and control groups show no significant differences in entry knowledge, academic self-concept, or affect toward education](mastery-control-no-entry-differences.md) — related
+- [Using the ICLS improved students' knowledge of modular programming but produced no significant change in self-esteem or interest in the subject](icls-achievement-gain-self-esteem-null.md) — related

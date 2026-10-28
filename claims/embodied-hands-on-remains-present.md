@@ -55,3 +55,4 @@ Thematic review finding across the included corpus: the review reports that sket
 - [Physical Experience Enhances Science Learning](physical-experience-enhances-science-learning.md) — a broader claim this one bears on
 - [Multiple representations improve learning](multiple-representations-improve-learning.md) — a broader claim this one bears on
 - [Language becomes an operational medium in AI-supported design, with risks of narrowing exploration](language-operational-medium-design-ai.md) — related
+- [Hands-on collaborative activity in responsive environments helps learners understand from multiple perspectives and begin to become experts (authors' reported experience)](hands-on-collaboration-becoming-experts.md) — related

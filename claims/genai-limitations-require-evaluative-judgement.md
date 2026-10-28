@@ -68,3 +68,4 @@ Literature synthesis in the processing-feedback section. The paper cites Essien 
 - [Judgement is theorized as the evaluative locus of educational integrity within GenAI-augmented authorship](judgement-locus-of-educational-integrity.md) — related
 - [Most students reported improved output-evaluation competence after comparing their own text analysis with LLM-generated analyses](output-evaluation-competence-gains.md) — a narrower finding that bears on this claim
 - [ChatGPT users report fabricated references and wrong sources from auto-generated literature content](chatgpt-fabricated-references-wrong-sources.md) — related
+- [Human-AI writing practices were perceived to enhance doctoral students' cognitive and metacognitive engagement, confidence, and learner agency](ai-writing-engagement-confidence-agency.md) — related

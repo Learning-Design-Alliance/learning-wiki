@@ -28,6 +28,7 @@ ASPIRE is an authoring system and deployment environment developed for creating 
 
 - [Generalized Intelligent Framework for Tutoring (GIFT)](generalized-intelligent-framework-for-tutoring-gift.md)
 - [KERMIT](kermit.md)
+- [SQL-Tutor](sql-tutor.md)
 
 ## Key Sources
 - Giles Westerfield, Antonija Mitrovic & Mark Billinghurst. (2015). Intelligent Augmented Reality Training for Motherboard Assembly. Int J Artif Intell Educ 25:157–172. https://doi.org/10.1007/s40593-014-0032-x

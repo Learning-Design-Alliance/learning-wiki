@@ -42,7 +42,9 @@ The institute design rested on three complementary lenses treated as interconnec
 - 
 
 ## Related Designs
+
 - [Ubridge Six Week Faculty Ai Institute](ubridge-six-week-faculty-ai-institute.md)
+- [Graduated levels of AI integration aligned with Bloom's taxonomy and the AI Assessment Scale](graduated-ai-integration-levels-blooms.md)
 
 ## Examples
 -

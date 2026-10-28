@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/curiosity-trait-predicts-qa-open-agent.md
+---
+
+# Revision history: [claims/curiosity-trait-predicts-qa-open-agent](../claims/curiosity-trait-predicts-qa-open-agent.md)
+
+### 2026-10-28 · ingest · process:wiki-ingest
+Ingested from jrnl-dbb2e1700dfb (GPT-3-Driven Pedagogical Agents to Train Children’s Curious Question-Asking Skills) via eval_harness.py + ingest_extractions.py

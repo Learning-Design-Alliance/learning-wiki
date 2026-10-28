@@ -47,3 +47,4 @@ The article cites a small randomized controlled study (Arroyo et al. 2010b) comp
 ## Related Claims
 - [ML-based question selection (SELECT) lowers learners' normalized empirical forgetting rate relative to difficulty-ordered and random selection after controlling for review time and number of reviews](select-algorithm-lower-forgetting-rate-rct.md) — related
 - [In simulated online mastery learning, BKT gave the fewest problems, Streak the second fewest, Random the most, and DKT gave almost as many as Random in one problem type and the least in the other two](problem-counts-by-knowledge-tracing-condition.md) — related
+- [MORE's effort-based motivational strategy resembles the later Wayang Outpost strategy in effort feedback and difficulty adjustment](more-resembles-wayang-outpost-effort-strategy.md) — related

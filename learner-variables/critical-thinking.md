@@ -13,7 +13,7 @@ generated:
 # Critical Thinking
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 72 claims (50 show a difference, 17 mixed, 5 no difference) · 53 studies (18 causal, 11 review, 9 associational, 6 theoretical, 5 qualitative, 3 design, 1 quant-synthesis), `q1`–`q3` · 11 of 53 report an effect size · 70 claims rest on one study
+> **Evidence** · 74 claims (51 show a difference, 18 mixed, 5 no difference) · 55 studies (18 causal, 12 review, 10 associational, 6 theoretical, 5 qualitative, 3 design, 1 quant-synthesis), `q1`–`q3` · 13 of 55 report an effect size · 72 claims rest on one study
 
 ## Description
 Critical thinking is purposeful, reasoned evaluation: asking who is presenting information, in what context and on what evidence, considering several perspectives and kinds of evidence before drawing an inference, and using that to make decisions and solve problems. It combines a set of reasoning skills with a disposition to use them. It is often measured by questionnaires about attitudes toward critical thinking, as well as by reasoning tasks.
@@ -112,6 +112,8 @@ It draws on [metacognition](metacognition.md) (monitoring one's own reasoning), 
 - [A perspective article warns that students risk overreliance on LMFM outputs and that overuse may impede critical thinking, research skills, and independent problem-solving](../claims/lmfm-overreliance-impedes-critical-thinking.md) [~W] — instruction changes it
 - [Debugging GenAI-generated code fosters critical, reflective, logical, and adaptive thinking skills](../claims/debugging-genai-code-fosters-thinking-skills.md) [+M] — instruction changes it
 - [Overreliance on GenAI risks diminishing higher-order thinking skills and programming logic](../claims/genai-overreliance-risks-hots-programming-logic.md) [~M] — instruction changes it
+- [Metacognition and critical-thinking tutors show mixed results: Operation ARA gained 1.4 σ, SEEK showed no significant improvement, and MetaTutor's learning-efficiency advantage disappeared when agent time was counted](../claims/metacognition-tutoring-mixed-outcomes.md) [~W] — instruction changes it
+- [Sixth-grade students using CTSiM showed significant pre-to-post gains on acceleration, diffusion, and CT tests, with moderate effect sizes for acceleration (0.43) and CT (0.57) and a large effect size for diffusion (0.9)](../claims/ctsim-significant-pre-post-gains-domain-ct.md) [+M] — instruction changes it
 
 ## Measures
 - **California Critical Thinking Disposition Inventory** (Facione et al., 2001): learner questionnaire on attitudes and dispositions toward critical thinking.

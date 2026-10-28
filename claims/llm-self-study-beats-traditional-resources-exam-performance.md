@@ -56,3 +56,4 @@ Randomized controlled experiment at Texas A&M University with 179 participants, 
 - [AI access raises immediate unaided test scores by 7.2 percentage points (0.28 SD) after a timed learning phase](genai-access-raises-immediate-test-scores.md) — related
 - [Persistence and performance costs concentrate among participants who used the AI to obtain direct solutions, while hint-users resemble controls](persistence-costs-concentrated-among-direct-solution-users.md) — related
 - [LLM-enhanced feedback did not yield a statistically significant improvement in final grades compared with traditional AI feedback](llm-feedback-no-significant-grade-gain.md) — related
+- [Solving context-personalized AI-generated tasks yields higher learning performance than solving standard tasks](gai-personalized-tasks-learning-performance.md) — related

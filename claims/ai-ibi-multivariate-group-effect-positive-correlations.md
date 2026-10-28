@@ -68,3 +68,4 @@ Secondary correlational analysis within both the experimental and control groups
 - [Visualization format has a large multivariate and univariate effect on identifying motions and spatial arrangements](manova-omnibus-visualization-format-effect.md) — related
 - [Cluster membership showed a strong multivariate effect on standard text-similarity metrics (Pillai's trace = 0.85, F(12, 248) = 15.31, p < 0.001)](manova-cluster-effect-text-metrics.md) — related
 - [The learning-performance MANOVA showed an overall effect of learning instruction across identification, terminology, and comprehension](omnibus-manova-learning-performance-effect.md) — a narrower finding that bears on this claim
+- [Human and GPT-2-generated replies differed significantly overall and in informational support, but not in emotional or community support](human-vs-gpt2-support-types-manova.md) — a narrower finding that bears on this claim

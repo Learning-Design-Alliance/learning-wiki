@@ -13,7 +13,7 @@ generated:
 # Informal Learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Boileau (2019), drawing on Jay Cross, frames formal and informal learning as opposite ends of a continuum rather than a strict dichotomy. Formal learning is "pushed" to learners according to a predetermined curriculum decided by someone else — "like riding a bus: the driver decides where the bus is going; the passengers are along for the ride" (Cross, 2007, p. 236). Informal learning is "pulled" by the learner's own perceived need — "like riding a bike; the rider chooses the destination, the speed, and the route" (Cross, 2007, p. 236) — and is unofficial, self-directed, and situated in meaningful, performance-linked experience rather than separated in time and place from its application.
@@ -49,6 +49,7 @@ Boileau also notes a cultural dimension: informal, experiential learning is unde
 
 ## Claims
 
+- [Learners' daily learning time is shifting from formal schooling toward informal learning, with informal learning now taking roughly half of learners' daily learning time](../claims/informal-learning-shift-half-of-daily-time.md) [+W]
 
 ## Related Principles
 - [Performance Technology](performance-technology.md) — Performance Support Tools (sidekicks and planners) are one of the concrete mechanisms through which informal learning is supported and mediated

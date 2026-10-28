@@ -12,7 +12,7 @@ generated:
 # Non-disturbing engagement monitoring via game-play interaction logging and physiological sensing
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 2 studies (1 review, 1 design), `q2` · 0 of 2 report an effect size
 
 ## Description
 The article distinguishes disturbing methods (questionnaires interrupting game-play) from non-disturbing methods that monitor engagement "without interrupting the game-play and game flow". Non-disturbing methods log player behaviour automatically and may add physiological equipment such as EEG or eye-tracking. ToTCompute exemplifies this pattern by combining game-playing event logs (task start/stop timestamps) with continuous EEG-based engagement recording during game-play.

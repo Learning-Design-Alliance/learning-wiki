@@ -46,3 +46,4 @@ Exploratory order analysis with randomized task order: final responses increased
 
 ## Related Claims
 - [A single debiasing training session significantly increases both intuitive and deliberate accuracy on classic reasoning tasks compared to control](single-session-debiasing-boosts-intuitive-accuracy.md) — related
+- [Reporting errors were significantly reduced in every training session of the VBSA-trained group compared to the control group, and implementation errors were reduced from first to last training session](vbsa-reduces-reporting-and-implementation-errors.md) — related

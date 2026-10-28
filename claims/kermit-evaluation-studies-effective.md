@@ -49,3 +49,4 @@ The abstract reports two evaluation studies conducted "in the context of genuine
 - [Students enjoyed KERMIT's adaptability and found it a valuable asset to their learning](kermit-students-enjoyed-adaptability.md) — related
 - [KERMIT observes students' actions and adapts to their knowledge and learning abilities](kermit-adapts-to-student-actions.md) — related
 - [Constraint-Based Modelling can support students learning open-ended design tasks, not only procedural domains](cbm-supports-design-tasks.md) — related
+- [Open student models in e-KERMIT had a positive effect on learning, and most students explored the expanded open student model](open-student-model-positive-effect-ekermit.md) — related

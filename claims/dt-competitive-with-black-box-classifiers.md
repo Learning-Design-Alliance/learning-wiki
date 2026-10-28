@@ -72,3 +72,4 @@ Comparison reported in the Results section across the same four-course module-le
 - [An interpretable mathematical model based on saccade lengths and angles performs well, is transparent, and is theoretically meaningful for identifying students' histogram strategies](imm-transparent-performs-well.md) — related
 - [SVM with RoBERTa sentence embeddings was the most accurate automatic scoring method (κ = .82) among the four tested combinations](roberta-svm-most-accurate-scoring-pisa.md) — related
 - [Authoring by Tutoring yields a more accurate expert model than Authoring by Demonstration while maintaining the same level of completeness](authoring-by-tutoring-higher-accuracy-than-demonstration.md) — related
+- [Apprentice learner models support efficient tutor authoring, more efficient than Example-Tracing with mass production](apprentice-learner-models-efficient-authoring.md) — related

@@ -65,3 +65,4 @@ Country categorization of all 183 publications by author affiliations shows "73%
 - [Top-tier psychology journals show extreme WEIRD dominance: 97% of first authors and 95% of samples](psychology-weird-representation-imbalance.md) — related
 - [ITS authoring tool research is concentrated in academic settings, and 45.45% of included papers conducted empirical studies while illustrative scenarios were the most common method](its-authoring-research-mostly-academic-nonempirical.md) — related
 - [Authorship of AIED systematic reviews is concentrated in Asia and Europe, with China, Spain, and the United States the most productive countries](aied-review-authorship-geographic-distribution.md) — related
+- [AIED ethics publication output is concentrated in Europe, led by the United Kingdom (47%) and Finland (20%)](aied-ethics-publications-european-concentration.md) — related

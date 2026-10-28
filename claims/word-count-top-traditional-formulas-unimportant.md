@@ -87,3 +87,4 @@ Variable importance comparison within the same random forest: Custom Magnitude 2
 - [Revising texts to improve readability-formula scores often produces nonexistent or insignificant comprehension gains](readability-revision-gains-nonexistent-insignificant.md) — related
 - [A response-length-only baseline scores poorly, showing scores depend on broader linguistic features](length-only-baseline-performs-poorly.md) — related
 - [Shallow complexity measures for word problems correlate only weakly with difficulty](shallow-complexity-weakly-correlate-difficulty.md) — related
+- [Surface readability measures are weak predictors of question difficulty, per reviewed studies](readability-weak-difficulty-predictors.md) — related

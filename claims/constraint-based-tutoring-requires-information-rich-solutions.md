@@ -47,3 +47,4 @@ The authors' comparative study of two tutors built for the same domain (statisti
 ## Related Claims
 - [Two characteristics of the problem domain are key in distinguishing which tutoring paradigm is appropriate for a given domain](two-domain-characteristics-distinguish-tutoring-paradigms.md) — a broader claim this one bears on
 - [Building a model-tracing tutor requires greater development effort than building a constraint-based tutor for the same domain](model-tracing-tutor-greater-development-effort.md) — related
+- [The combined-paradigm ITS allows easy creation of new hypothesis-testing tasks because model-tracing components generate solutions and intermediate steps](its-easy-task-authoring-model-tracing.md) — related

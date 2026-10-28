@@ -61,3 +61,4 @@ Review synthesis of Maboe and Tomas's (2023) qualitative study (n = 17) in South
 - [Contrary to claims that AI will automatically engender a more democratic, equal, and sustainable world, the editorial argues these technologies tend to exacerbate existing inequalities, environmental degradation, and labour precarity](ai-exacerbates-inequalities-environmental-degradation.md) — related
 - [Computing education has historically excluded marginalized student populations, and large inequities in access persist](computing-education-historic-exclusion-inequity.md) — a broader claim this one bears on
 - [Remote proctoring supported assessment continuity and uninterrupted student progression during institutional closures](remote-proctoring-supported-continuity-closures.md) — related
+- [Students with low internet bandwidth could complete the course when offered offline video download and batch mode alternatives](low-bandwidth-mitigation-strategies.md) — related

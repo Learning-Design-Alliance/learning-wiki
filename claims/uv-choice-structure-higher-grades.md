@@ -53,3 +53,4 @@ In the same RCT's performance analyses, the choice contrast compared the choice 
 - [In replication analyses, the variety conditions were particularly beneficial for students with low prior GPAs, while the same-type-only conditions had negligible effect sizes](uv-variety-benefits-low-prior-gpa.md) — related
 - [The overall intervention contrast comparing all UV conditions to control was not significant, and no individual UV condition significantly outperformed control in the dummy-coded model](uv-no-overall-effect-versus-control.md) — related
 - [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md) — a broader claim this one bears on
+- [Choice-based personalization did not affect assignment submission likelihood, essay length, or self-reported time-on-task](choice-personalization-no-assignment-effort-effect.md) — related

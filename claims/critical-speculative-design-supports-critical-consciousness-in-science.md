@@ -64,3 +64,4 @@ This is a qualitative, ethnographic design study (q2), not an efficacy trial: th
 - [An AI-enabled world demands a data-literate citizenry able to read, use, interpret, and communicate about data and participate in AI-related policy debates](ai-enabled-world-demands-data-literate-citizenry.md) — related
 - [Heterogeneity-seeking modeling curricula surface epistemic commitments in most students, including care-based commitments absent from prior frameworks](heterogeneity-seeking-curricula-surface-diverse-epistemic-commitments.md) — related
 - [Exporting individualistic, universalized well-being curricula across contexts can promote deficit discourse and epistemic injustice](universalized-wellbeing-curricula-promote-deficit-discourse.md) — related
+- [The AIED community shows two blind spots: disengagement from responsible AI debates and persistent focus on dominant learners under a deficit model.](aied-blind-spots-responsible-ai-dominant-learners.md) — related

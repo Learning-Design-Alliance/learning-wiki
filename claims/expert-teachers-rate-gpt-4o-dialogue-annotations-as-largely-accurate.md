@@ -88,3 +88,4 @@ Inter-rater reliability from the same human evaluation, using exact overlap and 
 - [GPT-4o-mini natural language feedback was overwhelmingly helpful and never harmful in quality annotation](nl-feedback-quality-92-percent-helpful.md) — related
 - [State-of-the-art conversational agents (Blender and GPT-3) replied adequately to students but were well behind human performance in helping the student (reported from a dialogue study)](conversational-agents-behind-human-helping-students.md) — related
 - [Inter-rater reliability between human experts and AI coding is very low](low-irr-experts-vs-ai-coding.md) — related
+- [An expert evaluator rated all GPT-4-generated tests as helpful and comprehensive but noted questions were too easy for specialists](expert-rated-tests-very-helpful.md) — related

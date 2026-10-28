@@ -28,7 +28,8 @@ A publicly released collection of Chinese, English, French, German, and Spanish 
 - [The German Transformer model's tokenization handles native-speaker morphology well but struggles with learner-language errors, possibly explaining lower CREG results](../claims/tokenizer-learner-language-creg-gap.md) [+W]
 
 ## Related Products and Programmes
--
+
+- [Expanded RIKEN SAS dataset with 10,000 new annotations](expanded-riken-sas-dataset-with-10000-new-annotations.md)
 
 ## Key Sources
 - Andrea Horbach, Joey Pehlke, Ronja Laarmann-Quante, Yuning Ding. (2024). Crosslingual Content Scoring in Five Languages Using Machine-Translation and Multilingual Transformer Models. Int J Artif Intell Educ. https://doi.org/10.1007/s40593-023-00370-1

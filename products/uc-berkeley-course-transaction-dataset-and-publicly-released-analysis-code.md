@@ -34,6 +34,7 @@ A UC Berkeley dataset of over 11 million timestamped student course-enrollment t
 
 - [NCTE Transcript dataset](ncte-transcript-dataset.md)
 - [Open online dataset and statistical analyses of the mutual-modelling emotions study](open-online-dataset-and-statistical-analyses-of-the-mutual-modelling-emotions-study.md)
+- [COCO educational dataset from an online course platform](coco-educational-dataset-from-an-online-course-platform.md)
 
 ## Key Sources
 - Borchers, C., Xu, Y., & Pardos, Z. A. (2025). Workload Overload? Late Enrollment Leads to Course Dropout. Journal of Educational Data Mining, Volume 17, No 1. https://github.com/CAHLR/enrollment-procrastination-edm

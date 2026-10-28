@@ -9,6 +9,7 @@ generated:
   at: 2026-10-18
 evidence_strength: moderate
 newest_evidence: 2018
+source_checked: 2026-10-28
 recheck_by: 2021
 sources:
   - id: nancy-law-2018
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2021**: tool and model accuracy changes quickly
+> **Currency** · newest study 2018 · checked against its sources 2026-10-28 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2021**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` The SAGLET orchestration system, built on VMT, detected critical moments in group progress and alerted the teacher, who could then monitor and give appropriate feedback to different groups. [→ Nancy Law 2018](#nancy-law-2018)
@@ -52,3 +53,4 @@ Study by Schwarz, Prusak, Swidan, Livny, Gal and Segal of the SAGLET orchestrati
 - [Guiding support stimulated targeted interactions: teachers posted more messages to groups (14 vs 4) and performed more dashboard interventions than under mirroring](guiding-support-stimulated-targeted-group-interactions.md) — a narrower finding that bears on this claim
 - [Mirroring dashboards improved teacher situational awareness while alerting-and-guiding dashboards reduced teacher workload and frustration](mirroring-alerting-dashboards-teacher-withitness.md) — related
 - [Students trust and respect teachers who support them as learners through clear lessons, monitoring, feedback, and individualized support, not teachers who act as buddies](students-want-teachers-supporting-as-learners.md) — related
+- [A computational framework can enable a system to analyse ongoing group interaction and detect and mediate meta-cognitive conflicts](computational-framework-detect-mediate-meta-cognitive-conflicts.md) — related

@@ -65,3 +65,4 @@ The deployment summary reports, citing its reference, that VERA "suggested gains
 - [Universities already use incipient AI such as IBM Watson to provide student advice around the clock, reducing administrative staffing needs](ai-administrative-services-deakin-watson.md) — related
 - [The Jill Watson AI teaching assistant met student expectations in a Georgia Tech online course without being detected as non-human](jill-watson-ai-teaching-assistant-georgia-tech.md) — related
 - [A single configurable analytics codebase replicates prior research findings across three educational AI assistant domains](a4l-pipeline-replicates-analyses-across-three-domains.md) — related
+- [LA deployments at higher education institutions report positive results, with some interventions reporting improvements of up to 20%](hei-la-deployments-positive-results.md) — related

@@ -61,3 +61,5 @@ The article reports, citing Wahle et al. (2022), that detection tools show "only
 - [Human markers detect purchased contract-cheating assignments at low rates, though priming and authorship-analysis software improve detection](markers-rarely-detect-contract-cheating.md) — related
 - [AI detectors using perplexity disproportionately misclassify non-native English writers, and the mechanism plausibly extends to other low-perplexity writers](perplexity-bias-non-native-english-writers.md) — related
 - [AI-generated text can pass as human-authored in up to 80% of cases, making reliable differentiation a significant challenge](ai-text-passes-as-human-up-to-80-percent.md) — related
+- [Neither humans nor machines reliably detect machine-generated text; humans detect it at chance level](ai-text-detection-at-chance-level.md) — possibly the same claim (merge candidate)
+- [Plagiarism detection software does not detect AI-generated essays because the text is original, not copied](plagiarism-software-fails-on-generated-text.md) — related

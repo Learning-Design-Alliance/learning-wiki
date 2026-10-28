@@ -9,6 +9,7 @@ generated:
   at: 2026-10-11
 evidence_strength: weak
 newest_evidence: 2026
+source_checked: 2026-10-28
 sources:
   - id: jean-pierre-briot-2026
     resource: "https://doi.org/10.48550/arxiv.2608.05176"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r1` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-10-28 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Research by Doshi and Hauser found AI-assisted creative outputs were more similar to each other than purely human-authored ones, and that AI assistance raised output quality of initially less creative individuals without significantly changing scores of initially highly creative ones. [→ Jean-Pierre Briot 2026](#jean-pierre-briot-2026)

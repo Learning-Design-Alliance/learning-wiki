@@ -66,6 +66,7 @@ Effective facilitation converts discussion from an assessment checkbox into a si
 - [Facilitate sessions with a welcoming environment, probing questions, and structured pauses](facilitation-protocol-probing-questions.md)
 - [Use information-exchange prompts in online PD discussion forums to elicit transactive discourse](information-exchange-prompts-strategy-online-pd.md)
 - [Research agenda for advancing transformative communication environments: sociocultural theory, conversational analysis, and beyond-face-to-face affordances](transformative-communication-research-agenda.md)
+- [Use deep-learning NLG models to provide automatic social support to MOOC learners on discussion forums](nlg-automatic-support-mooc-forums-strategy.md)
 
 ## Examples
 - **Discussion protocols in online graduate courses** (e.g., the Community of Inquiry research tradition at Athabasca University) use instructor weaving posts every 2–3 days to sustain cognitive presence across multi-week threads.

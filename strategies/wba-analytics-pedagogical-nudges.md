@@ -52,6 +52,7 @@ The authors propose using the analysis findings to trigger targeted nudges (e.g.
 - [Use discussion analytics to alert instructors about students who may need more assistance](instructor-alerts-from-discussion-analytics.md)
 - [Use moment-by-moment learning curve forms to trigger personalized support and interventions for students' self-regulated learning with ALTs.](mbmlc-triggered-personalized-srl-support.md)
 - [Use coordination-based indicators rather than inactivity alone to trigger alerts and adaptive interventions for struggling groups](coordination-based-alert-strategy.md)
+- [Derive requirements for personalised nudges from empirical studies of learner engagement](requirements-driven-personalised-nudges-avw.md)
 
 ## Examples
 -

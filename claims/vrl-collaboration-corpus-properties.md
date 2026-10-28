@@ -72,3 +72,4 @@ System-category coding of temporality across the 62 publications: "synchronous c
 - [Regulation tools for collaboration are very rare in educational VRLs, identified in only 8 laboratories, mostly supporting regulation by teachers](regulation-tools-very-rare-vrls.md) — related
 - [Guidance tools supporting collaboration are relatively uncommon in educational VRLs, integrated in only 13 of 62 reviewed systems](guidance-tools-uncommon-vrls.md) — related
 - [In one reviewed study, students who first collaborate and then complete an activity individually in the VRL are more successful than students who complete an individual task first and then collaborate](collaborate-first-then-individual-more-successful-vrl.md) — related
+- [AIED techniques did not come to encompass fully integrated practical learning environments as hoped in 1998](aied-integration-expectation-unfulfilled.md) — related

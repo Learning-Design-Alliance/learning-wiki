@@ -23,7 +23,7 @@ sources:
 # Evidence-Based Teaching and Scientific Reasoning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 43 claims (23 for, 18 mixed, 2 against) · 42 studies (10 review, 10 theoretical, 8 causal, 7 associational, 3 quant-synthesis, 2 qualitative, 2 design), `q1`–`q4` · 0 of 42 report an effect size · 41 claims rest on one study
+> **Evidence** · 44 claims (23 for, 19 mixed, 2 against) · 43 studies (10 review, 10 theoretical, 8 causal, 7 associational, 3 quant-synthesis, 3 qualitative, 2 design), `q1`–`q4` · 0 of 43 report an effect size · 42 claims rest on one study
 
 ## Conditional relationship
 
@@ -196,6 +196,7 @@ Choosing on evidence, the quality of the evidence chosen on, the outcome for lea
 - [Future research should test efficacy of the embodied activities with knowledge tests rather than self-reported impressions](../claims/future-research-knowledge-tests-for-embodied-activities.md) [+W]
 - [Learning-styles models (particularly VAK) continue to be believed in by most teachers and persist in teacher training despite evidence of no positive impact on educational outcomes](../claims/learning-styles-vak-persist-teacher-training.md) [+W]
 - [Behavioural data can be used to make inferences about learning, as experimental science of learning has done for decades](../claims/behavioural-data-inference-learning-established.md) [~W]
+- [Null results for Cognitive Tutors may reflect poor implementation rather than ineffectiveness, and policy-level experiments should be distinguished from effectiveness studies](../claims/null-results-may-reflect-poor-implementation.md) [~W]
 
 ## Related Principles
 - [Educational Psychology as Both Art and Science](../theories/educational-psychology-as-art-and-science.md)

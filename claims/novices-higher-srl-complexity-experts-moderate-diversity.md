@@ -73,3 +73,4 @@ Null results from the same Wilcoxon comparisons: "There were no differences in e
 - [The relation between medical expertise and diagnostic accuracy was case-dependent: positive for Case 4, negative for Case 1 (novices outperformed experts), and absent for Cases 2, 3, and 5](expertise-diagnostic-accuracy-case-dependent.md) — related
 - [Groups' progress during collaboration falls into four data-driven categories differing in sequence frequencies and the regulation phases groups return to](four-categories-group-progress-monitoring-sequences.md) — related
 - [Empirical studies support Zimmerman's SRL models, including expert-novice differences and phase-training effects](empirical-support-zimmerman-srl-models.md) — related
+- [Differential sequence mining shows significant differences in frequencies of SRL process sequences by prior knowledge group while controlling for condition](differential-sequence-mining-srl-frequencies-by-prior-knowledge.md) — related

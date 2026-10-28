@@ -34,7 +34,8 @@ The researchers introduced three word embedding methods and three classifiers as
 - [A random forest classified flagged versus non-flagged word problems with the best accuracy of five tested models (AUC = 0.75)](../claims/random-forest-best-auc-flagged-problems.md) [+W]
 
 ## Related Research Methods
--
+
+- [Taxonomy of item difficulty prediction approaches: expert-driven versus machine-driven](taxonomy-of-item-difficulty-prediction-approaches-expert-driven-versus-machine-driven.md)
 
 ## Key Sources
 - Kang Xue, Elizabeth Barker. (2022). Using Artificial Intelligence (AI) to improve math accessibility for students with visual impairments. https://www.nwea.org/resources/using-artificial-intelligence-ai-to-improve-math-accessibility-for-students-with-visual-impairments/

@@ -13,7 +13,7 @@ generated:
 # Motivation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 317 claims (212 show a difference, 74 mixed, 31 no difference) · 231 studies (84 associational, 64 causal, 37 review, 16 theoretical, 14 quant-synthesis, 10 qualitative, 6 design), `q1`–`q4` · 62 of 231 report an effect size · 305 claims rest on one study
+> **Evidence** · 319 claims (213 show a difference, 75 mixed, 31 no difference) · 232 studies (84 associational, 65 causal, 37 review, 16 theoretical, 14 quant-synthesis, 10 qualitative, 6 design), `q1`–`q4` · 63 of 232 report an effect size · 307 claims rest on one study
 
 ## Description
 Whether a learner will spend effort here, and what makes it feel worth spending. It decides whether a page must earn attention before it can teach, and how much open-endedness is tolerable. The honest state of the evidence is that the mechanisms are well supported and the *interventions* are modest — growth-mindset programmes produce small average effects concentrated in specific subgroups [+W], which is a reason to design for motivation rather than to bolt an intervention on.
@@ -367,6 +367,8 @@ Whether a learner will spend effort here, and what makes it feel worth spending.
 - [Student task value judgments' antecedents and consequences show initial interest and mastery goals predict subsequent interest, and individual differences matter for teaching strategy](../claims/hulleman-task-values-individual-differences.md) [+M] — learners who differ on it differ in outcomes
 - [Students rated the usefulness of LLM-enhanced combined feedback significantly higher than their own prior expectations](../claims/llm-combined-feedback-exceeds-expectations-usefulness.md) [+M] — instruction changes it
 - [Students' engagement in the MindTap learning platform increased significantly across logins, time spent, and engagement score after the persuasive intervention was introduced.](../claims/mindtap-engagement-increased-during-intervention.md) [+M] — instruction changes it
+- [Intrinsic motivation mediates the effect of learning material on performance, but with a negative indirect effect driven by the standard group](../claims/gai-negative-mediation-motivation-performance.md) [~M] — instruction changes it
+- [Solving context-personalized AI-generated tasks raises intrinsic motivation more than solving standard tasks, with no task-type × group interaction](../claims/gai-personalized-tasks-intrinsic-motivation.md) [+M] — instruction changes it
 
 ## The evidence by question
 - *Does autonomy-supportive teaching raise motivation and engagement compared with controlling teaching?* [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](../claims/autonomy-supports-intrinsic-motivation.md) [+M]

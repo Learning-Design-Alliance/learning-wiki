@@ -32,6 +32,7 @@ A publicly released dataset by Esposito et al. containing 28,000 structured mult
 - [TURTLEAI benchmark](turtleai-benchmark.md)
 - [398-item evaluation dataset of teacher-requested geometric diagrams from Coteach](398-item-evaluation-dataset-of-teacher-requested-geometric-diagrams-from-coteach.md)
 - [The Pedagogy Benchmark](the-pedagogy-benchmark.md)
+- [Expanded RIKEN SAS dataset with 10,000 new annotations](expanded-riken-sas-dataset-with-10000-new-annotations.md)
 
 ## Key Sources
 - Esposito, N., Tricarico, A., Porzio, L., Aghazadeh Ardebili, A., & Stella, M. (2026). Math Education Digital Shadows for Investigating Learning with GenAI: Mathematics Performance, Anxiety, and Confidence in LLMs. arXiv preprint. https://arxiv.org/abs/2604.27618. [doi:10.48550/arxiv.2604.27618](https://doi.org/10.48550/arxiv.2604.27618)

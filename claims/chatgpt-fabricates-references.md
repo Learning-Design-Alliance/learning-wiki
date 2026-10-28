@@ -56,3 +56,4 @@ The authors' own verification test: ChatGPT cited "Ribeiro and Vala, 2020" with 
 - [Review-attributed evidence: fabricated model-generated references clustered in disciplinary journals in a student verification exercise](fabricated-references-cluster-disciplinary-journals.md) — related
 - [Students report negative experiences with ChatGPT including inaccurate outputs, lack of emotional connection, and risk of overreliance, which constrain competence](chatgpt-negative-experiences-inaccuracy-overreliance.md) — related
 - [The main concern in all critical evaluations was the veracity of ChatGPT-provided references, which often do not exist](chatgpt-references-often-do-not-exist.md) — a broader claim this one bears on
+- [GPT-3 fabricates plausible-looking but fake references and apparently invents the research studies they cite](gpt3-fabricates-fake-references.md) — possibly the same claim (merge candidate)

@@ -69,3 +69,4 @@ From the 2-way MANOVA table for the emotional stability experiment: "ER F( 5, 22
 ## Related Claims
 - [Conscientiousness interacts with score in the use of advice: advice is given at 70% for low-conscientiousness learners but not for high-conscientiousness learners](conscientiousness-score-interaction-advice.md) — related
 - [The type of emotional support and slant given to a learner depends on the score the learner achieved (Experiment 1: conscientiousness)](feedback-type-depends-on-achieved-score.md) — related
+- [The review reports that user studies on personality-adapted conversational agent feedback yielded two algorithms refined after a teacher study](personality-adapted-feedback-algorithms.md) — a broader claim this one bears on

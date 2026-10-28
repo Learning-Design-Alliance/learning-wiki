@@ -94,3 +94,4 @@ Bibliometric keyword-evolution analysis (Path 3). Early research centered on kno
 - AI knowledge and education are increasingly emphasized in Federal STEM education programs and are a component of the Computer Science for All initiative — related
 - [AI applications contributed to STEM students' higher-order thinking, including problem-solving, computational thinking, and self-regulated learning](ai-stem-higher-order-thinking-effects.md) — related
 - [Early conceptual and terminological choices, such as the shift from cybernetics to artificial intelligence, have shaped current AI-in-education debates](cybernetics-to-ai-terminology-shaped-debates.md) — related
+- [The gold standard for advanced cyberlearning technology shifted from one-on-one tutoring parity to empowering individuals and teams in dynamic configurations (authors' historical account)](new-gold-standard-beyond-its-parity.md) — related

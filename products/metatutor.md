@@ -19,7 +19,7 @@ sources:
 # MetaTutor
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 6 claims (3 for, 1 mixed, 2 against) · 1 study (1 associational), `q3` · 1 of 1 report an effect size · 6 claims rest on one study
+> **Evidence** · 7 claims (4 for, 1 mixed, 2 against) · 2 studies (2 associational), `q2`–`q3` · 2 of 2 report an effect size · 7 claims rest on one study
 
 ## Description
 MetaTutor is a hypermedia-based intelligent tutoring system developed by educational technology researchers that uses pedagogical agents and self-regulated-learning tools to support learners studying scientific content.
@@ -34,14 +34,15 @@ MetaTutor is a hypermedia-based intelligent tutoring system developed by educati
 - [Higher compliance with MetaTutor's review-notes prompt is associated with larger proportional learning gains](../claims/review-notes-compliance-predicts-learning-gains.md) [+M]
 - [Higher compliance with MetaTutor's revise-summary prompt is associated with larger proportional learning gains](../claims/revise-summary-compliance-predicts-learning-gains.md) [+M]
 - [Higher compliance with MetaTutor's suggest-subgoal prompt is associated with larger proportional learning gains](../claims/suggest-subgoal-compliance-predicts-learning-gains.md) [+M]
+- [Differential sequence mining shows significant differences in frequencies of SRL process sequences by prior knowledge group while controlling for condition](../claims/differential-sequence-mining-srl-frequencies-by-prior-knowledge.md) [+M]
 
 ## Related Products and Programmes
 -
 
 ## Key Sources
 - Lallé, S., Mudrick, N., Conati, C., Taub, M., Azevedo, R. (2017). On the Influence on Learning of Student Compliance with Prompts Fostering Self-Regulated Learning. Proceedings of the 10th International Conference on Educational Data Mining. https://educationaldatamining.org/EDM2017/
-
 <!-- merged 2026-10-10 from elements/metatutor-srl-prompting-its ("MetaTutor: a hypermedia-based ITS with pedagogical agents scaffolding SRL about the circulatory system"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+- Taub, M., & Azevedo, R. (2019). How Does Prior Knowledge Influence Eye Fixations and Sequences of Cognitive and Metacognitive SRL Processes during Learning with an Intelligent Tutoring System? Int J Artif Intell Educ (2019) 29:1-28. https://doi.org/10.1007/s40593-018-0165-4
 
 # MetaTutor: a hypermedia-based ITS with pedagogical agents scaffolding SRL about the circulatory system
 

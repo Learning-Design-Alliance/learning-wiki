@@ -74,3 +74,4 @@ The review reports, citing Rodríguez et al. (2022), systemic inequality issues 
 - [Common risks of AI integration in nursing education include technological inequities, faculty preparedness gaps, and ethical concerns around privacy and bias](ai-nursing-education-risks-inequity-ethics.md) — related
 - [The review reports AI curriculum-design tools identify learning gaps and equity-analysis tools examine differential policy impacts on student populations](ai-teaching-enhancement-and-equity-analysis-reported.md) — related
 - [An international expert workshop gap analysis identified five dimensions of gaps impeding integration of research evidence into classroom practice](workshop-gap-analysis-five-gap-dimensions.md) — related
+- [AIED technologies span school administration to personalised learning, with ethical risks including surveillance, privacy loss, and dehumanising prescriptive teaching](aied-technologies-applications-ethical-challenges-synthesis.md) — related

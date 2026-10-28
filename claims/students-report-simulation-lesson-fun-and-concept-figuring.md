@@ -88,3 +88,4 @@ Student interview excerpt in the theme simulation can support inquiry learning a
 - [Digital tools complemented hands-on investigations by providing opportunities not possible in the classroom and letting children easily practice what they learned in hands-on activities.](nico-nor-digital-tools-complement-hands-on.md) — related
 - [Virtual labs showed a limitation in helping students transfer what they learned from teacher demonstration to new inquiry contexts](virtual-lab-transfer-from-demonstration-limited.md) — related
 - [Post-program surveys show most students felt more likely to pursue STEM, more comfortable in university labs, and found the program appropriately challenging](discovery-survey-attitudes-comfort-pursuit.md) — related
+- [A biology cloud lab integrated into a MOOC enabled over 300 remote students to run over 2,300 real experiments with minimal wait time](biology-cloud-lab-mooc-scale-deployment.md) — related

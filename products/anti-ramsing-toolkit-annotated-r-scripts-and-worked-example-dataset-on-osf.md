@@ -31,6 +31,7 @@ A publicly available toolkit by Bicakci et al. providing annotated R scripts and
 ## Related Products and Programmes
 
 - [Annotated R syntax and OSF repository for replicating MAIHDA analyses](annotated-r-syntax-and-osf-repository-for-replicating-maihda-analyses.md)
+- [Expanded RIKEN SAS dataset with 10,000 new annotations](expanded-riken-sas-dataset-with-10000-new-annotations.md)
 
 ## Key Sources
 - Bicakci, M., Heller, F., Stoeger, H., & Ziegler, A. (2026). From RAMSing to Rigor: Improving Moderator Analysis in STEM Education Meta-Research. Educational Psychology Review. https://doi.org/10.1007/s10648-026-10172-1

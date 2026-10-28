@@ -53,3 +53,4 @@ The paper reports, citing Perkins et al. (2024), an evaluation at a UK-curriculu
 - [Universities converge on caution toward AI-detection systems, warning against using detection scores as dispositive evidence of misconduct](ai-detector-skepticism-convergence.md) — related
 - [A linear mixed-effects model of detection error showed significant paper type, tool, and interaction effects, with underestimation largest for fully AI-generated papers and Pangram consistently producing the smallest errors](mixed-model-detection-error-underestimation.md) — related
 - [Popular plagiarism detection tools detect plagiarism in AI-assisted essays in less than 15% of cases](plagiarism-detectors-below-15-percent-ai-essays.md) — related
+- [Plagiarism detection software does not detect AI-generated essays because the text is original, not copied](plagiarism-software-fails-on-generated-text.md) — related

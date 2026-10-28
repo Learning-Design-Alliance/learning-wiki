@@ -14,7 +14,7 @@ grain_size: course
 # AI Tutoring
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 374 claims (165 for, 156 mixed, 53 against) · 254 studies (91 causal, 57 review, 33 design, 27 theoretical, 19 quant-synthesis, 15 associational, 12 qualitative), `q1`–`q4` · 51 of 254 report an effect size · 359 claims rest on one study
+> **Evidence** · 383 claims (172 for, 158 mixed, 53 against) · 261 studies (94 causal, 58 review, 33 design, 28 theoretical, 19 quant-synthesis, 15 associational, 14 qualitative), `q1`–`q4` · 53 of 261 report an effect size · 367 claims rest on one study
 
 ## Description and scope
 
@@ -355,6 +355,15 @@ This pattern is scoped to the tutor's moves within tasks and the handoff to peop
 - [Waypoint hints show lower justification and adoption rates than Next-Step hints](../claims/waypoints-lower-justification-adoption.md) [~W]
 - [No correlation between motivation or engagement measures and tutor learning gains](../claims/no-correlation-motivation-learning-gain.md) [~W]
 - [Next-Step hints outperform Waypoint hints during training on time, steps, accuracy, and score](../claims/next-step-hints-outperform-waypoints-training.md) [~W]
+- [Students receiving adaptive tutorial dialogues in EER-Tutor outperformed peers receiving non-adaptive dialogues, with effect size 0.69 on learning gains](../claims/adaptive-tutorial-dialogues-effect-size-069.md) [+W]
+- [DeepTutor's macro-adaptive learning-progressions selection produced 0.79 σ pretest-posttest gains in a small evaluation, versus very little learning without dynamic dialog selection](../claims/deeptutor-macro-adaptivity-gains.md) [+W]
+- [Early AutoTutor versions gained about 0.5 σ over textbook controls, with gains depending on test type (cloze 0.64 σ, deep 0.28 σ, shallow 0.15 σ)](../claims/early-autotutor-gains-test-type-dependence.md) [+W]
+- [Hint-level feedback about violated domain principles produced faster and more effective learning than other feedback levels in SQL-Tutor](../claims/hint-level-feedback-superior-sql-tutor.md) [+W]
+- [Reinforcement learning used for micro-adaptation showed potential learning gains of up to 1 sigma over poorly-optimized dialog or no dialog (per the article, citing Chi et al. 2014)](../claims/reinforcement-learning-micro-adaptation-gains.md) [~W]
+- [Theory-based feedback in EER-Tutor was more effective in supporting learning than the original designer-intuition feedback](../claims/theory-based-feedback-more-effective-eer-tutor.md) [+W]
+- [Repetitive training with the synthetic assistant produced statistically significant performance growth across successive tests, whereas the control group's growth was largely insignificant](../claims/vbsa-significant-growth-across-iterations.md) [+W]
+- [Sustained interactive dialogue with generative AI over 14 weeks may catalyze rather than constrain learner agency, unlike shorter one-way automated feedback](../claims/sustained-ai-dialogue-catalyzes-agency.md) [~W]
+- [In WHY2 physics studies, AutoTutor outperformed read-textbook and no-materials controls and performed comparably to WHY2/Atlas and non-expert human tutors](../claims/why2-autotutor-physics-gains.md) [+W]
 
 ## Examples
 - [ChatGPT as a virtual laboratory assistant in a sociotechnical system](../designs/sts-theory-chatgpt-virtual-laboratory-assistant.md) — ChatGPT answers lab questions beside human TAs, not in their place

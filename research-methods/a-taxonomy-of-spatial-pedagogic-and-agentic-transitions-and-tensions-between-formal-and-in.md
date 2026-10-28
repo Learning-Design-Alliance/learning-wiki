@@ -27,7 +27,8 @@ The article defines three categories of transitions and tensions between timetab
 - [Students perceive the breakout space as more democratic than the teacher-owned lecture theatre, feeling freer to direct questions and take learning risks](../claims/breakout-space-democratic-ownership-agentic-tension.md) [+W]
 
 ## Related Research Methods
--
+
+- [Transition taxonomy: pragmatic and pedagogical social transitions organized by activity impact, group-size direction, and fluidity](transition-taxonomy-pragmatic-and-pedagogical-social-transitions-organized-by-activity-imp.md)
 
 ## Key Sources
 - Luke McCrone & Martyn Kingsbury. (2024). An ecological approach to understanding transitions and tensions in complex learning contexts. npj Science of Learning. https://doi.org/10.1038/s41539-024-00267-1

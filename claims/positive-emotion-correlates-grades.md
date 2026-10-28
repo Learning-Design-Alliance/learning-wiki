@@ -48,3 +48,4 @@ Correlation analysis (N = 173 groups, Table 7) reporting positive emotion at r =
 - [Simple participation quantity measures (total and reply message counts) correlate with project grades](message-frequency-correlates-grades.md) — related
 - [Trait self-control correlates with grades but not with standardized test scores at the bivariate level](tsc-correlates-grades-not-standardized-tests.md) — related
 - [Groups that provide more information to others (Source role) achieve higher project grades](source-role-provision-predicts-project-grades.md) — related
+- [Online discussion participation predicted team project grades: students who answered others' questions more frequently and had a positive attitude received better grades](discussion-participation-predicts-project-grade.md) — related

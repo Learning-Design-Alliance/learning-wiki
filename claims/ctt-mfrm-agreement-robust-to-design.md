@@ -52,3 +52,4 @@ Authors' discussion-level inference combining this crossed-design study with the
 - [Scorer severity and standard difficulty were statistically adjusted using Many-Facet Rasch analysis before assignment and work measures were compared](rasch-adjustment-of-scorer-severity.md) — related
 - [CTT-based quiz difficulty rankings are validated by IRT analysis with near-perfect rank correlation](irt-validates-ctt-quiz-difficulty-ranking.md) — related
 - [Australian and Malaysian Muslim learners ranked discord items differently, with Australian students most resistant to anti-science statements and most accepting of divine-cause statements](australian-malaysian-discord-item-differences.md) — related
+- [Ground-truth difficulty labels in reviewed studies come roughly equally from expert/annotator labelling (34%), Classical Test Theory (34%), and Item Response Theory (26%)](ground-truth-labelling-methods-distribution.md) — related

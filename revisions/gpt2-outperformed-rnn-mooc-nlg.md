@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/gpt2-outperformed-rnn-mooc-nlg.md
+---
+
+# Revision history: [claims/gpt2-outperformed-rnn-mooc-nlg](../claims/gpt2-outperformed-rnn-mooc-nlg.md)
+
+### 2026-10-28 · ingest · process:wiki-ingest
+Ingested from jrnl-ccc6e38540e7 (Natural Language Generation Using Deep Learning to Support MOOC Learners) via eval_harness.py + ingest_extractions.py

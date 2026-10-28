@@ -199,3 +199,4 @@ The key constraint is specificity: telling learners they are "smart" or "good at
 - [Children's autonomous and controlled motivation for mathematics rarely moderate the effects of task difficulty and instructional style](motivation-moderation-minimal-non-significant.md) — related
 - [Math avoidance motivation is independent of actual math performance, with subjective estimation of task difficulty the primary influencing factor](avoidance-independent-of-actual-math-performance.md) — related
 - [Social regulation is the domain most proximally linked to social well-being, with empathy deficits and moral disengagement operating as proximal predictors of cyberbullying](social-regulation-proximal-social-wellbeing.md) — related
+- [AI ethics can serve as a compelling entry point for teacher AI education, increasing teacher confidence and engaged classroom discussions](ai-ethics-entry-point-teacher-training.md) — a narrower finding that bears on this claim

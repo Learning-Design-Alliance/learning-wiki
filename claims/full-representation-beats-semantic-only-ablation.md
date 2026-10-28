@@ -57,3 +57,4 @@ Ablation study on the SAT Math dataset with all other settings fixed, comparing 
 - [A combined AST-plus-embedding classifier achieves 89% accuracy assigning CogTax levels to 585 expert-annotated Linux/bash commands, outperforming either representation alone](combined-ast-embedding-classifier-89-accuracy.md) — a narrower finding that bears on this claim
 - [Item difficulty was best predicted using signal from the item stem](difficulty-best-predicted-from-item-stem.md) — related
 - [All three assertion sources (word, corpus-derived, construct-derived) contribute to predictive accuracy](all-assertion-sources-contribute-predictive-accuracy.md) — a narrower finding that bears on this claim
+- [In reviewed studies, word embeddings and linguistic features were the strongest difficulty predictors, with combined features giving the best results (RMSE 22.45 vs ZeroR 23.65)](embeddings-linguistic-features-strongest-predictors.md) — related

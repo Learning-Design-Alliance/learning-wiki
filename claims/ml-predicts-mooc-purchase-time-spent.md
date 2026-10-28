@@ -49,3 +49,4 @@ Predictive modelling study on FutureLearn clickstream data from 23 runs of 5 Uni
 - [Baseline LR and XGBoost models achieve comparable predictive performance on OULAD, with XGBoost slightly higher AUC-ROC](baseline-model-performance-oulad-lr-xgboost.md) — reports the opposite
 - [MOOC certificate purchasing is rare: under 1% of enrolled learners purchase, with completion around 10%](mooc-purchase-rate-under-one-percent.md) — related
 - [The run number (delivery iteration) is among the most representative features for predicting MOOC purchasing behaviour](run-number-top-purchase-predictor.md) — related
+- [The special issue reports a deep learning approach to predicting student purchasing behaviour and drop-out in MOOCs](deep-learning-predicts-mooc-dropout-purchasing.md) — related

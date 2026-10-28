@@ -46,6 +46,7 @@ A repeatable classroom assignment cycle in which students first write an argumen
 - [Use Structured Critique Protocols](use_structured_critique_protocols.md)
 - [Implement AI-peer integrated feedback as a standardized two-phase revision cycle with rubric-aligned prompting and instructor monitoring](ai-peer-integrated-feedback-cycle-strategy.md)
 - [Scenario B: constructing, critiquing, and reframing AI-mediated arguments](scenario-construct-critique-reframe-arguments.md)
+- [Incorporate AI-generated text into teaching: students critique AI essays and write better versions](critique-ai-generated-essays-activity.md)
 
 ## Examples
 -

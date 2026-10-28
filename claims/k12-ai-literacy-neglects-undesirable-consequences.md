@@ -54,3 +54,4 @@ The review's discussion of gaps in the 179 reviewed papers. It reports that auto
 - [Socio-economic inequality in learning increased during the pandemic for most estimates, across subjects, grades and pandemic stages](covid-learning-inequality-increased-low-ses.md) — related
 - [Reviewed AI literature portrays AI as having transformative capacity to reshape educational methodologies, with a need for balancing guidelines](ai-transformative-capacity-guidelines.md) — related
 - [Capabilities and skills are explicitly addressed in only 3 of 36 reviewed GenAI studies, marking a gap in AI-literacy and educator-capability research](capabilities-skills-addressed-in-only-3-of-36-genai-studies.md) — related
+- [Cultural difference and inclusion challenges affect equity: 53% of relevant papers flag insufficient cross-cultural tailoring, and facial recognition misidentifies darker skin tones](aied-cultural-inclusion-challenges.md) — related

@@ -48,3 +48,4 @@ Descriptive analysis of the study's dataset: 23 runs over 5 courses with 245,255
 - [Machine learning models predict MOOC certificate purchasing with accuracies of 0.82–0.91 using only time spent on each course step](ml-predicts-mooc-purchase-time-spent.md) — related
 - [The run number (delivery iteration) is among the most representative features for predicting MOOC purchasing behaviour](run-number-top-purchase-predictor.md) — related
 - [A University of Pennsylvania study found only about half of MOOC registrants viewed a lecture and only about four percent finished a course entirely](mooc-completion-four-percent.md) — related
+- [The special issue reports a deep learning approach to predicting student purchasing behaviour and drop-out in MOOCs](deep-learning-predicts-mooc-dropout-purchasing.md) — related

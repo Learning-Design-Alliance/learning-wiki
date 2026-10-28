@@ -51,6 +51,7 @@ The article proposes that generative AI might serve educators more effectively a
 - [Assessment design levers that make learning visible and reduce the payoff from generic generated text](assessment-design-levers-visible-learning-traces.md)
 - [Five design principles for responsible implementation of AI-generated course readings](responsible-ai-reading-generation-design-principles.md)
 - [Develop student AI literacy and institutional GenAI policies, guidelines and safeguards for responsible integration](genai-literacy-and-institutional-policy-strategy.md)
+- [Incorporate AI-generated text into teaching: students critique AI essays and write better versions](critique-ai-generated-essays-activity.md)
 
 ## Examples
 -

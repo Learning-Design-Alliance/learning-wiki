@@ -63,7 +63,7 @@ sources:
 # Active Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 43 claims (20 for, 22 mixed, 1 against) · 41 studies (11 causal, 8 quant-synthesis, 8 associational, 6 review, 4 theoretical, 3 design, 1 qualitative), `q1`–`q4` · 6 of 41 report an effect size · 36 claims rest on one study
+> **Evidence** · 43 claims (20 for, 22 mixed, 1 against) · 42 studies (11 causal, 8 quant-synthesis, 8 associational, 6 review, 5 theoretical, 3 design, 1 qualitative), `q1`–`q4` · 6 of 42 report an effect size · 35 claims rest on one study
 
 ## Conditional relationship
 

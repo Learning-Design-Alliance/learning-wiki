@@ -51,3 +51,4 @@ Country coding of the 138 included studies shows Asia had the largest share at 4
 - [Research on generative AI in secondary STEM education is concentrated in the Global North, with 73% of affiliations and the United States accounting for 30% of publications](global-north-concentration-generative-ai-stem-research.md)
 - Research on K‑5 writing motivation self‑reports grew sharply after 2009 and is geographically concentrated in North America and Asia — related
 - [Authorship of AIED systematic reviews is concentrated in Asia and Europe, with China, Spain, and the United States the most productive countries](aied-review-authorship-geographic-distribution.md) — related
+- [AIED ethics publication output is concentrated in Europe, led by the United Kingdom (47%) and Finland (20%)](aied-ethics-publications-european-concentration.md) — related

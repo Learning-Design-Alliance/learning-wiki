@@ -54,3 +54,4 @@ Sub-dimension paired-sample t-tests on the cohort's CCTDI-adapted scores after t
 - [A three-month WISE Agent intervention did not significantly increase sixth-graders' aggregate critical thinking disposition scores](wise-agent-no-aggregate-ct-gain.md) — related
 - [AI Paradox: students report higher confidence in critical AI awareness than in operational AI usage (p = 0.015)](ai-paradox-critical-awareness-overestimation.md) — related
 - [HOTS-oriented teaching improves disposition towards critical thinking subscales including truth-seeking, open-mindedness, self-confidence, and maturity](hots-teaching-improves-ct-dispositions.md) — a broader claim this one bears on
+- [Metacognition and critical-thinking tutors show mixed results: Operation ARA gained 1.4 σ, SEEK showed no significant improvement, and MetaTutor's learning-efficiency advantage disappeared when agent time was counted](metacognition-tutoring-mixed-outcomes.md) — related

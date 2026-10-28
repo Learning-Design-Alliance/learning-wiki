@@ -57,3 +57,4 @@ Thematic analysis of reflection reports and interviews. Of 114 codes related to 
 - [Students described the verification label as a reason to engage with AI-generated material that did not end their own scrutiny of it](verification-label-engagement-scrutiny.md) — related
 - [Students exercise ethical agency in GenAI use through human-AI collaboration strategies, personal ethical frameworks, strategic calibration of use, and resistance to over-reliance](student-ethical-agency-genai-use.md) — a broader claim this one bears on
 - [Hybridization of authorship blends human and AI-generated content, often without learners' explicit awareness of the boundary, normalizing formulaic rhetorical structures](hybridization-of-authorship-argumentation.md) — related
+- [Comparative evaluation of AI output taught students that AI is not infallible and reinforced critical reading](ai-comparative-evaluation-critical-reading.md) — related

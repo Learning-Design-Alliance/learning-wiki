@@ -58,3 +58,4 @@ Narrative synthesis of outcomes reported across the 22 included studies; the rev
 - [A teacher-initiated report card comment generator built in Solara saw immediate high adoption without formal rollout or training](teacher-initiated-tool-high-adoption.md) — related
 - [GenAI communication benefits depend on integration: embedded agents enhance communication more than external tools, but efficiency can reduce the need for human communication](genai-communication-benefits-depend-on-integration.md) — related
 - [Legitimate concerns exist about aied rollout regarding datafication, surveillance, and possibly poor pedagogy](aied-rollout-datafication-surveillance-concerns.md) — related
+- [AIED technologies span school administration to personalised learning, with ethical risks including surveillance, privacy loss, and dehumanising prescriptive teaching](aied-technologies-applications-ethical-challenges-synthesis.md) — related

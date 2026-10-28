@@ -48,3 +48,4 @@ Frequency analysis of subject domains across the 449 studies in the systematic r
 - [Formative purpose dominates peer assessment studies, but summative purpose is relatively frequent in ICT, engineering, and health and welfare domains](peer-assessment-formative-purpose-dominant.md) — related
 - [Digital data use differs by teaching subject: STEM teachers report lower use than languages/arts/humanities and vocational teachers, and vocational teachers report the highest use](subject-differences-digital-data-use.md) — related
 - [Students in human sciences disciplines generally show deeper approaches to learning than students in science and economics disciplines, though findings are not univocal](discipline-differences-deep-approach.md) — related
+- [AIED ethics discussions are dominated by Science (over 50%) with scarce humanities and arts coverage](aied-ethics-subject-area-dominance-science.md) — related

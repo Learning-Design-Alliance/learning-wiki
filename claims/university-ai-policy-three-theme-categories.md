@@ -53,3 +53,4 @@ Neural embedding-based BERTopic topic modeling over the university-wide policy c
 - BERTopic analysis of the Stanford AI Index Reports (2021–2025) reveals a three-layer thematic structure: technology core, application-expansion layer, and ethics-and-governance layer — related
 - [LDA topic modeling of HI/HIM AI policy documents identifies four dominant themes: academic integrity, generative AI use, AI in research, and ChatGPT engagement](lda-four-themes-hi-him-ai-policies.md) — related
 - [No public GenAI policies were found for German universities and Tallinn University of Technology among the sampled institutions](no-public-genai-policies-german-universities-tallinn.md) — related
+- [AIED technologies span school administration to personalised learning, with ethical risks including surveillance, privacy loss, and dehumanising prescriptive teaching](aied-technologies-applications-ethical-challenges-synthesis.md) — related

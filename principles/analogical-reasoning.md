@@ -35,7 +35,7 @@ sources:
 # Analogical Reasoning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 17 claims (6 for, 11 mixed) · 24 studies (9 causal, 5 review, 4 qualitative, 3 quant-synthesis, 2 associational, 1 design), `q2`–`q4` · 3 of 24 report an effect size · 10 claims rest on one study
+> **Evidence** · 18 claims (7 for, 11 mixed) · 25 studies (9 causal, 5 review, 4 qualitative, 3 quant-synthesis, 3 associational, 1 design), `q2`–`q4` · 4 of 25 report an effect size · 11 claims rest on one study
 
 ## Conditional relationship
 
@@ -138,6 +138,7 @@ Recognising that a source applies, mapping it correctly, using the principle on 
 ## Claims
 
 - [Relational reasoning shifts by grade level and object familiarity in students grades 1 to 12](../claims/relational-reasoning-varies-by-grade-and-familiarity.md) [~W]
+- [Case comparisons produced significantly higher learning gains than single cases for organic chemistry students with low prior knowledge (attributed to Kranz et al., under review)](../claims/case-comparisons-higher-learning-gain-low-prior-knowledge.md) [+W]
 
 ## Related Principles
 - [Activation](activation.md) — analogies often work by activating prior knowledge before introducing a new concept

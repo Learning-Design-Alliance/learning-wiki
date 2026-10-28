@@ -48,3 +48,4 @@ Coding of students' open-ended feedback found 9 meta comments critiquing the per
 - [An IES practice-guide presentation recommends personalized problem contexts, asserting without cited studies that students engage more actively and perform better in them](personalized-problem-contexts-boost-engagement-grades-4-8.md) — the general claim this finding bears on, with the studies behind it
 - [Students frequently reported that personalized problem topics did not match their interests](students-report-topic-mismatch-interests.md) — related
 - [Students resisted external definitions of mathematical success and asserted agency in defining their own strategies](student-resistance-own-strategies-math.md) — related
+- [Students' stated interests are highly heterogeneous and fine-grained, with 226 unique interests spanning broad categories to individual athletes](gai-student-interest-heterogeneity-granularity.md) — related

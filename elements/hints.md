@@ -22,7 +22,7 @@ sources:
 # Hints
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 24 claims (8 for, 15 mixed, 1 against) · 16 studies (7 causal, 3 design, 2 review, 2 associational, 1 qualitative, 1 theoretical), `q2`–`q3` · 4 of 16 report an effect size · 23 claims rest on one study
+> **Evidence** · 25 claims (9 for, 15 mixed, 1 against) · 17 studies (8 causal, 3 design, 2 review, 2 associational, 1 qualitative, 1 theoretical), `q2`–`q3` · 4 of 17 report an effect size · 24 claims rest on one study
 
 ## Description
 Hints are partial prompts or cues that help learners continue a task without fully giving away the answer. They are useful when the design goal is to preserve productive struggle while reducing the chance of stuckness, confusion, or abandonment.
@@ -74,6 +74,7 @@ Hints are partial prompts or cues that help learners continue a task without ful
 - [Next-Step hints outperform Waypoint hints during training on time, steps, accuracy, and score](../claims/next-step-hints-outperform-waypoints-training.md) [+W]
 - [Next-Step hints outperform Waypoint hints on posttest total steps and accuracy](../claims/next-step-hints-outperform-waypoints-posttest.md) [+W]
 - [Waypoint hints show lower justification and adoption rates than Next-Step hints](../claims/waypoints-lower-justification-adoption.md) [~M]
+- [Hint-level feedback about violated domain principles produced faster and more effective learning than other feedback levels in SQL-Tutor](../claims/hint-level-feedback-superior-sql-tutor.md) [+W]
 
 ## The evidence by question
 

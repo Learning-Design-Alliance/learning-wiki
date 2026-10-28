@@ -53,3 +53,4 @@ Case-study analysis of three multilingual international students (Pengxi, Haoyu,
 - [Students encountered usability obstacles: text-recognition errors, feedback-generation delays, and overly complex vocabulary](ai-helper-usability-obstacles.md) — related
 - [AI and peer feedback differed in complementary ways: AI gave general, rubric-driven, actionable feedback while peers gave more specific, contextual feedback](ai-and-peer-feedback-complementary.md) — related
 - [One focal student exhibited a critical-pragmatic humanistic AI literacy, conceptualizing AI as a manipulable tool and evaluating it by rhetorical efficiency](zhimo-critical-pragmatic-humanistic-ai-literacy.md) — a narrower finding that bears on this claim
+- [Comparative evaluation of AI output taught students that AI is not infallible and reinforced critical reading](ai-comparative-evaluation-critical-reading.md) — related

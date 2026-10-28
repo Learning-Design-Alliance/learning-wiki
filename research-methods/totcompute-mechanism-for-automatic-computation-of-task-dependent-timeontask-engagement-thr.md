@@ -12,7 +12,7 @@ generated:
 # ToTCompute mechanism for automatic computation of task-dependent TimeOnTask engagement thresholds
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 2 studies (1 review, 1 design), `q2` · 0 of 2 report an effect size · 1 claim rests on one study
 
 ## Description
 ToTCompute is a mechanism that automatically computes TimeOnTask threshold values for various game tasks using game-playing logs and EEG engagement data collected during an initial testing session. It computes "the relative engagement changes for all participants every second (i.e., every TimeOnTask iteration)" and applies a time series linear model with an autocorrelation test, returning NA when data is random or the trend is not negative. Thresholds represent upper limits above which engagement decreases by a predefined relative change (e.g., 5, 10, 15%).

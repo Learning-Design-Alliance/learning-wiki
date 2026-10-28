@@ -51,3 +51,4 @@ Controlled experiment on a subset of models with four configurations in which th
 - [Smaller local LLMs show a minor position bias toward option ordering and partially guessing-like error variation, but accuracy remains relatively stable across permutations and repeated sampling runs](minor-position-bias-and-partial-guessing-in-small-llms.md) — related
 - [No consistent relationship was observed between false-positive and false-negative rates and either the question or the LLM model](no-consistent-fp-fn-pattern.md) — related
 - [Validator false-negative cases reveal structural reasoning weaknesses, including answer-schema misinterpretation and internal inconsistency](code-gen-validator-fn-reasoning-weaknesses.md) — related
+- [GPT-4 identified a correct answer choice for nearly all generated questions, with a minority of spelling or selection errors](gpt4-correct-answer-choices-97-percent.md) — related

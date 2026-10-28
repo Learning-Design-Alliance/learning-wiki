@@ -13,7 +13,7 @@ generated:
 # Number Sense
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 106 claims (78 show a difference, 18 mixed, 10 no difference) · 46 studies (26 associational, 11 causal, 3 review, 2 qualitative, 2 design, 2 theoretical), `q1`–`q4` · 18 of 46 report an effect size · 104 claims rest on one study
+> **Evidence** · 107 claims (79 show a difference, 18 mixed, 10 no difference) · 47 studies (26 associational, 12 causal, 3 review, 2 qualitative, 2 design, 2 theoretical), `q1`–`q4` · 18 of 47 report an effect size · 105 claims rest on one study
 
 ## Description
 Number sense is a learner's grasp of how large numbers are and how they relate to one another. It is measured with magnitude comparison (which of two numbers or dot arrays is larger), number line estimation (placing a number on a line with labelled ends) and similar tasks. These measures correlate with mathematics achievement and predict later mathematics learning, and they can be improved by instruction such as number board games and number line activities. It is a domain-specific part of [prior knowledge](prior-knowledge.md) in mathematics.
@@ -141,6 +141,7 @@ Number sense is a learner's grasp of how large numbers are and how they relate t
 - [Infants possess two core numerical systems—approximate magnitude representation and precise tracking of small sets—that underpin later mathematical competencies](../claims/core-numerical-systems-underpin-math.md) [+W] — learners who differ on it differ in outcomes
 - [Number-processing deficits represent the most pervasive profile, lowering performance across the whole mathematics battery](../claims/number-processing-deficit-lowest-across-battery.md) [+W] — learners who differ on it differ in outcomes
 - [Advanced formal home numeracy practices are positively associated with five-year-olds' transcoding and calculation skills.](../claims/advanced-formal-practices-transcoding-calculation.md) [+M] — instruction changes it
+- [Children's accuracy in positioning numbers on a number line improved significantly over training in both number ranges](../claims/number-line-accuracy-improves-over-training.md) [+W] — instruction changes it
 
 ## Related Learner Variables
 

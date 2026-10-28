@@ -45,7 +45,8 @@ Multi-class classification experiments (classes hard, appropriate, easy) on 234 
 
 
 ## Related Claims
-- [The generalised plait ensemble outperforms single classifiers, majority-vote and stacking ensembles, substantially improving perceived task-difficulty classification (e.g., SVM plait error 14.54%, KNN plait 12.84%).](plait-ensemble-outperforms-single-and-standard-ensembles.md) — related
+- [Each generalised plait ensemble (SVM, KNN, DCT) beats the single classifier, majority-vote and stacking ensemble of the same type in perceived task-difficulty classification (e.g., SVM plait error 14.54%, KNN plait 12.84%), though the DCT plait does not beat SVM stacking](plait-ensemble-outperforms-single-and-standard-ensembles.md) — related
 - [Single log-file features per task show very small p-values but weak fit, with number of hints seen the strongest single predictor of perceived task-difficulty.](single-per-task-features-weak-fit.md) — related
 - [A two-feature combination of average time until skip and average time until first hint request statistically significantly describes students' accumulated perceived task-difficulty across a learning session.](log-feature-combination-significant-accumulated-difficulty.md) — related
 - [A stacking ensemble of LG, SVM, NB, KNN and XGB achieved the best fine-tuning F1-score (0.88), outperforming individual models such as SVM (0.86)](stacking-ensemble-best-finetuning-f1.md) — related
+- [The review reports that a log-file ensemble approach for perceived task-difficulty recognition outperforms classical ensemble methods](logfile-ensemble-outperforms-classical-ensembles.md) — related

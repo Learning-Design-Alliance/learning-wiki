@@ -54,3 +54,4 @@ The article reports findings from a series of experiments identifying features o
 - [Presenting words as spoken narration rather than on-screen text alongside graphics improves learning](modality-effect-narration-over-text.md) — related
 - [Text-based conversational interfaces were preferred over speech or embodied formats in healthcare AI trust studies, attributed to perceptions of reliability](text-based-interfaces-preferred-for-trust.md) — related
 - [Voice and text tutoring produced statistically equivalent weekly mastery within students, while voice transformed the interaction at a 2.8× cost premium](voice-text-mastery-equivalent-interaction-transformed.md) — related
+- [Affective support in AutoTutor benefits low-knowledge learners but not high-knowledge learners, and gaze-based disengagement reactivity yields significant gains only on deep learning](affect-and-gaze-adaptation-effects.md) — related

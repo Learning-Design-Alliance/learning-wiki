@@ -44,6 +44,7 @@ The agents studied were "animated characters represented in human form" that con
 
 - [Seven trialogue designs for two-agent conversations with a human learner, adaptively administered by learner knowledge](seven-trialogue-designs-two-agents.md)
 - [Phoenix: a voice-based, non-embodied LLM conversational peer agent for group learning](phoenix-voice-llm-peer-agent-group-learning.md)
+- [Embodied conversational agent Jack for restaurant-context English conversation practice](eca-jack-restaurant-l2-agent.md)
 
 ## Examples
 -

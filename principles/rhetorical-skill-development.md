@@ -27,7 +27,7 @@ sources:
 # Rhetorical Skill Development
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 18 claims (14 for, 4 mixed) · 23 studies (7 causal, 6 quant-synthesis, 5 theoretical, 3 review, 1 associational, 1 qualitative), `q1`–`q4` · 5 of 23 report an effect size · 13 claims rest on one study
+> **Evidence** · 19 claims (15 for, 4 mixed) · 24 studies (8 causal, 6 quant-synthesis, 5 theoretical, 3 review, 1 associational, 1 qualitative), `q1`–`q4` · 6 of 24 report an effect size · 14 claims rest on one study
 
 ## Conditional relationship
 
@@ -140,6 +140,7 @@ Evidence the page cites or touches that is not part of the model above.
 - [Duplicating readers' experiences helps young writers revise descriptive writing to meet readers' informational needs](../claims/duplicating-reader-experiences-meets-informational-needs.md) [+W] — attached 2026-10-15 from Holliway et al. (2004), which proposed "Give young writers tasks that duplicate their readers' experiences to improve audience-aware revision".
 - [Reading-as-the-reader perspective-taking improves young writers' revision and new drafting of descriptive essays in both 5th and 9th grade](../claims/reading-as-the-reader-improves-revision-and-drafting.md) [+W] — attached 2026-10-15 from Holliway et al. (2004), which proposed "Give young writers tasks that duplicate their readers' experiences to improve audience-aware revision".
 - [Basic speech textbooks have not incorporated contemporary rhetorical theory, remaining nearly unchanged across decades](../claims/basic-speech-texts-unchanged.md) [+W]
+- [Students given argument diagramming support are significantly more likely to include opposing evidence in their research paper introductions than unsupported students](../claims/diagramming-increases-opposing-evidence.md) [+M] — attached 2026-10-28 from Barstow et al. (2017), which proposed "Integrate argument diagramming into college-level science course curricula to improve students' research writing".
 
 ## Objective and learner-valued goal
 

@@ -55,3 +55,4 @@ Micro-level moment-by-moment analysis of Examples 1 and 2 combining transcript c
 - [Teacher communicative activities in the analysed undergraduate mathematics lesson were dominated by presentation and correction, reflecting an authoritative communicative approach](teacher-transmission-dominance-undergraduate-math-lesson.md) — related
 - [Active listening was the most common individual student communicative activity in the analysed lesson, with marked individual differences between the three students](active-listening-most-common-student-activity.md) — related
 - [Students' situation-specific interpretations of a learning situation as challenging or favourable affect their SRL and strategy use](situation-specific-interpretations-affect-strategy-use.md) — related
+- [Conflicts in group problem solving, if well employed, can act as triggers of cognitive changes that help refine the group's solution](well-employed-conflicts-trigger-cognitive-change.md) — related

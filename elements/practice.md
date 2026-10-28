@@ -13,7 +13,7 @@ generated:
 # Practice
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 41 claims (24 for, 12 mixed, 5 against) · 53 studies (24 causal, 11 quant-synthesis, 9 review, 5 theoretical, 3 associational, 1 qualitative), `q1`–`q4` · 11 of 53 report an effect size · 28 claims rest on one study
+> **Evidence** · 42 claims (25 for, 12 mixed, 5 against) · 54 studies (25 causal, 11 quant-synthesis, 9 review, 5 theoretical, 3 associational, 1 qualitative), `q1`–`q4` · 11 of 54 report an effect size · 29 claims rest on one study
 
 ## Description
 Practice asks learners to actively apply new knowledge or skills through structured activities rather than passively receiving information. It converts exposure into fluency and retention by requiring learners to generate responses, solve problems, or perform procedures under conditions that gradually approximate the target performance.
@@ -95,6 +95,7 @@ Practice is one of the most consistently supported instructional elements: activ
 - [Increasing initial practice of skill A from 1 to 12 trials does not change parsing-rule generalization to skill B in early learning](../claims/practice-duration-no-impact-early-generalization.md) [~W]
 - [Four weeks of bimanual tracking training significantly improves 1:1 subtask performance with training time, with no group effect on the 1:1 task](../claims/btt-11-performance-improves-with-training-time.md) [+W]
 - [Adults improve on average across nine cognitive tasks over 100 days of practice, with substantial individual differences in the amount of improvement](../claims/average-improvement-individual-differences-100-day-practice.md) [+W]
+- [Repetitive training with the synthetic assistant produced statistically significant performance growth across successive tests, whereas the control group's growth was largely insignificant](../claims/vbsa-significant-growth-across-iterations.md) [+W]
 
 ## Design Decisions
 <!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice

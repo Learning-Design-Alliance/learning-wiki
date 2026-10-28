@@ -49,6 +49,7 @@ The article outlines open research questions for learning companions in 2015: ge
 
 - [Pedagogical agent interventions to improve collaborative learning: keep conversation coherent, encourage deliberative discussion, and monitor peer needs](pedagogical-agent-cscl-interventions.md)
 - [Future student-simulation work should extend beyond turn-level math dialogue and address history-selection and faithfulness gaps](extend-student-simulation-beyond-turn-level-math.md)
+- [Pursue open AIED-in-MOOCs research directions: sensing-based affective modeling for embodied adaptive learning and MOOC data visualization for stakeholder feedback](ai4moocs-open-research-directions.md)
 
 ## Examples
 -

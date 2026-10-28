@@ -53,3 +53,4 @@ Analysis relating officers' perceived AI likelihood to GPTZero provenance classi
 - [AI access raises unaided essay quality in both sessions, while AI-generated text detectable in Session One essays disappears by Session Two](genai-raises-unaided-essay-quality.md) — related
 - [Comparative studies report that AI detection tools do not reliably distinguish human-written from AI-generated text](ai-detection-tools-not-reliably-distinguishing.md) — related
 - [Participants fail to distinguish undisclosed AI teammates from human teammates above chance in synchronous text-based group interaction](chance-level-ai-identity-detection-undisclosed-teammates.md) — related
+- [Neither humans nor machines reliably detect machine-generated text; humans detect it at chance level](ai-text-detection-at-chance-level.md) — reports the opposite

@@ -50,3 +50,4 @@ The review's framing statement holds that the transition is "characterised by ex
 - [Several personal background characteristics influence fit during the transition from higher education to the labour market](background-characteristics-influence-fit.md) — related
 - [Transfer during the transition can be experienced in three ways, and the need for learning at work is stressed](transfer-experienced-three-ways-learning-at-work-needed.md) — related
 - [Employers, educators, and graduates differ in what they perceive has to be learned, yet each group values generic competences most](stakeholders-differ-but-all-value-generic-competences-most.md) — related
+- [Conflicts in group problem solving, if well employed, can act as triggers of cognitive changes that help refine the group's solution](well-employed-conflicts-trigger-cognitive-change.md) — related

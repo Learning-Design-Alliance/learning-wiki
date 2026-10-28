@@ -48,3 +48,4 @@ The review's synthesis of the 33 included studies, which examined evidence of be
 - [Well-designed courseware enhances efficiency, supports independent student navigation, and lets faculty focus on teaching rather than technical challenges](courseware-efficiency-usability-gateway-math.md) — related
 - [Model-tracing/cognitive tutors and example-tracing tutors are the predominant ITS types designed with authoring tools, together accounting for almost 40% of included studies](model-tracing-example-tracing-dominant-authored-types.md) — related
 - [A systematic literature review published from 2009 to June 2016 identified 33 primary studies on ITS authoring tools for non-programmer authors out of 4622 retrieved papers](slr-2009-2016-its-authoring-33-studies.md) — related
+- [Apprentice learner models support efficient tutor authoring, more efficient than Example-Tracing with mass production](apprentice-learner-models-efficient-authoring.md) — related

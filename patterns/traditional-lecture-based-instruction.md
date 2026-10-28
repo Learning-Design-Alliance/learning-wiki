@@ -21,7 +21,7 @@ sources:
 # Traditional Lecture-Based Instruction
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 28 claims (2 for, 18 mixed, 8 against) · 36 studies (10 review, 8 causal, 6 theoretical, 5 qualitative, 4 quant-synthesis, 2 associational, 1 design), `q1`–`q4` · 5 of 36 report an effect size · 22 claims rest on one study
+> **Evidence** · 28 claims (2 for, 18 mixed, 8 against) · 37 studies (10 review, 8 causal, 7 theoretical, 5 qualitative, 4 quant-synthesis, 2 associational, 1 design), `q1`–`q4` · 5 of 37 report an effect size · 21 claims rest on one study
 
 ## Description and scope
 

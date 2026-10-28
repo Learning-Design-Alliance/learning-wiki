@@ -56,3 +56,4 @@ Thematic analysis of post-implementation surveys, interviews, peer-session video
 - [Reviewed literature reports risks of overreliance, AI errors in complex tasks, and students' uncritical acceptance of AI-generated outputs](ai-math-risks-overreliance-errors-uncritical-trust.md) — a broader claim this one bears on
 - [Students report heightened autonomy in English learning through self-directed regulation, personalized feedback, and active evaluation of ChatGPT suggestions](chatgpt-autonomy-self-directed-learning.md) — related
 - [Prompt-writing ability is a new feedback-eliciting capacity that shapes GenAI feedback engagement](prompt-writing-new-feedback-literacy-capacity.md) — related
+- [Human-AI writing practices were perceived to enhance doctoral students' cognitive and metacognitive engagement, confidence, and learner agency](ai-writing-engagement-confidence-agency.md) — related

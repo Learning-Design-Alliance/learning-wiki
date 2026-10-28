@@ -44,7 +44,8 @@ The authors envision archiving all learning/instructional theories in an advance
 - [Educational ontologies are rarely used in practical e-learning platforms, mainly due to cost, complexity, integration, performance, and scalability problems, which ontology reuse can partially overcome](../claims/ontology-adoption-barriers-practical-elearning.md) [~W]
 
 ## Related Strategies
-- 
+
+- [Develop ontologies for ITS interoperability incrementally (mappings, benchmark tasks, folksonomies) rather than a top-down super-ontology](incremental-ontology-standards-aied.md)
 
 ## Examples
 -

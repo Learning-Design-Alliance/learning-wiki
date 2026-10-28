@@ -54,3 +54,4 @@ The review's own analysis (authors' interpretation, not a tested result) of how 
 - [Autonomy, meaningful purpose, and interest improve intrinsic motivation and deeper processing](interest-autonomy-purpose-boost-motivation.md) — related
 - [Interesting but irrelevant details can impair comprehension and transfer, with effects that vary with the material and the learner](seductive-details-effect.md) — related
 - [Context-personalized GAI-generated math materials increased primary students' motivation, interest and performance](gai-context-personalized-math-materials-primary-school.md) — related
+- [Context-personalized AI-generated learning material increases primary students' intrinsic motivation and interest compared with standard material](gai-personalized-material-motivation-interest.md) — related

@@ -53,3 +53,4 @@ Cross-dataset prediction (Table 3): models trained on the full lab reading datas
 - [Questions interpolated between video lecture segments improve subsequent test performance and reduce mind wandering](interpolated-questions-improve-video-learning.md) — related
 - [Carelessness detectors trained on Philippine students generalize to USA students without re-fitting](carelessness-detector-cross-country-generalizability.md) — related
 - [SVM-based mind wandering detector achieved 69% precision and 67% recall generalizing to new learners](mind-wandering-detector-precision-recall.md) — related
+- [Review-reported model comparisons: a BiLSTM-based model significantly outperformed all baselines (Qiu et al.), and BERT outperformed a semantic-similarity baseline (Yeung et al.)](neural-models-outperform-baselines-review.md) — related

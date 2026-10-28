@@ -52,3 +52,4 @@ RCT with stratified random assignment comparing 92 experimental and 92 control s
 - [SI-PASS participants did not engage more with online exercises than controls in the RCT, but attendance correlated with online exercise engagement](si-pass-engagement-ecology-patterns.md) — related
 - [SI-PASS participation showed no significant effect on socio-affective dimensions including well-being and academic adjustment](si-pass-no-socio-affective-effect.md) — related
 - [Implementation intentions did not affect final exam performance, whereas prior performance strongly predicted exam grade](implementation-intentions-no-exam-performance-effect.md) — related
+- [Choice-based personalization did not affect final exam performance in the MOOC](choice-personalization-no-final-exam-effect.md) — related

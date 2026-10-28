@@ -55,3 +55,4 @@ This is the brief's stated rationale for integrating early math into family enga
 - [Attendance in preschool and kindergarten is framed as important to young learners' school success](prek-kindergarten-attendance-spells-success.md) — related
 - [Students exposed to failure-driven scaffolding demonstrated higher quality of constructive reasoning](failure-driven-scaffolding-higher-quality-constructive-reasoning.md) — related
 - [The home environment plays an important role in early childhood development](home-environment-role-early-childhood-development.md) — related
+- [The learning environment can engage children in advanced mathematical thinking in early education](game-engages-advanced-mathematical-thinking.md) — a narrower finding that bears on this claim

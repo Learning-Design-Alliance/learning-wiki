@@ -1,27 +1,28 @@
 ---
 type: claim
-title: Direct zero-shot GPT-4o difficulty ratings beat a grade-level dummy regressor and correlate strongly with true Rasch difficulties overall, for K-5 math and reading items
-description: Direct zero-shot GPT-4o difficulty ratings beat a grade-level dummy regressor and correlate strongly with true Rasch difficulties overall, for K-5 math and reading items
+title: Zero-shot GPT-4o difficulty ratings, rescaled and entered in grade-specific regressions, beat a grade-level dummy regressor and correlate strongly with true Rasch difficulties overall, for K-5 math and reading items
+description: Zero-shot GPT-4o difficulty ratings, rescaled and entered in grade-specific regressions, beat a grade-level dummy regressor and correlate strongly with true Rasch difficulties overall, for K-5 math and reading items
 id: direct-llm-estimation-beats-dummy-regressor-k5-items
 status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
-newest_evidence: 2025
-recheck_by: 2028
+newest_evidence: 2026
+source_checked: 2026-10-28
+recheck_by: 2029
 sources:
-  - id: pooya-razavi-2025
+  - id: pooya-razavi-2026
     resource: "https://doi.org/10.1016/j.ijaied.2026.100015"
-    title: "Pooya Razavi, Sonya Powers. (2025). Estimating Item Difficulty Using Large Language Models and Tree-Based Machine Learning Algorithms. Edmentum. https://doi.org/10.1016/j.ijaied.2026.100015"
+    title: "Pooya Razavi, Sonya Powers. (2026). Estimating Item Difficulty Using Large Language Models and Tree-Based Machine Learning Algorithms. *International Journal of Artificial Intelligence in Education, 36*, 100015. https://doi.org/10.1016/j.ijaied.2026.100015"
     author: Pooya Razavi, Sonya Powers
     q: 2
     i: 3
     kind: design
     rigour: 2
-  - id: pooya-razavi-2025-2
+  - id: pooya-razavi-2026-2
     resource: "https://doi.org/10.1016/j.ijaied.2026.100015"
-    title: "Pooya Razavi, Sonya Powers. (2025). Estimating Item Difficulty Using Large Language Models and Tree-Based Machine Learning Algorithms. Edmentum. https://doi.org/10.1016/j.ijaied.2026.100015"
+    title: "Pooya Razavi, Sonya Powers. (2026). Estimating Item Difficulty Using Large Language Models and Tree-Based Machine Learning Algorithms. *International Journal of Artificial Intelligence in Education, 36*, 100015. https://doi.org/10.1016/j.ijaied.2026.100015"
     author: Pooya Razavi, Sonya Powers
     q: 2
     i: 3
@@ -29,35 +30,35 @@ sources:
     rigour: 2
 ---
 
-# Direct zero-shot GPT-4o difficulty ratings beat a grade-level dummy regressor and correlate strongly with true Rasch difficulties overall, for K-5 math and reading items
+# Zero-shot GPT-4o difficulty ratings, rescaled and entered in grade-specific regressions, beat a grade-level dummy regressor and correlate strongly with true Rasch difficulties overall, for K-5 math and reading items
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q2` · `i3` large
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
+> **Currency** · newest study 2026 · checked against its sources 2026-10-28 (automated, 2 of 2 entries) · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
-`q2 i3` On the holdout sample, direct LLM estimates showed lower error than the dummy regressor and correlated strongly with true difficulties for math (r = .83) and reading (r = .81). [→ Pooya Razavi 2025](#pooya-razavi-2025)
-`q2 i3` For reading, direct LLM estimates produced lower RMSE and MAE than the dummy regressor benchmarks. [→ Pooya Razavi 2025 (2)](#pooya-razavi-2025-2)
+`q2 i3` On the holdout sample, difficulty estimates predicted from rescaled GPT-4o ratings (via per-grade regressions fit on training items) showed lower error than the dummy regressor and correlated strongly with true difficulties for math (r = .83) and reading (r = .81). [→ Pooya Razavi 2026](#pooya-razavi-2026)
+`q2 i3` For reading, difficulty estimates predicted from rescaled GPT-4o ratings (via per-grade regressions) produced lower RMSE and MAE than the dummy regressor benchmarks. [→ Pooya Razavi 2026 (2)](#pooya-razavi-2026-2)
 
 ## Evidence
 
-### Pooya Razavi 2025
+### Pooya Razavi 2026
 
-Pooya Razavi, Sonya Powers. (2025). Estimating Item Difficulty Using Large Language Models and Tree-Based Machine Learning Algorithms. Edmentum. https://doi.org/10.1016/j.ijaied.2026.100015
+Pooya Razavi, Sonya Powers. (2026). Estimating Item Difficulty Using Large Language Models and Tree-Based Machine Learning Algorithms. *International Journal of Artificial Intelligence in Education, 36*, 100015. https://doi.org/10.1016/j.ijaied.2026.100015
 
 `q2 · i3` · `design · r2`
 
-Holdout-sample evaluation of the direct LLM estimation approach for math (rescaled GPT-4o ratings entered in per-grade regressions). Errors beat the dummy regressor, and the article reports "a strong correlation between the true and predicted difficulty estimates, when collapsing all grades together (r = .83)".
+Holdout-sample evaluation of the direct LLM estimation approach for math (GPT-4o 1-100 ratings, standardised and rescaled to the Rasch logit scale, then entered in grade-specific regressions fit on training items; holdout predictions came from those regressions, not the raw ratings). Errors beat the dummy regressor, and the article reports "a strong correlation between the true and predicted difficulty estimates, when collapsing all grades together (r = .83)".
 
 > "both error indices (RMSE = 0.91, MAE = 0.72) were lower than the benchmarks (1.01 and 0.81, respectively), indicating that the GPT estimates perform better than dummy regressor models."
 
-### Pooya Razavi 2025 (2)
+### Pooya Razavi 2026 (2)
 
-Pooya Razavi, Sonya Powers. (2025). Estimating Item Difficulty Using Large Language Models and Tree-Based Machine Learning Algorithms. Edmentum. https://doi.org/10.1016/j.ijaied.2026.100015
+Pooya Razavi, Sonya Powers. (2026). Estimating Item Difficulty Using Large Language Models and Tree-Based Machine Learning Algorithms. *International Journal of Artificial Intelligence in Education, 36*, 100015. https://doi.org/10.1016/j.ijaied.2026.100015
 
 `q2 · i3` · `design · r2`
 
-Reading holdout results for the direct approach: "The overall RMSE (0.86) and MAE (0.69)" beat the dummy benchmarks, and predicted and true estimates were highly correlated (r = .81; Figure 1).
+Reading holdout results for the direct approach (GPT-4o 1-100 ratings, standardised and rescaled to the Rasch logit scale, then entered in grade-specific regressions fit on training items): "The overall RMSE (0.86) and MAE (0.69)" beat the dummy benchmarks, and predicted and true estimates were highly correlated (r = .81; Figure 1).
 
 > "The overall RMSE (0.86) and MAE (0.69) were considerably lower than the benchmarks (1.04 and 0.84, respectively), indicating that using the difficulty estimates generated by the LLM provides better accuracy compared to estimates generated by a dummy regressor."
 
