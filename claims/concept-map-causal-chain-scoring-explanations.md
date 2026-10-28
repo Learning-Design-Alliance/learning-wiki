@@ -47,3 +47,4 @@ The editors report, citing Wiley et al., manual assessment of middle and high sc
 ## Related Claims
 - [More successful Betty's Brain students showed significantly higher science learning gains, more accurate causal map edits, and more contextually focused, less random activities.](more-successful-students-higher-gains-focused-actions.md) — related
 - [Cluster analysis of coherence metrics on 98 students revealed five distinct behavior profiles, with engaged and efficient students showing the highest reading scores and significantly higher science gains than all other clusters.](coherence-cluster-five-behavior-profiles-outcomes.md) — related
+- [Argument-structure measures (propositions, links, easy chain) predict explanation quality and comprehension](argument-structure-measures-predict-quality-and-comprehension.md) — possibly the same claim (merge candidate)

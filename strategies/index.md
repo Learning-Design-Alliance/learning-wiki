@@ -2,7 +2,7 @@
 
 Concrete teaching activity recipes — specific, implementable approaches.
 
-**7220 entries** · 0 stable · 7220 in review · 0 drafts
+**7221 entries** · 0 stable · 7221 in review · 0 drafts
 
 ---
 
@@ -6553,6 +6553,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Use expert teachers' gaze sequences, tailored to cultural context, as a template in professional development](expert-gaze-sequence-pd-template.md) - The article recommends that professional development programmes attend to the cognitive models of expert teachers as revealed by their gaze sequences.
 * [Use explainability tools (SHAP/LIME) and human monitoring for fair, transparent AI-driven personalized learning](explainability-tools-human-monitoring-personalized-learning.md) - The article recommends pairing AI-driven learning predictions with interpretability techniques and oversight.
 * [Use explainable machine learning early warning systems to help teachers identify struggling inquiry learners early](early-warning-system-teacher-support-inquiry.md) - The article recommends building early warning systems that integrate cognitive, affective, and metacognitive data from technology-enhanced learning environments so teachers can notice learners who struggle with self-r...
+* [Use explanation essays as a sensitive measure of student understanding](explanation-essays-assess-understanding.md) - The article argues that \"prompting students to articulate an explanation can provide a sensitive measure of student understanding\" and that \"explanation essays are a valuable way of assessing student learning.\" This s...
 * [Use exposure-based desensitization to numerical symbols to address the number-processing pathway of math anxiety](exposure-desensitization-numerical-symbols.md) - For the number-processing pathway, the authors propose exposure-based therapy in which individuals are repeatedly exposed to numerical information so that they \"become desensitized to numerical symbols\".
 * [Use expressive writing before math situations to offload worry and protect working memory resources](expressive-writing-before-math.md) - For the WM/affective-drop pathway, the authors recommend expressive writing — having learners write out negative affect and worry before exams and other math situations.
 * [Use external consulting and technical assistance to help colleges adapt programs to time-variant CBE models](external-consulting-ta-for-cbe-adaptation.md) - The brief describes Western Governors University as \"providing consulting and technical assistance to help the consortium colleges adapt their programs to time-variant, competency-based models.\" This pairs an experien...

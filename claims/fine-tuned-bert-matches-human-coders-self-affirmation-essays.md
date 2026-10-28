@@ -71,3 +71,4 @@ Interrater reliability analysis on an out-of-sample comparison dataset of 134 do
 - [Fine-tuning several pre-trained LLMs with class balancing, data augmentation, and tailored input modification reaches near human-level automated scoring accuracy on most extended-response mathematics assessment items](fine-tuned-llms-near-human-math-scoring.md) — related
 - [ML scoring models for scientific argumentation items achieved good to almost perfect agreement with human consensus scores (mean Cohen's kappa = 0.60)](ml-scoring-argumentation-mean-kappa-060.md) — related
 - [Learning-tip-to-lecture-topic coding by seven coders reached an overall agreement of 0.87 (Cohen's Kappa)](topic-coding-agreement-087.md) — related
+- [Two-phase machine learning approach detects causal relations and chains in student essays](machine-learning-detects-causal-relations-essays.md) — related

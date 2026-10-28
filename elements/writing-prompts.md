@@ -88,6 +88,7 @@ Writing prompts leverage the "generation effect": producing explanations and arg
 **[Writing Across the Curriculum / WAC programs](https://wac.colostate.edu)** — Institutional programs built on discipline-specific writing prompts (lab justifications, policy memos, position papers) that use authentic genres and audiences.
 
 **[AP and IB free-response items](https://apcentral.collegeboard.org)** — Highly specified exam prompts with explicit task verbs ("explain," "justify," "evaluate") and scoring rubrics; a mature example of prompts designed for valid assessment of reasoning.
+- [Use explanation essays as a sensitive measure of student understanding](../strategies/explanation-essays-assess-understanding.md)
 
 ## Key Sources
 - Bangert-Drowns, R. L., Hurley, M. M., & Wilkinson, B. (2004). The effects of school-based writing-to-learn interventions on academic achievement: A meta-analysis. *Review of Educational Research, 74*(1), 29–58. [doi:10.3102/00346543074001029](https://doi.org/10.3102/00346543074001029)

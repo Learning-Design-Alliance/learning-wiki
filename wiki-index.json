@@ -1,6 +1,6 @@
 {
 "counts":{
-"claim":31799,
+"claim":31806,
 "design":1175,
 "element":1057,
 "learner-variable":75,
@@ -10,7 +10,7 @@
 "process":18,
 "product":2150,
 "research-method":767,
-"strategy":7220,
+"strategy":7221,
 "theory":1360
 },
 "kinds":[
@@ -23275,6 +23275,16 @@
 "path":"claims/argument-scaffolds-proximal-success-no-knowledge-mediation.md",
 "status":"review",
 "title":"Computer-supported argument scaffolds improve argumentation within the scaffolded task, but argumentation does not mediate effects on domain-specific knowledge acquisition",
+"type":"claim"
+},
+{
+"description":"Argument-structure measures (propositions, links, easy chain) predict explanation quality and comprehension",
+"evidence_strength":"moderate",
+"id":"argument-structure-measures-predict-quality-and-comprehension",
+"newest_evidence":"2017",
+"path":"claims/argument-structure-measures-predict-quality-and-comprehension.md",
+"status":"review",
+"title":"Argument-structure measures (propositions, links, easy chain) predict explanation quality and comprehension",
 "type":"claim"
 },
 {
@@ -52567,6 +52577,16 @@
 "type":"claim"
 },
 {
+"description":"Coh-Metrix causality and cohesion predict comprehension; lexical diversity negatively predicts explanation quality",
+"evidence_strength":"moderate",
+"id":"coh-metrix-causality-cohesion-predict-comprehension",
+"newest_evidence":"2017",
+"path":"claims/coh-metrix-causality-cohesion-predict-comprehension.md",
+"status":"review",
+"title":"Coh-Metrix causality and cohesion predict comprehension; lexical diversity negatively predicts explanation quality",
+"type":"claim"
+},
+{
 "description":"Cohen's small, medium, and large effect size benchmarks are arbitrary and should not be interpreted rigidly",
 "evidence_strength":"weak",
 "id":"cohen-benchmarks-arbitrary",
@@ -54464,6 +54484,16 @@
 "path":"claims/combined-lnls-letter-sound-gains-over-control.md",
 "status":"review",
 "title":"Combined letter name and sound instruction produced greater letter sound gains than number instruction, with a trend over letter sound only instruction",
+"type":"claim"
+},
+{
+"description":"Combined LSA and Coh-Metrix measures predict comprehension with all but COPY as unique predictors",
+"evidence_strength":"moderate",
+"id":"combined-lsa-coh-metrix-predict-comprehension",
+"newest_evidence":"2017",
+"path":"claims/combined-lsa-coh-metrix-predict-comprehension.md",
+"status":"review",
+"title":"Combined LSA and Coh-Metrix measures predict comprehension with all but COPY as unique predictors",
 "type":"claim"
 },
 {
@@ -131749,6 +131779,16 @@
 "type":"claim"
 },
 {
+"description":"Hand-coded causal-model measures (target concepts, connections) predict comprehension test scores",
+"evidence_strength":"moderate",
+"id":"hand-coded-causal-model-measures-predict-comprehension",
+"newest_evidence":"2017",
+"path":"claims/hand-coded-causal-model-measures-predict-comprehension.md",
+"status":"review",
+"title":"Hand-coded causal-model measures (target concepts, connections) predict comprehension test scores",
+"type":"claim"
+},
+{
 "description":"Students produced a wide range of self-chosen hand-drawn representations, mostly frequency-based, but most summary statements only described the graph rather than its message",
 "evidence_strength":"moderate",
 "id":"hand-drawn-representations-value-frequency-solo",
@@ -172413,6 +172453,16 @@
 "type":"claim"
 },
 {
+"description":"LSA similarity to idealized peer explanation predicts explanation quality and comprehension",
+"evidence_strength":"moderate",
+"id":"lsa-idealized-peer-similarity-predicts-understanding",
+"newest_evidence":"2017",
+"path":"claims/lsa-idealized-peer-similarity-predicts-understanding.md",
+"status":"review",
+"title":"LSA similarity to idealized peer explanation predicts explanation quality and comprehension",
+"type":"claim"
+},
+{
 "description":"Lag sequential analysis revealed distinct choice-making trajectories: HPK students showed confidence-driven extra-task engagement and unre reflective repeated-failure sequences, while LPK students relied on preparator...",
 "evidence_strength":"moderate",
 "id":"lsa-pk-choice-trajectories",
@@ -172420,6 +172470,16 @@
 "path":"claims/lsa-pk-choice-trajectories.md",
 "status":"review",
 "title":"Lag sequential analysis revealed distinct choice-making trajectories: HPK students showed confidence-driven extra-task engagement and unre reflective repeated-failure sequences, while LPK students relied on preparatory worked examples",
+"type":"claim"
+},
+{
+"description":"LSA plagiarism score negatively predicts explanation quality but not comprehension",
+"evidence_strength":"moderate",
+"id":"lsa-plagiarism-negative-explanation-quality",
+"newest_evidence":"2017",
+"path":"claims/lsa-plagiarism-negative-explanation-quality.md",
+"status":"review",
+"title":"LSA plagiarism score negatively predicts explanation quality but not comprehension",
 "type":"claim"
 },
 {
@@ -173279,6 +173339,16 @@
 "path":"claims/mace-pd-no-student-effect.md",
 "status":"review",
 "title":"Teacher participation in the MACE professional development program added no measurable effect on any student outcome",
+"type":"claim"
+},
+{
+"description":"Two-phase machine learning approach detects causal relations and chains in student essays",
+"evidence_strength":"moderate",
+"id":"machine-learning-detects-causal-relations-essays",
+"newest_evidence":"2017",
+"path":"claims/machine-learning-detects-causal-relations-essays.md",
+"status":"review",
+"title":"Two-phase machine learning approach detects causal relations and chains in student essays",
 "type":"claim"
 },
 {
@@ -393809,6 +393879,14 @@
 "type":"strategy"
 },
 {
+"description":"The article argues that \\\"prompting students to articulate an explanation can provide a sensitive measure of student understanding\\\" and that \\\"explanation essays are a valuable way of assessing student learning.\\\" This s...",
+"id":"explanation-essays-assess-understanding",
+"path":"strategies/explanation-essays-assess-understanding.md",
+"status":"review",
+"title":"Use explanation essays as a sensitive measure of student understanding",
+"type":"strategy"
+},
+{
 "description":"To counter an over-focus on machine learning advances, the article endorses Rosé and colleagues' call for the “development of explanatory models of learners that not only accurately predict data but also provide scien...",
 "id":"explanatory-learner-models-predict-and-explain",
 "path":"strategies/explanatory-learner-models-predict-and-explain.md",
@@ -446748,6 +446826,7 @@
 "argument-diagramming-increases-citations-opposing-evidence":"argument-diagramming-increases-citations-opposing-evidence",
 "argument-gains-without-llm-support":"argument-gains-without-llm-support",
 "argument-scaffolds-proximal-success-no-knowledge-mediation":"argument-scaffolds-proximal-success-no-knowledge-mediation",
+"argument-structure-measures-predict-quality-and-comprehension":"argument-structure-measures-predict-quality-and-comprehension",
 "argument-visualization-essay-quality-gains":"argument-visualization-essay-quality-gains",
 "argument-visualization-seminar-lsat-gains":"argument-visualization-seminar-lsat-gains",
 "argumentation-implementation-challenges":"argumentation-implementation-challenges",
@@ -449598,6 +449677,7 @@
 "cogpgs-predicts-wm-change-both-samples":"cogpgs-predicts-wm-change-both-samples",
 "cogpgs-ses-independent-effects-intelligence":"cogpgs-ses-independent-effects-intelligence",
 "cogtax-max-rule-monotone-coverage":"cogtax-max-rule-monotone-coverage",
+"coh-metrix-causality-cohesion-predict-comprehension":"coh-metrix-causality-cohesion-predict-comprehension",
 "cohen-benchmarks-arbitrary":"cohen-benchmarks-arbitrary",
 "cohens-kappa-paradox-decision-consistency":"cohens-kappa-paradox-decision-consistency",
 "coherence-alignment-student-experience-supports":"coherence-alignment-student-experience-supports",
@@ -449785,6 +449865,7 @@
 "combined-intentional-incidental-greater-gains":"combined-intentional-incidental-greater-gains",
 "combined-lnls-beats-ls-letter-name-production-gains":"combined-lnls-beats-ls-letter-name-production-gains",
 "combined-lnls-letter-sound-gains-over-control":"combined-lnls-letter-sound-gains-over-control",
+"combined-lsa-coh-metrix-predict-comprehension":"combined-lsa-coh-metrix-predict-comprehension",
 "combined-measures-grade-overlapping":"combined-measures-grade-overlapping",
 "combined-mentoring-supports-largest-retention-gain":"combined-mentoring-supports-largest-retention-gain",
 "combined-method-advantage-weaker-and-abler-standard-iv":"spelling-method-advantage-across-ability-levels",
@@ -457359,6 +457440,7 @@
 "han-mck-quadratic-vk-linear-growth":"han-mck-quadratic-vk-linear-growth",
 "han-outperform-yao-vk-breadth":"han-outperform-yao-vk-breadth",
 "hand-asymmetry-reversal-bimanual-sms":"hand-asymmetry-reversal-bimanual-sms",
+"hand-coded-causal-model-measures-predict-comprehension":"hand-coded-causal-model-measures-predict-comprehension",
 "hand-drawn-representations-value-frequency-solo":"hand-drawn-representations-value-frequency-solo",
 "hand-movement-interference-disrupts-calculation":"hand-movement-interference-disrupts-calculation",
 "hand-over-face-gestures-frequent-increase-difficulty":"hand-over-face-gestures-frequent-increase-difficulty",
@@ -461330,7 +461412,9 @@
 "lrk-underrepresented-core-competency":"lrk-underrepresented-core-competency",
 "ls-only-possible-letter-name-interference":"ls-only-possible-letter-name-interference",
 "lsa-complete-chain-collaborator-only":"lsa-complete-chain-collaborator-only",
+"lsa-idealized-peer-similarity-predicts-understanding":"lsa-idealized-peer-similarity-predicts-understanding",
 "lsa-pk-choice-trajectories":"lsa-pk-choice-trajectories",
+"lsa-plagiarism-negative-explanation-quality":"lsa-plagiarism-negative-explanation-quality",
 "lsa-word-overlap-regex-best-semantic-matcher":"lsa-word-overlap-regex-best-semantic-matcher",
 "lsat-effect-sizes-smaller-than-cctst":"lsat-effect-sizes-smaller-than-cctst",
 "lsat-logic-games-transfer-composite-reasoning":"lsat-logic-games-transfer-composite-reasoning",
@@ -461413,6 +461497,7 @@
 "mace-no-gct-advantage":"mace-no-gct-advantage",
 "mace-no-shape-aspect-effect":"mace-no-shape-aspect-effect",
 "mace-pd-no-student-effect":"mace-pd-no-student-effect",
+"machine-learning-detects-causal-relations-essays":"machine-learning-detects-causal-relations-essays",
 "machine-learning-most-studied-ai-in-aied-reviews":"machine-learning-most-studied-ai-in-aied-reviews",
 "machine-learning-predicts-group-performance-synergy":"machine-learning-predicts-group-performance-synergy",
 "machine-learning-video-learners-visual-perception":"machine-learning-video-learners-visual-perception",
@@ -485172,6 +485257,7 @@
 "experts-down-the-hall-teacher-coaches":"experts-down-the-hall-teacher-coaches",
 "explain-cm-sign-motivations-strategy":"explain-cm-sign-motivations-strategy",
 "explainability-tools-human-monitoring-personalized-learning":"explainability-tools-human-monitoring-personalized-learning",
+"explanation-essays-assess-understanding":"explanation-essays-assess-understanding",
 "explanatory-learner-models-predict-and-explain":"explanatory-learner-models-predict-and-explain",
 "explicate-validate-and-address-negative-emotions":"explicate-validate-and-address-negative-emotions",
 "explicit-ai-prompting-verification-instruction":"explicit-ai-prompting-verification-instruction",

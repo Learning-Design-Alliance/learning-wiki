@@ -47254,5 +47254,9 @@
  "technology-tool\tAI-based automated grading\tmanual grading": {
   "label": "AI-based automated grading vs manual grading",
   "treatment_is_a": true
+ },
+ "other\t#i-think and #lets-discuss emoji use\tnot stated": {
+  "label": "emoji use vs no emoji use",
+  "treatment_is_a": true
  }
 }

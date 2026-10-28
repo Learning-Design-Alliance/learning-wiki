@@ -52,3 +52,4 @@ ML models trained on 361 randomly selected responses per item using an ensemble 
 - [The rule-based recipe annotation system reaches near-perfect inter-annotator agreement (Cohen's Kappa 0.85) and average accuracy 0.95 in a validation on sampled recipe segments.](relex-annotation-validation-kappa-accuracy.md) — related
 - [No significant differences in ML model performance across the three science item contexts](no-context-difference-ml-performance.md) — related
 - [No correlation between evenness of response score distribution and ML model performance](no-correlation-evenness-ml-performance.md) — related
+- [Two-phase machine learning approach detects causal relations and chains in student essays](machine-learning-detects-causal-relations-essays.md) — related

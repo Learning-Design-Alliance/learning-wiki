@@ -51,3 +51,4 @@ The editors report, citing Perin and Lauterbach, automated essay scoring of text
 - [Intelligence tests sometimes fail to predict college performance because character and temperament qualities play a deciding role](intelligence-tests-fail-college-performance-character.md) — related
 - [Training in text structure improves college students' summaries, but summarizing has not been shown here to improve recall or writing more than rereading or other active reading](summarization-improves-learning.md) — related
 - [The ten special-issue papers collectively indicate near-term feasibility of automated guidance and feedback on reading and writing skills](near-term-feasibility-automated-reading-writing-feedback.md) — a broader claim this one bears on
+- [Coh-Metrix causality and cohesion predict comprehension; lexical diversity negatively predicts explanation quality](coh-metrix-causality-cohesion-predict-comprehension.md) — related

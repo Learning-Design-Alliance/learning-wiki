@@ -57,3 +57,4 @@ Evaluation of machine learning models trained on a random 80% of labeled sentenc
 - [Prior machine learning research on reflection detection covers only partial models with no evidence of empirical validity and mostly no reported inter-rater reliability](prior-ml-reflection-research-fragmented-unvalidated.md) — related
 - [ML scoring models for scientific argumentation items achieved good to almost perfect agreement with human consensus scores (mean Cohen's kappa = 0.60)](ml-scoring-argumentation-mean-kappa-060.md) — related
 - [Learning-tip-to-lecture-topic coding by seven coders reached an overall agreement of 0.87 (Cohen's Kappa)](topic-coding-agreement-087.md) — related
+- [Two-phase machine learning approach detects causal relations and chains in student essays](machine-learning-detects-causal-relations-essays.md) — related
