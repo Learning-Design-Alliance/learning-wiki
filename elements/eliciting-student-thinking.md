@@ -84,6 +84,7 @@ Eliciting thinking converts passive reception into generative processing; verbal
 - **Accountable Talk** (Institute for Learning, University of Pittsburgh) — discourse routines with prompts ("Do you agree? How do you know?") that press students to articulate and justify reasoning. [https://ifl.pitt.edu](https://ifl.pitt.edu)
 - **[Think-Pair-Share](../patterns/think-pair-share.md)** — a minimal elicitation structure: individual thinking, rehearsal with a partner, then public sharing; lowers the risk of public elicitation for anxious students.
 - [Have learners bring their own thinking before using generative AI to enable productive struggle](../strategies/own-thinking-before-generative-ai-productive-struggle.md)
+- [Use explanation essays as a sensitive measure of student understanding](../strategies/explanation-essays-assess-understanding.md)
 
 ## Key Sources
 - Chi, M. T. H., de Leeuw, N., Chiu, M.-H., & LaVancher, C. (1994). Eliciting self-explanations improves understanding. *Cognitive Science, 18*(3), 439–477. [doi:10.1207/s15516709cog1803_3](https://doi.org/10.1207/s15516709cog1803_3)
