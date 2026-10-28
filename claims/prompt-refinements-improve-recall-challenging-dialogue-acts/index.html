@@ -1,0 +1,115 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Prompt refinements targeting inter-label confusion yield superior recall rates for challenging dialogue act labels, including Command (F1 raised to 0.75) and Other (GPT-4 recall 0.67 vs. T5 0.54). - Learning Design Wiki</title>
+<link rel="icon" href="../../branding/lda-monogram-dawn.svg" type="image/svg+xml">
+<link rel="stylesheet" href="../../assets/stylesheets/main.57a0d79d.min.css">
+<link rel="stylesheet" href="../../assets/stylesheets/palette.fb2fffe2.min.css">
+<link rel="stylesheet" href="../../branding/lda-theme.css">
+<style>
+.lt-header{background:var(--md-primary-fg-color);color:var(--md-primary-bg-color);padding:.6rem 1rem;font-size:.8rem}
+.lt-header a{color:inherit;text-decoration:none;margin-right:.6rem}
+.lt-header a:hover{text-decoration:underline}
+.lt-header form{display:inline;float:right}
+.lt-main{max-width:52rem;margin:0 auto;padding:1rem 1.2rem 3rem}
+</style>
+</head>
+<body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
+<script>try{var s=new URL("../../"||".",location).pathname,p=JSON.parse(localStorage.getItem(s+".__palette"));if(p&&p.color){for(var k of ["scheme","primary","accent"])if(p.color[k])document.body.setAttribute("data-md-color-"+k,p.color[k])}}catch(e){}</script>
+<header class="lt-header">
+<a class="lt-logo" href="../../"><img src="../../branding/lda-monogram-lapis.svg" alt="Learning Design Wiki"></a>
+<a href="../../claims/">Claims</a>
+<form class="lt-header-search" action="../../search/" role="search"><input name="q" type="search" placeholder="Search" aria-label="Search the wiki"></form>
+</header>
+<main class="lt-main"><article class="md-typeset" data-pagefind-body data-pagefind-filter="kind:Claim">
+<h1 id="prompt-refinements-targeting-inter-label-confusion-yield-superior-recall-rates-for-challenging-dialogue-act-labels-including-command-f1-raised-to-075-and-other-gpt-4-recall-067-vs-t5-054">Prompt refinements targeting inter-label confusion yield superior recall rates for challenging dialogue act labels, including Command (F1 raised to 0.75) and Other (GPT-4 recall 0.67 vs. T5 0.54).<a class="headerlink" href="#prompt-refinements-targeting-inter-label-confusion-yield-superior-recall-rates-for-challenging-dialogue-act-labels-including-command-f1-raised-to-075-and-other-gpt-4-recall-067-vs-t5-054" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Claim</strong> · <a href="../">All claims</a><br />
+<strong>Evidence</strong> · 1 study · design <code>r2</code> · <code>q2</code><br />
+<strong>Currency</strong> · newest study 2024 · not yet checked against its sources · not reviewed by a person</p>
+</blockquote>
+<h2 id="subclaims">Subclaims<a class="headerlink" href="#subclaims" title="Permanent link">&para;</a></h2>
+<details class="info">
+<summary>Reading the evidence codes</summary>
+<p><code>q</code> is the design tier, <code>i</code> the impact, <code>n</code> the sample, and the kind with its <code>r</code>
+the rigour judged within that kind: <a href="../evidence-codes/">what each code means</a>.</p>
+<p><strong>This claim:</strong> no standardized effect is recorded in <code>observations/</code> for it yet, so no benchmark reading is possible.</p>
+</details>
+<p><code>q2 i?</code> Adding Command label clarification and training context raised the Command label's F1 score to 0.75 for GPT-3.5, and GPT-4 achieved higher recall than T5 on the Other label (0.67 vs. 0.54) and Action-Statement label (0.73 vs. 0.46). <a href="#spain-2024">→ Spain 2024</a></p>
+<h2 id="evidence">Evidence<a class="headerlink" href="#evidence" title="Permanent link">&para;</a></h2>
+<h3 id="spain-2024">Spain 2024<a class="headerlink" href="#spain-2024" title="Permanent link">&para;</a></h3>
+<p>Spain, R., Min, W., Kumaran, V., Pande, V., Saville, J., &amp; Lester, J. (2024). Applying Large Language Models to Enhance Dialogue and Communication Analysis for Adaptive Team Training. https://doi.org/10.21203/rs.3.rs-4565500/v1</p>
+<p><code>q2 · i?</code> · <code>design · r2</code></p>
+<p>Error analysis of the highest-performing models using confusion matrices. The article reports that adding Command clarification and context "raised the Command labels F1 score to 0.75 for GPT-3.5", and separately notes GPT-4's recall of 0.67 on Other vs. T5's 0.54, and 0.73 vs. 0.46 on Action-Statement.</p>
+<blockquote>
+<p>"This clarication, along with the new Context section detailing the training scenario and team roles, and including the speaker's role in the utterances, notably enhanced the accuracy to 0.6 and raised the Command labels F1 score to 0.75 for GPT-3.5."</p>
+</blockquote>
+<h2 id="discussion">Discussion<a class="headerlink" href="#discussion" title="Permanent link">&para;</a></h2>
+<h2 id="related-claims">Related Claims<a class="headerlink" href="#related-claims" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="../gpt4-normalized-accuracy-improvement-5-73-percent-over-t5/">GPT-4 outperforms fine-tuned T5 by a normalized accuracy improvement of 5.73% for dialogue act recognition on the same held-out test set.</a> — related</li>
+<li><a href="../iterative-prompt-engineering-improves-gpt-dialogue-act-accuracy/">Iterative prompt engineering stages progressively improve GPT-3.5 dialogue act recognition accuracy from 0.369 to 0.631 on the training set.</a> — related</li>
+<li><a href="../provide-info-request-info-other-most-confused-labels/">Provide-Info, Request-Info, and Other are the dialogue act labels most commonly confused by both GPT-4 and T5 classifiers.</a> — related</li>
+<li><a href="../gpt4-zero-shot-dialogue-act-recognition-outperforms-t5-baselines/">Zero-shot GPT-4 with iterative prompt engineering achieves 77.30% dialogue act recognition accuracy, outperforming fine-tuned T5, CRF, and BLSTM baselines on a held-out test set.</a> — a broader claim this one bears on</li>
+</ul>
+<details class="info">
+<summary>Page metadata</summary>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>type</code></td>
+<td><code>claim</code></td>
+</tr>
+<tr>
+<td><code>id</code></td>
+<td><code>prompt-refinements-improve-recall-challenging-dialogue-acts</code></td>
+</tr>
+<tr>
+<td><code>title</code></td>
+<td><code>Prompt refinements targeting inter-label confusion yield superior recall rates for challenging dialogue act labels, including Command (F1 raised to 0.75) and Other (GPT-4 recall 0.67 vs. T5 0.54).</code></td>
+</tr>
+<tr>
+<td><code>description</code></td>
+<td><code>Prompt refinements targeting inter-label confusion yield superior recall rates for challenging dialogue act labels, including Command (F1 raised to 0.75) and Other (GPT-4 recall 0.67 vs.</code></td>
+</tr>
+<tr>
+<td><code>status</code></td>
+<td><code>review</code></td>
+</tr>
+<tr>
+<td><code>evidence_strength</code></td>
+<td><code>moderate</code></td>
+</tr>
+<tr>
+<td><code>newest_evidence</code></td>
+<td><code>2024</code></td>
+</tr>
+<tr>
+<td><code>generated</code></td>
+<td>by <code>process:wiki-ingest</code> on <code>2026-10-28</code></td>
+</tr>
+<tr>
+<td><code>trust</code></td>
+<td>unverified — no one has confirmed this page's content</td>
+</tr>
+<tr>
+<td><code>sources</code></td>
+<td>1 — <code>spain-2024</code></td>
+</tr>
+</tbody>
+</table>
+<p>Frontmatter is the page's machine-readable record — see the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
+</details>
+</article></main>
+<footer class="lt-footer"><span class="lda-footer-links"><a href="https://www.learningdesignalliance.org">Learning Design Alliance</a> · <a href="https://reports.learningdesignalliance.org">Research reports</a> · <a href="https://wiki.learningdesignalliance.org">Wiki</a> · <a href="https://lazuli.design">Lazuli</a></span> &copy; Learning Design Alliance — content licensed CC BY-SA 4.0 where copyright applies; pages are written largely by AI (<a href="https://wiki.learningdesignalliance.org/checks/#who-wrote-this-and-the-license">who wrote this, and the license</a>)</footer>
+<script src="../../assets/javascripts/lt-nav.js" data-root="../../" data-folder="claims"></script>
+</body>
+</html>
