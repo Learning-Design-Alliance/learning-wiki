@@ -17,7 +17,7 @@ sources:
 # Intelligent tutoring systems can adapt practice schedules based on prior knowledge and target knowledge type.
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 causal), `q3` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The article proposes that intelligent tutoring systems might adapt practice schedules by initially selecting a schedule appropriate for the student's prior knowledge level and monitoring acquisition to adapt the schedule accordingly. The system might also "initially prioritize on a particularly important type of knowledge, such as conceptual knowledge, to select the appropriate practice schedule." This strategy leverages the hypothesized interaction between practice schedule, prior knowledge, and target knowledge.
@@ -40,7 +40,7 @@ The article proposes that intelligent tutoring systems might adapt practice sche
 
 - [The effect of practice schedules on learning outcomes depends on students' prior knowledge.](../claims/schedule-effect-depends-prior-knowledge.md) [+W]
 - [The effect of practice schedules depends on the type of target knowledge, with increasingly interleaved practice most effective for area models.](../claims/schedule-effect-depends-target-knowledge.md) [+W]
-- [Interleaved practice with multiple graphical representations leads to better learning outcomes than blocked practice.](../claims/interleaved-representations-better-learning.md) [+W]
+- [Interleaving multiple graphical representations of fractions gave a qualified advantage over blocked practice, mainly on delayed conceptual transfer and for low-prior-knowledge students](../claims/interleaved-representations-better-learning.md) [+W]
 
 ## Related Strategies
 

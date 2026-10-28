@@ -40,7 +40,7 @@ The article recommends that attention (re)direction strategies "should be used s
 
 - [GazeTutor's attention-aware reorientation improved deep reasoning learning gains for high aptitude learners](../claims/gazetutor-deep-reasoning-gains-high-aptitude.md) [+W]
 - [GazeTutor successfully reoriented learners' attentional patterns towards the interface](../claims/gazetutor-reoriented-attention.md) [+W]
-- [Real-time mind wandering intervention corrected comprehension deficits when mind wandering probability was high](../claims/mind-wandering-intervention-corrects-comprehension.md) [~W]
+- [Preliminary results suggest a real-time mind-wandering intervention may correct comprehension deficits when mind-wandering probability is high](../claims/mind-wandering-intervention-corrects-comprehension.md) [~W]
 
 ## Related Strategies
 

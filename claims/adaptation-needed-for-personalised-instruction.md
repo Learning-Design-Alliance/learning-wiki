@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: weak
 newest_evidence: 2003
+source_checked: 2026-10-28
 sources:
   - id: vania-dimitrova-2003
     resource: "https://telearn.hal.science/hal-00197312"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r?` · `q1`
-> **Currency** · newest study 2003 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2003 · checked against its sources 2026-10-28 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` There is a strong argument in AI in Education that adaptive systems are needed for effective personalised instruction. [→ Vania Dimitrova 2003](#vania-dimitrova-2003)

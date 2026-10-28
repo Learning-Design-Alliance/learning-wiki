@@ -9,6 +9,7 @@ generated:
   at: 2026-10-09
 evidence_strength: weak
 newest_evidence: 2026
+source_checked: 2026-10-28
 sources:
   - id: gartrell-2026
     resource: "https://doi.org/10.51388/20.500.12265/299"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q1`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-10-28 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` By compressing the time from idea to prototype, AI tools allow UX teams to spend more time on understanding the problem and aligning the team around how to solve it. [→ Gartrell 2026](#gartrell-2026)

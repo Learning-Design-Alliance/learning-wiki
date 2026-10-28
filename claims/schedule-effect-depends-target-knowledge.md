@@ -45,7 +45,7 @@ The classroom experiment found the increasingly interleaved condition was "most 
 
 
 ## Related Claims
-- [Interleaved practice with multiple graphical representations leads to better learning outcomes than blocked practice.](interleaved-representations-better-learning.md) — related
+- [Interleaving multiple graphical representations of fractions gave a qualified advantage over blocked practice, mainly on delayed conceptual transfer and for low-prior-knowledge students](interleaved-representations-better-learning.md) — related
 - [The effect of practice schedules on learning outcomes depends on students' prior knowledge.](schedule-effect-depends-prior-knowledge.md) — related
 - [Interleaving category examples improves inductive category learning for visual and mathematical materials, but not for expository texts or word categories](interleaving-improves-inductive-learning.md) — related
 - [Interleaving Improves Discrimination](interleaving-improves-discrimination.md) — related

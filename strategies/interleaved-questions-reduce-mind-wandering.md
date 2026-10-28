@@ -39,7 +39,7 @@ The article suggests correcting mind wandering by reasserting missed information
 ## Claims
 
 - [GazeTutor's attention-aware reorientation improved deep reasoning learning gains for high aptitude learners](../claims/gazetutor-deep-reasoning-gains-high-aptitude.md) [+W]
-- [Real-time mind wandering intervention corrected comprehension deficits when mind wandering probability was high](../claims/mind-wandering-intervention-corrects-comprehension.md) [+W]
+- [Preliminary results suggest a real-time mind-wandering intervention may correct comprehension deficits when mind-wandering probability is high](../claims/mind-wandering-intervention-corrects-comprehension.md) [+W]
 - [Providing elaborate explanations and summary interactives instead of just scores increases students' perceptions of engagement and understanding and reduces mind wandering](../claims/elaborate-feedback-raises-engagement-perceptions.md) [+W]
 - [Questions interpolated between video lecture segments improve subsequent test performance and reduce mind wandering](../claims/interpolated-questions-improve-video-learning.md) [+M]
 

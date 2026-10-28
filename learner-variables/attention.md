@@ -171,7 +171,7 @@ How long a learner can sustain focus, and how readily something else takes it. D
 - [Cognitive control strategies helped young children maintain attention during real coding lessons](../claims/cognitive-control-strategies-maintain-young-children-attention-coding.md) [+M] — instruction changes it
 - [Strategy-group children maintained stable attention across lessons while control-group attention varied by lesson](../claims/stable-attention-across-lessons-strategy-group.md) [+M] — instruction changes it
 - [GazeTutor successfully reoriented learners' attentional patterns towards the interface](../claims/gazetutor-reoriented-attention.md) [+M] — instruction changes it
-- [Real-time mind wandering intervention corrected comprehension deficits when mind wandering probability was high](../claims/mind-wandering-intervention-corrects-comprehension.md) [~W] — an instructional effect differs with it
+- [Preliminary results suggest a real-time mind-wandering intervention may correct comprehension deficits when mind-wandering probability is high](../claims/mind-wandering-intervention-corrects-comprehension.md) [~W] — an instructional effect differs with it
 
 ## The evidence by question
 - *Does making material more interesting with details that do not carry the target cost learning?* [Interesting but irrelevant details can impair comprehension and transfer, with effects that vary with the material and the learner](../claims/seductive-details-effect.md) [+S]

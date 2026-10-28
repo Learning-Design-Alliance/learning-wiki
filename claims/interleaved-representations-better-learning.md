@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Interleaved practice with multiple graphical representations leads to better learning outcomes than blocked practice.
-description: Interleaved practice with multiple graphical representations leads to better learning outcomes than blocked practice.
+title: Interleaving multiple graphical representations of fractions gave a qualified advantage over blocked practice, mainly on delayed conceptual transfer and for low-prior-knowledge students
+description: Interleaving multiple graphical representations of fractions gave a qualified advantage over blocked practice, mainly on delayed conceptual transfer and for low-prior-knowledge students
 id: interleaved-representations-better-learning
 status: review
 generated:
@@ -9,25 +9,27 @@ generated:
   at: 2026-10-28
 evidence_strength: moderate
 newest_evidence: 2014
+source_checked: 2026-10-28
 sources:
   - id: rau-2014
     resource: "https://doi.org/10.1007/s40593-013-0011-7"
     title: "Rau, M. A., Aleven, V., Rummel, N., & Pardos, Z. (2014). How Should Intelligent Tutoring Systems Sequence Multiple Graphical Representations of Fractions? A Multi-Methods Study. Int J Artif Intell Educ. https://doi.org/10.1007/s40593-013-0011-7"
     author: "Rau, M. A., Aleven, V., Rummel, N., & Pardos, Z."
     q: 3
-    i: "?"
+    i: 1
+    n: 230
     kind: causal
     rigour: "?"
 ---
 
-# Interleaved practice with multiple graphical representations leads to better learning outcomes than blocked practice.
+# Interleaving multiple graphical representations of fractions gave a qualified advantage over blocked practice, mainly on delayed conceptual transfer and for low-prior-knowledge students
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · causal `r?` · `q3`
-> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
+> **Evidence** · 1 study · causal `r?` · `q3` · `i1` small · n=230
+> **Currency** · newest study 2014 · checked against its sources 2026-10-28 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
-`q3 i?` Students learning with interleaved graphical representations outperformed those learning with blocked representations on several measures of robust learning. [→ Rau 2014](#rau-2014)
+`q3 i1` Across four practice schedules there was no significant main effect of schedule; the fully interleaved schedule significantly outperformed the other three on delayed conceptual transfer (d=0.33), the increasingly interleaved schedule had a marginal advantage on reproduction with area models (p<0.10, d=0.30), and the fully interleaved schedule beat the blocked one for students with low prior knowledge. [→ Rau 2014](#rau-2014)
 
 ## Evidence
 
@@ -35,9 +37,9 @@ sources:
 
 Rau, M. A., Aleven, V., Rummel, N., & Pardos, Z. (2014). How Should Intelligent Tutoring Systems Sequence Multiple Graphical Representations of Fractions? A Multi-Methods Study. Int J Artif Intell Educ. https://doi.org/10.1007/s40593-013-0011-7
 
-`q3 · i?` · `causal · r?`
+`q3 · randomised classroom experiment` · `i1 · small effect (d=0.33, delayed conceptual transfer)` · `n=230` · `causal · r?`
 
-A classroom experiment with the Fractions Tutor compared blocked and interleaved practice schedules of graphical representations among 230 4th- and 5th-grade students, finding that "interleaved practice leads to better learning outcomes than blocked practice on a number of measures."
+A classroom experiment with the Fractions Tutor randomly assigned 230 analysed 4th- and 5th-grade students to four practice schedules of multiple graphical representations (blocked, moderately, fully and increasingly interleaved). The authors call their results "qualified support" for interleaving: there was "no significant main effect of practice schedules on any knowledge type"; the fully interleaved condition significantly outperformed the other three conditions together "only on conceptual transfer at the delayed posttest" (p<0.05, d=0.33); the increasingly interleaved condition had a marginally significant advantage on reproduction with area models (p<0.10, d=0.30); and for students with low prior knowledge the fully interleaved condition did significantly better than the blocked one, with no differences for high prior knowledge students. The blocked condition never outperformed an interleaved one. The abstract's "on a number of measures" summarises this pattern, not several significant between-condition differences.
 
 > "Based on data from 230 4th and 5th-grade students, we found that interleaved practice leads to better learning outcomes than blocked practice on a number of measures."
 

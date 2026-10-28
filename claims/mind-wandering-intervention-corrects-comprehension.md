@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Real-time mind wandering intervention corrected comprehension deficits when mind wandering probability was high
-description: Real-time mind wandering intervention corrected comprehension deficits when mind wandering probability was high
+title: Preliminary results suggest a real-time mind-wandering intervention may correct comprehension deficits when mind-wandering probability is high
+description: Preliminary results suggest a real-time mind-wandering intervention may correct comprehension deficits when mind-wandering probability is high
 id: mind-wandering-intervention-corrects-comprehension
 status: review
 generated:
@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: weak
 newest_evidence: 2016
+source_checked: 2026-10-28
 sources:
   - id: dmello-2016
     resource: "https://doi.org/10.1007/s40593-016-0104-1"
@@ -20,11 +21,11 @@ sources:
     rigour: 2
 ---
 
-# Real-time mind wandering intervention corrected comprehension deficits when mind wandering probability was high
+# Preliminary results suggest a real-time mind-wandering intervention may correct comprehension deficits when mind-wandering probability is high
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
-> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2016 · checked against its sources 2026-10-28 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Preliminary results suggest the mind-wandering intervention system is effective in correcting comprehension deficits when the probability of mind wandering is high. [→ D’Mello 2016](#dmello-2016)
@@ -37,7 +38,7 @@ D’Mello, S. K. (2016). Giving Eyesight to the Blind: Towards Attention-Aware A
 
 `q1 · i?` · `theoretical · r2`
 
-An intelligent computerized reading interface detected mind wandering in real time and responded by asking comprehension questions and prompting re-reading. The article reports that "Preliminary results suggest that the system is effective in correcting comprehension deficits when the probability of mind wandering is high"; the efficacy experiment compares learners to a yoked-control condition.
+An intelligent computerized reading interface detected mind wandering in real time and responded by asking comprehension questions and prompting re-reading. This is a position paper describing the system, not a report of a completed trial: it says the intervention's efficacy "is currently being tested in an experiment that compares learners who received the intervention to a yoked-control condition", and that "Preliminary results suggest" it corrects comprehension deficits when the probability of mind wandering is high. No sample, statistics or effect size are reported.
 
 > "Preliminary results suggest that the system is effective in correcting comprehension deficits when the probability of mind wandering is high"
 

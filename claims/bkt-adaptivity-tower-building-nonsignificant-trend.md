@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: weak
 newest_evidence: 2024
+source_checked: 2026-10-28
 sources:
   - id: yannier-2024
     resource: "https://doi.org/10.1007/s40593-023-00388-5"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · checked against its sources 2026-10-28 (automated, 1 of 1 entry) · not reviewed by a person
 > **Design limits** · Yannier 2024: groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-28)
 
 ## Subclaims

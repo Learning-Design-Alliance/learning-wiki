@@ -69,7 +69,7 @@ TPACK is not additive — a teacher cannot be TPACK-competent by separately mast
 - [The educational value of GAI is contingent on pedagogical integration, not on the technology itself](../claims/gai-value-contingent-on-pedagogical-integration.md) [+W]
 - [Faculty report high self-perceived knowledge in traditional TPACK domains but substantially lower self-perceived knowledge in technology-integrated GenAI domains](../claims/faculty-high-traditional-low-technology-integrated-genai-knowledge.md) [~W]
 - [Behavioral patterns alone insufficiently predict AI-TPACK capacity because Cluster 3 is polarized between expert-level and surface-level integration](../claims/behavior-alone-insufficient-predict-ai-tpack.md) [~W]
-- [SDT-driven activity system redesign in Cycle 2 produced significant pre-post gains in AI-TPACK (d = 0.70), IPACK (d = 0.86), and AI attitude (d = 0.58)](../claims/sdt-driven-redesign-capacity-willingness-gains.md) [+W]
+- [After an SDT-driven redesign of a two-day teacher workshop (one cohort of 26, no control group), self-reported AI-TPACK (d = 0.70), IPACK (d = 0.86) and AI attitude (d = 0.58) rose significantly from pre to post](../claims/sdt-driven-redesign-capacity-willingness-gains.md) [+W]
 - [Technological knowledge of GenAI is strongly associated with self-perceived knowledge in technology-integrated domains](../claims/tk-strongly-associated-technology-integrated-domains.md) [+W]
 - [Review reports that teachers' beliefs, attitudes and TPACK—not AI knowledge alone—mediate AI integration](../claims/teacher-beliefs-mediate-ai-integration.md) [+W]
 - [Teacher educators show shallow understanding of GenAI tools and gaps in aligning AI use with pedagogical goals](../claims/teacher-educators-shallow-genai-understanding-gaps.md) [~W]

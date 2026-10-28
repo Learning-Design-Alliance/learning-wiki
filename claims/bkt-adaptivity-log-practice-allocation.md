@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: moderate
 newest_evidence: 2024
+source_checked: 2026-10-28
 sources:
   - id: yannier-2024
     resource: "https://doi.org/10.1007/s40593-023-00388-5"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · checked against its sources 2026-10-28 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In the adaptive condition over 80% of group-by-task sequences ended in mastery versus 16.7% in the random condition. [→ Yannier 2024](#yannier-2024)

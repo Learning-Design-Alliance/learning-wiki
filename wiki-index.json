@@ -6453,6 +6453,7 @@
 "id":"adaptation-needed-for-personalised-instruction",
 "newest_evidence":"2003",
 "path":"claims/adaptation-needed-for-personalised-instruction.md",
+"source_checked":"2026-10-28",
 "status":"review",
 "title":"Computer-based learning systems need to adapt to learners' needs to provide effective personalised instruction",
 "type":"claim"
@@ -12592,6 +12593,7 @@
 "id":"ai-compression-frees-human-led-alignment",
 "newest_evidence":"2026",
 "path":"claims/ai-compression-frees-human-led-alignment.md",
+"source_checked":"2026-10-28",
 "status":"review",
 "title":"AI tools compress idea-to-prototype time, freeing UX teams for human-led connection and alignment",
 "type":"claim"
@@ -32832,6 +32834,7 @@
 "id":"bkt-adaptivity-log-practice-allocation",
 "newest_evidence":"2024",
 "path":"claims/bkt-adaptivity-log-practice-allocation.md",
+"source_checked":"2026-10-28",
 "status":"review",
 "title":"Log analysis shows adaptive condition concentrates practice on unmastered concepts while random condition over-practices easy ones",
 "type":"claim"
@@ -32842,6 +32845,7 @@
 "id":"bkt-adaptivity-mixed-reality-improves-science-learning",
 "newest_evidence":"2024",
 "path":"claims/bkt-adaptivity-mixed-reality-improves-science-learning.md",
+"source_checked":"2026-10-28",
 "status":"review",
 "title":"BKT adaptivity in a mixed-reality Intelligent Science Station improves children's post-test learning of scientific principles compared to random task selection",
 "type":"claim"
@@ -32852,6 +32856,7 @@
 "id":"bkt-adaptivity-no-enjoyment-cost",
 "newest_evidence":"2024",
 "path":"claims/bkt-adaptivity-no-enjoyment-cost.md",
+"source_checked":"2026-10-28",
 "status":"review",
 "title":"Adaptivity does not sacrifice enjoyment",
 "type":"claim"
@@ -32862,6 +32867,7 @@
 "id":"bkt-adaptivity-tower-building-nonsignificant-trend",
 "newest_evidence":"2024",
 "path":"claims/bkt-adaptivity-tower-building-nonsignificant-trend.md",
+"source_checked":"2026-10-28",
 "status":"review",
 "title":"Adaptive condition shows only a non-significant trend for transfer to engineering outcomes (tower building)",
 "type":"claim"
@@ -67781,6 +67787,7 @@
 "id":"cts-high-learner-control-enjoyment-tg1-cg",
 "newest_evidence":"2025",
 "path":"claims/cts-high-learner-control-enjoyment-tg1-cg.md",
+"source_checked":"2026-10-28",
 "status":"review",
 "title":"TG1 rated learning enjoyment higher than CG (d = 0.49), not significant after Bonferroni correction.",
 "type":"claim"
@@ -116104,6 +116111,7 @@
 "id":"game-show-increases-tutoring-engagement",
 "newest_evidence":"2013",
 "path":"claims/game-show-increases-tutoring-engagement.md",
+"source_checked":"2026-10-28",
 "status":"review",
 "title":"The competitive Game Show increased students' tutoring engagement relative to baseline",
 "type":"claim"
@@ -136598,6 +136606,7 @@
 "id":"human-experts-more-nuanced-feedback-than-llm-mrs",
 "newest_evidence":"2025",
 "path":"claims/human-experts-more-nuanced-feedback-than-llm-mrs.md",
+"source_checked":"2026-10-28",
 "status":"review",
 "title":"Human experts provide more nuanced and mixed feedback than ChatGPT-4o and Perplexity in mixed reality simulation mentoring",
 "type":"claim"
@@ -147511,13 +147520,14 @@
 "type":"claim"
 },
 {
-"description":"Interleaved practice with multiple graphical representations leads to better learning outcomes than blocked practice.",
+"description":"Interleaving multiple graphical representations of fractions gave a qualified advantage over blocked practice, mainly on delayed conceptual transfer and for low-prior-knowledge students",
 "evidence_strength":"moderate",
 "id":"interleaved-representations-better-learning",
 "newest_evidence":"2014",
 "path":"claims/interleaved-representations-better-learning.md",
+"source_checked":"2026-10-28",
 "status":"review",
-"title":"Interleaved practice with multiple graphical representations leads to better learning outcomes than blocked practice.",
+"title":"Interleaving multiple graphical representations of fractions gave a qualified advantage over blocked practice, mainly on delayed conceptual transfer and for low-prior-knowledge students",
 "type":"claim"
 },
 {
@@ -162253,6 +162263,7 @@
 "id":"limited-evidence-long-term-metacognitive-retention",
 "newest_evidence":"2016",
 "path":"claims/limited-evidence-long-term-metacognitive-retention.md",
+"source_checked":"2026-10-28",
 "status":"review",
 "title":"Computer-based metacognitive scaffolding shows limited evidence of long-term retention or transfer of the scaffolded skills",
 "type":"claim"
@@ -164821,6 +164832,7 @@
 "id":"llm-feedback-no-significant-grade-gain",
 "newest_evidence":"2025",
 "path":"claims/llm-feedback-no-significant-grade-gain.md",
+"source_checked":"2026-10-28",
 "status":"review",
 "title":"LLM-enhanced feedback did not yield a statistically significant improvement in final grades compared with traditional AI feedback",
 "type":"claim"
@@ -168677,6 +168689,7 @@
 "id":"low-irr-experts-vs-ai-coding",
 "newest_evidence":"2025",
 "path":"claims/low-irr-experts-vs-ai-coding.md",
+"source_checked":"2026-10-28",
 "status":"review",
 "title":"Inter-rater reliability between human experts and AI coding is very low",
 "type":"claim"
@@ -180547,13 +180560,14 @@
 "type":"claim"
 },
 {
-"description":"Real-time mind wandering intervention corrected comprehension deficits when mind wandering probability was high",
+"description":"Preliminary results suggest a real-time mind-wandering intervention may correct comprehension deficits when mind-wandering probability is high",
 "evidence_strength":"weak",
 "id":"mind-wandering-intervention-corrects-comprehension",
 "newest_evidence":"2016",
 "path":"claims/mind-wandering-intervention-corrects-comprehension.md",
+"source_checked":"2026-10-28",
 "status":"review",
-"title":"Real-time mind wandering intervention corrected comprehension deficits when mind wandering probability was high",
+"title":"Preliminary results suggest a real-time mind-wandering intervention may correct comprehension deficits when mind-wandering probability is high",
 "type":"claim"
 },
 {
@@ -185957,6 +185971,7 @@
 "id":"more-successful-students-higher-gains-focused-actions",
 "newest_evidence":"2016",
 "path":"claims/more-successful-students-higher-gains-focused-actions.md",
+"source_checked":"2026-10-28",
 "status":"review",
 "title":"More successful Betty's Brain students showed significantly higher science learning gains, more accurate causal map edits, and more contextually focused, less random activities.",
 "type":"claim"
@@ -257758,13 +257773,14 @@
 "type":"claim"
 },
 {
-"description":"SDT-driven activity system redesign in Cycle 2 produced significant pre-post gains in AI-TPACK (d = 0.70), IPACK (d = 0.86), and AI attitude (d = 0.58)",
+"description":"After an SDT-driven redesign of a two-day teacher workshop (one cohort of 26, no control group), self-reported AI-TPACK (d = 0.70), IPACK (d = 0.86) and AI attitude (d = 0.58) rose significantly from pre to post",
 "evidence_strength":"moderate",
 "id":"sdt-driven-redesign-capacity-willingness-gains",
 "newest_evidence":"2026",
 "path":"claims/sdt-driven-redesign-capacity-willingness-gains.md",
+"source_checked":"2026-10-28",
 "status":"review",
-"title":"SDT-driven activity system redesign in Cycle 2 produced significant pre-post gains in AI-TPACK (d = 0.70), IPACK (d = 0.86), and AI attitude (d = 0.58)",
+"title":"After an SDT-driven redesign of a two-day teacher workshop (one cohort of 26, no control group), self-reported AI-TPACK (d = 0.70), IPACK (d = 0.86) and AI attitude (d = 0.58) rose significantly from pre to post",
 "type":"claim"
 },
 {

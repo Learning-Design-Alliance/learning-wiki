@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: moderate
 newest_evidence: 2025
+source_checked: 2026-10-28
 sources:
   - id: nygren-2025
     resource: "https://doi.org/10.1007/s40593-025-00484-8"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-10-28 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Inter-rater reliability between one expert and ChatGPT-4o ranges from none to minimal, and Claude 3.5 Sonnet did not improve agreement. [→ Nygren 2025](#nygren-2025)

@@ -52,4 +52,4 @@ The discussion paper reports, attributing to Bühler et al. (2025), a systematic
 - [Professional creators develop the capacity to mindfully mind-wander, identifying and capitalizing on mind wandering during long-term creative enterprises](mindful-mind-wandering-professional-creators.md) — related
 - [Learners engage in mind wandering approximately 30% of the time spent in educational activities, and this is associated with deteriorated learning outcomes](mind-wandering-30-percent-educational-time.md) — reports the opposite
 - [Task-unrelated thoughts are consistently associated with lower test performance, accounting for approximately 7% of the variation in learning outcomes](tut-lower-test-performance-7-percent-variance.md) — reports the opposite
-- [Real-time mind wandering intervention corrected comprehension deficits when mind wandering probability was high](mind-wandering-intervention-corrects-comprehension.md) — related
+- [Preliminary results suggest a real-time mind-wandering intervention may correct comprehension deficits when mind-wandering probability is high](mind-wandering-intervention-corrects-comprehension.md) — related

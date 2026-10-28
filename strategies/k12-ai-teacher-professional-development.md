@@ -43,7 +43,7 @@ The article argues for developing "the most effective AI professional developmen
 
 - [Short-duration TPACK-based professional development improved teachers' ML knowledge and interest (ML4STEM)](../claims/ml4stem-teacher-pd-initial-evidence.md) [+W]
 - [An online PD program using unplugged explainable machine-learning activities increased K–12 educators' AI self-efficacy from below-moderate to above-moderate levels](../claims/unplugged-ml-pd-raises-teacher-ai-self-efficacy.md) [+W]
-- [SDT-driven activity system redesign in Cycle 2 produced significant pre-post gains in AI-TPACK (d = 0.70), IPACK (d = 0.86), and AI attitude (d = 0.58)](../claims/sdt-driven-redesign-capacity-willingness-gains.md) [+W]
+- [After an SDT-driven redesign of a two-day teacher workshop (one cohort of 26, no control group), self-reported AI-TPACK (d = 0.70), IPACK (d = 0.86) and AI attitude (d = 0.58) rose significantly from pre to post](../claims/sdt-driven-redesign-capacity-willingness-gains.md) [+W]
 
 ## Related Strategies
 
