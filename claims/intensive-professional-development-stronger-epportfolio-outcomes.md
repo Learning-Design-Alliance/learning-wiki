@@ -51,3 +51,4 @@ The paper reports this as a cross-institutional pattern, citing Getman-Eraso & C
 - [An equity and personalization focus led teachers to apply elements of formative assessment without extensive formal training](equity-focus-drives-formative-assessment.md) — related
 - [Philanthropic Studies case: ePortfolio moved from a capstone-only final project to full curricular integration across four required courses over a decade](philanthropic-studies-epportfolio-curricular-integration.md) — related
 - [Effective skill training combines theory presentation, demonstration, practice with feedback, and coaching for transfer (review attribution)](skill-training-effective-techniques.md) — related
+- [A course-in-a-box TPD initiative trained 673 faculty and produced 169 new online courses since 2019](cib-673-faculty-169-courses.md) — related

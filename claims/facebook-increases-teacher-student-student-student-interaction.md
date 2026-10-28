@@ -54,3 +54,4 @@ Narrative literature review of Facebook in higher education. The review reports 
 - [Facebook usage in higher education carries potential problems ranging from educators' dominance to privacy concerns](facebook-educator-dominance-privacy-concerns.md) — related
 - [Social media usage in higher education continues to grow, and future empirical research on its educational role is warranted](social-media-growth-future-empirical-research-warranted.md) — related
 - [Facebook acted as part of the 'social glue' helping first-year students settle into university life, though most students did not see it as crucial to overcoming loneliness.](facebook-social-glue-settling-in.md) — related
+- [Facebook group interaction was reported to promote more participatory and reflective interactions among students and between students and teachers](facebook-support-promoted-participatory-reflective-interaction.md) — possibly the same claim (merge candidate)

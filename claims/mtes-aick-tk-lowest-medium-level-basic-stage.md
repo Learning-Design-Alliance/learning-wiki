@@ -54,3 +54,4 @@ Descriptive statistical analysis of the post-test survey of 412 MTES from seven 
 - [Pre-service teachers' innovative competence is at a medium-to-high level, with innovation practice the lowest subdimension](preservice-innovative-competence-medium-high-practice-lowest.md) — related
 - [Faculty report high self-perceived knowledge in traditional TPACK domains but substantially lower self-perceived knowledge in technology-integrated GenAI domains](faculty-high-traditional-low-technology-integrated-genai-knowledge.md) — related
 - [Review reports that teachers' beliefs, attitudes and TPACK—not AI knowledge alone—mediate AI integration](teacher-beliefs-mediate-ai-integration.md) — related
+- [Teachers transitioned from using AI for basic routine tasks to leveraging it as a tool for innovation](ai-use-transition-routine-to-innovation.md) — related

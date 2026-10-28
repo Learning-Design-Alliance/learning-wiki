@@ -60,3 +60,4 @@ Reflexive thematic analysis of the written feedback from the 11 teachers in a un
 - [Teachers treated AI as a provisional thinking partner whose outputs required iterative adaptation rather than automatic adoption](ai-provisional-thinking-partner-iterative-design.md) — related
 - [Formative assessment practices coherent with OpenSciEd are constrained by grading expectations misaligned with formative goals and by the time cost of evaluating and giving feedback on three-dimensional tasks.](openscied-formative-assessment-feasibility-challenges.md) — related
 - [ChatGPT sustains coherent, human-like multi-topic conversation and produces convincing creative content, as shown by the authors' own prompting test](chatgpt-interactive-conversational-capability.md) — reports the opposite
+- [Task-related concerns emerged around time management and classroom behaviour during AI implementation](task-concerns-time-and-behaviour-management.md) — related

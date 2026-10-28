@@ -53,3 +53,4 @@ Descriptive observation of both genAI groups' audio recordings found most questi
 - [GenAI tutorials took longer than ePBLM tutorials, with approximately 10 additional minutes spent on history-taking](genai-history-taking-longer-tutorial-time.md) — related
 - [Patient history recall was near ceiling in both conditions, with significant decline over two weeks but no difference between genAI and ePBLM conditions](genai-recall-near-ceiling-no-condition-difference.md) — related
 - [Student chatbot queries were overwhelmingly task-oriented initial inquiries, dominated by definition requests and pasted assignment questions rather than iterative critique](initial-inquiry-dominates-chatbot-question-types.md) — related
+- [Qualitative data indicate a need to improve interaction opportunities with virtual patients in MR training](mr-needs-improved-virtual-patient-interaction.md) — related

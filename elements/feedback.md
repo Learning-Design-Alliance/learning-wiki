@@ -13,7 +13,7 @@ generated:
 # Feedback
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 207 claims (93 for, 99 mixed, 15 against) · 157 studies (61 causal, 32 review, 20 quant-synthesis, 15 associational, 12 design, 9 qualitative, 8 theoretical), `q1`–`q4` · 38 of 157 report an effect size · 184 claims rest on one study
+> **Evidence** · 210 claims (94 for, 101 mixed, 15 against) · 160 studies (62 causal, 33 review, 20 quant-synthesis, 15 associational, 12 design, 9 qualitative, 9 theoretical), `q1`–`q4` · 39 of 160 report an effect size · 186 claims rest on one study
 
 ## Description
 Feedback is information provided to learners about their performance or understanding, intended to close the gap between current and desired performance. Effective feedback answers three questions: Where am I going? How am I doing? Where to next? ([Hattie & Timperley, 2007](https://doi.org/10.3102/003465430298487)). It functions as the corrective mechanism in any instructional cycle that includes [Practice](practice.md) or [Assessment](assessment.md).
@@ -255,6 +255,9 @@ Feedback is among the most powerful influences on learning, but its effects are 
 - [AI-assisted interpretation of mockup review comments revealed low Clarity scores in Map and Bud projects](../claims/genai-mockup-review-clarity-scores.md) [~W]
 - [Adding positive feedback let students complete the same SQL-Tutor learning tasks in half the time with the same learning improvement](../claims/positive-feedback-halves-time-sql-tutor.md) [+W]
 - [LLMs prompted with diverse strategies can analyze educational survey feedback and generate corrective tutor feedback at or above expert human performance in specific scenarios](../claims/llm-prompting-human-level-educational-feedback.md) [+W]
+- [Educational level moderates AWE effectiveness: university students show larger effects (g = 0.58–0.62) than junior and senior high students (0.25–0.50)](../claims/awe-educational-level-moderator.md) [~W]
+- [AWE is more effective when complemented by teacher feedback rather than used as a standalone tool](../claims/awe-more-effective-with-teacher-feedback.md) [~W]
+- [Qualitative analysis found predominantly positive perceptions of iVR, with real-time feedback the most valued element and lack of realism the main concern](../claims/qualitative-ivr-perceptions-feedback-valued-realism-concern.md) [+W]
 
 ## Design Decisions
 <!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice

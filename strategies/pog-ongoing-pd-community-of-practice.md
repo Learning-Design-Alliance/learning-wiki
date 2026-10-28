@@ -42,6 +42,7 @@ The brief states the success of a POG will likely hinge on the ongoing professio
 - [Integrate POG frameworks into curricula and assessment with ongoing stakeholder dialogue, rather than leaving them as unused documents](integrate-pogs-into-curricula-with-stakeholder-dialogue.md)
 - [Establish continuous improvement cycles that monitor and evaluate POG implementation](pog-continuous-improvement-cycles.md)
 - [Support faculty AI literacy through needs assessment, targeted training, teaching resources, and communities of practice](faculty-development-ai-literacy-support.md)
+- [Use a community of practice to collaboratively develop university-wide online orientation resources](community-of-practice-collaborative-orientation-development.md)
 
 ## Examples
 -

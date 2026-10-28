@@ -69,3 +69,5 @@ Systematic review synthesis of challenges across the 23 studies (RQ4, Fig. 7), i
 - [An experienced supervisor linked rising student writing proficiency to AI tools while flagging copy-pasting and undetectable AI-generated content](expert-flags-copy-pasting-undetectable-ai-content.md) — related
 - [Optimizing pedagogical parameters on proxy measures risks trading learning for engagement, and simulated students carry their own accuracy limits](proxy-optimization-engagement-trap.md) — related
 - [AI models inconsistently capture expert feedback points across generation attempts](ai-feedback-inconsistent-across-attempts.md) — a narrower finding that bears on this claim
+- [AWE is more effective when complemented by teacher feedback rather than used as a standalone tool](awe-more-effective-with-teacher-feedback.md) — related
+- [Technical challenges include lack of stability, security, and limitations in modeling complex learning behaviors](technical-challenges-srl-recommenders.md) — related

@@ -14,7 +14,7 @@ grain_size: unit
 # Understanding by Design
 
 > **Design Process** · [All design processes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Choosing what to teach starts with choosing *goals*, and goal statements are properly written from the learner's point of view — "learners will acquire the ability to construct a convincing argument," not "the teacher will show students examples of logical arguments." Before any specific framework, Tyler (1974) offered an early, still-influential account of where such goals should come from: subject-matter mastery, societal concerns, and student interests/abilities, refined further against the school/community's educational philosophy and what instructional theory and research say can actually be taught. As the range of things worth learning keeps expanding while instructional time does not, some deliberate basis for choosing among candidate goals becomes necessary rather than optional.
@@ -61,6 +61,10 @@ A free, structured **UbD Template 2.0** (Wiggins & McTighe) walks designers thro
 
 ### Personalization
 - The same three-stage sequence applies whether planning a single unit or a full course; only the scope of Stage One's goals changes with grain size
+
+## Claims
+
+- [University teachers follow a top-down design approach considering learning outcomes, content scope, activities and assessment](../claims/teachers-top-down-design-process.md) [~W]
 
 ## Related Processes
 - [Just-In-Time Teaching (JiTT)](../principles/responsive-teaching.md) — a complementary in-the-moment adaptation layer that can operate within a UbD-designed unit's Stage Three activities

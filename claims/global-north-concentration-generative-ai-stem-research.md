@@ -66,3 +66,4 @@ Country categorization of all 183 publications by author affiliations shows "73%
 - [ITS authoring tool research is concentrated in academic settings, and 45.45% of included papers conducted empirical studies while illustrative scenarios were the most common method](its-authoring-research-mostly-academic-nonempirical.md) — related
 - [Authorship of AIED systematic reviews is concentrated in Asia and Europe, with China, Spain, and the United States the most productive countries](aied-review-authorship-geographic-distribution.md) — related
 - [AIED ethics publication output is concentrated in Europe, led by the United Kingdom (47%) and Finland (20%)](aied-ethics-publications-european-concentration.md) — related
+- [Spain, the United Kingdom, Germany, Greece, and the United States conducted the most studies](countries-conducting-most-studies.md) — related

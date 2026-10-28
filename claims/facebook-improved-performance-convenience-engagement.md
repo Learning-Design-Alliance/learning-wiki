@@ -50,3 +50,4 @@ Narrative literature review synthesising studies of Facebook as an educational i
 - [Facebook is used in myriad ways as an educational instrument for learning and teaching in higher education](facebook-myriad-educational-uses-higher-education.md) — related
 - [Social media usage in higher education continues to grow, and future empirical research on its educational role is warranted](social-media-growth-future-empirical-research-warranted.md) — related
 - [Students were generally opposed to tutors contacting them via Facebook for formal teaching, though a majority saw some role for departmental and module-level administrative uses.](student-opposition-tutor-facebook-contact.md) — related
+- [Facebook group interaction was reported to promote more participatory and reflective interactions among students and between students and teachers](facebook-support-promoted-participatory-reflective-interaction.md) — related

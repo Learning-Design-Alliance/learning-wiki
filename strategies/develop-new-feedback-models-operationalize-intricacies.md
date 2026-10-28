@@ -46,6 +46,7 @@ This strategy, the first of the article's five steps, directs feedback researche
 - [Conceptualize feedback as a dynamic process and collect data that directly investigates that process](feedback-as-dynamic-process-collect-process-data.md)
 - [Leverage self-regulated learning measurement methods in feedback research](leverage-srl-measurement-methods-feedback-research.md)
 - [Employ multimodal methods to capture the multifaceted feedback process](multimodal-methods-feedback-process.md)
+- [Provide personalized feedback at different points of the learning process using a range of feedback functions and forms](personalized-feedback-range-functions-forms.md)
 
 ## Examples
 -

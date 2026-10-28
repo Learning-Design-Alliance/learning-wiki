@@ -59,9 +59,11 @@ MEAs operationalize model-building as the unit of learning: learners reveal and 
 5. **Deliver and debrief** — teams submit the written model; a whole-class [Class Discussion](../elements/class-discussion.md) compares approaches and connects to formal disciplinary content ([Articulation](../elements/articulation.md))
 
 ## Related Strategies
+
 - [Case-Based Learning](case-based-learning.md) — shares realistic anchoring scenarios, but MEAs require inventing a procedure rather than analyzing a decision already made
 - [Problem-Based Learning](problem-based-learning.md) — similar ill-structured team format; MEAs differ in requiring a documented, generalizable product
 - [Productive Failure](productive-failure.md) — MEAs often function as a productive-failure phase preceding direct instruction on canonical methods
+- [Provide open-ended, making-focused environments with space to experiment and invent as a route to powerful mathematical discoveries](open-ended-making-environments-math-discoveries.md)
 
 ## Examples
 - **Purdue University first-year engineering** — the "Little Betsy" and "Nanotechnology" MEAs (Diefes-Dux et al.) have teams design procedures for ranking or quality-control decisions; widely replicated across engineering programs ([https://engineering.purdue.edu/ENE/Research/immex](https://engineering.purdue.edu/ENE/Research/immex))

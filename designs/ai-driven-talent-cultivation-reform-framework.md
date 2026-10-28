@@ -47,6 +47,7 @@ The article proposes a comprehensive reform framework for computer-related major
 - [AI-enhanced course set spanning compulsory, elective, and practice categories](ai-enhanced-course-set-computer-majors.md)
 - [Three-layer competency map linking graduate attributes to measurable behaviors](three-layer-competency-map-ai-curriculum.md)
 - [Digital Technologies project framework: semester-spanning agile Scrum projects as an integral third of a robotics-relevant CS curriculum](digital-technologies-agile-project-framework.md)
+- [Authentic learning environment framework for cultivating digital innovation skills](authentic-learning-digital-innovation-framework.md)
 
 ## Examples
 -

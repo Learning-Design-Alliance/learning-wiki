@@ -42,6 +42,7 @@ The article recommends lowering the skills and time required to author ITSs by p
 ## Related Strategies
 
 - [Open design directions for adaptive authoring: crowdsourced standards, individual differences, modular customization, path visualization, and instructor real-time control](adaptive-authoring-open-research-directions.md)
+- [Build adaptive reinforcement content in free interactive platforms (Genially.com, Canva) to bypass ITS cost and skill barriers](free-interactive-platforms-bypass-its-barriers.md)
 
 ## Examples
 -

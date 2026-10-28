@@ -66,3 +66,4 @@ Repeated-measures ANOVA on cognitive load across the four exams (η2 = 0.06; d =
 ## Related Claims
 - [Invested mental effort and perceived task difficulty are strongly correlated yet relate differently to relative task difficulty, indicating the two ratings measure different aspects of overall cognitive load](mental-effort-and-task-difficulty-ratings-differ.md) — related
 - [In a preregistered within-subjects experiment (N = 131, eight measurements), the translated scale showed criterion validity via sensitivity to task complexity, extraneous load, and motivation](mel-ts-criterion-validity.md) — related
+- [Perceived difficulty was higher for research designs than for samples and measurement](perceived-difficulty-varies-by-topic.md) — related

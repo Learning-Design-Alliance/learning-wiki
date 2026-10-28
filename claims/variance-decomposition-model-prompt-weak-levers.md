@@ -61,3 +61,4 @@ Fully crossed random-effects variance decomposition (Table 1) of squared misalig
 - [Smaller local LLMs show a minor position bias toward option ordering and partially guessing-like error variation, but accuracy remains relatively stable across permutations and repeated sampling runs](minor-position-bias-and-partial-guessing-in-small-llms.md) — related
 - [GPT-4o mini achieved the lowest ACT balance MAE (6.12) in replicating human supervisor ratings across 49 full transcripts](gpt-4o-mini-lowest-act-balance-mae.md) — related
 - [Prompt-level interventions to reduce cognates mostly failed, while lower sampling temperature and model self-checking offered partial mitigation](prompt-interventions-cognate-mitigation.md) — related
+- [LLMs struggle with nuanced coding schemes but binary question detection is feasible with simple prompts](llm-struggle-nuanced-coding-binary-feasible.md) — related

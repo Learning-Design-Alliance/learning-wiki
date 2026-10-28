@@ -69,3 +69,4 @@ Observational and interview study of four after-school sites; educators reported
 - [Infrastructure barriers — limited internet speed, connectivity problems and lack of technical support — hinder effective AI use in nursing education institutions](infrastructure-barriers-ai-use-nursing-education.md) — related
 - [Pepper's classroom operation required frequent teacher supervision in over half of the studies, mainly due to voice recognition and technical failures](pepper-requires-constant-teacher-supervision.md) — related
 - [Failures of education technology implementations are attributed to social, psychological, and cultural issues rather than technical shortcomings](edtech-failures-social-psychological-cultural.md) — reports the opposite
+- [Student interviewees reported technical support availability as a significant gap for online students.](molh-student-interviews-technical-support-gap.md) — related

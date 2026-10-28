@@ -56,3 +56,4 @@ Thematic synthesis within the same systematic review of 50 empirical studies (20
 - [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](autonomy-supports-intrinsic-motivation.md) — related
 - [Review reports that asking students to notice particular errors decreased errors in a subsequent draft without reducing overall writing quality (Chandler)](noticing-errors-decreases-errors-preserves-quality.md) — related
 - [Customized AI writing systems show benefits in writing quality, learning processes, assessment reliability, and feedback literacy](customized-ai-writing-positive-outcomes.md) — related
+- [AWE is more effective when complemented by teacher feedback rather than used as a standalone tool](awe-more-effective-with-teacher-feedback.md) — related

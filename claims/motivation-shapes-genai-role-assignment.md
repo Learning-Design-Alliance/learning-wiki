@@ -59,3 +59,4 @@ Chi-square test of independence on 120 interaction logs coded for motivation and
 - [Students predominantly conceptualize the LLM as an Assistant rather than Peer or Expert, and role distributions differ significantly across assignments](assistant-role-dominates-llm-conceptualization.md) — related
 - [Extrinsic goals are more strongly associated with cheating than intrinsic enjoyment of learning](extrinsic-goals-associated-with-cheating.md) — related
 - [Most African students enrolled in the SuaCode smartphone coding course for intrinsic rather than extrinsic reasons (68.7% vs 31.3% of coded motivations)](suacode-african-students-intrinsically-motivated.md) — related
+- [Students using the ACF-PA approach showed significantly higher intrinsic motivation than students using the C-PA approach, with no significant difference in extrinsic motivation](acf-pa-improves-intrinsic-motivation.md) — related

@@ -54,3 +54,4 @@ Experiment 2 ANCOVA (topic interest as covariate) on the behavioral take-home te
 - [A WestEd research bulletin reports a curriculum revision that replaced a decorative photograph in a math problem with a problem-relevant sketch, on the developers' view that such photographs distract students](decorative-images-distract-from-math-problems.md) — related
 - [GATs produced no reliable immediate learning-experience effects on frustration, cognitive load, or situational interest at either institution](gats-no-immediate-experience-effects.md) — related
 - [Decorating curriculum diagrams with pictorial elements may engender 'graph-as-picture' misconceptions in students](diagram-decoration-graph-as-picture-risk.md) — related
+- [Triggered situational interest shows anecdotal evidence of being higher in the VR condition while maintained situational interest does not differ](desktop-vr-scaffolded-self-explanation-situational-interest.md) — related

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-09
 evidence_strength: weak
 newest_evidence: 2024
+source_checked: 2026-10-28
 sources:
   - id: listening-deeply-and-responding-accordingly-r15cc-facilitates-a-community-of-practice-rooted-in-the-perspectives-of-american-indian-education-directors-2024
     resource: "https://www.wested.org/resources/working-respectfully-with-indigenous-communities-around-data-and-evidence-a-resource-for-state-education-agencies/"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q2`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · checked against its sources 2026-10-28 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` R15CC supported CoP members in facilitating a session at the 2023 National Indian Education Association Annual Convention and Tradeshow, extending the network's reach beyond the region. [→ Listening Deeply and Responding Accordingly: R15CC Facilitates a Community of Practice Rooted in the Perspectives of American Indian Education Directors 2024](#listening-deeply-and-responding-accordingly-r15cc-facilitates-a-community-of-practice-rooted-in-the-perspectives-of-american-indian-education-directors-2024)

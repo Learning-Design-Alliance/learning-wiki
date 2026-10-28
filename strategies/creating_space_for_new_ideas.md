@@ -80,6 +80,7 @@ Innovation in schools is fundamentally a team learning problem, and team learnin
 - [Schedule protected release and preparation time for educators completing pre- and between-session toolkit work](protected-release-time-for-toolkit-between-session-work.md)
 - [Design for disagreement: provide a safe space for members to question community practices](design-for-disagreement-safe-space.md)
 - [Schedule regular meetings and keep learning spaces openly available to enable dialogic leadership](regular-meetings-and-open-learning-spaces-for-dialogic-leadership.md)
+- [Support tertiary educators to dialogue safely with colleagues about student feedback and teaching failure](collegial-dialogue-teaching-failure-strategy.md)
 
 ## Examples
 - **Networked Improvement Communities (Carnegie Foundation)** — Bryk et al.'s model in which schools across a network run rapid PDSA cycles on shared problems, with failures documented as learning for the whole network ([Carnegie Foundation](https://www.carnegiefoundation.org))

@@ -13,7 +13,7 @@ generated:
 # Independent Study
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 11 claims (5 for, 4 mixed, 2 against) · 22 studies (8 review, 5 causal, 5 quant-synthesis, 3 theoretical, 1 qualitative), `q1`–`q4` · 5 of 22 report an effect size · 5 claims rest on one study
+> **Evidence** · 12 claims (6 for, 4 mixed, 2 against) · 23 studies (8 review, 5 causal, 5 quant-synthesis, 3 theoretical, 2 qualitative), `q1`–`q4` · 5 of 23 report an effect size · 6 claims rest on one study
 
 ## Description
 Independent study assigns learners primary responsibility for working through content, tasks, or inquiry without direct instructor mediation during the learning episode. The instructor's role shifts to designing the task, providing materials and structure, and checking progress, while the learner supplies pacing, persistence, and self-monitoring.
@@ -57,6 +57,7 @@ Independent study builds self-regulatory capacity and can be efficient for well-
 - [Observed differentiation took place mainly through student independence and working pace, with lesson goals largely the same across groups](../claims/implementation-differentiation-independence-pace.md) [~W]
 - [Personalized learning systems that assume high student self-regulation can overburden students, so low performers learn less despite receiving skill-appropriate content](../claims/self-regulatory-burden-harms-low-performers.md) [~W]
 - [In self-paced learning, interim testing maintains study-time allocation across successive lists, preventing the decline seen without tests](../claims/interim-testing-maintains-study-time.md) [+W]
+- [Virtual-world teaching shifts perceived classroom power, with students becoming more independent than in face-to-face contexts.](../claims/vw-teaching-shifts-power-toward-student-autonomy.md) [+W]
 
 ## The evidence by question
 - *Should novices be left to discover the target content without support?* [Minimal guidance is less effective for novices than explicit instruction](../claims/minimal-guidance-less-effective-for-novices.md) [-S]

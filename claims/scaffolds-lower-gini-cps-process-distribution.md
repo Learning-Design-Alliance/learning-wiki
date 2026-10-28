@@ -56,3 +56,4 @@ Repeated-measures ANOVA on Gini coefficients for 11 groups across two tasks. The
 - [More unequal distribution of participation in online collaboration groups is associated with lower satisfaction with the collaboration](unequal-participation-lower-satisfaction.md) — related
 - [Explicit scaffolding prompts elicited P1 (exploring) and P2 (planning) engagement at task start that groups did not show on the non-scaffolded task](scaffolds-prompt-p1-p2-engagement-at-start.md) — related
 - [Participation within teams was fairly equal in all conditions, with Gini coefficients close to zero and no significant between-condition differences](equal-participation-across-collaboration-conditions.md) — related
+- [Practices P1, P2, P3, P4 and P7 received the highest percentages at the Redefinition level](p1-p2-p3-p4-p7-highest-redefinition-percentages.md) — related

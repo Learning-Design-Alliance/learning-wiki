@@ -68,3 +68,4 @@ The 2×2×2 ANOVA on content-instructor ratings in the same experiment showed a 
 - [Participants rated frustrated and bored instructors higher on negative than positive emotion scales, with the frustrated effect stronger when the agent was on screen](positivity-effect-negative-instructors-rated-higher-on-negative-scales.md) — related
 - [Voice alone conveys the emotional tone of happy, content, and bored instructors as accurately as voice plus an embodied onscreen agent](voice-alone-conveys-happy-content-bored-emotion.md) — related
 - [Participants detected emotional valence but did not distinguish between discrete emotions of the same valence](valence-detected-without-discrete-emotion-distinction.md) — related
+- [Learners recognize an instructor's positive versus negative emotional tone in video lectures.](learners-recognize-instructor-emotional-tone-video.md) — a broader claim this one bears on

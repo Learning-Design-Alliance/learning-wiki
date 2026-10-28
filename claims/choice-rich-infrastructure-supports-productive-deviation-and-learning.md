@@ -65,3 +65,4 @@ The authors explicitly frame this as an extreme case chosen to illustrate a *pos
 - [Moderate learner agency in game-based learning yields better outcomes than no agency or high agency](moderate-agency-better-learning-outcomes.md) — related
 - [Students in interdisciplinary design studio courses reported high authentic motivation stemming from the problems rather than grades](studio-authentic-motivation-beyond-grades.md) — related
 - [Detailed case study shows a spell checker's affordances are enacted in rich, creative ways beyond designers' intentions](spell-checker-situated-affordances.md) — related
+- [Case of positive behavioral change in a sixth-grade student](matherial-positive-behavioral-change-case.md) — related

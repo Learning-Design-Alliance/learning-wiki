@@ -57,9 +57,11 @@ Movement supports learning through two complementary routes: embodied encoding, 
 5. Use short activity breaks between segments when attention wanes, keeping transitions under one minute.
 
 ## Related Strategies
+
 - [Acting-Role-Play](acting-role-play.md) — dramatic enactment of scenarios; a social variant of embodied learning
 - [Active Learning](../principles/active-learning.md) — the broader family of strategies replacing passive reception; movement is one modality
 - [Gamification](gamification.md) — movement-based games combine physical activity with motivational structure
+- [Create physical learning activities with gesture recognition for preschoolers by strengthening connections between life experiences and tasks](gesture-recognition-physical-activity-life-experience-connection.md)
 
 ## Examples
 - **Kinesthetic math routines** (e.g., Math & Movement, https://mathandmovement.com) — learners hop on numbered floor mats to rehearse arithmetic facts, pairing motor action with number recognition.

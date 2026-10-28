@@ -25,7 +25,7 @@ sources:
 # Multimedia Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 91 claims (40 for, 49 mixed, 2 against) · 69 studies (39 causal, 11 review, 10 quant-synthesis, 4 theoretical, 2 associational, 2 design, 1 qualitative), `q1`–`q4` · 18 of 69 report an effect size · 82 claims rest on one study
+> **Evidence** · 94 claims (40 for, 52 mixed, 2 against) · 71 studies (40 causal, 11 review, 10 quant-synthesis, 4 theoretical, 2 associational, 2 qualitative, 2 design), `q1`–`q4` · 18 of 71 report an effect size · 85 claims rest on one study
 
 ## Description and scope
 
@@ -156,6 +156,9 @@ This pattern is scoped to explanations of structures, processes and relations pr
 - [Elementary school children generalize most broadly when the text is generic and the visualization is rich](../claims/children-generic-rich-visualization-interaction.md) [~W]
 - [Multimodal presentation on multiple senses or channels simultaneously is reported to facilitate learning by providing many routes for storage and retrieval](../claims/multimodal-learning-facilitates-storage-retrieval.md) [~W]
 - [Fixations to extraneous details uniquely predict comprehension gains, controlling for reading proficiency and relevant-illustration fixations](../claims/extraneous-fixations-unique-predictor-comprehension-gains.md) [~W]
+- [DHH students suggest applying spatial contiguity between interpreter and visuals to reduce split attention](../claims/dhh-spatial-contiguity-interpreter-visuals.md) [~W]
+- [The CTML segmenting principle appears strongly applicable to DHH students' e-learning](../claims/ctml-segmenting-strongly-applicable-dhh.md) [~W]
+- [Dynamic slides did not improve knowledge acquisition compared to static slides](../claims/dynamic-slides-no-knowledge-benefit.md) [~W]
 
 ## Examples
 

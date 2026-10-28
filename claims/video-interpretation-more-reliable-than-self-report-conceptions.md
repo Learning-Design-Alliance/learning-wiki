@@ -51,3 +51,4 @@ Theoretical methodological argument, not a tested comparison: the article lists 
 - [Both case-based and model-based interventions increase pre-service teachers' self-reported use of theory-based knowledge when analysing classroom situations](both-interventions-increase-theory-based-knowledge-usage.md) — related
 - [Neither intervention changes pre-service teachers' self-reported reliance on experience-based knowledge when analysing classroom situations](experience-based-knowledge-usage-unchanged.md) — related
 - [Code saturation in the teacher-needs thematic analysis was reached after 72 questionnaires](code-saturation-after-72-questionnaires.md) — related
+- [More than 40% of surveyed faculty reported improved preservice teacher technology knowledge after three semesters of InTime video case use](intime-video-cases-faculty-report-improvement.md) — related

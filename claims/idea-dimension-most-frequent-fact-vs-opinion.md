@@ -51,3 +51,4 @@ Qualitative coding of discourse across three KF views found the Bidea^ dimension
 - [Becoming knowledge-creating learners requires developing specific metaskills](knowledge-creation-requires-metaskills.md) — related
 - [Grade 5 Science students predominantly engaged in fact-oriented, repetitive, and cumulative discourse, suggesting difficulty sustaining conversational exchanges online](grade5-fact-oriented-repetitive-cumulative-discourse.md) — related
 - [Only Grade 10 Liberal Studies students engaged in simple argumentation, complex argumentation, and theory-oriented interactions, possibly due to the subject's emphasis on argumentation](argumentation-only-in-liberal-studies.md) — related
+- [Sharing-oriented discourse predicted knowing-what (35.1% of variance) and knowing-how (58.1%, plus 5.1% from argument-oriented)](sharing-discourse-predicts-knowing-what-and-how.md) — related

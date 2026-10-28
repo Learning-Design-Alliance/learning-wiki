@@ -54,3 +54,4 @@ Qualitative analysis of one session: students took turns interpreting Mahaley's 
 - [Learning environment significantly affected students' use of causal mechanistic reasoning on the dissolution task, with the core ideas environment highest at 40%](dissolution-task-environment-effect.md) — related
 - [Student co-authorship and open-source release enacted epistemic equity, transitioning students from data sources to knowledge producers](student-coauthorship-enacts-epistemic-equity.md) — a narrower finding that bears on this claim
 - [The IRE classroom discourse structure constrains students' everyday mathematical register, conjectures, and participation of lower socioeconomic groups](ire-structure-constrains-math-participation.md) — related
+- [Web support provided space–time continuity that sustained relational continuity and an open circuit of knowledge between classroom sessions](web-support-relational-continuity.md) — related

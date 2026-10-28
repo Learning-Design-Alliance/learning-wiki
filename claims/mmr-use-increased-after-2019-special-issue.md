@@ -47,3 +47,4 @@ Trend analysis of the 57 mixed methods articles across three-year windows around
 ## Related Claims
 - [Mixed methods articles were rare (2.55% of empirical articles) in five educational psychology journals from 2016 to 2022, with most articles quantitative](mmr-prevalence-2-55-percent-ed-psych.md) — related
 - [Reporting quality was highest for data collection (84.2% high ratings) and data analysis (80.7%), and lowest for mixed methods study design (47.4%), aims and purposes (52.6%), and elements of writing (54.4%)](reporting-quality-varies-by-rigor-element.md) — related
+- [The years 2019, 2020, and 2022 had the highest numbers of related publications](publication-frequency-by-year.md) — related

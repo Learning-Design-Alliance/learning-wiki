@@ -51,3 +51,4 @@ Qualitative video analysis of one teacher's rounds during pair work with a story
 - [When correcting pupil work, the teacher revoices rather than dismisses pupils' solutions, challenging them toward more sophisticated ones](teacher-revoicing-pupil-solutions.md)
 - [Tensions between teachers' and pupils' perspectives during collaborative learning do not take the form of antagonistic struggles](teacher-pupil-tensions-not-antagonistic.md)
 - [Teacher guidance plays a significant mediating role in collaborative-learning classroom outcomes](teacher-guidance-mediation-cscl.md) — related
+- [Task-related concerns emerged around time management and classroom behaviour during AI implementation](task-concerns-time-and-behaviour-management.md) — related

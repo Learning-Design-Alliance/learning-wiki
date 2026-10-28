@@ -49,3 +49,4 @@ Achievement-test outcome from the Hypothesis 1 validation section of the two-gro
 - [The experimental group answered achievement tests faster (6.18 minutes) than the control group (7.51 minutes)](cft-hypertext-design-faster-test-completion.md) — related
 - [A flexible hypertext course group averaged 76% on achievement tests against 59% for a direct-design group that studied different software, so the contrast confounds design with content](cft-hypertext-design-higher-achievement-scores.md) — related
 - [Experimental-group students held more positive attitudes toward flexible hypertext course design than control-group students toward direct design (t = 4.723)](cft-hypertext-design-more-positive-attitudes.md) — related
+- [Students using the AVDS tool scored higher on an AVL-tree performance test than controls](avds-tool-improves-data-structures-test-scores.md) — related

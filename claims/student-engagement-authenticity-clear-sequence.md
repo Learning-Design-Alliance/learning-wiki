@@ -57,3 +57,5 @@ Synthesis of post-project student focus group feedback in the Student Feedback s
 - [Spontaneous responsiveness to real-world events in PBL can deepen student-directed inquiry beyond what designed curriculum achieves](spontaneous-authenticity-in-pbl-deepens-student-directed-inquiry.md) — related
 - [Students' perception of possessing local knowledge that professional urban planners lack rose from 9% at baseline to 45% at endline in City at Play](ccs-student-local-expertise-perception-growth.md) — related
 - [Most reviewed studies pursued real-life-experience authenticity, and no study combined all four intentions of authenticity](intentions-of-authenticity-implemented-studies.md) — related
+- [Preservice teachers in web-enhanced CBA showed improved understanding of technology integration through sequenced authentic tasks](cba-sequenced-tasks-improve-preservice-tech-integration.md) — a narrower finding that bears on this claim
+- [Students reported insufficient engagement with industry partners and projects not real enough in iteration 2](students-insufficient-industry-engagement-iteration2.md) — related

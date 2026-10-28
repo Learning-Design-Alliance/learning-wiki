@@ -13,7 +13,7 @@ generated:
 # Digital Tools
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 52 claims (27 for, 22 mixed, 3 against) · 49 studies (12 review, 10 associational, 7 causal, 6 design, 6 theoretical, 5 quant-synthesis, 3 qualitative), `q1`–`q4` · 6 of 49 report an effect size · 51 claims rest on one study
+> **Evidence** · 57 claims (31 for, 23 mixed, 3 against) · 53 studies (12 review, 10 associational, 9 causal, 7 theoretical, 6 design, 5 quant-synthesis, 4 qualitative), `q1`–`q4` · 7 of 53 report an effect size · 56 claims rest on one study
 
 ## Description
 Digital tools are the element in which learners use software, platforms, or digital applications to create, collaborate, practice, or receive feedback. They are useful when a tool meaningfully extends what learners can do.
@@ -87,9 +87,18 @@ Digital tools are the element in which learners use software, platforms, or digi
 - [Engagement does not mediate the grade difference between tool users and non-users](../claims/engagement-does-not-mediate-grade-difference.md) [~W]
 - [In a five-participant user study, instructors found the emoji heat map saved time and helped identify interesting and difficult reading sections](../claims/emoji-heat-map-instructor-user-study.md) [+W] — attached 2026-10-28 from Blobstein et al. (2025), which proposed "Emoji heat map in NotaBene".
 - [Instructors found the heat map better aligned with sections they believed students found interesting (4.4) than difficult (3.6)](../claims/heat-map-alignment-interesting-vs-difficult.md) [+W] — attached 2026-10-28 from Blobstein et al. (2025), which proposed "Emoji heat map in NotaBene".
+- [Teachers transitioned from using AI for basic routine tasks to leveraging it as a tool for innovation](../claims/ai-use-transition-routine-to-innovation.md) [~W]
+- [Students using the AVDS tool scored higher on an AVL-tree performance test than controls](../claims/avds-tool-improves-data-structures-test-scores.md) [+W]
+- [Mobile devices served as the primary tool for learners and teachers during the emergent remote teaching process of the pandemic](../claims/mobile-devices-primary-tool-emergent-remote-teaching.md) [+W]
+- [iVR users showed better synchronization of angulation and translation movements in the mobilization technique](../claims/ivr-improves-angulation-translation-synchrony.md) [+W]
+- [Undergraduate physiotherapy students who used iVR alongside traditional teaching scored higher on overall manual therapy performance one week later](../claims/ivr-complement-improves-manual-therapy-performance-score.md) [+W]
 
 ## The evidence by question
 - *Does putting instruction on a digital medium change learning by itself, or only through the method, time and teaching it carries?* [Media comparison studies produce uninterpretable "no significant difference" findings.](../claims/media-comparison-studies-produce-uninterpretable-results.md) [+M]
+
+## Examples
+
+- [Drawingvoice 2.0: a three-phase method combining small-group collaborative drawing, Facebook sharing, and face-to-face re-discussion](../strategies/drawingvoice-2-0-three-phase-method.md)
 
 ## Related Elements
 

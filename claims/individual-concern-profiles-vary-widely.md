@@ -53,3 +53,4 @@ Two individual case profiles (Figures 9 and 10) presented to illustrate variatio
 - [After brief 1–2 day training, participants showed behaviors consistent with movement from Stage 0–1 toward Stage 1–2, and sustained courses were associated with Stage 3–4 behaviors (observational; no pre/post measure or comparison group)](ncstate-brief-training-stage-movement.md) — related
 - [Teachers without mentors reached the impact level more often than mentored teachers, raising the question that mentoring may inhibit development](mentors-may-inhibit-concern-development.md) — related
 - [Not all educators develop impact concerns even when colleagues do; concern change cannot be forced by an outside agent](not-all-educators-develop-impact-concerns.md) — related
+- [Teachers' AI integration followed a developmental trajectory from self to task and impact concerns](ai-integration-self-task-impact-trajectory.md) — related

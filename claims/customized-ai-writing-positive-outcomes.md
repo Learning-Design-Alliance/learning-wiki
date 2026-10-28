@@ -58,3 +58,4 @@ Systematic review synthesis of reported outcomes across the 23 studies (RQ4, Fig
 - [Post-interaction reflections reveal four preference themes: AI as formative learning aid, preference for human authority, conditional acceptance, and skepticism about educational impact](four-themes-post-evaluation-ai-reflections.md) — related
 - [As cited second-hand in an AI-literacy framework paper: ChatGPT use improved short-term essay scores but triggered metacognitive laziness with no significant knowledge-transfer gains](chatgpt-metacognitive-laziness-fan-2025.md) — related
 - [A review of 50 studies reports that AWE tools can improve the organization and overall quality of writing and encourage self-directed learning](awe-enhance-organization-quality-self-directed-learning.md) — related
+- [AWE is more effective for surface-level writing skills than for higher-order skills such as argumentation and coherence](awe-surface-level-stronger-than-higher-order.md) — related

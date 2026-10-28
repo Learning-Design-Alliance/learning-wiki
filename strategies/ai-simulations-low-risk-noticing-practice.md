@@ -37,7 +37,8 @@ The article recommends AI-based simulations as controlled, low-risk settings whe
 - Developing noticing of students' mathematical thinking and shaping interactional opportunities
 
 ## Related Strategies
-- 
+
+- [Integrate model-based supports across pretraining, in-simulation, and post-simulation stages of VR teacher practice](integrate-supports-across-vr-simulation-stages.md)
 
 ## Examples
 -

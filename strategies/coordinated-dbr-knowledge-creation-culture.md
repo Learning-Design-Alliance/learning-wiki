@@ -45,6 +45,7 @@ Drawing on Hakkarainen's reflection, facilitating sharing and building on ideas 
 ## Related Strategies
 
 - [Train students in new communication practices rather than merely providing digital media](train-new-practices-not-just-media.md)
+- [Report the specific strategies design research participants use to produce theoretical understanding through design](report-specific-design-research-strategies.md)
 
 ## Examples
 -

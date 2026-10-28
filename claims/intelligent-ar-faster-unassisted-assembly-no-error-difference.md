@@ -68,3 +68,4 @@ Error counts in the physical post-test were 0.50 (SD 0.93) for the experimental 
 - [BKT students completed posttest problems significantly faster than Control students, with DRL showing marginal advantages in time and solution optimality](bkt-faster-posttest-completion.md) — a broader claim this one bears on
 - [Participants rated both AR tutors positively, with no significant between-group differences in questionnaire ratings](ar-tutor-questionnaire-positive-both-groups.md) — related
 - [Post-experimental questionnaire ratings favoured MT-ITS numerically but the differences between conditions were not significant](mt-its-questionnaire-ratings-not-significant.md) — related
+- [Students using the AVDS tool completed the performance test faster than controls](avds-tool-shortens-completion-time.md) — related

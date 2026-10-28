@@ -56,3 +56,4 @@ Moderator analysis of scaffolding intervention type (conceptual, strategic, meta
 - [Merrill's instructional design principles and feedback features did not significantly moderate the effects of ICT-supported writing interventions](merrill-principles-feedback-no-moderation.md) — related
 - [Customized scaffolding (fading/adding) outperforms non-customized scaffolding in PBL-STEM, with fading/adding highest at g = 0.590](scaffolding-customization-fading-adding-highest.md) — reports the opposite
 - [Metacognitive and strategic scaffolding show larger effects in PBL-STEM than conceptual scaffolding](scaffolding-intervention-type-moderator-bma.md) — reports the opposite
+- [Metacognitive scaffolding outperforms conceptual scaffolding alone in online learning environments](metacognitive-scaffolding-outperforms-conceptual.md) — related

@@ -57,3 +57,4 @@ Subtracted epistemic network (Figure 8) comparing midterm high- and low-performi
 - [The study examines the development of motivational regulation strategy knowledge and its longitudinal relationship with academic procrastination over the course of study](motivational-regulation-knowledge-longitudinal-procrastination.md) — related
 - [Counting questions students procrastinate, practicing little until late in the semester, while counting days spreads practice across the term](counting-questions-procrastination-pattern.md) — related
 - [Earlier participation relative to project deadlines (higher APTTD) predicts higher project grades](early-posting-apttd-predicts-grades.md) — related
+- [Students responded with polarised feedback to a redesigned technology-rich active-learning course, with almost a quarter disliking the flipped-video approach](polarised-student-feedback-technology-rich-active-learning-course.md) — related

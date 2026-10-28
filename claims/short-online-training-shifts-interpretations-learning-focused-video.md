@@ -52,3 +52,4 @@ Pre–post analysis of written interpretations of a 41-s video in which a teache
 - [Blended teaching shifted the teacher's self-identity from facilitator to co-facilitator and co-designer with students](blended-teaching-shifts-identity-to-co-facilitator.md) — related
 - [Team-based professional development is associated with shifts toward more student-centered teaching in qualitative studies, but not in one quantitative online-training study](team-pd-teaching-approach-shift.md) — related
 - [Training facilitates belief change particularly when it encourages reflection of beliefs and teachers gain practical experience in inclusive classrooms](belief-change-reflection-plus-practical-inclusive-experience.md) — related
+- [A course-in-a-box TPD initiative trained 673 faculty and produced 169 new online courses since 2019](cib-673-faculty-169-courses.md) — related

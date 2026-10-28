@@ -57,3 +57,4 @@ Formative interview finding on feedback timing: a participant stated "Do not int
 - [In an evaluative study, medical learners interpreted MedEasy as a connected consultation environment and used its components together to judge case coherence](learners-interpret-medeasy-connected-environment.md) — related
 - [Learners valued repeatable practice and recorded review in MedEasy while questioning missing actions and feedback criteria](learners-value-repeatable-practice-question-gaps.md) — related
 - [Formative participants found human SP practice valuable for embodied cues but episodic and unevenly connected to individualized feedback](human-sp-practice-episodic-uneven-feedback.md) — related
+- [Immediate explanatory feedback prevents consolidation of erroneous concepts in interactive tutoring](immediate-explanatory-feedback-prevents-error-consolidation.md) — related

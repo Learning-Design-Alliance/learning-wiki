@@ -37,7 +37,8 @@ The report recommends school and district leaders use the CT–PCK Survey "to id
 - Integrating core computational thinking practices into math instruction
 
 ## Related Strategies
-- 
+
+- [Use AICO_edu in teacher training to identify professional learning needs](use-aico-edu-in-teacher-training.md)
 
 ## Examples
 -

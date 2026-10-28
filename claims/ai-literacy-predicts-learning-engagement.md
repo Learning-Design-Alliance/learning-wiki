@@ -56,3 +56,4 @@ PLS-SEM path analysis of cross-sectional questionnaire data from 1,198 undergrad
 - [The direct association between GAI use and learning engagement is not statistically significant, while the indirect association through need satisfaction is significant but small](gai-engagement-direct-null-indirect-small.md) — related
 - [Professional commitment is essentially uncorrelated with AI literacy and shows no significant bivariate correlation with learning engagement](professional-commitment-null-bivariate-correlations.md) — related
 - [Teacher–AI collaboration is positively related to university teachers' work engagement](teacher-ai-collaboration-positively-related-work-engagement.md) — related
+- [Higher education teachers' digital competence positively and significantly correlates with their work engagement and effort expectancy](digital-competence-correlates-work-engagement.md) — related

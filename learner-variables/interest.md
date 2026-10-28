@@ -13,7 +13,7 @@ generated:
 # Interest
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 220 claims (157 show a difference, 37 mixed, 26 no difference) · 148 studies (58 causal, 40 associational, 20 review, 12 design, 7 quant-synthesis, 6 theoretical, 5 qualitative), `q1`–`q4` · 40 of 148 report an effect size · 214 claims rest on one study
+> **Evidence** · 222 claims (157 show a difference, 39 mixed, 26 no difference) · 150 studies (60 causal, 40 associational, 20 review, 12 design, 7 quant-synthesis, 6 theoretical, 5 qualitative), `q1`–`q4` · 41 of 150 report an effect size · 216 claims rest on one study
 
 ## Description
 Interest is a learner's attraction to a topic. Research separates individual interest, a lasting disposition a learner brings, from situational interest, which material or activity sparks in the moment and which can grow into individual interest over time. Interest is measured by self-report, choice and persistence. It predicts attention, depth of processing and course choice, it moderates the effect of materials (seductive details catch interest without helping learning), and it is an outcome of designs that show relevance or give learners choice. It is a narrower case of [motivation](motivation.md).
@@ -255,6 +255,8 @@ Interest is a learner's attraction to a topic. Research separates individual int
 - [Adaptivity does not sacrifice enjoyment](../claims/bkt-adaptivity-no-enjoyment-cost.md) [-M] — instruction changes it
 - [TG1 rated learning enjoyment higher than CG (d = 0.49), not significant after Bonferroni correction.](../claims/cts-high-learner-control-enjoyment-tg1-cg.md) [-M] — instruction changes it
 - [Context-personalized AI-generated learning material increases primary students' intrinsic motivation and interest compared with standard material](../claims/gai-personalized-material-motivation-interest.md) [+M] — instruction changes it
+- [No significant change in mathematics attitudes for either group except a significant decline in enjoyment for the control group](../claims/mobile-math-no-attitude-change-control-enjoyment-decline.md) [~W] — instruction changes it
+- [Triggered situational interest shows anecdotal evidence of being higher in the VR condition while maintained situational interest does not differ](../claims/desktop-vr-scaffolded-self-explanation-situational-interest.md) [~M] — instruction changes it
 
 ## The evidence by question
 - *Does seeing a task as interesting, important or useful raise the effort learners invest in it?* [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](../claims/task-value-increases-motivation-and-engagement.md) [+M]

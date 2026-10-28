@@ -56,3 +56,4 @@ The review reports this synthesis of educational research on Stable Dispositions
 - [A CCSR research review concludes that four academic mindsets (belonging, growth beliefs, self-efficacy and value) increase perseverance and improve academic behaviors](four-academic-mindsets-increase-perseverance-and-behaviors.md) — related
 - [Conscientiousness is robustly associated with academic performance across primary, secondary, and tertiary education, with openness the next strongest predictor](conscientiousness-predicts-academic-performance-review.md) — a broader claim this one bears on
 - [Conscientiousness is a reliable meta-analytic predictor of academic achievement](conscientiousness-predicts-academic-achievement.md) — related
+- [Dispositions such as positivity, lifelong learning orientation, and persistence are reported as essential for ID/ET practice](dispositions-essential-for-id-et-practice.md) — related

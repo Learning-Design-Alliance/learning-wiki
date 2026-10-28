@@ -55,3 +55,4 @@ Meta-regression across Studies 1–7 on maintained situational interest in regre
 - [Neither choice nor utility value manipulations improve end-of-session regression test performance, and the two manipulations do not interact](no-performance-effects-no-uv-choice-interaction.md) — related
 - [Utility value manipulation, but not choice, increases voluntary requests for statistics resources, a behavioral indicator of emerging individual interest](utility-value-increases-resource-requests-emerging-individual-interest.md) — related
 - [Directly-communicated utility value increases beliefs about the usefulness of regression, unmoderated by baseline confidence or interest](utility-value-increases-usefulness-beliefs-unmoderated.md) — related
+- [Triggered situational interest shows anecdotal evidence of being higher in the VR condition while maintained situational interest does not differ](desktop-vr-scaffolded-self-explanation-situational-interest.md) — related

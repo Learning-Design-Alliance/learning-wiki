@@ -49,3 +49,4 @@ Climate-effect analysis using doubly latent ML-SEM: aggregated student ratings o
 - [Class-level instructional quality is positively related to student intrinsic motivation, with all three dimensions similarly important](instructional-quality-related-intrinsic-motivation.md) — related
 - [Residual (non-shared) student-level perceptions of instructional quality are positively related to individual student self-efficacy and intrinsic motivation](residual-l1-climate-ratings-related-motivation.md) — related
 - [Teacher self-efficacy is not directly related to student self-efficacy or intrinsic motivation when teacher and student reports are combined at the class level](tse-not-related-student-motivational-beliefs.md) — related
+- [Effective classroom management is a necessary but insufficient condition for cognitive activation and instructional support](cm-necessary-insufficient-for-cognitive-activation.md) — related

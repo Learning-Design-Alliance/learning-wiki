@@ -48,3 +48,4 @@ Systematic methodological review screening all articles in five journals (BJEP, 
 - [Use of mixed methods in educational psychology journals increased after the 2019 Contemporary Educational Psychology special issue, with 54.4% of the 2016–2022 mixed methods articles published in 2020–2022](mmr-use-increased-after-2019-special-issue.md) — related
 - [Among the 57 mixed methods articles, explanatory sequential designs were most common (52.6%), followed by convergent (40.4%) and exploratory sequential (7.0%) designs](design-type-distribution-explanatory-dominant.md) — related
 - [Reporting quality was highest for data collection (84.2% high ratings) and data analysis (80.7%), and lowest for mixed methods study design (47.4%), aims and purposes (52.6%), and elements of writing (54.4%)](reporting-quality-varies-by-rigor-element.md) — related
+- [Most empirical studies adopted a quantitative research approach](most-studies-quantitative-approach.md) — related

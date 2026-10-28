@@ -9,6 +9,7 @@ generated:
   at: 2026-10-16
 evidence_strength: moderate
 newest_evidence: 2018
+source_checked: 2026-10-28
 sources:
   - id: bidzan-bluma-ilona-2018
     resource: "https://doi.org/10.3390/ijerph15040800"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q2`
-> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2018 · checked against its sources 2026-10-28 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A positive correlation was found between physical activity and better working memory among children aged 8–12 years. [→ Bidzan-Bluma Ilona 2018](#bidzan-bluma-ilona-2018)
@@ -70,3 +71,6 @@ The review attributes to two intervention studies that combining "integrated phy
 - [Daily moderate-to-vigorous physical activity is associated with better executive functioning in boys with ADHD](mvpa-associated-executive-function-adhd-boys.md) — related
 - [Cardiorespiratory fitness (VO2max) is the physical fitness measure most strongly correlated with cognitive functioning in adolescents](vo2max-best-correlated-cognition.md) — related
 - [Motor activities combined with high integration and high relevance produce the largest positive effects on memory, per a meta-analysis cited by the review](high-integration-relevance-motor-activity-memory-effects.md) — related
+- [Preschoolers using gesture recognition with the memory strategy achieved significantly better English learning performance than those using traditional activity learning with the memory strategy](gesture-recognition-memory-strategy-better-english-learning-performance.md) — related
+- [Preschoolers using gesture recognition with the memory strategy achieved significantly better stability scores than the control group](gesture-recognition-memory-strategy-better-stability.md) — related
+- [Preschoolers using gesture recognition with the memory strategy achieved significantly better working memory scores than the control group](gesture-recognition-memory-strategy-better-working-memory.md) — related

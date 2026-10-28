@@ -44,7 +44,8 @@ Based on converging correlational evidence that goal setting and strategic plann
 - [Open-ended planning prompts at the start of a MOOC increase course completion by 29%](../claims/planning-prompts-increase-mooc-completion.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Diagnose self-regulation at semester start and provide scaffolding or self-regulation instruction for online learners](diagnose-scaffold-self-regulation-online.md)
 
 ## Examples
 -

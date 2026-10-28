@@ -68,6 +68,7 @@ Multiple representations work because they distribute information across verbal 
 - [Teach L2 comprehension through a multiliteracies curriculum with video-based visualizing and verbalizing activities](multiliteracies-video-comprehension-activities.md)
 - [Choose individual texts and videos appropriate for specific students rather than deciding by representational format](choose-materials-individually-not-by-format.md)
 - [Design CSCL environments for group awareness and representational guidance to cut coordination load](cscl-group-awareness-representational-guidance.md)
+- [CSCL environments should support learners' engagement with multiple forms of representations and help them meaningfully connect them in ways that foster knowledge construction.](cscl-environments-support-multiple-representations.md)
 
 ## Examples
 - **[CAST UDL Guidelines](https://udlguidelines.cast.org)** — the source framework for this strategy, with representation checkpoints for perception, language, and comprehension.

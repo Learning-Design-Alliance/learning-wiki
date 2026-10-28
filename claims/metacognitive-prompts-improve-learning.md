@@ -153,3 +153,4 @@ A systematic review of 35 studies of approaches to support self-regulated learni
 - [Learning journals can enhance metacognition and achievement, but benefits depend on reflection type and quality of instructions](learning-journals-reflection-type-moderates-benefit.md) — related
 - [Computer-based metacognitive scaffolding shows limited evidence of long-term retention or transfer of the scaffolded skills](limited-evidence-long-term-metacognitive-retention.md) — related
 - [Metacognition and critical-thinking tutors show mixed results: Operation ARA gained 1.4 σ, SEEK showed no significant improvement, and MetaTutor's learning-efficiency advantage disappeared when agent time was counted](metacognition-tutoring-mixed-outcomes.md) — related
+- [Metacognitive scaffolding outperforms conceptual scaffolding alone in online learning environments](metacognitive-scaffolding-outperforms-conceptual.md) — related

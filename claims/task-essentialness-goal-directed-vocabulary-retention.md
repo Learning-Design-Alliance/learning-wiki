@@ -60,3 +60,4 @@ The review reports, citing McCafferty et al. (2001), a preliminary study applyin
 - [Motivational processes are proposed to be instrumental for essential as well as generative processing](motivation-essential-processing-claim.md) — related
 - [Emotion affects motivation, which in turn affects mental effort investment during learning](emotion-affects-motivation-mental-effort.md) — related
 - [In-between learning activities increased invested mental effort in reading the second text unit (Experiment 2)](in-between-activities-raise-mental-effort-second-text-unit.md) — related
+- [Invested effort was positively associated with knowledge acquisition for research designs](invested-effort-knowledge-research-designs.md) — a narrower finding that bears on this claim

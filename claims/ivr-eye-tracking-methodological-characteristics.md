@@ -66,3 +66,4 @@ Domain and equipment analysis in RQ4 (Table 6). The review also reports that "A 
 ## Related Claims
 - [Attention is the most frequently assessed learning construct in IVR eye-tracking research, while motivation, self-regulation, and immersion are unexamined](attention-most-assessed-ivr-eye-tracking-construct.md) — related
 - [Overall validity of eye-tracking measures of learning in IVR is limited, averaging 1.93 of 4, with data quality the weakest component](ivr-eye-tracking-overall-validity-limited.md) — related
+- [The HTC Vive head-mounted devices were mostly used to conduct the experiments](htc-vive-most-used-device.md) — related

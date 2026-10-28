@@ -23,7 +23,7 @@ sources:
 # Peer Review
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 8 claims (6 for, 1 mixed, 1 against) · 9 studies (5 associational, 3 quant-synthesis, 1 causal), `q2`–`q4` · 3 of 9 report an effect size · 6 claims rest on one study
+> **Evidence** · 9 claims (7 for, 1 mixed, 1 against) · 10 studies (5 associational, 3 quant-synthesis, 1 causal, 1 design), `q1`–`q4` · 3 of 10 report an effect size · 7 claims rest on one study
 
 ## Description
 Peer review is the element in which learners examine and respond to one another's work using shared criteria, prompts, or examples. It can improve drafts directly, but it is also valuable because evaluating peer work often sharpens learners' own judgment about quality.
@@ -65,6 +65,7 @@ Peer review is the element in which learners examine and respond to one another'
 - [Peer Feedback Improves Writing](../claims/peer-feedback-improves-writing.md) [+M]
 - [Giving feedback that identifies problems in peers' work is a significant predictor of assessors' own project performance](../claims/giving-problem-identification-feedback-predicts-assessor-performance.md) [+W]
 - [Peer grading behaviors do not significantly predict project performance for assessors or assessees](../claims/peer-grading-not-significant-predictor.md) [-W]
+- [Peer review helped students notice their own mistakes through reviewing others' work](../claims/peer-review-reveals-own-mistakes.md) [+W]
 
 ## The evidence by question
 - *Should learners assess each other's work, and does it need a rubric or script?* [Peer assessment improves academic performance by a small average amount relative to no assessment or to teacher assessment](../claims/peer-assessment-improves-performance.md) [+M]

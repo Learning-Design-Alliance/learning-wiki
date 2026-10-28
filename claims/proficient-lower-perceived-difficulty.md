@@ -53,3 +53,4 @@ A Kruskal-Wallis test on the single-item 10-point perceived difficulty measure (
 - [Latent profile analysis of pre-service teachers' CT skills identifies three profiles (Novice, Developing, Proficient), revealing heterogeneous, non-linear skill acquisition](three-ct-profiles-preservice-teachers-lpa.md) — related
 - [Prior coding experience correlates positively with digital literacy and coding comfort and negatively with perceived task difficulty](coding-experience-correlates-ct-skills.md) — related
 - [Novice K-12 students face multiple documented difficulties when learning STEM and CT simultaneously through learning-by-modeling, including translating domain knowledge into computational form and debugging model behaviors.](student-difficulties-learning-by-modeling-stem-ct.md) — related
+- [Higher perceived difficulty was associated with lower knowledge acquisition for samples](perceived-difficulty-moderates-knowledge.md) — related

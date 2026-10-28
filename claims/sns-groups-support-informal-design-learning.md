@@ -55,3 +55,4 @@ Naturalistic observation of five student-created Facebook groups in an HCI desig
 - [Facebook use in higher education is associated with increased teacher-student and student-student interaction](facebook-increases-teacher-student-student-student-interaction.md) — a broader claim this one bears on
 - [First-year students used Facebook mainly for social purposes and only secondarily for informal student-to-student academic purposes, rarely for formal teaching.](facebook-social-not-formal-teaching.md) — related
 - [Students were generally opposed to tutors contacting them via Facebook for formal teaching, though a majority saw some role for departmental and module-level administrative uses.](student-opposition-tutor-facebook-contact.md) — related
+- [Students initially doubted Facebook as an educational space but came to see it as a real resource for keeping the group in contact and fostering dialogue](facebook-initially-doubted-became-resource.md) — related

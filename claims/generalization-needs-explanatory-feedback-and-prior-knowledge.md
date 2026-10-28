@@ -67,3 +67,4 @@ Study 2, with a four-item statistical reasoning pretest, found the "Lecture × P
 - [Correct-answer feedback alone was insufficient for generalization: significantly worse than lecture in Study 1, with the difference not significant in Study 2](correct-answer-feedback-insufficient-for-generalization.md) — a narrower finding that bears on this claim
 - [Learners judge explanatory feedback as more effective preparation than correct-response feedback, in both studies](explanatory-feedback-judged-more-effective-than-correct-response.md) — related
 - [Practice with feedback—either correct-answer or explanatory—produces better memory than lecture, in both multiple-choice and open-ended formats](practice-feedback-memory-beats-lecture.md) — related
+- [Explanatory feedback has a greater benefit for students than corrective feedback in digital environments](explanatory-feedback-beats-corrective-digital.md) — related

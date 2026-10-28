@@ -18,7 +18,7 @@ sources:
 # Community of Inquiry
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 19 claims (7 for, 11 mixed, 1 against) · 23 studies (5 causal, 5 review, 4 qualitative, 3 quant-synthesis, 2 associational, 2 design, 2 theoretical), `q1`–`q4` · 1 of 23 report an effect size · 16 claims rest on one study
+> **Evidence** · 21 claims (8 for, 12 mixed, 1 against) · 25 studies (6 causal, 5 review, 4 qualitative, 3 quant-synthesis, 3 associational, 2 design, 2 theoretical), `q1`–`q4` · 3 of 25 report an effect size · 18 claims rest on one study
 
 ## Conditional relationship
 
@@ -116,6 +116,8 @@ Perceived presence, the quality of the discourse, each learner's understanding a
 - [Social presence influences how social interaction unfolds in online group learning, which in turn affects learning outcomes](../claims/social-presence-shapes-online-group-interaction-and-outcomes.md) [+W]
 - [Cognitive presence comprises four phases of critical thinking — triggering event, exploration, integration, and resolution — which are not always sequential](../claims/coi-cognitive-presence-four-phases.md) [+W]
 - [In the coded dataset, exploration was the most frequent phase (727 units, 48%), followed by integration (444, 29%), resolution (235, 15%), and non-cognitive presence (115, 8%)](../claims/phase-distribution-skew.md) [~W]
+- [A visible instructor increased social presence in an exploratory field study (d = 0.85)](../claims/visible-instructor-social-presence-study1.md) [~W]
+- [Teaching presence was positively related to cognitive presence but had no direct relationship with learning engagement; cognitive presence fully mediated the teaching presence–engagement relationship](../claims/teaching-presence-cognitive-mediation-engagement.md) [+W]
 
 ## Related Principles
 - [Collaborative Learning](collaborative-learning.md) — community of inquiry explains one strong form of collaborative meaning-making

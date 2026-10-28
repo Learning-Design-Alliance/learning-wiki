@@ -104,3 +104,5 @@ Narrative review attributing to Li, Kizilcec, Bailenson, and Ju (2016) an examin
 - [Physical presence of a robotic tutor agent is not significantly related to students' task performance in an emotionally-adaptive ITS](physical-presence-no-task-performance-effect.md) — related
 - [Including videos of the students' own human teacher giving motivational feedback was more effective than an animated pedagogical agent and improved homework completion rates](teacher-videos-beat-pedagogical-agent-motivation.md) — related
 - [People preferred interacting with a humanoid robot over a comparable on-screen agent and showed less socially undesirable behaviour](robot-preferred-over-screen-agent-less-undesirable-behavior.md) — related
+- [Borup et al. (2015) found video feedback more convenient for student support and text-based feedback more convenient for exploratory feedback](borup-2015-video-affective-text-efficiency.md) — related
+- [Lack of instructor embodiment in tutorials may limit effectiveness for DHH students](dhh-embodiment-limits-effectiveness.md) — related

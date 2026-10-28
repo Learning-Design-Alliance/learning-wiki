@@ -49,3 +49,4 @@ Descriptive overview of the 51 included studies. "The majority of the studies (3
 - [AI-STEM research concentrated in higher education, technology and science content, lecture-based instruction, and face-to-face contexts](ai-stem-distribution-higher-ed-lecture-face-to-face.md) — related
 - [RL-based educational applications concentrate on STEM subjects (n = 39 of 62 papers specifying a subject) and on college/higher-education learners (n = 30), with 36 papers not specifying a target group](rl-education-stem-higher-ed-concentration.md) — related
 - [Empirical research on the Pepper robot in formal education is recent, concentrated in primary education, and dominated by qualitative designs with small samples](pepper-formal-education-evidence-small-qualitative.md) — related
+- [Most empirical studies adopted a quantitative research approach](most-studies-quantitative-approach.md) — related

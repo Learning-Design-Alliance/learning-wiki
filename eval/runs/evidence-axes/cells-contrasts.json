@@ -47258,5 +47258,333 @@
  "other\t#i-think and #lets-discuss emoji use\tnot stated": {
   "label": "emoji use vs no emoji use",
   "treatment_is_a": true
+ },
+ "active-learning\tcourse participation in digital innovation projects\tinitial pre-course assessment": {
+  "label": "active learning vs baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tflipped short-video lectures\ttraditional lecture delivery": {
+  "label": "flipped instruction vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tgreater effort in integration-oriented discourse\tless effort in integration-oriented discourse": {
+  "label": "greater vs lesser integration-oriented discourse",
+  "treatment_is_a": true
+ },
+ "active-learning\tpeer discussion forums with interaction parameters\tforum frustration codes": {
+  "label": "interactive peer discussion vs forum frustration",
+  "treatment_is_a": true
+ },
+ "active-learning\tself-determination-theory-based online unit with discussion forums\tpre-intervention baseline": {
+  "label": "active learning vs baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tsharing-oriented discourse\tabsence of sharing-oriented discourse": {
+  "label": "sharing-oriented discourse vs no sharing-oriented discourse",
+  "treatment_is_a": true
+ },
+ "active-learning\ttechnology-rich active-learning course\tno comparison condition reported": {
+  "label": "active learning vs no comparison condition",
+  "treatment_is_a": true
+ },
+ "active-learning\ttechnology-rich active-learning course\ttraditional lecture-tutorial model": {
+  "label": "active learning vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tSDT-based online unit\tpretest baseline": {
+  "label": "autonomy-supportive online unit vs pre-intervention baseline",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tself-determination theory-based online unit\tpretest": {
+  "label": "autonomy-supportive online unit vs pre-intervention baseline",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tself-determination-theory-based online unit\tpre-intervention baseline": {
+  "label": "autonomy-supportive online unit vs pre-intervention baseline",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tself-determination-theory-based online unit with learner choices\tpre-intervention baseline": {
+  "label": "choice-enhanced autonomy-supportive online unit vs pre-intervention baseline",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tAWE combined with teacher feedback\tAWE alone": {
+  "label": "teacher feedback plus AWE vs AWE alone",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tAWE complemented by teacher feedback\tAWE alone": {
+  "label": "teacher feedback plus AWE vs AWE alone",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tDirect feedback on each possible error in multiple-choice questions\tNo feedback": {
+  "label": "direct feedback on each possible error vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tcourse participation with peer review and feedback\tinitial pre-course assessment": {
+  "label": "course participation with peer review and feedback vs no course participation with peer review and feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tdirect feedback on each possible error in a multiple-choice question\tno such feedback": {
+  "label": "direct feedback on each possible error vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tfinal arguments after feedback and revision\tdraft arguments before feedback and revision": {
+  "label": "feedback and revision before final arguments vs draft arguments before feedback and revision",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tfinal arguments after instructor feedback and videos\tdraft arguments before feedback and videos": {
+  "label": "instructor feedback and videos before final arguments vs draft arguments before instructor feedback and videos",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tpeer review and online feedback during the course\tnot stated": {
+  "label": "peer review and online feedback during the course vs no peer review and online feedback during the course",
+  "treatment_is_a": true
+ },
+ "feedback-type\texplanatory feedback\tcorrective feedback": {
+  "label": "explanatory feedback vs corrective feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\texplanatory feedback for correct and incorrect answers\tcorrective feedback indicating only correctness": {
+  "label": "explanatory feedback vs corrective feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tfinal arguments after feedback and videos\tdraft arguments": {
+  "label": "final arguments after feedback and videos vs draft arguments",
+  "treatment_is_a": true
+ },
+ "gamification\tMATHERIAL computer game\tregular math lessons": {
+  "label": "game-based mathematics instruction vs regular mathematics instruction",
+  "treatment_is_a": true
+ },
+ "gamification\tMATHERIAL computer game\tstudent's pre-intervention behavior": {
+  "label": "game-based mathematics instruction vs pre-intervention behavior",
+  "treatment_is_a": true
+ },
+ "gamification\tMATHERIAL computer math game\tregular math lessons without the game": {
+  "label": "game-based mathematics instruction vs regular mathematics instruction",
+  "treatment_is_a": true
+ },
+ "gamification\tMATHERIAL math game\tregular math lessons without the game": {
+  "label": "game-based mathematics instruction vs regular mathematics instruction",
+  "treatment_is_a": true
+ },
+ "gamification\tMATHERIAL mathematics game\tregular mathematics lessons without the game": {
+  "label": "game-based mathematics instruction vs regular mathematics instruction",
+  "treatment_is_a": true
+ },
+ "gamification\tgamified virtual reality learning environments\tnot stated": {
+  "label": "gamified virtual-reality learning environment vs comparator not stated",
+  "treatment_is_a": true
+ },
+ "gamification\tgamified virtual reality learning environments\ttraditional learning environments": {
+  "label": "gamified virtual-reality learning environment vs traditional learning environment",
+  "treatment_is_a": true
+ },
+ "gamification\tlearning environments integrating virtual reality and gamification\tlearning environments without the combined intervention": {
+  "label": "virtual-reality learning with gamification vs learning without the combined intervention",
+  "treatment_is_a": true
+ },
+ "gamification\tlearning environments integrating virtual reality and gamification\tnot stated": {
+  "label": "virtual-reality learning with gamification vs comparator not stated",
+  "treatment_is_a": true
+ },
+ "media-design\tadult educational films\tschool educational films": {
+  "label": "adult films vs school films",
+  "treatment_is_a": true
+ },
+ "media-design\tadult films\telementary school films": {
+  "label": "adult films vs school films",
+  "treatment_is_a": true
+ },
+ "media-design\tadult films\tschool films": {
+  "label": "adult films vs school films",
+  "treatment_is_a": true
+ },
+ "media-design\tcaption-formatting issues or excessive slide data\tcoherent caption formatting and appropriately limited slide data": {
+  "label": "coherent caption formatting and limited slide data vs caption-formatting issues and excessive slide data",
+  "treatment_is_a": false
+ },
+ "media-design\tcombined experimental video-lecture formats\tcontrol group without the course": {
+  "label": "combined video-lecture formats vs no course",
+  "treatment_is_a": true
+ },
+ "media-design\tdirect TV narration\tdramatic action combined with narration": {
+  "label": "dramatic action combined with narration vs direct narration",
+  "treatment_is_a": false
+ },
+ "media-design\tdynamic slides with additional instructor signaling\tdynamic slides with voiceover narration": {
+  "label": "instructor signaling vs voiceover narration",
+  "treatment_is_a": true
+ },
+ "media-design\tdynamic slides with additional instructor signaling\tstatic slides with voiceover narration": {
+  "label": "dynamic slides with instructor signaling vs static slides with voiceover narration",
+  "treatment_is_a": true
+ },
+ "media-design\tdynamic slides with voiceover narration\tstatic slides with voiceover narration": {
+  "label": "dynamic slides vs static slides",
+  "treatment_is_a": true
+ },
+ "media-design\telementary school films\tadult films": {
+  "label": "adult films vs elementary school films",
+  "treatment_is_a": false
+ },
+ "media-design\tfilm narration readability\ttheoretical reading level of the intended audience": {
+  "label": "readable film narration vs theoretical reading level of the intended audience",
+  "treatment_is_a": true
+ },
+ "media-design\tfilms using animation\tfilms not using animation": {
+  "label": "animation vs no animation",
+  "treatment_is_a": true
+ },
+ "media-design\tfilms using color\tfilms not using color": {
+  "label": "color vs no color",
+  "treatment_is_a": true
+ },
+ "media-design\tfive major and 21 minor sub-titles\tno sub-titles": {
+  "label": "major and minor subtitles vs no subtitles",
+  "treatment_is_a": true
+ },
+ "media-design\tfive major sub-titles\tno sub-titles": {
+  "label": "major subtitles vs no subtitles",
+  "treatment_is_a": true
+ },
+ "media-design\tinstructor embodiment with virtual whiteboard and slide engagement\tno instructor embodiment": {
+  "label": "instructor embodiment vs no instructor embodiment",
+  "treatment_is_a": true
+ },
+ "media-design\tpresentation slide visuals\tother tutorial features": {
+  "label": "presentation slide visuals vs other tutorial features",
+  "treatment_is_a": true
+ },
+ "media-design\tpresentation slide visuals\tsign-language interpreting": {
+  "label": "presentation slide visuals vs sign-language interpreting",
+  "treatment_is_a": true
+ },
+ "media-design\tredundant presentation of captions, narration, signing, and visuals\tless redundant multimedia presentation": {
+  "label": "redundant multimedia presentation vs less redundant multimedia presentation",
+  "treatment_is_a": true
+ },
+ "media-design\tredundant simultaneous narration, captions, and ASL interpreting\tless redundant presentation": {
+  "label": "redundant multimedia presentation vs less redundant multimedia presentation",
+  "treatment_is_a": true
+ },
+ "media-design\tschool films\tadult films": {
+  "label": "adult films vs school films",
+  "treatment_is_a": false
+ },
+ "media-design\tsegmented, user-paced multimedia tutorial\tnon-segmented tutorial": {
+  "label": "segmented, user-paced multimedia tutorial vs non-segmented tutorial",
+  "treatment_is_a": true
+ },
+ "media-design\tsegmenting principle\tredundancy principle": {
+  "label": "segmenting principle vs redundancy principle",
+  "treatment_is_a": true
+ },
+ "media-design\tsignaling principle\tno signaling principle": {
+  "label": "signaling principle vs no signaling principle",
+  "treatment_is_a": true
+ },
+ "media-design\tsigning overlaid with presentation visuals\tsigning spatially or temporally separated from visuals": {
+  "label": "signing overlaid with presentation visuals vs signing separated from visuals",
+  "treatment_is_a": true
+ },
+ "media-design\tuser-paced, segmentable multimedia tutorial\tsimultaneous continuous multimedia presentation": {
+  "label": "segmented, user-paced multimedia tutorial vs continuous multimedia presentation",
+  "treatment_is_a": true
+ },
+ "media-design\tvisible instructor video\tno visible instructor video": {
+  "label": "visible instructor video vs no visible instructor video",
+  "treatment_is_a": true
+ },
+ "media-design\tvisual materials\tnot stated": {
+  "label": "visual materials vs no stated visual materials",
+  "treatment_is_a": true
+ },
+ "prompts\tBakhtinian reflexive professional conversations\tprior individual interpretation of SET data": {
+  "label": "Reflexive professional conversations vs individual interpretation of SET data",
+  "treatment_is_a": true
+ },
+ "prompts\ttask-supplemental integration prompts\tno prompts": {
+  "label": "Task-supplemental prompts vs no prompts",
+  "treatment_is_a": true
+ },
+ "prompts\ttask-supplemental prompts\tno prompts": {
+  "label": "Task-supplemental prompts vs no prompts",
+  "treatment_is_a": true
+ },
+ "scaffolding\tadaptive-paced learning and guided activity\tfixed-pace or unguided activity": {
+  "label": "adaptive/guided scaffolding vs fixed-pace/unguided activity",
+  "treatment_is_a": true
+ },
+ "scaffolding\tconceptual plus metacognitive scaffolding\tconceptual scaffolding only": {
+  "label": "conceptual plus metacognitive scaffolding vs conceptual scaffolding only",
+  "treatment_is_a": true
+ },
+ "scaffolding\tdigital scaffolding in virtual learning environments\tno digital scaffolding": {
+  "label": "digital scaffolding vs no scaffolding",
+  "treatment_is_a": true
+ },
+ "scaffolding\tfinal arguments after feedback and video-supported revision\tdraft arguments before revision": {
+  "label": "feedback-supported revision vs unrevised draft",
+  "treatment_is_a": true
+ },
+ "scaffolding\tmetacognitive plus conceptual scaffolding\tconceptual scaffolding alone": {
+  "label": "conceptual plus metacognitive scaffolding vs conceptual scaffolding only",
+  "treatment_is_a": true
+ },
+ "scaffolding\tmetacognitive scaffolding\tconceptual scaffolding": {
+  "label": "metacognitive scaffolding vs conceptual scaffolding",
+  "treatment_is_a": true
+ },
+ "scaffolding\tmodel-based support with AI virtual students\tno-treatment control": {
+  "label": "model-based AI support vs no support",
+  "treatment_is_a": true
+ },
+ "scaffolding\tmodel-based support with AI-powered virtual students\tpre-intervention baseline": {
+  "label": "model-based AI support vs no support",
+  "treatment_is_a": true
+ },
+ "scaffolding\tpersonalized scaffolds\tno personalized scaffolds or learners' existing activity patterns": {
+  "label": "personalized scaffolding vs no personalized scaffolding",
+  "treatment_is_a": true
+ },
+ "scaffolding\tscaffolding in digital environments\tno scaffolding": {
+  "label": "digital scaffolding vs no scaffolding",
+  "treatment_is_a": true
+ },
+ "scaffolding\tself-determination-theory-based online unit\tpre-intervention baseline": {
+  "label": "self-determination-theory-based online unit vs pre-intervention baseline",
+  "treatment_is_a": true
+ },
+ "simulation\tdesktop VR with scaffolded interaction and reflective self-explanation\ttraditional instruction using videos and engineering diagrams": {
+  "label": "simulation vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "simulation\tmixed-reality MCI training\tRLE2 near-ideal real-life exercise": {
+  "label": "mixed-reality simulation vs real-life practice",
+  "treatment_is_a": true
+ },
+ "simulation\tmixed-reality MCI training\treal-life MCI exercises": {
+  "label": "mixed-reality simulation vs real-life practice",
+  "treatment_is_a": true
+ },
+ "spacing\tmassed review at end of film\tno review": {
+  "label": "review vs no review",
+  "treatment_is_a": true
+ },
+ "spacing\tmassed review at end of film\tspaced oral review": {
+  "label": "spaced vs massed",
+  "treatment_is_a": false
+ },
+ "spacing\tmassed review at end of film\tspaced review": {
+  "label": "spaced vs massed",
+  "treatment_is_a": false
+ },
+ "spacing\tspaced oral review\tno review": {
+  "label": "review vs no review",
+  "treatment_is_a": true
+ },
+ "spacing\tspaced review\tno review": {
+  "label": "review vs no review",
+  "treatment_is_a": true
  }
 }

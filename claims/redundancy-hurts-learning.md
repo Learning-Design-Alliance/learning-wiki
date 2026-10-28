@@ -135,3 +135,5 @@ A meta-analysis of 57 independent effect sizes from 33 experimental reports, mos
 - [Mayer published seven pieces in Educational Psychology Review, including the Select–Organize–Integrate model of learning and a research-based analysis of animation as an aid to multimedia learning.](mayer-seven-epr-pieces-soi-animation.md) — related
 - [Embodied action can harm learning when it adds motor demands, redundant cues, or irrelevant activity without improving understanding](action-hurts-when-adding-motor-demands.md) — related
 - [Multimodal presentation on multiple senses or channels simultaneously is reported to facilitate learning by providing many routes for storage and retrieval](multimodal-learning-facilitates-storage-retrieval.md) — related
+- [DHH students report using redundant multimedia features for support, conflicting with the CTML redundancy principle](dhh-redundant-support-conflicts-ctml-redundancy.md) — related
+- [Temporal contiguity of simultaneous visual, spoken, and signed events may be unfavorable for DHH students](dhh-temporal-contiguity-unfavorable.md) — related

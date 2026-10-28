@@ -43,6 +43,7 @@ The article recommends a set of implementable steps for raising active learning 
 ## Related Strategies
 
 - [Support e-teachers' transition with professional development focused on reflecting on online-versus-F2F differences and the potential of the tools](pd-reflection-online-versus-f2f-differences.md)
+- [Deliver TPD for OBL as a guided do-it-yourself course development service with training, templates, and milestone reviews](guided-diy-course-development-service.md)
 
 ## Examples
 -

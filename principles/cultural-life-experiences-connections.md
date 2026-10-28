@@ -262,6 +262,7 @@ The present evidence establishes no dose, no sequence, no effect on achievement 
 - [Weekly dance-first-then-physics cycle with dual experimental and experiential records](../designs/dance-first-physics-weekly-cycle-dual-record.md)
 - [Build mathematics instruction on children's funds of knowledge uncovered through home visits and teacher study groups](../strategies/funds-of-knowledge-mathematics-instruction.md)
 - [Design mathematics learning environments that build on students' home language, communities, and lived experiences](../strategies/build-math-on-home-language-and-community.md)
+- [Create physical learning activities with gesture recognition for preschoolers by strengthening connections between life experiences and tasks](../strategies/gesture-recognition-physical-activity-life-experience-connection.md)
 
 ## Key Sources
 - Hansman, C. A. (2001). Context-based adult learning. *New Directions for Adult and Continuing Education, 89*, 43-52. [https://doi.org/10.1002/ace.7](https://doi.org/10.1002/ace.7)

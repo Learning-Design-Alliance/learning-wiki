@@ -51,3 +51,4 @@ Descriptive survey of preference questions asked during the 1st and 2nd weeks of
 - Behavioural intention to adopt mobile learning is highest among eclectic users, followed by Internet users, then offline entertainment users, and lowest among basic users — related
 - [Students respond positively to e-mail exchanges, guest speaker interviews, and video projects aimed at cross-cultural awareness](positive-student-response-cross-cultural-activities.md) — related
 - [GenAI-assisted persona profiles matched campaign briefings at high levels (average 85% mobile phone, 80% drink campaign)](genai-persona-briefing-high-matching.md) — related
+- [Students rated mobile learning activities positively and 80% gave positive interview feedback](mobile-math-positive-student-perceptions.md) — related

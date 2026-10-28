@@ -49,3 +49,4 @@ Key leader interviews with 20 stakeholders in 12 districts plus focus groups and
 - [Interviewees identified leadership prioritization, staff buy-in, and investments in staffing, training, partnerships, and funding as facilitators of trauma-engaged implementation](leadership-buy-in-investments-facilitate-trauma-engaged-implementation.md) — related
 - [Principals and teachers increasingly agree that school and district support for TPE implementation is helpful, with principals more positive than teachers](school-district-support-tpe-helpful.md) — related
 - [Core Teams identified communication challenges, school and district leadership turnover, and teacher burnout as barriers that influenced solution success](inclusive-innovation-implementation-barriers.md) — related
+- [University teachers follow a top-down design approach considering learning outcomes, content scope, activities and assessment](teachers-top-down-design-process.md) — related

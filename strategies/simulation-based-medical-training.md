@@ -70,6 +70,7 @@ Simulation works because it allows deliberate practice with immediate feedback â
 - [Use risk-free high-fidelity VR simulation to complement physical training for hazardous clinical procedures](risk-free-vr-pretraining-for-hazardous-procedures.md)
 - [Use virtual patients to replace passive instruction and train clinical reasoning before bedside learning, without diminishing bedside teaching hours](vp-replace-passive-before-bedside-strategy.md)
 - [Blend the PEARLS debrief with CHAT-guided facilitation to extend debriefing from the individual to the team and system](blended-pearls-chat-debrief-strategy.md)
+- [Improve MR training by adjusting scenario complexity for stress elicitation and implementing communication capabilities with virtual patients](improve-mr-scenario-complexity-and-communication.md)
 
 ## Examples
 - **[Center for Medical Simulation, Harvard](https://harvardmedsim.org)** â€” pioneer of the "debriefing with good judgment" method now widely adopted in simulation faculties.

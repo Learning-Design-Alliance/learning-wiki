@@ -51,3 +51,4 @@ Multiple regression on the district PERTS survey data with belonging, task relev
 - [Sense of mathematics belonging predicts algebra learning, even after controlling for prior knowledge and background factors](mathematics-belonging-predicts-algebra-learning.md) — related
 - [Pre-service teachers' assessment quality is negatively related to self-efficacy and perceived costs of engaging with scientific evidence](evidence-engagement-costs-negatively-related-assessment-quality.md) — related
 - [Belonging may be more predictive of students' classroom participation and learning behavior than self-efficacy](belonging-more-predictive-than-self-efficacy.md) — related
+- [Regression analysis in iteration 1 identifies which skill sets significantly predict student assessment scores](regression-iteration1-skill-predictors.md) — related

@@ -71,3 +71,4 @@ Responses to the statement "Without Facebook I would be lonely": "only 3 per cen
 - [Students were generally opposed to tutors contacting them via Facebook for formal teaching, though a majority saw some role for departmental and module-level administrative uses.](student-opposition-tutor-facebook-contact.md) — related
 - [Facebook use in higher education is associated with increased teacher-student and student-student interaction](facebook-increases-teacher-student-student-student-interaction.md) — related
 - [Learning happens across formal, non-formal and informal settings, face-to-face and online](formal-non-formal-informal-learning-settings-interplay.md) — a broader claim this one bears on
+- [Students initially doubted Facebook as an educational space but came to see it as a real resource for keeping the group in contact and fostering dialogue](facebook-initially-doubted-became-resource.md) — related

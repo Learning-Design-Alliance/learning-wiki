@@ -14,7 +14,7 @@ grain_size: course
 # Learner Experience Design (LXD)
 
 > **Design Process** · [All design processes](index.md)
-> **Evidence** · 15 claims (8 for, 6 mixed, 1 against) · 24 studies (9 causal, 6 design, 4 review, 3 quant-synthesis, 2 theoretical), `q1`–`q4` · 4 of 24 report an effect size · 11 claims rest on one study
+> **Evidence** · 19 claims (12 for, 6 mixed, 1 against) · 27 studies (10 causal, 6 design, 5 review, 3 quant-synthesis, 2 theoretical, 1 associational), `q1`–`q4` · 4 of 27 report an effect size · 15 claims rest on one study
 
 ## Description
 Learner Experience Design imports the methods of user-centred design — user research, personas and scenarios, prototyping, usability testing, heuristic evaluation — into instructional design, and makes one substantive claim while doing it: **usability is not polish applied after the instruction, it is part of the instruction.**
@@ -75,6 +75,10 @@ LXD inherits the empathize-and-test moves from [Design Thinking](design-thinking
 - [Providing a learner profile shifts an LLM's selected instructional strategies from content-focused to learner-centered](../claims/learner-profile-shifts-llm-instructional-strategy-selection.md) [+W]
 - [In directional manual testing, reward hardening halved unusable interactive pages (25%→10%) and eliminated page-entry failures (2/24→0/30)](../claims/human-evaluation-interactivity-hardening.md) [+W]
 - [Students report no usability issues with the formative assessment tool (ASQ means 5.2–5.5)](../claims/students-report-no-usability-issues-asq.md) [~W]
+- [Experts reached consensus that LXD design perspectives center the learner and the human experience of interacting with learning environments](../claims/lxd-design-perspectives-consensus-learner-centered.md) [+W]
+- [Experts agreed LXD draws methods and theories from HCI and user experience design rather than solely from learning design and technology](../claims/lxd-draws-methods-theories-hci-ux.md) [+W]
+- [User experience challenges include poor matching, inadequate scaffolding, and suboptimal interface design](../claims/user-experience-challenges-srl-recommenders.md) [+W]
+- [The experimental group rated AVDS usability as excellent while the control group rated it as good](../claims/sus-usability-excellent-experimental-good-control.md) [+W]
 
 #### Supporting
 - [Cognitive Load Reduction Improves Learning](../claims/cognitive-load-reduction-improves-learning.md) [+S] — the mechanism the whole argument rests on

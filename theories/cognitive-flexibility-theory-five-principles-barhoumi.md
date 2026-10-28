@@ -55,6 +55,7 @@ Cognitive flexibility theory (CFT) is a constructivist theory of designing instr
 - [Cognitive Flexibility Theory](cognitive-flexibility-theory.md)
 - [Cognitive Flexibility](../principles/cognitive-flexibility.md)
 - [Case Based Teaching](../strategies/case-based-teaching.md)
+- [Design implications for web-enhanced case-based activity environments](../strategies/web-enhanced-cba-design-implications.md)
 
 ## Key Sources
 - Chokri Barhoumi; Pier Giuseppe Rossi. (2013). The Effectiveness of Instruction-Oriented Hypertext Systems Compared to Direct Instruction in e-learning Environments. Contemporary Educational Technology, 4(4), 281-308. https://eric.ed.gov/?id=EJ1105506

@@ -47,6 +47,7 @@ The article states that any LA system can have considerable socioeconomic impact
 - [Address core ethical challenges—data privacy, algorithmic fairness, and transparency—when deploying AI-driven personalized learning](ethical-safeguards-ai-personalized-learning.md)
 - [Apply an affective data governance framework: minimization, purpose limitation, consent, human oversight, and separation from evaluation](affective-data-governance-safeguards.md)
 - [Combine system logs, eye-tracking, and speech recognition to capture professional performance, communication, and collaboration for automated feedback in full-mission simulator training](mmla-sensor-set-simulator-feedback.md)
+- [Build students' understanding of the purposes and benefits of sharing data before implementing learning analytics](build-student-understanding-of-data-sharing.md)
 
 ## Examples
 -

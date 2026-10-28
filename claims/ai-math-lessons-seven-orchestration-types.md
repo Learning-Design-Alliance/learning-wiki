@@ -70,3 +70,4 @@ In the discussion, the authors report that the newly derived orchestration types
 - [Explain-the-screen was the most frequent orchestration type (24 of 46 episodes), and in AI-based lessons it was dynamically reconfigured in real time by AI-generated learning data](explain-the-screen-most-frequent-reconfigured.md) — related
 - [Teacher roles vary by orchestration type, with content-related and ethical roles prominent when the teacher intervenes in AI-generated feedback, and a knowledge-transmitter role emerging in explain-the-screen](teacher-roles-vary-by-orchestration-type.md) — related
 - [Instructor roles shift from exclusive information source toward orchestrating and regulating AI-mediated learning activities](instructor-role-shift-orchestrating-genai.md) — related
+- [AI tools positively affected student engagement and enabled real-time lesson adjustments based on student feedback](ai-tools-boost-engagement-real-time-adjustment.md) — related

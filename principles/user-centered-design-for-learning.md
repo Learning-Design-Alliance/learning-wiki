@@ -19,7 +19,7 @@ sources:
 # User-Centered Design for Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 23 claims (13 for, 9 mixed, 1 against) · 20 studies (8 design, 6 causal, 4 qualitative, 1 quant-synthesis, 1 associational), `q1`–`q4` · 3 of 20 report an effect size · 22 claims rest on one study
+> **Evidence** · 25 claims (14 for, 10 mixed, 1 against) · 22 studies (9 design, 6 causal, 4 qualitative, 1 quant-synthesis, 1 review, 1 associational), `q1`–`q4` · 3 of 22 report an effect size · 24 claims rest on one study
 
 ## Conditional relationship
 
@@ -143,6 +143,8 @@ Rated usability, task success, understanding of what a screen shows, and learnin
 ## Claims
 
 - [Students report no usability issues with the formative assessment tool (ASQ means 5.2–5.5)](../claims/students-report-no-usability-issues-asq.md) [~W]
+- [Formative evaluation by staff and students rated the MOLH positively on usability, content, and engagement.](../claims/molh-formative-evaluation-positive-ratings.md) [~W]
+- [User experience challenges include poor matching, inadequate scaffolding, and suboptimal interface design](../claims/user-experience-challenges-srl-recommenders.md) [+W]
 
 ## Related Principles
 - [Scaffolding and Fading](scaffolding-and-fading.md) — both concern how much support structure a learner needs and when it should be reduced, though scaffolding targets content mastery while UCD targets interface usability

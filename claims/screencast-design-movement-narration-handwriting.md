@@ -68,3 +68,4 @@ Narrative review attributing to Cross, Bayyapunedi, Cutrell, Agarwal, and Thies 
 - [Presenting words as spoken narration rather than on-screen text alongside graphics improves learning](modality-effect-narration-over-text.md) — related
 - Previous instructional-video research lacks a consistent taxonomy, hindering comparison and meta-analysis — related
 - [Animated personas produce better learning than static ones, and agent voice contributes significantly to learning](animated-persona-and-voice-effects.md) — related
+- [Dynamic slides did not improve knowledge acquisition compared to static slides](dynamic-slides-no-knowledge-benefit.md) — related

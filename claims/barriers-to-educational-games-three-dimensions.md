@@ -49,3 +49,4 @@ The article reviews barriers to educational games along three named dimensions, 
 - [Digital education innovations are an interplay of technological, pedagogical, organisational and governance-related dimensions](digital-education-innovation-four-dimension-interplay.md) — a broader claim this one bears on
 - [Teachers who perceive the challenges and barriers of using AI as high (cost) may be less motivated to use it (theoretical argument).](teacher-perceived-cost-reduces-motivation-to-use-ai.md) — related
 - [Ontology development and maintenance remained key research challenges blocking wide adoption of ontology-enhanced learning environments](ontology-development-maintenance-key-challenge.md) — related
+- [ITS adoption is limited by instructors' lack of programming skills and high outsourcing costs](its-barriers-programming-skills-and-cost.md) — related

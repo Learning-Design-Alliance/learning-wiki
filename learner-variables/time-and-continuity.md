@@ -13,7 +13,7 @@ generated:
 # Time and Continuity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 135 claims (93 show a difference, 33 mixed, 9 no difference) · 117 studies (47 causal, 29 associational, 17 review, 11 quant-synthesis, 5 qualitative, 5 design, 3 theoretical), `q1`–`q4` · 25 of 117 report an effect size · 131 claims rest on one study
+> **Evidence** · 136 claims (94 show a difference, 33 mixed, 9 no difference) · 118 studies (47 causal, 29 associational, 17 review, 11 quant-synthesis, 6 qualitative, 5 design, 3 theoretical), `q1`–`q4` · 25 of 118 report an effect size · 132 claims rest on one study
 
 ## Description
 How much uninterrupted time a learner actually gets, and whether progress survives the gap to the next session. It sets page length, whether a task finishes in one sitting, and whether a multi-week deliverable survives a bad month. The awkward part is that the schedule which produces the best retention is the one learners reliably judge worst: spacing feels harder and less effective while producing more durable learning [~S], so this dimension cannot be designed by learner preference.
@@ -192,6 +192,7 @@ How much uninterrupted time a learner actually gets, and whether progress surviv
 - [More than 65% of teachers reported class attendance decreased during remote instruction, with lower attendance more frequent among low-income US students](../claims/remote-instruction-attendance-drop-ses.md) [+M] — instruction changes it
 - [Remote instruction time fell below two thirds of typical weekly requirements and most teachers could not deliver the full curriculum](../claims/remote-instruction-time-below-requirements.md) [+M] — instruction changes it
 - [A two-feature combination of average time until skip and average time until first hint request statistically significantly describes students' accumulated perceived task-difficulty across a learning session.](../claims/log-feature-combination-significant-accumulated-difficulty.md) [+M] — learners who differ on it differ in outcomes
+- [Web support provided space–time continuity that sustained relational continuity and an open circuit of knowledge between classroom sessions](../claims/web-support-relational-continuity.md) [+W] — instruction changes it
 
 ## The evidence by question
 

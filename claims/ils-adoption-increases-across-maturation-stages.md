@@ -70,3 +70,5 @@ Teacher-level descriptive analysis of the 20,064 Graasp teachers who (co)created
 - [Re-used Inquiry Learning Spaces were about four times more likely to be implemented than those created from scratch, and scaffolding increased the implementation rate](reused-ils-four-times-more-likely-implemented-scaffolding-increases.md)
 - [Logistic regression shows all traced KAM practices except fading are significant positive predictors of adoption, with maturation strongest (odds ratios up to 12.36) and model AUC = 0.79](logistic-regression-kam-practices-predict-adoption.md) — a narrower finding that bears on this claim
 - [Teachers who participated in ILSs with KAM practices were far more likely to be involved in an implemented ILS (42–53%) than the dataset average (16.27%)](teacher-level-kam-participation-linked-to-implemented-ils.md) — related
+- [Most created ILSs are not implemented in classrooms, with implementation increasing over time](ils-implementation-gap-narrowing-over-time.md) — related
+- [Published ILSs differ from unpublished ILSs in design time, reuse, apps, and resources](published-ils-differ-from-unpublished.md) — related

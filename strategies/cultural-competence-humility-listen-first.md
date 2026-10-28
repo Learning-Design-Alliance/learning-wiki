@@ -42,6 +42,7 @@ A funder practice of directly engaging communities before acting, spending time 
 - [Rely on existing experts and invest in building expertise from within the communities served, including Grow Your Own faculty recruitment](rely-on-existing-experts-build-community-expertise.md)
 - [Put student voices first: make colleges student-ready, give students agency over educational choices, and provide wraparound supports for basic needs](student-voices-first-student-ready-colleges.md)
 - [Build direct employer-listening channels and AI-specific advisory structures for small and mid-sized firms](employer-listening-channels-small-firms.md)
+- [Consult online students directly during the needs analysis phase of orientation resource design](consult-students-in-needs-analysis.md)
 
 ## Examples
 -

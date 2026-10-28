@@ -74,3 +74,4 @@ Negative-perceptions sub-theme from thematic analysis of interviews with 10 trai
 - [Institutional guidance cautions instructors about privacy (60% of institutions) while syllabi more often flag veracity of GenAI output and hindering learning](concerns-privacy-institutional-veracity-syllabi.md) — related
 - [Barriers to seamless GenAI integration include limited accessibility, insufficient bias mitigation, and tool availability prioritized over curriculum alignment](genai-integration-barriers-accessibility-bias-alignment.md) — related
 - [AIED criticism is largely application-specific rather than opposition to all AI in education](aied-criticism-application-specific.md) — related
+- [ITS adoption is limited by instructors' lack of programming skills and high outsourcing costs](its-barriers-programming-skills-and-cost.md) — related

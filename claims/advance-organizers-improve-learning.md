@@ -162,3 +162,4 @@ Open questions: most of the evidence base predates modern multimedia learning re
 - [Prior-knowledge activation instructions before study had little effect on retention in Experiment 2](prior-knowledge-activation-little-effect-on-retention.md) — related
 - [Hierarchical top-down schema-based instruction improved transfer performance compared with single-level and control instruction](hierarchical-schema-instruction-transfer.md) — related
 - [Available prior knowledge affects learning only when it is activated before the task](activation-required-prior-knowledge-effects.md) — related
+- [All-in-one lesson structure with prior knowledge, optional help and challenge, and chunking supported autonomy and competence](all-in-one-lesson-structure-supported-autonomy-competence.md) — related

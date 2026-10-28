@@ -54,3 +54,4 @@ Qualitative video-graph comparison of thematic episodes across 11 groups' transc
 - [Scaffolded ill-structured tasks elicit a higher proportion of solution-evaluation (P4) turns and a lower proportion of problem-solving (P3) turns than non-scaffolded tasks](scaffolds-shift-cps-turn-proportions-p3-p4.md) — related
 - [Explicit scaffolding prompts elicited P1 (exploring) and P2 (planning) engagement at task start that groups did not show on the non-scaffolded task](scaffolds-prompt-p1-p2-engagement-at-start.md) — related
 - [Groups' final solution scores were significantly higher on the scaffolded task than the non-scaffolded task](scaffolds-higher-final-solution-scores.md) — related
+- [Practices P1, P2, P3, P4 and P7 received the highest percentages at the Redefinition level](p1-p2-p3-p4-p7-highest-redefinition-percentages.md) — related

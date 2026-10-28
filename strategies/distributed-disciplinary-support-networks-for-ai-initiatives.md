@@ -43,6 +43,7 @@ The article recommends that institutional structures "may make most impact if, r
 
 - [Structure AI-focused professional development as a supported trajectory of planning, reflection, design autonomy, and embedded critical AI literacy](pd-supported-trajectory-reflection-critical-ai-embedding.md)
 - [Incorporate collaborative learning activities within AI literacy teaching, attending to activity modality and integration with other activities and assessments](incorporate-cl-in-ai-literacy-teaching.md)
+- [Structure AI-supported professional development around collaborative reflection rather than technical training alone](collaborative-reflection-ai-tpd.md)
 
 ## Examples
 -

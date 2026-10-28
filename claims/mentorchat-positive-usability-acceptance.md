@@ -56,3 +56,4 @@ Post-task questionnaire with 25 items (21 Likert-scale) completed by 30 students
 - [In preliminary user acceptance testing, 84% of participants rated Taklif.AI's personalization feature as beneficial](uat-84-percent-rate-personalization-beneficial.md) — related
 - [A second experiment evaluated system acceptance with a scenario followed by 21 users who filled out a questionnaire](multccomp-acceptance-21-user-experiment.md) — related
 - [Students report no usability issues with the formative assessment tool (ASQ means 5.2–5.5)](students-report-no-usability-issues-asq.md) — related
+- [Formative evaluation by staff and students rated the MOLH positively on usability, content, and engagement.](molh-formative-evaluation-positive-ratings.md) — related

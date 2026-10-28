@@ -63,3 +63,4 @@ Classroom experiment with 126 seventh-graders practicing the same graph and slop
 - [In Experiment 2, the interleaving benefit on actual test outcomes was not statistically significant, unlike in Experiment 1](interleaving-outcome-benefit-nonsignificant-exp2.md) — related
 - [Interleaved practice yields lasting learning effects at delayed posttests in spelling and second-language grammar](interleaving-lasting-learning-delayed-posttests.md) — related
 - [Interleaved homework yields higher surprise criterial test scores than blocked homework in undergraduate physics, with larger effects in Stage 2](interleaving-criterial-test-benefit-physics.md) — related
+- [Playing MATHERIAL improved math achievement](matherial-improved-math-achievement.md) — related

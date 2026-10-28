@@ -71,3 +71,4 @@ Same repeated-measures design; transfer items used disyllabic words not heard be
 - [Learners reported higher perceived learning and satisfaction and lower mental effort with the instructor video, despite no performance gains — a perception-performance gap](instructor-presence-perception-performance-gap.md) — related
 - [Human embodiment in video: perceived social presence benefits learning ratings, but instructor-face inclusion shows no significant learning-performance difference, and learners prefer human over robot presenters with mixed recall](human-embodiment-video-presence-effects.md) — related
 - Study lead instructors did not differ from non-study-lead instructors in student retention performance — related
+- [No effects of visible instructor on learning outcomes across three field studies](no-visible-instructor-learning-effects.md) — a broader claim this one bears on

@@ -14,7 +14,7 @@ grain_size: course
 # AI Tutoring
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 392 claims (179 for, 160 mixed, 53 against) · 267 studies (98 causal, 59 review, 34 design, 28 theoretical, 19 quant-synthesis, 15 associational, 14 qualitative), `q1`–`q4` · 54 of 267 report an effect size · 376 claims rest on one study
+> **Evidence** · 393 claims (179 for, 161 mixed, 53 against) · 268 studies (98 causal, 59 review, 35 design, 28 theoretical, 19 quant-synthesis, 15 associational, 14 qualitative), `q1`–`q4` · 54 of 268 report an effect size · 377 claims rest on one study
 
 ## Description and scope
 
@@ -373,6 +373,7 @@ This pattern is scoped to the tutor's moves within tasks and the handoff to peop
 - [A changed meaning of equation correctness and derivation method is discussed and its effect on tutor effectiveness evaluated](../claims/changed-correctness-method-evaluated.md) [~W]
 - [The introduction reports that the PETAL recursive programming tutor was shown to be highly effective in a 6-week control group study](../claims/petal-effective-six-week-control-study.md) [+W]
 - [The introduction reports that the VCR tutor produced statistically significant performance gains in using the VCR, a rare result for ITSs at the time](../claims/vcr-tutor-significant-performance-gains.md) [+W]
+- [Uncontrolled hint use can considerably reduce students' learning and autonomous solving capacity](../claims/uncontrolled-hint-use-reduces-learning.md) [~W]
 
 ## Examples
 - [ChatGPT as a virtual laboratory assistant in a sociotechnical system](../designs/sts-theory-chatgpt-virtual-laboratory-assistant.md) — ChatGPT answers lab questions beside human TAs, not in their place

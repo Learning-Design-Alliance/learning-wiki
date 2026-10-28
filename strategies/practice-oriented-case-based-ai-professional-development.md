@@ -53,6 +53,7 @@ Drawing on recent AI-focused literature, the review recommends orienting AI prof
 - [Expand supervised practicum experiences in teacher preparation to include AI-focused pedagogies](supervised-practicum-ai-focused-pedagogies.md)
 - [Support novice online teachers by introducing them to a larger pedagogical framework within which design decisions can be located](novice-online-teacher-pedagogical-framework-support.md)
 - [Integrate structured opportunities for critical engagement with AI into teacher education programs](structured-critical-ai-engagement-teacher-education.md)
+- [Support teachers' digital competence development through operationalisations connecting technical and pedagogical knowledge while protecting educator well-being](connect-technical-pedagogical-support-wellbeing.md)
 
 ## Examples
 -

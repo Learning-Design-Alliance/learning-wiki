@@ -58,3 +58,7 @@ Systematic literature review synthesizing 50 empirical studies published 2019–
 - [Overreliance on AI is the most prevalent pedagogical limitation (27 studies, 50%), followed by reduced critical thinking (25 studies, 46%)](overreliance-reduced-critical-thinking-ai-efl.md) — related
 - [Persistent challenges include feedback inaccuracy, learner overreliance, and limited transparency](customized-ai-writing-persistent-challenges.md) — related
 - [Students using AI-driven EFL tools showed notable improvements in vocabulary, grammar, speaking fluency, and comprehension compared to traditional methods, per the review's synthesis](ai-efl-skill-improvements-vs-traditional.md) — related
+- [Educational level moderates AWE effectiveness: university students show larger effects (g = 0.58–0.62) than junior and senior high students (0.25–0.50)](awe-educational-level-moderator.md) — related
+- [AWE technology has evolved through four distinct generations from traditional NLP-based systems to AI-driven LLM-integrated tools (2000–2024)](awe-four-generations-evolution.md) — related
+- [AWE is more effective when complemented by teacher feedback rather than used as a standalone tool](awe-more-effective-with-teacher-feedback.md) — related
+- [AWE is more effective for surface-level writing skills than for higher-order skills such as argumentation and coherence](awe-surface-level-stronger-than-higher-order.md) — related

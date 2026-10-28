@@ -121,3 +121,4 @@ Theoretical argument about risk and uncertainty in the cost section, with no dat
 - [Chatbot integration in a smart classroom is expected by the authors to increase learner engagement and academic achievement](chatbot-engagement-achievement-expectation.md) — related
 - [Research on five of six teacher-identified concerns increased between AERA's 2005–2014 and 2022–2025 conference eras, led by mental health (+670%) and technology/AI (+145%)](teacher-concern-research-increased-between-aera-eras.md) — related
 - [Teachers' subjective task values for TSRs—intrinsic, attainment, utility, and cost—shape their motivation to build relationships](teacher-values-shape-tsr-motivation.md) — related
+- [ITS adoption is limited by instructors' lack of programming skills and high outsourcing costs](its-barriers-programming-skills-and-cost.md) — related

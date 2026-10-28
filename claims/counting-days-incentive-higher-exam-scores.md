@@ -67,3 +67,4 @@ The same within-class experiment reports that "these differences are statistical
 - [The spacing incentive benefits lower-GPA students more, nearly equalizing exam performance across prior GPA levels](counting-days-benefits-lower-gpa-students.md) — related
 - [Counting days incentive strongly increases the number of days of practice in both a within-class and a between-instructor experiment](counting-days-increases-practice-days.md) — related
 - [Counting questions students procrastinate, practicing little until late in the semester, while counting days spreads practice across the term](counting-questions-procrastination-pattern.md) — related
+- [Common weaknesses in OER efficacy studies include reliance on non-standard learning measures and challenges with randomization.](oer-efficacy-study-weaknesses.md) — related

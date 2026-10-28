@@ -52,6 +52,7 @@ The brief recommends districts collaborate with states and partners to build eva
 - [Audit AI vocal-assessment systems for bias, transparency, privacy, and recording-context robustness before evaluative use](responsible-assessment-context-audit-ai-vocal.md)
 - [Procurement should demand operational privacy evidence and use the five-dimension audit rubric for comparison](procurement-operational-privacy-evidence-rubric.md)
 - [Institutional safeguards for safe, transparent AI use in assessment](institutional-ai-safeguards-assessment.md)
+- [Use A/B/n testing embedded in natural learning environments to evaluate EdTech design features at scale](abn-testing-embedded-natural-environments.md)
 
 ## Examples
 -

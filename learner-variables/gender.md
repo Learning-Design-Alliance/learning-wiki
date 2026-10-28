@@ -13,7 +13,7 @@ generated:
 # Gender
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 331 claims (195 show a difference, 73 mixed, 63 no difference) · 220 studies (143 associational, 38 causal, 14 quant-synthesis, 11 review, 5 qualitative, 5 theoretical, 4 design), `q1`–`q4` · 39 of 220 report an effect size · 323 claims rest on one study
+> **Evidence** · 333 claims (195 show a difference, 74 mixed, 64 no difference) · 221 studies (143 associational, 39 causal, 14 quant-synthesis, 11 review, 5 qualitative, 5 theoretical, 4 design), `q1`–`q4` · 40 of 221 report an effect size · 325 claims rest on one study
 
 ## How to read this page
 
@@ -370,6 +370,8 @@ Gender is recorded in most education studies, usually as a binary category taken
 - [Gender differences in perceived transversal skills, with male students higher](../claims/gender-differences-transversal-skills-male-higher.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Students across all genders perceive scientific citizenship positively](../claims/scientific-citizenship-positive-across-genders.md) [-M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Male students score significantly higher than females on Openness to Experience and Extraversion, while age shows no significant correlation with personality](../claims/gender-age-personality-differences.md) [+W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Female students in the experimental group showed significantly higher maths gains than female controls, while males did not differ](../claims/mobile-math-gains-female-students-only.md) [~M] — an instructional effect differs by group
+- [No significant gender differences in end-activity usability ratings or in within-group maths gains](../claims/mobile-math-no-gender-differences-ratings-or-gains.md) [-M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## The evidence by question
 - *Do girls and boys differ in mathematics and reading achievement, by how much, and where in the distribution?* [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](../claims/pisa-sex-differences-math-small-reading-three-times-larger.md) [+M]

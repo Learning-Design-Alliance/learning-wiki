@@ -93,7 +93,7 @@ Meta-analysis of studies meeting inclusion criteria (unconfounded FI treatment, 
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*What should the feedback after a check say, and who or what should give it?* This table gathers the studies behind this claim and the 30 narrower claims that bear on it: **25 distinct studies** (8 causal, 8 review, 2 quant-synthesis, 2 associational, 2 design, 2 qualitative, 1 theoretical), `q1`–`q4`, 5 of 25 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*What should the feedback after a check say, and who or what should give it?* This table gathers the studies behind this claim and the 30 narrower claims that bear on it: **26 distinct studies** (8 causal, 8 review, 2 quant-synthesis, 2 associational, 2 design, 2 qualitative, 1 theoretical, 1 kind not coded), `q1`–`q4`, 5 of 26 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
@@ -118,6 +118,7 @@ Meta-analysis of studies meeting inclusion criteria (unconfounded FI treatment, 
 | [Winstone 2026](https://doi.org/10.1080/02602938.2026.2643333) | q2 · review · r2 | i? | [Students rate human-generated feedback as superior to AI-generated feedback in quality, he](human-feedback-rated-superior-to-ai-feedback.md) (qualifies); [Students trust educator feedback more than AI-generated feedback: 90.5% versus 60.1% rated](educator-feedback-trusted-more-than-ai-feedback.md) (qualifies) |
 | [Tang J 2026](https://doi.org/10.1371/journal.pone.0345976) | q3 · causal · r2 | i2 | [In the first writing task, teacher feedback contained significantly more items than AI-ass](teacher-feedback-more-items-first-task-vocabulary-technical.md) (qualifies) |
 | Isabel Callaway 2023 | q2 · qualitative · r? | i? | [Students need clear guidance so they are not overwhelmed by Ecree's feedback, which may be](students-need-guidance-ecree-feedback-advanced-writers.md) (qualifies) |
+| [Istenič 2021](https://doi.org/10.1007/s11423-021-09955-w) | q3 | i? | [Feedback channel is a non-significant moderator of feedback effects](feedback-channel-non-significant-moderator.md) (qualifies) |
 | Weiss 1980 | q2 · causal · r? | i? | [Immediate knowledge of results during computerized achievement testing produces essentiall](knowledge-of-results-no-effect-achievement-test-dimensionality.md) (qualifies) |
 | [Tsvetomila Mihaylova 2026](https://doi.org/10.48550/arxiv.2605.16933) | q2 · causal · r2 | i? | [Feedback type did not affect whether students solved assignments; solution rates were very](feedback-type-no-effect-solution-rates.md) (qualifies) |
 | [Meriem Zerkouk 2025](https://doi.org/10.48550/arxiv.2507.18882) | q2 · review · r2 | i? | [Immediate Elaborated Feedback in a formative assessment game significantly improved studen](immediate-elaborated-feedback-improves-programming-learning.md) (supports) |
@@ -199,3 +200,4 @@ Open questions: how durable feedback effects are over time, how feedback interac
 - [The variability of feedback-intervention effects, including negative effects, exceeds sampling error and is robust to exclusion of a single prolific lab](fi-negative-effects-robust-not-sampling-error.md) — related
 - [Teachers provided targeted extra support, immediate feedback, and reinforcers to learners with DD](targeted-support-feedback-reinforcers-dd.md) — related
 - [AI feedback after sessions can provide on average eight qualified comments aligned with expert feedback per 30-min lesson](ai-feedback-eight-comments-per-lesson.md) — related
+- [A large meta-analysis found that feedback channel per se is non-significant](feedback-channel-non-significant-moderator.md) — related

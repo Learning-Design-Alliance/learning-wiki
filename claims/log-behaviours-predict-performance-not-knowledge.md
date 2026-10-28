@@ -69,3 +69,4 @@ Regression models for knowledge acquisition showed the predictors "hardly explai
 - [Instructional design and preferences interacted in predicting knowledge: DI-PS assignment and DI-PS preference were negatively associated with conceptual knowledge gain](design-preference-interaction-knowledge-gains.md) — related
 - [DI-PS significantly outperformed PS-DI on the two supplier-reasoning problem-solving criteria (d = .60 and d = .64)](di-ps-outperforms-ps-di-supplier-reasoning-criteria.md) — related
 - [PS-DI learners reported higher intrinsic in-scenario cognitive load during problem solving (d = .53)](ps-di-higher-intrinsic-in-scenario-cognitive-load.md) — related
+- [Notetaking was not a significant predictor of knowledge acquisition](notetaking-not-significant-predictor.md) — related

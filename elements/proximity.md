@@ -13,7 +13,7 @@ generated:
 # Proximity
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 10 claims (6 for, 4 mixed) · 12 studies (4 causal, 3 quant-synthesis, 3 review, 1 associational, 1 theoretical), `q1`–`q4` · 4 of 12 report an effect size · 9 claims rest on one study
+> **Evidence** · 11 claims (7 for, 4 mixed) · 13 studies (4 causal, 3 quant-synthesis, 3 review, 1 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 4 of 13 report an effect size · 10 claims rest on one study
 
 ## Description
 Proximity (spatial contiguity) is the design principle that related pieces of information — a label and the object it names, an explanation and the graphic it describes, feedback and the work it addresses — should be placed near one another rather than separated. When corresponding words and images are integrated, learners do not have to visually search for connections or hold one representation in working memory while locating the other.
@@ -58,6 +58,7 @@ Integrating text with corresponding graphics reduces extraneous cognitive load i
 - [Anatomy images were more likely than evolution images to have direct placement only](../claims/anatomy-more-direct-placement-than-evolution.md) [~W]
 - [Prior experiments report direct placement makes comparison consistently more accurate than impeded placement (d = .49 for shape triplets)](../claims/direct-placement-improves-comparison-accuracy.md) [+W]
 - [With logical structure held constant, proximity improves accuracy of low-achieving participants by 28%](../claims/proximity-low-aat-lab-logical-structure-constant.md) [+W]
+- [DHH students suggest applying spatial contiguity between interpreter and visuals to reduce split attention](../claims/dhh-spatial-contiguity-interpreter-visuals.md) [+W]
 
 ## The evidence by question
 

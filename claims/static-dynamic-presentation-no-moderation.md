@@ -57,3 +57,5 @@ Moderator analysis within the meta-analysis comparing effects from static (e.g. 
 - [In the mental integration task, low-span and high-span groups showed no significant static-vs-dynamic differences (d = 0.09 and d = 0.03)](low-high-span-no-design-difference-study1.md) — a narrower finding that bears on this claim
 - [Animations often do not produce more effective learning than static visualizations, partly because their transience creates high working memory load](animations-transience-working-memory-load.md) — related
 - [STC associative interactions occur across intervals of hours, extending the temporal contiguity needed for association well beyond the tens of milliseconds typical of Hebbian associativity](stc-associative-interactions-extend-temporal-contiguity.md) — related
+- [DHH students suggest applying spatial contiguity between interpreter and visuals to reduce split attention](dhh-spatial-contiguity-interpreter-visuals.md) — related
+- [Temporal contiguity of simultaneous visual, spoken, and signed events may be unfavorable for DHH students](dhh-temporal-contiguity-unfavorable.md) — related

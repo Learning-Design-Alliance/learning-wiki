@@ -55,3 +55,4 @@ Analysis of five Facebook groups in an HCI/d Master's program found student-crea
 - [First-year students used Facebook mainly for social purposes and only secondarily for informal student-to-student academic purposes, rarely for formal teaching.](facebook-social-not-formal-teaching.md) — related
 - [Students were generally opposed to tutors contacting them via Facebook for formal teaching, though a majority saw some role for departmental and module-level administrative uses.](student-opposition-tutor-facebook-contact.md) — related
 - [Schools and teachers unintentionally communicate identity messages to adolescents through the hidden curriculum](hidden-curriculum-unintentional-identity-messages.md) — related
+- [Students initially doubted Facebook as an educational space but came to see it as a real resource for keeping the group in contact and fostering dialogue](facebook-initially-doubted-became-resource.md) — related

@@ -49,3 +49,4 @@ Part of Freeman's tentative analysis of limitations. He notes the teacher can ho
 - [Motion picture methods showed no advantage over older visual methods in the McClusky comparison](motion-pictures-no-advantage-over-older-visual-methods.md) — related
 - [Students perceived online lab exercises as more effective when instructors were present online and used scaffolds and probes directing attention to key procedure aspects](online-labs-better-with-instructor-scaffolds.md) — related
 - [APA presentations tend to overload the visual channel, especially with high element interactivity content](apa-visual-channel-overload.md) — related
+- [Participating artists reported the method avoided the pressure of live TV and the tedium of film production](artist-enthusiasm-for-closed-circuit-recording.md) — related

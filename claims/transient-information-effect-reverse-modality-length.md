@@ -50,3 +50,4 @@ First of two experiments by Leahy and Sweller (2011), replicating the reverse mo
 - [Element interactivity and expertise reversal effects: cognitive load effects diminish and may reverse as expertise increases because known elements chunk into single elements](expertise-reversal-effect-element-interactivity.md) — related
 - [The transient information effect states that learning from transient presentations leads to inferior learning compared to permanent presentations](transient-information-effect-definition.md) — a broader claim this one bears on
 - [The modality effect may disappear or reverse for lengthy, complex spoken text](modality-effect-reversal-complex-spoken-text.md) — possibly the same claim (merge candidate)
+- [Early research on audio-visual materials in teacher training was repeated in 1958 and 1968, providing a 30-year view](thirty-year-view-audio-visual-teacher-training.md) — related

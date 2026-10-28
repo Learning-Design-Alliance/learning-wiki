@@ -50,3 +50,4 @@ Critique of the Galuschka et al. (2014) meta-analysis of interventions for child
 - [Remedial reading programs show effects around 0.49 for struggling readers and 0.54 for more severe difficulties](remedial-reading-programs-effectful-struggling-readers.md) — related
 - [In Morris et al. (2012), the phonological (phonics-including) intervention alone showed no significant reading benefits, while conditions adding orthographic and semantic instruction did](morris-2012-phonology-alone-not-significant.md) — related
 - [There is little or no support for the claim that systematic phonics is effective by itself or within a richer literacy curriculum](little-no-evidence-systematic-phonics-effective.md) — related
+- [Elaborate production methods, including color, are not necessarily needed for effective learning](elaborate-production-not-needed-learning.md) — related

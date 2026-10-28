@@ -87,3 +87,4 @@ Repeated measures ANOVA on ratings of the bored instructor in the same within-su
 - [Participants rated happy and content instructors higher on positive than negative emotion scales, supporting the positivity hypothesis](positivity-effect-positive-instructors-rated-higher-on-positive-scales.md) — related
 - [Participants detected emotional valence but did not distinguish between discrete emotions of the same valence](valence-detected-without-discrete-emotion-distinction.md) — related
 - [Participants rated frustrated and bored instructors higher on negative than positive emotion scales, with the frustrated effect stronger when the agent was on screen](positivity-effect-negative-instructors-rated-higher-on-negative-scales.md) — related
+- [Learners recognize an instructor's positive versus negative emotional tone in video lectures.](learners-recognize-instructor-emotional-tone-video.md) — a broader claim this one bears on

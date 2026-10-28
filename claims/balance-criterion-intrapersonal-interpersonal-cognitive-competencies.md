@@ -56,3 +56,4 @@ This is the brief's own conceptual argument for the Balance criterion, not a tes
 - [Students characterised the skills needed for collaborative group work as interpersonal (social), problem solving, and group skills](pbl-skills-interpersonal-problem-solving-group.md) — a narrower finding that bears on this claim
 - [SEL programs improve social emotional skills](sel-programs-improve-social-emotional-skills.md) — related
 - [Emotions are seldom explicitly analyzed in conversational CSCL contexts and must be balanced with cognition in conversation conceptualization](emotions-neglected-cscl-emotional-talk.md) — related
+- [Interpersonal skills, including communication, active listening, and gaining buy-in, are heavily emphasized by ID/ET professionals](interpersonal-skills-emphasized-by-id-et-professionals.md) — related

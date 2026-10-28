@@ -54,3 +54,4 @@ Manual coding procedure using MAXQDA with a German CoI codebook: two coders firs
 - [Machine learning detects five of eight reflective-writing categories with substantial or almost perfect reliability and three with moderate reliability (Cohen's κ .53–.85)](ml-detects-reflection-categories-kappa-053-085.md) — related
 - [Learning-tip-to-lecture-topic coding by seven coders reached an overall agreement of 0.87 (Cohen's Kappa)](topic-coding-agreement-087.md) — related
 - [Two-phase machine learning approach detects causal relations and chains in student essays](machine-learning-detects-causal-relations-essays.md) — related
+- [Interrater reliability of algorithm categorizations was 93% using percent-agreement method](interrater-reliability-93-percent-algorithm-categorization.md) — related

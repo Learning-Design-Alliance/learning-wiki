@@ -51,3 +51,4 @@ The abstract states this transformation of experimental approaches and learning 
 - [Reviewed AI literature portrays AI as having transformative capacity to reshape educational methodologies, with a need for balancing guidelines](ai-transformative-capacity-guidelines.md) — a broader claim this one bears on
 - [Teachers report AI tools enhance students' higher-order scientific skills including experimental design, inquiry, hypothesis testing, and argumentation](ai-enhances-higher-order-scientific-skills.md) — related
 - [Teachers perceive that AI tools lower cognitive barriers and deepen students' conceptual understanding of abstract science content](ai-lowers-cognitive-barriers-conceptual-understanding.md) — related
+- [Data and experiment challenges include scarcity, validity, and arrangement](data-experiment-challenges-srl-recommenders.md) — related

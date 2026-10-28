@@ -13,7 +13,7 @@ generated:
 # Social Presence
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 39 claims (26 for, 12 mixed, 1 against) · 33 studies (8 review, 6 causal, 5 associational, 5 qualitative, 5 design, 2 quant-synthesis, 2 theoretical), `q1`–`q3` · 3 of 33 report an effect size · 36 claims rest on one study
+> **Evidence** · 42 claims (28 for, 13 mixed, 1 against) · 35 studies (8 review, 7 causal, 6 qualitative, 5 associational, 5 design, 2 quant-synthesis, 2 theoretical), `q1`–`q3` · 4 of 35 report an effect size · 39 claims rest on one study
 
 ## Conditional relationship
 
@@ -149,6 +149,9 @@ Perceived presence, participation, satisfaction, persistence and individual lear
 - [Students rated icebreaker/introduction discussions and collaborative work with online communication tools as the most beneficial learner-to-learner strategies](../claims/icebreaker-collaboration-top-learner-learner-strategies.md) [+W]
 - [Introductory face-to-face meetings are the dominant strategy for stimulating social interaction in blended learning](../claims/introductory-f2f-meeting-stimulates-interaction.md) [+W]
 - [Social presence influences how social interaction unfolds in online group learning, which in turn affects learning outcomes](../claims/social-presence-shapes-online-group-interaction-and-outcomes.md) [+W]
+- [Lack of instructor embodiment in tutorials may limit effectiveness for DHH students](../claims/dhh-embodiment-limits-effectiveness.md) [~W]
+- [A visible instructor increased social presence in an exploratory field study (d = 0.85)](../claims/visible-instructor-social-presence-study1.md) [+W]
+- [A visible instructor increased well-being in Study 3 (d = 1.01)](../claims/visible-instructor-wellbeing-study3.md) [+W]
 
 ## Related Principles
 - [Community of Inquiry](community-of-inquiry.md) — the parent framework situating social presence alongside teaching and cognitive presence
@@ -162,6 +165,7 @@ Perceived presence, participation, satisfaction, persistence and individual lear
 
 - [Use personal progress messages, real-world examples, and reflection assignments to support online course satisfaction](../strategies/personal-messages-real-world-examples-reflection-online.md)
 - [Instructors apply chatbots to support goal setting and social presence in fully online activities](../strategies/instructor-strategy-chatbots-goal-setting-social-presence.md)
+- [Use video-based feedback to provide socio-emotional support and social presence in remote learning](../strategies/video-feedback-socio-emotional-support.md)
 
 ### Validated
 - Richardson, Maeda, Lv & Caskurlu (2017) meta-analyzed 51 studies of online courses and found social presence significantly related to student satisfaction (r ≈ .54) and perceived learning (r ≈ .45), with instructor presence behaviors among the strongest predictors [+S].

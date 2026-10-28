@@ -48,3 +48,4 @@ Systematic review synthesis of 51 studies; the abstract and Table 4 report these
 - [A second rationale treats the network as a catalyst for enactment and sustainability of reforms with TPD (15 studies, mostly US)](network-as-catalyst-for-reform-rationale.md) — related
 - [The most common rationale treats the teacher network as a source of professional development (32 of 51 studies)](network-as-source-of-tpd-rationale.md) — related
 - [The four rationales differ along two dimensions: the network's functional role (independent vs. dependent variable) and its ontological stance (active vs. passive)](network-functional-role-ontological-stance-dimensions.md) — a broader claim this one bears on
+- [Prior TPD research focused on teacher impact, leaving student-centered evaluation of TPD for OBL unexamined](student-centered-tpd-evaluation-gap.md) — related

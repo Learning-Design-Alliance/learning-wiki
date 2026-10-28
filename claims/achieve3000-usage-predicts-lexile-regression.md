@@ -50,3 +50,4 @@ Hierarchical multiple regression on Cajon Valley data with current Lexile as dep
 - [Student attitudes toward learning English and school declined slightly over both pilots, with the decline in believing school is a good place to learn statistically significant in both districts](student-attitudes-declined-over-pilots.md) — related
 - [Hill and Lenard (2016): LevelSet Lexile effects were negative in spring 2014 and positive in spring 2015](kidbiz-levelset-year-contrast.md) — related
 - [Newcomer EL students using BrainPOP ESL showed no statistically significant Lexile growth, and results lacked a comparison group](brainpop-esl-no-significant-lexile-growth.md) — related
+- [Regression analysis in iteration 1 identifies which skill sets significantly predict student assessment scores](regression-iteration1-skill-predictors.md) — related

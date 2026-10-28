@@ -61,3 +61,4 @@ PLS-SEM bootstrapped path analysis of a cross-sectional convenience-sample surve
 - [Three factors influenced adoption of the SST agenda tool: lack of guided practice, inconsistent routines, and value not visible to teachers](three-factors-sst-tool-adoption.md) — related
 - [Ghanaian pre-service science teachers show positive attitudes, perceived behavioural control, and behavioural intentions toward AI](positive-attitudes-pbc-intentions-ai-pre-service-teachers.md) — related
 - [Novelty-phase on-task enjoyment is positively associated with task performance, while working-phase enjoyment is not](novelty-enjoyment-predicts-performance.md) — related
+- [Perceived ease of use positively influenced attitudes toward using the AVDS tool](peou-positive-impact-attitude-avds.md) — related

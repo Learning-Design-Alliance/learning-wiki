@@ -175,3 +175,6 @@ Boundary conditions follow from the same mechanism. Integration benefits are lar
 - [Working-memory limitations can be circumvented by schema construction, automation, and multiple presentation modalities](clt-circumvent-working-memory-limits.md) — related
 - [Incorporating interacting elements into a diagrammatic schema reduces cognitive load and enhances understanding](diagrammatic-schema-reduces-load-enhances-understanding.md) — a broader claim this one bears on
 - [Graphical spatial representations of rhythm timing reduce tapping asynchrony compared with categorical and meaningless visual cues](graphical-spatial-cues-reduce-rhythm-asynchrony.md) — a narrower finding that bears on this claim
+- [DHH students suggest applying spatial contiguity between interpreter and visuals to reduce split attention](dhh-spatial-contiguity-interpreter-visuals.md) — a narrower finding that bears on this claim
+- [Temporal contiguity of simultaneous visual, spoken, and signed events may be unfavorable for DHH students](dhh-temporal-contiguity-unfavorable.md) — related
+- [Visual joint displays can reduce the cognitive burden of integration analysis and reporting compared to tabular joint displays](visual-joint-displays-reduce-cognitive-burden.md) — related

@@ -42,6 +42,7 @@ The article's Notes for Practice state that because users have only surface-leve
 - [Institutions implementing learning analytics should spend focused time developing privacy policies and procedures, with stakeholder input including students, before expanding analytics use](develop-privacy-policies-before-analytics-expansion.md)
 - [Involve key stakeholders directly in defining privacy and designing LA systems](stakeholder-involvement-defining-privacy-la.md)
 - [Investigate stakeholder privacy requirements and define transparent rules for learner-data use](aied-learner-data-privacy-practices.md)
+- [Build students' understanding of the purposes and benefits of sharing data before implementing learning analytics](build-student-understanding-of-data-sharing.md)
 
 ## Examples
 -

@@ -54,3 +54,4 @@ Hayashi, Y. (2020). Gaze awareness and metacognitive suggestions by a pedagogica
 - [A successful coordination/high learning-gain correlation appears only for learners receiving both visible gaze feedback and PCA suggestions](process-performance-correlation-only-both-tools.md) — related
 - [Learners' knowledge gains focused particularly on interactions required for solving information pooling tasks, such as sharing information](gains-limited-to-information-pooling-interactions.md) — related
 - [Regulation at the dyadic and/or group level is positively related to group performance in CSCL](dyadic-group-regulation-related-group-performance.md) — a broader claim this one bears on
+- [Instructor signaling enhanced knowledge acquisition as perceived difficulty increased for research designs](instructor-signaling-knowledge-high-difficulty.md) — related

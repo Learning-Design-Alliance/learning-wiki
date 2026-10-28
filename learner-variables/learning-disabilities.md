@@ -13,7 +13,7 @@ generated:
 # Learning Disabilities and Developmental Differences
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 125 claims (90 show a difference, 21 mixed, 14 no difference) · 71 studies (39 associational, 11 review, 9 causal, 6 quant-synthesis, 5 theoretical, 1 qualitative), `q1`–`q4` · 12 of 71 report an effect size · 123 claims rest on one study
+> **Evidence** · 128 claims (93 show a difference, 21 mixed, 14 no difference) · 72 studies (39 associational, 11 review, 9 causal, 6 quant-synthesis, 5 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 13 of 72 report an effect size · 126 claims rest on one study
 
 ## Description
 Identified differences in how a learner learns: specific learning disabilities such as dyslexia and dyscalculia, autism, intellectual disability, and the special educational needs (an IEP in the United States, an EHC plan in England) that formally record them. In the research it appears as a population a design targets, as a moderator (an approach that works differently for these learners), and as a predictor of outcomes. It is distinct from [access](access.md), which is about perceiving and operating the material (sensory and motor impairments, devices); a learner can need both. Attention-related differences such as ADHD sit on [attention](attention.md).
@@ -159,6 +159,9 @@ Identified differences in how a learner learns: specific learning disabilities s
 - [Two-thirds of a clinically referred dyslexia cohort exhibit mathematical deficits](../claims/dyslexia-two-thirds-math-deficits.md) [+W] — learners who differ on it differ in outcomes
 - [Only about half of autistic adolescents could follow non-canonical-word-order instructions, suggesting routinization substitutes for prefrontal synthesis](../claims/routinization-non-canonical-word-order-limit.md) [+W] — learners who differ on it differ in outcomes
 - [Syntactic-phenotype prevalence decreases and command-phenotype prevalence increases with autism severity](../claims/asd-severity-phenotype-gradient.md) [+W] — learners who differ on it differ in outcomes
+- [A significant disordinal interaction between disability status and time of measurement was found for integer arithmetic scores](../claims/moves-nl-disability-time-interaction.md) [+M] — an instructional effect differs with it
+- [Students with disabilities showed significant pre-to-post gains in integer arithmetic after the MOVES-NL intervention, while students without disabilities did not](../claims/moves-nl-disability-gains-integers.md) [+M] — an instructional effect differs with it
+- [Students without disabilities scored significantly higher than students with disabilities on the integer arithmetic pre-test and overall](../claims/moves-nl-condition-main-effect.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Do learners with disabilities reach lower achievement, graduation and postsecondary outcomes than their peers, by how much, and does it differ by disability type?* [Students with disabilities attained postsecondary readiness and success outcomes at about one half to one third the rate of students without disabilities, the largest difference between any student group and its counterpart](../claims/disability-largest-postsecondary-outcome-gap.md) [+M]

@@ -53,3 +53,4 @@ Figure 2 survey results on primary purposes of AI use among the 380 respondents.
 - [In-service science educators use AI far less in subject-specific DiKoLAN areas (SIM, DAP, DAQ) than in general areas](ai-use-skews-to-general-dikolan-areas.md) — related
 - [ChatGPT was the most widely adopted AI platform in undergraduate higher education studies, with applications clustering around assessment automation and personalized learning support](chatgpt-dominant-platform-assessment-personalization.md) — related
 - [Pre-service teachers identified lesson planning and presentation as the assessment task most evaluating their readiness for practice](mpts-lesson-presentation-top-assessment-task.md) — related
+- [Teachers used three free AI tools (DeepSeek, Doubao, Meta) mainly for lesson planning, assessment, and teaching material development](three-free-ai-tools-for-planning-assessment-materials.md) — related

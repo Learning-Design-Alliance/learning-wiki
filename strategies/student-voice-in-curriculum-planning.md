@@ -66,6 +66,7 @@ Giving learners authentic decision rights increases ownership and intrinsic moti
 - [Use six concrete strategies to incorporate recipient input and make training and TA engaging](six-strategies-recipient-input-ta.md)
 - [Center youth as partners, not participants, in co-design](center-youth-as-partners-not-participants.md)
 - [Engage students as active partners in attribute assessment through negotiated tasks, evidence collection and claims of achievement](students-as-partners-attribute-assessment.md)
+- [Consult online students directly during the needs analysis phase of orientation resource design](consult-students-in-needs-analysis.md)
 
 ## Examples
 - **Students as Partners (International)** — a global movement documented by Cook-Sather and colleagues in which undergraduates co-design courses and curriculum with faculty; many institutions (e.g., McMaster's Student Partners Program) run formal partnership programs.

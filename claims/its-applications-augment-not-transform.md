@@ -9,6 +9,7 @@ generated:
   at: 2026-10-11
 evidence_strength: weak
 newest_evidence: 2026
+source_checked: 2026-10-28
 sources:
   - id: ogunsakin-ib-2026
     title: Ogunsakin IB 2026
@@ -22,7 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-10-28 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Son's (2024) synthesis using the SAMR framework found many ITS applications augmented existing practices while fewer transformed instruction. [→ Ogunsakin IB 2026](#ogunsakin-ib-2026)
@@ -52,3 +53,4 @@ The review reports this second-hand from Son's (2024) synthesis, attributing the
 - [AI-driven reforms frequently operate through an efficiency–sustainability substitution mechanism that redefines sustainability as operational performance](efficiency-sustainability-substitution-mechanism.md) — related
 - [AI is not yet ready to replace teachers but presents a real possibility to augment them](ai-augments-not-replaces-teachers.md) — related
 - [A minimalist approach to intelligence and adaptivity can still achieve practical success at scale in real classrooms](a-little-intelligence-can-go-a-long-way.md) — related
+- [Reports of transformation in teaching practices are associated with changes in the roles of teachers and students, with transforming uses focused on active methodologies](transformation-associated-with-role-shifts-active-methodologies.md) — related

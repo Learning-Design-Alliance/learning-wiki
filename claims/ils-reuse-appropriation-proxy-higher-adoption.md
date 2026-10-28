@@ -52,3 +52,5 @@ Observational analysis of 40,235 ILSs where reuse (creating a copy of another us
 - [Re-used Inquiry Learning Spaces were about four times more likely to be implemented than those created from scratch, and scaffolding increased the implementation rate](reused-ils-four-times-more-likely-implemented-scaffolding-increases.md) — possibly the same claim (merge candidate)
 - [Expert scaffolding is associated with ILS adoption, but the fading stage shows a comparatively low rate (8.27%) and was a non-significant predictor](expert-scaffolding-associated-with-adoption-except-fading.md) — related
 - [The higher the maturation level of an Inquiry Learning Space (create, share, co-create, publish), the higher its probability of being implemented in a classroom](higher-maturation-level-higher-ils-implementation-probability.md) — related
+- [Most created ILSs are not implemented in classrooms, with implementation increasing over time](ils-implementation-gap-narrowing-over-time.md) — related
+- [Teachers prefer to start ILS design from empty pedagogical structures rather than domain content](teachers-prefer-empty-templates-over-domain-content.md) — reports the opposite

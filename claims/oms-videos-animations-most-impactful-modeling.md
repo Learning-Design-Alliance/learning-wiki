@@ -54,3 +54,4 @@ Interpretive case study of 42 students in the I-TEP Web-based course during summ
 - [Teacher and researcher coaches both used a cognitive apprenticeship approach but differed in scaffolding style](bioworld-coaching-styles-cognitive-apprenticeship.md) — related
 - [The design of video modeling examples strongly affects training success: screen-recording examples were ineffective while writing-out examples were effective](modeling-example-design-affects-training-success.md) — related
 - [Use of worked examples in the Cognitive Tutor Algebra course was discouraged by collaborating instructors](worked-examples-discouraged-cognitive-tutor-algebra.md) — related
+- [Preservice teachers in web-enhanced CBA showed improved understanding of technology integration through sequenced authentic tasks](cba-sequenced-tasks-improve-preservice-tech-integration.md) — related

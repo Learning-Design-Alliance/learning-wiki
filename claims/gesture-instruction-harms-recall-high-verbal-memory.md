@@ -72,3 +72,4 @@ Study 1 specific recall model showed a significant gesture × VM interaction, χ
 - [Emotional valence consistently influences narrative recall, with negative narratives most memorable, while instructed gesturing shows mixed effectiveness](emotional-valence-narrative-recall-gesture-mixed.md) — related
 - [Gesture effects on narrative comprehension are not moderated by total task difficulty or age when measured through free recall and specific questions](gesture-comprehension-not-moderated-by-difficulty-or-age.md) — related
 - [Observing and producing gestures can enhance comprehension of verbal messages including narratives](gesture-enhances-verbal-comprehension-established.md) — related
+- [Preschoolers using gesture recognition with the memory strategy achieved significantly better English learning performance than those using traditional activity learning with the memory strategy](gesture-recognition-memory-strategy-better-english-learning-performance.md) — related

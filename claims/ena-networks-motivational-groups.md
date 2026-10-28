@@ -84,3 +84,4 @@ Mann-Whitney U tests on ENA centroid coordinates found no significant group diff
 - [Most prompt labels do not co-occur with other labels, indicating studies narrowly focus on single prompt characteristics](low-co-occurrence-single-characteristic-focus.md) — related
 - [Male and female networks differ in structure and overall connectivity, with tighter internal connections in the male sample](gender-network-structure-invariance-differences.md) — related
 - [Global efficiency declined across stages where tested while local efficiency differed significantly between stages in each task](eeg-efficiency-stage-changes.md) — related
+- [Students using the ACF-PA approach showed significantly higher intrinsic motivation than students using the C-PA approach, with no significant difference in extrinsic motivation](acf-pa-improves-intrinsic-motivation.md) — related

@@ -43,6 +43,7 @@ The report recommends that states draw from "principles of continuous improvemen
 - [Ensure communication and co-development with school leaders throughout edtech process rollout](edtech-process-communication-co-development.md)
 - [Pilot statewide roster verification systems before full implementation](pilot-statewide-rv-systems-before-implementation.md)
 - [Design the review process to track and monitor resource allocation methods over time, adapt to changing needs, and share promising practices with other states.](track-monitor-share-rar-promising-practices.md)
+- [Consult online students directly during the needs analysis phase of orientation resource design](consult-students-in-needs-analysis.md)
 
 ## Examples
 -

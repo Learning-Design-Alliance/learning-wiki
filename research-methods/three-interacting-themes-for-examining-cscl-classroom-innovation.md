@@ -29,6 +29,7 @@ The article proposes a conceptual framework of three interacting themes for exam
 ## Related Research Methods
 
 - [Three planes of learning in CSCL: individual, small-group, and community](three-planes-of-learning-in-cscl-individual-small-group-and-community.md)
+- [M3 evaluation framework (Micro, Meso, Macro) for mobile learning interventions](m3-evaluation-framework-micro-meso-macro-for-mobile-learning-interventions.md)
 
 ## Key Sources
 - Chan, C. K. K. (2011). Bridging research and practice: Implementing and sustaining knowledge building in Hong Kong classrooms. Computer-Supported Collaborative Learning. https://doi.org/10.1007/s11412-011-9121-0

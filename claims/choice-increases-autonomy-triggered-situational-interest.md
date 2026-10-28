@@ -75,3 +75,4 @@ Meta-regression of the choice contrast on triggered situational interest (from t
 - [Autonomy, meaningful purpose, and interest improve intrinsic motivation and deeper processing](interest-autonomy-purpose-boost-motivation.md) — a broader claim this one bears on
 - [Neither choice nor utility value manipulations improve end-of-session regression test performance, and the two manipulations do not interact](no-performance-effects-no-uv-choice-interaction.md) — related
 - [Utility value manipulation, but not choice, increases voluntary requests for statistics resources, a behavioral indicator of emerging individual interest](utility-value-increases-resource-requests-emerging-individual-interest.md) — related
+- [Triggered situational interest shows anecdotal evidence of being higher in the VR condition while maintained situational interest does not differ](desktop-vr-scaffolded-self-explanation-situational-interest.md) — related

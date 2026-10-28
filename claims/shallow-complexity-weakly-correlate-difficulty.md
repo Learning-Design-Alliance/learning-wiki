@@ -48,3 +48,4 @@ The article reports an analysis of "a diverse set of 1000 word problems" showing
 - [Complexity measures for logic puzzles vary in correlation with difficulty across puzzle types](puzzle-complexity-measures-correlate-difficulty.md) — a broader claim this one bears on
 - [In the random forest, word count was the most important readability feature while traditional readability formulas ranked near the bottom](word-count-top-traditional-formulas-unimportant.md) — related
 - [Revising texts to improve readability-formula scores often produces nonexistent or insignificant comprehension gains](readability-revision-gains-nonexistent-insignificant.md) — related
+- [Readability levels of film narrations were found to be at or near the theoretical reading level of the intended audience.](film-narration-readability-matches-audience.md) — related

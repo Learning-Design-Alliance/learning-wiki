@@ -66,3 +66,4 @@ The review reports Arguel and Jamet's (2009) experiment 2 on timing of key frame
 ## Related Claims
 - [Disrupting the event structure of dynamic visualizations — deleting event boundaries or inserting commercials between boundaries — reduces recall of the depicted events](disrupting-event-structure-reduces-recall.md) — related
 - [A narrative review cites one study in which simultaneous notes, worked example and explanation aided understanding, and another in which temporally contiguous instruction lowered perceived cognitive load](temporal-contiguity-lower-cognitive-load.md) — related
+- [Temporal contiguity of simultaneous visual, spoken, and signed events may be unfavorable for DHH students](dhh-temporal-contiguity-unfavorable.md) — related

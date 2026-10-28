@@ -88,3 +88,5 @@ Follow-up ANOVA on frustrated-instructor ratings showed the valence effect was m
 - [Participants rated happy and content instructors higher on positive than negative emotion scales, supporting the positivity hypothesis](positivity-effect-positive-instructors-rated-higher-on-positive-scales.md) — related
 - [Voice alone conveys the emotional tone of happy, content, and bored instructors as accurately as voice plus an embodied onscreen agent](voice-alone-conveys-happy-content-bored-emotion.md) — related
 - [Suggesting the SPP at detected boredom did not change its use: students were almost never bored, so SPP use was not reliably different between conditions](spp-boredom-suggestion-null.md) — related
+- [Learners recognize an instructor's positive versus negative emotional tone in video lectures.](learners-recognize-instructor-emotional-tone-video.md) — a broader claim this one bears on
+- [Learners feel a stronger social connection with positive instructors than with negative instructors.](positive-instructors-social-connection-video.md) — related

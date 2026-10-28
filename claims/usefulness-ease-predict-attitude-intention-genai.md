@@ -56,3 +56,5 @@ PLS-SEM analysis in the 434-teacher sample testing H1–H4. PU→AOU (β = 0.178
 - Perceived usefulness is the strongest predictor of intention to use the contextual language learning app — related
 - [Behavioural intention to use AI-based technologies does not change significantly following the INSIGHT training, despite increases in perceived usefulness and ease of use](insight-training-no-change-behavioural-intention.md) — related
 - [Performance expectancy, social influence, novelty value, and creative competence positively predict art and design students' behavioral intention to use T2I GenAI tools](pe-si-nv-cc-positive-predict-bi-t2i.md) — related
+- [Perceived ease of use positively influenced attitudes toward using the AVDS tool](peou-positive-impact-attitude-avds.md) — a narrower finding that bears on this claim
+- [Perceived ease of use positively influenced perceived usefulness of the AVDS tool only after use](peou-positive-impact-pu-after-avds-use.md) — related

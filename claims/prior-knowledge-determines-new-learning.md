@@ -139,3 +139,4 @@ This claim is one of the most robust premises in educational psychology, but its
 - [Rated topic familiarity is only modestly related to technical passage comprehensibility](topic-familiarity-modest-comprehension-relation.md) — a narrower finding that bears on this claim
 - [Prior math achievement has at most a small effect on learning from Productive Failure, and topic-specific prerequisite knowledge has none](prior-achievement-small-or-no-effect-pf-posttest.md) — a narrower finding that bears on this claim
 - [Available prior knowledge affects learning only when it is activated before the task](activation-required-prior-knowledge-effects.md) — related
+- [All-in-one lesson structure with prior knowledge, optional help and challenge, and chunking supported autonomy and competence](all-in-one-lesson-structure-supported-autonomy-competence.md) — related

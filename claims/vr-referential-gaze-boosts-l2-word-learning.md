@@ -71,3 +71,4 @@ In the same VR study, self-reports showed participants were unaware of the gaze 
 - [Grasping virtual objects during L2 vocabulary learning enhances test performance relative to audiovisual-only learning](grasping-virtual-objects-enhances-l2-vocabulary-retention.md) — related
 - [PC-based passive viewing yielded higher word recall than embodied VR assembly training in school-aged children](pc-beats-vr-word-recall-children.md) — related
 - [Immersive VR L2 vocabulary learning outperforms word-to-word association, especially for struggling learners, with manipulable-context words learned better](ivr-vocabulary-beats-association-strugglers-gain-more.md) — related
+- [Instructor signaling enhanced knowledge acquisition as perceived difficulty increased for research designs](instructor-signaling-knowledge-high-difficulty.md) — related

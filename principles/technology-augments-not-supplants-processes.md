@@ -31,7 +31,7 @@ sources:
 # Technology should augment, not supplant, learning processes in student-centered environments
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 154 claims (99 for, 45 mixed, 10 against) · 122 studies (30 theoretical, 28 qualitative, 24 review, 19 causal, 12 design, 9 associational), `q1`–`q4` · 8 of 122 report an effect size · 150 claims rest on one study
+> **Evidence** · 155 claims (99 for, 46 mixed, 10 against) · 123 studies (30 theoretical, 28 qualitative, 25 review, 19 causal, 12 design, 9 associational), `q1`–`q4` · 8 of 123 report an effect size · 151 claims rest on one study
 
 ## Conditional relationship
 
@@ -277,6 +277,7 @@ Assisted performance, unaided immediate performance, delayed retention, transfer
 - [AI-directed problem selection may diminish the metacognitive dimension of self-testing while preserving retrieval practice](../claims/ai-directed-self-testing-diminishes-metacognitive-judgment.md) [+W]
 - [Generative AI tools risk inducing overestimated abilities and diminishing training of foundational skills](../claims/generative-ai-overconfidence-risk.md) [+W]
 - [Comparative evaluation of AI output taught students that AI is not infallible and reinforced critical reading](../claims/ai-comparative-evaluation-critical-reading.md) [~W]
+- [AWE is more effective when complemented by teacher feedback rather than used as a standalone tool](../claims/awe-more-effective-with-teacher-feedback.md) [~W]
 
 ## Related Principles
 

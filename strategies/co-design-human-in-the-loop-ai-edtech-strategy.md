@@ -54,6 +54,7 @@ The report recommends that AI developers "embrace and center the expertise of te
 - [Integrate GPT models into LA-supported feedback systems with an iterative instructor-student validation loop to improve reliability](iterative-validation-loop-gpt-feedback-systems.md)
 - [Mitigate authoring tool investment risk with early-and-often user feedback and a theoretical understanding of users and tasks](early-often-usability-risk-mitigation.md)
 - [Human-in-the-loop quality control for AI-generated educational content](human-in-the-loop-ai-content-quality-control.md)
+- [Involve end-users and teachers early in educational game development](involve-end-users-early-game-development.md)
 
 ## Examples
 -

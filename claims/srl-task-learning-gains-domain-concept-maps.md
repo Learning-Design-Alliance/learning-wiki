@@ -52,3 +52,4 @@ Wilcoxon signed-rank pre-/post-test comparisons in the Results section of the ex
 - [Immersion in inquiry-based learning significantly increases student teachers' value for procedural knowledge goals and self-efficacy for inquiry, but not substantive knowledge goals](immersion-ibl-increases-procedural-knowledge-goals-self-efficacy.md) — related
 - [ESL students taught concept mapping show significantly greater gains in self-efficacy for learning from text than students taught an alternative learning strategy](concept-mapping-greater-self-efficacy-gains-esl.md) — related
 - [High and Medium SRL students show significantly better learning gains than Low SRL students](high-medium-srl-better-learning-gains.md) — related
+- [Students using the ACF-PA approach developed significantly greater self-regulated learning conceptions than students using the C-PA approach](acf-pa-improves-self-regulated-learning-conceptions.md) — related

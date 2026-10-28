@@ -51,7 +51,7 @@ sources:
 # Inquiry-based Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 64 claims (36 for, 20 mixed, 8 against) · 71 studies (20 causal, 15 quant-synthesis, 10 review, 9 theoretical, 7 design, 6 qualitative, 4 associational), `q1`–`q4` · 16 of 71 report an effect size · 51 claims rest on one study
+> **Evidence** · 65 claims (37 for, 20 mixed, 8 against) · 72 studies (21 causal, 15 quant-synthesis, 10 review, 9 theoretical, 7 design, 6 qualitative, 4 associational), `q1`–`q4` · 17 of 72 report an effect size · 52 claims rest on one study
 
 ## Conditional relationship
 
@@ -195,6 +195,7 @@ An engaging investigation, an immediate conceptual gain, near transfer, far tran
 - [Video modeling examples improve hypothesis and argumentation quality in an inquiry training task compared to unguided inquiry](../claims/video-modeling-improves-inquiry-products-training.md) [+W]
 - [Wavelength (and analogously voltage) is a difficult concept for learners: most show no improvement and some regress, even under systematic inquiry](../claims/wavelength-voltage-hard-to-learn-simulations.md) [-W]
 - [Teacher Feedback Led to Increased TU Duration by 50 Percent and Two Guidance Levels](../claims/teacher-feedback-tu-improvements.md) [+W]
+- [Desktop VR showed no significant declarative-knowledge advantage over traditional instruction after unguided exploration (d = 0.24), and a marginal, non-significant one after scaffolded guidance (d = 0.63, p = .06)](../claims/desktop-vr-scaffolded-guidance-declarative-knowledge-statics.md) [+W]
 
 ## Related Principles
 
