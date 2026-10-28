@@ -2,7 +2,7 @@
 
 Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's.
 
-**2151 entries** · 0 stable · 2151 in review · 0 drafts
+**2150 entries** · 0 stable · 2150 in review · 0 drafts
 
 ---
 
@@ -1899,7 +1899,6 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [TC3Sim (vMedic)](tc3sim-vmedic.md) - TC3Sim, also known as vMedic, is a 3D serious-game simulation developed for training US Army combat medics and combat lifesavers in tactical combat casualty care.
 * [TCLAS High-Quality, Sustainable Residency Program grant](tclas-high-quality-sustainable-residency-program-grant.md) - A Texas Education Agency grant initiative that funded paid teacher-residency placements and technical assistance for districts and state-approved educator-preparation providers.
 * [TEA (test ariketen aztertzailea, \"Test Exercises Examiner\")](tea-test-ariketen-aztertzailea-test-exercises-examiner.md) - TEA is a visual learning analytics tool developed by Arruarte, Larrañaga, Arruarte, and Elorriaga to help teachers evaluate test-based exercises at item and overall-test levels.
-* [TEA (Test Exercises Examiner)](tea-test-exercises-examiner.md) - TEA is a visual learning analytics tool developed by Josu Arruarte and colleagues for instructors to analyze item- and test-level quality in manually created assessments.
 * [Teach For America](teach-for-america.md) - Teach For America runs a nationwide alternate-route teacher-preparation and teacher-placement programme that recruits and prepares corps members to teach in low-income K–12 schools.
 * [Teach For America Investing in Innovation scale-up program](teach-for-america-investing-in-innovation-scale-up-program.md) - A Teach For America program that recruited, trained, and placed new corps-member teachers in high-poverty schools.
 * [Teach For America Summer Training Institute](teach-for-america-summer-training-institute.md) - A branded 5- to 7-week teacher-preparation programme run by Teach For America in which corps members teach summer school under supervision while receiving coaching, feedback, and coursework.

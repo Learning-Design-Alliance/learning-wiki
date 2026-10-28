@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: moderate
 newest_evidence: 2019
+source_checked: 2026-10-28
 sources:
   - id: michelle-taub-2019
     resource: "https://doi.org/10.1007/s40593-019-00191-1"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3` · `i1` small
-> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2019 · checked against its sources 2026-10-28 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i1` A paired-difference t-test showed significantly lower confusion proportions after Scan Positive than Scan Negative (t = -2.70, p < 0.01, Cohen's d = -0.35). [→ Michelle Taub 2019](#michelle-taub-2019)

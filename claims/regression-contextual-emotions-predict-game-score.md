@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: moderate
 newest_evidence: 2019
+source_checked: 2026-10-28
 sources:
   - id: michelle-taub-2019
     resource: "https://doi.org/10.1007/s40593-019-00191-1"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
-> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2019 · checked against its sources 2026-10-28 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The full linear regression model for overall game score was significant (F(8, 53) = 6.64, p < 0.001; LOO-CV R2 = 0.285), with significant predictors During Book Joy (t = 3.71, p < 0.01), After Scan Confusion (t = 2.07, p < 0.05), and Total Worksheet Submits (t = -5.37, p < 0.01). [→ Michelle Taub 2019](#michelle-taub-2019)

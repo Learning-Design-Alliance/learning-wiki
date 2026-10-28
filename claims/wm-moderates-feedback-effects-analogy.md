@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: moderate
 newest_evidence: 2017
+source_checked: 2026-10-28
 sources:
   - id: stevenson-2017
     resource: "https://doi.org/10.1007/s40593-016-0129-5"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2017 · checked against its sources 2026-10-28 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` A significant three-way interaction between working memory, feedback condition, and pretest-to-posttest progression: higher WM scores were (marginally) related to larger gains in the ITF and NF conditions, while the effect of feedback did not differ by WM level in the MTF condition. [→ Stevenson 2017](#stevenson-2017)
@@ -37,7 +38,7 @@ Stevenson, C. E. (2017). Role of Working Memory and Strategy-Use in Feedback Eff
 
 `q3 · i?` · `causal · r2`
 
-Model M2 in the explanatory IRT analysis of 999 children; the three-way Session × Condition × WM interaction improved model fit significantly. The article reports the printed z statistics and odds increases per +1SD, with no standardized effect size, so impact is null.
+Model M2 in the explanatory IRT analysis, run on the 738 of the study's 999 children who had working-memory data; the three-way Session × Condition × WM interaction improved model fit significantly. The article reports z statistics and odds increases per +1 SD of working memory (1.34 for tutoring feedback, marginal at p = .051; 1.47 for no feedback, p < .05) but no standardized effect size, so impact is coded i? (not reported in that form), not null.
 
 > "Higher working memory scores were (marginally) related to larger performance gains from pretest to posttest for the ITF and the NF conditions (ITF condition:z =1 . 9 5 ,p = .051, 1.34 odds increase per +1SD; NF condition: z =2 . 4 5 ,p < .05, 1.47 odds increase per +1SD). The effect of feedback did not differ for different levels of working memory in the MTF condition: z = −.64, p =. 5 2 ."
 

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: moderate
 newest_evidence: 2021
+source_checked: 2026-10-28
 sources:
   - id: matayoshi-2021
     resource: "https://doi.org/10.1007/s40593-021-00240-8"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2021 · checked against its sources 2026-10-28 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Of 285 misclassified assessments (GRU, α = 0.99), about 52% are within two items of a cut score and about 78% within five items. [→ Matayoshi 2021](#matayoshi-2021)

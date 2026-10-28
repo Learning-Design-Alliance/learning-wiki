@@ -8,7 +8,7 @@
 "pattern":54,
 "principle":170,
 "process":18,
-"product":2151,
+"product":2150,
 "research-method":767,
 "strategy":7220,
 "theory":1360
@@ -138052,6 +138052,7 @@
 "id":"hp-students-score-higher-se-prompts",
 "newest_evidence":"2019",
 "path":"claims/hp-students-score-higher-se-prompts.md",
+"source_checked":"2026-10-28",
 "status":"review",
 "title":"High prior knowledge students scored significantly higher on SE prompts overall and on conceptual SE prompts, but not on procedural SE prompts",
 "type":"claim"
@@ -163646,6 +163647,7 @@
 "id":"less-confusion-after-positive-scan",
 "newest_evidence":"2019",
 "path":"claims/less-confusion-after-positive-scan.md",
+"source_checked":"2026-10-28",
 "status":"review",
 "title":"Students experienced less confusion after positive scan results than after negative scan results",
 "type":"claim"
@@ -184278,6 +184280,7 @@
 "id":"misclassifications-cluster-near-cut-scores",
 "newest_evidence":"2021",
 "path":"claims/misclassifications-cluster-near-cut-scores.md",
+"source_checked":"2026-10-28",
 "status":"review",
 "title":"Misclassified assessments cluster near placement cut scores",
 "type":"claim"
@@ -245645,6 +245648,7 @@
 "id":"recommendations-satisfy-more-soft-skill-targets",
 "newest_evidence":"2025",
 "path":"claims/recommendations-satisfy-more-soft-skill-targets.md",
+"source_checked":"2026-10-28",
 "status":"review",
 "title":"Recommended course sets satisfy significantly more soft skill targets than the courses students actually took",
 "type":"claim"
@@ -246870,6 +246874,7 @@
 "id":"regression-contextual-emotions-predict-game-score",
 "newest_evidence":"2019",
 "path":"claims/regression-contextual-emotions-predict-game-score.md",
+"source_checked":"2026-10-28",
 "status":"review",
 "title":"Joy during relevant book reading and confusion after positive scans positively predicted overall game score, while total worksheet submissions negatively predicted it",
 "type":"claim"
@@ -261422,6 +261427,7 @@
 "id":"se-prompts-harder-to-guess-questions",
 "newest_evidence":"2019",
 "path":"claims/se-prompts-harder-to-guess-questions.md",
+"source_checked":"2026-10-28",
 "status":"review",
 "title":"Both groups improved significantly on harder-to-guess questions, and the experimental group outperformed the control group on them at post-test",
 "type":"claim"
@@ -296565,6 +296571,7 @@
 "id":"tea-boxplot-correlation-identified-suspicious-tests",
 "newest_evidence":"2021",
 "path":"claims/tea-boxplot-correlation-identified-suspicious-tests.md",
+"source_checked":"2026-10-28",
 "status":"review",
 "title":"Boxplot visualizations enriched with correlation to final marks identified the same suspicious tests as the consistency metrics, and instructors modified two of them for the next academic year",
 "type":"claim"
@@ -296575,6 +296582,7 @@
 "id":"tea-item-level-troublesome-items-replaced",
 "newest_evidence":"2021",
 "path":"claims/tea-item-level-troublesome-items-replaced.md",
+"source_checked":"2026-10-28",
 "status":"review",
 "title":"Item-level visualizations of discrimination index and discrimination efficiency led instructors to identify troublesome items and replace or modify them",
 "type":"claim"
@@ -296585,6 +296593,7 @@
 "id":"tea-retrospective-inconsistent-tests-three",
 "newest_evidence":"2021",
 "path":"claims/tea-retrospective-inconsistent-tests-three.md",
+"source_checked":"2026-10-28",
 "status":"review",
 "title":"In a retrospective higher-education evaluation, instructors using TEA found low CIC values and unbalanced True Weights in three of the ten tests and marked them for further analysis",
 "type":"claim"
@@ -326409,6 +326418,7 @@
 "id":"wm-moderates-feedback-effects-analogy",
 "newest_evidence":"2017",
 "path":"claims/wm-moderates-feedback-effects-analogy.md",
+"source_checked":"2026-10-28",
 "status":"review",
 "title":"Working memory moderates feedback effects: higher working memory children gain more from tutoring feedback and no feedback, but gains in the multiple-try condition are unrelated to working memory",
 "type":"claim"
@@ -367085,19 +367095,12 @@
 "type":"product"
 },
 {
+"aliases":["tea-test-exercises-examiner"],
 "description":"TEA is a visual learning analytics tool developed by Arruarte, Larrañaga, Arruarte, and Elorriaga to help teachers evaluate test-based exercises at item and overall-test levels.",
 "id":"tea-test-ariketen-aztertzailea-test-exercises-examiner",
 "path":"products/tea-test-ariketen-aztertzailea-test-exercises-examiner.md",
 "status":"review",
 "title":"TEA (test ariketen aztertzailea, \\\"Test Exercises Examiner\\\")",
-"type":"product"
-},
-{
-"description":"TEA is a visual learning analytics tool developed by Josu Arruarte and colleagues for instructors to analyze item- and test-level quality in manually created assessments.",
-"id":"tea-test-exercises-examiner",
-"path":"products/tea-test-exercises-examiner.md",
-"status":"review",
-"title":"TEA (Test Exercises Examiner)",
 "type":"product"
 },
 {
@@ -481709,7 +481712,7 @@
 "tc3sim-vmedic":"tc3sim-vmedic",
 "tclas-high-quality-sustainable-residency-program-grant":"tclas-high-quality-sustainable-residency-program-grant",
 "tea-test-ariketen-aztertzailea-test-exercises-examiner":"tea-test-ariketen-aztertzailea-test-exercises-examiner",
-"tea-test-exercises-examiner":"tea-test-exercises-examiner",
+"tea-test-exercises-examiner":"tea-test-ariketen-aztertzailea-test-exercises-examiner",
 "teach-for-america":"teach-for-america",
 "teach-for-america-investing-in-innovation-scale-up-program":"teach-for-america-investing-in-innovation-scale-up-program",
 "teach-for-america-summer-training-institute":"teach-for-america-summer-training-institute",

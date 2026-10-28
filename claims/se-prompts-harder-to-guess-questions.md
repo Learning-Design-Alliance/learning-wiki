@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: moderate
 newest_evidence: 2019
+source_checked: 2026-10-28
 sources:
   - id: fabic-2019
     resource: "https://doi.org/10.1007/s40593-019-00184-0"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
-> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2019 · checked against its sources 2026-10-28 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Both groups improved significantly on harder-to-guess questions from pre- to post-test (experimental W = 368, p = .001; control W = 472, p = .003). [→ Fabic 2019](#fabic-2019)
