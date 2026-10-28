@@ -13,7 +13,7 @@ generated:
 # Learning-Style Preferences
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 30 claims (17 show a difference, 7 mixed, 6 no difference) · 15 studies (5 causal, 4 review, 4 associational, 2 theoretical), `q1`–`q3` · 8 of 15 report an effect size · 29 claims rest on one study
+> **Evidence** · 31 claims (18 show a difference, 7 mixed, 6 no difference) · 16 studies (5 causal, 4 review, 4 associational, 2 theoretical, 1 design), `q1`–`q3` · 8 of 16 report an effect size · 30 claims rest on one study
 
 ## Bottom line
 
@@ -68,6 +68,7 @@ Learning-style preferences are learners' reported preferences for one mode or fo
 - [Parents and teachers spontaneously list different school subjects as strengths for visual versus hands-on learners](../claims/open-ended-subject-strengths-by-learning-style.md) [~W] — learners reporting different styles differed here; not a test of matching instruction to style
 - [Parents rate visual learners as smarter and hands-on learners as sportier](../claims/parents-rate-visual-smarter-hands-on-sportier.md) [~M] — learners reporting different styles differed here; not a test of matching instruction to style
 - [Science is an exception: hands-on and visual learners are predicted equal science grades despite visual advantage in math, language arts, and social studies](../claims/science-exception-grade-predictions.md) [~M] — learners reporting different styles differed here; not a test of matching instruction to style
+- [Strong unmet learning-style preferences produce stronger negative effects on performance than moderate or weak unmet preferences](../claims/strong-preferences-stronger-mismatch-effects.md) [+W] — an effect differed by reported style in this study; matching to style is not supported overall
 
 ## The evidence by question
 - *What should the adaptation be based on: responses, or learner styles and preferences?* [Learning Styles Matching Does Not Improve Learning](../claims/learning-styles-matching-does-not-improve-learning.md) [+S]

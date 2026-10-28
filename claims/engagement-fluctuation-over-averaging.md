@@ -48,3 +48,4 @@ The commentary reports, citing Rosengrant et al. in the Special Issue, that stud
 - [University students' visual engagement in real lectures is higher than practitioners often expect and can remain high despite fluctuations](student-engagement-higher-than-expected-real-lectures.md) — related
 - [University students remain highly on-task throughout 70-minute lectures, refuting the 15–20 minute attention-span myth](rosengrant-vigilance-no-15-minute-decline.md) — related
 - [Delayed effort ratings are higher than the average of immediate ratings, suggesting itemized appraisals are more sensitive to effort fluctuations](delayed-effort-ratings-exceed-average-immediate-ratings.md) — related
+- [Young children's attention to a robot increased sharply when the robot reacted to their gaze](robot-gaze-reactivity-extends-child-attention.md) — related

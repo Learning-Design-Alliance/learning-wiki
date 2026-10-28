@@ -49,6 +49,7 @@ A concrete implementable recipe drawn from what students themselves requested an
 - [Help Seeking](help-seeking.md)
 - [Encouraging Students to Ask for Help](encouraging_students_to_ask_for_help.md)
 - [Encouraging Help-Seeking Behavior](encouraging_help-seeking_behavior.md)
+- [Transplant ITS insights such as hint timing and solution review into regulative CSCL design](transplant-its-insights-to-cscl.md)
 
 ## Examples
 -

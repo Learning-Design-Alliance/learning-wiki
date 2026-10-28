@@ -52,3 +52,4 @@ Analytical argument in the simulation study's discussion section: because guesse
 - [Higher-achieving students tend to be more accurate but more underconfident in calibration than lower-achieving students](higher-achievers-more-accurate-underconfident-calibration.md) — related
 - [Learners generally underestimate how fast they will learn word pairs, and this underconfidence is larger for low-variability lists](eol-underestimation-of-learnability.md) — related
 - [Metacognitive monitoring bias and precision modulate when students stop studying relative to their goals](comsa-metacognitive-monitoring-stopping.md) — related
+- [Shallow learners show slower responses and higher certainty of slip, suggesting struggle rather than fast guessing](shallow-learners-slow-struggling-not-guessing.md) — related

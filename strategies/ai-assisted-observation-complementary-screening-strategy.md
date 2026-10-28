@@ -57,6 +57,7 @@ The article recommends positioning AI-assisted observation as a complement to, n
 - [Implement AI in assessment as a hybrid support tool for low-stakes, formative stages while humans retain final grading authority](hybrid-ai-human-assessment-implementation.md)
 - [Implement AI simulations as complements within a stepped simulation continuum, with layered interaction modes and blended feedback](stepped-ai-simulation-integration-strategies.md)
 - [Use customised LLM coding as a scalable first-pass for classroom dialogue analysis, with human review of low-reliability codes](llm-first-pass-dialogue-coding-with-human-review.md)
+- [Use ChatGPT-4.0 as an adjunct practice tool for medical applicants preparing for the AAMC SJT, with human judgment retained](chatgpt-4-adjunct-sjt-preparation-tool.md)
 
 ## Examples
 -

@@ -29,6 +29,7 @@ A free web-based adaptive practice system developed by Pelánek and colleagues t
 - [ASSISTments](assistments.md)
 - [SCRIPT (Step-based Coding for Research and Intelligent Programming Tutoring)](script-step-based-coding-for-research-and-intelligent-programming-tutoring.md)
 - [Graph4Learn (G4L) intelligent tutoring system](graph4learn-g4l-intelligent-tutoring-system.md)
+- [ActiveMath](activemath.md)
 
 ## Key Sources
 - Pelánek, R., & Jarušek, P. (2015). Student Modeling Based on Problem Solving Times. International Journal of Artificial Intelligence in Education. https://doi.org/10.1007/s40593-015-0048-x

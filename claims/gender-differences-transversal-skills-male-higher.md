@@ -56,3 +56,4 @@ Survey analysis by gender; the article reports 80% of male students scored above
 - [Male students report significantly higher overall technological self-efficacy than female students (p = 0.001)](overall-gender-gap-technological-confidence.md) — related
 - [Gender differences in AI perception scores appear only in the overall score and attitudes dimension, with males scoring higher](gender-differences-ai-perceptions-limited-dimensions.md) — related
 - [EFA of the CONNECT instrument identifies seven transversal-skill components](seven-transversal-skill-components-efa.md) — related
+- [Male students score significantly higher than females on Openness to Experience and Extraversion, while age shows no significant correlation with personality](gender-age-personality-differences.md) — related

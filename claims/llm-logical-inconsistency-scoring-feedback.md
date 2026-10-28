@@ -62,3 +62,4 @@ Qualitative constant comparative analysis of GPT-4's reasoning chains during the
 - [GPT-4's chain-of-thought reasoning, captured via structured output, was consistently reliable and appeared to provide logical, context-grounded justification usable for prompt tuning and end-user insight](gpt4-cot-reasoning-reliable-transparent.md) — reports the opposite
 - [AI models inconsistently capture expert feedback points across generation attempts](ai-feedback-inconsistent-across-attempts.md) — related
 - [Research-informed and ML-based rubrics assess students' mechanistic reasoning comparably, supporting ML techniques in rubric development](ml-and-research-informed-rubrics-assess-comparably.md) — related
+- [LLMs prompted with diverse strategies can analyze educational survey feedback and generate corrective tutor feedback at or above expert human performance in specific scenarios](llm-prompting-human-level-educational-feedback.md) — related

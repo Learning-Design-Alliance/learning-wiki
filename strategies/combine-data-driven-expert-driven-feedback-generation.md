@@ -41,6 +41,7 @@ The article recommends hybrid approaches to address the drawbacks of data-driven
 
 - [Apply error mitigation such as self-consistency before deploying LLM-generated help, and frame unmitigated LLM feedback as an imperfect source](mitigate-llm-hint-errors-before-deployment.md)
 - [Develop models that predict test case invalidity before delivery so invalid AI feedback can be filtered or repaired in real time](predict-test-case-invalidity-before-delivery.md)
+- [Filter student summaries for effort and topicality before automated scoring](filter-summaries-before-automated-scoring.md)
 
 ## Examples
 -

@@ -73,3 +73,4 @@ Regression with inhibition score as dependent variable and the three arithmetic 
 - [Task-irrelevant negative images disrupt no-go accuracy specifically in early-mid adolescence](task-irrelevant-negative-images-disrupt-early-adolescent-inhibition.md) — related
 - [Reactive inhibition speed and accuracy improve with age between 8 and 11 years, while proactive response slowing does not increase with age](reactive-inhibition-improves-age-8-11.md) — related
 - [The correlation between conceptual understanding and procedural execution weakened over time, becoming largely independent after one year](conceptual-procedural-correlation-weakens-over-time.md)
+- [High prior knowledge students scored significantly higher on SE prompts overall and on conceptual SE prompts, but not on procedural SE prompts](hp-students-score-higher-se-prompts.md) — related

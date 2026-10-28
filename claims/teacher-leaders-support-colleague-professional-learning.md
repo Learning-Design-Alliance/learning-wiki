@@ -65,3 +65,4 @@ The brief's opening statement of the teacher-leader role, offered as the authors
 - [School leaders contribute recruitment, participation in select PLC sessions, and classroom observation visits](algebra-toolkit-school-leader-time-requirements.md) — related
 - [The LEAD Partnership delivers professional development on play-based learning and high-quality teacher-student interactions to school leaders and preK and kindergarten teachers](lead-pd-play-based-learning-high-quality-interactions.md) — related
 - [Team-based professional development in higher education leads colleagues to learn more about each other, with some becoming role models for one another](team-pd-collegiality-learning.md) — related
+- [Training team leaders to present pre-briefs and interactive post-briefs significantly improved both leader capabilities and team performance](leader-briefing-training-improves-team-performance.md) — related

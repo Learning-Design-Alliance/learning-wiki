@@ -13,7 +13,7 @@ generated:
 # Learning Analytics-Driven Feedback
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 72 claims (24 for, 35 mixed, 13 against) · 61 studies (20 review, 19 associational, 9 theoretical, 5 design, 4 causal, 4 qualitative), `q1`–`q3` · 4 of 61 report an effect size · 69 claims rest on one study
+> **Evidence** · 74 claims (26 for, 35 mixed, 13 against) · 63 studies (20 review, 19 associational, 9 theoretical, 6 design, 5 causal, 4 qualitative), `q1`–`q3` · 4 of 63 report an effect size · 71 claims rest on one study
 
 ## Description
 In face-to-face instruction, a teacher can visually notice disengagement or confusion; a distance instructor cannot, and many learners fail to recognize their own need for help or fail to seek it even when it is available ([Baker & Inventado, 2016](https://edtechbooks.org/lidtfoundations/educational_data_mining_and_learning_analytics)). Educational data mining (EDM) and learning analytics (LA) address this by mining the large amounts of interaction data online and distance courses generate — content-management, discussion-forum, gradebook, and clickstream data — to build models that predict which learners are at risk and to surface feedback that would otherwise depend on an instructor noticing in person.
@@ -118,6 +118,8 @@ These models feed three uses that benefit learners directly: **automated feedbac
 - [Reviewed CSCL systems are further characterized by interaction data type, derivation processes, and feedback type](../claims/cscl-systems-characterized-data-processes-feedback.md) [~W]
 - [Local explanations from SHAP and LIME show feature contributions but do not indicate whether a feature value should be increased or decreased to improve the prediction.](../claims/local-explanations-lack-directional-guidance.md) [~W]
 - [The special issue reports a deep learning approach to predicting student purchasing behaviour and drop-out in MOOCs](../claims/deep-learning-predicts-mooc-dropout-purchasing.md) [~W]
+- [Interaction-based affect detectors outperformed posture-based detectors, with boredom detected best and posture detectors near chance](../claims/interaction-detectors-outperform-posture-detectors-tc3sim.md) [+W] — attached 2026-10-28 from DeFalco et al. (2018), which proposed "Interaction-based frustration detector model for TC3Sim".
+- [Combined assessment-centered and student-centered features yield the best classifier performance](../claims/combined-features-best-classifier-performance.md) [+W]
 
 ## The evidence by question
 

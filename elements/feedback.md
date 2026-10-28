@@ -13,7 +13,7 @@ generated:
 # Feedback
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 206 claims (92 for, 99 mixed, 15 against) · 156 studies (61 causal, 31 review, 20 quant-synthesis, 15 associational, 12 design, 9 qualitative, 8 theoretical), `q1`–`q4` · 38 of 156 report an effect size · 183 claims rest on one study
+> **Evidence** · 207 claims (93 for, 99 mixed, 15 against) · 157 studies (61 causal, 32 review, 20 quant-synthesis, 15 associational, 12 design, 9 qualitative, 8 theoretical), `q1`–`q4` · 38 of 157 report an effect size · 184 claims rest on one study
 
 ## Description
 Feedback is information provided to learners about their performance or understanding, intended to close the gap between current and desired performance. Effective feedback answers three questions: Where am I going? How am I doing? Where to next? ([Hattie & Timperley, 2007](https://doi.org/10.3102/003465430298487)). It functions as the corrective mechanism in any instructional cycle that includes [Practice](practice.md) or [Assessment](assessment.md).
@@ -254,6 +254,7 @@ Feedback is among the most powerful influences on learning, but its effects are 
 - [LLM-enhanced feedback did not yield a statistically significant improvement in final grades compared with traditional AI feedback](../claims/llm-feedback-no-significant-grade-gain.md) [~W]
 - [AI-assisted interpretation of mockup review comments revealed low Clarity scores in Map and Bud projects](../claims/genai-mockup-review-clarity-scores.md) [~W]
 - [Adding positive feedback let students complete the same SQL-Tutor learning tasks in half the time with the same learning improvement](../claims/positive-feedback-halves-time-sql-tutor.md) [+W]
+- [LLMs prompted with diverse strategies can analyze educational survey feedback and generate corrective tutor feedback at or above expert human performance in specific scenarios](../claims/llm-prompting-human-level-educational-feedback.md) [+W]
 
 ## Design Decisions
 <!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice
@@ -340,6 +341,7 @@ Feedback is among the most powerful influences on learning, but its effects are 
 - [Provide timely automated feedback through an AI chatbot during EFL writing practice](../strategies/ai-chatbot-feedback-writing-courses.md)
 - [Pair form-focused instruction with prompts that push learners to self-repair rather than recasts](../strategies/pair-ffi-with-prompts-not-recasts.md)
 - [Position AWE as a formative assessment tool that facilitates evidence-based practices in writing instruction](../strategies/awe-as-formative-assessment-facilitating-ebps.md)
+- [Metacognitive feedback with delay penalties proportional to value-of-computation differences](../strategies/delay-penalty-metacognitive-feedback.md)
 
 ## Key Sources
 - Hattie, J., & Timperley, H. (2007). The power of feedback. *Review of Educational Research, 77*(1), 81–112. [doi:10.3102/003465430298487](https://doi.org/10.3102/003465430298487)

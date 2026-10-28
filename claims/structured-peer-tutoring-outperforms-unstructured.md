@@ -92,3 +92,4 @@ A meta-analysis of 36 elementary-school peer-assisted-learning studies examined 
 - [Unstructured expert interviews miss up to 70% of the subtasks needed to describe a cognitive task](expert-interviews-miss-up-to-70-percent-subtasks.md) — related
 - [Turn-taking test review makes each member's expertise visible, enabling peers to locate and draw on community knowledge](test-review-brings-expertise-to-open.md) — related
 - [Structured criteria in peer assessment are not shown to improve its effect on academic performance over freeform review](peer-assessment-structured-criteria-improve-learning.md) — reports the opposite
+- [Sixth graders acting as peer tutors tended to take over problems and provide inaccurate feedback rather than help their tutee](sixth-graders-poor-peer-tutors.md) — related

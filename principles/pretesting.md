@@ -38,7 +38,7 @@ sources:
 # Pretesting (Prequestions Before Study)
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 30 claims (8 for, 19 mixed, 3 against) · 29 studies (14 causal, 5 quant-synthesis, 5 review, 4 theoretical, 1 associational), `q1`–`q4` · 13 of 29 report an effect size · 24 claims rest on one study
+> **Evidence** · 31 claims (9 for, 19 mixed, 3 against) · 30 studies (15 causal, 5 quant-synthesis, 5 review, 4 theoretical, 1 associational), `q1`–`q4` · 13 of 30 report an effect size · 25 claims rest on one study
 
 ## Conditional relationship
 
@@ -165,6 +165,7 @@ The expectation should weaken if classroom comparisons with comparable learners 
 - [Images that reveal the answer reduce recall compared with images appearing after the retrieval attempt](../claims/answer-revealing-images-worse-than-post-retrieval-images.md) [~W]
 - [Pre-testing before reading produces a smaller but significant retention benefit over re-reading on trained questions (d = 0.35)](../claims/pre-testing-effect-trained-questions-latimier.md) [+W]
 - [The pre/post-testing advantage cannot be attributed to extra training time: training time did not significantly predict final performance](../claims/training-time-null-covariate-latimier.md) [+W]
+- [Both groups improved significantly on harder-to-guess questions, and the experimental group outperformed the control group on them at post-test](../claims/se-prompts-harder-to-guess-questions.md) [+W]
 
 ## Related Principles
 

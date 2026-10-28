@@ -50,3 +50,4 @@ Experiments conducted under the IES-funded MARCS collaboration with CAST, embedd
 - [Revising texts to improve readability-formula scores often produces nonexistent or insignificant comprehension gains](readability-revision-gains-nonexistent-insignificant.md) — reports the opposite
 - [A random forest classified flagged versus non-flagged word problems with the best accuracy of five tested models (AUC = 0.75)](random-forest-best-auc-flagged-problems.md) — related
 - [LLM-rewritten Python error messages improved subjective evaluations but did not reliably improve objective debugging performance](llm-error-rewrites-subjective-not-objective-gains.md) — related
+- [GPT-4 revision of educational math content improves readability metrics but yields mixed K-12 learning outcomes, with improved mastery in some content areas and higher error rates in others](gpt4-rewritten-math-content-mixed-outcomes.md) — related

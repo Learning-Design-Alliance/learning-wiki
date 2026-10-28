@@ -48,3 +48,4 @@ Post-hoc REGWF comparisons after a significant omnibus ANOVA, F(3, 84) = 7.46, p
 - [Guided LiquidText users redistribute task time toward document processing and away from writing](guidance-time-reallocation-multiple-document-task.md) — related
 - [Students guided to use LiquidText show lower acceptance of tablets for multiple document work than controls despite better performance](liquidtext-guidance-acceptance-paradox.md) — related
 - [Guided use of a multiple document reading application yields higher multiple document comprehension than access-only, unguided, or traditional pdf viewer use](liquidtext-guidance-comprehension-advantage.md) — possibly the same claim (merge candidate)
+- [In a between-subject user study, IRead outperformed the baseline PDF reader system in 8 out of 14 measured dimensions, with 5 reaching statistical significance](iread-outperforms-baseline-8-of-14-dimensions.md) — related

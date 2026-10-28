@@ -67,3 +67,4 @@ Review reports the GazeTutor evaluation using camera-captured eye movements to r
 - [The talking head contributes little to AutoTutor's learning gains; the content of the conversation matters](autotutor-content-matters-not-talking-head.md) — related
 - [Early AutoTutor versions gained about 0.5 σ over textbook controls, with gains depending on test type (cloze 0.64 σ, deep 0.28 σ, shallow 0.15 σ)](early-autotutor-gains-test-type-dependence.md) — related
 - [Meta-analytic evidence indicates intelligent tutoring systems yield positive learning outcomes compared with non-ITS conditions](its-meta-analytic-positive-outcomes.md) — a broader claim this one bears on
+- [Young children's attention to a robot increased sharply when the robot reacted to their gaze](robot-gaze-reactivity-extends-child-attention.md) — related

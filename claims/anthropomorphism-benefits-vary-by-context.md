@@ -66,3 +66,4 @@ A conceptual framework paper distinguishing humanlikeness (a design property) fr
 - [Hypotheses that specific robot appearances would be trusted more in matching tasks (humanoids for teaching, task-oriented robots for instructions, soft robots for personal disclosure) were not confirmed](appearance-task-matching-hypotheses-not-confirmed.md) — related
 - [Meta-analytic path analysis supports model hypotheses but shows substantial unexplained heterogeneity across studies](meta-analytic-path-analysis-supports-tcm-with-heterogeneity.md) — related
 - [Emotional design features are implemented inconsistently within and between studies, especially in visual sophistication and anthropomorphic elements](emotional-design-implementation-heterogeneity.md) — related
+- [People preferred interacting with a humanoid robot over a comparable on-screen agent and showed less socially undesirable behaviour](robot-preferred-over-screen-agent-less-undesirable-behavior.md) — related

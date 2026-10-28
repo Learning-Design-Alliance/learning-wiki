@@ -14,7 +14,7 @@ grain_size: course
 # Continuous Improvement of Learning Materials
 
 > **Design Process** · [All design processes](index.md)
-> **Evidence** · 16 claims (9 for, 6 mixed, 1 against) · 20 studies (5 causal, 5 quant-synthesis, 4 review, 2 associational, 2 design, 1 qualitative, 1 theoretical), `q1`–`q4` · 6 of 20 report an effect size · 13 claims rest on one study
+> **Evidence** · 17 claims (10 for, 6 mixed, 1 against) · 21 studies (5 causal, 5 quant-synthesis, 4 review, 3 design, 2 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 6 of 21 report an effect size · 14 claims rest on one study
 
 ## Description
 Most design processes end at release. Continuous improvement begins there: the shipped course is treated as the current best hypothesis, instrumented so that every subsequent cohort produces evidence about which of its parts are working, and revised in small, targeted increments rather than in periodic wholesale rewrites.
@@ -86,6 +86,7 @@ This is a *design* process, not an analytics dashboard. Its precondition is a li
 - [Group-level situational-interest ratings of lecture segments are reliable across independent online and lab cohorts](../claims/interest-ratings-reliable-across-cohorts.md) [+W]
 - [Current interaction analysis shows a gap between collecting and visualizing mined data and interpreting it in terms of the learning process](../claims/gap-mined-data-learning-interpretation.md) [~W]
 - [Optimizing pedagogical parameters on proxy measures risks trading learning for engagement, and simulated students carry their own accuracy limits](../claims/proxy-optimization-engagement-trap.md) [~W]
+- [Per-exercise analysis accuracy improved from 15 of 27 exercises above 80% to all 27 above 80% in the third version](../claims/php-its-per-exercise-accuracy-improvement.md) [+W]
 
 #### Supporting
 - [Feedback is most effective when directed at the task and process rather than the self.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S] — the loop is feedback to the *design*, and the same conditions apply: task-level and specific beats global and evaluative

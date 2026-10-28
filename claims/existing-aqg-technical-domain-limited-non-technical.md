@@ -50,3 +50,6 @@ In the Summary of Related Work, the article derives from its Tables 3 and 4 that
 - [EMCQG generated more than 3 million distinct case-based questions for four physician specialities from the EMMeT ontology](emcqg-three-million-questions-four-specialities.md) — reports the opposite
 - [The Bloom-driven framework generalizes to social-science questions, with automated rubrics agreeing strongly with experts on usability but only modestly on Bloom level](social-science-generalization-human-agreement.md) — related
 - [LLM-assigned difficulty labels fail to predict empirical item difficulty in classroom retrieval practice (ρ=0.06), as do co-generated Bloom levels (ρ=0.02)](llm-difficulty-labels-fail-to-predict-empirical-item-difficulty.md) — related
+- [Assessment remains the dominant purpose of educational AQG, mirroring pre-2014 findings](aqg-assessment-dominant-purpose.md) — related
+- [AQG evaluation suffers from insufficient and heterogeneous experimental reporting and metrics](aqg-evaluation-reporting-gaps.md) — related
+- [Text remains the most popular AQG input, while Semantic Web sources are used mainly for domain-unspecific questions](aqg-text-most-popular-input.md) — related

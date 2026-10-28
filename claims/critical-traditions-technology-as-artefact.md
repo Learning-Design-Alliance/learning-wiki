@@ -47,3 +47,4 @@ Theoretical positioning from the commentary: the author describes critical appro
 ## Related Claims
 - [Anderson's structured cognitive tutoring systems and Papert's constructionist approach embody contrasting positions on control and learner agency](anderson-papert-comparative-models-control-agency.md) — related
 - [LLM capabilities enabled family education systems across conversational, embodied, and spatial interface forms to generate support from the context of an unfolding interaction](llm-generated-support-unfolding-interaction.md) — related
+- [AI in education is conceived and practised in three ways — as research methodology, as industry profit source, and as political rhetoric — leading to very different outcomes](ai-three-stakeholder-framings.md) — related

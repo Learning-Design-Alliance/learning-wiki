@@ -53,3 +53,4 @@ In the prediction sample, Need for Cognition items 3 and 4 showed negative coeff
 - [Slight control over an algorithm's output reduces algorithm aversion, with process control producing the strongest calibration effects](slight-control-reduces-algorithm-aversion.md) — related
 - [Prior AI use carries over: brief AI exposure increases subsequent AI adoption and exacerbates the speedup illusion, while independent exposure does not reduce AI use](ai-exposure-carryover-effect.md) — related
 - [People overestimate how much mental effort AI assistance alleviates (offloading illusion), driven by overestimating the effort of independent completion while AI-assisted effort is accurately estimated](offloading-illusion-ai-effort-savings.md) — related
+- [The heuristic feasibility estimation used during planning can produce false negatives by overestimating displacement time](heuristic-feasibility-false-negatives.md) — related

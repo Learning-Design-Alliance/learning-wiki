@@ -46,3 +46,4 @@ The author identifies a synchronization problem inherent in the commentary patte
 
 ## Related Claims
 - [Synchronous autonomous AI suggestions increased perceived writing efficiency but also caused distraction and mental overload during writing](synchronous-suggestions-efficiency-and-distraction.md) — related
+- [Young children's attention to a robot increased sharply when the robot reacted to their gaze](robot-gaze-reactivity-extends-child-attention.md) — related

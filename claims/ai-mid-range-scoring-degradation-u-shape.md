@@ -71,3 +71,4 @@ Score-level analysis of mid-range responses (Results): "all but one of the 6×4�
 - [On fully correct responses, the GPT few-shot models outperformed the fine-tuned models, averaging less than one category distance from the gold score](gpt-outperforms-finetuned-on-fully-correct-responses.md) — a narrower finding that bears on this claim
 - [Claude's few-shot scoring behaved erratically across items: best few-shot model on Item 1 but by far the worst model on Item 2](claude-erratic-few-shot-performance-across-items.md) — related
 - [MLS-WEPs improved the quality of written explanations, with larger gains in fully correct explanations and reduced blank and concept-irrelevant responses](mls-weps-improved-explanation-quality.md) — related
+- [Stopping algorithm performance is weaker for middle placement categories (labels 4 and 5)](weaker-stopping-performance-middle-labels.md) — possibly the same claim (merge candidate)

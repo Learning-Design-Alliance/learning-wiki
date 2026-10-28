@@ -13,7 +13,7 @@ generated:
 # Four Boundaries of Learning Community (Access, Relationships, Vision, Function)
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 West and Williams (2018) argue that "learning community" is used so inconsistently in research and practice that it undermines both research synthesis and design guidance. Rather than proposing one universal definition, they resolve the ambiguity by identifying four possible boundaries that define a community, any subset of which may be present in a given case:
@@ -42,6 +42,8 @@ Two of these boundaries (access, function) can be observed externally; two (rela
 - Not a content objective — a diagnostic framework for designing the social/organizational structure that supports other objectives (collaboration, sustained engagement, persistence)
 
 ## Claims
+
+- [Local teams learn more than geographically distributed teams, but dispersed teams can communicate as effectively as co-located teams given sufficient time to develop group relationships](../claims/distributed-teams-communication-effectiveness.md) [~W]
 
 ## Related Principles
 - [Community of Inquiry](../principles/community-of-inquiry.md) — a complementary framework for what happens inside a bounded community (cognitive, social, and teaching presence), rather than what defines the community's boundary in the first place

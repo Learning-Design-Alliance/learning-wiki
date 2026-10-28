@@ -48,3 +48,4 @@ Descriptive statement (type d) about the system's research function: it enables 
 - [AI tools collected and organized a previously unavailable granularity of data, including individual student exchanges and classroom discussion data, to generate actionable recommendations](ai-granular-data-collection-actionable-recommendations.md) — related
 - A four-state semi-Markov model distinguishing jump editing from local editing fits keystroke-log writing data significantly better than a three-state model — related
 - [Screen reader choice affects time and effort for accessing math: JAWS users completed a quadratic-equation task faster than NVDA users](screen-reader-effort-quadratic-equation-bvi.md) — related
+- [The ITS inner and outer loops are instances of the regulative loop at step and task grain sizes](inner-outer-loops-as-regulative-loops.md) — related

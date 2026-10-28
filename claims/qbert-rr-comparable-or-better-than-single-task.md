@@ -48,3 +48,4 @@ Benchmark evaluation on Yahoo Topic, QQP, and WikiQA test sets (Table 4) compari
 - [QBERT-RR outperforms the E5 embedding model on question topic and equivalence tasks while E5 leads on answer retrieval](qbert-rr-vs-e5-task-dependent.md) — related
 - [QBERT-RR transfers to the unseen WTC question corpus with 90.76% equivalent-question recognition accuracy at a 0.809 threshold](qbert-transfers-to-wtc-corpus.md) — related
 - [Graph community detection over QBERT-RR embeddings yields 5,930 question communities, with 5,337 questions having no similar group](wtc-5930-question-communities.md) — a narrower finding that bears on this claim
+- [Multi-task learning on a large multi-topic dataset outperforms separate topic-specific essay scoring models](mtl-multi-topic-beats-topic-specific-scoring.md) — a narrower finding that bears on this claim

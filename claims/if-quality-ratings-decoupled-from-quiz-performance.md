@@ -54,3 +54,4 @@ Exploratory correlation analysis in the pilot (N = 22) linking questionnaire sub
 - [Perceived tool quality was perfectly rank-associated with panel-rated presentation score among the four GenARch teams (exploratory)](genarch-wblt-quality-presentation-correlation-exploratory.md) — related
 - [Engagement with AI-generated educational interactive fiction is marginal, near the neutral midpoint of the scale](ai-generated-if-engagement-marginal.md) — related
 - [Abrupt location or character changes mid-scenario co-occur with the lowest story-content coherence ratings](abrupt-setting-changes-lowest-coherence.md) — related
+- [Higher academic rank correlates with lower perceived question quality and increased reported distraction from IRead](academic-rank-correlates-quality-distraction.md) — related

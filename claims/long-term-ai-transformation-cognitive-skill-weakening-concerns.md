@@ -86,3 +86,4 @@ Student long-term-effects sub-theme from the interviews. A participant described
 - [Both workshops proposed a dual assessment approach combining controlled AI-free testing and open AI-allowed assignments](dual-assessment-ai-free-and-ai-allowed.md) — a narrower finding that bears on this claim
 - [GAI is rated highly effective for supporting cognitive presence by 85.71% of surveyed marketing educators](gai-rated-highly-effective-cognitive-presence.md) — related
 - [Stakeholder communities differ sharply in GenAI discourse focus: K-12 teachers foreground cognitive dependency, academics detection, professional students career anxiety](stakeholder-communities-differential-genai-focus.md) — a narrower finding that bears on this claim
+- [The evidence base for transformative effects of AI-based teaching and learning remains thin, and assuming AI will work as intended is technochauvinism](thin-evidence-ai-education-transformative-effects.md) — related

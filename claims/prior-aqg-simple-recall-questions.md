@@ -49,3 +49,5 @@ The authors' narrative review of prior approaches (Papasalouros et al., Alsubait
 - [Ontology-based generation produced exam-appropriate case-based MCQs, with 30% of a stratified sample rated appropriate by both expert raters and 50% by at least one](emcqg-expert-rated-exam-appropriate-questions.md) — related
 - [Case-based (vignette) MCQs are classified as testing higher-order thinking and discriminate better between low- and high-information students](case-based-questions-higher-order-value.md) — related
 - [Existing AQG approaches concentrate on non-technical domains, and technical-domain Wh-type generation has been limited to Bloom's cognitive Level I](existing-aqg-technical-domain-limited-non-technical.md) — related
+- [Assessment remains the dominant purpose of educational AQG, mirroring pre-2014 findings](aqg-assessment-dominant-purpose.md) — related
+- [Semantic-level understanding dominates post-2014 AQG methods, with 60 of 70 classified papers relying on semantic information](aqg-semantic-understanding-dominant.md) — related

@@ -47,3 +47,4 @@ The editors report, citing Rahimi et al., NLP applied to a rubric for text-based
 ## Related Claims
 - [Rubric-grounded prompting alone provides limited proficiency control, aligning far better on content-oriented traits than on form-oriented traits](prompting-limited-uneven-proficiency-control-writing-simulation.md) — related
 - [Wise-crowd content models for summary assessment correlate well with an educational rubric, manually and via two automated NLP methods](wise-crowd-content-model-summary-assessment.md) — related
+- [On new crowd-sourced Prolific summaries, the Content model generalized well (r = 0.70) but the Wording model predicted human scores poorly (r = 0.29)](prolific-generalizability-content-strong-wording-weak.md) — a narrower finding that bears on this claim

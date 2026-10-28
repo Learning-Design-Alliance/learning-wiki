@@ -50,3 +50,4 @@ Findings from the agent-tutoring activity based on the 314 game-playing students
 - [Students who teach a ChatGPT teachable agent in natural language achieve greater knowledge gains than students who learn the same material from online videos](chatgpt-teachable-agent-knowledge-gains.md) — related
 - [The TA-gaze result is interpreted as preschoolers understanding the teachable agent as an entity with agency that acts on its own knowledge](preschoolers-attribute-agency-to-teachable-agent.md) — related
 - [Adding a teachable agent to the standard science curriculum improved fourth-graders' learning gains on both curriculum tests and researcher-designed hierarchical reasoning tests](ta-improves-basic-and-added-value-gains-fourth-grade.md) — related
+- [Learning-by-teaching games position students as tutors of a teachable virtual agent for basic mathematics](learning-by-teaching-teachable-agent-math-games.md) — a broader claim this one bears on

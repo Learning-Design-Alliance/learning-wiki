@@ -103,3 +103,4 @@ Narrative review attributing to Li, Kizilcec, Bailenson, and Ju (2016) an examin
 - [Social presence from social cues can improve task performance (social facilitation) but may impair performance on complex tasks (social inhibition)](social-facilitation-social-presence-performance.md) — related
 - [Physical presence of a robotic tutor agent is not significantly related to students' task performance in an emotionally-adaptive ITS](physical-presence-no-task-performance-effect.md) — related
 - [Including videos of the students' own human teacher giving motivational feedback was more effective than an animated pedagogical agent and improved homework completion rates](teacher-videos-beat-pedagogical-agent-motivation.md) — related
+- [People preferred interacting with a humanoid robot over a comparable on-screen agent and showed less socially undesirable behaviour](robot-preferred-over-screen-agent-less-undesirable-behavior.md) — related

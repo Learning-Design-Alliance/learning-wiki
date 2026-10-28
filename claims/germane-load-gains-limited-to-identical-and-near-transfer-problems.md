@@ -51,3 +51,4 @@ A null result across all three conditions of the Reversi experiment: "In the far
 - [Under high extraneous load (hint presentation and L and rL condition), no test-score increases were observed on identical or near-transfer problems](extraneous-load-eliminates-germane-load-learning-gains.md) — related
 - There are two types of germane load: one that increases with an increase in intrinsic load and one that increases as intrinsic load decreases — related
 - [In one 51-learner experiment on help formats in computer-based electrical engineering instruction, far-transfer scores were at the floor in every condition, and time spent on instruction did not differ significantly between conditions](far-transfer-floor-effect-and-equal-time.md) — related
+- [Cognitive interview study found little evidence that students can treat AI problems as near-transfer tasks from grade-level math and CS](ai-not-near-transfer-from-math.md) — related

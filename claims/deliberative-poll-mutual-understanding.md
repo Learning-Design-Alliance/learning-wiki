@@ -51,3 +51,4 @@ Reported outcome of the Danish national Deliberative Poll quasi-experiment on th
 - [The authors argue deliberative democracy theory needs elaboration to reflect real-life politics](deliberative-democracy-theory-needs-real-life-elaboration.md) — related
 - [Interacting repeatedly across convenings built trust that enabled districts to give and receive critiques of one another's plans](repeated-convenings-trust-enables-critique.md) — related
 - [Deliberative discourse promotes pedagogies of public deliberation, which are critiqued for exclusion and consensus bias](deliberative-discourse-pedagogies-critique.md) — related
+- [A university-wide Deliberative Democracy process enabled higher education stakeholders to integrate situated knowledge through structured dialogue to co-produce AAI-EdTech ethical principles](dd-co-production-situated-knowledge.md) — related

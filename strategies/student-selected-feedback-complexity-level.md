@@ -46,6 +46,7 @@ In LEAP, students can select the complexity of the feedback they receive for eac
 - [Academic Choice (Planning, Working, Reflecting)](academic-choice-planning-working-reflecting.md)
 - [Learning Menus](learning-menus.md)
 - [Tiered Assignments](tiered-assignments.md)
+- [Menu-based response selection to sidestep natural language understanding in a tutoring dialogue](menu-based-response-selection-lbt.md)
 
 ## Examples
 -

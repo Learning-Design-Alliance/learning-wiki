@@ -62,6 +62,7 @@ Brainstorming operationalizes the principle of separating idea generation from i
 - [Think-Pair-Share](../patterns/think-pair-share.md) — a structured micro-sequence that embeds individual generation before sharing, addressing the same blocking problem
 - [Case-Based Learning](case-based-learning.md) — brainstorming often serves as the opening generative phase before case analysis
 - [Top scoring: students self-select their top three ideas for a fluency-independent creativity rating](top-scoring-self-selected-top-three.md)
+- [Over-generate and rank: generate many questions then filter for quality](overgenerate-and-rank-aqg.md)
 
 ## Examples
 - **Design thinking curricula** (e.g., the Stanford d.school K-12 Lab resources, https://dschool.stanford.edu) use brainstorming as the ideation stage, with explicit rules and silent "stacking" of sticky notes before clustering.

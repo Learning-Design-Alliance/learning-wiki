@@ -53,3 +53,4 @@ Detectors were built by hand-labeling log data via text replay coding (800 probl
 - [Generalizable detectors of students' affective states in DLPs remain an unsolved problem](no-generalizable-affective-detectors.md) — a broader claim this one bears on
 - [Male students game the system significantly more than female students in the self-explanation step of a digital learning game, across three studies](males-gaming-more-self-explanation-game-condition.md) — related
 - [GIFT supports the full affect-sensitivity research workflow from detector development data collection through embedding models and running intervention experiments](gift-testbed-affect-sensitivity-workflow.md) — related
+- [Self-efficacy interventions triggered by interaction-based detectors enhanced outcomes in one of two intervention experiments, with mixed overall results](detector-triggered-interventions-mixed-results.md) — related

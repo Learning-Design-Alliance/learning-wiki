@@ -47,3 +47,4 @@ Descriptive adoption figure reported in the article's abstract and framing. The 
 ## Related Claims
 - [Previously published work associates Genie 2 with high acceptance, test-score increases over business-as-usual, high time on task, and a positive affective profile](genie2-previously-published-outcomes.md) — related
 - [Regulatory and ethics compliance posed substantial, underestimated challenges that delayed the ITS rollout by a year](compliance-effort-delayed-its-rollout.md) — related
+- [Genie 2 teaches U.S. middle school mathematics according to the Russian curriculum and reports higher test results and improved motivation after wide school deployment](genie-2-russian-curriculum-us-deployment.md) — a broader claim this one bears on

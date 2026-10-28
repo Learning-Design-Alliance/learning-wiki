@@ -71,3 +71,4 @@ Post hoc Tukey HSD pairwise comparisons across the six clusters; C0 exceeded C1 
 - [The four exam-performance quartile groups differed significantly on first-unit exam scores, validating the grouping used for behavioral comparisons](quartile-groups-differ-on-exam-scores.md) — related
 - [Fall clusters of coding-question students trend toward higher exam scores than report-writer clusters](clustering-report-writers-lower-exam-scores.md) — related
 - [Cluster membership is significantly associated with grade level but not gender](cluster-membership-grade-association.md) — related
+- [Graph similarity is highest between successful and passing students (0.997) and lowest between successful and failing students (0.954)](markov-similarity-group-ordering.md) — related

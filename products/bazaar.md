@@ -33,3 +33,4 @@ Bazaar is Adamson et al.'s modular architecture for composing and integrating do
 ## Key Sources
 - Rohit Kumar & Jihie Kim. (2013). Special Issue on Intelligent Support for Learning in Groups. International Journal of Artificial Intelligence in Education, 24. https://doi.org/10.1007/s40593-013-0013-5
 - Carolyn Penstein Rosé & Oliver Ferschke. (2016). Technology Support for Discussion Based Learning: From Computer Supported Collaborative Learning to the Future of Massive Open Online Courses. Int J Artif Intell Educ. https://doi.org/10.1007/s40593-016-0107-y
+- Adamson, D., Dyke, G., Jang, H., & Rosé, C. P. (2014). Towards an Agile Approach to Adapting Dynamic Collaboration Support to Student Needs. International Journal of Artificial Intelligence in Education. https://doi.org/10.1007/s40593-013-0012-6

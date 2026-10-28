@@ -49,3 +49,4 @@ Genre-level comparison of pre-test and post-test means in the same one-group pre
 - [A four-phase teaching process for congruent triangles significantly improves grade 8 students' test scores](four-phase-process-improves-congruent-triangle-scores.md) — related
 - [GBSRI significantly improved Thai undergraduates' overall English paragraph writing scores after eight weeks](gbsri-improves-thai-undergraduate-writing-scores.md) — a broader claim this one bears on
 - [Students expressed positive overall opinions of GBSRI, rating Independent Practicing highest and Post-writing lowest](gbsri-positive-student-opinions-stage-ratings.md) — related
+- [Students' PHP test scores increased significantly from pre-test to post-test (p < 0.001)](php-its-significant-learning-gains.md) — related

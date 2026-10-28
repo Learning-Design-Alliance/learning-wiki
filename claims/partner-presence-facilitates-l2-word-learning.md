@@ -50,3 +50,4 @@ The review reports Verga and Kotz's neuroimaging comparison of simulated partner
 - [Encoding L2 words through simulated social interaction activates bilateral posterior STS and right IPL, with delayed-test performance correlating with right TPJ, hippocampus, and motor activity](social-encoding-fmri-sts-tpj-hippocampus.md) — related
 - [Task and interpersonal interdependence interact on inter-brain synchrony in the right supramarginal gyrus](ibs-interaction-smg-right.md) — related
 - [Encoding L2 words by viewing videos of social situations engages more native-like neural responses than textual translation, and in a second study improved behavioral performance over non-social videos](social-encoding-yields-native-like-neural-processing.md) — related
+- [Brain activation associated with theory of mind increases with the human-likeness of an interaction partner](human-likeness-increases-theory-of-mind-activation.md) — related

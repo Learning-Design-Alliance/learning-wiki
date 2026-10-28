@@ -44,6 +44,7 @@ The authors recommend that AIED researchers develop systematic, human-inspired e
 - [Simulation-based pre-validation of adaptive coaching systems before classroom deployment](simulation-prevalidation-before-classroom-deployment.md)
 - [Use LLM persona simulation only for preliminary experimentation, stress testing, and hypothesis generation, with separate validation for consequential applications](persona-simulation-preliminary-use-only.md)
 - [Test whether success depends on compiled knowledge via knowledge ablation and downstream Knowledge Tracing validation](knowledge-ablation-and-downstream-kt-validation.md)
+- [Use simulated students to test and compare adaptive-system strategies before engaging human students](simulated-students-pre-deployment-testing.md)
 
 ## Examples
 -

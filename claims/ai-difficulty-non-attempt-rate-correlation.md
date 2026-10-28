@@ -52,3 +52,4 @@ Problem-level analysis of the 79-problem cross-sectional sample with a single au
 - [The AI review ruler's problem-level correlation weakens in an introductory course, where exam-level correlation is near zero and cohort composition dominates](cs101-introductory-course-applicability-boundary.md) — related
 - [Exam-level AI difficulty correlations with student performance are directionally consistent but weaker and only exploratory](exam-level-ai-difficulty-correlation-exploratory.md) — related
 - [Background story does not significantly impact difficulty of introductory programming problems](background-story-no-difficulty-impact.md) — related
+- [A large share of passing students fail the Physics I. exam, which students treat as the hardest, usually leaving a week gap before attempting it](physics-exam-hardest-week-gap.md) — related

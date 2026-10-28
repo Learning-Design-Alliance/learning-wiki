@@ -51,3 +51,4 @@ Quasi-experimental Deliberative Poll with a representative sample of 364 Danish 
 - [The authors argue deliberative democracy theory needs elaboration to reflect real-life politics](deliberative-democracy-theory-needs-real-life-elaboration.md) — related
 - [Mutual understanding on the euro prevailed among participants in the Danish Deliberative Poll](deliberative-poll-mutual-understanding.md) — related
 - [Self-interest and domination appeared during the Danish Deliberative Poll's deliberative process](deliberative-poll-self-interest-domination.md) — related
+- [A university-wide Deliberative Democracy process enabled higher education stakeholders to integrate situated knowledge through structured dialogue to co-produce AAI-EdTech ethical principles](dd-co-production-situated-knowledge.md) — related

@@ -44,6 +44,7 @@ The authors recommend embedding tools like CulturAIEd within professional develo
 - [Embed AI training for pre-service science teachers within science pedagogy and inquiry-based teaching rather than general tool operation](embed-ai-training-within-science-pedagogy-inquiry-teaching.md)
 - [Teachers iteratively refine LLM-simulated student ideas with classroom context before instructional use](iterative-teacher-llm-refinement-strategy.md)
 - [Integrate structured opportunities for critical engagement with AI into teacher education programs](structured-critical-ai-engagement-teacher-education.md)
+- [Comprehensive integration approach: experiential teacher learning, iterative design, context-specific tool adaptation, and anxiety mitigation](ai-efl-integration-challenges-strategy.md)
 
 ## Examples
 -

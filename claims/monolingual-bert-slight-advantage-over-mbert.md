@@ -49,3 +49,4 @@ Study 1 comparison of a monolingual English BERT and multilingual BERT on the th
 - [Pretraining a multilingual transformer on the large English ASAP dataset and fine-tuning on small target-language data outperforms all monolingual and crosslingual baselines](pretrain-english-finetune-target-best-crosslingual-scoring.md) — related
 - [Crosslingual content scoring transfer works better between closely related languages, with Chinese the hardest target in this setup](crosslingual-transfer-language-proximity.md) — related
 - [Machine translation of training and test data does not degrade monolingual content scoring performance and can normalize learner errors](mt-normalizes-learner-errors-scoring.md) — related
+- [Domain adaptation through unsupervised pretraining gave mixed results: it slightly improved RoBERTa but degraded the Longformer for both Content and Wording](domain-adaptation-mixed-roberta-helped-longformer-hurt.md) — related

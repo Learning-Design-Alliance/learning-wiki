@@ -13,7 +13,7 @@ generated:
 # Cognitive Load Management
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 9 claims (8 for, 1 against) · 12 studies (5 quant-synthesis, 3 causal, 2 review, 1 associational, 1 qualitative), `q2`–`q4` · 4 of 12 report an effect size · 5 claims rest on one study
+> **Evidence** · 10 claims (9 for, 1 against) · 13 studies (5 quant-synthesis, 3 causal, 2 review, 1 associational, 1 qualitative, 1 design), `q2`–`q4` · 4 of 13 report an effect size · 6 claims rest on one study
 
 ## Description
 Cognitive load management is the element in which instruction is designed to reduce unnecessary processing and preserve effort for learning-relevant work.
@@ -32,6 +32,7 @@ Cognitive load management is the element in which instruction is designed to red
 - [Segmentation Benefits Shrink With Expertise](../claims/segmentation-benefits-shrink-with-expertise.md) [+M]
 - [Implementing VAD raised facilitator cognitive demand, debriefing time, and attention competition with the video, with segment-search time greater in lower-tech VAD](../claims/vad-implementation-costs-facilitator-cognitive-load.md) [-W]
 - [Teachers' load-reducing instructional strategies predict lower extraneous and intrinsic cognitive load and have direct positive associations with motivation and engagement](../claims/load-reduction-instruction-predicts-lower-load-and-motivation.md) [+W] — attached 2026-10-22 from Evans et al. (2024), which proposed "Load Reduction Instruction (LRI) framework of five instructional principles"; tests this page's relationship.
+- [16.08% of student programs contained unnecessary statements](../claims/php-its-unnecessary-statements-prevalence.md) [+W]
 
 ## The evidence by question
 - *Does removing avoidable processing from a presentation improve learning?* [Cognitive Overload Degrades Learning](../claims/cognitive-overload-degrades-learning.md) [+S]

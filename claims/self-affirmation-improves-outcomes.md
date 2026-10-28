@@ -110,3 +110,4 @@ Following an earlier successful large-scale replication in the same Midwestern s
 - [The review reports that a brief values-affirmation writing assignment raised Black students' semester grades, narrowing the Black-White achievement gap](values-affirmation-grade-gains-reported.md) — related
 - [Utility-value interventions improve grades, with the largest gains for first-generation and underrepresented minority students, and can improve STEM persistence years later](utility-value-interventions-improve-grades-and-persistence.md) — related
 - [In a four-wave MOOC intervention study, statistically significant first-wave findings failed to replicate in subsequent preregistered waves](mooc-intervention-first-wave-findings-failed-to-replicate.md) — related
+- [Self-efficacy motivational feedback messages yielded the best learning gains among three theory-based motivational interventions in Experiment 2](self-efficacy-messages-best-learning-gains.md) — related

@@ -14,7 +14,7 @@ generated:
 # Rubrics
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 27 claims (12 for, 11 mixed, 4 against) · 25 studies (11 causal, 4 review, 4 associational, 4 design, 2 quant-synthesis), `q2`–`q3` · 4 of 25 report an effect size · 24 claims rest on one study
+> **Evidence** · 28 claims (12 for, 12 mixed, 4 against) · 26 studies (11 causal, 5 design, 4 review, 4 associational, 2 quant-synthesis), `q2`–`q3` · 4 of 26 report an effect size · 25 claims rest on one study
 
 ## Description
 Rubrics are the element in which criteria and performance levels are made explicit to guide quality work and evaluation.
@@ -57,6 +57,7 @@ Rubrics are the element in which criteria and performance levels are made explic
 - [Using the Hillegas Scale reduces the standard deviations of judgments on all but two of the twenty-five compositions](../claims/hillegas-scale-reduces-judgment-sd.md) [+W]
 - [Law students overestimated their writing performance when self-assessing against the formal rubric](../claims/law-students-overestimate-rubric-self-assessment.md) [~W]
 - [Research-informed and ML-based rubrics assess students' mechanistic reasoning comparably, supporting ML techniques in rubric development](../claims/ml-and-research-informed-rubrics-assess-comparably.md) [~W]
+- [A principal component analysis distills the seven-criterion summary rubric into two components, Content and Wording, explaining approximately 73% of shared variance](../claims/pca-two-component-summary-rubric-content-wording.md) [~W]
 
 ## The evidence by question
 - *Does giving learners the criteria, and having them apply them to their own or peers' work, improve the work?* [Self-assessing against a rubric improved the quality of student work in two non-randomised studies, one of which also found more stress and performance-avoidance](../claims/rubrics-improve-student-work.md) [+M]

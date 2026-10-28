@@ -88,3 +88,4 @@ Variable importance comparison within the same random forest: Custom Magnitude 2
 - [A response-length-only baseline scores poorly, showing scores depend on broader linguistic features](length-only-baseline-performs-poorly.md) — related
 - [Shallow complexity measures for word problems correlate only weakly with difficulty](shallow-complexity-weakly-correlate-difficulty.md) — related
 - [Surface readability measures are weak predictors of question difficulty, per reviewed studies](readability-weak-difficulty-predictors.md) — related
+- [GPT-4 revision of educational math content improves readability metrics but yields mixed K-12 learning outcomes, with improved mastery in some content areas and higher error rates in others](gpt4-rewritten-math-content-mixed-outcomes.md) — related

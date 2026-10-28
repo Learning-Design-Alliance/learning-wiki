@@ -48,3 +48,4 @@ Theoretical argument in the framework-rationale section. The authors further sta
 - [AI-assisted ideation was conditionally acceptable when researchers retained decision-making authority, but problematic when it displaced conceptual labour](conditional-ideation-dialogic-aid-vs-outsourcing.md) — related
 - [Pseudo-agency: students may appear engaged without understanding the epistemic purpose of their actions](pseudo-agency-surface-engagement-without-purpose.md) — related
 - [Existing ACLS taxonomies describe support dimensions but fall short of an integrated instructional framework grounded in learning theory](acls-taxonomies-lack-integrated-framework.md) — related
+- [AI-enabled EFL teaching maps onto all three domains of Bloom's Taxonomy — cognitive, affective, and behavioral — per the review's analysis](ai-efl-blooms-taxonomy-mapping.md) — related

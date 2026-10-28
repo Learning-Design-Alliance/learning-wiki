@@ -49,3 +49,4 @@ Analysis of the ν4 fitness metric (mastery lacking to match course prerequisite
 - [A genetic algorithm can find near-faultless curricula for full-scale FIC/DK-P instances despite intractability of exact methods](ga-near-faultless-curricula-ficdkp.md) — related
 - [Increasing the number of courses per semester does not necessarily make FIC/DK-P easier to solve well](more-courses-not-easier-ficdkp.md) — related
 - [Students perceive prerequisites, core course requirements, and master schedule constraints as barriers to accessing courses that interest them](students-report-prerequisites-block-course-access.md) — related
+- [Recommended course sets satisfy significantly more soft skill targets than the courses students actually took](recommendations-satisfy-more-soft-skill-targets.md) — related

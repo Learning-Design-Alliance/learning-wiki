@@ -49,3 +49,4 @@ Numerical cross-validation results on the Fraction dataset (536 middle school st
 - [On the TIMSS dataset, InitialD reaches the same estimation error with fewer questions than random sampling or a traditional adaptive test](initiald-question-efficiency-timss.md) — related
 - [On the TIMSS dataset, random sampling performs well compared to a normal adaptive test, possibly because the test is already balanced](random-competitive-with-cat-on-balanced-timss.md) — related
 - [Meta-behavioral pattern extraction outperforms knowledge-concept-based collaborative extraction, which fails to consistently boost performance due to data sparsity](meta-behavioral-extraction-beats-kc-based-variants.md) — related
+- [Cold-start initialization converges faster than starting from an inconsistent student model](cold-start-faster-than-inconsistent-model.md) — related

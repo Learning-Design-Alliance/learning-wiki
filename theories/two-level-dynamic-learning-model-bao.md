@@ -53,6 +53,7 @@ The article models a student's measured knowledge as a two-level system in which
 ## Examples
 
 - [Fit change-score versus pretest-score data with α and γ process models to diagnose learning processes and distinguish student ability from instruction impact](../strategies/fit-change-score-curves-to-diagnose-learning.md)
+- [Analyze learning curves as a subtler means of measuring learning gains than pre-post comparisons](../strategies/learning-curves-evaluation-strategy.md)
 
 ## Key Sources
 - Lei Bao. (2007). Dynamic Models of Learning and Education Measurement. https://arxiv.org/abs/0710.1375

@@ -71,6 +71,7 @@ Well-designed hints keep learners in productive struggle rather than either flou
 - [Identify which suggested actions are beneficial at what time to inform scaffold design, and deliver scaffolds at natural breakpoints preceded by a notification.](identify-beneficial-actions-and-timing-for-scaffolds.md)
 - [Probe problem solving with a graduated suggestion sequence moving from pure reason to concrete imagery to objective experiment](graduated-suggestion-sequence-probing.md)
 - [ITS developers should continue to provide principle-based and bottom-out hints and support sense making around them](design-recommendations-principle-based-hints-and-sense-making.md)
+- [Transplant ITS insights such as hint timing and solution review into regulative CSCL design](transplant-its-insights-to-cscl.md)
 
 ## Examples
 - **[ASSISTments](https://www.assistments.org)** — online math homework system with structured hint ladders; research using its logged hint data showed that bottom-out hint usage predicts lower learning gains [+M]

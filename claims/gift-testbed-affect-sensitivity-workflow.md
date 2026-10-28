@@ -46,3 +46,4 @@ The preface describes the special-issue article by DeFalco et al. (2017), which 
 
 ## Related Claims
 - [Automated gaming-the-system detectors built with XGBoost reliably recognize gaming in both problem-solving and self-explanation steps](xgboost-gaming-detectors-decimal-point.md) — related
+- [Self-efficacy interventions triggered by interaction-based detectors enhanced outcomes in one of two intervention experiments, with mixed overall results](detector-triggered-interventions-mixed-results.md) — a narrower finding that bears on this claim

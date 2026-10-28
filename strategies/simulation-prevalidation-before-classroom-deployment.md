@@ -43,6 +43,7 @@ The authors advocate evaluating adaptive coaching logic on LLM-based simulated l
 - [Use LLM persona simulation only for preliminary experimentation, stress testing, and hypothesis generation, with separate validation for consequential applications](persona-simulation-preliminary-use-only.md)
 - [Benchmark AI assistants on specialized educational tasks before classroom deployment](benchmark-ai-assistants-before-classroom-deployment.md)
 - [Evaluate LLM-based tutors with human-inspired methods such as simulated students and behavior analysis before classroom deployment](human-inspired-evaluation-of-llm-tutors.md)
+- [Use simulated students to test and compare adaptive-system strategies before engaging human students](simulated-students-pre-deployment-testing.md)
 
 ## Examples
 -

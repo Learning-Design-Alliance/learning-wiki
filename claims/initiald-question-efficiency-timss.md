@@ -49,3 +49,4 @@ Cross-validation simulation on the TIMSS dataset (757 8th-grade learners, 23 mat
 - [On the Fraction dataset, InitialD outperforms random sampling, uncertainty sampling and a normal adaptive test in cold-start response-pattern reconstruction](initiald-outperforms-strategies-fraction-cold-start.md) — related
 - [On the TIMSS dataset, random sampling performs well compared to a normal adaptive test, possibly because the test is already balanced](random-competitive-with-cat-on-balanced-timss.md) — related
 - [CAT adjusts test questions as the testing goes along](cat-adjusts-questions-during-testing.md) — related
+- [Cold-start initialization converges faster than starting from an inconsistent student model](cold-start-faster-than-inconsistent-model.md) — related

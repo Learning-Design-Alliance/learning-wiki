@@ -65,3 +65,4 @@ Same cross-prompt analyses; however, embedding-based models trained on ASAP 2 co
 
 ## Related Claims
 - [For trait-specific automated essay scoring trained on a single resource, feature-based DNNs slightly outperform embedding-based DNNs, winning 11 of 16 trait-prompt comparisons](feature-models-edge-embeddings-trait-scoring.md) — related
+- [Holistic scoring of German university students' essays posed significant challenges to both a neural model and an SVM with n-gram features](german-essay-scoring-challenges-both-models.md) — related

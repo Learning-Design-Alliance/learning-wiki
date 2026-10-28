@@ -45,5 +45,7 @@ Editors' introduction stating the topical composition of Part 1 of the special i
 
 
 ## Related Claims
+
 - [The Jim Greer Festschrift comprises 24 papers split across two issues of IJAIED volume 31, with 11 papers in issue 3 and 13 in issue 4](greer-festschrift-24-papers-two-issues.md) — related
 - [Part 2 of the Festschrift contains 3 papers on peer learning, collaboration and the social dimension, 2 on privacy, and 8 on learning analytics and educational data mining](greer-festschrift-part2-topic-distribution.md) — related
+- [The Festschrift introduction reports that Rimac versions with student models outperformed versions without or with weaker student models, with dynamic updating helping both high and low prior knowledge students](rimac-student-model-outperformed-no-model.md)

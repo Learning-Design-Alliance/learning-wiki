@@ -55,6 +55,8 @@ The article's central design recommendation is a principled division of labor: a
 - [Use AI chatbots to assist human-led coaching with routine support between sessions while humans retain challenge and goal clarification](hybrid-human-ai-coaching-division-of-labor.md)
 - [Design assignments that explicitly specify which tasks may be delegated to AI and which may not](specify-ai-delegable-tasks-in-assignments.md)
 - [Evaluate LLM data extraction through a staged meaningful-human-control sequence before integrating it into evidence synthesis](staged-meaningful-human-control-evaluation.md)
+- [Use ChatGPT-4.0 as an adjunct practice tool for medical applicants preparing for the AAMC SJT, with human judgment retained](chatgpt-4-adjunct-sjt-preparation-tool.md)
+- [Human-in-the-loop quality control for AI-generated educational content](human-in-the-loop-ai-content-quality-control.md)
 
 ## Examples
 -

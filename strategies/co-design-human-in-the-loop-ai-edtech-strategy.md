@@ -53,6 +53,7 @@ The report recommends that AI developers "embrace and center the expertise of te
 - [Human-in-the-loop generative pipeline for synthetic classroom training data with domain-expert validation](generative-synthetic-classroom-data-pipeline-strategy.md)
 - [Integrate GPT models into LA-supported feedback systems with an iterative instructor-student validation loop to improve reliability](iterative-validation-loop-gpt-feedback-systems.md)
 - [Mitigate authoring tool investment risk with early-and-often user feedback and a theoretical understanding of users and tasks](early-often-usability-risk-mitigation.md)
+- [Human-in-the-loop quality control for AI-generated educational content](human-in-the-loop-ai-content-quality-control.md)
 
 ## Examples
 -

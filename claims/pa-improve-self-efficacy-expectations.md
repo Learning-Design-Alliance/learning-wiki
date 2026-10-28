@@ -101,3 +101,4 @@ Grade level significantly moderated self-efficacy effects (F(4.00, 6.83) = 11.42
 - [Learning with multimedia pedagogical agents is more effective than learning without these agents, with a small overall effect (g+ = 0.20)](pedagogical-agents-small-overall-learning-benefit.md) — related
 - [Motivational pedagogical agents did not significantly improve posttest scores or error rates in an adaptive algebra system after controlling for pretest](motivational-pa-null-conceptual-gains.md) — related
 - [Even the AB-only version of the agent showed potential to enhance learners' WTC to some extent](ab-only-partial-wtc-enhancement.md) — related
+- [Low self-efficacy students significantly increased their self-efficacy when matched with a low self-efficacy tutee, but mismatched students did not](se-match-increases-low-se-students.md) — related

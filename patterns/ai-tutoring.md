@@ -14,7 +14,7 @@ grain_size: course
 # AI Tutoring
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 383 claims (172 for, 158 mixed, 53 against) · 261 studies (94 causal, 58 review, 33 design, 28 theoretical, 19 quant-synthesis, 15 associational, 14 qualitative), `q1`–`q4` · 53 of 261 report an effect size · 367 claims rest on one study
+> **Evidence** · 392 claims (179 for, 160 mixed, 53 against) · 267 studies (98 causal, 59 review, 34 design, 28 theoretical, 19 quant-synthesis, 15 associational, 14 qualitative), `q1`–`q4` · 54 of 267 report an effect size · 376 claims rest on one study
 
 ## Description and scope
 
@@ -292,6 +292,10 @@ Claims linked to this pattern that the model above does not use. All were read a
 - [Explanations widen the human–AI fairness gap](../claims/explanations-widen-fairness-gap.md) [~W] (not about this page) — read 2026-10-19: acceptance of AI grading decisions; AI grading is outside this page's scope.
 - [In Study 1, university students using ChatTutor scored significantly higher than teaching-as-usual students on a delayed conceptual knowledge test four weeks after the lesson, but did not differ significantly from ChatGPT students](../claims/chattutor-delayed-conceptual-knowledge-study1.md) [+M] — attached 2026-10-20 from Guido Makransky et al. (2025), which proposed "Use theoretically informed GenAI chatbots to scale personalized scaffolding of generative learning activities where instructor formative assessment is not feasible"; tests this page's relationship.
 - [Model tracing is superior for targeted, high-quality remediation, and this superiority increases with the complexity of the solution process goal structure](../claims/model-tracing-superior-remediation-increases-with-goal-structure-complexity.md) [+W] — attached 2026-10-27 from Viswanathan Kodaganallur et al. (2005), which proposed "Choose between model-tracing and constraint-based tutoring paradigms by assessing solution information richness and goal-structure complexity".
+- [Interactive tutoring feedback leads to greater progression in children's analogy solving than multiple-try feedback, which is more effective than no feedback](../claims/tutoring-feedback-greatest-analogy-gains-children.md) [+W] — attached 2026-10-28 from Stevenson (2017), which proposed "Use graduated-prompt tutoring feedback in digital learning environments to help children with low initial ability learn analogy solving"; tests this page's relationship.
+- [Children who initially used non-analogical strategies improved more from pretest to posttest than analogical reasoners, especially with tutoring feedback](../claims/non-analogical-reasoners-gain-more-feedback.md) [+W] — attached 2026-10-28 from Stevenson (2017), which proposed "Use graduated-prompt tutoring feedback in digital learning environments to help children with low initial ability learn analogy solving".
+- [Working memory moderates feedback effects: higher working memory children gain more from tutoring feedback and no feedback, but gains in the multiple-try condition are unrelated to working memory](../claims/wm-moderates-feedback-effects-analogy.md) [~W] — attached 2026-10-28 from Stevenson (2017), which proposed "Use graduated-prompt tutoring feedback in digital learning environments to help children with low initial ability learn analogy solving"; tests this page's relationship.
+- [Low self-efficacy students significantly increased their self-efficacy when matched with a low self-efficacy tutee, but mismatched students did not](../claims/se-match-increases-low-se-students.md) [+M] — attached 2026-10-28 from Betty Tärning et al. (2019), which proposed "Design teachable agents to express low self-efficacy"; tests this page's relationship.
 
 ## Illustrative design instance and observation record
 
@@ -364,6 +368,11 @@ This pattern is scoped to the tutor's moves within tasks and the handoff to peop
 - [Repetitive training with the synthetic assistant produced statistically significant performance growth across successive tests, whereas the control group's growth was largely insignificant](../claims/vbsa-significant-growth-across-iterations.md) [+W]
 - [Sustained interactive dialogue with generative AI over 14 weeks may catalyze rather than constrain learner agency, unlike shorter one-way automated feedback](../claims/sustained-ai-dialogue-catalyzes-agency.md) [~W]
 - [In WHY2 physics studies, AutoTutor outperformed read-textbook and no-materials controls and performed comparably to WHY2/Atlas and non-expert human tutors](../claims/why2-autotutor-physics-gains.md) [+W]
+- [AITS learning effectiveness evaluated via pre-test/post-test experimental/control group study showed very encouraging results](../claims/aits-learning-effectiveness-pre-post-study.md) [+W]
+- [LLM-generated student plans in a game-based learning environment are valid, with T5 plans closely matching student-created plans and GPT-3.5 producing more diverse plans, supporting real-time adaptive scaffolding](../claims/llm-plan-generation-adaptive-scaffolding-gbl.md) [+W]
+- [A changed meaning of equation correctness and derivation method is discussed and its effect on tutor effectiveness evaluated](../claims/changed-correctness-method-evaluated.md) [~W]
+- [The introduction reports that the PETAL recursive programming tutor was shown to be highly effective in a 6-week control group study](../claims/petal-effective-six-week-control-study.md) [+W]
+- [The introduction reports that the VCR tutor produced statistically significant performance gains in using the VCR, a rare result for ITSs at the time](../claims/vcr-tutor-significant-performance-gains.md) [+W]
 
 ## Examples
 - [ChatGPT as a virtual laboratory assistant in a sociotechnical system](../designs/sts-theory-chatgpt-virtual-laboratory-assistant.md) — ChatGPT answers lab questions beside human TAs, not in their place

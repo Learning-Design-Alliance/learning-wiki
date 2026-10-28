@@ -57,3 +57,4 @@ Systematic literature review synthesizing 50 empirical studies published 2019–
 - [Customized AI agents generate feedback with higher accuracy and specificity than general-purpose agents in self-directed instructional design tasks](customized-agents-higher-feedback-accuracy-specificity.md) — a narrower finding that bears on this claim
 - [Overreliance on AI is the most prevalent pedagogical limitation (27 studies, 50%), followed by reduced critical thinking (25 studies, 46%)](overreliance-reduced-critical-thinking-ai-efl.md) — related
 - [Persistent challenges include feedback inaccuracy, learner overreliance, and limited transparency](customized-ai-writing-persistent-challenges.md) — related
+- [Students using AI-driven EFL tools showed notable improvements in vocabulary, grammar, speaking fluency, and comprehension compared to traditional methods, per the review's synthesis](ai-efl-skill-improvements-vs-traditional.md) — related

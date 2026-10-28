@@ -52,3 +52,4 @@ Comparison against the SPP baseline (100% coverage, expertise 0.619–0.714 by a
 - [Recommended CFLS settings: b=f with b scaled to aptitude level (1, 2, or 3)](cfls-recommended-settings-b-equals-f.md) — related
 - [A diagonal b ≤ f pattern in the CFLS parameter space predicts better learning outcomes](cfls-diagonal-bf-pattern-better-outcomes.md) — related
 - [Optimal CFLS b and f settings vary by learner aptitude: higher aptitude benefits from larger values](cfls-optimal-bf-vary-by-aptitude.md) — related
+- [The introduction reports that in a simulation study the CFLS planner, relying only on inferred learner behaviour, worked highly effectively even compared to a planner using external prerequisite metadata](cfls-planner-effective-without-external-metadata.md) — related

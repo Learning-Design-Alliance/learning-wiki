@@ -47,3 +47,4 @@ The review's analysis of the 28 included studies (Fig. 1) found quasi-experiment
 ## Related Claims
 - [Most AI-motivation studies lasted less than 10 weeks, raising novelty-effect concerns and leaving long-term effects unexamined](ai-motivation-studies-short-duration-novelty-effect.md) — related
 - [RL-based educational applications concentrate on STEM subjects (n = 39 of 62 papers specifying a subject) and on college/higher-education learners (n = 30), with 36 papers not specifying a target group](rl-education-stem-higher-ed-concentration.md) — related
+- [AITS learning effectiveness evaluated via pre-test/post-test experimental/control group study showed very encouraging results](aits-learning-effectiveness-pre-post-study.md) — related

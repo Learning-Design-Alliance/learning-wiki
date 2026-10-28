@@ -34,6 +34,7 @@ MATHia is Carnegie Learning's adaptive mathematics intelligent tutoring system t
 ## Related Products and Programmes
 
 - [Problem Solving Tutor](problem-solving-tutor.md)
+- [ActiveMath](activemath.md)
 
 ## Key Sources
 - Murphy, A. (2026, July). Classroom-Based experimentation in a digital learning platform. Digital Promise. https://doi.org/10.51388/20.500.12265/306

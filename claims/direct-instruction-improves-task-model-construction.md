@@ -48,3 +48,4 @@ Mixed model analysis of the quasi-experimental pre/post design (experimental n =
 - [Training improved 5th graders' answer construction and evaluation within the experimental group, but not significantly relative to controls at post-test](training-improves-construct-response-within-group.md) — related
 - [The intervention did not improve 5th graders' extract-and-integrate performance](no-effect-extract-and-integrate.md) — related
 - [The intervention did not significantly improve performance on the integrated, unguided purposeful reading task](no-effect-integrated-purposeful-reading-task.md) — related
+- [Both groups improved significantly on harder-to-guess questions, and the experimental group outperformed the control group on them at post-test](se-prompts-harder-to-guess-questions.md) — related

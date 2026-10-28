@@ -45,6 +45,7 @@ The article introduces "a novel way of using machine-learning models to generate
 - [Use data-grounded simulation as a pre-deployment close-the-loop tool for ITS design decisions](../strategies/simulation-close-the-loop-its-redesign.md)
 - [Simulation-based pre-validation of adaptive coaching systems before classroom deployment](../strategies/simulation-prevalidation-before-classroom-deployment.md)
 - [Test an apprentice learner agent on previously unseen problems to determine when it has correctly learned target skills](../strategies/test-agent-on-unseen-problems.md)
+- [Use simulated students to test and compare adaptive-system strategies before engaging human students](../strategies/simulated-students-pre-deployment-testing.md)
 
 ## Key Sources
 - Qiao Zhang and Christopher MacLellan “Going Online: A simulated student approach for evaluating knowledge tracing in the context of mastery learning”. 2021. In: Proceedings of The 14th International Conference on Educational Data Mining (EDM21). International Educational Data Mining Society, 331-337. https://educationaldatamining.org/edm2021/

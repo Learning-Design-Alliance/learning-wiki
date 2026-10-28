@@ -48,3 +48,4 @@ Descriptive analysis of pass/fail expectations among students in the quartile-ba
 - [Exam score predictions decreased from the start to the end of the course for all performance quartiles, leaving poor performers overconfident and high performers underconfident](predictions-decrease-over-course-quartiles.md) — related
 - [Grandiose narcissism predicted overconfidence in exam score predictions at both time points, while vulnerable narcissism predicted less overconfidence only at course start and optimism was unrelated](narcissism-predicts-overconfidence.md) — related
 - [Three learners who studied only the framework's knowledge base all passed the NVIDIA Certified Professional in Agentic AI exam](three-learners-passed-ncp-aai-knowledge-base-only.md) — related
+- [A large share of passing students fail the Physics I. exam, which students treat as the hardest, usually leaving a week gap before attempting it](physics-exam-hardest-week-gap.md) — related

@@ -54,3 +54,4 @@ Session end-state measure from the log (whether the whole answer was given away)
 - [Contingent scaffolding improves learning more than fixed or absent support.](contingent-scaffolding-improves-learning.md) — a broader claim this one bears on
 - [Perceived task load and germane load did not differ between the contingent tutor and either baseline](perceived-load-unchanged-under-contingent-tutor.md) — related
 - [The leakage manipulation fires: ConvTutor leaks far more than PedTutor on the primary base, while probe accuracy saturates and cannot distinguish conditions](leakage-manipulation-check-probe-ceiling.md) — related
+- [Students asked for solution analysis an average of 2.85 times per exercise and gave up 5.49% of the time](php-its-engagement-metrics.md) — related

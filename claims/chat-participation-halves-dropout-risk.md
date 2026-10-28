@@ -50,3 +50,4 @@ Survival analysis of participation in the Bazaar Collaborative Reflection chats 
 - [Both general and personalized SRL interventions increased students' participation in chat-based collaborative activities compared to control](srl-interventions-increased-chat-activity-participation.md) — related
 - [This issue's MOOC study is reported to demonstrate that an intervention delivered outside chat activities promotes student participation in chat-based collaborative activities](mooc-outside-intervention-promotes-chat-participation.md) — related
 - [In-class chat engagement significantly predicts higher test scores in MAIC courses](chat-engagement-predicts-test-scores.md) — related
+- [Students used the synchronous chat room far more than other communication tools, while discussion forum use was relatively low](chat-room-dominant-communication-tool-usage.md) — related

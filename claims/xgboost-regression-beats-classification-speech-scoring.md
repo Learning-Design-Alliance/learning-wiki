@@ -48,3 +48,4 @@ Model comparison on the SOPI test split across six prompts, reported in the Resu
 - [In static concurrent prediction, TabPFN outperformed Random Forest, XGBoost and Linear Regression across the four emotional and proficiency targets](tabpfn-outperforms-baselines-static-concurrent-prediction.md) — related
 - [Lower model performance on Prompt 2 tracks poor inter-annotator agreement (QWK 0.560 vs 0.758)](prompt2-low-performance-tracks-annotator-agreement.md) — related
 - [On the TU/e CS overlap dataset, supervised NLP classifiers (Random Forest, XGBoost) outperform thresholding and zero-shot LLM baselines at detecting course overlap](rf-xgboost-beat-thresholds-and-llms-on-course-overlap.md) — related
+- [Among six tested MLP architectures, classifiers achieved higher exact-match accuracy on rubric scores, while regression and ensemble variants achieved higher QWK on some rubrics](aes-architecture-comparison-d7.md) — related

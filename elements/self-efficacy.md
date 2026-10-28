@@ -13,7 +13,7 @@ generated:
 # Self Efficacy
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 82 claims (47 for, 32 mixed, 3 against) · 70 studies (32 associational, 15 review, 14 causal, 5 quant-synthesis, 3 design, 1 qualitative), `q1`–`q4` · 19 of 70 report an effect size · 77 claims rest on one study
+> **Evidence** · 83 claims (48 for, 32 mixed, 3 against) · 71 studies (32 associational, 15 causal, 15 review, 5 quant-synthesis, 3 design, 1 qualitative), `q1`–`q4` · 20 of 71 report an effect size · 78 claims rest on one study
 
 ## Description
 Self efficacy is a learner's belief in their capability to succeed at a specific task or domain, not a general sense of self-worth. It functions as a proximal driver of learning: learners with higher efficacy set more ambitious goals, persist longer through difficulty, and recover faster from failure [Bandura, 1997]. Because it is domain-specific and malleable, it is a design target rather than a fixed learner trait.
@@ -130,6 +130,7 @@ Instructional design shapes self efficacy primarily through the four sources Ban
 - [The review reports, citing Yilmaz (2023), that incorporating LLMs into weekly programming exercises was associated with enhanced students' programming self-efficacy and motivation](../claims/llm-programming-exercises-self-efficacy-motivation-yilmaz.md) [+W]
 - [Maths self-efficacy predicted STEM career choice in females but not males, though the association was explained by maths achievement after adjustment](../claims/maths-self-efficacy-female-only-stem-choice.md) [~W]
 - [Motivational agent roles (Motivator and Mentor) were perceived as more human-like and improved learner self-efficacy](../claims/motivational-agents-improved-self-efficacy.md) [+W]
+- [The self-efficacy manipulation of the digital tutee was validated: students perceived the low-SE tutee as less confident than the high-SE tutee](../claims/se-manipulation-validated.md) [+W]
 
 ## The evidence by question
 

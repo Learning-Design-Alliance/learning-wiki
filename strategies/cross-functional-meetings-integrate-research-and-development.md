@@ -39,6 +39,7 @@ The report's ReadWorks case study recommends that product managers, engineers, a
 ## Related Strategies
 
 - [Plan and design backwards from a research-based learning goal to features, metrics, and measurement tools](backwards-design-from-research-based-goal.md)
+- [Build cross-disciplinary collaboration between AIED, robotics and electrical engineering to develop educational cobots](aied-robotics-cross-disciplinary-collaboration.md)
 
 ## Examples
 -

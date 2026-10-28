@@ -47,6 +47,7 @@ The article's responsible-use recommendation is to deploy LLM-based student simu
 - [Triangulate LLM-based discourse measures with multiple methods and seek input from participating communities](triangulate-llm-discourse-measures-with-community-input.md)
 - [Evaluate LLM-based tutors with human-inspired methods such as simulated students and behavior analysis before classroom deployment](human-inspired-evaluation-of-llm-tutors.md)
 - [Use simulated student profiles (expected path, struggling learner, off-topic input) as test scenarios for AI tutor QA](simulated-student-profile-test-scenarios.md)
+- [Use simulated students to test and compare adaptive-system strategies before engaging human students](simulated-students-pre-deployment-testing.md)
 
 ## Examples
 -

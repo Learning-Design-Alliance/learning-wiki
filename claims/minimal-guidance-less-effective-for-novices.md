@@ -326,3 +326,4 @@ This claim does not imply that pure discovery is useless or that direct telling 
 - [The thesis reports, citing Klahr and Nigam (2004), that discovered and explicitly taught science knowledge did not differ in quality](klahr-nigam-discovery-knowledge-quality-no-difference-cited.md) — reports the opposite
 - [Children choose exploratory approaches when less is known and social learning when reasonable solutions are at hand](children-select-exploratory-or-social-mode-by-knowledge-state.md) — related
 - [Environments with limited ready-made information spur children's exploration](limited-ready-information-spurs-exploration.md) — reports the opposite
+- [High school STEM students need explicit scaffolding to build AI abstract representations, parse problems for AI systems, and apply underlying mathematics](ai-learning-three-scaffolding-needs.md) — a narrower finding that bears on this claim

@@ -54,3 +54,4 @@ Cross-sectional review-based calibration of 79 problems from 11 parallel-class f
 - [The same review ruler supports longitudinal cross-semester problem tracking for one teacher's Data Structures and Algorithms B course](longitudinal-dsa-review-ruler-tracking.md) — related
 - [Item-difficulty orderings diverge across cohorts, with the weakest correlation between academics and students (r = 0.188) and no stable shared developmental hierarchy](cohort-difficulty-ordering-correlations-diverge.md) — related
 - [Background story does not significantly impact difficulty of introductory programming problems](background-story-no-difficulty-impact.md) — related
+- [A large share of passing students fail the Physics I. exam, which students treat as the hardest, usually leaving a week gap before attempting it](physics-exam-hardest-week-gap.md) — related

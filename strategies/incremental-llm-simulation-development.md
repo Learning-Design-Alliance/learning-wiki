@@ -40,6 +40,7 @@ For complex simulations, the article recommends building in stages rather than u
 
 - [Use AI-generated simulations where ready-made tools are unavailable, for edge cases, or as comparative learning tools](ai-simulations-as-complement-to-established-tools.md)
 - [Adopt AI incrementally in waves from simple to complex tasks, on free-tier tools, with mandatory multi-step human review before any document is issued](incremental-free-tier-ai-adoption-with-triple-review.md)
+- [Use simulated students to test and compare adaptive-system strategies before engaging human students](simulated-students-pre-deployment-testing.md)
 
 ## Examples
 -

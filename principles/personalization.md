@@ -27,7 +27,7 @@ sources:
 # Personalization
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 93 claims (51 for, 35 mixed, 7 against) · 96 studies (30 review, 23 causal, 12 theoretical, 9 associational, 9 qualitative, 8 design, 5 quant-synthesis), `q1`–`q4` · 8 of 96 report an effect size · 88 claims rest on one study
+> **Evidence** · 95 claims (53 for, 35 mixed, 7 against) · 98 studies (31 review, 23 causal, 12 theoretical, 9 associational, 9 qualitative, 9 design, 5 quant-synthesis), `q1`–`q4` · 8 of 98 report an effect size · 90 claims rest on one study
 
 ## Conditional relationship
 
@@ -174,6 +174,7 @@ Claims this page cited that were re-read against the model (on 2026-10-15, and a
 - [Poor readers are highly heterogeneous and do not all display the same type of reading impairment](../claims/poor-readers-heterogeneous-reading-behaviours.md) [+W] — attached 2026-10-27 from Genevieve McArthur et al. (2017), which proposed "Assess reading behaviours, proximal causes, and comorbidities before designing an individualised intervention".
 - [Adaptive hyperbooks can ameliorate discontinuous conceptual and narrative flow during flexible navigation](../claims/adaptive-hyperbooks-ameliorate-discontinuous-flow.md) [+W] — attached 2026-10-27 from Tom Murray (2003), which proposed "Provide flexible, adaptive on-line learning material to support opportunistic active reading"; tests this page's relationship.
 - [Log data from Next-TELL OLM use in three schools showed differences in visualisation usage among learners and teachers](../claims/next-tell-log-data-visualisation-usage-differences.md) [+W] — attached 2026-10-28 from Susan Bull et al. (2016), which proposed "Offering a choice of learner model visualisations to suit purpose, competency-set size and user preference".
+- [Consistent student models reduce learning problems and raise average performance, supporting reuse of student models across courses](../claims/consistent-model-improves-performance.md) [+W] — attached 2026-10-28 from Fabiano Dorça (2015), which proposed "Reuse consistent student models across courses and platforms to improve adaptation from the start"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 
@@ -203,6 +204,7 @@ Engagement, immediate achievement on an aligned test, time saved, delayed retent
 - [A Bayesian problem-selection strategy produced problems better tailored to students' knowledge than the default strategy](../claims/bayesian-problem-selection-better-tailored.md) [+W]
 - [The student model rapidly adapts to a child's knowledge level, reaching the first key skill after about 148 tasks](../claims/rapid-adaptation-to-learner-knowledge-level.md) [+W]
 - [Solving context-personalized AI-generated tasks raises interest more than solving standard tasks](../claims/gai-personalized-tasks-interest.md) [+W]
+- [LLM-generated student plans in a game-based learning environment are valid, with T5 plans closely matching student-created plans and GPT-3.5 producing more diverse plans, supporting real-time adaptive scaffolding](../claims/llm-plan-generation-adaptive-scaffolding-gbl.md) [+W]
 
 ## Related Principles
 - [Adaptive Learning](adaptive-learning.md) — the system-driven end of the personalization spectrum, where algorithms adjust difficulty and sequencing

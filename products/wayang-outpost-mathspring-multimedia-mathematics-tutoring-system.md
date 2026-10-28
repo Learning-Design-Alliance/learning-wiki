@@ -27,7 +27,8 @@ A multimedia intelligent tutoring system for middle- and high-school mathematics
 - [In the 2012 study, classes using Wayang showed significantly larger MAP gains in patterns and algebra than control classes (d = 0.38)](../claims/wayang-map-algebra-gains.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [ActiveMath](activemath.md)
 
 ## Key Sources
 - Arroyo, I., Woolf, B. P., Burelson, W., Muldner, K., Rai, D., & Tai, M. (2014). A Multimedia Adaptive Tutoring System for Mathematics that Addresses Cognition, Metacognition and Affect. Int J Artif Intell Educ 24:387–426. https://doi.org/10.1007/s40593-014-0023-y

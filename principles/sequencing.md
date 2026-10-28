@@ -48,7 +48,7 @@ sources:
 # Sequencing
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 47 claims (24 for, 22 mixed, 1 against) · 42 studies (15 causal, 10 theoretical, 9 review, 3 associational, 2 quant-synthesis, 2 design, 1 qualitative), `q1`–`q4` · 4 of 42 report an effect size · 43 claims rest on one study
+> **Evidence** · 48 claims (24 for, 23 mixed, 1 against) · 43 studies (16 causal, 10 theoretical, 9 review, 3 associational, 2 quant-synthesis, 2 design, 1 qualitative), `q1`–`q4` · 4 of 43 report an effect size · 44 claims rest on one study
 
 ## Conditional relationship
 
@@ -198,6 +198,7 @@ Performance during practice, unaided performance at the end of the unit, delayed
 - [Sequences beginning with visual prompts produce higher full-response rates across subsequent time steps, while sequences beginning with physical prompts end at the lowest rates.](../claims/visual-prompts-sustained-response-physical-prompts-decline.md) [+W]
 - [Task-order carryover effects on accuracy and strategy were small, fleeting, and did not replicate across experiments](../claims/order-effects-small-and-nonreplicating.md) [~W]
 - [Activity order influences strategy adoption: starting with the easier Beer's Law Lab doubles the rate of moving to a systematic strategy on the second simulation](../claims/activity-order-influences-strategy-adoption.md) [+W]
+- [The introduction reports that in a simulation study the CFLS planner, relying only on inferred learner behaviour, worked highly effectively even compared to a planner using external prerequisite metadata](../claims/cfls-planner-effective-without-external-metadata.md) [~W]
 
 ## Related Principles
 - [Holistic Learning](holistic-learning.md)

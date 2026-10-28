@@ -47058,5 +47058,201 @@
  "worked-examples\tone-shot exemplars\tprompting without one-shot exemplars": {
   "label": "worked examples vs prompting",
   "treatment_is_a": true
+ },
+ "active-learning\tstructured deliberative dialogue and interactive information exchange\tpreconceived notions before deliberation": {
+  "label": "structured deliberation and interactive information exchange vs preconceived notions",
+  "treatment_is_a": true
+ },
+ "debriefing\ttraining team leaders to present pre-briefs and interactive post-briefs\tnot stated": {
+  "label": "debriefing vs no debriefing",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tAQG studies generating feedback with questions\tAQG studies not generating feedback": {
+  "label": "feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tmultiple-try feedback\tno feedback": {
+  "label": "feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tpositive feedback for students' APT engagement\tno positive feedback for APT engagement": {
+  "label": "feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tdetector-triggered self-efficacy feedback\tcomparison intervention conditions": {
+  "label": "detector-triggered self-efficacy feedback vs comparison intervention conditions",
+  "treatment_is_a": true
+ },
+ "feedback-type\thighly informative automated feedback\tessential feedback as usual": {
+  "label": "highly informative automated feedback vs essential feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\thighly informative feedback\tessential feedback": {
+  "label": "highly informative feedback vs essential feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tinteractive tutoring feedback\tmultiple-try feedback": {
+  "label": "interactive tutoring feedback vs multiple-try feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tinteractive tutoring feedback\tno feedback": {
+  "label": "interactive tutoring feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tself-efficacy motivational messages\tcontrol-value, social identity, non-motivational, and no-message conditions": {
+  "label": "self-efficacy motivational messages vs other or no messages",
+  "treatment_is_a": true
+ },
+ "interleaving\tinterleaved problem order\tblocked problem order": {
+  "label": "interleaved vs blocked",
+  "treatment_is_a": true
+ },
+ "interleaving\tinterleaved problem ordering\tblocked problem ordering": {
+  "label": "interleaved vs blocked",
+  "treatment_is_a": true
+ },
+ "interleaving\tmixed-type word problems without recent priming\tblocked practice of one recently taught problem type": {
+  "label": "interleaved vs blocked",
+  "treatment_is_a": true
+ },
+ "praise\tpositive feedback for students' APT behavior\tno APT feedback": {
+  "label": "positive feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "prompts\tGPT-4 with few-shot learning\texpert human judgment": {
+  "label": "few-shot prompting vs expert human judgment",
+  "treatment_is_a": true
+ },
+ "prompts\tLLMs using advanced prompting strategies, including chain-of-thought\thuman-level performance": {
+  "label": "advanced prompting, including chain-of-thought, vs human-level performance",
+  "treatment_is_a": true
+ },
+ "scaffolding\tPETAL direct scaffolding of recursive programming problem solving\tcontrol group": {
+  "label": "scaffolding vs no scaffolding",
+  "treatment_is_a": true
+ },
+ "scaffolding\texplicit scaffolding for abstract representations\tno explicit scaffolding for abstract representations": {
+  "label": "scaffolding vs no scaffolding",
+  "treatment_is_a": true
+ },
+ "scaffolding\texplicit scaffolding for abstract search-tree representations\tless or no explicit scaffolding": {
+  "label": "scaffolding vs less or no scaffolding",
+  "treatment_is_a": true
+ },
+ "scaffolding\texplicit scaffolding to parse problems in terms AI systems can operate on\tno explicit parsing scaffolding": {
+  "label": "scaffolding vs no scaffolding",
+  "treatment_is_a": true
+ },
+ "scaffolding\texplicit support connecting mathematics to AI problems\tunsupported application of prior mathematical knowledge": {
+  "label": "scaffolding vs unsupported application",
+  "treatment_is_a": true
+ },
+ "scaffolding\thuman tutors adapting advice and teaching remedial concepts\tWhy2-Atlas hints assuming students already knew vectors": {
+  "label": "adaptive tutoring vs nonadaptive hints",
+  "treatment_is_a": true
+ },
+ "scaffolding\tin-the-moment support linking algorithm analysis to students' mathematical knowledge\tno mathematical-application support": {
+  "label": "scaffolding vs no scaffolding",
+  "treatment_is_a": true
+ },
+ "scaffolding\tintelligent tutor with graduated scaffolding for planning under uncertainty\tintuitive planning without the tutor": {
+  "label": "scaffolding vs no scaffolding",
+  "treatment_is_a": true
+ },
+ "self-explanation\tParsons problems with menu-based SE prompts\tsame Parsons problems without SE prompts": {
+  "label": "self-explanation prompts vs no self-explanation prompts",
+  "treatment_is_a": true
+ },
+ "self-explanation\tParsons problems with menu-based self-explanation prompts\tParsons problems without self-explanation prompts": {
+  "label": "self-explanation prompts vs no self-explanation prompts",
+  "treatment_is_a": true
+ },
+ "self-explanation\tmenu-based self-explanation prompts\tno self-explanation prompts": {
+  "label": "self-explanation prompts vs no self-explanation prompts",
+  "treatment_is_a": true
+ },
+ "simulation\tteacher or experimenter role-played the tutee\tsixth-grade peer played the tutee": {
+  "label": "adult/experimenter role-play vs peer role-play",
+  "treatment_is_a": true
+ },
+ "technology-tool\t10 hours of Fractions Tutor instruction\tpretest baseline": {
+  "label": "Fractions Tutor instruction vs pretest baseline",
+  "treatment_is_a": true
+ },
+ "technology-tool\t10-fold cross-validated machine-learning classifiers\tmost-frequent-class baseline": {
+  "label": "Machine-learning classifiers vs most-frequent-class baseline",
+  "treatment_is_a": true
+ },
+ "technology-tool\t14-week interactive ChatGPT integration\t8-week automated one-way AI feedback": {
+  "label": "Interactive ChatGPT integration vs automated one-way AI feedback",
+  "treatment_is_a": true
+ },
+ "technology-tool\t2-level Longformer\t4-level model": {
+  "label": "2-level Longformer vs 4-level model",
+  "treatment_is_a": true
+ },
+ "technology-tool\t3D anatomical models\t2D anatomical models": {
+  "label": "3D anatomical models vs 2D anatomical models",
+  "treatment_is_a": true
+ },
+ "technology-tool\t3D virtual-reality vocabulary training\tnon-virtual word-to-picture association training": {
+  "label": "Virtual-reality vocabulary training vs non-virtual word-to-picture association training",
+  "treatment_is_a": true
+ },
+ "technology-tool\t6-week Calcularis training\t6-week waiting period": {
+  "label": "Calcularis training vs waiting period",
+  "treatment_is_a": true
+ },
+ "technology-tool\t70B model cross-prompt pre-finetuning\t70B instruction-tuned baseline": {
+  "label": "Cross-prompt pre-finetuning vs instruction-tuned baseline",
+  "treatment_is_a": true
+ },
+ "technology-tool\t8B model cross-prompt pre-finetuning\t8B instruction-tuned baseline": {
+  "label": "Cross-prompt pre-finetuning vs instruction-tuned baseline",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAES performance analyzed per writing task\tAES performance analyzed globally across datasets": {
+  "label": "Per-task analysis vs global analysis across datasets",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAES rubric-score prediction model\tagreement between two human raters": {
+  "label": "AES model scoring vs human-rater agreement",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAGE with the voting mechanism\tAGE models without the voting mechanism": {
+  "label": "AGE with voting mechanism vs AGE without voting mechanism",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI autograder\thuman graders": {
+  "label": "AI autograding vs human grading",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI chatbot using LLMs\tcomparison condition not specified": {
+  "label": "LLM chatbot vs unspecified comparison",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI chatbots using LLMs\tnon-AI vocabulary instruction": {
+  "label": "LLM chatbot vs non-AI vocabulary instruction",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI interventions\tnon-AI or traditional instruction": {
+  "label": "AI intervention vs non-AI or traditional instruction",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI interventions in school EFL teaching\tcomparison condition not specified": {
+  "label": "AI intervention in school EFL teaching vs unspecified comparison",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI overuse\tless or no AI use": {
+  "label": "More AI use vs less or no AI use",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-based assessment system using NLP and code analysis\tassessment without the AI system, not specified": {
+  "label": "AI-based assessment system vs assessment without AI system",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-based automated grading\tmanual grading": {
+  "label": "AI-based automated grading vs manual grading",
+  "treatment_is_a": true
  }
 }

@@ -50,3 +50,4 @@ Meta-analytic synthesis of cognitive contributions to team performance (Table 4)
 - [Team attitudes predict team performance, with collective efficacy (20%) and psychological safety (17%) explaining the most variance](team-attitudes-predict-team-performance.md)
 - [Constructive conflict positively predicts the development of a shared mental model of the task in teams](constructive-conflict-builds-shared-mental-models.md)
 - [Co-construction alone does not contribute to shared mental model development and shows a negative unique effect](co-construction-alone-hinders-shared-mental-models.md)
+- [Teams with shared mental models synchronize more easily, while teams with inconsistent models suffer ineffective team processes](shared-models-synchronize-inconsistent-models-suffer.md) — related

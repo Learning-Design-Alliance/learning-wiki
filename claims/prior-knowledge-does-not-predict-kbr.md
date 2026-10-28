@@ -55,3 +55,4 @@ Path analysis in the classroom study found pre-test scores did not significantly
 - [Tutors showed significant pre-to-post gains in both conceptual knowledge and procedural skill after teaching with adaptive follow-up questioning](significant-prepost-gains-ckt-pst.md) — related
 - [Game Show availability did not affect tutor learning on either test](game-show-no-effect-tutor-learning.md) — related
 - [Tutoring after competition was rare and not predictive of procedural learning gains](low-tutoring-after-competition-not-predictive.md) — related
+- [High prior knowledge students scored significantly higher on SE prompts overall and on conceptual SE prompts, but not on procedural SE prompts](hp-students-score-higher-se-prompts.md) — related

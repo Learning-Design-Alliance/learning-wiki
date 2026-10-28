@@ -44,6 +44,7 @@ The article's practical implications recommend that instructors actively foster 
 - [Future AI-WTC research should use longitudinal designs, triangulated WTC measures, diverse samples, comparative tool research, pedagogically guided AI integration, and theory-driven models](ai-wtc-future-research-directions.md)
 - [Growth Mindset Feedback](growth_mindset_feedback.md)
 - [Embed SRL-oriented AIGC pedagogy: prompt-and-reflect routines, verification rubrics, and feedback literacy](srl-oriented-aigc-pedagogy-routines.md)
+- [Comprehensive integration approach: experiential teacher learning, iterative design, context-specific tool adaptation, and anxiety mitigation](ai-efl-integration-challenges-strategy.md)
 
 ## Examples
 -
