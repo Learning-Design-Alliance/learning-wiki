@@ -58,3 +58,4 @@ PLS-SEM analysis in the 434-teacher sample testing H1–H4. PU→AOU (β = 0.178
 - [Performance expectancy, social influence, novelty value, and creative competence positively predict art and design students' behavioral intention to use T2I GenAI tools](pe-si-nv-cc-positive-predict-bi-t2i.md) — related
 - [Perceived ease of use positively influenced attitudes toward using the AVDS tool](peou-positive-impact-attitude-avds.md) — a narrower finding that bears on this claim
 - [Perceived ease of use positively influenced perceived usefulness of the AVDS tool only after use](peou-positive-impact-pu-after-avds-use.md) — related
+- [Engaging K-12 teachers in open educational practices significantly improved their perceived ease of use and self-efficacy toward OER, with small-to-medium effect sizes](oep-improved-pe-and-se-toward-oer.md) — related

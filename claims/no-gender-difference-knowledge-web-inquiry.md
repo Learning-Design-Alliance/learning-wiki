@@ -51,3 +51,4 @@ Multilevel Model 1 fixed-effect results from the pretest/posttest study. The Gir
 - [All student groups benefited equally in inquiry skills improvement after Web-based collaborative inquiry, with no significant effects of gender, achievement level, or academic track](equal-inquiry-skills-gains-all-groups.md) — related
 - [Increases in the percentage of students in the Harlem Fitness Zone were generally larger for boys than for girls](healthy-harlem-hfz-gains-larger-for-boys.md) — related
 - [The boys-versus-girls achievement gap narrows and disappears in the highest SES group](sex-gap-in-ea-narrows-at-highest-ses.md) — related
+- [Girls produced 34 comprehensive PSAs and dozens of mini-Scratch projects, providing project-based evidence of computing knowledge gain](e5c-scratch-project-artifacts.md) — related

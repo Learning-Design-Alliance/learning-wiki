@@ -52,3 +52,4 @@ Narrative review, section 2.1. The review attributes this finding to Kim and Kwo
 - [Language-learning app design is criticized as basic, replicating earlier technologies with limited instruction and feedback](mall-app-design-basic-limited-feedback-criticism.md) — related
 - Mobile language learning apps are used mainly for vocabulary learning among surveyed app users — related
 - Youth possess sociocultural and cognitive know-how for knowledge application, but indigenous knowledge was not integrated and mobilization is lacking — related
+- [Listening was the most frequently practiced language skill in the applications, while grammar was the least frequently practiced](listening-most-practiced-skill-apps.md) — related

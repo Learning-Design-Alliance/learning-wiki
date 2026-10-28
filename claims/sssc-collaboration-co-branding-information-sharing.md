@@ -49,3 +49,4 @@ Director interview findings on collaboration types across 29 states. The report 
 - [Nearly all responding SSSCs conducted trainings in 2021, with reporting centers documenting over a thousand training events reaching tens of thousands of participants](sssc-training-volume-2021.md) — related
 - Communication, cooperation, and coordination were the most critical factors in successful CLASP programming — related
 - [SSSC missions most frequently emphasize providing resources, training, and education and creating safer school environments, with some centers serving as school safety hubs](sssc-missions-resources-training-safer-schools.md) — related
+- [Safety trainers utilize organizational social and material resources for training development](trainers-utilize-organizational-resources-for-training-development.md) — related

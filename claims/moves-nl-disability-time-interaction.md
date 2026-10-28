@@ -52,3 +52,4 @@ The two-way ANOVA on pre/post-test scores of 30 middle-school students found "a 
 - [Students without disabilities scored significantly higher than students with disabilities on the integer arithmetic pre-test and overall](moves-nl-condition-main-effect.md) — related
 - [Students with disabilities showed significant pre-to-post gains in integer arithmetic after the MOVES-NL intervention, while students without disabilities did not](moves-nl-disability-gains-integers.md) — possibly the same claim (merge candidate)
 - [A significant main effect of time indicated overall higher post-test than pre-test scores](moves-nl-time-main-effect.md) — a broader claim this one bears on
+- [A significant occasion-by-group interaction in SOLO scores indicates groups behaved differently between pre- and post-test](occasion-by-group-interaction-solo.md) — related

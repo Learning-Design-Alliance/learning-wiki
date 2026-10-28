@@ -54,3 +54,4 @@ The review reports this second-hand from Son's (2024) synthesis, attributing the
 - [AI is not yet ready to replace teachers but presents a real possibility to augment them](ai-augments-not-replaces-teachers.md) — related
 - [A minimalist approach to intelligence and adaptivity can still achieve practical success at scale in real classrooms](a-little-intelligence-can-go-a-long-way.md) — related
 - [Reports of transformation in teaching practices are associated with changes in the roles of teachers and students, with transforming uses focused on active methodologies](transformation-associated-with-role-shifts-active-methodologies.md) — related
+- [SAMR describes levels of subject-based technology integration but omits pedagogical, technological and learning-design supports for transitioning between stages](samr-narrow-descriptive-limits.md) — related

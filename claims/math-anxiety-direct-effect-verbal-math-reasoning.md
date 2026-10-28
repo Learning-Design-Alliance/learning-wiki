@@ -88,3 +88,4 @@ SEM model comparison for NO in the same sample; the direct math-anxiety path was
 - [Higher mathematics test anxiety predicts earlier practice-session exit, mediating lower learning gains in an adaptive math program](math-anxiety-earlier-exit-lower-gains.md) — related
 - [Text-structure knowledge in passages and word problems mediates acquisition and cross-domain transfer effects](text-structure-knowledge-mediates-transfer.md) — related
 - [Numerical cognition assessed at end of first grade statistically mediates associations between early processing speed, working memory, calculation skill, word-problem solving, and attentive behavior and later calculations, word-problem solving, and reading](numerical-cognition-mediation-academic-outcomes.md) — related
+- [A partial mediation model fits the TEM–sentiment–motivation data better than a full mediation model](partial-mediation-model-fits-better.md) — related

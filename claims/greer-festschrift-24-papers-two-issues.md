@@ -45,5 +45,7 @@ Editors' introduction describing the composition of the Festschrift special issu
 
 
 ## Related Claims
+
 - [Part 1 of the Festschrift contains 7 papers on learner modelling and personalization and 4 on evaluation, reflecting Jim Greer's early interests](greer-festschrift-part1-topic-distribution.md) — related
 - [Part 2 of the Festschrift contains 3 papers on peer learning, collaboration and the social dimension, 2 on privacy, and 8 on learning analytics and educational data mining](greer-festschrift-part2-topic-distribution.md) — related
+- [The ETR&D special issue on Cognition and Learning Technology comprises seven papers whose publication was spread across three issues of the journal rather than collected in one issue as planned.](etrnd-cognition-learning-technology-special-issue-publication-spread.md)

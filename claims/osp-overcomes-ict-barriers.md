@@ -52,3 +52,4 @@ The article's authorial assertion about the OSP approach in Singapore practice, 
 - [A preliminary iPad case study confirmed the creative potential of the elderly and tablets' potential to overcome ICT adoption challenges](ipad-case-study-elderly-creative-collaboration.md) — related
 - [GenAI can help students overcome contextual constraints when eliciting feedback](genai-overcomes-eliciting-constraints.md) — related
 - [Older adults manifest more than twice as many user difficulties as younger users in ICT contexts](older-adults-twice-user-difficulties-ict.md) — related
+- [Front-loaded, isolated ICT courses in teacher education are criticised as ineffective for building broader digital capabilities](isolated-ict-courses-ineffective-critique.md) — related

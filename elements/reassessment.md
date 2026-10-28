@@ -76,6 +76,7 @@ Reassessment leverages the testing effect a second time: the initial response fu
 **[IMathAS / MyOpenMath](https://www.myopenmath.com)** — Homework systems that allow re-attempts after viewing worked solutions, with prompts to explain what changed.
 
 **Exam wrappers** — Post-exam reflection forms asking students to categorize their errors and plan revisions, then re-solve selected items.
+- [Use peer feedback to prompt students to reconsider design judgments and engage in reflection](../strategies/peer-feedback-prompts-reflective-design-judgment.md)
 
 ## Key Sources
 - Mazur, E. (1997). *Peer instruction: A user's manual*. Prentice Hall.

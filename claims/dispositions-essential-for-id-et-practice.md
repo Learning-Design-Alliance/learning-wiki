@@ -50,3 +50,4 @@ In the dispositions findings, the article reports that “Thirteen individuals m
 - [ID/ET professionals report that cross-disciplinary skills and dispositions are crucial and under-emphasized in existing competency lists](cross-disciplinary-skills-dispositions-underemphasized.md) — related
 - [Higher education instructional designers recognize dispositions as important learning goals in their course designs](ids-recognize-dispositions-as-learning-goals.md) — related
 - [Most assessment methods for dispositions were suggestions rather than implemented practices, and some designers had no assessment ideas](disposition-assessment-mostly-unimplemented.md) — related
+- [A scoping review found no existing teacher-education digital frameworks include more than passing mention of dispositions or safety/wellbeing considerations](existing-frameworks-omit-dispositions-safety.md) — related

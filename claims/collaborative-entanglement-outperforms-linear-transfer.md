@@ -47,3 +47,4 @@ The editorial's connection-to-practice section reports this conclusion, attribut
 ## Related Claims
 - [The editorial reports that successful collaborative making teams resolved coordination challenges through intertwined social-discursive and materially mediated processes](making-team-success-coordination-entanglement.md) — a narrower finding that bears on this claim
 - [CSCL relations matter in two ways: interventions informed by empirical studies can support collaboration, and CSCL environments can foster key competencies](cscl-relations-matter-two-ways.md) — related
+- [Education research has had negligible impact on educational practice, a pattern confirmed across multiple reviews](negligible-impact-education-research-practice.md) — related

@@ -13,7 +13,7 @@ generated:
 # Achievement Goal Orientation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 107 claims (58 show a difference, 33 mixed, 16 no difference) · 43 studies (18 associational, 11 causal, 7 review, 4 quant-synthesis, 3 theoretical), `q2`–`q4` · 16 of 43 report an effect size · 105 claims rest on one study
+> **Evidence** · 108 claims (59 show a difference, 33 mixed, 16 no difference) · 44 studies (18 associational, 11 causal, 8 review, 4 quant-synthesis, 3 theoretical), `q2`–`q4` · 17 of 44 report an effect size · 106 claims rest on one study
 
 ## Description
 Achievement goal theory distinguishes mastery goals (developing competence and understanding) from performance goals (showing competence relative to others), each with an approach form (seeking success) and an avoidance form (avoiding failure or looking incompetent). Goals are measured by self-report and are shaped by classroom goal structures: how tasks, evaluation and recognition are organised. Mastery-approach goals generally go with persistence and deeper processing, performance-avoidance goals with anxiety and lower achievement. It is one part of [motivation](motivation.md).
@@ -142,6 +142,7 @@ Achievement goal theory distinguishes mastery goals (developing competence and u
 - [Participants with high achievement motivation showed a learning bias toward goal-relevant stimuli, whereas participants with lower achievement motivation did not](../claims/high-achievement-motivation-learning-bias-simple-slopes.md) [+M] — learners who differ on it differ in outcomes
 - [Goal orientation affects children's help-seeking behaviour in Ecolab II](../claims/goal-orientation-affects-help-seeking-ecolab-ii.md) [+M] — learners who differ on it differ in outcomes
 - [Matching system goal-orientation feedback to child's goal orientation may improve learning gains](../claims/matching-goal-orientation-improves-gains.md) [~M] — an instructional effect differs with it
+- [Creating educational Vlogs improved trainee teachers' motivational beliefs relative to written reflections](../claims/vlogs-improved-trainee-teacher-motivational-beliefs.md) [+M] — instruction changes it
 
 ## Related Learner Variables
 

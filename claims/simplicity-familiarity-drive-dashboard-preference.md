@@ -70,3 +70,4 @@ Interview coding of heatmap rationales: most teachers reported finding the heatm
 - [Students avoided metaphorical visualizations they perceived as childish or insufficiently rigorous, signaling disciplinary legitimacy concerns even when the tools could help them](legitimacy-disciplinary-identity-resistance.md) — related
 - [Several teachers found the eBooks not user friendly, citing issues with images covering the text.](hero-elementary-ebooks-not-user-friendly-images-covering-text.md) — related
 - [Students strongly prefer qualitative tree visualizations over quantitative radar charts of classroom collaboration](students-prefer-qualitative-tree-over-radar.md) — related
+- [Teachers perceived OUA as useful and easy to use, with positive cognitive evaluations suggesting low academic resistance](teachers-perceive-oua-useful-easy.md) — related

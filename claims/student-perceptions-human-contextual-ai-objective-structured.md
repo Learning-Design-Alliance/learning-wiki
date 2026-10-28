@@ -56,3 +56,4 @@ Thematic analysis of student perceptions in the mixed methods study of 13 peer g
 - [In the second assessment stage, ChatGPT-4o feedback was significantly higher than peer group feedback in constructiveness, accuracy and concreteness](stage2-chatgpt-feedback-higher-constructiveness-accuracy-concreteness.md) — related
 - [Students identified lack of sensitivity to linguistic nuance as a limitation of AWA feedback](awa-lacks-sensitivity-linguistic-nuance.md) — related
 - [Human experts provide more nuanced and mixed feedback than ChatGPT-4o and Perplexity in mixed reality simulation mentoring](human-experts-more-nuanced-feedback-than-llm-mrs.md) — related
+- [Text-based rubrics alone provide insufficient contextual, dynamic and procedural information to support rich mental model development of complex skills](text-rubrics-lack-contextual-dynamic-procedural-information.md) — related

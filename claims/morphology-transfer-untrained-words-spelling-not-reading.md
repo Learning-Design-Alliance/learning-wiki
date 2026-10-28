@@ -53,3 +53,4 @@ RVE analyses of untrained items: reading (5 effect sizes, 3 studies) was not dis
 - [Reading interventions improve word spelling (g = 0.93) more than word reading (g = 0.63)](spelling-gains-exceed-reading-gains.md) — related
 - [Prosodiya training improves self-designed spelling test scores including near transfer to untrained words](prosodiya-sdst-near-transfer-effect.md) — related
 - [Interleaved practice yields lasting learning effects at delayed posttests in spelling and second-language grammar](interleaving-lasting-learning-delayed-posttests.md) — related
+- [Within the GL group, word-reading and spelling gains were larger during the intervention than during the follow-up period](gl-gains-intervention-vs-followup.md) — related

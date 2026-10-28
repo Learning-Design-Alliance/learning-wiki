@@ -9,6 +9,7 @@ generated:
   at: 2026-10-18
 evidence_strength: weak
 newest_evidence: 2026
+source_checked: 2026-10-28
 sources:
   - id: mohammed-saqr-2026
     resource: "https://doi.org/10.1007/s11412-025-09464-5"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-10-28 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Explicit group regulation occurred rarely and was triggered by challenges, questions, or disagreements, frequently with teacher coregulation. [→ Mohammed Saqr 2026](#mohammed-saqr-2026)
@@ -51,3 +52,4 @@ The article reports this pattern of regulatory occurrence from its temporal netw
 - [The alerting & guiding dashboard did not increase teacher coregulation more than the mirroring dashboard (H3 not supported); mirroring increased intervention rates (non-significant) while guiding-condition interventions were rare and mostly coregulation strategies](guiding-dashboard-did-not-increase-coregulation.md) — related
 - [Co-regulation and socially shared regulation occur rarely in synchronous online collaborative learning](corl-ssrl-rare-synchronous-cscl.md) — related
 - [Regulatory sequencing in synchronous CSCL: cognitive interactions initiate cycles, co-regulation iterates with task execution, and SSRL follows socio-emotional interactions](regulation-sequencing-pattern-synchronous-cscl.md) — related
+- [Safety trainers guide social interaction in training situations by facilitating interaction and maintaining temporal structure](trainers-guide-social-interaction-in-safety-training.md) — related

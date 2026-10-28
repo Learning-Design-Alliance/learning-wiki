@@ -59,3 +59,5 @@ Measurement model evaluation of the 38-item, nine-construct questionnaire in the
 - [A moderate negative correlation exists between cognitive offloading tendency and critical thinking while the constructs remain empirically distinct](cot-cts-correlation-distinct-constructs.md) — related
 - [The SKT-SRL shows acceptable-to-very good internal consistency across subscales](skt-srl-reliability.md) — related
 - [AITAQS dimension reliabilities fall within 0.721–0.745 Cronbach's α, exceeding acceptability thresholds, with all CR values above 0.7 though some AVE values fall below 0.5.](aitaqs-reliability-alpha-cr-ave.md) — related
+- [Most proposed constructs showed high internal consistency (Cronbach's alpha above 0.70) but control variables did not and were removed](scale-reliability-alphas-control-variables-removed.md) — reports the opposite
+- [The 23-item SETSES shows acceptable reliability and convergent validity, with partial discriminant validity (mastery experiences not distinct from vicarious information)](setses-validity-reliability-23-item.md) — a narrower finding that bears on this claim

@@ -65,7 +65,9 @@ Situated learning holds that knowledge is inseparable from the social, material,
 - [Sociocultural theory as the lens through which SLA views learners and learning](sociocultural-theory-lens-sla-learners.md)
 
 ## Examples
+
 - [Epistemic Games](../patterns/epistemic-games.md)
+- [Situational training game design pattern: authentic scenarios plus progressive challenge and real-time feedback](../designs/situational-training-game-design-pattern.md)
 
 ## Key Sources
 - Lave, J., & Wenger, E. (1991). *Situated learning: Legitimate peripheral participation*. Cambridge University Press. [doi:10.1017/cbo9780511815355](https://doi.org/10.1017/cbo9780511815355)

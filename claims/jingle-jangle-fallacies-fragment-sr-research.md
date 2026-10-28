@@ -53,3 +53,4 @@ Theoretical argument in the review's introduction defining the jingle fallacy an
 - [SR mechanisms across the four traditions intersect in redundant, complementary, and compensatory ways](sr-traditions-redundant-complementary-compensatory-interactions.md) — related
 - [Jingle-jangle fallacies plague motivation constructs, requiring explicit justification of construct distinctions](jingle-jangle-motivation-constructs.md) — related
 - [Embodiment research lacks a shared vocabulary, with over 20 distinct labels for embodiment-related concepts appearing in the last decade](embodiment-terminology-fragmentation-over-twenty-labels.md) — a narrower finding that bears on this claim
+- [Conceptual (theoretical/literature-based) papers are among the most highly cited in instructional technology journals](conceptual-papers-most-cited-instructional-technology.md) — related

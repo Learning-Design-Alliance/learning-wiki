@@ -44,6 +44,7 @@ The article recommends that, because initial self-efficacy predicts early task i
 
 - [Communicate High Expectations and Provide Appropriate Support](communicate_high_expectations_and_provide_appropriate_support.md)
 - [Explicate, Validate, and Address Negative Emotions](explicate-validate-and-address-negative-emotions.md)
+- [Design introductory educational technology courses around the four sources of self-efficacy, prioritizing mastery experiences](design-edtech-courses-around-self-efficacy-sources.md)
 
 ## Examples
 -

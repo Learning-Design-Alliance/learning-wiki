@@ -73,3 +73,4 @@ Independent-groups pre-post study (Burris & Garton, 2007), n = 77 PBL vs 63 cont
 - [AI-supported PBL students obtain significantly higher posttest academic achievement scores in robotics programming than traditional-lecture students when controlling pretest scores](ai-pbl-higher-posttest-academic-achievement.md) — related
 - [Problem-based learning environments consistently improve students' critical thinking compared with lecture-based instruction](pbl-consistently-improves-critical-thinking.md) — reports the opposite
 - P(j)BL research conceptualizes CT more often as processes than as dispositions, and many studies define and measure CT inconsistently — related
+- [The Irûmi robot-based program improved second-graders' computational thinking scores by 0.089 standard deviations in Paraguay](irumi-ct-score-effect-0-089-sd.md) — related

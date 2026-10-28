@@ -112,6 +112,7 @@ SRL instruction works best when strategy teaching is embedded in authentic subje
 - [Retrieval Practice](retrieval-practice-activities.md) — a high-utility strategy SRL instruction should teach learners to choose over rereading
 - [Complement deep-processing cognitive prompts with practice testing, distributed practice, and metacognitive or motivational prompts to support long-term retention](complement-deep-prompts-with-testing-spacing-and-other-prompts.md)
 - [Instructors foster metacognition through reflection on process, direct immediate feedback, and taught study habits](foster-metacognition-reflection-feedback-study-habits.md)
+- [Foster autonomy and curiosity-driven learning by embedding metacognitive processes and self-regulation elements into education](embed-metacognitive-srl-support-post-pandemic.md)
 
 ## Examples
 - **[Reciprocal Teaching](reciprocal_teaching.md) (Palincsar & Brown)** — small groups rotate the roles of summarizer, questioner, clarifier, and predictor while reading; the teacher models then fades, transferring regulation to students over ~20 sessions.

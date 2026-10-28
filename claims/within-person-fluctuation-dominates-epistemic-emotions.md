@@ -61,3 +61,4 @@ Descriptive analysis of the 212 session-level emotion ratings; the ICC for curio
 - [Lower secondary students' situation-specific engagement varies most strongly between lessons within students, with smaller between-student variation](engagement-varies-most-between-lessons-within-students.md) — related
 - [Most variance in state achievement goals and emotions is situational (within-person) rather than between-person](state-goals-emotions-variance-mostly-situational.md) — possibly the same claim (merge candidate)
 - [Vocabulary engagement measured by app logs varies mostly within students across days](app-log-engagement-mostly-within-person-variability.md) — related
+- [ID students' reflective design judgment fluctuates across the design process and often increases as the design progresses, moving from unreflective to reflective judgments](reflective-judgment-fluctuates-increases-over-design.md) — related

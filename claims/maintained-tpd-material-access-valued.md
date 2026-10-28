@@ -48,3 +48,4 @@ The article reports a single case, citing Buckley (2020), of a faculty developme
 ## Related Claims
 - [The most common rationale treats the teacher network as a source of professional development (32 of 51 studies)](network-as-source-of-tpd-rationale.md) — related
 - [Networks and professional learning communities of practicing principals support sharing best practices and problem solving on the job](principal-networks-professional-learning-communities.md) — related
+- [Rapid shifts from face-to-face to digital delivery during the pandemic forced teachers to sacrifice appropriate designs to meet deadlines](pandemic-pivot-sacrificed-appropriate-designs.md) — related

@@ -46,3 +46,5 @@ The response reports Bennett et al.'s conceptualization that "teachers' design p
 
 ## Related Claims
 - [Participants reported that AdaPT reduced perceived preparation workload and aligned with their natural lesson adaptation workflows](adapt-reduced-perceived-workload.md) — related
+- [The reported teacher design process is not specifically for online learning design, but may inform best practices for supporting faculty's online learning design](design-process-not-specific-to-online-learning.md) — related
+- [A qualitative study of 30 university teachers reported three design practices that are incremental and iterative](three-incremental-iterative-design-practices-university-teachers.md) — related

@@ -54,3 +54,4 @@ The review's analysis identifies usability problems as the first of four reasons
 - [Interesting but irrelevant details can impair comprehension and transfer, with effects that vary with the material and the learner](seductive-details-effect.md) — related
 - [Synchronous autonomous AI suggestions increased perceived writing efficiency but also caused distraction and mental overload during writing](synchronous-suggestions-efficiency-and-distraction.md) — related
 - [Macrosystem conditions such as social media and AI access shape availability to learn, with FoMO causing distractions during learning](macrosystem-fomo-distracts-learning.md) — related
+- [Educational social media use carries challenges: cognitive overload, misinformation, distraction, blurred privacy boundaries, and self-esteem effects](social-media-educational-challenges-overload-misinformation-privacy.md) — related

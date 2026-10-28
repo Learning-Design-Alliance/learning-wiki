@@ -49,3 +49,4 @@ Conceptual claim advanced by the framework: each pillar corresponds to a documen
 - [Falsifiable hypothesis: unrestricted AI use on deep-processing tasks will produce a product–process dissociation—higher-rated assignments but lower unaided delayed transfer](h3-product-process-dissociation-hypothesis.md) — related
 - [Proposition 1: outcome-aligned ownership performances will predict later individual transfer beyond AI-assisted product quality alone](proposition-1-ownership-predicts-transfer.md) — related
 - [An internal program review found absence of a consistent pedagogical framework and need for active case-based materials](program-review-five-design-findings.md) — related
+- [Positive pivotal factors in one sustainability pillar can compensate for negative pivotal factors in other pillars of an online study program](pillar-compensation-online-program-sustainability.md) — reports the opposite

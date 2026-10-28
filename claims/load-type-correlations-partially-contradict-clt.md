@@ -52,3 +52,4 @@ Construct validity part of the meta-analysis: correlations between ICL, ECL, and
 - [Prior knowledge correlates negatively with delayed ICL and ECL and positively with delayed GCL, consistent with meta-analytic findings](prior-knowledge-correlates-with-load-types.md) — related
 - [Extraneous, essential, and generative processing are tapped by different assessment instruments, partially validating the triarchic theory](triarchic-processing-separable-measures.md) — related
 - [In the new questionnaire, ICL and ECL correlate positively while both correlate negatively with GCL](icl-ecl-positive-gcl-negative-correlations.md) — a narrower finding that bears on this claim
+- [Design guidelines from motivational and complex-skill theories (4C/ID, ARCS, CLT) contradict multimedia learning guidelines (CTML), producing seven specific design dilemmas](seven-design-dilemmas-multimedia-vs-complex-skill-guidelines.md) — related

@@ -54,3 +54,4 @@ Secondary qualitative finding from the gateway math study of faculty and student
 - [Students valued the independence, real-world relevance, hands-on work, and collaboration in challenge based lessons](students-valued-independence-and-real-world-relevance.md) — related
 - [A substantial fraction of students reported increased interest in physics and ability to connect physics to their life science majors and careers](life-science-examples-increase-interest-and-relevance.md) — related
 - [Most teacher programs required significant time, effort, and resources, with mean program attrition of 12.69% and rates reaching 66.67%, suggesting time demands may limit real-world translation](teacher-program-time-burden-attrition.md) — related
+- [Educators perceived open data's broad scope, relevance to learners, authenticity, and value as a basis for data literacies as key characteristics for learning](open-data-characteristics-for-learning.md) — related

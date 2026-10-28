@@ -51,3 +51,4 @@ Step-wise regression with challenge time (minutes on an unsolvable task) as the 
 - [Downgrading to simpler code after failure on personally hard levels is negatively associated with persistence on an unsolvable task](code-downgrades-negatively-predict-challenge-time.md) — related
 - [In gamers' interview reports, sustained gaming engagement appeared closely related to controlling an optimal level of challenge: games too hard were often abandoned and games too easy lost their interest](optimal-challenge-sustains-gaming-engagement.md) — related
 - [The simple machine used to solve a problem predicts persistence, ranked NONE < RAMP < PEN < LEVER < SB](simple-machine-predicts-persistence.md) — related
+- [In-game behaviors collected unobtrusively in serious games show promising relationships with candidate ability level in the target professional competency](in-game-behavior-indicates-ability.md) — a broader claim this one bears on

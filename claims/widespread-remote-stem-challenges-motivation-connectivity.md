@@ -78,3 +78,4 @@ Same survey's technology-access items; 96% of students used home internet access
 - [Students identified weaknesses in the AI feedback model: lack of real-time feedback, software/economic access barriers, and occasional incorrect or inconsistent outputs](genai-feedback-weaknesses-realtime-and-errors.md) — related
 - [Pedagogical challenges inherent in distance and online learning must be considered in instructional design and software development](pedagogical-challenges-distance-learning-design-software.md) — a broader claim this one bears on
 - [Most Digital Café participants had home Internet but no one to help with everyday computer learning needs](cafe-participants-home-internet-no-help.md) — related
+- [The COVID-19 pandemic pushed institutions globally to abruptly shift instruction digital](covid-19-abrupt-digital-shift-instruction.md) — related

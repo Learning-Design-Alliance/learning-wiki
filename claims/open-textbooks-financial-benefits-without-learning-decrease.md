@@ -49,3 +49,4 @@ The commentary reports Hilton's (2016) review synthesizing 16 studies of open te
 - [In direct comparisons of OER and commercial textbooks, a strong majority of participants report OER are as good or better.](oer-direct-comparison-strong-majority-as-good-or-better.md) — related
 - [Across 2002-2018, OER efficacy research consistently shows that OER does not harm student learning, with a small positive impact.](oer-does-not-harm-learning-aggregate.md) — a broader claim this one bears on
 - [The number of published OER efficacy and perceptions studies rose rapidly between 2015 and 2018, with more studies published in those 3 years than in the previous 15.](oer-research-rapid-rise-2015-2018.md) — related
+- [Synthesized studies of OER in college courses found academic outcomes comparable to traditional textbooks and positive perceptions among students and instructors](oer-outcomes-comparable-perceptions-positive.md) — possibly the same claim (merge candidate)

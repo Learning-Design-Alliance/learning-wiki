@@ -55,3 +55,4 @@ The article argues from its synthesis that GenAI can facilitate teaching by gene
 - [AI-based high school mathematics lessons exhibit four existing and three newly emerging instrumental orchestration types, with the new types appearing in 36 of 46 episodes](ai-math-lessons-seven-orchestration-types.md) — related
 - [Teacher guidance plays a significant mediating role in collaborative-learning classroom outcomes](teacher-guidance-mediation-cscl.md) — related
 - [Dashboard-monitoring is a newly observed orchestration type in which the teacher uses real-time AI dashboards to grasp student status and adjust lesson direction and pace (14 of 46 episodes)](dashboard-monitoring-orchestration-type.md) — related
+- [Teachers proactively made pedagogical and cultural adjustments to the CAL curriculum, which the authors link to a shift toward a proactive, confident position](teacher-curriculum-adjustments-foster-ownership.md) — related

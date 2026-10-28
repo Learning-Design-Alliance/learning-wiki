@@ -66,3 +66,4 @@ A three-month case study of a DLG on The Odyssey in a primary school found that 
 ## Related Claims
 - [DLGs contribute to a non-violent, supportive climate of coexistence, including reduced bullying and dialogues oriented to non-violent relationships](dlg-non-violent-supportive-climate.md) — related
 - [Middle school girls framed Blackness as celebratory culture while high school girls emphasized individual efforts to overcome negative portrayals](developmental-shift-meaning-of-blackness.md) — related
+- [Facebook-based digital storytelling helped cross-national students overcome stereotypes and share opinions](facebook-digital-storytelling-overcame-stereotypes.md) — related

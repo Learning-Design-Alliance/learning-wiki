@@ -77,3 +77,4 @@ The interaction is described as disordinal and strongest for females who receive
 - [Training restructuring strategies improves grade-2 students' word problem solving skills at four-week follow-up relative to a control group](restructuring-training-improves-word-problem-solving.md) — related
 - [Descriptively, the experimental group's strongest word problem solving gains from pretest to follow-up appeared for compare problems](strongest-descriptive-gains-compare-problems.md) — related
 - [Six weeks of adaptive training produced a significant improvement in subtraction relative to a waiting control group](calcularis-training-significant-subtraction-gains.md) — related
+- [HPL students learned as much as Scratch students, with equivalent improvement in both conditions](hpl-equivalent-learning-outcomes-scratch.md) — related

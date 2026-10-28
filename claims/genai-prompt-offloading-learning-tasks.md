@@ -54,3 +54,4 @@ The report describes a qualitative analysis of prompts issued to a GenAI system 
 - GenAI systems achieved consistently high scores on programming assessments written entirely in Estonian — related
 - [Behavioural engagement indicators such as platform interaction and task completion do not by themselves establish cognitive engagement with mathematical ideas](behavioural-engagement-not-cognitive-engagement.md) — related
 - [Distributed epistemic agency emerges as learners attribute authority to AI outputs and shift responsibility for knowledge validation, though some engage dialogically](distributed-epistemic-agency-machine-authority.md) — related
+- [Much of what is important for a better future of online learning can also be done well now](design-for-now-better-future-online-learning.md) — related

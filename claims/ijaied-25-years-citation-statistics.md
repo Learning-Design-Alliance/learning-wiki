@@ -46,3 +46,4 @@ The guest editors report bibliometric counts for the journal's first 25 years: "
 
 ## Related Claims
 - [A 100-citation Google Scholar threshold was used as the objective inclusion criterion for anniversary articles](ijaied-anniversary-100-citation-criterion.md) — related
+- [Research on assistive technology in education shows an increasing publication trend from 2017 onwards but low citation impact](at-research-trend-increase-2017.md) — related

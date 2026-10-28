@@ -68,3 +68,4 @@ Same mapping study, discussing the mobile-platform criterion (5.77% of all ITS p
 - [GenAI used on mobile devices shows a larger motivational effect than GenAI used on computers (exploratory)](genai-motivation-effect-larger-mobile-devices.md) — related
 - [Participants who accessed the report card site with mobile devices had more difficulty using it](mobile-access-increases-report-card-difficulty.md) — related
 - [Mobile devices make education more accessible anytime and anywhere, but this attractiveness comes with limitations for adoption and usage](mobile-access-anytime-anywhere-with-adoption-limits.md) — related
+- [Evaluated technology-delivered literacy programs are overwhelmingly multicomponent (90%), publicly available, computer/laptop-delivered, and school-based, targeting an average of four literacy skills](multicomponent-public-computer-school-programs.md) — related

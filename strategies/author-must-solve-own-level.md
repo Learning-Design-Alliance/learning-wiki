@@ -41,6 +41,7 @@ In BOTS, a created level is not shared until its author demonstrates a working s
 
 - [Student-Generated Problems](student-generated_problems.md)
 - [Word Problem Creation](word_problem_creation.md)
+- [Invite learners to create their own games with the same free tools the designers used](diy-escape-room-learner-creation.md)
 
 ## Examples
 -

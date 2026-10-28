@@ -37,7 +37,8 @@ The article recommends that educators use Duolingo and other online platforms to
 - Social-emotional support alongside language learning goals
 
 ## Related Strategies
-- 
+
+- [Vary online teaching and learning activities to counter fatigue and anxiety in lengthy online sessions](vary-online-activities-lengthy-sessions.md)
 
 ## Examples
 -

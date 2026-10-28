@@ -13,7 +13,7 @@ generated:
 # Massive Open Online Course (MOOC)
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 39 claims (10 for, 24 mixed, 5 against) · 36 studies (9 associational, 8 review, 7 causal, 5 quant-synthesis, 3 design, 3 theoretical, 1 qualitative), `q1`–`q4` · 6 of 36 report an effect size · 35 claims rest on one study
+> **Evidence** · 40 claims (10 for, 25 mixed, 5 against) · 37 studies (9 associational, 8 review, 7 causal, 5 quant-synthesis, 4 theoretical, 3 design, 1 qualitative), `q1`–`q4` · 6 of 37 report an effect size · 36 claims rest on one study
 
 ## Description and scope
 
@@ -158,6 +158,7 @@ This pattern is scoped to open courses at a scale where teacher time per learner
 - [Peer graders in these MOOCs score more leniently and with greater dispersion than the instructor](../claims/peer-grading-lenient-high-dispersion-moocs.md) [~W]
 - [Learning tactics shaped by instructional cues are embedded in different units of study in the MOOC](../claims/instructional-cues-embed-tactics-units.md) [~W]
 - [The special issue reports that an AI-based assessment system combining NLP and code analysis reduced teacher effort in assessing data science MOOCs](../claims/ai-nlp-code-assessment-reduces-teacher-effort.md) [~W]
+- [Loizzo and Ertmer propose combining c-MOOC and xMOOC designs to foster a flexible, learner-centered culture](../claims/combining-cmooc-xmooc-flexible-culture.md) [~W]
 
 ## Related Patterns
 - [Online Course Design (Community of Inquiry)](online-course-design.md) — shares concern for interaction design, but MOOC scale makes deep learner-instructor interaction impractical in a way a smaller online course does not face

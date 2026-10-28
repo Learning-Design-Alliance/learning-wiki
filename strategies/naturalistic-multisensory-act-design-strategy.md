@@ -55,6 +55,7 @@ The article recommends that training designs combine sensory and cognitive chall
 - [Multisensory Encoding](multisensory-encoding.md)
 - [Multisensory Teaching](multisensory-teaching.md)
 - [Offer computer-based self-guided speechreading training as a low-cost complement to hearing aids in aural rehabilitation for middle-aged and older adults](speechreading-training-rehabilitation-complement-strategy.md)
+- [Use multisensory audio-visual games to train transversal skills alongside curricular content](multisensory-audio-visual-games-transversal-skills.md)
 
 ## Examples
 -

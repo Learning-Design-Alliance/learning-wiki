@@ -13,7 +13,7 @@ generated:
 # Learning Analytics-Driven Feedback
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 75 claims (26 for, 35 mixed, 14 against) · 64 studies (20 review, 19 associational, 9 theoretical, 6 causal, 6 design, 4 qualitative), `q1`–`q3` · 4 of 64 report an effect size · 72 claims rest on one study
+> **Evidence** · 76 claims (26 for, 35 mixed, 15 against) · 65 studies (20 review, 19 associational, 9 theoretical, 6 causal, 6 design, 5 qualitative), `q1`–`q3` · 4 of 65 report an effect size · 73 claims rest on one study
 
 ## Description
 In face-to-face instruction, a teacher can visually notice disengagement or confusion; a distance instructor cannot, and many learners fail to recognize their own need for help or fail to seek it even when it is available ([Baker & Inventado, 2016](https://edtechbooks.org/lidtfoundations/educational_data_mining_and_learning_analytics)). Educational data mining (EDM) and learning analytics (LA) address this by mining the large amounts of interaction data online and distance courses generate — content-management, discussion-forum, gradebook, and clickstream data — to build models that predict which learners are at risk and to surface feedback that would otherwise depend on an instructor noticing in person.
@@ -121,6 +121,7 @@ These models feed three uses that benefit learners directly: **automated feedbac
 - [Interaction-based affect detectors outperformed posture-based detectors, with boredom detected best and posture detectors near chance](../claims/interaction-detectors-outperform-posture-detectors-tc3sim.md) [+W] — attached 2026-10-28 from DeFalco et al. (2018), which proposed "Interaction-based frustration detector model for TC3Sim".
 - [Combined assessment-centered and student-centered features yield the best classifier performance](../claims/combined-features-best-classifier-performance.md) [+W]
 - [Teachers perceived 'practised enough' learners to be less accurately placed than learners in the other two Grouped Dashboard categories](../claims/practised-enough-group-rated-less-accurate.md) [-W]
+- [Teaching staff distrusted LA tools' data accuracy and prediction precision despite trusting their usefulness](../claims/la-data-accuracy-distrust.md) [-W]
 
 ## The evidence by question
 
@@ -144,6 +145,7 @@ These models feed three uses that benefit learners directly: **automated feedbac
 - [Use coordination-based indicators rather than inactivity alone to trigger alerts and adaptive interventions for struggling groups](../strategies/coordination-based-alert-strategy.md)
 - [Use discussion analytics to alert instructors about students who may need more assistance](../strategies/instructor-alerts-from-discussion-analytics.md)
 - [Use gaze-based automated strategy identification for teacher dashboards and personalized feedback in online statistics learning](../strategies/gaze-based-teacher-dashboards-feedback.md)
+- [Engage teachers with predictive analytics dashboards to trigger timely interventions with students at risk](../strategies/teacher-engagement-with-pla-interventions.md)
 
 ## Key Sources
 - Baker, R. S., & Inventado, P. S. (2016). Educational data mining and learning analytics: Potentials and possibilities for online education. In G. Veletsianos (Ed.), *Emergence and Innovation in Digital Learning* (pp. 83–98). AU Press. Republished in R. West (Ed.), *Foundations of Learning and Instructional Design Technology*. EdTech Books. [https://edtechbooks.org/lidtfoundations/educational_data_mining_and_learning_analytics](https://edtechbooks.org/lidtfoundations/educational_data_mining_and_learning_analytics)

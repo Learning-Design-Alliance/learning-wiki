@@ -13,7 +13,7 @@ generated:
 # General Cognitive Ability
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 147 claims (92 show a difference, 32 mixed, 23 no difference) · 103 studies (41 associational, 34 causal, 12 review, 8 quant-synthesis, 7 theoretical, 1 qualitative), `q1`–`q4` · 26 of 103 report an effect size · 144 claims rest on one study
+> **Evidence** · 150 claims (94 show a difference, 33 mixed, 23 no difference) · 105 studies (41 associational, 36 causal, 12 review, 8 quant-synthesis, 7 theoretical, 1 qualitative), `q1`–`q4` · 26 of 105 report an effect size · 147 claims rest on one study
 
 ## Description
 General cognitive ability is what intelligence and reasoning tests measure: fluid reasoning, crystallised knowledge and processing speed. It is a strong predictor of achievement, and research uses it as a covariate and as a moderator: some designs, such as highly structured instruction, help lower-ability learners more, while discovery-based designs can favour higher-ability learners (aptitude-treatment interactions). It overlaps with [prior knowledge](prior-knowledge.md) and [working memory](working-memory.md), and studies often cannot separate them.
@@ -183,6 +183,9 @@ General cognitive ability is what intelligence and reasoning tests measure: flui
 - [GazeTutor's attention-aware reorientation improved deep reasoning learning gains for high aptitude learners](../claims/gazetutor-deep-reasoning-gains-high-aptitude.md) [+M] — an instructional effect differs with it
 - [No aptitude-treatment interaction: prior proficiency did not interact with hint type](../claims/no-ati-hint-type-proficiency.md) [-M] — an instructional effect differs with it
 - [Waypoint-High group struggled during training but no posttest differences between high-proficiency groups](../claims/wp-high-struggles-training-high-groups-no-posttest-difference.md) [~M] — an instructional effect differs with it
+- [In telecast mathematics, high-ability pupils did better with conventional instruction while average-ability pupils did better watching television](../claims/tv-math-ability-interaction.md) [~M] — an instructional effect differs with it
+- [Kinescope review combined with regular training produced greater learning than regular training alone, especially for low-aptitude trainees](../claims/kinescope-review-greater-learning.md) [+M] — an instructional effect differs with it
+- [Television instruction was more effective for lower-aptitude trainees](../claims/tv-instruction-more-effective-lower-aptitude.md) [+M] — an instructional effect differs with it
 
 ## The evidence by question
 - *Does a learner's general cognitive ability predict how well they achieve, and how much of achievement does it explain?* [Secondary academic performance is predicted by cognitive ability more strongly than by curiosity](../claims/cognitive-ability-predicts-secondary-gpa-more-than-curiosity.md) [+M]

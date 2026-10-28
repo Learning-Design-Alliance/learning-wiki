@@ -54,7 +54,8 @@ The article recommends that, given the visual nature of classroom events, teache
 - [Novice teachers notice more negative classroom events than positive ones, whereas expert teachers show the opposite pattern when reflecting on their own MET videos](../claims/novices-more-negative-noticing-valence.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Design training scenarios featuring misbehaviours in varied contexts and provide data-driven feedback to strengthen professional vision](varied-context-misbehaviour-scenarios-feedback-strategy.md)
 
 ## Examples
 -

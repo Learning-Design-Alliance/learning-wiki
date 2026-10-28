@@ -52,6 +52,7 @@ The article organizes its synthesis around Bandura's four experiences critical t
 - [Sequence teacher development so vicarious experiences come before mastery experiences](../principles/sequencing.md)
 - [Design intervention programs building academic self-efficacy (vicarious learning, progressive mastery, positive feedback) before and alongside AI integration for students with motor disabilities](../strategies/self-efficacy-interventions-alongside-ai-integration.md)
 - [Classroom strategies for developing student psycho-social supports and academic mindsets](../strategies/classroom-psycho-social-support-strategies.md)
+- [Design introductory educational technology courses around the four sources of self-efficacy, prioritizing mastery experiences](../strategies/design-edtech-courses-around-self-efficacy-sources.md)
 
 ## Key Sources
 - McKim, A. J., & Velez, J. J. (2016). An Evaluation of the Self-Efficacy Theory in Agricultural Education. Journal of Agricultural Education, 57(1), 73-90. https://doi.org/10.5032/jae.2016.01073

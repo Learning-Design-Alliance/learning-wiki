@@ -58,3 +58,4 @@ Quasi-experimental post-test control group study with 25 experimental and 25 con
 - [Short stories as classroom tools improved motivation toward L2 reading for most but not all EFL students](short-stories-mixed-motivation-efl-reading.md) — related
 - [Teacher modeling with worked examples helped EFL students internalize reading comprehension strategies](teacher-modeling-internalizes-reading-strategies.md) — related
 - [Teacher-student interactive semantic mapping produced higher EFL reading comprehension posttest scores than teacher-initiated and student-mediated semantic mapping](interactive-semantic-mapping-outperforms-teacher-initiated-and-student-mediated.md) — related
+- [Kyrgyzstani EFL students' written English responses increased and non-responses decreased without explicit instruction to answer in English](increased-english-use-adt-responses.md) — related

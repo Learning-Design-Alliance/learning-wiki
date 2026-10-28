@@ -52,3 +52,4 @@ Critical thinking was measured with the researcher-built [CTTBE: Critical Thinki
 - [Cooperative learning gains were large for observation and interpretation but small for analysis in 4th graders](cooperative-learning-skill-specific-ct-gains.md) — related
 - [Cooperative learning reduced disparities between students' critical thinking scores, with lower performers gaining most](cooperative-learning-reduces-score-disparities.md) — related
 - [Critical thinking skills can be significantly developed in early primary (grades 1-4), a level where evidence was scarce](critical-thinking-developable-early-primary.md) — a broader claim this one bears on
+- [Girls in the online E-5C-guided clubs showed significant pretest-to-posttest gains in creativity, critical thinking, and overall computational thinking, but not in algorithmic thinking, cooperativity, or problem solving](e5c-ct-survey-significant-gains.md) — related

@@ -13,7 +13,7 @@ generated:
 # Digital Literacy
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 55 claims (38 show a difference, 10 mixed, 7 no difference) · 45 studies (16 associational, 9 causal, 6 review, 5 qualitative, 3 quant-synthesis, 3 design, 3 theoretical), `q1`–`q4` · 9 of 45 report an effect size · 53 claims rest on one study
+> **Evidence** · 58 claims (38 show a difference, 11 mixed, 9 no difference) · 47 studies (16 associational, 10 causal, 6 review, 5 qualitative, 4 theoretical, 3 quant-synthesis, 3 design), `q1`–`q4` · 10 of 47 report an effect size · 56 claims rest on one study
 
 ## Description
 Whether a learner can *operate* the interface — distinct from [access](access.md), which is whether they can load it at all. It covers navigation, file handling, knowing what is clickable, and the confidence to explore without fear of breaking something. Every course here is delivered digitally, so this is never out of scope, and it is the dimension most often assumed away: a designer fluent in the interface cannot see it.
@@ -89,6 +89,9 @@ Whether a learner can *operate* the interface — distinct from [access](access.
 - [Students' basic ICT skills pose little barrier in classroom settings but major hurdles for individual and mobile use, mitigated by peer support and initial device setup](../claims/basic-ict-skills-setting-dependent-barrier.md) [~M] — learners who differ on it differ in outcomes
 - [Higher education teachers' digital competence positively and significantly correlates with their work engagement and effort expectancy](../claims/digital-competence-correlates-work-engagement.md) [+M] — learners who differ on it differ in outcomes
 - [Learner characteristics — levels of income, country statuses, and digital skills — shape mobile learning inclusion and require design and practical solutions](../claims/learner-income-country-digital-skills-mobile-inclusion.md) [+W] — learners who differ on it differ in outcomes
+- [Front-loaded, isolated ICT courses in teacher education are criticised as ineffective for building broader digital capabilities](../claims/isolated-ict-courses-ineffective-critique.md) [-W] — instruction changes it
+- [Irûmi's CT gains were concentrated in abstraction, algorithmic thinking, and evaluation, with a small negative effect on debugging](../claims/irumi-ct-skill-breakdown.md) [~M] — instruction changes it
+- [The Irûmi robot-based program improved second-graders' computational thinking scores by 0.089 standard deviations in Paraguay](../claims/irumi-ct-score-effect-0-089-sd.md) [-M] — instruction changes it
 
 ## The evidence by question
 - *Do learners who differ in digital literacy differ in learning, engagement and later outcomes?* [Digital skills gaps span demographic groups and shape e-learning, job performance, and earnings](../claims/digital-literacy-gaps-span-demographics.md) [+M]

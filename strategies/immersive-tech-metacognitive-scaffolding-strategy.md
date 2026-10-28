@@ -41,6 +41,7 @@ The editorial closes with a forward-looking scenario: a collaborative intelligen
 - [Use AI-enabled immersive virtual environments to enrich project-based learning in vocational design education](ai-ive-pbl-vocational-design-strategy.md)
 - [Virtual Reality Immersive Training](virtual-reality-immersive-training.md)
 - [Virtual Reality Simulations](virtual-reality-simulations.md)
+- [Use mobile game-based learning findings to guide practice and pursue smartphone-enabled virtual reality and design-pedagogy-impact research directions](mgb-practice-and-future-directions.md)
 
 ## Examples
 -

@@ -55,3 +55,4 @@ Descriptive survey results from an 18-item modified scale (Cronbach's α = 0.86)
 - [GAI-assisted DST creation produced significantly better team creativity performance than traditional methods, particularly in novelty and user experience](gai-assisted-dst-improves-team-creativity.md) — related
 - [Students hold generally positive attitudes toward Gen AI-assisted problem posing, with a minority mixed or negative](generally-positive-attitudes-gen-ai-problem-posing.md) — related
 - [Post-study attitudes and self-reports align with annotated behavior patterns: limited-engagement users show rising overreliance concern and less selective AI use](self-reports-align-with-ai-behavior-patterns.md) — related
+- [Irûmi increased second-graders' positive attitudes toward technology by 0.228 SD](irumi-student-technology-attitudes.md) — related

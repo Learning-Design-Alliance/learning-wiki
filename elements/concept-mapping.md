@@ -13,7 +13,7 @@ generated:
 # Concept Mapping
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 12 claims (6 for, 6 mixed) · 11 studies (3 causal, 3 quant-synthesis, 2 associational, 1 review, 1 qualitative, 1 design), `q2`–`q4` · 7 of 11 report an effect size · 9 claims rest on one study
+> **Evidence** · 16 claims (8 for, 6 mixed, 2 against) · 12 studies (4 causal, 3 quant-synthesis, 2 associational, 1 review, 1 qualitative, 1 design), `q2`–`q4` · 8 of 12 report an effect size · 13 claims rest on one study
 
 ## Description
 Concept mapping is the element in which learners represent concepts and their relationships visually, typically as nodes and labeled links. It is useful for organizing prior knowledge, identifying structure, and making connections visible before, during, or after learning.
@@ -53,6 +53,10 @@ Concept mapping is the element in which learners represent concepts and their re
 - [Concept-mapping effects are larger in low- and middle-income countries (g = 1.053) than high-income countries (g = 0.626)](../claims/concept-map-effects-larger-low-middle-income-countries.md) [~W]
 - [Self-generated concept mapping benefits learning from grade 4 onwards with similar effect sizes across grades 4–8, 9–12, and college](../claims/concept-mapping-effective-grade-4-onwards.md) [+W]
 - [Engagement predicted concept-map final performance, which in turn predicted learning gains in the ITS](../claims/engagement-performance-learning-gains-chain.md) [~W]
+- [Undergraduate students who created knowledge maps from underlined text wrote essays with significantly higher logical coherence and constructiveness than students who did not create maps](../claims/knowledge-mapping-improves-argumentative-essay-quality.md) [+M] — attached 2026-10-28 from Mochizuki et al. (2019), which proposed "Argumentative reading and writing software with Document, Knowledge Map, and Essay Editor panes and dynamic quotation nodes"; tests this page's relationship.
+- [Knowledge-mapping students more often identified the author's main statement and grounds and explained them in relation to each other in their essays](../claims/knowledge-mapping-fosters-capture-of-text-argument.md) [+M] — attached 2026-10-28 from Mochizuki et al. (2019), which proposed "Argumentative reading and writing software with Document, Knowledge Map, and Essay Editor panes and dynamic quotation nodes"; tests this page's relationship.
+- [Non-knowledge-mapping students reported concentrating more on identifying the author's argument during reading than knowledge-mapping students](../claims/non-mapping-students-concentrated-more-on-identification.md) [-W]
+- [Use of yellow quotation nodes (marking logical inconsistencies) correlated negatively with essay logical coherence in the knowledge-mapping class](../claims/yellow-quotation-nodes-negative-coherence-correlation.md) [-W]
 
 ## The evidence by question
 

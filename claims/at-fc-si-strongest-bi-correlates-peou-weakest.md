@@ -56,3 +56,4 @@ Bivariate correlation matrix (Table 5) among the six constructs in the sample of
 - [Perceived enjoyment of GenAI tools is positively associated with in-service teachers' attitudes, perceived ease of use and behavioural intention in a Dominican Republic survey](enjoyment-predicts-attitude-ease-intention-genai.md) — related
 - [The study examined the genAI agent's influence on team discussion and outcomes and the influence of faculty facilitators on acceptance of the agent](genai-influence-discussion-facilitator-acceptance.md) — related
 - [Perceived ease of use positively influenced attitudes toward using the AVDS tool](peou-positive-impact-attitude-avds.md) — related
+- [Most proposed constructs showed high internal consistency (Cronbach's alpha above 0.70) but control variables did not and were removed](scale-reliability-alphas-control-variables-removed.md) — related

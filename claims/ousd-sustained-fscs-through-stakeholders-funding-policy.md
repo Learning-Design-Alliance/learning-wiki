@@ -56,3 +56,4 @@ Case study of Oakland Unified drawing on interviews, surveys, administrative dat
 - [The article argues the durability of the WSS co-design approach depends on institutionalizing authentic engagement as core practice, not a one-time initiative](wss-sustainability-requires-institutionalization.md) — related
 - [Cost analyses find community schools return $3 to $15 for every dollar spent](community-schools-return-on-investment.md) — related
 - [States investing in community schools typically prioritize funding for the highest-need schools and districts, with high-need thresholds ranging from 40% to 80% or more of the student population.](states-prioritize-highest-need-schools-community-schools-funding.md) — related
+- [Resilience and shared commitment of the learning community were crucial for the program's sustainability during economic and environmental challenges](community-resilience-shared-commitment-sustainability.md) — a narrower finding that bears on this claim

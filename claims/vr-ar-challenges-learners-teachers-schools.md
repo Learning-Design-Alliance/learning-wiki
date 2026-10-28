@@ -56,3 +56,5 @@ The review's challenges synthesis (RQ2, Table 2) codes challenges to learners (d
 - [Open inquiry implementation faces challenges requiring classroom management, flexible teaching, teacher-student interaction and teacher support](open-inquiry-implementation-challenges.md) — related
 - [In a piloted virtual reality WIL, most students reported improved crisis-problem-solving understanding and high enjoyment](vr-wil-crisis-pilot-outcomes.md) — related
 - [Task-related concerns emerged around time management and classroom behaviour during AI implementation](task-concerns-time-and-behaviour-management.md) — related
+- [Teachers identified cost, bulky headsets, Wi-Fi connectivity, and technical issues as key challenges to integrating VR into ML2 teaching](vr-challenges-cost-headsets-wifi.md) — a narrower finding that bears on this claim
+- [Teachers reported VR could enable Maltese speaking practice at a level unachievable in classrooms or online, especially for students abroad](vr-speaking-practice-unachievable-classroom.md) — reports the opposite

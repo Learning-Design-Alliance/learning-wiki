@@ -86,3 +86,4 @@ Thematic analysis of open-ended greatest-challenge responses found motivation, m
 - [Maintaining student engagement is the greatest challenge reported by online charter school principals, identified nearly three times as often as any other challenge](online-charters-engagement-greatest-challenge.md) — related
 - [Online apprenticeship learning offers greater flexibility than in-person learning despite implementation challenges for hybrid or remote options](online-apprenticeship-learning-flexibility-tradeoffs.md) — related
 - [The intervention increased student engagement with remote activities and motivation to return to in-person classes](nudges-increase-engagement-motivation.md) — related
+- [The COVID-19 pandemic pushed institutions globally to abruptly shift instruction digital](covid-19-abrupt-digital-shift-instruction.md) — related

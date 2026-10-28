@@ -57,3 +57,4 @@ Challenge reported in the I-PREP statewide scan. Respondents reported that distr
 - [Structural and fiscal conditions—including grade-3 class-size incentive cliffs and declining enrollment—jeopardize the bilingual teacher pipeline and program sustainability](structural-fiscal-risks-bilingual-pipeline-sustainability.md) — related
 - [Many programs face partnership alignment, hiring-placement, and administrative capacity challenges that limit financial sustainability](partnership-and-capacity-challenges-residencies.md) — related
 - [Extra honours workload causes stress, less free time and reported grade decreases in the main phase](honours-extra-workload-stress-and-grade-decreases.md) — related
+- [Departure of a key person together with the end of external funding posed a genuine threat to the continuation of the online doctoral program](key-person-departure-funding-end-threat.md) — a narrower finding that bears on this claim

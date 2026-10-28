@@ -80,3 +80,4 @@ Simple main effects follow-up from the same ANCOVA study, reported in the Result
 - [Tutorial group size moderates SDL gains in PBL: small and medium groups gained SDL, large groups declined](tutorial-group-size-moderates-sdl.md) — related
 - [The post-test advantage of generative AI-supported instruction persists after controlling for pre-test performance (ANCOVA)](genai-geometry-ancova-group-effect.md) — related
 - [No significant improvement in science test performance from the robotics and programming unit](mbot-no-science-improvement.md) — related
+- [Girls in the online E-5C-guided clubs showed significant pretest-to-posttest gains in creativity, critical thinking, and overall computational thinking, but not in algorithmic thinking, cooperativity, or problem solving](e5c-ct-survey-significant-gains.md) — related

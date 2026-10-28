@@ -58,3 +58,5 @@ Descriptive post-intervention analysis within the experimental group (n = 102) o
 - [Students in the mathematics and data science course rated acceptance of the AI tool higher on average than students in the biology course](math-course-higher-ai-acceptance-than-biology.md) — related
 - [Role design improves learners' perceived usefulness and ease of use of GAI, but moderately increases collaborative cognitive load](role-design-improves-gai-perceptions-raises-cognitive-load.md) — related
 - [Engagement in data practices is associated with both cognitive and non-cognitive learning outcomes](data-practices-associated-cognitive-noncognitive-outcomes.md) — related
+- [Students perceived HPL as positively as Scratch across TAM dimensions](hpl-student-perception-equal-scratch.md) — related
+- [Irûmi increased second-graders' positive attitudes toward technology by 0.228 SD](irumi-student-technology-attitudes.md) — related

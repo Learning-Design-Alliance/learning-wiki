@@ -48,3 +48,4 @@ Theoretical argument from the integration section: the article illustrates that 
 - [Comparing novice and expert activation signatures can guide optimisation of an intervention](novice-expert-signature-optimisation.md) — related
 - [Comparing activation signatures across tasks can suggest generalisation of an intervention to a new domain](signature-overlap-generalisation.md) — a narrower finding that bears on this claim
 - [Pilot participants perceived AmicoMio and AmicoTuo as complementary modes serving different educational purposes rather than alternatives](amico-dual-modes-perceived-complementary.md) — related
+- [Using tablet games as a supplement or as a replacement for routine math activities may have equivalent effectiveness](supplement-replacement-equivalent-effectiveness.md) — related

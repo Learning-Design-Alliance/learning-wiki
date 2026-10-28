@@ -53,3 +53,4 @@ National random-sample survey of 1,008 undergraduates whose in-person courses mo
 - Students attributed online-course problems more to the unplanned move online (45%) than to inherent limitations of online learning (37%) — related
 - [For college students who can choose between online and in-person sections, taking a course online lowers grades both in that course and in future courses](online-course-lower-grades-current-and-future.md) — related
 - [Post-shift satisfaction was lower for STEM courses than for non-STEM courses, a gap that predated the shift](stem-less-satisfied-than-non-stem-post-shift.md) — related
+- [The Covid-19 pandemic's rapid shift of US K-12 schools to digital learning produced a wealth of digital learning analytics available for improving student learning outcomes](covid-shift-digital-produced-wealth-learning-analytics.md) — related

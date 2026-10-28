@@ -50,3 +50,4 @@ Think-aloud sessions with four experts (in gamification/LXD, HCI/diversity, naut
 - [SDP and EP partnerships enabled education agencies to develop new data-use practices that agencies continue to refine](sdp-ep-partnerships-enabled-new-data-use-practices.md) — related
 - [Adding think-aloud data to theory prompts improves GPT-4o codebook completeness and alignment with the data](theory-plus-data-prompting-improves-codebook.md) — related
 - [Making trustworthiness metrics and visualizations explicit increased inter-rater reliability among learning engineers evaluating LLM responses](trustworthiness-metrics-visualizations-increase-expert-agreement.md) — related
+- [Making open data usable for learning requires substantial educator work: finding suitable data, refining and curating sources, and coping with poor formats and documentation](open-data-making-data-usable-challenges.md) — related

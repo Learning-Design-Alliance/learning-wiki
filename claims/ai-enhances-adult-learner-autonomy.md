@@ -58,3 +58,4 @@ In the same interview study's autonomy theme, participants described AI providin
 - [Adult learners expect AI to foster involvement by sparking questions, tapping interests, and providing continuous feedback and effort acknowledgment](ai-fosters-adult-learner-involvement.md) — related
 - [Students report heightened autonomy in English learning through self-directed regulation, personalized feedback, and active evaluation of ChatGPT suggestions](chatgpt-autonomy-self-directed-learning.md) — a narrower finding that bears on this claim
 - [Factor 2 student teachers enacted balanced, intentional and ethical engagement with Cipherbot through self-directed strategies](f2-balanced-intentional-ethical-engagement.md) — related
+- [Participants most valued flexibility of when and where to study, alongside vocabulary access and constant progress monitoring, as benefits of online applications](flexibility-top-perceived-benefit-apps.md) — related

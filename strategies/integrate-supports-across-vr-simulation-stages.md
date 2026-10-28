@@ -47,6 +47,7 @@ The article recommends an integrative, model-based approach to supporting preser
 
 - [Use AI-based simulations as low-risk environments for practising and making visible teacher noticing](ai-simulations-low-risk-noticing-practice.md)
 - [Virtual Reality Simulations](virtual-reality-simulations.md)
+- [Design VR lessons with structured pre-, during-, and post-experience tasks](structured-pre-during-post-vr-tasks.md)
 
 ## Examples
 -

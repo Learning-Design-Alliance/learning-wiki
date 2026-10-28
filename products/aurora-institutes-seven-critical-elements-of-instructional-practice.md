@@ -25,7 +25,8 @@ A framework developed by the Aurora Institute to guide competency-based instruct
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [Janssen et al.'s twelve-element digital competence model](janssen-et-als-twelve-element-digital-competence-model.md)
 
 ## Key Sources
 - Zohal Shah, Marilys Galindo, Chioma Aso-Hernandez, Christina Luke Luna, Keun-woo Lee, Josh Weisgrau, Teresa Solorzano, Britney Jacobs. (2024). The Promise of Micro-credentials and Learning and Employment Record Technologies for Youth and K-12 Schools. Digital Promise. https://digitalpromise.org

@@ -61,3 +61,4 @@ SUS questionnaire administered after the one-hour lab session with 10 participan
 - [Experimental-group participants rated TibetCPR highly usable (SUS = 84.3, an Excellent rating), with the highest items on voluntary engagement and independent use](tibetcpr-high-usability-sus-84-3.md) — related
 - [Students report no usability issues with the formative assessment tool (ASQ means 5.2–5.5)](students-report-no-usability-issues-asq.md) — related
 - [The experimental group rated AVDS usability as excellent while the control group rated it as good](sus-usability-excellent-experimental-good-control.md) — related
+- [Perceived usability of the TARGET-tool improved from mid-term (SUS 57.3) to the end of the experimental phase (SUS 67.0), a medium effect that was not statistically significant](target-tool-sus-increase-nonsignificant.md) — related

@@ -14,7 +14,7 @@ generated:
 # Rubrics
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 28 claims (12 for, 12 mixed, 4 against) · 26 studies (11 causal, 5 design, 4 review, 4 associational, 2 quant-synthesis), `q2`–`q3` · 4 of 26 report an effect size · 25 claims rest on one study
+> **Evidence** · 29 claims (12 for, 13 mixed, 4 against) · 27 studies (11 causal, 6 design, 4 review, 4 associational, 2 quant-synthesis), `q1`–`q3` · 4 of 27 report an effect size · 26 claims rest on one study
 
 ## Description
 Rubrics are the element in which criteria and performance levels are made explicit to guide quality work and evaluation.
@@ -58,6 +58,7 @@ Rubrics are the element in which criteria and performance levels are made explic
 - [Law students overestimated their writing performance when self-assessing against the formal rubric](../claims/law-students-overestimate-rubric-self-assessment.md) [~W]
 - [Research-informed and ML-based rubrics assess students' mechanistic reasoning comparably, supporting ML techniques in rubric development](../claims/ml-and-research-informed-rubrics-assess-comparably.md) [~W]
 - [A principal component analysis distills the seven-criterion summary rubric into two components, Content and Wording, explaining approximately 73% of shared variance](../claims/pca-two-component-summary-rubric-content-wording.md) [~W]
+- [Text-based rubrics alone provide insufficient contextual, dynamic and procedural information to support rich mental model development of complex skills](../claims/text-rubrics-lack-contextual-dynamic-procedural-information.md) [~W] — attached 2026-10-28 from Kevin Ackermans et al. (2019), which proposed "Video Enhanced Rubric (VER): a digital multimedia application combining video-modeling examples with analytic rubrics".
 
 ## The evidence by question
 - *Does giving learners the criteria, and having them apply them to their own or peers' work, improve the work?* [Self-assessing against a rubric improved the quality of student work in two non-randomised studies, one of which also found more stress and performance-avoidance](../claims/rubrics-improve-student-work.md) [+M]

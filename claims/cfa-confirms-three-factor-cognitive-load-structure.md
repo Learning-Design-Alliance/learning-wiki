@@ -67,3 +67,4 @@ Convergent validity check in Study 2 correlating the proposed instrument with th
 - [The ACE-HE measurement model of affective, behavioral, and cognitive engagement fits online/blended survey data well](ace-he-engagement-three-dimension-model-good-fit.md) — related
 - [Global-fit evidence does not clearly favor unidimensional over multidimensional academic resilience measurement models, as fit-index pass rates diverge by index](dimensionality-evidence-mixed-resilience-scales.md) — related
 - [The revised questionnaire shows satisfactory internal consistencies for each cognitive load type across Studies 1 and 2](cognitive-load-questionnaire-satisfactory-internal-consistencies.md) — related
+- [The DIGISOC questionnaire shows acceptable validity and reliability, including CFA data and favorable Cronbach's alpha coefficients](digisoc-acceptable-validity-reliability.md) — related

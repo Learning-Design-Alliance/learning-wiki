@@ -53,6 +53,7 @@ Grounded in the finding that better-calibrated students deployed more expert-lik
 - [Teach Self Regulation Strategies](teach-self-regulation-strategies.md)
 - [Self Regulated Learning Instruction](self-regulated-learning-instruction.md)
 - [Muddiest Point](muddiest-point.md)
+- [Foster autonomy and curiosity-driven learning by embedding metacognitive processes and self-regulation elements into education](embed-metacognitive-srl-support-post-pandemic.md)
 
 ## Examples
 -

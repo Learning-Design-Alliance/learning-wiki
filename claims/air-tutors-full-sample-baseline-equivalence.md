@@ -54,3 +54,4 @@ Baseline balance analysis for the full analytic sample (1,049 treatment students
 - [Across the full sample, students receiving the ASSISTments intervention performed comparably to their virtual comparison peers on end-of-year MAP Growth](assistments-full-sample-no-significant-effect.md) — related
 - [Students with lower baseline performance (below the 50th percentile) showed significantly greater math achievement gains with ASSISTments than matched virtual peers](assistments-low-performers-significant-gains.md) — related
 - [vPLC-augmented ASSISTments did not significantly improve overall middle school math achievement relative to a virtual comparison group](vplc-assistments-no-significant-overall-effect.md) — related
+- [The Irûmi robot-based program improved second-graders' computational thinking scores by 0.089 standard deviations in Paraguay](irumi-ct-score-effect-0-089-sd.md) — related

@@ -80,3 +80,4 @@ Weekly usage counts across the 16-week semester (range 10–365, mean 192.81, SD
 - [Student generative AI use expanded substantially within engineering mechanics coursework over the semester, from 37% to 51% using it at least weekly](mechanics-ai-use-expanded-over-semester.md) — related
 - [Pilot engagement was strong with month-over-month user retention, and teachers used the AI primarily for consumption rather than creation](cics-pilot-engagement-consumption-over-creation.md) — related
 - [GenAI use is widespread among higher education students in reviewed studies, with some studies reporting over 95% of participants had used GenAI tools](genai-use-widespread-higher-education-students.md) — related
+- [Teachers accessed the OUA dashboard infrequently and irregularly, mostly around assignment submission weeks](infrequent-oua-access-by-teachers.md) — related

@@ -13,7 +13,7 @@ generated:
 # Safety
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 101 claims (71 show a difference, 21 mixed, 9 no difference) · 55 studies (20 associational, 12 review, 7 causal, 6 qualitative, 5 quant-synthesis, 4 theoretical, 1 design), `q1`–`q4` · 5 of 55 report an effect size · 101 claims rest on one study
+> **Evidence** · 102 claims (72 show a difference, 21 mixed, 9 no difference) · 56 studies (20 associational, 12 review, 7 causal, 6 qualitative, 5 quant-synthesis, 4 theoretical, 2 design), `q1`–`q4` · 5 of 56 report an effect size · 102 claims rest on one study
 
 ## Description
 Safety here means both being and feeling physically and psychologically secure in the places a learner spends time: home, school or work, the neighbourhood and the wider community. It covers violence and crime, bullying and cyberbullying, and, from adolescence on, a learner's own risk-taking behaviour such as substance use. It matters for learning because a learner who feels safe can focus on the task, while one who feels unsafe tends to miss school and take part less in class, losing learning opportunities. For adults, the LVN adds that learners who had bad experiences of school need to feel safe enough to learn again. It is measured with self-report bullying and victimisation scales, neighbourhood questionnaires and screening tools for risky behaviour. It overlaps with [adverse experiences](adverse-experiences.md), since feeling unsafe can be traumatic, and with [belonging](belonging.md).
@@ -137,6 +137,7 @@ Safety here means both being and feeling physically and psychologically secure i
 - [The negative association between online learning self-efficacy and later worries is significantly stronger for girls than for boys](../claims/ose-worries-stronger-for-girls.md) [+W] — learners who differ on it differ in outcomes
 - [Attitudes reflective of cooperation account for 37% of the variance in team learning, with psychological safety, cohesion, and trust prominent but understudied](../claims/team-attitudes-predict-team-learning.md) [+W] — learners who differ on it differ in outcomes
 - [Team attitudes predict team performance, with collective efficacy (20%) and psychological safety (17%) explaining the most variance](../claims/team-attitudes-predict-team-performance.md) [+W] — learners who differ on it differ in outcomes
+- [School attention to SNS safety positively influences privacy care, which in turn relates to safer pupil behavior](../claims/school-attention-privacy-care-mediation.md) [+M] — instruction changes it
 
 ## Measures
 - **Electronic Bullying Questionnaire** (Kowalski & Limber, 2007): self-report of how often a person has been cyberbullied or has cyberbullied others.

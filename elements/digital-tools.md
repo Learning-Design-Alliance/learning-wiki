@@ -13,7 +13,7 @@ generated:
 # Digital Tools
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 57 claims (31 for, 23 mixed, 3 against) · 53 studies (12 review, 10 associational, 9 causal, 7 theoretical, 6 design, 5 quant-synthesis, 4 qualitative), `q1`–`q4` · 7 of 53 report an effect size · 56 claims rest on one study
+> **Evidence** · 60 claims (32 for, 25 mixed, 3 against) · 56 studies (13 review, 10 associational, 9 causal, 7 design, 7 theoretical, 6 quant-synthesis, 4 qualitative), `q1`–`q4` · 7 of 56 report an effect size · 59 claims rest on one study
 
 ## Description
 Digital tools are the element in which learners use software, platforms, or digital applications to create, collaborate, practice, or receive feedback. They are useful when a tool meaningfully extends what learners can do.
@@ -92,6 +92,9 @@ Digital tools are the element in which learners use software, platforms, or digi
 - [Mobile devices served as the primary tool for learners and teachers during the emergent remote teaching process of the pandemic](../claims/mobile-devices-primary-tool-emergent-remote-teaching.md) [+W]
 - [iVR users showed better synchronization of angulation and translation movements in the mobilization technique](../claims/ivr-improves-angulation-translation-synchrony.md) [+W]
 - [Undergraduate physiotherapy students who used iVR alongside traditional teaching scored higher on overall manual therapy performance one week later](../claims/ivr-complement-improves-manual-therapy-performance-score.md) [+W]
+- [Effects of technology-delivered literacy instruction did not significantly differ by outcome domain, though comprehension effects appeared particularly small (g = 0.12)](../claims/outcome-domain-effects-descriptive.md) [~W]
+- ['Innovative' schools used more different tools per learning arrangement than 'traditional' schools](../claims/innovative-schools-more-tools-per-arrangement.md) [+W]
+- [Prior mathematical ability moderates tablet-DGBL gains, with mixed direction across studies](../claims/prior-math-ability-mixed-moderator.md) [~W]
 
 ## The evidence by question
 - *Does putting instruction on a digital medium change learning by itself, or only through the method, time and teaching it carries?* [Media comparison studies produce uninterpretable "no significant difference" findings.](../claims/media-comparison-studies-produce-uninterpretable-results.md) [+M]

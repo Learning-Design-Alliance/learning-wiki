@@ -163,3 +163,4 @@ Two meta-analyses: the first (k=273 studies, N=365,915) examined the correlation
 - [Early-stage performance advantages associated with growth mindsets may translate into downstream opportunity benefits such as internships and scholarships](early-advantage-may-translate-to-opportunity-benefits.md) — related
 - [Prior meta-analyses report mixed effects of growth mindset interventions on achievement, with estimates ranging from a non-significant d = 0.05 to d = 0.14](growth-mindset-intervention-meta-analyses-mixed.md) — related
 - [Mindset interventions have only a weak effect on later academic achievement](mindset-interventions-weak-effect.md) — related
+- [The intervention improves focus-related mindsets, self-efficacy, and (in Study 1) emotion regulation](focus-coach-mindset-self-efficacy-emotion-regulation-gains.md) — related

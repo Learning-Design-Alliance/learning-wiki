@@ -67,3 +67,4 @@ Authors' interpretation (type e) of the three positive-effect studies: students 
 - [Students in focus groups were positive about adaptive courseware but reported alignment, access, and reliability concerns](student-focus-group-perceptions-courseware.md) — related
 - [Edtech coaches supported families with IT tasks, platform training, and home learning environment guidance during closures](coach-support-to-families-closures.md) — related
 - [Few New York charter teachers reported technology challenges during the remote transition (66% of schools said under a quarter of teachers did), with attention and engagement the more common difficulties](teacher-remote-challenges-attention-not-technology.md) — related
+- [Schools that had previously invested in technology and professional development for digital learning responded more quickly to the shift to online teaching during COVID-19 closures](prior-digital-investment-greater-ert-capacity.md) — related

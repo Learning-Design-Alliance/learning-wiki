@@ -46,6 +46,7 @@ The authors recommend designing collaborative group work so that peer discussion
 ## Related Strategies
 
 - [Build relational school resources (teacher–student relationships, peer support, encouragement, extracurriculars) to scaffold self-regulation for low-efficacy marginalized students](relational-resources-low-efficacy-students.md)
+- [Design introductory educational technology courses around the four sources of self-efficacy, prioritizing mastery experiences](design-edtech-courses-around-self-efficacy-sources.md)
 
 ## Examples
 -

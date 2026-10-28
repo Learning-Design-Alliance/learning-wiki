@@ -140,3 +140,4 @@ A meta-analysis of 51 quantitative studies comparing students' self-assessed mar
 - [Solving an isomorphic practice problem after studying a worked example improves prospective monitoring accuracy, with mixed effects on regulation accuracy](practice-problem-after-example-improves-monitoring.md) — related
 - [Model answers combined with self-assessment instructions interactively improve monitoring-based regulation accuracy, with two model answers most effective](model-answers-self-assessment-interaction-regulation.md) — related
 - [Law students overestimated their writing performance when self-assessing against the formal rubric](law-students-overestimate-rubric-self-assessment.md) — related
+- [When ID students lack prior experience with a design activity, they tend to follow guidelines and make judgments without reflection, especially in formative evaluation](no-prior-experience-follow-guidelines-no-reflection.md) — related

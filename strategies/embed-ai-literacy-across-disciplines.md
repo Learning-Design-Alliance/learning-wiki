@@ -59,6 +59,8 @@ For curriculum design, the chapter recommends a transdisciplinary approach in wh
 - [Use co-design approaches to develop grade-appropriate AI curricula for elementary students](codesign-elementary-ai-curricula.md)
 - [Design AI literacy curricula for K-12 as interdisciplinary short-term courses grounded in learning theory and developed with teachers](interdisciplinary-ai-literacy-curriculum-k12.md)
 - [Integrate AI education throughout the K-12 curriculum via innovative approaches to integrative AI-science, AI-math, AI-language arts, and AI-social science education](integrative-ai-education-across-disciplines.md)
+- [Integrate collaborative videomaking (DST) into STEM-A and CLIL courses as an authentic, student-centred literacy activity](dst-videomaking-integration-stem-clil.md)
+- [Embed personal-ethical and personal-professional competencies across subjects, planned experiences and incidental teachable moments](tdc-integration-across-subjects-strategy.md)
 
 ## Examples
 -

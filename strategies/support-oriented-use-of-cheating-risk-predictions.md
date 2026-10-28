@@ -50,6 +50,7 @@ The article recommends treating model output as a trigger for timely academic gu
 - [Deploy ML-based early-warning prediction to shift retention support from reactive to proactive intervention](ml-early-warning-proactive-retention-support.md)
 - [Use early-session timing signals, interpreted relative to proficiency, to identify students needing adaptive support](early-session-timing-signals-target-adaptive-support.md)
 - [Implement AI in assessment as a hybrid support tool for low-stakes, formative stages while humans retain final grading authority](hybrid-ai-human-assessment-implementation.md)
+- [Engage teachers with predictive analytics dashboards to trigger timely interventions with students at risk](teacher-engagement-with-pla-interventions.md)
 
 ## Examples
 -

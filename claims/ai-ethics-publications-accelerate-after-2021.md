@@ -52,3 +52,5 @@ Descriptive bibliometric analysis of annual publication and citation counts from
 - [Publications on prior knowledge and learning increased strongly from 1980 to 2021, reaching about 600 new publications per year](prior-knowledge-publication-growth-600-year.md) — related
 - [NQG publications grew each year from 2016 to 2021, indicating the topic remains open](nqg-publication-growth-2016-2021.md) — related
 - [Research on AIED ethics grew exponentially from 2019, peaking in 2021 with a small retraction in 2022](aied-ethics-publications-growth-2019-2021.md) — related
+- [Research on assistive technology in education shows an increasing publication trend from 2017 onwards but low citation impact](at-research-trend-increase-2017.md) — related
+- [Annual metacognition publications rose through the period, peaking at over 250 in 2022 before dropping to 125 in 2023](metacognition-publication-growth-peak-2022.md) — related

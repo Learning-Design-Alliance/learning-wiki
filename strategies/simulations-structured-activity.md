@@ -70,6 +70,7 @@ Simulation alone is an experience; learning comes from the structure wrapped aro
 - [Predator/prey simulation game on the beach for hatchling survival](predator-prey-hatchling-crawl-game.md)
 - [Have students craft physically detailed prompts as a form of experimental design before measuring AI-generated scenarios](prompt-crafting-as-experimental-design.md)
 - [Scaffold hypothesis formation before testing and provide tools for explicit hypothesis statements in games](scaffold-hypothesis-formation-before-testing.md)
+- [Include facilitated social learning opportunities (introduction and debriefing) around individual IVR safety scenarios](facilitated-introduction-and-debriefing-around-ivr-scenarios.md)
 
 ## Related Elements
 - [Practice](../elements/practice.md) — the structured engagement phase inside the simulation

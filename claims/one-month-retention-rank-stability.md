@@ -47,3 +47,4 @@ The author retested subjects F and C from experiment III one month after learnin
 ## Related Claims
 - [Students tended to hold the same relative rank from the first to the last trials of practice, with a small positive correlation between initial and final standing.](relative-rank-stable-across-practice.md) — related
 - [Learning-technique effects do not shrink across test delays from the same day to six months](learning-technique-effects-stable-over-test-delays-up-to-six-months.md) — related
+- [Television instruction was remembered at least as well as regular instruction after one month](tv-instruction-retention-comparable-army-basic.md) — related

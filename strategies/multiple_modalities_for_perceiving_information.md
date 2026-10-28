@@ -66,6 +66,7 @@ Pairing words with relevant pictures or narration improves learning compared wit
 - [Teach L2 comprehension through a multiliteracies curriculum with video-based visualizing and verbalizing activities](multiliteracies-video-comprehension-activities.md)
 - [Integrate mixed-reality visualization with physical interaction rather than relying on a single modality](integrate-mr-visualization-physical-interaction.md)
 - [Design intuitive, multisensory, layered visualizations with evolving assessment to reduce cognitive load](layered-multisensory-visualizations-reduce-load.md)
+- [Use multisensory audio-visual games to train transversal skills alongside curricular content](multisensory-audio-visual-games-transversal-skills.md)
 
 ## Examples
 - **PhET Interactive Simulations** (https://phet.colorado.edu) — research-validated physics and chemistry simulations combining visual manipulation with optional guided-inquiry activities; widely used for dynamic processes that static text cannot show

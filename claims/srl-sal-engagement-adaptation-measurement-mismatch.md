@@ -56,3 +56,4 @@ The commentary reports Zusho's (2017) conclusions from reviewing the literature 
 - [Emotions are seldom explicitly analyzed in conversational CSCL contexts and must be balanced with cognition in conversation conceptualization](emotions-neglected-cscl-emotional-talk.md) — related
 - [S-SRL strategy use is dynamic over time, contexts and student characteristics, supporting an event-based conceptualization of self and socially regulated learning](ssrl-strategy-use-dynamic-event-based.md) — related
 - [The reviewer argues that the dynamic character of appetites and desires must be considered in any thoroughgoing character-development plan](appetites-desires-character-development.md) — related
+- [Special-issue papers present theoretical frameworks for guiding online teaching practices, including framing of instruction, cognitive load in CSCL, and engagement](special-issue-frameworks-online-teaching.md) — a broader claim this one bears on

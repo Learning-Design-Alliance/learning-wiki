@@ -52,3 +52,5 @@ Reported in the brief's key takeaways from the eight-state discussion groups. Ma
 - Prior use of adaptive courseware in blended STEM courses eased the transition to fully remote instruction for instructors and students — related
 - [Virtual pre-K observations posed substantial logistical challenges despite being practical](virtual-pre-k-observations-logistical-challenges.md)
 - [Teachers valued interactive discussion-based training but identified unfamiliarity with online resources as a challenge when transitioning to distance learning.](hero-elementary-training-discussion-facilitation-online-resources-challenge.md) — related
+- [The pandemic made professional learning about online and blended learning immediately relevant and highly sought after by teachers who had previously been difficult to persuade to prioritise it](pandemic-tpd-relevance-shift.md) — related
+- [Schools that had previously invested in technology and professional development for digital learning responded more quickly to the shift to online teaching during COVID-19 closures](prior-digital-investment-greater-ert-capacity.md) — related

@@ -52,3 +52,4 @@ Observational analysis of search paths from 87 children performing the Bells Tes
 - [Higher ADHD rating-scale scores predict better semantic fluency performance and more immediate repetitions in children](higher-adhd-traits-better-semantic-fluency.md) — related
 - [Under normal conditions children with ADHD show deficits in vigilance, visual search and divided attention relative to TD children](adhd-attention-deficits-normal-conditions.md) — related
 - [The exploration advantage in semantic search is interpreted as context-dependent, potentially beneficial in sparsely distributed target environments](exploration-bias-benefit-context-dependent.md) — related
+- [Across-session focus gains extend to students with ADHD, though within-session gains do not](focus-coach-gains-extend-adhd-students.md) — related

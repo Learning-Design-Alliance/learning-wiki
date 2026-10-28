@@ -61,3 +61,4 @@ Table 6 summary of the author's lab's experimental tests reports the immersion p
 - [Middle-school students taking a virtual field trip via a 3D HMD report higher interest than students taking the same trip as a 2D video](hmd-virtual-field-trip-higher-interest-than-2d-video.md) — reports the opposite
 - [Middle-school students taking a virtual field trip via a 3D HMD report higher presence than students taking the same trip as a 2D video](hmd-virtual-field-trip-higher-presence-than-2d-video.md) — related
 - [Immersive presentation keeps comprehension performance stable across a training session while auditory-only performance decreases toward the end](immersive-training-comprehension-stability.md) — a narrower finding that bears on this claim
+- [VR and video instruction groups reported comparable cognitive load in the anatomy lesson](vr-video-comparable-cognitive-load.md) — related

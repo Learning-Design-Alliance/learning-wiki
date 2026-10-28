@@ -56,3 +56,4 @@ The report states that MSIs, HBCUs, and TCUs are historically lower-resourced th
 - [Canadian federal and provincial digital policies reflect a laissez-faire approach with near absence of consideration of affordability and digital skills for low-income adults](laissez-faire-digital-policy-gaps.md) — related
 - [Emergency federal funding narrowed the digital access divide during the pandemic but did not close the digital use divide](pandemic-funding-narrowed-access-not-use-divide.md) — related
 - [The article argues moving toward distributed systems is an existential necessity for academic AIED research](distributed-aied-existential-necessity.md) — related
+- [The COVID-19 pandemic pushed institutions globally to abruptly shift instruction digital](covid-19-abrupt-digital-shift-instruction.md) — related

@@ -60,9 +60,11 @@ Student game design is a constructionist strategy — learning happens through b
 6. Present the game with a design rationale connecting each mechanic to the learning objective
 
 ## Related Strategies
+
 - [Learning by Teaching](../strategies/learning-by-teaching.md) — designing a game that teaches others is a form of preparation for teaching that demands deep processing
 - [Project-Based Learning](project-based-learning-pbl.md) — game design is a sustained artifact-building project with an authentic product
 - [Peer Review](../elements/peer-review.md) — playtesting sessions double as structured peer critique
+- [Invite learners to create their own games with the same free tools the designers used](diy-escape-room-learner-creation.md)
 
 ## Related Elements
 - [Practice](../elements/practice.md) — playtesting is practice for both designers and players

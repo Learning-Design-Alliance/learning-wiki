@@ -88,3 +88,4 @@ Year-by-year analysis of the best-performing algorithm per study (Figure 8, RQ7)
 - [ML scoring models for scientific argumentation items achieved good to almost perfect agreement with human consensus scores (mean Cohen's kappa = 0.60)](ml-scoring-argumentation-mean-kappa-060.md) — a narrower finding that bears on this claim
 - [Sentence-to-learning-tip segmentation coding by three trained coders reached an average Cohen's Kappa of 0.96](segmentation-coding-kappa-096.md) — a narrower finding that bears on this claim
 - [Learning-tip-to-lecture-topic coding by seven coders reached an overall agreement of 0.87 (Cohen's Kappa)](topic-coding-agreement-087.md) — related
+- [A non-fine-tuned pre-trained sentiment analysis model achieves moderate agreement with human coders of student open-ended answers](pretrained-sa-moderate-agreement.md) — a narrower finding that bears on this claim

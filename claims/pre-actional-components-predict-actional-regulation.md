@@ -86,3 +86,4 @@ Longitudinal multilevel analysis (HLM) of weekly self-reports from 194 universit
 - [E-learning self-efficacy relates to both positive and negative achievement emotions, while computer self-efficacy relates only to positive emotions](e-learning-vs-computer-self-efficacy-emotions.md) — related
 - [Specific goals show distinct directional effects: mastery approach and relational goals predict positive affect, beneficial help attitudes, and teaching quality, while work avoidance and appearance avoidance goals predict poorer outcomes.](specific-goal-directional-effects-on-outcomes.md) — related
 - [Psychosocial factors (social networks, anxiety, depression) do not predict GPA in older learners](psychosocial-factors-not-predict-gpa-older-learners.md) — related
+- [Creating educational Vlogs improved trainee teachers' motivational beliefs relative to written reflections](vlogs-improved-trainee-teacher-motivational-beliefs.md) — related

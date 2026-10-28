@@ -51,6 +51,8 @@ The article recommends that institutions use machine learning predictions of wit
 - [Use explainable machine learning early warning systems to help teachers identify struggling inquiry learners early](early-warning-system-teacher-support-inquiry.md)
 - [Integrate low-cost BCI neurofeedback with online learning platforms for scalable, personalized math support](integrate-bci-neurofeedback-online-platforms.md)
 - [Use early-run purchase predictions to trigger interventions guiding learners towards paying behaviour](early-purchase-prediction-interventions.md)
+- [Proactively identify upcoming critical events via stress tests, risk analysis, and learning analytics on program operation data](proactive-critical-event-identification.md)
+- [Engage teachers with predictive analytics dashboards to trigger timely interventions with students at risk](teacher-engagement-with-pla-interventions.md)
 
 ## Examples
 -

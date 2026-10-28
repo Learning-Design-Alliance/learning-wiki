@@ -13,7 +13,7 @@ generated:
 # Digital Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 14 claims (7 for, 6 mixed, 1 against) · 14 studies (3 causal, 3 associational, 3 qualitative, 2 theoretical, 1 quant-synthesis, 1 review, 1 design), `q1`–`q3` · 1 of 14 report an effect size · 13 claims rest on one study
+> **Evidence** · 16 claims (8 for, 7 mixed, 1 against) · 16 studies (4 associational, 3 causal, 3 qualitative, 2 quant-synthesis, 2 theoretical, 1 review, 1 design), `q1`–`q4` · 1 of 16 report an effect size · 15 claims rest on one study
 
 ## Description
 Digital learning is the element in which instruction, resources, or interaction are mediated through digital tools, platforms, or networks. It is useful when learners need flexible access, interactive media, or non-linear exploration.
@@ -50,6 +50,8 @@ Digital learning is the element in which instruction, resources, or interaction 
 - [Dataset 1 identified challenges in current teaching (resources, knowledge, digital tools) alongside opportunities for emerging technologies to clarify complex concepts and teach critical skills](../claims/dataset1-challenges-and-opportunities-themes.md) [+W]
 - [Teachers of lower-SES students were less likely to have previous online teaching experience and reported the transition to remote instruction as more challenging](../claims/ses-gap-teacher-online-experience-transition.md) [~W]
 - [Mobile devices served as the primary tool for learners and teachers during the emergent remote teaching process of the pandemic](../claims/mobile-devices-primary-tool-emergent-remote-teaching.md) [+W]
+- [Participants most valued flexibility of when and where to study, alongside vocabulary access and constant progress monitoring, as benefits of online applications](../claims/flexibility-top-perceived-benefit-apps.md) [+W]
+- [Effect sizes of technology-delivered literacy instruction are heterogeneous across studies (Q = 165.38, I2 = 68.56)](../claims/tech-literacy-effect-heterogeneity.md) [~W]
 
 ## Related Elements
 

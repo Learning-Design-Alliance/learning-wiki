@@ -66,3 +66,4 @@ Systematic review of 22 studies of AI in undergraduate higher education, coded w
 - [AI is not yet ready to replace teachers but presents a real possibility to augment them](ai-augments-not-replaces-teachers.md) — related
 - [ChatGPT was the most widely adopted AI platform in undergraduate higher education studies, with applications clustering around assessment automation and personalized learning support](chatgpt-dominant-platform-assessment-personalization.md) — related
 - [Experts report that critical media literacy remains insufficiently integrated into curricula and that technology integration is often superficial, limited to devices and software without a critical approach](experts-superficial-technology-integration.md) — related
+- [SAMR describes levels of subject-based technology integration but omits pedagogical, technological and learning-design supports for transitioning between stages](samr-narrow-descriptive-limits.md) — related

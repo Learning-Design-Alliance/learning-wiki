@@ -171,6 +171,7 @@ The expectation should weaken if comparisons with novices, holding total time eq
 - [Advance Organizers](../elements/advance-organizers.md) and [Part-task practice](../elements/part-task-practice.md): neighbouring building blocks placed before the main task
 - [4C/ID](../patterns/4cid-four-component-instructional-design.md): a whole-task pattern whose supportive information plays a similar role
 - [Multimedia Learning pattern](../patterns/multimedia-learning.md)
+- [Design VR lessons with structured pre-, during-, and post-experience tasks](../strategies/structured-pre-during-post-vr-tasks.md)
 
 ## Key Sources
 

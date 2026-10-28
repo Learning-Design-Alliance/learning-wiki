@@ -67,3 +67,4 @@ Theoretical commentary inferring a potential trade-off between affective appeal 
 - [The six dimensions of the Giannakas et al. (2018) review are categories of conditions, and the review lacks guidance for analyzing values](mgbl-review-dimensions-conditions-lacks-values.md) — related
 - [Giannakas et al. (2018) mixes instructional methods with learning theories, listing problem solving, experiential learning, situated learning, and task-based language learning as learning theories](mgbl-review-mixes-methods-with-learning-theories.md) — related
 - [mGBL makes more sense for teaching lower-level enabling content than complex performances that mix multiple learning domains](mgbl-suits-lower-level-enabling-content.md) — related
+- [The Giannakas et al. (2018) review found that transitioning game-based learning to mobile requires well-designed technological and pedagogical solutions, not quick modification](mobile-transition-requires-well-designed-solutions.md) — related

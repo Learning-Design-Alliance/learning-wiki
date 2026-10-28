@@ -66,3 +66,4 @@ Trend contrasts over the three measurement occasions: the quadratic trend (an ea
 ## Related Claims
 - [Video-based treatment produces significant macrostructure gains over five weeks, with a significant Group x Test interaction](video-treatment-significant-macs-pre-post-gain.md) — related
 - [Engagement peaked at the middle of the Mindsets program and declined slightly by post-test, showing a significant negative quadratic trend](mindsets-engagement-peaks-midpoint.md) — related
+- [A significant occasion-by-group interaction in SOLO scores indicates groups behaved differently between pre- and post-test](occasion-by-group-interaction-solo.md) — related

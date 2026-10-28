@@ -69,3 +69,4 @@ Study 1 thematic network analysis (Attride-Stirling method) of instructor interv
 - [Open inquiry positively influences students' attitudes towards science, including satisfaction, collaboration and self-confidence](open-inquiry-attitudes-towards-science.md) — related
 - [Online environments build adolescent competence through pride in achievements, social confidence, and creative confidence](online-competence-pride-confidence-creativity.md) — related
 - [Enjoyment is central within the science interest network](enjoyment-central-in-science-interest-network.md) — related
+- [Beyond cognitive gains, the experience increased girls' interest in computing and confidence, and fostered work ethics, perseverance, social development, digital citizenship, and independent learning](e5c-beyond-cognition-themes.md) — related

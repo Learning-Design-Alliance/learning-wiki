@@ -55,3 +55,4 @@ Teacher report on notebook implementation in the in-school implementation findin
 - [Digital game loading time caused issues but students had no significant navigation problems once the game loaded.](hero-elementary-game-loading-time-navigation-issues.md) — related
 - [Teachers found Hero Elementary playlist hands-on activities easy to implement because materials were supplied and prepped.](hero-elementary-hands-on-activities-easy-implementation-prepped-materials.md) — related
 - [The Hero Elementary playlist intervention showed no statistically significant effect on K-2 students' science knowledge (effect size 0.10, p ~ 0.38)](hero-elementary-playlists-no-significant-science-knowledge-effect.md) — related
+- [Ash and Jaspen studied the effects of viewing angle, screen distance, and room illumination on learning with a rear-projection daylight screen](viewing-conditions-rear-projection-study.md) — related

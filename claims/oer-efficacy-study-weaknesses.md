@@ -68,3 +68,4 @@ The synthesis's observation about the scarcity of randomized designs in the OER 
 - [Across 2002-2018, OER efficacy research consistently shows that OER does not harm student learning, with a small positive impact.](oer-does-not-harm-learning-aggregate.md) — related
 - [High school GPA is a better predictor of college graduation than standardized test scores, yet districts continue to rely on test-based readiness benchmarks](gpa-better-predictor-than-test-scores.md) — related
 - [A counting days grading incentive raises final exam scores more than a per-question points incentive in an introductory programming course](counting-days-incentive-higher-exam-scores.md) — related
+- [Teachers' challenges in accepting OER included time to sift resources, inconsistent quality, district discouragement, and negative attitudes](oer-acceptance-challenges-themes.md) — related

@@ -50,3 +50,4 @@ The synthesis's comparison of study counts before and after 2015, based on its s
 - [OER efficacy research methodology improved between 2015 and 2018, with more studies controlling for student and teacher variables.](oer-efficacy-methodology-improvement.md) — related
 - [Students achieve the same or better learning outcomes when using OER compared to commercial textbooks, while saving significant amounts of money.](oer-same-or-better-learning-outcomes-2015-2018.md) — related
 - [Open textbooks appear to offer financial benefits to students without decreasing learning outcomes in higher education](open-textbooks-financial-benefits-without-learning-decrease.md) — related
+- [Synthesized studies of OER in college courses found academic outcomes comparable to traditional textbooks and positive perceptions among students and instructors](oer-outcomes-comparable-perceptions-positive.md) — related

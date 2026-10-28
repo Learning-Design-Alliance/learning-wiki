@@ -61,10 +61,12 @@ Learning in games is driven by cycles of decision, feedback, and adjustment; wel
 6. Assess via in-game artifacts and decisions, followed by an out-of-game application task ([application](../elements/application.md)).
 
 ## Related Strategies
+
 - [Gamification](gamification.md) — applies game elements to non-game activities; shares motivational mechanisms but not the game-activity structure
 - [Simulation-Based Learning](simulation-based-learning.md) — the subset of GBL focused on modeling real systems
 - [Case-Based Learning](case-based-learning.md) — like GBL, situates learning in consequential decision-making, but without rules and win conditions
 - [Cooperative Learning](cooperative-learning.md) — multiplayer game structures often enact cooperative goals and individual accountability
+- [Activate learners' known material when designing online courses](activate-known-material-online-transition.md)
 
 ## Related Elements
 - [Practice](../elements/practice.md) — the game loop is repeated, feedback-rich practice

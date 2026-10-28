@@ -116,3 +116,4 @@ Second-hand attribution: the article reports that Gegner et al. (2009) found pre
 - [Prior studies reviewed show exploratory learning outperformed proceduralized instruction for training performance and transfer](prior-evidence-exploratory-beats-proceduralized.md) — related
 - [ELLs attempted academic terminology from prior lessons, with experience mediating their connection to the concept of vibration](experience-mediate-connection-academic-language-vibration.md) — related
 - [Learning each language in its own distinctive VR context reduced cross-language intrusions relative to learning both languages in a single context](dual-context-vr-reduced-language-intrusions.md) — related
+- [More response pretraining trials produce better performance in the task situation](more-response-pretraining-trials-better-transfer.md) — a narrower finding that bears on this claim

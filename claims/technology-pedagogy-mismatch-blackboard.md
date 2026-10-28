@@ -67,3 +67,4 @@ Historical analysis of the shift to age-graded schooling in the late nineteenth 
 - [Learning Space Redesign Alone Insufficient](learning-space-redesign-alone-insufficient.md) — related
 - [The complexity of successful instrumental genesis translates into severe barriers to adopting CSCL technologies, pedagogies, chronotypes, and educational philosophies in established school institutions](instrumental-genesis-complexity-adoption-barriers.md) — related
 - [An innovation foreign to the rest of its system tends to be rejected; lasting change needs a coordinated bundle of innovations.](isolated-innovations-are-rejected-by-the-system-they-enter.md) — a broader claim this one bears on
+- [Teachers at all five schools perceived the developed technology as common and indispensable, with no differences between school types](technology-perceived-common-indispensable-all-schools.md) — related

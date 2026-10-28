@@ -76,3 +76,4 @@ Model 3 of the same meta-regression added instructional focus, outcome proximity
 - [Outcome proximity moderates the dose–response relation: distal outcomes outperform proximal outcomes at dosages at or below 5.43 h, while proximal outcomes exceed distal outcomes at or above 22.6 h](proximity-by-dosage-interaction.md) — related
 - [Mathematics outcomes benefit from PA with academic instruction of 6–10-week duration at moderate or moderate-to-vigorous intensity, and language outcomes from enriched PA programmes](pa-academic-instruction-benefits-maths-enriched-benefits-language.md) — related
 - [Increases in learning duration and screen time predict change in academic grades over 2 years, while BMI change has no main effect](learning-duration-screen-time-main-effects-grades.md) — related
+- [Longer total intervention time is associated with greater learning gains, especially for low achievers](longer-time-on-task-greater-gains.md) — related

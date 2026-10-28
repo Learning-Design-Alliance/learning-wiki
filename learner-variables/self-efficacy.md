@@ -13,7 +13,7 @@ generated:
 # Self-Efficacy
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 164 claims (120 show a difference, 25 mixed, 19 no difference) · 134 studies (53 associational, 28 causal, 20 review, 14 qualitative, 8 design, 6 theoretical, 5 quant-synthesis), `q1`–`q4` · 29 of 134 report an effect size · 160 claims rest on one study
+> **Evidence** · 165 claims (121 show a difference, 25 mixed, 19 no difference) · 135 studies (54 associational, 28 causal, 20 review, 14 qualitative, 8 design, 6 theoretical, 5 quant-synthesis), `q1`–`q4` · 29 of 135 report an effect size · 161 claims rest on one study
 
 ## Description
 Self-efficacy is Bandura's term for task-specific confidence: how sure a learner is that they can do what a task requires. It is measured with self-report scales tied to a domain (mathematics self-efficacy, writing self-efficacy, computer self-efficacy). It predicts effort, persistence and achievement, it moderates some instructional effects, and it is itself an outcome that instruction can raise, chiefly through experiences of success, seeing similar others succeed, and specific feedback. It is narrower than [motivation](motivation.md) and distinct from general self-esteem.
@@ -195,6 +195,7 @@ Self-efficacy is Bandura's term for task-specific confidence: how sure a learner
 - [Low self-efficacy students teaching a low self-efficacy tutee performed on par with high self-efficacy students](../claims/low-se-students-match-performance-par.md) [-M] — learners who differ on it differ in outcomes
 - [Students teaching a digital tutee with low self-efficacy show better in-game math performance than students teaching a high self-efficacy tutee](../claims/low-se-tutee-better-in-game-performance.md) [+M] — an instructional effect differs with it
 - [In a cross-sectional survey analysed with SEM, self-efficacy's direct path to learning engagement was non-significant, and its association with engagement ran indirectly through self-regulation, teaching presence and cognitive presence (statistical mediation, which cannot show cause)](../claims/self-efficacy-engagement-fully-mediated.md) [-M] — learners who differ on it differ in outcomes
+- [Mastery experiences are the central source of self-efficacy: they strongly predict self-efficacy and uniquely predict intentions when other variables are controlled](../claims/mastery-experiences-central-source-self-efficacy.md) [+M] — instruction changes it
 
 ## The evidence by question
 

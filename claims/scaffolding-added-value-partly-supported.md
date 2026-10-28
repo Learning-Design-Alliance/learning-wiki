@@ -75,3 +75,4 @@ Post hoc analysis of scaffolding combinations, with printed effect "g = 1.60, SE
 - [Example-based instructional activities yield larger effects when delivered jointly by ICT and teachers than by teachers alone](examples-joint-ict-teacher-delivery-larger-effects.md) — related
 - [Adding metacognitive prompts to video modeling examples yields no added benefit for inquiry products](metacognitive-prompts-no-added-benefit-video-modeling.md) — a narrower finding that bears on this claim
 - [Combining a video experiment with a virtual experiment does not foster conceptual understanding more than a virtual experiment alone during remote schooling](video-virtual-combination-no-advantage-over-virtual-only.md) — related
+- [Adding individual reflection to the SNS safety course produced changes in attitudes and behavior that the collaborative version did not](individual-reflection-improves-attitudes-behavior.md) — reports the opposite

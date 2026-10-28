@@ -28,7 +28,7 @@ sources:
 # Flipped Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 34 claims (16 for, 17 mixed, 1 against) · 37 studies (13 causal, 10 review, 8 quant-synthesis, 3 associational, 2 theoretical, 1 qualitative), `q1`–`q4` · 11 of 37 report an effect size · 27 claims rest on one study
+> **Evidence** · 35 claims (16 for, 18 mixed, 1 against) · 38 studies (13 causal, 10 review, 8 quant-synthesis, 3 associational, 2 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 11 of 38 report an effect size · 28 claims rest on one study
 
 ## Conditional relationship
 
@@ -168,6 +168,7 @@ An end-of-course exam advantage, delayed retention, self-efficacy, preparation r
 - [Providing all students with instant personalised guidance at the same time is a challenge for flipped learning that ChatGPT-FLGA was designed to address](../claims/flipped-learning-personalised-guidance-gap.md) [~W]
 - [Lecture-based learning events show a clearer decline in EDA across within-event segments than flipped learning events](../claims/lecture-based-events-clearer-eda-decline-across-segments.md) [~W]
 - [Teaching implementation (flipped vs. lecture-based) shows no significant main effect on post-event emotional valence](../claims/no-main-effect-of-teaching-implementation-on-post-event-valence.md) [~W]
+- [No significant difference between flipped and classroom-only groups in belonging or usability ratings](../claims/duda-flipped-classroom-no-difference.md) [~W]
 
 ## Related Principles
 - [Scaffolding and Fading](scaffolding-and-fading.md) — how support in the pre-class work and the live session is withdrawn across a term

@@ -73,3 +73,4 @@ Null secondary analyses in the same cohort: Kendall's tau correlation of age wit
 - [Gender differences in perceived transversal skills, with male students higher](gender-differences-transversal-skills-male-higher.md) — related
 - [Male faculty report modestly higher self-perceived GenAI knowledge than female faculty in TK and TPK, with small effect sizes](gender-differences-technological-genai-knowledge-small-effects.md) — related
 - [Male students report significantly higher overall technological self-efficacy than female students (p = 0.001)](overall-gender-gap-technological-confidence.md) — related
+- [No significant gender differences were found on any model variable](no-gender-differences-model-variables.md) — reports the opposite

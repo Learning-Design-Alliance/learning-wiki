@@ -40,6 +40,7 @@ The report distills its exploratory findings into four recommendations for futur
 ## Related Strategies
 
 - [Maintain professional development and educator collaboration throughout an edtech pilot](sustain-pd-and-collaboration-throughout-edtech-pilot.md)
+- [Implement OEP in teacher education and professional development with formative milestones and adequate time](oep-pd-implementation-strategy.md)
 
 ## Examples
 -

@@ -50,3 +50,4 @@ The synthesis's aggregate finding across the direct-comparison perceptions studi
 - [The majority of faculty and students who have used OER had a positive experience and would do so again.](oer-positive-perceptions-majority.md) — related
 - [In studies comparing ratings from separate groups of OER users and CT users, results were mixed: two studies favored CT, two favored OER, and one showed similar ratings.](oer-separate-group-ratings-mixed.md) — related
 - [Open textbooks appear to offer financial benefits to students without decreasing learning outcomes in higher education](open-textbooks-financial-benefits-without-learning-decrease.md) — related
+- [Synthesized studies of OER in college courses found academic outcomes comparable to traditional textbooks and positive perceptions among students and instructors](oer-outcomes-comparable-perceptions-positive.md) — a broader claim this one bears on

@@ -51,3 +51,4 @@ Review coding of social collaboration across the 37 studies. It reports 'Only fi
 - [Student choice is rare in authentic assessment designs while assigned, sometimes graded, self-reflection is more common](aa-student-choice-rare-reflection-assigned.md) — related
 - [Authentic Audiences Improve Student Work](authentic-audiences-improve-student-work.md) — related
 - [Authentic assessment designs in higher education predominantly replicate professional workplace scenarios, with few addressing social authenticity](aa-designs-predominantly-professional-authenticity.md) — related
+- [Uploading design sketches to Facebook for broad feedback was associated with higher exam scores than no social media use](facebook-sketch-feedback-higher-exam-scores.md) — related

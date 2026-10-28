@@ -32,7 +32,8 @@ EarthTime is an interactive geospatial data-visualization platform developed and
 - [Multimedia Principle Improves Learning](../claims/multimedia-principle-improves-learning.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [Gapminder](gapminder.md)
 
 ## Key Sources
 - Computational Thinking Boosters: Data & Analysis in 3-8. (2020). Webinar slide deck, NSF grant #1923314. https://www.nsf.gov/awardsearch/?AwardId=1923314

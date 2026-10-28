@@ -66,3 +66,4 @@ collaboration."
 - [The SKT-SRL shows acceptable-to-very good internal consistency across subscales](skt-srl-reliability.md) — related
 - [Learning-process and psychological constructs correlate only weakly with aggregate final artistic performance](process-constructs-weakly-correlated-final-performance.md) — related
 - [AI literacy scales show good structural validity and internal consistency but are rarely tested for other measurement properties](ai-scales-structural-validity-strong-other-properties-untested.md) — related
+- [The DIGISOC instrument was developed through a literature review, dimension and item construction, and validity and reliability assessment](digisoc-development-process.md) — related

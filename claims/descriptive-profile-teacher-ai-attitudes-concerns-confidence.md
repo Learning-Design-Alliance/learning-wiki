@@ -49,3 +49,5 @@ Descriptive statistics from the 35-item, five-point Likert survey of 260 teacher
 - [Research on five of six teacher-identified concerns increased between AERA's 2005–2014 and 2022–2025 conference eras, led by mental health (+670%) and technology/AI (+145%)](teacher-concern-research-increased-between-aera-eras.md) — related
 - [Teacher concerns do not significantly moderate the support-confidence relationship nor directly predict confidence or attitudes](teacher-concerns-do-not-moderate-support-effects.md) — related
 - [Institutional support significantly and positively predicts teacher confidence in adopting AI among Philippine teachers](institutional-support-predicts-teacher-ai-confidence.md) — related
+- [Irûmi increased second-graders' positive attitudes toward technology by 0.228 SD](irumi-student-technology-attitudes.md) — related
+- [Irûmi improved teachers' attitudes toward new technologies in education by 0.293 SD](irumi-teacher-technology-attitudes.md) — related

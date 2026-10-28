@@ -93,3 +93,4 @@ A monograph by five cognitive/educational psychologists reviewing the empirical 
 - [Descriptive habit-strength ratings rank highlighting highest, followed by rereading, self-testing, and concept mapping](habit-strength-descriptives-four-strategies.md) — related
 - [Ineffective learning strategies show substantially higher habit strength than effective strategies in a proof-of-concept survey](ineffective-strategies-higher-habit-strength.md) — a narrower finding that bears on this claim
 - [Anthropomorphic and colour features can capture and guide attention, overlapping with the signaling principle](emotional-design-attention-guidance-signaling-overlap.md) — related
+- [Undergraduate students who created knowledge maps from underlined text wrote essays with significantly higher logical coherence and constructiveness than students who did not create maps](knowledge-mapping-improves-argumentative-essay-quality.md) — related

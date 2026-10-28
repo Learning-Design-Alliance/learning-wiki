@@ -52,7 +52,8 @@ The learning design places an individually-oriented VR medium inside a three-par
 - [The editorial reports that immersive VR became a resource for collaborative meaning making through 'emancipatory immersion' (Silseth et al.)](../claims/vr-collaborative-meaning-making-emancipatory-immersion.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Design VR lessons with structured pre-, during-, and post-experience tasks](structured-pre-during-post-vr-tasks.md)
 
 ## Examples
 -

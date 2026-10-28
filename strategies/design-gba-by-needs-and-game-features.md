@@ -42,6 +42,7 @@ The review recommends that practitioners "design GBA according to their educatio
 ## Related Strategies
 
 - [Use GBA data to identify perfunctory game moments and redesign them as reflective practices embedded in game-flow](gba-data-informs-reflective-redesign.md)
+- [Design recommendations for game-based performance assessment of professional competencies](serious-game-assessment-design-recommendations.md)
 
 ## Examples
 -

@@ -66,6 +66,7 @@ Multisensory instruction is best understood through dual coding: pairing verbal 
 - [Derive design principles, measurement recommendations, and testable predictions for embodied STEM instruction from the cognitive load account](embodied-stem-design-measurement-predictions.md)
 - [Montessori method: teach writing as a game from ages three to four using sandpaper letters, crayon filling, and progressive tracing](montessori-sandpaper-writing-method.md)
 - [Design auditory-cognitive trainings with natural, relatable speech material and multisensory presentation to target far transfer to real-world listening](naturalistic-multisensory-act-design-strategy.md)
+- [Use multisensory audio-visual games to train transversal skills alongside curricular content](multisensory-audio-visual-games-transversal-skills.md)
 
 ## Examples
 - **Orton-Gillingham approach** (and derivatives like [Wilson Reading System](https://www.wilsonlanguage.com) and [SPIRE](https://www.schoolspecialty.com/spire)) — learners see a letter, say its sound, and trace it in sand or on a textured surface simultaneously; the approach underpins most structured literacy interventions for dyslexia.

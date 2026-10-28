@@ -48,3 +48,4 @@ Survey findings section reporting days between physical closure and online reope
 ## Related Claims
 - [Nearly 80 percent of surveyed charter schools operated fully remotely in April 2020, falling to about half by the 2020-21 school year](charter-instructional-modes-remote-to-hybrid-shift.md) — related
 - [Planning start time was unrelated to how quickly schools began remote instruction; schools averaged 3 school days between building closure and the start of instruction](planning-timing-no-link-to-instruction-start.md) — related
+- [Level of preparedness was not a direct indicator of a simple transition to ERT](preparedness-not-direct-indicator-ert-transition.md) — related

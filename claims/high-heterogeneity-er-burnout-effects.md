@@ -51,3 +51,4 @@ Heterogeneity assessment of all pooled ER–burnout associations using Q and I²
 - [Substantial unexplained heterogeneity characterises short-term effects of targeted K-6 interventions](substantial-heterogeneity-short-term-effects.md) — related
 - [Effect sizes vary widely between studies and especially between comparisons within studies](large-variation-word-reading-intervention-effects.md) — related
 - [Effect sizes across studies show substantial heterogeneity, with wide prediction intervals spanning large negative to large positive true effects](heterogeneity-math-interventions-co-occurring.md) — related
+- [Effect sizes of technology-delivered literacy instruction are heterogeneous across studies (Q = 165.38, I2 = 68.56)](tech-literacy-effect-heterogeneity.md) — a narrower finding that bears on this claim

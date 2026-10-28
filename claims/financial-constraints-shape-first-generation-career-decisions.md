@@ -57,3 +57,4 @@ Reflective editorial section on financial barriers, drawn from the authors' shar
 - [College-specific barriers related to resources, time, and local labor market conditions limited implementation of the statewide E-HLTH career studies certificate](college-specific-barriers-limited-ehlth-certificate-implementation.md) — related
 - [Cost, inflexible formats, and misalignment with goals or industry demand are reported barriers to educational and training opportunities](tech-training-cost-inflexibility-misalignment-barriers.md) — related
 - [Qualitative research shows resource fit—safety and financial resources—shapes marginalized students' sense of belonging](resource-fit-qualitative-belonging.md) — related
+- [Voluntary external supervisors were critical to sustaining the program, requiring ethical and career incentives when economic resources are scarce](voluntary-supervisor-incentives-scarce-resources.md) — related

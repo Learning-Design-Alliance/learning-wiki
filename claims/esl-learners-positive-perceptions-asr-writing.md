@@ -65,3 +65,4 @@ Mixed-methods one-shot study: 17 ESL students in a university EAP class trained 
 - [Students reported mixed, task-dependent perceptions of the efficiency and speed of voice versus text input](mixed-efficiency-speed-perceptions.md) — related
 - [Teachers rate AI-interaction training as useful and relevant and report positive adoption intentions](teachers-rate-ai-training-useful-positive-adoption.md) — related
 - [Older adults rate the blended LMS workshop positively on ease of use, perceived usefulness, attitude toward using, and intention to use](tam-validation-blended-workshop-older-adults.md) — related
+- [Students perceived HPL as positively as Scratch across TAM dimensions](hpl-student-perception-equal-scratch.md) — related

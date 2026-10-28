@@ -13,7 +13,7 @@ generated:
 # Gamification
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 15 claims (8 for, 6 mixed, 1 against) · 12 studies (4 review, 3 causal, 3 quant-synthesis, 1 qualitative, 1 theoretical), `q2`–`q4` · 3 of 12 report an effect size · 14 claims rest on one study
+> **Evidence** · 16 claims (8 for, 7 mixed, 1 against) · 13 studies (4 review, 3 causal, 3 quant-synthesis, 1 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 3 of 13 report an effect size · 15 claims rest on one study
 
 ## Description
 Gamification is the element in which points, progress indicators, challenges, or other game-like structures are used to shape participation and persistence.
@@ -39,6 +39,7 @@ Gamification is the element in which points, progress indicators, challenges, or
 - [Game Show availability did not affect tutor learning on either test](../claims/game-show-no-effect-tutor-learning.md) [~W]
 - [Gamification elements significantly affected students' achievements](../claims/gamification-elements-significantly-affected-achievements.md) [+W]
 - [Gamified virtual reality learning environments were more motivating, engaging, and interactive than traditional learning environments](../claims/gamified-vr-more-motivating-engaging-interactive-than-traditional.md) [+W]
+- [Teacher interviews identified perceived risks of gamified EFL tools: lack of support from principals, parents or students, side effects, and loss of teacher control](../claims/teacher-perceived-risks-gamified-efl.md) [~W]
 
 ## Related Elements
 - [Adaptive Difficulty](adaptive-difficulty.md)

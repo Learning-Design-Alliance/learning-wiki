@@ -55,3 +55,4 @@ Re-estimated main models testing whether pandemic effects vary by socioeconomic 
 - [Each week of full school closure is associated with an additional 0.44-point decline in mathematics achievement](weekly-closure-0-44-point-decline.md) — related
 - [Contrary to the hidden-talents hypothesis, low-SES students scored 18% lower on mathematics items of real-world importance](real-world-math-items-lower-low-ses-scores.md) — related
 - [Assessments like PISA-VET risk reinforcing inequalities in VET if underlying socioeconomic inequities are unaddressed](pisa-vet-equity-risk.md) — related
+- [The COVID-19 pandemic pushed institutions globally to abruptly shift instruction digital](covid-19-abrupt-digital-shift-instruction.md) — related

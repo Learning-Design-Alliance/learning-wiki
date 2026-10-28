@@ -177,3 +177,4 @@ Cross-unit thematic findings from the seven-respondent survey case study; the ar
 - [Cultural difference and inclusion challenges affect equity: 53% of relevant papers flag insufficient cross-cultural tailoring, and facial recognition misidentifies darker skin tones](aied-cultural-inclusion-challenges.md) — related
 - [Teachers aspire to enhanced cognitive abilities such as superintelligence and super memory to support teaching](teachers-desire-enhanced-cognitive-abilities.md) — related
 - [ITS adoption is limited by instructors' lack of programming skills and high outsourcing costs](its-barriers-programming-skills-and-cost.md) — related
+- [Using the TARGET-tool was associated with teacher professional development across all four IMPG domains: external, domain of practice, domain of consequence, and personal domain](target-tool-impg-domain-changes.md) — related

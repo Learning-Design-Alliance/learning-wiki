@@ -39,6 +39,7 @@ The commentary's forward-looking recommendation is that the special issue's arti
 ## Related Strategies
 
 - [Advance AI-motivation research through theory-driven, pedagogically explicit, longitudinal designs covering broader motivational constructs](future-ai-motivation-research-recommendations.md)
+- [Use mobile game-based learning findings to guide practice and pursue smartphone-enabled virtual reality and design-pedagogy-impact research directions](mgb-practice-and-future-directions.md)
 
 ## Examples
 -

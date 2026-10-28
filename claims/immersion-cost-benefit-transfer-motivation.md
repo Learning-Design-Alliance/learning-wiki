@@ -79,3 +79,5 @@ The review reports, citing Frederiksen et al. (2020) in surgical training, that 
 - [Immersive lessons show a small effect size advantage over less immersive technology, but increased presence does not necessarily lead to more learning](immersive-lessons-small-advantage-presence-not-sufficient.md) — related
 - [Middle-school students taking a virtual field trip via a 3D HMD report higher enjoyment than students taking the same trip as a 2D video](hmd-virtual-field-trip-higher-enjoyment-than-2d-video.md) — related
 - [Immersive presentation keeps comprehension performance stable across a training session while auditory-only performance decreases toward the end](immersive-training-comprehension-stability.md) — a narrower finding that bears on this claim
+- [High-immersion VR produced significantly higher enjoyment than video instruction, with a medium effect size](vr-higher-enjoyment-than-video.md) — a narrower finding that bears on this claim
+- [VR and video instruction groups reported comparable cognitive load in the anatomy lesson](vr-video-comparable-cognitive-load.md) — related
