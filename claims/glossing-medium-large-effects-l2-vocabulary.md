@@ -64,7 +64,7 @@ The review reports, citing Vahedi et al. (2016), that multiple glosses combining
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Do glosses and dictionary use during second-language reading raise the words learned from it?* This table gathers the studies behind this claim and the 7 narrower claims that bear on it: **3 distinct studies** (1 quant-synthesis, 1 causal, 1 review), `q2`–`q3`, 0 of 3 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Do glosses and look-up helps beside second-language material help learners learn its words and understand it, and for whom?* This table gathers the studies behind this claim and the 7 narrower claims that bear on it: **3 distinct studies** (1 quant-synthesis, 1 causal, 1 review), `q2`–`q3`, 0 of 3 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|

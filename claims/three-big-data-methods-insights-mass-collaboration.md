@@ -55,3 +55,4 @@ The editorial reports that Holtz et al. describe three prototypical big data met
 - Cluster analysis of blog networks yields five distinct social-role categories — related
 - Artifacts and their interconnected structure operationalize collective knowledge processes in large-scale Wikipedia analysis — related
 - [Wikipedia history analysis shows external assimilation: a user added only the CSILE/Knowledge Forum link without further changes](wikipedia-cscl-external-assimilation-example.md) — a narrower finding that bears on this claim
+- [Reviewed CSCL systems are further characterized by interaction data type, derivation processes, and feedback type](cscl-systems-characterized-data-processes-feedback.md) — related

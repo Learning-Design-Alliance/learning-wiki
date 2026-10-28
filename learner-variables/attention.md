@@ -13,7 +13,7 @@ generated:
 # Attention
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 132 claims (90 show a difference, 27 mixed, 15 no difference) · 101 studies (30 causal, 26 associational, 20 review, 12 quant-synthesis, 5 qualitative, 5 design, 3 theoretical), `q1`–`q4` · 21 of 101 report an effect size · 127 claims rest on one study
+> **Evidence** · 134 claims (91 show a difference, 28 mixed, 15 no difference) · 102 studies (31 causal, 26 associational, 20 review, 12 quant-synthesis, 5 qualitative, 5 design, 3 theoretical), `q1`–`q4` · 21 of 102 report an effect size · 129 claims rest on one study
 
 ## Description
 How long a learner can sustain focus, and how readily something else takes it. Distinct from [working memory](working-memory.md): attention governs what *reaches* the store, capacity governs what it holds. It converts into segment length, distractor design, and how much a page may hold in one uninterrupted run. The design lever is mostly subtractive — the strongest findings here are about what to remove [-M].
@@ -170,6 +170,8 @@ How long a learner can sustain focus, and how readily something else takes it. D
 - [Cognitive control strategies enhanced young children's coding skills, with attention during learning related to coding outcomes](../claims/cognitive-control-strategies-improve-coding-skills-attention-linked.md) [+M] — learners who differ on it differ in outcomes
 - [Cognitive control strategies helped young children maintain attention during real coding lessons](../claims/cognitive-control-strategies-maintain-young-children-attention-coding.md) [+M] — instruction changes it
 - [Strategy-group children maintained stable attention across lessons while control-group attention varied by lesson](../claims/stable-attention-across-lessons-strategy-group.md) [+M] — instruction changes it
+- [GazeTutor successfully reoriented learners' attentional patterns towards the interface](../claims/gazetutor-reoriented-attention.md) [+M] — instruction changes it
+- [Real-time mind wandering intervention corrected comprehension deficits when mind wandering probability was high](../claims/mind-wandering-intervention-corrects-comprehension.md) [~W] — an instructional effect differs with it
 
 ## The evidence by question
 - *Does making material more interesting with details that do not carry the target cost learning?* [Interesting but irrelevant details can impair comprehension and transfer, with effects that vary with the material and the learner](../claims/seductive-details-effect.md) [+S]

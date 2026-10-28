@@ -65,3 +65,4 @@ Reliability of the two coders' independent ratings before adjudication of the 66
 - [Hypothesized indirect effects from technology acceptance to engagement through reflective use, PSE, and the serial RU–PSE path are not significant (null result)](indirect-effects-not-significant-survey.md) — related
 - [Students engaged deeply with LLM feedback, with coded evidence of reflection, rebuttal, and acceptance in the large majority of responses](deep-engagement-llm-feedback-reflection-rebuttal-acceptance.md) — related
 - [Engagement in deep learning activities, as measured by NSSE's DEEP Learning scale, shows no statistically significant relationship with objectively measured critical thinking at the end of the first year](deep-learning-scale-no-caap-critical-thinking-relationship.md) — related
+- [Engagement does not mediate the grade difference between tool users and non-users](engagement-does-not-mediate-grade-difference.md) — related

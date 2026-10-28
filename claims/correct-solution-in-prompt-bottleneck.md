@@ -52,3 +52,4 @@ Prompting experiment in the failure-mode analysis section: DEEPSEEK-V3.2 and GLM
 - [On the misconception-annotated math dataset, LLMs predominantly follow a solve-first, error-injection process aligned with misconception-based distractor design](llms-solve-first-error-injection-edi.md) — related
 - [Teacher-provided correct answers and pre-prompting reduce erroneous LLM output and hallucinations compared with open chatbot use](leap-pre-prompting-reduces-hallucinations.md) — related
 - [Enforcing an explicit multi-step reasoning structure yields no significant improvement for the two studied models, which already self-organize an effective reasoning structure](enforced-structure-no-gain-self-organized-reasoning.md) — related
+- [Distractor similarity to the correct answer increases MCQ complexity](distractor-similarity-increases-complexity.md) — related

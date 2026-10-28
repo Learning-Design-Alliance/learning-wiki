@@ -68,3 +68,4 @@ The commentary reports an interaction between instructional approach and prior k
 - [In the few studies that split by ability, learning techniques helped low-ability students and not high-ability students](learning-techniques-benefit-low-ability-not-high-ability-students.md) — reports the opposite
 - [Learners with high prior knowledge benefit more from segmenting in retention performance than learners with no or low prior knowledge](prior-knowledge-moderates-segmenting-retention.md) — related
 - [In replication analyses, the variety conditions were particularly beneficial for students with low prior GPAs, while the same-type-only conditions had negligible effect sizes](uv-variety-benefits-low-prior-gpa.md) — related
+- [The effect of practice schedules on learning outcomes depends on students' prior knowledge.](schedule-effect-depends-prior-knowledge.md) — reports the opposite

@@ -84,3 +84,5 @@ The authors' summary of the path analysis model (CFI 1.0, TLI 1.0, RMSEA 0.0, SR
 - [Procedural prior knowledge predicted conceptual post-test skill, but conceptual prior knowledge did not predict procedural post-test skill](procedural-prior-predicts-conceptual-post.md) — related
 - [Question quality, not study time, predicted comprehension test performance among questioners](question-quality-not-time-predicts-achievement.md) — related
 - [Pretest performance and average math grade correlate with conceptual knowledge but not procedural knowledge posttest scores](pretest-grade-correlate-conceptual-not-procedural.md) — related
+- [Tutoring after competition was rare and not predictive of procedural learning gains](low-tutoring-after-competition-not-predictive.md) — related
+- [Students improved procedural equation-solving skill after tutoring SimStudent, but conceptual understanding did not improve](tutoring-simstudent-improves-procedural-not-conceptual.md) — related

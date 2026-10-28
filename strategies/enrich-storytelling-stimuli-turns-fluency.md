@@ -39,6 +39,7 @@ Based on user feedback and failure analysis, the authors recommend enriching the
 ## Related Strategies
 
 - [Interactive Storytelling](interactive_storytelling.md)
+- [Design OLMs for emerging interface technologies using user-centred design with the teacher](user-centred-olm-design-for-emerging-interfaces.md)
 
 ## Examples
 -

@@ -51,3 +51,5 @@ Descriptive comparison by degree from Table 5 of the February 2025 log data (64,
 - [Syntea adoption is highest among Gen Z students (63.66%) and declines across older generational cohorts](syntea-usage-declines-older-cohorts.md) — related
 - [Syntea usage concentrates on weekdays and daytime hours, with part-time students shifting use to weekends and evenings relative to full-time students](syntea-temporal-patterns-weekday-daytime.md) — related
 - [Educational background relates only to the personal-experiences dimension of AI perception, with master's degree holders scoring higher than bachelor's degree holders](educational-background-limited-ai-perception-effect.md) — related
+- [AI tool usage patterns differed by academic level](ai-usage-patterns-differ-by-level.md) — related
+- [Master's students gained more on conciseness than bachelor's students](masters-greater-conciseness-gains.md) — related

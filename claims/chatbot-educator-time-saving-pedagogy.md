@@ -59,3 +59,4 @@ Narrative synthesis in the educator-advantages section of the review. The review
 - [Middle school teachers envisioned AI chatbots as adaptive instructional scaffolds providing differentiated support responsive to students' varying needs](teachers-envision-chatbots-adaptive-scaffolds-differentiated-support.md) — a narrower finding that bears on this claim
 - [Lesson designers report LLM-generated lessons save substantial time drafting scenarios and multiple-choice questions](llm-lessons-time-saving-scenario-drafting.md) — a narrower finding that bears on this claim
 - [The commentary argues there is little evidence that personalised learning technologies have saved teacher time or reduced workload](little-evidence-personalisation-saves-teacher-time.md) — reports the opposite
+- [Computer-based learning systems need to adapt to learners' needs to provide effective personalised instruction](adaptation-needed-for-personalised-instruction.md) — related

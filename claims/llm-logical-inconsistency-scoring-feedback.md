@@ -60,3 +60,4 @@ Qualitative constant comparative analysis of GPT-4's reasoning chains during the
 - [Dominant logical fallacies in LLM mathematical explanations shift from family to family and across prompting modes](llm-math-explanation-fallacies-vary-by-family.md) — related
 - [Behavioral similarity between LLMs and learners does not guarantee mechanistic similarity](llm-behavioral-similarity-not-mechanistic-similarity.md) — related
 - [GPT-4's chain-of-thought reasoning, captured via structured output, was consistently reliable and appeared to provide logical, context-grounded justification usable for prompt tuning and end-user insight](gpt4-cot-reasoning-reliable-transparent.md) — reports the opposite
+- [AI models inconsistently capture expert feedback points across generation attempts](ai-feedback-inconsistent-across-attempts.md) — related

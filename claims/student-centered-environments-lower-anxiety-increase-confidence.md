@@ -64,3 +64,4 @@ The article's concluding synthesis, an authors' interpretation connecting proces
 - [Practice defined as meaningful language use plus effortful practice of difficult features is beneficial and even essential for second language acquisition](meaningful-effortful-practice-beneficial-essential-l2.md) — related
 - [Large language models can support learning and teaching across education levels, from reading and writing support for elementary students to professional training](llm-support-learning-across-education-levels.md) — related
 - [Second language learners' private speech is associated with L2 development and motivation to learn the language](private-speech-associated-l2-development-motivation.md) — related
+- [Thesis Writer, a domain-specific online scaffolding environment for academic writing, was used and deemed supportive by first-year business administration students](thesis-writer-used-and-deemed-supportive-by-students.md) — related

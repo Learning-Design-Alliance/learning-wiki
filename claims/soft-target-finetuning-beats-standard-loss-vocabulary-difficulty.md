@@ -52,3 +52,4 @@ Ablation analysis (Section 6.1, Tables 4 and 5) of the fine-tuned Ministral-3-14
 - [Under a five-band discretization of difficulty, the simulated-respondent model reaches quadratic weighted kappa 0.835 versus 0.692 (MetaMath) and 0.625 (MathBERT)](qwk-discretized-difficulty-agreement-0835.md) — related
 - [KL-divergence and binary cross-entropy losses for course prediction yield grade prediction within 1-2% of each other](kl-versus-bce-loss-ablation.md) — related
 - [Discrimination parameter recovery is weak (Pearson 0.31 for Qwen3.5-9B, below MathBERT's 0.35), with slope information partially lost through ability discretization](weak-discrimination-parameter-recovery.md) — related
+- [MSE loss performed at least as well as cross-entropy loss for pseudo-regression scoring of constructed response items](mse-loss-at-least-as-effective-as-cross-entropy.md) — related

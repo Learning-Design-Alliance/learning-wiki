@@ -49,3 +49,4 @@ Meso-level cluster tracking across temporal KCNs. The article reports that keywo
 - [AIED research centers on two sustained themes: intelligent tutoring systems (2010–19) and massive open online courses (since 2014)](aied-two-sustained-themes-its-mooc.md) — related
 - [New AIED knowledge clusters — 'eye tracking' and 'deep learning' — emerge only in the most recent period (2018–19)](new-clusters-eye-tracking-deep-learning-2018-19.md) — related
 - [Of the student models surveyed from 2013-2014 AIED, EDM and ITS conferences, 53% have low or mid portability restrictions.](graded-portability-of-70-student-models-2013-2014.md) — related
+- [Intelligent class monitoring is separated from intelligent collaboration support because it focuses on teacher support and relies on data mining and machine learning](intelligent-class-monitoring-separate-group-rationale.md) — related

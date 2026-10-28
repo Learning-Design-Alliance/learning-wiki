@@ -51,3 +51,4 @@ Inter-task correlation analysis computing pairwise Spearman's ρ across the 30 e
 - [VLM performance on artistic educational imagery is highly task-dependent, with no model dominating across capabilities](vlm-performance-task-dependent-muse.md) — related
 - [Standardized benchmarks are often too generic to reflect the needs of innovative educational applications](standardized-benchmarks-too-generic-for-education.md) — related
 - [Human performance forms the outer envelope on nearly all MUSE tasks, with the largest deficits in Relative Position, Emotion Detection, and Jigsaw Puzzle](human-vlm-gap-muse-tasks.md) — related
+- [Complexity measures for logic puzzles vary in correlation with difficulty across puzzle types](puzzle-complexity-measures-correlate-difficulty.md) — related

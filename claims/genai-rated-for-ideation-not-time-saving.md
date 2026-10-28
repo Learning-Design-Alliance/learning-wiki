@@ -76,3 +76,4 @@ Section-level post-course ratings in the intervention cohort: flipped-learning c
 - [Students rated the image decoding, poster sharing, and synthesis lecture components of a digital-images inquiry highest on a five-point feedback scale](digital-images-inquiry-student-feedback-ratings.md) — related
 - [Students used GenAI and XR in complementary roles: GenAI for ideation and visual reference generation, XR for spatial, contextual, and scale-based evaluation](genai-xr-complementary-roles-design.md) — related
 - [Lesson designers report LLM-generated lessons save substantial time drafting scenarios and multiple-choice questions](llm-lessons-time-saving-scenario-drafting.md) — related
+- [Students rated the tutor 3.4 out of 5 overall and particularly liked the worked-out solution feedback](ask-elle-student-satisfaction-3-4-of-5.md) — related

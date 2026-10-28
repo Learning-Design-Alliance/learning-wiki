@@ -66,3 +66,4 @@ Time-to-first-fixation analysis for the five difficulty levels: level four was s
 ## Related Claims
 - [Engage-to-Unlock redistributed effort across tasks: participants spent more time writing and less time evaluating, without increasing overall task duration](engage-to-unlock-redistributes-effort-across-tasks.md) — related
 - [Secondary school students selecting tasks without guidance base most selections on content and rarely on difficulty or support level](students-select-tasks-mostly-on-content.md) — related
+- [Head and eye movements increase over time and with task difficulty during computer-based learning sessions.](head-eye-movements-increase-time-difficulty.md) — related

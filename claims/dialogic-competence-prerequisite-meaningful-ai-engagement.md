@@ -56,3 +56,4 @@ Authors' interpretation from the broad evaluation of qualitative data across thr
 - [Students dynamically switched between Socratic Inquiry and Transactional Delegation as deadlines approached and task novelty changed (the Strategic Dance)](strategic-dance-socratic-transactional-switching.md) — a narrower finding that bears on this claim
 - [Iterative prompt refinement shifted a generative-AI tutor from tutorial-style explanation delivery toward dialogic Socratic support for K-12 beginners](prompt-refinement-shifts-genai-toward-socratic-support.md) — related
 - [Qualitatively, Socratic prompts supported reflective monitoring while directive feedback was associated with overload and resistance](socratic-prompts-reflection-directive-overload-qualitative.md) — related
+- [Qualitative analysis suggests CTS dialog-based interaction already provides a natural level of learner control.](cts-dialog-provides-natural-learner-control.md) — related

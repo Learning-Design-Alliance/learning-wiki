@@ -52,3 +52,4 @@ Classification evaluation across the three constructivist question roles. The ar
 - [Teachers perceive their role shifting from knowledge transmitters to facilitators, co-investigators, and ethical supervisors of AI use](teacher-role-shift-facilitator-ethical-supervisor.md) — related
 - [Role design facilitates transitions among higher-order collaborative behaviors in human-GAI collaboration](role-design-facilitates-higher-order-behavior-transitions.md) — related
 - [In Study 2, Question Autocompletion was widely adopted and the proportion of knowledge-based questions increased significantly across session stages](question-autocompletion-scaffolds-knowledge-based-questions.md) — related
+- [Rose and Ferschke highlight links between NLP, AIED, and collaborative learning, proposing shifts to learning communities](rose-ferschke-nlp-collaborative-learning-communities.md) — related

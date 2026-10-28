@@ -46,3 +46,4 @@ The authors' concluding interpretive statement about the separate-community stan
 
 ## Related Claims
 - [The customary large-sample lumping method of standardizing tests produced complaints that whole classes were placed too high or too low and that rankings across tests diverged](lumped-norming-complaints-class-placement.md) — related
+- [Intelligent class monitoring is separated from intelligent collaboration support because it focuses on teacher support and relies on data mining and machine learning](intelligent-class-monitoring-separate-group-rationale.md) — possibly the same claim (merge candidate)

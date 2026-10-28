@@ -178,6 +178,7 @@ This pattern is scoped to repeated loops of experience, prompted debrief, stated
 - [Dichotomous key practice with sea turtle picture cards](../strategies/dichotomous-key-turtle-picture-cards.md)
 - [Predator/prey simulation game on the beach for hatchling survival](../strategies/predator-prey-hatchling-crawl-game.md)
 - [Analyzing real park nesting data to teach resource management](../strategies/real-nesting-data-analysis-activity.md)
+- [Include debriefing with reflective questions after simulation sessions before receiving feedback](../strategies/debriefing-before-feedback-simulations.md)
 
 ## Key Sources
 - Kolb, D. A. (1984). *Experiential learning: Experience as the source of learning and development*. Prentice-Hall.

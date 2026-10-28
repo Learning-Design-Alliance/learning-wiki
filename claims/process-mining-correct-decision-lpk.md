@@ -49,3 +49,4 @@ Process mining (Disco tool, 100% of activities) of logged interaction pathways f
 - [Lag sequential analysis revealed distinct choice-making trajectories: HPK students showed confidence-driven extra-task engagement and unre reflective repeated-failure sequences, while LPK students relied on preparatory worked examples](lsa-pk-choice-trajectories.md) — related
 - [Process mining shows low performers access solutions more and transition to hints after incorrect submissions more than high performers](process-mining-transitions-differ-by-quartile.md) — a broader claim this one bears on
 - [In the High-Agency condition, HPK students selected significantly more challenging preparatory tasks than LPK students ('step size' U = 21, p = .038)](step-size-hpk-challenging-selection.md) — related
+- [Learners from different performance groups differ in priorities of learning tactic usage across learning sessions](performance-groups-differ-tactic-usage.md) — related

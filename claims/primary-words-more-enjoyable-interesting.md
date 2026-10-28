@@ -54,3 +54,4 @@ Paired-sample t-tests on single-item ratings collected after each of the eight s
 - [Adults recall more biologically primary knowledge words than biologically secondary knowledge words in a paired vocabulary learning task](primary-words-recalled-better-than-secondary-words.md) — related
 - [The effect of a growth mindset intervention does not interact with knowledge type for motivation, cognitive load, or recall](no-knowledge-type-mindset-interaction.md) — related
 - [A short growth mindset intervention raised growth mindset belief but produced no significant difference from control in recall performance, interest, enjoyment or perceived difficulty and effort, for either knowledge type](growth-mindset-no-effect-vocabulary-learning.md) — related
+- [TG1 rated learning enjoyment higher than CG (d = 0.49), not significant after Bonferroni correction.](cts-high-learner-control-enjoyment-tg1-cg.md) — related

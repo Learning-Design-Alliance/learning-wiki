@@ -58,3 +58,4 @@ Experimental study of automatization: 61 subjects first reached criterion on met
 - [Learners acquired untaught syntactic properties but failed to show sensitivity to agreement they had been explicitly taught and practiced](untaught-syntax-acquired-taught-agreement-not.md) — reports the opposite
 - [No single rule was professed to be known by half the university students despite all having been taught the rules the previous winter](rule-recall-miserable-half-known.md) — related
 - [Project-method proponents claim skills are acquired without specific repetition through motivated life situations, refusing compromise with demands for economical skill practice](project-method-no-specific-repetition-claim.md) — reports the opposite
+- [Students Without Previous AI Knowledge Acquired Fundamental AI Skills Through Practical Challenges](students-acquire-ai-skills-without-prior-knowledge.md) — related

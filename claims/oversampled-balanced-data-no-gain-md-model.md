@@ -52,3 +52,4 @@ Supplementary sensitivity analysis (Appendix E) in which the MD group was oversa
 - [Balancing the dataset significantly improved model predictive performance but increased bias under demographic parity](data-balancing-improves-accuracy-increases-bias.md) — reports the opposite
 - [A reduced model using only the six top-ranked predictors maintains relatively similar MD prediction performance (AUC .776)](six-predictor-md-model-auc-776.md) — related
 - [Class balancing techniques improved fairness in education prediction tasks, with over-sampling also improving accuracy](class-balancing-improves-fairness.md) — reports the opposite
+- [Class balance and score distribution matter more than overall sample size for training accurate scoring models](class-balance-more-important-than-sample-size.md) — reports the opposite

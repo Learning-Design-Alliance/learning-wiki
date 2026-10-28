@@ -20,6 +20,7 @@ Bayesian Networks are presented as both a specification language and a computati
 ## Accounts
 <!-- How each source describes or uses the method -->
 - **Bayesian Networks as a practical, low-threshold formal language for student models, assessment, and collaborative learning theory**: Bayesian Networks are presented as both a specification language and a computational mechanism with practical value in designing group and learning support systems: they have "been frequently used to build student models (Millán et al., 2010) and for assessment (Almond et al., 2015)". The article argues the technique can also serve to formalise collaborative learning theories, and notes its methodological basics can be learned in a couple of weeks with support from many software tools including several R packages — comparatively low threshold and high ceiling. (Baker et al. (2024))
+- **Belief networks as a framework for representing and reasoning about uncertainty in student modelling**: The article presents belief networks as a way to represent and reason about uncertainty, which it identifies as a significant factor in modelling students. The framework structures student models and allows a system to use a systematic approach when gathering information about the scope of the student's knowledge. It serves as the organizing framework for the article's discussion of student modelling. (Jim Reye (2004))
 
 ### Claims
 
@@ -31,3 +32,4 @@ Bayesian Networks are presented as both a specification language and a computati
 
 ## Key Sources
 - Baker, M., Reimann, P. (2024). CSCL: a learning and collaboration science?. International Journal of Computer-Supported Collaborative Learning. https://doi.org/10.1007/s11412-024-09433-4
+- Jim Reye. (2004). Student Modelling based on Belief Networks. International Journal of Artificial Intelligence in Education. https://telearn.hal.science/hal-00197306

@@ -57,3 +57,4 @@ The review reports a consensus that GenAI tailors responses to students' work an
 - [ChatGPT's intuitive interface and instant feedback can either support learning or enable superficial task completion depending on integration](chatgpt-support-or-superficial-completion.md) — related
 - [Integrating cognitive scores with non-cognitive learner attributes enables the system to dynamically adapt AI-generated explanations in tone, depth and instructional strategy to individual learner performance](cognitive-noncognitive-integration-adapts-ai-explanations.md) — related
 - [Students report receiving scores with little individualized feedback and request more in-depth feedback that explains why and how they can improve](students-report-limited-feedback-on-assessments.md) — related
+- [Computer-based learning systems need to adapt to learners' needs to provide effective personalised instruction](adaptation-needed-for-personalised-instruction.md) — related

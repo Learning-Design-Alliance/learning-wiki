@@ -80,3 +80,5 @@ The paper cites Basori et al. (2011) for the claim that realistic avatars commun
 - [Social presence from social cues can improve task performance (social facilitation) but may impair performance on complex tasks (social inhibition)](social-facilitation-social-presence-performance.md) — related
 - [Physical presence of a robotic tutor agent is not significantly related to students' task performance in an emotionally-adaptive ITS](physical-presence-no-task-performance-effect.md) — related
 - [Including videos of the students' own human teacher giving motivational feedback was more effective than an animated pedagogical agent and improved homework completion rates](teacher-videos-beat-pedagogical-agent-motivation.md) — related
+- [Introducing socially-oriented persuasive strategies as social visualizations in a learning support system increases students' engagement in online learning activities.](persuasive-social-visualizations-increase-lss-engagement.md) — related
+- [Proposed benefits of virtual characters include increased motivation, stimulation of learning activities, and enhanced communication](virtual-character-proposed-benefits-taxonomy.md) — related

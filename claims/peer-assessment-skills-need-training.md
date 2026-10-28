@@ -50,3 +50,4 @@ The review attributes this assertion to Sluijsmans and Prins (2006), citing it a
 - [Applying skill theory to grammar conflates constructs: pedagogical rules are not what exists in learners' mental representation](grammar-as-skill-is-a-conflation.md) — related
 - [Practice of grammar rules improves only the practiced skill, showing skill specificity of L2 automatization](skill-specificity-l2-grammar-practice.md) — related
 - [Explicitly learned L2 rules can be automatized through systematic practice after a metalinguistic criterion is reached](explicit-rules-automatizable-through-practice.md) — related
+- [Students Without Previous AI Knowledge Acquired Fundamental AI Skills Through Practical Challenges](students-acquire-ai-skills-without-prior-knowledge.md) — related

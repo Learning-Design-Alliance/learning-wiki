@@ -71,3 +71,4 @@ Same keystroke-based classification experiment: contrary to the expectation that
 - [Keystroke-feature regression models fail to predict final writing grade at any point during the writing process](keystroke-regression-does-not-beat-grade-baseline.md) — related
 - [Over the full writing process, only one of 54 keystroke features (percentage of long pauses between words) correlates significantly with final writing grade in ESL academic summaries](only-one-keystroke-feature-correlates-with-writing-grade.md) — related
 - [On real tutor log data, the models beat mean-time prediction but most of the gain is captured by a simple baseline, and the learning extension slightly overfits](real-data-prediction-baseline-captures-most-gain.md) — related
+- [The proposed model's effectiveness was demonstrated by applying it to actual keystroke log datasets](tdlhmm-effectiveness-demonstrated-keystroke-datasets.md) — related

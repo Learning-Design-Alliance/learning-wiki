@@ -48,3 +48,6 @@ Authors' own statement of a gap in the evidence base, made after reporting the S
 - [The interactive open learner modelling approach was suitable for dealing with cold start in user-adaptive systems (OWL-OLM trial)](iolm-suitable-for-cold-start.md) — related
 - [The system has no empirical evaluation yet: profile accuracy has not been assessed and learning outcomes remain an open question](ecnuclaw-no-empirical-evaluation-yet.md) — related
 - [The interaction taxonomy's effectiveness within Memdora has not been empirically evaluated](memdora-taxonomy-not-empirically-evaluated.md) — related
+- [An evaluative study of STyLE-OLM shows the IOLM approach can improve the quality of the learner model](iolm-improves-learner-model-quality.md) — related
+- [A continuum of control exists between system control, joint control and user control of the learner model](olm-control-continuum.md) — related
+- [OLMs of various kinds have demonstrated significant learning gains](olms-demonstrated-significant-learning-gains.md) — related

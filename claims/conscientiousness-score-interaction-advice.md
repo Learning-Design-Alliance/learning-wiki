@@ -50,3 +50,4 @@ Interaction effect (trait-level x score) from the 2-way MANOVA and post-hoc pair
 ## Related Claims
 - [The type of emotional support and slant given to a learner depends on the score the learner achieved (Experiment 1: conscientiousness)](feedback-type-depends-on-achieved-score.md) — a broader claim this one bears on
 - [In the emotional stability experiment, emotional support use and slant depend on score, trait level, and their interaction](emotional-stability-affects-support-and-slant.md) — related
+- [Coaching systems offer advice based on an interpretation of interaction indicators](coaching-systems-offer-advice-interpreted-indicators.md) — a broader claim this one bears on

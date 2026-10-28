@@ -47,6 +47,7 @@ The article recommends that educators treat AI-generated lesson plans as startin
 - [Teachers iteratively refine LLM-simulated student ideas with classroom context before instructional use](iterative-teacher-llm-refinement-strategy.md)
 - [Use an AI-assisted vibe coding workflow with human pedagogical control to move educational tools from idea to classroom within days](vibe-coding-rapid-educational-tool-development.md)
 - [Educators gamify learning materials or create learning games using generative AI with iterative, phased prompting](gamifying-learning-materials-with-generative-ai.md)
+- [Treat GenAI output as a starting point requiring critical evaluation, personalization, and verification of original sources](genai-as-starting-point-not-endpoint.md)
 
 ## Examples
 -

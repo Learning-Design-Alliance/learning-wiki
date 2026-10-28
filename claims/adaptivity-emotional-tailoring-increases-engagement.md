@@ -73,3 +73,4 @@ The review reports, citing its included studies, that "engagement increases when
 - [Reviewed studies indicate AI-enabled personalization benefits both academic performance and student motivation](ai-personalization-benefits-performance-motivation.md) — related
 - [A systematic review of AI in problem-based learning reports, as a dominant theme of its 50 studies, that AI tools support adaptive, personalized learning linked to better engagement and problem-solving](ai-pbl-adaptive-personalized-engagement.md) — related
 - [Learner engagement was strengthened when the AI tutor adapted to learners' pace and prior knowledge](ai-tutor-pace-adaptation-strengthened-engagement.md) — a narrower finding that bears on this claim
+- [The amplifying effect of personalized persuasive strategies on engagement was not statistically significant in the MindTap learning platform.](personalization-effect-not-significant-mindtap.md) — a narrower finding that bears on this claim

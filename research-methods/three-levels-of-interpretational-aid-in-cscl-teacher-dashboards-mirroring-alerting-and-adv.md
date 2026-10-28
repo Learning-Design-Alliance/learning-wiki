@@ -20,6 +20,7 @@ Building on Soller et al.'s algorithm for collaboration support tools, the artic
 ## Accounts
 <!-- How each source describes or uses the method -->
 - **Three levels of interpretational aid in CSCL teacher dashboards: mirroring, alerting, and advising**: Building on Soller et al.'s algorithm for collaboration support tools, the article distinguishes dashboards by which agent - tool or teacher - performs detection and interpretation. "Mirroring dashboards" display analyzed data for the teacher to peruse at will; "alerting" dashboards additionally flag groups deviating from a standard; "advising" dashboards "not only display information and alert to certain events, but also assist in the interpretation" by providing advice about what is happening or what action to take. This typology structures the three experimental conditions. (van Leeuwen et al. (2019))
+- **A classification framework for CSCL interaction-management systems distinguishes mirroring, metacognitive, and coaching systems**: The article proposes a classification framework built on a simple model of coaching for systems that support the management of collaborative interaction. The framework distinguishes between mirroring systems, which display basic actions to collaborators; metacognitive tools, which represent the state of interaction via a set of key indicators; and coaching systems, which offer advice based on an interpretation of those indicators. This framework organizes the reviewed systems along a progression from displaying raw interaction data to offering interpreted advice. (Patrick Jermann et al. (2001))
 
 ### Claims
 
@@ -36,3 +37,4 @@ Building on Soller et al.'s algorithm for collaboration support tools, the artic
 
 ## Key Sources
 - van Leeuwen, A., Rummel, N., & van Gog, T. (2019). What information should CSCL teacher dashboards provide to help teachers interpret CSCL situations? International Journal of Computer-Supported Collaborative Learning 14, 261–289. https://doi.org/10.1007/s11412-019-09299-x
+- Patrick Jermann, Amy Soller, Martin Muehlenbrock. (2001). From mirroring to guiding: A review of the state of art technology for supporting collaborative learning. European Conference on Computer-Supported Collaborative Learning EuroCSCL-2001. https://telearn.hal.science/hal-00197377

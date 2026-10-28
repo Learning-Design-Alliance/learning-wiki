@@ -40,6 +40,7 @@ Because the HMM form of BKT is a three-parameter exponential, the article recomm
 ## Related Strategies
 
 - [Initialize BKT parameters from simulated student data when no human data is available](initialize-bkt-parameters-from-simulated-data.md)
+- [Use collapsed Gibbs sampling for parameter estimation in the time- and learner-dependent HMM](collapsed-gibbs-sampling-writing-process-hmm.md)
 
 ## Examples
 -

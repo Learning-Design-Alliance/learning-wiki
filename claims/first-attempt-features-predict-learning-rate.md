@@ -69,3 +69,4 @@ Multivariate linear regression for Dots and Needles learning rate (26 subjects; 
 - [In the Dots and Needles task, higher entropy of the nondominant eye's pupil diameter is associated with lower performance](pupil-entropy-lower-dots-needles-performance.md) — related
 - [A head-confined multimodal configuration (EEG, eye tracking, forehead EDA) predicts held-out learners' five-level engagement ratings at 75.0% balanced 1-off accuracy, 12.0 points above the mode baseline](e3sense-head-confined-engagement-prediction.md) — related
 - [Subject-wise standardization of eye-tracking features marginally improved the fit of performance and learning rate models](subject-wise-standardization-improves-model-fit.md) — related
+- [Attempting a new exercise on average increases estimated student ability during formative assessment](attempting-exercise-increases-estimated-ability.md) — related

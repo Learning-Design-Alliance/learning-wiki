@@ -52,3 +52,4 @@ The review reports, citing Duffy and Kabance (1982) among others, that a readabl
 - [Product measures distinguish LLM-formulated text from classroom-formulated text regardless of how it was entered](product-view-reflects-who-formulated-text.md) — related
 - [The three fine-tuned LLMs differ significantly in response length, readability, and similarity to posts](llm-response-length-readability-differences.md) — related
 - [Type-token ratio showed a non-monotonic relationship with predicted difficulty, with both very low and very high lexical diversity increasing predicted text difficulty](ttr-nonmonotonic-difficulty-pattern.md) — related
+- [Shallow complexity measures for word problems correlate only weakly with difficulty](shallow-complexity-weakly-correlate-difficulty.md) — related

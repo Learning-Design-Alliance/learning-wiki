@@ -31,6 +31,7 @@ Web xPST is a web-based authoring and delivery environment developed by Stephen 
 ## Related Products and Programmes
 
 - [xPST](xpst.md)
+- [Cognitive Tutor Authoring Tools (CTAT)](cognitive-tutor-authoring-tools-ctat.md)
 
 ## Key Sources
 - Stephen B. Gilbert, Stephen B. Blessing, Enruo Guo. (2015). Authoring Effective Embedded Tutors: An Overview of the Extensible Problem Specific Tutor (xPST) System. Int J Artif Intell Educ 25:428–454. https://doi.org/10.1007/s40593-015-0045-0

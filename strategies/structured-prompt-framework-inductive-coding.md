@@ -42,6 +42,7 @@ The article's prompt engineering strategy specifies that prompts should meet "th
 - [Use structured multi-stage prompts with clearly defined constructs when eliciting LLM topic labels for qualitative coding](structured-prompts-clear-construct-definitions-llm-labeling.md)
 - [Use LLMs to generate initial course metadata labels, shifting human taggers to a confirmatory role](llm-assisted-course-tagging-confirmatory-role.md)
 - [Instruction-guided LLM annotation with human-in-the-loop prompt refinement for large-scale interaction labeling](instruction-guided-llm-annotation-interaction-labels.md)
+- [Use iterative prompt engineering mirroring human coders' labeling processes to refine LLM classification prompts](iterative-prompt-engineering-mirroring-human-coder-refinement.md)
 
 ## Examples
 -

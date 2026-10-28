@@ -68,3 +68,4 @@ Systematic review synthesis of challenges across the 23 studies (RQ4, Fig. 7), i
 - [Six implementation modes operationalize customized AI writing systems, with standalone evaluation most common](six-implementation-modes-customized-ai-writing.md) — related
 - [An experienced supervisor linked rising student writing proficiency to AI tools while flagging copy-pasting and undetectable AI-generated content](expert-flags-copy-pasting-undetectable-ai-content.md) — related
 - [Optimizing pedagogical parameters on proxy measures risks trading learning for engagement, and simulated students carry their own accuracy limits](proxy-optimization-engagement-trap.md) — related
+- [AI models inconsistently capture expert feedback points across generation attempts](ai-feedback-inconsistent-across-attempts.md) — a narrower finding that bears on this claim

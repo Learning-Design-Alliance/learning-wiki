@@ -49,3 +49,4 @@ Posttest analysis of the same study (Assertions-Low n = 25, Messages-Low n = 16)
 - [Assertions led low prior proficiency students to complete the posttest significantly faster than Messages](assertions-low-proficiency-faster-posttest.md) — related
 - [Assertions significantly increase unsolicited hint usage (justification and needed rates) over Messages for students regardless of prior proficiency](assertions-increase-unsolicited-hint-usage.md) — related
 - [For low prior proficiency students, unsolicited hint usage rates correlate negatively with posttest solution length, while hint frequency does not correlate](hint-needed-rate-correlates-shorter-proofs-low-proficiency.md) — related
+- [No aptitude-treatment interaction: prior proficiency did not interact with hint type](no-ati-hint-type-proficiency.md) — reports the opposite

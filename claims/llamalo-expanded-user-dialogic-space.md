@@ -53,3 +53,4 @@ Qualitative content analysis of ten researcher-led discussions with the fine-tun
 - [Users experienced a trade-off between conversational depth and interaction efficiency between the fine-tuned and baseline chatbots](depth-efficiency-tradeoff-instructional-chatbots.md) — related
 - [LlamaLo's responses to social posts were solely social and it did not push back to resume the discussion](llamalo-social-shift-no-resume.md) — related
 - [Intersubjective understanding can be achieved through inter-animation of persistently opposed perspectives without convergence](intersubjectivity-amid-persistently-opposed-perspectives.md) — related
+- [Qualitative analysis suggests CTS dialog-based interaction already provides a natural level of learner control.](cts-dialog-provides-natural-learner-control.md) — related

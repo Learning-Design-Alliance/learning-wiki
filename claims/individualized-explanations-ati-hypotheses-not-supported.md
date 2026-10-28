@@ -74,3 +74,4 @@ Exploratory GLMM interaction tests in the VS subgroup showed significant interac
 - [For recall performance, the study found no significant three-way interaction between modeling condition, prior knowledge activation and domain knowledge, so the model-observer similarity hypotheses were not supported.](no-three-way-interaction-recall-emme.md) — related
 - [Advanced-placement students outperformed vocational-school students on most learner characteristics, with large effect sizes except interest](school-track-differences-learner-characteristics.md) — related
 - [Prior mathematical competence by in-class attention interaction: attention benefits were strongest among students with stronger prior knowledge](prior-competence-by-attention-interaction-math-gains.md) — related
+- [No aptitude-treatment interaction: prior proficiency did not interact with hint type](no-ati-hint-type-proficiency.md) — related

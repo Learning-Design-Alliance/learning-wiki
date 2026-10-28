@@ -52,3 +52,4 @@ Transfer-after-exposure analysis in the same tutoring experiment, controlling fo
 - [A non-significant trend favored expansive framing on transfer-of-learning of facts (36% vs. 13%, p = .09)](transfer-of-learning-facts-trend-expansive.md) — related
 - [Students perceived the intended expansive versus bounded framing manipulation (d = 1.4)](students-perceived-framing-manipulation.md) — related
 - [Expansive framing increased spontaneous transfer of the diagram-drawing learning strategy (7 of 12 vs. 1 of 12 students)](expansive-framing-boosts-diagram-strategy-transfer.md) — related
+- [Adaptive condition shows only a non-significant trend for transfer to engineering outcomes (tower building)](bkt-adaptivity-tower-building-nonsignificant-trend.md) — related

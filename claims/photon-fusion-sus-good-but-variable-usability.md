@@ -59,3 +59,4 @@ SUS questionnaire administered after the one-hour lab session with 10 participan
 - [Learner acceptance of AI simulations is generally high, with System Usability Scale scores of 61.6 to 78.56 and 72%-93% willingness to recommend](ai-simulation-high-learner-acceptance.md) — related
 - [Iterative generate-then-refine with multi-axis critiques raises the share of usable generated simulations from 3.5% after first generation to 69.3% after 10 improvement rounds](generate-then-refine-raises-usable-simulations-3-5-to-69-3.md) — related
 - [Experimental-group participants rated TibetCPR highly usable (SUS = 84.3, an Excellent rating), with the highest items on voluntary engagement and independent use](tibetcpr-high-usability-sus-84-3.md) — related
+- [Students report no usability issues with the formative assessment tool (ASQ means 5.2–5.5)](students-report-no-usability-issues-asq.md) — related

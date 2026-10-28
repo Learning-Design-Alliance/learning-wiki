@@ -52,3 +52,4 @@ Within the intervention phase, all participants studied 12 artists' painting sty
 - [Interleaving benefits transfer to novel items from a learned category, with effect sizes of up to 0.66](interleaving-transfer-benefit-meta-analysis.md) — related
 - [A refutation-plus-metacognitive-prompt intervention significantly increases students' use of interleaved practice in self-organized study tasks, including after a delay](refutation-prompt-intervention-increases-self-organized-interleaving.md) — related
 - [In self-organized tasks, more interleaved practice is associated with higher classification accuracy](self-organized-interleaving-predicts-accuracy.md) — related
+- [Interleaved practice with multiple graphical representations leads to better learning outcomes than blocked practice.](interleaved-representations-better-learning.md) — a narrower finding that bears on this claim

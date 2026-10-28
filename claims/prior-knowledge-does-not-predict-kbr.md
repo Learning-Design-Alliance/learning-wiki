@@ -53,3 +53,5 @@ Path analysis in the classroom study found pre-test scores did not significantly
 - [Low-prior-knowledge tutors with high %KBR outperformed their low-%KBR counterparts at post-test and scored statistically equivalent to high-prior peers](low-prior-high-kbr-match-high-prior-peers.md) — related
 - [Procedural prior knowledge predicted conceptual post-test skill, but conceptual prior knowledge did not predict procedural post-test skill](procedural-prior-predicts-conceptual-post.md) — related
 - [Tutors showed significant pre-to-post gains in both conceptual knowledge and procedural skill after teaching with adaptive follow-up questioning](significant-prepost-gains-ckt-pst.md) — related
+- [Game Show availability did not affect tutor learning on either test](game-show-no-effect-tutor-learning.md) — related
+- [Tutoring after competition was rare and not predictive of procedural learning gains](low-tutoring-after-competition-not-predictive.md) — related

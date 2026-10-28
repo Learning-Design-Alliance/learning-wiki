@@ -51,3 +51,4 @@ Problem-level analysis of the 79-problem cross-sectional sample with a single au
 - [The same review ruler supports longitudinal cross-semester problem tracking for one teacher's Data Structures and Algorithms B course](longitudinal-dsa-review-ruler-tracking.md) — related
 - [The AI review ruler's problem-level correlation weakens in an introductory course, where exam-level correlation is near zero and cohort composition dominates](cs101-introductory-course-applicability-boundary.md) — related
 - [Exam-level AI difficulty correlations with student performance are directionally consistent but weaker and only exploratory](exam-level-ai-difficulty-correlation-exploratory.md) — related
+- [Background story does not significantly impact difficulty of introductory programming problems](background-story-no-difficulty-impact.md) — related

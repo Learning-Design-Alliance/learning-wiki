@@ -330,3 +330,4 @@ Open questions that evidence entries should address include: which strategy fami
 - [Metacognitive prompts foster metacognitive strategy use and improve transfer performance, with self-directed prompt effects lasting at least three weeks](metacognitive-prompts-transfer-effects.md) — a narrower finding that bears on this claim
 - [Personalized learning systems that assume high student self-regulation can overburden students, so low performers learn less despite receiving skill-appropriate content](self-regulatory-burden-harms-low-performers.md) — related
 - [Factor 2 student teachers enacted balanced, intentional and ethical engagement with Cipherbot through self-directed strategies](f2-balanced-intentional-ethical-engagement.md) — related
+- [Computer-based metacognitive scaffolding shows limited evidence of long-term retention or transfer of the scaffolded skills](limited-evidence-long-term-metacognitive-retention.md) — related

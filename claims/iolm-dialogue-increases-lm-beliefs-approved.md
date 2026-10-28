@@ -48,3 +48,5 @@ User study in the EU LARFLAST project with university students of varying financ
 - [STyLE-OLM benefited both more knowledgeable learners (reflective domain interactions) and less knowledgeable learners (inspecting and challenging their models)](iolm-benefits-both-knowledge-levels.md) — related
 - [Instruments show conceptual inconsistency: the same terms label different competence aspects, and disciplinary origin does not significantly correlate with definition or terminology choice](inconsistent-terminology-competence-aspects-autism-instruments.md) — related
 - [The interactive open learner modelling approach was suitable for dealing with cold start in user-adaptive systems (OWL-OLM trial)](iolm-suitable-for-cold-start.md) — related
+- [Interactive open learner modelling can foster reflective thinking](iolm-fosters-reflective-thinking.md) — related
+- [An evaluative study of STyLE-OLM shows the IOLM approach can improve the quality of the learner model](iolm-improves-learner-model-quality.md) — a broader claim this one bears on

@@ -91,3 +91,4 @@ Follow-up comparison within the male-model condition: female students (M = 3.11)
 - [Male secondary students report higher self-efficacy than female students after learning from video modeling examples, without higher performance](male-students-higher-self-efficacy-video-modeling.md) — related
 - [Emotion affects motivation, which in turn affects mental effort investment during learning](emotion-affects-motivation-mental-effort.md) — related
 - [Learners invest more mental effort in media they perceive as difficult, so multimedia should raise perceived demand characteristics](perceived-demand-drives-invested-mental-effort.md) — related
+- [Students across all genders perceive scientific citizenship positively](scientific-citizenship-positive-across-genders.md) — related

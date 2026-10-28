@@ -52,3 +52,4 @@ Behavioral analysis of the Stop-Signal Anticipation Task in 640 children showed 
 - [Children adopt a more cautious response strategy (higher boundary separation) when intermittent stop trials are introduced](stop-signal-demands-increase-boundary-separation.md) — related
 - [Reward does not alter the speed or variability of response execution in either stop signal task](reward-does-not-alter-response-execution.md) — related
 - [Higher self-regulation in pre-adolescent children is associated with stronger right mid frontal cortex activation during proactive inhibition](self-regulation-frontal-activation-proactive-inhibition.md) — related
+- [Age-related component differences show proactive exploration lowest for youngest students](proactive-exploration-lowest-youngest-age-group.md) — related

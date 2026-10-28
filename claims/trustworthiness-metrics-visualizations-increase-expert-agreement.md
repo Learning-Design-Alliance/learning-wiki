@@ -75,3 +75,5 @@ An LLM prompt tournament with 12 learning engineers comparing 5 prompt templates
 - [Directly prompted GPT-4o surface-level corrective edits were judged necessary and effective in 96.14% of 2049 identified edits](wraft-surface-feedback-96-percent-precision.md) — a narrower finding that bears on this claim
 - [Performance assessments can be reliably scored when designed appropriately and used with other measures](performance-assessments-reliably-scoreable.md) — related
 - Global-judgment criteria of counselor effectiveness lack clarity, making replication fruitless and the research unproductive — related
+- [Inter-rater reliability between human experts and AI coding is very low](low-irr-experts-vs-ai-coding.md) — related
+- [Including supplemental response context in modified inputs was necessary because human raters scored target responses with access to those responses](supplemental-response-context-modified-inputs.md) — related

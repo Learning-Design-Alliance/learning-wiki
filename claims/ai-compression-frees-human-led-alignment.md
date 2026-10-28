@@ -52,3 +52,4 @@ Authors' practitioner claim (core insight) about AI-enabled workflows, presented
 - [Low-fidelity prototype evaluation found initial UI options overwhelming and checkbox selections unintuitive](paper-prototype-overwhelming-options-feedback.md) — related
 - [Rapid AI generation may compress exploratory learning processes and reduce encounters with failure and material constraints](ai-generation-compresses-learning-processes.md) — reports the opposite
 - [Operation Warp Speed illustrates that purpose-built agile R&D structures can compress time-to-impact during systemic disruption](ows-agile-rd-compressed-vaccine-timeline.md) — related
+- [GenAI tools proved most valuable in early UX ideation stages, while design and testing require a human touch](genai-most-valuable-early-ux-stages.md) — related

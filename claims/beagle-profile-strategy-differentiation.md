@@ -50,3 +50,4 @@ Performance-differentiation analysis in the RQ1 behavioral-fidelity evaluation, 
 - The relationship between bottom-out hint use and wheel-spinning is nuanced, depending on whether students avoid hints entirely — related
 - [Statistical discourse analysis of collaborative learning shows metacognitive planning organizes subsequent cognitive activity while relational activities help enact it](sda-planning-organizes-subsequent-cognition.md) — related
 - [Simulated students were used to evaluate whether the prototype engines select rational tutorial actions emulating human tutors](simulated-students-evaluate-action-selection.md) — related
+- [High SRL students run significantly fewer tests than Medium or Low SRL students](high-srl-students-fewer-tests.md) — related

@@ -55,6 +55,7 @@ The theory's most distinctive claim is about designer cognition: designers predi
 - Revising a course's video platform (a representation/media-logic change) without needing to rewrite its underlying strategy or content structure — evidence of well-articulated layers
 - [Disclose to learners what changes (visual presentation) and what does not (question content, scoring, time allowed)](../strategies/disclose-visual-presentation-not-content-scoring-time.md)
 - [Ensure learners master lower task layers before allowing AI automation of those components](../strategies/master-lower-layers-before-ai-automation.md)
+- [Build tutoring systems as a robust tool layer attached to a tutoring component responsible for feedback and scaffolding](../strategies/tool-layer-tutoring-component-separation.md)
 
 ## Key Sources
 - Gibbons, A. S. (2018). What and how do designers design? A theory of design structure and layers. In R. West (Ed.), *Foundations of Learning and Instructional Design Technology*. EdTech Books. [https://edtechbooks.org/lidtfoundations/what_and_how_do_designers_design](https://edtechbooks.org/lidtfoundations/what_and_how_do_designers_design) (originally published as Gibbons, A. S. (2003). *TechTrends, 47*(5), 22–25.)

@@ -13,7 +13,7 @@ generated:
 # Motivation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 315 claims (210 show a difference, 74 mixed, 31 no difference) · 229 studies (84 associational, 62 causal, 37 review, 16 theoretical, 14 quant-synthesis, 10 qualitative, 6 design), `q1`–`q4` · 61 of 229 report an effect size · 303 claims rest on one study
+> **Evidence** · 317 claims (212 show a difference, 74 mixed, 31 no difference) · 231 studies (84 associational, 64 causal, 37 review, 16 theoretical, 14 quant-synthesis, 10 qualitative, 6 design), `q1`–`q4` · 62 of 231 report an effect size · 305 claims rest on one study
 
 ## Description
 Whether a learner will spend effort here, and what makes it feel worth spending. It decides whether a page must earn attention before it can teach, and how much open-endedness is tolerable. The honest state of the evidence is that the mechanisms are well supported and the *interventions* are modest — growth-mindset programmes produce small average effects concentrated in specific subgroups [+W], which is a reason to design for motivation rather than to bolt an intervention on.
@@ -365,6 +365,8 @@ Whether a learner will spend effort here, and what makes it feel worth spending.
 - [Performance moderated personalization's effect on external motivation, correlating positively with external motivation only in the OSFA condition](../claims/performance-moderates-external-motivation.md) [~M] — instruction changes it
 - [Students with a technical degree reported higher intrinsic motivation with personalized design than with OSFA](../claims/technical-degree-personalization-intrinsic-motivation.md) [~M] — instruction changes it
 - [Student task value judgments' antecedents and consequences show initial interest and mastery goals predict subsequent interest, and individual differences matter for teaching strategy](../claims/hulleman-task-values-individual-differences.md) [+M] — learners who differ on it differ in outcomes
+- [Students rated the usefulness of LLM-enhanced combined feedback significantly higher than their own prior expectations](../claims/llm-combined-feedback-exceeds-expectations-usefulness.md) [+M] — instruction changes it
+- [Students' engagement in the MindTap learning platform increased significantly across logins, time spent, and engagement score after the persuasive intervention was introduced.](../claims/mindtap-engagement-increased-during-intervention.md) [+M] — instruction changes it
 
 ## The evidence by question
 - *Does autonomy-supportive teaching raise motivation and engagement compared with controlling teaching?* [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](../claims/autonomy-supports-intrinsic-motivation.md) [+M]

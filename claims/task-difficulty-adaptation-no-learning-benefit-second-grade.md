@@ -54,3 +54,4 @@ Randomized two-group pretest–posttest field experiment with 132 second-graders
 - [Exploratory ANCOVA controlling for mastery probability favored the adaptive condition, but is not interpretable as a causal treatment effect](mastery-probability-covariate-ancova-favors-adaptive.md) — reports the opposite
 - [Adaptive task difficulty significantly improved performance for students at non-academic-track schools compared to control](adaptive-task-difficulty-benefits-nonacademic-track.md) — related
 - [Adaptive task difficulty significantly improved fraction knowledge for students in the inattentive unfavorable (lower-SES-associated) profile compared to no scaffolding](adaptive-task-difficulty-benefits-unfavorable-profile.md) — related
+- [BKT adaptivity in a mixed-reality Intelligent Science Station improves children's post-test learning of scientific principles compared to random task selection](bkt-adaptivity-mixed-reality-improves-science-learning.md) — related

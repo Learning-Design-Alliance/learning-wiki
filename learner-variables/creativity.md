@@ -13,7 +13,7 @@ generated:
 # Creativity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 103 claims (72 show a difference, 25 mixed, 6 no difference) · 54 studies (18 associational, 16 causal, 11 review, 4 quant-synthesis, 3 design, 2 theoretical), `q1`–`q3` · 16 of 54 report an effect size · 101 claims rest on one study
+> **Evidence** · 104 claims (73 show a difference, 25 mixed, 6 no difference) · 55 studies (18 associational, 16 causal, 11 review, 4 quant-synthesis, 3 design, 2 theoretical, 1 qualitative), `q1`–`q3` · 16 of 55 report an effect size · 102 claims rest on one study
 
 ## Description
 Creativity as a learner characteristic is the ability to produce ideas that are both new and fitting. It is most often measured with divergent-thinking tests (how many and how varied the uses someone can find for an object). It correlates with intelligence and with achievement, including in mathematics, where generating several solution paths may deepen understanding. Creativity can also be an outcome that instruction aims at; this page is about learners who differ in it.
@@ -138,6 +138,7 @@ Creativity as a learner characteristic is the ability to produce ideas that are 
 - [Design majors outperform matched peers on divergent thinking, though AUT originality shows no significant difference](../claims/design-majors-divergent-thinking-advantage.md) [~M] — instruction changes it
 - [Students rate GenAI's creativity enhancement in programming significantly above neutral](../claims/genai-creativity-enhancement-perceptions.md) [+M] — instruction changes it
 - [Higher-scored learner answers tend to be longer, and crowdsourced answers tend to be shorter than original classroom data](../claims/higher-scored-answers-tend-longer.md) [+W] — learners who differ on it differ in outcomes
+- [Graduate students experienced GenAI-assisted research as supporting originality through new ideas and perspectives](../claims/genai-assisted-research-supports-originality.md) [+M] — instruction changes it
 
 ## Related Learner Variables
 

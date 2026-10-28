@@ -70,3 +70,4 @@ Repeated measures ANOVA of percent inhibition by age group and reward condition.
 - [Reward improves the speed of inhibitory control (SSRT) in both cancellation and restraint tasks in children and adolescents](reward-improves-ssrt-cancellation-and-restraint.md) — related
 - [Reactive inhibition speed and accuracy improve with age between 8 and 11 years, while proactive response slowing does not increase with age](reactive-inhibition-improves-age-8-11.md) — related
 - [SSRT was faster in the cancellation task than in the restraint task, supporting inhibition as a non-unitary construct](ssrt-faster-cancellation-than-restraint.md) — related
+- [Age-related component differences show proactive exploration lowest for youngest students](proactive-exploration-lowest-youngest-age-group.md) — related

@@ -44,6 +44,7 @@ For researchers studying SRL scaffolds, the article recommends methodological ch
 
 - [Conduct methodologically comparable experimental studies of acute PA and attention in school settings](comparable-school-setting-pa-attention-studies.md)
 - [Use multi-method, multi-timing measurement and subscale-level correlational analysis when evaluating metacognition](multi-method-metacognition-measurement-strategy.md)
+- [Conduct systematic ablation studies comparing levels of interface scaffolding and tailoring to identify when scaffolding approaches are effective](ablation-studies-scaffolding-levels-and-tailoring.md)
 
 ## Examples
 -

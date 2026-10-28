@@ -68,7 +68,7 @@ In three experiments, learners read a passage that came either with author-provi
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Should learners construct the map themselves, study a provided one, or build it with the teacher or a peer?* This table gathers the studies behind this claim and the 5 narrower claims that bear on it: **7 distinct studies** (3 quant-synthesis, 3 causal, 1 design), `q2`–`q4`, 4 of 7 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does building a representation of the content teach more than studying one that is provided?* This table gathers the studies behind this claim and the 5 narrower claims that bear on it: **7 distinct studies** (3 quant-synthesis, 3 causal, 1 design), `q2`–`q4`, 4 of 7 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|

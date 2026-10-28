@@ -70,3 +70,4 @@ Similar evidence-withholding analysis for exploration nodes (Table 8): time-only
 - [More accurate assessment of self-explanation significantly improves the model's assessment of student learning through exploration](se-assessment-improves-exploration-assessment.md)
 - [Leave-one-out cross-validation over 36 students confirms significant accuracy and stability gains from eye-tracking in both self-explanation and exploration assessment](cross-validation-confirms-eye-tracking-gains.md) — related
 - [In an initial eye-tracking study, time on action predicted self-explanation (16-second threshold) and gaze shifts were most reliable at detecting its absence](initial-study-time-and-gaze-predict-self-explanation.md) — related
+- [Eye-tracker attention patterns significantly improved a student model's ability to capture self-explanation versus a time-based predictor](eye-tracking-improves-self-explanation-modeling.md) — a broader claim this one bears on

@@ -13,7 +13,7 @@ generated:
 # Adaptive Mastery Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 21 claims (13 for, 7 mixed, 1 against) · 30 studies (11 review, 7 quant-synthesis, 6 causal, 3 qualitative, 2 theoretical, 1 design), `q1`–`q4` · 7 of 30 report an effect size · 17 claims rest on one study
+> **Evidence** · 22 claims (14 for, 7 mixed, 1 against) · 31 studies (11 review, 7 causal, 7 quant-synthesis, 3 qualitative, 2 theoretical, 1 design), `q1`–`q4` · 7 of 31 report an effect size · 18 claims rest on one study
 
 ## Description
 Adaptive mastery learning combines Bloom's mastery learning model — requiring demonstrated proficiency before advancing — with adaptive systems that adjust task difficulty, sequencing, and feedback to individual performance. The system continuously estimates what each learner knows and serves the next challenge at the frontier of their competence, advancing only when mastery criteria are met.
@@ -70,6 +70,7 @@ Adaptive mastery systems ensure that foundational gaps are closed before higher-
 - [Adaptive learning showed a statistically significant effect on learning skills but not on building factual knowledge in a meta-analysis of 21 Health & Welfare studies](../claims/adaptive-learning-effect-learning-skills-not-factual-knowledge.md) [~W]
 - [Most primary studies in simulation-based learning do not personalize scaffolding or task progression](../claims/most-studies-lack-personalization.md) [~W]
 - [Teaching efficiency is impossible without continuous adjustment of the work to pupils' advancing attainments](../claims/continuous-adjustment-attainments-teaching-efficiency.md) [+W]
+- [Log analysis shows adaptive condition concentrates practice on unmastered concepts while random condition over-practices easy ones](../claims/bkt-adaptivity-log-practice-allocation.md) [+W]
 
 ## The evidence by question
 

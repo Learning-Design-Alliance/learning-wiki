@@ -49,3 +49,4 @@ The article describes a Simulated Student architecture targeting three negative 
 - [Classifier errors cluster into three interpretable patterns, and the unknown abstention class is well classified (F1 = 0.93), reliably filtering off-topic chat](classifier-error-patterns-and-abstention-f1.md) — related
 - [Optimal clustering of five-channel CPS sequences detected three types of collaborative patterns among graduate student groups](three-collaborative-pattern-types-cps.md) — related
 - [In an experiment, the Simulated Student worked correctly in the majority of situations when correcting the three negative situations](simulated-student-experiment-majority-correct.md) — related
+- [Machine learning, including neural nets, can detect localized instances of good or poor collaboration during collaborative learning](neural-nets-detect-collaboration-quality.md) — related

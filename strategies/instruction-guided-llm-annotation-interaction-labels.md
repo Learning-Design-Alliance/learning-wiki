@@ -42,6 +42,7 @@ The article describes an annotation procedure using an instruction-guided LLM fo
 - [Structured prompt framework for LLM-assisted inductive coding (role assignment, format specification, reasoning-based prompting)](structured-prompt-framework-inductive-coding.md)
 - [Translate deductive coding rubrics into structured zero-shot prompts to compare LLM coding against human coding](zero-shot-prompt-codebook-translation-strategy.md)
 - [Four guidelines for designing LLM-assisted qualitative coding pipelines](guidelines-llm-qualitative-coding-pipelines.md)
+- [Use iterative prompt engineering mirroring human coders' labeling processes to refine LLM classification prompts](iterative-prompt-engineering-mirroring-human-coder-refinement.md)
 
 ## Examples
 -

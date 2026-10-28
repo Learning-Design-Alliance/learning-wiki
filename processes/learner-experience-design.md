@@ -14,7 +14,7 @@ grain_size: course
 # Learner Experience Design (LXD)
 
 > **Design Process** · [All design processes](index.md)
-> **Evidence** · 14 claims (8 for, 5 mixed, 1 against) · 23 studies (9 causal, 5 design, 4 review, 3 quant-synthesis, 2 theoretical), `q1`–`q4` · 4 of 23 report an effect size · 10 claims rest on one study
+> **Evidence** · 15 claims (8 for, 6 mixed, 1 against) · 24 studies (9 causal, 6 design, 4 review, 3 quant-synthesis, 2 theoretical), `q1`–`q4` · 4 of 24 report an effect size · 11 claims rest on one study
 
 ## Description
 Learner Experience Design imports the methods of user-centred design — user research, personas and scenarios, prototyping, usability testing, heuristic evaluation — into instructional design, and makes one substantive claim while doing it: **usability is not polish applied after the instruction, it is part of the instruction.**
@@ -74,6 +74,7 @@ LXD inherits the empathize-and-test moves from [Design Thinking](design-thinking
 - [Qualitative analysis confirms the agent can identify confusing lesson content and provide actionable feedback for designers](../claims/agent-identifies-confusing-content-actionable-feedback.md) [+W]
 - [Providing a learner profile shifts an LLM's selected instructional strategies from content-focused to learner-centered](../claims/learner-profile-shifts-llm-instructional-strategy-selection.md) [+W]
 - [In directional manual testing, reward hardening halved unusable interactive pages (25%→10%) and eliminated page-entry failures (2/24→0/30)](../claims/human-evaluation-interactivity-hardening.md) [+W]
+- [Students report no usability issues with the formative assessment tool (ASQ means 5.2–5.5)](../claims/students-report-no-usability-issues-asq.md) [~W]
 
 #### Supporting
 - [Cognitive Load Reduction Improves Learning](../claims/cognitive-load-reduction-improves-learning.md) [+S] — the mechanism the whole argument rests on

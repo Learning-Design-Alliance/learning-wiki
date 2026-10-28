@@ -54,3 +54,4 @@ The authors' interpretive synthesis from the abstract of the bibliometric analys
 - [Prompting a learning disability shifts feedback toward word- and sentence-level remediation, simplified vocabulary, and lowered expectations](learning-disability-feedback-lowered-expectations.md) — related
 - [AI applications contributed to STEM students' higher-order thinking, including problem-solving, computational thinking, and self-regulated learning](ai-stem-higher-order-thinking-effects.md) — a narrower finding that bears on this claim
 - [The review reports some evidence that over-dependence on AI contributes to cognitive offloading and decreased independent reasoning, while guided AI use can be helpful](ai-overdependence-cognitive-offloading-guided-use-helpful.md) — related
+- [AI literacy comprises three key components: understanding AI capabilities, utilizing AI for problem solving, and applying AI in sociocultural contexts](ai-literacy-three-components.md) — related

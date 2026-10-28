@@ -47,6 +47,7 @@ The article proposes a concrete two-step research program. First, individuals an
 - [Design experimental studies that systematically vary how GenAI outputs are presented, comparing full solutions against structured hints or constructive feedback guardrails.](vary-genai-output-presentation-hints-vs-solutions.md)
 - [Advance CSCL by building Bayesian and collaborative-specific theoretical challenges: knowledge building priors, technology formalisation, and collaborative diagnostic reasoning](cscl-contributions-to-collaboration-sciences.md)
 - [Combine scripting with awareness measures to tailor collaboration scripts to the dyad](tailor-scripts-from-awareness-measures.md)
+- [Simulate collaborative GenAI use by exchanging JSON prompt scripts via the free Voilà tool](voila-json-prompt-exchange-strategy.md)
 
 ## Examples
 -

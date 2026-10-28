@@ -88,3 +88,4 @@ Descriptive means from the Study 3 field data for below-average-AAT examinees on
 - [In the lab study, distance and relevance of question content did not significantly affect accuracy overall, while AAT score and working-memory capacity each improved it and intensified each other](study2-main-effects-and-aat-kmax-interaction.md) — related
 - [Examinees score higher on academic aptitude test verbal reasoning questions with proximal than with distal content](proximal-content-higher-aat-accuracy.md) — related
 - [With logical structure held constant, proximity improves accuracy of low-achieving participants by 28%](proximity-low-aat-lab-logical-structure-constant.md) — related
+- [GazeTutor's attention-aware reorientation improved deep reasoning learning gains for high aptitude learners](gazetutor-deep-reasoning-gains-high-aptitude.md) — related

@@ -68,3 +68,4 @@ Barrier subtheme from manager and trainee interviews; participants also cited eq
 - [Professional development participation is mainly a matter of individual teacher initiative, with the teachers most in need of development least likely to pursue it](professional-development-individual-initiative-pattern.md) — related
 - [Lack of time and heavy workload are organizational barriers to team-based professional development in higher education](time-workload-barriers-team-pd.md) — related
 - [A dynamic adaptive reward mechanism in Comtella regulated online community contributions sustainably at an instructor-predefined level](comtella-adaptive-incentive-regulation.md) — related
+- [Teachers Feel Confident to Teach AI but Many Not in the Short-Term Without Specific Training](teachers-confident-but-need-training.md) — related

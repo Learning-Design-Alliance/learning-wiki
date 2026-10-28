@@ -50,3 +50,4 @@ Descriptive survey of preference questions asked during the 1st and 2nd weeks of
 - Age, sex, faculty, programme level and campus-territory are each significantly related to mobile user type membership, though the model's pseudo R-squared is low — related
 - Behavioural intention to adopt mobile learning is highest among eclectic users, followed by Internet users, then offline entertainment users, and lowest among basic users — related
 - [Students respond positively to e-mail exchanges, guest speaker interviews, and video projects aimed at cross-cultural awareness](positive-student-response-cross-cultural-activities.md) — related
+- [GenAI-assisted persona profiles matched campaign briefings at high levels (average 85% mobile phone, 80% drink campaign)](genai-persona-briefing-high-matching.md) — related

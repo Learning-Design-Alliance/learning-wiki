@@ -150,3 +150,4 @@ This meta-analysis synthesised 65 independent evaluations of school tutoring pro
 - [Pedagogical experts tutoring in biology generated less deep learning than less pedagogically expert, more interactive tutors](pedagogical-experts-less-deep-learning-tutoring.md) — related
 - [The review reports that college tutors who espoused a malleable view of intelligence to their tutees improved their own academic performance, with benefits for tutees as well](tutor-espousing-malleable-intelligence-gains.md) — related
 - [Teaching (writing a verbatim lecture script) produces better create question generation than explaining (writing a textbook explanation)](teaching-beats-explaining-question-generation.md) — related
+- [The competitive Game Show increased students' tutoring engagement relative to baseline](game-show-increases-tutoring-engagement.md) — a narrower finding that bears on this claim

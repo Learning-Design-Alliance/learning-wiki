@@ -47,3 +47,5 @@ RQ2 classification of ITS types across the 33 studies, with categories defined d
 ## Related Claims
 - [The review finds empirical evidence that ITS authoring tools benefit non-programmer authors mainly in effectiveness, efficiency, quality of authored artifacts, and usability](empirical-benefits-its-authoring-tools-nonprogrammers.md) — related
 - [A systematic literature review published from 2009 to June 2016 identified 33 primary studies on ITS authoring tools for non-programmer authors out of 4622 retrieved papers](slr-2009-2016-its-authoring-33-studies.md) — related
+- [Building example-tracing tutors with CTAT is 4–8 times as cost-effective as estimates for ITS development from the literature.](example-tracing-tutors-4-8-times-cost-effective.md) — related
+- [CTAT-built example-tracing tutors have been used by approximately 44,000 students and account for 40% of the data sets in DataShop.](example-tracing-tutors-44000-students-40-percent-datashop.md) — related

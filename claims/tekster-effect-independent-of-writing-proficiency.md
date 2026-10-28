@@ -53,3 +53,5 @@ Aptitude–treatment interaction analysis regressing posttest on pretest scores 
 - [Language proficiency moderates the effect of non-interactive teaching on immediate monitoring accuracy](language-proficiency-moderates-monitoring-accuracy.md) — related
 - [Tekster, a strategy-focused writing instruction program, statistically significantly improves the writing quality of upper-elementary students, with an overall effect size of 0.32](tekster-improves-writing-quality-es-032.md) — related
 - [Writing quality gains from Tekster are maintained eight weeks after the intervention ends](tekster-writing-gains-maintained-8-weeks.md) — related
+- [Writing quality improvement varied with initial proficiency (r = -0.42)](improvement-varies-with-initial-proficiency.md) — reports the opposite
+- [No aptitude-treatment interaction: prior proficiency did not interact with hint type](no-ati-hint-type-proficiency.md) — related

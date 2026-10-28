@@ -49,3 +49,5 @@ Controlled study in the Deep Thought logic tutor with 100 students (57 Assertion
 - [The Assertions condition delivered significantly more unsolicited hints than the Messages condition during training](assertions-more-hints-given-than-messages.md) — related
 - [Aptitude-treatment interaction: Assertions led low prior proficiency students to form significantly shorter posttest proofs than Messages](assertions-low-proficiency-shorter-posttest-proofs.md) — related
 - [For low prior proficiency students, unsolicited hint usage rates correlate negatively with posttest solution length, while hint frequency does not correlate](hint-needed-rate-correlates-shorter-proofs-low-proficiency.md) — related
+- [No aptitude-treatment interaction: prior proficiency did not interact with hint type](no-ati-hint-type-proficiency.md) — related
+- [Waypoint hints show lower justification and adoption rates than Next-Step hints](waypoints-lower-justification-adoption.md) — related

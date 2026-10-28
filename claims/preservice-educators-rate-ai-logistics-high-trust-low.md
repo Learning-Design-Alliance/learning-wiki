@@ -54,3 +54,4 @@ Descriptive analysis of post-interaction Likert reflection items from 131 preser
 - [LLM-generated retrieval practice was practical to deploy and well received, but high correctness rates (about 70% of items at p=1.0) restricted score variance](llm-generated-retrieval-practice-deployable-but-high-accuracy-limits-variance.md) — related
 - [Educators did not perceive the iterative CTML review process as slowing them down, rating production efficiency at 4.26/5](educators-rate-review-friction-productive.md) — related
 - [Survey items on critical evaluation and validation of ChatGPT outputs (Q11–Q13) received the lowest scores in both courses despite explicit validation instructions](critical-evaluation-items-lowest-scores.md) — a narrower finding that bears on this claim
+- [AI-assisted interpretation of mockup review comments revealed low Clarity scores in Map and Bud projects](genai-mockup-review-clarity-scores.md) — related

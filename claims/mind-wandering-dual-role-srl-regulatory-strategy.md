@@ -59,3 +59,4 @@ The commentary summarizes Bühler et al.'s (2025) systematic review of 134 studi
 - [Metacognition assessment is shifting from self-report questionnaires toward process-oriented multimodal methods, which face validity and data-alignment challenges](process-oriented-metacognition-assessment-shift.md) — related
 - [Mind wandering can function as a resource for regulation when learners have metacognitive awareness of attentional shifts](mind-wandering-resource-for-regulation.md) — possibly the same claim (merge candidate)
 - [Multimodal data collection is increasingly common but analyses rarely align data streams temporally](rare-alignment-of-multimodal-data-streams.md) — related
+- [Real-time mind wandering intervention corrected comprehension deficits when mind wandering probability was high](mind-wandering-intervention-corrects-comprehension.md) — related

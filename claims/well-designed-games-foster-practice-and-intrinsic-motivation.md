@@ -86,3 +86,4 @@ Authors' interpretation in the section on games as a culture medium: intrinsic i
 - [Perceived individual and class-directed autonomy support positively predict students' intrinsic motivation, effort, and persistence](autonomy-support-predicts-intrinsic-motivation-effort-persistence.md) — related
 - [The authors propose, without testing it here, that competitive environments may provide clear goals, structures, and rewards that foster engagement, particularly for students less familiar with such environments](competitive-environments-clear-goals-engagement-interpretation.md) — related
 - [Difficult math exercises impair elementary children's motivational, cognitive and affective task experiences relative to easier exercises](difficult-math-tasks-impair-motivation-engagement.md) — related
+- [The competitive Game Show increased students' tutoring engagement relative to baseline](game-show-increases-tutoring-engagement.md) — related

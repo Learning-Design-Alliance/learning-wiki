@@ -69,3 +69,4 @@ Coefficient for the HS change score in the full model with N = 89. Students whos
 - [Within-session SRL change shows no detectable association with unaided post-test performance](srl-change-no-posttest-association.md) — reports the opposite
 - [Within a single LLM session, students' help-seeking shifts toward answer- and verification-seeking while explicit self-regulation modestly increases](within-session-hs-shifts-toward-closure-srl-increases.md) — related
 - [Pre-test score differences do not explain the cross-cultural differences in effective help-seeking behaviors](pretest-does-not-explain-cultural-differences.md) — related
+- [Students' SRL scores significantly predict post-curriculum test performance above and beyond prior knowledge](srl-scores-predict-post-test-above-prior-knowledge.md) — related

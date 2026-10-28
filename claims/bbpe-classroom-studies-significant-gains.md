@@ -46,3 +46,4 @@ The article reports, citing prior studies (e.g., Basu et al. 2017; Sengupta et a
 
 ## Related Claims
 - [Novice K-12 students face multiple documented difficulties when learning STEM and CT simultaneously through learning-by-modeling, including translating domain knowledge into computational form and debugging model behaviors.](student-difficulties-learning-by-modeling-stem-ct.md) — related
+- [OLMs of various kinds have demonstrated significant learning gains](olms-demonstrated-significant-learning-gains.md) — related

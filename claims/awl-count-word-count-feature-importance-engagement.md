@@ -65,3 +65,4 @@ Feature importance analysis of the random forest classifier using mean decrease 
 - [Pre-test mathematical performance and self-efficacy are the most important predictors of post-test math performance in a random forest model](pretest-performance-selfefficacy-predict-posttest-math.md) — related
 - [Multi-label BERT classifiers slightly outperformed single-label Random Forest baselines on example-based F1 scores but under-performed with lower exact match ratios on MOOC cognitive presence classification](multi-label-bert-f1-beats-rf-exact-match-lower.md) — related
 - [A response-length-only baseline scores poorly, showing scores depend on broader linguistic features](length-only-baseline-performs-poorly.md) — related
+- [Attribution analysis identifies interpretable input features for BERT's classification decisions, including subjunctive verbs in alternatives and appraisal words in evaluation](attribution-analysis-identifies-bert-classification-features.md) — related

@@ -68,3 +68,4 @@ Descriptive means from the same Study 2 experiment: for below-average-AAT partic
 - [The proximal-content advantage on AAT questions is more pronounced for low-achieving examinees](proximity-advantage-low-achievers-corpus.md) — related
 - [In the lab study, distance and relevance of question content did not significantly affect accuracy overall, while AAT score and working-memory capacity each improved it and intensified each other](study2-main-effects-and-aat-kmax-interaction.md) — related
 - [In a high-stakes field exam, proximity improved performance of low-achieving examinees only on questions containing irrelevant details](proximity-helps-low-achievers-irrelevant-details-field.md) — related
+- [GazeTutor's attention-aware reorientation improved deep reasoning learning gains for high aptitude learners](gazetutor-deep-reasoning-gains-high-aptitude.md) — related

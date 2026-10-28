@@ -55,3 +55,4 @@ Randomized controlled experiment at Texas A&M University with 179 participants, 
 - [Intervention students reported significantly higher exam confidence than controls (M=4.3 vs 3.4 on a 5-point scale, d=0.76)](automated-marking-higher-exam-confidence.md) — related
 - [AI access raises immediate unaided test scores by 7.2 percentage points (0.28 SD) after a timed learning phase](genai-access-raises-immediate-test-scores.md) — related
 - [Persistence and performance costs concentrate among participants who used the AI to obtain direct solutions, while hint-users resemble controls](persistence-costs-concentrated-among-direct-solution-users.md) — related
+- [LLM-enhanced feedback did not yield a statistically significant improvement in final grades compared with traditional AI feedback](llm-feedback-no-significant-grade-gain.md) — related

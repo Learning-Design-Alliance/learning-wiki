@@ -51,3 +51,4 @@ Theoretical argument in Section 2.3 about monolithic architectures: the authors 
 - [Single-LLM writing assistance increased idea-level homogenization across writers, while a role-specialized duo of architecturally distinct LLMs preserved baseline diversity](role-specialized-duo-preserves-idea-diversity.md) — related
 - [A deployed reflection agent followed its prompt's countable rules but broke its dispositional rules about manner](agent-followed-countable-not-dispositional-rules.md) — related
 - [Prompt-Based Constraint is the dominant enforcement mechanism in LLM-based programming support systems](prompt-based-constraint-dominant-enforcement.md) — related
+- [Leveraging existing OS mechanisms (script recording, accessibility interfaces) for tutoring is problematic for widespread deployment](os-mechanism-tutoring-deployment-problematic.md) — related

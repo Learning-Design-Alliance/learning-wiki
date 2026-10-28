@@ -198,3 +198,4 @@ Open questions: how durable feedback effects are over time, how feedback interac
 - [Meta-analysis yields a lower feedback effect (d = 0.48) than the Visible Learning meta-synthesis (d = 0.79), with three synthesized values overestimated](meta-analysis-lower-feedback-effect-than-visible-learning-synthesis.md) — related
 - [The variability of feedback-intervention effects, including negative effects, exceeds sampling error and is robust to exclusion of a single prolific lab](fi-negative-effects-robust-not-sampling-error.md) — related
 - [Teachers provided targeted extra support, immediate feedback, and reinforcers to learners with DD](targeted-support-feedback-reinforcers-dd.md) — related
+- [AI feedback after sessions can provide on average eight qualified comments aligned with expert feedback per 30-min lesson](ai-feedback-eight-comments-per-lesson.md) — related

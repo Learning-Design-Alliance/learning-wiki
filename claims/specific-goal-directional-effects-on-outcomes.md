@@ -91,3 +91,4 @@ In the SEM of Hypothesis 3, "teaching quality was posi- tively predicted by task
 - [Pre-actional metacognitive, motivational, and positive-emotional components are positively associated with regulatory behavior in the actional phase, while anger and anxiety are negatively associated](pre-actional-components-predict-actional-regulation.md) — related
 - [Mastery-approach goals are positively related to time management, while performance-approach relations are inconsistent and performance-avoidance goals show no association](mastery-approach-goals-time-management.md) — related
 - [Work avoidance and relational goals form goal classes distinct from all other achievement goal classes of university instructors.](work-avoidance-and-relational-goals-distinct-classes.md) — related
+- [Goal orientation affects children's help-seeking behaviour in Ecolab II](goal-orientation-affects-help-seeking-ecolab-ii.md) — related

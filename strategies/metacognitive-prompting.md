@@ -65,6 +65,7 @@ Metacognitive prompting works by making self-regulatory processes explicit at th
 - [Self-Explanation Prompting](self-explanation-prompts.md) — a closely related prompt type focused on explaining reasoning rather than regulating it
 - [Train learners in sycophancy-specific critical prompting strategies that remove personal assumptions, request critical evaluation, and ask for supporting evidence](sycophancy-specific-critical-prompting-strategies.md)
 - [Include interactive elements in metacognitive prompts that require young learners to respond](interactive-elements-in-metacognitive-prompts.md)
+- [Use PCA facilitation messages that prompt reflection on task goals, metacognition, and motivation during collaborative explanation tasks](pca-facilitation-prompt-types.md)
 
 ## Examples
 - **[Reciprocal Teaching](reciprocal_teaching.md)** (Palincsar & Brown) — students take turns prompting each other to summarize, question, clarify, and predict while reading; the prompts are the intervention.

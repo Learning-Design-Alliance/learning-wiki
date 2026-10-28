@@ -76,3 +76,4 @@ Test II followed study phase II, in which participants studied six new artists w
 - [Interleaved homework yields higher surprise criterial test scores than blocked homework in undergraduate physics, with larger effects in Stage 2](interleaving-criterial-test-benefit-physics.md) — related
 - [In an experimenter-controlled task, interleaved practice yields better classification performance than blocked practice (d = 1.05)](experimenter-controlled-interleaving-beats-blocked.md) — related
 - [In self-organized tasks, more interleaved practice is associated with higher classification accuracy](self-organized-interleaving-predicts-accuracy.md) — related
+- [Interleaved practice with multiple graphical representations leads to better learning outcomes than blocked practice.](interleaved-representations-better-learning.md) — a narrower finding that bears on this claim

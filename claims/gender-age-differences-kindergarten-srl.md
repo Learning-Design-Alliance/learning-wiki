@@ -71,3 +71,4 @@ Spearman's correlations in preliminary analyses. The printed correlations were �
 - [Girls show early EF and ToM advantages, but the EF advantage diminishes with age while the ToM advantage persists](gender-advantage-ef-diminishes-tom-persists.md) — related
 - [Metacognitive strategies correlate strongly with problem-solving skills, and behavioural metrics correlate with task performance](metacognition-problem-solving-correlation.md) — related
 - [Girls report higher initial mathematics enjoyment and boys higher initial boredom, with no gender differences in arithmetic skill development or mathematics performance](gender-differences-enjoyment-boredom-early-grades.md) — related
+- [Percentage of students solving the mystery does not differ significantly by SRL group](no-srl-difference-mystery-completion.md) — related

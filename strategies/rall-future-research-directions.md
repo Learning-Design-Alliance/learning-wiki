@@ -43,6 +43,7 @@ The review closes by setting an agenda for subsequent work: "This review conclud
 ## Related Strategies
 
 - [Future research should pursue the directions the authors outline for L2 anxiety research](l2-anxiety-future-research-directions.md)
+- [Propose a research agenda for the near future in character-enhanced learning](virtual-character-research-agenda.md)
 
 ## Examples
 -

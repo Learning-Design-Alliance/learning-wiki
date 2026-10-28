@@ -54,3 +54,4 @@ The rating sample is small (20 questions, two raters with modest agreement), and
 - [Chain-of-thought and reasoning prompting significantly improve LLM proportional match with human-authored distractors over direct prompting on both math and science MCQs](reasoning-prompting-improves-llm-distractor-match.md) — related
 - [LLMs predict common distractors above chance but fall 15 percentage points below chance at predicting which errors students rarely select](llm-distractor-prediction-asymmetry.md) — related
 - [On distractor-driven science items, instruction can first strengthen students' attraction to an alternative conception before that preference declines](instruction-can-raise-attraction-to-alternative-conceptions-before-decline.md) — related
+- [Distractor similarity to the correct answer increases MCQ complexity](distractor-similarity-increases-complexity.md) — related

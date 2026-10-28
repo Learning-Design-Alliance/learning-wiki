@@ -27,7 +27,7 @@ sources:
 # Personalization
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 88 claims (46 for, 35 mixed, 7 against) · 91 studies (30 review, 21 causal, 12 theoretical, 9 qualitative, 8 associational, 6 design, 5 quant-synthesis), `q1`–`q4` · 7 of 91 report an effect size · 83 claims rest on one study
+> **Evidence** · 90 claims (48 for, 35 mixed, 7 against) · 93 studies (30 review, 21 causal, 12 theoretical, 9 associational, 9 qualitative, 7 design, 5 quant-synthesis), `q1`–`q4` · 7 of 93 report an effect size · 85 claims rest on one study
 
 ## Conditional relationship
 
@@ -173,6 +173,7 @@ Claims this page cited that were re-read against the model (on 2026-10-15, and a
 - [Individual pupils' abilities vary widely across traits, showing little evidence of correlation of abilities](../claims/little-correlation-of-abilities-within-pupils.md) [+W] — attached 2026-10-25 from Chambers (1909), which proposed "Grade rigid grading and promotion on natural rather than artificial distinctions, since a rigid system works injustice to individuals".
 - [Poor readers are highly heterogeneous and do not all display the same type of reading impairment](../claims/poor-readers-heterogeneous-reading-behaviours.md) [+W] — attached 2026-10-27 from Genevieve McArthur et al. (2017), which proposed "Assess reading behaviours, proximal causes, and comorbidities before designing an individualised intervention".
 - [Adaptive hyperbooks can ameliorate discontinuous conceptual and narrative flow during flexible navigation](../claims/adaptive-hyperbooks-ameliorate-discontinuous-flow.md) [+W] — attached 2026-10-27 from Tom Murray (2003), which proposed "Provide flexible, adaptive on-line learning material to support opportunistic active reading"; tests this page's relationship.
+- [Log data from Next-TELL OLM use in three schools showed differences in visualisation usage among learners and teachers](../claims/next-tell-log-data-visualisation-usage-differences.md) [+W] — attached 2026-10-28 from Susan Bull et al. (2016), which proposed "Offering a choice of learner model visualisations to suit purpose, competency-set size and user preference".
 
 ## Objective and learner-valued goal
 
@@ -198,6 +199,7 @@ Engagement, immediate achievement on an aligned test, time saved, delayed retent
 - [Mobile devices enable just-in-time adaptive interventions that flexibly adapt support to students' changing internal and contextual states](../claims/jitai-just-in-time-mobile-support.md) [+W]
 - [Adjusting algebra problem contexts to students' out-of-school interests was beneficial](../claims/personalizing-algebra-context-to-interests-beneficial.md) [+W]
 - [Many countries face serious STEM education problems, and tailoring instruction to students' knowledge levels is identified as a key challenge](../claims/stem-problems-tailoring-instruction-challenge.md) [+W]
+- [Computer-based learning systems need to adapt to learners' needs to provide effective personalised instruction](../claims/adaptation-needed-for-personalised-instruction.md) [+W]
 
 ## Related Principles
 - [Adaptive Learning](adaptive-learning.md) — the system-driven end of the personalization spectrum, where algorithms adjust difficulty and sequencing

@@ -47,3 +47,4 @@ Correlational analysis in the fMRI study; topics were rated relatively unfamilia
 ## Related Claims
 - [Passage familiarity (prior related knowledge) correlates .52 with recall, and only familiarity, not imageability, affected one-week delayed recall](passage-familiarity-correlates-with-recall.md) — related
 - [Prior Knowledge Determines New Learning](prior-knowledge-determines-new-learning.md) — a broader claim this one bears on
+- [Familiarity with the article topic correlates positively with bias against credibility of framed evidence](familiarity-correlates-credibility-bias.md) — related

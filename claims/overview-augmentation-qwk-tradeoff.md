@@ -50,3 +50,4 @@ Ablation result for the Overview dimension (Results §4.3.6, best model IB-BiLST
 - [CoTAL improves GPT-4 scoring agreement with human scorers on the Rules Task, raising average subscore QWK from 0.826 to 0.916 (a 10.9% gain) over a non-prompt-engineered baseline](cotal-rules-task-qwk-gain.md) — related
 - [Generative AI platforms cannot yet independently lead meaningful innovation; at best they augment human intelligence for innovation](generative-ai-augments-not-leads-innovation.md) — related
 - [On the Debugging Task, CoTAL raised average subscore QWK from 0.567 to 0.706 (24.5% improvement) and Total Score QWK by 0.218 (a 38.9% gain) over the Baseline](cotal-debugging-task-qwk-gain.md) — related
+- [Data augmentation with Coedit-XL paraphrasing and targeted filtering improved model performance on imbalanced items](coedit-xl-augmentation-improved-imbalanced-item-scoring.md) — a broader claim this one bears on

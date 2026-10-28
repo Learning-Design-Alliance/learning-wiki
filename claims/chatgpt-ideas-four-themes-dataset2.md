@@ -50,3 +50,4 @@ Analysis of 35 written ideas submitted by K12-to-higher-education educators in a
 - [Teachers viewed ChatGPT as a source of inspiration rather than a generator of genuinely innovative lesson content](chatgpt-inspiration-not-innovation-lesson-planning.md) — related
 - [Students' main AI challenges are content reliability and depth, and most expect AI to serve as tutor, creative partner, and critical thinking partner rather than mere content generator](student-critical-ai-role-expectations.md) — related
 - [Teachers perceive their role shifting from knowledge transmitters to facilitators, co-investigators, and ethical supervisors of AI use](teacher-role-shift-facilitator-ethical-supervisor.md) — related
+- [The empirical evidence for claimed pedagogical benefits of virtual characters is weak and inconclusive](virtual-character-pedagogical-benefits-weak-evidence.md) — related

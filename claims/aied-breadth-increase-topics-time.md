@@ -49,3 +49,4 @@ Breadth coding of only the empirical papers (Table 4), using the rubric of 1 top
 - [A persistent agentic research environment sustained near-daily use over 115 days, with 75,671 de-duplicated telemetry records across 96 active days (active-day fraction 0.835)](persistent-agent-96-active-days-75671-records.md) — related
 - [The environment produced 482 memory-recorded output-proxy events (5.02 per active day) across 10 artifact-surface categories spanning research, teaching, software, content, and operations](output-proxy-482-events-breadth-10-surfaces.md) — related
 - [Workshop papers on intelligent textbooks grew more focused on a single technology, falling from an average of 2.4 topics per paper in 2019 to 1.7 in 2023](workshop-topics-shift-toward-single-technology-focus.md) — related
+- [Roll and Wylie's review of 47 IJAIED papers recommends evolutionary and revolutionary research strands](roll-wylie-evolutionary-revolutionary-strands.md) — related

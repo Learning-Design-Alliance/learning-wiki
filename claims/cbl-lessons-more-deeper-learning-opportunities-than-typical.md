@@ -48,3 +48,4 @@ Rubric-based scoring of 71 lesson samples by independent scorers who were blind 
 - [Challenge based lessons scored significantly higher than NGSS practices-aligned lessons on three of six deeper learning dimensions and equivalent on the other three](cbl-vs-ngss-practices-aligned-three-of-six-higher.md) — related
 - [Student deeper learning outcomes were positively and strongly correlated with ratings of deeper learning opportunities](student-work-outcomes-correlate-with-opportunity-ratings.md) — related
 - [Students valued the independence, real-world relevance, hands-on work, and collaboration in challenge based lessons](students-valued-independence-and-real-world-relevance.md) — related
+- [Cooperative Project-Based Learning Methodology Engages Students in AI Topics](cpbl-methodology-ai-engagement.md) — a narrower finding that bears on this claim

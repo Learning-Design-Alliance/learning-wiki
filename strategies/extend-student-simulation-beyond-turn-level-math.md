@@ -42,6 +42,7 @@ The authors lay out forward-looking directions: studying how to include a studen
 ## Related Strategies
 
 - [Future Directions for Dialogue Knowledge Tracing](future-directions-for-dialogue-knowledge-tracing.md)
+- [Open research directions for learning companions: domain portability, multiple companions, group models, and natural dialogue beyond menus](learning-companion-open-research-directions.md)
 
 ## Examples
 -

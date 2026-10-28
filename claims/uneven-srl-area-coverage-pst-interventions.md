@@ -71,3 +71,4 @@ Same RQ1.2 coding of area combinations across the 66 interventions, summarised i
 - [AI's direct impact on SRL concentrates on metacognitive and cognitive aspects while motivation remains underexplored](ai-srl-impact-metacognitive-cognitive-motivation-underexplored.md) — related
 - [Most direct SRL promotion targeted cognitive capabilities and rarely mentioned the benefit of strategy use](cognitive-capability-dominance-benefit-rarely-mentioned.md) — related
 - [Zimmerman's (2000) model was the most frequently cited SRL model (74%) and Pintrich's (2000) model followed (67.4%), with model choice not affecting the areas promoted](zimmerman-pintrich-dominant-srl-models-pst-interventions.md) — related
+- [The distribution of reflection segments across the five model elements is uneven, with description most frequent (36%) and consequences least frequent (7%)](uneven-distribution-reflection-elements-description-most-frequent.md) — related

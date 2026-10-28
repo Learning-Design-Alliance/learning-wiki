@@ -52,3 +52,4 @@ The article states this as the motivating gap for developing ChatGPT-FLGA, witho
 - [ChatGPT's intuitive interface and instant feedback can either support learning or enable superficial task completion depending on integration](chatgpt-support-or-superficial-completion.md) — related
 - [ChatGPT and DeepSeek feedback differed from student to student in technical content, repertoire and address style, providing an individualized approach](genai-feedback-individualized-per-student.md) — a narrower finding that bears on this claim
 - [AI chatbots enable flexible personalized learning by adapting teaching strategies to individual student needs](chatbot-flexible-personalized-learning.md) — a broader claim this one bears on
+- [Computer-based learning systems need to adapt to learners' needs to provide effective personalised instruction](adaptation-needed-for-personalised-instruction.md) — related

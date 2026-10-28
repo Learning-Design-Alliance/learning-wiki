@@ -56,3 +56,4 @@ Qualitative findings from 32 student focus groups. Students cited independence, 
 - [Students and faculty value real-world examples in gateway math, but limited resources and training often lead to procedural instruction](real-world-relevance-gateway-math-procedural-instruction.md) — related
 - [Usability testing with educators and developers identified chatbot strengths for independent challenge-solving but limited feedback for low-participation learners](usability-test-strengths-and-limits.md) — related
 - [Embodied and cognitive hands-on rely on different feedback sources and are not educationally equivalent](hands-on-forms-different-feedback-sources.md) — related
+- [Cooperative Project-Based Learning Methodology Engages Students in AI Topics](cpbl-methodology-ai-engagement.md) — a narrower finding that bears on this claim

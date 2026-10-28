@@ -52,3 +52,4 @@ In the same 2×2 ANOVA of coded collaboration ratings, the PCA factor showed a s
 - [Gaze feedback and PCA suggestions show no interaction effect on the collaborative process ratings](no-gaze-pca-interaction-on-process.md) — related
 - [Consensus reaching and task division together predict learning gains across conditions](process-codes-predict-learning-gains.md) — related
 - [A successful coordination/high learning-gain correlation appears only for learners receiving both visible gaze feedback and PCA suggestions](process-performance-correlation-only-both-tools.md) — related
+- [PCA facilitation did not significantly improve collaborative learning process or performance compared with no-PCA control](pca-facilitation-no-significant-gain.md) — reports the opposite

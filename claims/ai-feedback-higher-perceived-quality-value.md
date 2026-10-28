@@ -111,3 +111,4 @@ Post-survey comparisons in RQ3; trust (p = 0.1456) and acceptance (p = 0.2393) a
 - [Students' perceptions of mastery, emotions, and satisfaction were similarly high across all three feedback conditions](student-perceptions-similarly-high-ai-and-teacher-feedback.md) — reports the opposite
 - [Discrepancies between lenient learner feedback and more critical automated feedback caused tutors confusion, distrust, and demands for rationale](feedback-source-discrepancies-cause-confusion.md) — related
 - [Students perceive human graders as more accurate and helpful than the AI autograder](students-trust-humans-more-than-autograder.md) — related
+- [ChatGPT-assisted revision significantly improved abstract clarity and conciseness ratings](chatgpt-revision-improves-clarity-conciseness.md) — related

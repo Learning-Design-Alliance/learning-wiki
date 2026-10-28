@@ -52,3 +52,4 @@ Narrative review of the ATI literature: the article reports that the vast majori
 - [Low variability materials enhanced learning regardless of guidance; expertise reversal found for variability in Experiment 2](variability-effect-expertise-reversal-two-experiments.md) — related
 - [Grasping virtual objects benefits low language aptitude learners but not high language aptitude learners relative to audiovisual baseline](grasping-benefits-low-aptitude-not-high-aptitude-learners.md) — related
 - [The effect of Tekster does not depend on students' initial writing proficiency](tekster-effect-independent-of-writing-proficiency.md) — related
+- [No aptitude-treatment interaction: prior proficiency did not interact with hint type](no-ati-hint-type-proficiency.md) — a narrower finding that bears on this claim

@@ -56,3 +56,4 @@ Controlled eight-week training experiment comparing RL-optimized sequencing agai
 - [Among RL papers statistically outperforming baselines, normalized learning gain was the most common effective reward source, used in over half of the papers (n = 10)](normalized-learning-gain-effective-reward-source.md) — related
 - [Combined Trainer and Synthesizer use is expected to support speaking development and more equitable participation over time](combined-genai-expected-speaking-gains-equity.md) — related
 - [A technical review reports that one reinforcement-learning adaptive platform raised average course grades by 12%, task completion by 20% and cut dropout by 10% against static curricula (uncontrolled case report)](rl-adaptive-system-grade-engagement-gains.md) — related
+- [Adaptive navigation support is less directive and more cooperative than traditional curriculum sequencing](adaptive-navigation-support-less-directive-than-sequencing.md) — related

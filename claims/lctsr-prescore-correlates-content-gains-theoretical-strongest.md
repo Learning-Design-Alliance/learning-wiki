@@ -63,3 +63,5 @@ Correlational analysis over two years of conceptual physics courses relating pre
 - [Non-STEM majors in conceptual physics and astronomy courses score significantly lower pre-instruction on the LCTSR than STEM majors](non-stem-lower-lctsr-pre-scores-than-stem.md) — related
 - [The AI-tutoring advantage holds across prior-ability and scientific-attitude subpopulations](ai-tutor-advantage-holds-subpopulations.md) — reports the opposite
 - [Low Prior Knowledge students achieved significantly higher normalized learning gains than High Prior Knowledge students](lpk-normalized-gain-exceeds-hpk.md) — related
+- [The Genetics Tutor produced average pretest-to-posttest learning gains of about 18 percentage points across 45 single-unit evaluations.](genetics-tutor-18-percentage-point-gains.md) — related
+- [No correlation between motivation or engagement measures and tutor learning gains](no-correlation-motivation-learning-gain.md) — related

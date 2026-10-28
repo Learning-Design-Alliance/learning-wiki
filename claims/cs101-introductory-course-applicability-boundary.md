@@ -52,3 +52,4 @@ Boundary test of the same review pipeline on 106 problems from 16 past Introduct
 - [Exam-level AI difficulty correlations with student performance are directionally consistent but weaker and only exploratory](exam-level-ai-difficulty-correlation-exploratory.md) — related
 - [AI review difficulty also correlates with problem-level non-attempt rate, providing process evidence beyond pass rate](ai-difficulty-non-attempt-rate-correlation.md) — related
 - [Item-difficulty orderings diverge across cohorts, with the weakest correlation between academics and students (r = 0.188) and no stable shared developmental hierarchy](cohort-difficulty-ordering-correlations-diverge.md) — related
+- [Background story does not significantly impact difficulty of introductory programming problems](background-story-no-difficulty-impact.md) — related

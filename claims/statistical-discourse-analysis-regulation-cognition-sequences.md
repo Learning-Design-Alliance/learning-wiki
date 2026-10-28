@@ -53,3 +53,4 @@ Statistical discourse analysis combined with content analysis and discourse anal
 - [Metacognitive scaffolding did not significantly affect group performance of collaborating triads, though the effect size indicated a small to medium positive effect](scaffolding-no-significant-group-performance-effect.md) — related
 - [Providing cognitive and metacognitive group awareness information did not have the expected impact on learning outcomes despite knowledge and confidence gains](group-awareness-information-no-impact-on-learning-outcomes.md) — related
 - [Personalized scaffolds increased frequencies of high cognition and monitoring relative to control, but learning outcomes did not differ between conditions.](scaffolds-changed-srl-processes-not-outcomes.md) — related
+- [Computer-based metacognitive scaffolding shows limited evidence of long-term retention or transfer of the scaffolded skills](limited-evidence-long-term-metacognitive-retention.md) — related

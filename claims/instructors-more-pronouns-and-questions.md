@@ -70,3 +70,4 @@ Question-use analysis of FOXGLOVE feedback comments (§4.2.3), counting question
 - [LLM feedback receives higher expert ratings on six of seven quality dimensions, with tone the exception](llm-feedback-higher-expert-ratings.md) — related
 - [Instructors and LLMs distribute feedback similarly across the five argumentative goals, with Claim receiving the most feedback from both](similar-goal-distribution-instructor-llm-feedback.md) — related
 - [Gender prompts shift feedback stance: female students receive affective, first-person, empathy-oriented feedback while male students receive objective, task-oriented critique](gender-prompt-emotional-connection-pedagogy.md) — related
+- [100% of ChatGPT's coding comments are positive while experts mix positive and negative comments](chatgpt-overly-positive-comments.md) — related

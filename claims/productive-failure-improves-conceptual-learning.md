@@ -107,7 +107,7 @@ The article reports a randomized-controlled experiment comparing problem solving
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Teach the method first, or let learners attempt problems before instruction?* This table gathers the studies behind this claim and the 14 narrower claims that bear on it: **8 distinct studies** (4 causal, 2 theoretical, 1 quant-synthesis, 1 review), `q2`–`q4`, 2 of 8 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Should learners attempt a problem before the idea is taught, and what must the teaching afterwards do?* This table gathers the studies behind this claim and the 14 narrower claims that bear on it: **8 distinct studies** (4 causal, 2 theoretical, 1 quant-synthesis, 1 review), `q2`–`q4`, 2 of 8 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|

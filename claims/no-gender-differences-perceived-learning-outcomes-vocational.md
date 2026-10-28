@@ -70,3 +70,5 @@ Independent-samples t-test comparing male (n = 388) and female (n = 722) student
 - [The effect of Tekster does not depend on student gender](tekster-effect-not-gender-dependent.md) — related
 - [No GPA difference between male and female older learners, or across faculties](no-gender-faculty-gpa-difference-older-learners.md) — related
 - [Exam Playbook benefits were larger for female users and for first-generation students, reducing achievement gaps](exam-playbook-moderation-demographic-benefits.md) — related
+- [Gender differences in perceived transversal skills, with male students higher](gender-differences-transversal-skills-male-higher.md) — reports the opposite
+- [Students across all genders perceive scientific citizenship positively](scientific-citizenship-positive-across-genders.md) — related

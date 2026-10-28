@@ -27,7 +27,7 @@ sources:
 # Scaffolding
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 77 claims (23 for, 44 mixed, 10 against) · 55 studies (28 causal, 11 review, 6 quant-synthesis, 4 theoretical, 3 design, 2 associational, 1 qualitative), `q1`–`q4` · 18 of 55 report an effect size · 70 claims rest on one study
+> **Evidence** · 78 claims (23 for, 45 mixed, 10 against) · 56 studies (28 causal, 11 review, 6 quant-synthesis, 4 design, 4 theoretical, 2 associational, 1 qualitative), `q1`–`q4` · 18 of 56 report an effect size · 71 claims rest on one study
 
 ## Conditional relationship
 
@@ -160,6 +160,7 @@ Assisted performance, unassisted immediate performance, delayed retention, trans
 - [In the replication, children's posttest outcome scores did not significantly differ across the four instructional conditions, failing to replicate the contingent-instruction advantage of D. Wood et al. (1978)](../claims/contingent-instruction-no-outcome-advantage-replication.md) [-W]
 - [Tutor accuracy in applying the contingency rule showed no significant association with children's posttest outcome, efficiency, or autonomy, with near-zero correlations](../claims/tutor-accuracy-no-posttest-association.md) [~W]
 - [None of the three scaffolds showed a significant main effect on fraction knowledge across the whole sample](../claims/no-main-effects-of-scaffolds.md) [-W]
+- [Less able learners made the greatest learning gains with Ecolab II metacognitive scaffolding](../claims/ecolab-ii-less-able-greatest-gains.md) [~W]
 
 ## Related Principles
 - [Scaffolding and Fading](scaffolding-and-fading.md)

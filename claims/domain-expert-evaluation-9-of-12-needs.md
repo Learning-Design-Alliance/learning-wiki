@@ -48,3 +48,4 @@ Qualitative deductive content analysis of feedback from five semi-structured int
 
 - [Domain-expert feedback indicated the Tero character initially felt unrealistic and presented a narrow perspective of forest ownership](tero-narrow-perspective-feedback.md) — related
 - [Dataset 1 identified challenges in current teaching (resources, knowledge, digital tools) alongside opportunities for emerging technologies to clarify complex concepts and teach critical skills](dataset1-challenges-and-opportunities-themes.md)
+- [The empirical evidence for claimed pedagogical benefits of virtual characters is weak and inconclusive](virtual-character-pedagogical-benefits-weak-evidence.md) — related

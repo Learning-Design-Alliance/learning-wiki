@@ -44,6 +44,7 @@ Because group members tend to share too little relevant information and shared i
 ## Related Strategies
 
 - [Use a collaboration script structured by scientific-reasoning phases to prompt sharing, eliciting, and negotiating diagnostic information](collaboration-script-diagnostic-phases.md)
+- [Simulate collaborative GenAI use by exchanging JSON prompt scripts via the free Voilà tool](voila-json-prompt-exchange-strategy.md)
 
 ## Examples
 -

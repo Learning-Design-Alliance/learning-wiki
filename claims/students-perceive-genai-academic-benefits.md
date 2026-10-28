@@ -50,3 +50,4 @@ Interview findings from the qualitative study of 27 undergraduates report that a
 - [Academic integrity, professional development, and equity concerns about AI span all surveyed units, though interpreted differently](integrity-equity-concerns-span-all-units.md) — related
 - [Nursing students and faculty report concerns that AI use may weaken critical thinking, enable plagiarism and misinformation, and create unequal access](ai-concerns-critical-thinking-plagiarism-nursing.md) — related
 - [GenAI/LLM language ability, democratization potential, and semantic-sensor functions can serve the emancipatory vision without ever-increasing model complexity](genai-properties-serve-flourishing-vision.md) — related
+- [Graduate students experienced GenAI-assisted research as supporting originality through new ideas and perspectives](genai-assisted-research-supports-originality.md) — related

@@ -13,7 +13,7 @@ generated:
 # Digital Tools
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 48 claims (25 for, 20 mixed, 3 against) · 46 studies (12 review, 10 associational, 6 causal, 6 theoretical, 5 quant-synthesis, 4 design, 3 qualitative), `q1`–`q4` · 6 of 46 report an effect size · 47 claims rest on one study
+> **Evidence** · 50 claims (25 for, 22 mixed, 3 against) · 48 studies (12 review, 10 associational, 7 causal, 6 theoretical, 5 quant-synthesis, 5 design, 3 qualitative), `q1`–`q4` · 6 of 48 report an effect size · 49 claims rest on one study
 
 ## Description
 Digital tools are the element in which learners use software, platforms, or digital applications to create, collaborate, practice, or receive feedback. They are useful when a tool meaningfully extends what learners can do.
@@ -83,6 +83,8 @@ Digital tools are the element in which learners use software, platforms, or digi
 - [Skills gained from GenAI integration vary with teaching methodology, tool choice, and assessment methods, with student performance varying by engagement level](../claims/genai-skills-vary-by-methodology-engagement.md) [~W]
 - [ChatGPT-based training produced significantly higher ADAS activation accuracy than conventional video-and-manual training for the LKA, CA and ACC functions](../claims/chatgpt-training-higher-adas-accuracy-than-conventional.md) [+M] — attached 2026-10-27 from Murtaza et al. (2024), which proposed "ChatGPT-based interactive user manual for training drivers on ADAS and AV functions".
 - [GAI tools enriched student ideation, aesthetic development and confidence in architecture and design education, especially for lower-competency learners](../claims/gai-tools-ideation-architecture-design-lower-competency.md) [+W]
+- [AI tool usage patterns differed by academic level](../claims/ai-usage-patterns-differ-by-level.md) [~W]
+- [Engagement does not mediate the grade difference between tool users and non-users](../claims/engagement-does-not-mediate-grade-difference.md) [~W]
 
 ## The evidence by question
 - *Does putting instruction on a digital medium change learning by itself, or only through the method, time and teaching it carries?* [Media comparison studies produce uninterpretable "no significant difference" findings.](../claims/media-comparison-studies-produce-uninterpretable-results.md) [+M]

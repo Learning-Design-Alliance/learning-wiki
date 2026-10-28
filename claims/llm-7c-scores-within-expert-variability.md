@@ -74,3 +74,5 @@ Spearman correlation between LLM scores and human mean scores across the 10 disc
 - [Differences between human and ChatGPT feedback quality were small, with means within one point and partial eta-squared ranging from .01 to .12](small-effect-sizes-human-ai-feedback-differences.md) — related
 - [Expert rankings validate the Ratio variables, not absolute frequencies, as meaningful proxies for productive dialogue](expert-rankings-validate-ratio-variables.md) — related
 - [AI agent comment patterns include validation (22%) at rates comparable to human peer learning communities, with validation-before-extension sequences structurally resembling collaborative knowledge building](ai-agent-validation-rate-within-human-range.md) — related
+- [Inter-rater reliability between human experts and AI coding is very low](low-irr-experts-vs-ai-coding.md) — reports the opposite
+- [Including supplemental response context in modified inputs was necessary because human raters scored target responses with access to those responses](supplemental-response-context-modified-inputs.md) — related

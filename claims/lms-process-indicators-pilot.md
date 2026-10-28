@@ -56,3 +56,4 @@ Descriptive log analysis of the experimental group (N = 15) over eight weeks, ag
 - [A proposed three-part process-evidence submission (deliverable, AI interaction logs, video reflection) shifts displacement upstream rather than eliminating it](three-part-process-evidence-submission.md) — related
 - [MAIC-UI, generating interactive STEM courseware from instructor documents, reported gains in learning agency in classroom deployment (attributed)](maic-ui-learning-agency-gains-attributed.md) — related
 - [Students in the non-adaptive condition reached significantly higher average mastery probabilities than students in the adaptive condition](non-adaptive-condition-higher-mastery-probabilities.md) — related
+- [Log analysis shows adaptive condition concentrates practice on unmastered concepts while random condition over-practices easy ones](bkt-adaptivity-log-practice-allocation.md) — related

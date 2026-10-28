@@ -50,3 +50,4 @@ The authors' summary interpretation of the group-level contrasts across Experime
 - [Against unexploitable opponents, neither win-calmness nor loss-restlessness appears; calmness is instead lower after wins and restlessness lower after losses](no-win-calmness-unexploitable-opponents.md) — a narrower finding that bears on this claim
 - [Win-calmness appears only against exploitable opponents; exploiting opponents instead reproduce the reversed pattern](win-calmness-exploitable-opponents-only.md) — a narrower finding that bears on this claim
 - [Only against exploitable opponents does individual win rate correlate with win-calmness (positively) and loss-restlessness (negatively)](win-rate-correlations-exploitable-only.md) — a narrower finding that bears on this claim
+- [Students with higher desire to win strategically selected lower-rated opponents for an easy win](strategic-winners-select-lower-rated-opponents.md) — related

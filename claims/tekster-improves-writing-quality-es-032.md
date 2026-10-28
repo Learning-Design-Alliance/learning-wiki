@@ -73,3 +73,4 @@ Model comparison removing the restriction that the intervention effect was equal
 - [The effect of Tekster differs by grade level, with slightly smaller gains in Grade 6 than in Grades 4 and 5](tekster-effect-varies-by-grade-level.md) — related
 - [Writing quality gains from Tekster are maintained eight weeks after the intervention ends](tekster-writing-gains-maintained-8-weeks.md) — related
 - [GBSRI significantly improved Thai undergraduates' overall English paragraph writing scores after eight weeks](gbsri-improves-thai-undergraduate-writing-scores.md) — related
+- [Writing quality improvement varied with initial proficiency (r = -0.42)](improvement-varies-with-initial-proficiency.md) — related

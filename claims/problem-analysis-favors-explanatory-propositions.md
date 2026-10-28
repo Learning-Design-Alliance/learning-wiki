@@ -10,6 +10,7 @@ generated:
   at: 2026-10-24
 evidence_strength: moderate
 newest_evidence: 1989
+source_checked: 2026-10-28
 sources:
   - id: schmidt-1989
     resource: "https://doi.org/10.1037/0022-0663.81.4.610"
@@ -33,7 +34,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
-> **Currency** · newest study 1989 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1989 · checked against its sources 2026-10-28 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 
@@ -75,3 +76,4 @@ Two-way ANOVA (condition between subjects, proposition type within subjects) in 
 - [Problem-based discussion prior to studying a text does not increase the number of inferences during immediate free recall](pbl-discussion-no-increase-in-immediate-inferences.md) — related
 - [Small-group discussion of a problem activates relevant prior knowledge, more than doubling free recall of propositions about the underlying process](problem-analysis-activates-prior-knowledge.md) — related
 - [Analyzing a problem before reading facilitates subsequent recall of a relevant text for both novices and experts](problem-analysis-facilitates-text-recall.md) — related
+- [Explicit tutorial interventions successfully stimulated self-explanation in the SE-Coach evaluation](se-coach-interventions-stimulate-self-explanation.md) — related

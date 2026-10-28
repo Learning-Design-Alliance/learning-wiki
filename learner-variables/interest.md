@@ -13,7 +13,7 @@ generated:
 # Interest
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 217 claims (156 show a difference, 37 mixed, 24 no difference) · 145 studies (55 causal, 40 associational, 20 review, 12 design, 7 quant-synthesis, 6 theoretical, 5 qualitative), `q1`–`q4` · 38 of 145 report an effect size · 211 claims rest on one study
+> **Evidence** · 219 claims (156 show a difference, 37 mixed, 26 no difference) · 147 studies (57 causal, 40 associational, 20 review, 12 design, 7 quant-synthesis, 6 theoretical, 5 qualitative), `q1`–`q4` · 39 of 147 report an effect size · 213 claims rest on one study
 
 ## Description
 Interest is a learner's attraction to a topic. Research separates individual interest, a lasting disposition a learner brings, from situational interest, which material or activity sparks in the moment and which can grow into individual interest over time. Interest is measured by self-report, choice and persistence. It predicts attention, depth of processing and course choice, it moderates the effect of materials (seductive details catch interest without helping learning), and it is an outcome of designs that show relevance or give learners choice. It is a narrower case of [motivation](motivation.md).
@@ -252,6 +252,8 @@ Interest is a learner's attraction to a topic. Research separates individual int
 - [Enjoyment of the instructional type did not differ between the movement and seated video groups, with both groups reporting high enjoyment](../claims/movement-videos-enjoyment-null-group-difference.md) [-M] — instruction changes it
 - [Context-personalized GAI-generated math materials increased primary students' motivation, interest and performance](../claims/gai-context-personalized-math-materials-primary-school.md) [+M] — instruction changes it
 - [Student task value judgments' antecedents and consequences show initial interest and mastery goals predict subsequent interest, and individual differences matter for teaching strategy](../claims/hulleman-task-values-individual-differences.md) [+M] — learners who differ on it differ in outcomes
+- [Adaptivity does not sacrifice enjoyment](../claims/bkt-adaptivity-no-enjoyment-cost.md) [-M] — instruction changes it
+- [TG1 rated learning enjoyment higher than CG (d = 0.49), not significant after Bonferroni correction.](../claims/cts-high-learner-control-enjoyment-tg1-cg.md) [-M] — instruction changes it
 
 ## The evidence by question
 - *Does seeing a task as interesting, important or useful raise the effort learners invest in it?* [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](../claims/task-value-increases-motivation-and-engagement.md) [+M]

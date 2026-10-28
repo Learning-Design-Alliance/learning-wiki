@@ -49,3 +49,4 @@ Post hoc comparison from the fixation heatmap analysis (Supplementary Table 2) i
 - [VGL support improves pointing accuracy, reducing angular errors in spatial knowledge retrieval](vgl-reduces-pointing-angular-errors.md) — related
 - [VGL support reduces distance travelled in wayfinding but not wayfinding response times](vgl-shortens-wayfinding-distance-not-time.md) — related
 - [VGL support speeds up pointing responses for spatial retrieval](vgl-speeds-pointing-responses.md) — related
+- [AI-predicted attention heatmaps and user eye-tracking hotspots both located fixations centrally](ai-predicted-heatmaps-match-eye-tracking-centrality.md) — related

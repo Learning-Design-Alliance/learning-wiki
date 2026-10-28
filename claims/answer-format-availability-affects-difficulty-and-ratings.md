@@ -92,3 +92,4 @@ Regressions predicting perceived task difficulty by relative item difficulty sep
 - [Invested mental effort and perceived task difficulty are strongly correlated yet relate differently to relative task difficulty, indicating the two ratings measure different aspects of overall cognitive load](mental-effort-and-task-difficulty-ratings-differ.md) — related
 - [Re-analyses support PSVT:R structural validity: degree of rotation explains 66.9% of item-difficulty variance, though modified problematic items show no rotation-difficulty relationship](psvtr-rotation-difficulty-validity-reanalysis.md) — related
 - [Text reading relates more strongly to multiple-choice, cloze, and oral open-ended comprehension tasks than to written open-ended and retell tasks](comprehension-task-type-moderates-text-reading-relation.md) — related
+- [Recall versus recognition response format changes difficulty estimates for vocabulary items](recall-recognition-difficulty-differ.md) — related
