@@ -13,7 +13,7 @@ generated:
 # Digital Tools
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 50 claims (25 for, 22 mixed, 3 against) · 48 studies (12 review, 10 associational, 7 causal, 6 theoretical, 5 quant-synthesis, 5 design, 3 qualitative), `q1`–`q4` · 6 of 48 report an effect size · 49 claims rest on one study
+> **Evidence** · 52 claims (27 for, 22 mixed, 3 against) · 49 studies (12 review, 10 associational, 7 causal, 6 design, 6 theoretical, 5 quant-synthesis, 3 qualitative), `q1`–`q4` · 6 of 49 report an effect size · 51 claims rest on one study
 
 ## Description
 Digital tools are the element in which learners use software, platforms, or digital applications to create, collaborate, practice, or receive feedback. They are useful when a tool meaningfully extends what learners can do.
@@ -85,6 +85,8 @@ Digital tools are the element in which learners use software, platforms, or digi
 - [GAI tools enriched student ideation, aesthetic development and confidence in architecture and design education, especially for lower-competency learners](../claims/gai-tools-ideation-architecture-design-lower-competency.md) [+W]
 - [AI tool usage patterns differed by academic level](../claims/ai-usage-patterns-differ-by-level.md) [~W]
 - [Engagement does not mediate the grade difference between tool users and non-users](../claims/engagement-does-not-mediate-grade-difference.md) [~W]
+- [In a five-participant user study, instructors found the emoji heat map saved time and helped identify interesting and difficult reading sections](../claims/emoji-heat-map-instructor-user-study.md) [+W] — attached 2026-10-28 from Blobstein et al. (2025), which proposed "Emoji heat map in NotaBene".
+- [Instructors found the heat map better aligned with sections they believed students found interesting (4.4) than difficult (3.6)](../claims/heat-map-alignment-interesting-vs-difficult.md) [+W] — attached 2026-10-28 from Blobstein et al. (2025), which proposed "Emoji heat map in NotaBene".
 
 ## The evidence by question
 - *Does putting instruction on a digital medium change learning by itself, or only through the method, time and teaching it carries?* [Media comparison studies produce uninterpretable "no significant difference" findings.](../claims/media-comparison-studies-produce-uninterpretable-results.md) [+M]

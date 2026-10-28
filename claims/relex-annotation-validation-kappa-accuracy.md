@@ -55,3 +55,5 @@ Evaluation on a random sample of recipe segments: two author-annotators labeled 
 - [Automatic DAC coding of dialogue acts agrees substantially with manual coding (79.0% agreement, kappa 0.75)](dac-automatic-coding-agrees-with-manual-coding.md) — related
 - [Gemini 2.0 Flash validated as a reliable LLM annotator of feedback focus types](gemini-flash-reliable-feedback-focus-annotator.md) — related
 - [Machine learning detects five of eight reflective-writing categories with substantial or almost perfect reliability and three with moderate reliability (Cohen's κ .53–.85)](ml-detects-reflection-categories-kappa-053-085.md) — related
+- [Kappa agreement with human experts shows a system is neither much worse nor much better than experts, but not that experts are a desirable comparison basis](kappa-expert-agreement-limits.md) — related
+- [ML scoring models for scientific argumentation items achieved good to almost perfect agreement with human consensus scores (mean Cohen's kappa = 0.60)](ml-scoring-argumentation-mean-kappa-060.md) — related

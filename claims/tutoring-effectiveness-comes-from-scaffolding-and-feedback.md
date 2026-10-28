@@ -130,3 +130,4 @@ A review of experiments comparing human tutoring, several classes of computer tu
 - [Feedback features shift with age: scaffolds (prompts, audio, physical demonstrations) cluster in ages 3-7 while written and paper-based feedback appears only from age 8](feedback-features-tailored-by-age.md) — related
 - [In the LeActiveMaths knowledge-elicitation studies, tutors' feedback became more positive, more elaborate, and more targeted to situational diagnoses over successive interactions](leam-ke-improved-tutor-feedback.md) — related
 - [Dynamically generated natural-language feedback was not demonstrated to be superior to a non-NLP feedback condition that told students the answer](beetle-ii-elicit-vs-tell-no-superiority.md) — related
+- [Sixth graders acting as peer tutors tended to take over problems and provide inaccurate feedback rather than help their tutee](sixth-graders-poor-peer-tutors.md) — related

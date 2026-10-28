@@ -73,3 +73,4 @@ Third reported finding from the retest-data evaluation: the authors interpret re
 - [A proposed effort-guided adaptive test alleviates item difficulty mistargeting caused by unmotivated test taking, as shown by simulation](effort-guided-adaptive-test-alleviates-mistargeting.md) — related
 - [Differing response styles create a construct-irrelevant source of bias that distorts fundamental inferences made from survey data](response-styles-construct-irrelevant-bias.md) — related
 - [Rapid guessing is a validated indicator of disengaged item responding](rapid-guessing-validated-disengagement-indicator.md) — related
+- [Shallow learners show slower responses and higher certainty of slip, suggesting struggle rather than fast guessing](shallow-learners-slow-struggling-not-guessing.md) — related

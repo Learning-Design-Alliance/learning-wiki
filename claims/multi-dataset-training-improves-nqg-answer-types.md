@@ -47,3 +47,4 @@ The review attributes this finding to Murakhovs'ka et al. (2021): training on va
 ## Related Claims
 - [Multi-paragraph educational contexts require key content identification for useful NQG](key-content-identification-long-educational-contexts.md) — related
 - [A model trained only on the 300-conversation BEA dataset plateaus at 74.84% average macro F1 due to limited data size and diversity](small-labeled-data-plateaus-evaluator.md) — related
+- [Multi-task learning on a large multi-topic dataset outperforms separate topic-specific essay scoring models](mtl-multi-topic-beats-topic-specific-scoring.md) — a narrower finding that bears on this claim

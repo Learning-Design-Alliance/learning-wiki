@@ -13,7 +13,7 @@ generated:
 # Constructed-Response Assessment Items
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 72 claims (22 for, 48 mixed, 2 against) · 54 studies (20 design, 14 associational, 10 causal, 5 review, 2 quant-synthesis, 2 theoretical, 1 qualitative), `q1`–`q4` · 8 of 54 report an effect size · 72 claims rest on one study
+> **Evidence** · 81 claims (25 for, 54 mixed, 2 against) · 59 studies (21 design, 15 associational, 10 causal, 8 review, 2 quant-synthesis, 2 theoretical, 1 qualitative), `q1`–`q4` · 9 of 59 report an effect size · 81 claims rest on one study
 
 ## Description
 Constructed-response items ask students to recall information and produce their own answer rather than recognize a provided one, which reduces guessing compared with [selected-response items](selected-response-assessment-items.md). Two major kinds are used: **completion/short-answer** items (answerable in a word, phrase, number, or symbol — the same underlying format whether phrased as a statement to complete or a question to answer) and **extended-response** items (answers ranging from a paragraph to several pages, often called essay questions when they run long).
@@ -116,6 +116,15 @@ The central disadvantage of extended-response items is unreliable scoring: diffe
 - [Inter-rater reliability between human experts and AI coding is very low](../claims/low-irr-experts-vs-ai-coding.md) [~W]
 - [LLMs cannot effectively perform in-context learning for short answer scoring, but cross-prompt pre-finetuning substantially boosts their zero-shot performance](../claims/llm-icl-insufficient-prefinetuning-boosts-zero-shot.md) [~W]
 - [Cross-prompt finetuning of a pre-finetuned 8B LLM on 50 instances per prompt achieves average QWK of 0.85, comparable to professional human graders (0.87)](../claims/cross-prompt-finetuning-8b-human-level.md) [~W]
+- [Fine-tuning several pre-trained LLMs with class balancing, data augmentation, and tailored input modification reaches near human-level automated scoring accuracy on most extended-response mathematics assessment items](../claims/fine-tuned-llms-near-human-math-scoring.md) [~W]
+- [Feature-based short-answer scoring systems may be less susceptible to certain student gaming attempts than end-to-end neural models](../claims/feature-based-asas-less-gaming-susceptible.md) [~W]
+- [The two human raters of ASAP D7 showed an average inter-rater agreement of 0.60 QWK across rubrics, with rubric-level agreements ranging from 0.46 (Ideas–Conventions) to 0.79 (Ideas–Organization)](../claims/d7-human-rater-agreement-qwk-060.md) [+W]
+- [The introduction reports that deep learning and NLP techniques predicted fine-grained rubric scores of student essays with success well beyond the agreement level between two human raters](../claims/deep-learning-essay-scoring-beyond-human-rater-agreement.md) [~W]
+- [Holistic scoring of German university students' essays posed significant challenges to both a neural model and an SVM with n-gram features](../claims/german-essay-scoring-challenges-both-models.md) [~W]
+- [The proposed AES system predicts holistic essay scores through predicted rubric scores, achieving a QWK of 0.78, competitive with cutting-edge AES tools reporting 0.77–0.81](../claims/aes-holistic-qwk-078-competitive.md) [+W]
+- [LLMs can grade short-answer reading comprehension questions with accuracy comparable to human experts, supporting formative assessment grading](../claims/llm-grading-reading-comprehension-expert-comparable.md) [+W]
+- [Among six tested MLP architectures, classifiers achieved higher exact-match accuracy on rubric scores, while regression and ensemble variants achieved higher QWK on some rubrics](../claims/aes-architecture-comparison-d7.md) [~W]
+- [No correlation between evenness of response score distribution and ML model performance](../claims/no-correlation-evenness-ml-performance.md) [~W]
 
 ## The evidence by question
 - *Which practice format: short answer, multiple choice, or matching the final test?* [Evidence on whether initial short-answer questions produce more learning than initial multiple-choice questions is mixed, with recent studies finding little or no difference](../claims/short-answer-versus-multiple-choice-retrieval-practice-evidence-is-mixed.md) [~M]

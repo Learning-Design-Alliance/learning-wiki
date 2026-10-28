@@ -26,7 +26,8 @@ TEAMUP is a commercial multiplayer 3D serious game made by The Barn for training
 - [In-game avoidable mistakes in TEAMUP are significantly and markedly explained by team cohesiveness, not by team structure variables](../claims/teamup-errors-explained-by-cohesiveness.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [TC3Sim (vMedic)](tc3sim-vmedic.md)
 
 ## Key Sources
 - Mayer, I. (2018). Assessment of Teams in a Digital Game Environment. Simulation & Gaming, 49(6), 602-619. https://doi.org/10.1177/1046878118770831

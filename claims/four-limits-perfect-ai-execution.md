@@ -80,3 +80,4 @@ Theoretical argument on the safety/legitimacy distinction. The article holds tha
 - [Detection-oriented integrity approaches are increasingly misaligned with GenAI-augmented assessment (theoretical argument)](detection-approaches-misaligned-genai-assessment.md) — related
 - [Every assessment procedure or instrument embodies a sense of telos, producing data that locate people along the researcher's assumed developmental path](assessment-instruments-embed-telos.md) — related
 - [Commercialization of AIED brings funding and sustainable systems but carries profit-motive risks misaligned with education's long-term goals](commercialization-aied-benefits-and-profit-motive-risks.md) — related
+- [AI in accountability-oriented policy risks automated decision-making replacing human judgment and poor-quality data driving high-stakes decisions](aied-policy-automated-accountability-risks.md) — a narrower finding that bears on this claim

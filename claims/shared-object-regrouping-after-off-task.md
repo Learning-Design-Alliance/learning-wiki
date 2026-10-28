@@ -50,3 +50,4 @@ Quantitative comparison from the coded-video proportions (Table 3 shows UrPo off
 - [Anchoring collaboration in a shared epistemic object distinguished the successful co-invention teams from the unsuccessful one](shared-epistemic-object-anchors-collaborative-making.md) — a broader claim this one bears on
 - [Off-task activity appeared more common in the larger six-to-seven-member teams than in the compact teams, though not in every larger team](off-task-more-common-in-larger-making-teams.md) — related
 - [Teacher-introduced redirection that simplified a team's epistemic object was associated with a decline in that team's knowledge-creation activity](claim-teacher-redirection-simplified-epistemic-object.md) — related
+- [Teams with shared mental models synchronize more easily, while teams with inconsistent models suffer ineffective team processes](shared-models-synchronize-inconsistent-models-suffer.md) — related

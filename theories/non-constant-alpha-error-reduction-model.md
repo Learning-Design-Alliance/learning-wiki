@@ -43,7 +43,8 @@ In Section VI the article generalizes the γ-process as a special case of the α
 - [Two-level measurement-based dynamic model of learning with α, β, and γ transition processes](two-level-dynamic-learning-model-bao.md)
 
 ## Examples
--
+
+- [Analyze learning curves as a subtler means of measuring learning gains than pre-post comparisons](../strategies/learning-curves-evaluation-strategy.md)
 
 ## Key Sources
 - Lei Bao. (2007). Dynamic Models of Learning and Education Measurement. https://arxiv.org/abs/0710.1375

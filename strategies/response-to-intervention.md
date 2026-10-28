@@ -83,6 +83,7 @@ RTI replaces a wait-to-fail referral model with proactive, data-based prevention
 - [Use two-stage gated screening: an early reading screen followed by several weeks of progress monitoring before confirming at-risk status](two-stage-gated-screening-at-risk-readers.md)
 - [Use kindergarten-age screening information to identify children at potential risk of math difficulties and provide access to early support](kindergarten-screening-early-md-support.md)
 - [Use genetic prediction early to identify children likely to struggle and deliver early, individualized prevention and learning programs](gps-early-identification-precision-education.md)
+- [Phased intervention framework supporting at-risk first-year students before and during the exam period](phased-exam-period-intervention-framework.md)
 
 ## Examples
 - **Early reading RTI in Minnesota and Ohio statewide initiatives** — universal DIBELS screening three times per year, with Tier 2 small-group phonics intervention and weekly oral-reading-fluency monitoring; both states documented reduced special education identification rates in participating districts.

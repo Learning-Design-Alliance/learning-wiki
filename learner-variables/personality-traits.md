@@ -13,7 +13,7 @@ generated:
 # Personality Traits
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 77 claims (50 show a difference, 17 mixed, 10 no difference) · 36 studies (13 review, 11 associational, 5 causal, 5 quant-synthesis, 2 theoretical), `q2`–`q4` · 12 of 36 report an effect size · 77 claims rest on one study
+> **Evidence** · 79 claims (52 show a difference, 17 mixed, 10 no difference) · 37 studies (13 review, 12 associational, 5 causal, 5 quant-synthesis, 2 theoretical), `q2`–`q4` · 12 of 37 report an effect size · 79 claims rest on one study
 
 ## Description
 Personality traits are relatively stable individual differences, most often measured on the Big Five dimensions. For learning, conscientiousness (being organised, persistent and self-controlled) is the trait most consistently associated with achievement, and openness (curiosity, breadth of interests) the second; agreeableness, extraversion and neuroticism show little association. Traits correlate with other variables here, such as [self-regulation](self-regulation.md) and [need for cognition](need-for-cognition.md).
@@ -112,6 +112,8 @@ Personality traits are relatively stable individual differences, most often meas
 - [Conscientiousness interacts with score in the use of advice: advice is given at 70% for low-conscientiousness learners but not for high-conscientiousness learners](../claims/conscientiousness-score-interaction-advice.md) [+M] — an instructional effect differs with it
 - [In the emotional stability experiment, emotional support use and slant depend on score, trait level, and their interaction](../claims/emotional-stability-affects-support-and-slant.md) [~M] — an instructional effect differs with it
 - [In the open agent condition, children's curiosity trait scores were significant positive predictors of divergent question-asking performance](../claims/curiosity-trait-predicts-qa-open-agent.md) [+M] — learners who differ on it differ in outcomes
+- [Conscientiousness and Extraversion positively predict chat message posting, while Extraversion positively predicts forum posting](../claims/conscientiousness-extraversion-chat-forum-posting.md) [+M] — learners who differ on it differ in outcomes
+- [Students' Big-Five personality significantly influences their usage of communication tools in a web-based learning system, with 32 of 120 behavioral features significantly affected](../claims/personality-influences-communication-tool-behavior.md) [+M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

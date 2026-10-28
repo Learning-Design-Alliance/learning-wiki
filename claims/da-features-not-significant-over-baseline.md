@@ -49,3 +49,4 @@ Regression series predicting normalized assessment scores from a prior-score bas
 - [Scaffolding level provides no consistent additional predictive information about subsequent exam performance beyond prior achievement and observed dialogue behavior](scaffolding-little-incremental-exam-prediction.md) — related
 - [PTA-derived traits significantly improve explained exam-score variance over a prior-outcome baseline in one semester of StudyChat but not the other](pta-traits-explain-studychat-exam-variance-semester-inconsistent.md) — related
 - [Contextual Questions dialogue acts are negatively correlated with assignment outcomes across both semesters](contextual-questions-negative-assignment-outcomes.md) — a narrower finding that bears on this claim
+- [Adding contextualized emotion features to a worksheet-submission baseline model significantly improved prediction of overall game score](emotion-features-improve-over-baseline-model.md) — related

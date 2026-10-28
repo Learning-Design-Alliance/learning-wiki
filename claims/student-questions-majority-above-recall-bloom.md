@@ -51,3 +51,4 @@ Categorization of sampled Physics 1A questions (N=150 in 2010, N=200 in 2011) on
 - Question cognitive-level distributions differed significantly between years for Physics 1B but not Physics 1A — related
 - Adult teachers' questions concentrate at low Bloom's levels, and cooperative learning's dialogue and questioning support critical thinking across Bloom's taxonomy — related
 - [Collected exam questions required no cognitive processes above apply and no originality in analysis or high-level interdependence](exam-questions-capped-at-apply-and-standardized-analysis.md) — reports the opposite
+- [Participants using IRead provided more varied answers to content questions than the control group, suggesting more inspired thinking](iread-more-varied-answers-bloom-questions.md) — related

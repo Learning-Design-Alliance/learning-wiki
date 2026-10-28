@@ -54,3 +54,4 @@ The editors report the experimental study by Tegos, Demetriadis, Papadopoulos, a
 - [SAIC dialogue agent improved children's schematic knowledge more than a multimedia system without it (statistically significant U-test difference)](saic-agent-improves-schematic-knowledge.md) — related
 - [In a thermodynamics course, pairs working with a tutorial dialogue agent learned about 1.24 standard deviations more than students working alone, with partner and agent support synergistic rather than redundant](agent-plus-partner-synergy-1-24-sd.md) — related
 - [In the Academically Productive Talk system, review material and higher student skill level normally yielded better learning results](apt-moderators-material-and-skill-level.md) — related
+- [Revoicing support from an APT conversational agent significantly increases learning gains in 9th grade biology collaborative discussions](revoicing-agent-significant-learning-gains-9th-grade.md) — related

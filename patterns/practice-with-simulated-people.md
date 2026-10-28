@@ -14,7 +14,7 @@ grain_size: unit
 # Practice with Simulated People
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 128 claims (60 for, 52 mixed, 16 against) · 63 studies (16 causal, 15 review, 12 quant-synthesis, 9 qualitative, 7 design, 4 theoretical), `q1`–`q4` · 17 of 63 report an effect size · 123 claims rest on one study
+> **Evidence** · 129 claims (60 for, 53 mixed, 16 against) · 64 studies (16 causal, 15 review, 12 quant-synthesis, 9 qualitative, 8 design, 4 theoretical), `q1`–`q4` · 17 of 64 report an effect size · 124 claims rest on one study
 
 ## Description and scope
 
@@ -157,6 +157,7 @@ This pattern is scoped to rehearsal of an interaction with a person who responds
 - [The review reports, citing Chernikova and colleagues, that simulations of professional situations such as classroom interactions are beneficial in teacher training](../claims/simulations-of-professional-situations-beneficial-teacher-training.md) [+W]
 - [Recognizing a frustrated instructor's emotional tone required the embodied onscreen agent, contradicting the voice hypothesis for that emotion](../claims/frustrated-emotion-recognition-requires-embodied-agent.md) [+W]
 - [The empirical evidence for claimed pedagogical benefits of virtual characters is weak and inconclusive](../claims/virtual-character-pedagogical-benefits-weak-evidence.md) [-W]
+- [A communication robot as cooperative learning partner elicited student interactions similar to those with human partners](../claims/robovie-cooperative-learning-partner-interactions.md) [~W]
 
 ## Examples
 

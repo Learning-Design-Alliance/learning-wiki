@@ -84,3 +84,4 @@ Evaluation of fine-tuned T5-small and BERT-base classifiers on the Eedi test dat
 - [In zero-shot evaluation, GPT-4's multi-label classification results were similar to what might be expected of fine-tuned classifiers, with SetFit and GPT-3.5 showing contrasting precision/recall patterns](gpt4-zero-shot-comparable-finetuned-classifiers.md) — related
 - [The fine-tuned T5 question-extraction model reached an average training loss of 0.4098, indicating imperfect question extraction](t5-finetuning-average-loss-04098.md) — related
 - [About 400 labeled proofs are sufficient for adequate autograding performance](400-proofs-sufficient-training.md) — related
+- [LLM-generated student plans in a game-based learning environment are valid, with T5 plans closely matching student-created plans and GPT-3.5 producing more diverse plans, supporting real-time adaptive scaffolding](llm-plan-generation-adaptive-scaffolding-gbl.md) — related

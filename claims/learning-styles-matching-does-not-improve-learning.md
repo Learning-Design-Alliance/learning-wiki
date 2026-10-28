@@ -159,3 +159,4 @@ The review attributes this to Stahl (1999), a reading researcher, and notes Will
 - [Correlational meta-analyses of learning styles and achievement average r = 0.24 but do not test or support the matching hypothesis](learning-style-achievement-correlations-r24.md) — related
 - [Meta-analyses testing the matching hypothesis show a negligible overall effect of matching teaching to students' learning styles (d = 0.04)](matching-learning-styles-negligible-effect.md) — possibly the same claim (merge candidate)
 - [Learning-styles models (particularly VAK) continue to be believed in by most teachers and persist in teacher training despite evidence of no positive impact on educational outcomes](learning-styles-vak-persist-teacher-training.md) — related
+- [Strong unmet learning-style preferences produce stronger negative effects on performance than moderate or weak unmet preferences](strong-preferences-stronger-mismatch-effects.md) — reports the opposite

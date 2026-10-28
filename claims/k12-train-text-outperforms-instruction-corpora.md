@@ -67,3 +67,4 @@ Evaluation of the same SFT models on 18 EduEval sub-tasks across five capability
 - [SFT on K12-Train improves out-of-domain subjects (Chinese, Humanities Math), suggesting acquisition of a transferable structurally-grounded answer style](k12-train-cross-subject-transfer.md) — related
 - [K12-Train-Full achieves the best overall performance on three multimodal educational benchmarks, and textual and visual supervision are complementary](k12-train-full-multimodal-complementarity.md) — related
 - [Education-oriented instruction tuning consistently improves curriculum grounding, K-12 problem solving, and pedagogical tutoring at every evaluated model scale](omniedu-tuning-improves-all-three-educational-capability-groups.md) — related
+- [LLMs pre-trained on comprehensive K12 mathematics learning datasets outperform GPT-3.5 in certain downstream educational tasks](math-pretraining-outperforms-gpt35.md) — related

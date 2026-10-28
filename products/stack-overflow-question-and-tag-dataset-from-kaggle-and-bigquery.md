@@ -20,6 +20,7 @@ A large dataset of Stack Overflow questions, code snippets, tags, and related me
 
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
+- **Stack Overflow tags as crowd-sourced proxies for emerging skills and topics**: The article uses Stack Overflow tags — user-created words or phrases describing question topics — as the representation of new topics/skills in the software domain. Tens of new tags are created weekly, and moderators curate them via synonym-marking and deletion polls, making them "a set of precise and specific community-curated topics." The authors chose tags over topic modelling (e.g. LDA) for three reasons: crowdsourced manual curation, fine-grained specificity, and exact-match semantics. (Ramtin Yazdanian et al. (2021))
 
 ### Claims
 - [BERT-CBA outperformed baseline tag recommendation methods on Precision@K, Recall@K, and F1@K under cross-validation](../claims/bert-cba-outperforms-baselines-cross-validation.md) [+M]
@@ -29,3 +30,4 @@ A large dataset of Stack Overflow questions, code snippets, tags, and related me
 
 ## Key Sources
 - Olatinwo, S. O., & Demmans Epp, C. (2025). Predicting Tags for Learner Questions on Stack Overflow. International Journal of Artificial Intelligence in Education. https://doi.org/10.1007/s40593-024-00441-x
+- Ramtin Yazdanian, Robert West, Pierre Dillenbourg. (2021). Keeping Up with the Trends: Analyzing the Dynamics of Online Learning and Hiring Platforms in the Software Programming Domain. International Journal of Artificial Intelligence in Education. https://doi.org/10.1007/s40593-020-00231-1

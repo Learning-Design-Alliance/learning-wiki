@@ -62,3 +62,4 @@ Review synthesis of Maboe and Tomas's (2023) qualitative study (n = 17) in South
 - [Computing education has historically excluded marginalized student populations, and large inequities in access persist](computing-education-historic-exclusion-inequity.md) — a broader claim this one bears on
 - [Remote proctoring supported assessment continuity and uninterrupted student progression during institutional closures](remote-proctoring-supported-continuity-closures.md) — related
 - [Students with low internet bandwidth could complete the course when offered offline video download and batch mode alternatives](low-bandwidth-mitigation-strategies.md) — related
+- [Remote exam proctoring software based on automated facial detection tends to disproportionately flag already-marginalized student groups as suspicious](remote-proctoring-facial-ai-disproportionate-flagging.md) — related

@@ -48,7 +48,8 @@ BKT+IRT merges BKT's temporal hidden-state dynamics with IRT-style student abili
 - [Skill discovery BKT: end-to-end stochastic learning of the problem-KC assignment matrix with Gumbel-Softmax](skill-discovery-bkt-gumbel-softmax.md)
 
 ## Examples
--
+
+- [PHP Intelligent Tutoring System](../products/php-intelligent-tutoring-system.md)
 
 ## Key Sources
 - Khajah, M. M. (2024). Supercharging BKT with Multidimensional Generalizable IRT and Skill Discovery. Journal of Educational Data Mining, Volume 16, No 1, 2024. https://jedm.educationaldatamining.org/index.php/JEDM/article/view/16-1

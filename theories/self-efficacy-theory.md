@@ -12,7 +12,7 @@ generated:
 # Self-Efficacy Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 97 claims (60 for, 34 mixed, 3 against) · 70 studies (35 associational, 16 review, 14 causal, 3 quant-synthesis, 1 design, 1 theoretical), `q1`–`q3` · 17 of 70 report an effect size · 95 claims rest on one study
+> **Evidence** · 99 claims (62 for, 34 mixed, 3 against) · 71 studies (35 associational, 16 review, 15 causal, 3 quant-synthesis, 1 design, 1 theoretical), `q1`–`q3` · 17 of 71 report an effect size · 97 claims rest on one study
 
 ## Description
 Self-efficacy is "people's beliefs in their ability to perform a course of action required to achieve a specific task" ([Bandura, 1977](https://doi.org/10.1037/0033-295x.84.2.191)). The theory's central claim is specificity: self-efficacy is not a general trait like self-confidence or self-concept, and it is not the same as documented ability. A learner's self-efficacy for "correctly subtracting fractions" is a distinct belief from their self-efficacy for "writing a persuasive essay," even though both might contribute to a broader (and much less predictive) sense of being "good at school" ([Seifert & Sutton, 2018](https://edtechbooks.org/lidtfoundations/motivation_theories_on_learning)). Because self-efficacy beliefs are self-constructed rather than measured, they can diverge from true capability in either direction; the most functional level is at or slightly above actual capacity (Bandura, 1997).
@@ -144,6 +144,8 @@ High self-efficacy for a task produces three effects, each with an upside and a 
 - [Maths self-efficacy predicted STEM career choice in females but not males, though the association was explained by maths achievement after adjustment](../claims/maths-self-efficacy-female-only-stem-choice.md) [~W]
 - [Maths self-efficacy did not independently predict STEM career choice when analysed jointly with maths anxiety and interest](../claims/maths-self-efficacy-no-independent-prediction-stem-choice.md) [-W]
 - [Motivational agent roles (Motivator and Mentor) were perceived as more human-like and improved learner self-efficacy](../claims/motivational-agents-improved-self-efficacy.md) [+W]
+- [Self-efficacy motivational feedback messages yielded the best learning gains among three theory-based motivational interventions in Experiment 2](../claims/self-efficacy-messages-best-learning-gains.md) [+W] — attached 2026-10-28 from DeFalco et al. (2018), which proposed "Theory-based motivational feedback design for addressing learner frustration in military training".
+- [Self-efficacy interventions triggered by interaction-based detectors enhanced outcomes in one of two intervention experiments, with mixed overall results](../claims/detector-triggered-interventions-mixed-results.md) [+W]
 
 ## The evidence by question
 

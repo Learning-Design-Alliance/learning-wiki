@@ -50,3 +50,4 @@ Qualitative interview evidence from the discussion section: a student's stated p
 - The article reports course completion and robot walking as implementation context, with student performance and learning data reserved for a separate study — related
 - [Students exposed to robot storytelling report significantly higher enjoyment than students exposed to robot explanation in a 1-week classroom study](robot-storytelling-higher-enjoyment-than-explanation.md) — related
 - [Children's drawings suggested they noticed the robot's embedded integration elements and shifted attention from the robot to peer communication](children-drawings-notice-integration-elements.md) — related
+- [A communication robot as cooperative learning partner elicited student interactions similar to those with human partners](robovie-cooperative-learning-partner-interactions.md) — related

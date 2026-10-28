@@ -56,3 +56,4 @@ Described functionality of KERMIT: it observes students' actions within the prob
 - [Students enjoyed KERMIT's adaptability and found it a valuable asset to their learning](kermit-students-enjoyed-adaptability.md) — related
 - [Students using KERMIT achieved significantly higher learning gains than a limited-feedback control group, with effect size d = 0.63 after about 66 minutes of use](kermit-evaluation-learning-gains-d063.md) — related
 - [Open student models in e-KERMIT had a positive effect on learning, and most students explored the expanded open student model](open-student-model-positive-effect-ekermit.md) — related
+- [A preregistered experiment with 330 participants demonstrated the intelligent tutor is highly effective at improving planning in partially observable environments](tutor-improves-human-planning-partially-observable.md) — related

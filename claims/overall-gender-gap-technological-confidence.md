@@ -73,3 +73,4 @@ Independent samples t-test with Welch's correction on the survey's gender-based 
 - [Female participants reported significantly higher maths anxiety and general anxiety, while males reported higher maths self-efficacy and maths interest](sex-differences-maths-anxiety-motivation-means.md) — related
 - [Gender differences in perceived transversal skills, with male students higher](gender-differences-transversal-skills-male-higher.md) — related
 - [Students across all genders perceive scientific citizenship positively](scientific-citizenship-positive-across-genders.md) — related
+- [Male students score significantly higher than females on Openness to Experience and Extraversion, while age shows no significant correlation with personality](gender-age-personality-differences.md) — related

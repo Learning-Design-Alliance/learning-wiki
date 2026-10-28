@@ -54,3 +54,4 @@ Qualitative analysis of SME feedback on FN cases from the expert evaluation. SME
 - [No consistent relationship was observed between false-positive and false-negative rates and either the question or the LLM model](no-consistent-fp-fn-pattern.md) — related
 - [LLM-based scoring produced fewer false negatives than Deep Tutor on a balanced test set, which the authors expect would spare students the frustration of correct explanations judged incorrect](llm-scoring-fewer-false-negatives-than-deep-tutor.md) — related
 - [GPT models showed lower accuracy with more rubric-related errors (28% vs. 13% for Gemini 3 Flash) and near parity between false positives and negatives](gpt-models-more-rubric-errors-than-gemini.md) — related
+- [81.54% of incorrectly analysed programs were incorrect programs analysed as correct](php-its-error-direction-misleading-majority.md) — related

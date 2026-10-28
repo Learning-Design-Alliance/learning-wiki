@@ -72,3 +72,4 @@ Statement from the head of a state CTO council reported in the trust section, no
 - [Weak privacy feedback loops reduce pressure on EdTech organizations to prioritize privacy](weak-privacy-feedback-loops-edtech.md) — related
 - [Users of a student success information system showed only a surface-level understanding of privacy, with FERPA serving as the extent of many interviewees' privacy knowledge](surface-level-privacy-understanding-users.md) — related
 - [Privacy capacity was unevenly distributed, distinguishing resource scarcity from strategic deprioritization of privacy](uneven-privacy-capacity-scarcity-versus-deprioritization.md) — related
+- [The burden of ethical and regulatory compliance for AI in education falls on schools while edtech and Big Tech companies remain largely unaffected](aied-data-governance-power-asymmetry.md) — related

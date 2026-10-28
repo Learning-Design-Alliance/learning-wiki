@@ -9,6 +9,7 @@ generated:
   at: 2026-10-21
 evidence_strength: weak
 newest_evidence: 2024
+source_checked: 2026-10-28
 sources:
   - id: lachner-2024
     resource: "https://doi.org/10.1007/s10648-024-09876-z"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · checked against its sources 2026-10-28 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In a ManyClasses study by Sana and Yan (2022) with 9th to 12th grade students (N = 155) in eight STEM classrooms, students performed better on interleaved than blocked practice across classes. [→ Lachner 2024](#lachner-2024)
@@ -52,3 +53,4 @@ The article reports, citing Sana and Yan (2022), a within-participants ManyClass
 - [Retrieval practice and spaced retrieval improve achievement and retention by medium amounts, while interleaving helps category learning only for some materials and blocking beats it for words](desirable-difficulties-enhance-learning.md) — related
 - [Interleaved practice yields better category learning than blocked practice, and students who choose interleaved practice outperform those who choose blocked practice on novel materials](interleaving-effect-category-learning-paintings.md) — related
 - [Interleaving multiple graphical representations of fractions gave a qualified advantage over blocked practice, mainly on delayed conceptual transfer and for low-prior-knowledge students](interleaved-representations-better-learning.md) — a narrower finding that bears on this claim
+- [In SimStudent simulations across three math and science domains, interleaved-order curricula yielded as effective or more effective learning than blocked-order curricula](simstudent-interleaved-as-or-more-effective.md) — related

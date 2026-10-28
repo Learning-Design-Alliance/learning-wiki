@@ -53,3 +53,4 @@ SEM result from the 300-staff survey covering the environmental dimension of the
 - [Governance structures that exclude faculty and support staff responsible for implementation produce policies that do not stick](exclusive-governance-produces-ignored-policies.md) — related
 - [Technology implementation in higher education depends on individual initiative rather than institutional systems, with governance structures rarely including those responsible for implementation](implementation-depends-on-individual-initiative-not-systems.md) — related
 - [Leadership practices, teacher competence, and innovation culture collectively determine the success or failure of AI integration initiatives](three-drivers-determine-ai-integration-success.md) — related
+- [AI ethics principles alone do not enforce regulation, per the article's review of implementation evidence](ethics-principles-alone-insufficient.md) — related

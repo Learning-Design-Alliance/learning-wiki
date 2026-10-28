@@ -56,3 +56,4 @@ Qualitative theme from interview accounts in the same study: some students found
 - [Interactive visual grounding helped children interpret word problems by making hidden relational constraints manipulable and visible](interactive-visual-grounding-relational-interpretation.md) — related
 - [Manipulatives Improve Math Learning](manipulatives-improve-math-learning.md) — related
 - [Student interviews indicate the formatted plan demanded more work and time, with mixed perceptions of step helpfulness](interview-perceptions-problem-solving-plan-steps.md) — related
+- [High school STEM students need explicit scaffolding to build AI abstract representations, parse problems for AI systems, and apply underlying mathematics](ai-learning-three-scaffolding-needs.md) — related

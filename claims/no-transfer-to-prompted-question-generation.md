@@ -48,3 +48,4 @@ Post-test quantile regression controlling for age and race found no group differ
 - [Students' question types shift from confusion-reporting toward procedural and task-oriented inquiry as tasks progress, though the session difference did not reach conventional significance](inquiry-types-shift-across-cs2-sessions.md) — related
 - [Children's exploratory behavior is related to their question asking](exploration-related-to-question-asking.md) — related
 - [Elaborative Interrogation Improves Learning](elaborative-interrogation-improves-learning.md) — related
+- [A peer-role robot in break-time science classrooms did not increase overall science curiosity, though it increased for students who asked it questions](robovie-science-curiosity-mixed-effect.md) — related

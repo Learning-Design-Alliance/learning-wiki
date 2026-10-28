@@ -49,3 +49,4 @@ An evaluation study comparing holistic with specific feedback using the PEARS sy
 - [An accountability feature allowing students to grade received reviews improved the correlation between expert and peer marks in peerScholar](peerscholar-accountability-improves-expert-peer-correlation.md) — related
 - [Rank-based metrics can be misleading for analytic assessment: systems prompted for holistic scoring achieve strong, sometimes stronger, correlations with analytic scores than when prompted for those aspects](rank-based-metrics-misleading-analytic-assessment.md) — related
 - [Structured criteria in peer assessment are not shown to improve its effect on academic performance over freeform review](peer-assessment-structured-criteria-improve-learning.md) — related
+- [Automated assessment marks show very strong positive correlation with expert tutor marks on search algorithm exercises](automated-assessment-agrees-with-tutors-search-algorithms.md) — related

@@ -71,3 +71,4 @@ Message-length analysis over the complete collection of messages (n = 1,342). Fo
 - [Anchored discussion strengthens referrals to content and prompts rereading of relevant passages](anchored-discussion-content-referrals-rereading.md) — related
 - [Forum discussion shows more argumentation and confirmation, partly mediated by its opinion-oriented subject matter](argumentation-mediated-by-message-subject.md) — related
 - [Chatbot interaction depth varied by condition and subject: longer entries in physics than English and shorter entries in the cognitive learning condition than the utility value condition](chatbot-entry-length-varies-condition-subject.md) — related
+- [Students communicate more frequently but with lower-quality content in the synchronous chat room than in the asynchronous discussion forum](synchronous-vs-asynchronous-communication-quality.md) — related

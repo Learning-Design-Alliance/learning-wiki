@@ -49,3 +49,4 @@ Offline evaluation of six state-of-the-art LLMs (closed and open) on the 2019 NS
 - [LLM performance drops from offline to real-time proxy evaluation when clues arrive incrementally](performance-drops-realtime-proxy-nsmq.md) — related
 - [The best LLMs perform below the best student contestants in the real-time proxy riddle round](best-llms-below-best-students-nsmq-riddles.md) — related
 - [LLMs struggle most with Chemistry riddles, with best EM accuracy at or below 75% versus above 90% in other subjects](llms-struggle-most-chemistry-nsmq-riddles.md) — related
+- [LLM-generated student plans in a game-based learning environment are valid, with T5 plans closely matching student-created plans and GPT-3.5 producing more diverse plans, supporting real-time adaptive scaffolding](llm-plan-generation-adaptive-scaffolding-gbl.md) — related

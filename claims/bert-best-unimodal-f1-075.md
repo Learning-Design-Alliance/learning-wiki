@@ -51,3 +51,4 @@ Results section benchmark of eight transformers (Longformer 148M parameters down
 - [Adding the linguistic neural network to a transformer does not significantly change inference time (p = 0.244)](fusion-no-inference-time-penalty.md) — related
 - [Neural networks on linguistic features classify Key Stages poorly, with deeper networks performing worse; the best (one hidden layer, 175 ReLU) reached F1 = 0.392](linguistic-ann-weak-deeper-worse.md) — related
 - [Fine-tuned BERT outperforms FFNN and LSTM deep learning architectures for classifying segments of written reflections, with weighted F1 average of .82](bert-outperforms-ffnn-lstm-reflective-writing-classification.md) — related
+- [BERT-FYBIO, which uses post text plus annotated reading context, significantly outperforms a Bi-LSTM baseline for emoji prediction](bert-fybio-outperforms-bilstm.md) — related

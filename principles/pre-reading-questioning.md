@@ -22,7 +22,7 @@ sources:
 # Pre-reading Questioning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 17 claims (6 for, 9 mixed, 2 against) · 26 studies (9 causal, 8 review, 7 quant-synthesis, 1 associational, 1 theoretical), `q2`–`q4` · 10 of 26 report an effect size · 8 claims rest on one study
+> **Evidence** · 18 claims (7 for, 9 mixed, 2 against) · 27 studies (10 causal, 8 review, 7 quant-synthesis, 1 associational, 1 theoretical), `q2`–`q4` · 10 of 27 report an effect size · 9 claims rest on one study
 
 ## Conditional relationship
 
@@ -146,6 +146,7 @@ The present evidence establishes no number of questions, no length of attempt, n
 - [The pretesting effect on text memory grows with retention interval, being largest at one week](../claims/pretesting-effect-grows-with-retention-interval.md) [+W]
 - [Effects of pre-instruction testing on untested but studied materials are highly inconsistent across experiments and materials](../claims/pretesting-untested-materials-inconsistent.md) [~W]
 - [Pre-testing before reading produces a smaller but significant retention benefit over re-reading on trained questions (d = 0.35)](../claims/pre-testing-effect-trained-questions-latimier.md) [+W]
+- [Both groups improved significantly on harder-to-guess questions, and the experimental group outperformed the control group on them at post-test](../claims/se-prompts-harder-to-guess-questions.md) [+W]
 
 ## Related Principles
 

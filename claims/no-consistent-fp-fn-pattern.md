@@ -53,3 +53,4 @@ Null observational finding from the rubric-item-level error analysis across five
 - [Small language models used as automated judges exhibit severe leniency bias against tutoring responses](slm-judges-show-severe-leniency-bias.md) — reports the opposite
 - [Validator false-negative cases reveal structural reasoning weaknesses, including answer-schema misinterpretation and internal inconsistency](code-gen-validator-fn-reasoning-weaknesses.md) — related
 - [Lower-performing groups gain relative advantage because the scorer detects incorrect responses better for them, producing more false positives](lower-performers-more-false-positives-advantage.md) — related
+- [81.54% of incorrectly analysed programs were incorrect programs analysed as correct](php-its-error-direction-misleading-majority.md) — related

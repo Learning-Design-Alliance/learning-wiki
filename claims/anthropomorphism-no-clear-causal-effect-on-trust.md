@@ -78,3 +78,4 @@ The review attributes this long-term-use finding to Huang et al. (2024), and sep
 - [Degree of anthropomorphism attributed to the agent was shaped by both interaction modality and, within audio conditions, voice accent](anthropomorphism-shaped-by-modality-and-accent.md) — related
 - [Robot exposure affects human autonomy and sense of agency, but no general conclusion about the direction of the effect can be drawn](robot-exposure-mixed-direction-autonomy-agency.md) — related
 - [Social presence from social cues can improve task performance (social facilitation) but may impair performance on complex tasks (social inhibition)](social-facilitation-social-presence-performance.md) — related
+- [People preferred interacting with a humanoid robot over a comparable on-screen agent and showed less socially undesirable behaviour](robot-preferred-over-screen-agent-less-undesirable-behavior.md) — related

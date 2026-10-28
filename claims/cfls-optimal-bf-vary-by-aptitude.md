@@ -55,3 +55,4 @@ Simulation tuning experiment across 25 b,f combinations. Expertise heatmaps show
 - [Mastery learning effects are larger for lower-aptitude students, narrowing the spread of achievement in a class](mastery-learning-effects-larger-for-lower-aptitude-students.md) — reports the opposite
 - [CFLS planner outperforms the Random planner at nearly all b and f settings](cfls-outperforms-random-planner.md) — related
 - [CFLS planner outperforms the SPP for medium and high aptitude learners within the success triangle despite lacking prerequisite knowledge](cfls-outperforms-spp-medium-high-aptitude.md) — related
+- [The introduction reports that in a simulation study the CFLS planner, relying only on inferred learner behaviour, worked highly effectively even compared to a planner using external prerequisite metadata](cfls-planner-effective-without-external-metadata.md) — related

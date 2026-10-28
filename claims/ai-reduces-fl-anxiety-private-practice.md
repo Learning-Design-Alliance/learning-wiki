@@ -104,3 +104,4 @@ Thematic synthesis codes 31 studies to self-efficacy and self-confidence enhance
 - [Student-centered writing environments are argued to lower anxiety, increase confidence, and provide natural language contexts](student-centered-environments-lower-anxiety-increase-confidence.md) — related
 - [Extensive reading produced no measurable change in the perceived Practical Value of foreign-language reading (r = .09)](er-no-change-practical-value-attitude.md) — related
 - [Immediate task repetition benefits oral performance, including fluency, self-correction and reduced anxiety](immediate-repetition-benefits-oral-performance.md) — related
+- [AI-enabled EFL teaching in schools is associated with improvements in student engagement, motivation, and language proficiency, per a systematic review of 22 empirical studies](ai-efl-engagement-motivation-proficiency-review.md) — related

@@ -57,3 +57,4 @@ The review reports this single study's agreement figures and notes the authors' 
 - [The AES tool scored middle school essays more generously than teacher scorers overall and on three of four dimensions](aes-more-generous-than-teachers.md) — a narrower finding that bears on this claim
 - [In classroom video labeling, high raw agreement (often exceeding 90%) co-occurred with low chance-corrected κ due to temporal misalignment](raw-agreement-kappa-paradox-classroom-video.md) — related
 - [LLM-based scoring of Spanish argumentative writing achieves 60–80% per-item accuracy, slightly below human inter-rater agreement](llm-scoring-spanish-writing-60-80-accuracy-below-human-agreement.md) — related
+- [The proposed AES system predicts holistic essay scores through predicted rubric scores, achieving a QWK of 0.78, competitive with cutting-edge AES tools reporting 0.77–0.81](aes-holistic-qwk-078-competitive.md) — related

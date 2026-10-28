@@ -110,3 +110,4 @@ Planned gain contrasts on the seven SRL questionnaire subscales. "Group TD showe
 - [Reflection prompts combined with tutor feedback had positive effects on the development of students' self-regulated learning competence](reflection-prompts-tutor-feedback-self-regulation.md) — related
 - [Time management interventions show conflicting evidence for raising self-efficacy](time-management-interventions-self-efficacy-mixed.md) — related
 - [Online strategic mindset intervention increases intentions to use effective learning strategies in college students](strategic-mindset-intervention-increases-strategy-intentions.md) — related
+- [Self-efficacy motivational feedback messages yielded the best learning gains among three theory-based motivational interventions in Experiment 2](self-efficacy-messages-best-learning-gains.md) — related

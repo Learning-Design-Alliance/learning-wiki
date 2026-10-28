@@ -27,6 +27,7 @@ The review organizes AI tools by underlying functionality into four categories: 
 
 ## Related Research Methods
 
+- [Eight-category functional taxonomy of AI technologies in school EFL teaching](eight-category-functional-taxonomy-of-ai-technologies-in-school-efl-teaching.md)
 
 ## Key Sources
 - Kovari, A. (2025). A systematic review of AI-powered collaborative learning in higher education: Trends and outcomes from the last decade. Social Sciences & Humanities Open, 11, 101335. https://doi.org/10.1016/j.ssaho.2025.101335

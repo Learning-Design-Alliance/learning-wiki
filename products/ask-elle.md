@@ -31,7 +31,8 @@ Ask-Elle is a web-based intelligent tutoring system developed for teaching first
 - [Students rated the tutor 3.4 out of 5 overall and particularly liked the worked-out solution feedback](../claims/ask-elle-student-satisfaction-3-4-of-5.md) [+W]
 
 ## Related Products and Programmes
--
+
+- [PHP Intelligent Tutoring System](php-intelligent-tutoring-system.md)
 
 ## Key Sources
 - Gerdes, A., Heeren, B., Jeuring, J., & van Binsbergen, L. T. (2016). Ask-Elle: an Adaptable Programming Tutor for Haskell Giving Automated Feedback. International Journal of Artificial Intelligence in Education. https://doi.org/10.1007/s40593-015-0080-x

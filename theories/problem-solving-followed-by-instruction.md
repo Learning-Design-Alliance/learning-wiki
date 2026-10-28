@@ -17,7 +17,7 @@ sources:
 # Problem-Solving Followed by Instruction
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 64 claims (26 for, 28 mixed, 10 against) · 33 studies (23 causal, 4 theoretical, 3 review, 2 associational, 1 quant-synthesis), `q1`–`q4` · 14 of 33 report an effect size · 63 claims rest on one study
+> **Evidence** · 65 claims (26 for, 28 mixed, 11 against) · 34 studies (24 causal, 4 theoretical, 3 review, 2 associational, 1 quant-synthesis), `q1`–`q4` · 14 of 34 report an effect size · 64 claims rest on one study
 
 ## Description
 Problem-solving followed by instruction (PS-I, closely related to "productive failure") reverses the conventional tell-then-practice sequence: students first attempt a problem — typically without succeeding at a canonical solution — and only afterward receive direct instruction on the correct method. The prior attempt activates relevant prior knowledge, surfaces students' own (often suboptimal) representations, and raises motivation to learn the canonical method by making its advantages concrete rather than abstract. A meta-analysis across 166 comparisons found PS-I outperforms instruction-first sequencing with Hedge's g=0.36 [95% CI 0.20, 0.51] (Sinha & Kapur, 2021). The underlying attempt can be left unguided ("productive failure" proper, where students generate as many solution representations as they can) or shaped by scaffolds that deliberately steer students toward specific representations before instruction corrects them — see [Failure-Driven Scaffolding](../strategies/failure-driven-scaffolding.md).
@@ -100,6 +100,7 @@ Problem-solving followed by instruction (PS-I, closely related to "productive fa
 - [Low-achieving students gained the most from PF on the midterm, scoring about eight points higher than AL peers](../claims/pf-largest-gain-low-achievers-midterm.md) [+W]
 - [PF advantage on condition topics did not reach significance on the final exam overall](../claims/pf-final-exam-null-overall.md) [~W]
 - [Number of generated solution methods is the strongest measured predictor of posttest learning from Productive Failure in both topics](../claims/inventive-production-strongest-predictor-pf-learning.md) [+W] — attached 2026-10-26 from Manu Kapur et al. (2023), which proposed "Productive Failure: problem-solving before instruction as a subset of PS-I designs".
+- [The experimental group spent significantly more time per problem and completed significantly fewer problems than the control group](../claims/se-prompts-increase-time-per-problem.md) [-W]
 
 ## The evidence by question
 

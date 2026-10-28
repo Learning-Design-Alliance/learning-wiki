@@ -45,6 +45,7 @@ The paper proposes replacing disconnected, course-by-course learning portfolios 
 
 - [Pizza Box Portfolios](pizza_box_portfolios.md)
 - [Separate competency assessment from courses, conducted by an independent unit using evidence-centered assessment design](independent-competency-assessment-separation.md)
+- [Include learning analytics in the design loop of self-paced online course design, with diagnosis, learner profiling, continuous assessment, and adaptivity](learning-analytics-in-course-design-loop.md)
 
 ## Examples
 -

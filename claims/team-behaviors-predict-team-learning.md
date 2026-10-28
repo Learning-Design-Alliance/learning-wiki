@@ -48,3 +48,4 @@ Meta-analytic synthesis of behavioral contributions to team learning (Table 5), 
 
 - [Team behaviors explain up to 42% of the variance in team performance, with action processes and organizational citizenship behaviors the strongest contributors](team-behaviors-explain-variance-team-performance.md)
 - [Attitudes reflective of cooperation account for 37% of the variance in team learning, with psychological safety, cohesion, and trust prominent but understudied](team-attitudes-predict-team-learning.md)
+- [Meta-analysis finds task-focused leadership accounts for about 10% of variance in team effectiveness perceptions and empowerment behaviors nearly 30% of variance in team learning](leadership-behaviors-team-performance-meta-analysis.md) — related

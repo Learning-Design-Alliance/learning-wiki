@@ -136,3 +136,4 @@ A meta-analysis of 50 independent studies of peer-tutoring programs in mathemati
 - [Cross-age tutoring produces a small-to-moderate positive effect on academic outcomes for both tutors and tutees](cross-age-tutoring-positive-academic-effects-both-roles.md) — a narrower finding that bears on this claim
 - [Cross-age tutoring effects on tutees do not significantly differ by number of sessions, tutor type, tutee risk type, or subject area](cross-age-tutoring-tutee-moderators-null.md) — a narrower finding that bears on this claim
 - [Variable reciprocity assigns tutor roles for problems a student solved and tutee roles for problems not solved (as proposed by Evans and Moore)](variable-reciprocity-solved-problems-tutor.md) — related
+- [Sixth graders acting as peer tutors tended to take over problems and provide inaccurate feedback rather than help their tutee](sixth-graders-poor-peer-tutors.md) — reports the opposite

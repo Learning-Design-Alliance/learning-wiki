@@ -24,7 +24,7 @@ sources:
 # Criterion- and Norm-Referenced Testing
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 37 claims (11 for, 23 mixed, 3 against) · 25 studies (10 theoretical, 8 associational, 3 design, 2 causal, 2 review), `q1`–`q3` · 0 of 25 report an effect size · 37 claims rest on one study
+> **Evidence** · 38 claims (11 for, 24 mixed, 3 against) · 26 studies (10 theoretical, 8 associational, 4 design, 2 causal, 2 review), `q1`–`q3` · 0 of 26 report an effect size · 38 claims rest on one study
 
 ## Conditional relationship
 
@@ -175,6 +175,7 @@ The model should weaken if teachers given skill-level criterion-referenced repor
 - [Corrected measures of overlapping show 33 per cent correct classification rather than the 17 per cent previously reported, and 19.5 per cent rather than 33 per cent exceeding or falling short of the adjacent grade's median](../claims/kelley-corrected-overlapping-classification-percentage.md) [~W]
 - [Intelligence-test scores overlap substantially across non-consecutive grades, with some fourth graders scoring above the fifth-grade norm](../claims/grade-overlapping-of-point-scale-scores.md) [~W]
 - [Modified point and year scales with norms were developed for measuring the intelligence of the blind](../claims/binet-scales-adapted-for-blind-norms.md) [+W]
+- [Misclassified assessments cluster near placement cut scores](../claims/misclassifications-cluster-near-cut-scores.md) [~W]
 
 ## Related Principles
 - [Intelligence Testing: Uses and Limits](../theories/intelligence-testing-uses-and-limits.md) — the fuller treatment of aptitude/cognitive-ability tests' history, standardization, and cultural-bias concerns

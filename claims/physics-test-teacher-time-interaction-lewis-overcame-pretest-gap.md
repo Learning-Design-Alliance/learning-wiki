@@ -51,3 +51,4 @@ Mixed-model ANOVA of pre/post physics conceptual test scores (29 items, Cronbach
 - [The two teachers' scaffolding moves differed significantly: Mrs. Lewis monitored more, prompted peer idea-sharing, extended materials, and handed over independence more, while Mr. Green provided more static support](teacher-scaffolding-moves-main-effect-differences.md)
 - [As material scaffolds faded, Mrs. Lewis's students' performance returned to initial levels between High and Low support, while Mr. Green's students declined significantly across the unit](within-teacher-performance-trajectories-as-scaffolds-faded.md)
 - [Both sequencing groups improved in conceptual and procedural knowledge, with no significant group-by-time interaction](both-groups-improved-knowledge-no-sequencing-interaction.md) — related
+- [Students' PHP test scores increased significantly from pre-test to post-test (p < 0.001)](php-its-significant-learning-gains.md) — related

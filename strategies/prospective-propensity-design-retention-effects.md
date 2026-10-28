@@ -44,7 +44,8 @@ The article recommends estimating retention effects with prospective studies tha
 - [Retention in grades 1-5 increases the odds of dropping out of high school rather than graduating, above propensity to be retained](../claims/early-retention-increases-dropout-odds.md) [~M]
 
 ## Related Strategies
-- 
+
+- [Use propensity-score matching to minimize selection bias when randomized control groups are unavailable](propensity-score-matching-selection-bias.md)
 
 ## Examples
 -

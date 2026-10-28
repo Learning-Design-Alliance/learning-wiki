@@ -54,3 +54,4 @@ Mixture modeling of the delayed start distribution (mean 8.96 minutes, tail to 2
 - [Latent profile analysis of 2015 PISA data identifies four collaborative problem-solver profiles among Chinese 15-year-old students](four-collaborative-problem-solver-profiles-pisa.md) — related
 - [Model-based clustering of tied durations identifies four weekly regulation patterns in PBL group discussions](four-weekly-regulation-patterns-pbl.md) — related
 - [Bernoulli Mixture Model fits select around 10-12 clusters per question, with no runs finding high cluster counts optimal, indicating specialised skill sets do not generally exist](bmm-selects-ten-to-twelve-clusters.md) — related
+- [Latent class analysis of pretest strategy-use identifies two subgroups of children, analogical and non-analogical reasoners, of roughly equal size](lca-two-strategy-classes-analogical-reasoners.md) — related

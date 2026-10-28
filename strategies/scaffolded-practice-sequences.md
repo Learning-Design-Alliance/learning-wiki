@@ -79,6 +79,7 @@ Sequenced practice with fading outperforms both unsupported practice and practic
 - [Fading](../elements/fading.md) — the mechanism by which support is withdrawn
 - [Fade embodied support as schemas develop, starting with the least embodied task-relevant support](fade-embodied-support-as-schemas-develop.md)
 - [Require novices to use a goal-aligned form initially, then fade to a goal-free interface](goal-aligned-form-for-novices-then-fade.md)
+- [Two-Tier Interactive Exercise Design: Practice Exercises with Hints vs Assessment Exercises without Feedback](two-tier-practice-assessment-exercises.md)
 
 ## Examples
 - **[4C/ID](../patterns/4cid-four-component-instructional-design.md)** — organizes whole learning tasks into task classes of increasing complexity with systematically fading support; the canonical design model for scaffolded sequences.

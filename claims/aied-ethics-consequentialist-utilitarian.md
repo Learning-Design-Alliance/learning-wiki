@@ -48,3 +48,4 @@ Theoretical argument in a commentary: the author asserts, citing Hakimi et al., 
 - [Four distinct GenAI chatbot adoption personas emerge: Cautious Achievers, Skeptical Utilitarians, Disengaged Doubters, and Engaged Enthusiasts](four-genai-adoption-personas.md) — related
 - [Control-group students framed sustainability as an external obligation and held techno-optimistic views of AI centered on efficiency with little ethical reflection](control-external-obligation-techno-optimism.md) — related
 - [Turkish undergraduates' AI associations are anchored by utilitarian concepts, with Convenience and Speed alone accounting for 18.5% of all responses](utilitarian-anchors-convenience-speed-ai-associations.md) — related
+- [AI in education is conceived and practised in three ways — as research methodology, as industry profit source, and as political rhetoric — leading to very different outcomes](ai-three-stakeholder-framings.md) — related

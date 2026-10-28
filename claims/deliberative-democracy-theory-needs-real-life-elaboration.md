@@ -50,3 +50,4 @@ Authors' interpretive conclusion drawn from the Danish Deliberative Poll finding
 - [Mutual understanding on the euro prevailed among participants in the Danish Deliberative Poll](deliberative-poll-mutual-understanding.md) — related
 - [Deliberative policy proposals center on inclusive decision making governed by nonrepression and nondiscrimination principles](deliberative-policy-nonrepression-nondiscrimination.md) — related
 - [Deliberative discussion, detectable through dialogue acts, is characterized by social cooperation and openness to persuasion and should lead to better learning outcomes](deliberative-discussion-dialogue-acts.md) — related
+- [A university-wide Deliberative Democracy process enabled higher education stakeholders to integrate situated knowledge through structured dialogue to co-produce AAI-EdTech ethical principles](dd-co-production-situated-knowledge.md) — related

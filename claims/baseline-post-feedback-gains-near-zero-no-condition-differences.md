@@ -56,3 +56,4 @@ Descriptive and regression analysis of Δ pass rate over valid submission transi
 - [Feedback type shifts engagement by question type: educator feedback yields more MCQ submissions while AI feedback trends toward more open-ended revisions, with no overall difference](feedback-type-shifts-engagement-by-question-type.md) — related
 - [Effects of AI-generated test case feedback depend critically on feedback validity](test-case-feedback-effects-depend-on-validity.md) — related
 - [Baseline-to-final performance change was centered near zero with a mean of −1.83](baseline-final-change-near-zero.md) — related
+- [Positive Feedback for APT engagement does not positively impact learning in collaborative discussions](apt-positive-feedback-no-learning-impact.md) — related

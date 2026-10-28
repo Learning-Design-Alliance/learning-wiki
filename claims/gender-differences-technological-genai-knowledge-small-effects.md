@@ -60,3 +60,4 @@ One-way ANOVAs by gender across the seven TPACK domains in the 127-faculty surve
 - [Self-perceived TPACK-21 domain scores do not differ significantly by faculty age group or appointment type](no-age-or-career-type-differences-tpack-genai.md) — related
 - [Gender differences in perceived transversal skills, with male students higher](gender-differences-transversal-skills-male-higher.md) — related
 - [Students across all genders perceive scientific citizenship positively](scientific-citizenship-positive-across-genders.md) — related
+- [Male students score significantly higher than females on Openness to Experience and Extraversion, while age shows no significant correlation with personality](gender-age-personality-differences.md) — related

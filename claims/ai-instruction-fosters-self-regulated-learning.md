@@ -49,3 +49,4 @@ Mixed-design ANOVA on the 63-item Self-Regulation Questionnaire (pilot reliabili
 - [AI-mediated language instruction produces significantly greater English learning achievement gains than traditional instruction among EFL learners](ai-instruction-greater-efl-achievement-gains.md) — related
 - [Motivational SRL factors correlate with but do not directly predict Japanese EFL learners' proficiency](motivational-factors-correlate-not-predict-efl-proficiency.md) — related
 - [Generative AI support can foster self-regulated learning more effectively than traditional AI-based implementations](generative-ai-supports-self-regulated-learning.md) — related
+- [AI-enabled EFL teaching in schools is associated with improvements in student engagement, motivation, and language proficiency, per a systematic review of 22 empirical studies](ai-efl-engagement-motivation-proficiency-review.md) — related

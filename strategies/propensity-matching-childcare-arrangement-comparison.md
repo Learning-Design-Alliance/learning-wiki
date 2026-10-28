@@ -44,6 +44,7 @@ The article compares formal vs informal childcare by matching treated (formal) w
 ## Related Strategies
 
 - [Match statistical control methods to variable structure and measurement quality, preferring stratification, covariate adjustment, matching, or regression discontinuity accordingly](statistical-control-method-selection-strategy.md)
+- [Use propensity-score matching to minimize selection bias when randomized control groups are unavailable](propensity-score-matching-selection-bias.md)
 
 ## Examples
 -

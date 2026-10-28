@@ -52,3 +52,4 @@ The review reports, citing Tzirides et al. (2024), graduate-level seminars with 
 - [How a user engages with AI matters more than whether: structured, deliberate engagement can mitigate or reverse offloading effects](engagement-style-matters-more-than-whether.md) — a broader claim this one bears on
 - [Persistent challenges include feedback inaccuracy, learner overreliance, and limited transparency](customized-ai-writing-persistent-challenges.md) — related
 - [AI use in training carries risks of uncritical acceptance and overreliance, including undetected conceptual errors and increased delegation of problem solving](ai-training-risks-uncritical-acceptance-overreliance.md) — related
+- [Graduate graders can distinguish LLM-generated assessment responses from student responses with accuracy better than random guessing, and experience with generative AI improves detection accuracy](graders-detect-llm-responses-neuroscience.md) — related

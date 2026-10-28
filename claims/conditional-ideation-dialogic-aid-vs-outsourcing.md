@@ -68,3 +68,4 @@ RQ2 thematic analysis of focus groups reports this tension in participants' ethi
 - [Panelists strongly agreed human oversight must remain central in academic decisions involving GenAI, with clear accountability assignments](human-oversight-central-genai-academic-decisions.md) — related
 - [Marzano's taxonomy chosen over Bloom's because it accommodates three knowledge types and positions metacognition and ethics](marzano-over-bloom-rationale-genai-literacy.md) — related
 - [Instructors engage LLM-generated suggestions as a controllable refinement process](instructors-use-llm-suggestions-as-controllable-refinement.md) — related
+- [AI in accountability-oriented policy risks automated decision-making replacing human judgment and poor-quality data driving high-stakes decisions](aied-policy-automated-accountability-risks.md) — related

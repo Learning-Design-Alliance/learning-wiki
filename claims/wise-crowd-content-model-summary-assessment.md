@@ -48,3 +48,4 @@ The editors report, citing Passonneau et al., a manual content-model method deri
 - [Rubric-aligned NLP features for evidence and organization outperform proxy-feature and coherence baselines and generalize across datasets](rubric-aligned-nlp-features-outperform-proxies.md) — related
 - [Automatically coded dialogue acts correlate with manually coded collaborative activities as expected](dac-correlates-with-manual-collaborative-activities.md) — related
 - [LLMs overrate short underdeveloped essays and over-penalize minor language errors in well-developed essays](llm-overrate-short-essays-overpenalize-errors.md) — related
+- [On new crowd-sourced Prolific summaries, the Content model generalized well (r = 0.70) but the Wording model predicted human scores poorly (r = 0.29)](prolific-generalizability-content-strong-wording-weak.md) — related

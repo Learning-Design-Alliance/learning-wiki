@@ -47,3 +47,6 @@ Narrative review of Adamson et al.'s experiments on the Bazaar platform, where a
 ## Related Claims
 - [Conversational-agent prompts improve student dialogue outcomes at both individual and dyad levels](conversational-agent-prompts-improve-individual-and-dyad-outcomes.md) — related
 - [System-controlled adaptive instruction does not necessarily yield higher transfer than nonadaptive static approaches](system-control-not-superior-transfer.md) — related
+- [Positive Feedback for APT engagement does not positively impact learning in collaborative discussions](apt-positive-feedback-no-learning-impact.md) — a narrower finding that bears on this claim
+- [The effectiveness of specific APT facilitation strategies is context-specific, depending on material difficulty and learner skill level](apt-strategy-effectiveness-context-specific.md) — related
+- [Revoicing support from an APT conversational agent significantly increases learning gains in 9th grade biology collaborative discussions](revoicing-agent-significant-learning-gains-9th-grade.md) — related

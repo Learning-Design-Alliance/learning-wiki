@@ -52,3 +52,4 @@ FDR-corrected Mann–Whitney U item comparisons in the N=118 survey, premium ver
 - [Multi-tool GenAI users report higher support, reliance, and benefit than single-tool users, but lower confidence working without GenAI](multi-tool-users-benefits-lower-independent-confidence.md) — related
 - [Economic, educational, and geopolitical inequalities structure differential access to AI capabilities, reproducing an epistemic hierarchy](differential-ai-access-reproduces-epistemic-hierarchy.md) — related
 - [Chatbot users held more positive attitudes and reported greater perceived knowledge gains than non-users](chatbot-users-more-positive-than-non-users.md) — related
+- [Perceived benefits of FieldTripOrganizer were somewhat larger for teachers with intermediate/low ICT expertise than for advanced users](fieldtriporganizer-benefits-stronger-low-ict-expertise.md) — related

@@ -91,3 +91,4 @@ The full fine-tuned BERT model was fit to held-out test data (20% of the dataset
 - [BERT was the best unimodal text classifier for Key Stage classification with an F1 score of 0.75](bert-best-unimodal-f1-075.md) — related
 - [NLP models in LA studies typically reach moderate agreement (mean Cohen's kappa 0.54) and mean accuracy 0.79, with deep learning models outperforming others in most studies from 2021 onward](nlp-la-performance-kappa-accuracy-benchmarks.md) — a broader claim this one bears on
 - [A fine-tuned BERT model achieves almost perfect agreement with human coders when classifying student self-affirmation essays, matching human-human reliability](fine-tuned-bert-matches-human-coders-self-affirmation-essays.md) — related
+- [BERT-FYBIO, which uses post text plus annotated reading context, significantly outperforms a Bi-LSTM baseline for emoji prediction](bert-fybio-outperforms-bilstm.md) — a narrower finding that bears on this claim

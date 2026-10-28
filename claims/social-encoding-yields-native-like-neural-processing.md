@@ -74,3 +74,4 @@ A second fMRI study reviewed by the article (Fig. 1A) compared encoding in socia
 - [The mere presence of a social partner facilitates L2 word learning, with right SMG and IFG activity tracking learning outcomes and partner coordination](partner-presence-facilitates-l2-word-learning.md) — related
 - [Encoding L2 words through simulated social interaction activates bilateral posterior STS and right IPL, with delayed-test performance correlating with right TPJ, hippocampus, and motor activity](social-encoding-fmri-sts-tpj-hippocampus.md) — related
 - [L2 words learned via simulated social interaction are processed like L1 words, engaging right SMG rather than left middle frontal gyrus](social-video-l2-words-engage-right-smg-like-l1.md) — possibly the same claim (merge candidate)
+- [Brain activation associated with theory of mind increases with the human-likeness of an interaction partner](human-likeness-increases-theory-of-mind-activation.md) — related

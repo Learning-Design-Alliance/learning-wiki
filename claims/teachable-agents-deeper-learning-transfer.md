@@ -49,3 +49,4 @@ Authors' conclusion from the quasi-experimental study and mental-model change an
 - [Young primary school students can act as successful tutors of a teachable agent](young-students-successful-agent-tutors.md) — a narrower finding that bears on this claim
 - [Adding a teachable agent to the standard science curriculum improved fourth-graders' learning gains on both curriculum tests and researcher-designed hierarchical reasoning tests](ta-improves-basic-and-added-value-gains-fourth-grade.md) — a narrower finding that bears on this claim
 - [The authors concluded transfer of motivational engagement from entertainment gaming to educational contexts was unlikely](gaming-engagement-transfer-to-classroom-unlikely.md) — related
+- [Learning-by-teaching games position students as tutors of a teachable virtual agent for basic mathematics](learning-by-teaching-teachable-agent-math-games.md) — a narrower finding that bears on this claim

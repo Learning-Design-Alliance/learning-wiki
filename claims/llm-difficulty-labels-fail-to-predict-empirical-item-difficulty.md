@@ -57,3 +57,4 @@ Construct-validity audit (Stage 2) of 311 deployed LLM-generated MCQs in two dat
 - [A 50-disposable-account staging rehearsal produced 56 evidence rows, with 46 (82.1%) assigned to higher-order Bloom categories](fifty-account-rehearsal-56-rows-82-percent-higher-order.md) — related
 - [Deep learning models empirically outperform rule-based approaches on automatic question-generation evaluation](nqg-outperforms-rule-based-automatic-eval.md) — related
 - [Existing AQG approaches concentrate on non-technical domains, and technical-domain Wh-type generation has been limited to Bloom's cognitive Level I](existing-aqg-technical-domain-limited-non-technical.md) — related
+- [Little post-2014 progress on generating questions of controlled difficulty, feedback generation, and verbalisation](aqg-little-progress-difficulty-feedback-verbalisation.md) — reports the opposite

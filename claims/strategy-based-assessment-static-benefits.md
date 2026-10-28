@@ -47,3 +47,4 @@ Theoretical argument in the assessment section, contrasting strategy-based asses
 ## Related Claims
 - [Strategy-based assessment recognised 62 of 72 correct student programs (86%) from four model solutions with no false positives](ask-elle-assessment-recognises-62-of-72-programs.md) — related
 - [In log analysis of 3466 interactions, 56.1% of interactions and 46.3% of attempts were recognised as correct model solutions](ask-elle-log-analysis-recognition-rates.md) — related
+- [PHP ITS identifies semantically equivalent solutions without bug libraries, ideal solutions or heuristics](php-its-no-bug-libraries-no-heuristics.md) — related

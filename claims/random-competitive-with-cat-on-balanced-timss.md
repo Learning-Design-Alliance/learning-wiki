@@ -49,3 +49,4 @@ Secondary comparative observation from the Discussion section of the cross-valid
 - [On the TIMSS dataset, InitialD reaches the same estimation error with fewer questions than random sampling or a traditional adaptive test](initiald-question-efficiency-timss.md) — related
 - [CAT adjusts test questions as the testing goes along](cat-adjusts-questions-during-testing.md) — a broader claim this one bears on
 - [InitialD converges faster toward the final diagnosis only for small question counts; a standard CAT converges faster beyond about 14 questions](initiald-early-cat-late-convergence.md) — related
+- [Cold-start initialization converges faster than starting from an inconsistent student model](cold-start-faster-than-inconsistent-model.md) — related

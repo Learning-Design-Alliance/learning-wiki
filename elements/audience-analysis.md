@@ -13,7 +13,7 @@ generated:
 # Audience Analysis
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 27 claims (16 for, 11 mixed) · 35 studies (11 associational, 7 causal, 7 review, 5 theoretical, 2 quant-synthesis, 2 design, 1 qualitative), `q1`–`q4` · 4 of 35 report an effect size · 22 claims rest on one study
+> **Evidence** · 28 claims (16 for, 12 mixed) · 36 studies (11 associational, 8 causal, 7 review, 5 theoretical, 2 quant-synthesis, 2 design, 1 qualitative), `q1`–`q4` · 4 of 36 report an effect size · 23 claims rest on one study
 
 ## Description
 Audience analysis (often called learner analysis) is the systematic investigation of who the learners are — their prior knowledge, skills, motivations, language proficiency, demographics, and learning context — conducted before designing instruction. It functions as the evidence base for decisions about sequencing, vocabulary, examples, pacing, and support, replacing designer assumptions with data about the actual audience.
@@ -76,6 +76,7 @@ Audience analysis improves learning primarily by aligning instruction with learn
 - [Latent profile analysis of nine cognitive and motivational-affective characteristics identifies three learner profiles (inattentive unfavorable, attentive unfavorable, favorable)](../claims/three-profiles-cognitive-motivational-lpa.md) [+W]
 - [Lower SES predicts assignment to the inattentive unfavorable and attentive unfavorable learner profiles](../claims/lower-ses-predicts-unfavorable-profiles.md) [~W]
 - [A Spring 2020 pre-course survey of 48 RDS students found mostly masters-level technical majors, about half with little to no prior knowledge of legal studies or social science, and a majority holding that data science and AI should reflect ethical principles](../claims/rds-precourse-survey-background.md) [+W]
+- [Latent class analysis of pretest strategy-use identifies two subgroups of children, analogical and non-analogical reasoners, of roughly equal size](../claims/lca-two-strategy-classes-analogical-reasoners.md) [~W]
 
 ## The evidence by question
 

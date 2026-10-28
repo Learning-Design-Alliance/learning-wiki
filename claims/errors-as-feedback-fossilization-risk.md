@@ -52,3 +52,4 @@ Authors' interpretive argument in §5 on the significance of error analysis. The
 - [Self-discovery through errorful exploration is basically incompatible with error minimization in instruction](self-discovery-incompatible-with-error-minimization.md) — related
 - [L1-induced errors persist in advanced learners and risk fossilization if learners rely on compensatory communication strategies](l1-interference-errors-fossilization-risk.md) — a narrower finding that bears on this claim
 - [Preselection of grammar points in proactive FOF reduced learners' repetition and fossilization of erroneous forms](proactive-fof-reduces-error-fossilization.md) — related
+- [Two main causes of incorrect analysis were unhandled constructs and string-literal quote inconsistencies](php-its-error-causes-constructs-quotes.md) — related

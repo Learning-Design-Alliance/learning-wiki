@@ -39,6 +39,7 @@ The authors recommend exploiting an abundance mindset with small language models
 
 - Generate Then Validate Pipeline
 - [Use AI-driven item generation to create discriminating questions at a fraction of the cost and offload easier questions to an AI](ai-item-generation-low-cost-discriminating-items.md)
+- [Over-generate and rank: generate many questions then filter for quality](overgenerate-and-rank-aqg.md)
 
 ## Examples
 -

@@ -71,3 +71,4 @@ Same ablation series on the hybrid models; consistent drops across prompts indic
 - [Ablation study: removing any component lowers evaluation AUC, and removing all additional features yields the lowest public and private AUCs](ablation-all-features-maximize-auc.md) — related
 - [Removing grammar and vocabulary features drops scoring QWK by 7-13% across prompts](gvf-removal-drops-qwk-7-13-percent.md) — related
 - [Complex DNN architectures offer little advantage over simple linear ridge-regression baselines for trait scoring, implying nonlinearities and interactions were of minor importance](dnn-advantage-over-linear-baseline-minor.md) — reports the opposite
+- [Holistic scoring of German university students' essays posed significant challenges to both a neural model and an SVM with n-gram features](german-essay-scoring-challenges-both-models.md) — related

@@ -52,3 +52,4 @@ Quoted from Sana et al.'s commentary as reported in this article: in Ostrow et a
 - [Interleaving benefits are small for mathematical tasks and absent or reversed for expository texts and words](interleaving-limited-for-math-texts-and-words.md) — related
 - [Interleaved practice outperformed blocked practice across eight STEM classrooms](interleaving-beats-blocking-across-stem-classes.md) — related
 - [Interleaved practice yields better category learning than blocked practice, and students who choose interleaved practice outperform those who choose blocked practice on novel materials](interleaving-effect-category-learning-paintings.md) — related
+- [Learning when to apply a skill benefits more from interleaved problem orders, while learning how to apply a skill benefits more from blocked problem orders](when-learning-interleaved-how-learning-blocked.md) — related

@@ -58,3 +58,4 @@ The article reports a direct comparison experiment (cited to VanLehn et al. 2007
 - [A meta-review found intelligent tutoring systems approaching the effectiveness of ordinary human tutors, whose effectiveness is below that of expert tutoring](vanlehn-metareview-its-approaching-human-tutors.md) — related
 - [AutoTutor produces learning gains averaging about 0.8 standard deviations over static-textbook controls, and bystanders cannot distinguish its tutoring turns from a human tutor's](autotutor-learning-gains-0-8-sigma.md) — related
 - [In WHY2 physics studies, AutoTutor outperformed read-textbook and no-materials controls and performed comparably to WHY2/Atlas and non-expert human tutors](why2-autotutor-physics-gains.md) — related
+- [Remediation-level advice matters: Why2-Atlas hints were less effective than human tutors when students lacked prerequisite knowledge](why2-atlas-remediation-limit.md) — reports the opposite

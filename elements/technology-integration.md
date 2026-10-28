@@ -13,7 +13,7 @@ generated:
 # Technology Integration
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 102 claims (47 for, 48 mixed, 7 against) · 91 studies (20 associational, 18 qualitative, 16 review, 12 causal, 10 quant-synthesis, 10 design, 5 theoretical), `q1`–`q4` · 15 of 91 report an effect size · 99 claims rest on one study
+> **Evidence** · 104 claims (48 for, 49 mixed, 7 against) · 93 studies (20 associational, 18 qualitative, 17 review, 13 causal, 10 quant-synthesis, 10 design, 5 theoretical), `q1`–`q4` · 15 of 93 report an effect size · 101 claims rest on one study
 
 ## Description
 Technology integration is the element in which digital tools are used in direct service of learning goals, feedback, access, or collaboration.
@@ -127,6 +127,8 @@ Technology integration is the element in which digital tools are used in direct 
 - [Proposed benefits of virtual characters include increased motivation, stimulation of learning activities, and enhanced communication](../claims/virtual-character-proposed-benefits-taxonomy.md) [+W]
 - [LLM-enhanced feedback did not yield a statistically significant improvement in final grades compared with traditional AI feedback](../claims/llm-feedback-no-significant-grade-gain.md) [~W]
 - [Students in the ICLS experiments were satisfied with the system and mostly found it useful for collaborating, but were concerned about its slowness](../claims/icls-students-satisfied-and-found-useful.md) [~W]
+- [AI-enabled EFL teaching in schools is associated with improvements in student engagement, motivation, and language proficiency, per a systematic review of 22 empirical studies](../claims/ai-efl-engagement-motivation-proficiency-review.md) [+M]
+- [A peer-role robot in break-time science classrooms did not increase overall science curiosity, though it increased for students who asked it questions](../claims/robovie-science-curiosity-mixed-effect.md) [~W]
 
 ## The evidence by question
 - *Does building AI tools into instruction raise achievement over teaching the same content without them, and in which settings?* [AI-supported instruction has a moderate positive effect on student achievement in STEM education (g = 0.670 under a random effects model)](../claims/ai-instruction-stem-moderate-positive-effect.md) [+M]

@@ -44,6 +44,7 @@ The paper proposes decoupling assessment from courses and programs because self-
 ## Related Strategies
 
 - [Extend course-by-course learning portfolios into life-long learning profiles stored on the cloud with social media integration](life-long-learning-portfolio-strategy.md)
+- [Include learning analytics in the design loop of self-paced online course design, with diagnosis, learner profiling, continuous assessment, and adaptivity](learning-analytics-in-course-design-loop.md)
 
 ## Examples
 -

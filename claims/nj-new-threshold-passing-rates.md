@@ -49,3 +49,4 @@ Descriptive passing-rate analysis for the New Jersey HSE study sample under the 
 - [GED takers had higher grade 8 test scores and were more likely White and less likely lunch-eligible than HiSET and TASC takers](nj-ged-takers-stronger-grade8-background.md) — related
 - [After New Jersey reduced the passing thresholds for two exams, first-attempt passing rates were similar across the three HSE exams](nj-reduced-thresholds-equalized-first-attempt-passing.md) — related
 - [Under New Jersey's original passing thresholds, first-attempt passing was more likely on the HiSET and TASC than on the GED after controlling for grade 8 test scores](nj-original-thresholds-hiset-tasc-easier-first-attempt.md) — related
+- [Failing students are predominantly inactive in the first two weeks of the exam period](failing-students-inactive-first-two-weeks.md) — related

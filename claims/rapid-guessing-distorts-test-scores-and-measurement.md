@@ -127,3 +127,4 @@ The article's abstract states the consequence of the opt-out conceptualization: 
 - [Representational pictures enhance test-taker enjoyment, response certainty, and reduce rapid-guessing behaviour](representational-pictures-affective-metacognitive-benefits.md) — related
 - [Opting out has disadvantages: it can obscure implicit knowledge, enable excessive opting out, and complicate assessment](opting-out-disadvantages-assessment.md) — related
 - [Aberrant student behavior produces systematic, non-random data biases: cheating concentrated in difficult exercises and domain-dependent rapid guessing](aberrant-behavior-systematic-data-biases.md) — a narrower finding that bears on this claim
+- [Shallow learners show slower responses and higher certainty of slip, suggesting struggle rather than fast guessing](shallow-learners-slow-struggling-not-guessing.md) — related

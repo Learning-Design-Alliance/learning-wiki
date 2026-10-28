@@ -69,3 +69,4 @@ Interview evidence from a technology coach whose district enabled Office 365 wit
 - [Most partner professional development relied on traditional short-term workshops with little classroom-level intensive assistance](probation-support-relies-on-traditional-workshops.md) — related
 - [No readily accessible sources of rigorous evidence exist for most ed-tech products](no-rigorous-evidence-ed-tech-products.md) — related
 - [Preservice teachers tend to rely more on informal help sources than formal ones during training](pst-rely-informal-help-sources.md) — related
+- [Big Tech hyperscalers are introducing cloud and AI infrastructures into education with a business model tending towards monopoly capture](big-tech-hyperscalers-education-monopoly-capture.md) — related

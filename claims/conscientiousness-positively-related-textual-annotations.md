@@ -51,3 +51,4 @@ Correlational analysis of 120 volunteers; Table 1 reports NTAA–conscientiousne
 - [Digital annotation traces can predict conscientiousness and neuroticism scores with reasonable accuracy](annotation-traces-predict-conscientiousness-neuroticism.md) — a broader claim this one bears on
 - [Extraversion is negatively correlated with the average number of annotation acts](extraversion-negatively-correlated-average-annotation-acts.md) — related
 - [Bland-Altman analysis shows small bias between i-Read and NEO-IPIP scores for conscientiousness (−0.72) and neuroticism (1.29)](bland-altman-agreement-iread-neoipip.md) — related
+- [Conscientiousness and Extraversion positively predict chat message posting, while Extraversion positively predicts forum posting](conscientiousness-extraversion-chat-forum-posting.md) — related

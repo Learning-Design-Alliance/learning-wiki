@@ -48,3 +48,4 @@ First-order transition matrices over six core practices comparing N=252 early dr
 - [Student impasses in LLM chemistry tutoring concentrate in the relevant-concepts planning phase, and impasse type depends strongly on problem-solving practice](impasses-concentrate-relevant-concepts-practice.md) — related
 - [The association between tutor questioning and impasse recovery decays as impasses persist, while addressing the student's error becomes more beneficial](questioning-benefit-decays-with-impasse-depth.md) — related
 - [Next-turn recovery from impasses declines steadily as impasse depth increases, with help-seeking impasses declining most sharply](recovery-declines-with-impasse-depth.md) — related
+- [The introduction reports that the PETAL recursive programming tutor was shown to be highly effective in a 6-week control group study](petal-effective-six-week-control-study.md) — related

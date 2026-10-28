@@ -52,3 +52,4 @@ Kendall's tau correlation across 9 teams in the field-based observational study,
 - [Increased physiological arousal and higher physiological synchrony relate to more monitoring with negative valence](arousal-synchrony-negative-valence-monitoring.md) — related
 - [Neither physiological arousal nor physiological synchrony predicts equality of participation in monitoring interactions](no-physiological-prediction-equality-participation.md) — related
 - [Physiological synchrony is detectable among medical resident teams both before and during CRM simulation training, exceeding surrogate-data chance levels](ps-detected-pre-and-during-crm-simulation.md) — related
+- [Training team leaders to present pre-briefs and interactive post-briefs significantly improved both leader capabilities and team performance](leader-briefing-training-improves-team-performance.md) — related

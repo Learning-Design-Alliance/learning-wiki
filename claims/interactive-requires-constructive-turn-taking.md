@@ -61,3 +61,4 @@ The article's operational definition of interactive engagement, stated as a theo
 - [Age groups differ in ICAP engagement distribution: younger adults engage more in active mode, older adults more in constructive and interactive modes, during collaborative concept-map learning](icap-engagement-distribution-age-differences.md) — related
 - [Verbal-utterance-based methods leave collaboration in groups with asymmetrical interactions, such as young children, unexamined](verbal-methods-exclude-asymmetric-groups.md) — related
 - [Students' relative frequencies of interactive, constructive, and active utterances during collaborative PF correlated positively with their conceptual knowledge posttest scores](relative-utterance-frequencies-conceptual-knowledge.md) — related
+- [A communication robot as cooperative learning partner elicited student interactions similar to those with human partners](robovie-cooperative-learning-partner-interactions.md) — related

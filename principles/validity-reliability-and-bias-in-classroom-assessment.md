@@ -36,7 +36,7 @@ sources:
 # Validity, Reliability, and Bias in Classroom Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 301 claims (130 for, 148 mixed, 23 against) · 226 studies (87 associational, 55 design, 29 review, 25 theoretical, 21 causal, 6 quant-synthesis, 3 qualitative), `q1`–`q3` · 20 of 226 report an effect size · 294 claims rest on one study
+> **Evidence** · 308 claims (132 for, 153 mixed, 23 against) · 232 studies (89 associational, 58 design, 30 review, 25 theoretical, 21 causal, 6 quant-synthesis, 3 qualitative), `q1`–`q3` · 20 of 232 report an effect size · 301 claims rest on one study
 
 ## Conditional relationship
 
@@ -230,6 +230,7 @@ Claims linked to this page that do not bear on its relationship, a step or a sit
 - [In PISA 2022-like creativity items, the SES gap reverses in favor of low-SES students when enumerators read the prompts](../claims/pisa-items-ses-gap-reverses-without-reading.md) [+W] — attached 2026-10-27 from Guilherme Lichand et al. (2026), which proposed "Assessments of higher-order skills should account for limitations in foundational skills, e.g., by administering oral exams or non-verbal measures"; tests this page's relationship.
 - [Crosslingual content scoring transfer works better between closely related languages, with Chinese the hardest target in this setup](../claims/crosslingual-transfer-language-proximity.md) [+W] — attached 2026-10-27 from Andrea Horbach et al. (2024), which proposed "Do not use crosslingual automated content scoring for high-stakes assessment at present".
 - [Clusters computed from pre-trained LLM embeddings show low overall alignment with theory-driven Knowledge Profiles of student biology responses](../claims/llm-embedding-clusters-low-alignment-kps.md) [-W] — attached 2026-10-27 from Abigail Gurin Schleifer et al. (2025), which proposed "Validate and adjust pre-trained LLM embeddings before using them for task-specific formative assessment"; tests this page's relationship.
+- [Higher Complexity of assessment items is associated with decreased ML scoring model performance](../claims/higher-complexity-decreased-ml-scoring.md) [+W] — attached 2026-10-28 from Haudek et al. (2024), which proposed "When developing ML scoring models, consider assessment construct characteristics—particularly for higher complexity and multidimensional items".
 
 ## Objective and learner-valued goal
 
@@ -375,6 +376,12 @@ Content validity, construct validity, criterion validity, consistency across occ
 - [Linear regression shows automated grade predicts manual grade (R² = 0.829)](../claims/regression-automated-predicts-manual-grade-r2-0829.md) [~W]
 - [The three human experts showed significantly high Pearson and Spearman correlations in their individual novelty scores before consensus scoring](../claims/high-expert-inter-rater-correlation-novelty.md) [+W]
 - [Cross-prompt finetuning of a pre-finetuned 8B LLM on 50 instances per prompt achieves average QWK of 0.85, comparable to professional human graders (0.87)](../claims/cross-prompt-finetuning-8b-human-level.md) [~W]
+- [Automated assessment marks show very strong positive correlation with expert tutor marks on search algorithm exercises](../claims/automated-assessment-agrees-with-tutors-search-algorithms.md) [+W]
+- [The two human raters of ASAP D7 showed an average inter-rater agreement of 0.60 QWK across rubrics, with rubric-level agreements ranging from 0.46 (Ideas–Conventions) to 0.79 (Ideas–Organization)](../claims/d7-human-rater-agreement-qwk-060.md) [~W]
+- [ASAP contest performance comparisons across datasets were neither effective nor balanced because each dataset had a unique underlying writing construct; performance should be analyzed per writing task](../claims/asap-comparison-not-balanced-per-task.md) [~W]
+- [The introduction reports that deep learning and NLP techniques predicted fine-grained rubric scores of student essays with success well beyond the agreement level between two human raters](../claims/deep-learning-essay-scoring-beyond-human-rater-agreement.md) [~W]
+- [The three LLMs showed fair inter-model agreement on the AAMC SJT, agreeing most strongly on incorrect answers](../claims/llm-fair-agreement-same-errors-aamc-sjt.md) [~W]
+- [Misclassified assessments cluster near placement cut scores](../claims/misclassifications-cluster-near-cut-scores.md) [~W]
 
 ## Related Principles
 - [Criterion- and Norm-Referenced Testing](criterion-and-norm-referenced-testing.md) — validity and reliability apply to standardized as well as teacher-made assessments, with additional considerations

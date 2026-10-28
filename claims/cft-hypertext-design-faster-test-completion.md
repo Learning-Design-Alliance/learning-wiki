@@ -53,3 +53,4 @@ Platform-tracked timing data from the Moodle e-learning system after the experim
 - [Proficient learners complete the CT task faster and with fewer clicks than Novice and Developing learners](proficient-learners-task-efficiency-behaviour.md) — related
 - [Students teaching the ChatGPT agent passed the online judge with fewer code submission attempts than control students](chatgpt-teachable-agent-fewer-submission-attempts.md) — related
 - [Depth accuracy rose progressively during the intervention, with the experimental group improving roughly three percentage points per minute faster than the control group](tibetcpr-depth-progressive-within-session-gain.md) — related
+- [The experimental group spent significantly more time per problem and completed significantly fewer problems than the control group](se-prompts-increase-time-per-problem.md) — related

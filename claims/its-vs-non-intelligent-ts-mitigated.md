@@ -47,3 +47,4 @@ The review's synthesis of the ITS-vs-non-intelligent-TS category, all conducted 
 ## Related Claims
 - [Pedagogical augmentations of ITSs show inconsistent effects: self-assessment helped in some studies but not others, while personalization and matched test-practice format showed benefits](its-modified-its-mixed-pedagogical-effects.md) — related
 - [Most ITS-versus-teacher studies in K-12 report a positive effect of ITSs on student performance, with medium-to-large effect sizes](its-vs-teacher-k12-positive-effects.md) — related
+- [The introduction reports that the VCR tutor produced statistically significant performance gains in using the VCR, a rare result for ITSs at the time](vcr-tutor-significant-performance-gains.md) — related

@@ -53,3 +53,4 @@ Correlational analysis in Section 3.3 (Table 3): e.g. GPT-4.1 prompted for holis
 - [A Gemini-based creativity autorater scores real students' complex multimedia creativity tasks on par with human experts (item Kappa 0.66; total-score Pearson r = 0.88)](gemini-autorater-creativity-real-students.md) — related
 - [Ensembles of operational raters outperform the LLMs: two raters suffice on average across aspects, but larger ensembles are needed for individual aspects](rater-ensembles-outperform-llms-feedback.md) — related
 - [Holistic peer feedback correlated significantly with tutor marks while specific-criteria rubric feedback did not in the PEARS system](pears-holistic-feedback-correlates-tutor-marks-specific-does-not.md) — related
+- [Automated assessment marks show very strong positive correlation with expert tutor marks on search algorithm exercises](automated-assessment-agrees-with-tutors-search-algorithms.md) — related

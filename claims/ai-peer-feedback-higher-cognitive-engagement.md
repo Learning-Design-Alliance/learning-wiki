@@ -55,3 +55,4 @@ One-way ANCOVA on posttest cognitive engagement with pretest covariate in the qu
 - [Pedagogical agents do not significantly affect learners' engagement (g = -0.02, non-significant)](pa-no-effect-engagement.md) — related
 - [Generative AI-assisted feedback is associated with a statistically significant pretest–posttest improvement in violin students' intonation performance over a four-week period](genai-feedback-improves-violin-intonation-posttest.md) — related
 - [Structured AI-supported writing instruction produced a large posttest writing proficiency advantage over traditional instruction in Saudi EFL undergraduates](structured-ai-workflow-writing-gains-efl.md) — related
+- [AI-enabled EFL teaching maps onto all three domains of Bloom's Taxonomy — cognitive, affective, and behavioral — per the review's analysis](ai-efl-blooms-taxonomy-mapping.md) — related

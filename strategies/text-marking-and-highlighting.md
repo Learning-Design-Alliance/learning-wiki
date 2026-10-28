@@ -59,9 +59,11 @@ Highlighting is a generative activity in principle — deciding *what* to mark f
 5. Provide feedback on selection quality, comparing learner marks against expert-identified key ideas (see [Advance Organizers](../elements/advance-organizers.md) for a provided-structure alternative).
 
 ## Related Strategies
+
 - ["Headings and Highlight" strategy](headings-and-highlight-strategy-variant.md) — the system-provided variant, where text structure and pre-marked emphasis guide attention
 - [Annotating](../principles/annotating.md) — the broader element; marking is its most minimal form
 - [Advance Organizers](../elements/advance-organizers.md) — an alternative way to direct attention, provided before reading rather than generated during it
+- [Content selection: identify important sentences or concepts before generating questions](aqg-content-selection-strategy.md)
 
 ## Examples
 - **Annotation protocols in AP/IB English courses** — students mark claims, evidence, and rhetorical moves with distinct symbols, then write from their annotations rather than re-reading.

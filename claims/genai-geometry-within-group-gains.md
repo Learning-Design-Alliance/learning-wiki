@@ -56,3 +56,4 @@ Paired-samples t-test within the experimental group in the quasi-experimental st
 - [Both GAI-assisted and traditional DST groups improved in CPS skills over the 20-week program, with larger gains in the GAI group](gai-assisted-dst-improves-cps-skills.md) — related
 - [AI-assisted inquiry produced larger decision-making gains than inquiry-only and traditional instruction in secondary climate-change education](ai-assisted-inquiry-largest-decision-making-gains-climate.md) — related
 - [Control-group students receiving conventional instruction showed significant gains only in media reading and total literacy, not in media writing](control-group-gains-limited-reading-total.md) — related
+- [Both experimental and control groups improved significantly on all questions and conceptual questions from pre- to post-test after using PyKinetic](pykinetic-improves-python-learning.md) — related

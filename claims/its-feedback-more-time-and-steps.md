@@ -69,3 +69,4 @@ Independent-samples t-test on the mean number of steps students selected across 
 - [ITS feedback availability interacted with task number so that experimental-group students increasingly outperformed controls in solving tasks over time](its-feedback-task-solving-interaction-over-time.md) — related
 - [The number of tasks students worked on and attempted step construction for did not differ significantly between feedback conditions](no-difference-tasks-attempted.md) — reports the opposite
 - [Effects of intelligent ITS feedback did not transfer to follow-up hypothesis-testing tasks without intelligent feedback](no-transfer-its-feedback-follow-up-tasks.md) — related
+- [The experimental group spent significantly more time per problem and completed significantly fewer problems than the control group](se-prompts-increase-time-per-problem.md) — related

@@ -48,3 +48,4 @@ Mixed model analysis of the Construct response task (assessing answer relevance 
 - [Direct instruction training improved 5th graders' task-model construction (question analysis) relative to an active control](direct-instruction-improves-task-model-construction.md) — related
 - [The intervention did not improve 5th graders' extract-and-integrate performance](no-effect-extract-and-integrate.md) — related
 - [CREATE does not produce a significant immediate interaction effect on flexibility, though the experimental group improved pre-to-post](create-immediate-flexibility-null-interaction.md) — related
+- [Both groups improved significantly on harder-to-guess questions, and the experimental group outperformed the control group on them at post-test](se-prompts-harder-to-guess-questions.md) — related

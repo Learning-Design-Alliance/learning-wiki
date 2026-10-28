@@ -13,7 +13,7 @@ generated:
 # Achievement Emotions
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 175 claims (110 show a difference, 48 mixed, 17 no difference) · 102 studies (37 associational, 29 causal, 13 review, 10 qualitative, 8 theoretical, 5 design), `q1`–`q4` · 24 of 102 report an effect size · 172 claims rest on one study
+> **Evidence** · 178 claims (112 show a difference, 49 mixed, 17 no difference) · 104 studies (39 associational, 29 causal, 13 review, 10 qualitative, 8 theoretical, 5 design), `q1`–`q4` · 26 of 104 report an effect size · 175 claims rest on one study
 
 ## Description
 Achievement emotions are the emotions learners feel about learning activities (enjoyment, boredom, frustration) and about their outcomes (pride, shame, hope, hopelessness). In control-value theory they arise from how much control a learner feels over an activity and how much they value it. Positive activating emotions such as enjoyment go with engagement and achievement, deactivating ones such as boredom with disengagement, and the relationship runs both ways. Anxiety is an achievement emotion with its own page, [academic anxiety](academic-anxiety.md); enjoyment overlaps with [interest](interest.md).
@@ -210,6 +210,9 @@ Achievement emotions are the emotions learners feel about learning activities (e
 - [Learners in the dual-layer DALMOOC experienced uncertainty and discomfort transitioning from instructor-driven to self-regulated learning, and found the distributed structure confusing](../claims/dalmooc-learners-uncertain-in-self-regulated-transition.md) [+M] — instruction changes it
 - [Adaptivity does not sacrifice enjoyment](../claims/bkt-adaptivity-no-enjoyment-cost.md) [-M] — instruction changes it
 - [TG1 rated learning enjoyment higher than CG (d = 0.49), not significant after Bonferroni correction.](../claims/cts-high-learner-control-enjoyment-tg1-cg.md) [-M] — instruction changes it
+- [Frustration was marginally significantly negatively correlated with learning outcomes, while boredom was unexpectedly positively correlated](../claims/frustration-negative-boredom-positive-learning-correlation.md) [~M] — learners who differ on it differ in outcomes
+- [Joy during relevant book reading and confusion after positive scans positively predicted overall game score, while total worksheet submissions negatively predicted it](../claims/regression-contextual-emotions-predict-game-score.md) [+M] — learners who differ on it differ in outcomes
+- [Students experienced less confusion after positive scan results than after negative scan results](../claims/less-confusion-after-positive-scan.md) [+W] — instruction changes it
 
 ## Related Learner Variables
 

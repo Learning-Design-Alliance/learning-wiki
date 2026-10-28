@@ -76,3 +76,4 @@ The review reports, from one university chemistry study in its evidence table, t
 - [Task complexity moderates whether users experience the constructive information search process](task-complexity-moderates-information-search-process.md) — related
 - [ASAG and AEG systems differ on answer length, grading focus, and question openness](asag-content-focus-versus-aeg-style.md) — a narrower finding that bears on this claim
 - [LLM grading performance is markedly worse for open-ended history and philosophy questions than for content-based astronomy and astrobiology questions](llm-grading-worse-on-open-ended-questions.md) — a narrower finding that bears on this claim
+- [LLMs can grade short-answer reading comprehension questions with accuracy comparable to human experts, supporting formative assessment grading](llm-grading-reading-comprehension-expert-comparable.md) — related

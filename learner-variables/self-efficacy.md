@@ -13,7 +13,7 @@ generated:
 # Self-Efficacy
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 160 claims (118 show a difference, 25 mixed, 17 no difference) · 132 studies (52 associational, 27 causal, 20 review, 14 qualitative, 8 design, 6 theoretical, 5 quant-synthesis), `q1`–`q4` · 28 of 132 report an effect size · 156 claims rest on one study
+> **Evidence** · 163 claims (120 show a difference, 25 mixed, 18 no difference) · 133 studies (52 associational, 28 causal, 20 review, 14 qualitative, 8 design, 6 theoretical, 5 quant-synthesis), `q1`–`q4` · 29 of 133 report an effect size · 159 claims rest on one study
 
 ## Description
 Self-efficacy is Bandura's term for task-specific confidence: how sure a learner is that they can do what a task requires. It is measured with self-report scales tied to a domain (mathematics self-efficacy, writing self-efficacy, computer self-efficacy). It predicts effort, persistence and achievement, it moderates some instructional effects, and it is itself an outcome that instruction can raise, chiefly through experiences of success, seeing similar others succeed, and specific feedback. It is narrower than [motivation](motivation.md) and distinct from general self-esteem.
@@ -191,6 +191,9 @@ Self-efficacy is Bandura's term for task-specific confidence: how sure a learner
 - [NNES graduate students perceive genAI as more useful for writing and report marginally increased writing self-efficacy](../claims/genai-nnes-perceived-usefulness-competency.md) [+M] — instruction changes it
 - [AI ethics can serve as a compelling entry point for teacher AI education, increasing teacher confidence and engaged classroom discussions](../claims/ai-ethics-entry-point-teacher-training.md) [+M] — instruction changes it
 - [Lower communication anxiety combined with higher perceived communicative competence is positively correlated with L2 willingness to communicate](../claims/anxiety-competence-wtc-correlation.md) [+M] — learners who differ on it differ in outcomes
+- [Low self-efficacy students significantly increased their self-efficacy when matched with a low self-efficacy tutee, but mismatched students did not](../claims/se-match-increases-low-se-students.md) [+M] — instruction changes it
+- [Low self-efficacy students teaching a low self-efficacy tutee performed on par with high self-efficacy students](../claims/low-se-students-match-performance-par.md) [-M] — learners who differ on it differ in outcomes
+- [Students teaching a digital tutee with low self-efficacy show better in-game math performance than students teaching a high self-efficacy tutee](../claims/low-se-tutee-better-in-game-performance.md) [+M] — an instructional effect differs with it
 
 ## The evidence by question
 

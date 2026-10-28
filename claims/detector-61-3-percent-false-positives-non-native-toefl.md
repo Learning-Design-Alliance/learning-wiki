@@ -68,3 +68,4 @@ The review reports Liang et al.'s controlled benchmark of seven detectors on aut
 - [ChatGPT-generated essays showed high written English and PEEL-framework structure across native and non-native speakers](chatgpt-essays-high-english-structure-peel.md) — related
 - [Lower-performing groups gain relative advantage because the scorer detects incorrect responses better for them, producing more false positives](lower-performers-more-false-positives-advantage.md) — related
 - [Plagiarism detection software does not detect AI-generated essays because the text is original, not copied](plagiarism-software-fails-on-generated-text.md) — related
+- [Remote exam proctoring software based on automated facial detection tends to disproportionately flag already-marginalized student groups as suspicious](remote-proctoring-facial-ai-disproportionate-flagging.md) — related

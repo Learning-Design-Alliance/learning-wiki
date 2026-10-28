@@ -49,7 +49,8 @@ The article recommends a set of course design strategies for online educators wh
 - [Current course learning design practices do not consider what and how data should be generated for learning analytics, limiting LA implementation](../claims/current-course-design-lacks-la-data-sourcing.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Include learning analytics in the design loop of self-paced online course design, with diagnosis, learner profiling, continuous assessment, and adaptivity](learning-analytics-in-course-design-loop.md)
 
 ## Examples
 -

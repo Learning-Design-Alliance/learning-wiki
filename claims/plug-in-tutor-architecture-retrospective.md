@@ -46,3 +46,4 @@ The author's retrospective assessment, published in a peer-reviewed journal, tha
 
 ## Related Claims
 - [Final-section papers present bold futures: ecosystem of adaptive tools, grand challenges, collaboration models, and 2041 visions](bold-futures-ecosystem-grand-challenges-2041.md) — related
+- [Basic evaluation techniques from the 1993 ITS evaluation-methods paper remain in use and apply to today's adaptive learning environments](1993-its-evaluation-methods-still-apply.md) — related

@@ -77,3 +77,4 @@ Test II followed study phase II, in which participants studied six new artists w
 - [In an experimenter-controlled task, interleaved practice yields better classification performance than blocked practice (d = 1.05)](experimenter-controlled-interleaving-beats-blocked.md) — related
 - [In self-organized tasks, more interleaved practice is associated with higher classification accuracy](self-organized-interleaving-predicts-accuracy.md) — related
 - [Interleaving multiple graphical representations of fractions gave a qualified advantage over blocked practice, mainly on delayed conceptual transfer and for low-prior-knowledge students](interleaved-representations-better-learning.md) — a narrower finding that bears on this claim
+- [Learning when to apply a skill benefits more from interleaved problem orders, while learning how to apply a skill benefits more from blocked problem orders](when-learning-interleaved-how-learning-blocked.md) — related

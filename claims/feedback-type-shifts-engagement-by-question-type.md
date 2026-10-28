@@ -88,3 +88,4 @@ Time-on-task comparison in RQ2: median 21.13 minutes (baseline) vs. 25.44 minute
 - [Feedback improves learning by a medium amount on average, but its effect varies widely with the information it carries, and a substantial share of feedback effects are negative](feedback-improves-learning.md) — a broader claim this one bears on
 - [Layered AI feedback led to significantly more tasks requiring three or more submissions, while total submissions, learning time and edit distance did not differ](layered-feedback-more-tasks-three-plus-submissions.md) — related
 - [Immediate post-feedback improvement is near zero on average and does not differ significantly across feedback conditions](baseline-post-feedback-gains-near-zero-no-condition-differences.md) — related
+- [Positive Feedback for APT engagement does not positively impact learning in collaborative discussions](apt-positive-feedback-no-learning-impact.md) — related

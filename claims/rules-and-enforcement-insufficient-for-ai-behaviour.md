@@ -46,3 +46,4 @@ The article's introductory assertion, attributed to cited empirical work rather 
 
 ## Related Claims
 - [Universities remaining at early AI-adoption stages risk reactive policies, fragmented practice, and misalignment between assessment and real-world practice](early-stage-ai-adoption-risks.md) — related
+- [AI ethics principles alone do not enforce regulation, per the article's review of implementation evidence](ethics-principles-alone-insufficient.md) — related

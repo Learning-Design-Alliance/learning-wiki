@@ -76,3 +76,4 @@ Agreement between human raters computed from public deposits with no model invol
 - [Instructor-confirmed grading errors occurred at roughly 0.02–0.04% of rubric line items across the term](lata-instructor-confirmed-error-rate.md) — related
 - [After studying the composition scale, normal-school students double-rated 32 seventh-grade compositions, each composition being rated by two students with the second rater rating a different set](witham-double-rating-32-compositions.md) — related
 - [Peer graders in these MOOCs score more leniently and with greater dispersion than the instructor](peer-grading-lenient-high-dispersion-moocs.md) — a narrower finding that bears on this claim
+- [Kappa agreement with human experts shows a system is neither much worse nor much better than experts, but not that experts are a desirable comparison basis](kappa-expert-agreement-limits.md) — related

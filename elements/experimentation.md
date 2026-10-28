@@ -89,6 +89,7 @@ Experimentation supports learning by making learners active generators and teste
 
 **[BSCS 5E instructional model](https://bscs.org/bscs-5e-instructional-model)** — Published curriculum framework sequencing engagement, exploration, explanation, elaboration, and evaluation; the exploration phase is structured experimentation.
 - [Use simulation as a non-threatening alternative to direct experimentation when testing office reorganizations](../strategies/simulation-as-non-threatening-experimentation-alternative.md)
+- [Scaffold hypothesis formation before testing and provide tools for explicit hypothesis statements in games](../strategies/scaffold-hypothesis-formation-before-testing.md)
 
 ## Key Sources
 - Klahr, D., & Dunbar, K. (1988). Dual space search during scientific reasoning. *Cognitive Science, 12*(1), 1–48. [doi:10.1207/s15516709cog1201_1](https://doi.org/10.1207/s15516709cog1201_1)

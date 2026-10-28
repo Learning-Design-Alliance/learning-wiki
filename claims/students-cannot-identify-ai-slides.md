@@ -50,3 +50,4 @@ Same in-class survey: after each lecture segment students guessed on a 7-point s
 - [AI-generated text can pass as human-authored in up to 80% of cases, making reliable differentiation a significant challenge](ai-text-passes-as-human-up-to-80-percent.md) — related
 - [In a human Turing test, participants could not reliably distinguish BEAGLE traces from real student data (52.8% accuracy; d′ = 0.15 within the ±0.3 equivalence bound, pTOST = 0.038)](beagle-traces-turing-test-indistinguishable.md) — related
 - [AI agent activity in an LMS is indistinguishable from normal student activity, defeating detection and proctoring](ai-agent-activity-indistinguishable-from-students.md) — related
+- [Graduate graders can distinguish LLM-generated assessment responses from student responses with accuracy better than random guessing, and experience with generative AI improves detection accuracy](graders-detect-llm-responses-neuroscience.md) — reports the opposite

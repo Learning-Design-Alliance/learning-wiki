@@ -49,3 +49,4 @@ Simulation experiment with 65 simulated learners across 25 b,f combinations (1�
 - [Optimal CFLS b and f settings vary by learner aptitude: higher aptitude benefits from larger values](cfls-optimal-bf-vary-by-aptitude.md) — related
 - [CFLS planner outperforms the Random planner at nearly all b and f settings](cfls-outperforms-random-planner.md) — related
 - [CFLS planner outperforms the SPP for medium and high aptitude learners within the success triangle despite lacking prerequisite knowledge](cfls-outperforms-spp-medium-high-aptitude.md) — related
+- [The introduction reports that in a simulation study the CFLS planner, relying only on inferred learner behaviour, worked highly effectively even compared to a planner using external prerequisite metadata](cfls-planner-effective-without-external-metadata.md) — related

@@ -43,7 +43,8 @@ The A4L Analytics Pipeline is a component of the Architecture for AI-Augmented L
 - [A4L Contingency Table Option Matches Prior Findings All Domains](../claims/a4l-contingency-table-option-matches-prior-findings-all-domains.md) [+M]
 
 ## Related Designs
-- 
+
+- [Learning Analytics Unit for Monitoring Student Progress in AITS](learning-analytics-unit-aits.md)
 
 ## Examples
 -

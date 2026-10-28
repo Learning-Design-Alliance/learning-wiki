@@ -58,3 +58,4 @@ Engagement-depth analysis (§5.1) across 270 conversations reported in Table 2: 
 - [Commercially optimized study-oriented modes achieve higher learner-side scores than baseline, and CURIOBOT shifts general-purpose LLM behavior toward those patterns via prompting alone](study-oriented-modes-upper-bound-reference.md) — related
 - [Students who engaged more meaningfully with the GenAI tended to have more sustained interest than control students (exploratory)](meaningful-genai-engagement-sustained-interest.md) — related
 - [The competitive Game Show increased students' tutoring engagement relative to baseline](game-show-increases-tutoring-engagement.md) — related
+- [A peer-role robot in break-time science classrooms did not increase overall science curiosity, though it increased for students who asked it questions](robovie-science-curiosity-mixed-effect.md) — related

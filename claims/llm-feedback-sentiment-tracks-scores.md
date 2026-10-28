@@ -71,3 +71,4 @@ XGBoost proxy models trained per dataset and LLM on counts of positive and negat
 - [Gender prompts shift feedback stance: female students receive affective, first-person, empathy-oriented feedback while male students receive objective, task-oriented critique](gender-prompt-emotional-connection-pedagogy.md) — related
 - [LLMs overrate short underdeveloped essays and over-penalize minor language errors in well-developed essays](llm-overrate-short-essays-overpenalize-errors.md) — related
 - [Both fine-tuned models show regression toward the mean in score-wise bias, and error rises monotonically above score 3.0, with high scores hardest to predict](score-wise-bias-regression-to-mean-awe.md) — related
+- [Solution sentiment showed no meaningful individual relationship with LLM accuracy despite a small statistically significant collective trend](sentiment-no-meaningful-relationship-llm-sjt-accuracy.md) — related

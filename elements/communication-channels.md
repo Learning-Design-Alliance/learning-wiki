@@ -13,7 +13,7 @@ generated:
 # Communication Channels
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 17 claims (6 for, 11 mixed) · 10 studies (4 qualitative, 2 review, 2 theoretical, 1 quant-synthesis, 1 associational), `q1`–`q3` · 0 of 10 report an effect size · 17 claims rest on one study
+> **Evidence** · 19 claims (7 for, 12 mixed) · 11 studies (4 qualitative, 2 review, 2 associational, 2 theoretical, 1 quant-synthesis), `q1`–`q3` · 1 of 11 report an effect size · 19 claims rest on one study
 
 ## Description
 Communication channels are the element in which learners use designated tools or spaces to coordinate, discuss, ask questions, and share updates during a learning activity. They are useful when collaboration depends on reliable communication pathways.
@@ -52,6 +52,8 @@ Communication channels are the element in which learners use designated tools or
 - [First-year students used Facebook mainly for social purposes and only secondarily for informal student-to-student academic purposes, rarely for formal teaching.](../claims/facebook-social-not-formal-teaching.md) [~W]
 - [Students were generally opposed to tutors contacting them via Facebook for formal teaching, though a majority saw some role for departmental and module-level administrative uses.](../claims/student-opposition-tutor-facebook-contact.md) [~W]
 - [Synchronous and asynchronous communication technologies are commonly employed to support communication between students, industry partners and teaching staff during WIL](../claims/communication-technologies-support-wil.md) [+W]
+- [Students used the synchronous chat room far more than other communication tools, while discussion forum use was relatively low](../claims/chat-room-dominant-communication-tool-usage.md) [+W] — attached 2026-10-28 from Wen Wu et al. (2019), which proposed "eBanshu web-based learning system with synchronous and asynchronous communication tools".
+- [Students communicate more frequently but with lower-quality content in the synchronous chat room than in the asynchronous discussion forum](../claims/synchronous-vs-asynchronous-communication-quality.md) [~W]
 
 ## The evidence by question
 - *Does the channel learners interact through (face to face, video, text chat, discussion board) change the interaction and what language learners gain from it?* [SCMC interaction shows a small advantage over FTF on overall L2 learning outcomes](../claims/scmc-small-advantage-overall-l2-outcomes.md) [~M]

@@ -65,3 +65,4 @@ The article cites Ocumpaugh et al. (2013), reporting that on average students sp
 
 ## Related Claims
 - [Genie 2 achieved large-scale adoption, with around 67,000 United States students participating in the 2012–2013 school year](genie2-67000-us-students-2012-2013.md) — related
+- [Genie 2 teaches U.S. middle school mathematics according to the Russian curriculum and reports higher test results and improved motivation after wide school deployment](genie-2-russian-curriculum-us-deployment.md) — a narrower finding that bears on this claim

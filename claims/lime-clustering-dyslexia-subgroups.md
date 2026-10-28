@@ -56,3 +56,4 @@ K-Means clustering of LIME coefficients from a Gaussian Naive Bayes model (F1 = 
 - [Subgroup membership predicted distinct long-term literacy trajectories 68.2 months after intervention ended](subgroup-membership-predicts-long-term-literacy.md) — related
 - [Machine-learning-based responder selection raises mean group reading-speed gain from 23% to 43%](responder-selection-gain-23-to-43.md) — a broader claim this one bears on
 - [LIME analysis shows the latent features mainly encode information from eye and mouth areas of the face](lime-eye-mouth-areas-in-latent-features.md) — related
+- [Latent class analysis of pretest strategy-use identifies two subgroups of children, analogical and non-analogical reasoners, of roughly equal size](lca-two-strategy-classes-analogical-reasoners.md) — related

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-16
 evidence_strength: moderate
 newest_evidence: 2007
+source_checked: 2026-10-28
 recheck_by: 2010
 sources:
   - id: ritter-2007
@@ -33,7 +34,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q2`
-> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2010**: tool and model accuracy changes quickly
+> **Currency** · newest study 2007 · checked against its sources 2026-10-28 (automated, 2 of 2 entries) · not reviewed by a person · **overdue for a recheck since 2010**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` For 88 geometry students, percent correct remained fairly constant over time because rising task difficulty canceled out learning. [→ Ritter 2007](#ritter-2007)

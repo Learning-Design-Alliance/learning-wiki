@@ -56,3 +56,4 @@ Interpretive argument drawing on the paper's media analysis, including the New Y
 - [Storytelling from work experience serves as a key vehicle of knowledge production and communication in adult classroom quasi-communities](quasi-community-storytelling-knowledge.md) — related
 - [Community projects need conceptual framing to avoid narrowing the learning object](community-projects-need-conceptual-framing-to-avoid-narrowing-the-learning-object.md) — related
 - [Personal connection to data supports critical data-literacy stance-taking](personal-connection-to-data-supports-critical-data-literacy-stance-taking.md) — related
+- [AI in education is conceived and practised in three ways — as research methodology, as industry profit source, and as political rhetoric — leading to very different outcomes](ai-three-stakeholder-framings.md) — related

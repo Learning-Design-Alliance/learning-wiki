@@ -56,3 +56,4 @@ Theoretical argument in the section on enhancing novel problem solving: the arti
 - [Comparing cases side by side improves learning and transfer by a moderate average amount, though in one algebra study it raised procedural knowledge and flexibility but not conceptual knowledge](comparing-contrasting-cases-improves-learning.md) — related
 - [Prompting learners to self-explain, one generative strategy, improves learning by a moderate average amount; other generative activities are not tested by the evidence recorded here](generative-processing-improves-learning.md) — related
 - [Long-term memory is effectively unlimited and holds schemas that vary in their degree of automation](long-term-memory-schemas-automation.md) — related
+- [Working memory capacity is related to initial analogical reasoning ability in children](wm-related-initial-analogy-ability.md) — related

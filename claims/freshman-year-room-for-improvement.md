@@ -60,3 +60,4 @@ Descriptive statistics in the brief state that "More than half of Chicago freshm
 - [CHSRI freshmen were absent about 10 fewer days per year than similar students at similar non-CHSRI schools, a statistically significant gap in every year studied](chsri-freshmen-fewer-absences.md) — related
 - [Nearly 90 percent of Chicago freshmen who miss less than a week of school per semester graduate, regardless of 8th grade test scores](low-freshman-absence-high-graduation.md) — related
 - [By spring of ninth grade, 64 percent of CPS ninth graders missed two or more weeks of instruction in at least one major subject](cps-ninth-graders-64-percent-miss-two-weeks-major-subject.md) — related
+- [Failing students are predominantly inactive in the first two weeks of the exam period](failing-students-inactive-first-two-weeks.md) — related

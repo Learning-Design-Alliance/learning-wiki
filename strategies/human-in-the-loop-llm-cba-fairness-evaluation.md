@@ -44,6 +44,7 @@ The article recommends that LLM-generated assessment conversations be evaluated 
 ## Related Strategies
 
 - [Build infrastructure-level mechanisms to monitor, benchmark, and control LLM response behavior across model transitions in conversation-based assessment](infrastructure-mechanisms-for-llm-response-consistency.md)
+- [Human-in-the-loop quality control for AI-generated educational content](human-in-the-loop-ai-content-quality-control.md)
 
 ## Examples
 -

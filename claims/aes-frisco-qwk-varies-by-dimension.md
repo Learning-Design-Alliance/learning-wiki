@@ -54,3 +54,4 @@ Single hold-out test evaluation (23 students) of the best model per dimension af
 - [The AES tool scored middle school essays more generously than teacher scorers overall and on three of four dimensions](aes-more-generous-than-teachers.md)
 - [Automated essay scoring can achieve high agreement with human raters but faces calibration constraints](aes-high-agreement-calibration-constraint.md) — related
 - [Human inter-rater agreement for FRISCO essay scoring was reliable, with mean kappa 0.78–0.84 and percentage of agreement above 75% in all six dimensions](frisco-rater-agreement-reliable.md) — related
+- [The proposed AES system predicts holistic essay scores through predicted rubric scores, achieving a QWK of 0.78, competitive with cutting-edge AES tools reporting 0.77–0.81](aes-holistic-qwk-078-competitive.md) — related
