@@ -28,7 +28,7 @@ Instructional building blocks — the components you compose into patterns.
 ### [Patterns](patterns/index.md) (54)
 Reusable instructional designs at the lesson or unit level.
 
-### [Designs](designs/index.md) (1174)
+### [Designs](designs/index.md) (1175)
 Designs for a particular setting, course, population or product: what a design uses the general patterns for. A pattern is general across contexts; a design is not.
 
 ### [Products & Programmes](products/index.md) (2150)

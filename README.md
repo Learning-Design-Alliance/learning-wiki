@@ -19,7 +19,7 @@ Page counts are regenerated with every index rebuild.
 | [Principles](principles/) | 170 | Research-backed design commitments: what to do and why. |
 | [Elements](elements/) | 1,057 | Instructional building blocks — the components you compose into patterns. |
 | [Patterns](patterns/) | 54 | Reusable instructional designs at the lesson or unit level. |
-| [Designs](designs/) | 1,174 | Designs for a particular setting, course, population or product: what a design uses the general patterns for. A pattern is general across contexts; a design is not. |
+| [Designs](designs/) | 1,175 | Designs for a particular setting, course, population or product: what a design uses the general patterns for. A pattern is general across contexts; a design is not. |
 | [Products & Programmes](products/) | 2,150 | Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's. |
 | [Strategies](strategies/) | 7,220 | Concrete teaching activity recipes — specific, implementable approaches. |
 | [Design Processes](processes/) | 18 | How a course gets designed — whole-process models a designer works through, rather than anything a learner meets. |

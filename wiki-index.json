@@ -1,7 +1,7 @@
 {
 "counts":{
 "claim":31799,
-"design":1174,
+"design":1175,
 "element":1057,
 "learner-variable":75,
 "method":37,
@@ -338746,6 +338746,14 @@
 "type":"design"
 },
 {
+"description":"A targeted soft skill profile is the ensemble of minimum expected proficiency targets for each soft skill, defined per program specialisation and represented as polygons of 10 sides (kiviat diagrams) showing the targe...",
+"id":"targeted-soft-skill-profile-per-specialisation",
+"path":"designs/targeted-soft-skill-profile-per-specialisation.md",
+"status":"review",
+"title":"Targeted soft skill profile per specialisation represented as kiviat-style thresholds",
+"type":"design"
+},
+{
 "description":"TASD (Colleague AI Classroom Teaching Aide) frames student-AI interaction as a configurable classroom routine rather than an autonomous tutor.",
 "id":"tasd-teacher-authored-prompt-orchestration",
 "path":"designs/tasd-teacher-authored-prompt-orchestration.md",
@@ -477912,6 +477920,7 @@
 "tailored-math-small-group-intervention-element":"tailored-math-small-group-intervention-element",
 "tandem-radar-simulation-2x2x2-active-learning-experiment":"tandem-radar-simulation-2x2x2-active-learning-experiment",
 "targeted-flps-for-low-ses-children":"targeted-flps-for-low-ses-children",
+"targeted-soft-skill-profile-per-specialisation":"targeted-soft-skill-profile-per-specialisation",
 "tasd-teacher-authored-prompt-orchestration":"tasd-teacher-authored-prompt-orchestration",
 "task-trees-knowledge-representation":"task-trees-knowledge-representation",
 "tdaa-test-driven-ai-assisted-pattern":"tdaa-test-driven-ai-assisted-pattern",
