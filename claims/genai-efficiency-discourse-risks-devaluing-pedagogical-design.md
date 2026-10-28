@@ -53,3 +53,4 @@ The article's central argument from its critical discourse analysis of grey lite
 - [Over-reliance on AI scaffolding risks learned helplessness, so focus should shift to fostering self-regulated AI interaction](ai-scaffolding-fading-learned-helplessness.md) — related
 - [Some GenAI tools can inhibit productive struggle by reducing cognitive effort (metacognitive laziness)](genai-metacognitive-laziness.md) — related
 - [The article argues current AI tools focus on the products of learning rather than the human process of learning](ai-focus-products-not-processes.md) — related
+- [The article argues moving toward distributed systems is an existential necessity for academic AIED research](distributed-aied-existential-necessity.md) — related

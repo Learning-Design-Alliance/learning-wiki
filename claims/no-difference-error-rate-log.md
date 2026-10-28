@@ -58,3 +58,6 @@ Exploratory log-data analysis from all 252 participating students found error ra
 - [Logic students make fewest translation errors on sentences with only shape, size or space information; combining spatial with size or shape information raises error rates](visual-impedance-translation-errors.md) — related
 - [Students rarely request on-demand hints in this tutor, with no significant differences between conditions or proficiency groups](on-demand-hint-requests-rare-and-equivalent.md) — related
 - [At session 1, OSFA students made fewer mistakes per assessment item than Personalized-condition students](osfa-fewer-mistakes-session1-performance.md) — reports the opposite
+- [Students receiving intelligent ITS feedback made significantly fewer errors in hypothesis-testing logic than students receiving verification feedback only](its-feedback-fewer-hypothesis-testing-logic-errors.md) — related
+- [The number of tasks students worked on and attempted step construction for did not differ significantly between feedback conditions](no-difference-tasks-attempted.md) — related
+- [Adding positive feedback let students complete the same SQL-Tutor learning tasks in half the time with the same learning improvement](positive-feedback-halves-time-sql-tutor.md) — related

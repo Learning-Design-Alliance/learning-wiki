@@ -56,3 +56,4 @@ Conceptual argument citing fairness and AI-literature (e.g., Barocas et al., 202
 - [GenAI feedback limitations require students to exercise evaluative judgement](genai-limitations-require-evaluative-judgement.md) — a broader claim this one bears on
 - [ChatGPT-generated text shows inaccuracy, weak logical flow, lack of critical elaboration and non-originality in an author's first-hand test](chatgpt-output-inaccuracy-nonoriginality.md) — related
 - [Gen-AI hallucinates sources and values and produces convincing but incorrect explanations, risking student misinformation](genai-hallucination-convincing-incorrect-explanations.md) — related
+- [AI ethics can serve as a compelling entry point for teacher AI education, increasing teacher confidence and engaged classroom discussions](ai-ethics-entry-point-teacher-training.md) — related

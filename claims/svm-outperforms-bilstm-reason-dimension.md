@@ -47,3 +47,4 @@ Test-set comparison across the three architectures in Results §4.3.2. The artic
 
 ## Related Claims
 - [The best AES models per FRISCO dimension reached strong agreement for Situation (QWK 0.728) and Clarity (QWK 0.763) but only fair agreement for Focus, Reason, and Inference in Indonesian physics essays](aes-frisco-qwk-varies-by-dimension.md) — a broader claim this one bears on
+- [Review-reported model comparisons: a BiLSTM-based model significantly outperformed all baselines (Qiu et al.), and BERT outperformed a semantic-similarity baseline (Yeung et al.)](neural-models-outperform-baselines-review.md) — related

@@ -53,3 +53,4 @@ Mixed-model analysis of the second-to-sixth-grade subsample of the cluster-rando
 ## Related Claims
 - [Playing modern board games in class produced greater pre-post improvement in working-memory updating than regular classes, in both first-grade and second-to-sixth-grade samples](board-games-improve-updating-primary.md) — related
 - [Classroom board-game play improved inhibition in first grade but not in grades two to six, where inhibition and flexibility improved in both groups](board-games-inhibition-grade-dependent.md) — related
+- [Playing students showed significant learning gains in mathematical achievement compared to control classes in grades 2, 4 and 6](teachable-agent-game-significant-math-gains.md) — related

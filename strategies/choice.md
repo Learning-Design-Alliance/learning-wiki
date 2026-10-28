@@ -60,8 +60,10 @@ Choice supports motivation primarily by satisfying the need for autonomy [Autono
 6. Debrief the choice ("What did you pick, and was it a good fit?") to build evaluative judgment for future selections.
 
 ## Related Strategies
+
 - [Academic Choice (Planning, Working, Reflecting)](academic-choice-planning-working-reflecting.md) — a structured cycle that wraps choice in planning and reflection
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — builds the knowledge base learners need to choose well
+- [Implement choice-based personalization at scale by letting learners focus assignments on their own locale or background](choice-based-personalization-at-scale-strategy.md)
 
 ## Examples
 - **Menu-based projects in AP courses** — students choose among essay, podcast, or infographic formats to demonstrate the same rubric-based competency.

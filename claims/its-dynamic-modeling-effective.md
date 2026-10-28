@@ -57,3 +57,4 @@ The review reports meta-analytic evidence that ITS, which model learners' psycho
 - [ITS augmentation: meta-analyses find medium to large learning benefits of ITS over unsupported learning and small to medium gains over less adaptive computer-assisted learning](its-augmentation-benefits-over-unsupported-learning.md) — a narrower finding that bears on this claim
 - [KERMIT observes students' actions and adapts to their knowledge and learning abilities](kermit-adapts-to-student-actions.md) — a narrower finding that bears on this claim
 - [Steenbergen-Hu and Cooper found smaller ITS effects in K-12 school settings where lower-achievers did worse, but more positive ITS effects for university students versus conventional instruction](steenbergen-hu-cooper-school-vs-university-its-effects.md) — related
+- [ACLS has shown benefits compared to individual work, unsupported collaboration, and non-adaptive support](acls-benefits-over-individual-and-non-adaptive.md) — related

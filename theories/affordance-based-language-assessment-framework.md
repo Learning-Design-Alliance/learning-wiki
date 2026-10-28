@@ -53,6 +53,7 @@ The paper proposes an affordance-based framework for language assessment that sh
 - [Ecological Affordance Profile: integrating micro-level observations, formative records, and summative accounts](../elements/ecological-affordance-profile.md)
 - [Assess disruption and reclamation with rubric levels of adaptability and automated disruption-reclamation profiles](../strategies/assess-disruption-reclamation-adaptability.md)
 - [Feedback and feedforward typology for deliberate language practice](../elements/dp-feedback-feedforward-typology.md)
+- [Extend course-by-course learning portfolios into life-long learning profiles stored on the cloud with social media integration](../strategies/life-long-learning-portfolio-strategy.md)
 
 ## Key Sources
 - Quang Nhat Nguyen & Dung Thi Hue Doan. (2025). Affordance-based Approach to Language Assessment. Language Education & Assessment, 8(1). https://doi.org/10.29140/lea.v8n1.103000

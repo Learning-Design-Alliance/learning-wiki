@@ -53,3 +53,4 @@ Repeated-measures ANOVA on the collection comparison task in the randomized trai
 - [The training-condition effect on symbolic arithmetic speed persists after controlling for training task reaction time and accuracy](training-effect-persists-after-task-performance-covariates.md) — related
 - [Engaging symbolic number representations does not by itself prime subsequent symbolic arithmetic: second test-set performance declined in both training groups](symbolic-activation-insufficient-to-prime-arithmetic.md) — related
 - [In Experiment 1, the numerical comparison group was more accurate on symbolic arithmetic than the line-length addition group, the only pairwise accuracy difference](numerical-comparison-beats-line-addition-symbolic-accuracy.md) — related
+- [Children's accuracy in positioning numbers on a number line improved significantly over training in both number ranges](number-line-accuracy-improves-over-training.md) — related

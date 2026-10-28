@@ -49,3 +49,4 @@ Case study observation and email-interview data from the I-TEP course. The study
 - [In a Web-based teacher education course, screen-capture videos and Flash animations modeling the instructor's internal problem-solving processes were the elements students most strongly associated with cognitive apprenticeship modeling](oms-videos-animations-most-impactful-modeling.md) — related
 - [Telegram-based chatbot use declined after initial novelty, with platform friction cited as a barrier](telegram-chatbot-use-declined-novelty-platform-friction.md) — related
 - SIM requires no specialized technology beyond computers or tablets that most schools already provide — reports the opposite
+- [Students with low internet bandwidth could complete the course when offered offline video download and batch mode alternatives](low-bandwidth-mitigation-strategies.md) — related

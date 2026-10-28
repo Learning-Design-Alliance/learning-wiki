@@ -49,3 +49,4 @@ Survey findings from the pilot's four teachers. P1 noted occasional hallucinatio
 - [Teachers report ChatGPT-generated math questions misalign with grade level and topic, are unreliable or unanswerable, and cost time](chatgpt-brainstorming-concerns-misalignment-reliability.md) — a narrower finding that bears on this claim
 - [Mathematics teachers critique ChatGPT-generated generative learning lessons for poor fit to students, boredom, preparation time, missing student-facing materials, mathematical flaws, and required materials](teachers-critique-chatgpt-lesson-output.md) — related
 - [ChatGPT-generated art lesson plans pose challenges of impracticality, overlooked safety issues, and required teacher revision time](chatgpt-lesson-plan-challenges-practicality-safety.md) — related
+- [Teachers report a need for faster lesson planning and material preparation to gain time for higher-value activities](teachers-need-faster-lesson-planning.md) — related

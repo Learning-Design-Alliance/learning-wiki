@@ -48,3 +48,4 @@ Plasticity-as-process analyses in the same 46 adults comparing pre- and post-tra
 - [Lower baseline T1w/T2w myelin map values in all five frontoparietal ROIs predicted greater response-time improvements, but not accuracy gains](lower-myelin-map-values-predict-response-time-gains.md) — related
 - [Lower T1w/T2w ratios predicted response-time gains in primary visual and motor cortex too, suggesting a non-FPS-specific cortical property, while VTA connectivity with control ROIs predicted nothing](myelin-rt-effect-not-specific-to-frontoparietal-system.md) — related
 - [Stronger baseline VTA-lateral prefrontal functional connectivity predicted greater accuracy improvements after short-term working memory training](vta-lpfc-connectivity-predicts-accuracy-gains.md) — reports the opposite
+- [No improvement in students' listening comprehension was observed during the one-month evaluation](no-listening-comprehension-improvement.md) — related

@@ -53,3 +53,4 @@ The article's concluding argument, offered without empirical data: the epistemol
 - [Cognitive partnerships with AI enable students to engage in theoretical and empirical reflection that the authors characterize as genuinely novel epistemic practices](ai-partnership-novel-theoretical-empirical-reflection.md) — a narrower finding that bears on this claim
 - [Over-reliance on GAI risks weakening teaching and social presence and depriving students of foundational skill development](gai-overreliance-risks-presence-and-skills.md) — related
 - [Easy access to AI-generated answers may reduce learners' motivation to engage deeply with material](ai-over-reliance-reduces-deep-engagement.md) — related
+- [Year-long interaction data could replace annual high-stakes standardized testing because it carries more information without taking learning time](interaction-data-could-replace-standardized-testing.md) — related

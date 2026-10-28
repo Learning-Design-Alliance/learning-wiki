@@ -141,3 +141,4 @@ Structured-response survey item on hardware/software problem frequency; ten perc
 - [Participants who accessed the report card site with mobile devices had more difficulty using it](mobile-access-increases-report-card-difficulty.md) — related
 - [Student access to devices and internet rose from about 60 percent in March 2020 to at least 98 percent by March 2021](student-device-internet-access-near-universal.md) — related
 - [Infrastructure barriers — limited internet speed, connectivity problems and lack of technical support — hinder effective AI use in nursing education institutions](infrastructure-barriers-ai-use-nursing-education.md) — related
+- [Students with low internet bandwidth could complete the course when offered offline video download and batch mode alternatives](low-bandwidth-mitigation-strategies.md) — related

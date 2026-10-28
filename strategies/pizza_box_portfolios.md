@@ -59,9 +59,11 @@ The strategy enacts the core mechanism of portfolio assessment — learner parti
 6. End the term with a showcase or student-led conference where learners present their curated box to an authentic audience.
 
 ## Related Strategies
+
 - Student-led conferences — the pizza box is the physical agenda and evidence base for the conference conversation
 - Exit tickets and daily work collection — these feed the box; the box gives short-cycle work a long-term home
 - Learning journals — written reflections stored in the box give the artifacts a narrative layer
+- [Extend course-by-course learning portfolios into life-long learning profiles stored on the cloud with social media integration](life-long-learning-portfolio-strategy.md)
 
 ## Examples
 - A second-grade classroom keeps a "My Best Work" pizza box on a classroom shelf; before parent-teacher conferences, each child chooses three pieces and practices explaining them, then leads the conference with the box open on the table.

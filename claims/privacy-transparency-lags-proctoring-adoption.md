@@ -68,3 +68,5 @@ The review's own synthesis (attributed to Khalil et al. 2022 and Nigam et al. 20
 - [No included ITS study considered AI ethics, and the review calls for longer interventions, larger and more diverse samples, and ethical investigation](its-research-gaps-ethics-and-design.md) — related
 - [Issues of fairness, accountability, transparency and ethics are rarely discussed within AIED and neighboring educational technology research communities](fate-rarely-discussed-in-aied.md) — related
 - [Legitimate concerns exist about aied rollout regarding datafication, surveillance, and possibly poor pedagogy](aied-rollout-datafication-surveillance-concerns.md) — related
+- [Only 4% of AIED ethics papers address emotion-related ethical concerns, dominated by affective surveillance consequences](aied-emotion-ethics-underexplored.md) — related
+- [AIED technologies span school administration to personalised learning, with ethical risks including surveillance, privacy loss, and dehumanising prescriptive teaching](aied-technologies-applications-ethical-challenges-synthesis.md) — related

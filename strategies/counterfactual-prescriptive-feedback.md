@@ -42,7 +42,9 @@ For students predicted high-risk, the dashboard models a minimal set of changes 
 - [Lad Theoretical Grounding Sct Srl Tl](../theories/lad-theoretical-grounding-sct-srl-tl.md)
 
 ## Related Strategies
+
 - [Sensenablr Dashboard](../products/sensenablr.md)
+- [Use ChatGPT via API to convert counterfactual analytics outputs into human-readable prescriptive feedback for learners](chatgpt-counterfactual-feedback-conversion.md)
 
 ## Examples
 -

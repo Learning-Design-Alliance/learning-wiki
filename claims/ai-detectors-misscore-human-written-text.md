@@ -58,3 +58,4 @@ A single anecdotal test reported in the dialogue: a paper written without AI was
 - [Detection-centered academic integrity regimes are unreliable and potentially biased, making sole reliance on AI detectors unsuitable for high-stakes decisions](ai-detection-unreliable-biased-high-stakes.md) — related
 - [In a paired exploratory comparison, extensive machine rewriting by a commercial humanizer materially degraded the manuscript while changing the detection score only slightly](humanizer-rewriting-small-score-change.md) — related
 - [Educators run more proctored AI-free assessments conditionally on compromised outcomes, and reject AI detectors based on classroom experience of false positives](conditional-ai-free-assessment-detector-false-positives.md) — related
+- [Neither humans nor machines reliably detect machine-generated text; humans detect it at chance level](ai-text-detection-at-chance-level.md) — related

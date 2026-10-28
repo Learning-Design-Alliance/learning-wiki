@@ -60,3 +60,4 @@ Correlation analysis (Table 4) among participants in the two AI-assisted conditi
 - [Individual acceptance of group constructions depends on reflection and reconciliation processes triggered by differing opinions, sometimes occurring after the group session](reflection-reconciliation-post-group-processes.md) — related
 - [ChatGPT recommendation accuracy was comparable between the open-support and reflection conditions, ruling out unequal exposure to erroneous advice](comparable-chatgpt-recommendation-accuracy.md) — related
 - [Open ChatGPT support increases college students' final decision confidence relative to independent decision-making, and reflection attenuates the boost](chatgpt-support-increases-final-confidence.md) — related
+- [Open student models made students more aware of knowledge deficiencies and improved their learning decisions](open-student-models-self-assessment.md) — related

@@ -50,3 +50,4 @@ Student attitude survey data reported in the article alongside the experimental 
 - Embedded aids address the content-area reading problem by helping weak readers read textual material and helping effective readers transfer training across disciplines, via a running commentary explaining key concepts, terminology, and questions. — related
 - [Learners hold positive attitudes toward glosses, but their perceptions of which gloss type works best do not match measured performance](gloss-perceptions-mismatch-performance.md) — related
 - [Optional 'What is Biology Good For?' essays achieved >75% weekly participation and >90% of students reported they made science relevance clear](good-for-essays-relevance-motivation.md) — related
+- [Children showed high engagement and enjoyment of MIXER, with nearly 90% wanting to use it again](mixer-high-engagement-enjoyment.md) — related

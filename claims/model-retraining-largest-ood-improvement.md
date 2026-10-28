@@ -53,3 +53,4 @@ Retraining experiment on labeled OOD datasets reported in Results Section 5.4 (T
 - [Text splicing into single sentences improves ML and BERT Bloom classification on the Scaria OOD dataset](text-splicing-improves-ood-bloom-classification.md) — related
 - [Feature-based ML Bloom classifiers trained on IID data degrade sharply on out-of-distribution AI-assisted questions](ml-bloom-classifiers-degrade-ood-aeq.md) — related
 - [Appending learning objectives to questions improves Bloom classification on the AF dataset](learning-objectives-anchor-bloom-classification.md) — related
+- [All surveyed automatic question difficulty prediction studies frame the task as supervised learning, mostly as classification of pre-defined difficulty categories](difficulty-prediction-supervised-dominant.md) — related

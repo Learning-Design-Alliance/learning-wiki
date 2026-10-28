@@ -50,3 +50,4 @@ Meta-analysis by Guthrie et al. (2007) summarizing 11 CORI studies with elementa
 ## Related Claims
 - [CORI students outperformed SI and TI comparison students on standardized reading tests and were rated higher in reading motivation, in quasi-experimental studies with large effect sizes](cori-outperformed-comparisons-reading.md) — related
 - [Field-based motivation interventions produce on average a medium overall effect size (0.49), with quasi-experimental designs yielding larger effects than randomized designs, and studies using multiple theoretical frameworks averaging 0.41](field-motivation-interventions-medium-effect-0-49.md) — related
+- [Context-personalized AI-generated learning material increases primary students' intrinsic motivation and interest compared with standard material](gai-personalized-material-motivation-interest.md) — related

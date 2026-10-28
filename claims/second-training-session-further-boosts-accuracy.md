@@ -68,3 +68,4 @@ Session 2 final-response analysis: main final accuracy significantly improved, �
 - [No-conflict control accuracy remained at ceiling after training, arguing against guessing and a reversed-heuristic account](no-conflict-ceiling-rules-out-guessing.md) — related
 - [A single debiasing training session significantly increases both intuitive and deliberate accuracy on classic reasoning tasks compared to control](single-session-debiasing-boosts-intuitive-accuracy.md) — related
 - [Students become faster and more accurate in equation rearrangement over a short practice session even without feedback](short-practice-improves-equation-rearrangement.md) — related
+- [The student model rapidly adapts to a child's knowledge level, reaching the first key skill after about 148 tasks](rapid-adaptation-to-learner-knowledge-level.md) — related

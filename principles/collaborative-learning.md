@@ -47,7 +47,7 @@ sources:
 # Collaborative Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 81 claims (29 for, 48 mixed, 4 against) · 84 studies (19 causal, 16 review, 15 theoretical, 11 associational, 10 quant-synthesis, 9 qualitative, 4 design), `q1`–`q4` · 12 of 84 report an effect size · 75 claims rest on one study
+> **Evidence** · 82 claims (30 for, 48 mixed, 4 against) · 85 studies (19 causal, 16 review, 15 theoretical, 11 associational, 10 quant-synthesis, 9 qualitative, 5 design), `q1`–`q4` · 12 of 85 report an effect size · 76 claims rest on one study
 
 ## Conditional relationship
 
@@ -162,6 +162,7 @@ Claims this page cites that do not change the model above. Each was read against
 - [Pairs managed mutual awareness through spatial and temporal affordances and developed attention-getting protocols finer-grained than turn-taking](../claims/awareness-attention-management-shared-workspaces.md) [~W] — read 2026-10-19: qualitative video analysis of six pairs; tells an observer that turn counts miss how pairs coordinate, but changes no decision.
 - [Dyads collaborating via flexible written paper media exhibit invariant communicative practices across media, participants and topics](../claims/invariant-communicative-practices-artifact-mediated-collaboration.md) [~W] — read 2026-10-19: same six-pair study; a description of communicative practice, no learning outcome.
 - [Face-to-face collaboration scripts focus on individual knowledge acquisition activities, while computer-mediated scripts focus on communicative-coordinative processes](../claims/f2f-vs-cscl-script-focus-difference.md) [~W] — attached 2026-10-22 from Kollar et al. (2006), which proposed "Design collaboration scripts that support both participation and coordination and induce individual knowledge acquisition and metacognition".
+- [Conflicts in group problem solving, if well employed, can act as triggers of cognitive changes that help refine the group's solution](../claims/well-employed-conflicts-trigger-cognitive-change.md) [+W] — attached 2026-10-28 from Patricia Azevedo Tedesco (2003), which proposed "Design collaborative environments so that conflicts inherent to group problem solving are mediated rather than suppressed, because well-employed conflicts refine solutions".
 
 ## Objective and learner-valued goal
 

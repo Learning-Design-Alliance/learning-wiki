@@ -70,3 +70,4 @@ The review reports, citing Buck et al. (2014) and Moebius-Clune et al. (2011), t
 - [Female students show stronger academic self-confidence, more positive attitudes, higher achievement, and fewer absences, but this advantage diminishes almost completely under mastery learning](sex-advantage-diminishes-under-mastery-learning.md) — related
 - [The highest level of inquiry may not be the 'best' approach for science learning](open-inquiry-highest-level-not-best.md) — related
 - [Open inquiry affects students' motivation, though one reviewed study found no significant difference in collaborative attitudes](open-inquiry-student-motivation.md) — related
+- [Students in the ICLS experiments were satisfied with the system and mostly found it useful for collaborating, but were concerned about its slowness](icls-students-satisfied-and-found-useful.md) — related

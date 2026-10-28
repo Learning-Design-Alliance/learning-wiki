@@ -9,6 +9,7 @@ generated:
   at: 2026-10-08
 evidence_strength: weak
 newest_evidence: 2024
+source_checked: 2026-10-28
 sources:
   - id: weatherholtz-2024
     resource: "https://doi.org/10.1007/978-3-031-72315-5_32"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · checked against its sources 2026-10-28 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` An earlier between-group cross-sectional study on a single school year found a positive relationship between time on the platform and standardized math scores, with residual confounding concerns. [→ Weatherholtz 2024](#weatherholtz-2024)
@@ -53,3 +54,4 @@ The article describes prior research on the same platform using a between-group 
 - [Student-developed specialized modules attract substantial online use and are slated for cMOOC reuse with data-based evaluation](student-modules-online-use-cmooc-reuse.md) — related
 - [Confounding may explain the large retention effects reported for the Course Signals early warning system](course-signals-confounding-number-of-classes.md) — related
 - [Sensitivity analysis indicated medium-to-large unobserved confounding would be needed to eliminate the reported pandemic effects](unobserved-confounder-sensitivity-pandemic-effects.md) — related
+- [Large-scale online platforms can run continuously-randomized trials across thousands of participants varying dozens or hundreds of parameters (per the article, citing prior work)](large-scale-platforms-randomized-trials.md) — related

@@ -56,3 +56,4 @@ The review reports, citing Holmes et al. and Woolf, that ITS can improve learnin
 - [AutoTutor cannot handle most student questions, so student question frequency extinguishes quickly in tutoring sessions](autotutor-student-questions-extinguish.md) — a narrower finding that bears on this claim
 - [AutoTutor's learning gains are virtually equivalent to those of 1-to-1 human tutoring in direct comparisons](autotutor-gains-equivalent-to-human-tutoring.md) — a narrower finding that bears on this claim
 - [Intelligent tutoring systems with dynamic student modeling increase learning gains over regular instruction](its-dynamic-modeling-effective.md) — related
+- [Apprentice learner models are domain-general: they learn expert models across eight tutor domains without specialized domain knowledge](apprentice-learner-models-domain-general.md) — related

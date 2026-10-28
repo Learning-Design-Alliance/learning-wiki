@@ -64,3 +64,4 @@ This is a design-based study with a small sample (13 children total across two t
 - Computer-based simulation tasks assess problem-solving, reasoning, and evaluation skills at scale — related
 - [SES measurement faces validity and practical challenges including student knowledge of parental data and missing data in single-parent families](ses-measurement-challenges-student-report.md) — related
 - [Student modelling research follows two main trends: describing student attributes versus building representations that reason about and simulate student behaviour.](two-trends-student-modelling-description-simulation.md) — related
+- [The learning environment can engage children in advanced mathematical thinking in early education](game-engages-advanced-mathematical-thinking.md) — related

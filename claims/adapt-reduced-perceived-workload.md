@@ -54,3 +54,4 @@ Authors' summary of the 12-participant evaluation study, in which all participan
 - [Educators benefit from AI chatbots through time-saving administrative assistance and improved pedagogy](chatbot-educator-time-saving-pedagogy.md) — a broader claim this one bears on
 - [Teachers perceived the AIED-U system as a mixed experience: valued exercise lists and reports, but recognition imprecision and workflow demands added work](teachers-mixed-perception-aied-u-system.md) — related
 - [Experts perform differentiation activities across four phases: period preparation, lesson preparation, the lesson, and post-lesson evaluation](four-phases-expert-differentiation.md) — related
+- [Teachers report a need for faster lesson planning and material preparation to gain time for higher-value activities](teachers-need-faster-lesson-planning.md) — related

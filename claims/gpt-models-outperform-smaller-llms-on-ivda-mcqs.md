@@ -58,3 +58,4 @@ Benchmark evaluation of four chatbots on 70 IVDA MCQs across 12 prompt variants 
 - [ChatGPT answered unsupervised web-based MCQ assessments with a mean accuracy of 70% (range 35–100%)](chatgpt-wba-mcq-mean-70-percent.md) — related
 - [Larger Llama Guard models outperform smaller ones on education-prompt classification, with the 8B model best in accuracy, recall, and F1](llama-guard-scaling-trend-education-classification.md) — related
 - [Model and prompt choice account for only a small share of misalignment error, which concentrates in transcript-conditioned higher-order interactions](variance-decomposition-model-prompt-weak-levers.md) — related
+- [GPT-4 identified a correct answer choice for nearly all generated questions, with a minority of spelling or selection errors](gpt4-correct-answer-choices-97-percent.md) — related

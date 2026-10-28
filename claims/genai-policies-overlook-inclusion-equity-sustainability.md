@@ -65,3 +65,5 @@ Qualitative policy analysis of GenAI policies from thirty highly ranked universi
 - [Academic integrity terms dominate HI/HIM AI policy content while healthcare regulatory references (HIPAA, FERPA, IRB) appear infrequently](integrity-dominates-regulatory-terms-rare.md) — related
 - [Uneven GenAI access across teams creates a two-speed culture pressuring teams without access despite equally demanding work](genai-two-speed-culture-uneven-team-access.md) — a narrower finding that bears on this claim
 - [Eight AI Topics Cover Main Processes of Intelligent Agent Operation](eight-ai-topics-cover-agent-processes.md) — related
+- [Cultural difference and inclusion challenges affect equity: 53% of relevant papers flag insufficient cross-cultural tailoring, and facial recognition misidentifies darker skin tones](aied-cultural-inclusion-challenges.md) — related
+- [Capacity building on AIED ethics covers 41% of studies, yet only four of 42 training studies assessed impact, and ethics training is largely absent](aied-ethics-capacity-building-gap.md) — related

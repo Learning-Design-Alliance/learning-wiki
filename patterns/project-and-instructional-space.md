@@ -15,7 +15,7 @@ grain_size: unit
 # Project Space and Instructional Space
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 18 claims (12 for, 5 mixed, 1 against) · 23 studies (9 quant-synthesis, 4 causal, 4 theoretical, 3 review, 3 qualitative), `q1`–`q4` · 9 of 23 report an effect size · 13 claims rest on one study
+> **Evidence** · 18 claims (12 for, 5 mixed, 1 against) · 24 studies (9 quant-synthesis, 4 causal, 4 qualitative, 4 theoretical, 3 review), `q1`–`q4` · 9 of 24 report an effect size · 12 claims rest on one study
 
 ## Description and scope
 

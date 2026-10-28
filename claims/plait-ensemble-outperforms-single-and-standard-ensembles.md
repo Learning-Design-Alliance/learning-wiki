@@ -51,3 +51,4 @@ Per-student and per-class analysis of the same plait experiments (Fig. 2 and Fig
 - [Rank-averaged ensembling stabilized predictions but did not outperform the single base model](ensemble-stabilizes-but-not-better-than-model1.md) — related
 - [A Soft-Voting Ensemble achieves the best behavioral-dataset attrition prediction (CV F1 = 0.737, test recall = 0.769)](soft-voting-ensemble-behavioral-attrition-f1.md) — related
 - [Single log-file features per task show very small p-values but weak fit, with number of hints seen the strongest single predictor of perceived task-difficulty.](single-per-task-features-weak-fit.md) — related
+- [The review reports that a log-file ensemble approach for perceived task-difficulty recognition outperforms classical ensemble methods](logfile-ensemble-outperforms-classical-ensembles.md) — possibly the same claim (merge candidate)

@@ -48,3 +48,4 @@ Narrative review statement citing multiple prior studies. The article notes "the
 - [Chatbot-based instruction enhanced secondary students' learning experience by enabling self-paced study with less stress, time savings, and maintained motivation](chatbot-enhances-learning-experience-self-paced.md) — related
 - [Review syntheses: VR/AR most often improved academic achievement and motivation, but sometimes performed no better than conventional technologies](vr-ar-advantages-achievement-motivation-with-null-contrast.md) — related
 - [In one mixed-methods study of university students, reported in a review, gamified vocabulary learning gave better test results, motivation and satisfaction than traditional instruction](gamification-raises-motivation-satisfaction.md) — related
+- [ACLS has shown benefits compared to individual work, unsupported collaboration, and non-adaptive support](acls-benefits-over-individual-and-non-adaptive.md) — related

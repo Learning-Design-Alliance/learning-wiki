@@ -89,6 +89,7 @@ Cognitive conflict supports learning by making naive or partial conceptions visi
 **[Structured Academic Controversy (Johnson & Johnson)](https://www.co-operation.org/what-is-cooperative-learning/)** — Students argue one side of a controversial issue in pairs, then switch sides and argue the opposite, forcing engagement with contradictory evidence.
 
 **[Erroneous examples in math tutoring](https://link.springer.com/article/10.1007/s10648-006-9002-3)** — Systems such as [ASSISTments](https://www.assistments.org) present incorrect worked solutions for learners to debug, converting error detection into conceptual learning.
+- [Mediation suggesting courses of action that provoke articulation and reflection to lead groups toward more refined solutions](../strategies/mediation-provokes-articulation-reflection.md)
 
 ## Key Sources
 - Limón, M. (2001). On the cognitive conflict as an mechanism of conceptual change. *Educational Psychology Review, 13*(4), 357–383.

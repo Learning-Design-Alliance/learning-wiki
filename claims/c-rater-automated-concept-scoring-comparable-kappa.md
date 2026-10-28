@@ -46,3 +46,4 @@ Review narration of the c-rater line of work (Sukkarieh and Stoyanchev 2009), wh
 
 ## Related Claims
 - [Klein '11 LSA approach achieved its desired effectiveness only after manually marking the majority of student answers, totaling 83 percent across scenarios](klein-lsa-manual-marking-83-percent.md) — related
+- [Automatically generated problems doubled the learning rate compared to manually defined problems](auto-generated-problems-doubled-learning-rate.md) — related

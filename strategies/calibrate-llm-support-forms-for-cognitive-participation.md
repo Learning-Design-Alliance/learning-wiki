@@ -48,6 +48,7 @@ The article recommends that the educational value of future AI assistants lies i
 - [Pursue research yielding conditions and parameters for when to use information giving versus information withholding interactions](research-conditions-parameters-information-giving-withholding.md)
 - [Design AI configurations that preserve generative work: feedback-only audiences, generate-then-compare, and calibrated teaching interactions](preserve-generative-work-ai-configurations.md)
 - [AI-supported choice architectures that build agency while the teacher retains curricular scope](ai-predictive-agency-pathways.md)
+- [Design hypothesis-testing tasks that require students to reason about relations between steps rather than fill in pre-given steps](tasks-addressing-logical-reasoning-between-steps.md)
 
 ## Examples
 -

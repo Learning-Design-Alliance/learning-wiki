@@ -63,6 +63,7 @@ Questioning that targets the *reasoning behind* an error converts a mistake into
 - [Action-Oriented Feedback](action-oriented-feedback.md) — questioning is a form of feedback that tells learners *where their thinking went wrong* rather than what the answer is
 - [Question students about why a correct answer was chosen, rather than why an error was made](question-correct-answers-not-errors.md)
 - [Design learning-oriented LLM prompts around guided questions, step-by-step support, reflection, and a thinking partner rather than direct answers](learning-oriented-llm-prompt-strategy.md)
+- [Use agent-driven question dialogue to challenge mathematical thinking and role-model learner behaviour](agent-driven-question-dialogue-strategy.md)
 
 ## Examples
 - Instead of telling a student they cannot subtract a larger number from a smaller number, ask: "Do we have enough ones to take 7 ones from 3 ones?" Instead of directly correcting an incorrectly renamed minuend, ask: "Does 8 tens and 13 tens equal 83?"

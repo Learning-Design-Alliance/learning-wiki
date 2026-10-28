@@ -46814,5 +46814,249 @@
  "scaffolding\ttwo levels of student guidance\tsingle or unspecified level of guidance": {
   "label": "multiple-level guidance vs single-level or unspecified guidance",
   "treatment_is_a": true
+ },
+ "active-learning\tactive learning\tpassive lectures": {
+  "label": "active learning vs passive lectures",
+  "treatment_is_a": true
+ },
+ "active-learning\thands-on collaborative activities\tnot stated": {
+  "label": "hands-on collaborative activities vs unspecified comparison",
+  "treatment_is_a": true
+ },
+ "active-learning\tnon-expert tutoring discourse\tclassroom instruction": {
+  "label": "peer tutoring discourse vs classroom instruction",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tPersonalized assignments using locally relevant topics and learner-found sources\tGeneric assignments using assigned climate-related resources": {
+  "label": "choice-based local personalization vs generic assigned content",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tchoice of resources about the learner’s local region\tgiven regions or resources on generic climate topics": {
+  "label": "choice-based local personalization vs generic assigned content",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tchoice-based personalization focused on local issues\tgeneric instruction focused on given regions": {
+  "label": "choice-based local personalization vs generic assigned content",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tchoice-based personalization using local climate topics\tgeneric climate topics": {
+  "label": "choice-based local personalization vs generic assigned content",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tchoice-based personalization using locally relevant climate assignments\tgeneric climate assignments": {
+  "label": "choice-based local personalization vs generic assigned content",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tchoice-based personalized assignments focused on the learner's locale\tgeneric assignments on given regions and resources": {
+  "label": "choice-based local personalization vs generic assigned content",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tpersonalized assignment choice based on learners’ local region\tgeneric assignment with given regions and resources": {
+  "label": "choice-based local personalization vs generic assigned content",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tpersonalized assignments focused on the learner’s local climate issues\tgeneric assignments focused on given regions and resources": {
+  "label": "choice-based local personalization vs generic assigned content",
+  "treatment_is_a": true
+ },
+ "case-comparison\tcase comparisons\tsingle cases": {
+  "label": "case comparisons vs single cases",
+  "treatment_is_a": true
+ },
+ "case-comparison\tone case-comparison task\tthe other case-comparison task": {
+  "label": "one case-comparison task vs another case-comparison task",
+  "treatment_is_a": true
+ },
+ "debriefing\tMIXER followed by classroom discussion forum\tMIXER without classroom discussion forum": {
+  "label": "debriefing with classroom discussion forum vs without classroom discussion forum",
+  "treatment_is_a": true
+ },
+ "example-problem-sequencing\talternative presentation of examples and problems\tonly examples": {
+  "label": "alternating examples and problems vs examples only",
+  "treatment_is_a": true
+ },
+ "example-problem-sequencing\talternative presentation of examples and problems\tproblem-solving alone": {
+  "label": "alternating examples and problems vs problem solving alone",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tanti-cognate instruction\tsame prompt without the instruction": {
+  "label": "explicit instruction vs no explicit instruction",
+  "treatment_is_a": true
+ },
+ "fading\tfading support over time\tsupport not described as fading": {
+  "label": "fading vs non-fading support",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tKERMIT with feedback\tlimited-feedback system with no feedback on solutions": {
+  "label": "feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\timmediate AI-generated feedback before submission\tfeedback received through traditional professor or peer review": {
+  "label": "immediate vs delayed feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tfeedback with a personality-targeted slant\tcomparison condition not stated": {
+  "label": "personality-targeted feedback vs non-targeted or unspecified feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tintelligent ITS feedback\tstepwise verification feedback": {
+  "label": "intelligent feedback vs stepwise verification feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tintelligent feedback\tstepwise verification feedback": {
+  "label": "intelligent feedback vs stepwise verification feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tintelligent feedback addressing steps and reasoning\tstepwise verification feedback": {
+  "label": "intelligent feedback vs stepwise verification feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tintelligent feedback on hypothesis-testing reasoning\tstepwise verification feedback": {
+  "label": "intelligent feedback vs stepwise verification feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tintelligent feedback on reasoning in construction tasks\tstepwise verification feedback": {
+  "label": "intelligent feedback vs stepwise verification feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tintelligent feedback on steps and reasoning\tstepwise verification feedback": {
+  "label": "intelligent feedback vs stepwise verification feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tpersonality- and performance-adapted emotional support message\talternative emotional support message or comparison condition not stated": {
+  "label": "personality- and performance-adapted emotional support vs alternative or non-adapted emotional support",
+  "treatment_is_a": true
+ },
+ "feedback-type\tpositive and negative feedback\tnegative feedback only": {
+  "label": "positive and negative feedback vs negative feedback only",
+  "treatment_is_a": true
+ },
+ "feedback-type\tprinciple-level feedback about violated domain principles, such as Hint and All errors\tother feedback levels": {
+  "label": "principle-level feedback vs other feedback levels",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tCourse Signals predictive reporting and practice recommendations\tnot specified": {
+  "label": "predictive formative reporting with practice recommendations vs no specified reporting or recommendations",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tbeing monitored during collaborative work\tnot being monitored": {
+  "label": "monitored collaborative work vs unmonitored collaborative work",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tyear-long interaction assessment data\tannual high-stakes standardized test": {
+  "label": "year-long interaction-based assessment vs annual high-stakes standardized testing",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tyear-long interaction-based assessment integrated with instruction\tannual high-stakes standardized testing": {
+  "label": "year-long interaction-based assessment integrated with instruction vs annual high-stakes standardized testing",
+  "treatment_is_a": true
+ },
+ "gamification\tOperation ARA/ARIES serious game\tno instruction": {
+  "label": "serious game vs no instruction",
+  "treatment_is_a": true
+ },
+ "gamification\tteachable-agent arithmetic game\tstandard instruction": {
+  "label": "game-based instruction vs standard instruction",
+  "treatment_is_a": true
+ },
+ "gamification\tteachable-agent arithmetic game\tstandard mathematics instruction": {
+  "label": "game-based instruction vs standard instruction",
+  "treatment_is_a": true
+ },
+ "practice-amount\tcontrol-group test 3\tcontrol-group test 1": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\tmore training iterations\tfewer training iterations": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "prompts\tGPT-3-driven incentive agent\thand-crafted incentive agent": {
+  "label": "GPT-3-driven incentive agent vs hand-crafted incentive agent",
+  "treatment_is_a": true
+ },
+ "prompts\tGPT-3-driven open agent\tGPT-3-driven incentive agent": {
+  "label": "open agent vs incentive agent",
+  "treatment_is_a": true
+ },
+ "prompts\tGPT-3-driven open agent\thand-crafted incentive agent": {
+  "label": "GPT-3-driven open agent vs hand-crafted incentive agent",
+  "treatment_is_a": true
+ },
+ "prompts\tGPT-3.5 with re-prompting\tGPT-3.5 first response only": {
+  "label": "re-prompting vs first response only",
+  "treatment_is_a": true
+ },
+ "prompts\tadaptive prompts\tnot stated": {
+  "label": "adaptive prompts vs non-adaptive prompts",
+  "treatment_is_a": true
+ },
+ "prompts\tre-prompting until an explicit answer was produced\tevaluating only the first response": {
+  "label": "re-prompting vs first response only",
+  "treatment_is_a": true
+ },
+ "prompts\tstructured prompts requiring students to compare their observations with AI output and explain revision decisions\tinitial self-assessment before AI interaction": {
+  "label": "structured reflective prompts after AI interaction vs initial self-assessment before AI interaction",
+  "treatment_is_a": true
+ },
+ "scaffolding\tMORE refused requested help when it judged help unnecessary\trequested help was provided": {
+  "label": "contingent help refusal vs unconditional help provision",
+  "treatment_is_a": true
+ },
+ "scaffolding\tadaptive tutorial dialogues selected and individualized using the student model\tnon-adaptive tutorial dialogues": {
+  "label": "adaptive vs non-adaptive scaffolding",
+  "treatment_is_a": true
+ },
+ "scaffolding\tsupport adapted to student collaborative skill\tsupport not adapted to collaborative skill": {
+  "label": "adaptive vs non-adaptive scaffolding",
+  "treatment_is_a": true
+ },
+ "scaffolding\tvideo comments organized by Delivery, Speech, Structure, and Visual aids aspects\tno aspect-based comparison reported": {
+  "label": "aspect-based vs non-aspect-based feedback",
+  "treatment_is_a": true
+ },
+ "self-explanation\tadding menu-based self-explanation\tno self-explanation": {
+  "label": "self-explanation vs no self-explanation",
+  "treatment_is_a": true
+ },
+ "simulation\tMIXER intelligent-agent experience\tcontrol": {
+  "label": "simulation vs control",
+  "treatment_is_a": true
+ },
+ "simulation\tMIXER interactive simulation\tcontrol condition": {
+  "label": "simulation vs control",
+  "treatment_is_a": true
+ },
+ "test-format\tGPT-4-created automated tests\tnot stated": {
+  "label": "GPT-4-created automated tests vs not stated",
+  "treatment_is_a": true
+ },
+ "test-format\tTest 2\tTest 1": {
+  "label": "Test 2 vs Test 1",
+  "treatment_is_a": true
+ },
+ "test-format\tTest 2\tthe other tests": {
+  "label": "Test 2 vs other tests",
+  "treatment_is_a": true
+ },
+ "test-format\trandom item selection\tfixed-order item selection": {
+  "label": "random item selection vs fixed-order item selection",
+  "treatment_is_a": true
+ },
+ "test-format\trandom item selection\tweighted-random item selection": {
+  "label": "random item selection vs weighted-random item selection",
+  "treatment_is_a": true
+ },
+ "test-format\tterms repeated across tests\tthe same terms in other test contexts": {
+  "label": "terms repeated across tests vs the same terms in other test contexts",
+  "treatment_is_a": true
+ },
+ "worked-examples\tadding worked examples\tnot adding worked examples": {
+  "label": "worked examples vs no worked examples",
+  "treatment_is_a": true
+ },
+ "worked-examples\tone-shot exemplars\tprompting without one-shot exemplars": {
+  "label": "worked examples vs prompting",
+  "treatment_is_a": true
  }
 }

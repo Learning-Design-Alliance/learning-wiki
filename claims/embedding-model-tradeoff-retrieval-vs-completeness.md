@@ -50,3 +50,4 @@ Comparison of four model-embedding configurations in Table IV (context recall, a
 - [DysLexLens achieves a mean Answer Relevancy of 0.75 across 30 responses to research questions and follow-ups on dyslexia-AI Reddit data](dyslexlens-mean-answer-relevancy-075.md) — related
 - [Standard semantic retrieval alone does not reliably recover the pedagogically required chunk types, with comparison chunks retrieved worst (14.3% on the real corpus)](semantic-retrieval-insufficient-pedagogical-content.md) — related
 - [DysLexLens is moderately robust to paraphrased queries (Answer Relevancy 0.58) but sensitive to keyword-perturbed queries (0.34)](query-robustness-paraphrase-keyword-perturbation.md) — related
+- [QBERT-RR outperforms the E5 embedding model on question topic and equivalence tasks while E5 leads on answer retrieval](qbert-rr-vs-e5-task-dependent.md) — related

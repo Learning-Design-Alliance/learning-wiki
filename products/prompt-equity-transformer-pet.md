@@ -27,7 +27,8 @@ An LLM-based accessibility middleware agent developed by Lier Jin et al. that re
 - [After PET normalization, no statistically significant performance differences remain between user cohorts](../claims/pet-eliminates-significant-accessibility-disparities.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [SQLSpaces](sqlspaces.md)
 
 ## Key Sources
 - Lier Jin, Lan Hu, Binqi Shen, Hanyu Cai, and Yuting Xin. (2026). Same Question, Different Answer? Measuring and Mitigating Prompt Privilege for Equitable AI Access. https://arxiv.org/abs/2608.08942

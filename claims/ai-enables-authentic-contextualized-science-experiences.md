@@ -77,3 +77,4 @@ RQ3 theme on bridging virtual and real-world practice. Repeated virtual practice
 - [Teachers report AI tools enhance students' higher-order scientific skills including experimental design, inquiry, hypothesis testing, and argumentation](ai-enhances-higher-order-scientific-skills.md) — related
 - [Digital tools complemented hands-on investigations by providing opportunities not possible in the classroom and letting children easily practice what they learned in hands-on activities.](nico-nor-digital-tools-complement-hands-on.md) — related
 - [Simulator-based VET instruction in this study centres on volume training of routine tasks rather than rehearsing specific high-stakes, risky situations.](vet-simulator-instruction-volume-training-not-high-stakes.md) — related
+- [AIED techniques did not come to encompass fully integrated practical learning environments as hoped in 1998](aied-integration-expectation-unfulfilled.md) — related

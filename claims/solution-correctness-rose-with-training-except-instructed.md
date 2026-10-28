@@ -46,3 +46,4 @@ Outcome measure from the testing phase of the 36-dyad experiment: two thirds of 
 
 ## Related Claims
 - [Reflected case-based training combined with explicit strategy instruction and adaptive tutoring yields the best transfer performance, whereas strategy instruction without tutoring adds no benefit over case-based training alone](tutored-strategy-training-most-effective-for-inference-drawing.md) — related
+- [Probability of correctly solving key-skill tasks rose by an estimated 21.8% over the training period](key-skill-accuracy-improves-21-8-percent.md) — related

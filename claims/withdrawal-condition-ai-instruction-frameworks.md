@@ -57,3 +57,4 @@ Theoretical argument in the conclusion of a design-proposal article. The authors
 - The AI Index discourse analysis provides no test of intervention effects; the study's contribution is conceptual and agenda-setting — related
 - [Proposition 1: outcome-aligned ownership performances will predict later individual transfer beyond AI-assisted product quality alone](proposition-1-ownership-predicts-transfer.md) — related
 - [In AI-assisted writing, the combined FRAC+APCA intervention produced the highest writing quality gains, with FRAC alone exceeding APCA alone, across T1–T3](frac-combined-highest-writing-quality-gains.md) — a narrower finding that bears on this claim
+- [Timing of support poses the assistance dilemma, and no empirically validated principles yet exist for when and how much support to give collaborating students](assistance-dilemma-timing-no-validated-principles.md) — related

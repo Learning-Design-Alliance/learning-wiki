@@ -166,6 +166,7 @@ A score on a rubric, agreement between assessors, a threshold's defensibility, l
 - [Learning Contracts](../elements/learning-contracts.md)
 - [Learning Contracts](../strategies/learning_contracts.md)
 - [Negotiate learning contracts at the start of term and allow test retakes until mastery](../strategies/negotiate-contracts-allow-retakes.md)
+- [Separate competency assessment from courses, conducted by an independent unit using evidence-centered assessment design](../strategies/independent-competency-assessment-separation.md)
 
 ## Key Sources
 - Le, C., Wolfe, R. E., & Steinberg, A. (2014). *The past and the promise: Today's competency education movement*. Jobs for the Future.

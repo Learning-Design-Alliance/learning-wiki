@@ -53,3 +53,4 @@ Confidence-rating analysis (six participants removed for logging errors; one ite
 - [Students like problem solving more than erroneous examples and find its interface easier, though it yields weaker delayed learning](liking-is-not-learning-decimals-tutor.md) — related
 - [Erroneous examples show no general learning benefit over correct examples in most comparisons, but outperform them for negative knowledge in some studies](errexs-vs-correx-mixed-benefit.md) — related
 - [Intelligent Novice error-correction tutoring produced better delayed transfer and immediate isomorphic performance than the Expert tutor in spreadsheet learning](intelligent-novice-error-correction-better-transfer.md) — related
+- [Going back to easier skills immediately reduces the error rate and increases the learning rate](going-back-improves-error-rate-and-learning-rate.md) — related

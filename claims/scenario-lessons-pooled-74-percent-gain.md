@@ -75,3 +75,4 @@ Per-lesson ANOVAs with time as factor (post vs. pre) on tutors' pretest-posttest
 - [The best AI tutors exceeded human mean learning gains in Quantitative domains while human tutoring led pooled AI means in all Verbal domains](best-ai-tutors-lead-quantitative-not-verbal-domains.md) — related
 - [Pooled AI tutoring produces statistically equivalent GRE learning gains to expert human tutoring](pooled-ai-tutoring-equivalent-gre-learning-gains.md) — related
 - [An approximately hour-long interactive computer tutorial on orthographic projection produced significant pre–post performance gains for most students](orthographic-projection-tutorial-gains.md) — related
+- [Students receiving adaptive tutorial dialogues in EER-Tutor outperformed peers receiving non-adaptive dialogues, with effect size 0.69 on learning gains](adaptive-tutorial-dialogues-effect-size-069.md) — related

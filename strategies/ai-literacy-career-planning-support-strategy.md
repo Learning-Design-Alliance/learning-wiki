@@ -51,6 +51,7 @@ Based on its findings, the article recommends that universities offer programs t
 - [Combine accurate AI labor-market information, employability-building activities, and growth-oriented career support for students facing AI employment threat](ai-threat-career-education-support-strategy.md)
 - [Fund AI literacy initiatives integrating AI ethics into curricula and adapting assessments](ai-literacy-ethics-curricula-assessment-strategy.md)
 - [Differentiated, profile-matched university AI-readiness and career-education support instead of uniform AI-literacy programs](profile-differentiated-ai-career-education-support.md)
+- [Institutions should adopt clear, prominently displayed AI policies and cultivate AI literacy for ethical, employability-oriented use](clear-ai-policies-and-ai-literacy-strategy.md)
 
 ## Examples
 -

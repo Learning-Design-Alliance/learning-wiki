@@ -51,3 +51,4 @@ Case-study analysis from the Virtual Math Teams project, part of the project's d
 - [A shared organizing principle can be established by one member and followed by others, becoming stronger with each application](principle-initiated-by-one-member-reified.md) — related
 - [Adding relevant pictures or graphics to text improves learning from it, with a small pooled effect on reading comprehension, though whether dual coding explains the benefit is disputed](dual-coding-improves-learning.md) — related
 - [Young children collaboratively develop their own gestures to represent and explain challenging science concepts in a mixed-reality environment](young-children-collaborative-gestures-mr-science.md) — related
+- [Hands-on collaborative activity in responsive environments helps learners understand from multiple perspectives and begin to become experts (authors' reported experience)](hands-on-collaboration-becoming-experts.md) — related

@@ -68,3 +68,4 @@ The article reports a "more detailed study" calibrating the two usage metrics, f
 - [Some users prefer a single-form Boolean query interface to the original Entrez interface](single-form-boolean-query-preferred-by-some-users.md) — related
 - [Browsing term lists (selection mode) helps searchers who do not know the exact query term](selection-mode-browsing-helps-uncertain-searchers.md) — related
 - Research production on situated learning has grown but stagnated, averaging about 140 articles per year over the last 10 years — related
+- [Learners' daily learning time is shifting from formal schooling toward informal learning, with informal learning now taking roughly half of learners' daily learning time](informal-learning-shift-half-of-daily-time.md) — related

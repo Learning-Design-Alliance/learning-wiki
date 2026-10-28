@@ -13,7 +13,7 @@ generated:
 # Oral Language
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 115 claims (65 show a difference, 27 mixed, 23 no difference) · 81 studies (30 associational, 17 review, 16 causal, 15 quant-synthesis, 2 theoretical, 1 design), `q1`–`q3` · 27 of 81 report an effect size · 112 claims rest on one study
+> **Evidence** · 116 claims (65 show a difference, 27 mixed, 24 no difference) · 82 studies (30 associational, 17 review, 16 causal, 15 quant-synthesis, 2 design, 2 theoretical), `q1`–`q3` · 27 of 82 report an effect size · 113 claims rest on one study
 
 ## Description
 Oral language covers the spoken side of language: understanding what is said, using vocabulary and grammar to express ideas, and organising sentences into a coherent account or story. The Learner Variability Navigator includes two factors here: narrative skills, the ability to tell and understand stories, and the broader language skills that support early mathematics as well as reading. Narrative skill is often assessed by asking a child to tell a story from a wordless picture book or sequencing cards and scoring its overall structure and its sentence-level detail; early literacy batteries assess related skills such as vocabulary and phonological awareness.
@@ -152,6 +152,7 @@ It matters most in preschool and the early grades. Telling stories helps childre
 - [Oral narrative connectedness in June positively correlates with phonological awareness, reading comprehension, and word accuracy measured in October.](../claims/june-connectedness-correlates-october-reading.md) [+M] — learners who differ on it differ in outcomes
 - [Oral narrative connectedness predicts reading performance 3–4 months in advance for phonological awareness, reading accuracy, and text comprehension, but not reading fluency.](../claims/connectedness-predicts-reading-3-4-months-not-fluency.md) [~M] — learners who differ on it differ in outcomes
 - [School enrollment is associated with narrative connectedness development: the RE-decrease/LCC-LSC-increase dynamic was interrupted by mid-year vacations and resumed after return to school.](../claims/school-environment-effect-narrative-connectedness.md) [+M] — instruction changes it
+- [No improvement in students' listening comprehension was observed during the one-month evaluation](../claims/no-listening-comprehension-improvement.md) [-M] — instruction changes it
 
 ## Measures
 - **Story Generation Tasks**: Macrostructure and microstructure of narrative elements can be assessed by having students tell a story using a wordless picture book or sequencing cards.

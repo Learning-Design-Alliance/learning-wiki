@@ -52,3 +52,4 @@ The editorial summarizes an experimental primary-school study from the special i
 - [Using the AI chatbot ADA significantly enhances ninth-graders' situational interest in mathematics compared with conventional differentiation materials](ada-significantly-raises-situational-interest.md) — related
 - [Performance benefits of UVIs may be limited to the perceived-useful content unless usefulness generalizes or interest develops](uvi-performance-benefits-context-limited.md) — related
 - [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md) — a broader claim this one bears on
+- [Context-personalized AI-generated learning material increases primary students' intrinsic motivation and interest compared with standard material](gai-personalized-material-motivation-interest.md) — possibly the same claim (merge candidate)

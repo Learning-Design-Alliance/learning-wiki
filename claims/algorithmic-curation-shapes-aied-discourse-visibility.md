@@ -57,3 +57,4 @@ The authors' interpretive discussion (not a tested result) linking topic distrib
 - [Expert participants produced predominantly optimistic scenarios with limited discussion of tensions, limits, or unintended consequences](optimistic-scenario-bias-limitation.md) — related
 - [Constructive engagement is ecologically organized: amplified by explicit learning-oriented framing, higher in coding than writing, and more visible in sustained exchanges](constructive-engagement-contextual-organization.md) — related
 - [Cognitive technologies serve as instruments of cultural redefinition, changing rather than just amplifying what people do](cognitive-technologies-cultural-redefinition.md) — related
+- [The AIED community shows two blind spots: disengagement from responsible AI debates and persistent focus on dominant learners under a deficit model.](aied-blind-spots-responsible-ai-dominant-learners.md) — related

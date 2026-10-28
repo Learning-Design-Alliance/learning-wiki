@@ -53,3 +53,4 @@ One-on-one structured interviews with 17 students drawn from both semesters and 
 - [Neurodivergent students cope with collaborative active learning discomfort by self-selecting roles and explicitly disclosing access needs](nd-coping-self-selected-roles-self-disclosure.md) — related
 - [Students in active classrooms scored higher on tests of learning than students in passive lectures (0.46 SD higher, P < 0.001)](active-learning-higher-test-scores-than-lecture.md) — related
 - [Classroom observations in an affluent district found most teachers did not use deeper-learning strategies, with students passively listening to lectures](ousd-passive-lecture-unchallenged-students.md) — related
+- [Active learning supports learning better than passive lectures, yet students' feelings of learning favor lectures](active-learning-felt-learning-paradox.md) — related

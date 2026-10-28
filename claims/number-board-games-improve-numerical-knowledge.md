@@ -73,3 +73,4 @@ Boundary conditions and open questions remain. Gains are expected to be largest 
 - [Number instruction outperformed both alphabet instruction conditions on number identification gains](number-condition-outgained-alphabet-conditions.md) — related
 - [Misconception-based adaptive feedback reduced mathematics anxiety and supported motivation without cognitive outcome differences](misconception-feedback-affective-benefits.md) — related
 - [The authors attribute the null intervention effect to children's prior formal mathematics teaching and note the study is a failed conceptual replication of earlier linear board-game studies](null-attributed-to-formal-schooling-teaching-as-usual.md) — related
+- [Playing students showed significant learning gains in mathematical achievement compared to control classes in grades 2, 4 and 6](teachable-agent-game-significant-math-gains.md) — related

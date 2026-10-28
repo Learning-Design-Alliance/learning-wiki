@@ -102,3 +102,4 @@ Qualitative theme from student interviews mirroring the faculty structure. Stude
 - [Respondents identified algorithmic bias (31.9%), data privacy (27.5%), and technical reliability (27.5%) as the primary risks of AI in education](rfi-ai-risks-bias-privacy-reliability.md) — related
 - [PGR students strongly opposed uploading human-participant or sensitive qualitative data to GenAI platforms or using GenAI to interpret such data](opposition-genai-human-centred-research-data.md) — related
 - [Faculty members reported greater ethical-boundary strictness about GenAI than students, the only group difference surviving Bonferroni adjustment](faculty-greater-ethical-boundary-strictness-than-students.md) — related
+- [AIED technologies span school administration to personalised learning, with ethical risks including surveillance, privacy loss, and dehumanising prescriptive teaching](aied-technologies-applications-ethical-challenges-synthesis.md) — related

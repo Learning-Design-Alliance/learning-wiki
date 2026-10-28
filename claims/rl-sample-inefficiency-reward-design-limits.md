@@ -51,3 +51,4 @@ The review's critique of existing RL applications, citing prior work: "RL often 
 - [Among RL papers statistically outperforming baselines, normalized learning gain was the most common effective reward source, used in over half of the papers (n = 10)](normalized-learning-gain-effective-reward-source.md) — related
 - [Curriculum strategies in AI training often yield faster convergence and better generalization, but difficulty in ML reflects optimization rather than learner readiness](curriculum-learning-sequencing-gains-and-limits.md) — related
 - [Reinforcement learning operationalizes motivational constructs by representing motivation in the reward function](rl-reward-function-operationalizes-motivation.md) — related
+- [Reinforcement learning used for micro-adaptation showed potential learning gains of up to 1 sigma over poorly-optimized dialog or no dialog (per the article, citing Chi et al. 2014)](reinforcement-learning-micro-adaptation-gains.md) — related

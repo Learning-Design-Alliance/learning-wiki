@@ -48,3 +48,4 @@ Correlation and multiple regression analyses of eight semesters of discussion da
 - [Earlier participation relative to project deadlines (higher APTTD) predicts higher project grades](early-posting-apttd-predicts-grades.md) — related
 - [Positive emotion expressions in discussion messages positively correlate with project grades](positive-emotion-correlates-grades.md) — related
 - [A three-predictor regression model (Source, APTTD, positive emotion) explains 32% of variance in group project grades](regression-model-32-percent-variance-grades.md) — related
+- [Online discussion participation predicted team project grades: students who answered others' questions more frequently and had a positive attitude received better grades](discussion-participation-predicts-project-grade.md) — related

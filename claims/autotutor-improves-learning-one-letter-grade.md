@@ -48,3 +48,5 @@ The review reports, citing Graesser et al. (2007), that "AutoTutor improves lear
 - [AutoTutor yields average learning gains of 0.3 to 0.8 sigma compared to reading text for an equivalent amount of time](autotutor-learning-gains-0-3-to-0-8-sigma-vs-reading.md) — related
 - [AutoTutor achieved learning gains comparable to human tutors in physics and computer literacy](autotutor-learning-gains-comparable-human-tutors.md) — related
 - [AutoTutor's learning gains are virtually equivalent to those of 1-to-1 human tutoring in direct comparisons](autotutor-gains-equivalent-to-human-tutoring.md) — related
+- [Early AutoTutor versions gained about 0.5 σ over textbook controls, with gains depending on test type (cloze 0.64 σ, deep 0.28 σ, shallow 0.15 σ)](early-autotutor-gains-test-type-dependence.md) — related
+- [In WHY2 physics studies, AutoTutor outperformed read-textbook and no-materials controls and performed comparably to WHY2/Atlas and non-expert human tutors](why2-autotutor-physics-gains.md) — a narrower finding that bears on this claim

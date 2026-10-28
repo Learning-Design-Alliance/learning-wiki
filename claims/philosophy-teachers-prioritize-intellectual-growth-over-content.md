@@ -47,3 +47,4 @@ Thematic analysis of semi-structured interviews with eighteen philosophy teacher
 ## Related Claims
 - [Students prioritize teacher interaction for face-to-face learning but content interaction for online learning](interaction-priority-f2f-teacher-online-content.md) — related
 - [Interviews revealed six themes: enhanced efficiency, improved quality, facilitated reflection, increased interaction, improved collaboration, and concerns about over-reliance](gai-dst-interview-six-themes.md) — related
+- [Teachers aspire to enhanced cognitive abilities such as superintelligence and super memory to support teaching](teachers-desire-enhanced-cognitive-abilities.md) — related

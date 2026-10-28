@@ -54,3 +54,4 @@ Editors' framing (type e) of the Suthers, Dwyer, Medina and Vatrapu opening arti
 - The field lacks micro-level S-SRL theory and methodological guidelines, and studies have not connected temporal/sequential characteristics to learning gains — related
 - [CSCL relations matter in two ways: interventions informed by empirical studies can support collaboration, and CSCL environments can foster key competencies](cscl-relations-matter-two-ways.md) — related
 - CSCL theory has contributed more to understanding collaboration and group cognition than to technology design and analytic methodology — related
+- [Openness entails inherent partial understanding of learner actions in collaborative settings](openness-partial-understanding-collaborative-learning.md) — related

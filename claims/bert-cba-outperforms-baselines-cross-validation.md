@@ -53,3 +53,4 @@ Cross-validation comparison of six tag recommendation models on the Stack Overfl
 - [Fine-tuned BERT outperforms FFNN and LSTM deep learning architectures for classifying segments of written reflections, with weighted F1 average of .82](bert-outperforms-ffnn-lstm-reflective-writing-classification.md) — related
 - [F1@K decreased as K increased for all methods](f1-decreases-with-k.md) — related
 - [The highway layer ablation showed no measurable performance difference between BERT-CBA variants](highway-layer-ablation-null-result.md) — related
+- [Review-reported model comparisons: a BiLSTM-based model significantly outperformed all baselines (Qiu et al.), and BERT outperformed a semantic-similarity baseline (Yeung et al.)](neural-models-outperform-baselines-review.md) — related

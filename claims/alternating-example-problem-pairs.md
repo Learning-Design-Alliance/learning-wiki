@@ -56,3 +56,4 @@ The review reports, citing Trafton and Reiser, an experiment using a LISP progra
 - [Interleaved practice improves delayed posttest performance compared with blocked practice](interleaved-practice-improves-posttest-performance.md) — related
 - [The interleaving benefit is not caused by spacing, and the benefit extends to delayed tests](interleaving-not-spacing-persists-over-delay.md) — related
 - [Interleaved practice yields lasting learning effects at delayed posttests in spelling and second-language grammar](interleaving-lasting-learning-delayed-posttests.md) — related
+- [Alternating examples and problems yielded more learning and more conceptual knowledge than examples alone or problem-solving alone](examples-plus-problems-beat-examples-alone.md) — related

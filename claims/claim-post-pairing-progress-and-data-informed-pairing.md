@@ -67,3 +67,4 @@ Ranking results from Challenge 7 on evaluating collaboration for future pairing.
 
 - [During pairing, both teachers and students favored shared decision-making over full student control for roles, partners, and collaboration content.](claim-shared-control-roles-and-content.md) — related
 - [Teachers and students differed in how unified their pairing-preparation design preferences were, with teachers more aligned than students in Challenge 1.](claim-teachers-more-unified-than-students-challenge-1.md)
+- [Existing orchestration systems largely support single social levels or synchronous pacing and provide limited support for fluid social transitions](orchestration-systems-lack-transition-support.md) — related

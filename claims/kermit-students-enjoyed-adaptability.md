@@ -49,3 +49,4 @@ Reported student reactions from the evaluation studies: participants "have enjoy
 - [KERMIT observes students' actions and adapts to their knowledge and learning abilities](kermit-adapts-to-student-actions.md) — related
 - [The survey reports, citing Long and Aleven, that students who used DragonBox enjoyed the experience more, while students who used the Lynnette intelligent tutoring system performed significantly better on the test.](intelligent-tutor-lynnette-outperformed-dragonbox-on-test.md) — related
 - [Constraint-Based Modelling can support students learning open-ended design tasks, not only procedural domains](cbm-supports-design-tasks.md) — related
+- [Open student models in e-KERMIT had a positive effect on learning, and most students explored the expanded open student model](open-student-model-positive-effect-ekermit.md) — related

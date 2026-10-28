@@ -56,3 +56,5 @@ A 2-year quasi-experiment with seven fourth-grade classrooms (Kit+TA versus Kit-
 - [Information at higher levels of an acquired hierarchical organization is recalled better than information at lower levels](higher-hierarchy-levels-recalled-better.md) — related
 - [A hierarchical internal knowledge organization facilitates performance on complex recall and problem-solving tasks more than a single-level organization of the same knowledge](hierarchical-organization-improves-complex-task-performance.md) — related
 - [Fourth-graders receiving AI-enhanced media literacy instruction outperformed control-group peers on post-test critical media reading, writing, and total literacy with large effect sizes](ai-media-literacy-program-large-posttest-gains.md) — related
+- [Teachable agents in educational games can help achieve deeper levels of learning that transfer outside the game](teachable-agents-deeper-learning-transfer.md) — a broader claim this one bears on
+- [Young primary school students can act as successful tutors of a teachable agent](young-students-successful-agent-tutors.md) — related

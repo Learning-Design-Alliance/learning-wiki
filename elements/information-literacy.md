@@ -13,7 +13,7 @@ generated:
 # Information Literacy
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 19 claims (8 for, 8 mixed, 3 against) · 19 studies (7 causal, 4 qualitative, 3 associational, 2 review, 2 theoretical, 1 design), `q1`–`q3` · 1 of 19 report an effect size · 18 claims rest on one study
+> **Evidence** · 20 claims (9 for, 8 mixed, 3 against) · 20 studies (7 causal, 5 qualitative, 3 associational, 2 review, 2 theoretical, 1 design), `q1`–`q3` · 1 of 20 report an effect size · 19 claims rest on one study
 
 ## Description
 Information literacy is the element in which learners identify information needs, locate sources, evaluate credibility, and use information responsibly. It is useful when tasks require judgment about evidence rather than mere retrieval.
@@ -55,6 +55,7 @@ Information literacy is the element in which learners identify information needs
 - [A majority of surveyed mathematicians report believing proofs are correct because of journal publication, journal quality, or a trusted authoritative source](../claims/mathematicians-authoritarian-conviction-survey.md) [~W]
 - [Students could partially discriminate link reliability before training, rating good links highest and bad links lowest](../claims/baseline-discrimination-link-types-pilot.md) [+W] — attached 2026-10-22 from Ana Pérez et al. (2018), which proposed "Knowledge application task: rating search-result links contrasted on three source dimensions"; tests this page's relationship.
 - [Trained ninth-graders became more critical toward less reliable links than controls, with the effect persisting three weeks for the least reliable (bad) links](../claims/sourcing-intervention-lower-ratings-less-reliable-links.md) [+M] — attached 2026-10-22 from Ana Pérez et al. (2018), which proposed "Knowledge application task: rating search-result links contrasted on three source dimensions"; tests this page's relationship.
+- [Comparative evaluation of AI output taught students that AI is not infallible and reinforced critical reading](../claims/ai-comparative-evaluation-critical-reading.md) [+W]
 
 ## The evidence by question
 - *Does teaching learners how to check a source improve their judgments of unfamiliar sources, and how much can one session do?* [Civic Online Reasoning Instruction Improves Evaluation](../claims/civic-online-reasoning-instruction-improves-evaluation.md) [+S]

@@ -18,7 +18,7 @@ sources:
 # Adaptive Difficulty
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 12 claims (7 for, 5 mixed) · 12 studies (3 causal, 3 quant-synthesis, 2 design, 2 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 3 of 12 report an effect size · 11 claims rest on one study
+> **Evidence** · 13 claims (8 for, 5 mixed) · 13 studies (3 causal, 3 quant-synthesis, 3 design, 2 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 3 of 13 report an effect size · 12 claims rest on one study
 
 ## Description
 Adaptive difficulty adjusts task challenge in response to learner performance so work remains demanding enough to promote growth without becoming discouraging or trivial.
@@ -63,6 +63,7 @@ Adaptive difficulty adjusts task challenge in response to learner performance so
 - [Adaptive task difficulty significantly improved performance for students at non-academic-track schools compared to control](../claims/adaptive-task-difficulty-benefits-nonacademic-track.md) [+W]
 - [Adaptive task difficulty significantly improved fraction knowledge for students in the inattentive unfavorable (lower-SES-associated) profile compared to no scaffolding](../claims/adaptive-task-difficulty-benefits-unfavorable-profile.md) [+W]
 - [Adaptive condition shows only a non-significant trend for transfer to engineering outcomes (tower building)](../claims/bkt-adaptivity-tower-building-nonsignificant-trend.md) [~W]
+- [MORE's effort-based motivational strategy resembles the later Wayang Outpost strategy in effort feedback and difficulty adjustment](../claims/more-resembles-wayang-outpost-effort-strategy.md) [+W]
 
 ## The evidence by question
 

@@ -13,7 +13,7 @@ generated:
 # Metacognition
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 137 claims (90 show a difference, 29 mixed, 18 no difference) · 99 studies (40 causal, 18 associational, 14 review, 11 theoretical, 7 quant-synthesis, 7 qualitative, 2 design), `q1`–`q4` · 29 of 99 report an effect size · 136 claims rest on one study
+> **Evidence** · 138 claims (91 show a difference, 29 mixed, 18 no difference) · 100 studies (40 causal, 18 associational, 14 review, 11 theoretical, 8 qualitative, 7 quant-synthesis, 2 design), `q1`–`q4` · 29 of 100 report an effect size · 137 claims rest on one study
 
 ## Description
 Metacognition is knowing about and managing one's own cognition. It has two sides: knowledge (what a learner knows about how they learn, what they do and do not understand, and which strategies suit a task) and regulation (planning an approach, monitoring progress and comprehension, and adjusting when it is not working). It is usually measured by self-report inventories of strategy awareness, by parent and teacher rating scales, and by comparing a learner's confidence judgements with their actual performance (calibration).
@@ -179,6 +179,7 @@ It overlaps heavily with [self-regulation](self-regulation.md), of which monitor
 - [Metacognitive chatbot feedback raises metacognitive sensitivity relative to affective and neutral feedback](../claims/chatbot-metacognitive-feedback-raises-metacognitive-sensitivity.md) [+M] — instruction changes it
 - [College students who overestimate their pretest retrospective judgments engage less in preparatory metacognitive strategies before quizzes in computer-based learning environments](../claims/overestimation-predicts-less-preparatory-metacognitive-strategy-use.md) [+M] — learners who differ on it differ in outcomes
 - [Pretest retrospective judgments, rather than actual pretest scores, predict college students' engagement in preparatory metacognitive strategies](../claims/judgment-not-actual-score-predicts-strategy-use.md) [+M] — learners who differ on it differ in outcomes
+- [Human-AI writing practices were perceived to enhance doctoral students' cognitive and metacognitive engagement, confidence, and learner agency](../claims/ai-writing-engagement-confidence-agency.md) [+W] — instruction changes it
 
 ## Measures
 - **Behavior Rating Inventory of Executive Function (BRIEF)** (Gioia et al., 2000): parent and teacher questionnaires whose metacognition index covers ages 5 to 18.

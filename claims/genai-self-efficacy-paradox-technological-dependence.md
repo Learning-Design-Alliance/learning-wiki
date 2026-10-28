@@ -82,3 +82,4 @@ Narrative review attribution: the review reports, citing L. Zhang and Xu (2025),
 - [GenAI communication benefits depend on integration: embedded agents enhance communication more than external tools, but efficiency can reduce the need for human communication](genai-communication-benefits-depend-on-integration.md) — related
 - [AI-assisted practice applications improved music students' performance outcomes, self-efficacy, and self-regulated learning](ai-practice-apps-improve-music-learning-outcomes.md) — related
 - [Advanced technology's hyperinteractivity can intensify social inequality in education](hyperinteractivity-can-intensify-inequality.md) — related
+- [Human-AI writing practices were perceived to enhance doctoral students' cognitive and metacognitive engagement, confidence, and learner agency](ai-writing-engagement-confidence-agency.md) — related

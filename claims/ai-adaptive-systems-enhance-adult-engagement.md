@@ -77,3 +77,4 @@ The review reports, in its section on adult learning theory and AI integration, 
 - [GAI in K-12 education offers opportunities to personalize learning, motivate students, improve assessment, and introduce innovative teaching practices](gai-k12-personalization-assessment-opportunities.md) — related
 - [Learning analytics tools can provide personalized feedback on students' academic writing by identifying mistakes and offering constructive suggestions (e.g., AcaWriter)](acawriter-personalized-writing-feedback.md) — a narrower finding that bears on this claim
 - [Mobile devices enable just-in-time adaptive interventions that flexibly adapt support to students' changing internal and contextual states](jitai-just-in-time-mobile-support.md) — a narrower finding that bears on this claim
+- [Meta-reviews confirm the value of intelligent tutoring systems, though with smaller effects than some earlier studies reported](its-meta-analytic-positive-outcomes.md) — related

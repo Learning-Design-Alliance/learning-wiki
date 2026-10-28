@@ -56,3 +56,4 @@ Perception studies 1-3, in which 315 distance students reacted to prototypes and
 - [Hands-on engagement with an AIDA beta significantly improved students' attitudes toward it, with a large effect size](aida-hands-on-use-improves-attitudes.md) — related
 - [ChatGPT served as an emotional support agent during practicum, offering a nonjudgmental, constantly available interlocutor](chatgpt-emotional-support-agent-practicum.md) — related
 - [In an exploratory randomised trial, the AIDA-supported group showed a higher learning gain than the control group, though the authors caution about the small volunteer sample](aida-experimental-group-higher-learning-gain.md) — related
+- [Most students would reengage with context-personalized tasks and prefer them over standard tasks, across both experimental conditions](gai-reengagement-task-preference.md) — related

@@ -65,3 +65,4 @@ Post-hoc pairwise comparison (Bonferroni corrected) of score effects in the same
 ## Related Claims
 - [Conscientiousness interacts with score in the use of advice: advice is given at 70% for low-conscientiousness learners but not for high-conscientiousness learners](conscientiousness-score-interaction-advice.md) — a narrower finding that bears on this claim
 - [In the emotional stability experiment, emotional support use and slant depend on score, trait level, and their interaction](emotional-stability-affects-support-and-slant.md) — related
+- [The review reports that user studies on personality-adapted conversational agent feedback yielded two algorithms refined after a teacher study](personality-adapted-feedback-algorithms.md) — a broader claim this one bears on

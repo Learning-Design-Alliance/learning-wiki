@@ -55,3 +55,4 @@ Across the regression and correlation analyses of the four formats, "more accura
 - [Symbolic approximate addition is predicted by nonsymbolic number line estimation, the VSSP and the CE, consistent with transcoding to the nonsymbolic code](transcoding-in-symbolic-approximate-addition.md) — related
 - [Kindergarteners perform significantly better in nonsymbolic than symbolic single-digit addition problem formats](nonsymbolic-easier-than-symbolic-single-digit-addition.md) — related
 - [The visuospatial sketchpad is the best and only unique predictor of kindergarteners' nonsymbolic approximate addition](vssp-predicts-nonsymbolic-approximate-addition.md) — related
+- [Subtraction skills were the most frequent key skills, with over 50% of children struggling with 0–100 number-line positioning and subtraction with ten crossings](subtraction-and-number-line-key-skills.md) — related

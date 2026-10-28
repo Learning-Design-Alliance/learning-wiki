@@ -65,3 +65,5 @@ The author's documented exploratory audit of one manuscript (4,613–4,727 words
 - [OpenAI's GPT-2 Output Detector distinguished real student essays from ChatGPT-generated essays on the same subjects in a December 2022 trial](gpt2-output-detector-distinguishes-chatgpt-essays.md) — related
 - [Blinded review identified 68% of ChatGPT-generated abstracts as chatbot-produced while 14% of authentic abstracts were misclassified as chatbot-generated](chatgpt-abstract-detection-68-14-percent.md) — related
 - [Educators run more proctored AI-free assessments conditionally on compromised outcomes, and reject AI detectors based on classroom experience of false positives](conditional-ai-free-assessment-detector-false-positives.md) — related
+- [Neither humans nor machines reliably detect machine-generated text; humans detect it at chance level](ai-text-detection-at-chance-level.md) — related
+- [Plagiarism detection software does not detect AI-generated essays because the text is original, not copied](plagiarism-software-fails-on-generated-text.md) — related

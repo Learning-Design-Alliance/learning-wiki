@@ -65,3 +65,4 @@ Baseline assessment at week 0 using a standardized grade 6 excerpt test showed c
 - [Guided ASR practice improves overall pronunciation accuracy of Korean EFL learners more than ordinary classroom pronunciation practice alone](asr-guided-practice-improves-overall-pronunciation-accuracy.md) — related
 - [In a randomized experiment, personalized paths reduced learning time by 22.0% and improved post-test scores versus a fixed sequence](personalized-paths-experiment-outcomes.md) — related
 - [Structured AI-supported writing instruction produced a large posttest writing proficiency advantage over traditional instruction in Saudi EFL undergraduates](structured-ai-workflow-writing-gains-efl.md) — related
+- [ITS feedback availability interacted with task number so that experimental-group students increasingly outperformed controls in solving tasks over time](its-feedback-task-solving-interaction-over-time.md) — related

@@ -31,6 +31,7 @@ A corpus of approximately 1,954 Hungarian reflective essays from Early Childhood
 ## Related Products and Programmes
 
 - [Edustories dataset](edustories-dataset.md)
+- [Expanded RIKEN SAS dataset with 10,000 new annotations](expanded-riken-sas-dataset-with-10000-new-annotations.md)
 
 ## Key Sources
 - Zsolt Csibi, Kristian Fenech, Mónika Sándor, Mónika Serfőző, Kinga Gyöngy. (2026). Automatic Reflection Level Classification in Hungarian Student Essays. https://arxiv.org/abs/2605.02402

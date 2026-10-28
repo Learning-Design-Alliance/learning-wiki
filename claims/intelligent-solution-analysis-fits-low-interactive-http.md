@@ -48,3 +48,4 @@ The authors' analysis of how the Web platform changed the usage profile of known
 - [AIWBES use several technologies per system, becoming more complete 'one-stop' educational systems than pre-Web systems](aiwbes-one-stop-systems-use-several-technologies.md) — related
 - [Adaptive navigation support is less directive and more cooperative than traditional curriculum sequencing](adaptive-navigation-support-less-directive-than-sequencing.md) — related
 - [The abundance of non-indexed open corpus educational resources on the Web made adaptive information filtering attractive for education](open-corpus-web-made-aif-attractive-for-education.md) — related
+- [Mobile and web technology shifts forced re-conceptualization toward loose coupling of system components](platform-discontinuities-loose-coupling.md) — related

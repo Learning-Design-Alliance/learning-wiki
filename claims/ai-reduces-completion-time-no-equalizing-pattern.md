@@ -52,3 +52,4 @@ Results-section analysis of preregistered task completion time (minutes, top-cod
 - [AI assistance closes about three-quarters of the baseline education-based task-performance gap, though a 0.139 SD gap remains among treated participants](ai-closes-three-quarters-of-education-task-gap.md) — related
 - [Access to a generative-AI assistant raises task performance for both lower- and higher-education adults, with significantly larger gains for lower-education participants](ai-assistance-raises-task-performance-larger-gains-lower-education.md) — related
 - [GenAI assistance narrows the productivity gap between native and non-native English speaking students](genai-productivity-leveling-nnes.md) — related
+- [Training with the voice-based synthetic assistant caused no statistically significant loss in task execution time and no significant time difference between groups across testing scenarios](vbsa-no-execution-time-loss.md) — related

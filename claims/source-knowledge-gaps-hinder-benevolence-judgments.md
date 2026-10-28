@@ -71,3 +71,4 @@ The review reports, citing Wertgen and Richter (2023), a reading-time finding: p
 - [Prior knowledge can hinder credibility evaluation through selective attention and overconfidence](prior-knowledge-can-hinder-credibility-evaluation.md) — related
 - [Less skilled comprehenders' inference failures stem more from incorrect premise recall, whereas skilled comprehenders fail more at integrating recalled information](different-sources-inference-failure-groups.md) — related
 - [Low-SES students, but not high-SES students, generate stereotype-consistent inferences linking targets' social class and memory ability](low-ses-students-generate-stereotype-consistent-ability-inferences.md) — related
+- [Growing gaps in prior knowledge among students in the same class make it difficult for educators to maintain learner engagement](prior-knowledge-gap-engagement-challenge.md) — related

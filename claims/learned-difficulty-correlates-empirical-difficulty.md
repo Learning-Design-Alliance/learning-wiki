@@ -51,3 +51,4 @@ Analysis on QATD2k test set, chosen because it is "collected from real-world edu
 - [Intersection point k0 of item difficulty and discriminating curves provides a data-driven item-deletion criterion](k0-intersection-item-deletion-criterion.md) — related
 - [Scores on the debugging-oriented Python proficiency assessment moderately predict successful code repair](proficiency-assessment-predicts-fix-success.md) — related
 - [Point-biserial item-total correlation is negatively related to test discriminating value and can be expressed via item and test difficulty and discrimination parameters](point-biserial-negative-test-discrimination-relation.md) — related
+- [Ground-truth difficulty labels in reviewed studies come roughly equally from expert/annotator labelling (34%), Classical Test Theory (34%), and Item Response Theory (26%)](ground-truth-labelling-methods-distribution.md) — related

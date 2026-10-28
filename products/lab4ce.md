@@ -33,6 +33,7 @@ Lab4CE is a rich learning interface and middleware platform for collaborative re
 - [Lab4CE micro authoring tool](lab4ce-micro-authoring-tool.md)
 - [Lab4CE remote laboratory environment](lab4ce-remote-laboratory-environment.md)
 - [Lab4CE learning analytics tool and management dashboard](lab4ce-learning-analytics-tool-and-management-dashboard.md)
+- [SQLSpaces](sqlspaces.md)
 
 ## Key Sources
 - Julien Broisin, Rémi Venant & Philippe Vidal. (2017). Lab4CE: a Remote Laboratory for Computer Education. International Journal of Artificial Intelligence in Education 27:154–180. https://doi.org/10.1007/s40593-015-0079-3

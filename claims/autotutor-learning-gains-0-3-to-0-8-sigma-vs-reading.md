@@ -50,3 +50,7 @@ The article summarizes multiple AutoTutor studies comparing learning to reading 
 - [AutoTutor achieved learning gains comparable to human tutors in physics and computer literacy](autotutor-learning-gains-comparable-human-tutors.md) — related
 - [The talking head contributes little to AutoTutor's learning gains; the content of the conversation matters](autotutor-content-matters-not-talking-head.md) — related
 - [AutoTutor cannot handle most student questions, so student question frequency extinguishes quickly in tutoring sessions](autotutor-student-questions-extinguish.md) — related
+- [AutoTutor produces learning gains averaging about 0.8 standard deviations over static-textbook controls, and bystanders cannot distinguish its tutoring turns from a human tutor's](autotutor-learning-gains-0-8-sigma.md) — related
+- [Early AutoTutor versions gained about 0.5 σ over textbook controls, with gains depending on test type (cloze 0.64 σ, deep 0.28 σ, shallow 0.15 σ)](early-autotutor-gains-test-type-dependence.md) — a narrower finding that bears on this claim
+- [Reinforcement learning used for micro-adaptation showed potential learning gains of up to 1 sigma over poorly-optimized dialog or no dialog (per the article, citing Chi et al. 2014)](reinforcement-learning-micro-adaptation-gains.md) — related
+- [In WHY2 physics studies, AutoTutor outperformed read-textbook and no-materials controls and performed comparably to WHY2/Atlas and non-expert human tutors](why2-autotutor-physics-gains.md) — a narrower finding that bears on this claim

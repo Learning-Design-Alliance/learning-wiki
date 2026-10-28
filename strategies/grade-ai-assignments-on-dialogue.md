@@ -42,6 +42,7 @@ From implementation, the authors recommend that if the goal is dialogue, then th
 - [Reflective Writing](reflective-writing.md)
 - [Calibrate AI writing support by providing contextual feedback, dialogic scaffolding, and initiative matched to learner needs and task complexity](calibrate-agent-initiative-to-learner-needs.md)
 - [Describe AI instructional role and learner–AI interaction design in detail (prompts, scaffolds, modality, dialogue structures)](describe-ai-role-and-interaction-design-in-detail.md)
+- [Use agent-driven question dialogue to challenge mathematical thinking and role-model learner behaviour](agent-driven-question-dialogue-strategy.md)
 
 ## Examples
 -

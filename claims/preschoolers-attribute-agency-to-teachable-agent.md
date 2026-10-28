@@ -47,3 +47,4 @@ Authors' interpretation of the gaze result from the experimental session; the ar
 ## Related Claims
 - [In preschoolers playing Magical Garden, two measured gaze behaviors were positively correlated with the game performance measure, as hypothesized](gaze-behaviors-correlated-with-game-performance-preschoolers.md) — related
 - [Preschoolers looked at the teachable agent significantly more often when the agent had been in charge of gameplay than when it had not](preschoolers-look-more-at-ta-after-ta-in-charge.md) — related
+- [Young primary school students can act as successful tutors of a teachable agent](young-students-successful-agent-tutors.md) — related

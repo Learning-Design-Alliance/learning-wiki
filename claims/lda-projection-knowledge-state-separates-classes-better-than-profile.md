@@ -48,3 +48,4 @@ Supervised LDA projection of student profile and DKT/DKT+ knowledge states into 
 - [Models trained with combined DKT/DKT+ knowledge-state and student-profile features generally outperform models trained with student profile alone on STEM/non-STEM job prediction.](combined-dkt-knowledge-state-features-improve-stem-job-prediction.md) — related
 - [DKT+ knowledge states discriminate STEM from non-STEM students better than DKT knowledge states for the majority of mathematical skills.](dkt-plus-knowledge-state-better-discrimination-than-dkt.md) — related
 - [Recursive feature elimination mitigates overfitting and improves STEM/non-STEM prediction performance, with LR-DKT&SP performing best after RFE.](rfe-mitigates-overfitting-in-stem-job-prediction.md) — related
+- [Topic-preference features separate grade groups better than Reading Time in all analyzed cases](topic-preference-fdr-beats-reading-time.md) — related

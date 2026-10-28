@@ -44,6 +44,7 @@ The article's forward-looking recommendations for institutions adopting AI tools
 - [Build ethical AI integration on four coordinated levels: faculty professional development, ethics curricula, clear institutional guidelines, and interdisciplinary updating](four-level-ethical-ai-integration-strategy.md)
 - [Institutional integrity programs combining ethical AI-use guidelines, clear definitions of dishonesty, and risk-awareness education](integrity-programs-ethical-ai-use-guidelines.md)
 - [Position AI detection tools as one component within a broader institutional decision-making process, with regularly updated benchmarks](detection-tools-within-broader-decision-process.md)
+- [Institutions should adopt clear, prominently displayed AI policies and cultivate AI literacy for ethical, employability-oriented use](clear-ai-policies-and-ai-literacy-strategy.md)
 
 ## Examples
 -

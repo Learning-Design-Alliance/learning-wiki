@@ -67,3 +67,4 @@ Third macro-transformation reported in Section 4.3, drawing on distributed cogni
 - [Epistemological belief dimensions offer an understanding of human-GAI engagement](epistemological-dimensions-explain-human-gai-engagement.md) — related
 - [Automation bias toward fluent LLM output surrenders learners' epistemic agency](automation-bias-surrenders-epistemic-agency.md) — possibly the same claim (merge candidate)
 - [Learners using a GenAI system issued prompts that offloaded tasks that may have been important for them to perform themselves, such as differentiating concepts and deciding what to learn](genai-prompt-offloading-learning-tasks.md) — related
+- [AIED's Open Learner Models tradition has, since the early 1990s, developed and evaluated designs giving users agency and control over system data, pre-figuring Russell's human-centred AI proposals.](olm-user-agency-predates-human-centred-ai-proposals.md) — related

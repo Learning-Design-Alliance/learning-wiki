@@ -132,11 +132,13 @@ The expectation should weaken if studies that vary only the standard-and-assuran
 - [Self Affirmation](self-affirmation.md) — a neighbouring brief intervention aimed at identity threat
 
 ## Examples
+
 - [Wise Feedback](../strategies/wise-feedback.md) — the strategy recipe: a standards-and-confidence sentence on graded work, then a revision
 - [Effort-Based Praise](../strategies/effort-based_praise.md) — praising effort and strategy, which shapes the positive comment and the assurance
 - [Warm Demander Pedagogy](../strategies/warm-demander-pedagogy.md) — the wider stance of high demands delivered as care
 - **Written comments on an essay draft**: one sentence naming the rubric's top band as the standard and saying, with a reason from the draft, that the student can reach it; two specific critiques with next steps; a revision due in a week.
 - **A parent–teacher conference**: a specific positive about the student's work, the concern with its evidence, the standard and the teacher's belief that the student can meet it, and one thing to support at home.
+- [Immediate possibilities for tutoring systems to engage learner values: help teachers frame the system, provoke discussion of purpose, and hold a conversation about purpose and outcomes](../strategies/provoke-purpose-discussion-strategy.md)
 
 ## Key Sources
 - Cohen, G. L., Steele, C. M., & Ross, L. D. (1999). The mentor's dilemma: Providing critical feedback across the racial divide. *Personality and Social Psychology Bulletin, 25*(10), 1302-1318. [doi:10.1177/0146167299258011](https://doi.org/10.1177/0146167299258011)

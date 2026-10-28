@@ -51,3 +51,6 @@ Authors' disclosure in the discussion section describing their demonstration of 
 - [Of 30 verified hallucinated references, 13 appeared entirely fabricated and 17 were hybrid references combining a real title with fabricated authorship or metadata](hybrid-hallucinated-references-real-title-fake-authors.md) — related
 - [LLM-generated lessons produced inauthentic references even when combined with RAG over verified academic papers](rag-does-not-ensure-citation-authenticity.md) — related
 - [AI-generated ethics exercise materials carried external citations that did not survive checking, ranging from misattributed to apparently fabricated](ai-generated-ethics-materials-fabricated-citations.md) — related
+- [GPT-3 fabricates plausible-looking but fake references and apparently invents the research studies they cite](gpt3-fabricates-fake-references.md) — possibly the same claim (merge candidate)
+- [GPT-3 can generate a complete short academic paper, including abstract, introduction, discussion and APA references, in under five minutes](gpt3-generates-full-academic-paper.md) — related
+- [GPT-3 can generate a plausible student essay from a short prompt, including a heading and citation, on its first attempt](gpt3-generates-plausible-student-essay.md) — related

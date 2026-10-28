@@ -69,3 +69,4 @@ Parallel week 0–7 evaluation (Table 4): "AUC score0.98 0.78 0.96" for Model 1 
 - [Predictive models trained on one semester's offering of a course identified at-risk students in the subsequent semester with high prediction accuracy](cross-semester-at-risk-prediction-high-accuracy.md) — reports the opposite
 - Early-semester LMS interaction data predicts AI-assisted cheating risk in the final exam, with Logistic Regression achieving AUC = 0.763 under LOOCV — related
 - [Random forest algorithms yielded the best classification performance in K–8 MMLA studies comparing multiple machine learning models](mmla-k8-random-forest-best-performance.md) — related
+- [Integrating LECTOR topic preferences into at-risk prediction shows a tendency to improve performance, with significant AUC gains only in some cases](topic-preferences-at-risk-prediction-mixed.md) — related

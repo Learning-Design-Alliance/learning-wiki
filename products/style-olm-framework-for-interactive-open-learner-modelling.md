@@ -28,7 +28,8 @@ A computational framework developed by Vania Dimitrova and colleagues that suppo
 - [STyLE-OLM benefited both more knowledgeable learners (reflective domain interactions) and less knowledgeable learners (inspecting and challenging their models)](../claims/iolm-benefits-both-knowledge-levels.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [AVW-Space](avw-space.md)
 
 ## Key Sources
 - Vania Dimitrova & Paul Brna. (2016). From Interactive Open Learner Modelling to Intelligent Mentoring: STyLE-OLM and Beyond. Int J Artif Intell Educ 26:332–349. https://doi.org/10.1007/s40593-015-0087-3

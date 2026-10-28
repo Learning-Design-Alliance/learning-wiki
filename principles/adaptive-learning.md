@@ -36,7 +36,7 @@ sources:
 # Adaptive Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 79 claims (43 for, 32 mixed, 4 against) · 76 studies (25 causal, 19 review, 11 design, 7 quant-synthesis, 7 associational, 5 theoretical, 2 qualitative), `q1`–`q4` · 11 of 76 report an effect size · 72 claims rest on one study
+> **Evidence** · 82 claims (45 for, 33 mixed, 4 against) · 79 studies (26 causal, 20 review, 11 design, 7 quant-synthesis, 7 associational, 6 theoretical, 2 qualitative), `q1`–`q4` · 13 of 79 report an effect size · 75 claims rest on one study
 
 ## Conditional relationship
 
@@ -199,6 +199,9 @@ Within-system performance, aligned achievement, standardised achievement, delaye
 - [Log analysis shows adaptive condition concentrates practice on unmastered concepts while random condition over-practices easy ones](../claims/bkt-adaptivity-log-practice-allocation.md) [+W]
 - [Computer-based learning systems need to adapt to learners' needs to provide effective personalised instruction](../claims/adaptation-needed-for-personalised-instruction.md) [+W]
 - [Adaptive condition shows only a non-significant trend for transfer to engineering outcomes (tower building)](../claims/bkt-adaptivity-tower-building-nonsignificant-trend.md) [~W]
+- [Students receiving adaptive tutorial dialogues in EER-Tutor outperformed peers receiving non-adaptive dialogues, with effect size 0.69 on learning gains](../claims/adaptive-tutorial-dialogues-effect-size-069.md) [+W]
+- [DeepTutor's macro-adaptive learning-progressions selection produced 0.79 σ pretest-posttest gains in a small evaluation, versus very little learning without dynamic dialog selection](../claims/deeptutor-macro-adaptivity-gains.md) [+W]
+- [Reinforcement learning used for micro-adaptation showed potential learning gains of up to 1 sigma over poorly-optimized dialog or no dialog (per the article, citing Chi et al. 2014)](../claims/reinforcement-learning-micro-adaptation-gains.md) [~W]
 
 ## Related Principles
 - [Cognitive Load Management](cognitive-load-management.md) — adaptation is the primary mechanism for keeping intrinsic load matched to learner expertise over time

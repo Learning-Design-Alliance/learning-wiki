@@ -48,3 +48,4 @@ Dot-voting results from the workshop, in which the full cohort voted with five s
 - [Principals most commonly cited time for teacher planning, difficulty removing poor teachers, community social problems, apathetic parents, test-score pressure, and problem students as roadblocks](principals-roadblocks-to-school-improvement.md) — related
 - [Latent class analysis of roadblock responses identified three roughly equally sized administrator groups—Limited, Moderate, and Considerable Roadblocks—differing in breadth and depth of concern](three-roadblock-severity-groups-latent-class.md) — related
 - [The same four roadblocks to school improvement topped principals' rankings across ten years of surveys, with subgroup contrasts in emphasis](cps-roadblocks-stable-top-four.md) — related
+- [Teachers report a need for automated grading and assessment to free time and prevent exhaustion](teachers-need-automated-grading-assessment.md) — related

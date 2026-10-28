@@ -66,3 +66,5 @@ BERTopic analysis of the tweet corpus after c-TF-IDF outlier reassignment (outli
 - [Impression narratives rely on weakly diagnostic suspicion heuristics such as response speed, fluency, and perceived scriptedness](suspicion-heuristics-weakly-diagnostic.md) — related
 - [Research on SECs and engagement is unevenly distributed across the five CASEL domains, concentrating on self-management, self-awareness and relationship skills](casel-domains-unevenly-studied.md) — related
 - [Topic modeling reveals 20 topics in six communities, with special education and collaborative knowledge construction thematically isolated](twenty-topics-six-communities-isolated-clusters.md) — related
+- [AIED ethics publication output is concentrated in Europe, led by the United Kingdom (47%) and Finland (20%)](aied-ethics-publications-european-concentration.md) — related
+- [AIED ethics discussions are dominated by Science (over 50%) with scarce humanities and arts coverage](aied-ethics-subject-area-dominance-science.md) — related

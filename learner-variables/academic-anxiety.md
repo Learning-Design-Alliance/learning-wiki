@@ -13,7 +13,7 @@ generated:
 # Academic Anxiety
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 162 claims (105 show a difference, 39 mixed, 18 no difference) · 96 studies (43 associational, 18 causal, 17 review, 6 quant-synthesis, 6 theoretical, 5 qualitative, 1 design), `q1`–`q4` · 26 of 96 report an effect size · 155 claims rest on one study
+> **Evidence** · 163 claims (106 show a difference, 39 mixed, 18 no difference) · 97 studies (43 associational, 19 causal, 17 review, 6 quant-synthesis, 6 theoretical, 5 qualitative, 1 design), `q1`–`q4` · 26 of 97 report an effect size · 156 claims rest on one study
 
 ## Description
 Academic anxiety is fear or tension aroused by a subject or by being evaluated in it. The research mostly studies three forms: mathematics anxiety, test anxiety and foreign-language anxiety, each measured with self-report scales. Anxiety predicts lower performance, partly because worry takes up [working memory](working-memory.md); it moderates instructional effects (timed or high-stakes formats hurt anxious learners more); and it is an outcome that some designs reduce, such as low-stakes practice testing and expressive writing before an exam. It is a narrower case of [affect regulation](affect-regulation.md).
@@ -198,6 +198,7 @@ Academic anxiety is fear or tension aroused by a subject or by being evaluated i
 - [All three academic anxieties are negatively correlated with STEM interest and positively correlated with mental rotation commission error rate](../claims/anxieties-correlated-mr-error-and-stem-interest.md) [+M] — learners who differ on it differ in outcomes
 - [Math and science anxiety are significant positive predictors of mental rotation commission error rate, above and beyond spatial anxiety, spatial habits, ASL experience, and hearing status](../claims/math-science-anxiety-predict-mr-error.md) [+W] — learners who differ on it differ in outcomes
 - [Math, science, and spatial anxieties are positively intercorrelated, and math anxiety shows the strongest negative relation with STEM interest](../claims/anxieties-intercorrelated-math-strongest-interest.md) [+M] — learners who differ on it differ in outcomes
+- [Lower communication anxiety combined with higher perceived communicative competence is positively correlated with L2 willingness to communicate](../claims/anxiety-competence-wtc-correlation.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Do learners with higher anxiety about a subject or a test achieve less in it?* [Math anxiety has a small-to-moderate negative correlation with math achievement (r = −.28) in a meta-analysis of correlations from 223 studies](../claims/math-anxiety-degrades-performance.md) [+M]

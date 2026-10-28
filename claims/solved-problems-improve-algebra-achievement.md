@@ -71,3 +71,4 @@ Within the same four-study body of evidence for Recommendation 1, one study comp
 - [Studying worked examples improves novices' algebra performance on problems with the same structure as the examples](worked-examples-improve-math-performance.md) — a broader claim this one bears on
 - [Studying worked examples is more effective and more efficient than problem solving for novice learners (the worked example effect)](worked-example-effect-novices-review.md) — a broader claim this one bears on
 - [Teaching reflective questioning or using graphical representations improves procedural and conceptual knowledge across diverse populations](reflective-questioning-graphical-representations-improve-algebra-outcomes.md) — related
+- [Alternating examples and problems yielded more learning and more conceptual knowledge than examples alone or problem-solving alone](examples-plus-problems-beat-examples-alone.md) — related

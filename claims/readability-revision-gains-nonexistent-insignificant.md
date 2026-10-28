@@ -53,3 +53,4 @@ The review reports, citing Duffy and Kabance (1982) among others, that a readabl
 - [The three fine-tuned LLMs differ significantly in response length, readability, and similarity to posts](llm-response-length-readability-differences.md) — related
 - [Type-token ratio showed a non-monotonic relationship with predicted difficulty, with both very low and very high lexical diversity increasing predicted text difficulty](ttr-nonmonotonic-difficulty-pattern.md) — related
 - [Shallow complexity measures for word problems correlate only weakly with difficulty](shallow-complexity-weakly-correlate-difficulty.md) — related
+- [Surface readability measures are weak predictors of question difficulty, per reviewed studies](readability-weak-difficulty-predictors.md) — related

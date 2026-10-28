@@ -27,7 +27,7 @@ sources:
 # Personalization
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 90 claims (48 for, 35 mixed, 7 against) · 93 studies (30 review, 21 causal, 12 theoretical, 9 associational, 9 qualitative, 7 design, 5 quant-synthesis), `q1`–`q4` · 7 of 93 report an effect size · 85 claims rest on one study
+> **Evidence** · 93 claims (51 for, 35 mixed, 7 against) · 96 studies (30 review, 23 causal, 12 theoretical, 9 associational, 9 qualitative, 8 design, 5 quant-synthesis), `q1`–`q4` · 8 of 96 report an effect size · 88 claims rest on one study
 
 ## Conditional relationship
 
@@ -200,6 +200,9 @@ Engagement, immediate achievement on an aligned test, time saved, delayed retent
 - [Adjusting algebra problem contexts to students' out-of-school interests was beneficial](../claims/personalizing-algebra-context-to-interests-beneficial.md) [+W]
 - [Many countries face serious STEM education problems, and tailoring instruction to students' knowledge levels is identified as a key challenge](../claims/stem-problems-tailoring-instruction-challenge.md) [+W]
 - [Computer-based learning systems need to adapt to learners' needs to provide effective personalised instruction](../claims/adaptation-needed-for-personalised-instruction.md) [+W]
+- [A Bayesian problem-selection strategy produced problems better tailored to students' knowledge than the default strategy](../claims/bayesian-problem-selection-better-tailored.md) [+W]
+- [The student model rapidly adapts to a child's knowledge level, reaching the first key skill after about 148 tasks](../claims/rapid-adaptation-to-learner-knowledge-level.md) [+W]
+- [Solving context-personalized AI-generated tasks raises interest more than solving standard tasks](../claims/gai-personalized-tasks-interest.md) [+W]
 
 ## Related Principles
 - [Adaptive Learning](adaptive-learning.md) — the system-driven end of the personalization spectrum, where algorithms adjust difficulty and sequencing
@@ -229,6 +232,8 @@ Engagement, immediate achievement on an aligned test, time saved, delayed retent
 - [Match scaffolding type to learners' prior professional knowledge level](../strategies/match-scaffolding-type-to-prior-knowledge-level.md)
 - [Use seatwork phases to attend diagnostically to students who may need adaptive support](../strategies/seatwork-phase-diagnostic-attention.md)
 - [Tailor number-game difficulty to each child's zone of proximal development rather than using a fixed interval for all](../strategies/tailor-number-game-difficulty-to-zpd.md)
+- [Implement choice-based personalization at scale by letting learners focus assignments on their own locale or background](../strategies/choice-based-personalization-at-scale-strategy.md)
+- [Use LECTOR-extracted topic preferences to design personalized interventions tailored to individual reading preferences](../strategies/lector-topic-preferences-personalized-interventions.md)
 
 ### Validated
 - [Contingent scaffolding improves learning.](../claims/contingent-scaffolding-improves-learning.md) [+M] — Walkington (2013) personalized algebra word problems to individual learners' out-of-school interests (sports, music, gaming) and found improved performance relative to standard contexts, with the largest gains for struggling learners.

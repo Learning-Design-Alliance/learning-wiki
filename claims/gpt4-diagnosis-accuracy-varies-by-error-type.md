@@ -52,3 +52,4 @@ Error-type breakdown of the same GPT-4 diagnosis analysis across all tutoring to
 - Fine-tuned classifiers detect only about 57% of correct-answer misconceptions despite near-perfect wrong-answer classification — related
 - [GPT-4 generates targeted corrective feedback for 66% of student errors, but 35% of hints are too general, incorrect, or give away the answer](gpt4-feedback-66-percent-targeted-35-percent-flawed.md) — related
 - [LLM misconception analysis that ties student errors to instructional content reveals insights not apparent from performance data alone](llm-misconception-analysis-reveals-insights-beyond-performance-data.md) — related
+- [GPT-4 identified a correct answer choice for nearly all generated questions, with a minority of spelling or selection errors](gpt4-correct-answer-choices-97-percent.md) — related

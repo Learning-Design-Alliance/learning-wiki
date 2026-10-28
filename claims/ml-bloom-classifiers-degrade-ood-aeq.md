@@ -57,3 +57,4 @@ Numerical evaluation (5-fold cross-validation on IID-Lau, transfer to OOD Scaria
 - [LLM-assigned difficulty labels fail to predict empirical item difficulty in classroom retrieval practice (ρ=0.06), as do co-generated Bloom levels (ρ=0.02)](llm-difficulty-labels-fail-to-predict-empirical-item-difficulty.md) — related
 - [Retrained BERT relies on high-impact nouns, verbs, and adjectives for correct predictions, but this reliance is muted on the AF dataset](lime-pos-reliance-varies-by-dataset.md) — related
 - [Attribution analysis identifies interpretable input features for BERT's classification decisions, including subjunctive verbs in alternatives and appraisal words in evaluation](attribution-analysis-identifies-bert-classification-features.md) — related
+- [State-of-the-art embedding-based keyphrase models degrade on lecture slides while TF-IDF generalizes better to them](embedding-keyphrase-models-degrade-lecture-slides.md) — related

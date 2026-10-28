@@ -47,6 +47,7 @@ Several annotated background materials recommend experiential methods for interc
 - [Simulation Learning](simulation-based-learning.md)
 - [Debriefing](debriefing.md)
 - [Teachers enrich their own cultural awareness first, then explore native and foreign cultures through authentic settings](teacher-cultural-awareness-first-strategy.md)
+- [Embed synthetic-culture interaction in teacher-led debriefing and repeated blended sessions](mixer-embed-debriefing-whole-learning-experience.md)
 
 ## Examples
 -

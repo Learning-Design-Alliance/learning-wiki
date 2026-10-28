@@ -52,3 +52,4 @@ The authors cite a plasma physics text (Chen, 1977) and parallel examples from n
 - [External empirical evidence can refute a computational model of particle interactions when the model's own simulation cannot](external-evidence-can-refute-computational-models-of-particle-interactions.md) — related
 - [Everyday language routinely and productively crosses ontological categories](everyday-language-crosses-ontological-categories.md) — a broader claim this one bears on
 - [Material difficulty is not determined solely by element number and interactivity](difficulty-beyond-element-interactivity.md) — related
+- [The number of correct actions in a tutor problem space is not inherent to the domain but arises from author design choices](problem-space-size-author-design-choices.md) — related

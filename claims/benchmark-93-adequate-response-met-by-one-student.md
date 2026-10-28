@@ -52,3 +52,4 @@ Postintervention benchmark analysis of the WJ III Basic Reading Skills cluster (
 - [English oral vocabulary scores correlated significantly with word identification and reading comprehension posttest scores in this severely struggling sample](english-oral-vocabulary-correlates-word-reading-comprehension.md)
 - [Teacher-rated social skills and problem behaviors correlated significantly with posttest decoding and spelling scores in severely struggling middle school readers](social-skills-behavior-correlate-decoding-spelling.md)
 - [Remedial reading programs show effects around 0.49 for struggling readers and 0.54 for more severe difficulties](remedial-reading-programs-effectful-struggling-readers.md) — reports the opposite
+- [Higher performers outperformed struggling readers on posttest comprehension after controlling for pretest, on both WJ-III and RAPID measures](higher-performers-beat-struggling-posttest.md) — related

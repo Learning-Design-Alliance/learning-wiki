@@ -47,6 +47,10 @@ Small-group instruction is the element in which learners work with an instructor
 ## The evidence by question
 - *Does targeted instruction by an adult in a small group raise struggling learners' achievement more than whole-class delivery or other intervention components, and how small does the group need to be?* [Small group instruction is associated with significantly larger effect sizes than CAI and incentive components in targeted secondary interventions](../claims/small-group-instruction-outperforms-cai-incentives.md) [+M]
 
+## Examples
+
+- [Whole-class facilitated play of the virtual environments with multi-purpose content](../strategies/whole-class-facilitated-virtual-game-play.md)
+
 ## Related Elements
 - [Group Work](group-work.md)
 - [Peer Collaboration](peer-collaboration.md)

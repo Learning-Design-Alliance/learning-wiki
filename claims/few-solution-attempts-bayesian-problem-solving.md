@@ -50,3 +50,4 @@ Exploratory analysis of the problem-solving worksheets of the 38 students in the
 - [Students' generated solutions rarely matched the erroneous solutions included in the explicit instruction phase](mismatch-generated-instructed-solutions-bayesian.md) — related
 - [In a Bayesian-reasoning replication, problem-solving prior to instruction (PS-I) showed no significant advantage over instruction-first (I-PS) on conceptual knowledge](ps-i-no-effect-conceptual-bayesian-replication.md) — related
 - [Direct instruction may create a lock-in that constrains search for novel solutions](direct-instruction-lock-in-constrains-exploration.md) — related
+- [A Bayesian problem-selection strategy produced problems better tailored to students' knowledge than the default strategy](bayesian-problem-selection-better-tailored.md) — related

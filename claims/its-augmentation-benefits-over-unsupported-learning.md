@@ -52,3 +52,4 @@ The review reports, citing Ma et al. (2014) and Steenbergen-Hu and Cooper (2014)
 - [Intelligent tutoring systems can improve learning outcomes, particularly with immediate actionable feedback](its-improve-learning-outcomes-with-actionable-feedback.md) — related
 - [ITS redefinition: meta-analyses find small to medium benefits for constructive learning with ITS compared to active and passive instructional methods](its-redefinition-benefits-for-constructive-learning.md) — related
 - [Steenbergen-Hu and Cooper found smaller ITS effects in K-12 school settings where lower-achievers did worse, but more positive ITS effects for university students versus conventional instruction](steenbergen-hu-cooper-school-vs-university-its-effects.md) — related
+- [ACLS has shown benefits compared to individual work, unsupported collaboration, and non-adaptive support](acls-benefits-over-individual-and-non-adaptive.md) — related

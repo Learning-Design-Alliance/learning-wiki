@@ -50,3 +50,4 @@ Analysis of high-trickiness items (Section 6.3, Table 6) using GPT-4.1-mini resp
 - [The simulated-respondent approach recovers the guessing parameter c at correlation 0.48, far above regression baselines, suggesting it captures genuine response behavior](simulated-respondents-recover-guessing-parameter-048.md) — related
 - [Incidental vocabulary learning through viewing TV was affected by frequency of occurrence, prior vocabulary knowledge, and cognateness](viewing-vocabulary-learning-affected-by-frequency-prior-knowledge-cognateness.md) — related
 - [LLM-extracted cognitive and linguistic features add predictive value beyond readily available item metadata (grade, domain, item type, word count)](llm-features-add-value-beyond-item-metadata.md) — related
+- [Prompt-level interventions to reduce cognates mostly failed, while lower sampling temperature and model self-checking offered partial mitigation](prompt-interventions-cognate-mitigation.md) — related

@@ -54,6 +54,7 @@ The article recommends that, given substantial variation in policy structure and
 - [Institutions should respond to GenAI with clear governance frameworks and structured professional training programs for staff.](genai-governance-frameworks-and-professional-training.md)
 - [Strengthen institutional policies, ethics education, verification, disclosure, and data protection to support ethical GenAI use](institutional-strategies-ethical-genai-use.md)
 - [Adopt AI-PBL frameworks with institutional and policy-level support and teacher training investment](adopt-ai-pbl-with-teacher-training-investment.md)
+- [Institutions should adopt clear, prominently displayed AI policies and cultivate AI literacy for ethical, employability-oriented use](clear-ai-policies-and-ai-literacy-strategy.md)
 
 ## Examples
 -

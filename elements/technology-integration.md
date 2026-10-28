@@ -13,7 +13,7 @@ generated:
 # Technology Integration
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 101 claims (47 for, 47 mixed, 7 against) · 90 studies (20 associational, 18 qualitative, 16 review, 12 causal, 10 quant-synthesis, 9 design, 5 theoretical), `q1`–`q4` · 15 of 90 report an effect size · 98 claims rest on one study
+> **Evidence** · 102 claims (47 for, 48 mixed, 7 against) · 91 studies (20 associational, 18 qualitative, 16 review, 12 causal, 10 quant-synthesis, 10 design, 5 theoretical), `q1`–`q4` · 15 of 91 report an effect size · 99 claims rest on one study
 
 ## Description
 Technology integration is the element in which digital tools are used in direct service of learning goals, feedback, access, or collaboration.
@@ -126,6 +126,7 @@ Technology integration is the element in which digital tools are used in direct 
 - [AI feedback after sessions can provide on average eight qualified comments aligned with expert feedback per 30-min lesson](../claims/ai-feedback-eight-comments-per-lesson.md) [+W]
 - [Proposed benefits of virtual characters include increased motivation, stimulation of learning activities, and enhanced communication](../claims/virtual-character-proposed-benefits-taxonomy.md) [+W]
 - [LLM-enhanced feedback did not yield a statistically significant improvement in final grades compared with traditional AI feedback](../claims/llm-feedback-no-significant-grade-gain.md) [~W]
+- [Students in the ICLS experiments were satisfied with the system and mostly found it useful for collaborating, but were concerned about its slowness](../claims/icls-students-satisfied-and-found-useful.md) [~W]
 
 ## The evidence by question
 - *Does building AI tools into instruction raise achievement over teaching the same content without them, and in which settings?* [AI-supported instruction has a moderate positive effect on student achievement in STEM education (g = 0.670 under a random effects model)](../claims/ai-instruction-stem-moderate-positive-effect.md) [+M]

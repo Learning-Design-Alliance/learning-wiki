@@ -51,3 +51,4 @@ Experimental comparison of eight independent groups of eight subjects each under
 - [System compensation as implemented is not a satisfactory adaptive variable](system-compensation-unsatisfactory-adaptive-variable.md) — related
 - [K-12 educators value product-improvement research more, and individual-adaptation research less, than higher education educators](k12-product-functionality-goal-difference.md) — related
 - [Natural language control requires less human operation time than manual control for all five complex tasks tested](natural-language-control-faster-than-manual-complex-tasks.md) — related
+- [Automatically generated problems doubled the learning rate compared to manually defined problems](auto-generated-problems-doubled-learning-rate.md) — related

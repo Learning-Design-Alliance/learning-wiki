@@ -56,3 +56,4 @@ This is a single-classroom qualitative study without a comparison condition, so 
 - [Post-interviews with props and embodiment revealed understanding of macro–micro particle changes that the multiple-choice post-test did not capture.](step-interview-surfaces-micro-micro-understanding.md) — related
 - [Latent transition analysis extracted four ability-profiles of hypothesis-based reasoning across affirmative, refuting, and irrelevant evidence](four-hbr-ability-profiles-lta.md) — related
 - [Experts' ontological choices about the same physical phenomenon are context-dependent](expert-ontological-choices-context-dependent.md) — related
+- [Students' frequently-used strategies changed from the acceleration unit to the diffusion unit, showing strategy evolution across model-building tasks](strategy-evolution-across-ctsim-units.md) — related

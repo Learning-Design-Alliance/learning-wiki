@@ -50,3 +50,4 @@ Paper-pencil number-to-position task (36 trials, 0–100 and 0–1000 ranges) an
 - [The subtraction borrowing effect is more pronounced in children with cochlear implants than in hearing peers](ci-borrow-subtraction-specific-difficulty.md)
 - [Children with cochlear implants are generally slower than hearing peers in multiplication and subtraction but show comparable error profiles](ci-children-general-slowing-multiplication-subtraction.md)
 - [In children with cochlear implants, hearing age correlates with fewer non-table multiplication errors and faster borrow subtraction, unlike in hearing peers](ci-hearing-age-correlates-arithmetic-error-patterns.md) — related
+- [Children's accuracy in positioning numbers on a number line improved significantly over training in both number ranges](number-line-accuracy-improves-over-training.md) — related

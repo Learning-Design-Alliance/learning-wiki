@@ -55,6 +55,8 @@ The review's recommendations section advises instructors to proactively incorpor
 - [Redesign assessments to require critical thinking, originality, interactive activities, and real-time or proctored formats](redesign-assessments-to-resist-chatgpt.md)
 - [AI-generated-essay-then-critical-evaluation task sequence for teaching critical evaluation skills](ai-generate-then-critically-evaluate-task-sequence.md)
 - [Design literature-class tasks in which students critically assess AI-generated content and propose improvements](critical-assessment-of-ai-generated-content-tasks.md)
+- [Redesign assessment so AI-generated text cannot substitute for student work: reflective, contextualised and project-based assignments](assessment-redesign-reflective-contextualised-assignments.md)
+- [Incorporate AI-generated text into teaching: students critique AI essays and write better versions](critique-ai-generated-essays-activity.md)
 
 ## Examples
 -

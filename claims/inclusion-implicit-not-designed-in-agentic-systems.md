@@ -50,3 +50,4 @@ Theme 3 of the article's thematic analysis of studies in Tables 2 and 3. The rev
 - [In second-language teaching for pupils with special educational needs, Pepper was associated with higher participation than digital tablets](pepper-vs-tablets-higher-participation-sen-language.md) — related
 - [Current AI deployments in higher education remain task-oriented rather than ecosystem-oriented despite advances in LLMs and multimodal AI](functional-fragmentation-persists-despite-llm-advances.md) — related
 - [AI agents can now navigate and complete tasks within learning management systems](ai-agents-navigate-and-complete-lms-tasks.md) — related
+- [The deficit model of education remains the most common paradigm in AIED systems and falls short in promoting inclusive practices.](aied-deficit-model-limits-inclusion.md) — a broader claim this one bears on

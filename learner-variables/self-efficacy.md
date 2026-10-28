@@ -13,7 +13,7 @@ generated:
 # Self-Efficacy
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 158 claims (116 show a difference, 25 mixed, 17 no difference) · 130 studies (52 associational, 26 causal, 19 review, 14 qualitative, 8 design, 6 theoretical, 5 quant-synthesis), `q1`–`q4` · 28 of 130 report an effect size · 154 claims rest on one study
+> **Evidence** · 160 claims (118 show a difference, 25 mixed, 17 no difference) · 132 studies (52 associational, 27 causal, 20 review, 14 qualitative, 8 design, 6 theoretical, 5 quant-synthesis), `q1`–`q4` · 28 of 132 report an effect size · 156 claims rest on one study
 
 ## Description
 Self-efficacy is Bandura's term for task-specific confidence: how sure a learner is that they can do what a task requires. It is measured with self-report scales tied to a domain (mathematics self-efficacy, writing self-efficacy, computer self-efficacy). It predicts effort, persistence and achievement, it moderates some instructional effects, and it is itself an outcome that instruction can raise, chiefly through experiences of success, seeing similar others succeed, and specific feedback. It is narrower than [motivation](motivation.md) and distinct from general self-esteem.
@@ -189,6 +189,8 @@ Self-efficacy is Bandura's term for task-specific confidence: how sure a learner
 - [GPAΔ predicts achievement slopes as well as the traditional ability-based discrepancy index (cogΔ), and the two indices jointly predict 26% of slope variance](../claims/gpad-equals-cogdelta-prediction-and-joint-26-percent.md) [+M] — learners who differ on it differ in outcomes
 - [Self-perceived reading competency is the strongest mediator of SES–reading achievement (indirect βa×b, SMD = 0.020); fear of failure is the weakest](../claims/self-perceived-competency-strongest-mediator.md) [+M] — learners who differ on it differ in outcomes
 - [NNES graduate students perceive genAI as more useful for writing and report marginally increased writing self-efficacy](../claims/genai-nnes-perceived-usefulness-competency.md) [+M] — instruction changes it
+- [AI ethics can serve as a compelling entry point for teacher AI education, increasing teacher confidence and engaged classroom discussions](../claims/ai-ethics-entry-point-teacher-training.md) [+M] — instruction changes it
+- [Lower communication anxiety combined with higher perceived communicative competence is positively correlated with L2 willingness to communicate](../claims/anxiety-competence-wtc-correlation.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 

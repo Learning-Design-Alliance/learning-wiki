@@ -49,3 +49,5 @@ Discussion of the 40-participant SQL-Tutor experiment results: HPK students impr
 - [Low Prior Knowledge students achieved significantly higher normalized learning gains than High Prior Knowledge students](lpk-normalized-gain-exceeds-hpk.md) — related
 - [In the High-Agency condition, HPK students selected significantly more challenging preparatory tasks than LPK students ('step size' U = 21, p = .038)](step-size-hpk-challenging-selection.md) — related
 - [High- and Low-Agency conditions in SQL-Tutor do not differ in learning outcomes, though both improve significantly from pre- to post-test](no-agency-effect-sql-tutor-learning.md) — reports the opposite
+- [Students with low prior knowledge show significantly higher proportional learning gains than students with high prior knowledge when learning with MetaTutor](lpk-higher-proportional-learning-gain-metatutor.md) — related
+- [The first (1998) evaluation of SQL-Tutor showed students learned from the system and found it useful and easy to use](sql-tutor-1998-evaluation-learning.md) — related

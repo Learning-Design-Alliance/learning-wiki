@@ -50,3 +50,4 @@ Authors' conceptual analysis in the potentials-and-challenges section, attribute
 - [AI's direct impact on SRL concentrates on metacognitive and cognitive aspects while motivation remains underexplored](ai-srl-impact-metacognitive-cognitive-motivation-underexplored.md) — related
 - [Excessive dependence on AI may reduce human interaction and dehumanize adult education](over-reliance-ai-reduces-human-interaction.md) — related
 - [Encapsulation and tuning are the cognitive mechanisms responsible for the transition from elaborated knowledge to simplified causal models](encapsulation-tuning-mechanisms-expertise.md) — related
+- [Openness entails inherent partial understanding of learner actions in collaborative settings](openness-partial-understanding-collaborative-learning.md) — a narrower finding that bears on this claim

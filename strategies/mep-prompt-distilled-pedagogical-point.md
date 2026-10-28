@@ -41,7 +41,8 @@ The strategy is designing a minimal, simple exposure prompt that nudges learners
 - [Simple, targeted mere exposure prompt (MEP) scripts show promise for promoting desirable learning behaviors in a fully online multiplayer role-play classroom](../claims/mep-scripts-socially-shared-regulation-role-play.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Derive requirements for personalised nudges from empirical studies of learner engagement](requirements-driven-personalised-nudges-avw.md)
 
 ## Examples
 -

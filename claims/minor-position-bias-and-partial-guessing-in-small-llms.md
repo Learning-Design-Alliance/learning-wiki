@@ -55,3 +55,4 @@ Stability evaluation (Table 3, Sec. 4): four cyclic option permutations per ques
 - [Model and prompt choice account for only a small share of misalignment error, which concentrates in transcript-conditioned higher-order interactions](variance-decomposition-model-prompt-weak-levers.md) — related
 - [Model and student error patterns on IVDA MCQs show limited question-level consistency but comparable difficulty distributions for easiest and hardest questions](limited-model-student-question-level-alignment.md) — related
 - [ITAP's path success is robust to state ordering: 99.3% of states generated complete paths across 20 randomized-order runs](itap-path-success-robust-randomized-order.md) — related
+- [GPT-4 identified a correct answer choice for nearly all generated questions, with a minority of spelling or selection errors](gpt4-correct-answer-choices-97-percent.md) — related

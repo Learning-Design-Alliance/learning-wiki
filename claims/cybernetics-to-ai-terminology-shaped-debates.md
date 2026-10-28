@@ -48,3 +48,4 @@ Historical-theoretical argument from the article's abstract: the authors trace t
 - Research on AI in STEM education evolved through three stages, from proof-of-concept learning systems to generative-AI-centered adaptive instruction (2015–2025) — related
 - Terminology for personalized learning is used unevenly, with personalized learning, adaptive learning, and intelligent tutoring dominating the 2019–2025 corpus — related
 - [The review identifies three pathways of AI-empowered STEM education: technological leap to generative AI, integration into instructional systems, and value shift toward competency cultivation](three-pathways-ai-empowered-stem-education.md) — related
+- [The gold standard for advanced cyberlearning technology shifted from one-on-one tutoring parity to empowering individuals and teams in dynamic configurations (authors' historical account)](new-gold-standard-beyond-its-parity.md) — related

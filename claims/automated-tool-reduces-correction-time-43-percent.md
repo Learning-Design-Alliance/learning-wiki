@@ -48,3 +48,4 @@ Professor corrected 44 assignments (21 manual, 23 with tool) in one assessment s
 - [An on-premises LLM autograder graded a 200-student course at 1–3 minutes wall-clock time per submission across a full term](lata-onprem-autograder-throughput.md) — related
 - [Student perceptions of the autograder were mixed, with the LaTeX workflow rated more positively than the grader itself](mixed-student-perception-lata.md) — related
 - [In a one-year PBL deployment, the AI-assisted pipeline was associated with instructor preparation time falling from an average of eight hours to two hours per instruction (an estimated 75% reduction).](ai-pipeline-75-percent-prep-time-reduction.md) — related
+- [The special issue reports that an AI-based assessment system combining NLP and code analysis reduced teacher effort in assessing data science MOOCs](ai-nlp-code-assessment-reduces-teacher-effort.md) — related

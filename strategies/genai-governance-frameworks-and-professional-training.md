@@ -55,6 +55,7 @@ The article recommends institutional-level responses to staff survey findings: c
 - [Use findings on instructor power relations to inform professional development for responding to Generative AI](genai-power-relations-inform-instructor-pd.md)
 - [Accrediting bodies and professional organizations should provide AI policy frameworks integrating academic integrity, data ethics, and equitable access, and programs should invest in faculty development](accreditor-ai-policy-frameworks-faculty-development.md)
 - [Implement preventative measures: student awareness programs and regular professional development training for educators](chatbot-preventative-measures-strategy.md)
+- [Institutions should adopt clear, prominently displayed AI policies and cultivate AI literacy for ethical, employability-oriented use](clear-ai-policies-and-ai-literacy-strategy.md)
 
 ## Examples
 -

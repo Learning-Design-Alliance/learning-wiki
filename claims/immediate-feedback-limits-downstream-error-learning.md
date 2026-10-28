@@ -51,3 +51,4 @@ The authors' interpretive note (type e) qualifying the feedback debate: immediat
 - [Feedback Enhances Retrieval Practice](feedback-enhances-retrieval-practice.md) — related
 - [Providing corrective feedback on practice tests does not significantly change the testing effect (g = 0.63 with feedback vs. g = 0.60 without)](feedback-no-significant-moderation.md) — related
 - [Providing feedback after initial multiple-choice tests cut lure intrusions on final short-answer tests roughly in half, with immediate and delayed feedback equally effective](feedback-after-multiple-choice-tests-halves-lure-intrusions.md) — related
+- [Timing of support poses the assistance dilemma, and no empirically validated principles yet exist for when and how much support to give collaborating students](assistance-dilemma-timing-no-validated-principles.md) — related

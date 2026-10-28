@@ -48,6 +48,7 @@ Phoenix is a "voice-based, non-embodied conversational agent that joins real-tim
 ## Related Designs
 
 - [Conversational pedagogical agent with AI-driven dialogue, lip-synchronised audio and conversation memory](ai-conversational-pedagogical-agent-system.md)
+- [Embodied conversational agent Jack for restaurant-context English conversation practice](eca-jack-restaurant-l2-agent.md)
 
 ## Examples
 -

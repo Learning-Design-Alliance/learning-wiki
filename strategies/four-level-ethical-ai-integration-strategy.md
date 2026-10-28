@@ -75,6 +75,7 @@ The study's concluding recommendation is that ethical AI use in higher education
 - [Develop student AI literacy and institutional GenAI policies, guidelines and safeguards for responsible integration](genai-literacy-and-institutional-policy-strategy.md)
 - [Universities should provide vivid guidelines and education on how and where ChatGPT may be used for learning](university-guidelines-education-chatgpt-use.md)
 - [Provide institutional support: regular GenAI workshops, subsidized access to advanced tools, reliable resources, and curriculum inclusion](institutional-support-genai-translation-workshops-curriculum.md)
+- [Institutions should adopt clear, prominently displayed AI policies and cultivate AI literacy for ethical, employability-oriented use](clear-ai-policies-and-ai-literacy-strategy.md)
 
 ## Examples
 -

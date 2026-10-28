@@ -71,3 +71,4 @@ Behavioral log measures from the same within-subjects study: query counts, canva
 - [VeriForge's integrated workflow is associated with higher one-week delayed recall of domain terms and a higher retention rate (exploratory)](veriforge-delayed-recall-retention-rate.md) — related
 - [Embedded AI assistance enabled a novice student to troubleshoot in real time and stay in creative flow](copilot-embedded-support-real-time-troubleshooting.md) — related
 - [In a 30-participant user study, proactive paradigms are preferred over user-initiated interaction, with lower workload, fewer window switches, shorter editing time, and higher acceptance](user-study-proactive-paradigms-preferred.md) — related
+- [Comparing model behavior to real Euglena experiments helped students recognize subtle differences beyond what instructions discussed](bifocal-modeling-reveals-real-model-differences.md) — a narrower finding that bears on this claim

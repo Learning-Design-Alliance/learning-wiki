@@ -47,3 +47,4 @@ Feature-representation analysis shown in Fig. 2 of the FutureLearn purchase-pred
 ## Related Claims
 - [MOOC certificate purchasing is rare: under 1% of enrolled learners purchase, with completion around 10%](mooc-purchase-rate-under-one-percent.md) — related
 - [Machine learning models predict MOOC certificate purchasing with accuracies of 0.82–0.91 using only time spent on each course step](ml-predicts-mooc-purchase-time-spent.md) — related
+- [The special issue reports a deep learning approach to predicting student purchasing behaviour and drop-out in MOOCs](deep-learning-predicts-mooc-dropout-purchasing.md) — related

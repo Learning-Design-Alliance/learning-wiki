@@ -54,3 +54,4 @@ The editorial reports, describing Ogan et al. (2014), that cross-context compari
 - [Help-seeking models transfer above chance across sites but perform poorly on the Costa Rican data](help-seeking-model-transfer-mixed.md) — reports the opposite
 - [Pre-test knowledge differed significantly across the three countries, producing a country by test time interaction](pretest-differences-country-time-interaction.md) — related
 - [Each site's help-seeking model predicted learning in its own data, with widely differing fit (Costa Rica r=0.462, U.S. r=0.350, Philippines r=0.126)](site-specific-help-seeking-model-fit.md) — related
+- [Micro-optimization models currently transfer poorly across tasks and contexts, and tight fitting to interface or content creates versioning and transferability issues](micro-optimization-transfer-limitations.md) — a broader claim this one bears on

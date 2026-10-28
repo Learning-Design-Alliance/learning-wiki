@@ -58,3 +58,4 @@ Quality evaluation of 442 natural language feedback instances using GPT-4.1 as a
 - [GPT-4 generates targeted corrective feedback for 66% of student errors, but 35% of hints are too general, incorrect, or give away the answer](gpt4-feedback-66-percent-targeted-35-percent-flawed.md) — related
 - [Students rate human-generated feedback as superior to AI-generated feedback in quality, helpfulness, and clarity, and as more likely to be acted upon](human-feedback-rated-superior-to-ai-feedback.md) — related
 - [Natural language AI feedback is associated with higher eventual success on initially incorrect programming problems](nl-feedback-higher-eventual-success-programming.md) — related
+- [An expert evaluator rated all GPT-4-generated tests as helpful and comprehensive but noted questions were too easy for specialists](expert-rated-tests-very-helpful.md) — related

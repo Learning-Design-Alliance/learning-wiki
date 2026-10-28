@@ -54,3 +54,4 @@ Fixed-effects regression (model 2) on pooled data from a randomized crossover ex
 - [Wireless keypads with immediate-response questions convert a passive lecture audience into active learners by providing rapid feedback](wireless-keypads-convert-passive-audience-to-active-learners.md) — related
 - [Interactive pedagogy increased nearly half a standard deviation for below-norm students in homogeneous double-dose algebra classes](interactive-pedagogy-increased-below-norm.md) — related
 - [Classroom observations in an affluent district found most teachers did not use deeper-learning strategies, with students passively listening to lectures](ousd-passive-lecture-unchallenged-students.md) — related
+- [Active learning supports learning better than passive lectures, yet students' feelings of learning favor lectures](active-learning-felt-learning-paradox.md) — a broader claim this one bears on

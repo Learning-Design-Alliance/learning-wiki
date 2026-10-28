@@ -39,6 +39,7 @@ Assessment combined project work with two intermediate exams designed to verify 
 ## Related Strategies
 
 - [Fade structured teaching sessions into independent project work over the semester](fade-schools-into-independent-project-work.md)
+- [Reevaluate online assessment security and assessment formats in light of LLM performance on comprehension exams](reevaluate-assessment-chatgpt-integrity.md)
 
 ## Examples
 -

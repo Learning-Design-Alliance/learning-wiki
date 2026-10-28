@@ -66,3 +66,4 @@ The same Moore, Oklahoma teacher-comparison study was recognized by the What Wor
 
 ## Related Claims
 - [Intelligent tutoring systems improve achievement over non-individualised instruction](adaptive-learning-improves-outcomes.md) — a broader claim this one bears on
+- [The 1997 Algebra Cognitive Tutor study reported that 470 students in experimental classes outperformed comparison classes by 15% on standardized tests and 100% on tests targeting course objectives](algebra-tutor-1997-15-100-percent-gains.md) — related

@@ -65,6 +65,7 @@ Relevance works primarily through task value: when learners perceive that conten
 - [Form Interest Groups and Strengths-Based Groups in Science](interest-based-grouping-in-science.md)
 - [Guide young students through investigating interests, making choices, and setting and attaining learning goals](guide-interests-choices-goal-setting-young-children.md)
 - [Nurture the perceived value of creativity through joyful practice, task relevance, varied tasks, and enthusiastic teacher modeling](nurture-perceived-value-of-creativity-strategies.md)
+- [Implement choice-based personalization at scale by letting learners focus assignments on their own locale or background](choice-based-personalization-at-scale-strategy.md)
 
 ## Examples
 - **[Anchored Instruction (Jasper Woodbury Project)](https://peabody.vanderbilt.edu/research/legacy_projects.php)** — Vanderbilt's Jasper Adventure series anchors mathematics problem solving in extended video narratives, giving abstract math a compelling story context.

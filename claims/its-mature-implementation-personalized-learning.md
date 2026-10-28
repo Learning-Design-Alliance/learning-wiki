@@ -66,3 +66,4 @@ The review's Research Question 6 synthesis of nine ITS studies, which the review
 - [Machine learning is the most frequently studied AI type in AIED systematic reviews, followed by intelligent tutoring systems, learning analytics, and data mining](machine-learning-most-studied-ai-in-aied-reviews.md) — related
 - [A minimalist approach to intelligence and adaptivity can still achieve practical success at scale in real classrooms](a-little-intelligence-can-go-a-long-way.md) — related
 - [Simulated students were used to evaluate whether the prototype engines select rational tutorial actions emulating human tutors](simulated-students-evaluate-action-selection.md) — a narrower finding that bears on this claim
+- [Intelligent tutoring systems used at scale are generally not representative of the richness that research systems demonstrate](its-at-scale-simpler-than-research-vision.md) — reports the opposite

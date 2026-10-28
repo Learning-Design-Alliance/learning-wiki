@@ -45,12 +45,13 @@ Fixed-effects regression (model 1) predicting composite feeling-of-learning z sc
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Will learners recognise that they learn more from in-class activities than from a fluent lecture?* This table gathers the studies behind this claim and the 5 narrower claims that bear on it: **5 distinct studies** (3 causal, 1 theoretical, 1 design), `q2`–`q3`, 1 of 5 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Will learners recognise that they learn more from in-class activities than from a fluent lecture?* This table gathers the studies behind this claim and the 5 narrower claims that bear on it: **6 distinct studies** (3 causal, 1 theoretical, 1 kind not coded, 1 design), `q1`–`q3`, 1 of 6 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
 | [Deslauriers L. 2019](https://doi.org/10.1073/pnas.1821936116) | q2 / q3 · causal · r3 | i2 · medium effect, β = −0.56 (0.56 SD lower feeling of learning, p < .001); i? | this claim; [Interviewed students described active classrooms as disjointed and frustrating and preferr](interviews-active-classrooms-disjointed-frustrating.md) (supports); [Perceived instructor fluency, not instruction type, predicted students' feeling of learnin](perceived-instructor-fluency-predicts-feeling-of-learning.md) (supports) |
 | [Favero 2025](https://doi.org/10.48550/arxiv.2507.06878) | q2 · theoretical · r2 | i? | [Students in active learning environments learned more but felt they learned less, mistakin](active-learning-felt-learning-paradox.md) (supports) |
+| [Ken Koedinger 2024](https://doi.org/10.1007/s40593-023-00350-5) | q1 | i? | [Students in active learning environments learned more but felt they learned less, mistakin](active-learning-felt-learning-paradox.md) (supports) |
 | [Carpenter et al. 2013](https://doi.org/10.3758/s13423-013-0442-z) | q3 · causal · r? | i? | [Fluent Illusions Mislead Self Assessment](fluent-illusions-mislead-self-assessment.md) (supports) |
 | [Rhodes & Castel 2008](https://doi.org/10.1037/a0013684) | q3 · causal · r? | i? | [Fluent Illusions Mislead Self Assessment](fluent-illusions-mislead-self-assessment.md) (supports) |
 | [Slepkov 2013](https://doi.org/10.48550/arxiv.1308.4365) | q2 · design · r2 | i? | [Undergraduate physics students react highly positively to the IF-AT format](students-highly-positive-reaction-to-if-at.md) (qualifies) |
