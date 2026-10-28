@@ -8,7 +8,7 @@
 "pattern":54,
 "principle":170,
 "process":18,
-"product":2187,
+"product":2186,
 "research-method":780,
 "strategy":7336,
 "theory":1360
@@ -78726,6 +78726,7 @@
 "id":"digisoc-acceptable-validity-reliability",
 "newest_evidence":"2020",
 "path":"claims/digisoc-acceptable-validity-reliability.md",
+"source_checked":"2026-10-28",
 "status":"review",
 "title":"The DIGISOC questionnaire shows acceptable validity and reliability, including CFA data and favorable Cronbach's alpha coefficients",
 "type":"claim"
@@ -236935,6 +236936,7 @@
 "id":"prior-math-ability-mixed-moderator",
 "newest_evidence":"2026",
 "path":"claims/prior-math-ability-mixed-moderator.md",
+"source_checked":"2026-10-28",
 "status":"review",
 "title":"Prior mathematical ability moderates tablet-DGBL gains, with mixed direction across studies",
 "type":"claim"
@@ -272272,6 +272274,7 @@
 "id":"seven-design-dilemmas-multimedia-vs-complex-skill-guidelines",
 "newest_evidence":"2019",
 "path":"claims/seven-design-dilemmas-multimedia-vs-complex-skill-guidelines.md",
+"source_checked":"2026-10-28",
 "status":"review",
 "title":"Design guidelines from motivational and complex-skill theories (4C/ID, ARCS, CLT) contradict multimedia learning guidelines (CTML), producing seven specific design dilemmas",
 "type":"claim"
@@ -361861,14 +361864,6 @@
 "path":"products/dataset-of-23-publicly-available-us-ai-assisted-software-engineering-course-syllabi-and-ma.md",
 "status":"review",
 "title":"Dataset of 23 publicly available U.S. AI-assisted software engineering course syllabi and materials",
-"type":"product"
-},
-{
-"description":"A Chen et al.",
-"id":"dataset-of-2568-education-category-metacognition-articles-from-web-of-science-20002023",
-"path":"products/dataset-of-2568-education-category-metacognition-articles-from-web-of-science-20002023.md",
-"status":"review",
-"title":"Dataset of 2568 education-category metacognition articles from Web of Science (2000–2023)",
 "type":"product"
 },
 {
@@ -488165,7 +488160,6 @@
 "dataset-nutrition-label":"dataset-nutrition-label",
 "dataset-of-103-postgraduate-data-science-project-proposals-with-instructor-feedback-used-t":"dataset-of-103-postgraduate-data-science-project-proposals-with-instructor-feedback-used-t",
 "dataset-of-23-publicly-available-us-ai-assisted-software-engineering-course-syllabi-and-ma":"dataset-of-23-publicly-available-us-ai-assisted-software-engineering-course-syllabi-and-ma",
-"dataset-of-2568-education-category-metacognition-articles-from-web-of-science-20002023":"dataset-of-2568-education-category-metacognition-articles-from-web-of-science-20002023",
 "dataset-of-434-expert-labelled-authentic-learner-questions-augmented-to-balance-class-dist":"dataset-of-434-expert-labelled-authentic-learner-questions-augmented-to-balance-class-dist",
 "dataset-of-484-de-identified-student-project-reports-with-instructor-reviews-collected-ove":"dataset-of-484-de-identified-student-project-reports-with-instructor-reviews-collected-ove",
 "dataset-of-69-qassim-university-pbl-course-offerings-with-coded-forum-interactions":"dataset-of-69-qassim-university-pbl-course-offerings-with-coded-forum-interactions",

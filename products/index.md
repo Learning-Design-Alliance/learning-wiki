@@ -2,7 +2,7 @@
 
 Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's.
 
-**2187 entries** · 0 stable · 2187 in review · 0 drafts
+**2186 entries** · 0 stable · 2186 in review · 0 drafts
 
 ---
 
@@ -457,7 +457,6 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Dataset Nutrition Label](dataset-nutrition-label.md) - The Dataset Nutrition Label is Holland et al.'s framework for dataset transparency, presenting metadata, source information, variable descriptions, summary statistics, visualizations, and bias-relevant information for dataset creators and consumers.
 * [Dataset of 103 postgraduate data-science project proposals with instructor feedback used to evaluate GPT feedback generation](dataset-of-103-postgraduate-data-science-project-proposals-with-instructor-feedback-used-t.md) - A dataset created by Wei Dai et al.
 * [Dataset of 23 publicly available U.S. AI-assisted software engineering course syllabi and materials](dataset-of-23-publicly-available-us-ai-assisted-software-engineering-course-syllabi-and-ma.md) - A dataset compiled by Francis Geng et al.
-* [Dataset of 2568 education-category metacognition articles from Web of Science (2000–2023)](dataset-of-2568-education-category-metacognition-articles-from-web-of-science-20002023.md) - A Chen et al.
 * [Dataset of 434 expert-labelled authentic learner questions augmented to balance class distributions](dataset-of-434-expert-labelled-authentic-learner-questions-augmented-to-balance-class-dist.md) - A dataset created by Lee et al.
 * [Dataset of 484 de-identified student project reports with instructor reviews collected over twelve semesters](dataset-of-484-de-identified-student-project-reports-with-instructor-reviews-collected-ove.md) - A publicly released research dataset created by Qinjin Jia et al.
 * [Dataset of 69 Qassim University PBL course offerings with coded forum interactions](dataset-of-69-qassim-university-pbl-course-offerings-with-coded-forum-interactions.md) - A dataset compiled from 69 Qassim University problem-based learning course offerings, containing coded Moodle forum interactions, student participation, and course-assessment information for studying online collaborative learning.

@@ -11,15 +11,17 @@ evidence_strength: moderate
 newest_evidence: 1955
 sources:
   - id: kanner-1955
-    title: "Kanner, Joseph H.; Runyon, Richard P.; and Desiderato, Otello. (1955). Television in Army Training: Evaluation of Television in Army Basic Training. Technical Report No. 14, Human Resources Research Office, The George Washington University, Washington 7, D. C."
-    author: Kanner, Joseph H.; Runyon, Richard P.; and Desiderato, Otello
+    resource: "https://doi.org/10.1007/bf02719927"
+    title: "Kanner, J. H., Runyon, R. P., & Desiderato, O. (1955). Television in Army Training: Evaluation of Television in Army Basic Training (Technical Report No. 14). Human Resources Research Office, The George Washington University. Read through Twyford's 1955 research abstract, [doi:10.1007/bf02719927](https://doi.org/10.1007/bf02719927)"
+    author: "Kanner, J. H., Runyon, R. P., & Desiderato, O."
     q: 2
     i: "?"
     kind: causal
     rigour: 1
   - id: kanner-1955-2
-    title: "Kanner, Joseph H.; Runyon, Richard P.; and Desiderato, Otello. (1955). Television in Army Training: Evaluation of Television in Army Basic Training. Technical Report No. 14, Human Resources Research Office, The George Washington University, Washington 7, D. C."
-    author: Kanner, Joseph H.; Runyon, Richard P.; and Desiderato, Otello
+    resource: "https://doi.org/10.1007/bf02719927"
+    title: "Kanner, J. H., Runyon, R. P., & Desiderato, O. (1955). Television in Army Training: Evaluation of Television in Army Basic Training (Technical Report No. 14). Human Resources Research Office, The George Washington University. Read through Twyford's 1955 research abstract, [doi:10.1007/bf02719927](https://doi.org/10.1007/bf02719927)"
+    author: "Kanner, J. H., Runyon, R. P., & Desiderato, O."
     q: 2
     i: "?"
     kind: causal
@@ -40,7 +42,7 @@ sources:
 
 ### Kanner 1955
 
-Kanner, Joseph H.; Runyon, Richard P.; and Desiderato, Otello. (1955). Television in Army Training: Evaluation of Television in Army Basic Training. Technical Report No. 14, Human Resources Research Office, The George Washington University, Washington 7, D. C.
+Kanner, J. H., Runyon, R. P., & Desiderato, O. (1955). Television in Army Training: Evaluation of Television in Army Basic Training (Technical Report No. 14). Human Resources Research Office, The George Washington University. Read through Twyford's 1955 research abstract, [doi:10.1007/bf02719927](https://doi.org/10.1007/bf02719927)
 
 `q2 · i?` · `causal · r1`
 
@@ -50,7 +52,7 @@ Retention comparison between review without further training and with kinescope 
 
 ### Kanner 1955 (2)
 
-Kanner, Joseph H.; Runyon, Richard P.; and Desiderato, Otello. (1955). Television in Army Training: Evaluation of Television in Army Basic Training. Technical Report No. 14, Human Resources Research Office, The George Washington University, Washington 7, D. C.
+Kanner, J. H., Runyon, R. P., & Desiderato, O. (1955). Television in Army Training: Evaluation of Television in Army Basic Training (Technical Report No. 14). Human Resources Research Office, The George Washington University. Read through Twyford's 1955 research abstract, [doi:10.1007/bf02719927](https://doi.org/10.1007/bf02719927)
 
 `q2 · i?` · `causal · r1`
 

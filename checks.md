@@ -10,14 +10,14 @@ This wiki is written by language models, from published research, and checked by
 |---|---|
 | Claims | 32,363, from 8,095 sources |
 | Reviewed by a person | 0 |
-| Every evidence entry compared with its source by the faithfulness judge | 5,243 claims (16%) |
-| Claims citing at least one DOI | 24,750 claims (76%) |
+| Every evidence entry compared with its source by the faithfulness judge | 5,246 claims (16%) |
+| Claims citing at least one DOI | 24,755 claims (76%) |
 | Sources whose citations went through the Crossref identity gate | 7,581 of 8,095 |
 | Sources read for impossible statistics and invented references | 6,251 of 7,135 (2026-10-25) |
 | Cited DOIs checked for retraction | 6,793 of 6,793 (2026-10-25) |
 | Retracted sources found and acted on | 3 |
 | Claims past their recheck year (fast-ageing kinds only) | 2,571 of 5,710 with one |
-| Claims removed by a check, all time | 4,427 |
+| Claims removed by a check, all time | 4,428 |
 
 ## The checks, in the order a claim meets them
 
@@ -51,7 +51,7 @@ A claim whose evidence has no DOI after a Crossref and DataCite search is remove
 
 **Cannot catch.** Whether the DOI'd source is any good.
 
-**Coverage.** 24,750 of 32,363 claims (76%) cite a DOI; 2,878 claims removed for having none.
+**Coverage.** 24,755 of 32,363 claims (76%) cite a DOI; 2,878 claims removed for having none.
 
 ### 5. Faithfulness to the source
 
@@ -59,7 +59,7 @@ A second model, from a different provider, reads each evidence entry beside the 
 
 **Cannot catch.** A claim checked only against an abstract, for detail an abstract does not carry. The judge is a model and has been wrong; its failures are read before they are acted on.
 
-**Coverage.** 5,243 claims (16%) have had every evidence entry compared with its source and passed; 162 judge failures were read and recorded with a reason. Each claim states this on its page, in its *Currency* line.
+**Coverage.** 5,246 claims (16%) have had every evidence entry compared with its source and passed; 162 judge failures were read and recorded with a reason. Each claim states this on its page, in its *Currency* line.
 
 ### 6. Can the source be believed?
 
@@ -67,7 +67,7 @@ Added 2026-10-25, after an audit of AI-in-education meta-analyses found that a s
 
 **Cannot catch.** Invented references that carry no DOI and no anachronism; errors that leave the arithmetic consistent; a source whose text was not available (abstract only).
 
-**Coverage.** 6,251 of 7,135 sources read (2026-10-25): 43 with a finding, 4 high severity. Reference DOIs: 6,519 DOIs from 610 AI-era sources resolved; 202 sources have one that does not resolve or names another work, listed for a person but not acted on automatically, because text extracted from a PDF breaks DOIs across lines and most of these are layout, not invention. 7 findings decided: 6 confirmed and acted on, 1 false alarms. 3 retracted sources found; of 6,793 DOIs the wiki cites, 0 were registered at neither Crossref nor DataCite when last checked (2026-10-25).
+**Coverage.** 6,251 of 7,135 sources read (2026-10-25): 43 with a finding, 4 high severity. Reference DOIs: 6,519 DOIs from 610 AI-era sources resolved; 202 sources have one that does not resolve or names another work, listed for a person but not acted on automatically, because text extracted from a PDF breaks DOIs across lines and most of these are layout, not invention. 8 findings decided: 6 confirmed and acted on, 2 false alarms. 3 retracted sources found; of 6,793 DOIs the wiki cites, 0 were registered at neither Crossref nor DataCite when last checked (2026-10-25).
 
 ### 7. Does the study measure what the claim says?
 
@@ -120,7 +120,7 @@ Removals are logged with their reason in `eval/removed/pages.ndjson`; git histor
 | Local context only (one district, programme or year) | 217 |
 | Source cannot be believed (impossible statistics, invented references, retraction) | 11 |
 | Citation chase: a retracted article or off-topic methods literature | 83 |
-| Misfiled or thin page folded or dropped | 237 |
+| Misfiled or thin page folded or dropped | 238 |
 | Other (see eval/removed/pages.ndjson) | 6 |
 
 ## What no check here does

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: weak
 newest_evidence: 2019
+source_checked: 2026-10-28
 sources:
   - id: kevin-ackermans-2019
     resource: "https://doi.org/10.1007/s11423-019-09668-1"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
-> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2019 · checked against its sources 2026-10-28 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The authors identify seven specific dilemmas in which guidelines derived from 4C/ID, ARCS and CLT contradict guidelines derived from CTML, covering situational interest, non-essential information, learner control, peer model selection, segmentation, durability of the multimedia principle, and split attention. [→ Kevin Ackermans 2019](#kevin-ackermans-2019)

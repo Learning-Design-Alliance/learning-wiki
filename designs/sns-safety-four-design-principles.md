@@ -10,7 +10,7 @@ generated:
 sources:
   - id: vanderhoven-2015
     resource: "https://biblio.ugent.be"
-    title: "Vanderhoven, E., Schellens, T., Vanderlinde, R., & Valcke, M. (2015). Developing educational materials about risks on social network sites: A design-based research approach. Ghent University. https://biblio.ugent.be"
+    title: "Vanderhoven, E., Schellens, T., Vanderlinde, R., & Valcke, M. (2015). Developing educational materials about risks on social network sites: A design-based research approach. *Educational Technology Research and Development, 64*(3), 459–480. https://doi.org/10.1007/s11423-015-9415-4"
     author: "Vanderhoven, E., Schellens, T., Vanderlinde, R., & Valcke, M"
 ---
 
@@ -50,4 +50,4 @@ Through reflection on all eight studies, the authors revised their initial desig
 -
 
 ## Key Sources
-- Vanderhoven, E., Schellens, T., Vanderlinde, R., & Valcke, M. (2015). Developing educational materials about risks on social network sites: A design-based research approach. Ghent University. https://biblio.ugent.be
+- Vanderhoven, E., Schellens, T., Vanderlinde, R., & Valcke, M. (2015). Developing educational materials about risks on social network sites: A design-based research approach. *Educational Technology Research and Development, 64*(3), 459–480. https://doi.org/10.1007/s11423-015-9415-4

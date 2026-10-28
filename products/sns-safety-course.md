@@ -30,4 +30,4 @@ A one-hour secondary-school curriculum package developed by Vanderhoven et al. f
 -
 
 ## Key Sources
-- Vanderhoven, E., Schellens, T., Vanderlinde, R., & Valcke, M. (2015). Developing educational materials about risks on social network sites: A design-based research approach. Ghent University. https://biblio.ugent.be
+- Vanderhoven, E., Schellens, T., Vanderlinde, R., & Valcke, M. (2015). Developing educational materials about risks on social network sites: A design-based research approach. *Educational Technology Research and Development, 64*(3), 459–480. https://doi.org/10.1007/s11423-015-9415-4
