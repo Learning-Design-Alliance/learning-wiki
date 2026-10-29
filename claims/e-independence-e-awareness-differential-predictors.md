@@ -48,6 +48,6 @@ In the same multi-group SEM (n = 776), emotional e-awareness enters only the boy
 - [Emotional Intelligence](../learner-variables/emotional-intelligence.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
-- [Socio-emotional e-competencies relate negatively to habitual digital behaviors, except social e-competency which relates positively and emotional e-awareness which shows no relation](e-competencies-negative-relation-habitual-digital-behaviors.md) — related
-- [Emotional e-regulation and e-self-control of impulsiveness are the strongest SEM predictors of habitual digital behaviors across genders and age groups](e-regulation-e-self-control-strongest-predictors.md) — related
+- [Socio-emotional e-competencies correlate negatively with habitual digital behaviors in secondary students, except social e-competency (weakly positive) and emotional e-awareness (no significant correlation)](e-competencies-negative-relation-habitual-digital-behaviors.md) — related
+- [Emotional e-regulation and e-self-control of impulsiveness are the strongest SEM predictors of fewer habitual digital behaviors across genders and age groups, in cross-sectional data](e-regulation-e-self-control-strongest-predictors.md) — related
 - [Media multitasking during academic tasks, phubbing, and cybergossip form a single construct of habitual digital behavior in secondary students](three-habits-one-habitual-digital-behavior-construct.md) — a broader claim this one bears on

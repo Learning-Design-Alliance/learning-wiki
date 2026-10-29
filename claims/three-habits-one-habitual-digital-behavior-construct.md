@@ -47,6 +47,6 @@ CFA within the SEM analysis of questionnaire data from n = 776 secondary student
 ## Related Claims
 - [Emotional e-independence predicts habitual digital behaviors only in girls and older students, while emotional e-awareness predicts them only in boys](e-independence-e-awareness-differential-predictors.md) — a narrower finding that bears on this claim
 - [Phubbing is slightly higher in girls, and all three habitual digital behaviors are higher in older secondary students](gender-age-differences-habitual-digital-behaviors.md) — related
-- [Socio-emotional e-competencies relate negatively to habitual digital behaviors, except social e-competency which relates positively and emotional e-awareness which shows no relation](e-competencies-negative-relation-habitual-digital-behaviors.md) — related
-- [Social e-competency positively predicts habitual digital behaviors, invariantly across gender and age groups](social-e-competency-positive-predictor.md) — related
-- [Emotional e-regulation and e-self-control of impulsiveness are the strongest SEM predictors of habitual digital behaviors across genders and age groups](e-regulation-e-self-control-strongest-predictors.md) — related
+- [Socio-emotional e-competencies correlate negatively with habitual digital behaviors in secondary students, except social e-competency (weakly positive) and emotional e-awareness (no significant correlation)](e-competencies-negative-relation-habitual-digital-behaviors.md) — related
+- [Social e-competency is a positive statistical predictor of habitual digital behaviors, invariant across gender and age groups, in cross-sectional data](social-e-competency-positive-predictor.md) — related
+- [Emotional e-regulation and e-self-control of impulsiveness are the strongest SEM predictors of fewer habitual digital behaviors across genders and age groups, in cross-sectional data](e-regulation-e-self-control-strongest-predictors.md) — related

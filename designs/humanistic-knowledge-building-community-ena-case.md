@@ -9,8 +9,8 @@ generated:
   at: 2026-10-29
 sources:
   - id: hod-2020
-    resource: "https://zenodo.org"
-    title: "Hod, Yotam; Eagan, Brendan; Katz, Shir. (2020). Refining qualitative ethnographies using Epistemic Network Analysis: A study of socioemotional learning dimensions in a humanistic knowledge building community. Journal article. https://zenodo.org"
+    resource: "https://doi.org/10.1016/j.compedu.2020.103943"
+    title: "Hod, Yotam; Eagan, Brendan; Katz, Shir. (2020). Refining qualitative ethnographies using Epistemic Network Analysis: A study of socioemotional learning dimensions in a humanistic knowledge building community. Journal article. https://doi.org/10.1016/j.compedu.2020.103943"
     author: Hod, Yotam; Eagan, Brendan; Katz, Shir
 ---
 
@@ -48,4 +48,4 @@ The study's empirical site is a classroom learning community studied during "a s
 -
 
 ## Key Sources
-- Hod, Yotam; Eagan, Brendan; Katz, Shir. (2020). Refining qualitative ethnographies using Epistemic Network Analysis: A study of socioemotional learning dimensions in a humanistic knowledge building community. Journal article. https://zenodo.org
+- Hod, Yotam; Eagan, Brendan; Katz, Shir. (2020). Refining qualitative ethnographies using Epistemic Network Analysis: A study of socioemotional learning dimensions in a humanistic knowledge building community. Journal article. https://doi.org/10.1016/j.compedu.2020.103943

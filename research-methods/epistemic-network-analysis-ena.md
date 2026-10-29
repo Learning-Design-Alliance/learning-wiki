@@ -49,7 +49,7 @@ Epistemic network analysis (ENA) is a non-parametric analytic method developed f
 <!-- merged 2026-10-10 from elements/epistemic-network-analysis-weighted-density ("Epistemic network analysis and its weighted density statistic for analyzing SKIVE element co-occurrence in epistemic games"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
 - Dai, Z., Huang, F., Xiong, J., Yang, Y., Zhang, Q., & Peng, X. (2026). Inquiry-based learning in STEM education: the impact of generative AI-based Chatbots on primary school students’ problem posing ability in science. International Journal of STEM Education. https://doi.org/10.1186/s40594-026-00631-0
 - Peter Reimann. (2021). Socio-technical configurations for productive talk. Intern. J. Comput.-Support. Collab. Learn (2021) 16:301–306. https://doi.org/10.1007/s11412-021-09354-6
-- Hod, Yotam; Eagan, Brendan; Katz, Shir. (2020). Refining qualitative ethnographies using Epistemic Network Analysis: A study of socioemotional learning dimensions in a humanistic knowledge building community. Journal article. https://zenodo.org
+- Hod, Yotam; Eagan, Brendan; Katz, Shir. (2020). Refining qualitative ethnographies using Epistemic Network Analysis: A study of socioemotional learning dimensions in a humanistic knowledge building community. Journal article. https://doi.org/10.1016/j.compedu.2020.103943
 
 # Epistemic network analysis and its weighted density statistic for analyzing SKIVE element co-occurrence in epistemic games
 

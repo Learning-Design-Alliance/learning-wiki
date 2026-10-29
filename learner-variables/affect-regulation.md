@@ -253,7 +253,7 @@ What a learner does with frustration, anxiety and failure while the work is stil
 - [The authors suggest incorporating scholarship on the challenges of active learning into courses may help students reflect on their own discomfort and resistance](../claims/explicit-engagement-with-al-challenges-scholarship-suggestion.md) [~W] — instruction changes it
 - [Loss of a study routine reduced productivity and fed a cycle of procrastination, workload pile-up, stress and escapism for many students](../claims/lost-routine-procrastination-stress-cycle.md) [+M] — instruction changes it
 - [User testing showed free-form note-taking frustrated users, prompting a redesign to drag-and-drop scaffolding that reduced frustration and improved engagement](../claims/drag-and-drop-notebook-scaffolding-redesign.md) [+W] — instruction changes it
-- [Emotional e-regulation and e-self-control of impulsiveness are the strongest SEM predictors of habitual digital behaviors across genders and age groups](../claims/e-regulation-e-self-control-strongest-predictors.md) [+M] — learners who differ on it differ in outcomes
+- [Emotional e-regulation and e-self-control of impulsiveness are the strongest SEM predictors of fewer habitual digital behaviors across genders and age groups, in cross-sectional data](../claims/e-regulation-e-self-control-strongest-predictors.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 

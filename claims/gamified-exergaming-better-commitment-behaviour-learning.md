@@ -9,13 +9,14 @@ generated:
   at: 2026-10-29
 evidence_strength: moderate
 newest_evidence: 2020
+source_checked: 2026-10-29
 sources:
   - id: quintas-2020
     resource: "https://doi.org/10.1016/j.compedu.2020.103874"
-    title: "Quintas, A., Bustamante, J.-C., Pradas, F., & Castellar, C. (2020). Psychological effects of gamified didactics with exergames in Physical Education at primary schools: results from a natural experiment. https://doi.org/10.1016/j.compedu.2020.103874"
+    title: "Quintas, A., Bustamante, J.-C., Pradas, F., & Castellar, C. (2020). Psychological effects of gamified didactics with exergames in Physical Education at primary schools: Results from a natural experiment. *Computers & Education, 152*, 103874. [doi:10.1016/j.compedu.2020.103874](https://doi.org/10.1016/j.compedu.2020.103874)"
     author: "Quintas, A., Bustamante, J.-C., Pradas, F., & Castellar, C."
     q: 2
-    i: 2
+    i: 1
     kind: causal
     rigour: 2
 ---
@@ -23,21 +24,21 @@ sources:
 # Commitment to and behaviour towards learning is better after a gamified exergaming intervention than after traditional PE teaching
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · causal `r2` · `q2` · `i2` medium
-> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
+> **Evidence** · 1 study · causal `r2` · `q2` · `i1` small
+> **Currency** · newest study 2020 · checked against its sources 2026-10-29 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
-`q2 i2` Teacher-rated commitment to and behaviour towards learning was significantly better in the gamified exergaming group than in the control group. [→ Quintas 2020](#quintas-2020)
+`q2 i1` Teacher-rated commitment to and behaviour towards learning was significantly better in the gamified exergaming group than in the control group. [→ Quintas 2020](#quintas-2020)
 
 ## Evidence
 
 ### Quintas 2020
 
-Quintas, A., Bustamante, J.-C., Pradas, F., & Castellar, C. (2020). Psychological effects of gamified didactics with exergames in Physical Education at primary schools: results from a natural experiment. https://doi.org/10.1016/j.compedu.2020.103874
+Quintas, A., Bustamante, J.-C., Pradas, F., & Castellar, C. (2020). Psychological effects of gamified didactics with exergames in Physical Education at primary schools: Results from a natural experiment. *Computers & Education, 152*, 103874. [doi:10.1016/j.compedu.2020.103874](https://doi.org/10.1016/j.compedu.2020.103874)
 
-`q2 · i2` · `causal · r2`
+`q2 · i1` · `causal · r2`
 
-Teacher ratings on a 1-5 scale of each student's commitment and behaviour throughout the treatment, compared between the gamified exergaming and control groups. The article reports a significant between-group difference with ηp2=.042 (a medium effect) and states commitment was better in the gamified exergaming intervention.
+The teacher's ratings on a 1-5 scale of each student's commitment and behaviour throughout the treatment, compared between the gamified exergaming and control groups. The article reports a significant between-group difference with ηp2=.042; it does not label the size, which is below the conventional .06 benchmark for a medium η², so it is coded small here. The article states commitment was better in the gamified exergaming intervention.
 
 > "A significant difference between groups was found in commitment to and behaviour towards learning (t(407)=-4,2, p=.000, ηp2=.042). Commitment to and behaviour towards learning was better in the gamified exergaming intervention increased than in the non-gamified and non-exergaming intervention."
 

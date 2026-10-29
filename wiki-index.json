@@ -89971,13 +89971,14 @@
 "type":"claim"
 },
 {
-"description":"Socio-emotional e-competencies relate negatively to habitual digital behaviors, except social e-competency which relates positively and emotional e-awareness which shows no relation",
+"description":"Socio-emotional e-competencies correlate negatively with habitual digital behaviors in secondary students, except social e-competency (weakly positive) and emotional e-awareness (no significant correlation)",
 "evidence_strength":"moderate",
 "id":"e-competencies-negative-relation-habitual-digital-behaviors",
 "newest_evidence":"2022",
 "path":"claims/e-competencies-negative-relation-habitual-digital-behaviors.md",
+"source_checked":"2026-10-29",
 "status":"review",
-"title":"Socio-emotional e-competencies relate negatively to habitual digital behaviors, except social e-competency which relates positively and emotional e-awareness which shows no relation",
+"title":"Socio-emotional e-competencies correlate negatively with habitual digital behaviors in secondary students, except social e-competency (weakly positive) and emotional e-awareness (no significant correlation)",
 "type":"claim"
 },
 {
@@ -90001,13 +90002,14 @@
 "type":"claim"
 },
 {
-"description":"Emotional e-regulation and e-self-control of impulsiveness are the strongest SEM predictors of habitual digital behaviors across genders and age groups",
+"description":"Emotional e-regulation and e-self-control of impulsiveness are the strongest SEM predictors of fewer habitual digital behaviors across genders and age groups, in cross-sectional data",
 "evidence_strength":"moderate",
 "id":"e-regulation-e-self-control-strongest-predictors",
 "newest_evidence":"2022",
 "path":"claims/e-regulation-e-self-control-strongest-predictors.md",
+"source_checked":"2026-10-29",
 "status":"review",
-"title":"Emotional e-regulation and e-self-control of impulsiveness are the strongest SEM predictors of habitual digital behaviors across genders and age groups",
+"title":"Emotional e-regulation and e-self-control of impulsiveness are the strongest SEM predictors of fewer habitual digital behaviors across genders and age groups, in cross-sectional data",
 "type":"claim"
 },
 {
@@ -125084,6 +125086,7 @@
 "id":"gamified-exergaming-better-commitment-behaviour-learning",
 "newest_evidence":"2020",
 "path":"claims/gamified-exergaming-better-commitment-behaviour-learning.md",
+"source_checked":"2026-10-29",
 "status":"review",
 "title":"Commitment to and behaviour towards learning is better after a gamified exergaming intervention than after traditional PE teaching",
 "type":"claim"
@@ -293238,13 +293241,14 @@
 "type":"claim"
 },
 {
-"description":"Social e-competency positively predicts habitual digital behaviors, invariantly across gender and age groups",
+"description":"Social e-competency is a positive statistical predictor of habitual digital behaviors, invariant across gender and age groups, in cross-sectional data",
 "evidence_strength":"weak",
 "id":"social-e-competency-positive-predictor",
 "newest_evidence":"2022",
 "path":"claims/social-e-competency-positive-predictor.md",
+"source_checked":"2026-10-29",
 "status":"review",
-"title":"Social e-competency positively predicts habitual digital behaviors, invariantly across gender and age groups",
+"title":"Social e-competency is a positive statistical predictor of habitual digital behaviors, invariant across gender and age groups, in cross-sectional data",
 "type":"claim"
 },
 {
