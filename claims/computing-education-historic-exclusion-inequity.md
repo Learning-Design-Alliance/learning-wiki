@@ -56,3 +56,4 @@ Theoretical argument in the guide's introduction, citing prior scholarship (Marg
 - [Global inclusion gaps persist despite large EdTech investment](inclusion-gap-persists-despite-edtech-investment.md) — related
 - [Inclusion of students with disabilities often falls short because efforts start from a place of exclusion, making students guests who must earn access](disability-inclusion-starts-from-exclusion.md) — related
 - [Access to opportunities is critical to promote equity in computing, per the study's examination of marginalized girls' experience during the COVID pandemic](e5c-access-critical-for-equity.md) — a narrower finding that bears on this claim
+- [Stereotypical attributions to struggle reproduce dominant discourse that excludes minoritized populations from computer science](attributions-reinforce-exclusionary-cs-stereotypes.md) — a narrower finding that bears on this claim

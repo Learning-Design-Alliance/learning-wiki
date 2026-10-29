@@ -62,6 +62,7 @@ Wiley frames the value of true 5R openness as "permissionless innovation" (Thier
 - [Share professional development slides openly via short links and a Creative Commons license](../strategies/open-cc-licensed-pd-slides-strategy.md)
 - [Reuse and adapt existing scenarios to make repeated TTX delivery sustainable](../strategies/scenario-reuse-for-sustainable-ttx-delivery.md)
 - [Adopt OER to make digital learning flexible and affordable for learners facing medical, financial, and daily life challenges](../strategies/adopt-oer-flexible-affordable-online-learning.md)
+- [Explore the 5R affordances combined with evidence-based teaching practices to develop OER-enabled pedagogies](../strategies/explore-5r-affordances-oer-enabled-pedagogy.md)
 
 ## Key Sources
 - Wiley, D. (2014). The MOOC misstep and the open education infrastructure. Republished in R. West (Ed.), *Foundations of Learning and Instructional Design Technology*. EdTech Books. [https://edtechbooks.org/lidtfoundations/open_educational_resources](https://edtechbooks.org/lidtfoundations/open_educational_resources)

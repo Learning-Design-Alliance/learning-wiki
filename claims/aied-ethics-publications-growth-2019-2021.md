@@ -49,3 +49,4 @@ Mapping question analysis of publication counts across the 2011–2022 review pe
 - [Research on GenAI in programming education increased markedly from 2019 onward](genai-programming-education-publications-increase-2019.md) — related
 - [Systematic reviews of AIED were absent from 2015 to 2018 in this corpus and increased steadily from 2019 onward](aied-review-publication-trend-2019-increase.md) — related
 - [Annual metacognition publications rose through the period, peaking at over 250 in 2022 before dropping to 125 in 2023](metacognition-publication-growth-peak-2022.md) — related
+- [Research applying learning analytics to inquiry-based learning grew steadily from a first 2012 conference paper, peaking in 2019 with seven publications, with most outputs as journal articles](la-in-ibl-publication-trends-51-studies.md) — related

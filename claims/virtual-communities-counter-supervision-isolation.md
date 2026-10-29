@@ -64,3 +64,4 @@ Conclusion drawn from the study's consultations and implementation case study; t
 - [External feedback from supervisors, tutors, and peers supports students' completion and accuracy of self-assessment, with high achievers more likely to use tutor feedback](external-feedback-supports-self-assessment-implementation.md) — related
 - [Community-only peer review carries stated risks of echo chambers, bullying, and uneven resources](community-peer-review-risks.md) — related
 - [Lack of interpersonal engagement, interaction and collaboration, plus reduced social contact and isolation (45%), negatively impacted many students' online learning experience](lost-interaction-community-lockdown.md) — related
+- [Teachers customizing online approaches may reduce lack of interaction in large classes and isolation in distance education](customized-online-learning-reduces-interaction-deficits.md) — related

@@ -13,7 +13,7 @@ generated:
 # Digital Literacy
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 61 claims (41 show a difference, 11 mixed, 9 no difference) · 49 studies (16 associational, 11 causal, 6 review, 6 qualitative, 4 theoretical, 3 quant-synthesis, 3 design), `q1`–`q4` · 10 of 49 report an effect size · 59 claims rest on one study
+> **Evidence** · 66 claims (45 show a difference, 11 mixed, 10 no difference) · 52 studies (16 associational, 11 causal, 7 review, 7 qualitative, 4 quant-synthesis, 4 theoretical, 3 design), `q1`–`q4` · 10 of 52 report an effect size · 64 claims rest on one study
 
 ## Description
 Whether a learner can *operate* the interface — distinct from [access](access.md), which is whether they can load it at all. It covers navigation, file handling, knowing what is clickable, and the confidence to explore without fear of breaking something. Every course here is delivered digitally, so this is never out of scope, and it is the dimension most often assumed away: a designer fluent in the interface cannot see it.
@@ -95,6 +95,11 @@ Whether a learner can *operate* the interface — distinct from [access](access.
 - [Computer self-efficacy mediates the relationship between technological literacy attained through the Contextualized-OLPC project and functional literacy](../claims/computer-self-efficacy-mediation-olpc-functional-literacy.md) [+M] — learners who differ on it differ in outcomes
 - [Students across all knowledge areas report gaining new technological competences from studying online at the UOC](../claims/uoc-online-study-gains-digital-competences.md) [+M] — instruction changes it
 - [Technological knowledge was associated positively with functional literacy](../claims/technological-literacy-associated-functional-literacy.md) [+M] — learners who differ on it differ in outcomes
+- [Higher education teachers entered the pandemic with heterogeneous self-perceived digital pedagogical skills, which shaped their ability to respond to the disruption](../claims/heterogeneous-teacher-digital-skills-at-got-onset.md) [+M] — learners who differ on it differ in outcomes
+- [Institutional environment — leadership, policy debate, and school culture — significantly affects success in developing teachers' digital literacy](../claims/institutional-environment-affects-digital-literacy-development.md) [+M] — instruction changes it
+- [Reviews find no differences in developing digital literacy between in-service and pre-service teachers, dispelling the digital natives myth](../claims/no-in-service-preservice-digital-literacy-difference.md) [-M] — instruction changes it
+- [Role modelling is the most promising approach for developing teachers' digital literacy, identified in seven reviews](../claims/role-modelling-develops-teacher-digital-literacy.md) [+M] — instruction changes it
+- [The COVID-19 shift to online learning in higher education caused panic and discomfort because many instructors lacked skills, resources, and didactic aptitude](../claims/pandemic-remote-shift-instructor-unpreparedness.md) [+W] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Do learners who differ in digital literacy differ in learning, engagement and later outcomes?* [Digital skills gaps span demographic groups and shape e-learning, job performance, and earnings](../claims/digital-literacy-gaps-span-demographics.md) [+M]

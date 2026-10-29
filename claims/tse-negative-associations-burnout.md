@@ -52,3 +52,4 @@ Synthesis of 165 eligible articles on teacher self-efficacy via a criteria-based
 - [Teacher ill-being shows a small negative association with student motivation and achievement (r = –.13)](teacher-ill-being-negative-student-outcomes-r13.md) — related
 - [Burnout dimensions (exhaustion and disengagement) negatively predict future teacher self-efficacy at adjacent time points](burnout-predicts-future-tse.md) — a narrower finding that bears on this claim
 - [TSE does not consistently predict future burnout; only one significant path (TSE to disengagement, Time 1 to Time 2) emerged](tse-inconsistently-predicts-burnout.md) — related
+- [A prolonged period of forced online teaching does not necessarily lead to increased adoption; regression of adoption may occur due to stress and burnout](forced-online-teaching-not-increase-adoption.md) — related

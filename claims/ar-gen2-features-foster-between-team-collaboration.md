@@ -49,3 +49,4 @@ Design-narrative evaluation across iterations of the redesigned AR engine, illus
 - [Role-based information asymmetry with infrared beaming encourages cross-team information exchange and collaborative discussion](role-asymmetry-beaming-promotes-cross-team-exchange.md)
 - [The authors of three case studies (roughly 28 students) argue that a place-based augmented reality game, Mad City Mystery, holds potential for engaging students in scientific argumentation](mad-city-mystery-ar-argumentation-cases.md) — related
 - [The authors contend that a new design paradigm must be developed if academic learning is to take place in educational games](new-design-paradigm-needed-for-game-learning.md) — related
+- [Stegman (2021) proposes blended designs combining simulations/games with strategically placed authentic home-based experiences for iterative learning](stegman-blended-design-iterative-learning.md) — related

@@ -56,3 +56,4 @@ Participant-reported outcomes from a 5-year UEPC evaluation of R15CC support to 
 - [The OBC model benefits from clearly defined roles and shared responsibilities across district, school, and provider teams.](obc-clear-roles-shared-responsibility.md) — related
 - [The social network perspective rests on three assumptions: interdependence, relationships as resource exchanges, and structure enabling or constraining access to resources](social-network-perspective-three-assumptions.md) — a broader claim this one bears on
 - [Community-only peer review carries stated risks of echo chambers, bullying, and uneven resources](community-peer-review-risks.md) — related
+- [Sustaining large-scale online teacher communities of practice is generally more difficult than creating them](sustaining-online-teacher-cops-harder-than-creating.md) — related

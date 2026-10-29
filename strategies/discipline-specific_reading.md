@@ -59,8 +59,10 @@ Disciplinary literacy research shows that each field has distinct ways of making
 5. Close with an application task — a short written response or imitation of the genre — so reading feeds production ([Application](../elements/application.md))
 
 ## Related Strategies
+
 - [Case-Based Learning](../elements/case-studies.md) — longer authentic disciplinary artifacts read for analysis rather than genre modeling
 - [Reading-Writing Connection](reading-writing-connection.md) — discipline-specific reading is the model-provision half of a reading-to-write sequence
+- [Establish ways of understanding research traditions behind English-language articles, including disciplinary thesauri and collaborative systems](disciplinary-thesauri-for-edtech-traditions.md)
 
 ## Related Elements
 - [Assigned Readings](../elements/assigned-readings.md) — the delivery mechanism for the texts

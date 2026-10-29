@@ -41,6 +41,7 @@ To address limited school staff time as an obstacle to cross-sector collaboratio
 - [Use cross-sector collaborative tasks (classroom observation, operations alignment, curriculum development) as vehicles for educator professional development](cross-sector-collaborative-tasks-for-educator-pd.md)
 - [Facilitate cross-sector collaboration so charter and non-charter high schools share best practices on their respective strengths](cross-sector-charter-best-practice-sharing.md)
 - [Facilitate educator networks and knowledge-sharing hubs for educational AI](educator-networks-knowledge-sharing-ai.md)
+- [Use technology to remove participation barriers and widen teacher networks in specialized-context PD](technology-removes-barriers-expands-teacher-networks.md)
 
 ## Examples
 -

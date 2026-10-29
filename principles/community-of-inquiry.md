@@ -18,7 +18,7 @@ sources:
 # Community of Inquiry
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 21 claims (8 for, 12 mixed, 1 against) · 25 studies (6 causal, 5 review, 4 qualitative, 3 quant-synthesis, 3 associational, 2 design, 2 theoretical), `q1`–`q4` · 3 of 25 report an effect size · 18 claims rest on one study
+> **Evidence** · 22 claims (9 for, 12 mixed, 1 against) · 26 studies (6 causal, 5 review, 4 qualitative, 3 quant-synthesis, 3 associational, 3 design, 2 theoretical), `q1`–`q4` · 3 of 26 report an effect size · 19 claims rest on one study
 
 ## Conditional relationship
 
@@ -118,6 +118,7 @@ Perceived presence, the quality of the discourse, each learner's understanding a
 - [In the coded dataset, exploration was the most frequent phase (727 units, 48%), followed by integration (444, 29%), resolution (235, 15%), and non-cognitive presence (115, 8%)](../claims/phase-distribution-skew.md) [~W]
 - [A visible instructor increased social presence in an exploratory field study (d = 0.85)](../claims/visible-instructor-social-presence-study1.md) [~W]
 - [Teaching presence was positively related to cognitive presence but had no direct relationship with learning engagement; cognitive presence fully mediated the teaching presence–engagement relationship](../claims/teaching-presence-cognitive-mediation-engagement.md) [+W]
+- [Instructor questions on ideas increased across the three iterations in both treatments, deepening the level of student inquiry](../claims/instructor-questions-on-ideas-increased.md) [+W]
 
 ## Related Principles
 - [Collaborative Learning](collaborative-learning.md) — community of inquiry explains one strong form of collaborative meaning-making

@@ -39,7 +39,7 @@ sources:
 # Cognitive Load Management
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 85 claims (35 for, 47 mixed, 3 against) · 72 studies (32 causal, 15 review, 10 quant-synthesis, 10 theoretical, 2 associational, 2 design, 1 qualitative), `q1`–`q4` · 25 of 72 report an effect size · 76 claims rest on one study
+> **Evidence** · 86 claims (36 for, 47 mixed, 3 against) · 73 studies (32 causal, 15 review, 10 quant-synthesis, 10 theoretical, 3 design, 2 associational, 1 qualitative), `q1`–`q4` · 25 of 73 report an effect size · 77 claims rest on one study
 
 ## Conditional relationship
 
@@ -167,6 +167,7 @@ A learning-phase efficiency gain, immediate performance, near transfer, delayed 
 - [The anxiety-complexity effect was replicated in response time only, with no speed-accuracy trade-off, in manageable two-digit arithmetic](../claims/anxiety-complexity-effect-replicated-response-time.md) [~W]
 - [Educators simplified open data sources and activities to prevent learners being overwhelmed by complexity and time constraints](../claims/open-data-simplification-of-activities.md) [+W]
 - [Cognitive load during the IVR-based PVAS task was generally low despite unsatisfactory perception and interpretation performance](../claims/ivr-pvas-low-cognitive-load-poor-performance.md) [~W]
+- [Students used GPT dialogue to manage perceived conceptual complexity, with simplification the most evident cognitive load management strategy, though cognitive load was not measured directly](../claims/gpt-cognitive-load-management-strategies.md) [+W]
 
 ## Related Principles
 - [Segmenting Principle](segmenting.md)

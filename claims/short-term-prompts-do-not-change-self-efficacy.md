@@ -55,3 +55,4 @@ Repeated-measures ANOVA on the MSLQ self-efficacy scale administered in the stan
 - [Short-term prompting in weekly learning journals increases university students' self-reported metacognitive strategy use over time](short-term-journal-prompts-increase-metacognitive-strategy-use.md) — related
 - [Students’ prompt self-efficacy increased significantly after the scaffolded GenAI course (t = 3.729, p < .001)](prompt-self-efficacy-significant-increase.md) — related
 - [Short-term creativity interventions can be effective in changing creativity positively](short-term-interventions-change-creativity.md) — related
+- [Self-efficacy increases significantly over the first interval of inquiry training and stays higher through and after training](self-efficacy-rises-early-inquiry-training.md) — reports the opposite

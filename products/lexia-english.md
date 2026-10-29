@@ -19,7 +19,7 @@ sources:
 # Lexia English
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 Lexia English Language Development is a blended English-language-development programme from Lexia Learning for K–6 English Learners, combining student-directed digital lessons with teacher-led instruction and progress data.
@@ -28,8 +28,11 @@ Lexia English Language Development is a blended English-language-development pro
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 - **Lexia English Language Development program**: A blended learning program designed to accelerate academic English proficiency for English Learners in grades K–6. It integrates interactive, student-directed online lessons with teacher-led instruction focused on oral language, grammar, and vocabulary, using speech recognition to give immediate feedback as students practice listening and speaking across 19 content-based levels. Teachers receive real-time progress data and small-group lesson plans aligned with English Language Development state standards. (Lexia English Language Development (2022))
 - **Blended online practice with speech-recognition feedback plus teacher-led small-group oral language instruction**: The program's instructional design combines interactive, student-directed online lessons, in which "speech recognition to provide immediate feedback" supports listening and speaking practice in academic contexts, with teacher-led instruction on oral language, grammar, and vocabulary. Content is organized across 19 content-based levels spanning subjects such as science, math, and social studies, and teachers receive real-time progress data with aligned small-group lesson plans. (Lexia English Language Development (2022))
+- **Lexia English Language Development: a CALL tool for oral academic English in grades K-6**: Lexia English is a computer-assisted language learning program for Emergent Bilinguals in grades K-6, released July 2020, intended to supplement rather than replace English language development instruction at 30-60 minutes weekly. It emphasizes oral language via speaking and listening activities, with 17 Emergent Bilingual characters guiding learners through scaffolded conversational interactions. A built-in Speech Recognition Engine measures correct usage of grammatical structures and provides instant corrective feedback by visually highlighting incorrect sentence segments, and an auto-placement tool suggests one of 19 starting levels. (Nicholas Feroce et al. (2025))
 
 ### Claims
+- [K-5 English learners who used the Lexia English CALL program scored significantly higher on the overall ELPAC than non-users (0.197 SD) in a 2020-21 district implementation](../claims/call-program-use-higher-overall-elpac-scores.md) [+M]
+- [Program use was associated with significant gains on both ELPAC subdomains, with a larger effect for the oral subdomain (0.224 SD) than the written subdomain (0.153 SD)](../claims/call-program-oral-subdomain-larger-effect-than-written.md) [+M]
 
 ## Related Products and Programmes
 -
@@ -37,9 +40,9 @@ Lexia English Language Development is a blended English-language-development pro
 ## Key Sources
 - Lexia English Language Development. (2022). Evidence rating summary. https://evidenceforessa.org/program/lexia-english/
 - Lexia English Language Development. (2022). Evidence rating summary. https://www.lexialearning.com
-
 <!-- merged 2026-10-10 from elements/lexia-english-language-development-program ("Lexia English Language Development program"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
 - Lexia English Language Development. (2022). Evidence rating summary. https://www.lexialearning.com
+- Nicholas Feroce, Jenny Liu, Rajendra Chattergoon. (2025). Exploring the impact of a CALL tool for emergent bilinguals. Education Tech Research Dev. https://doi.org/10.1007/s11423-025-10462-5
 
 # Lexia English Language Development program
 

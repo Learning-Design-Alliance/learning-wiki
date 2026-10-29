@@ -59,3 +59,4 @@ Paired-sample t-tests comparing each student's Assignment 1 and Assignment 5 sco
 - [Peer-to-peer prompts show promising effects on collaborative argumentation, consensus, and perceived efficacy, suggesting new roles for peer learning in classrooms](peer-prompts-argumentation-consensus-efficacy.md) — related
 - [Higher-quality prompt engineering skills predict the quality of LLM output in goal-directed use of generative AI tools](prompt-engineering-skill-predicts-llm-output-quality.md) — related
 - [Prompt engineering quality predicts LLM output quality and is a required skill for goal-directed GenAI use](prompt-engineering-predicts-llm-output-quality.md) — related
+- [Prompt revisions per session rose from 1.8 in Week 2 to 4.6 in Week 11, and references to adaptation, tailoring and personalisation increased 47% across the semester](prompt-revision-engagement-increase.md) — related

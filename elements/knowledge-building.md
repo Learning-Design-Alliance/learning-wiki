@@ -14,7 +14,7 @@ generated:
 # Knowledge-Building
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 10 claims (8 for, 1 mixed, 1 against) · 11 studies (5 qualitative, 2 review, 2 associational, 1 design, 1 theoretical), `q1`–`q2` · 0 of 11 report an effect size · 8 claims rest on one study
+> **Evidence** · 11 claims (9 for, 1 mixed, 1 against) · 12 studies (5 qualitative, 3 review, 2 associational, 1 design, 1 theoretical), `q1`–`q2` · 0 of 12 report an effect size · 9 claims rest on one study
 
 ## Description
 Knowledge-building is the element in which learners collectively construct, refine, and extend ideas rather than only consume or repeat them. It is useful when the goal is shared understanding that improves through contribution and revision.
@@ -47,6 +47,7 @@ Knowledge-building is the element in which learners collectively construct, refi
 - [Discussion thread length is strongly linearly related to the number of players contributing, indicating collective rather than small-group collaboration](../claims/wow-thread-length-linear-with-contributors.md) [~W]
 - [Student curiosity is self- and other-sustaining, forming social chains of curiosity in elementary Knowledge Building classrooms](../claims/curiosity-chains-self-other-sustaining-kb.md) [+M]
 - [Teacher utterances conveying information (T:GI) predict student curiosity in both second and third grade KB classrooms](../claims/teacher-information-utterances-trigger-curiosity.md) [+M]
+- [Nine reviewed studies reported LA as reflective tools enhancing knowledge-building outcomes such as individual idea development and collective knowledge advancement](../claims/la-reflective-tools-improve-knowledge-building-outcomes.md) [+M]
 
 ## Related Elements
 - [Knowledge-Building Discourse](knowledge-building-discourse.md)

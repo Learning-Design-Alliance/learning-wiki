@@ -75,3 +75,5 @@ Static-model analysis of student-excellent (top-four-peer) coupling. Delta and a
 - [Theta-band student-class coupling during Chinese sessions correlates with Math final exam scores, suggesting a discipline-general role for student-class coupling](theta-class-coupling-cross-discipline-math.md) — related
 - [Theta-band student-class coupling during Math classes is positively correlated with Math final exam scores](theta-student-class-coupling-math-scores.md) — related
 - [Student-top couplings relate only to discipline-specific learning outcomes: cross-discipline top-student coupling showed no significant correlations](top-student-coupling-discipline-specific.md) — related
+- [Inter-brain attention coupling to class-average attention dynamics during lectures is positively correlated with primary school students' academic performance](inter-brain-attention-coupling-correlates-academic-performance.md) — a narrower finding that bears on this claim
+- [Relaxation-index and EEG-power-based coupling analyses show no significant correlations with academic performance](relaxation-and-eeg-power-null-correlations.md) — related

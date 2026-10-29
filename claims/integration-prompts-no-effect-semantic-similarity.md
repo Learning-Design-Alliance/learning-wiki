@@ -49,3 +49,4 @@ In the same 2x2 factorial laboratory experiment, the ANOVA on the semantic BSM m
 - [Integration prompts improve structural integration of knowledge across professional domains in pre-service teachers' mental models](integration-prompts-improve-structural-integration-teacher-knowledge.md) — related
 - [Prompts have a significant multivariate main effect on combined structural and semantic integration measures](prompts-significant-multivariate-main-effect.md) — related
 - [Pre-reading expert referent networks and post-reading network-based writing feedback do not improve semantic quality of integration](expert-networks-do-not-improve-semantic-quality.md) — related
+- [Unprompted pre-service teachers' texts match the combined source-text reference model more closely on structural matching than prompted groups' texts](control-group-higher-structural-similarity-reference-model.md) — related

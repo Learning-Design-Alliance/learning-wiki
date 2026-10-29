@@ -57,3 +57,4 @@ Participant testimony gathered by R15CC from members of the NDE More Rigorous In
 - [Interacting repeatedly across convenings built trust that enabled districts to give and receive critiques of one another's plans](repeated-convenings-trust-enables-critique.md) — related
 - [Participation in dialogic-interaction interventions is associated with improved well-being, self-confidence and quality of life](dialogic-leadership-improves-wellbeing-self-confidence.md) — related
 - [The DD process and product cultivated commitment and trust among participants and informed a new university AI governance policy](dd-cultivated-trust-governance-policy.md) — related
+- [Interpersonal agency in instructional design centers on collegial engagement, learner advocacy and trust building with faculty clients](interpersonal-agency-instructional-design.md) — related

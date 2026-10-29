@@ -96,3 +96,5 @@ Same mixed-effects analysis of within-session position for SRL functions. The au
 - [Learning-oriented intentions did not significantly predict enacted in-chat behavior; only selecting final solutions predicted executive and answer-seeking requests](intent-enactment-gap-genai-help-seeking.md) — related
 - [During AI-tutor interactions, students' turns were dominated by help requests with near-absent monitoring and evaluation](request-dominance-monitoring-evaluate-absent.md) — related
 - [Adolescent digital self-regulation is enacted through a typology of four strategy types differing in executive effort versus external scaffolding](adolescent-digital-self-regulation-strategy-typology.md) — related
+- [Case analysis assistance and Socratic dialogue simulation dominated GenAI usage, and dialogue-based interaction patterns were associated with better outcomes than passive use](genai-usage-patterns-dialogue-effective.md) — related
+- [Students showed increasing metacognitive regulation across the semester, moving from copying GPT suggestions to predicting and challenging its responses](gpt-metacognitive-regulation-growth.md) — related

@@ -56,3 +56,4 @@ Process mining with a first-order Markov model (pMineR) on trace data from the r
 - [GenAI use collapses SRL cycle transitions, with metacognitive activity restructuring around the tool](genai-collapses-srl-cycle-transitions.md) — possibly the same claim (merge candidate)
 - [Process mining of two fitness-typical groups suggests the group with more heterogeneous yellow markers and shared red markers worked more efficiently while both achieved the same summary outcome](process-mining-heterogeneous-yellow-group-more-efficient.md) — related
 - [Process mining of WBA logs shows students typically start with Handwashing, then Pulse and History, with frequent looping back to basic clinical skills](process-mining-wba-learning-paths.md) — related
+- [A subset of students showed over-reliance and algorithmic conformity patterns, consulting GenAI before independent analysis or revising to match AI output](over-reliance-algorithmic-conformity-risk.md) — related

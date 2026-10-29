@@ -34,7 +34,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q2` · `i2` medium
 > **Currency** · newest study 2025 · checked against its sources 2026-10-29 (automated, 2 of 2 entries) · not reviewed by a person
-> **Design limits** · Darmawansah 2025: groups were assigned but students were analysed as independent · Darmawansah 2025 (2): groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-29)
+> **Design limits** · Darmawansah 2025: groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-29)
 
 ## Subclaims
 `q2 i2` The AI-GFCA group scored higher than the AI-C group on the peer-interaction subscale of the interaction-mindset survey. [→ Darmawansah 2025](#darmawansah-2025)

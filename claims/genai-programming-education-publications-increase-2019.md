@@ -49,3 +49,4 @@ Publication-year analysis of the 40 eligible papers (2010–February 2024; Fig. 
 - [Systematic reviews of AIED were absent from 2015 to 2018 in this corpus and increased steadily from 2019 onward](aied-review-publication-trend-2019-increase.md) — related
 - [Research on AIED ethics grew exponentially from 2019, peaking in 2021 with a small retraction in 2022](aied-ethics-publications-growth-2019-2021.md) — related
 - [Research on assistive technology in education shows an increasing publication trend from 2017 onwards but low citation impact](at-research-trend-increase-2017.md) — related
+- [Research applying learning analytics to inquiry-based learning grew steadily from a first 2012 conference paper, peaking in 2019 with seven publications, with most outputs as journal articles](la-in-ibl-publication-trends-51-studies.md) — related

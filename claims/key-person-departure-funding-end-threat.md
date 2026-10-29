@@ -49,3 +49,4 @@ Narrative analysis of critical event 3 (2007–2008) in the IMPDET program. The 
 - [Voluntary external supervisors were critical to sustaining the program, requiring ethical and career incentives when economic resources are scarce](voluntary-supervisor-incentives-scarce-resources.md) — related
 - [Resource limitations from the redesigned policy are felt at the program, district, and principal candidate levels](illinois-principal-preparation-resource-limitations.md) — a broader claim this one bears on
 - [Positive pivotal factors in one sustainability pillar can compensate for negative pivotal factors in other pillars of an online study program](pillar-compensation-online-program-sustainability.md) — related
+- [A carefully built course-internal CoP in a fully online doctoral program dissipated once the structured course period ended](course-internal-cop-dissipates-after-course-ends.md) — related

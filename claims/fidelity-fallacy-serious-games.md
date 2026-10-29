@@ -81,3 +81,4 @@ The chapter reports, citing prior systematic reviews, that the assumption that m
 - [Learners' spatial ability moderates whether realistic visualizations help or hinder learning](spatial-ability-moderates-realism-effects.md) — related
 - [Test type determines realism benefits: realistic detail aids retention as retrieval cues, schematic visuals aid transfer](test-type-moderates-realism-benefits.md) — related
 - [Measures of presence, enjoyment, entitativity, and realism increased over a 10-week networked-VR course, suggesting XRCL advantages may grow as participants adapt](xrcl-advantages-increase-with-adaptation.md) — related
+- [The assumption that observing functioning systems aids understanding was tested by comparing wiring-board manipulation with trainee-drawn schematics](wiring-board-versus-drawn-schematics-comparison.md) — related

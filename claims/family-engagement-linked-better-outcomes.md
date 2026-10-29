@@ -64,3 +64,4 @@ The playbook asserts, citing background research, that family engagement is "con
 - [Parent involvement increased for three consecutive years under family-centered engagement approaches](parent-involvement-increased-three-years.md) — a narrower finding that bears on this claim
 - [Family–school partnerships are empirically linked to children's academic success (as the review states the background evidence)](family-school-partnerships-linked-academic-success.md) — related
 - [DLGs bring the community in and take new learnings out, with family involvement increasing children's motivation](dlg-community-involvement-family-motivation.md) — a narrower finding that bears on this claim
+- [Teachers in high-performing learner-centered schools stayed longer with the same students and developed close relationships with more students](high-performing-schools-longer-teacher-student-relationships.md) — related

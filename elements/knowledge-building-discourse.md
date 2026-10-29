@@ -13,7 +13,7 @@ generated:
 # Knowledge-Building Discourse
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 20 claims (14 for, 3 mixed, 3 against) · 23 studies (8 causal, 4 quant-synthesis, 4 associational, 3 qualitative, 2 review, 2 theoretical), `q1`–`q4` · 4 of 23 report an effect size · 17 claims rest on one study
+> **Evidence** · 21 claims (15 for, 3 mixed, 3 against) · 24 studies (8 causal, 4 quant-synthesis, 4 associational, 3 qualitative, 2 review, 2 theoretical, 1 design), `q1`–`q4` · 5 of 24 report an effect size · 18 claims rest on one study
 
 ## Description
 Knowledge-building discourse is structured, sustained discussion in which learners collectively work to improve ideas rather than merely exchange opinions. Talk is treated as a medium for advancing community understanding — questioning, elaborating, and revising explanations — in the tradition of Scardamalia and Bereiter's knowledge-building pedagogy.
@@ -68,6 +68,7 @@ Structured discourse deepens conceptual understanding because articulating and d
 - [At the discourse-act level, notes expressing uncertainty are associated with more follow-up and notes open on community orientation with less, and notes lacking building-knowledge openness receive less follow-up](../claims/uncertainty-discourse-act-more-followup.md) [~W]
 - [Support for mathematical discourse was increased by the intervention but was not significantly associated with post-treatment mathematics achievement for either group](../claims/mathematical-discourse-null-achievement-association.md) [~W]
 - [GenAI can most effectively support knowledge building in the Collaboration Zone as a dialogic 'sparring partner'](../claims/genai-collaboration-zone-sparring-partner.md) [+W]
+- [Density of idea linking in forum posts increased over iterations, developing somewhat more highly in the HIL design than in MIL](../claims/idea-linking-density-increased-hil.md) [+W]
 
 ## The evidence by question
 

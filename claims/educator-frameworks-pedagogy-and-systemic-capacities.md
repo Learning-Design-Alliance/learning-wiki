@@ -54,3 +54,4 @@ Frequency analysis across 42 educator-focused frameworks (Fig. 3). The review co
 - [Across 1921 educational periodicals, unsolved research problems cluster most heavily in mental tests (16 mentions) and curriculum studies (15 mentions)](zirbes-1922-problem-frequency-by-category.md) — related
 - [Only one of ten university frameworks explicitly refers to transferring and adapting digital practice as a competence](n3-transfer-explicit-in-one-framework.md) — related
 - [Validation sessions reframed fostering students' digital literacy as empowering students for a digital society, adding ethical competences](hedicom-empowering-students-reframing.md) — related
+- [Role modelling is the most promising approach for developing teachers' digital literacy, identified in seven reviews](role-modelling-develops-teacher-digital-literacy.md) — related

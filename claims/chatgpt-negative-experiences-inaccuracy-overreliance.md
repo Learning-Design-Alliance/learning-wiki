@@ -120,3 +120,4 @@ Participants also reported "the lack of emotional connection and dependence on t
 - [AI-generated content lacking references reduced participants' intellectual curiosity and sustained attention](ai-content-without-references-reduces-curiosity-attention.md) — related
 - [Instructional designers' main challenges with ChatGPT are output quality (53.8%), tool limitations (42.3%), and faculty unpreparedness (3.8%)](id-chatgpt-challenges-output-quality-tool-limits.md) — related
 - [Pessimistic Evaluators' foremost concern is misleading, inaccurate, or biased ChatGPT-generated information](pessimistic-evaluators-misleading-information-concern.md) — related
+- [Implementation constraints identified were factual accuracy and content drift, culturally narrow outputs, prompt fatigue, and data privacy concerns](gpt-implementation-constraints-ite.md) — a narrower finding that bears on this claim

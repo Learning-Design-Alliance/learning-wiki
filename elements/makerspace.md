@@ -13,7 +13,7 @@ generated:
 # Makerspace
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 5 claims (3 for, 1 mixed, 1 against) · 3 studies (2 review, 1 qualitative), `q2` · 0 of 3 report an effect size · 5 claims rest on one study
+> **Evidence** · 6 claims (3 for, 2 mixed, 1 against) · 4 studies (2 review, 2 qualitative), `q2` · 0 of 4 report an effect size · 6 claims rest on one study
 
 ## Description
 A makerspace is "an informal site for creative production in art, science, and engineering where people of all ages blend digital and physical technologies to explore ideas, learn technical skills, and create new products" (Sheridan et al., 2014, as cited in Dousay, 2017). Makerspaces sit at the intersection of [Constructivism](../theories/constructivism.md) (learning through social interaction, at the learner's own pace) and constructionism (Papert & Harel) — the idea that learning is strengthened specifically by making a tangible artifact.
@@ -54,6 +54,7 @@ Learning in a makerspace is driven by a learner-centered, self-regulated dynamic
 - [Cumulative, disputational, and exploratory talk types together mediated students' enactment of makerspace knowledge practices](../claims/talk-types-mediate-makerspace-knowledge-practices.md) [+W]
 - [An adjacent corridor served as an improvised spatial expansion of the makerspace mediating students' knowledge practices](../claims/corridor-improvised-spatial-expansion-makerspace.md) [~W]
 - [Equity in makerspaces is not guaranteed by their existence](../claims/maker-equity-not-guaranteed.md) [-W]
+- [The subject of success in library makerspaces is often someone other than the participating patron, such as facilitators or parents](../claims/subject-of-success-beyond-patron.md) [~W]
 
 ## Related Elements
 - [Simulations](simulation.md)

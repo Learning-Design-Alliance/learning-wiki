@@ -51,6 +51,7 @@ The authors recommend creating indicators to alert educators to students needing
 - [Implement early-warning systems in real classrooms using easily accessible data and transparent machine learning techniques](early-warning-systems-accessible-data-transparent-ml.md)
 - [Use explainable machine learning early warning systems to help teachers identify struggling inquiry learners early](early-warning-system-teacher-support-inquiry.md)
 - [Use genetic prediction early to identify children likely to struggle and deliver early, individualized prevention and learning programs](gps-early-identification-precision-education.md)
+- [Build APLE features that let students choose learning goals and receive indicator-based guidance, plus an early warning system for students at risk of failing](goal-choice-features-and-early-warning-system.md)
 
 ## Examples
 -

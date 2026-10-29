@@ -43,6 +43,7 @@ The report describes how Orcutt Union School District joined Digital Promise's L
 - [Invest in dedicated instructional technology leadership roles and role-specific professional learning for AI literacy](role-specific-ai-professional-learning-leadership.md)
 - [Recruit practitioners for research engagement by leaning into existing networks, using open calls and targeted invitations](recruit-practitioners-via-existing-networks.md)
 - [Facilitate educator networks and knowledge-sharing hubs for educational AI](educator-networks-knowledge-sharing-ai.md)
+- [Use technology to remove participation barriers and widen teacher networks in specialized-context PD](technology-removes-barriers-expands-teacher-networks.md)
 
 ## Examples
 -

@@ -56,3 +56,4 @@ In the Findings (Community section) of the interview study, e-teachers reported 
 - Online peer assisted learning communities foster informal learning and spontaneous interest-based groups — reports the opposite
 - [Design has not caught up with technology; creating for diverse audiences must be deliberate](design-has-not-caught-up-with-technology.md) — a broader claim this one bears on
 - [Learning happens across formal, non-formal and informal settings, face-to-face and online](formal-non-formal-informal-learning-settings-interplay.md) — a broader claim this one bears on
+- [Adult online learners in courses without structured collaboration spontaneously build effective learning communities in their offline work contexts](online-learners-spontaneous-offline-learning-communities.md) — reports the opposite

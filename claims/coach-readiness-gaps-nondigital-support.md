@@ -56,3 +56,4 @@ Survey of 148 edtech coaches (Figure 11): "more than 70 percent" were prepared f
 - [Staff in welcoming schools said the planning process for merging closed schools into welcoming schools was insufficient, leaving them unprepared](school-closing-planning-insufficient-staff-unprepared.md) — related
 - [Edtech coaches supported families with IT tasks, platform training, and home learning environment guidance during closures](coach-support-to-families-closures.md) — related
 - [About one-third of surveyed educators report that research is not localized enough to guide their school problems](educators-find-research-insufficiently-localized.md) — related
+- [Teachers perceived students as intensive social-network users but unprepared to use digital technologies for learning and professional purposes](students-social-networks-but-unprepared-learning-tools.md) — related

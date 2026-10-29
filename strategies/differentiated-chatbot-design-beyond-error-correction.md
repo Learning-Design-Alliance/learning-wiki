@@ -40,7 +40,8 @@ The authors conclude that chatbot design should respond to proficiency-based dif
 - [Transition Network Analysis Framework](../research-methods/transition-network-analysis-tna.md)
 
 ## Related Strategies
-- 
+
+- [Five design guidelines for educational chatbots: comprehensive CCQs, better NLU, error detection, easy access, progressive refinement](five-guidelines-educational-chatbot-design.md)
 
 ## Examples
 -

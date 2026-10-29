@@ -49,3 +49,4 @@ The memorial notes that deKieffer's "early research in 1948 was repeated in 1958
 - [In an immersive VR learning environment, visual-only text yields higher recall than audio-visual text (reverse modality effect)](vr-reverse-modality-effect-recall.md) — related
 - [Textual slide content yields a small comprehension advantage over pictorial slide content in speeded audio-visual lectures, with no effect of speed](textual-beats-pictorial-slides-speeded-lectures.md) — related
 - [Transient information effect: lengthy spoken text can reverse the modality effect, while shorter spoken text restores the conventional modality advantage](transient-information-effect-reverse-modality-length.md) — related
+- [Audio-visual in-service training was casual and unplanned, no administrative plan existed for materials production, and there was virtually no state-level audio-visual leadership](unplanned-av-in-service-and-no-state-leadership.md) — related

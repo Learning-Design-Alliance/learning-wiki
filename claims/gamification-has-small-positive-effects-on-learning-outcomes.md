@@ -113,3 +113,4 @@ gamified vocabulary practice.
 - [Multidimensional personalization of gamification produced no statistically significant motivational differences from OSFA gamification in gamified review assessments](personalization-no-significant-motivation-difference-gamified-assessments.md) — related
 - [Gamification elements significantly affected students' achievements](gamification-elements-significantly-affected-achievements.md) — a narrower finding that bears on this claim
 - [Gamified virtual reality learning environments were more motivating, engaging, and interactive than traditional learning environments](gamified-vr-more-motivating-engaging-interactive-than-traditional.md) — a narrower finding that bears on this claim
+- [Students who played iThinkSmart VR mini games gained higher CT cognitive benefits than students learning through the traditional lecture method](ithinksmart-vr-higher-cognitive-benefits.md) — a narrower finding that bears on this claim

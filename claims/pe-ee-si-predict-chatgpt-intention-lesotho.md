@@ -62,3 +62,4 @@ PLS-SEM structural analysis of survey data from 842 Lesotho students (bootstrapp
 - [Perceived ease of use positively influenced attitudes toward using the AVDS tool](peou-positive-impact-attitude-avds.md) — related
 - [Effort expectancy positively influences behavioural intention to adopt m-learning in the three countries](ee-predicts-ml-bi-three-countries.md) — related
 - [Performance expectancy positively influences behavioural intention to adopt m-learning in Tunisia, Morocco, and Libya](pe-predicts-ml-bi-three-countries.md) — related
+- [Perceived usefulness, attitude, and behavioral intention form a significant TAM pathway predicting GenAI adoption among law students](tam-pathway-genai-adoption-law-students.md) — related

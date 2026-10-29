@@ -13,7 +13,7 @@ generated:
 # Positive Interdependence
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (4 for) · 7 studies (3 causal, 3 quant-synthesis, 1 review), `q2`–`q3` · 3 of 7 report an effect size · 2 claims rest on one study
+> **Evidence** · 5 claims (5 for) · 8 studies (3 causal, 3 quant-synthesis, 1 review, 1 theoretical), `q2`–`q3` · 3 of 8 report an effect size · 3 claims rest on one study
 
 ## Description
 Positive interdependence is the structural condition — deliberately designed into a task, reward, role, or resource arrangement — under which group members perceive that they cannot succeed unless every member succeeds. It is the defining feature distinguishing cooperative learning from mere group work: it converts a collection of individuals into a genuine team with a shared fate.
@@ -55,6 +55,7 @@ Positive interdependence is the mechanism through which cooperative structures o
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Kindergarten triads sharing one computer with three mice and interdependent roles enhanced social skills](../claims/kindergarten-triads-shared-computer-social-skills.md) [+W]
 - [Intervention schools showed significantly higher observed positive interdependence in classrooms than control schools](../claims/cooperative-learning-fidelity-positive-interdependence-observed.md) [+W]
+- [Structuring means interdependence via Jigsaw in Minecraft increased learning outcomes and invested mental effort but not perceived cognitive load](../claims/jigsaw-interdependence-mental-effort.md) [+W]
 
 ## Related Elements
 - [Assigned Positions](assigned-positions.md) — role interdependence is the most common way to operationalize it

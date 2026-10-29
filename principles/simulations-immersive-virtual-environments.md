@@ -123,7 +123,7 @@ sources:
 # Simulations & Immersive Virtual Environments
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 118 claims (47 for, 63 mixed, 8 against) · 84 studies (28 causal, 20 review, 11 quant-synthesis, 9 qualitative, 8 theoretical, 7 design, 1 associational), `q1`–`q4` · 21 of 84 report an effect size · 113 claims rest on one study
+> **Evidence** · 119 claims (47 for, 64 mixed, 8 against) · 85 studies (29 causal, 20 review, 11 quant-synthesis, 9 qualitative, 8 theoretical, 7 design, 1 associational), `q1`–`q4` · 21 of 85 report an effect size · 114 claims rest on one study
 
 ## Conditional relationship
 
@@ -352,6 +352,7 @@ Success inside the simulation, immediate performance outside it, delayed retenti
 - [The iVR-orchestrated lesson produced significantly stronger comprehension gains (troubleshooting procedure ordering) than the control group](../claims/ivr-authentic-classroom-comprehension-gains.md) [+W]
 - [Expert evaluation supported the VR classroom's vividness and the expert validity of the classroom events' likely interpretations](../claims/ivr-pvas-expert-evaluation-vividness-validity.md) [~W]
 - [Simulated embodied experience in a virtual environment accelerated Chinese vocabulary learning more than a traditional web-based context](../claims/ve-context-accelerates-chinese-vocabulary-learning.md) [+W]
+- [Students who played iThinkSmart VR mini games reported higher interest in learning CT concepts than students who did not use the educational game](../claims/ithinksmart-vr-higher-learning-interest.md) [~M]
 
 ## Related Principles
 - [Experiential Learning](experiential-learning.md) — simulations provide structured experiences that later reflection can interpret.

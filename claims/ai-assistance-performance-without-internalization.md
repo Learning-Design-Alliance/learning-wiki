@@ -64,3 +64,4 @@ Cross-contextual observational synthesis (Section 6), explicitly framed as conce
 - [Explicit metacognition has severely limited access to underlying cognitive processes, and metacognitive reports can be inaccurate](explicit-metacognition-limited-access-inaccurate-reports.md) — related
 - [Conversational synthesis can hide source plurality behind one voice, weakening verification relative to search](opaque-synthesis-hides-plurality.md) — related
 - [Optimizing prompts can vastly improve the accuracy of LLM outputs, but critical evaluation of the resulting outputs still requires domain expertise.](prompt-optimization-improves-accuracy-expertise-still-needed.md) — related
+- [A subset of students showed over-reliance and algorithmic conformity patterns, consulting GenAI before independent analysis or revising to match AI output](over-reliance-algorithmic-conformity-risk.md) — a narrower finding that bears on this claim

@@ -49,3 +49,4 @@ The article's observational account of the TARDIS project, which used knowledge 
 - [The value of the student-staff collaboration was explored from student, staff, and institutional perspectives, with benefits, limitations, and recommendations presented](student-staff-collaboration-value-three-perspectives.md) — related
 - [In web-based high-school distance education, e-teachers widened the object of their teaching activity toward more independent and engaged forms of learning](e-teachers-widen-object-toward-independent-learning.md) — related
 - [Close collaboration between researchers and practitioners was prominent in all 18 reviewed design research projects](close-collaboration-prominent-in-all-projects.md) — related
+- [The authors argue researchers should collaborate more closely with teachers, administrators, and other practitioners in tackling educational problems](collaborate-closely-with-practitioners.md) — a broader claim this one bears on

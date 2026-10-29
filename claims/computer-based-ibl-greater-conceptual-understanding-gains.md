@@ -51,3 +51,4 @@ Quasi-experimental pretest-posttest study of 306 seventh-graders in 12 classes a
 - [Computer-supported collaborative learning with simulation programs fostered conceptual change for students who were cognitively engaged and prepared to reflect on and reconstruct their conceptions](cscl-simulation-conceptual-change-cognitive-engagement.md) — related
 - [After-school setting offered richer activity diversity, dialogue, and peer interaction than regular classrooms](after-school-richer-interaction-than-classroom.md) — related
 - [Alternative conceptions in force and motion were very difficult to change: of 14 students, 6 showed substantial conceptual change, 1 some change, and 7 no change](force-motion-conceptions-difficult-to-change.md) — related
+- [Games can elicit evidence of students' conceptual understanding and inquiry processes](games-elicit-evidence-of-understanding.md) — related

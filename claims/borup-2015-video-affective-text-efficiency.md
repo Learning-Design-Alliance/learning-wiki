@@ -48,3 +48,4 @@ The editorial reports the findings of Borup et al. (2015)'s mixed-method researc
 ## Related Claims
 - [Human embodiment in video: perceived social presence benefits learning ratings, but instructor-face inclusion shows no significant learning-performance difference, and learners prefer human over robot presenters with mixed recall](human-embodiment-video-presence-effects.md) — related
 - [Students reported mixed, task-dependent perceptions of the efficiency and speed of voice versus text input](mixed-efficiency-speed-perceptions.md) — related
+- [In Borup et al.'s (2015) blended-course study, students and instructors perceived text and video feedback as equally valuable on quality and delivery, but valued text's efficiency over video's affective benefits](text-video-feedback-equal-value-efficiency-preferred.md) — related

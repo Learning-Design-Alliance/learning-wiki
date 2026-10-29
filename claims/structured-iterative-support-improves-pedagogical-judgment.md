@@ -56,3 +56,4 @@ Qualitative design-based case analysis of three teacher candidates' weekly writt
 - [Claremont residents develop lesson planning skill through 5 weeks of iterative revision with instructor feedback before clinical placements](iterative-lesson-planning-before-clinical-placement.md) — related
 - [Specific training was associated with more advanced strategy use, but most teachers used strategies inconsistently and generically](training-advanced-strategies-inconsistent-use.md) — related
 - [The development of ID students' design judgment over a semester is both perceptible and personal](design-judgment-development-perceptible-and-personal.md) — related
+- [By the final assessment, 82% of artefacts demonstrated mapping between content descriptors, assessment tasks, and success criteria aligned with AITSL Graduate Standards 2.1, 2.2, and 3.2](artefact-pedagogical-alignment-improvement.md) — related

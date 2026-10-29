@@ -67,3 +67,5 @@ The editorial summarizes the McDonald and Yanchar argument for "originary theory
 - [Special-issue papers articulate theoretical frameworks for inquiry, problem-based learning, and teacher learning and technology integration](special-issue-frameworks-inquiry-pbl-teacher-learning.md) — related
 - [Special-issue papers present theoretical frameworks for guiding online teaching practices, including framing of instruction, cognitive load in CSCL, and engagement](special-issue-frameworks-online-teaching.md) — related
 - [Affordances of technology for collaborative learning are created through design to the extent that appropriate principles have been applied in an effective way](affordances-created-through-design-principles.md) — related
+- [Six response essays propose ways to action practical learning in online spaces, building on the Zacharia et al. (2015) guidance review](six-responses-practical-learning-online.md) — related
+- [The special issue aims to offer best practices and quick solutions for immediate teaching and learning needs](special-issue-best-practices-quick-solutions-crisis.md) — related

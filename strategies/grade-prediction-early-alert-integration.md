@@ -48,6 +48,7 @@ The author proposes running a model like TRACE continuously as student grade dat
 - [Iterative semester-long improvement cycles combining feature integration with real-world testing](iterative-semester-testing-improvement-cycles.md)
 - [Use genetic prediction early to identify children likely to struggle and deliver early, individualized prevention and learning programs](gps-early-identification-precision-education.md)
 - [Use individualized treatment effect estimates as an early warning system to advise students into an intervention at the start of a course](ite-early-warning-advise-into-intervention.md)
+- [Build APLE features that let students choose learning goals and receive indicator-based guidance, plus an early warning system for students at risk of failing](goal-choice-features-and-early-warning-system.md)
 
 ## Examples
 -

@@ -56,3 +56,4 @@ Freyberg studied 80 disadvantaged kindergarten children in New York City, dividi
 - [Number Board Games Improve Numerical Knowledge](number-board-games-improve-numerical-knowledge.md) — related
 - [Children from economically disadvantaged families are at greater risk for poor kindergarten transitions than their peers](economically-disadvantaged-greater-kindergarten-transition-risk.md) — related
 - [Building products change qualitatively with age: young children build static, skeleton structures supplemented by imagination, while adolescents build structures that work](static-to-functional-structures-with-age.md) — related
+- [Playful embodied robot sessions sustained young children's attention well beyond the planned session length, and children voluntarily invited peers into one-on-one play](robot-extended-attention-voluntary-collaboration.md) — related

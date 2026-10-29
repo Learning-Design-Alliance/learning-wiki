@@ -69,3 +69,4 @@ Two-way ANOVA with factors Country and Year of Study across the full dataset rul
 - [Canadian students were more likely than South Korean students to judge GenAI-assisted coding as against institutional rules, despite functionally identical policies](canadian-students-judge-genai-use-more-against-rules-than-korean.md) — related
 - [Canadian students were more likely than South Korean students to judge GenAI-assisted coding scenarios as unethical](canadian-students-judge-genai-use-more-unethical-than-korean.md) — related
 - [Student voices on GenAI and academic integrity are diverse, shaped by gender, academic level, discipline, psychological factors, and cultural context, though gender findings are inconsistent](diversity-student-voices-genai-integrity.md) — a broader claim this one bears on
+- [No significant between-group difference was found in overall flow status, flow antecedents, or flow experience](no-between-group-flow-difference.md) — related

@@ -106,3 +106,5 @@ Narrative review attributing to Li, Kizilcec, Bailenson, and Ju (2016) an examin
 - [People preferred interacting with a humanoid robot over a comparable on-screen agent and showed less socially undesirable behaviour](robot-preferred-over-screen-agent-less-undesirable-behavior.md) — related
 - [Borup et al. (2015) found video feedback more convenient for student support and text-based feedback more convenient for exploratory feedback](borup-2015-video-affective-text-efficiency.md) — related
 - [Lack of instructor embodiment in tutorials may limit effectiveness for DHH students](dhh-embodiment-limits-effectiveness.md) — related
+- [Asynchronous video communication and feedback enhance social presence and helped sustain engagement and connections between socially isolated faculty and students during the COVID-19 shift online](asynchronous-video-enhances-social-presence-covid.md) — a narrower finding that bears on this claim
+- [Instructor presence did not raise self-reported social presence or perceived learning, contrary to a recent meta-analytic finding](instructor-presence-no-social-presence-effect.md) — related

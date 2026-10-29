@@ -50,3 +50,4 @@ Correlational analysis of one semester of classroom EEG recordings from 34 grade
 - [Static same-wave student-teacher inter-brain coupling is negatively associated with concurrent math performance](static-coupling-negative-math-association.md) — related
 - [Theta-band student-class coupling during Chinese sessions correlates with Math final exam scores, suggesting a discipline-general role for student-class coupling](theta-class-coupling-cross-discipline-math.md) — related
 - [Peer-based inter-brain coupling predicts math improvement only via class-average coupling and shows subject-specific static patterns](peer-coupling-subject-specific-prediction.md) — related
+- [Inter-brain attention coupling to class-average attention dynamics during lectures is positively correlated with primary school students' academic performance](inter-brain-attention-coupling-correlates-academic-performance.md) — related

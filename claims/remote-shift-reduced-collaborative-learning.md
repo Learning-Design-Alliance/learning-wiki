@@ -57,3 +57,4 @@ Qualitative case studies of courses at 10 institutions that used adaptive course
 - [Students in courses with guided note-taking and other active learning activities reported less difficulty with motivation and engagement after the shift online](guided-note-taking-supported-remote-engagement.md) — related
 - [Little is known about learning activity types used by educators during remote instruction](little-known-remote-instruction-activity-types.md) — a broader claim this one bears on
 - [STEM faculty implemented the five inquiry phases online during COVID-19 emergency remote teaching](faculty-implemented-inquiry-phases-online-covid.md) — related
+- [The COVID-19 shift to online learning in higher education caused panic and discomfort because many instructors lacked skills, resources, and didactic aptitude](pandemic-remote-shift-instructor-unpreparedness.md) — related

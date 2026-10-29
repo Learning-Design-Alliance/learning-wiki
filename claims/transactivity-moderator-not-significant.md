@@ -59,3 +59,4 @@ Meta-analytic moderator analysis comparing scripts prompting transactive activit
 - [Two transactivity-supporting scripts each help dyads, but combining them appears to interfere](combined-transactivity-scripts-interfere.md) — related
 - [Discussion prompts targeting the exchange of information produced higher levels of collaborative transactive discourse than prompts asking teachers to reflect on their content understanding or classroom practice.](information-exchange-prompts-higher-transactivity.md) — related
 - [Face-to-face collaboration scripts focus on individual knowledge acquisition activities, while computer-mediated scripts focus on communicative-coordinative processes](f2f-vs-cscl-script-focus-difference.md) — related
+- [Meta-analysis finds collaboration, computer use, and learning environments/tools/scaffolds each have significantly positive effects on knowledge acquisition in CSCL](chen-2018-meta-analysis-cscl-positive-effects.md) — related

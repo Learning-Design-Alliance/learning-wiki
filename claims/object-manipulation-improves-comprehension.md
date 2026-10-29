@@ -69,3 +69,4 @@ The review reports Triona and Klahr's study comparing physical versus virtual ma
 - [Virtual objects in shared VR environments can serve as effective media for collaborative knowledge building among in-service teachers manipulating geometric shapes](virtual-objects-shared-vr-collaborative-knowledge-building.md) — related
 - [Multi-modal representations created during collaboration act as metaphors that shape joint reasoning and meaning making](multimodal-representations-as-metaphors-joint-reasoning.md) — related
 - [Physically or imaginatively manipulating objects during reading improves children's reading comprehension](moved-by-reading-object-manipulation-comprehension.md) — possibly the same claim (merge candidate)
+- [The assumption that observing functioning systems aids understanding was tested by comparing wiring-board manipulation with trainee-drawn schematics](wiring-board-versus-drawn-schematics-comparison.md) — a narrower finding that bears on this claim

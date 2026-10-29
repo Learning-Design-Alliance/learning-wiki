@@ -50,3 +50,4 @@ Descriptive observation from the survey-based typology in the Introduction. The 
 - [Educators use AI tools mainly for personalized learning and language support and frequently use generative AI for lesson planning](educators-ai-use-personalization-lesson-planning.md) — related
 - [Typology tools are ordered by educator-reported frequency of use within each category](typology-tools-ordered-by-reported-frequency.md) — related
 - [Teachers use ChatGPT for personal and professional learning and resource generation, while students use it as a personal tutor for various learning purposes.](chatgpt-teacher-resource-generation-student-personal-tutor.md) — related
+- [Instructional is the most common pedagogical purpose of surveyed conversational agents, with pastoral close behind and cognitive smallest](instructional-most-common-agent-purpose-41-of-92.md) — related

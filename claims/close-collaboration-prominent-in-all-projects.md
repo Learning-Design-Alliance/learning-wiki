@@ -47,3 +47,4 @@ A systematic review of 18 design research reports published in 2008–2009, sele
 ## Related Claims
 - [Across TARDIS's three project stages, practitioners' roles progressed from willing informants to advisors and co-designers, and ultimately to independent lead-practitioners](tardis-practitioner-role-progression.md) — related
 - [A free-flowing online and face-to-face community of teachers, researchers, and students made the expert–novice dialectic visible](cscl-community-expert-novice-dialectic.md) — related
+- [The authors argue researchers should collaborate more closely with teachers, administrators, and other practitioners in tackling educational problems](collaborate-closely-with-practitioners.md) — a broader claim this one bears on

@@ -57,8 +57,10 @@ Mindfulness training reliably improves attention and reduces mind-wandering, and
 5. **Keep participation voluntary and low-stakes** — offer opt-out alternatives (quiet seated breathing) to preserve autonomy [Autonomy supports intrinsic motivation.](../claims/autonomy-supports-intrinsic-motivation.md) [+S].
 
 ## Related Strategies
+
 - [Active Recess](active-recess.md) — physical activity without the mindfulness component; complementary but distinct
 - [Check-Ins](../principles/check-ins.md) — the awareness routine that typically opens and closes a mindful movement practice
+- [Set up learning environments encouraging mind and body balance by implementing wellness techniques such as meditation, yoga, and exercise in daily instruction, and use Zoom Cafés for social presence](wellness-techniques-zoom-cafes-daily-instruction.md)
 
 ## Examples
 - **[Mindful Schools](https://www.mindfulschools.org)** — K–12 curriculum of short daily mindful-movement and breathing practices delivered by classroom teachers.

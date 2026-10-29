@@ -48,3 +48,4 @@ Systematic mixed studies review searching seven databases plus hand-searches, sc
 - [Publication of embodied learning in language education studies accelerated late in the 2010s, with 85% published 2015–2020 and 46% in 2019–2020](embodied-language-studies-85-percent-2015-2020.md) — a narrower finding that bears on this claim
 - [Robot-assisted language learning is a rapidly developing field with increasing implementation of robots as language tutors](rall-field-rapid-development.md) — a broader claim this one bears on
 - [Embodied language learning research spans all educational levels, with higher education (14 studies) and primary education (11 studies) most represented](embodied-language-studies-educational-level-distribution.md) — a narrower finding that bears on this claim
+- [Teaching-machine research publications rose yearly from 1948 to 1959, with six references prior to 1948](teaching-machine-publications-rising-1948-1959.md) — related

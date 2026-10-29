@@ -51,3 +51,4 @@ The brief's framing statement, offered as expert guidance rather than an empiric
 - Rapid-cycle evaluation determines with high confidence whether and for whom a program change causes intended improvements or unintended consequences — a narrower finding that bears on this claim
 - [For classroom assessments of complex constructs such as learning progressions in math and science, test score use is more effectively conceptualized as part of a potential solution to a problem, or 'job-to-be-done'](score-use-as-job-to-be-done.md) — a narrower finding that bears on this claim
 - [Operation Warp Speed illustrates that purpose-built agile R&D structures can compress time-to-impact during systemic disruption](ows-agile-rd-compressed-vaccine-timeline.md) — related
+- [Theory-of-change development functions as an iterative cycle that incorporates new research as it emerges and the product evolves](theory-of-change-iterative-cycle.md) — related

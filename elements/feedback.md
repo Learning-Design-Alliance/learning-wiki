@@ -13,7 +13,7 @@ generated:
 # Feedback
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 215 claims (97 for, 102 mixed, 16 against) · 162 studies (63 causal, 33 review, 20 quant-synthesis, 15 associational, 13 design, 9 qualitative, 9 theoretical), `q1`–`q4` · 40 of 162 report an effect size · 191 claims rest on one study
+> **Evidence** · 216 claims (98 for, 102 mixed, 16 against) · 163 studies (63 causal, 33 review, 20 quant-synthesis, 15 associational, 13 design, 10 theoretical, 9 qualitative), `q1`–`q4` · 40 of 163 report an effect size · 192 claims rest on one study
 
 ## Description
 Feedback is information provided to learners about their performance or understanding, intended to close the gap between current and desired performance. Effective feedback answers three questions: Where am I going? How am I doing? Where to next? ([Hattie & Timperley, 2007](https://doi.org/10.3102/003465430298487)). It functions as the corrective mechanism in any instructional cycle that includes [Practice](practice.md) or [Assessment](assessment.md).
@@ -263,6 +263,7 @@ Feedback is among the most powerful influences on learning, but its effects are 
 - [Students perceived the automated personalized feedback as too general and lacking personal response](../claims/automated-feedback-perceived-too-general.md) [-W] — attached 2026-10-29 from van der Schaaf et al. (2016), which proposed "JIT and VIZ personalized feedback modules with two granularity levels and timeline visualization".
 - [Chatbot-guided feedback SRL improved university students' meta-cognition tendency and self-regulated learning more than conventional SRL](../claims/srl-cgf-improves-metacognition-and-srl.md) [+W]
 - [Chatbot-guided feedback SRL improved university students' learning motivation more than conventional SRL](../claims/srl-cgf-improves-learning-motivation.md) [+W]
+- [In Borup et al.'s (2015) blended-course study, students and instructors perceived text and video feedback as equally valuable on quality and delivery, but valued text's efficiency over video's affective benefits](../claims/text-video-feedback-equal-value-efficiency-preferred.md) [+W]
 
 ## Design Decisions
 <!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice

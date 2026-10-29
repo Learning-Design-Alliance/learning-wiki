@@ -13,7 +13,7 @@ generated:
 # Prior Knowledge
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 200 claims (120 show a difference, 57 mixed, 23 no difference) · 159 studies (49 causal, 32 review, 27 associational, 22 theoretical, 11 design, 9 quant-synthesis, 9 qualitative), `q1`–`q4` · 23 of 159 report an effect size · 183 claims rest on one study
+> **Evidence** · 201 claims (121 show a difference, 57 mixed, 23 no difference) · 160 studies (49 causal, 32 review, 27 associational, 23 theoretical, 11 design, 9 quant-synthesis, 9 qualitative), `q1`–`q4` · 23 of 160 report an effect size · 184 claims rest on one study
 
 ## Description
 A learner's existing domain knowledge in the subject area before instruction begins — the organized network of concepts, procedures, and experiences that new learning must connect to. It is typically operationalized as a pretest score, a standardized prior-achievement measure, or instructor-rated expertise level, and functions as the single strongest predictor of learning gains in most instructional research [~S]. Prior knowledge is the learner-side variable that drives the [Expertise Reversal Effect](../theories/expertise-reversal-effect.md): the same technique that helps novices can hinder more knowledgeable learners.
@@ -248,6 +248,7 @@ The Learner Variability Navigator's Core Academic Literacies factor belongs here
 - [High prior knowledge students produced substantially more expert-like essay networks than low prior knowledge peers after self-directed study](../claims/high-prior-knowledge-more-expert-essay-networks.md) [+M] — learners who differ on it differ in outcomes
 - [Knowledge gains from the cybersecurity PD differed by technology background: participants without a technology background improved significantly while those with one did not](../claims/cybersecurity-pd-gains-by-tech-background.md) [~M] — an instructional effect differs with it
 - [Low prior knowledge learners gained significantly more conceptual knowledge with the Experiment Design Tool than with the specific research questions alone](../claims/edt-benefits-low-prior-knowledge-learners.md) [~W] — an instructional effect differs with it
+- [Heterogeneous groups show greater learning achievements than homogeneous groups, most pronounced for students with little prior knowledge](../claims/heterogeneous-groups-greater-achievement.md) [+M] — an instructional effect differs with it
 
 ## The evidence by question
 - *Does knowing more beforehand mean learning more from the instruction?* [Prior Knowledge Determines New Learning](../claims/prior-knowledge-determines-new-learning.md) [+M]

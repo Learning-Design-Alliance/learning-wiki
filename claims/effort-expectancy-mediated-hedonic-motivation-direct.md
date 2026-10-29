@@ -70,3 +70,4 @@ Discussion of the SEM results for the same sample. The discussion reports hedoni
 - [Pedagogical AI competence is positively associated with teachers' AI use](pedagogical-ai-competence-associated-with-ai-use.md) — related
 - [Personal innovativeness did not significantly influence behavioral intention to use ChatGPT](personal-innovativeness-null-intention.md) — related
 - [Hedonic motivation and habit were the strongest predictors of behavioral intention, and habit also substantially predicted use behavior](hedonic-motivation-habit-strongest-intention-predictors.md) — related
+- [Prior research identifies motivational, cognitive, affective, contextual, and ethical factors influencing GenAI adoption among instructors and students](genai-adoption-influencing-factors-review.md) — related

@@ -54,3 +54,4 @@ Across three field studies, the abstract states they "show no effects on extrane
 - [Instructor video presence produced no significant difference in tone production correctness, acceptability, or confidence, though with-condition means were descriptively higher on correctness and acceptability](instructor-presence-no-production-effect.md) — related
 - [Agent appearance (iconic vs realistic) shows no significant difference in retention, transfer, or interest](apa-appearance-null-effect.md) — related
 - [A visible instructor increased well-being in Study 3 (d = 1.01)](visible-instructor-wellbeing-study3.md) — related
+- [Temporary instructor presence on lecture slides did not enhance retention or transfer learning outcomes across two preregistered experiments](temporary-instructor-presence-no-learning-benefit.md) — a narrower finding that bears on this claim

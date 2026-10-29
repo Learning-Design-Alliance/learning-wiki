@@ -57,3 +57,4 @@ Pretest administration of the researcher-devised 50-item vocabulary test to both
 - Before the training, experimental and control PESTs were largely equivalent in argumentative competence, except justifications in the tree growth activity where the control group scored lower — related
 - [No significant pre-test difference existed between the two groups' entry listening knowledge](no-pretest-listening-difference-groups.md) — related
 - [Multimedia glosses improve EFL students' vocabulary retention two weeks after treatment relative to no glosses](multimedia-glosses-improve-efl-vocabulary-retention.md) — related
+- [Before implementation, treatment students performed significantly below control students on the standardized reading test](core5-treatment-pretest-disadvantage.md) — related

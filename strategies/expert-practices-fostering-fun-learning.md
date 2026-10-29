@@ -49,6 +49,7 @@ From the expert interview, teachers are advised to gather students' ideas for ma
 - [Embracing Errors as Learning](embracing_errors_as_learning.md)
 - [Low Floor, High Ceiling Tasks](low-floor_high-ceiling_tasks.md)
 - [Conduct focus groups to hear firsthand from multiple partners and build shared understanding beyond the numbers](focus-groups-beyond-the-numbers.md)
+- [Embed creativity development in ID courses through experimentation, open-ended projects, critique, and drills for variable answer development](embed-creativity-id-teaching-practices.md)
 
 ## Examples
 -

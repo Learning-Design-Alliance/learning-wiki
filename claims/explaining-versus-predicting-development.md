@@ -48,3 +48,4 @@ Theoretical/methodological argument from the article's fourth identified gap. Pr
 - [A machine learning model using 105 predictors predicts next-year standardized math achievement with out-of-sample prediction R-squared of .70–.78](ml-model-predicts-next-year-math-achievement-r2-70-78.md) — a narrower finding that bears on this claim
 - [Machine learning on pre-pandemic platform click data explains up to 77% of the variance in academic resilience](ml-platform-data-explains-resilience-variance.md) — related
 - [The single-task Random Forest achieves the best average predictive performance but is optimal for only 7 of 15 concepts](single-task-rf-best-average-not-universally-optimal.md) — related
+- [Zhai (2021) proposes machine learning methods to increase CoSIL personalization without creating additional burdens to teachers](machine-learning-personalize-cosil-guidance.md) — related

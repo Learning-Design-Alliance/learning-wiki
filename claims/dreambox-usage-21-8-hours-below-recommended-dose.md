@@ -51,3 +51,4 @@ Descriptive usage data from the Wang and Woodworth (2011) RCT, conducted mid-Oct
 - [Students used their assigned ed-tech tools far below recommended levels, and usage declined over the summer](low-declining-summer-edtech-usage.md) — related
 - [Math gains from the CAL program occur in classrooms with at least an average of 35 minutes of practice per week](cal-gains-require-35-minutes-weekly-practice.md) — related
 - [Edtech tool access per district grew more than 350% between 2019 and 2025, yet most tools are unused or used at low intensity](edtech-procurement-implementation-gap.md) — a broader claim this one bears on
+- [Students in treatment schools used the Core5 digital component for an average of 78.4 minutes per week, with usage varying by grade](core5-digital-component-usage-patterns.md) — related

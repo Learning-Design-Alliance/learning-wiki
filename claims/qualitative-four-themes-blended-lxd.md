@@ -46,3 +46,4 @@ Deductive thematic analysis of students' open-ended survey responses collected v
 
 ## Related Claims
 - [Students' user experience with the blended course platform is significantly and moderately positively correlated with their perceived learning engagement and with situational interest](ux-correlates-engagement-and-si.md) — related
+- [Stegman (2021) proposes blended designs combining simulations/games with strategically placed authentic home-based experiences for iterative learning](stegman-blended-design-iterative-learning.md) — related

@@ -48,3 +48,4 @@ Authors' synthesis of knowledge clusters and high-degree keywords from meso- and
 - [In-situ analysis of challenge episodes reveals a wide range of cognitive, motivational, emotional, and socially oriented micro-level challenges in collaborative learning](challenge-episodes-reveal-micro-level-challenges.md) — related
 - [AIED research centers on two sustained themes: intelligent tutoring systems (2010–19) and massive open online courses (since 2014)](aied-two-sustained-themes-its-mooc.md) — related
 - [Existing AI × SEL policy claims concentrate at macro and meso levels, with almost none at the classroom level](policy-claims-macro-meso-dominance.md) — related
+- [Progressive engagement through the PFO model shifted students' reasoning about the game system from micro-level to macro-level abstraction](pfo-progression-micro-to-macro.md) — related

@@ -65,6 +65,7 @@ A related, complementary construct is the **boundary object** (Star & Griesemer,
 - [Multilevel Professional Development School Partnership](../designs/multilevel-professional-development-school-partnership.md) — a three-tier meeting structure (policy, broad, and small knowledge communities) for a school-university research partnership
 - [Broker Position Circulation](../strategies/broker-position-circulation.md) — deliberately transferring a bridging role to a successor to counter the broker involvement paradox
 - [Deliberately bridge student experience data work across tools, initiatives, and partner organizations](../strategies/bridge-student-experience-data-across-initiatives.md)
+- [Address the usage gap through learning design that crosses boundaries between academic, personal lifestyle and professional spheres](../strategies/boundary-crossing-learning-design-for-usage-gap.md)
 
 ## Key Sources
 - Liukkonen, P., Vartiainen, H., Pöllänen, S., & Kokko, S. (2023). Interacting with nature in and through boundary crossing learning: A case of bioart-making. *Journal of the Learning Sciences, 32*(4-5), 534-572. [https://doi.org/10.1080/10508406.2023.2263845](https://doi.org/10.1080/10508406.2023.2263845)

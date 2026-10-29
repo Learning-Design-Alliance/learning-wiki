@@ -50,3 +50,4 @@ Time-of-publication analysis of the 126 included reviews (Fig. 5). The article r
 - [Research on AIED ethics grew exponentially from 2019, peaking in 2021 with a small retraction in 2022](aied-ethics-publications-growth-2019-2021.md) — related
 - [The years 2019, 2020, and 2022 had the highest numbers of related publications](publication-frequency-by-year.md) — related
 - [Research on assistive technology in education shows an increasing publication trend from 2017 onwards but low citation impact](at-research-trend-increase-2017.md) — related
+- [Research applying learning analytics to inquiry-based learning grew steadily from a first 2012 conference paper, peaking in 2019 with seven publications, with most outputs as journal articles](la-in-ibl-publication-trends-51-studies.md) — related

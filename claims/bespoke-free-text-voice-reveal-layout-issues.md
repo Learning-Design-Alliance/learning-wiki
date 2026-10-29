@@ -74,3 +74,4 @@ across the entire video” and “very distracting. ”"
 - [Among 6,699 LLM-judge deduction flags, visual delivery is the largest deficiency category (39%) and learner adaptation the second (27%), while content problems are rarer (16%)](video-deductions-visual-and-adaptation-dominant.md) — related
 - [Linguist review of draft items revealed communication problems with terminology and imprecisely reasoned attitude statements](linguist-review-revealed-item-communication-problems.md) — related
 - [Learners valued AI revision podcasts for portability and 'dead time' use but identified absent pauses and AI voice monotony as design barriers](podcast-design-barriers-pauses-voice-monotony.md) — related
+- [First-level participant feedback found the iThinkSmart prototype engaging but flagged movement, navigation, graphics, and device-support issues for improvement](ithinksmart-prototype-feedback-themes.md) — related

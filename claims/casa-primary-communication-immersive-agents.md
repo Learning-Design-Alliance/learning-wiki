@@ -48,3 +48,4 @@ Conceptual conclusion of the review's section on similarity to real-life human-h
 ## Related Claims
 - [Agent realism, particularly behavioral realism, should be a crucial predictor of social presence in immersive agent-centered learning environments](agent-realism-predicts-social-presence-xr.md) — related
 - [Immersive media environments enable higher visual and behavioral realism of pedagogical agents than non-immersive formats](xr-higher-agent-realism-than-non-immersive.md) — related
+- [Students spoke of the digital tutor as if it were a human being, suggesting it was perceived as a social actor in line with the CASA principle](tutor-perceived-as-social-actor.md) — a narrower finding that bears on this claim

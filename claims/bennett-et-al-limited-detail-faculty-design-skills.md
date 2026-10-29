@@ -49,3 +49,4 @@ The commentary's abstract states: "important limitations of their research are l
 - [Bennett et al.'s qualitative study found university instructors' design process is top-down, breadth-first, iterative, responsive, and reflective](university-instructor-design-process-characteristics.md) — related
 - [Bennett et al.'s study engaged a diverse cross-section of university teachers across disciplines and modalities, yet reported common shared design practices](diverse-cohort-common-shared-design-practices.md) — related
 - [A limitation of the Bennett et al. study is reliance on self-reported interview data without design artifacts for triangulation](interview-only-data-limitation-design-study.md) — related
+- [Bennett and colleagues' findings suggest designing for efficiency, broad consideration of specific details, and iterative design-and-refining processes in university teachers' design work](bennett-design-efficiency-detail-refining.md) — related

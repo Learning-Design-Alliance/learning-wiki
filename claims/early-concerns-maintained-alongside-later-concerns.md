@@ -57,3 +57,4 @@ Discussion of the case study's interview and SoCQ findings: teachers developed C
 - The Transtheoretical Model of Change applies to the adoption of improved study skills: decisional balance pros and cons follow the TTM pattern across stages, self-efficacy rises from contemplation to maintenance, and action/maintenance students use more deep achieving strategies. — related
 - [Colleges adopted new technology platforms to increase efficiencies, but face challenges sustaining their use after the grant ends](technology-platforms-efficiency-adoption-sustainability-challenge.md) — related
 - [Teachers' AI integration followed a developmental trajectory from self to task and impact concerns](ai-integration-self-task-impact-trajectory.md) — reports the opposite
+- [A prolonged period of forced online teaching does not necessarily lead to increased adoption; regression of adoption may occur due to stress and burnout](forced-online-teaching-not-increase-adoption.md) — related

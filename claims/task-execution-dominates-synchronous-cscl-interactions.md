@@ -48,3 +48,4 @@ Video qualitative analysis of 14 group recordings from 36 students produced 379 
 - [Surprise is the most frequently shared emotion among learners in synchronous online collaborative English discussion tasks](surprise-most-frequent-shared-emotion-esl-cscl.md) — related
 - [Co-regulation and socially shared regulation occur rarely in synchronous online collaborative learning](corl-ssrl-rare-synchronous-cscl.md) — related
 - [Regulatory sequencing in synchronous CSCL: cognitive interactions initiate cycles, co-regulation iterates with task execution, and SSRL follows socio-emotional interactions](regulation-sequencing-pattern-synchronous-cscl.md) — related
+- [Video-supported collaborative learning research falls into four major categories, with observation and collaborative analysis the most popular and video-supported synchronous collaboration the least utilized](vscl-four-category-taxonomy.md) — related

@@ -52,3 +52,4 @@ This is the report's own assertion in its Research and Workforce discussion, off
 - [The review identifies data privacy, algorithmic fairness, academic integrity, and unequal access as interconnected ethical concerns in AI-supported mathematics education](ai-math-ethical-concerns-interconnected.md) — related
 - [The skills required in a world powered by ChatGPT and related technologies will be different from those demanded previously](chatgpt-era-skills-reorganisation.md) — a narrower finding that bears on this claim
 - [Academic integrity, professional development, and equity concerns about AI span all surveyed units, though interpreted differently](integrity-equity-concerns-span-all-units.md) — related
+- [Institutional environment — leadership, policy debate, and school culture — significantly affects success in developing teachers' digital literacy](institutional-environment-affects-digital-literacy-development.md) — related

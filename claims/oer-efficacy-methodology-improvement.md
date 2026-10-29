@@ -48,3 +48,4 @@ The synthesis's comparison of methodological rigor in earlier versus later effic
 - [The commentary offers a practice-based perspective on Hilton's (2016) OER efficacy review in the context of the COVID-19 pivot to remote instruction](hodges-2021-practice-perspective-hilton-oer.md) — related
 - [Across 2002-2018, OER efficacy research consistently shows that OER does not harm student learning, with a small positive impact.](oer-does-not-harm-learning-aggregate.md) — related
 - [The number of published OER efficacy and perceptions studies rose rapidly between 2015 and 2018, with more studies published in those 3 years than in the previous 15.](oer-research-rapid-rise-2015-2018.md) — related
+- [OER outcome studies that lack a hypothesized explanatory mechanism are license comparison studies prone to finding no significant differences](oer-license-comparison-studies-undertheorized.md) — related

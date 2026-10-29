@@ -56,3 +56,4 @@ Exploratory RQ4 descriptive analysis of RM-CC5 system use metrics for 881 of 940
 - [Personalized Learning Effects Vary With Fidelity](personalized-learning-effects-vary-with-fidelity.md) — related
 - [Achievement effects accumulated over a third year in schools implementing personalized learning since 2012 or earlier, though not purely additively](pl-effects-accumulate-third-year.md) — related
 - [Odyssey® Math usage varied across classrooms in the DiLeo (2007) trial, partly because of differential access to technology](odyssey-math-usage-varied-with-technology-access.md) — related
+- [Students in treatment schools used the Core5 digital component for an average of 78.4 minutes per week, with usage varying by grade](core5-digital-component-usage-patterns.md) — related

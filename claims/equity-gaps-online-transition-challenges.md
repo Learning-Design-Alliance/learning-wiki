@@ -98,3 +98,4 @@ Survey analysis compared frequencies of connectivity and hardware/software probl
 - [The COVID-19 pandemic pushed institutions globally to abruptly shift instruction digital](covid-19-abrupt-digital-shift-instruction.md) — related
 - [The Covid-19 pandemic's rapid shift of US K-12 schools to digital learning produced a wealth of digital learning analytics available for improving student learning outcomes](covid-shift-digital-produced-wealth-learning-analytics.md) — related
 - [STEM faculty implemented the five inquiry phases online during COVID-19 emergency remote teaching](faculty-implemented-inquiry-phases-online-covid.md) — related
+- [The COVID-19 shift to digital revealed inequality in access to education caused by technology access and online delivery that may not address student voice](pandemic-revealed-inequality-in-access-to-education.md) — a broader claim this one bears on

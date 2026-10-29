@@ -51,3 +51,4 @@ Three-time-point CLMM on the engagement dataset with ordered time (beginning, mi
 - [Across all three experiments jointly, the interaction between treatment (contrasts versus control) and measurement occasion was significant, with a reliable quadratic trend](treatment-occasion-interaction-significant.md) — related
 - [Middle school SEL shows normative decline in self-efficacy and self-management but an increase in growth mindset](sel-trajectory-trends-middle-school.md) — related
 - [Ability to Reason (SMP 2) benchmark levels improved linearly across all three time points (d ≈ 0.78) with no significant quadratic trend](mindsets-smp2-linear-trend.md) — related
+- [No significant effects of condition or gender on task relevance at any measurement point](no-condition-gender-effect-task-relevance.md) — related

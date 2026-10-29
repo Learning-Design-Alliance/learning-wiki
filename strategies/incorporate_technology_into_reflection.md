@@ -65,6 +65,7 @@ Technology-mediated reflection works because it lowers the transaction cost of w
 - [Blended Learning](../patterns/blended-learning.md) — technology-mediated reflection is a common asynchronous component
 - [Check-In](../elements/check-in.md) — low-stakes digital check-ins are a lightweight form of the same function
 - [Make students' ideas public in a communal technology-supported space to prompt co-regulation](public-ideas-communal-space-prompt-co-regulation.md)
+- [Use priming tools, examples of practice, and artifacts of practice to support video-based reflection](priming-tools-examples-artifacts-video-reflection.md)
 
 ## Examples
 - A mathematics teacher uses Padlet for exit reflections: students post one sentence on where their problem-solving process broke down, and the teacher opens the next lesson by addressing the two most common posts.

@@ -197,3 +197,4 @@ Narrative review of Richland et al. (2009), in which participants attempted five
 - [The study addresses whether performance on the low-stakes PISA reading and mathematics assessments can be fostered by coaching and pretesting](low-stakes-pisa-coaching-question.md) — a narrower finding that bears on this claim
 - [Generating information produces a memory advantage over passively reading it (the generation effect)](generation-effect-memory-advantage.md) — related
 - [Pre-testing before reading produces a smaller but significant retention benefit over re-reading on trained questions (d = 0.35)](pre-testing-effect-trained-questions-latimier.md) — possibly the same claim (merge candidate)
+- [Generating answers before searching online improves recall of searched information compared with immediate searching](thinking-before-googling-improves-recall.md) — related

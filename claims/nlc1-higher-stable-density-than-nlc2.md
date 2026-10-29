@@ -50,3 +50,4 @@ Social network analysis of WebCT log data from two NLCs (235 messages in NLC1, 2
 - [Both teachers remained peripherally active and concentrated their contributions on tutoring, with the experienced teacher also acting as a learner on an equal basis](peripheral-teacher-tutoring-contributions.md) — related
 - [NLC1 acted as one evenly participating group with no cliques, while NLC2 was initially directed by three central participants and did not operate as one group](nlc1-even-participation-nlc2-star-shape.md) — related
 - [3D VR co-creation forms a more connected, centralized, and reciprocal aggregate social network with fewer cliques than 2D digital co-creation](vr-cocreation-denser-more-centralized-networks.md) — related
+- [The number of cliques in the forum interaction networks increased dramatically by the third iteration, while cohesion within cliques decreased](clique-numbers-increase-cohesion-decreases.md) — related

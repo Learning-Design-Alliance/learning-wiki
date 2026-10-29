@@ -52,3 +52,4 @@ Interview sessions with five university participants (two master's students, two
 - [The authors report five twenty-minute screenshare sessions can surface more actionable design insights than a 100-person survey](five-screenshare-sessions-beat-large-survey.md) — related
 - [Teachers rated the TARGET-tool's core features as easy to learn and efficient, but found scheduling student scans complex and the abundance of motivating strategies overwhelming](target-tool-usability-strengths-and-frictions.md) — related
 - [Model usability testing across two rounds led to structural improvements including separated course and lesson level design and a central formative evaluation step](usability-testing-improved-model-structure.md) — related
+- [First-level participant feedback found the iThinkSmart prototype engaging but flagged movement, navigation, graphics, and device-support issues for improvement](ithinksmart-prototype-feedback-themes.md) — related

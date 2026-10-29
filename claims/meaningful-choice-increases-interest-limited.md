@@ -50,3 +50,4 @@ Narrative review attribution to Palmer (2009), Patall (2013), and Pintrich and S
 - [Autonomy, meaningful purpose, and interest improve intrinsic motivation and deeper processing](interest-autonomy-purpose-boost-motivation.md) — related
 - [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md) — related
 - [Providing meaningful choice during a lesson increases perceived autonomy and triggered situational interest in undergraduates learning statistics](choice-increases-autonomy-triggered-situational-interest.md) — a narrower finding that bears on this claim
+- [Lee and Hannafin's framework holds that learners in student-centered classrooms need autonomy, scaffolding, and authentic audiences to enhance engagement](lee-hannafin-autonomy-scaffolding-authentic-audiences.md) — related

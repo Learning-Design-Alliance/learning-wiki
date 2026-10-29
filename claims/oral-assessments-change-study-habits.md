@@ -50,3 +50,4 @@ The review reports, citing Gardner and Giordano (2023), that preparing for oral 
 - [LLMs support the shift from memorization-focused to competency-based assessment by generating rubrics, varied assessment items and authentic scenario-based tasks](llms-support-competency-based-assessment-design.md) — related
 - [Application instructions successfully shifted students' reading goals toward application processing, but not memorization goals](application-instruction-shifts-processing-goals.md)
 - [Moving oral assessments online reduced required support staff hours from almost 8 days to 3 days](online-oral-assessments-reduced-staff-hours.md)
+- [Traditional rote-memorization exams became infeasible during online teaching, and teachers moved toward practices resembling authentic assessment](rote-exams-infeasible-authentic-assessment-shift.md) — related

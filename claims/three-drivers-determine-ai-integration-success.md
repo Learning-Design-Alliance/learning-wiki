@@ -55,3 +55,4 @@ This is the review's culminating synthesis, naming three drivers whose combined 
 - [Empowering and distributive leadership styles are associated with greater faculty engagement and willingness to adopt AI in higher education, per the reviewed studies](empowering-distributive-leadership-ai-adoption.md) — a narrower finding that bears on this claim
 - [Government regulations and policy incentives are crucial external enablers of institutional AI adoption readiness](government-regulation-external-enabler-ai-adoption.md) — related
 - [Teachers play a key role in determining students' success in school districts and CMOs](teachers-key-role-student-success-districts-cmos.md) — related
+- [Institutional environment — leadership, policy debate, and school culture — significantly affects success in developing teachers' digital literacy](institutional-environment-affects-digital-literacy-development.md) — related

@@ -58,3 +58,5 @@ Post-task questionnaire with 25 items (21 Likert-scale) completed by 30 students
 - [Students report no usability issues with the formative assessment tool (ASQ means 5.2–5.5)](students-report-no-usability-issues-asq.md) — related
 - [Formative evaluation by staff and students rated the MOLH positively on usability, content, and engagement.](molh-formative-evaluation-positive-ratings.md) — related
 - [Field-tested IDSA prototype received moderate usability ratings: usage enjoyment highest, design and realization lowest](idsa-usability-ratings-enjoyment-high-design-low.md) — related
+- [Students rated all student-facing design principles positively, with formative assessment and learning content rated highest (above 6 on a 7-point scale)](design-principles-rated-positively-survey.md) — related
+- [Students perceived high learning impact from the personalised GPT agents, with improved conceptual understanding rated highest (mean 4.6, SD 0.5)](student-perceptions-gpt-learning-impact.md) — related

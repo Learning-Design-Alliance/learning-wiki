@@ -40,6 +40,7 @@ The program's staffing model has teachers review student performance data genera
 
 - [Deliver PLL as small-group Tier 2 instruction with one teacher per 4-5 students](pll-small-group-tier2-strategy.md)
 - [Deliver PA Lessons in small groups of 4-5 students with one teacher, supported by 90-minute virtual training](pa-lessons-small-group-delivery-training.md)
+- [Pair a CALL oral-language program with scripted teacher-led lessons for pre-teaching and reteaching](call-with-teacher-led-lessons-strategy.md)
 
 ## Examples
 -

@@ -51,3 +51,4 @@ The review's framing statement, citing Tu and McIsaac (2002) and Zhao et al. (20
 - [Learner engagement is positively associated with perceived learner performance in agentic AI-supported online learning](engagement-positive-perceived-performance-agentic-ai.md) — related
 - [Interactivity, information sharing, and collaborative environment are each positively associated with perceived social presence in agentic AI-supported online learning](affordances-positive-social-presence-agentic-ai.md) — related
 - [CASTLE's interaction hypothesis states that social processes influence and are influenced by motivational, emotional, and metacognitive processes](social-processes-interact-with-motivational-emotional-metacognitive.md) — related
+- [Investigating factors that influence learners' online interaction and engagement is framed as crucial for e-learning success](interaction-engagement-crucial-elearning-success.md) — related

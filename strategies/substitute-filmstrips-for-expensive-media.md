@@ -42,7 +42,8 @@ The article concludes that "sound filmstrips might be substituted for more expen
 - [Most graduate engineering students were willing to accept sound filmstrips for instruction, but many wanted opportunities to ask questions](../claims/students-accept-filmstrips-want-questions.md) [~W]
 
 ## Related Strategies
-- 
+
+- [Place television within the administrative organization of the instructional area of the college](place-television-in-instructional-area-administration.md)
 
 ## Examples
 -

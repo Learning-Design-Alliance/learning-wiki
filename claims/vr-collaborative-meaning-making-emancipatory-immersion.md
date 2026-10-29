@@ -76,3 +76,4 @@ The editorial summarizes reported student descriptions in the Silseth et al. stu
 - [Teachers adopted varying levels and strategies of guidance during reflective dialogues about VR experiences, which shaped students' meaning making](teacher-guidance-varied-in-vr-reflections.md) — a narrower finding that bears on this claim
 - [Personal, out-of-school experiences serve as real resources for sense making in classroom discussion](personal-experiences-as-classroom-learning-resources.md) — related
 - [Collaborative learning in immersive VR produced significantly higher use of cognitive resources than individual learning in a geography study](collaborative-vr-higher-cognitive-resources.md) — related
+- [Six response essays propose ways to action practical learning in online spaces, building on the Zacharia et al. (2015) guidance review](six-responses-practical-learning-online.md) — a broader claim this one bears on

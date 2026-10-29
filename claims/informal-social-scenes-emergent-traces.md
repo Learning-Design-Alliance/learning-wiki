@@ -51,3 +51,4 @@ Preliminary social simulation results (Section 4.2 area) evaluating whether info
 - [Three emergent roles — leader, social mediator, and peripheral explorer — were identified in online PBL discussions from CoI-coded discourse using latent class analysis.](coi-three-pbl-roles-lca.md) — related
 - [Trajectories differed in transition structure: free-rider students migrated from social mediator and leader roles into the peripheral explorer role, and rarely returned to leadership directly.](free-rider-transition-structure.md) — related
 - [NLC1 acted as one evenly participating group with no cliques, while NLC2 was initially directed by three central participants and did not operate as one group](nlc1-even-participation-nlc2-star-shape.md) — related
+- [The number of cliques in the forum interaction networks increased dramatically by the third iteration, while cohesion within cliques decreased](clique-numbers-increase-cohesion-decreases.md) — related

@@ -72,3 +72,4 @@ Direct replication (N = 310) replacing live queries with three pre-generated inc
 - [AI assistance can inflate confidence even after errors and reduce accuracy when AI is faulty (cognitive surrender)](cognitive-surrender-inflates-confidence-after-errors.md) — related
 - GPT-4 access raised consultant output quality inside the model's frontier but reduced correct solutions just outside it — related
 - [Sequencing independent task engagement before LLM consultation is associated with stronger student outputs](independent-work-before-llm-stronger-outputs.md) — related
+- [A subset of students showed over-reliance and algorithmic conformity patterns, consulting GenAI before independent analysis or revising to match AI output](over-reliance-algorithmic-conformity-risk.md) — related

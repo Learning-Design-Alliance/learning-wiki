@@ -59,9 +59,11 @@ Pre questions exploit the pretesting effect: unsuccessful retrieval attempts enh
 6. Optionally use analogical variants — a question about a parallel case — when transfer rather than retention is the goal.
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) — pre questions are a retrieval-based form of activation; both prepare schemas for new input
 - [Pretesting](../strategies/pretesting.md) — the broader strategy family this belongs to
 - [Retrieval Practice](retrieval-practice-activities.md) — post-instruction questioning; pre questions are its pre-instruction counterpart
+- [Have learners generate or guess answers to broad brainstorming questions before searching the internet for specific answers](thinking-before-googling-strategy.md)
 
 ## Examples
 - **Pre-lecture quizzes in large STEM courses** — Instructors using tools like [Perusall](https://www.perusall.com) or LMS quizzes pose questions on assigned reading *before* the lecture covering it; students answer, then the lecture resolves the gaps.

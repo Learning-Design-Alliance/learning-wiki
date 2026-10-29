@@ -53,3 +53,4 @@ This is background literature reported second-hand: the review attributes the fi
 - [Teachers' adoption of online collaborative learning is associated with constructivist beliefs, facilitator/delegator roles, perceived need for innovation, and institutional conditions](teacher-and-contextual-variables-related-to-innovation-adoption.md) — related
 - [EdTech messaging about AI over-emphasizes individual, cognitive learning while curricular frameworks emphasize social, contextual learning](edtech-ai-messaging-individual-vs-social-curricula.md) — related
 - [Dichotomous views of learning as individual or social continue to shape research and learning environments](constructivist-sociocultural-dichotomy-shapes-practice.md) — related
+- [Reviews find no differences in developing digital literacy between in-service and pre-service teachers, dispelling the digital natives myth](no-in-service-preservice-digital-literacy-difference.md) — related

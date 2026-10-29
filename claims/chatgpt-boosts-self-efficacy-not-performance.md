@@ -75,3 +75,4 @@ Exploratory correlation analysis of Table 3 from the same experiment. The articl
 - [Subjective effort ratings are affected by invalid cues and only weakly valid as cues to judged learning outcomes](effort-ratings-invalid-cues-weak-validity.md) — related
 - [Primary studies report possible benefits of GenAI for children's divergent thinking, narrative creativity and creative self-efficacy, without confirmed efficacy](genai-possible-benefits-children-creative-thinking.md) — related
 - [Learning-process and psychological constructs correlate only weakly with aggregate final artistic performance](process-constructs-weakly-correlated-final-performance.md) — related
+- [The six experts rated their creative self-efficacy high on the CSE scale (M = 3.7, SD = 0.2, α = 0.74)](expert-creative-self-efficacy-high.md) — related

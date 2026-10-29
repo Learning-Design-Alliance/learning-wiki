@@ -54,3 +54,4 @@ The review's analysis of the multiculturalist version, spanning difference to tr
 - [Synthetic cultural environments promoted intercultural competence when combined with suitable classroom instruction (reported by Hall et al., 2014)](synthetic-cultures-promote-intercultural-competence.md) — related
 - [The commentary argues that the 'one size fits all' critique of common curricula mischaracterises both the empirical reality and the professional ideal of education](one-size-fits-all-neither-reality-nor-ideal.md) — related
 - [Commentators recommend contextual adaptations of the Own It, Learn It, Share It framework](six-scholar-critiques-context-needed-for-ols-framework.md) — related
+- [Owning, learning, and sharing knowledge need to be reinterpreted in light of cultural differences when the own-it, learn-it, share-it framework is adopted internationally](owning-learning-sharing-cultural-reinterpretation.md) — related

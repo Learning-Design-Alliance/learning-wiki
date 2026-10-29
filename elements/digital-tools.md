@@ -13,7 +13,7 @@ generated:
 # Digital Tools
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 62 claims (34 for, 25 mixed, 3 against) · 58 studies (13 review, 11 associational, 9 causal, 8 design, 7 theoretical, 6 quant-synthesis, 4 qualitative), `q1`–`q4` · 7 of 58 report an effect size · 61 claims rest on one study
+> **Evidence** · 64 claims (35 for, 26 mixed, 3 against) · 60 studies (13 review, 11 causal, 11 associational, 8 design, 7 theoretical, 6 quant-synthesis, 4 qualitative), `q1`–`q4` · 8 of 60 report an effect size · 63 claims rest on one study
 
 ## Description
 Digital tools are the element in which learners use software, platforms, or digital applications to create, collaborate, practice, or receive feedback. They are useful when a tool meaningfully extends what learners can do.
@@ -97,6 +97,8 @@ Digital tools are the element in which learners use software, platforms, or digi
 - [Prior mathematical ability moderates tablet-DGBL gains, with mixed direction across studies](../claims/prior-math-ability-mixed-moderator.md) [~W]
 - [Optimistic Advocates view ChatGPT as a time-saving tool for storyboarding, content editing, and differentiating learning experiences](../claims/optimistic-advocates-time-saving-storyboarding-editing.md) [+W]
 - [Students perceived AI as helping their text comprehension in Greek language class](../claims/students-perceived-ai-text-comprehension-help.md) [+W]
+- [The GenAI-integrated group outperformed controls across course assessment components, with Cohen's d ranging from 0.65 to 0.88, and a higher proportion earning B+ or higher](../claims/genai-group-better-course-performance.md) [+W]
+- [Students in treatment schools used the Core5 digital component for an average of 78.4 minutes per week, with usage varying by grade](../claims/core5-digital-component-usage-patterns.md) [~W]
 
 ## The evidence by question
 - *Does putting instruction on a digital medium change learning by itself, or only through the method, time and teaching it carries?* [Media comparison studies produce uninterpretable "no significant difference" findings.](../claims/media-comparison-studies-produce-uninterpretable-results.md) [+M]

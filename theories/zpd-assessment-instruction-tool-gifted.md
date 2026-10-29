@@ -17,7 +17,7 @@ sources:
 # Zone of Proximal Development as an assessment and instruction tool
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 4 studies (2 theoretical, 1 review, 1 design), `q1`–`q2` · 0 of 4 report an effect size · 4 claims rest on one study
+> **Evidence** · 7 claims (5 for, 2 mixed) · 6 studies (2 design, 2 theoretical, 1 causal, 1 review), `q1`–`q3` · 0 of 6 report an effect size · 7 claims rest on one study
 
 ## Description
 The ZPD is defined by Vygotsky as "the distance between the actual developmental level as determined by independent problem-solving and the level of potential development as determined through problem-solving under adult guidance or in collaboration with more capable peers." The essay presents it as "an analytical tool necessary to plan instruction and to explain its results," applicable to assessment, individualizing learning, monitoring progress, and addressing gifted children's social and emotional needs.
@@ -42,6 +42,9 @@ The ZPD is defined by Vygotsky as "the distance between the actual developmental
 - [AI scaffolding differs from human scaffolding in availability, feedback timing, and dynamic adjustment, making its developmental impact conditional](../claims/ai-scaffolding-developmental-impact-conditional.md) [~W]
 - [Dynamic assessment reflects young children's learning potential more accurately than static tests, especially with minority and learning disabled children](../claims/da-more-accurate-than-static-tests-young-children.md) [+W] — attached 2026-10-15 from Tzuriel (2000), which proposed "Dynamic/interactive assessment grounded in Vygotsky's zone of proximal development and Feuerstein's mediated learning experience"; tests this page's relationship.
 - [Dynamic assessment can teach kindergartners the CVS within a single session](../claims/dynamic-assessment-teaches-cvs-single-session.md) [+W]
+- [The number of prompts children needed during training predicted mathematics and technical reading achievement, while static pre- and post-test scores did not](../claims/prompt-count-predicts-math-reading.md) [+W] — attached 2026-10-29 from Kirsten W. J. Touw et al. (2019), which proposed "Dynamic testing as a test–train–test format revealing learning potential beyond static ability".
+- [Teacher ratings of school performance and learning potential did not correlate significantly with the trained group's dynamic post-test score, suggesting dynamic testing provides teachers with new information](../claims/teacher-ratings-uncorrelated-dynamic-posttest.md) [~W] — attached 2026-10-29 from Kirsten W. J. Touw et al. (2019), which proposed "Dynamic testing as a test–train–test format revealing learning potential beyond static ability".
+- [The SplashLearn Math review found alignment with student agency and gamification principles, including ZPD-based adaptivity](../claims/splashlearn-agency-gamification-alignment.md) [+W]
 
 ## Related Theories
 

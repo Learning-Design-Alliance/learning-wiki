@@ -68,3 +68,4 @@ The editorial names this as one of the findings of the Vogler et al. study, whic
 - [Collaborative writing develops through distinct phases, is non-linear and non-cumulative, with sharing of opinions emerging in the last phase](collaborative-writing-phases-nonlinear-opinion-sharing-last.md)
 - [All four A3C interaction types can contribute individually to learning and may exist in parallel during mass collaboration](a3c-interaction-types-parallel-learning.md)
 - [Type of interdependence shifts the nature of interactions: no-structure groups show the most cognitive interactions, role groups the most group processing, and reward groups the most off-task behavior](interdependence-type-shifts-interaction-nature.md) — related
+- [Lack of interaction in online learning systems contributes to the failure of online education and student dropout](lack-interaction-contributes-online-failure-dropout.md) — related

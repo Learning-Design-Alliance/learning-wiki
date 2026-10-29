@@ -13,7 +13,7 @@ generated:
 # Social Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 27 claims (16 for, 10 mixed, 1 against) · 25 studies (7 qualitative, 6 causal, 5 quant-synthesis, 3 review, 2 theoretical, 1 associational, 1 design), `q1`–`q4` · 5 of 25 report an effect size · 25 claims rest on one study
+> **Evidence** · 28 claims (17 for, 10 mixed, 1 against) · 26 studies (8 qualitative, 6 causal, 5 quant-synthesis, 3 review, 2 theoretical, 1 associational, 1 design), `q1`–`q4` · 5 of 26 report an effect size · 26 claims rest on one study
 
 ## Description
 Social learning is the element in which interaction with peers, models, or communities is treated as a direct source of learning.
@@ -51,6 +51,7 @@ Social learning is the element in which interaction with peers, models, or commu
 - [Participants perceived the observational task as social learning: 93% reported attending to the observed peer and rated them as similar, reliable and believable](../claims/social-manipulation-credibility-check.md) [+W]
 - [Contrary to similar research, an asocial robot produced higher learning gains than a more social robot in a tutoring study](../claims/asocial-robot-higher-learning-gains.md) [-W]
 - [Variables of experience, gender, age and degree do not negatively affect academic interaction or VLE learning performance](../claims/no-negative-effect-demographics-vle-interaction.md) [+W]
+- [Embodiment functioned as a social act: children built on and extended a partner's embodiment, used embodied turn-taking signals, and expressed emotions toward the robot with their bodies](../claims/embodied-collaboration-and-emotion.md) [+W]
 
 ## The evidence by question
 - *Does structured cooperative group work raise achievement more than individualistic, competitive or traditional whole-class instruction?* [Cooperative Learning Improves Achievement](../claims/cooperative-learning-improves-achievement.md) [+S]

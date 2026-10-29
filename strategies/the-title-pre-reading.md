@@ -62,6 +62,7 @@ The strategy works because comprehension depends on connecting new text to exist
 - [Anticipation Guides](anticipation-guides.md) — a structured pre-reading variant using agree/disagree statements instead of open brainstorming
 - [KWL Charts](kwl-chart.md) — extends the activity across the full reading cycle with a "Learned" phase
 - [Use small-group discussion of a phenomenon-describing problem before text study to bridge prior knowledge and new information](small-group-problem-discussion-before-text.md)
+- [Have learners generate or guess answers to broad brainstorming questions before searching the internet for specific answers](thinking-before-googling-strategy.md)
 
 ## Examples
 - Before reading an article titled "The History of Jazz Music," learners brainstorm in groups what they know about jazz's origins and cultural impact, then check their predictions against the article.

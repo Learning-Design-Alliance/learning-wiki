@@ -50,3 +50,5 @@ The review reports, citing Yaneva et al. (2019), that readability measures under
 - [Revising texts to improve readability-formula scores often produces nonexistent or insignificant comprehension gains](readability-revision-gains-nonexistent-insignificant.md) — related
 - [Academic word list count, word count, and Flesch-Kincaid grade level are the most important features for predicting cognitive engagement in discussion posts](awl-count-word-count-feature-importance-engagement.md) — related
 - [Readability levels of film narrations were found to be at or near the theoretical reading level of the intended audience.](film-narration-readability-matches-audience.md) — related
+- [The Dale-Chall and Flesch readability formulas appear most efficient at discriminating less from more readable materials](dale-chall-flesch-most-efficient-formulas.md) — related
+- [Readability formulas measure stylistic qualities and miss content readability, so they cannot substitute for editorial judgment](readability-formulas-miss-content-readability.md) — a broader claim this one bears on

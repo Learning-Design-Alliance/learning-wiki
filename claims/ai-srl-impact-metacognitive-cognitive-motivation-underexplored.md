@@ -65,3 +65,4 @@ The review categorized direct impacts of AI on SRL into cognition, metacognition
 - [SRL interventions for pre-service teachers unevenly cover SRL areas: cognition (n = 62) and metacognition (n = 55) dominate, while emotion (8 interventions) and context regulation (n = 6) are rare](uneven-srl-area-coverage-pst-interventions.md) — related
 - [Motivational and affective dimensions remain underrepresented in multimodal SRL research despite theoretical consensus on their importance](motivation-affect-underrepresented-multimodal-srl.md) — a broader claim this one bears on
 - [Multimodal SRL research shows a historical shift from unimodal toward integrated analytical designs, but motivational and affective dimensions remain underrepresented](srl-multimodal-shift-integrated-designs-motivation-affect-gap.md) — related
+- [Assessment is among the least explored conversational agent intents in higher education](assessment-intent-underexplored.md) — related

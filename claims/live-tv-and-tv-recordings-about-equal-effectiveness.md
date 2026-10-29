@@ -51,3 +51,5 @@ In the same comparative study of Naval Air Reservists, the abstract states "Live
 - [Naval trainees generally liked television instruction, with over half the comments being favorable.](naval-trainees-favorable-comments-tv-instruction.md) — related
 - [Kinescope recordings of television instruction were equally effective as regular instruction](kinescope-recordings-equally-effective.md) — related
 - [Television instruction was at least as effective as regular instruction in Army basic training](tv-instruction-as-effective-as-regular-army-basic.md) — related
+- [College students taught by television compared favorably with those receiving regular instruction, with attitudes differing only for the on-campus television group](televised-instruction-compared-favorably-college.md) — related
+- [Reservists retained most TV-learned material at retesting, officers 85% and enlisted men 65%](tv-instruction-retention-officers-enlisted.md) — related

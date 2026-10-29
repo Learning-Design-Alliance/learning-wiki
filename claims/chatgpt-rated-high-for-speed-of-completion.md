@@ -61,3 +61,4 @@ Item-level analysis of the concluding survey (Likert scale 1–10) administered 
 - [LLM-generated retrieval practice was practical to deploy and well received, but high correctness rates (about 70% of items at p=1.0) restricted score variance](llm-generated-retrieval-practice-deployable-but-high-accuracy-limits-variance.md) — related
 - [Students in a 13-week lecture-free course reported accepting the weekly closed-book gate and rated the format as deeper and faster than lectures](tdaa-student-acceptance-weekly-gate.md) — related
 - [Students rated all major course activities as highly useful, with scores between 7.5 and 8.4 on a 0-9 scale](high-activity-usefulness-ratings.md) — related
+- [Students rated all student-facing design principles positively, with formative assessment and learning content rated highest (above 6 on a 7-point scale)](design-principles-rated-positively-survey.md) — related

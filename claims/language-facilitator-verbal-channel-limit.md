@@ -52,3 +52,4 @@ Authors' interpretive analysis of the facilitator's channel: it operated through
 - [An AI assistant configured on the ISLE approach can scaffold the epistemic core of inquiry, at the level of feasibility](ai-gem-scaffolds-isle-epistemic-core.md) — related
 - [Embodied dance improvisation supports physics engagement and sense-making](embodied-dance-improvisation-supports-physics-engagement-and-sensemaking.md) — related
 - [Robot embodiment changes verification and debugging: learners treat robot execution as perceptual evidence for hypothesis-driven revisions, while AI-Only learners rely on generic help-seeking](robot-embodiment-perceptual-evidence-debugging.md) — related
+- [Embodiment functioned as a social act: children built on and extended a partner's embodiment, used embodied turn-taking signals, and expressed emotions toward the robot with their bodies](embodied-collaboration-and-emotion.md) — related

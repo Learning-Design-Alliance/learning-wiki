@@ -17,7 +17,7 @@ sources:
 # Investigate the cognitive needs of students in CoSIL and integrate content, CoSIL, and guidance tools to advance personalization
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 2 studies (1 qualitative, 1 theoretical), `q1`–`q2` · 0 of 2 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 3 studies (1 review, 1 qualitative, 1 theoretical), `q1`–`q2` · 0 of 3 report an effect size · 2 claims rest on one study
 
 ## Description
 The author's forward-looking recommendation is twofold: study what students cognitively need during computer-supported inquiry learning, and design guidance in integration with the content and the CoSIL environment. He writes, "I conclude the essay with suggestions to further investigate the cognitive needs of students in CoSIL and integrate the content, CoSIL, and guidance tools, as a way to move forward the personalization of CoSIL."

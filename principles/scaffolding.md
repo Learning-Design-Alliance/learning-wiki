@@ -27,7 +27,7 @@ sources:
 # Scaffolding
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 81 claims (23 for, 48 mixed, 10 against) · 58 studies (28 causal, 11 review, 6 quant-synthesis, 5 design, 5 theoretical, 2 associational, 1 qualitative), `q1`–`q4` · 18 of 58 report an effect size · 74 claims rest on one study
+> **Evidence** · 82 claims (23 for, 49 mixed, 10 against) · 59 studies (28 causal, 11 review, 6 quant-synthesis, 6 design, 5 theoretical, 2 associational, 1 qualitative), `q1`–`q4` · 18 of 59 report an effect size · 75 claims rest on one study
 
 ## Conditional relationship
 
@@ -164,6 +164,7 @@ Assisted performance, unassisted immediate performance, delayed retention, trans
 - [Students tended to ignore adaptive prompts while collaborating, motivating socially sensitive or implicit support](../claims/students-ignore-adaptive-prompts-collaborating.md) [~W]
 - [ACLS has shown benefits compared to individual work, unsupported collaboration, and non-adaptive support](../claims/acls-benefits-over-individual-and-non-adaptive.md) [~W]
 - [Metacognitive scaffolding outperforms conceptual scaffolding alone in online learning environments](../claims/metacognitive-scaffolding-outperforms-conceptual.md) [~W]
+- [Lower-experience students used GPTs as conceptual tutors while technically stronger students used them as professional collaborators, consistent with adaptive scaffolding](../claims/gpt-differentiated-use-by-experience.md) [~W]
 
 ## Related Principles
 - [Scaffolding and Fading](scaffolding-and-fading.md)

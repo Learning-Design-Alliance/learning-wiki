@@ -50,3 +50,4 @@ Repeated measures mixed effects model on pre/post-test scores of 40 participants
 - [Low Prior Knowledge students achieved significantly higher normalized learning gains than High Prior Knowledge students](lpk-normalized-gain-exceeds-hpk.md) — related
 - [The Low-Agency condition produced a significantly different mix of preparatory activities than the High-Agency condition](activity-type-differences-between-conditions.md) — related
 - [The first (1998) evaluation of SQL-Tutor showed students learned from the system and found it useful and easy to use](sql-tutor-1998-evaluation-learning.md) — related
+- [All conditions achieved significant knowledge gains with no condition, gender, or interaction effects](knowledge-gains-identical-across-conditions.md) — related

@@ -51,3 +51,4 @@ The review's synthesis statement that "students generally achieve the same learn
 - [Across 2002-2018, OER efficacy research consistently shows that OER does not harm student learning, with a small positive impact.](oer-does-not-harm-learning-aggregate.md) — a broader claim this one bears on
 - [Substituting OER for traditional textbooks does not appear to decrease student learning outcomes in higher education.](oer-no-decrease-student-learning.md) — possibly the same claim (merge candidate)
 - [Concerns about whether OER decrease the effectiveness of student learning remain unsolved](oer-effectiveness-concerns-unsolved.md) — reports the opposite
+- [OER adoption is expected to save students money and close the achievement gap in the short term, but this benefit will likely disappear over the longer term](oer-cost-savings-short-term-only.md) — related

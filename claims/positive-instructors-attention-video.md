@@ -68,3 +68,4 @@ Effort, difficulty, enjoyment, and wanting-more-lessons items showed no signific
 - [Emotion affects motivation, which in turn affects mental effort investment during learning](emotion-affects-motivation-mental-effort.md) — a broader claim this one bears on
 - [Learners feel a stronger social connection with positive instructors than with negative instructors.](positive-instructors-social-connection-video.md) — related
 - [Learners recognize an instructor's positive versus negative emotional tone in video lectures.](learners-recognize-instructor-emotional-tone-video.md) — related
+- [Instructor competencies were the most critical factor in students' emotions and attention during live online lectures](instructor-competencies-most-critical-factor-live-lecture-emotions.md) — related

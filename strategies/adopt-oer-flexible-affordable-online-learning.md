@@ -47,7 +47,8 @@ The article recommends using open educational resources in online learning, argu
 - [The COVID-19 pandemic pushed institutions globally to abruptly shift instruction digital](../claims/covid-19-abrupt-digital-shift-instruction.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Explore the 5R affordances combined with evidence-based teaching practices to develop OER-enabled pedagogies](explore-5r-affordances-oer-enabled-pedagogy.md)
 
 ## Examples
 -

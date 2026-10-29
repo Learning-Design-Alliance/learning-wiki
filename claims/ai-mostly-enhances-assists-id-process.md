@@ -56,3 +56,4 @@ Thematic coding of AI usage purposes across the 28 included studies (Table 4). T
 - [Instructional designers mainly use ChatGPT for content creation (57.5%), writing assistance (30%), professional support, communication, and information searching](id-chatgpt-usage-content-creation-dominant.md) — related
 - [IDs used GenAI as a design partner or personal assistant to streamline the design process](genai-design-partner-streamline-process.md) — a narrower finding that bears on this claim
 - [IDs perceived GenAI as most useful for analysis, design, and development tasks but most frequently used it for writing performance objectives and modifying instructional content](genai-usefulness-analysis-design-development-vs-reported-use.md) — related
+- [Instructional is the most common pedagogical purpose of surveyed conversational agents, with pastoral close behind and cognitive smallest](instructional-most-common-agent-purpose-41-of-92.md) — related

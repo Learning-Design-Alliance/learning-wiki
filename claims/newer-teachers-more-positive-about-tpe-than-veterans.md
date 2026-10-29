@@ -54,3 +54,4 @@ Survey subgroup comparison across experience levels (Table 3) in the 16,314-resp
 - [Principals and teachers increasingly agree that school and district support for TPE implementation is helpful, with principals more positive than teachers](school-district-support-tpe-helpful.md) — related
 - [Principals are generally more positive about TPE than teachers, but perception gaps are narrowing](principal-teacher-perception-gap-narrowing.md) — related
 - [Beginning teachers are more positive about REACH than teachers with more years of experience](reach-beginning-teachers-more-positive-than-veterans.md) — possibly the same claim (merge candidate)
+- [Teachers across the career span appreciated communicating with peers of different experience levels, with novices emphasizing observation of experienced teachers and veterans valuing newer teachers' fresh ideas](lsvc-cross-experience-peer-appreciation.md) — related

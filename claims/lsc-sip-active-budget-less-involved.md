@@ -69,3 +69,4 @@ Survey on budget involvement (Tables 24-25): nearly 60 percent report moderate i
 - [More than half of LSCs conduct a comprehensive principal evaluation with explicit criteria, but 12 percent did no evaluation and principals offer more guarded views than other members](lsc-principal-evaluation-process.md) — related
 - [Most School Improvement Plans do not guide staff efforts to tackle the root causes that prevent significant performance improvement](sips-do-not-guide-root-cause-efforts.md) — related
 - While most parents agree they can influence school decisions, fewer than one-fifth report their school offers opportunities to provide input on classroom or schoolwide decisions — related
+- [The surveyed schools had no materials purchase policies, no long-range equipment planning, and budgets not based on planned needs of frequency-of-use and amortization](no-av-purchase-policies-or-long-range-planning.md) — related

@@ -43,6 +43,7 @@ The article's findings suggest that when producing television instruction, direc
 ## Related Strategies
 
 - [Plan television instruction with psycho-educational experts, skilled production staff, and adequate technical resources.](tv-instruction-production-planning-requirements.md)
+- [Supplement TV demonstrations with a printed bulletin or similar printed matter](printed-bulletin-supplement-to-tv-demonstrations.md)
 
 ## Examples
 -

@@ -48,3 +48,4 @@ Focus group frequency analysis of 20 students showed no agreement on which data 
 - [Students endorsed descriptive, predictive, and prescriptive data points driven by a desire to understand study progress and act on it](students-endorse-descriptive-predictive-prescriptive-data-points.md) — related
 - [Preferences for visualizing predictions with metaphors were a matter of personal choice, with students wanting to choose their own metaphor](metaphor-preference-personal-choice.md) — related
 - [Students reported that the dashboard boosted learning motivation and that predictive and prescriptive insights were beneficial to their learning](sensenablr-boosted-motivation-perceptions.md) — a broader claim this one bears on
+- [Dashboard visualisation benefits learners of different motivation and achievement levels, but high academic achievers report lower satisfaction with dashboards](dashboard-benefits-achiever-satisfaction-mixed.md) — related

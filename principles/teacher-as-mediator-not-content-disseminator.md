@@ -68,7 +68,7 @@ sources:
 # Educators should act as mediators and facilitators of learning rather than content disseminators
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 48 claims (31 for, 16 mixed, 1 against) · 44 studies (10 qualitative, 10 theoretical, 9 quant-synthesis, 9 review, 3 causal, 3 associational), `q1`–`q4` · 4 of 44 report an effect size · 43 claims rest on one study
+> **Evidence** · 49 claims (32 for, 16 mixed, 1 against) · 45 studies (10 qualitative, 10 theoretical, 9 quant-synthesis, 9 review, 4 causal, 3 associational), `q1`–`q4` · 4 of 45 report an effect size · 44 claims rest on one study
 
 ## Conditional relationship
 
@@ -209,6 +209,7 @@ Reported engagement, end-of-unit understanding, exam performance, delayed retent
 
 - [Teacher guidance plays a significant mediating role in collaborative-learning classroom outcomes](../claims/teacher-guidance-mediation-cscl.md) [+W]
 - [Critical AI literacy emerged as both a learning-design goal and a condition of teachers' professional mediation](../claims/critical-ai-literacy-dimension.md) [~W]
+- [Instructors reported role transformation toward facilitation, shifted assessment toward performance-based formats, and identified professional development and integrity needs](../claims/instructor-adaptation-themes-genai.md) [+W]
 
 ## Related Principles
 - [Constructivism](cognitive-activation.md)

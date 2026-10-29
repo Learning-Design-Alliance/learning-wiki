@@ -63,3 +63,4 @@ The editorial reports, citing Kasepalu, Chejara, Prieto and Ley, a quasi-experim
 - [Guiding dashboard support enabled teachers to perform more orchestration actions, more targeted interactions, and more class announcements than mirroring support](guiding-support-more-orchestration-actions-than-mirroring.md) — related
 - [Mirroring systems display basic actions to collaborators](mirroring-systems-display-basic-actions.md) — related
 - [Correctness overviews alone seldom lead to real insights into how to improve learning; dashboards must present teacher-actionable information supporting goal-setting, monitoring, and planning](dashboards-need-actionable-information-beyond-correctness.md) — related
+- [Learning analytics interventions for study success include alerts enabling teachers to give more individual attention, peer-to-peer communication facilitation, and recommendations for adaptive learning materials](la-interventions-alerts-peer-adaptive.md) — related

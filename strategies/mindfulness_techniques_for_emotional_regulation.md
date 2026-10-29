@@ -102,6 +102,7 @@ Mindfulness training functions as a self-regulation support: by strengthening at
 - [Begin remote lessons with grounding and centering exercises to help students focus](grounding-centering-exercises-remote-lessons.md)
 - Goal-setting and self-monitoring strategies — mindfulness supplies the noticing; these supply the planning and evaluation loop of [Self-Regulated Learning](../theories/self-regulated-learning.md)
 - [Deliver scalable socio-emotional support in ITSs via LLM-based mindful chat, breathing exercises, and mindful hint language](llm-mindfulness-layer-in-its.md)
+- [Set up learning environments encouraging mind and body balance by implementing wellness techniques such as meditation, yoga, and exercise in daily instruction, and use Zoom Cafés for social presence](wellness-techniques-zoom-cafes-daily-instruction.md)
 
 ## Examples
 - **[MindUP](https://mindup.org)** — an evidence-informed curriculum embedding daily "Core Practice" breathing exercises across K–8 classrooms.

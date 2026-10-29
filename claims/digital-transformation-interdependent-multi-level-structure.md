@@ -54,3 +54,4 @@ The chapter's response is to [design adaptive, reflexive structures at macro, me
 - [Opportunities to gain the agentive identity of “agents of change” are intertwined with a macro- and meso-level geopolitical matrix of power](agentive-identity-access-tied-to-geopolitical-power.md) — related
 - [SSWs perceive meso-level community and school contexts, including 287g programs and ICE activity, as shaping immigrant families' fear and access](ssws-perceive-meso-community-school-contexts.md) — related
 - [Dispositions such as openness and shared responsibility are shaped by conditions, not fixed individual traits](dispositions-shaped-by-conditions.md) — related
+- [Types of agency interact at micro, meso and macro levels, and their combination expresses agency at increasing scales](agency-interaction-micro-meso-macro.md) — a narrower finding that bears on this claim

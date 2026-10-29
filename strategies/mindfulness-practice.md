@@ -84,6 +84,7 @@ Mindfulness training targets the attentional control system: regular practice st
 - [Embed practical stress-management and self-care strategies into existing daily routines](embed-wellbeing-strategies-daily-routines.md)
 - [Deliver scalable socio-emotional support in ITSs via LLM-based mindful chat, breathing exercises, and mindful hint language](llm-mindfulness-layer-in-its.md)
 - [Attentional training interventions may improve public speaking performance for speech-anxious individuals](attentional-training-public-speaking.md)
+- [Set up learning environments encouraging mind and body balance by implementing wellness techniques such as meditation, yoga, and exercise in daily instruction, and use Zoom Cafés for social presence](wellness-techniques-zoom-cafes-daily-instruction.md)
 
 ## Examples
 - **MindUP** (https://mindup.org) — evidence-informed school curriculum with daily 3-minute "brain breaks" embedded in the school day.

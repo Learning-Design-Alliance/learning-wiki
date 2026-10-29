@@ -53,3 +53,4 @@ The Consortium report on YOUmedia Chicago reports attendance levels and particip
 - [YOUmedia cultivates a sense of community among participating teens that drives engagement with digital media](youmedia-sense-of-community-drives-digital-media-engagement.md) — related
 - [Participation at YOUmedia differs substantially across teens, spanning creation, homework, varied media use, and socializing](youmedia-participation-patterns-vary-substantially.md) — related
 - [Most teens at any given time chose the hanging out space, though staff reported a substantial number also engaged in geeking out activities](youmedia-hanging-out-dominant-with-geeking-out-subgroup.md) — related
+- [Little research has examined minority students' use of online learning resources, per Kuo and Belland (2016)](little-study-of-minority-students-online-learning.md) — related

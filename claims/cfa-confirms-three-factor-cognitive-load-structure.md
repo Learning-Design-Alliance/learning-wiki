@@ -69,3 +69,5 @@ Convergent validity check in Study 2 correlating the proposed instrument with th
 - [The revised questionnaire shows satisfactory internal consistencies for each cognitive load type across Studies 1 and 2](cognitive-load-questionnaire-satisfactory-internal-consistencies.md) — related
 - [The DIGISOC questionnaire shows acceptable validity and reliability, including CFA data and favorable Cronbach's alpha coefficients](digisoc-acceptable-validity-reliability.md) — related
 - [Confirmatory factor analysis with 448 secondary students showed the 32-item SAICS measurement model has good fit and high validity and reliability](saics-cfa-good-model-fit-448-students.md) — related
+- [The faculty readiness scale required two model modifications (a cross-loading item and two residual correlations) to reach adequate fit](genai-rp-faculty-readiness-modified-model.md) — related
+- [The student GenAI-RP readiness scale shows a validated three-factor structure: GenAI Comprehension, Ethical Awareness, and GenAI Utilization and Proficiency](genai-rp-student-readiness-three-factors.md) — related

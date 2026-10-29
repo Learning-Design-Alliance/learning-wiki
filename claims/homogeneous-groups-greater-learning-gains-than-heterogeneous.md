@@ -71,3 +71,4 @@ The editorial reports that social network analysis (SNA) and thematic analysis o
 - [Heterogeneously grouped teams show more benefits than homogeneously formed teams](heterogeneous-teams-more-benefits-than-homogeneous.md) — reports the opposite
 - [Collaboration facilitates learning only under specific knowledge and experience conditions; with advanced learners it can be detrimental via the expertise reversal effect](collaboration-beneficial-conditions-expertise-reversal.md) — a broader claim this one bears on
 - [Homogeneous grouping for reading instruction and heterogeneous grouping for discussion groups each serve distinct purposes](mixed-homogeneous-heterogeneous-grouping.md) — related
+- [Heterogeneous groups show greater learning achievements than homogeneous groups, most pronounced for students with little prior knowledge](heterogeneous-groups-greater-achievement.md) — reports the opposite

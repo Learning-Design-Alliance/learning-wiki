@@ -50,3 +50,4 @@ Theoretical argument from a book chapter drawing on recent federal evaluations o
 - Drawing promising practices from program evaluations and extant character-development studies is challenging — related
 - [Exploratory heat maps reveal three student groups, including disengaged-but-successful students more prevalent in the Python courses, showing low content completion can link to both positive and negative outcomes](interaction-patterns-three-student-groups-heatmaps.md) — related
 - [Early literacy screening assessments provide multiple benchmarks or performance levels defined in different ways, with no common definition of 'at risk'](no-common-definition-at-risk-literacy-screeners.md) — related
+- [Learning analytics approaches show promise for supporting study success and identifying students at risk of dropping out, but rigorous large-scale evidence of effectiveness is still lacking](la-study-success-evidence-lacking.md) — related

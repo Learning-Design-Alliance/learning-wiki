@@ -49,3 +49,4 @@ Correlational analysis of classroom EEG from 30 students during Chinese sessions
 - [Student-top couplings relate only to discipline-specific learning outcomes: cross-discipline top-student coupling showed no significant correlations](top-student-coupling-discipline-specific.md) — related
 - [Peer-based inter-brain coupling predicts math improvement only via class-average coupling and shows subject-specific static patterns](peer-coupling-subject-specific-prediction.md) — related
 - [Single-brain EEG features (relative frequency-band power) do not correlate significantly with disciplinary final exam scores](single-brain-power-null-correlation.md) — related
+- [Inter-brain attention coupling to class-average attention dynamics during lectures is positively correlated with primary school students' academic performance](inter-brain-attention-coupling-correlates-academic-performance.md) — related

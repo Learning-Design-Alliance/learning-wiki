@@ -13,7 +13,7 @@ generated:
 # Peer Collaboration
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 59 claims (21 for, 35 mixed, 3 against) · 53 studies (15 causal, 10 qualitative, 9 associational, 8 review, 6 theoretical, 5 quant-synthesis), `q1`–`q4` · 6 of 53 report an effect size · 57 claims rest on one study
+> **Evidence** · 60 claims (22 for, 35 mixed, 3 against) · 54 studies (15 causal, 10 qualitative, 9 associational, 8 review, 7 theoretical, 5 quant-synthesis), `q1`–`q4` · 7 of 54 report an effect size · 58 claims rest on one study
 
 ## Description
 Peer collaboration places two or more learners in joint work on a shared task, requiring them to explain, question, negotiate, and build on each other's thinking. It functions as a social engine for learning: the value comes not from proximity but from the elaboration, conflict, and mutual regulation that genuine joint work provokes.
@@ -109,6 +109,7 @@ Collaboration supports learning when it forces learners to articulate reasoning 
 - [Dyads of students who knew each other cheated more than dyads of strangers, and dyad power values predicted cheating among acquainted dyads](../claims/acquainted-dyads-cheat-more-than-strangers.md) [~W]
 - [Collaborative dyads marginally outperform individuals on hypervideo product quality](../claims/dyads-marginally-higher-hypervideo-quality.md) [+W]
 - [Knowledge gains occur in all conditions; collaboration shows no significant advantage, and the no-tool control group outperforms both tool conditions on interrelations and the annotation condition on transfer](../claims/enhanced-tools-no-conceptual-understanding-advantage.md) [-W]
+- [Meta-analysis finds collaboration, computer use, and learning environments/tools/scaffolds each have significantly positive effects on knowledge acquisition in CSCL](../claims/chen-2018-meta-analysis-cscl-positive-effects.md) [+W]
 
 ## The evidence by question
 

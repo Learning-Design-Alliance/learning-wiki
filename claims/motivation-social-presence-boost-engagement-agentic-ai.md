@@ -57,3 +57,4 @@ PLS-SEM analysis of the 398-respondent survey; the article reports that learning
 - [CASTLE's interaction hypothesis states that social processes influence and are influenced by motivational, emotional, and metacognitive processes](social-processes-interact-with-motivational-emotional-metacognitive.md) — related
 - [Measures of presence, enjoyment, entitativity, and realism increased over a 10-week networked-VR course, suggesting XRCL advantages may grow as participants adapt](xrcl-advantages-increase-with-adaptation.md) — related
 - [Invested effort and perceived value positively predicted social presence across all topics](perceived-value-predicts-social-presence.md) — related
+- [Investigating factors that influence learners' online interaction and engagement is framed as crucial for e-learning success](interaction-engagement-crucial-elearning-success.md) — a broader claim this one bears on

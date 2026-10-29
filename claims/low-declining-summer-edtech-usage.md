@@ -73,3 +73,4 @@ Elizabeth Forward Amplify usage data shown in Figure 8; the report states these 
 - [Odyssey® Math usage varied across classrooms in the DiLeo (2007) trial, partly because of differential access to technology](odyssey-math-usage-varied-with-technology-access.md) — related
 - [Middle school students used BrainPOP ESL far more than high school students and reported more positive experiences with the tool](brainpop-middle-school-more-engaged-than-high-school.md) — related
 - [Additional time on EdTech decreases schoolchildren's motivation and engagement in subject material](additional-edtech-time-decreases-motivation-engagement.md) — related
+- [Students in treatment schools used the Core5 digital component for an average of 78.4 minutes per week, with usage varying by grade](core5-digital-component-usage-patterns.md) — related

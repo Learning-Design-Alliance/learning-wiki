@@ -48,3 +48,4 @@ Based on individual interviews with 36 psychiatric patients after film viewings;
 - [Women identify more with characters in mental-health films and find them more relevant and acceptable](women-identify-more-with-film-characters.md) — related
 - [Psychologically deviant individuals find mental-health films more relevant than normals or acutely ill patients](deviants-find-films-more-relevant.md) — related
 - [Relevancy and acceptability of mental-health films matter more for learning than the sex of the main character](relevancy-acceptability-more-important-than-character-sex.md) — related
+- [Viewers tended to reject problem-solving behavior as hopeless, a feeling of social impotence](kefauver-social-impotence-feeling.md) — related

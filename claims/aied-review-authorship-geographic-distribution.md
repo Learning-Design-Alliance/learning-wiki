@@ -53,3 +53,4 @@ Analysis of the first author's country/region across the 126 included reviews, v
 - [AIED conference authorship is strongly WEIRD-imbalanced, with 90% of first authors from WEIRD institutions and no African first authors](aied-weird-authorship-imbalance.md) — a broader claim this one bears on
 - [AIED ethics publication output is concentrated in Europe, led by the United Kingdom (47%) and Finland (20%)](aied-ethics-publications-european-concentration.md) — related
 - [Spain, the United Kingdom, Germany, Greece, and the United States conducted the most studies](countries-conducting-most-studies.md) — related
+- [UK-based authors dominate the sample of English-language EdTech publications, with 1339 articles versus 1007 from Spain and 826 from Germany](uk-dominance-english-edtech-publications.md) — related

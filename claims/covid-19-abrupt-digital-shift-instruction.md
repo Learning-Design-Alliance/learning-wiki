@@ -53,3 +53,4 @@ The article's contextual assertion, offered without data: the pandemic "pushed m
 - [Instructors widely relaxed deadlines and adjusted grading to accommodate pandemic circumstances, while balancing compassion with academic rigor](instructors-flexible-deadlines-grading-covid.md) — related
 - [The pandemic strengthened the link between socioeconomic status and mathematics scores, but only in countries with closures shorter than 22 weeks](escs-slope-increase-short-closures.md) — related
 - [Higher education digital divides are acute at MSIs, HBCUs, and TCUs, which have stark capability deficits in hardware, software, and broadband](msi-hbcu-tcu-digital-capability-deficits.md) — related
+- [The COVID-19 shift to online learning in higher education caused panic and discomfort because many instructors lacked skills, resources, and didactic aptitude](pandemic-remote-shift-instructor-unpreparedness.md) — a narrower finding that bears on this claim

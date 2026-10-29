@@ -51,3 +51,4 @@ Portable EEG multilevel regression analysis of normalized occipital alpha power 
 - [No difference in alpha power between student-driven group work and independent work](no-alpha-difference-group-vs-independent-work.md) — related
 - [Observer ratings diverged from neural measures: behavioral ratings showed no teacher-initiated versus student-initiated difference and rated group work as more inattentive than independent work](observer-ratings-diverge-from-eeg.md) — related
 - [Perception performance was superior for independent-study events (6–7) than for lecture events (1–5)](ivr-pvas-perception-better-independent-study-events.md) — a narrower finding that bears on this claim
+- [Single-brain attention levels are also significantly higher during lectures than meditation, supporting the device's sensitivity](attention-level-higher-lecture-than-meditation.md) — related

@@ -54,3 +54,4 @@ Across three experiments, college students read a text explaining how lightning 
 - [The positive effect of integrated illustrations on transfer is stronger for students who lack experience in the text's domain (meteorology) than for high-experience students](illustration-integration-effect-stronger-for-low-experience-learners.md) — related
 - [Integrating spatially or temporally separated but related elements of instructional information produces a large average learning benefit for novices](integration-of-related-elements-large-mean-effect.md) — related
 - [Higher TORR scores, especially antinomy, predict more creative engineering design solutions](torr-predicts-creative-engineering-design.md) — related
+- [The review draws on Mayer and colleagues' generative theory of textbook design using annotated illustrations to foster meaningful learning of science text](multimedia-learning-review-cites-generative-theory-textbook-design.md) — a broader claim this one bears on

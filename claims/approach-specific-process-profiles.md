@@ -49,3 +49,4 @@ Bonferroni-corrected Mann-Whitney pairwise comparisons on the giving-(self-)expl
 - [Self-explanation-based and inquiry learning elicit more elaborative processes than hypermedia and observational learning, fully for hypothesis testing and integrating and partly for giving explanations](generation-approaches-elicit-more-elaborative-processes.md) — possibly the same claim (merge candidate)
 - [Hypermedia learners show the lowest total engagement in learning processes, devoting most processing to superficial activities](hypermedia-lowest-total-process-engagement.md) — related
 - [Observational learning devotes a significantly lower percentage of learning activity to elaborative processing than the other three approaches](observational-learning-lowest-elaborative-percentage.md) — related
+- [Games can elicit evidence of students' conceptual understanding and inquiry processes](games-elicit-evidence-of-understanding.md) — related

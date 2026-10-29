@@ -71,3 +71,4 @@ Exploratory Welch tests comparing reported global fit indices by dimensionality 
 - [A confirmatory factor analysis on a new sample confirms the three-factor structure with acceptable model fit and moderate convergent validity](cfa-confirms-three-factor-cognitive-load-structure.md) — related
 - [The ANCOVA and CHANGE models can be transformed into one another, so empirical model fit is no criterion for choosing between them](model-fit-no-criterion-ancova-change-selection.md) — related
 - [Early numeracy shows a two-factor structure (NRS and CS) on the Dutch ENT-3, with the two-factor model outperforming a one-factor model at several time points](two-factor-structure-ent3-nrs-cs.md) — related
+- [The Benefit scale's two factors (Effectiveness and Empowerment) fit satisfactorily for both groups, but their near-1.00 correlation suggests a potential unidimensional structure](genai-rp-benefit-scale-two-factors-unidimensionality.md) — related

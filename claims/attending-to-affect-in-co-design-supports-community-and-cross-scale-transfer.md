@@ -61,3 +61,4 @@ This is a well-documented single-site qualitative case study (q2) with real meth
 - Research question co-design builds community and moves research closer to practice — related
 - [A facilitated Community of Practice helped isolated state American Indian Education Directors build relationships that broke down silos and combated professional isolation](cop-relationships-combat-aie-director-isolation.md) — related
 - [Collectively mourning extinct or near-extinct more-than-human entities facilitates recognition of the more-than-human as co-participants in shared reality](species-eulogy-fosters-more-than-human-recognition.md) — related
+- [Sustaining large-scale online teacher communities of practice is generally more difficult than creating them](sustaining-online-teacher-cops-harder-than-creating.md) — related

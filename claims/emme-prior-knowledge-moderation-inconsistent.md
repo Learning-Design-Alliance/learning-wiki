@@ -51,3 +51,4 @@ Review synthesis of relative frequencies across included experiments; the review
 - [Learners with high prior knowledge benefit more from segmenting in retention performance than learners with no or low prior knowledge](prior-knowledge-moderates-segmenting-retention.md) — related
 - [Test-taker abilities and prior knowledge show inconsistent moderating effects on multimedia testing effects](test-taker-abilities-inconsistent-moderators.md) — related
 - [Segmentation Benefits Shrink With Expertise](segmentation-benefits-shrink-with-expertise.md) — related
+- [Novices who watched EMME videos guided by cumulative expert eye movements earned higher design performance scores than novices who watched unguided videos](emme-guided-videos-improve-design-performance.md) — related

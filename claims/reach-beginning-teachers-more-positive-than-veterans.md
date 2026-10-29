@@ -49,3 +49,4 @@ Experience-level comparison from the year-two teacher survey in the REACH brief.
 - [Teacher satisfaction with REACH was moderate overall but varied widely across schools](reach-satisfaction-varies-across-schools.md) — related
 - [Teacher and administrator perceptions of REACH changed little between Year 2 and Year 3 of implementation](reach-perceptions-stable-year-two-to-year-three.md) — related
 - [Newer teachers (0-3 years) hold more positive views of TPE than veteran teachers (10+ years)](newer-teachers-more-positive-about-tpe-than-veterans.md) — possibly the same claim (merge candidate)
+- [Teachers across the career span appreciated communicating with peers of different experience levels, with novices emphasizing observation of experienced teachers and veterans valuing newer teachers' fresh ideas](lsvc-cross-experience-peer-appreciation.md) — related

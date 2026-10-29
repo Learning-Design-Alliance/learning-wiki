@@ -88,3 +88,4 @@ Supplementary triangulation computed a majority-vote distribution across R1, R2,
 - [Undergraduate LLM reliance classifies into four types — Strategic (34.3%), Instrumental (30.9%), Dialogic (30.4%), and Dependent (4.5%) — using a threshold-based classification rule](four-types-llm-reliance-typology-distribution.md) — related
 - [Students engaged deeply with LLM feedback, with coded evidence of reflection, rebuttal, and acceptance in the large majority of responses](deep-engagement-llm-feedback-reflection-rebuttal-acceptance.md) — related
 - [Students most often report hybrid interaction modes with generative AI, with passive task delegation and verification-only use as smaller patterns](hybrid-ai-interaction-modes-students.md) — related
+- [Case analysis assistance and Socratic dialogue simulation dominated GenAI usage, and dialogue-based interaction patterns were associated with better outcomes than passive use](genai-usage-patterns-dialogue-effective.md) — related

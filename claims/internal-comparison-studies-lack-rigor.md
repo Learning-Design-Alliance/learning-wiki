@@ -47,3 +47,4 @@ Qualitative interview study finding on internal comparison studies, reported by 
 ## Related Claims
 - [Recent AI-in-education studies often rely on subjective or performance-during-support measures and weak comparison designs, limiting claims about learning effects](ai-studies-measurement-design-limitations.md) — a broader claim this one bears on
 - [The research activities decision-makers most often counted as research were internal: staff/student/faculty interviews, surveys or focus groups (40% of interviews) and looking at student outcomes after implementation (38%)](most-named-research-activities-are-internal.md) — related
+- [The reviewed study's limitations were one-off interviews relying on participants remembering particular design experiences, with no significant follow-up](bennett-study-one-off-interview-limitations.md) — a narrower finding that bears on this claim

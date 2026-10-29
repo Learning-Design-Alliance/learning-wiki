@@ -234,3 +234,4 @@ Seventy seventh-grade students learning to solve algebra equations were randomly
 - [Relational reasoning appears malleable and trainable, but may stabilize in adulthood without relevant experience](relational-reasoning-malleable-and-trainable.md) — related
 - [Students require prompting to connect information across multiple representations and do not do so spontaneously](students-need-prompting-connect-mers.md) — related
 - [Case comparisons produced significantly higher learning gains than single cases for organic chemistry students with low prior knowledge (attributed to Kranz et al., under review)](case-comparisons-higher-learning-gain-low-prior-knowledge.md) — a narrower finding that bears on this claim
+- [The simple reverse-engineering approach to aligning products with Science of Learning principles risks false positives and a narrow perspective on learning](reverse-engineering-alignment-false-positives.md) — a broader claim this one bears on

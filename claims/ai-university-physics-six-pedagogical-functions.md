@@ -58,3 +58,4 @@ The review's synthesis of 11 included studies (Section 3.3) characterizes the pe
 - [The Lantern ambient awareness device significantly increases the efficiency of supervised collaborative problem-solving sections](lantern-increases-recitation-section-efficiency.md) — related
 - [AI literacy comprises three key components: understanding AI capabilities, utilizing AI for problem solving, and applying AI in sociocultural contexts](ai-literacy-three-components.md) — related
 - [Example-tracing tutors support a variety of pedagogical approaches beyond step-based problem solving, including collaborative learning, educational games, and guided invention activities.](example-tracing-tutors-support-varied-pedagogies.md) — related
+- [Instructional is the most common pedagogical purpose of surveyed conversational agents, with pastoral close behind and cognitive smallest](instructional-most-common-agent-purpose-41-of-92.md) — related
