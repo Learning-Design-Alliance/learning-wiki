@@ -50,6 +50,6 @@ In the same three-day factual knowledge experiment, "groups did not differ signi
 ## Related Claims
 - [Sleep schedule interacts with time of learning on confident factual memory: the split-sleep advantage appears only for afternoon-learned material](group-by-time-interaction-factual-memory.md) — related
 - [A split sleep schedule raises subjective alertness and focus in the afternoon during learning, and post-nap psychomotor vigilance, in sleep-restricted adolescents](split-sleep-afternoon-alertness-focus.md) — related
-- [Adolescents on a split sleep schedule remember more educationally realistic factual material learned in the afternoon than peers with equal total sleep in continuous nocturnal sleep](split-sleep-afternoon-factual-memory.md) — related
+- [Adolescents on a split sleep schedule remember more educationally realistic factual material learned in the afternoon than peers given the same total sleep opportunity as continuous nocturnal sleep](split-sleep-afternoon-factual-memory.md) — related
 - [Under restricted sleep, adolescents on a split sleep schedule show better late-afternoon encoding of pictures than adolescents with the same total sleep opportunity in continuous nocturnal sleep](split-sleep-afternoon-encoding-advantage.md) — related
 - [A split sleep schedule reduces 24-hour total sleep time and REM sleep duration relative to equal-duration continuous nocturnal sleep, with no consistent reduction in other sleep stages](split-sleep-reduces-total-and-rem-sleep.md) — related

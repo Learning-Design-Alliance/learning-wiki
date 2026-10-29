@@ -64,7 +64,7 @@ The review reports Cosma et al. (2016), who exposed participants to a rail tunne
 
 
 ## Related Claims
-- [IVR serious games improve spatial knowledge for evacuation relative to safety cards, with body orientation moderating learning](ivr-sgs-spatial-knowledge-evacuation.md) — related
+- [A review reports that IVR serious-game training gave better airplane-evacuation spatial knowledge than safety cards in one study, and that in a separate spacecraft-evacuation study the body orientation used in training shaped which spatial skills were learned](ivr-sgs-spatial-knowledge-evacuation.md) — related
 - [IVR serious games show that other evacuees strongly influence participants' evacuation behavior](ivr-sgs-social-influence-evacuation-behavior.md) — related
 - [IVR serious games produce better evacuation knowledge retention and transfer than traditional training approaches](ivr-sgs-better-knowledge-retention-transfer-than-traditional.md) — related
 - [Increased perceptual fidelity fails to reliably improve serious game learning outcomes (the fidelity fallacy)](fidelity-fallacy-serious-games.md) — related

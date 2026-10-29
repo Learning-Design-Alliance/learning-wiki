@@ -88,7 +88,7 @@ Emotional intelligence is the ability to perceive emotions accurately, use them 
 - [Adolescents who engaged more with Crystals' empathy training mechanics showed greater increases in empathic accuracy-related RTPJ activation, controlling for total playtime](../claims/game-engagement-rtpj-activation-increase.md) [+M] — instruction changes it
 - [SEL programs implemented well show positive impacts on targeted skills and academic outcomes, including meta-analytic support](../claims/sel-programs-academic-outcomes.md) [+M] — instruction changes it
 - [No significant correlations between contextual emotion differences and overall game score after Holm-Bonferroni correction](../claims/no-significant-emotion-game-score-correlations.md) [-M] — learners who differ on it differ in outcomes
-- [Emotion regulation, utilization of social resources, and objective social support were not improved by any pedagogy, and Lego showed no advantage over other approaches in middle school children](../claims/sce-interventions-null-domains-and-limits.md) [-M] — instruction changes it
+- [Emotion regulation, utilization of social resources and objective social support showed no significant improvement under any pedagogy, and Lego did not differ significantly from other approaches, in middle school children](../claims/sce-interventions-null-domains-and-limits.md) [-W] — instruction changes it
 
 ## Related Learner Variables
 

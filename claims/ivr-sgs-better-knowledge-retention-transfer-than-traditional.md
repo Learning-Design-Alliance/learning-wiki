@@ -64,7 +64,7 @@ The review summarizes two eligible studies: Li et al. (2017) on earthquake self-
 
 
 ## Related Claims
-- [IVR serious games improve spatial knowledge for evacuation relative to safety cards, with body orientation moderating learning](ivr-sgs-spatial-knowledge-evacuation.md) — related
+- [A review reports that IVR serious-game training gave better airplane-evacuation spatial knowledge than safety cards in one study, and that in a separate spacecraft-evacuation study the body orientation used in training shaped which spatial skills were learned](ivr-sgs-spatial-knowledge-evacuation.md) — related
 - [In an authentic vocational classroom setting, a lesson orchestrated around an iVR serious game produced significantly stronger factual knowledge gains than a student video design control group](ivr-authentic-classroom-factual-knowledge-gains.md) — related
 - [The review reports that students learning with serious games often perform better on content knowledge assessments than those in traditional settings](serious-games-better-content-knowledge-than-traditional.md) — a broader claim this one bears on
 - [Increased perceptual fidelity fails to reliably improve serious game learning outcomes (the fidelity fallacy)](fidelity-fallacy-serious-games.md) — reports the opposite

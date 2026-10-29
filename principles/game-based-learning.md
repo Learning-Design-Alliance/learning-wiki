@@ -194,7 +194,7 @@ A gain in the game, a gain on an aligned outside test, delayed retention, transf
 - [Path analysis supports an indirect path from competition through motivation and in-game accuracy to post-test scores](../claims/path-analysis-competition-motivation-accuracy.md) [~W]
 - [Post-test scores correlate with motivation, response time, reading time and in-game accuracy](../claims/correlations-post-test-game-measures.md) [+W]
 - [IVR serious games produce better evacuation knowledge retention and transfer than traditional training approaches](../claims/ivr-sgs-better-knowledge-retention-transfer-than-traditional.md) [+W]
-- [IVR serious games improve spatial knowledge for evacuation relative to safety cards, with body orientation moderating learning](../claims/ivr-sgs-spatial-knowledge-evacuation.md) [+W]
+- [A review reports that IVR serious-game training gave better airplane-evacuation spatial knowledge than safety cards in one study, and that in a separate spacecraft-evacuation study the body orientation used in training shaped which spatial skills were learned](../claims/ivr-sgs-spatial-knowledge-evacuation.md) [+W]
 
 ## Related Principles
 - [Simulations & Immersive Virtual Environments](simulations-immersive-virtual-environments.md) — simulations overlap with game-based learning when the experience models a system learners must navigate.

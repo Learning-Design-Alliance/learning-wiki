@@ -50,7 +50,7 @@ Mixed ANOVA of YSSQ scores for the 38 elementary children in Study 1. The total 
 - [Social Supports](../learner-variables/social-supports.md) — outcome: instruction changes it
 
 ## Related Claims
-- [Emotion regulation, utilization of social resources, and objective social support were not improved by any pedagogy, and Lego showed no advantage over other approaches in middle school children](sce-interventions-null-domains-and-limits.md) — reports the opposite
+- [Emotion regulation, utilization of social resources and objective social support showed no significant improvement under any pedagogy, and Lego did not differ significantly from other approaches, in middle school children](sce-interventions-null-domains-and-limits.md) — reports the opposite
 - [VR-assisted and Lego social competence education both increased rural elementary children's social competence over eight sessions (Study 1), with no significant difference between the two approaches](vr-and-lego-sce-increase-elementary-social-competence.md) — related
 - [VR-assisted SCE increased middle school children's subjective sense of social support significantly more than traditional classroom learning (Study 2)](vr-beats-traditional-classroom-subjective-social-support.md) — related
 - [In middle school children, VR-assisted SCE produced significantly greater gains than traditional classroom learning in general social competence and nonverbal sending skills (Study 2)](vr-beats-traditional-classroom-social-competence-middle-school.md) — related

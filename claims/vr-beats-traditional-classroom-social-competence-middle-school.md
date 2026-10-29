@@ -9,6 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: moderate
 newest_evidence: 2023
+source_checked: 2026-10-29
 sources:
   - id: xining-wang-2023
     resource: "https://doi.org/10.1016/j.compedu.2023.104815"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q3` · `i3` large
-> **Currency** · newest study 2023 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2023 · checked against its sources 2026-10-29 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i3` The time-by-group interaction on general social competence was significant (p = .002, ηp² = .240), with social knowledge, verbal conversation skills, and nonverbal sending skills also showing significant interactions. [→ Xining Wang 2023](#xining-wang-2023)
@@ -56,7 +57,7 @@ Xining Wang, Gareth W. Young, Adéla Plechatá, Conor Mc Guckin, Guido Makransky
 
 `q3 · i?` · `causal · r2`
 
-Post hoc Bonferroni-adjusted Tukey comparisons in Study 2 found "the VR group improved significantly more than the TC group in general social competence (p = .005)"; the VR group also exceeded the TC group in nonverbal sending skills (p = .048).
+Post hoc comparisons in Study 2 (reported in the results as Tukey tests; the methods name a post hoc Bonferroni test) found "the VR group improved significantly more than the TC group in general social competence (p = .005)"; the VR group also exceeded the TC group in nonverbal sending skills (p = .048), whose time-by-group interaction was p = .003.
 
 > "The Post hoc Tukey test results showed that the VR group improved significantly more than the TC group in general social competence (p = .005)."
 
@@ -67,7 +68,7 @@ Post hoc Bonferroni-adjusted Tukey comparisons in Study 2 found "the VR group im
 - [Social Awareness and Relationship Skills](../learner-variables/social-awareness-and-relationship-skills.md) — outcome: instruction changes it
 
 ## Related Claims
-- [Emotion regulation, utilization of social resources, and objective social support were not improved by any pedagogy, and Lego showed no advantage over other approaches in middle school children](sce-interventions-null-domains-and-limits.md) — related
+- [Emotion regulation, utilization of social resources and objective social support showed no significant improvement under any pedagogy, and Lego did not differ significantly from other approaches, in middle school children](sce-interventions-null-domains-and-limits.md) — related
 - [VR-assisted and Lego social competence education both increased rural elementary children's social competence over eight sessions (Study 1), with no significant difference between the two approaches](vr-and-lego-sce-increase-elementary-social-competence.md) — related
 - [VR-assisted SCE increased middle school children's subjective sense of social support significantly more than traditional classroom learning (Study 2)](vr-beats-traditional-classroom-subjective-social-support.md) — related
 - [Both VR and Lego social competence education increased rural elementary children's perceived social support across all three YSSQ domains (Study 1)](vr-and-lego-sce-increase-elementary-social-support.md) — related

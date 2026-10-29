@@ -357,7 +357,7 @@ Success inside the simulation, immediate performance outside it, delayed retenti
 - [HMDs and camera-based systems are the most prevalent ILE technologies for psychomotor training](../claims/ile-psychomotor-technology-trends-hmd-cameras.md) [+W]
 - [VR can replicate fieldwork in the physical sciences but loses embodied presence in Geography, and Geography teachers need discipline-specific capabilities in GIS, remote sensing and UAVs](../claims/geography-vr-fieldwork-limits.md) [~W]
 - [IVR serious games produce better evacuation knowledge retention and transfer than traditional training approaches](../claims/ivr-sgs-better-knowledge-retention-transfer-than-traditional.md) [+W]
-- [IVR serious games improve spatial knowledge for evacuation relative to safety cards, with body orientation moderating learning](../claims/ivr-sgs-spatial-knowledge-evacuation.md) [+W]
+- [A review reports that IVR serious-game training gave better airplane-evacuation spatial knowledge than safety cards in one study, and that in a separate spacecraft-evacuation study the body orientation used in training shaped which spatial skills were learned](../claims/ivr-sgs-spatial-knowledge-evacuation.md) [+W]
 - [Motion sickness remains a disagreeable side effect of IVR serious games for a minority of participants](../claims/ivr-sgs-motion-sickness-side-effect.md) [~W]
 
 ## Related Principles

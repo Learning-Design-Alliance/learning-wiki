@@ -17,7 +17,7 @@ sources:
 # Floreo VR and Google Arts & Culture platforms used as the VR social competence education materials
 
 > **Design** · [All designs](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 4 claims (3 for, 1 mixed) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 The intervention combined two VR applications across eight sessions. Floreo VR "teaches children social, behavioral, communication, and life skills through a range of simulations concerning children's daily life scenarios", delivered via Cardboard VR with instructor guidance; the research team selected only inclusive-learning modules since some are designed for children with autism spectrum disorder. Sessions 5–8 used Google Arts & Culture with Meta Quest 2 and Tablet VR for 360-degree videos, virtual museum tours, and cooperative games.
@@ -41,7 +41,7 @@ The intervention combined two VR applications across eight sessions. Floreo VR "
 - [Vr And Lego Sce Increase Elementary Social Competence](../claims/vr-and-lego-sce-increase-elementary-social-competence.md) [+M]
 - [Both VR and Lego social competence education increased rural elementary children's perceived social support across all three YSSQ domains (Study 1)](../claims/vr-and-lego-sce-increase-elementary-social-support.md) [+W]
 - [In middle school children, VR-assisted SCE produced significantly greater gains than traditional classroom learning in general social competence and nonverbal sending skills (Study 2)](../claims/vr-beats-traditional-classroom-social-competence-middle-school.md) [+W]
-- [Emotion regulation, utilization of social resources, and objective social support were not improved by any pedagogy, and Lego showed no advantage over other approaches in middle school children](../claims/sce-interventions-null-domains-and-limits.md) [+W]
+- [Emotion regulation, utilization of social resources and objective social support showed no significant improvement under any pedagogy, and Lego did not differ significantly from other approaches, in middle school children](../claims/sce-interventions-null-domains-and-limits.md) [~W]
 
 ## Related Designs
 - 

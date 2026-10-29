@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Emotion regulation, utilization of social resources, and objective social support were not improved by any pedagogy, and Lego showed no advantage over other approaches in middle school children
-description: Emotion regulation, utilization of social resources, and objective social support were not improved by any pedagogy, and Lego showed no advantage over other approaches in middle school children
+title: Emotion regulation, utilization of social resources and objective social support showed no significant improvement under any pedagogy, and Lego did not differ significantly from other approaches, in middle school children
+description: Emotion regulation, utilization of social resources and objective social support showed no significant improvement under any pedagogy, and Lego did not differ significantly from other approaches, in middle school children
 id: sce-interventions-null-domains-and-limits
 status: review
 generated:
@@ -9,6 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: weak
 newest_evidence: 2023
+source_checked: 2026-10-29
 sources:
   - id: xining-wang-2023
     resource: "https://doi.org/10.1016/j.compedu.2023.104815"
@@ -28,15 +29,15 @@ sources:
     rigour: 2
 ---
 
-# Emotion regulation, utilization of social resources, and objective social support were not improved by any pedagogy, and Lego showed no advantage over other approaches in middle school children
+# Emotion regulation, utilization of social resources and objective social support showed no significant improvement under any pedagogy, and Lego did not differ significantly from other approaches, in middle school children
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
-> **Currency** · newest study 2023 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2023 · checked against its sources 2026-10-29 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In Study 1, nonverbal sending skills and emotion regulation did not improve significantly; in Study 2, emotion regulation again showed no improvement. [→ Xining Wang 2023](#xining-wang-2023)
-`q3 i?` In Study 2, utilization of social resources and objective social support were not improved by any of the three pedagogies, and Lego exhibited no significant differences from other groups. [→ Xining Wang 2023 (2)](#xining-wang-2023-2)
+`q3 i?` In Study 2, neither utilization of social resources (time effect p = .275) nor objective social support (p = .033, above the Bonferroni threshold of .017) improved significantly under any of the three pedagogies, which with 50 children does not show they had no effect; Lego did not differ significantly from the other groups, which the authors attribute possibly to the small sample. [→ Xining Wang 2023 (2)](#xining-wang-2023-2)
 
 ## Evidence
 
@@ -56,7 +57,7 @@ Xining Wang, Gareth W. Young, Adéla Plechatá, Conor Mc Guckin, Guido Makransky
 
 `q3 · i?` · `causal · r2`
 
-Study 2 YSSQ results: utilization of social resources time effect p = .275; the authors state existing family and school support is unlikely to change without environmental change, and short-term SCE teaching cannot greatly raise perceived social support for left-behind youth.
+Study 2 YSSQ results (50 children; Bonferroni α = .017): utilization of social resources time effect p = .275; objective social support rose numerically in all three groups, p = .033, significant only before correction, which the authors describe as "close to having a positive influence". The authors state existing family and school support is unlikely to change without environmental change, and short-term SCE teaching cannot greatly raise perceived social support for left-behind youth.
 
 > "Nevertheless, children's utilization of social resources and objective social support were not improved by any of the pedagogies in Study 2."
 

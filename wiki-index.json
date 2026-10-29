@@ -6731,6 +6731,7 @@
 "id":"adaptation-balances-outcome-variance-across-learners",
 "newest_evidence":"2023",
 "path":"claims/adaptation-balances-outcome-variance-across-learners.md",
+"source_checked":"2026-10-29",
 "status":"review",
 "title":"Difficulty adaptation significantly reduced the variance of task correctness and perceived difficulty across learners",
 "type":"claim"
@@ -106851,6 +106852,7 @@
 "id":"expert-inter-rater-agreement-high-written-exam",
 "newest_evidence":"2013",
 "path":"claims/expert-inter-rater-agreement-high-written-exam.md",
+"source_checked":"2026-10-29",
 "status":"review",
 "title":"Expert graders show high agreement among themselves when scoring a written exam on first degree equations",
 "type":"claim"
@@ -163209,13 +163211,14 @@
 "type":"claim"
 },
 {
-"description":"IVR serious games improve spatial knowledge for evacuation relative to safety cards, with body orientation moderating learning",
+"description":"A review reports that IVR serious-game training gave better airplane-evacuation spatial knowledge than safety cards in one study, and that in a separate spacecraft-evacuation study the body orientation used in training shaped which spatial skills were learned",
 "evidence_strength":"moderate",
 "id":"ivr-sgs-spatial-knowledge-evacuation",
 "newest_evidence":"2018",
 "path":"claims/ivr-sgs-spatial-knowledge-evacuation.md",
+"source_checked":"2026-10-29",
 "status":"review",
-"title":"IVR serious games improve spatial knowledge for evacuation relative to safety cards, with body orientation moderating learning",
+"title":"A review reports that IVR serious-game training gave better airplane-evacuation spatial knowledge than safety cards in one study, and that in a separate spacecraft-evacuation study the body orientation used in training shaped which spatial skills were learned",
 "type":"claim"
 },
 {
@@ -274309,13 +274312,14 @@
 "type":"claim"
 },
 {
-"description":"Emotion regulation, utilization of social resources, and objective social support were not improved by any pedagogy, and Lego showed no advantage over other approaches in middle school children",
+"description":"Emotion regulation, utilization of social resources and objective social support showed no significant improvement under any pedagogy, and Lego did not differ significantly from other approaches, in middle school children",
 "evidence_strength":"weak",
 "id":"sce-interventions-null-domains-and-limits",
 "newest_evidence":"2023",
 "path":"claims/sce-interventions-null-domains-and-limits.md",
+"source_checked":"2026-10-29",
 "status":"review",
-"title":"Emotion regulation, utilization of social resources, and objective social support were not improved by any pedagogy, and Lego showed no advantage over other approaches in middle school children",
+"title":"Emotion regulation, utilization of social resources and objective social support showed no significant improvement under any pedagogy, and Lego did not differ significantly from other approaches, in middle school children",
 "type":"claim"
 },
 {
@@ -296793,13 +296797,14 @@
 "type":"claim"
 },
 {
-"description":"Adolescents on a split sleep schedule remember more educationally realistic factual material learned in the afternoon than peers with equal total sleep in continuous nocturnal sleep",
+"description":"Adolescents on a split sleep schedule remember more educationally realistic factual material learned in the afternoon than peers given the same total sleep opportunity as continuous nocturnal sleep",
 "evidence_strength":"moderate",
 "id":"split-sleep-afternoon-factual-memory",
 "newest_evidence":"2019",
 "path":"claims/split-sleep-afternoon-factual-memory.md",
+"source_checked":"2026-10-29",
 "status":"review",
-"title":"Adolescents on a split sleep schedule remember more educationally realistic factual material learned in the afternoon than peers with equal total sleep in continuous nocturnal sleep",
+"title":"Adolescents on a split sleep schedule remember more educationally realistic factual material learned in the afternoon than peers given the same total sleep opportunity as continuous nocturnal sleep",
 "type":"claim"
 },
 {
@@ -343135,6 +343140,7 @@
 "id":"vr-and-lego-sce-increase-elementary-social-competence",
 "newest_evidence":"2023",
 "path":"claims/vr-and-lego-sce-increase-elementary-social-competence.md",
+"source_checked":"2026-10-29",
 "status":"review",
 "title":"VR-assisted and Lego social competence education both increased rural elementary children's social competence over eight sessions (Study 1), with no significant difference between the two approaches",
 "type":"claim"
@@ -343206,6 +343212,7 @@
 "id":"vr-beats-traditional-classroom-social-competence-middle-school",
 "newest_evidence":"2023",
 "path":"claims/vr-beats-traditional-classroom-social-competence-middle-school.md",
+"source_checked":"2026-10-29",
 "status":"review",
 "title":"In middle school children, VR-assisted SCE produced significantly greater gains than traditional classroom learning in general social competence and nonverbal sending skills (Study 2)",
 "type":"claim"

@@ -50,4 +50,4 @@ Study 2 YSSQ mixed ANOVA found the time-by-group interaction for subjective sens
 ## Related Claims
 - [Both VR and Lego social competence education increased rural elementary children's perceived social support across all three YSSQ domains (Study 1)](vr-and-lego-sce-increase-elementary-social-support.md) — related
 - [In middle school children, VR-assisted SCE produced significantly greater gains than traditional classroom learning in general social competence and nonverbal sending skills (Study 2)](vr-beats-traditional-classroom-social-competence-middle-school.md) — related
-- [Emotion regulation, utilization of social resources, and objective social support were not improved by any pedagogy, and Lego showed no advantage over other approaches in middle school children](sce-interventions-null-domains-and-limits.md) — related
+- [Emotion regulation, utilization of social resources and objective social support showed no significant improvement under any pedagogy, and Lego did not differ significantly from other approaches, in middle school children](sce-interventions-null-domains-and-limits.md) — related

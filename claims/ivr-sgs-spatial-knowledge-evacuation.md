@@ -1,7 +1,7 @@
 ---
 type: claim
-title: IVR serious games improve spatial knowledge for evacuation relative to safety cards, with body orientation moderating learning
-description: IVR serious games improve spatial knowledge for evacuation relative to safety cards, with body orientation moderating learning
+title: A review reports that IVR serious-game training gave better airplane-evacuation spatial knowledge than safety cards in one study, and that in a separate spacecraft-evacuation study the body orientation used in training shaped which spatial skills were learned
+description: A review reports that IVR serious-game training gave better airplane-evacuation spatial knowledge than safety cards in one study, and that in a separate spacecraft-evacuation study the body orientation used in training shaped which spatial skills were learned
 id: ivr-sgs-spatial-knowledge-evacuation
 status: review
 generated:
@@ -9,6 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: moderate
 newest_evidence: 2018
+source_checked: 2026-10-29
 sources:
   - id: zhenan-feng-2018
     resource: "https://doi.org/10.1016/j.compedu.2018.09.002"
@@ -28,15 +29,15 @@ sources:
     rigour: 2
 ---
 
-# IVR serious games improve spatial knowledge for evacuation relative to safety cards, with body orientation moderating learning
+# A review reports that IVR serious-game training gave better airplane-evacuation spatial knowledge than safety cards in one study, and that in a separate spacecraft-evacuation study the body orientation used in training shaped which spatial skills were learned
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q2`
-> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2018 · checked against its sources 2026-10-29 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
-`q2 i?` Participants trained by IVR SG obtained better spatial knowledge for airplane evacuation than those trained by safety cards. [→ Zhenan Feng 2018](#zhenan-feng-2018)
-`q2 i?` Local training enabled landmark and route learning while station training improved sense of direction and low-visibility performance. [→ Zhenan Feng 2018 (2)](#zhenan-feng-2018-2)
+`q2 i?` In airplane-evacuation training (Burigat & Chittaro, 2016, as the review reports it), participants trained by an IVR SG obtained better spatial knowledge than those trained by safety cards. [→ Zhenan Feng 2018](#zhenan-feng-2018)
+`q2 i?` In a separate spacecraft-evacuation study (Aoki et al., 2007), the body orientation used during IVR training shaped what was learned: local training enabled landmark and route learning, while station training improved sense of direction and low-visibility performance. It made no comparison with safety cards. [→ Zhenan Feng 2018 (2)](#zhenan-feng-2018-2)
 
 ## Evidence
 

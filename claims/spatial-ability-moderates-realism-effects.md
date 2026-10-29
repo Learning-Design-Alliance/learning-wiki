@@ -55,5 +55,5 @@ Narrative review attributing this to Brucker et al. (2014), who compared dynamic
 - [Test type determines realism benefits: realistic detail aids retention as retrieval cues, schematic visuals aid transfer](test-type-moderates-realism-benefits.md) — related
 - [Schematic visual games show larger learning effects than realistic games, which show no significant benefit over nongame conditions](schematic-visuals-outperform-realistic.md) — related
 - [Dynamic visualizations benefit vocational-school students with lower visual-spatial ability more than those with higher visual-spatial ability](dynamic-visualizations-compensate-low-visual-spatial-ability-vs-students.md) — related
-- [IVR serious games improve spatial knowledge for evacuation relative to safety cards, with body orientation moderating learning](ivr-sgs-spatial-knowledge-evacuation.md) — related
+- [A review reports that IVR serious-game training gave better airplane-evacuation spatial knowledge than safety cards in one study, and that in a separate spacecraft-evacuation study the body orientation used in training shaped which spatial skills were learned](ivr-sgs-spatial-knowledge-evacuation.md) — related
 - [IVR serious games validate evacuation facility designs, with participants preferring green and white flashing exit-portal lights](ivr-sgs-evacuation-facility-validation.md) — related

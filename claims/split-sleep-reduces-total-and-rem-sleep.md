@@ -49,5 +49,5 @@ Polysomnography averaged over two recorded nights (SR21, SR23) of the second res
 
 ## Related Claims
 - [Splitting sleep with an afternoon nap does not impair morning learning in sleep-restricted adolescents despite reduced nocturnal sleep](split-sleep-no-morning-learning-cost.md) — related
-- [Adolescents on a split sleep schedule remember more educationally realistic factual material learned in the afternoon than peers with equal total sleep in continuous nocturnal sleep](split-sleep-afternoon-factual-memory.md) — related
+- [Adolescents on a split sleep schedule remember more educationally realistic factual material learned in the afternoon than peers given the same total sleep opportunity as continuous nocturnal sleep](split-sleep-afternoon-factual-memory.md) — related
 - [Under restricted sleep, adolescents on a split sleep schedule show better late-afternoon encoding of pictures than adolescents with the same total sleep opportunity in continuous nocturnal sleep](split-sleep-afternoon-encoding-advantage.md) — related
