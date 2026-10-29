@@ -9,6 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: weak
 newest_evidence: 2023
+source_checked: 2026-10-29
 sources:
   - id: gherghel-2023
     resource: "https://doi.org/10.1016/j.compedu.2023.104795"
@@ -24,10 +25,10 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · checked against its sources 2026-10-29 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
-`q2 i?` Correlational analyses showed opportunities for social interaction were associated with emotional and behavioral engagement in both years, and with self-directed study time only in 2021 (r = .111). [→ Gherghel 2023](#gherghel-2023)
+`q2 i?` Correlational analyses showed opportunities for social interaction were associated with emotional and behavioral engagement in both years, and with self-directed study time significantly only in 2021 (r = .111, p < .05; 2020 r = .053, not significant). [→ Gherghel 2023](#gherghel-2023)
 
 ## Evidence
 
@@ -37,7 +38,7 @@ Gherghel, C., Yasuda, S., & Kita, Y. (2023). Interaction during online classes f
 
 `q2 · i?` · `associational · r2`
 
-Bivariate correlations from Table 1 (2020 below diagonal, 2021 above). The interaction–self-directed-study correlation was .111* in 2020 and .303*** in 2021; the article's text notes the association with self-directed study time held "although only in 2021". Correlations are descriptive; no standardized effect size beyond r is printed.
+Bivariate correlations from Table 1 (2020 below diagonal, 2021 above), from self-reports of first-year students at one Japanese university. Opportunities for social interaction correlated with emotional engagement (r = .349*** in 2020, .303*** in 2021) and behavioral engagement (.189***, .183***). The interaction–self-directed-study correlation was .053 (not significant) in 2020 and .111* in 2021; the article's text notes the association with self-directed study time held "although only in 2021". Correlations are descriptive; no standardized effect size beyond r is printed.
 
 > "the results of correlational analyses showed that more opportunities for social interaction during class were associated with more emotional and behavioral engagement, and with more self-directed study time (although only in 2021)"
 

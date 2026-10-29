@@ -29,4 +29,4 @@ The article proposes using structured trace information, analogous to on-line re
 -
 
 ## Key Sources
-- Adesina, A., Stone, R., Batmaz, F., & Jones, I. (2014). Touch Arithmetic: A process‐based Computer‐Aided Assessment approach for capture of problem solving steps in the context of elementary mathematics.
+- Adesina, A., Stone, R., Batmaz, F., & Jones, I. (2014). Touch Arithmetic: A process‐based Computer‐Aided Assessment approach for capture of problem solving steps in the context of elementary mathematics. https://doi.org/10.1016/j.compedu.2014.06.015

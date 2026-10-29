@@ -30,4 +30,4 @@ A Cukurova et al. learning-technology system combining pluggable Arduino-compati
 - [mBot with mBlock](mbot-with-mblock.md)
 
 ## Key Sources
-- Cukurova, M., Luckin, R., Millán, E., & Mavrikis, M. (2017). The NISPI framework: Analysing collaborative problem-solving from students' physical interactions. Preprint submitted to Computers and Education. https://doi.org/10.1016/j.compedu.2018.03.004
+- Cukurova, M., Luckin, R., Millán, E., & Mavrikis, M. (2017). The NISPI framework: Analysing collaborative problem-solving from students' physical interactions. Preprint submitted to Computers and Education. https://doi.org/10.1016/j.compedu.2017.08.007

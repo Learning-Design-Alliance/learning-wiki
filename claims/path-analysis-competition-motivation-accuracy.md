@@ -9,6 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: weak
 newest_evidence: 2015
+source_checked: 2026-10-29
 sources:
   - id: nergiz-ercil-cagiltay-2015
     resource: "https://doi.org/10.1016/j.compedu.2015.04.001"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
-> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2015 · checked against its sources 2026-10-29 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Competition was positively related to motivation, and motivation was positively associated with accuracy in the game, but not with response time. [→ Nergiz Ercil Cagiltay 2015](#nergiz-ercil-cagiltay-2015)

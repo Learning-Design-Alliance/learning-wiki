@@ -447,3 +447,37 @@ body[data-md-color-primary="custom"] {
     display: block;
   }
 }
+
+/* ---------- Search (Pagefind UI) ---------- */
+/* Pagefind's UI ships light colours of its own (#393939 text on #ffffff, its own blue),
+ * which on the navy ground left result titles, excerpts and the filter list unreadable and
+ * the checkboxes glaring white. Its colours are custom properties on .pagefind-ui, so they
+ * are set from the theme's tokens here, for both schemes. */
+[data-md-color-scheme] .pagefind-ui {
+  --pagefind-ui-primary: var(--md-typeset-a-color);
+  --pagefind-ui-text: var(--md-default-fg-color);
+  --pagefind-ui-background: var(--md-default-bg-color);
+  --pagefind-ui-border: var(--lda-rule, var(--md-default-fg-color--lightest));
+  --pagefind-ui-tag: var(--md-default-fg-color--lightest);
+}
+[data-md-color-scheme] .pagefind-ui__result-excerpt,
+[data-md-color-scheme] .pagefind-ui__message {
+  color: var(--md-default-fg-color--light);
+}
+[data-md-color-scheme] .pagefind-ui mark {
+  background: var(--md-accent-fg-color--transparent);
+  color: var(--md-default-fg-color);
+  outline: 1px solid var(--md-typeset-a-color);
+  border-radius: 2px;
+}
+[data-md-color-scheme] .pagefind-ui__filter-checkbox {
+  accent-color: var(--md-typeset-a-color);
+}
+/* The Main pages list: its kind labels and the two headings were Material's faintest grey. */
+#main-pages,
+#main-pages strong {
+  color: var(--md-default-fg-color);
+}
+#main-pages small {
+  color: var(--md-default-fg-color--light);
+}
