@@ -9,7 +9,6 @@ generated:
   at: 2026-10-23
 evidence_strength: moderate
 newest_evidence: 2021
-source_checked: 2026-10-23
 sources:
   - id: mouratidis-2021
     resource: "https://doi.org/10.1016/j.learninstruc.2020.101433"
@@ -25,7 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
-> **Currency** · newest study 2021 · checked against its sources 2026-10-23 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In the full polynomial model, both the linear and quadratic terms of autonomous motivation positively and significantly predicted grades, indicating an accelerating rate of increase. [→ Mouratidis 2021](#mouratidis-2021)

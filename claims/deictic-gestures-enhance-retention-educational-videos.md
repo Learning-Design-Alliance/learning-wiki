@@ -49,3 +49,4 @@ Randomized one-factorial between-participant experiment with 108 university stud
 - [Meaningful pointing gestures produced higher retention scores than beat gestures (review attributes this to Beege et al., 2020)](meaningful-gestures-beat-beat-gestures.md) — possibly the same claim (merge candidate)
 - [Deictic gestures improve transfer performance in Experiment 2 but not in Experiment 1, where no significant transfer effect was found](deictic-gestures-transfer-mixed.md) — related
 - [Gesture type affects reported mental effort, with lower effort for beat gestures in Experiment 1 and for deictic gestures in Experiment 2, but no effect on mental load](gesture-type-mental-effort-effects.md) — related
+- [Frontal addressing in an instructional video enhances parasocial interaction and retention performance](frontal-addressing-enhances-psi-and-retention.md) — related

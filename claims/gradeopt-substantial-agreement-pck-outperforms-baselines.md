@@ -54,3 +54,4 @@ Secondary analysis of agreed-on human codes from 268 U.S. middle school mathemat
 - [In an AI-guided PD program, rural teachers engaged with mathematical creativity, content knowledge, and PCK as interconnected forms of reasoning rather than isolated domains](ai-guided-pd-integrated-mc-ck-pck-engagement.md) — related
 - [AI systems perform poorly at identifying Shulman CK, PCK and GPK categories in line-by-line coding](ai-poor-shulman-coding-accuracy.md) — reports the opposite
 - [GPT-3 classified students' open-ended responses about teaching practices with reliability similar to that of human coders](gpt3-coding-reliability-similar-to-humans.md) — related
+- [Multi-agent LLM parsers achieve near-perfect agreement with human experts when evaluating the reliability of LLM-generated SRL scaffolds](multi-agent-llm-reliability-evaluation-near-perfect-agreement.md) — related

@@ -54,3 +54,4 @@ SPSS moderation regression with standardized ASE, AS, and PU from the survey sam
 - [Perceived school support, AI learning self-efficacy, and AI perceived usefulness each show negative paths to AI learning anxiety](support-and-appraisals-negatively-predict-ai-learning-anxiety.md) — related
 - [Educational cross-sectional studies link stronger AI reliance or dependence scores with lower academic self-efficacy, higher academic stress, and stronger performance expectations](academic-reliance-linked-stress-low-self-efficacy.md) — related
 - [Learners' perceived self-efficacy during learning moderated the effect of prompts on learning outcomes](self-efficacy-moderates-prompt-effect-outcomes.md) — related
+- [Enjoyment inhibits stress during the oral presentation](enjoyment-inhibits-stress.md) — related

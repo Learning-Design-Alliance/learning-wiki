@@ -9,7 +9,7 @@ generated:
   at: 2026-10-21
 evidence_strength: moderate
 newest_evidence: 2023
-source_checked: 2026-10-21
+source_checked: 2026-10-29
 sources:
   - id: anabela-caetano-santos-2023
     resource: "https://doi.org/10.1016/j.edurev.2023.100535"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q3`
-> **Currency** · newest study 2023 · checked against its sources 2026-10-21 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2023 · checked against its sources 2026-10-29 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Across the 91 reviewed studies, higher SECs were mostly associated with higher student engagement and lower disengagement, with similar results for middle, high school and university students from different backgrounds. [→ Anabela Caetano Santos 2023](#anabela-caetano-santos-2023)

@@ -44,7 +44,8 @@ The article recommends that future scaffolding benchmarks and alignment datasets
 - [Students in real-world chatbot deployments exhibit lower scaffolding uptake than benchmarks assume, frequently bypassing the chatbot's pedagogical framing](../claims/real-world-students-bypass-chatbot-scaffolding.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Incorporate pre-delivery LLM-based evaluation approaches into GenAI-powered personalised SRL scaffolding systems to mitigate hallucinations](pre-delivery-llm-evaluation-mitigate-hallucinations.md)
 
 ## Examples
 -

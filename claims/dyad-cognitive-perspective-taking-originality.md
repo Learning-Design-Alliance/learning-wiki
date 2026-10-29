@@ -9,7 +9,7 @@ generated:
   at: 2026-10-23
 evidence_strength: moderate
 newest_evidence: 2026
-source_checked: 2026-10-23
+source_checked: 2026-10-29
 sources:
   - id: bai-2026
     resource: "https://doi.org/10.1016/j.learninstruc.2025.102286"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2026 · checked against its sources 2026-10-23 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-10-29 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Both Listen/understand and Extend/revise were positively associated with dyads' originality, and the associations remained significant in the control model, while none of the social-emotional perspective taking measures showed a significant association. The behaviours were observed, not manipulated, so this does not show that they caused the more original ideas. [→ Bai 2026](#bai-2026)

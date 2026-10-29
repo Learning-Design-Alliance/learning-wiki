@@ -51,3 +51,4 @@ Constructivist grounded-theory analysis of the AI-enabled section, triangulating
 - [Students framed AI as replacement rather than scaffolding in 48 of 49 essays](replacement-frame-near-universal-in-essays.md) — related
 - [Educators redefined AI's educational role from answer provider to learning partner and tutor supporting conceptual understanding](ai-learning-partner-tutor-redefinition.md) — related
 - [Log analysis reveals novel post-acceptance behaviors (slow tab accept, slow accept then modify) that show suggestion acceptance is a multi-step process](novel-post-acceptance-behavioral-metrics.md) — related
+- [Field instructors positioned technology as a presentation aid to be tempered with traditional teaching](field-instructors-technology-as-presentation-aid-tempered.md) — related

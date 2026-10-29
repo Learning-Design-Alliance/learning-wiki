@@ -54,3 +54,4 @@ Small-group hands-on testing during Session 3, in which faculty tried prompts on
 - [AI chatbots provide students detailed feedback, step-by-step homework solutions, and self-quizzing support](chatbot-homework-study-assistance.md) — reports the opposite
 - [AI chatbots support skills development in writing, problem-solving, and group discussion facilitation](chatbot-skills-development.md) — reports the opposite
 - [Teachers who focused on knowledge-building principles showed deeper understanding than those focused on surface procedures or technical aspects](principle-focused-teachers-deeper-understanding.md) — related
+- [Most AI assistance focused on pedagogical strengths, with 79% of instances addressing feedback effectiveness](ai-assistance-focused-on-pedagogical-strengths.md) — related

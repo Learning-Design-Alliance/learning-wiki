@@ -13,7 +13,7 @@ generated:
 # Gender
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 350 claims (207 show a difference, 76 mixed, 67 no difference) · 232 studies (146 associational, 43 causal, 14 quant-synthesis, 11 review, 7 design, 6 theoretical, 5 qualitative), `q1`–`q4` · 42 of 232 report an effect size · 342 claims rest on one study
+> **Evidence** · 351 claims (207 show a difference, 76 mixed, 68 no difference) · 233 studies (146 associational, 44 causal, 14 quant-synthesis, 11 review, 7 design, 6 theoretical, 5 qualitative), `q1`–`q4` · 42 of 233 report an effect size · 343 claims rest on one study
 
 ## How to read this page
 
@@ -389,6 +389,7 @@ Gender is recorded in most education studies, usually as a binary category taken
 - [Solving practical cases influences female students' global satisfaction but not male students', despite similar ratings of that aspect](../claims/practical-cases-influence-female-satisfaction.md) [+M] — an instructional effect differs by group
 - [There is a negative relationship between presential sessions and female students' global valuation of e-learning, but a positive one for male students](../claims/presential-sessions-negative-female-valuation.md) [+M] — an instructional effect differs by group
 - [Tutor contribution is important for female students' global satisfaction but irrelevant for male students](../claims/tutor-contribution-female-satisfaction.md) [+M] — an instructional effect differs by group
+- [Gender showed no significant effect on test outcomes](../claims/gender-no-significant-effect-on-test-outcomes.md) [-M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## The evidence by question
 - *Do girls and boys differ in mathematics and reading achievement, by how much, and where in the distribution?* [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](../claims/pisa-sex-differences-math-small-reading-three-times-larger.md) [+M]

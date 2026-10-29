@@ -9,7 +9,7 @@ generated:
   at: 2026-10-13
 evidence_strength: moderate
 newest_evidence: 2018
-source_checked: 2026-10-20
+source_checked: 2026-10-29
 sources:
   - id: victoria-f-sisk-2018
     resource: "https://doi.org/10.1177/0956797617739704"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3` · `i1` small
-> **Currency** · newest study 2018 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2018 · checked against its sources 2026-10-29 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Across 273 effect sizes and 365,915 students, the average correlation between growth mind-set and academic achievement is r = .10, a weak association. [→ Victoria F. Sisk 2018](#victoria-f-sisk-2018)

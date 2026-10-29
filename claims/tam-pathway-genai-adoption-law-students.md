@@ -70,3 +70,4 @@ Variance-explained and fit indices from the same SEM; R2 values are variance exp
 - [Teachers' attitudes toward GenAI tools significantly predict their behavioural intention to integrate them](attitude-predicts-intention-genai.md) — related
 - [Attitude, facilitating conditions, and social influence correlate most strongly with behavioral intention, while perceived ease of use correlates weakest](at-fc-si-strongest-bi-correlates-peou-weakest.md) — related
 - [Perceived enjoyment of GenAI tools is positively associated with in-service teachers' attitudes, perceived ease of use and behavioural intention in a Dominican Republic survey](enjoyment-predicts-attitude-ease-intention-genai.md) — related
+- [Attitude is the strongest predictor of behavioral intention for new users, while perceived usefulness is strongest for light, medium and heavy users](attitude-predicts-intention-new-users-usefulness-existing-users.md) — related

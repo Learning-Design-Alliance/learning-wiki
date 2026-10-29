@@ -9,7 +9,7 @@ generated:
   at: 2026-10-23
 evidence_strength: moderate
 newest_evidence: 2026
-source_checked: 2026-10-23
+source_checked: 2026-10-29
 sources:
   - id: david-w-putwain-2026
     resource: "https://doi.org/10.1016/j.learninstruc.2026.102365"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q2`
-> **Currency** · newest study 2026 · checked against its sources 2026-10-23 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-10-29 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In classes where students strongly perceived teachers conveying the relevance of science, class-average expectancy and utility value were higher five months later, beyond prior levels, with large effect sizes; the negative relation with effort cost was not statistically significant. [→ David W. Putwain 2026](#david-w-putwain-2026)

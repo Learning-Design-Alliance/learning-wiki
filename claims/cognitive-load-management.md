@@ -105,3 +105,4 @@ Open questions include how to measure load reliably in real classrooms (subjecti
 - [Current cognitive load measures cannot detect overload because the critical level indicating overload is unknown](load-measures-cannot-detect-overload.md) — related
 - [Learner control over pace improves learning while control over pedagogical aspects undermines it, with prior-knowledge and outcome-type moderators](learner-control-pace-versus-pedagogical.md) — related
 - [Segmenting online multimedia lessons into short user-paced segments improves transfer and reduces cognitive load](segmenting-improves-transfer-and-reduces-load.md) — a narrower finding that bears on this claim
+- [Segmentation of instructional videos enhances learning outcomes](segmentation-enhances-video-learning.md) — possibly the same claim (merge candidate)

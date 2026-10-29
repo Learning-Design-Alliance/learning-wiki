@@ -30,6 +30,7 @@ An open-source modular platform developed by Jarosław A. Chudziak and colleague
 ## Related Products and Programmes
 
 - [Math Mysteries](math-mysteries.md)
+- [the tutor-web](the-tutor-web.md)
 
 ## Key Sources
 - Jarosław A. Chudziak and Adam Kostka. (2025). AI-Powered Math Tutoring: Platform for Personalized and Adaptive Education. arXiv preprint. https://arxiv.org/abs/2507.12484

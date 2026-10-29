@@ -59,3 +59,5 @@ Coded behavioural analysis of 63,328 events from the same 119-learner log datase
 - [High-acceptance groups made more effective use of AI feedback during revision, resulting in higher accuracy scores](high-acceptance-groups-effective-ai-feedback-use-higher-accuracy.md) — related
 - [Classified examples are more often correct than generated examples during learning, but feedback does not improve classification](classification-correctness-feedback-null.md) — related
 - [Selecting a suggested option in the scaffold was associated with higher compliance for four out of twenty scaffold options in the generalized condition.](selecting-scaffold-options-associated-higher-compliance.md) — related
+- [Most AI assistance was correct and specific, but most instances lacked justifications](ai-assistance-informativeness-correct-but-lacking-justifications.md) — related
+- [Uptake of AI assistance in peer feedback was low, with just 9% of AI suggestions leading to revisions](low-uptake-ai-assistance-peer-feedback.md) — related

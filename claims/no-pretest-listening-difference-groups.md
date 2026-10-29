@@ -55,3 +55,4 @@ Independent t-test on the 20-question listening pre-test (Table 5 reports t = 0.
 - [Experimental and control groups did not differ significantly on pre-test NOS or SK scores](pretest-equivalence-noss-sks-groups.md) — related
 - [High and low CT groups showed comparable prior coding knowledge before the AICA intervention](comparable-prior-knowledge-high-low-ct.md) — related
 - [Before implementation, treatment students performed significantly below control students on the standardized reading test](core5-treatment-pretest-disadvantage.md) — related
+- [Experimental and control groups differed only in use of instructional videos](experimental-control-groups-differed-only-in-video-use.md) — a narrower finding that bears on this claim

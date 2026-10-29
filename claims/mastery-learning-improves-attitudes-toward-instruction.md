@@ -9,7 +9,7 @@ generated:
   at: 2026-10-13
 evidence_strength: moderate
 newest_evidence: 1990
-source_checked: 2026-10-18
+source_checked: 2026-10-29
 sources:
   - id: kulik-et-al-1990
     resource: "https://doi.org/10.3102/00346543060002265"
@@ -26,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q4` · `i2` medium · n=18 studies
-> **Currency** · newest study 1990 · checked against its sources 2026-10-18 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 1990 · checked against its sources 2026-10-29 (automated, 1 of 1 entry) · not reviewed by a person
 
 Effects of mastery learning programs on student attitudes.
 

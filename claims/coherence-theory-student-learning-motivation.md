@@ -51,3 +51,4 @@ Theoretical argument drawing on research on learning, cognition, and motivation 
 - [Positive teacher–student relationships are associated with greater student engagement and, more weakly, with achievement](teacher-student-relationships-improve-engagement.md) — related
 - [Formative assessment is theorized to foster motivation by supporting autonomy, competence, and relatedness](formative-assessment-fosters-motivation-autonomy-competence-relatedness.md) — related
 - [E-learning material designed on brain-compatible principles has a positive effect on Technical Programming 1 students' achievement and motivation](bce-elearning-positive-effect-achievement-motivation.md) — related
+- [Age coherence between pedagogical agent and learning material fosters learning (study 2)](age-coherence-agent-material-fosters-learning.md) — a narrower finding that bears on this claim

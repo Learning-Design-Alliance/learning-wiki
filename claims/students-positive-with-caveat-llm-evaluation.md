@@ -50,3 +50,4 @@ Questionnaire item on overall impressions of LLM use in education; 42% of respon
 - [Favorable assessments of LLM review workflows frequently coexist with reported unmet reliability or performance requirements](positive-assessments-coexist-with-unmet-reliability-requirements.md) — related
 - [Student reflections identify speed and scaffolding as the dominant theme, with verification burden, overreliance worries, and prompt precision also prevalent](reflection-themes-copilot-comment-workflow.md) — related
 - [High-achieving students describe selective AI use for clarification, summarisation, and workflow support while verifying outputs and keeping them subordinate to their own judgment](qualitative-selective-verification-intensive-use.md) — related
+- [80% of technology comments were evaluative and almost all were positive](technology-comments-evaluative-and-mostly-positive.md) — related

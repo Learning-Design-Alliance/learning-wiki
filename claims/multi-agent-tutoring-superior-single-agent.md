@@ -52,3 +52,4 @@ The review attributes this comparative conclusion to Gupta and Heggond's (2026) 
 - [The RHSI condition ordering is robust across a 20-cell window-size and demand-floor grid, with EO strictly worst in all cells, though ST–MAS ordering reverses at demand floors ≥0.45](rhsi-ordering-parameter-robustness.md) — related
 - [KERMIT observes students' actions and adapts to their knowledge and learning abilities](kermit-adapts-to-student-actions.md) — related
 - [Pairing several children per computer did not lower learning gains despite weaker individualisation](two-children-per-computer-gains-not-lower.md) — related
+- [The adaptive peer-like agent brought the most benefit to children's vocabulary learning and affective engagement compared with fixed-role agents](adaptive-peer-agent-most-benefit.md) — related

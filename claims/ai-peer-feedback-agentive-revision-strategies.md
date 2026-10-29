@@ -75,3 +75,4 @@ Interview and journal data from experimental-group focal students showed critica
 - [AI-peer integrated feedback produces significantly higher posttest affective engagement than conventional peer feedback in EFL writing](ai-peer-feedback-higher-affective-engagement.md) — related
 - [ChatGPT and DeepSeek feedback differed from student to student in technical content, repertoire and address style, providing an individualized approach](genai-feedback-individualized-per-student.md) — related
 - [High-quality revisers corrected one or two lower order aspects at a time, proofread at the end, and went beyond the suggestions provided in the peer feedback](high-quality-revisers-incremental-correction-and-proofreading.md) — related
+- [Less accurate, less complete, or less positively worded AI assistance was more likely to prompt revision, with small-to-medium effect sizes](ai-assistance-characteristics-predict-uptake.md) — related

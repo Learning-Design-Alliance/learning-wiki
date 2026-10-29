@@ -49,3 +49,4 @@ PLS structural model result from the 701-student survey; the article calls the �
 - [Perceived enjoyment significantly positively influences both satisfaction and perceived impact on learning in CSCL](enjoyment-influences-satisfaction-and-impact-cscl.md) — related
 - [Perceived usefulness significantly positively influences satisfaction, perceived impact on learning, and attitude towards CSCL](perceived-usefulness-influences-satisfaction-impact-attitude.md) — related
 - [Students' favourable attitudes towards CSCL significantly positively influence perceived impact on learning and perceived enjoyment](attitude-influences-impact-and-enjoyment-cscl.md) — related
+- [Positive attitude increases satisfaction, and satisfaction increases course recommendation](attitude-satisfaction-recommendation-chain.md) — related

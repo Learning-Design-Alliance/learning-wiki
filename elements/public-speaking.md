@@ -13,7 +13,7 @@ generated:
 # Public Speaking
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Public speaking is the element in which learners present ideas aloud to an audience with attention to clarity, organization, evidence, and delivery. It is useful when learning includes oral communication and rhetorical performance.
@@ -36,7 +36,7 @@ Public speaking is the element in which learners present ideas aloud to an audie
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [More extroverted students perceive less stress during the oral presentation](../claims/extroversion-reduces-stress-oral-presentation.md) [~W]
 
 ## Related Elements
 - [Persuasion](persuasion.md)

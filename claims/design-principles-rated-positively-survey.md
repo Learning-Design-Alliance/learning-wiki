@@ -69,3 +69,4 @@ Same end-of-term survey (176 respondents). The article contrasts the two DP2 sub
 - [Undergraduate learners rated CyberAGENTS positively, with scenario authenticity highest and challenge difficulty alignment lowest](cyberagents-positive-learner-perceptions.md) — related
 - [Students rated the flipped-learning component highest and the GenAI module lower, with GenAI rated stronger for ideation than for time saving or direct output use](genai-rated-for-ideation-not-time-saving.md) — related
 - [Qualitative interviews with 23 students support the survey results, indicating the digital tutor supported students' learning processes](qualitative-interviews-support-learning-support.md) — a narrower finding that bears on this claim
+- [Students report learning from tutor-web quizzes: 53 of 60 surveyed students found last questions easier than first](student-survey-learning-quizzes.md) — related

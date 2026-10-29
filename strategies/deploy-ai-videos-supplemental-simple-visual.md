@@ -39,6 +39,7 @@ Based on student perceptions in this study, the authors conclude that "AI videos
 ## Related Strategies
 
 - [Pre-recorded Instructional Video](pre-recorded_instructional_video.md)
+- [Survey students on preferences before designing instructional videos](survey-student-preferences-before-video-design.md)
 
 ## Examples
 

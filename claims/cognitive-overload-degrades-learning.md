@@ -142,3 +142,4 @@ The founding cognitive load paper. It argues that conventional problem solving b
 - [CLT-based instructional design is applied to very high element interactivity material (per Pollock, Chandler, & Sweller)](clt-design-very-high-element-interactivity.md) — related
 - [Incorporating interacting elements into a diagrammatic schema reduces cognitive load and enhances understanding](diagrammatic-schema-reduces-load-enhances-understanding.md) — a narrower finding that bears on this claim
 - [Understanding depends on the degree of interaction among elements of information](understanding-depends-on-element-interaction.md) — related
+- [Segmentation of instructional videos enhances learning outcomes](segmentation-enhances-video-learning.md) — a narrower finding that bears on this claim

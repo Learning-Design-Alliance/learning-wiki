@@ -50,7 +50,7 @@ sources:
 # Segmenting Principle
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 26 claims (12 for, 14 mixed) · 23 studies (8 review, 6 quant-synthesis, 5 causal, 1 associational, 1 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 6 of 23 report an effect size · 21 claims rest on one study
+> **Evidence** · 27 claims (13 for, 14 mixed) · 24 studies (8 review, 6 causal, 6 quant-synthesis, 1 associational, 1 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 6 of 24 report an effect size · 22 claims rest on one study
 
 ## Conditional relationship
 
@@ -164,6 +164,7 @@ The expectation should weaken if comparisons with comparable learners and materi
 
 - [A tracing strategy combining segmentation and prediction produced more efficient learning than a non-interactive instructional condition](../claims/tracing-strategy-segmentation-prediction-efficiency.md) [+W]
 - [Learner-controlled pacing of a video model was heavily used and associated with better understanding of underlying processes and less practice time, especially as task difficulty increased](../claims/pacing-control-video-model-understanding.md) [+W]
+- [Segmentation of instructional videos enhances learning outcomes](../claims/segmentation-enhances-video-learning.md) [+W]
 
 ## Related Principles
 - [Modality Principle](modality.md)

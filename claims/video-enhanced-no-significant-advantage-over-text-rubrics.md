@@ -49,3 +49,4 @@ In the mixed ANOVA comparing the video-enhanced (n = 51) and text-based (n = 57)
 - [Formative assessment with validated analytic rubrics in the Viewbrics tool produced higher oral presentation performance than conventional rating-scale rubrics in Dutch secondary education](analytic-rubrics-outperform-conventional-rubrics-oral-presentation.md) — related
 - [Before their first presentation, students in the two experimental groups did not differ in anxiety, preparedness, or motivation](experimental-groups-similar-anxiety-preparedness-motivation.md) — related
 - [Oral presentation performance improved significantly over time, but only control-group students showed statistically significant growth between the two presentations](performance-growth-over-time-only-control-significant.md) — related
+- [Experimental and control groups differed only in use of instructional videos](experimental-control-groups-differed-only-in-video-use.md) — related

@@ -2,7 +2,7 @@
 
 Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's.
 
-**2287 entries** · 0 stable · 2287 in review · 0 drafts
+**2291 entries** · 0 stable · 2291 in review · 0 drafts
 
 ---
 
@@ -202,6 +202,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Betty's Brain](bettys-brain.md) - Betty's Brain is a teachable-agent learning environment in which students construct and teach causal models to a virtual agent while developing domain knowledge and self-regulated learning skills.
 * [BFpack](bfpack.md) - BFpack is an R package developed by Mulder and colleagues that provides Bayesian factor hypothesis-testing functions for common statistical models and exploratory or confirmatory tests with equality and order constraints.
 * [BiblioTech platform](bibliotech-platform.md) - A user-centered reading-based educational app developed by Kantorski et al.
+* [Bigger Bits](bigger-bits.md) - Bigger Bits is an interactive multimedia learning environment built with COSMOS to support students learning VLSI through a fictitious electronics-manufacturer context.
 * [BILearn-CS](bilearn-cs.md) - BILearn-CS is an instructor-authored and teaching-assistant-validated benchmark dataset of 600 programming-support queries for evaluating educational responses in introductory programming and data-structures contexts.
 * [Bilingual benchmark of 1107 Chinese-English children's stories with silver developmental references and structured annotations](bilingual-benchmark-of-1107-chinese-english-childrens-stories-with-silver-developmental-re.md) - A bilingual benchmark dataset constructed by Sijing Yin et al.
 * [Bilingual Cooperative Integrated Reading and Composition (BCIRC)](bilingual-cooperative-integrated-reading-and-composition-bcirc.md) - BCIRC is a bilingual adaptation of the Cooperative Integrated Reading and Composition program that organizes Spanish- and English-language reading, writing, vocabulary, and comprehension instruction in cooperative student teams for Spanish-speaking learners.
@@ -409,6 +410,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Corrective Reading](corrective-reading.md) - Corrective Reading is a scripted, structured reading intervention curriculum for upper-elementary struggling readers, focused on phonics, fluency, and comprehension.
 * [Cortex](cortex.md) - Cortex is a proprietary platform developed by Cortex Global that uses handwritten-response recognition and mark-scheme-aligned automated grading to assess complex upper-secondary STEM answers and provide annotated feedback.
 * [CoRubric](corubric.md) - CoRubric is a free online e-rubric tool developed by the study authors for managing peer, self, and teacher assessment with criteria, scores, notes, comments, and exportable results.
+* [COSMOS: Content Oriented Semantic Modelling Overlay Scheme](cosmos-content-oriented-semantic-modelling-overlay-scheme.md) - A multimedia content-modelling framework developed by Angelides et al.
 * [CoTrack](cotrack.md) - CoTrack is a web-based multimodal collaboration analytics tool developed by Reet Kasepalu and colleagues that gives teachers mirrored collaboration data and model-based alerts and guidance for improving group-work quality.
 * [Course-specific MAP Growth Mathematics tests](course-specific-map-growth-mathematics-tests.md) - A suite of NWEA course-specific computerized adaptive interim mathematics assessments for Algebra 1, Geometry, and Algebra 2, aligned to NWEA, Common Core, or state standards and reported on the RIT scale.
 * [CourseBlueprint](courseblueprint.md) - CourseBlueprint is a retrieval-augmented course-blueprint and instructional-video generation pipeline developed by Md Zabirul Islam et al.
@@ -1271,6 +1273,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Michigan's Great Start Readiness Program (GSRP)](michigans-great-start-readiness-program-gsrp.md) - A state-funded preschool programme operated by Michigan for four-year-old children with factors placing them at risk of educational failure, using specified quality standards, staffing requirements, and research-validated curricula.
 * [Microanalytic SRL assessment tool with open-ended and closed-ended questions across the three SRL phases](microanalytic-srl-assessment-tool-with-open-ended-and-closed-ended-questions-across-the-th.md) - A study-developed assessment instrument by Laura Dörrenbächer-Ulrich and colleagues that measures college students’ metacognitive and motivational strategy use before, during, and after a learning task through open- and closed-ended questions.
 * [MicroDYN](microdyn.md) - MicroDYN is Joachim Funke's scalable assessment system using linear structural-equation items to measure learners' exploration, mental-model externalization, and control of dynamic systems.
+* [Microsoft Teams](microsoft-teams.md) - Microsoft Teams is Microsoft's collaboration and communication platform for chat, video conferencing, document sharing, screen sharing, and collaborative work, including educational use.
 * [Milpitas Early Learning Transitions Model](milpitas-early-learning-transitions-model.md) - A Milpitas Unified School District programme funded by the Heising-Simons Foundation to strengthen supports for preschool children and families preparing for elementary school.
 * [Mindfulness: A Practical Guide to Finding Peace in a Frantic World (M-FP)](mindfulness-a-practical-guide-to-finding-peace-in-a-frantic-world-m-fp.md) - An introductory, skills-based mindfulness curriculum developed from mindfulness-based cognitive therapy that sequences four themes across eight sessions and includes daily home practice for general adult learners.
 * [MindMatters school-based mental health promotion programme](mindmatters-school-based-mental-health-promotion-programme.md) - MindMatters is a comprehensive whole-school mental-health and resilience promotion programme originally developed in Australia and implemented in Swiss schools by Radix.
@@ -2113,6 +2116,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [The supplemented Thorndike drawing scale of snow scenes with human figures in action](the-supplemented-thorndike-drawing-scale-of-snow-scenes-with-human-figures-in-action.md) - A norm-referenced rating scale developed by Childs for judging elementary and secondary pupils' snow-scene drawings by comparison with anchored sample drawings and averaged ratings from two judges.
 * [the Toolkit](the-toolkit.md) - The Toolkit is a four-part framework created by its authors to help teachers plan, implement, and evaluate technology-based lessons.
 * [The Triple-Focus Program](the-triple-focus-program.md) - The Triple-Focus Program is a pull-out reading-disability intervention developed by Lovett and colleagues that combines PHAST decoding and comprehension strategy instruction with RAVE-O lexical enrichment.
+* [the tutor-web](the-tutor-web.md) - An open-source, freely accessible AIWBES platform developed for modular university mathematics and statistics instruction through adaptive multiple-choice drilling.
 * [The Writing Road to Reading](the-writing-road-to-reading.md) - Spalding's The Writing Road to Reading is a comprehensive K–6 speech-to-print literacy curriculum developed and provided by Spalding Education International, integrating explicit instruction in phonemic awareness, phonics, spelling, writing, and reading comprehension.
 * [Thermos](thermos.md) - Thermos is a student-facing learning analytics dashboard developed to visualize motivation, engagement, group-work skills, and study progress while offering actionable self-regulation support and connection suggestions.
 * [Thesis Writer](thesis-writer.md) - Thesis Writer is a domain-specific online learning environment with an academic-text editor, developed to support instruction, planning, and genre mastery in thesis and research-article writing.

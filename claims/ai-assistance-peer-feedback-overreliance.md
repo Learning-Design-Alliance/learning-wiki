@@ -61,3 +61,4 @@ The review reports, citing Darvishi et al. (2024), a controlled study in which "
 - [Substituting tasks with generative AI may promote inclusion and free time for more demanding activities, but risks foundational-skill loss and presupposes prior knowledge](ai-substitution-inclusion-and-time-tradeoffs.md) — related
 - [Outcome feedback (mere knowledge of results) impedes learning of complex tasks in the multiple-cue probability learning paradigm](outcome-feedback-impedes-complex-task-learning-mcpl.md) — related
 - [A perspective article warns that students risk overreliance on LMFM outputs and that overuse may impede critical thinking, research skills, and independent problem-solving](lmfm-overreliance-impedes-critical-thinking.md) — related
+- [AI-led assistance in prior work tended to be more descriptive and lacked specific, actionable suggestions compared to peer feedback](ai-led-assistance-more-descriptive-than-peer-feedback.md) — related

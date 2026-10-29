@@ -53,3 +53,5 @@ Study 2 qualitative data: students wrote that "the AI program provides me with c
 - [First-year EAP students prefer a hybrid feedback model combining AI-generated comments with instructor feedback over either source alone](students-prefer-hybrid-ai-instructor-feedback.md) — related
 - [Students found AI feedback helpful and actionable more often than not across a semester of reflective writing](students-find-ai-feedback-helpful-more-often-than-not.md) — related
 - [Feedback source (human tutor vs GPT-4) had no significant effect on ENL students' posttest writing scores](feedback-source-no-posttest-effect-enl.md) — related
+- [Most AI assistance focused on pedagogical strengths, with 79% of instances addressing feedback effectiveness](ai-assistance-focused-on-pedagogical-strengths.md) — related
+- [Students consistently prefer human-generated feedback over AI-generated feedback when they know its origin](students-prefer-human-feedback-over-ai.md) — related

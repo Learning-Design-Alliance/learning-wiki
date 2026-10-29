@@ -71,3 +71,4 @@ Review synthesis of secondary benefit outcomes. The review separately reports th
 - [In second-language teaching for pupils with special educational needs, Pepper was associated with higher participation than digital tablets](pepper-vs-tablets-higher-participation-sen-language.md) — a narrower finding that bears on this claim
 - [RALL studies report learning gains when social robots are used to teach vocabulary, reading skills, speaking skills, grammar, and sign language](rall-learning-gains-five-language-domains.md) — related
 - [Contrary to similar research, an asocial robot produced higher learning gains than a more social robot in a tutoring study](asocial-robot-higher-learning-gains.md) — related
+- [Children's vocabulary acquisition benefited from the robot tutor's instruction and knowledge demonstration](robot-tutor-role-vocabulary-gains.md) — related

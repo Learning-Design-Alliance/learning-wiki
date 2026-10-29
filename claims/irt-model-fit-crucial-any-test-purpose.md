@@ -48,3 +48,4 @@ A stated position from the presentation description, offered as an unargued asse
 ## Related Claims
 - [Existing item fit statistics are derived for linear tests under assumptions of no missing responses and normal ability distributions, leaving adaptive testing contexts understudied](item-fit-statistics-derived-for-linear-tests-only.md) — related
 - [Item parceling at the testlet level substantially improves model fit, allowing partial (Rasch, 2PL) or full (bifactor) recovery of CAT constructs](parceling-testlet-level-recovers-cat-construct.md) — related
+- [Classical IRT models without learning terms do not fit tutor-web drill data; a logistic model with numseen and attempt terms is needed](irt-models-fail-learning-environment-fitted-logistic-model.md) — a narrower finding that bears on this claim

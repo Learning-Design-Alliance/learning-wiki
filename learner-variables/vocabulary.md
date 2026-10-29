@@ -13,7 +13,7 @@ generated:
 # Vocabulary
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 105 claims (74 show a difference, 19 mixed, 12 no difference) · 76 studies (26 associational, 23 causal, 14 quant-synthesis, 8 review, 3 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 19 of 76 report an effect size · 102 claims rest on one study
+> **Evidence** · 106 claims (75 show a difference, 19 mixed, 12 no difference) · 77 studies (26 associational, 24 causal, 14 quant-synthesis, 8 review, 3 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 19 of 77 report an effect size · 103 claims rest on one study
 
 ## Description
 Vocabulary is the store of words a learner understands (receptive vocabulary) and uses (expressive or productive vocabulary), together with the strategies they use to work out unfamiliar words. It is measured with picture-vocabulary tests, in which a learner picks the picture matching a spoken word, with language samples that count the number and variety of words used, and, for older students, with measures of academic language features in writing.
@@ -146,6 +146,7 @@ The page sits within the wiki's broader [reading and language](reading-and-langu
 - [Top SNPs and genes from prior dyslexia and Chinese reading GWAS show significant overlap with the Hong Kong sample's phenotypes, especially Chinese vocabulary breadth](../claims/genetic-overlap-doust-wang-hk-sample.md) [+M] — learners who differ on it differ in outcomes
 - [Transcriptome-wide analyses link genetically predicted expression of DUS3L and HSD3B7 to English literacy phenotypes and SEMA6C to Chinese vocabulary breadth](../claims/twas-dus3l-hsd3b7-sema6c-literacy.md) [+M] — learners who differ on it differ in outcomes
 - [Baseline vocabulary moderates the effect of question-asking practice on science learning, weakening the vocabulary-learning link and equalizing outcomes](../claims/vocabulary-moderates-science-learning-equalizing.md) [~M] — an instructional effect differs with it
+- [Children's vocabulary acquisition benefited from the robot tutor's instruction and knowledge demonstration](../claims/robot-tutor-role-vocabulary-gains.md) [+M] — instruction changes it
 
 ## Measures
 - **Peabody Picture Vocabulary Test, Fifth Edition (PPVT-5)** (Dunn, 2018): receptive vocabulary for learners of all ages (earlier edition: Dunn & Dunn, 2007).

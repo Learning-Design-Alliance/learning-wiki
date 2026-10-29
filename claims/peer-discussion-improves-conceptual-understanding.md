@@ -132,3 +132,4 @@ An open question is how much of the benefit comes from the discussion itself ver
 - [Pre-written prompts increase Justifications and Alternative ideas in children's pair-programming talk and shift the role of Simple questions](prompts-increase-exploratory-talk-elements-pair-programming.md) — a narrower finding that bears on this claim
 - [In a thermodynamics course, pairs working with a tutorial dialogue agent learned about 1.24 standard deviations more than students working alone, with partner and agent support synergistic rather than redundant](agent-plus-partner-synergy-1-24-sd.md) — related
 - [Added cooperation prompts helped disagreeing pairs of children choose together](cooperation-prompts-helped-pairs-agree.md) — related
+- [Students report that distributed pair programming groups completed tasks without meaningful peer discussion](dpp-students-report-no-peer-discussion.md) — reports the opposite

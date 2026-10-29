@@ -14,7 +14,7 @@ grain_size: course
 # AI Tutoring
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 407 claims (183 for, 171 mixed, 53 against) · 278 studies (102 causal, 60 review, 38 design, 28 theoretical, 19 quant-synthesis, 16 associational, 15 qualitative), `q1`–`q4` · 57 of 278 report an effect size · 391 claims rest on one study
+> **Evidence** · 411 claims (184 for, 172 mixed, 55 against) · 281 studies (104 causal, 60 review, 38 design, 28 theoretical, 19 quant-synthesis, 17 associational, 15 qualitative), `q1`–`q4` · 57 of 281 report an effect size · 395 claims rest on one study
 
 ## Description and scope
 
@@ -298,6 +298,7 @@ Claims linked to this pattern that the model above does not use. All were read a
 - [Low self-efficacy students significantly increased their self-efficacy when matched with a low self-efficacy tutee, but mismatched students did not](../claims/se-match-increases-low-se-students.md) [+M] — attached 2026-10-28 from Betty Tärning et al. (2019), which proposed "Design teachable agents to express low self-efficacy"; tests this page's relationship.
 - [Within-domain Socratic GenAI dialogue yields higher self-assessed critical thinking than outside-domain dialogue across all participants](../claims/within-domain-socratic-genai-raises-critical-thinking.md) [+W] — attached 2026-10-29 from Aleksandra Bereznikova et al. (2026), which proposed "Guide conversational GenAI interactions with Socratic reasoning grounded in learners' domain of expertise".
 - [Self-rated critical thinking rose significantly after a within-domain Socratic GenAI dialogue for teachers and undergraduates but not for graduate students (no separate control; order and topic bundled)](../claims/socratic-genai-ct-gains-vary-by-group.md) [~M] — attached 2026-10-29 from Aleksandra Bereznikova et al. (2026), which proposed "Guide conversational GenAI interactions with Socratic reasoning grounded in learners' domain of expertise".
+- [The adaptive peer-like agent brought the most benefit to children's vocabulary learning and affective engagement compared with fixed-role agents](../claims/adaptive-peer-agent-most-benefit.md) [+W] — attached 2026-10-29 from Chen et al. (2020), which proposed "Design educational agents to adaptively switch between tutor and tutee roles based on the student's engagement and learning needs"; tests this page's relationship.
 
 ## Illustrative design instance and observation record
 
@@ -388,6 +389,9 @@ This pattern is scoped to the tutor's moves within tasks and the handoff to peop
 - [Teachers and students expect PAs to scaffold self-regulated learning by providing hints and questions rather than directly giving solutions](../claims/pa-scaffolding-hints-not-solutions.md) [~W]
 - [Teachers and students apply human-to-human communication scripts, using teacher communication as the baseline, when outlining desired PA communication](../claims/human-to-human-scripts-baseline-pa-communication.md) [~W]
 - [Students in the multi-agent environment interacted far more than MOOC students with a Q&A chatbot, and overall scores improved significantly from pre-test to post-test](../claims/multi-agent-vs-mooc-chatbot-engagement-and-pre-post-gain.md) [~W]
+- [Age coherence between pedagogical agent and learning material fosters learning (study 2)](../claims/age-coherence-agent-material-fosters-learning.md) [~W]
+- [AI-led assistance in prior work tended to be more descriptive and lacked specific, actionable suggestions compared to peer feedback](../claims/ai-led-assistance-more-descriptive-than-peer-feedback.md) [-W]
+- [Students consistently prefer human-generated feedback over AI-generated feedback when they know its origin](../claims/students-prefer-human-feedback-over-ai.md) [-W]
 
 ## Examples
 - [ChatGPT as a virtual laboratory assistant in a sociotechnical system](../designs/sts-theory-chatgpt-virtual-laboratory-assistant.md) — ChatGPT answers lab questions beside human TAs, not in their place

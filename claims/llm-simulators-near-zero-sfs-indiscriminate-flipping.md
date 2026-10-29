@@ -9,7 +9,6 @@ generated:
   at: 2026-10-11
 evidence_strength: moderate
 newest_evidence: 2026
-source_checked: 2026-10-21
 recheck_by: 2029
 sources:
   - id: heejin-do-2026
@@ -26,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
-> **Currency** · newest study 2026 · checked against its sources 2026-10-21 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Across seven LLMs (4B–120B), two datasets, and base/reflective prompting, SFS remains close to zero, with targeted feedback producing almost no additional behavioral change beyond contrastive controls. [→ Heejin Do 2026](#heejin-do-2026)

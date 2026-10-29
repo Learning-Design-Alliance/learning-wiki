@@ -9,7 +9,7 @@ generated:
   at: 2026-10-12
 evidence_strength: moderate
 newest_evidence: 2026
-source_checked: 2026-10-20
+source_checked: 2026-10-29
 sources:
   - id: mengjia-liu-2026
     resource: "https://doi.org/10.1016/j.edurev.2026.100795"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3` · `i1` small
-> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-10-29 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i1` A random-effects meta-analysis of 33 studies found a small-to-moderate positive overall effect of emerging technologies on TEFL outcomes (Hedges' g = 0.38, 95% CI [0.26, 0.50], p < 0.001), with substantial heterogeneity (I² = 90.14%). [→ Mengjia Liu 2026](#mengjia-liu-2026)

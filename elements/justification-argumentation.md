@@ -19,7 +19,7 @@ sources:
 # Justification & Argumentation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 8 claims (6 for, 2 mixed) · 12 studies (3 causal, 3 quant-synthesis, 2 review, 2 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 3 of 12 report an effect size · 6 claims rest on one study
+> **Evidence** · 9 claims (6 for, 3 mixed) · 13 studies (3 causal, 3 quant-synthesis, 3 associational, 2 review, 1 qualitative, 1 theoretical), `q2`–`q4` · 3 of 13 report an effect size · 7 claims rest on one study
 
 ## Description
 Justification and argumentation require learners to support a claim with evidence and explicit reasoning, and often to respond to counterarguments and rebuttals. Rather than receiving conclusions, learners must construct, defend, and critique them — making the epistemic work of a discipline (what counts as evidence, what makes reasoning valid) visible and practiced.
@@ -71,6 +71,7 @@ Argumentation improves conceptual understanding and scientific reasoning because
 - [Relationship-focused PD shifts teacher conceptions of rigor and safety in argumentation instruction](../claims/relationship-focused-pd-shifts-teacher-conceptions-of-rigor-and-safety.md) [+M]
 - [Quality of staff-student and staff-parent relationships most strongly defines safe schools, with disadvantaged high-relationship schools feeling safer than advantaged low-relationship schools](../claims/relationship-quality-defines-safe-schools.md) [+W]
 - [Emotional framing intensity is associated with types of talk in argumentation, with low-intensity framing linked to cumulative talk and high-intensity framing to disputational talk](../claims/emotional-framing-linked-to-talk-types.md) [~W]
+- [Most AI assistance was correct and specific, but most instances lacked justifications](../claims/ai-assistance-informativeness-correct-but-lacking-justifications.md) [~W]
 
 ## The evidence by question
 - *Does structured argument with peers improve learners' individual argument and content learning?* [Argumentation Improves Reasoning](../claims/argumentation-improves-reasoning.md) [+S]

@@ -72,3 +72,4 @@ Experiment 2 PSI analyses (N = 121), printed effect size ηp2 = .12 for attentio
 - [Lecturers performing deictic gestures are perceived as more learning-facilitating, credible, and engaging (agent-persona perception, Experiment 2)](deictic-gestures-agent-persona-perception.md) — related
 - [In Experiment 2, deictic gestures also improved parasocial interaction facets beyond attention, including accuracy of persona-relevant information and descriptively higher evaluation](deictic-gestures-psi-accuracy-evaluation.md) — related
 - [Gesture type affects reported mental effort, with lower effort for beat gestures in Experiment 1 and for deictic gestures in Experiment 2, but no effect on mental load](gesture-type-mental-effort-effects.md) — related
+- [Frontal addressing in an instructional video enhances parasocial interaction and retention performance](frontal-addressing-enhances-psi-and-retention.md) — related

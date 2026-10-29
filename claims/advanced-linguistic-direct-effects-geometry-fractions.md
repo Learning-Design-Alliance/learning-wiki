@@ -9,7 +9,7 @@ generated:
   at: 2026-10-23
 evidence_strength: moderate
 newest_evidence: 2025
-source_checked: 2026-10-23
+source_checked: 2026-10-29
 sources:
   - id: kleemans-2025
     resource: "https://doi.org/10.1016/j.learninstruc.2024.102019"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
-> **Currency** · newest study 2025 · checked against its sources 2026-10-23 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-10-29 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Academic vocabulary, verbal reasoning, nonverbal reasoning and working memory, measured in grade 4, had significant direct effects on both sixth-grade geometric and fraction skills over and above arithmetic skills, in a predictive (not causal) mediation model. [→ Kleemans 2025](#kleemans-2025)

@@ -53,3 +53,4 @@ Cross-cultural evaluation applying each site's model to the other three full dat
 - [Pre-test knowledge differed significantly across the three countries, producing a country by test time interaction](pretest-differences-country-time-interaction.md) — related
 - [Pre-test score differences do not explain the cross-cultural differences in effective help-seeking behaviors](pretest-does-not-explain-cultural-differences.md) — related
 - [Micro-optimization models currently transfer poorly across tasks and contexts, and tight fitting to interface or content creates versioning and transferability issues](micro-optimization-transfer-limitations.md) — related
+- [Model 2 prediction accuracy for intervention effectiveness was low (r = .094), indicating significant unexplained variance.](low-accuracy-predicting-intervention-effectiveness.md) — related

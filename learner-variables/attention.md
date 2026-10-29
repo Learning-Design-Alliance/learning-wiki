@@ -13,7 +13,7 @@ generated:
 # Attention
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 142 claims (98 show a difference, 28 mixed, 16 no difference) · 109 studies (33 causal, 27 associational, 21 review, 12 quant-synthesis, 7 qualitative, 6 design, 3 theoretical), `q1`–`q4` · 23 of 109 report an effect size · 137 claims rest on one study
+> **Evidence** · 146 claims (99 show a difference, 29 mixed, 18 no difference) · 111 studies (34 causal, 28 associational, 21 review, 12 quant-synthesis, 7 qualitative, 6 design, 3 theoretical), `q1`–`q4` · 23 of 111 report an effect size · 141 claims rest on one study
 
 ## Description
 How long a learner can sustain focus, and how readily something else takes it. Distinct from [working memory](working-memory.md): attention governs what *reaches* the store, capacity governs what it holds. It converts into segment length, distractor design, and how much a page may hold in one uninterrupted run. The design lever is mostly subtractive — the strongest findings here are about what to remove [-M].
@@ -180,6 +180,10 @@ How long a learner can sustain focus, and how readily something else takes it. D
 - [Playful embodied robot sessions sustained young children's attention well beyond the planned session length, and children voluntarily invited peers into one-on-one play](../claims/robot-extended-attention-voluntary-collaboration.md) [+W] — instruction changes it
 - [Single-brain attention level (individual average attention) does not significantly correlate with academic performance in this sample](../claims/single-brain-attention-level-no-correlation-performance.md) [-W] — learners who differ on it differ in outcomes
 - [Deictic gestures enhance social presence and attention toward the lecturer in both experiments](../claims/deictic-gestures-enhance-social-presence-attention.md) [+M] — instruction changes it
+- [Dynamic movement patterns are associated with better visual attention performance on classroom disruptions than immobile and anchored patterns](../claims/dynamic-movement-better-visual-attention.md) [+M] — instruction changes it
+- [Lecturer visibility has a positive effect on reported attention in weblectures when watching lasts more than 15 minutes](../claims/lecturer-visibility-positive-effect-reported-attention-weblectures-over-15-minutes.md) [~M] — instruction changes it
+- [Lecturer's appeal does not moderate the relation between lecturer visibility and reported attention](../claims/lecturer-appeal-no-moderation-visibility-attention.md) [-M] — instruction changes it
+- [No difference in reported attention between visibility-modes after watching a short weblecture](../claims/no-visibility-effect-reported-attention-short-weblecture.md) [-M] — instruction changes it
 
 ## The evidence by question
 - *Does making material more interesting with details that do not carry the target cost learning?* [Interesting but irrelevant details can impair comprehension and transfer, with effects that vary with the material and the learner](../claims/seductive-details-effect.md) [+S]

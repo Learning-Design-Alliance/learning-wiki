@@ -48,3 +48,4 @@ Descriptive analysis of a 10-item Likert-scale feelings survey (Cronbach α of 0
 - [Teachers' feelings about online teaching during early COVID-19 showed near-zero, insignificant correlations with age and years of teaching experience](feelings-online-teaching-uncorrelated-age-experience.md) — related
 - [During early COVID-19, surveyed K-12 teachers most often used video lectures and reading materials (65.4% each), with 45% describing their approach as learner-centered](k12-online-strategies-tools-covid-survey.md) — related
 - [Six major challenge themes faced by K-12 teachers during early COVID-19 online teaching emerged from thematic analysis](k12-teacher-challenges-covid-online-themes.md) — related
+- [Most teachers agreed they were moderately to more than moderately confident/useful but few were extremely confident/useful](majority-moderate-few-extreme-tpack.md) — related

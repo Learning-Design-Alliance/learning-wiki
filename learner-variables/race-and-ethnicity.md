@@ -13,7 +13,7 @@ generated:
 # Race and Ethnicity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 202 claims (164 show a difference, 28 mixed, 10 no difference) · 152 studies (88 associational, 27 review, 17 causal, 8 theoretical, 7 qualitative, 3 design, 2 quant-synthesis), `q1`–`q3` · 2 of 152 report an effect size · 200 claims rest on one study
+> **Evidence** · 203 claims (165 show a difference, 28 mixed, 10 no difference) · 153 studies (88 associational, 27 review, 18 causal, 8 theoretical, 7 qualitative, 3 design, 2 quant-synthesis), `q1`–`q3` · 2 of 153 report an effect size · 201 claims rest on one study
 
 ## How to read this page
 
@@ -239,6 +239,7 @@ Race and ethnicity are social categories, recorded in most education research fr
 - [Reported Otis score differences between American Indian and native white samples co-varied with blood quantum, but educational-advantage confounds could not be fully eliminated](../claims/otis-scores-indian-white-samples-1921-confounded.md) [~W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [In STEM courses taught by instructors with more fixed mindsets, underrepresented minority students' grade gaps are larger than in growth-mindset instructors' courses](../claims/fixed-mindset-instructors-larger-racial-grade-gaps.md) [+M] — an instructional effect differs by group
 - [Underrepresented minority students in the course showed significantly positive individualized treatment effects from supplemental instruction](../claims/si-urm-subgroup-positive-ite.md) [+M] — an instructional effect differs by group
+- [Race/ethnicity was among the most important predictors of intervention effectiveness, with lower predicted effects for Black/African American students.](../claims/race-ethnicity-predicts-intervention-effectiveness.md) [+M] — an instructional effect differs by group
 
 ## The evidence by question
 - *For whom: does it narrow gaps for underrepresented and low-income students?* [Active learning narrows achievement gaps for disadvantaged and underrepresented students](../claims/active-learning-narrows-achievement-gaps.md) [+S]

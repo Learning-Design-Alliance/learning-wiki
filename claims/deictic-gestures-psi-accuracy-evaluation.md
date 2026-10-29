@@ -48,3 +48,4 @@ Experiment 2 PSI univariate analysis (N = 121), printed effect size ηp2 = .07 f
 - [Lecturers performing deictic gestures are perceived as more learning-facilitating, credible, and engaging (agent-persona perception, Experiment 2)](deictic-gestures-agent-persona-perception.md) — related
 - [Deictic gestures enhance social presence and attention toward the lecturer in both experiments](deictic-gestures-enhance-social-presence-attention.md) — related
 - [CASTLE's cognitive influence hypothesis states that (para-)social processes influence selection, organization, integration, and retrieval of information](parasocial-processes-influence-cognitive-processing.md) — a broader claim this one bears on
+- [Frontal addressing in an instructional video enhances parasocial interaction and retention performance](frontal-addressing-enhances-psi-and-retention.md) — related

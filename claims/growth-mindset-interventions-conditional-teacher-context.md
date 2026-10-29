@@ -86,3 +86,4 @@ The review reports that meta-analyses find benefits concentrated among "economic
 - [In STEM courses taught by instructors with more fixed mindsets, underrepresented minority students' grade gaps are larger than in growth-mindset instructors' courses](fixed-mindset-instructors-larger-racial-grade-gaps.md) — related
 - [Growth mindset beliefs are positively associated with academic achievement in nearly all nations, with stronger associations among structurally disadvantaged students](growth-mindset-achievement-association-global.md) — related
 - [Growth mindsets associate with higher US mathematics scores but slightly lower Chinese mathematics scores (country × mindset interaction)](mindset-math-association-reversed-china-us.md) — related
+- [Prior fixed mindset was not an important predictor of intervention effectiveness despite the intervention reducing fixed mindset.](prior-mindset-not-a-key-moderator.md) — related

@@ -9,7 +9,6 @@ generated:
   at: 2026-10-23
 evidence_strength: moderate
 newest_evidence: 2024
-source_checked: 2026-10-23
 sources:
   - id: hepner-2024
     resource: "https://doi.org/10.1016/j.learninstruc.2024.101922"
@@ -25,7 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2024 · checked against its sources 2026-10-23 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The largest pairwise difference was between no model answers/no instructions and two model answers with instructions (estimated mean difference = -0.15, p = .02); with instructions, two model answers beat one (p = .04). [→ Hepner 2024](#hepner-2024)

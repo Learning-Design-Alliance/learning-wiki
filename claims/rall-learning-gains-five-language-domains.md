@@ -56,3 +56,4 @@ Narrative review of RALL research: the authors discuss "Thirty-three studies" te
 - [RALL studies raise general issues regarding robots' social behavior in learning situations](rall-robot-social-behavior-issues.md) — related
 - [Robot-assisted language learning is a rapidly developing field with increasing implementation of robots as language tutors](rall-field-rapid-development.md) — a broader claim this one bears on
 - [Reported benefits of Pepper centre on motivation and engagement, with social-skill and academic-performance gains reported less frequently](pepper-benefits-motivation-engagement-social-skills.md) — related
+- [Children's vocabulary acquisition benefited from the robot tutor's instruction and knowledge demonstration](robot-tutor-role-vocabulary-gains.md) — a narrower finding that bears on this claim

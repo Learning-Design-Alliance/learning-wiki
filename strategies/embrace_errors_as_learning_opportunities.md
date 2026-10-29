@@ -90,6 +90,7 @@ Errors generate learning when they are *explained*, not merely committed: the be
 - [Misconception-aware contrastive remediation videos triggered by incorrect quiz answers](misconception-aware-contrastive-remediation-videos.md)
 - [Draw on diagnosed errors and misconceptions to inform the teaching of integration and limits](teach-integration-limits-from-diagnosed-misconceptions.md)
 - [Provide explicit comparison of decimals, whole numbers, and fractions with correct and incorrect examples](compare-contrast-rational-number-notations.md)
+- [Remedial strategies using remedial SEMs to correct misconceptions](remedial-sem-misconception-correction.md)
 
 ## Examples
 - **Youcubed (Stanford)** — Jo Boaler's [mathematical mindset lessons](https://www.youcubed.org) include activities built around discussing mistakes and the brain science of error-based learning.

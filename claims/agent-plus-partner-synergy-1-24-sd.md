@@ -50,3 +50,4 @@ The review reports this result from Kumar and colleagues' evaluation of tutorial
 - [Conversational-agent prompts improve student dialogue outcomes at both individual and dyad levels](conversational-agent-prompts-improve-individual-and-dyad-outcomes.md) — related
 - [In math problem solving, a tutor LLM alone significantly improved unassisted test accuracy over no-agent control, while peer-like error agents alone did not reach significance](tutor-alone-significant-peers-alone-not-math.md) — related
 - [Using generative AI as a dialogic partner for brainstorming, feedback, and co-construction can support constructive and interactive learning](ai-dialogic-partner-constructive-interactive-learning.md) — related
+- [A synergistic effect between tutor and tutee roles may explain the peer agent's advantage](tutor-tutee-synergistic-effect.md) — related

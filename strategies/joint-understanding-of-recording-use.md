@@ -46,7 +46,8 @@ The article recommends that implementations of lecture recording 'should therefo
 - [Technical unpredictability of recordings severely frustrated students who valued them, while staff treated technical issues as abstract and eventually solved](../claims/technical-issues-asymmetric-impact-staff-students.md) [~W]
 
 ## Related Strategies
-- 
+
+- [Design course content with sufficient incentive for both lecture attendance and recording viewing](design-content-incentivise-attendance-and-viewing.md)
 
 ## Examples
 -

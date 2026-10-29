@@ -50,3 +50,4 @@ A theoretical analysis in the general discussion estimated the independent-encod
 - [With incidental orienting tasks that focus processing on individual words and give no incentive to form associations, distributed presentations produce better free recall than massed presentations](contextual-spacing-effect-survives-orienting-tasks.md) — related
 - [A rehearsal-based deficient-processing account cannot explain the developmental emergence of the spacing effect](rehearsal-account-inconsistent-with-developmental-spacing-pattern.md) — related
 - [The TTST advantage persists when no further presentations follow the retrieval manipulation, ruling out encoding-effort strategies (Experiment 3)](ttst-advantage-not-encoding-strategy.md) — related
+- [Repeated exposure to the same question shows clear evidence of learning, while many attempts predict lower grades consistent with guessing](repeated-exposure-learning-guessing-at-high-attempts.md) — related
