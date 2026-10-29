@@ -41,7 +41,8 @@ The editorial recommends that CSCL research move past repeatedly demonstrating t
 - [Purely peer groups working purposefully out-of-reach problems did not fully succeed but still made significant progress, internalizable by individual members](../claims/peer-groups-did-not-fully-succeed-out-of-reach-problems.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Design learning tasks for educational technologies with possibilities for embodied collaboration in mind](design-tasks-for-embodied-collaboration.md)
 
 ## Examples
 -

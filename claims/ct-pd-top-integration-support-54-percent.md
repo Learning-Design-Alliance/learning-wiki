@@ -53,3 +53,6 @@ Teacher survey in the five-district collaborative on ongoing support. District l
 - [IPSD piloted its CT competency map in 2019-2020 in schools including a subset of its Title I equity-goal schools, paired with professional development](ipsd-competency-map-pilot-title-i-pd.md) — a narrower finding that bears on this claim
 - [More than 90 percent of teachers reported monetary bonuses and stipends for time spent would be definitely or very motivating for completing another micro-credential](monetary-incentives-motivating-micro-credentials.md) — related
 - [Teachers evaluated the PD moderately positively, and about three-quarters reported actually using what they learned in their mathematics lessons](teacher-evaluation-pd-uptake.md) — related
+- [The MICRO online PD significantly increased teachers' belief that CT can be integrated into other content areas (g = 0.66)](micro-pd-increased-ct-integrability-belief.md) — related
+- [The MICRO online PD significantly increased teachers' confidence that they could integrate computing into their classrooms (g = 0.72)](micro-pd-increased-teacher-integration-confidence.md) — related
+- [After the PD, teachers' explanations of computational thinking shifted toward computer-connected problem-solving and toward CT as a teaching strategy](post-pd-ct-descriptions-shift-to-teaching.md) — related

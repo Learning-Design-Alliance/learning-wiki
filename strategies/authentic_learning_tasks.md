@@ -64,6 +64,7 @@ Authentic tasks support transfer because knowledge encoded in the context of use
 - [Case-Based Learning](case-based-learning.md) — a compressed authentic task built around a documented real situation
 - [Productive Failure](productive-failure.md) — an authentic problem can serve as the initial exploration before instruction
 - [Teach the five steps of scientific investigation through personally motivating video analysis and modeling projects](video-analysis-modeling-sport-science-strategy.md)
+- [Design problem-based, inquiry-based, and case-based learning tasks in which uncertainty is anticipated and supported](design-tasks-anticipating-uncertainty.md)
 
 ## Patterns That Use This Strategy
 - [Anchored Instruction](../patterns/anchored-instruction.md) — realistic narrative scenarios anchor problem solving

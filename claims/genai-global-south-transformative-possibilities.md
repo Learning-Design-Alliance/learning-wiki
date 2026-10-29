@@ -57,3 +57,4 @@ The review's synthesis of 75 papers (2022-2025) on GenAI perceptions in Global S
 - [Reviewed AI literature portrays AI as having transformative capacity to reshape educational methodologies, with a need for balancing guidelines](ai-transformative-capacity-guidelines.md) — a broader claim this one bears on
 - [GenAI can provide personalised feedback in group work, but the depth of personalisation is contested](genai-personalised-feedback-contested-depth.md) — related
 - [GenAI is reshaping assessment practices in computer science education through automation, scalability, and personalized feedback](genai-reshaping-cs-assessment-automation-scalability-feedback.md) — a narrower finding that bears on this claim
+- [AIED offers opportunities for personalized, efficient online teaching but teachers lack readiness to use it](aied-opportunities-teacher-readiness-gap.md) — related

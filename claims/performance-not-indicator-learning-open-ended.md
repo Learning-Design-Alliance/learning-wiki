@@ -70,3 +70,4 @@ Theoretical framing: the article adopts impasse-driven theories of learning (pro
 - [Among 32 dyads in an open-ended collaborative tabletop task, three behavioral clusters split into two learning (gainer) profiles and one non-learning profile despite similar task performance](three-multimodal-collaborative-learning-profiles.md) — possibly the same claim (merge candidate)
 - [Current best learner performance models are severely biased outside the interval containing most of the data, hindering downstream adaptive policies and open learner models](learner-models-miscalibrated-outside-data-interval.md) — related
 - [Retrieval Failure Reduces Benefit](retrieval-failure-reduces-benefit.md) — related
+- [Students predominantly evaluated team success as fast gameplay, equating efficiency and victory with good teamwork despite prior instructions](students-equate-team-success-with-speed.md) — related

@@ -93,3 +93,4 @@ The review reports the Raaijmakers et al. (2018a) follow-up: biology-trained stu
 - [Heuristic task-selection training is not more effective for transfer than algorithmic training](heuristic-not-superior-to-algorithmic-transfer.md) — related
 - [Heuristic and algorithmic training conditions do not differ in posttest problem-solving performance](no-posttest-difference-between-training-conditions.md) — related
 - [Studying instructional and video modeling examples improved heredity problem-solving performance and self-assessment accuracy from pretest to posttest](video-modeling-pretest-posttest-gains.md) — related
+- [The integrated training program did not improve self-assessment accuracy on any of six ATC competences](integrated-training-no-self-assessment-accuracy-gain.md) — related

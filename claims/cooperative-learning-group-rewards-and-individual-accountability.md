@@ -170,3 +170,4 @@ The standard remedy in the cooperative learning literature is **individual accou
 - [Students learning fractions with an AIED system achieved the best outcomes in a condition mixing individual and collaborative work rather than wholly either mode](combined-individual-collaborative-its-best-outcomes.md) — a narrower finding that bears on this claim
 - [Later research reported that students collaborated better and learned more when their collaborative work was monitored](monitoring-improves-collaboration-and-learning.md) — related
 - [Cooperative storytelling tasks outperformed individual tasks across performance, autonomy, anxiety, and emotion measures](cooperative-storytelling-outperformed-individual.md) — a narrower finding that bears on this claim
+- [Game-structured forced collaboration prevented free riding and made continuous information sharing the most important learning outcome](forced-collaboration-prevents-free-riding.md) — related

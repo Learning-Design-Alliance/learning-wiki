@@ -54,3 +54,4 @@ Results for the two open-ended CK items on proportional reasoning, coded with a 
 - [Prior non-LLM automated coding approaches yielded variable and often lower agreement with human coders on teacher knowledge measures, especially PCK](prior-automated-coding-variable-lower-agreement-pck.md) — related
 - [All automated models, including GradeOpt, were most challenged by knowledge of teaching mathematics items (GradeOpt κ = .59) and least challenged by knowledge of students' mathematical thinking (κ = .79)](pck-subdomain-variation-ktm-hardest.md) — related
 - [AI systems perform poorly at identifying Shulman CK, PCK and GPK categories in line-by-line coding](ai-poor-shulman-coding-accuracy.md) — reports the opposite
+- [GPT-3 classified students' open-ended responses about teaching practices with reliability similar to that of human coders](gpt3-coding-reliability-similar-to-humans.md) — related

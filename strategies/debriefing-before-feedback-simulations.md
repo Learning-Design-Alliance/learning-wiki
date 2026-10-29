@@ -47,6 +47,7 @@ The authors recommend including reflective questions after the lesson and before
 
 - [Use the simulated class as low-stakes deliberate practice placed late in teacher preparation, with transcript-based debriefs](simulated-class-deliberate-practice-late-placement.md)
 - [Debriefing](debriefing.md)
+- [Design recommendations for inclusive-pedagogy simulations: nuanced options, emotion-surfacing prompts, structured feedback](simulation-design-recommendations-inclusive-pedagogy.md)
 
 ## Examples
 -

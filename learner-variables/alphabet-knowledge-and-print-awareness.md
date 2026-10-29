@@ -13,7 +13,7 @@ generated:
 # Alphabet Knowledge and Print Awareness
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 64 claims (34 show a difference, 15 mixed, 15 no difference) · 34 studies (20 causal, 6 quant-synthesis, 5 associational, 1 review, 1 qualitative, 1 design), `q1`–`q4` · 22 of 34 report an effect size · 63 claims rest on one study
+> **Evidence** · 66 claims (36 show a difference, 15 mixed, 15 no difference) · 35 studies (21 causal, 6 quant-synthesis, 5 associational, 1 review, 1 qualitative, 1 design), `q1`–`q4` · 23 of 35 report an effect size · 65 claims rest on one study
 
 ## Description
 Alphabet knowledge is knowing the names, written forms and sounds of letters, including letter combinations that represent a single sound. Print awareness is the understanding that print carries meaning and has different functions, and of how it works on the page (that text is read in a set direction, that words are separated by spaces, and so on), something experienced readers forget they had to learn. Both are measured in early childhood: alphabet knowledge by asking children to name and sound out randomly ordered upper- and lower-case letters, print awareness by informal assessments in which a child handles a book.
@@ -104,6 +104,8 @@ Both factors come from the LVN's PK-3 literacy area. They lead into [phonologica
 - [Children improved their numerical and letter-sound knowledge between pre-test and post-test regardless of condition](../claims/numeracy-letter-sound-gains-all-conditions.md) [+M] — instruction changes it
 - [In a pre-registered RCT, neither the forward nor bidirectional number board game (nor the alphabet control) produced a statistically significant condition effect on numerical or letter-sound outcomes in four- to five-year-olds](../claims/number-board-game-no-condition-effect-young-children.md) [-M] — instruction changes it
 - [Children retain trained word-object and letter-sound associations four to six months after the intervention](../claims/long-term-memory-trained-associations-4-6-months.md) [+W] — instruction changes it
+- [Initial letter knowledge predicted final letter knowledge in GraphoGame logs, with play time adding a further 6% of variance](../claims/graphogame-initial-letter-knowledge-predicts-final.md) [+W] — learners who differ on it differ in outcomes
+- [Letter-sound knowledge recorded by GraphoGame correlated significantly with paper-and-pencil spelling (decoding) test scores](../claims/graphogame-letter-sound-correlates-spelling-test.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Concepts About Print (CAP)** (Clay, 2000): informal assessment of print awareness for kindergarten and first-grade children.

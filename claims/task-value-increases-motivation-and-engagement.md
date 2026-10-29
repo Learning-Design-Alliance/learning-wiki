@@ -242,3 +242,4 @@ Intrinsic interest is less reliably shapeable in the short term than utility val
 - [Invested effort and perceived value positively predicted social presence across all topics](perceived-value-predicts-social-presence.md) — related
 - [ICT-enabled learning may change beliefs and perceptions about girls' capacity and ICT's value](ict-changes-beliefs-perceptions-girls.md) — a narrower finding that bears on this claim
 - [High school students perceived interest-driven data exploration activities in a data science curriculum as personally authentic, though not uniformly](interest-driven-datasets-perceived-personally-authentic.md) — a narrower finding that bears on this claim
+- [Tagging skills and completing challenges engaged students in self-assessment and reflection on their skill development](assessmake21-tagging-challenges-engaged-self-assessment.md) — related

@@ -54,3 +54,6 @@ Multimodal analysis of 108 episodes of video from three groups of in-service tea
 - [Gestures and bodily actions lighten cognitive load and extend mathematical ideas across group members during collaboration](gestures-material-scaffolding-collaboration.md) — related
 - [Microanalysis shows on-task and off-task participation is multilayered, with students frequently on- and off-task simultaneously through different modalities](multilayered-on-off-task-microanalysis.md) — related
 - [High-learning groups demonstrate more frequent and stronger cross-modal connections linking verbal explanations with digital representations and embodied gestures.](high-learning-groups-stronger-cross-modal-connections.md) — related
+- [In shared holographic AR, scale, positioning of the representation, and body positioning emerged as important design considerations](shar-scale-body-positioning-design.md) — related
+- [In the motion capture game The Hidden Village, pose creation spurred gesturally embodied argumentation expressed more in gesture than in precise mathematical speech](thv-gesturally-embodied-argumentation.md) — related
+- [In shared VR, teacher-learners showed a recurring multimodal sequence of discussion before embodied action on virtual objects](vr-discussion-before-embodied-action.md) — related

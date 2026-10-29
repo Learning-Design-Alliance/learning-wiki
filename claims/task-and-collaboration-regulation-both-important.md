@@ -52,3 +52,4 @@ The article asserts, as a conceptual statement introducing the special issue, th
 - [Secondary students in CSCL devote much of their communication to regulating task performance, especially planning the task and monitoring task progress](cscl-groups-mostly-regulate-task-performance.md) — related
 - [Performing social activities negatively predicts group performance in CSCL inquiry tasks](social-activities-negatively-predict-group-performance.md) — related
 - [In CSCL history inquiry, regulation of social activities predicts group performance while social activities are negatively related to group performance](regulation-of-social-activities-predicts-group-performance.md) — related
+- [Game-structured forced collaboration prevented free riding and made continuous information sharing the most important learning outcome](forced-collaboration-prevents-free-riding.md) — related

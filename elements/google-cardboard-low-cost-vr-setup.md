@@ -49,6 +49,7 @@ The article describes Google Cardboard-style headsets, which resemble goggles an
 
 - [Teachers and students create their own 360-degree VR content using free apps like Google Street View](../strategies/create-own-360-images-street-view.md)
 - [Use mobile game-based learning findings to guide practice and pursue smartphone-enabled virtual reality and design-pedagogy-impact research directions](../strategies/mgb-practice-and-future-directions.md)
+- [Explore smartphone-enabled virtual reality as a future direction for supporting mobile game-based learning](../strategies/smartphone-vr-future-direction-mgbl.md)
 
 ## Key Sources
 - Pilgrim, J. M., & Pilgrim, J. (2016). The use of virtual reality tools in the reading-language arts classroom. Texas Journal of Literacy Education, 4(2). https://portal.issn.org/resource/ISSN/2374-7404

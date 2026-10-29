@@ -57,3 +57,4 @@ Results of the three-iteration scoring study at ZSOM and UCSF, where faculty sco
 - [DSPy prompt optimization improves all radiotelephony evaluators, with the largest gain in accuracy (+7.9%)](dspy-optimization-communication-evaluator-gains.md) — related
 - [GPT models achieved high polarity agreement with instructors only for positive feedback on the Topic aspect, and could not reliably assess the other rubric aspects](gpt-polarity-agreement-low-except-topic.md) — related
 - [Human inter-rater agreement for FRISCO essay scoring was reliable, with mean kappa 0.78–0.84 and percentage of agreement above 75% in all six dimensions](frisco-rater-agreement-reliable.md) — related
+- [GPT-3 classified students' open-ended responses about teaching practices with reliability similar to that of human coders](gpt3-coding-reliability-similar-to-humans.md) — related

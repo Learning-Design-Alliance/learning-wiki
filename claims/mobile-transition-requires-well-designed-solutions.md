@@ -51,3 +51,4 @@ Editorial summarizing the Giannakas et al. (2018) review of mobile game-based le
 - [mGBL's main benefit is affective, which may sacrifice effectiveness or efficiency to increase motivation and engagement](mgbl-affective-benefit-sacrifices-effectiveness-efficiency.md) — related
 - [mGBL makes more sense for teaching lower-level enabling content than complex performances that mix multiple learning domains](mgbl-suits-lower-level-enabling-content.md) — related
 - [Six response essays propose ways to action practical learning in online spaces, building on the Zacharia et al. (2015) guidance review](six-responses-practical-learning-online.md) — related
+- [The article argues that the findings of the Giannakas et al. (2018) review of mobile game-based learning can be used by practitioners, scholars and designers to utilise mGBL approaches to support and enhance learning](mbl-review-findings-usable-by-practitioners.md) — related

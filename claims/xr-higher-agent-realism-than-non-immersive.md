@@ -54,3 +54,5 @@ Conceptual synthesis in the technical foundation section of the review, arguing 
 - [Students reported challenges with generated-model scale fidelity, shared attention in multi-user XR, motion comfort, and control over generation](genarch-challenges-scale-shared-attention-control.md) — related
 - [Immersion has a medium-sized effect on physical presence, with user tracking, stereoscopic visuals, and wider fields of view the most important features](immersion-medium-effect-physical-presence.md) — related
 - [Stereoscopic display of realistic visualizations may support spatial perception and transfer-oriented learning](stereoscopic-realism-transfer-potential.md) — related
+- [Adult learners perceive immersive game-based platforms and interactive AI interfaces as effective mediums for enhancing learner-AI artifact-mediated interaction](immersive-platforms-interactive-interfaces-artifact-mediated.md) — related
+- [In an immersive VR dual-task search-and-learning environment, both a pedagogical agent cue and a light cue produced faster search times than no cueing](vr-agent-light-cues-reduce-search-time.md) — related

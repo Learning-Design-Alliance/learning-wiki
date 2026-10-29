@@ -48,6 +48,7 @@ The editorial's forward-looking recommendations for future authoring research. I
 - [Future directions: auto-generate edge-case test scenarios and integrate learning-science guidance into AI tutor authoring](future-ai-tutor-authoring-edge-cases-and-learning-science-guidance.md)
 - [Future improvements: real-world user studies, advanced student modeling, and spaced repetition](future-work-user-studies-student-modeling-spaced-repetition.md)
 - [Author ITSs without programming by enabling non-programmers to create, curate, and sequence instruction through authoring tools](non-programmer-its-authoring-strategy.md)
+- [Account for personal factors such as preferences and learning styles when developing adaptive educational computer games](personal-factors-adaptive-game-design.md)
 
 ## Examples
 -

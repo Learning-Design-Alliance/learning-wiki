@@ -48,3 +48,4 @@ The review compares stakeholder perceptions of transition learning needs, report
 - [Several personal background characteristics influence fit during the transition from higher education to the labour market](background-characteristics-influence-fit.md) — related
 - [The transition from higher education to the labour market is characterised by extensive changes that act as triggers for learning](transition-changes-trigger-learning.md) — related
 - [In the higher-education-to-labour-market transition, most emphasis is placed on theoretical knowledge, communication, problem-solving, and learning skills](transition-emphasises-knowledge-communication-problem-solving-learning-skills.md) — related
+- [Students report significant perceived improvement in the five competencies they consider most relevant to BA graduate employability, including teamwork and foreign language](als-redesign-improves-top-five-employability-competencies.md) — related

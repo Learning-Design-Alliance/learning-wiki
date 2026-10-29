@@ -50,3 +50,4 @@ Pre-intervention self-report analysis of SQsrl data from Adam's cohort (49 of 70
 - [Students self-report help-seeking as their strongest SRL skill and reflection for action as their weakest](students-help-seeking-strong-reflection-for-action-weak.md) — possibly the same claim (merge candidate)
 - [Teachers' and students' SRL profiles differ more than they are alike, sharing only insufficient reflection practice](teacher-student-srl-profiles-differ-except-reflection.md) — a broader claim this one bears on
 - [Teachers' self-reported SRL shows self-efficacy as the highest-practiced skill and help-seeking and goal-setting as the lowest](teachers-srl-self-efficacy-high-help-seeking-low.md) — related
+- [Tagging skills and completing challenges engaged students in self-assessment and reflection on their skill development](assessmake21-tagging-challenges-engaged-self-assessment.md) — related

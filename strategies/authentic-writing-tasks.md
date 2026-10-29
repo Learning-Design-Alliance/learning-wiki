@@ -82,6 +82,7 @@ Authenticity gives writing a genuine communicative function, which increases eng
 6. Deliver the text to its audience where possible, and debrief the audience's response to close the rhetorical loop.
 
 ## Related Strategies
+
 - [Writing to Learn](writing-to-learn.md) — uses writing primarily to consolidate domain knowledge; authentic tasks add a communicative purpose on top
 - [Peer Review](../elements/peer-review.md) — supplies the audience-response mechanism that makes revision purposeful
 - [Project-Based Learning](project-based-learning-pbl.md) — authentic writing is often the culminating product of a project
@@ -89,6 +90,7 @@ Authenticity gives writing a genuine communicative function, which increases eng
 - [Peer Review Protocols](peer-review-protocols.md) — structures the audience-response loop within a class
 - [Genre Scaffolding](genre-scaffolding.md) — supplies the models and conventions authentic tasks presuppose
 - [Guide students to select, match, and adapt writing strategies to situations](match-writing-strategies-to-situations-wall-chart.md)
+- [Support Wikipedia assignments with prior instructor experience, Wikimedia tools, and structured scaffolding](wikipedia-assignment-implementation-best-practices.md)
 
 ## Examples
 - **National Writing Project** classrooms routinely publish student writing to real audiences (anthologies, community blogs, local newspapers); see [https://www.nwp.org](https://www.nwp.org)

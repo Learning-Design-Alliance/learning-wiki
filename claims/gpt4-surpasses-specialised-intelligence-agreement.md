@@ -47,3 +47,4 @@ Authors' discussion comparing their percentage agreement with prior work: "ref.4
 ## Related Claims
 - [A customised GPT-4 agreed with a human coder on over 90% of coded dialogue turns in both math and Chinese lessons](gpt4-human-coder-agreement-over-90-percent.md) — possibly the same claim (merge candidate)
 - [A fine-tuned BERT model achieves almost perfect agreement with human coders when classifying student self-affirmation essays, matching human-human reliability](fine-tuned-bert-matches-human-coders-self-affirmation-essays.md) — related
+- [GPT-3 classified students' open-ended responses about teaching practices with reliability similar to that of human coders](gpt3-coding-reliability-similar-to-humans.md) — related

@@ -48,3 +48,4 @@ One-way MANOVA with learning tactics as the independent variable and nine learni
 - [Content and assessment oriented tactic is a distinct, integrated tactic rather than a simple combination of content and assessment tactics](content-assessment-tactic-integrated-not-splice.md) — related
 - [Cluster analysis of MOOC trace data identifies four learning tactics: Search oriented, Content and assessment oriented, Content oriented, and Assessment oriented](four-learning-tactics-mooc-cluster-analysis.md) — related
 - [Learning tactics shaped by instructional cues are embedded in different units of study in the MOOC](instructional-cues-embed-tactics-units.md) — related
+- [Sciences-oriented students reported significantly higher estimated understanding of the sorting strategy, while humanities-oriented students overestimated their understanding after the seeing phases until doing phases corrected it](estimated-understanding-group-differences-doing-phases.md) — related

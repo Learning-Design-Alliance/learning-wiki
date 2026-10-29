@@ -56,3 +56,4 @@ Descriptive analysis of logged chat from 101 groups of secondary students (310 s
 - [Regulation of social activities positively predicts group performance in CSCL inquiry tasks](social-regulation-positively-predicts-group-performance.md) — related
 - [A regulation macro script structured collaboration to support socio-cognitive and socio-emotional monitoring among teacher-education students](regulation-macro-script-monitoring-support.md) — related
 - [Both regulation of task performance and regulation of the collaboration process are important for effective CSCL](task-and-collaboration-regulation-both-important.md) — related
+- [Game-structured forced collaboration prevented free riding and made continuous information sharing the most important learning outcome](forced-collaboration-prevents-free-riding.md) — related

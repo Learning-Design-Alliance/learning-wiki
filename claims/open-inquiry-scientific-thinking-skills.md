@@ -77,3 +77,4 @@ The review reports, citing Yang et al. (2016), that students "significantly prog
 - [AI-supported inquiry-based learning did not produce a statistically significant improvement in students' critical problem-solving skills](ai-ibi-no-significant-gain-critical-problem-solving.md) — related
 - [Wilderness immersion experiences improve convergent creative thinking, with reported gains including a 50% increase on the RAT after four days in nature](wilderness-immersion-improves-convergent-creativity.md) — related
 - [Research-led creativity training for teachers enhances children's divergent thinking and moves teachers' conceptions closer to researchers' definitions](teacher-creativity-training-enhances-children-divergent-thinking.md) — related
+- [Students' self-directed learning and creative thinking skills increased significantly after QIMS inquiry-based lessons](qims-lessons-increase-self-directed-learning-creative-thinking.md) — related

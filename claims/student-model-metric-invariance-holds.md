@@ -72,3 +72,4 @@ Second invariance step for the student model. Because "the metric and the scalar
 - [Measurement invariance of secondary students' perceptions of instructional quality is examined and supported](student-perceptions-instructional-quality-measurement-invariance.md) — related
 - [The CVT-based model is invariant across gender and area of study but only configurally invariant across countries](cvt-model-invariance-gender-area-country.md) — related
 - [Configural and metric measurement invariance across time hold for nearly all constructs, but scalar invariance is problematic for several](measurement-invariance-self-concept-belief-scales.md) — related
+- [The same bifactor DL structure holds for primary and secondary students under partial measurement invariance, permitting comparison of performance levels across cohorts](dl-structure-invariant-across-cohorts.md) — related

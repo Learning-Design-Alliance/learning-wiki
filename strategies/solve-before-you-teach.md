@@ -64,6 +64,7 @@ Solving the task first converts the instructor's tacit expertise into usable ped
 - Lesson Study — institutionalizes collaborative task-solving before teaching
 - Error Analysis — extends anticipation into a systematic map of misconceptions
 - [Teach AI through holistic, active, collaborative pedagogical strategies starting from real problem solving](active-real-problem-solving-ai-teaching.md)
+- [Use a systematic design method with problem anticipation to reduce trial-and-error workload and frustration](systematic-design-method-reduce-trial-error.md)
 
 ## Examples
 - **Five Practices for Orchestrating Productive Mathematics Discussions** (Smith & Stein, 2011) — "anticipating" is the first practice: teachers solve the task, generate likely student strategies, and plan monitoring questions before the lesson.

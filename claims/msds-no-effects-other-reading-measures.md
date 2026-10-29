@@ -67,3 +67,4 @@ Impact analysis across the 11 reading measures in the same program-level randomi
 - [Program-specific gains appeared only in isolated t-tests: GRR on reading comprehension and RAVE-O on word-level efficiency measures](program-specific-ttest-gains.md) — related
 - [The program showed no significant overall math difference, though items on visual-spatial vocabulary and nonstandard measurement improved for the treatment condition](nico-nor-math-null-with-item-gains.md) — related
 - [The multi-component intervention produced statistically significant advantages over business-as-usual on one decoding measure (ES = 0.58) and one fluency measure (ES = 0.46), but not on reading comprehension](intervention-gains-decoding-fluency-not-comprehension.md) — related
+- [GraphoGame exposure significantly improved grade one students' ciNyanja spelling (decoding) scores relative to control in a randomized Lusaka intervention](graphogame-improves-zambian-grade1-spelling.md) — related

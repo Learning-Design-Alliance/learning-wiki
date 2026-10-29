@@ -50,3 +50,4 @@ Post hoc Bonferroni-corrected comparisons of reaction times across the three sti
 - [Cardiorespiratory fitness is not associated with reaction times for uncued stimuli in healthy male high-school students](vo2max-not-associated-rt-no-cue.md) — related
 - [Neither muscle mass nor weekly training frequency is associated with reaction time across cue conditions in healthy male high-school students](muscle-mass-weekly-training-not-associated-rt.md) — related
 - [The spatial cueing task produced a small cueing validity effect on reaction times across stimulus categories](cueing-validity-effect-reaction-times.md) — related
+- [In an immersive VR dual-task search-and-learning environment, both a pedagogical agent cue and a light cue produced faster search times than no cueing](vr-agent-light-cues-reduce-search-time.md) — related

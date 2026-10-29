@@ -55,3 +55,4 @@ In the Inefficient first condition, "61 children (85% of those who switched) rev
 - [In simulated mastery learning, system constraints left most other task-selection strategies' overpractice stable while sharply reducing it under the outlier risk-averse strategy](constraints-selectively-affect-inefficient-strategies.md) — related
 - [Children switched to the efficient method more often than chimpanzees on the same puzzlebox task](children-switch-more-than-chimpanzees-serialbox.md) — related
 - [Children who observed the efficient method first switched earlier than children observing the inefficient method first](efficient-first-children-switch-earlier.md) — related
+- [Among students who started with the default strategy, Expanded students were most likely to switch to the base-unit strategy and maintain it](expanded-strategy-switching-from-default.md) — related

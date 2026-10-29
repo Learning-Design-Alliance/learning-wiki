@@ -53,3 +53,4 @@ The editors' synthesis of the volume's chapters states that "Technology can play
 - [Adaptive leadership is a critical enabler of successful AI adoption and institutional transformation in higher education](adaptive-leadership-enables-ai-adoption.md) — a broader claim this one bears on
 - [Inclusive school leadership plays a critical role in building teachers' capacity for school improvement](inclusive-leadership-builds-teacher-capacity.md) — related
 - [Equity commitments in technology adoption face ongoing constraints from infrastructure, funding, and organizational capacity](equity-commitments-constrained-infrastructure-capacity.md) — related
+- [Wardrip proposes online learning support roles help educators build awareness for criticizing technological tools' capabilities](support-roles-awareness-tool-critique.md) — related

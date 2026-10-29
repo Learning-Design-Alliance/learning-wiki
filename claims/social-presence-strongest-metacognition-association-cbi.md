@@ -73,3 +73,5 @@ Correlational analysis under RQ3 in the survey of 47 graduate students in the on
 - [Online PBL group interaction follows the scripted sequence initially, but co-regulation derails over time into social bonding with fewer high-cognitive interactions](pbl-group-sequence-derails-to-social.md) — related
 - [No single metacognitive self-report can be recommended as the industry standard; the COMEGAM-ro has the strongest statistical support but is unreplicated](no-industry-standard-metacognitive-self-report.md) — related
 - [Invested effort and perceived value positively predicted social presence across all topics](perceived-value-predicts-social-presence.md) — related
+- [Students in higher SRL profiles perceive significantly higher teaching, social, and cognitive presence than students in lower SRL profiles](higher-srl-profiles-higher-coi-perceptions.md) — related
+- [SRL sub-constructs correlate substantially with all three CoI presences, and a seven-factor OSLQ model fits better than the original six-factor model](srl-coi-correlations-seven-factor-oslq.md) — reports the opposite

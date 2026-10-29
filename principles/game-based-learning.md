@@ -47,7 +47,7 @@ sources:
 # Game-based Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 64 claims (29 for, 34 mixed, 1 against) · 51 studies (15 causal, 14 quant-synthesis, 11 review, 4 design, 4 theoretical, 3 associational), `q1`–`q4` · 16 of 51 report an effect size · 58 claims rest on one study
+> **Evidence** · 69 claims (33 for, 35 mixed, 1 against) · 54 studies (16 causal, 14 quant-synthesis, 12 review, 4 design, 4 theoretical, 3 associational, 1 qualitative), `q1`–`q4` · 16 of 54 report an effect size · 63 claims rest on one study
 
 ## Conditional relationship
 
@@ -159,6 +159,7 @@ Claims read against this model that do not change it. Each says what it is and w
 - [CS students who learned CT concepts through the iThinkSmart VR game-based application demonstrated significantly better CT competency scores than students in the control group](../claims/ithinksmart-vr-better-ct-competency-scores.md) [+M] — attached 2026-10-29 from Friday Joseph Agbo et al. (2023), which proposed "Visualize abstract CT concepts through game-based approaches rather than theoretical instruction alone"; tests this page's relationship.
 - [Progressive engagement through the PFO model shifted students' reasoning about the game system from micro-level to macro-level abstraction](../claims/pfo-progression-micro-to-macro.md) [+W] — attached 2026-10-29 from Marianthi Grizioti (2025), which proposed "PFO model of progressive engagement: Play, Focused Modifications, Open Modifications & Design".
 - [Ke's (2016) systematic review synthesized five major themes as guideposts for designing research-based learning games](../claims/ke-2016-five-themes-learning-game-design.md) [+W] — attached 2026-10-29 from Andri Ioannou (2021), which proposed "Treat learning content as integral to gameplay, rules, and actions when designing learning games".
+- [The GraphoGame effect on decoding was greatest when both students and teachers played the game](../claims/graphogame-teacher-plus-student-exposure-greatest.md) [+W] — attached 2026-10-29 from Jere-Folotiya et al. (2014), which proposed "Supplementary computer-assisted phonics games should expose both students and teachers to the game to maximize early literacy gains".
 
 ## Objective and learner-valued goal
 
@@ -185,6 +186,10 @@ A gain in the game, a gain on an aligned outside test, delayed retention, transf
 - [The authors contend that a new design paradigm must be developed if academic learning is to take place in educational games](../claims/new-design-paradigm-needed-for-game-learning.md) [~W]
 - [Motivation increased significantly from before activity to in activity in the game-based group but showed no significant stage-to-stage change in the traditional guide group](../claims/role-playing-guide-motivation-increase-during-activity.md) [+W]
 - [Barach argues game-based learning needs more pedagogical rigor, scaffolding integration, and learner accountability through design](../claims/need-pedagogical-rigor-learning-games.md) [~W]
+- [A digital board game for genuine communication improved EFL students' learning performance](../claims/digital-board-game-efl-performance.md) [+W]
+- [A two-tier test-based migratory bird identification game outperformed conventional e-learning on motivation, achievement and technology acceptance](../claims/two-tier-test-game-beats-e-learning.md) [+W]
+- [A computer-based simulation game helped students apply theoretical team-role knowledge to identify team roles in practice and evaluate their own performance in a role](../claims/simulation-game-team-role-self-reflection.md) [+W]
+- [Worked-example effects in a 3D role-playing game for chemical formulas: significant on knowledge comprehension, marginal on knowledge application](../claims/worked-example-effect-3d-game-chemical-formulas.md) [~W]
 
 ## Related Principles
 - [Simulations & Immersive Virtual Environments](simulations-immersive-virtual-environments.md) — simulations overlap with game-based learning when the experience models a system learners must navigate.

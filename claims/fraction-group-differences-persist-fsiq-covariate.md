@@ -54,3 +54,4 @@ Each ANOVA was repeated as an ANCOVA with WASI full scale IQ (Grade 3) as a cova
 - [Children with MLD score lower in self-image than typical and high achievers when IQ is partialled out](mld-lower-self-image-than-ta-ha.md) — related
 - [Children with MLD report higher learning mathematics anxiety than LA, TA, and HA peers, but not higher evaluation anxiety](mld-higher-lma-not-mea.md) — related
 - [Fraction division showed large country differences (Chinese 91%, Belgian 71%, U.S. 22% correct), while fraction addition showed a Country × Grade interaction](fraction-division-addition-country-differences.md) — related
+- [Multivariate ANOVAs showed a significant time-of-measurement by condition interaction on fractions scores in both countries](multivariate-interaction-combination-effect.md) — related

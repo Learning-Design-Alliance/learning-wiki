@@ -53,3 +53,5 @@ Same Mann–Whitney U analysis of standardised SRL proxy scores across the five 
 - [Under blind conditions, students rated GenAI feedback more positively than tutor-generated feedback, with a statistically significant difference only on Genuineness favouring GenAI](genai-feedback-rated-higher-genuineness-blind.md) — related
 - [MITCA did not improve information-seeking and help management skills relative to traditional homework](mitca-no-gain-information-seeking.md) — related
 - [Post-experimental questionnaire ratings favoured MT-ITS numerically but the differences between conditions were not significant](mt-its-questionnaire-ratings-not-significant.md) — related
+- [Low-SRL students receiving GenAI feedback improved significantly in goal-setting skills compared to tutor-feedback peers](genai-feedback-improves-low-srl-goal-setting.md) — reports the opposite
+- [No significant feedback-source differences were observed among high-SRL cluster students](no-genai-tutor-difference-high-srl-cluster.md) — related

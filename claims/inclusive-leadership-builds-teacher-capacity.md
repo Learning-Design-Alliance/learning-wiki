@@ -52,3 +52,4 @@ The overview identifies inclusive school leadership as a critical element of the
 - [Deeper co-leadership emerges when staff support lets partners progressively take on responsibility, but recedes when staff carry the process](calibrated-support-co-leadership.md) — related
 - [Effective leadership plays a pivotal role in guiding digital transformation in educational organizations](leadership-pivotal-digital-transformation-education.md) — related
 - [Technology can play a key role in comprehensive reform, but the adaptive capacity of the institution is equally critical for success](technology-role-adaptive-capacity-reform.md) — related
+- [Wardrip proposes online learning support roles help educators build awareness for criticizing technological tools' capabilities](support-roles-awareness-tool-critique.md) — related

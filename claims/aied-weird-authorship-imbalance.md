@@ -52,3 +52,4 @@ Observational analysis of national affiliations of authors in the ITS and AIED c
 - [Samples used to investigate human features in AIED research are 94% WEIRD and 62% US, with no African samples](aied-weird-sample-imbalance.md) — related
 - [Cultural variations exist in emotion and other psychological topics of interest to AIED, so psychology research influencing AIED is likely WEIRD-imbalanced](cultural-variation-emotion-aied-topics.md) — a broader claim this one bears on
 - [Authorship of AIED systematic reviews is concentrated in Asia and Europe, with China, Spain, and the United States the most productive countries](aied-review-authorship-geographic-distribution.md) — a narrower finding that bears on this claim
+- [Handbook authorship and AECT awards are markedly less internationally diverse than journal publication, suggesting a North American bias in those indicators](handbook-awards-north-american-bias.md) — related

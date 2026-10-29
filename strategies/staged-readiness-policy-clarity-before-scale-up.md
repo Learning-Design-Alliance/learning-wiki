@@ -48,6 +48,7 @@ The article recommends that institutions sequence AI and online expansion so tha
 - [Embed anticipatory governance in institutional strategy via Chief AI Officers, AI task forces, faculty AI-literacy development, and student co-design mechanisms](anticipatory-governance-implementation-recommendations.md)
 - [Staged institutional implementation: audit interactions, map to teaming levels, build AI literacy, co-design, and evaluate iteratively](staged-teacher-ai-teaming-implementation.md)
 - [Co-create contextualized AI literacy policies via multi-stakeholder task forces with phased roadmaps](co-create-ai-literacy-policies-task-forces.md)
+- [Assess organisational readiness at the start of an adaptive learning implementation project by selecting context-relevant determinants from the framework](assess-organisational-readiness-determinants-selection.md)
 
 ## Examples
 -

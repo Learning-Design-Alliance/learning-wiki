@@ -96,3 +96,4 @@ Identical non-GenAI homework items also differed significantly across halves (r=
 - [Across three physics assessments, students who declared GenAI use scored slightly higher than non-users, but none of the differences were statistically significant](genai-users-slightly-higher-scores-not-significant-physics.md) — related
 - [AI chatbots provide students detailed feedback, step-by-step homework solutions, and self-quizzing support](chatbot-homework-study-assistance.md) — related
 - [Students used GAI in coursework but struggled to correct LLM-generated code during exams](students-struggle-correcting-llm-generated-code-exams.md) — related
+- [Personalized feedback produced no measurable differences in exam scores, final course grades, or D/F rates compared to generic messages](no-performance-gains-personalized-feedback.md) — related

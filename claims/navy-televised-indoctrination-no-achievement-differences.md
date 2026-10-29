@@ -52,3 +52,5 @@ Abstract of a Navy indoctrination-course comparison reported by the abstractor; 
 - [In telecast mathematics, high-ability pupils did better with conventional instruction while average-ability pupils did better watching television](tv-math-ability-interaction.md) — related
 - [One biology test showed televised instruction significantly more effective than conventional instruction, with effects uniform across ability groups](tv-biology-test-significantly-more-effective.md) — related
 - [In the 1957-58 national television-in-schools experiment, more control-versus-experimental comparisons favored television than favored control classes](tv-in-schools-comparisons-favor-television.md) — related
+- [A telephone survey of 384 Houston set owners found 75 percent watched one KUHT-TV program in two weeks, with varied program-type preferences](kuht-audience-survey-1955.md) — related
+- [Televised lecture instruction produced no significant achievement-test differences versus traditional campus sections in a psychology and a biology course](tv-lecture-no-achievement-difference-1955.md) — related

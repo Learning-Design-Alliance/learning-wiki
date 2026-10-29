@@ -60,3 +60,4 @@ Latent class analysis on three indicator dimensions (devices, learning contexts,
 - [Latent profile analysis of pre-service teachers' ChatGPT acceptance yields four highly distinguishable profiles, with Pragmatic Evaluators the largest (47.66%)](four-chatgpt-acceptance-profiles-lpa.md) — related
 - [Latent Class Analysis identifies six provisional manager typologies with heterogeneous readiness and barrier profiles](six-provisional-manager-typologies-lca.md) — related
 - [Four distinct action-control belief profiles (agentic, moderate, avoidant, and mixed) emerge among Finnish ninth graders](four-action-control-belief-profiles-ninth-graders.md) — related
+- [K-means clustering of LMS log data identified two distinct SRL profiles (high and low) among online students](two-srl-profiles-from-lms-log-clustering.md) — related

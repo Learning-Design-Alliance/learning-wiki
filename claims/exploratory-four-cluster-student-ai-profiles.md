@@ -83,3 +83,4 @@ Exploratory K-means clustering among students only (n = 961, nine features, fixe
 - [K-Means clustering of LIME feature-importance profiles identifies 2 responder and 4 non-responder subgroups within binary intervention-response classes](lime-clustering-dyslexia-subgroups.md) — a narrower finding that bears on this claim
 - [Evaluation studies with the Perico agent confirmed feasibility of crowdsourced DBpedia knowledge for generating interactive user-modelling questionnaires](perico-crowdsourced-questionnaires-feasible.md) — related
 - [A K-means clustering of students based on pre- and post-project SDG knowledge identifies three distinct learning profiles, with the largest cluster showing the greatest knowledge gain.](k-means-three-sgc-learning-clusters.md) — related
+- [K-means clustering of LMS log data identified two distinct SRL profiles (high and low) among online students](two-srl-profiles-from-lms-log-clustering.md) — related

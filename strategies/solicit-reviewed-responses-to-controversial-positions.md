@@ -42,6 +42,7 @@ When a journal publishes a controversial position, it can invite both solicited 
 - [Digital Publishing](digital_publishing.md)
 - [Share Teacher's Written Work](share_teachers_written_work.md)
 - [Ask Parents for Their Ideas](ask_parents_for_their_ideas.md)
+- [Rapid-response essay model: situate recently published research in an urgent context via invited commentary papers](rapid-response-essay-model-crisis-research.md)
 
 ## Examples
 -

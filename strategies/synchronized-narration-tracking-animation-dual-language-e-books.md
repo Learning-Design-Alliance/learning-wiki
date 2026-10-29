@@ -42,6 +42,7 @@ The authors recommend designing dual-language e-books with "synchronized dual-ch
 ## Related Strategies
 
 - [Use a stylus rather than finger touch as input for young children's tablet tasks, and enlarge clickable touch targets beyond visual object size](stylus-input-enlarged-touch-targets-toddlers.md)
+- [Embed immediate, visually aligned cues in programming instruction systems to guide learners' strategic attention](embed-real-time-visual-cues-programming-systems.md)
 
 ## Examples
 -

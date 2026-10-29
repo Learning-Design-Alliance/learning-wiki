@@ -47,3 +47,4 @@ Spearman rank correlations between output-oriented quality parameters in Study 2
 
 ## Related Claims
 - [More unequal distribution of participation in online collaboration groups is associated with lower satisfaction with the collaboration](unequal-participation-lower-satisfaction.md) — possibly the same claim (merge candidate)
+- [Courses with higher posting participation show more subgroups and more unequal communication than expected by chance, while high-interactivity courses show more equal participation](participation-unequal-communication-interactivity-equal.md) — related

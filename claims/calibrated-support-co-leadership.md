@@ -114,3 +114,6 @@ Contrast finding from the same reflection analysis: when staff assumed too much 
 - [Learning by creation shifts learners from consumers to creators of learning content and increases their awareness of taking learning ownership](learning-by-creation-increases-ownership-awareness.md) — related
 - [Teachers perceived the co-design process as beneficial for collaboration, ownership, professional development, and material quality](teachers-positive-perception-codesign-ai-materials.md) — related
 - [Library staff and maker educators describe success in maker programs through four themes: who demonstrates success, how it is demonstrated, what makes it visible, and with whom it is shared](four-themes-success-library-makerspaces.md) — related
+- [Purposeful research design can inform sustainability and scalability, but must be balanced with leadership and professional learning](research-design-informs-sustainability-scalability.md) — related
+- [Team leadership in the game emerged as shared and shifting, distributed to whoever held the needed information or first solved the task](shared-shifting-team-leadership-game.md) — related
+- [Team members' technical aptitude shaped role adoption, with less game-experienced members taking passive roles and power asymmetries limiting exploration](technical-aptitude-shapes-team-roles.md) — related

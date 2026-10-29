@@ -90,3 +90,4 @@ The authors describe their own rigorous study of the ASSISTments platform, which
 - [Expert teachers' well-practiced routines make their performance fluid, as seen in homework-review and lesson-teaching comparisons](expert-teachers-use-routines-for-fluid-performance.md) — related
 - [Preparation-purpose homework benefits students more than same-day extra-time homework](preparation-homework-beats-same-day-homework.md) — related
 - [Completing the follow-up homework assignment modestly boosted exam question performance](follow-up-homework-modestly-boosts-exam-performance.md) — a narrower finding that bears on this claim
+- [Students receiving personalized feedback began homework earlier than the control group during the intervention phase (about half a day earlier)](la-personalized-feedback-earlier-homework-start.md) — a narrower finding that bears on this claim

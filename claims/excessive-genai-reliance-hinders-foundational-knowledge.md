@@ -60,3 +60,4 @@ Finding from the Assessment Strategies theme of the thematic analysis, reported 
 - [Teachers express concern that student overreliance on AI may degrade independent thinking and hands-on scientific skills](teacher-concern-overreliance-ai-degrades-skills.md) — related
 - [Easy access to AI-generated answers may reduce learners' motivation to engage deeply with material](ai-over-reliance-reduces-deep-engagement.md) — related
 - [Overreliance on GenAI risks diminishing higher-order thinking skills and programming logic](genai-overreliance-risks-hots-programming-logic.md) — related
+- [AI programming tools are fundamentally changing the concept of plagiarism in Computer Science and shifting teaching toward computational thinking and theory](ai-code-generators-shift-cs-teaching.md) — related

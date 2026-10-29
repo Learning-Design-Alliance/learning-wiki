@@ -17,7 +17,7 @@ sources:
 # Sociomaterial Agency of Tools
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 30 claims (22 for, 8 mixed) · 23 studies (10 qualitative, 5 theoretical, 4 causal, 2 review, 1 quant-synthesis, 1 design), `q1`–`q3` · 3 of 23 report an effect size · 30 claims rest on one study
+> **Evidence** · 31 claims (23 for, 8 mixed) · 24 studies (10 qualitative, 5 theoretical, 4 causal, 2 review, 2 design, 1 quant-synthesis), `q1`–`q3` · 3 of 24 report an effect size · 31 claims rest on one study
 
 ## Description
 Drawing on new materialist and posthumanist theory (Barad's concept of intra-action, in which matter and meaning co-constitute each other rather than matter being a passive backdrop to human intention), this perspective treats instructional tools and materials as active participants in learning, not neutral vehicles for a lesson's content. Materials carry forward cultural histories and associations — including gendered ones, such as sewing being coded feminine and circuit-building coded masculine — that shape who feels invited to use them and how they think while using them. The practical implication for design is that choosing "neutral" materials is not actually possible; material choices always carry some cultural coding, and thoughtful design can use that fact deliberately (e.g., pairing historically feminine-coded craft materials with rigorous technical content) rather than pretending it away.
@@ -65,6 +65,7 @@ Drawing on new materialist and posthumanist theory (Barad's concept of intra-act
 - [Children's tool use progresses from unspecific manual use to specific instrumental use governed by the tool's culturally established mode of acting](../claims/galperin-tool-use-developmental-study.md) [+W]
 - [Reading comprehension is slightly worse on handheld devices than in print in between-participants studies (g = -.113)](../claims/handheld-print-gap-between-participants-meta-analysis.md) [+W]
 - [Most learning objects demonstrated high agency while receptivity varied, with low receptivity often an intentional design decision](../claims/high-agency-varied-receptivity-intentional.md) [~W]
+- [Device shapes tool use: Instagram and WhatsApp on phones, creation tools on laptops and tablets, and limited laptop use on public transport](../claims/device-shapes-tool-use-across-spaces.md) [+W]
 
 ## The evidence by question
 - *Does the choice of physical materials for a hands-on task change what learners come to understand and who takes part?* [Material choice shapes conceptual learning and who feels invited to learn](../claims/material-choice-shapes-conceptual-learning-and-participation.md) [+M]
@@ -79,6 +80,7 @@ Drawing on new materialist and posthumanist theory (Barad's concept of intra-act
 - [Hands-on Learning](../elements/hands-on-learning.md) — this theory adds that *which* materials are used in a hands-on task is not an interchangeable implementation detail
 - [Two-hour classroom AI literacy workshop combining LLM concepts with agency-preserving regulation practice](../designs/two-hour-ai-literacy-regulation-workshop.md)
 - [Use accessible analog loom technology that youth can keep and continue working on after the workshop ends](../strategies/keep-loom-continue-after-workshop.md)
+- [Three relational topologies for sociomaterial analysis of learning spaces](../research-methods/three-relational-topologies-for-sociomaterial-analysis-of-learning-spaces.md)
 
 ## Key Sources
 - Peppler, K., & Thompson, N. (2024). Tools and materials as non-neutral actors in STEAM education. *Journal of the Learning Sciences, 33*(4-5), 719-756. [https://doi.org/10.1080/10508406.2024.2380694](https://doi.org/10.1080/10508406.2024.2380694)

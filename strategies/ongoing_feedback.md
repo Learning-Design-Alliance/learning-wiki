@@ -68,6 +68,7 @@ Ongoing feedback operationalizes [Assessment for Learning](../principles/assessm
 - [Assess process over product using staged, connected tasks with iterative evidence](assess-process-over-product-staged-tasks.md)
 - [Assessment design levers that make learning visible and reduce the payoff from generic generated text](assessment-design-levers-visible-learning-traces.md)
 - [Implement an AI-Peer-Teacher hybrid integrated feedback model staged across drafting, revision, and polishing phases](ai-peer-teacher-hybrid-feedback-model.md)
+- [Use AI tools to support assessment, feedback and monitoring of learner progress](ai-supported-assessment-and-feedback-strategies.md)
 
 ## Related Elements
 - [Practice](../elements/practice.md) — revision is the practice that converts feedback into learning

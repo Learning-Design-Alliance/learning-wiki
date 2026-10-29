@@ -59,3 +59,4 @@ In the controlled four-condition Prolific experiment (N=398), planned interactio
 - [Practicing with AI was less effortful than practicing alone, with participants spending less time and logging fewer keystrokes](ai-practice-less-effortful-fewer-keystrokes.md) — related
 - [Engage-to-Unlock improved error-classification accuracy over Standard Chatbot but showed no significant advantage in overall judgment accuracy or complete diagnosis](engage-to-unlock-error-classification-advantage.md) — related
 - [Low-guidance set-ups took longer than high-guidance set-ups in the CVS instruction sessions](low-guidance-longer-time-on-task.md) — related
+- [Increasing narration speed by up to 1.8 times has no negative impact on learning and reduces instruction time](narration-speed-up-to-1-8x-no-learning-cost.md) — related

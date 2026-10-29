@@ -90,6 +90,7 @@ Self-regulation instruction has consistent positive effects on academic performa
 - [Instructors foster metacognition through reflection on process, direct immediate feedback, and taught study habits](foster-metacognition-reflection-feedback-study-habits.md)
 - [Foster autonomy and curiosity-driven learning by embedding metacognitive processes and self-regulation elements into education](embed-metacognitive-srl-support-post-pandemic.md)
 - [SRL cycle design strategies: goal setting, strategic planning across four strategy types, accessible self-control prompts, and self-monitoring records](srl-cycle-design-strategies-fc.md)
+- [Use AI tools to support assessment, feedback and monitoring of learner progress](ai-supported-assessment-and-feedback-strategies.md)
 
 ## Examples
 **Zimmerman & Campillo's cycle in writing instruction** — Students plan (set goals for audience and structure), draft with self-monitoring checklists, and revise after self-evaluation against criteria; the Self-Regulation Strategy Development model (SRSD) for writing has strong experimental support across grade levels.

@@ -61,3 +61,4 @@ The review reports, citing Janebi and Haghighatpasand (2019), that an adventure 
 - [All three L1 gloss conditions significantly improve immediate vocabulary recall over a no-gloss control in EFL reading](l1-glosses-improve-immediate-vocabulary-recall.md) — related
 - [Practice defined as meaningful language use plus effortful practice of difficult features is beneficial and even essential for second language acquisition](meaningful-effortful-practice-beneficial-essential-l2.md) — related
 - [Scaffolding in a handheld sensor-based vocabulary game significantly improved low-achieving EFL students' motivation and performance](scaffolding-sensor-vocabulary-game-improves-low-achievers.md) — related
+- [A digital board game for genuine communication improved EFL students' learning performance](digital-board-game-efl-performance.md) — related

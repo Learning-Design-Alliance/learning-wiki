@@ -49,3 +49,4 @@ In the 2x2 experiment, the main outcome was a real-life transfer test in which s
 - [Visual-only text yields higher transfer than audio-visual text in immersive VR](vr-reverse-modality-effect-transfer.md) — related
 - [PC-based passive viewing yielded higher word recall than embodied VR assembly training in school-aged children](pc-beats-vr-word-recall-children.md) — related
 - [Referential gaze from a virtual teacher boosts L2 word-object mapping unconsciously in immersive VR, mirroring joint-attention mechanisms in first language acquisition](vr-referential-gaze-boosts-l2-word-learning.md) — related
+- [Neither the pedagogical agent cue nor the light cue improved learning outcomes in the immersive VR dual-task environment](vr-cueing-no-learning-outcome-effect.md) — related

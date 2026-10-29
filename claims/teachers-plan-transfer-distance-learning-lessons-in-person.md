@@ -51,3 +51,4 @@ Self-reported plans from the same Spring 2020 survey of 71 K-8 teachers: "most t
 - [The pandemic disruption promoted teacher adaptation and may have prompted lasting new practices, per the authors](pandemic-promoted-teacher-adaptation-lasting-practices.md) — related
 - [Adopting mastery goals rather than performance goals during initial learning promotes transfer](mastery-goals-promote-transfer.md) — related
 - [Full-scale online teaching and learning practice during the pandemic generated new needs for student-centered learning, according to this response essay.](pandemic-online-teaching-needs-student-centered-learning.md) — related
+- [Wikipedia assignments required minimal adaptation during the COVID-19 transition to distance learning](wikipedia-assignments-covid-distance-learning.md) — related

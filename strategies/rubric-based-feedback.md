@@ -83,6 +83,7 @@ Rubrics make evaluation criteria transparent, which supports learners' self-regu
 - [Peer Feedback](../elements/peer-feedback.md) — rubrics structure and improve the quality of peer critique
 - [Self-Assessment](../elements/self-assessment.md) — rubrics are the primary tool for making self-assessment accurate
 - [Use a formative assessment script to structure students' generation of peer and internal feedback on performance products](fas-supported-feedback-generation-strategy.md)
+- [Embed a light-touch guide with tips and worked examples in the peer feedback interface](embedded-light-touch-feedback-guide-strategy.md)
 
 ## Examples
 - **[Exemplars / NZ Ministry of Education](https://nzcurriculum.tki.org.nz/Assessment/Exemplars)** — published annotated exemplars paired with rubric-style criteria that teachers use to frame feedback on student writing.

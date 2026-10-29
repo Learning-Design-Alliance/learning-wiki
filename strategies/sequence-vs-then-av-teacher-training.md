@@ -42,7 +42,8 @@ The article recommends that teacher training programs exploit the complementary 
 - [Scaffolding Transfer Integration Framework](../theories/scaffolding-transfer-integration-framework.md)
 
 ## Related Strategies
-- 
+
+- [Design recommendations for inclusive-pedagogy simulations: nuanced options, emotion-surfacing prompts, structured feedback](simulation-design-recommendations-inclusive-pedagogy.md)
 
 ## Examples
 -

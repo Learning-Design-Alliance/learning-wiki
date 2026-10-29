@@ -48,6 +48,7 @@ The article reports that responses to Borup et al. (2015) build "a strong argume
 ## Related Strategies
 
 - [Introducing Yourself Via Video](introducing_yourself_via_video.md)
+- [Educators should adopt applicable feedback delivery strategies when giving feedback in digital learning environments](feedback-delivery-strategies-educators.md)
 
 ## Examples
 -

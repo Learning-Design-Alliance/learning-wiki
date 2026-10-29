@@ -66,6 +66,7 @@ Portfolios shift assessment authority toward learners, requiring them to evaluat
 - [Prepare for rising demand for assessment tools and embedded assessment models in maker learning](prepare-for-rising-maker-assessment-demand.md)
 - [Demonstrate teaching competencies through performance-based artifacts](performance-based-artifact-demonstration-strategy.md)
 - [Use children's portfolios as alternative assessment of young learners' multiliteracies](portfolio-alternative-assessment-young-learners-multiliteracies.md)
+- [Departments should stress student portfolio development and reflect on required learning-theory coursework given variable graduate skill sets](idt-portfolios-and-theory-reflection-strategy.md)
 
 ## Examples
 - **New Tech Network schools** — students defend digital portfolios of project work before panels of teachers and community members at graduation (https://newtechnetwork.org).

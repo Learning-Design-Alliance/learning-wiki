@@ -69,3 +69,4 @@ ANCOVA of posttest SRL (Barnard et al. questionnaire, overall Cronbach's alpha 0
 - [Chatbot-guided feedback SRL improved university students' multimedia knowledge performance more than conventional SRL](srl-cgf-improves-multimedia-knowledge-performance.md) — related
 - [Chatbot-guided feedback SRL improved university students' reflection more than conventional SRL](srl-cgf-improves-reflection.md) — related
 - [ADA use shows a modest non-significant tendency toward increased intrinsic and extrinsic cognitive load, contrary to prior chatbot research](ada-cognitive-load-slightly-increased-non-significant.md) — related
+- [The POED-based VR approach improved students' metacognition tendency more than the POEE-based VR approach](poed-vr-improves-metacognition-tendency.md) — related

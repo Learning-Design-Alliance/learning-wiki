@@ -46,3 +46,4 @@ A mixed Delphi study combining computer-based and face-to-face methods with twel
 
 ## Related Claims
 - [Experts rate AI-related competences for learners and educators as the highest-impact and most important AI-in-education trend](ai-competences-highest-rated-delphi-trend.md) — related
+- [Four essential conditions for sound and effective use of learning analytics were agreed by experts in a Delphi study](four-conditions-sound-learning-analytics.md) — related

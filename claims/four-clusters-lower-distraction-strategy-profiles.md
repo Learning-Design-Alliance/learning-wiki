@@ -51,3 +51,4 @@ Partitioning-around-medoids clustering of the 42 ARM rules (not of participants)
 - [Learner-instructor and learner-content engagement strategies are negatively associated with digital distraction in online courses](instructor-content-engagement-associated-lower-distraction.md) — related
 - [Technical confidence using digital learning tools is positively associated with lower distraction levels among online learners](technical-competency-associated-lower-distraction.md) — related
 - [The four profiles differ in academic self-efficacy, time/study management, and effort regulation, with HL highest, but not in help seeking](profiles-differ-in-self-regulatory-resources-except-help-seeking.md) — related
+- [K-means clustering of LMS log data identified two distinct SRL profiles (high and low) among online students](two-srl-profiles-from-lms-log-clustering.md) — related

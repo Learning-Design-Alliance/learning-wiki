@@ -52,3 +52,4 @@ Thematic analysis of educator interviews identified challenges including increas
 - [Thematic analysis of teacher interviews identifies barriers to implementation and factors for success](mast-implementation-barriers-success-factors.md) — related
 - [Equity commitments in technology adoption face ongoing constraints from infrastructure, funding, and organizational capacity](equity-commitments-constrained-infrastructure-capacity.md) — related
 - [Qualitative findings: ease of use supports engagement and confidence, but challenge must be tailored to ability and content must be culturally relatable](koku-qualitative-acceptability-themes.md) — related
+- [Organisational readiness for adaptive learning is a multi-faceted construct operationalised through technological, individual, and leadership readiness](organisational-readiness-three-facets.md) — related

@@ -69,3 +69,5 @@ Same Table 6 analysis of relevant AIED sample origins; the paper reports "There 
 - [Conference localization in non-WEIRD countries coincided with the highest rates of papers from Latin America and Asia](conference-localization-diversity-effect.md) — related
 - [Research on generative AI in secondary STEM education is concentrated in the Global North, with 73% of affiliations and the United States accounting for 30% of publications](global-north-concentration-generative-ai-stem-research.md) — related
 - [Authorship of AIED systematic reviews is concentrated in Asia and Europe, with China, Spain, and the United States the most productive countries](aied-review-authorship-geographic-distribution.md) — a narrower finding that bears on this claim
+- [Handbook authorship and AECT awards are markedly less internationally diverse than journal publication, suggesting a North American bias in those indicators](handbook-awards-north-american-bias.md) — related
+- [Adoption of Wikipedia assignments shows a global digital divide, concentrated in English-speaking countries](wikipedia-assignments-global-digital-divide.md) — related

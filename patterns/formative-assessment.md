@@ -29,7 +29,7 @@ grain_size: lesson
 # Formative Assessment
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 45 claims (21 for, 22 mixed, 2 against) · 52 studies (16 causal, 12 quant-synthesis, 10 review, 5 qualitative, 4 associational, 4 theoretical, 1 design), `q1`–`q4` · 17 of 52 report an effect size · 34 claims rest on one study
+> **Evidence** · 46 claims (22 for, 22 mixed, 2 against) · 53 studies (17 causal, 12 quant-synthesis, 10 review, 5 qualitative, 4 associational, 4 theoretical, 1 design), `q1`–`q4` · 17 of 53 report an effect size · 35 claims rest on one study
 
 ## Description
 
@@ -110,6 +110,7 @@ The seventeen claims restored here on 2026-10-01 were read against the model on 
 - [A design-based study with 42 undergraduates reported a 15% improvement in rubric alignment and faster correction cycles from proactive agentic feedback loops](../claims/agentic-feedback-42-undergrads-rubric-alignment-gain.md) [+W] — read 2026-10-19: one study reported second-hand in a review, with no comparison condition or effect size given; too thin to set a row.
 - [Automated formative assessment and feedback with AI agents ranks second-highest in impact with moderate perceived challenge](../claims/automated-ai-assessment-high-impact-moderate-challenge.md) [~W] — read 2026-10-19: a Delphi rating of expert expectations, not an observed effect.
 - [Formative assessment shows gains in student self-efficacy and motivation and particular benefits for disadvantaged and low-achieving students](../claims/formative-assessment-self-efficacy-low-achievers.md) [+W] — read 2026-10-19: a handbook chapter citing older studies, with no effect sizes printed; whether the loop narrows achievement gaps has no direct test in the wiki.
+- [POED diagnostic feedback led students to read supplementary materials after incorrect answers and then answer correctly, while POEE students repeated errors](../claims/poed-diagnostic-feedback-drives-supplementary-material-use.md) [+W] — attached 2026-10-29 from Kuan‑Fu Chen et al. (2025), which proposed "Embed misconception diagnosis with targeted feedback in inquiry-based learning rather than answer-only evaluation"; tests this page's relationship.
 
 ## Design Decisions
 <!-- Restored 2026-10-01 with the claims above; written 2026-09-30 for the earlier version of this page, so its decisions predate the conditional model. Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice

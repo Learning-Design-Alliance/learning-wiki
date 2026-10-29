@@ -53,3 +53,4 @@ The umbrella review reports this meta-analysis of 46 correlation matrices on in-
 - [Teachers perceived OUA as useful and easy to use, with positive cognitive evaluations suggesting low academic resistance](teachers-perceive-oua-useful-easy.md) — related
 - [Teachers' expectancy beliefs about successfully using AI applications shape their motivation to use them (theoretical argument).](teacher-expectancy-beliefs-shape-motivation-to-use-ai.md) — related
 - [Students' willingness to accept learning analytics systems is moderately predicted by their attitudes toward data control and sharing](privacy-attitudes-predict-analytics-acceptance.md) — a narrower finding that bears on this claim
+- [Perceived usefulness partially mediates the effect of perceived ease of use on behavioral intention to use m-learning apps](pu-partially-mediates-peou-bi.md) — a narrower finding that bears on this claim

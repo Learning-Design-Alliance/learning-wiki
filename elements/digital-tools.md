@@ -13,7 +13,7 @@ generated:
 # Digital Tools
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 65 claims (35 for, 27 mixed, 3 against) · 61 studies (13 review, 11 causal, 11 associational, 8 design, 7 theoretical, 6 quant-synthesis, 5 qualitative), `q1`–`q4` · 8 of 61 report an effect size · 64 claims rest on one study
+> **Evidence** · 67 claims (36 for, 28 mixed, 3 against) · 63 studies (13 review, 11 causal, 11 associational, 10 design, 7 theoretical, 6 quant-synthesis, 5 qualitative), `q1`–`q4` · 8 of 63 report an effect size · 66 claims rest on one study
 
 ## Description
 Digital tools are the element in which learners use software, platforms, or digital applications to create, collaborate, practice, or receive feedback. They are useful when a tool meaningfully extends what learners can do.
@@ -100,6 +100,8 @@ Digital tools are the element in which learners use software, platforms, or digi
 - [The GenAI-integrated group outperformed controls across course assessment components, with Cohen's d ranging from 0.65 to 0.88, and a higher proportion earning B+ or higher](../claims/genai-group-better-course-performance.md) [+W]
 - [Students in treatment schools used the Core5 digital component for an average of 78.4 minutes per week, with usage varying by grade](../claims/core5-digital-component-usage-patterns.md) [~W]
 - [Generous IT infrastructure in learning studios led to increased digital technology use requiring teacher coordination](../claims/infrastructure-density-increased-digital-use.md) [~W]
+- [Teacher-prescribed tools dominate reading and interacting, while personal tools dominate creative uses](../claims/prescribed-tools-reading-personal-tools-creative.md) [+W]
+- [Teachers' most frequently cited barrier to classroom technology use was lack of access to technology, on both pre- and post-surveys](../claims/technology-access-top-barrier-for-teachers.md) [~W]
 
 ## The evidence by question
 - *Does putting instruction on a digital medium change learning by itself, or only through the method, time and teaching it carries?* [Media comparison studies produce uninterpretable "no significant difference" findings.](../claims/media-comparison-studies-produce-uninterpretable-results.md) [+M]

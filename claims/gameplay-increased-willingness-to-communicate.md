@@ -52,3 +52,4 @@ Interview-based study of five students' willingness to communicate (WTC) in Engl
 - Individual WTC variables (confidence, motivation, perceived performance, anxiety) correlate positively with overall WTC throughout interpersonal audio discussion activities — related
 - [Participation in interpersonal audio discussions produced no statistically significant changes in overall willingness to communicate, though most students reported unchanged or increased WTC](audio-discussions-no-significant-wtc-change.md) — reports the opposite
 - [Lower communication anxiety combined with higher perceived communicative competence is positively correlated with L2 willingness to communicate](anxiety-competence-wtc-correlation.md) — related
+- [A digital board game for genuine communication improved EFL students' learning performance](digital-board-game-efl-performance.md) — related

@@ -55,3 +55,4 @@ The review's synthesis of higher-order thinking outcomes covers seven studies. E
 - [Gen-AI has a moderate positive overall effect on students' higher-order thinking (g = 0.609) across 29 experimental and quasi-experimental studies](genai-moderate-positive-effect-hot.md) — a broader claim this one bears on
 - [AI's key contribution in STEM education is intelligent scaffolding that lowers the threshold for understanding knowledge, driving a shift from knowledge transmission to capability development](ai-intelligent-scaffolding-lowers-knowledge-threshold.md) — a broader claim this one bears on
 - [Computer-based scaffolding shows a consistently positive effect on cognitive outcomes in STEM education](computer-based-scaffolding-positive-cognitive-outcomes-stem.md) — related
+- [The POED-based VR approach improved students' problem-solving tendency more than the POEE-based VR approach](poed-vr-improves-problem-solving-tendency.md) — related

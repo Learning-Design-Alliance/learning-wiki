@@ -123,7 +123,7 @@ sources:
 # Simulations & Immersive Virtual Environments
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 121 claims (48 for, 65 mixed, 8 against) · 86 studies (29 causal, 20 review, 12 quant-synthesis, 9 qualitative, 8 theoretical, 7 design, 1 associational), `q1`–`q4` · 21 of 86 report an effect size · 116 claims rest on one study
+> **Evidence** · 122 claims (48 for, 66 mixed, 8 against) · 87 studies (29 causal, 20 review, 12 quant-synthesis, 10 qualitative, 8 theoretical, 7 design, 1 associational), `q1`–`q4` · 21 of 87 report an effect size · 117 claims rest on one study
 
 ## Conditional relationship
 
@@ -355,6 +355,7 @@ Success inside the simulation, immediate performance outside it, delayed retenti
 - [Students who played iThinkSmart VR mini games reported higher interest in learning CT concepts than students who did not use the educational game](../claims/ithinksmart-vr-higher-learning-interest.md) [~M]
 - [Real-time and dynamic feedback dominate feedback provision in ILEs for psychomotor skills](../claims/ile-psychomotor-feedback-realtime-dynamic-dominance.md) [~W]
 - [HMDs and camera-based systems are the most prevalent ILE technologies for psychomotor training](../claims/ile-psychomotor-technology-trends-hmd-cameras.md) [+W]
+- [VR can replicate fieldwork in the physical sciences but loses embodied presence in Geography, and Geography teachers need discipline-specific capabilities in GIS, remote sensing and UAVs](../claims/geography-vr-fieldwork-limits.md) [~W]
 
 ## Related Principles
 - [Experiential Learning](experiential-learning.md) — simulations provide structured experiences that later reflection can interpret.
@@ -387,6 +388,8 @@ Success inside the simulation, immediate performance outside it, delayed retenti
 - [Integrate model-based supports across pretraining, in-simulation, and post-simulation stages of VR teacher practice](../strategies/integrate-supports-across-vr-simulation-stages.md)
 - [Design VR lessons with structured pre-, during-, and post-experience tasks](../strategies/structured-pre-during-post-vr-tasks.md)
 - [Use immersive VR simulations to let students experience complex scientific phenomena that are hard to experience in everyday life](../strategies/immersive-vr-for-hard-to-experience-phenomena.md)
+- [Deliver a short post-exploration instructional video to complement science simulations](../strategies/short-post-simulation-video-strategy.md)
+- [Use teaching approximations (role play, microteaching) to scaffold pre-service teachers' pedagogical reasoning](../strategies/teaching-approximations-pedagogical-reasoning.md)
 
 ## Key Sources
 - Akcayir, M., & Akcayir, G. (2017). Advantages and challenges associated with augmented reality for education: A systematic review of the literature. *Educational Research Review, 20*, 1-11. [https://doi.org/10.1016/j.edurev.2016.11.002](https://doi.org/10.1016/j.edurev.2016.11.002)

@@ -42,6 +42,7 @@ The editorial closes with a forward-looking scenario: a collaborative intelligen
 - [Virtual Reality Immersive Training](virtual-reality-immersive-training.md)
 - [Virtual Reality Simulations](virtual-reality-simulations.md)
 - [Use mobile game-based learning findings to guide practice and pursue smartphone-enabled virtual reality and design-pedagogy-impact research directions](mgb-practice-and-future-directions.md)
+- [Explore smartphone-enabled virtual reality as a future direction for supporting mobile game-based learning](smartphone-vr-future-direction-mgbl.md)
 
 ## Examples
 -

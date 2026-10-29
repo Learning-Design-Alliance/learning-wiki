@@ -51,3 +51,4 @@ Controlled comparison within the Army basic training evaluation: 14 hours of ins
 - [Live television and television recordings were superior to local instructors in teaching Naval Air Reservists.](tv-instruction-superior-to-local-instructors-naval-reservists.md) — related
 - [Live television and television recordings were about equal in their instructional effectiveness.](live-tv-and-tv-recordings-about-equal-effectiveness.md) — related
 - [Army reservists of all grades made statistically significant gains on information tests after viewing instructional telecasts](reservists-significant-gains-tv-telecasts.md) — related
+- [Using television in army training is feasible, according to the summarized research](tv-feasible-army-training.md) — a broader claim this one bears on

@@ -82,3 +82,6 @@ The chapter reports, citing prior systematic reviews, that the assumption that m
 - [Test type determines realism benefits: realistic detail aids retention as retrieval cues, schematic visuals aid transfer](test-type-moderates-realism-benefits.md) — related
 - [Measures of presence, enjoyment, entitativity, and realism increased over a 10-week networked-VR course, suggesting XRCL advantages may grow as participants adapt](xrcl-advantages-increase-with-adaptation.md) — related
 - [The assumption that observing functioning systems aids understanding was tested by comparing wiring-board manipulation with trainee-drawn schematics](wiring-board-versus-drawn-schematics-comparison.md) — related
+- [Adult learners perceive immersive game-based platforms and interactive AI interfaces as effective mediums for enhancing learner-AI artifact-mediated interaction](immersive-platforms-interactive-interfaces-artifact-mediated.md) — reports the opposite
+- [In an immersive VR dual-task search-and-learning environment, both a pedagogical agent cue and a light cue produced faster search times than no cueing](vr-agent-light-cues-reduce-search-time.md) — related
+- [Neither the pedagogical agent cue nor the light cue improved learning outcomes in the immersive VR dual-task environment](vr-cueing-no-learning-outcome-effect.md) — a narrower finding that bears on this claim

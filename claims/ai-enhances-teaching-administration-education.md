@@ -60,3 +60,5 @@ This is the review's framing statement about the dual scope of AI's influence �
 - [System reconfiguration: breakthroughs reshape relationships among actors, capabilities, and institutional routines](breakthrough-system-reconfiguration-actors-routines.md) — related
 - [Teachers have far more power to shape what happens to students than investors or scouts, partly through their opinions of each child](teachers-shape-student-outcomes-through-opinions.md) — related
 - [Personalization and differentiated instruction are rare in blended learning designs](personalization-limited-blended-designs.md) — reports the opposite
+- [AIED offers opportunities for personalized, efficient online teaching but teachers lack readiness to use it](aied-opportunities-teacher-readiness-gap.md) — related
+- [Four forces place traditional teaching practices under increasing stress, making design-based strategies necessary](four-drivers-stress-traditional-teaching.md) — related

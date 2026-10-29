@@ -49,3 +49,4 @@ Theoretical argument in a response article: the author contends that "heuristics
 - [Nacu, Martin, and Pinkard's heuristic method addresses the questions educators faced during the COVID-19 school closures](nacu-heuristic-method-covid-relevance.md) — related
 - [Nacu et al.'s heuristic method for enabling educator learning-support roles can be utilized during the COVID-19 pandemic](heuristic-method-learner-support-pandemic-use.md) — related
 - [Educator learner-support roles in online education should be fulfilled from a contextual perspective, following Nacu et al.'s (2018) guidelines](learner-support-roles-contextual-perspective.md) — related
+- [Nussbaum and colleagues argue critical thinking and creativity, intersected with grit, are central 21st-century components in online learning design](critical-thinking-creativity-grit-online-design.md) — related

@@ -49,3 +49,4 @@ The review's synthesis of studies on learning during the transition reports that
 - [Several personal background characteristics influence fit during the transition from higher education to the labour market](background-characteristics-influence-fit.md) — related
 - [Fit influences career progress and personal resources during the transition from higher education to the labour market](fit-influences-career-progress-and-personal-resources.md) — related
 - [Employers, educators, and graduates differ in what they perceive has to be learned, yet each group values generic competences most](stakeholders-differ-but-all-value-generic-competences-most.md) — related
+- [Students report significant perceived improvement in the five competencies they consider most relevant to BA graduate employability, including teamwork and foreign language](als-redesign-improves-top-five-employability-competencies.md) — related

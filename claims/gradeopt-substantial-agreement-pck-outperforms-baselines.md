@@ -53,3 +53,4 @@ Secondary analysis of agreed-on human codes from 268 U.S. middle school mathemat
 - [Prior non-LLM automated coding approaches yielded variable and often lower agreement with human coders on teacher knowledge measures, especially PCK](prior-automated-coding-variable-lower-agreement-pck.md) — related
 - [In an AI-guided PD program, rural teachers engaged with mathematical creativity, content knowledge, and PCK as interconnected forms of reasoning rather than isolated domains](ai-guided-pd-integrated-mc-ck-pck-engagement.md) — related
 - [AI systems perform poorly at identifying Shulman CK, PCK and GPK categories in line-by-line coding](ai-poor-shulman-coding-accuracy.md) — reports the opposite
+- [GPT-3 classified students' open-ended responses about teaching practices with reliability similar to that of human coders](gpt3-coding-reliability-similar-to-humans.md) — related

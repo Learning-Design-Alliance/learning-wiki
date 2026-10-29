@@ -60,3 +60,4 @@ Model-fit comparison across the six operational reading data sets using the like
 - [The general polytomous testlet model recovers true item parameters well in simulation, with average correlations of 0.9680, 0.8608, and 0.9982 for discrimination and difficulty parameters](polytomous-testlet-model-good-parameter-recovery.md) — related
 - [Bifactor-(S-1) models of teacher Big Five personality fit student and teacher data better than single-domain or three-facets models](bifactor-s1-teacher-personality-best-fit.md) — related
 - [An instructive reinforcement learning model with a free constant learning rate best explains participants' contingency learning](flri-best-fitting-rl-model.md) — related
+- [Technical digital literacy measured with authentic software applications is not a unidimensional construct; a four-dimensional exploratory MIRT model fits best](dl-authentic-software-four-dimensions.md) — related

@@ -48,3 +48,4 @@ Qualitative theory-driven coding of questionnaire (AIRE), interview and team-int
 ## Related Claims
 - [Specific teamwork challenges hinder development of mutual trust and shared mental models in a hackathon CSCL setting](challenges-hinder-mutual-trust-shared-mental-models.md) — a narrower finding that bears on this claim
 - [Interdisciplinary studio collaboration produced challenges including uneven workloads, vocabulary barriers, and difficulty giving cross-disciplinary feedback](interdisciplinary-collab-challenges-workload-vocabulary-feedback.md) — related
+- [Team spirit motivated slower teams to persist, and the co-located classroom setting revealed the physical, face-to-face nature of teamwork](team-spirit-and-face-to-face-benefits.md) — a narrower finding that bears on this claim

@@ -37,7 +37,8 @@ Following Pica, Kanagy and Falodun (1993), the chapter endorses Pellettieri's (2
 - increasing negotiation of meaning and corrective feedback during task-based interaction
 
 ## Related Strategies
-- 
+
+- [Design learning tasks for educational technologies with possibilities for embodied collaboration in mind](design-tasks-for-embodied-collaboration.md)
 
 ## Examples
 -

@@ -13,7 +13,7 @@ generated:
 # Metacognition
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 146 claims (95 show a difference, 31 mixed, 20 no difference) · 105 studies (42 causal, 18 associational, 14 review, 11 theoretical, 8 qualitative, 7 quant-synthesis, 5 design), `q1`–`q4` · 30 of 105 report an effect size · 145 claims rest on one study
+> **Evidence** · 147 claims (96 show a difference, 31 mixed, 20 no difference) · 106 studies (42 causal, 18 associational, 15 review, 11 theoretical, 8 qualitative, 7 quant-synthesis, 5 design), `q1`–`q4` · 30 of 106 report an effect size · 146 claims rest on one study
 
 ## Description
 Metacognition is knowing about and managing one's own cognition. It has two sides: knowledge (what a learner knows about how they learn, what they do and do not understand, and which strategies suit a task) and regulation (planning an approach, monitoring progress and comprehension, and adjusting when it is not working). It is usually measured by self-report inventories of strategy awareness, by parent and teacher rating scales, and by comparing a learner's confidence judgements with their actual performance (calibration).
@@ -188,6 +188,7 @@ It overlaps heavily with [self-regulation](self-regulation.md), of which monitor
 - [Students with lower prior metacognitive awareness were less likely to sustain use of the tool](../claims/lower-metacognition-less-sustained-tool-use.md) [+M] — learners who differ on it differ in outcomes
 - [Use of the tool correlates positively but inconsistently with gains in metacognitive awareness](../claims/tool-use-correlates-with-metacognitive-gains.md) [~M] — instruction changes it
 - [Working with a detached digital self-explication tool increased metacognitive awareness within the domain-specific group between pre-test and post-test](../claims/self-explication-tool-increases-metacognitive-awareness.md) [+M] — instruction changes it
+- [Metacognitive strategies such as self-monitoring and reflective questioning have been shown to mitigate epistemic uncertainty](../claims/metacognitive-strategies-mitigate-epistemic-uncertainty.md) [+W] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Behavior Rating Inventory of Executive Function (BRIEF)** (Gioia et al., 2000): parent and teacher questionnaires whose metacognition index covers ages 5 to 18.

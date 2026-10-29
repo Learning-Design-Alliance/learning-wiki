@@ -13,7 +13,7 @@ generated:
 # Practice Testing
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 81 claims (37 for, 39 mixed, 5 against) · 53 studies (30 causal, 8 review, 6 quant-synthesis, 5 associational, 2 qualitative, 2 theoretical), `q1`–`q4` · 20 of 53 report an effect size · 77 claims rest on one study
+> **Evidence** · 82 claims (38 for, 39 mixed, 5 against) · 54 studies (30 causal, 9 review, 6 quant-synthesis, 5 associational, 2 qualitative, 2 theoretical), `q1`–`q4` · 20 of 54 report an effect size · 78 claims rest on one study
 
 ## Description
 Practice testing (retrieval practice) asks learners to recall or apply information from memory — via low- or no-stakes quizzes, flashcards, free recall, or problem-solving — before or instead of restudying. The act of successful retrieval itself strengthens memory and reveals gaps, making testing a learning event rather than merely an assessment event.
@@ -132,6 +132,7 @@ Retrieval practice produces substantially larger and more durable learning gains
 - [In paired-associate learning, interim testing about doubles recall of new face-name and foreign-translation pairs relative to a distractor control](../claims/forward-testing-paired-associates.md) [+W]
 - [Greater engagement in repeated quiz-taking predicts more conservative downward shifts in students' metacognitive judgments during learning](../claims/repeated-quizzing-shifts-judgments-conservatively.md) [~W]
 - [High SRL students run significantly fewer tests than Medium or Low SRL students](../claims/high-srl-students-fewer-tests.md) [-W]
+- [Practice testing outperforms no-activity controls and restudy, with format and feedback moderators](../claims/practice-testing-superior-to-restudy.md) [+W]
 
 ## The evidence by question
 - *Does retrieving material (quizzes, practice tests, recall) improve later retention more than restudying it?* [Retrieval practice improves long-term retention](../claims/retrieval-practice-improves-retention.md) [+S]

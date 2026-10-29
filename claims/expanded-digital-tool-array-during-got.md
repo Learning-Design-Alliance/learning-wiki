@@ -47,3 +47,4 @@ In the results section on the pedagogical application of digital technologies, t
 ## Related Claims
 - [Chilean teachers teaching online during COVID-19 deepened course design understanding and developed empathetic dispositions toward students](chilean-teachers-online-teaching-lessons.md) — a broader claim this one bears on
 - [Teachers controlled instructional content in large virtual classes by creating interactive environments through questioning, student presentations and out-of-class discussions, and by using learner-centred methods such as breakout rooms, flipped classroom and case study techniques](large-virtual-class-instructional-content-control.md) — related
+- [Device shapes tool use: Instagram and WhatsApp on phones, creation tools on laptops and tablets, and limited laptop use on public transport](device-shapes-tool-use-across-spaces.md) — related

@@ -92,11 +92,13 @@ Problem scenarios support learning by giving knowledge a purpose and a context o
 - [Problem-Based Learning](../patterns/problem-based-learning.md)
 
 ## Examples
+
 - **[Harvard Business School case method](https://www.hbs.edu/mba/academic-experience/coursework/Pages/the-case-method.aspx)** — students receive a business dilemma, must decide on a course of action before class, and defend it in discussion; a hybrid of scenario and case
 - **[Jasper Woodbury Problem Solving Series](https://peabody.vanderbilt.edu/research/learning-technology-center/jasper-project/)** — video-anchored mathematical problem scenarios requiring extended, data-driven solution planning
 - **[Maastricht University Problem-Based Learning](https://www.maastrichtuniversity.nl/education/problem-based-learning)** — a seven-step scenario-driven tutorial process used across the entire curriculum
 - **[CapsimInbox](https://www.capsim.com)** — simulated business scenarios where learners make sequential management decisions and receive performance feedback
 - A realistic case introduction that frames the decisions learners will need to make.
+- [Design problem-based, inquiry-based, and case-based learning tasks in which uncertainty is anticipated and supported](../strategies/design-tasks-anticipating-uncertainty.md)
 
 ## Key Sources
 - Barrows, H. S. (1986). A taxonomy of problem-based learning methods. *Medical Education, 20*(6), 481–486. [doi:10.1111/j.1365-2923.1986.tb01386.x](https://doi.org/10.1111/j.1365-2923.1986.tb01386.x)

@@ -56,3 +56,4 @@ Descriptive statistics (means and SDs) from the study's survey of 47 graduate st
 - [Faculty members rate equality, inclusiveness, and justice highest and institutional support lowest, with adequacy of institutional guidelines the lowest-rated item](faculty-survey-ethical-ai-profile-institutional-support-lowest.md) — related
 - [GAI is rated highly effective for supporting cognitive presence by 85.71% of surveyed marketing educators](gai-rated-highly-effective-cognitive-presence.md) — related
 - In an online course, student performance can be examined in relationship to measures of student interaction and sense of presence using multiple independent and dependent variables. — related
+- [Students in higher SRL profiles perceive significantly higher teaching, social, and cognitive presence than students in lower SRL profiles](higher-srl-profiles-higher-coi-perceptions.md) — related

@@ -60,3 +60,5 @@ Latent profile analysis was applied to action-control belief scales (agency beli
 - [Three distinct racial-mathematical identity profiles emerge among Black adolescents and are robust across two time points one year apart](three-racial-mathematical-identity-profiles-lpa.md) — related
 - [Data-driven clustering of struggling learners identifies behavioral subgroups distinguished by structural brain connectivity](clustering-subgroups-struggling-learners.md) — related
 - [Cluster analysis of medical students' emotions after diagnostic tasks reveals three distinct emotion clusters](three-emotion-clusters-diagnostic-tasks.md) — related
+- [Latent profile analysis of 750 online undergraduates identifies five distinct SRL profiles, including a qualitatively distinct low-regulators-with-limited-social-skills profile](five-srl-profiles-online-math-course.md) — related
+- [K-means clustering of LMS log data identified two distinct SRL profiles (high and low) among online students](two-srl-profiles-from-lms-log-clustering.md) — related

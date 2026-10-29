@@ -79,3 +79,4 @@ A textbook chapter by a co-author of the *Survey of Instructional Design Models*
 - [Two main sources of data exist for evaluating teaching methods: measurements of current practices and measurements of specifically controlled practices](two-sources-of-method-evaluation-data.md) — related
 - [No systematic evaluation exists of the ICAP hypothesis that engagement modes are ordered I > C > A > P in effectiveness](no-systematic-evaluation-icap-hierarchy.md) — a narrower finding that bears on this claim
 - [Standard empirical review criteria are not relevant to theoretical scholarship and may lead reviewers to reject it](empirical-review-criteria-misfit-theoretical-papers.md) — related
+- [Empirical research on university teachers' habitual design practices is sparse; interview studies show design thought shaped by beliefs and pragmatic constraints](sparse-research-teacher-design-practices.md) — related

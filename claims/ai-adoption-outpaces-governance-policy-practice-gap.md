@@ -71,3 +71,4 @@ Cross-study finding from the review's Theme 3 synthesis, attributed to Bates et 
 - [Students report gaps in AI training and awareness of institutional AI policies despite widespread adoption](ai-training-and-policy-awareness-gaps-students.md) — a narrower finding that bears on this claim
 - [No framework, guidelines, policies or regulations have been devised to address the specific ethical issues raised by the use of AI in education](no-aied-ethics-framework-or-policy.md) — related
 - [AI ethics principles alone do not enforce regulation, per the article's review of implementation evidence](ethics-principles-alone-insufficient.md) — related
+- [Four essential conditions for sound and effective use of learning analytics were agreed by experts in a Delphi study](four-conditions-sound-learning-analytics.md) — related

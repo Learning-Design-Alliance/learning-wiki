@@ -49,3 +49,4 @@ The editorial summarizes Kazemitabar, Lajoie and Li's qualitative theory-driven 
 - [Interacting repeatedly across convenings built trust that enabled districts to give and receive critiques of one another's plans](repeated-convenings-trust-enables-critique.md) — related
 - [Constructive conflict positively predicts the development of a shared mental model of the task in teams](constructive-conflict-builds-shared-mental-models.md) — related
 - [Co-construction alone does not contribute to shared mental model development and shows a negative unique effect](co-construction-alone-hinders-shared-mental-models.md) — related
+- [Team spirit motivated slower teams to persist, and the co-located classroom setting revealed the physical, face-to-face nature of teamwork](team-spirit-and-face-to-face-benefits.md) — a narrower finding that bears on this claim

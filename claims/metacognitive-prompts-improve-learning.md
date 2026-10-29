@@ -154,3 +154,5 @@ A systematic review of 35 studies of approaches to support self-regulated learni
 - [Computer-based metacognitive scaffolding shows limited evidence of long-term retention or transfer of the scaffolded skills](limited-evidence-long-term-metacognitive-retention.md) — related
 - [Metacognition and critical-thinking tutors show mixed results: Operation ARA gained 1.4 σ, SEEK showed no significant improvement, and MetaTutor's learning-efficiency advantage disappeared when agent time was counted](metacognition-tutoring-mixed-outcomes.md) — related
 - [Metacognitive scaffolding outperforms conceptual scaffolding alone in online learning environments](metacognitive-scaffolding-outperforms-conceptual.md) — related
+- [Metacognitive strategies such as self-monitoring and reflective questioning have been shown to mitigate epistemic uncertainty](metacognitive-strategies-mitigate-epistemic-uncertainty.md) — a narrower finding that bears on this claim
+- [Self-explanation prompts placed before instruction are more effective than those embedded during or placed after instruction](self-explanation-prompts-before-instruction-most-effective.md) — related

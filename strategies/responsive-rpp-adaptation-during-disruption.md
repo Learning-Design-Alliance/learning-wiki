@@ -56,6 +56,7 @@ A research-practice partnership (RPP) can respond to a crisis or sudden disrupti
 - [Review the evaluation plan and possibilities for further research when funding is restored](roads-to-success-further-research-if-funding-restored.md)
 - [RPP researchers can support practitioner partners through concrete non-research supports such as fundraising support, edtech procurement, and building a lesson database](rpp-non-research-support-strategies.md)
 - [Design participation deliberately: align entry points with partners' actual readiness rather than assuming a uniform baseline](design-participation-entry-points-match-readiness.md)
+- [Rapid-response essay model: situate recently published research in an urgent context via invited commentary papers](rapid-response-essay-model-crisis-research.md)
 
 ## Examples
 - A Boston early-childhood RPP paused longitudinal data collection to rapidly survey teachers' and parents' pandemic experiences; a Houston research-practice partnership with a decade of prior relationship was able to quickly turn around student-needs dashboards for its district because trust and context knowledge were already in place.

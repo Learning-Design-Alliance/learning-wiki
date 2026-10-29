@@ -48,3 +48,4 @@ Macro cycle two retrospective analysis drawing on international faculty feedback
 - [Participant feedback in macro cycle one prompted renaming the Administrator standard to Coordinator and reordering the standards](administrator-renamed-coordinator-feedback.md) — related
 - [Design-based research with 114 participants across two macro cycles produced and refined the faculty technology standards](dbr-two-macro-cycles-114-participants-standards.md) — a broader claim this one bears on
 - [An international expert workshop gap analysis identified five dimensions of gaps impeding integration of research evidence into classroom practice](workshop-gap-analysis-five-gap-dimensions.md) — related
+- [Adoption of Wikipedia assignments shows a global digital divide, concentrated in English-speaking countries](wikipedia-assignments-global-digital-divide.md) — related

@@ -51,3 +51,4 @@ The article's literature review, citing Winne (2020), argues that self-report me
 - [Trace data can capture the temporal progress of regulation as learners engage in learning tasks over time](trace-data-capture-temporal-regulation.md) — related
 - [Existing SLA emotion research methods cannot capture the dynamic nature of emotions in language learning situations](sla-emotion-methods-cannot-capture-dynamics.md) — related
 - [Overconfidence in self-assessment is especially concerning in online learning environments where limited external feedback widens gaps between perceived and actual performance](online-learning-exacerbates-calibration-discrepancy.md) — related
+- [Integrating behavioral trace data with outcomes and self-report reveals feedback effects that perception and performance measures alone miss](behavioral-data-essential-for-feedback-evaluation.md) — a narrower finding that bears on this claim

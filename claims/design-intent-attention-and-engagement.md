@@ -68,3 +68,4 @@ Second RQ3 theme from the same interview corpus: participants fostered engagemen
 - [Users rate chatbots easy to use with clear, relevant, largely accurate responses, but the intrusive pop-up design is the largest annoyance](chatbot-ux-clear-relevant-popup-annoyance.md) — related
 - [The genAI tool's integration into each student team was an intentional pedagogical technique targeting factors contributing to groupthink in rapidly formed teams](genai-integration-intentional-pedagogical-technique.md) — related
 - [Instructional designers embed four types of interaction in online courses: simulations, visuals, navigation elements, and game-like elements](four-types-interaction-online-courses.md) — related
+- [Twenty online courses cluster into four quadrants of individual participation and interactivity derived from posting-activity indicators](courses-four-quadrants-participation-interactivity.md) — related

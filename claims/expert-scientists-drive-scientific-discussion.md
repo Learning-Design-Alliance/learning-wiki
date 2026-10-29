@@ -71,3 +71,4 @@ A homophily (E-I index) analysis coding students by whether they co-contributed 
 - [Higher overall participation was not associated with scientific engagement, but co-contribution with expert scientists was](participation-level-not-related-scientific-engagement.md) — related
 - [A worked network example shows diffusion-based centralities capturing uptake and argumentation more accurately than traditional centrality measures](worked-example-diffusion-captures-uptake.md) — related
 - [Teacher-scientist pairs in school citizen science are both motivated largely by educating students, with scientists showing only lesser utilitarian data-collection motives](scientists-motivated-by-educating-students-in-ccs.md) — related
+- [The posting-activity null model reproduces learner degree but is not sufficient to explain clustering in communication networks](posting-null-model-degree-not-clustering.md) — related

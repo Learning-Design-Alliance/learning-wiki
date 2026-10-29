@@ -56,3 +56,4 @@ The meta-analysis of 56 investigations reports that "Segmentation also reduces t
 - [Segmentation Benefits Shrink With Expertise](segmentation-benefits-shrink-with-expertise.md) — related
 - [Multimedia design interventions yield small average improvements in cognitive load management (g = 0.22), with personalisation and modality showing the largest effects](design-principles-improve-cognitive-load-management.md) — related
 - [Signaling (cueing) increases learning and reduces cognitive load in multimedia](signaling-improves-learning.md) — related
+- [Segmenting online multimedia lessons into short user-paced segments improves transfer and reduces cognitive load](segmenting-improves-transfer-and-reduces-load.md) — a broader claim this one bears on

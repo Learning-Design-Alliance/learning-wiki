@@ -133,3 +133,4 @@ Human-LLM agreement for self-efficacy across configurations. Non-mini models out
 - [Multi-label classification of open-ended course feedback was challenging even for expert human annotators who developed the label set, with average inter-rater Jaccard similarity of 81.24%](multi-label-survey-classification-challenging-expert-annotators.md) — related
 - [Card sorting of GenAI-brainstormed concepts showed best agreement for the Refreshing Stimulus category and under-70% agreement for some concepts](genai-card-sorting-concept-agreement.md) — related
 - [LLMs prompted with diverse strategies can analyze educational survey feedback and generate corrective tutor feedback at or above expert human performance in specific scenarios](llm-prompting-human-level-educational-feedback.md) — reports the opposite
+- [GenAI feedback aligned more reliably with LA-based ground-truth SRL data than tutor feedback](genai-feedback-reliability-vs-la-ground-truth.md) — related

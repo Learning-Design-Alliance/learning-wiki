@@ -86,6 +86,7 @@ Application is where learning consolidates: retrieval and use of knowledge in co
 
 **[Project Lead The Way](https://www.pltw.org)** — K-12 engineering curriculum built around design challenges where students apply STEM concepts to build and test artifacts.
 - [Vocational education programs should let trainees experience and reflect on authentic errors, e.g. via error management training and negative knowledge-diaries](../strategies/error-management-training-negative-knowledge-diaries.md)
+- [Design problem-based, inquiry-based, and case-based learning tasks in which uncertainty is anticipated and supported](../strategies/design-tasks-anticipating-uncertainty.md)
 
 ## Key Sources
 - Merrill, M. D. (2002). First principles of instruction. *Educational Technology Research and Development, 50*(3), 43–59. [doi:10.1007/BF02505024](https://doi.org/10.1007/BF02505024)

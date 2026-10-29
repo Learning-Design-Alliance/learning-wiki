@@ -50,3 +50,4 @@ Case-study analysis of a video-recorded teaching episode (task 5T6, October 15, 
 - [The anticipation of where to stop the unit-rate count remained inconsistent and prompt-dependent across subsequent episodes with harder numbers](mdc-stop-anticipation-remains-prompt-dependent.md) — related
 - A teacher's prompting that oriented a student's reflection on his own tracking methods fostered monitoring of his goal-directed counting activity — related
 - [Spontaneous break-apart-make-ten strategy use is associated with stronger multiplicative double-counting reasoning](spontaneous-additive-strategy-relates-to-multiplicative-reasoning.md) — related
+- [Instructor questioning combined with the AR app's virtual rows and columns supported students' shift to multiplicative reasoning](social-technological-scaffolding-synergy-area-reasoning.md) — related

@@ -13,7 +13,7 @@ generated:
 # Access
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 80 claims (56 show a difference, 18 mixed, 6 no difference) · 58 studies (27 associational, 8 review, 6 theoretical, 5 causal, 5 qualitative, 5 design, 2 quant-synthesis), `q1`–`q4` · 4 of 58 report an effect size · 76 claims rest on one study
+> **Evidence** · 82 claims (57 show a difference, 19 mixed, 6 no difference) · 60 studies (27 associational, 8 review, 7 qualitative, 6 theoretical, 5 causal, 5 design, 2 quant-synthesis), `q1`–`q4` · 4 of 60 report an effect size · 78 claims rest on one study
 
 ## Description
 Whether a learner can perceive and operate the material at all: device, bandwidth, screen reader, captions, motor demands. Distinct from [digital literacy](digital-literacy.md), which is whether they can *drive* it. Access is binary in a way the other dimensions are not — a design that cannot be perceived does not teach less, it teaches nothing — which is why it is checked rather than optimised.
@@ -124,6 +124,8 @@ Whether a learner can perceive and operate the material at all: device, bandwidt
 - [Assistive technology use is reported as successful in increasing the inclusion and accessibility of students with disabilities](../claims/at-increases-inclusion-accessibility-disabilities.md) [+M] — instruction changes it
 - [ICT-enabled learning improves schoolgirls' access to resources, knowledge, and skills](../claims/ict-improves-girls-access-resources.md) [+M] — instruction changes it
 - [The COVID-19 shift to digital revealed inequality in access to education caused by technology access and online delivery that may not address student voice](../claims/pandemic-revealed-inequality-in-access-to-education.md) [+W] — instruction changes it
+- [Digital technology broadens inclusion in Critical Indigenous Studies by connecting remote communities and knowledge holders, but can exclude those lacking technology access](../claims/cis-digital-inclusion-dilemma.md) [~M] — learners who differ on it differ in outcomes
+- [Technological prerequisites such as internet access and device availability were identified only by the South African panel, with equity of education as a distal outcome](../claims/technological-prerequisites-south-african-panel-equity.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 

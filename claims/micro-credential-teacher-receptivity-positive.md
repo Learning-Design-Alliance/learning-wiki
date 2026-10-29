@@ -52,3 +52,4 @@ Survey of participating teachers (Figure 2 reports n=49) in the five-district Ch
 - [Collaborative planning time with colleagues was the top support cited by teachers earning micro-credentials, cited by 74 percent of respondents](collaborative-planning-time-top-micro-credential-support.md) — related
 - [Micro-credentials incorporate prominent features of effective professional development: they are content-focused, job-embedded, and incorporate active learning](micro-credentials-features-of-effective-professional-development.md) — a broader claim this one bears on
 - [Teachers evaluated the PD moderately positively, and about three-quarters reported actually using what they learned in their mathematics lessons](teacher-evaluation-pd-uptake.md) — related
+- [The MICRO online PD significantly increased teachers' confidence that they could integrate computing into their classrooms (g = 0.72)](micro-pd-increased-teacher-integration-confidence.md) — related

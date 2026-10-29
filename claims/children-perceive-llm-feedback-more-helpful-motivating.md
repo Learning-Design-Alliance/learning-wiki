@@ -49,3 +49,4 @@ Within-participant comparisons of single-item 4-point ratings collected after ea
 - [Children's plan quality improves substantially after receiving LLM-generated adaptive feedback](plan-quality-improves-after-llm-adaptive-feedback.md) — related
 - [Plan quality improves more after LLM-generated adaptive feedback than after high-quality generic guidance](adaptive-feedback-beats-generic-guidance-plan-quality.md) — related
 - [Test-takers rate LLM-generated feedback as persuasive and useful as human instructor feedback (Wilcoxon signed-rank tests show no significant difference)](llm-feedback-rated-equal-to-human-feedback.md) — related
+- [Students perceived personalized and generic feedback messages as equally helpful and motivating](equal-perceptions-personalized-generic-feedback.md) — reports the opposite

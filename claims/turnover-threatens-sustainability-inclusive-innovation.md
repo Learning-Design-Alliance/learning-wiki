@@ -55,3 +55,4 @@ Interview study of district-community team members reflecting on the semester af
 - Design-based research is criticized for focusing on individual projects without guidance on long-term viability of innovations — a broader claim this one bears on
 - [Applying the adapted CTA framework in the discharge pilot uncovered previously unknown stakeholders and barriers](cta-application-revealed-hidden-process-knowledge.md) — related
 - [Thematic analysis of teacher interviews identifies barriers to implementation and factors for success](mast-implementation-barriers-success-factors.md) — related
+- [Leadership support and stakeholder connectivity support sustainability of innovations](leadership-connectivity-support-sustainability.md) — related

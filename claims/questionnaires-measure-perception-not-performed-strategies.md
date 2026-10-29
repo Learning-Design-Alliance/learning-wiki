@@ -60,3 +60,5 @@ The editorial's methodological-considerations section states this validity chall
 - [Traditional self-report methods face significant limitations in capturing the dynamic nature of SRL](self-report-srl-limitations-dynamic-nature.md) — possibly the same claim (merge candidate)
 - [Self-reported instruments measure AI self-efficacy (perceptions) rather than AI literacy abilities, so both should be included in comprehensive assessment](self-report-measures-self-efficacy-not-literacy.md) — possibly the same claim (merge candidate)
 - [Students' perceptions of the tool's impact on learning were partly consistent with their self-reported metacognitive gains and logged tool use](perceived-impact-partly-corroborated-by-gains.md) — related
+- [Findings are limited by perception-based self-report measures and a single online context, requiring further research on generalizability](als-employability-study-limitations-perception-single-context.md) — related
+- [Integrating behavioral trace data with outcomes and self-report reveals feedback effects that perception and performance measures alone miss](behavioral-data-essential-for-feedback-evaluation.md) — related

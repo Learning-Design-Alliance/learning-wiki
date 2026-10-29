@@ -58,3 +58,4 @@ Cluster analysis of 400 artworks using HCPC (PCA, Ward's linkage, k-means refine
 - [Hierarchical clustering of CDM attainment probabilities identifies five learner groups with distinct patterns of professional standards attainment](five-learner-profiles-standards-attainment.md) — related
 - [Unsupervised clustering of individual learning curves identifies seven distinct learner profiles whose proportions shift with target geometry](seven-learner-profiles-soft-dtw-clustering.md) — related
 - [A K-means clustering of students based on pre- and post-project SDG knowledge identifies three distinct learning profiles, with the largest cluster showing the greatest knowledge gain.](k-means-three-sgc-learning-clusters.md) — related
+- [K-means clustering of LMS log data identified two distinct SRL profiles (high and low) among online students](two-srl-profiles-from-lms-log-clustering.md) — related

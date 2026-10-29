@@ -13,7 +13,7 @@ generated:
 # Learning Analytics-Driven Feedback
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 82 claims (29 for, 38 mixed, 15 against) · 69 studies (22 review, 19 associational, 9 theoretical, 7 qualitative, 6 causal, 6 design), `q1`–`q3` · 4 of 69 report an effect size · 79 claims rest on one study
+> **Evidence** · 87 claims (30 for, 42 mixed, 15 against) · 72 studies (22 review, 19 associational, 9 theoretical, 8 qualitative, 7 causal, 7 design), `q1`–`q3` · 4 of 72 report an effect size · 84 claims rest on one study
 
 ## Description
 In face-to-face instruction, a teacher can visually notice disengagement or confusion; a distance instructor cannot, and many learners fail to recognize their own need for help or fail to seek it even when it is available ([Baker & Inventado, 2016](https://edtechbooks.org/lidtfoundations/educational_data_mining_and_learning_analytics)). Educational data mining (EDM) and learning analytics (LA) address this by mining the large amounts of interaction data online and distance courses generate — content-management, discussion-forum, gradebook, and clickstream data — to build models that predict which learners are at risk and to surface feedback that would otherwise depend on an instructor noticing in person.
@@ -128,6 +128,11 @@ These models feed three uses that benefit learners directly: **automated feedbac
 - [Dashboard visualisation benefits learners of different motivation and achievement levels, but high academic achievers report lower satisfaction with dashboards](../claims/dashboard-benefits-achiever-satisfaction-mixed.md) [~W]
 - [Learning analytics interventions for study success include alerts enabling teachers to give more individual attention, peer-to-peer communication facilitation, and recommendations for adaptive learning materials](../claims/la-interventions-alerts-peer-adaptive.md) [+W]
 - [In one reviewed study, no explicit teacher actions followed from about a quarter of dashboard consultations](../claims/quarter-dashboard-consultations-no-action.md) [~W]
+- [LA-based personalized feedback increased the proportion of students attempting practice problems during the intervention phase compared to generic messages](../claims/la-personalized-feedback-increased-practice-attempt-proportion.md) [+W] — attached 2026-10-29 from Jae-Eun Russell et al. (2026), which proposed "Excel-based if/then template system for generating personalized feedback emails from learning analytics data"; tests this page's relationship.
+- [Personalized feedback produced no measurable differences in exam scores, final course grades, or D/F rates compared to generic messages](../claims/no-performance-gains-personalized-feedback.md) [~W] — attached 2026-10-29 from Jae-Eun Russell et al. (2026), which proposed "Excel-based if/then template system for generating personalized feedback emails from learning analytics data"; tests this page's relationship.
+- [Teachers reported the tool shifted their practice toward goal-oriented teaching and dashboard-informed adjustment, but increased planning workload and instructional time](../claims/assessmake21-teacher-practice-shift-and-workload.md) [~W]
+- [Scalability of the MLADs across municipalities was limited by differing educational data sources, varied LMS platforms, and differing teacher familiarity with data-driven dashboards](../claims/mlad-scalability-limited-by-municipal-data-lms-variation.md) [~W]
+- [Students perceived personalized and generic feedback messages as equally helpful and motivating](../claims/equal-perceptions-personalized-generic-feedback.md) [~W]
 
 ## The evidence by question
 

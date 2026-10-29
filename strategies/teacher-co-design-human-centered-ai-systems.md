@@ -47,6 +47,7 @@ The reflections panel recommends human-centered AI in learning: 'Empower and inv
 - [Implement educational chatbots with human-centred design, explicit AI policies, training, curated knowledge bases and continuous monitoring](chatbot-implementation-recommendations.md)
 - [Involve domain experts throughout the AI safety evaluation pipeline, especially for defining unsafe content](domain-experts-throughout-child-safety-evaluation.md)
 - [Safeguard student privacy in learning analytics by involving students in tool creation, building contextualized explainable configurable analytics, and empowering student agency](three-trends-safeguarding-student-privacy-analytics.md)
+- [Human–AI collaboration design positioning students as leaders who assess AI-generated options](human-ai-collaboration-learner-as-leader.md)
 
 ## Examples
 -

@@ -69,3 +69,4 @@ Same Model 3 analysis; contrary to H3b, "neither confusion nor anxiety or anger 
 ## Related Claims
 - [Making high-confidence errors about educational misconceptions intensifies preservice teachers' surprise, curiosity, confusion, and achievement-related anger](high-confidence-errors-intensify-epistemic-emotions-and-anger.md) — related
 - [Without feedback, people are more curious about high-confidence errors than about equally high-confidence correct answers, replicated across experiments](no-feedback-high-confidence-errors-more-curiosity.md) — related
+- [POED diagnostic feedback led students to read supplementary materials after incorrect answers and then answer correctly, while POEE students repeated errors](poed-diagnostic-feedback-drives-supplementary-material-use.md) — related

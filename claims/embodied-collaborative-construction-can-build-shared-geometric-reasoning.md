@@ -79,3 +79,5 @@ This is a single case study of four graduate students already trained in embodie
 - [Even adults learning substantially new content often need at least partial materialization with supports like orienting charts](materialization-needed-for-adult-novel-learning.md) — related
 - [Sensorimotor action supports learning when it makes concept-relevant relations easier to process](action-helps-when-concept-relevant-relations-easier.md) — related
 - [Perceptual tasks dominate the Harrow proficiency levels supported by existing ITS, with physical activities and non-discursive communication rare](harrow-tasks-perceptual-dominance.md) — related
+- [Instructor questioning combined with the AR app's virtual rows and columns supported students' shift to multiplicative reasoning](social-technological-scaffolding-synergy-area-reasoning.md) — related
+- [In the motion capture game The Hidden Village, pose creation spurred gesturally embodied argumentation expressed more in gesture than in precise mathematical speech](thv-gesturally-embodied-argumentation.md) — a narrower finding that bears on this claim

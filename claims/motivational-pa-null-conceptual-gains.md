@@ -50,3 +50,4 @@ A between-groups classroom comparison of 49 9th- and 10th-grade students in the 
 - [Prior knowledge significantly predicted algebra posttest scores and learning gains, with high-prior-knowledge students scoring higher and low-prior-knowledge students gaining more](prior-knowledge-moderates-algebra-outcomes.md) — related
 - [Objective learning gains did not differ significantly by condition in the primary ANCOVA, but KBD showed a significant positive effect on learning gains in exploratory regressions accounting for learner covariates](kbd-objective-learning-gains-ancova-null-exploratory-positive.md) — related
 - [SDT-based online unit significantly increased competence in online Algebra 2 students](sdt-based-online-unit-increased-competence.md) — related
+- [GraphoGame exposure showed no significant effect on arithmetic (ZAT-M) scores, consistent with the expectation of no Hawthorne effect](graphogame-no-effect-arithmetic.md) — related

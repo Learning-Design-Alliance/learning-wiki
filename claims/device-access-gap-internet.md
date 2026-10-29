@@ -68,3 +68,5 @@ Descriptive survey of technology capacities in New York charter schools immediat
 - [Roughly 30% of U.S. k-12 students lacked high-speed internet or adequate devices for digital learning at home before the pandemic, with disparities by income and race](thirty-percent-students-lacked-internet-or-devices-2018.md) — a broader claim this one bears on
 - [Mobile devices served as the primary tool for learners and teachers during the emergent remote teaching process of the pandemic](mobile-devices-primary-tool-emergent-remote-teaching.md) — related
 - [OLSit model lacks replications and evidence for students with underdeveloped self-regulation](olsit-replication-and-population-gaps.md) — related
+- [Digital technology broadens inclusion in Critical Indigenous Studies by connecting remote communities and knowledge holders, but can exclude those lacking technology access](cis-digital-inclusion-dilemma.md) — related
+- [Technological prerequisites such as internet access and device availability were identified only by the South African panel, with equity of education as a distal outcome](technological-prerequisites-south-african-panel-equity.md) — related

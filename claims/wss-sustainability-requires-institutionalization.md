@@ -67,3 +67,5 @@ Authors' interpretation in the Interpretive Summary section, not a tested result
 - [Practitioner engagement initiatives reflected buy-in rather than ownership because leadership developed ideas and decisions before seeking context-expert input](seernet-initiatives-buy-in-not-ownership.md) — related
 - [Development of collaborative classrooms and effective CSCL curriculum is a multi-year, multi-iteration process requiring sustained institutional commitment](cscl-teacher-development-multi-year-multi-iteration.md) — related
 - [Teachers perceived the co-design process as beneficial for collaboration, ownership, professional development, and material quality](teachers-positive-perception-codesign-ai-materials.md) — related
+- [Leadership commitment to adaptive learning was identified by both panels as a prerequisite, strengthened by strategy alignment and communication of empirical results](leadership-commitment-prerequisite-implementation.md) — related
+- [Leadership support and stakeholder connectivity support sustainability of innovations](leadership-connectivity-support-sustainability.md) — related

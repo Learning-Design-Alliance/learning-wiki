@@ -66,3 +66,4 @@ Analysis of pilot rubric scores from three expert world history teachers who sco
 - Expert validation shows high inter-expert reliability (Gwet's AC1 .96 overall) and high expert-cluster agreement (ARI .97, NMI .95) for the general education categorization — related
 - [Teachers find World History Project overwhelming in their initial adoption year and make substantial modifications across three main categories](whp-first-year-overwhelm-and-modifications.md) — related
 - [In Study 2, inter-rater agreement for rating creative problem solving ideas was good to excellent across indicators](cps-idea-ratings-good-excellent-interrater-agreement.md) — related
+- [The proposed coding scheme achieves high inter-rater reliability across design object, design move, and communication move dimensions](coding-scheme-inter-rater-reliability.md) — related

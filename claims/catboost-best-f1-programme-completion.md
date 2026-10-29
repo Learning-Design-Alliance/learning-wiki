@@ -49,3 +49,4 @@ Empirical model comparison (Step 3) on a real-world dataset of 14918 data points
 - [Random forest algorithms yielded the best classification performance in K–8 MMLA studies comparing multiple machine learning models](mmla-k8-random-forest-best-performance.md) — reports the opposite
 - [A random forest classified flagged versus non-flagged word problems with the best accuracy of five tested models (AUC = 0.75)](random-forest-best-auc-flagged-problems.md) — reports the opposite
 - [A support vector machine classifier outperformed decision tree and random forest models in predicting cognitive engagement levels of online discussion posts](svm-outperforms-dt-rf-cognitive-engagement-prediction.md) — reports the opposite
+- [A Random Forest Classifier embedded in the MLADs achieved an F1-score of 0.82 and AUC of 0.89 for course-completion-risk alerts under five-fold cross-validation](random-forest-early-alert-f1-082-auc-089.md) — related

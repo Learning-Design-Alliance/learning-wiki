@@ -48,6 +48,7 @@ The editorial describes two forward-looking practitioner and researcher directio
 - [Build a repository of cross-platform, customizable, pedagogically evaluated game-based learning applications to support educators](repository-pedagogically-evaluated-gbl-apps.md)
 - [Use advanced immersive learning technologies as research and learning tools to deliver developmentally-appropriate metacognitive scaffolding](immersive-tech-metacognitive-scaffolding-strategy.md)
 - [Pursue new research avenues on motivation that serve both the field and practitioners](motivation-research-avenues-serving-field-and-practitioners.md)
+- [Explore smartphone-enabled virtual reality as a future direction for supporting mobile game-based learning](smartphone-vr-future-direction-mgbl.md)
 
 ## Examples
 -

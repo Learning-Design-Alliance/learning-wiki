@@ -80,3 +80,4 @@ Human inter-rater reliability measured with Fleiss' κ among three researchers c
 - [Kappa agreement with human experts shows a system is neither much worse nor much better than experts, but not that experts are a desirable comparison basis](kappa-expert-agreement-limits.md) — related
 - [An automated scoring engine matched experienced human markers yet was rejected over the confidentiality-explainability conflict](crase-scoring-equivalent-to-human-markers-rejected.md) — related
 - [The review's corpus comprises 39 peer-reviewed articles selected via a PRISMA protocol with substantial screening agreement](ile-psychomotor-review-corpus-39-articles-prisma.md) — related
+- [The proposed coding scheme achieves high inter-rater reliability across design object, design move, and communication move dimensions](coding-scheme-inter-rater-reliability.md) — related

@@ -68,3 +68,4 @@ Descriptive participation rates from the same log analysis; the article separate
 - [Collaborative features of Lab4CE saw very little use in the exploratory study](lab4ce-collaboration-low-usage.md) — related
 - [Participation in Bazaar synchronous chat sessions is associated with roughly a 50 percent lower risk of dropout in an edX MOOC](chat-participation-halves-dropout-risk.md) — related
 - [In-class chat engagement significantly predicts higher test scores in MAIC courses](chat-engagement-predicts-test-scores.md) — related
+- [Courses without pre-defined forum tasks or assessment-driven activity had forums with low posting activity](no-task-courses-low-posting-activity.md) — related

@@ -51,7 +51,8 @@ The review recommends that instructors and course designers attend to agency acr
 - [Dispositions such as openness and shared responsibility are shaped by conditions, not fixed individual traits](../claims/dispositions-shaped-by-conditions.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Build university design capacity and help students become self-managing participants in enacting designs for learning](build-design-capacity-and-student-co-configuration.md)
 
 ## Examples
 -

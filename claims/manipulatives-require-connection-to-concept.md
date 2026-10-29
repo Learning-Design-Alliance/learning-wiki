@@ -168,3 +168,4 @@ Open questions: how much guidance is optimal (over-guidance may trigger its own 
 - [Students transferred abstract area concepts to concrete app examples, cultivating mathematical thinking](abstract-area-to-concrete-app-examples.md) — related
 - [The simple reverse-engineering approach to aligning products with Science of Learning principles risks false positives and a narrow perspective on learning](reverse-engineering-alignment-false-positives.md) — related
 - [The assumption that observing functioning systems aids understanding was tested by comparing wiring-board manipulation with trainee-drawn schematics](wiring-board-versus-drawn-schematics-comparison.md) — a narrower finding that bears on this claim
+- [Instructor questioning combined with the AR app's virtual rows and columns supported students' shift to multiplicative reasoning](social-technological-scaffolding-synergy-area-reasoning.md) — a narrower finding that bears on this claim

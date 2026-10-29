@@ -54,3 +54,5 @@ The introduction's summary of the Huang, Walkington, and Nathan study reports th
 - [Multi-modal representations created during collaboration act as metaphors that shape joint reasoning and meaning making](multimodal-representations-as-metaphors-joint-reasoning.md) — related
 - [Manipulating objects during learning improves comprehension, and virtual manipulation can be as effective as physical manipulation](object-manipulation-improves-comprehension.md) — related
 - [Physically or imaginatively manipulating objects during reading improves children's reading comprehension](moved-by-reading-object-manipulation-comprehension.md) — related
+- [In shared holographic AR, scale, positioning of the representation, and body positioning emerged as important design considerations](shar-scale-body-positioning-design.md) — a narrower finding that bears on this claim
+- [In shared VR, teacher-learners showed a recurring multimodal sequence of discussion before embodied action on virtual objects](vr-discussion-before-embodied-action.md) — related

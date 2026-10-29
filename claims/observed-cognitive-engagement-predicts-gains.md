@@ -68,3 +68,4 @@ Hierarchical linear regressions in the intervention group. Observed cognitive en
 - [A 6-week GraphoLearn intervention produced faster word-reading development in second-grade struggling readers than school-provided support alone](gl-faster-word-reading-development.md) — related
 - [Within the GL group, word-reading and spelling gains were larger during the intervention than during the follow-up period](gl-gains-intervention-vs-followup.md) — related
 - [Training location (home, school, or both) did not affect GL learning gains](training-place-no-effect-gains.md) — related
+- [The GraphoGame effect on decoding was greatest when both students and teachers played the game](graphogame-teacher-plus-student-exposure-greatest.md) — related

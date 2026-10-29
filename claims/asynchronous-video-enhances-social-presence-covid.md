@@ -57,3 +57,5 @@ The article attributes to Lowenthal et al. (2020) the report that "asynchronous 
 - [Student engagement in online courses is associated with satisfaction, motivation, reduced isolation, and improved performance](engagement-benefits-satisfaction-motivation-isolation-performance.md) — a broader claim this one bears on
 - [A student-led small-group discussion assessment sustained online participation and produced denser peer interaction than a standard teacher-led discussion board](student-led-discussion-task-sustains-online-participation.md) — related
 - [Changes in presence over the two videos interacted with major: Early Childhood major for emotional connectivity and STEM focus for awareness of self](major-interactions-presence-change.md) — related
+- [Despite video feedback's benefits, instructors and students might prefer text-based feedback](instructors-students-might-prefer-text-feedback.md) — reports the opposite
+- [Research has shown that video feedback can help increase conversational and affective communication](video-feedback-increases-conversational-affective-communication.md) — related

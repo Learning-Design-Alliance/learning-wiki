@@ -76,3 +76,4 @@ Thematic-analysis finding on role expansion: participants questioned the legitim
 - [Authoring a team tutor requires at least three new ITS modules beyond those of an individual tutor: a team-skills expert model, a team-capable pedagogical model, and a team model, plus a learner model per member](team-tutor-requires-three-new-modules.md) — related
 - [K-12 students need competencies for effective human-AI teaming in future workplaces](k12-competencies-human-ai-teaming.md) — related
 - [Effects of pedagogical debate on students' viewpoints differ between scientific and socio-scientific domains](debate-viewpoint-change-domain-differentiated.md) — related
+- [AI tools show limitations in translating predictions into practical sustainability advice and envisioning values](ai-limitations-prediction-to-advice-values.md) — related

@@ -50,3 +50,4 @@ Spearman correlation analysis of survey data from 47 graduate students in the on
 - [In an online case-based course, students perceive cognitive presence as highest and least variable, and teaching presence as the most variable, among the CoI presences and metacognition dimensions](cognitive-presence-highest-least-variable-online-cbi.md) — related
 - The five passage attributes are significantly intercorrelated, with imagery, interest, and linkage highly correlated — related
 - [Social presence shows the strongest association with metacognition in an online case-based course, while teaching presence shows no significant relationship](social-presence-strongest-metacognition-association-cbi.md) — related
+- [SRL sub-constructs correlate substantially with all three CoI presences, and a seven-factor OSLQ model fits better than the original six-factor model](srl-coi-correlations-seven-factor-oslq.md) — related

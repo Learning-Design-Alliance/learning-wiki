@@ -59,3 +59,4 @@ Across the 33-study corpus, population sizes ranged from n = 10 to n = 1,511 (me
 - [Motor skills learning systems published outside the AIED community show very limited personalization support](motor-skills-systems-outside-aied-limited-personalization.md) — related
 - [Recent ITS research shows a strong WEIRD bias, with approximately 75% of papers having a first author in a Western, Educated, Industrialized, Rich, Democratic country](its-research-weird-bias-75-percent.md) — related
 - [ITS authoring tool research is concentrated in academic settings, and 45.45% of included papers conducted empirical studies while illustrative scenarios were the most common method](its-authoring-research-mostly-academic-nonempirical.md) — related
+- [Adoption of Wikipedia assignments shows a global digital divide, concentrated in English-speaking countries](wikipedia-assignments-global-digital-divide.md) — related

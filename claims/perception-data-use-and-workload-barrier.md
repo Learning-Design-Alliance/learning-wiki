@@ -71,3 +71,4 @@ From the same interview findings on structural challenges to teacher data use: t
 - [AI integration shifted staff roles from direct instruction to facilitation and increased workload](ai-integration-shifted-staff-roles-facilitation.md) — related
 - [An equity and personalization focus led teachers to apply elements of formative assessment without extensive formal training](equity-focus-drives-formative-assessment.md) — related
 - [Teachers perceived the AIED-U system as a mixed experience: valued exercise lists and reports, but recognition imprecision and workflow demands added work](teachers-mixed-perception-aied-u-system.md) — related
+- [Much of teachers' work beyond visible teaching sessions remains unrecognised in workload allocation and formal evaluation](invisible-teaching-labour-unrecognised-workload-models.md) — related

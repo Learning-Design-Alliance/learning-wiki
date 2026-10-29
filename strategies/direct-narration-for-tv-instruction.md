@@ -44,6 +44,7 @@ The article's findings suggest that when producing television instruction, direc
 
 - [Plan television instruction with psycho-educational experts, skilled production staff, and adequate technical resources.](tv-instruction-production-planning-requirements.md)
 - [Supplement TV demonstrations with a printed bulletin or similar printed matter](printed-bulletin-supplement-to-tv-demonstrations.md)
+- [Instructors on television should speak at a deliberate rate and use deliberate movements](deliberate-speech-and-movement-on-tv.md)
 
 ## Examples
 -

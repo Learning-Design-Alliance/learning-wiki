@@ -17,7 +17,7 @@ sources:
 # Ecological Paradigm of Interdisciplinary Learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 8 claims (6 for, 2 mixed) · 8 studies (3 qualitative, 2 causal, 2 theoretical, 1 review), `q1`–`q2` · 1 of 8 report an effect size · 8 claims rest on one study
+> **Evidence** · 9 claims (7 for, 2 mixed) · 9 studies (4 qualitative, 2 causal, 2 theoretical, 1 review), `q1`–`q2` · 1 of 9 report an effect size · 9 claims rest on one study
 
 ## Description
 The ecological paradigm contrasts with the field's dominant **cognitivist paradigm** of interdisciplinary learning (IDL) research, in which success is measured by an individual's cognitive integration of disciplinary insights (groundedness, integration, reflectiveness — Boix Mansilla & Duraisingh's three dimensions). The ecological paradigm instead studies IDL as a **group-level, socio-material process**: learners are treated as agents who interact with peers, artifacts, communities, institutions, and — depending on the activity — the natural environment, and success is measured by the interdisciplinary *practices* a group develops (epistemic practices, identity development, authentic research productivity), not only by what settles in an individual mind afterward.
@@ -51,6 +51,7 @@ This paradigm organizes design guidance around three recurring dilemmas, each wi
 - [The editorial reports that successful collaborative making teams resolved coordination challenges through intertwined social-discursive and materially mediated processes](../claims/making-team-success-coordination-entanglement.md) [+W]
 - [Patterns of emergent leadership differed across disciplinary content areas, with some students leading in math but not history](../claims/leadership-patterns-vary-across-content-areas.md) [+W]
 - [The three major theories of artifact-people interaction operate at different levels: affordances individual, structuration societal, instrumental genesis small-group](../claims/three-theories-artifact-levels-comparison.md) [~W]
+- [Team leadership in the game emerged as shared and shifting, distributed to whoever held the needed information or first solved the task](../claims/shared-shifting-team-leadership-game.md) [+W]
 
 ## The evidence by question
 

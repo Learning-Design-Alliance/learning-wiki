@@ -50,3 +50,4 @@ In the 2x2 between-subjects experiment, 177 high school students learned a pipet
 - [Visuo-motor synchrony manipulation produced the largest effects on body ownership, while visual asynchrony was the most influential negative manipulation on agency](visuo-motor-synchrony-body-ownership-agency.md) — related
 - [Middle-school students taking a virtual field trip via a 3D HMD report higher presence than students taking the same trip as a 2D video](hmd-virtual-field-trip-higher-presence-than-2d-video.md) — related
 - [High-immersion VR produced a significantly higher sense of presence than video instruction, with a large effect size](vr-higher-presence-than-video.md) — related
+- [VR can replicate fieldwork in the physical sciences but loses embodied presence in Geography, and Geography teachers need discipline-specific capabilities in GIS, remote sensing and UAVs](geography-vr-fieldwork-limits.md) — reports the opposite

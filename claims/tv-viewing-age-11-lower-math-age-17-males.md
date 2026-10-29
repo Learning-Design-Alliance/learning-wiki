@@ -51,3 +51,4 @@ Negative binomial regression of Millennium Cohort Study data, stratified by sex,
 - [Internet use at age 11 showed a positive adjusted association with mathematics ability at age 17 in females, though unadjusted correlations were null](internet-use-age-11-higher-math-age-17-females.md) — related
 - [Internalizing problems at age 14 mediate the association between leisure reading at age 11 and mathematics ability at age 17 among males](internalizing-problems-mediate-reading-math-males.md) — related
 - [Girls show less confidence and interest in math and science from early adolescence, and a strong math/science self-concept predicts course choice and performance for both genders](girls-confidence-interest-gap-self-concept-predicts-choices.md) — related
+- [A 1950-1954 survey found declining TV viewing time among high-school pupils and widespread perceptions that pupils read less](tv-viewing-habits-survey-1950-1954.md) — related

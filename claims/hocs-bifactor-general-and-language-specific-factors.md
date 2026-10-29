@@ -55,3 +55,4 @@ CFA of inference, theory of mind, and comprehension monitoring tasks in English 
 - [A common underlying proficiency exists for print knowledge, and it accounted for more variance than for phonological awareness, contrary to the authors' hypothesis](common-underlying-proficiency-print-knowledge.md) — related
 - [No common underlying proficiency emerges for oral language: bifactor models of expressive and definitional vocabulary did not converge](no-common-underlying-proficiency-oral-language.md) — related
 - [Bifactor-ESEM shows the highest fit among CFA, ESEM, bifactor-CFA and bifactor-ESEM models, supporting AITAQS as one general factor plus four specific dimensions.](aitaqs-bifactor-esem-best-fit.md) — a narrower finding that bears on this claim
+- [Only about 62% of the reliable variance in total DL scores is attributable to the general dimension, supporting a multidimensional interpretation](dl-general-dimension-62-percent-reliable-variance.md) — related

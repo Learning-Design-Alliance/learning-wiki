@@ -54,3 +54,4 @@ RQ1 synthesis of Table 4, summarising 36% of the review's studies, maps technolo
 - [Faculty members and students identify both user-related and algorithm-related ethical risks in AI use in education](user-and-algorithm-related-ethical-risks-ai-education.md) — related
 - [AI integration in online learning raises interconnected challenges of academic integrity, equity and bias, ethics and privacy, and institutional policy gaps](ai-online-learning-challenges-integrity-equity-privacy-policy.md) — related
 - [Willis et al. (2016) identify four common ethical issues in internal student data usage across three institutions](four-common-ethical-issues-student-data-usage.md) — related
+- [Using AIED poses technical, ethical and trust challenges for teachers](aied-challenges-technical-ethical.md) — related

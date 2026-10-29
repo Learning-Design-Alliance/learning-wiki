@@ -134,3 +134,6 @@ A public-domain ERIC digest from 2000, drawn from Ellsworth's book *Surviving Ch
 - [Failures of education technology implementations are attributed to social, psychological, and cultural issues rather than technical shortcomings](edtech-failures-social-psychological-cultural.md) — a narrower finding that bears on this claim
 - [A key factor in the slow adoption of adaptive learning environments is the inherent complexity of developing them, particularly the modeling component](adaptive-adoption-slow-modeling-complexity.md) — a narrower finding that bears on this claim
 - [Sustained large-scale systemic change in education is rare, with few success stories such as Head Start](large-scale-systemic-change-rare.md) — related
+- [Australian case: classroom observation data collection was sustainable and scalable, but resulting changes in teachers' technology integration were not scaled](australia-observation-data-sustainable-practice-change-not-scaled.md) — related
+- [Transformation of curriculum and traditional courses is an important prerequisite for scaled implementation, requiring substantial resources and support](curriculum-redesign-prerequisite-resources.md) — a narrower finding that bears on this claim
+- [Leadership support and stakeholder connectivity support sustainability of innovations](leadership-connectivity-support-sustainability.md) — related

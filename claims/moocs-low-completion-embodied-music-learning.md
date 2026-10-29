@@ -69,3 +69,4 @@ The article's review of online platforms reports MOOC "completion rates are noto
 - [Viewing of the personalized AI videos declined sharply across the quarter, with views of the first week-9 video set suggesting fewer than 10% of the course population was watching voluntarily by the end of the course](video-views-declined-across-quarter.md) — a narrower finding that bears on this claim
 - [The UDMOOC reaches a learner demographic unlike typical MOOC cohorts, with a 42% completion rate](udmooc-reaches-underserved-demographics-42-percent-completion.md) — a narrower finding that bears on this claim
 - [The 2007 open course design allowed anyone to participate and prefigured the first MOOC](open-course-design-prefigured-moocs.md) — related
+- [The free, self-paced micro-courses showed an 82% completion retention rate, and most participants found the online, asynchronous format appealing](micro-courses-high-retention-and-format-appeal.md) — reports the opposite

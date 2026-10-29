@@ -47,3 +47,5 @@ The experiment's empirical results, as summarized in the abstract, indicate the 
 ## Related Claims
 - [Students perceive peer assessment-based game development as fostering deep learning in in-depth thinking, creativity and motivation](peer-assessment-game-development-fosters-deep-learning-perceptions.md) — related
 - [A peer assessment-based game development approach promotes elementary students' learning achievement, learning motivation and problem-solving skills more than conventional game development](peer-assessment-game-development-improves-achievement-motivation-problem-solving.md) — related
+- [A peer assessment-based game development approach improved elementary science students' deep learning status in in-depth thinking, creativity and motivation](peer-assessment-game-deep-learning-gains.md) — related
+- [A two-tier test-based migratory bird identification game outperformed conventional e-learning on motivation, achievement and technology acceptance](two-tier-test-game-beats-e-learning.md) — related

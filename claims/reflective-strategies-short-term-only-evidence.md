@@ -52,3 +52,4 @@ Theoretical argument in the introduction of this position paper, citing prior em
 - [One-session checklist (CRAAP) instruction in source evaluation did no better than the alternative methods it was compared with in two quasi-experiments](checklist-evaluation-ineffective-online.md) — related
 - [Evidence suggests over-reliance on generative AI may negatively affect students' self-regulated learning behaviors, potentially harming retention and transfer to novel contexts](genai-overreliance-harms-self-regulated-learning.md) — related
 - [AI training for pre-service primary teachers is predominantly short-term interventions embedded within existing courses rather than standalone AI courses](ai-training-short-term-embedded-existing-courses.md) — related
+- [Metacognitive strategies such as self-monitoring and reflective questioning have been shown to mitigate epistemic uncertainty](metacognitive-strategies-mitigate-epistemic-uncertainty.md) — related

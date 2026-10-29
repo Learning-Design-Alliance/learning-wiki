@@ -27,7 +27,7 @@ sources:
 # Personalization
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 97 claims (53 for, 36 mixed, 8 against) · 100 studies (31 review, 23 causal, 13 theoretical, 10 associational, 9 qualitative, 9 design, 5 quant-synthesis), `q1`–`q4` · 8 of 100 report an effect size · 92 claims rest on one study
+> **Evidence** · 98 claims (54 for, 36 mixed, 8 against) · 101 studies (31 review, 23 causal, 13 theoretical, 10 associational, 10 qualitative, 9 design, 5 quant-synthesis), `q1`–`q4` · 8 of 101 report an effect size · 93 claims rest on one study
 
 ## Conditional relationship
 
@@ -176,6 +176,7 @@ Claims this page cited that were re-read against the model (on 2026-10-15, and a
 - [Log data from Next-TELL OLM use in three schools showed differences in visualisation usage among learners and teachers](../claims/next-tell-log-data-visualisation-usage-differences.md) [+W] — attached 2026-10-28 from Susan Bull et al. (2016), which proposed "Offering a choice of learner model visualisations to suit purpose, competency-set size and user preference".
 - [Consistent student models reduce learning problems and raise average performance, supporting reuse of student models across courses](../claims/consistent-model-improves-performance.md) [+W] — attached 2026-10-28 from Fabiano Dorça (2015), which proposed "Reuse consistent student models across courses and platforms to improve adaptation from the start"; tests this page's relationship.
 - [Guidance tools in CoSIL increased ease of use but failed to personalize support to individual students, as reported by the reviewed literature](../claims/cosil-guidance-ease-of-use-not-personalized.md) [-W] — attached 2026-10-29 from Zhai (2021), which proposed "Personalize CoSIL guidance to individual students, because guidance is critical to student success in computer-supported inquiry learning".
+- [Online feedback is valued by introverted learners for its relational and expressive role, providing a private one-to-one exchange that avoids face-threat](../claims/online-feedback-relational-role-introverted-learners.md) [+W] — attached 2026-10-29 from Ding et al. (2019), which proposed "Adapt feedback modes and strategies to learners' cultural, educational and personality differences rather than assuming one strategy fits all".
 
 ## Objective and learner-valued goal
 
