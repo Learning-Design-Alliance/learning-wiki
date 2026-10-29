@@ -56,3 +56,4 @@ Analytical derivation under CTT (equations 1.13–1.15) expressing the point-bis
 - [Learned difficulty parameters show a moderate positive correlation with empirical KC difficulty on QATD2k](learned-difficulty-correlates-empirical-difficulty.md) — related
 - [Intra-testlet items were slightly more difficult than stand-alone questions (p′ = 0.69 ± 0.15 vs 0.75 ± 0.15)](intra-testlet-items-slightly-more-difficult.md) — related
 - [Point-biserial correlation analysis detects anomalous constraints in CBM problem solving data](pbc-detects-anomalous-constraints.md) — related
+- [Classical item analysis found the CTCK test relatively difficult and led to exclusion of items 6, 10 and 17](ctck-item-difficulty-discrimination-exclusions.md) — related

@@ -13,7 +13,7 @@ generated:
 # Gamification
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 47 claims (23 for, 22 mixed, 2 against) · 48 studies (18 causal, 13 quant-synthesis, 10 review, 3 associational, 2 design, 2 theoretical), `q1`–`q4` · 14 of 48 report an effect size · 39 claims rest on one study
+> **Evidence** · 50 claims (26 for, 22 mixed, 2 against) · 49 studies (19 causal, 13 quant-synthesis, 10 review, 3 associational, 2 design, 2 theoretical), `q1`–`q4` · 15 of 49 report an effect size · 42 claims rest on one study
 
 ## Conditional relationship
 
@@ -213,6 +213,9 @@ The expectation should weaken if controlled comparisons of the same practice wit
 - [Competition increases time spent answering questions but not reading time or in-game accuracy](../claims/competition-response-time-accuracy-null.md) [~W]
 - [Path analysis supports an indirect path from competition through motivation and in-game accuracy to post-test scores](../claims/path-analysis-competition-motivation-accuracy.md) [+W]
 - [On a relative leaderboard, course engagement does not differ significantly across position levels](../claims/relative-leaderboard-no-engagement-difference.md) [~M]
+- [Commitment to and behaviour towards learning is better after a gamified exergaming intervention than after traditional PE teaching](../claims/gamified-exergaming-better-commitment-behaviour-learning.md) [+W]
+- [A gamified exergaming intervention improves the time transformation and autotelic experience flow dimensions, but not overall dispositional flow](../claims/gamified-exergaming-flow-dimensions-time-transformation-autotelic.md) [+W]
+- [Rhythmic motor skill academic performance is better after a gamified exergaming intervention than after traditional PE teaching](../claims/gamified-exergaming-better-rhythmic-motor-skill.md) [+W]
 
 ## Related Principles
 - [Autonomy](autonomy.md) — gamification works when it expands meaningful choice, not when it controls learners through rewards

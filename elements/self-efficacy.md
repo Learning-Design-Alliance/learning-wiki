@@ -13,7 +13,7 @@ generated:
 # Self Efficacy
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 92 claims (53 for, 36 mixed, 3 against) · 78 studies (35 associational, 18 causal, 15 review, 5 quant-synthesis, 4 design, 1 qualitative), `q1`–`q4` · 24 of 78 report an effect size · 87 claims rest on one study
+> **Evidence** · 93 claims (54 for, 36 mixed, 3 against) · 79 studies (36 associational, 18 causal, 15 review, 5 quant-synthesis, 4 design, 1 qualitative), `q1`–`q4` · 24 of 79 report an effect size · 88 claims rest on one study
 
 ## Description
 Self efficacy is a learner's belief in their capability to succeed at a specific task or domain, not a general sense of self-worth. It functions as a proximal driver of learning: learners with higher efficacy set more ambitious goals, persist longer through difficulty, and recover faster from failure [Bandura, 1997]. Because it is domain-specific and malleable, it is a design target rather than a fixed learner trait.
@@ -140,6 +140,7 @@ Instructional design shapes self efficacy primarily through the four sources Ban
 - [A DL professional development course improved teachers' DL teaching practices and DL self-efficacy but had no effect on their self-innovativeness](../claims/pd-course-improves-practices-not-innovativeness.md) [+W]
 - [Self-efficacy and attitudes towards technology integration predicted positive experiences in online distance teaching, jointly explaining 52% of variance.](../claims/efficacy-attitudes-predict-positive-online-teaching-experiences.md) [~W]
 - [Self-efficacy, but not attitudes towards technology, predicted negative experiences, explaining 23% of variance; openness to change and school support predicted neither outcome.](../claims/self-efficacy-predicts-negative-online-teaching-experiences.md) [~W]
+- [Evaluation of layperson videos is predicted by self-efficacy, personal justification, respect for others' viewpoint, and negatively by age](../claims/layperson-video-evaluation-disposition-predictors.md) [+W]
 
 ## The evidence by question
 

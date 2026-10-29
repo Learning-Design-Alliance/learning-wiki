@@ -52,3 +52,4 @@ Multilevel analyses of PISA 2012 (480,174 students, 65 countries) and PISA 2015 
 - [Academic anxiety mediates between one-tenth and one-fifth of the social class test gap across social class indicators, anxiety forms, and school domains](anxiety-mediation-social-class-test-gap.md) — related
 - [National income inequality strengthens the economically based social class test gap (family economic capital)](income-inequality-strengthens-economically-based-gap.md) — a narrower finding that bears on this claim
 - [National income inequality weakens the culturally based social class test gap (parental education, cultural capital)](income-inequality-weakens-culturally-based-gap.md) — related
+- [Home computer access, linguistic capital, socioeconomic status, and years of computer experience are the most important factors in Chilean 10th graders' digital skills test performance](hlm-factors-chilean-digital-skills.md) — related

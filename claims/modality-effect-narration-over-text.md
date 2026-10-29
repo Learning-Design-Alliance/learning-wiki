@@ -222,3 +222,4 @@ Open questions include how the effect interacts with learner control over pacing
 - [Direct TV narration appeared to be the most effective method of presentation.](direct-tv-narration-most-effective-presentation-method.md) — a narrower finding that bears on this claim
 - [Animation outperforms static pictures for learning about a biological process with spoken narration](animation-outperforms-static-pictures-photosynthesis.md) — related
 - [System-paced multimedia learning environments with spoken narration yield higher learning outcomes than self-paced ones](system-pacing-beats-self-pacing-with-narration.md) — related
+- [Learner pacing is a proposed moderator that may explain the absence of a split-attention effect in visually-based mobile learning](self-pacing-may-moderate-split-attention-in-mobile-learning.md) — related

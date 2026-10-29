@@ -137,3 +137,5 @@ A public-domain ERIC digest from 2000, drawn from Ellsworth's book *Surviving Ch
 - [Australian case: classroom observation data collection was sustainable and scalable, but resulting changes in teachers' technology integration were not scaled](australia-observation-data-sustainable-practice-change-not-scaled.md) — related
 - [Transformation of curriculum and traditional courses is an important prerequisite for scaled implementation, requiring substantial resources and support](curriculum-redesign-prerequisite-resources.md) — a narrower finding that bears on this claim
 - [Leadership support and stakeholder connectivity support sustainability of innovations](leadership-connectivity-support-sustainability.md) — related
+- [Empirical evidence surrounding innovative technology-enhanced-learning practices in K-12 education is at best patchy](k12-innovative-tel-evidence-patchy.md) — related
+- [Most studies of mobile pedagogies in K-12 schools report low to medium innovation, with only a small minority showing radically innovative, disruptive practices](slr-mobile-pedagogies-low-medium-innovation-most-studies.md) — related

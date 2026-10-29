@@ -24,7 +24,8 @@ The GMSM is a preliminary theoretical and operational framework for characterizi
 ### Claims
 
 ## Related Research Methods
--
+
+- [Ten-dimension framework characterizing mobile-assisted seamless learning](ten-dimension-framework-characterizing-mobile-assisted-seamless-learning.md)
 
 ## Key Sources
 - Manuela Macedonia, Lihui Hu, Brian Mathias. (2026). Why Some Gestures Work Better than Others: Toward a Model of Gesture-Supported Vocabulary Learning. Educational Psychology Review. https://doi.org/10.1007/s10648-026-10222-8

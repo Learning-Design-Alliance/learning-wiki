@@ -64,3 +64,4 @@ The editorial reports that Csanadi et al. analyzed one dataset with both epistem
 - [ENA contrasting-cases analysis shows high- and low-effectiveness studies differ significantly in their design-element and intention networks](ena-contrasting-cases-cognitive-he-le-differ.md) — related
 - [Multimodal data collection is increasingly common but analyses rarely align data streams temporally](rare-alignment-of-multimodal-data-streams.md) — related
 - [Counts of specific tool-use events (WorkTime, Command, Compile, Editor, Profiler, IDE) correlate positively and significantly with final course grade](tool-use-events-correlate-with-final-grade.md) — related
+- [Combining Epistemic Network Analysis with deep qualitative ethnographies improves understanding of complex socioemotional phenomena in learning communities](combining-ena-with-qualitative-ethnography.md) — related

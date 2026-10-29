@@ -51,3 +51,4 @@ Table 2 shows sentence length as broad focus in nine LREs and connecting clauses
 - [Lexical LREs dominate grammar-related LREs in young learners' L2 writing noticing](lexical-lres-dominate-grammar-lres-l2-writing.md) — related
 - [Learners resolve grammar-related noticing with intuition, reasoning, rephrasing and explicit rules rather than external resources](grammar-lres-solved-with-own-resources-not-external.md) — related
 - [Mean sentence length indicates both insecure and secure full-stop use, with roughly 12 to 16 words per sentence the aim for mature narrative writing](mean-sentence-length-indicates-full-stop-use.md) — related
+- [Reflecting on vocabulary and sentence revision during the composing stage temporarily degraded children's use of full stops and basic connectives](composing-stage-reflection-degrades-punctuation.md) — related

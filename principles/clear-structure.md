@@ -31,7 +31,7 @@ sources:
 # Clear Structure
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 33 claims (23 for, 10 mixed) · 36 studies (12 causal, 7 quant-synthesis, 7 review, 6 qualitative, 4 theoretical), `q1`–`q4` · 8 of 36 report an effect size · 24 claims rest on one study
+> **Evidence** · 34 claims (23 for, 11 mixed) · 37 studies (12 causal, 7 quant-synthesis, 7 review, 6 qualitative, 4 theoretical, 1 associational), `q1`–`q4` · 9 of 37 report an effect size · 25 claims rest on one study
 
 ## Conditional relationship
 
@@ -127,6 +127,7 @@ A gain on an immediate test, a change in what is recalled, delayed retention, tr
 - [Structural signals show no consistent recall benefits but can aid deeper understanding measured by problem-solving tests](../claims/structural-signals-aid-problem-solving-not-recall.md) [~W]
 - [Orienting charts can be learned with unusual ease and without deliberate memorization while performing learning tasks](../claims/orienting-charts-ease-of-learning.md) [~W]
 - [DHH students' feedback suggests the signaling principle may be a valuable design consideration](../claims/dhh-signaling-principle-valuable.md) [+W]
+- [Greater use of the navigation map is associated with less relevant searching in a hypermedia learning task](../claims/map-use-negative-search-correlation.md) [~W]
 
 ## Related Principles
 

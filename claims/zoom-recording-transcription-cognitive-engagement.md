@@ -51,3 +51,4 @@ Content analysis of essays and modality reflections in the RQ3 findings; the art
 - [Most remote courses used both synchronous and asynchronous delivery mechanisms](remote-courses-mixed-synchronous-asynchronous-delivery.md) — a broader claim this one bears on
 - [Students reported that long recorded lectures impeded focus, and one student appreciated an instructor's choice to break lectures into shorter videos](long-recorded-lectures-impeded-focus.md) — related
 - [Recorded lectures are a controversial accessibility strategy: faculty cite decimated attendance and poorer grades, while acknowledging benefits for some student groups](recorded-lectures-controversial-accessibility-strategy.md) — related
+- [All UDL-guided elements were used voluntarily, supporting the inference that offering several UDL-guided elements in a web-based platform diversifies learning opportunities and supports self-regulated learning](udl-elements-used-voluntarily.md) — related

@@ -53,3 +53,4 @@ Within-subjects experiment (26 dyads); t-test on feedback uptake, operationalize
 - [Revision after chatbot feedback predominantly results in successful uptake, indicating effective error correction](penny-feedback-successful-uptake.md) — related
 - Tutors' feedback uptake did not differ significantly between automated and learner feedback — related
 - [Proactive feedback produces significant post-intervention increases in Joint Visual Attention of dyads](propact-feedback-increases-jva-post-intervention.md) — related
+- [Feedback containing concrete suggestions is significantly related to successful uptake of peer feedback in higher education](concrete-suggestions-linked-successful-uptake-peer-feedback.md) — related

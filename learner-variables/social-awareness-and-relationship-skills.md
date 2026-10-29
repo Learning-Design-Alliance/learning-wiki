@@ -13,7 +13,7 @@ generated:
 # Social Awareness and Relationship Skills
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 133 claims (87 show a difference, 30 mixed, 16 no difference) · 96 studies (27 review, 24 associational, 18 causal, 13 quant-synthesis, 5 qualitative, 5 design, 4 theoretical), `q1`–`q4` · 27 of 96 report an effect size · 129 claims rest on one study
+> **Evidence** · 135 claims (88 show a difference, 31 mixed, 16 no difference) · 97 studies (27 review, 25 associational, 18 causal, 13 quant-synthesis, 5 qualitative, 5 design, 4 theoretical), `q1`–`q4` · 28 of 97 report an effect size · 131 claims rest on one study
 
 ## Description
 Social awareness is the ability to take another person's perspective, read their feelings and understand the social norms of a setting; relationship skills are the ability to make and keep positive relationships, cooperate, communicate clearly and handle conflict. They are usually measured by parent, teacher and self-report rating scales of social-emotional competence, and by self-report scales of empathy and of how well a learner feels they fit in.
@@ -174,6 +174,8 @@ The page overlaps with [emotional intelligence](emotional-intelligence.md), whic
 - [Emotion regulation, utilization of social resources and objective social support showed no significant improvement under any pedagogy, and Lego did not differ significantly from other approaches, in middle school children](../claims/sce-interventions-null-domains-and-limits.md) [-W] — instruction changes it
 - [In middle school children, VR-assisted SCE produced significantly greater gains than traditional classroom learning in general social competence and nonverbal sending skills (Study 2)](../claims/vr-beats-traditional-classroom-social-competence-middle-school.md) [+M] — instruction changes it
 - [VR-assisted and Lego social competence education both increased rural elementary children's social competence over eight sessions (Study 1), with no significant difference between the two approaches](../claims/vr-and-lego-sce-increase-elementary-social-competence.md) [+M] — instruction changes it
+- [Social e-competency positively predicts habitual digital behaviors, invariantly across gender and age groups](../claims/social-e-competency-positive-predictor.md) [+W] — learners who differ on it differ in outcomes
+- [Socio-emotional e-competencies relate negatively to habitual digital behaviors, except social e-competency which relates positively and emotional e-awareness which shows no relation](../claims/e-competencies-negative-relation-habitual-digital-behaviors.md) [~M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Devereux Student Strengths Assessment (DESSA)** (LeBuffe, Naglieri & Shapiro, 2012): parent or teacher rating of social-emotional competencies, including social awareness and relationship skills, from kindergarten to grade 8, with a short screening form (DESSA-mini).

@@ -81,3 +81,4 @@ The review reports, citing Frederiksen et al. (2020) in surgical training, that 
 - [Immersive presentation keeps comprehension performance stable across a training session while auditory-only performance decreases toward the end](immersive-training-comprehension-stability.md) — a narrower finding that bears on this claim
 - [High-immersion VR produced significantly higher enjoyment than video instruction, with a medium effect size](vr-higher-enjoyment-than-video.md) — a narrower finding that bears on this claim
 - [VR and video instruction groups reported comparable cognitive load in the anatomy lesson](vr-video-comparable-cognitive-load.md) — related
+- [Qualitative data offer a plausible explanation for the virtual group's higher enjoyment and engagement despite equivalent learning outcomes](qualitative-data-explain-svw-appeal.md) — related

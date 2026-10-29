@@ -53,3 +53,4 @@ Narrative review describing a teacher-researcher study (Min 2006) in which a sam
 - [Providing peer feedback can be more beneficial than receiving it because it is more cognitively engaging](providing-peer-feedback-more-cognitively-engaging.md) — related
 - [The Synthesizer is expected to support uptake and action planning compared with unsynthesized feedback](synthesizer-expected-support-uptake-action-planning.md) — related
 - [Students' application of teacher support predicts accurate answers in small-group work](student-uptake-of-support-predicts-small-group-answer-accuracy.md) — related
+- [Feedback containing concrete suggestions is significantly related to successful uptake of peer feedback in higher education](concrete-suggestions-linked-successful-uptake-peer-feedback.md) — related

@@ -36,7 +36,7 @@ sources:
 # Validity, Reliability, and Bias in Classroom Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 314 claims (132 for, 159 mixed, 23 against) · 238 studies (91 associational, 61 design, 31 review, 25 theoretical, 21 causal, 6 quant-synthesis, 3 qualitative), `q1`–`q3` · 20 of 238 report an effect size · 307 claims rest on one study
+> **Evidence** · 315 claims (133 for, 159 mixed, 23 against) · 239 studies (91 associational, 61 design, 31 review, 25 theoretical, 22 causal, 6 quant-synthesis, 3 qualitative), `q1`–`q3` · 20 of 239 report an effect size · 308 claims rest on one study
 
 ## Conditional relationship
 
@@ -231,6 +231,7 @@ Claims linked to this page that do not bear on its relationship, a step or a sit
 - [Crosslingual content scoring transfer works better between closely related languages, with Chinese the hardest target in this setup](../claims/crosslingual-transfer-language-proximity.md) [+W] — attached 2026-10-27 from Andrea Horbach et al. (2024), which proposed "Do not use crosslingual automated content scoring for high-stakes assessment at present".
 - [Clusters computed from pre-trained LLM embeddings show low overall alignment with theory-driven Knowledge Profiles of student biology responses](../claims/llm-embedding-clusters-low-alignment-kps.md) [-W] — attached 2026-10-27 from Abigail Gurin Schleifer et al. (2025), which proposed "Validate and adjust pre-trained LLM embeddings before using them for task-specific formative assessment"; tests this page's relationship.
 - [Higher Complexity of assessment items is associated with decreased ML scoring model performance](../claims/higher-complexity-decreased-ml-scoring.md) [+W] — attached 2026-10-28 from Haudek et al. (2024), which proposed "When developing ML scoring models, consider assessment construct characteristics—particularly for higher complexity and multidimensional items".
+- [Unproctored online exam results are biased toward higher ratings compared with proctored results](../claims/unproctored-online-exams-bias-toward-higher-ratings.md) [+W] — attached 2026-10-29 from Ardid Ramírez et al. (2015), which proposed "In blended assessment, treat the administration mode of online exams as a design decision that changes scores"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

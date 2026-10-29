@@ -22,7 +22,7 @@ sources:
 # Engagement
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 29 claims (11 for, 17 mixed, 1 against) · 48 studies (18 causal, 9 quant-synthesis, 8 review, 5 theoretical, 4 associational, 3 qualitative, 1 design), `q1`–`q4` · 6 of 48 report an effect size · 18 claims rest on one study
+> **Evidence** · 30 claims (12 for, 17 mixed, 1 against) · 49 studies (18 causal, 9 quant-synthesis, 8 review, 5 associational, 5 theoretical, 3 qualitative, 1 design), `q1`–`q4` · 6 of 49 report an effect size · 19 claims rest on one study
 
 ## Conditional relationship
 
@@ -164,6 +164,7 @@ On-task behaviour, interest, completion, voluntary persistence and learning of t
 - [Microanalysis shows on-task and off-task participation is multilayered, with students frequently on- and off-task simultaneously through different modalities](../claims/multilayered-on-off-task-microanalysis.md) [~W]
 - [Low teacher–student contact during pandemic closures was associated with negative effects on first-grade students' reading and writing motivation](../claims/low-teacher-contact-motivation-decline.md) [+W]
 - [Motivation, participation, encouragement, fun and interest rated high during the intervention; critical thinking more modest](../claims/mbot-motivation-engagement-high.md) [+W]
+- [Active engagement was positively and significantly associated with the Achiever state in most, but not all, courses](../claims/active-engagement-achiever-most-courses.md) [+W]
 
 ## Related Principles
 - [Learner Choice](autonomy.md) — meaningful choice is one common route to stronger engagement

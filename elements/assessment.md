@@ -18,7 +18,7 @@ sources:
 # Assessment
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 11 claims (7 for, 2 mixed, 2 against) · 14 studies (5 quant-synthesis, 4 design, 2 causal, 2 review, 1 qualitative), `q1`–`q4` · 5 of 14 report an effect size · 9 claims rest on one study
+> **Evidence** · 12 claims (7 for, 3 mixed, 2 against) · 15 studies (5 quant-synthesis, 4 design, 3 causal, 2 review, 1 qualitative), `q1`–`q4` · 5 of 15 report an effect size · 10 claims rest on one study
 
 ## Description
 Assessment is the structured collection of evidence about learner understanding, performance, or progress for the purposes of feedback, decision making, grading, or revision.
@@ -62,6 +62,7 @@ Assessment is the structured collection of evidence about learner understanding,
 - [Self-reported perceived quality is largely decoupled from quiz performance in AI-generated educational interactive fiction](../claims/if-quality-ratings-decoupled-from-quiz-performance.md) [~W]
 - [Case-study states rely on locally developed performance assessments created and piloted by teachers, with collaborative scoring](../claims/locally-developed-performance-assessments-teacher-collaborative-scoring.md) [+W]
 - [Instructors reported time savings of up to 80% for quiz preparation compared to traditional methods](../claims/instructor-reported-time-savings-up-to-80-percent.md) [~W]
+- [Students' online exam marks depend on the way the online exam is performed (proctored, unproctored, or homework)](../claims/online-mark-depends-on-exam-administration-mode.md) [~W] — attached 2026-10-29 from Ardid Ramírez et al. (2015), which proposed "Online exams as a component of blended assessment".
 
 ## The evidence by question
 - *Does using assessment evidence during instruction raise achievement compared with the usual teaching?* [Assessment for learning improves achievement](../claims/assessment-for-learning-improves-achievement.md) [+S]

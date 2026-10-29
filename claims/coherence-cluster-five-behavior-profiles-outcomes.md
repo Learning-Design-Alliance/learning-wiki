@@ -54,3 +54,4 @@ In the classroom study applying coherence analysis (Segedy et al. 2015, describe
 - [Engagement predicted concept-map final performance, which in turn predicted learning gains in the ITS](engagement-performance-learning-gains-chain.md) — related
 - [Concept-map and causal-chain scoring of text-based science explanations show high interrater reliability and predict comprehension test performance](concept-map-causal-chain-scoring-explanations.md) — related
 - [Students who changed one parameter at a time in model fitting were more efficient than those changing multiple parameters](parameter-fitting-strategy-efficiency.md) — related
+- [Clusters differ in learner characteristics: Cluster 2 and 5 differ in chemistry self-concept and interest, Cluster 0 shows higher reading ability, and Cluster 1 shows below-average post-test scores](cluster-learner-characteristic-differences.md) — related

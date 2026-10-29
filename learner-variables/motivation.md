@@ -13,7 +13,7 @@ generated:
 # Motivation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 329 claims (218 show a difference, 78 mixed, 33 no difference) · 238 studies (86 associational, 69 causal, 37 review, 16 theoretical, 14 quant-synthesis, 10 qualitative, 6 design), `q1`–`q4` · 65 of 238 report an effect size · 317 claims rest on one study
+> **Evidence** · 332 claims (219 show a difference, 80 mixed, 33 no difference) · 240 studies (87 associational, 70 causal, 37 review, 16 theoretical, 14 quant-synthesis, 10 qualitative, 6 design), `q1`–`q4` · 66 of 240 report an effect size · 320 claims rest on one study
 
 ## Description
 Whether a learner will spend effort here, and what makes it feel worth spending. It decides whether a page must earn attention before it can teach, and how much open-endedness is tolerable. The honest state of the evidence is that the mechanisms are well supported and the *interventions* are modest — growth-mindset programmes produce small average effects concentrated in specific subgroups [+W], which is a reason to design for motivation rather than to bolt an intervention on.
@@ -379,6 +379,9 @@ Whether a learner will spend effort here, and what makes it feel worth spending.
 - [First-year students differed between 2020 and 2021 in interaction opportunities, emotional engagement, and self-directed study time, but not behavioral engagement](../claims/year-differences-interaction-engagement-study-time.md) [~M] — instruction changes it
 - [On a relative leaderboard, intrinsic motivation is equal across top, middle, and bottom ranked students](../claims/relative-leaderboard-equal-intrinsic-motivation.md) [-M] — instruction changes it
 - [On an absolute leaderboard, top-ranked online students report significantly higher post-intervention intrinsic motivation than bottom-ranked students](../claims/absolute-leaderboard-top-ranked-higher-intrinsic-motivation.md) [+M] — instruction changes it
+- [Engaged high-achieving starters maintained high achievement despite occasional moderate decreases in engagement](../claims/high-achievers-stable-despite-engagement-decline.md) [~M] — learners who differ on it differ in outcomes
+- [For average starters, high or improving engagement was reflected in comparable achievement, while low or non-improving engagement was associated with low achievement and occasional drop-out](../claims/average-starters-improving-engagement-achievement.md) [+M] — learners who differ on it differ in outcomes
+- [Gamified exergaming shows no intrinsic-motivation harm: intrinsic motivation and amotivation changed adversely only in the control group, and external regulation fell only in the experimental group](../claims/gamified-exergaming-motivation-sdt-outcomes.md) [~W] — instruction changes it
 
 ## The evidence by question
 - *Does autonomy-supportive teaching raise motivation and engagement compared with controlling teaching?* [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](../claims/autonomy-supports-intrinsic-motivation.md) [+M]

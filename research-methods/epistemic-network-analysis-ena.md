@@ -18,7 +18,7 @@ sources:
 # Epistemic network analysis (ENA)
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 8 claims (8 for) · 3 studies (1 causal, 1 design, 1 theoretical), `q2`–`q3` · 1 of 3 report an effect size · 8 claims rest on one study
+> **Evidence** · 9 claims (9 for) · 4 studies (1 causal, 1 qualitative, 1 design, 1 theoretical), `q2`–`q3` · 1 of 4 report an effect size · 9 claims rest on one study
 
 ## Description
 Epistemic network analysis (ENA) is a non-parametric analytic method developed for epistemic game data; the article focuses on its social-network based variant. Chat utterances are automatically scored into binary indicators of SKIVE element use, aggregated into adjacency and cumulative adjacency matrices across evidentiary segments. The weighted density (WD) statistic summarizes, for each learner, "the total number of unique pair-wise associations / connections between SKIVE elements", and the article evaluates its utility via a simulation study in Land Science.
@@ -28,6 +28,7 @@ Epistemic network analysis (ENA) is a non-parametric analytic method developed f
 - **Epistemic network analysis and its weighted density statistic for analyzing SKIVE element co-occurrence in epistemic games**: Epistemic network analysis (ENA) is a non-parametric analytic method developed for epistemic game data; the article focuses on its social-network based variant. Chat utterances are automatically scored into binary indicators of SKIVE element use, aggregated into adjacency and cumulative adjacency matrices across evidentiary segments. The weighted density (WD) statistic summarizes, for each learner, "the total number of unique pair-wise associations / connections between SKIVE elements", and the article evaluates its utility via a simulation study in Land Science. (Sweet et al. (2012))
 - **ENA network model of problem posing with eleven category and quality codes**: This element is the article’s ENA modeling setup for analyzing students’ cognitive structures during problem posing. Because ENA focuses on associations among semantic units rather than frequency, "only 11 codes from question category (IQ, SC, SL, SR, OD, and CQ) and question quality (R, P , A, E, and C) were retained as network nodes". Lines between nodes represent co-occurrence relationships and line thickness indicates connection strength. Mean networks were constructed for phases and groups, with subtracted networks used to compare conditions, using the online tool epistemicnetwork.org. (Dai et al. (2026))
 - **Epistemic Network Analysis reveals temporally ordered patterns in sequentially produced coded data**: The article describes ENA as an extension of bag-of-words text-mining that adds a sliding time "window" so co-occurrences are counted over meaningful parts of text, called "stanzas". Coded data form the nodes of a transition graph with co-occurrences as edges, allowing graph features and network visualization. The article states that "ENA allows the researcher to reveal temporally ordered patterns in sequentially produced data" and that it enabled nuanced condition differences and a better understanding of Simple questions' roles in talk. (Peter Reimann (2021))
+- **Epistemic Network Analysis as a methodology for producing quantitative ethnographies of complex learning environments**: Epistemic Network Analysis (ENA) is described as "a methodology for producing quantitative ethnographies based on complex learning environments." The study uses ENA to analyze data collected during a semester of studies in a classroom learning community, applying it to socioemotional facets of learning, which the article notes ENA "has only begun to examine." ENA is positioned as complementary to deep, qualitative ethnography rather than a replacement for it. (Hod et al. (2020))
 
 ### Claims
 - [In the simulation, task complexity and task difficulty explain the majority of variance in the individual-learner WD statistic, with some effect of task specificity](../claims/task-complexity-and-difficulty-dominate-wd-variance.md) [+W]
@@ -38,6 +39,7 @@ Epistemic network analysis (ENA) is a non-parametric analytic method developed f
 - [Segmentation boundary choices differentially affect statistics computed on epistemic-game process data](../claims/segmentation-boundaries-differentially-affect-statistics.md) [+W]
 - [A mirroring dashboard shifts teacher attention toward epistemic over social aspects of learning, while a guiding dashboard divides interventions more equally](../claims/mirroring-versus-guiding-dashboard-attention-balance.md) [+M]
 - [Pre-written prompts increase Justifications and Alternative ideas in children's pair-programming talk and shift the role of Simple questions](../claims/prompts-increase-exploratory-talk-elements-pair-programming.md) [+M]
+- [Combining Epistemic Network Analysis with deep qualitative ethnographies improves understanding of complex socioemotional phenomena in learning communities](../claims/combining-ena-with-qualitative-ethnography.md) [+M]
 
 ## Related Research Methods
 -
@@ -47,6 +49,7 @@ Epistemic network analysis (ENA) is a non-parametric analytic method developed f
 <!-- merged 2026-10-10 from elements/epistemic-network-analysis-weighted-density ("Epistemic network analysis and its weighted density statistic for analyzing SKIVE element co-occurrence in epistemic games"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
 - Dai, Z., Huang, F., Xiong, J., Yang, Y., Zhang, Q., & Peng, X. (2026). Inquiry-based learning in STEM education: the impact of generative AI-based Chatbots on primary school students’ problem posing ability in science. International Journal of STEM Education. https://doi.org/10.1186/s40594-026-00631-0
 - Peter Reimann. (2021). Socio-technical configurations for productive talk. Intern. J. Comput.-Support. Collab. Learn (2021) 16:301–306. https://doi.org/10.1007/s11412-021-09354-6
+- Hod, Yotam; Eagan, Brendan; Katz, Shir. (2020). Refining qualitative ethnographies using Epistemic Network Analysis: A study of socioemotional learning dimensions in a humanistic knowledge building community. Journal article. https://zenodo.org
 
 # Epistemic network analysis and its weighted density statistic for analyzing SKIVE element co-occurrence in epistemic games
 

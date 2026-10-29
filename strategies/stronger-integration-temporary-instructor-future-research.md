@@ -48,7 +48,8 @@ Because the tested implementation confined the instructor to introductory and tr
 - [Prior-knowledge ratings differed between instructor-presence conditions in both experiments, complicating interpretation of the Experiment 1 transfer effect](../claims/prior-knowledge-differences-instructor-presence.md) [~W]
 
 ## Related Strategies
-- 
+
+- [Use deictic pointing gestures by the lecturer to integrate the lecturer with relevant illustrative material in educational videos](deictic-gestures-pointing-design-recommendation.md)
 
 ## Examples
 -

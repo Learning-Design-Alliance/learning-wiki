@@ -46,3 +46,4 @@ Prior-knowledge check ANOVA in the Results section compared the four conditions 
 
 ## Related Claims
 - [Pupils in all three conditions gained significantly from pre-test to post-test and retention test, with no prior-knowledge differences between conditions](all-conditions-significant-gains-history-tasks.md) — related
+- [The three media conditions did not differ significantly in prior knowledge or previous grades, supporting baseline equivalence](conditions-equivalent-prior-knowledge-grades-leaf-morphology-study.md) — related

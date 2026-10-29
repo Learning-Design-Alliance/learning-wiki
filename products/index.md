@@ -2,7 +2,7 @@
 
 Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's.
 
-**2280 entries** · 0 stable · 2280 in review · 0 drafts
+**2287 entries** · 0 stable · 2287 in review · 0 drafts
 
 ---
 
@@ -229,6 +229,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Building Blocks for Math](building-blocks-for-math.md) - A preschool mathematics curriculum from SRA Real Math that sequences instruction and software tasks along empirically based learning trajectories linking children's informal mathematical knowledge to formal concepts.
 * [Building Decision Skills](building-decision-skills.md) - Building Decision Skills is a character-education curriculum developed by the Institute for Global Ethics for middle and high school students, using lessons and supporting materials to develop ethical awareness and decision-making strategies.
 * [Building Pathways for Student Success (BPSS)](building-pathways-for-student-success-bpss.md) - A partnership-led logic model supporting the Arkansas Department of Education in examining and improving college- and career-readiness programming for Arkansas students.
+* [Butler system](butler-system.md) - The Butler system is an interactive e-health platform developed by Etchemendy et al.
 * [By Heart](by-heart.md) - A memorization application that uses one card type with three learner-selectable retrieval modes of varying cueing difficulty for practicing poems, scripts, and other extended passages verbatim.
 
 #### C {: #letter-c }
@@ -547,6 +548,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 
 * [E MCQG](e-mcqg.md) - E MCQG is a medical multiple-choice-question generation system that uses expert-derived clinical question templates and ontology-based relations to generate board-examination-style case questions.
 * [E-CLASS survey for assessing student views of experiments in physics lab courses](e-class-survey-for-assessing-student-views-of-experiments-in-physics-lab-courses.md) - E-CLASS is a pre/post survey assessment developed by physics education researchers to measure undergraduate students’ views, strategies, habits of mind, and attitudes concerning experimental physics.
+* [E-Junior](e-junior.md) - E-Junior is a serious virtual-world learning environment designed to teach elementary students about the Mediterranean Sea, natural science, and ecology through curriculum-aligned gameplay.
 * [E-Tutor](e-tutor.md) - A web-delivered intelligent language tutoring system developed by Trude Heift for university learners of German as a foreign language, providing curriculum-aligned activities, linguistically sophisticated answer processing, learner modeling, and instructor-accessible performance records.
 * [E3Sense](e3sense.md) - E3Sense is a research platform developed by Sidharth Anupkrishnan et al.
 * [Eagle-Edu](eagle-edu.md) - Eagle-Edu is a virtual learning environment developed for creating subject-independent courses and delivering gamified assessment activities, including personalized and one-size-fits-all gamification designs.
@@ -635,6 +637,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Emerging Technology Adoption Framework](emerging-technology-adoption-framework.md) - A living edtech evaluation and procurement framework developed by Digital Promise and Educator CIRCLS, organizing stakeholder questions and criteria across initial evaluation, adoption, and post-adoption stages.
 * [eMINTS](emints.md) - A professional-development and coaching programme run by the eMINTS National Center that helps teachers integrate technology and inquiry-based learning into curriculum and instruction.
 * [EMMeT-OWL](emmet-owl.md) - EMMeT-OWL is an OWL-encoded clinical knowledge base translated from Elsevier's Merged Medical Taxonomy and used by EMCQG to generate medical assessment questions.
+* [EmoFindAR](emofindar.md) - EmoFindAR is a Unity-based markerless multiplayer mobile augmented-reality game developed by López-Faican et al.
 * [Emotion Socialization Observation Scale (ESOS)](emotion-socialization-observation-scale-esos.md) - A structured classroom-observation assessment developed by Veraksa and colleagues to rate kindergarten teachers' reactions to children's emotions, modeling of emotional expressiveness, and teaching about emotions.
 * [Emotion-reporting grid for university students based on daily experienced emotions](emotion-reporting-grid-for-university-students-based-on-daily-experienced-emotions.md) - A study-developed grid by Elise Lavoué et al.
 * [Emotiv EPOC headset Affectiv Suite](emotiv-epoc-headset-affectiv-suite.md) - Emotiv's wireless EEG headset and Affectiv Suite software measure affective states such as engagement, excitement, frustration, and meditation during activities.
@@ -855,6 +858,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 #### H {: #letter-h }
 
 * [Harmonized cross-national PISA 2018–2022 country-level dataset with learning environment and career aspiration indicators](harmonized-cross-national-pisa-20182022-country-level-dataset-with-learning-environment-an.md) - A balanced longitudinal country-level dataset assembled by Popa et al.
+* [HARRY](harry.md) - HARRY is a web-based computer tutor developed by C.E.
 * [Hazel Prover](hazel-prover.md) - Hazel Prover is a web-based classroom proof assistant developed as an extension to the Hazel live typed functional programming environment for teaching equational and inductive reasoning about typed functional programs.
 * [HDR VC brachytherapy immersive VR training platform](hdr-vc-brachytherapy-immersive-vr-training-platform.md) - A Meta Quest 3 and edge-cloud-based virtual-reality platform developed by Ronghua Xu et al.
 * [Head Start](head-start.md) - Head Start is a federally funded U.S.
@@ -892,10 +896,12 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [i-Read](i-read.md) - i-Read is an online reading environment developed by Omheni et al.
 * [i-Ready](i-ready.md) - i-Ready is Curriculum Associates' digital learning platform combining computer-adaptive Diagnostic assessments with personalized Reading and Mathematics instruction.
 * [i-Ready Personalized Instruction](i-ready-personalized-instruction.md) - An online personalized reading-instruction program for grades K–8 that uses i-Ready Diagnostic data to assign lessons and monitor progress, developed and provided by Curriculum Associates.
+* [I3Learn](i3learn.md) - I3Learn is a WordPress-based web learning platform developed for independent, inclusive ion-bonding chemistry learning by 9th- and 10th-grade students.
 * [I3P](i3p.md) - A programme run by UNAL's National Directorate of Pedagogical Innovation that supports collaborative pedagogical innovation projects intended to foster Professional Learning Communities across campuses and faculties.
 * [iASK (Iowa Assessment of Skills and Knowledge for reading)](iask-iowa-assessment-of-skills-and-knowledge-for-reading.md) - A computer-based reading assessment developed to measure struggling students’ word-recognition knowledge and automaticity through tasks such as picture matching, rhyme selection, and auditory–visual verification.
 * [IB DP](ib-dp.md) - The IB DP is an internationally developed upper-secondary curriculum and credential programme run by the International Baccalaureate for students preparing for higher education.
 * [iBuddy](ibuddy.md) - iBuddy is a locally hosted mobile, server, and browser software system developed by Botturi et al.
+* [ICILS 2023 Flanders instrument measuring teachers’ computational thinking content knowledge](icils-2023-flanders-instrument-measuring-teachers-computational-thinking-content-knowledge.md) - A 16-item conventional-format test developed for ICILS 2023 in Flanders to measure lower-secondary teachers’ and senior pre-service teachers’ computational-thinking content knowledge across five framework aspects.
 * [ICNALE](icnale.md) - ICNALE is a controlled learner corpus of argumentative English essays from Asian EFL learners and native English speakers, created and maintained by the International Corpus Network of Asian Learners of English.
 * [ICNALE Global Rating Archive (GRA) dataset](icnale-global-rating-archive-gra-dataset.md) - A publicly available dataset derived from ICNALE, released by Stefano Bannò and colleagues, containing L2 English learner essays and speeches with holistic and analytic ratings from an English-as-a-Lingua-Franca assessment perspective.
 * [ICON (Instructional Cultural cONtextualisation) system](icon-instructional-cultural-contextualisation-system.md) - A proposed intelligent learning-environment architecture that models students' cultural and linguistic backgrounds and dynamically adapts educational content through a contextual student model, repository, language adapter, and controller.
@@ -1348,6 +1354,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [National Longitudinal Transition Study 2012 (NLTS 2012)](national-longitudinal-transition-study-2012-nlts-2012.md) - A U.S.
 * [National Network of Partnership Schools (NNPS)](national-network-of-partnership-schools-nnps.md) - A Johns Hopkins University network that supports schools and districts in developing and sustaining family and community partnership programmes through institutes, workshops, professional-learning series, and facilitation.
 * [National Research Council group tests of general intelligence](national-research-council-group-tests-of-general-intelligence.md) - A proposed pair of group-administered general-intelligence test series developed by a National Research Council committee for large-scale school administration and scoring.
+* [National standardized digital skills test for Chilean 10th-grade students](national-standardized-digital-skills-test-for-chilean-10th-grade-students.md) - A national standardized test administered to Chilean 10th-grade students to produce comparable digital-skills scores for educational research and performance classification.
 * [National Student Clearinghouse (NSC)](national-student-clearinghouse-nsc.md) - National Student Clearinghouse data are a nonprofit repository of postsecondary enrollment, completion, and related records voluntarily contributed by participating institutions and used for education research and reporting.
 * [National Study of Online Charter Schools](national-study-of-online-charter-schools.md) - A national research dataset assembled through a survey of online charter-school principals and U.S.
 * [National Study of Online Charter Schools principal survey](national-study-of-online-charter-schools-principal-survey.md) - A nationwide survey dataset collected by Mathematica Policy Research from 127 online charter school principals to describe online charter schools' operations and instructional approaches.

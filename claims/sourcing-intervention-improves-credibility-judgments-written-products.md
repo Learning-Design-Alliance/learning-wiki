@@ -70,3 +70,6 @@ Baseline descriptive comparison of the intervention (N = 175–191) and control 
 - [Task topic order was associated with sourcing performance and with individual change during the intervention](topic-order-associated-with-sourcing-performance.md) — related
 - [A teacher-led sourcing intervention increased upper secondary students' use of source features in search queries during online inquiry](sourcing-intervention-improves-search-queries.md) — related
 - [Students with the weakest pre-intervention sourcing skills showed the clearest positive change during the intervention](weakest-sourcing-skills-benefited-most.md) — related
+- [At the individual level, most students showed no reliable change in credibility evaluation skills, while 9–18% showed reliable positive change depending on the skill](individual-level-rci-credibility-change.md) — related
+- [Basic reading skills were associated with change in confirming credibility but not with change in questioning or justifying credibility](reading-skills-rci-group-association.md) — related
+- [Storified and non-storified explicit video-based instruction improved online credibility evaluation skills similarly, with no added benefit from storification](storified-non-storified-equally-effective.md) — related

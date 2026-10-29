@@ -9,6 +9,7 @@ generated:
   at: 2026-10-25
 evidence_strength: moderate
 newest_evidence: 2024
+source_checked: 2026-10-29
 sources:
   - id: james-brabham-2024
     resource: "https://doi.org/10.1037/edu0000857"
@@ -40,7 +41,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · causal `r3` · `q4`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · checked against its sources 2026-10-29 (automated, 3 of 3 entries) · not reviewed by a person
 
 ## Subclaims
 `q4 i?` Children completed an average of 7.41 of 8 game sessions, with no significant condition differences in attendance. [→ James-Brabham 2024](#james-brabham-2024)
@@ -90,3 +91,4 @@ Post-test enjoyment ratings (two smiley-scale questions averaged) analyzed in a 
 - [Children preferred playing a number game over a letter game at pre-test, and this preference did not vary by condition](number-game-preference-no-condition-difference.md) — related
 - [Enjoyment of the instructional type did not differ between the movement and seated video groups, with both groups reporting high enjoyment](movement-videos-enjoyment-null-group-difference.md) — related
 - [The game was equally engaging across children's age and sex, with no significant relationship between number of sessions played and age or sex](trackfx-engagement-age-sex-null.md) — related
+- [Both competitive and collaborative MAR game modes are highly enjoyable and easy to use for primary school children, with no significant differences between modes](mar-modes-enjoyment-ease-no-difference.md) — related

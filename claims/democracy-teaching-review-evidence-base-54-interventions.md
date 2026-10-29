@@ -46,3 +46,4 @@ Systematic literature review using an extensive search syntax and snowballing; t
 
 ## Related Claims
 - [Teaching methods have differential effects on democratic competences, per a systematic review of 51 quantitative intervention studies](teaching-methods-differential-effects-democratic-competences.md) — possibly the same claim (merge candidate)
+- [The corpus of the review comprised fifty-seven high-quality articles published between 2010 and 2017 that met stringent selection criteria](slr-mobile-pedagogies-57-article-corpus-2010-2017.md) — related

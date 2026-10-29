@@ -47,7 +47,7 @@ sources:
 # Game-based Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 74 claims (36 for, 37 mixed, 1 against) · 57 studies (18 causal, 14 quant-synthesis, 13 review, 4 design, 4 theoretical, 3 associational, 1 qualitative), `q1`–`q4` · 17 of 57 report an effect size · 68 claims rest on one study
+> **Evidence** · 75 claims (37 for, 37 mixed, 1 against) · 58 studies (19 causal, 14 quant-synthesis, 13 review, 4 design, 4 theoretical, 3 associational, 1 qualitative), `q1`–`q4` · 17 of 58 report an effect size · 69 claims rest on one study
 
 ## Conditional relationship
 
@@ -161,6 +161,7 @@ Claims read against this model that do not change it. Each says what it is and w
 - [Ke's (2016) systematic review synthesized five major themes as guideposts for designing research-based learning games](../claims/ke-2016-five-themes-learning-game-design.md) [+W] — attached 2026-10-29 from Andri Ioannou (2021), which proposed "Treat learning content as integral to gameplay, rules, and actions when designing learning games".
 - [The GraphoGame effect on decoding was greatest when both students and teachers played the game](../claims/graphogame-teacher-plus-student-exposure-greatest.md) [+W] — attached 2026-10-29 from Jere-Folotiya et al. (2014), which proposed "Supplementary computer-assisted phonics games should expose both students and teachers to the game to maximize early literacy gains".
 - [An interactive game training context provided no immersion or bias-mitigation advantage over a text script with identical content](../claims/game-context-no-advantage-over-text.md) [~W] — attached 2026-10-29 from Poos et al. (2017), which proposed "Use engaging narrative text rather than expensive immersive games for bias-mitigation training when resources are scarce"; tests this page's relationship.
+- [Students in the serious virtual world group reported enjoying the class more, being more engaged, and having greater intentions to participate than students in the traditional group](../claims/svw-higher-enjoyment-engagement-intention-e-junior.md) [+W] — attached 2026-10-29 from Wrzesien et al. (2010), which proposed "Serious virtual worlds as a class format matched to traditional classes with identical learning objectives and contents"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

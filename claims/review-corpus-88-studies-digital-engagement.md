@@ -46,3 +46,4 @@ PRISMA-documented study selection in the scoping review, following PRISMA-ScR gu
 
 ## Related Claims
 - [Among studies of young children's digital engagement in educational spaces, engagement was explicitly defined in only 18 of 88 studies (19.3%), theorised in 8 (9.1%), and measured in 31 (35.2%)](engagement-rarely-defined-theorised-measured-digital-child-studies.md) — related
+- [The corpus of the review comprised fifty-seven high-quality articles published between 2010 and 2017 that met stringent selection criteria](slr-mobile-pedagogies-57-article-corpus-2010-2017.md) — related

@@ -27,7 +27,7 @@ sources:
 # Multimedia Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 98 claims (40 for, 54 mixed, 4 against) · 74 studies (34 causal, 15 review, 13 quant-synthesis, 5 associational, 4 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 20 of 74 report an effect size · 89 claims rest on one study
+> **Evidence** · 99 claims (40 for, 55 mixed, 4 against) · 75 studies (35 causal, 15 review, 13 quant-synthesis, 5 associational, 4 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 20 of 75 report an effect size · 90 claims rest on one study
 
 ## Conditional relationship
 
@@ -182,6 +182,7 @@ A learning-phase preference, immediate recall, explanation of a mechanism, delay
 - [The review draws on Mayer and colleagues' generative theory of textbook design using annotated illustrations to foster meaningful learning of science text](../claims/multimedia-learning-review-cites-generative-theory-textbook-design.md) [+W]
 - [Animation outperforms static pictures for learning about a biological process with spoken narration](../claims/animation-outperforms-static-pictures-photosynthesis.md) [~M]
 - [System-paced multimedia learning environments with spoken narration yield higher learning outcomes than self-paced ones](../claims/system-pacing-beats-self-pacing-with-narration.md) [~W]
+- [Beat gestures of a human lecturer in an educational video do not significantly foster learning outcomes compared with a video without gestures](../claims/beat-gestures-do-not-foster-learning.md) [~W]
 
 ## Related Principles
 - [Modality Principle](modality.md)
@@ -205,6 +206,7 @@ A learning-phase preference, immediate recall, explanation of a mechanism, delay
 - [Illustrated mitosis learning material (11 pages, 1113 words) with EMME videos demonstrating multimedia processing strategies](../designs/mitosis-illustrated-text-emme-material.md)
 - [Provide explicit instruction in how to understand and use informative pictures if they are employed in word problem instruction](../strategies/explicit-instruction-informative-pictures.md)
 - [Build online multimedia lessons with slide-sharing, survey, and video-sharing tools in a three-stage workflow](../strategies/common-tools-ctml-lesson-workflow.md)
+- [Replace on-device pictures with drawings of real objects to make mobile-device media complementary to the objects](../strategies/drawings-replace-pictures-complementary-mobile-media.md)
 
 ### Illustrative
 

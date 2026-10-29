@@ -51,3 +51,4 @@ In the evaluative user study with 12 clinical-year medical students completing t
 - [Formative participants found human SP practice valuable for embodied cues but episodic and unevenly connected to individualized feedback](human-sp-practice-episodic-uneven-feedback.md) — related
 - [Feedback that answers three questions (Where am I going? How am I doing? Where to next?) improves learning](feedback-answers-three-questions-improves-learning.md) — a broader claim this one bears on
 - [Formative participants preferred post-session debriefing over in-session interruption, with timing treated as contingent on error severity](feedback-timing-post-session-debrief-preference.md) — related
+- [Technical unpredictability of recordings severely frustrated students who valued them, while staff treated technical issues as abstract and eventually solved](technical-issues-asymmetric-impact-staff-students.md) — related

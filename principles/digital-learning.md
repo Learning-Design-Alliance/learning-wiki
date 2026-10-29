@@ -31,7 +31,7 @@ sources:
 # Digital Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 80 claims (38 for, 37 mixed, 5 against) · 89 studies (21 causal, 21 review, 18 theoretical, 12 quant-synthesis, 6 associational, 6 design, 5 qualitative), `q1`–`q4` · 14 of 89 report an effect size · 69 claims rest on one study
+> **Evidence** · 81 claims (38 for, 38 mixed, 5 against) · 90 studies (21 causal, 21 review, 18 theoretical, 12 quant-synthesis, 7 associational, 6 design, 5 qualitative), `q1`–`q4` · 14 of 90 report an effect size · 70 claims rest on one study
 
 ## Conditional relationship
 
@@ -197,6 +197,7 @@ Access, use, assisted success, unaided immediate performance, delayed retention 
 - [Prior mathematical ability moderates tablet-DGBL gains, with mixed direction across studies](../claims/prior-math-ability-mixed-moderator.md) [~W]
 - [Media and technology provide affordances but effective use depends on good instructional design and support](../claims/media-affordances-depend-on-instructional-design.md) [+W]
 - [Mere deployment of OLPC laptops has limited relevance to children in use and outcome](../claims/mere-laptop-deployment-limited-relevance.md) [+W]
+- [Concrete suggestions were produced more often in the Annotation system than in the Blackboard discussion forum, which showed more evaluative feedback](../claims/annotation-tool-more-concrete-suggestions-than-blackboard-forum.md) [~W]
 
 ## Related Principles
 - [Flipped Learning](flipped-learning.md) — digital delivery often makes pre-class access and replayable initial exposure possible

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-11
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-10-29
 recheck_by: 2029
 sources:
   - id: najem-2026
@@ -33,7 +34,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
+> **Currency** · newest study 2026 · checked against its sources 2026-10-29 (automated, 2 of 2 entries) · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Unsupervised clustering of 12 behavioral, psychological, and environmental features identified six learner profiles ranging from Highly Engaged Achievers to At-Risk Learners. [→ Najem 2026](#najem-2026)
@@ -78,3 +79,4 @@ Stability analysis over 10 independent K-Means++ runs with different random seed
 - [Unsupervised clustering of individual learning curves identifies seven distinct learner profiles whose proportions shift with target geometry](seven-learner-profiles-soft-dtw-clustering.md) — related
 - [Cluster-based sampling of single answers from clusters (cluster centroid and random cluster instance) required the least manual grading and correcting work, outperforming full-cluster and random sampling strategies](cluster-instance-sampling-minimizes-grading-work.md) — related
 - [The choice of normalization technique influences clustering outcomes, so multiple normalization approaches should be tested in cluster analysis](normalization-choice-influences-clustering-outcomes.md) — related
+- [K-means clustering on EFA-derived features yields six learner groups with distinct usage patterns of UDL-guided elements](kmeans-six-learner-clusters-udl-elements.md) — related

@@ -67,3 +67,5 @@ Low figures for stories 6, 10 and 11 appeared to show dependence on simple sente
 - [The ratio of mean sentence length to commas was the most useful computer test for discriminating maturity level in children's writing](sentence-length-comma-ratio-discriminates-maturity.md) — related
 - [Syntactical noticing focuses mainly on sentence length and ways of connecting clauses](syntactical-noticing-sentence-length-connecting-clauses.md) — related
 - [Story length correlates with National Curriculum attainment level in children's Key Stage 2 narrative writing, with roughly 300 words needed for Level 4 and 400 or more for Level 5](story-length-correlates-with-ks2-attainment.md) — related
+- [Reflecting on vocabulary and sentence revision during the composing stage temporarily degraded children's use of full stops and basic connectives](composing-stage-reflection-degrades-punctuation.md) — related
+- [Editing suggestions restored but did not fully correct Sophie's punctuation: her final draft showed no improvement in full-stop use over control](sophie-full-stop-improvement-lacking.md) — related

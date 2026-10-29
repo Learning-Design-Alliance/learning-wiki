@@ -13,7 +13,7 @@ generated:
 # Technology Integration Levels (SAMR / RAT / PIC-RAT)
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 10 claims (5 for, 5 mixed) · 10 studies (3 theoretical, 2 review, 2 qualitative, 1 causal, 1 associational, 1 design), `q1`–`q3` · 1 of 10 report an effect size · 9 claims rest on one study
+> **Evidence** · 11 claims (6 for, 5 mixed) · 11 studies (3 theoretical, 2 review, 2 qualitative, 1 causal, 1 quant-synthesis, 1 associational, 1 design), `q1`–`q3` · 1 of 11 report an effect size · 10 claims rest on one study
 
 ## Description
 Several closely related models help teachers and designers judge the *effect* a specific use of technology is having on instruction, rather than whether technology is used at all ([Kimmons, 2018](https://edtechbooks.org/lidtfoundations/k12_tech_frameworks)):
@@ -52,6 +52,7 @@ The shared claim across all three models is that low-value technology integratio
 - [Teacher candidates' projected future classroom technology use mirrors their student-teaching use, with most describing routine, non-transformative use](../claims/projected-future-tech-use-mirrors-student-teaching.md) [+W]
 - [Identity-oriented teaching conceptions are positively correlated with Transformation-level TPACK and negatively with Replacement and Amplification levels in SVVR-supported writing instruction](../claims/identity-conceptions-transformation-tpack.md) [+W] — attached 2026-10-29 from Mengyuan Chen et al. (2023), which proposed "RAT framework: Replacement, Amplification, and Transformation as levels of technology integration".
 - [Community-oriented teaching conceptions are positively correlated with Amplification-level TPACK and negatively with Replacement](../claims/community-conceptions-amplification-tpack.md) [+W] — attached 2026-10-29 from Mengyuan Chen et al. (2023), which proposed "RAT framework: Replacement, Amplification, and Transformation as levels of technology integration".
+- [Most studies of mobile pedagogies in K-12 schools report low to medium innovation, with only a small minority showing radically innovative, disruptive practices](../claims/slr-mobile-pedagogies-low-medium-innovation-most-studies.md) [+W] — attached 2026-10-29 from Burden et al. (2019), which proposed "Innovation spectrum of mobile learning pedagogies".
 
 ## The evidence by question
 - *Where on the substitution-to-redefinition range does educational technology use actually sit?* [Most AI implementations in undergraduate higher education sit at the SAMR Substitution or Augmentation levels, with fewer Modification cases and one Redefinition](../claims/ai-integration-mostly-substitution-augmentation.md) [+M]

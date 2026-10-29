@@ -52,3 +52,4 @@ The editorial reports, on Hayashi's experiment with learning dyads in a jigsaw t
 - [Gaze feedback and PCA suggestions show no interaction effect on the collaborative process ratings](no-gaze-pca-interaction-on-process.md) — reports the opposite
 - [Conversational-agent prompts improve student dialogue outcomes at both individual and dyad levels](conversational-agent-prompts-improve-individual-and-dyad-outcomes.md) — related
 - [Visualizing group awareness information strongly impacts dyads' joint regulation of the collaborative process](group-awareness-visualization-impacts-joint-regulation.md) — related
+- [In collaborative MAR play, children show positive collaboration quality on all measured dimensions except time management](collaborative-mar-quality-dimensions.md) — related

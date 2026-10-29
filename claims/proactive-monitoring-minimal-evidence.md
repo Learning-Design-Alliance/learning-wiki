@@ -9,6 +9,7 @@ generated:
   at: 2026-10-09
 evidence_strength: weak
 newest_evidence: 2017
+source_checked: 2026-10-29
 sources:
   - id: rumberger-2017
     resource: "https://ies.ed.gov/ncee/wwc/PracticeGuide/24"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q3`
-> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2017 · checked against its sources 2026-10-29 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Of six studies supporting Recommendation 1, two found improved outcomes in at least one dropout-prevention outcome domain, but neither directly tested the full four-step recommendation. [→ Rumberger 2017](#rumberger-2017)

@@ -13,7 +13,7 @@ generated:
 # Emotional Intelligence
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 53 claims (39 show a difference, 6 mixed, 8 no difference) · 39 studies (12 causal, 11 review, 8 associational, 6 quant-synthesis, 1 qualitative, 1 theoretical), `q1`–`q4` · 10 of 39 report an effect size · 52 claims rest on one study
+> **Evidence** · 57 claims (41 show a difference, 8 mixed, 8 no difference) · 40 studies (12 causal, 11 review, 9 associational, 6 quant-synthesis, 1 qualitative, 1 theoretical), `q1`–`q4` · 11 of 40 report an effect size · 56 claims rest on one study
 
 ## Description
 Emotional intelligence is the ability to perceive emotions accurately, use them to support thinking, understand them and manage them. It is measured either as an ability (performance tests) or as a self-reported trait. It correlates with academic achievement, more strongly in the humanities than in STEM subjects, and overlaps with [affect regulation](affect-regulation.md) and with social-emotional skills that programmes aim to build.
@@ -89,6 +89,10 @@ Emotional intelligence is the ability to perceive emotions accurately, use them 
 - [SEL programs implemented well show positive impacts on targeted skills and academic outcomes, including meta-analytic support](../claims/sel-programs-academic-outcomes.md) [+M] — instruction changes it
 - [No significant correlations between contextual emotion differences and overall game score after Holm-Bonferroni correction](../claims/no-significant-emotion-game-score-correlations.md) [-M] — learners who differ on it differ in outcomes
 - [Emotion regulation, utilization of social resources and objective social support showed no significant improvement under any pedagogy, and Lego did not differ significantly from other approaches, in middle school children](../claims/sce-interventions-null-domains-and-limits.md) [-W] — instruction changes it
+- [Emotional e-independence predicts habitual digital behaviors only in girls and older students, while emotional e-awareness predicts them only in boys](../claims/e-independence-e-awareness-differential-predictors.md) [~W] — learners who differ on it differ in outcomes
+- [Emotional e-regulation and e-self-control of impulsiveness are the strongest SEM predictors of habitual digital behaviors across genders and age groups](../claims/e-regulation-e-self-control-strongest-predictors.md) [+M] — learners who differ on it differ in outcomes
+- [Social e-competency positively predicts habitual digital behaviors, invariantly across gender and age groups](../claims/social-e-competency-positive-predictor.md) [+W] — learners who differ on it differ in outcomes
+- [Socio-emotional e-competencies relate negatively to habitual digital behaviors, except social e-competency which relates positively and emotional e-awareness which shows no relation](../claims/e-competencies-negative-relation-habitual-digital-behaviors.md) [~M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

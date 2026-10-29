@@ -46,6 +46,7 @@ The article's methodological approach is a "multi-study, mixed method design" th
 - [Design think-aloud tasks with training (instruction, demonstration, practice) and marker-based prompting to enhance methodological rigour](think-aloud-training-and-prompting-design.md)
 - [Combine quantitative occupancy monitoring with ethnographic observation and field interviews to target qualitative data collection on learning-space transitions](mixed-occupancy-ethnography-learning-spaces.md)
 - [Use qualitative interview data from teachers and students to account for quantitative results and derive productive AR implementation strategies](qualitative-interviews-guide-ar-implementation.md)
+- [Use mixed methods (HLM plus exploratory case study) to characterize factors behind digital skills](mixed-methods-digital-skills-factors.md)
 
 ## Examples
 -

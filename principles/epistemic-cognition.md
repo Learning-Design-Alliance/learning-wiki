@@ -40,7 +40,7 @@ sources:
 # Epistemic Cognition
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 29 claims (14 for, 13 mixed, 2 against) · 40 studies (17 causal, 6 theoretical, 5 review, 4 quant-synthesis, 4 qualitative, 3 associational, 1 design), `q1`–`q4` · 4 of 40 report an effect size · 21 claims rest on one study
+> **Evidence** · 31 claims (15 for, 14 mixed, 2 against) · 42 studies (18 causal, 6 theoretical, 5 review, 4 quant-synthesis, 4 associational, 4 qualitative, 1 design), `q1`–`q4` · 4 of 42 report an effect size · 23 claims rest on one study
 
 ## Conditional relationship
 
@@ -165,6 +165,8 @@ A shift in the reasons learners write, a better verdict on new material, durabil
 - [Epistemic beliefs about the development of scientific knowledge directly predict domain knowledge in science across grades 5, 8, and 11](../claims/development-epistemic-beliefs-predict-science-knowledge.md) [~W]
 - [Scientific reasoning levels are linked directly to sophistication of epistemological beliefs among Malaysian Muslim students](../claims/scientific-reasoning-linked-epistemological-sophistication.md) [~W]
 - [Prior epistemic thinking frameworks were insufficient for addressing educational problems because they described epistemic thinking as broad beliefs or perspectives rather than situated practices](../claims/prior-epistemic-frameworks-insufficient-situated-practices.md) [+W]
+- [Explicit video-based instruction nearly doubled students' relevant justifications of overall credibility evaluations relative to control](../claims/video-explicit-instruction-justifying-credibility.md) [+W]
+- [Discernment favoring expert over layperson videos is predicted by justification by authority, openness to revising one's viewpoint, age, and negatively by personal justification](../claims/discernment-score-expert-layperson-predictors.md) [~W]
 
 ## Related Principles
 - [Evaluating Sources](evaluating-sources.md) — directly operationalizes epistemic judgment around credibility and evidence

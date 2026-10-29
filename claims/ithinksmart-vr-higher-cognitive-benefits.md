@@ -51,3 +51,4 @@ Post-questionnaire analysis (instrument adapted from Lin et al., 5-point Likert 
 - [First-level participant feedback found the iThinkSmart prototype engaging but flagged movement, navigation, graphics, and device-support issues for improvement](ithinksmart-prototype-feedback-themes.md) — related
 - [Gamification has small positive effects on cognitive, motivational and behavioral learning outcomes](gamification-has-small-positive-effects-on-learning-outcomes.md) — a broader claim this one bears on
 - [After playing Factory Craft, middle school students showed no statistically significant overall gain in computational thinking competency](gbl-no-overall-ct-competency-gain.md) — related
+- [A serious virtual world class does not produce statistically significant differences in learning effectiveness compared with a traditional class of identical learning objectives and contents](svw-no-learning-effectiveness-difference-e-junior.md) — reports the opposite

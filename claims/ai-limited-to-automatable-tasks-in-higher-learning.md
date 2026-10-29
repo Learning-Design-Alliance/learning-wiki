@@ -52,3 +52,4 @@ The authors' exploratory literature-based analysis argues that current AI handle
 - [The workshop argues AI-resistant assignments are temporary at best, reframing design goals toward tasks whose difficulty survives AI completing part of the work](ai-resistance-shelf-life-reframing.md) — related
 - [AutoTutor cannot handle most student questions, so student question frequency extinguishes quickly in tutoring sessions](autotutor-student-questions-extinguish.md) — related
 - [Generative AI platforms cannot yet independently lead meaningful innovation; at best they augment human intelligence for innovation](generative-ai-augments-not-leads-innovation.md) — a narrower finding that bears on this claim
+- [Empirical evidence surrounding innovative technology-enhanced-learning practices in K-12 education is at best patchy](k12-innovative-tel-evidence-patchy.md) — related

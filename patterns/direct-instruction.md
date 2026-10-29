@@ -25,7 +25,7 @@ sources:
 # Direct Instruction
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 39 claims (19 for, 17 mixed, 3 against) · 41 studies (13 quant-synthesis, 11 causal, 11 review, 4 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 11 of 41 report an effect size · 32 claims rest on one study
+> **Evidence** · 40 claims (19 for, 18 mixed, 3 against) · 42 studies (13 quant-synthesis, 12 causal, 11 review, 4 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 12 of 42 report an effect size · 33 claims rest on one study
 
 ## Description and scope
 
@@ -188,6 +188,7 @@ This pattern is scoped to structured targets with a definable correct performanc
 - [Explicit teaching shows no effect on students' first-order (topic) knowledge in history](../claims/explicit-teaching-no-effect-first-order-knowledge.md) [-W]
 - [Explicit teaching does not improve overall quality of written causal explanations but improves use of second-order language and causal connections](../claims/explicit-teaching-second-order-language-explanation-criterion.md) [~W]
 - [Performance is substantially better on the Explicit-Assist task than on the No-Explicit-Assist task in both the ADHD and dyslexia comparisons](../claims/explicit-assist-better-than-no-explicit-assist.md) [~M]
+- [Explicit video-based instruction improved sixth graders' skills to question the credibility of less credible online texts relative to control, with a large condition-level effect](../claims/video-explicit-instruction-questioning-credibility.md) [~W]
 
 ## Related Patterns
 - [Mastery Learning](mastery-learning.md) — a related but distinct term Hunter explicitly distinguishes her model from
