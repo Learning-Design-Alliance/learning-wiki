@@ -48,3 +48,4 @@ Interview study of 79 third-generation Polish-Catholic upper-lower class public-
 - [Preferred social situation of contact shifts with grade level: younger children prefer family situations, fourth graders prefer being alone, and sixth graders prefer peers](grade-level-shifts-preferred-social-situation-of-contact.md) — related
 - [Medium preference also shifts by grade, and comic books drop out because their appeal cannot outweigh the appeal of movies and television](medium-preference-shifts-by-grade-comics-drop-out.md) — related
 - [Studying the relation of content to audience demographic attributes does not adequately explain spectator response; social situation of contact is a significant factor](demographics-alone-inadequate-social-situation-significant.md) — a broader claim this one bears on
+- [The normal child is a moderate reader who uses comics as a means of (digest text breaks off)](normal-child-moderate-comic-reader.md) — related

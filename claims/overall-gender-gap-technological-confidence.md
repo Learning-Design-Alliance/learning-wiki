@@ -77,3 +77,4 @@ Independent samples t-test with Welch's correction on the survey's gender-based 
 - [Female students in the experimental group showed significantly higher maths gains than female controls, while males did not differ](mobile-math-gains-female-students-only.md) — related
 - [No significant gender differences were found on any model variable](no-gender-differences-model-variables.md) — reports the opposite
 - [Variables of experience, gender, age and degree do not negatively affect academic interaction or VLE learning performance](no-negative-effect-demographics-vle-interaction.md) — reports the opposite
+- [CT self-efficacy gains varied by gender, grade, and prior Minecraft experience, with significant increases for female students, Grade 8 students, and students with limited Minecraft experience](gbl-ct-self-efficacy-moderators.md) — related

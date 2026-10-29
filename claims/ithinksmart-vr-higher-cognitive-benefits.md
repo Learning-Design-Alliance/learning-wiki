@@ -50,3 +50,4 @@ Post-questionnaire analysis (instrument adapted from Lin et al., 5-point Likert 
 - [Students who played iThinkSmart mini games showed a significantly higher CT learning attitude than those who did not play the mini games](ithinksmart-vr-higher-learning-attitude.md) — related
 - [First-level participant feedback found the iThinkSmart prototype engaging but flagged movement, navigation, graphics, and device-support issues for improvement](ithinksmart-prototype-feedback-themes.md) — related
 - [Gamification has small positive effects on cognitive, motivational and behavioral learning outcomes](gamification-has-small-positive-effects-on-learning-outcomes.md) — a broader claim this one bears on
+- [After playing Factory Craft, middle school students showed no statistically significant overall gain in computational thinking competency](gbl-no-overall-ct-competency-gain.md) — related

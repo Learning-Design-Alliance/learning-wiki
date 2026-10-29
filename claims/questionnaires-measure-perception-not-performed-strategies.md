@@ -59,3 +59,4 @@ The editorial's methodological-considerations section states this validity chall
 - [Overconfidence in self-assessment is especially concerning in online learning environments where limited external feedback widens gaps between perceived and actual performance](online-learning-exacerbates-calibration-discrepancy.md) — related
 - [Traditional self-report methods face significant limitations in capturing the dynamic nature of SRL](self-report-srl-limitations-dynamic-nature.md) — possibly the same claim (merge candidate)
 - [Self-reported instruments measure AI self-efficacy (perceptions) rather than AI literacy abilities, so both should be included in comprehensive assessment](self-report-measures-self-efficacy-not-literacy.md) — possibly the same claim (merge candidate)
+- [Students' perceptions of the tool's impact on learning were partly corroborated by their actual metacognitive gains and tool use](perceived-impact-partly-corroborated-by-gains.md) — related

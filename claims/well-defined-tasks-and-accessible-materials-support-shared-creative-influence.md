@@ -60,3 +60,4 @@ This is a single-group case study (one focal group deeply analyzed out of four o
 - [Merging different technical understandings of Minecraft items into shared nomenclature enabled parallel division of building work (Extract 2)](merged-technical-understanding-minecraft-nomenclature.md) — related
 - [Collaborative technologies support learning by enabling learners to share and exchange both ideas and their own digital products](collaborative-technologies-enable-sharing-ideas-and-digital-products.md) — related
 - [Participants used a limited, polymorphic repertoire of materials, gestures and symbols whose meanings were context-derived](limited-polymorphic-repertoire-written-collaboration.md) — related
+- [A focused design task supported by explicit and targeted disciplinary supports led to a student technology design process driven by disciplinary understanding](focused-task-disciplinary-understanding-drives-design.md) — related

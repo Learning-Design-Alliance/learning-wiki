@@ -48,3 +48,4 @@ Representational scripting integrates collaboration scripts with representationa
 
 ## Key Sources
 - B. Slof, G. Erkens, P. A. Kirschner, J. Janssen, J. G. M. Jaspers. (2012). Successfully carrying out complex learning-tasks through guiding teams' qualitative and quantitative reasoning. Instr Sci 40:623–643. https://doi.org/10.1007/s11251-011-9185-2
+- B. Slof, G. Erkens, P. A. Kirschner, J. G. M. Jaspers. (2010). Design and effects of representational scripting on group performance. Education Tech Research Dev. https://doi.org/10.1007/s11423-010-9148-3

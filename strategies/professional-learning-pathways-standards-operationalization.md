@@ -53,6 +53,7 @@ The article recommends embedding the standards into structured professional lear
 - [Provide educational development for instructors on purposefully integrating AI into online learning design](educational-development-ai-integration-instructors.md)
 - [Shift teacher professional development from information-based training to experience-based AI design activities in sustainability contexts](experience-based-ai-design-teacher-pd.md)
 - [Build teacher AI readiness through structured institutional support: professional development, mentoring, technical assistance, and AI literacy in teacher education](structured-institutional-support-teacher-ai-readiness.md)
+- [Institutional support package: professional development, technical support, engagement strategies, and assessment reform](institutional-support-technology-integration-strategy.md)
 
 ## Examples
 -

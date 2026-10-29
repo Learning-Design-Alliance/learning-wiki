@@ -47,7 +47,7 @@ sources:
 # Game-based Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 61 claims (27 for, 33 mixed, 1 against) · 49 studies (15 causal, 14 quant-synthesis, 10 review, 4 theoretical, 3 associational, 3 design), `q1`–`q4` · 16 of 49 report an effect size · 55 claims rest on one study
+> **Evidence** · 64 claims (29 for, 34 mixed, 1 against) · 51 studies (15 causal, 14 quant-synthesis, 11 review, 4 design, 4 theoretical, 3 associational), `q1`–`q4` · 16 of 51 report an effect size · 58 claims rest on one study
 
 ## Conditional relationship
 
@@ -157,6 +157,8 @@ Claims read against this model that do not change it. Each says what it is and w
 - [Classroom board-game play improved inhibition in first grade but not in grades two to six, where inhibition and flexibility improved in both groups](../claims/board-games-inhibition-grade-dependent.md) [~W] — attached 2026-10-22 from Nuria Vita-Barrull et al. (2024), which proposed "Include board-game play in primary classrooms as an alternative or complement to regular direct instruction for cognitive and academic development"; tests this page's relationship.
 - [Playing the empathy training game Crystals of Kaydor produced no greater improvement in adolescents' empathic accuracy than playing the commercial control game Bastion](../claims/crystals-no-group-difference-empathic-accuracy-change.md) [~W] — attached 2026-10-27 from Kral et al. (2018), which proposed "Design empathy training games so that engagement with empathy-specific mechanics, not generic playtime, drives the targeted learning processes"; tests this page's relationship.
 - [CS students who learned CT concepts through the iThinkSmart VR game-based application demonstrated significantly better CT competency scores than students in the control group](../claims/ithinksmart-vr-better-ct-competency-scores.md) [+M] — attached 2026-10-29 from Friday Joseph Agbo et al. (2023), which proposed "Visualize abstract CT concepts through game-based approaches rather than theoretical instruction alone"; tests this page's relationship.
+- [Progressive engagement through the PFO model shifted students' reasoning about the game system from micro-level to macro-level abstraction](../claims/pfo-progression-micro-to-macro.md) [+W] — attached 2026-10-29 from Marianthi Grizioti (2025), which proposed "PFO model of progressive engagement: Play, Focused Modifications, Open Modifications & Design".
+- [Ke's (2016) systematic review synthesized five major themes as guideposts for designing research-based learning games](../claims/ke-2016-five-themes-learning-game-design.md) [+W] — attached 2026-10-29 from Andri Ioannou (2021), which proposed "Treat learning content as integral to gameplay, rules, and actions when designing learning games".
 
 ## Objective and learner-valued goal
 
@@ -182,6 +184,7 @@ A gain in the game, a gain on an aligned outside test, delayed retention, transf
 - [Scaffolding in a handheld sensor-based vocabulary game significantly improved low-achieving EFL students' motivation and performance](../claims/scaffolding-sensor-vocabulary-game-improves-low-achievers.md) [~W]
 - [The authors contend that a new design paradigm must be developed if academic learning is to take place in educational games](../claims/new-design-paradigm-needed-for-game-learning.md) [~W]
 - [Motivation increased significantly from before activity to in activity in the game-based group but showed no significant stage-to-stage change in the traditional guide group](../claims/role-playing-guide-motivation-increase-during-activity.md) [+W]
+- [Barach argues game-based learning needs more pedagogical rigor, scaffolding integration, and learner accountability through design](../claims/need-pedagogical-rigor-learning-games.md) [~W]
 
 ## Related Principles
 - [Simulations & Immersive Virtual Environments](simulations-immersive-virtual-environments.md) — simulations overlap with game-based learning when the experience models a system learners must navigate.

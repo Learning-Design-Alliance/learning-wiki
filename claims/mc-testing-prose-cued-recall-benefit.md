@@ -78,3 +78,4 @@ A delayed-final-test experiment by Fazio, Marsh, and Roediger (2006), cited in t
 - [Retrieval before re-presentation (TTST) improves final cued recall of nonsense-syllable/number pairs relative to pure study (Experiment 1)](ttst-beats-pure-st-nonsense-pairs.md) — related
 - [Positive and negative testing effects occur for questions tapping higher levels of Bloom's taxonomy, and question level does not change the memorial consequences of testing](testing-effects-bloom-higher-levels.md) — related
 - [Children retain self-derived knowledge over a one-week delay in classroom settings, with performance increasing from Session 1 to Session 2](retention-self-derived-knowledge-one-week.md) — related
+- [Hints in multiple-try feedback improve performance on a delayed test one week later](hints-improve-delayed-testing-one-week-later.md) — related

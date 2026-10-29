@@ -54,3 +54,4 @@ The paper's lesson-of-MOOCs analysis states that by 2016 it became clear MOOCs "
 - [Pre-tests reduced adult learners' persistence in a MOOC, though they improved post-test scores among those who completed it](pretesting-can-harm-motivation.md) — related
 - [A single Tipping Point explains dropout patterns in only about a quarter of online courses, so lesson-level dropout behavior is more complex than one critical lesson](tipping-point-hypothesis-insufficient-online-dropout.md) — related
 - [GPT-4 de-identification performance varies by course, with lower agreement in courses with longer posts and more qualitative discussion](gpt4-redaction-performance-varies-by-course-content.md) — related
+- [Adult learners take MOOC courses for six stated reasons, including topical interest and viewing lurking as learning](six-reasons-adult-learners-take-moocs.md) — related

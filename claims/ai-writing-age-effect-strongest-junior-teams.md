@@ -51,3 +51,4 @@ Quantile regression at the 25th, 50th, and 75th percentiles of team age on post-
 - Research teams using AI-assisted writing have a lower average career age than human-written teams — a broader claim this one bears on
 - [Most publications show very low AI usage scores, with higher mean AI usage in PLoS than Nature](low-ai-usage-scores-higher-mean-plos.md) — related
 - [AI-related guilt decreases with career stage, with early-career academics reporting the highest guilt](ai-guilt-decreases-with-career-stage.md) — related
+- [Academics' identity reconstruction through technology integration varies across career stages](career-stage-differences-identity-reconstruction-technology.md) — related

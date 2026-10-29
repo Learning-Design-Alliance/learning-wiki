@@ -69,3 +69,4 @@ Nonequivalent-groups pretest-posttest experiment with two intact freshman calcul
 - [Students exposed to AI-generated responses achieved higher performance in solving quadratic equations than those taught through conventional teaching methods](ai-generated-responses-higher-quadratic-achievement.md) — related
 - [A clinical interviewing study investigated students' understanding of elementary calculus through tasks on integration and limits](orton-clinical-interviews-elementary-calculus.md) — related
 - [Flipped classroom teaching with structured interaction improves learning outcomes more than lecture-based teaching and a video-lecture control](structured-interaction-flipped-classroom-improves-learning.md) — related
+- [A blended/hybrid flipped calculus course with an FC Orientation module improved student learning performance and perceptions significantly over the traditional lecture format](spencer-2022-hybrid-fc-improved-performance.md) — related

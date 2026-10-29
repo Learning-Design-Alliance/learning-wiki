@@ -13,7 +13,7 @@ generated:
 # Age and Developmental Stage
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 202 claims (132 show a difference, 46 mixed, 24 no difference) · 163 studies (62 associational, 32 causal, 27 review, 23 quant-synthesis, 10 theoretical, 6 design, 3 qualitative), `q1`–`q4` · 23 of 163 report an effect size · 200 claims rest on one study
+> **Evidence** · 204 claims (134 show a difference, 46 mixed, 24 no difference) · 164 studies (62 associational, 32 causal, 27 review, 23 quant-synthesis, 10 theoretical, 6 design, 4 qualitative), `q1`–`q4` · 23 of 164 report an effect size · 202 claims rest on one study
 
 ## Description
 Age and developmental stage cover a learner's chronological age, grade level, and the cognitive, language and social development that comes with them. Research uses them as a predictor (growth curves, when skills emerge), as a moderator (an approach that works for older students but not younger ones, or for adults but not children) and to define a population (early childhood, adolescents, adult learners). Age is often a stand-in for what actually matters, such as prior knowledge, reading skill or self-regulation, so a finding that differs by age is a reason to ask which of those it reflects.
@@ -234,6 +234,8 @@ Age and developmental stage cover a learner's chronological age, grade level, an
 - [Older students perceive greater value of the technological skills acquired through online study](../claims/age-differentiates-digital-competence-assimilation.md) [+M] — learners who differ on it differ in outcomes
 - [Preferred social situation of contact shifts with grade level: younger children prefer family situations, fourth graders prefer being alone, and sixth graders prefer peers](../claims/grade-level-shifts-preferred-social-situation-of-contact.md) [+M] — learners who differ on it differ in outcomes
 - [Children aged 30–58 months tracked on average 1 target among 2 distractors, with a slight trend for older children to reach higher thresholds](../claims/trackfx-children-threshold-one-target.md) [~M] — learners who differ on it differ in outcomes
+- [Children need different kinds of comics at different developmental stages, from animal comics for early projective needs to invincible heroes for ego-inflation](../claims/children-comics-developmental-stages.md) [+M] — an instructional effect differs with it
+- [Present-day comics meet children's needs for identification objects more effectively than the literature available to the past generation](../claims/comics-identification-objects-better-than-past-literature.md) [+M] — an instructional effect differs with it
 
 ## The evidence by question
 - *Does being older at school entry, or older than one's classmates, give a lasting achievement advantage?* [Being a year older at kindergarten entry leads to higher initial achievement](../claims/older-entry-higher-initial-achievement.md) [+M]

@@ -68,3 +68,4 @@ Roscoe et al.'s no-control study of Writing Pal (113 students, average 16 h over
 - [In the grades 4-5 cluster RCT, ITSS produced statistically significant positive effects on all six comprehension outcomes (average effect size 0.24)](itss-grade45-rct-comprehension-gains.md) — related
 - [AI-driven personalized and adaptive learning pathways support learner engagement and satisfaction in online courses](ai-adaptive-pathways-support-engagement.md) — related
 - [The introduction reports that the VCR tutor produced statistically significant performance gains in using the VCR, a rare result for ITSs at the time](vcr-tutor-significant-performance-gains.md) — a narrower finding that bears on this claim
+- [Teachers across the reviewed studies used varied digital learning platforms, including learning management systems, adaptive platforms, and intelligent tutoring systems](platforms-teachers-use-lms-its-adaptive.md) — related

@@ -52,3 +52,4 @@ The umbrella review reports this meta-analysis of 46 correlation matrices on in-
 - [Behavioural intention to use GenAI tools significantly predicts in-service teachers' self-reported pedagogical digital competence for curriculum planning](bi-predicts-genai-digital-competence.md) — related
 - [Teachers perceived OUA as useful and easy to use, with positive cognitive evaluations suggesting low academic resistance](teachers-perceive-oua-useful-easy.md) — related
 - [Teachers' expectancy beliefs about successfully using AI applications shape their motivation to use them (theoretical argument).](teacher-expectancy-beliefs-shape-motivation-to-use-ai.md) — related
+- [Students' willingness to accept learning analytics systems is moderately predicted by their attitudes toward data control and sharing](privacy-attitudes-predict-analytics-acceptance.md) — a narrower finding that bears on this claim

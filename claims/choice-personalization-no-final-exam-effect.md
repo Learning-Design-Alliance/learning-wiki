@@ -48,3 +48,4 @@ ANOVA on the 20-item final exam (Cronbach's Alpha 0.94) among learners who submi
 - [Implementation intentions did not affect final exam performance, whereas prior performance strongly predicted exam grade](implementation-intentions-no-exam-performance-effect.md) — related
 - [Choice-based personalization did not affect assignment submission likelihood, essay length, or self-reported time-on-task](choice-personalization-no-assignment-effort-effect.md) — related
 - [In a randomized controlled trial, SI-PASS participation did not significantly improve final exam performance compared to a waiting-list control group](si-pass-rct-no-performance-effect.md) — related
+- [Treatment group assignment does not affect final exam grades, but performance in the e-learning sessions predicts exam scores](session-performance-predicts-exam-no-treatment-effect.md) — related

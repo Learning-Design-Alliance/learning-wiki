@@ -50,3 +50,4 @@ A synthesis statement in the commentary's assessment question on how we learn, d
 - [Students perceive that interacting with others in experiential learning fosters empathy and a sense of community by enhancing perspective-taking (beauty)](students-interaction-empathy-perspective-taking.md) — a narrower finding that bears on this claim
 - [Social and emotional competence can be enhanced through explicit instruction, teaching practices, and curriculum integration](sel-classroom-approaches-three-types.md) — related
 - [Motivation theories in education have converged on a learner-centered focus over recent decades](motivation-theories-converged-learner-centered.md) — related
+- [Barach argues game-based learning needs more pedagogical rigor, scaffolding integration, and learner accountability through design](need-pedagogical-rigor-learning-games.md) — related

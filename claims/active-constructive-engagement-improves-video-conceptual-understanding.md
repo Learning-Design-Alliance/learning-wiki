@@ -50,3 +50,4 @@ User study with postgraduate volunteers using the full AVW-Space version; nobody
 - [Identical overt behaviors can reflect different engagement modes: a video-watching example](identical-overt-behavior-different-modes.md) — related
 - [Engagement mode is orthogonal to instructional task: any task can be engaged at any of the four modes](engagement-mode-orthogonal-to-instructional-task.md) — a broader claim this one bears on
 - [Specified aspects acted as micro-scaffolds: comments on example videos were almost equally distributed over the aspects, indicating participants watched with those aspects in mind](aspects-scaffold-video-commenting-thinking.md) — related
+- [Self-reported preparation behaviors, especially watching tutorial videos, predict performance in the e-learning sessions](preparation-behaviors-predict-session-performance.md) — related

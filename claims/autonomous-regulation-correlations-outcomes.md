@@ -61,3 +61,4 @@ Correlational analysis of all measured variables (Table 1) among 188 adult learn
 - [Extraneous cognitive load is negatively associated with autonomous motivation and positively with disengagement, while intrinsic load is negatively associated with motivation, engagement, and achievement](cognitive-load-negatively-associated-motivation-engagement.md) — related
 - [Controlled motivation negatively predicts school grades and does not compensate for low autonomous motivation](controlled-motivation-negative-no-compensation.md) — related
 - [Internally divergent momentary engagement profiles occur within a single task, with students attentive yet emotionally and cognitively disengaged](divergent-internal-engagement-dynamics-single-task.md) — related
+- [Dual Empowerment positively predicts affective, motivational, and cognitive mediating processes](dual-empowerment-predicts-psychological-mediators.md) — related

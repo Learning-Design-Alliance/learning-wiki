@@ -113,6 +113,7 @@ SRL instruction works best when strategy teaching is embedded in authentic subje
 - [Complement deep-processing cognitive prompts with practice testing, distributed practice, and metacognitive or motivational prompts to support long-term retention](complement-deep-prompts-with-testing-spacing-and-other-prompts.md)
 - [Instructors foster metacognition through reflection on process, direct immediate feedback, and taught study habits](foster-metacognition-reflection-feedback-study-habits.md)
 - [Foster autonomy and curiosity-driven learning by embedding metacognitive processes and self-regulation elements into education](embed-metacognitive-srl-support-post-pandemic.md)
+- [SRL cycle design strategies: goal setting, strategic planning across four strategy types, accessible self-control prompts, and self-monitoring records](srl-cycle-design-strategies-fc.md)
 
 ## Examples
 - **[Reciprocal Teaching](reciprocal_teaching.md) (Palincsar & Brown)** — small groups rotate the roles of summarizer, questioner, clarifier, and predictor while reading; the teacher models then fades, transferring regulation to students over ~20 sessions.

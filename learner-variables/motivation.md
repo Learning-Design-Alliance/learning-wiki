@@ -13,7 +13,7 @@ generated:
 # Motivation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 324 claims (215 show a difference, 77 mixed, 32 no difference) · 235 studies (84 associational, 68 causal, 37 review, 16 theoretical, 14 quant-synthesis, 10 qualitative, 6 design), `q1`–`q4` · 65 of 235 report an effect size · 312 claims rest on one study
+> **Evidence** · 325 claims (216 show a difference, 77 mixed, 32 no difference) · 236 studies (85 associational, 68 causal, 37 review, 16 theoretical, 14 quant-synthesis, 10 qualitative, 6 design), `q1`–`q4` · 65 of 236 report an effect size · 313 claims rest on one study
 
 ## Description
 Whether a learner will spend effort here, and what makes it feel worth spending. It decides whether a page must earn attention before it can teach, and how much open-endedness is tolerable. The honest state of the evidence is that the mechanisms are well supported and the *interventions* are modest — growth-mindset programmes produce small average effects concentrated in specific subgroups [+W], which is a reason to design for motivation rather than to bolt an intervention on.
@@ -374,6 +374,7 @@ Whether a learner will spend effort here, and what makes it feel worth spending.
 - [Students teaching a digital tutee with low self-efficacy show better in-game math performance than students teaching a high self-efficacy tutee](../claims/low-se-tutee-better-in-game-performance.md) [+M] — an instructional effect differs with it
 - [Students using the ACF-PA approach showed significantly higher intrinsic motivation than students using the C-PA approach, with no significant difference in extrinsic motivation](../claims/acf-pa-improves-intrinsic-motivation.md) [~M] — instruction changes it
 - [Triggered situational interest shows anecdotal evidence of being higher in the VR condition while maintained situational interest does not differ](../claims/desktop-vr-scaffolded-self-explanation-situational-interest.md) [~M] — instruction changes it
+- [Creative behavior persistence, operationalized as time spent in the second activity, predicts producing a creative solution](../claims/creative-behavior-persistence-predicts-creative-solution.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does autonomy-supportive teaching raise motivation and engagement compared with controlling teaching?* [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](../claims/autonomy-supports-intrinsic-motivation.md) [+M]

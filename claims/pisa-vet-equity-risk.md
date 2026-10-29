@@ -53,3 +53,5 @@ The article's challenge analysis (type e) argues VET students may already be dis
 - [Children from low-SES backgrounds hold more negative academic self-views, which partially mediate the SES-achievement association across 70 countries](low-ses-negative-self-views-mediate-achievement-inequality.md) — related
 - [The pandemic strengthened the link between socioeconomic status and mathematics scores, but only in countries with closures shorter than 22 weeks](escs-slope-increase-short-closures.md) — related
 - [A narrow focus on cognitive outcomes in evaluating educational inequality may perpetuate or increase inequality](cognitive-outcome-focus-may-perpetuate-inequality.md) — a broader claim this one bears on
+- [Digital learning environments during the pandemic raise implications for addressing social inequities and education policy reform](digital-environments-social-inequities-policy-reform.md) — related
+- [OER are a mixed blessing for equity: without purposeful use toward equity and justice they can reinforce inequities](oer-mixed-blessing-for-equity.md) — related

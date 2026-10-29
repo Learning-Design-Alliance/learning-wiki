@@ -48,3 +48,4 @@ Practitioner assertion in the field note's Test with Real People phase, offered 
 - Rapid prototyping methods can amplify novice designers' tendency to commit to a solution too early. — related
 - [High-fidelity prototype evaluation found the form-like structure frustrating; a guided progressive-disclosure design replaced it](form-like-structure-frustration-guided-progression.md) — related
 - [Low-fidelity prototype evaluation found initial UI options overwhelming and checkbox selections unintuitive](paper-prototype-overwhelming-options-feedback.md) — related
+- [User testing showed free-form note-taking frustrated users, prompting a redesign to drag-and-drop scaffolding that reduced frustration and improved engagement](drag-and-drop-notebook-scaffolding-redesign.md) — related

@@ -54,3 +54,4 @@ One-way ANOVA (Welch's F) over 30 four-item tasks comparing the easiest, rather 
 - [Perceived task difficulty ratings show a strong relation to Rasch-estimated relative task difficulty, supporting construct validity of the single-item scale](perceived-task-difficulty-correlates-with-relative-task-difficulty.md) — related
 - [Item complexity moderates picture function effects, with informational pictures potentially helping on difficult items but hindering on easy ones](item-complexity-moderates-picture-effects.md) — related
 - [Delayed effort ratings are higher than the average of immediate ratings, suggesting itemized appraisals are more sensitive to effort fluctuations](delayed-effort-ratings-exceed-average-immediate-ratings.md) — related
+- [Implausible distractors were associated with low perceived difficulty: 80% of questions with implausible distractors were rated Easy](implausible-distractors-easy-difficulty-association.md) — related

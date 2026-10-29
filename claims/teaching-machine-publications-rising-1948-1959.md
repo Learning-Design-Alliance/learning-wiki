@@ -51,3 +51,4 @@ Bibliographic frequency analysis shown in Figure I, a plot of "The ]requency per
 - [Publications on prior knowledge and learning increased strongly from 1980 to 2021, reaching about 600 new publications per year](prior-knowledge-publication-growth-600-year.md) — related
 - [Annual metacognition publications rose through the period, peaking at over 250 in 2022 before dropping to 125 in 2023](metacognition-publication-growth-peak-2022.md) — related
 - [Empirical research on embodied learning in language education is a small but rapidly growing area, with 41 studies identified and most published 2019–2020](embodied-language-learning-research-growing-41-studies.md) — related
+- [Computers have been used for language learning since the 1960s](computers-language-learning-since-1960s.md) — related

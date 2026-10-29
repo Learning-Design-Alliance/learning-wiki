@@ -47,6 +47,7 @@ Beyond applying the existing framework, the article recommends extending it. The
 ## Related Strategies
 
 - [Support virtual lab-based learning by mapping faculty guidance strategies onto the five inquiry phases](faculty-strategies-virtual-labs-five-phases.md)
+- [Revisit automated guidance and leverage new technological affordances and adaptive feedback to enhance guidance in computer-supported inquiry learning](revisit-automated-guidance-adaptive-feedback-strategy.md)
 
 ## Examples
 -

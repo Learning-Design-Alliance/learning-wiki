@@ -52,3 +52,4 @@ Cross-review synthesis in the umbrella review; Pettersson (2018) concludes schoo
 - [Internal organisational conditions strengthen internal social drivers promoting technological change](organisational-culture-sustainability-strengthen-social-drivers-ai-adoption.md) — related
 - [An AI-enabled world demands a data-literate citizenry able to read, use, interpret, and communicate about data and participate in AI-related policy debates](ai-enabled-world-demands-data-literate-citizenry.md) — related
 - [Previous reviews of teachers' role in digitalizing education cluster into six main research themes, with digital literacy the most prominent (addressed in 14 of 23 reviews)](six-research-focus-themes-teacher-digitalization.md) — a broader claim this one bears on
+- [Digital instructional leadership is positively associated with comprehensive AI integration in schools](digital-instructional-leadership-ai-integration.md) — related

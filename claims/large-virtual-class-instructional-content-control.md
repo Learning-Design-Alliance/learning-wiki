@@ -49,3 +49,4 @@ Interview theme on managing instructional delivery. Teachers asked questions thr
 - [Teachers of large virtual classes in Ghana faced environmental constraints, inadequate institutional support, learner reluctance to participate, inability to monitor attentiveness, and delayed feedback due to class size](large-virtual-class-challenges-ghana-covid.md) — related
 - [Discussion promotes more active thinking than lecture, though lecture is no worse for transmitting information](discussion-promotes-more-active-thought-than-lecture.md) — related
 - [During the pandemic teachers employed an array of digital tools, including non-institutional ones, to maintain content delivery and promote interaction](expanded-digital-tool-array-during-got.md) — related
+- [Designers' intents for interactive features cluster into two themes: attention-getting and engagement techniques](design-intent-attention-and-engagement.md) — related

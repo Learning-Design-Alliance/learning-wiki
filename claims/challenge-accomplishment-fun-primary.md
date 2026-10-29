@@ -52,3 +52,4 @@ Focus group thematic analysis (N = 12 students): students described preferring m
 - [Students perceive diversity in learning—varied content, outdoor and technology-supported approaches, and physical activity—as essential to fun in learning](diversity-in-learning-fun-element.md) — related
 - [Linguistically varying an instructional video into easy, moderate, and difficult versions does not significantly affect students’ expectancies of success or intrinsic task value compared with the moderate version](linguistic-condition-no-effect-expectancy-value-beliefs.md) — related
 - [Experienced effort-by-need frustration is neither a necessary requirement nor a typical concomitant of high-quality learning](need-frustration-not-necessary-for-learning.md) — related
+- [Two major challenges undermine gamification's effect on intrinsic motivation: students' lack of perceived competence and lack of perceived autonomy](gamification-challenges-competence-autonomy.md) — related

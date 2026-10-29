@@ -53,3 +53,4 @@ Qualitative questionnaire study (RQ2): two lesson designers compared three-segme
 - [Educators benefit from AI chatbots through time-saving administrative assistance and improved pedagogy](chatbot-educator-time-saving-pedagogy.md) — a broader claim this one bears on
 - [Students rated the flipped-learning component highest and the GenAI module lower, with GenAI rated stronger for ideation than for time saving or direct output use](genai-rated-for-ideation-not-time-saving.md) — related
 - [Teachers report a need for faster lesson planning and material preparation to gain time for higher-value activities](teachers-need-faster-lesson-planning.md) — related
+- [Instructors reported time savings of up to 80% for quiz preparation compared to traditional methods](instructor-reported-time-savings-up-to-80-percent.md) — related

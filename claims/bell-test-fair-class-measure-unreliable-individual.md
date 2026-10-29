@@ -49,3 +49,4 @@ The author's interpretation of the Table II correlations in the article's runnin
 - [Spelling test scores correlate highly with teachers' year-long marks (average coefficient .69 across grades 3–8)](spelling-test-teacher-mark-correlations.md) — related
 - [Peer marks and grades show acceptably high reliability with teachers' marks in most comparison studies, but a substantial minority report low reliability](peer-assessment-adequate-reliability-most-studies.md) — related
 - [Partial and multiple correlation show the last two tests contribute most and the tests are fairly well selected](cross-out-scale-partial-correlation-test-contributions.md)
+- [MITOCAR was used across two semesters to determine how well it predicts the development of expertise](mitocar-predicts-expertise-development-two-semesters.md) — related

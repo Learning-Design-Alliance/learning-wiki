@@ -90,3 +90,4 @@ Student interview excerpt in the theme simulation can support inquiry learning a
 - [Post-program surveys show most students felt more likely to pursue STEM, more comfortable in university labs, and found the program appropriately challenging](discovery-survey-attitudes-comfort-pursuit.md) — related
 - [A biology cloud lab integrated into a MOOC enabled over 300 remote students to run over 2,300 real experiments with minimal wait time](biology-cloud-lab-mooc-scale-deployment.md) — related
 - [Motivation, participation, encouragement, fun and interest rated high during the intervention; critical thinking more modest](mbot-motivation-engagement-high.md) — related
+- [Leveraging appropriate types of guidance during the relevant phases of inquiry benefits student inquiry in virtual and remote labs](phase-appropriate-guidance-benefits-inquiry-labs.md) — related

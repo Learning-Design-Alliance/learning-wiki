@@ -55,3 +55,4 @@ Qualitative case study based on interviews with CFJ organizers, district and sch
 - [Teachers report that building trust is the first and most important goal with students in foster care, and that trust precedes willingness to work](trust-first-goal-foster-care-students.md) — related
 - [Effective leadership plays a pivotal role in guiding digital transformation in educational organizations](leadership-pivotal-digital-transformation-education.md) — related
 - [Empathy interviews became a widely adopted data-gathering technique for understanding stakeholder perspectives on problems](empathy-interviews-adopted-by-improvement-teams.md) — related
+- [Trust is a key enabler of knowledge sharing in online learning communities](trust-enables-knowledge-sharing-online.md) — related

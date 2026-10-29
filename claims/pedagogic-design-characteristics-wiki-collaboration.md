@@ -56,3 +56,4 @@ Authors' discussion-section interpretation of their own study design, naming fou
 - [A wiki with a thinking-together approach can provide a dialogic space in which students co-construct shared understanding](wiki-dialogic-space-co-construction.md) — a broader claim this one bears on
 - [Text representations reflect learners' understandings of the real world, not only texts' content](representation-reflects-world-understandings.md) — related
 - [Teacher-guided whole-class discussion and collaborative evaluation of student representations were largely absent from the online unit's implementation](teacher-guided-discussion-limited-online-rca.md) — related
+- [The KnowCat computer-supported collaborative learning environment was evaluated for its impact on metacognitive knowledge development](knowcat-collaborative-environment-metacognitive-knowledge.md) — related

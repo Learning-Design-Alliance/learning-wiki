@@ -114,3 +114,5 @@ gamified vocabulary practice.
 - [Gamification elements significantly affected students' achievements](gamification-elements-significantly-affected-achievements.md) — a narrower finding that bears on this claim
 - [Gamified virtual reality learning environments were more motivating, engaging, and interactive than traditional learning environments](gamified-vr-more-motivating-engaging-interactive-than-traditional.md) — a narrower finding that bears on this claim
 - [Students who played iThinkSmart VR mini games gained higher CT cognitive benefits than students learning through the traditional lecture method](ithinksmart-vr-higher-cognitive-benefits.md) — a narrower finding that bears on this claim
+- [Gamification has minimal impact on students' perceived competence](gamification-minimal-impact-perceived-competence.md) — related
+- [Reward contingency significantly moderates gamification's effect on intrinsic motivation, with 'each unit solved' contingencies showing larger effects](reward-contingency-moderates-gamification-effect.md) — related

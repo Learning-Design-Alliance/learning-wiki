@@ -47,3 +47,5 @@ Theoretical argument in a response article: the author contends that "heuristics
 ## Related Claims
 - [Realizing the full potential of the Nacu et al. heuristic requires repositioning online learning as a knowledge-building environment](online-learning-as-knowledge-building-environment.md) — related
 - [Nacu, Martin, and Pinkard's heuristic method addresses the questions educators faced during the COVID-19 school closures](nacu-heuristic-method-covid-relevance.md) — related
+- [Nacu et al.'s heuristic method for enabling educator learning-support roles can be utilized during the COVID-19 pandemic](heuristic-method-learner-support-pandemic-use.md) — related
+- [Educator learner-support roles in online education should be fulfilled from a contextual perspective, following Nacu et al.'s (2018) guidelines](learner-support-roles-contextual-perspective.md) — related

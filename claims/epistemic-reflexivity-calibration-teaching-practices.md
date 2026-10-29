@@ -47,3 +47,4 @@ Conceptual argument summarizing Lunn, Ferguson and Ryan's article in the special
 ## Related Claims
 - [Reflexive noticing shifts teacher discourse from stabilization to possibility, while surprises alone often re-stabilize it](reflexive-noticing-shifts-stabilization-to-possibility-discourse.md) — related
 - [Quasi-experimental and experimental interventions can positively change epistemic cognition, but the theory-of-change remains unidentified](interventions-change-epistemic-cognition.md) — related
+- [Archer's model of agency helps explain how interviewed online students engaged in their learning](archer-agency-model-explains-online-engagement.md) — related

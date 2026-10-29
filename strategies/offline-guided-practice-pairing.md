@@ -41,6 +41,7 @@ For every skill covered in the program, offline Guided Practice materials are av
 - [Use data dashboards and alerts so teachers monitor progress and intervene when students struggle](dashboard-monitoring-teacher-intervention.md)
 - [Pair offline skills lessons targeting identified comprehension deficiencies with small-group and whole-group teacher-led instruction](offline-skills-lessons-with-group-instruction-guidelines.md)
 - [Offline Learning Packets](offline-learning-packets.md)
+- [Combine adaptive online practice with scripted offline small-group lessons tied to the digital content](scripted-offline-lessons-tied-to-digital-content.md)
 
 ## Examples
 -

@@ -51,3 +51,4 @@ Factor analysis of the shortened 18-item MAI administered with the HowULearn que
 - [Playful study design is measured as a two-dimensional construct of designing fun and designing competition, supported by exploratory and confirmatory factor analyses](psd-two-factor-structure.md) — related
 - [The dissonant profile scores lowest of all profiles on knowledge about cognition, but does not differ from the unorganized-deep profile on regulation of cognition](dissonant-profile-lowest-knowledge-cognition.md) — related
 - A task-specific multiple-text strategy inventory yields two correlated strategy dimensions: cross-text elaboration and accumulation of information — related
+- [Use of the tool correlates positively but inconsistently with gains in metacognitive awareness](tool-use-correlates-with-metacognitive-gains.md) — related

@@ -77,6 +77,7 @@ The study's concluding recommendation is that ethical AI use in higher education
 - [Provide institutional support: regular GenAI workshops, subsidized access to advanced tools, reliable resources, and curriculum inclusion](institutional-support-genai-translation-workshops-curriculum.md)
 - [Institutions should adopt clear, prominently displayed AI policies and cultivate AI literacy for ethical, employability-oriented use](clear-ai-policies-and-ai-literacy-strategy.md)
 - [Use the classification tool to shape AI-in-education guidelines, professional development, and teacher adaptation of ChatGPT activities](use-classification-tool-policy-pd.md)
+- [Institutional support package: professional development, technical support, engagement strategies, and assessment reform](institutional-support-technology-integration-strategy.md)
 
 ## Examples
 -

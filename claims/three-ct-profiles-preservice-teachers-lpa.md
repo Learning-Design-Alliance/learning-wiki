@@ -73,3 +73,4 @@ Latent profile analysis of survey data from 128 pre-service teachers identified 
 - [Latent profile analysis of primary teachers' SRL competence yields two quantitative profiles (low vs. high competence) rather than three qualitatively distinct situative, cognitive, or mixed profiles](two-srl-teacher-competence-profiles-low-high.md) — related
 - [During a year-long AI curriculum, most students maintained or moved upward in motivational profile, with substantial upward transitions out of the Disengaged profile](upward-motivational-transitions-year-ai-curriculum.md) — related
 - [Four distinct action-control belief profiles (agentic, moderate, avoidant, and mixed) emerge among Finnish ninth graders](four-action-control-belief-profiles-ninth-graders.md) — related
+- [Latent profile analysis of mobile study app log data identifies three distinct student engagement profiles: disengaged, utilitarian, and active](three-engagement-profiles-mobile-retrieval-app.md) — related

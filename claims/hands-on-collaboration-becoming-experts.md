@@ -52,3 +52,4 @@ The authors' interpretive report from their cyberlearning design experience, exp
 - [Embodied hands-on practices remain important learning activities in AI-era design education](embodied-hands-on-remains-present.md) — related
 - [Role rotation created opportunities for perspective-taking and collaborative accountability, but also produced difficulty adapting to unfamiliar roles and uneven participation](role-rotation-perspective-taking-and-challenges.md) — related
 - [Constructive learning beats active and passive learning](constructive-learning-beats-active-passive.md) — a broader claim this one bears on
+- [Learner support roles can be leveraged to balance affordances offered by the learning environment and the learners themselves](learner-support-roles-balance-affordances.md) — related

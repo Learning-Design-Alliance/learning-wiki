@@ -46,3 +46,4 @@ Descriptive pre/post survey comparison at the community session. The article rep
 - [Curiosity about AI shifted between pre- and post-survey, from 71% to 50%, which the authors interpret as a move from diffuse curiosity to concrete critical engagement](curiosity-shifted-diffuse-to-critical.md) — related
 - [Community adults entering an AI education session held broad, generalized concerns about AI, including distrust of self-regulation and privacy worries](community-adults-broad-generalized-ai-concerns.md) — related
 - [One-third of the Ukrainian general public does not know what AI is, and 64.1% do not use AI chatbots](ukrainian-public-ai-awareness-baseline.md) — related
+- [Only about one fourth of participants reported specific data-protection actions, suggesting a single session is not enough for behavioral change](single-privacy-session-insufficient-behavior-change.md) — related

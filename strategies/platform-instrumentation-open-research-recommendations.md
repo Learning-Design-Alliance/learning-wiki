@@ -42,6 +42,7 @@ In its conclusion the report recommends future directions for advancing platform
 - [Design classroom-embedded experiments as small, focused, theory-driven manipulations](focused-theory-driven-embedded-manipulations.md)
 - [Research on composite instructional designs should connect studies via a common theoretical model and may exploit machine-learning-based process data](common-model-and-ml-methods-for-composite-designs.md)
 - [Use identified KAM social practices to guide collaborative platform features supporting teacher adoption](platform-features-guided-by-kam-practices.md)
+- [Equip teachers with technology and training, and conduct large-scale quantitative studies, to advance platform-data use for adaptive instruction](platform-data-use-research-and-practice-implications.md)
 
 ## Examples
 -

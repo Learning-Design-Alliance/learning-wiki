@@ -47,3 +47,4 @@ The commentary attributes this gap to Kuo and Belland (2016), stating the study 
 ## Related Claims
 - [YOUmedia attracts between 350 and 500 teens weekly, with African American males the largest single demographic group](youmedia-attracts-350-500-teens-weekly.md) — related
 - [The COVID-19 shift to digital revealed inequality in access to education caused by technology access and online delivery that may not address student voice](pandemic-revealed-inequality-in-access-to-education.md) — related
+- [Types of interaction correlated with African American students' success in an undergraduate online course, per Kuo and Belland's exploratory study as revisited here](interaction-types-correlated-african-american-student-success-online.md) — related

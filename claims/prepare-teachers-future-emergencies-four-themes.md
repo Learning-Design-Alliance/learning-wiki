@@ -48,3 +48,4 @@ Thematic analysis of open-ended survey and interview responses from the same mix
 - [Six major challenge themes faced by K-12 teachers during early COVID-19 online teaching emerged from thematic analysis](k12-teacher-challenges-covid-online-themes.md) — related
 - [Five themes characterized K-12 teachers' perspectives of the post-COVID 'new normal', including more online or blended learning and uncertainty about what it would look like](new-normal-perspectives-five-themes.md) — related
 - [Academic integrity, professional development, and equity concerns about AI span all surveyed units, though interpreted differently](integrity-equity-concerns-span-all-units.md) — related
+- [Technology integration expanded academics' workload, producing identity tension and emotional labour](technology-integration-expands-academic-workload-identity-tension.md) — related

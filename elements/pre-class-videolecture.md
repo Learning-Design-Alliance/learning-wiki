@@ -13,7 +13,7 @@ generated:
 # Pre-Class Video/Lecture
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 24 claims (11 for, 10 mixed, 3 against) · 29 studies (11 causal, 6 review, 4 quant-synthesis, 3 associational, 3 qualitative, 2 theoretical), `q1`–`q4` · 7 of 29 report an effect size · 19 claims rest on one study
+> **Evidence** · 25 claims (12 for, 10 mixed, 3 against) · 30 studies (12 causal, 6 review, 4 quant-synthesis, 3 associational, 3 qualitative, 2 theoretical), `q1`–`q4` · 7 of 30 report an effect size · 20 claims rest on one study
 
 ## Description
 Instructional content — exposition, worked demonstrations, or recorded lectures — is delivered via video before class, so that synchronous time can be spent on application, discussion, and feedback rather than first exposure. The video functions as the initial-instruction component of a [Flipped Classroom](../principles/flipped-learning.md), shifting information transmission outside the group learning space.
@@ -70,6 +70,7 @@ Pre-class video works only when paired with accountability and application: stud
 - [Students responded with polarised feedback to a redesigned technology-rich active-learning course, with almost a quarter disliking the flipped-video approach](../claims/polarised-student-feedback-technology-rich-active-learning-course.md) [~W]
 - [The video lectures were effective overall, producing significant knowledge gains](../claims/video-lecture-overall-effectiveness.md) [+W]
 - [Learners recognize an instructor's positive versus negative emotional tone in video lectures.](../claims/learners-recognize-instructor-emotional-tone-video.md) [~W]
+- [Self-reported preparation behaviors, especially watching tutorial videos, predict performance in the e-learning sessions](../claims/preparation-behaviors-predict-session-performance.md) [+W]
 
 ## The evidence by question
 - *Does a flipped course raise academic performance over the same course taught by lecture?* [In a low-certainty meta-analysis of 44 studies with very high heterogeneity (I² = 98%), undergraduate health professional students in flipped classes score higher than those in traditional classes (SMD = 0.57)](../claims/flipped-classroom-improves-academic-performance-hpe.md) [+M]
@@ -97,6 +98,7 @@ Pre-class video works only when paired with accountability and application: stud
 
 **Flipped STEM courses (e.g., University of Washington's flipped introductory chemistry)** — Published implementations pairing short pre-class videos with in-class problem solving; studies report moderate learning gains over lecture-only formats [Investigating the effects of a flipped classroom on student learning.](https://doi.org/10.1187/cbe.14-08-0129) [+M]
 - [Assign guided or scaffolded note-taking to be completed while watching lecture videos to keep video viewing active rather than passive](../strategies/guided-note-taking-while-watching-videos.md)
+- [Watch-Read-Think (WRT) pre-class strategy for online self-learning of sports action video content](../strategies/watch-read-think-preclass-strategy.md)
 
 ## Key Sources
 - Guo, P. J., Kim, J., & Rubin, R. (2014). How video production affects student engagement: An empirical study of MOOC videos. *Proceedings of the First ACM Conference on Learning @ Scale*, 41–50. [doi:10.1145/2556325.2566239](https://doi.org/10.1145/2556325.2566239)

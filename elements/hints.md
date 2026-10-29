@@ -22,7 +22,7 @@ sources:
 # Hints
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 26 claims (9 for, 16 mixed, 1 against) · 18 studies (8 causal, 4 design, 2 review, 2 associational, 1 qualitative, 1 theoretical), `q2`–`q3` · 4 of 18 report an effect size · 25 claims rest on one study
+> **Evidence** · 31 claims (12 for, 18 mixed, 1 against) · 20 studies (9 causal, 5 design, 2 review, 2 associational, 1 qualitative, 1 theoretical), `q1`–`q3` · 4 of 20 report an effect size · 30 claims rest on one study
 
 ## Description
 Hints are partial prompts or cues that help learners continue a task without fully giving away the answer. They are useful when the design goal is to preserve productive struggle while reducing the chance of stuckness, confusion, or abandonment.
@@ -76,6 +76,11 @@ Hints are partial prompts or cues that help learners continue a task without ful
 - [Waypoint hints show lower justification and adoption rates than Next-Step hints](../claims/waypoints-lower-justification-adoption.md) [~M]
 - [Hint-level feedback about violated domain principles produced faster and more effective learning than other feedback levels in SQL-Tutor](../claims/hint-level-feedback-superior-sql-tutor.md) [+W]
 - [Uncontrolled hint use can considerably reduce students' learning and autonomous solving capacity](../claims/uncontrolled-hint-use-reduces-learning.md) [~W]
+- [Adding hints to multiple-try feedback increases students' performance during the e-learning learning phase in an authentic university statistics course](../claims/hints-in-multiple-try-feedback-increase-learning-phase-performance.md) [+W]
+- [Hints in multiple-try feedback marginally reduce students' metacognitive bias score](../claims/hints-marginal-bias-score-reduction.md) [+W]
+- [Hints in multiple-try feedback reduce the likelihood of making errors during the learning phase](../claims/hints-in-multiple-try-feedback-reduce-learning-phase-errors.md) [+W]
+- [Hints in multiple-try feedback do not significantly improve performance on the immediate test taken directly after the learning phase](../claims/hints-no-significant-immediate-testing-effect.md) [~W]
+- [Most interviewed students did not use NNG 4's tutorial and hint options, and preferred harder game difficulty](../claims/nng4-tutorial-hint-largely-unused-preferred-difficulty.md) [~W]
 
 ## The evidence by question
 

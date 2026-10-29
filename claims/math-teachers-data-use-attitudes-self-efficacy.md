@@ -69,3 +69,4 @@ The review reports Hawn's (2019a) finding that the high-variety/high-rate user g
 - Gender effects on self-regulated learning are mediated by culture, discipline, and age, with mixed direction across samples — related
 - [Self-efficacy correlates positively with conceptual understanding in both flipped classroom methods](self-efficacy-correlates-conceptual-understanding.md) — related
 - [Successful use of mastery learning has powerful but mixed effects on teacher variables, including more positive attitudes, altered attributions, and reduced teaching confidence](mastery-mixed-teacher-variable-effects.md) — related
+- [Teachers used platform data mainly to understand learning processes and derived differentiation, individualization, and whole-class instructional actions](platform-data-instructional-actions-differentiation.md) — related

@@ -15,7 +15,7 @@ grain_size: course
 # Blended Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 19 claims (9 for, 10 mixed) · 17 studies (5 quant-synthesis, 5 associational, 2 causal, 2 theoretical, 1 review, 1 qualitative, 1 design), `q1`–`q4` · 5 of 17 report an effect size · 17 claims rest on one study
+> **Evidence** · 20 claims (10 for, 10 mixed) · 18 studies (6 associational, 5 quant-synthesis, 2 causal, 2 theoretical, 1 review, 1 qualitative, 1 design), `q1`–`q4` · 5 of 18 report an effect size · 18 claims rest on one study
 
 ## Description and scope
 
@@ -124,6 +124,7 @@ This pattern is scoped to dividing a course between online and in-person work. I
 - [The online mode impeded practical learning for students in practice-based subjects, though video demonstrations helped in some cases](../claims/online-mode-impeded-practical-learning.md) [~W]
 - [Flexibility was a key benefit for many students: 53% valued not having to travel, 61% found video recordings helpful, and 59% valued assignment deadline extensions](../claims/flexibility-benefits-recordings-extensions.md) [+W]
 - [The blended learning treatment effect on reading scores did not differ as a function of grade](../claims/core5-treatment-effect-uniform-across-grades.md) [~W]
+- [Over two school years of blended learning, ELs and non-ELs in grades 2–5 showed significant R-CBM growth at a similar pace](../claims/year-two-rcbm-growth-similar-pace.md) [+W]
 
 ## Examples
 - [ETV, programmed workbook and drive-in seminar inservice course](../designs/etv-workbook-seminar-inservice-course.md) — an early broadcast-era blend of television, mailed workbook assignments and periodic seminars

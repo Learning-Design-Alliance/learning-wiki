@@ -73,3 +73,4 @@ Pearson correlations in Study 2 related day 2 learning to naturalistic creativit
 - [Executive functions substantially account for the latent intelligence–creativity correlation, leaving a reduced but still positive residual of r = .34.](executive-functions-reduce-gf-creativity-correlation.md) — a broader claim this one bears on
 - [Creativity (divergent thinking ability) is predicted by both updating and inhibition, but not by shifting ability.](updating-and-inhibition-predict-creativity.md) — a broader claim this one bears on
 - [Openness to experience predicts creativity but not fluid intelligence, and further reduces the residual intelligence–creativity correlation to a trend.](openness-predicts-creativity-not-gf.md) — a broader claim this one bears on
+- [Intelligence and personality factors show no relationship to the influence of conclusion-drawing](no-intelligence-personality-relation-conclusion-drawing.md) — related

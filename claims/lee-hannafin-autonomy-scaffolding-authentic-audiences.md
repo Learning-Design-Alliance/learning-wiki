@@ -49,3 +49,4 @@ The commentary attributes this position to Lee and Hannafin (2016), reporting th
 - [The commentary calls for future research to examine what student-centered learning in online environments looks like in different contexts](future-research-scl-online-contexts.md) — related
 - [In Pilot District 3, majorities of students agreed that Compact Writing Assignments gave them topic choice and that autonomy and varied expression formats improved engagement and writing quality](compact-writing-assignments-student-choice-engagement.md) — a narrower finding that bears on this claim
 - [Meaningful choice about learning tasks increases interest, but only under boundary conditions](meaningful-choice-increases-interest-limited.md) — related
+- [Recognized cognitive principles for student-centered, Web-based learning are critically reviewed with a call for further in-depth study](cognitive-principles-student-centered-web-learning-review.md) — related

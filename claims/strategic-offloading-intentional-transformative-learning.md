@@ -50,3 +50,4 @@ Section 4.2 reports, citing Wang & Zhang (2026), mixed-methods research across t
 - [How a user engages with AI matters more than whether: structured, deliberate engagement can mitigate or reverse offloading effects](engagement-style-matters-more-than-whether.md) — related
 - [Metacognitive self-regulation mediates the relationships between all three AI interaction mechanisms and both higher-order outcomes](msr-mediation-ai-interaction-outcomes.md) — related
 - [U-shaped dynamics: partnership-vigilance and offloading-transformation relationships are convex, with benefits accelerating only beyond a threshold of engagement](u-shaped-thresholds-vigilance-offloading.md) — related
+- [Most learning objects demonstrated high agency while receptivity varied, with low receptivity often an intentional design decision](high-agency-varied-receptivity-intentional.md) — related

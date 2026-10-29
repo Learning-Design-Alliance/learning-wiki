@@ -54,3 +54,4 @@ Statistical discourse analysis combined with content analysis and discourse anal
 - [Providing cognitive and metacognitive group awareness information did not have the expected impact on learning outcomes despite knowledge and confidence gains](group-awareness-information-no-impact-on-learning-outcomes.md) — related
 - [Personalized scaffolds increased frequencies of high cognition and monitoring relative to control, but learning outcomes did not differ between conditions.](scaffolds-changed-srl-processes-not-outcomes.md) — related
 - [Computer-based metacognitive scaffolding shows limited evidence of long-term retention or transfer of the scaffolded skills](limited-evidence-long-term-metacognitive-retention.md) — related
+- [The KnowCat computer-supported collaborative learning environment was evaluated for its impact on metacognitive knowledge development](knowcat-collaborative-environment-metacognitive-knowledge.md) — related

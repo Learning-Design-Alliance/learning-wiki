@@ -50,3 +50,4 @@ Video-analysis study by Silvis, Taylor and Stevens of sibling or caregiver-child
 - [LLM capabilities enabled family education systems across conversational, embodied, and spatial interface forms to generate support from the context of an unfolding interaction](llm-generated-support-unfolding-interaction.md) — related
 - [Spatial Training Improves Math Performance](spatial-training-improves-math-performance.md) — related
 - [Collaborative Learning Improves Outcomes](collaborative-learning-improves-outcomes.md) — a broader claim this one bears on
+- [Academics reconstructed teacher identities by integrating accessible digital tools such as WhatsApp and Google Earth into teaching](accessible-digital-tools-identity-reconstruction.md) — related

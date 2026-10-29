@@ -13,7 +13,7 @@ generated:
 # Selected-Response Assessment Items
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 27 claims (4 for, 19 mixed, 4 against) · 26 studies (7 associational, 5 causal, 5 review, 5 design, 2 qualitative, 1 quant-synthesis, 1 theoretical), `q1`–`q3` · 6 of 26 report an effect size · 25 claims rest on one study
+> **Evidence** · 32 claims (7 for, 21 mixed, 4 against) · 27 studies (7 associational, 6 design, 5 causal, 5 review, 2 qualitative, 1 quant-synthesis, 1 theoretical), `q1`–`q3` · 6 of 27 report an effect size · 30 claims rest on one study
 
 ## Description
 In selected-response items — multiple-choice, true-false, and matching — students select a response the teacher or test developer provides rather than constructing one in their own words, so the item measures recognition rather than recall. Because results don't depend on a scorer's judgment (and so are often machine-scored), these items are called "objective," and their elimination of scoring error increases reliability. But teachers who rely on objective items exclusively risk reducing the validity of their overall assessment, since objective items aren't appropriate for every learning goal — effective assessment depends on aligning the technique to the actual goal (if the goal is for students to conduct an experiment, they should be asked to conduct one, not asked about conducting one).
@@ -85,6 +85,11 @@ Other common item-writing mistakes cut across formats: unclear wording (leaving 
 - [Word-picture matching task accuracy was predicted by post-test scores but not pre-test scores, supporting it as a concurrent measure of learning](../claims/matching-task-post-scores-concurrent-learning.md) [~W]
 - [Case-based (vignette) MCQs are classified as testing higher-order thinking and discriminate better between low- and high-information students](../claims/case-based-questions-higher-order-value.md) [~W]
 - [Expert evaluation found the hybrid system's generated MCQ stems promising in usefulness and grammatical correctness](../claims/expert-evaluation-mcq-stems-promising.md) [~W]
+- [Most LLM-generated MCQs from video transcripts met established quality criteria, with 84.05% rated clear, 86.38% containing plausible distractors, and 93.39% directly answerable](../claims/llm-mcq-video-quality-ratings-majority-clear.md) [+M] — attached 2026-10-29 from Giacomo Cassano et al. (2026), which proposed "LLM-based framework generating MCQs from video transcripts with the IWF checklist embedded in the generation prompt".
+- [Implausible distractors were associated with low perceived difficulty: 80% of questions with implausible distractors were rated Easy](../claims/implausible-distractors-easy-difficulty-association.md) [~W]
+- [The authors interpret LLM-based MCQ generation as better suited to declarative, explicitly stated knowledge than to context-dependent, procedural, or inferential knowledge](../claims/llm-mcg-declarative-knowledge-clearer-items.md) [+W]
+- [The most frequent formal flaw was an unfocused stem (IWF 13, 31.13% of items), usually from indefinite-article wording, though instructors judged such items still usable](../claims/iwf13-unfocused-stem-indefinite-article.md) [~W]
+- [47.08% of the 242 correct MCQs met all evaluated criteria and only four items exhibited three or more flaws](../claims/mcq-flaw-cooccurrence-121-pass-all.md) [+W]
 
 ## The evidence by question
 - *Which practice format: short answer, multiple choice, or matching the final test?* [Evidence on whether initial short-answer questions produce more learning than initial multiple-choice questions is mixed, with recent studies finding little or no difference](../claims/short-answer-versus-multiple-choice-retrieval-practice-evidence-is-mixed.md) [~M]

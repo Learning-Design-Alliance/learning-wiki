@@ -65,6 +65,7 @@ Structured perspective-taking discussion supports conceptual growth because lear
 - [Facilitate cognitive disequilibrium about ethnocentric views](facilitate-cognitive-disequilibrium.md)
 - [Use debriefing to enable multiple viewpoints, shared cognitive resources, and challenge students' assumptions to foster critical thinking](debriefing-multiple-viewpoints-critical-thinking.md)
 - [Adopt a dialogic format to align student and teacher perspectives on instructional quality within schools](dialogic-format-align-perspectives-instructional-quality.md)
+- [Critique educational technology studies by inserting the researcher and analyzing cultural context](cultural-perspective-critique-strategy.md)
 
 ## Examples
 - **[Facing History and Ourselves](../products/facing-history-and-ourselves.md)** (https://www.facinghistory.org) — published curriculum in which students analyze primary sources from multiple stakeholder positions on historical events, followed by structured discussion and reflection.

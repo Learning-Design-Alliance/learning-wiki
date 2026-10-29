@@ -73,3 +73,4 @@ Survey analysis compared the prevalence of motivation as a major problem across 
 - [Students experiencing more major challenges reported lower satisfaction with their post-COVID STEM course and learning](more-challenges-lower-post-covid-satisfaction.md) — related
 - [Online students' learning needs centre on course support and communication with tutors and other students](online-students-learning-needs-support-communication.md) — related
 - [Maintaining motivation was the most prevalent non-technology challenge students faced learning at a distance](motivation-most-prevalent-remote-challenge.md) — related
+- [Over 90% of students reported satisfaction with online learning resources and completion of online assignments in the blended PET course](high-online-self-learning-satisfaction-blended-pet.md) — related

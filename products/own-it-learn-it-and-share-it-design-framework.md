@@ -21,6 +21,7 @@ A design framework developed by Lee and Hannafin for structuring student-centere
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 - **Lee and Hannafin's own it, learn it, and share it design framework for enhancing engagement in student-centered learning, revisited from a design perspective**: This response essay revisits the design framework that Lee and Hannafin published in 2016 for "enhancing engagement in student-centered learning," which the abstract names by its three-part motto "own it, learn it, and share it." The essay discusses the framework's "value, application, and future development" in light of the pandemic-era move to full-scale online teaching. The detailed framework content appears in the underlying 2016 article rather than in the visible portion of this essay. (Xiaoqing Gu (2021))
+- **The Own it, Learn it, Share it framework structures student-centered online learning in three steps**: Tabor describes Lee and Hannafin's framework as a three-step student-centered course design built on self-determination theory, constructivism, and constructionism. In 'own it', students set their own goals; in 'learn it', teachers support them through direct instruction, tools, resources or discourse; in 'share it', students present a completed artifact to a selected group for feedback. Each step is designed to provide support as students explore topics interesting to them with a tangible product evaluated upon completion. (Joshua W. Tabor (2020))
 
 ### Claims
 - [Full-scale online teaching and learning practice during the pandemic generated new needs for student-centered learning, according to this response essay.](../claims/pandemic-online-teaching-needs-student-centered-learning.md) [+W]
@@ -30,3 +31,4 @@ A design framework developed by Lee and Hannafin for structuring student-centere
 
 ## Key Sources
 - Xiaoqing Gu. (2021). Response to “A design framework for enhancing engagement in student-centered learning: own it, learn it, and share it”: a design perspective. Education Tech Research Dev. https://doi.org/10.1007/s11423-020-09896-w
+- Joshua W. Tabor. (2020). Chaos: exploring an engaging online model for rapid application during the pandemic. Education Tech Research Dev. https://doi.org/10.1007/s11423-020-09878-y

@@ -54,3 +54,4 @@ MANOVA validation of the three latent profiles among 2,086 matched secondary stu
 - [The self-determined motivational profile is related to the best level of achievement in physical education](self-determined-profile-best-achievement-pe.md) — related
 - [Students' motivation in physical education combines into three distinct profiles: self-determined, non self-determined, and moderate levels of both types](three-motivational-profiles-pe-cluster-analysis.md) — related
 - [A K-means clustering of students based on pre- and post-project SDG knowledge identifies three distinct learning profiles, with the largest cluster showing the greatest knowledge gain.](k-means-three-sgc-learning-clusters.md) — related
+- [Latent profile analysis of mobile study app log data identifies three distinct student engagement profiles: disengaged, utilitarian, and active](three-engagement-profiles-mobile-retrieval-app.md) — related

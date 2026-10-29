@@ -52,3 +52,4 @@ In the plan review, the resource-provider role was the most frequently emphasize
 - [SEAs are leveraging ESSA requirements and increased flexibility to specify SEA and LEA roles and push evidence-based, locally contextualized improvement strategies.](seas-leverage-essa-requirements-to-define-roles.md) — related
 - [SEAs differentiate support to districts based on the number of CSI/TSI-identified schools, district capacity, and district willingness to engage.](seas-differentiate-support-by-district-characteristics.md) — related
 - SEA administrators report shifting from compliance monitoring and grants management toward meaningful support and capacity-building for identified schools — related
+- [Learner support roles can be leveraged to balance affordances offered by the learning environment and the learners themselves](learner-support-roles-balance-affordances.md) — related

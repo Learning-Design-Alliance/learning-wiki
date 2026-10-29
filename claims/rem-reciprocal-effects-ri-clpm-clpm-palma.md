@@ -97,3 +97,4 @@ Reanalysis of the PALMA longitudinal study (five annual waves of mathematics dat
 - [Adding cross-lagged effects significantly improves model fit over autoregressive models for every model tested](cross-lagged-improve-fit-over-autoregressive.md) — related
 - [When marks and tests are modeled as separate latent variables with cross-lagged effects between them, effects of self-concept on achievement completely disappear](separate-indicators-self-concept-effects-disappear.md) — reports the opposite
 - [Academic buoyancy and adaptability show reciprocal cross-lagged effects over time, each a medium effect (β = .07, p < .01) in latent modeling](buoyancy-adaptability-reciprocal-cross-lagged-effects.md)
+- [Learning outcomes and skill transfer/retention show a bidirectional but developmentally asymmetrical longitudinal relationship, with prior learning exerting the stronger forward influence](lo-str-bidirectional-asymmetrical-coupling.md) — related

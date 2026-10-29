@@ -57,3 +57,6 @@ The commentary reports, citing Aridor et al. (this issue), a case study of two m
 - [Students rated real-world projects and discussions with structured or guiding questions as the most beneficial learner-to-content strategies](real-world-projects-structured-questions-top-content-strategies.md) — related
 - [Workspaces became apparently disorganized, with incomplete and obsolete content, yet participants reported no difficulty using them to collaborate](apparent-disorganization-usable-workspaces.md) — related
 - [Educators perceived open data's broad scope, relevance to learners, authenticity, and value as a basis for data literacies as key characteristics for learning](open-data-characteristics-for-learning.md) — related
+- [Students most strongly felt like data scientists during the open-ended final project, supporting disciplinary authenticity](final-project-felt-like-data-scientist.md) — related
+- [A culminating final project with a structured reflection script served as authentic assessment mirroring real-world data science practices](final-project-script-authentic-assessment.md) — related
+- [Working with live, real-world datasets promoted students' perception of real-world authenticity and career transferability in a high school data science curriculum](live-real-world-datasets-real-world-authenticity.md) — related

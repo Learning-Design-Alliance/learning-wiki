@@ -82,3 +82,4 @@ The review reports this comparison among negative and null results showing the r
 - [Les LLMs utilisés comme juges d'évaluation scientifique présentent douze types de biais qui désavantagent les productions s'écartant des canons dominants](llm-as-a-judge-twelve-bias-types.md) — related
 - [ChatGPT could not execute R code for statistics MCQs, achieving 60% accuracy when its code was run with corrected dataset naming](chatgpt-r-code-questions-60-percent-accuracy.md) — related
 - [The main concern in all critical evaluations was the veracity of ChatGPT-provided references, which often do not exist](chatgpt-references-often-do-not-exist.md) — related
+- [Insufficient volume and diversity of curated content limited the curation module's ability to spark exploration of new learning strategies](curation-module-insufficient-content-limited-exploration.md) — related

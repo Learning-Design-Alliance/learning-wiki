@@ -190,3 +190,4 @@ Participants studied words printed in different font sizes for a free-recall tes
 - [Anthropomorphic language about AIED tools misleads people into overestimating what the tools can do](anthropomorphic-language-misleads-about-aied.md) — related
 - [Overconfidence in self-assessment is especially concerning in online learning environments where limited external feedback widens gaps between perceived and actual performance](online-learning-exacerbates-calibration-discrepancy.md) — related
 - [Learners' self-efficacy judgments during problem-solving shift from being informed by accuracy to being increasingly informed by fluency over time](self-efficacy-shifts-accuracy-to-fluency.md) — related
+- [Students' perceptions of the tool's impact on learning were partly corroborated by their actual metacognitive gains and tool use](perceived-impact-partly-corroborated-by-gains.md) — related

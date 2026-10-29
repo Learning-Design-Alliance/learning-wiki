@@ -68,7 +68,7 @@ sources:
 # Educators should act as mediators and facilitators of learning rather than content disseminators
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 49 claims (32 for, 16 mixed, 1 against) · 45 studies (10 qualitative, 10 theoretical, 9 quant-synthesis, 9 review, 4 causal, 3 associational), `q1`–`q4` · 4 of 45 report an effect size · 44 claims rest on one study
+> **Evidence** · 50 claims (33 for, 16 mixed, 1 against) · 46 studies (10 qualitative, 10 theoretical, 9 quant-synthesis, 9 review, 4 causal, 3 associational, 1 design), `q1`–`q4` · 4 of 46 report an effect size · 45 claims rest on one study
 
 ## Conditional relationship
 
@@ -192,6 +192,7 @@ Claims and theory pages cited by the earlier page, its folded pages or later lin
 - [Mle Theory Human Mediator Cognitive Modifiability](../theories/mle-theory-human-mediator-cognitive-modifiability.md)
 - [Piaget Three Types Of Knowledge](../theories/piaget-three-types-of-knowledge.md)
 - [Piaget Four Factors Stage Progression](../theories/piaget-four-factors-stage-progression.md)
+- [Drawing 2D circuit diagrams before crafting served as a crucial visualization step that surfaced misconceptions and enabled early facilitator feedback](../claims/circuit-diagram-visualization-step.md) [+W] — attached 2026-10-29 from Ioannou et al. (2025), which proposed "In short-duration e-textile workshops with young novices, include some direct instruction and in-situ scaffolding and facilitation, which is not incompatible with the making ethos".
 
 ## Objective and learner-valued goal
 

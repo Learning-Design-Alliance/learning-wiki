@@ -48,3 +48,4 @@ Moderator analysis of intervention duration across the 32 included studies (dura
 - [Effects of monitoring tools are highest when tools address both learning content and learning behavior and stimulate metacognitive monitoring](monitoring-tool-moderators-focus-and-type.md) — related
 - [Intervention duration significantly moderates Gen-AI's effect on HOT, with the strongest effects at 8–16 weeks (ES = 0.759) and weaker effects for shorter (0.494) and longer (0.372) interventions](genai-intervention-duration-moderator.md) — related
 - [Monitoring tools show low effects on learning motivation (d = 0.17)](monitoring-tools-motivation-d017.md) — related
+- [Students with lower prior metacognitive awareness were less likely to sustain use of the tool](lower-metacognition-less-sustained-tool-use.md) — related

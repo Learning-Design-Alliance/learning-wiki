@@ -13,7 +13,7 @@ generated:
 # Gender
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 340 claims (200 show a difference, 74 mixed, 66 no difference) · 228 studies (145 associational, 41 causal, 14 quant-synthesis, 11 review, 6 design, 6 theoretical, 5 qualitative), `q1`–`q4` · 41 of 228 report an effect size · 332 claims rest on one study
+> **Evidence** · 343 claims (201 show a difference, 76 mixed, 66 no difference) · 230 studies (145 associational, 42 causal, 14 quant-synthesis, 11 review, 7 design, 6 theoretical, 5 qualitative), `q1`–`q4` · 42 of 230 report an effect size · 335 claims rest on one study
 
 ## How to read this page
 
@@ -379,6 +379,9 @@ Gender is recorded in most education studies, usually as a binary category taken
 - [The game was equally engaging across children's age and sex, with no significant relationship between number of sessions played and age or sex](../claims/trackfx-engagement-age-sex-null.md) [-M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Boys hold significantly higher self-efficacy than girls in science inquiry at every measurement point, though the gap narrows during training](../claims/boys-higher-self-efficacy-science-inquiry.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [The usage gap in online resources, marked by gender, educational level and age, has profound impact on social inequality](../claims/usage-gap-profound-impact-social-inequality.md) [+W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [A significant gender-by-time interaction characterized perceived usability, with marginally significant male-female differences at Lessons 1 and 3](../claims/gbl-gender-time-interaction-perceived-usability.md) [~M] — an instructional effect differs by group
+- [CT self-efficacy gains varied by gender, grade, and prior Minecraft experience, with significant increases for female students, Grade 8 students, and students with limited Minecraft experience](../claims/gbl-ct-self-efficacy-moderators.md) [~M] — an instructional effect differs by group
+- [Girls reported higher follow-up impact than boys on all items, and 14 of the 20 top-ranking participants were girls](../claims/girls-report-higher-privacy-impact-than-boys.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## The evidence by question
 - *Do girls and boys differ in mathematics and reading achievement, by how much, and where in the distribution?* [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](../claims/pisa-sex-differences-math-small-reading-three-times-larger.md) [+M]

@@ -56,3 +56,4 @@ The paper cites a University of Pennsylvania Graduate School of Education study 
 - [Guo et al. found engagement depends on video production style: short videos, talking heads on slides, Khan-style drawing more engaging than slides or coding, classroom recording weak online](guo-video-style-engagement-findings.md) — related
 - [MOOC certificate purchasing is rare: under 1% of enrolled learners purchase, with completion around 10%](mooc-purchase-rate-under-one-percent.md) — related
 - [The 2007 open course design allowed anyone to participate and prefigured the first MOOC](open-course-design-prefigured-moocs.md) — related
+- [Adult learners take MOOC courses for six stated reasons, including topical interest and viewing lurking as learning](six-reasons-adult-learners-take-moocs.md) — related

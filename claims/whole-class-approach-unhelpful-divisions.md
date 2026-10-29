@@ -67,3 +67,4 @@ Thematic synthesis across studies in Zimbabwe, South Africa, Uganda, and Botswan
 - [Teachers promoted inclusive classroom environments by organizing time and space and fostering peer inclusion](inclusive-environment-time-space-peer-inclusion.md) — related
 - [Teachers in African mainstream classrooms responded to diverse learner needs through curriculum and task adaptations and individualized instruction](teachers-adapt-curriculum-tasks-individualized-instruction-africa.md) — related
 - [Teachers provided targeted extra support, immediate feedback, and reinforcers to learners with DD](targeted-support-feedback-reinforcers-dd.md) — related
+- [Teachers used platform data mainly to understand learning processes and derived differentiation, individualization, and whole-class instructional actions](platform-data-instructional-actions-differentiation.md) — related

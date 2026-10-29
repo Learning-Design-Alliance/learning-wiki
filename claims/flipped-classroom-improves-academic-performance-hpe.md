@@ -69,3 +69,4 @@ Random-effects inverse-variance meta-analysis of 44 studies (n = 7813) comparing
 - [Both flipped and AI-enhanced flipped classrooms achieve higher in-class question accuracy than the traditional classroom](flipped-models-higher-question-accuracy.md) — related
 - [Time-on-task is frequently unequal across compared conditions, with active learning conditions typically requiring more home time](time-on-task-unequal-in-active-learning-comparisons.md) — related
 - [Blended Learning Improves Outcomes](blended-learning-improves-outcomes.md) — related
+- [A blended/hybrid flipped calculus course with an FC Orientation module improved student learning performance and perceptions significantly over the traditional lecture format](spencer-2022-hybrid-fc-improved-performance.md) — a narrower finding that bears on this claim

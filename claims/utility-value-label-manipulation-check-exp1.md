@@ -52,3 +52,4 @@ Manipulation check in Experiment 1 (N = 190): "participants learning poisonous a
 - [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md) — a broader claim this one bears on
 - [Combining utility value of distinguishing with conditional knowledge fosters interleaving of confusable categories (Abel et al., 2024)](utility-value-conditional-knowledge-foster-interleaving.md) — related
 - [Directly-communicated utility value increases beliefs about the usefulness of regression, unmoderated by baseline confidence or interest](utility-value-increases-usefulness-beliefs-unmoderated.md) — related
+- [High school students perceived interest-driven data exploration activities in a data science curriculum as personally authentic, though not uniformly](interest-driven-datasets-perceived-personally-authentic.md) — related

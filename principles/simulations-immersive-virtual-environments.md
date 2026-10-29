@@ -123,7 +123,7 @@ sources:
 # Simulations & Immersive Virtual Environments
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 119 claims (47 for, 64 mixed, 8 against) · 85 studies (29 causal, 20 review, 11 quant-synthesis, 9 qualitative, 8 theoretical, 7 design, 1 associational), `q1`–`q4` · 21 of 85 report an effect size · 114 claims rest on one study
+> **Evidence** · 121 claims (48 for, 65 mixed, 8 against) · 86 studies (29 causal, 20 review, 12 quant-synthesis, 9 qualitative, 8 theoretical, 7 design, 1 associational), `q1`–`q4` · 21 of 86 report an effect size · 116 claims rest on one study
 
 ## Conditional relationship
 
@@ -353,6 +353,8 @@ Success inside the simulation, immediate performance outside it, delayed retenti
 - [Expert evaluation supported the VR classroom's vividness and the expert validity of the classroom events' likely interpretations](../claims/ivr-pvas-expert-evaluation-vividness-validity.md) [~W]
 - [Simulated embodied experience in a virtual environment accelerated Chinese vocabulary learning more than a traditional web-based context](../claims/ve-context-accelerates-chinese-vocabulary-learning.md) [+W]
 - [Students who played iThinkSmart VR mini games reported higher interest in learning CT concepts than students who did not use the educational game](../claims/ithinksmart-vr-higher-learning-interest.md) [~M]
+- [Real-time and dynamic feedback dominate feedback provision in ILEs for psychomotor skills](../claims/ile-psychomotor-feedback-realtime-dynamic-dominance.md) [~W]
+- [HMDs and camera-based systems are the most prevalent ILE technologies for psychomotor training](../claims/ile-psychomotor-technology-trends-hmd-cameras.md) [+W]
 
 ## Related Principles
 - [Experiential Learning](experiential-learning.md) — simulations provide structured experiences that later reflection can interpret.

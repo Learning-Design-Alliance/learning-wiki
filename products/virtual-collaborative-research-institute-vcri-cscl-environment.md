@@ -20,6 +20,7 @@ A groupware environment developed to support collaborative learning, inquiry tas
 
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
+- **VCRI CSCL environment augmented with representational scripting**: Virtual Collaborative Research Institute (VCRI) is a groupware application for supporting the collaborative performance of complex learning-tasks, inquiry-tasks and research projects. For this study five tools were augmented with representational scripting: a chat tool for synchronous communication, an Assignment menu with the task description and information sources, a shared Co-writer text processor, an individual Notes tool, and a Status bar awareness tool. Groups had to close each finished phase in the assignment menu, which opened the next phase and delivered the next external representation. (B. Slof et al. (2010))
 
 ### Claims
 
@@ -33,3 +34,4 @@ A groupware environment developed to support collaborative learning, inquiry tas
 
 ## Key Sources
 - Janssen, J., Erkens, G., Kirschner, P. A., & Kanselaar, G. (2010). Task-related and social regulation during online collaborative learning. Metacognition and Learning. https://doi.org/10.1007/s11409-010-9061-5
+- B. Slof, G. Erkens, P. A. Kirschner, J. G. M. Jaspers. (2010). Design and effects of representational scripting on group performance. Education Tech Research Dev. https://doi.org/10.1007/s11423-010-9148-3

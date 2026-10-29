@@ -47,3 +47,4 @@ One of five interrelated experiments with naval recruits learning knot tying fro
 ## Related Claims
 - [Repeated test-restudy trials produced higher final cued recall than study-only or single test-restudy controls across both experiments](test-restudy-beats-controls.md) — related
 - [The retrieval (TTST) advantage appeared at both short (5 min) and long (24 h) retention delays, with no reliable evidence that it differed between them](ttst-advantage-not-different-at-5min-24h.md) — related
+- [Repeating an instructional film increases learning only up to a point](film-repetition-increases-learning-up-to-a-point.md) — related

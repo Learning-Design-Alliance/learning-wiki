@@ -49,3 +49,5 @@ Cincinnati Public Schools experiment comparing four biology classes taught by te
 - [Almost 90 percent of comparisons between television and conventional instruction showed no substantial differences in achievement or information gain](tv-research-90-percent-no-substantial-differences.md) — reports the opposite
 - [In sixth-grade science, conventional instruction appeared better for average and below-average pupils](tv-science-conventional-better-average-below.md) — reports the opposite
 - [In telecast mathematics, high-ability pupils did better with conventional instruction while average-ability pupils did better watching television](tv-math-ability-interaction.md) — related
+- [Televised Navy indoctrination instruction produced no differences in achievement scores compared with conventional instruction](navy-televised-indoctrination-no-achievement-differences.md) — related
+- [In the 1957-58 national television-in-schools experiment, more control-versus-experimental comparisons favored television than favored control classes](tv-in-schools-comparisons-favor-television.md) — a broader claim this one bears on

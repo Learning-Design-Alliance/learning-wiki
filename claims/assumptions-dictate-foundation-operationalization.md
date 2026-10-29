@@ -48,3 +48,4 @@ Conceptual argument in the Foundations section. The authors illustrate that obje
 ## Related Claims
 - [Ambiguous tasks with a revision step help students recognize the role of assumptions in mathematical activity](ambiguous-tasks-with-revision-help-students-recognize-role-of-assumptions.md) — related
 - [AI systems are non-neutral socio-technical artifacts embedding cultural assumptions and power relations](ai-non-neutral-embeds-power-relations.md) — a broader claim this one bears on
+- [Recognized cognitive principles for student-centered, Web-based learning are critically reviewed with a call for further in-depth study](cognitive-principles-student-centered-web-learning-review.md) — related

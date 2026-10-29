@@ -62,3 +62,4 @@ Thematic analysis of semi-structured interviews with 20 adult learners, prompted
 - [Adult learners expect AI to enhance autonomy through choices, flexible learning spaces, metacognitive awareness, and structured self-assessment](ai-enhances-adult-learner-autonomy.md) — related
 - [Students rated the usefulness of LLM-enhanced combined feedback significantly higher than their own prior expectations](llm-combined-feedback-exceeds-expectations-usefulness.md) — related
 - [A simulated learning companion using menu-based dialogue in an ITS encourages student reflection and articulation, enhancing learning](menu-based-learning-companion-encourages-reflection-articulation.md) — related
+- [Insufficient volume and diversity of curated content limited the curation module's ability to spark exploration of new learning strategies](curation-module-insufficient-content-limited-exploration.md) — related

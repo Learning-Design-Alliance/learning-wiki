@@ -78,3 +78,4 @@ Intensive longitudinal micro-randomized study in which 130 children used the PRO
 - [Micro-randomized trials estimate within-person causal effects of mobile intervention components with greater statistical power than standard RCTs](micro-randomization-within-person-causal-effects.md) — a broader claim this one bears on
 - [Micro-randomized trials with mobile data allow explicit testing of time-varying contextual moderators of intervention effectiveness](time-varying-moderators-mobile-interventions.md) — a broader claim this one bears on
 - [Breathing exercise showed no main effect on children's negative affect or relaxation but increased relaxation on higher-worry days (UPWIND trial)](upwind-breathing-moderated-by-worry.md) — related
+- [One-third of surveyed students never used the optional mobile study app at all](one-third-nonusers-optional-study-app.md) — related

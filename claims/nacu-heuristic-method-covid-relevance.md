@@ -49,3 +49,5 @@ Theoretical analysis in the article's abstract, arguing that Nacu et al.'s (2018
 - [Educators and evaluators faced open questions about how to measure student performance after COVID disruptions](measuring-student-performance-after-covid-open-question.md) — related
 - [Realizing the full potential of the Nacu et al. heuristic requires repositioning online learning as a knowledge-building environment](online-learning-as-knowledge-building-environment.md) — related
 - [The current educational moment is analogous to the London Stock Exchange's Big Bang](educational-big-bang-analogy.md) — related
+- [Nacu et al.'s heuristic method for enabling educator learning-support roles can be utilized during the COVID-19 pandemic](heuristic-method-learner-support-pandemic-use.md) — possibly the same claim (merge candidate)
+- [Educator learner-support roles in online education should be fulfilled from a contextual perspective, following Nacu et al.'s (2018) guidelines](learner-support-roles-contextual-perspective.md) — related

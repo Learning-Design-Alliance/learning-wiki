@@ -49,3 +49,4 @@ A 2 (group) × 2 (testing time) mixed-design ANOVA on HCTA scores found "no sign
 - [Systematically designed E&M instruction based on the First Principles of Instruction model produced significantly higher domain-specific CT scores than regular instruction](systematic-design-first-principles-higher-domain-specific-ct.md) — related
 - [AI-supported PBL students reported higher computational thinking on a self-report scale than traditional-lecture students, controlling for pretest scores](ai-pbl-higher-posttest-computational-thinking.md) — related
 - [The type of CT measure employed (standardized vs. non-standardized; item format) influences evaluation of intervention effectiveness](ct-measure-type-influences-effectiveness-evaluation.md) — related
+- [After playing Factory Craft, middle school students showed no statistically significant overall gain in computational thinking competency](gbl-no-overall-ct-competency-gain.md) — reports the opposite

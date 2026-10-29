@@ -51,6 +51,7 @@ As a lesson from the failed replication, the authors recommend that "the problem
 - [Explicitly guide students to use contrasting cases as grounded feedback by prompting intuitive predictions](guide-contrasting-case-use-predictions.md)
 - [Productive Failure](productive-failure.md)
 - [Have learners develop their own problem-solving templates instead of replicating instructor templates](learner-generated-problem-solving-templates.md)
+- [Support transfer of implicit game-based CT knowledge into explicit, usable knowledge](support-implicit-to-explicit-ct-transfer.md)
 
 ## Examples
 -

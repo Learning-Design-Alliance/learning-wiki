@@ -50,3 +50,4 @@ Synthesis of interventions tabulated in Table 1 of the review, extending a prior
 - [Guiding dashboard support enabled teachers to perform more orchestration actions, more targeted interactions, and more class announcements than mirroring support](guiding-support-more-orchestration-actions-than-mirroring.md) — related
 - [Guiding support stimulated targeted interactions: teachers posted more messages to groups (14 vs 4) and performed more dashboard interventions than under mirroring](guiding-support-stimulated-targeted-group-interactions.md) — related
 - [Mirroring dashboards improved teacher situational awareness while alerting-and-guiding dashboards reduced teacher workload and frustration](mirroring-alerting-dashboards-teacher-withitness.md) — related
+- [Teachers used student performance and progress data at individual, class, and school levels, often presented via color-coded dashboard visualizations](digital-data-types-teachers-use.md) — related

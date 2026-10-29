@@ -60,3 +60,4 @@ This is a single design study in two university teacher-education courses, with 
 - [Storying is socially and politically non-neutral: it privileges some storylines and silences others](storying-privileges-some-storylines-silences-others.md) — related
 - [The editorial reports that teacher–student collaborative discourse scaffolds data-representation sensemaking and narrative construction](teacher-collaborative-discourse-scaffolds-data-sensemaking.md) — related
 - [In the Reading in Four Voices task, students connected story values to a distance–time graph by engaging in both literacy and oracy](reading-four-voices-connects-story-and-graph.md) — related
+- [High school students perceived interest-driven data exploration activities in a data science curriculum as personally authentic, though not uniformly](interest-driven-datasets-perceived-personally-authentic.md) — related

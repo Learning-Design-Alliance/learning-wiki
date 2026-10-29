@@ -13,7 +13,7 @@ generated:
 # Act It Out
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 27 claims (18 for, 6 mixed, 3 against) · 34 studies (16 causal, 7 review, 5 quant-synthesis, 3 theoretical, 1 associational, 1 qualitative, 1 design), `q1`–`q4` · 6 of 34 report an effect size · 23 claims rest on one study
+> **Evidence** · 28 claims (19 for, 6 mixed, 3 against) · 35 studies (16 causal, 7 review, 6 quant-synthesis, 3 theoretical, 1 associational, 1 qualitative, 1 design), `q1`–`q4` · 6 of 35 report an effect size · 24 claims rest on one study
 
 ## Description
 Act It Out asks learners to physically perform a concept, process, historical event, social interaction, or procedure rather than only describe or discuss it. Learners take on roles, gesture abstract relationships, or simulate a system's behavior with their bodies, producing an enactive representation of the content that complements verbal and visual encoding.
@@ -75,6 +75,7 @@ Enactment leverages the self-performed, embodied encoding of content: motor enga
 - [Deictic gestures had stronger connections to other features in the high-learning group, suggesting a more effective use of embodied representations to ground abstract concepts and direct attention.](../claims/deictic-gestures-stronger-connections-high-learning.md) [~W]
 - [A situated embodiment-based flag semaphore strategy improved procedural knowledge and attention with lower extrinsic cognitive load](../claims/situated-embodiment-semaphore-procedural-knowledge.md) [+W]
 - [In triadic robot-mediated problem solving, children spontaneously embodied early mathematics and science knowledge, using gestures and whole-body movement to represent properties, processes, and reasoning sequences](../claims/embodied-early-math-science-reasoning.md) [+W]
+- [Embodied actions appear in all reviewed ILE designs, while learner control over environment attributes is rare](../claims/ile-psychomotor-design-characteristics-embodied-actions.md) [+W]
 
 ## The evidence by question
 

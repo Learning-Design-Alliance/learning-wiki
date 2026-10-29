@@ -49,3 +49,4 @@ Thematic synthesis of qualitative study reports from the review. Teachers added 
 - [Specific training was associated with more advanced strategy use, but most teachers used strategies inconsistently and generically](training-advanced-strategies-inconsistent-use.md) — related
 - [Teachers provided targeted extra support, immediate feedback, and reinforcers to learners with DD](targeted-support-feedback-reinforcers-dd.md) — a narrower finding that bears on this claim
 - [Large class sizes of 40 to 80 children limited teachers' ability to provide individualized support](large-class-sizes-barrier-individualized-support.md) — related
+- [Teachers used platform data mainly to understand learning processes and derived differentiation, individualization, and whole-class instructional actions](platform-data-instructional-actions-differentiation.md) — related

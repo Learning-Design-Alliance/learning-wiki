@@ -51,3 +51,4 @@ Supplementary refitted model on Experiment 2 data restricted to the TC pseudowor
 - [In a single-word lexical decision task, Chinese speakers show a transposed-character effect in reaction times and error rates while Japanese speakers do not](tc-effect-exp1-chinese-only.md) — related
 - [The TC effect grows with prime time: it is significantly larger at 300 ms than at 60 ms and 150 ms, and does not decrease with longer prime time](tc-effect-increases-with-prime-time.md) — related
 - [Late negativity (LAN, 300–500 ms) shows a morphological priming effect with no language interaction, implicating a language-general controlled evaluation of morphological constraints](lan-300-500-language-general-morphological-evaluation.md) — related
+- [Chinese characters are largely shared between Japanese and Chinese, yet Chinese-speaking learners find Japanese functional expressions challenging](shared-characters-but-functional-expressions-hard.md) — related

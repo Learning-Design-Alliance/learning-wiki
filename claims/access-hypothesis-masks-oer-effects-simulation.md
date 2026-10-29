@@ -47,3 +47,4 @@ Simulation analysis reported by Grimaldi, Basu Mallick, Waters, and Baraniuk (20
 ## Related Claims
 - [OER adoption is expected to save students money and close the achievement gap in the short term, but this benefit will likely disappear over the longer term](oer-cost-savings-short-term-only.md) — related
 - [Pell-eligible students using OER integrated into interactive courseware had final grades indistinguishable from wealthier peers, while Pell-eligible students using other materials had significantly lower grades](oer-courseware-closes-pell-grade-gap.md) — related
+- [Relative advantage of OER alone will not lead to rapid adoption, especially if framed as cost savings](relative-advantage-alone-insufficient-for-oer-adoption.md) — related

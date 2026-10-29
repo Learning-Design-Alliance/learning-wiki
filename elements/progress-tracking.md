@@ -18,7 +18,7 @@ sources:
 # Progress Tracking
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 10 claims (3 for, 7 mixed) · 9 studies (3 review, 3 theoretical, 2 causal, 1 qualitative), `q1`–`q3` · 0 of 9 report an effect size · 10 claims rest on one study
+> **Evidence** · 12 claims (4 for, 8 mixed) · 10 studies (4 review, 3 theoretical, 2 causal, 1 qualitative), `q1`–`q3` · 0 of 10 report an effect size · 12 claims rest on one study
 
 ## Description
 Progress tracking is the element in which learners or instructors monitor advancement through goals, tasks, competencies, or milestones over time. It is useful when visibility into progress supports planning, motivation, and coordination.
@@ -51,10 +51,13 @@ Progress tracking is the element in which learners or instructors monitor advanc
 - [Face-to-face components are used mainly for orientation while monitoring of learning progress is carried out online](../claims/f2f-orientation-online-monitoring-division.md) [+W]
 - [Correctness overviews alone seldom lead to real insights into how to improve learning; dashboards must present teacher-actionable information supporting goal-setting, monitoring, and planning](../claims/dashboards-need-actionable-information-beyond-correctness.md) [+W]
 - [Dashboard visualisation benefits learners of different motivation and achievement levels, but high academic achievers report lower satisfaction with dashboards](../claims/dashboard-benefits-achiever-satisfaction-mixed.md) [~W]
+- [Teachers used student performance and progress data at individual, class, and school levels, often presented via color-coded dashboard visualizations](../claims/digital-data-types-teachers-use.md) [+W]
+- [In one reviewed study, no explicit teacher actions followed from about a quarter of dashboard consultations](../claims/quarter-dashboard-consultations-no-action.md) [~W]
 
 ## Examples
 
 - [Board data dashboards for governance-level progress monitoring](../strategies/board-data-dashboards-progress-monitoring.md)
+- [Plan a built-in stealth assessment dashboard that tracks student progress from gameplay data](../strategies/stealth-assessment-dashboard-gameplay-data.md)
 
 ## Related Elements
 

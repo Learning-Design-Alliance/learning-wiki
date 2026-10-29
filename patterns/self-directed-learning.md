@@ -15,7 +15,7 @@ grain_size: course
 # Self-Directed Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 21 claims (9 for, 10 mixed, 2 against) · 30 studies (9 quant-synthesis, 7 causal, 6 review, 6 theoretical, 2 associational), `q1`–`q4` · 8 of 30 report an effect size · 12 claims rest on one study
+> **Evidence** · 22 claims (9 for, 11 mixed, 2 against) · 31 studies (9 quant-synthesis, 7 causal, 7 theoretical, 6 review, 2 associational), `q1`–`q4` · 8 of 31 report an effect size · 13 claims rest on one study
 
 ## Description and scope
 
@@ -143,6 +143,7 @@ This pattern is scoped to a course or unit in which control is handed to learner
 - [Students make substantial use of worked examples during self-regulated learning, but task selection patterns differ across studies and between high- and low-scoring students](../claims/task-selection-patterns-examples-practice-problems.md) [~W]
 - [Motivational apprenticeship progresses through three phases from expert-directed to learner-directed control](../claims/motivational-apprenticeship-three-phases.md) [~W]
 - [Personalized learning systems that assume high student self-regulation can overburden students, so low performers learn less despite receiving skill-appropriate content](../claims/self-regulatory-burden-harms-low-performers.md) [~W]
+- [Teachers tend to exert more control online while students are underprepared for autonomy, per cited literature](../claims/teacher-control-versus-student-autonomy-online.md) [~W]
 
 ## Related Patterns
 - [Self-Regulated Learning](self-regulated-learning.md) — the within-task plan–monitor–act prompting this pattern uses in its teaching step

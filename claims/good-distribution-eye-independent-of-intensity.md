@@ -50,3 +50,4 @@ Laboratory testing program comparing actual lighting installations in common use
 - [Too much light is being used in ordinary work for the comfort and welfare of the eye with reflectors that introduce harmful brilliancies](too-much-light-ordinary-work.md) — related
 - [The loss of efficiency sustained by the eye in an unfavorable lighting situation is muscular, not retinal](lighting-efficiency-loss-muscular-not-retinal.md) — related
 - [Normal sense organs possess surplus discriminative efficiency beyond ordinary practical demands](sense-organs-surplus-efficiency.md) — related
+- [High room illumination is detrimental to learning from rear-projected film, mainly when learners sit at extreme angles to or distances from the screen](high-room-illumination-detrimental-film-learning.md) — related

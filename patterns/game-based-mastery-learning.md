@@ -16,7 +16,7 @@ grain_size: lesson
 # Game-Based Mastery Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 25 claims (13 for, 11 mixed, 1 against) · 31 studies (10 causal, 9 review, 7 quant-synthesis, 3 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 5 of 31 report an effect size · 19 claims rest on one study
+> **Evidence** · 26 claims (13 for, 12 mixed, 1 against) · 32 studies (11 causal, 9 review, 7 quant-synthesis, 3 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 6 of 32 report an effect size · 20 claims rest on one study
 
 ## Description and scope
 
@@ -151,6 +151,7 @@ This pattern is scoped to cumulative skills that break into items scored on the 
 - [Point values and point order altered item selection and recall: Easy First order produced higher recall, and points increased goal pursuit but appeared to hurt recall](../claims/point-values-order-alter-selection-recall.md) [~W]
 - [Cognitive challenge, incrementally increased as children gain competence, was a feature of all the most efficacious interventions](../claims/cognitive-challenge-high-efficacy-interventions.md) [+W]
 - [More extreme potential reward values are associated with reduced memory strength across learning conditions and choices](../claims/extreme-trial-values-reduce-memory.md) [~W]
+- [Students' perceived usability of the game declined significantly across lessons while focused attention, aesthetics, and satisfaction remained stable](../claims/gbl-perceived-usability-declined-across-lessons.md) [~W]
 
 ## Related Patterns
 - [Programmed Instruction](programmed-instruction.md) — the historic ancestor of this pattern's small-step, immediate-feedback, self-paced core

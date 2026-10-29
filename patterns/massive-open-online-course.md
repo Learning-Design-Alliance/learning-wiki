@@ -13,7 +13,7 @@ generated:
 # Massive Open Online Course (MOOC)
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 41 claims (11 for, 25 mixed, 5 against) · 38 studies (9 associational, 8 review, 7 causal, 5 quant-synthesis, 5 theoretical, 3 design, 1 qualitative), `q1`–`q4` · 6 of 38 report an effect size · 37 claims rest on one study
+> **Evidence** · 44 claims (11 for, 27 mixed, 6 against) · 40 studies (9 review, 9 associational, 7 causal, 6 theoretical, 5 quant-synthesis, 3 design, 1 qualitative), `q1`–`q4` · 6 of 40 report an effect size · 40 claims rest on one study
 
 ## Description and scope
 
@@ -160,6 +160,9 @@ This pattern is scoped to open courses at a scale where teacher time per learner
 - [The special issue reports that an AI-based assessment system combining NLP and code analysis reduced teacher effort in assessing data science MOOCs](../claims/ai-nlp-code-assessment-reduces-teacher-effort.md) [~W]
 - [Loizzo and Ertmer propose combining c-MOOC and xMOOC designs to foster a flexible, learner-centered culture](../claims/combining-cmooc-xmooc-flexible-culture.md) [~W]
 - [The 2007 open course design allowed anyone to participate and prefigured the first MOOC](../claims/open-course-design-prefigured-moocs.md) [+W]
+- [MOOC learners provide personal opinions and vote on peer posts, not only feedback on course content](../claims/mooc-learners-vote-on-peer-posts.md) [~W]
+- [MOOCs are evolving from self-contained educational platforms into socialized and politicized informational tools](../claims/moocs-becoming-socialized-informational-tools.md) [~W]
+- [In a case study of N = 3550 learners, network graph analysis of navigational sequences showed only 608 sequences were evidenced despite open-ended choice](../claims/network-analysis-3550-learners-608-sequences.md) [-W]
 
 ## Related Patterns
 - [Online Course Design (Community of Inquiry)](online-course-design.md) — shares concern for interaction design, but MOOC scale makes deep learner-instructor interaction impractical in a way a smaller online course does not face
@@ -176,6 +179,7 @@ This pattern is scoped to open courses at a scale where teacher time per learner
 - [KISS-Pro openHPI MOOC on AI for teachers](../designs/kiss-pro-openhpi-mooc-ai-teacher-pd.md) — a self-paced teacher PD course carrying a face-to-face training to a wider audience
 - [Address MOOC personalization at scale by using learners as helpers plus personalization technology to find the right helper at the right time](../strategies/peer-help-personalization-scalable-moocs.md)
 - [Flipped Classroom MOOC with diverse unit-level learning designs as research context](../designs/flipped-classroom-mooc-diverse-unit-designs.md)
+- [Offer mentor PD as an online asynchronous MOOC to fit teachers' working conditions](../strategies/asynchronous-mooc-mentor-pd-access.md)
 
 ## Key Sources
 - Weller, M. (2018). Twenty years of EdTech. *EDUCAUSE Review, 53*(4). Republished in R. West (Ed.), *Foundations of Learning and Instructional Design Technology*. EdTech Books. [https://edtechbooks.org/lidtfoundations/twenty_years_of_edtech](https://edtechbooks.org/lidtfoundations/twenty_years_of_edtech)

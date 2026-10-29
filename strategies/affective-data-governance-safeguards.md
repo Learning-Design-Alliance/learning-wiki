@@ -46,6 +46,7 @@ Whenever AI-supported teacher-development systems involve affective, behavioral,
 - [Deploy agentic AI in education with transparency about agentic decisions, human oversight and institutional responsibility](responsible-deployment-transparency-human-oversight-agentic-ai.md)
 - [Ethical governance safeguards for robot-supported mental health education with children](ethical-safeguards-child-robot-mental-health-education.md)
 - [Address ethics and privacy considerations — transparency, security, student control, accountability, and informed consent — at the initial stages of MMLA design in simulation-based training](ethics-privacy-principles-mmla-simulator-design.md)
+- [Safeguard student privacy in learning analytics by involving students in tool creation, building contextualized explainable configurable analytics, and empowering student agency](three-trends-safeguarding-student-privacy-analytics.md)
 
 ## Examples
 -

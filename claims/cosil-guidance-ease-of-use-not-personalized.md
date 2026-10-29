@@ -49,3 +49,4 @@ The commentary reports a finding attributed to the Zacharia et al. (2015) litera
 - [Guidance in computer-supported inquiry learning is unevenly distributed across the five inquiry phases](guidance-uneven-across-inquiry-phases.md) — related
 - [The author argues emergent machine learning may significantly increase personalization of CoSIL without burdening teachers](machine-learning-personalize-cosil-guidance.md) — related
 - [Six response essays propose ways to action practical learning in online spaces, building on the Zacharia et al. (2015) guidance review](six-responses-practical-learning-online.md) — related
+- [The body of literature on guidance for inquiry with virtual and remote labs has weaknesses exposed by the 2015 review](weaknesses-in-guidance-inquiry-labs-literature.md) — a broader claim this one bears on

@@ -47,3 +47,4 @@ Narrative review attributing this to Zhang and Fiorella (2019): college students
 ## Related Claims
 - [Visualizing support—provided diagrams or learner-generated drawings—facilitates higher-quality explanations and better comprehension than explaining text alone](visualizing-support-facilitates-explaining.md) — related
 - [Learner-constructed graphic organizers are not shown to outperform provided ones: the one direct test, with college readers, favoured provided organizers on transfer](learner-constructed-graphic-organizers-outperform-provided.md) — related
+- [Drawing 2D circuit diagrams before crafting served as a crucial visualization step that surfaced misconceptions and enabled early facilitator feedback](circuit-diagram-visualization-step.md) — related

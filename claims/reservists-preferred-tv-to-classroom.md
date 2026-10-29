@@ -49,3 +49,4 @@ Attitude questionnaire data from the reservist telecast evaluation. The digest r
 - [Live television and television recordings were superior to local instructors in teaching Naval Air Reservists.](tv-instruction-superior-to-local-instructors-naval-reservists.md) — related
 - [Army reservists of all grades made statistically significant gains on information tests after viewing instructional telecasts](reservists-significant-gains-tv-telecasts.md) — related
 - [Eighty percent of students enrolled in conventional classes who also participated in television classes preferred the conventional ones](students-preferred-conventional-over-television-classes.md) — related
+- [Televised Navy indoctrination instruction produced no differences in achievement scores compared with conventional instruction](navy-televised-indoctrination-no-achievement-differences.md) — related

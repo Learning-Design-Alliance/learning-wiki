@@ -62,3 +62,4 @@ Editorial analysis (critical essay, no empirical dataset reported) countering th
 - [A narrow focus on cognitive outcomes in evaluating educational inequality may perpetuate or increase inequality](cognitive-outcome-focus-may-perpetuate-inequality.md) — a narrower finding that bears on this claim
 - [Big Tech hyperscalers are introducing cloud and AI infrastructures into education with a business model tending towards monopoly capture](big-tech-hyperscalers-education-monopoly-capture.md) — a narrower finding that bears on this claim
 - [The usage gap in online resources, marked by gender, educational level and age, has profound impact on social inequality](usage-gap-profound-impact-social-inequality.md) — a narrower finding that bears on this claim
+- [OER are a mixed blessing for equity: without purposeful use toward equity and justice they can reinforce inequities](oer-mixed-blessing-for-equity.md) — related

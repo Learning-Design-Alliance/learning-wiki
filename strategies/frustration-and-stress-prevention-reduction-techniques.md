@@ -59,8 +59,10 @@ Teacher stress is reliably associated with poorer instructional quality, higher 
 6. **Reflect after use.** Briefly note which techniques worked; refine the list each term.
 
 ## Related Strategies
+
 - [Check-Ins](../principles/check-ins.md) — structured peer or mentor conversations that surface stress before it escalates
 - [Achievable Micro-Goals](../strategies/achievable_micro-goals.md) — breaking tasks down reduces the overload that generates frustration in the first place
+- [Include emotional assessments into new digital learning platforms to address emotional stress and teacher burnout before attrition](emotional-assessments-in-digital-learning-platforms.md)
 
 ## Examples
 - An elementary teacher plays soft instrumental music during independent reading, using the period as a low-demand recovery window while learners stay productively engaged.

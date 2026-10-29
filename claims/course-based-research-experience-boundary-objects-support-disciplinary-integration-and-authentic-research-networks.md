@@ -64,3 +64,4 @@ This is a methodologically solid, well-triangulated qualitative case study (q2-q
 - [Cross-class super notes in Knowledge Forum prompt rise-above syntheses and serve as an epistemic ladder supporting deeper understanding](super-notes-epistemic-ladder-cross-class-knowledge-building.md) — related
 - [Multivoiced boundary crossing supports holistic nature connection and ethical reflection](multivoiced-boundary-crossing-supports-holistic-nature-connection-and-ethical-reflection.md) — related
 - Journal papers function as resources traversing planes of community knowledge building — related
+- [Current learning-community research rarely mixes methods and shows a rampant positive bias](learning-community-research-weaknesses.md) — related

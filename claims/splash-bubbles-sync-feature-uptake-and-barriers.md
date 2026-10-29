@@ -50,3 +50,4 @@ Survey and interview data on sync feature use. The sync utilizes ACR technology 
 - Dedicated sense-of-belonging courseware features were underused: most students were unaware of the Lumen Community and vaguely remembered the Introduce Yourself module — related
 - [Barriers to integrating AAC into daily routines and accessing AAC programs are frequently reported despite high perceived benefits](aac-access-and-integration-barriers-frequent.md) — related
 - [44.8% of families used the sync feature; most of those enjoyed it, while 37.5% of non-users reported technical difficulties](sync-feature-usage-and-difficulties.md) — related
+- [One-third of surveyed students never used the optional mobile study app at all](one-third-nonusers-optional-study-app.md) — related

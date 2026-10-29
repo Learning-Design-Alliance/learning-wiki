@@ -54,3 +54,4 @@ Interview finding from the 10-SEA study. The article reports that districts with
 - Use of data to guide and refine SEA school improvement supports is nascent, with additional work needed to assess whether supports have impact — related
 - SEA administrators report shifting from compliance monitoring and grants management toward meaningful support and capacity-building for identified schools — related
 - [Within-family designs can test how child self-selection and evocation, and instructor willingness and capacity, shape personalization of learning](within-family-designs-personalization-mechanisms.md) — related
+- [Learner support roles can be leveraged to balance affordances offered by the learning environment and the learners themselves](learner-support-roles-balance-affordances.md) — related

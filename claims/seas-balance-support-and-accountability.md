@@ -53,3 +53,4 @@ Interview finding across the 10 SEAs. Vermont leaders emphasized "forging relati
 - [SEAs are leveraging ESSA requirements and increased flexibility to specify SEA and LEA roles and push evidence-based, locally contextualized improvement strategies.](seas-leverage-essa-requirements-to-define-roles.md) — related
 - Use of data to guide and refine SEA school improvement supports is nascent, with additional work needed to assess whether supports have impact — related
 - SEA administrators report shifting from compliance monitoring and grants management toward meaningful support and capacity-building for identified schools — related
+- [Learner support roles can be leveraged to balance affordances offered by the learning environment and the learners themselves](learner-support-roles-balance-affordances.md) — related

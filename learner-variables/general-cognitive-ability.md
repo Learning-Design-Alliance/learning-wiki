@@ -13,7 +13,7 @@ generated:
 # General Cognitive Ability
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 155 claims (99 show a difference, 33 mixed, 23 no difference) · 109 studies (42 associational, 38 causal, 12 review, 8 quant-synthesis, 7 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 26 of 109 report an effect size · 152 claims rest on one study
+> **Evidence** · 156 claims (99 show a difference, 33 mixed, 24 no difference) · 110 studies (43 associational, 38 causal, 12 review, 8 quant-synthesis, 7 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 26 of 110 report an effect size · 153 claims rest on one study
 
 ## Description
 General cognitive ability is what intelligence and reasoning tests measure: fluid reasoning, crystallised knowledge and processing speed. It is a strong predictor of achievement, and research uses it as a covariate and as a moderator: some designs, such as highly structured instruction, help lower-ability learners more, while discovery-based designs can favour higher-ability learners (aptitude-treatment interactions). It overlaps with [prior knowledge](prior-knowledge.md) and [working memory](working-memory.md), and studies often cannot separate them.
@@ -191,6 +191,7 @@ General cognitive ability is what intelligence and reasoning tests measure: flui
 - [Pupils of all intelligence levels learned from filmstrips and sound motion pictures, with higher-intelligence pupils achieving correspondingly higher scores.](../claims/all-intelligence-levels-learn-from-films-and-filmstrips.md) [+M] — learners who differ on it differ in outcomes
 - [A usability study with 37 fourth to sixth graders showed gifted children needed less support and were satisfied with more abstract prompts, while lower-ability children preferred and needed more concrete instructions](../claims/gifted-less-support-abstract-prompts-usability.md) [+M] — an instructional effect differs with it
 - [In an exploratory study with 478 fifth and sixth graders, children with prompts available showed a more active and effective inquiry process than children without, with ability-related differences in prompt use](../claims/prompts-active-effective-inquiry-ability-differences.md) [+M] — an instructional effect differs with it
+- [Intelligence and personality factors show no relationship to the influence of conclusion-drawing](../claims/no-intelligence-personality-relation-conclusion-drawing.md) [-M] — an instructional effect differs with it
 
 ## The evidence by question
 - *Does a learner's general cognitive ability predict how well they achieve, and how much of achievement does it explain?* [Secondary academic performance is predicted by cognitive ability more strongly than by curiosity](../claims/cognitive-ability-predicts-secondary-gpa-more-than-curiosity.md) [+M]

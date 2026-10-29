@@ -63,6 +63,7 @@ Video modeling draws on observational learning research: learners extract a symb
 - [Use Worked Examples](worked-examples-first.md) — video modeling is the dynamic, often psychomotor counterpart of the worked example
 - [Video Based Reflection](../elements/video-based-reflection.md) — uses video of the learner's own performance for analysis rather than an expert model
 - [Video modeling examples with expert narration revealing covert cognitive processing](video-modeling-examples-expert-narration.md)
+- [Watch-Read-Think (WRT) pre-class strategy for online self-learning of sports action video content](watch-read-think-preclass-strategy.md)
 
 ## Examples
 - **[JoVE](https://www.jove.com)** — peer-reviewed video journal demonstrating laboratory methods in science; each protocol video models technique step by step before students attempt it at the bench.

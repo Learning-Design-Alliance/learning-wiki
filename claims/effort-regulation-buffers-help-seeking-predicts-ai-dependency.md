@@ -55,3 +55,4 @@ Same multiple regression (N = 478). The MSLQ help-seeking subscale measures gene
 - [Both academic self-efficacy and AI self-efficacy are negatively associated with reported AI dependency, supporting a unified compensatory mechanism](self-efficacy-negatively-predicts-ai-dependency.md) — related
 - [Help seeking negatively predicts goal attainment in MOOCs](help-seeking-negative-predictor-mooc-goal-attainment.md) — related
 - [Students report peer support and distraction as effective coping, rarely self-regulation or professional help-seeking](students-prefer-peer-support-diversion-over-professional-help.md) — related
+- [Self-efficacy and time-management positively predict exam grades, while self-evaluation shows an inverse relationship](srl-variables-predict-exam-grades.md) — related

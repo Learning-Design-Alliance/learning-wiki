@@ -73,3 +73,4 @@ In the same correlation analysis, failed attention check rate and task performan
 - [Year of study is only weakly positively associated with reported AI usage frequency, indicating tool normalization across cohorts](weak-year-usage-frequency-association.md) — related
 - [Student uptake is only weakly and inconsistently correlated with chatbot scaffolding in real-world deployments](weak-inconsistent-scaffolding-uptake-correlation-real-world.md)
 - [Subjective effort ratings are affected by invalid cues and only weakly valid as cues to judged learning outcomes](effort-ratings-invalid-cues-weak-validity.md) — related
+- [Use of the tool correlates positively but inconsistently with gains in metacognitive awareness](tool-use-correlates-with-metacognitive-gains.md) — related

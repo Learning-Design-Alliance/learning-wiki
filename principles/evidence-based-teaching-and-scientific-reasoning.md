@@ -23,7 +23,7 @@ sources:
 # Evidence-Based Teaching and Scientific Reasoning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 47 claims (24 for, 20 mixed, 3 against) · 45 studies (10 review, 10 theoretical, 8 causal, 7 associational, 4 qualitative, 3 quant-synthesis, 3 design), `q1`–`q4` · 0 of 45 report an effect size · 45 claims rest on one study
+> **Evidence** · 48 claims (25 for, 20 mixed, 3 against) · 46 studies (10 review, 10 theoretical, 8 causal, 7 associational, 4 qualitative, 4 design, 3 quant-synthesis), `q1`–`q4` · 0 of 46 report an effect size · 46 claims rest on one study
 
 ## Conditional relationship
 
@@ -167,6 +167,7 @@ Claims the earlier page cited, or that bear on the decision, that are used above
 - [A head-to-head teaching contest between a primarily visual method and a combined method produced nearly identical averages (22.9 vs 23.0) and could not decide between the methods because of uncontrolled confounds](../claims/uncontrolled-teacher-contest-inconclusive.md) [~W] — attached 2026-10-25 from Winch (1913), which proposed "Teachers should improve instruction through controlled experiments with exact measurement, supported by educational psychologists rather than directives from superior persons".
 - [ASAP contest performance comparisons across datasets were neither effective nor balanced because each dataset had a unique underlying writing construct; performance should be analyzed per writing task](../claims/asap-comparison-not-balanced-per-task.md) [+W] — attached 2026-10-28 from Kumar et al. (2020), which proposed "AES research should report thorough and transparent performance protocols to enable fair comparison and replication".
 - [A 4-year public institution deployed personalized learning software at scale in College Algebra and used large-scale platform data for continuous improvement rather than acquisition decisions](../claims/action-lab-scale-deployment-continuous-improvement.md) [~W] — attached 2026-10-29 from Hollands et al. (2020), which proposed "Interrogate the theory of change for an educational technology tool or strategy before expending resources on high-quality implementation".
+- [The simple reverse-engineering approach to aligning products with Science of Learning principles risks false positives and a narrow perspective on learning](../claims/reverse-engineering-alignment-false-positives.md) [+W] — attached 2026-10-29 from Natalia Kucirkova et al. (2026), which proposed "Embed evidence-informed mechanisms from the earliest stages of product development rather than treating research as post hoc validation".
 
 ## Objective and learner-valued goal
 

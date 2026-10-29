@@ -51,3 +51,6 @@ Cognitive engagement results from the efficacy verification section of the quasi
 - [Students preferred robot-assisted storytelling and some students treated the robot as a more equal communication partner than the instructor](students-prefer-and-trust-robot-storytelling-partner.md) — related
 - The article reports course completion and robot walking as implementation context, with student performance and learning data reserved for a separate study — related
 - [Participants identified children under 10 as the intended target group for the storytelling robot, significantly more than all other age groups](icub-storytelling-target-under-10-children.md) — related
+- [Robot-assisted digital storytelling improves hospitalized children's therapeutic communication about intravenous injections more than video-based health education](robot-ds-improves-therapeutic-communication.md) — related
+- [Robot-assisted digital storytelling increases hospitalized children's emotional engagement during intravenous injections more than video-based health education](robot-ds-increases-emotional-engagement.md) — related
+- [Robot-assisted digital storytelling reduces hospitalized children's anxiety during intravenous injections more than video-based health education](robot-ds-reduces-hospitalization-anxiety.md) — related

@@ -83,3 +83,4 @@ Thematic analysis found overload and resistance codes more prevalent in directiv
 - [Teachers reported using AI within planning-monitoring-evaluation-revision cycles interpreted as teacher-level self-regulation](teacher-self-regulated-reflection-with-ai.md) — related
 - [Facilitator techniques such as advocacy-inquiry, guided self-correction, and the plus-delta method function as metacognitive practices that shift focus from retrodiction to prediction](debriefing-techniques-as-metacognitive-practices.md) — related
 - [Reflection prompts combined with tutor feedback had positive effects on the development of students' self-regulated learning competence](reflection-prompts-tutor-feedback-self-regulation.md) — related
+- [Dialogic teaching in a university setting facilitated increased use of planning, monitoring and evaluating skills (review-reported)](dialogic-teaching-increased-metacognitive-skills.md) — related

@@ -74,3 +74,4 @@ Within the opportunities theme of Dataset 1, teachers described using VR to "dem
 - [Educators' ideas on AI and VR in teaching were classified into three main categories: AI acting as a character, emerging technology to assist students' learning, and emerging technology to help the teacher](educator-needs-three-categories-ai-vr.md) — related
 - [Domain-expert testing indicated the two GAI characters fulfilled 9 of the 12 educator needs identified in the needs analysis](domain-expert-evaluation-9-of-12-needs.md)
 - [Teachers identified cost, bulky headsets, Wi-Fi connectivity, and technical issues as key challenges to integrating VR into ML2 teaching](vr-challenges-cost-headsets-wifi.md) — related
+- [Academics reconstructed teacher identities by integrating accessible digital tools such as WhatsApp and Google Earth into teaching](accessible-digital-tools-identity-reconstruction.md) — related

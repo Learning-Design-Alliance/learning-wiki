@@ -52,3 +52,5 @@ Participant quote from the four-week study's feedback data. Early in the study, 
 - [Hint Factory MDP-generated hints gave correct next-step hints over 80% of the time and a pilot showed students solved more logic proofs with hints](hint-factory-mdp-hints-effective.md) — related
 - [Unsolicited hints and meta-hints raised first-attempt correctness by d=0.682 and problem completion by d=0.727](unsolicited-meta-hints-effect-sizes.md) — related
 - [Personalized hints raise student success at solving exercises: 60.47% success before second attempt with the discourse model versus 37.93% baseline (p = 0.03)](personalized-hints-improve-success-rate-pilot.md) — related
+- [Hints in multiple-try feedback improve performance on a delayed test one week later](hints-improve-delayed-testing-one-week-later.md) — related
+- [Adding hints to multiple-try feedback increases students' performance during the e-learning learning phase in an authentic university statistics course](hints-in-multiple-try-feedback-increase-learning-phase-performance.md) — related

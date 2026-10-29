@@ -47,6 +47,7 @@ The review frames self-regulated learning as a cognitive-motivational approach i
 ## Examples
 
 - [Use the SRL conceptual framework to guide future research on college student motivation and learning](../strategies/srl-framework-guides-future-research.md)
+- [SRL cycle design strategies: goal setting, strategic planning across four strategy types, accessible self-control prompts, and self-monitoring records](../strategies/srl-cycle-design-strategies-fc.md)
 
 ## Key Sources
 - Abdul Gafoor. K., & Kurukkan, A. (2016). Self-Regulated Learning: A Motivational Approach for Learning Mathematics. International Journal of Education and Psychological Research, 5(3). https://ijepr.org/

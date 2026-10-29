@@ -39,6 +39,7 @@ The guide recommends that districts move beyond cost analysis when justifying ed
 ## Related Strategies
 
 - [Use process and usage data alongside impact data in edtech evaluations](process-usage-data-alongside-impact.md)
+- [Adopt policies to guide administrators in selecting and purchasing effective educational games](policies-guide-adoption-educational-games.md)
 
 ## Examples
 -

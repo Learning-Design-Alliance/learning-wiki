@@ -50,3 +50,5 @@ Item analysis of four test sessions in a crossover study of 120 first-year MBBS 
 - [AI-generated assessment items frequently need faculty correction, supporting AI as a draft generator within quality assurance](genai-assessment-items-draft-generator-quality-assurance.md) — possibly the same claim (merge candidate)
 - [Faculty-generated SBMCQs showed superior discrimination indices and distractor effectiveness compared with ChatGPT-generated SBMCQs](faculty-sbmcqs-superior-discrimination.md) — related
 - [ChatGPT-generated SBMCQs skewed easier than faculty-generated SBMCQs, whose difficulty was predominantly in the appropriate range](chatgpt-sbmcqs-easier-difficulty-index.md) — related
+- [Most LLM-generated MCQs from video transcripts met established quality criteria, with 84.05% rated clear, 86.38% containing plausible distractors, and 93.39% directly answerable](llm-mcq-video-quality-ratings-majority-clear.md) — related
+- [47.08% of the 242 correct MCQs met all evaluated criteria and only four items exhibited three or more flaws](mcq-flaw-cooccurrence-121-pass-all.md) — related

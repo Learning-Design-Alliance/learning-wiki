@@ -54,3 +54,4 @@ The review's own synthesis statement about its body of reviewed experiments. It 
 - [Intelligent tutoring systems improve achievement over non-individualised instruction](adaptive-learning-improves-outcomes.md) — a broader claim this one bears on
 - [Scaffolding improves learning](scaffolding-improves-learning.md) — related
 - [DRL scaffolding significantly benefits high prior knowledge students while BKT does not, and condition-by-prior-knowledge interactions are not significant](drl-benefits-high-prior-knowledge-students.md) — related
+- [Teachers across the reviewed studies used varied digital learning platforms, including learning management systems, adaptive platforms, and intelligent tutoring systems](platforms-teachers-use-lms-its-adaptive.md) — related

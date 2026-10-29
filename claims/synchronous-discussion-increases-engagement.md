@@ -52,3 +52,4 @@ MANCOVA on post-test engagement scores (pretest as covariate) among 121 undergra
 - [No significant main effect of learning approach on behavioral, emotional, or cognitive engagement](no-main-effect-learning-approach-engagement.md) — related
 - [Students communicate more frequently but with lower-quality content in the synchronous chat room than in the asynchronous discussion forum](synchronous-vs-asynchronous-communication-quality.md) — related
 - [No significant interaction effect of learning approach and discussion type on self-regulation](no-interaction-self-regulation.md) — related
+- [The time students had to prepare responses before interacting was connected with all three dimensions of online learner engagement across asynchronous, synchronous, and quasi-synchronous debates](time-to-prepare-connected-all-ole-dimensions.md) — related

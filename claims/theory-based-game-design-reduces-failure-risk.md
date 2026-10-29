@@ -50,3 +50,4 @@ This is the authors' theoretical argument stated in the abstract, not a tested r
 - [Current serious games give all learners the same unregulated scaffolding, which the authors argue contradicts the notion of scaffolding](blanket-scaffolding-in-serious-games-contradicts-scaffolding-notion.md) — a narrower finding that bears on this claim
 - [Cognitive Load Theory lacks a motivational focus, which becomes problematic when interpreting interventions that foster effortful learning strategies](clt-motivation-gap.md) — related
 - [mGBL makes more sense for teaching lower-level enabling content than complex performances that mix multiple learning domains](mgbl-suits-lower-level-enabling-content.md) — related
+- [Barach argues game-based learning needs more pedagogical rigor, scaffolding integration, and learner accountability through design](need-pedagogical-rigor-learning-games.md) — related

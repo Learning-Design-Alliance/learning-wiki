@@ -67,6 +67,7 @@ Learning in games is driven by cycles of decision, feedback, and adjustment; wel
 - [Case-Based Learning](case-based-learning.md) — like GBL, situates learning in consequential decision-making, but without rules and win conditions
 - [Cooperative Learning](cooperative-learning.md) — multiplayer game structures often enact cooperative goals and individual accountability
 - [Activate learners' known material when designing online courses](activate-known-material-online-transition.md)
+- [Support transfer of implicit game-based CT knowledge into explicit, usable knowledge](support-implicit-to-explicit-ct-transfer.md)
 
 ## Related Elements
 - [Practice](../elements/practice.md) — the game loop is repeated, feedback-rich practice

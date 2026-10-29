@@ -50,9 +50,11 @@ Two of these boundaries (access, function) can be observed externally; two (rela
 - [Communities of Innovation](communities-of-innovation.md) — describes what makes a bounded community collaboratively creative, once it exists
 
 ## Examples
+
 - A co-working space (e.g., Open Gov Hub) — access without shared function or vision
 - A freshman cohort scheduled into the same classes — access and function, but not automatically relationships or vision unless separately designed for
 - A distributed, asynchronous online project team — function and vision without much access-based or relational cohesion
+- [Use the four-boundary framework to diagnose a community and focus resources on the aspects most important to its goals](../strategies/boundary-framework-diagnosis-strategy.md)
 
 ## Key Sources
 - West, R. E., & Williams, G. (2018). Learning communities: How do you define a community? In R. West (Ed.), *Foundations of Learning and Instructional Design Technology*. EdTech Books. [https://edtechbooks.org/lidtfoundations/learning_communities](https://edtechbooks.org/lidtfoundations/learning_communities) (originally West, R. E., & Williams, G. (2017). "I don't think that word means what you think it means": A proposed framework for defining learning communities. *Educational Technology Research and Development*.)

@@ -13,7 +13,7 @@ generated:
 # Feedback
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 216 claims (98 for, 102 mixed, 16 against) · 163 studies (63 causal, 33 review, 20 quant-synthesis, 15 associational, 13 design, 10 theoretical, 9 qualitative), `q1`–`q4` · 40 of 163 report an effect size · 192 claims rest on one study
+> **Evidence** · 218 claims (99 for, 103 mixed, 16 against) · 164 studies (64 causal, 33 review, 20 quant-synthesis, 15 associational, 13 design, 10 theoretical, 9 qualitative), `q1`–`q4` · 40 of 164 report an effect size · 194 claims rest on one study
 
 ## Description
 Feedback is information provided to learners about their performance or understanding, intended to close the gap between current and desired performance. Effective feedback answers three questions: Where am I going? How am I doing? Where to next? ([Hattie & Timperley, 2007](https://doi.org/10.3102/003465430298487)). It functions as the corrective mechanism in any instructional cycle that includes [Practice](practice.md) or [Assessment](assessment.md).
@@ -264,6 +264,8 @@ Feedback is among the most powerful influences on learning, but its effects are 
 - [Chatbot-guided feedback SRL improved university students' meta-cognition tendency and self-regulated learning more than conventional SRL](../claims/srl-cgf-improves-metacognition-and-srl.md) [+W]
 - [Chatbot-guided feedback SRL improved university students' learning motivation more than conventional SRL](../claims/srl-cgf-improves-learning-motivation.md) [+W]
 - [In Borup et al.'s (2015) blended-course study, students and instructors perceived text and video feedback as equally valuable on quality and delivery, but valued text's efficiency over video's affective benefits](../claims/text-video-feedback-equal-value-efficiency-preferred.md) [+W]
+- [Hints in multiple-try feedback improve performance on a delayed test one week later](../claims/hints-improve-delayed-testing-one-week-later.md) [+W]
+- [Hints in multiple-try feedback do not significantly improve performance on the immediate test taken directly after the learning phase](../claims/hints-no-significant-immediate-testing-effect.md) [~W]
 
 ## Design Decisions
 <!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice

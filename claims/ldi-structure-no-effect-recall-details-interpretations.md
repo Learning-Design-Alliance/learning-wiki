@@ -70,3 +70,4 @@ ANCOVA on cued recall of interpretations (sum scores 0–48): F(1,52) = 0.21, p 
 - [Audio explanations with an LDI integrated structure lead to longer fixation times on referred-to picture elements during interpretation phases than LDI separated structures](ldi-integrated-longer-fixations-interpretation.md) — related
 - [Linkages between picture elements and interpretation statements are better recognized with an LDI integrated than an LDI separated audio structure](ldi-integrated-better-recognition-linkages.md) — related
 - [Time to first fixation of referred-to picture elements during interpretation phases is shorter with an LDI integrated than an LDI separated audio structure](ldi-integrated-faster-first-fixation.md) — related
+- [In Experiment 1, text-picture integration did not differ significantly between spatial and normal audio guides](no-text-picture-integration-effect-experiment-1.md) — related

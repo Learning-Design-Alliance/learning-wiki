@@ -52,3 +52,4 @@ The editorial asserts, with no evidence or argument presented in the text provid
 - [OER efficacy studies are frequently confounded by simultaneous changes in pedagogy or delivery method.](oer-adoption-confounded-with-pedagogy-change.md) — related
 - [In direct comparisons of OER and commercial textbooks, a strong majority of participants report OER are as good or better.](oer-direct-comparison-strong-majority-as-good-or-better.md) — related
 - [OER adoption is expected to save students money and close the achievement gap in the short term, but this benefit will likely disappear over the longer term](oer-cost-savings-short-term-only.md) — reports the opposite
+- [Relative advantage of OER alone will not lead to rapid adoption, especially if framed as cost savings](relative-advantage-alone-insufficient-for-oer-adoption.md) — related

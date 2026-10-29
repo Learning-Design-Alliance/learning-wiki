@@ -49,3 +49,4 @@ The commentary reports, attributing to Zhang et al. (2026), that the Perform Fir
 - [Physical Experience Enhances Science Learning](physical-experience-enhances-science-learning.md) — a narrower finding that bears on this claim
 - [Instructional guidance that helps novices can become redundant or counterproductive as expertise grows.](expertise-reversal-effect.md) — related
 - [Sequencing of exploration and explicit instruction shows inconsistent results, moderated by task complexity per the expertise reversal account](exploration-first-versus-instruction-first-sequencing-mixed.md) — related
+- [Tracey and Hutchinson (2019) used an exploratory mixed methods design to study the association between designers' imagined learner experiences and learners' representation of the designed activity](mixed-methods-designer-imagination-learner-representation-association.md) — related

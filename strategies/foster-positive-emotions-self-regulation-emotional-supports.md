@@ -50,6 +50,7 @@ From the Ge perspective on practical and policy impact, the editorial notes that
 - [Identifying and Addressing Self-Regulation Strengths and Challenges](identifying_and_addressing_self-regulation_strengths_and_challenges.md)
 - [Develop and test interventions and teacher reflective practices to harness emotions as malleable factors in K-12 settings](interventions-reflective-practices-harness-teacher-emotions.md)
 - [Use robust causal research designs (What Works Clearinghouse guidelines) for future emotion and digital learning studies](wwc-guidelines-emotion-digital-learning-research.md)
+- [Include emotional assessments into new digital learning platforms to address emotional stress and teacher burnout before attrition](emotional-assessments-in-digital-learning-platforms.md)
 
 ## Examples
 -

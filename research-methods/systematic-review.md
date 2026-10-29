@@ -18,7 +18,7 @@ sources:
 # Systematic review
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 5 claims (5 for) · 3 studies (3 quant-synthesis), `q3` · 0 of 3 report an effect size · 5 claims rest on one study
+> **Evidence** · 6 claims (6 for) · 4 studies (3 quant-synthesis, 1 review), `q1`–`q3` · 0 of 4 report an effect size · 6 claims rest on one study
 
 ## Description
 The article defines systematic reviews as a distinct genre of research synthesis. It states that "It is important to define what we mean by a systematic review to distinguish it from simple summaries of research", and that "Systematic reviews are designed to answer a question and prevent the information overload that decision makers at all levels may face." The framework positions the systematic review as a purposeful, question-anchored alternative to ad hoc summaries, used to support evidence-based decision making at all levels.
@@ -33,6 +33,8 @@ The article defines systematic reviews as a distinct genre of research synthesis
 - **Systematic review corpus of 622 reports yielding 53 program evaluations and 44 meta-analyzable effect sizes**: The review assembled an evidence corpus by hand-searching all volumes of 35 journals from 1983 to the end of May 2009 and 18 electronic databases, including non-English reports and unpublished work. Of "622 reports concerned with bullying prevention", 89 reports describing 53 different program evaluations were included, and 44 provided calculable effect sizes for bullying or victimization. Evaluations spanned four design types: randomized experiments, before-and-after intervention-control comparisons, other intervention-control comparisons, and age-cohort designs. (Maria M. Ttofi (2011))
 - **Revisión sistemática de literatura sobre evaluación formativa y analíticas de aprendizaje en cursos virtuales**: Como parte de la definición del modelo, la tesis realiza "una revisión sistemática de la literatura con el fin de identificar los últimos avances en cuanto a metodologías, herramientas, así como otros modelos aplicados en esta área". Esta revisión fundamenta el planteamiento del problema y las preguntas de investigación que guían el diseño e implementación del modelo de evaluación formativa integrado con analíticas de aprendizaje. (Pineda Corcho (2021))
 - **Systematic reviews and meta-analysis of metacognitive self-report measures (24,396 articles screened; 22 factor-structure studies; 37 correlation studies)**: This element is the article's own evidence base: two PRISMA-conducted systematic reviews and a meta-analysis of self-report in metacognitive research. Searches in seven databases located studies from 1982 through 2018, with "24,396 articles from 1982 through 2018 were screened for inclusion in the study." The first review tabulated 22 factor-structure studies; the second analyzed 37 studies, in which "the 37 articles reported 328 correlations between factors and/or subcomponents of metacognition," with instrument type and timing coded for moderator analysis. (Craig et al. (2020))
+- **Meta-aggregative review methodology as an extensible synthesis allowing new evidence to be added without reinterpreting original findings**: The article characterises the systematic meta-aggregative review approach adopted by Philipsen et al. (2019) as an accumulating synthesis structure: "As far as the authors adopted the approach of a systematic meta-aggregative review, new data supported by unequivocal or credible evidence can be conveniently incorporated without reinterpreting the original findings." This makes the review's TPD findings extendable to new contexts, such as frugal-technology use in international remote education. (Portillo et al. (2021))
+- **Philipsen et al. (2019) systematic meta-aggregative review of teacher professional development for online and blended learning**: The reviewed artifact is a systematic meta-aggregative review published in Educational Technology Research and Development (vol. 67, pp. 1145–1174, 2019). The response describes it as a review that "targets teacher professional development for online and blended learning." Meta-aggregation is a qualitative evidence synthesis approach; the response situates its own commentary, summary of key findings, and K-12 application discussion around this review. (An (2021))
 
 ### Claims
 - [Using computerized systems as a differentiation tool has small to moderate positive effects on primary students' language and math performance](../claims/computerized-differentiation-systems-positive-effects-primary.md) [+M]
@@ -40,6 +42,7 @@ The article defines systematic reviews as a distinct genre of research synthesis
 - [Between- or within-class homogeneous ability grouping has a small negative effect on low-ability primary students but no effect on other students](../claims/homogeneous-ability-grouping-negative-low-ability.md) [+M]
 - [School-based anti-bullying programs are effective overall, decreasing bullying by 20-23% on average](../claims/anti-bullying-programs-reduce-bullying-20-23-percent.md) [+M]
 - [Self-report subscales do not reliably assess distinct metacognitive subcomponents, with structures of two to nine components found across studies](../claims/self-report-subcomponents-unreliable.md) [+M]
+- [The response summarizes the key findings of the Philipsen et al. (2019) meta-aggregative review](../claims/an-2021-summarizes-key-findings-pd-review.md) [+W]
 
 ## Related Research Methods
 -
@@ -54,6 +57,8 @@ The article defines systematic reviews as a distinct genre of research synthesis
 - Maria M. Ttofi, David P. Farrington. (2011). Effectiveness of school-based programs to reduce bullying: a systematic and meta-analytic review. J Exp Criminol. https://doi.org/10.1007/s11292-010-9109-1
 - Pineda Corcho, Andrés Felipe. (2021). Modelo de evaluación formativa en cursos virtuales de Matemáticas y su aplicación en analítica de aprendizaje. Tesis de Doctorado en Ingeniería - Sistemas. https://repositorio.unal.edu.co/handle/unal/80892
 - Craig, K., Hale, D., Grainger, C., & Stewart, M. E. (2020). Evaluating metacognitive self-reports: systematic reviews of the value of self-report in metacognitive research. Metacognition and Learning, 15, 155-213. https://doi.org/10.1007/s11409-020-09222-y
+- Portillo, J., Lopez de la Serna, A. (2021). An international perspective for ‘Improving teacher professional development for online and blended learning: a systematic meta-aggregative review’. Education Tech Research Dev. https://doi.org/10.1007/s11423-020-09851-9
+- An, Y. (2021). A response to an article entitled “Improving teacher professional development for online and blended learning: a systematic meta-aggregative review”. Education Tech Research Dev, 69, 39–42. https://doi.org/10.1007/s11423-020-09844-8
 
 # Systematic reviews as question-driven syntheses distinct from simple research summaries
 

@@ -77,3 +77,4 @@ In the same duration moderator analysis, the 1–7 day group showed a small, non
 - [mCSCL effects vary significantly by intervention duration, peaking at 1–4 weeks](mcscl-intervention-duration-moderator.md) — related
 - [Intervention duration in weeks and study-quality characteristics did not significantly moderate extensive reading effects](er-duration-study-characteristics-null-moderators.md) — related
 - [Intervention duration of 3–9 weeks yields the greatest AWE gains, with diminishing returns beyond 10 weeks](awe-duration-3-9-weeks-optimal.md) — related
+- [Effect sizes are larger when the same instructor teaches both gamified and control groups, and when interventions run one to three months](gamification-moderators-instructor-and-duration.md) — related

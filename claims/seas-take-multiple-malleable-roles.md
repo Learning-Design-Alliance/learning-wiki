@@ -53,3 +53,4 @@ Qualitative interviews in 2018–19 with school improvement leads from 10 SEAs (
 - [Most state ESSA plans emphasized the district's role in school improvement over the state agency's role, a shift from No Child Left Behind.](districts-emphasized-over-seas-in-essa-plans.md) — related
 - Use of data to guide and refine SEA school improvement supports is nascent, with additional work needed to assess whether supports have impact — related
 - SEA administrators report shifting from compliance monitoring and grants management toward meaningful support and capacity-building for identified schools — related
+- [Learner support roles can be leveraged to balance affordances offered by the learning environment and the learners themselves](learner-support-roles-balance-affordances.md) — related

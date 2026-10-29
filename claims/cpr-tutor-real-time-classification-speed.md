@@ -49,3 +49,4 @@ In the real-time exploitation phase, the SharpFlow Python TCP server resampled i
 - [Sessions with CPR Tutor feedback showed no significant difference in overall mistake frequency compared with control sessions without feedback](cpr-tutor-no-overall-mistake-frequency-reduction.md) — related
 - [Real-time audio feedback from the CPR Tutor is followed by a short-term decrease in Error Rates across all five target CPR classes within 10 seconds](cpr-tutor-short-term-error-rate-decrease.md) — related
 - [AI in psychomotor ITS is used predominantly for feedback construction rather than for task recommendation or adaptation](its-ai-feedback-over-recommendation.md) — a broader claim this one bears on
+- [Real-time and dynamic feedback dominate feedback provision in ILEs for psychomotor skills](ile-psychomotor-feedback-realtime-dynamic-dominance.md) — a broader claim this one bears on

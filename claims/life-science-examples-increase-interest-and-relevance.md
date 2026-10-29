@@ -59,3 +59,4 @@ Post-semester interviews conducted by a co-author with no course association; in
 - [AI exploration assignments helped students connect physics content to their personal lives and interests](ai-exploration-personal-connections.md) — possibly the same claim (merge candidate)
 - [Problem-based learning connecting coursework and practice is associated with stronger candidate skill development and self-efficacy](problem-based-principal-preparation-self-efficacy.md) — related
 - [Interviews indicate individualized AI-generated identity-based relevance was perceived as overly abstract, while collective AI dialogue connected math to current concerns and cross-domain applications](ai-relevance-perceptions-abstract-versus-proximal.md) — related
+- [High school students perceived interest-driven data exploration activities in a data science curriculum as personally authentic, though not uniformly](interest-driven-datasets-perceived-personally-authentic.md) — related

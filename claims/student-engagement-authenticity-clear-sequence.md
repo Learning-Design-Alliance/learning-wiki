@@ -59,3 +59,4 @@ Synthesis of post-project student focus group feedback in the Student Feedback s
 - [Most reviewed studies pursued real-life-experience authenticity, and no study combined all four intentions of authenticity](intentions-of-authenticity-implemented-studies.md) — related
 - [Preservice teachers in web-enhanced CBA showed improved understanding of technology integration through sequenced authentic tasks](cba-sequenced-tasks-improve-preservice-tech-integration.md) — a narrower finding that bears on this claim
 - [Students reported insufficient engagement with industry partners and projects not real enough in iteration 2](students-insufficient-industry-engagement-iteration2.md) — related
+- [Students most strongly felt like data scientists during the open-ended final project, supporting disciplinary authenticity](final-project-felt-like-data-scientist.md) — related

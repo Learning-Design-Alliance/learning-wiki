@@ -51,3 +51,4 @@ Theoretical foundation section attributing this finding to Kinshuk and Graf (200
 - [Reinforcing learning styles absent from the selected combination on poor performance (strategy 3) yields the most consistent probabilistic learning-style model](strategy3-best-lsp-consistency.md) — related
 - [Learning Styles Matching Does Not Improve Learning](learning-styles-matching-does-not-improve-learning.md) — reports the opposite
 - [Correlational meta-analyses of learning styles and achievement average r = 0.24 but do not test or support the matching hypothesis](learning-style-achievement-correlations-r24.md) — related
+- [A technique helped students identify their own cognitive learning styles and adjust to mismatched courses](learning-style-identification-mismatched-course-adjustment.md) — related

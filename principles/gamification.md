@@ -13,7 +13,7 @@ generated:
 # Gamification
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 38 claims (18 for, 18 mixed, 2 against) · 45 studies (16 causal, 12 quant-synthesis, 10 review, 3 associational, 2 design, 2 theoretical), `q1`–`q4` · 12 of 45 report an effect size · 30 claims rest on one study
+> **Evidence** · 41 claims (19 for, 20 mixed, 2 against) · 46 studies (16 causal, 13 quant-synthesis, 10 review, 3 associational, 2 design, 2 theoretical), `q1`–`q4` · 13 of 46 report an effect size · 33 claims rest on one study
 
 ## Conditional relationship
 
@@ -204,6 +204,9 @@ The expectation should weaken if controlled comparisons of the same practice wit
 - [Effects of gamification on mathematics motivation show substantial heterogeneity (I² = 80.74%), mostly within-study](../claims/gamification-mathematics-heterogeneity-substantial.md) [~W]
 - [The competitive Game Show increased students' tutoring engagement relative to baseline](../claims/game-show-increases-tutoring-engagement.md) [+W]
 - [The SplashLearn Math review found alignment with student agency and gamification principles, including ZPD-based adaptivity](../claims/splashlearn-agency-gamification-alignment.md) [+W]
+- [Gamification positively and significantly affects students' perceptions of autonomy](../claims/gamification-enhances-perceived-autonomy.md) [+W]
+- [Effect sizes are larger when the same instructor teaches both gamified and control groups, and when interventions run one to three months](../claims/gamification-moderators-instructor-and-duration.md) [~W]
+- [Gamification studies measure intrinsic motivation almost exclusively through self-report instruments, with no study using free-choice behavioral measures](../claims/intrinsic-motivation-measured-by-self-report.md) [~W]
 
 ## Related Principles
 - [Autonomy](autonomy.md) — gamification works when it expands meaningful choice, not when it controls learners through rewards

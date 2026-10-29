@@ -43,7 +43,8 @@ An experiment in which "The experimental population of 422 fifth-grade pupils fr
 - [Both sound motion pictures and silent filmstrips contributed to increased learning of fifth-grade social studies.](../claims/sound-pictures-and-filmstrips-increase-social-studies-learning.md) [+W]
 
 ## Related Designs
-- 
+
+- [Fifteen produced film examples varying script, sound recording, lighting, camera speed, and photographer experience](fifteen-billet-analysis-film-examples.md)
 
 ## Examples
 -

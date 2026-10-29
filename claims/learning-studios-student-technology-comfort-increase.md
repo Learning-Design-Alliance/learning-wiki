@@ -59,3 +59,4 @@ Exploratory pilot-year research in the Learning Studios using pre/post/follow-up
 - [Embedded AI assistance enabled a novice student to troubleshoot in real time and stay in creative flow](copilot-embedded-support-real-time-troubleshooting.md) — related
 - [DLP teachers reported significant increases in using technology for both content and pedagogy, but no significant difference from non-DLP teachers in basic technology skills](dlp-content-pedagogy-gains-not-basic-skills.md) — related
 - [Teachers reported increasing encouragement of risk-taking while coaches were less confident teachers actually took risks](dlp-risk-taking-perception-gap.md) — related
+- [Generous IT infrastructure in learning studios led to increased digital technology use requiring teacher coordination](infrastructure-density-increased-digital-use.md) — related

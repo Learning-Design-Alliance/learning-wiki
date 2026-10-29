@@ -51,6 +51,7 @@ The brief recommends schoolwide integration of mindfulness into existing routine
 - [Embed practical stress-management and self-care strategies into existing daily routines](embed-wellbeing-strategies-daily-routines.md)
 - [Use targeted mindfulness supports for at-risk students with trauma-informed adaptation and participation choice](targeted-trauma-informed-mindfulness-supports.md)
 - [Measure and respond to student emotions continuously in digital platforms and promote mindfulness and emotional awareness](continuous-emotion-measurement-mindfulness-digital-platforms.md)
+- [Include emotional assessments into new digital learning platforms to address emotional stress and teacher burnout before attrition](emotional-assessments-in-digital-learning-platforms.md)
 
 ## Examples
 -

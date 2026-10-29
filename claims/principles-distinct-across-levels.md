@@ -48,3 +48,4 @@ Theme 2 interview findings: leaders judged the principles distinctive because, a
 - [A university-wide Deliberative Democracy process enabled higher education stakeholders to integrate situated knowledge through structured dialogue to co-produce AAI-EdTech ethical principles](dd-co-production-situated-knowledge.md) — a broader claim this one bears on
 - [The DD process and product cultivated commitment and trust among participants and informed a new university AI governance policy](dd-cultivated-trust-governance-policy.md) — related
 - [Leaders at city, central office, and school levels are perceived to play a key role in promoting cross-sector collaboration](leaders-key-to-cross-sector-collaboration.md) — related
+- [Stakeholder participants largely endorsed that the co-designed pedagogical design principles foster learning and motivation towards STEM](fg2-member-check-endorses-stem-design-principles.md) — related

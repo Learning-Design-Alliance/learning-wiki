@@ -54,3 +54,4 @@ Idea-deletion coding across the 45-participant experiment: three Interactive Eng
 - [After the design iteration, no student deleted an evaluation step, in contrast to frequent step deletion in the first deployment](no-evaluation-step-deletion-second-deployment.md) — related
 - [Participants valued the AI as a relational buffer that softened interpersonal pressure when disagreement required concession, without expecting it to resolve conflict](ai-relational-buffer-eases-concession.md) — related
 - [Editing by readiness level: word additions did not differ by group, but deletion patterns differed, with SITU users refraining from deleting words from paragraphs marked ready](situ-editing-by-readiness-level-patterns.md) — related
+- [A conflict arises between creators' rights to delete their own content and the system's need for active content sharing](content-ownership-deletion-versus-sharing-conflict.md) — related

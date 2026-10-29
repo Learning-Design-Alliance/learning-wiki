@@ -42,6 +42,7 @@ The editorial calls for research that develops and implements inclusive methods:
 - [Editorial vision: embrace diverse technologies and methodologies, rigor appropriate to each paper's methods, and CSCL in new contexts](cscl-journal-vision-diverse-methods-new-contexts.md)
 - [Seven IUX methodologies for centering learners in LER technology development](iux-methodologies-ler-learner-centered.md)
 - [Change stakeholder roles and investments so marginalized participants can engage as co-experts in R&D](role-investments-for-inclusive-rd-participation.md)
+- [Critique educational technology studies by inserting the researcher and analyzing cultural context](cultural-perspective-critique-strategy.md)
 
 ## Examples
 -

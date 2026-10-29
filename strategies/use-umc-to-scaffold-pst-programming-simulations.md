@@ -49,6 +49,7 @@ The article's first design principle recommends the use-modify-create approach a
 - [Challenge PSTs to develop both a simulation and an accompanying lesson plan](create-simulation-and-lesson-plan-learning-by-design.md)
 - [Design use-stage simulations so PSTs can explore the science phenomenon without programming](explore-science-phenomenon-without-programming.md)
 - [Keep initial TK-requirements low using block-based platforms and easily graspable simulation code](keep-tk-requirements-low-block-based-simulation-code.md)
+- [Use → Modify → Create scaffolding strategy to navigate tensions between personal and disciplinary authenticity](use-modify-create-scaffolding-strategy.md)
 
 ## Examples
 -

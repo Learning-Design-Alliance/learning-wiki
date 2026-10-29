@@ -55,3 +55,4 @@ The rating sample is small (20 questions, two raters with modest agreement), and
 - [LLMs predict common distractors above chance but fall 15 percentage points below chance at predicting which errors students rarely select](llm-distractor-prediction-asymmetry.md) — related
 - [On distractor-driven science items, instruction can first strengthen students' attraction to an alternative conception before that preference declines](instruction-can-raise-attraction-to-alternative-conceptions-before-decline.md) — related
 - [Distractor similarity to the correct answer increases MCQ complexity](distractor-similarity-increases-complexity.md) — related
+- [The authors interpret LLM-based MCQ generation as better suited to declarative, explicitly stated knowledge than to context-dependent, procedural, or inferential knowledge](llm-mcg-declarative-knowledge-clearer-items.md) — related

@@ -53,3 +53,5 @@ The author's interpretive argument (type e) in the abstract: the framework is fl
 - [The Philipsen et al. framework findings can be applied to guide TPD for recovery and a resilient education system](framework-guidance-recovery-resilient-education.md) — related
 - [The Philipsen et al. framework functions as a model of inquiry for examining TPD for OBL strategies in crisis contexts](framework-model-of-inquiry-crisis-tpd.md) — related
 - [Seven responses to Philipsen et al.'s study offer valuable ideas and guidelines for developing TPD for OBL in times of crisis](seven-responses-apply-tpd-obl-framework-in-crisis.md) — related
+- [The study's applicability is limited by its optional app positioning and single-course, single-university setting](optional-app-single-course-limitations.md) — related
+- [International organisations UNESCO and ILO identify teacher professional development for online and blended learning as a priority, per this response](unesco-ilo-tpd-online-blended-priority.md) — related

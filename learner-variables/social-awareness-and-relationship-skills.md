@@ -13,7 +13,7 @@ generated:
 # Social Awareness and Relationship Skills
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 125 claims (82 show a difference, 28 mixed, 15 no difference) · 92 studies (27 review, 21 associational, 17 causal, 13 quant-synthesis, 5 qualitative, 5 design, 4 theoretical), `q1`–`q4` · 25 of 92 report an effect size · 121 claims rest on one study
+> **Evidence** · 127 claims (83 show a difference, 29 mixed, 15 no difference) · 93 studies (27 review, 22 associational, 17 causal, 13 quant-synthesis, 5 qualitative, 5 design, 4 theoretical), `q1`–`q4` · 26 of 93 report an effect size · 123 claims rest on one study
 
 ## Description
 Social awareness is the ability to take another person's perspective, read their feelings and understand the social norms of a setting; relationship skills are the ability to make and keep positive relationships, cooperate, communicate clearly and handle conflict. They are usually measured by parent, teacher and self-report rating scales of social-emotional competence, and by self-report scales of empathy and of how well a learner feels they fit in.
@@ -166,6 +166,8 @@ The page overlaps with [emotional intelligence](emotional-intelligence.md), whic
 - [MIXER produced no significant far-transfer change in children's empathy (Bryant's Empathy Index)](../claims/mixer-no-empathy-far-transfer.md) [-M] — instruction changes it
 - [Maker education can promote STEM-related learning outcomes, collaboration, and empathy](../claims/maker-education-benefits-claim.md) [+M] — instruction changes it
 - [Synchronous videoconferencing projects fostered intercultural awareness and perspective taking in isolated communities](../claims/videoconferencing-intercultural-perspective-taking.md) [+W] — instruction changes it
+- [Digital mindset facets differentially predict leadership practices: proactivity predicts both, perspective taking only transformational, technology orientation only digital instructional, openness neither](../claims/digital-mindset-facets-leadership-practices.md) [~M] — learners who differ on it differ in outcomes
+- [School leaders' proactivity and perspective taking indirectly affect AI integration through leadership practices; openness and technology orientation show no total indirect effect](../claims/digital-mindset-mediated-ai-integration.md) [+W] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Devereux Student Strengths Assessment (DESSA)** (LeBuffe, Naglieri & Shapiro, 2012): parent or teacher rating of social-emotional competencies, including social awareness and relationship skills, from kindergarten to grade 8, with a short screening form (DESSA-mini).

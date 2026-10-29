@@ -25,7 +25,7 @@ grain_size: unit
 # Self-Regulated Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 79 claims (28 for, 47 mixed, 4 against) · 67 studies (24 causal, 13 review, 10 associational, 9 quant-synthesis, 8 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 17 of 67 report an effect size · 72 claims rest on one study
+> **Evidence** · 81 claims (30 for, 47 mixed, 4 against) · 68 studies (24 causal, 13 review, 10 associational, 9 quant-synthesis, 8 theoretical, 3 design, 1 qualitative), `q1`–`q4` · 17 of 68 report an effect size · 74 claims rest on one study
 
 ## Description and scope
 
@@ -145,6 +145,8 @@ This pattern is scoped to regulation attached to subject-matter tasks over a uni
 - [Chatbot-guided feedback SRL improved university students' meta-cognition tendency and self-regulated learning more than conventional SRL](../claims/srl-cgf-improves-metacognition-and-srl.md) [~W]
 - [Students in the chatbot-assisted SRL condition reported personalized learning opportunities, enhanced reflection, and improved performance in interviews](../claims/srl-cgf-student-perceptions-interviews.md) [+W]
 - [Chatbot-guided feedback SRL improved university students' learning motivation more than conventional SRL](../claims/srl-cgf-improves-learning-motivation.md) [~W]
+- [Meta-learning tasks increased university students' use of self-regulatory strategies when studying (review-reported)](../claims/meta-learning-tasks-increased-self-regulatory-strategies.md) [+W]
+- [Self-regulation training programs have a positive effect on university students' academic performance, strongest when underpinned by metacognitive theory (review-reported)](../claims/self-regulation-training-positive-effect-university.md) [+W]
 
 ## Key Sources
 - Zimmerman, B. J. (2002). Becoming a self-regulated learner: An overview. *Theory Into Practice, 41*(2), 64-70. [https://doi.org/10.1207/s15430421tip4102_2](https://doi.org/10.1207/s15430421tip4102_2)

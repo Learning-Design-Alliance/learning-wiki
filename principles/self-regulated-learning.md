@@ -35,7 +35,7 @@ sources:
 # Self-Regulated Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 161 claims (66 for, 86 mixed, 9 against) · 111 studies (34 causal, 24 review, 19 associational, 17 quant-synthesis, 13 theoretical, 3 design, 1 qualitative), `q1`–`q4` · 30 of 111 report an effect size · 150 claims rest on one study
+> **Evidence** · 165 claims (70 for, 86 mixed, 9 against) · 112 studies (34 causal, 24 review, 19 associational, 17 quant-synthesis, 13 theoretical, 4 design, 1 qualitative), `q1`–`q4` · 30 of 112 report an effect size · 154 claims rest on one study
 
 ## Conditional relationship
 
@@ -140,6 +140,7 @@ Claims read against the model above that do not bear on its relationship, steps 
 - [Training students to select tasks using a combination of self-assessed performance and invested mental effort improves self-assessment, task selection, and posttest performance, but one follow-up study found no transfer to a new problem domain](../claims/performance-effort-task-selection-training-improves-srl.md) [+W] — attached 2026-10-21 from Tamara van Gog et al. (2020), which proposed "Teach students a simple task selection rule that combines self-assessed performance and invested mental effort when choosing the next problem-solving task"; tests this page's relationship.
 - [Direct metacognitive instruction improves learning strategies and achievement, with largest effects when strategy instruction is combined with strategy knowledge, longer duration, and in mathematics](../claims/metacognitive-instruction-effects-meta-analyses.md) [+W] — attached 2026-10-26 from Damien S. Fleur et al. (2021), which proposed "Design metacognitive instruction that combines strategy instruction with strategy knowledge and extends over a longer duration"; tests this page's relationship.
 - [Learning journals can enhance metacognition and achievement, but benefits depend on reflection type and quality of instructions](../claims/learning-journals-reflection-type-moderates-benefit.md) [+W] — attached 2026-10-26 from Damien S. Fleur et al. (2021), which proposed "Design metacognitive instruction that combines strategy instruction with strategy knowledge and extends over a longer duration".
+- [Students in virtual, technology-enhanced environments generally do not deploy effective metacognitive strategies unless guided by appropriate scaffolding](../claims/vle-learners-need-metacognitive-scaffolding.md) [+W] — attached 2026-10-29 from O'Neill et al. (2026), which proposed "Use the VLE to extend metacognitive influence on student activity outside class time with realistic staff input, and re-frame educators as designers"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 
@@ -253,6 +254,9 @@ Gains in strategy knowledge, self-reported regulation, self-efficacy, study time
 - [Chatbot-guided feedback SRL improved university students' meta-cognition tendency and self-regulated learning more than conventional SRL](../claims/srl-cgf-improves-metacognition-and-srl.md) [+W]
 - [In the experimental group, second website performance correlated with motivation, attitude, and SRL while first website performance did not](../claims/second-work-correlates-motivation-attitude-srl.md) [~W]
 - [Students in the chatbot-assisted SRL condition reported personalized learning opportunities, enhanced reflection, and improved performance in interviews](../claims/srl-cgf-student-perceptions-interviews.md) [+W]
+- [Dialogic teaching in a university setting facilitated increased use of planning, monitoring and evaluating skills (review-reported)](../claims/dialogic-teaching-increased-metacognitive-skills.md) [+W]
+- [Meta-learning tasks increased university students' use of self-regulatory strategies when studying (review-reported)](../claims/meta-learning-tasks-increased-self-regulatory-strategies.md) [+W]
+- [Self-regulation training programs have a positive effect on university students' academic performance, strongest when underpinned by metacognitive theory (review-reported)](../claims/self-regulation-training-positive-effect-university.md) [+W]
 
 ## Related Principles
 - [Goal Setting & Monitoring](goal-setting-monitoring.md)

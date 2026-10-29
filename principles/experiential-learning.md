@@ -35,7 +35,7 @@ sources:
 # Experiential Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 31 claims (22 for, 9 mixed) · 39 studies (12 causal, 8 quant-synthesis, 7 qualitative, 5 review, 4 theoretical, 2 associational, 1 design), `q1`–`q4` · 8 of 39 report an effect size · 25 claims rest on one study
+> **Evidence** · 32 claims (23 for, 9 mixed) · 40 studies (12 causal, 8 quant-synthesis, 7 qualitative, 5 review, 4 theoretical, 2 associational, 2 design), `q1`–`q4` · 8 of 40 report an effect size · 26 claims rest on one study
 
 ## Conditional relationship
 
@@ -163,6 +163,7 @@ An engaging experience, an immediate skill gain, an explanation, near transfer, 
 - [Included research studies suggest TES with land-based and experiential pedagogies deepens student engagement in post-secondary education](../claims/tes-land-based-experiential-engagement.md) [+W]
 - [Interpersonal feedback improved creativity transfer to novel tasks more than all control conditions](../claims/if-improves-creativity-transfer.md) [+W]
 - [Subjective memory strength is higher for images from experiential than observational learning trials](../claims/memory-strength-higher-experiential.md) [+W]
+- [Step 1 (Work on an activity) of the VAS facilitated participants' reflection on both their knowledge and their teaching experiences](../claims/vas-step1-facilitated-reflection-knowledge-teaching.md) [+W]
 
 ## Related Principles
 - [Debriefing](debriefing.md) — a core mechanism for making experience educative

@@ -50,6 +50,7 @@ The article recommends that educational technology instructors design courses to
 
 - [Communicate course structure and expectations early to support students' self-efficacy at course start](early-structure-communication-supports-self-efficacy.md)
 - [Structure group work to facilitate collaborative discussions and help-seeking behaviors among peers, particularly for low self-efficacy students](structure-group-work-for-discussion-and-help-seeking.md)
+- [Minimize platform complexity and build instructor self-efficacy through training to support e-learning adoption](minimize-complexity-and-build-self-efficacy-training.md)
 
 ## Examples
 -

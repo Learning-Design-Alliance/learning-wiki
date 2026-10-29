@@ -48,3 +48,5 @@ Classification of the extracted ITS corpus through the skill continua framework 
 - [AI in psychomotor ITS is used predominantly for feedback construction rather than for task recommendation or adaptation](its-ai-feedback-over-recommendation.md) — related
 - [Perceptual tasks dominate the Harrow proficiency levels supported by existing ITS, with physical activities and non-discursive communication rare](harrow-tasks-perceptual-dominance.md) — related
 - [ITS for psychomotor skills cluster in medicine, with sport second and other domains marginal](its-domain-distribution-medicine.md) — related
+- [Sports and healthcare dominate the application domains of ILE-based psychomotor training](ile-psychomotor-domains-sports-healthcare-lead.md) — related
+- [ILE psychomotor training research concentrates on gross, closed, and discrete motor skills](ile-psychomotor-motor-skill-distribution.md) — related

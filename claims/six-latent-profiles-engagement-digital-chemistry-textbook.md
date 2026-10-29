@@ -48,3 +48,4 @@ Latent profile analysis of log-file engagement indicators from 235 students usin
 - [Engagement profile membership predicts delayed chemistry knowledge (six to eight weeks later) above and beyond prior knowledge](profiles-predict-delayed-knowledge-beyond-prior-knowledge.md) — a narrower finding that bears on this claim
 - [Latent profile analysis of 2015 PISA data identifies four collaborative problem-solver profiles among Chinese 15-year-old students](four-collaborative-problem-solver-profiles-pisa.md) — related
 - [Elementary school children show distinct latent profiles of procedural metacognition combining monitoring accuracy, restudy effectiveness, and decision accuracy across tasks](distinct-metacognition-profiles-lpa-children.md) — related
+- [Latent profile analysis of mobile study app log data identifies three distinct student engagement profiles: disengaged, utilitarian, and active](three-engagement-profiles-mobile-retrieval-app.md) — related
