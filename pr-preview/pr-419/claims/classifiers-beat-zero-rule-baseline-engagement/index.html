@@ -1,0 +1,130 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>All three trained classifiers outperformed the zero-rule baseline (28.4% accuracy) for classifying cognitive engagement in discussion posts - Learning Design Wiki</title>
+<link rel="icon" href="../../branding/lda-monogram-dawn.svg" type="image/svg+xml">
+<link rel="stylesheet" href="../../assets/stylesheets/main.57a0d79d.min.css">
+<link rel="stylesheet" href="../../assets/stylesheets/palette.fb2fffe2.min.css">
+<link rel="stylesheet" href="../../branding/lda-theme.css">
+<style>
+.lt-header{background:var(--md-primary-fg-color);color:var(--md-primary-bg-color);padding:.6rem 1rem;font-size:.8rem}
+.lt-header a{color:inherit;text-decoration:none;margin-right:.6rem}
+.lt-header a:hover{text-decoration:underline}
+.lt-header form{display:inline;float:right}
+.lt-main{max-width:52rem;margin:0 auto;padding:1rem 1.2rem 3rem}
+</style>
+</head>
+<body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
+<script>try{var s=new URL("../../"||".",location).pathname,p=JSON.parse(localStorage.getItem(s+".__palette"));if(p&&p.color){for(var k of ["scheme","primary","accent"])if(p.color[k])document.body.setAttribute("data-md-color-"+k,p.color[k])}}catch(e){}</script>
+<header class="lt-header">
+<a class="lt-logo" href="../../"><img src="../../branding/lda-monogram-lapis.svg" alt="Learning Design Wiki"></a>
+<a href="../../claims/">Claims</a>
+<form class="lt-header-search" action="../../search/" role="search"><input name="q" type="search" placeholder="Search" aria-label="Search the wiki"></form>
+</header>
+<main class="lt-main"><article class="md-typeset" data-pagefind-body data-pagefind-filter="kind:Claim">
+<h1 id="all-three-trained-classifiers-outperformed-the-zero-rule-baseline-284-accuracy-for-classifying-cognitive-engagement-in-discussion-posts">All three trained classifiers outperformed the zero-rule baseline (28.4% accuracy) for classifying cognitive engagement in discussion posts<a class="headerlink" href="#all-three-trained-classifiers-outperformed-the-zero-rule-baseline-284-accuracy-for-classifying-cognitive-engagement-in-discussion-posts" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Claim</strong> · <a href="../">All claims</a><br />
+<strong>Evidence</strong> · 1 study · design <code>r2</code> · <code>q2</code><br />
+<strong>Currency</strong> · newest study 2022 · not yet checked against its sources · not reviewed by a person · <strong>overdue for a recheck since 2025</strong>: tool and model accuracy changes quickly</p>
+</blockquote>
+<h2 id="subclaims">Subclaims<a class="headerlink" href="#subclaims" title="Permanent link">&para;</a></h2>
+<details class="info">
+<summary>Reading the evidence codes</summary>
+<p><code>q</code> is the design tier, <code>i</code> the impact, <code>n</code> the sample, and the kind with its <code>r</code>
+the rigour judged within that kind: <a href="../evidence-codes/">what each code means</a>.</p>
+<p><strong>This claim:</strong> no standardized effect is recorded in <code>observations/</code> for it yet, so no benchmark reading is possible.</p>
+</details>
+<p><code>q2 i?</code> Decision tree (60%), random forest (66%), and SVM (71%) full-model accuracies all exceeded the 28.4% zero-rule baseline, and Cochran's Q showed significant differences between classifiers. <a href="#gorgun-2022">→ Gorgun 2022</a></p>
+<h2 id="evidence">Evidence<a class="headerlink" href="#evidence" title="Permanent link">&para;</a></h2>
+<h3 id="gorgun-2022">Gorgun 2022<a class="headerlink" href="#gorgun-2022" title="Permanent link">&para;</a></h3>
+<p>Gorgun, G., Yildirim-Erbasli, S. N., &amp; Demmans Epp, C. (2022). Predicting cognitive engagement in online course discussion forums. Proceedings of the 15th International Conference on Educational Data Mining. https://doi.org/10.5281/zenodo.6853149</p>
+<p><code>q2 · i?</code> · <code>design · r2</code></p>
+<p>Results section comparison of the three classifiers against the zero-rule baseline on the 30% test split, with Cochran's Q (Q = 55.68, p &lt; .001) comparing classification accuracies across models. All models "outperformed this simple baseline".</p>
+<blockquote>
+<p>"Note that the accuracy of the zero-rule classifier for the full model would be 28.4%. As can be seen in Table 4, all of the models outperformed this simple baseline. Moreover, Cochran's test revealed statistically significant differences between the classifiers we built, Q = 55.68, p &lt; .001."</p>
+</blockquote>
+<h2 id="discussion">Discussion<a class="headerlink" href="#discussion" title="Permanent link">&para;</a></h2>
+<h2 id="related-claims">Related Claims<a class="headerlink" href="#related-claims" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="../adjacent-engagement-level-misclassification-patterns/">Classifiers systematically confuse adjacent engagement levels: social with active, constructive with interactive, and interactive with active</a> — related</li>
+<li><a href="../awl-count-word-count-feature-importance-engagement/">Academic word list count, word count, and Flesch-Kincaid grade level are the most important features for predicting cognitive engagement in discussion posts</a> — related</li>
+<li><a href="../svm-outperforms-dt-rf-cognitive-engagement-prediction/">A support vector machine classifier outperformed decision tree and random forest models in predicting cognitive engagement levels of online discussion posts</a> — related</li>
+<li><a href="../awl-academic-vocabulary-supports-engagement-identification/">Discipline-general academic vocabulary (AWL use) supports cognitive engagement identification and may aid generalization across courses</a></li>
+<li><a href="../random-forest-best-auc-flagged-problems/">A random forest classified flagged versus non-flagged word problems with the best accuracy of five tested models (AUC = 0.75)</a> — related</li>
+<li>Random Forest is the most commonly used NLP-supporting algorithm in LA, while deep learning models (LSTM, BERT) have been widely adopted since 2021 — related</li>
+<li><a href="../mmla-k8-random-forest-best-performance/">Random forest algorithms yielded the best classification performance in K–8 MMLA studies comparing multiple machine learning models</a> — related</li>
+<li><a href="../ai-intensifies-nomic-measurement-problem/">Algorithmically inferred measurement functions may intensify, rather than resolve, the problem of nomic measurement in analyzing student learning</a> — related</li>
+<li><a href="../ast-baseline-taxonomy-level-classification/">An AST-only structural classifier substantially exceeds random baseline accuracy in predicting CogTax levels, with L1–L3 mutually confused and L4 perfectly precise</a> — related</li>
+<li><a href="../dt-competitive-with-black-box-classifiers/">Decision trees achieve competitive accuracy with black-box models (LR, RF, SVM), which performed slightly better but lack interpretability</a> — related</li>
+<li><a href="../lstm-strategy-temporal-analytics-outperforms-baselines/">An LSTM-based strategy temporal analytics framework outperforms random forest, SVM, and majority-class baselines for stealth assessment predictive accuracy</a> — related</li>
+<li><a href="../dt-slide-interaction-features-predict-module-outcomes/">Decision tree classifiers trained on slide interaction features predict end-of-module outcomes with high accuracy across four K-12 programming courses</a> — related</li>
+<li><a href="../unsupervised-clustering-beats-feature-classifiers/">Unsupervised time-series clustering identifies low performers more accurately than SVM or decision-tree classifiers trained on two temporal statistics</a> — related</li>
+<li><a href="../gaze-prediction-specific-math-difficulties-multiclass/">On one graphical differentiation item, eye tracking data predicted students' specific difficulties as a multiclass classification problem</a> — related</li>
+<li><a href="../ml-models-predict-srl-early/">Machine learning models can predict SRL-use categories early in students' interactions with accuracy significantly above baseline</a> — related</li>
+</ul>
+<details class="info">
+<summary>Page metadata</summary>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>type</code></td>
+<td><code>claim</code></td>
+</tr>
+<tr>
+<td><code>id</code></td>
+<td><code>classifiers-beat-zero-rule-baseline-engagement</code></td>
+</tr>
+<tr>
+<td><code>title</code></td>
+<td><code>All three trained classifiers outperformed the zero-rule baseline (28.4% accuracy) for classifying cognitive engagement in discussion posts</code></td>
+</tr>
+<tr>
+<td><code>description</code></td>
+<td><code>All three trained classifiers outperformed the zero-rule baseline (28.4% accuracy) for classifying cognitive engagement in discussion posts</code></td>
+</tr>
+<tr>
+<td><code>status</code></td>
+<td><code>review</code></td>
+</tr>
+<tr>
+<td><code>evidence_strength</code></td>
+<td><code>moderate</code></td>
+</tr>
+<tr>
+<td><code>newest_evidence</code></td>
+<td><code>2022</code></td>
+</tr>
+<tr>
+<td><code>recheck_by</code></td>
+<td><code>2025</code></td>
+</tr>
+<tr>
+<td><code>generated</code></td>
+<td>by <code>process:wiki-ingest</code> on <code>2026-09-25</code></td>
+</tr>
+<tr>
+<td><code>trust</code></td>
+<td>unverified — no one has confirmed this page's content</td>
+</tr>
+<tr>
+<td><code>sources</code></td>
+<td>1 — <code>gorgun-2022</code></td>
+</tr>
+</tbody>
+</table>
+<p>Frontmatter is the page's machine-readable record — see the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
+</details>
+</article></main>
+<footer class="lt-footer"><span class="lda-footer-links"><a href="https://www.learningdesignalliance.org">Learning Design Alliance</a> · <a href="https://reports.learningdesignalliance.org">Research reports</a> · <a href="https://wiki.learningdesignalliance.org">Wiki</a> · <a href="https://lazuli.design">Lazuli</a></span> &copy; Learning Design Alliance — content licensed CC BY-SA 4.0 where copyright applies; pages are written largely by AI (<a href="https://wiki.learningdesignalliance.org/checks/#who-wrote-this-and-the-license">who wrote this, and the license</a>)</footer>
+<script src="../../assets/javascripts/lt-nav.js" data-root="../../" data-folder="claims"></script>
+</body>
+</html>

@@ -1,0 +1,123 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Small language models used as automated judges exhibit severe leniency bias against tutoring responses - Learning Design Wiki</title>
+<link rel="icon" href="../../branding/lda-monogram-dawn.svg" type="image/svg+xml">
+<link rel="stylesheet" href="../../assets/stylesheets/main.57a0d79d.min.css">
+<link rel="stylesheet" href="../../assets/stylesheets/palette.fb2fffe2.min.css">
+<link rel="stylesheet" href="../../branding/lda-theme.css">
+<style>
+.lt-header{background:var(--md-primary-fg-color);color:var(--md-primary-bg-color);padding:.6rem 1rem;font-size:.8rem}
+.lt-header a{color:inherit;text-decoration:none;margin-right:.6rem}
+.lt-header a:hover{text-decoration:underline}
+.lt-header form{display:inline;float:right}
+.lt-main{max-width:52rem;margin:0 auto;padding:1rem 1.2rem 3rem}
+</style>
+</head>
+<body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
+<script>try{var s=new URL("../../"||".",location).pathname,p=JSON.parse(localStorage.getItem(s+".__palette"));if(p&&p.color){for(var k of ["scheme","primary","accent"])if(p.color[k])document.body.setAttribute("data-md-color-"+k,p.color[k])}}catch(e){}</script>
+<header class="lt-header">
+<a class="lt-logo" href="../../"><img src="../../branding/lda-monogram-lapis.svg" alt="Learning Design Wiki"></a>
+<a href="../../claims/">Claims</a>
+<form class="lt-header-search" action="../../search/" role="search"><input name="q" type="search" placeholder="Search" aria-label="Search the wiki"></form>
+</header>
+<main class="lt-main"><article class="md-typeset" data-pagefind-body data-pagefind-filter="kind:Claim">
+<h1 id="small-language-models-used-as-automated-judges-exhibit-severe-leniency-bias-against-tutoring-responses">Small language models used as automated judges exhibit severe leniency bias against tutoring responses<a class="headerlink" href="#small-language-models-used-as-automated-judges-exhibit-severe-leniency-bias-against-tutoring-responses" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Claim</strong> · <a href="../">All claims</a><br />
+<strong>Evidence</strong> · 1 study · design <code>r2</code> · <code>q2</code><br />
+<strong>Currency</strong> · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly</p>
+</blockquote>
+<h2 id="subclaims">Subclaims<a class="headerlink" href="#subclaims" title="Permanent link">&para;</a></h2>
+<details class="info">
+<summary>Reading the evidence codes</summary>
+<p><code>q</code> is the design tier, <code>i</code> the impact, <code>n</code> the sample, and the kind with its <code>r</code>
+the rigour judged within that kind: <a href="../evidence-codes/">what each code means</a>.</p>
+<p><strong>This claim:</strong> no standardized effect is recorded in <code>observations/</code> for it yet, so no benchmark reading is possible.</p>
+</details>
+<p><code>q2 i?</code> Phi4:14b scored gemma3:27b (Trial 1) responses at 91–96% across multiple configurations while a human rater scored the same responses at 61%. <a href="#h-chad-lane-2026">→ H. Chad Lane 2026</a></p>
+<h2 id="evidence">Evidence<a class="headerlink" href="#evidence" title="Permanent link">&para;</a></h2>
+<h3 id="h-chad-lane-2026">H. Chad Lane 2026<a class="headerlink" href="#h-chad-lane-2026" title="Permanent link">&para;</a></h3>
+<p>H. Chad Lane, Bryson Kageler. (2026). CSTutorBench: Benchmarking Small Language Models as Tutors for Block-Based Programming. SLM4ED'26: The 1st Workshop of Small Language Models for Education. https://github.com/InviteInstitute/CSTutorBench <a href="https://doi.org/10.1145/3770761.3777333">doi:10.1145/3770761.3777333</a></p>
+<p><code>q2 · i?</code> · <code>design · r2</code></p>
+<p>Judge-selection analysis during pipeline development. The authors selected Claude Sonnet 4 instead, whose v4 rubric produced overall scores within 0–7 percentage points of the human baseline for three of four validated models, with deepseek-r1:8b showing a larger gap. No effect sizes are printed.</p>
+<blockquote>
+<p>"We initially explored using SLMs as automated judges but found severe leniency bias. Phi4:14b, for example, scored gemma3:27b (Trial 1) responses at 91–96% across multiple configurations, while a human rater scored the same responses at 61%."</p>
+</blockquote>
+<h2 id="discussion">Discussion<a class="headerlink" href="#discussion" title="Permanent link">&para;</a></h2>
+<h2 id="related-claims">Related Claims<a class="headerlink" href="#related-claims" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="../automated-judge-human-alignment-conservative-bias/">Automated judging aligns strongly with three domain experts (r = 0.82 for role fidelity) but exhibits a conservative bias, scoring ethical deviation 0.08 points lower than humans</a> — reports the opposite</li>
+<li><a href="../human-llm-agreement-low-construct-varying/">Human-LLM agreement remains low across constructs (κ = 0.000 to 0.419), with self-efficacy showing the best alignment and Prior KSAs none</a> — related</li>
+<li><a href="../score-wise-bias-regression-to-mean-awe/">Both fine-tuned models show regression toward the mean in score-wise bias, and error rises monotonically above score 3.0, with high scores hardest to predict</a> — related</li>
+<li><a href="../rag-systematic-leniency-overscoring/">RAG prompting shows systematic leniency, over-scoring relative to teacher mean scores in all four rubric dimensions (total bias = 1.787)</a> — related</li>
+<li><a href="../llm-judge-small-incremental-differences-ceiling/">LLM-as-a-judge ratings found only small, incremental differences between systems, with ceiling effects on several criteria</a> — related</li>
+<li><a href="../llm-evaluator-leniency-ceiling-effects/">Independent LLM evaluators agreed on agent rankings but differed markedly in leniency, with ceiling effects compressing between-agent discrimination</a> — related</li>
+<li><a href="../llm-essay-scoring-systematic-underestimation/">In one study of five LLMs scoring 60 undergraduate essays on IELTS rubric dimensions, systematic underestimation of human scores was the dominant bias trend, with some models also compressing scores into a narrow range</a> — reports the opposite</li>
+<li><a href="../no-consistent-fp-fn-pattern/">No consistent relationship was observed between false-positive and false-negative rates and either the question or the LLM model</a> — reports the opposite</li>
+</ul>
+<details class="info">
+<summary>Page metadata</summary>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>type</code></td>
+<td><code>claim</code></td>
+</tr>
+<tr>
+<td><code>id</code></td>
+<td><code>slm-judges-show-severe-leniency-bias</code></td>
+</tr>
+<tr>
+<td><code>title</code></td>
+<td><code>Small language models used as automated judges exhibit severe leniency bias against tutoring responses</code></td>
+</tr>
+<tr>
+<td><code>description</code></td>
+<td><code>Small language models used as automated judges exhibit severe leniency bias against tutoring responses</code></td>
+</tr>
+<tr>
+<td><code>status</code></td>
+<td><code>review</code></td>
+</tr>
+<tr>
+<td><code>evidence_strength</code></td>
+<td><code>weak</code></td>
+</tr>
+<tr>
+<td><code>newest_evidence</code></td>
+<td><code>2026</code></td>
+</tr>
+<tr>
+<td><code>recheck_by</code></td>
+<td><code>2029</code></td>
+</tr>
+<tr>
+<td><code>generated</code></td>
+<td>by <code>process:wiki-ingest</code> on <code>2026-10-10</code></td>
+</tr>
+<tr>
+<td><code>trust</code></td>
+<td>unverified — no one has confirmed this page's content</td>
+</tr>
+<tr>
+<td><code>sources</code></td>
+<td>1 — <code>h-chad-lane-2026</code></td>
+</tr>
+</tbody>
+</table>
+<p>Frontmatter is the page's machine-readable record — see the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
+</details>
+</article></main>
+<footer class="lt-footer"><span class="lda-footer-links"><a href="https://www.learningdesignalliance.org">Learning Design Alliance</a> · <a href="https://reports.learningdesignalliance.org">Research reports</a> · <a href="https://wiki.learningdesignalliance.org">Wiki</a> · <a href="https://lazuli.design">Lazuli</a></span> &copy; Learning Design Alliance — content licensed CC BY-SA 4.0 where copyright applies; pages are written largely by AI (<a href="https://wiki.learningdesignalliance.org/checks/#who-wrote-this-and-the-license">who wrote this, and the license</a>)</footer>
+<script src="../../assets/javascripts/lt-nav.js" data-root="../../" data-folder="claims"></script>
+</body>
+</html>

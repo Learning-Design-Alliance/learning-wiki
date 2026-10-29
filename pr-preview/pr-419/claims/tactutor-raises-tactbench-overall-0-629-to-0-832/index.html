@@ -1,0 +1,133 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Taxonomy-guided post-training raises TACTutor&#x27;s TACT_Overall on TACTBench from 0.629 (backbone) to 0.832, the highest among evaluated models - Learning Design Wiki</title>
+<link rel="icon" href="../../branding/lda-monogram-dawn.svg" type="image/svg+xml">
+<link rel="stylesheet" href="../../assets/stylesheets/main.57a0d79d.min.css">
+<link rel="stylesheet" href="../../assets/stylesheets/palette.fb2fffe2.min.css">
+<link rel="stylesheet" href="../../branding/lda-theme.css">
+<style>
+.lt-header{background:var(--md-primary-fg-color);color:var(--md-primary-bg-color);padding:.6rem 1rem;font-size:.8rem}
+.lt-header a{color:inherit;text-decoration:none;margin-right:.6rem}
+.lt-header a:hover{text-decoration:underline}
+.lt-header form{display:inline;float:right}
+.lt-main{max-width:52rem;margin:0 auto;padding:1rem 1.2rem 3rem}
+</style>
+</head>
+<body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
+<script>try{var s=new URL("../../"||".",location).pathname,p=JSON.parse(localStorage.getItem(s+".__palette"));if(p&&p.color){for(var k of ["scheme","primary","accent"])if(p.color[k])document.body.setAttribute("data-md-color-"+k,p.color[k])}}catch(e){}</script>
+<header class="lt-header">
+<a class="lt-logo" href="../../"><img src="../../branding/lda-monogram-lapis.svg" alt="Learning Design Wiki"></a>
+<a href="../../claims/">Claims</a>
+<form class="lt-header-search" action="../../search/" role="search"><input name="q" type="search" placeholder="Search" aria-label="Search the wiki"></form>
+</header>
+<main class="lt-main"><article class="md-typeset" data-pagefind-body data-pagefind-filter="kind:Claim">
+<h1 id="taxonomy-guided-post-training-raises-tactutors-tact_overall-on-tactbench-from-0629-backbone-to-0832-the-highest-among-evaluated-models">Taxonomy-guided post-training raises TACTutor's TACT_Overall on TACTBench from 0.629 (backbone) to 0.832, the highest among evaluated models<a class="headerlink" href="#taxonomy-guided-post-training-raises-tactutors-tact_overall-on-tactbench-from-0629-backbone-to-0832-the-highest-among-evaluated-models" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Claim</strong> · <a href="../">All claims</a><br />
+<strong>Evidence</strong> · 1 study (2 entries) · design <code>r2</code> · <code>q2</code><br />
+<strong>Currency</strong> · newest study 2026 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly</p>
+</blockquote>
+<h2 id="subclaims">Subclaims<a class="headerlink" href="#subclaims" title="Permanent link">&para;</a></h2>
+<details class="info">
+<summary>Reading the evidence codes</summary>
+<p><code>q</code> is the design tier, <code>i</code> the impact, <code>n</code> the sample, and the kind with its <code>r</code>
+the rigour judged within that kind: <a href="../evidence-codes/">what each code means</a>.</p>
+<p><strong>This claim:</strong> no standardized effect is recorded in <code>observations/</code> for it yet, so no benchmark reading is possible.</p>
+</details>
+<p><code>q2 i?</code> Post-training with SFT and taxonomy-grounded GRPO raises TACT_Overall from 0.629 for the Qwen3.5-4B backbone to 0.832 on the 78-context TACTBench diagnostic. <a href="#dongjie-yang-2026">→ Dongjie Yang 2026</a>
+<code>q2 i?</code> TACTutor achieves the highest Overall score among evaluated proprietary baselines despite using an open 4B backbone, with qwen3.7-max closest at 0.829. <a href="#dongjie-yang-2026-2">→ Dongjie Yang 2026 (2)</a></p>
+<h2 id="evidence">Evidence<a class="headerlink" href="#evidence" title="Permanent link">&para;</a></h2>
+<h3 id="dongjie-yang-2026">Dongjie Yang 2026<a class="headerlink" href="#dongjie-yang-2026" title="Permanent link">&para;</a></h3>
+<p>Dongjie Yang, Siyan Lin, Leixian Shen, Rui Sheng, Huamin Qu, and Zixin Chen. (2026). TACT: Taxonomy-Aligned Post-Training for Pedagogically Adaptive English Tutoring. https://arxiv.org/abs/2608.03952 <a href="https://doi.org/10.48550/arxiv.2608.03952">doi:10.48550/arxiv.2608.03952</a></p>
+<p><code>q2 · i?</code> · <code>design · r2</code></p>
+<p>Diagnostic evaluation on TACTBench under deployment-like inputs, judged with hidden references and rubric. The article reports that post-training "raisesTACT_Overallfrom0.629forthebackboneto0.832", with no effect size or significance test printed.</p>
+<blockquote>
+<p>"This post-training raisesTACT_Overallfrom0.629forthebackboneto0.832;the auxiliary flags also improve, with accept rate increasing from 0.603 to 0.872 and leak-or-overhelp falling from 0.346 to0.026."</p>
+</blockquote>
+<h3 id="dongjie-yang-2026-2">Dongjie Yang 2026 (2)<a class="headerlink" href="#dongjie-yang-2026-2" title="Permanent link">&para;</a></h3>
+<p>Dongjie Yang, Siyan Lin, Leixian Shen, Rui Sheng, Huamin Qu, and Zixin Chen. (2026). TACT: Taxonomy-Aligned Post-Training for Pedagogically Adaptive English Tutoring. https://arxiv.org/abs/2608.03952</p>
+<p><code>q2 · i?</code> · <code>design · r2</code></p>
+<p>Comparison of judged TACTBench Overall scores across evaluated models. The article notes qwen3.7-max is "closest in Overall score (0.829)" while "TACTutor achieves the highest Overall score"; per-dimension leads by other models are reported descriptively.</p>
+<blockquote>
+<p>"Amongstrongleaderboardbaselines,qwen3.7-max is closest in Overall score (0.829), GLM-5.2 leads on Move and Tone, and GPT-5.5 leads on ESL; nevertheless, TACTutor achieves the highest Overall score despite using an open 4B backbone."</p>
+</blockquote>
+<h2 id="discussion">Discussion<a class="headerlink" href="#discussion" title="Permanent link">&para;</a></h2>
+<h2 id="related-claims">Related Claims<a class="headerlink" href="#related-claims" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="../tactutor-guardrail-flags-improve-accept-leak/">Post-training improves TACTutor's auxiliary guardrail flags on TACTBench: accept rate rises from 0.603 to 0.872 and leak-or-overhelp falls from 0.346 to 0.026</a> — related</li>
+<li><a href="../tactutor-highest-blinded-learner-rating-5-54/">In a blinded study with 50 learners, TACTutor receives the highest overall mean rating (5.54/7) and is rated above its backbone across all four teaching-behavior dimensions (+0.39 overall)</a> — related</li>
+<li><a href="../tactutor-no-degradation-external-benchmarks/">TACTutor shows no degradation relative to its Qwen backbone on external educational benchmarks, with scores rising on MRBench, TutorBench, LongTutor, and DeepTutor</a> — related</li>
+<li><a href="../grpo-sfs-reward-beats-dpo/">GRPO with an SFS-aligned reward yields more consistent improvements than DPO, achieving the highest SFS overall</a> — a broader claim this one bears on</li>
+<li><a href="../sft-improves-selective-update-behavior/">Supervised fine-tuning on misconception-faithful demonstrations sharply improves SFS (up to +0.555 on Malrule for Qwen3-4B)</a> — a broader claim this one bears on</li>
+<li><a href="../sfs-post-training-cross-domain-generalization/">SFS-aligned post-training generalizes out-of-domain: models trained on one dataset retain substantial SFS gains on the other</a> — a broader claim this one bears on</li>
+</ul>
+<details class="info">
+<summary>Page metadata</summary>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>type</code></td>
+<td><code>claim</code></td>
+</tr>
+<tr>
+<td><code>id</code></td>
+<td><code>tactutor-raises-tactbench-overall-0-629-to-0-832</code></td>
+</tr>
+<tr>
+<td><code>title</code></td>
+<td><code>Taxonomy-guided post-training raises TACTutor's TACT_Overall on TACTBench from 0.629 (backbone) to 0.832, the highest among evaluated models</code></td>
+</tr>
+<tr>
+<td><code>description</code></td>
+<td><code>Taxonomy-guided post-training raises TACTutor's TACT_Overall on TACTBench from 0.629 (backbone) to 0.832, the highest among evaluated models</code></td>
+</tr>
+<tr>
+<td><code>status</code></td>
+<td><code>review</code></td>
+</tr>
+<tr>
+<td><code>evidence_strength</code></td>
+<td><code>moderate</code></td>
+</tr>
+<tr>
+<td><code>newest_evidence</code></td>
+<td><code>2026</code></td>
+</tr>
+<tr>
+<td><code>source_checked</code></td>
+<td><code>2026-10-20</code></td>
+</tr>
+<tr>
+<td><code>recheck_by</code></td>
+<td><code>2029</code></td>
+</tr>
+<tr>
+<td><code>generated</code></td>
+<td>by <code>process:wiki-ingest</code> on <code>2026-10-11</code></td>
+</tr>
+<tr>
+<td><code>trust</code></td>
+<td>unverified — no one has confirmed this page's content</td>
+</tr>
+<tr>
+<td><code>sources</code></td>
+<td>2 — <code>dongjie-yang-2026</code>, <code>dongjie-yang-2026-2</code></td>
+</tr>
+</tbody>
+</table>
+<p>Frontmatter is the page's machine-readable record — see the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
+</details>
+</article></main>
+<footer class="lt-footer"><span class="lda-footer-links"><a href="https://www.learningdesignalliance.org">Learning Design Alliance</a> · <a href="https://reports.learningdesignalliance.org">Research reports</a> · <a href="https://wiki.learningdesignalliance.org">Wiki</a> · <a href="https://lazuli.design">Lazuli</a></span> &copy; Learning Design Alliance — content licensed CC BY-SA 4.0 where copyright applies; pages are written largely by AI (<a href="https://wiki.learningdesignalliance.org/checks/#who-wrote-this-and-the-license">who wrote this, and the license</a>)</footer>
+<script src="../../assets/javascripts/lt-nav.js" data-root="../../" data-folder="claims"></script>
+</body>
+</html>

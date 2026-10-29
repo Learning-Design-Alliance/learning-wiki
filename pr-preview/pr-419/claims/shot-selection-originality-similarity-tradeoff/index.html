@@ -1,0 +1,122 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Random shot selection yields the worst originality-similarity combination, while greedy and constraint-satisfaction selection raise originality without increasing item redundancy - Learning Design Wiki</title>
+<link rel="icon" href="../../branding/lda-monogram-dawn.svg" type="image/svg+xml">
+<link rel="stylesheet" href="../../assets/stylesheets/main.57a0d79d.min.css">
+<link rel="stylesheet" href="../../assets/stylesheets/palette.fb2fffe2.min.css">
+<link rel="stylesheet" href="../../branding/lda-theme.css">
+<style>
+.lt-header{background:var(--md-primary-fg-color);color:var(--md-primary-bg-color);padding:.6rem 1rem;font-size:.8rem}
+.lt-header a{color:inherit;text-decoration:none;margin-right:.6rem}
+.lt-header a:hover{text-decoration:underline}
+.lt-header form{display:inline;float:right}
+.lt-main{max-width:52rem;margin:0 auto;padding:1rem 1.2rem 3rem}
+</style>
+</head>
+<body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
+<script>try{var s=new URL("../../"||".",location).pathname,p=JSON.parse(localStorage.getItem(s+".__palette"));if(p&&p.color){for(var k of ["scheme","primary","accent"])if(p.color[k])document.body.setAttribute("data-md-color-"+k,p.color[k])}}catch(e){}</script>
+<header class="lt-header">
+<a class="lt-logo" href="../../"><img src="../../branding/lda-monogram-lapis.svg" alt="Learning Design Wiki"></a>
+<a href="../../claims/">Claims</a>
+<form class="lt-header-search" action="../../search/" role="search"><input name="q" type="search" placeholder="Search" aria-label="Search the wiki"></form>
+</header>
+<main class="lt-main"><article class="md-typeset" data-pagefind-body data-pagefind-filter="kind:Claim">
+<h1 id="random-shot-selection-yields-the-worst-originality-similarity-combination-while-greedy-and-constraint-satisfaction-selection-raise-originality-without-increasing-item-redundancy">Random shot selection yields the worst originality-similarity combination, while greedy and constraint-satisfaction selection raise originality without increasing item redundancy<a class="headerlink" href="#random-shot-selection-yields-the-worst-originality-similarity-combination-while-greedy-and-constraint-satisfaction-selection-raise-originality-without-increasing-item-redundancy" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Claim</strong> · <a href="../">All claims</a><br />
+<strong>Evidence</strong> · 1 study (2 entries) · causal <code>r?</code> · <code>q2</code><br />
+<strong>Currency</strong> · newest study 2024 · not yet checked against its sources · not reviewed by a person</p>
+</blockquote>
+<h2 id="subclaims">Subclaims<a class="headerlink" href="#subclaims" title="Permanent link">&para;</a></h2>
+<details class="info">
+<summary>Reading the evidence codes</summary>
+<p><code>q</code> is the design tier, <code>i</code> the impact, <code>n</code> the sample, and the kind with its <code>r</code>
+the rigour judged within that kind: <a href="../evidence-codes/">what each code means</a>.</p>
+<p><strong>This claim:</strong> no standardized effect is recorded in <code>observations/</code> for it yet, so no benchmark reading is possible.</p>
+</details>
+<p><code>q2 i?</code> Random shot selection produces mostly low-originality items with the highest similarity peak; greedy and constraint satisfaction achieve lower similarity and higher originality consistently, with similarity remaining generally static as originality increases. <a href="#antonio-laverghetta-jr-2024">→ Antonio Laverghetta Jr. 2024</a>
+<code>q2 i?</code> In the full last-round univariate comparison, many more item pairs with cosine similarity of 1.0 occur under greedy than constraint satisfaction shot selection. <a href="#antonio-laverghetta-jr-2024-2">→ Antonio Laverghetta Jr. 2024 (2)</a></p>
+<h2 id="evidence">Evidence<a class="headerlink" href="#evidence" title="Permanent link">&para;</a></h2>
+<h3 id="antonio-laverghetta-jr-2024">Antonio Laverghetta Jr. 2024<a class="headerlink" href="#antonio-laverghetta-jr-2024" title="Permanent link">&para;</a></h3>
+<p>Antonio Laverghetta Jr., Simone Luchini, Averie Linell, Roni Reiter-Palmon and Roger Beaty. (2024). The creative psychometric item generator: a framework for item generation and validation using large language models. CREAI 2024: Workshop on Artificial Intelligence and Creativity. https://arxiv.org/abs/2409.00202 <a href="https://doi.org/10.48550/arxiv.2409.00202">doi:10.48550/arxiv.2409.00202</a></p>
+<p><code>q2 · i?</code> · <code>causal · r?</code></p>
+<p>Numerical analysis of the generated item pool plotted as a joint histogram of originality and mean cosine similarity (Results §4.2, Fig. 4), comparing random, greedy, and constraint-satisfaction shot selection. The article reports random selection obtained "the worst combination of results"; no inferential statistic is printed.</p>
+<blockquote>
+<p>"We observe that random shot selection obtains the worst combination of results: not only are most items low on originality, but the distributionalso peaks the highest on similarity."</p>
+</blockquote>
+<h3 id="antonio-laverghetta-jr-2024-2">Antonio Laverghetta Jr. 2024 (2)<a class="headerlink" href="#antonio-laverghetta-jr-2024-2" title="Permanent link">&para;</a></h3>
+<p>Antonio Laverghetta Jr., Simone Luchini, Averie Linell, Roni Reiter-Palmon and Roger Beaty. (2024). The creative psychometric item generator: a framework for item generation and validation using large language models. CREAI 2024: Workshop on Artificial Intelligence and Creativity. https://arxiv.org/abs/2409.00202</p>
+<p><code>q2 · i?</code> · <code>design · r?</code></p>
+<p>Univariate histogram of cosine similarity for all last-round items under greedy versus constraint satisfaction (Results §4.2, Fig. 5). The article reports "many more" duplicate items under greedy selection and notes greedy also peaks at higher density toward the lower end of the distribution.</p>
+<blockquote>
+<p>"Although both methods generate some item pairs with cosine similarities of1.0, there are many more such items for greedy shot selection, indicating a much larger fraction of extremely similar item content."</p>
+</blockquote>
+<h2 id="discussion">Discussion<a class="headerlink" href="#discussion" title="Permanent link">&para;</a></h2>
+<h2 id="related-claims">Related Claims<a class="headerlink" href="#related-claims" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="../cpig-improves-response-originality-over-iterations/">CPIG's iterative exemplar selection consistently improves the originality of LLM responses to generated CPS items by the last round of item generation</a> — related</li>
+<li><a href="../redundant-contexts-improve-semantic-representations/">Uniform (redundant) contexts yield higher semantic similarity ratings than diverse contexts</a> — related</li>
+<li><a href="../gnn-training-homogenizes-concept-representations/">GNN training homogenizes concept representations, with 62.7% of prerequisite pairs becoming increasingly similar during DGCPL training</a> — related</li>
+</ul>
+<details class="info">
+<summary>Page metadata</summary>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>type</code></td>
+<td><code>claim</code></td>
+</tr>
+<tr>
+<td><code>id</code></td>
+<td><code>shot-selection-originality-similarity-tradeoff</code></td>
+</tr>
+<tr>
+<td><code>title</code></td>
+<td><code>Random shot selection yields the worst originality-similarity combination, while greedy and constraint-satisfaction selection raise originality without increasing item redundancy</code></td>
+</tr>
+<tr>
+<td><code>description</code></td>
+<td><code>Random shot selection yields the worst originality-similarity combination, while greedy and constraint-satisfaction selection raise originality without increasing item redundancy</code></td>
+</tr>
+<tr>
+<td><code>status</code></td>
+<td><code>review</code></td>
+</tr>
+<tr>
+<td><code>evidence_strength</code></td>
+<td><code>moderate</code></td>
+</tr>
+<tr>
+<td><code>newest_evidence</code></td>
+<td><code>2024</code></td>
+</tr>
+<tr>
+<td><code>generated</code></td>
+<td>by <code>process:wiki-ingest</code> on <code>2026-10-11</code></td>
+</tr>
+<tr>
+<td><code>trust</code></td>
+<td>unverified — no one has confirmed this page's content</td>
+</tr>
+<tr>
+<td><code>sources</code></td>
+<td>2 — <code>antonio-laverghetta-jr-2024</code>, <code>antonio-laverghetta-jr-2024-2</code></td>
+</tr>
+</tbody>
+</table>
+<p>Frontmatter is the page's machine-readable record — see the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
+</details>
+</article></main>
+<footer class="lt-footer"><span class="lda-footer-links"><a href="https://www.learningdesignalliance.org">Learning Design Alliance</a> · <a href="https://reports.learningdesignalliance.org">Research reports</a> · <a href="https://wiki.learningdesignalliance.org">Wiki</a> · <a href="https://lazuli.design">Lazuli</a></span> &copy; Learning Design Alliance — content licensed CC BY-SA 4.0 where copyright applies; pages are written largely by AI (<a href="https://wiki.learningdesignalliance.org/checks/#who-wrote-this-and-the-license">who wrote this, and the license</a>)</footer>
+<script src="../../assets/javascripts/lt-nav.js" data-root="../../" data-folder="claims"></script>
+</body>
+</html>

@@ -1,0 +1,123 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>The rule-based recipe annotation system reaches near-perfect inter-annotator agreement (Cohen&#x27;s Kappa 0.85) and average accuracy 0.95 in a validation on sampled recipe segments. - Learning Design Wiki</title>
+<link rel="icon" href="../../branding/lda-monogram-dawn.svg" type="image/svg+xml">
+<link rel="stylesheet" href="../../assets/stylesheets/main.57a0d79d.min.css">
+<link rel="stylesheet" href="../../assets/stylesheets/palette.fb2fffe2.min.css">
+<link rel="stylesheet" href="../../branding/lda-theme.css">
+<style>
+.lt-header{background:var(--md-primary-fg-color);color:var(--md-primary-bg-color);padding:.6rem 1rem;font-size:.8rem}
+.lt-header a{color:inherit;text-decoration:none;margin-right:.6rem}
+.lt-header a:hover{text-decoration:underline}
+.lt-header form{display:inline;float:right}
+.lt-main{max-width:52rem;margin:0 auto;padding:1rem 1.2rem 3rem}
+</style>
+</head>
+<body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
+<script>try{var s=new URL("../../"||".",location).pathname,p=JSON.parse(localStorage.getItem(s+".__palette"));if(p&&p.color){for(var k of ["scheme","primary","accent"])if(p.color[k])document.body.setAttribute("data-md-color-"+k,p.color[k])}}catch(e){}</script>
+<header class="lt-header">
+<a class="lt-logo" href="../../"><img src="../../branding/lda-monogram-lapis.svg" alt="Learning Design Wiki"></a>
+<a href="../../claims/">Claims</a>
+<form class="lt-header-search" action="../../search/" role="search"><input name="q" type="search" placeholder="Search" aria-label="Search the wiki"></form>
+</header>
+<main class="lt-main"><article class="md-typeset" data-pagefind-body data-pagefind-filter="kind:Claim">
+<h1 id="the-rule-based-recipe-annotation-system-reaches-near-perfect-inter-annotator-agreement-cohens-kappa-085-and-average-accuracy-095-in-a-validation-on-sampled-recipe-segments">The rule-based recipe annotation system reaches near-perfect inter-annotator agreement (Cohen's Kappa 0.85) and average accuracy 0.95 in a validation on sampled recipe segments.<a class="headerlink" href="#the-rule-based-recipe-annotation-system-reaches-near-perfect-inter-annotator-agreement-cohens-kappa-085-and-average-accuracy-095-in-a-validation-on-sampled-recipe-segments" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Claim</strong> · <a href="../">All claims</a><br />
+<strong>Evidence</strong> · 1 study · causal <code>r2</code> · <code>q2</code><br />
+<strong>Currency</strong> · newest study 2025 · not yet checked against its sources · not reviewed by a person<br />
+<strong>Design limits</strong> · Mejia-Domenzain 2025: no comparison group (read from the study by two models, 2026-10-27)</p>
+</blockquote>
+<h2 id="subclaims">Subclaims<a class="headerlink" href="#subclaims" title="Permanent link">&para;</a></h2>
+<details class="info">
+<summary>Reading the evidence codes</summary>
+<p><code>q</code> is the design tier, <code>i</code> the impact, <code>n</code> the sample, and the kind with its <code>r</code>
+the rigour judged within that kind: <a href="../evidence-codes/">what each code means</a>.</p>
+<p><strong>This claim:</strong> no standardized effect is recorded in <code>observations/</code> for it yet, so no benchmark reading is possible.</p>
+</details>
+<p><code>q2 i?</code> Manual validation of the regular-expression annotation rules against human labels yielded Cohen's Kappa of 0.85 and average accuracy of 0.95. <a href="#mejia-domenzain-2025">→ Mejia-Domenzain 2025</a></p>
+<h2 id="evidence">Evidence<a class="headerlink" href="#evidence" title="Permanent link">&para;</a></h2>
+<h3 id="mejia-domenzain-2025">Mejia-Domenzain 2025<a class="headerlink" href="#mejia-domenzain-2025" title="Permanent link">&para;</a></h3>
+<p>Mejia-Domenzain, P., Frej, J., Neshaei, S. P., Mouchel, L., Nazaretsky, T., Wambsganss, T., Bosselut, A., &amp; Käser, T. (2025). Enhancing Procedural Writing Through Personalized Example Retrieval: A Case Study on Cooking Recipes. Int J Artif Intell Educ. https://doi.org/10.1007/s40593-024-00405-1</p>
+<p><code>q2 · i?</code> · <code>causal · r2</code></p>
+<p>Evaluation on a random sample of recipe segments: two author-annotators labeled shuffled segments as present/missing per suggestion. The printed result is that "the average accuracy was 0 .95" with near-perfect agreement. No effect size is printed.</p>
+<blockquote>
+<p>"The Cohen's Kappa score between the annotators was 0.85 (near perfect agreement (Landis &amp; Koch, 1977)) and the average accuracy was 0 .95."</p>
+</blockquote>
+<h2 id="discussion">Discussion<a class="headerlink" href="#discussion" title="Permanent link">&para;</a></h2>
+<h2 id="related-claims">Related Claims<a class="headerlink" href="#related-claims" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="../star-label-rule-kappa-066-82-percent/">The star-to-sentiment labeling rule agrees with human review-level labels at Cohen's kappa 0.66 with 82% accuracy on 3,000 RateMyProfessor teacher reviews</a> — related</li>
+<li><a href="../llm-evaluator-agreement-matches-expert-raters/">An LLM-based AI Evaluator agrees with expert human raters on collaboration transcripts at a level similar to inter-expert agreement</a> — related</li>
+<li><a href="../fine-tuned-bert-matches-human-coders-self-affirmation-essays/">A fine-tuned BERT model achieves almost perfect agreement with human coders when classifying student self-affirmation essays, matching human-human reliability</a> — related</li>
+<li><a href="../nlp-la-performance-kappa-accuracy-benchmarks/">NLP models in LA studies typically reach moderate agreement (mean Cohen's kappa 0.54) and mean accuracy 0.79, with deep learning models outperforming others in most studies from 2021 onward</a> — a broader claim this one bears on</li>
+<li><a href="../raw-agreement-kappa-paradox-classroom-video/">In classroom video labeling, high raw agreement (often exceeding 90%) co-occurred with low chance-corrected κ due to temporal misalignment</a> — related</li>
+<li><a href="../expert-triad-high-inter-rater-reliability-bash-grading/">Three independent expert instructors reached exceptionally high inter-rater reliability when grading 1200 bash exam responses, establishing a reliable human reference standard</a> — related</li>
+<li><a href="../dac-automatic-coding-agrees-with-manual-coding/">Automatic DAC coding of dialogue acts agrees substantially with manual coding (79.0% agreement, kappa 0.75)</a> — related</li>
+<li><a href="../gemini-flash-reliable-feedback-focus-annotator/">Gemini 2.0 Flash validated as a reliable LLM annotator of feedback focus types</a> — related</li>
+<li><a href="../ml-detects-reflection-categories-kappa-053-085/">Machine learning detects five of eight reflective-writing categories with substantial or almost perfect reliability and three with moderate reliability (Cohen's κ .53–.85)</a> — related</li>
+<li><a href="../kappa-expert-agreement-limits/">Kappa agreement with human experts shows a system is neither much worse nor much better than experts, but not that experts are a desirable comparison basis</a> — related</li>
+<li><a href="../ml-scoring-argumentation-mean-kappa-060/">ML scoring models for scientific argumentation items achieved good to almost perfect agreement with human consensus scores (mean Cohen's kappa = 0.60)</a> — related</li>
+</ul>
+<details class="info">
+<summary>Page metadata</summary>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>type</code></td>
+<td><code>claim</code></td>
+</tr>
+<tr>
+<td><code>id</code></td>
+<td><code>relex-annotation-validation-kappa-accuracy</code></td>
+</tr>
+<tr>
+<td><code>title</code></td>
+<td><code>The rule-based recipe annotation system reaches near-perfect inter-annotator agreement (Cohen's Kappa 0.85) and average accuracy 0.95 in a validation on sampled recipe segments.</code></td>
+</tr>
+<tr>
+<td><code>description</code></td>
+<td><code>The rule-based recipe annotation system reaches near-perfect inter-annotator agreement (Cohen's Kappa 0.85) and average accuracy 0.95 in a validation on sampled recipe segments.</code></td>
+</tr>
+<tr>
+<td><code>status</code></td>
+<td><code>review</code></td>
+</tr>
+<tr>
+<td><code>evidence_strength</code></td>
+<td><code>weak</code></td>
+</tr>
+<tr>
+<td><code>newest_evidence</code></td>
+<td><code>2025</code></td>
+</tr>
+<tr>
+<td><code>generated</code></td>
+<td>by <code>process:wiki-ingest</code> on <code>2026-10-27</code></td>
+</tr>
+<tr>
+<td><code>trust</code></td>
+<td>unverified — no one has confirmed this page's content</td>
+</tr>
+<tr>
+<td><code>sources</code></td>
+<td>1 — <code>mejia-domenzain-2025</code></td>
+</tr>
+</tbody>
+</table>
+<p>Frontmatter is the page's machine-readable record — see the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
+</details>
+</article></main>
+<footer class="lt-footer"><span class="lda-footer-links"><a href="https://www.learningdesignalliance.org">Learning Design Alliance</a> · <a href="https://reports.learningdesignalliance.org">Research reports</a> · <a href="https://wiki.learningdesignalliance.org">Wiki</a> · <a href="https://lazuli.design">Lazuli</a></span> &copy; Learning Design Alliance — content licensed CC BY-SA 4.0 where copyright applies; pages are written largely by AI (<a href="https://wiki.learningdesignalliance.org/checks/#who-wrote-this-and-the-license">who wrote this, and the license</a>)</footer>
+<script src="../../assets/javascripts/lt-nav.js" data-root="../../" data-folder="claims"></script>
+</body>
+</html>
