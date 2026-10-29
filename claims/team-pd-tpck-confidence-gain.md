@@ -50,3 +50,4 @@ Survey studies by Rienties, Brouwer, Bohle Carbonell, et al. (2013) and Rienties
 - [Short-duration TPACK-based professional development improved teachers' ML knowledge and interest (ML4STEM)](ml4stem-teacher-pd-initial-evidence.md) — related
 - [Teachers' confidence and interest in ML integration progressively increased from the Teachers-as-Learners to the Teachers-as-Designers session.](ml-confidence-interest-increase.md) — related
 - [An LBD-grounded online robotics course increased inservice teachers' self-efficacy in robotics, use of problem-solving and collaboration strategies, and confidence in robotics knowledge and teaching](lbd-online-robotics-course-teacher-self-efficacy-gains.md) — related
+- [The MICRO online PD significantly increased teachers' confidence that they could integrate computing into their classrooms (g = 0.72)](micro-pd-increased-teacher-integration-confidence.md) — related

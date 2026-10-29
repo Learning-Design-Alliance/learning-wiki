@@ -48,3 +48,4 @@ Survey study of 71 K-8 teachers conducted in Spring of 2020, at the moment Ameri
 - [30% of surveyed K-8 teachers planned to adopt transformative teaching practices after pandemic distance teaching](thirty-percent-teachers-transformative-practices-plans.md) — related
 - [Most surveyed teachers planned to transfer what they learned during pandemic distance teaching to adapt future in-person teaching](teachers-plan-transfer-distance-learning-lessons-in-person.md) — related
 - [Full-scale online teaching and learning practice during the pandemic generated new needs for student-centered learning, according to this response essay.](pandemic-online-teaching-needs-student-centered-learning.md) — related
+- [Wikipedia assignments required minimal adaptation during the COVID-19 transition to distance learning](wikipedia-assignments-covid-distance-learning.md) — related

@@ -53,3 +53,4 @@ The authors report a Scopus search showing "over 20 distinct labels for embodime
 - [Jingle-jangle fallacies plague motivation constructs, requiring explicit justification of construct distinctions](jingle-jangle-motivation-constructs.md) — related
 - [Loose use of movement-based learning language risks conflating evidence-based embodied learning with debunked neuromyths](embodiment-terminology-neuromyth-conflation-risk.md) — related
 - [The article reports that research terminology such as 'diagnosis' and 'analysis' is used ambiguously and needs more careful definition](zirbes-1922-diagnosis-analysis-term-ambiguity.md) — related
+- [Conflating uncertainty with its sources or manifestations undermines cumulative theory building and cross-study comparison](uncertainty-conflation-undermines-theory-building.md) — related

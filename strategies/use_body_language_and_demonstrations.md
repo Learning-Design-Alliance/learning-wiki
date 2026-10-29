@@ -64,6 +64,7 @@ Observation of a modeled performance reduces the working-memory and comprehensio
 - [Acting-Role-Play](acting-role-play.md) — dramatization for social and interpersonal skills
 - [Think-Aloud Modeling](think-aloud-modeling.md) — verbalizes the invisible reasoning that physical demonstration cannot show
 - [Use four embodied strategies — gestures, manipulation, body metaphors, and reconstructive eye movements — to ground animation movements in learners' bodies](four-embodied-strategies-dynamic-visualizations.md)
+- [Instructors on television should speak at a deliberate rate and use deliberate movements](deliberate-speech-and-movement-on-tv.md)
 
 ## Examples
 - A chemistry instructor demonstrates proper titration technique — hand position, swirl motion, reading the meniscus at eye level — while narrating each decision, then circulates as students replicate it.

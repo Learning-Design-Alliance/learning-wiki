@@ -51,3 +51,4 @@ This is the authors' theoretical argument stated in the abstract, not a tested r
 - [Cognitive Load Theory lacks a motivational focus, which becomes problematic when interpreting interventions that foster effortful learning strategies](clt-motivation-gap.md) — related
 - [mGBL makes more sense for teaching lower-level enabling content than complex performances that mix multiple learning domains](mgbl-suits-lower-level-enabling-content.md) — related
 - [Barach argues game-based learning needs more pedagogical rigor, scaffolding integration, and learner accountability through design](need-pedagogical-rigor-learning-games.md) — related
+- [The article argues that the findings of the Giannakas et al. (2018) review of mobile game-based learning can be used by practitioners, scholars and designers to utilise mGBL approaches to support and enhance learning](mbl-review-findings-usable-by-practitioners.md) — related

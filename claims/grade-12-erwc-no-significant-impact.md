@@ -48,3 +48,4 @@ Quasi-experimental design used in grade 12 because students could not be randoml
 - [Assignment to the ERWC 3.0 in grade 11 produced a positive, statistically significant impact on achievement on the Non-PT ICA, but no statistically significant impact on the Summative Assessment sample](grade-11-erwc-positive-impact-non-pt-ica-only.md) — related
 - [The positive ERWC impact on EPT scores is robust to sensitivity analyses varying matching methods and analytic sample composition](erwc-impact-robust-sensitivity-analyses.md) — related
 - Baseline pre-assessment scores showed no statistical differences between treatment and control groups in either the matched or baseline sample. — related
+- [Using AR did not produce a statistically significant difference in primary students' academic performance](ar-no-significant-academic-performance-difference.md) — related

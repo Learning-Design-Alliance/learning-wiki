@@ -50,3 +50,4 @@ Theoretical argument: both CLT and CTML assume the visual and auditory modalitie
 - [Cognitive Overload Degrades Learning](cognitive-overload-degrades-learning.md) — related
 - [Standard unconstrained neural networks do not naturally separate working memory from long-term memory or impose human-like capacity limits](unconstrained-neural-networks-lack-memory-capacity-limits.md) — related
 - [Two acknowledged criticisms limit educational neuroscience: partial relevance to classrooms and stronger relevance to learning disorders](educational-neuroscience-criticisms-limits.md) — related
+- [Applying CTML to authentic online instruction exposes gaps concerning working memory duration, retrieval, organization, and affective outcomes](ctml-research-gaps-from-practice.md) — related

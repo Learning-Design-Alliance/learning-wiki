@@ -52,3 +52,4 @@ Evaluation of a series of eight telecasts broadcast to Army reservists in major 
 - [Reservists accepted TV instruction, more than half preferring it to conventional classroom instruction](reservists-preferred-tv-to-classroom.md) — related
 - [Kinescope recordings of television instruction were equally effective as regular instruction](kinescope-recordings-equally-effective.md) — related
 - [In the sewing telecast series, most homemaker viewers learned new things and practice use increased with the number of programs viewed](sewing-tv-learning-and-dose-response.md) — related
+- [Using television in army training is feasible, according to the summarized research](tv-feasible-army-training.md) — a broader claim this one bears on

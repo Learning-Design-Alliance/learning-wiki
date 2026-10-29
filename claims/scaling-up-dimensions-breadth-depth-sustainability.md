@@ -51,3 +51,4 @@ Conceptual analysis drawing on scaling-up research (Dede and Honan 2005). The ar
 - [Inquiry environments are hard to scale because they are ambitious learning activity systems requiring changes in roles, participation, and system coherence](inquiry-environments-ambitious-systems-hard-to-scale.md) — related
 - [CSCL initiatives have produced sustainable educational change at classroom, school, and school-system levels](cscl-sustainable-change-three-levels.md) — related
 - [Hong Kong's centralized education reforms provided a favorable macro-context for CSCL classroom innovation despite examination pressure](hong-kong-reforms-favorable-cscl-context.md) — a narrower finding that bears on this claim
+- [Sustainability is a dimension and requirement of scalability](sustainability-prerequisite-of-scalability.md) — a narrower finding that bears on this claim

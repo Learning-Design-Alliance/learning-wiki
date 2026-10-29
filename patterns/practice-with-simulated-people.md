@@ -167,6 +167,7 @@ This pattern is scoped to rehearsal of an interaction with a person who responds
 
 - [Realism, control and feedback in teacher classroom-management training](../designs/three-elements-effective-training-realism-control-feedback.md) — the 3B virtual classroom with simulated pupils
 - [Text-based heterogeneity simulation with simulated peer feedback](../designs/heterogeneity-simulation-written-feedback-intervention.md)
+- [Use teaching approximations (role play, microteaching) to scaffold pre-service teachers' pedagogical reasoning](../strategies/teaching-approximations-pedagogical-reasoning.md)
 
 ## Related Patterns
 - [Case-Based Learning](case-based-learning.md)

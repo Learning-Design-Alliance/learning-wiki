@@ -50,6 +50,7 @@ The article recommends a phased, mixed pedagogical approach for encouraging girl
 - [Design plugged CT experiences to be accessible and appealing to girls, and address technology-related anxiety through supportive, culturally relevant designs](girl-accessible-plugged-ct-design.md)
 - [Build computational thinking skills in the younger grades through plugged and unplugged activities](develop-ct-skills-younger-grades.md)
 - [Design early learning (K-3) CT opportunities both plugged and unplugged, with devices leveraged where appropriate](plugged-and-unplugged-early-ct-skills.md)
+- [Provide students access to prevalent digital tools to develop fluency and confidence as an integral part of DL education programs](provide-access-prevalent-tools-dl-fluency.md)
 
 ## Examples
 -

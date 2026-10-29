@@ -46,3 +46,5 @@ Literature-based evaluation of the TPACK model in the article's framework-review
 
 ## Related Claims
 - [SAMR describes levels of subject-based technology integration but omits pedagogical, technological and learning-design supports for transitioning between stages](samr-narrow-descriptive-limits.md) — related
+- [The article argues that teacher digital competencies must be reconceptualised beyond person-centric views towards holistic, ecological conceptualisations](ecological-reframing-teacher-digital-competencies.md) — related
+- [Netherlands case: design-based TPACK interventions improved student teachers' TPACK and were sustained, but scaling was delayed by leadership decision structures](netherlands-tpack-interventions-sustained-scaling-delayed.md) — related

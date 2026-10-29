@@ -53,3 +53,4 @@ Same regression model as H1 (Model 1, Table 4). The article prints the ordering 
 - [Expertise positively predicts knowledge integration, and the four competencies remain positively related to knowledge integration at different levels of expertise](competencies-relevant-across-expertise-levels.md) — related
 - [Experts do not exhibit higher levels of reflexivity than novices, consistent with reflexivity as a meta-cognitive competence](experts-not-higher-reflexivity-than-novices.md) — related
 - [Uncertainty in challenging tasks was linked to meta-reflexive deliberation about improving one's own learning](task-uncertainty-triggers-meta-reflexivity.md) — related
+- [Epistemological beliefs relate to tolerance of uncertainty: evaluativist approaches pair better with uncertainty in problem-solving than absolutist ones](epistemological-beliefs-uncertainty-tolerance.md) — related

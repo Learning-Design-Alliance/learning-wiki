@@ -60,6 +60,7 @@ The article recommends that instructors scaffold self-regulated learning by desi
 - [Embed media literacy across disciplines from early education and position AI tools as cognitive scaffolds](embed-media-literacy-ai-cognitive-scaffolds.md)
 - [Frame GenAI labs explicitly as verification and repair practice alongside prompting](frame-genai-labs-as-verification-and-repair-practice.md)
 - [Diagnose self-regulation at semester start and provide scaffolding or self-regulation instruction for online learners](diagnose-scaffold-self-regulation-online.md)
+- [Embed adaptive SRL scaffolding and short learning-skills training into online courses, with targeted social-engagement support for students with limited socialization skills](adaptive-srl-scaffolding-online-courses.md)
 
 ## Examples
 -

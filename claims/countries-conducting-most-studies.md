@@ -52,3 +52,4 @@ The review's analysis of the countries in which the studies were conducted found
 - [Higher education was the educational level that most widely adopted virtual reality and gamification](higher-education-most-widely-adopted-vr-and-gamification.md) — related
 - [EdTech researchers from Germany, Spain and the UK maintain distinct country-specific topical clusters despite publishing in English-language journals](country-specific-edtech-topical-clusters.md) — related
 - [UK-based authors dominate the sample of English-language EdTech publications, with 1339 articles versus 1007 from Spain and 826 from Germany](uk-dominance-english-edtech-publications.md) — related
+- [Adoption of Wikipedia assignments shows a global digital divide, concentrated in English-speaking countries](wikipedia-assignments-global-digital-divide.md) — related

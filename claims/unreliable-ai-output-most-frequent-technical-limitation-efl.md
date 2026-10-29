@@ -57,3 +57,4 @@ Qualitative evidence synthesis of 54 Scopus-indexed empirical studies (2021–20
 - [Technical difficulties were the most frequently reported implementation limitation, mentioned in ten of the thirteen studies](pepper-technical-difficulties-most-reported-limitation.md) — related
 - Most participants articulated technical and contextual limitations of AI evaluation, including handwriting misreading and unawareness of the instructor's rating system — related
 - [Technical challenges include lack of stability, security, and limitations in modeling complex learning behaviors](technical-challenges-srl-recommenders.md) — a broader claim this one bears on
+- [Using AIED poses technical, ethical and trust challenges for teachers](aied-challenges-technical-ethical.md) — a broader claim this one bears on

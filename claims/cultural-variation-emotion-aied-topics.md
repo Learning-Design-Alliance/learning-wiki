@@ -71,3 +71,4 @@ The article's synthesis of cited sources (Henrich et al. 2010a; TALIS 2009; Purd
 - [AI systems are non-neutral socio-technical artifacts embedding cultural assumptions and power relations](ai-non-neutral-embeds-power-relations.md) — related
 - [Algorithmic empathy is culturally fragile: emotional inference errors in socio-emotional AI can invalidate teachers' experiences, so systems require local validation and participatory design](cultural-fragility-algorithmic-empathy.md) — related
 - [Top-tier psychology journals show extreme WEIRD dominance: 97% of first authors and 95% of samples](psychology-weird-representation-imbalance.md) — a narrower finding that bears on this claim
+- [Existing emotion awareness tools offer little information on learners' emotions and their antecedents](existing-emotion-awareness-tools-little-info-on-antecedents.md) — related

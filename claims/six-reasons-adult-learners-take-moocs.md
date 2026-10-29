@@ -45,6 +45,8 @@ The editorial attributes this enumerated list of six learner motivations to Loiz
 
 
 ## Related Claims
+
 - [A University of Pennsylvania study found only about half of MOOC registrants viewed a lecture and only about four percent finished a course entirely](mooc-completion-four-percent.md) — related
 - [Free, understandable, and accessible content ranked low (4%) as an enrollment motivator for SuaCode students, unlike in comparable MOOC motivation studies](free-accessible-content-weak-enrollment-motivator-suacode.md) — related
 - [MOOCs failed to deliver on their proponents' promises of transforming higher education](moocs-failed-to-deliver-on-promises.md) — related
+- [Focus group interviews with active and non-participating (lurking) students indicated that reasons for participation form a determinant dimension of online participation](focus-groups-why-dimension-grounds-scale.md)

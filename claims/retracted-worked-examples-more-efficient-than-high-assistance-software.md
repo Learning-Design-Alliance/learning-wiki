@@ -66,3 +66,4 @@ The retraction notice states the article "was published due to a clerical error"
 ## Related Claims
 - [A 1966 conceptual paper reports, citing earlier programmed-instruction work, that a rule-example-incomplete-example sequence appeared efficient for introducing a new rule](rule-example-sequence-efficient-rule-introduction.md) — related
 - [A narrative review of intelligent tutoring systems asserts, citing one source, that students in personalized learning environments outperform peers in standardized settings](personalized-learning-outperforms-standardized-settings.md) — related
+- The article on social media use for informal learning in Saudi Arabian higher education professional development was retracted because it was published in error — related

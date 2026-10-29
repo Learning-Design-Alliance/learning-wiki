@@ -52,3 +52,4 @@ Instructor interviews across the 10 case study institutions. "Case study intervi
 - [The COVID-19 pandemic pushed institutions globally to abruptly shift instruction digital](covid-19-abrupt-digital-shift-instruction.md) — related
 - [Flexibility was a key benefit for many students: 53% valued not having to travel, 61% found video recordings helpful, and 59% valued assignment deadline extensions](flexibility-benefits-recordings-extensions.md) — related
 - [The COVID-19 shift to online learning in higher education caused panic and discomfort because many instructors lacked skills, resources, and didactic aptitude](pandemic-remote-shift-instructor-unpreparedness.md) — related
+- [In Statistics for Business, digital tools enabled uninvigilated assessment, flexible pacing, and a personalised mastery approach with AI-provided immediate feedback](stats-business-digital-mastery-shift.md) — related

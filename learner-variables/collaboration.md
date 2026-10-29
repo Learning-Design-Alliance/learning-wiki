@@ -13,7 +13,7 @@ generated:
 # Collaboration
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 58 claims (44 show a difference, 8 mixed, 6 no difference) · 51 studies (14 causal, 12 review, 10 qualitative, 6 associational, 5 design, 4 theoretical), `q1`–`q3` · 4 of 51 report an effect size · 58 claims rest on one study
+> **Evidence** · 63 claims (49 show a difference, 8 mixed, 6 no difference) · 54 studies (15 causal, 12 review, 11 qualitative, 6 associational, 5 design, 5 theoretical), `q1`–`q3` · 4 of 54 report an effect size · 63 claims rest on one study
 
 ## Description
 Collaboration is the ability to work with a diverse group toward a common goal: putting forward one's own ideas, listening to others' thoughts and needs, being flexible and compromising, and sharing responsibility for the result. It is measured in several ways, including observation, self-report, rating scales, standardised measures and performance tasks.
@@ -100,6 +100,11 @@ It overlaps with [social awareness and relationship skills](social-awareness-and
 - [Productive failure instructional design in a seamless learning environment increased elementary students' collaborative problem-solving competency in science](../claims/productive-failure-seamless-collaborative-problem-solving.md) [+M] — instruction changes it
 - [Within collaborative note-takers, amount of collaboration correlates significantly with germane load but not extraneous load](../claims/collaboration-amount-correlates-germane-not-extraneous.md) [~M] — learners who differ on it differ in outcomes
 - [An LBD-grounded online robotics course increased inservice teachers' self-efficacy in robotics, use of problem-solving and collaboration strategies, and confidence in robotics knowledge and teaching](../claims/lbd-online-robotics-course-teacher-self-efficacy-gains.md) [+M] — instruction changes it
+- [Collaborative gestures are associated with higher performance than individual gestures, per studies the review cites](../claims/collaborative-gestures-higher-performance.md) [+W] — learners who differ on it differ in outcomes
+- [Game-structured forced collaboration prevented free riding and made continuous information sharing the most important learning outcome](../claims/forced-collaboration-prevents-free-riding.md) [+M] — instruction changes it
+- [Students report significant perceived improvement in the five competencies they consider most relevant to BA graduate employability, including teamwork and foreign language](../claims/als-redesign-improves-top-five-employability-competencies.md) [+M] — instruction changes it
+- [Team members' technical aptitude shaped role adoption, with less game-experienced members taking passive roles and power asymmetries limiting exploration](../claims/technical-aptitude-shapes-team-roles.md) [+M] — learners who differ on it differ in outcomes
+- [Team spirit motivated slower teams to persist, and the co-located classroom setting revealed the physical, face-to-face nature of teamwork](../claims/team-spirit-and-face-to-face-benefits.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Measuring Student Collaboration** (Evans et al., 2020): a guide to collaboration measures of several types: observation, self-report, rating scales, standardised measures and performance assessments.

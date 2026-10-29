@@ -56,3 +56,4 @@ Pre/post survey comparison of ten institute participants. The article reports th
 - [Retrospective pre/post confidence rose on all four course learning objectives with large rank-biserial effects (N=159)](retrospective-confidence-gains-me373.md) — related
 - [Paired pre/post AI readiness scores rose descriptively from 82.5% to 89.9% (mean gain 7.4 percentage points) among seven co-creation clients, treated as descriptive context only](paired-readiness-gain-descriptive-n7.md) — related
 - [AI-supported lab manual design increased students' confidence in troubleshooting and data analysis](ai-lab-manual-design-increased-confidence-troubleshooting.md) — related
+- [The simulation increased teacher candidates' confidence and self-efficacy for addressing sensitive topics, but did not alleviate concerns about parent and administrator backlash](simulation-confidence-gain-persistent-backlash-concerns.md) — related

@@ -53,3 +53,4 @@ Delphi consensus finding from Phase 1 open-ended responses of a 35-member intern
 - [Equitable access emerged as a prominent governance theme, with one-third of panelists explicitly mentioning equity or inclusion](genai-equitable-access-governance-theme.md) — related
 - [Academic integrity was the panel's most frequently cited GenAI policy concern, requiring clear definitions of misconduct and enforceable consequences](academic-integrity-paramount-genai-policy-concern.md) — related
 - [Panelists strongly agreed human oversight must remain central in academic decisions involving GenAI, with clear accountability assignments](human-oversight-central-genai-academic-decisions.md) — related
+- [Four essential conditions for sound and effective use of learning analytics were agreed by experts in a Delphi study](four-conditions-sound-learning-analytics.md) — related

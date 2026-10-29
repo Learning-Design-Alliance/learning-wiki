@@ -75,3 +75,4 @@ The contrasting low-use cluster still uses instant messaging actively (M = 4.27)
 - [Latent profile analysis of pre-service teachers' CT skills identifies three profiles (Novice, Developing, Proficient), revealing heterogeneous, non-linear skill acquisition](three-ct-profiles-preservice-teachers-lpa.md) — related
 - [SRL writing-stage clusters differed in production and revision but not in pausing](srl-writing-clusters-production-revision.md) — related
 - [A two-dimensional profiling method based on initial artifact quality and criterion-aligned revision categorizes student groups into four analytic profiles in an AI-supported RQ/hypothesis revision activity](four-artifact-revision-profiles-ai-supported-inquiry.md) — related
+- [Latent profile analysis of 750 online undergraduates identifies five distinct SRL profiles, including a qualitatively distinct low-regulators-with-limited-social-skills profile](five-srl-profiles-online-math-course.md) — related

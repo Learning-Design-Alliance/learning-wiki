@@ -54,3 +54,5 @@ Analysis of the first author's country/region across the 126 included reviews, v
 - [AIED ethics publication output is concentrated in Europe, led by the United Kingdom (47%) and Finland (20%)](aied-ethics-publications-european-concentration.md) — related
 - [Spain, the United Kingdom, Germany, Greece, and the United States conducted the most studies](countries-conducting-most-studies.md) — related
 - [UK-based authors dominate the sample of English-language EdTech publications, with 1339 articles versus 1007 from Spain and 826 from Germany](uk-dominance-english-edtech-publications.md) — related
+- [Handbook authorship and AECT awards are markedly less internationally diverse than journal publication, suggesting a North American bias in those indicators](handbook-awards-north-american-bias.md) — related
+- [Adoption of Wikipedia assignments shows a global digital divide, concentrated in English-speaking countries](wikipedia-assignments-global-digital-divide.md) — related

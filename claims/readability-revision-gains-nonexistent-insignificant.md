@@ -57,3 +57,4 @@ The review reports, citing Duffy and Kabance (1982) among others, that a readabl
 - [Readability levels of film narrations were found to be at or near the theoretical reading level of the intended audience.](film-narration-readability-matches-audience.md) — a narrower finding that bears on this claim
 - [Film narration type (expository vs. personalized-dramatic) and listenability level effects on factual learning compared across fifth and eighth grade](film-narration-type-listenability-grade-levels.md) — related
 - [The Dale-Chall and Flesch readability formulas appear most efficient at discriminating less from more readable materials](dale-chall-flesch-most-efficient-formulas.md) — related
+- [LA-driven GenAI feedback was significantly more readable than tutor feedback in an online statistics course](genai-feedback-more-readable-than-tutor.md) — related

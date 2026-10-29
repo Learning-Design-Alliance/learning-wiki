@@ -48,3 +48,4 @@ The editorial reports Baerwald's motor imagery study findings: a "more decided t
 - [The voluntary/involuntary attention distinction in the embedded-processes model maps onto signaling, coherence, and split-attention principles](voluntary-involuntary-attention-distinction-explains-multimedia-principles.md) — related
 - [Cardiorespiratory fitness is not associated with reaction times for uncued stimuli in healthy male high-school students](vo2max-not-associated-rt-no-cue.md) — related
 - [Baerwald's study of motor imagery finds no relation between development of musical performance skill and degree of native motor endowment](musical-skill-not-dependent-native-motor-endowment.md) — possibly the same claim (merge candidate)
+- [Film ratings differed by group: college music educators and nonmusic students gave the lowest ratings while music students and high-school instructors gave the highest over-all ratings](music-film-ratings-group-differences.md) — related

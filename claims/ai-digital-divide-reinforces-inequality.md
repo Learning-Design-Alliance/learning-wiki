@@ -94,3 +94,5 @@ This is a conceptual policy paper drawing on the literature and international po
 - [Digital learning environments during the pandemic raise implications for addressing social inequities and education policy reform](digital-environments-social-inequities-policy-reform.md) — related
 - [OER are a mixed blessing for equity: without purposeful use toward equity and justice they can reinforce inequities](oer-mixed-blessing-for-equity.md) — related
 - [The West-European context of the TPD review limits its international generalisability, since about half the world's students lack household computer access](tpd-review-west-european-context-limit.md) — related
+- [Digital technology broadens inclusion in Critical Indigenous Studies by connecting remote communities and knowledge holders, but can exclude those lacking technology access](cis-digital-inclusion-dilemma.md) — a narrower finding that bears on this claim
+- [Technological prerequisites such as internet access and device availability were identified only by the South African panel, with equity of education as a distal outcome](technological-prerequisites-south-african-panel-equity.md) — related

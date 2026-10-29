@@ -83,3 +83,5 @@ Charted educational levels of the 156 included studies. The review reports highe
 - [AIED ethics publication output is concentrated in Europe, led by the United Kingdom (47%) and Finland (20%)](aied-ethics-publications-european-concentration.md) — related
 - [The 22 reviewed AI-in-EFL studies are concentrated in Southeast Asia and predominantly use mixed-method and quasi-experimental designs](ai-efl-review-descriptive-distribution.md) — related
 - [Spain, the United Kingdom, Germany, Greece, and the United States conducted the most studies](countries-conducting-most-studies.md) — related
+- [Digital distraction research is concentrated in the United States and peaked in publication years 2020 and 2023](digital-distraction-publication-patterns.md) — related
+- [Adoption of Wikipedia assignments shows a global digital divide, concentrated in English-speaking countries](wikipedia-assignments-global-digital-divide.md) — related

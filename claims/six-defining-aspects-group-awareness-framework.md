@@ -50,3 +50,4 @@ The commentary narrates the Schnaubert and Bodemer Special Issue paper as a conc
 - [Comparison and integration of different types of group awareness information is a research gap despite firmly established positive tool effects](group-awareness-information-types-comparison-gap.md) — related
 - [Forming and maintaining group awareness strains working memory during collaborative learning](ga-formation-strains-working-memory.md) — related
 - [Visualizing group awareness information strongly impacts dyads' joint regulation of the collaborative process](group-awareness-visualization-impacts-joint-regulation.md) — related
+- [Quality criteria for technology integration conceptual models: accuracy, consistency, scope, simplicity and fruitfulness](quality-criteria-technology-integration-models.md) — related

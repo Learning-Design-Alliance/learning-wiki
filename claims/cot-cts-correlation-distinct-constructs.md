@@ -54,3 +54,4 @@ Validity analysis of the measurement model in the 533-student sample; Table 7 re
 - Critical thinking is rarely defined in HCI research about AI, with fundamental construct and criterion validity challenges — related
 - [Authorship captures a more distinct aspect of artistic evaluation than other performance dimensions](authorship-distinct-performance-dimension.md) — related
 - [The survey instrument's nine constructs show convergent and discriminant validity in this sample](genai-motivation-survey-measurement-validity.md) — related
+- [Uncertainty is conceptually distinct from failure: it is an epistemic and metacognitive state, while failure is defined relative to an evaluative criterion](uncertainty-distinct-from-failure.md) — related

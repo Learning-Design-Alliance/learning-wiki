@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: moderate
 newest_evidence: 2023
+source_checked: 2026-10-29
 sources:
   - id: sarah-k-howard-2023
     resource: "https://doi.org/10.1007/s11423-023-10211-6"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · checked against its sources 2026-10-29 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Case studies of undergraduate programmes in New Zealand found that disciplinary culture, context, and technology influence pedagogical practice and the digital competencies teachers need. [→ Sarah K. Howard 2023](#sarah-k-howard-2023)
@@ -46,3 +47,4 @@ The preface summarizes case studies by Starkey, Yates, Lundqvist, Ormond and Syv
 
 ## Related Claims
 - [Teachers' digital competence is a critical factor influencing both AI tool adoption and its pedagogical effectiveness](teacher-digital-competence-critical-ai-adoption.md) — related
+- [In Higher Education, disciplinary culture and context, together with technology, shape pedagogical practice and the digital capabilities teachers need](disciplinary-culture-shapes-he-digital-capabilities.md) — possibly the same claim (merge candidate)

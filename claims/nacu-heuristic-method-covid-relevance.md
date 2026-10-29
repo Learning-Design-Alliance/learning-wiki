@@ -51,3 +51,4 @@ Theoretical analysis in the article's abstract, arguing that Nacu et al.'s (2018
 - [The current educational moment is analogous to the London Stock Exchange's Big Bang](educational-big-bang-analogy.md) — related
 - [Nacu et al.'s heuristic method for enabling educator learning-support roles can be utilized during the COVID-19 pandemic](heuristic-method-learner-support-pandemic-use.md) — possibly the same claim (merge candidate)
 - [Educator learner-support roles in online education should be fulfilled from a contextual perspective, following Nacu et al.'s (2018) guidelines](learner-support-roles-contextual-perspective.md) — related
+- [Nussbaum and colleagues argue critical thinking and creativity, intersected with grit, are central 21st-century components in online learning design](critical-thinking-creativity-grit-online-design.md) — related

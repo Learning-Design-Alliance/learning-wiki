@@ -40,7 +40,8 @@ The editors structured each invited retrospective around seven questions: motiva
 - 
 
 ## Related Designs
-- 
+
+- [Four-aspect commentary framework: Impact/Value, Application, Limitations and Constraints, Future Suggestions](four-aspect-commentary-framework.md)
 
 ## Examples
 -

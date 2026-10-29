@@ -58,3 +58,4 @@ Qualitative component of the concurrent mixed-methods design: semi-structured in
 - [Teachers reported that simulations, adaptive feedback, and hands-on STEM activities supported students' conceptual understanding and engagement with scientific problem solving](simulations-adaptive-feedback-support-engagement.md) — related
 - [Open inquiry improves students' conceptual understanding of science, supported by seven reviewed studies](open-inquiry-improves-conceptual-understanding.md) — related
 - [Open inquiry enhances students' scientific and thinking skills, including metacognitive and creative thinking](open-inquiry-scientific-thinking-skills.md) — related
+- [Students' self-directed learning and creative thinking skills increased significantly after QIMS inquiry-based lessons](qims-lessons-increase-self-directed-learning-creative-thinking.md) — related

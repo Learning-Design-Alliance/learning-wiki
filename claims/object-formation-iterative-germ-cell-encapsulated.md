@@ -76,3 +76,4 @@ The article's summary of Figure 3 states the steps "testify to the iterative and
 - [A full assessment of a potentially expansive mini-cycle of learning calls for extending the time scale of the analysis beyond a single session](assessing-minicycle-requires-extended-time-scale.md) — related
 - [In the meeting, coordination was the most common type of interaction and communication the rarest, indicating reconceptualizing the script was very challenging](coordination-dominates-communication-rare.md) — related
 - [The sequence of creative problem solving processes varied across students, with most students showing non-linear, iterative ordering](cps-process-sequences-varied-nonlinear.md) — related
+- [Propose is the dominant communication sequence in e-learning team design, occupying almost half of team activity](propose-dominant-communication-sequence.md) — related

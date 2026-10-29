@@ -3,6 +3,7 @@ type: claim
 title: A second showing of an educational film produced substantial learning increments, but a third showing failed to add materially or significantly
 description: A second showing of an educational film produced substantial learning increments, but a third showing failed to add materially or significantly
 id: second-film-showing-substantial-third-adds-little
+aliases: [film-repetition-first-repetition-substantial-gains]
 status: review
 generated:
   by: "process:wiki-ingest"
@@ -27,7 +28,10 @@ sources:
 > **Currency** · newest study 1953 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
+
 `q3 i?` The first repetition (two showings) yielded substantial learning increments, while three showings failed to add materially or significantly over two showings. [→ Research Abstracts: Films 1953](#research-abstracts-films-1953)
+
+`q2 i?` In a science survey class with college freshmen, the first repetition of a film (two showings) produced substantial increments in learning, while three showings failed to add materially or significantly beyond two. [→ RESEARCH ABSTRACTS: FILMS 1953](#research-abstracts-films-1953)
 
 ## Evidence
 
@@ -41,12 +45,39 @@ Analysis of learning gains by number of showings in McTavish's four-group experi
 
 > "the first repetition (i.e. two showings) resulted in substantial increments in learning. Three showings failed to add materially or significantly to the learning effected by two showings."
 
+<!-- merged 2026-10-29 from film-repetition-first-repetition-substantial-gains: that page's entry for this study, which differed from the one above, kept verbatim.
+### RESEARCH ABSTRACTS: FILMS 1953
+
+RESEARCH ABSTRACTS: FILMS. (1953). Research abstracts, p. 819. https://eric.ed.gov/?q=Instructional+Film+Research+Program
+
+`q2 · i?`
+
+Controlled experiment in which four groups of college freshmen (319 students) in a science survey class each saw one of four general science films once, twice, three, or four times within one class period, with testing at the next period. The article reports the "first repetition (i.e. two showings) resulted in substantial increments in learning."
+
+> "Analysis of the learning gains attributable to each additional show- ing of the films indicated that the first repetition (i.e. two showings) resulted in substantial increments in learning. Three showings failed to add materially or significantly to the learning effected by two showings."
+-->
+
+<!-- merged 2026-10-29 from film-repetition-first-repetition-substantial-gains: that page's entry for this study, which differed from the one above, kept verbatim.
+### RESEARCH ABSTRACTS: FILMS 1953
+
+RESEARCH ABSTRACTS: FILMS. (1953). Research abstracts, p. 819. https://eric.ed.gov/?q=Instructional+Film+Research+Program
+
+`q2 · i?`
+
+Controlled experiment in which four groups of college freshmen (319 students) in a science survey class each saw one of four general science films once, twice, three, or four times within one class period, with testing at the next period. The article reports the "first repetition (i.e. two showings) resulted in substantial increments in learning."
+
+> "Analysis of the learning gains attributable to each additional show- ing of the films indicated that the first repetition (i.e. two showings) resulted in substantial increments in learning. Three showings failed to add materially or significantly to the learning effected by two showings."
+-->
+
 ## Discussion
 
 
+
 ## Related Claims
+
 - [Every group of college freshmen learned significantly from each educational film as measured by pre-test to post-test gains](every-group-learned-significantly-from-each-film.md) — related
 - [A fourth showing of an educational film produced an even smaller increment, or in two cases a slight decrement, over three showings](fourth-film-showing-smaller-increment-or-decrement.md) — related
 - [The more often learners meet a word while reading, the more likely they are to learn it incidentally; a meta-analysis of correlational studies finds a moderate correlation](exposure-frequency-predicts-incidental-gains.md) — related
 - [Supplementary examples in an instructional film significantly improve learning, with diminishing returns as example number increases](supplementary-examples-diminishing-returns.md) — related
 - [Announcing an upcoming test did not significantly change learning from the participation film](test-announcement-no-learning-effect.md) — related
+- [Repeating an instructional film increases learning only up to a point](film-repetition-increases-learning-up-to-a-point.md)

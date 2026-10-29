@@ -49,3 +49,4 @@ The authors' conceptual analysis of the common "simple" approach, in which a res
 - [Comparing cases side by side improves learning and transfer by a moderate average amount, though in one algebra study it raised procedural knowledge and flexibility but not conceptual knowledge](comparing-contrasting-cases-improves-learning.md) — a narrower finding that bears on this claim
 - [Productive Failure Improves Conceptual Learning](productive-failure-improves-conceptual-learning.md) — a narrower finding that bears on this claim
 - [A systematic review argues that concrete materials aid mathematics and science learning when they are explicitly and gradually connected to the abstract symbols they represent](manipulatives-require-connection-to-concept.md) — related
+- [Seven domains of alignment are needed for successful use of the Knowledge Building Model and Knowledge Forum](seven-domains-knowledge-building-alignment.md) — related

@@ -55,3 +55,5 @@ Spearman correlation analysis under RQ2 in the survey of 47 graduate students in
 - [Self-regulation and co-regulation are significantly and highly correlated in an online case-based course](self-co-regulation-highly-correlated-online-cbi.md) — related
 - [Interactivity, information sharing, and collaborative environment are each positively associated with perceived social presence in agentic AI-supported online learning](affordances-positive-social-presence-agentic-ai.md) — related
 - In an online course, student performance can be examined in relationship to measures of student interaction and sense of presence using multiple independent and dependent variables. — related
+- [Students in higher SRL profiles perceive significantly higher teaching, social, and cognitive presence than students in lower SRL profiles](higher-srl-profiles-higher-coi-perceptions.md) — related
+- [SRL sub-constructs correlate substantially with all three CoI presences, and a seven-factor OSLQ model fits better than the original six-factor model](srl-coi-correlations-seven-factor-oslq.md) — related

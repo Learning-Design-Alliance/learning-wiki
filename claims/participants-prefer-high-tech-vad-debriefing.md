@@ -51,3 +51,4 @@ Qualitative focus group interviews after three one-day simulation trainings in t
 - [All interviewed facilitators preferred video-assisted debriefing over verbal debriefing because video allowed precise, objective feedback whose credibility was not restricted by facilitator hierarchy](facilitators-prefer-vad-objective-feedback.md) — related
 - [Video evidence in VAD increased participants' acceptance of feedback and its credibility, reducing disputes over whether critical observations were correct](video-evidence-increases-feedback-acceptance.md) — related
 - [Participants reported preferring learning from videos over learning from digital texts](students-prefer-learning-from-videos.md) — related
+- [Equipment and display choices affect educational TV quality: black-on-white for fine-line charts, lapel microphone, two cameras, and a 16-inch minimum screen for 20 viewers](educational-tv-equipment-display-conclusions.md) — related

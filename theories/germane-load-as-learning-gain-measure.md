@@ -17,7 +17,7 @@ sources:
 # Germane load operationalized as learning effects measured by test-score increases
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 11 claims (4 for, 4 mixed, 3 against) · 11 studies (5 causal, 5 design, 1 quant-synthesis), `q2`–`q3` · 4 of 11 report an effect size · 11 claims rest on one study
+> **Evidence** · 12 claims (4 for, 5 mixed, 3 against) · 12 studies (6 causal, 5 design, 1 quant-synthesis), `q2`–`q3` · 4 of 12 report an effect size · 12 claims rest on one study
 
 ## Description
 The article operationalizes germane load as learning effects: the portion of working memory resources devoted to schema construction during a learning phase, whose behavioral signature is improvement on post-test problems. As the article states, "germane load assigned in the learning phase was evaluated based on the increase of the test scores." This measurement approach treats pre- to post-test gains as the index of germane load, and the article uses it to distinguish two types of germane load related to intrinsic load.
@@ -49,6 +49,7 @@ The article operationalizes germane load as learning effects: the portion of wor
 - [A declarative task placed early in training is associated with a small, transient reduction in post-rest gain (Experiment 3), with only weak statistical support](../claims/early-declarative-task-transient-impairment-experiment-3.md) [~W]
 - [Students' PHP test scores increased significantly from pre-test to post-test (p < 0.001)](../claims/php-its-significant-learning-gains.md) [+W]
 - [A significant main effect of time indicated overall higher post-test than pre-test scores](../claims/moves-nl-time-main-effect.md) [+W]
+- [Every group of students learned from each film, with highly significant pre-test to post-test differences regardless of number of showings](../claims/every-group-learned-significantly-from-each-film.md) [~W]
 
 ## Related Theories
 - 

@@ -61,3 +61,4 @@ Model evaluation using a modified k-fold cross-validation training on nine cours
 - [The ensemble learner attains the highest classification accuracy and AUC for predicting a non-repeatable grade (C or better)](ensemble-highest-classification-nonrepeatable-grade.md) — reports the opposite
 - [A CatBoost classifier using only pre-enrollment achievement measures predicts dropout with an AUC of 0.774 and average precision of 0.847 on a held-out 2017 cohort.](catboost-preenrollment-dropout-prediction-auc-0774.md) — related
 - [CatBoost is the best-performing algorithm for predicting programme non-completion, with F1-measure of 94.5±0.6, slightly better than Random Forest](catboost-best-f1-programme-completion.md) — related
+- [A Random Forest Classifier embedded in the MLADs achieved an F1-score of 0.82 and AUC of 0.89 for course-completion-risk alerts under five-fold cross-validation](random-forest-early-alert-f1-082-auc-089.md) — reports the opposite

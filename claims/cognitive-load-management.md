@@ -103,3 +103,5 @@ Open questions include how to measure load reliably in real classrooms (subjecti
 - [Properly segmented text facilitates decoding, encoding, and retrieval better than poorly segmented text](segmentation-idea-units-improve-learning.md) — a narrower finding that bears on this claim
 - [Related prior knowledge is the single most powerful influence mediating subsequent learning, so multimedia should layer information by complexity](prior-knowledge-most-powerful-influence-multimedia-layering.md) — related
 - [Current cognitive load measures cannot detect overload because the critical level indicating overload is unknown](load-measures-cannot-detect-overload.md) — related
+- [Learner control over pace improves learning while control over pedagogical aspects undermines it, with prior-knowledge and outcome-type moderators](learner-control-pace-versus-pedagogical.md) — related
+- [Segmenting online multimedia lessons into short user-paced segments improves transfer and reduces cognitive load](segmenting-improves-transfer-and-reduces-load.md) — a narrower finding that bears on this claim

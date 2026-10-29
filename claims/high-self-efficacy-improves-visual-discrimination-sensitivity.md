@@ -47,3 +47,4 @@ Lab experiment with 118 participants assigned to high, low or control self-effic
 - [Fake social-comparative feedback combined with fictional malleability information successfully induces large changes in self-efficacy beliefs](fake-feedback-induces-self-efficacy-changes.md) — related
 - [Mixed-design ANOVAs reveal significant group-by-time interactions on visual discrimination sensitivity in both tasks](se-group-time-interaction-vds.md) — related
 - [Changes in self-efficacy correlate with changes in visual discrimination sensitivity after regressing out objective ability and baseline self-efficacy](self-efficacy-change-correlates-vds-change.md) — related
+- [The simulation increased teacher candidates' confidence and self-efficacy for addressing sensitive topics, but did not alleviate concerns about parent and administrator backlash](simulation-confidence-gain-persistent-backlash-concerns.md) — related

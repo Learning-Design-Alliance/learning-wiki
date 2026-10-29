@@ -68,3 +68,4 @@ Participant quote from the rethinking-normal theme in the qualitative data. Teac
 - [During emergency remote teaching, teachers' professional learning was opportunistic rather than planned, with no clear duration](ert-learning-opportunistic-unplanned.md) — related
 - [Four themes for better preparing teachers for future emergencies: professional development, technology access, technology training for teachers and students, and action plans with communication](prepare-teachers-future-emergencies-four-themes.md) — related
 - [During early COVID-19, surveyed K-12 teachers most often used video lectures and reading materials (65.4% each), with 45% describing their approach as learner-centered](k12-online-strategies-tools-covid-survey.md) — related
+- [Uncertainty can be a productive condition for learning when engaged intentionally, per the reviewed scholarship](productive-uncertainty-supports-learning.md) — related

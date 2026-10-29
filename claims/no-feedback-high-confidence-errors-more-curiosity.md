@@ -81,3 +81,4 @@ Experiment 4, 98 online adults randomly assigned to curiosity or subjective-unce
 - [Partial resolution of curiosity through immediate feedback increases subsequent curiosity](immediate-feedback-partial-resolution-increases-curiosity.md) — related
 - [Curiosity predicted knowledge exploration after both correct and incorrect answers, while surprise predicted exploration only after incorrect answers](curiosity-drives-exploration-regardless-of-accuracy.md) — related
 - [Making high-confidence errors about educational misconceptions intensifies preservice teachers' surprise, curiosity, confusion, and achievement-related anger](high-confidence-errors-intensify-epistemic-emotions-and-anger.md) — related
+- [POED diagnostic feedback led students to read supplementary materials after incorrect answers and then answer correctly, while POEE students repeated errors](poed-diagnostic-feedback-drives-supplementary-material-use.md) — related

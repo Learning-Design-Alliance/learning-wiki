@@ -54,3 +54,4 @@ Teachers' perceived workload was measured with the raw NASA-TLX (0–10 per subs
 - [AI-supported co-produced feedback achieved comparable quality and statistically significant learning gains with reduced production time and workload](coproduced-feedback-comparable-quality-gains.md) — reports the opposite
 - [With the alerting & guiding dashboard, teachers' workload dropped most on the performance and frustration subscales, while cognitive load, temporal demand and effort differences were non-significant](guiding-dashboard-performance-frustration-subscales-drop.md) — reports the opposite
 - [Subjective cognitive workload decreases across teleoperation training and lower workload is associated with higher performance](workload-decreases-with-teleoperation-skill.md) — related
+- [Designer workload across an 11-module instructional design model for product development averaged normal-to-high (50–75%)](nasa-tlx-normal-high-workload-design-process.md) — related

@@ -52,3 +52,6 @@ Mann–Whitney U test comparing standardised trace-based SRL proxy scores (Ye & 
 - [A daily learning diary alone (Group D) did not produce statistically significant pre-post gains on any measured outcome in an online mathematics preparation course](learning-diary-alone-no-significant-srl-gains-online-math-prep-course.md) — a broader claim this one bears on
 - [Self-regulated learning interventions have a moderate effect (0.65) on learning outcomes in online and blended environments](srl-interventions-moderate-effect-online-blended.md) — a broader claim this one bears on
 - [Post-experimental questionnaire ratings favoured MT-ITS numerically but the differences between conditions were not significant](mt-its-questionnaire-ratings-not-significant.md) — related
+- [LA-driven GenAI feedback was significantly more readable than tutor feedback in an online statistics course](genai-feedback-more-readable-than-tutor.md) — related
+- [GenAI feedback aligned more reliably with LA-based ground-truth SRL data than tutor feedback](genai-feedback-reliability-vs-la-ground-truth.md) — related
+- [No significant feedback-source differences were observed among high-SRL cluster students](no-genai-tutor-difference-high-srl-cluster.md) — related

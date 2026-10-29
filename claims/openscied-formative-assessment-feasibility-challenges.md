@@ -75,3 +75,4 @@ Focus group vignette in which teachers described difficulty fitting OpenSciEd wo
 - [Teachers report ChatGPT-generated math questions misalign with grade level and topic, are unreliable or unanswerable, and cost time](chatgpt-brainstorming-concerns-misalignment-reliability.md) — related
 - [Manual content analysis of reflective writing is time-consuming, constraining pedagogical use and large-scale research](manual-reflection-analysis-costly-constrains-use.md) — a narrower finding that bears on this claim
 - [A needs assessment with 14 teachers yielded eight main design issues for the BE COOL! learning environment, from curriculum fit to teacher monitoring and a teacher manual](teacher-needs-assessment-eight-issues.md) — related
+- [The main challenge of Wikipedia assignments is the MediaWiki learning curve, making them time-consuming](wikipedia-assignment-mediawiki-learning-curve-challenge.md) — a narrower finding that bears on this claim

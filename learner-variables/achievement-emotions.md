@@ -13,7 +13,7 @@ generated:
 # Achievement Emotions
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 181 claims (115 show a difference, 49 mixed, 17 no difference) · 107 studies (39 associational, 29 causal, 13 review, 10 qualitative, 10 theoretical, 6 design), `q1`–`q4` · 26 of 107 report an effect size · 178 claims rest on one study
+> **Evidence** · 183 claims (117 show a difference, 49 mixed, 17 no difference) · 108 studies (39 associational, 29 causal, 13 review, 10 qualitative, 10 theoretical, 7 design), `q1`–`q4` · 26 of 108 report an effect size · 180 claims rest on one study
 
 ## Description
 Achievement emotions are the emotions learners feel about learning activities (enjoyment, boredom, frustration) and about their outcomes (pride, shame, hope, hopelessness). In control-value theory they arise from how much control a learner feels over an activity and how much they value it. Positive activating emotions such as enjoyment go with engagement and achievement, deactivating ones such as boredom with disengagement, and the relationship runs both ways. Anxiety is an achievement emotion with its own page, [academic anxiety](academic-anxiety.md); enjoyment overlaps with [interest](interest.md).
@@ -216,6 +216,8 @@ Achievement emotions are the emotions learners feel about learning activities (e
 - [Medical students' positive emotions correlate with better diagnostic performance in a computer-based learning environment](../claims/positive-emotions-correlate-diagnostic-performance-medical-students.md) [+M] — learners who differ on it differ in outcomes
 - [Positive emotions are associated with higher academic performance while negative emotions are associated with poorer performance](../claims/positive-emotions-associated-with-higher-performance.md) [+M] — learners who differ on it differ in outcomes
 - [User testing showed free-form note-taking frustrated users, prompting a redesign to drag-and-drop scaffolding that reduced frustration and improved engagement](../claims/drag-and-drop-notebook-scaffolding-redesign.md) [+W] — instruction changes it
+- [Frustration during the design process was related to unexpected events, with more unexpected events yielding greater frustration and worse perceived performance](../claims/frustration-related-to-unexpected-design-events.md) [+M] — instruction changes it
+- [NASA-TLX dimensions varied systematically by design phase: frustration and mental demand were highest in initial modules and mental demand low during manufacturing](../claims/nasa-tlx-dimensions-vary-by-design-phase.md) [+M] — instruction changes it
 
 ## Related Learner Variables
 

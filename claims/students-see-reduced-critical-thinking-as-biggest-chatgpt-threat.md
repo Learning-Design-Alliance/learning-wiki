@@ -54,3 +54,4 @@ Descriptive result from Question 8 of the questionnaire with 430 MSc computer sc
 - [A majority of surveyed MSc computer science students had never used ChatGPT for academic purposes](msc-cs-students-rarely-use-chatgpt-academically.md) — related
 - [Most students favour allowing ChatGPT in assessments if tasks require original thinking or guidance is provided](students-favor-guided-chatgpt-allowed-assessments.md) — related
 - [Students strongly oppose allowing AI chatbots to complete entire assignments, with 82.73% saying it should never be allowed, while supporting AI for concept explanation and brainstorming](students-oppose-ai-complete-entire-assignments.md) — related
+- [AI programming tools are fundamentally changing the concept of plagiarism in Computer Science and shifting teaching toward computational thinking and theory](ai-code-generators-shift-cs-teaching.md) — related

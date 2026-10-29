@@ -103,3 +103,4 @@ The review reports, citing Barus et al. (2025), that the policy and training vac
 - [Journal analysis shows heavy GenAI reliance in secondary research and transcription but student autonomy in planning and interpretation of primary research](journals-secondary-research-heavy-genai-primary-autonomy.md) — related
 - [Factor 2 student teachers enacted balanced, intentional and ethical engagement with Cipherbot through self-directed strategies](f2-balanced-intentional-ethical-engagement.md) — a narrower finding that bears on this claim
 - [Graduate students reported maintaining or gaining a sense of agency when working with a GenAI research assistant](genai-use-preserves-or-strengthens-student-agency.md) — related
+- [Adult learners view building an ethical learner-AI relationship, with baked-in AI ethics norms, as important for socio-emotional interaction](ethical-learner-ai-relationship-socio-emotional.md) — related

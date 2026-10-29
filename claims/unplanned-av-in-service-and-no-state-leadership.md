@@ -50,3 +50,4 @@ Interview findings from the 15 Wisconsin vocational and adult schools: in-servic
 - [Audio-visual coordinators in the surveyed schools lacked sufficient time and no organized procedures existed for previewing, evaluating, and selecting materials](av-coordinators-insufficient-time-no-selection-procedures.md) — related
 - [The surveyed schools had no materials purchase policies, no long-range equipment planning, and budgets not based on planned needs of frequency-of-use and amortization](no-av-purchase-policies-or-long-range-planning.md) — related
 - [Early research on audio-visual materials in teacher training was repeated in 1958 and 1968, providing a 30-year view](thirty-year-view-audio-visual-teacher-training.md) — related
+- [College music educators made the most extensive use of audio-visual materials while college music specialists made the least, and every group reported difficulty finding suitable material](music-av-use-group-differences.md) — related

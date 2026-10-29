@@ -54,6 +54,7 @@ Based on the tension between system efficiency and regulatory engagement, the ar
 - [Pair agent-based tools with instructor-provided cognitive scaffolding to bridge the gap between efficient retrieval and higher-order cognition](scaffold-agents-toward-higher-order.md)
 - [Place GenAI entry after the learner's initial task attempt rather than before it](genai-entry-after-attempt-in-srl-cycle.md)
 - [Calibrate AI writing support by providing contextual feedback, dialogic scaffolding, and initiative matched to learner needs and task complexity](calibrate-agent-initiative-to-learner-needs.md)
+- [Seven-question scaffold with AI problem solving, game-based learning, and systems thinking to support proactive decision making](seven-question-scaffold-proactive-decision-pedagogies.md)
 
 ## Examples
 -

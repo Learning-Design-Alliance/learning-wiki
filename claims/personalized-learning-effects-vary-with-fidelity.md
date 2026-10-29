@@ -103,3 +103,4 @@ RAND matched students in NGLC schools implementing PL practices (adaptive softwa
 - [Personalization and differentiated instruction are rare in blended learning designs](personalization-limited-blended-designs.md) — related
 - [Technology-supported adaptive teaching units showed significant learning gains, larger for low-prior-knowledge students and high implementation fidelity](adaptive-teaching-units-learning-gains-moderated.md) — related
 - [Included reports are methodologically robust overall but weak on implementation fidelity, which was assessed in only about half of the programs](asp-reviews-fidelity-weakness.md) — related
+- [Adult learners value personalized mastery-based learning in AI-powered curricula, while some caution it can reduce exposure to new or unexpected content](personalized-mastery-based-learning-adult-ai.md) — related

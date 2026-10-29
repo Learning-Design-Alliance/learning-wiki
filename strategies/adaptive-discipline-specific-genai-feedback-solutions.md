@@ -40,6 +40,7 @@ The article's forward-looking design recommendation is that future GenAI feedbac
 
 - [Share discipline-specific GenAI examples aligned with instructional needs to improve teacher adoption](discipline-specific-genai-examples-strategy.md)
 - [Tailor institutional GenAI training to teachers' prior GenAI use experience](experience-tailored-genai-teacher-training.md)
+- [Account for personal factors such as preferences and learning styles when developing adaptive educational computer games](personal-factors-adaptive-game-design.md)
 
 ## Examples
 -

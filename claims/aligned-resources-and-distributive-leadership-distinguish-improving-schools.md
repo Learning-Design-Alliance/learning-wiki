@@ -62,3 +62,4 @@ Longitudinal field research on 12 Annenberg schools over five years. The report 
 - [Organizational-level support targeted four areas: coordination and leadership, professional norms, monitoring of instruction and learning, and resources](organizational-support-four-target-areas.md) — related
 - [Strong leadership is central to rapid school improvement, per the article's summary of research](leadership-central-rapid-school-improvement.md) — a broader claim this one bears on
 - [Transition Leaders play a central role in coordinating collaboration between schools and stakeholders, but their effectiveness depends on sufficient flexibility and resources](transition-leaders-coordinate-collaboration.md) — related
+- [United States case: a grassroots network sustained and scaled active-learning innovations through leadership and networks rather than research, but remained at second-order change](remake-learning-network-scaled-without-research.md) — related

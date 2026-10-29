@@ -50,3 +50,4 @@ Narrative review of animation research (citing Ayres and Paas 2007; Höffler and
 - [Animations often do not produce more effective learning than static visualizations, partly because their transience creates high working memory load](animations-transience-working-memory-load.md) — possibly the same claim (merge candidate)
 - [The transient information effect states that learning from transient presentations leads to inferior learning compared to permanent presentations](transient-information-effect-definition.md) — a broader claim this one bears on
 - [Animations can be superior to static graphics for learning tasks involving human motor movement](human-movement-effect-animations-motor-tasks.md) — related
+- [Animation outperforms static pictures for learning about a biological process with spoken narration](animation-outperforms-static-pictures-photosynthesis.md) — related

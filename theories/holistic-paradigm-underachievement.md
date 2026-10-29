@@ -45,7 +45,8 @@ The review proposes the Holistic paradigm as a third approach that, despite diff
 - [Deficit paradigm: minority underachievement explained by deficits the child brings to school](deficit-paradigm-minority-underachievement.md)
 
 ## Examples
--
+
+- [Operationalise the topologies through a multi-paradigm, mixed-methods enquiry strategy](../strategies/multiparadigm-mixed-methods-topology-strategy.md)
 
 ## Key Sources
 - Vilma Mesa. (1998). A Review of Literature on Under Achievement of Minorities in Mathematics. Paper presented at the Annual Meeting of the American Educational Research Association, San Diego, CA. https://eric.ed.gov/?id=ED428113

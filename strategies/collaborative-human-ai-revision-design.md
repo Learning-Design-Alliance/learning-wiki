@@ -50,6 +50,7 @@ The article proposes a "Collaborative Human-AI Revision Design" that systematica
 - [Design AI writing support to reduce ownership loss: fade AI interactions over time, generate incomplete text requiring rewriting, and make the chatbox editable](fade-incomplete-editable-ai-writing-support.md)
 - [Provide timely automated feedback through an AI chatbot during EFL writing practice](ai-chatbot-feedback-writing-courses.md)
 - [Teach genAI operations, prompt engineering, failure modes, and supervised overreliance before graded genAI-assisted writing](genai-writing-instruction-before-use-strategy.md)
+- [Use AI tools to support assessment, feedback and monitoring of learner progress](ai-supported-assessment-and-feedback-strategies.md)
 
 ## Examples
 -

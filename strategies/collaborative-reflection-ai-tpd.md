@@ -44,6 +44,7 @@ The article recommends that AI should not serve as a shortcut for training but r
 - [Teacher AI professional development should pair readiness-building with structured engagement with attribution and pedagogy](pd-pairs-readiness-with-attribution-engagement.md)
 - [Shift teacher professional development from information-based training to experience-based AI design activities in sustainability contexts](experience-based-ai-design-teacher-pd.md)
 - [Embed AI training for pre-service science teachers within science pedagogy and inquiry-based teaching rather than general tool operation](embed-ai-training-within-science-pedagogy-inquiry-teaching.md)
+- [Adapt Higher Education professional learning models to centre disciplinary culture when developing teachers' digital and pedagogical capabilities](he-professional-learning-centre-disciplinary-culture.md)
 
 ## Examples
 -

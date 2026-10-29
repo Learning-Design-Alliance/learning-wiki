@@ -107,3 +107,4 @@ This paper synthesizes meta-analytic evidence on learning strategies into a mode
 - [Answering inserted adjunct questions with the text available produces higher delayed transfer learning than answering post-reading questions](inserted-adjunct-questions-better-learning-than-post-reading.md) — related
 - [Prior-knowledge activation instructions before study had little effect on retention in Experiment 2](prior-knowledge-activation-little-effect-on-retention.md) — related
 - [Higher-level quiz questions engage learners in generative activities as well as retrieval](higher-level-quiz-questions-engage-generative-activities.md) — related
+- [Self-explanation prompts placed before instruction are more effective than those embedded during or placed after instruction](self-explanation-prompts-before-instruction-most-effective.md) — related

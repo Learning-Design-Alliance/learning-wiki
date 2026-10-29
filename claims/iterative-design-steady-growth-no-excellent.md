@@ -75,3 +75,4 @@ Descriptive analysis of the same five groups' scored plans across all rounds: de
 - [Problem decomposition, artifact creation, data practices, and testing/debugging appear in all 28 reviewed CT manuscripts, while iterative refinement appears in 17](ct-aspect-coverage-across-ct-literature.md) — related
 - [Claremont residents develop lesson planning skill through 5 weeks of iterative revision with instructor feedback before clinical placements](iterative-lesson-planning-before-clinical-placement.md) — related
 - [Teachers' SRL&T module scores improved modestly over the year, with Adam improving more (three to six points) than Ben (five to six)](srlt-module-scores-improvement-adam-ben.md) — related
+- [Netherlands case: design-based TPACK interventions improved student teachers' TPACK and were sustained, but scaling was delayed by leadership decision structures](netherlands-tpack-interventions-sustained-scaling-delayed.md) — related

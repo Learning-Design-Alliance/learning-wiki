@@ -172,6 +172,7 @@ Claims this page cited before it was rewritten, and neighbouring claims found wh
 - **Home-study planning routine**: Learners identify when and where they can create the most stable study conditions outside class.
 - Learner variable: [Attention](../learner-variables/attention.md) — the learner characteristic this page's claims link into.
 - [Add explicit study-skills instruction and dedicated quiet study spaces to prison college programs](../strategies/study-skills-and-study-space-support-prison-programs.md)
+- [Implement a multi-faceted approach to mitigating digital distraction rather than relying on device bans alone](../strategies/multi-faceted-digital-distraction-mitigation.md)
 
 ## Key Sources
 - Cunningham, H. V., & Tabur, S. (2012). Learning space attributes: Reflections on academic library design and its use. *Journal of Learning Spaces, 1*(2). [https://libjournal.uncg.edu/jls/article/view/280](https://libjournal.uncg.edu/jls/article/view/280)

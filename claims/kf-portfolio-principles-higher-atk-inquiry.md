@@ -52,3 +52,4 @@ MANCOVA on Analytic Toolkit database participation indices across three Knowledg
 - [Knowledge-building portfolio scores correlated with database participation, explanation quality, and conceptual understanding](portfolio-scores-correlate-participation-understanding.md) — related
 - [The portfolio-principles class scored higher on weighted depth of inquiry than both other Knowledge Forum classes](portfolio-principles-higher-depth-of-inquiry.md) — related
 - [The portfolio-principles class produced more high-level explanations and deeper explanations than the other two Knowledge Forum classes](portfolio-principles-deeper-explanations.md) — related
+- [Seven domains of alignment are needed for successful use of the Knowledge Building Model and Knowledge Forum](seven-domains-knowledge-building-alignment.md) — related

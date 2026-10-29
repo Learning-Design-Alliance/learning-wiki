@@ -25,7 +25,7 @@ sources:
 # Multimedia Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 98 claims (42 for, 54 mixed, 2 against) · 74 studies (43 causal, 11 review, 10 quant-synthesis, 4 theoretical, 2 associational, 2 qualitative, 2 design), `q1`–`q4` · 18 of 74 report an effect size · 89 claims rest on one study
+> **Evidence** · 99 claims (42 for, 55 mixed, 2 against) · 75 studies (44 causal, 11 review, 10 quant-synthesis, 4 theoretical, 2 associational, 2 qualitative, 2 design), `q1`–`q4` · 19 of 75 report an effect size · 90 claims rest on one study
 
 ## Description and scope
 
@@ -163,11 +163,13 @@ This pattern is scoped to explanations of structures, processes and relations pr
 - [Silent filmstrips produced significantly higher mean gains than sound motion pictures, so sound and motion were not essential for maximum learning.](../claims/filmstrips-significantly-higher-gains-than-sound-motion-pictures.md) [~W]
 - [Narration combined with drama or explanatory film was the most effective TV teaching method; drama alone was not very effective](../claims/narration-with-drama-or-film-best-tv-method.md) [+W]
 - [Pictures of an object or act aid foreign vocabulary learning when the criterion is writing the words](../claims/pictures-aid-foreign-vocabulary-learning.md) [+W]
+- [Visual cognitive style, pacing, and visualization interact: highly developed visualizers learn poorer with self-paced static pictures than with system-paced static pictures](../claims/triple-interaction-visual-style-pacing-visualization.md) [~W]
 
 ## Examples
 
 - [Illustrated mitosis learning material (11 pages, 1113 words) with EMME videos demonstrating multimedia processing strategies](../designs/mitosis-illustrated-text-emme-material.md)
 - [SOL-aligned multimedia lesson sequence for emergent bilinguals: key terms with images first, then short signaled sentences](../designs/sol-multimedia-lesson-sequence-eb.md): one setting's design applying pretraining, coherence, contiguity and signaling.
+- [Build online multimedia lessons with slide-sharing, survey, and video-sharing tools in a three-stage workflow](../strategies/common-tools-ctml-lesson-workflow.md)
 
 ## Related Patterns
 

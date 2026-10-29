@@ -78,3 +78,4 @@ Qualitative analysis of fall 2023 interviews with 36 district leaders, school le
 - [Implementation of co-regulation strategies was shaped by classroom context, facilitator experience and mindset, and varied in ease across strategies](co-regulation-implementation-factors-context-experience-strategy-ease.md) — related
 - [Transition Leaders play a central role in coordinating collaboration between schools and stakeholders, but their effectiveness depends on sufficient flexibility and resources](transition-leaders-coordinate-collaboration.md) — related
 - [Educators face challenges at the student level, teacher level, and institutional level](makerspace-three-level-challenges.md) — related
+- [Organisational readiness for adaptive learning is a multi-faceted construct operationalised through technological, individual, and leadership readiness](organisational-readiness-three-facets.md) — related

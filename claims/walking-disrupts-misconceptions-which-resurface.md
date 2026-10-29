@@ -69,3 +69,4 @@ Episode 1 case analysis: three students who treated zero as a placeholder on the
 - [Students' errors on the desk-scale number line cluster on subtracting a negative number, with fewer errors on subtracting a positive from a negative or adding a negative to a positive](snl-errors-subtracting-negative.md) — related
 - [After a lesson series, two sixth graders could switch flexibly between perspectives when comparing negative integers; one distinguished number-line order from context-based absolute-value reasoning about debts](post-lesson-flexible-perspective-switching.md) — reports the opposite
 - [Returning to direct somatic experience can re-vision thinking and change perception (attributed to Reason)](somatic-return-revisions-thinking.md) — a broader claim this one bears on
+- [Students who could solve basic shape problems still showed misconceptions on composite shape problems mid-intervention](composite-shape-misconceptions-persist-mid-intervention.md) — related

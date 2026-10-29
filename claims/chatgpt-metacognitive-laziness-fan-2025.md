@@ -82,3 +82,4 @@ A conceptual framework paper (a five-stage AI-literacy continuum, with a design-
 - [Metacognitive analysis activities were positively associated with transfer, but metacognitive activities showed no association with essay quality](metacognitive-analysis-transfer-association.md) — related
 - [Interviews show students used scores to trigger action but reflected shallowly, derived planning from previous scores, and diverged emotionally](interviews-shallow-reflection-score-derived-planning.md) — related
 - [AI over-reliance can produce inversion effects, reducing cognitive processing depth and learning outcomes](ai-inversion-effects-overreliance-reduce-learning.md) — possibly the same claim (merge candidate)
+- [Adult learners identify metacognition and crafting diverse, high-quality questions at different cognitive levels as crucial supports for learner-AI cognitive interaction](metacognition-question-crafting-ai-cognitive-interaction.md) — related

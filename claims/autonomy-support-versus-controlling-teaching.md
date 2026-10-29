@@ -75,3 +75,4 @@ The article attributes, citing Reeve, the research finding that controlled stude
 - [Dependent versus autonomous cognitive offloading to GenAI shows opposite motivational and cognitive outcome patterns](dependent-autonomous-offloading-genai.md) — a narrower finding that bears on this claim
 - [Expected tangible rewards reduce later free-choice engagement with a rewarded task, while verbal praise does not](rewards-undermine-intrinsic-motivation.md) — related
 - [Teachers who facilitate both autonomy and structure report motivation to teach and felt teaching effectiveness](teacher-outcomes-autonomy-structure.md) — related
+- [Design for learning works indirectly: designed tasks are resources for activity, not determinants of it](design-works-indirectly-tasks-are-resources.md) — related

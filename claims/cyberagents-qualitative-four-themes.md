@@ -55,3 +55,4 @@ Qualitative thematic analysis of open-ended post-study survey responses from the
 - [Trust in customized agents was associated with clear, accurate, and contextually aligned feedback](trust-customized-agents-accuracy-contextual-alignment.md) — related
 - [EFL learners perceive AI-mediated instruction as engaging, personalized, anxiety-reducing, and empowering for autonomous learning](learner-perceptions-ai-engagement-personalization.md) — related
 - [Open-ended student feedback highlighted relevance and conciseness as benefits of personalized AI videos, alongside concerns about unnaturalness, uncanny-valley discomfort, and trust](student-feedback-benefits-and-concerns-ai-videos.md) — related
+- [Adult learners prefer scenario-based, unobtrusive gamified, and competency-based assessment in AI-powered learning](adult-learners-ai-assessment-preferences.md) — a broader claim this one bears on

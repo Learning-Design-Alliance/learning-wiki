@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: weak
 newest_evidence: 2021
+source_checked: 2026-10-29
 sources:
   - id: meier-2021
     resource: "https://doi.org/10.1007/s11423-020-09880-4"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2021 · checked against its sources 2026-10-29 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` A more holistic approach is required that repositions online learning as a knowledge-building environment to realize the full potential of the heuristic. [→ Meier 2021](#meier-2021)
@@ -49,3 +50,4 @@ Theoretical argument reviewing Nacu et al.'s heuristic from a theory-of-change p
 - [Nacu, Martin, and Pinkard's heuristic method addresses the questions educators faced during the COVID-19 school closures](nacu-heuristic-method-covid-relevance.md) — related
 - [Nacu et al.'s heuristic method for enabling educator learning-support roles can be utilized during the COVID-19 pandemic](heuristic-method-learner-support-pandemic-use.md) — related
 - [Educator learner-support roles in online education should be fulfilled from a contextual perspective, following Nacu et al.'s (2018) guidelines](learner-support-roles-contextual-perspective.md) — related
+- [Nussbaum and colleagues argue critical thinking and creativity, intersected with grit, are central 21st-century components in online learning design](critical-thinking-creativity-grit-online-design.md) — related

@@ -47,3 +47,4 @@ Theoretical argument in the abstract, citing Hawkridge (1995) on the Big Bang in
 ## Related Claims
 - [The Big Bang electronic transformation in distance education ultimately worked](big-bang-transformation-worked.md) — related
 - [Nacu, Martin, and Pinkard's heuristic method addresses the questions educators faced during the COVID-19 school closures](nacu-heuristic-method-covid-relevance.md) — related
+- [Assaf argues the pandemic shift to digital is a mindset shift, not only a technology shift, modeled via an instructional interface analogy](digital-shift-mindset-not-only-technology.md) — possibly the same claim (merge candidate)

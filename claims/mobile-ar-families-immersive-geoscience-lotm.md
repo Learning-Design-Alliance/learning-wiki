@@ -54,3 +54,4 @@ The introduction's summary of the Zimmerman, Land, Faimon, and Chiu study of fam
 - [Mobile apps increased timely, direct communication between parents and educators during remote schooling](mobile-apps-timely-parent-teacher-communication.md) — related
 - [Teachers adopted varying levels and strategies of guidance during reflective dialogues about VR experiences, which shaped students' meaning making](teacher-guidance-varied-in-vr-reflections.md) — related
 - [Virtual and in-person parent-to-parent forums deepened caregivers' sense of community and support](parent-to-parent-forums-community-support.md) — related
+- [Instructor questioning combined with the AR app's virtual rows and columns supported students' shift to multiplicative reasoning](social-technological-scaffolding-synergy-area-reasoning.md) — related

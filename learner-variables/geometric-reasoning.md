@@ -13,7 +13,7 @@ generated:
 # Geometric Reasoning
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 23 claims (15 show a difference, 6 mixed, 2 no difference) · 16 studies (6 causal, 5 qualitative, 2 associational, 1 quant-synthesis, 1 review, 1 theoretical), `q1`–`q3` · 3 of 16 report an effect size · 23 claims rest on one study
+> **Evidence** · 24 claims (16 show a difference, 6 mixed, 2 no difference) · 17 studies (6 causal, 5 qualitative, 2 associational, 2 theoretical, 1 quant-synthesis, 1 review), `q1`–`q3` · 3 of 17 report an effect size · 24 claims rest on one study
 
 ## Description
 Geometric reasoning is the abstract thinking used to define shapes, analyse their properties and relationships, and argue about them; in the secondary grades it extends to formalising those arguments as written proofs. The Learner Variability Navigator notes that geometric knowledge gives concrete representations and models for abstract mathematical ideas, which can serve as an entry point to higher-order mathematical thinking. It is assessed with short geometry tasks that ask learners to explain their reasoning in writing or diagrams, which also reveal misconceptions, and with the geometry subtests of diagnostic batteries.
@@ -60,6 +60,7 @@ LVN follows it from grade 3 to grade 10. It is distinct from, but draws on, [spa
 - [The learning–generalization dissociation from target geometry persists when training-to-probe distance is equated across groups (Experiment 2), though the effects are smaller](../claims/target-geometry-dissociation-distance-equated-exp2.md) [~W] — learners who differ on it differ in outcomes
 - [Hints benefit local within-tutor learning only when students have a medium level of skill](../claims/hints-beneficial-at-medium-skill-level.md) [~W] — an instructional effect differs with it
 - [Early introduction of a scientific video appeared to constrain students' representations, which they applied without adjusting for new contexts](../claims/early-scientific-video-constrained-representations.md) [+W] — instruction changes it
+- [In the motion capture game The Hidden Village, pose creation spurred gesturally embodied argumentation expressed more in gesture than in precise mathematical speech](../claims/thv-gesturally-embodied-argumentation.md) [+M] — instruction changes it
 
 ## Measures
 - **Geometry Tasks with Explanation** (e.g., Carroll, 1998): Short geometry tasks that elicit reasoning and argumentation through writing, diagrams, and other representations can be used to assess students' understanding and misconceptions of basic geometric properties while giving insight into students' thinking.

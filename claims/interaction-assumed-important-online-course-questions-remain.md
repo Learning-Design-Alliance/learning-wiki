@@ -48,3 +48,4 @@ The article's framing statement about the state of the research literature: it r
 - [Online college courses are a rapidly expanding feature of higher education, with little prior research on their relative effects](online-courses-expanding-little-research.md) — related
 - [No research yet addresses the three-way interaction of learner aptitudes, characteristics of the target forms, and practice modalities](no-research-aptitude-form-practice-interaction.md) — related
 - [Coaching is more effective when it is job-embedded with frequent face-to-face interaction between coach and teacher](job-embedded-coaching-active-learning.md) — related
+- [Dhingra highlights the relationship between online platform features and learning strategies and goals, from an inclusion perspective](platform-features-learning-strategies-inclusion.md) — a narrower finding that bears on this claim

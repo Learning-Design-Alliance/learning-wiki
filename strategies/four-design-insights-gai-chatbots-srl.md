@@ -44,6 +44,7 @@ From the three-year DBR process, the authors distill four insights for designing
 ## Related Strategies
 
 - [Integrate diverse feedback types into educational chatbots, matched to instructional goals](match-chatbot-feedback-type-to-learning-goal.md)
+- [Support self-reflection through scaffolding, explicit instruction, simplified language, customization, and gamification](scaffold-self-reflection-makerspace-self-assessment.md)
 
 ## Examples
 -

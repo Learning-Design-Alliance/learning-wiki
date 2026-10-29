@@ -51,3 +51,4 @@ The review reports Singer and Goldin-Meadow's experiment on mathematical equival
 - [On-screen text that duplicates the narration of a diagram can hurt learning, but spoken–written redundancy is not harmful on average and helps over spoken-only presentation in some conditions](redundancy-hurts-learning.md) — related
 - [Enacting support—gestures and manipulatives—facilitates explanation quality and problem-solving, partly by adding strategies to verbal explanations](enacting-support-facilitates-explaining.md) — related
 - [Embodied action can harm learning when it adds motor demands, redundant cues, or irrelevant activity without improving understanding](action-hurts-when-adding-motor-demands.md) — related
+- [In the motion capture game The Hidden Village, pose creation spurred gesturally embodied argumentation expressed more in gesture than in precise mathematical speech](thv-gesturally-embodied-argumentation.md) — related

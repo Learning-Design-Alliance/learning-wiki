@@ -50,3 +50,4 @@ Reliability analysis treating instructor polarity labels as ground truth and com
 - [A human assessor agreed with the majority of GPT-generated feedback comments on assessment aspects that instructors had not commented on](human-assessor-agrees-with-gpt-feedback-on-uncommented-aspects.md) — related
 - [Human-LLM agreement remains low across constructs (κ = 0.000 to 0.419), with self-efficacy showing the best alignment and Prior KSAs none](human-llm-agreement-low-construct-varying.md) — related
 - [AI assessors show emerging reliability: acceptable AI-human rater agreement (Cohen's 0.78) in a 12-educator case study and human-comparable feedback helpfulness ratings with 45 learners](agentic-assessment-rater-agreement-and-helpfulness.md) — related
+- [GenAI feedback aligned more reliably with LA-based ground-truth SRL data than tutor feedback](genai-feedback-reliability-vs-la-ground-truth.md) — related

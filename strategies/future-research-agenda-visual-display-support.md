@@ -44,7 +44,8 @@ The review closes by outlining "fruitful lines of further research" with three s
 - [Learning from visual displays often yields disappointing outcomes because displays pose substantial demands on learners](../claims/visual-displays-pose-demands-disappointing-outcomes.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Research strategy: investigate how learning from visual perception becomes available to the learner during subsequent performance](research-how-visual-perception-becomes-available-for-performance.md)
 
 ## Examples
 -

@@ -54,3 +54,4 @@ Mixed-effect regression with Bonferroni post hoc correction across 160 adolescen
 - [Higher cardiorespiratory fitness is associated with faster reaction times for stimuli following valid cues in healthy male high-school students](vo2max-associated-faster-rt-valid-cue.md) — related
 - [With increasing n-back task difficulty, reaction times increase and accuracy decreases](nback-difficulty-increases-rt-decreases-accuracy.md) — possibly the same claim (merge candidate)
 - [Neither muscle mass nor weekly training frequency is associated with reaction time across cue conditions in healthy male high-school students](muscle-mass-weekly-training-not-associated-rt.md) — related
+- [In an immersive VR dual-task search-and-learning environment, both a pedagogical agent cue and a light cue produced faster search times than no cueing](vr-agent-light-cues-reduce-search-time.md) — related

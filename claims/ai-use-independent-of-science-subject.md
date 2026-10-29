@@ -49,3 +49,4 @@ Chi-square/Fisher analysis at subject level found one significant association (C
 - [In-service science educators use AI far less in subject-specific DiKoLAN areas (SIM, DAP, DAQ) than in general areas](ai-use-skews-to-general-dikolan-areas.md) — related
 - [ITS produce significant positive effects at all grade levels and in almost all subject domains evaluated, with exceptions such as chemistry](its-effects-across-grades-subjects-prior-knowledge.md) — related
 - [Single-turn tutors disclose answers pervasively while challenge scores are near zero across every model and subject](single-turn-answer-disclosure-challenge-near-zero.md) — related
+- [Design and communication activities are statistically dependent at both individual and team levels](design-communication-dependency.md) — related

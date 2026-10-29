@@ -9,6 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: weak
 newest_evidence: 2021
+source_checked: 2026-10-29
 sources:
   - id: regina-kaplan-rakowski-2021
     resource: "https://doi.org/10.1007/s11423-020-09897-9"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2021 · checked against its sources 2026-10-29 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students and instructors perceived text and video feedback as equally valuable with regard to quality and delivery. [→ Regina Kaplan-Rakowski 2021](#regina-kaplan-rakowski-2021)
@@ -49,3 +50,7 @@ The article reports, citing Borup et al. (2015), survey evidence from instructor
 ## Related Claims
 - [Borup et al. (2015) found video feedback more convenient for student support and text-based feedback more convenient for exploratory feedback](borup-2015-video-affective-text-efficiency.md) — related
 - [Students reported mixed, task-dependent perceptions of the efficiency and speed of voice versus text input](mixed-efficiency-speed-perceptions.md) — related
+- [Despite video feedback's benefits, instructors and students might prefer text-based feedback](instructors-students-might-prefer-text-feedback.md) — possibly the same claim (merge candidate)
+- [Borup et al.'s work juxtaposed two different modalities of learning and feedback](juxtaposed-feedback-modalities-blended-learning.md) — a broader claim this one bears on
+- [Teacher candidates and instructors hold perceptions of feedback in blended learning environments, as examined by Borup et al. (2015)](teacher-candidate-instructor-perceptions-feedback-blended-learning.md) — a broader claim this one bears on
+- [Research has shown that video feedback can help increase conversational and affective communication](video-feedback-increases-conversational-affective-communication.md) — related

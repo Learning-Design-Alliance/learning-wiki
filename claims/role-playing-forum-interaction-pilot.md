@@ -51,3 +51,4 @@ The editorial describes the concluding article of the issue as a small-scale pil
 - [A student-led small-group discussion assessment sustained online participation and produced denser peer interaction than a standard teacher-led discussion board](student-led-discussion-task-sustains-online-participation.md) — related
 - [Courses with a low number of forum interactions show inconsistent participation-dimension results, while eigenvector centrality remains robust there.](low-interaction-courses-inconsistent-participation-measures.md) — related
 - [Effective collaborative learning in discussion forums requires relatively small group sizes](forum-collaborative-learning-small-group-sizes.md) — related
+- [Courses without pre-defined forum tasks or assessment-driven activity had forums with low posting activity](no-task-courses-low-posting-activity.md) — related

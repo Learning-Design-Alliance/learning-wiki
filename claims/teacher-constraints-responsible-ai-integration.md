@@ -78,3 +78,5 @@ Negative-perceptions sub-theme from thematic analysis of interviews with 10 trai
 - [Teachers identified cost, bulky headsets, Wi-Fi connectivity, and technical issues as key challenges to integrating VR into ML2 teaching](vr-challenges-cost-headsets-wifi.md) — related
 - [Instructional designers' main challenges with ChatGPT are output quality (53.8%), tool limitations (42.3%), and faculty unpreparedness (3.8%)](id-chatgpt-challenges-output-quality-tool-limits.md) — related
 - [Implementation constraints identified were factual accuracy and content drift, culturally narrow outputs, prompt fatigue, and data privacy concerns](gpt-implementation-constraints-ite.md) — related
+- [Teacher educators found the simulation fostered critical thinking and reflection but faced integration, accessibility, and binary-decision limitations](teacher-educators-simulation-value-and-challenges.md) — related
+- [Teachers' most frequently cited barrier to classroom technology use was lack of access to technology, on both pre- and post-surveys](technology-access-top-barrier-for-teachers.md) — related

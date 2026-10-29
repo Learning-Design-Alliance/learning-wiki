@@ -46,3 +46,4 @@ Descriptive comparison of pre- and post-session surveys (approximately 22–25 p
 - [Community adults entering an AI education session held broad, generalized concerns about AI, including distrust of self-regulation and privacy worries](community-adults-broad-generalized-ai-concerns.md) — related
 - [The AI education session was associated with a drop in attendees reporting they did not know enough to say about AI, from 23% to 0%](dont-know-responses-dropped-to-zero.md) — a narrower finding that bears on this claim
 - [Only about one fourth of participants reported specific data-protection actions, suggesting a single session is not enough for behavioral change](single-privacy-session-insufficient-behavior-change.md) — related
+- [Teacher candidates moved from abstract inclusivity ideals to specific instructional and relational strategies after the simulation](simulation-shift-abstract-to-actionable-inclusivity.md) — related

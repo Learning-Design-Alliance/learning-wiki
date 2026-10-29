@@ -74,3 +74,4 @@ Experiment 1 repeated measures ANOVA on self-assessed performance showed self-as
 - [Self Assessment Improves Self Regulated Learning](self-assessment-improves-self-regulated-learning.md) — related
 - [In Experiment 1, receiving self-assessment feedback during the learning phase led to less accurate task selection than no feedback, despite feedback stating actual performance](self-assessment-feedback-reduced-learning-phase-task-selection.md) — related
 - [In Experiment 2, neither self-assessment feedback plus correct answers nor plus contrasting own with correct answers improved test-phase self-assessment accuracy](exp2-feedback-correct-answers-no-gain.md) — a narrower finding that bears on this claim
+- [The integrated training program did not improve self-assessment accuracy on any of six ATC competences](integrated-training-no-self-assessment-accuracy-gain.md) — related

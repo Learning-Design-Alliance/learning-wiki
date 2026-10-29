@@ -47,3 +47,4 @@ Quoted from Hawkridge (1995) as cited in the article's opening, describing the o
 ## Related Claims
 - [The current educational moment is analogous to the London Stock Exchange's Big Bang](educational-big-bang-analogy.md) — related
 - [Teachers know far more about their students than an investor knows about a stock, including data not typically in statistical models](teachers-hold-student-data-outside-statistical-models.md) — related
+- [Assaf argues the pandemic shift to digital is a mindset shift, not only a technology shift, modeled via an instructional interface analogy](digital-shift-mindset-not-only-technology.md) — related

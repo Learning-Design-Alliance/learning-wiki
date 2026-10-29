@@ -53,3 +53,4 @@ Educator survey on contextual factors in the District-Charter Collaboration Gran
 - [Principals in improving schools actively reach out to teachers, parents, and community leaders and coordinate programs strategically](improving-school-principals-reach-out-coordinate-programs.md) — related
 - [Cross-sector education partnerships that overcome common challenges are characterized by shared goals, mutually reinforcing activities, and effective communication](cross-sector-partnership-success-characteristics.md) — related
 - [Limited school staff time is a crucial obstacle impeding cross-sector collaboration](limited-staff-time-obstacle-collaboration.md) — related
+- [United States case: a grassroots network sustained and scaled active-learning innovations through leadership and networks rather than research, but remained at second-order change](remake-learning-network-scaled-without-research.md) — related

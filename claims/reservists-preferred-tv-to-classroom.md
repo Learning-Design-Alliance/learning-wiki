@@ -50,3 +50,4 @@ Attitude questionnaire data from the reservist telecast evaluation. The digest r
 - [Army reservists of all grades made statistically significant gains on information tests after viewing instructional telecasts](reservists-significant-gains-tv-telecasts.md) — related
 - [Eighty percent of students enrolled in conventional classes who also participated in television classes preferred the conventional ones](students-preferred-conventional-over-television-classes.md) — related
 - [Televised Navy indoctrination instruction produced no differences in achievement scores compared with conventional instruction](navy-televised-indoctrination-no-achievement-differences.md) — related
+- [Using television in army training is feasible, according to the summarized research](tv-feasible-army-training.md) — a broader claim this one bears on

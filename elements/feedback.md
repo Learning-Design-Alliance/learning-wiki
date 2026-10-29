@@ -13,7 +13,7 @@ generated:
 # Feedback
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 218 claims (99 for, 103 mixed, 16 against) · 164 studies (64 causal, 33 review, 20 quant-synthesis, 15 associational, 13 design, 10 theoretical, 9 qualitative), `q1`–`q4` · 40 of 164 report an effect size · 194 claims rest on one study
+> **Evidence** · 222 claims (102 for, 104 mixed, 16 against) · 167 studies (66 causal, 33 review, 20 quant-synthesis, 15 associational, 13 design, 10 qualitative, 10 theoretical), `q1`–`q4` · 42 of 167 report an effect size · 198 claims rest on one study
 
 ## Description
 Feedback is information provided to learners about their performance or understanding, intended to close the gap between current and desired performance. Effective feedback answers three questions: Where am I going? How am I doing? Where to next? ([Hattie & Timperley, 2007](https://doi.org/10.3102/003465430298487)). It functions as the corrective mechanism in any instructional cycle that includes [Practice](practice.md) or [Assessment](assessment.md).
@@ -266,6 +266,10 @@ Feedback is among the most powerful influences on learning, but its effects are 
 - [In Borup et al.'s (2015) blended-course study, students and instructors perceived text and video feedback as equally valuable on quality and delivery, but valued text's efficiency over video's affective benefits](../claims/text-video-feedback-equal-value-efficiency-preferred.md) [+W]
 - [Hints in multiple-try feedback improve performance on a delayed test one week later](../claims/hints-improve-delayed-testing-one-week-later.md) [+W]
 - [Hints in multiple-try feedback do not significantly improve performance on the immediate test taken directly after the learning phase](../claims/hints-no-significant-immediate-testing-effect.md) [~W]
+- [First-time online feedback via GradeMark was received positively by Chinese-educated undergraduates who previously had little or no feedback on their writing](../claims/grademark-first-online-feedback-positive-perceptions.md) [+W] — attached 2026-10-29 from Ding et al. (2019), which proposed "GradeMark: Turnitin's online assessment and feedback tool providing in-text, overall written and voice comments with rubrics".
+- [Students perceived personalized and generic feedback messages as equally helpful and motivating](../claims/equal-perceptions-personalized-generic-feedback.md) [~W]
+- [Students receiving personalized feedback began homework earlier than the control group during the intervention phase (about half a day earlier)](../claims/la-personalized-feedback-earlier-homework-start.md) [+W]
+- [Low-SRL students receiving GenAI feedback showed significantly higher post-intervention overall SRLs scores than tutor-feedback peers](../claims/genai-feedback-improves-low-srl-composite.md) [+M]
 
 ## Design Decisions
 <!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice

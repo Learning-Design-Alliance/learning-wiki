@@ -69,3 +69,4 @@ Descriptive synthesis of sampling across quantitative questionnaire studies. The
 - [The reviewed evidence base is predominantly cross-sectional, with small self-report-heavy teacher samples](teacher-empathy-evidence-base-cross-sectional.md) — related
 - [Most empirical studies adopted a quantitative research approach](most-studies-quantitative-approach.md) — related
 - [TPACK is measured predominantly by self-assessment, with the Schmidt et al. (2009) survey instrument most highlighted](tpack-measured-mostly-by-self-assessment.md) — related
+- [Digital distraction research is predominantly quantitative (69.23%), focused on higher education (92.3% of studies), and relies mainly on surveys](digital-distraction-research-methodological-profile.md) — related

@@ -73,3 +73,5 @@ The review reports Domagk's (2008) finding that "likeable agents lead to a highe
 - [Manipulating anthropomorphism shows no clear causal effect on trust in controlled post-generative-AI studies, though long-term use and cue type condition its effects](anthropomorphism-no-clear-causal-effect-on-trust.md) — related
 - [Conversational narration style produces a large effect on learning from multimedia instruction, likely via social partnership](conversational-narration-style-large-learning-effect.md) — related
 - [CASTLE's activation hypothesis states that social cues activate social schemata and trigger social processes](social-cues-activate-social-schemata-hypothesis.md) — related
+- [The pedagogical agent cue reduced physical presence compared to no cueing and self-presence compared to both other conditions](pedagogical-agent-cue-reduces-presence.md) — related
+- [Personalized, conversational narration shows moderate-to-large effects on friendliness, cognitive processing, retention, and transfer](personalization-effect-sizes-multimedia.md) — related

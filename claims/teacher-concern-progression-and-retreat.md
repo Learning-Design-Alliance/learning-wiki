@@ -54,3 +54,4 @@ Concern-pattern analysis across the three interviews (Table 7), where only two t
 - [First-year teachers without mentors declined in self and impact concerns but task concerns stayed at 50%](unmentored-first-year-task-concerns-flat.md) — related
 - [Progress in evidence-based solution development is not always linear; evidence determines phase movement](evidence-determines-nonlinear-phase-movement.md) — related
 - [Not all educators develop impact concerns even when colleagues do; concern change cannot be forced by an outside agent](not-all-educators-develop-impact-concerns.md) — related
+- [Students varied in the speed of their developmental progressions but all reached the highest phase](varied-progression-speed-area-reasoning.md) — related

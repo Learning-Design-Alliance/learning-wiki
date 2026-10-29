@@ -69,6 +69,7 @@ Digital storytelling is a generative learning activity: transforming content int
 - Peer critique protocols — structured feedback is essential at the share stage; without it, sharing becomes showcase rather than revision
 - [Invite students to design costumes and narratives for their robots as legitimate epistemic engagement](robot-costume-narrative-design-strategy.md)
 - [Allow students to practise storytelling in their preferred language to support creative expression](preferred-language-storytelling-practice.md)
+- [Build online multimedia lessons with slide-sharing, survey, and video-sharing tools in a three-stage workflow](common-tools-ctml-lesson-workflow.md)
 
 ## Related Elements
 - [Application](../elements/application.md) — the story is an authentic application of content knowledge

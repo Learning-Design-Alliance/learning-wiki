@@ -56,3 +56,4 @@ Moderator analysis of presentational features: system-paced studies (k = 24) sho
 - [The animation advantage is largest when instruction includes no accompanying text](animation-advantage-largest-without-accompanying-text.md) — related
 - [Redundant speech-gesture cooperation improves recall and social perception more than complementarity](speech-gesture-redundancy-better.md) — related
 - [The modality effect tends to be strongest when material is fast-paced and under system control](modality-boundary-conditions-pace-control.md) — related
+- [System-paced multimedia learning environments with spoken narration yield higher learning outcomes than self-paced ones](system-pacing-beats-self-pacing-with-narration.md) — related

@@ -51,3 +51,4 @@ Experiment 3: 80 respondents rated blinded human and ChatGPT feedback on 5-point
 - [Children's plan quality improves substantially after receiving LLM-generated adaptive feedback](plan-quality-improves-after-llm-adaptive-feedback.md) — related
 - [Students preferred AI-generated personalized videos over human-recorded non-personalized videos in direct comparison](ai-personalized-videos-preferred-over-human-non-personalized.md) — related
 - [Children perceive LLM-generated adaptive feedback as more helpful and more motivating than generic guidance](children-perceive-llm-feedback-more-helpful-motivating.md) — related
+- [Students perceived personalized and generic feedback messages as equally helpful and motivating](equal-perceptions-personalized-generic-feedback.md) — related

@@ -69,3 +69,5 @@ This is a solid, single-context qualitative case study (q2) with real methodolog
 - [Student–AI interactions in authentic coursework concentrate in a small number of recurring patterns rather than idiosyncratic use](student-ai-interactions-concentrate-recurring-patterns.md) — related
 - [Collaborative multidisciplinary modeling tasks elicit all four cognitive processes of interdisciplinary understanding in student group discourse](modeling-task-elicits-four-interdisciplinary-processes.md) — related
 - [Analog artefacts such as the nautical paper chart serve as public inscriptions and arenas for reasoning about rule following, making students' intentions assessable to instructors and teammates](paper-chart-inscription-assessment-arena.md) — related
+- [Team leadership in the game emerged as shared and shifting, distributed to whoever held the needed information or first solved the task](shared-shifting-team-leadership-game.md) — related
+- [A computer-based simulation game helped students apply theoretical team-role knowledge to identify team roles in practice and evaluate their own performance in a role](simulation-game-team-role-self-reflection.md) — related

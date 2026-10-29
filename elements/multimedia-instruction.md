@@ -13,7 +13,7 @@ generated:
 # Multimedia Instruction
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 40 claims (21 for, 18 mixed, 1 against) · 42 studies (22 causal, 9 quant-synthesis, 8 review, 2 theoretical, 1 design), `q1`–`q4` · 11 of 42 report an effect size · 35 claims rest on one study
+> **Evidence** · 41 claims (21 for, 19 mixed, 1 against) · 43 studies (23 causal, 9 quant-synthesis, 8 review, 2 theoretical, 1 design), `q1`–`q4` · 11 of 43 report an effect size · 36 claims rest on one study
 
 ## Description
 Multimedia instruction is the element in which teaching combines spoken or written language with visuals, diagrams, animation, or other media in a coordinated instructional sequence. It is useful when multiple representations clarify explanation and support comprehension.
@@ -76,6 +76,7 @@ Multimedia instruction is the element in which teaching combines spoken or writt
 - [In the Utah Physics Film Project, filmed and regular physics instruction showed no differences in large and small schools, but medium-sized schools favored regular instruction](../claims/physics-films-no-difference-medium-schools-favor-regular.md) [-W]
 - [A slow rate of development in an instructional film is more helpful to learning than a fast rate](../claims/slow-film-rate-of-development-aids-learning.md) [~W]
 - [Repeating an instructional film increases learning only up to a point](../claims/film-repetition-increases-learning-up-to-a-point.md) [~W]
+- [Equipment and display choices affect educational TV quality: black-on-white for fine-line charts, lapel microphone, two cameras, and a 16-inch minimum screen for 20 viewers](../claims/educational-tv-equipment-display-conclusions.md) [~W]
 
 ## The evidence by question
 - *Do words with a relevant picture beat words alone?* [Multimedia Principle Improves Learning](../claims/multimedia-principle-improves-learning.md) [+S]
@@ -93,7 +94,9 @@ Multimedia instruction is the element in which teaching combines spoken or writt
 - [Flipped Learning](../principles/flipped-learning.md)
 
 ## Examples
+
 - An explained diagram or narrated animation paired with guided questions.
+- [Build online multimedia lessons with slide-sharing, survey, and video-sharing tools in a three-stage workflow](../strategies/common-tools-ctml-lesson-workflow.md)
 
 ## Key Sources
 - Mayer, R. E. (2009). *Multimedia learning* (2nd ed.). Cambridge University Press. [doi:10.1017/cbo9780511811678](https://doi.org/10.1017/cbo9780511811678)

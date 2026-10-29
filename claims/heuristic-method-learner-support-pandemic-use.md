@@ -49,3 +49,5 @@ Commentary abstract asserting applicability of the prior authors' heuristic meth
 - [Realizing the full potential of the Nacu et al. heuristic requires repositioning online learning as a knowledge-building environment](online-learning-as-knowledge-building-environment.md) — related
 - [Heuristics alone do not prepare network designers or teachers to enact student-centered online learning environments](heuristics-alone-insufficient-for-student-centered-online-learning.md) — related
 - [Educator learner-support roles in online education should be fulfilled from a contextual perspective, following Nacu et al.'s (2018) guidelines](learner-support-roles-contextual-perspective.md) — related
+- [Nussbaum and colleagues argue critical thinking and creativity, intersected with grit, are central 21st-century components in online learning design](critical-thinking-creativity-grit-online-design.md) — related
+- [Meier and Stefaniak highlight educators' professional development and organizational support as policy-level needs for online learning](professional-development-organizational-support-policy.md) — related

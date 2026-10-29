@@ -71,3 +71,4 @@ Frustration violated normality, so medians and a Wilcoxon signed-rank test were 
 - [Teacher perceived workload did not differ significantly across conditions on any NASA-TLX subscale, though the experimental condition was descriptively lower on most subscales](aied-u-no-significant-workload-difference.md) — reports the opposite
 - [Teacher perceived workload was negatively associated with student learning gains, especially for Mental Demand and Effort](teacher-workload-negatively-associated-learning-gains.md) — related
 - [Subjective cognitive workload decreases across teleoperation training and lower workload is associated with higher performance](workload-decreases-with-teleoperation-skill.md) — related
+- [Designer workload across an 11-module instructional design model for product development averaged normal-to-high (50–75%)](nasa-tlx-normal-high-workload-design-process.md) — related

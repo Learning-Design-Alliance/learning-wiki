@@ -31,7 +31,7 @@ sources:
 # Worked Examples
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 35 claims (18 for, 14 mixed, 3 against) · 30 studies (21 causal, 4 theoretical, 3 quant-synthesis, 2 review), `q1`–`q4` · 7 of 30 report an effect size · 30 claims rest on one study
+> **Evidence** · 36 claims (18 for, 15 mixed, 3 against) · 31 studies (21 causal, 4 theoretical, 3 quant-synthesis, 3 review), `q1`–`q4` · 7 of 31 report an effect size · 31 claims rest on one study
 
 ## Conditional relationship
 
@@ -166,6 +166,7 @@ The authors recommend assigning worked-example type by prior knowledge: "by appl
 - [No significant condition differences remain at posttest: both approaches converge on MVC strategy and reasoning after both phases](../claims/no-posttest-differences-mvc-convergence.md) [~W]
 - [The worked example effect failed to replicate for geometry and kinematics problems, and was reinstated when worked examples were restructured to reduce split attention](../claims/worked-example-effect-split-attention-replication-history.md) [~W]
 - [Worked examples result in better performance than conventional problem solving with no guidance, per prior work cited in the thesis](../claims/worked-examples-better-than-problem-solving-cited.md) [+W]
+- [Worked-example effects in a 3D role-playing game for chemical formulas: significant on knowledge comprehension, marginal on knowledge application](../claims/worked-example-effect-3d-game-chemical-formulas.md) [~W]
 
 ## Key Sources
 

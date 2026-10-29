@@ -67,3 +67,4 @@ The article's conceptual discussion of criterion-referenced measurement explains
 - [Rank-ordering students is irrelevant to teaching because teaching is not claimed to have occurred unless each student learned, per the author's Dewey-inspired argument](rank-ordering-irrelevant-to-teaching.md) — related
 - [Abandoning assessment entirely is not an acceptable alternative to competitive grading, per the author's argument](nonassessment-unacceptable-alternative.md) — related
 - [Norm-referenced mental-age and IQ metrics distract investigators from the structural and hierarchical aspects of developing abilities](norm-referenced-metrics-hide-structural-development.md) — related
+- [Uncertainty is conceptually distinct from failure: it is an epistemic and metacognitive state, while failure is defined relative to an evaluative criterion](uncertainty-distinct-from-failure.md) — related

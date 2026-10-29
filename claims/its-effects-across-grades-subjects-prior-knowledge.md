@@ -72,3 +72,4 @@ Subject-domain moderator analysis (Table 3) with heterogeneity QB = 50.67, p < .
 - [LLMs struggle most with Chemistry riddles, with best EM accuracy at or below 75% versus above 90% in other subjects](llms-struggle-most-chemistry-nsmq-riddles.md) — related
 - [School level significantly moderates effects: AI-enabled personalized STEM education is more effective in junior and senior high school than in kindergarten](school-level-moderates-ai-stem-effects.md) — related
 - [AI use is predominantly independent of the science subject taught, with one exception: chemistry teachers most often cite lack of subject-specific relevance](ai-use-independent-of-science-subject.md) — related
+- [Worked-example effects in a 3D role-playing game for chemical formulas: significant on knowledge comprehension, marginal on knowledge application](worked-example-effect-3d-game-chemical-formulas.md) — related

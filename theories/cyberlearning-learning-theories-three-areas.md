@@ -46,7 +46,8 @@ The report's learning-theories theme treats three areas: collaborative learning,
 - [Six emerging design genres organize cyberlearning design research](cyberlearning-six-design-genres.md)
 
 ## Examples
--
+
+- [Design learning tasks for educational technologies with possibilities for embodied collaboration in mind](../strategies/design-tasks-for-embodied-collaboration.md)
 
 ## Key Sources
 - Center for Innovative Research in Cyberlearning (2020). Ambitious mashups: Reflections on a decade of cyberlearning research. [Report]. Digital Promise. https://circlcenter.org/resources/reflections-report/

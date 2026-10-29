@@ -13,7 +13,7 @@ generated:
 # Multimedia Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 29 claims (19 for, 10 mixed) · 31 studies (14 causal, 7 review, 6 quant-synthesis, 2 associational, 2 qualitative), `q2`–`q4` · 11 of 31 report an effect size · 25 claims rest on one study
+> **Evidence** · 31 claims (19 for, 12 mixed) · 33 studies (15 causal, 7 review, 6 quant-synthesis, 3 associational, 2 qualitative), `q2`–`q4` · 12 of 33 report an effect size · 27 claims rest on one study
 
 ## Description
 Multimedia learning is the element in which learners engage with coordinated combinations of words, visuals, audio, animation, or interactive media. It is useful when multiple representations clarify structure, process, or relationship more effectively than a single mode alone.
@@ -65,6 +65,8 @@ Multimedia learning is the element in which learners engage with coordinated com
 - [In Studies 2-6, the perceptual richness of visualizations had no effect on undergraduates' generalization](../claims/no-visualization-effect-studies-2-6.md) [~W]
 - [Presentation slide visuals were the feature most cited by DHH students for facilitating learning](../claims/dhh-presentation-visuals-facilitate-learning.md) [+W]
 - [Narration combined with drama or explanatory film was the most effective TV teaching method; drama alone was not very effective](../claims/narration-with-drama-or-film-best-tv-method.md) [+W]
+- [Visual cognitive style, pacing, and visualization interact: highly developed visualizers learn poorer with self-paced static pictures than with system-paced static pictures](../claims/triple-interaction-visual-style-pacing-visualization.md) [~W]
+- [College music educators made the most extensive use of audio-visual materials while college music specialists made the least, and every group reported difficulty finding suitable material](../claims/music-av-use-group-differences.md) [~W]
 
 ## The evidence by question
 

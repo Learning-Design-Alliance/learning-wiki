@@ -27,7 +27,7 @@ sources:
 # Multimedia Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 96 claims (40 for, 52 mixed, 4 against) · 73 studies (33 causal, 15 review, 13 quant-synthesis, 5 associational, 4 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 19 of 73 report an effect size · 87 claims rest on one study
+> **Evidence** · 98 claims (40 for, 54 mixed, 4 against) · 74 studies (34 causal, 15 review, 13 quant-synthesis, 5 associational, 4 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 20 of 74 report an effect size · 89 claims rest on one study
 
 ## Conditional relationship
 
@@ -180,6 +180,8 @@ A learning-phase preference, immediate recall, explanation of a mechanism, delay
 - [A mobile multimedia learning system improved EFL students' posttest performance, and cooperative tasks outperformed individual tasks](../claims/mmls-outperformed-conventional-efl.md) [+W]
 - [Neither the wiring board nor the diagram improved learning of basic principles of electricity, supporting the conclusion that manifestations of electrical phenomena are not necessary to learn Ohm's law](../claims/phenomena-not-necessary-ohms-law.md) [-W]
 - [The review draws on Mayer and colleagues' generative theory of textbook design using annotated illustrations to foster meaningful learning of science text](../claims/multimedia-learning-review-cites-generative-theory-textbook-design.md) [+W]
+- [Animation outperforms static pictures for learning about a biological process with spoken narration](../claims/animation-outperforms-static-pictures-photosynthesis.md) [~M]
+- [System-paced multimedia learning environments with spoken narration yield higher learning outcomes than self-paced ones](../claims/system-pacing-beats-self-pacing-with-narration.md) [~W]
 
 ## Related Principles
 - [Modality Principle](modality.md)
@@ -202,6 +204,7 @@ A learning-phase preference, immediate recall, explanation of a mechanism, delay
 
 - [Illustrated mitosis learning material (11 pages, 1113 words) with EMME videos demonstrating multimedia processing strategies](../designs/mitosis-illustrated-text-emme-material.md)
 - [Provide explicit instruction in how to understand and use informative pictures if they are employed in word problem instruction](../strategies/explicit-instruction-informative-pictures.md)
+- [Build online multimedia lessons with slide-sharing, survey, and video-sharing tools in a three-stage workflow](../strategies/common-tools-ctml-lesson-workflow.md)
 
 ### Illustrative
 

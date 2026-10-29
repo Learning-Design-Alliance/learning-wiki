@@ -47,3 +47,4 @@ Observational sequence analysis of 65 groups in an online CmC course, clustered 
 ## Related Claims
 - [Coordination actions discriminate well-functioning groups better than inactivity: a CART decision tree splits clusters on coordination counts (value 3.5), revising the assumption that gaps are the key failure indicator](coordination-actions-better-indicator-than-inactivity.md) — related
 - [Groups that initiated collaboration early, coordinated before problem-solving, and interacted continuously tended to achieve equal participation and higher satisfaction](early-coordination-continuous-interaction-equal-participation.md) — related
+- [Courses with higher posting participation show more subgroups and more unequal communication than expected by chance, while high-interactivity courses show more equal participation](participation-unequal-communication-interactivity-equal.md) — related

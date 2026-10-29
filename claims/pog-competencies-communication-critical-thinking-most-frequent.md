@@ -51,3 +51,4 @@ WestEd's calculations from a scan of publicly available district and state POGs,
 - [Districts use a wide variety of methods to assess Portrait of a Graduate skills, varying across contexts and grade levels](districts-use-varied-pog-assessment-methods.md) — related
 - [The authors assert that innovative assessment measures capture POG competencies more fully than traditional standardized tests](innovative-assessments-capture-pog-competencies.md) — related
 - [ID/ET professionals report that cross-disciplinary skills and dispositions are crucial and under-emphasized in existing competency lists](cross-disciplinary-skills-dispositions-underemphasized.md) — related
+- [Altınay and colleagues emphasize critical thinking, critical friendship, teamwork, and network-based collaboration for international standards](critical-friendship-teamwork-international-standards.md) — related

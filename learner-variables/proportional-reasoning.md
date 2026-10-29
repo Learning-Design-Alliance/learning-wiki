@@ -13,7 +13,7 @@ generated:
 # Proportional Reasoning
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 36 claims (24 show a difference, 10 mixed, 2 no difference) · 19 studies (8 associational, 5 causal, 2 design, 1 quant-synthesis, 1 review, 1 qualitative, 1 theoretical), `q1`–`q3` · 5 of 19 report an effect size · 36 claims rest on one study
+> **Evidence** · 37 claims (25 show a difference, 10 mixed, 2 no difference) · 20 studies (8 associational, 5 causal, 2 qualitative, 2 design, 1 quant-synthesis, 1 review, 1 theoretical), `q1`–`q3` · 5 of 20 report an effect size · 37 claims rest on one study
 
 ## Description
 Proportional reasoning is understanding ratio and how ratios relate to one another. The Learner Variability Navigator describes a ratio as a relationship between parts and wholes that can be written as a fraction, a percentage or a rate. It is assessed with tasks that ask learners to rank fractions shown in different forms (shaded shapes, numerals, decimals) by size, and with missing-value problems in which one quantity in a pair of equivalent ratios must be found.
@@ -72,6 +72,7 @@ LVN treats it as an essential part of arithmetic proficiency in primary school a
 - [Estimation accuracy (PAE) improved significantly across the five training sessions in both conditions](../claims/pae-decreased-across-training-sessions.md) [+M] — instruction changes it
 - [Game-based and non-game-based number line estimation training produced statistically indistinguishable pretest-to-posttest learning gains in fraction magnitude understanding](../claims/game-elements-no-differential-learning-gains-number-line.md) [-M] — instruction changes it
 - [Participants in the game-based training condition estimated fraction magnitudes more accurately during training than participants in the non-game-based condition](../claims/game-based-training-higher-accuracy-during-training.md) [+M] — instruction changes it
+- [Instructor questioning combined with the AR app's virtual rows and columns supported students' shift to multiplicative reasoning](../claims/social-technological-scaffolding-synergy-area-reasoning.md) [+M] — instruction changes it
 
 ## Measures
 - **Ranking Proportions Task** (e.g., Mazzocco & Devlin, 2008): Magnitude comparison for fractions and rational numbers where students rank order different representations of fractions including shaded circles, numerical fractions, and decimals.

@@ -47,3 +47,4 @@ Maintenance condition of the multiple-baseline design, observed and recorded dai
 ## Related Claims
 - [Self-regulated problem-solving instruction produced immediate, marked increases in target behaviors for all four students, with a mean of 2.3 training sessions to reach 80% mastery](problem-solving-instruction-increases-target-behaviors-developmental-disabilities.md) — related
 - [Most reviewed coaching studies did not collect maintenance data, so sustained use of coached practices cannot be confirmed](coaching-maintenance-rarely-measured.md) — related
+- [Students maintained phase-8 area measurement reasoning after AR activities and instructor support were withdrawn](area-reasoning-maintained-after-scaffolding-faded.md) — related

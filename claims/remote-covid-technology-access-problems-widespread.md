@@ -145,3 +145,5 @@ Structured-response survey item on hardware/software problem frequency; ten perc
 - [Mobile devices served as the primary tool for learners and teachers during the emergent remote teaching process of the pandemic](mobile-devices-primary-tool-emergent-remote-teaching.md) — related
 - [STEM faculty implemented the five inquiry phases online during COVID-19 emergency remote teaching](faculty-implemented-inquiry-phases-online-covid.md) — related
 - [Technical difficulties disrupted teaching routines and produced role conflict in academics' professional identities](technical-difficulties-role-conflict-technology-integration.md) — related
+- [Digital technology broadens inclusion in Critical Indigenous Studies by connecting remote communities and knowledge holders, but can exclude those lacking technology access](cis-digital-inclusion-dilemma.md) — related
+- [Technological prerequisites such as internet access and device availability were identified only by the South African panel, with equity of education as a distal outcome](technological-prerequisites-south-african-panel-equity.md) — related

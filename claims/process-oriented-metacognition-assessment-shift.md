@@ -62,3 +62,4 @@ The editor's observational assessment of methodological trends over the last dec
 - [Eye tracking can be used to study student engagement, teacher expertise, and teacher-student interaction in naturalistic classroom contexts](eye-tracking-classroom-naturalistic-contexts.md) — related
 - [Multimodal data collection is increasingly common but analyses rarely align data streams temporally](rare-alignment-of-multimodal-data-streams.md) — possibly the same claim (merge candidate)
 - [Traditional self-report methods face significant limitations in capturing the dynamic nature of SRL](self-report-srl-limitations-dynamic-nature.md) — a narrower finding that bears on this claim
+- [Integrating behavioral trace data with outcomes and self-report reveals feedback effects that perception and performance measures alone miss](behavioral-data-essential-for-feedback-evaluation.md) — a narrower finding that bears on this claim

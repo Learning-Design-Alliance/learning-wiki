@@ -13,7 +13,7 @@ generated:
 # Technology Integration Levels (SAMR / RAT / PIC-RAT)
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 8 claims (3 for, 5 mixed) · 9 studies (3 theoretical, 2 review, 1 causal, 1 associational, 1 qualitative, 1 design), `q1`–`q3` · 1 of 9 report an effect size · 7 claims rest on one study
+> **Evidence** · 10 claims (5 for, 5 mixed) · 10 studies (3 theoretical, 2 review, 2 qualitative, 1 causal, 1 associational, 1 design), `q1`–`q3` · 1 of 10 report an effect size · 9 claims rest on one study
 
 ## Description
 Several closely related models help teachers and designers judge the *effect* a specific use of technology is having on instruction, rather than whether technology is used at all ([Kimmons, 2018](https://edtechbooks.org/lidtfoundations/k12_tech_frameworks)):
@@ -50,6 +50,8 @@ The shared claim across all three models is that low-value technology integratio
 - [Policy guidance is most actionable for final-output substitution scenarios](../claims/substitution-most-actionable-scenario.md) [~W]
 - [Minority of undergraduate health science students reported using GenAI for reflective writing, mostly to support rather than replace reflection](../claims/minority-health-students-genai-reflective-writing.md) [~W]
 - [Teacher candidates' projected future classroom technology use mirrors their student-teaching use, with most describing routine, non-transformative use](../claims/projected-future-tech-use-mirrors-student-teaching.md) [+W]
+- [Identity-oriented teaching conceptions are positively correlated with Transformation-level TPACK and negatively with Replacement and Amplification levels in SVVR-supported writing instruction](../claims/identity-conceptions-transformation-tpack.md) [+W] — attached 2026-10-29 from Mengyuan Chen et al. (2023), which proposed "RAT framework: Replacement, Amplification, and Transformation as levels of technology integration".
+- [Community-oriented teaching conceptions are positively correlated with Amplification-level TPACK and negatively with Replacement](../claims/community-conceptions-amplification-tpack.md) [+W] — attached 2026-10-29 from Mengyuan Chen et al. (2023), which proposed "RAT framework: Replacement, Amplification, and Transformation as levels of technology integration".
 
 ## The evidence by question
 - *Where on the substitution-to-redefinition range does educational technology use actually sit?* [Most AI implementations in undergraduate higher education sit at the SAMR Substitution or Augmentation levels, with fewer Modification cases and one Redefinition](../claims/ai-integration-mostly-substitution-augmentation.md) [+M]

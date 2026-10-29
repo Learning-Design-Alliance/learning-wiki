@@ -70,3 +70,5 @@ Review of results of individual studies within the 155-study corpus, contrasting
 - [AI integration is associated with improvements in teaching, learning, and administrative efficiency in higher education when supported by adequate infrastructure](ai-integration-improves-teaching-learning-admin-efficiency.md) — related
 - [Research identifies critical components of successful place-based systems change in education](critical-components-successful-place-based-systems-change-education.md) — related
 - [Technology can play a key role in comprehensive reform, but the adaptive capacity of the institution is equally critical for success](technology-role-adaptive-capacity-reform.md) — a narrower finding that bears on this claim
+- [Leadership commitment to adaptive learning was identified by both panels as a prerequisite, strengthened by strategy alignment and communication of empirical results](leadership-commitment-prerequisite-implementation.md) — related
+- [Organisational readiness for adaptive learning is a multi-faceted construct operationalised through technological, individual, and leadership readiness](organisational-readiness-three-facets.md) — related

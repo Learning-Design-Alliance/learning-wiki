@@ -220,3 +220,5 @@ Open questions include how the effect interacts with learner control over pacing
 - [Modality effects in statistical learning, specifically auditory-serial and visual-spatial advantages, are a relatively robust finding, though construct validity and causality remain open](modality-effects-statistical-learning-relatively-robust.md) — related
 - [DHH students report using redundant multimedia features for support, conflicting with the CTML redundancy principle](dhh-redundant-support-conflicts-ctml-redundancy.md) — related
 - [Direct TV narration appeared to be the most effective method of presentation.](direct-tv-narration-most-effective-presentation-method.md) — a narrower finding that bears on this claim
+- [Animation outperforms static pictures for learning about a biological process with spoken narration](animation-outperforms-static-pictures-photosynthesis.md) — related
+- [System-paced multimedia learning environments with spoken narration yield higher learning outcomes than self-paced ones](system-pacing-beats-self-pacing-with-narration.md) — related

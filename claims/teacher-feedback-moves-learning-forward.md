@@ -48,3 +48,4 @@ The brief asserts, citing endnote references to Hattie (2009) and Black et al. (
 - [Assessment for learning improves achievement](assessment-for-learning-improves-achievement.md) — the general claim this finding bears on, with the studies behind it
 - [Actionable and descriptive feedback moves student learning forward, and effective feedback differs from less-effective feedback on identifiable qualities](actionable-descriptive-feedback-moves-learning-forward.md) — a narrower finding that bears on this claim
 - [In a case analysis, probing instructor feedback with required revise-and-resubmit moved one teacher candidate toward citing student evidence, though his progress was not linear and another candidate did not improve](probing-feedback-revise-resubmit-evidence.md) — related
+- [Research has shown that video feedback can help increase conversational and affective communication](video-feedback-increases-conversational-affective-communication.md) — related

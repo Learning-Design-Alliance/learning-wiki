@@ -51,3 +51,4 @@ Descriptive bibliometric analysis of 321 eligible WoS articles on WCF in L2 writ
 - Annual output in Instructional Science rose markedly from around 2008, peaked at about 55 documents in the early 2010s, then declined to roughly 30–40 papers annually — related
 - [Research on GenAI in programming education increased markedly from 2019 onward](genai-programming-education-publications-increase-2019.md) — related
 - [Annual metacognition publications rose through the period, peaking at over 250 in 2022 before dropping to 125 in 2023](metacognition-publication-growth-peak-2022.md) — related
+- [First-author publication counts across 20 selected IDT journals (2005-2014) identify leading institutions worldwide, with Nanyang Technological University, National Taiwan Normal University, and National Central University at the top](idt-top-publishing-institutions-20-journals.md) — related

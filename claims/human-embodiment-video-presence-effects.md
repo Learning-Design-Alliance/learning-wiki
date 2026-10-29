@@ -108,3 +108,4 @@ Narrative review attributing to Li, Kizilcec, Bailenson, and Ju (2016) an examin
 - [Lack of instructor embodiment in tutorials may limit effectiveness for DHH students](dhh-embodiment-limits-effectiveness.md) — related
 - [Asynchronous video communication and feedback enhance social presence and helped sustain engagement and connections between socially isolated faculty and students during the COVID-19 shift online](asynchronous-video-enhances-social-presence-covid.md) — a narrower finding that bears on this claim
 - [Instructor presence did not raise self-reported social presence or perceived learning, contrary to a recent meta-analytic finding](instructor-presence-no-social-presence-effect.md) — related
+- [Research has shown that video feedback can help increase conversational and affective communication](video-feedback-increases-conversational-affective-communication.md) — related

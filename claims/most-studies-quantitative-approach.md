@@ -51,3 +51,4 @@ The review's analysis of the research methods of the included empirical studies 
 - [Mixed methods articles were rare (2.55% of empirical articles) in five educational psychology journals from 2016 to 2022, with most articles quantitative](mmr-prevalence-2-55-percent-ed-psych.md) — related
 - [The 32 included studies were predominantly quantitative and cross-sectional, with questionnaire sample sizes ranging from 17 to 815 students](ahs-pst-study-design-profile.md) — related
 - [The evidence base is dominated by US studies and quantitative designs, with sample sizes ranging from one teacher to 53 schools and 1,323 teachers](descriptive-overview-51-studies.md) — related
+- [Digital distraction research is predominantly quantitative (69.23%), focused on higher education (92.3% of studies), and relies mainly on surveys](digital-distraction-research-methodological-profile.md) — related

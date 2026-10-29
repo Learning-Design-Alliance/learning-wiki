@@ -51,3 +51,4 @@ Observation from the episode analysis of the boys' group in Episode 1: when Alex
 - [Students' makerspace knowledge practices are mediated multimodally by discourse, materials, embodied actions, and physical space](multimodal-mediation-makerspace-knowledge-practices.md) — related
 - [Kid Space use shifted children's attention away from the screen toward the physical environment](kid-space-less-screen-attention.md) — related
 - [Equity in makerspaces is not guaranteed by their existence](maker-equity-not-guaranteed.md) — related
+- [Making activities overshadowed self-assessment, which students sometimes perceived as an unnecessary interruption](making-activities-overshadowed-self-assessment.md) — related

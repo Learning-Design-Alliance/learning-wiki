@@ -13,7 +13,7 @@ generated:
 # Scaffolding
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (1 for, 2 mixed, 1 against) · 4 studies (2 causal, 1 quant-synthesis, 1 associational), `q3` · 2 of 4 report an effect size · 4 claims rest on one study
+> **Evidence** · 6 claims (2 for, 3 mixed, 1 against) · 5 studies (3 causal, 1 quant-synthesis, 1 associational), `q3` · 3 of 5 report an effect size · 6 claims rest on one study
 
 ## Description
 Scaffolding is the element in which support is added temporarily so learners can perform tasks they could not yet complete independently.
@@ -40,6 +40,8 @@ Scaffolding is the element in which support is added temporarily so learners can
 - [The scaffolding intervention unintentionally increased small groups' independent working time, roughly doubling it from premeasurement to postmeasurement](../claims/scaffolding-intervention-increases-independent-working-time.md) [+W]
 - [Complete and faded double-content examples did not differentially affect student teachers' professional vision](../claims/fading-no-differential-effect-pvcm.md) [~W]
 - [Customized scaffolding (fading/adding) outperforms non-customized scaffolding in PBL-STEM, with fading/adding highest at g = 0.590](../claims/scaffolding-customization-fading-adding-highest.md) [~W]
+- [Low-EF learners without visual scaffolding prefer bottom-up strategies, while low-EF learners with visual scaffolding shift toward top-down strategies](../claims/visual-scaffolding-shifts-low-ef-to-top-down.md) [+W] — attached 2026-10-29 from Huang et al. (2026), which proposed "Real-time visual scaffolding programming system with color-coded blocks and synchronized visual output".
+- [Real-time visual scaffolding does not significantly change high-EF learners' strategy use between scaffolding and non-scaffolding conditions](../claims/scaffolding-no-effect-high-ef-strategy.md) [~W] — attached 2026-10-29 from Huang et al. (2026), which proposed "Real-time visual scaffolding programming system with color-coded blocks and synchronized visual output".
 
 ## Related Elements
 - [Fading](fading.md)

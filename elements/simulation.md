@@ -14,7 +14,7 @@ generated:
 # Simulation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 70 claims (39 for, 27 mixed, 4 against) · 64 studies (18 review, 16 causal, 13 quant-synthesis, 8 design, 4 qualitative, 3 theoretical, 2 associational), `q1`–`q4` · 14 of 64 report an effect size · 60 claims rest on one study
+> **Evidence** · 73 claims (40 for, 29 mixed, 4 against) · 65 studies (18 review, 16 causal, 13 quant-synthesis, 8 design, 5 qualitative, 3 theoretical, 2 associational), `q1`–`q4` · 14 of 65 report an effect size · 63 claims rest on one study
 
 ## Description
 A simulation is an interactive model of a real or hypothetical system — physical, biological, economic, social, or procedural — in which learners take actions, observe the consequences, and adjust their approach. Unlike a [Demonstration](demonstration.md), which presents expert performance for observation, a simulation makes the learner the actor, embedding practice inside a simplified environment where errors are safe and consequences are visible.
@@ -125,6 +125,9 @@ Simulations support learning by making system dynamics explorable: learners buil
 - [Patient simulation is the most prevalent role in higher education, concentrated in medical training contexts](../claims/higher-education-patient-simulator-role.md) [~W]
 - [An LX design integrating an immersive VR simulation in an inquiry-based Physics learning environment was enacted with 109 high-school students and evaluated for conceptual learning gains](../claims/lx-design-immersive-vr-special-relativity-109-students.md) [+W] — attached 2026-10-29 from Yiannis Georgiou et al. (2023), which proposed "Immersive VR simulation of the Special Theory of Relativity for high-school Physics".
 - [Simulated embodied experience in a virtual environment accelerated Chinese vocabulary learning more than a traditional web-based context](../claims/ve-context-accelerates-chinese-vocabulary-learning.md) [+W]
+- [Teacher candidates moved from abstract inclusivity ideals to specific instructional and relational strategies after the simulation](../claims/simulation-shift-abstract-to-actionable-inclusivity.md) [+M] — attached 2026-10-29 from Hoda Harati et al. (2026), which proposed "Building Inclusive Classrooms simulation (SchoolSims platform)"; tests this page's relationship.
+- [The simulation increased teacher candidates' confidence and self-efficacy for addressing sensitive topics, but did not alleviate concerns about parent and administrator backlash](../claims/simulation-confidence-gain-persistent-backlash-concerns.md) [~M] — attached 2026-10-29 from Hoda Harati et al. (2026), which proposed "Building Inclusive Classrooms simulation (SchoolSims platform)"; tests this page's relationship.
+- [Teacher educators found the simulation fostered critical thinking and reflection but faced integration, accessibility, and binary-decision limitations](../claims/teacher-educators-simulation-value-and-challenges.md) [~M] — attached 2026-10-29 from Hoda Harati et al. (2026), which proposed "Building Inclusive Classrooms simulation (SchoolSims platform)".
 
 ## Design Decisions
 <!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice
@@ -203,6 +206,7 @@ Simulations support learning by making system dynamics explorable: learners buil
 - [Use fidelity-aware simulated patients as a low-risk complement to supervision for deliberate psychotherapy practice](../strategies/fidelity-aware-simulated-patients-deliberate-practice.md)
 - [Implement AI simulations as complements within a stepped simulation continuum, with layered interaction modes and blended feedback](../strategies/stepped-ai-simulation-integration-strategies.md)
 - [Vocational education programs should let trainees experience and reflect on authentic errors, e.g. via error management training and negative knowledge-diaries](../strategies/error-management-training-negative-knowledge-diaries.md)
+- [Deliver a short post-exploration instructional video to complement science simulations](../strategies/short-post-simulation-video-strategy.md)
 
 ## Key Sources
 - Garris, R., Ahlers, R., & Driskell, J. E. (2002). Games, motivation, and learning: A research and practice model. *Simulation & Gaming, 33*(4), 441–467. [doi:10.1177/1046878102238607](https://doi.org/10.1177/1046878102238607)

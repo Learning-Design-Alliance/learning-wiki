@@ -51,3 +51,4 @@ Cincinnati Public Schools experiment comparing four biology classes taught by te
 - [In telecast mathematics, high-ability pupils did better with conventional instruction while average-ability pupils did better watching television](tv-math-ability-interaction.md) — related
 - [Televised Navy indoctrination instruction produced no differences in achievement scores compared with conventional instruction](navy-televised-indoctrination-no-achievement-differences.md) — related
 - [In the 1957-58 national television-in-schools experiment, more control-versus-experimental comparisons favored television than favored control classes](tv-in-schools-comparisons-favor-television.md) — a broader claim this one bears on
+- [Televised lecture instruction produced no significant achievement-test differences versus traditional campus sections in a psychology and a biology course](tv-lecture-no-achievement-difference-1955.md) — reports the opposite

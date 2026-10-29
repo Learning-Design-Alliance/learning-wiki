@@ -49,3 +49,5 @@ Commentary abstract stating the paper's position: it responds to Nacu et al.'s (
 - [Realizing the full potential of the Nacu et al. heuristic requires repositioning online learning as a knowledge-building environment](online-learning-as-knowledge-building-environment.md) — related
 - [Nacu, Martin, and Pinkard's heuristic method addresses the questions educators faced during the COVID-19 school closures](nacu-heuristic-method-covid-relevance.md) — related
 - [Heuristics alone do not prepare network designers or teachers to enact student-centered online learning environments](heuristics-alone-insufficient-for-student-centered-online-learning.md) — related
+- [Nussbaum and colleagues argue critical thinking and creativity, intersected with grit, are central 21st-century components in online learning design](critical-thinking-creativity-grit-online-design.md) — related
+- [Meier and Stefaniak highlight educators' professional development and organizational support as policy-level needs for online learning](professional-development-organizational-support-policy.md) — related

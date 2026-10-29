@@ -143,3 +143,5 @@ This meta-analysis updated earlier work (Niemiec, Sikorski, & Walberg) on giving
 - [Animations often do not produce more effective learning than static visualizations, partly because their transience creates high working memory load](animations-transience-working-memory-load.md) — related
 - [The authors interpret the null movement effect as possibly due to experimenter-controlled video pacing obstructing children's memory encoding](experimenter-paced-segmentation-may-obstruct-encoding.md) — related
 - [Studying dynamic phenomena as discrete time steps supports students' understanding of system behavior compared with continuous-time equation-derived processes.](discrete-time-steps-support-understanding.md) — related
+- [Cognitive load shows a triple interaction with visual cognitive style, pacing, and visualization, driven by the static pictures condition](cognitive-load-triple-interaction-visual-style.md) — related
+- [Segmenting online multimedia lessons into short user-paced segments improves transfer and reduces cognitive load](segmenting-improves-transfer-and-reduces-load.md) — related

@@ -54,3 +54,4 @@ Theoretical argument in the review's introduction defining the jingle fallacy an
 - [Jingle-jangle fallacies plague motivation constructs, requiring explicit justification of construct distinctions](jingle-jangle-motivation-constructs.md) — related
 - [Embodiment research lacks a shared vocabulary, with over 20 distinct labels for embodiment-related concepts appearing in the last decade](embodiment-terminology-fragmentation-over-twenty-labels.md) — a narrower finding that bears on this claim
 - [Conceptual (theoretical/literature-based) papers are among the most highly cited in instructional technology journals](conceptual-papers-most-cited-instructional-technology.md) — related
+- [Conflating uncertainty with its sources or manifestations undermines cumulative theory building and cross-study comparison](uncertainty-conflation-undermines-theory-building.md) — a narrower finding that bears on this claim

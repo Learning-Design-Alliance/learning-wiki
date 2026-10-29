@@ -63,3 +63,4 @@ Random-effects meta-analysis of 61 primary studies (N = 7036) comparing animated
 - [Dynamic visualizations show a small average benefit over static visualizations, with gender among the moderators](dynamic-vs-static-visualization-meta-analysis-small-benefit.md) — related
 - [Animations can be superior to static graphics for learning tasks involving human motor movement](human-movement-effect-animations-motor-tasks.md) — a narrower finding that bears on this claim
 - [Dynamic slides did not improve knowledge acquisition compared to static slides](dynamic-slides-no-knowledge-benefit.md) — reports the opposite
+- [Animation outperforms static pictures for learning about a biological process with spoken narration](animation-outperforms-static-pictures-photosynthesis.md) — a narrower finding that bears on this claim

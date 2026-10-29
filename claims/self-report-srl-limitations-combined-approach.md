@@ -50,3 +50,5 @@ In the limitations section, the authors discuss the contested status of self-rep
 
 - [Trace data tend to predict achievement better than self-reports, but self-reports of global SRL intensity can outperform traces](traces-predict-achievement-better-than-self-reports.md)
 - [Questionnaire data may capture learners' perceptions rather than the strategies they actually performed](questionnaires-measure-perception-not-performed-strategies.md) — possibly the same claim (merge candidate)
+- [Findings are limited by perception-based self-report measures and a single online context, requiring further research on generalizability](als-employability-study-limitations-perception-single-context.md) — related
+- [Integrating behavioral trace data with outcomes and self-report reveals feedback effects that perception and performance measures alone miss](behavioral-data-essential-for-feedback-evaluation.md) — possibly the same claim (merge candidate)

@@ -52,3 +52,4 @@ The review contrasts classroom pilots of Cognitive Tutor and LISTEN in the devel
 - [Fewer than 10% of recent ITS papers address most developing-world adoption barriers, and almost 95% of ITS research still targets traditional computers](its-barriers-low-research-coverage.md) — related
 - [Tablet-PC-supported peer-assisted learning reduced EFL learners' anxiety and promoted motivation and confidence in collaborative reading](tablet-pc-peer-assisted-learning-reduces-anxiety.md) — related
 - [ICT-enabled learning improves schoolgirls' access to resources, knowledge, and skills](ict-improves-girls-access-resources.md) — related
+- [Technological prerequisites such as internet access and device availability were identified only by the South African panel, with equity of education as a distal outcome](technological-prerequisites-south-african-panel-equity.md) — related

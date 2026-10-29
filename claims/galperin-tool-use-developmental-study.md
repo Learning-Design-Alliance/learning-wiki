@@ -46,3 +46,4 @@ Galperin's early study (1998) of tool-mediated actions in five groups of 10 chil
 
 ## Related Claims
 - [Cue type, tracking mode, and age produced a significant three-way interaction on preschoolers' recall performance](three-way-interaction-age-cue-tracking-recall.md) — related
+- [Students varied in the speed of their developmental progressions but all reached the highest phase](varied-progression-speed-area-reasoning.md) — related

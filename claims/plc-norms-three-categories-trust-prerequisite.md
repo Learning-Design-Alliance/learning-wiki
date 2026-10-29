@@ -95,3 +95,4 @@ Cross-study synthesis of norm development. The review states that "productive no
 - [The quality of inter-group interactions shifted from brief, superficial exchanges to long, detailed, collaborative discussions as community norms were negotiated](adlab-interaction-quality-shifted-from-superficial-to-collaborative.md) — related
 - [SCMD activity systems exhibit three categories of rules and four types of participant roles](scmd-rules-and-division-of-labor.md) — related
 - [GenAI can act as an active participant in professional learning communities, transforming teacher knowledge construction](genai-active-participant-professional-learning-communities.md) — related
+- [Implementation challenges of adaptive learning classify into facilitators, barriers, and neutral challenges, and a single determinant can act as prerequisite, moderator, strategy, or outcome](determinants-valence-facilitators-barriers-neutral.md) — related

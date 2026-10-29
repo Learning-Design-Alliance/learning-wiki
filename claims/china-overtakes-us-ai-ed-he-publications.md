@@ -55,3 +55,4 @@ Country coding of the 138 included studies shows Asia had the largest share at 4
 - [The 22 reviewed AI-in-EFL studies are concentrated in Southeast Asia and predominantly use mixed-method and quasi-experimental designs](ai-efl-review-descriptive-distribution.md) — related
 - [Spain, the United Kingdom, Germany, Greece, and the United States conducted the most studies](countries-conducting-most-studies.md) — related
 - [Deployments concentrate in special education areas and primary/secondary institutions, with the USA leading country counts](deployment-areas-special-education-largest-share.md) — related
+- [First-author publication counts across 20 selected IDT journals (2005-2014) identify leading institutions worldwide, with Nanyang Technological University, National Taiwan Normal University, and National Central University at the top](idt-top-publishing-institutions-20-journals.md) — related

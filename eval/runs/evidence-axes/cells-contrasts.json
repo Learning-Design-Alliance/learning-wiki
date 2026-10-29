@@ -48858,5 +48858,345 @@
  "simulation\tsimulation with creation of the artificial buddy\tother iBuddy session components": {
   "label": "simulation component vs other iBuddy components",
   "treatment_is_a": true
+ },
+ "active-learning\tdoing phases: reconstruction and orchestration\thearing and seeing phases": {
+  "label": "active learning vs passive learning",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tlearners evaluate AI recommendations and retain ownership of learning\tsimply accepting AI recommendations": {
+  "label": "learner ownership and evaluation of AI recommendations vs acceptance of AI recommendations",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tExpanded instructional video\tno-video control": {
+  "label": "instructional video vs no instructional video",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tinstructional guide and examples\tno guide or assistance": {
+  "label": "instructional guide and examples vs no guide or assistance",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tinstructional guide and examples\tno such assistance": {
+  "label": "instructional guide and examples vs no guide or assistance",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tinstructional guide with examples\tno guide or assistance": {
+  "label": "instructional guide and examples vs no guide or assistance",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tinstructional guide with examples for providing feedback\tno instructional guide or assistance": {
+  "label": "instructional guide and examples for providing feedback vs no instructional guide or assistance",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tinstructional guide with tips and examples\tno guide or assistance": {
+  "label": "instructional guide, tips, and examples vs no guide or assistance",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\ttechnology integration course with models, observation, discussion, design and enactment\tlack of attention to technology use in the prior master program": {
+  "label": "technology-integration instruction vs no attention to technology use",
+  "treatment_is_a": true
+ },
+ "fading\tPost-intervention paper-and-pencil tests after AR and instructor scaffolding were withdrawn\tbaseline paper-and-pencil test before the AR intervention": {
+  "label": "post-fading assessment vs pre-intervention baseline",
+  "treatment_is_a": true
+ },
+ "fading\tPost-intervention tests after AR activities and instructor support were withdrawn\tbaseline before AR activities": {
+  "label": "post-fading assessment vs pre-intervention baseline",
+  "treatment_is_a": true
+ },
+ "fading\tpost-intervention paper-and-pencil tests after scaffold withdrawal\tbaseline performance before AR activities": {
+  "label": "post-fading assessment vs pre-intervention baseline",
+  "treatment_is_a": true
+ },
+ "fading\tpost-intervention paper-and-pencil tests without AR or instructor support\tperformance during the intervention with AR and instructor support": {
+  "label": "faded support vs support maintained",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tGradeMark online feedback\tprevious feedback practices with no positive or constructive written feedback": {
+  "label": "feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tGradeMark online feedback\tprevious manual submission with little or no detailed feedback": {
+  "label": "feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tpractice testing with feedback\tpractice testing without feedback": {
+  "label": "feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-timing\tAI immediate feedback during self-paced practice\tnot stated": {
+  "label": "immediate vs delayed feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tGenAI-generated SRL feedback\ttutor-generated SRL feedback": {
+  "label": "AI-generated vs human-generated feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tLA-based personalized feedback\tgeneric feedback": {
+  "label": "Learning-analytics-personalized vs generic feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tLA-based personalized feedback\tgeneric feedback messages": {
+  "label": "Learning-analytics-personalized vs generic feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tLA-based personalized feedback\tgeneric messages": {
+  "label": "Learning-analytics-personalized vs generic feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tLA-based personalized feedback messages\tgeneric instructor messages": {
+  "label": "Learning-analytics-personalized vs generic feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tLA-driven GenAI feedback\thuman tutor feedback": {
+  "label": "AI-generated vs human-generated feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tlearning analytics-based personalized feedback\tgeneric feedback messages": {
+  "label": "Learning-analytics-personalized vs generic feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tlearning-analytics-based personalized feedback emails\tgeneric feedback emails": {
+  "label": "Learning-analytics-personalized vs generic feedback",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tAssessmake21 dashboard used to monitor progress and adjust teaching\tnot reported": {
+  "label": "formative progress monitoring and instructional adjustment vs no reported formative monitoring",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tPOED two-tier diagnostic feedback in VR\tPOEE factual evaluation feedback in VR": {
+  "label": "two-tier diagnostic feedback vs factual evaluative feedback",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tPOED-based VR with two-tier diagnostic assessment\tPOEE-based VR with conventional evaluation": {
+  "label": "two-tier diagnostic assessment vs conventional evaluative assessment",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tPOED-based VR with two-tier diagnostic assessment\tPOEE-based VR with factual evaluation": {
+  "label": "two-tier diagnostic assessment vs factual evaluative assessment",
+  "treatment_is_a": true
+ },
+ "gamification\tunobtrusive gamified assessment\tassessment that feels judgmental": {
+  "label": "Unobtrusive gamified assessment vs judgmental assessment",
+  "treatment_is_a": true
+ },
+ "mastery-learning\tAI-supported personalized mastery learning with practice and review until mastery\tnon-mastery or fixed-pacing learning": {
+  "label": "mastery learning vs non-mastery learning",
+  "treatment_is_a": true
+ },
+ "mastery-learning\tpersonalized mastery-based learning\texposure to new or unexpected content": {
+  "label": "mastery learning vs non-mastery learning",
+  "treatment_is_a": true
+ },
+ "media-design\tanimation\tstatic pictures": {
+  "label": "animation vs static pictures",
+  "treatment_is_a": true
+ },
+ "media-design\tblack-on-white\twhite-on-black": {
+  "label": "black-on-white vs white-on-black",
+  "treatment_is_a": true
+ },
+ "media-design\tconversational narration and personalization\tformal expository narration": {
+  "label": "conversational and personalized narration vs formal expository narration",
+  "treatment_is_a": true
+ },
+ "media-design\tconversational narration and wording\tformal expository style": {
+  "label": "conversational wording and style vs formal expository style",
+  "treatment_is_a": true
+ },
+ "media-design\tcueing conditions\tno cueing condition": {
+  "label": "cueing vs no cueing",
+  "treatment_is_a": true
+ },
+ "media-design\tlapel microphone\tother microphone condition(s)": {
+  "label": "lapel microphone vs other microphone",
+  "treatment_is_a": true
+ },
+ "media-design\tlight cue\tno cue": {
+  "label": "light cue vs no cue",
+  "treatment_is_a": true
+ },
+ "media-design\tmultimedia lesson with seductive details\tmultimedia lesson without seductive details": {
+  "label": "multimedia lesson with seductive details vs without seductive details",
+  "treatment_is_a": true
+ },
+ "media-design\tnarration speed up to 1.8 times\tusual narration speed": {
+  "label": "accelerated narration vs usual narration speed",
+  "treatment_is_a": true
+ },
+ "media-design\tpedagogical agent cue\tno cue": {
+  "label": "pedagogical-agent cue vs no cue",
+  "treatment_is_a": true
+ },
+ "media-design\tsegmented multimedia lessons\tcontinuous unbroken multimedia lessons": {
+  "label": "segmented multimedia lessons vs continuous unbroken multimedia lessons",
+  "treatment_is_a": true
+ },
+ "media-design\tshort, user-paced segments\tone continuous unit": {
+  "label": "short user-paced segments vs one continuous unit",
+  "treatment_is_a": true
+ },
+ "media-design\tsystem-paced learning environment\tself-paced learning environment": {
+  "label": "system-paced vs self-paced learning",
+  "treatment_is_a": true
+ },
+ "media-design\tsystem-paced static pictures for highly developed visualizers\tself-paced static pictures for highly developed visualizers": {
+  "label": "system-paced vs self-paced learning",
+  "treatment_is_a": true
+ },
+ "media-design\ttwo TV cameras\tone TV camera": {
+  "label": "two TV cameras vs one TV camera",
+  "treatment_is_a": true
+ },
+ "other\t#question emoji\t#just-curious emoji": {
+  "label": "#question emoji vs #just-curious emoji",
+  "treatment_is_a": true
+ },
+ "practice-amount\tgreater exposure time to GraphoGame learning content\tless exposure time": {
+  "label": "greater vs less exposure time",
+  "treatment_is_a": true
+ },
+ "prompts\tIntegrated training with development portfolio, regulation prompts, and shared control\tOriginal ATC-skills training": {
+  "label": "Self-regulation prompts vs no self-regulation prompts",
+  "treatment_is_a": true
+ },
+ "prompts\tintegrated portfolio with metadata, regulation prompts, and shared control\toriginal ATC-skills-only program without portfolio or regulation prompts": {
+  "label": "Self-regulation prompts vs no self-regulation prompts",
+  "treatment_is_a": true
+ },
+ "prompts\tintegrated program with development portfolio and regulation prompts\toriginal ATC-skills program without portfolio prompts": {
+  "label": "Self-regulation prompts vs no self-regulation prompts",
+  "treatment_is_a": true
+ },
+ "prompts\tintegrated program with development portfolio and regulation prompts\toriginal ATC-skills-only program": {
+  "label": "Self-regulation prompts vs no self-regulation prompts",
+  "treatment_is_a": true
+ },
+ "prompts\tintegrated program with development portfolio, regulation prompts, and shared control\toriginal ATC-skills-only program": {
+  "label": "Self-regulation prompts vs no self-regulation prompts",
+  "treatment_is_a": true
+ },
+ "prompts\tintegrated training with development portfolio, metadata, regulation prompts, and shared control\toriginal ATC-skills training": {
+  "label": "Self-regulation prompts vs no self-regulation prompts",
+  "treatment_is_a": true
+ },
+ "prompts\tmetaphor prompt\tdirect questions": {
+  "label": "Metaphor prompts vs direct-question prompts",
+  "treatment_is_a": true
+ },
+ "prompts\tself-monitoring and reflective questioning\tnot stated": {
+  "label": "Self-monitoring and reflective prompts vs no stated prompts",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tlow-stakes practice testing\tno-activity control or restudy": {
+  "label": "practice testing vs no practice/restudy",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tpractice testing\tno activity or restudy": {
+  "label": "practice testing vs no practice/restudy",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tmonetary incentives for lecturers\tno monetary incentives": {
+  "label": "monetary incentives vs no monetary incentives",
+  "treatment_is_a": true
+ },
+ "scaffolding\tAI-adjusted learning based on learner needs and available time\tthe existing educational system": {
+  "label": "adaptive/personalized scaffolding vs conventional instruction",
+  "treatment_is_a": true
+ },
+ "scaffolding\tinstructor verbal prompting during AR activities\tstudent counting one by one without the prompting": {
+  "label": "instructor verbal prompting vs no prompting",
+  "treatment_is_a": true
+ },
+ "scaffolding\treal-time visual scaffolding\tno real-time visual scaffolding": {
+  "label": "real-time visual scaffolding vs no visual scaffolding",
+  "treatment_is_a": true
+ },
+ "scaffolding\tvisual scaffolding group\tnon-scaffolding control group": {
+  "label": "visual scaffolding vs no scaffolding",
+  "treatment_is_a": true
+ },
+ "self-explanation\tprompts presented before instruction\tprompts embedded throughout or placed at the end": {
+  "label": "pre-instruction prompts vs embedded/post-instruction prompts",
+  "treatment_is_a": true
+ },
+ "self-explanation\tself-explanation prompts\tno prompts": {
+  "label": "self-explanation prompts vs no prompts",
+  "treatment_is_a": true
+ },
+ "simulation\tBranching simulation with decision-making and reflection\ttraditional lecture or discussion": {
+  "label": "Branching decision-making simulation with reflection vs traditional lecture/discussion",
+  "treatment_is_a": true
+ },
+ "simulation\tLGBTQ+-centered online story-based simulation\tnot stated": {
+  "label": "Online story-based simulation vs unspecified comparison",
+  "treatment_is_a": true
+ },
+ "simulation\tLGBTQ+-centered story-based online simulation\tpre-simulation responses": {
+  "label": "Online simulation vs pre-simulation responses",
+  "treatment_is_a": true
+ },
+ "simulation\tcomputer game format\ttraditional essays and lecture attendance": {
+  "label": "Computer game format vs traditional essays and lecture attendance",
+  "treatment_is_a": true
+ },
+ "simulation\tcomputer simulation game requiring face-to-face teamwork\ttraditional group work format": {
+  "label": "Computer-based teamwork simulation game vs traditional group work",
+  "treatment_is_a": true
+ },
+ "simulation\tcomputer-based learning game\treport writing": {
+  "label": "Computer-based learning game vs report writing",
+  "treatment_is_a": true
+ },
+ "simulation\tcomputer-based teamwork simulation game\ttraditional group work": {
+  "label": "Computer-based teamwork simulation game vs traditional group work",
+  "treatment_is_a": true
+ },
+ "simulation\tcomputer-based teamwork simulation game\ttraditional group work format": {
+  "label": "Computer-based teamwork simulation game vs traditional group work",
+  "treatment_is_a": true
+ },
+ "simulation\tcomputer-based teamwork simulation game\ttraditional report writing and lectures": {
+  "label": "Computer-based teamwork simulation game vs report writing and lectures",
+  "treatment_is_a": true
+ },
+ "simulation\tcomputer-based teamwork simulation game requiring collaboration\ttraditional group work format": {
+  "label": "Computer-based teamwork simulation game vs traditional group work",
+  "treatment_is_a": true
+ },
+ "simulation\tonline LGBTQ+-centered decision-based simulation\tpre-simulation responses": {
+  "label": "Online simulation vs pre-simulation responses",
+  "treatment_is_a": true
+ },
+ "simulation\tonline story-based LGBTQ+ decision simulation\tpre-simulation responses": {
+  "label": "Online simulation vs pre-simulation responses",
+  "treatment_is_a": true
+ },
+ "simulation\tonline story-based LGBTQ+ simulation\tpre-simulation responses": {
+  "label": "Online simulation vs pre-simulation responses",
+  "treatment_is_a": true
+ },
+ "simulation\tonline story-based simulation with branching decisions and reflection\tpre-simulation responses": {
+  "label": "Online simulation vs pre-simulation responses",
+  "treatment_is_a": true
+ },
+ "simulation\tonline story-based simulation with reflective prompts and branching decisions\tpre-simulation responses": {
+  "label": "Online simulation vs pre-simulation responses",
+  "treatment_is_a": true
+ },
+ "simulation\tscenario-based assessment\ttraditional testing": {
+  "label": "Scenario-based assessment vs traditional testing",
+  "treatment_is_a": true
+ },
+ "test-format\tshort-answer or free-recall practice tests\tmultiple-choice or recognition tests": {
+  "label": "Free-recall vs recognition tests",
+  "treatment_is_a": true
+ },
+ "test-format\ttwo-tier test-based bird identification game\tconventional e-learning approach": {
+  "label": "Test-based game vs conventional e-learning",
+  "treatment_is_a": true
+ },
+ "worked-examples\tworked-example exploratory strategy\tother exploratory strategies": {
+  "label": "worked-example exploratory strategy vs other exploratory strategies",
+  "treatment_is_a": true
  }
 }

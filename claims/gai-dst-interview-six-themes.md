@@ -61,3 +61,4 @@ Qualitative thematic analysis of 30-minute semi-structured interviews with 10 ra
 - [GAI tools enriched student ideation, aesthetic development and confidence in architecture and design education, especially for lower-competency learners](gai-tools-ideation-architecture-design-lower-competency.md) — related
 - [IDs reported that GenAI increased their efficiency by reducing the time it takes to write and create](genai-reduced-writing-time-efficiency.md) — related
 - [Students in the chatbot-assisted SRL condition reported personalized learning opportunities, enhanced reflection, and improved performance in interviews](srl-cgf-student-perceptions-interviews.md) — related
+- [Interviewed POED students reported the two-tier test fostered deep learning, self-checking, and reflection on misconceptions](poed-interviews-deep-learning-reflection.md) — related

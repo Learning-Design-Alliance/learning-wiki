@@ -56,3 +56,4 @@ Reported in the brief's key takeaways from the eight-state discussion groups. Ma
 - [Schools that had previously invested in technology and professional development for digital learning responded more quickly to the shift to online teaching during COVID-19 closures](prior-digital-investment-greater-ert-capacity.md) — related
 - [The Covid-19 pandemic increased the design workload of university teachers as they migrated teaching online](pandemic-increased-design-workload-online-migration.md) — related
 - [The COVID-19 shift to online learning in higher education caused panic and discomfort because many instructors lacked skills, resources, and didactic aptitude](pandemic-remote-shift-instructor-unpreparedness.md) — related
+- [Wikipedia assignments required minimal adaptation during the COVID-19 transition to distance learning](wikipedia-assignments-covid-distance-learning.md) — related

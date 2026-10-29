@@ -70,3 +70,5 @@ Thematic analysis of interviews across the pilot districts identified four barri
 - [Thematic analysis of teacher interviews identifies barriers to implementation and factors for success](mast-implementation-barriers-success-factors.md) — related
 - [No statistically significant stakeholder differences on Literacy, Curriculum, Instruction and Assessment, Community Partnerships, Collaborative Leadership, or Data and Privacy](no-significant-differences-on-five-frs-lf-constructs.md) — related
 - [Educators face challenges at the student level, teacher level, and institutional level](makerspace-three-level-challenges.md) — related
+- [Leadership commitment to adaptive learning was identified by both panels as a prerequisite, strengthened by strategy alignment and communication of empirical results](leadership-commitment-prerequisite-implementation.md) — related
+- [Leadership support and stakeholder connectivity support sustainability of innovations](leadership-connectivity-support-sustainability.md) — related

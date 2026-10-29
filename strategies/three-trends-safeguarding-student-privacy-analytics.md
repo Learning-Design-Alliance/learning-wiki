@@ -47,6 +47,7 @@ Drawing on Ochoa and Wise's practitioner response, the article identifies three 
 - [Involve teachers as co-designers of AI-based intelligent systems, with agency to train, correct, interpret, and override system recommendations](teacher-co-design-human-centered-ai-systems.md)
 - [Apply an affective data governance framework: minimization, purpose limitation, consent, human oversight, and separation from evaluation](affective-data-governance-safeguards.md)
 - [Establish AI-specific evaluation and accountability systems using independent audits, role-based dashboards, and privacy and equity safeguards](independent-audits-role-based-dashboards-ai-accountability.md)
+- [Human–AI collaboration design positioning students as leaders who assess AI-generated options](human-ai-collaboration-learner-as-leader.md)
 
 ## Examples
 -

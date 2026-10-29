@@ -113,3 +113,4 @@ The chapter reports Eglington and Kang (2016), who reused Tran et al.'s material
 - [Retrieval practice improved literal premise recall but did not improve deductive inference transfer compared to restudy](retrieval-practice-premise-recall-not-inference-transfer.md) — reports the opposite
 - [The testing effect has been demonstrated across a variety of mostly low-element-interactivity materials, but problem-solving tasks had received very little testing-effect research attention](testing-effect-established-verbal-materials-not-problem-solving.md) — related
 - [No intervention benefits on source references in students' written conclusions (far transfer question)](sourcing-intervention-no-far-transfer-benefit.md) — related
+- [Practice testing outperforms no-activity controls and restudy, with format and feedback moderators](practice-testing-superior-to-restudy.md) — related

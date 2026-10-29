@@ -87,3 +87,5 @@ Narrative synthesis of prior GAI-in-education literature in the introduction. Th
 - [GenAI consolidates multiple core pedagogical functions within a single technological interface, a scaling effect qualitatively distinct from prior educational tools](genai-consolidates-pedagogical-functions-single-interface.md) — related
 - [Current course learning design practices do not consider what and how data should be generated for learning analytics, limiting LA implementation](current-course-design-lacks-la-data-sourcing.md) — related
 - [Graduate students reported maintaining or gaining a sense of agency when working with a GenAI research assistant](genai-use-preserves-or-strengthens-student-agency.md) — related
+- [Learner control over pace improves learning while control over pedagogical aspects undermines it, with prior-knowledge and outcome-type moderators](learner-control-pace-versus-pedagogical.md) — related
+- [Teacher educators found the simulation fostered critical thinking and reflection but faced integration, accessibility, and binary-decision limitations](teacher-educators-simulation-value-and-challenges.md) — a narrower finding that bears on this claim

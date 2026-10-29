@@ -51,3 +51,4 @@ The review's unobtrusive data collection synthesis (Table 6) identifies accuracy
 - [Automated detectors of disengaged behaviors inferred from interaction-log data alone reached AUC over 0.8 for gaming and correlated 0.55 with observed off-task behavior](sensor-free-disengagement-detectors-accuracy.md) — related
 - [Serious games can provide an authentic physical context and task for professional competencies, though a small number of successful games used neither](serious-games-authentic-context-task.md) — related
 - [Serious games are frequently successful in teaching, training, or assessing professional competencies, with reported success rates of 84% for cognitive skills, 83% for knowledge, and 100% for motor skills](serious-games-successful-professional-competencies.md) — related
+- [Adult learners prefer scenario-based, unobtrusive gamified, and competency-based assessment in AI-powered learning](adult-learners-ai-assessment-preferences.md) — related

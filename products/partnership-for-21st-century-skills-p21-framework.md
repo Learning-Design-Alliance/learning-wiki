@@ -20,6 +20,7 @@ A framework developed by the Partnership for 21st Century Skills that organizes 
 
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
+- **P21's framework for twenty-first century learning adapted for AI-era teacher competencies**: The article applies P21's framework for twenty-first century learning to identify four key teacher competencies for online teaching with AI: core subjects, 3Rs and twenty-first century themes; learning and innovation skills; information, media and technology skills; and life and career skills. It emphasizes that teacher competencies "should not only focus on acquisition of basic AI knowledge and skills, but also cultivation of the qualities necessary for the teacher's adaptation to, survival in and control over future society". Examples span AI writing assistants, book recommendation systems, and workplace AI capability sets. (Davy Tsz Kit Ng et al. (2023))
 
 ### Claims
 
@@ -31,3 +32,4 @@ A framework developed by the Partnership for 21st Century Skills that organizes 
 
 ## Key Sources
 - Dede, C. (2009). Comparing Frameworks for "21st Century Skills". Harvard Graduate School of Education. https://eric.ed.gov
+- Davy Tsz Kit Ng, Jac Ka Lok Leung, Jiahong Su, Ross Chi Wui Ng, Samuel Kai Wah Chu. (2023). Teachers' AI digital competencies and twenty-first century skills in the post-pandemic world. Education Tech Research Dev. https://doi.org/10.1007/s11423-023-10203-6

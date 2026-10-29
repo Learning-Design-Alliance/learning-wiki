@@ -91,3 +91,6 @@ Completion-sample participants answered the 5-question NASA-TLX after each task.
 - [Speechreading training does not significantly improve subjectively perceived everyday listening effort or hearing abilities](speechreading-training-no-subjective-hearing-gain.md) — related
 - [Subjective cognitive workload decreases across teleoperation training and lower workload is associated with higher performance](workload-decreases-with-teleoperation-skill.md) — related
 - [Cognitive load during the IVR-based PVAS task was generally low despite unsatisfactory perception and interpretation performance](ivr-pvas-low-cognitive-load-poor-performance.md) — related
+- [NASA-TLX workload dimensions were significantly intercorrelated, including mental demand with effort (r = 0.768) and performance negatively with frustration (r = −0.443)](nasa-tlx-dimension-correlations-design.md) — related
+- [Designer workload across an 11-module instructional design model for product development averaged normal-to-high (50–75%)](nasa-tlx-normal-high-workload-design-process.md) — related
+- [Providing video feedback is easier than ever, making its cost-benefit question timely](video-feedback-easier-than-ever.md) — related

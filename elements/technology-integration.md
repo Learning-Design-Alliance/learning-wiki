@@ -13,7 +13,7 @@ generated:
 # Technology Integration
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 127 claims (59 for, 58 mixed, 10 against) · 109 studies (22 associational, 22 qualitative, 19 causal, 18 review, 12 design, 11 quant-synthesis, 5 theoretical), `q1`–`q4` · 20 of 109 report an effect size · 124 claims rest on one study
+> **Evidence** · 128 claims (59 for, 59 mixed, 10 against) · 110 studies (22 associational, 22 qualitative, 19 causal, 18 review, 13 design, 11 quant-synthesis, 5 theoretical), `q1`–`q4` · 20 of 110 report an effect size · 125 claims rest on one study
 
 ## Description
 Technology integration is the element in which digital tools are used in direct service of learning goals, feedback, access, or collaboration.
@@ -152,6 +152,7 @@ Technology integration is the element in which digital tools are used in direct 
 - [A developmental teaching approach, positive technology attitudes and expectations, and perceived principal support related to a high extent of technology integration](../claims/teacher-perceptions-related-to-technology-integration.md) [~W]
 - [Academics reconstructed teacher identities by integrating accessible digital tools such as WhatsApp and Google Earth into teaching](../claims/accessible-digital-tools-identity-reconstruction.md) [+W]
 - [Digital instructional leadership is positively associated with comprehensive AI integration in schools](../claims/digital-instructional-leadership-ai-integration.md) [~W]
+- [Teachers' most frequently cited barrier to classroom technology use was lack of access to technology, on both pre- and post-surveys](../claims/technology-access-top-barrier-for-teachers.md) [~W]
 
 ## The evidence by question
 - *Does building AI tools into instruction raise achievement over teaching the same content without them, and in which settings?* [AI-supported instruction has a moderate positive effect on student achievement in STEM education (g = 0.670 under a random effects model)](../claims/ai-instruction-stem-moderate-positive-effect.md) [+M]

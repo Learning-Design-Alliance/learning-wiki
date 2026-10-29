@@ -74,3 +74,4 @@ Interrater reliability analysis on an out-of-sample comparison dataset of 134 do
 - [Two-phase machine learning approach detects causal relations and chains in student essays](machine-learning-detects-causal-relations-essays.md) — related
 - [A non-fine-tuned pre-trained sentiment analysis model achieves moderate agreement with human coders of student open-ended answers](pretrained-sa-moderate-agreement.md) — related
 - [An automated scoring engine matched experienced human markers yet was rejected over the confidentiality-explainability conflict](crase-scoring-equivalent-to-human-markers-rejected.md) — related
+- [GPT-3 classified students' open-ended responses about teaching practices with reliability similar to that of human coders](gpt3-coding-reliability-similar-to-humans.md) — related

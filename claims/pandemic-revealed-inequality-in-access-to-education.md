@@ -55,3 +55,4 @@ The author's editorial assertion in the introduction of this commentary, offered
 - [Higher education digital divides are acute at MSIs, HBCUs, and TCUs, which have stark capability deficits in hardware, software, and broadband](msi-hbcu-tcu-digital-capability-deficits.md) — a narrower finding that bears on this claim
 - [Technology access problems during the COVID shift were more prevalent among minoritized students and students from lower-income households](covid-stem-tech-access-inequity.md) — a narrower finding that bears on this claim
 - [Digital learning environments during the pandemic raise implications for addressing social inequities and education policy reform](digital-environments-social-inequities-policy-reform.md) — a broader claim this one bears on
+- [Assaf argues the pandemic shift to digital is a mindset shift, not only a technology shift, modeled via an instructional interface analogy](digital-shift-mindset-not-only-technology.md) — related

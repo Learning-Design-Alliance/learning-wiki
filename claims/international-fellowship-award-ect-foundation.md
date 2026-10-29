@@ -46,3 +46,4 @@ The memorial describes the International Fellowship Award, initiated by deKieffe
 
 ## Related Claims
 - [deKieffer taught one of the first distance learning classes via television from the University of Colorado](early-distance-learning-class-television.md) — related
+- [Handbook authorship and AECT awards are markedly less internationally diverse than journal publication, suggesting a North American bias in those indicators](handbook-awards-north-american-bias.md) — related

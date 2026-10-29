@@ -52,3 +52,4 @@ A controlled comparison study with 382 4th and 5th grade students using an intel
 - [Students who collaborated (in collaborative and combined conditions) reported higher situational interest in the fractions activity](collaborating-students-higher-situational-interest.md) — related
 - [Students in the combined condition tended to make fewer errors and request fewer hints over time than students in individual-only or collaborative-only conditions](combined-condition-fewer-errors-and-hints.md) — related
 - [Students learning fractions with an AIED system achieved the best outcomes in a condition mixing individual and collaborative work rather than wholly either mode](combined-individual-collaborative-its-best-outcomes.md) — related
+- [In the UK study, students using the combined ITS & ELE condition showed significant conceptual learning gains while the ITS-only condition did not](uk-combination-conceptual-gains.md) — related

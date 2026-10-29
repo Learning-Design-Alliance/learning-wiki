@@ -61,3 +61,4 @@ Qualitative thematic analysis of workshop metaphors. Three themes emerged: GenAI
 - [Multi-modal representations created during collaboration act as metaphors that shape joint reasoning and meaning making](multimodal-representations-as-metaphors-joint-reasoning.md) — related
 - [Educators view ANVIL as a creative collaborator requiring instructor control and editability, not an autonomous content creator](anvil-educators-instructor-control-editability.md) — related
 - [Human relationships are primary means of education, and knowledge of humans' unlearned tendencies is necessary to efficient planning for education in general.](instincts-and-people-as-educational-means-foundation.md) — related
+- [Online feedback is valued by introverted learners for its relational and expressive role, providing a private one-to-one exchange that avoids face-threat](online-feedback-relational-role-introverted-learners.md) — related

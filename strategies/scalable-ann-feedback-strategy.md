@@ -49,6 +49,7 @@ The article recommends automatic adaptive feedback in simulations as a way to gi
 - [Use synthetic LLM-generated error datasets for AI tutors, teachable agents, and teacher professional development](synthetic-error-datasets-for-tutors-teachable-agents-teacher-pd.md)
 - [Use simulated student sections as a scalable supplement to teacher training and lesson preparation](simulated-role-play-teacher-training-supplement.md)
 - [Adaptive scenario generation: introduce training scenarios targeting weaknesses identified from real-time performance metrics](astra-adaptive-scenario-generation.md)
+- [Use teaching approximations (role play, microteaching) to scaffold pre-service teachers' pedagogical reasoning](teaching-approximations-pedagogical-reasoning.md)
 
 ## Examples
 -

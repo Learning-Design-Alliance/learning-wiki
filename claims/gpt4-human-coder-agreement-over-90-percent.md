@@ -50,3 +50,4 @@ Inter-coder agreement analysis comparing human expert coding with ChatGPT coding
 - [A GPT-4-based coding scheme achieved over 90% inter-coder agreement, surpassing results reported for specialised pre-2017 AI (~80%)](gpt4-surpasses-specialised-intelligence-agreement.md) — possibly the same claim (merge candidate)
 - [Human–GPT coding agreement varied sharply by code, with near-chance or negative Kappa for co-ordination codes despite near-perfect agreement on others](gpt4-kappa-varies-by-dialogue-code.md) — related
 - [Human-LLM agreement on a complex multi-label codebook falls well below human-human agreement, while LLM-LLM agreement is comparable to human-human agreement](human-llm-agreement-gap-jaccard.md) — related
+- [GPT-3 classified students' open-ended responses about teaching practices with reliability similar to that of human coders](gpt3-coding-reliability-similar-to-humans.md) — related

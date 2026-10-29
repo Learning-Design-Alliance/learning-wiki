@@ -54,3 +54,4 @@ The review's synthesis of prior and reviewed systems (Section 2.1.2 and Findings
 - [Text-based conversational interfaces were preferred over speech or embodied formats in healthcare AI trust studies, attributed to perceptions of reliability](text-based-interfaces-preferred-for-trust.md) — related
 - [Embodied teaching actions are spatially accurate across models, but temporal action–speech alignment remains more variable](lecturaagents-taq-spatial-strong-temporal-variable.md) — related
 - [Critical knowledge traditions theorise technology as an artefact embodying social, cultural and political practices](critical-traditions-technology-as-artefact.md) — related
+- [Adult learners perceive immersive game-based platforms and interactive AI interfaces as effective mediums for enhancing learner-AI artifact-mediated interaction](immersive-platforms-interactive-interfaces-artifact-mediated.md) — related

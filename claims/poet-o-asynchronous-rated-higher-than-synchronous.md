@@ -51,3 +51,4 @@ In the four-facet Rasch model, asynchronous lessons scored M = −0.19 (SE = 0.0
 - [Synchronous online discussions improve self-regulation more than asynchronous online discussions](synchronous-discussion-improves-self-regulation.md) — reports the opposite
 - [The 4-category rating scale of the POET-O functions properly overall but its threshold structure could be improved](poet-o-rating-scale-functions-with-disordered-thresholds.md) — related
 - [The POET-O demonstrates adequate construct validity and reliability for peer evaluation of single online lessons](poet-o-valid-reliable-peer-evaluation-online-lessons.md) — related
+- [The free, self-paced micro-courses showed an 82% completion retention rate, and most participants found the online, asynchronous format appealing](micro-courses-high-retention-and-format-appeal.md) — related
