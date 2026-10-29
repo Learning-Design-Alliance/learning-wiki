@@ -57,6 +57,18 @@ Same repetition experiment with 319 college freshmen: the fourth showing of a fi
 > "Four showings re- sulted in an even smaller increment, or in two cases a slight decrement, over three showings."
 -->
 
+<!-- merged 2026-10-29 from mctavish-fourth-showing-smaller-increment-or-decrement: that page's entry for this study, which differed from the one above, kept verbatim.
+### RESEARCH ABSTRACTS: FILMS 1953
+
+RESEARCH ABSTRACTS: FILMS. (1953). Research abstracts, p. 819. https://eric.ed.gov/?q=Instructional+Film+Research+Program
+
+`q2 · i?`
+
+Same repetition experiment with 319 college freshmen: the fourth showing of a film was compared against three showings on post-test learning gains. The article reports "an even smaller increment, or in two cases a slight decrement, over three showings."
+
+> "Four showings re- sulted in an even smaller increment, or in two cases a slight decrement, over three showings."
+-->
+
 ## Discussion
 
 
@@ -65,4 +77,3 @@ Same repetition experiment with 319 college freshmen: the fourth showing of a fi
 
 - [A second showing of an educational film produced substantial learning increments, but a third showing failed to add materially or significantly](second-film-showing-substantial-third-adds-little.md) — related
 - [Repeating an instructional film increases learning only up to a point](film-repetition-increases-learning-up-to-a-point.md) — a broader claim this one bears on
-- [A fourth showing of an educational film yields an even smaller increment, or in two cases a slight decrement, over three showings](mctavish-fourth-showing-smaller-increment-or-decrement.md)

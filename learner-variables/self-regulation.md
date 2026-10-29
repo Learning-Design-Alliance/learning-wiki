@@ -257,7 +257,7 @@ Whether a learner can plan, monitor and adjust without the structure being suppl
 - [Synchronous online discussions improve self-regulation more than asynchronous online discussions](../claims/synchronous-discussion-improves-self-regulation.md) [+M] — instruction changes it
 - [A self-regulated science inquiry approach benefited elementary students' self-regulation and science learning performance](../claims/self-regulated-science-inquiry-benefits-elementary.md) [+M] — instruction changes it
 - [The co-creation environment significantly influenced post-test self-regulation after controlling for the pretest](../claims/cocreation-environment-causal-self-regulation.md) [+M] — instruction changes it
-- [Low-SRL students receiving GenAI feedback improved significantly in goal-setting skills compared to tutor-feedback peers](../claims/genai-feedback-improves-low-srl-goal-setting.md) [+M] — an instructional effect differs with it
+- [Low-SRL students receiving GenAI feedback scored higher than tutor-feedback peers on LMS log measures of goal setting](../claims/genai-feedback-improves-low-srl-goal-setting.md) [+M] — an instructional effect differs with it
 - [Metacognitive strategies such as self-monitoring and reflective questioning have been shown to mitigate epistemic uncertainty](../claims/metacognitive-strategies-mitigate-epistemic-uncertainty.md) [+W] — learners who differ on it differ in outcomes
 
 ## The evidence by question

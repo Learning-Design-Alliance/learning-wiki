@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-29
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: pala-ferhat-kadir-2020
     resource: "https://doi.org/10.1007/s11423-020-09817-x"
@@ -18,6 +19,10 @@ sources:
 ---
 
 # Item factor loadings in the CFA ranged from 0.42 to 0.79 and were statistically significant by t values
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` All 32 items showed statistically significant factor loadings between 0.42 and 0.79, with only one item below 0.50. [→ Pala Ferhat Kadir 2020](#pala-ferhat-kadir-2020)

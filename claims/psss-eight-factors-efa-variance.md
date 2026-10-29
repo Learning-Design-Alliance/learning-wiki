@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-29
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: pala-ferhat-kadir-2020
     resource: "https://doi.org/10.1007/s11423-020-09817-x"
@@ -18,6 +19,10 @@ sources:
 ---
 
 # Exploratory factor analysis of the participation style scale yields four Why factors and four How factors explaining over 53% of variance in each dimension
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` EFA on 450 participants produced a four-factor structure in both the Why and How dimensions, with the Why dimension explaining 53.58% and the How dimension explaining 54.31% of total variance. [→ Pala Ferhat Kadir 2020](#pala-ferhat-kadir-2020)

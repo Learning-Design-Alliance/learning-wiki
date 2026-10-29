@@ -11,7 +11,8 @@ evidence_strength: moderate
 newest_evidence: 1953
 sources:
   - id: janis-1953
-    title: "Janis, Irving L., and Feshbach, Seymour. (1953). Effects of Fear-Arousing Communications. Journal of Abnormal and Social Psychology 48: 78-92."
+    resource: "https://doi.org/10.1037/h0060732"
+    title: "Janis, Irving L., and Feshbach, Seymour. (1953). Effects of Fear-Arousing Communications. Journal of Abnormal and Social Psychology 48: 78-92. [doi:10.1037/h0060732](https://doi.org/10.1037/h0060732)"
     author: Janis, Irving L., and Feshbach, Seymour
     q: 3
     i: "?"
@@ -32,7 +33,7 @@ sources:
 
 ### Janis 1953
 
-Janis, Irving L., and Feshbach, Seymour. (1953). Effects of Fear-Arousing Communications. Journal of Abnormal and Social Psychology 48: 78-92.
+Janis, Irving L., and Feshbach, Seymour. (1953). Effects of Fear-Arousing Communications. Journal of Abnormal and Social Psychology 48: 78-92. [doi:10.1037/h0060732](https://doi.org/10.1037/h0060732)
 
 `q3 · i?` · `causal · r1`
 

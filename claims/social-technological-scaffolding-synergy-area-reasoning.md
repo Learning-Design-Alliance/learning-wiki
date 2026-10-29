@@ -9,11 +9,12 @@ generated:
   at: 2026-10-29
 evidence_strength: weak
 newest_evidence: 2025
+source_checked: 2026-10-29
 sources:
   - id: eunhye-flavin-2025
     resource: "https://doi.org/10.1007/s11423-025-10502-0"
-    title: "Eunhye Flavin, Moon Chung, Sunghwa Flavin, Matthew T. Flavin. (2025). Augmented reality for area measurement reasoning of elementary students. Education Tech Research Dev. https://doi.org/10.1007/s11423-025-10502-0"
-    author: Eunhye Flavin, Moon Chung, Sunghwa Flavin, Matthew T. Flavin
+    title: "Flavin, E., Chung, M., Hwang, S., & Flavin, M. T. (2025). Augmented reality for area measurement reasoning of elementary students. *Educational Technology Research and Development, 73*(4), 2663–2697. [doi:10.1007/s11423-025-10502-0](https://doi.org/10.1007/s11423-025-10502-0)"
+    author: "Flavin, E., Chung, M., Hwang, S., & Flavin, M. T."
     q: 2
     i: "?"
     kind: qualitative
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-10-29 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Through interaction with the AR app and instructor questioning, a student moved from counting individual units to coordinating rows and columns and multiplying to find area. [→ Eunhye Flavin 2025](#eunhye-flavin-2025)
@@ -33,7 +34,7 @@ sources:
 
 ### Eunhye Flavin 2025
 
-Eunhye Flavin, Moon Chung, Sunghwa Flavin, Matthew T. Flavin. (2025). Augmented reality for area measurement reasoning of elementary students. Education Tech Research Dev. https://doi.org/10.1007/s11423-025-10502-0
+Flavin, E., Chung, M., Hwang, S., & Flavin, M. T. (2025). Augmented reality for area measurement reasoning of elementary students. *Educational Technology Research and Development, 73*(4), 2663–2697. [doi:10.1007/s11423-025-10502-0](https://doi.org/10.1007/s11423-025-10502-0)
 
 `q2 · i?` · `qualitative · r2`
 

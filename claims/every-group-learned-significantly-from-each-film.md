@@ -57,6 +57,18 @@ Pre-test/post-test comparison in the McTavish repetition study (319 college fres
 > "In every case the difference between the pre-test and post- test scores was highly significant, indicating that every group learned from each film."
 -->
 
+<!-- merged 2026-10-29 from every-group-learned-from-each-film-significant-pre-post: that page's entry for this study, which differed from the one above, kept verbatim.
+### RESEARCH ABSTRACTS: FILMS 1953
+
+RESEARCH ABSTRACTS: FILMS. (1953). Research abstracts, p. 819. https://eric.ed.gov/?q=Instructional+Film+Research+Program
+
+`q2 · i?`
+
+Pre-test/post-test comparison in the McTavish repetition study (319 college freshmen, four general science films, one to four showings). The article reports the pre-post difference "was highly significant" in every case, with no test statistic printed.
+
+> "In every case the difference between the pre-test and post- test scores was highly significant, indicating that every group learned from each film."
+-->
+
 ## Discussion
 
 

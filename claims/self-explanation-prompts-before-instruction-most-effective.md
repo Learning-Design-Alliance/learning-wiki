@@ -9,6 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: moderate
 newest_evidence: 2023
+source_checked: 2026-10-29
 sources:
   - id: thomas-m-cavanagh-2023
     resource: "https://doi.org/10.1007/s11423-022-10181-1"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · checked against its sources 2026-10-29 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A meta-analysis found self-explanation prompts prior to instruction are more effective than prompts embedded throughout or placed at the end, though prompts at any time had a significant positive impact. [→ Thomas M. Cavanagh 2023](#thomas-m-cavanagh-2023)

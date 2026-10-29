@@ -1,6 +1,6 @@
 {
 "counts":{
-"claim":33695,
+"claim":33698,
 "design":1309,
 "element":1057,
 "learner-variable":75,
@@ -10,7 +10,7 @@
 "process":18,
 "product":2265,
 "research-method":815,
-"strategy":7564,
+"strategy":7566,
 "theory":1360
 },
 "kinds":[
@@ -58843,6 +58843,7 @@
 "id":"composite-shape-misconceptions-persist-mid-intervention",
 "newest_evidence":"2025",
 "path":"claims/composite-shape-misconceptions-persist-mid-intervention.md",
+"source_checked":"2026-10-29",
 "status":"review",
 "title":"Students who could solve basic shape problems still showed misconceptions on composite shape problems mid-intervention",
 "type":"claim"
@@ -117842,6 +117843,16 @@
 "type":"claim"
 },
 {
+"description":"Focus group interviews with active and non-participating (lurking) students indicated that reasons for participation form a determinant dimension of online participation",
+"evidence_strength":"weak",
+"id":"focus-groups-why-dimension-grounds-scale",
+"newest_evidence":"2020",
+"path":"claims/focus-groups-why-dimension-grounds-scale.md",
+"status":"review",
+"title":"Focus group interviews with active and non-participating (lurking) students indicated that reasons for participation form a determinant dimension of online participation",
+"type":"claim"
+},
+{
 "description":"After the Focus on High Schools initiative, days absent, days tardy, and student suspensions were lower",
 "evidence_strength":"weak",
 "id":"focus-high-schools-lower-absences-tardies-suspensions",
@@ -125967,13 +125978,13 @@
 "type":"claim"
 },
 {
-"description":"Low-SRL students receiving GenAI feedback improved significantly in goal-setting skills compared to tutor-feedback peers",
+"description":"Low-SRL students receiving GenAI feedback scored higher than tutor-feedback peers on LMS log measures of goal setting",
 "evidence_strength":"moderate",
 "id":"genai-feedback-improves-low-srl-goal-setting",
 "newest_evidence":"2026",
 "path":"claims/genai-feedback-improves-low-srl-goal-setting.md",
 "status":"review",
-"title":"Low-SRL students receiving GenAI feedback improved significantly in goal-setting skills compared to tutor-feedback peers",
+"title":"Low-SRL students receiving GenAI feedback scored higher than tutor-feedback peers on LMS log measures of goal setting",
 "type":"claim"
 },
 {
@@ -140341,6 +140352,7 @@
 "id":"heuristics-alone-insufficient-for-student-centered-online-learning",
 "newest_evidence":"2021",
 "path":"claims/heuristics-alone-insufficient-for-student-centered-online-learning.md",
+"source_checked":"2026-10-29",
 "status":"review",
 "title":"Heuristics alone do not prepare network designers or teachers to enact student-centered online learning environments",
 "type":"claim"
@@ -147594,6 +147606,7 @@
 "id":"identity-conceptions-transformation-tpack",
 "newest_evidence":"2023",
 "path":"claims/identity-conceptions-transformation-tpack.md",
+"source_checked":"2026-10-29",
 "status":"review",
 "title":"Identity-oriented teaching conceptions are positively correlated with Transformation-level TPACK and negatively with Replacement and Amplification levels in SVVR-supported writing instruction",
 "type":"claim"
@@ -220811,6 +220824,7 @@
 "id":"online-learning-as-knowledge-building-environment",
 "newest_evidence":"2021",
 "path":"claims/online-learning-as-knowledge-building-environment.md",
+"source_checked":"2026-10-29",
 "status":"review",
 "title":"Realizing the full potential of the Nacu et al. heuristic requires repositioning online learning as a knowledge-building environment",
 "type":"claim"
@@ -241748,6 +241762,7 @@
 "id":"practice-testing-superior-to-restudy",
 "newest_evidence":"2023",
 "path":"claims/practice-testing-superior-to-restudy.md",
+"source_checked":"2026-10-29",
 "status":"review",
 "title":"Practice testing outperforms no-activity controls and restudy, with format and feedback moderators",
 "type":"claim"
@@ -252106,6 +252121,46 @@
 "type":"claim"
 },
 {
+"description":"Confirmatory factor analysis supports a second-level participation style model with four combined styles and acceptable fit indices",
+"evidence_strength":"moderate",
+"id":"psss-cfa-four-styles-confirmed",
+"newest_evidence":"2020",
+"path":"claims/psss-cfa-four-styles-confirmed.md",
+"status":"review",
+"title":"Confirmatory factor analysis supports a second-level participation style model with four combined styles and acceptable fit indices",
+"type":"claim"
+},
+{
+"description":"The scale's internal consistency is acceptable, with Cronbach's alpha of 0.89 for the full scale and 0.70–0.85 for its four style factors",
+"evidence_strength":"moderate",
+"id":"psss-cronbach-alpha-reliability",
+"newest_evidence":"2020",
+"path":"claims/psss-cronbach-alpha-reliability.md",
+"status":"review",
+"title":"The scale's internal consistency is acceptable, with Cronbach's alpha of 0.89 for the full scale and 0.70–0.85 for its four style factors",
+"type":"claim"
+},
+{
+"description":"Exploratory factor analysis of the participation style scale yields four Why factors and four How factors explaining over 53% of variance in each dimension",
+"evidence_strength":"moderate",
+"id":"psss-eight-factors-efa-variance",
+"newest_evidence":"2020",
+"path":"claims/psss-eight-factors-efa-variance.md",
+"status":"review",
+"title":"Exploratory factor analysis of the participation style scale yields four Why factors and four How factors explaining over 53% of variance in each dimension",
+"type":"claim"
+},
+{
+"description":"Item factor loadings in the CFA ranged from 0.42 to 0.79 and were statistically significant by t values",
+"evidence_strength":"moderate",
+"id":"psss-item-loadings-significant",
+"newest_evidence":"2020",
+"path":"claims/psss-item-loadings-significant.md",
+"status":"review",
+"title":"Item factor loadings in the CFA ranged from 0.42 to 0.79 and were statistically significant by t values",
+"type":"claim"
+},
+{
 "description":"Most preservice teachers were overconfident in the completeness of their fraction comparison explanations at both first draft and revision",
 "evidence_strength":"moderate",
 "id":"pst-overconfidence-fraction-explanation-calibration",
@@ -253479,6 +253534,7 @@
 "id":"qims-lessons-increase-self-directed-learning-creative-thinking",
 "newest_evidence":"2023",
 "path":"claims/qims-lessons-increase-self-directed-learning-creative-thinking.md",
+"source_checked":"2026-10-29",
 "status":"review",
 "title":"Students' self-directed learning and creative thinking skills increased significantly after QIMS inquiry-based lessons",
 "type":"claim"
@@ -265026,16 +265082,6 @@
 "path":"claims/retracted-worked-examples-more-efficient-than-high-assistance-software.md",
 "status":"review",
 "title":"The article's title asserts that worked examples are more efficient for learning than high-assistance instructional software, but the article has been retracted due to a clerical error and no supporting content is present in this document",
-"type":"claim"
-},
-{
-"description":"The article on social media use for informal learning in Saudi Arabian higher education professional development was retracted because it was published in error",
-"evidence_strength":"weak",
-"id":"retraction-social-media-informal-learning-saudi-higher-ed-published-in-error",
-"newest_evidence":"2025",
-"path":"claims/retraction-social-media-informal-learning-saudi-higher-ed-published-in-error.md",
-"status":"review",
-"title":"The article on social media use for informal learning in Saudi Arabian higher education professional development was retracted because it was published in error",
 "type":"claim"
 },
 {
@@ -279308,6 +279354,7 @@
 "id":"self-explanation-prompts-before-instruction-most-effective",
 "newest_evidence":"2023",
 "path":"claims/self-explanation-prompts-before-instruction-most-effective.md",
+"source_checked":"2026-10-29",
 "status":"review",
 "title":"Self-explanation prompts placed before instruction are more effective than those embedded during or placed after instruction",
 "type":"claim"
@@ -286161,6 +286208,7 @@
 "id":"simulation-game-team-role-self-reflection",
 "newest_evidence":"2021",
 "path":"claims/simulation-game-team-role-self-reflection.md",
+"source_checked":"2026-10-29",
 "status":"review",
 "title":"A computer-based simulation game helped students apply theoretical team-role knowledge to identify team roles in practice and evaluate their own performance in a role",
 "type":"claim"
@@ -290976,6 +291024,7 @@
 "id":"social-technological-scaffolding-synergy-area-reasoning",
 "newest_evidence":"2025",
 "path":"claims/social-technological-scaffolding-synergy-area-reasoning.md",
+"source_checked":"2026-10-29",
 "status":"review",
 "title":"Instructor questioning combined with the AR app's virtual rows and columns supported students' shift to multiplicative reasoning",
 "type":"claim"
@@ -331399,16 +331448,6 @@
 "path":"claims/tv-viewing-age-11-lower-math-age-17-males.md",
 "status":"review",
 "title":"TV viewing at age 11 is negatively associated with mathematics ability at age 17 among male adolescents",
-"type":"claim"
-},
-{
-"description":"A 1950-1954 survey found declining TV viewing time among high-school pupils and widespread perceptions that pupils read less",
-"evidence_strength":"weak",
-"id":"tv-viewing-habits-survey-1950-1954",
-"newest_evidence":"1954",
-"path":"claims/tv-viewing-habits-survey-1950-1954.md",
-"status":"review",
-"title":"A 1950-1954 survey found declining TV viewing time among high-school pupils and widespread perceptions that pupils read less",
 "type":"claim"
 },
 {
@@ -400314,6 +400353,14 @@
 "type":"strategy"
 },
 {
+"description":"The article recommends using the scale diagnostically before discussion design.",
+"id":"assess-participation-styles-before-designing-discussions",
+"path":"strategies/assess-participation-styles-before-designing-discussions.md",
+"status":"review",
+"title":"Administer the participation style scale before organizing online discussion environments to tailor facilitation to learner styles",
+"type":"strategy"
+},
+{
 "description":"The review recommends moving beyond event-based assessment of early life stress by incorporating factors that influence children's interpretation of stressors.",
 "id":"assess-perception-predictability-safety-with-events",
 "path":"strategies/assess-perception-predictability-safety-with-events.md",
@@ -449702,6 +449749,14 @@
 "type":"strategy"
 },
 {
+"description":"The discussion section offers style-specific design recommendations.",
+"id":"style-matched-discussion-facilitation",
+"path":"strategies/style-matched-discussion-facilitation.md",
+"status":"review",
+"title":"Match facilitation and platform features to each participation style: notifications and likes for socializers, instructor presence for information seekers, and clear instructions with minimal-effort access for requirement fulfillers",
+"type":"strategy"
+},
+{
 "description":"The article recommends adapting tablet input to young children's limited visual-motor coordination.",
 "id":"stylus-input-enlarged-touch-targets-toddlers",
 "path":"strategies/stylus-input-enlarged-touch-targets-toddlers.md",
@@ -480246,6 +480301,7 @@
 "focus-coach-mindset-self-efficacy-emotion-regulation-gains":"focus-coach-mindset-self-efficacy-emotion-regulation-gains",
 "focus-coach-null-independent-work-single-item":"focus-coach-null-independent-work-single-item",
 "focus-coach-within-session-focus-increase":"focus-coach-within-session-focus-increase",
+"focus-groups-why-dimension-grounds-scale":"focus-groups-why-dimension-grounds-scale",
 "focus-high-schools-lower-absences-tardies-suspensions":"focus-high-schools-lower-absences-tardies-suspensions",
 "focus-high-schools-math-english-score-reductions":"focus-high-schools-math-english-score-reductions",
 "focus-high-schools-promotion-increase-special-education":"focus-high-schools-promotion-increase-special-education",
@@ -493413,6 +493469,10 @@
 "psp1-screening-apd-prevalence-2-9-percent":"psp1-screening-apd-prevalence-2-9-percent",
 "psrbvbq-scales-internal-consistency":"psrbvbq-scales-internal-consistency",
 "psrbvbq-three-factor-structure-romanian-teachers":"psrbvbq-three-factor-structure-romanian-teachers",
+"psss-cfa-four-styles-confirmed":"psss-cfa-four-styles-confirmed",
+"psss-cronbach-alpha-reliability":"psss-cronbach-alpha-reliability",
+"psss-eight-factors-efa-variance":"psss-eight-factors-efa-variance",
+"psss-item-loadings-significant":"psss-item-loadings-significant",
 "pst-overconfidence-fraction-explanation-calibration":"pst-overconfidence-fraction-explanation-calibration",
 "pst-rely-informal-help-sources":"pst-rely-informal-help-sources",
 "pst-tpack-increased-programming-simulations-sequence":"pst-tpack-increased-programming-simulations-sequence",
@@ -494687,7 +494747,6 @@
 "retirements-resignations-contributed-shortages":"retirements-resignations-contributed-shortages",
 "retos-percibidos-lers-exactitud-seguridad-acceso":"retos-percibidos-lers-exactitud-seguridad-acceso",
 "retracted-worked-examples-more-efficient-than-high-assistance-software":"retracted-worked-examples-more-efficient-than-high-assistance-software",
-"retraction-social-media-informal-learning-saudi-higher-ed-published-in-error":"retraction-social-media-informal-learning-saudi-higher-ed-published-in-error",
 "retrieval-augmentation-essential-local-llm-below-tfidf":"retrieval-augmentation-essential-local-llm-below-tfidf",
 "retrieval-based-learning-direct-indirect-effects":"retrieval-based-learning-direct-indirect-effects",
 "retrieval-beats-restudy-without-ratings":"retrieval-beats-restudy-without-ratings",
@@ -501242,7 +501301,6 @@
 "tv-research-90-percent-no-substantial-differences":"tv-research-90-percent-no-substantial-differences",
 "tv-science-conventional-better-average-below":"tv-science-conventional-better-average-below",
 "tv-viewing-age-11-lower-math-age-17-males":"tv-viewing-age-11-lower-math-age-17-males",
-"tv-viewing-habits-survey-1950-1954":"tv-viewing-habits-survey-1950-1954",
 "tvns-easy-pairing-enhances-speech-category-learning":"tvns-easy-pairing-enhances-speech-category-learning",
 "tvns-easy-performance-outside-normal-learning-variability":"tvns-easy-performance-outside-normal-learning-variability",
 "tvns-enhancement-not-reward-driven":"tvns-enhancement-not-reward-driven",
@@ -509668,6 +509726,7 @@
 "assess-linearity-before-universal-growth-mindset-intervention":"assess-linearity-before-universal-growth-mindset-intervention",
 "assess-mathematics-when-reading-difficulties-present":"assess-mathematics-when-reading-difficulties-present",
 "assess-organisational-readiness-determinants-selection":"assess-organisational-readiness-determinants-selection",
+"assess-participation-styles-before-designing-discussions":"assess-participation-styles-before-designing-discussions",
 "assess-perception-predictability-safety-with-events":"assess-perception-predictability-safety-with-events",
 "assess-process-over-product-staged-tasks":"assess-process-over-product-staged-tasks",
 "assess-promote-flexibility-from-fourth-grade":"assess-promote-flexibility-from-fourth-grade",
@@ -516124,6 +516183,7 @@
 "study-sustaining-and-beat-the-odds-schools-strategy":"study-sustaining-and-beat-the-odds-schools-strategy",
 "study-why-subgroup-test-effort-differs":"study-why-subgroup-test-effort-differs",
 "study_of_written_models":"study_of_written_models",
+"style-matched-discussion-facilitation":"style-matched-discussion-facilitation",
 "stylus-input-enlarged-touch-targets-toddlers":"stylus-input-enlarged-touch-targets-toddlers",
 "subgoal-hints-in-proof-tutoring":"subgoal-hints-in-proof-tutoring",
 "subgroup-specific-el-support-strategies":"subgroup-specific-el-support-strategies",

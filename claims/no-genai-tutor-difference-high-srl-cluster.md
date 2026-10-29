@@ -47,6 +47,6 @@ In the quasi-experiment's high cluster (26 students per condition), Mann–Whitn
 ## Related Claims
 - [Low-SRL students receiving GenAI feedback showed significantly higher post-intervention overall SRLs scores than tutor-feedback peers](genai-feedback-improves-low-srl-composite.md) — related
 - [The GenAI feedback group showed a statistically significant post-intervention improvement in the Task Strategies dimension of SRL compared with the tutor group](genai-feedback-improved-task-strategies-srl.md) — related
-- [Low-SRL students receiving GenAI feedback improved significantly in goal-setting skills compared to tutor-feedback peers](genai-feedback-improves-low-srl-goal-setting.md) — related
+- [Low-SRL students receiving GenAI feedback scored higher than tutor-feedback peers on LMS log measures of goal setting](genai-feedback-improves-low-srl-goal-setting.md) — related
 - [Time Management showed a marginally significant post-intervention difference favouring GenAI feedback, while Goal Setting, Help Seeking and Self-Evaluation showed no significant differences](genai-feedback-tm-marginal-other-srl-null.md) — related
 - [Under blind conditions, students rated GenAI feedback more positively than tutor-generated feedback, with a statistically significant difference only on Genuineness favouring GenAI](genai-feedback-rated-higher-genuineness-blind.md) — related

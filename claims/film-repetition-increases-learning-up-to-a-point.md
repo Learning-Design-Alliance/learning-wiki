@@ -50,5 +50,4 @@ In the same experiment, the effect of repetition was studied by showing the film
 - [Audience participation during a factual film improves learning of the practiced verbal material compared with simple viewing, with gains attributable to practice rather than motivation](audience-participation-practice-gains.md) — related
 - [A slow rate of development in an instructional film is more helpful to learning than a fast rate](slow-film-rate-of-development-aids-learning.md) — related
 - [A fourth showing of an educational film yields an even smaller increment, or in two cases a slight decrement, over three showings](fourth-film-showing-smaller-increment-or-decrement.md) — a narrower finding that bears on this claim
-- [Repetition of an educational film yields substantial learning gains on the first repetition (two showings), but a third showing adds little](film-repetition-first-repetition-substantial-gains.md)
-- [A fourth showing of an educational film yields an even smaller increment, or in two cases a slight decrement, over three showings](mctavish-fourth-showing-smaller-increment-or-decrement.md)
+- [Repetition of an educational film yields substantial learning gains on the first repetition (two showings), but a third showing adds little](second-film-showing-substantial-third-adds-little.md)

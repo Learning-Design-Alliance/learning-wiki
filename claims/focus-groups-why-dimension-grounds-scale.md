@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-29
 evidence_strength: weak
+newest_evidence: 2020
 sources:
   - id: pala-ferhat-kadir-2020
     resource: "https://doi.org/10.1007/s11423-020-09817-x"
@@ -18,6 +19,10 @@ sources:
 ---
 
 # Focus group interviews with active and non-participating (lurking) students indicated that reasons for participation form a determinant dimension of online participation
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q1` argument or single case
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Qualitative focus group data suggested the 'why' factor may be determinant in participating in online forums, grounding the Why dimension of the scale. [→ Pala Ferhat Kadir 2020](#pala-ferhat-kadir-2020)

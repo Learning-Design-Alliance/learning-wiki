@@ -11,7 +11,8 @@ evidence_strength: weak
 newest_evidence: 1955
 sources:
   - id: evans-1955
-    title: Evans, Richard I.; Roney, H. Burr; and McAdams, Walter J. (1955). An Evaluation of the Effectiveness of Instruction and Audience Reaction to Programming an Educational Television Station. Journal of Applied Psychology, 39, 277-79.
+    resource: "https://doi.org/10.1037/h0042123"
+    title: "Evans, Richard I.; Roney, H. Burr; and McAdams, Walter J. (1955). An Evaluation of the Effectiveness of Instruction and Audience Reaction to Programming an Educational Television Station. Journal of Applied Psychology, 39, 277-79. [doi:10.1037/h0042123](https://doi.org/10.1037/h0042123)"
     author: Evans, Richard I.; Roney, H. Burr; and McAdams, Walter J.
     q: 2
     i: "?"
@@ -32,7 +33,7 @@ sources:
 
 ### Evans 1955
 
-Evans, Richard I.; Roney, H. Burr; and McAdams, Walter J. (1955). An Evaluation of the Effectiveness of Instruction and Audience Reaction to Programming an Educational Television Station. Journal of Applied Psychology, 39, 277-79.
+Evans, Richard I.; Roney, H. Burr; and McAdams, Walter J. (1955). An Evaluation of the Effectiveness of Instruction and Audience Reaction to Programming an Educational Television Station. Journal of Applied Psychology, 39, 277-79. [doi:10.1037/h0042123](https://doi.org/10.1037/h0042123)
 
 `q2 · i?` · `causal · r1`
 

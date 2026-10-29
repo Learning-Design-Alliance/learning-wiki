@@ -11,8 +11,9 @@ evidence_strength: moderate
 newest_evidence: 1954
 sources:
   - id: lasser-1954
-    title: "Lasser, S. (1954). The Impact of Visual Aid Displays Showing a Manipulative Task. The Quarterly Journal of Experimental Psychology, 6: Part 3, 95-106."
-    author: Lasser, S.
+    resource: "https://doi.org/10.1080/17470215408416655"
+    title: "Laner, S. (1954). The Impact of Visual Aid Displays Showing a Manipulative Task. *Quarterly Journal of Experimental Psychology, 6*(3), 95-106. [doi:10.1080/17470215408416655](https://doi.org/10.1080/17470215408416655)"
+    author: Laner, S.
     q: 2
     i: "?"
     kind: causal
@@ -32,7 +33,7 @@ sources:
 
 ### Lasser 1954
 
-Lasser, S. (1954). The Impact of Visual Aid Displays Showing a Manipulative Task. The Quarterly Journal of Experimental Psychology, 6: Part 3, 95-106.
+Laner, S. (1954). The Impact of Visual Aid Displays Showing a Manipulative Task. *Quarterly Journal of Experimental Psychology, 6*(3), 95-106. [doi:10.1080/17470215408416655](https://doi.org/10.1080/17470215408416655)
 
 `q2 · i?` · `causal · r1`
 

@@ -45,6 +45,6 @@ Mann–Whitney U test on the composite score, computed as the mean of standardis
 
 
 ## Related Claims
-- [Low-SRL students receiving GenAI feedback improved significantly in goal-setting skills compared to tutor-feedback peers](genai-feedback-improves-low-srl-goal-setting.md) — a narrower finding that bears on this claim
+- [Low-SRL students receiving GenAI feedback scored higher than tutor-feedback peers on LMS log measures of goal setting](genai-feedback-improves-low-srl-goal-setting.md) — a narrower finding that bears on this claim
 - [No significant feedback-source differences were observed among high-SRL cluster students](no-genai-tutor-difference-high-srl-cluster.md) — related
 - [GenAI feedback aligned more reliably with LA-based ground-truth SRL data than tutor feedback](genai-feedback-reliability-vs-la-ground-truth.md) — related

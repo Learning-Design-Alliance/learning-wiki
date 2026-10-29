@@ -47,4 +47,4 @@ Retraction notice published by the article's authors in Educational Psychology R
 
 ## Related Claims
 - [Adding relevant pictures or graphics to text improves learning from it, with a small pooled effect on reading comprehension, though whether dual coding explains the benefit is disputed](dual-coding-improves-learning.md) — related
-- [The article on social media use for informal learning in Saudi Arabian higher education professional development was retracted because it was published in error](retraction-social-media-informal-learning-saudi-higher-ed-published-in-error.md) — related
+- The article on social media use for informal learning in Saudi Arabian higher education professional development was retracted because it was published in error — related

@@ -16,6 +16,9 @@ sources:
 
 # Match facilitation and platform features to each participation style: notifications and likes for socializers, instructor presence for information seekers, and clear instructions with minimal-effort access for requirement fulfillers
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The discussion section offers style-specific design recommendations. For To Socialize/Connective participants, "having features such as instant notifications and likes can increase the interactions of learners with this participation style." For To Get Information/Analytical participants, instructor presence matters, and "different facilitation methods or the empowering of students to manage contextual discussions can be used to increase the interaction and participation of the learners." For To Fulfill Requirements/Practical participants, "it should be ensured that the instructions are clear and access to the system is possible with minimal effort for these participants."
 

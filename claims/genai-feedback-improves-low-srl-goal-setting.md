@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Low-SRL students receiving GenAI feedback improved significantly in goal-setting skills compared to tutor-feedback peers
-description: Low-SRL students receiving GenAI feedback improved significantly in goal-setting skills compared to tutor-feedback peers
+title: Low-SRL students receiving GenAI feedback scored higher than tutor-feedback peers on LMS log measures of goal setting
+description: Low-SRL students receiving GenAI feedback scored higher than tutor-feedback peers on LMS log measures of goal setting
 id: genai-feedback-improves-low-srl-goal-setting
 status: review
 generated:
@@ -20,14 +20,14 @@ sources:
     rigour: 2
 ---
 
-# Low-SRL students receiving GenAI feedback improved significantly in goal-setting skills compared to tutor-feedback peers
+# Low-SRL students receiving GenAI feedback scored higher than tutor-feedback peers on LMS log measures of goal setting
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q3 i3` In the low SRLs cluster, the GenAI group scored significantly higher on post-intervention goal setting than the tutor group (r = 0.388). [→ Mutluhan Yilmaz 2026](#mutluhan-yilmaz-2026)
+`q3 i3` In the low SRLs cluster, the GenAI group scored significantly higher than the tutor group on post-intervention goal setting as measured from LMS log data (a behavioural proxy, not a direct skill test) (r = 0.388). [→ Mutluhan Yilmaz 2026](#mutluhan-yilmaz-2026)
 
 ## Evidence
 

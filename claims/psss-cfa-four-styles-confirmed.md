@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-29
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: pala-ferhat-kadir-2020
     resource: "https://doi.org/10.1007/s11423-020-09817-x"
@@ -18,6 +19,10 @@ sources:
 ---
 
 # Confirmatory factor analysis supports a second-level participation style model with four combined styles and acceptable fit indices
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Second-level CFA with 693 participants showed acceptable fit for the participation style model combining Why and How factors into four styles (RMSEA = 0.051, CFI = 0.97, NNFI = 0.96). [→ Pala Ferhat Kadir 2020](#pala-ferhat-kadir-2020)

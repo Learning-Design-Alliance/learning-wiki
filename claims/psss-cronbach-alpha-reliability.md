@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-29
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: pala-ferhat-kadir-2020
     resource: "https://doi.org/10.1007/s11423-020-09817-x"
@@ -18,6 +19,10 @@ sources:
 ---
 
 # The scale's internal consistency is acceptable, with Cronbach's alpha of 0.89 for the full scale and 0.70–0.85 for its four style factors
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Cronbach's alpha reached 0.89 for the full 32-item scale and ranged from 0.70 to 0.85 across the four combined style factors. [→ Pala Ferhat Kadir 2020](#pala-ferhat-kadir-2020)
