@@ -52,3 +52,4 @@ The article's abstract states this as a framing claim about why "Student growth 
 - [The Memphis value-added model estimates school effects on student performance while adjusting for mobility, demographics, and measurement error](memphis-model-adjusts-mobility-demographics-measurement-error.md) — a narrower finding that bears on this claim
 - [Value-added error rates apply to measuring both teacher and school performance in the upper elementary grades using student test score gain data](value-added-error-rates-teacher-and-school-upper-elementary.md) — related
 - [A low alpha for an error-prone covariate can attenuate, inflate, or artificially produce a spurious effect (phantom effect) in the coefficient of a perfectly reliable predictor](low-alpha-covariate-phantom-effect.md) — related
+- [Unprincipled inclusion of covariates ('garbage-can regression') can introduce rather than remove bias](garbage-can-regression-fallibility.md) — related

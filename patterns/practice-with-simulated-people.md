@@ -14,7 +14,7 @@ grain_size: unit
 # Practice with Simulated People
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 130 claims (60 for, 54 mixed, 16 against) · 65 studies (16 causal, 15 review, 12 quant-synthesis, 9 qualitative, 9 design, 4 theoretical), `q1`–`q4` · 17 of 65 report an effect size · 125 claims rest on one study
+> **Evidence** · 131 claims (61 for, 54 mixed, 16 against) · 66 studies (16 causal, 16 review, 12 quant-synthesis, 9 qualitative, 9 design, 4 theoretical), `q1`–`q4` · 17 of 66 report an effect size · 126 claims rest on one study
 
 ## Description and scope
 
@@ -159,6 +159,7 @@ This pattern is scoped to rehearsal of an interaction with a person who responds
 - [The empirical evidence for claimed pedagogical benefits of virtual characters is weak and inconclusive](../claims/virtual-character-pedagogical-benefits-weak-evidence.md) [-W]
 - [A communication robot as cooperative learning partner elicited student interactions similar to those with human partners](../claims/robovie-cooperative-learning-partner-interactions.md) [~W]
 - [MR training produces considerably lower social presence than real-life exercises, with slightly lower physical presence](../claims/mr-lower-social-presence-than-rle.md) [~W]
+- [Patient simulation is the most prevalent role in higher education, concentrated in medical training contexts](../claims/higher-education-patient-simulator-role.md) [+W]
 
 ## Examples
 

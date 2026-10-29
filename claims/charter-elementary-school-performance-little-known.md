@@ -50,3 +50,4 @@ In the report's summary statement, the authors identify a knowledge gap, noting 
 - The article examines whether the type of charter-school authorizer relates to charter-school effectiveness as measured by student achievement trajectories in Ohio — related
 - [About 200 online charter schools operate in the United States, serving about 200,000 students across elementary, middle, and high school grades](online-charter-schools-200-schools-200000-students.md) — related
 - [Charter elementary schools show stronger reading growth while multi-level charter schools show significantly weaker growth in both subjects](pa-charter-impact-by-grade-configuration.md) — related
+- [Little is known about learning activity types used by educators during remote instruction](little-known-remote-instruction-activity-types.md) — a narrower finding that bears on this claim

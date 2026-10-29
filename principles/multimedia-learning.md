@@ -27,7 +27,7 @@ sources:
 # Multimedia Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 89 claims (35 for, 51 mixed, 3 against) · 68 studies (29 causal, 14 review, 13 quant-synthesis, 5 associational, 4 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 19 of 68 report an effect size · 80 claims rest on one study
+> **Evidence** · 92 claims (37 for, 52 mixed, 3 against) · 70 studies (31 causal, 14 review, 13 quant-synthesis, 5 associational, 4 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 19 of 70 report an effect size · 83 claims rest on one study
 
 ## Conditional relationship
 
@@ -139,6 +139,7 @@ Claims linked to this page later go here until they are read against the model. 
 - [Concrete visual presentation can convey only concrete, simple meanings; abstract and general meanings are conveyed by language](../claims/visual-presentation-limited-to-concrete-meanings.md) [+W] — attached 2026-10-24 from Frank N. Freeman (1922), which proposed "Visual materials' distinctive advantages: sensory appeal, spatial and mechanical relationships, temporal transformation, and diffusion of expert presentation".
 - [Multimedia feedback produces higher posttest performance than text-only feedback on conditional probability problems](../claims/multimedia-feedback-improves-posttest-conditional-probability.md) [+W] — attached 2026-10-24 from Gök et al. (2025), which proposed "Provide multimedia materials in feedback to improve problem-solving performance, and in initial instruction when the aim is spontaneous diagram generation"; tests this page's relationship.
 - [Multimedia initial instruction shows no detectable benefit over text-only instruction on posttest performance](../claims/multimedia-instruction-no-posttest-benefit.md) [~W] — attached 2026-10-24 from Gök et al. (2025), which proposed "Provide multimedia materials in feedback to improve problem-solving performance, and in initial instruction when the aim is spontaneous diagram generation"; tests this page's relationship.
+- [Multimedia presentation effects are strongest for procedural knowledge (technical and contextual)](../claims/multimedia-strongest-effect-procedural-knowledge.md) [+W] — attached 2026-10-28 from Tani et al. (2022), which proposed "Design multimedia presentations following established multimedia learning principles".
 
 ## Objective and learner-valued goal
 
@@ -173,6 +174,8 @@ A learning-phase preference, immediate recall, explanation of a mechanism, delay
 - [DHH students' communication preferences partly predict which multimedia tutorial features they attend to](../claims/dhh-communication-preference-predicts-feature-attention.md) [~W]
 - [Presentation slide visuals were the feature most cited by DHH students for facilitating learning](../claims/dhh-presentation-visuals-facilitate-learning.md) [~W]
 - [Dynamic slides did not improve knowledge acquisition compared to static slides](../claims/dynamic-slides-no-knowledge-benefit.md) [~W]
+- [Silent filmstrips produced significantly higher mean gains than sound motion pictures, so sound and motion were not essential for maximum learning.](../claims/filmstrips-significantly-higher-gains-than-sound-motion-pictures.md) [~W]
+- [Both sound motion pictures and silent filmstrips contributed to increased learning of fifth-grade social studies.](../claims/sound-pictures-and-filmstrips-increase-social-studies-learning.md) [+W]
 
 ## Related Principles
 - [Modality Principle](modality.md)

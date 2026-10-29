@@ -52,3 +52,4 @@ Theoretical position stated in the abstract and elaborated in the discussion. Th
 - [Human-AI collaboration requires refined group-awareness concepts for asymmetrical relationships between users and AI partners](group-awareness-human-ai-partners.md) — related
 - [Low-level feedback automation is appropriate only for sentence-level clarity; argumentative unclarity should trigger human review](sentence-level-clarity-automation-argumentative-human-review.md) — related
 - [AI involvement at the intermediate feedback level is appropriate only if five non-negotiable boundary principles hold simultaneously](five-boundary-principles-intermediate-ai-feedback.md) — related
+- [GenAI can most effectively support knowledge building in the Collaboration Zone as a dialogic 'sparring partner'](genai-collaboration-zone-sparring-partner.md) — related

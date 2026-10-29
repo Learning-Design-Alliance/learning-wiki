@@ -53,3 +53,4 @@ This is the paper's central conceptual proposition, stated in the introduction a
 - [Universities disabling AI detection cite false-positive risk at scale, and detector influence persists in individual grading, journal screening, and institutions without policy revision](detector-false-positives-at-scale-institutional-retreat.md) — related
 - [Detection-oriented integrity approaches are increasingly misaligned with GenAI-augmented assessment (theoretical argument)](detection-approaches-misaligned-genai-assessment.md) — related
 - [Integrating AI in CS assessment raises concerns about academic integrity, algorithmic bias, transparency, and ethical evaluation](ai-assessment-integrity-bias-transparency-concerns.md) — related
+- [Human judgement is central to accurate and ethical human-AI knowledge building](human-judgement-central-ai-knowledge-building.md) — related

@@ -50,3 +50,4 @@ Interaction analyses in the linear mixed-effects models (H2) on eight weeks of d
 - [GenAI training attenuates the predictive effect of prior GenAI experience on revision performance](training-attenuates-genai-experience-effect.md) — related
 - [GenAI dependence weakens the positive association between GenAI use and both student outcomes, attenuating it to statistical non-significance at high dependence](genai-dependence-moderates-use-outcome-links.md) — related
 - [No statistically significant interaction effects between satisfaction and adaptive feedback on the subsequent pre-actional phase; only marginal trends emerged (H4 not supported)](no-significant-satisfaction-feedback-interactions.md) — related
+- [Research indicates moderate effect sizes for engagement, project-based learning, self-regulation, and feedback](moderate-effect-sizes-engagement-pbl-self-regulation-feedback.md) — related

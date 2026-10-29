@@ -31,7 +31,7 @@ sources:
 # Technology should augment, not supplant, learning processes in student-centered environments
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 155 claims (99 for, 46 mixed, 10 against) · 123 studies (30 theoretical, 28 qualitative, 25 review, 19 causal, 12 design, 9 associational), `q1`–`q4` · 8 of 123 report an effect size · 151 claims rest on one study
+> **Evidence** · 156 claims (99 for, 47 mixed, 10 against) · 124 studies (30 theoretical, 28 qualitative, 25 review, 19 causal, 12 design, 10 associational), `q1`–`q4` · 8 of 124 report an effect size · 152 claims rest on one study
 
 ## Conditional relationship
 
@@ -278,6 +278,7 @@ Assisted performance, unaided immediate performance, delayed retention, transfer
 - [Generative AI tools risk inducing overestimated abilities and diminishing training of foundational skills](../claims/generative-ai-overconfidence-risk.md) [+W]
 - [Comparative evaluation of AI output taught students that AI is not infallible and reinforced critical reading](../claims/ai-comparative-evaluation-critical-reading.md) [~W]
 - [AWE is more effective when complemented by teacher feedback rather than used as a standalone tool](../claims/awe-more-effective-with-teacher-feedback.md) [~W]
+- [Wary Thinkers share over-reliance and privacy concerns with Pessimists but acknowledge ChatGPT's time-saving benefits](../claims/wary-thinkers-overreliance-privacy-time-saving.md) [~W]
 
 ## Related Principles
 

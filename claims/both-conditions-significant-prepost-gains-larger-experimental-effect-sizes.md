@@ -89,3 +89,4 @@ Paired samples t-tests within the control group (n = 33) comparing pre-test and 
 - [Both instructional groups improved significantly from pre-test to post-test, with larger gains in the generative AI-supported group](genai-geometry-within-group-gains.md) — related (a different study; not a merge candidate)
 - [Pupils in all three conditions gained significantly from pre-test to post-test and retention test, with no prior-knowledge differences between conditions](all-conditions-significant-gains-history-tasks.md) — related
 - [Collaborative critique-and-redesign instruction shifts students from a value-free view of objectivity toward a procedural one](collaborative-evidence-critique-shifts-students-toward-procedural-objectivity.md) — related
+- [Students in a model-designed flipped algebra course showed significant pre-to-post gains in mature views of mathematics](flipped-algebra-vams-significant-gain.md) — related

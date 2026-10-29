@@ -59,9 +59,11 @@ Access to books is one of the strongest environmental predictors of reading volu
 7. Refresh the collection on a schedule; retire worn or unappealing titles.
 
 ## Related Strategies
+
 - Independent reading — the library supplies the materials that make sustained silent reading possible
 - Book talks — brief recommendations that drive circulation from the library
 - Reading conferences — one-on-one check-ins that connect library choices to instruction
+- [Proactively co-plan library space use for inquiry and active learning with teachers and librarians](co-plan-library-space-for-inquiry.md)
 
 ## Examples
 - **[Reading Rockets: Classroom Libraries](https://www.readingrockets.org/topics/classroom-management/articles/creating-classroom-library)** — practitioner guidance on building and organizing collections.

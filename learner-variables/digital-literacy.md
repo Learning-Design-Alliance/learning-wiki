@@ -13,7 +13,7 @@ generated:
 # Digital Literacy
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 58 claims (38 show a difference, 11 mixed, 9 no difference) · 47 studies (16 associational, 10 causal, 6 review, 5 qualitative, 4 theoretical, 3 quant-synthesis, 3 design), `q1`–`q4` · 10 of 47 report an effect size · 56 claims rest on one study
+> **Evidence** · 61 claims (41 show a difference, 11 mixed, 9 no difference) · 49 studies (16 associational, 11 causal, 6 review, 6 qualitative, 4 theoretical, 3 quant-synthesis, 3 design), `q1`–`q4` · 10 of 49 report an effect size · 59 claims rest on one study
 
 ## Description
 Whether a learner can *operate* the interface — distinct from [access](access.md), which is whether they can load it at all. It covers navigation, file handling, knowing what is clickable, and the confidence to explore without fear of breaking something. Every course here is delivered digitally, so this is never out of scope, and it is the dimension most often assumed away: a designer fluent in the interface cannot see it.
@@ -92,6 +92,9 @@ Whether a learner can *operate* the interface — distinct from [access](access.
 - [Front-loaded, isolated ICT courses in teacher education are criticised as ineffective for building broader digital capabilities](../claims/isolated-ict-courses-ineffective-critique.md) [-W] — instruction changes it
 - [Irûmi's CT gains were concentrated in abstraction, algorithmic thinking, and evaluation, with a small negative effect on debugging](../claims/irumi-ct-skill-breakdown.md) [~M] — instruction changes it
 - [The Irûmi robot-based program improved second-graders' computational thinking scores by 0.089 standard deviations in Paraguay](../claims/irumi-ct-score-effect-0-089-sd.md) [-M] — instruction changes it
+- [Computer self-efficacy mediates the relationship between technological literacy attained through the Contextualized-OLPC project and functional literacy](../claims/computer-self-efficacy-mediation-olpc-functional-literacy.md) [+M] — learners who differ on it differ in outcomes
+- [Students across all knowledge areas report gaining new technological competences from studying online at the UOC](../claims/uoc-online-study-gains-digital-competences.md) [+M] — instruction changes it
+- [Technological knowledge was associated positively with functional literacy](../claims/technological-literacy-associated-functional-literacy.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Do learners who differ in digital literacy differ in learning, engagement and later outcomes?* [Digital skills gaps span demographic groups and shape e-learning, job performance, and earnings](../claims/digital-literacy-gaps-span-demographics.md) [+M]

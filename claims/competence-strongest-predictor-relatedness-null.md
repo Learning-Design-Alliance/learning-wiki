@@ -61,3 +61,5 @@ PLS-SEM structural model with the three psychological needs, measured after the 
 - [Competence need satisfaction is the strongest psychological-need predictor of students' self-determined motivation types](competence-strongest-need-predictor-student-motivation.md) — related
 - [In EERs, autonomy, competence, and relatedness are each supported by specific design features per self-determination theory](eer-sdt-needs-design-features.md) — related
 - [Self-determination theory grew incrementally by adding mini-theories as evidence accumulated](sdt-grew-brick-by-brick.md) — related
+- [Competence is the only SDT need that ChatGPT learning activities satisfy across all three SRL phases; relatedness and autonomy are not adequately satisfied at every phase.](competence-only-need-satisfied-all-srl-phases.md) — related
+- [A three-round Delphi process with 36 Hong Kong school teachers reached consensus on 20 ChatGPT-based learning activities that satisfy SDT needs and foster SRL phases.](delphi-consensus-20-chatgpt-learning-activities.md) — related

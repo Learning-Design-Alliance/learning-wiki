@@ -74,3 +74,6 @@ RQ3 thematic analysis of focus groups reports these output-quality concerns; par
 - [The main concern in all critical evaluations was the veracity of ChatGPT-provided references, which often do not exist](chatgpt-references-often-do-not-exist.md) — a narrower finding that bears on this claim
 - [ChatGPT users report fabricated references and wrong sources from auto-generated literature content](chatgpt-fabricated-references-wrong-sources.md) — a narrower finding that bears on this claim
 - [GPT-3 fabricates plausible-looking but fake references and apparently invents the research studies they cite](gpt3-fabricates-fake-references.md) — related
+- [AI-generated content lacking references reduced participants' intellectual curiosity and sustained attention](ai-content-without-references-reduces-curiosity-attention.md) — related
+- [Instructional designers' main challenges with ChatGPT are output quality (53.8%), tool limitations (42.3%), and faculty unpreparedness (3.8%)](id-chatgpt-challenges-output-quality-tool-limits.md) — related
+- [Pessimistic Evaluators' foremost concern is misleading, inaccurate, or biased ChatGPT-generated information](pessimistic-evaluators-misleading-information-concern.md) — related

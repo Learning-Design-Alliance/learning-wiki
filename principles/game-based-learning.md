@@ -47,7 +47,7 @@ sources:
 # Game-based Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 55 claims (25 for, 30 mixed) · 43 studies (14 quant-synthesis, 12 causal, 10 review, 3 associational, 3 theoretical, 1 design), `q1`–`q4` · 15 of 43 report an effect size · 49 claims rest on one study
+> **Evidence** · 56 claims (25 for, 31 mixed) · 44 studies (14 quant-synthesis, 12 causal, 10 review, 3 associational, 3 theoretical, 2 design), `q1`–`q4` · 15 of 44 report an effect size · 50 claims rest on one study
 
 ## Conditional relationship
 
@@ -176,6 +176,7 @@ A gain in the game, a gain on an aligned outside test, delayed retention, transf
 - [Serious games are frequently successful in teaching, training, or assessing professional competencies, with reported success rates of 84% for cognitive skills, 83% for knowledge, and 100% for motor skills](../claims/serious-games-successful-professional-competencies.md) [+W]
 - [Higher adult-observed cognitive engagement during GL play was related to larger gains in word reading and reading fluency](../claims/observed-cognitive-engagement-predicts-gains.md) [~W]
 - [Nearly all reviewed serious games include game mechanics providing freedom of gameplay, most commonly choice options, interactive elements, and free exploration](../claims/freedom-of-gameplay-mechanics-common.md) [+W]
+- [Total joining times in microgame-based learning overshot the number of students, reaching 448 times for 129 students](../claims/joining-times-overshoot-student-numbers.md) [~W]
 
 ## Related Principles
 - [Simulations & Immersive Virtual Environments](simulations-immersive-virtual-environments.md) — simulations overlap with game-based learning when the experience models a system learners must navigate.

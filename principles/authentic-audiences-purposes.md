@@ -116,6 +116,7 @@ The expectation should weaken if comparisons that hold topic, time and order con
 - [Interdisciplinary Course-Based Research Experience](inquiry-based-learning.md) — students write papers connected to real external research networks and mentors, not just the instructor
 - [Use community-focused prompts and authentic audiences to make creative projects personally meaningful](../strategies/community-prompts-authentic-audience-360-film.md)
 - [360 Filmmakers Challenge](../products/360-filmmakers-challenge.md) — high school students produce 360-degree films for an authentic audience, with professional mentors
+- [Theory courses should require an application piece such as real-world clients or service-learning to prepare designers for practice](../strategies/theory-course-application-piece.md)
 
 ## Key Sources
 - Wiggins, G. (2009). Real-world writing: Making purpose and audience matter. *English Journal, 98*(5), 29-37.

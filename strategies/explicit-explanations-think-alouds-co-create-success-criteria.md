@@ -44,6 +44,7 @@ To communicate learning expectations, the brief recommends that "Teachers can pr
 - [Explicit Teaching](explicit-teaching.md)
 - [Establishing Discussion Norms](class-discussion-norms.md)
 - [Use the five GAA-LS subscales to target instruction and make AI-related assessment expectations visible in assessment briefs](gaa-ls-informs-targeted-teaching-and-transparent-assessment-design.md)
+- [Make disciplinary norms of thinking explicit for effective reflection](make-disciplinary-norms-of-thinking-explicit.md)
 
 ## Examples
 -

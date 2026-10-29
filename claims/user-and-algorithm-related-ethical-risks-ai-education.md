@@ -105,3 +105,4 @@ Qualitative theme from student interviews mirroring the faculty structure. Stude
 - [AIED technologies span school administration to personalised learning, with ethical risks including surveillance, privacy loss, and dehumanising prescriptive teaching](aied-technologies-applications-ethical-challenges-synthesis.md) — related
 - [Teacher interviews identified perceived risks of gamified EFL tools: lack of support from principals, parents or students, side effects, and loss of teacher control](teacher-perceived-risks-gamified-efl.md) — related
 - [Teaching staff distrusted third parties in LA on privacy and ethics, centring on data sharing and ownership](third-party-privacy-ethics-distrust.md) — related
+- [Wary Thinkers share over-reliance and privacy concerns with Pessimists but acknowledge ChatGPT's time-saving benefits](wary-thinkers-overreliance-privacy-time-saving.md) — related

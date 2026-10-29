@@ -58,3 +58,4 @@ Paired-sample t-tests comparing each student's Assignment 1 and Assignment 5 sco
 - [Students' self-efficacy for using generative AI increased over the semester, with current self-efficacy significantly higher after the fifth assignment than after the first](self-efficacy-growth-generative-ai-semester.md) — related
 - [Peer-to-peer prompts show promising effects on collaborative argumentation, consensus, and perceived efficacy, suggesting new roles for peer learning in classrooms](peer-prompts-argumentation-consensus-efficacy.md) — related
 - [Higher-quality prompt engineering skills predict the quality of LLM output in goal-directed use of generative AI tools](prompt-engineering-skill-predicts-llm-output-quality.md) — related
+- [Prompt engineering quality predicts LLM output quality and is a required skill for goal-directed GenAI use](prompt-engineering-predicts-llm-output-quality.md) — related

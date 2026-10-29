@@ -21,7 +21,7 @@ sources:
 # Self-Regulated Learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 237 claims (107 for, 121 mixed, 9 against) · 175 studies (57 associational, 46 causal, 27 review, 17 quant-synthesis, 15 theoretical, 8 qualitative, 5 design), `q1`–`q4` · 41 of 175 report an effect size · 221 claims rest on one study
+> **Evidence** · 238 claims (107 for, 121 mixed, 10 against) · 176 studies (57 associational, 46 causal, 27 review, 17 quant-synthesis, 15 theoretical, 8 qualitative, 6 design), `q1`–`q4` · 41 of 176 report an effect size · 222 claims rest on one study
 
 ## Description
 Self-Regulated Learning (SRL) explains learning as a cyclical process in which learners set goals, choose strategies, monitor progress, and reflect on outcomes in order to improve later performance. Rather than treating learning as passive reception, SRL emphasizes that effective learners actively manage attention, effort, strategy use, and feedback across time.
@@ -284,6 +284,7 @@ A second, complementary formulation comes from clinical and addiction-behavior r
 - [Students' SRL scores significantly predict post-curriculum test performance above and beyond prior knowledge](../claims/srl-scores-predict-post-test-above-prior-knowledge.md) [+W]
 - [High SRL students report significantly more immersion and involvement than Medium or Low SRL students](../claims/high-srl-higher-presence-involvement.md) [+W]
 - [High SRL students run significantly fewer tests than Medium or Low SRL students](../claims/high-srl-students-fewer-tests.md) [~W]
+- [Only 10 of 211 SRL scale items were feasible to operationalize as learning analytics indicators in an LMS](../claims/ten-of-211-srl-items-feasible-lms-indicators.md) [-W]
 
 ## The evidence by question
 

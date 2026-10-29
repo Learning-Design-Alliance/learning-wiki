@@ -58,3 +58,4 @@ Usability test with eight participants in two groups (chatbot designers and inst
 - [Students primarily benefit from AI chatbots in three key areas: homework and study assistance, personalized learning, and skills development](ai-chatbots-three-student-benefit-areas.md) — related
 - [AI-supported prototyping combined with educator feedback loops accelerated development and surfaced usability issues early in one K-2 literacy tool project](ai-prototyping-accelerates-development-with-feedback-loops.md) — related
 - [Chatbot-based instruction enhanced secondary students' learning experience by enabling self-paced study with less stress, time savings, and maintained motivation](chatbot-enhances-learning-experience-self-paced.md) — related
+- [Model usability testing across two rounds led to structural improvements including separated course and lesson level design and a central formative evaluation step](usability-testing-improved-model-structure.md) — related

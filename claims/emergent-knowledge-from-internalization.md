@@ -49,3 +49,4 @@ Conceptual argument in the Internalization section, illustrated in Fig. 2 where 
 - [Knowledge creation occurred in neither fixed nor opportunistic collaboration groups; interactions were mostly knowledge sharing](knowledge-creation-absent-fixed-and-opportunistic-groups.md) — related
 - [Four forms of learning and knowledge building with wikis: internal and external assimilation and accommodation](four-processes-assimilation-accommodation-wikis.md)
 - [A wiki with a thinking-together approach can provide a dialogic space in which students co-construct shared understanding](wiki-dialogic-space-co-construction.md) — related
+- [Research on university teachers as educational designers is an emerging field, and the professional development of educational designers is neither well understood nor effectively supported](educational-designer-professional-development-gap.md) — related

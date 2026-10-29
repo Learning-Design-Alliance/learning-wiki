@@ -28,6 +28,7 @@ MDTP is a mathematics diagnostic assessment project that provides topic-level ma
 ## Related Products and Programmes
 
 - [MDTP Algebra Readiness test](mdtp-algebra-readiness-test.md)
+- [Mastering Math Online-Check](mastering-math-online-check.md)
 
 ## Key Sources
 - Chun-Wei Huang, Jason Snipes, Neal Finkelstein, WestEd. (2016). Using assessment data to guide math course placement of California middle school students. SREE Spring 2016 Conference. https://www.sree.org

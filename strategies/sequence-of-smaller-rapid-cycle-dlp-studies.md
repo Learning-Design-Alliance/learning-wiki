@@ -46,6 +46,7 @@ The report recommends an iterative approach in which researchers use existing da
 - [Conduct a larger-scale, statewide study of mentoring features and retention to detect small or moderate relationships](statewide-mentoring-retention-study-recommendation.md)
 - [Study natural methods of learning and run experiments to determine how learners pass from beginner's crude efforts to expert performance](study-natural-learning-methods-across-development.md)
 - [Direct research effort toward measuring temperament and character factors, which operate largely independently of intelligence and may be more educable](research-measure-temperament-character-factors.md)
+- [Phase-specific research-project activities: selecting situations and simulators, iterative design with expert workshops and pilot studies, and standardized study conduct](research-project-phase-strategies.md)
 
 ## Examples
 -

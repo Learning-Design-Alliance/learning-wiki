@@ -48,3 +48,5 @@ The response reports Bennett et al.'s conceptualization that "teachers' design p
 - [Participants reported that AdaPT reduced perceived preparation workload and aligned with their natural lesson adaptation workflows](adapt-reduced-perceived-workload.md) — related
 - [The reported teacher design process is not specifically for online learning design, but may inform best practices for supporting faculty's online learning design](design-process-not-specific-to-online-learning.md) — related
 - [A qualitative study of 30 university teachers reported three design practices that are incremental and iterative](three-incremental-iterative-design-practices-university-teachers.md) — related
+- [Bennett et al.'s study establishes faculty roles as designers of learning, an essential consideration when institutions seek digital design talent.](faculty-roles-as-designers-essential-for-digital-design-talent.md) — related
+- [Bennett et al.'s qualitative study found university instructors' design process is top-down, breadth-first, iterative, responsive, and reflective](university-instructor-design-process-characteristics.md) — a broader claim this one bears on

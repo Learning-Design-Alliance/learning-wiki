@@ -121,3 +121,4 @@ Open questions for future evidence entries include the durability of effects aft
 - [Reflective Practice Improves Outcomes When Structured](reflective-practice-improves-outcomes-when-structured.md) — related
 - [Low-prior-knowledge students struggle to deploy key self-regulatory processes during learning](low-prior-knowledge-students-struggle-self-regulation.md) — related
 - [General composing heuristics produced mixed results in studies of their effectiveness](general-heuristics-mixed-effectiveness-results.md) — related
+- [Self-regulation and self-directed learning strategies need to be taught and practiced over time](self-regulation-strategies-taught-over-time.md) — related

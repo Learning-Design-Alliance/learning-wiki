@@ -60,3 +60,4 @@ RQ3 results (Figure 6) for the n=253 experiment: quality_overall, a 0–9 compos
 - [Engagement remains an observable and evidential proxy for learning that AI has not broken, though it is not invulnerable](engagement-surviving-proxy.md) — related
 - [The ChatGPT group achieves significantly greater essay score improvement than the other three groups](chatgpt-greater-essay-score-improvement.md) — related
 - [Focus-group participants preferred creating their own essays while viewing ChatGPT as an initial resource for fundamentals and idea generation](participants-prefer-own-essays-chatgpt-initial-resource.md) — reports the opposite
+- [Lack of active involvement in problem-solving decreased participants' satisfaction with AI-generated essays](ai-essay-scaffolding-reduced-satisfaction-from-lack-involvement.md) — related

@@ -61,3 +61,4 @@ Focus group thematic analysis (N = 12 students): a shy student described friends
 - [DLGs contribute to a non-violent, supportive climate of coexistence, including reduced bullying and dialogues oriented to non-violent relationships](dlg-non-violent-supportive-climate.md) — related
 - [Cooperative learning is associated with greater peer acceptance and cross-group friendships and has been shown to reduce bullying and perceived stress among marginalized students](cooperative-learning-promotes-inclusion.md) — related
 - [Cooperative learning significantly reduced perceived stress among marginalized middle school students](cooperative-learning-reduces-perceived-stress-marginalized.md) — related
+- [Personalized, friend-like communication calling children by name invited even shy children to participate](friend-like-personalized-communication-invites-participation.md) — related

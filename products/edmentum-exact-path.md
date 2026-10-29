@@ -52,6 +52,7 @@ Edmentum Exact Path is a personalized K–12 learning platform that uses diagnos
 ## Related Products and Programmes
 
 - [eDia computer-based diagnostic assessment system](edia-computer-based-diagnostic-assessment-system.md)
+- [Mastering Math Online-Check](mastering-math-online-check.md)
 
 ## Key Sources
 - Exact Path Growth Evidence Rating Summary. (2024). Edmentum. https://www.edmentum.com/products/exact-path

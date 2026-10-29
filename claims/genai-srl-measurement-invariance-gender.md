@@ -50,3 +50,4 @@ Measurement invariance testing via configural, metric, and scalar multi-group CF
 - [SFAILQ shows scalar measurement invariance across adolescents, young adults, and middle-aged adults](sfailq-scalar-invariance-age-groups.md) — related
 - [Longitudinal partial strong measurement invariance of the four-item self-efficacy survey justifies fitting growth models to its scores](self-efficacy-survey-partial-longitudinal-invariance.md) — related
 - [Measurement invariance across gender is supported, but full structural equivalence is rejected, with differences localized to transformational-leadership paths](measurement-invariance-gender-structural-equivalence-rejected.md) — related
+- [Only 10 of 211 SRL scale items were feasible to operationalize as learning analytics indicators in an LMS](ten-of-211-srl-items-feasible-lms-indicators.md) — related

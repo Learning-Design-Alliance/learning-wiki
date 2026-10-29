@@ -58,3 +58,4 @@ Pre/post study of an online PD program with ten K–12 educators who created exp
 - [Teachers in online team-based training reported significantly greater confidence in their technological pedagogical content knowledge after training](team-pd-tpck-confidence-gain.md) — related
 - [Short-duration TPACK-based professional development improved teachers' ML knowledge and interest (ML4STEM)](ml4stem-teacher-pd-initial-evidence.md) — related
 - [Teachers' confidence and interest in ML integration progressively increased from the Teachers-as-Learners to the Teachers-as-Designers session.](ml-confidence-interest-increase.md) — related
+- [A two-to-three-week computer vision professional development program shifted the majority of middle school teachers' computer vision constructs across clusters (72%, n = 13), indicating restructuring of their perceptions of computer vision](cv-pd-restructures-teacher-cv-constructs.md) — related

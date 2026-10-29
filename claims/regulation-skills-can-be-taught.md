@@ -49,3 +49,4 @@ The primer asserts, citing Järvelä and Hadwin (2013), that "All types of regul
 - [Strategy Instruction Improves Academic Performance](strategy-instruction-improves-academic-performance.md) — related
 - [Strategy Instruction Improves Writing Quality](strategy-instruction-improves-writing-quality.md) — related
 - [Metacognitive Strategies Improve Learning](metacognitive-strategies-improve-learning.md) — related
+- [Self-regulation and self-directed learning strategies need to be taught and practiced over time](self-regulation-strategies-taught-over-time.md) — related

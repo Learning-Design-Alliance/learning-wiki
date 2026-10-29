@@ -12,7 +12,7 @@ generated:
 # Critical Thinking
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 25 claims (18 for, 4 mixed, 3 against) · 24 studies (6 causal, 6 qualitative, 5 associational, 4 review, 2 design, 1 quant-synthesis), `q1`–`q3` · 4 of 24 report an effect size · 25 claims rest on one study
+> **Evidence** · 26 claims (18 for, 5 mixed, 3 against) · 25 studies (7 causal, 6 qualitative, 5 associational, 4 review, 2 design, 1 quant-synthesis), `q1`–`q3` · 5 of 25 report an effect size · 26 claims rest on one study
 
 ## Description
 Critical thinking requires both a skill (analyzing the reliability and validity of information) and a disposition to actually apply that skill, in principle across any realm of knowledge, not only a single subject or topic (Halpern, 2003; Williams, Oliver, & Stockade, 2004). A critical thinker is not simply someone with a negative or fault-finding attitude; rather, the critical thinker asks key questions, evaluates evidence for ideas, reasons about problems logically and objectively, and expresses ideas and conclusions clearly and precisely — and can carry these habits of mind across more than one domain of life or knowledge.
@@ -65,6 +65,7 @@ Second, who should be taught critical thinking. Surveys have found that teachers
 - [Question-asking practice does not increase prompted question generation on a novel-animal task, nor the content categories of those questions](../claims/no-transfer-to-prompted-question-generation.md) [-W]
 - [Comparative evaluation of AI output taught students that AI is not infallible and reinforced critical reading](../claims/ai-comparative-evaluation-critical-reading.md) [+W]
 - [Malaysian undergraduates' overall CCTDI disposition was moderate to positive: 47% positive, 53% ambivalent, none negative](../claims/cctdi-composite-moderate-positive-disposition.md) [+W] — attached 2026-10-28 from Ramasamy (2011), which proposed "Seven-construct model of critical thinking disposition".
+- [Domain-specific CT performance (CTEM) significantly predicted domain-general CT performance (posttest HCTA)](../claims/ctem-predicts-posttest-hcta.md) [~W]
 
 ## The evidence by question
 - *Does teaching critical thinking explicitly, rather than expecting it to emerge from other activities, improve learners' critical thinking, and does it transfer beyond the subject it was taught in?* [Direct CT instruction combined with modeling, coaching, and discussion yields more consistent CT improvement than implicit teaching strategies](../claims/direct-ct-instruction-outperforms-implicit-strategies.md) [+M]

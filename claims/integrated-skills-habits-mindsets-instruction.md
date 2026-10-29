@@ -58,3 +58,4 @@ Narrative synthesis in the skills, habits, and mindsets section, grounded in the
 - [Because cognitive, social and emotional processing show no clear demarcation in the brain and dynamically interact with the environment, the ISEE Assessment recommends an integrative CASE (cognitive, academic, social, emotional) approach across learning, teaching and assessment](case-integrative-learner-centric-approach.md) — possibly the same claim (merge candidate)
 - [Learning sciences emphasize interconnection across cognitive, social, emotional and embodied dimensions of learning](interconnected-cognitive-social-emotional-embodied-learning.md) — a broader claim this one bears on
 - [Increasing student cognitive development was the main focus of the experiments](cognitive-development-main-focus-of-experiments.md) — related
+- [Self-regulation and self-directed learning strategies need to be taught and practiced over time](self-regulation-strategies-taught-over-time.md) — related

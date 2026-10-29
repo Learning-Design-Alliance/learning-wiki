@@ -13,7 +13,7 @@ generated:
 # Digital Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 16 claims (8 for, 7 mixed, 1 against) · 16 studies (4 associational, 3 causal, 3 qualitative, 2 quant-synthesis, 2 theoretical, 1 review, 1 design), `q1`–`q4` · 1 of 16 report an effect size · 15 claims rest on one study
+> **Evidence** · 17 claims (8 for, 8 mixed, 1 against) · 17 studies (4 causal, 4 associational, 3 qualitative, 2 quant-synthesis, 2 theoretical, 1 review, 1 design), `q1`–`q4` · 1 of 17 report an effect size · 16 claims rest on one study
 
 ## Description
 Digital learning is the element in which instruction, resources, or interaction are mediated through digital tools, platforms, or networks. It is useful when learners need flexible access, interactive media, or non-linear exploration.
@@ -52,6 +52,7 @@ Digital learning is the element in which instruction, resources, or interaction 
 - [Mobile devices served as the primary tool for learners and teachers during the emergent remote teaching process of the pandemic](../claims/mobile-devices-primary-tool-emergent-remote-teaching.md) [+W]
 - [Participants most valued flexibility of when and where to study, alongside vocabulary access and constant progress monitoring, as benefits of online applications](../claims/flexibility-top-perceived-benefit-apps.md) [+W]
 - [Effect sizes of technology-delivered literacy instruction are heterogeneous across studies (Q = 165.38, I2 = 68.56)](../claims/tech-literacy-effect-heterogeneity.md) [~W]
+- [Teaching resources used within the flipped classroom years do not affect average grades, except for the year with reduced technology access](../claims/flipped-resources-no-effect-except-technology-classroom-year.md) [~W]
 
 ## Related Elements
 

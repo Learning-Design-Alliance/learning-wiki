@@ -97,3 +97,4 @@ Narrative review attributing this to Fiorella and Kuhlmann (2020): college stude
 - [Concept mapping improves learning over most comparison conditions by a moderate average amount, but not over time-matched retrieval practice](concept-mapping-improves-learning.md) — related
 - [Receiving two model answer diagrams improves secondary students' delayed-diagramming text comprehension relative to no model answers](two-model-answers-improve-comprehension-delayed-diagramming.md) — related
 - [Argument diagramming tools increase relevant citations and opposing evidence in college writing, with domain-specific diagrams adding citation validity](argument-diagramming-increases-citations-opposing-evidence.md) — a narrower finding that bears on this claim
+- [Test items based on diagrams did not produce significantly higher scores than purely verbal items](diagram-items-not-significantly-higher-than-verbal-items.md) — related

@@ -53,3 +53,4 @@ The commentary's framing statement, citing critics such as Selwyn, Watters and W
 - [Reported benefits of AI integration were efficiency, personalization, and engagement, while challenges were equity, ethics, and academic integrity](ai-integration-benefits-and-challenges.md) — related
 - [The most reported risks of AI tools in science and chemistry education are ethical issues, including gender and racial bias, hallucinations, copyright infringement, and plagiarism](ethical-issues-most-reported-ai-risk.md) — related
 - [AIED, as a small academic society, is in a weak position to regulate the AI-in-education market](aied-weak-position-regulate-market.md) — related
+- [Willis et al. (2016) identify four common ethical issues in internal student data usage across three institutions](four-common-ethical-issues-student-data-usage.md) — related

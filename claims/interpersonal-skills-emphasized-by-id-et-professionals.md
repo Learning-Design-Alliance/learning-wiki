@@ -68,3 +68,4 @@ The comparison section reports that “many K12 ETs emphasized gaining buy-in an
 - [ID/ET professionals report that cross-disciplinary skills and dispositions are crucial and under-emphasized in existing competency lists](cross-disciplinary-skills-dispositions-underemphasized.md) — related
 - [Balanced SEL frameworks cover intrapersonal, interpersonal, and cognitive competencies and mix skills, knowledge, and attitudes](balance-criterion-intrapersonal-interpersonal-cognitive-competencies.md) — related
 - [A scoping review found no existing teacher-education digital frameworks include more than passing mention of dispositions or safety/wellbeing considerations](existing-frameworks-omit-dispositions-safety.md) — related
+- [Communication skills are consistently ranked the most important competencies yet underemphasized in professional preparation](communication-skills-most-important-but-underemphasized.md) — related

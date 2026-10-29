@@ -54,3 +54,4 @@ Figure 2 survey results on primary purposes of AI use among the 380 respondents.
 - [ChatGPT was the most widely adopted AI platform in undergraduate higher education studies, with applications clustering around assessment automation and personalized learning support](chatgpt-dominant-platform-assessment-personalization.md) — related
 - [Pre-service teachers identified lesson planning and presentation as the assessment task most evaluating their readiness for practice](mpts-lesson-presentation-top-assessment-task.md) — related
 - [Teachers used three free AI tools (DeepSeek, Doubao, Meta) mainly for lesson planning, assessment, and teaching material development](three-free-ai-tools-for-planning-assessment-materials.md) — related
+- [Instructional designers mainly use ChatGPT for content creation (57.5%), writing assistance (30%), professional support, communication, and information searching](id-chatgpt-usage-content-creation-dominant.md) — related

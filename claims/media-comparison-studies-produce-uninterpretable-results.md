@@ -122,3 +122,5 @@ A live tension worth flagging: the claim that "media do not influence learning, 
 - [Digital drawing shows mixed results relative to paper-based drawing, with a meta-analysis favoring traditional media for some assessment types](digital-vs-paper-drawing-mixed.md) — a narrower finding that bears on this claim
 - [A head-to-head teaching contest between a primarily visual method and a combined method produced nearly identical averages (22.9 vs 23.0) and could not decide between the methods because of uncontrolled confounds](uncontrolled-teacher-contest-inconclusive.md) — a narrower finding that bears on this claim
 - [Mastery learning implementation causes a mastery attrition bias that confounds learning curves, and it cannot be addressed universally](mastery-attrition-bias-confounds-learning-curves.md) — related
+- [Media and technology provide affordances but effective use depends on good instructional design and support](media-affordances-depend-on-instructional-design.md) — related
+- [OER efficacy studies are frequently confounded by simultaneous changes in pedagogy or delivery method.](oer-adoption-confounded-with-pedagogy-change.md) — related

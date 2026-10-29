@@ -71,3 +71,4 @@ This is a single-domain (natural selection), single-population (undergraduates, 
 - [Well-controlled comparison studies show clear advantages of inquiry-based instruction over direct instruction for science conceptual learning](controlled-studies-advantage-guided-inquiry-over-direct-instruction.md) — related
 - [Trained students outperformed controls at selecting the more reliable of two contradictory texts, at both post-tests](sourcing-intervention-near-transfer-accuracy.md) — related
 - [GazeTutor's attention-aware reorientation improved deep reasoning learning gains for high aptitude learners](gazetutor-deep-reasoning-gains-high-aptitude.md) — related
+- [EcoMUVE with scaffolding tools and cognitive maps improves deeper learning, task performance, and reduces achievement gaps](ecomuve-scaffolding-improves-learning-outcomes.md) — related

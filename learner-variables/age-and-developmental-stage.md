@@ -13,7 +13,7 @@ generated:
 # Age and Developmental Stage
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 198 claims (130 show a difference, 44 mixed, 24 no difference) · 159 studies (61 associational, 31 causal, 27 review, 23 quant-synthesis, 10 theoretical, 5 design, 2 qualitative), `q1`–`q4` · 23 of 159 report an effect size · 196 claims rest on one study
+> **Evidence** · 201 claims (132 show a difference, 45 mixed, 24 no difference) · 162 studies (62 associational, 32 causal, 27 review, 23 quant-synthesis, 10 theoretical, 5 design, 3 qualitative), `q1`–`q4` · 23 of 162 report an effect size · 199 claims rest on one study
 
 ## Description
 Age and developmental stage cover a learner's chronological age, grade level, and the cognitive, language and social development that comes with them. Research uses them as a predictor (growth curves, when skills emerge), as a moderator (an approach that works for older students but not younger ones, or for adults but not children) and to define a population (early childhood, adolescents, adult learners). Age is often a stand-in for what actually matters, such as prior knowledge, reading skill or self-regulation, so a finding that differs by age is a reason to ask which of those it reflects.
@@ -230,6 +230,9 @@ Age and developmental stage cover a learner's chronological age, grade level, an
 - [The forward testing effect generalizes to individuals with traumatic brain injury but is absent for younger children's single item learning](../claims/forward-testing-individual-differences.md) [~M] — an instructional effect differs with it
 - [The left ventral occipito-temporal cortex becomes increasingly specialized for print during reading acquisition, with an inverted U-shaped developmental trajectory](../claims/vot-print-specialization-inverted-u-development.md) [+M] — learners who differ on it differ in outcomes
 - [Age-related component differences show proactive exploration lowest for youngest students](../claims/proactive-exploration-lowest-youngest-age-group.md) [+M] — learners who differ on it differ in outcomes
+- [Film narration type (expository vs. personalized-dramatic) and listenability level effects on factual learning compared across fifth and eighth grade](../claims/film-narration-type-listenability-grade-levels.md) [~M] — an instructional effect differs with it
+- [Older students perceive greater value of the technological skills acquired through online study](../claims/age-differentiates-digital-competence-assimilation.md) [+M] — learners who differ on it differ in outcomes
+- [Preferred social situation of contact shifts with grade level: younger children prefer family situations, fourth graders prefer being alone, and sixth graders prefer peers](../claims/grade-level-shifts-preferred-social-situation-of-contact.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does being older at school entry, or older than one's classmates, give a lasting achievement advantage?* [Being a year older at kindergarten entry leads to higher initial achievement](../claims/older-entry-higher-initial-achievement.md) [+M]

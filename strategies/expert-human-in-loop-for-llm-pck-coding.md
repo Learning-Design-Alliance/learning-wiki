@@ -44,6 +44,7 @@ The article's discussion recommends exploring human-in-the-loop support when mul
 - [Use customised LLM coding as a scalable first-pass for classroom dialogue analysis, with human review of low-reliability codes](llm-first-pass-dialogue-coding-with-human-review.md)
 - [Human-in-the-loop instructor control as a design direction for adaptive learning systems](human-in-loop-instructor-realtime-adaptive-control.md)
 - [Use iterative prompt engineering mirroring human coders' labeling processes to refine LLM classification prompts](iterative-prompt-engineering-mirroring-human-coder-refinement.md)
+- [Report HIL data extraction use explicitly, naming software, LLM, and extent of human validation](report-hil-data-extraction-software-llm-and-validation-extent.md)
 
 ## Examples
 -

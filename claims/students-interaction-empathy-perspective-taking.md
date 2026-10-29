@@ -71,3 +71,4 @@ Study 2 thematic analysis of twelve student interviews produced Global Theme 1 f
 - [Students enact agency toward groups by fostering relational awareness, building interpersonal relationships, holding dialogue, and seeing from other perspectives](agency-toward-groups-actions.md) — related
 - [Drama and theatre-based work forms in teacher education are associated with equity-related outcomes including empathy, perspective-taking, collaboration, attitude shifts, and advocacy](drama-work-forms-equity-outcomes-empathy-advocacy.md) — related
 - [Pedagogy has evolved to include gaming, social interaction and play, and contemplative practices](pedagogy-evolved-new-methods.md) — a broader claim this one bears on
+- [Maker education can promote STEM-related learning outcomes, collaboration, and empathy](maker-education-benefits-claim.md) — related

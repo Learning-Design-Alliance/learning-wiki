@@ -51,3 +51,4 @@ Think-aloud sessions with four experts (in gamification/LXD, HCI/diversity, naut
 - [Adding think-aloud data to theory prompts improves GPT-4o codebook completeness and alignment with the data](theory-plus-data-prompting-improves-codebook.md) — related
 - [Making trustworthiness metrics and visualizations explicit increased inter-rater reliability among learning engineers evaluating LLM responses](trustworthiness-metrics-visualizations-increase-expert-agreement.md) — related
 - [Making open data usable for learning requires substantial educator work: finding suitable data, refining and curating sources, and coping with poor formats and documentation](open-data-making-data-usable-challenges.md) — related
+- [Model usability testing across two rounds led to structural improvements including separated course and lesson level design and a central formative evaluation step](usability-testing-improved-model-structure.md) — related

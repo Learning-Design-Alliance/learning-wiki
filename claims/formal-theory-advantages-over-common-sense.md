@@ -69,3 +69,5 @@ The review's own statement of an open empirical question, acknowledging critics 
 - All CSCL research is necessarily theory-laden; unreflective research adopts commonsense folk theories — related
 - [The article's supporting evidence is anecdotal and qualitative; empirical studies of impact on persistence, self-efficacy, and course climate are needed](micro-intervention-evidence-anecdotal-empirical-studies-needed.md) — related
 - Formalisation of theory offers generative models, counterfactual reasoning, and optimal-performance yardsticks unavailable to verbal accounts — related
+- [DAGs differ from SEMs in that they are non-parametric and make causal assumptions explicit](dag-vs-sem-causal-inference.md) — related
+- [DAG-based causal reasoning is useful across study planning, data analysis, and literature appraisal](dag-use-in-study-planning-analysis-appraisal.md) — related

@@ -48,3 +48,4 @@ Observational reflection (SF1 section) on the conditions of teacher support from
 - [ERT teachers recognised the impact of emotion, increased workload, and stretched goodwill on digital learning design and delivery](ert-emotion-workload-goodwill-impact.md) — related
 - [Schools that had previously invested in technology and professional development for digital learning responded more quickly to the shift to online teaching during COVID-19 closures](prior-digital-investment-greater-ert-capacity.md) — related
 - [Level of preparedness was not a direct indicator of a simple transition to ERT](preparedness-not-direct-indicator-ert-transition.md) — related
+- [The Covid-19 pandemic increased the design workload of university teachers as they migrated teaching online](pandemic-increased-design-workload-online-migration.md) — related

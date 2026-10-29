@@ -25,7 +25,7 @@ sources:
 # Multimedia Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 94 claims (40 for, 52 mixed, 2 against) · 71 studies (40 causal, 11 review, 10 quant-synthesis, 4 theoretical, 2 associational, 2 qualitative, 2 design), `q1`–`q4` · 18 of 71 report an effect size · 85 claims rest on one study
+> **Evidence** · 95 claims (40 for, 53 mixed, 2 against) · 72 studies (41 causal, 11 review, 10 quant-synthesis, 4 theoretical, 2 associational, 2 qualitative, 2 design), `q1`–`q4` · 18 of 72 report an effect size · 86 claims rest on one study
 
 ## Description and scope
 
@@ -159,6 +159,7 @@ This pattern is scoped to explanations of structures, processes and relations pr
 - [DHH students suggest applying spatial contiguity between interpreter and visuals to reduce split attention](../claims/dhh-spatial-contiguity-interpreter-visuals.md) [~W]
 - [The CTML segmenting principle appears strongly applicable to DHH students' e-learning](../claims/ctml-segmenting-strongly-applicable-dhh.md) [~W]
 - [Dynamic slides did not improve knowledge acquisition compared to static slides](../claims/dynamic-slides-no-knowledge-benefit.md) [~W]
+- [Silent filmstrips produced significantly higher mean gains than sound motion pictures, so sound and motion were not essential for maximum learning.](../claims/filmstrips-significantly-higher-gains-than-sound-motion-pictures.md) [~W]
 
 ## Examples
 

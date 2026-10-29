@@ -60,3 +60,4 @@ The brief describes its two sets of analyses: rating stability across years, and
 - [Teachers rated classroom observation scores as the most accurate REACH measure of teaching effectiveness and value-added measures as the least accurate](observation-scores-rated-most-accurate-vam-least.md) — related
 - [Value-added estimates are likely to be noisy with the amount of data typically used in practice](value-added-estimates-noisy-typical-data.md) — related
 - [Component measure ratings had low to moderate positive correlations with each other, suggesting the components measure distinct dimensions of principal performance](component-measures-distinct-dimensions-principal-performance.md) — related
+- [Structural assessment measures domain understanding differently from verbal assessment](structural-assessment-differs-from-verbal-assessment.md) — related

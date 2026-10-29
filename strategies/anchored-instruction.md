@@ -64,6 +64,7 @@ Anchors give knowledge a context of use, supporting transfer and making abstract
 - [Problem-Based Learning](problem-based-learning.md) — shares the problem-first sequence but anchors emphasize a shared, detailed scenario over a brief problem statement
 - [Project-Based Learning](project-based-learning-pbl.md) — anchors can launch projects; the anchor supplies context while the project supplies production
 - [Use sequences of problem-situations to progressively contextualize and develop mathematical comprehension of calculus concepts](problem-situation-sequences-progressive-comprehension.md)
+- [Expose learners to real-world problems embedded in complex systems with multiple interactive components](expose-learners-to-complex-system-problems.md)
 
 ## Examples
 - **[Jasper Woodbury Problem Solving Series](https://peabody.vanderbilt.edu/departments/teachandlearning/research/jasperproject/)** — Vanderbilt's video adventures (e.g., "Journey to Cedar Creek") in which students plan boat trips requiring distance-rate-time reasoning; the canonical anchored instruction curriculum

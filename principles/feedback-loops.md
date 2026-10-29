@@ -34,7 +34,7 @@ sources:
 # Feedback Loops
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 32 claims (19 for, 11 mixed, 2 against) · 48 studies (14 causal, 11 review, 10 quant-synthesis, 5 design, 4 qualitative, 2 associational, 2 theoretical), `q1`–`q4` · 8 of 48 report an effect size · 23 claims rest on one study
+> **Evidence** · 33 claims (20 for, 11 mixed, 2 against) · 49 studies (14 causal, 11 review, 10 quant-synthesis, 5 design, 4 qualitative, 3 theoretical, 2 associational), `q1`–`q4` · 8 of 49 report an effect size · 24 claims rest on one study
 
 ## Conditional relationship
 
@@ -173,6 +173,7 @@ Following the information on the corrected item, unaided performance on a new it
 - [Dl2F Dynamic Language Learning Framework](../theories/dl2f-dynamic-language-learning-framework.md) [+M]
 - [In water-jug problems, presenting information about available moves and their consequences did not enhance planning, though looping moves reliably decreased](../claims/move-availability-information-did-not-enhance-water-jug-planning.md) [~W]
 - [Descriptively, monitoring interventions with teacher feedback on entries and direct revision opportunities showed higher effects](../claims/teacher-feedback-and-revision-descriptive-advantage.md) [~W]
+- [Correctness overviews alone seldom lead to real insights into how to improve learning; dashboards must present teacher-actionable information supporting goal-setting, monitoring, and planning](../claims/dashboards-need-actionable-information-beyond-correctness.md) [+W]
 
 ## Related Principles
 - [Immediate Feedback](immediate-feedback.md)

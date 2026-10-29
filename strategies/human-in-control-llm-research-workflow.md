@@ -40,6 +40,7 @@ The article discloses a human–AI collaborative methodology in which LLMs serve
 ## Related Strategies
 
 - [Use an AI-assisted vibe coding workflow with human pedagogical control to move educational tools from idea to classroom within days](vibe-coding-rapid-educational-tool-development.md)
+- [Report HIL data extraction use explicitly, naming software, LLM, and extent of human validation](report-hil-data-extraction-software-llm-and-validation-extent.md)
 
 ## Examples
 -

@@ -117,3 +117,6 @@ Participants also reported "the lack of emotional connection and dependence on t
 - [Factor 1 student teachers were confident self-reliant GenAI users who showed limited ethical awareness and reflective practices](f1-self-reliant-limited-ethical-awareness.md) — related
 - [ChatGPT users report fabricated references and wrong sources from auto-generated literature content](chatgpt-fabricated-references-wrong-sources.md) — related
 - [An experienced supervisor linked rising student writing proficiency to AI tools while flagging copy-pasting and undetectable AI-generated content](expert-flags-copy-pasting-undetectable-ai-content.md) — related
+- [AI-generated content lacking references reduced participants' intellectual curiosity and sustained attention](ai-content-without-references-reduces-curiosity-attention.md) — related
+- [Instructional designers' main challenges with ChatGPT are output quality (53.8%), tool limitations (42.3%), and faculty unpreparedness (3.8%)](id-chatgpt-challenges-output-quality-tool-limits.md) — related
+- [Pessimistic Evaluators' foremost concern is misleading, inaccurate, or biased ChatGPT-generated information](pessimistic-evaluators-misleading-information-concern.md) — related

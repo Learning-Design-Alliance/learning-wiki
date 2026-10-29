@@ -56,3 +56,5 @@ Descriptive survey results from an 18-item modified scale (Cronbach's α = 0.86)
 - [Students hold generally positive attitudes toward Gen AI-assisted problem posing, with a minority mixed or negative](generally-positive-attitudes-gen-ai-problem-posing.md) — related
 - [Post-study attitudes and self-reports align with annotated behavior patterns: limited-engagement users show rising overreliance concern and less selective AI use](self-reports-align-with-ai-behavior-patterns.md) — related
 - [Irûmi increased second-graders' positive attitudes toward technology by 0.228 SD](irumi-student-technology-attitudes.md) — related
+- [Wary Thinkers share over-reliance and privacy concerns with Pessimists but acknowledge ChatGPT's time-saving benefits](wary-thinkers-overreliance-privacy-time-saving.md) — related
+- [Q methodology reveals three distinct instructional-designer perception factors toward ChatGPT integration: Pessimistic Evaluators, Optimistic Advocates, and Wary Thinkers](q-methodology-three-id-chatgpt-perception-factors.md) — related

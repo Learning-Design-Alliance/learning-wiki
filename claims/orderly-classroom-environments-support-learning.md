@@ -53,3 +53,4 @@ The review reports an experimental study (citing Bullard 2013) in which kinderga
 - [Interesting but irrelevant details can impair comprehension and transfer, with effects that vary with the material and the learner](seductive-details-effect.md) — related
 - [A WestEd research bulletin reports a curriculum revision that replaced a decorative photograph in a math problem with a problem-relevant sketch, on the developers' view that such photographs distract students](decorative-images-distract-from-math-problems.md) — related
 - [Sketching and viewing animations produced the best understanding of a geoscience text, while the photograph condition produced the worst](sketching-animation-best-understanding-photograph-worst.md) — related
+- [Kid Space use shifted children's attention away from the screen toward the physical environment](kid-space-less-screen-attention.md) — related

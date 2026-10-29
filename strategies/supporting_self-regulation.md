@@ -63,10 +63,12 @@ Self-regulation is not a fixed trait but a cyclical process of forethought, perf
 6. **Fade support and transfer control.** Gradually shift planning, monitoring, and evaluation from teacher to student, using [Action Planning](../strategies/action_planning.md) and student-led [Assessment](../elements/assessment.md) [Fading support promotes transfer of responsibility.](../claims/fading-support-promotes-transfer-of-responsibility.md) [+M].
 
 ## Related Strategies
+
 - [Scaffolding](../principles/cognitive-load-management.md) — temporary external regulation that is faded as students internalize control
 - [Formative Assessment](../patterns/formative-assessment.md) — feedback loops that teach students to evaluate their own work
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — forethought phase of the self-regulation cycle applied to content
 - [Class Discussion](../elements/class-discussion.md) — a social context for practicing turn-taking, impulse control, and perspective management
+- [Foster positive emotions, support self-regulatory skills, and provide emotional supports for students shifting to digital learning](foster-positive-emotions-self-regulation-emotional-supports.md)
 
 ## Examples
 - **Responsive Classroom** (https://www.responsiveclassroom.org) — daily [Check-Ins](../principles/check-ins.md), goal-setting conferences, and logical routines that build self-management across elementary grades.

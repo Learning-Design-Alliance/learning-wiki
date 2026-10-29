@@ -57,3 +57,4 @@ The editorial's methodological-considerations section states this validity chall
 - [Short et al.'s (1976) four bipolar scales are questionable as a social presence measure because they lack construct validation and assess attitudes toward the medium rather than perceived 'realness'](short-et-al-bipolar-scales-measurement-flaws.md) — related
 - [Student questionnaire responses suggest K-12 learners can learn advanced AI concepts](k12-learners-capacity-advanced-ai-concepts.md) — a narrower finding that bears on this claim
 - [Overconfidence in self-assessment is especially concerning in online learning environments where limited external feedback widens gaps between perceived and actual performance](online-learning-exacerbates-calibration-discrepancy.md) — related
+- [Traditional self-report methods face significant limitations in capturing the dynamic nature of SRL](self-report-srl-limitations-dynamic-nature.md) — possibly the same claim (merge candidate)

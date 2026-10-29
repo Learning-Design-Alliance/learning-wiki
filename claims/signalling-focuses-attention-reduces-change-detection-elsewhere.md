@@ -59,3 +59,4 @@ Small-group case study of 21 undergraduates studying a multimedia animation on c
 - [Body movements and positions focusing on virtual objects, and shifts away from or around them, signal key interactional collaborative events in shared VR](body-movement-signals-collaborative-events-vr.md) — related
 - [Producers signal their own argumentative position with arrows pointing toward their own arguments and more boxes around own arguments](arrows-and-boxes-signal-own-position.md) — related
 - [A narrative review reports that the signaling studies it cites found higher learning outcomes with signaled multimedia (illustrations with labeled text) than without](signaling-principle-increased-learning-outcomes.md) — related
+- [Kid Space use shifted children's attention away from the screen toward the physical environment](kid-space-less-screen-attention.md) — related

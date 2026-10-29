@@ -51,3 +51,4 @@ Focus group subtheme on inclusive and student-engaged learning. Youth such as Em
 - [Youth and parents reimagined schools without discrimination, with clear rules for equitable treatment, and with adults and peers who speak up against discrimination and support them](speaking-up-against-discrimination-allies.md) — related
 - [Youth reimagined schools with more Latinx teachers who would motivate them, provide role models, and make them feel understood](latinx-teacher-representation-motivation-role-models.md) — related
 - [Youth and parents reimagined schools with more resources and supportive infrastructure, including transportation, everyday-life programs, and activities for economically constrained families](school-resources-supportive-infrastructure.md) — related
+- [A bilingual robot speaking Spanish and English equally was essential for integrating Spanish and English speakers](bilingual-robot-integrates-language-diversity.md) — related

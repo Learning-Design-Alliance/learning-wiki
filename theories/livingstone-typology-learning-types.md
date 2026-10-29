@@ -17,7 +17,7 @@ sources:
 # Four-part typology of adult learning based on knowledge structure and primary agency
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The paper proposes a typology distinguishing four basic types of learning along two axes: whether the knowledge structure is pre-established or situational, and whether primary agency lies with teachers or learners. These yield formal schooling, non-formal (further) education, informal education/training, and self-directed or collective informal learning. The author defines informal learning as "any activity involving the pursuit of understanding, knowledge or skill which occurs without the presence of externally imposed curricular criteria." The typology is used to organize the paper's review of empirical research and to diagnose conceptual confusion in prior studies that conflated these types.
@@ -38,6 +38,7 @@ The paper proposes a typology distinguishing four basic types of learning along 
 
 ### Claims
 
+- [Four scholarly responses apply Willis et al.'s typology to K-12 learning analytics from educational, practice, ethical, and policy perspectives](../claims/four-responses-k12-learning-analytics-perspectives.md) [+W]
 
 ## Related Theories
 

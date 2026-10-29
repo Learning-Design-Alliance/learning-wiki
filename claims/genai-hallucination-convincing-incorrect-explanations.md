@@ -84,3 +84,4 @@ Observation from the WBA transcripts (e.g. a developmental psychology question i
 - [LLM-generated lessons produced inauthentic references even when combined with RAG over verified academic papers](rag-does-not-ensure-citation-authenticity.md) — related
 - [Large language models can produce fluent but factually inaccurate or fabricated outputs (AI hallucination), posing risks for uncritical users in science education](llm-hallucination-risk-science-education.md) — a broader claim this one bears on
 - [The main concern in all critical evaluations was the veracity of ChatGPT-provided references, which often do not exist](chatgpt-references-often-do-not-exist.md) — related
+- [AI-generated content lacking references reduced participants' intellectual curiosity and sustained attention](ai-content-without-references-reduces-curiosity-attention.md) — related

@@ -54,3 +54,4 @@ Institutional document coding of 116 institutions found privacy cautions directe
 - [Students' top two concerns about educational LLM use are output quality (fabricated or misleading content, 53 mentions) and the verification burden (34 mentions)](students-top-concerns-output-quality-verification-burden.md) — related
 - [Teachers report concerns about infrastructure, reliability, age appropriateness, teacher competence, and student over-reliance on AI](teacher-constraints-responsible-ai-integration.md) — related
 - [The main concern in all critical evaluations was the veracity of ChatGPT-provided references, which often do not exist](chatgpt-references-often-do-not-exist.md) — related
+- [Wary Thinkers share over-reliance and privacy concerns with Pessimists but acknowledge ChatGPT's time-saving benefits](wary-thinkers-overreliance-privacy-time-saving.md) — related

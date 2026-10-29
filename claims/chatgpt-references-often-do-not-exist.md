@@ -55,3 +55,4 @@ Findings from the authors' reading of participants' critical evaluations in the 
 - [Scholars raise three main concerns about AI chatbots in education: reliability and accuracy, fair assessment, and ethical issues](chatbot-concerns-reliability-assessment-ethics.md) — related
 - [Poorly grounded GenAI self-study risks fabricated content and inferior learning relative to curated resources](genai-self-study-fabrication-curated-resources.md) — related
 - [GPT-3 fabricates plausible-looking but fake references and apparently invents the research studies they cite](gpt3-fabricates-fake-references.md) — related
+- [Pessimistic Evaluators' foremost concern is misleading, inaccurate, or biased ChatGPT-generated information](pessimistic-evaluators-misleading-information-concern.md) — related

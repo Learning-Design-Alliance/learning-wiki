@@ -50,3 +50,4 @@ Post-activity Qualtrics survey (20 Likert items) completed by 150 first-year STE
 - [Students initially perceived GenAI explanation features and dashboard visualizations positively in introductory lab sessions](positive-initial-perceptions-genai-feedback-functionalities.md) — related
 - [Direct conditions descriptively show higher post-task full comprehension than Socratic conditions, with Direct + Full Context highest and Socratic + Full Context lowest](direct-conditions-higher-full-comprehension.md) — related
 - [A large introductory statistics unit integrated AI-enabled elements (AI-assisted poster assessment, AI-enhanced lectures, and an AI chatbot) to complement statistical reasoning](stat1170-ai-enabled-elements-complement-reasoning.md) — related
+- [Students rate the virtual campus positively overall, with communication tools scoring lowest](virtual-campus-positive-communication-lowest.md) — related

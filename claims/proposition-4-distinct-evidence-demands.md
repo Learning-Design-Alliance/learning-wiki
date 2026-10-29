@@ -69,3 +69,4 @@ A theoretical proposition from the validation agenda of this conceptual article,
 - [The article argues that pairing GenAI-vulnerable assessment formats as twins mitigates validity threats by triangulating evidence](assessment-twins-triangulate-evidence-mitigate-threats.md) — a narrower finding that bears on this claim
 - [A multimethod approach provides a richer portrayal of young children's performance than any single measure.](multimethod-approach-richer-portrayal-child-performance.md) — related
 - [Static individual assessment misses developing functions; ZPD-based assessment reveals potential competencies](static-assessment-misses-emerging-functions.md) — related
+- [Structural assessment measures domain understanding differently from verbal assessment](structural-assessment-differs-from-verbal-assessment.md) — a narrower finding that bears on this claim

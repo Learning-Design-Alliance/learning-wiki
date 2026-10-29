@@ -51,6 +51,7 @@ To address the high uncertainty observed in the survey, the article recommends g
 - [Develop student AI literacy and institutional GenAI policies, guidelines and safeguards for responsible integration](genai-literacy-and-institutional-policy-strategy.md)
 - [Universities should provide vivid guidelines and education on how and where ChatGPT may be used for learning](university-guidelines-education-chatgpt-use.md)
 - [Provide institutional support: regular GenAI workshops, subsidized access to advanced tools, reliable resources, and curriculum inclusion](institutional-support-genai-translation-workshops-curriculum.md)
+- [Use the classification tool to shape AI-in-education guidelines, professional development, and teacher adaptation of ChatGPT activities](use-classification-tool-policy-pd.md)
 
 ## Examples
 -

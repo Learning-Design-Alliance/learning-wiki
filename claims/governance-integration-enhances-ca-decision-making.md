@@ -52,3 +52,4 @@ Cross-case qualitative finding (RQ2-2) from improvement-plan documents, intervie
 - [Clear role assignment, training resources, and advisory support facilitated CA-supported continuous improvement and reduced faculty workload perceptions](clear-roles-and-training-support-ca-implementation.md) — related
 - A literature review identifies misalignment between conducted research and needed evidence, contextual factors, and rarely used bridging frameworks as challenges to evidence use in policy decisions — a broader claim this one bears on
 - [Subject matter interviews reveal barriers to evidence use in government: untimely evidence, research not geared to decision-makers, limited understanding of evidence, and organizational influences](interview-barriers-evidence-use-government.md) — a broader claim this one bears on
+- [Faculty organized EdTech integration decisions in ways aligned with the principles](dexter-2023-faculty-decisions-aligned-principles.md) — related

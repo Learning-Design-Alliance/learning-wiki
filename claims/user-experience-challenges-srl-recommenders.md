@@ -50,3 +50,5 @@ Meta-synthesis of 33 empirical studies. The review reports that user experience 
 - [The concept-map interface let teachers generate scaffolds matching their content focuses, class activities, and teaching styles](concept-catalyst-scaffold-diversity-matches-practices.md) — related
 - [AAC users report device useability difficulties, high cognitive load when learning communication systems, and poor physical and sensory access](aac-user-barriers-cognitive-load-access.md) — related
 - [Waterfall-like design spaces are inadequate for AIEd because adaptable systems have untestable states](waterfall-design-inadequate-for-aied.md) — related
+- [Students enjoyed learning by playing user-generated microgames despite disadvantages such as missing learning instructions and inadequate interfaces](students-enjoyed-microgames-despite-disadvantages.md) — a narrower finding that bears on this claim
+- [Teachers found user-generated microgames acceptable for short serious gaming sessions despite limitations to one player with basic interfaces](teachers-found-microgames-acceptable-despite-limits.md) — related

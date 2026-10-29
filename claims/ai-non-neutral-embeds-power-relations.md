@@ -82,3 +82,4 @@ Theoretical assertion in the discussion, attributed by the article to Coeckelber
 - [Assessment instruments are never neutral but always mediational, embedding a culturally biased telos](assessment-always-mediational.md) — a narrower finding that bears on this claim
 - [Cultural variations exist in emotion and other psychological topics of interest to AIED, so psychology research influencing AIED is likely WEIRD-imbalanced](cultural-variation-emotion-aied-topics.md) — related
 - [Technical reframings of AIED criticism fail to address the fundamental political questions](technical-fixes-miss-political-questions.md) — a narrower finding that bears on this claim
+- [DAGs differ from SEMs in that they are non-parametric and make causal assumptions explicit](dag-vs-sem-causal-inference.md) — related

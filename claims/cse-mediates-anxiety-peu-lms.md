@@ -50,3 +50,4 @@ Mediation analysis (Baron & Kenny criteria plus Sobel/Goodman test in XLSTAT) on
 - [CSE partially mediates anxiety's effect on PEU: the direct ANX–PEU path remains significant but weaker](cse-partial-mediation-anx-peu-weakened.md) — possibly the same claim (merge candidate)
 - [Computer self-efficacy has a strong significant relationship with computer anxiety](cse-strong-relationship-computer-anxiety.md) — related
 - [Students' perceived self-efficacy is positively associated with their reported time management](self-efficacy-positive-association-time-management.md) — related
+- [Computer self-efficacy mediates the relationship between technological literacy attained through the Contextualized-OLPC project and functional literacy](computer-self-efficacy-mediation-olpc-functional-literacy.md) — related

@@ -13,7 +13,7 @@ generated:
 # Writing Skills
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 164 claims (108 show a difference, 35 mixed, 21 no difference) · 89 studies (35 causal, 26 associational, 11 review, 10 quant-synthesis, 4 theoretical, 3 design), `q1`–`q4` · 34 of 89 report an effect size · 159 claims rest on one study
+> **Evidence** · 167 claims (109 show a difference, 35 mixed, 23 no difference) · 90 studies (36 causal, 26 associational, 11 review, 10 quant-synthesis, 4 theoretical, 3 design), `q1`–`q4` · 35 of 90 report an effect size · 162 claims rest on one study
 
 ## Description
 Writing skills run from the foundational to the compositional. At the foundation are the motor skills of handwriting, knowledge of letters and print, spelling, punctuation, capitalisation and writing speed. Composition is the expression of ideas in writing: setting goals for a piece, deciding on content and structure, and shaping it for an audience and purpose. Genre knowledge is knowing the elements, vocabulary and order a narrative, persuasive or informative text calls for, and argumentative reasoning is the ability to make and support a claim with evidence and judge other people's arguments. The Learner Variability Navigator covers these as five factors across early childhood, the primary and secondary grades and adult learning.
@@ -202,6 +202,9 @@ They are assessed with curriculum-based measures (copying, dictation, spelling, 
 - [Students given argument diagramming support are significantly more likely to include opposing evidence in their research paper introductions than unsupported students](../claims/diagramming-increases-opposing-evidence.md) [+M] — instruction changes it
 - [The benefits of argument diagramming for citation relevance and opposing evidence are robust across diagramming framework, with no difference between the domain-general and domain-specific frameworks on those measures](../claims/diagramming-benefits-robust-across-frameworks.md) [+M] — instruction changes it
 - [AWE is more effective for surface-level writing skills than for higher-order skills such as argumentation and coherence](../claims/awe-surface-level-stronger-than-higher-order.md) [~M] — instruction changes it
+- [Network-based writing feedback does not improve quantity or structural quality of integration](../claims/network-feedback-no-effect-quantity-structure.md) [-M] — instruction changes it
+- [Pre-reading expert referent networks and post-reading network-based writing feedback do not improve semantic quality of integration](../claims/expert-networks-do-not-improve-semantic-quality.md) [-M] — instruction changes it
+- [Structural quality of integration (GCsim) increases substantially at delayed writing three days later](../claims/structural-quality-increases-delayed-writing.md) [+M] — instruction changes it
 
 ## Measures
 - **Wechsler Individual Achievement Test (Third Edition)** (Breaux & Frey, 2010): This multi-battery test can be used in a variety of settings to measure ability and screen for potential learning disabilities. There are extensive written expression sub-tests to analyze Composition abilities.

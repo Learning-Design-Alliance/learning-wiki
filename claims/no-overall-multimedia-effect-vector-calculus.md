@@ -52,3 +52,4 @@ Between-subject experiment (N = 16 without graphs, N = 20 with graphs), 36 engin
 - [Contrasting problems show a graph can help on one problem and harm on another: verbal data reveal both more active graph use and more shallow, confident confirmation when graphs were present](graph-helpful-harmful-contrasting-cases.md) — related
 - [Multiple representations improve learning](multiple-representations-improve-learning.md) — a broader claim this one bears on
 - [Solving problems with graphs increased mental effort, shown by a higher proportion of silence in think-aloud data](graphs-increase-mental-effort-silence.md) — related
+- [Watching a multimedia presentation increases the probability of answering mid-term test questions correctly](multimedia-presentation-increases-probability-correct-answers.md) — reports the opposite

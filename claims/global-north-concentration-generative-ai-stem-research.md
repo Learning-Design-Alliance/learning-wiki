@@ -68,3 +68,4 @@ Country categorization of all 183 publications by author affiliations shows "73%
 - [AIED ethics publication output is concentrated in Europe, led by the United Kingdom (47%) and Finland (20%)](aied-ethics-publications-european-concentration.md) — related
 - [Spain, the United Kingdom, Germany, Greece, and the United States conducted the most studies](countries-conducting-most-studies.md) — related
 - [AT research on students with disabilities is concentrated in the USA and dominated by qualitative designs and secondary education settings](at-research-usa-qualitative-secondary.md) — related
+- [Deployments concentrate in special education areas and primary/secondary institutions, with the USA leading country counts](deployment-areas-special-education-largest-share.md) — related

@@ -59,3 +59,4 @@ Synthesis in the RQ1 findings section of the review: LLMs can "simulate evaluati
 - [AI's democratizing capacity is structurally contradictory: it amplifies existing capabilities rather than closing gaps between users](ai-democratization-contradiction-multiplier.md) — reports the opposite
 - [GenAI is reframed from a threat to academic integrity into a catalyst for more equitable assessment](genai-reframed-integrity-threat-to-equity-catalyst.md) — related
 - [Most studies used online peer feedback to improve students' task performance](peer-feedback-function-task-performance-dominant.md) — related
+- [GenAI can most effectively support knowledge building in the Collaboration Zone as a dialogic 'sparring partner'](genai-collaboration-zone-sparring-partner.md) — related

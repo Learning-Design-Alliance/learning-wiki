@@ -73,3 +73,4 @@ Cultural-bias subtheme from the same FGD thematic analysis: participants judged 
 - [ChatGPT-generated SBMCQs contained a higher rate of nonfunctional distractors than faculty-generated SBMCQs (33.75% vs. 13.75%)](chatgpt-sbmcqs-more-nonfunctional-distractors.md) — related
 - [Educator- and institutional-level challenges include curricular misalignment, need for teacher mediation, unequal access, privacy concerns, academic integrity risks, and algorithmic bias](chatgpt-steam-ibl-educator-institutional-challenges.md) — a broader claim this one bears on
 - [Faculty-generated SBMCQs met all three ideal item-analysis criteria more often than ChatGPT-generated SBMCQs (19 vs. 9 of 40)](faculty-sbmcqs-outperform-chatgpt-ideal-criteria.md) — related
+- [Instructional designers' main challenges with ChatGPT are output quality (53.8%), tool limitations (42.3%), and faculty unpreparedness (3.8%)](id-chatgpt-challenges-output-quality-tool-limits.md) — related

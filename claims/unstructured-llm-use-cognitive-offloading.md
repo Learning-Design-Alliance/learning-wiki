@@ -61,3 +61,4 @@ A conceptual, normative and design-oriented paper that states it does not report
 - [LLM-supported socio-scientific inquiry lowered cognitive load but produced lower-quality reasoning and argumentation than conventional search](llm-inquiry-lower-load-lower-reasoning.md) — a narrower finding that bears on this claim
 - [Learners who construct good single arguments individually are not always able to apply that competence in comparable collaborative tasks](solo-argument-competence-not-applied-collaboratively.md) — related
 - [Overreliance on GenAI risks diminishing higher-order thinking skills and programming logic](genai-overreliance-risks-hots-programming-logic.md) — a narrower finding that bears on this claim
+- [GenAI cognitive offloading of lower-order tasks frees cognitive resources but risks reduced human evaluation skills](genai-cognitive-offloading-benefits-and-risks.md) — related

@@ -56,3 +56,4 @@ Practitioner-guide assertion (expert interpretation, no empirical study reported
 - [An article on narrative inquiry asserts, without data, that teachers' internal drive rather than top-down prescriptions leads to the most successful change in educational practice](teacher-internal-drive-successful-change.md) — related
 - [Providing a learner profile shifts an LLM's selected instructional strategies from content-focused to learner-centered](learner-profile-shifts-llm-instructional-strategy-selection.md) — related
 - [Adaptive skill is becoming increasingly essential for life and work](adaptive-skill-essential-life-work.md) — related
+- [School reform toward making-centered curricula requires substantial adaptation of educators' skills and beliefs](maker-reform-requires-educator-adaptation.md) — a narrower finding that bears on this claim

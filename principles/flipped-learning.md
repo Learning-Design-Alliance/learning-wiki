@@ -28,7 +28,7 @@ sources:
 # Flipped Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 35 claims (16 for, 18 mixed, 1 against) · 38 studies (13 causal, 10 review, 8 quant-synthesis, 3 associational, 2 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 11 of 38 report an effect size · 28 claims rest on one study
+> **Evidence** · 40 claims (19 for, 20 mixed, 1 against) · 40 studies (14 causal, 10 review, 8 quant-synthesis, 3 associational, 2 design, 2 theoretical, 1 qualitative), `q1`–`q4` · 13 of 40 report an effect size · 33 claims rest on one study
 
 ## Conditional relationship
 
@@ -169,6 +169,11 @@ An end-of-course exam advantage, delayed retention, self-efficacy, preparation r
 - [Lecture-based learning events show a clearer decline in EDA across within-event segments than flipped learning events](../claims/lecture-based-events-clearer-eda-decline-across-segments.md) [~W]
 - [Teaching implementation (flipped vs. lecture-based) shows no significant main effect on post-event emotional valence](../claims/no-main-effect-of-teaching-implementation-on-post-event-valence.md) [~W]
 - [No significant difference between flipped and classroom-only groups in belonging or usability ratings](../claims/duda-flipped-classroom-no-difference.md) [~W]
+- [Students in a model-designed flipped algebra course showed significant pre-to-post gains in mature views of mathematics](../claims/flipped-algebra-vams-significant-gain.md) [+W]
+- [Students in the flipped algebra course showed significant increases in quality of reflections and satisfaction](../claims/flipped-algebra-reflection-satisfaction-gains.md) [+W]
+- [Probability of notable grades is substantially higher under flipped classroom methodology](../claims/flipped-classroom-notable-grade-odds.md) [~W]
+- [Flipped classroom methodology yields significantly higher average grades than traditional methodology](../claims/flipped-classroom-higher-grades-than-traditional.md) [+W]
+- [Teaching resources used within the flipped classroom years do not affect average grades, except for the year with reduced technology access](../claims/flipped-resources-no-effect-except-technology-classroom-year.md) [~W]
 
 ## Related Principles
 - [Scaffolding and Fading](scaffolding-and-fading.md) — how support in the pre-class work and the live session is withdrawn across a term
@@ -190,6 +195,7 @@ An end-of-course exam advantage, delayed retention, self-efficacy, preparation r
 - Short pre-class videos followed by in-class coached application.
 - [Cross-device learning platform with Course, Gallery, and GenAI modules for flipped studio preparation](../designs/cross-device-flipped-genai-design-platform.md)
 - [Structure simulator sessions as short introductions followed by repeated task performance with teacher circulation and feedback.](../strategies/simulator-session-structure-intro-repetition-teacher-circulation.md)
+- [Start each face-to-face class with a verification quiz or Q&A to link online preparation to classroom activity](../strategies/flipped-verification-quiz-entry-ticket.md)
 
 ### Illustrative
 

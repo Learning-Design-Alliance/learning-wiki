@@ -50,3 +50,4 @@ The article's synthesis of highly cited education studies (Sperling et al., 2024
 - [Existing institutional AI literacy frameworks converge on a consumer model with no substantive treatment of training data politics or governance participation](existing-ai-literacy-frameworks-consumer-model.md) — reports the opposite
 - [High-level feedback on reasoning and synthesis should remain a human responsibility for the foreseeable future](high-level-feedback-remains-human-responsibility.md) — a narrower finding that bears on this claim
 - [Surveyed professionals show strong technical AI awareness but limited ethical and governance readiness](strong-technical-awareness-limited-ethical-governance-readiness.md) — related
+- [Human judgement is central to accurate and ethical human-AI knowledge building](human-judgement-central-ai-knowledge-building.md) — possibly the same claim (merge candidate)

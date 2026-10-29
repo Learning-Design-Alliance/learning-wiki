@@ -57,9 +57,12 @@ Relevance connections work best when they are made by learners themselves or tie
 5. Provide feedback focused on how effectively the writing accomplishes its real-world purpose, not just its formal correctness [feedback most effective at task and process levels.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S].
 
 ## Related Strategies
+
 - [Authentic audiences and purposes](../principles/authentic-audiences-purposes.md) — the underlying principle; this strategy is its application to writing instruction
 - [Case-based learning](../patterns/case-based-learning.md) — real professional scenarios can frame writing tasks the way cases frame problem solving
 - [Cognitive apprenticeship](../patterns/cognitive-apprenticeship.md) — practitioner modeling of workplace writing enacts the modeling and articulation phases
+- [Theory courses should require an application piece such as real-world clients or service-learning to prepare designers for practice](theory-course-application-piece.md)
+- [Design AI scaffolds for STEM learning by linking learners' goals and interests to real scientific applications of AI](strategy-design-field-specific-ai-scaffolds-stem.md)
 
 ## Examples
 - A science instructor invites a working researcher to walk through a published paper and a rejected draft, showing how revision and clarity affect publication outcomes.

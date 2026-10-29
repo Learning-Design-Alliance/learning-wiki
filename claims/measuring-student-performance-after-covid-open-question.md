@@ -55,3 +55,4 @@ The webinar description frames measurement as an unresolved question: “How sho
 - [The visualizations address how student growth changed since school buildings closed in March 2020](student-growth-change-since-march-2020-closures.md) — related
 - [The forum addressed modeling of school openings, closings, and learning loss during COVID-19](covid-modeling-openings-closings-learning-loss.md) — related
 - [COVID-19 school closures caused approximately 70% attrition on the primary outcome, limiting the trial's power to detect effects](covid-attrition-limited-power.md) — related
+- [Nacu, Martin, and Pinkard's heuristic method addresses the questions educators faced during the COVID-19 school closures](nacu-heuristic-method-covid-relevance.md) — related

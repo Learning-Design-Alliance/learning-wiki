@@ -53,3 +53,4 @@ The article reports, citing Cristia et al. (2017), a randomized evaluation of th
 - [Brandt et al. (2013) finds a statistically significant positive effect of eMINTS on seventh- and eighth-grade mathematics achievement](brandt-2013-significant-math-effect.md) — reports the opposite
 - eMINTS produces a statistically significant positive effect on state math measures (ES +0.15) in a 3-year rural Missouri study — reports the opposite
 - [Technology access problems during the COVID shift were more prevalent among minoritized students and students from lower-income households](covid-stem-tech-access-inequity.md) — related
+- [Mere deployment of OLPC laptops has limited relevance to children in use and outcome](mere-laptop-deployment-limited-relevance.md) — a broader claim this one bears on

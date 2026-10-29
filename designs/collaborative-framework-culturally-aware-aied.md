@@ -44,7 +44,8 @@ The article contributes a "collaborative framework for culturally aware AIED" or
 - [Cultural Map Boundary Object Distributed Cognition](../claims/cultural-map-boundary-object-distributed-cognition.md) [+M]
 
 ## Related Designs
-- 
+
+- [Multidisciplinary conceptual framework of child development, intercultural communication, and culturally sustaining pedagogy for robot-mediated interaction](multidisciplinary-framework-robot-mediated-interaction.md)
 
 ## Examples
 -

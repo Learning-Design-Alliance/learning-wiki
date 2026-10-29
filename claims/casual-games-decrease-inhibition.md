@@ -47,3 +47,4 @@ Paired-sample t-test within the casual game condition (n = 38) on Trail Making T
 ## Related Claims
 - [Inhibition performance improved significantly from pretest to posttest within the situational training game condition](situational-games-within-group-inhibition-gain.md) — related
 - [Situational training games produced significantly higher post-test inhibition ability than casual games in a counterbalanced within-subjects experiment](situational-training-games-higher-inhibition-than-casual.md) — related
+- [Coherence scores decreased after game training for both novices and advanced learners](coherence-decrease-after-training.md) — related

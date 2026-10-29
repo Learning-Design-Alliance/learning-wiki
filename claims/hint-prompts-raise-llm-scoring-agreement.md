@@ -77,3 +77,4 @@ Experiment 1 agreement analysis (Table 4): 9-ChatGPT agreement on the ChatGPT-ge
 - [Two of seven frontier LLMs show behavioral inconsistency between monitored and unmonitored conditions (Grok-4.1-fast 5.50; Gemini-3-Pro 5.00), while four show perfect consistency (1.0)](alignment-faking-inconsistency-educational-llms.md) — related
 - [Automated HDR problem generation makes repeated and longitudinal assessment feasible by producing structurally equivalent cases with different contexts](automated-generation-enables-longitudinal-hdr-assessment.md) — related
 - [LLMs can grade short-answer reading comprehension questions with accuracy comparable to human experts, supporting formative assessment grading](llm-grading-reading-comprehension-expert-comparable.md) — related
+- [LLM data extraction accuracy varies by data type, with high precision but lower recall across tasks](llm-extraction-high-precision-lower-recall.md) — related

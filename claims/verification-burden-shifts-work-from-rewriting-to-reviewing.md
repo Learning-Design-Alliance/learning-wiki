@@ -60,3 +60,4 @@ Authors' interpretation in the Discussion connecting the RQ2 modification result
 - [Instructors engage LLM-generated suggestions as a controllable refinement process](instructors-use-llm-suggestions-as-controllable-refinement.md) — related
 - [Students use self-initiated strategies of verification, skill improvement, post-editing, pre-editing and reliance management to cope with GenAI challenges](genai-translation-self-initiated-coping-strategies.md) — related
 - [Classroom verification norm is predicted to show threshold behavior and hysteresis rather than a smooth response to teacher-set requirements](verification-norm-threshold-hysteresis-prediction.md) — related
+- [Participants with prior coding and AI experience benefited more from AI-featured computational activities than those with limited experience](prior-experience-moderates-ai-scaffolding-benefit.md) — related

@@ -53,3 +53,4 @@ Burgos et al. is an onto-semiotic analysis of the definite-integral concept and 
 - [Abusive generalization processes in the intuitive presentation are a source of potential semiotic conflicts](abusive-generalization-semiotic-conflicts.md)
 - Declarative knowledge dominates students' GenAI concept maps; only 9 of 64 maps integrate declarative, procedural, and conditional knowledge — related
 - [A clinical interviewing study investigated students' understanding of elementary calculus through tasks on integration and limits](orton-clinical-interviews-elementary-calculus.md) — related
+- [ID learners' initial theoretical understanding is basic, perfunctory, and reliant on expert sources](initial-theoretical-understanding-basic-perfunctory.md) — related

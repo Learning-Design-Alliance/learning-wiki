@@ -59,3 +59,4 @@ Correlational field study of N = 358 senior high school students in regular biol
 - [Children showing high levels of negative externalizing emotions during the challenge task are rated as less socially competent, more hyperactive, and with poorer interpersonal and self-regulatory skills](negative-externalizing-emotions-predict-poorer-readiness.md) — related
 - [Anger shows a small positive association with political learning in both cross-sectional and experimental designs](anger-positive-association-political-learning.md) — related
 - [Within persons, grades negatively predict subsequent anger and hopelessness, and anger, anxiety, boredom, and hopelessness negatively predict subsequent grades](grades-negative-emotions-within-person-effects.md) — related
+- [Positive emotions are associated with higher academic performance while negative emotions are associated with poorer performance](positive-emotions-associated-with-higher-performance.md) — related

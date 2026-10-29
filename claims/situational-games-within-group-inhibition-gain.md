@@ -47,3 +47,4 @@ Paired-sample t-test within the situational training game condition (n = 38) com
 ## Related Claims
 - [Inhibition ability significantly decreased after playing casual games](casual-games-decrease-inhibition.md) — related
 - [Situational training games produced significantly higher post-test inhibition ability than casual games in a counterbalanced within-subjects experiment](situational-training-games-higher-inhibition-than-casual.md) — related
+- [Coherence scores decreased after game training for both novices and advanced learners](coherence-decrease-after-training.md) — related

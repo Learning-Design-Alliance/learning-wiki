@@ -44,7 +44,8 @@ The study built a conceptual model (Figure 2) linking cultural and contextual fa
 - [The scope of PBL implementation shaped discussion quality: hybrid lecture-based implementation reduced uncertainty but yielded less critical discussion than full PBL](../claims/scope-of-pbl-implementation-shapes-discussion.md) [+W]
 
 ## Related Designs
-- 
+
+- [Technology-Community-Management (TCM) model as a framework for contextualized technology implementation](tcm-model-contextualized-implementation.md)
 
 ## Examples
 -

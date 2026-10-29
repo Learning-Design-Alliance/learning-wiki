@@ -54,3 +54,4 @@ Exploratory analysis adding the affect index as a predictor of preferential choi
 - [Children across three diverse populations expressed more positive emotions during peer collaboration than during individual activity, with the effect strongest among German and weakest among Hai||om children](positive-emotions-during-collaboration-cross-cultural.md) — related
 - [Younger male gamers report more anti-social motivations; pro-social gaming is more prevalent in older gamers](younger-male-gamers-antisocial-motivations.md)
 - [Children's reports of experiences are extremely unreliable, with more misstatements than adults' reports even when no motive to lie exists](children-reports-unreliable-misstatements.md) — related
+- [Preferred social situation of contact shifts with grade level: younger children prefer family situations, fourth graders prefer being alone, and sixth graders prefer peers](grade-level-shifts-preferred-social-situation-of-contact.md) — related

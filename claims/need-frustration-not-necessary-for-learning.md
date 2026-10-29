@@ -61,3 +61,4 @@ Narrative review argument synthesizing research on autonomous motivation, flow, 
 - [Challenging study demands combined with resources boost emotional engagement, though interaction effects on cognitive and behavioral engagement were mainly nonsignificant](boost-hypothesis-study-demands-resources.md) — related
 - [Negative emotions are not uniformly detrimental; differentiation by valence, arousal, and object focus is needed](negative-emotions-not-uniformly-detrimental.md) — related
 - [Educational psychology cannot be formulated or taught without a substantial background in general psychology (Baldwin's position)](educational-psychology-needs-general-psychology-background.md) — related
+- [Struggle is experienced as a necessary and motivating part of theoretical sensemaking](struggle-necessary-and-motivating.md) — reports the opposite

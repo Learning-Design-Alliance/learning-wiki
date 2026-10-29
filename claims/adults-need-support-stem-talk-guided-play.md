@@ -48,3 +48,4 @@ Background statement motivating the study, presented without supporting data or 
 - [Guided activity kits showed no main effect on parents' STEM talk or directive management during parent-child building play](guided-kits-no-main-effect-stem-talk-management.md) — related
 - [Guided play outperforms direct instruction or free play on a few early-childhood outcomes, with no reliable difference on most others, in one meta-analysis](play-based-learning-improves-outcomes.md) — a broader claim this one bears on
 - [Minimal guidance is less effective for novices than explicit instruction](minimal-guidance-less-effective-for-novices.md) — related
+- [Maker education can promote STEM-related learning outcomes, collaboration, and empathy](maker-education-benefits-claim.md) — related

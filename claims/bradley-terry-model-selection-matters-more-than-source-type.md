@@ -89,3 +89,4 @@ Bradley-Terry model fit to all 801 decisive blind comparisons over the eight ver
 - [No significant differences emerged between GPT-3.5 Turbo and Claude 3 Opus on affective, collaborative, or performance measures](no-difference-gpt35-turbo-claude3-opus.md) — related
 - [LLM coders replicate many human discursive moves but lack questioning, adaptive responsiveness, and emotional expressiveness](claim-llms-replicate-discursive-moves-lack-questioning.md) — related
 - [Hierarchical Acceptance Rate aligns with expert acceptance decisions better than single-dimension and holistic LLM judges](har-outperforms-llm-judge-acceptance-alignment.md) — related
+- [LLMs show moderate agreement with human coders when extracting explicitly stated data from education studies](llms-moderate-agreement-explicit-data-extraction-education.md) — related

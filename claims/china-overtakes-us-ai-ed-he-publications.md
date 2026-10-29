@@ -54,3 +54,4 @@ Country coding of the 138 included studies shows Asia had the largest share at 4
 - [AIED ethics publication output is concentrated in Europe, led by the United Kingdom (47%) and Finland (20%)](aied-ethics-publications-european-concentration.md) — related
 - [The 22 reviewed AI-in-EFL studies are concentrated in Southeast Asia and predominantly use mixed-method and quasi-experimental designs](ai-efl-review-descriptive-distribution.md) — related
 - [Spain, the United Kingdom, Germany, Greece, and the United States conducted the most studies](countries-conducting-most-studies.md) — related
+- [Deployments concentrate in special education areas and primary/secondary institutions, with the USA leading country counts](deployment-areas-special-education-largest-share.md) — related

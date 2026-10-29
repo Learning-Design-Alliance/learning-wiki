@@ -51,3 +51,4 @@ Theoretical argument in the commentary's integration-versus-differentiation sect
 - [Experienced effort-by-need frustration is neither a necessary requirement nor a typical concomitant of high-quality learning](need-frustration-not-necessary-for-learning.md) — related
 - [Praise for intelligence, rather than for effort, after success undermines children's motivation and performance after a later failure](feedback-praise-reduces-learning.md) — related
 - [The type and intensity of emotions students experience in feedback situations depend on feedback focus (task vs person) and valence, in interplay with context and student characteristics](feedback-focus-and-valence-shape-emotions.md) — a narrower finding that bears on this claim
+- [Struggle is experienced as a necessary and motivating part of theoretical sensemaking](struggle-necessary-and-motivating.md) — related

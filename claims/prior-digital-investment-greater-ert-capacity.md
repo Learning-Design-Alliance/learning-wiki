@@ -52,3 +52,4 @@ The authors' observational reflection (SF2 section) on Scottish primary and seco
 - [Edtech coaches significantly supported administrators by providing teacher PD and implementing LMS tools during closures](coach-support-to-administrators-closures.md) — a narrower finding that bears on this claim
 - [Studies in which students used familiar online-learning software reported positive achievement effects during school closures](covid-closures-positive-effects-online-software.md) — related
 - [Training providers and instructors faced logistical challenges moving in-person apprenticeship training online but adapted quickly](providers-adapted-in-person-training-online.md) — related
+- [Media and technology provide affordances but effective use depends on good instructional design and support](media-affordances-depend-on-instructional-design.md) — a broader claim this one bears on

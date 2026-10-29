@@ -31,7 +31,7 @@ sources:
 # Digital Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 78 claims (36 for, 37 mixed, 5 against) · 87 studies (21 review, 20 causal, 17 theoretical, 12 quant-synthesis, 6 associational, 6 design, 5 qualitative), `q1`–`q4` · 14 of 87 report an effect size · 67 claims rest on one study
+> **Evidence** · 80 claims (38 for, 37 mixed, 5 against) · 89 studies (21 causal, 21 review, 18 theoretical, 12 quant-synthesis, 6 associational, 6 design, 5 qualitative), `q1`–`q4` · 14 of 89 report an effect size · 69 claims rest on one study
 
 ## Conditional relationship
 
@@ -195,6 +195,8 @@ Access, use, assisted success, unaided immediate performance, delayed retention 
 - [Pandemic-era emergency online learning produced mixed educational results that exacerbated existing inequities](../claims/pandemic-online-learning-exacerbated-inequities.md) [-W]
 - [Mobile devices served as the primary tool for learners and teachers during the emergent remote teaching process of the pandemic](../claims/mobile-devices-primary-tool-emergent-remote-teaching.md) [~W]
 - [Prior mathematical ability moderates tablet-DGBL gains, with mixed direction across studies](../claims/prior-math-ability-mixed-moderator.md) [~W]
+- [Media and technology provide affordances but effective use depends on good instructional design and support](../claims/media-affordances-depend-on-instructional-design.md) [+W]
+- [Mere deployment of OLPC laptops has limited relevance to children in use and outcome](../claims/mere-laptop-deployment-limited-relevance.md) [+W]
 
 ## Related Principles
 - [Flipped Learning](flipped-learning.md) — digital delivery often makes pre-class access and replayable initial exposure possible

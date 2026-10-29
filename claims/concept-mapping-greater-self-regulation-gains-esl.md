@@ -48,3 +48,4 @@ Same randomized pretest-posttest experiment with 79 ESL students; split-plot and
 - [ESL students taught concept mapping show significantly greater pretest-to-posttest achievement gains than students taught an alternative learning strategy](concept-mapping-greater-achievement-gains-esl.md) — related
 - [ESL students taught concept mapping show significantly greater gains in self-efficacy for learning from text than students taught an alternative learning strategy](concept-mapping-greater-self-efficacy-gains-esl.md) — related
 - [Students showed significant learning gains on domain knowledge (large effect) and concept maps (medium effect) after a 45-minute SRL-rich learning task](srl-task-learning-gains-domain-concept-maps.md) — related
+- [Self-regulation and self-directed learning strategies need to be taught and practiced over time](self-regulation-strategies-taught-over-time.md) — related

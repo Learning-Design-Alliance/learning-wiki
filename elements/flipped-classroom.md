@@ -13,7 +13,7 @@ generated:
 # Flipped Classroom
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (1 for, 2 mixed) · 3 studies (1 causal, 1 review, 1 design), `q2` · 0 of 3 report an effect size · 3 claims rest on one study
+> **Evidence** · 5 claims (3 for, 2 mixed) · 4 studies (2 causal, 1 review, 1 design), `q2`–`q3` · 1 of 4 report an effect size · 5 claims rest on one study
 
 ## Description
 Flipped classroom is the element in which initial content exposure happens before class so in-class time can focus on application and feedback.
@@ -27,6 +27,8 @@ Flipped classroom is the element in which initial content exposure happens befor
 - [Both flipped and AI-enhanced flipped classrooms achieve higher in-class question accuracy than the traditional classroom](../claims/flipped-models-higher-question-accuracy.md) [+W]
 - [In one reviewed study, flipped classrooms using AI tools raised cognitive and emotional engagement but behavioral engagement showed no significant difference from traditional methods](../claims/ai-flipped-classroom-behavioral-engagement-null.md) [~W]
 - [No significant difference between flipped and classroom-only groups in belonging or usability ratings](../claims/duda-flipped-classroom-no-difference.md) [~W]
+- [Flipped classroom methodology yields significantly higher average grades than traditional methodology](../claims/flipped-classroom-higher-grades-than-traditional.md) [+W]
+- [Probability of notable grades is substantially higher under flipped classroom methodology](../claims/flipped-classroom-notable-grade-odds.md) [+W]
 
 ## Related Elements
 - [Pre-Class Preparation](pre-class-preparation.md)

@@ -48,3 +48,4 @@ Controlled experiment by McTavish with four groups of college freshmen in a scie
 - [A second showing of an educational film produced substantial learning increments, but a third showing failed to add materially or significantly](second-film-showing-substantial-third-adds-little.md) — related
 - [Pupils in all three conditions gained significantly from pre-test to post-test and retention test, with no prior-knowledge differences between conditions](all-conditions-significant-gains-history-tasks.md) — related
 - [Students in the AI-integrated database course showed large, statistically significant pre/post gains on seven identical database assessment questions](ai-integrated-course-large-prepost-db-gains.md) — related
+- [Announcing an upcoming test did not significantly change learning from the participation film](test-announcement-no-learning-effect.md) — related

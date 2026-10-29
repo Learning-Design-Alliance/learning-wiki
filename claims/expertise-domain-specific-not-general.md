@@ -53,3 +53,4 @@ The review reports, citing Voss et al. (2010), that evidence for domain-generic 
 - [Deliberate practice research is largely correlational with large unexplained variability in accumulated practice hours](deliberate-practice-correlational-limits.md) — related
 - [Expert teachers' fixations are significantly more focused (less dispersed) than novices' when viewing classroom scenes, irrespective of video type](expert-fixations-more-focused-than-novices.md) — related
 - [Novices risk practicing motor skills incorrectly with mental simulation, while experts benefit across task types](ms-novice-expertise-risk.md) — related
+- [A motor skill learned from one point of view is best performed when the viewpoint during performance is the same](same-viewpoint-performance-film-motor-skill.md) — related

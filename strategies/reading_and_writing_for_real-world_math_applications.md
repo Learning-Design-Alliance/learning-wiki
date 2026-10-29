@@ -59,9 +59,11 @@ Reading authentic quantitative texts builds the connection between abstract math
 6. **Connect back.** Close by linking the article's mathematics to a related classroom problem or [Application](../elements/application.md) task.
 
 ## Related Strategies
+
 - [Case-Based Learning](../patterns/case-based-learning.md) — articles function as miniature cases; full case discussion extends the same logic
 - [Anchored Instruction](../patterns/anchored-instruction.md) — the article serves as a realistic anchor for subsequent problem solving
 - [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) — the pre-reading step that determines whether learners can map text onto schemas
+- [Design AI scaffolds for STEM learning by linking learners' goals and interests to real scientific applications of AI](strategy-design-field-specific-ai-scaffolds-stem.md)
 
 ## Examples
 - **The New York Times Learning Network** (https://www.nytimes.com/section/learning) — publishes math-focused lesson plans built on current articles, with prompts for interpreting data and graphs in journalism.

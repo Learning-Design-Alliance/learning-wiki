@@ -59,9 +59,11 @@ Student-generated visuals are effective because drawing requires translating ver
 6. Revise: have learners redraw after feedback or new information, making conceptual change visible.
 
 ## Related Strategies
+
 - [Annotating](../principles/annotating.md) — text-based sibling strategy; both make processing visible on the artifact
 - [Concept Mapping](../elements/concept-mapping.md) — a specific structured format for visual construction
 - [Comparing Cases](../elements/comparing-cases.md) — contrasting multiple visuals drives abstraction
+- [Use visual forms to communicate complex ideas about exploring real-world problems](visual-forms-communicate-complex-ideas.md)
 
 ## Related Elements
 - [Analogies](../elements/analogies.md) — visual analogies help learners map unfamiliar structures onto familiar ones

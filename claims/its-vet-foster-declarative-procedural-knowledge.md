@@ -52,3 +52,4 @@ The review's qualitative synthesis of effectiveness across the 26 studies report
 - [Intelligent Extended Reality interventions in VET show consistent positive effects on procedural competence, practical skills, and learner motivation](ixr-vet-positive-effects-procedural-motivation.md) — related
 - [A narrative review of intelligent tutoring systems asserts, citing one source, that students in personalized learning environments outperform peers in standardized settings](personalized-learning-outperforms-standardized-settings.md) — related
 - [Anderson's structured cognitive tutoring systems and Papert's constructionist approach embody contrasting positions on control and learner agency](anderson-papert-comparative-models-control-agency.md) — related
+- [Viewers-only analysis shows positive effects on declarative and contextual knowledge](viewers-only-positive-effects-declarative-contextual.md) — related

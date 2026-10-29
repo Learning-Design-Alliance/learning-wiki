@@ -66,3 +66,4 @@ The editorial summarizes van der Linden and McKenney's argument for "uniting cog
 ## Related Claims
 - [Special-issue frameworks argue for design-thinking-based and originary theory development in learning design and technology](design-thinking-and-originary-theory-development.md) — related
 - [Special-issue papers present theoretical frameworks for guiding online teaching practices, including framing of instruction, cognitive load in CSCL, and engagement](special-issue-frameworks-online-teaching.md) — related
+- [Equity in makerspaces is not guaranteed by their existence](maker-equity-not-guaranteed.md) — related

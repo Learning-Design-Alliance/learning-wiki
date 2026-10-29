@@ -51,3 +51,4 @@ Methodological claim from the study combining observation of collaborative writi
 - [Process measures distinguish how text was entered: classroom writers revised most, left the editor often, and wrote actively for 77% of the session](process-view-reflects-how-text-was-entered.md) — related
 - [Process Writing Improves Writing Quality](process-writing-improves-writing-quality.md) — related
 - [In retrospective within-subject comparison, no core metric distinguished synthesized TTS narration from recorded instructor voice, and equivalence testing supported non-inferiority](tts-narration-equivalent-instructor-voice-retrospective.md) — related
+- [A limitation of the Bennett et al. study is reliance on self-reported interview data without design artifacts for triangulation](interview-only-data-limitation-design-study.md) — related

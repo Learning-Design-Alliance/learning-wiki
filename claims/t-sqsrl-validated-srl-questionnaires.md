@@ -75,3 +75,4 @@ EFA on 89 seventh-graders (SG1) grouped 15 of 18 items into five factors; a CFA 
 - [EFA of the CONNECT instrument identifies seven transversal-skill components](seven-transversal-skill-components-efa.md) — related
 - [The DIGISOC questionnaire shows acceptable validity and reliability, including CFA data and favorable Cronbach's alpha coefficients](digisoc-acceptable-validity-reliability.md) — related
 - [The 23-item SETSES shows acceptable reliability and convergent validity, with partial discriminant validity (mastery experiences not distinct from vicarious information)](setses-validity-reliability-23-item.md) — related
+- [Only 10 of 211 SRL scale items were feasible to operationalize as learning analytics indicators in an LMS](ten-of-211-srl-items-feasible-lms-indicators.md) — related

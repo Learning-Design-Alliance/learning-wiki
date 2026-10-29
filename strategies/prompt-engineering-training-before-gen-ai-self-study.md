@@ -48,6 +48,7 @@ The authors recommend training students on prompt engineering before deploying G
 - [Strategically employ AI tools, including chatbots, within active learning methodologies such as problem-based learning, flipped classrooms, and virtual labs](ai-chatbots-active-learning-biology.md)
 - [Introduce LLM tools at later stages of programming education, after students have acquired basic coding principles](introduce-llms-after-basic-coding-principles.md)
 - [Teach genAI operations, prompt engineering, failure modes, and supervised overreliance before graded genAI-assisted writing](genai-writing-instruction-before-use-strategy.md)
+- [Train instructional designers in prompt engineering, articulating prompt objectives, context, and example outputs to improve GenAI-assisted design](prompt-engineering-training-for-instructional-designers.md)
 
 ## Examples
 -

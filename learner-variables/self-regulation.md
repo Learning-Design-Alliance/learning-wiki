@@ -13,7 +13,7 @@ generated:
 # Self-Regulation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 201 claims (139 show a difference, 37 mixed, 25 no difference) · 143 studies (39 causal, 38 associational, 34 review, 13 quant-synthesis, 10 theoretical, 6 qualitative, 3 design), `q1`–`q4` · 29 of 143 report an effect size · 192 claims rest on one study
+> **Evidence** · 206 claims (143 show a difference, 37 mixed, 26 no difference) · 145 studies (40 causal, 38 associational, 34 review, 13 quant-synthesis, 11 theoretical, 6 qualitative, 3 design), `q1`–`q4` · 30 of 145 report an effect size · 197 claims rest on one study
 
 ## Description
 Whether a learner can plan, monitor and adjust without the structure being supplied for them. It decides whether a multi-week deliverable survives without scaffolding and pacing support. The finding that matters most for design is that self-monitoring is unreliable by default: learners judge fluency rather than learning, and confident misjudgement is the normal case rather than the exception [-M]. So the design job is supplying the external signal, not exhorting reflection.
@@ -250,6 +250,11 @@ Whether a learner can plan, monitor and adjust without the structure being suppl
 - [Cognitive presence was positively related to learning engagement and mediated relationships of teaching presence (full) and self-regulation (partial) with engagement](../claims/cognitive-presence-direct-and-mediation-engagement.md) [~M] — learners who differ on it differ in outcomes
 - [In a cross-sectional survey analysed with SEM, self-efficacy's direct path to learning engagement was non-significant, and its association with engagement ran indirectly through self-regulation, teaching presence and cognitive presence (statistical mediation, which cannot show cause)](../claims/self-efficacy-engagement-fully-mediated.md) [+M] — learners who differ on it differ in outcomes
 - [Self-regulation was positively related to both cognitive presence and learning engagement](../claims/self-regulation-positive-cognitive-presence-engagement.md) [+M] — learners who differ on it differ in outcomes
+- [No significant interaction effect of learning approach and discussion type on self-regulation](../claims/no-interaction-self-regulation.md) [-M] — an instructional effect differs with it
+- [Online flipped learning improves self-regulation more than online learning in a basic math course](../claims/online-flipped-learning-improves-self-regulation.md) [+W] — instruction changes it
+- [Research indicates moderate effect sizes for engagement, project-based learning, self-regulation, and feedback](../claims/moderate-effect-sizes-engagement-pbl-self-regulation-feedback.md) [+M] — instruction changes it
+- [Self-regulation and self-directed learning strategies need to be taught and practiced over time](../claims/self-regulation-strategies-taught-over-time.md) [+M] — instruction changes it
+- [Synchronous online discussions improve self-regulation more than asynchronous online discussions](../claims/synchronous-discussion-improves-self-regulation.md) [+M] — instruction changes it
 
 ## The evidence by question
 - *Does a learner's self-regulation predict achievement, and how strongly?* [Self Regulated Learning Predicts Achievement](../claims/self-regulated-learning-predicts-achievement.md) [+S]

@@ -63,3 +63,4 @@ Meta-analysis of 21 Turkish empirical (9) and relational (12) studies, total sam
 - [Self-regulated learning is associated with increased academic achievement and improved learning outcomes for students](srl-associated-with-achievement.md) — a broader claim this one bears on
 - [SRL scaffolds in computer-based learning environments produce a medium, significantly positive effect on academic performance (ES = 0.438)](srl-scaffolds-positive-effect-academic-performance.md) — related
 - [Project-based learning improves achievement](project-based-learning-improves-achievement.md) — related
+- [Research indicates moderate effect sizes for engagement, project-based learning, self-regulation, and feedback](moderate-effect-sizes-engagement-pbl-self-regulation-feedback.md) — related

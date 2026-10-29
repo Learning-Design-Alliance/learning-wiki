@@ -58,3 +58,4 @@ Secondary finding from the multiple regression analyses for both regular and irr
 - [Feedback effects on ungrammatical GJT items were weak because learners already possessed the relevant explicit knowledge](weak-effect-ungrammatical-gjt-items-ceiling.md) — related
 - [Knowledge-test scores correlated significantly with the self-assessed knowledge item at both pretest and posttest](knowledge-test-correlates-with-self-assessment.md) — related
 - [No group differences on immediate posttests for either feedback type on either measure](no-immediate-posttest-feedback-group-differences.md) — related
+- [Verbal assessment showed novices improved on procedural items and advanced learners improved on declarative items](verbal-assessment-differential-improvement.md) — related

@@ -13,7 +13,7 @@ generated:
 # Attention
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 136 claims (93 show a difference, 28 mixed, 15 no difference) · 104 studies (31 causal, 26 associational, 21 review, 12 quant-synthesis, 6 qualitative, 5 design, 3 theoretical), `q1`–`q4` · 21 of 104 report an effect size · 131 claims rest on one study
+> **Evidence** · 137 claims (94 show a difference, 28 mixed, 15 no difference) · 105 studies (32 causal, 26 associational, 21 review, 12 quant-synthesis, 6 qualitative, 5 design, 3 theoretical), `q1`–`q4` · 21 of 105 report an effect size · 132 claims rest on one study
 
 ## Description
 How long a learner can sustain focus, and how readily something else takes it. Distinct from [working memory](working-memory.md): attention governs what *reaches* the store, capacity governs what it holds. It converts into segment length, distractor design, and how much a page may hold in one uninterrupted run. The design lever is mostly subtractive — the strongest findings here are about what to remove [-M].
@@ -174,6 +174,7 @@ How long a learner can sustain focus, and how readily something else takes it. D
 - [Preliminary results suggest a real-time mind-wandering intervention may correct comprehension deficits when mind-wandering probability is high](../claims/mind-wandering-intervention-corrects-comprehension.md) [~W] — an instructional effect differs with it
 - [DHH students' feedback suggests the coherence principle is important to reduce visual distraction](../claims/dhh-coherence-principle-visual-distraction.md) [+M] — instruction changes it
 - [Educational social media use carries challenges: cognitive overload, misinformation, distraction, blurred privacy boundaries, and self-esteem effects](../claims/social-media-educational-challenges-overload-misinformation-privacy.md) [+M] — instruction changes it
+- [AI-generated content lacking references reduced participants' intellectual curiosity and sustained attention](../claims/ai-content-without-references-reduces-curiosity-attention.md) [+M] — instruction changes it
 
 ## The evidence by question
 - *Does making material more interesting with details that do not carry the target cost learning?* [Interesting but irrelevant details can impair comprehension and transfer, with effects that vary with the material and the learner](../claims/seductive-details-effect.md) [+S]

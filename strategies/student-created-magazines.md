@@ -80,10 +80,12 @@ The strategy combines generative learning with authentic purpose: summarizing so
 6. **Assemble and publish.** Compile articles into the magazine; assess on research quality, writing clarity, and accuracy of the underlying concepts ([Application of Knowledge](../elements/application-of-knowledge.md)).
 
 ## Related Strategies
+
 - Jigsaw group projects — the magazine's division of topics into expert articles mirrors the jigsaw structure of distributed expertise and shared assembly
 - Learning journals — both use generative writing, but the magazine adds an authentic external audience
 - Case-based discussion — magazine articles can serve as entry cases for subsequent class discussion
 - Peer review and editing cycles — the mechanism that converts publication into learning
+- [Design AI scaffolds for STEM learning by linking learners' goals and interests to real scientific applications of AI](strategy-design-field-specific-ai-scaffolds-stem.md)
 
 ## Examples
 - **Alessandra King's algebra class** (Holton-Arms School, described in *Edutopia*): students produced a magazine of articles on real-world math — gerrymandering, fractals in Jackson Pollock's paintings, invisibility cloaks — each based on a closely read primary source such as a *Scientific American* article (https://www.edutopia.org).

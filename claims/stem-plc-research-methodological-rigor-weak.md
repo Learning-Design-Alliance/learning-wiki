@@ -72,3 +72,4 @@ The synthesis's judgment in the How Well Do We Know It section, based on its met
 - Research on professional community faces conceptual and methodological difficulties: no universal definition exists and operationalization varies across studies — related
 - [Participation in STEM PLCs positively impacts teachers' understanding of or preparedness to teach content and attitudes toward teaching methods](stem-plc-teacher-knowledge-attitude-gains.md) — related
 - [STEM PLC participation increases teachers' deliberation about students' mathematics or science thinking and shifts instruction toward attention to student reasoning and diverse problem-solving modes](stem-plc-instructional-practice-shifts.md) — related
+- [Learning is rarely supported by data collected before, after, and long after instruction](learning-data-rarely-collected-longitudinally.md) — related

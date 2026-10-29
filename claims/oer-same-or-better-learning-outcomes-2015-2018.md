@@ -53,3 +53,5 @@ The synthesis's summary statement of its central finding across the 16 efficacy 
 - [The number of published OER efficacy and perceptions studies rose rapidly between 2015 and 2018, with more studies published in those 3 years than in the previous 15.](oer-research-rapid-rise-2015-2018.md) — related
 - [In studies comparing ratings from separate groups of OER users and CT users, results were mixed: two studies favored CT, two favored OER, and one showed similar ratings.](oer-separate-group-ratings-mixed.md) — related
 - [Synthesized studies of OER in college courses found academic outcomes comparable to traditional textbooks and positive perceptions among students and instructors](oer-outcomes-comparable-perceptions-positive.md) — possibly the same claim (merge candidate)
+- [Substituting OER for traditional textbooks does not appear to decrease student learning outcomes in higher education.](oer-no-decrease-student-learning.md) — a narrower finding that bears on this claim
+- [Students using OER save significant amounts of money compared to purchasing commercial textbooks.](oer-significant-cost-savings-students.md) — possibly the same claim (merge candidate)

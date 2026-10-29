@@ -47,3 +47,4 @@ Bias approximation using the syntax of Köhler et al. (2020a) with assumed param
 ## Related Claims
 - [In a DESI reanalysis, the ANCOVA approach yielded a non-significant effect of teacher supportiveness on listening comprehension while the CHANGE approach yielded a larger, significant effect](desi-ancova-vs-change-divergent-teacher-support-effects.md) — related
 - [In nonrandom studies where trait variables influence instruction, the CHANGE approach is unbiased when change is unrelated to stable skill differences, the ANCOVA overestimates, and neither is unbiased when change depends on the trait](trait-influencing-instruction-approach-bias-scenarios.md) — related
+- [Unprincipled inclusion of covariates ('garbage-can regression') can introduce rather than remove bias](garbage-can-regression-fallibility.md) — related

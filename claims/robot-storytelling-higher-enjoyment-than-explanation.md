@@ -75,3 +75,4 @@ In the Thursday activity both classes did the same thing: each child shared a wo
 - [Participants identified children under 10 as the intended target group for the storytelling robot, significantly more than all other age groups](icub-storytelling-target-under-10-children.md) — related
 - [Students preferred robot-assisted storytelling and some students treated the robot as a more equal communication partner than the instructor](students-prefer-and-trust-robot-storytelling-partner.md) — related
 - [Classroom activities and targeted interventions—peer collaboration, mind mapping, storytelling, and perspective-taking—improve children's divergent thinking](classroom-activities-interventions-improve-divergent-thinking.md) — related
+- [Anchoring activities in familiar contexts, such as photos of the children's own school, immediately engaged every child](familiar-contexts-boost-engagement.md) — related

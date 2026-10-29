@@ -29,7 +29,7 @@ sources:
 # Debate
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 20 claims (3 for, 16 mixed, 1 against) · 29 studies (10 causal, 7 review, 5 quant-synthesis, 4 theoretical, 1 associational, 1 qualitative, 1 design), `q1`–`q4` · 5 of 29 report an effect size · 13 claims rest on one study
+> **Evidence** · 21 claims (3 for, 16 mixed, 2 against) · 30 studies (11 causal, 7 review, 5 quant-synthesis, 4 theoretical, 1 associational, 1 qualitative, 1 design), `q1`–`q4` · 5 of 30 report an effect size · 14 claims rest on one study
 
 ## Description and scope
 
@@ -132,6 +132,7 @@ This pattern is scoped to structured adversarial argument on a question that adm
 - [Effects of pedagogical debate on students' viewpoints differ between scientific and socio-scientific domains](../claims/debate-viewpoint-change-domain-differentiated.md) [~W]
 - [Debating freely before re-analysing the debate as a diagram was more beneficial than concurrent discussion and diagram co-creation](../claims/debate-then-diagram-sequencing-beneficial.md) [~W]
 - [Suspension of belief was the only SHOM dimension enhanced by the argumentation process](../claims/suspension-of-belief-enhanced.md) [~W]
+- [In debate situations subjects move toward their pre-existing bias](../claims/debate-moves-toward-preexisting-bias.md) [-W]
 
 ## Related Patterns
 - [Socratic Seminar](../elements/socratic-seminar.md)

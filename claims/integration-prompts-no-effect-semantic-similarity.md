@@ -48,3 +48,4 @@ In the same 2x2 factorial laboratory experiment, the ANOVA on the semantic BSM m
 - [Argument writing tasks show no effect on structural or semantic integration of knowledge across professional domains](argument-writing-tasks-no-effect-integration.md) — related
 - [Integration prompts improve structural integration of knowledge across professional domains in pre-service teachers' mental models](integration-prompts-improve-structural-integration-teacher-knowledge.md) — related
 - [Prompts have a significant multivariate main effect on combined structural and semantic integration measures](prompts-significant-multivariate-main-effect.md) — related
+- [Pre-reading expert referent networks and post-reading network-based writing feedback do not improve semantic quality of integration](expert-networks-do-not-improve-semantic-quality.md) — related

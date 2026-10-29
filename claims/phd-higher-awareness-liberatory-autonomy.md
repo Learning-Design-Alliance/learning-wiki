@@ -50,3 +50,4 @@ Between-subjects ANOVA on Factor 2 among the 403 respondents. Post-hoc Scheffe t
 - [PhD teachers show significantly higher awareness than BA teachers of decision making through negotiation](phd-higher-awareness-decision-making-negotiation.md) — related
 - [PhD teachers show significantly higher awareness than MA teachers of incorporating dialogue and learners' real life into second language instruction](phd-higher-awareness-dialogue-real-life-factor.md) — related
 - [Iranian EFL teachers' awareness of critical pedagogy differs significantly across academic degrees, with PhD holders most aware](phd-holders-most-aware-of-critical-pedagogy.md) — a broader claim this one bears on
+- [Liberatory ideas are implicitly embedded in the TPD for OBL framework](liberatory-ideas-embedded-in-tpd-for-obl-framework.md) — related

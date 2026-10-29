@@ -53,3 +53,4 @@ Argumentative synthesis in a comment article: the authors draw on educational re
 - [Covert retrieval is the most time-efficient practice strategy, yielding the largest gains per minute of practice for both terms and definitions](covert-retrieval-most-efficient-gains-per-minute.md) — related
 - [Cue-only JOLs, but not cue–target JOLs, showed the inverted U-shaped JOL–response-time relationship taken as a behavioral signature of covert retrieval (Experiment 1)](cue-only-jol-rt-inverted-u-signature.md) — related
 - [Response format (overt vs. covert retrieval) did not affect final cued recall in spaced retrieval practice, and list structure (blocked vs. random; proportion of overt trials) did not moderate the effect.](covert-overt-retrieval-no-effect-spaced-practice.md) — related
+- [No significant difference in learning between overt (observable) and covert (mental) practice during film participation](overt-covert-practice-no-difference.md) — related

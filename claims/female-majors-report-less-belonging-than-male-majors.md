@@ -53,3 +53,4 @@ Interview study of 201 college seniors from 16 UNC system campuses; coded belong
 - [Racially marginalized students are less likely to report a sense of belonging in STEM education](marginalized-students-lower-stem-belonging.md) — related
 - [The fraction of women enrolling in mathematics degree programs in the UK and the Netherlands has remained constant despite rising female participation in higher education](female-mathematics-enrollment-fraction-constant-uk-netherlands.md) — related
 - [Qualitative research shows marginalized students' sense of belonging depends on maintaining connections to their valued identities at school (self-concept fit)](self-concept-fit-qualitative-belonging.md) — related
+- [Male and female subjects responded differently, confounding interpretation](sex-differences-confound-attitude-change.md) — related

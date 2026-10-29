@@ -13,7 +13,7 @@ generated:
 # Academic and Critical Literacy
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 47 claims (30 show a difference, 14 mixed, 3 no difference) · 38 studies (12 causal, 8 associational, 6 review, 5 quant-synthesis, 3 qualitative, 3 design, 1 theoretical), `q1`–`q4` · 11 of 38 report an effect size · 44 claims rest on one study
+> **Evidence** · 48 claims (31 show a difference, 14 mixed, 3 no difference) · 39 studies (12 causal, 8 associational, 6 review, 5 quant-synthesis, 3 qualitative, 3 design, 2 theoretical), `q1`–`q4` · 11 of 39 report an effect size · 45 claims rest on one study
 
 ## Description
 This page brings together two related factors from the Learner Variability Navigator; its third, Core Academic Literacies (general fluency across the core subjects), is on [prior knowledge](prior-knowledge.md). Disciplinary literacy is the ability to read, write, speak and present in the ways each discipline uses (proofs, lab reports, historical arguments) and, for adults, in real-world domains such as health and finance. Critical literacy is the ability to identify a text's purpose, motives and possible biases, which supports comprehension and critical thinking and prepares learners for civic participation.
@@ -85,6 +85,7 @@ They are assessed through performance tasks rather than a single test: argumenta
 - [All groups increased their mean SOLO scores from pre- to post-test, with a significant main effect of testing occasion](../claims/main-effect-occasion-solo-gains.md) [+M] — instruction changes it
 - [Kyrgyzstani EFL students' written English responses increased and non-responses decreased without explicit instruction to answer in English](../claims/increased-english-use-adt-responses.md) [+M] — instruction changes it
 - [The EFL group with the lowest initial target-language proficiency (Group 4) made the largest SOLO improvement without explicit literacy instruction](../claims/group4-lowest-proficiency-largest-gains.md) [+M] — instruction changes it
+- [Human judgement is central to accurate and ethical human-AI knowledge building](../claims/human-judgement-central-ai-knowledge-building.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Test of Functional Health Literacy in Adults (TOFHLA)** (Parker et al., 1995): This test measures the reading comprehension and numeracy skill components of health literacy in adults using real-life health situations.

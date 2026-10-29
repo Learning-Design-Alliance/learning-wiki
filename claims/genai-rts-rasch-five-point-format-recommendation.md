@@ -50,3 +50,4 @@ Andrich's rating scale model was applied within each of the five subscales using
 - [The GenAI-RTS is supported by a five-factor structure in which Strategic reliance comprises Deliberate Use and Critical Evaluation facets alongside Instrumental, Dependent, and Dialogic factors](genai-rts-five-factor-structure-supported.md) — related
 - [GenAI-RTS subscale reliability is acceptable to good (ω = .75–.88)](genai-rts-subscale-reliability-acceptable.md) — related
 - [Scalar measurement invariance of the GenAI-RTS holds across gender, first-generation status, and STEM/non-STEM majors](genai-rts-scalar-invariance-demographic-groups.md) — related
+- [The 4-category rating scale of the POET-O functions properly overall but its threshold structure could be improved](poet-o-rating-scale-functions-with-disordered-thresholds.md) — related

@@ -199,6 +199,7 @@ Participation, willingness to speak, the reasoning in talk, written explanation,
 - [Integrate oracy and literacy in meaningful activities rather than treating the four modes as separate](../strategies/integrate-oracy-literacy-meaningful-activities.md)
 - [Middle school transition-words writing lesson integrating self-assessment, peer feedback, and personal learning goals](../designs/middle-school-transition-words-self-assessment-lesson.md)
 - [Use agent-driven question dialogue to challenge mathematical thinking and role-model learner behaviour](../strategies/agent-driven-question-dialogue-strategy.md)
+- [Enhance DFA in-depth informativity by eliciting oral student talk via speech-to-text and dialogic follow-up questions generated with large language models](../strategies/speech-to-text-llm-dialogic-followup-dfa.md)
 
 ## Key Sources
 - Diaz, Diana M. (1988). First Language/Second Language: Acquisition, Writing, and Cognitive Development. https://eric.ed.gov/?id=ED294203

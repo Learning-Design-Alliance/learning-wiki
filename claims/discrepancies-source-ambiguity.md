@@ -48,3 +48,4 @@ Qualitative analysis of adjudicated disagreements in the 156-meta-analysis evalu
 - [Hallucinations were rare for both human and LLM coders, whereas omission errors were more frequent and varied by coder](llm-hallucinations-rare-omissions-frequent.md) — related
 - [Neither LLM nor human coders showed systematic over- or under-estimation in extracting data from educational meta-analyses](no-systematic-bias-llm-extraction.md) — related
 - [State-of-the-art LLMs extract effect sizes, study counts, and participant counts from educational meta-analyses with excellent agreement with adjudicated gold and silver standards](llm-data-extraction-icc-gold-standard.md) — related
+- [LLMs are not ready to be used as primary data extraction tools without explicit human validation in education research synthesis](llms-not-ready-primary-data-extraction-without-human-validation.md) — related

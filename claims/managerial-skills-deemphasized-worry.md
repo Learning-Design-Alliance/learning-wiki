@@ -51,3 +51,4 @@ A key finding reporting stakeholder concern: while instructional leadership is a
 - Early-career principals cite people skills and emotional intelligence, along with organizational and managerial skills, as most important for successful leadership — related
 - [The increased number and specificity of policy requirements challenged implementation flexibility, with some viewing the policy as one-size-fits-all](illinois-principal-preparation-requirements-inflexibility.md) — related
 - [ID/ET professionals report that cross-disciplinary skills and dispositions are crucial and under-emphasized in existing competency lists](cross-disciplinary-skills-dispositions-underemphasized.md) — related
+- [Communication skills are consistently ranked the most important competencies yet underemphasized in professional preparation](communication-skills-most-important-but-underemphasized.md) — related

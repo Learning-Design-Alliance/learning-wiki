@@ -49,6 +49,7 @@ If the observed reversal reflects genuine cognitive reappraisal, the article rec
 - [Teach AI literacy as epistemic calibration and design assessment that preserves visible spaces for human reasoning and ownership](ai-literacy-epistemic-calibration-assessment-strategy.md)
 - [Four design principles for educational AI that empowers epistemic agency rather than passive offloading](four-design-principles-epistemic-agency-ai.md)
 - [Rethink the music curriculum around DAW literacy, AI literacy, rights and economics knowledge, and defended ensemble practice](music-curriculum-four-rethink-directions.md)
+- [Refocus education from reckoning skills towards judgement skills and problem formulation](prioritise-judgement-skills-and-problem-formulation-curriculum.md)
 
 ## Examples
 -

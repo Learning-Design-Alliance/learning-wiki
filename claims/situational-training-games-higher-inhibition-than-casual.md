@@ -47,3 +47,4 @@ ANCOVA on Trail Making Test post-test scores with 38 college students, game type
 ## Related Claims
 - [Inhibition ability significantly decreased after playing casual games](casual-games-decrease-inhibition.md) — related
 - [Inhibition performance improved significantly from pretest to posttest within the situational training game condition](situational-games-within-group-inhibition-gain.md) — related
+- [Coherence scores decreased after game training for both novices and advanced learners](coherence-decrease-after-training.md) — related

@@ -89,3 +89,5 @@ This is a conceptual policy paper drawing on the literature and international po
 - [Big Tech hyperscalers are introducing cloud and AI infrastructures into education with a business model tending towards monopoly capture](big-tech-hyperscalers-education-monopoly-capture.md) — related
 - [Remote exam proctoring software based on automated facial detection tends to disproportionately flag already-marginalized student groups as suspicious](remote-proctoring-facial-ai-disproportionate-flagging.md) — a narrower finding that bears on this claim
 - [Access to opportunities is critical to promote equity in computing, per the study's examination of marginalized girls' experience during the COVID pandemic](e5c-access-critical-for-equity.md) — related
+- [OLSit model lacks replications and evidence for students with underdeveloped self-regulation](olsit-replication-and-population-gaps.md) — related
+- [ICT-enabled learning improves schoolgirls' access to resources, knowledge, and skills](ict-improves-girls-access-resources.md) — related

@@ -45,3 +45,4 @@ Regression models tested on survey responses from 595 participants across five a
 - [Relationships between socio-demographic and attributional variables and acceptance depend on the type of mental health problem (depression vs ADHD)](acceptance-predictors-vary-by-condition-type.md) — related
 - [Perceived responsibility of the target character for his/her condition predicts acceptance of peers with mental health problems](perceived-responsibility-predicts-acceptance.md) — possibly the same claim (merge candidate)
 - [Peer rejection incrementally predicts subsequent behavioral, emotional, and academic maladjustment in children with ADHD beyond ADHD status itself](peer-rejection-predicts-subsequent-maladjustment-adhd.md) — related
+- [Women identify more with characters in mental-health films and find them more relevant and acceptable](women-identify-more-with-film-characters.md) — related

@@ -69,3 +69,5 @@ Literature synthesis in the processing-feedback section. The paper cites Essien 
 - [Most students reported improved output-evaluation competence after comparing their own text analysis with LLM-generated analyses](output-evaluation-competence-gains.md) — a narrower finding that bears on this claim
 - [ChatGPT users report fabricated references and wrong sources from auto-generated literature content](chatgpt-fabricated-references-wrong-sources.md) — related
 - [Human-AI writing practices were perceived to enhance doctoral students' cognitive and metacognitive engagement, confidence, and learner agency](ai-writing-engagement-confidence-agency.md) — related
+- [Human judgement is central to accurate and ethical human-AI knowledge building](human-judgement-central-ai-knowledge-building.md) — related
+- [Pessimistic Evaluators' foremost concern is misleading, inaccurate, or biased ChatGPT-generated information](pessimistic-evaluators-misleading-information-concern.md) — related

@@ -53,3 +53,4 @@ Thematic coding of AI usage purposes across the 28 included studies (Table 4). T
 - [In-service science educators use AI far less in subject-specific DiKoLAN areas (SIM, DAP, DAQ) than in general areas](ai-use-skews-to-general-dikolan-areas.md) — related
 - [Many contemporary generative AI tools serve multiple educational purposes, with several tools appearing in multiple typology categories](genai-tools-multipurpose-multiple-categories.md) — related
 - [The most frequent limitation of AI in instructional design is content reliability and transparency (16 of 28 studies, 57.14%)](ai-id-limitation-content-reliability-transparency.md) — related
+- [Instructional designers mainly use ChatGPT for content creation (57.5%), writing assistance (30%), professional support, communication, and information searching](id-chatgpt-usage-content-creation-dominant.md) — related

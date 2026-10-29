@@ -82,6 +82,7 @@ Checklists can be customized with different scales (4-point, 7-point), criteria,
 - [Use the checklists against a draft methods and results section to check completeness of reporting](use-checklists-to-check-reporting-completeness.md)
 - [Teach self- and peer-assessment by starting with rubrics, then glows, then scaffolded grows](glows-grows-peer-assessment-scaffolding.md)
 - [Handle fuzzy effort criteria as charitable yes/no binary requirements with periodic check-ins](fuzzy-criteria-as-charitable-yes-no-requirements.md)
+- [Phase-specific research-committee activities: setting requirements, monitoring fulfillment and standardization, and conveying a common knowledge base](research-committee-phase-strategies.md)
 
 ## Related Elements
 - [Assess Performance](../elements/assess-performance.md) — the checklist is the instrument; performance assessment is the act it supports

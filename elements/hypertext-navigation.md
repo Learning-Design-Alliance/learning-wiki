@@ -13,7 +13,7 @@ generated:
 # Hypertext Navigation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 7 claims (1 for, 4 mixed, 2 against) · 17 studies (9 causal, 5 review, 1 quant-synthesis, 1 associational, 1 theoretical), `q1`–`q3` · 1 of 17 report an effect size · 4 claims rest on one study
+> **Evidence** · 8 claims (1 for, 5 mixed, 2 against) · 18 studies (10 causal, 5 review, 1 quant-synthesis, 1 associational, 1 theoretical), `q1`–`q3` · 1 of 18 report an effect size · 5 claims rest on one study
 
 ## Description
 Hypertext navigation presents content as a network of linked nodes — pages, sections, or media objects — that learners traverse in an order they choose, rather than as a fixed linear sequence. The learner controls both the path and the pace, constructing their own route through the material.
@@ -57,6 +57,7 @@ Hypertext supports flexible, non-linear exploration and can help learners build 
 - [Learners use navigational help less when a human tutor is accessible, contradicting the expected direction](../claims/human-tutor-presence-reduces-navigational-help-use.md) [~W]
 - [Navigation features and self-explanation prompts do not interact in their effect on video learning](../claims/no-interaction-navigation-prompts-learning.md) [~W]
 - [In e-learning text comprehension, higher working memory and lower self-reported navigation behavior predict better comprehension](../claims/wm-positive-navigation-negative-elearning-comprehension.md) [~W]
+- [The effect of network type on delayed structural quality reverses depending on timing of presentation](../claims/network-timing-reversal-delayed-structural-quality.md) [~W]
 
 ## Related Elements
 - [Advance Organizers](advance-organizers.md) — provide the structural overview that prevents disorientation in a hypertext network

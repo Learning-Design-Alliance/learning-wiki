@@ -69,3 +69,4 @@ GEE model predicting negative valence monitoring duration from physiological mea
 - [Skin conductance is higher during low-interest lecture segments than high-interest segments](low-interest-elevated-skin-conductance.md) — related
 - [In Scenario B, higher group-level physiological arousal is associated with greater task performance satisfaction](group-arousal-higher-task-satisfaction-scenario-b.md) — related
 - [Emotional synchrony frequency differs slightly across regulatory activities but the metric does not discriminate SSRL, cognitive, and task-execution interactions](emotional-synchrony-differs-by-regulatory-activity-limited-discrimination.md) — related
+- [Physiologically activating group states are rare but co-occur with visible emotional expressions more often than deactivating states](simultaneous-physiological-activation-with-emotional-expressions.md) — related

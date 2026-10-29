@@ -51,3 +51,4 @@ Descriptive analysis of writing-sample language use by instructional program (Ta
 - [Screening language practices are related to English language education program type: SEI students were mostly screened in English while DLBE students were more often screened in Spanish or alternately](screening-language-tied-to-ele-program-type.md) — related
 - [Contrary to program guidelines, English acquisition was given priority over Spanish acquisition in practice](english-priority-over-spanish-in-practice.md) — related
 - [Promoting minority children's L1 raises L1 achievement at no cost to L2 achievement](l1-maintenance-supports-l2-without-cost.md) — a broader claim this one bears on
+- [Roversa's Spanish language capabilities were perceived to increase engagement in dual language immersion classrooms](roversa-spanish-engagement-immersion.md) — related

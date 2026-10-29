@@ -94,3 +94,4 @@ Diary-entry analysis of the verifying stage: three ChatGPT instances via another
 - [Automation bias toward fluent LLM output surrenders learners' epistemic agency](automation-bias-surrenders-epistemic-agency.md) — related
 - [Conversational synthesis can hide source plurality behind one voice, weakening verification relative to search](opaque-synthesis-hides-plurality.md) — related
 - [Novice AI users showed a Trust-but-Can't-Verify pattern: accepting unfamiliar constructs they could not assess, then symptom-level debugging](trust-but-cant-verify-novices.md) — related
+- [AI-generated content lacking references reduced participants' intellectual curiosity and sustained attention](ai-content-without-references-reduces-curiosity-attention.md) — related

@@ -79,3 +79,4 @@ Same survey subsample; correlations of AI literacy with age, gender, and years o
 - [Teachers who see AI usage opportunities more frequently use AI significantly more often (r = .45 in class)](seen-opportunities-correlate-with-ai-use.md) — related
 - [Teaching experience is a minor negative predictor of digital data use, while age and gender show no significant effect](experience-negative-age-gender-null-data-use.md) — related
 - [Demographic and experience-related learner factors show no or only weak relationships with SRL strategies in continuing education](srl-strategies-ce-learner-factors-null-weak.md) — related
+- [Variables of experience, gender, age and degree do not negatively affect academic interaction or VLE learning performance](no-negative-effect-demographics-vle-interaction.md) — related

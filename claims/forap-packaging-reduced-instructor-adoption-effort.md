@@ -50,3 +50,4 @@ Instructor feedback across classroom deployments in the Outcomes section: instru
 - [Instructors value design problems for assessing higher-order thinking in PjBL but cite creation effort and scalability as adoption barriers](instructors-value-dps-effort-barrier.md) — related
 - [Instructors engage LLM-generated suggestions as a controllable refinement process](instructors-use-llm-suggestions-as-controllable-refinement.md) — related
 - [Instructional materials authored by a single instructor via the pipeline were peer-reviewed and successfully deployed by six different professors, suggesting tacit knowledge was translated into reusable teaching assets.](single-author-materials-deployed-by-six-professors.md) — related
+- [University instructors' design process did not appear to draw on instructional design models](instructors-design-not-draw-on-id-models.md) — related

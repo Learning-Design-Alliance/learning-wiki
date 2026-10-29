@@ -55,3 +55,4 @@ Theoretical argument in the article's introduction, citing prior research on AI 
 - [Cognitive offloading to generative AI is associated with reduced learner engagement, lower critical thinking, and lower-quality reasoning](cognitive-offloading-reduces-engagement-critical-thinking.md) — related
 - [Distributed epistemic agency emerges as learners attribute authority to AI outputs and shift responsibility for knowledge validation, though some engage dialogically](distributed-epistemic-agency-machine-authority.md) — related
 - [Automation bias toward fluent LLM output surrenders learners' epistemic agency](automation-bias-surrenders-epistemic-agency.md) — a narrower finding that bears on this claim
+- [GenAI cognitive offloading of lower-order tasks frees cognitive resources but risks reduced human evaluation skills](genai-cognitive-offloading-benefits-and-risks.md) — related

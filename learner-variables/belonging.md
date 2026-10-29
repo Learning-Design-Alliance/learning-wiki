@@ -13,7 +13,7 @@ generated:
 # Belonging
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 105 claims (79 show a difference, 23 mixed, 3 no difference) · 78 studies (24 review, 15 associational, 12 causal, 12 qualitative, 6 design, 6 theoretical, 3 quant-synthesis), `q1`–`q4` · 4 of 78 report an effect size · 100 claims rest on one study
+> **Evidence** · 107 claims (80 show a difference, 24 mixed, 3 no difference) · 79 studies (24 review, 15 associational, 12 causal, 12 qualitative, 7 design, 6 theoretical, 3 quant-synthesis), `q1`–`q4` · 4 of 79 report an effect size · 102 claims rest on one study
 
 ## Description
 Whether a learner expects to be treated as a full participant here — and how much attention the question itself consumes. It is measured by self-report scales of social belonging, by stereotype-threat manipulations, and by behavioural proxies such as help-seeking and persistence after failure. Belonging is not a proxy for motivation: a learner can want the outcome badly and still spend working memory monitoring whether they are welcome, which is why brief interventions that change the *interpretation* of difficulty can move outcomes without changing the instruction at all [+M].
@@ -142,6 +142,8 @@ Whether a learner expects to be treated as a full participant here — and how m
 - [Sense of belonging relates more strongly to reading achievement in countries with lower social mobility (b = −3.093)](../claims/belonging-stronger-in-lower-mobility-countries.md) [~W] — learners who differ on it differ in outcomes
 - [Forums fostered feelings of relatedness through positive peer connections and shared struggles](../claims/forums-fostered-relatedness-peer-connections.md) [+M] — instruction changes it
 - [SDT-based online unit significantly increased relatedness in online Algebra 2 students](../claims/sdt-based-online-unit-increased-relatedness.md) [+M] — instruction changes it
+- [Competence is the only SDT need that ChatGPT learning activities satisfy across all three SRL phases; relatedness and autonomy are not adequately satisfied at every phase.](../claims/competence-only-need-satisfied-all-srl-phases.md) [~W] — instruction changes it
+- [Most of the 20 ChatGPT learning activities (11 of 20) better satisfy competence, fewer satisfy autonomy, and the fewest satisfy relatedness.](../claims/chatgpt-activities-competence-needs-dominance.md) [+W] — instruction changes it
 
 ## The evidence by question
 - *Do brief interventions that address belonging uncertainty improve achievement and persistence, and for whom?* [Belonging Interventions Improve Outcomes](../claims/belonging-interventions-improve-outcomes.md) [+S]

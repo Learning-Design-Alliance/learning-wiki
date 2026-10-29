@@ -48,3 +48,5 @@ Evaluation of three LLMs extracting three variables from 156 educational meta-an
 - [Most extraction discrepancies stemmed from ambiguity within the source meta-analyses rather than coder fabrication](discrepancies-source-ambiguity.md) — related
 - [Hallucinations were rare for both human and LLM coders, whereas omission errors were more frequent and varied by coder](llm-hallucinations-rare-omissions-frequent.md) — related
 - [LLM-based extraction of three variables from 156 meta-analyses cost about $50 in computing fees, far less than estimated human-assistant labor costs](llm-extraction-cost-time-savings.md) — related
+- [LLMs show moderate agreement with human coders when extracting explicitly stated data from education studies](llms-moderate-agreement-explicit-data-extraction-education.md) — related
+- [LLMs are not ready to be used as primary data extraction tools without explicit human validation in education research synthesis](llms-not-ready-primary-data-extraction-without-human-validation.md) — reports the opposite

@@ -57,3 +57,4 @@ Thematic synthesis across the reviewed studies; the review attributes the overde
 - [Unstructured LLM use risks cognitive offloading that displaces effortful thought and weakens argument construction](unstructured-llm-use-cognitive-offloading.md) — a broader claim this one bears on
 - [Reviewed literature reports risks of overreliance, AI errors in complex tasks, and students' uncritical acceptance of AI-generated outputs](ai-math-risks-overreliance-errors-uncritical-trust.md) — related
 - [Delegating intellectual work to generative AI risks eroding epistemic agency through reduced critical effort and cognitive offloading](genai-delegation-erodes-epistemic-agency.md) — a broader claim this one bears on
+- [GenAI cognitive offloading of lower-order tasks frees cognitive resources but risks reduced human evaluation skills](genai-cognitive-offloading-benefits-and-risks.md) — related

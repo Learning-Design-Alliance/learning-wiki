@@ -86,6 +86,7 @@ Video is a delivery medium, not a pedagogy — its effectiveness depends entirel
 - [Offer course lectures both live and as posted recordings to balance equity of access with schedule and accountability](offer-lectures-synchronous-and-recorded.md)
 - [Deploy AI-generated videos for simple, supplemental, and visual content without displacing instructor presence](deploy-ai-videos-supplemental-simple-visual.md)
 - [Use asynchronous AI tutoring for students' first engagement with challenging material, reserving class time for higher-order skills](ai-tutor-first-exposure-flipped-strategy.md)
+- [Keep online lecture videos under twenty minutes and segment by topic with speed control](online-lecture-under-twenty-minutes.md)
 
 ## Examples
 - **[Khan Academy](https://www.khanacademy.org)** — short narrated screencasts with worked examples, followed by practice exercises; a canonical application of the short-video-plus-practice model

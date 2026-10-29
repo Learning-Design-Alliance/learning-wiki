@@ -62,3 +62,4 @@ The editorial reports, citing Kasepalu, Chejara, Prieto and Ley, a quasi-experim
 - [Reported cognitive load was lowest in the mirroring condition (5.4), compared with no dashboard (5.6) and guiding (6.2)](mirroring-lowest-reported-cognitive-load.md) — reports the opposite
 - [Guiding dashboard support enabled teachers to perform more orchestration actions, more targeted interactions, and more class announcements than mirroring support](guiding-support-more-orchestration-actions-than-mirroring.md) — related
 - [Mirroring systems display basic actions to collaborators](mirroring-systems-display-basic-actions.md) — related
+- [Correctness overviews alone seldom lead to real insights into how to improve learning; dashboards must present teacher-actionable information supporting goal-setting, monitoring, and planning](dashboards-need-actionable-information-beyond-correctness.md) — related

@@ -56,8 +56,10 @@ Think-aloud is the element in which an instructor, peer, or learner verbalizes r
 - [Gagné's 9 Events](../patterns/gagnes-9-events-of-instruction.md)
 
 ## Examples
+
 - An instructor solves a math problem while narrating why each step is chosen.
 - A reader pauses during annotation to explain how they infer meaning from a difficult sentence.
+- [Make the implicit aspects of the exploration process visible to learners](../strategies/make-exploration-process-visible.md)
 
 ## Key Sources
 - Collins, A., Brown, J. S., & Newman, S. E. (1989). Cognitive apprenticeship: Teaching the crafts of reading, writing, and mathematics. In L. B. Resnick (Ed.), *Knowing, learning, and instruction*. Lawrence Erlbaum. [doi:10.4324/9781315044408-14](https://doi.org/10.4324/9781315044408-14)

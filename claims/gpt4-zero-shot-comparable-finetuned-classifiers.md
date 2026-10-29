@@ -73,3 +73,4 @@ The same comparison section reports differentiated model profiles: "SetFit havin
 - [LLMs cannot effectively perform in-context learning for short answer scoring, but cross-prompt pre-finetuning substantially boosts their zero-shot performance](llm-icl-insufficient-prefinetuning-boosts-zero-shot.md) — related
 - [The IRead question generation model, fine-tuned on in-text OpenStax questions, matched reference questions in human ratings and outperformed zero-shot GPT-4 on automatic metrics](iread-qg-model-evaluation-performance.md) — related
 - [Few-shot LLM approaches outperform standalone supervised ML approaches, yet hand-crafted rules remain relevant](few-shot-llm-outperforms-ml-hcr-relevant.md) — related
+- [LLM data extraction accuracy varies by data type, with high precision but lower recall across tasks](llm-extraction-high-precision-lower-recall.md) — related

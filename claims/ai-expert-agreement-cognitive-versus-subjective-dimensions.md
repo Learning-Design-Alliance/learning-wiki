@@ -56,3 +56,4 @@ Validation rescoring of a stratified subset of 40 dialogues spanning all 8 agent
 - [AI teaching agents differed most on knowledge-related dimensions and least on role-play quality, with adaptive difficulty calibration a shared weakness](agents-differ-knowledge-not-role-performance.md) — related
 - [Expert-in-the-loop revision substantially improves medical accuracy and educational quality of generated storylines](expert-revision-improves-generated-medical-storylines.md) — related
 - [Expert tutors' lesson-planning and practice-design leaderboards separated AI models, and expert-rated practice design correlated with fewer student answer disputes](expert-leaderboards-separate-ai-tutors.md) — related
+- [Students agreed that Learning Analytics SRL rubric scores represented their approach to learning well](students-agree-rubric-scores-represent-approach-to-learning.md) — related

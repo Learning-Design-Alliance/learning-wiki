@@ -56,3 +56,4 @@ Design-tier stratification of the review's included studies: 3 RCTs assessed wit
 - [Multi-agent AI standardized patient training improved final OSCE-aligned examination scores compared with a structured non-LLM control condition](ma-scaffolding-improves-osce-exam-score.md) — related
 - [Purpose-built chatbot effects on educational performance are mixed, with some studies showing no benefits or worse outcomes than comparison conditions](educational-performance-mixed-ai-chatbots.md) — a broader claim this one bears on
 - [AIED developments in personalized motor skills learning have lagged behind cognitive skills support despite procedural learning being considered since the 1980s](aied-motor-skills-research-lags-cognitive.md) — related
+- [Patient simulation is the most prevalent role in higher education, concentrated in medical training contexts](higher-education-patient-simulator-role.md) — related

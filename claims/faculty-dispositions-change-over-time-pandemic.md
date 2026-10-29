@@ -48,3 +48,4 @@ The preface summarizes two worldwide surveys of higher education faculty adminis
 - [Chilean teachers teaching online during COVID-19 deepened course design understanding and developed empathetic dispositions toward students](chilean-teachers-online-teaching-lessons.md) — a narrower finding that bears on this claim
 - [COVID-19 accelerated professional knowledge exchange (CK and PCK) in the L-PLC WhatsApp discourse, with tags significantly higher in pandemic cohorts](covid-accelerated-ck-pck-whatsapp-exchange.md) — related
 - [Teachers of lower-SES students were less likely to have previous online teaching experience and reported the transition to remote instruction as more challenging](ses-gap-teacher-online-experience-transition.md) — related
+- [The Covid-19 pandemic increased the design workload of university teachers as they migrated teaching online](pandemic-increased-design-workload-online-migration.md) — related

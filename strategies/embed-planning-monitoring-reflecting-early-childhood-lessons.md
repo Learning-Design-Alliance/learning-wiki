@@ -53,6 +53,7 @@ The authors conclude that proactive control strategies "should be systematically
 - [Integrate metacognitive strategy instruction across content areas and across before, during, and after phases of teaching](integrate-metacognition-before-during-after-lesson.md)
 - [Reflection on Lessons](reflection_on_lessons.md)
 - [Incorporate explicit direct instruction of metacognitive reading strategies into the reading curriculum](direct-metacognitive-strategy-instruction-reading-curriculum.md)
+- [Incorporate human decision-making points and reflection into AI scaffolding to maintain attention and increase satisfaction](strategy-human-decision-points-ai-scaffolding.md)
 
 ## Examples
 -

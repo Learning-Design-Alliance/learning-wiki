@@ -61,3 +61,4 @@ This is the article's own statement of its second contribution, derived from a f
 - [AI-supported design learning demands integrative capabilities, judgement, and learner agency rather than a single new skill](ai-design-integration-judgement-agency.md) — related
 - [AI-supported design iteration consists of generation, selection, evaluation, and revision rather than one-off generation](ai-iteration-generation-selection-evaluation-revision.md) — a narrower finding that bears on this claim
 - [Verification behavior lagged rising AI use: minimal or conditional verification more than doubled (5 to 12) over the semester](verification-lagged-rising-ai-use.md) — a narrower finding that bears on this claim
+- [Human judgement is central to accurate and ethical human-AI knowledge building](human-judgement-central-ai-knowledge-building.md) — related

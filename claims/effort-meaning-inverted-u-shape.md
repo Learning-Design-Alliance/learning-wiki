@@ -57,3 +57,4 @@ Theoretical argument in the comment, citing prior research on effort and meaning
 - [Curiosity and confidence show an inverted U-shaped relationship, peaking at an intermediate confidence level](inverted-u-curiosity-confidence-relationship.md)
 - [Curiosity balanced against knowledge-gap overwhelm drives prolonged engagement and memory](curiosity-knowledge-gap-balance-engagement-memory.md) — a narrower finding that bears on this claim
 - [Only medium-level incongruity between individual knowledge and wiki information causes cognitive conflict that motivates equilibration](medium-incongruity-inverted-u-cognitive-conflict.md) — related
+- [Struggle maintained just along the edge of understanding entices learners to strive further, while excessive struggle may demoralize](struggle-edge-of-understanding-balance.md) — possibly the same claim (merge candidate)

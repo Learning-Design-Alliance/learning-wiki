@@ -47,6 +47,7 @@ The review derives four recommendations for practice: design the serious game so
 ## Related Strategies
 
 - [Design GBA according to educational needs and game features, integrating ECD by identifying competences, deciding on evidence, and designing in-game tasks](design-gba-by-needs-and-game-features.md)
+- [Four guidelines for effective use of structural assessment in serious games](four-guidelines-structural-assessment.md)
 
 ## Examples
 -

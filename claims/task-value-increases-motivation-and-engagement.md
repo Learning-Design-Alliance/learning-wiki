@@ -240,3 +240,4 @@ Intrinsic interest is less reliably shapeable in the short term than utility val
 - [High SRL students report significantly more interest/enjoyment, effort/importance, and value/usefulness than Medium or Low SRL students](high-srl-higher-motivation-subscale-scores.md) — a narrower finding that bears on this claim
 - [Context-personalized AI-generated learning material increases primary students' intrinsic motivation and interest compared with standard material](gai-personalized-material-motivation-interest.md) — a narrower finding that bears on this claim
 - [Invested effort and perceived value positively predicted social presence across all topics](perceived-value-predicts-social-presence.md) — related
+- [ICT-enabled learning may change beliefs and perceptions about girls' capacity and ICT's value](ict-changes-beliefs-perceptions-girls.md) — a narrower finding that bears on this claim

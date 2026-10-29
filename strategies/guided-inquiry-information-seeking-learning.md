@@ -37,7 +37,8 @@ Guided Inquiry is a programme the author is developing for librarians and teache
 - lifelong learning through active engagement with information
 
 ## Related Strategies
-- 
+
+- [Proactively co-plan library space use for inquiry and active learning with teachers and librarians](co-plan-library-space-for-inquiry.md)
 
 ## Examples
 -

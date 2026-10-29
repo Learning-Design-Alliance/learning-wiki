@@ -66,3 +66,4 @@ Mann-Whitney tests on CLIWC-coded message content: social and cognitive process 
 ## Related Claims
 - [Forum discussion contains more social and regulative comments and longer messages; anchored discussion is briefer with more messages](forum-more-social-regulative-comments.md) — related
 - [Conscientiousness and Extraversion positively predict chat message posting, while Extraversion positively predicts forum posting](conscientiousness-extraversion-chat-forum-posting.md) — related
+- [Synchronous online discussions produce higher behavioral, emotional, and cognitive engagement than asynchronous online discussions in online math courses](synchronous-discussion-increases-engagement.md) — related
