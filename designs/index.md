@@ -2,7 +2,7 @@
 
 Designs for a particular setting, course, population or product: what a design uses the general patterns for. A pattern is general across contexts; a design is not.
 
-**1309 entries** · 0 stable · 1309 in review · 0 drafts
+**1310 entries** · 0 stable · 1310 in review · 0 drafts
 
 ---
 
@@ -1031,6 +1031,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Shared-dialogue foundation methods: team-defined mission, behavioral standards, cultural intelligence, and self-assessments](shared-dialogue-foundation-methods.md) - This pattern is the article's own enumerated set of methods for creating a student shared dialogue before and during an international interdisciplinary service-learning course.
 * [Short online cross-disciplinary mini-course of themed modeling assignments for building systems thinking](cross-disciplinary-online-modeling-assignment-sequence.md) - This pattern is a short, cross-disciplinary online learning sequence in which learners complete a small set of themed assignments and produce conceptual models.
 * [Short online growth mindset intervention module (two self-administered sessions)](online-growth-mindset-intervention-module-nslm.md) - A scalable, low-cost online module of two self-administered sessions of roughly 25 minutes each, delivered about 20 days apart during school hours, that teaches that intellectual abilities can be developed.
+* [Signal Corps experimental mobile color television unit](signal-corps-mobile-color-tv-unit.md) - An experimental production unit built for Army television research on color instruction.
 * [SimLab: a condensed four-session Change Laboratory pattern combining in-situ simulation with facilitated expansive learning discussions](simlab-modified-change-laboratory-pattern.md) - SimLab adapts the Change Laboratory formative intervention — typically up to ten-plus sessions — into four sessions designed \"for the demands of the general practice workplace\".
 * [Simple pendulum simulation with parameter sliders, analytical-overlay graph, and enhanced large-angle version](ai-generated-pendulum-simulation.md) - An LLM-generated interactive pendulum simulation (Figure 1) with sliders for mass, length, initial angle, and angular velocity, and graphs of angle and angular velocity over time with the analytical small-angle soluti...
 * [Simplified reward contingency reversal task with eye tracking for feedback learning in intellectual disability](reward-contingency-reversal-task-eye-tracking.md) - This is a simplified deterministic reinforcement learning paradigm combined with eye tracking, designed to be feasible for individuals with intellectual disability in the mild to moderate range.

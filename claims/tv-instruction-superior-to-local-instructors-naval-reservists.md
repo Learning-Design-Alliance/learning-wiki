@@ -58,3 +58,4 @@ The study compared comparable groups of Naval Air Reservists taught a series of 
 - [Reservists retained most TV-learned material at retesting, officers 85% and enlisted men 65%](tv-instruction-retention-officers-enlisted.md) — related
 - [Televised Navy indoctrination instruction produced no differences in achievement scores compared with conventional instruction](navy-televised-indoctrination-no-achievement-differences.md) — related
 - [Using television in army training is feasible, according to the summarized research](tv-feasible-army-training.md) — a broader claim this one bears on
+- [Ten Army installations use television for teaching, with five more scheduled within the next year](ten-army-installations-use-tv-instruction.md) — related

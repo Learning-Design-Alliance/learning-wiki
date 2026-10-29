@@ -2,7 +2,7 @@
 
 Concrete teaching activity recipes — specific, implementable approaches.
 
-**7566 entries** · 0 stable · 7566 in review · 0 drafts
+**7567 entries** · 0 stable · 7567 in review · 0 drafts
 
 ---
 
@@ -6917,6 +6917,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Use hybrid architectures in which KG-grounded classifiers handle diagnosis while LLMs provide open-ended scaffolding and dialogue](hybrid-kg-diagnosis-llm-scaffolding-architecture.md) - Based on the finding that LLM diagnostic failures persist regardless of solution context and that accurate classification does not guarantee actionable feedback, the article recommends a hybrid division of labor.
 * [Use hybrid human–AI feedback models that combine AI's and instructors' complementary strengths](hybrid-human-ai-feedback-models.md) - The authors propose hybrid feedback models enabling human–AI collaboration in feedback provision, described as \"a promising avenue for a scalable yet effective feedback practice.\" Two approaches are outlined: AI provi...
 * [Use identified KAM social practices to guide collaborative platform features supporting teacher adoption](platform-features-guided-by-kam-practices.md) - Building on the finding that KAM traces align with higher adoption, the authors recommend using \"the identification of key social practices\" to guide future platform development in Graasp.
+* [Use immediate video tape playback to give new instructors insight into their teaching errors](immediate-video-tape-playback-instructor-training.md) - A proposed instructor-training approach in which novice teachers review recordings of their own instruction immediately after teaching.
 * [Use immersive VR simulations to let students experience complex scientific phenomena that are hard to experience in everyday life](immersive-vr-for-hard-to-experience-phenomena.md) - The article recommends, as the rationale for its LX design, using immersive VR simulations so that students can experience complex scientific phenomena through \"realistic graphics and interactions that students can ha...
 * [Use immersive VR with virtual agents and eye-tracking to isolate and manipulate specific social factors (gaze, feedback, embodiment, multimodality) in L2 learning experiments](immersive-vr-social-l2-experiments.md) - The review recommends immersive head-mounted-display VR as a methodological bridge between ecological validity and experimental control for socially interactive L2 research.
 * [Use impasse depth and type as real-time learning-analytics signals to trigger graduated escalation of tutor support](impasse-depth-type-analytics-escalation-signals.md) - The article recommends that learning analytics systems track impasse depth and type in tutoring dialogues in real time to flag students who remain stuck and support graduated escalation.

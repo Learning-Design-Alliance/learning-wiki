@@ -16,12 +16,14 @@ sources:
     author: Pala Ferhat Kadir, Erdem Mukaddes
     q: 2
     i: "?"
+    kind: design
+    rigour: 3
 ---
 
 # Confirmatory factor analysis supports a second-level participation style model with four combined styles and acceptable fit indices
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r3` · `q2`
 > **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Pala Ferhat Kadir, Erdem Mukaddes. (2020). Development of a participation style scale for online instructional discussions. Educational Technology Research and Development. https://doi.org/10.1007/s11423-020-09817-x
 
-`q2 · i?`
+`q2 · i?` · `design · r3`
 
 Confirmatory factor analysis with 693 participants tested a second-level model combining the four Why and four How factors. Table 6 reports χ2 = 1254.84, df = 446, χ2/df = 2.81, RMSEA = 0.051, S-RMR = 0.063, GFI = 0.90, NNFI = 0.96, CFI = 0.97, IFI = 0.97, which the article describes as "acceptable values." No effect size is printed.
 

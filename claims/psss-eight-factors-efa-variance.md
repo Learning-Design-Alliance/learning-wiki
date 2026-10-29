@@ -16,12 +16,14 @@ sources:
     author: Pala Ferhat Kadir, Erdem Mukaddes
     q: 2
     i: "?"
+    kind: design
+    rigour: 3
 ---
 
 # Exploratory factor analysis of the participation style scale yields four Why factors and four How factors explaining over 53% of variance in each dimension
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r3` · `q2`
 > **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Pala Ferhat Kadir, Erdem Mukaddes. (2020). Development of a participation style scale for online instructional discussions. Educational Technology Research and Development. https://doi.org/10.1007/s11423-020-09817-x
 
-`q2 · i?`
+`q2 · i?` · `design · r3`
 
 Exploratory factor analysis with 450 participants using principal component analysis with varimax rotation found "Four-factor structures were formed in both dimensions," with the Why dimension explaining 53.58% and the How dimension explaining 54.31% of total variance. No effect size is printed for this finding.
 

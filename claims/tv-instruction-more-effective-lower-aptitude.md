@@ -52,3 +52,5 @@ Aptitude-by-medium comparison in the Army basic training evaluation; experimenta
 - [Television instruction was at least as effective as regular instruction in Army basic training](tv-instruction-as-effective-as-regular-army-basic.md) — related
 - [Television instruction was remembered at least as well as regular instruction after one month](tv-instruction-retention-comparable-army-basic.md) — related
 - [Using television in army training is feasible, according to the summarized research](tv-feasible-army-training.md) — a broader claim this one bears on
+- [A controlled comparative study of color versus monochrome television for teaching is nearing completion, with results not yet reported](color-vs-monochrome-tv-study-nearing-completion.md) — related
+- [Ten Army installations use television for teaching, with five more scheduled within the next year](ten-army-installations-use-tv-instruction.md) — related
