@@ -27,7 +27,8 @@ iBuddy is a locally hosted mobile, server, and browser software system developed
 - [Students across all school levels rated the iBuddy session as enjoyable, useful and important, with importance highest (M = 8.96)](../claims/ibuddy-session-high-satisfaction-ratings.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [Network Simulator](network-simulator.md)
 
 ## Key Sources
 - Luca Botturi, Tiffany Fioroni, Chiara Beretta, Davide Andreoletti, Alessandro Ferrari, Felipe Cardoso, Anna Picco-Schwendener, Suzanna Marazza, Silvia Giordano. (2024). The iBuddy experience: A digital simulation-based approach to enhance secondary school students' privacy awareness. Education Tech Research Dev 72. https://doi.org/10.1007/s11423-023-10309-x

@@ -67,3 +67,4 @@ Brief follow-up email sent a few months after the 12-week double-layered CoP cou
 ## Related Claims
 - [Sustaining large-scale online teacher communities of practice is generally more difficult than creating them](sustaining-online-teacher-cops-harder-than-creating.md) — related
 - [A carefully built course-internal CoP in a fully online doctoral program dissipated once the structured course period ended](course-internal-cop-dissipates-after-course-ends.md) — related
+- [Measured aspects of students' collaborations helped explain why some students in the blended course were more successful than others.](collaboration-measures-explain-student-success-differences.md) — related

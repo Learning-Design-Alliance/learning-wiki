@@ -53,3 +53,5 @@ A response piece assessing the Zacharia et al. (2015) literature review from a v
 - [STEM faculty implemented the five inquiry phases online during COVID-19 emergency remote teaching](faculty-implemented-inquiry-phases-online-covid.md) — related
 - [Some students found the guided-inquiry worksheet activities insufficiently thought-provoking and the data exchange troublesome](students-criticize-inquiry-worksheets-low-thinking.md) — related
 - [Students reported that the virtual-lab lesson made learning fun, helped them figure out concepts themselves, and supported thinking like real scientists](students-report-simulation-lesson-fun-and-concept-figuring.md) — related
+- [The virtual and remote labs literature to 2015 can be characterized by its most influential publications, most researched topics, and evolving topic interest](bibliometric-characterization-virtual-remote-lab-literature.md) — related
+- [Virtual and remote labs reduce the costs associated with conventional hands-on labs](virtual-remote-labs-reduce-hands-on-lab-costs.md) — related

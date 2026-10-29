@@ -13,7 +13,7 @@ generated:
 # Collaboration
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 63 claims (49 show a difference, 8 mixed, 6 no difference) · 54 studies (15 causal, 12 review, 11 qualitative, 6 associational, 5 design, 5 theoretical), `q1`–`q3` · 4 of 54 report an effect size · 63 claims rest on one study
+> **Evidence** · 64 claims (50 show a difference, 8 mixed, 6 no difference) · 55 studies (15 causal, 12 review, 11 qualitative, 7 associational, 5 design, 5 theoretical), `q1`–`q3` · 4 of 55 report an effect size · 64 claims rest on one study
 
 ## Description
 Collaboration is the ability to work with a diverse group toward a common goal: putting forward one's own ideas, listening to others' thoughts and needs, being flexible and compromising, and sharing responsibility for the result. It is measured in several ways, including observation, self-report, rating scales, standardised measures and performance tasks.
@@ -105,6 +105,7 @@ It overlaps with [social awareness and relationship skills](social-awareness-and
 - [Students report significant perceived improvement in the five competencies they consider most relevant to BA graduate employability, including teamwork and foreign language](../claims/als-redesign-improves-top-five-employability-competencies.md) [+M] — instruction changes it
 - [Team members' technical aptitude shaped role adoption, with less game-experienced members taking passive roles and power asymmetries limiting exploration](../claims/technical-aptitude-shapes-team-roles.md) [+M] — learners who differ on it differ in outcomes
 - [Team spirit motivated slower teams to persist, and the co-located classroom setting revealed the physical, face-to-face nature of teamwork](../claims/team-spirit-and-face-to-face-benefits.md) [+M] — learners who differ on it differ in outcomes
+- [Measured aspects of students' collaborations helped explain why some students in the blended course were more successful than others.](../claims/collaboration-measures-explain-student-success-differences.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Measuring Student Collaboration** (Evans et al., 2020): a guide to collaboration measures of several types: observation, self-report, rating scales, standardised measures and performance assessments.

@@ -49402,5 +49402,45 @@
  "scaffolding\tgradually provide hints and pose questions\tdirectly provide the answer": {
   "label": "hints and questions vs direct answers",
   "treatment_is_a": true
+ },
+ "active-learning\tflip teaching laboratory sessions\ttraditional laboratory teaching": {
+  "label": "flipped teaching vs traditional teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tflip teaching with advance documents and videos\ttraditional teaching with teacher explanation at the start of the lab": {
+  "label": "flipped teaching vs traditional teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tflip teaching with pre-class documents and videos\ttraditional teaching with teacher explanation at the beginning of the lab session": {
+  "label": "flipped teaching vs traditional teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tflip teaching with pre-class documents and videos\ttraditional teaching with teacher explanation at the start of the lab": {
+  "label": "flipped teaching vs traditional teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tflip teaching with pre-class documents and videos, followed by experimental work and discussion\ttraditional teaching with teacher explanation at the start of the lab session": {
+  "label": "flipped teaching vs traditional teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tflip teaching with pre-class materials and direct experimental work\ttraditional teaching with teacher explanation at the start of the lab": {
+  "label": "flipped teaching vs traditional teaching",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tcritical-reflective thinking training\tno training": {
+  "label": "explicit instruction vs no explicit instruction",
+  "treatment_is_a": true
+ },
+ "media-design\tflashing at 1 or 4 Hz\tflashing at 0.25 Hz": {
+  "label": "Higher-frequency flashing vs lower-frequency flashing",
+  "treatment_is_a": true
+ },
+ "media-design\tgreen and white flashing lights\tblue flashing lights": {
+  "label": "Green-and-white flashing lights vs blue flashing lights",
+  "treatment_is_a": true
+ },
+ "media-design\tlight-emitting diode light source\tsingle or double strobe lights": {
+  "label": "LED light source vs strobe lights",
+  "treatment_is_a": true
  }
 }

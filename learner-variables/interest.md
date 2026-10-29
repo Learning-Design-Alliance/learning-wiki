@@ -13,7 +13,7 @@ generated:
 # Interest
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 226 claims (161 show a difference, 39 mixed, 26 no difference) · 153 studies (61 causal, 41 associational, 20 review, 13 design, 7 quant-synthesis, 6 theoretical, 5 qualitative), `q1`–`q4` · 43 of 153 report an effect size · 220 claims rest on one study
+> **Evidence** · 229 claims (162 show a difference, 41 mixed, 26 no difference) · 155 studies (62 causal, 42 associational, 20 review, 13 design, 7 quant-synthesis, 6 theoretical, 5 qualitative), `q1`–`q4` · 45 of 155 report an effect size · 223 claims rest on one study
 
 ## Description
 Interest is a learner's attraction to a topic. Research separates individual interest, a lasting disposition a learner brings, from situational interest, which material or activity sparks in the moment and which can grow into individual interest over time. Interest is measured by self-report, choice and persistence. It predicts attention, depth of processing and course choice, it moderates the effect of materials (seductive details catch interest without helping learning), and it is an outcome of designs that show relevance or give learners choice. It is a narrower case of [motivation](motivation.md).
@@ -261,6 +261,9 @@ Interest is a learner's attraction to a topic. Research separates individual int
 - [Elementary students' situational interest in a blended video-based math lesson is significantly and moderately positively correlated with their perceived learning engagement](../claims/si-correlates-perceived-engagement-blended-math.md) [+M] — learners who differ on it differ in outcomes
 - [Self-efficacy and gameplay interest are negatively associated with elementary students' competitive anxiety in one-on-one gameplay](../claims/self-efficacy-interest-negatively-associated-competitive-anxiety.md) [+M] — learners who differ on it differ in outcomes
 - [Situational interest and user experience jointly predict perceived learning engagement, accounting for 40.7% of its variance](../claims/si-ux-predict-engagement-regression.md) [+W] — learners who differ on it differ in outcomes
+- [Major downward difficulty adaptation increases situational interest in game-based math learning, while major upward adaptation decreases it and minor adaptation has no effect](../claims/difficulty-adaptation-strength-direction-situational-interest.md) [~W] — instruction changes it
+- [There is a boundary condition for adaptive difficulty effects: adaptation strength must surpass a threshold to influence motivational outcomes](../claims/difficulty-adaptation-strength-threshold-boundary-condition.md) [~M] — instruction changes it
+- [Perceived enjoyment significantly positively influences both satisfaction and perceived impact on learning in CSCL](../claims/enjoyment-influences-satisfaction-and-impact-cscl.md) [+W] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does seeing a task as interesting, important or useful raise the effort learners invest in it?* [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](../claims/task-value-increases-motivation-and-engagement.md) [+M]

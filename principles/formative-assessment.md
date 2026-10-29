@@ -44,7 +44,7 @@ sources:
 # Formative Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 37 claims (22 for, 15 mixed) · 48 studies (12 causal, 12 quant-synthesis, 12 review, 5 theoretical, 3 associational, 2 qualitative, 2 design), `q1`–`q4` · 16 of 48 report an effect size · 25 claims rest on one study
+> **Evidence** · 38 claims (23 for, 15 mixed) · 49 studies (12 causal, 12 quant-synthesis, 12 review, 5 theoretical, 4 associational, 2 qualitative, 2 design), `q1`–`q4` · 16 of 49 report an effect size · 26 claims rest on one study
 
 ## Description
 
@@ -130,6 +130,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - *Does second-language practice carry over to skills and tasks other than the one practised?* [Practice of grammar rules improves only the practiced skill, showing skill specificity of L2 automatization](../claims/skill-specificity-l2-grammar-practice.md) [+M]
 - [Learning analytics research most often supports the 'where the learner is now' stage of formative assessment (51% of studies) and rarely the 'how to get there' stage (2%)](../claims/la-support-concentrated-where-learner-is-now.md) [~W] — attached 2026-10-20 from Seyyed Kazem Banihashem et al. (2025), which proposed "Use learning analytics to deliver scaled, real-time, personalized feedback that relieves teacher workload constraints on formative assessment".
 - [Formative assessment with validated analytic rubrics in the Viewbrics tool produced higher oral presentation performance than conventional rating-scale rubrics in Dutch secondary education](../claims/analytic-rubrics-outperform-conventional-rubrics-oral-presentation.md) [+M] — attached 2026-10-29 from Rob J. Nadolski et al. (2021), which proposed "Six-step formative assessment method for oral presentation skills with analytic rubrics"; tests this page's relationship.
+- [Students rank understanding-checks, problem identification and interactivity as the top benefits of EVS use, with fun ranked last](../claims/evs-benefit-ranking-feedback-top.md) [+W] — attached 2026-10-29 from Samuel O. King et al. (2008), which proposed "Use EVS primarily in formative-assessment mode so instant feedback empowers students and informs lecturers' pedagogical adjustments".
 
 ## Source verification and open tests
 

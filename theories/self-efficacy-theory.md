@@ -12,7 +12,7 @@ generated:
 # Self-Efficacy Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 105 claims (66 for, 36 mixed, 3 against) · 76 studies (37 associational, 18 causal, 16 review, 3 quant-synthesis, 1 design, 1 theoretical), `q1`–`q3` · 20 of 76 report an effect size · 103 claims rest on one study
+> **Evidence** · 106 claims (66 for, 37 mixed, 3 against) · 77 studies (38 associational, 18 causal, 16 review, 3 quant-synthesis, 1 design, 1 theoretical), `q1`–`q3` · 20 of 77 report an effect size · 104 claims rest on one study
 
 ## Description
 Self-efficacy is "people's beliefs in their ability to perform a course of action required to achieve a specific task" ([Bandura, 1977](https://doi.org/10.1037/0033-295x.84.2.191)). The theory's central claim is specificity: self-efficacy is not a general trait like self-confidence or self-concept, and it is not the same as documented ability. A learner's self-efficacy for "correctly subtracting fractions" is a distinct belief from their self-efficacy for "writing a persuasive essay," even though both might contribute to a broader (and much less predictive) sense of being "good at school" ([Seifert & Sutton, 2018](https://edtechbooks.org/lidtfoundations/motivation_theories_on_learning)). Because self-efficacy beliefs are self-constructed rather than measured, they can diverge from true capability in either direction; the most functional level is at or slightly above actual capacity (Bandura, 1997).
@@ -152,6 +152,7 @@ High self-efficacy for a task produces three effects, each with an upside and a 
 - [Self-efficacy increases significantly over the first interval of inquiry training and stays higher through and after training](../claims/self-efficacy-rises-early-inquiry-training.md) [+W]
 - [Self-efficacy and time-management positively predict exam grades, while self-evaluation shows an inverse relationship](../claims/srl-variables-predict-exam-grades.md) [+W]
 - [An integrated ATC training program with a development portfolio increased students' self-efficacy for learning and task value, but not self-efficacy for performance](../claims/integrated-training-increases-self-efficacy-learning-task-value.md) [~W]
+- [Self-efficacy, but not attitudes towards technology, predicted negative experiences, explaining 23% of variance; openness to change and school support predicted neither outcome.](../claims/self-efficacy-predicts-negative-online-teaching-experiences.md) [~W]
 
 ## The evidence by question
 

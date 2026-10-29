@@ -43,6 +43,7 @@ From group A's failure, the authors propose that environments "include additiona
 ## Related Strategies
 
 - [Design CSCL environments for group awareness and representational guidance to cut coordination load](cscl-group-awareness-representational-guidance.md)
+- [Teachers guide CSCL use, provide satisfying collaborative environments, and mediate group conflicts](teacher-guidance-and-conflict-mediation-in-cscl.md)
 
 ## Examples
 -

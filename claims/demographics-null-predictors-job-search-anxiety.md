@@ -58,3 +58,4 @@ Multivariate regression (N = 821): the authors report that "age, gender, class l
 - [Technology anxiety is a positive predictor of AI literacy once other determinants are controlled, despite a negative zero-order correlation](technology-anxiety-positive-predictor-ai-literacy.md) — related
 - [Intervention effects of SRI did not differ by student background or ability variables](sri-no-differential-effects-background-ability.md) — related
 - [AI anxiety is moderately and positively correlated with university students' job finding anxiety](ai-anxiety-correlates-job-finding-anxiety.md) — related
+- [Demographic and socioeconomic variables did not significantly predict parental resistance to educational smartphone use](demographics-do-not-predict-parental-resistance.md) — related

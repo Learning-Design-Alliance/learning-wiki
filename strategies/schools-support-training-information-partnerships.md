@@ -44,7 +44,8 @@ The review's concluding recommendation directs schools to address the digital di
 - [Technology access problems during the COVID shift were more prevalent among minoritized students and students from lower-income households](../claims/covid-stem-tech-access-inequity.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Schools should set clear smartphone usage rules with technical safeguards and familiarise parents with smartphones' pedagogical affordances to reduce resistance](address-parental-smartphone-resistance-rules-and-affordances.md)
 
 ## Examples
 -

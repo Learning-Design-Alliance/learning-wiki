@@ -57,3 +57,4 @@ Descriptive frequency analysis of primary barriers in the RQ1/RQ2 subset (N = 15
 - [In the AI-focused subset, professional development and teacher accompaniment (35.0%) and instructional design and assessment (32.5%) are the predominant approaches, with pedagogical limitations the main barrier](ai-subset-approaches-and-barriers-teacher-education.md) — reports the opposite
 - [Teacher training need and access difficulties are the main reported barriers to using assistive technology with students with disabilities](at-barriers-teacher-training-access.md) — related
 - [Teachers' most frequently cited barrier to classroom technology use was lack of access to technology, on both pre- and post-surveys](technology-access-top-barrier-for-teachers.md) — possibly the same claim (merge candidate)
+- [Data collection implementation and sample size are the most frequent limitations in digital competence research](slr-digital-competence-research-limitations.md) — related

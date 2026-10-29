@@ -172,6 +172,7 @@ The expectation should weaken if comparisons with novices, holding total time eq
 - [4C/ID](../patterns/4cid-four-component-instructional-design.md): a whole-task pattern whose supportive information plays a similar role
 - [Multimedia Learning pattern](../patterns/multimedia-learning.md)
 - [Design VR lessons with structured pre-, during-, and post-experience tasks](../strategies/structured-pre-during-post-vr-tasks.md)
+- [Supplement VR lessons with pre-training and follow-up reflection activities, and keep VR sessions short to limit fatigue and cybersickness](../strategies/vr-sce-session-design-pretraining-reflection.md)
 
 ## Key Sources
 

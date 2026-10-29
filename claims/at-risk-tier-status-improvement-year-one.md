@@ -50,3 +50,4 @@ Descriptive tier-status analysis of students who began Year One in Tier 3 (141 a
 - [In a blended learning program, matched kindergarten ELs and non-ELs showed significant aimsweb growth with no difference between groups](blended-learning-kindergarten-els-non-els-similar-growth.md) — related
 - [First-grade ELs in the blended learning program significantly outperformed matched non-ELs on aimsweb by end of Year One](first-grade-els-outperform-non-els-blended-learning.md) — related
 - [Over two school years of blended learning, ELs and non-ELs in grades 2–5 showed significant R-CBM growth at a similar pace](year-two-rcbm-growth-similar-pace.md) — related
+- [Students' learning performance in the rural school improved significantly after two years of Blended Synchronous Classroom practice](bsc-improved-rural-learning-performance.md) — related

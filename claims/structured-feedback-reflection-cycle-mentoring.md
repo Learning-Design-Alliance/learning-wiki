@@ -79,3 +79,4 @@ Analysis of the mentee's 15 written reflections showed she internalised a three-
 - [Teachers reported that CRS-and-TEFA use gave them more information about student thinking and that they changed lessons in response to that formative information](tefa-formative-information-changed-lessons.md) — related
 - [Mentor modelling and a school-wide behaviour program's strategies transferred to the mentee's classroom management practices](mentor-modelling-strategies-transfer-mentee-behaviour-management.md) — related
 - [Late-career teachers prefer socially embedded and collaborative learning opportunities such as mentoring, dialogue and reflective practice](late-career-teachers-prefer-socially-embedded-learning.md) — related
+- [A continuous cycle of authentic experiences and feedback supports preservice teachers to build their digital practice](authentic-experience-feedback-cycle-digital-practice.md) — a broader claim this one bears on

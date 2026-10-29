@@ -127,7 +127,9 @@ This pattern is scoped to dividing a course between online and in-person work. I
 - [Over two school years of blended learning, ELs and non-ELs in grades 2–5 showed significant R-CBM growth at a similar pace](../claims/year-two-rcbm-growth-similar-pace.md) [+W]
 
 ## Examples
+
 - [ETV, programmed workbook and drive-in seminar inservice course](../designs/etv-workbook-seminar-inservice-course.md) — an early broadcast-era blend of television, mailed workbook assignments and periodic seminars
+- [Semester-long blended course design requiring first-year engineering students to collaborate and inquire](../designs/blended-first-year-engineering-collaborative-inquiry-course.md)
 
 ## Key Sources
 - Graham, C. R. (2006). Blended learning systems. In C. J. Bonk & C. R. Graham (Eds.), *The handbook of blended learning*. Pfeiffer.

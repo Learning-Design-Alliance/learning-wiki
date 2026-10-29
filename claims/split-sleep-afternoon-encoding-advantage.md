@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2019
+source_checked: 2026-10-29
 sources:
   - id: cousins-2019
     resource: "https://doi.org/10.1038/s41539-019-0047-z"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3` · `i2` medium
-> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2019 · checked against its sources 2026-10-29 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Adolescents on a split sleep schedule (5 h nocturnal + 1.5 h nap) recognized more incidentally encoded pictures after two recovery nights than those with 6.5 h continuous nocturnal sleep, with d = 0.66. [→ Cousins 2019](#cousins-2019)
@@ -51,6 +52,6 @@ Controlled laboratory-classroom experiment of incidental picture encoding (build
 ## Related Claims
 - [Sleep schedule interacts with time of learning on confident factual memory: the split-sleep advantage appears only for afternoon-learned material](group-by-time-interaction-factual-memory.md) — related
 - [A split sleep schedule raises subjective alertness and focus in the afternoon during learning, and post-nap psychomotor vigilance, in sleep-restricted adolescents](split-sleep-afternoon-alertness-focus.md) — related
-- [Adolescents on a split sleep schedule remember more educationally realistic factual material learned in the afternoon than peers with equal total sleep in continuous nocturnal sleep](split-sleep-afternoon-factual-memory.md) — related
+- [Adolescents on a split sleep schedule remember more educationally realistic factual material learned in the afternoon than peers given the same total sleep opportunity as continuous nocturnal sleep](split-sleep-afternoon-factual-memory.md) — related
 - [Splitting sleep with an afternoon nap does not impair morning learning in sleep-restricted adolescents despite reduced nocturnal sleep](split-sleep-no-morning-learning-cost.md) — related
 - [A split sleep schedule reduces 24-hour total sleep time and REM sleep duration relative to equal-duration continuous nocturnal sleep, with no consistent reduction in other sleep stages](split-sleep-reduces-total-and-rem-sleep.md) — related

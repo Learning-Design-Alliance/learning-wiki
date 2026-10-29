@@ -48,3 +48,4 @@ Evaluation study described in the article's abstract: because neither prototype 
 - [The article evaluated the action selection engines' speed for real-time tutoring use](action-selection-speed-evaluation.md) — related
 - [Intelligent tutoring systems are a mature, technologically sophisticated implementation of AI-driven personalized learning with mostly positive outcomes in programming, mathematics, and STEM](its-mature-implementation-personalized-learning.md) — a broader claim this one bears on
 - [BEAGLE's HIGH and LOW performer profiles differentiate by SRL strategy: HIGH performers allocate 72% of steps to PLANNING and MONITORING while LOW performers spend 50.8% trapped in ENACTING](beagle-profile-strategy-differentiation.md) — related
+- [The generic Bayesian student model had been evaluated with simulated students before its first real application](gbsm-simulated-then-real-evaluation.md) — related

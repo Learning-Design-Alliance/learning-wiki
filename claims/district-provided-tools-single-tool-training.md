@@ -71,3 +71,4 @@ Interview evidence from a technology coach whose district enabled Office 365 wit
 - [Preservice teachers tend to rely more on informal help sources than formal ones during training](pst-rely-informal-help-sources.md) — related
 - [Big Tech hyperscalers are introducing cloud and AI infrastructures into education with a business model tending towards monopoly capture](big-tech-hyperscalers-education-monopoly-capture.md) — related
 - [During ERT, teachers selected technologies based on familiarity, availability, functionality, and technical competence](ert-technology-selection-four-factors.md) — related
+- [An institutional vision of digital technology use, supported by group commitment and professional learning, is needed to train teachers for the future of educational technology](institutional-vision-group-commitment-digital-technology.md) — related

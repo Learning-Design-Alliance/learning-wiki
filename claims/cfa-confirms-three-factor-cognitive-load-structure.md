@@ -72,3 +72,4 @@ Convergent validity check in Study 2 correlating the proposed instrument with th
 - [Confirmatory factor analysis with 448 secondary students showed the 32-item SAICS measurement model has good fit and high validity and reliability](saics-cfa-good-model-fit-448-students.md) — related
 - [The faculty readiness scale required two model modifications (a cross-loading item and two residual correlations) to reach adequate fit](genai-rp-faculty-readiness-modified-model.md) — related
 - [The student GenAI-RP readiness scale shows a validated three-factor structure: GenAI Comprehension, Ethical Awareness, and GenAI Utilization and Proficiency](genai-rp-student-readiness-three-factors.md) — related
+- [A newly developed survey instrument measures three distinct, reliable forms of teacher collaboration on Instagram: information seeking, information sharing, and co-creating](three-forms-teacher-collaboration-instagram-instrument.md) — related

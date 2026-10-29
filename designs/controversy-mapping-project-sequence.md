@@ -40,7 +40,8 @@ A project-level design pattern in which students work through six phases: (1) su
 - [Categorization Requires Reading Claims](../claims/categorization-requires-reading-claims.md) [+M]
 
 ## Related Designs
-- 
+
+- [Five-phase online collaborative learning experience with projects and case studies](five-phase-cscl-course-experience.md)
 
 ## Examples
 -

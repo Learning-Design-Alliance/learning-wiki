@@ -36,7 +36,7 @@ sources:
 # Adaptive Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 82 claims (45 for, 33 mixed, 4 against) · 79 studies (26 causal, 20 review, 11 design, 7 quant-synthesis, 7 associational, 6 theoretical, 2 qualitative), `q1`–`q4` · 13 of 79 report an effect size · 75 claims rest on one study
+> **Evidence** · 84 claims (46 for, 34 mixed, 4 against) · 80 studies (27 causal, 20 review, 11 design, 7 quant-synthesis, 7 associational, 6 theoretical, 2 qualitative), `q1`–`q4` · 14 of 80 report an effect size · 77 claims rest on one study
 
 ## Conditional relationship
 
@@ -202,6 +202,8 @@ Within-system performance, aligned achievement, standardised achievement, delaye
 - [Students receiving adaptive tutorial dialogues in EER-Tutor outperformed peers receiving non-adaptive dialogues, with effect size 0.69 on learning gains](../claims/adaptive-tutorial-dialogues-effect-size-069.md) [+W]
 - [DeepTutor's macro-adaptive learning-progressions selection produced 0.79 σ pretest-posttest gains in a small evaluation, versus very little learning without dynamic dialog selection](../claims/deeptutor-macro-adaptivity-gains.md) [+W]
 - [Reinforcement learning used for micro-adaptation showed potential learning gains of up to 1 sigma over poorly-optimized dialog or no dialog (per the article, citing Chi et al. 2014)](../claims/reinforcement-learning-micro-adaptation-gains.md) [~W]
+- [Difficulty adaptation significantly reduced the variance of task correctness and perceived difficulty across learners](../claims/adaptation-balances-outcome-variance-across-learners.md) [+W]
+- [Only participants receiving major difficulty adaptation reported significant changes in perceived difficulty](../claims/difficulty-adaptation-perceived-difficulty-changes.md) [~W]
 
 ## Related Principles
 - [Cognitive Load Management](cognitive-load-management.md) — adaptation is the primary mechanism for keeping intrinsic load matched to learner expertise over time

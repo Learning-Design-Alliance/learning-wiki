@@ -48,3 +48,4 @@ Path analysis and hierarchical regression with 144 Turkish preservice teachers; 
 - [Outcome expectations have a stronger direct influence on technology integration intentions than self-efficacy, and interests contribute directly](outcome-expectations-stronger-than-self-efficacy-on-intentions.md) — related
 - [The serial mediation model explains 32.5–37.0% of variance in AI-TPACK, self-efficacy, and AI integration intention](model-explained-variance-ai-integration-outcomes.md) — related
 - [Mastery experiences are the central source of self-efficacy: they strongly predict self-efficacy and uniquely predict intentions when other variables are controlled](mastery-experiences-central-source-self-efficacy.md) — related
+- [Self-efficacy and attitudes towards technology integration predicted positive experiences in online distance teaching, jointly explaining 52% of variance.](efficacy-attitudes-predict-positive-online-teaching-experiences.md) — related

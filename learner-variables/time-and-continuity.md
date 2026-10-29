@@ -13,7 +13,7 @@ generated:
 # Time and Continuity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 139 claims (96 show a difference, 33 mixed, 10 no difference) · 121 studies (47 causal, 29 associational, 19 review, 12 quant-synthesis, 6 qualitative, 5 design, 3 theoretical), `q1`–`q4` · 25 of 121 report an effect size · 135 claims rest on one study
+> **Evidence** · 140 claims (97 show a difference, 33 mixed, 10 no difference) · 122 studies (47 causal, 29 associational, 20 review, 12 quant-synthesis, 6 qualitative, 5 design, 3 theoretical), `q1`–`q4` · 25 of 122 report an effect size · 136 claims rest on one study
 
 ## Description
 How much uninterrupted time a learner actually gets, and whether progress survives the gap to the next session. It sets page length, whether a task finishes in one sitting, and whether a multi-week deliverable survives a bad month. The awkward part is that the schedule which produces the best retention is the one learners reliably judge worst: spacing feels harder and less effective while producing more durable learning [~S], so this dimension cannot be designed by learner preference.
@@ -182,7 +182,7 @@ How much uninterrupted time a learner actually gets, and whether progress surviv
 - [Learning losses increase with the length of school closures, from 9–12% SD in shortest-closure countries to 17–23% SD in longest-closure countries](../claims/losses-increase-with-closure-length.md) [+M] — learners who differ on it differ in outcomes
 - [Increases in learning duration and screen time predict change in academic grades over 2 years, while BMI change has no main effect](../claims/learning-duration-screen-time-main-effects-grades.md) [+M] — learners who differ on it differ in outcomes
 - [The evening group's 24 h skill improvement reflects offline learning rather than a simple continuation of practice](../claims/evening-offline-gain-exceeds-practice-continuation.md) [+M] — learners who differ on it differ in outcomes
-- [Adolescents on a split sleep schedule remember more educationally realistic factual material learned in the afternoon than peers with equal total sleep in continuous nocturnal sleep](../claims/split-sleep-afternoon-factual-memory.md) [+M] — learners who differ on it differ in outcomes
+- [Adolescents on a split sleep schedule remember more educationally realistic factual material learned in the afternoon than peers given the same total sleep opportunity as continuous nocturnal sleep](../claims/split-sleep-afternoon-factual-memory.md) [+M] — learners who differ on it differ in outcomes
 - [Under restricted sleep, adolescents on a split sleep schedule show better late-afternoon encoding of pictures than adolescents with the same total sleep opportunity in continuous nocturnal sleep](../claims/split-sleep-afternoon-encoding-advantage.md) [+M] — learners who differ on it differ in outcomes
 - [Nudges prevented 24.2% of learning losses in Portuguese and 7.5% in math at school level, though imprecisely estimated](../claims/nudges-prevented-school-level-learning-losses.md) [~W] — instruction changes it
 - [Both inter-trial break time and on-task trial time significantly affect post-rest RT improvement after a 300 s rest](../claims/break-and-trial-time-affect-post-rest-improvement.md) [+M] — learners who differ on it differ in outcomes
@@ -196,6 +196,7 @@ How much uninterrupted time a learner actually gets, and whether progress surviv
 - [Longer total intervention time is associated with greater learning gains, especially for low achievers](../claims/longer-time-on-task-greater-gains.md) [+M] — learners who differ on it differ in outcomes
 - [No instruction characteristic (dosage, program availability, literacy domain) significantly moderated effects, though phonics and spelling instruction approached significance descriptively favoring treatments that included them](../claims/no-instruction-moderators-phonics-spelling-marginal.md) [-M] — an instructional effect differs with it
 - [Increasing narration speed by up to 1.8 times has no negative impact on learning and reduces instruction time](../claims/narration-speed-up-to-1-8x-no-learning-cost.md) [+M] — instruction changes it
+- [A continuous cycle of authentic experiences and feedback supports preservice teachers to build their digital practice](../claims/authentic-experience-feedback-cycle-digital-practice.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 

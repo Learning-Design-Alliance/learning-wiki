@@ -29,7 +29,8 @@ Garry Falloon's Teacher Digital Competence framework organizes teachers' curricu
 - [Transversal competencies—establishing a safe learning environment, accessibility, and empathy for students' situations—were emphasized as crucial during the pandemic](../claims/transversal-competencies-crucial-during-got.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [Calvani et al.'s three-dimensional digital competence framework](calvani-et-als-three-dimensional-digital-competence-framework.md)
 
 ## Key Sources
 - Garry Falloon. (2020). From digital literacy to digital competence: the teacher digital competency (TDC) framework. Education Tech Research Dev. https://doi.org/10.1007/s11423-020-09767-4

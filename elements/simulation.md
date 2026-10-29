@@ -14,7 +14,7 @@ generated:
 # Simulation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 73 claims (40 for, 29 mixed, 4 against) · 65 studies (18 review, 16 causal, 13 quant-synthesis, 8 design, 5 qualitative, 3 theoretical, 2 associational), `q1`–`q4` · 14 of 65 report an effect size · 63 claims rest on one study
+> **Evidence** · 76 claims (42 for, 30 mixed, 4 against) · 66 studies (19 review, 16 causal, 13 quant-synthesis, 8 design, 5 qualitative, 3 theoretical, 2 associational), `q1`–`q4` · 14 of 66 report an effect size · 66 claims rest on one study
 
 ## Description
 A simulation is an interactive model of a real or hypothetical system — physical, biological, economic, social, or procedural — in which learners take actions, observe the consequences, and adjust their approach. Unlike a [Demonstration](demonstration.md), which presents expert performance for observation, a simulation makes the learner the actor, embedding practice inside a simplified environment where errors are safe and consequences are visible.
@@ -128,6 +128,9 @@ Simulations support learning by making system dynamics explorable: learners buil
 - [Teacher candidates moved from abstract inclusivity ideals to specific instructional and relational strategies after the simulation](../claims/simulation-shift-abstract-to-actionable-inclusivity.md) [+M] — attached 2026-10-29 from Hoda Harati et al. (2026), which proposed "Building Inclusive Classrooms simulation (SchoolSims platform)"; tests this page's relationship.
 - [The simulation increased teacher candidates' confidence and self-efficacy for addressing sensitive topics, but did not alleviate concerns about parent and administrator backlash](../claims/simulation-confidence-gain-persistent-backlash-concerns.md) [~M] — attached 2026-10-29 from Hoda Harati et al. (2026), which proposed "Building Inclusive Classrooms simulation (SchoolSims platform)"; tests this page's relationship.
 - [Teacher educators found the simulation fostered critical thinking and reflection but faced integration, accessibility, and binary-decision limitations](../claims/teacher-educators-simulation-value-and-challenges.md) [~M] — attached 2026-10-29 from Hoda Harati et al. (2026), which proposed "Building Inclusive Classrooms simulation (SchoolSims platform)".
+- [A review reports that IVR serious-game training gave better airplane-evacuation spatial knowledge than safety cards in one study, and that in a separate spacecraft-evacuation study the body orientation used in training shaped which spatial skills were learned](../claims/ivr-sgs-spatial-knowledge-evacuation.md) [+W]
+- [IVR serious games validate evacuation facility designs, with participants preferring green and white flashing exit-portal lights](../claims/ivr-sgs-evacuation-facility-validation.md) [+W]
+- [IVR serious games show that other evacuees strongly influence participants' evacuation behavior](../claims/ivr-sgs-social-influence-evacuation-behavior.md) [~W]
 
 ## Design Decisions
 <!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice

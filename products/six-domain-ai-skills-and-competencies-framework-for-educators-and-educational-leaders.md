@@ -31,6 +31,7 @@ A Digital Promise framework organizing AI literacy and readiness competencies fo
 
 - [Workforce AI literacy framework of six skill and competency domains](workforce-ai-literacy-framework-of-six-skill-and-competency-domains.md)
 - [HeDiCom (Higher Education Digital Competence) framework](hedicom-higher-education-digital-competence-framework.md)
+- [DigCompEdu six-area framework of educators' digital competence](digcompedu-six-area-framework-of-educators-digital-competence.md)
 
 ## Key Sources
 - Digital Promise. (2025). AI Literacy in PK-12 Education. https://digitalpromise.org

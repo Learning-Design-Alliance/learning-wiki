@@ -60,8 +60,10 @@ Drawing functions as an external planning surface that offloads idea generation 
 6. Over time, fade the drawing scaffold as transcription becomes fluent, shifting planning from pictures to outlines and drafts.
 
 ## Related Strategies
+
 - [Dialogic reading](../elements/dialogic-reading.md) — the same adult-child talk structure applied to reading picture books rather than composing them
 - [Interactive writing](interactive-writing.md) — the companion transcription practice in which children and teacher share the pen
+- [Provide explicit process prompting (including picture-to-text transcription guidance) when visual storytelling precedes writing](explicit-prompting-for-visual-storytelling.md)
 
 ## Examples
 - **Writer's Workshop (K–1 classrooms)** — the standard "sketch, then write" planning routine in units such as Lucy Calkins' *Units of Study for Primary Writing*, where children sketch a story across pages before drafting.

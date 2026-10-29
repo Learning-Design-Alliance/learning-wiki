@@ -50,3 +50,4 @@ The article's tentative DAG analysis of Gašević et al. (2016), a large analysi
 - [Prediction algorithms forecast student achievement from small windows of data, more accurately when data are enriched with instructional design and learning-process detail](enriched-data-improve-achievement-prediction.md) — related
 - [Unprincipled inclusion of covariates ('garbage-can regression') can introduce rather than remove bias](garbage-can-regression-fallibility.md) — a broader claim this one bears on
 - [Learning analytics can reliably record certain behaviors but cannot necessarily validate inferences about what learners know or are motivated to learn](trace-data-reliability-vs-validity-inference.md) — related
+- [Measured aspects of students' collaborations helped explain why some students in the blended course were more successful than others.](collaboration-measures-explain-student-success-differences.md) — related

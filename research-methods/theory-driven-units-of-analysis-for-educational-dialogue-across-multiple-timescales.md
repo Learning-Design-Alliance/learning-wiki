@@ -29,6 +29,7 @@ The Baker, Schwarz, and Ludvigsen Squib argues for deep theoretical understandin
 - [Functional system incorporating tools as the unit of analysis for CSCL microanalysis](functional-system-incorporating-tools-as-the-unit-of-analysis-for-cscl-microanalysis.md)
 - [Micro-ecological approach to cross-level CSCL analysis](micro-ecological-approach-to-cross-level-cscl-analysis.md)
 - [Three planes of learning in CSCL: individual, small-group, and community](three-planes-of-learning-in-cscl-individual-small-group-and-community.md)
+- [Multi-dimensional analysis approach for CSCL discourse corpora](multi-dimensional-analysis-approach-for-cscl-discourse-corpora.md)
 
 ## Key Sources
 - Carolyn Rosé, Sanna Järvelä. (2021). A theory-driven reflection on context-aware support for collaborative discussions in light of analytics, affordances, and platforms. International Journal of Computer-Supported Collaborative Learning. https://doi.org/10.1007/s11412-021-09360-8

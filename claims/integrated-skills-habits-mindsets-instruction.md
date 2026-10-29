@@ -59,3 +59,4 @@ Narrative synthesis in the skills, habits, and mindsets section, grounded in the
 - [Learning sciences emphasize interconnection across cognitive, social, emotional and embodied dimensions of learning](interconnected-cognitive-social-emotional-embodied-learning.md) — a broader claim this one bears on
 - [Increasing student cognitive development was the main focus of the experiments](cognitive-development-main-focus-of-experiments.md) — related
 - [Self-regulation and self-directed learning strategies need to be taught and practiced over time](self-regulation-strategies-taught-over-time.md) — related
+- [E-learning material designed on brain-compatible principles has a positive effect on Technical Programming 1 students' achievement and motivation](bce-elearning-positive-effect-achievement-motivation.md) — a narrower finding that bears on this claim

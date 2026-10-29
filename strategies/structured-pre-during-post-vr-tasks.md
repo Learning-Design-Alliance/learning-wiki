@@ -51,6 +51,7 @@ The article recommends wrapping VR experiences in supporting instructional struc
 
 - [Integrate model-based supports across pretraining, in-simulation, and post-simulation stages of VR teacher practice](integrate-supports-across-vr-simulation-stages.md)
 - [Sequence immersive VR viewing with an introductory lecture and teacher-facilitated reflective group dialogues to make VR experiences collaborative](vr-viewing-lecture-reflection-sequence.md)
+- [Supplement VR lessons with pre-training and follow-up reflection activities, and keep VR sessions short to limit fatigue and cybersickness](vr-sce-session-design-pretraining-reflection.md)
 
 ## Examples
 -

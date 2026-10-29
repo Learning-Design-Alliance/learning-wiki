@@ -73,3 +73,6 @@ Mixed ANOVA on transfer items (N = 155, immediate to 3-week delayed posttest) pr
 - [Erroneous examples and problem solving do not differ significantly on an immediate posttest](erroneous-examples-no-immediate-difference.md) — related
 - [Performance on practiced reasoning items and on transfer items continued to improve after 3-week and 9-month delays](ct-performance-improves-further-after-delay.md) — related
 - [The delayed erroneous-examples benefit holds for both low and high prior knowledge students](erroneous-examples-benefit-both-prior-knowledge-levels.md) — related
+- [Fundamental-attribution-error training effects did not transfer to independent out-context posttests](fae-training-no-transfer.md) — related
+- [Training in critical-reflective thinking produced no change on the Cognitive Reflection Test](no-crt-effect-of-training.md) — related
+- [Critical-reflective thinking training reduces the tendency to commit the fundamental attribution error on in-context measurements during murder case two](training-reduces-fae-in-context.md) — related

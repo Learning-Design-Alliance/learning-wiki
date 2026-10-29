@@ -71,3 +71,4 @@ Descriptive frequency analysis of primary barriers in the AI subset (N = 40). Th
 - [Digital competence development is the most frequently reported advantage (76.1%) of digitally supported teacher education strategies](digital-competence-development-most-frequent-advantage.md) — related
 - [Educator-focused digital literacy frameworks prioritize pedagogy, empowering learners, and curriculum and assessment, with more evenly distributed categories](educator-frameworks-pedagogy-and-systemic-capacities.md) — related
 - [Infrastructure, connectivity or limited access is the most frequent barrier (45.2%) to digitally supported teacher education](infrastructure-access-main-barrier-digitally-supported-teacher-education.md) — reports the opposite
+- [Data collection implementation and sample size are the most frequent limitations in digital competence research](slr-digital-competence-research-limitations.md) — related

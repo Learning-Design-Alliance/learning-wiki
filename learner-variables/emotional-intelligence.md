@@ -13,7 +13,7 @@ generated:
 # Emotional Intelligence
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 52 claims (39 show a difference, 6 mixed, 7 no difference) · 38 studies (11 causal, 11 review, 8 associational, 6 quant-synthesis, 1 qualitative, 1 theoretical), `q1`–`q4` · 10 of 38 report an effect size · 51 claims rest on one study
+> **Evidence** · 53 claims (39 show a difference, 6 mixed, 8 no difference) · 39 studies (12 causal, 11 review, 8 associational, 6 quant-synthesis, 1 qualitative, 1 theoretical), `q1`–`q4` · 10 of 39 report an effect size · 52 claims rest on one study
 
 ## Description
 Emotional intelligence is the ability to perceive emotions accurately, use them to support thinking, understand them and manage them. It is measured either as an ability (performance tests) or as a self-reported trait. It correlates with academic achievement, more strongly in the humanities than in STEM subjects, and overlaps with [affect regulation](affect-regulation.md) and with social-emotional skills that programmes aim to build.
@@ -88,6 +88,7 @@ Emotional intelligence is the ability to perceive emotions accurately, use them 
 - [Adolescents who engaged more with Crystals' empathy training mechanics showed greater increases in empathic accuracy-related RTPJ activation, controlling for total playtime](../claims/game-engagement-rtpj-activation-increase.md) [+M] — instruction changes it
 - [SEL programs implemented well show positive impacts on targeted skills and academic outcomes, including meta-analytic support](../claims/sel-programs-academic-outcomes.md) [+M] — instruction changes it
 - [No significant correlations between contextual emotion differences and overall game score after Holm-Bonferroni correction](../claims/no-significant-emotion-game-score-correlations.md) [-M] — learners who differ on it differ in outcomes
+- [Emotion regulation, utilization of social resources and objective social support showed no significant improvement under any pedagogy, and Lego did not differ significantly from other approaches, in middle school children](../claims/sce-interventions-null-domains-and-limits.md) [-W] — instruction changes it
 
 ## Related Learner Variables
 

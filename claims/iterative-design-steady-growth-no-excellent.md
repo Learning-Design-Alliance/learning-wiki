@@ -76,3 +76,4 @@ Descriptive analysis of the same five groups' scored plans across all rounds: de
 - [Claremont residents develop lesson planning skill through 5 weeks of iterative revision with instructor feedback before clinical placements](iterative-lesson-planning-before-clinical-placement.md) — related
 - [Teachers' SRL&T module scores improved modestly over the year, with Adam improving more (three to six points) than Ben (five to six)](srlt-module-scores-improvement-adam-ben.md) — related
 - [Netherlands case: design-based TPACK interventions improved student teachers' TPACK and were sustained, but scaling was delayed by leadership decision structures](netherlands-tpack-interventions-sustained-scaling-delayed.md) — related
+- [A range of collaborative design activities, guided by instructional design models such as TPACK, are necessary to train preservice teachers to create technology-rich lesson plans](collaborative-design-tpack-lesson-plans.md) — related

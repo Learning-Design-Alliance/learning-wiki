@@ -48,7 +48,7 @@ Omnibus mixed ANOVA on certain memory scores (correct minus incorrect) from the 
 - [Sleep](../learner-variables/sleep.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
-- [Adolescents on a split sleep schedule remember more educationally realistic factual material learned in the afternoon than peers with equal total sleep in continuous nocturnal sleep](split-sleep-afternoon-factual-memory.md) — possibly the same claim (merge candidate)
+- [Adolescents on a split sleep schedule remember more educationally realistic factual material learned in the afternoon than peers given the same total sleep opportunity as continuous nocturnal sleep](split-sleep-afternoon-factual-memory.md) — possibly the same claim (merge candidate)
 - [A split sleep schedule raises subjective alertness and focus in the afternoon during learning, and post-nap psychomotor vigilance, in sleep-restricted adolescents](split-sleep-afternoon-alertness-focus.md) — related
 - [Splitting sleep with an afternoon nap does not impair morning learning in sleep-restricted adolescents despite reduced nocturnal sleep](split-sleep-no-morning-learning-cost.md) — related
 - [Under restricted sleep, adolescents on a split sleep schedule show better late-afternoon encoding of pictures than adolescents with the same total sleep opportunity in continuous nocturnal sleep](split-sleep-afternoon-encoding-advantage.md) — related

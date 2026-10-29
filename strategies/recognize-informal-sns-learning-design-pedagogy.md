@@ -41,6 +41,7 @@ The authors recommend that design educators and researchers re-assess how much l
 ## Related Strategies
 
 - [Use educommunicative tools — the Critical Media Literacy Framework, the dialogic–critical method, and critical pedagogies — to build students' critical evaluation of information](educommunicative-tools-critical-evaluation.md)
+- [Attend to social media collaboration in teacher education and professional development, recognizing differential activities and support outcomes](social-media-attention-teacher-education-pd.md)
 
 ## Examples
 -

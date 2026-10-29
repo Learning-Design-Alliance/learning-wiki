@@ -50,3 +50,4 @@ The article's abstract states this as the intended function of macro scripts wit
 - [Perturbation type determines the interaction types needed: conflicting evidence elicits argumentation](conflicting-evidence-increases-argumentation.md) — related
 - [Online PBL group interaction follows the scripted sequence initially, but co-regulation derails over time into social bonding with fewer high-cognitive interactions](pbl-group-sequence-derails-to-social.md) — related
 - [Research on collaboration scripts should treat learners' internal collaboration scripts as a determinant of collaboration behavior](internal-scripts-determine-collaboration-behavior.md) — related
+- [Measuring the influence of collaboration scripts on specific argumentative processes is needed to refine process-oriented instructional support](measure-script-influence-to-refine-support.md) — related

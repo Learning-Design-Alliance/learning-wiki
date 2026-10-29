@@ -67,3 +67,4 @@ The article reports a second study comparing an undergraduate lecture with and w
 - [Children in the interactive condition responded to 77.94% of Elinor's questions versus 68.13% in the pseudo-interactive condition](interactive-higher-response-rate.md) — related
 - [Contingent AI interaction increased children's likelihood of responding over time (OR = 1.026 per question), while pseudo-interactive interaction decreased it (OR = 0.96)](response-rate-trend-contingency.md) — related
 - [Verbal engagement correlated more strongly with science learning in the interactive condition (response rate r = .485) than in the pseudo-interactive condition (r = .193)](engagement-learning-correlation-stronger-interactive.md) — related
+- [Students report a far higher likelihood of answering questions in class when handsets are used than when responding by raising hands or verbally](evs-raises-participation-likelihood-vs-hands-verbal.md) — related

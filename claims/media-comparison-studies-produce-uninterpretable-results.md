@@ -124,3 +124,4 @@ A live tension worth flagging: the claim that "media do not influence learning, 
 - [Mastery learning implementation causes a mastery attrition bias that confounds learning curves, and it cannot be addressed universally](mastery-attrition-bias-confounds-learning-curves.md) — related
 - [Media and technology provide affordances but effective use depends on good instructional design and support](media-affordances-depend-on-instructional-design.md) — related
 - [OER efficacy studies are frequently confounded by simultaneous changes in pedagogy or delivery method.](oer-adoption-confounded-with-pedagogy-change.md) — related
+- [An interactive game training context provided no immersion or bias-mitigation advantage over a text script with identical content](game-context-no-advantage-over-text.md) — a narrower finding that bears on this claim

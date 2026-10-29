@@ -49,3 +49,4 @@ Multi-group SEM on longitudinal data from 750 Mexican and Dominican American mot
 - [Mothers' ethnic cultural knowledge is associated with more socialization toward both independence and respeto](ethnic-cultural-knowledge-socialization-messages.md) — related
 - [Academic readiness and adaptive behaviors at school entry predict higher academic achievement at the end of first grade](school-readiness-predicts-first-grade-achievement-latino.md) — related
 - [The role of respeto socialization and authoritarian parenting in achievement differs between Mexican and Dominican American families](respeto-authoritarian-ethnic-group-differences.md) — related
+- [Pedagogical and social resistance factors positively predict actual parental resistance, while an authoritative parenting style is a negative predictor](pedagogical-social-factors-predict-parental-resistance.md) — related

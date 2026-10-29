@@ -56,3 +56,4 @@ Exploratory moderation analyses in the N = 132 field experiment with conscientio
 - [Latent learner profiles did not moderate the effectiveness of the adaptive ITS](learner-profiles-no-moderation-adaptive-its.md) — reports the opposite
 - [Conscientiousness and tolerance for novelty show small negative associations with well-being decline; other uncertainty-tolerance facets do not](conscientiousness-novelty-tolerance-small-protective-associations.md) — related
 - [Adaptivity does not sacrifice enjoyment](bkt-adaptivity-no-enjoyment-cost.md) — related
+- [There is a boundary condition for adaptive difficulty effects: adaptation strength must surpass a threshold to influence motivational outcomes](difficulty-adaptation-strength-threshold-boundary-condition.md) — related

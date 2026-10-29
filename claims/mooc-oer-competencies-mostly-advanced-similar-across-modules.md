@@ -50,3 +50,4 @@ Descriptive analysis of rubric self-assessment survey (37 questions, four module
 - [Doctoral-level teachers show the highest advanced-level percentage in each of the four OER competency modules](doctoral-teachers-highest-advanced-oer-competence.md) — related
 - [Teachers' educational level was statistically associated with their responses on three of 37 OER-competency survey items, though the definition-of-elements association is weak and non-linear](three-oer-competencies-depend-on-education-level.md) — related
 - [Most teachers report precise identification of OER sources plus at least two diffusion improvements when implementing a diffusion strategy](oer-diffusion-strategy-implementation-self-reports.md) — related
+- [University students and teachers generally show basic or intermediate digital competence, with safety a weakness](digital-competence-basic-medium-level-safety-weakness.md) — related

@@ -57,9 +57,11 @@ Drawing externalizes ideas in a modality that does not compete with limited tran
 5. **Share and integrate.** Child reads their words and picture to an audience; teacher may transcribe the child's words beneath their writing, making the speech–print correspondence visible ([Application](../elements/application.md), [Integration](../elements/integration.md)).
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) — drawing from personal experience is itself an activation move that surfaces what the child already knows
 - [Journaling](../strategies/journaling.md) — picture journals extend the strategy into a routine with developmental progression from drawing to writing
 - [Think-Aloud Modeling](../strategies/think-aloud-modeling.md) — teachers can model planning by sketching and narrating their own picture-writing process
+- [Provide explicit process prompting (including picture-to-text transcription guidance) when visual storytelling precedes writing](explicit-prompting-for-visual-storytelling.md)
 
 ## Examples
 - A kindergartner draws a beach scene, tells the teacher about building a sandcastle, then writes "I bild a sand casl." The teacher writes the standard spelling beneath, and the child reads both versions aloud.

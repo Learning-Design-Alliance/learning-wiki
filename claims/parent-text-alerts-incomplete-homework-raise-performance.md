@@ -50,3 +50,4 @@ The review reports, citing Bergman (2014), a randomly selected treatment in whic
 - [Mobile apps increased timely, direct communication between parents and educators during remote schooling](mobile-apps-timely-parent-teacher-communication.md) — related
 - [Parental focus on compliance harms homework learning, while supporting effort and process helps](parent-compliance-versus-process-support.md) — related
 - [The Tips by Text intervention did not produce significant improvements in children's early reading-related skills (YARC) relative to control](tips-by-text-no-reading-improvement.md) — related
+- [Appropriate educational technology improved home-school links and parent and teacher roles in the HOMEWORK evaluations](homework-technology-strengthened-parent-teacher-roles.md) — related

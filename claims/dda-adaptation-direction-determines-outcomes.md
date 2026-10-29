@@ -9,6 +9,7 @@ generated:
   at: 2026-10-12
 evidence_strength: weak
 newest_evidence: 2026
+source_checked: 2026-10-29
 sources:
   - id: kaşarcı-ismail-2026
     resource: "https://doi.org/10.3390/bs16071050"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-10-29 (automated, 1 of 1 entry) · not reviewed by a person
 <!-- title before 2026-10-15: The direction of difficulty adaptation, not merely its presence, determines AI-GBL outcomes -->
 
 ## Subclaims
@@ -53,3 +54,4 @@ The review reports a quasi-experimental VR study (n = 50) in which "rule-based d
 - [Adaptive learning functions as the algorithmic engine that operationalizes personalized learning](adaptive-learning-engine-of-personalization.md) — a broader claim this one bears on
 - [Self-adaptive game design with multiple difficulty levels is positively associated with intervention effectiveness](self-adaptation-supports-effectiveness.md) — a broader claim this one bears on
 - [Proportion of correctly identified targets dropped linearly with game level for both children and adults, confirming the dynamic leveling technique adjusts difficulty nearly linearly](dynamic-leveling-linear-difficulty-adjustment.md)
+- [Difficulty adaptation significantly reduced the variance of task correctness and perceived difficulty across learners](adaptation-balances-outcome-variance-across-learners.md) — related

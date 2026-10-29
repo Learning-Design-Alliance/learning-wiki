@@ -18,7 +18,7 @@ sources:
 # Adaptive Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 30 claims (20 for, 9 mixed, 1 against) · 29 studies (8 causal, 8 review, 3 quant-synthesis, 3 associational, 3 qualitative, 2 design, 2 theoretical), `q1`–`q4` · 3 of 29 report an effect size · 29 claims rest on one study
+> **Evidence** · 31 claims (21 for, 9 mixed, 1 against) · 30 studies (9 causal, 8 review, 3 quant-synthesis, 3 associational, 3 qualitative, 2 design, 2 theoretical), `q1`–`q4` · 3 of 30 report an effect size · 30 claims rest on one study
 
 ## Description
 Adaptive learning tailors content, pacing, support, or task sequence in response to evidence about a learner's current performance, needs, or prior knowledge.
@@ -82,6 +82,7 @@ Adaptive learning tailors content, pacing, support, or task sequence in response
 - [The type of emotional support and slant given to a learner depends on the score the learner achieved (Experiment 1: conscientiousness)](../claims/feedback-type-depends-on-achieved-score.md) [+W] — attached 2026-10-27 from Matt Dennis et al. (2016), which proposed "Algorithm for adapting emotional support and slant to learner personality and performance"; tests this page's relationship.
 - [Many countries face serious STEM education problems, and tailoring instruction to students' knowledge levels is identified as a key challenge](../claims/stem-problems-tailoring-instruction-challenge.md) [+W]
 - [Computer-based learning systems need to adapt to learners' needs to provide effective personalised instruction](../claims/adaptation-needed-for-personalised-instruction.md) [+W]
+- [Difficulty adaptation significantly reduced the variance of task correctness and perceived difficulty across learners](../claims/adaptation-balances-outcome-variance-across-learners.md) [+W]
 
 ## The evidence by question
 - *Does adaptive instruction raise achievement over non-individualised instruction or the same content in a fixed sequence?* [Intelligent tutoring systems improve achievement over non-individualised instruction](../claims/adaptive-learning-improves-outcomes.md) [+S]

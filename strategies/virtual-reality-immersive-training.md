@@ -108,6 +108,7 @@ Immersion can increase engagement and situational interest, but engagement is no
 - [Combine error-amplification visual feedback with balance-based exergaming systems to expedite balance training for older adults, delivered via VR](ea-feedback-vr-exergaming-balance-older-adults.md)
 - [Use immersive VR with virtual agents and eye-tracking to isolate and manipulate specific social factors (gaze, feedback, embodiment, multimodality) in L2 learning experiments](immersive-vr-social-l2-experiments.md)
 - [Do not assume that reducing orientation effort automatically frees resources for deeper learning when orientation and learning happen simultaneously](cautious-orientation-support-dual-task-vr.md)
+- [Supplement VR lessons with pre-training and follow-up reflection activities, and keep VR sessions short to limit fatigue and cybersickness](vr-sce-session-design-pretraining-reflection.md)
 
 ## Examples
 - **Osso VR** (https://ossovr.com) — hands-on surgical training simulations with performance analytics used in medical device training and residency preparation.

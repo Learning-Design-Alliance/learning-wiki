@@ -50,3 +50,4 @@ Methodological mapping of the review's 134-paper corpus. The review reports the 
 - [Most RSE studies in the review corpus did not define their central term](rse-studies-lack-definitions.md) — related
 - [Over a third of RSE studies report no outcomes, and student outcome measurement prioritises knowledge](rse-outcomes-knowledge-prioritised.md) — related
 - [Most empirical studies adopted a quantitative research approach](most-studies-quantitative-approach.md) — related
+- [Quantitative questionnaire methodology dominates digital competence research in higher education](slr-digital-competence-quantitative-methods-dominant.md) — reports the opposite

@@ -49,3 +49,4 @@ Repeated measures ANOVA in the authentic vocational school evaluation study (iVR
 - [No difference in motivation between the iVR-orchestrated lesson and the student video design control group](ivr-authentic-classroom-no-motivation-difference.md) — related
 - [No difference in troubleshooting transfer (flashlight task) between the iVR and control groups](ivr-authentic-classroom-no-transfer-difference.md) — related
 - [The review reports that students learning with serious games often perform better on content knowledge assessments than those in traditional settings](serious-games-better-content-knowledge-than-traditional.md) — a broader claim this one bears on
+- [IVR serious games produce better evacuation knowledge retention and transfer than traditional training approaches](ivr-sgs-better-knowledge-retention-transfer-than-traditional.md) — related

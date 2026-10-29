@@ -42,6 +42,7 @@ Lesson pages on the iEN portal package several asynchronous learning resources f
 ## Related Designs
 
 - [Swiss QT literary intervention package: nine mini-lessons, four literary-fiction books, literacy journals, and small-group discussions](swiss-qt-literary-intervention-package.md)
+- [Brain-compatible e-learning intervention for Technical Programming 1 (Moodle lessons with interactive sorting and fizzbuzz tasks)](bce-elearning-intervention-technical-programming.md)
 
 ## Examples
 -

@@ -13,7 +13,7 @@ generated:
 # Adaptive Mastery Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 23 claims (15 for, 7 mixed, 1 against) · 32 studies (11 review, 7 causal, 7 quant-synthesis, 3 qualitative, 2 design, 2 theoretical), `q1`–`q4` · 7 of 32 report an effect size · 19 claims rest on one study
+> **Evidence** · 24 claims (15 for, 8 mixed, 1 against) · 33 studies (11 review, 8 causal, 7 quant-synthesis, 3 qualitative, 2 design, 2 theoretical), `q1`–`q4` · 8 of 33 report an effect size · 20 claims rest on one study
 
 ## Description
 Adaptive mastery learning combines Bloom's mastery learning model — requiring demonstrated proficiency before advancing — with adaptive systems that adjust task difficulty, sequencing, and feedback to individual performance. The system continuously estimates what each learner knows and serves the next challenge at the frontier of their competence, advancing only when mastery criteria are met.
@@ -72,6 +72,7 @@ Adaptive mastery systems ensure that foundational gaps are closed before higher-
 - [Teaching efficiency is impossible without continuous adjustment of the work to pupils' advancing attainments](../claims/continuous-adjustment-attainments-teaching-efficiency.md) [+W]
 - [Log analysis shows adaptive condition concentrates practice on unmastered concepts while random condition over-practices easy ones](../claims/bkt-adaptivity-log-practice-allocation.md) [+W]
 - [The student model rapidly adapts to a child's knowledge level, reaching the first key skill after about 148 tasks](../claims/rapid-adaptation-to-learner-knowledge-level.md) [+W]
+- [Difficulty adaptation significantly changed task correctness according to the strength and direction of adaptation (manipulation check)](../claims/difficulty-adaptation-manipulation-check-task-correctness.md) [~W]
 
 ## The evidence by question
 

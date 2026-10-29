@@ -68,6 +68,7 @@ Creative writing forces generative processing: to write a coherent story, learne
 - [Peer Review](../elements/peer-review.md) — natural follow-on for revising stories and checking content accuracy
 - [Assign speculative theory-fiction writing to build students' capacity for ecologically just futurity](speculative-theory-fiction-assignment.md)
 - [Participate in the creative reconstruction of a language that foregrounds human kinship with nature, using postmodern science fiction as a generative site](reconstruct-language-foregrounding-kinship-with-nature.md)
+- [Provide explicit process prompting (including picture-to-text transcription guidance) when visual storytelling precedes writing](explicit-prompting-for-visual-storytelling.md)
 
 ## Related Elements
 - [Modeling](../elements/modeling.md) — an exemplar story shows students what "content-accurate creativity" looks like

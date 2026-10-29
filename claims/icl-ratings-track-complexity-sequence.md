@@ -55,3 +55,4 @@ Repeated-measures ANOVAs in the main study on the three during-learning ICL rati
 - [Delayed cognitive load assessments after learning exceed the average of during-learning assessments only when complexity decreases across the learning material](delayed-icl-exceeds-average-only-decreasing-complexity.md) — related
 - [Pre-study verified that the three learning units differ in perceived complexity in the intended low, medium, and high ordering](prestudy-verified-complexity-gradient.md) — related
 - [The delayed-higher-than-immediate difference for cognitive load ratings replicates regardless of whether problem complexity increases or decreases across the sequence (Experiment 2)](delayed-rating-effect-independent-of-problem-sequence.md) — related
+- [Difficulty adaptation significantly changed task correctness according to the strength and direction of adaptation (manipulation check)](difficulty-adaptation-manipulation-check-task-correctness.md) — related

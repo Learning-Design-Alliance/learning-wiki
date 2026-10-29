@@ -24,7 +24,8 @@ A research artifact and method: the study "combines bibliometric performance and
 ### Claims
 
 ## Related Research Methods
--
+
+- [Bibliometric analysis combining science mapping and performance analysis](bibliometric-analysis-combining-science-mapping-and-performance-analysis.md)
 
 ## Key Sources
 - Gurr, David; Karakose, Turgut; Tulubas, Tijen; Polat, Hakan. (2025). Reviewing the Intellectual Structure of the Knowledge Base on Principal Instructional Leadership: An Integrated Bibliometric and Thematic Analysis, 1941-2024. Review of Educational Research. https://doi.org/10.3102/00346543251403507

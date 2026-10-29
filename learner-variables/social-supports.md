@@ -13,7 +13,7 @@ generated:
 # Social Supports
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 83 claims (68 show a difference, 11 mixed, 4 no difference) · 76 studies (22 associational, 15 qualitative, 13 review, 10 causal, 8 theoretical, 4 quant-synthesis, 4 design), `q1`–`q3` · 6 of 76 report an effect size · 83 claims rest on one study
+> **Evidence** · 88 claims (70 show a difference, 13 mixed, 5 no difference) · 78 studies (23 associational, 15 qualitative, 13 review, 11 causal, 8 theoretical, 4 quant-synthesis, 4 design), `q1`–`q3` · 7 of 78 report an effect size · 88 claims rest on one study
 
 ## Description
 Social supports are the people available to help a learner if needed, and the learner's perception that they are there: parents and family, friends and classmates, teachers and other school staff, and the wider community. The support they give can be emotional (care and compassion), appraisal (useful feedback), instrumental (time, money, resources) and informational (advice). The LVN stresses perception: feeling that support would be there, even if it is never called on, contributes to well-being and academic success, and help that is actually received can strengthen that perception and a learner's sense of efficacy. Effective support looks different across families and cultures and can be provided across income levels; what matters is what the people around a learner do. Supports can be eroded by family separation, bereavement, parental imprisonment, substance misuse or illness, by bullying and discrimination, and by moving schools, and a relationship with another trusted adult can partly make up for that. It is measured with perceived-support scales for children, adolescents and adults. It overlaps with [belonging](belonging.md) and with the [home learning environment](home-learning-environment.md).
@@ -119,6 +119,11 @@ Social supports are the people available to help a learner if needed, and the le
 - [Teachers customizing online approaches may reduce lack of interaction in large classes and isolation in distance education](../claims/customized-online-learning-reduces-interaction-deficits.md) [+W] — instruction changes it
 - [General self-reported WhatsApp use was positively associated with professional social capital, identity, lower isolation, job satisfaction, and perceived knowledge transfer](../claims/general-whatsapp-use-socio-professional-connections.md) [+M] — instruction changes it
 - [Moderated WhatsApp groups reduced feelings of professional isolation among newly graduated nurses](../claims/moderated-whatsapp-reduced-professional-isolation.md) [+M] — instruction changes it
+- [Both VR and Lego social competence education increased rural elementary children's perceived social support across all three YSSQ domains (Study 1)](../claims/vr-and-lego-sce-increase-elementary-social-support.md) [+M] — instruction changes it
+- [Different forms of Instagram collaboration are differentially associated with emotional, informational, and instrumental digital social support](../claims/instagram-collaboration-differential-digital-social-support.md) [~W] — instruction changes it
+- [Emotion regulation, utilization of social resources and objective social support showed no significant improvement under any pedagogy, and Lego did not differ significantly from other approaches, in middle school children](../claims/sce-interventions-null-domains-and-limits.md) [-W] — instruction changes it
+- [Seeking information on Instagram is negatively related to perceived informational support but positively related to perceived instrumental support](../claims/information-seeking-negative-informational-support.md) [~W] — instruction changes it
+- [VR-assisted SCE increased middle school children's subjective sense of social support significantly more than traditional classroom learning (Study 2)](../claims/vr-beats-traditional-classroom-subjective-social-support.md) [+M] — instruction changes it
 
 ## Measures
 - **Social Support Questionnaire, Short Form** (Sarason et al., 1987): self-report of the number of supportive relationships an adult has and satisfaction with them.

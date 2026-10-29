@@ -9,6 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: moderate
 newest_evidence: 2025
+source_checked: 2026-10-29
 sources:
   - id: thomas-k-f-chiu-2025
     resource: "https://doi.org/10.1007/s11423-025-10512-y"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r3` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-10-29 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In a CFA with 448 students from six Hong Kong secondary schools, fit indices met conventional standards (χ2/df = 2.39, RMSEA = 0.056, SRMR = 0.03, PNFI = 0.81, CFI = 0.95). [→ Thomas K. F. Chiu 2025](#thomas-k-f-chiu-2025)
@@ -52,3 +53,4 @@ Confirmatory factor analysis of the 32-item SAICS scale with 448 students aged 1
 - [The ACE-HE measurement model of affective, behavioral, and cognitive engagement fits online/blended survey data well](ace-he-engagement-three-dimension-model-good-fit.md) — related
 - [An ACO-derived 12-item short form (GenAI-SRL-12) retains the full scale's factor structure, reliability, and construct equivalence](genai-srl-12-short-form-retains-psychometrics.md) — related
 - [The SAICS measurement model is consistent across male and female students, with changes in CFI below 0.01 in multiple-group invariance tests](saics-measurement-invariance-gender.md) — related
+- [The hypothesised three-variable structural model fits the survey data well across printed fit indices](dil-sem-model-good-fit.md) — related

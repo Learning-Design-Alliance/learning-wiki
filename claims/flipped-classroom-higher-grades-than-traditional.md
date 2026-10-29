@@ -56,3 +56,4 @@ Quasi-experimental non-equivalent groups comparison of grades in the course "Did
 - [The AI-enhanced flipped classroom raises post-class assignment accuracy over the traditional classroom, an advantage the standard flipped classroom did not show](ai-enhancement-raises-assignment-accuracy.md) — related
 - [No significant difference in distinction grades by teaching methodology](no-methodology-difference-distinction-grades.md) — related
 - [The GenAI-integrated group outperformed controls across course assessment components, with Cohen's d ranging from 0.65 to 0.88, and a higher proportion earning B+ or higher](genai-group-better-course-performance.md) — related
+- [Flip teaching in laboratory sessions produces significantly higher laboratory grades than traditional methodology in Physics and Electricity courses.](flipped-lab-teaching-higher-lab-grades.md) — related

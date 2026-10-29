@@ -77,3 +77,4 @@ The commentary reports Dinsmore and colleagues' study using the Model of Domain 
 - [Collaborative critique-and-redesign instruction shifts students from a value-free view of objectivity toward a procedural one](collaborative-evidence-critique-shifts-students-toward-procedural-objectivity.md) — related
 - [Both agent-based model and visualization video conditions produce comparable gains in declarative nanoscience knowledge, with no Group × Time interaction](abm-video-equal-declarative-knowledge-gains.md) — related
 - [Empirical studies of constructivist learning environments do not always show the expected learning outcomes](constructivist-effects-not-always-expected.md) — a broader claim this one bears on
+- [Students in the blended engineering course approached inquiry and online learning technologies while collaborating both in class and online.](inquiry-and-online-technology-approaches-in-collaboration.md) — related

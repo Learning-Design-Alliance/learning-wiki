@@ -63,6 +63,7 @@ Visualizing improves comprehension and problem solving because external represen
 - [Prompt students to sketch a drawing of the system while reading an expository science text](sketching-during-reading-strategy.md)
 - [Use causal diagramming (strategy maps) as a systems thinking tool to improve mental models and decision making](causal-diagramming-strategy-review-strategy.md)
 - [Use integrative prompts to scaffold the quantity of multiple text reading, combined with mapping and repeated delayed writing to support quality](integrative-prompts-scaffold-quantity-strategy.md)
+- [Provide explicit process prompting (including picture-to-text transcription guidance) when visual storytelling precedes writing](explicit-prompting-for-visual-storytelling.md)
 
 ## Related Elements
 - [Demonstration](../elements/demonstration.md) — modeling how to construct a representation

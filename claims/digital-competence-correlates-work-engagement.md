@@ -51,3 +51,4 @@ The preface reports a study by Sang, Wang, Li, Xi and Yang using structural equa
 ## Related Claims
 - [AI literacy directly and positively predicts learning engagement among university students](ai-literacy-predicts-learning-engagement.md) — related
 - [Perceived social support positively predicts both AI literacy and technological self-efficacy among university faculty](social-support-predicts-ai-literacy-and-self-efficacy-faculty.md) — related
+- [Higher education students' digital competence has a positive effect on their digital informal learning](digital-competence-positive-effect-dil.md) — related

@@ -63,9 +63,11 @@ VR's contribution to empathy training is presence: the subjective sense of "bein
 7. Space follow-up scenarios or booster discussions over weeks to counteract decay of effects
 
 ## Related Strategies
+
 - [Acting/Role-Play](acting-role-play.md) — the non-immersive counterpart; live role-play rehearses the response skill VR exposes
 - [Case-Based Learning](case-based-learning.md) — VR scenarios function as immersive cases; both depend on debrief for transfer
 - [Perspective-Taking Prompts](perspective-taking-prompts.md) — the cognitive scaffold that directs attention during and after the experience
+- [Supplement VR lessons with pre-training and follow-up reflection activities, and keep VR sessions short to limit fatigue and cybersickness](vr-sce-session-design-pretraining-reflection.md)
 
 ## Examples
 - **[Stanford Virtual Human Interaction Lab](https://vhil.stanford.edu)** — Jeremy Bailenson's lab's "Becoming Homeless" experience, in which users lose their job and home in first person; widely studied and shown to increase empathic concern and prosocial behavior toward the homeless relative to text-based versions [~M]

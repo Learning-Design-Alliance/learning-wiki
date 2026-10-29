@@ -80,3 +80,4 @@ In the same ZINB count model of StatBot use, prior knowledge carried a negative 
 - [Gender related to students' emotions but showed no significant effects on math grades, while intelligence and SES related positively to grades](covariates-gender-intelligence-ses-effects.md) — related
 - [Male gender predicted lower grades, moderated by cohort](gender-and-cohort-predict-grading-scores.md) — related
 - [Gender predicted SRL profile membership, with male students more likely in lower SRL profiles; major, prior experience, and time commitment did not predict membership](gender-predicts-srl-profile-membership.md) — related
+- [Counts of specific tool-use events (WorkTime, Command, Compile, Editor, Profiler, IDE) correlate positively and significantly with final course grade](tool-use-events-correlate-with-final-grade.md) — related

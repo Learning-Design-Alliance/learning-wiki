@@ -31,7 +31,7 @@ sources:
 # Within-study comparison (WSC) methodology
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 6 claims (5 for, 1 mixed) · 5 studies (3 causal, 1 quant-synthesis, 1 theoretical), `q2`–`q3` · 1 of 5 report an effect size · 6 claims rest on one study
+> **Evidence** · 7 claims (6 for, 1 mixed) · 6 studies (4 causal, 1 quant-synthesis, 1 theoretical), `q2`–`q3` · 1 of 6 report an effect size · 7 claims rest on one study
 
 ## Description
 A within-study comparison examines "whether and in what context nonexperimental methods can successfully replicate the results of randomized experiments." The article situates its contribution in this growing literature and applies a WSC to charter school effects on student achievement, using a randomized study with control-group crossover as the experimental benchmark.
@@ -48,6 +48,7 @@ A within-study comparison examines "whether and in what context nonexperimental 
 - **Synthetic within-study comparison design for assessing RD performance**: A methodological artifact in which the authors "generate synthetic RD data sets from experimental data sets" from two recent evaluations of educational interventions—the Educational Technology Study and the Teach for America Study—and "compare the RD impact estimates to the experimental estimates of the same intervention." This lets RD performance be benchmarked against randomized estimates for the same interventions. The article uses it both to test well-implemented RD and to study manipulation bias. (Philip Gleason et al. (2018))
 - **Measurement local optima: canonical executive function tasks may reflect measurement inertia rather than genuine invariance**: The article argues that operationalizations of psychological constructs settle into "local optima": "definitions that are reliable, interpretable, and widely accepted, yet not necessarily epistemically optimal for addressing all theoretical questions." Canonical tasks like the Flanker and Stroop are optimized for reliability, comparability, and stable individual differences, which can reduce sensitivity to transient, state-based perturbations. Apparent stability under perturbation may therefore reflect properties of the measurement instrument rather than genuine invariance of the underlying process. (David Moreau (2026))
 - **Parallel-groups comparison of matched class sections as a method for investigating questions of teaching method**: The article pilots a classroom-experiment design in which two sections of the same course, matched on sex, age, environment and intended occupation, are taught by different approaches with the same teacher, laboratory, texts and examinations. The author writes that "[t]he method of conducting the experiment, by the use of parallel groups ... is comparatively new, and should prove of service in questions of method of teaching", and the summary judges it "promises to yield valuable results" if refined through repeated tests. (Gilbert (1909))
+- **Analogous-students method for computing individual normalized gains across non-overlapping cohorts.**: Because the same students did not experience both methodologies, the authors introduced the “analogous students” concept: students in the FT and TM groups occupying the same position in a lab-grade ranking within low/high grade subgroups are paired, and the individual normalized gain gi is computed for each FT student from the paired TM student's grade. The introduction of the concept allowed the authors “to associate confidence intervals with the results of the gain and perform a more robust statistical study.” Random exclusion balanced unequal subgroup sizes, giving a final sample of 613 students. (Gómez-Tejedor et al. (2020))
 
 ### Claims
 - [Individual RD impact estimates show substantial variation in bias, warranting caution when interpreting single RD estimates](../claims/rd-individual-estimates-substantial-bias-variation.md) [+W]
@@ -56,6 +57,7 @@ A within-study comparison examines "whether and in what context nonexperimental 
 - [Brief pre-class exercise selectively enhanced mathematics-specific inhibitory control while domain-general interference control (Flanker) showed no reliable change, per Zhang et al. (2026)](../claims/brief-exercise-selective-math-inhibition-dissociation.md) [+M]
 - [The applied-science approach shows a slight advantage over the pure-science approach on pure-science-type examination grades in secondary-school zoology](../claims/applied-approach-slight-exam-grade-advantage-zoology.md) [~M]
 - [On a test of setting up experiments and interpreting phenomena, the applied-science group showed a decided advantage (60% vs 35% correct on first reports)](../claims/applied-approach-experimentation-advantage-zoology.md) [+M]
+- [Individual normalized gains of analogous students show significant low-vs-high subgroup differences, with higher gain for low-grade Physics and high-grade Electricity groups.](../claims/analogous-students-gain-subgroup-differences.md) [+M]
 
 ## Related Research Methods
 -
@@ -70,6 +72,7 @@ A within-study comparison examines "whether and in what context nonexperimental 
 - Sun DL, Harris N, Walther G, Baiocchi M (2015) Peer Assessment Enhances Student Learning: The Results of a Matched Randomized Crossover Experiment in a College Statistics Class. PLoS ONE 10(12): e0143177. https://doi.org/10.1371/journal.pone.0143177
 - David Moreau, Kristina Wiebels. (2026). Interventions as Probes of Cognitive Architecture: Commentary on Zhang et al. (2026). Educational Psychology Review. https://doi.org/10.1007/s10648-026-10150-7
 - Gilbert, J. P. (1909). An experiment on methods of teaching zoology (preliminary report). The Journal of Educational Psychology. https://psycnet.apa.org/journal/edu
+- Gómez-Tejedor, J. A., Vidaurre, A., Tort-Ausina, I., Molina-Mateo, J., Serrano, M.-A., Meseguer-Dueñas, J. M., Martínez Sala, R. M., Quiles, S., & Riera, J. (2020). Effectiveness of flip teaching on engineering students’ performance in the physics lab. Computers & Education. https://doi.org/10.1016/j.compedu.2019.103708
 
 # Within-study comparison (WSC) methodology
 
