@@ -49,3 +49,4 @@ The editorial describes the Mercier, Higgins and da Costa analysis of student gr
 - [Leadership moves are distributed among members of children's collaborative learning groups rather than concentrated in a single leader](leadership-moves-distributed-among-group-members.md) — related
 - [A student's animated off-worksheet statements can function as bids for a frame change that the group may accept or ignore](behavioral-bids-for-frame-change.md) — related
 - [A collaboration kit with joint and private multi-touch table spaces outperformed comparison groups, showing less biased communication and more collaborative processes.](multi-touch-collaboration-kit-reduced-discussion-bias.md) — related
+- [A joint workspace scaffold on a multi-touch table improved discussion intensity, mutual understanding, and decision performance in hidden profile tasks](joint-workspace-multitouch-hidden-profile.md) — related

@@ -42,6 +42,7 @@ The review's synthesis of the teacher professional development and accompaniment
 
 - [Design AI-related teacher professional development as practice-oriented, case-based and connected to teachers' real pedagogical decisions](practice-oriented-case-based-ai-professional-development.md)
 - [Operationalize the faculty standards through structured professional learning pathways with modules, microcredentials, and peer review](professional-learning-pathways-standards-operationalization.md)
+- [Post-GOT professional development should differentiate learning paths, complement traditional formats with communities of practice and peer support, and manage work overload](post-got-pd-differentiated-paths-and-communities.md)
 
 ## Examples
 -

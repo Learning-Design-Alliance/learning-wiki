@@ -52,3 +52,4 @@ User-study participants reviewed and corrected the system's predicted emotions i
 - [Adding student-emotion information to LLM tutor prompting produces more desirable pedagogical qualities across most evaluated dimensions, with larger models benefiting most](emotion-aware-prompting-improves-pedagogical-quality.md) — related
 - [Facial expression recognition of six basic emotions via FACS can detect learner emotional states in real time](facs-six-basic-emotions-detection.md) — related
 - [An intelligent affective tutoring system recognizing facial expressions reduced anxiety and improved Japanese learning](affective-tutoring-reduces-japanese-learning-anxiety.md) — related
+- [EATS detected disgust with lower agreement (90%) than other basic emotions, highlighting a limitation of facial-expression-only measurement](eats-disgust-lower-agreement-limitation.md) — related

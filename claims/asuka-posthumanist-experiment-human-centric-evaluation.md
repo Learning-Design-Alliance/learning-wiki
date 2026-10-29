@@ -75,3 +75,4 @@ Analysis of Asuka's evaluation phase: she assessed the entangled negotiation by 
 - [Despite a student's claims of purely human authorial agency, posthumanist analysis of his AI-mediated revision shows meaning co-produced through human-AI entanglement](zhimo-revision-meaning-negotiation.md) — related
 - [The authors argue that analyzing power imbalances, misshapen structures, and hidden assumptions are familiar critical thinking tasks for hesitant readers](power-analysis-as-familiar-critical-thinking.md) — related
 - [Students anthropomorphized the chatbot and built relationships with it through personal and social questions](children-anthropomorphize-educational-chatbot.md) — related
+- [Students spoke of the digital tutor as if it were a human being, suggesting it was perceived as a social actor in line with the CASA principle](tutor-perceived-as-social-actor.md) — related

@@ -79,3 +79,4 @@ Eye-tracking data from the same Seidel et al. expert-novice video study; fixatio
 - [Expert teachers show expertise-related eye movement patterns in some classroom tasks but not others, indicating task and context specificity](expert-teacher-gaze-context-specific.md) — related
 - [Eye tracking can be used to study student engagement, teacher expertise, and teacher-student interaction in naturalistic classroom contexts](eye-tracking-classroom-naturalistic-contexts.md) — related
 - [In the LeActiveMaths knowledge-elicitation studies, tutors' feedback became more positive, more elaborate, and more targeted to situational diagnoses over successive interactions](leam-ke-improved-tutor-feedback.md) — related
+- [Teachers across the career span appreciated communicating with peers of different experience levels, with novices emphasizing observation of experienced teachers and veterans valuing newer teachers' fresh ideas](lsvc-cross-experience-peer-appreciation.md) — related

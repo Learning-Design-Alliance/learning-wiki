@@ -48,3 +48,5 @@ Editorial introduction summarizing six invited commentaries on Lee and Hannafin 
 - [Multiculturalist discourse prioritizes diversity over universal frameworks and recommends curricula of self-understanding, encounter with the Other, and intercultural competency](multiculturalist-discourse-diversity-curriculum.md) — related
 - [Training transfer among neurosurgical specialty nurses is an adaptive reconstruction process, not linear replication of training content](training-transfer-as-adaptive-reconstruction.md) — related
 - [The closer training content is to authentic clinical scenarios, the smoother its translation into practice](contextualized-teaching-facilitates-transfer.md) — related
+- [Owning, learning, and sharing knowledge need to be reinterpreted in light of cultural differences when the own-it, learn-it, share-it framework is adopted internationally](owning-learning-sharing-cultural-reinterpretation.md) — related
+- [Six response essays propose ways to action practical learning in online spaces, building on the Zacharia et al. (2015) guidance review](six-responses-practical-learning-online.md) — a broader claim this one bears on

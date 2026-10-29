@@ -78,3 +78,4 @@ The review reports, citing Bagunaid et al. (2022), that AI prediction and recomm
 - [AI in education poses challenges across three interrelated domains: knowledge itself, the process of knowing, and the socio-environmental impact of knowledge production](ai-education-three-challenge-domains.md) — related
 - [Interaction and usability challenges affect 85.3% of reviewed CAI articles, with usability problems most observable in mature rule-based agents](cai-interaction-usability-challenges-prevalence.md) — related
 - [Arts-based methods in community-based research raise specific ethical challenges around anonymity, ownership, representation and emotions, alongside practical limits of time, training and cost](abr-ethical-practical-challenges.md) — related
+- [The Challenge scale's three-factor structure was confirmed for students but did not reach satisfactory fit for faculty](genai-rp-challenge-scale-faculty-poor-fit.md) — related

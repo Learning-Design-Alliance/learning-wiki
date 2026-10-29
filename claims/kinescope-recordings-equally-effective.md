@@ -50,3 +50,4 @@ Second comparison in the Army basic training evaluation, contrasting kinescope r
 - [Kinescope review combined with regular training produced greater learning than regular training alone, especially for low-aptitude trainees](kinescope-review-greater-learning.md) — related
 - [Television instruction was remembered at least as well as regular instruction after one month](tv-instruction-retention-comparable-army-basic.md) — related
 - [Television instruction was at least as effective as regular instruction in Army basic training](tv-instruction-as-effective-as-regular-army-basic.md) — related
+- [Army reservists of all grades made statistically significant gains on information tests after viewing instructional telecasts](reservists-significant-gains-tv-telecasts.md) — related

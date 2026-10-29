@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/students-preferred-conventional-over-television-classes.md
+---
+
+# Revision history: [claims/students-preferred-conventional-over-television-classes](../claims/students-preferred-conventional-over-television-classes.md)
+
+### 2026-10-29 · ingest · process:wiki-ingest
+Ingested from jrnl-8e67f358af29 (A set of discriminable surface colors and symbols for coding in animated training panels) via eval_harness.py + ingest_extractions.py

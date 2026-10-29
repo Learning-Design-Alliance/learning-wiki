@@ -49,3 +49,5 @@ Descriptive publication-rate analysis from the review's literature search, with 
 - [AI ethics research shows a pronounced acceleration in publications after 2021, with nonlinear accelerating growth rather than linear development](ai-ethics-publications-accelerate-after-2021.md) — related
 - [Publications on prior knowledge and learning increased strongly from 1980 to 2021, reaching about 600 new publications per year](prior-knowledge-publication-growth-600-year.md) — related
 - [Research on assistive technology in education shows an increasing publication trend from 2017 onwards but low citation impact](at-research-trend-increase-2017.md) — related
+- [Research applying learning analytics to inquiry-based learning grew steadily from a first 2012 conference paper, peaking in 2019 with seven publications, with most outputs as journal articles](la-in-ibl-publication-trends-51-studies.md) — related
+- [Teaching-machine research publications rose yearly from 1948 to 1959, with six references prior to 1948](teaching-machine-publications-rising-1948-1959.md) — related

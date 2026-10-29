@@ -51,3 +51,4 @@ Kruskal-Wallis tests on think-aloud protocol codes for the three elaborative sub
 - [Self-explanation-based and inquiry learning environments elicit significantly more total learning-process instances than hypermedia and observational learning environments](generation-approaches-elicit-more-learning-processes.md) — related
 - [The self-explanation-based environment elicits the most (self-)explanations and the inquiry environment elicits high hypothesis generation](approach-specific-process-profiles.md) — possibly the same claim (merge candidate)
 - [Generative instructional conditions (inquiry and explanation) outperformed receptive conditions on far transfer, with inquiry best on far transfer problems](eysink-four-methods-inquiry-far-transfer-advantage.md) — related
+- [Games can elicit evidence of students' conceptual understanding and inquiry processes](games-elicit-evidence-of-understanding.md) — related

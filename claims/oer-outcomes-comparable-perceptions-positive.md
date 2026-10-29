@@ -76,3 +76,5 @@ The commentary characterizes Hilton's review as "collective evidence to support 
 - [Substituting OER for traditional textbooks does not appear to decrease student learning outcomes in higher education.](oer-no-decrease-student-learning.md) — a narrower finding that bears on this claim
 - [Students using OER save significant amounts of money compared to purchasing commercial textbooks.](oer-significant-cost-savings-students.md) — related
 - [Students and faculty are generally positive regarding OER across a variety of settings.](students-faculty-generally-positive-oer.md) — possibly the same claim (merge candidate)
+- [OER adoption is expected to save students money and close the achievement gap in the short term, but this benefit will likely disappear over the longer term](oer-cost-savings-short-term-only.md) — related
+- [OER outcome studies that lack a hypothesized explanatory mechanism are license comparison studies prone to finding no significant differences](oer-license-comparison-studies-undertheorized.md) — a narrower finding that bears on this claim

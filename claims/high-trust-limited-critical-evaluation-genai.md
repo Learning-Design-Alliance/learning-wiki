@@ -9,6 +9,7 @@ generated:
   at: 2026-10-12
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-10-29
 sources:
   - id: zhao-qianhui-and-li-shuhui-2026
     resource: "https://doi.org/10.3390/bs16091626"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-10-29 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students showed relatively high trust in GenAI (mean trust score 3.91, SD 0.72), relying mainly on prior knowledge and subjective perception to judge accuracy and detecting only obvious errors. [→ Zhao Qianhui and Li Shuhui 2026](#zhao-qianhui-and-li-shuhui-2026)

@@ -51,3 +51,4 @@ Unsupervised EM clustering (MClust in R) of n-gram features from flip sequences,
 - [Cluster analysis of student-AI dialogue identifies three distinct collaboration profiles: Delegated Reasoning, Concerted Interpretation, and Delegated Elaboration](three-human-ai-cps-profiles-dr-ci-de.md)
 - [Optimal clustering of five-channel CPS sequences detected three types of collaborative patterns among graduate student groups](three-collaborative-pattern-types-cps.md)
 - [Clustering yields a small number of behaviorally distinct team clusters that instructors can use for cluster-differentiated feedback](clustering-cluster-differentiated-feedback-ttx.md)
+- [In the studied game quest, three GLA approaches yield insights into different ways students complete genetics tasks](three-gla-approaches-reveal-different-genetics-task-methods.md) — related

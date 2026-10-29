@@ -14,7 +14,7 @@ grain_size: course
 # AI Tutoring
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 396 claims (180 for, 163 mixed, 53 against) · 270 studies (99 causal, 60 review, 35 design, 28 theoretical, 19 quant-synthesis, 15 associational, 14 qualitative), `q1`–`q4` · 55 of 270 report an effect size · 380 claims rest on one study
+> **Evidence** · 402 claims (182 for, 167 mixed, 53 against) · 274 studies (101 causal, 60 review, 37 design, 28 theoretical, 19 quant-synthesis, 15 associational, 14 qualitative), `q1`–`q4` · 56 of 274 report an effect size · 386 claims rest on one study
 
 ## Description and scope
 
@@ -296,6 +296,8 @@ Claims linked to this pattern that the model above does not use. All were read a
 - [Children who initially used non-analogical strategies improved more from pretest to posttest than analogical reasoners, especially with tutoring feedback](../claims/non-analogical-reasoners-gain-more-feedback.md) [+W] — attached 2026-10-28 from Stevenson (2017), which proposed "Use graduated-prompt tutoring feedback in digital learning environments to help children with low initial ability learn analogy solving".
 - [Working memory moderates feedback effects: higher working memory children gain more from tutoring feedback and no feedback, but gains in the multiple-try condition are unrelated to working memory](../claims/wm-moderates-feedback-effects-analogy.md) [~W] — attached 2026-10-28 from Stevenson (2017), which proposed "Use graduated-prompt tutoring feedback in digital learning environments to help children with low initial ability learn analogy solving"; tests this page's relationship.
 - [Low self-efficacy students significantly increased their self-efficacy when matched with a low self-efficacy tutee, but mismatched students did not](../claims/se-match-increases-low-se-students.md) [+M] — attached 2026-10-28 from Betty Tärning et al. (2019), which proposed "Design teachable agents to express low self-efficacy"; tests this page's relationship.
+- [Within-domain Socratic GenAI dialogue yields higher self-assessed critical thinking than outside-domain dialogue across all participants](../claims/within-domain-socratic-genai-raises-critical-thinking.md) [+W] — attached 2026-10-29 from Aleksandra Bereznikova et al. (2026), which proposed "Guide conversational GenAI interactions with Socratic reasoning grounded in learners' domain of expertise".
+- [Self-rated critical thinking rose significantly after a within-domain Socratic GenAI dialogue for teachers and undergraduates but not for graduate students (no separate control; order and topic bundled)](../claims/socratic-genai-ct-gains-vary-by-group.md) [~M] — attached 2026-10-29 from Aleksandra Bereznikova et al. (2026), which proposed "Guide conversational GenAI interactions with Socratic reasoning grounded in learners' domain of expertise".
 
 ## Illustrative design instance and observation record
 
@@ -377,6 +379,10 @@ This pattern is scoped to the tutor's moves within tasks and the handoff to peop
 - [The TARDIS system improved at-risk young people's interview answers and verbal and nonverbal behaviours](../claims/tardis-open-learner-model-improved-interview-behaviours.md) [~W]
 - [Chatbot-guided feedback SRL improved university students' learning motivation more than conventional SRL](../claims/srl-cgf-improves-learning-motivation.md) [~W]
 - [Students in the chatbot-assisted SRL condition reported personalized learning opportunities, enhanced reflection, and improved performance in interviews](../claims/srl-cgf-student-perceptions-interviews.md) [+W]
+- [A subset of students showed over-reliance and algorithmic conformity patterns, consulting GenAI before independent analysis or revising to match AI output](../claims/over-reliance-algorithmic-conformity-risk.md) [~W]
+- [Lower-experience students used GPTs as conceptual tutors while technically stronger students used them as professional collaborators, consistent with adaptive scaffolding](../claims/gpt-differentiated-use-by-experience.md) [~W]
+- [Students spoke of the digital tutor as if it were a human being, suggesting it was perceived as a social actor in line with the CASA principle](../claims/tutor-perceived-as-social-actor.md) [~W]
+- [Case analysis assistance and Socratic dialogue simulation dominated GenAI usage, and dialogue-based interaction patterns were associated with better outcomes than passive use](../claims/genai-usage-patterns-dialogue-effective.md) [+W]
 
 ## Examples
 - [ChatGPT as a virtual laboratory assistant in a sociotechnical system](../designs/sts-theory-chatgpt-virtual-laboratory-assistant.md) — ChatGPT answers lab questions beside human TAs, not in their place

@@ -63,3 +63,4 @@ LLM-assisted four-round thematic analysis of end-of-activity reflections (Table 
 - [AI functioned primarily as a source of preliminary ideas and cognitive support rather than as a substitute for professional judgment, with students identifying contextual limitations of AI recommendations](ai-as-support-not-substitute-for-judgment.md) — related
 - [Qualitative reflections identify developmental inappropriateness (45%), vagueness and repetition (32%), and implementation feasibility (23%) as the main AI limitations](ai-limitations-themes-early-childhood-science.md) — related
 - [The predominant student evaluation of LLMs (42%) is positive but conditional on the student's own verification work](students-positive-with-caveat-llm-evaluation.md) — related
+- [Students report that GenAI's immediate feedback enabled iterative learning and low-stakes practice, the dominant qualitative themes of the intervention](iterative-feedback-low-stakes-practice-themes.md) — related

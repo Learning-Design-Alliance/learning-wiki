@@ -66,3 +66,4 @@ Authors' synthesis in the discussion of the field-test questionnaire results, st
 ## Related Claims
 - [Field-tested IDSA prototype received moderate usability ratings: usage enjoyment highest, design and realization lowest](idsa-usability-ratings-enjoyment-high-design-low.md) — related
 - [A pilot mixed-method trial with 71 participants found students valued the system along three dimensions: career exploration, personalisation, and skill awareness/self-reflection](c3-ioc-pilot-three-value-dimensions.md) — related
+- [Students perceived high learning impact from the personalised GPT agents, with improved conceptual understanding rated highest (mean 4.6, SD 0.5)](student-perceptions-gpt-learning-impact.md) — reports the opposite

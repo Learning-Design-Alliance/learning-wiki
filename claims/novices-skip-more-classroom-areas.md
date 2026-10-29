@@ -71,3 +71,4 @@ The mixed-design ANOVA on total AOI skips found no expertise effect, though a si
 - [Experts revisited (monitored) more classroom areas showing student interaction, while novices revisited areas lacking classroom activity](experts-monitor-interaction-areas-novices-salient-areas.md) — related
 - [Expert teachers interpret complex classroom phenomena more accurately and fluidly than novices and postulants](expert-teachers-interpret-classroom-phenomena-better.md) — related
 - [Expert teachers' classroom perception appears knowledge-driven while novices' appears image-driven, guided by salient visual features](knowledge-driven-vs-image-driven-classroom-perception.md) — related
+- [Expert Photoshop users fixated most frequently on the Toolbox area and least frequently on the Menu area while explaining tasks](experts-fixate-toolbox-most-menu-least.md) — related

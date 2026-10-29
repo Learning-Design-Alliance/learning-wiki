@@ -69,3 +69,4 @@ Same abstracted study: error analysis showing "Common mistakes were less often m
 ## Related Claims
 - [Supplementary examples in an instructional film significantly improve learning, with diminishing returns as example number increases](supplementary-examples-diminishing-returns.md) — a broader claim this one bears on
 - [Audience participation during a factual film improves learning of the practiced verbal material compared with simple viewing, with gains attributable to practice rather than motivation](audience-participation-practice-gains.md) — related
+- [Medium-ability students showed some tendency to do better in the film-based physics course](medium-ability-students-tendency-better-film-course.md) — related

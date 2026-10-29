@@ -23,7 +23,7 @@ sources:
 # Lexia Core5 Reading
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (2 for) · 2 studies (2 causal), `q2`–`q3` · 1 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 Lexia Learning's Lexia Core5 Reading is a blended digital literacy programme for pre-K–5 students that provides personalized foundational-reading instruction, embedded assessment, and teacher support resources.
@@ -34,6 +34,7 @@ Lexia Learning's Lexia Core5 Reading is a blended digital literacy programme for
 
 ### Claims
 - [Core5 students in grades 3-5 showed significantly larger reading achievement gains than a matched comparison group (ES = +0.11)](../claims/core5-matched-comparison-es-011.md) [+W]
+- [Elementary students in blended learning schools using Core5 obtained significantly higher posttest reading scores than control students after controlling for pretest differences](../claims/core5-blended-learning-higher-posttest-reading.md) [+M]
 
 ## Related Products and Programmes
 -
@@ -41,9 +42,9 @@ Lexia Learning's Lexia Core5 Reading is a blended digital literacy programme for
 ## Key Sources
 - Lexia® Core5® Reading — Evidence Rating: Moderate. (2022). https://www.lexialearning.com/core5
 - Lexia® Core5® Reading evidence summary. (2023). https://www.lexialearning.com/products/core5reading
-
 <!-- merged 2026-10-10 from elements/lexia-core5-reading-program-element ("Lexia Core5 Reading: blended, personalized fundamental literacy instruction for grades pre-K-5"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
 - Lexia® Core5® Reading evidence summary. (2023). https://www.lexialearning.com/products/core5reading
+- Paul Macaruso, Shani Wilkes, Jen Elise Prescott. (2020). An investigation of blended learning to support reading instruction in elementary schools. Education Tech Research Dev. https://doi.org/10.1007/s11423-020-09785-2
 
 # Lexia Core5 Reading: blended, personalized fundamental literacy instruction for grades pre-K-5
 

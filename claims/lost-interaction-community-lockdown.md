@@ -53,3 +53,4 @@ Qualitative theme from questionnaire open-ended responses, individual interviews
 - [Staying motivated was the most pervasive challenge of learning remotely, and students missed instructor feedback, peer collaboration, and hands-on experiences](motivation-and-lost-interaction-challenges-remote.md) — related
 - [Students experience a perceived sense of support and connectedness through conversational ChatGPT interaction, though this is not genuine human relatedness](chatgpt-perceived-relatedness-support.md) — related
 - [The student-tutor relationship alone is judged insufficient: peer mixing and virtual communities are needed to counter isolation in online research supervision](virtual-communities-counter-supervision-isolation.md) — related
+- [Teachers customizing online approaches may reduce lack of interaction in large classes and isolation in distance education](customized-online-learning-reduces-interaction-deficits.md) — related

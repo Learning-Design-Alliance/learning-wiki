@@ -52,3 +52,4 @@ Synthesis of the seven-country comparative mapping in the Application and Result
 - [AI-augmented instructional design creates tensions between generative affordances and student agency, identity, and academic integrity](genai-instructional-design-tensions-agency-authorship.md) — related
 - [Design practices are implemented to address tensions while also centering social justice goals](design-practices-address-tensions-center-justice.md) — related
 - [Six pedagogical dilemmas emerge when integrating game-based learning into ethics education: rules, social modes, identity framing, systems nudging, personalized design, and ethics positioning](six-pedagogical-dilemmas-ethics-games.md) — a narrower finding that bears on this claim
+- [Professional agency involves responsibility to do instructional design well and ethically, entangled with credential status and identity concerns](professional-agency-identity-credentials.md) — related

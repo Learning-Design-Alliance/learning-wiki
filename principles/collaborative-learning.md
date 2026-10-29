@@ -47,7 +47,7 @@ sources:
 # Collaborative Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 83 claims (30 for, 48 mixed, 5 against) · 86 studies (20 causal, 16 review, 15 theoretical, 11 associational, 10 quant-synthesis, 9 qualitative, 5 design), `q1`–`q4` · 12 of 86 report an effect size · 77 claims rest on one study
+> **Evidence** · 86 claims (33 for, 48 mixed, 5 against) · 87 studies (20 causal, 16 review, 16 theoretical, 11 associational, 10 quant-synthesis, 9 qualitative, 5 design), `q1`–`q4` · 13 of 87 report an effect size · 80 claims rest on one study
 
 ## Conditional relationship
 
@@ -164,6 +164,7 @@ Claims this page cites that do not change the model above. Each was read against
 - [Face-to-face collaboration scripts focus on individual knowledge acquisition activities, while computer-mediated scripts focus on communicative-coordinative processes](../claims/f2f-vs-cscl-script-focus-difference.md) [~W] — attached 2026-10-22 from Kollar et al. (2006), which proposed "Design collaboration scripts that support both participation and coordination and induce individual knowledge acquisition and metacognition".
 - [Conflicts in group problem solving, if well employed, can act as triggers of cognitive changes that help refine the group's solution](../claims/well-employed-conflicts-trigger-cognitive-change.md) [+W] — attached 2026-10-28 from Patricia Azevedo Tedesco (2003), which proposed "Design collaborative environments so that conflicts inherent to group problem solving are mediated rather than suppressed, because well-employed conflicts refine solutions".
 - [Collaborative note-takers also report higher extraneous cognitive load than controls](../claims/collaborative-note-taking-higher-extraneous-load.md) [-W] — attached 2026-10-29 from Jamie Costley (2021), which proposed "Implement collaborative note-taking because germane-load gains outweigh extraneous-load costs".
+- [Heterogeneous groups show greater learning achievements than homogeneous groups, most pronounced for students with little prior knowledge](../claims/heterogeneous-groups-greater-achievement.md) [+W] — attached 2026-10-29 from Jeroen Janssen (2020), which proposed "CCLT-based design guidelines for CSCL environments: strengthen the collective working memory effect while minimizing transaction costs".
 
 ## Objective and learner-valued goal
 
@@ -184,6 +185,8 @@ Group performance during the task, individual understanding straight after it, d
 - [Collaboration format (individual vs. dyad) was experimentally manipulated alongside feedback format in simulation-based teacher learning](../claims/individual-versus-dyad-simulation-collaboration.md) [~W]
 - [Contrasting cases show the highest-scoring dyad (Select) engaged in inquiry, questioning, explaining, and argumentation to consensus during micro-failures, while the lowest-scoring dyad (Generate) showed dominance, unexplained disagreement, and off-task behavior](../claims/contrasting-cases-inquiry-versus-dominance.md) [+W]
 - [In a thermodynamics course, pairs working with a tutorial dialogue agent learned about 1.24 standard deviations more than students working alone, with partner and agent support synergistic rather than redundant](../claims/agent-plus-partner-synergy-1-24-sd.md) [+W]
+- [Meta-analysis finds collaboration, computer use, and learning environments/tools/scaffolds each have significantly positive effects on knowledge acquisition in CSCL](../claims/chen-2018-meta-analysis-cscl-positive-effects.md) [+W]
+- [A joint workspace scaffold on a multi-touch table improved discussion intensity, mutual understanding, and decision performance in hidden profile tasks](../claims/joint-workspace-multitouch-hidden-profile.md) [+W]
 
 ## Related Principles
 - Conditions for Productive Group Creativity — specializes collaborative learning's general quality-control problem for open-ended creative tasks specifically

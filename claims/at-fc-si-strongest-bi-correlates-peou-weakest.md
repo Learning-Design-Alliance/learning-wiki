@@ -57,3 +57,4 @@ Bivariate correlation matrix (Table 5) among the six constructs in the sample of
 - [The study examined the genAI agent's influence on team discussion and outcomes and the influence of faculty facilitators on acceptance of the agent](genai-influence-discussion-facilitator-acceptance.md) — related
 - [Perceived ease of use positively influenced attitudes toward using the AVDS tool](peou-positive-impact-attitude-avds.md) — related
 - [Most proposed constructs showed high internal consistency (Cronbach's alpha above 0.70) but control variables did not and were removed](scale-reliability-alphas-control-variables-removed.md) — related
+- [Perceived usefulness, attitude, and behavioral intention form a significant TAM pathway predicting GenAI adoption among law students](tam-pathway-genai-adoption-law-students.md) — related

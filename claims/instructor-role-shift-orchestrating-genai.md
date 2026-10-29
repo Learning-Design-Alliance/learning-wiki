@@ -56,3 +56,4 @@ The article argues from its synthesis that GenAI can facilitate teaching by gene
 - [Teacher guidance plays a significant mediating role in collaborative-learning classroom outcomes](teacher-guidance-mediation-cscl.md) — related
 - [Dashboard-monitoring is a newly observed orchestration type in which the teacher uses real-time AI dashboards to grasp student status and adjust lesson direction and pace (14 of 46 episodes)](dashboard-monitoring-orchestration-type.md) — related
 - [Teachers proactively made pedagogical and cultural adjustments to the CAL curriculum, which the authors link to a shift toward a proactive, confident position](teacher-curriculum-adjustments-foster-ownership.md) — related
+- [Instructors reported role transformation toward facilitation, shifted assessment toward performance-based formats, and identified professional development and integrity needs](instructor-adaptation-themes-genai.md) — related

@@ -13,7 +13,7 @@ generated:
 # Socioeconomic Status
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 168 claims (102 show a difference, 43 mixed, 23 no difference) · 125 studies (72 associational, 25 causal, 14 review, 8 quant-synthesis, 4 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 13 of 125 report an effect size · 167 claims rest on one study
+> **Evidence** · 170 claims (103 show a difference, 43 mixed, 24 no difference) · 127 studies (72 associational, 26 causal, 14 review, 8 quant-synthesis, 5 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 13 of 127 report an effect size · 169 claims rest on one study
 
 ## How to read this page
 
@@ -253,6 +253,8 @@ A learner's economic and social position: family income or poverty (often measur
 - [School-level academic self-concept is lower in higher parental education schools than in lower parental education schools](../claims/school-asc-lower-in-higher-parental-education-schools.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [School-level parental education moderates the household-education–ASC association: children of lower-educated parents show less positive ASC only in higher parental education schools](../claims/cross-level-interaction-household-school-parental-education-asc.md) [~M] — an instructional effect differs by group
 - [Active educator use of predictive learning analytics can produce substantial gains for disadvantaged students, but only a fraction of educators use such systems effectively](../claims/pla-active-use-gains-disadvantaged-students.md) [~M] — an instructional effect differs by group
+- [A treatment school serving 80% free/reduced-price lunch students showed reading gains nearly identical to the whole treatment group](../claims/core5-promising-effects-low-ses-students.md) [-M] — an instructional effect differs by group
+- [Pell-eligible students using OER integrated into interactive courseware had final grades indistinguishable from wealthier peers, while Pell-eligible students using other materials had significantly lower grades](../claims/oer-courseware-closes-pell-grade-gap.md) [+M] — an instructional effect differs by group
 
 ## The evidence by question
 - *Does family income predict achievement and attainment, how large are the gaps, and when do they open?* [School test score averages are strongly related to the income of the families a school serves](../claims/school-test-scores-strongly-related-to-family-income.md) [+M]

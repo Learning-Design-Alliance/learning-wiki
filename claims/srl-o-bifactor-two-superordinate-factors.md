@@ -54,3 +54,4 @@ Secondary bifactor CFA in the validation sample (n = 321) tested 44 items loadin
 - [Confirmatory factor analysis on FICSMath data confirms the 4C/ID Model's four components fit secondary-tertiary mathematics instructional experiences (CFI = 0.907, RMSEA = 0.050)](cfa-confirms-4cid-model-secondary-tertiary-mathematics.md) — related
 - [Nine of the ten SRL-O subscales showed internal consistency above 0.70, with study environment lower (omega = 0.665)](srl-o-internal-consistency.md) — related
 - [Bifactor-ESEM shows the highest fit among CFA, ESEM, bifactor-CFA and bifactor-ESEM models, supporting AITAQS as one general factor plus four specific dimensions.](aitaqs-bifactor-esem-best-fit.md) — a narrower finding that bears on this claim
+- [Principal component analysis supports the rubric's two-component structure of authentic online work](pca-validates-two-authentic-work-components.md) — related

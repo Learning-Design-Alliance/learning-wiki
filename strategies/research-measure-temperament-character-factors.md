@@ -43,6 +43,7 @@ Pressey's second recommended research direction is a "courageous attack upon the
 ## Related Strategies
 
 - [Conduct a smaller sequence of rapid-cycle studies that build on one another instead of planning a single large confirmatory study](sequence-of-smaller-rapid-cycle-dlp-studies.md)
+- [Recommended reading path into the teaching-machine field: an introductory article first, then the basic Pressey (1950) and Skinner (1958) articles](introductory-reading-path-teaching-machines.md)
 
 ## Examples
 -

@@ -76,3 +76,4 @@ The commentary describes Little and Bjork (2016), who used multiple-choice and c
 - [Providing feedback after initial multiple-choice tests cut lure intrusions on final short-answer tests roughly in half, with immediate and delayed feedback equally effective](feedback-after-multiple-choice-tests-halves-lure-intrusions.md) — related
 - [Taking initial multiple-choice tests without feedback can lead students to later produce the incorrect lure answers they selected, even when an overall retrieval practice benefit occurs](multiple-choice-lures-can-be-learned-as-false-knowledge.md) — related
 - [Multiple-choice testing increases the later production of multiple-choice lures as answers on cued recall tests, even under warning against guessing](mc-testing-increases-lure-production.md) — related
+- [Generating answers before searching online improves recall of searched information compared with immediate searching](thinking-before-googling-improves-recall.md) — related

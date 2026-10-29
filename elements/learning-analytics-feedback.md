@@ -13,7 +13,7 @@ generated:
 # Learning Analytics-Driven Feedback
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 78 claims (28 for, 35 mixed, 15 against) · 66 studies (20 review, 19 associational, 9 theoretical, 6 causal, 6 qualitative, 6 design), `q1`–`q3` · 4 of 66 report an effect size · 75 claims rest on one study
+> **Evidence** · 81 claims (29 for, 37 mixed, 15 against) · 68 studies (21 review, 19 associational, 9 theoretical, 7 qualitative, 6 causal, 6 design), `q1`–`q3` · 4 of 68 report an effect size · 78 claims rest on one study
 
 ## Description
 In face-to-face instruction, a teacher can visually notice disengagement or confusion; a distance instructor cannot, and many learners fail to recognize their own need for help or fail to seek it even when it is available ([Baker & Inventado, 2016](https://edtechbooks.org/lidtfoundations/educational_data_mining_and_learning_analytics)). Educational data mining (EDM) and learning analytics (LA) address this by mining the large amounts of interaction data online and distance courses generate — content-management, discussion-forum, gradebook, and clickstream data — to build models that predict which learners are at risk and to surface feedback that would otherwise depend on an instructor noticing in person.
@@ -124,6 +124,9 @@ These models feed three uses that benefit learners directly: **automated feedbac
 - [Teaching staff distrusted LA tools' data accuracy and prediction precision despite trusting their usefulness](../claims/la-data-accuracy-distrust.md) [-W]
 - [Teachers reported that learning analytics reports encouraged them to start interaction with students by referring to the report.](../claims/la-reports-prompt-teacher-student-interaction.md) [+W] — attached 2026-10-29 from Anouschka van Leeuwen (2019), which proposed "Weekly paper-based learning analytics reports aggregating student activity and perception data to working-group level".
 - [Teachers used the course average displayed on LA reports as a baseline to decide whether intervention was needed, illustrating the comparison principle.](../claims/course-average-baseline-comparison-principle.md) [+W]
+- [Cameras-off online classes deprived teachers of visual cues, and teachers attributed low interaction both to student motivation and shame and to students' material conditions](../claims/cameras-off-visual-cue-loss-low-interaction.md) [~W]
+- [Dashboard visualisation benefits learners of different motivation and achievement levels, but high academic achievers report lower satisfaction with dashboards](../claims/dashboard-benefits-achiever-satisfaction-mixed.md) [~W]
+- [Learning analytics interventions for study success include alerts enabling teachers to give more individual attention, peer-to-peer communication facilitation, and recommendations for adaptive learning materials](../claims/la-interventions-alerts-peer-adaptive.md) [+W]
 
 ## The evidence by question
 
@@ -148,6 +151,7 @@ These models feed three uses that benefit learners directly: **automated feedbac
 - [Use discussion analytics to alert instructors about students who may need more assistance](../strategies/instructor-alerts-from-discussion-analytics.md)
 - [Use gaze-based automated strategy identification for teacher dashboards and personalized feedback in online statistics learning](../strategies/gaze-based-teacher-dashboards-feedback.md)
 - [Engage teachers with predictive analytics dashboards to trigger timely interventions with students at risk](../strategies/teacher-engagement-with-pla-interventions.md)
+- [Build APLE features that let students choose learning goals and receive indicator-based guidance, plus an early warning system for students at risk of failing](../strategies/goal-choice-features-and-early-warning-system.md)
 
 ## Key Sources
 - Baker, R. S., & Inventado, P. S. (2016). Educational data mining and learning analytics: Potentials and possibilities for online education. In G. Veletsianos (Ed.), *Emergence and Innovation in Digital Learning* (pp. 83–98). AU Press. Republished in R. West (Ed.), *Foundations of Learning and Instructional Design Technology*. EdTech Books. [https://edtechbooks.org/lidtfoundations/educational_data_mining_and_learning_analytics](https://edtechbooks.org/lidtfoundations/educational_data_mining_and_learning_analytics)

@@ -75,6 +75,7 @@ Design Thinking situates learning in ill-structured, authentic problems, which s
 - [Use a design thinking process with Empathize, Define, Ideate, Prototype, and Test stages to reimagine school safety](design-thinking-reimagining-school-safety.md)
 - [User-centered R&D with A/B tests and rapid prototyping to tailor interventions to a target population](user-centered-intervention-rd-process.md)
 - [Use paper prototyping before programming to help students formulate app design ideas](paper-prototyping-before-programming.md)
+- [Embed creativity development in ID courses through experimentation, open-ended projects, critique, and drills for variable answer development](embed-creativity-id-teaching-practices.md)
 
 ## Examples
 - **Stanford d.school K12 Lab** (https://dschool.stanford.edu) — publishes design challenge curricula and the "wallet project" sprint used widely in schools and universities

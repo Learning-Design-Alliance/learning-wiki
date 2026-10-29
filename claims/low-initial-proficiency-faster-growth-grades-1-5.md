@@ -52,3 +52,4 @@ Conditional latent growth curve models on 5,912 students from one large Texas di
 - [Dual language participants grew faster than nonparticipants in math during each school year in grades 2 to 5 but lost more learning during subsequent summers](dual-language-math-faster-school-year-growth-greater-summer-loss.md) — related
 - [Lower SES predicted slower reading and math growth, with the largest SES differences in growth occurring in Grade 1](ses-predicts-slower-reading-math-growth.md) — related
 - [Math self-efficacy trajectories differ in initial math skills and rate of math skill development](math-skills-differ-across-se-trajectories.md) — related
+- [Training-aid effectiveness did not differ for lower- versus higher-proficiency mechanics](training-aid-effectiveness-independent-of-proficiency.md) — related

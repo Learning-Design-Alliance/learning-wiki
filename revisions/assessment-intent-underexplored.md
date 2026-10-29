@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/assessment-intent-underexplored.md
+---
+
+# Revision history: [claims/assessment-intent-underexplored](../claims/assessment-intent-underexplored.md)
+
+### 2026-10-29 · ingest · process:wiki-ingest
+Ingested from jrnl-b9aaf9d2c059 (Pedagogical AI conversational agents in higher education: a conceptual framework and survey of the state of the art) via eval_harness.py + ingest_extractions.py

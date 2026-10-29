@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: strong
 newest_evidence: 2021
+source_checked: 2026-10-29
 sources:
   - id: lawson-2021
     resource: "https://doi.org/10.1007/s11423-021-10057-w"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2021 · checked against its sources 2026-10-29 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Learners rated a positive instructor as displaying positive emotions and a negative instructor as displaying negative emotions, in both experiments. [→ Lawson 2021](#lawson-2021)
@@ -51,3 +52,4 @@ Experiment 1 (96 students, 2×2 between-subjects ANOVA on emotion ratings) found
 - [Participants rated happy and content instructors higher on positive than negative emotion scales, supporting the positivity hypothesis](positivity-effect-positive-instructors-rated-higher-on-positive-scales.md) — a narrower finding that bears on this claim
 - [Participants rated frustrated and bored instructors higher on negative than positive emotion scales, with the frustrated effect stronger when the agent was on screen](positivity-effect-negative-instructors-rated-higher-on-negative-scales.md) — a narrower finding that bears on this claim
 - [Learners report paying more attention during learning with a positive instructor than with a negative instructor.](positive-instructors-attention-video.md) — related
+- [Instructor competencies were the most critical factor in students' emotions and attention during live online lectures](instructor-competencies-most-critical-factor-live-lecture-emotions.md) — related

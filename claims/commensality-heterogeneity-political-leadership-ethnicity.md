@@ -88,3 +88,4 @@ Subsample regressions for Han (N = 2183) versus minority (N = 302) students (Tab
 - [Roommate commensality in a semester is significantly positively correlated with end-of-semester average scores among first-year college students](roommate-commensality-correlated-semester-scores.md) — related
 - [Peer acceptance measured by commensality is significantly negatively associated with failed-subject ratio, and positively with major ranking and negatively with failed-subject counts](commensality-negatively-associated-failed-subjects.md) — related
 - [Commensality with the most physically distant peers (same class, different floor or building) shows the strongest positive link to academic performance, contrary to the propinquity effect](third-category-commensality-strongest-link.md) — related
+- [Political party membership appeared not to influence viewers' action on the corruption problem](kefauver-party-membership-no-influence.md) — related

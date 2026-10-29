@@ -95,3 +95,4 @@ Same challenge-scale analysis by household income (Table 2); the report also fou
 - Students of color receive disparaging signals about belonging and ability that their White upper-middle-class peers are far less likely to receive — related
 - [Hispanic students reported higher frequencies of six of the seven non-technology challenges measured in the survey](hispanic-students-six-of-seven-challenges-higher.md) — a narrower finding that bears on this claim
 - [The COVID-19 pandemic pushed institutions globally to abruptly shift instruction digital](covid-19-abrupt-digital-shift-instruction.md) — related
+- [The COVID-19 shift to digital revealed inequality in access to education caused by technology access and online delivery that may not address student voice](pandemic-revealed-inequality-in-access-to-education.md) — a broader claim this one bears on

@@ -51,3 +51,4 @@ Experimental hidden-profile study described by the editorial, including 54 triad
 - [Leadership in collaborative learning is an interactional group phenomenon requiring bids to be taken up](leadership-interactional-group-phenomenon.md) — related
 - [Leadership moves are distributed among members of children's collaborative learning groups rather than concentrated in a single leader](leadership-moves-distributed-among-group-members.md) — related
 - [Metacognitive prompts during collaboration improve communication of knowledge and its underlying assumptions](metacognitive-prompts-improve-collaborative-communication.md) — related
+- [A joint workspace scaffold on a multi-touch table improved discussion intensity, mutual understanding, and decision performance in hidden profile tasks](joint-workspace-multitouch-hidden-profile.md) — related

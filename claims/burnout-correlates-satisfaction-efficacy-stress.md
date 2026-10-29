@@ -51,3 +51,4 @@ Systematic review of correlates across 99 studies. The most assessed constructs 
 - A third of principal burnout studies are of low quality and most imitate prior work rather than replicate it — related
 - [Teacher self-efficacy shows negative associations with burnout factors](tse-negative-associations-burnout.md) — related
 - [Burnout and work engagement are the strongest correlates of teacher wellbeing](burnout-engagement-strongest-correlates.md) — related
+- [A prolonged period of forced online teaching does not necessarily lead to increased adoption; regression of adoption may occur due to stress and burnout](forced-online-teaching-not-increase-adoption.md) — related

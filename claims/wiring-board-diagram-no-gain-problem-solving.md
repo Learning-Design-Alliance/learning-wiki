@@ -47,3 +47,4 @@ Controlled comparison at a Naval base: one group trained with a wiring board che
 ## Related Claims
 - [Neither the wiring board nor the diagram improved learning of basic principles of electricity, supporting the conclusion that manifestations of electrical phenomena are not necessary to learn Ohm's law](phenomena-not-necessary-ohms-law.md) — related
 - [The diagram, but not the wiring board, slightly improved learning of electrical theory for the lower GCT group](diagram-slight-theory-gain-lower-gct.md) — related
+- [The assumption that observing functioning systems aids understanding was tested by comparing wiring-board manipulation with trainee-drawn schematics](wiring-board-versus-drawn-schematics-comparison.md) — related

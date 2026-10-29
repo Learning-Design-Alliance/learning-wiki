@@ -47,3 +47,5 @@ The preface reports a qualitative hybrid thematic analysis by González, Ponce a
 ## Related Claims
 - [Faculty dispositions and use of technological affordances for online teaching changed over time during the pandemic](faculty-dispositions-change-over-time-pandemic.md) — a broader claim this one bears on
 - [Lecturers initially experience anxiety and intimidation when teaching in virtual worlds, but develop an enhanced sense of agency over time.](initial-vw-anxiety-then-enhanced-agency.md) — related
+- [During the pandemic teachers employed an array of digital tools, including non-institutional ones, to maintain content delivery and promote interaction](expanded-digital-tool-array-during-got.md) — a narrower finding that bears on this claim
+- [Transversal competencies—establishing a safe learning environment, accessibility, and empathy for students' situations—were emphasized as crucial during the pandemic](transversal-competencies-crucial-during-got.md) — related

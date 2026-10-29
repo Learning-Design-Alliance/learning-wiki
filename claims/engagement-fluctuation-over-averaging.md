@@ -49,3 +49,4 @@ The commentary reports, citing Rosengrant et al. in the Special Issue, that stud
 - [University students remain highly on-task throughout 70-minute lectures, refuting the 15–20 minute attention-span myth](rosengrant-vigilance-no-15-minute-decline.md) — related
 - [Delayed effort ratings are higher than the average of immediate ratings, suggesting itemized appraisals are more sensitive to effort fluctuations](delayed-effort-ratings-exceed-average-immediate-ratings.md) — related
 - [Young children's attention to a robot increased sharply when the robot reacted to their gaze](robot-gaze-reactivity-extends-child-attention.md) — related
+- [The robot's physical position structured the learning space: its front hosted on-task activity while its back provided a peripheral space for momentary off-task behavior, seemingly allowing children to regulate their own engagement](robot-front-back-engagement-regulation.md) — related

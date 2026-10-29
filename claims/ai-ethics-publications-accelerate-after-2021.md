@@ -54,3 +54,4 @@ Descriptive bibliometric analysis of annual publication and citation counts from
 - [Research on AIED ethics grew exponentially from 2019, peaking in 2021 with a small retraction in 2022](aied-ethics-publications-growth-2019-2021.md) — related
 - [Research on assistive technology in education shows an increasing publication trend from 2017 onwards but low citation impact](at-research-trend-increase-2017.md) — related
 - [Annual metacognition publications rose through the period, peaking at over 250 in 2022 before dropping to 125 in 2023](metacognition-publication-growth-peak-2022.md) — related
+- [Research applying learning analytics to inquiry-based learning grew steadily from a first 2012 conference paper, peaking in 2019 with seven publications, with most outputs as journal articles](la-in-ibl-publication-trends-51-studies.md) — related

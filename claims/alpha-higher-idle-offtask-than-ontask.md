@@ -49,3 +49,4 @@ EEG analysis of 24 students with adequate data, comparing relative alpha power (
 - [During cooperative learning, high-school students alternate between on-task, off-task, and idle states every 10–30 seconds on average](engagement-state-fluctuations-every-10-30s.md) — related
 - [High-school students in cooperative learning appear on-task about 60% of the time, off-task 11%, and idle 13%](on-task-60-percent-cooperative-learning.md) — related
 - [Students were less attentive during video watching than during lecture, with video showing the greatest alpha power of the four activities](video-watching-least-attentive-alpha.md) — related
+- [Single-brain attention levels are also significantly higher during lectures than meditation, supporting the device's sensitivity](attention-level-higher-lecture-than-meditation.md) — related

@@ -52,3 +52,4 @@ Process measure from the randomized experiment (n = 52): the abstract reports "T
 - [Relevancy of emphasized text directs attention and influences test performance](relevancy-of-emphasis-directs-attention.md) — related
 - [Question timing interacts with relevance of rereading: inserted-question students reread more relevant and less non-relevant information than post-reading students](question-timing-by-relevance-rereading-interaction.md) — related
 - [Relevance instructions and guiding questions both improve pre-service teachers' first-order knowledge integration in a reading- and writing-based learning setting with three domain-specific texts](prompts-improve-first-order-knowledge-integration.md) — related
+- [Combined instructional and relevance prompts increase pre-service teachers' perceived relevance of knowledge integration over time, while relevance prompts alone and no prompts do not](combined-prompts-increase-perceived-relevance-of-integration.md) — related

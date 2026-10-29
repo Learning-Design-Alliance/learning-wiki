@@ -45,6 +45,7 @@ Because university teachers follow a non-systematic, cyclic design process, the 
 
 - [Organize faculty design support into three stages: before, during, and after sessions](three-stage-support-before-during-after-sessions.md)
 - [Just In Time Learning](just-in-time-learning.md)
+- [Pursue explanatory then prescriptive research on the rationale behind teachers' design decisions to strengthen design implications](explanatory-prescriptive-design-decision-research.md)
 
 ## Examples
 -

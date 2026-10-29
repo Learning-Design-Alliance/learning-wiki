@@ -51,6 +51,7 @@ The article offers a typology of OEP that goes beyond OER use, situating each pr
 - [Virtually Connecting: equitable conference conversations facilitated by marginalized scholars](../products/virtually-connecting.md)
 - [Design OEP for accessibility and marginalized participation rather than open for all](../strategies/design-oep-for-those-farthest-from-justice.md)
 - [Faculty-authored OER digital textbook and equitized syllabus template at BMCC](../elements/bmcc-oer-textbook-and-syllabus-template.md)
+- [Explore the 5R affordances combined with evidence-based teaching practices to develop OER-enabled pedagogies](../strategies/explore-5r-affordances-oer-enabled-pedagogy.md)
 
 ## Key Sources
 - Bali, M, et al. (2020). Framing Open Educational Practices from a Social Justice Perspective. Journal of Interactive Media in Education, 2020(1): 10, pp. 1–12. https://doi.org/10.5334/jime.565

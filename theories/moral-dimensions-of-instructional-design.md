@@ -12,7 +12,7 @@ generated:
 # Moral Dimensions of Instructional Design
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Osguthorpe, Osguthorpe, Jacob and Davies argue that instructional design is a moral endeavour in the sense teacher education already accepts for teaching. Following Fenstermacher, any human action undertaken in regard to other human beings carries questions of what is fair, right, just and virtuous. A designer is usually absent when learning happens, but that does not remove the moral dimension. It only makes it easier to overlook.
@@ -45,6 +45,8 @@ The consciences develop through **reflexive judgment**, Green's term for differe
 - For the designer: a developed conscience of craft, membership, sacrifice, memory and imagination
 
 ## Claims
+
+- [Institutional agency involves aligning design work with institutional values and produces tension and ethical conflict when values clash](../claims/institutional-agency-values-tension.md) [+W] — attached 2026-10-29 from The Critical (2007), which proposed "Zone of moral coherence as the alignment condition for agentic instructional design practice".
 
 ## Related Theories
 - [Gilligan's Ethic of Care](gilligans-ethic-of-care.md) — also grounds educational action in care for the particular person

@@ -70,6 +70,7 @@ Portfolios shift assessment from a summative snapshot toward [Assessment for Lea
 - [Support the shift from standardized testing toward diverse assessment strategies—performance-based assessments, portfolios, and experiential learning—with teacher training, resource allocation, and accountability flexibility](diverse-pog-assessment-strategies-with-teacher-support.md)
 - [Use children's portfolios as alternative assessment of young learners' multiliteracies](portfolio-alternative-assessment-young-learners-multiliteracies.md)
 - [Calibration training and moderation to ensure reliable rubric-based portfolio review](calibration-training-moderation-portfolio-review.md)
+- [Use priming tools, examples of practice, and artifacts of practice to support video-based reflection](priming-tools-examples-artifacts-video-reflection.md)
 
 ## Examples
 - **National Board Certification (USA)** — teachers submit portfolio entries with student work samples, video, and written analysis scored against professional standards ([https://www.nbpts.org](https://www.nbpts.org)).

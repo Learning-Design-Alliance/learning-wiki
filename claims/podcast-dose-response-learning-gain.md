@@ -68,3 +68,4 @@ Same multivariable regression (Table 7): Centre 2 carried an unadjusted associat
 - [Pre-instruction LCTSR scores correlate with normalized learning gains, most strongly for theoretical content (TUG-K r=0.59) and more weakly for descriptive content (DIRECT r=0.50)](lctsr-prescore-correlates-content-gains-theoretical-strongest.md) — related
 - [Retention trajectories diverged by centre: Centre 1 retained gains at 30 days while Centre 2 showed significant post-to-delayed decay](podcast-retention-divergence-massed-vs-distributed.md) — related
 - [Listening to podcasts improved EFL students' self-regulation more than listening to radio programs](podcasts-improved-efl-self-regulation.md) — related
+- [Most interviewed HIL students perceived that effortfully replaying podcasts enhanced their learning](podcast-replaying-effortful-engagement.md) — related

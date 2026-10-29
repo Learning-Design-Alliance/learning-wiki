@@ -54,3 +54,4 @@ Qualitative case-study analysis of 157 minutes of audio-recorded group discussio
 - [In encounters where both parties are predominantly expansive, early cycle actions such as questioning and modeling are typically absent and the focus is on implementing and consolidating](both-expansive-encounters-skip-early-cycle-actions.md) — related
 - [A full assessment of a potentially expansive mini-cycle of learning calls for extending the time scale of the analysis beyond a single session](assessing-minicycle-requires-extended-time-scale.md) — related
 - [Mixed interprofessional group training promoted mutual respect, understanding of roles, and appreciation of teamwork among ED participants](interprofessional-mixed-groups-mutual-respect-consent-training.md) — related
+- [Theory-of-change development functions as an iterative cycle that incorporates new research as it emerges and the product evolves](theory-of-change-iterative-cycle.md) — related

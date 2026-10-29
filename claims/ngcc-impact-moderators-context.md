@@ -74,3 +74,4 @@ A second moderator finding from the same set of NGCC impact analyses: comparison
 - [Students in focus groups were positive about adaptive courseware but reported alignment, access, and reliability concerns](student-focus-group-perceptions-courseware.md) — related
 - [Most instructors using adaptive courseware believed it improved student learning and would use it again](instructors-positive-perceptions-adaptive-courseware.md) — related
 - [General psychology prevails as the prerequisite for educational psychology, with thirty institutions requiring it and some professors suggesting biology instead](general-psychology-prerequisite-thirty-institutions.md) — related
+- [Pell-eligible students using OER integrated into interactive courseware had final grades indistinguishable from wealthier peers, while Pell-eligible students using other materials had significantly lower grades](oer-courseware-closes-pell-grade-gap.md) — related

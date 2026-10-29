@@ -50,3 +50,5 @@ Randomized controlled pre-test/post-test study with 55 engineering students (28 
 - [The classroom training is associated with a greater DCCS flexibility gain in the experimental group, though the printed ANOVA table reports a non-significant interaction](dccs-flexibility-gain-training-group.md) — related
 - [Prior programming experience significantly predicted Promptly task performance and prompting self-efficacy](prior-experience-predicts-prompting-outcomes.md) — related
 - [Pre-written prompts increase Justifications and Alternative ideas in children's pair-programming talk and shift the role of Simple questions](prompts-increase-exploratory-talk-elements-pair-programming.md) — related
+- [Training with tablet-delivered graduated prompts increased grade-2 children's series completion accuracy more than control practice](graduated-prompts-tablet-training-accuracy.md) — related
+- [Graduated prompts training also increased the number of transformations children applied correctly, indicating progression in task-solving strategies](graduated-prompts-training-transformations.md) — related

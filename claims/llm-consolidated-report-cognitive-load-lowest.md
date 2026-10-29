@@ -49,3 +49,4 @@ Report-level ratings from 140 students covering 237 consolidated performance rep
 - [Students rate LLM-generated response-level feedback favourably, with clarity and perceived accuracy highest and actionability and usefulness lowest](llm-response-feedback-clarity-accuracy-highest-actionability-usefulness-lowest.md) — related
 - [Intention to use consolidated LLM reports is associated with motivation and personalisation](intention-to-use-associated-motivation-personalisation.md) — related
 - [Only perceived accuracy differed across educational contexts, rated lower in CTeSP than in secondary and undergraduate education](perceived-accuracy-lower-ctesp-context-difference.md) — related
+- [Students perceived high learning impact from the personalised GPT agents, with improved conceptual understanding rated highest (mean 4.6, SD 0.5)](student-perceptions-gpt-learning-impact.md) — related

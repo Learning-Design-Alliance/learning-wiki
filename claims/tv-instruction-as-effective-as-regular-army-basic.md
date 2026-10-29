@@ -50,3 +50,4 @@ Controlled comparison within the Army basic training evaluation: 14 hours of ins
 - [Kinescope recordings of television instruction were equally effective as regular instruction](kinescope-recordings-equally-effective.md) — related
 - [Live television and television recordings were superior to local instructors in teaching Naval Air Reservists.](tv-instruction-superior-to-local-instructors-naval-reservists.md) — related
 - [Live television and television recordings were about equal in their instructional effectiveness.](live-tv-and-tv-recordings-about-equal-effectiveness.md) — related
+- [Army reservists of all grades made statistically significant gains on information tests after viewing instructional telecasts](reservists-significant-gains-tv-telecasts.md) — related

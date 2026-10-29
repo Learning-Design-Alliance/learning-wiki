@@ -49,3 +49,4 @@ The review reports, citing Federici & Skaalvik (2012), that SEM identified burno
 - [Principal burnout is negatively related to job satisfaction and self-efficacy and co-occurs with stress](burnout-correlates-satisfaction-efficacy-stress.md) — related
 - [AI dependency mediates the relationship between academic self-efficacy and learning burnout](ai-dependency-mediates-self-efficacy-burnout.md) — related
 - No study of principal burnout employed a causal framework or linked burnout to actual turnover — related
+- [A prolonged period of forced online teaching does not necessarily lead to increased adoption; regression of adoption may occur due to stress and burnout](forced-online-teaching-not-increase-adoption.md) — related

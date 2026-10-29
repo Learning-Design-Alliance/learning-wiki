@@ -47,3 +47,4 @@ Quantitative experiment with 164 preservice teachers in an introductory special 
 ## Related Claims
 - [In WHY2 physics studies, AutoTutor outperformed read-textbook and no-materials controls and performed comparably to WHY2/Atlas and non-expert human tutors](why2-autotutor-physics-gains.md) — related
 - [Listening to podcasts improved EFL students' self-regulation more than listening to radio programs](podcasts-improved-efl-self-regulation.md) — related
+- [Most interviewed HIL students perceived that effortfully replaying podcasts enhanced their learning](podcast-replaying-effortful-engagement.md) — related

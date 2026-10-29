@@ -52,3 +52,4 @@ The report estimated impacts for subgroups including students with weak and stro
 - [The Power4Kids evaluation covered four widely used reading programs for elementary students with reading problems: Corrective Reading, Failure Free Reading, Spell Read P.A.T., and Wilson Reading](power4kids-four-reading-interventions-compared.md) — related
 - [Negative effects of mid-year entry are somewhat larger for Asian students and students not qualifying for free or reduced-price lunch](mid-year-entry-effects-larger-asian-non-frl-students.md) — related
 - [Kindergarten students eligible for free or reduced-price lunch scored 16 standard points lower on receptive vocabulary than non-eligible students, regardless of LD status](frl-kindergarten-vocabulary-gap-16-points.md) — related
+- [A treatment school serving 80% free/reduced-price lunch students showed reading gains nearly identical to the whole treatment group](core5-promising-effects-low-ses-students.md) — related

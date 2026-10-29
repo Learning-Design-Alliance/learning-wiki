@@ -53,3 +53,4 @@ Descriptive analysis of 2017 Administrator Survey roadblock items from 549 CPS a
 - [Principals most commonly cited time for teacher planning, difficulty removing poor teachers, community social problems, apathetic parents, test-score pressure, and problem students as roadblocks](principals-roadblocks-to-school-improvement.md) — related
 - [Network participation faced challenges of teacher time, resources, and fragmentation, with about 40 percent of principals reporting few useful resources](network-participation-time-resource-challenges.md) — related
 - [School librarians rated Budget and Resources significantly lower than teachers (p = .019)](librarians-rate-budget-and-resources-lower-than-teachers.md) — related
+- [The surveyed schools had no materials purchase policies, no long-range equipment planning, and budgets not based on planned needs of frequency-of-use and amortization](no-av-purchase-policies-or-long-range-planning.md) — related

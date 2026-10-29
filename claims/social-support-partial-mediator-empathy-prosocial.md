@@ -52,3 +52,4 @@ SEM analysis with bootstrap test (bootstrap = 5000) in Mplus8.3 on the 1171-adol
 - [Adolescents' empathy is significantly positively correlated with prosocial behavior (r = 0.333)](empathy-prosocial-behavior-positive-correlation-adolescents.md) — related
 - [Adolescents' empathy is significantly positively correlated with social support (r = 0.164)](empathy-social-support-positive-correlation-adolescents.md) — related
 - [Teacher–student relationship quality partially mediates the association between student behavior and peer relationships](tsr-partially-mediates-behavior-peer-association.md) — related
+- [Partial least squares structural equation modelling was used to test the research model and hypotheses](pls-testing-interaction-engagement-model.md) — related

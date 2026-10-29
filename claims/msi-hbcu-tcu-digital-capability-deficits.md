@@ -57,3 +57,5 @@ The report states that MSIs, HBCUs, and TCUs are historically lower-resourced th
 - [Emergency federal funding narrowed the digital access divide during the pandemic but did not close the digital use divide](pandemic-funding-narrowed-access-not-use-divide.md) — related
 - [The article argues moving toward distributed systems is an existential necessity for academic AIED research](distributed-aied-existential-necessity.md) — related
 - [The COVID-19 pandemic pushed institutions globally to abruptly shift instruction digital](covid-19-abrupt-digital-shift-instruction.md) — related
+- [The COVID-19 shift to online learning in higher education caused panic and discomfort because many instructors lacked skills, resources, and didactic aptitude](pandemic-remote-shift-instructor-unpreparedness.md) — related
+- [The COVID-19 shift to digital revealed inequality in access to education caused by technology access and online delivery that may not address student voice](pandemic-revealed-inequality-in-access-to-education.md) — a broader claim this one bears on

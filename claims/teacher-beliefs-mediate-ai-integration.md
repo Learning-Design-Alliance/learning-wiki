@@ -83,3 +83,4 @@ Narrative review attribution: the article reports, citing Kazmaci et al. (2025) 
 - [The four-predictor model explains approximately 55.4% of variance in teachers' AI integration ability](plssem-model-explains-55-percent-variance-ai-integration.md) — related
 - [Engagement in data practices is associated with both cognitive and non-cognitive learning outcomes](data-practices-associated-cognitive-noncognitive-outcomes.md) — related
 - [Chinese MTES show medium-level AI-TPACK overall, with AI-TK the lowest-scoring component and teaching beliefs the highest, indicating a basic, preliminary stage](mtes-aick-tk-lowest-medium-level-basic-stage.md) — related
+- [A developmental teaching approach, positive technology attitudes and expectations, and perceived principal support related to a high extent of technology integration](teacher-perceptions-related-to-technology-integration.md) — related

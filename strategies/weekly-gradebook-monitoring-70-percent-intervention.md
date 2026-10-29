@@ -42,6 +42,7 @@ OUSD trains point people to monitor student progress continuously through the co
 - [Automatic enrollment of historically underrepresented students into dual enrollment as part of pathway sequences](automatic-enrollment-dual-enrollment-pathways.md)
 - [Progress Monitoring](progress_monitoring.md)
 - [Use the same early warning and college readiness indicator systems for English Learners as for other students, but apply subgroup-specific risk thresholds and targeted supports](el-shared-indicators-different-thresholds-strategy.md)
+- [Build APLE features that let students choose learning goals and receive indicator-based guidance, plus an early warning system for students at risk of failing](goal-choice-features-and-early-warning-system.md)
 
 ## Examples
 -

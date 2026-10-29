@@ -27,7 +27,7 @@ sources:
 # Multimedia Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 95 claims (39 for, 52 mixed, 4 against) · 72 studies (33 causal, 14 review, 13 quant-synthesis, 5 associational, 4 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 19 of 72 report an effect size · 86 claims rest on one study
+> **Evidence** · 96 claims (40 for, 52 mixed, 4 against) · 73 studies (33 causal, 15 review, 13 quant-synthesis, 5 associational, 4 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 19 of 73 report an effect size · 87 claims rest on one study
 
 ## Conditional relationship
 
@@ -179,6 +179,7 @@ A learning-phase preference, immediate recall, explanation of a mechanism, delay
 - [The diagram, but not the wiring board, slightly improved learning of electrical theory for the lower GCT group](../claims/diagram-slight-theory-gain-lower-gct.md) [+W]
 - [A mobile multimedia learning system improved EFL students' posttest performance, and cooperative tasks outperformed individual tasks](../claims/mmls-outperformed-conventional-efl.md) [+W]
 - [Neither the wiring board nor the diagram improved learning of basic principles of electricity, supporting the conclusion that manifestations of electrical phenomena are not necessary to learn Ohm's law](../claims/phenomena-not-necessary-ohms-law.md) [-W]
+- [The review draws on Mayer and colleagues' generative theory of textbook design using annotated illustrations to foster meaningful learning of science text](../claims/multimedia-learning-review-cites-generative-theory-textbook-design.md) [+W]
 
 ## Related Principles
 - [Modality Principle](modality.md)

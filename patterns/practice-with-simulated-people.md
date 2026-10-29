@@ -14,7 +14,7 @@ grain_size: unit
 # Practice with Simulated People
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 132 claims (62 for, 54 mixed, 16 against) · 67 studies (17 review, 16 causal, 12 quant-synthesis, 9 qualitative, 9 design, 4 theoretical), `q1`–`q4` · 17 of 67 report an effect size · 127 claims rest on one study
+> **Evidence** · 133 claims (62 for, 55 mixed, 16 against) · 68 studies (18 review, 16 causal, 12 quant-synthesis, 9 qualitative, 9 design, 4 theoretical), `q1`–`q4` · 17 of 68 report an effect size · 128 claims rest on one study
 
 ## Description and scope
 
@@ -161,6 +161,7 @@ This pattern is scoped to rehearsal of an interaction with a person who responds
 - [MR training produces considerably lower social presence than real-life exercises, with slightly lower physical presence](../claims/mr-lower-social-presence-than-rle.md) [~W]
 - [Patient simulation is the most prevalent role in higher education, concentrated in medical training contexts](../claims/higher-education-patient-simulator-role.md) [+W]
 - [The TARDIS system improved at-risk young people's interview answers and verbal and nonverbal behaviours](../claims/tardis-open-learner-model-improved-interview-behaviours.md) [+W]
+- [Cognitive-purpose agents concentrate on simulate-and-experience intents and face-to-face delivery](../claims/cognitive-agents-simulate-experience-face-to-face.md) [~W]
 
 ## Examples
 

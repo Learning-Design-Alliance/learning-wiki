@@ -13,7 +13,7 @@ generated:
 # Multimedia Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 28 claims (18 for, 10 mixed) · 30 studies (13 causal, 7 review, 6 quant-synthesis, 2 associational, 2 qualitative), `q2`–`q4` · 11 of 30 report an effect size · 24 claims rest on one study
+> **Evidence** · 29 claims (19 for, 10 mixed) · 31 studies (14 causal, 7 review, 6 quant-synthesis, 2 associational, 2 qualitative), `q2`–`q4` · 11 of 31 report an effect size · 25 claims rest on one study
 
 ## Description
 Multimedia learning is the element in which learners engage with coordinated combinations of words, visuals, audio, animation, or interactive media. It is useful when multiple representations clarify structure, process, or relationship more effectively than a single mode alone.
@@ -64,6 +64,7 @@ Multimedia learning is the element in which learners engage with coordinated com
 - [Synced auditory and visual information in narrated presentations produces better learning than single-channel or out-of-sync presentation](../claims/synced-audio-visual-presentation-better-learning.md) [+W]
 - [In Studies 2-6, the perceptual richness of visualizations had no effect on undergraduates' generalization](../claims/no-visualization-effect-studies-2-6.md) [~W]
 - [Presentation slide visuals were the feature most cited by DHH students for facilitating learning](../claims/dhh-presentation-visuals-facilitate-learning.md) [+W]
+- [Narration combined with drama or explanatory film was the most effective TV teaching method; drama alone was not very effective](../claims/narration-with-drama-or-film-best-tv-method.md) [+W]
 
 ## The evidence by question
 

@@ -66,6 +66,7 @@ Mindfulness-based practices in school settings show small-to-moderate positive e
 - [Deliver scalable socio-emotional support in ITSs via LLM-based mindful chat, breathing exercises, and mindful hint language](llm-mindfulness-layer-in-its.md)
 - [Use exhale-dominant and inhale-dominant breathing to tune alertness to the calm-alert range for learning](breathing-techniques-tune-alertness.md)
 - [Embed brief scheduled breathwork pauses at learning-proximal times as just-in-time emotion regulation in language learning](scheduled-learning-proximal-breathwork-strategy.md)
+- [Set up learning environments encouraging mind and body balance by implementing wellness techniques such as meditation, yoga, and exercise in daily instruction, and use Zoom Cafés for social presence](wellness-techniques-zoom-cafes-daily-instruction.md)
 
 ## Examples
 - **MindUP** (The Goldie Hawn Foundation) — an evidence-informed curriculum in which "Core Practice" breathing exercises open each lesson across K–8 classrooms ([https://mindup.org](https://mindup.org))

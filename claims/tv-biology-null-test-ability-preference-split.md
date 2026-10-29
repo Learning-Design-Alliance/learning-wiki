@@ -68,3 +68,4 @@ In the same biology study, pupil preference diverged by ability level: "below av
 - [In telecast mathematics, high-ability pupils did better with conventional instruction while average-ability pupils did better watching television](tv-math-ability-interaction.md) — related
 - [One biology test showed televised instruction significantly more effective than conventional instruction, with effects uniform across ability groups](tv-biology-test-significantly-more-effective.md) — related
 - [Almost 90 percent of comparisons between television and conventional instruction showed no substantial differences in achievement or information gain](tv-research-90-percent-no-substantial-differences.md) — a broader claim this one bears on
+- [Eighty percent of students enrolled in conventional classes who also participated in television classes preferred the conventional ones](students-preferred-conventional-over-television-classes.md) — related

@@ -54,3 +54,4 @@ Focus group interviews with 35 graduate students in seven cross-institutional te
 - [AI serves two complementary roles in learning: cognitive partner and personalized recommendation mechanism](ai-dual-roles-cognitive-partner-recommender.md) — a broader claim this one bears on
 - [Students rate the Socratic + Full Context AI TA significantly lowest for perceived support of task completion](socratic-full-context-ai-ta-lowest-task-completion-rating.md) — related
 - [Adult learners perceive AI-generated warm-up activities as activating prior knowledge for solution generation](ai-warmups-activate-prior-knowledge-solution-generation.md) — related
+- [Chatbot instruction appeared effective for participants lacking prior knowledge of posing questions for improvement (path J, n = 16)](path-j-chatbot-instruction-effective-questions.md) — related

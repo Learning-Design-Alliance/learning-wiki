@@ -72,3 +72,4 @@ Teacher interview response on how training could be improved for distance learni
 - Virtual implementation of Hero Elementary varied widely across classrooms, with teachers mixing synchronous and asynchronous instructional strategies — related
 - [Educators rarely facilitated connections between playlist activities or to students' lives; introductions focused on instructions and logistics, and debriefings were often unstructured reviews of the activity](educators-rarely-facilitated-connections-between-playlists.md) — related
 - [Training providers and instructors faced logistical challenges moving in-person apprenticeship training online but adapted quickly](providers-adapted-in-person-training-online.md) — related
+- [Teachers customizing online approaches may reduce lack of interaction in large classes and isolation in distance education](customized-online-learning-reduces-interaction-deficits.md) — related

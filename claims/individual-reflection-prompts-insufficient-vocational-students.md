@@ -57,3 +57,4 @@ Post-hoc comparisons in the four-condition quasi-experiment (N = 144) showed no 
 - [Students in all three conditions learned significantly from the CSCL environment, with significant pretest-to-posttest gains in each condition](all-conditions-learned-from-cscl-environment.md) — related
 - [Example-based instructional activities yield larger effects when delivered jointly by ICT and teachers than by teachers alone](examples-joint-ict-teacher-delivery-larger-effects.md) — related
 - [Deconstructing theory into smaller concepts alone is insufficient for deep theoretical understanding](deconstructing-theory-alone-insufficient.md) — related
+- [Meta-analysis finds collaboration, computer use, and learning environments/tools/scaffolds each have significantly positive effects on knowledge acquisition in CSCL](chen-2018-meta-analysis-cscl-positive-effects.md) — related

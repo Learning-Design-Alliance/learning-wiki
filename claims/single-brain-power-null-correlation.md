@@ -51,3 +51,6 @@ Null correlational analysis comparing single-brain EEG features (relative power 
 - [Theta-band student-class coupling during Math classes is positively correlated with Math final exam scores](theta-student-class-coupling-math-scores.md) — related
 - [Peer-based inter-brain coupling predicts math improvement only via class-average coupling and shows subject-specific static patterns](peer-coupling-subject-specific-prediction.md) — related
 - [Static same-wave student-teacher inter-brain coupling is negatively associated with concurrent math performance](static-coupling-negative-math-association.md) — related
+- [Inter-brain attention coupling to class-average attention dynamics during lectures is positively correlated with primary school students' academic performance](inter-brain-attention-coupling-correlates-academic-performance.md) — related
+- [Relaxation-index and EEG-power-based coupling analyses show no significant correlations with academic performance](relaxation-and-eeg-power-null-correlations.md) — a broader claim this one bears on
+- [Single-brain attention level (individual average attention) does not significantly correlate with academic performance in this sample](single-brain-attention-level-no-correlation-performance.md) — related

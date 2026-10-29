@@ -13,7 +13,7 @@ generated:
 # Multimedia Instruction
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 33 claims (17 for, 16 mixed) · 38 studies (18 causal, 9 quant-synthesis, 8 review, 2 theoretical, 1 design), `q1`–`q4` · 10 of 38 report an effect size · 28 claims rest on one study
+> **Evidence** · 38 claims (21 for, 16 mixed, 1 against) · 41 studies (21 causal, 9 quant-synthesis, 8 review, 2 theoretical, 1 design), `q1`–`q4` · 11 of 41 report an effect size · 33 claims rest on one study
 
 ## Description
 Multimedia instruction is the element in which teaching combines spoken or written language with visuals, diagrams, animation, or other media in a coordinated instructional sequence. It is useful when multiple representations clarify explanation and support comprehension.
@@ -69,6 +69,11 @@ Multimedia instruction is the element in which teaching combines spoken or writt
 - [Relevancy and acceptability of mental-health films matter more for learning than the sex of the main character](../claims/relevancy-acceptability-more-important-than-character-sex.md) [~W] — attached 2026-10-28 from Stein (1955), which proposed "Mental Hygiene Film Series (Feelings of Depression, Overdependency, Feelings of Hostility, Feelings of Rejection)".
 - [Supplementary examples in an instructional film significantly improve learning, with diminishing returns as example number increases](../claims/supplementary-examples-diminishing-returns.md) [~W]
 - [The two hygiene films were about equally effective in teaching shared factual content, with each film superior on facts it emphasized filmically](../claims/filmic-emphasis-determines-factual-learning.md) [~W]
+- [Novices who watched EMME videos guided by cumulative expert eye movements earned higher design performance scores than novices who watched unguided videos](../claims/emme-guided-videos-improve-design-performance.md) [+W] — attached 2026-10-29 from Neslihan Yondemir Çalişkan (2025), which proposed "Cumulative multi-expert EMME instructional videos for Photoshop".
+- [Narration combined with drama or explanatory film was the most effective TV teaching method; drama alone was not very effective](../claims/narration-with-drama-or-film-best-tv-method.md) [+W]
+- [The Physics Film Project concluded that physics can be taught effectively with the filmed course despite inadequately prepared instructors and ill-equipped laboratories](../claims/physics-taught-effectively-with-filmed-course.md) [+W]
+- [Medium-ability students showed some tendency to do better in the film-based physics course](../claims/medium-ability-students-tendency-better-film-course.md) [+W]
+- [In the Utah Physics Film Project, filmed and regular physics instruction showed no differences in large and small schools, but medium-sized schools favored regular instruction](../claims/physics-films-no-difference-medium-schools-favor-regular.md) [-W]
 
 ## The evidence by question
 - *Do words with a relevant picture beat words alone?* [Multimedia Principle Improves Learning](../claims/multimedia-principle-improves-learning.md) [+S]

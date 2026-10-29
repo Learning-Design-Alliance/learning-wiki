@@ -48186,5 +48186,289 @@
  "simulation\timmersive VR simulation in an inquiry-based learning environment\t?": {
   "label": "immersive VR simulation vs no simulation",
   "treatment_is_a": true
+ },
+ "active-learning\tLearning-analytics-supported peer-to-peer communication\tNot stated": {
+  "label": "Learning-analytics-supported peer-to-peer communication vs no stated intervention",
+  "treatment_is_a": true
+ },
+ "active-learning\tcohort Community of Practice with collaborative activities\tindependent thesis work after the cohort courses": {
+  "label": "Collaborative cohort learning vs independent work",
+  "treatment_is_a": true
+ },
+ "active-learning\tcollaborative cohort learning in Part 1\tindependent thesis work in Part 2": {
+  "label": "Collaborative cohort learning vs independent work",
+  "treatment_is_a": true
+ },
+ "active-learning\thands-on workshop with rotating stations and guided technological challenges\tregular course schedule without an alternative active-learning activity": {
+  "label": "Hands-on active-learning workshop vs regular course schedule",
+  "treatment_is_a": true
+ },
+ "active-learning\ttwo-hour coding, robotics, and machine-learning workshop\tregular course schedule without the intervention": {
+  "label": "Hands-on active-learning workshop vs regular course schedule",
+  "treatment_is_a": true
+ },
+ "active-learning\ttwo-hour coding, robotics, and machine-learning workshop\tregular course schedule without the intervention or alternative active-learning activity": {
+  "label": "Hands-on active-learning workshop vs regular course schedule",
+  "treatment_is_a": true
+ },
+ "active-learning\ttwo-hour experiential workshop using rotating hands-on stations and technological challenges\tregular course schedule without the intervention or an alternative active-learning activity": {
+  "label": "Hands-on active-learning workshop vs regular course schedule",
+  "treatment_is_a": true
+ },
+ "active-learning\ttwo-hour hands-on coding, robotics, and machine-learning workshop\tregular course schedule without the intervention": {
+  "label": "Hands-on active-learning workshop vs regular course schedule",
+  "treatment_is_a": true
+ },
+ "active-learning\ttwo-hour hands-on workshop with block-based programming, robotics, and guided challenges\tregular course schedule without the intervention or an alternative active-learning activity": {
+  "label": "Hands-on active-learning workshop vs regular course schedule",
+  "treatment_is_a": true
+ },
+ "active-learning\ttwo-hour hands-on workshop with coding, robotics, and introductory machine learning\tregular course schedule without the intervention or an alternative active-learning activity": {
+  "label": "Hands-on active-learning workshop vs regular course schedule",
+  "treatment_is_a": true
+ },
+ "active-learning\tyear-long hybrid LSVC PD with collaborative lesson development, peer observation, feedback, and reflection\tpre-PD baseline": {
+  "label": "Collaborative professional development vs pre-professional-development baseline",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tstudent choice and agency\tnot stated": {
+  "label": "autonomy-supportive choice and agency vs not stated",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicit treatment of topics\tsketchy or indirect treatment": {
+  "label": "explicit instruction vs indirect instruction",
+  "treatment_is_a": true
+ },
+ "fading\tEMME videos with gradually reduced expert eye-movement signaling\tstraight videos without guidance": {
+  "label": "faded guidance vs no guidance",
+  "treatment_is_a": true
+ },
+ "fading\tEMME videos with signaling elements gradually reduced as learners became familiar with the interface\tstraight videos without expert-guidance signaling": {
+  "label": "faded guidance vs no guidance",
+  "treatment_is_a": true
+ },
+ "fading\tguided videos with signaling elements gradually reduced\tguidance not faded or straight videos without guidance": {
+  "label": "faded guidance vs unfaded or no guidance",
+  "treatment_is_a": true
+ },
+ "gamification\tgame-based fraction number line training with game elements\tnon-game-based fraction number line training without game elements": {
+  "label": "game-based/gamified vs non-game-based/non-gamified",
+  "treatment_is_a": true
+ },
+ "gamification\tgame-based fraction number-line training\tnon-game-based fraction number-line training": {
+  "label": "game-based/gamified vs non-game-based/non-gamified",
+  "treatment_is_a": true
+ },
+ "gamification\tgame-based fraction number-line training with visual aesthetics, game fiction, coins and life points\tminimalistic non-game-based fraction number-line training": {
+  "label": "game-based/gamified vs non-game-based/non-gamified",
+  "treatment_is_a": true
+ },
+ "gamification\tgamified math and reading games\tnot stated": {
+  "label": "gamified vs non-gamified",
+  "treatment_is_a": true
+ },
+ "gamification\tintrinsically integrated game-based fraction number-line training\tnon-game-based fraction number-line training": {
+  "label": "game-based/gamified vs non-game-based/non-gamified",
+  "treatment_is_a": true
+ },
+ "gamification\tonline role-playing game-based guide activity\tflow-scale median of 3": {
+  "label": "game-based/gamified vs non-game-based/non-gamified",
+  "treatment_is_a": true
+ },
+ "gamification\tonline role-playing game-based guide activity\ttraditional online guide activity": {
+  "label": "game-based/gamified vs traditional non-game-based instruction",
+  "treatment_is_a": true
+ },
+ "gamification\tonline role-playing game-based guide with scaffolding\ttraditional online guide": {
+  "label": "game-based/gamified vs traditional non-game-based instruction",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tvalue-added guidance examples across CoSIL phases\tinsufficient guidance examples in three CoSIL phases": {
+  "label": "guided discovery vs unguided discovery",
+  "treatment_is_a": true
+ },
+ "media-design\tAPA conditions with image and/or voice\tcontrol condition without image or voice": {
+  "label": "image and/or voice vs neither",
+  "treatment_is_a": true
+ },
+ "media-design\tnarration combined with drama or explanatory film\tdrama alone": {
+  "label": "narration plus drama/explanatory film vs drama alone",
+  "treatment_is_a": true
+ },
+ "media-design\tnever-present instructor\tpermanently present instructor": {
+  "label": "permanent instructor presence vs never-present instructor",
+  "treatment_is_a": false
+ },
+ "media-design\ttemporary instructor presence\tnever-present instructor": {
+  "label": "temporary instructor presence vs never-present instructor",
+  "treatment_is_a": true
+ },
+ "media-design\ttemporary instructor presence\tno instructor presence": {
+  "label": "temporary instructor presence vs no instructor presence",
+  "treatment_is_a": true
+ },
+ "media-design\ttemporary instructor presence\tother instructor-presence conditions": {
+  "label": "temporary instructor presence vs other instructor-presence conditions",
+  "treatment_is_a": true
+ },
+ "media-design\ttemporary instructor presence\tpermanent instructor presence": {
+  "label": "permanent instructor presence vs temporary instructor presence",
+  "treatment_is_a": false
+ },
+ "media-design\ttemporary instructor presence\tpermanent or no instructor presence": {
+  "label": "temporary instructor presence vs permanent or no instructor presence",
+  "treatment_is_a": true
+ },
+ "practice-amount\tlater training sessions\tearlier training sessions": {
+  "label": "Later training sessions vs earlier training sessions",
+  "treatment_is_a": true
+ },
+ "practice-amount\tviewing more programs\tviewing fewer programs": {
+  "label": "More practice vs less practice",
+  "treatment_is_a": true
+ },
+ "problem-first\tgenerate answers before searching\tread keywords and search immediately": {
+  "label": "problem-first vs search-first",
+  "treatment_is_a": true
+ },
+ "problem-first\tgenerate answers before searching\tsearch immediately": {
+  "label": "problem-first vs search-first",
+  "treatment_is_a": true
+ },
+ "problem-first\tthinking-before-googling\tgoogling-only": {
+  "label": "problem-first vs search-first",
+  "treatment_is_a": true
+ },
+ "prompts\tPrompt–Reflect–Refine tasks with personalised GPT agents\tno comparison condition reported": {
+  "label": "Prompt–Reflect–Refine tasks with personalised GPT agents vs no comparison condition",
+  "treatment_is_a": true
+ },
+ "prompts\tPrompt–Reflect–Refine tasks with personalised GPT agents\tno comparison condition stated": {
+  "label": "Prompt–Reflect–Refine tasks with personalised GPT agents vs no comparison condition",
+  "treatment_is_a": true
+ },
+ "prompts\tWeek 11 GPT interaction\tWeek 2 GPT interaction": {
+  "label": "later vs earlier GPT interaction",
+  "treatment_is_a": true
+ },
+ "prompts\tcombined instructional and relevance prompts\tEG1 pretest before prompting": {
+  "label": "combined instructional and relevance prompts vs pretest before prompting",
+  "treatment_is_a": true
+ },
+ "prompts\tcombined instructional and relevance prompts\tno prompting": {
+  "label": "combined instructional and relevance prompts vs no prompts",
+  "treatment_is_a": true
+ },
+ "prompts\tcombined instructional and relevance prompts\tno prompts": {
+  "label": "combined instructional and relevance prompts vs no prompts",
+  "treatment_is_a": true
+ },
+ "prompts\tcombined instructional and relevance prompts\trelevance prompts only": {
+  "label": "combined instructional and relevance prompts vs relevance prompts only",
+  "treatment_is_a": true
+ },
+ "prompts\tcomputerized graduated-prompts training\tpaper-and-pencil control tasks": {
+  "label": "computerized graduated-prompts training vs paper-and-pencil control tasks",
+  "treatment_is_a": true
+ },
+ "prompts\texplicit localisation and inclusion prompts\tdefault prompting": {
+  "label": "explicit localisation and inclusion prompts vs default prompting",
+  "treatment_is_a": true
+ },
+ "prompts\tfewer graduated prompts needed during training\tmore graduated prompts needed during training": {
+  "label": "fewer vs more graduated prompts needed during training",
+  "treatment_is_a": true
+ },
+ "prompts\tgraduated prompts training\tcontrol condition without graduated-prompt training": {
+  "label": "graduated-prompts training vs control condition",
+  "treatment_is_a": true
+ },
+ "prompts\tgraduated-prompts training\tcontrol condition": {
+  "label": "graduated-prompts training vs control condition",
+  "treatment_is_a": true
+ },
+ "prompts\tinstructional and relevance prompts\tno prompts": {
+  "label": "instructional and relevance prompts vs no prompts",
+  "treatment_is_a": true
+ },
+ "prompts\tinstructional and relevance prompts\trelevance prompts only": {
+  "label": "instructional and relevance prompts vs relevance prompts only",
+  "treatment_is_a": true
+ },
+ "prompts\tlater weekly reflective-journal entries with strategic AI interaction\tearly weekly reflective-journal entries with descriptive AI interaction": {
+  "label": "later strategic-AI reflective-journal entries vs earlier descriptive-AI reflective-journal entries",
+  "treatment_is_a": true
+ },
+ "prompts\tmore prompts needed during training\tfewer prompts needed during training": {
+  "label": "fewer vs more graduated prompts needed during training",
+  "treatment_is_a": false
+ },
+ "prompts\tprompted source-checking and verification\tunprompted AI use": {
+  "label": "prompted source-checking and verification vs unprompted AI use",
+  "treatment_is_a": true
+ },
+ "prompts\trelevance prompts\tno prompts": {
+  "label": "relevance prompts vs no prompts",
+  "treatment_is_a": true
+ },
+ "prompts\trelevance prompts only\tno prompts": {
+  "label": "relevance prompts vs no prompts",
+  "treatment_is_a": true
+ },
+ "prompts\tstructured Prompt–Reflect–Refine tasks with exemplars and templates\tcomplex prompt construction without those supports": {
+  "label": "structured Prompt–Reflect–Refine tasks with exemplars and templates vs complex prompt construction without those supports",
+  "treatment_is_a": true
+ },
+ "prompts\tthink before searching\tsearch immediately": {
+  "label": "think before searching vs search immediately",
+  "treatment_is_a": true
+ },
+ "prompts\twithin-domain Socratic GenAI dialogue\toutside-domain Socratic GenAI dialogue": {
+  "label": "within-domain vs outside-domain Socratic GenAI interaction",
+  "treatment_is_a": true
+ },
+ "prompts\twithin-domain Socratic GenAI prompt\toutside-domain Socratic GenAI prompt": {
+  "label": "within-domain vs outside-domain Socratic GenAI interaction",
+  "treatment_is_a": true
+ },
+ "prompts\twithin-domain Socratic dialogue with GenAI\toutside-domain Socratic dialogue with GenAI": {
+  "label": "within-domain vs outside-domain Socratic GenAI interaction",
+  "treatment_is_a": true
+ },
+ "scaffolding\tEMME instructional videos with cumulative expert eye-movement guidance\tstraight instructional videos without guidance": {
+  "label": "Cumulative expert eye-movement guidance vs no guidance",
+  "treatment_is_a": true
+ },
+ "scaffolding\tRecommendations for adaptive learning materials and prior-knowledge building\tNot stated": {
+  "label": "Adaptive learning materials and prior-knowledge scaffolding vs no stated scaffolding",
+  "treatment_is_a": true
+ },
+ "scaffolding\tcumulative expert-eye-movement-guided videos with fading\tstraight instructional videos without guidance": {
+  "label": "Cumulative expert eye-movement guidance with fading vs no guidance",
+  "treatment_is_a": true
+ },
+ "scaffolding\tfacilitator adapts to people in the room\tfacilitator does not adapt to people in the room": {
+  "label": "Adaptive facilitation vs non-adaptive facilitation",
+  "treatment_is_a": true
+ },
+ "scaffolding\tperformance-adjusted ZPD-based scaffolding\tnot stated": {
+  "label": "Performance-adjusted ZPD-based scaffolding vs no stated scaffolding",
+  "treatment_is_a": true
+ },
+ "scaffolding\tvideos guided by cumulative experts’ eye movements\tstraight videos without guidance": {
+  "label": "Cumulative expert eye-movement guidance vs no guidance",
+  "treatment_is_a": true
+ },
+ "simulation\tcognitive conversational agents using simulated contexts or experiences\tnot reported": {
+  "label": "simulation vs no simulation",
+  "treatment_is_a": true
+ },
+ "test-format\tauthentic, application-based assessment\ttraditional rote-memorization exams": {
+  "label": "Application-based assessment vs rote-memorization exam",
+  "treatment_is_a": true
+ },
+ "test-format\toral case defense with follow-up questions\twritten case analysis (take-home)": {
+  "label": "Oral case defense vs written case analysis",
+  "treatment_is_a": true
  }
 }

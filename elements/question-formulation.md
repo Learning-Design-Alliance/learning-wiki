@@ -13,7 +13,7 @@ generated:
 # Question Formulation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 10 claims (7 for, 3 mixed) · 16 studies (5 review, 3 quant-synthesis, 2 causal, 2 associational, 2 design, 1 qualitative, 1 theoretical), `q1`–`q4` · 2 of 16 report an effect size · 6 claims rest on one study
+> **Evidence** · 11 claims (7 for, 4 mixed) · 17 studies (5 review, 3 quant-synthesis, 3 design, 2 causal, 2 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 2 of 17 report an effect size · 7 claims rest on one study
 
 ## Description
 Question Formulation asks learners to generate, refine, and prioritize their own questions about a topic before or during inquiry, rather than responding only to instructor-posed questions. The questions learners produce become the driving agenda for research, discussion, or investigation, positioning them as owners of the inquiry process.
@@ -58,6 +58,7 @@ Generating questions forces learners to surface gaps in their own understanding,
 - [First-cycle underperformance was attributed to low-quality student-generated questions that failed to represent journal article patterns](../claims/question-quality-limited-first-cycle-outcomes.md) [~W]
 - [The PBL assumption that student-generated learning issues guide self-directed learning had never been empirically tested before this study](../claims/pbl-learning-issues-assumption-untested.md) [~W]
 - [Self-generation of learning issues improves studied materials, self-study time, and reporting time in PBL](../claims/self-generated-learning-issues-benefit-pbl.md) [+W]
+- [Chatbot instruction appeared effective for participants lacking prior knowledge of posing questions for improvement (path J, n = 16)](../claims/path-j-chatbot-instruction-effective-questions.md) [~W]
 
 ## The evidence by question
 - *Do annotations that make the reader generate questions, explanations or summaries improve comprehension?* [Self-questioning improves comprehension](../claims/self-questioning-improves-comprehension.md) [+S]

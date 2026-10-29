@@ -50,3 +50,4 @@ Moderator analysis (Table 2) of specific combinations of scaffolded collaborativ
 - [CSCL scripts have a small significant positive effect on domain learning compared to unstructured collaborative learning](cscl-scripts-small-positive-domain-learning-effect.md) — a broader claim this one bears on
 - [mCSCL outperforms individual learning and non-mobile collaborative learning, but shows no significant advantage over desktop CSCL](mcscl-vs-control-group-types.md) — related
 - [Face-to-face collaboration scripts focus on individual knowledge acquisition activities, while computer-mediated scripts focus on communicative-coordinative processes](f2f-vs-cscl-script-focus-difference.md) — related
+- [Meta-analysis finds collaboration, computer use, and learning environments/tools/scaffolds each have significantly positive effects on knowledge acquisition in CSCL](chen-2018-meta-analysis-cscl-positive-effects.md) — related

@@ -52,3 +52,4 @@ Thematic and case-based qualitative analysis across three phases using student m
 - [Post-intervention domain knowledge correlated with final model scores and with higher-level systems thinking discourse (ST-3)](model-and-discourse-correlate-with-domain-knowledge.md) — related
 - [Students with low achievement can assume high-level responsibility for collectively accomplishing knowledge-building discourse in a supportive knowledge-building environment.](low-achievers-collective-responsibility-knowledge-building.md) — related
 - [Group meta-discourse in Knowledge Forum is associated with higher individual learning among university students](meta-discourse-groups-higher-individual-learning.md) — related
+- [Nine reviewed studies reported LA as reflective tools enhancing knowledge-building outcomes such as individual idea development and collective knowledge advancement](la-reflective-tools-improve-knowledge-building-outcomes.md) — a broader claim this one bears on

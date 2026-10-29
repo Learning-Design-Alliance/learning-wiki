@@ -49,3 +49,4 @@ SEM model comparison for the delayed post-test administered 6 to 8 weeks after t
 - [Engagement profile membership predicts immediate chemistry knowledge above and beyond prior knowledge](profiles-predict-immediate-knowledge-beyond-prior-knowledge.md) — related
 - [Latent profile analysis of secondary students' log-file engagement in a digital chemistry textbook identifies six distinct cognitive and metacognitive engagement profiles](six-latent-profiles-engagement-digital-chemistry-textbook.md) — a broader claim this one bears on
 - [Integrative profiles combining achievement goals with competence and value classified students more accurately and explained more variance than goal-only profiles, with mixed results for outcomes.](integrative-profiles-outperform-goal-only-profiles.md) — related
+- [Differences between training devices were negligible on six-to-eight-week delayed recall](delayed-recall-negligible-across-training-devices.md) — related

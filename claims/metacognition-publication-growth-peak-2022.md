@@ -50,3 +50,4 @@ Paper-count analysis (Svensson's method) of yearly article and citation counts f
 - [AI ethics research shows a pronounced acceleration in publications after 2021, with nonlinear accelerating growth rather than linear development](ai-ethics-publications-accelerate-after-2021.md) — related
 - [Research on AIED ethics grew exponentially from 2019, peaking in 2021 with a small retraction in 2022](aied-ethics-publications-growth-2019-2021.md) — related
 - [The USA leads metacognition research productivity and Metacognition and Learning is the most productive journal](usa-leads-metacognition-research-productivity.md)
+- [Teaching-machine research publications rose yearly from 1948 to 1959, with six references prior to 1948](teaching-machine-publications-rising-1948-1959.md) — related

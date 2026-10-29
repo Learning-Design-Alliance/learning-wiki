@@ -48,6 +48,7 @@ The commentary highlights Bennett et al.'s identification of "key areas where un
 
 - [Cultivate faculty design talent through professional development and strategic faculty hiring in responses to large-scale or rapid shifts to digital learning.](cultivate-faculty-design-talent-pd-strategic-hiring.md)
 - [Make university teachers' design work more explicit through conceptual tools and design models to navigate top-down and bottom-up design tensions](explicit-design-work-conceptual-tools-and-models.md)
+- [Pursue explanatory then prescriptive research on the rationale behind teachers' design decisions to strengthen design implications](explanatory-prescriptive-design-decision-research.md)
 
 ## Examples
 -

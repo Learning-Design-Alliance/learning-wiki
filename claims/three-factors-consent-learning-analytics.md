@@ -49,3 +49,4 @@ Logistic regression on 272 email respondents with feature selection (RFE with 20
 - [Black students report lower institutional trust, and female students report higher trust, more data-collection concern, and greater comfort with instructor data use](demographic-correlates-consent-factors.md) — related
 - [Students who consented most often cited improving education (30%), while students who denied consent most often cited privacy and security concerns (63%)](self-reported-consent-deny-reasons.md) — related
 - [Students' propensity to consent to learning analytics and their institutional trust differ for underrepresented minorities](consent-and-trust-differ-for-underrepresented-minorities.md) — related
+- [Students vary in which data sources they are comfortable having used in learning analytics, with course enrollment data most acceptable and medical data least acceptable](student-privacy-comfort-varies-by-data-type.md) — related

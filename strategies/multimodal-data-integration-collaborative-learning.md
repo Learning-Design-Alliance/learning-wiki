@@ -48,6 +48,7 @@ The review recommends methodological approaches that integrate different data ty
 - [Use multimodal data channels combining subjective and objective measures to overcome single-channel constraints in SSRL research](multimodal-multichannel-ssrl-measurement.md)
 - [Research agenda: investigate affective dynamics with within-person, longitudinal, and multi-channel methods](affective-dynamics-research-agenda-curiosity-interest.md)
 - [Use simultaneous high-arousal episodes to locate emotionally relevant moments in collaborative learning](track-high-arousal-critical-moments.md)
+- [Methodological agenda for CCLT-inspired CSCL research: new cognitive load measures, multilevel analysis, temporality, and broader methodologies](cclt-methodological-agenda.md)
 
 ## Examples
 -

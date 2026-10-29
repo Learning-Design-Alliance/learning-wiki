@@ -42,6 +42,7 @@ The paper's policy section recommends that districts support personalized learni
 - [Every state should convene a CBL workgroup to develop multi-year plans for scaling competency-based learning](state-cbl-workgroup-multi-year-plans.md)
 - [Four ecosystem recommendations: experiment with currency forms, protect time for inquiry, include everyone in team learning, and invest in adaptive platforms](four-micro-credential-ecosystem-recommendations.md)
 - [Plan long-term quantitative data collection and interoperable systems to evaluate micro-credentials' social mobility impact](quantitative-data-collection-microcredential-evaluation.md)
+- [Secure administrator commitment and multi-year investment when implementing a blended learning program](administrator-commitment-multi-year-blended-implementation.md)
 
 ## Examples
 -

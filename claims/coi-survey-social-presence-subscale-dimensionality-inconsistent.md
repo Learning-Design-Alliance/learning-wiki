@@ -46,3 +46,4 @@ The review's synthesis of CoI survey instrument validation evidence. It adds tha
 
 ## Related Claims
 - [Item analysis showed high self-reported engagement and subscale differences in discriminatory power, with social engagement items weakest and cognitive engagement items strongest](qcge-sas-item-analysis-discrimination-subscale-differences.md) — related
+- [ARPS is a valid and reliable instrument for measuring presence in AR environments per Rasch analysis](arps-valid-reliable-rasch.md) — related

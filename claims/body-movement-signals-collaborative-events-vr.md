@@ -55,3 +55,4 @@ In the simultaneous and sequential relationship matrices from the multimodal cod
 - [Much bodily-material coordination in touchscreen collaboration occurs in the space off the screen](bodily-material-interaction-off-screen.md) — related
 - [Gestures and bodily actions lighten cognitive load and extend mathematical ideas across group members during collaboration](gestures-material-scaffolding-collaboration.md) — related
 - [Microanalysis shows on-task and off-task participation is multilayered, with students frequently on- and off-task simultaneously through different modalities](multilayered-on-off-task-microanalysis.md) — related
+- [Children appropriated their peri-personal physical space, drawing categories and boundaries with hands, arms, and whole body, including using the robot's position as a boundary marker](appropriation-physical-space-categorization.md) — related

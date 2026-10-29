@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: moderate
 newest_evidence: 2020
+source_checked: 2026-10-29
 sources:
   - id: hilton-2020
     resource: "https://doi.org/10.1007/s11423-019-09700-4"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2020 · checked against its sources 2026-10-29 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across 25 peer-reviewed OER efficacy studies (184,658 students) published by the end of 2018, the consistent trend is that OER does not harm student learning, with a small positive impact. [→ Hilton 2020](#hilton-2020)
@@ -59,3 +60,4 @@ The synthesis's aggregate finding across all 25 efficacy studies published throu
 - [Substituting OER for traditional textbooks does not appear to decrease student learning outcomes in higher education.](oer-no-decrease-student-learning.md) — a narrower finding that bears on this claim
 - [Students using OER save significant amounts of money compared to purchasing commercial textbooks.](oer-significant-cost-savings-students.md) — a narrower finding that bears on this claim
 - [Students and faculty are generally positive regarding OER across a variety of settings.](students-faculty-generally-positive-oer.md) — related
+- [OER adoption is expected to save students money and close the achievement gap in the short term, but this benefit will likely disappear over the longer term](oer-cost-savings-short-term-only.md) — related

@@ -53,3 +53,4 @@ The report's review of recent literature on equity-oriented principal preparatio
 - [Field-based internships and on-the-job coaching by expert principals are reported as principals' most valuable but least experienced learning opportunity](principal-internships-expert-coaching-value.md) — related
 - [State policy differences shape principals' access to high-quality learning: California principals report more access than national peers, North Carolina principals less](state-policy-shapes-principal-learning-access.md) — related
 - [Principals with access to high-quality professional learning opportunities are more likely to stay in the profession](principal-pd-linked-retention.md) — related
+- [Societal agency roots in early socialization and disorienting dilemmas, and drives design choices toward access, equity and social justice](societal-agency-disorienting-dilemmas.md) — related

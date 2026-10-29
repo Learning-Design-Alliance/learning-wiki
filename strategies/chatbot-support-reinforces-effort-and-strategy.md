@@ -42,6 +42,7 @@ Drawing on the Axis 5 (source of ability to learn) findings, the authors recomme
 - [Promote a Growth Mindset](promote_a_growth_mindset.md)
 - [Effort-Based Praise](effort-based_praise.md)
 - [Growth Mindset Framing](growth-mindset-framing.md)
+- [Five design guidelines for educational chatbots: comprehensive CCQs, better NLU, error detection, easy access, progressive refinement](five-guidelines-educational-chatbot-design.md)
 
 ## Examples
 -

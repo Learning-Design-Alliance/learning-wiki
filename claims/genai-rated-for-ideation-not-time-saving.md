@@ -78,3 +78,4 @@ Section-level post-course ratings in the intervention cohort: flipped-learning c
 - [Lesson designers report LLM-generated lessons save substantial time drafting scenarios and multiple-choice questions](llm-lessons-time-saving-scenario-drafting.md) — related
 - [Students rated the tutor 3.4 out of 5 overall and particularly liked the worked-out solution feedback](ask-elle-student-satisfaction-3-4-of-5.md) — related
 - [Participants expressed overall positive perceptions of the PD, with all survey items except one rated above 4 on a five-point scale](cybersecurity-pd-positive-perceptions.md) — related
+- [Students rated all student-facing design principles positively, with formative assessment and learning content rated highest (above 6 on a 7-point scale)](design-principles-rated-positively-survey.md) — related

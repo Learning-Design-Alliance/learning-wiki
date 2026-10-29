@@ -50,3 +50,5 @@ The review's analysis of the countries in which the studies were conducted found
 - [China has overtaken the US as the leading producer of AIEd higher education publications](china-overtakes-us-ai-ed-he-publications.md) — related
 - [AI-motivation research is geographically and educationally concentrated: over half of reviewed studies were conducted in China and most in higher education](ai-motivation-research-china-higher-ed-concentration.md) — related
 - [Higher education was the educational level that most widely adopted virtual reality and gamification](higher-education-most-widely-adopted-vr-and-gamification.md) — related
+- [EdTech researchers from Germany, Spain and the UK maintain distinct country-specific topical clusters despite publishing in English-language journals](country-specific-edtech-topical-clusters.md) — related
+- [UK-based authors dominate the sample of English-language EdTech publications, with 1339 articles versus 1007 from Spain and 826 from Germany](uk-dominance-english-edtech-publications.md) — related

@@ -52,6 +52,7 @@ Drawing on the converging gaps across the reviewed literature, the review recomm
 - [Integrate autonomy and agency paradigms, standardise instruments, probe non-demographic moderators, and extend evaluations to longitudinal real-world settings](integrate-paradigms-longitudinal-hri-autonomy-research.md)
 - [Prioritize construct-to-data mappings, multimodal validation, ethical implementation, and cross-disciplinary collaboration for domain-specific adaptive systems](domain-specific-adaptivity-research-priorities.md)
 - [Prioritize longer-term longitudinal studies and analysis of learners' virtual-world behaviors for SLA research](longitudinal-virtual-world-sla-research-agenda.md)
+- [Direct future pedagogical agent research toward assessment, reflective practice, administration, personalisation and media richness](future-research-assessment-reflective-personalisation.md)
 
 ## Examples
 -

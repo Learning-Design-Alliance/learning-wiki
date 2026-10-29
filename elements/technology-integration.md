@@ -13,7 +13,7 @@ generated:
 # Technology Integration
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 118 claims (55 for, 54 mixed, 9 against) · 104 studies (21 associational, 21 qualitative, 18 review, 17 causal, 11 quant-synthesis, 11 design, 5 theoretical), `q1`–`q4` · 17 of 104 report an effect size · 115 claims rest on one study
+> **Evidence** · 125 claims (58 for, 57 mixed, 10 against) · 107 studies (21 associational, 21 qualitative, 19 causal, 18 review, 12 design, 11 quant-synthesis, 5 theoretical), `q1`–`q4` · 19 of 107 report an effect size · 122 claims rest on one study
 
 ## Description
 Technology integration is the element in which digital tools are used in direct service of learning goals, feedback, access, or collaboration.
@@ -143,6 +143,13 @@ Technology integration is the element in which digital tools are used in direct 
 - [A bilingual robot speaking Spanish and English equally was essential for integrating Spanish and English speakers](../claims/bilingual-robot-integrates-language-diversity.md) [+W]
 - [Flexible design with a human wizard anticipated kindergarteners' developing communication styles in robot-mediated interaction](../claims/flexible-design-anticipating-children-communication-styles.md) [~W]
 - [Prototype functionalities moderately encouraged reflection on study goals, but perceived added value was limited and regular use was uncertain](../claims/idsa-reflection-encouraged-but-limited-added-value.md) [-W]
+- [The GenAI-integrated group outperformed controls across course assessment components, with Cohen's d ranging from 0.65 to 0.88, and a higher proportion earning B+ or higher](../claims/genai-group-better-course-performance.md) [+W]
+- [GenAI-enhanced instruction is associated with substantially greater legal reasoning gains than traditional instruction in property law, though the effect size warrants cautious interpretation](../claims/genai-instruction-greater-legal-reasoning-gains.md) [+W]
+- [Implementation constraints identified were factual accuracy and content drift, culturally narrow outputs, prompt fatigue, and data privacy concerns](../claims/gpt-implementation-constraints-ite.md) [~W]
+- [Time working within PictoPal explained significant variance in teacher integration and pupil engagement across the eight-week implementation](../claims/integration-engagement-increase-over-time.md) [~W]
+- [Senior kindergarten teachers integrated on- and off-computer activities to a significantly higher extent than junior kindergarten teachers](../claims/senior-teachers-higher-technology-integration.md) [+W]
+- [High pupil learning gains were not related to a high extent of teacher technology integration; junior classes gained more than senior class 2b](../claims/learning-gains-not-related-to-integration-extent.md) [-W]
+- [A developmental teaching approach, positive technology attitudes and expectations, and perceived principal support related to a high extent of technology integration](../claims/teacher-perceptions-related-to-technology-integration.md) [~W]
 
 ## The evidence by question
 - *Does building AI tools into instruction raise achievement over teaching the same content without them, and in which settings?* [AI-supported instruction has a moderate positive effect on student achievement in STEM education (g = 0.670 under a random effects model)](../claims/ai-instruction-stem-moderate-positive-effect.md) [+M]

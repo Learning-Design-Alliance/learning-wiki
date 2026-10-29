@@ -69,3 +69,4 @@ Semi-structured interviews with eight purposively selected respondents, each las
 - [GenAI communication benefits depend on integration: embedded agents enhance communication more than external tools, but efficiency can reduce the need for human communication](genai-communication-benefits-depend-on-integration.md) — related
 - [Interviews revealed six themes: enhanced efficiency, improved quality, facilitated reflection, increased interaction, improved collaboration, and concerns about over-reliance](gai-dst-interview-six-themes.md) — related
 - [IDs reported that GenAI increased their efficiency by reducing the time it takes to write and create](genai-reduced-writing-time-efficiency.md) — related
+- [Students report that GenAI's immediate feedback enabled iterative learning and low-stakes practice, the dominant qualitative themes of the intervention](iterative-feedback-low-stakes-practice-themes.md) — related

@@ -49,3 +49,4 @@ Systematic review synthesis of 78 experiments coded by the authors; Table 5 repo
 - [Gaze outcome measures showed the highest relative rates of positive EMME effects among the outcome categories reviewed](emme-gaze-outcomes-highest-positive-rates.md) — related
 - [Prior knowledge may moderate EMME effectiveness, but support for novices benefiting more is inconsistent across studies](emme-prior-knowledge-moderation-inconsistent.md) — related
 - [Rationales for using EMME differ systematically by task domain: sports studies emphasize quiet-eye strategy, medical studies strategy plus attention guidance, and STEM studies more often social mechanisms](emme-domain-rationale-patterns.md) — related
+- [Novices who watched EMME videos guided by cumulative expert eye movements earned higher design performance scores than novices who watched unguided videos](emme-guided-videos-improve-design-performance.md) — a narrower finding that bears on this claim

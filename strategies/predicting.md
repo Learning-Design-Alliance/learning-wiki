@@ -66,6 +66,7 @@ Prediction functions as a form of pretesting: even when predictions are wrong, g
 - [Pretesting](../strategies/pretesting.md) — the broader family of before-instruction attempts that prediction belongs to
 - [Present problems before explanatory texts to arouse curiosity and situational interest in learners lacking prior knowledge](problem-first-then-explanation.md)
 - [Use small-group discussion of a phenomenon-describing problem before text study to bridge prior knowledge and new information](small-group-problem-discussion-before-text.md)
+- [Have learners generate or guess answers to broad brainstorming questions before searching the internet for specific answers](thinking-before-googling-strategy.md)
 
 ## Related Elements
 - [Activation](../elements/activation.md) — the cognitive function prediction serves

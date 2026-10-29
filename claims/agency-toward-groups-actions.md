@@ -52,3 +52,4 @@ Scoping review synthesis of actions toward groups, mostly from student perspecti
 - [Teacher education students in PBL identified valuing others' perspectives, interdependence, and learning about self as attitudes necessary for collaborative learning](pbl-attitudes-valuing-interdependence-self.md) — related
 - [Group A's brainstorming was repeatedly unproductive because individual interjections redirected the group's dialogue toward personal concerns](group-a-unproductive-brainstorming-personal-drift.md) — related
 - [Interpersonal relationships are framed as supports for motivation at school](interpersonal-relationships-support-school-motivation.md) — related
+- [Interpersonal agency in instructional design centers on collegial engagement, learner advocacy and trust building with faculty clients](interpersonal-agency-instructional-design.md) — related

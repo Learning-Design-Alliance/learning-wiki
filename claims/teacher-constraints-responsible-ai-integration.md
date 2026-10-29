@@ -77,3 +77,4 @@ Negative-perceptions sub-theme from thematic analysis of interviews with 10 trai
 - [ITS adoption is limited by instructors' lack of programming skills and high outsourcing costs](its-barriers-programming-skills-and-cost.md) — related
 - [Teachers identified cost, bulky headsets, Wi-Fi connectivity, and technical issues as key challenges to integrating VR into ML2 teaching](vr-challenges-cost-headsets-wifi.md) — related
 - [Instructional designers' main challenges with ChatGPT are output quality (53.8%), tool limitations (42.3%), and faculty unpreparedness (3.8%)](id-chatgpt-challenges-output-quality-tool-limits.md) — related
+- [Implementation constraints identified were factual accuracy and content drift, culturally narrow outputs, prompt fatigue, and data privacy concerns](gpt-implementation-constraints-ite.md) — related

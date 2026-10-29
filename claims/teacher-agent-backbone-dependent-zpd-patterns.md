@@ -51,3 +51,4 @@ Teacher-agent comparisons from the same preliminary lesson study across five bac
 - [Expert evaluation finds larger, more capable LLM backbones produce higher-quality multi-domain graphs, with GPT-5 pro rated best](llm-backbone-graph-quality-expert-evaluation.md) — related
 - [In pairwise LLM-judge comparisons PsyScore-AEF wins over 90% in Actionability against GPT-4o and Llama, and removing the psychometric module reduces Adaptivity and Tone wins with PsyScore retaining above 75%](psyscore-feedback-actionability-win-rates.md) — related
 - [DeepTutor improves overall first-person interactive tutoring quality by 10.76% over a Naive Tutor baseline on TutorBench](deeptutor-improves-interactive-tutoring-quality-10-76.md) — related
+- [The SplashLearn Math review found alignment with student agency and gamification principles, including ZPD-based adaptivity](splashlearn-agency-gamification-alignment.md) — related

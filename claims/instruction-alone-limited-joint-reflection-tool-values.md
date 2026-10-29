@@ -60,3 +60,4 @@ The editorial describes the Eshuis et al. study of vocational students across th
 - [Presence versus absence of individual scaffolding types did not support the added-value hypothesis, but scaffolding combinations partly did](scaffolding-added-value-partly-supported.md) — related
 - [Learners who reflected collaboratively on their prior collaboration gained more knowledge about effective collaboration than learners guided by an external collaboration script or unsupported learners](reflection-scaffold-beats-script-collaboration-knowledge.md) — related
 - [The online space intended to motivate production and critique was not well utilized in Year 1](youmedia-online-space-underutilized.md) — related
+- [Meta-analysis finds collaboration, computer use, and learning environments/tools/scaffolds each have significantly positive effects on knowledge acquisition in CSCL](chen-2018-meta-analysis-cscl-positive-effects.md) — related

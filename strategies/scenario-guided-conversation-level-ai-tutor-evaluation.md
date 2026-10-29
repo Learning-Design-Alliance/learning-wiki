@@ -43,6 +43,7 @@ The report describes a reusable evaluation strategy: curate a bank of 49 structu
 ## Related Strategies
 
 - [Use simulated student profiles (expected path, struggling learner, off-topic input) as test scenarios for AI tutor QA](simulated-student-profile-test-scenarios.md)
+- [Evaluate chatbot-based digital tutors in real field settings rather than only laboratory experiments](field-evaluation-of-digital-tutors.md)
 
 ## Examples
 -

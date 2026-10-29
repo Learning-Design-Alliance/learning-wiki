@@ -48,3 +48,4 @@ Systematic review of 105 peer-reviewed items (2010-2019) identified via the Scho
 - [Brain drain is a prominent critique of human capital scholarships: graduates may take needed skills elsewhere](brain-drain-critique-scholarships.md) — a narrower finding that bears on this claim
 - [Conflated program rationales can place competing and unrealistic expectations on scholarship students](competing-rationales-burden-students.md) — related
 - [Diplomatic rationale frames scholarships as cultivating well-disposed future leaders to strengthen bilateral relations](diplomatic-rationale-opinion-leaders.md) — related
+- [Types of agency interact at micro, meso and macro levels, and their combination expresses agency at increasing scales](agency-interaction-micro-meso-macro.md) — related

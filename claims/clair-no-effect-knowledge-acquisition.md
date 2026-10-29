@@ -50,3 +50,4 @@ Independent samples t-test on individual post-test scores (maximum 10) with cond
 - [Clair did not significantly increase deepening of reasoning (Goal 3), with the What-if talk move rarely triggered](clair-no-effect-deepening-reasoning.md) — related
 - [Experimental and control groups did not differ significantly on pre-test NOS or SK scores](pretest-equivalence-noss-sks-groups.md) — related
 - [Students in all three conditions learned significantly from the CSCL environment, with significant pretest-to-posttest gains in each condition](all-conditions-learned-from-cscl-environment.md) — reports the opposite
+- [EMME-guided and unguided video groups did not differ significantly on post-test knowledge scores](emme-no-posttest-knowledge-difference.md) — related

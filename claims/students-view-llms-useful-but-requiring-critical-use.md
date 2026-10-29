@@ -70,3 +70,4 @@ Questionnaire with five-point Likert scales and open-text feedback in both user-
 - [A student-facing chatbot was pulled after it reinforced a student's self-deprecating views about math, illustrating substantial risk of direct AI engagement with students](student-facing-chatbot-toxicity-risk.md) — related
 - [ChatGPT users report fabricated references and wrong sources from auto-generated literature content](chatgpt-fabricated-references-wrong-sources.md) — related
 - [Instructional designers' main challenges with ChatGPT are output quality (53.8%), tool limitations (42.3%), and faculty unpreparedness (3.8%)](id-chatgpt-challenges-output-quality-tool-limits.md) — related
+- [Students were often overconfident about their understanding of how to give peer feedback after chatbot instruction](chatbot-peer-feedback-overconfidence.md) — related

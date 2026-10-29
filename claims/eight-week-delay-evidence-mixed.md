@@ -65,4 +65,4 @@ The commentary reports a null result from classroom science studies of retrieval
 
 
 ## Related Claims
--
+- [Differences between training devices were negligible on six-to-eight-week delayed recall](delayed-recall-negligible-across-training-devices.md) — related

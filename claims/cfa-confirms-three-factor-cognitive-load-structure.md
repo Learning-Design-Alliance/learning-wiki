@@ -9,6 +9,7 @@ generated:
   at: 2026-10-22
 evidence_strength: moderate
 newest_evidence: 2023
+source_checked: 2026-10-29
 sources:
   - id: krieglstein-2023
     resource: "https://doi.org/10.1007/s10648-023-09738-0"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r3` · `q2`
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · checked against its sources 2026-10-29 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In Study 2 (n = 158), the a priori three-factor model showed acceptable fit (CFI = 0.92; RMSEA = 0.10; GFI = 0.92; SRMR = 0.07) with all items loading on their intended factor. [→ Krieglstein 2023](#krieglstein-2023)
@@ -69,3 +70,5 @@ Convergent validity check in Study 2 correlating the proposed instrument with th
 - [The revised questionnaire shows satisfactory internal consistencies for each cognitive load type across Studies 1 and 2](cognitive-load-questionnaire-satisfactory-internal-consistencies.md) — related
 - [The DIGISOC questionnaire shows acceptable validity and reliability, including CFA data and favorable Cronbach's alpha coefficients](digisoc-acceptable-validity-reliability.md) — related
 - [Confirmatory factor analysis with 448 secondary students showed the 32-item SAICS measurement model has good fit and high validity and reliability](saics-cfa-good-model-fit-448-students.md) — related
+- [The faculty readiness scale required two model modifications (a cross-loading item and two residual correlations) to reach adequate fit](genai-rp-faculty-readiness-modified-model.md) — related
+- [The student GenAI-RP readiness scale shows a validated three-factor structure: GenAI Comprehension, Ethical Awareness, and GenAI Utilization and Proficiency](genai-rp-student-readiness-three-factors.md) — related

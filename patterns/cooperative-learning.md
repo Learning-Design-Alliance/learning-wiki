@@ -30,7 +30,7 @@ sources:
 # Cooperative Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 40 claims (21 for, 19 mixed) · 37 studies (13 quant-synthesis, 7 causal, 6 review, 6 design, 2 associational, 2 theoretical, 1 qualitative), `q1`–`q4` · 14 of 37 report an effect size · 32 claims rest on one study
+> **Evidence** · 41 claims (22 for, 19 mixed) · 38 studies (13 quant-synthesis, 7 causal, 6 review, 6 design, 3 theoretical, 2 associational, 1 qualitative), `q1`–`q4` · 14 of 38 report an effect size · 33 claims rest on one study
 
 ## Description and scope
 
@@ -145,6 +145,7 @@ This pattern is scoped to small-group work where each member's individual learni
 - [Intervention schools showed significantly higher observed positive interdependence in classrooms than control schools](../claims/cooperative-learning-fidelity-positive-interdependence-observed.md) [+W]
 - [High-school students in cooperative learning appear on-task about 60% of the time, off-task 11%, and idle 13%](../claims/on-task-60-percent-cooperative-learning.md) [~W]
 - [Pre-to-post gains in cooperative science learning occur for listing cell organelles (d = 0.70) but not for describing their functions](../claims/structure-gains-not-function-gains.md) [~W]
+- [Structuring means interdependence via Jigsaw in Minecraft increased learning outcomes and invested mental effort but not perceived cognitive load](../claims/jigsaw-interdependence-mental-effort.md) [+W]
 
 ## Related Patterns
 

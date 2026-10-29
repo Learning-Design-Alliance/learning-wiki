@@ -14,7 +14,7 @@ grain_size: course
 # Successive Approximation Model (SAM)
 
 > **Design Process** · [All design processes](index.md)
-> **Evidence** · 7 claims (5 for, 1 mixed, 1 against) · 13 studies (4 quant-synthesis, 3 review, 2 causal, 2 design, 2 theoretical), `q1`–`q4` · 4 of 13 report an effect size · 4 claims rest on one study
+> **Evidence** · 8 claims (6 for, 1 mixed, 1 against) · 14 studies (4 quant-synthesis, 3 review, 2 causal, 2 design, 2 theoretical, 1 qualitative), `q1`–`q4` · 4 of 14 report an effect size · 5 claims rest on one study
 
 ## Description
 SAM is an iterative design process for courses, formulated by Michael Allen as an explicit alternative to running [ADDIE](systematic-instructional-design.md) as a waterfall. Its argument is empirical rather than philosophical: the phases of a systematic process are all sound, but performing each one *completely* before starting the next means the first real evidence about whether the design works arrives after the budget is spent.
@@ -68,6 +68,7 @@ Where the scope itself is unsettled, SAM is the wrong tool and [Design Thinking]
 - [The prototyping exercise promoted exchange of ideas for HLC development and enhanced a shared image of the HLC among team members](../claims/prototyping-exercise-promotes-idea-exchange-shared-image.md) [+W]
 - [Scheduled design cycles and peer review most successfully evoked iteration; the resources message and chat sessions were less successful](../claims/scheduled-cycles-and-peer-review-evoked-iteration-most.md) [+W]
 - [Waterfall-like design spaces are inadequate for AIEd because adaptable systems have untestable states](../claims/waterfall-design-inadequate-for-aied.md) [+W]
+- [Experts describe reliance on linear, systematic ID process models as a risk that can suppress rather than foster creative thinking](../claims/linear-id-models-suppress-creativity.md) [+W]
 
 #### Supporting
 - [Feedback is most effective when directed at the task and process rather than the self.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S] — the standard each review cycle has to meet

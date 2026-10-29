@@ -80,3 +80,4 @@ Dependent-samples comparison of correlations on the same 32 tasks: the mental-ef
 - [Students invest more mental effort in paper-based questions than in equivalent computer-based questions](greater-mental-effort-paper-questions.md) — related
 - [Learning biologically primary words is perceived as less difficult and less effortful than learning biologically secondary words](primary-words-less-difficulty-effort.md) — related
 - [The four exam subjects differed in perceived task difficulty, cognitive load, and strategy use, with Mathematics and the profile subject rated more difficult than English](exam-subjects-differ-difficulty-load-strategies.md) — related
+- [Structuring means interdependence via Jigsaw in Minecraft increased learning outcomes and invested mental effort but not perceived cognitive load](jigsaw-interdependence-mental-effort.md) — related

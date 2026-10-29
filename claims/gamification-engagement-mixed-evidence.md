@@ -49,3 +49,4 @@ The review reports, citing included studies, evidence "for gamification having t
 - [Quizizz-based gamification improved word memorization over traditional methods for intermediate learners](quizizz-gamification-better-memorization.md) — related
 - [Gamification has small positive effects on cognitive, motivational and behavioral learning outcomes](gamification-has-small-positive-effects-on-learning-outcomes.md) — a broader claim this one bears on
 - [Findings on gender differences in engagement with adaptive learning platforms are mixed, with some studies showing higher engagement among girls and others among boys](gender-engagement-adaptive-platforms-mixed.md) — related
+- [The SplashLearn Math review found alignment with student agency and gamification principles, including ZPD-based adaptivity](splashlearn-agency-gamification-alignment.md) — related

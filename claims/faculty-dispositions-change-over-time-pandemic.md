@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: moderate
 newest_evidence: 2023
+source_checked: 2026-10-29
 sources:
   - id: sarah-k-howard-2023
     resource: "https://doi.org/10.1007/s11423-023-10211-6"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · checked against its sources 2026-10-29 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Patterns of faculty dispositions and uses of technological affordances for online learning differed across two survey time periods during COVID-19, suggesting conditions that enable or hinder competency development. [→ Sarah K. Howard 2023](#sarah-k-howard-2023)
@@ -49,3 +50,6 @@ The preface summarizes two worldwide surveys of higher education faculty adminis
 - [COVID-19 accelerated professional knowledge exchange (CK and PCK) in the L-PLC WhatsApp discourse, with tags significantly higher in pandemic cohorts](covid-accelerated-ck-pck-whatsapp-exchange.md) — related
 - [Teachers of lower-SES students were less likely to have previous online teaching experience and reported the transition to remote instruction as more challenging](ses-gap-teacher-online-experience-transition.md) — related
 - [The Covid-19 pandemic increased the design workload of university teachers as they migrated teaching online](pandemic-increased-design-workload-online-migration.md) — related
+- [Faculty enthusiasm for online teaching declined from the acceleration phase to the stasis phase across all profiles](enthusiasm-declined-across-profiles-over-time.md) — a narrower finding that bears on this claim
+- [During the pandemic acceleration phase, higher education faculty fell into four distinct online-teaching profiles (Cautious, Open, Optimistic, Enthusiastic) differing in enthusiasm, resolutions, and perceived support](four-faculty-profiles-acceleration-phase-online-teaching.md) — a narrower finding that bears on this claim
+- [The factors underpinning faculty online-teaching profiles shifted over the pandemic: internal dispositions dominated at Snapshot 1, while perceived institutional support and enthusiasm dominated at Snapshot 2](institutional-support-became-strong-predictor-over-time.md) — a narrower finding that bears on this claim

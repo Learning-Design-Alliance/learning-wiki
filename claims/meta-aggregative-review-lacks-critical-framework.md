@@ -48,3 +48,4 @@ The author's critical assessment of the reviewed meta-aggregative review, identi
 ## Related Claims
 - [Liberatory ideas are implicitly embedded in the TPD for OBL framework](liberatory-ideas-embedded-in-tpd-for-obl-framework.md) — related
 - [The Philipsen et al. framework of TPD components for online and blended learning is biased toward higher education settings](philipsen-framework-higher-education-bias.md) — related
+- [Seven responses to Philipsen et al.'s study offer valuable ideas and guidelines for developing TPD for OBL in times of crisis](seven-responses-apply-tpd-obl-framework-in-crisis.md) — related

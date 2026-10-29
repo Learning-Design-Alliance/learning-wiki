@@ -47,3 +47,4 @@ Analysis of publication counts by year and database (Figure 1) across the 13,507
 ## Related Claims
 - [AI ethics research shows a pronounced acceleration in publications after 2021, with nonlinear accelerating growth rather than linear development](ai-ethics-publications-accelerate-after-2021.md) — related
 - [NQG publications grew each year from 2016 to 2021, indicating the topic remains open](nqg-publication-growth-2016-2021.md) — related
+- [Teaching-machine research publications rose yearly from 1948 to 1959, with six references prior to 1948](teaching-machine-publications-rising-1948-1959.md) — related

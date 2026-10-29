@@ -51,3 +51,4 @@ Static Bayesian LME model relating same-wave TI values to concurrent normalized 
 - [Outcome-related inter-brain coupling is frequency-specific: theta for Math and alpha for Chinese, with no significant correlations in the beta bands](frequency-specificity-interbrain-coupling.md) — related
 - [Theta-band student-class coupling during Math classes is positively correlated with Math final exam scores](theta-student-class-coupling-math-scores.md) — related
 - [Single-brain EEG features (relative frequency-band power) do not correlate significantly with disciplinary final exam scores](single-brain-power-null-correlation.md) — related
+- [Relaxation-index and EEG-power-based coupling analyses show no significant correlations with academic performance](relaxation-and-eeg-power-null-correlations.md) — related

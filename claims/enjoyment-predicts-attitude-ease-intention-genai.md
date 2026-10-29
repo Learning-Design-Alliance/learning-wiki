@@ -62,3 +62,4 @@ PLS-SEM bootstrapped path analysis of a cross-sectional convenience-sample surve
 - [Ghanaian pre-service science teachers show positive attitudes, perceived behavioural control, and behavioural intentions toward AI](positive-attitudes-pbc-intentions-ai-pre-service-teachers.md) — related
 - [Novelty-phase on-task enjoyment is positively associated with task performance, while working-phase enjoyment is not](novelty-enjoyment-predicts-performance.md) — related
 - [Perceived ease of use positively influenced attitudes toward using the AVDS tool](peou-positive-impact-attitude-avds.md) — related
+- [Perceived usefulness, attitude, and behavioral intention form a significant TAM pathway predicting GenAI adoption among law students](tam-pathway-genai-adoption-law-students.md) — related

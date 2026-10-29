@@ -55,3 +55,4 @@ The review's synthesis identifies "the second-level digital divide, which relate
 - [Hispanic and low-income students reported more challenges and technology problems after the shift online than non-Hispanic White and higher-income peers; rural students did not differ](equity-gaps-online-transition-challenges.md) — related
 - [Technology access problems during the COVID shift were more prevalent among minoritized students and students from lower-income households](covid-stem-tech-access-inequity.md) — related
 - [Family–school partnerships are empirically linked to children's academic success (as the review states the background evidence)](family-school-partnerships-linked-academic-success.md) — related
+- [The usage gap in online resources, marked by gender, educational level and age, has profound impact on social inequality](usage-gap-profound-impact-social-inequality.md) — related

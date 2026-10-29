@@ -57,3 +57,4 @@ Authors' interpretation of the session-level clustering results, in which shallo
 - [GenAI's default output on a take-home exam question remained at the quantitative, multistructural SOLO phase, producing polished but pedagogically thin responses](genai-default-output-multistructural-pedagogically-thin.md) — related
 - [Students' GenAI prompts overwhelmingly exact-copy instructions and request information rather than review](genai-prompts-exact-copy-and-information-requests.md) — reports the opposite
 - [Guest-mode usage dominates lightweight help-seeking, raising an equity concern that students without metacognitive support stay at shallow answer lookup](guest-mode-equity-metacognitive-labor.md) — related
+- [In a four-month field study, students used the digital tutor extensively, initiating over 37,000 sessions and solving more than 80,000 formative questions](digital-tutor-field-study-high-usage.md) — related

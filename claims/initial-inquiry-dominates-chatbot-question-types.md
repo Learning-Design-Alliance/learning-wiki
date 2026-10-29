@@ -86,3 +86,4 @@ Within the Follow-Up Inquiry macro-category (26.4%, n = 746), the most common be
 - [A small subset of question types accounts for the majority of student inquiries to AI, with Assertion the most frequent category in both CS2 sessions](few-question-types-dominate-student-ai-inquiries.md) — related
 - [Guest-mode usage dominates lightweight help-seeking, raising an equity concern that students without metacognitive support stay at shallow answer lookup](guest-mode-equity-metacognitive-labor.md) — related
 - [Students treated the genAI avatar as a sophisticated question base rather than a virtual patient, using predominantly closed-ended, efficiency-focused questioning](genai-avatar-treated-as-question-base.md) — related
+- [Case analysis assistance and Socratic dialogue simulation dominated GenAI usage, and dialogue-based interaction patterns were associated with better outcomes than passive use](genai-usage-patterns-dialogue-effective.md) — related

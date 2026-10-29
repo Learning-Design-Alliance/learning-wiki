@@ -66,7 +66,7 @@ sources:
 # Signaling Principle
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 34 claims (17 for, 16 mixed, 1 against) · 28 studies (11 causal, 11 review, 4 quant-synthesis, 1 qualitative, 1 theoretical), `q1`–`q4` · 8 of 28 report an effect size · 30 claims rest on one study
+> **Evidence** · 35 claims (18 for, 16 mixed, 1 against) · 29 studies (12 causal, 11 review, 4 quant-synthesis, 1 qualitative, 1 theoretical), `q1`–`q4` · 9 of 29 report an effect size · 31 claims rest on one study
 
 ## Conditional relationship
 
@@ -177,6 +177,7 @@ Each question below links a general claim that gathers the studies behind it int
 - [Advance organizers produce a small average learning benefit, larger for high-ability learners](../claims/advance-organizers-improve-learning.md) [~S]: the organizer, a neighbour of the overview signal, owned by [Clear Structure](clear-structure.md).
 - [In one experiment, students who generated their own underlining did not score significantly higher than students given experimenter underlining](../claims/experimenter-underlining-effective-as-student-underlining.md) [~M].
 - [Instructor signaling enhanced knowledge acquisition as perceived difficulty increased for research designs](../claims/instructor-signaling-knowledge-high-difficulty.md) [+W] — attached 2026-10-28 from Reuter et al. (2025), which proposed "Use instructor cues such as pointing gestures and gaze shifts when teaching complex content"; tests this page's relationship.
+- [Fading the signaling elements after the fourth video preserved a significant performance advantage in the second half of training](../claims/fading-signaling-preserves-second-half-advantage.md) [+M] — attached 2026-10-29 from Neslihan Yondemir Çalişkan (2025), which proposed "Backward fading of expert guidance signals as novices gain expertise"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

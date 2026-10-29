@@ -30,7 +30,8 @@ Stealth assessment is an approach in which measurement of a skill is woven into 
 - [In a controlled evaluation with 268 ninth-grade students, embedding elaborated feedback in the ACED system did not impair assessment quality and produced significantly greater learning than a control group](../claims/aced-feedback-unimpaired-assessment-greater-learning.md) [+M]
 
 ## Related Research Methods
--
+
+- [Objective distance (OD) model for real-time competency measurement](objective-distance-od-model-for-real-time-competency-measurement.md)
 
 ## Key Sources
 - Melissa E. DeRosier, Ashley B. Craig, and Rebecca P. Sanchez. (2012). Zoo U: A Stealth Approach to Social Skills Assessment in Schools. Advances in Human-Computer Interaction. https://doi.org/10.1155/2012/654791

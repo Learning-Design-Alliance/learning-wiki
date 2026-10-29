@@ -48,3 +48,4 @@ EEG multilevel regression planned contrast within the classroom study. Students 
 - [Student attention, indexed by occipital alpha power, is lower during teacher-initiated activities (lecture, video) than student-initiated activities (group work, independent work) in a college classroom](alpha-power-lower-teacher-initiated-than-student-initiated.md) — a broader claim this one bears on
 - [Time-related changes in attention within activities occurred only during independent work, not across the other activities](time-effect-only-independent-work.md) — related
 - [Posterior alpha power is higher during idle and off-task states than during on-task states in cooperative learning](alpha-higher-idle-offtask-than-ontask.md) — related
+- [Single-brain attention levels are also significantly higher during lectures than meditation, supporting the device's sensitivity](attention-level-higher-lecture-than-meditation.md) — related

@@ -13,7 +13,7 @@ generated:
 # Social Presence
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 42 claims (28 for, 13 mixed, 1 against) · 35 studies (8 review, 7 causal, 6 qualitative, 5 associational, 5 design, 2 quant-synthesis, 2 theoretical), `q1`–`q3` · 4 of 35 report an effect size · 39 claims rest on one study
+> **Evidence** · 43 claims (29 for, 13 mixed, 1 against) · 36 studies (8 review, 7 causal, 6 qualitative, 5 associational, 5 design, 3 theoretical, 2 quant-synthesis), `q1`–`q3` · 4 of 36 report an effect size · 40 claims rest on one study
 
 ## Conditional relationship
 
@@ -120,6 +120,7 @@ Claims and sources this page touches that have not been read against the model a
 - [A program-wide standard online course template heightens teaching presence and supports learner intentions in accelerated online courses](../claims/course-template-supports-learner-presence.md) [+W] — read 2026-10-15: about teaching presence and course organisation (the authors' interpretation, one MBA programme), not social presence; it bears on [Community of Inquiry](community-of-inquiry.md) and [Online Course Design](../patterns/online-course-design.md) rather than on this model.
 - [In an online case-based course, students perceive cognitive presence as highest and least variable, and teaching presence as the most variable](../claims/cognitive-presence-highest-least-variable-online-cbi.md) [~W] — read 2026-10-15: descriptive ratings from the same 47-student survey as the metacognition claim above; it describes how the CoI presences were rated and predicts nothing about participation or learning, so it does not enter the model.
 - [Danmaku interaction is predominantly socio-emotional while discussion-board interaction tilts cognitive, and the tools share only four content categories](../claims/danmaku-socio-emotional-vs-board-cognitive-categories.md) [+W] — attached 2026-10-18 from Bo Yang (2024), which proposed "Combine danmaku with discussion boards so MOOC environments serve both large-community connectedness and small-group exchange".
+- [Asynchronous video communication and feedback enhance social presence and helped sustain engagement and connections between socially isolated faculty and students during the COVID-19 shift online](../claims/asynchronous-video-enhances-social-presence-covid.md) [+W] — attached 2026-10-29 from Regina Kaplan-Rakowski (2021), which proposed "During times of crisis, educators should prioritize emotional support and wellness over instructional efficiency, shifting to a more affective approach such as video for communication and feedback"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

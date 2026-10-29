@@ -46,6 +46,7 @@ The review derives four research and design recommendations for advancing autono
 - [Prioritise longitudinal validation, pedagogical grounding, governed adoption of agent infrastructures, and ethics with human oversight in educational agentic AI research](agentic-ai-education-future-priorities.md)
 - [Advance AI-motivation research through theory-driven, pedagogically explicit, longitudinal designs covering broader motivational constructs](future-ai-motivation-research-recommendations.md)
 - [Study effort regulation in real-world, personally relevant contexts over longer timeframes, including via ecological momentary assessment](study-effort-regulation-real-world-contexts.md)
+- [Advance learning analytics for study success through standardised measures, multimodal data, theory-informed practice, and large-scale longitudinal experimental designs](la-future-design-recommendations.md)
 
 ## Examples
 -

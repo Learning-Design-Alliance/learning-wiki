@@ -54,3 +54,4 @@ The commentary reports Bennett et al.'s qualitative study of 30 instructors at 1
 - [A qualitative study of 30 university teachers reported three design practices that are incremental and iterative](three-incremental-iterative-design-practices-university-teachers.md) — related
 - [The reported teacher design process is not specifically for online learning design, but may inform best practices for supporting faculty's online learning design](design-process-not-specific-to-online-learning.md) — related
 - [University instructors' design process did not appear to draw on instructional design models](instructors-design-not-draw-on-id-models.md) — related
+- [Bennett and colleagues' findings suggest designing for efficiency, broad consideration of specific details, and iterative design-and-refining processes in university teachers' design work](bennett-design-efficiency-detail-refining.md) — related

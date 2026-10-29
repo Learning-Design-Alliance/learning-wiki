@@ -72,3 +72,4 @@ Review reports correlational evidence on perceived assessment appropriateness an
 - [Student-centred learning environments show mixed effects on students' approaches to learning, with several studies reporting increased surface or decreased deep approaches](student-centred-environments-mixed-effects-approaches.md) — related
 - [Deep approaches to learning correlate positively and surface approaches negatively with academic achievement](deep-approach-positive-surface-negative-correlation.md) — related
 - [Student teachers' beliefs about sources of knowledge predict their learning approaches and motivation in teacher education](source-of-knowledge-beliefs-predict-learning-approaches.md) — related
+- [Traditional rote-memorization exams became infeasible during online teaching, and teachers moved toward practices resembling authentic assessment](rote-exams-infeasible-authentic-assessment-shift.md) — related

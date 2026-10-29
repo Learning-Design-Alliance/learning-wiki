@@ -50,3 +50,4 @@ The study evaluated acceptability of television instruction to Naval Air Reservi
 - [Live television and television recordings were superior to local instructors in teaching Naval Air Reservists.](tv-instruction-superior-to-local-instructors-naval-reservists.md) — related
 - [Live television and television recordings were about equal in their instructional effectiveness.](live-tv-and-tv-recordings-about-equal-effectiveness.md) — related
 - [Participating artists reported the method avoided the pressure of live TV and the tedium of film production](artist-enthusiasm-for-closed-circuit-recording.md) — related
+- [Reservists accepted TV instruction, more than half preferring it to conventional classroom instruction](reservists-preferred-tv-to-classroom.md) — related

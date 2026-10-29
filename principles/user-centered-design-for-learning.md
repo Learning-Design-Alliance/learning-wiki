@@ -19,7 +19,7 @@ sources:
 # User-Centered Design for Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 25 claims (14 for, 10 mixed, 1 against) · 22 studies (9 design, 6 causal, 4 qualitative, 1 quant-synthesis, 1 review, 1 associational), `q1`–`q4` · 3 of 22 report an effect size · 24 claims rest on one study
+> **Evidence** · 27 claims (15 for, 11 mixed, 1 against) · 24 studies (11 design, 6 causal, 4 qualitative, 1 quant-synthesis, 1 review, 1 associational), `q1`–`q4` · 3 of 24 report an effect size · 26 claims rest on one study
 
 ## Conditional relationship
 
@@ -127,6 +127,7 @@ Read against the model on 2026-10-19; these three are relevant but do not change
 - [91% of UAT participants rated the Taklif.AI user interface as intuitive](../claims/uat-91-percent-rate-interface-intuitive.md) [+W]: one user acceptance test of 68 participants in sessions of about 12 minutes; 62 of 68 scored the interface item 4 or above. No comparison and no learning outcome; a share above a cut-off reports neither the spread nor who failed a task, so it adds nothing step 8 does not already ask for.
 - [The Bloom classification UI shows low perceived workload and high usability in a 50-participant user study](../claims/bloom-ui-low-workload-high-usability.md) [+W]: 50 online participants rating a question-classification tool for course authors after 10 minutes; low self-reported workload and a mean SUS of 78.2 (SD 14.07). Users are course authors, not learners, and there is no comparison, so it does not bear on the learner-facing relationship.
 - [The authors argue partnership in course design is a promising avenue for LIS educators to begin decolonizing classroom hierarchies](../claims/partnership-decolonizing-classroom-hierarchies.md) [+W]: the authors' concluding argument, with no data in the article, about students as partners in designing a course's curriculum. It shares the stance of designing with users (step 2) but concerns curriculum, not the interface, and tests nothing.
+- [Integrating the IDSA into an existing learning management system limited usability, as the platform predefined frontend structure and navigation](../claims/idsa-lms-integration-usability-tradeoff.md) [~W] — attached 2026-10-29 from Karrenbauer et al. (2023), which proposed "Multi-functionality in a digital study assistant must not come at the expense of the depth and content of individual functionalities".
 
 ## Objective and learner-valued goal
 
@@ -145,6 +146,7 @@ Rated usability, task success, understanding of what a screen shows, and learnin
 - [Students report no usability issues with the formative assessment tool (ASQ means 5.2–5.5)](../claims/students-report-no-usability-issues-asq.md) [~W]
 - [Formative evaluation by staff and students rated the MOLH positively on usability, content, and engagement.](../claims/molh-formative-evaluation-positive-ratings.md) [~W]
 - [User experience challenges include poor matching, inadequate scaffolding, and suboptimal interface design](../claims/user-experience-challenges-srl-recommenders.md) [+W]
+- [First-level participant feedback found the iThinkSmart prototype engaging but flagged movement, navigation, graphics, and device-support issues for improvement](../claims/ithinksmart-prototype-feedback-themes.md) [+W]
 
 ## Related Principles
 - [Scaffolding and Fading](scaffolding-and-fading.md) — both concern how much support structure a learner needs and when it should be reduced, though scaffolding targets content mastery while UCD targets interface usability

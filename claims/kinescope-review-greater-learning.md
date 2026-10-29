@@ -70,3 +70,4 @@ Aptitude analysis of the kinescope review comparison for low- and high-aptitude 
 - [Kinescope recordings of television instruction were equally effective as regular instruction](kinescope-recordings-equally-effective.md) — related
 - [Television instruction was more effective for lower-aptitude trainees](tv-instruction-more-effective-lower-aptitude.md) — related
 - [Television instruction was remembered at least as well as regular instruction after one month](tv-instruction-retention-comparable-army-basic.md) — related
+- [College students taught by television compared favorably with those receiving regular instruction, with attitudes differing only for the on-campus television group](televised-instruction-compared-favorably-college.md) — related

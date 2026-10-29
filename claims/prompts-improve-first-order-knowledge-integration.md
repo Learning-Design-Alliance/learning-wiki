@@ -92,3 +92,4 @@ Follow-up ANOVA on the integrative measure elaborations across domains in the sa
 - [Reflective Practice Improves Outcomes When Structured](reflective-practice-improves-outcomes-when-structured.md) — related
 - [Pre-reading relevance instructions did not change reading time on sentences targeted by the questions](no-reading-time-difference-targeted-sentences.md) — related
 - [Integration prompts improve structural integration of knowledge across professional domains in pre-service teachers' mental models](integration-prompts-improve-structural-integration-teacher-knowledge.md) — related
+- [Combined instructional and relevance prompts increase pre-service teachers' perceived relevance of knowledge integration over time, while relevance prompts alone and no prompts do not](combined-prompts-increase-perceived-relevance-of-integration.md) — related

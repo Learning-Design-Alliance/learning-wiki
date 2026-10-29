@@ -53,3 +53,4 @@ Descriptive subscale results from the same pilot (N = 22). Engagement (Cronbach'
 - [In a small pilot of one AI pipeline's educational interactive fiction, the dominant free-text criticism was the artificial in-fiction motivation for quiz prompts](artificial-in-fiction-quiz-motivation-dominant-criticism.md) — related
 - [Students in both panels were generally positive about the creative writing unit's instructional design, with only two items scoring below neutral and a group difference on one scale](students-positive-creative-writing-unit-design.md) — related
 - [Self-reported perceived quality is largely decoupled from quiz performance in AI-generated educational interactive fiction](if-quality-ratings-decoupled-from-quiz-performance.md) — related
+- [No significant effects of condition or gender on task relevance at any measurement point](no-condition-gender-effect-task-relevance.md) — related

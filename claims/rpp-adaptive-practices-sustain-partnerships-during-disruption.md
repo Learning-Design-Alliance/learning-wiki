@@ -73,3 +73,4 @@ This is the weakest-evidence claim in this ingest batch: a qualitative synthesis
 - [RPP workshops on concrete equity mechanisms influenced instructor practice within one term](rpp-equity-workshops-influenced-instructor-practice.md) — related
 - [Direct SMS communication with healthcare workers strengthened patient-provider relationships and trust](sms-communication-strengthens-patient-provider-relationships.md) — a narrower finding that bears on this claim
 - [Practitioner involvement was high in design and implementation but less so in knowledge production](practitioner-involvement-high-in-design-less-in-knowledge-production.md) — related
+- [The authors argue researchers should collaborate more closely with teachers, administrators, and other practitioners in tackling educational problems](collaborate-closely-with-practitioners.md) — related

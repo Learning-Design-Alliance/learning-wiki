@@ -50,3 +50,4 @@ Non-linear mixed effect model (Poisson) fitted per user on all landing-task samp
 ## Related Claims
 - [Number line estimation error increases more strongly for children with cochlear implants when the range extends from 0–100 to 0–1000](ci-number-line-place-value-range-interaction.md) — related
 - [Both numerical training conditions improve magnitude processing more than a story-understanding control condition](numerical-magnitude-training-beats-control.md) — related
+- [Game-based and non-game-based number line estimation training produced statistically indistinguishable pretest-to-posttest learning gains in fraction magnitude understanding](game-elements-no-differential-learning-gains-number-line.md) — related

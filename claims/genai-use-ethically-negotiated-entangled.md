@@ -58,3 +58,4 @@ Focus-group analysis of one participant (Howard, arts/psychology) within a study
 - [Qualitative narratives reveal temporal guilt patterns, authenticity concerns, and skill-atrophy fears among academics using AI](ai-guilt-qualitative-themes.md) — related
 - [Evidence on LLM-based family education remains limited across families and educational purposes, especially on sustained personalization, repair labor, and negotiation of authority and rules](llm-family-education-evidence-gaps.md) — related
 - [Neither ecological theory nor CHAT alone fully captures ethical AI use in education](neither-framework-alone-captures-ethical-ai-use.md) — related
+- [Professional agency involves responsibility to do instructional design well and ethically, entangled with credential status and identity concerns](professional-agency-identity-credentials.md) — related

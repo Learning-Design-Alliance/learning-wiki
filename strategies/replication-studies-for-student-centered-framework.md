@@ -46,6 +46,7 @@ Among the six commentaries, "Edyburn provides a research perspective encouraging
 - [Conduct readiness checks and align systems to local student need before replication, expansion, or merger](readiness-check-before-replication-expansion.md)
 - [Use OLSit-based project-based learning as an alternative to replicating direct instruction remotely](olsit-pbl-alternative-remote-direct-instruction.md)
 - [Develop case examples showing how the OLSit framework solves different instructional problems in different contexts](case-examples-for-olsit-framework-across-contexts.md)
+- [Implement the own-it, learn-it, share-it guidelines through the shift to digital learning](shift-to-digital-implementation-of-scl-framework.md)
 
 ## Examples
 -

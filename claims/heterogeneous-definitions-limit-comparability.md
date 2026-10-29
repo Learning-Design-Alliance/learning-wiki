@@ -46,3 +46,4 @@ Findings from the review's RQ1 coding of 33 studies, in which classification was
 
 ## Related Claims
 - [Prior non-LLM automated coding approaches yielded variable and often lower agreement with human coders on teacher knowledge measures, especially PCK](prior-automated-coding-variable-lower-agreement-pck.md) — related
+- [Owning, learning, and sharing knowledge need to be reinterpreted in light of cultural differences when the own-it, learn-it, share-it framework is adopted internationally](owning-learning-sharing-cultural-reinterpretation.md) — related

@@ -49,3 +49,4 @@ Narrative review reporting the Face Reader software's stated 89% accuracy for si
 - [Detection-oriented emotion AI faces contextual under-interpretation: emotional signals lack stable meanings independent of person, task, culture, and situation](contextual-under-interpretation-emotion-ai.md) — reports the opposite
 - [In a within-subject user study, participants showed longer positive facial expressions under the emotion-aware (Emotion ON) tutoring condition](emotion-on-longer-positive-facial-expressions.md) — related
 - [Recurrence indicators (gaze, lexical, emotional) predicted collaborative learning process measures but not learning performance](recurrence-indicators-predict-process-not-performance.md) — related
+- [EATS detected disgust with lower agreement (90%) than other basic emotions, highlighting a limitation of facial-expression-only measurement](eats-disgust-lower-agreement-limitation.md) — related

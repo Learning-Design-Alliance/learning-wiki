@@ -49,6 +49,7 @@ The chapter recommends that schools build systems for monitoring student data so
 - [Attend to both SEL status and SEL growth when identifying students who may need supports to stay on track to graduate](use-both-sel-status-and-growth-for-early-warning.md)
 - [Use dropout among siblings and same-age intimates as risk markers to target prevention resources and monitoring](target-prevention-via-network-dropout-markers.md)
 - [Use the system's student data analysis to let teachers monitor class progress and mistakes at scale](teacher-monitors-class-progress-via-its-data.md)
+- [Build APLE features that let students choose learning goals and receive indicator-based guidance, plus an early warning system for students at risk of failing](goal-choice-features-and-early-warning-system.md)
 
 ## Examples
 -

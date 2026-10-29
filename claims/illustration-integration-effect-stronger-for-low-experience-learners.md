@@ -47,3 +47,4 @@ In the lightning-text experiments with college students, the authors report the 
 ## Related Claims
 - [College students who study integrated annotated illustrations alongside science text generate approximately 50% more creative solutions on transfer problems than students who view the same illustrations separately after reading](integrated-illustrations-increase-creative-transfer-solutions.md) — related
 - [Instructional guidance that helps novices can become redundant or counterproductive as expertise grows.](expertise-reversal-effect.md) — a broader claim this one bears on
+- [The review draws on Mayer and colleagues' generative theory of textbook design using annotated illustrations to foster meaningful learning of science text](multimedia-learning-review-cites-generative-theory-textbook-design.md) — a broader claim this one bears on

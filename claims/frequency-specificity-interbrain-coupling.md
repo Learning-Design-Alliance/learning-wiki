@@ -52,3 +52,4 @@ Summary correlational analysis across four frequency bands (theta, alpha, low-be
 - [Theta-band student-class coupling during Math classes is positively correlated with Math final exam scores](theta-student-class-coupling-math-scores.md) — a narrower finding that bears on this claim
 - [Within-student increases in high-beta student-teacher inter-brain coupling predict subsequent improvement in both Chinese and math scores](high-beta-coupling-increase-predicts-score-improvement.md) — related
 - [Static same-wave student-teacher inter-brain coupling is negatively associated with concurrent math performance](static-coupling-negative-math-association.md) — related
+- [Relaxation-index and EEG-power-based coupling analyses show no significant correlations with academic performance](relaxation-and-eeg-power-null-correlations.md) — related

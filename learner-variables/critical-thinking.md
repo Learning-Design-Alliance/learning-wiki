@@ -13,7 +13,7 @@ generated:
 # Critical Thinking
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 77 claims (53 show a difference, 19 mixed, 5 no difference) · 57 studies (19 causal, 12 review, 10 associational, 7 theoretical, 5 qualitative, 3 design, 1 quant-synthesis), `q1`–`q3` · 13 of 57 report an effect size · 75 claims rest on one study
+> **Evidence** · 78 claims (54 show a difference, 19 mixed, 5 no difference) · 58 studies (20 causal, 12 review, 10 associational, 7 theoretical, 5 qualitative, 3 design, 1 quant-synthesis), `q1`–`q3` · 13 of 58 report an effect size · 76 claims rest on one study
 
 ## Description
 Critical thinking is purposeful, reasoned evaluation: asking who is presenting information, in what context and on what evidence, considering several perspectives and kinds of evidence before drawing an inference, and using that to make decisions and solve problems. It combines a set of reasoning skills with a disposition to use them. It is often measured by questionnaires about attitudes toward critical thinking, as well as by reasoning tasks.
@@ -117,6 +117,7 @@ It draws on [metacognition](metacognition.md) (monitoring one's own reasoning), 
 - [GenAI cognitive offloading of lower-order tasks frees cognitive resources but risks reduced human evaluation skills](../claims/genai-cognitive-offloading-benefits-and-risks.md) [~M] — instruction changes it
 - [Watching a pertinent multimedia presentation has a positive effect on evaluative knowledge](../claims/pertinent-multimedia-positive-effect-evaluative-knowledge.md) [+M] — instruction changes it
 - [Human judgement is central to accurate and ethical human-AI knowledge building](../claims/human-judgement-central-ai-knowledge-building.md) [+M] — learners who differ on it differ in outcomes
+- [Within-domain Socratic GenAI dialogue yields higher self-assessed critical thinking than outside-domain dialogue across all participants](../claims/within-domain-socratic-genai-raises-critical-thinking.md) [+M] — instruction changes it
 
 ## Measures
 - **California Critical Thinking Disposition Inventory** (Facione et al., 2001): learner questionnaire on attitudes and dispositions toward critical thinking.

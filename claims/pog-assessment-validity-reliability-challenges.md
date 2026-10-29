@@ -87,3 +87,4 @@ Cross-district finding on rubric comparability. The report frames this as a tens
 - [Standardized test proficiency provides biased information about school quality, indicating a need for alternative metrics](standardized-tests-biased-school-quality.md) — related
 - [Education researchers have not isolated cost-effective, reliable predictors of teacher performance, motivating exam-based certification](no-reliable-cost-effective-teacher-performance-predictors.md) — related
 - [Fewer than one fifth of districts with Portraits have taken the step of identifying actionable Practices within their Skill Sets](fewer-than-one-fifth-districts-identify-practices.md) — related
+- [By the final assessment, 82% of artefacts demonstrated mapping between content descriptors, assessment tasks, and success criteria aligned with AITSL Graduate Standards 2.1, 2.2, and 3.2](artefact-pedagogical-alignment-improvement.md) — related

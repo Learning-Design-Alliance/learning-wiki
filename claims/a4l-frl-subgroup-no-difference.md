@@ -60,3 +60,4 @@ Exploratory subgroup analyses with grade 4 CCU data in 12 schools; the report in
 - [No significant differential treatment effects by prior (Grade 4) achievement level or gender; the Grade 4 Level 3 subgroup difference was marginal (p = .053)](rm-cc5-no-differential-effects-prior-achievement-gender.md) — related
 - [Negative effects of mid-year entry are somewhat larger for Asian students and students not qualifying for free or reduced-price lunch](mid-year-entry-effects-larger-asian-non-frl-students.md) — related
 - [The intervention showed no meaningful differential effects for children facing socioeconomic disadvantage, EAL, SEN, or multiple overlapping challenges](tips-by-text-no-subgroup-differences.md) — related
+- [A treatment school serving 80% free/reduced-price lunch students showed reading gains nearly identical to the whole treatment group](core5-promising-effects-low-ses-students.md) — related

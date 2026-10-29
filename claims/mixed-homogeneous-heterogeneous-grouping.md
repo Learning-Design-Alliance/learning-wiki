@@ -59,3 +59,4 @@ The author's position paper argues against all-day heterogeneous grouping, conte
 - [Adult learner groups are more heterogeneous than child groups, calling for individualized instruction and varied learning strategies](adult-learner-groups-more-heterogeneous.md) — related
 - [Students in homogeneous prior-knowledge groups made greater learning gains and showed more distributed collaboration than heterogeneous groups](homogeneous-groups-greater-learning-gains-than-heterogeneous.md) — related
 - [Homogeneous-high groups showed the highest productivity; heterogeneous groups outperformed homogeneous-average and homogeneous-low groups, and low-activity students were more productive in homogeneous groups](group-composition-productivity-effects.md) — related
+- [Heterogeneous groups show greater learning achievements than homogeneous groups, most pronounced for students with little prior knowledge](heterogeneous-groups-greater-achievement.md) — related

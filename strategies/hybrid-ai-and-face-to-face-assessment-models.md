@@ -44,6 +44,7 @@ The article recommends that future work move beyond comparing purely AI-mediated
 - [Design AI decision-support systems that are transparent, context-sensitive, and hybrid-intelligence oriented](design-transparent-context-sensitive-hybrid-intelligence-decision-support.md)
 - [Use a mixed-methods assessment sequence: diagnostic inventory, structured verification tasks, and discipline-specific critique or workflow-design assignments](mixed-methods-ai-literacy-assessment-sequence.md)
 - [Design AI-powered support for international students that integrates with university systems and helps sustain community for long-term use](long-term-ai-support-integrated-university-systems.md)
+- [Direct future pedagogical agent research toward assessment, reflective practice, administration, personalisation and media richness](future-research-assessment-reflective-personalisation.md)
 
 ## Examples
 -

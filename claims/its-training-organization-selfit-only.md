@@ -45,4 +45,4 @@ Analysis of how psychomotor skill training is structured across the systems in t
 
 
 ## Related Claims
--
+- [Types of agency interact at micro, meso and macro levels, and their combination expresses agency at increasing scales](agency-interaction-micro-meso-macro.md) — related

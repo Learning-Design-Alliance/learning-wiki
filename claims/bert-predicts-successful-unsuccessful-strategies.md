@@ -49,3 +49,4 @@ Modeling contribution: the authors learn a BERT model for strategy embeddings an
 - [Students in MATHia find it hard to adapt their strategy choices to suit the problem, based on log data from over 600 schools](mathia-students-hard-to-adapt-strategies.md) — related
 - [Successful discoverers regulate learning more systematically, planning experiments and monitoring progress, while unsuccessful learners work unsystematically](regulation-distinguishes-successful-discoverers.md) — related
 - [Process models of successful students come closer to self-regulated learning theory expectations than those of unsuccessful students, who do not evaluate their learning](process-mining-successful-unsuccessful-srl-models.md) — related
+- [In the studied game quest, three GLA approaches yield insights into different ways students complete genetics tasks](three-gla-approaches-reveal-different-genetics-task-methods.md) — related

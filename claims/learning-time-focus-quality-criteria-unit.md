@@ -66,3 +66,4 @@ Logged time in the quality-criteria unit in the N = 45 experiment; the discussio
 ## Related Claims
 - [In one 51-learner experiment on help formats in computer-based electrical engineering instruction, far-transfer scores were at the floor in every condition, and time spent on instruction did not differ significantly between conditions](far-transfer-floor-effect-and-equal-time.md) — related
 - [AI access shifts learning-time composition away from writing toward reading and searching, with total learning time unchanged](genai-shifts-time-from-writing-to-research.md) — related
+- [Combined prompts produce substantially longer engagement with the text material than relevance prompts alone or no prompts](combined-prompts-longer-text-engagement.md) — related

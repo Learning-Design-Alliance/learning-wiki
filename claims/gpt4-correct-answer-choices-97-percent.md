@@ -50,3 +50,4 @@ Expert evaluation (Table 2) reports Q3 answered Yes for 97% of questions overall
 - [Some LLMs exhibit a selection bias against selecting option D on multiple-choice pedagogy questions](llm-selection-bias-against-option-d.md) — related
 - [Smaller local LLMs show a minor position bias toward option ordering and partially guessing-like error variation, but accuracy remains relatively stable across permutations and repeated sampling runs](minor-position-bias-and-partial-guessing-in-small-llms.md) — related
 - [GPT-4-generated multiple-choice questions for translation subject competence are factual and follow the requested format in 100% of cases](gpt4-mcq-factual-and-format.md) — reports the opposite
+- [Implementation constraints identified were factual accuracy and content drift, culturally narrow outputs, prompt fatigue, and data privacy concerns](gpt-implementation-constraints-ite.md) — related

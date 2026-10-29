@@ -50,3 +50,6 @@ The author's interpretive argument (type e) in the abstract: the framework is fl
 - [The transition to OBL delivery may situate many teachers as novice learners needing to focus exclusively on context, curriculum, and students](teachers-as-novice-learners-ob-transition.md) — a narrower finding that bears on this claim
 - [The rapid shift to OBL affected teacher emotion and motivation, which are connected to teacher learning about OBL](teacher-emotion-motivation-rapid-ob-shift.md) — a narrower finding that bears on this claim
 - [Compared to pre-Covid frameworks, HeDiCom foregrounds online and blended learning design and discipline-specific professional digital literacy](hedicom-novel-content-versus-existing-frameworks.md) — related
+- [The Philipsen et al. framework findings can be applied to guide TPD for recovery and a resilient education system](framework-guidance-recovery-resilient-education.md) — related
+- [The Philipsen et al. framework functions as a model of inquiry for examining TPD for OBL strategies in crisis contexts](framework-model-of-inquiry-crisis-tpd.md) — related
+- [Seven responses to Philipsen et al.'s study offer valuable ideas and guidelines for developing TPD for OBL in times of crisis](seven-responses-apply-tpd-obl-framework-in-crisis.md) — related

@@ -50,3 +50,5 @@ The omnibus MANOVA on 92 participants found a significant multivariate main effe
 - [No significant interaction between writing task and prompts on integration measures](no-interaction-writing-task-prompts.md) — related
 - [Integration prompts improve structural integration of knowledge across professional domains in pre-service teachers' mental models](integration-prompts-improve-structural-integration-teacher-knowledge.md) — related
 - [Pre-reading expert referent networks and post-reading network-based writing feedback do not improve semantic quality of integration](expert-networks-do-not-improve-semantic-quality.md) — related
+- [Unprompted pre-service teachers' texts show higher propositional similarity to the source reference model than combined-prompts texts](control-group-higher-propositional-similarity.md) — related
+- [Unprompted pre-service teachers' texts match the combined source-text reference model more closely on structural matching than prompted groups' texts](control-group-higher-structural-similarity-reference-model.md) — related

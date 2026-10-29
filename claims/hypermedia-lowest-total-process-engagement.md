@@ -52,3 +52,4 @@ Bonferroni-corrected Mann-Whitney pairwise comparisons from the think-aloud expe
 - [The self-explanation-based environment elicits the most (self-)explanations and the inquiry environment elicits high hypothesis generation](approach-specific-process-profiles.md) — related
 - [Successful hypermedia learners showed more orientation and planning before processing content, deeper elaboration, constant monitoring, and evaluation compared to less successful students](process-mining-successful-learners-orientation-planning.md) — related
 - [Generative instructional conditions (inquiry and explanation) outperformed receptive conditions on far transfer, with inquiry best on far transfer problems](eysink-four-methods-inquiry-far-transfer-advantage.md) — related
+- [Games can elicit evidence of students' conceptual understanding and inquiry processes](games-elicit-evidence-of-understanding.md) — related

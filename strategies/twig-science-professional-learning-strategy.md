@@ -54,6 +54,7 @@ The publisher supports implementation with Customer Success team assistance plus
 - [Provide a structured first-year Getting Started Experience plus year-long administrator training when adopting a comprehensive curriculum](bridges-getting-started-experience-pd.md)
 - [Offer optional virtual or on-site professional development tailored to administrators and educators](imagine-espanol-professional-development-strategy.md)
 - [Pursue continuous collaboration between digital learning platform providers and school districts, with teacher training, to interconnect platform use with instruction](provider-district-collaboration-for-dlp-use.md)
+- [Secure administrator commitment and multi-year investment when implementing a blended learning program](administrator-commitment-multi-year-blended-implementation.md)
 
 ## Examples
 -

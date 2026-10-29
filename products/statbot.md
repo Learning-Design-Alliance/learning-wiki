@@ -20,6 +20,7 @@ StatBot is a retrieval-augmented GPT-4 chatbot developed and deployed by Yuan-Hs
 
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
+- **Chatbot-based digital tutor app (progressive web app) for large-scale lectures**: The developed artifact is a fully-functional progressive web app with a chat-based student interface, content overlays, and a sidebar, built with the Bootstrap framework and AJAX calls to RESTful web services, with a separate AdminLTE-based interface for teaching assistants and lecturers. Message processing uses the NLP.js library, with the natural language processing classifier "trained with approximately 3000 dialog entries". It integrates a learning object data storage, a micro content database, formative quiz question storage, an audience response system, and a learning action log. (Sebastian Hobert (2023))
 
 ### Claims
 
@@ -35,3 +36,4 @@ StatBot is a retrieval-augmented GPT-4 chatbot developed and deployed by Yuan-Hs
 
 ## Key Sources
 - Yuan-Hsuan Lee and Jiun-Yu Wu. (2026). Differential engagement with generative artificial intelligence in higher education: Gender, motivation, and achievement trajectories. International Journal of Educational Technology in Higher Education. https://doi.org/10.1186/s41239-026-00615-8
+- Sebastian Hobert, Florian Berens. (2023). Developing a digital tutor as an intermediary between students, teaching assistants, and lecturers. Education Tech Research Dev. https://doi.org/10.1007/s11423-023-10293-2

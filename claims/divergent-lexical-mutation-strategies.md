@@ -69,3 +69,4 @@ Keyword analysis of downward mutations suggests the models may satisfy surface-f
 - [Downward Bloom control is benchmark-dependent: repository-level tasks are easier to simplify than algorithmic puzzles](downward-shift-benchmark-dependence.md) — related
 - [LLMs show a directional asymmetry in educational control: they reliably increase cognitive demand but struggle to lower it](llm-upward-cognitive-shift-asymmetry.md) — related
 - [Prompting a learning disability shifts feedback toward word- and sentence-level remediation, simplified vocabulary, and lowered expectations](learning-disability-feedback-lowered-expectations.md) — related
+- [Students used GPT dialogue to manage perceived conceptual complexity, with simplification the most evident cognitive load management strategy, though cognitive load was not measured directly](gpt-cognitive-load-management-strategies.md) — related

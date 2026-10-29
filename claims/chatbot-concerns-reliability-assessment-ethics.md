@@ -62,3 +62,4 @@ Narrative synthesis in the concerns section of the review. The review reports ch
 - [Wary Thinkers share over-reliance and privacy concerns with Pessimists but acknowledge ChatGPT's time-saving benefits](wary-thinkers-overreliance-privacy-time-saving.md) — related
 - [Q methodology reveals three distinct instructional-designer perception factors toward ChatGPT integration: Pessimistic Evaluators, Optimistic Advocates, and Wary Thinkers](q-methodology-three-id-chatgpt-perception-factors.md) — related
 - [IDs expressed quality concerns over GenAI-generated content, including bias, inaccuracy, hallucinations, and lack of authenticity](genai-quality-concerns-bias-hallucination.md) — related
+- [Implementation constraints identified were factual accuracy and content drift, culturally narrow outputs, prompt fatigue, and data privacy concerns](gpt-implementation-constraints-ite.md) — a narrower finding that bears on this claim

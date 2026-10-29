@@ -51,3 +51,4 @@ One-mode SNA of aggregate networks over four weeks for 22 students per group, co
 - [3D VR co-creators relied on lower-level knowledge co-construction strategies and never targeted the highest IAM strategy, while 2D co-creators quickly reached it](vr-cocreation-lower-level-cognitive-strategies.md) — related
 - [NLC1 acted as one evenly participating group with no cliques, while NLC2 was initially directed by three central participants and did not operate as one group](nlc1-even-participation-nlc2-star-shape.md) — related
 - [The NLC with the experienced teacher showed higher and more stable network density than the beginner's NLC, whose density dropped from 36% to 26% in the end phase](nlc1-higher-stable-density-than-nlc2.md) — related
+- [The number of cliques in the forum interaction networks increased dramatically by the third iteration, while cohesion within cliques decreased](clique-numbers-increase-cohesion-decreases.md) — related

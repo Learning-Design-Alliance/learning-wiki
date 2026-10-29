@@ -66,6 +66,7 @@ Brief mindfulness and slow-breathing practices reliably reduce physiological aro
 - [Thread conscious breathing strategies through warm-up, center work, and class conclusion](breath-strategies-across-dance-class-phases.md)
 - [Begin remote lessons with grounding and centering exercises to help students focus](grounding-centering-exercises-remote-lessons.md)
 - [Deliver scalable socio-emotional support in ITSs via LLM-based mindful chat, breathing exercises, and mindful hint language](llm-mindfulness-layer-in-its.md)
+- [Set up learning environments encouraging mind and body balance by implementing wellness techniques such as meditation, yoga, and exercise in daily instruction, and use Zoom Cafés for social presence](wellness-techniques-zoom-cafes-daily-instruction.md)
 
 ## Examples
 - **[Inner Explorer](https://innerexplorer.org)** — a daily audio-guided mindfulness program used in K–12 classrooms; short whole-class practices cued at consistent times, with documented implementation in thousands of US schools.

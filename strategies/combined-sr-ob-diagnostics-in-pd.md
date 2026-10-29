@@ -46,6 +46,7 @@ Because SR and OB measures are weakly correlated and cannot be used interchangea
 
 - [Use a mixed-methods assessment sequence: diagnostic inventory, structured verification tasks, and discipline-specific critique or workflow-design assignments](mixed-methods-ai-literacy-assessment-sequence.md)
 - [Use external instruments rather than teacher judgment to measure learning strategies for differentiation decisions](external-instruments-measure-learning-strategies.md)
+- [Use the GenAI-RP Scale as a diagnostic tool to identify institutional resource, training, and support needs for GenAI adoption](genai-rp-diagnostic-use-strategy.md)
 
 ## Examples
 -

@@ -50,3 +50,4 @@ Retention comparison from the same Army basic training evaluation, which adminis
 - [Television instruction was more effective for lower-aptitude trainees](tv-instruction-more-effective-lower-aptitude.md) — related
 - [Kinescope review combined with regular training produced greater learning than regular training alone, especially for low-aptitude trainees](kinescope-review-greater-learning.md) — related
 - [One month after learning, retention rank remains roughly stable: students maintain immediate-reproduction rank at least three out of four times](one-month-retention-rank-stability.md) — related
+- [College students taught by television compared favorably with those receiving regular instruction, with attitudes differing only for the on-campus television group](televised-instruction-compared-favorably-college.md) — a broader claim this one bears on

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-10
 evidence_strength: moderate
 newest_evidence: 2023
+source_checked: 2026-10-29
 sources:
   - id: klevan-2023
     resource: "https://doi.org/10.54300/784.361"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q2`
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · checked against its sources 2026-10-29 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A district sustained a community schools initiative across five superintendents in its first decade and financial challenges by engaging a wide range of stakeholders, blending and braiding multiple funding sources, accumulating policy documentation, and a master agreement with the county. [→ Klevan 2023](#klevan-2023)

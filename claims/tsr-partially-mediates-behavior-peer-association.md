@@ -51,3 +51,4 @@ Three-level meta-analytic SEM (MetaSEM two-stage procedure with robust variance 
 
 ## Related Claims
 - [Social support partially mediates the relationship between empathy and prosocial behavior](social-support-partial-mediator-empathy-prosocial.md) — related
+- [Partial least squares structural equation modelling was used to test the research model and hypotheses](pls-testing-interaction-engagement-model.md) — related

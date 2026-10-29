@@ -47,3 +47,5 @@ Editorial note in ETR&D 58(1) describing the special issue's publication history
 ## Related Claims
 
 - [The Jim Greer Festschrift comprises 24 papers split across two issues of IJAIED volume 31, with 11 papers in issue 3 and 13 in issue 4](greer-festschrift-24-papers-two-issues.md)
+- [The special issue aims to offer best practices and quick solutions for immediate teaching and learning needs](special-issue-best-practices-quick-solutions-crisis.md) — related
+- [The special issue assembles a collection of systematic review articles each focusing on a different aspect of emerging learning technologies](special-issue-systematic-reviews-emerging-learning-technologies.md) — related

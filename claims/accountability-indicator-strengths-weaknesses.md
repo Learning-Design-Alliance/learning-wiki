@@ -56,3 +56,4 @@ Indicator-level descriptive results from the Malang City questionnaire survey (T
 - [Districts most often cite quality and integrity of the testing program as its strength, followed by identifying student strengths and weaknesses](district-testing-strengths-quality-integrity.md) — related
 - [Teacher communication-technology competence scores highest while virtualizing-process technology use scores lowest among digital transformation indicators](digital-transformation-indicator-strengths-weaknesses.md) — related
 - [No statistically significant stakeholder differences on Literacy, Curriculum, Instruction and Assessment, Community Partnerships, Collaborative Leadership, or Data and Privacy](no-significant-differences-on-five-frs-lf-constructs.md) — related
+- [The intended audience of assessment results, whether internal or external stakeholders, shapes what an assessment for a library makerspace should do](audience-shapes-assessment-design.md) — related

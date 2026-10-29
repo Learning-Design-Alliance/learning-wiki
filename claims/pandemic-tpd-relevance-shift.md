@@ -50,3 +50,5 @@ Authors' observation (SF4 section) as experienced teacher educators running the 
 - [Training providers and instructors faced logistical challenges moving in-person apprenticeship training online but adapted quickly](providers-adapted-in-person-training-online.md) — related
 - [The COVID-19 mandated shift to digital teaching created learning and performance contexts so different that the Philipsen et al. TPD-for-OBL framework's applicability may be limited](covid-context-limits-tpd-ob-framework.md) — a broader claim this one bears on
 - [The rapid shift to OBL affected teacher emotion and motivation, which are connected to teacher learning about OBL](teacher-emotion-motivation-rapid-ob-shift.md) — a broader claim this one bears on
+- [Prepandemic professional development helped teachers face the pandemic, but pandemic-era compulsory training caused work overload and did not differentiate competency levels](pd-prepared-teachers-but-overloaded.md) — related
+- [Seven responses to Philipsen et al.'s study offer valuable ideas and guidelines for developing TPD for OBL in times of crisis](seven-responses-apply-tpd-obl-framework-in-crisis.md) — related

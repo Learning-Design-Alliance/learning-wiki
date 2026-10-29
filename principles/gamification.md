@@ -13,7 +13,7 @@ generated:
 # Gamification
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 37 claims (17 for, 18 mixed, 2 against) · 44 studies (16 causal, 12 quant-synthesis, 10 review, 3 associational, 2 theoretical, 1 design), `q1`–`q4` · 12 of 44 report an effect size · 29 claims rest on one study
+> **Evidence** · 38 claims (18 for, 18 mixed, 2 against) · 45 studies (16 causal, 12 quant-synthesis, 10 review, 3 associational, 2 design, 2 theoretical), `q1`–`q4` · 12 of 45 report an effect size · 30 claims rest on one study
 
 ## Conditional relationship
 
@@ -203,6 +203,7 @@ The expectation should weaken if controlled comparisons of the same practice wit
 - [Gamification produces a statistically significant small-to-moderate positive effect on motivation in secondary and higher education mathematics (g = .383)](../claims/gamification-motivation-mathematics-meta-effect.md) [+W]
 - [Effects of gamification on mathematics motivation show substantial heterogeneity (I² = 80.74%), mostly within-study](../claims/gamification-mathematics-heterogeneity-substantial.md) [~W]
 - [The competitive Game Show increased students' tutoring engagement relative to baseline](../claims/game-show-increases-tutoring-engagement.md) [+W]
+- [The SplashLearn Math review found alignment with student agency and gamification principles, including ZPD-based adaptivity](../claims/splashlearn-agency-gamification-alignment.md) [+W]
 
 ## Related Principles
 - [Autonomy](autonomy.md) — gamification works when it expands meaningful choice, not when it controls learners through rewards

@@ -49,3 +49,4 @@ Theoretical argument in the discussion section. The article states 'Brofenbrenne
 - Contradictions within and across activity systems are vital forces for change and provide a rationale for CSL — related
 - [Students' GenAI use is ethically negotiated, with decisions emerging from intersecting personal integrity, institutional rules, fear of punishment and practical constraints](genai-use-ethically-negotiated-entangled.md) — related
 - [Conflicting student and teacher rules for GenAI produce adaptive counter-norms and student calls for teachers to refine assignments rather than impose unenforceable restrictions](genai-rule-conflicts-counter-norms-assessment.md) — related
+- [Institutional agency involves aligning design work with institutional values and produces tension and ethical conflict when values clash](institutional-agency-values-tension.md) — related

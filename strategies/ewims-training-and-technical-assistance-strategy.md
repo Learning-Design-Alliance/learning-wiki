@@ -45,6 +45,7 @@ The article describes a blended professional development model for implementing 
 - [Support PowerUp implementation with layered professional development: customized planning, product training, and ongoing data coaching](powerup-layered-professional-development.md)
 - [Blended Learning](blended_learning.md)
 - [Coach-the-coaches model for sustaining teacher professional learning implementation](coach-the-coaches-implementation-support.md)
+- [Build APLE features that let students choose learning goals and receive indicator-based guidance, plus an early warning system for students at risk of failing](goal-choice-features-and-early-warning-system.md)
 
 ## Examples
 -

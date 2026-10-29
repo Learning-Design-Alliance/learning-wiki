@@ -61,3 +61,4 @@ A single cohort of 26 volunteer teachers (Cycle 2) completed self-report surveys
 - [A professional development masterclass produces a 24% overall improvement in educators' AI utilization competence with large effect sizes](pd-masterclass-24-percent-ai-competence-gain.md) — related
 - [Learning outcome focus significantly moderates effects: knowledge outcomes benefit more than skills, attitudes, or ethics](knowledge-outcomes-benefit-more-than-skills-ethics-attitudes.md) — related
 - [Short-duration TPACK-based professional development improved teachers' ML knowledge and interest (ML4STEM)](ml4stem-teacher-pd-initial-evidence.md) — related
+- [A two-hour CCPS-informed coding, robotics, and machine-learning workshop was associated with higher post-intervention self-reported scores for pre-service teachers than a non-equivalent control group on all three questionnaire dimensions](microintervention-posttest-differences-three-dimensions.md) — related

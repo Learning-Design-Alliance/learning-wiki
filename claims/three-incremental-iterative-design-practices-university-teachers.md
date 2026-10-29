@@ -48,3 +48,4 @@ This response article reports, citing Bennett et al. (2017), a qualitative inter
 - [The reported teacher design process is not specifically for online learning design, but may inform best practices for supporting faculty's online learning design](design-process-not-specific-to-online-learning.md) — related
 - [Teachers' design work extends before, while, and after a unit is taught](design-work-extends-before-while-after-unit.md) — related
 - [Bennett et al.'s qualitative study found university instructors' design process is top-down, breadth-first, iterative, responsive, and reflective](university-instructor-design-process-characteristics.md) — related
+- [Bennett and colleagues' findings suggest designing for efficiency, broad consideration of specific details, and iterative design-and-refining processes in university teachers' design work](bennett-design-efficiency-detail-refining.md) — possibly the same claim (merge candidate)

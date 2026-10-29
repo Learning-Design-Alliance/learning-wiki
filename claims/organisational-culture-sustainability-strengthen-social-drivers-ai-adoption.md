@@ -52,3 +52,4 @@ Structural equation modelling of survey responses from 300 academic and administ
 - [Innovation attributes catalyse both intention to use and actual adoption of AI-enabled systems](innovation-attributes-drive-intention-and-adoption.md) — related
 - [Guidance and Development Policy Instruments Are Individually Insufficient for Instructional Change](guidance-development-instruments-insufficient-alone.md) — related
 - [Leadership practices, teacher competence, and innovation culture collectively determine the success or failure of AI integration initiatives](three-drivers-determine-ai-integration-success.md) — related
+- [Institutional environment — leadership, policy debate, and school culture — significantly affects success in developing teachers' digital literacy](institutional-environment-affects-digital-literacy-development.md) — related

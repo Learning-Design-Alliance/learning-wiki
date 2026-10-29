@@ -71,3 +71,4 @@ The article's abstract reports the psychometric outcome across the validation sa
 - [The DIGISOC questionnaire shows acceptable validity and reliability, including CFA data and favorable Cronbach's alpha coefficients](digisoc-acceptable-validity-reliability.md) — related
 - [The DIGISOC instrument was developed through a literature review, dimension and item construction, and validity and reliability assessment](digisoc-development-process.md) — related
 - [All eight SAICS dimensions showed high internal consistency (Cronbach's alpha ≥ 0.89), high factor loadings (0.76–0.96), and convergent validity (inter-dimension correlations r > 0.34)](saics-reliability-convergent-validity.md) — related
+- [Prior to this work, no psychometrically valid instrument existed to test claims that digital learning increases task authenticity](no-valid-authenticity-instrument-existed.md) — related

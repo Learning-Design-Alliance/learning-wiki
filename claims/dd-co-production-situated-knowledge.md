@@ -71,3 +71,4 @@ Theme 2 of the same interview study reports an "interactive information exchange
 - [Mutual understanding on the euro prevailed among participants in the Danish Deliberative Poll](deliberative-poll-mutual-understanding.md) — related
 - [Deliberation in the Danish Deliberative Poll produced considerable opinion change, increased knowledge and improved ability to form reasoned opinions among participants](deliberative-poll-opinion-change-knowledge-reasoned-opinions.md) — related
 - [Faculty organized EdTech integration decisions in ways aligned with the principles](dexter-2023-faculty-decisions-aligned-principles.md) — related
+- [Uniting deliberate and aware epistemological perspectives is argued to benefit teachers' contextualized knowledge development, especially early in the career](uniting-epistemological-perspectives-benefits-teacher-knowledge.md) — related

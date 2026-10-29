@@ -45,6 +45,7 @@ The commentary relays Bennett et al.'s suggestion that "by making their design w
 ## Related Strategies
 
 - [Provide university teachers with specially tailored professional development in systematic design, including design models and tools](tailored-professional-development-design-models-tools.md)
+- [Pursue explanatory then prescriptive research on the rationale behind teachers' design decisions to strengthen design implications](explanatory-prescriptive-design-decision-research.md)
 
 ## Examples
 -

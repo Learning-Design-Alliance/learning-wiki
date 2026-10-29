@@ -50,3 +50,4 @@ Qualitative self-report from students, caregivers, and school staff interviewed 
 - [Participants and school staff reported improved attendance and reduced tardiness among Compass Care students](compass-care-reported-attendance-improvements.md) — related
 - [Students most valued the caring, accountable relationship with their coach, reporting motivation, confidence, and accountability gains](caring-accountable-coach-relationship-benefits.md) — related
 - [Using co-regulation strategies helped facilitators and youth build warm, trusting relationships](co-regulation-builds-warm-trusting-relationships.md) — related
+- [Interpersonal agency in instructional design centers on collegial engagement, learner advocacy and trust building with faculty clients](interpersonal-agency-instructional-design.md) — related

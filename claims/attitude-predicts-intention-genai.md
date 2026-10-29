@@ -58,3 +58,5 @@ PLS-SEM path analysis in the 434-teacher sample. The AOU→BI path was significa
 - [Students express willingness to integrate GenAI in learning and future careers, and willingness correlates with knowledge and frequency of use](students-willing-to-use-genai-correlates.md) — a narrower finding that bears on this claim
 - [AI knowledge and attitudes toward AI did not significantly predict teachers' AI integration ability](ai-knowledge-attitudes-not-significant-predictors.md) — related
 - [Instructors' moral awareness and intention grow parallel with institutional and social support](instructor-moral-awareness-intention-institutional-social-support.md) — related
+- [Perceived usefulness, attitude, and behavioral intention form a significant TAM pathway predicting GenAI adoption among law students](tam-pathway-genai-adoption-law-students.md) — related
+- [Teachers' technology acceptance follows the TAM: perceived usefulness, perceived ease of use, and attitude toward technology predict technology integration, moderated by organizational, technological, and individual factors](tam-predicts-teacher-technology-integration.md) — a broader claim this one bears on
