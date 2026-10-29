@@ -1445,7 +1445,7 @@
 <tbody>
 <tr>
 <td>Claims</td>
-<td>33,698, from 8,403 sources</td>
+<td>33,701, from 8,404 sources</td>
 </tr>
 <tr>
 <td>Reviewed by a person</td>
@@ -1461,7 +1461,7 @@
 </tr>
 <tr>
 <td>Sources whose citations went through the Crossref identity gate</td>
-<td>7,780 of 8,403</td>
+<td>7,780 of 8,404</td>
 </tr>
 <tr>
 <td>Sources read for impossible statistics and invented references</td>
@@ -1489,19 +1489,19 @@
 <h3 id="1-inclusion">1. Inclusion<a class="headerlink" href="#1-inclusion" title="Permanent link">&para;</a></h3>
 <p>Each source is screened against the published <a href="https://github.com/Learning-Design-Alliance/learning-wiki/blob/main/INCLUSION.md">inclusion criteria</a> before anything is extracted: opinion pieces, out-of-scope work, sources with nothing extractable and sources already covered are refused. Every decision, either way, is logged in <code>sources/manifest.ndjson</code>, so anyone can check whether a given article was reviewed.</p>
 <p><strong>Cannot catch.</strong> A source that is in scope and badly done. Inclusion is about what a source is, not how good it is.</p>
-<p><strong>Coverage.</strong> 8,639 sources reviewed: 8,403 ingested, 236 refused (out-of-scope 120, validation-error 91, uncoded 22, no-contributions-extracted 2, parse-error 1).</p>
+<p><strong>Coverage.</strong> 8,639 sources reviewed: 8,404 ingested, 235 refused (out-of-scope 120, validation-error 90, uncoded 22, no-contributions-extracted 2, parse-error 1).</p>
 <h3 id="2-extraction-and-structural-validation">2. Extraction and structural validation<a class="headerlink" href="#2-extraction-and-structural-validation" title="Permanent link">&para;</a></h3>
 <p>A model reads the article and writes claims with their evidence. A validator refuses any extraction whose structure is broken, whose citation does not match the article, or whose codes are out of range; a refused article contributes nothing.</p>
 <p><strong>Cannot catch.</strong> A well-formed claim that misreads its article (step 5 looks for that).</p>
-<p><strong>Coverage.</strong> 92 articles refused by the validator.</p>
+<p><strong>Coverage.</strong> 91 articles refused by the validator.</p>
 <h3 id="3-citation-identity">3. Citation identity<a class="headerlink" href="#3-citation-identity" title="Permanent link">&para;</a></h3>
 <p>Every DOI written on a page is resolved against Crossref (DataCite after a Crossref 404) and compared on title, first author and year. A DOI that resolves to a different paper is removed, because a wrong DOI reads as verified; one that cannot be settled is flagged for a person. Books, which no registry indexes, are checked by a person against the publisher and recorded in <code>sources/authorities.ndjson</code>.</p>
 <p><strong>Cannot catch.</strong> A citation with no DOI and no registry record; a correct citation to a study that is itself wrong.</p>
-<p><strong>Coverage.</strong> 7,780 of 8,403 ingested sources passed the gate with the registry reachable; 273 DOIs removed as the wrong paper, 75 flagged for a person; 3 book citations verified by a person.</p>
+<p><strong>Coverage.</strong> 7,780 of 8,404 ingested sources passed the gate with the registry reachable; 273 DOIs removed as the wrong paper, 75 flagged for a person; 3 book citations verified by a person.</p>
 <h3 id="4-a-verifiable-source-for-every-claim">4. A verifiable source for every claim<a class="headerlink" href="#4-a-verifiable-source-for-every-claim" title="Permanent link">&para;</a></h3>
 <p>A claim whose evidence has no DOI after a Crossref and DataCite search is removed, unless it rests on a report from a named evaluation organisation (What Works Clearinghouse, MDRC, RAND and others) or a principle, pattern or ten or more designs depend on it, in which case it says so in an <em>Evidence quality</em> line.</p>
 <p><strong>Cannot catch.</strong> Whether the DOI'd source is any good.</p>
-<p><strong>Coverage.</strong> 25,995 of 33,698 claims (77%) cite a DOI; 2,880 claims removed for having none.</p>
+<p><strong>Coverage.</strong> 25,995 of 33,701 claims (77%) cite a DOI; 2,880 claims removed for having none.</p>
 <h3 id="5-faithfulness-to-the-source">5. Faithfulness to the source<a class="headerlink" href="#5-faithfulness-to-the-source" title="Permanent link">&para;</a></h3>
 <p>A second model, from a different provider, reads each evidence entry beside the article it cites (full text where an open copy exists, otherwise the abstract) and checks every number, direction, population and design the page states. It runs on every claim that three or more design pages cite, and on every new batch. A failure stops the batch until a person or agent has read it; a judge error is dismissed with a written reason.</p>
 <p><strong>Cannot catch.</strong> A claim checked only against an abstract, for detail an abstract does not carry. The judge is a model and has been wrong; its failures are read before they are acted on.</p>
@@ -1517,7 +1517,7 @@
 <h3 id="8-evidence-codes">8. Evidence codes<a class="headerlink" href="#8-evidence-codes" title="Permanent link">&para;</a></h3>
 <p>Each evidence entry carries a design tier (<code>q1</code>–<code>q4</code>), an impact code (<code>i0</code>–<code>i3</code>, which must rest on an effect size the source prints, otherwise <code>i?</code>), a sample size with its unit, and a kind with a rigour rating judged against that kind's own standard (an interview study and a trial are each rated for what they are). Rigour is coded from the article, never from the wiki's paraphrase of it.</p>
 <p><strong>Cannot catch.</strong> Whether a study's conclusion is true. The codes describe how a study was done, not whether it was right.</p>
-<p><strong>Coverage.</strong> 40,493 evidence entries; 5,761 rest on a printed effect size and 34,751 report none (<code>i?</code>); 35,371 carry a rigour rating.</p>
+<p><strong>Coverage.</strong> 40,496 evidence entries; 5,761 rest on a printed effect size and 34,754 report none (<code>i?</code>); 35,378 carry a rigour rating.</p>
 <h3 id="9-duplicates-and-merges">9. Duplicates and merges<a class="headerlink" href="#9-duplicates-and-merges" title="Permanent link">&para;</a></h3>
 <p>Two claims stating the same finding are merged, and two pages on the same thing are folded together, only when two models judge them the same; the decisions are kept, so a pair judged different is not raised again.</p>
 <p><strong>Cannot catch.</strong> Near-duplicates phrased far apart.</p>
