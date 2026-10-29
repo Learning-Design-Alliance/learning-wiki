@@ -9,11 +9,10 @@ generated:
   at: 2026-10-18
 evidence_strength: weak
 newest_evidence: 2025
-source_checked: 2026-10-20
 sources:
   - id: hengtao-tang-2025
     resource: "https://doi.org/10.1007/s11251-024-09699-z"
-    title: "Ellison, J. P., & Tang, H. (2025). Self-regulated learning and video annotation in a high school acting classroom. Instructional Science. https://doi.org/10.1007/s11251-024-09699-z"
+    title: "Ellison, J. P., & Tang, H. (2025). Self-regulated learning and video annotation in a high school acting classroom. Instructional Science, 53, 457–477. https://doi.org/10.1007/s11251-024-09699-z"
     author: "Ellison, J. P., & Tang, H."
     q: 1
     i: "?"
@@ -25,7 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q1`
-> **Currency** · newest study 2025 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The authors propose, as an interpretation rather than a tested result, that SRL mediates the relationship between video annotation and acting improvement. [→ Hengtao Tang 2025](#hengtao-tang-2025)
@@ -34,7 +33,7 @@ sources:
 
 ### Hengtao Tang 2025
 
-Ellison, J. P., & Tang, H. (2025). Self-regulated learning and video annotation in a high school acting classroom. Instructional Science. https://doi.org/10.1007/s11251-024-09699-z
+Ellison, J. P., & Tang, H. (2025). Self-regulated learning and video annotation in a high school acting classroom. Instructional Science, 53, 457–477. https://doi.org/10.1007/s11251-024-09699-z
 
 `q1 · i?` · `design · r2`
 

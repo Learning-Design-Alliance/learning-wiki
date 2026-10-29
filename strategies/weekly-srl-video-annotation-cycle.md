@@ -10,8 +10,8 @@ generated:
 sources:
   - id: hengtao-tang-2025
     resource: "https://doi.org/10.1007/s11251-024-09699-z"
-    title: "Hengtao Tang, Jessica Perry Ellison. (2025). Self-regulated learning and video annotation in a high school acting classroom. Instructional Science. https://doi.org/10.1007/s11251-024-09699-z"
-    author: Hengtao Tang, Jessica Perry Ellison
+    title: "Ellison, J. P., & Tang, H. (2025). Self-regulated learning and video annotation in a high school acting classroom. Instructional Science, 53, 457–477. https://doi.org/10.1007/s11251-024-09699-z"
+    author: "Ellison, J. P., & Tang, H."
 ---
 
 # Weekly SRL intervention cycle pairing goal-setting forms, rehearsal videos, VideoAnt annotation, and progress reports
@@ -47,4 +47,4 @@ The intervention iterated a five-day weekly schedule: students set one to two we
 -
 
 ## Key Sources
-- Hengtao Tang, Jessica Perry Ellison. (2025). Self-regulated learning and video annotation in a high school acting classroom. Instructional Science. https://doi.org/10.1007/s11251-024-09699-z
+- Ellison, J. P., & Tang, H. (2025). Self-regulated learning and video annotation in a high school acting classroom. Instructional Science, 53, 457–477. https://doi.org/10.1007/s11251-024-09699-z

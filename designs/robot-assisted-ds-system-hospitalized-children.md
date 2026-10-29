@@ -17,7 +17,7 @@ sources:
 # Robot-assisted digital storytelling system for hospitalized children's health education
 
 > **Design** · [All designs](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (2 for, 1 mixed) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 A robot with a screen face that shows emotional expressions such as happiness, sadness and anger, plays videos, and accepts touch and voice input. Children interact by clicking the screen or speaking keywords to select story sessions or answer comprehension questions embedded at specified story periods. Two digital stories (Duck Abel and an IV story) were presented as cartoon animations simulating the treatment process, each for 20 minutes.
@@ -38,7 +38,7 @@ A robot with a screen face that shows emotional expressions such as happiness, s
 - reducing anxiety about invasive treatment
 
 ### Claims
-- [Robot Ds Improves Therapeutic Communication](../claims/robot-ds-improves-therapeutic-communication.md) [+M]
+- [A trial reporting that robot-assisted digital storytelling improves hospitalized children's therapeutic communication used a scale on which the robot group's higher scores mean more difficulty communicating](../claims/robot-ds-improves-therapeutic-communication.md) [~W]
 - [Robot Ds Reduces Hospitalization Anxiety](../claims/robot-ds-reduces-hospitalization-anxiety.md) [+M]
 - [Robot Ds Increases Emotional Engagement](../claims/robot-ds-increases-emotional-engagement.md) [+M]
 

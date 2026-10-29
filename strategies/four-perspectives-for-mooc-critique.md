@@ -40,7 +40,7 @@ The editorial organizes the special section's responses to Loizzo and Ertmer (20
 
 - [Adult learners take MOOC courses for six stated reasons, including topical interest and viewing lurking as learning](../claims/six-reasons-adult-learners-take-moocs.md) [+W]
 - [Loizzo and Ertmer propose combining c-MOOC and xMOOC designs to foster a flexible, learner-centered culture](../claims/combining-cmooc-xmooc-flexible-culture.md) [+W]
-- [The Friday Institute used micro-credential stacks to close the implementation gap left by MOOC-Ed content at scale](../claims/friday-institute-mooc-ed-implementation-gap-micro-credentials.md) [+W]
+- [The Friday Institute added micro-credential stacks to its MOOC-Ed to address the gap between taking professional development at scale and implementing it in the classroom (a case description, not an evaluation)](../claims/friday-institute-mooc-ed-implementation-gap-micro-credentials.md) [+W]
 
 ## Related Strategies
 

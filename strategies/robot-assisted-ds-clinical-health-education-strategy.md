@@ -17,7 +17,7 @@ sources:
 # Adopt robot-assisted digital storytelling for nursing clinical health education with children
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (2 for, 1 mixed) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The article recommends that educators and researchers use robot-assisted digital storytelling to deliver health education to hospitalized children, engaging them in interaction with robots to learn content delivered via digital stories. It reports this "provided a good example of clinical application, which is suggested to be widely adopted by nursing educators in other fields." The approach can extend to other health education scenarios such as explaining surgical processes or radiation therapy coping skills.
@@ -42,7 +42,7 @@ The article recommends that educators and researchers use robot-assisted digital
 
 ## Claims
 
-- [Robot-assisted digital storytelling improves hospitalized children's therapeutic communication about intravenous injections more than video-based health education](../claims/robot-ds-improves-therapeutic-communication.md) [+W]
+- [A trial reporting that robot-assisted digital storytelling improves hospitalized children's therapeutic communication used a scale on which the robot group's higher scores mean more difficulty communicating](../claims/robot-ds-improves-therapeutic-communication.md) [~W]
 - [Robot-assisted digital storytelling increases hospitalized children's emotional engagement during intravenous injections more than video-based health education](../claims/robot-ds-increases-emotional-engagement.md) [+W]
 - [Robot-assisted digital storytelling reduces hospitalized children's anxiety during intravenous injections more than video-based health education](../claims/robot-ds-reduces-hospitalization-anxiety.md) [+W]
 

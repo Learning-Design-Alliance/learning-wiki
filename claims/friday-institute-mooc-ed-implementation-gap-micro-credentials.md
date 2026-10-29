@@ -1,7 +1,7 @@
 ---
 type: claim
-title: The Friday Institute used micro-credential stacks to close the implementation gap left by MOOC-Ed content at scale
-description: The Friday Institute used micro-credential stacks to close the implementation gap left by MOOC-Ed content at scale
+title: The Friday Institute added micro-credential stacks to its MOOC-Ed to address the gap between taking professional development at scale and implementing it in the classroom (a case description, not an evaluation)
+description: The Friday Institute added micro-credential stacks to its MOOC-Ed to address the gap between taking professional development at scale and implementing it in the classroom (a case description, not an evaluation)
 id: friday-institute-mooc-ed-implementation-gap-micro-credentials
 status: review
 generated:
@@ -9,6 +9,7 @@ generated:
   at: 2026-10-09
 evidence_strength: weak
 newest_evidence: 2016
+source_checked: 2026-10-29
 sources:
   - id: micro-credentials-igniting-impact-in-the-ecosystem-2016
     resource: "https://digitalpromise.dspacedirect.org/items/bd6ad6c4-3903-4870-a911-6ee05ba0ae8e"
@@ -20,15 +21,15 @@ sources:
     rigour: 1
 ---
 
-# The Friday Institute used micro-credential stacks to close the implementation gap left by MOOC-Ed content at scale
+# The Friday Institute added micro-credential stacks to its MOOC-Ed to address the gap between taking professional development at scale and implementing it in the classroom (a case description, not an evaluation)
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q1`
-> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2016 · checked against its sources 2026-10-29 (automated, 1 of 1 entry) · not reviewed by a person
 > **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
-`q1 i?` Aligning micro-credential stacks to the three core units of the Learning Differences MOOC-Ed provided scaffolded support that helped hundreds of educators transfer PD content into classroom practice at scale. [→ Micro-credentials: Igniting Impact in the Ecosystem 2016](#micro-credentials-igniting-impact-in-the-ecosystem-2016)
+`q1 i?` The Friday Institute aligned micro-credential stacks to the three core units of the Learning Differences MOOC-Ed as a scalable coaching pathway intended to guide educators' implementation in the classroom; the report describes the design and its staff's account of it and presents no evaluation of whether transfer to practice occurred or the gap closed. [→ Micro-credentials: Igniting Impact in the Ecosystem 2016](#micro-credentials-igniting-impact-in-the-ecosystem-2016)
 
 ## Evidence
 
@@ -38,7 +39,7 @@ Micro-credentials: Igniting Impact in the Ecosystem. (2016). Digital Promise. ht
 
 `q1 · i?` · `design · r1`
 
-Case study of the Friday Institute, an issuer. It scaled content access through a MOOC-Ed but identified an 'implementation gap' between getting good PD and implementing it; micro-credential stacks in executive function, learner motivation, and working memory added classroom-evidence requirements and reflections.
+Case study of the Friday Institute, an issuer. It scaled content access through a MOOC-Ed but identified an 'implementation gap' between getting good PD and implementing it; micro-credential stacks in executive function, learner motivation, and working memory added classroom-evidence requirements and reflections. The report is a descriptive case account written by the programme's partners: it states what the stacks were meant to do and quotes staff, but reports no outcome data on educators' classroom practice, so it does not show that the implementation gap was closed.
 
 > "By integrating micro-credentials into the 'Learning Differences' MOOC-Ed, the Friday Institute was able to engage hundreds of educators with rich, well-researched best practices and guide their implementation of strategies into actual classroom practice — all at scale."
 

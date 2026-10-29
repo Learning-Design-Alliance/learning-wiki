@@ -17,7 +17,7 @@ sources:
 # Share health education content across robots via a shared platform and collect materials in advance to reduce preparation burden
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (2 for, 1 mixed) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 To address the cost and labor limitations of robot-assisted health education, the article recommends sharing quality health education issues through "a shared platform embedded in the robots, so as to increase the number of users." It also suggests collecting health education stories, photos, videos, or audio recordings with patient authorization at ordinary times, so medical staff save time designing learning scenes, and recommends future work with a digital technology team on a reusable robot-assisted DS package.
@@ -40,7 +40,7 @@ To address the cost and labor limitations of robot-assisted health education, th
 
 ## Claims
 
-- [Robot-assisted digital storytelling improves hospitalized children's therapeutic communication about intravenous injections more than video-based health education](../claims/robot-ds-improves-therapeutic-communication.md) [+W]
+- [A trial reporting that robot-assisted digital storytelling improves hospitalized children's therapeutic communication used a scale on which the robot group's higher scores mean more difficulty communicating](../claims/robot-ds-improves-therapeutic-communication.md) [~W]
 - [Robot-assisted digital storytelling increases hospitalized children's emotional engagement during intravenous injections more than video-based health education](../claims/robot-ds-increases-emotional-engagement.md) [+W]
 - [Robot-assisted digital storytelling reduces hospitalized children's anxiety during intravenous injections more than video-based health education](../claims/robot-ds-reduces-hospitalization-anxiety.md) [+W]
 

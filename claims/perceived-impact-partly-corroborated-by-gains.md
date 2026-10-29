@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "Students' perceptions of the tool's impact on learning were partly corroborated by their actual metacognitive gains and tool use"
-description: "Students' perceptions of the tool's impact on learning were partly corroborated by their actual metacognitive gains and tool use"
+title: Students' perceptions of the tool's impact on learning were partly consistent with their self-reported metacognitive gains and logged tool use
+description: Students' perceptions of the tool's impact on learning were partly consistent with their self-reported metacognitive gains and logged tool use
 id: perceived-impact-partly-corroborated-by-gains
 status: review
 generated:
@@ -20,7 +20,7 @@ sources:
     rigour: 2
 ---
 
-# Students' perceptions of the tool's impact on learning were partly corroborated by their actual metacognitive gains and tool use
+# Students' perceptions of the tool's impact on learning were partly consistent with their self-reported metacognitive gains and logged tool use
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`

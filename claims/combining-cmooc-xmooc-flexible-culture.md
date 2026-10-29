@@ -46,4 +46,4 @@ This is the article's characterization of the prior MOOCocracy proposal it respo
 
 
 ## Related Claims
-- [The Friday Institute used micro-credential stacks to close the implementation gap left by MOOC-Ed content at scale](friday-institute-mooc-ed-implementation-gap-micro-credentials.md) — related
+- [The Friday Institute added micro-credential stacks to its MOOC-Ed to address the gap between taking professional development at scale and implementing it in the classroom (a case description, not an evaluation)](friday-institute-mooc-ed-implementation-gap-micro-credentials.md) — related

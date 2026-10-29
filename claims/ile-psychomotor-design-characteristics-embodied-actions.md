@@ -9,6 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: moderate
 newest_evidence: 2025
+source_checked: 2026-10-29
 sources:
   - id: khaleel-asyraaf-mat-sanusi-2025
     resource: "https://doi.org/10.1007/s11423-025-10449-2"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-10-29 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Embodied actions were the most common learner-interaction design feature, appearing in all 39 papers, whereas control over environment attributes and behavior appeared in only 15.38%; consistent object behavior was the most emphasized representational fidelity aspect (84.62%). [→ Khaleel Asyraaf Mat Sanusi 2025](#khaleel-asyraaf-mat-sanusi-2025)

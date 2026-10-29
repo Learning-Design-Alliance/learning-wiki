@@ -507,7 +507,7 @@ A rough age-8 inflection point has been observed in some longitudinal work: stra
 - [Greater engagement in repeated quiz-taking predicts more conservative downward shifts in students' metacognitive judgments during learning](../claims/repeated-quizzing-shifts-judgments-conservatively.md) [~W]
 - [Less able learners made the greatest learning gains with Ecolab II metacognitive scaffolding](../claims/ecolab-ii-less-able-greatest-gains.md) [~W]
 - [Open student models made students more aware of knowledge deficiencies and improved their learning decisions](../claims/open-student-models-self-assessment.md) [+W]
-- [Students' perceptions of the tool's impact on learning were partly corroborated by their actual metacognitive gains and tool use](../claims/perceived-impact-partly-corroborated-by-gains.md) [+W]
+- [Students' perceptions of the tool's impact on learning were partly consistent with their self-reported metacognitive gains and logged tool use](../claims/perceived-impact-partly-corroborated-by-gains.md) [+W]
 - [Hints in multiple-try feedback marginally reduce students' metacognitive bias score](../claims/hints-marginal-bias-score-reduction.md) [~W]
 
 ## The evidence by question

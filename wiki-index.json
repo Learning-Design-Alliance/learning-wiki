@@ -1,6 +1,6 @@
 {
 "counts":{
-"claim":33430,
+"claim":33429,
 "design":1289,
 "element":1057,
 "learner-variable":75,
@@ -109241,6 +109241,7 @@
 "id":"faculty-sbmcqs-outperform-chatgpt-ideal-criteria",
 "newest_evidence":"2025",
 "path":"claims/faculty-sbmcqs-outperform-chatgpt-ideal-criteria.md",
+"source_checked":"2026-10-29",
 "status":"review",
 "title":"Faculty-generated SBMCQs met all three ideal item-analysis criteria more often than ChatGPT-generated SBMCQs (19 vs. 9 of 40)",
 "type":"claim"
@@ -113757,16 +113758,6 @@
 "type":"claim"
 },
 {
-"description":"A doctoral study examined whether film-induced attitude changes relate to personality traits and intelligence in high-school boys",
-"evidence_strength":"weak",
-"id":"film-attitude-change-personality-intelligence",
-"newest_evidence":"1955",
-"path":"claims/film-attitude-change-personality-intelligence.md",
-"status":"review",
-"title":"A doctoral study examined whether film-induced attitude changes relate to personality traits and intelligence in high-school boys",
-"type":"claim"
-},
-{
 "description":"Readability levels of film narrations were found to be at or near the theoretical reading level of the intended audience.",
 "evidence_strength":"moderate",
 "id":"film-narration-readability-matches-audience",
@@ -113830,7 +113821,7 @@
 "description":"Films conveniently support fixed-order repetitive word presentation, but random order may be desirable",
 "evidence_strength":"weak",
 "id":"films-fixed-order-repetition-random-may-help",
-"newest_evidence":"1955",
+"newest_evidence":"1956",
 "path":"claims/films-fixed-order-repetition-random-may-help.md",
 "status":"review",
 "title":"Films conveniently support fixed-order repetitive word presentation, but random order may be desirable",
@@ -120691,13 +120682,14 @@
 "type":"claim"
 },
 {
-"description":"The Friday Institute used micro-credential stacks to close the implementation gap left by MOOC-Ed content at scale",
+"description":"The Friday Institute added micro-credential stacks to its MOOC-Ed to address the gap between taking professional development at scale and implementing it in the classroom (a case description, not an evaluation)",
 "evidence_strength":"weak",
 "id":"friday-institute-mooc-ed-implementation-gap-micro-credentials",
 "newest_evidence":"2016",
 "path":"claims/friday-institute-mooc-ed-implementation-gap-micro-credentials.md",
+"source_checked":"2026-10-29",
 "status":"review",
-"title":"The Friday Institute used micro-credential stacks to close the implementation gap left by MOOC-Ed content at scale",
+"title":"The Friday Institute added micro-credential stacks to its MOOC-Ed to address the gap between taking professional development at scale and implementing it in the classroom (a case description, not an evaluation)",
 "type":"claim"
 },
 {
@@ -122751,6 +122743,7 @@
 "id":"gamification-enhances-perceived-autonomy",
 "newest_evidence":"2024",
 "path":"claims/gamification-enhances-perceived-autonomy.md",
+"source_checked":"2026-10-29",
 "status":"review",
 "title":"Gamification positively and significantly affects students' perceptions of autonomy",
 "type":"claim"
@@ -147258,6 +147251,7 @@
 "id":"ile-psychomotor-design-characteristics-embodied-actions",
 "newest_evidence":"2025",
 "path":"claims/ile-psychomotor-design-characteristics-embodied-actions.md",
+"source_checked":"2026-10-29",
 "status":"review",
 "title":"Embodied actions appear in all reviewed ILE designs, while learner control over environment attributes is rare",
 "type":"claim"
@@ -198351,7 +198345,7 @@
 "description":"Motion in pictures is of no value for teaching foreign vocabulary measured by written recall",
 "evidence_strength":"moderate",
 "id":"motion-in-pictures-no-value-vocabulary",
-"newest_evidence":"1955",
+"newest_evidence":"1956",
 "path":"claims/motion-in-pictures-no-value-vocabulary.md",
 "status":"review",
 "title":"Motion in pictures is of no value for teaching foreign vocabulary measured by written recall",
@@ -206759,6 +206753,7 @@
 "id":"nng4-tutorial-hint-largely-unused-preferred-difficulty",
 "newest_evidence":"2020",
 "path":"claims/nng4-tutorial-hint-largely-unused-preferred-difficulty.md",
+"source_checked":"2026-10-29",
 "status":"review",
 "title":"Most interviewed students did not use NNG 4's tutorial and hint options, and preferred harder game difficulty",
 "type":"claim"
@@ -217127,6 +217122,7 @@
 "id":"oer-effectiveness-concerns-unsolved",
 "newest_evidence":"2021",
 "path":"claims/oer-effectiveness-concerns-unsolved.md",
+"source_checked":"2026-10-29",
 "status":"review",
 "title":"Concerns about whether OER decrease the effectiveness of student learning remain unsolved",
 "type":"claim"
@@ -230189,13 +230185,13 @@
 "type":"claim"
 },
 {
-"description":"Students' perceptions of the tool's impact on learning were partly corroborated by their actual metacognitive gains and tool use",
+"description":"Students' perceptions of the tool's impact on learning were partly consistent with their self-reported metacognitive gains and logged tool use",
 "evidence_strength":"weak",
 "id":"perceived-impact-partly-corroborated-by-gains",
 "newest_evidence":"2022",
 "path":"claims/perceived-impact-partly-corroborated-by-gains.md",
 "status":"review",
-"title":"Students' perceptions of the tool's impact on learning were partly corroborated by their actual metacognitive gains and tool use",
+"title":"Students' perceptions of the tool's impact on learning were partly consistent with their self-reported metacognitive gains and logged tool use",
 "type":"claim"
 },
 {
@@ -234888,7 +234884,7 @@
 "description":"Pictures of an object or act aid foreign vocabulary learning when the criterion is writing the words",
 "evidence_strength":"moderate",
 "id":"pictures-aid-foreign-vocabulary-learning",
-"newest_evidence":"1955",
+"newest_evidence":"1956",
 "path":"claims/pictures-aid-foreign-vocabulary-learning.md",
 "status":"review",
 "title":"Pictures of an object or act aid foreign vocabulary learning when the criterion is writing the words",
@@ -241323,6 +241319,7 @@
 "id":"preparation-behaviors-predict-session-performance",
 "newest_evidence":"2022",
 "path":"claims/preparation-behaviors-predict-session-performance.md",
+"source_checked":"2026-10-29",
 "status":"review",
 "title":"Self-reported preparation behaviors, especially watching tutorial videos, predict performance in the e-learning sessions",
 "type":"claim"
@@ -248561,7 +248558,7 @@
 "description":"Pronunciation of words by a narrator or by the learner inhibits foreign vocabulary learning",
 "evidence_strength":"moderate",
 "id":"pronunciation-inhibits-vocabulary-learning",
-"newest_evidence":"1955",
+"newest_evidence":"1956",
 "path":"claims/pronunciation-inhibits-vocabulary-learning.md",
 "status":"review",
 "title":"Pronunciation of words by a narrator or by the learner inhibits foreign vocabulary learning",
@@ -252087,6 +252084,7 @@
 "id":"quarter-dashboard-consultations-no-action",
 "newest_evidence":"2024",
 "path":"claims/quarter-dashboard-consultations-no-action.md",
+"source_checked":"2026-10-29",
 "status":"review",
 "title":"In one reviewed study, no explicit teacher actions followed from about a quarter of dashboard consultations",
 "type":"claim"
@@ -265949,13 +265947,14 @@
 "type":"claim"
 },
 {
-"description":"Robot-assisted digital storytelling improves hospitalized children's therapeutic communication about intravenous injections more than video-based health education",
+"description":"A trial reporting that robot-assisted digital storytelling improves hospitalized children's therapeutic communication used a scale on which the robot group's higher scores mean more difficulty communicating",
 "evidence_strength":"moderate",
 "id":"robot-ds-improves-therapeutic-communication",
 "newest_evidence":"2023",
 "path":"claims/robot-ds-improves-therapeutic-communication.md",
+"source_checked":"2026-10-29",
 "status":"review",
-"title":"Robot-assisted digital storytelling improves hospitalized children's therapeutic communication about intravenous injections more than video-based health education",
+"title":"A trial reporting that robot-assisted digital storytelling improves hospitalized children's therapeutic communication used a scale on which the robot group's higher scores mean more difficulty communicating",
 "type":"claim"
 },
 {
@@ -277959,6 +277958,7 @@
 "id":"self-regulation-training-positive-effect-university",
 "newest_evidence":"2026",
 "path":"claims/self-regulation-training-positive-effect-university.md",
+"source_checked":"2026-10-29",
 "status":"review",
 "title":"Self-regulation training programs have a positive effect on university students' academic performance, strongest when underpinned by metacognitive theory (review-reported)",
 "type":"claim"
@@ -293351,7 +293351,6 @@
 "id":"srl-hypothesized-mediator-video-annotation-acting",
 "newest_evidence":"2025",
 "path":"claims/srl-hypothesized-mediator-video-annotation-acting.md",
-"source_checked":"2026-10-20",
 "status":"review",
 "title":"The authors hypothesize that self-regulated learning acts as a mediating factor linking video annotation advantages to acting performance improvement",
 "type":"claim"
@@ -293362,6 +293361,7 @@
 "id":"srl-intervention-elicited-srl-behaviors",
 "newest_evidence":"2025",
 "path":"claims/srl-intervention-elicited-srl-behaviors.md",
+"source_checked":"2026-10-29",
 "status":"review",
 "title":"Interviewed students reported that the SRL intervention elicited self-regulated learning behaviors across goal setting, strategic planning, self-observation, and self-reflection",
 "type":"claim"
@@ -293956,6 +293956,7 @@
 "id":"srl-variables-predict-exam-grades",
 "newest_evidence":"2026",
 "path":"claims/srl-variables-predict-exam-grades.md",
+"source_checked":"2026-10-29",
 "status":"review",
 "title":"Self-efficacy and time-management positively predict exam grades, while self-evaluation shows an inverse relationship",
 "type":"claim"
@@ -337059,6 +337060,7 @@
 "id":"vle-learners-need-metacognitive-scaffolding",
 "newest_evidence":"2026",
 "path":"claims/vle-learners-need-metacognitive-scaffolding.md",
+"source_checked":"2026-10-29",
 "status":"review",
 "title":"Students in virtual, technology-enhanced environments generally do not deploy effective metacognitive strategies unless guided by appropriate scaffolding",
 "type":"claim"
@@ -343118,7 +343120,7 @@
 "description":"Women were superior to men in learning foreign vocabulary in these studies",
 "evidence_strength":"weak",
 "id":"women-superior-foreign-vocabulary-learning",
-"newest_evidence":"1955",
+"newest_evidence":"1956",
 "path":"claims/women-superior-foreign-vocabulary-learning.md",
 "status":"review",
 "title":"Women were superior to men in learning foreign vocabulary in these studies",
@@ -476497,7 +476499,6 @@
 "figure-matching-strongest-correlate-numerosity-fluency":"figure-matching-strongest-correlate-numerosity-fluency",
 "figure12-distribution-comparison-vitiated-unequal-totals":"figure12-distribution-comparison-vitiated-unequal-totals",
 "fill-in-blank-testing-more-time-consuming-than-restudy":"fill-in-blank-testing-more-time-consuming-than-restudy",
-"film-attitude-change-personality-intelligence":"film-attitude-change-personality-intelligence",
 "film-narration-readability-matches-audience":"film-narration-readability-matches-audience",
 "film-narration-type-listenability-grade-levels":"film-narration-type-listenability-grade-levels",
 "film-repetition-increases-learning-up-to-a-point":"film-repetition-increases-learning-up-to-a-point",

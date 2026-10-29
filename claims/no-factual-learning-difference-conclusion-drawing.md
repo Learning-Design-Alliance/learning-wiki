@@ -11,7 +11,8 @@ evidence_strength: moderate
 newest_evidence: 1952
 sources:
   - id: hovland-1952
-    title: Hovland, Carl I., and Mandell, Wallace. (1952). An Experimental Comparison of Conclusion-Drawing by the Communicator and by the Audience. Journal of Abnormal and Social Psychology, 47, 581-88.
+    resource: "https://doi.org/10.1037/h0059833"
+    title: "Hovland, Carl I., and Mandell, Wallace. (1952). An Experimental Comparison of Conclusion-Drawing by the Communicator and by the Audience. Journal of Abnormal and Social Psychology, 47, 581-88. [doi:10.1037/h0059833](https://doi.org/10.1037/h0059833)"
     author: Hovland, Carl I., and Mandell, Wallace
     q: 3
     i: "?"
@@ -32,7 +33,7 @@ sources:
 
 ### Hovland 1952
 
-Hovland, Carl I., and Mandell, Wallace. (1952). An Experimental Comparison of Conclusion-Drawing by the Communicator and by the Audience. Journal of Abnormal and Social Psychology, 47, 581-88.
+Hovland, Carl I., and Mandell, Wallace. (1952). An Experimental Comparison of Conclusion-Drawing by the Communicator and by the Audience. Journal of Abnormal and Social Psychology, 47, 581-88. [doi:10.1037/h0059833](https://doi.org/10.1037/h0059833)
 
 `q3 · i?` · `causal · r1`
 

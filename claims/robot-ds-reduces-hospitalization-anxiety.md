@@ -46,7 +46,7 @@ Independent samples t test in the same randomized controlled experiment: the exp
 
 
 ## Related Claims
-- [Robot-assisted digital storytelling improves hospitalized children's therapeutic communication about intravenous injections more than video-based health education](robot-ds-improves-therapeutic-communication.md) — related
+- [A trial reporting that robot-assisted digital storytelling improves hospitalized children's therapeutic communication used a scale on which the robot group's higher scores mean more difficulty communicating](robot-ds-improves-therapeutic-communication.md) — related
 - [Robot-assisted digital storytelling increases hospitalized children's emotional engagement during intravenous injections more than video-based health education](robot-ds-increases-emotional-engagement.md) — related
 - [Robot-assisted storytelling produces statistically significant pre-post improvement in cognitive engagement, while paper and PPT groups' gains are not statistically significant](motibo-significant-cognitive-engagement-gain.md) — related
 - [Students preferred robot-assisted storytelling and some students treated the robot as a more equal communication partner than the instructor](students-prefer-and-trust-robot-storytelling-partner.md) — related

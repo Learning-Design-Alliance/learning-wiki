@@ -45,6 +45,6 @@ Second-hand finding: the landscape report attributes this stacking result to Mey
 ## Related Claims
 - [In Georgia, a two-month accelerated manufacturing program with micro-credentials led to recent high school graduates being hired, including employers making an exception to their under-21 hiring practice](tcsg-manufacturing-microcredentials-led-to-hiring.md) — related
 - [YMHC members completed more than 130 certifications by March 2025, and 46% found certifications instrumental in securing employment](ymhc-certifications-employment-outcomes.md) — related
-- [The Friday Institute used micro-credential stacks to close the implementation gap left by MOOC-Ed content at scale](friday-institute-mooc-ed-implementation-gap-micro-credentials.md) — related
+- [The Friday Institute added micro-credential stacks to its MOOC-Ed to address the gap between taking professional development at scale and implementing it in the classroom (a case description, not an evaluation)](friday-institute-mooc-ed-implementation-gap-micro-credentials.md) — related
 - [More than four-fifths of 2015 LINCS certification track course completers in five consortium colleges were employed within three quarters after the course, with average quarterly earnings of nearly $7,400](lincs-completers-employment-earnings-2015.md) — related
 - [Consortium-wide, 35 percent of participants completed a grant-funded program of study, with high employment rates and wage growth above the national average](cbe-participants-completion-employment-wages.md) — related

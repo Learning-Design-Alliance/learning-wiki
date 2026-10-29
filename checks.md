@@ -8,16 +8,16 @@ This wiki is written by language models, from published research, and checked by
 
 | | |
 |---|---|
-| Claims | 33,430, from 8,342 sources |
+| Claims | 33,429, from 8,342 sources |
 | Reviewed by a person | 0 |
-| Every evidence entry compared with its source by the faithfulness judge | 5,332 claims (16%) |
-| Claims citing at least one DOI | 25,722 claims (77%) |
+| Every evidence entry compared with its source by the faithfulness judge | 5,344 claims (16%) |
+| Claims citing at least one DOI | 25,731 claims (77%) |
 | Sources whose citations went through the Crossref identity gate | 7,776 of 8,342 |
 | Sources read for impossible statistics and invented references | 6,251 of 7,135 (2026-10-25) |
 | Cited DOIs checked for retraction | 6,793 of 6,793 (2026-10-25) |
 | Retracted sources found and acted on | 3 |
 | Claims past their recheck year (fast-ageing kinds only) | 2,571 of 5,710 with one |
-| Claims removed by a check, all time | 4,429 |
+| Claims removed by a check, all time | 4,430 |
 
 ## The checks, in the order a claim meets them
 
@@ -51,7 +51,7 @@ A claim whose evidence has no DOI after a Crossref and DataCite search is remove
 
 **Cannot catch.** Whether the DOI'd source is any good.
 
-**Coverage.** 25,722 of 33,430 claims (77%) cite a DOI; 2,878 claims removed for having none.
+**Coverage.** 25,731 of 33,429 claims (77%) cite a DOI; 2,879 claims removed for having none.
 
 ### 5. Faithfulness to the source
 
@@ -59,7 +59,7 @@ A second model, from a different provider, reads each evidence entry beside the 
 
 **Cannot catch.** A claim checked only against an abstract, for detail an abstract does not carry. The judge is a model and has been wrong; its failures are read before they are acted on.
 
-**Coverage.** 5,332 claims (16%) have had every evidence entry compared with its source and passed; 162 judge failures were read and recorded with a reason. Each claim states this on its page, in its *Currency* line.
+**Coverage.** 5,344 claims (16%) have had every evidence entry compared with its source and passed; 162 judge failures were read and recorded with a reason. Each claim states this on its page, in its *Currency* line.
 
 ### 6. Can the source be believed?
 
@@ -67,7 +67,7 @@ Added 2026-10-25, after an audit of AI-in-education meta-analyses found that a s
 
 **Cannot catch.** Invented references that carry no DOI and no anachronism; errors that leave the arithmetic consistent; a source whose text was not available (abstract only).
 
-**Coverage.** 6,251 of 7,135 sources read (2026-10-25): 43 with a finding, 4 high severity. Reference DOIs: 6,519 DOIs from 610 AI-era sources resolved; 202 sources have one that does not resolve or names another work, listed for a person but not acted on automatically, because text extracted from a PDF breaks DOIs across lines and most of these are layout, not invention. 9 findings decided: 6 confirmed and acted on, 3 false alarms. 3 retracted sources found; of 6,793 DOIs the wiki cites, 0 were registered at neither Crossref nor DataCite when last checked (2026-10-25).
+**Coverage.** 6,251 of 7,135 sources read (2026-10-25): 43 with a finding, 4 high severity. Reference DOIs: 6,519 DOIs from 610 AI-era sources resolved; 202 sources have one that does not resolve or names another work, listed for a person but not acted on automatically, because text extracted from a PDF breaks DOIs across lines and most of these are layout, not invention. 10 findings decided: 6 confirmed and acted on, 4 false alarms. 3 retracted sources found; of 6,793 DOIs the wiki cites, 0 were registered at neither Crossref nor DataCite when last checked (2026-10-25).
 
 ### 7. Does the study measure what the claim says?
 
@@ -75,7 +75,7 @@ Also added 2026-10-25, from the same audit's most common findings. For each caus
 
 **Cannot catch.** Problems the paper does not report. The judge reads only what the study says about itself.
 
-**Coverage.** causal entries on AI claims: 1,319 of 1,319 judged (2026-10-25); found unit 108, isolation 96, comparison 71. every causal entry: 7,568 of 7,638 judged (2026-10-25); found isolation 488, unit 337, comparison 295. 1,298 findings read and acted on.
+**Coverage.** causal entries on AI claims: 1,319 of 1,319 judged (2026-10-25); found unit 108, isolation 96, comparison 71. every causal entry: 7,568 of 7,638 judged (2026-10-25); found isolation 488, unit 337, comparison 295. 1,299 findings read and acted on.
 
 ### 8. Evidence codes
 
@@ -83,7 +83,7 @@ Each evidence entry carries a design tier (`q1`–`q4`), an impact code (`i0`–
 
 **Cannot catch.** Whether a study's conclusion is true. The codes describe how a study was done, not whether it was right.
 
-**Coverage.** 40,167 evidence entries; 5,727 rest on a printed effect size and 34,459 report none (`i?`); 35,074 carry a rigour rating.
+**Coverage.** 40,166 evidence entries; 5,727 rest on a printed effect size and 34,458 report none (`i?`); 35,073 carry a rigour rating.
 
 ### 9. Duplicates and merges
 
@@ -115,7 +115,7 @@ Removals are logged with their reason in `eval/removed/pages.ndjson`; git histor
 
 | Reason | Claims and pages |
 |---|---|
-| No verifiable source (no DOI after a Crossref and DataCite search) | 2,878 |
+| No verifiable source (no DOI after a Crossref and DataCite search) | 2,879 |
 | About how research is done, not a design decision | 995 |
 | Local context only (one district, programme or year) | 217 |
 | Source cannot be believed (impossible statistics, invented references, retraction) | 11 |

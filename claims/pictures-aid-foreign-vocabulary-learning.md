@@ -8,10 +8,11 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-29
 evidence_strength: moderate
-newest_evidence: 1955
+newest_evidence: 1956
 sources:
   - id: kale-1955
-    title: Kale, S. V., and Grosslight, J. H. (1955). Exploratory Studies in the Use of Pictures and Sound for Teaching Foreign Language Vocabulary. Technical Report SDC 269-7-53, Instructional Film Research Program, Pennsylvania State University.
+    resource: "https://doi.org/10.1007/bf02718464"
+    title: "Kale, S. V., and Grosslight, J. H. (1955). Exploratory Studies in the Use of Pictures and Sound for Teaching Foreign Language Vocabulary. Technical Report SDC 269-7-53, Instructional Film Research Program, Pennsylvania State University. Abstracted by L. Twyford (1956), *AV Communication Review*. [doi:10.1007/bf02718464](https://doi.org/10.1007/bf02718464)"
     author: Kale, S. V., and Grosslight, J. H.
     q: 2
     i: "?"
@@ -23,7 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
-> **Currency** · newest study 1955 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1956 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Pictures of an object or act are an aid to learning foreign vocabulary measured by written performance. [→ Kale 1955](#kale-1955)
@@ -32,7 +33,7 @@ sources:
 
 ### Kale 1955
 
-Kale, S. V., and Grosslight, J. H. (1955). Exploratory Studies in the Use of Pictures and Sound for Teaching Foreign Language Vocabulary. Technical Report SDC 269-7-53, Instructional Film Research Program, Pennsylvania State University.
+Kale, S. V., and Grosslight, J. H. (1955). Exploratory Studies in the Use of Pictures and Sound for Teaching Foreign Language Vocabulary. Technical Report SDC 269-7-53, Instructional Film Research Program, Pennsylvania State University. Abstracted by L. Twyford (1956), *AV Communication Review*. [doi:10.1007/bf02718464](https://doi.org/10.1007/bf02718464)
 
 `q2 · i?` · `causal · r?`
 

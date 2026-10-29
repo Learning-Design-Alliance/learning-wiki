@@ -9,6 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: moderate
 newest_evidence: 2022
+source_checked: 2026-10-29
 sources:
   - id: jakob-schwerter-2022
     resource: "https://doi.org/10.1007/s11423-022-10105-z"
@@ -24,10 +25,10 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2022 · checked against its sources 2026-10-29 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
-`q3 i?` Watching the preparation videos prior to the session led to a 10.9% increase in learning-phase performance, and solving the exercise sheet was also significant. [→ Jakob Schwerter 2022](#jakob-schwerter-2022)
+`q3 i?` In random-effects regressions, sessions for which students reported having watched the preparation videos had a learning-phase proportion correct 0.109 higher, and solving the exercise sheet (0.084) was also a significant predictor; preparation was self-reported, not assigned, so these are associations, not shown causes. [→ Jakob Schwerter 2022](#jakob-schwerter-2022)
 
 ## Evidence
 
@@ -37,7 +38,7 @@ Jakob Schwerter, Franz Wortha, Peter Gerjets. (2022). E-learning with multiple-t
 
 `q3 · i?` · `causal · r2`
 
-Random-effects panel regressions including weekly self-reported preparation variables (lecture visited, video watched, exercise sheet worked on and solved) for 87 students. Video watching and exercise sheet solving were significant predictors of learning-phase performance.
+Random-effects panel regressions including weekly self-reported preparation variables (lecture visited, video watched, exercise sheet worked on and solved) for 87 students. Video watching (coefficient 0.109 on the proportion of correct answers in the learning phase) and exercise sheet solving (0.084) were significant predictors of learning-phase performance. Only the hint condition was randomly assigned; preparation was self-reported and observational, so although the authors word the video result causally below, it shows an association, not that watching the videos caused the higher performance.
 
 > "However, the results also show that other variables, such as whether the preparation videos were watched, had a more substantial effect on performance (e.g., watching the videos prior to the session led to a 10.9% increase in performance)."
 
