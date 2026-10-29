@@ -41,7 +41,8 @@ The article's design recommendation is to build teachable agents that pose persi
 - knowledge-building over knowledge-telling
 
 ## Related Strategies
-- 
+
+- [Adapt multi-agent AI roles to learners' prior knowledge and regulate agent participation dynamically from interaction cues](adaptive-agent-roles-by-prior-knowledge.md)
 
 ## Examples
 -

@@ -53,3 +53,4 @@ Illustrative analysis of two open-ended survey questions about benefits and draw
 - [Open-ended learner feedback revealed four themes: trust in AI scaffolding, feedback clarity, engagement, and task authenticity](cyberagents-qualitative-four-themes.md) — related
 - [Emotional discomfort from viewing medical images was the dominant drawback of the annotation task, alongside repetitiveness](emotional-discomfort-medical-images-main-drawback.md) — related
 - [Students most enjoyed creating images with AI, followed by generating text, with video creation least favoured](students-enjoyed-image-creation-most.md) — related
+- [Students warn that overly perfect, anthropomorphic PA communication can be unsettling and produce uncanny valley effects](pa-anthropomorphism-uncanny-valley-caution.md) — possibly the same claim (merge candidate)

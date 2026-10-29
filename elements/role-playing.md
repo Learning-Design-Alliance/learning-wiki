@@ -13,7 +13,7 @@ generated:
 # Role-Playing
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 9 claims (6 for, 3 mixed) · 9 studies (3 qualitative, 2 causal, 2 review, 1 associational, 1 theoretical), `q1`–`q2` · 2 of 9 report an effect size · 9 claims rest on one study
+> **Evidence** · 11 claims (7 for, 4 mixed) · 10 studies (3 causal, 3 qualitative, 2 review, 1 associational, 1 theoretical), `q1`–`q3` · 3 of 10 report an effect size · 11 claims rest on one study
 
 ## Description
 Role-playing is the element in which learners adopt roles and act through a scenario, interaction, or decision process from that perspective. It is useful when learning depends on situational judgment, empathy, communication, or applied decision-making.
@@ -45,6 +45,8 @@ Role-playing is the element in which learners adopt roles and act through a scen
 - [Shifts among self perspectives are locatable moments of learning in which the self develops and expands](../claims/self-perspective-shifts-as-learning.md) [~W]
 - [Situational comic play creation improved elementary students' English performance and expressed learning autonomy](../claims/comic-drama-creation-improved-english-autonomy.md) [+W]
 - [A computer-based simulation game helped students apply theoretical team-role knowledge to identify team roles in practice and evaluate their own performance in a role](../claims/simulation-game-team-role-self-reflection.md) [+W]
+- [Children display more disinhibited social engagement in a computer-mediated role-play task than in theme-matched paper-pencil vignettes](../claims/more-dse-computer-role-play-than-paper-pencil.md) [+W] — attached 2026-10-29 from Fallon et al. (2018), which proposed "Theme-matched DSE vignette and Kar2ouche computer role-play assessment tasks".
+- [The advantage of computer role-play over paper-pencil vignettes in eliciting DSE holds for 6- and 8-year-olds but not for 10-year-olds](../claims/age-by-presentation-interaction-dse.md) [~M] — attached 2026-10-29 from Fallon et al. (2018), which proposed "Theme-matched DSE vignette and Kar2ouche computer role-play assessment tasks".
 
 ## Related Elements
 - [Decision-Making](decision-making.md)

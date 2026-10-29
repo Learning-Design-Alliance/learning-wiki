@@ -54,3 +54,4 @@ Qualitative synthesis of active verbal cueing excerpts in the review's results. 
 - [Experts scaffold by reassuring novices to continue acting or thinking, removing uncertainty about whether they chose the right action](reassurance-cues-sustain-novice-continuation.md) — related
 - [Combined verbal and nonverbal cueing most often draws attention to landmarks and clarifies tool use](combined-cueing-landmarks-and-tools.md) — related
 - [Students incorrectly considered partially hinting images helpful](students-misjudge-hint-images-as-helpful.md) — related
+- [Teachers and students expect PAs to scaffold self-regulated learning by providing hints and questions rather than directly giving solutions](pa-scaffolding-hints-not-solutions.md) — related

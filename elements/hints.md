@@ -22,7 +22,7 @@ sources:
 # Hints
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 31 claims (12 for, 18 mixed, 1 against) · 20 studies (9 causal, 5 design, 2 review, 2 associational, 1 qualitative, 1 theoretical), `q1`–`q3` · 4 of 20 report an effect size · 30 claims rest on one study
+> **Evidence** · 32 claims (13 for, 18 mixed, 1 against) · 21 studies (9 causal, 5 design, 2 review, 2 associational, 2 qualitative, 1 theoretical), `q1`–`q3` · 4 of 21 report an effect size · 31 claims rest on one study
 
 ## Description
 Hints are partial prompts or cues that help learners continue a task without fully giving away the answer. They are useful when the design goal is to preserve productive struggle while reducing the chance of stuckness, confusion, or abandonment.
@@ -81,6 +81,7 @@ Hints are partial prompts or cues that help learners continue a task without ful
 - [Hints in multiple-try feedback reduce the likelihood of making errors during the learning phase](../claims/hints-in-multiple-try-feedback-reduce-learning-phase-errors.md) [+W]
 - [Hints in multiple-try feedback do not significantly improve performance on the immediate test taken directly after the learning phase](../claims/hints-no-significant-immediate-testing-effect.md) [~W]
 - [Most interviewed students did not use NNG 4's tutorial and hint options, and preferred harder game difficulty](../claims/nng4-tutorial-hint-largely-unused-preferred-difficulty.md) [~W]
+- [Teachers and students expect PAs to scaffold self-regulated learning by providing hints and questions rather than directly giving solutions](../claims/pa-scaffolding-hints-not-solutions.md) [+W]
 
 ## The evidence by question
 

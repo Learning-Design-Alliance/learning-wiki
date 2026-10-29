@@ -51,3 +51,4 @@ Path analysis (Average model) of data from 140 secondary students in a pre- and 
 - [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md) — a broader claim this one bears on
 - [Engagement predicted concept-map final performance, which in turn predicted learning gains in the ITS](engagement-performance-learning-gains-chain.md) — related
 - [High SRL students report significantly more interest/enjoyment, effort/importance, and value/usefulness than Medium or Low SRL students](high-srl-higher-motivation-subscale-scores.md) — related
+- [In measures of children's digital engagement, the predominant themes were enjoyment (45.2%), participation (35.5%) and interest (25.8%)](measure-themes-enjoyment-participation-interest.md) — related

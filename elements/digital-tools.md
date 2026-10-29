@@ -13,7 +13,7 @@ generated:
 # Digital Tools
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 67 claims (36 for, 28 mixed, 3 against) · 63 studies (13 review, 11 causal, 11 associational, 10 design, 7 theoretical, 6 quant-synthesis, 5 qualitative), `q1`–`q4` · 8 of 63 report an effect size · 66 claims rest on one study
+> **Evidence** · 68 claims (36 for, 29 mixed, 3 against) · 64 studies (13 review, 12 associational, 11 causal, 10 design, 7 theoretical, 6 quant-synthesis, 5 qualitative), `q1`–`q4` · 9 of 64 report an effect size · 67 claims rest on one study
 
 ## Description
 Digital tools are the element in which learners use software, platforms, or digital applications to create, collaborate, practice, or receive feedback. They are useful when a tool meaningfully extends what learners can do.
@@ -102,6 +102,7 @@ Digital tools are the element in which learners use software, platforms, or digi
 - [Generous IT infrastructure in learning studios led to increased digital technology use requiring teacher coordination](../claims/infrastructure-density-increased-digital-use.md) [~W]
 - [Teacher-prescribed tools dominate reading and interacting, while personal tools dominate creative uses](../claims/prescribed-tools-reading-personal-tools-creative.md) [+W]
 - [Teachers' most frequently cited barrier to classroom technology use was lack of access to technology, on both pre- and post-surveys](../claims/technology-access-top-barrier-for-teachers.md) [~W]
+- [SVA daily usage and recommender reliance negatively predict verbal ability only in the younger cohort](../claims/sva-use-negative-verbal-ability-younger-cohort-only.md) [~W]
 
 ## The evidence by question
 - *Does putting instruction on a digital medium change learning by itself, or only through the method, time and teaching it carries?* [Media comparison studies produce uninterpretable "no significant difference" findings.](../claims/media-comparison-studies-produce-uninterpretable-results.md) [+M]

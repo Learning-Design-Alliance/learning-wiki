@@ -13,7 +13,7 @@ generated:
 # Moderation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (1 for, 1 mixed) · 5 studies (2 causal, 2 quant-synthesis, 1 associational), `q2`–`q4` · 1 of 5 report an effect size · 1 claim rests on one study
+> **Evidence** · 4 claims (3 for, 1 mixed) · 6 studies (3 causal, 2 quant-synthesis, 1 associational), `q2`–`q4` · 1 of 6 report an effect size · 3 claims rest on one study
 
 ## Description
 Moderation is the active facilitation of discussion by an instructor or trained facilitator who shapes participation, keeps dialogue on task, and pushes learners toward deeper reasoning. The moderator does not lecture or supply answers but structures turn-taking, probes claims, surfaces disagreement, and ensures that conversational norms support knowledge building rather than social drift.
@@ -54,6 +54,8 @@ Well-moderated discussion converts unstructured peer talk into productive [Knowl
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Moderation of synchronous computer-mediated interaction differs from face-to-face or asynchronous moderation](../claims/moderation-synchronous-cmc-differs-from-other-modes.md) [~W]
+- [Moderated WhatsApp groups increased professional knowledge among newly graduated nurses relative to an untreated control group](../claims/moderated-whatsapp-groups-higher-knowledge-nurses.md) [+W] — attached 2026-10-29 from Pimmer et al. (2019), which proposed "Six-month moderated WhatsApp group intervention for newly graduated nurses".
+- [Controlling for active contributions, intervention effects were more pronounced and professional identification was higher in the moderated WhatsApp condition](../claims/active-contributions-strengthen-mim-effects.md) [+W] — attached 2026-10-29 from Pimmer et al. (2019), which proposed "Six-month moderated WhatsApp group intervention for newly graduated nurses".
 
 ## Related Elements
 - [Discussion Prompt](discussion-prompt.md) — the task that moderation operates on; prompt quality bounds what moderation can achieve

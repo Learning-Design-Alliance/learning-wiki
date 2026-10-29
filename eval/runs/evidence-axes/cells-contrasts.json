@@ -49278,5 +49278,129 @@
  "technology-tool\tAI for concept explanation\tAI for completing an entire assignment": {
   "label": "AI concept explanation vs AI completing an entire assignment",
   "treatment_is_a": true
+ },
+ "active-learning\tmore opportunities for social interaction during online classes\tfewer opportunities for social interaction": {
+  "label": "more opportunities for social interaction vs fewer opportunities for social interaction",
+  "treatment_is_a": true
+ },
+ "active-learning\tmore opportunities for social interaction during online classes\tfewer opportunities for social interaction during online classes": {
+  "label": "more opportunities for social interaction vs fewer opportunities for social interaction",
+  "treatment_is_a": true
+ },
+ "feedback-type\t3 happy face emoticons in feedback\t3 confused face emoticons in feedback": {
+  "label": "happy vs sad or confused emoticons",
+  "treatment_is_a": true
+ },
+ "feedback-type\t3 happy face emoticons in feedback\t3 sad face emoticons in feedback": {
+  "label": "happy vs sad or confused emoticons",
+  "treatment_is_a": true
+ },
+ "feedback-type\t3 happy face emoticons in feedback\t3 sad or confused faces": {
+  "label": "happy vs sad or confused emoticons",
+  "treatment_is_a": true
+ },
+ "feedback-type\temoticons in feedback\tno emoticons": {
+  "label": "emoticons vs no emoticons",
+  "treatment_is_a": true
+ },
+ "feedback-type\tfeedback with emoticons\tfeedback without emoticons": {
+  "label": "emoticons vs no emoticons",
+  "treatment_is_a": true
+ },
+ "feedback-type\thappy emoticons\tno emoticons": {
+  "label": "happy emoticons vs no emoticons",
+  "treatment_is_a": true
+ },
+ "feedback-type\thappy emoticons (3)\tsad or confused emoticons (3)": {
+  "label": "happy vs sad or confused emoticons",
+  "treatment_is_a": true
+ },
+ "feedback-type\thappy emoticons in feedback\tno emoticons or negatively valenced emoticons": {
+  "label": "happy emoticons vs no emoticons or negative emoticons",
+  "treatment_is_a": true
+ },
+ "feedback-type\tpositive and encouraging PA feedback\tdemanding, unkind, or discouraging feedback": {
+  "label": "positive and encouraging vs demanding, unkind, or discouraging feedback",
+  "treatment_is_a": true
+ },
+ "gamification\tanonymous comparison on an absolute leaderboard\tpublicly identifiable comparison on an absolute leaderboard": {
+  "label": "Publicly identifiable vs anonymous comparison on an absolute leaderboard",
+  "treatment_is_a": false
+ },
+ "gamification\tcompetition environment with real-time scores, rankings, and nicknames\tno competition information": {
+  "label": "Competition vs no competition",
+  "treatment_is_a": true
+ },
+ "gamification\tcompetition game environment\tno-competition game environment": {
+  "label": "Competition vs no competition",
+  "treatment_is_a": true
+ },
+ "gamification\tcompetition game version\tno-competition game version": {
+  "label": "Competition vs no competition",
+  "treatment_is_a": true
+ },
+ "gamification\tcompetition game with live scores and rankings\tsame game without competition": {
+  "label": "Competition vs no competition",
+  "treatment_is_a": true
+ },
+ "gamification\tgame with real-time competition\tgame without competition": {
+  "label": "Competition vs no competition",
+  "treatment_is_a": true
+ },
+ "gamification\tpublic comparison with nearby peers on a relative leaderboard\tanonymous comparison on a relative leaderboard": {
+  "label": "Publicly identifiable vs anonymous comparison on a relative leaderboard",
+  "treatment_is_a": true
+ },
+ "other\t'innovative' schools\t'traditional' schools": {
+  "label": "innovative schools vs traditional schools",
+  "treatment_is_a": true
+ },
+ "other\t'traditional' schools\t'innovative' schools": {
+  "label": "innovative schools vs traditional schools",
+  "treatment_is_a": false
+ },
+ "other\t15 AEQ constructs\tCronbach’s α = 0.80 cutoff": {
+  "label": "15 AEQ constructs vs Cronbach’s alpha cutoff",
+  "treatment_is_a": true
+ },
+ "other\t15-week flipped algebra course designed with the final model\tpre-course VAMS assessment": {
+  "label": "final-model flipped course vs pre-course assessment",
+  "treatment_is_a": true
+ },
+ "other\t1948 research\tresearch repeated in 1958 and 1968": {
+  "label": "later repeated research vs earlier research",
+  "treatment_is_a": false
+ },
+ "other\t2007 NAEP reading assessment\t1992 NAEP reading assessment": {
+  "label": "later assessment year vs earlier assessment year",
+  "treatment_is_a": true
+ },
+ "other\t2007 NAEP reading assessment\t2005 NAEP reading assessment": {
+  "label": "later assessment year vs earlier assessment year",
+  "treatment_is_a": true
+ },
+ "other\t2007 assessment\tall previous assessments": {
+  "label": "later assessment year vs previous assessment years",
+  "treatment_is_a": true
+ },
+ "other\t2007 assessment year\t2005 assessment year": {
+  "label": "later assessment year vs earlier assessment year",
+  "treatment_is_a": true
+ },
+ "other\t2007 bottom-quintile students\t2003 bottom-quintile students": {
+  "label": "later cohort vs earlier cohort",
+  "treatment_is_a": true
+ },
+ "scaffolding\tAdaptive relational and task-related PA communication with prompts, hints, feedback, and reminders\tNon-adaptive or one-way PA communication without such scaffolding": {
+  "label": "adaptive scaffolding vs no or non-adaptive scaffolding",
+  "treatment_is_a": true
+ },
+ "scaffolding\tadaptive prompts, hints, feedback, and reminders from a PA\tno or poorly timed PA support": {
+  "label": "adaptive scaffolding vs no or poorly timed scaffolding",
+  "treatment_is_a": true
+ },
+ "scaffolding\tgradually provide hints and pose questions\tdirectly provide the answer": {
+  "label": "hints and questions vs direct answers",
+  "treatment_is_a": true
  }
 }

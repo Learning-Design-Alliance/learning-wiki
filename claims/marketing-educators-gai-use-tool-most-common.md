@@ -50,3 +50,4 @@ Survey of 14 full-time marketing faculty covering familiarity with AI (5-point s
 - [Courses with higher-order learning objectives use and emphasize GAI skills more across its roles](higher-order-objectives-courses-emphasize-gai-skills-more.md) — related
 - [Over-reliance on GAI risks weakening teaching and social presence and depriving students of foundational skill development](gai-overreliance-risks-presence-and-skills.md) — related
 - [Students' main AI challenges are content reliability and depth, and most expect AI to serve as tutor, creative partner, and critical thinking partner rather than mere content generator](student-critical-ai-role-expectations.md) — related
+- [Teachers perceived the potential of Web 2.0 tools but did not currently consider including them in their courses, citing lack of training](teachers-not-yet-include-web20-tools-lack-training.md) — related

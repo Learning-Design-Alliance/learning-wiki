@@ -13,7 +13,7 @@ generated:
 # Motivation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 325 claims (216 show a difference, 77 mixed, 32 no difference) · 236 studies (85 associational, 68 causal, 37 review, 16 theoretical, 14 quant-synthesis, 10 qualitative, 6 design), `q1`–`q4` · 65 of 236 report an effect size · 313 claims rest on one study
+> **Evidence** · 329 claims (218 show a difference, 78 mixed, 33 no difference) · 238 studies (86 associational, 69 causal, 37 review, 16 theoretical, 14 quant-synthesis, 10 qualitative, 6 design), `q1`–`q4` · 65 of 238 report an effect size · 317 claims rest on one study
 
 ## Description
 Whether a learner will spend effort here, and what makes it feel worth spending. It decides whether a page must earn attention before it can teach, and how much open-endedness is tolerable. The honest state of the evidence is that the mechanisms are well supported and the *interventions* are modest — growth-mindset programmes produce small average effects concentrated in specific subgroups [+W], which is a reason to design for motivation rather than to bolt an intervention on.
@@ -375,6 +375,10 @@ Whether a learner will spend effort here, and what makes it feel worth spending.
 - [Students using the ACF-PA approach showed significantly higher intrinsic motivation than students using the C-PA approach, with no significant difference in extrinsic motivation](../claims/acf-pa-improves-intrinsic-motivation.md) [~M] — instruction changes it
 - [Triggered situational interest shows anecdotal evidence of being higher in the VR condition while maintained situational interest does not differ](../claims/desktop-vr-scaffolded-self-explanation-situational-interest.md) [~M] — instruction changes it
 - [Creative behavior persistence, operationalized as time spent in the second activity, predicts producing a creative solution](../claims/creative-behavior-persistence-predicts-creative-solution.md) [+M] — learners who differ on it differ in outcomes
+- [Emotional engagement with online learning has a positive indirect effect on self-directed study time through behavioral engagement, in both pandemic years](../claims/emotional-engagement-indirect-effect-behavioral.md) [+M] — learners who differ on it differ in outcomes
+- [First-year students differed between 2020 and 2021 in interaction opportunities, emotional engagement, and self-directed study time, but not behavioral engagement](../claims/year-differences-interaction-engagement-study-time.md) [~M] — instruction changes it
+- [On a relative leaderboard, intrinsic motivation is equal across top, middle, and bottom ranked students](../claims/relative-leaderboard-equal-intrinsic-motivation.md) [-M] — instruction changes it
+- [On an absolute leaderboard, top-ranked online students report significantly higher post-intervention intrinsic motivation than bottom-ranked students](../claims/absolute-leaderboard-top-ranked-higher-intrinsic-motivation.md) [+M] — instruction changes it
 
 ## The evidence by question
 - *Does autonomy-supportive teaching raise motivation and engagement compared with controlling teaching?* [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](../claims/autonomy-supports-intrinsic-motivation.md) [+M]

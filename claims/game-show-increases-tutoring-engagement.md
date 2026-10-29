@@ -52,3 +52,5 @@ Process-data comparison between Game Show and Baseline conditions in the classro
 - [No correlation between motivation or engagement measures and tutor learning gains](no-correlation-motivation-learning-gain.md) — related
 - [Well-designed games can promote persistence in practice and high-quality engagement, and when basic needs of autonomy, competence, and relatedness are met, learning becomes its own reward, reducing the temptation to outsource cognitive effort to LLMs.](well-designed-games-foster-practice-and-intrinsic-motivation.md) — related
 - [Learning-by-teaching games position students as tutors of a teachable virtual agent for basic mathematics](learning-by-teaching-teachable-agent-math-games.md) — a broader claim this one bears on
+- [A competition environment increases learners' motivation toward the instructional game](competition-increases-motivation-imms.md) — related
+- [Post-test scores correlate with motivation, response time, reading time and in-game accuracy](correlations-post-test-game-measures.md) — related

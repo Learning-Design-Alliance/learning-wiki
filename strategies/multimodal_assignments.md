@@ -61,6 +61,7 @@ Multimodal output works because combining verbal and visual representations enga
 - [Authentic Audiences, Purposes](../principles/authentic-audiences-purposes.md) — multimodal artifacts gain power when addressed to a real audience beyond the grader
 - [Assessment for Learning](../principles/assessment-for-learning.md) — format choice and rubrics make the assignment a learning event, not just a measurement
 - [Give learners control over how learning is measured via assessment choices and science-fair-type projects](learner-controlled-assessment-science-fair-projects.md)
+- [Co-involve students in producing podcasted lessons of their own course](co-involve-students-podcasting-lessons.md)
 
 ## Examples
 - A biology course where students produce a 3-minute explainer video of a cellular process instead of a lab report, uploaded to the LMS and peer-reviewed

@@ -14,7 +14,7 @@ grain_size: course
 # AI Tutoring
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 404 claims (183 for, 168 mixed, 53 against) · 276 studies (102 causal, 60 review, 38 design, 28 theoretical, 19 quant-synthesis, 15 associational, 14 qualitative), `q1`–`q4` · 57 of 276 report an effect size · 388 claims rest on one study
+> **Evidence** · 407 claims (183 for, 171 mixed, 53 against) · 278 studies (102 causal, 60 review, 38 design, 28 theoretical, 19 quant-synthesis, 16 associational, 15 qualitative), `q1`–`q4` · 57 of 278 report an effect size · 391 claims rest on one study
 
 ## Description and scope
 
@@ -385,6 +385,9 @@ This pattern is scoped to the tutor's moves within tasks and the handoff to peop
 - [Case analysis assistance and Socratic dialogue simulation dominated GenAI usage, and dialogue-based interaction patterns were associated with better outcomes than passive use](../claims/genai-usage-patterns-dialogue-effective.md) [+W]
 - [Most surveyed students actively engaged in resolving coding errors based on automarker feedback](../claims/automarker-feedback-active-error-resolution-37.md) [~W]
 - [Low-SRL students receiving GenAI feedback showed significantly higher post-intervention overall SRLs scores than tutor-feedback peers](../claims/genai-feedback-improves-low-srl-composite.md) [+M]
+- [Teachers and students expect PAs to scaffold self-regulated learning by providing hints and questions rather than directly giving solutions](../claims/pa-scaffolding-hints-not-solutions.md) [~W]
+- [Teachers and students apply human-to-human communication scripts, using teacher communication as the baseline, when outlining desired PA communication](../claims/human-to-human-scripts-baseline-pa-communication.md) [~W]
+- [Students in the multi-agent environment interacted far more than MOOC students with a Q&A chatbot, and overall scores improved significantly from pre-test to post-test](../claims/multi-agent-vs-mooc-chatbot-engagement-and-pre-post-gain.md) [~W]
 
 ## Examples
 - [ChatGPT as a virtual laboratory assistant in a sociotechnical system](../designs/sts-theory-chatgpt-virtual-laboratory-assistant.md) — ChatGPT answers lab questions beside human TAs, not in their place

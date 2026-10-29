@@ -67,3 +67,4 @@ A conceptual framework paper distinguishing humanlikeness (a design property) fr
 - [Meta-analytic path analysis supports model hypotheses but shows substantial unexplained heterogeneity across studies](meta-analytic-path-analysis-supports-tcm-with-heterogeneity.md) — related
 - [Emotional design features are implemented inconsistently within and between studies, especially in visual sophistication and anthropomorphic elements](emotional-design-implementation-heterogeneity.md) — related
 - [People preferred interacting with a humanoid robot over a comparable on-screen agent and showed less socially undesirable behaviour](robot-preferred-over-screen-agent-less-undesirable-behavior.md) — related
+- [Students warn that overly perfect, anthropomorphic PA communication can be unsettling and produce uncanny valley effects](pa-anthropomorphism-uncanny-valley-caution.md) — related

@@ -48,6 +48,7 @@ The article's forward-looking design recommendations are threefold: use factoria
 - [Use dynamic user models to recognize non-optimal learning behaviors and redirect students toward more effective behaviors](dynamic-user-models-redirect-non-optimal-behaviors.md)
 - [Design AI-supported VET environments that augment human judgment and strengthen learner agency rather than replicating human instruction (avoiding the Turing Trap)](avoid-turing-trap-augment-human-judgment-vet-ai.md)
 - [Complement outcome measures with continuous process measures to assess social effects and enable adaptive pedagogical agents](process-measures-for-adaptive-pedagogical-agents.md)
+- [Adapt multi-agent AI roles to learners' prior knowledge and regulate agent participation dynamically from interaction cues](adaptive-agent-roles-by-prior-knowledge.md)
 
 ## Examples
 -

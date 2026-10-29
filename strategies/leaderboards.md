@@ -59,9 +59,11 @@ Leaderboards operate on competitive and achievement-based motivation, which reli
 5. Monitor participation and outcomes, and gather learner feedback on the leaderboard's motivational impact; retire or restructure it if it demotivates a segment of the class
 
 ## Related Strategies
+
 - Badges and achievements — complementary gamification mechanics that reward milestones without public ranking
 - Streaks and daily goals — reward consistency rather than relative standing
 - Team-based competition — shifts comparison from individual to group level
+- [Sequence and restrict absolute leaderboard visibility to protect lower-ranked students' motivation](restrict-and-alternate-leaderboard-visibility.md)
 
 ## Related Elements
 - [Assess Performance](../elements/assess-performance.md) — the scoring mechanism that feeds the leaderboard

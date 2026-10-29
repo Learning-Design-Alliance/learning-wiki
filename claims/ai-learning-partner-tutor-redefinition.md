@@ -58,3 +58,4 @@ Qualitative trio-ethnography: the student consistently portrayed AI as a learnin
 - [Post-solution dialogues in physics tutoring most prominently serve explaining conceptual knowledge and integrating it with strategic problem-solving knowledge](post-solution-dialogue-roles-conceptual-integration.md) — related
 - [A simulated learning companion using menu-based dialogue in an ITS encourages student reflection and articulation, enhancing learning](menu-based-learning-companion-encourages-reflection-articulation.md) — related
 - [Lower-experience students used GPTs as conceptual tutors while technically stronger students used them as professional collaborators, consistent with adaptive scaffolding](gpt-differentiated-use-by-experience.md) — related
+- [Teachers and students expect PAs to scaffold self-regulated learning by providing hints and questions rather than directly giving solutions](pa-scaffolding-hints-not-solutions.md) — related

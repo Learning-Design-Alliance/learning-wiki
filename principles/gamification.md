@@ -13,7 +13,7 @@ generated:
 # Gamification
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 41 claims (19 for, 20 mixed, 2 against) · 46 studies (16 causal, 13 quant-synthesis, 10 review, 3 associational, 2 design, 2 theoretical), `q1`–`q4` · 13 of 46 report an effect size · 33 claims rest on one study
+> **Evidence** · 47 claims (23 for, 22 mixed, 2 against) · 48 studies (18 causal, 13 quant-synthesis, 10 review, 3 associational, 2 design, 2 theoretical), `q1`–`q4` · 14 of 48 report an effect size · 39 claims rest on one study
 
 ## Conditional relationship
 
@@ -127,6 +127,8 @@ Claims read against this model that do not change it. Each says what it is and w
 - [Newly arrived migrant children taught Italian through games showed larger vocabulary gains than traditionally taught peers on a vocabulary checklist inventory, not a direct test.](../claims/game-based-practice-outperforms-traditional-l2-vocabulary-instruction.md) [+W] — 48 Ukrainian children aged 6–7, Kahoot! and outdoor games against traditional teaching over four weeks (171.9 against 139.3 words, no standardised effect size); confounds format, novelty, competition and being outdoors, and is a game used as the activity rather than a layer added to practice. Belongs mainly to [Game-based Learning](game-based-learning.md); too confounded to support the child row.
 - Planned contingency-of-reinforcement designs can raise academic achievement above normal classroom levels across a wide range of children [+W] — a 1970 narrative survey of behaviour-modification studies, no effect sizes; the behaviourist side of the reward question. It does not separate rewards for accuracy from rewards for activity and does not test later free-choice engagement, so it does not change step 2.
 - [Most of the 45 reviewed studies report positive gamification effects on motivation and engagement in mathematics; only four report negative effects](../claims/gamification-mathematics-mostly-positive-four-negative.md) [+W] — attached 2026-10-21 from Ratinho et al. (2026), which proposed "Align gamification design with students' psychological needs, limiting excessive competition and prioritizing personal progress and cooperative tasks".
+- [Adding a real-time competition environment to a serious game improves learners' post-test scores](../claims/competition-improves-post-test-serious-game.md) [+W] — attached 2026-10-29 from Nergiz Ercil Cagiltay et al. (2015), which proposed "Serious game designers should incorporate competition to facilitate learning"; tests this page's relationship.
+- [A competition environment increases learners' motivation toward the instructional game](../claims/competition-increases-motivation-imms.md) [+W] — attached 2026-10-29 from Nergiz Ercil Cagiltay et al. (2015), which proposed "Serious game designers should incorporate competition to facilitate learning".
 
 ## Objective and learner-valued goal
 
@@ -207,6 +209,10 @@ The expectation should weaken if controlled comparisons of the same practice wit
 - [Gamification positively and significantly affects students' perceptions of autonomy](../claims/gamification-enhances-perceived-autonomy.md) [+W]
 - [Effect sizes are larger when the same instructor teaches both gamified and control groups, and when interventions run one to three months](../claims/gamification-moderators-instructor-and-duration.md) [~W]
 - [Gamification studies measure intrinsic motivation almost exclusively through self-report instruments, with no study using free-choice behavioral measures](../claims/intrinsic-motivation-measured-by-self-report.md) [~W]
+- [Leaderboards prompt upward comparison with group members, continued effort, and forum-based opinion comparison in fully online courses](../claims/leaderboard-upward-comparison-and-effort-perceptions.md) [+W]
+- [Competition increases time spent answering questions but not reading time or in-game accuracy](../claims/competition-response-time-accuracy-null.md) [~W]
+- [Path analysis supports an indirect path from competition through motivation and in-game accuracy to post-test scores](../claims/path-analysis-competition-motivation-accuracy.md) [+W]
+- [On a relative leaderboard, course engagement does not differ significantly across position levels](../claims/relative-leaderboard-no-engagement-difference.md) [~M]
 
 ## Related Principles
 - [Autonomy](autonomy.md) — gamification works when it expands meaningful choice, not when it controls learners through rewards

@@ -47,7 +47,7 @@ sources:
 # Game-based Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 69 claims (33 for, 35 mixed, 1 against) · 54 studies (16 causal, 14 quant-synthesis, 12 review, 4 design, 4 theoretical, 3 associational, 1 qualitative), `q1`–`q4` · 16 of 54 report an effect size · 63 claims rest on one study
+> **Evidence** · 71 claims (34 for, 36 mixed, 1 against) · 55 studies (17 causal, 14 quant-synthesis, 12 review, 4 design, 4 theoretical, 3 associational, 1 qualitative), `q1`–`q4` · 17 of 55 report an effect size · 65 claims rest on one study
 
 ## Conditional relationship
 
@@ -190,6 +190,8 @@ A gain in the game, a gain on an aligned outside test, delayed retention, transf
 - [A two-tier test-based migratory bird identification game outperformed conventional e-learning on motivation, achievement and technology acceptance](../claims/two-tier-test-game-beats-e-learning.md) [+W]
 - [A computer-based simulation game helped students apply theoretical team-role knowledge to identify team roles in practice and evaluate their own performance in a role](../claims/simulation-game-team-role-self-reflection.md) [+W]
 - [Worked-example effects in a 3D role-playing game for chemical formulas: significant on knowledge comprehension, marginal on knowledge application](../claims/worked-example-effect-3d-game-chemical-formulas.md) [~W]
+- [Path analysis supports an indirect path from competition through motivation and in-game accuracy to post-test scores](../claims/path-analysis-competition-motivation-accuracy.md) [~W]
+- [Post-test scores correlate with motivation, response time, reading time and in-game accuracy](../claims/correlations-post-test-game-measures.md) [+W]
 
 ## Related Principles
 - [Simulations & Immersive Virtual Environments](simulations-immersive-virtual-environments.md) — simulations overlap with game-based learning when the experience models a system learners must navigate.

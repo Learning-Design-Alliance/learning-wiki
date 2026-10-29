@@ -73,3 +73,4 @@ Study 1 specific recall model showed a significant gesture × VM interaction, χ
 - [Gesture effects on narrative comprehension are not moderated by total task difficulty or age when measured through free recall and specific questions](gesture-comprehension-not-moderated-by-difficulty-or-age.md) — related
 - [Observing and producing gestures can enhance comprehension of verbal messages including narratives](gesture-enhances-verbal-comprehension-established.md) — related
 - [Preschoolers using gesture recognition with the memory strategy achieved significantly better English learning performance than those using traditional activity learning with the memory strategy](gesture-recognition-memory-strategy-better-english-learning-performance.md) — related
+- [Academic engagement moderates the relationship between slide provision and exam performance](engagement-moderates-slide-provision-effect.md) — related

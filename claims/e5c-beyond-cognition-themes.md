@@ -68,3 +68,4 @@ Same qualitative coding analysis in the Results section; the theme covers intera
 - [Online environments build adolescent competence through pride in achievements, social confidence, and creative confidence](online-competence-pride-confidence-creativity.md) — related
 - [Instructors perceive that experiential learning cultivates enjoyment, satisfaction, and self-confidence through peer and community engagement (beauty)](instructors-enjoyment-peer-community-engagement.md) — related
 - [Girls produced 34 comprehensive PSAs and dozens of mini-Scratch projects, providing project-based evidence of computing knowledge gain](e5c-scratch-project-artifacts.md) — related
+- [In measures of children's digital engagement, the predominant themes were enjoyment (45.2%), participation (35.5%) and interest (25.8%)](measure-themes-enjoyment-participation-interest.md) — related

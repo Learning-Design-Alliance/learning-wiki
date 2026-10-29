@@ -116,3 +116,4 @@ gamified vocabulary practice.
 - [Students who played iThinkSmart VR mini games gained higher CT cognitive benefits than students learning through the traditional lecture method](ithinksmart-vr-higher-cognitive-benefits.md) — a narrower finding that bears on this claim
 - [Gamification has minimal impact on students' perceived competence](gamification-minimal-impact-perceived-competence.md) — related
 - [Reward contingency significantly moderates gamification's effect on intrinsic motivation, with 'each unit solved' contingencies showing larger effects](reward-contingency-moderates-gamification-effect.md) — related
+- [Adding a real-time competition environment to a serious game improves learners' post-test scores](competition-improves-post-test-serious-game.md) — a narrower finding that bears on this claim

@@ -66,3 +66,4 @@ In the random-effects part of the final model, the random slope for essay qualit
 ## Related Claims
 - [Inter-rater agreement among pre-service teachers is low regardless of grading approach or essay quality](low-inter-rater-agreement-preservice-grading.md) — related
 - [Pre-service teachers show high intra-rater consistency between holistic and analytic grades for the same essays](high-intra-rater-consistency-holistic-analytic-preservice.md) — related
+- [About 9% of variance in classroom ICT use lies between schools, with the remainder between teachers within schools](variance-partition-school-teacher-ict-use.md) — related

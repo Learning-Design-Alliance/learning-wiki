@@ -50,3 +50,4 @@ This is the article's narrative review of prior studies, attributed to the cited
 - [Effort expectancy is associated with AI use only indirectly through competence, whereas hedonic motivation shows a direct positive association](effort-expectancy-mediated-hedonic-motivation-direct.md) — related
 - [Teachers' expectancy beliefs about successfully using AI applications shape their motivation to use them (theoretical argument).](teacher-expectancy-beliefs-shape-motivation-to-use-ai.md) — related
 - [No previously validated GenAI perception or readiness instrument was designed for both instructors and students in AI-enhanced higher education](no-prior-genai-scale-for-both-faculty-and-students.md) — related
+- [Affective benefits are the strongest predictor of students' e-learning experience with AR learning applications](affective-benefits-strongest-predictor-ar-learning-experience.md) — related

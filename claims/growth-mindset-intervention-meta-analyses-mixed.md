@@ -68,3 +68,4 @@ The article reports, citing Macnamara and Burgoyne, that this meta-analysis of 7
 - [Growth-mindset interventions have weak average effects on achievement, including a negligible GPA gain (d = 0.11) for lower-achieving US ninth-graders in one preregistered national trial](growth-mindset-improves-achievement.md) — related
 - [Yeager et al. (2016) and Fink et al. (2018) found indeterminate effects on enrollment, credit completion, and chemistry final exam scores](yeager-fink-indeterminate-effects.md) — related
 - [Mindset interventions have only a weak effect on later academic achievement](mindset-interventions-weak-effect.md) — related
+- [Prior evidence on PowerPoint's effect on cognitive learning is equivocal, with a non-significant pooled effect](powerpoint-meta-analysis-null-pooled-effect.md) — related

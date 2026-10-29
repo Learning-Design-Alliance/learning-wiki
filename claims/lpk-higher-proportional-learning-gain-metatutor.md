@@ -52,3 +52,4 @@ ANCOVA with prior knowledge group (2 levels) as independent variable, proportion
 - [Low Prior Knowledge students achieved significantly higher normalized learning gains than High Prior Knowledge students](lpk-normalized-gain-exceeds-hpk.md) — related
 - [HPK students improved significantly only in the Low-Agency condition, with a large post-test advantage over HPK peers in High-Agency (d = .95)](hpk-improved-only-low-agency.md) — related
 - [Metacognition and critical-thinking tutors show mixed results: Operation ARA gained 1.4 σ, SEEK showed no significant improvement, and MetaTutor's learning-efficiency advantage disappeared when agent time was counted](metacognition-tutoring-mixed-outcomes.md) — related
+- [Students with low prior knowledge achieved the greatest learning gains in the multi-agent AI course, with a significant main effect of prior knowledge on gain](low-prior-knowledge-greatest-gains-multi-agent.md) — related

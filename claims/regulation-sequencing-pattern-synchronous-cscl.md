@@ -54,3 +54,4 @@ Process-mining analysis (Fuzzy Miner, Fluxicon Disco) of the coded regulatory ac
 - [Surprise is the most frequently shared emotion among learners in synchronous online collaborative English discussion tasks](surprise-most-frequent-shared-emotion-esl-cscl.md) — related
 - [Explicit group regulation in online PBL was infrequent, emerged in response to challenges, and often involved teacher support](explicit-regulation-infrequent-challenge-responsive.md) — related
 - [Task execution dominates social interactions in synchronous online collaborative learning, mirroring face-to-face and asynchronous findings](task-execution-dominates-synchronous-cscl-interactions.md) — related
+- [High prior knowledge students engaged more in co-regulation behaviors while low prior knowledge students relied more on question-raising and idea-confirming sequences](prior-knowledge-differentiates-co-regulation-co-construction.md) — related

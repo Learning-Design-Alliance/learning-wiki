@@ -52,3 +52,4 @@ Latent profile analyses at each of three waves using five technostress dimension
 - [Latent transition analysis extracted four ability-profiles of hypothesis-based reasoning across affirmative, refuting, and irrelevant evidence](four-hbr-ability-profiles-lta.md) — related
 - [Latent profile analysis of six AI-attitude indicators yields four profiles: Positive Empowerment, Anxious Acceptance, Low-Perception Detached, and High-Perception High-Vigilance](four-ai-attitude-latent-profiles-university-students.md) — related
 - [Latent profile analysis identifies three career adapt-abilities subgroups (low, moderate, high) among English majors](three-career-adapt-abilities-latent-profiles-english-majors.md) — related
+- [Technostress negatively moderates the relationships between all four UGT benefit dimensions and students' AR learning experience](technostress-negatively-moderates-ugt-ar-experience.md) — related

@@ -78,3 +78,4 @@ In the Thursday activity both classes did the same thing: each child shared a wo
 - [Anchoring activities in familiar contexts, such as photos of the children's own school, immediately engaged every child](familiar-contexts-boost-engagement.md) — related
 - [A trial reporting that robot-assisted digital storytelling improves hospitalized children's therapeutic communication used a scale on which the robot group's higher scores mean more difficulty communicating](robot-ds-improves-therapeutic-communication.md) — related
 - [Robot-assisted digital storytelling reduces hospitalized children's anxiety during intravenous injections more than video-based health education](robot-ds-reduces-hospitalization-anxiety.md) — related
+- [In measures of children's digital engagement, the predominant themes were enjoyment (45.2%), participation (35.5%) and interest (25.8%)](measure-themes-enjoyment-participation-interest.md) — related

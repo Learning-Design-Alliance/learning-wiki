@@ -13,7 +13,7 @@ generated:
 # Peer Interaction
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 24 claims (11 for, 13 mixed) · 28 studies (7 causal, 7 review, 5 associational, 4 qualitative, 2 quant-synthesis, 2 theoretical, 1 design), `q1`–`q4` · 3 of 28 report an effect size · 22 claims rest on one study
+> **Evidence** · 25 claims (12 for, 13 mixed) · 29 studies (7 causal, 7 review, 6 associational, 4 qualitative, 2 quant-synthesis, 2 theoretical, 1 design), `q1`–`q4` · 3 of 29 report an effect size · 23 claims rest on one study
 
 ## Description
 Peer interaction places learners in direct engagement with one another through discussion, debate, peer teaching, or collaborative task work. It functions as a social engine for learning: learners articulate ideas, encounter alternative perspectives, and negotiate shared understanding rather than receiving instruction passively.
@@ -74,6 +74,7 @@ Peer interaction supports learning when it requires learners to actively constru
 - [Online discussion participation predicted team project grades: students who answered others' questions more frequently and had a positive attitude received better grades](../claims/discussion-participation-predicts-project-grade.md) [+W]
 - [Positive Feedback for APT engagement does not positively impact learning in collaborative discussions](../claims/apt-positive-feedback-no-learning-impact.md) [~W]
 - [Students' active participation in offline group-learning (60.1%) was lower than in online self-learning](../claims/offline-participation-lower-than-online.md) [~W]
+- [Correlationally, more opportunities for social interaction during class were associated with more engagement and, in 2021 only, with more self-directed study time](../claims/interaction-correlations-engagement-self-study.md) [+W]
 
 ## The evidence by question
 - *Does class time spent with learners talking, explaining and discussing, rather than listening, change what they think about and understand, and does more talk alone do it?* [Discussion promotes more active thinking than lecture, though lecture is no worse for transmitting information](../claims/discussion-promotes-more-active-thought-than-lecture.md) [+S]

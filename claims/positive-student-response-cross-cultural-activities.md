@@ -50,3 +50,4 @@ The authors' evaluation in the Conclusion section is based on informal feedback 
 - [Designers develop cultural awareness through both informal exposure and formal intentional means](awareness-developed-informal-formal-means.md) — related
 - [Students rated mobile learning activities positively and 80% gave positive interview feedback](mobile-math-positive-student-perceptions.md) — related
 - [Synchronous videoconferencing projects fostered intercultural awareness and perspective taking in isolated communities](videoconferencing-intercultural-perspective-taking.md) — related
+- [Teachers perceived the potential of Web 2.0 tools but did not currently consider including them in their courses, citing lack of training](teachers-not-yet-include-web20-tools-lack-training.md) — related
