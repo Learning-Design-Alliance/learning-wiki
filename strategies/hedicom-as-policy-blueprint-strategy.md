@@ -47,7 +47,8 @@ The article recommends using the HeDiCom framework as a common reference providi
 - [Educator-focused digital literacy frameworks prioritize pedagogy, empowering learners, and curriculum and assessment, with more evenly distributed categories](../claims/educator-frameworks-pedagogy-and-systemic-capacities.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Develop ICT school policy collaboratively with teachers, train principals, and separate technical from curriculum-focused ICT support](collaborative-ict-policy-development-strategy.md)
 
 ## Examples
 -

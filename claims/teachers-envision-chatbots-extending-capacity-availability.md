@@ -58,3 +58,4 @@ Focus-group thematic analysis identified two complementary ways teachers envisio
 - [Pedagogical considerations and workload reduction potential are additional factors influencing teachers' acceptance of AI-EdTech, beyond trust](pedagogical-considerations-workload-reduction-acceptance-factors.md) — related
 - [The commentary argues there is little evidence that personalised learning technologies have saved teacher time or reduced workload](little-evidence-personalisation-saves-teacher-time.md) — reports the opposite
 - [Computer-based learning systems need to adapt to learners' needs to provide effective personalised instruction](adaptation-needed-for-personalised-instruction.md) — related
+- [Teachers and students envision PAs providing practical learning support such as reminders, task organization, and repetition-based practice in math and languages](pa-practical-learning-support-reminders-repetition.md) — related

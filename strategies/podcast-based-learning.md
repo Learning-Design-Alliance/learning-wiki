@@ -59,9 +59,11 @@ Audio-only delivery imposes distinct cognitive demands: without visual support, 
 5. Provide transcripts for accessibility and review.
 
 ## Related Strategies
+
 - Flipped classroom delivery — podcasts frequently serve as the pre-class content channel
 - Discussion-based formats — the natural follow-on activity that converts listening into processing
 - Audiobook and long-form audio approaches — same medium, extended duration, similar attention constraints
+- [Co-involve students in producing podcasted lessons of their own course](co-involve-students-podcasting-lessons.md)
 
 ## Examples
 - **[BBC Bitesize](https://www.bbc.co.uk/bitesize)** — short curriculum-aligned audio segments embedded in structured lessons.

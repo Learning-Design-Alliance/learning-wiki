@@ -2,7 +2,7 @@
 
 Designs for a particular setting, course, population or product: what a design uses the general patterns for. A pattern is general across contexts; a design is not.
 
-**1310 entries** · 0 stable · 1310 in review · 0 drafts
+**1311 entries** · 0 stable · 1311 in review · 0 drafts
 
 ---
 
@@ -767,6 +767,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Model program for community care of mentally deficient school children](model-program-community-care-mentally-deficient-children.md) - Presented in the reviewed book on the basis of the New Haven survey: its results \"are used to make specific and valuable recommendations for the local situation and a model program for the community care of mentally d...
 * [Modelo de evaluación formativa para cursos virtuales de matemáticas integrado con analítica de aprendizaje](modelo-evaluacion-formativa-matematicas-virtuales.md) - The thesis presents \"un modelo para la puesta en marcha de cursos virtuales de matemáticas, el cual está basado en un proceso de evaluación formativa e integrado con analíticas de aprendizaje, este sigue las cinco fas...
 * [Moderate-disturbance classrooms merge consultation into the quiet room and add group-project space](moderate-disturbance-shared-quiet-consultation-room.md) - For moderately disturbed children the booklet relaxes the severe-disorder scheme: \"Classrooms for moderately disturbed children differ from those for severely disturbed children in the elimination of separate consulta...
+* [Moderated mobile instant messaging groups as a vehicle for professional mobile learning communities during school-to-work transition](mim-professional-learning-communities-theory.md) - The article frames Mobile Instant Messaging as \"a genuine form of mobile learning\" and uses moderated WhatsApp groups—in which moderators shared knowledge and stimulated professional discussions—to engage young profes...
 * [Modular decomposition of AWE into scoring, surface-level feedback, and deep-level feedback](modular-awe-decomposition-framework.md) - The article organizes automated writing evaluation as a modular architecture that divides AWE tasks into three modules: scoring, surface-level feedback, and deep-level feedback.
 * [Modular spreadsheet-based grading setup combining clustering, sampled manual grading, classification, and full review](spreadsheet-cluster-grading-setup.md) - A reusable grading workflow in which student answers are clustered (k-means on lemmatized unigrams), a sample is manually graded as training data, per-question classifiers score the remaining answers, and all scores a...
 * [Modularized PBL+AI framework for biomedical engineering education](modularized-pbl-ai-framework-biomedical.md) - A four-module instructional architecture that embeds generative AI inside problem-based learning for biomedical AI courses.

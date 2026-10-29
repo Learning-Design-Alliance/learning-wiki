@@ -48,3 +48,4 @@ Observational analysis comparing weighted (post-character) networks with multigr
 ## Related Claims
 - [Multigraph indegree centrality is consistently and positively correlated with student performance across 12 PBL courses, with stronger correlations than other configurations in eight courses](multigraph-indegree-consistent-performance-correlation.md) — related
 - [Multigraph outdegree centrality is the most robust participation indicator, with significant positive correlations in all courses, while weighted outdegree was negatively correlated in two courses](multigraph-outdegree-most-robust-participation.md) — related
+- [The benefits of social interaction during online classes have limits: more is not always better, quality matters, and some students may find interactive courses burdensome](social-interaction-limits-not-panacea.md) — related

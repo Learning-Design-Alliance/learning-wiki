@@ -51,3 +51,4 @@ Counterbalanced quasi-experimental study comparing three performance task platfo
 - [Prior cross-sectional between-group research on the platform found a positive usage–test-score relationship but could not rule out unobserved confounding](prior-cross-sectional-platform-usage-achievement-link.md) — related
 - [Teachers reported increased student engagement when using Forms instead of paper-based assessments and surveys](forms-engagement-versus-paper.md) — reports the opposite
 - [Behavioural engagement indicators such as platform interaction and task completion do not by themselves establish cognitive engagement with mathematical ideas](behavioural-engagement-not-cognitive-engagement.md) — related
+- [Students' performance scores on the MuTAT touch-based assessment tool are comparable to paper-and-pencil test scores](mutat-performance-comparable-to-paper-tests.md) — related

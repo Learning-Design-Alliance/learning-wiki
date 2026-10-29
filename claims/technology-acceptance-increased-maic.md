@@ -49,3 +49,4 @@ Pre- and post-course technology acceptance questionnaires in the MAIC pilot. The
 - [Students in MAIC tend to prefer the passive continuous mode over interactive mode](students-prefer-continuous-mode.md)
 - [Predicted post-test distributions differed significantly from real distributions in four dimensions, with no significant difference only for Technology Acceptance](agent-distribution-significance-only-tech-acceptance.md)
 - [In the MAIC case study, student development agent predictions (Concept and Scales methods) outperformed the mean baseline across all five non-cognitive dimensions on RMSE and MAE](agent-beats-mean-baseline-rmse-mae.md) — related
+- [Technology acceptance of AI increased significantly across all prior knowledge groups after the multi-agent course, driven by Effort Expectancy and Facilitating Conditions](technology-acceptance-increased-all-groups.md) — a narrower finding that bears on this claim

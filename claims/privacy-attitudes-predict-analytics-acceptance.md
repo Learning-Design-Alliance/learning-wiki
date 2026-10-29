@@ -48,3 +48,4 @@ The editorial reports this as a finding of the Ifenthaler and Schumacher (2016) 
 - [Teachers' attitudes toward GenAI tools significantly predict their behavioural intention to integrate them](attitude-predicts-intention-genai.md) — related
 - [Teachers' technology acceptance follows the TAM: perceived usefulness, perceived ease of use, and attitude toward technology predict technology integration, moderated by organizational, technological, and individual factors](tam-predicts-teacher-technology-integration.md) — a broader claim this one bears on
 - [Perceived ease of use positively influenced attitudes toward using the AVDS tool](peou-positive-impact-attitude-avds.md) — related
+- [Teachers and students identify usability, learning analytics, emotion detection, trustworthiness, and privacy as required technological aspects for PAs](pa-technological-requirements-usability-analytics-trust.md) — related

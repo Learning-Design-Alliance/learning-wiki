@@ -26,7 +26,7 @@ sources:
 # Assessment Mechanic
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 10 claims (4 for, 6 mixed) · 9 studies (2 quant-synthesis, 2 associational, 2 theoretical, 1 causal, 1 review, 1 design), `q1`–`q4` · 4 of 9 report an effect size · 9 claims rest on one study
+> **Evidence** · 11 claims (5 for, 6 mixed) · 10 studies (2 quant-synthesis, 2 associational, 2 design, 2 theoretical, 1 causal, 1 review), `q1`–`q4` · 4 of 10 report an effect size · 10 claims rest on one study
 
 ## Description
 Games instrument themselves. Every action a player takes can be written to a log, which means a game is already collecting far more evidence about how a learner is thinking than a test administered afterwards ever could — *provided the actions it records are the ones worth interpreting*. An **assessment mechanic** is the design construct that makes that proviso hold. Plass and colleagues define it in the same parallel to Salen and Zimmerman that gives us the [Learning Mechanic](learning-mechanic.md):
@@ -88,6 +88,7 @@ The source's central warning is that instantiating an assessment mechanic as a g
 - [Log-based behaviours predicted problem-solving performance in the DI-PS group but hardly explained knowledge acquisition in either group](../claims/log-behaviours-predict-performance-not-knowledge.md) [~W]
 - [On the TIMSS dataset, InitialD reaches the same estimation error with fewer questions than random sampling or a traditional adaptive test](../claims/initiald-question-efficiency-timss.md) [+W] — attached 2026-10-27 from Jill-Jêenn Vie et al. (2018), which proposed "InitialD: DPP-based diverse question sampling for cold-start assessment"; tests this page's relationship.
 - [InitialD converges faster toward the final diagnosis only for small question counts; a standard CAT converges faster beyond about 14 questions](../claims/initiald-early-cat-late-convergence.md) [~W] — attached 2026-10-27 from Jill-Jêenn Vie et al. (2018), which proposed "InitialD: DPP-based diverse question sampling for cold-start assessment"; tests this page's relationship.
+- [MuTAT trace data can detect relative time efficiency of arithmetic strategies, with place-value faster on three of five questions](../claims/mutat-detects-strategy-efficiency-differences.md) [+W]
 
 ## Related Elements
 

@@ -60,3 +60,4 @@ Narrative synthesis in the educator-advantages section of the review. The review
 - [Lesson designers report LLM-generated lessons save substantial time drafting scenarios and multiple-choice questions](llm-lessons-time-saving-scenario-drafting.md) — a narrower finding that bears on this claim
 - [The commentary argues there is little evidence that personalised learning technologies have saved teacher time or reduced workload](little-evidence-personalisation-saves-teacher-time.md) — reports the opposite
 - [Computer-based learning systems need to adapt to learners' needs to provide effective personalised instruction](adaptation-needed-for-personalised-instruction.md) — related
+- [Teachers and students envision PAs providing practical learning support such as reminders, task organization, and repetition-based practice in math and languages](pa-practical-learning-support-reminders-repetition.md) — related

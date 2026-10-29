@@ -55,3 +55,4 @@ Platform-tracked timing data from the Moodle e-learning system after the experim
 - [Depth accuracy rose progressively during the intervention, with the experimental group improving roughly three percentage points per minute faster than the control group](tibetcpr-depth-progressive-within-session-gain.md) — related
 - [The experimental group spent significantly more time per problem and completed significantly fewer problems than the control group](se-prompts-increase-time-per-problem.md) — related
 - [Students using the AVDS tool completed the performance test faster than controls](avds-tool-shortens-completion-time.md) — related
+- [Competition increases time spent answering questions but not reading time or in-game accuracy](competition-response-time-accuracy-null.md) — related

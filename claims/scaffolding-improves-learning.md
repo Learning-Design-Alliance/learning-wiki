@@ -161,3 +161,4 @@ A systematic review of scaffolding research in primary/secondary teacher–stude
 - [Timing of support poses the assistance dilemma, and no empirically validated principles yet exist for when and how much support to give collaborating students](assistance-dilemma-timing-no-validated-principles.md) — related
 - [Metacognitive scaffolding outperforms conceptual scaffolding alone in online learning environments](metacognitive-scaffolding-outperforms-conceptual.md) — a narrower finding that bears on this claim
 - [EcoMUVE with scaffolding tools and cognitive maps improves deeper learning, task performance, and reduces achievement gaps](ecomuve-scaffolding-improves-learning-outcomes.md) — a narrower finding that bears on this claim
+- [Teachers and students expect PAs to scaffold self-regulated learning by providing hints and questions rather than directly giving solutions](pa-scaffolding-hints-not-solutions.md) — a narrower finding that bears on this claim

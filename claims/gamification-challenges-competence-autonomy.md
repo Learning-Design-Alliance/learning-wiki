@@ -74,3 +74,4 @@ From the same systematic review of 31 studies: autonomy challenges appeared in s
 - [Gamification positively and significantly affects students' perceptions of autonomy](gamification-enhances-perceived-autonomy.md) — related
 - [Gamification has minimal impact on students' perceived competence](gamification-minimal-impact-perceived-competence.md) — related
 - [Gamification studies measure intrinsic motivation almost exclusively through self-report instruments, with no study using free-choice behavioral measures](intrinsic-motivation-measured-by-self-report.md) — related
+- [On an absolute leaderboard, top-ranked online students report significantly higher post-intervention intrinsic motivation than bottom-ranked students](absolute-leaderboard-top-ranked-higher-intrinsic-motivation.md) — related

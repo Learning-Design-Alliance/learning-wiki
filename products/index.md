@@ -2,7 +2,7 @@
 
 Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's.
 
-**2265 entries** · 0 stable · 2265 in review · 0 drafts
+**2270 entries** · 0 stable · 2270 in review · 0 drafts
 
 ---
 
@@ -287,6 +287,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [ChatTutor](chattutor.md) - ChatTutor is a course-grounded GenAI chatbot developed by Guido Makransky and colleagues that engages students in personalized teaching conversations, prompts self-explanation, and provides targeted feedback based on course materials.
 * [Cheating Tendency (TC) scale](cheating-tendency-tc-scale.md) - A 20-item, four-dimension Likert self-report scale developed by Yilmaz A to measure undergraduate students' cognitive predisposition toward academic dishonesty, including AI-assisted cheating.
 * [Check & Connect](check-connect.md) - Check & Connect is a dropout-prevention programme developed and implemented through monitored student performance, individualized mentoring, case management, and coordinated support from school, family, and community partners.
+* [Check Text program](check-text-program.md) - A Visual Basic Script text-analysis tool developed by C.E.
 * [Chicago Annenberg Challenge](chicago-annenberg-challenge.md) - A school-improvement initiative that organized schools into networks supported by external partner organizations and was run by the Chicago Annenberg Challenge.
 * [Chicago High School Redesign Initiative](chicago-high-school-redesign-initiative.md) - A school-redesign initiative that supported the creation and development of small Chicago public high schools through partnerships among Chicago Public Schools, funders, and participating school communities.
 * [Chicago Public Education Fund](chicago-public-education-fund.md) - The Chicago Public Education Fund's framework and initiative support the concentration and development of talented teachers and school leaders to promote school improvement.
@@ -797,6 +798,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Generative AI Assessment Literacy Scale (GAA-LS)](generative-ai-assessment-literacy-scale-gaa-ls.md) - Nie et al.'s 18-item five-dimension self-report scale measures higher education students' perceived capacity to use generative AI responsibly in assessment-related tasks.
 * [Generative AI Literacy Assessment Test (GLAT)](generative-ai-literacy-assessment-test-glat.md) - A 20-item multiple-choice performance assessment developed by Jin et al.
 * [Generative AI Student Feedback Literacy Scale (GenAI-SFLS)](generative-ai-student-feedback-literacy-scale-genai-sfls.md) - A 39-item Chinese-language self-report scale developed by Cui et al.
+* [Generic Service Integration (GSI)](generic-service-integration-gsi.md) - A technical integration framework and IMS Learning Design extension that uses a generic API and service-specific adapters to connect external Web 2.0 tools with course engines, developed by Luis de-la-Fuente-Valentín and colleagues.
 * [GENESIS framework](genesis-framework.md) - A five-pillar framework proposed by Ahangama (2026) for guiding GenAI-era assessment reform in Australian ICT tertiary institutions at AQF levels 7–9.
 * [Genetics Cognitive Tutor three-factor cross dataset with transfer, PFL and problem-solving post-tests](genetics-cognitive-tutor-three-factor-cross-dataset-with-transfer-pfl-and-problem-solving.md) - A dataset of Carnegie Mellon undergraduates’ interactions with the Genetics Cognitive Tutor three-factor cross module and subsequent problem-solving, transfer, and preparation-for-future-learning assessments, released for training and validating shallowness detectors.
 * [Genie 2](genie-2.md) - Genie 2 is an intelligent tutoring system developed by Reasoning Mind that delivers a Russian-tradition mathematics curriculum to students in grades 2–6.
@@ -1313,6 +1315,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Multiple Episode Protocol Analysis (MEPA)](multiple-episode-protocol-analysis-mepa.md) - A computer program developed by Erkens et al.
 * [Multiple-Text Strategy Inventory (MTSI)](multiple-text-strategy-inventory-mtsi.md) - A 15-item questionnaire developed by Ivar Bråten and colleagues to assess undergraduates' self-reported accumulation and cross-text elaboration strategies immediately after reading multiple texts.
 * [MUSE: a 12-task benchmark of artistic image understanding for situated education](muse-a-12-task-benchmark-of-artistic-image-understanding-for-situated-education.md) - MUSE is a benchmark dataset developed by Luyao Zhu et al.
+* [MuTAT (Multi-Touch Arithmetic Tool)](mutat-multi-touch-arithmetic-tool.md) - MuTAT is a tablet-based arithmetic assessment prototype developed by Adesina et al.
 * [MuTSE](mutse.md) - MuTSE is a web application developed by Rares-Alexandru Roșcan et al.
 * [My Math Academy](my-math-academy.md) - My Math Academy is a game-based adaptive mathematics learning platform for pre-K through grade 2, developed and operated by Age of Learning.
 * [My Reading Academy](my-reading-academy.md) - My Reading Academy is an adaptive game-based foundational reading curriculum for pre-K through grade 2, providing phonemic-awareness, phonics, vocabulary, fluency, and comprehension instruction.
@@ -1993,6 +1996,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Talent Together registered teacher apprenticeship](talent-together-registered-teacher-apprenticeship.md) - Talent Together is a Michigan partnership programme that provides uncertified school employees with a paid, job-embedded route to teacher certification.
 * [Talent Transfer Initiative](talent-transfer-initiative.md) - A U.S.
 * [TalkingPoints](talkingpoints.md) - TalkingPoints is an education technology nonprofit's platform that provides universally designed, auto-translated two-way communication and guidance for family-school partnerships.
+* [TALKOO Arduino-based physical computing kit with multimodal learning analytics system](talkoo-arduino-based-physical-computing-kit-with-multimodal-learning-analytics-system.md) - A Cukurova et al.
 * [TAP System](tap-system.md) - A whole-school teacher evaluation, compensation, career-ladder, mentoring, and professional-development programme developed and operated by the National Institute for Excellence in Teaching.
 * [TapaCarp](tapacarp.md) - TapaCarp is a tangible user-interface-based CSCL environment developed for classroom training of carpenter apprentices by Cuendet, Dehler-Zufferey, Ortoleva, and Dillenbourg.
 * [TaraCarp tangible tabletop environment for carpenter vocational training](taracarp-tangible-tabletop-environment-for-carpenter-vocational-training.md) - TaraCarp is a tangible user-interface tabletop environment developed for vocational carpenter training, combining projected virtual artifacts with physical materials and orchestration tools.
@@ -2322,6 +2326,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [2003 Improving Chicago's Schools survey](2003-improving-chicagos-schools-survey.md) - A Chicago Public Schools survey administered to students, teachers, and principals in 2003 to collect information about school experiences, instruction, professional development, and working conditions.
 * [2005 Improving Chicago's Schools survey](2005-improving-chicagos-schools-survey.md) - A spring 2005 survey administered across Chicago Public Schools by the Consortium on Chicago School Research to collect reports from students, teachers, and principals about school experiences, instruction, professional development, and working conditions.
 * [2007 CPS AVID student and teacher survey with individualized school reports](2007-cps-avid-student-and-teacher-survey-with-individualized-school-reports.md) - A CCSR-developed survey and school-reporting instrument used with Chicago Public Schools AVID students and teachers to measure program experiences and compare participating schools.
+* [2007 South African ICT access and use survey with 26 ICT-mediated activities categorised by Laurillard's Conversational Framework](2007-south-african-ict-access-and-use-survey-with-26-ict-mediated-activities-categorised-b.md) - A questionnaire developed by Czerniewicz et al.
 * [2025 MAP Growth Achievement and Growth Norms](2025-map-growth-achievement-and-growth-norms.md) - A NWEA release of national achievement and growth norms, percentiles, and norms tables for MAP Growth assessments across U.S.
 * [2026 GenAI Typology survey dataset of educator tool usage](2026-genai-typology-survey-dataset-of-educator-tool-usage.md) - An internationally collected survey dataset of 211 educators across nine countries and education levels, released by Matt Bower et al., documenting the generative-AI tools educators reported using across nine typology categories.
 * [21-day EMA dataset of 6,918 language-learning episodes with momentary emotions, perceived proficiency and contextual features](21-day-ema-dataset-of-6918-language-learning-episodes-with-momentary-emotions-perceived-pr.md) - A smartphone-based intensive longitudinal dataset from 92 adult foreign-language learners, capturing momentary emotions, perceived proficiency, and contextual features across 21 days.

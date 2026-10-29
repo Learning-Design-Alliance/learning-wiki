@@ -13,7 +13,7 @@ generated:
 # MAIC platform
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 2 claims (2 for) · 2 studies (1 design, 1 theoretical), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 3 studies (1 associational, 1 design, 1 theoretical), `q2` · 0 of 3 report an effect size · 3 claims rest on one study
 
 ## Description
 An online learning environment developed by the article's authors that combines course-preparation workflows, multi-agent classrooms, customizable classmate agents, and large-model learning-analytics tools for instructors and university students.
@@ -27,6 +27,7 @@ An online learning environment developed by the article's authors that combines 
 ### Claims
 - [The analytics agent surfaced a Module 2 dead zone — students stopping around the 42-minute lecture mark where exercises ended — and the instructor revised the exercise set in response](../claims/itas-dead-zone-finding.md) [+W]
 - [In the collaborative MIT App Inventor study, significant interaction patterns signified coordination of behavior between team participants, and no lower self-efficacy emerged for non-CS-background participants](../claims/coordination-patterns-app-inventor-collaboration.md) [+M]
+- [Student-AI interaction in a multi-agent learning environment is organized into two significant engagement patterns: co-construction of knowledge and co-regulation](../claims/multi-agent-two-engagement-patterns-co-construction-co-regulation.md) [+M]
 
 ## Related Products and Programmes
 
@@ -38,3 +39,4 @@ An online learning environment developed by the article's authors that combines 
 - Jifan Yu, Zheyuan Zhang, Daniel Zhang-li, Shangqing Tu, Zhanxin Hao, Ruimiao Li, Haoxuan Li, Yuanchun Wang, Hanming Li, Linlu Gong, Jie Cao, Jiayin Lin, Jinchang Zhou, Fei Qin, Haohua Wang, Jianxiao Jiang, Lijun Deng, Yisi Zhan, Chaojun Xiao, Xusheng Dai, Xuan Yan, Nianyi Lin, Nan Zhang, Ruixin Ni, Yang Dang, Lei Hou, Yu Zhang, Xu Han, Manli Li, Juanzi Li, Zhiyuan Liu, Huiqin Liu, Maosong Sun. (2024). From MOOC to MAIC: Reshaping Online Teaching and Learning through LLM-driven Agents. Preprint. Under review. https://arxiv.org/abs/2409.03512
 - Carolyn Rosé, Sanna Järvelä. (2021). A theory-driven reflection on context-aware support for collaborative discussions in light of analytics, affordances, and platforms. International Journal of Computer-Supported Collaborative Learning. https://doi.org/10.1007/s11412-021-09360-8
 - Ting-Chia Hsu, Hal Abelson, Evan Patton, Shih-Chu Chen, Hsuan-Ning Chang. (2021). Self-efficacy and behavior patterns of learners using a real-time collaboration system developed for group programming. International Journal of Computer-Supported Collaborative Learning. https://doi.org/10.1007/s11412-021-09357-3
+- Hao, Z.; Cao, J.; Li, R.; Yu, J.; Liu, Z.; Zhang, Y. (2025). Mapping Student-AI Interaction Dynamics in Multi-Agent Learning Environments: Supporting Personalised Learning and Reducing Performance Gaps. https://osf.io/preprints/eduRxiv

@@ -43,6 +43,7 @@ The article proposes a rule-based decision mechanism that, once a learner is ass
 
 - [Provide differentiated scaffolding matched to teachers' behavioral-cognitive profiles when supporting multi-agent AI workflow design](differentiated-scaffolding-teacher-ai-design-profiles.md)
 - [Match students' gender with their learning companions in adaptive learning programs to promote engagement and prevent disengagement](gender-matched-learning-companions.md)
+- [Adapt multi-agent AI roles to learners' prior knowledge and regulate agent participation dynamically from interaction cues](adaptive-agent-roles-by-prior-knowledge.md)
 
 ## Examples
 -

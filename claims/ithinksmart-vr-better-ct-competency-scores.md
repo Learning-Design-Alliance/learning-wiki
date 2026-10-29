@@ -68,3 +68,4 @@ The same experiment's computed effect size: "the d value is 0.74 which indicates
 - [Students who played iThinkSmart VR mini games gained higher CT cognitive benefits than students learning through the traditional lecture method](ithinksmart-vr-higher-cognitive-benefits.md) — related
 - [Students who played iThinkSmart mini games showed a significantly higher CT learning attitude than those who did not play the mini games](ithinksmart-vr-higher-learning-attitude.md) — related
 - [First-level participant feedback found the iThinkSmart prototype engaging but flagged movement, navigation, graphics, and device-support issues for improvement](ithinksmart-prototype-feedback-themes.md) — related
+- [Adding a real-time competition environment to a serious game improves learners' post-test scores](competition-improves-post-test-serious-game.md) — related

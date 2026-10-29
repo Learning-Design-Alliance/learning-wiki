@@ -13,7 +13,7 @@ generated:
 # Social Presence
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 43 claims (29 for, 13 mixed, 1 against) · 36 studies (8 review, 7 causal, 6 qualitative, 5 associational, 5 design, 3 theoretical, 2 quant-synthesis), `q1`–`q3` · 4 of 36 report an effect size · 40 claims rest on one study
+> **Evidence** · 47 claims (32 for, 14 mixed, 1 against) · 37 studies (8 review, 7 causal, 6 associational, 6 qualitative, 5 design, 3 theoretical, 2 quant-synthesis), `q1`–`q3` · 4 of 37 report an effect size · 44 claims rest on one study
 
 ## Conditional relationship
 
@@ -121,6 +121,9 @@ Claims and sources this page touches that have not been read against the model a
 - [In an online case-based course, students perceive cognitive presence as highest and least variable, and teaching presence as the most variable](../claims/cognitive-presence-highest-least-variable-online-cbi.md) [~W] — read 2026-10-15: descriptive ratings from the same 47-student survey as the metacognition claim above; it describes how the CoI presences were rated and predicts nothing about participation or learning, so it does not enter the model.
 - [Danmaku interaction is predominantly socio-emotional while discussion-board interaction tilts cognitive, and the tools share only four content categories](../claims/danmaku-socio-emotional-vs-board-cognitive-categories.md) [+W] — attached 2026-10-18 from Bo Yang (2024), which proposed "Combine danmaku with discussion boards so MOOC environments serve both large-community connectedness and small-group exchange".
 - [Asynchronous video communication and feedback enhance social presence and helped sustain engagement and connections between socially isolated faculty and students during the COVID-19 shift online](../claims/asynchronous-video-enhances-social-presence-covid.md) [+W] — attached 2026-10-29 from Regina Kaplan-Rakowski (2021), which proposed "During times of crisis, educators should prioritize emotional support and wellness over instructional efficiency, shifting to a more affective approach such as video for communication and feedback"; tests this page's relationship.
+- [Opportunities for social interaction during online classes have a positive indirect effect on self-directed study time through emotional and behavioral engagement, in both the first and second years of the pandemic](../claims/social-interaction-indirect-effect-self-directed-study.md) [+W] — attached 2026-10-29 from Gherghel et al. (2023), which proposed "Design online classes with deliberate opportunities for social interaction, because interactivity fosters engagement and spillovers into self-directed study"; tests this page's relationship.
+- [Opportunities for social interaction during online classes significantly predicted emotional engagement with online learning at both time points](../claims/social-interaction-predicts-emotional-engagement.md) [+W] — attached 2026-10-29 from Gherghel et al. (2023), which proposed "Design online classes with deliberate opportunities for social interaction, because interactivity fosters engagement and spillovers into self-directed study"; tests this page's relationship.
+- [The benefits of social interaction during online classes have limits: more is not always better, quality matters, and some students may find interactive courses burdensome](../claims/social-interaction-limits-not-panacea.md) [~W] — attached 2026-10-29 from Gherghel et al. (2023), which proposed "Design online classes with deliberate opportunities for social interaction, because interactivity fosters engagement and spillovers into self-directed study".
 
 ## Objective and learner-valued goal
 
@@ -153,6 +156,7 @@ Perceived presence, participation, satisfaction, persistence and individual lear
 - [Lack of instructor embodiment in tutorials may limit effectiveness for DHH students](../claims/dhh-embodiment-limits-effectiveness.md) [~W]
 - [A visible instructor increased social presence in an exploratory field study (d = 0.85)](../claims/visible-instructor-social-presence-study1.md) [+W]
 - [A visible instructor increased well-being in Study 3 (d = 1.01)](../claims/visible-instructor-wellbeing-study3.md) [+W]
+- [Correlationally, more opportunities for social interaction during class were associated with more engagement and, in 2021 only, with more self-directed study time](../claims/interaction-correlations-engagement-self-study.md) [+W]
 
 ## Related Principles
 - [Community of Inquiry](community-of-inquiry.md) — the parent framework situating social presence alongside teaching and cognitive presence

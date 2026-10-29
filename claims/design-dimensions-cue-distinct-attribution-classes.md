@@ -54,3 +54,4 @@ The review cites prior empirical work by Zhao et al. (2019) showing that facial 
 - [RALL studies raise general issues regarding robots' social behavior in learning situations](rall-robot-social-behavior-issues.md) — related
 - [Physical presence of a robotic tutor agent is not significantly related to students' task performance in an emotionally-adaptive ITS](physical-presence-no-task-performance-effect.md) — related
 - [People preferred interacting with a humanoid robot over a comparable on-screen agent and showed less socially undesirable behaviour](robot-preferred-over-screen-agent-less-undesirable-behavior.md) — related
+- [Students warn that overly perfect, anthropomorphic PA communication can be unsettling and produce uncanny valley effects](pa-anthropomorphism-uncanny-valley-caution.md) — related

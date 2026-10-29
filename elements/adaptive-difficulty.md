@@ -18,7 +18,7 @@ sources:
 # Adaptive Difficulty
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 13 claims (8 for, 5 mixed) · 13 studies (3 causal, 3 quant-synthesis, 3 design, 2 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 3 of 13 report an effect size · 12 claims rest on one study
+> **Evidence** · 14 claims (8 for, 5 mixed, 1 against) · 14 studies (4 design, 3 causal, 3 quant-synthesis, 2 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 3 of 14 report an effect size · 13 claims rest on one study
 
 ## Description
 Adaptive difficulty adjusts task challenge in response to learner performance so work remains demanding enough to promote growth without becoming discouraging or trivial.
@@ -64,6 +64,7 @@ Adaptive difficulty adjusts task challenge in response to learner performance so
 - [Adaptive task difficulty significantly improved fraction knowledge for students in the inattentive unfavorable (lower-SES-associated) profile compared to no scaffolding](../claims/adaptive-task-difficulty-benefits-unfavorable-profile.md) [+W]
 - [Adaptive condition shows only a non-significant trend for transfer to engineering outcomes (tower building)](../claims/bkt-adaptivity-tower-building-nonsignificant-trend.md) [~W]
 - [MORE's effort-based motivational strategy resembles the later Wayang Outpost strategy in effort feedback and difficulty adjustment](../claims/more-resembles-wayang-outpost-effort-strategy.md) [+W]
+- [Teachers rated the GSI example comprehensible, but perceived the difficulty of creating adaptive material as significantly higher after attempting authoring](../claims/gsi-authoring-difficulty-increases-after-experience.md) [-W]
 
 ## The evidence by question
 

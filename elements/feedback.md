@@ -13,7 +13,7 @@ generated:
 # Feedback
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 222 claims (102 for, 104 mixed, 16 against) · 167 studies (66 causal, 33 review, 20 quant-synthesis, 15 associational, 13 design, 10 qualitative, 10 theoretical), `q1`–`q4` · 42 of 167 report an effect size · 198 claims rest on one study
+> **Evidence** · 223 claims (102 for, 105 mixed, 16 against) · 168 studies (67 causal, 33 review, 20 quant-synthesis, 15 associational, 13 design, 10 qualitative, 10 theoretical), `q1`–`q4` · 42 of 168 report an effect size · 199 claims rest on one study
 
 ## Description
 Feedback is information provided to learners about their performance or understanding, intended to close the gap between current and desired performance. Effective feedback answers three questions: Where am I going? How am I doing? Where to next? ([Hattie & Timperley, 2007](https://doi.org/10.3102/003465430298487)). It functions as the corrective mechanism in any instructional cycle that includes [Practice](practice.md) or [Assessment](assessment.md).
@@ -270,6 +270,7 @@ Feedback is among the most powerful influences on learning, but its effects are 
 - [Students perceived personalized and generic feedback messages as equally helpful and motivating](../claims/equal-perceptions-personalized-generic-feedback.md) [~W]
 - [Students receiving personalized feedback began homework earlier than the control group during the intervention phase (about half a day earlier)](../claims/la-personalized-feedback-earlier-homework-start.md) [+W]
 - [Low-SRL students receiving GenAI feedback showed significantly higher post-intervention overall SRLs scores than tutor-feedback peers](../claims/genai-feedback-improves-low-srl-composite.md) [+M]
+- [Emoticon use does not affect student perceptions of feedback quality or marker professionalism](../claims/emoticons-no-effect-quality-professionalism.md) [~W]
 
 ## Design Decisions
 <!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice

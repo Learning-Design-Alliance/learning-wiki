@@ -75,3 +75,4 @@ Interview study on misuse of data and consequences; thematic analysis identified
 - [Manual tracking cases showed no substantial privacy concerns while automatic activity-tracking cases raised consistent privacy concerns](manual-tracking-user-control-privacy.md) — related
 - [Students who consented most often cited improving education (30%), while students who denied consent most often cited privacy and security concerns (63%)](self-reported-consent-deny-reasons.md) — related
 - [Only 4% of AIED ethics papers address emotion-related ethical concerns, dominated by affective surveillance consequences](aied-emotion-ethics-underexplored.md) — related
+- [Teachers and students identify usability, learning analytics, emotion detection, trustworthiness, and privacy as required technological aspects for PAs](pa-technological-requirements-usability-analytics-trust.md) — related

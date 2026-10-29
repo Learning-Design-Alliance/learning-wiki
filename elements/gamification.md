@@ -13,7 +13,7 @@ generated:
 # Gamification
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 24 claims (10 for, 13 mixed, 1 against) · 16 studies (4 causal, 4 quant-synthesis, 4 review, 1 associational, 1 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 4 of 16 report an effect size · 23 claims rest on one study
+> **Evidence** · 27 claims (11 for, 14 mixed, 2 against) · 18 studies (6 causal, 4 quant-synthesis, 4 review, 1 associational, 1 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 5 of 18 report an effect size · 26 claims rest on one study
 
 ## Description
 Gamification is the element in which points, progress indicators, challenges, or other game-like structures are used to shape participation and persistence.
@@ -48,6 +48,9 @@ Gamification is the element in which points, progress indicators, challenges, or
 - [Most interviewed students did not use NNG 4's tutorial and hint options, and preferred harder game difficulty](../claims/nng4-tutorial-hint-largely-unused-preferred-difficulty.md) [~W]
 - [Gamification studies measure intrinsic motivation almost exclusively through self-report instruments, with no study using free-choice behavioral measures](../claims/intrinsic-motivation-measured-by-self-report.md) [~W]
 - [Effect sizes are larger when the same instructor teaches both gamified and control groups, and when interventions run one to three months](../claims/gamification-moderators-instructor-and-duration.md) [~W]
+- [Path analysis supports an indirect path from competition through motivation and in-game accuracy to post-test scores](../claims/path-analysis-competition-motivation-accuracy.md) [+W]
+- [On a relative leaderboard, course engagement does not differ significantly across position levels](../claims/relative-leaderboard-no-engagement-difference.md) [-M]
+- [Competition increases time spent answering questions but not reading time or in-game accuracy](../claims/competition-response-time-accuracy-null.md) [~W]
 
 ## Related Elements
 - [Adaptive Difficulty](adaptive-difficulty.md)

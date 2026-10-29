@@ -52,3 +52,4 @@ Paired sample t-tests on pre/post-test scores of 29 students who submitted both 
 - [Students’ prompt self-efficacy increased significantly after the scaffolded GenAI course (t = 3.729, p < .001)](prompt-self-efficacy-significant-increase.md) — related
 - [Students in the AI-integrated database course showed large, statistically significant pre/post gains on seven identical database assessment questions](ai-integrated-course-large-prepost-db-gains.md) — related
 - [Prior biology knowledge predicted new AI knowledge in Lessons 1 and 2 but not in Lessons 3 and 4](prior-biology-predicts-ai-lessons-one-two-not-three-four.md) — related
+- [Students in the multi-agent environment interacted far more than MOOC students with a Q&A chatbot, and overall scores improved significantly from pre-test to post-test](multi-agent-vs-mooc-chatbot-engagement-and-pre-post-gain.md) — related

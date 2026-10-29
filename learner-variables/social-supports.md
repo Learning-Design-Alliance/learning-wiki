@@ -13,7 +13,7 @@ generated:
 # Social Supports
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 81 claims (66 show a difference, 11 mixed, 4 no difference) · 75 studies (22 associational, 15 qualitative, 13 review, 9 causal, 8 theoretical, 4 quant-synthesis, 4 design), `q1`–`q3` · 6 of 75 report an effect size · 81 claims rest on one study
+> **Evidence** · 83 claims (68 show a difference, 11 mixed, 4 no difference) · 76 studies (22 associational, 15 qualitative, 13 review, 10 causal, 8 theoretical, 4 quant-synthesis, 4 design), `q1`–`q3` · 6 of 76 report an effect size · 83 claims rest on one study
 
 ## Description
 Social supports are the people available to help a learner if needed, and the learner's perception that they are there: parents and family, friends and classmates, teachers and other school staff, and the wider community. The support they give can be emotional (care and compassion), appraisal (useful feedback), instrumental (time, money, resources) and informational (advice). The LVN stresses perception: feeling that support would be there, even if it is never called on, contributes to well-being and academic success, and help that is actually received can strengthen that perception and a learner's sense of efficacy. Effective support looks different across families and cultures and can be provided across income levels; what matters is what the people around a learner do. Supports can be eroded by family separation, bereavement, parental imprisonment, substance misuse or illness, by bullying and discrimination, and by moving schools, and a relationship with another trusted adult can partly make up for that. It is measured with perceived-support scales for children, adolescents and adults. It overlaps with [belonging](belonging.md) and with the [home learning environment](home-learning-environment.md).
@@ -117,6 +117,8 @@ Social supports are the people available to help a learner if needed, and the le
 - [Lack of interpersonal engagement, interaction and collaboration, plus reduced social contact and isolation (45%), negatively impacted many students' online learning experience](../claims/lost-interaction-community-lockdown.md) [+M] — learners who differ on it differ in outcomes
 - [Asynchronous video communication and feedback enhance social presence and helped sustain engagement and connections between socially isolated faculty and students during the COVID-19 shift online](../claims/asynchronous-video-enhances-social-presence-covid.md) [+M] — instruction changes it
 - [Teachers customizing online approaches may reduce lack of interaction in large classes and isolation in distance education](../claims/customized-online-learning-reduces-interaction-deficits.md) [+W] — instruction changes it
+- [General self-reported WhatsApp use was positively associated with professional social capital, identity, lower isolation, job satisfaction, and perceived knowledge transfer](../claims/general-whatsapp-use-socio-professional-connections.md) [+M] — instruction changes it
+- [Moderated WhatsApp groups reduced feelings of professional isolation among newly graduated nurses](../claims/moderated-whatsapp-reduced-professional-isolation.md) [+M] — instruction changes it
 
 ## Measures
 - **Social Support Questionnaire, Short Form** (Sarason et al., 1987): self-report of the number of supportive relationships an adult has and satisfaction with them.

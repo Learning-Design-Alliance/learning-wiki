@@ -57,3 +57,4 @@ Ethnographic case study of one participant (Malek) at the Digital Café over a y
 - [Reliable Internet access was a larger barrier to remote and hybrid learning than device access, especially in urban areas](internet-access-larger-barrier-than-devices.md) — related
 - [Do-it-yourself digital learning alone can exacerbate digital inequalities because learners hit a wall requiring direct guided instruction](diy-digital-learning-hits-wall.md) — related
 - [Computing education has historically excluded marginalized student populations, and large inequities in access persist](computing-education-historic-exclusion-inequity.md) — related
+- [Half of the pilot's users forgot the password protecting their private key between installation and actual use](half-of-users-forgot-pki-passwords.md) — a narrower finding that bears on this claim

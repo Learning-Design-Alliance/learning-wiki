@@ -57,3 +57,4 @@ Epistemic network analysis of co-occurrence among coded behaviors (model fit Pea
 - [Epistemic network analysis provides a better account of temporal patterns between socio-cognitive events than coding-and-counting](ena-outperforms-coding-and-counting-temporality.md) — related
 - [The Concerted Interpretation group reported significantly higher self-regulation than Delegated Reasoning, with no profile differences in co-regulation or socially-shared regulation](ci-higher-self-regulation-no-coreg-differences.md) — related
 - [Personalized, friend-like communication calling children by name invited even shy children to participate](friend-like-personalized-communication-invites-participation.md) — related
+- [Student-AI interaction in a multi-agent learning environment is organized into two significant engagement patterns: co-construction of knowledge and co-regulation](multi-agent-two-engagement-patterns-co-construction-co-regulation.md) — related

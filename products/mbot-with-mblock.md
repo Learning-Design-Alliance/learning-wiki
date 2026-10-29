@@ -26,7 +26,8 @@ mBot is an educational Arduino-based robot programmed through Makeblock's mBlock
 - [Computational concepts (sequences, loops, conditionals, parallel execution, events, robot programming) improved significantly versus control](../claims/mbot-computational-concepts-improve.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [TALKOO Arduino-based physical computing kit with multimodal learning analytics system](talkoo-arduino-based-physical-computing-kit-with-multimodal-learning-analytics-system.md)
 
 ## Key Sources
 - Sáez-López, J.-M., Sevillano-García, M.-L., & Vazquez-Cano, E. (2019). The effect of programming on primary school students’ mathematical and scientific understanding: educational use of mBot. Education Tech Research Dev, 67, 1405–1425. https://doi.org/10.1007/s11423-019-09648-5

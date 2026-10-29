@@ -49,3 +49,4 @@ The review's measurement-level analysis of 311 engagement measurements found 202
 - [Explicit theoretical frameworks of engagement were provided in only 14% of the reviewed ECEC studies](ecec-engagement-theoretical-frameworks-rare.md) — related
 - [General engagement measures focus on behavioral aspects, whereas academic-engagement measures more often include cognitive and emotional aspects](general-vs-academic-engagement-measure-focus.md) — related
 - [The review counts positive, negative and null associations rather than pooling effect sizes, because heterogeneity of measures and methods makes meta-analysis unsuitable](association-counting-synthesis-method-for-heterogeneous-quality-literature.md) — related
+- [Most studies of children's digital engagement provided no explicit theory, definition, or measure of engagement, and only one study provided all three](majority-no-explicit-engagement-conceptualisation.md) — related
