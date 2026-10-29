@@ -18,7 +18,7 @@ sources:
 # Adaptive Difficulty
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 14 claims (8 for, 5 mixed, 1 against) · 14 studies (4 design, 3 causal, 3 quant-synthesis, 2 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 3 of 14 report an effect size · 13 claims rest on one study
+> **Evidence** · 17 claims (10 for, 6 mixed, 1 against) · 15 studies (4 causal, 4 design, 3 quant-synthesis, 2 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 4 of 15 report an effect size · 16 claims rest on one study
 
 ## Description
 Adaptive difficulty adjusts task challenge in response to learner performance so work remains demanding enough to promote growth without becoming discouraging or trivial.
@@ -65,6 +65,9 @@ Adaptive difficulty adjusts task challenge in response to learner performance so
 - [Adaptive condition shows only a non-significant trend for transfer to engineering outcomes (tower building)](../claims/bkt-adaptivity-tower-building-nonsignificant-trend.md) [~W]
 - [MORE's effort-based motivational strategy resembles the later Wayang Outpost strategy in effort feedback and difficulty adjustment](../claims/more-resembles-wayang-outpost-effort-strategy.md) [+W]
 - [Teachers rated the GSI example comprehensible, but perceived the difficulty of creating adaptive material as significantly higher after attempting authoring](../claims/gsi-authoring-difficulty-increases-after-experience.md) [-W]
+- [Only participants receiving major difficulty adaptation reported significant changes in perceived difficulty](../claims/difficulty-adaptation-perceived-difficulty-changes.md) [~M]
+- [Difficulty adaptation significantly changed task correctness according to the strength and direction of adaptation (manipulation check)](../claims/difficulty-adaptation-manipulation-check-task-correctness.md) [+W]
+- [Difficulty adaptation significantly reduced the variance of task correctness and perceived difficulty across learners](../claims/adaptation-balances-outcome-variance-across-learners.md) [+W]
 
 ## The evidence by question
 

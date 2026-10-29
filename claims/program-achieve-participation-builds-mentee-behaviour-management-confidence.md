@@ -51,3 +51,4 @@ Case-study finding from researcher observations and interviews: the mentee selec
 - Classrooms where mentors understand and model program concepts are more fruitful contexts for student teachers' learning — a broader claim this one bears on
 - [Repeating one short lesson six times with small groups gave the mentee repeated opportunities to review and modify her classroom management strategies and build confidence](repeated-short-lessons-scaffold-mentee-behaviour-management.md) — related
 - [A structured feedback-and-reflection cycle (pre-lesson plan review, immediate verbal comments, written feedback, take-up time, and open-ended questioning) supported the mentee's reflective development](structured-feedback-reflection-cycle-mentoring.md) — related
+- [A continuous cycle of authentic experiences and feedback supports preservice teachers to build their digital practice](authentic-experience-feedback-cycle-digital-practice.md) — a broader claim this one bears on

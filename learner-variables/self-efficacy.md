@@ -13,7 +13,7 @@ generated:
 # Self-Efficacy
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 170 claims (124 show a difference, 26 mixed, 20 no difference) · 139 studies (54 associational, 28 causal, 21 review, 14 qualitative, 9 design, 7 theoretical, 6 quant-synthesis), `q1`–`q4` · 30 of 139 report an effect size · 166 claims rest on one study
+> **Evidence** · 173 claims (127 show a difference, 26 mixed, 20 no difference) · 140 studies (55 associational, 28 causal, 21 review, 14 qualitative, 9 design, 7 theoretical, 6 quant-synthesis), `q1`–`q4` · 31 of 140 report an effect size · 169 claims rest on one study
 
 ## Description
 Self-efficacy is Bandura's term for task-specific confidence: how sure a learner is that they can do what a task requires. It is measured with self-report scales tied to a domain (mathematics self-efficacy, writing self-efficacy, computer self-efficacy). It predicts effort, persistence and achievement, it moderates some instructional effects, and it is itself an outcome that instruction can raise, chiefly through experiences of success, seeing similar others succeed, and specific feedback. It is narrower than [motivation](motivation.md) and distinct from general self-esteem.
@@ -201,6 +201,9 @@ Self-efficacy is Bandura's term for task-specific confidence: how sure a learner
 - [Gamification has minimal impact on students' perceived competence](../claims/gamification-minimal-impact-perceived-competence.md) [-W] — instruction changes it
 - [Medical students who fail and experience negative emotions risk loss of confidence and dropping out of medical school (as suggested by Jarrell et al., 2017)](../claims/failure-negative-emotions-confidence-dropout-risk.md) [+M] — instruction changes it
 - [Two major challenges undermine gamification's effect on intrinsic motivation: students' lack of perceived competence and lack of perceived autonomy](../claims/gamification-challenges-competence-autonomy.md) [~M] — an instructional effect differs with it
+- [Self-innovativeness, accountability, DL self-efficacy, and DL teaching practices are all positively and significantly intercorrelated](../claims/dl-dimensions-positive-correlations.md) [+M] — learners who differ on it differ in outcomes
+- [Teachers' DL self-efficacy shows the strongest direct effect on their DL teaching practices](../claims/dl-self-efficacy-predicts-dl-teaching-practices.md) [+M] — learners who differ on it differ in outcomes
+- [Teachers' self-innovativeness significantly affects DL self-efficacy and DL teaching practices both directly and indirectly via accountability and self-efficacy](../claims/self-innovativeness-drives-dl-efficacy-and-practices.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 

@@ -27,6 +27,7 @@ A framework proposed by Ng and colleagues that extends DigCompEdu and revises P2
 ## Related Products and Programmes
 
 - [HeDiCom (Higher Education Digital Competence) framework](hedicom-higher-education-digital-competence-framework.md)
+- [DigCompEdu six-area framework of educators' digital competence](digcompedu-six-area-framework-of-educators-digital-competence.md)
 
 ## Key Sources
 - Sarah K. Howard, Jo Tondeur. (2023). Higher education teachers' digital competencies for a blended future. Education Tech Research Dev. https://doi.org/10.1007/s11423-023-10211-6

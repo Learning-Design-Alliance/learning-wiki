@@ -63,3 +63,5 @@ PLS-SEM bootstrapped path analysis of a cross-sectional convenience-sample surve
 - [Novelty-phase on-task enjoyment is positively associated with task performance, while working-phase enjoyment is not](novelty-enjoyment-predicts-performance.md) — related
 - [Perceived ease of use positively influenced attitudes toward using the AVDS tool](peou-positive-impact-attitude-avds.md) — related
 - [Perceived usefulness, attitude, and behavioral intention form a significant TAM pathway predicting GenAI adoption among law students](tam-pathway-genai-adoption-law-students.md) — related
+- [Students' favourable attitudes towards CSCL significantly positively influence perceived impact on learning and perceived enjoyment](attitude-influences-impact-and-enjoyment-cscl.md) — related
+- [Perceived enjoyment significantly positively influences both satisfaction and perceived impact on learning in CSCL](enjoyment-influences-satisfaction-and-impact-cscl.md) — related

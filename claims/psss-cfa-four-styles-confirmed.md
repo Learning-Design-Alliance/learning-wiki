@@ -48,3 +48,4 @@ Confirmatory factor analysis with 693 participants tested a second-level model c
 
 - [The scale's internal consistency is acceptable, with Cronbach's alpha of 0.89 for the full scale and 0.70–0.85 for its four style factors](psss-cronbach-alpha-reliability.md)
 - [Exploratory factor analysis of the participation style scale yields four Why factors and four How factors explaining over 53% of variance in each dimension](psss-eight-factors-efa-variance.md)
+- [The hypothesised three-variable structural model fits the survey data well across printed fit indices](dil-sem-model-good-fit.md) — related

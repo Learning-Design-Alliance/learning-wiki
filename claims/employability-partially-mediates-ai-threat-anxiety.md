@@ -52,3 +52,4 @@ Bootstrap mediation analysis with 5,000 resamples in the 526-student survey foun
 - [Homework management skills partially mediate the relationship between teacher homework involvement and homework behavior](homework-management-partially-mediates-teacher-involvement-behavior.md) — related
 - [Growth mindset moderates the negative effect of AI employment threat perception on perceived employability, weakening it at higher mindset levels](growth-mindset-moderates-ai-threat-employability-link.md) — related
 - [Core self-evaluations partially mediate the relationship between career adapt-abilities and AI anxiety](core-self-evaluations-partially-mediate-adaptabilities-ai-anxiety.md) — related
+- [Digital informal learning partially mediates the relationship between digital competence and academic performance](dil-partial-mediator-competence-performance.md) — related

@@ -162,3 +162,4 @@ Meta-analysis of 41 studies on parental involvement and academic achievement in 
 - [All participating girls reported parents helping them navigate school-based conflict, with parents advising silence or non-engagement as a protective strategy](parental-silence-advice-protective-school-conflict.md) — related
 - [Students from advantaged socioeconomic backgrounds do not benefit significantly more from homework than their peers in eighth grade](ses-does-not-moderate-homework-benefit-eighth-grade.md) — related
 - [Parent gender related to adolescents' autonomous motivation during home-based learning, with maternal involvement associated with higher motivation](parent-gender-associated-with-adolescent-motivation.md) — related
+- [Appropriate educational technology improved home-school links and parent and teacher roles in the HOMEWORK evaluations](homework-technology-strengthened-parent-teacher-roles.md) — a narrower finding that bears on this claim

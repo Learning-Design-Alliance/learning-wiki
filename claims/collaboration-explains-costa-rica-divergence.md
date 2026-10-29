@@ -52,3 +52,4 @@ Authors' interpretation in the Discussion, drawing on field notes and prior stud
 - [Students at all three international sites showed significant pre-test to post-test learning gains with the Scatterplot Tutor](cross-cultural-tutor-learning-gains-all-sites.md) — related
 - [Pre-test knowledge differed significantly across the three countries, producing a country by test time interaction](pretest-differences-country-time-interaction.md) — related
 - [Each site's help-seeking model predicted learning in its own data, with widely differing fit (Costa Rica r=0.462, U.S. r=0.350, Philippines r=0.126)](site-specific-help-seeking-model-fit.md) — related
+- [Measured aspects of students' collaborations helped explain why some students in the blended course were more successful than others.](collaboration-measures-explain-student-success-differences.md) — related

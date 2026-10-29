@@ -50,3 +50,4 @@ Descriptive synthesis of study characteristics in the review's Results section, 
 - [The 32 included studies were predominantly quantitative and cross-sectional, with questionnaire sample sizes ranging from 17 to 815 students](ahs-pst-study-design-profile.md) — related
 - [Self-report empathy measures predominate and may inflate associations via common method bias and self-serving bias](empathy-self-report-method-bias.md) — related
 - [The reviewed evidence base is predominantly cross-sectional, with small self-report-heavy teacher samples](teacher-empathy-evidence-base-cross-sectional.md) — related
+- [Quantitative questionnaire methodology dominates digital competence research in higher education](slr-digital-competence-quantitative-methods-dominant.md) — related

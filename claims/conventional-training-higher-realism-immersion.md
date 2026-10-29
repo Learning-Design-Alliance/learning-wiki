@@ -60,3 +60,4 @@ Primary outcome domain C in the within-participants comparison of 20 students; W
 - [Second-year medical students improve their intercultural and interprofessional communication performance between first and second run-throughs of MPathic-VR scenarios](mpathic-vr-repeat-runthrough-improvement.md) — related
 - [Corrective feedback plus either GLA significantly improved students' safety behavior in VR, with no difference between re-experiencing and self-explaining](gla-corrective-feedback-improve-safety-vr.md) — related
 - [Measures of presence, enjoyment, entitativity, and realism increased over a 10-week networked-VR course, suggesting XRCL advantages may grow as participants adapt](xrcl-advantages-increase-with-adaptation.md) — reports the opposite
+- [An interactive game training context provided no immersion or bias-mitigation advantage over a text script with identical content](game-context-no-advantage-over-text.md) — related

@@ -45,6 +45,7 @@ During the Discovery Phase, teams use surveys for "initial, broad representation
 - [Anticipate barriers to data use by building in strategies for future data use from initial conversations, and trust the process by going at the community's pace.](anticipate-barriers-build-in-data-use-strategies.md)
 - [Implementation-phase supports: staff engagement, communication and action plans, thought partnership, and self-assessment rubrics](implementation-phase-supports.md)
 - [Future SSSC evaluation work: collect data from directors, gather detailed activity data, and interview policymakers and practitioners to develop impact measures](sssc-future-evaluation-data-collection-strategy.md)
+- [Use the Ecology of Resources framework as a design tool for context mapping in underserved settings](ecology-resources-context-mapping-design.md)
 
 ## Examples
 -

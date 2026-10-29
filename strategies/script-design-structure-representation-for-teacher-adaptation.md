@@ -39,6 +39,7 @@ Drawing on Sobreira and Tchounikine's work in the same issue, the article recomm
 ## Related Strategies
 
 - [Design and report scripted collaboration so it integrates with classroom practice: sustained interventions, and accessible participant experience](embed-scripted-collaboration-in-classroom-eco-system.md)
+- [Teachers guide CSCL use, provide satisfying collaborative environments, and mediate group conflicts](teacher-guidance-and-conflict-mediation-in-cscl.md)
 
 ## Examples
 -

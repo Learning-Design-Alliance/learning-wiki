@@ -55,3 +55,4 @@ Conclusion of the qualitative case study, drawing on lesson observations, interv
 - [Witnessing mentor teachers model advocacy actions shaped novice ESL teachers' advocacy beliefs and practices](mentor-modeling-shapes-novice-advocacy-beliefs.md) — related
 - [Teacher educators can coach student teachers in reflective practice using personal histories, dialogue journals, and group discussions](teacher-educator-coaching-reflective-practice-methods.md) — related
 - [A structured feedback-and-reflection cycle (pre-lesson plan review, immediate verbal comments, written feedback, take-up time, and open-ended questioning) supported the mentee's reflective development](structured-feedback-reflection-cycle-mentoring.md) — related
+- [A continuous cycle of authentic experiences and feedback supports preservice teachers to build their digital practice](authentic-experience-feedback-cycle-digital-practice.md) — related

@@ -55,3 +55,4 @@ The review's synthesis identifies teachers' digital competence as influencing bo
 - [Dataset 1 identified challenges in current teaching (resources, knowledge, digital tools) alongside opportunities for emerging technologies to clarify complex concepts and teach critical skills](dataset1-challenges-and-opportunities-themes.md) — related
 - [Higher education teachers require digital competencies that align with disciplinary culture and available technologies](digital-competencies-align-with-disciplinary-culture.md) — related
 - [In Higher Education, disciplinary culture and context, together with technology, shape pedagogical practice and the digital capabilities teachers need](disciplinary-culture-shapes-he-digital-capabilities.md) — related
+- [Gender, prior digital experience, training and related factors influence digital competence](digital-competence-influencing-factors.md) — related

@@ -51,3 +51,4 @@ Descriptive classification by educational level and competence level (Table 3) f
 - [Most teachers report precise identification of OER sources plus at least two diffusion improvements when implementing a diffusion strategy](oer-diffusion-strategy-implementation-self-reports.md) — related
 - [Openness in education shifts the focus from content (OER) to practices (OEP)](openness-shifts-oer-to-oep.md) — related
 - [Teachers' ICT-use competence is high and statistically independent of educational level](ict-competence-independent-of-education-level.md) — related
+- [University students and teachers generally show basic or intermediate digital competence, with safety a weakness](digital-competence-basic-medium-level-safety-weakness.md) — related

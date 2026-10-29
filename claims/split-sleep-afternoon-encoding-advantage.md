@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2019
+source_checked: 2026-10-29
 sources:
   - id: cousins-2019
     resource: "https://doi.org/10.1038/s41539-019-0047-z"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3` · `i2` medium
-> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2019 · checked against its sources 2026-10-29 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Adolescents on a split sleep schedule (5 h nocturnal + 1.5 h nap) recognized more incidentally encoded pictures after two recovery nights than those with 6.5 h continuous nocturnal sleep, with d = 0.66. [→ Cousins 2019](#cousins-2019)

@@ -49,3 +49,4 @@ Simulator Sickness Questionnaire administered to the experimental group after th
 - [VR sickness in the system is minimal overall (SSQ total 12.88), with nausea lowest and oculomotor symptoms most significant](photon-fusion-minimal-vr-sickness-ssq.md) — related
 - [Higher-visuospatial-ability learners experienced lower motion sickness in Desktop-VR, with a tendency for an interaction with format](vsa-motion-sickness-desktop-vr.md) — related
 - [No significant safety issues arose in VR-IWS use; one young participant reported minor dizziness in one session only](vr-iws-no-significant-safety-issues.md) — related
+- [Motion sickness remains a disagreeable side effect of IVR serious games for a minority of participants](ivr-sgs-motion-sickness-side-effect.md) — related

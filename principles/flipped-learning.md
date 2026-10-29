@@ -28,7 +28,7 @@ sources:
 # Flipped Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 45 claims (22 for, 22 mixed, 1 against) · 42 studies (15 causal, 10 review, 8 quant-synthesis, 3 associational, 3 design, 2 theoretical, 1 qualitative), `q1`–`q4` · 13 of 42 report an effect size · 38 claims rest on one study
+> **Evidence** · 47 claims (23 for, 23 mixed, 1 against) · 43 studies (16 causal, 10 review, 8 quant-synthesis, 3 associational, 3 design, 2 theoretical, 1 qualitative), `q1`–`q4` · 14 of 43 report an effect size · 40 claims rest on one study
 
 ## Conditional relationship
 
@@ -147,6 +147,8 @@ Claims from the calculus study behind a core claim, read on 2026-10-15 and left 
 - [In one reviewed study, flipped classrooms using AI tools raised cognitive and emotional engagement but behavioral engagement showed no significant difference from traditional methods](../claims/ai-flipped-classroom-behavioral-engagement-null.md) [~W]
 - [Flipped classroom teaching with structured interaction improves learning outcomes more than lecture-based teaching and a video-lecture control](../claims/structured-interaction-flipped-classroom-improves-learning.md) [+M] — attached 2026-10-27 from Qi Li et al. (2024), which proposed "Design teacher-student interaction in flipped classrooms as a structured, planned sequence rather than leaving it spontaneous"; tests this page's relationship.
 - [A blended/hybrid flipped calculus course with an FC Orientation module improved student learning performance and perceptions significantly over the traditional lecture format](../claims/spencer-2022-hybrid-fc-improved-performance.md) [+W] — attached 2026-10-29 from Yan Shen et al. (2025), which proposed "Flipped learning cycle design pattern: defined cycles with gradually increasing challenge and regular specific feedback across online, in-class, and after-class steps"; tests this page's relationship.
+- [Flip teaching in laboratory sessions produces significantly higher laboratory grades than traditional methodology in Physics and Electricity courses.](../claims/flipped-lab-teaching-higher-lab-grades.md) [+W] — attached 2026-10-29 from Gómez-Tejedor et al. (2020), which proposed "Introduce flip teaching progressively, starting with laboratory practices."; tests this page's relationship.
+- [Flip teaching's effect size on laboratory performance varies by course and grade level, being medium for low-grade Physics and high-grade Electricity students and lesser for the other groups.](../claims/ft-effect-size-varies-by-subgroup.md) [~W] — attached 2026-10-29 from Gómez-Tejedor et al. (2020), which proposed "Introduce flip teaching progressively, starting with laboratory practices."; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

@@ -50,3 +50,4 @@ Fisher exact test on fail/pass categories for 522 traditional and 635 flipped cl
 - [No significant difference in distinction grades by teaching methodology](no-methodology-difference-distinction-grades.md) — related
 - [Teaching methodology has no effect on student withdrawal from the exam](no-methodology-effect-exam-withdrawal.md) — related
 - [Probability of a passing grade (5–7) is higher under traditional methodology](traditional-methodology-higher-pass-band-probability.md) — related
+- [Flip teaching in laboratory sessions produces significantly higher laboratory grades than traditional methodology in Physics and Electricity courses.](flipped-lab-teaching-higher-lab-grades.md) — related

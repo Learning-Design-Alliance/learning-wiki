@@ -47,3 +47,4 @@ Narrative review synthesis. Benefits include personal relevance, usefulness for 
 ## Related Claims
 - [Help seeking is guided by a wider variety of considerations beyond improving immediate answer accuracy than withholding answers is](help-seeking-multiple-considerations-beyond-accuracy.md) — related
 - [Only medium-level incongruity between individual knowledge and wiki information causes cognitive conflict that motivates equilibration](medium-incongruity-inverted-u-cognitive-conflict.md) — related
+- [Seeking information on Instagram is negatively related to perceived informational support but positively related to perceived instrumental support](information-seeking-negative-informational-support.md) — related

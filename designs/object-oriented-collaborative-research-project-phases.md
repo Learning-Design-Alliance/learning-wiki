@@ -43,7 +43,8 @@ The redesigned Bachelor Thesis course organized small groups to set up, conduct,
 - [Productive Interactions Discourse And Object Oriented Forms](../claims/productive-interactions-discourse-and-object-oriented-forms.md) [+M]
 
 ## Related Designs
-- 
+
+- [Five-phase online collaborative learning experience with projects and case studies](five-phase-cscl-course-experience.md)
 
 ## Examples
 -

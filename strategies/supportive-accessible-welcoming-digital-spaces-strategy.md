@@ -49,7 +49,8 @@ The review's forward-looking recommendation is that policy and pedagogy should h
 - [Adolescents proactively use online technologies to unwind, escape stress, and regulate emotions](../claims/online-technologies-proactive-emotional-coping.md) [+W]
 
 ## Related Strategies
-- 
+
+- [School-based media education that builds coping skills and critical evaluation of online information](school-media-education-cyberhate-prevention.md)
 
 ## Examples
 -

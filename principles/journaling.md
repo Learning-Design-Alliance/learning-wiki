@@ -160,6 +160,7 @@ Better entries, more entries, self-regulation questionnaire scores, course exams
 - **Fieldwork journals**: Learners document observations, questions, and pattern recognition during practice-based experiences.
 - **Concept journals**: Learners explain an idea in their own words and connect it to examples or prior knowledge.
 - [Use prompts in learning journals for a limited initial period; if continuing long-term, add support such as feedback, adaptive prompts, or additional help](../strategies/limit-journal-prompting-to-initial-weeks-unless-supported.md)
+- [Supplement VR lessons with pre-training and follow-up reflection activities, and keep VR sessions short to limit fatigue and cybersickness](../strategies/vr-sce-session-design-pretraining-reflection.md)
 
 ## Key Sources
 - Dunlap, J. C. (2006). Using guided reflective journaling activities to capture students' changing perceptions. *TechTrends, 50*(6), 20-26. [https://doi.org/10.1007/s11528-006-7614-x](https://doi.org/10.1007/s11528-006-7614-x)

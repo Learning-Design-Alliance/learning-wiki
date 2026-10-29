@@ -64,3 +64,4 @@ Review synthesis of Maboe and Tomas's (2023) qualitative study (n = 17) in South
 - [Students with low internet bandwidth could complete the course when offered offline video download and batch mode alternatives](low-bandwidth-mitigation-strategies.md) — related
 - [Remote exam proctoring software based on automated facial detection tends to disproportionately flag already-marginalized student groups as suspicious](remote-proctoring-facial-ai-disproportionate-flagging.md) — related
 - [Digital technology broadens inclusion in Critical Indigenous Studies by connecting remote communities and knowledge holders, but can exclude those lacking technology access](cis-digital-inclusion-dilemma.md) — related
+- [The Ecology of Resources framework supports design in informal, low-infrastructure contexts as well as formal school ones](ecology-resources-works-in-informal-contexts.md) — related

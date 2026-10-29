@@ -74,3 +74,4 @@ Evaluation of the Vantage collaboration protocol with 188 Prolific-recruited par
 - [The rule-based recipe annotation system reaches near-perfect inter-annotator agreement (Cohen's Kappa 0.85) and average accuracy 0.95 in a validation on sampled recipe segments.](relex-annotation-validation-kappa-accuracy.md) — related
 - [Inter-rater reliability between human experts and AI coding is very low](low-irr-experts-vs-ai-coding.md) — reports the opposite
 - [Sentence-opener-based classification of collaborative skill was imperfect, and connecting openers with closers improved classification](sentence-opener-classification-accuracy.md) — related
+- [A Bayesian student model's diagnoses agree highly with expert averages on a written exam but poorly on the computerized test](bsm-written-exam-agreement-high-computer-test-low.md) — related

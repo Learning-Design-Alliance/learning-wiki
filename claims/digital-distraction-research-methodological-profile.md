@@ -69,3 +69,4 @@ The review reports surveys as the most used data collection method (20 studies, 
 - [Proposed prevention strategies for digital distraction divide into classroom environment regulations (41.03%), technology controls (30.77%), and personal behavioral interventions (28.21%)](digital-distraction-prevention-strategy-distribution.md) — related
 - [Most empirical studies adopted a quantitative research approach](most-studies-quantitative-approach.md) — related
 - [The 32 included studies were predominantly quantitative and cross-sectional, with questionnaire sample sizes ranging from 17 to 815 students](ahs-pst-study-design-profile.md) — related
+- [Quantitative questionnaire methodology dominates digital competence research in higher education](slr-digital-competence-quantitative-methods-dominant.md) — related

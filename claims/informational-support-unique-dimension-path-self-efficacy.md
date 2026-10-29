@@ -50,3 +50,4 @@ Supplementary first-order SEM in which emotional, informational, and instrumenta
 - [AI-TPACK positively predicts science teaching self-efficacy among Chinese pre-service science teachers](ai-tpack-predicts-science-teaching-self-efficacy.md) — related
 - [Perceived school support positively predicts AI learning self-efficacy and AI perceived usefulness among Chinese undergraduates](school-support-predicts-ai-self-efficacy-usefulness.md) — a broader claim this one bears on
 - [Perceived school support, AI learning self-efficacy, and AI perceived usefulness each show negative paths to AI learning anxiety](support-and-appraisals-negatively-predict-ai-learning-anxiety.md) — related
+- [Seeking information on Instagram is negatively related to perceived informational support but positively related to perceived instrumental support](information-seeking-negative-informational-support.md) — related

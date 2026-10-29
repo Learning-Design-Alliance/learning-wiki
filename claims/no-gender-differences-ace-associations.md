@@ -60,3 +60,4 @@ Interactions between gender and each ACE operationalisation were tested in the m
 - [Sex-specific subgroup models show the same functional forms for boys and girls, though cubic coefficients for boys were not significant after correction](sex-subgroup-functional-forms-similar.md) — related
 - [Studies of preservice teachers found no statistically significant associations between gender or other sociodemographic variables and AHS](no-gender-sociodemographic-ahs-association.md) — related
 - [Girls scored significantly higher than boys on writing quality, handwriting fluency, and attitude toward writing](girls-outperform-boys-on-grade-2-writing-measures.md) — related
+- [Demographic and socioeconomic variables did not significantly predict parental resistance to educational smartphone use](demographics-do-not-predict-parental-resistance.md) — related

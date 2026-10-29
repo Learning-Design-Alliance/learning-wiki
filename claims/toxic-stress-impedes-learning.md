@@ -67,3 +67,4 @@ Narrative synthesis in the "Environments Filled With Safety and Belonging" scien
 - [Stereotype threat in collaborative contexts can interfere with working memory and reduce meaningful contribution](stereotype-threat-undermines-collaborative-contribution.md) — a narrower finding that bears on this claim
 - [Stress-adapted children possess hidden talents that educators can take advantage of](hidden-talents-stress-adapted-children.md) — reports the opposite
 - [The school environment can serve as a source of chronic stress: bullying at school is linked to higher hair cortisol and poorer executive function](school-environment-chronic-stress-hair-cortisol.md) — related
+- [E-learning material designed on brain-compatible principles has a positive effect on Technical Programming 1 students' achievement and motivation](bce-elearning-positive-effect-achievement-motivation.md) — related

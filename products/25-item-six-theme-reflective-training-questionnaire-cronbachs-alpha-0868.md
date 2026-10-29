@@ -20,6 +20,7 @@ A five-point Likert questionnaire developed by Ali Al-Issa et al. to assess stud
 
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
+- **Purpose-designed qualitative instrument organised around six experience themes**: The study used a purpose-designed qualitative research instrument (Appendix A) whose thematic organisation is summarised in Table 3.1. The results chapter analyses six themes: whether the e-learning material differed from "normal" classes, whether it was engaging (enjoyable), whether students preferred it, whether learning was a positive experience, whether the material was "rich" enough (multimedia), and whether students felt they had learned. Closed-question responses are reported in Tables 4.4-4.9 and Figures 4.1-4.12, plus open-ended questions. (van Niekerk (2015))
 
 ### Claims
 
@@ -30,3 +31,4 @@ A five-point Likert questionnaire developed by Ali Al-Issa et al. to assess stud
 
 ## Key Sources
 - Ali Al-Issa & Ali Al-Bulushi. (2010). Training English Language Student Teachers to Become Reflective Teachers. Australian Journal of Teacher Education, Vol 35, 4. https://ro.ecu.edu.au/ajtec/vol35/iss4/4/
+- van Niekerk, J.F. (2015). The effectiveness of brain-compatible blended learning material in the teaching of programming logic. Nelson Mandela Metropolitan University.

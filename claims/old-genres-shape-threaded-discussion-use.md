@@ -50,3 +50,4 @@ The editorial reports, from Friesen's article in the issue, that student discour
 - [Grade 5 students can sustain productive knowledge-building collaboration over a whole school year with a facilitative rather than guiding teacher](grade-5-sustain-productive-collaboration-whole-year-knowledge-building.md) — related
 - [Becoming knowledge-creating learners requires developing specific metaskills](knowledge-creation-requires-metaskills.md) — related
 - [Narrative and storying genres in educational inquiry risk disempowering the very people they claim to empower](narrative-genres-may-disempower-while-claiming-empowerment.md) — related
+- [CSCL is often based on learners' written argumentative discourse about problem perspectives with the goal of acquiring knowledge](cscl-based-on-written-argumentative-discourse.md) — related

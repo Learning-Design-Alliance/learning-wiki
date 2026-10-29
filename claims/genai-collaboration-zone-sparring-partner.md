@@ -53,3 +53,4 @@ Theoretical argument in the article's 'Interpreting the model' section, proposin
 - [Human-AI collaboration requires refined group-awareness concepts for asymmetrical relationships between users and AI partners](group-awareness-human-ai-partners.md) — related
 - [Distributed epistemic agency emerges as learners attribute authority to AI outputs and shift responsibility for knowledge validation, though some engage dialogically](distributed-epistemic-agency-machine-authority.md) — related
 - [LLMs act as catalysts for collaboration by aiding idea generation, organization and peer feedback, and by democratizing access to knowledge in large-class settings](llms-catalyze-collaboration-idea-generation-peer-feedback.md) — related
+- [Measuring the influence of collaboration scripts on specific argumentative processes is needed to refine process-oriented instructional support](measure-script-influence-to-refine-support.md) — related

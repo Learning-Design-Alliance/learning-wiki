@@ -30,6 +30,8 @@ A framework developed by Tondeur and colleagues that defines digital competencie
 
 - [AI digital competencies framework extending DigCompEdu and revising P21](ai-digital-competencies-framework-extending-digcompedu-and-revising-p21.md)
 - [Six-domain AI skills and competencies framework for educators and educational leaders](six-domain-ai-skills-and-competencies-framework-for-educators-and-educational-leaders.md)
+- [Calvani et al.'s three-dimensional digital competence framework](calvani-et-als-three-dimensional-digital-competence-framework.md)
+- [DigCompEdu six-area framework of educators' digital competence](digcompedu-six-area-framework-of-educators-digital-competence.md)
 
 ## Key Sources
 - Sarah K. Howard, Jo Tondeur. (2023). Higher education teachers' digital competencies for a blended future. Education Tech Research Dev. https://doi.org/10.1007/s11423-023-10211-6

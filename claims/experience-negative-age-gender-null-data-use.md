@@ -55,3 +55,4 @@ From the same multilevel regression model (Model 1, N = 2,225 after exclusions, 
 - [Demographic and contextual variables meaningfully differentiate the four GenAI adoption personas](demographics-differentiate-genai-personas.md) — related
 - [General AI literacy is not significantly related to in-service science educators' AI use or to their age, gender, or years of service](ai-literacy-unrelated-to-ai-use-and-demographics.md) — related
 - [Variables of experience, gender, age and degree do not negatively affect academic interaction or VLE learning performance](no-negative-effect-demographics-vle-interaction.md) — related
+- [Gender, prior digital experience, training and related factors influence digital competence](digital-competence-influencing-factors.md) — related

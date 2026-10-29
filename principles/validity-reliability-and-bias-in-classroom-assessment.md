@@ -36,7 +36,7 @@ sources:
 # Validity, Reliability, and Bias in Classroom Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 313 claims (132 for, 158 mixed, 23 against) · 237 studies (91 associational, 60 design, 31 review, 25 theoretical, 21 causal, 6 quant-synthesis, 3 qualitative), `q1`–`q3` · 20 of 237 report an effect size · 306 claims rest on one study
+> **Evidence** · 314 claims (132 for, 159 mixed, 23 against) · 238 studies (91 associational, 61 design, 31 review, 25 theoretical, 21 causal, 6 quant-synthesis, 3 qualitative), `q1`–`q3` · 20 of 238 report an effect size · 307 claims rest on one study
 
 ## Conditional relationship
 
@@ -387,6 +387,7 @@ Content validity, construct validity, criterion validity, consistency across occ
 - [An automated scoring engine matched experienced human markers yet was rejected over the confidentiality-explainability conflict](../claims/crase-scoring-equivalent-to-human-markers-rejected.md) [~W]
 - [A communication and collaboration subscale was generated but could not be validated in the studied sample](../claims/unvalidated-communication-collaboration-subscale.md) [~W]
 - [Only about 62% of the reliable variance in total DL scores is attributable to the general dimension, supporting a multidimensional interpretation](../claims/dl-general-dimension-62-percent-reliable-variance.md) [~W]
+- [Expert graders show high agreement among themselves when scoring a written exam on first degree equations](../claims/expert-inter-rater-agreement-high-written-exam.md) [~W]
 
 ## Related Principles
 - [Criterion- and Norm-Referenced Testing](criterion-and-norm-referenced-testing.md) — validity and reliability apply to standardized as well as teacher-made assessments, with additional considerations

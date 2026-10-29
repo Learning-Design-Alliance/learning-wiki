@@ -55,3 +55,4 @@ Monotrait-heteromethod correlational analysis (Table 7) in 70 college students; 
 - [SKT-SRL scores did not correlate significantly with high school GPA in the pilot and validation studies](skt-srl-no-gpa-correlation.md) — related
 - [Research on teachers' SRL knowledge is methodologically dominated by cross-sectional quantitative designs with non-standardized measures](cross-sectional-quantitative-dominance-srl-teacher-knowledge.md) — related
 - [Measurement methods moderate SRL–EF correlations, with indirect measures correlating higher than direct measures](measurement-method-moderates-srl-ef-correlations.md) — related
+- [Quantitative questionnaire methodology dominates digital competence research in higher education](slr-digital-competence-quantitative-methods-dominant.md) — related

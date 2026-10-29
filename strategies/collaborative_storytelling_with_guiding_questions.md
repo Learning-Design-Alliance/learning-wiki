@@ -66,6 +66,7 @@ The strategy combines two well-supported mechanisms: structured collaboration, i
 - [Story Mapping](story-mapping.md) — a graphic-organizer variant that externalizes the same narrative elements
 - [Scaffolding storytelling: guiding a child to create their own story about new material through open-ended questions, hints, and validation](scaffolding-storytelling-strategy.md)
 - [Drawingvoice 2.0: a three-phase method combining small-group collaborative drawing, Facebook sharing, and face-to-face re-discussion](drawingvoice-2-0-three-phase-method.md)
+- [Provide explicit process prompting (including picture-to-text transcription guidance) when visual storytelling precedes writing](explicit-prompting-for-visual-storytelling.md)
 
 ## Related Elements
 - [Peer Discussion](../elements/peer-discussion.md) — the negotiation phase where individual ideas are evaluated and merged

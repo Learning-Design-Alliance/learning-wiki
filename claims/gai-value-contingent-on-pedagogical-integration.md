@@ -89,3 +89,4 @@ Narrative synthesis of prior GAI-in-education literature in the introduction. Th
 - [Graduate students reported maintaining or gaining a sense of agency when working with a GenAI research assistant](genai-use-preserves-or-strengthens-student-agency.md) — related
 - [Learner control over pace improves learning while control over pedagogical aspects undermines it, with prior-knowledge and outcome-type moderators](learner-control-pace-versus-pedagogical.md) — related
 - [Teacher educators found the simulation fostered critical thinking and reflection but faced integration, accessibility, and binary-decision limitations](teacher-educators-simulation-value-and-challenges.md) — a narrower finding that bears on this claim
+- [A range of collaborative design activities, guided by instructional design models such as TPACK, are necessary to train preservice teachers to create technology-rich lesson plans](collaborative-design-tpack-lesson-plans.md) — related

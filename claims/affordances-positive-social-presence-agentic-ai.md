@@ -54,3 +54,4 @@ Same PLS-SEM survey study (N = 398); the model tested the Social Presence Theory
 - [Agent realism, particularly behavioral realism, should be a crucial predictor of social presence in immersive agent-centered learning environments](agent-realism-predicts-social-presence-xr.md) — related
 - [A 2025 systematic review reports that AI tools raising social presence and emotional engagement may improve AI-supported collaborative learning outcomes](emotional-engagement-social-presence-ai-collaborative-learning.md) — a broader claim this one bears on
 - [Social presence influences how social interaction unfolds in online group learning, which in turn affects learning outcomes](social-presence-shapes-online-group-interaction-and-outcomes.md) — related
+- [Different forms of Instagram collaboration are differentially associated with emotional, informational, and instrumental digital social support](instagram-collaboration-differential-digital-social-support.md) — related

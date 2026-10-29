@@ -71,3 +71,5 @@ MANOVA across the five retained profiles on the seven SRL sub-constructs, report
 - [Latent profile analysis of pre-service teachers' CT skills identifies three profiles (Novice, Developing, Proficient), revealing heterogeneous, non-linear skill acquisition](three-ct-profiles-preservice-teachers-lpa.md) — related
 - [Latent profile analysis of combined SR and OB factors identifies six distinct teacher profiles spanning overestimation, underestimation, and alignment](six-lpa-profiles-sr-ob-ai-literacy.md) — related
 - [Cluster analysis identifies two antagonistic student profiles differing in level of technology-supported self-regulated learning](two-srl-technology-profiles-high-and-low.md) — related
+- [In a blended first-year engineering course, sub-groups of students (n > 200) reported qualitatively different approaches to inquiry and use of online learning technologies.](blended-course-qualitatively-different-approaches-subgroups.md) — related
+- [Students in the blended engineering course approached inquiry and online learning technologies while collaborating both in class and online.](inquiry-and-online-technology-approaches-in-collaboration.md) — related

@@ -49,3 +49,4 @@ SEM analysis of survey data from 1435 Korean undergraduates supported H1, H2, an
 - [Cognitive presence was positively related to learning engagement and mediated relationships of teaching presence (full) and self-regulation (partial) with engagement](cognitive-presence-direct-and-mediation-engagement.md) — related
 - [Teaching presence was positively related to cognitive presence but had no direct relationship with learning engagement; cognitive presence fully mediated the teaching presence–engagement relationship](teaching-presence-cognitive-mediation-engagement.md) — related
 - [Self-regulation was positively related to both cognitive presence and learning engagement](self-regulation-positive-cognitive-presence-engagement.md) — related
+- [Teachers' self-innovativeness has a significant positive effect on their accountability among Israeli teachers during COVID-19 distance teaching](self-innovativeness-increases-teacher-accountability.md) — related

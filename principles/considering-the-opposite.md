@@ -13,7 +13,7 @@ generated:
 # Considering The Opposite
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 13 claims (6 for, 7 mixed) · 23 studies (7 causal, 6 quant-synthesis, 5 review, 2 theoretical, 1 associational, 1 qualitative, 1 design), `q1`–`q4` · 5 of 23 report an effect size · 7 claims rest on one study
+> **Evidence** · 14 claims (6 for, 7 mixed, 1 against) · 24 studies (8 causal, 6 quant-synthesis, 5 review, 2 theoretical, 1 associational, 1 qualitative, 1 design), `q1`–`q4` · 5 of 24 report an effect size · 8 claims rest on one study
 
 ## Conditional relationship
 
@@ -128,6 +128,10 @@ For example, a nursing student may want to pass the practical assessment, while 
 The expectation should weaken if primary studies, once recorded, show that the prompt does not change judgments in learning tasks beyond what a generic warning does, or that its effect disappears once the prompt is removed. If supplied alternatives work as well as self-generated ones for every learner, the model should prefer the supplied form, which is cheaper. If confidence falls without accuracy rising across several judgments, the move is producing doubt, not debiasing. If the habit never appears in unprompted judgments, the move is a task feature, not a capability, and the arc above should be dropped. Do not protect the model by calling every failure "a token gesture" or "too little domain knowledge" after the fact.
 
 A better judgment on the prompted task, calibrated confidence, a written counterargument, conceptual change and an unprompted habit in the setting the learner values are separate claims. The present evidence establishes none of them for this move directly, and sets no dose, no threshold and no number of sessions.
+
+## Claims
+
+- [Training did not reduce confirmation bias on in-context measurements embedded in the second murder case](../claims/no-cb-reduction-in-context.md) [-W]
 
 ## Related Principles
 - [Purposeful Reflection](reflection.md) — considering the opposite is a specific, high-leverage reflection prompt applied at the moment of judgment

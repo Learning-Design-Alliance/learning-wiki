@@ -20,6 +20,7 @@ A technical integration framework and IMS Learning Design extension that uses a 
 
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
+- **Four requirements for integrating external services into reusable adaptive learning flows**: The article enumerates four requirements that service-integration extensions should fulfil to preserve the spirit of IMS Learning Design: self-containment, adaptability, reusability and interoperability. Self-containment means "All the information required to deploy and enact a learning flow must be included in the Unit of Learning", interpreted as instructions to find and instantiate the service rather than the service itself. Adaptability extends flow adaptation to third-party services in both directions; reusability requires clean per-instance service instantiation; interoperability forbids proprietary protocols. (Luis de-la-Fuente-Valentín et al. (2011))
 
 ### Claims
 - [A pilot with 22 teachers showed GSI-shaped Units of Learning can be reused across independent course instances at reasonable deployment cost](../claims/gsi-pilot-preserves-reusability-self-containment.md) [+M]

@@ -13,7 +13,7 @@ generated:
 # Self Efficacy
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 89 claims (52 for, 34 mixed, 3 against) · 76 studies (33 associational, 18 causal, 15 review, 5 quant-synthesis, 4 design, 1 qualitative), `q1`–`q4` · 23 of 76 report an effect size · 84 claims rest on one study
+> **Evidence** · 92 claims (53 for, 36 mixed, 3 against) · 78 studies (35 associational, 18 causal, 15 review, 5 quant-synthesis, 4 design, 1 qualitative), `q1`–`q4` · 24 of 78 report an effect size · 87 claims rest on one study
 
 ## Description
 Self efficacy is a learner's belief in their capability to succeed at a specific task or domain, not a general sense of self-worth. It functions as a proximal driver of learning: learners with higher efficacy set more ambitious goals, persist longer through difficulty, and recover faster from failure [Bandura, 1997]. Because it is domain-specific and malleable, it is a design target rather than a fixed learner trait.
@@ -137,6 +137,9 @@ Instructional design shapes self efficacy primarily through the four sources Ban
 - [Self-efficacy increases significantly over the first interval of inquiry training and stays higher through and after training](../claims/self-efficacy-rises-early-inquiry-training.md) [+W]
 - [Self-efficacy and time-management positively predict exam grades, while self-evaluation shows an inverse relationship](../claims/srl-variables-predict-exam-grades.md) [+W]
 - [An integrated ATC training program with a development portfolio increased students' self-efficacy for learning and task value, but not self-efficacy for performance](../claims/integrated-training-increases-self-efficacy-learning-task-value.md) [~W]
+- [A DL professional development course improved teachers' DL teaching practices and DL self-efficacy but had no effect on their self-innovativeness](../claims/pd-course-improves-practices-not-innovativeness.md) [+W]
+- [Self-efficacy and attitudes towards technology integration predicted positive experiences in online distance teaching, jointly explaining 52% of variance.](../claims/efficacy-attitudes-predict-positive-online-teaching-experiences.md) [~W]
+- [Self-efficacy, but not attitudes towards technology, predicted negative experiences, explaining 23% of variance; openness to change and school support predicted neither outcome.](../claims/self-efficacy-predicts-negative-online-teaching-experiences.md) [~W]
 
 ## The evidence by question
 

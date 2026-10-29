@@ -48,3 +48,5 @@ The author's value-add assessment of the Zacharia et al. (2015) review, which sh
 - [Leveraging appropriate types of guidance during the relevant phases of inquiry benefits student inquiry in virtual and remote labs](phase-appropriate-guidance-benefits-inquiry-labs.md) — related
 - [Guidance in computer-supported inquiry learning is unevenly distributed across the five inquiry phases](guidance-uneven-across-inquiry-phases.md) — a narrower finding that bears on this claim
 - [Guidance tools in CoSIL increased ease of use but failed to personalize support to individual students, as reported by the reviewed literature](cosil-guidance-ease-of-use-not-personalized.md) — a narrower finding that bears on this claim
+- [The virtual and remote labs literature to 2015 can be characterized by its most influential publications, most researched topics, and evolving topic interest](bibliometric-characterization-virtual-remote-lab-literature.md) — related
+- [Virtual and remote labs reduce the costs associated with conventional hands-on labs](virtual-remote-labs-reduce-hands-on-lab-costs.md) — related

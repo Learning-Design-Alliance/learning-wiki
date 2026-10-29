@@ -70,3 +70,4 @@ Case description of the 2019 scaling plan to support technology use across disci
 - [A 13-week TPACK-based course significantly improves pre-service preschool teachers' instructional design competence compared with traditional instruction](tpack-course-improves-preservice-preschool-idc.md) — related
 - [Purposeful research design can inform sustainability and scalability, but must be balanced with leadership and professional learning](research-design-informs-sustainability-scalability.md) — related
 - [Sustainability is a dimension and requirement of scalability](sustainability-prerequisite-of-scalability.md) — related
+- [A range of collaborative design activities, guided by instructional design models such as TPACK, are necessary to train preservice teachers to create technology-rich lesson plans](collaborative-design-tpack-lesson-plans.md) — related

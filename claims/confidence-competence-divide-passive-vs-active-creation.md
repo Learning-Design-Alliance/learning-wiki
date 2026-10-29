@@ -53,3 +53,4 @@ Cross-sectional multicenter survey (N=243) of students in Spain and Ireland usin
 - [AI Paradox: students report higher confidence in critical AI awareness than in operational AI usage (p = 0.015)](ai-paradox-critical-awareness-overestimation.md) — related
 - [The Skill-Application Paradox: stopped competitive programmers self-report higher theoretical confidence than active peers yet show significantly weaker practice habits and peer support](skill-application-paradox-cp-attrition.md) — related
 - [Five-day no-code AI agent creation improves students' CT self-perception, with large gains in abstract and algorithmic thinking and a medium gain in pattern recognition and generalization](ai-agent-creation-ct-self-perception-gains.md) — related
+- [University students and teachers generally show basic or intermediate digital competence, with safety a weakness](digital-competence-basic-medium-level-safety-weakness.md) — related

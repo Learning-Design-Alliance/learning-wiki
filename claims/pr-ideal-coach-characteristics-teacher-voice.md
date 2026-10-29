@@ -51,3 +51,4 @@ Focus group discussions found consensus that coaching could be improved: prior "
 - Pilot participants earned micro-credentials aligned to their coaching challenges, and a school leader described micro-credentials as a strategy for increasing teachers' professional development — related
 - [Coaching is more effective when support is personalized to teachers' needs and classroom contexts](personalized-coaching-coherence-fit.md) — related
 - [Well-prepared and well-mentored teachers stay in teaching at more than twice the rate of unprepared entrants, and teacher residency programs typically retain more than 80% over five years](teacher-preparation-mentoring-retention.md) — related
+- [Affective characteristics — attitudes and beliefs, emotional responses, and sensitivity to technology gaps — should be taken into account when preparing preservice teachers for digital technology use](affective-dimension-preservice-technology-preparation.md) — related

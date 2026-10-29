@@ -54,3 +54,6 @@ Qualitative thematic analysis of interviews with the five teachers implementing 
 - [MAST significantly improves language in four-to-five-year-old children (d = 0.2)](mast-improves-language-first-year-school.md) — related
 - [MAST shows no effect on self-regulation in four-to-five-year-old children](mast-no-effect-self-regulation.md) — related
 - [Educators face challenges at the student level, teacher level, and institutional level](makerspace-three-level-challenges.md) — related
+- [Teachers paying equal attention to students in both local and remote classrooms is the key factor for successful BSC implementation](equal-teacher-attention-key-to-bsc-success.md) — related
+- [Students' learning performance in the rural school improved significantly after two years of Blended Synchronous Classroom practice](bsc-improved-rural-learning-performance.md) — related
+- [Local and remote students in a BSC did not differ significantly in their perceptions of the efficiency of BSC](bsc-no-perception-difference-local-remote.md) — related

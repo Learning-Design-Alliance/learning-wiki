@@ -51,3 +51,4 @@ Safety evaluation in the multisite trial used exclusion criteria (seizures, migr
 - [All 21 autistic students independently completed all 164 VR-IWS tasks offered across three countries](vr-iws-all-students-completed-164-tasks.md) — related
 - [Motion sickness after the iVR experience was negligible for most participants, but a minority felt significant discomfort](ivr-motion-sickness-negligible-minority-discomfort.md) — related
 - [VR sickness in the system is minimal overall (SSQ total 12.88), with nausea lowest and oculomotor symptoms most significant](photon-fusion-minimal-vr-sickness-ssq.md) — related
+- [Motion sickness remains a disagreeable side effect of IVR serious games for a minority of participants](ivr-sgs-motion-sickness-side-effect.md) — related

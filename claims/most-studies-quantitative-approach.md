@@ -52,3 +52,4 @@ The review's analysis of the research methods of the included empirical studies 
 - [The 32 included studies were predominantly quantitative and cross-sectional, with questionnaire sample sizes ranging from 17 to 815 students](ahs-pst-study-design-profile.md) — related
 - [The evidence base is dominated by US studies and quantitative designs, with sample sizes ranging from one teacher to 53 schools and 1,323 teachers](descriptive-overview-51-studies.md) — related
 - [Digital distraction research is predominantly quantitative (69.23%), focused on higher education (92.3% of studies), and relies mainly on surveys](digital-distraction-research-methodological-profile.md) — related
+- [Quantitative questionnaire methodology dominates digital competence research in higher education](slr-digital-competence-quantitative-methods-dominant.md) — related

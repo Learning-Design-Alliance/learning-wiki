@@ -13,7 +13,7 @@ generated:
 # Writing Skills
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 167 claims (109 show a difference, 35 mixed, 23 no difference) · 90 studies (36 causal, 26 associational, 11 review, 10 quant-synthesis, 4 theoretical, 3 design), `q1`–`q4` · 35 of 90 report an effect size · 162 claims rest on one study
+> **Evidence** · 173 claims (112 show a difference, 35 mixed, 26 no difference) · 92 studies (38 causal, 26 associational, 11 review, 10 quant-synthesis, 4 theoretical, 3 design), `q1`–`q4` · 35 of 92 report an effect size · 168 claims rest on one study
 
 ## Description
 Writing skills run from the foundational to the compositional. At the foundation are the motor skills of handwriting, knowledge of letters and print, spelling, punctuation, capitalisation and writing speed. Composition is the expression of ideas in writing: setting goals for a piece, deciding on content and structure, and shaping it for an audience and purpose. Genre knowledge is knowing the elements, vocabulary and order a narrative, persuasive or informative text calls for, and argumentative reasoning is the ability to make and support a claim with evidence and judge other people's arguments. The Learner Variability Navigator covers these as five factors across early childhood, the primary and secondary grades and adult learning.
@@ -205,6 +205,12 @@ They are assessed with curriculum-based measures (copying, dictation, spelling, 
 - [Network-based writing feedback does not improve quantity or structural quality of integration](../claims/network-feedback-no-effect-quantity-structure.md) [-M] — instruction changes it
 - [Pre-reading expert referent networks and post-reading network-based writing feedback do not improve semantic quality of integration](../claims/expert-networks-do-not-improve-semantic-quality.md) [-M] — instruction changes it
 - [Structural quality of integration (GCsim) increases substantially at delayed writing three days later](../claims/structural-quality-increases-delayed-writing.md) [+M] — instruction changes it
+- [In a 12-week kindergarten trial, the benefit of tablet-app handwriting training over paper-and-pencil-only training depended on children's initial handwriting level, as shown by a three-way interaction between condition, initial level and time](../claims/tablet-handwriting-app-initial-level-interaction.md) [+M] — an instructional effect differs with it
+- [In the Ramayana sub-study, software-group stories scored higher for strong descriptions of characters or actions at both story stages](../claims/ramayana-more-character-descriptions.md) [+W] — instruction changes it
+- [Kindergarteners with a high initial handwriting level showed no learning effect on the transfer task in either the tablet-app or the traditional condition](../claims/high-initial-level-no-learning-effect.md) [-M] — an instructional effect differs with it
+- [Kindergarteners with a low initial handwriting level improved significantly in both conditions, with no detectable advantage of tablet-app training over traditional instruction](../claims/low-initial-level-no-tablet-advantage.md) [-M] — an instructional effect differs with it
+- [Kindergarteners with a medium initial handwriting level made significantly greater paper-based progress when handwriting training partially used the tablet app than when it was entirely traditional](../claims/medium-initial-level-tablet-benefit-transfer.md) [+M] — an instructional effect differs with it
+- [No preparation process (software cartooning, paper cartooning, or teacher's normal planning) produced clearly different written stories](../claims/no-consistent-writing-effect-preparation-process.md) [-W] — instruction changes it
 
 ## Measures
 - **Wechsler Individual Achievement Test (Third Edition)** (Breaux & Frey, 2010): This multi-battery test can be used in a variety of settings to measure ability and screen for potential learning disabilities. There are extensive written expression sub-tests to analyze Composition abilities.

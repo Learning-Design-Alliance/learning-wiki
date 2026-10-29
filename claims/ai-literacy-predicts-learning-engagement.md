@@ -57,3 +57,4 @@ PLS-SEM path analysis of cross-sectional questionnaire data from 1,198 undergrad
 - [Professional commitment is essentially uncorrelated with AI literacy and shows no significant bivariate correlation with learning engagement](professional-commitment-null-bivariate-correlations.md) — related
 - [Teacher–AI collaboration is positively related to university teachers' work engagement](teacher-ai-collaboration-positively-related-work-engagement.md) — related
 - [Higher education teachers' digital competence positively and significantly correlates with their work engagement and effort expectancy](digital-competence-correlates-work-engagement.md) — related
+- [Higher digital competence is positively associated with students' digital informal learning and academic engagement](digital-competence-positive-association-dil-engagement.md) — related

@@ -47,7 +47,7 @@ sources:
 # Game-based Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 71 claims (34 for, 36 mixed, 1 against) · 55 studies (17 causal, 14 quant-synthesis, 12 review, 4 design, 4 theoretical, 3 associational, 1 qualitative), `q1`–`q4` · 17 of 55 report an effect size · 65 claims rest on one study
+> **Evidence** · 74 claims (36 for, 37 mixed, 1 against) · 57 studies (18 causal, 14 quant-synthesis, 13 review, 4 design, 4 theoretical, 3 associational, 1 qualitative), `q1`–`q4` · 17 of 57 report an effect size · 68 claims rest on one study
 
 ## Conditional relationship
 
@@ -160,6 +160,7 @@ Claims read against this model that do not change it. Each says what it is and w
 - [Progressive engagement through the PFO model shifted students' reasoning about the game system from micro-level to macro-level abstraction](../claims/pfo-progression-micro-to-macro.md) [+W] — attached 2026-10-29 from Marianthi Grizioti (2025), which proposed "PFO model of progressive engagement: Play, Focused Modifications, Open Modifications & Design".
 - [Ke's (2016) systematic review synthesized five major themes as guideposts for designing research-based learning games](../claims/ke-2016-five-themes-learning-game-design.md) [+W] — attached 2026-10-29 from Andri Ioannou (2021), which proposed "Treat learning content as integral to gameplay, rules, and actions when designing learning games".
 - [The GraphoGame effect on decoding was greatest when both students and teachers played the game](../claims/graphogame-teacher-plus-student-exposure-greatest.md) [+W] — attached 2026-10-29 from Jere-Folotiya et al. (2014), which proposed "Supplementary computer-assisted phonics games should expose both students and teachers to the game to maximize early literacy gains".
+- [An interactive game training context provided no immersion or bias-mitigation advantage over a text script with identical content](../claims/game-context-no-advantage-over-text.md) [~W] — attached 2026-10-29 from Poos et al. (2017), which proposed "Use engaging narrative text rather than expensive immersive games for bias-mitigation training when resources are scarce"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 
@@ -192,6 +193,8 @@ A gain in the game, a gain on an aligned outside test, delayed retention, transf
 - [Worked-example effects in a 3D role-playing game for chemical formulas: significant on knowledge comprehension, marginal on knowledge application](../claims/worked-example-effect-3d-game-chemical-formulas.md) [~W]
 - [Path analysis supports an indirect path from competition through motivation and in-game accuracy to post-test scores](../claims/path-analysis-competition-motivation-accuracy.md) [~W]
 - [Post-test scores correlate with motivation, response time, reading time and in-game accuracy](../claims/correlations-post-test-game-measures.md) [+W]
+- [IVR serious games produce better evacuation knowledge retention and transfer than traditional training approaches](../claims/ivr-sgs-better-knowledge-retention-transfer-than-traditional.md) [+W]
+- [IVR serious games improve spatial knowledge for evacuation relative to safety cards, with body orientation moderating learning](../claims/ivr-sgs-spatial-knowledge-evacuation.md) [+W]
 
 ## Related Principles
 - [Simulations & Immersive Virtual Environments](simulations-immersive-virtual-environments.md) — simulations overlap with game-based learning when the experience models a system learners must navigate.

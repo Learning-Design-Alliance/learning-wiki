@@ -123,7 +123,7 @@ sources:
 # Simulations & Immersive Virtual Environments
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 122 claims (48 for, 66 mixed, 8 against) · 87 studies (29 causal, 20 review, 12 quant-synthesis, 10 qualitative, 8 theoretical, 7 design, 1 associational), `q1`–`q4` · 21 of 87 report an effect size · 117 claims rest on one study
+> **Evidence** · 125 claims (50 for, 67 mixed, 8 against) · 88 studies (29 causal, 21 review, 12 quant-synthesis, 10 qualitative, 8 theoretical, 7 design, 1 associational), `q1`–`q4` · 21 of 88 report an effect size · 120 claims rest on one study
 
 ## Conditional relationship
 
@@ -356,6 +356,9 @@ Success inside the simulation, immediate performance outside it, delayed retenti
 - [Real-time and dynamic feedback dominate feedback provision in ILEs for psychomotor skills](../claims/ile-psychomotor-feedback-realtime-dynamic-dominance.md) [~W]
 - [HMDs and camera-based systems are the most prevalent ILE technologies for psychomotor training](../claims/ile-psychomotor-technology-trends-hmd-cameras.md) [+W]
 - [VR can replicate fieldwork in the physical sciences but loses embodied presence in Geography, and Geography teachers need discipline-specific capabilities in GIS, remote sensing and UAVs](../claims/geography-vr-fieldwork-limits.md) [~W]
+- [IVR serious games produce better evacuation knowledge retention and transfer than traditional training approaches](../claims/ivr-sgs-better-knowledge-retention-transfer-than-traditional.md) [+W]
+- [IVR serious games improve spatial knowledge for evacuation relative to safety cards, with body orientation moderating learning](../claims/ivr-sgs-spatial-knowledge-evacuation.md) [+W]
+- [Motion sickness remains a disagreeable side effect of IVR serious games for a minority of participants](../claims/ivr-sgs-motion-sickness-side-effect.md) [~W]
 
 ## Related Principles
 - [Experiential Learning](experiential-learning.md) — simulations provide structured experiences that later reflection can interpret.
@@ -390,6 +393,7 @@ Success inside the simulation, immediate performance outside it, delayed retenti
 - [Use immersive VR simulations to let students experience complex scientific phenomena that are hard to experience in everyday life](../strategies/immersive-vr-for-hard-to-experience-phenomena.md)
 - [Deliver a short post-exploration instructional video to complement science simulations](../strategies/short-post-simulation-video-strategy.md)
 - [Use teaching approximations (role play, microteaching) to scaffold pre-service teachers' pedagogical reasoning](../strategies/teaching-approximations-pedagogical-reasoning.md)
+- [Supplement VR lessons with pre-training and follow-up reflection activities, and keep VR sessions short to limit fatigue and cybersickness](../strategies/vr-sce-session-design-pretraining-reflection.md)
 
 ## Key Sources
 - Akcayir, M., & Akcayir, G. (2017). Advantages and challenges associated with augmented reality for education: A systematic review of the literature. *Educational Research Review, 20*, 1-11. [https://doi.org/10.1016/j.edurev.2016.11.002](https://doi.org/10.1016/j.edurev.2016.11.002)

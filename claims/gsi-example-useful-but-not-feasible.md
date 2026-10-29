@@ -48,3 +48,4 @@ Likert-scale questionnaire results from the workshop case study (18 valid answer
 ## Related Claims
 - [Teachers rated the GSI example comprehensible, but perceived the difficulty of creating adaptive material as significantly higher after attempting authoring](gsi-authoring-difficulty-increases-after-experience.md) — related
 - [A pilot with 22 teachers showed GSI-shaped Units of Learning can be reused across independent course instances at reasonable deployment cost](gsi-pilot-preserves-reusability-self-containment.md) — related
+- [Monitoring learning activities in a student's personal workspace via a configured virtual appliance is feasible in a real course](virtual-appliance-workspace-monitoring-feasible.md) — related

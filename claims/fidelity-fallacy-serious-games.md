@@ -85,3 +85,7 @@ The chapter reports, citing prior systematic reviews, that the assumption that m
 - [Adult learners perceive immersive game-based platforms and interactive AI interfaces as effective mediums for enhancing learner-AI artifact-mediated interaction](immersive-platforms-interactive-interfaces-artifact-mediated.md) — reports the opposite
 - [In an immersive VR dual-task search-and-learning environment, both a pedagogical agent cue and a light cue produced faster search times than no cueing](vr-agent-light-cues-reduce-search-time.md) — related
 - [Neither the pedagogical agent cue nor the light cue improved learning outcomes in the immersive VR dual-task environment](vr-cueing-no-learning-outcome-effect.md) — a narrower finding that bears on this claim
+- [An interactive game training context provided no immersion or bias-mitigation advantage over a text script with identical content](game-context-no-advantage-over-text.md) — a narrower finding that bears on this claim
+- [IVR serious games produce better evacuation knowledge retention and transfer than traditional training approaches](ivr-sgs-better-knowledge-retention-transfer-than-traditional.md) — reports the opposite
+- [IVR serious games improve spatial knowledge for evacuation relative to safety cards, with body orientation moderating learning](ivr-sgs-spatial-knowledge-evacuation.md) — related
+- [IVR serious games validate evacuation facility designs, with participants preferring green and white flashing exit-portal lights](ivr-sgs-evacuation-facility-validation.md) — related

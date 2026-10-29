@@ -57,3 +57,4 @@ Correlational analysis of over 100,000 learning records from the MAIC pilot, reg
 - [Participation in Bazaar synchronous chat sessions is associated with roughly a 50 percent lower risk of dropout in an edX MOOC](chat-participation-halves-dropout-risk.md) — related
 - [Students used the synchronous chat room far more than other communication tools, while discussion forum use was relatively low](chat-room-dominant-communication-tool-usage.md) — related
 - [Better online learning outcomes in a flipped course tend to produce better in-class readiness, which further leads to better after-class performance and exam grades](spencer-2022-accumulative-fc-achievements.md) — related
+- [In face-to-face scenarios, workspace monitoring data yields a better estimate of academic achievement than LMS forum data](workspace-monitoring-beats-lms-forum-prediction.md) — related
