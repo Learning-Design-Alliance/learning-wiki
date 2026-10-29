@@ -44,6 +44,7 @@ Building on its finding that the field lacks clear definitions and operationaliz
 ## Related Strategies
 
 - [Future RSE research should standardise terminology, fully describe pedagogy, and use rigorous evaluation](rse-future-research-agenda.md)
+- [Use robust causal research designs (What Works Clearinghouse guidelines) for future emotion and digital learning studies](wwc-guidelines-emotion-digital-learning-research.md)
 
 ## Examples
 -

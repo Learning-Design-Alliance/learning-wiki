@@ -55,3 +55,4 @@ The Perspective reports, citing prior empirical work, that the prompt–response
 - [More complex prompts tend to elicit superior results with advanced LLM versions (authors' observation)](complex-prompts-elicit-better-llm-results.md) — related
 - [Reviewed literature reports risks of overreliance, AI errors in complex tasks, and students' uncritical acceptance of AI-generated outputs](ai-math-risks-overreliance-errors-uncritical-trust.md) — related
 - [A majority of physics students (76%) perceived a positive change in their Gen AI interactions after prompt-engineering training](prompt-engineering-training-improves-perceived-gen-ai-interactions.md) — related
+- [Prompt engineering quality predicts LLM output quality and is a required skill for goal-directed GenAI use](prompt-engineering-predicts-llm-output-quality.md) — related

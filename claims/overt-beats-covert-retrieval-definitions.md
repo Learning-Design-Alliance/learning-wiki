@@ -76,3 +76,4 @@ In the high-powered Experiment 2 (382 undergraduates), for participants who prac
 - [Response format (overt vs. covert retrieval) did not affect final cued recall in spaced retrieval practice, and list structure (blocked vs. random; proportion of overt trials) did not moderate the effect.](covert-overt-retrieval-no-effect-spaced-practice.md) — reports the opposite
 - [Overt student behavior is an unreliable proxy for covert cognitive engagement and instructional effectiveness](overt-behavior-unreliable-proxy-engagement.md) — related
 - [High representational fidelity of neural context reinstatement during covert retrieval predicted better verbal recall at both short and one-week delays](fmi-reinstatement-fidelity-predicts-recall.md) — related
+- [No significant difference in learning between overt (observable) and covert (mental) practice during film participation](overt-covert-practice-no-difference.md) — reports the opposite

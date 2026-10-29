@@ -78,3 +78,4 @@ The review reports, citing DiVesta and Peverly (1984), an experiment manipulatin
 - [Interleaving benefits transfer to novel items from a learned category, with effect sizes of up to 0.66](interleaving-transfer-benefit-meta-analysis.md) — related
 - [Lesson variability benefits transfer only in combination with worked-example instruction, as shown by a variability-by-instruction interaction](example-variability-interaction-with-cognitive-load.md) — related
 - [Task rehearsal improves fluency and complexity on the repeated task but does not transfer to a new task of the same type](task-repetition-fluency-complexity-same-task-only.md) — related
+- [Differing presentations varying verbalization from low to high may be somewhat superior to repeating the same presentation](differing-presentations-low-to-high-verbalization.md) — related

@@ -50,3 +50,4 @@ Qualitative field scan of 60-minute interviews with 27 CPS staff and external pa
 - [Shifting away from traditional IRE recitation toward student participation in discussion improves student learning](ire-shift-toward-discussion-improves-learning.md) — related
 - [Technical restorative practices implementation falls short when the adaptive components of values, mindsets, and beliefs have not shifted](adaptive-shift-precedes-technical-restorative-success.md) — related
 - [Providing a learner profile shifts an LLM's selected instructional strategies from content-focused to learner-centered](learner-profile-shifts-llm-instructional-strategy-selection.md) — related
+- [School reform toward making-centered curricula requires substantial adaptation of educators' skills and beliefs](maker-reform-requires-educator-adaptation.md) — a narrower finding that bears on this claim

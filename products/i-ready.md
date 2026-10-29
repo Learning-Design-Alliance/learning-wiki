@@ -33,6 +33,7 @@ i-Ready is Curriculum Associates' digital learning platform combining computer-a
 ## Related Products and Programmes
 
 - [eDia computer-based diagnostic assessment system](edia-computer-based-diagnostic-assessment-system.md)
+- [Mastering Math Online-Check](mastering-math-online-check.md)
 
 ## Key Sources
 - Ana Paula Melo, Anita Sundrani, Julia Turner & Ofer Malamud. (2024). How Digital Platforms Provide Individualized Learning Experiences in Mathematics Across School Settings, Grades 1-5. E4 Center. https://e4.northwestern.edu/2024/06/27/how-digital-platforms-provide-individualized-learning-experiences-in-mathematics/

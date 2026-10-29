@@ -53,3 +53,4 @@ The report's narrative synthesis, citing Goupil & Proust and Csikszentmihalyi, s
 - [Curiosity about trivia answers is a U-shaped function of confidence, supporting information-gap theory](curiosity-u-shaped-function-of-confidence.md) — related
 - [Effortful regulation is maximized at moderate levels of emotional and physiological reactivity and declines at very low or very high levels](inverted-u-arousal-executive-function.md) — a broader claim this one bears on
 - [The relationship between effort and meaning follows an inverted U-shape: moderate friction enhances meaning and motivation while excessive friction overwhelms](effort-meaning-inverted-u-shape.md) — a broader claim this one bears on
+- [Struggle maintained just along the edge of understanding entices learners to strive further, while excessive struggle may demoralize](struggle-edge-of-understanding-balance.md) — related

@@ -87,3 +87,4 @@ The review reports countervailing findings in the same category, including that 
 - [Patient history recall was near ceiling in both conditions, with significant decline over two weeks but no difference between genAI and ePBLM conditions](genai-recall-near-ceiling-no-condition-difference.md) — related
 - [CLT-aligned e-learning modules improved cognitive load profiles and OSCE performance in simulation-based medical training (review-attributed to Gutierrez et al., 2023)](clt-aligned-e-learning-modules-improve-osce-performance.md) — related
 - [In an evaluative study, medical learners interpreted MedEasy as a connected consultation environment and used its components together to judge case coherence](learners-interpret-medeasy-connected-environment.md) — related
+- [Patient simulation is the most prevalent role in higher education, concentrated in medical training contexts](higher-education-patient-simulator-role.md) — related

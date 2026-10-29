@@ -87,3 +87,4 @@ Pooled three-level meta-analysis of avoidance behavior studies (k = 6 effect siz
 - [Operationalization of variables, setting, and work-relatedness of the CE activity moderate the relationships between SRL strategies and associated factors](srl-ce-moderators-operationalization-setting-work-relatedness.md) — related
 - [Metacognitive and composite SRL strategy measures show the strongest relationships with learning performance in continuing education](srl-strategy-type-performance-differences.md) — a narrower finding that bears on this claim
 - [Work-related factors (organizational learning culture, job control, job demands) are significantly positively related to SRL strategies in continuing education](srl-strategies-ce-work-related-factors.md) — related
+- [Research indicates moderate effect sizes for engagement, project-based learning, self-regulation, and feedback](moderate-effect-sizes-engagement-pbl-self-regulation-feedback.md) — related

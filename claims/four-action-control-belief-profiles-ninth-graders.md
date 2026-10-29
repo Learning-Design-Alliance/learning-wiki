@@ -59,3 +59,4 @@ Latent profile analysis was applied to action-control belief scales (agency beli
 - [K-Means clustering of LIME feature-importance profiles identifies 2 responder and 4 non-responder subgroups within binary intervention-response classes](lime-clustering-dyslexia-subgroups.md) — a narrower finding that bears on this claim
 - [Three distinct racial-mathematical identity profiles emerge among Black adolescents and are robust across two time points one year apart](three-racial-mathematical-identity-profiles-lpa.md) — related
 - [Data-driven clustering of struggling learners identifies behavioral subgroups distinguished by structural brain connectivity](clustering-subgroups-struggling-learners.md) — related
+- [Cluster analysis of medical students' emotions after diagnostic tasks reveals three distinct emotion clusters](three-emotion-clusters-diagnostic-tasks.md) — related

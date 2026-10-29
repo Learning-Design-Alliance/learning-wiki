@@ -50,3 +50,4 @@ Exploratory analysis of dashboard interaction in the between-subjects experiment
 - [Teacher interviews identified five types of monitored information and, via the Kano method, four highest-priority dashboard indicators for CSCL monitoring](teacher-interviews-prioritize-dashboard-indicators.md) — related
 - [Guiding dashboard support enabled teachers to perform more orchestration actions, more targeted interactions, and more class announcements than mirroring support](guiding-support-more-orchestration-actions-than-mirroring.md) — related
 - [Mirroring systems display basic actions to collaborators](mirroring-systems-display-basic-actions.md) — related
+- [Correctness overviews alone seldom lead to real insights into how to improve learning; dashboards must present teacher-actionable information supporting goal-setting, monitoring, and planning](dashboards-need-actionable-information-beyond-correctness.md) — related

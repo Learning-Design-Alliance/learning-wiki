@@ -40,6 +40,7 @@ The report argues that designing effective learning opportunities for educators 
 
 - [Design educator preparation around pedagogical alignment, tightly linked clinical experiences, and a developmental approach to educator learning](preparation-program-design-three-strategies.md)
 - [Sustain educator learning through schoolwide, network, and districtwide approaches that embed professional learning across the system](systemic-support-educator-learning.md)
+- [Theory courses should require an application piece such as real-world clients or service-learning to prepare designers for practice](theory-course-application-piece.md)
 
 ## Examples
 -

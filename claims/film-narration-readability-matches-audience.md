@@ -50,3 +50,4 @@ Content analysis of 21 most used educational films measuring narration readabili
 - [Revising texts to improve readability-formula scores often produces nonexistent or insignificant comprehension gains](readability-revision-gains-nonexistent-insignificant.md) — a broader claim this one bears on
 - [Surface readability measures are weak predictors of question difficulty, per reviewed studies](readability-weak-difficulty-predictors.md) — related
 - [Shallow complexity measures for word problems correlate only weakly with difficulty](shallow-complexity-weakly-correlate-difficulty.md) — related
+- [Film narration type (expository vs. personalized-dramatic) and listenability level effects on factual learning compared across fifth and eighth grade](film-narration-type-listenability-grade-levels.md) — related

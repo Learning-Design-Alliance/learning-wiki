@@ -47726,5 +47726,209 @@
  "simulation\tlooking out the window event\tother classroom events involving rocking in a chair or peeking at a book": {
   "label": "Looking out the window event vs other classroom events",
   "treatment_is_a": true
+ },
+ "active-learning\tGenerate self-assessment questions (Activity F)\tReview activities (Activities B, C, and D)": {
+  "label": "Self-generation vs review",
+  "treatment_is_a": true
+ },
+ "active-learning\tGenerate the video (Activity A)\tReview activities (Activities B, C, and D)": {
+  "label": "Video creation vs review",
+  "treatment_is_a": true
+ },
+ "active-learning\tSGC project series\tpre-project baseline": {
+  "label": "Project-based learning vs pre-project baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tSearch for complementary web articles (Activity E)\tReview activities (Activities B, C, and D)": {
+  "label": "Searching for complementary resources vs review",
+  "treatment_is_a": true
+ },
+ "active-learning\taudience participation during the film\tsimple viewing of the film": {
+  "label": "Participatory viewing vs simple viewing",
+  "treatment_is_a": true
+ },
+ "active-learning\taudience participation with questions\tsimple viewing without participation": {
+  "label": "Participatory viewing vs simple viewing",
+  "treatment_is_a": true
+ },
+ "active-learning\tcollective reflexive activities and peer discussion\tinitial reliance on readings and textbook definitions": {
+  "label": "Collaborative reflection and discussion vs reading-based instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tfilmstrips with participation\tfilmstrips without participation": {
+  "label": "Participatory viewing vs non-participatory viewing",
+  "treatment_is_a": true
+ },
+ "active-learning\tfilmstrips with reading aloud and answering script questions\tfilmstrips without participation": {
+  "label": "Participatory viewing with reading and questions vs non-participatory viewing",
+  "treatment_is_a": true
+ },
+ "active-learning\tflipped classroom\ttraditional methodology": {
+  "label": "Flipped classroom vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tflipped classroom methodology\ttraditional methodology": {
+  "label": "Flipped classroom vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\treflection, visualization, and peer discussion\tsummarizing and repeating assigned readings": {
+  "label": "Collaborative reflection and discussion vs reading summarization and repetition",
+  "treatment_is_a": true
+ },
+ "feedback-presence\taudience participation with knowledge of correct responses\taudience participation without feedback": {
+  "label": "feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\taudience participation with knowledge of correct responses\taudience participation without knowledge of correct responses": {
+  "label": "feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tfeedback\tnot stated": {
+  "label": "feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tknowledge of the correct response after participation\tno feedback": {
+  "label": "feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tknowledge of the correct responses\tno feedback": {
+  "label": "feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tnetwork-based feedback after writing\tno network-based feedback": {
+  "label": "feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tMastering Math formative assessment and intervention program\tother programs or textbooks": {
+  "label": "formative-assessment intervention program vs other programs or textbooks",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tMastering Math formative assessment and intervention program\tother programs or textbooks in remedial classes": {
+  "label": "formative-assessment intervention program vs other programs or textbooks",
+  "treatment_is_a": true
+ },
+ "formative-assessment\titerative design responsive to student feedback and teacher reflection\tfixed, non-revised design": {
+  "label": "iterative, feedback-responsive design vs fixed, non-revised design",
+  "treatment_is_a": true
+ },
+ "media-design\tbest commentary without pictures\tbest commentary with pictures": {
+  "label": "with pictures vs without pictures",
+  "treatment_is_a": false
+ },
+ "media-design\texpository film narration\tpersonalized-dramatic film narration": {
+  "label": "personalized-dramatic film narration vs expository film narration",
+  "treatment_is_a": false
+ },
+ "media-design\tfamiliar-school photos activity\tinitial imaginary-school activity": {
+  "label": "familiar-school photos activity vs initial imaginary-school activity",
+  "treatment_is_a": true
+ },
+ "media-design\tfilm with one sex as the main character\tfilm with the other sex as the main character": {
+  "label": "one sex as the main character vs the other sex as the main character",
+  "treatment_is_a": true
+ },
+ "media-design\tintegrative expert network presented before reading\tintra-text expert network presented before reading": {
+  "label": "integrative expert network vs intra-text expert network",
+  "treatment_is_a": true
+ },
+ "media-design\tintra-text expert network presented as summary-writing feedback\tintegrative expert network presented as summary-writing feedback": {
+  "label": "integrative expert network vs intra-text expert network",
+  "treatment_is_a": false
+ },
+ "media-design\tmodified commentaries (versions 2–4)\toriginal commentary (version 1)": {
+  "label": "modified commentary vs original commentary",
+  "treatment_is_a": true
+ },
+ "media-design\tmodified commentary\toriginal commentary": {
+  "label": "modified commentary vs original commentary",
+  "treatment_is_a": true
+ },
+ "media-design\tmodified film commentaries\toriginal commentary": {
+  "label": "modified film commentary vs original commentary",
+  "treatment_is_a": true
+ },
+ "media-design\tpertinent multimedia presentation\tnon-pertinent multimedia presentation": {
+  "label": "pertinent multimedia presentation vs non-pertinent multimedia presentation",
+  "treatment_is_a": true
+ },
+ "media-design\tpre-reading integrative referent network\tpre-reading intra-text referent network": {
+  "label": "integrative referent network vs intra-text referent network",
+  "treatment_is_a": true
+ },
+ "media-design\tprofile-shortened commentary\tfull commentary": {
+  "label": "full commentary vs profile-shortened commentary",
+  "treatment_is_a": false
+ },
+ "media-design\tprofile-shortened commentary\tscript-writers-shortened commentary": {
+  "label": "profile-shortened commentary vs script-writers-shortened commentary",
+  "treatment_is_a": true
+ },
+ "media-design\tsame viewpoint during learning and performance\tdifferent viewpoint during performance": {
+  "label": "same viewpoint during learning and performance vs different viewpoint during performance",
+  "treatment_is_a": true
+ },
+ "media-design\tsingle demonstration repeated\tequivalent number of different demonstrations": {
+  "label": "different demonstrations vs a single demonstration repeated",
+  "treatment_is_a": false
+ },
+ "media-design\twatched a multimedia presentation\tdid not watch a multimedia presentation": {
+  "label": "watched a multimedia presentation vs did not watch a multimedia presentation",
+  "treatment_is_a": true
+ },
+ "media-design\twatched multimedia presentation\tdid not view the presentation": {
+  "label": "watched a multimedia presentation vs did not watch a multimedia presentation",
+  "treatment_is_a": true
+ },
+ "media-design\twatched presentation A\twatched presentation B": {
+  "label": "presentation A vs presentation B",
+  "treatment_is_a": true
+ },
+ "practice-amount\tconcurrent practice\tno concurrent practice": {
+  "label": "Concurrent practice vs no concurrent practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\tpractice between learning experiences\tno practice between learning experiences": {
+  "label": "Practice between learning experiences vs no practice between learning experiences",
+  "treatment_is_a": true
+ },
+ "practice-amount\tsupplementary examples added\toriginal film examples, even after doubling": {
+  "label": "Supplementary examples vs original examples, including doubled original examples",
+  "treatment_is_a": true
+ },
+ "prompts\tintegrative reading prompts\tdetailed reading prompts": {
+  "label": "integrative reading prompts vs detailed reading prompts",
+  "treatment_is_a": true
+ },
+ "prompts\trobot prompts children to talk and choose together\tno coordination prompt; children repeat individual choices": {
+  "label": "coordination prompts vs no coordination prompts",
+  "treatment_is_a": true
+ },
+ "prompts\tself-reflection on theory\tnot stated": {
+  "label": "self-reflection prompts vs no self-reflection prompts",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\taudience participation with questions\tsimple viewing of the film": {
+  "label": "retrieval practice vs no retrieval practice",
+  "treatment_is_a": true
+ },
+ "scaffolding\tEcoMUVE virtual environment integrated with scaffolding tools\tnot stated": {
+  "label": "scaffolding vs no scaffolding",
+  "treatment_is_a": true
+ },
+ "scaffolding\tflexible, wizard-controlled responses adapted to children\tfixed scripted responses": {
+  "label": "adaptive scaffolding vs fixed scaffolding",
+  "treatment_is_a": true
+ },
+ "spacing\tdelayed writing\tafter-reading writing": {
+  "label": "delayed vs immediate writing",
+  "treatment_is_a": true
+ },
+ "spacing\tdelayed writing\trevised writing": {
+  "label": "delayed vs revised writing",
+  "treatment_is_a": true
+ },
+ "test-format\tdiagram-based test items\tpurely verbal test items": {
+  "label": "diagram-based test items vs purely verbal test items",
+  "treatment_is_a": true
  }
 }

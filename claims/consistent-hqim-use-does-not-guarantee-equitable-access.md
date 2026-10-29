@@ -51,3 +51,4 @@ Spotlight interview with a Magnolia district leader describing what the report n
 - [Computing participation and achievement disparities persisted in the district despite development of an inclusive CT pathway.](talladega-disparities-persisted-despite-pathway.md) — related
 - [Students in foster care were consistently outperformed by low-SES students and scored at the two lowest performance levels at twice the statewide rate](foster-care-outperformed-by-low-ses.md) — related
 - [Publicly reported statistics based only on active ELs give a biased picture of EL performance because proficient students exit the subgroup](active-el-reporting-bias.md) — related
+- [Equity in makerspaces is not guaranteed by their existence](maker-equity-not-guaranteed.md) — related

@@ -66,6 +66,7 @@ Choice in assessments supports motivation primarily by satisfying the need for a
 - [Give learners control over how learning is measured via assessment choices and science-fair-type projects](learner-controlled-assessment-science-fair-projects.md)
 - [Support learners in making and being guided to make effective choices](guide-learners-to-effective-choices.md)
 - [Implement choice-based personalization at scale by letting learners focus assignments on their own locale or background](choice-based-personalization-at-scale-strategy.md)
+- [Adopt project-based learning to reduce continuous-assessment workload and increase time for reflection](pbl-reduce-cet-workload-increase-reflection.md)
 
 ## Examples
 - A history course assigns one essay on "causes of social change" but lets students choose among four case periods; all essays are scored on the same argumentation rubric.

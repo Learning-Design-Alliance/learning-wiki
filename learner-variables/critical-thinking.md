@@ -13,7 +13,7 @@ generated:
 # Critical Thinking
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 74 claims (51 show a difference, 18 mixed, 5 no difference) · 55 studies (18 causal, 12 review, 10 associational, 6 theoretical, 5 qualitative, 3 design, 1 quant-synthesis), `q1`–`q3` · 13 of 55 report an effect size · 72 claims rest on one study
+> **Evidence** · 77 claims (53 show a difference, 19 mixed, 5 no difference) · 57 studies (19 causal, 12 review, 10 associational, 7 theoretical, 5 qualitative, 3 design, 1 quant-synthesis), `q1`–`q3` · 13 of 57 report an effect size · 75 claims rest on one study
 
 ## Description
 Critical thinking is purposeful, reasoned evaluation: asking who is presenting information, in what context and on what evidence, considering several perspectives and kinds of evidence before drawing an inference, and using that to make decisions and solve problems. It combines a set of reasoning skills with a disposition to use them. It is often measured by questionnaires about attitudes toward critical thinking, as well as by reasoning tasks.
@@ -114,6 +114,9 @@ It draws on [metacognition](metacognition.md) (monitoring one's own reasoning), 
 - [Overreliance on GenAI risks diminishing higher-order thinking skills and programming logic](../claims/genai-overreliance-risks-hots-programming-logic.md) [~M] — instruction changes it
 - [Metacognition and critical-thinking tutors show mixed results: Operation ARA gained 1.4 σ, SEEK showed no significant improvement, and MetaTutor's learning-efficiency advantage disappeared when agent time was counted](../claims/metacognition-tutoring-mixed-outcomes.md) [~W] — instruction changes it
 - [Sixth-grade students using CTSiM showed significant pre-to-post gains on acceleration, diffusion, and CT tests, with moderate effect sizes for acceleration (0.43) and CT (0.57) and a large effect size for diffusion (0.9)](../claims/ctsim-significant-pre-post-gains-domain-ct.md) [+M] — instruction changes it
+- [GenAI cognitive offloading of lower-order tasks frees cognitive resources but risks reduced human evaluation skills](../claims/genai-cognitive-offloading-benefits-and-risks.md) [~M] — instruction changes it
+- [Watching a pertinent multimedia presentation has a positive effect on evaluative knowledge](../claims/pertinent-multimedia-positive-effect-evaluative-knowledge.md) [+M] — instruction changes it
+- [Human judgement is central to accurate and ethical human-AI knowledge building](../claims/human-judgement-central-ai-knowledge-building.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **California Critical Thinking Disposition Inventory** (Facione et al., 2001): learner questionnaire on attitudes and dispositions toward critical thinking.

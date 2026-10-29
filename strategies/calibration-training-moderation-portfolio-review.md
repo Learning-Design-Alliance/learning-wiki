@@ -43,6 +43,8 @@ A reader-capacity strategy in which the admissions director hires, trains, and c
 - [Four recommended practices for implementing an admissions portfolio system](four-practices-implementing-admissions-portfolio.md)
 - [Portfolio Assessment](portfolio-assessment.md)
 - [Peer and Self-Assessment](peer_and_self-assessment.md)
+- [Use a two-step calibration and independent review process with standardized training for peer reviewers](poet-o-two-step-calibration-independent-review.md)
+- [Institutional implementation recommendations for peer evaluation using the POET-O](poet-o-implementation-recommendations.md)
 
 ## Examples
 -

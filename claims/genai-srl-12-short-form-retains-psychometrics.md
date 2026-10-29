@@ -74,3 +74,4 @@ p < 0.001) followed the correlational pattern of the full scale."
 - [The self-report measure supports a refined 13-item, four-factor model with good fit](sr-measure-four-factor-cfa.md) — related
 - [Acceptance of individual and collective cheating form two distinct factors in students' responses](individual-collective-cheating-two-factor-distinction.md) — related
 - [CFA partially supports the six-dimension structure of perceived AI competence](cfa-partially-supports-six-dimension-structure.md) — related
+- [Only 10 of 211 SRL scale items were feasible to operationalize as learning analytics indicators in an LMS](ten-of-211-srl-items-feasible-lms-indicators.md) — related

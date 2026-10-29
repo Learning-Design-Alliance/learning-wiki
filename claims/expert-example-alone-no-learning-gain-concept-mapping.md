@@ -50,3 +50,4 @@ In the quasi-experiment (N = 144), post-hoc Bonferroni comparisons found no sign
 - [Teacher-guided classroom discussion before reflection prompts yields higher learning gains than all other support conditions, especially on application-level items](classroom-discussion-before-prompts-higher-concept-map-learning-gains.md) — related
 - [Concept mapping improves learning over most comparison conditions by a moderate average amount, but not over time-matched retrieval practice](concept-mapping-improves-learning.md) — related
 - [Summary writing produced no significant comprehension improvement and the most disputational talk, and did not significantly differ from completing a map in learning outcomes](summary-task-weaker-outcomes-and-disputational-talk.md) — related
+- [Deconstructing theory into smaller concepts alone is insufficient for deep theoretical understanding](deconstructing-theory-alone-insufficient.md) — related

@@ -21,7 +21,7 @@ sources:
 # Traditional Lecture-Based Instruction
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 28 claims (2 for, 18 mixed, 8 against) · 37 studies (10 review, 8 causal, 7 theoretical, 5 qualitative, 4 quant-synthesis, 2 associational, 1 design), `q1`–`q4` · 5 of 37 report an effect size · 21 claims rest on one study
+> **Evidence** · 29 claims (2 for, 18 mixed, 9 against) · 38 studies (10 review, 9 causal, 7 theoretical, 5 qualitative, 4 quant-synthesis, 2 associational, 1 design), `q1`–`q4` · 5 of 38 report an effect size · 22 claims rest on one study
 
 ## Description and scope
 
@@ -150,6 +150,7 @@ This pattern is scoped to courses where a lecturer's explanation to a whole grou
 - [Correct-answer feedback alone was insufficient for generalization: significantly worse than lecture in Study 1, with the difference not significant in Study 2](../claims/correct-answer-feedback-insufficient-for-generalization.md) [~W]
 - [Lecture-based learning events show a clearer decline in EDA across within-event segments than flipped learning events](../claims/lecture-based-events-clearer-eda-decline-across-segments.md) [~W]
 - [The within-student pre–post valence association holds in the lecture-based group but not in the flipped group, while between-student associations are positive in both](../claims/pre-post-valence-stability-varies-by-implementation.md) [~W]
+- [Probability of failing is higher under traditional methodology](../claims/traditional-methodology-higher-failure-probability.md) [-W]
 
 ## Related Patterns
 - [Direct Instruction](direct-instruction.md) — the explain, model, guided-practice and hand-over policy; a lecture segment is its explanation step delivered to a large group

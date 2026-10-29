@@ -55,3 +55,4 @@ The review reports, citing Schweder (2026), a latent-profile study of German sec
 - [Satisfaction of basic psychological needs is positively associated with autonomous motivation, with competence the strongest predictor](basic-needs-satisfaction-autonomous-motivation.md) — related
 - [Positive teacher-student relationships fulfill relatedness needs and support internalization of learning](relatedness-care-support-internalization.md) — related
 - [Teacher beliefs about individual students relate to differentiated need support: students with higher teacher-reported expectations perceive more need support](teacher-expectations-relate-to-perceived-need-support.md) — related
+- [Most of the 20 ChatGPT learning activities (11 of 20) better satisfy competence, fewer satisfy autonomy, and the fewest satisfy relatedness.](chatgpt-activities-competence-needs-dominance.md) — related

@@ -71,7 +71,7 @@ sources:
 # Cultural & Life Experiences Connections
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 55 claims (45 for, 10 mixed) · 51 studies (14 qualitative, 12 causal, 8 design, 6 review, 5 theoretical, 4 quant-synthesis, 2 associational), `q1`–`q4` · 3 of 51 report an effect size · 49 claims rest on one study
+> **Evidence** · 56 claims (46 for, 10 mixed) · 52 studies (15 qualitative, 12 causal, 8 design, 6 review, 5 theoretical, 4 quant-synthesis, 2 associational), `q1`–`q4` · 3 of 52 report an effect size · 50 claims rest on one study
 
 ## Conditional relationship
 
@@ -199,6 +199,7 @@ Read 2026-10-19 and moved into the model above: the gateway-mathematics, story-p
 - [Some outcome-oriented PSMTs (types o and o*) predict single-trial outcomes, and type o* thinkers conflate causality with conditionality](../claims/outcome-oriented-causal-conception.md) [+W]
 - [Framing formal logical problems in primary knowledge contexts makes learners more efficient, more motivated, more confident and lowers cognitive load compared with secondary knowledge framing](../claims/primary-knowledge-framing-efficiency-motivation.md) [+W] — attached 2026-10-21 from Florence Lespiau (2019), which proposed "Frame practice of formal reasoning in evolutionary-salient primary knowledge contexts to motivate learners"; tests this page's relationship.
 - [Experienced educators ranked experience-drawing and imagination questions highest and factual and technique questions lowest among eighteen literature study questions](../claims/expert-rankings-literature-study-questions.md) [+W] — attached 2026-10-24 from L. Z (1921), which proposed "Design literature study around sympathetic approach and imaginative picturing of the selection's experiences rather than technique and factual detail".
+- [Anchoring activities in familiar contexts, such as photos of the children's own school, immediately engaged every child](../claims/familiar-contexts-boost-engagement.md) [+W] — attached 2026-10-28 from Yanghee Kim et al. (2021), which proposed "Design robot-mediated collaboration with flexibility, friend-like communication, familiar tasks, and home languages".
 
 ## Objective and learner-valued goal
 

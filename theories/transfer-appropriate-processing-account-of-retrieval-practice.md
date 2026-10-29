@@ -17,7 +17,7 @@ sources:
 # Transfer-Appropriate Processing Account of Retrieval Practice
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 14 claims (8 for, 3 mixed, 3 against) · 10 studies (4 causal, 4 quant-synthesis, 1 review, 1 qualitative), `q2`–`q4` · 4 of 10 report an effect size · 13 claims rest on one study
+> **Evidence** · 15 claims (9 for, 3 mixed, 3 against) · 11 studies (5 causal, 4 quant-synthesis, 1 review, 1 qualitative), `q2`–`q4` · 4 of 11 report an effect size · 14 claims rest on one study
 
 ## Description
 Transfer-appropriate processing holds that performance is best when initial learning processing matches the processing required on a later final assessment. The chapter says it "provides a useful heuristic for explaining why practicing retrieval during learning should bolster long-term retention", illustrated by the need to practice a skill such as playing the violin.
@@ -53,6 +53,7 @@ Transfer-appropriate processing holds that performance is best when initial lear
 - [Testing or restudying with isomorphic tasks yields better delayed test performance than with identical tasks (Experiment 3)](../claims/exp3-isomorphic-task-format-advantage.md) [+W]
 - [Transfer across response formats is incomplete: practicing terms benefited definition recall, but practicing definitions showed no overt-over-covert advantage on a term test](../claims/transfer-across-term-definition-formats-mixed.md) [+M]
 - [Word items transfer to Story items but Story items show no significant transfer to Word items in LCM practice](../claims/word-to-story-asymmetric-transfer.md) [+W]
+- [A motor skill learned from one point of view is best performed when the viewpoint during performance is the same](../claims/same-viewpoint-performance-film-motor-skill.md) [+W]
 
 ## The evidence by question
 

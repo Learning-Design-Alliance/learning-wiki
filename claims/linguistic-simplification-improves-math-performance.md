@@ -9,6 +9,7 @@ generated:
   at: 2026-10-09
 evidence_strength: weak
 newest_evidence: 2024
+source_checked: 2026-10-29
 sources:
   - id: anchor-lang
     title: anchor-lang
@@ -22,7 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · checked against its sources 2026-10-29 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Simplifying the language of math word problems improved performance, especially for English language learners and low-SES students, as reported by the article citing Abedi and Lord (2001). [→ anchor-lang](#anchor-lang)

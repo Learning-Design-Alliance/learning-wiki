@@ -69,3 +69,4 @@ On the same ad-hoc satisfaction survey, the control group rated their retention 
 - [iVR users showed better synchronization of angulation and translation movements in the mobilization technique](ivr-improves-angulation-translation-synchrony.md) — related
 - [Traditional teaching was rated easier, more efficient, and clearer, while iVR was rated more inventive and leading-edge](traditional-rated-easier-ivr-more-inventive.md) — related
 - [Qualitative analysis found predominantly positive perceptions of iVR, with real-time feedback the most valued element and lack of realism the main concern](qualitative-ivr-perceptions-feedback-valued-realism-concern.md) — related
+- [Prior single-exposure IVR studies show mixed cognitive outcomes: affective gains without cognitive benefits (Parong & Mayer) and short-lived retention gains (Christopoulos)](ivr-single-exposure-mixed-cognitive-outcomes.md) — related

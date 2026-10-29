@@ -49,3 +49,4 @@ Sensitivity analysis in table 3 restricting the APSCC sample to children whose p
 - [The parental summer education gap is largely college-educated parents spending more time facilitating children's summer activities](college-parents-facilitate-summer-activities.md) — related
 - [No statistically significant summer gap in children's reading time by parental education in the APSCC](no-significant-summer-reading-gap-apscc.md) — related
 - [Low-income children spend about 12 fewer minutes per day conversing with adults during summer, marginally significant](summer-conversation-gap-low-income-children.md) — related
+- [Sequential analysis can estimate television program efficiency as cost per 1000 households reached](sequential-analysis-tv-program-efficiency.md) — related

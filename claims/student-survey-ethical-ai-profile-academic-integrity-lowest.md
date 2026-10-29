@@ -53,3 +53,4 @@ Descriptive statistics from the student survey. The article reports the highest 
 - [Students rate their ethical awareness of AI higher than instructors, while instructors report stronger willingness to experiment with AI tools and higher behavioural intention](students-higher-ethical-awareness-instructors-higher-intention.md) — related
 - [Experts rated the initial curriculum highest on AI/robotics integration and teamwork (both M=4.60) and lowest on communication (M=3.40) and assessment (M=3.60)](expert-ratings-initial-curriculum-integration-teamwork-highest.md) — related
 - [University students report a generally good understanding of GenAI technologies, with highest self-rated knowledge of limitations and lowest for emotional-intelligence limits](students-good-understanding-genai-limitations.md) — related
+- [Students rate the virtual campus positively overall, with communication tools scoring lowest](virtual-campus-positive-communication-lowest.md) — related

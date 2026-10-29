@@ -56,3 +56,4 @@ Meta-analytic results for code-related literacy skills: 11 of 14 contrasts combi
 - [Book exposure predicts letter knowledge (about 6% of variance), consistent with meta-analytic evidence that print-related skills improve even from story-content-focused reading](book-exposure-predicts-letter-knowledge.md) — related
 - [Alphabet instruction benefits did not transfer to letter-word identification, phonological awareness, emergent reading, or developmental spelling](alphabet-instruction-no-transfer-emergent-literacy.md) — related
 - [Phonological awareness and alphabet knowledge fluency are each uniquely related to both word reading and spelling in kindergartners](pa-and-ak-fluency-uniquely-related-word-reading-spelling.md) — related
+- [Technological knowledge was associated positively with functional literacy](technological-literacy-associated-functional-literacy.md) — related

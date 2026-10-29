@@ -65,3 +65,4 @@ Observational log analysis of anonymized activity data from 67,686 students in 2
 - [Trace data is the dominant data type LA uses to support feedback in higher education (36% of coded data types)](trace-data-dominant-la-feedback.md) — related
 - [Data-driven clustering of struggling learners identifies behavioral subgroups distinguished by structural brain connectivity](clustering-subgroups-struggling-learners.md) — related
 - [Cluster analysis of MOOC trace data identifies four learning tactics: Search oriented, Content and assessment oriented, Content oriented, and Assessment oriented](four-learning-tactics-mooc-cluster-analysis.md) — related
+- [A K-means clustering of students based on pre- and post-project SDG knowledge identifies three distinct learning profiles, with the largest cluster showing the greatest knowledge gain.](k-means-three-sgc-learning-clusters.md) — related

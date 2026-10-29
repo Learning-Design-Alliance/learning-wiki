@@ -50,3 +50,4 @@ Multivariate intersubject DM correlation analysis across 20,484 surface nodes at
 - [Visual similarity information peaks in primary visual cortex for both groups with a gradient opposite to mechanical category information, showing mechanical categories are not explained by visual features](visual-similarity-control-v1-opposite-gradient.md) — related
 - [Engineering students significantly outperform novices on a naturalistic free body diagram task measuring Newtonian force knowledge](engineering-students-outperform-novices-fbd-task.md) — related
 - [Novices improve more than engineering students across FBD task runs, eliminating the group difference by the final run](novices-improve-more-fbd-over-runs.md) — related
+- [Focal node analysis showed advanced learners' central concepts converged with experts' after the game, while novices' remained divergent](focal-nodes-convergence-advanced-learners.md) — related

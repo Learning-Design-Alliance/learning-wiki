@@ -65,6 +65,7 @@ Self-regulation capacities — inhibitory control, working memory, and attention
 - [Achievable micro-goals](../strategies/achievable_micro-goals.md) — structures tasks so regulatory demands stay within the student's current capacity
 - [Action planning](../strategies/action_planning.md) — converts identified challenges into concrete, student-owned next steps
 - [Leverage what students do well and enjoy to address their learning challenges](leverage-strengths-to-mitigate-challenges.md)
+- [Foster positive emotions, support self-regulatory skills, and provide emotional supports for students shifting to digital learning](foster-positive-emotions-self-regulation-emotional-supports.md)
 
 ## Examples
 - **Tools of the Mind (early childhood)** — a curriculum in which pretend play and planning scaffolds (e.g., written play plans) build inhibitory control and working memory within motivating activities; students' plans double as diagnostic evidence of their regulatory development.

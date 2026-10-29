@@ -52,3 +52,4 @@ Authors' recommendation grounded in the study's site observations and cited blen
 - [Self-regulated learning interventions have a moderate effect (0.65) on learning outcomes in online and blended environments](srl-interventions-moderate-effect-online-blended.md) — related
 - [Technical confidence using digital learning tools is positively associated with lower distraction levels among online learners](technical-competency-associated-lower-distraction.md) — related
 - [Scaffolding effectiveness depends on knowledge base: high-guidance scaffolding suits less advanced learners, high-self-regulation scaffolding suits advanced learners](scaffolding-guidance-self-regulation-moderated-by-knowledge-base.md) — related
+- [OLSit model lacks replications and evidence for students with underdeveloped self-regulation](olsit-replication-and-population-gaps.md) — related

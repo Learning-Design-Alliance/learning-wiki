@@ -55,3 +55,4 @@ Cognitive-ethnographic analysis of one video-recorded nursing debriefing (Excerp
 - [In post-wargaming debriefings, teachers and students delineate tactics from related areas of military competence such as teamwork, communication, and technology](tactics-delineated-from-related-competence-debriefing.md) — related
 - [Thought and language become increasingly interdependent in the first few years, with private speech evolving into inner speech as self-regulation](vygotsky-private-speech-inner-speech.md) — related
 - Videographed bilingual-lesson discussions are analysed qualitatively with interaction analysis to reconstruct negotiated taken-as-shared meaning — related
+- [Teachers designed microgame-based learning with varied microgames and debriefing methods but shared similar scenarios, inserting microgame-based learning into the middle of the main session](teachers-designed-varied-microgames-similar-middle-scenarios.md) — related

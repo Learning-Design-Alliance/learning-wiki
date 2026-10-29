@@ -67,3 +67,4 @@ Small-scale human validation of the automated metrics against expert annotations
 - [LLMs support the shift from memorization-focused to competency-based assessment by generating rubrics, varied assessment items and authentic scenario-based tasks](llms-support-competency-based-assessment-design.md) — related
 - [LLMs show a directional asymmetry in educational control: they reliably increase cognitive demand but struggle to lower it](llm-upward-cognitive-shift-asymmetry.md) — related
 - [Existing AQG approaches concentrate on non-technical domains, and technical-domain Wh-type generation has been limited to Bloom's cognitive Level I](existing-aqg-technical-domain-limited-non-technical.md) — related
+- [Students agreed that Learning Analytics SRL rubric scores represented their approach to learning well](students-agree-rubric-scores-represent-approach-to-learning.md) — related

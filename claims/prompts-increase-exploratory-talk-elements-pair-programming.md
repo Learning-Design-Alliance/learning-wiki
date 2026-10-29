@@ -50,3 +50,4 @@ Quasi-experimental study with 62 upper primary students (9–10 years old), half
 - [Conversational-agent prompts improve student dialogue outcomes at both individual and dyad levels](conversational-agent-prompts-improve-individual-and-dyad-outcomes.md) — related
 - [A 45-minute prompt-based programming lesson produced greater pre-to-post gains in Promptly problem solving than a code-tracing control, though not statistically significant](brief-prompting-lesson-modest-performance-gains.md) — related
 - [Peer Discussion Improves Conceptual Understanding](peer-discussion-improves-conceptual-understanding.md) — a broader claim this one bears on
+- [Added cooperation prompts helped disagreeing pairs of children choose together](cooperation-prompts-helped-pairs-agree.md) — related

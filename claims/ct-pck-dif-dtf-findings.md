@@ -56,3 +56,4 @@ Differential item and test functioning analyses across seven teacher characteris
 - [Cultivate survey items function without systematic bias across student groups by race/ethnicity, gender, economic disadvantage, learning differences, or EL status](cultivate-items-no-bias-across-student-groups.md) — related
 - [DIF analysis finds mostly negligible or slight-to-moderate differential item functioning, with only one item showing moderate-to-large DIF favoring Asian over White participants](dif-one-item-moderate-large-rest-negligible.md) — related
 - [The Fisher Fellowship selection instrument is reliable, though three of 34 items had relatively low levels of one type of reliability](fisher-fellowship-selection-instrument-reliable.md) — related
+- [The 4-category rating scale of the POET-O functions properly overall but its threshold structure could be improved](poet-o-rating-scale-functions-with-disordered-thresholds.md) — related

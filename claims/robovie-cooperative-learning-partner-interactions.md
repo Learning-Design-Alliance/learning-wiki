@@ -50,3 +50,5 @@ The paper reports, citing Oshima et al. (2012), a study of Robovie-W supporting 
 - [Students preferred robot-assisted storytelling and some students treated the robot as a more equal communication partner than the instructor](students-prefer-and-trust-robot-storytelling-partner.md) — related
 - [A peer-role robot in break-time science classrooms did not increase overall science curiosity, though it increased for students who asked it questions](robovie-science-curiosity-mixed-effect.md) — related
 - [Pre-service teachers showed a slight preference for HPL over an equivalent paper-based TPL in direct comparison](hpl-teacher-preference-over-tpl.md) — related
+- [Flexible design with a human wizard anticipated kindergarteners' developing communication styles in robot-mediated interaction](flexible-design-anticipating-children-communication-styles.md) — related
+- [Wizard prompts that waited for delivery and a growing lexicon improved the robot's responsiveness over iterations](wizard-prompt-waiting-improved-responsiveness.md) — related

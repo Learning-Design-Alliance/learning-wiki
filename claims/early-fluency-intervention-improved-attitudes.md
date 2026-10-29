@@ -68,3 +68,4 @@ Same end-of-semester survey of the intervention course. "A similar proportion (7
 - [Fluent Illusions Mislead Self Assessment](fluent-illusions-mislead-self-assessment.md) — related
 - [Learners misjudge which learning strategies are effective](learners-misjudge-effective-learning-strategies.md) — a broader claim this one bears on
 - [Effortful, fluent-feeling experiences can create an illusion of learning: felt sense of learning is a poor gauge of actual learning](effortless-ai-use-creates-illusion-of-learning.md) — related
+- [Interview-type radio presentation compared with monologue for attitude change](monologue-versus-interview-attitude-change.md) — related

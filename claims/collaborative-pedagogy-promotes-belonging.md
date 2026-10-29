@@ -55,3 +55,4 @@ Expert interview with Vincent Tinto, quoted in the real-world applicability them
 - [Discussion promotes more active thinking than lecture, though lecture is no worse for transmitting information](discussion-promotes-more-active-thought-than-lecture.md) — related
 - [AMPT gave students the opportunity to express themselves and see their interests reflected in the math domain](ampt-interests-reflected-in-math.md) — related
 - [Collaborative Learning Improves Outcomes](collaborative-learning-improves-outcomes.md) — related
+- [Maker education can promote STEM-related learning outcomes, collaboration, and empathy](maker-education-benefits-claim.md) — related

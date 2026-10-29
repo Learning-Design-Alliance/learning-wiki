@@ -66,6 +66,7 @@ Reflection works here because it externalizes the decision process, making reaso
 - [Activities for Student Self-Reflection](activities_for_student_self-reflection.md) — the general reflection repertoire this strategy specializes toward decision-making
 - [Acceptance, Responsibility, and Sharing](acceptance-responsibility-and-sharing.md) — a community-circle format that surfaces decisions and their consequences socially
 - [Use consequence analysis grounded in social science concepts to make ethical administrative choices concrete](consequence-analysis-for-ethical-administrative-choices.md)
+- [Make disciplinary norms of thinking explicit for effective reflection](make-disciplinary-norms-of-thinking-explicit.md)
 
 ## Related Elements
 - [Challenge Identification](../elements/challenge-identification.md) — naming the decision point is the first reflective act

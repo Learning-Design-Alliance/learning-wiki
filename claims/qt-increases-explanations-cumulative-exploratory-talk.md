@@ -73,3 +73,4 @@ Bayesian hurdle-gamma models of group-level talk. Exploratory talk showed the pa
 - [Pre-written prompts increase Justifications and Alternative ideas in children's pair-programming talk and shift the role of Simple questions](prompts-increase-exploratory-talk-elements-pair-programming.md) — related
 - [Some classroom discussion approaches improve text comprehension, but gains are not uniform across approaches and more student talk alone does not produce them](structured-discussion-methods-improve-comprehension.md) — related
 - [Elaborated coding was associated with higher reading scores among the observed children](elaborated-coding-higher-reading-scores.md) — related
+- [Added cooperation prompts helped disagreeing pairs of children choose together](cooperation-prompts-helped-pairs-agree.md) — related

@@ -13,7 +13,7 @@ generated:
 # Multimedia Instruction
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 30 claims (17 for, 13 mixed) · 35 studies (15 causal, 9 quant-synthesis, 8 review, 2 theoretical, 1 design), `q1`–`q4` · 10 of 35 report an effect size · 25 claims rest on one study
+> **Evidence** · 32 claims (17 for, 15 mixed) · 37 studies (17 causal, 9 quant-synthesis, 8 review, 2 theoretical, 1 design), `q1`–`q4` · 10 of 37 report an effect size · 27 claims rest on one study
 
 ## Description
 Multimedia instruction is the element in which teaching combines spoken or written language with visuals, diagrams, animation, or other media in a coordinated instructional sequence. It is useful when multiple representations clarify explanation and support comprehension.
@@ -66,6 +66,8 @@ Multimedia instruction is the element in which teaching combines spoken or writt
 - [The superiority of the combined directed method held across all ability levels, with the advantage present in every section of a grouped correlation table](../claims/spelling-method-advantage-across-ability-levels.md) [+W]
 - [For Standard IV boys (average age 11), a combined articulatory-auditory-visual spelling method with directed attention yields higher dictation scores than a silent visual method without directed attention](../claims/combined-spelling-method-beats-visual-standard-iv.md) [~W]
 - [Dynamic slides did not improve knowledge acquisition compared to static slides](../claims/dynamic-slides-no-knowledge-benefit.md) [~W]
+- [Relevancy and acceptability of mental-health films matter more for learning than the sex of the main character](../claims/relevancy-acceptability-more-important-than-character-sex.md) [~W] — attached 2026-10-28 from Stein (1955), which proposed "Mental Hygiene Film Series (Feelings of Depression, Overdependency, Feelings of Hostility, Feelings of Rejection)".
+- [Supplementary examples in an instructional film significantly improve learning, with diminishing returns as example number increases](../claims/supplementary-examples-diminishing-returns.md) [~W]
 
 ## The evidence by question
 - *Do words with a relevant picture beat words alone?* [Multimedia Principle Improves Learning](../claims/multimedia-principle-improves-learning.md) [+S]

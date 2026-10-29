@@ -50,3 +50,4 @@ Technical finding on data collection and organization for straightforward action
 - [Prior difficulty collections mostly lack fine-grained classification of student difficulties](prior-difficulty-collections-lack-fine-grained-classification.md) — related
 - [Reviewed studies reported good algorithm accuracy and efficiency for AI in STEM, with performance varying by algorithm and granularity](ai-stem-technological-effects-algorithm-accuracy.md)
 - [When SRL is measured at a fine grain size (specific strategies), self-reports show low calibration with behavioral measures](fine-grained-srl-self-reports-low-calibration.md) — related
+- [Media and technology provide affordances but effective use depends on good instructional design and support](media-affordances-depend-on-instructional-design.md) — related

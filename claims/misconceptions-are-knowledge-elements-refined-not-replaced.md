@@ -53,3 +53,4 @@ The contrasting position is that children's ideas form coherent mental models co
 - [Instruction that confronts science misconceptions (conceptual-conflict interventions, refutation text) produces conceptual change more often than standard exposition](misconceptions-interfere-with-new-learning.md) — the confront-and-replace practice this argument questions
 - [Students' rules of operation for signed-number arithmetic are applied inconsistently by non-masters and stably by masters](arithmetic-rule-use-inconsistent-below-mastery-stable-at-mastery.md) — related
 - [The idea of discreteness is a fundamental presupposition that constrains students' understanding of the density of rational numbers](discreteness-presupposition-constrains-density-understanding.md) — related
+- [Theoretical understanding is preceded by an awareness of insufficient knowledge](awareness-of-insufficient-knowledge-precedes-understanding.md) — related

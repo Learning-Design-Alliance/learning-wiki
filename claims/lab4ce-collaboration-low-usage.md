@@ -49,3 +49,4 @@ Usage analysis of the exploratory study's collaboration data across the four ses
 - [Using Lab4CE is associated with higher engagement in remote Linux practice than installing a local virtual machine (more than 50% vs 25% of students)](lab4ce-virtual-machine-use-engagement.md) — related
 - [Students' activity within Lab4CE correlates positively with their learning achievement (r = 0.41, p = .002)](lab4ce-activity-achievement-correlation.md) — related
 - [Students used the synchronous chat room far more than other communication tools, while discussion forum use was relatively low](chat-room-dominant-communication-tool-usage.md) — related
+- [Little is known about learning activity types used by educators during remote instruction](little-known-remote-instruction-activity-types.md) — a broader claim this one bears on

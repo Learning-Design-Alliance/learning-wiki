@@ -54,3 +54,4 @@ The brief's framing statement, offered without supporting data or argument, list
 - [The authors argue AI web agents have the potential to accelerate advancements in online learning by giving fast, low-cost insights](ai-web-agents-accelerate-online-learning-advancements.md) — related
 - [Rural TECTA participants faced distinct barriers including travel burden, limited stipends, inconvenient class timing, technology access, and unclear registration](rural-childcare-structural-barriers-tecta-participation.md) — reports the opposite
 - [Face-to-face components are used mainly for orientation while monitoring of learning progress is carried out online](f2f-orientation-online-monitoring-division.md) — related
+- [Students value the UOC online model's flexibility for combining study with professional and personal life](flexibility-combine-study-work-life.md) — related

@@ -50,3 +50,4 @@ Secondary analysis of the June 2023 ZN.UA national survey (n=2018, stratified ra
 - [The AI education session was associated with a drop in attendees reporting they did not know enough to say about AI, from 23% to 0%](dont-know-responses-dropped-to-zero.md) — related
 - [ChatGPT is the most widely used AI tool among Ukrainian education managers (69.4% adoption)](chatgpt-dominant-tool-usage-education-managers.md) — related
 - [Ukrainian educators show high AI adoption (84%) but only 11% can identify specialized AI services beyond ChatGPT](educators-high-ai-adoption-low-specialized-awareness.md) — related
+- [More than 90% of students report knowing about or having used an AI chatbot, a substantial increase in exposure compared to the prior year](ai-chatbot-exposure-over-90-percent-second-year.md) — related

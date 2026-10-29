@@ -1,0 +1,54 @@
+---
+type: claim
+title: Network-based writing feedback does not improve quantity or structural quality of integration
+description: Network-based writing feedback does not improve quantity or structural quality of integration
+id: network-feedback-no-effect-quantity-structure
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-28
+evidence_strength: moderate
+newest_evidence: 2025
+sources:
+  - id: ziqian-wei-2025
+    resource: "https://doi.org/10.1007/s11423-025-10508-8"
+    title: "Ziqian Wei, Shuting Yin, Roy B. Clariana, Xuqian Chen. (2025). The influence of pre-reading purpose and extra-textual networks with summary writing on multiple document concept network integration: a replication of Wei et al. (2024). Education Tech Research Dev. https://doi.org/10.1007/s11423-025-10508-8"
+    author: Ziqian Wei, Shuting Yin, Roy B. Clariana, Xuqian Chen
+    q: 3
+    i: "?"
+    kind: causal
+    rigour: 2
+---
+
+# Network-based writing feedback does not improve quantity or structural quality of integration
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+
+## Subclaims
+`q3 i?` In Study 2, the main effect of feedback on quantity of integration was non-significant, and no significant effect on GCsim structural quality was found. [→ Ziqian Wei 2025](#ziqian-wei-2025)
+
+## Evidence
+
+### Ziqian Wei 2025
+
+Ziqian Wei, Shuting Yin, Roy B. Clariana, Xuqian Chen. (2025). The influence of pre-reading purpose and extra-textual networks with summary writing on multiple document concept network integration: a replication of Wei et al. (2024). Education Tech Research Dev. https://doi.org/10.1007/s11423-025-10508-8
+
+`q3 · i?` · `causal · r2`
+
+Study 2 (N=90) used a 2×2×3 mixed design with network-based feedback after writing. The main effect of feedback on the proportion of integrative links did not reach significance.
+
+> "However, neither the main effect of feedback (F (1,86) = 3.22, p =.076, η 2 =.029) (did not support H1 d) nor the main effect of writing stages was found"
+
+## Discussion
+
+
+## Learner Variables
+- [Writing Skills](../learner-variables/writing-skills.md) — outcome: instruction changes it
+
+## Related Claims
+- [Pre-reading expert referent networks and post-reading network-based writing feedback do not improve semantic quality of integration](expert-networks-do-not-improve-semantic-quality.md) — related
+- [Integrative reading prompts improve the quantity of multiple document integration compared to detailed prompts](integrative-prompts-improve-quantity-of-integration.md) — related
+- [The effect of network type on delayed structural quality reverses depending on timing of presentation](network-timing-reversal-delayed-structural-quality.md) — related
+- [Structural quality of integration (GCsim) increases substantially at delayed writing three days later](structural-quality-increases-delayed-writing.md) — related

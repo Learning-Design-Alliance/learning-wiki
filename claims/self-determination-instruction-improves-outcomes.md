@@ -122,3 +122,4 @@ Earlier Related Claims:
 - Baseline data from a multistate longitudinal self-determination intervention project were analyzed with structural equation modeling — related
 - [Individualized advocacy support and engagement curricula each have direct tests from multiple studies, giving stronger evidence than the other recommendations](advocacy-and-engagement-direct-test-evidence.md) — related
 - [Self-determination theory grew incrementally by adding mini-theories as evidence accumulated](sdt-grew-brick-by-brick.md) — related
+- [Self-regulation and self-directed learning strategies need to be taught and practiced over time](self-regulation-strategies-taught-over-time.md) — related

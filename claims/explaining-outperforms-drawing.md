@@ -67,3 +67,4 @@ The review reports that in Xie et al. (2024) Experiment 2, explaining led to sig
 - [Prompting learners to self-explain, one generative strategy, improves learning by a moderate average amount; other generative activities are not tested by the evidence recorded here](generative-processing-improves-learning.md) — a broader claim this one bears on
 - [Visualizing support—provided diagrams or learner-generated drawings—facilitates higher-quality explanations and better comprehension than explaining text alone](visualizing-support-facilitates-explaining.md) — related
 - [Provided visuals can act as a crutch: explaining with provided visuals yielded higher-quality explanations but no transfer advantage over explaining without them](provided-visuals-crutch-no-transfer-advantage.md) — related
+- [Test items based on diagrams did not produce significantly higher scores than purely verbal items](diagram-items-not-significantly-higher-than-verbal-items.md) — related

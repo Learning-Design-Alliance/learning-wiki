@@ -9,6 +9,7 @@ generated:
   at: 2026-10-18
 evidence_strength: moderate
 newest_evidence: 2021
+source_checked: 2026-10-29
 sources:
   - id: haataja-2021
     resource: "https://doi.org/10.1007/s11409-021-09279-3"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3`
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2021 · checked against its sources 2026-10-29 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Increase in physiological arousal is related to more monitoring interactions with negative valence. [→ Haataja 2021](#haataja-2021)
@@ -69,3 +70,4 @@ GEE model predicting negative valence monitoring duration from physiological mea
 - [Skin conductance is higher during low-interest lecture segments than high-interest segments](low-interest-elevated-skin-conductance.md) — related
 - [In Scenario B, higher group-level physiological arousal is associated with greater task performance satisfaction](group-arousal-higher-task-satisfaction-scenario-b.md) — related
 - [Emotional synchrony frequency differs slightly across regulatory activities but the metric does not discriminate SSRL, cognitive, and task-execution interactions](emotional-synchrony-differs-by-regulatory-activity-limited-discrimination.md) — related
+- [Physiologically activating group states are rare but co-occur with visible emotional expressions more often than deactivating states](simultaneous-physiological-activation-with-emotional-expressions.md) — related

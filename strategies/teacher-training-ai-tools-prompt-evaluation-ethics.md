@@ -65,6 +65,7 @@ For policymakers incorporating AI tools such as ChatGPT into the English languag
 - [Emergent pedagogy with explicit instruction on ethical and responsible chatbot use](emergent-pedagogy-explicit-ethical-chatbot-use.md)
 - [Teach genAI operations, prompt engineering, failure modes, and supervised overreliance before graded genAI-assisted writing](genai-writing-instruction-before-use-strategy.md)
 - [Develop research programs across four areas of K-12 AI education: Learning & Teaching, Integration into STEM/Language Arts/Social Science, Professional Development, and Assessment](four-areas-k12-ai-education-research.md)
+- [Train instructional designers in prompt engineering, articulating prompt objectives, context, and example outputs to improve GenAI-assisted design](prompt-engineering-training-for-instructional-designers.md)
 
 ## Examples
 -

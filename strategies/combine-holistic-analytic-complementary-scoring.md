@@ -49,6 +49,7 @@ The article relays a recommendation, attributed by its authors to prior work, th
 - [Combine inter-learner rankings with intra-learner diagnostics in assessment and feedback](combine-inter-learner-and-intra-learner-diagnostics.md)
 - [Pair convenient platform analytics with transparent, education-specific evaluation criteria rather than trusting either alone](pair-platform-analytics-with-transparent-criteria.md)
 - [Match the refinement coordination strategy to the quality criterion: decentralized refinement for localized criteria, centralized planning for holistic ones](match-refinement-strategy-to-quality-criterion.md)
+- [Include students as active evaluators in the design and validation of learning analytics tools](include-students-as-active-evaluators-of-analytics-validity.md)
 
 ## Examples
 -

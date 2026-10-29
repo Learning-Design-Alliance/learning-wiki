@@ -65,6 +65,7 @@ The station works because it externalizes a regulation routine that young learne
 - [Positive Time-Out](positive-time-out.md) — the broader Positive Discipline concept the station operationalizes
 - [Check-In Check-Out](check-incheck-out.md) — a more structured Tier 2 behavior support for students whose needs exceed what the station alone provides
 - [Implement programs to improve students' classroom behavior and social skills](behavior-social-skills-programs-strategy.md)
+- [Develop and test interventions and teacher reflective practices to harness emotions as malleable factors in K-12 settings](interventions-reflective-practices-harness-teacher-emotions.md)
 
 ## Related Elements
 - [Coaching](../elements/coaching.md) — adult prompting and fading during early station use

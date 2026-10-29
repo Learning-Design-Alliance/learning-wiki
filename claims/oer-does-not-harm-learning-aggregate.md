@@ -55,3 +55,7 @@ The synthesis's aggregate finding across all 25 efficacy studies published throu
 - [In studies comparing ratings from separate groups of OER users and CT users, results were mixed: two studies favored CT, two favored OER, and one showed similar ratings.](oer-separate-group-ratings-mixed.md) — related
 - [Open textbooks appear to offer financial benefits to students without decreasing learning outcomes in higher education](open-textbooks-financial-benefits-without-learning-decrease.md) — a narrower finding that bears on this claim
 - [Synthesized studies of OER in college courses found academic outcomes comparable to traditional textbooks and positive perceptions among students and instructors](oer-outcomes-comparable-perceptions-positive.md) — related
+- [OER efficacy studies are frequently confounded by simultaneous changes in pedagogy or delivery method.](oer-adoption-confounded-with-pedagogy-change.md) — related
+- [Substituting OER for traditional textbooks does not appear to decrease student learning outcomes in higher education.](oer-no-decrease-student-learning.md) — a narrower finding that bears on this claim
+- [Students using OER save significant amounts of money compared to purchasing commercial textbooks.](oer-significant-cost-savings-students.md) — a narrower finding that bears on this claim
+- [Students and faculty are generally positive regarding OER across a variety of settings.](students-faculty-generally-positive-oer.md) — related

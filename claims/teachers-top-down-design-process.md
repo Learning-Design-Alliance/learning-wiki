@@ -47,3 +47,5 @@ The response summarizes Bennett et al.'s interview study of 30 teachers from 16 
 ## Related Claims
 - [Key officials describe a shift from a punitive top-down accountability approach to a collaborative, improvement-focused model that fostered trust and communication](ri-charter-shift-punitive-to-collaborative-culture.md) — related
 - [Two-way, genuine district-teacher communication is associated with more effective TPE implementation](two-way-communication-supports-tpe-implementation.md) — related
+- [University teachers' design work is generally focused in one of two ways: student-centred or teacher-centred](teacher-design-work-student-or-teacher-centred.md) — related
+- [Bennett et al.'s qualitative study found university instructors' design process is top-down, breadth-first, iterative, responsive, and reflective](university-instructor-design-process-characteristics.md) — a broader claim this one bears on

@@ -50,6 +50,7 @@ The article offers research-driven guidelines in which specific learning environ
 - Intentional Srl Support Design In Pbl
 - [Racial Equity in PBL - Create Beautiful Spaces](racial_equity_in_pbl_-_create_beautiful_spaces.md)
 - [Use the special issue's design-process questions to shape new SRL scaffolds](srl-scaffold-design-process-questions.md)
+- [Phase-specific research-committee activities: setting requirements, monitoring fulfillment and standardization, and conveying a common knowledge base](research-committee-phase-strategies.md)
 
 ## Examples
 -

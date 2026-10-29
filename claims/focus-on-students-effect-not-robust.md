@@ -48,3 +48,4 @@ In the pre-post study, the ANOVA for focus on students was significant, F(2,406)
 - [Studying double-content examples before video-based analyses hindered student teachers' noticing and reasoning compared to studying without them](double-content-examples-hindered-noticing-reasoning.md) — related
 - [Complete and faded double-content examples did not differentially affect student teachers' professional vision](fading-no-differential-effect-pvcm.md) — related
 - [Chatbot preference groups differed in total EBAPS and Axis 4/5 scores at the nominal level, with small effect sizes, but not after Bonferroni adjustment](chatbot-preference-ebaps-omnibus-kw-results.md) — related
+- [Teaching resources used within the flipped classroom years do not affect average grades, except for the year with reduced technology access](flipped-resources-no-effect-except-technology-classroom-year.md) — related

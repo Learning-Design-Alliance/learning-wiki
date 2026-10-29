@@ -49,3 +49,4 @@ The omnibus MANOVA on 92 participants found a significant multivariate main effe
 - [Integration prompts do not affect semantic similarity of pre-service teachers' mental models to a reference model](integration-prompts-no-effect-semantic-similarity.md) — related
 - [No significant interaction between writing task and prompts on integration measures](no-interaction-writing-task-prompts.md) — related
 - [Integration prompts improve structural integration of knowledge across professional domains in pre-service teachers' mental models](integration-prompts-improve-structural-integration-teacher-knowledge.md) — related
+- [Pre-reading expert referent networks and post-reading network-based writing feedback do not improve semantic quality of integration](expert-networks-do-not-improve-semantic-quality.md) — related

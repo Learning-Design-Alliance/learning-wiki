@@ -46,3 +46,4 @@ A memorial notice recounts that a cadre of educators demonstrated during World W
 
 ## Related Claims
 - [Wartime success with visual materials promoted their adoption in colleges and public education](wartime-success-promoted-visual-materials-adoption.md) — a broader claim this one bears on
+- [Practice between or during film demonstrations did not aid perceptual-motor learning](practice-during-film-demonstrations-no-aid.md) — related

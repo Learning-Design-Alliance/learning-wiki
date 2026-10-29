@@ -59,9 +59,11 @@ The strategy works because oral comprehension outpaces reading comprehension in 
 6. Close with a synthesis turn or quick written response to consolidate the discussion.
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — a pre-reading move that gives every student something to contribute at the first stop
 - [Active Listening](active-listening.md) — the peer-side norm that makes "accountable to the community" talk possible
 - [Think-Aloud Modeling](think-aloud-modeling.md) — the teacher-side complement: modeling comprehension moves between student talk episodes
+- [Enhance DFA in-depth informativity by eliciting oral student talk via speech-to-text and dialogic follow-up questions generated with large language models](speech-to-text-llm-dialogic-followup-dfa.md)
 
 ## Examples
 - **Accountable Talk® framework** (Institute for Learning, University of Pittsburgh) — the source framework, with published talk-toolkits and professional development used district-wide: [https://ifl.pitt.edu](https://ifl.pitt.edu)

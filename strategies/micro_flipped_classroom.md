@@ -62,6 +62,7 @@ The micro flipped approach combines first exposure outside class with active lea
 - [Flipped Classroom](../principles/flipped-learning.md) — the parent pattern; the micro variant differs mainly in granularity of pre-class content and tighter accountability loops
 - [Blended Learning](../patterns/blended-learning.md) — the broader family of designs that mix online first exposure with face-to-face interaction
 - [Assign guided or scaffolded note-taking to be completed while watching lecture videos to keep video viewing active rather than passive](guided-note-taking-while-watching-videos.md)
+- [Keep online lecture videos under twenty minutes and segment by topic with speed control](online-lecture-under-twenty-minutes.md)
 
 ## Examples
 - **[Khan Academy](https://www.khanacademy.org)** — short single-concept videos with embedded practice; a ready-made micro-content library teachers assign before class.

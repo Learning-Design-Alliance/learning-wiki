@@ -74,3 +74,4 @@ Preregistered 2 × 2 mixed ANOVA (random 25% vs. random 75% groups) on final acc
 - [Overt retrieval also outperforms covert retrieval for key terms, but with a smaller advantage than for definitions](overt-beats-covert-retrieval-key-terms-smaller.md) — reports the opposite
 - [Overt student behavior is an unreliable proxy for covert cognitive engagement and instructional effectiveness](overt-behavior-unreliable-proxy-engagement.md) — related
 - [High representational fidelity of neural context reinstatement during covert retrieval predicted better verbal recall at both short and one-week delays](fmi-reinstatement-fidelity-predicts-recall.md) — related
+- [No significant difference in learning between overt (observable) and covert (mental) practice during film participation](overt-covert-practice-no-difference.md) — related

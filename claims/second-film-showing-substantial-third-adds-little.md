@@ -48,3 +48,5 @@ Analysis of learning gains by number of showings in McTavish's four-group experi
 - [Every group of college freshmen learned significantly from each educational film as measured by pre-test to post-test gains](every-group-learned-significantly-from-each-film.md) — related
 - [A fourth showing of an educational film produced an even smaller increment, or in two cases a slight decrement, over three showings](fourth-film-showing-smaller-increment-or-decrement.md) — related
 - [The more often learners meet a word while reading, the more likely they are to learn it incidentally; a meta-analysis of correlational studies finds a moderate correlation](exposure-frequency-predicts-incidental-gains.md) — related
+- [Supplementary examples in an instructional film significantly improve learning, with diminishing returns as example number increases](supplementary-examples-diminishing-returns.md) — related
+- [Announcing an upcoming test did not significantly change learning from the participation film](test-announcement-no-learning-effect.md) — related

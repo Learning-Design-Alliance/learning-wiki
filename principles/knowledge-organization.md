@@ -19,7 +19,7 @@ sources:
 # Knowledge Organization
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 29 claims (17 for, 12 mixed) · 32 studies (10 causal, 8 review, 6 quant-synthesis, 3 theoretical, 2 associational, 2 design, 1 qualitative), `q1`–`q4` · 5 of 32 report an effect size · 24 claims rest on one study
+> **Evidence** · 31 claims (18 for, 13 mixed) · 33 studies (10 causal, 8 review, 6 quant-synthesis, 3 associational, 3 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 6 of 33 report an effect size · 26 claims rest on one study
 
 ## Conditional relationship
 
@@ -151,6 +151,8 @@ Assisted sorting, unaided rebuilding, integrative-task performance, detail recal
 - [Technology type, collaboration level, and intervention duration show no significant differences in concept-mapping effects](../claims/concept-map-effects-null-technology-collaboration-duration.md) [~W]
 - [Concept-mapping effect sizes vary by science subject (physics/earth science g = 1.040, biology g = 0.671, chemistry g = 0.590) but not significantly](../claims/concept-map-effects-vary-by-science-subject.md) [+W]
 - [Better diagrammatic reasoners sort external representations into fewer, more cohesive and more accurately named categories than poorer diagrammatic reasoners](../claims/card-sort-diagrammatic-reasoning-differences.md) [~W]
+- [In classroom-learned history content, sorting-task network overlap with an expert network correlates significantly with both lesson test and unit test scores one month later](../claims/sorting-overlap-correlates-classroom-test-scores.md) [+W]
+- [Sorting tasks elicited networks with more expert overlap than essay writing, suggesting sorting better captures nascent conceptual structures](../claims/sorting-elicits-more-overlap-than-essays.md) [~W]
 
 ## Related Principles
 - [Cognitive Load Management](cognitive-load-management.md) — knowledge organization is often one concrete route to load reduction

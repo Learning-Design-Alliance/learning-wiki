@@ -53,3 +53,4 @@ Correlational analysis of post-test scores among the 64 participants. The study 
 - [Dissociation between scaffolding quality and retrospective reasoning: experienced teachers scaffold better but reason less advanced about student thinking](pouta-scaffolding-reasoning-dissociation.md) — related
 - [Teachers oriented towards students and changing students' conceptions are associated with students reporting deeper approaches to learning](teacher-orientation-deep-approaches.md) — related
 - [Systemic barriers—rigid curricula, limited teacher training, and innate-creativity misconceptions—marginalize creativity in mainstream education](systemic-barriers-marginalize-creativity.md) — related
+- [School reform toward making-centered curricula requires substantial adaptation of educators' skills and beliefs](maker-reform-requires-educator-adaptation.md) — related

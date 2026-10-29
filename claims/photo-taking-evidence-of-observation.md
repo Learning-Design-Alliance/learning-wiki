@@ -51,3 +51,4 @@ Case-study observation across the 17 families' video data: per the article, "All
 - [Sensory immersion prompted by the MAR app supported families' geoscientific talk and observation of rock features during place-based LOTM.](sensory-immersion-prompted-geoscientific-observation.md) — related
 - [Multivoiced boundary crossing supports holistic nature connection and ethical reflection](multivoiced-boundary-crossing-supports-holistic-nature-connection-and-ethical-reflection.md) — related
 - [All families in the dataset successfully used the GPS wayfinding map for actional immersion, including a 5-year-old who took over wayfinding while his mother cared for a younger sibling.](gps-wayfinding-actional-immersion-accessible.md) — related
+- [Anchoring activities in familiar contexts, such as photos of the children's own school, immediately engaged every child](familiar-contexts-boost-engagement.md) — related

@@ -48,3 +48,4 @@ Qualitative theme 3. Kim tweaked sample code so the robot turned left when the u
 - [High school students in a project-based robotics + AI curriculum developed robotics understanding by troubleshooting hardware and operational factors of physical robots](hardware-troubleshooting-builds-robotics-understanding.md) — related
 - [Students developed AI understanding by reasoning about how physical setup and environmental conditions affect sensor perception and machine learning data quality](physical-setup-reasoning-builds-ai-understanding.md) — related
 - [Parents reported large increases in children's robot programming knowledge and access to programming resources during the ARC trial](arc-trial-parent-reported-student-gains.md) — related
+- [Flexible design with a human wizard anticipated kindergarteners' developing communication styles in robot-mediated interaction](flexible-design-anticipating-children-communication-styles.md) — related

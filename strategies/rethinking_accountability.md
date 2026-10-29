@@ -66,6 +66,7 @@ Fair assessment requires that grades reflect achievement of learning goals rathe
 - [Give learners control over how learning is measured via assessment choices and science-fair-type projects](learner-controlled-assessment-science-fair-projects.md)
 - [Develop flexible, alternative accountability frameworks tailored to schools' missions rather than relying on uniform measures such as the SAT](mission-tailored-alternative-accountability-frameworks.md)
 - [Support the shift from standardized testing toward diverse assessment strategies—performance-based assessments, portfolios, and experiential learning—with teacher training, resource allocation, and accountability flexibility](diverse-pog-assessment-strategies-with-teacher-support.md)
+- [Design assignments with flexible deadlines during ERT to accommodate learners' increased obligations in crisis times](flexible-deadlines-ert-assignments.md)
 
 ## Related Elements
 - [Assessment](../elements/assessment.md) — the structure being rethought; alternative formats live here

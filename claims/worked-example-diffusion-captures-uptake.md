@@ -56,3 +56,4 @@ A single fictional network scenario with printed centrality values (Table 1): no
 - Co-citation analysis identified eight seminal CSCL works with little overlap with an earlier corpus study, possibly over-generalizing to a European sub-network — related
 - [Citation network analysis shows limited integration: very low density and 38.90% isolated nodes among same-prompt-type studies](citation-network-low-density-isolated-nodes.md) — related
 - [A citation analysis of 276 articles citing the DEGREE 2000 paper identifies six groups of aspects the community referred to, sampled from 53 articles](citation-analysis-276-articles-six-groups-degree.md) — related
+- [Focal node analysis showed advanced learners' central concepts converged with experts' after the game, while novices' remained divergent](focal-nodes-convergence-advanced-learners.md) — related

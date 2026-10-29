@@ -51,3 +51,4 @@ Descriptive result from Question 9 on how educators should create assessments to
 - [African and Asian students did not differ significantly in their answers about ChatGPT](no-background-difference-in-chatgpt-opinions.md)
 - [A majority of surveyed MSc computer science students had never used ChatGPT for academic purposes](msc-cs-students-rarely-use-chatgpt-academically.md) — related
 - [Students regard reduced critical thinking and originality as the biggest threat of ChatGPT use in academia](students-see-reduced-critical-thinking-as-biggest-chatgpt-threat.md) — related
+- [Students strongly oppose allowing AI chatbots to complete entire assignments, with 82.73% saying it should never be allowed, while supporting AI for concept explanation and brainstorming](students-oppose-ai-complete-entire-assignments.md) — related

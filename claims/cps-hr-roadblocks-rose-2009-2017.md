@@ -54,3 +54,4 @@ Descriptive comparison of 2017 survey responses against 2009 responses on staffi
 - [Principals most commonly cited time for teacher planning, difficulty removing poor teachers, community social problems, apathetic parents, test-score pressure, and problem students as roadblocks](principals-roadblocks-to-school-improvement.md) — related
 - [REACH evaluation ratings rose over time, with nearly 9 in 10 teachers receiving one of the top two ratings by 2016-17](reach-ratings-increased-over-time.md) — related
 - [The same four roadblocks to school improvement topped principals' rankings across ten years of surveys, with subgroup contrasts in emphasis](cps-roadblocks-stable-top-four.md) — related
+- [School librarians rated Budget and Resources significantly lower than teachers (p = .019)](librarians-rate-budget-and-resources-lower-than-teachers.md) — related

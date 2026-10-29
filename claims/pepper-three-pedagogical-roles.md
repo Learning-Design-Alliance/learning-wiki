@@ -56,3 +56,5 @@ Thematic categorical analysis of the 13 included studies, reported in the review
 - [Pedagogical agents as coaches and tutors are most useful with novice learners, while virtual role-players benefit learners across expertise levels](agents-most-effective-novice-learners.md) — related
 - [Adult learners view AI as a collaborative learning agent for solving complex problems, sharing knowledge, and honing higher-order thinking](ai-as-collaborative-learning-agent.md) — related
 - [Robot-assisted language learning is a rapidly developing field with increasing implementation of robots as language tutors](rall-field-rapid-development.md) — related
+- [Edutainment, entertainment, programming instruction, and psychological support are the most prevalent functions of educational social robots](prevalent-functions-edutainment-entertainment-programming-psychological-support.md) — related
+- [In special education, robots most often act as teachers delivering lessons, with psychological support the most relevant function](special-education-robots-as-teachers-psychological-support.md) — related

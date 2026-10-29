@@ -56,3 +56,4 @@ Observational recess data collected alongside accelerometer measurement in the 2
 - [British children spend more daily time on videogames while Turkish children spend more on traditional games](cross-cultural-game-time-differences-children.md) — related
 - [Pokémon Go increases physical activity for otherwise sedentary players, but gains do not persist after play ends and do not exceed active non-players](pokemon-go-activity-sedentary-nonpersistent.md) — related
 - [No significant accelerometer-based differences in physical activity were found for boys in Playworks schools compared with control schools](playworks-no-boys-accelerometer-effect.md) — related
+- [First-graders using Kid Space showed physical activity during play-based learning, in an exploratory case study without a comparison](kid-space-more-physical-activity.md) — related

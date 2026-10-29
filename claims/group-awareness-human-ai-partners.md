@@ -56,3 +56,5 @@ Theoretical argument extending group awareness research to human-AI collaboratio
 - [Evidence exists for AI agents as collaborative partners, but more work is needed on how computing agents can best support learning of AI itself](ai-partners-evidence-but-more-work-needed.md) — related
 - [Argumentative dialogs between humans and generative AI can support knowledge transformation when prompted appropriately](human-ai-argumentative-dialog-knowledge-transformation.md) — related
 - [Awareness prompts stimulated discourse about more concepts but did not improve shared drawing quality in elementary dyads](awareness-prompts-discourse-not-drawing-quality.md) — related
+- [GenAI can act as an active participant in professional learning communities, transforming teacher knowledge construction](genai-active-participant-professional-learning-communities.md) — related
+- [GenAI can most effectively support knowledge building in the Collaboration Zone as a dialogic 'sparring partner'](genai-collaboration-zone-sparring-partner.md) — related

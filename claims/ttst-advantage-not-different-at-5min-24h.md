@@ -65,3 +65,4 @@ Omnibus interaction test from the ANOVAs in Experiments 1 and 2, in which cued r
 - [Retention declines with interval (time-dependent forgetting) across images, details, and details-per-image measures](time-dependent-forgetting-across-intervals.md) — related
 - [Vocabulary retention declines from immediate to 24-hour-delayed no-feedback testing, and goal-directed associations are more semantically distant but slower to produce than free associations](retention-declines-and-goal-directed-costs-more-effort.md) — related
 - [Losses after long breaks in naturalistic practice are rapidly offset by very little practice: a single gameplay can restore prior performance levels even after delays of hundreds of days](rapid-relearning-single-gameplay.md) — related
+- [Repeating a single demonstration produces more learning than an equivalent number of different demonstrations](single-demonstration-repetition-film-learning.md) — related

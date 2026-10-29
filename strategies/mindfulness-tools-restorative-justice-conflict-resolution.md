@@ -43,6 +43,7 @@ For elementary and secondary students, the brief recommends mindfulness practice
 
 - [Use mindful listening turn-taking to build communication and constructive feedback between students](mindful-listening-turn-taking-strategy.md)
 - [Use targeted mindfulness supports for at-risk students with trauma-informed adaptation and participation choice](targeted-trauma-informed-mindfulness-supports.md)
+- [Measure and respond to student emotions continuously in digital platforms and promote mindfulness and emotional awareness](continuous-emotion-measurement-mindfulness-digital-platforms.md)
 
 ## Examples
 -

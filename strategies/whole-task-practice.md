@@ -63,6 +63,8 @@ Whole task practice supports schema construction by letting learners experience 
 - [Worked Examples](worked-examples-first.md) — a low-load way to expose learners to whole tasks before independent performance
 - [Case-Based Learning](case-based-learning.md) — whole-task practice applied to ill-structured, case-anchored domains
 - [Manage intrinsic load with a part-whole approach, task variability, and self-explanation to raise germane load](part-whole-variability-self-explanation-raise-germane-load.md)
+- [Expose learners to real-world problems embedded in complex systems with multiple interactive components](expose-learners-to-complex-system-problems.md)
+- [Provide necessary learning resources and simplify non-critical aspects of complex practice](simplify-non-critical-aspects-of-complex-practice.md)
 
 ## Examples
 - **4C/ID implementations in medical education** — students perform simplified but complete patient consultations from early training, with complexity increasing across task classes (see [Open Universiteit 4C/ID resources](https://www.4cid.org)).

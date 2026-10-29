@@ -43,7 +43,8 @@ The editorial's forward-looking agenda calls for research on affect/emotion as s
 - [Racialized emotions are a race-focused construct educational psychologists have yet to explicate in teaching and learning](../claims/racialized-emotions-unexplored-construct.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Use robust causal research designs (What Works Clearinghouse guidelines) for future emotion and digital learning studies](wwc-guidelines-emotion-digital-learning-research.md)
 
 ## Examples
 -

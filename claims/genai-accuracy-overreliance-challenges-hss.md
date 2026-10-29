@@ -78,3 +78,4 @@ Ethics and privacy results (Figure 7): 87.97% rated ethical issues important or 
 - [Faculty concerns centered on academic integrity (80%) and student over-reliance on AI (70%), and their most requested development topic was AI ethics and academic integrity (70%)](faculty-ai-concerns-integrity-ethics-training-demand.md) — related
 - [Distillation increases misclassification of ambiguous To Some Extent tutor responses as Yes](distillation-increases-ambiguous-yes-bias.md) — related
 - [Students' concerns about GenAI do not differ significantly from neutral, with over-reliance the top-rated concern](genai-concerns-neutral-overreliance-top.md) — related
+- [Instructional designers' main challenges with ChatGPT are output quality (53.8%), tool limitations (42.3%), and faculty unpreparedness (3.8%)](id-chatgpt-challenges-output-quality-tool-limits.md) — related

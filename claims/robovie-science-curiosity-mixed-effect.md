@@ -49,3 +49,4 @@ The paper reports, citing Shiomi et al. (2015), a study placing the Robovie soci
 - [Children encouraged to ask questions increase the number of relevant questions they ask over the course of training, but non-linearly](question-asking-increases-over-training-sessions.md) — related
 - [Question-asking practice does not increase prompted question generation on a novel-animal task, nor the content categories of those questions](no-transfer-to-prompted-question-generation.md) — related
 - [Curiosity-modulated tutoring produces roughly 2.4× more conversational turns than baseline under fixed time budgets](curiosity-modulation-increases-conversational-turns.md) — related
+- [Flexible design with a human wizard anticipated kindergarteners' developing communication styles in robot-mediated interaction](flexible-design-anticipating-children-communication-styles.md) — related

@@ -331,3 +331,4 @@ Open questions that evidence entries should address include: which strategy fami
 - [Personalized learning systems that assume high student self-regulation can overburden students, so low performers learn less despite receiving skill-appropriate content](self-regulatory-burden-harms-low-performers.md) — related
 - [Factor 2 student teachers enacted balanced, intentional and ethical engagement with Cipherbot through self-directed strategies](f2-balanced-intentional-ethical-engagement.md) — related
 - [Computer-based metacognitive scaffolding shows limited evidence of long-term retention or transfer of the scaffolded skills](limited-evidence-long-term-metacognitive-retention.md) — related
+- [Self-regulation and self-directed learning strategies need to be taught and practiced over time](self-regulation-strategies-taught-over-time.md) — related

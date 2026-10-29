@@ -95,3 +95,4 @@ Planned comparison within the blocked condition of the same experiment showed sp
 - [The discriminative-contrast hypothesis treats spacing and interleaving as distinct effects, with interleaving benefits more likely for similar than dissimilar interleaved tasks](discriminative-contrast-distinct-effects.md) — related
 - [Interleaving is more effective for materials with a low degree of discriminability](interleaving-effectiveness-low-discriminability.md) — related
 - [In an experimenter-controlled task, interleaved practice yields better classification performance than blocked practice (d = 1.05)](experimenter-controlled-interleaving-beats-blocked.md) — related
+- [Differing presentations varying verbalization from low to high may be somewhat superior to repeating the same presentation](differing-presentations-low-to-high-verbalization.md) — related

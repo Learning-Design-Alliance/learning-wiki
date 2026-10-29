@@ -28,7 +28,7 @@ sources:
 # Competency-Based Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 37 claims (8 for, 27 mixed, 2 against) · 37 studies (9 theoretical, 8 causal, 7 design, 6 associational, 4 review, 2 qualitative, 1 quant-synthesis), `q1`–`q4` · 2 of 37 report an effect size · 32 claims rest on one study
+> **Evidence** · 38 claims (8 for, 28 mixed, 2 against) · 38 studies (9 theoretical, 8 causal, 8 design, 6 associational, 4 review, 2 qualitative, 1 quant-synthesis), `q1`–`q4` · 2 of 38 report an effect size · 33 claims rest on one study
 
 ## Conditional relationship
 
@@ -142,6 +142,7 @@ A score on a rubric, agreement between assessors, a threshold's defensibility, l
 - [Graduate attributes ('wicked competences') may not be amenable to conventional assessment because they are context-dependent, partly specifiable and developed over years](../claims/wicked-competences-resist-conventional-assessment.md) [-W]
 - [The test's exercises were validated by six expert judges who reached practical agreement after modification](../claims/six-judge-validity-agreement-test-exercises.md) [~W]
 - [Digital-competency disparities may confound computerized PISA-VET assessments of vocational competence](../claims/pisa-vet-digital-competency-confound.md) [~W]
+- [The 4-category rating scale of the POET-O functions properly overall but its threshold structure could be improved](../claims/poet-o-rating-scale-functions-with-disordered-thresholds.md) [~W]
 
 ## Related Principles
 - [Mastery Learning](mastery-learning.md) — the progression rule that learners advance on demonstrated mastery rather than schedule

@@ -74,3 +74,5 @@ LLM-classified ChatGPT conversation logs from treated students, complemented by 
 - [A general-purpose LLM used as a tutor without pedagogical prompting overwhelmingly provides high assistance, with more than 95% of responses classified as Explaining or Solving](default-llm-tutoring-high-assistance-concentration.md) — related
 - Students in an OOP course report using GenAI significantly more often for explanation seeking and debugging than for code generation — related
 - [By the final survey wave, using LLMs for debugging and understanding concepts was nearly universal among surveyed students](debugging-and-concept-llm-use-nearly-universal-by-term-end.md) — related
+- [The most common reported AI chatbot use for school tasks is explaining concepts (81.63%), followed by idea generation (68.65%) and text summarization (59.21%)](ai-chatbot-school-task-use-concept-explanation-most-common.md) — related
+- [Students strongly oppose allowing AI chatbots to complete entire assignments, with 82.73% saying it should never be allowed, while supporting AI for concept explanation and brainstorming](students-oppose-ai-complete-entire-assignments.md) — related

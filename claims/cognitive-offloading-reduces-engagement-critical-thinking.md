@@ -81,3 +81,4 @@ The article reports, citing Stadler et al. (2024), a comparison of university st
 - [Germane cognitive load fully mediates the effect of information-search tool on justification quality (exploratory analysis)](germane-load-mediates-tool-effect-on-justification-quality.md) — related
 - [LLM-supported socio-scientific inquiry lowered cognitive load but produced lower-quality reasoning and argumentation than conventional search](llm-inquiry-lower-load-lower-reasoning.md) — a narrower finding that bears on this claim
 - [Dialogic learning produces a more positive effect on value-loaded critical-thinking competences than non-dialogic learning in pre-vocational secondary Biology](dialogic-learning-improves-value-loaded-critical-thinking.md) — reports the opposite
+- [GenAI cognitive offloading of lower-order tasks frees cognitive resources but risks reduced human evaluation skills](genai-cognitive-offloading-benefits-and-risks.md) — related

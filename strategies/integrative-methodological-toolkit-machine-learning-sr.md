@@ -47,6 +47,7 @@ The article recommends that research on SR in education move beyond single-tradi
 - [Build research programs combining studies optimized for internal validity with studies optimized for ecological validity](research-programs-mixing-internal-and-ecological-validity.md)
 - [Adopt integrative, longitudinal, multimodal deep-phenotyping designs combining self-report, behavioural tasks, ecological momentary assessment, and physiological measures](deep-phenotyping-multimodal-regulation-research.md)
 - [Decompose aggregate models of group learning using fine-grained behavioural observations](decompose-group-learning-models-fine-grained-observations.md)
+- [Use log data from digital assessment to reconstruct solution processes and identify validity threats, disengagement, and technical obstacles](log-data-reconstruct-solution-processes-validity-threats.md)
 
 ## Examples
 -

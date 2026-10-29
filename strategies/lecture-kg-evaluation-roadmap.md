@@ -41,7 +41,8 @@ The article's future-work section lays out an implementable evaluation program: 
 - [Generated answers sometimes added correct background knowledge not explicitly supported by retrieved evidence, an unsupported-answer behavior the authors flag as requiring faithfulness evaluation](../claims/answers-add-unsupported-background-knowledge.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Develop rigorous benchmarks for LLM data extraction tasks in education systematic reviews](develop-benchmarks-llm-data-extraction-education.md)
 
 ## Examples
 -

@@ -47,3 +47,5 @@ This is the response article's own interpretive statement (type e) about the sco
 ## Related Claims
 - [A qualitative study of 30 university teachers reported three design practices that are incremental and iterative](three-incremental-iterative-design-practices-university-teachers.md) — related
 - [Teachers' design work extends before, while, and after a unit is taught](design-work-extends-before-while-after-unit.md) — related
+- [Bennett et al.'s study establishes faculty roles as designers of learning, an essential consideration when institutions seek digital design talent.](faculty-roles-as-designers-essential-for-digital-design-talent.md) — related
+- [Bennett et al.'s qualitative study found university instructors' design process is top-down, breadth-first, iterative, responsive, and reflective](university-instructor-design-process-characteristics.md) — related

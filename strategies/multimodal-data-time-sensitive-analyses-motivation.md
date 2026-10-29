@@ -55,6 +55,7 @@ The review recommends that future research and learning-technology design exploi
 - [Employ multimodal methods to capture the multifaceted feedback process](multimodal-methods-feedback-process.md)
 - [Adopt integrative, longitudinal, multimodal deep-phenotyping designs combining self-report, behavioural tasks, ecological momentary assessment, and physiological measures](deep-phenotyping-multimodal-regulation-research.md)
 - [Integrate increasing and varied information sources, including wearables and ambient intelligence devices, into learner models](integrate-varied-sources-into-learner-models.md)
+- [Use log data from digital assessment to reconstruct solution processes and identify validity threats, disengagement, and technical obstacles](log-data-reconstruct-solution-processes-validity-threats.md)
 
 ## Examples
 -

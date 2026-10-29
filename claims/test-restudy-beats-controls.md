@@ -72,3 +72,4 @@ Experiment 2 mixed-factor ANOVA, F(1,63) = 96.2, p < .001; schedule main effect 
 - [Retrieval practice yields better delayed test performance than restudy (the testing effect) in both experiments](testing-effect-confirmed-anatomical-image-name-pairs.md) — related
 - [Retrieval practice produced a reliable overall testing effect and a main effect of working memory capacity on final-test accuracy](main-effect-testing-effect-wm-capacity.md) — related
 - [Retrieval practice with feedback improves 24-hour cued recall more than restudy, and high semantic relatedness raises overall accuracy, but the Training Task × Relatedness ANOVA interaction is non-significant](testing-effect-robust-relatedness-anova-interaction-null.md) — a narrower finding that bears on this claim
+- [Repeating a single demonstration produces more learning than an equivalent number of different demonstrations](single-demonstration-repetition-film-learning.md) — related

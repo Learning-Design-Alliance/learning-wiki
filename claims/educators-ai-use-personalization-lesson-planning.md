@@ -94,3 +94,4 @@ Interview and listening-session data showed "some level of AI tool use" among ne
 - [Ukrainian educators show high AI adoption (84%) but only 11% can identify specialized AI services beyond ChatGPT](educators-high-ai-adoption-low-specialized-awareness.md) — related
 - [ChatGPT was the most commonly used GenAI tool in reviewed programming education research](chatgpt-most-used-genai-tool-programming-education.md) — related
 - [Teachers used three free AI tools (DeepSeek, Doubao, Meta) mainly for lesson planning, assessment, and teaching material development](three-free-ai-tools-for-planning-assessment-materials.md) — a narrower finding that bears on this claim
+- [Instructional designers mainly use ChatGPT for content creation (57.5%), writing assistance (30%), professional support, communication, and information searching](id-chatgpt-usage-content-creation-dominant.md) — related

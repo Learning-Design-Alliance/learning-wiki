@@ -202,3 +202,4 @@ The key constraint is specificity: telling learners they are "smart" or "good at
 - [AI ethics can serve as a compelling entry point for teacher AI education, increasing teacher confidence and engaged classroom discussions](ai-ethics-entry-point-teacher-training.md) — a narrower finding that bears on this claim
 - [Self-efficacy motivational feedback messages yielded the best learning gains among three theory-based motivational interventions in Experiment 2](self-efficacy-messages-best-learning-gains.md) — a narrower finding that bears on this claim
 - [The intervention improves focus-related mindsets, self-efficacy, and (in Study 1) emotion regulation](focus-coach-mindset-self-efficacy-emotion-regulation-gains.md) — a narrower finding that bears on this claim
+- [ICT-enabled learning may change beliefs and perceptions about girls' capacity and ICT's value](ict-changes-beliefs-perceptions-girls.md) — a narrower finding that bears on this claim

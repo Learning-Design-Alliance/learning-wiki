@@ -54,6 +54,7 @@ The article draws implementation remarks for digital trainings for young childre
 - [Offering Multiple Options for Family Engagement](offering_multiple_options_for_family_engagement.md)
 - [Balancing Screen Time with Physical Activity](balancing_screen_time_with_physical_activity.md)
 - [Parent Workshops](parent-workshops.md)
+- [Blend digital and physical learning experiences to address screen-time concerns in early childhood technology](blend-digital-physical-learning-experiences.md)
 
 ## Examples
 -

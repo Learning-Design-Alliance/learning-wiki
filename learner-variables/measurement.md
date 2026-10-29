@@ -13,7 +13,7 @@ generated:
 # Measurement
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 2 claims (2 show a difference) · 3 studies (3 causal), `q2`–`q3` · 1 of 3 report an effect size · 1 claim rests on one study
+> **Evidence** · 3 claims (3 show a difference) · 4 studies (3 causal, 1 theoretical), `q2`–`q3` · 1 of 4 report an effect size · 2 claims rest on one study
 
 ## Description
 Measurement, as a mathematical skill, is identifying an attribute of something (its length, area, volume or duration) and comparing it with a unit that has the same attribute (an inch, a square centimetre, a minute), so that the attribute gets a number that can be reasoned with and calculated with. The Learner Variability Navigator describes it as the basis of scientific inquiry and a way into other mathematics, including estimation, fractions and [statistical reasoning](statistical-reasoning.md). It is assessed with instruments that separate spatial or conceptual reasoning about length, distance, perimeter, area and volume from the use of formulas.
@@ -38,6 +38,7 @@ LVN follows it from grade 3 to grade 10. It draws on [spatial ability](spatial-a
 <!-- Claims reporting findings about this variable, with evidence tags -->
 - [The program showed no significant overall math difference, though items on visual-spatial vocabulary and nonstandard measurement improved for the treatment condition](../claims/nico-nor-math-null-with-item-gains.md) [+M] — instruction changes it
 - [Exploration-first students show more advanced MVC reasoning on the transfer task than Instruction-first students](../claims/exploration-first-transfer-mvc-reasoning.md) [+M] — instruction changes it
+- [Understanding multiplication as counting in units is a crucial predictor of Grade 7 achievement](../claims/multiplication-counting-units-predicts-grade7-achievement.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Measurement Skills Assessment (MeSA)** (Vasilyeva et al., 2009): Assesses students' reasoning about Measurement concepts (including length, distance, perimeter, area, and volume) and captures spatial/conceptual vs. formula-based Measurement skills.

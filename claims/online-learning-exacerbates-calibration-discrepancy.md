@@ -50,3 +50,4 @@ Theoretical argument in the article's review: "limited external feedback can exa
 - [Fluent Illusions Mislead Self Assessment](fluent-illusions-mislead-self-assessment.md) — related
 - [College students who overestimate their pretest retrospective judgments engage less in preparatory metacognitive strategies before quizzes in computer-based learning environments](overestimation-predicts-less-preparatory-metacognitive-strategy-use.md) — a narrower finding that bears on this claim
 - [Pretest retrospective judgments, rather than actual pretest scores, predict college students' engagement in preparatory metacognitive strategies](judgment-not-actual-score-predicts-strategy-use.md) — related
+- [Traditional self-report methods face significant limitations in capturing the dynamic nature of SRL](self-report-srl-limitations-dynamic-nature.md) — related

@@ -43,6 +43,7 @@ The report recommends that districts deliver summer ed-tech programs as structur
 - [Individual Rotation](individual-rotation.md)
 - [Recruit early in the spring, communicate clearly with parents, keep enrollment open, and require commitment to clear program expectations](early-parent-communication-open-enrollment-summer-edtech.md)
 - [Combine live cohort sessions, self-guided application, peer coaching, and virtual office hours in literacy professional learning](cohort-peer-coaching-office-hours-pd-model.md)
+- [Blend digital and physical learning experiences to address screen-time concerns in early childhood technology](blend-digital-physical-learning-experiences.md)
 
 ## Examples
 -

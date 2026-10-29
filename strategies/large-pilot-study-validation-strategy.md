@@ -42,6 +42,7 @@ Phase 4 of the checklist prescribes a specific implementable activity: conduct a
 - [Conduct a small pilot study to assess early evidence of success before full validation](small-pilot-study-for-early-evidence-of-success.md)
 - [Refine a solution based on lessons learned during implementation](refine-solution-from-implementation-lessons.md)
 - [Pretest the assessment and evaluate fitness for purpose before live administration](fitness-for-purpose-pretest-gate.md)
+- [Phase-specific research-project activities: selecting situations and simulators, iterative design with expert workshops and pilot studies, and standardized study conduct](research-project-phase-strategies.md)
 
 ## Examples
 -

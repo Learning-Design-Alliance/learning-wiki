@@ -147,6 +147,7 @@ Civic attitudes, self-reported self-efficacy, the quality of reflection, content
 - [Incorporate structured reflective exercises on equality, reciprocity, positionality and bias into any (I)CEL exercise for staff and students](../strategies/structured-reflection-equality-reciprocity-icel.md)
 - [SPIRaL (Students Partners for Information Research and Literacy)](../products/spiral-students-partners-for-information-research-and-literacy.md)
 - [Embed real-life problems into national curricula for open schooling](../strategies/embed-real-life-problems-national-curricula.md)
+- [Theory courses should require an application piece such as real-world clients or service-learning to prepare designers for practice](../strategies/theory-course-application-piece.md)
 
 ### Illustrative
 

@@ -50,3 +50,4 @@ Preregistered regression in Study 2 (N = 1,216) of attitude change on separate d
 - [A warning message about potential AI mistakes increases seventh-graders' hint requests in a math intelligent tutoring system](ai-fallibility-warning-increases-help-seeking.md) — related
 - [Test-takers rate LLM-generated feedback as persuasive and useful as human instructor feedback (Wilcoxon signed-rank tests show no significant difference)](llm-feedback-rated-equal-to-human-feedback.md) — related
 - [Knowing an argument was written by an expert mathematician increases reported persuasion for a heuristic argument among both students and researchers](authority-increases-persuasion-heuristic-argument.md) — related
+- [Announcing an upcoming test did not significantly change learning from the participation film](test-announcement-no-learning-effect.md) — related

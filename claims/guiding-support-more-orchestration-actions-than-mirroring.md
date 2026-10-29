@@ -58,3 +58,4 @@ Epistemic network analysis of coded teacher actions across six teachers' classro
 - [The alerting & guiding dashboard reduced teachers' overall workload more than the mirroring dashboard in authentic settings (H2 supported)](alerting-guiding-dashboard-reduces-teacher-workload.md) — related
 - [Mirroring-condition teachers relied more on indicator views while alerting and advising teachers opened more group overviews](mirroring-teachers-rely-on-indicators-not-group-overviews.md) — related
 - [Mirroring systems display basic actions to collaborators](mirroring-systems-display-basic-actions.md) — related
+- [Correctness overviews alone seldom lead to real insights into how to improve learning; dashboards must present teacher-actionable information supporting goal-setting, monitoring, and planning](dashboards-need-actionable-information-beyond-correctness.md) — related

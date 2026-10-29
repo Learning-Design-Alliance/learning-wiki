@@ -68,3 +68,4 @@ Survey correlational analysis reporting that perceived challenge of the switch w
 - [Hispanic and low-income students reported more challenges and technology problems after the shift online than non-Hispanic White and higher-income peers; rural students did not differ](equity-gaps-online-transition-challenges.md) — related
 - [Few New York charter teachers reported technology challenges during the remote transition (66% of schools said under a quarter of teachers did), with attention and engagement the more common difficulties](teacher-remote-challenges-attention-not-technology.md) — reports the opposite
 - [Faculty dispositions and use of technological affordances for online teaching changed over time during the pandemic](faculty-dispositions-change-over-time-pandemic.md) — related
+- [The Covid-19 pandemic increased the design workload of university teachers as they migrated teaching online](pandemic-increased-design-workload-online-migration.md) — related

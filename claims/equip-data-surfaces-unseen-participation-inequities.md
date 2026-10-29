@@ -66,3 +66,4 @@ Interview statement by Haley McNamara, a researcher in the PIRT study, describin
 ## Related Claims
 - [Two gendered classroom cultures coexisted: rule-following vocal girls and disruptive boys receiving disproportionate time and space](two-gendered-classroom-cultures.md) — related
 - [Repeated EQUIP data reports across a semester appeared to change community college instructors' opinions about their instruction](repeated-equip-reports-change-instructor-opinions.md) — related
+- [ICT-enabled learning improves schoolgirls' practice and participation in learning, with girls sometimes scoring better than boys](ict-improves-girls-participation.md) — reports the opposite

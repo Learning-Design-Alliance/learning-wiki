@@ -54,3 +54,4 @@ Correlational analyses (N = 358) of prediction accuracy as bias: positive emotio
 - [Stronger positive emotions are associated with less underconfident postdictions, and anxiety and shame with more underconfident postdictions](emotions-postdiction-accuracy-underconfidence.md) — related
 - [Greater anger, hopelessness, and negative emotions overall during reading are associated with poorer text comprehension, while positive emotions show no relation](negative-achievement-emotions-poorer-text-comprehension.md) — related
 - [Negative normative feedback lowered math performance indirectly via reduced hope](negative-feedback-indirect-lowered-performance-hope.md) — related
+- [Positive emotions are associated with higher academic performance while negative emotions are associated with poorer performance](positive-emotions-associated-with-higher-performance.md) — related

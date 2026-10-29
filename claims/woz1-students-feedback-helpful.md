@@ -49,3 +49,4 @@ Qualitative content analysis of paired student interviews after the three interv
 - [WOZ I wizards judged the four-layer cognitive model appropriate for supporting students during robotics tasks](woz1-wizards-judge-cognitive-model-appropriate.md) — related
 - [WOZ I showed a descriptive pre-to-post improvement in students' programming ability, with no statistical significance calculated](woz1-descriptive-programming-gain-no-significance.md) — related
 - [In the hidden-wizard WOZ II study, students' reactions to the wizard's Slack hints were mostly positive, though some hints were read without discussion](woz2-hidden-wizard-hints-mostly-positive.md) — related
+- [Flexible design with a human wizard anticipated kindergarteners' developing communication styles in robot-mediated interaction](flexible-design-anticipating-children-communication-styles.md) — related

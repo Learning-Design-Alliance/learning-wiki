@@ -47,3 +47,4 @@ Theoretical argument from conceptual-change research, illustrated with taxonomic
 ## Related Claims
 - [Conflict-based instruction improves science conceptual learning, though staged contradictions helped only learners who reported being confused, and no study isolates disequilibrium as the mechanism](cognitive-disequilibrium-motivates-conceptual-change.md) — related
 - [Instruction that confronts science misconceptions (conceptual-conflict interventions, refutation text) produces conceptual change more often than standard exposition](misconceptions-interfere-with-new-learning.md) — related
+- [Theoretical understanding is preceded by an awareness of insufficient knowledge](awareness-of-insufficient-knowledge-precedes-understanding.md) — related

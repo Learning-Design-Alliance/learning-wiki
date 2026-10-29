@@ -92,3 +92,4 @@ Theoretical argument summarising the utility value section, with no data: when A
 - [Teachers experiencing higher average demand across lesson planning, assessment/marking, and special-education adaptation report higher odds of AI adoption](focal-task-demand-associated-teacher-ai-adoption.md) — related
 - [Ghanaian pre-service science teachers hold significantly positive performance expectancy and effort expectancy toward AI](positive-performance-effort-expectancy-ai-pre-service-teachers.md) — related
 - [Chatbot integration in a smart classroom is expected by the authors to increase learner engagement and academic achievement](chatbot-engagement-achievement-expectation.md) — related
+- [Teachers' beliefs show no correlation with their 3D printing integration levels](no-correlation-teacher-beliefs-3d-printing.md) — related

@@ -50,3 +50,4 @@ Laboratory task relating adults' Visualizer–Verbalizer Questionnaire scores to
 - [Cook et al. (2009) found no support for sensing/intuitive style-by-sequence interaction in medical education](cook-medical-education-no-style-interaction.md)
 - [Aptitude-by-treatment interactions for instructional structure show mixed support: crossovers in some studies, nulls in others](ati-structure-ability-interactions-mixed.md)
 - [Learning Styles Matching Does Not Improve Learning](learning-styles-matching-does-not-improve-learning.md) — related
+- [Test items based on diagrams did not produce significantly higher scores than purely verbal items](diagram-items-not-significantly-higher-than-verbal-items.md) — related

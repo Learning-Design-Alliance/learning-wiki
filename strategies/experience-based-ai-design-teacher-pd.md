@@ -45,6 +45,7 @@ The article recommends that teacher training programs prioritise applied learnin
 - [Personalized, subject-specific professional support combining teacher characteristics with school-level collaboration and leadership support](personalized-subject-specific-data-use-support.md)
 - [Use findings on instructor power relations to inform professional development for responding to Generative AI](genai-power-relations-inform-instructor-pd.md)
 - [Structure AI-supported professional development around collaborative reflection rather than technical training alone](collaborative-reflection-ai-tpd.md)
+- [Use short, hands-on, standards-integrated computer vision PD open to teachers of all subject areas rather than limiting it to computer science teachers](broad-hands-on-cv-pd-strategy.md)
 
 ## Examples
 -

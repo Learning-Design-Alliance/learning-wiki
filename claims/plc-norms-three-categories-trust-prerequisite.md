@@ -94,3 +94,4 @@ Cross-study synthesis of norm development. The review states that "productive no
 - [Active participation in a community has a more significant impact on learning than mere membership](active-participation-beats-mere-membership-for-learning.md) — related
 - [The quality of inter-group interactions shifted from brief, superficial exchanges to long, detailed, collaborative discussions as community norms were negotiated](adlab-interaction-quality-shifted-from-superficial-to-collaborative.md) — related
 - [SCMD activity systems exhibit three categories of rules and four types of participant roles](scmd-rules-and-division-of-labor.md) — related
+- [GenAI can act as an active participant in professional learning communities, transforming teacher knowledge construction](genai-active-participant-professional-learning-communities.md) — related

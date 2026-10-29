@@ -77,3 +77,4 @@ Correlation analysis in the willingness results section reports "r = 0.189; p < 
 - [Prior chatbot exposure rather than general technological literacy is associated with willingness to use chatbots](prior-ai-exposure-predicts-chatbot-uptake.md) — related
 - [Students aware of the GenAI feedback source reported no attitude change, while unaware students varied between content-focused acceptance and conditional willingness to reconsider](feedback-source-awareness-attitude-themes.md) — related
 - [Students express strong behavioral intention to continue using GenAI in programming](genai-behavioral-intention-strong.md) — related
+- [More than 90% of students report knowing about or having used an AI chatbot, a substantial increase in exposure compared to the prior year](ai-chatbot-exposure-over-90-percent-second-year.md) — related

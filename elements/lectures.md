@@ -104,6 +104,7 @@ Lectures can efficiently build foundational knowledge when content is well-organ
 **[TED Talks](https://www.ted.com)** — Highly polished short-form lectures illustrating signaling, narrative structure, and multimedia support, though optimized for engagement more than instructional depth.
 
 **Peer instruction (Mazur, Harvard University)** — Lecture segments punctuated by conceptual multiple-choice questions with peer discussion, a widely replicated model for embedding interaction into lectures ([Peer Instruction](https://mazur.harvard.edu/research/detailstechnique/peer-instruction)).
+- [Keep online lecture videos under twenty minutes and segment by topic with speed control](../strategies/online-lecture-under-twenty-minutes.md)
 
 ## Key Sources
 - Freeman, S., Eddy, S. L., McDonough, M., Smith, M. K., Okoroafor, N., Jordt, H., & Wenderoth, M. P. (2014). Active learning increases student performance in science, engineering, and mathematics. *Proceedings of the National Academy of Sciences, 111*(23), 8410–8415. [doi:10.1073/pnas.1319030111](https://doi.org/10.1073/pnas.1319030111)

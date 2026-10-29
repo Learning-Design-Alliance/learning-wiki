@@ -42,6 +42,7 @@ During COVID-19 disruptions in Years 2 and 3, ICCSD distributed leadership by ha
 - [Iccsd District Cs Specialist Leadership](iccsd-district-cs-specialist-leadership.md)
 - [Use NGSS-aligned K-8 science coursework as the starting point for district CT integration](ngss-science-starting-point-ct-integration.md)
 - [Have classroom teachers develop CT-integrated example lessons and practical integration routines to operationalize a competency map](teacher-developed-ct-integration-examples.md)
+- [Proactively co-plan library space use for inquiry and active learning with teachers and librarians](co-plan-library-space-for-inquiry.md)
 
 ## Examples
 -

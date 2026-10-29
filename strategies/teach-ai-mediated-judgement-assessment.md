@@ -46,6 +46,7 @@ The review recommends pedagogy that moves from policing AI use to teaching AI-me
 - [Design AI learning systems for inspectable, contestable use: provenance, represented uncertainty, user control and epistemic plurality](design-contestable-ai-provenance-plurality.md)
 - [Embed SRL-oriented AIGC pedagogy: prompt-and-reflect routines, verification rubrics, and feedback literacy](srl-oriented-aigc-pedagogy-routines.md)
 - [Assessment design levers that make learning visible and reduce the payoff from generic generated text](assessment-design-levers-visible-learning-traces.md)
+- [Refocus education from reckoning skills towards judgement skills and problem formulation](prioritise-judgement-skills-and-problem-formulation-curriculum.md)
 
 ## Examples
 -

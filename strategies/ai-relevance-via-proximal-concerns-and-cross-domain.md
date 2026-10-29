@@ -47,6 +47,7 @@ Based on the finding that the individualized identity-based AI dialogue failed w
 ## Related Strategies
 
 - [Teachers explicitly communicate the relevance, importance, and utility of science alongside curriculum content](communicate-science-value-messages-in-lessons.md)
+- [Design AI scaffolds for STEM learning by linking learners' goals and interests to real scientific applications of AI](strategy-design-field-specific-ai-scaffolds-stem.md)
 
 ## Examples
 -

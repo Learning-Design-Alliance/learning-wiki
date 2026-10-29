@@ -83,3 +83,4 @@ Mediation testing used bias-corrected bootstrapping with 5,000 resamples and 95%
 - [GenAI learning outcomes depend more on use quality (capability, reflective engagement, retained agency) than on frequency of use](genai-use-quality-over-frequency.md) — related
 - [Academic self-efficacy does not significantly predict academic stress, and social influence does not directly predict AI dependence](ase-stress-and-si-dependence-null-paths.md) — related
 - [Metacognition mediates the relationship between EF and SRL](metacognition-mediation-ef-srl.md) — related
+- [Computer self-efficacy mediates the relationship between technological literacy attained through the Contextualized-OLPC project and functional literacy](computer-self-efficacy-mediation-olpc-functional-literacy.md) — related

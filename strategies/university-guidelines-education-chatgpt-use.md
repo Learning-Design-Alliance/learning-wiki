@@ -51,6 +51,7 @@ The article concludes that institutions should clarify regulations and teach stu
 - [Institutional integrity programs combining ethical AI-use guidelines, clear definitions of dishonesty, and risk-awareness education](integrity-programs-ethical-ai-use-guidelines.md)
 - [Build ethical AI integration on four coordinated levels: faculty professional development, ethics curricula, clear institutional guidelines, and interdisciplinary updating](four-level-ethical-ai-integration-strategy.md)
 - [Institutional governance should establish practical conditions supporting AI literacy, learner agency, and critical evaluation rather than relying on prohibition and detection](governance-beyond-prohibition-detection.md)
+- [Use the classification tool to shape AI-in-education guidelines, professional development, and teacher adaptation of ChatGPT activities](use-classification-tool-policy-pd.md)
 
 ## Examples
 -

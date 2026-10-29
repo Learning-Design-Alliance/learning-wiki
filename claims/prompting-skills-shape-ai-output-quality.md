@@ -55,3 +55,4 @@ Qualitative interview finding; a faculty participant stated "having the skill to
 - [Higher-quality prompt engineering skills predict the quality of LLM output in goal-directed use of generative AI tools](prompt-engineering-skill-predicts-llm-output-quality.md) — possibly the same claim (merge candidate)
 - [Certain aspects of AI literacy play a role in higher-quality prompt engineering by non-expert students](ai-literacy-aspects-support-prompt-engineering.md) — related
 - [Teacher-AI design collaboration faces recurring challenges including prompt literacy, curriculum misalignment, epistemic uncertainty, and explainability barriers](teacher-ai-codesign-challenges-prompt-literacy-alignment-trust.md) — related
+- [Prompt engineering quality predicts LLM output quality and is a required skill for goal-directed GenAI use](prompt-engineering-predicts-llm-output-quality.md) — related

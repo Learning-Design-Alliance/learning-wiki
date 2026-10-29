@@ -45,3 +45,4 @@ A narrative review statement in the article's background motivating the study. T
 - [Prior narrative reviews found poor readers at risk for internalising problems, with attention problems raising risk further](prior-reviews-reading-internalising-narrative.md) — related
 - [Poor readers show a small but significant elevation in depression compared to typical readers (d = 0.23)](poor-readers-small-depression-elevation.md) — related
 - [Children's reactions to peers with mental health problems are related to the maintenance and outcomes of those problems](peer-reactions-related-to-mental-health-outcomes.md) — related
+- [Research on university teachers as educational designers is an emerging field, and the professional development of educational designers is neither well understood nor effectively supported](educational-designer-professional-development-gap.md) — possibly the same claim (merge candidate)

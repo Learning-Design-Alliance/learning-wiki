@@ -54,3 +54,4 @@ Cross-case interview data on engagement overviews; one teacher recalled "lots of
 - [Task design balancing challenge and accessibility determines the success of AI-powered collaborative learning environments](task-design-challenge-accessibility-balance-ai-collaborative.md) — related
 - [In an AI-guided PD program, rural teachers engaged with mathematical creativity, content knowledge, and PCK as interconnected forms of reasoning rather than isolated domains](ai-guided-pd-integrated-mc-ck-pck-engagement.md) — a broader claim this one bears on
 - [ICE environments are associated with mood disturbance, reduced motivation, social withdrawal, interpersonal conflict, and altered time perception](ice-environments-mood-and-team-risks.md) — related
+- [Struggle maintained just along the edge of understanding entices learners to strive further, while excessive struggle may demoralize](struggle-edge-of-understanding-balance.md) — related

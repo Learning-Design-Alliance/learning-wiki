@@ -48,3 +48,4 @@ Regression analysis in the mediation assessment showed a significant ANX–CSE p
 - [In a cross-sectional survey, computer self-efficacy statistically mediates the association between computer anxiety and perceived ease of use of an LMS](cse-mediates-anxiety-peu-lms.md) — related
 - [CSE partially mediates anxiety's effect on PEU: the direct ANX–PEU path remains significant but weaker](cse-partial-mediation-anx-peu-weakened.md) — related
 - [Computer anxiety negatively affects students' perceived ease of use of a learning management system](computer-anxiety-negative-effect-lms-peu.md) — related
+- [Computer self-efficacy mediates the relationship between technological literacy attained through the Contextualized-OLPC project and functional literacy](computer-self-efficacy-mediation-olpc-functional-literacy.md) — related

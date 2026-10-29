@@ -71,6 +71,7 @@ Simulation alone is an experience; learning comes from the structure wrapped aro
 - [Have students craft physically detailed prompts as a form of experimental design before measuring AI-generated scenarios](prompt-crafting-as-experimental-design.md)
 - [Scaffold hypothesis formation before testing and provide tools for explicit hypothesis statements in games](scaffold-hypothesis-formation-before-testing.md)
 - [Include facilitated social learning opportunities (introduction and debriefing) around individual IVR safety scenarios](facilitated-introduction-and-debriefing-around-ivr-scenarios.md)
+- [Expose learners to real-world problems embedded in complex systems with multiple interactive components](expose-learners-to-complex-system-problems.md)
 
 ## Related Elements
 - [Practice](../elements/practice.md) — the structured engagement phase inside the simulation

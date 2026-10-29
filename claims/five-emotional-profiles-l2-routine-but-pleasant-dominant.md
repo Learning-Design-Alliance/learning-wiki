@@ -50,3 +50,5 @@ Gaussian mixture clustering of pooled momentary emotion ratings from the 21-day 
 - [Latent profile analysis of four learning-related achievement emotions yields a five-class solution: four academic-control gradient profiles plus a distinct high-boredom profile](five-latent-emotion-profiles-lpa.md) — related
 - [Academic emotions cluster into four groups by antecedents, with anxiety and hopelessness highly correlated (r > .70) yet kept as separate scales](aeq-emotion-clusters-anxiety-hopelessness.md) — related
 - [Internally divergent momentary engagement profiles occur within a single task, with students attentive yet emotionally and cognitively disengaged](divergent-internal-engagement-dynamics-single-task.md) — related
+- [Cluster analysis of medical students' emotions after diagnostic tasks reveals three distinct emotion clusters](three-emotion-clusters-diagnostic-tasks.md) — related
+- [Medical students' positive emotions correlate with better diagnostic performance in a computer-based learning environment](positive-emotions-correlate-diagnostic-performance-medical-students.md) — related

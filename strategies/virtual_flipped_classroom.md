@@ -76,6 +76,7 @@ The flipped model's advantage comes from spending scarce synchronous time on act
 - [Use asynchronous AI tutoring for students' first engagement with challenging material, reserving class time for higher-order skills](ai-tutor-first-exposure-flipped-strategy.md)
 - [Strategically employ AI tools, including chatbots, within active learning methodologies such as problem-based learning, flipped classrooms, and virtual labs](ai-chatbots-active-learning-biology.md)
 - [Adapt the E-5C model for fully online delivery by converting each of the 5Cs to a virtual equivalent](e5c-online-adaptation-strategy.md)
+- [Integrate synchronous discussion tools into online flipped learning environments to maximize engagement and self-regulation](integrate-synchronous-discussion-flipped-learning.md)
 
 ## Examples
 - **Michigan State University's fully online flipped calculus courses** — students watch short videos and complete online checks before live problem-solving sessions; published studies report improved pass rates over lecture-based online sections.

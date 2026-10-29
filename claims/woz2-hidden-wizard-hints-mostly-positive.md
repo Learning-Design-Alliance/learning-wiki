@@ -66,3 +66,4 @@ Same WOZ II transcript analysis: the “neutral reactions to the wizard” categ
 ## Related Claims
 - [In WOZ I, students reported the cognitive-model-based wizard feedback as helpful for understanding and solving robotics problems](woz1-students-feedback-helpful.md) — related
 - [Confusion and frustration followed incorrect solution submissions and preceded hint requests, while coding was the central activity surrounding all affective states](affect-interaction-event-transitions-programming.md) — related
+- [Flexible design with a human wizard anticipated kindergarteners' developing communication styles in robot-mediated interaction](flexible-design-anticipating-children-communication-styles.md) — related

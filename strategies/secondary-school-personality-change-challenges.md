@@ -49,6 +49,7 @@ The review proposes a concrete classroom recipe adapted from Hudson et al. (2019
 ## Related Strategies
 
 - [Personalise learning by Big Five trait level: scaffold low-conscientiousness students and reduce failure salience for high-neuroticism students](personalise-learning-by-big-five-traits.md)
+- [Develop and test interventions and teacher reflective practices to harness emotions as malleable factors in K-12 settings](interventions-reflective-practices-harness-teacher-emotions.md)
 
 ## Examples
 -

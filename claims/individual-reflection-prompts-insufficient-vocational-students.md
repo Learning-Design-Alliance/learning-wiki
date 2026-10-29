@@ -56,3 +56,4 @@ Post-hoc comparisons in the four-condition quasi-experiment (N = 144) showed no 
 - [Instruction plus the reflection tool improved vocational students' actual collaborative chat behavior compared with control, but instruction alone did not demonstrate any desired collaborative behaviors more often than control](instruction-with-tool-improved-actual-collaborative-behavior.md) — related
 - [Students in all three conditions learned significantly from the CSCL environment, with significant pretest-to-posttest gains in each condition](all-conditions-learned-from-cscl-environment.md) — related
 - [Example-based instructional activities yield larger effects when delivered jointly by ICT and teachers than by teachers alone](examples-joint-ict-teacher-delivery-larger-effects.md) — related
+- [Deconstructing theory into smaller concepts alone is insufficient for deep theoretical understanding](deconstructing-theory-alone-insufficient.md) — related

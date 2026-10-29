@@ -54,3 +54,4 @@ Cross-case qualitative finding (RQ2-3) from documents, interviews, and cognitive
 - [A field study with 10 faculty across two institutions observed a 25% reduction in administrative load and improved LMS data utilization from agentic teaching-assistant systems](agentic-teaching-assistant-25-percent-admin-load-reduction.md) — related
 - [LO assessment supported by CA tools prompted faculty toward more authentic, participatory, and reflective teaching practices](ca-assessment-prompts-authentic-reflective-teaching.md) — related
 - [Field Test II with students should not be implemented until Field Test I evaluation yields a go decision on staff competencies](sequential-field-testing-go-no-go.md) — related
+- [Faculty organized EdTech integration decisions in ways aligned with the principles](dexter-2023-faculty-decisions-aligned-principles.md) — related

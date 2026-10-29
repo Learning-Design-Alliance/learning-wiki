@@ -50,3 +50,4 @@ Multilevel binomial logistic regression across 546 learning events (Table 3, Mod
 - [The within-student pre–post valence association holds in the lecture-based group but not in the flipped group, while between-student associations are positive in both](pre-post-valence-stability-varies-by-implementation.md) — related
 - [Positive pre-event emotional valence predicts positive post-event emotional valence after learning events](pre-event-valence-predicts-post-event-valence.md) — related
 - [Electrodermal activity during learning events shows no robust association with post-event emotional valence](eda-not-robustly-associated-with-post-event-valence.md) — related
+- [No significant main effect of learning approach on behavioral, emotional, or cognitive engagement](no-main-effect-learning-approach-engagement.md) — related

@@ -49,3 +49,4 @@ Analytical argument (with an algebraic rearrangement of the I/E regression equat
 - [The 2I/E model is supported: social comparison effects are moderate, dimensional comparison effects small to moderate, and temporal comparison effects small on math and verbal self-concepts](ipd-meta-2ie-model-supported-moderate-social-small-temporal-effects.md) — related
 - [Within-domain effects in the difference I/E model decrease after controlling for between-domain effects when classic I/E between-domain effects are negative](difference-ie-within-effects-decrease-controlling-between-domain.md) — related
 - [Negative frame-of-reference effects are hypothesized to be truncated in pure self-efficacy measures relative to self-concept measures](frame-of-reference-effects-truncated-pure-self-efficacy-hypothesis.md) — related
+- [Structural assessment measures domain understanding differently from verbal assessment](structural-assessment-differs-from-verbal-assessment.md) — related

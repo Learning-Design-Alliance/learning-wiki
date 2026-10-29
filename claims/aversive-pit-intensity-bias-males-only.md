@@ -51,3 +51,4 @@ Experiment 2 re-analyzed data from a previously published aversive PIT study (18
 - [In an appetitive PIT transfer phase, motivational cues speed responding (intensity bias) in males only; females show no intensity bias](appetitive-pit-intensity-bias-males-only.md) — related
 - [The direction bias is absent of sex modulation in the aversive PIT context as well, with no male-female difference in direction bias](aversive-pit-direction-bias-no-sex-difference.md) — related
 - [Sex differences in the intensity bias emerge despite comparable baseline liking, wanting, hunger, and instrumental learning between males and females](sex-groups-matched-on-liking-wanting-learning.md) — related
+- [Male and female subjects responded differently, confounding interpretation](sex-differences-confound-attitude-change.md) — related

@@ -13,7 +13,7 @@ generated:
 # Social Awareness and Relationship Skills
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 123 claims (80 show a difference, 28 mixed, 15 no difference) · 90 studies (26 review, 21 associational, 17 causal, 13 quant-synthesis, 5 qualitative, 5 design, 3 theoretical), `q1`–`q4` · 25 of 90 report an effect size · 119 claims rest on one study
+> **Evidence** · 124 claims (81 show a difference, 28 mixed, 15 no difference) · 91 studies (27 review, 21 associational, 17 causal, 13 quant-synthesis, 5 qualitative, 5 design, 3 theoretical), `q1`–`q4` · 25 of 91 report an effect size · 120 claims rest on one study
 
 ## Description
 Social awareness is the ability to take another person's perspective, read their feelings and understand the social norms of a setting; relationship skills are the ability to make and keep positive relationships, cooperate, communicate clearly and handle conflict. They are usually measured by parent, teacher and self-report rating scales of social-emotional competence, and by self-report scales of empathy and of how well a learner feels they fit in.
@@ -164,6 +164,7 @@ The page overlaps with [emotional intelligence](emotional-intelligence.md), whic
 - [Playing the empathy training game Crystals of Kaydor produced no greater improvement in adolescents' empathic accuracy than playing the commercial control game Bastion](../claims/crystals-no-group-difference-empathic-accuracy-change.md) [-M] — instruction changes it
 - [MIXER had no significant far-transfer effect on children's social interaction skills (MESSY)](../claims/mixer-no-messy-far-transfer.md) [-M] — instruction changes it
 - [MIXER produced no significant far-transfer change in children's empathy (Bryant's Empathy Index)](../claims/mixer-no-empathy-far-transfer.md) [-M] — instruction changes it
+- [Maker education can promote STEM-related learning outcomes, collaboration, and empathy](../claims/maker-education-benefits-claim.md) [+M] — instruction changes it
 
 ## Measures
 - **Devereux Student Strengths Assessment (DESSA)** (LeBuffe, Naglieri & Shapiro, 2012): parent or teacher rating of social-emotional competencies, including social awareness and relationship skills, from kindergarten to grade 8, with a short screening form (DESSA-mini).

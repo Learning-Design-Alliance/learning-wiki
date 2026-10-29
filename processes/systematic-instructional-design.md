@@ -14,7 +14,7 @@ grain_size: course
 # Systematic Instructional Design
 
 > **Design Process** · [All design processes](index.md)
-> **Evidence** · 4 claims (3 for, 1 against) · 7 studies (5 quant-synthesis, 1 review, 1 theoretical), `q2`–`q4` · 5 of 7 report an effect size · 1 claim rests on one study
+> **Evidence** · 5 claims (3 for, 1 mixed, 1 against) · 8 studies (5 quant-synthesis, 1 review, 1 design, 1 theoretical), `q2`–`q4` · 5 of 8 report an effect size · 2 claims rest on one study
 
 ## Description
 Systematic instructional design treats a course as a system whose parts must be derived from a stated goal and checked against it. The lineage runs from Gagné's analysis of learning conditions through the military and industrial training models of the 1970s to ADDIE — Analysis, Design, Development, Implementation, Evaluation — and to Dick & Carey's *systematic design of instruction*, which is the fullest published expression of it.
@@ -64,6 +64,7 @@ Its defining commitment is **derivation**: nothing enters the course that cannot
 
 ### Claims
 
+- [Model usability testing across two rounds led to structural improvements including separated course and lesson level design and a central formative evaluation step](../claims/usability-testing-improved-model-structure.md) [~W]
 
 #### Supporting
 - [Goal setting improves performance.](../claims/goal-setting-improves-performance.md) [+M] — the case for stating the target before designing toward it
