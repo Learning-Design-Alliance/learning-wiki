@@ -52,3 +52,4 @@ Illustrative analysis of two open-ended survey questions about benefits and draw
 - [Trust in personalized analogies moved in no single direction, while critical scrutiny tracked domain expertise more consistently than personal interest](trust-mixed-scrutiny-tracks-expertise.md) — related
 - [Open-ended learner feedback revealed four themes: trust in AI scaffolding, feedback clarity, engagement, and task authenticity](cyberagents-qualitative-four-themes.md) — related
 - [Emotional discomfort from viewing medical images was the dominant drawback of the annotation task, alongside repetitiveness](emotional-discomfort-medical-images-main-drawback.md) — related
+- [Students most enjoyed creating images with AI, followed by generating text, with video creation least favoured](students-enjoyed-image-creation-most.md) — related

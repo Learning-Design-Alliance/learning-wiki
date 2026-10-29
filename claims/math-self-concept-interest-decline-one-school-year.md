@@ -78,3 +78,4 @@ Univariate latent growth model for interest in the same three-wave sample showed
 - [Both sense of belonging and intentions to persist decline over the first academic year](belonging-and-persistence-intentions-decline-first-year.md) — related
 - [Variance in ASC change is statistically significant at individual, clique, and classroom levels, with a slight average decline in ASC across the school year](asc-change-variance-all-three-levels.md) — related
 - [Academic self-concept levels are relatively high and stable from fourth to sixth grade of elementary school](asc-stable-fourth-to-sixth-grade.md) — related
+- [Self-efficacy and gameplay interest are negatively associated with elementary students' competitive anxiety in one-on-one gameplay](self-efficacy-interest-negatively-associated-competitive-anxiety.md) — related

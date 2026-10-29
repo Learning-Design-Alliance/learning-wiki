@@ -52,3 +52,4 @@ Drawing on contemporary literature, pedagogical theory, and emerging use cases, 
 - [ChatGPT use in STEAM IBL is reported to enhance learner outcomes including motivation, critical thinking, engagement, and problem-solving](chatgpt-steam-ibl-learner-advantages.md) — related
 - [GenAI-mediated digital inequality in higher education extends beyond access to tool capability, skills, and pedagogical support](genai-digital-inequality-beyond-access.md) — related
 - [Staff recognise substantial opportunities to use GenAI to enhance teaching through streamlined administrative processes, improved curriculum and assessment design, and student-centred learning activities.](staff-see-genai-opportunities-teaching-enhancement.md) — related
+- [The author argues emergent machine learning may significantly increase personalization of CoSIL without burdening teachers](machine-learning-personalize-cosil-guidance.md) — related

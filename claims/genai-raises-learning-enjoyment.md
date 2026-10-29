@@ -80,3 +80,4 @@ Null result on the self-assessed knowledge outcome (0–10 scale) from Session O
 - [After a guided-inquiry lesson with the collision-carts simulation, students' self-reported knowledge of the physics increased and most rated the lesson enjoyable and valuable](collision-carts-simulation-lesson-positive-student-feedback.md) — related
 - [In Study 1, ChatTutor produced significantly higher trust, enjoyment, and behavioral intentions than ChatGPT, while students were blind to condition](chattutor-trust-enjoyment-intentions-study1.md) — related
 - [Mental simulation training increased children's reading motivation in both grades, while control-group motivation showed no significant change](mental-simulation-training-raises-reading-motivation.md) — related
+- [Students reported growing confidence in using AI after the lessons](students-perceived-ai-proficiency-gain.md) — related

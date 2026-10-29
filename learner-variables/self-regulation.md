@@ -13,7 +13,7 @@ generated:
 # Self-Regulation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 206 claims (143 show a difference, 37 mixed, 26 no difference) · 145 studies (40 causal, 38 associational, 34 review, 13 quant-synthesis, 11 theoretical, 6 qualitative, 3 design), `q1`–`q4` · 30 of 145 report an effect size · 197 claims rest on one study
+> **Evidence** · 208 claims (145 show a difference, 37 mixed, 26 no difference) · 147 studies (42 causal, 38 associational, 34 review, 13 quant-synthesis, 11 theoretical, 6 qualitative, 3 design), `q1`–`q4` · 30 of 147 report an effect size · 199 claims rest on one study
 
 ## Description
 Whether a learner can plan, monitor and adjust without the structure being supplied for them. It decides whether a multi-week deliverable survives without scaffolding and pacing support. The finding that matters most for design is that self-monitoring is unreliable by default: learners judge fluency rather than learning, and confident misjudgement is the normal case rather than the exception [-M]. So the design job is supplying the external signal, not exhorting reflection.
@@ -255,6 +255,8 @@ Whether a learner can plan, monitor and adjust without the structure being suppl
 - [Research indicates moderate effect sizes for engagement, project-based learning, self-regulation, and feedback](../claims/moderate-effect-sizes-engagement-pbl-self-regulation-feedback.md) [+M] — instruction changes it
 - [Self-regulation and self-directed learning strategies need to be taught and practiced over time](../claims/self-regulation-strategies-taught-over-time.md) [+M] — instruction changes it
 - [Synchronous online discussions improve self-regulation more than asynchronous online discussions](../claims/synchronous-discussion-improves-self-regulation.md) [+M] — instruction changes it
+- [A self-regulated science inquiry approach benefited elementary students' self-regulation and science learning performance](../claims/self-regulated-science-inquiry-benefits-elementary.md) [+M] — instruction changes it
+- [The co-creation environment significantly influenced post-test self-regulation after controlling for the pretest](../claims/cocreation-environment-causal-self-regulation.md) [+M] — instruction changes it
 
 ## The evidence by question
 - *Does a learner's self-regulation predict achievement, and how strongly?* [Self Regulated Learning Predicts Achievement](../claims/self-regulated-learning-predicts-achievement.md) [+S]

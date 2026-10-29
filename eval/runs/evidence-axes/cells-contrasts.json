@@ -47930,5 +47930,261 @@
  "test-format\tdiagram-based test items\tpurely verbal test items": {
   "label": "diagram-based test items vs purely verbal test items",
   "treatment_is_a": true
+ },
+ "active-learning\tcollaborative mobile app design and programming\tno comparison condition reported": {
+  "label": "active learning vs no comparison condition reported",
+  "treatment_is_a": true
+ },
+ "active-learning\tcooperative tasks\tindividual tasks": {
+  "label": "cooperative learning vs individual learning",
+  "treatment_is_a": true
+ },
+ "active-learning\tgroup work in Zoom breakout rooms with student-led discussion\twhole-class lecture or discussion": {
+  "label": "small-group active learning vs whole-class instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tlack of interpersonal engagement, interaction, and collaboration\tinterpersonal engagement, interaction, and collaboration": {
+  "label": "interpersonal engagement and collaboration vs lack of interpersonal engagement and collaboration",
+  "treatment_is_a": false
+ },
+ "autonomy-support\tplacing learners in leadership positions\tnot stated": {
+  "label": "learner leadership vs no learner leadership",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tautomated conceptual feedback\tteacher-guided whole-class discussion and follow-up use of responses": {
+  "label": "automated feedback vs teacher-guided feedback",
+  "treatment_is_a": true
+ },
+ "feedback-timing\tdelayed assignment feedback\timmediate virtual feedback": {
+  "label": "immediate vs delayed feedback",
+  "treatment_is_a": false
+ },
+ "feedback-type\tmodified personalized learner JIT feedback\tprior JIT feedback design": {
+  "label": "Modified personalized learner JIT feedback vs prior JIT feedback design",
+  "treatment_is_a": true
+ },
+ "feedback-type\tsupervisors' narrative feedback\tautomated feedback": {
+  "label": "Narrative feedback vs automated feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tvisualization options\tautomated feedback": {
+  "label": "Visualization options vs automated feedback",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tanalytic rubrics in the Viewbrics formative assessment method\tconventional rating-scale rubrics": {
+  "label": "analytic rubrics vs conventional rating-scale rubrics",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tformative assessment with analytic rubrics in the Viewbrics online tool\tformative assessment using conventional rating-scale rubrics": {
+  "label": "analytic rubrics vs conventional rating-scale rubrics",
+  "treatment_is_a": true
+ },
+ "formative-assessment\thigher teaching quality monitoring\tlower teaching quality monitoring": {
+  "label": "higher vs lower teaching-quality monitoring",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tlearning-analytics report showing a working-group indicator below the course average\tlearning-analytics report showing an indicator at or above the course average": {
+  "label": "below-course-average indicator vs at-or-above-course-average indicator",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tsecond oral presentation score\tfirst oral presentation score": {
+  "label": "second oral presentation score vs first oral presentation score",
+  "treatment_is_a": true
+ },
+ "formative-assessment\ttext-based analytic rubrics in Viewbrics\tconventional rating-scale rubrics": {
+  "label": "text-based analytic rubrics vs conventional rating-scale rubrics",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tvideo-enhanced analytic rubrics in Viewbrics\tconventional rating-scale rubrics": {
+  "label": "video-enhanced analytic rubrics vs conventional rating-scale rubrics",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tweekly learning analytics reports\tno learning analytics reports": {
+  "label": "weekly learning-analytics reports vs no learning-analytics reports",
+  "treatment_is_a": true
+ },
+ "gamification\tfour business ethics board games\tno alternative instructional condition": {
+  "label": "gamified vs non-gamified",
+  "treatment_is_a": true
+ },
+ "media-design\t2-demo tutorial\tcontrol tutorial": {
+  "label": "two-demonstration tutorial vs control tutorial",
+  "treatment_is_a": true
+ },
+ "media-design\t2-demo tutorial\treview tutorial": {
+  "label": "two-demonstration tutorial vs review tutorial",
+  "treatment_is_a": true
+ },
+ "media-design\tcolored pictures\tblack-and-white pictures": {
+  "label": "colored pictures vs black-and-white pictures",
+  "treatment_is_a": true
+ },
+ "media-design\tcontrol tutorial\treview tutorial": {
+  "label": "review tutorial vs control tutorial",
+  "treatment_is_a": false
+ },
+ "media-design\teach film's emphasized content\tthe other film's less-emphasized content": {
+  "label": "emphasized content vs less-emphasized content",
+  "treatment_is_a": true
+ },
+ "media-design\teither personal hygiene film\tpre-film baseline": {
+  "label": "personal-hygiene film vs pre-film baseline",
+  "treatment_is_a": true
+ },
+ "media-design\tfew nodes per sub-concept\tmany nodes per sub-concept": {
+  "label": "few vs many nodes per sub-concept",
+  "treatment_is_a": true
+ },
+ "media-design\tfew nodes within sub-concepts\tmany nodes within sub-concepts": {
+  "label": "few vs many nodes per sub-concept",
+  "treatment_is_a": true
+ },
+ "media-design\tfew-node concept map\tmany-node concept map": {
+  "label": "few-node concept map vs many-node concept map",
+  "treatment_is_a": true
+ },
+ "media-design\thigh-salience concept map structure\tlow-salience concept map structure": {
+  "label": "high-salience vs low-salience map structure",
+  "treatment_is_a": true
+ },
+ "media-design\thigh-salience concept-map structure\tlow-salience concept-map structure": {
+  "label": "high-salience vs low-salience map structure",
+  "treatment_is_a": true
+ },
+ "media-design\thigh-salience map structure\tlow-salience map structure": {
+  "label": "high-salience vs low-salience map structure",
+  "treatment_is_a": true
+ },
+ "media-design\tlow-salience map structure\thigh-salience map structure": {
+  "label": "high-salience vs low-salience map structure",
+  "treatment_is_a": false
+ },
+ "media-design\tmultimedia-based Edtech Cybersecurity and Privacy AAA PD\tpre-test baseline": {
+  "label": "multimedia-based cybersecurity and privacy professional development vs pre-professional-development baseline",
+  "treatment_is_a": true
+ },
+ "media-design\tmultimedia-based PD modules\tModule 3 usefulness rating": {
+  "label": "multimedia-based professional-development modules vs Module 3 usefulness rating",
+  "treatment_is_a": true
+ },
+ "media-design\tmultimedia-based cybersecurity and privacy PD\tpre-PD test": {
+  "label": "multimedia-based cybersecurity and privacy professional development vs pre-professional-development baseline",
+  "treatment_is_a": true
+ },
+ "media-design\tpreview videos\tfirst demonstration videos": {
+  "label": "preview videos vs demonstration videos",
+  "treatment_is_a": true
+ },
+ "media-design\tpreview, demonstration and review\tpreview and two demonstrations": {
+  "label": "preview, demonstration, and review vs preview and two demonstrations",
+  "treatment_is_a": true
+ },
+ "media-design\trelevant, large, simple, well-reproduced, realistic pictures integrated with text\tless relevant, smaller, complex, poorly reproduced, stylized, or unintegrated pictures": {
+  "label": "relevant, large, simple, realistic, well-reproduced, text-integrated pictures vs less relevant, smaller, complex, stylized, poorly reproduced, or unintegrated pictures",
+  "treatment_is_a": true
+ },
+ "media-design\tsinging commercial film\tstraightforward instructional film": {
+  "label": "singing commercial film vs straightforward instructional film",
+  "treatment_is_a": true
+ },
+ "media-design\tstraightforward instructional film\tsinging commercial film": {
+  "label": "singing commercial film vs straightforward instructional film",
+  "treatment_is_a": false
+ },
+ "media-design\tstraightforward instructional film\tsinging-commercial film": {
+  "label": "singing commercial film vs straightforward instructional film",
+  "treatment_is_a": false
+ },
+ "media-design\tvideo animation of particles followed by representation\tstudents’ prior ideas of solids as stationary": {
+  "label": "video animation followed by representation vs prior ideas of solids as stationary",
+  "treatment_is_a": true
+ },
+ "media-design\tvideo-enhanced analytic rubrics\ttext-based analytic rubrics": {
+  "label": "video-enhanced analytic rubrics vs text-based analytic rubrics",
+  "treatment_is_a": true
+ },
+ "practice-amount\t16 response-pretraining trials using letters\tno response-pretraining trials": {
+  "label": "response-pretraining vs none",
+  "treatment_is_a": true
+ },
+ "practice-amount\t32 response-pretraining trials using letters\tno response-pretraining trials": {
+  "label": "response-pretraining vs none",
+  "treatment_is_a": true
+ },
+ "practice-amount\t64 response-pretraining trials using letters\tno response-pretraining trials": {
+  "label": "response-pretraining vs none",
+  "treatment_is_a": true
+ },
+ "practice-amount\tlast gameplay session\tfirst gameplay session": {
+  "label": "later gameplay session vs earlier gameplay session",
+  "treatment_is_a": true
+ },
+ "practice-amount\tlistening to more talks\tlistening to fewer talks": {
+  "label": "more talks vs fewer talks",
+  "treatment_is_a": true
+ },
+ "practice-amount\tlistening to more talks in the series\tlistening to fewer talks": {
+  "label": "more talks vs fewer talks",
+  "treatment_is_a": true
+ },
+ "practice-amount\trepeated gameplay across sessions\tfewer or earlier gameplay sessions": {
+  "label": "repeated gameplay across sessions vs fewer or earlier gameplay sessions",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tasking questions that recall previous concepts during lectures\tlecture without reported recall questioning": {
+  "label": "retrieval practice vs no retrieval practice",
+  "treatment_is_a": true
+ },
+ "scaffolding\tAI-GFCA learning model\tAI-supported conventional learning (AI-C)": {
+  "label": "GFCA learning model vs conventional learning model",
+  "treatment_is_a": true
+ },
+ "scaffolding\tAI-GFCA learning model with generalization, formulation, correction and appreciation stages\tAI-supported conventional learning with correction stage only": {
+  "label": "GFCA learning model vs conventional learning model",
+  "treatment_is_a": true
+ },
+ "scaffolding\tAI-supported GFCA learning model\tAI-supported conventional learning with correction stage only": {
+  "label": "GFCA learning model vs conventional learning model",
+  "treatment_is_a": true
+ },
+ "scaffolding\tExperiment Design Tool scaffold\tresearch questions without the EDT": {
+  "label": "Experiment Design Tool scaffold vs no Experiment Design Tool",
+  "treatment_is_a": true
+ },
+ "scaffolding\tExperiment Design Tool with detailed research questions\tdetailed research questions without the Experiment Design Tool": {
+  "label": "Experiment Design Tool scaffold vs no Experiment Design Tool",
+  "treatment_is_a": true
+ },
+ "scaffolding\tExperiment Design Tool with detailed research questions\tgeneral research questions only": {
+  "label": "Detailed research questions vs general research questions",
+  "treatment_is_a": true
+ },
+ "scaffolding\tability-matched inquiry assignments with limited structure\tnot stated": {
+  "label": "Limited-structure inquiry assignments vs unspecified structure",
+  "treatment_is_a": true
+ },
+ "scaffolding\tgeneral research questions only\tdetailed research questions without the Experiment Design Tool": {
+  "label": "Detailed research questions vs general research questions",
+  "treatment_is_a": false
+ },
+ "scaffolding\thandheld sensor-based vocabulary game with scaffolding\tgame without scaffolding supports": {
+  "label": "Scaffolding supports vs no scaffolding supports",
+  "treatment_is_a": true
+ },
+ "scaffolding\tscaffolding for finding, selecting, and judging peer-created ELOs\tno additional support": {
+  "label": "Scaffolding for finding, selecting, and judging peer-created ELOs vs no additional support",
+  "treatment_is_a": true
+ },
+ "scaffolding\tscaffolding for using peer-created ELOs\tno additional support": {
+  "label": "Scaffolding for using peer-created ELOs vs no additional support",
+  "treatment_is_a": true
+ },
+ "scaffolding\tvarious CoSIL guidance tools\tnot stated": {
+  "label": "CoSIL guidance tools vs unspecified guidance",
+  "treatment_is_a": true
+ },
+ "simulation\timmersive VR simulation in an inquiry-based learning environment\t?": {
+  "label": "immersive VR simulation vs no simulation",
+  "treatment_is_a": true
  }
 }

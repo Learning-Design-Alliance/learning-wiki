@@ -53,3 +53,4 @@ Qualitative finding from the UChicago Consortium's six focus groups with Chicago
 - Two-thirds of parents want at least some virtual engagement programming to continue, with Black and multilingual parents most likely to prefer virtual options — related
 - [Included qualitative studies find smaller special education class sizes are the preferred option because they allow more individualised instruction time and increased teacher attention](small-special-education-classes-preferred-individualised-instruction.md) — related
 - [Online professional development offers potential advantages of reduced travel costs, increased convenience, and community building among participants](online-pd-reduces-travel-supports-community.md) — related
+- [Flexibility was a key benefit for many students: 53% valued not having to travel, 61% found video recordings helpful, and 59% valued assignment deadline extensions](flexibility-benefits-recordings-extensions.md) — related

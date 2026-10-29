@@ -54,3 +54,4 @@ Descriptive coding of the 49-essay corpus: "When students raised ethics, it conc
 - [Ethical concerns (bias, transparency, privacy, authorship, accountability) emerge as cross-cutting dimensions of GenAI-specific TPK across studies of teacher educators](genai-tpk-ethical-dimensions-cross-cutting.md) — related
 - [Review reports ethical concerns of educational AI including algorithmic bias and exploitation of personal data](ethical-concerns-algorithmic-bias-data.md) — related
 - [Reviewed studies identify data privacy, algorithmic bias, unequal access, and epistemic trust as central ethical concerns in educational AI](ai-education-ethical-governance-concerns.md) — related
+- [IDs raised data security, privacy, authorship, ownership, and plagiarism concerns, noting a lack of guidelines and policies for ethical GenAI use](genai-data-security-authorship-policy-gaps.md) — related

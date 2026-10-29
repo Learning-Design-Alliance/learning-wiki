@@ -57,3 +57,4 @@ Theoretical argument in a commentary: the authors argue that action helps when i
 - [A systematic review argues that concrete materials aid mathematics and science learning when they are explicitly and gradually connected to the abstract symbols they represent](manipulatives-require-connection-to-concept.md) — related
 - [Current evidence does not establish that embodied representations are necessary for semantic understanding](embodiment-necessity-not-established.md) — related
 - [Deictic gestures had stronger connections to other features in the high-learning group, suggesting a more effective use of embodied representations to ground abstract concepts and direct attention.](deictic-gestures-stronger-connections-high-learning.md) — related
+- [Students transferred abstract area concepts to concrete app examples, cultivating mathematical thinking](abstract-area-to-concrete-app-examples.md) — related

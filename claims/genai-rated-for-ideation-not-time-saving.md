@@ -77,3 +77,4 @@ Section-level post-course ratings in the intervention cohort: flipped-learning c
 - [Students used GenAI and XR in complementary roles: GenAI for ideation and visual reference generation, XR for spatial, contextual, and scale-based evaluation](genai-xr-complementary-roles-design.md) — related
 - [Lesson designers report LLM-generated lessons save substantial time drafting scenarios and multiple-choice questions](llm-lessons-time-saving-scenario-drafting.md) — related
 - [Students rated the tutor 3.4 out of 5 overall and particularly liked the worked-out solution feedback](ask-elle-student-satisfaction-3-4-of-5.md) — related
+- [Participants expressed overall positive perceptions of the PD, with all survey items except one rated above 4 on a five-point scale](cybersecurity-pd-positive-perceptions.md) — related

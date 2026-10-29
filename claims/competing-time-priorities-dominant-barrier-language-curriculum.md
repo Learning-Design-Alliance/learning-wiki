@@ -56,3 +56,4 @@ Mixed-methods analysis of coaches' retrospective TDF survey and teacher/coach fo
 - [School administrators underestimate parental demand for computer science education and face resource and prioritization barriers](administrators-underestimate-cs-demand-barriers.md) — a narrower finding that bears on this claim
 - [Contrary to program guidelines, English acquisition was given priority over Spanish acquisition in practice](english-priority-over-spanish-in-practice.md) — related
 - [Interviewed teachers attributed disengagement to technical, institutional, and social-relational environmental constraints rather than capability deficits](environmental-constraints-attributed-disengagement.md) — related
+- [Teachers support interdisciplinary curriculum integration but identify resource limitations, not curricular constraints, as the main barrier](e-textile-steam-integration-attitudes-barriers.md) — related

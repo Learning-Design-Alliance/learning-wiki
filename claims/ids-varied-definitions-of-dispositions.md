@@ -54,3 +54,4 @@ Interview findings (RQ1 definition category): participants defined dispositions 
 - [The article reports that research terminology such as 'diagnosis' and 'analysis' is used ambiguously and needs more careful definition](zirbes-1922-diagnosis-analysis-term-ambiguity.md) — related
 - [Loose use of movement-based learning language risks conflating evidence-based embodied learning with debunked neuromyths](embodiment-terminology-neuromyth-conflation-risk.md) — related
 - [Dispositions such as positivity, lifelong learning orientation, and persistence are reported as essential for ID/ET practice](dispositions-essential-for-id-et-practice.md) — related
+- [Blended learning remains ambiguously defined after more than two decades of use](blended-learning-term-ambiguity.md) — related

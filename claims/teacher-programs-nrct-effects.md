@@ -69,3 +69,4 @@ Short-term (1-6 month) follow-up meta-analysis of the nRCTs found no statistical
 ## Related Claims
 - [Heterogeneity in teacher program effects was high for stress, psychological distress, and burnout in RCTs, and methodological quality was generally poor across both trial types](teacher-programs-heterogeneity-risk-of-bias.md) — related
 - [In RCTs, effects on stress (g=1.79) and professional burnout (g=0.82) increased at short-term follow-up, while effects on anxiety, sleep, and wellbeing were non-significant](teacher-programs-rct-short-term-followup.md) — related
+- [Many students reported stress, anxiety and related wellbeing challenges while studying online, with over 50% of respondents naming stress or anxiety as key challenges](stress-anxiety-over-half-lockdown-students.md) — related

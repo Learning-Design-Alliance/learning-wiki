@@ -55,3 +55,4 @@ ANOVA on situational knowledge (max 4, no covariates) in the 61-dyad/95-individu
 - [The Text + Arithmetic format specifically improved procedural knowledge (executing action sequences to solve problems)](text-arithmetic-improved-procedural-knowledge.md) — related
 - [Tool-using individuals show advantages on conceptual knowledge while collaborative learners spend less time-on-task](conceptual-knowledge-interaction-and-time-on-task.md) — related
 - [Quantitative experimental results on representational formats left the role of representations in dyad discussion unexplained](representational-format-study-unexplained-dyad-role.md) — related
+- [Collaborative dyads marginally outperform individuals on hypervideo product quality](dyads-marginally-higher-hypervideo-quality.md) — related

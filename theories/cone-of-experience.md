@@ -13,7 +13,7 @@ generated:
 # Cone of Experience (Concrete-to-Abstract Media Selection)
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 4 claims (2 for, 2 mixed) · 4 studies (2 causal, 1 design, 1 theoretical), `q1`–`q3` · 1 of 4 report an effect size · 4 claims rest on one study
+> **Evidence** · 5 claims (3 for, 2 mixed) · 5 studies (3 causal, 1 design, 1 theoretical), `q1`–`q3` · 1 of 5 report an effect size · 5 claims rest on one study
 
 ## Description
 Edgar Dale's Cone of Experience (1946, revised 1969) organizes instructional media and methods along a continuum of concreteness: direct, purposeful experience ("seen, handled, tasted, touched, felt, and smelled") at the broad base, moving up through observed and mediated experience (demonstrations, dramatized experience, exhibits, field trips, motion pictures), to highly abstract verbal and visual symbols at the narrow top ([Lee & Reeves, 2018](https://edtechbooks.org/lidtfoundations/edgar_dale)). Dale later mapped Bruner's three modes of representation onto the Cone: enactive (learning by doing), iconic (learning through observation), and symbolic (learning through abstraction). Dale explicitly called the Cone a "visual analogy" for the progression of experience, **not** a prescription that concrete media are always superior or that instruction should be sequenced strictly bottom-to-top.
@@ -50,6 +50,7 @@ Dale's own guidance was for **balance**, not maximization of concreteness: "Too 
 - [Abstract and concrete animation representations do not differ significantly in middle school students' electricity achievement under any of the five text-representation conditions](../claims/abstract-concrete-representation-no-difference.md) [~W]
 - [Concrete-task participants achieved higher performance success than intermediate-task participants in simulation-based inquiry, while intermediate and abstract conditions did not differ significantly](../claims/concrete-task-higher-performance-success-than-intermediate.md) [~W]
 - [The argument that education should appeal chiefly to sight because most sensory experience is visual is contrary to accepted psychological principles](../claims/visual-sensation-argument-unsound.md) [+W]
+- [Neither the wiring board nor the diagram improved learning of basic principles of electricity, supporting the conclusion that manifestations of electrical phenomena are not necessary to learn Ohm's law](../claims/phenomena-not-necessary-ohms-law.md) [+W]
 
 ## Related Theories
 

@@ -49,3 +49,4 @@ Qualitative and survey findings from the earlier pilot version of C3-IoC, a mixe
 - [Individuals involved in technology exposure and exploration programs are more likely to pursue or enroll in technology-related education and training](exposure-programs-increase-tech-pursuit.md) — related
 - [User trial participants rated the C3-IoC system positively for usability, with the Job roles map and Job roles overview the highest-rated components](c3-ioc-user-trial-usability-positive.md) — related
 - [The post-study survey instrument showed high internal consistency (alpha = 0.90)](cyberagents-survey-alpha-090.md) — related
+- [Prototype functionalities moderately encouraged reflection on study goals, but perceived added value was limited and regular use was uncertain](idsa-reflection-encouraged-but-limited-added-value.md) — related

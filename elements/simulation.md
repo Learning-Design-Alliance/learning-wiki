@@ -14,7 +14,7 @@ generated:
 # Simulation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 68 claims (37 for, 27 mixed, 4 against) · 62 studies (17 review, 16 causal, 13 quant-synthesis, 7 design, 4 qualitative, 3 theoretical, 2 associational), `q1`–`q4` · 14 of 62 report an effect size · 58 claims rest on one study
+> **Evidence** · 70 claims (39 for, 27 mixed, 4 against) · 64 studies (18 review, 16 causal, 13 quant-synthesis, 8 design, 4 qualitative, 3 theoretical, 2 associational), `q1`–`q4` · 14 of 64 report an effect size · 60 claims rest on one study
 
 ## Description
 A simulation is an interactive model of a real or hypothetical system — physical, biological, economic, social, or procedural — in which learners take actions, observe the consequences, and adjust their approach. Unlike a [Demonstration](demonstration.md), which presents expert performance for observation, a simulation makes the learner the actor, embedding practice inside a simplified environment where errors are safe and consequences are visible.
@@ -123,6 +123,8 @@ Simulations support learning by making system dynamics explorable: learners buil
 - [In an authentic vocational classroom setting, a lesson orchestrated around an iVR serious game produced significantly stronger factual knowledge gains than a student video design control group](../claims/ivr-authentic-classroom-factual-knowledge-gains.md) [+M] — attached 2026-10-28 from P. Spangenberger et al. (2025), which proposed "MARLA: a curriculum-aligned iVR serious game for offshore wind energy troubleshooting"; tests this page's relationship.
 - [No difference in troubleshooting transfer (flashlight task) between the iVR and control groups](../claims/ivr-authentic-classroom-no-transfer-difference.md) [-W]
 - [Patient simulation is the most prevalent role in higher education, concentrated in medical training contexts](../claims/higher-education-patient-simulator-role.md) [~W]
+- [An LX design integrating an immersive VR simulation in an inquiry-based Physics learning environment was enacted with 109 high-school students and evaluated for conceptual learning gains](../claims/lx-design-immersive-vr-special-relativity-109-students.md) [+W] — attached 2026-10-29 from Yiannis Georgiou et al. (2023), which proposed "Immersive VR simulation of the Special Theory of Relativity for high-school Physics".
+- [Simulated embodied experience in a virtual environment accelerated Chinese vocabulary learning more than a traditional web-based context](../claims/ve-context-accelerates-chinese-vocabulary-learning.md) [+W]
 
 ## Design Decisions
 <!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice

@@ -49,3 +49,4 @@ Descriptive account of the study's design as printed: oral English development o
 - [Between-class accuracy differences were not correlated with performance on listening comprehension tests](accuracy-differences-uncorrelated-listening-comprehension.md) — related
 - [Between-class differences in structural accuracy were attributed, with some evidence, to differences in teachers' form-focused instruction](form-focused-instruction-explains-class-accuracy-differences.md) — related
 - [Comprehensible input alone is insufficient for acquisition of high levels of grammatical proficiency](comprehensible-input-insufficient-grammar-acquisition.md) — related
+- [Collaborative models in Second Life positively influenced French learners' speaking capability and inter-peer collaboration](second-life-collaboration-french-speaking.md) — related

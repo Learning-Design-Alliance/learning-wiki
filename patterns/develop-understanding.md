@@ -15,7 +15,7 @@ grain_size: lesson
 # Develop Understanding
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 33 claims (15 for, 16 mixed, 2 against) · 45 studies (21 causal, 9 review, 8 quant-synthesis, 4 theoretical, 2 qualitative, 1 associational), `q1`–`q4` · 8 of 45 report an effect size · 25 claims rest on one study
+> **Evidence** · 34 claims (16 for, 16 mixed, 2 against) · 46 studies (21 causal, 9 review, 8 quant-synthesis, 4 theoretical, 3 qualitative, 1 associational), `q1`–`q4` · 8 of 46 report an effect size · 26 claims rest on one study
 
 ## Description and scope
 
@@ -118,6 +118,7 @@ Claims this page cited before the 2026-10-05 rewrite and not used as core eviden
 - [Definitions, checkpoints, and staged pacing improved conceptual clarity for novice programmers](../claims/checkpoints-and-definitions-improved-clarity.md) [+W] — attached 2026-10-11 from Towards SocratiCode: Designing a Generative AI-Based Programming Tutor for K-12 Students t, which proposed "Socratic prompt structure with pauses, checkpoints, hints before solutions, and hard stopping points"; tests this page's relationship.
 - [Closed-book prompts reduce immediate posttest performance only when learners were not prompted to actively process the instructional explanations](../claims/closed-book-prompts-lower-immediate-posttest-without-active-processing.md) [~M] — attached 2026-10-18 from Sara Hiller · Stefan Rumann · Kirsten Berthold · Julian Roelle (2020), which proposed "When prompting self-explanations of examples, prefer open-book prompts or add active processing of instructional explanations before closed-book prompts".
 - [Active processing of instructional explanation prompts increase coverage of main content items](../claims/active-processing-prompts-increase-main-content-coverage.md) [+M] — attached 2026-10-18 from Sara Hiller · Stefan Rumann · Kirsten Berthold · Julian Roelle (2020), which proposed "When prompting self-explanations of examples, prefer open-book prompts or add active processing of instructional explanations before closed-book prompts".
+- [Students showed growth in representational competence and conceptual understanding of particle motion across an online sequence of representational challenges](../claims/online-rca-growth-particle-motion.md) [+W] — attached 2026-10-29 from Cirkony et al. (2022), which proposed "Sequence representational challenges before introducing scientific explanations in online representation-focused units".
 
 ## Illustrative design instance and observation record
 

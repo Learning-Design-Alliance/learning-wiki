@@ -60,3 +60,4 @@ The review reports, citing Janebi and Haghighatpasand (2019), that an adventure 
 - [Only L1-gloss-L2-ex and L1-in-text-gloss conditions significantly outperform the no-gloss control on all three vocabulary recall tests](gloss-l2-ex-and-in-text-gloss-beat-control-scheffe.md) — related
 - [All three L1 gloss conditions significantly improve immediate vocabulary recall over a no-gloss control in EFL reading](l1-glosses-improve-immediate-vocabulary-recall.md) — related
 - [Practice defined as meaningful language use plus effortful practice of difficult features is beneficial and even essential for second language acquisition](meaningful-effortful-practice-beneficial-essential-l2.md) — related
+- [Scaffolding in a handheld sensor-based vocabulary game significantly improved low-achieving EFL students' motivation and performance](scaffolding-sensor-vocabulary-game-improves-low-achievers.md) — related

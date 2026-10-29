@@ -81,3 +81,4 @@ Case study of one group of four students in an introductory physics tutorial, ba
 - [Linguistic coherence predicts productive collaboration, strengthened by joint visual attention data](linguistic-coherence-predicts-productive-collaboration.md) — related
 - [One student asked for a disciplinary explanation twelve times during a 53-minute problem-solving process without anyone clarifying it sufficiently](twelve-unanswered-conceptual-questions.md) — related
 - [Material arrangement of artifacts (strips centered and ordered by length, worksheets held close) affords and stabilizes the initial pattern of activity; later decentralization enables new patterns](material-arrangement-affords-stability.md) — related
+- [Early introduction of a scientific video appeared to constrain students' representations, which they applied without adjusting for new contexts](early-scientific-video-constrained-representations.md) — related

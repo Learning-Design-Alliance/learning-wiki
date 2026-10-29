@@ -57,3 +57,4 @@ Survey and interview data on district information sources show reliance on "peer
 - [Districts engage with edtech products primarily through three scenarios: RFPs, vendor pitches, and peer recommendations](three-edtech-vendor-engagement-scenarios.md) — related
 - [District teams struggled to produce rigorous, reliable evidence for assessing their improvement work](districts-struggled-with-evidence-rigor.md) — related
 - [Without clear quality signals, district boards default to the lowest bid when comparing edtech products](lowest-bid-default-without-quality-signals.md) — related
+- [Higher education educational technology decision-makers rarely use externally-produced, scientifically-rigorous research, which was mentioned in less than 20% of interviews](edtech-decisions-rigorous-external-research-under-20-percent.md) — related

@@ -45,6 +45,7 @@ The review's synthesis of the literature identifies leadership as central to dig
 
 
 ## Related Claims
+
 - [Leaders at city, central office, and school levels are perceived to play a key role in promoting cross-sector collaboration](leaders-key-to-cross-sector-collaboration.md) — related
 - [Intensive training and residency programs for school leaders helped facilitate sharing of best practices, but some schools had not progressed to implementing the shared practices](leader-training-residency-facilitated-practice-sharing-but-implementation-lagged.md) — related
 - [Improving schools secured external resources aligned with a development agenda and employed them strategically, and cultivated strong distributive leadership with a make-or-break principal role](aligned-resources-and-distributive-leadership-distinguish-improving-schools.md) — related
@@ -56,3 +57,4 @@ The review's synthesis of the literature identifies leadership as central to dig
 - [Teacher leaders can play a valuable role in supporting the professional learning of their colleagues](teacher-leaders-support-colleague-professional-learning.md) — related
 - [Faculty advisors and mentors are considered pivotal in promoting doctoral students' development as responsible and ethical researchers](faculty-mentors-pivotal-responsible-research-development.md) — related
 - [Organisational structures play a pervasive moderating role in the relationship between teacher social capital and its outcomes](organisational-structures-moderate-teacher-social-capital.md) — related
+- [Leadership and teaching quality monitoring are positively related to faculty's behavioral intention for online teaching, while strategic planning is not](leadership-tqm-behavioral-intention.md)

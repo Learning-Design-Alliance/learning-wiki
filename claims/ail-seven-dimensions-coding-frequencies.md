@@ -53,3 +53,4 @@ Integrative literature review with iterative open and axial coding by two indepe
 - [Existing legal and sector guidance each address only part of ethical learning analytics governance, and none integrates all six LEAGUE dimensions](existing-guidance-partial-ethical-coverage.md) — related
 - [Ethical reflection is often addressed separately from technical and creative AI activities, showing weak co-occurrence with Social Reasoning (42%), Using AI (41%) and Creating with AI (55%)](ethics-weakly-integrated-with-technical-creative-ai-activities.md) — related
 - [Technical reframings of AIED criticism fail to address the fundamental political questions](technical-fixes-miss-political-questions.md) — related
+- [The NIST dimensions were recontextualized from organizational to child-oriented applications as a pedagogically sequenced learning pathway](nist-dimensions-recontextualized-child-learning-pathway.md) — related

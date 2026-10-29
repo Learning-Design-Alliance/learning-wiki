@@ -51,3 +51,4 @@ User-study participants reviewed and corrected the system's predicted emotions i
 - [Text-based emotional expression in student responses showed no statistically significant differences between Emotion ON and OFF conditions](no-textual-emotion-difference-emotion-on.md) — related
 - [Adding student-emotion information to LLM tutor prompting produces more desirable pedagogical qualities across most evaluated dimensions, with larger models benefiting most](emotion-aware-prompting-improves-pedagogical-quality.md) — related
 - [Facial expression recognition of six basic emotions via FACS can detect learner emotional states in real time](facs-six-basic-emotions-detection.md) — related
+- [An intelligent affective tutoring system recognizing facial expressions reduced anxiety and improved Japanese learning](affective-tutoring-reduces-japanese-learning-anxiety.md) — related

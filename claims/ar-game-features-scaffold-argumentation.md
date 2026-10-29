@@ -49,3 +49,4 @@ This is the authors' interpretive argument (type e) from the abstract, not a tes
 - [Student argument quality in the game showed limits: one group discarded a hypothesis despite evidence still partially supporting it](mercury-case-hypothesis-discarding-limit.md) — a narrower finding that bears on this claim
 - [Argumentation Improves Reasoning](argumentation-improves-reasoning.md) — a broader claim this one bears on
 - [Game structures, role playing, and the physical environment are identified as factors shaping students' thinking in AR game play](ar-game-structure-role-environment-shape-thinking.md) — related
+- [Scaffolding in a handheld sensor-based vocabulary game significantly improved low-achieving EFL students' motivation and performance](scaffolding-sensor-vocabulary-game-improves-low-achievers.md) — related

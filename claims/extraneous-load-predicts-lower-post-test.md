@@ -57,3 +57,4 @@ OLS regression on the classroom study's post-test scores with cognitive-load que
 - [ADA use shows a modest non-significant tendency toward increased intrinsic and extrinsic cognitive load, contrary to prior chatbot research](ada-cognitive-load-slightly-increased-non-significant.md) — related
 - [Students using ChatGPT 3.5 experience lower extraneous cognitive load than students using Google during a web research task](llm-search-lower-extraneous-cognitive-load.md) — related
 - [SRL skills and prior knowledge predict revision performance, while SRL predicts higher and prior knowledge lower cognitive load](learner-characteristics-predict-ai-collaboration-outcomes.md) — related
+- [Collaborative note-takers also report higher extraneous cognitive load than controls](collaborative-note-taking-higher-extraneous-load.md) — related

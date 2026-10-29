@@ -47,3 +47,4 @@ Abductive thematic analysis of four placement students' Gibbs-cycle reflective r
 - [Deeper co-leadership emerges when staff support lets partners progressively take on responsibility, but recedes when staff carry the process](calibrated-support-co-leadership.md) — related
 - [Students' evaluative judgment of cGPT responses shifted from strict principle compliance toward contextual appropriateness](evolving-evaluative-judgment-cgpt-responses.md) — related
 - [Teachers observe AI tools foster students' scientific identity and agency, shifting them from knowledge learners toward scientific practitioners](ai-fosters-scientific-identity-agency.md) — related
+- [Learning by creation shifts learners from consumers to creators of learning content and increases their awareness of taking learning ownership](learning-by-creation-increases-ownership-awareness.md) — related

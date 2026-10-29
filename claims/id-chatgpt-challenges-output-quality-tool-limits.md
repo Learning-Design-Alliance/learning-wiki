@@ -54,3 +54,4 @@ Inductive thematic analysis of challenge responses (N = 26) identified three the
 - [Students' main AI challenges are content reliability and depth, and most expect AI to serve as tutor, creative partner, and critical thinking partner rather than mere content generator](student-critical-ai-role-expectations.md) — related
 - [Teachers report concerns about infrastructure, reliability, age appropriateness, teacher competence, and student over-reliance on AI](teacher-constraints-responsible-ai-integration.md) — related
 - [Faculty focus groups raised concerns about authenticity, validity, and reliability of ChatGPT-generated SBMCQs, including cultural and linguistic bias](faculty-fgd-concerns-chatgpt-sbmcq-quality.md) — related
+- [IDs expressed quality concerns over GenAI-generated content, including bias, inaccuracy, hallucinations, and lack of authenticity](genai-quality-concerns-bias-hallucination.md) — a broader claim this one bears on

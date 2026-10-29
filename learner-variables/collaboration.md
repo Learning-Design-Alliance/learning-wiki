@@ -13,7 +13,7 @@ generated:
 # Collaboration
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 51 claims (40 show a difference, 6 mixed, 5 no difference) · 45 studies (12 review, 10 causal, 9 qualitative, 6 associational, 4 design, 4 theoretical), `q1`–`q3` · 3 of 45 report an effect size · 51 claims rest on one study
+> **Evidence** · 57 claims (43 show a difference, 8 mixed, 6 no difference) · 50 studies (14 causal, 12 review, 10 qualitative, 6 associational, 4 design, 4 theoretical), `q1`–`q3` · 4 of 50 report an effect size · 57 claims rest on one study
 
 ## Description
 Collaboration is the ability to work with a diverse group toward a common goal: putting forward one's own ideas, listening to others' thoughts and needs, being flexible and compromising, and sharing responsibility for the result. It is measured in several ways, including observation, self-report, rating scales, standardised measures and performance tasks.
@@ -93,6 +93,12 @@ It overlaps with [social awareness and relationship skills](social-awareness-and
 - [Greater percentage of off-task time predicts lower post-task group-work quality ratings](../claims/off-task-time-predicts-lower-groupwork-ratings.md) [+W] — learners who differ on it differ in outcomes
 - [Later research reported that students collaborated better and learned more when their collaborative work was monitored](../claims/monitoring-improves-collaboration-and-learning.md) [+M] — instruction changes it
 - [Maker education can promote STEM-related learning outcomes, collaboration, and empathy](../claims/maker-education-benefits-claim.md) [+M] — instruction changes it
+- [AI-GFCA students report better peer interaction, collaboration, form of interaction and provision of peer feedback, but reception of peer feedback does not differ](../claims/ai-gfca-interaction-mindset.md) [~M] — instruction changes it
+- [Collaborative and non-collaborative note-takers show no significant difference in intrinsic cognitive load](../claims/collaborative-note-taking-no-intrinsic-load-difference.md) [-M] — learners who differ on it differ in outcomes
+- [Collaborative models in Second Life positively influenced French learners' speaking capability and inter-peer collaboration](../claims/second-life-collaboration-french-speaking.md) [+M] — instruction changes it
+- [In an experimental study with 136 fourth to sixth graders, groups working with a knowledge-sharing worksheet participated more equally, spent more dialogue on topic content, and gave more theoretical explanations than unsupported groups](../claims/worksheet-improves-heterogeneous-group-dialogue.md) [+M] — instruction changes it
+- [Productive failure instructional design in a seamless learning environment increased elementary students' collaborative problem-solving competency in science](../claims/productive-failure-seamless-collaborative-problem-solving.md) [+M] — instruction changes it
+- [Within collaborative note-takers, amount of collaboration correlates significantly with germane load but not extraneous load](../claims/collaboration-amount-correlates-germane-not-extraneous.md) [~M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Measuring Student Collaboration** (Evans et al., 2020): a guide to collaboration measures of several types: observation, self-report, rating scales, standardised measures and performance assessments.

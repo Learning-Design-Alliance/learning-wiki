@@ -40,7 +40,8 @@ The authors recommend designing dual-language e-books with "synchronized dual-ch
 - [Multimedia Learning Attention Guiding E Book Framework](../theories/multimedia-learning-attention-guiding-e-book-framework.md)
 
 ## Related Strategies
-- 
+
+- [Use a stylus rather than finger touch as input for young children's tablet tasks, and enlarge clickable touch targets beyond visual object size](stylus-input-enlarged-touch-targets-toddlers.md)
 
 ## Examples
 -

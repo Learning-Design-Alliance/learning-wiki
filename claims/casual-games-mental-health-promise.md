@@ -46,3 +46,4 @@ The review reports, citing Pine and colleagues [2020], a meta-analysis of 13 stu
 - [Casual games show weak to no cognitive benefits compared to other interventions, except for elderly adults and people with specific cognitive impairments](casual-games-weak-cognitive-benefits-except-elderly.md) — related
 - [Pokémon Go play is associated with improved social well-being, belonging, and connection, and reduced anxiety about leaving the house](pokemon-go-social-wellbeing-benefits.md) — related
 - [Mental health, especially depression, is probably the single most decisive factor in refugee language learning](depression-decisive-factor-refugee-language-learning.md) — related
+- [Many students reported stress, anxiety and related wellbeing challenges while studying online, with over 50% of respondents naming stress or anxiety as key challenges](stress-anxiety-over-half-lockdown-students.md) — related

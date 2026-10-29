@@ -13,7 +13,7 @@ generated:
 # Open Educational Resources (The 5Rs)
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 3 studies (3 review), `q2` · 0 of 3 report an effect size · 4 claims rest on one study
+> **Evidence** · 6 claims (4 for, 2 mixed) · 5 studies (4 review, 1 theoretical), `q1`–`q2` · 0 of 5 report an effect size · 5 claims rest on one study
 
 ## Description
 Wiley (2014) argues that "open" in education should be defined by open **licensing**, not open **entry** — a distinction he draws to correct what he saw as damage MOOCs did to the term. The Open University's original 1971 sense of "open" meant anyone could enroll regardless of prior achievement; MIT's 2001 OpenCourseWare initiative added a different meaning — course materials released under a license anyone could freely use. Wiley proposes a concrete test, the **5Rs**, for whether a copyrightable work is genuinely open: it must grant free, perpetual permission to **Retain** (make and keep copies), **Reuse** (use the work as-is in varied contexts), **Revise** (adapt or modify it, e.g. translate it), **Remix** (combine it with other open works), and **Redistribute** (share the original, revisions, or remixes with others). Creative Commons licenses are the most common mechanism for granting all five permissions at once — a Khan Academy video, MIT OpenCourseWare notes, an OpenStax textbook, or a Wikipedia article under CC licensing all pass the 5R test; a MOOC that is free to enroll in but forbids copying, requires registration deadlines, and charges for a credential does not, no matter how many people can access it.
@@ -45,6 +45,8 @@ Wiley frames the value of true 5R openness as "permissionless innovation" (Thier
 - [Synthesized studies of OER in college courses found academic outcomes comparable to traditional textbooks and positive perceptions among students and instructors](../claims/oer-outcomes-comparable-perceptions-positive.md) [~W] — attached 2026-10-28 from Lee et al. (2021), which proposed "Hilton's (2016) 16-study review of OER efficacy and perceptions".
 - [Students using OER save significant amounts of money compared to purchasing commercial textbooks.](../claims/oer-significant-cost-savings-students.md) [+W]
 - [Students using OER took slightly more credits than controls in the Fischer et al. multi-institutional study.](../claims/oer-credits-enrollment-intensity-fischer.md) [+W]
+- [Open content wave: learning materials under open copyright licenses permit free copying, editing, and sharing](../claims/open-content-open-license-permissions.md) [+W]
+- [Concerns about whether OER decrease the effectiveness of student learning remain unsolved](../claims/oer-effectiveness-concerns-unsolved.md) [~W]
 
 ## Related Elements
 

@@ -56,6 +56,7 @@ The report recommends that local, state, and federal policymakers ensure princip
 - [Federal policy should invest in high-quality professional learning for educators, prioritizing preparation and professional development designs including teachers teaching teachers](federal-invest-educator-professional-learning.md)
 - [Invest in high-quality, standards-aligned professional development for school leaders, including leaders of color](invest-principal-professional-development.md)
 - [Prioritize professional development access for early-career principals and focus it on instructional leadership to accelerate their effectiveness](prioritize-pd-for-early-career-principals.md)
+- [Support teaching quality monitoring, training, and technical assistance when promoting faculty online teaching](organizational-support-online-teaching-actions.md)
 
 ## Examples
 -

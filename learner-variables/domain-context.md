@@ -13,7 +13,7 @@ generated:
 # Domain Context
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 68 claims (48 show a difference, 15 mixed, 5 no difference) · 61 studies (17 review, 12 qualitative, 11 causal, 8 design, 5 quant-synthesis, 4 associational, 4 theoretical), `q1`–`q4` · 7 of 61 report an effect size · 64 claims rest on one study
+> **Evidence** · 70 claims (50 show a difference, 15 mixed, 5 no difference) · 63 studies (17 review, 12 qualitative, 11 causal, 9 design, 5 quant-synthesis, 5 theoretical, 4 associational), `q1`–`q4` · 7 of 63 report an effect size · 66 claims rest on one study
 
 ## Description
 The sector, role or setting a scenario must be placed in before a learner recognises it as theirs. This is the course-specific dimension: what counts as a recognisable case differs by subject in a way the other dimensions do not. It changes who appears in a scenario and what a task is *about*, not how hard it is — and it is the dimension most likely to be filled with the designer's own context by default.
@@ -109,6 +109,8 @@ The sector, role or setting a scenario must be placed in before a learner recogn
 - [Serious games can provide an authentic physical context and task for professional competencies, though a small number of successful games used neither](../claims/serious-games-authentic-context-task.md) [~M] — instruction changes it
 - [Thematic analysis identified immersion as the dominant theme, with teachers reporting VR could remove physical barriers and provide authentic practice settings for ML2](../claims/vr-themes-immersion-barriers-tours.md) [+M] — instruction changes it
 - [Relevancy and acceptability of mental-health films matter more for learning than the sex of the main character](../claims/relevancy-acceptability-more-important-than-character-sex.md) [+M] — learners who differ on it differ in outcomes
+- [Students and supervisors in medical, veterinary and teacher education perceived the learning-analytics-enhanced E-portfolio as useful for monitoring professional development](../claims/la-eportfolio-perceived-useful-workplace-assessment.md) [+M] — learners who differ on it differ in outcomes
+- [The transition to OBL delivery may situate many teachers as novice learners needing to focus exclusively on context, curriculum, and students](../claims/teachers-as-novice-learners-ob-transition.md) [+W] — instruction changes it
 
 ## The evidence by question
 - *Does setting problems in contexts drawn from learners' interests raise engagement and performance?* [An IES practice-guide presentation recommends personalized problem contexts, asserting without cited studies that students engage more actively and perform better in them](../claims/personalized-problem-contexts-boost-engagement-grades-4-8.md) [+W]

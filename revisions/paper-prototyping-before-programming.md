@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../strategies/paper-prototyping-before-programming.md
+---
+
+# Revision history: [strategies/paper-prototyping-before-programming](../strategies/paper-prototyping-before-programming.md)
+
+### 2026-10-29 · ingest · process:wiki-ingest
+Ingested from jrnl-8c03bc271cc5 (Design mobile computational thinking-integrated mathematics lessons based on the 5E instructional model for primary students) via eval_harness.py + ingest_extractions.py

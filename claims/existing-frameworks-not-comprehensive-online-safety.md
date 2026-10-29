@@ -51,3 +51,5 @@ Stage 1 rapid review appraisal of eight internationally developed frameworks (e.
 - [School-based cyberbullying prevention has the largest review base, with clear findings replicated across multiple reviews](cyberbullying-prevention-reviews-effective-content.md) — related
 - [Adolescents with ASD are described as frequent targets of cyberbullying because they may miss social cues and lack self-advocacy skills](asd-teens-cyberbullying-targets-missed-cues.md) — related
 - [A scoping review found no existing teacher-education digital frameworks include more than passing mention of dispositions or safety/wellbeing considerations](existing-frameworks-omit-dispositions-safety.md) — related
+- [Existing cybersecurity frameworks are inadequate for children aged 8–13 because they target workforce preparation or remain too broad across school ages](existing-frameworks-inadequate-for-ages-8-13.md) — possibly the same claim (merge candidate)
+- [Games and platforms in the reviewed literature most frequently target cyberbullying, privacy and personal information, and netiquette and social media](games-platforms-frequent-topics-cyberbullying-privacy-netiquette.md) — related

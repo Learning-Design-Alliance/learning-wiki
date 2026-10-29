@@ -49,3 +49,4 @@ Post-institute survey of the ten participants (Table 13) reporting implementatio
 - [In a recent survey, 100 percent of polled Academy graduates said they would recommend participation to a colleague](academy-graduates-recommend-survey.md) — related
 - [Behavioural intention to use GenAI tools significantly predicts in-service teachers' self-reported pedagogical digital competence for curriculum planning](bi-predicts-genai-digital-competence.md) — related
 - [A GenAI-integrated professional development program produced significant pre-to-post gains in EAP educators' ethical awareness (d = 0.93) and digital andragogical competence](genai-pd-significant-ethical-awareness-gains.md) — related
+- [Participants report strong future engagement intentions and high enjoyment of the e-textile STEAM PD program](e-textile-pd-future-engagement-satisfaction.md) — related

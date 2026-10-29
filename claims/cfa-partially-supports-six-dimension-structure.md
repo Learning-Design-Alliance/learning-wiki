@@ -50,3 +50,4 @@ A survey study of N = 480 vocational school teachers in Germany using confirmato
 - [Perceived AI competence is best modeled as a latent factor over four dimensions after removing PF and AT](single-factor-model-without-pf-and-at.md) — related
 - [An ACO-derived 12-item short form (GenAI-SRL-12) retains the full scale's factor structure, reliability, and construct equivalence](genai-srl-12-short-form-retains-psychometrics.md) — related
 - [The self-report measure supports a refined 13-item, four-factor model with good fit](sr-measure-four-factor-cfa.md) — related
+- [Confirmatory factor analysis with 448 secondary students showed the 32-item SAICS measurement model has good fit and high validity and reliability](saics-cfa-good-model-fit-448-students.md) — related

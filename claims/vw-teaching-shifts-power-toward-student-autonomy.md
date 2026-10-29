@@ -50,3 +50,4 @@ Thematic analysis of lecturer interviews in the same qualitative study. The auth
 - [Virtual-world-based teaching helped lecturers deliver courses more interactively than pure online video-based modes during the pandemic.](vw-more-interactive-than-video-only-mode.md) — related
 - [Transitioning between face-to-face and virtual-world teaching is a non-linear, alternating process that reshapes lecturers' identity and agency.](vw-transition-nonlinear-reshapes-identity-agency.md) — a broader claim this one bears on
 - [In web-based high-school distance education, e-teachers widened the object of their teaching activity toward more independent and engaged forms of learning](e-teachers-widen-object-toward-independent-learning.md) — related
+- [Creating 3D virtual worlds in the Build & Show platform enhanced fifth graders' learning autonomy over four months](build-and-show-enhanced-autonomy.md) — a narrower finding that bears on this claim

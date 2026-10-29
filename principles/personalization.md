@@ -27,7 +27,7 @@ sources:
 # Personalization
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 96 claims (53 for, 36 mixed, 7 against) · 99 studies (31 review, 23 causal, 12 theoretical, 10 associational, 9 qualitative, 9 design, 5 quant-synthesis), `q1`–`q4` · 8 of 99 report an effect size · 91 claims rest on one study
+> **Evidence** · 97 claims (53 for, 36 mixed, 8 against) · 100 studies (31 review, 23 causal, 13 theoretical, 10 associational, 9 qualitative, 9 design, 5 quant-synthesis), `q1`–`q4` · 8 of 100 report an effect size · 92 claims rest on one study
 
 ## Conditional relationship
 
@@ -175,6 +175,7 @@ Claims this page cited that were re-read against the model (on 2026-10-15, and a
 - [Adaptive hyperbooks can ameliorate discontinuous conceptual and narrative flow during flexible navigation](../claims/adaptive-hyperbooks-ameliorate-discontinuous-flow.md) [+W] — attached 2026-10-27 from Tom Murray (2003), which proposed "Provide flexible, adaptive on-line learning material to support opportunistic active reading"; tests this page's relationship.
 - [Log data from Next-TELL OLM use in three schools showed differences in visualisation usage among learners and teachers](../claims/next-tell-log-data-visualisation-usage-differences.md) [+W] — attached 2026-10-28 from Susan Bull et al. (2016), which proposed "Offering a choice of learner model visualisations to suit purpose, competency-set size and user preference".
 - [Consistent student models reduce learning problems and raise average performance, supporting reuse of student models across courses](../claims/consistent-model-improves-performance.md) [+W] — attached 2026-10-28 from Fabiano Dorça (2015), which proposed "Reuse consistent student models across courses and platforms to improve adaptation from the start"; tests this page's relationship.
+- [Guidance tools in CoSIL increased ease of use but failed to personalize support to individual students, as reported by the reviewed literature](../claims/cosil-guidance-ease-of-use-not-personalized.md) [-W] — attached 2026-10-29 from Zhai (2021), which proposed "Personalize CoSIL guidance to individual students, because guidance is critical to student success in computer-supported inquiry learning".
 
 ## Objective and learner-valued goal
 

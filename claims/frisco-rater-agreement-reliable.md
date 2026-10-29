@@ -78,3 +78,4 @@ Reliability analysis of essay scoring by three high school physics teachers of 1
 - [The proposed AES system predicts holistic essay scores through predicted rubric scores, achieving a QWK of 0.78, competitive with cutting-edge AES tools reporting 0.77–0.81](aes-holistic-qwk-078-competitive.md) — related
 - [Kappa agreement with human experts shows a system is neither much worse nor much better than experts, but not that experts are a desirable comparison basis](kappa-expert-agreement-limits.md) — related
 - [Learning-tip-to-lecture-topic coding by seven coders reached an overall agreement of 0.87 (Cohen's Kappa)](topic-coding-agreement-087.md) — related
+- [An automated scoring engine matched experienced human markers yet was rejected over the confidentiality-explainability conflict](crase-scoring-equivalent-to-human-markers-rejected.md) — related

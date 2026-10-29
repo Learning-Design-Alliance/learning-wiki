@@ -55,3 +55,4 @@ The paper cites a University of Pennsylvania Graduate School of Education study 
 - [Median student engagement with MOOC videos falls sharply as video length increases beyond 6 minutes](video-length-mooc-engagement-declines.md) — related
 - [Guo et al. found engagement depends on video production style: short videos, talking heads on slides, Khan-style drawing more engaging than slides or coding, classroom recording weak online](guo-video-style-engagement-findings.md) — related
 - [MOOC certificate purchasing is rare: under 1% of enrolled learners purchase, with completion around 10%](mooc-purchase-rate-under-one-percent.md) — related
+- [The 2007 open course design allowed anyone to participate and prefigured the first MOOC](open-course-design-prefigured-moocs.md) — related

@@ -62,9 +62,11 @@ AR's learning benefit comes primarily from externalizing abstract or spatially c
 6. [Provide feedback](../elements/provide-feedback.md) on students' interpretations of the AR content, not just on task completion
 
 ## Related Strategies
+
 - [Simulation-based learning](../strategies/simulation-based-learning.md) — AR is one delivery mechanism for simulation; the same design principles for guided vs. exploratory simulation apply
 - [Gamification](../strategies/gamification.md) — AR apps frequently embed game mechanics; the same caveats about extrinsic motivation apply
 - [Flipped classroom](../principles/flipped-learning.md) — AR exploration can serve as the in-class active segment after content exposure
+- [Embed QR codes in student textbooks as an augmented reality entry point to enhance performance](qr-codes-in-textbooks-as-ar-strategy.md)
 
 ## Related Elements
 - [Demonstration](../elements/demonstration.md) — AR overlays can deliver annotated, spatially anchored demonstrations of processes

@@ -63,3 +63,4 @@ Conclusion drawn from the study's consultations and implementation case study; t
 - [Online environments function as virtual youth centres and hubs for bonding and bridging social capital](online-relatedness-virtual-youth-centres-social-capital.md) — related
 - [External feedback from supervisors, tutors, and peers supports students' completion and accuracy of self-assessment, with high achievers more likely to use tutor feedback](external-feedback-supports-self-assessment-implementation.md) — related
 - [Community-only peer review carries stated risks of echo chambers, bullying, and uneven resources](community-peer-review-risks.md) — related
+- [Lack of interpersonal engagement, interaction and collaboration, plus reduced social contact and isolation (45%), negatively impacted many students' online learning experience](lost-interaction-community-lockdown.md) — related

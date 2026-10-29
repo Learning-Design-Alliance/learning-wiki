@@ -59,3 +59,4 @@ Conceptual argument citing fairness and AI-literature (e.g., Barocas et al., 202
 - [AI ethics can serve as a compelling entry point for teacher AI education, increasing teacher confidence and engaged classroom discussions](ai-ethics-entry-point-teacher-training.md) — related
 - [Human judgement is central to accurate and ethical human-AI knowledge building](human-judgement-central-ai-knowledge-building.md) — a broader claim this one bears on
 - [Pessimistic Evaluators' foremost concern is misleading, inaccurate, or biased ChatGPT-generated information](pessimistic-evaluators-misleading-information-concern.md) — related
+- [IDs expressed quality concerns over GenAI-generated content, including bias, inaccuracy, hallucinations, and lack of authenticity](genai-quality-concerns-bias-hallucination.md) — related

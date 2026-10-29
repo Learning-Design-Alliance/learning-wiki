@@ -51,6 +51,7 @@ Drawing on the converging gaps across the reviewed literature, the review recomm
 - [Pursue future research on ChatGPT in higher education to fill the gaps the scoping review identifies](chatgpt-he-future-research-directions.md)
 - [Integrate autonomy and agency paradigms, standardise instruments, probe non-demographic moderators, and extend evaluations to longitudinal real-world settings](integrate-paradigms-longitudinal-hri-autonomy-research.md)
 - [Prioritize construct-to-data mappings, multimodal validation, ethical implementation, and cross-disciplinary collaboration for domain-specific adaptive systems](domain-specific-adaptivity-research-priorities.md)
+- [Prioritize longer-term longitudinal studies and analysis of learners' virtual-world behaviors for SLA research](longitudinal-virtual-world-sla-research-agenda.md)
 
 ## Examples
 -

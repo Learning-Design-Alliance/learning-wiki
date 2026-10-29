@@ -49,3 +49,4 @@ Quasi-experimental analysis of dyadic posttest scores from two intact fourth-gra
 - [The manipulation worked as intended: I-PS students largely succeeded on the problem-solving sheets while PS-I students largely failed](ps-i-manipulation-check-problem-solving-sheets.md) — related
 - [Productive failure: student groups who score lower on individual post-tests may have experienced deeper learning leading to superior future performance](productive-failure-deeper-learning-lower-posttests.md) — related
 - [Productive Failure Improves Conceptual Learning](productive-failure-improves-conceptual-learning.md) — a broader claim this one bears on
+- [Knowledge gains occur in all conditions; collaboration shows no significant advantage, and the no-tool control group outperforms both tool conditions on interrelations and the annotation condition on transfer](enhanced-tools-no-conceptual-understanding-advantage.md) — related

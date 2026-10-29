@@ -56,3 +56,4 @@ Grounded-coding finding from the Delphi panel: "Over half the panel (55%)" expli
 - Researchers may need to treat all remotely collected data as potentially identifiable personal data — related
 - [Institutions diverge in tooling strategy between protected, institutionally hosted AI environments and consumer tools governed by risk controls](genai-tooling-strategy-divergence.md) — related
 - [Equitable access emerged as a prominent governance theme, with one-third of panelists explicitly mentioning equity or inclusion](genai-equitable-access-governance-theme.md) — related
+- [IDs raised data security, privacy, authorship, ownership, and plagiarism concerns, noting a lack of guidelines and policies for ethical GenAI use](genai-data-security-authorship-policy-gaps.md) — possibly the same claim (merge candidate)

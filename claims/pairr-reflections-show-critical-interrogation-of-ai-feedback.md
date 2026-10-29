@@ -58,3 +58,4 @@ Thematic coding of a representative sample of 131 student reflections on peer an
 - [Students rate human-generated feedback as superior to AI-generated feedback in quality, helpfulness, and clarity, and as more likely to be acted upon](human-feedback-rated-superior-to-ai-feedback.md) — related
 - [Assessing AI feedback within PAIRR helped students develop AI literacy and writerly agency, with very few showing overconfidence in AI](assessing-ai-feedback-builds-ai-literacy-and-agency.md) — possibly the same claim (merge candidate)
 - [Students hold cautious trust in the course-specific RAG system, expressing some level of trust but not treating it as an authoritative source and indicating they would verify important information](cautious-trust-in-course-specific-rag.md) — related
+- [Educators prioritize contextual reflection, agency, and self-expression as maker competencies](makerspace-contextual-reflection-agency-competency.md) — related

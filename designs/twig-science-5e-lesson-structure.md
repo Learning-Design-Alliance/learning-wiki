@@ -41,7 +41,9 @@ Twig Science organizes instruction around the 5E model, which the summary spells
 - 
 
 ## Related Designs
+
 - [Twig Science Curriculum K 8](../products/twig-science.md)
+- [5E instructional model structuring mobile app development mathematics lessons in five stages](5e-model-mobile-ct-math-lessons.md)
 
 ## Examples
 -

@@ -47,3 +47,4 @@ Documented design decision from the wider feedback and review stage (Section 4.7
 ## Related Claims
 - [SAIL embeds Indigenous and cultural perspectives as integral competencies across all domains and levels rather than as add-ons](indigenous-perspectives-integral-across-sail-levels.md) — related
 - [A three-round Delphi study with 17 experts from education, industry, and cultural expertise produced the SAIL AI literacy framework](sail-framework-produced-by-three-round-delphi-study.md) — a broader claim this one bears on
+- [A three-round Delphi study with 29 K-12 AI teachers produced an eight-dimension, 32-item student AI competency framework at a 75% agreement level](delphi-eight-dimension-student-ai-competency-framework.md) — related

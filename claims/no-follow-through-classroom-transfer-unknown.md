@@ -49,3 +49,4 @@ Authors' stated limitation of the pretest-posttest project: no follow-up measure
 - [Preservice special educators in the 2008 cohort showed significant pretest-to-posttest knowledge gains after the 6-week co-taught literacy unit](2008-cohort-significant-literacy-knowledge-gains.md)
 - [Preservice special educators in the 2009 cohort showed significant pretest-to-posttest knowledge gains, with instruction replicated consistently across years](2009-cohort-significant-literacy-knowledge-gains.md)
 - [Whether strategy instruction works better in authentic content-area tasks is untested, and the one meta-analytic comparison recorded found larger gains in strategic ability in language-arts than in content-area classes](learning-strategy-instruction-contextualized-more-effective.md)
+- [Teachers report strong perceived ability to transfer e-textile STEAM learning to classrooms, with art integration the weakest dimension](e-textile-pd-transfer-confidence.md) — related

@@ -76,3 +76,4 @@ Spearman correlation between LLM scores and human mean scores across the 10 disc
 - [AI agent comment patterns include validation (22%) at rates comparable to human peer learning communities, with validation-before-extension sequences structurally resembling collaborative knowledge building](ai-agent-validation-rate-within-human-range.md) — related
 - [Inter-rater reliability between human experts and AI coding is very low](low-irr-experts-vs-ai-coding.md) — reports the opposite
 - [Including supplemental response context in modified inputs was necessary because human raters scored target responses with access to those responses](supplemental-response-context-modified-inputs.md) — related
+- [An automated scoring engine matched experienced human markers yet was rejected over the confidentiality-explainability conflict](crase-scoring-equivalent-to-human-markers-rejected.md) — related

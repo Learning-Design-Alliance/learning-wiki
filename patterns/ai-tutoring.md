@@ -14,7 +14,7 @@ grain_size: course
 # AI Tutoring
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 393 claims (179 for, 161 mixed, 53 against) · 268 studies (98 causal, 59 review, 35 design, 28 theoretical, 19 quant-synthesis, 15 associational, 14 qualitative), `q1`–`q4` · 54 of 268 report an effect size · 377 claims rest on one study
+> **Evidence** · 396 claims (180 for, 163 mixed, 53 against) · 270 studies (99 causal, 60 review, 35 design, 28 theoretical, 19 quant-synthesis, 15 associational, 14 qualitative), `q1`–`q4` · 55 of 270 report an effect size · 380 claims rest on one study
 
 ## Description and scope
 
@@ -374,6 +374,9 @@ This pattern is scoped to the tutor's moves within tasks and the handoff to peop
 - [The introduction reports that the PETAL recursive programming tutor was shown to be highly effective in a 6-week control group study](../claims/petal-effective-six-week-control-study.md) [+W]
 - [The introduction reports that the VCR tutor produced statistically significant performance gains in using the VCR, a rare result for ITSs at the time](../claims/vcr-tutor-significant-performance-gains.md) [+W]
 - [Uncontrolled hint use can considerably reduce students' learning and autonomous solving capacity](../claims/uncontrolled-hint-use-reduces-learning.md) [~W]
+- [The TARDIS system improved at-risk young people's interview answers and verbal and nonverbal behaviours](../claims/tardis-open-learner-model-improved-interview-behaviours.md) [~W]
+- [Chatbot-guided feedback SRL improved university students' learning motivation more than conventional SRL](../claims/srl-cgf-improves-learning-motivation.md) [~W]
+- [Students in the chatbot-assisted SRL condition reported personalized learning opportunities, enhanced reflection, and improved performance in interviews](../claims/srl-cgf-student-perceptions-interviews.md) [+W]
 
 ## Examples
 - [ChatGPT as a virtual laboratory assistant in a sociotechnical system](../designs/sts-theory-chatgpt-virtual-laboratory-assistant.md) — ChatGPT answers lab questions beside human TAs, not in their place

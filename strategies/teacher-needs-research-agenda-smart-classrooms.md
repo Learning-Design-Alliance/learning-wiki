@@ -48,7 +48,8 @@ The article's forward-looking contribution is a design and policy recommendation
 - [Teachers report a burden of daily bureaucratic tasks and a desire to automate them](../claims/teachers-want-bureaucratic-task-automation.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Investigate the cognitive needs of students in CoSIL and integrate content, CoSIL, and guidance tools to advance personalization](investigate-cognitive-needs-integrate-content-cosil-guidance.md)
 
 ## Examples
 -

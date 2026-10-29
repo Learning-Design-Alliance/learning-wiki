@@ -53,3 +53,4 @@ Two-factor ANOVA in a quasi-experimental classroom study of 228 fifth graders le
 - [Prior knowledge moderated the VF-process advantage over PF: the benefit of observing the process grew with prior knowledge, while prior knowledge did not affect post-test performance in the PF condition](prior-knowledge-moderates-vf-process-vs-pf.md) — related
 - [Students observing high-diversity vicarious failure (VF-high) significantly outperform students in VF-low and DI conditions on conceptual knowledge](vf-high-outperforms-vf-low-and-di-conceptual.md) — related
 - [Productive failure before instruction outperforms instruction followed by problem-solving](productive-failure-before-instruction-strong-effect.md) — reports the opposite
+- [Productive failure instructional design in a seamless learning environment increased elementary students' collaborative problem-solving competency in science](productive-failure-seamless-collaborative-problem-solving.md) — related

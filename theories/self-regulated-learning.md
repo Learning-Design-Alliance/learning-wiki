@@ -21,7 +21,7 @@ sources:
 # Self-Regulated Learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 238 claims (107 for, 121 mixed, 10 against) · 176 studies (57 associational, 46 causal, 27 review, 17 quant-synthesis, 15 theoretical, 8 qualitative, 6 design), `q1`–`q4` · 41 of 176 report an effect size · 222 claims rest on one study
+> **Evidence** · 241 claims (109 for, 122 mixed, 10 against) · 178 studies (57 associational, 47 causal, 27 review, 17 quant-synthesis, 15 theoretical, 9 qualitative, 6 design), `q1`–`q4` · 42 of 178 report an effect size · 225 claims rest on one study
 
 ## Description
 Self-Regulated Learning (SRL) explains learning as a cyclical process in which learners set goals, choose strategies, monitor progress, and reflect on outcomes in order to improve later performance. Rather than treating learning as passive reception, SRL emphasizes that effective learners actively manage attention, effort, strategy use, and feedback across time.
@@ -285,6 +285,9 @@ A second, complementary formulation comes from clinical and addiction-behavior r
 - [High SRL students report significantly more immersion and involvement than Medium or Low SRL students](../claims/high-srl-higher-presence-involvement.md) [+W]
 - [High SRL students run significantly fewer tests than Medium or Low SRL students](../claims/high-srl-students-fewer-tests.md) [~W]
 - [Only 10 of 211 SRL scale items were feasible to operationalize as learning analytics indicators in an LMS](../claims/ten-of-211-srl-items-feasible-lms-indicators.md) [-W]
+- [Adult learners report both benefits and challenges when playing ethics board games, and these cluster into 21 benefit and 21 challenge themes across the forethought, performance, and reflection phases of self-regulated learning](../claims/board-game-ethics-benefits-challenges-srl-phases.md) [+W] — attached 2026-10-29 from Zvereva et al. (2026), which proposed "Self-Regulated Learning theory as an analytical framework for mapping benefits and challenges of game-based ethics learning".
+- [In the experimental group, second website performance correlated with motivation, attitude, and SRL while first website performance did not](../claims/second-work-correlates-motivation-attitude-srl.md) [~W]
+- [Chatbot-guided feedback SRL improved university students' multimedia knowledge performance more than conventional SRL](../claims/srl-cgf-improves-multimedia-knowledge-performance.md) [+W]
 
 ## The evidence by question
 

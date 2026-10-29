@@ -27,7 +27,8 @@ An open educational platform established by the European Association of Clinical
 - [Existing digital prescribing-education resources are largely restricted to local universities and unknown to teachers elsewhere, showing little collaboration among CPT educators](../claims/cpt-resources-locally-restricted-little-collaboration.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [eduCommons](educommons.md)
 
 ## Key Sources
 - Bakkum, M. J. et al. (2022). Teaching resources for the European Open Platform for Prescribing Education (EurOP2E)—a nominal group technique study. npj Science of Learning. https://doi.org/10.1038/s41539-022-00141-y

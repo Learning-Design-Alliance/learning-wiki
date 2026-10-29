@@ -51,3 +51,4 @@ The commentary's interpretive argument, citing Cuban, Ames, and Reich: failures 
 - [Technical issues (login scanning, internet connectivity, projector setup, and glitches) frustrated students and created a significant barrier to playlist implementation](technical-issues-barrier-playlist-implementation.md) — reports the opposite
 - [Pepper's classroom operation required frequent teacher supervision in over half of the studies, mainly due to voice recognition and technical failures](pepper-requires-constant-teacher-supervision.md) — reports the opposite
 - [Technical difficulties were the most frequently reported implementation limitation, mentioned in ten of the thirteen studies](pepper-technical-difficulties-most-reported-limitation.md) — reports the opposite
+- [Students integrating QR-code AR into their learning reported no technical issues, attributed to alpha-generation technology familiarity](qr-code-ar-no-technical-issues-alpha-generation.md) — related

@@ -69,3 +69,4 @@ Survey correlational analysis reporting that perceived challenge of the switch w
 - [Few New York charter teachers reported technology challenges during the remote transition (66% of schools said under a quarter of teachers did), with attention and engagement the more common difficulties](teacher-remote-challenges-attention-not-technology.md) — reports the opposite
 - [Faculty dispositions and use of technological affordances for online teaching changed over time during the pandemic](faculty-dispositions-change-over-time-pandemic.md) — related
 - [The Covid-19 pandemic increased the design workload of university teachers as they migrated teaching online](pandemic-increased-design-workload-online-migration.md) — related
+- [Teachers whose difficulties included using virtual tools were those without virtual teaching experience before the COVID period](no-prior-virtual-experience-tool-difficulties.md) — related

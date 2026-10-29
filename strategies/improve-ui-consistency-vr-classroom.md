@@ -41,7 +41,8 @@ The authors' forward-looking recommendation is to improve usability through enha
 - [The system receives a good average usability rating (SUS 69.7, grade B) but with wide individual variation, which the authors take to suggest UI consistency issues](../claims/photon-fusion-sus-good-but-variable-usability.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Phase 3D VR co-creation with scaffolding, preparatory communication training, and analytics-based predictive support](phased-vr-cocreation-scaffolding-strategy.md)
 
 ## Examples
 -

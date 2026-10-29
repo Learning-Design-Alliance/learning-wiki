@@ -9,6 +9,7 @@ generated:
   at: 2026-09-27
 evidence_strength: weak
 newest_evidence: 2013
+source_checked: 2026-10-29
 sources:
   - id: jaeseok-yang-2013
     resource: "https://doi.org/10.5539/elt.v6n7p19"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q2`
-> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2013 · checked against its sources 2026-10-29 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A handheld augmented-reality English learning system using QR codes let students explore a map and retrieve context-aware learning material wirelessly while visiting learning zones. [→ Jaeseok Yang 2013](#jaeseok-yang-2013)
@@ -73,3 +74,6 @@ The review reports Leonidis et al.'s (2012) claim that the SESIL ambient-intelli
 - [Game structures, role playing, and the physical environment are identified as factors shaping students' thinking in AR game play](ar-game-structure-role-environment-shape-thinking.md) — related
 - [The authors of three case studies (roughly 28 students) argue that a place-based augmented reality game, Mad City Mystery, holds potential for engaging students in scientific argumentation](mad-city-mystery-ar-argumentation-cases.md) — related
 - [The effect of mobile game-based learning on learners' engagement and achievement is still to be documented in research](mgb-engagement-achievement-undocumented.md) — related
+- [Students who used QR codes as augmented reality in their education performed at higher levels than students who did not](qr-code-ar-higher-student-performance-saudi.md) — related
+- [Students integrating QR-code AR into their learning reported no technical issues, attributed to alpha-generation technology familiarity](qr-code-ar-no-technical-issues-alpha-generation.md) — related
+- [Scaffolding in a handheld sensor-based vocabulary game significantly improved low-achieving EFL students' motivation and performance](scaffolding-sensor-vocabulary-game-improves-low-achievers.md) — related

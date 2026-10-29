@@ -77,6 +77,7 @@ Scenario-based decision practice converts a social-emotional competency from an 
 5. Close with individual reflection: "How did your group arrive at its decision? What would you do differently next time?" ([Articulation](../elements/articulation.md))
 
 ## Related Strategies
+
 - [Case-based learning](../patterns/case-based-learning.md) — the same scenario-analysis structure applied to academic content
 - [Discussion-based learning](../principles/collaborative-learning.md) — the whole-class sharing phase is a structured instance of it
 - [Role-Play](../strategies/acting-role-play.md) — enacting the scenario adds behavioral rehearsal to the reasoning practice
@@ -84,6 +85,7 @@ Scenario-based decision practice converts a social-emotional competency from an 
 - [Teach workplace problem solving through case studies and role plays with a structured procedure](workplace-problem-solving-role-plays.md)
 - [Use consequence analysis grounded in social science concepts to make ethical administrative choices concrete](consequence-analysis-for-ethical-administrative-choices.md)
 - [Present students with realistic ethical conundrums such as job-search dilemmas earlier in their education](realistic-ethical-conundrums-earlier-education.md)
+- [Design and implement ethics games with attention to facilitation, clarity of instructions, alignment of goals, and social dynamics](ethics-game-design-recommendations-facilitation-goals-social.md)
 
 ## Examples
 - **Second Step (Committee for Children)** (https://www.committeeforchildren.org) — SEL curriculum built around scenario cards and role-plays in which students analyze social dilemmas, decide on responses, and discuss alternatives as a class.

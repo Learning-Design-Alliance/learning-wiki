@@ -56,3 +56,4 @@ Participant-observer analysis of a first-year composition course for internation
 - [A teacher's appropriation of the engineering design process reframed restrictive STEM narratives in her teaching and personal life](teacher-appropriation-of-edp-reframes-restrictive-stem-narratives.md) — related
 - [Students' evaluative judgment of cGPT responses shifted from strict principle compliance toward contextual appropriateness](evolving-evaluative-judgment-cgpt-responses.md) — related
 - [Failure to analyze the broad context is said to lead to failed instructional design initiatives in developing countries](context-analysis-failure-leads-to-failed-initiatives.md) — related
+- [Teacher-guided whole-class discussion and collaborative evaluation of student representations were largely absent from the online unit's implementation](teacher-guided-discussion-limited-online-rca.md) — related

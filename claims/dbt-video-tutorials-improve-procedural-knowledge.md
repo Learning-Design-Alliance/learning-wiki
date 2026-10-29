@@ -48,3 +48,4 @@ Quasi-experimental study of 55 German school students learning Word formatting v
 - [DBT-based video tutorials significantly raise both task relevance and self-efficacy from before to after training](dbt-tutorials-raise-task-relevance-self-efficacy.md) — related
 - [Procedural knowledge gained during video training declines significantly from practice to the post-tests](practice-to-posttest-decline-software-video.md) — related
 - [The demonstration-with-review tutorial outperformed the demonstration-only control on practice, immediate post-test and delayed post-test](review-tutorial-outperforms-demonstration-only.md) — related
+- [Video tutorials produced large learning gains from pre-test to training test, with significant decline at later post-tests and no condition effect](video-tutorials-learning-gains-decline-no-condition-effect.md) — reports the opposite

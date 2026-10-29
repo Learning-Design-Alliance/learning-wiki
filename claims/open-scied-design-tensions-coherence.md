@@ -53,3 +53,4 @@ The synthesis reports, citing Pomian Bogdanov (2022) and Penuel, Rubin, et al. (
 - [OpenSciEd enactment faces key challenges: project fatigue, unit length and pacing, pseudoagency, and gaps in student sensemaking practices](openscied-enactment-challenges-fatigue-pacing-pseudoagency.md) — related
 - [Role identity structure is a fractal-like nested hierarchy whose elements relate through accord or tension](dsmri-role-identity-structure-accord-tension.md) — a broader claim this one bears on
 - [Tensions between teachers' and pupils' perspectives during collaborative learning do not take the form of antagonistic struggles](teacher-pupil-tensions-not-antagonistic.md) — related
+- [Tensions arise when there is a perceived imbalance in the centering of social justice](social-justice-tensions-perceived-imbalance.md) — related

@@ -46,3 +46,4 @@ Two microgenetic case studies of students with cognitive disabilities (Fred and 
 
 ## Related Claims
 - [Students solving bimanual proportion tasks spontaneously develop attentional anchors, such as an imaginary diagonal line, that guide coordinated movement](attentional-anchors-emerge-math-trainer.md) — related
+- [Multimodal communication in virtual worlds makes the boundary between real identity and avatar highly permeable](avatar-real-identity-boundary-permeable.md) — related

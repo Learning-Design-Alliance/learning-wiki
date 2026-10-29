@@ -57,3 +57,4 @@ Reflexive thematic analysis (Braun & Clarke) of open-response reflections collec
 - [EFL learners perceive AI-mediated instruction as engaging, personalized, anxiety-reducing, and empowering for autonomous learning](learner-perceptions-ai-engagement-personalization.md) — related
 - [Students who preferred human tutor feedback cited face-to-face interaction, engagement, follow-up questions, and speaking practice](human-feedback-preference-face-to-face-reasons.md) — related
 - [Students' primary concerns about AI videos are inaccurate information, reduced interaction with educators, and diminished educational value](student-concerns-ai-videos-quality-interaction-value.md) — related
+- [Students in both groups valued the AI speaking app for autonomous practice, and AI-GFCA students reported reduced anxiety and more peer interaction](interview-positive-learning-experience.md) — related

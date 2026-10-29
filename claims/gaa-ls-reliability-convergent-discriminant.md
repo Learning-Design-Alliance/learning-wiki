@@ -56,3 +56,4 @@ Study 2 reliability and validity analysis. "AVE values ranged from .60 to .66, s
 - [The five-dimension structure and scale were validated with 308 graduate students, showing acceptable reliability and validity](scale-validation-308-graduate-students.md) — related
 - [The revised questionnaire shows satisfactory internal consistencies for each cognitive load type across Studies 1 and 2](cognitive-load-questionnaire-satisfactory-internal-consistencies.md) — related
 - [AITAQS dimension reliabilities fall within 0.721–0.745 Cronbach's α, exceeding acceptability thresholds, with all CR values above 0.7 though some AVE values fall below 0.5.](aitaqs-reliability-alpha-cr-ave.md) — related
+- [All eight SAICS dimensions showed high internal consistency (Cronbach's alpha ≥ 0.89), high factor loadings (0.76–0.96), and convergent validity (inter-dimension correlations r > 0.34)](saics-reliability-convergent-validity.md) — related

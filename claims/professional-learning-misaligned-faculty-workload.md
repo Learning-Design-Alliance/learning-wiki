@@ -73,3 +73,4 @@ Focus group evidence: a biweekly 20-minute single-tool session was reported to y
 - KMSD's micro-credential compensation model supported teacher collaboration, with groups of 5 to 60 teachers earning together — reports the opposite
 - [A six-session faculty learning community on AI was implemented in a physics department, engaging nineteen faculty across biweekly meetings](physics-faculty-learning-community-ai-workshop-series.md) — related
 - [Lack of time and heavy workload are organizational barriers to team-based professional development in higher education](time-workload-barriers-team-pd.md) — related
+- [Decision-makers cite barriers to using research: research takes too long relative to fast technology change, and institutions view their students and faculty as unique](barriers-research-timing-and-context-uniqueness.md) — related

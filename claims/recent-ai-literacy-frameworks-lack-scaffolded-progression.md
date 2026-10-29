@@ -49,3 +49,4 @@ Narrative review of 13 AI literacy framework articles from 2023-2024 plus the UN
 - The University of Florida's AI Across the Curriculum framework lacks proficiency levels and guidance for non-technical disciplines — a narrower finding that bears on this claim
 - [A three-round Delphi study with 17 experts from education, industry, and cultural expertise produced the SAIL AI literacy framework](sail-framework-produced-by-three-round-delphi-study.md) — related
 - [Few countries have defined teacher AI competencies or national AI training programmes for teachers](few-countries-define-teacher-ai-competencies.md) — related
+- [A three-round Delphi study with 29 K-12 AI teachers produced an eight-dimension, 32-item student AI competency framework at a 75% agreement level](delphi-eight-dimension-student-ai-competency-framework.md) — related

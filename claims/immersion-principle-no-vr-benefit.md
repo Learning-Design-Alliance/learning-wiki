@@ -63,3 +63,4 @@ Table 6 summary of the author's lab's experimental tests reports the immersion p
 - [Immersive presentation keeps comprehension performance stable across a training session while auditory-only performance decreases toward the end](immersive-training-comprehension-stability.md) — a narrower finding that bears on this claim
 - [VR and video instruction groups reported comparable cognitive load in the anatomy lesson](vr-video-comparable-cognitive-load.md) — related
 - [Prior single-exposure IVR studies show mixed cognitive outcomes: affective gains without cognitive benefits (Parong & Mayer) and short-lived retention gains (Christopoulos)](ivr-single-exposure-mixed-cognitive-outcomes.md) — related
+- [Help-seeking was the only self-regulation construct favored by 3D VR co-creation; the other five constructs were favored by 2D digital co-creation](help-seeking-prominent-in-vr-cocreation.md) — related

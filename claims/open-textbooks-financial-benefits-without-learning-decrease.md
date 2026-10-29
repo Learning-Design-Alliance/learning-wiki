@@ -53,3 +53,4 @@ The commentary reports Hilton's (2016) review synthesizing 16 studies of open te
 - [OER efficacy studies are frequently confounded by simultaneous changes in pedagogy or delivery method.](oer-adoption-confounded-with-pedagogy-change.md) — related
 - [Substituting OER for traditional textbooks does not appear to decrease student learning outcomes in higher education.](oer-no-decrease-student-learning.md) — a narrower finding that bears on this claim
 - [Students using OER save significant amounts of money compared to purchasing commercial textbooks.](oer-significant-cost-savings-students.md) — possibly the same claim (merge candidate)
+- [Concerns about whether OER decrease the effectiveness of student learning remain unsolved](oer-effectiveness-concerns-unsolved.md) — reports the opposite

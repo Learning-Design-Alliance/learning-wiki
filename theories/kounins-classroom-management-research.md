@@ -12,7 +12,7 @@ generated:
 # Kounin's Classroom Management Research
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 associational), `q3` · 1 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 3 claims (2 for, 1 mixed) · 2 studies (1 associational, 1 qualitative), `q2`–`q3` · 1 of 2 report an effect size · 3 claims rest on one study
 
 ## Description
 Where the humanist tradition ([Ginott](ginotts-congruent-communication.md), [Glasser](glassers-choice-theory-and-cooperative-learning.md)) and the applied-behavior-analysis tradition are both largely *reactive* — emphasizing solutions to misbehavior after it occurs — the classroom-management tradition begun by Kounin (1970), and continued by the Research and Development Center for Teacher Education at the University of Texas at Austin (Emmer et al., 1994) and the Institute for Research on Teaching at Michigan State University (Brophy, 1986, 1988), reframed the question of control and warmth in terms of *prevention*. Its research base observed experienced and inexperienced teachers while they taught, and its major conclusion was that the distinction between more and less effective classroom managers can be made more by what they do to *prevent* misbehavior than by how they respond to it.
@@ -43,6 +43,7 @@ Where the humanist tradition ([Ginott](ginotts-congruent-communication.md), [Gla
 
 - [Experts revisited (monitored) more classroom areas showing student interaction, while novices revisited areas lacking classroom activity](../claims/experts-monitor-interaction-areas-novices-salient-areas.md) [+M] — attached 2026-10-18 from Charlotte E. Wolff et al. (2016), which proposed "Professional vision of teaching: knowledge-driven perception of classroom events underpinning withitness"; tests this page's relationship.
 - [Novices skipped more classroom areas than experts in all four videos, missing areas that experts continually monitored](../claims/novices-skip-more-classroom-areas.md) [+M] — attached 2026-10-18 from Charlotte E. Wolff et al. (2016), which proposed "Professional vision of teaching: knowledge-driven perception of classroom events underpinning withitness"; tests this page's relationship.
+- [Ghanaian university teachers managing large virtual classes regulated learner behaviour through preventive measures such as setting rules and punitive measures such as muting or removing disruptive students](../claims/large-virtual-class-behaviour-regulation-preventive-punitive.md) [~W]
 
 ## Related Theories
 - [Ginott's Congruent Communication](ginotts-congruent-communication.md) — a reactive, communication-focused approach that Kounin's tradition explicitly contrasts itself with by emphasizing prevention instead

@@ -65,6 +65,7 @@ Rubrics make quality criteria visible, converting tacit evaluative standards int
 - [Self-Assessment](../elements/self-assessment.md) — rubrics are the primary tool learners use to evaluate their own work
 - [Assess disruption and reclamation with rubric levels of adaptability and automated disruption-reclamation profiles](assess-disruption-reclamation-adaptability.md)
 - [Use rubrics to make assessment criteria and performance levels explicit so students can regulate their learning](rubrics-transparency-support-self-regulation.md)
+- [Apply seventeen evidence-based design guidelines when developing formative assessment with analytic rubrics for complex skills](seventeen-design-guidelines-analytic-rubrics.md)
 
 ## Examples
 - **[Exemplars](https://www.exemplars.com)** — publishes performance tasks with rubrics and annotated student work samples, used in K–12 mathematics and science to make quality criteria concrete.

@@ -52,3 +52,4 @@ Sociogram and centrality analysis (in-/out-degree, UCINET) of interaction patter
 - [Primary students' wiki negotiation contains collaboration and reasoning keywords distributed throughout the interaction](wiki-negotiation-collaboration-reasoning-keywords.md) — related
 - [The NLC with the experienced teacher showed higher and more stable network density than the beginner's NLC, whose density dropped from 36% to 26% in the end phase](nlc1-higher-stable-density-than-nlc2.md) — related
 - [In informal social scenes, AgentSchool generates plausible traces of peripheral participation, clique formation, aggressor-induced cohesion, and opinion-leader emergence consistent with classroom social theories](informal-social-scenes-emergent-traces.md) — related
+- [3D VR co-creation forms a more connected, centralized, and reciprocal aggregate social network with fewer cliques than 2D digital co-creation](vr-cocreation-denser-more-centralized-networks.md) — related

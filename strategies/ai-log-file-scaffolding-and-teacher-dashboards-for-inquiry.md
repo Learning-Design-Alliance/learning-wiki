@@ -47,7 +47,8 @@ The article recommends building on log-file analytics to design guidance for inq
 - [Successful low-prior-knowledge inquiry learners managed cognitive load by exploring simple circuits first and pausing during learning](../claims/cognitive-load-management-in-inquiry-simulation-learning.md) [~W]
 
 ## Related Strategies
-- 
+
+- [Use log-file data and stakeholder-access research to refine learning-analytics feedback](logfile-and-access-research-strategy.md)
 
 ## Examples
 -

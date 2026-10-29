@@ -59,3 +59,4 @@ The review's synthesis of the mapped PS-I implementations associated design feat
 - [Across two studies that differed in the duration of the initial problem-solving phase, the PS-I versus WS-I transfer advantage reversed](ps-phase-duration-reverses-ps-i-ws-i-transfer.md) — related
 - [PS-I research demonstrates beneficial effects on conceptual knowledge and knowledge transfer relative to I-PS](ps-i-benefits-conceptual-knowledge-transfer.md) — related
 - [PS-I instructional designs can improve conceptual understanding and transfer when design principles are met](ps-i-improves-conceptual-understanding-transfer.md) — possibly the same claim (merge candidate)
+- [Knowledge gains occur in all conditions; collaboration shows no significant advantage, and the no-tool control group outperforms both tool conditions on interrelations and the annotation condition on transfer](enhanced-tools-no-conceptual-understanding-advantage.md) — related

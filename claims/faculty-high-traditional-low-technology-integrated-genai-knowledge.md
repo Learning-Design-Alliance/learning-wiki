@@ -55,3 +55,4 @@ Cross-sectional survey of 127 faculty at a large Southern U.S. public research u
 - [Expert perceptions reveal a developmental asymmetry in which content knowledge outweighs integrated pedagogical capacity in AI education](developmental-asymmetry-ck-over-tpack.md) — related
 - [Faculty Professional Competence shows the largest gap between perceived importance and current satisfaction among the five dimensions](faculty-competence-largest-importance-performance-gap.md) — related
 - [Chinese MTES show medium-level AI-TPACK overall, with AI-TK the lowest-scoring component and teaching beliefs the highest, indicating a basic, preliminary stage](mtes-aick-tk-lowest-medium-level-basic-stage.md) — related
+- [Teacher candidates perceive their preparation to integrate technology as comparable to general program preparation but lower than their teaching efficacy and TAP indicator preparation](tc-rate-tech-integration-preparation-below-efficacy-tap.md) — related

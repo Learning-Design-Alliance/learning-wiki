@@ -77,3 +77,4 @@ Qualitative analysis of fall 2023 interviews with 36 district leaders, school le
 - [Purposeful school partnerships, particularly among two or more schools located in the same building, spurred collaboration when leaders were invested in all students in the building](co-located-partnerships-spur-collaboration-when-leaders-invested-in-all-students.md) — related
 - [Implementation of co-regulation strategies was shaped by classroom context, facilitator experience and mindset, and varied in ease across strategies](co-regulation-implementation-factors-context-experience-strategy-ease.md) — related
 - [Transition Leaders play a central role in coordinating collaboration between schools and stakeholders, but their effectiveness depends on sufficient flexibility and resources](transition-leaders-coordinate-collaboration.md) — related
+- [Educators face challenges at the student level, teacher level, and institutional level](makerspace-three-level-challenges.md) — related

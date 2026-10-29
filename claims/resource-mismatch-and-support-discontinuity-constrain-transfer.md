@@ -71,3 +71,4 @@ Barrier subtheme from manager and trainee interviews; participants also cited eq
 - [Teachers Feel Confident to Teach AI but Many Not in the Short-Term Without Specific Training](teachers-confident-but-need-training.md) — related
 - [Teacher training need and access difficulties are the main reported barriers to using assistive technology with students with disabilities](at-barriers-teacher-training-access.md) — related
 - [Three barriers impede replication, meta-analysis, and large-scale impact research: funding, researcher incentives, and instrument sharing](three-barriers-replication-impact-research.md) — related
+- [Teachers support interdisciplinary curriculum integration but identify resource limitations, not curricular constraints, as the main barrier](e-textile-steam-integration-attitudes-barriers.md) — related

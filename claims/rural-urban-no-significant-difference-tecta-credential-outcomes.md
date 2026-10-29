@@ -71,3 +71,4 @@ Cumulative link mixed modeling of highest credential earned among TECTA entrants
 - [Mentoring experiences did not differ statistically significantly across districts with different poverty, achievement, or rurality levels](mentoring-did-not-vary-by-district-characteristics.md) — related
 - [No significant urban–rural difference in AI literacy scores, though the p-value approaches threshold](no-urban-rural-ai-literacy-difference.md) — related
 - [Rural youth report less access to internship opportunities than urban peers (38% vs. 55%)](rural-youth-internship-access-gap-38-vs-55.md) — reports the opposite
+- [PD knowledge gains varied by district type but not school level: suburban participants improved significantly while urban and rural participants and all three school levels did not](cybersecurity-pd-gains-district-type-school-level.md) — related

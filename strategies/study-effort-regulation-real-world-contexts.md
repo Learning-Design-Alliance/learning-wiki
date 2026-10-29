@@ -56,6 +56,7 @@ The commentary recommends moving beyond isolated laboratory tasks toward real-wo
 - [Deliver neurocognitive training at low frequency within ecologically valid academic contexts rather than as isolated high-frequency sessions](low-frequency-nat-ecological-embedding-strategy.md)
 - [Adopt integrative, longitudinal, multimodal deep-phenotyping designs combining self-report, behavioural tasks, ecological momentary assessment, and physiological measures](deep-phenotyping-multimodal-regulation-research.md)
 - [Foster autonomy and curiosity-driven learning by embedding metacognitive processes and self-regulation elements into education](embed-metacognitive-srl-support-post-pandemic.md)
+- [Prioritize longer-term longitudinal studies and analysis of learners' virtual-world behaviors for SLA research](longitudinal-virtual-world-sla-research-agenda.md)
 
 ## Examples
 -

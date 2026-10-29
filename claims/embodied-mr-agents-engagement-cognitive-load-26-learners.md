@@ -52,3 +52,4 @@ The review reports, citing Nguyen et al., a Design Science Research study in whi
 - [AI raises the ceiling on problem complexity by reducing access complexity rather than cognitive demand](ai-raises-problem-complexity-ceiling.md) — related
 - [Young children collaboratively develop their own gestures to represent and explain challenging science concepts in a mixed-reality environment](young-children-collaborative-gestures-mr-science.md) — related
 - [Human teacher–GenAI collaboration in embodied mathematics learning calls for a complementary interaction model combining AI feedback with human metacognitive guidance](complementary-human-genai-interaction-model.md) — related
+- [A situated embodiment-based flag semaphore strategy improved procedural knowledge and attention with lower extrinsic cognitive load](situated-embodiment-semaphore-procedural-knowledge.md) — related

@@ -51,3 +51,4 @@ Descriptive comparison of student performance on the two most difficult multiple
 - [Students in computer-based inquiry environments still held misconceptions about force and energy after instruction](persistent-misconceptions-computer-based-ibl.md) — related
 - [Four sequences of macro, micro, and symbolic chemistry representations produced no statistically significant differences in students' learning performance](chemistry-representation-sequences-no-significant-differences.md) — related
 - [Embodied Nerf-gun activities increased students' self-reported understanding of, and ability to explain, key neural communication concepts in a pre-post seminar design](embodied-nerf-activities-increase-self-reported-understanding-neural-communication.md) — related
+- [Students showed growth in representational competence and conceptual understanding of particle motion across an online sequence of representational challenges](online-rca-growth-particle-motion.md) — related

@@ -49,3 +49,4 @@ Conclusion-section reflection from applying the framework to school-teacher supp
 - [Short online pedagogy courses shifted university teachers’ interpretations of a learning-focused teaching video from knowledge transmission toward learning facilitation](short-online-training-shifts-interpretations-learning-focused-video.md) — related
 - [A course-in-a-box TPD initiative trained 673 faculty and produced 169 new online courses since 2019](cib-673-faculty-169-courses.md) — related
 - [The meta-aggregative review lacks an explicitly critical framework and under-addresses equity](meta-aggregative-review-lacks-critical-framework.md) — related
+- [The COVID-19 mandated shift to digital teaching created learning and performance contexts so different that the Philipsen et al. TPD-for-OBL framework's applicability may be limited](covid-context-limits-tpd-ob-framework.md) — related

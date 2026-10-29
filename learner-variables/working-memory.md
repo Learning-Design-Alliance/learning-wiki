@@ -13,7 +13,7 @@ generated:
 # Working Memory
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 120 claims (70 show a difference, 34 mixed, 16 no difference) · 98 studies (31 causal, 25 associational, 21 review, 11 quant-synthesis, 7 theoretical, 3 qualitative), `q1`–`q4` · 17 of 98 report an effect size · 113 claims rest on one study
+> **Evidence** · 126 claims (73 show a difference, 35 mixed, 18 no difference) · 100 studies (33 causal, 25 associational, 21 review, 11 quant-synthesis, 7 theoretical, 3 qualitative), `q1`–`q4` · 18 of 100 report an effect size · 119 claims rest on one study
 
 ## Description
 How much a learner can hold and manipulate at once. It is the best-evidenced dimension here and the most directly actionable: it converts into element counts per screen, whether two sources must be read together, and whether a problem is given whole or as a worked example. Capacity is near-fixed, but *effective* capacity is not — prior knowledge supplies the schemas that let several items be held as one, which is why the same screen overloads a novice and not an expert [~S].
@@ -163,6 +163,12 @@ How much a learner can hold and manipulate at once. It is the best-evidenced dim
 - [Working memory capacity is related to initial analogical reasoning ability in children](../claims/wm-related-initial-analogy-ability.md) [+W] — learners who differ on it differ in outcomes
 - [Working memory moderates feedback effects: higher working memory children gain more from tutoring feedback and no feedback, but gains in the multiple-try condition are unrelated to working memory](../claims/wm-moderates-feedback-effects-analogy.md) [~W] — an instructional effect differs with it
 - [Preschoolers using gesture recognition with the memory strategy achieved significantly better working memory scores than the control group](../claims/gesture-recognition-memory-strategy-better-working-memory.md) [+M] — instruction changes it
+- [Collaborative and non-collaborative note-takers show no significant difference in intrinsic cognitive load](../claims/collaborative-note-taking-no-intrinsic-load-difference.md) [-M] — instruction changes it
+- [Collaborative note-takers also report higher extraneous cognitive load than controls](../claims/collaborative-note-taking-higher-extraneous-load.md) [+M] — instruction changes it
+- [Collaborative note-takers report higher germane cognitive load than students given no collaborative note-taking instructions](../claims/collaborative-note-taking-higher-germane-load.md) [+M] — instruction changes it
+- [Completeness of collaborative notes shows no significant correlation with germane or extraneous cognitive load](../claims/note-completeness-no-load-correlation.md) [-M] — learners who differ on it differ in outcomes
+- [Learners using annotations perceive lower cognitive load than learners using hyperlinks](../claims/annotations-lower-cognitive-load-than-hyperlinks.md) [+M] — instruction changes it
+- [Lower cognitive load mediates the effect of tool type on conceptual understanding, supporting annotation-based conceptual learning only under low load](../claims/cognitive-load-mediates-conceptual-understanding.md) [~M] — an instructional effect differs with it
 
 ## The evidence by question
 

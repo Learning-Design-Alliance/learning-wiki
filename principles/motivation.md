@@ -46,7 +46,7 @@ sources:
 # Motivation
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 113 claims (71 for, 41 mixed, 1 against) · 101 studies (29 review, 25 causal, 12 associational, 11 theoretical, 10 qualitative, 8 quant-synthesis, 6 design), `q1`–`q4` · 14 of 101 report an effect size · 99 claims rest on one study
+> **Evidence** · 114 claims (71 for, 42 mixed, 1 against) · 102 studies (29 review, 25 causal, 12 associational, 12 theoretical, 10 qualitative, 8 quant-synthesis, 6 design), `q1`–`q4` · 14 of 102 report an effect size · 100 claims rest on one study
 
 ## Conditional relationship
 
@@ -247,6 +247,7 @@ Starting, effort, voluntary persistence, enjoyment, reported motivation and lear
 - [ChatGPT in a flipped classroom with hands-on coding significantly increased computational thinking, self-efficacy, and motivation](../claims/chatgpt-flipped-classroom-increased-ct-self-efficacy-motivation.md) [~W]
 - [MORE's effort-based motivational strategy resembles the later Wayang Outpost strategy in effort feedback and difficulty adjustment](../claims/more-resembles-wayang-outpost-effort-strategy.md) [+W]
 - [Beyond cognitive gains, the experience increased girls' interest in computing and confidence, and fostered work ethics, perseverance, social development, digital citizenship, and independent learning](../claims/e5c-beyond-cognition-themes.md) [+W]
+- [Learning by creation shifts learners from consumers to creators of learning content and increases their awareness of taking learning ownership](../claims/learning-by-creation-increases-ownership-awareness.md) [~W]
 
 ## Related Principles
 - [Learner Choice](autonomy.md) — one route to stronger ownership and autonomy

@@ -52,3 +52,4 @@ The review reports the empirical study by Macedonia et al. (2023), in which adul
 - [Effectiveness of pedagogical tools depends on learners' initial grasp of the object of learning (aptitude–treatment interaction)](tool-effectiveness-depends-initial-grasp.md) — a broader claim this one bears on
 - [Aptitude-by-treatment interactions for instructional structure show mixed support: crossovers in some studies, nulls in others](ati-structure-ability-interactions-mixed.md) — a broader claim this one bears on
 - [VR-based interactive L2 vocabulary learning shows cortical-thickness correlations in right IPL across training and with delayed retention, unlike non-VR learning](vr-l2-cortical-thickness-right-ipl.md) — related
+- [Simulated embodied experience in a virtual environment accelerated Chinese vocabulary learning more than a traditional web-based context](ve-context-accelerates-chinese-vocabulary-learning.md) — related

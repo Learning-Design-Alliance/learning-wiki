@@ -55,3 +55,4 @@ Primary qualitative finding from the study of faculty and student experiences in
 - [The review finds empirical evidence that ITS authoring tools benefit non-programmer authors mainly in effectiveness, efficiency, quality of authored artifacts, and usability](empirical-benefits-its-authoring-tools-nonprogrammers.md) — related
 - [Student interviewees reported technical support availability as a significant gap for online students.](molh-student-interviews-technical-support-gap.md) — related
 - [Teachers rated the TARGET-tool's core features as easy to learn and efficient, but found scheduling student scans complex and the abundance of motivating strategies overwhelming](target-tool-usability-strengths-and-frictions.md) — related
+- [Integrating the IDSA into an existing learning management system limited usability, as the platform predefined frontend structure and navigation](idsa-lms-integration-usability-tradeoff.md) — related

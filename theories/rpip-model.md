@@ -58,6 +58,7 @@ The RPIP model extends research-practice partnerships by bringing industry into 
 
 - [Plan for device distribution delays and extend engagement duration in practitioner advisory partnerships](../strategies/plan-for-device-delays-and-longer-engagement.md)
 - [Merlyn Mind Practitioner Advisory Board](../elements/merlyn-mind-practitioner-advisory-board.md)
+- [Engage industry and train postdoctoral researchers as part of a learning-technology research center](../strategies/industry-alliance-and-postdoc-training-in-tel-centers.md)
 
 ## Key Sources
 - Pautz Stephenson, S., Banks, R., & Coenraad, M. (2022, June). Outcomes of increased practitioner engagement in edtech development: How strong, sustainable research-practice-industry partnerships will build a better edtech future. Digital Promise. https://doi.org/10.51388/20.500.12265/158

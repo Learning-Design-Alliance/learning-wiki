@@ -55,3 +55,4 @@ Descriptive survey of teachers' challenges with online instruction during buildi
 - [Maintaining student engagement is the greatest challenge reported by online charter school principals, identified nearly three times as often as any other challenge](online-charters-engagement-greatest-challenge.md) — related
 - [Nearly 80 percent of surveyed charter schools operated fully remotely in April 2020, falling to about half by the 2020-21 school year](charter-instructional-modes-remote-to-hybrid-shift.md) — related
 - [Teachers of lower-SES students were less likely to have previous online teaching experience and reported the transition to remote instruction as more challenging](ses-gap-teacher-online-experience-transition.md) — reports the opposite
+- [The transition to OBL delivery may situate many teachers as novice learners needing to focus exclusively on context, curriculum, and students](teachers-as-novice-learners-ob-transition.md) — related

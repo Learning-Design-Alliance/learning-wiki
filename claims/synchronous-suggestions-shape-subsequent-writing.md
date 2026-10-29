@@ -58,3 +58,4 @@ In the thematic analysis of interviews (§5.1.3), participants valued suggestion
 - [Students reported text supports structured, iterative planning while some valued voice for getting initial ideas out](modality-shapes-planning-and-idea-generation.md) — related
 - [An agentic cursor increased participants' understanding and predictability of the AI agent's actions during collaborative writing](agentic-cursor-increases-agent-understandability.md) — related
 - [Adding a second writing agent increased reported cognitive load, and writing confidence did not increase monotonically with support, with the Single condition reporting the lowest confidence](second-agent-increases-cognitive-load-writing.md) — related
+- [First-generation collaborative writing tools have disappeared but shaped contemporary collaboration platforms](collaborative-writing-tools-extended-wave.md) — related

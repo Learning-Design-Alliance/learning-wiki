@@ -48,3 +48,4 @@ Pre-test game-preference question (pointing to number or letter pictures) analyz
 - [In a pre-registered RCT, neither the forward nor bidirectional number board game (nor the alphabet control) produced a statistically significant condition effect on numerical or letter-sound outcomes in four- to five-year-olds](number-board-game-no-condition-effect-young-children.md) — related
 - [Children improved their numerical and letter-sound knowledge between pre-test and post-test regardless of condition](numeracy-letter-sound-gains-all-conditions.md) — related
 - [The game sessions showed high attendance, engagement, and enjoyment, with no differences among conditions](board-game-high-engagement-enjoyment-attendance.md) — related
+- [The game was equally engaging across children's age and sex, with no significant relationship between number of sessions played and age or sex](trackfx-engagement-age-sex-null.md) — related

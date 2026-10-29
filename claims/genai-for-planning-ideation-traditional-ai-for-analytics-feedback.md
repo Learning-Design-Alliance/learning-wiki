@@ -58,3 +58,4 @@ Thematic synthesis of 28 empirical studies (2015-2025) on teacher-AI co-design o
 - [Teachers authoring student-AI dialogue prompts predominantly write highly specific tasks targeting higher-order thinking (92% at DOK 2–3)](teachers-author-specific-higher-order-ai-prompts.md) — related
 - [ChatGPT was the most commonly used GenAI tool in reviewed programming education research](chatgpt-most-used-genai-tool-programming-education.md) — related
 - [GenAI tools proved most valuable in early UX ideation stages, while design and testing require a human touch](genai-most-valuable-early-ux-stages.md) — a narrower finding that bears on this claim
+- [IDs used GenAI as a design partner or personal assistant to streamline the design process](genai-design-partner-streamline-process.md) — related

@@ -87,3 +87,4 @@ The review's cross-study pattern for older students, noting that all undergradua
 
 ## Related Claims
 - [Some classroom discussion approaches improve text comprehension, but gains are not uniform across approaches and more student talk alone does not produce them](structured-discussion-methods-improve-comprehension.md) — related
+- [In an exploratory study with 478 fifth and sixth graders, children with prompts available showed a more active and effective inquiry process than children without, with ability-related differences in prompt use](prompts-active-effective-inquiry-ability-differences.md) — related

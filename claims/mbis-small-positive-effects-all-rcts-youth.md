@@ -87,3 +87,4 @@ Random effects meta-analysis of 33 RCTs including 3,666 children and adolescents
 - [Brief mindfulness meditation does not significantly change alerting or orienting network efficiency](bmm-no-alerting-orienting-effects.md) — related
 - [Large-scale RCTs show school mindfulness training does not benefit overall well-being or social-emotional functioning and can harm those most at risk](mindfulness-rcts-no-benefit-possible-harm.md) — reports the opposite
 - [Isolated school mindfulness programs show mixed results, with one multi-site trial showing no improvement and increased anxiety in some subgroups](school-mindfulness-mixed-results.md) — reports the opposite
+- [Many students reported stress, anxiety and related wellbeing challenges while studying online, with over 50% of respondents naming stress or anxiety as key challenges](stress-anxiety-over-half-lockdown-students.md) — related

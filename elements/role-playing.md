@@ -13,7 +13,7 @@ generated:
 # Role-Playing
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 7 claims (4 for, 3 mixed) · 7 studies (2 review, 2 qualitative, 1 causal, 1 associational, 1 theoretical), `q1`–`q2` · 2 of 7 report an effect size · 7 claims rest on one study
+> **Evidence** · 8 claims (5 for, 3 mixed) · 8 studies (2 causal, 2 review, 2 qualitative, 1 associational, 1 theoretical), `q1`–`q2` · 2 of 8 report an effect size · 8 claims rest on one study
 
 ## Description
 Role-playing is the element in which learners adopt roles and act through a scenario, interaction, or decision process from that perspective. It is useful when learning depends on situational judgment, empathy, communication, or applied decision-making.
@@ -43,6 +43,7 @@ Role-playing is the element in which learners adopt roles and act through a scen
 - [Role-playing in a ship simulator constitutes an activity context whose ephemeral resources can collapse](../claims/role-play-activity-context-simulator.md) [~W]
 - [Role framing shifts toward non-use in team contexts, with non-use more than doubling](../claims/role-framing-shifts-toward-non-use-in-teams.md) [~W]
 - [Shifts among self perspectives are locatable moments of learning in which the self develops and expands](../claims/self-perspective-shifts-as-learning.md) [~W]
+- [Situational comic play creation improved elementary students' English performance and expressed learning autonomy](../claims/comic-drama-creation-improved-english-autonomy.md) [+W]
 
 ## Related Elements
 - [Decision-Making](decision-making.md)

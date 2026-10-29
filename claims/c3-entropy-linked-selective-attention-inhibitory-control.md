@@ -51,3 +51,4 @@ Exploratory correlation and hierarchical regression within the same sample; the 
 - [Children's eye movement consistency is associated with selective attention and executive function, whereas eye movement pattern relates to working memory](eye-movement-consistency-executive-function-children.md) — a broader claim this one bears on
 - [A more eyes-focused scanning pattern and higher eye movement consistency are each correlated with better face recognition performance](eyes-focused-pattern-consistency-correlate-better-recognition.md) — related
 - [Smaller response-time differences between incongruent and congruent trials (better inhibition) correlate with higher mathematics scores](rt-congruency-difference-correlates-with-math.md) — related
+- [Adding distractors made the MOT game substantially more difficult for children than adults, interpreted as immature attentional inhibition of distractors](distractors-impair-children-more-than-adults.md) — related

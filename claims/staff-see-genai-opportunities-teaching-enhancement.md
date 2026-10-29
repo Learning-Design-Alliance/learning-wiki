@@ -55,3 +55,4 @@ In the same 2023 staff survey, staff "recognised substantial opportunities for u
 - [GenAI in CS education is argued to enhance student engagement, support equitable learning, and relieve instructional burden](genai-engagement-equity-instructional-burden-benefits.md) — related
 - [GenAI is reshaping assessment practices in computer science education through automation, scalability, and personalized feedback](genai-reshaping-cs-assessment-automation-scalability-feedback.md) — related
 - [University teachers' design work is generally focused in one of two ways: student-centred or teacher-centred](teacher-design-work-student-or-teacher-centred.md) — related
+- [IDs used GenAI as a design partner or personal assistant to streamline the design process](genai-design-partner-streamline-process.md) — related

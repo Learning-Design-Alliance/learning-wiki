@@ -274,3 +274,5 @@ This study found that the seductive details effect was not uniform: readers with
 - [Reading comprehension is significantly higher when extraneous illustrations are removed from beginning reader books](streamlined-illustrations-improve-reading-comprehension.md) — a narrower finding that bears on this claim
 - [Activated prior knowledge must be relevant to the task; irrelevant knowledge can hamper learning](relevance-irrelevant-knowledge-hampers.md) — a narrower finding that bears on this claim
 - [Decorating curriculum diagrams with pictorial elements may engender 'graph-as-picture' misconceptions in students](diagram-decoration-graph-as-picture-risk.md) — a narrower finding that bears on this claim
+- [Adding distractors made the MOT game substantially more difficult for children than adults, interpreted as immature attentional inhibition of distractors](distractors-impair-children-more-than-adults.md) — related
+- [Research on pictures and graphs as aids to learning from print has focused on which aids are chosen or liked, leaving retention, learner, and material questions largely unaddressed](picture-graph-research-neglected-questions.md) — related

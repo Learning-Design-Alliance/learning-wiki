@@ -50,3 +50,4 @@ The review reports Legault et al.'s structural brain study after 2–3 weeks of 
 - [In Chinese children aged 10-12, oral word reading efficiency is positively correlated with cortical thickness in the LSTG, LITG, LSMG and RSTG](word-reading-ct-temporoparietal-occipitotemporal-chinese-children.md) — related
 - [Grasping virtual objects in VR improves foreign language vocabulary retention for learners with low language aptitude, but not for those with high aptitude](vr-grasping-vocabulary-low-aptitude-learners.md) — related
 - [Age of second-language acquisition relates to cortical thickness differences in the inferior frontal gyrus among bilinguals](second-language-acquisition-cortical-thickness.md) — related
+- [Simulated embodied experience in a virtual environment accelerated Chinese vocabulary learning more than a traditional web-based context](ve-context-accelerates-chinese-vocabulary-learning.md) — related

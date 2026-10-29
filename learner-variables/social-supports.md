@@ -13,7 +13,7 @@ generated:
 # Social Supports
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 77 claims (63 show a difference, 10 mixed, 4 no difference) · 71 studies (22 associational, 14 qualitative, 13 review, 8 causal, 6 theoretical, 4 quant-synthesis, 4 design), `q1`–`q3` · 5 of 71 report an effect size · 77 claims rest on one study
+> **Evidence** · 79 claims (64 show a difference, 11 mixed, 4 no difference) · 73 studies (22 associational, 15 qualitative, 13 review, 9 causal, 6 theoretical, 4 quant-synthesis, 4 design), `q1`–`q3` · 6 of 73 report an effect size · 79 claims rest on one study
 
 ## Description
 Social supports are the people available to help a learner if needed, and the learner's perception that they are there: parents and family, friends and classmates, teachers and other school staff, and the wider community. The support they give can be emotional (care and compassion), appraisal (useful feedback), instrumental (time, money, resources) and informational (advice). The LVN stresses perception: feeling that support would be there, even if it is never called on, contributes to well-being and academic success, and help that is actually received can strengthen that perception and a learner's sense of efficacy. Effective support looks different across families and cultures and can be provided across income levels; what matters is what the people around a learner do. Supports can be eroded by family separation, bereavement, parental imprisonment, substance misuse or illness, by bullying and discrimination, and by moving schools, and a relationship with another trusted adult can partly make up for that. It is measured with perceived-support scales for children, adolescents and adults. It overlaps with [belonging](belonging.md) and with the [home learning environment](home-learning-environment.md).
@@ -113,6 +113,8 @@ Social supports are the people available to help a learner if needed, and the le
 - [Students' basic ICT skills pose little barrier in classroom settings but major hurdles for individual and mobile use, mitigated by peer support and initial device setup](../claims/basic-ict-skills-setting-dependent-barrier.md) [~M] — an instructional effect differs with it
 - [Forums fostered feelings of relatedness through positive peer connections and shared struggles](../claims/forums-fostered-relatedness-peer-connections.md) [+W] — instruction changes it
 - [Learners feel a stronger social connection with positive instructors than with negative instructors.](../claims/positive-instructors-social-connection-video.md) [+M] — instruction changes it
+- [AI-GFCA students report better peer interaction, collaboration, form of interaction and provision of peer feedback, but reception of peer feedback does not differ](../claims/ai-gfca-interaction-mindset.md) [~M] — instruction changes it
+- [Lack of interpersonal engagement, interaction and collaboration, plus reduced social contact and isolation (45%), negatively impacted many students' online learning experience](../claims/lost-interaction-community-lockdown.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Social Support Questionnaire, Short Form** (Sarason et al., 1987): self-report of the number of supportive relationships an adult has and satisfaction with them.

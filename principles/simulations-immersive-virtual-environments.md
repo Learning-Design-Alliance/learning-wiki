@@ -123,7 +123,7 @@ sources:
 # Simulations & Immersive Virtual Environments
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 115 claims (45 for, 62 mixed, 8 against) · 82 studies (27 causal, 19 review, 11 quant-synthesis, 9 qualitative, 8 theoretical, 7 design, 1 associational), `q1`–`q4` · 21 of 82 report an effect size · 110 claims rest on one study
+> **Evidence** · 118 claims (47 for, 63 mixed, 8 against) · 84 studies (28 causal, 20 review, 11 quant-synthesis, 9 qualitative, 8 theoretical, 7 design, 1 associational), `q1`–`q4` · 21 of 84 report an effect size · 113 claims rest on one study
 
 ## Conditional relationship
 
@@ -315,6 +315,8 @@ Read against this model on 2026-10-15 and again on 2026-10-19; the claims below 
 - [Desktop VR with scaffolded interaction and reflective self-explanation improves procedural knowledge in engineering statics compared to traditional instruction](../claims/desktop-vr-scaffolded-self-explanation-procedural-knowledge-statics.md) [+W] — attached 2026-10-28 from Adurangba Victor Oje (2026), which proposed "Structure VR learning activities with scaffolded interaction and reflective explanation to support learning efficiency and learner confidence"; tests this page's relationship.
 - [Desktop VR with scaffolded interaction and reflective self-explanation improves problem-solving performance on a novel statics scenario compared to traditional instruction](../claims/desktop-vr-scaffolded-self-explanation-problem-solving-statics.md) [+W] — attached 2026-10-28 from Adurangba Victor Oje (2026), which proposed "Structure VR learning activities with scaffolded interaction and reflective explanation to support learning efficiency and learner confidence"; tests this page's relationship.
 - [Desktop VR with scaffolded interaction and reflective self-explanation reduces extraneous and intrinsic cognitive load compared to traditional instruction](../claims/desktop-vr-scaffolded-self-explanation-cognitive-load.md) [+W] — attached 2026-10-28 from Adurangba Victor Oje (2026), which proposed "Structure VR learning activities with scaffolded interaction and reflective explanation to support learning efficiency and learner confidence"; tests this page's relationship.
+- [An inexpensive mockup was a better training aid than the tank hull trainer for teaching starting and stopping procedures, and actual participation was not required](../claims/mockup-beats-hull-trainer-starting-stopping.md) [+W] — attached 2026-10-29 from Twyford et al. (1955), which proposed "Use inexpensive mockups in place of actual equipment when the training objective does not require actual participation"; tests this page's relationship.
+- [The mockup, hull trainer, and tank were equally effective for teaching instruments-and-controls nomenclature, while the hull trainer beat the tank itself for track and suspension content](../claims/trainer-effectiveness-varies-by-content.md) [~W] — attached 2026-10-29 from Twyford et al. (1955), which proposed "Use inexpensive mockups in place of actual equipment when the training objective does not require actual participation"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 
@@ -349,6 +351,7 @@ Success inside the simulation, immediate performance outside it, delayed retenti
 - [Desktop VR showed no significant declarative-knowledge advantage over traditional instruction after unguided exploration (d = 0.24), and a marginal, non-significant one after scaffolded guidance (d = 0.63, p = .06)](../claims/desktop-vr-scaffolded-guidance-declarative-knowledge-statics.md) [+W]
 - [The iVR-orchestrated lesson produced significantly stronger comprehension gains (troubleshooting procedure ordering) than the control group](../claims/ivr-authentic-classroom-comprehension-gains.md) [+W]
 - [Expert evaluation supported the VR classroom's vividness and the expert validity of the classroom events' likely interpretations](../claims/ivr-pvas-expert-evaluation-vividness-validity.md) [~W]
+- [Simulated embodied experience in a virtual environment accelerated Chinese vocabulary learning more than a traditional web-based context](../claims/ve-context-accelerates-chinese-vocabulary-learning.md) [+W]
 
 ## Related Principles
 - [Experiential Learning](experiential-learning.md) — simulations provide structured experiences that later reflection can interpret.
@@ -380,6 +383,7 @@ Success inside the simulation, immediate performance outside it, delayed retenti
 - [DEGREE](../products/degree.md)
 - [Integrate model-based supports across pretraining, in-simulation, and post-simulation stages of VR teacher practice](../strategies/integrate-supports-across-vr-simulation-stages.md)
 - [Design VR lessons with structured pre-, during-, and post-experience tasks](../strategies/structured-pre-during-post-vr-tasks.md)
+- [Use immersive VR simulations to let students experience complex scientific phenomena that are hard to experience in everyday life](../strategies/immersive-vr-for-hard-to-experience-phenomena.md)
 
 ## Key Sources
 - Akcayir, M., & Akcayir, G. (2017). Advantages and challenges associated with augmented reality for education: A systematic review of the literature. *Educational Research Review, 20*, 1-11. [https://doi.org/10.1016/j.edurev.2016.11.002](https://doi.org/10.1016/j.edurev.2016.11.002)

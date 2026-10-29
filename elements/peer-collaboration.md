@@ -13,7 +13,7 @@ generated:
 # Peer Collaboration
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 57 claims (20 for, 35 mixed, 2 against) · 52 studies (14 causal, 10 qualitative, 9 associational, 8 review, 6 theoretical, 5 quant-synthesis), `q1`–`q4` · 5 of 52 report an effect size · 55 claims rest on one study
+> **Evidence** · 59 claims (21 for, 35 mixed, 3 against) · 53 studies (15 causal, 10 qualitative, 9 associational, 8 review, 6 theoretical, 5 quant-synthesis), `q1`–`q4` · 6 of 53 report an effect size · 57 claims rest on one study
 
 ## Description
 Peer collaboration places two or more learners in joint work on a shared task, requiring them to explain, question, negotiate, and build on each other's thinking. It functions as a social engine for learning: the value comes not from proximity but from the elaboration, conflict, and mutual regulation that genuine joint work provokes.
@@ -107,6 +107,8 @@ Collaboration supports learning when it forces learners to articulate reasoning 
 - [Collaborative learning in immersive VR produced significantly higher use of cognitive resources than individual learning in a geography study](../claims/collaborative-vr-higher-cognitive-resources.md) [+W]
 - [Child-parent dyads generated more ideas and more original ideas than child-stranger dyads on the AUT, with no significant difference in appropriateness](../claims/child-parent-dyads-higher-fluency-originality-aut.md) [~W]
 - [Dyads of students who knew each other cheated more than dyads of strangers, and dyad power values predicted cheating among acquainted dyads](../claims/acquainted-dyads-cheat-more-than-strangers.md) [~W]
+- [Collaborative dyads marginally outperform individuals on hypervideo product quality](../claims/dyads-marginally-higher-hypervideo-quality.md) [+W]
+- [Knowledge gains occur in all conditions; collaboration shows no significant advantage, and the no-tool control group outperforms both tool conditions on interrelations and the annotation condition on transfer](../claims/enhanced-tools-no-conceptual-understanding-advantage.md) [-W]
 
 ## The evidence by question
 

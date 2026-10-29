@@ -53,3 +53,4 @@ Interview finding from the qualitative study. One participant noted, "I was surp
 - [PGR students rejected GenAI generation of research ideas, original arguments, or whole papers as violating authorship norms, while accepting surface-level support](genai-authorship-boundary-rejected-substitution.md) — reports the opposite
 - [Nearly all postgraduate research students in the study used GenAI across multiple research stages, positioning it as a supportive assistant with human oversight retained](pgr-genai-supportive-assistant-human-oversight.md) — related
 - [Students perceive GenAI tools as beneficial for academic engagement, particularly for overcoming language barriers and accessing up-to-date resources](students-perceive-genai-academic-benefits.md) — related
+- [IDs use GenAI to brainstorm ideas and overcome creative blocks when drafting content](genai-brainstorm-ideas-creative-blocks.md) — related

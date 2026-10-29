@@ -49,6 +49,7 @@ This strategy comes from the Festschrift paper by Yan, Lin and Kinshuk on self-p
 - [Four course design strategies for including learning analytics in the SPOL learning design loop](spol-la-course-design-strategies.md)
 - [Separate competency assessment from courses, conducted by an independent unit using evidence-centered assessment design](independent-competency-assessment-separation.md)
 - [Extend course-by-course learning portfolios into life-long learning profiles stored on the cloud with social media integration](life-long-learning-portfolio-strategy.md)
+- [Extend LA reports with suggested interventions and pre-course team agreements on how to act on report data](la-reports-suggest-interventions-team-agreements.md)
 
 ## Examples
 -

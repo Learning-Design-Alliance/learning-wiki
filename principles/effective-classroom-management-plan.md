@@ -23,7 +23,7 @@ sources:
 # Effective Classroom Management Plan Criteria
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 29 claims (18 for, 9 mixed, 2 against) · 36 studies (14 quant-synthesis, 9 review, 6 causal, 3 qualitative, 2 design, 1 associational, 1 theoretical), `q1`–`q4` · 7 of 36 report an effect size · 22 claims rest on one study
+> **Evidence** · 30 claims (18 for, 10 mixed, 2 against) · 37 studies (14 quant-synthesis, 9 review, 6 causal, 4 qualitative, 2 design, 1 associational, 1 theoretical), `q1`–`q4` · 7 of 37 report an effect size · 23 claims rest on one study
 
 ## Conditional relationship
 
@@ -159,6 +159,7 @@ Fewer disruptions, more engaged time, learning gains, lasting self-control and f
 - [Within their jurisdiction, teachers describe a four-step escalation ladder: teach the whole class, watch and take note, talk one-on-one, and refer](../claims/teacher-intervention-escalation-ladder.md) [+W]
 - [Student-perceived classroom management is significantly associated with mathematics achievement at both student and classroom levels in Swedish grade 4 TIMSS 2019](../claims/classroom-management-math-achievement-both-levels.md) [+W]
 - [Comprehensive behavioral policies with rewards and sanctions are associated with positive charter-school impacts](../claims/behavioral-policies-rewards-sanctions-charter-impacts.md) [~W]
+- [Ghanaian university teachers managing large virtual classes regulated learner behaviour through preventive measures such as setting rules and punitive measures such as muting or removing disruptive students](../claims/large-virtual-class-behaviour-regulation-preventive-punitive.md) [~W]
 
 ## Related Principles
 - [Functional Behavior Assessment](functional-behavior-assessment.md) — a complementary, more individualized approach for the subset of students whose disruptive behavior does not respond to a general classroom-wide plan

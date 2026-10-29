@@ -40,7 +40,8 @@ The article contributes "A method for conducting heuristic evaluations of adult 
 - [Stakeholder groups prioritized different design guidelines: instructors most frequently commented on usability (G4), students on educational support (G13), and researchers on instructional best practices and learning engineering](../claims/stakeholder-groups-prioritize-different-guidelines.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Use a heuristic evaluation method to examine how educators' pedagogical moves relate to the technologies in use](heuristic-evaluation-of-remote-pedagogy-moves.md)
 
 ## Examples
 -

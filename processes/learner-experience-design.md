@@ -14,7 +14,7 @@ grain_size: course
 # Learner Experience Design (LXD)
 
 > **Design Process** · [All design processes](index.md)
-> **Evidence** · 19 claims (12 for, 6 mixed, 1 against) · 27 studies (10 causal, 6 design, 5 review, 3 quant-synthesis, 2 theoretical, 1 associational), `q1`–`q4` · 4 of 27 report an effect size · 15 claims rest on one study
+> **Evidence** · 21 claims (13 for, 7 mixed, 1 against) · 28 studies (10 causal, 7 design, 5 review, 3 quant-synthesis, 2 theoretical, 1 associational), `q1`–`q4` · 4 of 28 report an effect size · 17 claims rest on one study
 
 ## Description
 Learner Experience Design imports the methods of user-centred design — user research, personas and scenarios, prototyping, usability testing, heuristic evaluation — into instructional design, and makes one substantive claim while doing it: **usability is not polish applied after the instruction, it is part of the instruction.**
@@ -79,6 +79,8 @@ LXD inherits the empathize-and-test moves from [Design Thinking](design-thinking
 - [Experts agreed LXD draws methods and theories from HCI and user experience design rather than solely from learning design and technology](../claims/lxd-draws-methods-theories-hci-ux.md) [+W]
 - [User experience challenges include poor matching, inadequate scaffolding, and suboptimal interface design](../claims/user-experience-challenges-srl-recommenders.md) [+W]
 - [The experimental group rated AVDS usability as excellent while the control group rated it as good](../claims/sus-usability-excellent-experimental-good-control.md) [+W]
+- [Integrating the IDSA into an existing learning management system limited usability, as the platform predefined frontend structure and navigation](../claims/idsa-lms-integration-usability-tradeoff.md) [~W]
+- [Field-tested IDSA prototype received moderate usability ratings: usage enjoyment highest, design and realization lowest](../claims/idsa-usability-ratings-enjoyment-high-design-low.md) [+W]
 
 #### Supporting
 - [Cognitive Load Reduction Improves Learning](../claims/cognitive-load-reduction-improves-learning.md) [+S] — the mechanism the whole argument rests on

@@ -46,3 +46,4 @@ Controlled laboratory experiment (Wright Air Development Center report) with fou
 
 ## Related Claims
 - [More response pretraining trials produce better performance in the task situation](more-response-pretraining-trials-better-transfer.md) — related
+- [Response pretraining on reaction keys in the absence of the task stimuli improves later performance on the actual training task](response-pretraining-absent-stimuli-transfer-eckstrand.md) — possibly the same claim (merge candidate)

@@ -70,3 +70,4 @@ Summary of the survey's three global helpfulness questions (Table 2: dealing wit
 - [International students use conversational AI predominantly for task-oriented academic and logistical support rather than for psychological or chronic emotional challenges](ai-task-oriented-over-emotional-support-international-students.md) — related
 - [Over three-quarters of international medical students used AI tools at least weekly and reported strong intentions to continue, valuing teacher-AI collaboration](students-regular-ai-use-and-adoption-intent.md) — related
 - [Students perceive human graders as more accurate and helpful than the AI autograder](students-trust-humans-more-than-autograder.md) — related
+- [Field-tested IDSA prototype received moderate usability ratings: usage enjoyment highest, design and realization lowest](idsa-usability-ratings-enjoyment-high-design-low.md) — related

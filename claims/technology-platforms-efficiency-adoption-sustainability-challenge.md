@@ -62,3 +62,4 @@ The implementation study reports that "Colleges are adopting new technology plat
 - [AI integration is associated with improvements in teaching, learning, and administrative efficiency in higher education when supported by adequate infrastructure](ai-integration-improves-teaching-learning-admin-efficiency.md) — related
 - [Reported benefits of AI integration were efficiency, personalization, and engagement, while challenges were equity, ethics, and academic integrity](ai-integration-benefits-and-challenges.md) — related
 - [Regulatory and ethics compliance posed substantial, underestimated challenges that delayed the ITS rollout by a year](compliance-effort-delayed-its-rollout.md) — related
+- [A 4-year public institution deployed personalized learning software at scale in College Algebra and used large-scale platform data for continuous improvement rather than acquisition decisions](action-lab-scale-deployment-continuous-improvement.md) — related

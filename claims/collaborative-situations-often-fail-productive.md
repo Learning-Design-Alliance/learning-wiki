@@ -91,3 +91,4 @@ The presentation's grand-challenge slide states that "collaborative situations o
 - [The collective working memory effect: group learning is more efficient than individual learning for high-complexity tasks, but individual learning is more efficient for low-complexity tasks](collective-working-memory-effect-complexity-dependent.md) — related
 - [Stereotype threat in collaborative contexts can interfere with working memory and reduce meaningful contribution](stereotype-threat-undermines-collaborative-contribution.md) — related
 - [Homogeneous-high groups showed the highest productivity; heterogeneous groups outperformed homogeneous-average and homogeneous-low groups, and low-activity students were more productive in homogeneous groups](group-composition-productivity-effects.md) — a narrower finding that bears on this claim
+- [Students developed communication and collaboration skills through group-based app design](students-collaboration-app-design.md) — related

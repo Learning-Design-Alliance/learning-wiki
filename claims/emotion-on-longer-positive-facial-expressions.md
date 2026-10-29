@@ -50,3 +50,4 @@ Within-subject user study with 30 participants (aged 15-55) using MathBuddy in E
 - [Learners showed reliable pre–post changes in facial, vocal, and lexical expressive signals after sustained system use](prepost-changes-expressive-emotion-signals.md) — related
 - [Simulation feedback predicts sadness and neutral facial expressions and metacognitive judgement, but not perceived task difficulty](feedback-predicts-facial-expressions-and-judgement.md) — related
 - [Facial expression recognition of six basic emotions via FACS can detect learner emotional states in real time](facs-six-basic-emotions-detection.md) — related
+- [An intelligent affective tutoring system recognizing facial expressions reduced anxiety and improved Japanese learning](affective-tutoring-reduces-japanese-learning-anxiety.md) — a broader claim this one bears on

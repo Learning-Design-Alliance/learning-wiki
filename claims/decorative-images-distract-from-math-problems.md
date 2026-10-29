@@ -67,3 +67,4 @@ The authors' interpretation of cognitive science research as applied in the bump
 - [Related decorative pictures do not increase triggered or maintained situational interest; in Experiment 2 they reduced maintained interest](related-pictures-no-interest-increase.md) — related
 - [Unfamiliar problem contexts and vocabulary distract students from the mathematics and reasoning a problem requires](unfamiliar-contexts-distract-from-mathematics.md) — related
 - [Decorating curriculum diagrams with pictorial elements may engender 'graph-as-picture' misconceptions in students](diagram-decoration-graph-as-picture-risk.md) — related
+- [Research on pictures and graphs as aids to learning from print has focused on which aids are chosen or liked, leaving retention, learner, and material questions largely unaddressed](picture-graph-research-neglected-questions.md) — related

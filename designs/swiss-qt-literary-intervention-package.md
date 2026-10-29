@@ -45,7 +45,8 @@ The adapted intervention is a one-year language-arts program in which students w
 - [A QT-based literary intervention reduced teachers' monologic practices (teacher turns, turn allocation, test questions, evaluation) in small-group discussions](../claims/qt-intervention-reduces-monologic-teacher-practices.md) [+W]
 
 ## Related Designs
-- 
+
+- [iEN lesson pages combining video clips, avatar explanations, knowledge maps, and e-books](ien-lesson-pages-multimedia-resources.md)
 
 ## Examples
 -

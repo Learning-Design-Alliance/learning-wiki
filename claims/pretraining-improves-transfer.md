@@ -117,3 +117,4 @@ Second-hand attribution: the article reports that Gegner et al. (2009) found pre
 - [ELLs attempted academic terminology from prior lessons, with experience mediating their connection to the concept of vibration](experience-mediate-connection-academic-language-vibration.md) — related
 - [Learning each language in its own distinctive VR context reduced cross-language intrusions relative to learning both languages in a single context](dual-context-vr-reduced-language-intrusions.md) — related
 - [More response pretraining trials produce better performance in the task situation](more-response-pretraining-trials-better-transfer.md) — a narrower finding that bears on this claim
+- [Response pretraining on reaction keys in the absence of the task stimuli improves later performance on the actual training task](response-pretraining-absent-stimuli-transfer-eckstrand.md) — related

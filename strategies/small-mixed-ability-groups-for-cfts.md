@@ -43,6 +43,7 @@ For CFTs, the article recommends assigning students to small groups of two or th
 - [Train and model the collaborative feedback process before students notice gaps (pre-noticing stage)](model-cft-process-before-noticing.md)
 - [Establish Group Roles](establish-group-roles.md)
 - [Structuring Group Work](structuring-group-work.md)
+- [Assign trained teaching assistants to large virtual classes to support course management, grading, discussion monitoring and extra help for learners](teaching-assistants-large-virtual-class-support.md)
 
 ## Examples
 -

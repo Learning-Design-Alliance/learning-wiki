@@ -68,3 +68,4 @@ Convergent validity check in Study 2 correlating the proposed instrument with th
 - [Global-fit evidence does not clearly favor unidimensional over multidimensional academic resilience measurement models, as fit-index pass rates diverge by index](dimensionality-evidence-mixed-resilience-scales.md) — related
 - [The revised questionnaire shows satisfactory internal consistencies for each cognitive load type across Studies 1 and 2](cognitive-load-questionnaire-satisfactory-internal-consistencies.md) — related
 - [The DIGISOC questionnaire shows acceptable validity and reliability, including CFA data and favorable Cronbach's alpha coefficients](digisoc-acceptable-validity-reliability.md) — related
+- [Confirmatory factor analysis with 448 secondary students showed the 32-item SAICS measurement model has good fit and high validity and reliability](saics-cfa-good-model-fit-448-students.md) — related

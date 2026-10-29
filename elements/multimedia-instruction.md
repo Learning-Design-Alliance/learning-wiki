@@ -13,7 +13,7 @@ generated:
 # Multimedia Instruction
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 32 claims (17 for, 15 mixed) · 37 studies (17 causal, 9 quant-synthesis, 8 review, 2 theoretical, 1 design), `q1`–`q4` · 10 of 37 report an effect size · 27 claims rest on one study
+> **Evidence** · 33 claims (17 for, 16 mixed) · 38 studies (18 causal, 9 quant-synthesis, 8 review, 2 theoretical, 1 design), `q1`–`q4` · 10 of 38 report an effect size · 28 claims rest on one study
 
 ## Description
 Multimedia instruction is the element in which teaching combines spoken or written language with visuals, diagrams, animation, or other media in a coordinated instructional sequence. It is useful when multiple representations clarify explanation and support comprehension.
@@ -68,6 +68,7 @@ Multimedia instruction is the element in which teaching combines spoken or writt
 - [Dynamic slides did not improve knowledge acquisition compared to static slides](../claims/dynamic-slides-no-knowledge-benefit.md) [~W]
 - [Relevancy and acceptability of mental-health films matter more for learning than the sex of the main character](../claims/relevancy-acceptability-more-important-than-character-sex.md) [~W] — attached 2026-10-28 from Stein (1955), which proposed "Mental Hygiene Film Series (Feelings of Depression, Overdependency, Feelings of Hostility, Feelings of Rejection)".
 - [Supplementary examples in an instructional film significantly improve learning, with diminishing returns as example number increases](../claims/supplementary-examples-diminishing-returns.md) [~W]
+- [The two hygiene films were about equally effective in teaching shared factual content, with each film superior on facts it emphasized filmically](../claims/filmic-emphasis-determines-factual-learning.md) [~W]
 
 ## The evidence by question
 - *Do words with a relevant picture beat words alone?* [Multimedia Principle Improves Learning](../claims/multimedia-principle-improves-learning.md) [+S]

@@ -55,3 +55,4 @@ The review's synthesis of the 75-paper corpus reports that GenAI "implementation
 - The Global South GenAI literature shows limited geographic representation, stakeholder imbalance, and insufficient exploration of long-term outcomes — related
 - [GenAI offers transformative possibilities for personalised learning, research support and administrative efficiency in Global South higher education](genai-global-south-transformative-possibilities.md) — related
 - [Multiple trends point to a de-professionalization of teachers in both the North and the South](de-professionalization-of-teachers-trends.md) — related
+- [Zimbabwean universities faced trenchant institutional needs for online teaching — untrained personnel, poor digital infrastructure and cyber security — mostly emanating from inadequate funding](zimbabwe-universities-institutional-needs-online-teaching.md) — a narrower finding that bears on this claim

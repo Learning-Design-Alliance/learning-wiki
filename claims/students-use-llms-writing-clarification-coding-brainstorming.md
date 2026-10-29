@@ -54,3 +54,4 @@ Online questionnaire conducted 2023-24 with 100 respondents, 52% from AI, Roboti
 - [Instant access to information and 24/7 availability are the most recognised benefits of LLMs for learning](instant-access-24-7-top-llm-benefits.md) — related
 - [Language learning was the most common subject domain for AIEd in higher education, at 17%](language-learning-top-subject-domain-ai-ed-he.md) — related
 - [The majority of AI-assisted participants self-report using the AI primarily to get answers directly, a pattern validated against chatlogs](majority-use-ai-for-direct-answers.md) — related
+- [Students most enjoyed creating images with AI, followed by generating text, with video creation least favoured](students-enjoyed-image-creation-most.md) — a narrower finding that bears on this claim

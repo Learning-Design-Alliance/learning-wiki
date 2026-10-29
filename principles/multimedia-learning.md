@@ -27,7 +27,7 @@ sources:
 # Multimedia Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 92 claims (37 for, 52 mixed, 3 against) · 70 studies (31 causal, 14 review, 13 quant-synthesis, 5 associational, 4 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 19 of 70 report an effect size · 83 claims rest on one study
+> **Evidence** · 95 claims (39 for, 52 mixed, 4 against) · 72 studies (33 causal, 14 review, 13 quant-synthesis, 5 associational, 4 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 19 of 72 report an effect size · 86 claims rest on one study
 
 ## Conditional relationship
 
@@ -176,6 +176,9 @@ A learning-phase preference, immediate recall, explanation of a mechanism, delay
 - [Dynamic slides did not improve knowledge acquisition compared to static slides](../claims/dynamic-slides-no-knowledge-benefit.md) [~W]
 - [Silent filmstrips produced significantly higher mean gains than sound motion pictures, so sound and motion were not essential for maximum learning.](../claims/filmstrips-significantly-higher-gains-than-sound-motion-pictures.md) [~W]
 - [Both sound motion pictures and silent filmstrips contributed to increased learning of fifth-grade social studies.](../claims/sound-pictures-and-filmstrips-increase-social-studies-learning.md) [+W]
+- [The diagram, but not the wiring board, slightly improved learning of electrical theory for the lower GCT group](../claims/diagram-slight-theory-gain-lower-gct.md) [+W]
+- [A mobile multimedia learning system improved EFL students' posttest performance, and cooperative tasks outperformed individual tasks](../claims/mmls-outperformed-conventional-efl.md) [+W]
+- [Neither the wiring board nor the diagram improved learning of basic principles of electricity, supporting the conclusion that manifestations of electrical phenomena are not necessary to learn Ohm's law](../claims/phenomena-not-necessary-ohms-law.md) [-W]
 
 ## Related Principles
 - [Modality Principle](modality.md)

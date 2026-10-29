@@ -35,7 +35,7 @@ sources:
 # Self-Regulated Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 157 claims (64 for, 84 mixed, 9 against) · 110 studies (33 causal, 24 review, 19 associational, 17 quant-synthesis, 13 theoretical, 3 design, 1 qualitative), `q1`–`q4` · 29 of 110 report an effect size · 146 claims rest on one study
+> **Evidence** · 161 claims (66 for, 86 mixed, 9 against) · 111 studies (34 causal, 24 review, 19 associational, 17 quant-synthesis, 13 theoretical, 3 design, 1 qualitative), `q1`–`q4` · 30 of 111 report an effect size · 150 claims rest on one study
 
 ## Conditional relationship
 
@@ -249,6 +249,10 @@ Gains in strategy knowledge, self-reported regulation, self-efficacy, study time
 - [All AI applications and tools predominantly influence the performance phase of SRL, particularly by facilitating monitoring and control](../claims/ai-tools-predominantly-influence-performance-phase.md) [~W]
 - [In the performance phase, AI tools helped learners organize tasks and supported metacognitive monitoring, but sometimes inaccurately reflected tasks and lacked in-depth responses](../claims/ai-performance-phase-benefits-and-drawbacks.md) [~W]
 - [Percentage of students solving the mystery does not differ significantly by SRL group](../claims/no-srl-difference-mystery-completion.md) [-W]
+- [Chatbot-guided feedback SRL improved university students' multimedia knowledge performance more than conventional SRL](../claims/srl-cgf-improves-multimedia-knowledge-performance.md) [~W]
+- [Chatbot-guided feedback SRL improved university students' meta-cognition tendency and self-regulated learning more than conventional SRL](../claims/srl-cgf-improves-metacognition-and-srl.md) [+W]
+- [In the experimental group, second website performance correlated with motivation, attitude, and SRL while first website performance did not](../claims/second-work-correlates-motivation-attitude-srl.md) [~W]
+- [Students in the chatbot-assisted SRL condition reported personalized learning opportunities, enhanced reflection, and improved performance in interviews](../claims/srl-cgf-student-perceptions-interviews.md) [+W]
 
 ## Related Principles
 - [Goal Setting & Monitoring](goal-setting-monitoring.md)

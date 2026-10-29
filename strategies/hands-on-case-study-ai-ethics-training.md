@@ -50,6 +50,7 @@ The review reports that AI ethics education pilots recommend active, experientia
 - [Embed GenAI literacy and ethical use directly in nursing curricula rather than prohibiting it](embed-genai-literacy-ethics-nursing-curricula.md)
 - [Fund AI literacy initiatives integrating AI ethics into curricula and adapting assessments](ai-literacy-ethics-curricula-assessment-strategy.md)
 - [Embed critical AI literacy into curricula and institutional practices in higher education](embed-critical-ai-literacy-curricula-institutional-practices.md)
+- [Design future cybersecurity PD with contextual guidance, AI-related topics, and up-to-date resource alternatives](future-cybersecurity-pd-contextual-ai-resources.md)
 
 ## Examples
 -

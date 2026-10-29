@@ -46,7 +46,8 @@ The article presents six generalizable guidelines for designing and implementing
 - [Performance-based assessments score low on generalizability, reliability, and standardization, with rater effects influencing scores](../claims/pba-psychometric-weaknesses.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Apply seventeen evidence-based design guidelines when developing formative assessment with analytic rubrics for complex skills](seventeen-design-guidelines-analytic-rubrics.md)
 
 ## Examples
 -

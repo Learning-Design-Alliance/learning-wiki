@@ -15,7 +15,7 @@ grain_size: course
 # Online Course Design (Community of Inquiry)
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 44 claims (20 for, 23 mixed, 1 against) · 32 studies (9 associational, 6 quant-synthesis, 5 design, 4 causal, 4 qualitative, 3 review, 1 theoretical), `q1`–`q4` · 6 of 32 report an effect size · 41 claims rest on one study
+> **Evidence** · 45 claims (20 for, 24 mixed, 1 against) · 33 studies (9 associational, 6 quant-synthesis, 5 qualitative, 5 design, 4 causal, 3 review, 1 theoretical), `q1`–`q4` · 6 of 33 report an effect size · 42 claims rest on one study
 
 ## Description and scope
 
@@ -163,6 +163,7 @@ This pattern is scoped to the shape of a mostly online course across a term. How
 - [Time zone differences affected international students' timely participation in asynchronous forums, and a balance of synchronous and asynchronous communication was regarded as beneficial](../claims/time-zone-differences-asynchronous-participation-balance.md) [~W]
 - [Baseline math performance interacted with teacher–student contact level, with low contact amplifying disadvantages for below-baseline students](../claims/baseline-performance-contact-interaction-math.md) [~W]
 - [In the coded dataset, exploration was the most frequent phase (727 units, 48%), followed by integration (444, 29%), resolution (235, 15%), and non-cognitive presence (115, 8%)](../claims/phase-distribution-skew.md) [~W]
+- [Teachers controlled instructional content in large virtual classes by creating interactive environments through questioning, student presentations and out-of-class discussions, and by using learner-centred methods such as breakout rooms, flipped classroom and case study techniques](../claims/large-virtual-class-instructional-content-control.md) [~W]
 
 ## Related Patterns
 - [Blended Learning](blended-learning.md) — divides a course between online and in-person time; this pattern shapes the online course itself

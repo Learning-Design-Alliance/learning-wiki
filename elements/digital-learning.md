@@ -13,7 +13,7 @@ generated:
 # Digital Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 17 claims (8 for, 8 mixed, 1 against) · 17 studies (4 causal, 4 associational, 3 qualitative, 2 quant-synthesis, 2 theoretical, 1 review, 1 design), `q1`–`q4` · 1 of 17 report an effect size · 16 claims rest on one study
+> **Evidence** · 19 claims (9 for, 9 mixed, 1 against) · 19 studies (5 associational, 4 causal, 4 qualitative, 2 quant-synthesis, 2 theoretical, 1 review, 1 design), `q1`–`q4` · 1 of 19 report an effect size · 18 claims rest on one study
 
 ## Description
 Digital learning is the element in which instruction, resources, or interaction are mediated through digital tools, platforms, or networks. It is useful when learners need flexible access, interactive media, or non-linear exploration.
@@ -53,6 +53,8 @@ Digital learning is the element in which instruction, resources, or interaction 
 - [Participants most valued flexibility of when and where to study, alongside vocabulary access and constant progress monitoring, as benefits of online applications](../claims/flexibility-top-perceived-benefit-apps.md) [+W]
 - [Effect sizes of technology-delivered literacy instruction are heterogeneous across studies (Q = 165.38, I2 = 68.56)](../claims/tech-literacy-effect-heterogeneity.md) [~W]
 - [Teaching resources used within the flipped classroom years do not affect average grades, except for the year with reduced technology access](../claims/flipped-resources-no-effect-except-technology-classroom-year.md) [~W]
+- [Heads of Departments in Zimbabwean universities regarded online teaching as indispensable for embracing the Fourth Industrial Revolution](../claims/zimbabwe-hods-online-teaching-indispensable-4ir.md) [+W]
+- [Most surveyed US K-12 teachers reported knowledge, comfort, and confidence for online teaching during early COVID-19, but only 19% preferred online teaching to classroom teaching](../claims/k12-teachers-covid-self-efficacy-online-teaching.md) [~W]
 
 ## Related Elements
 

@@ -44,6 +44,7 @@ The article recommends supplying visual representations of lesson content and st
 - [Research Map](research_map.md)
 - [Graphic Organizers and Visual Aids (Attention)](graphic-organizers-and-visual-aids-attention.md)
 - [Visual Supports](visual-supports.md)
+- [Design concept maps so learners can find a meaningful reading order and do not feel disoriented](design-concept-maps-to-prevent-disorientation.md)
 
 ## Examples
 -

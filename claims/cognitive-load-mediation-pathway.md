@@ -49,3 +49,4 @@ Bootstrap mediation analysis (5,000 resamples, bias-corrected 95% CIs) in the ra
 - [Higher germane load and lower extraneous load mediate the effect of instructional guidance on conceptual knowledge](cognitive-load-mediates-guidance-effect.md) — related
 - [Trust in AI and academic self-efficacy serially mediate the literacy-to-continued-use association (literacy → trust → self-efficacy → use)](serial-mediation-literacy-trust-efficacy-use.md) — related
 - [Academic self-efficacy was not significantly associated with final test performance](self-efficacy-no-direct-path-final-test.md) — related
+- [Serial mediation: map-structure salience affects disorientation, which affects extraneous load and learning performance; the chain is only partially confirmed](salience-disorientation-ecl-serial-mediation.md) — related

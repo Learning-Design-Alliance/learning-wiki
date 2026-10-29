@@ -66,3 +66,4 @@ Repeated measures ANOVA on self-efficacy showed no condition effect; no effect s
 ## Related Claims
 - [DBT-based video tutorials significantly raise both task relevance and self-efficacy from before to after training](dbt-tutorials-raise-task-relevance-self-efficacy.md) — related
 - [The demonstration-with-review tutorial outperformed the demonstration-only control on practice, immediate post-test and delayed post-test](review-tutorial-outperforms-demonstration-only.md) — related
+- [Adding reviews or a second demonstration did not significantly improve self-efficacy or learning over the control condition](no-condition-effect-reviews-second-demonstrations.md) — related

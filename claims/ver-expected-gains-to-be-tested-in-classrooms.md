@@ -47,3 +47,4 @@ Authors' forward-looking expectation in the conclusions, not a tested result: th
 ## Related Claims
 - [Text-based rubrics alone provide insufficient contextual, dynamic and procedural information to support rich mental model development of complex skills](text-rubrics-lack-contextual-dynamic-procedural-information.md) — related
 - [An expert appraisal workshop of an early VER prototype by twenty international experts stressed the importance of annotation to connect rubric and video](expert-workshop-stressed-annotation-importance.md) — related
+- [Formative assessment with validated analytic rubrics in the Viewbrics tool produced higher oral presentation performance than conventional rating-scale rubrics in Dutch secondary education](analytic-rubrics-outperform-conventional-rubrics-oral-presentation.md) — related

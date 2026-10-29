@@ -48,3 +48,5 @@ Authors' observation (SF4 section) as experienced teacher educators running the 
 - [Schools that had previously invested in technology and professional development for digital learning responded more quickly to the shift to online teaching during COVID-19 closures](prior-digital-investment-greater-ert-capacity.md) — related
 - [The Philipsen et al. framework of TPD components for online and blended learning is biased toward higher education settings](philipsen-framework-higher-education-bias.md) — related
 - [Training providers and instructors faced logistical challenges moving in-person apprenticeship training online but adapted quickly](providers-adapted-in-person-training-online.md) — related
+- [The COVID-19 mandated shift to digital teaching created learning and performance contexts so different that the Philipsen et al. TPD-for-OBL framework's applicability may be limited](covid-context-limits-tpd-ob-framework.md) — a broader claim this one bears on
+- [The rapid shift to OBL affected teacher emotion and motivation, which are connected to teacher learning about OBL](teacher-emotion-motivation-rapid-ob-shift.md) — a broader claim this one bears on

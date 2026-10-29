@@ -68,3 +68,4 @@ Monte Carlo simulation with 1000 replications using the observed path coefficien
 - [Intelligence correlates with RL performance under low WM load but not under high WM load](intelligence-performance-correlation-varies-by-wm-load.md) — related
 - [Participants earned higher corrected reward rates under low WM load than high WM load in a two-stage RL task](low-wm-load-higher-corrected-reward-rate.md) — related
 - [Model-based strategy use and intelligence positively predict RL learning performance, while WM load negatively predicts it](mixing-weight-intelligence-predict-rl-performance.md) — related
+- [The effect of tool type on hypervideo product quality is partially mediated by performing fewer macro-actions](macro-actions-mediate-tool-effect-on-product-quality.md) — related

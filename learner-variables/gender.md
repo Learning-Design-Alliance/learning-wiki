@@ -13,7 +13,7 @@ generated:
 # Gender
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 337 claims (198 show a difference, 74 mixed, 65 no difference) · 225 studies (145 associational, 40 causal, 14 quant-synthesis, 11 review, 5 qualitative, 5 design, 5 theoretical), `q1`–`q4` · 40 of 225 report an effect size · 329 claims rest on one study
+> **Evidence** · 338 claims (198 show a difference, 74 mixed, 66 no difference) · 226 studies (145 associational, 40 causal, 14 quant-synthesis, 11 review, 6 design, 5 qualitative, 5 theoretical), `q1`–`q4` · 40 of 226 report an effect size · 330 claims rest on one study
 
 ## How to read this page
 
@@ -376,6 +376,7 @@ Gender is recorded in most education studies, usually as a binary category taken
 - [Female participants tended to outperform male participants in online SRL, while no substantial age differences were found](../claims/gender-difference-online-srl-females.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [No significant gender differences were found on any model variable](../claims/no-gender-differences-model-variables.md) [-M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Male and female subjects responded differently, confounding interpretation](../claims/sex-differences-confound-attitude-change.md) [+M] — an instructional effect differs by group
+- [The game was equally engaging across children's age and sex, with no significant relationship between number of sessions played and age or sex](../claims/trackfx-engagement-age-sex-null.md) [-M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## The evidence by question
 - *Do girls and boys differ in mathematics and reading achievement, by how much, and where in the distribution?* [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](../claims/pisa-sex-differences-math-small-reading-three-times-larger.md) [+M]

@@ -69,6 +69,7 @@ VR's core pedagogical value is safe, repeatable practice of procedural and spati
 - [Use advanced immersive learning technologies as research and learning tools to deliver developmentally-appropriate metacognitive scaffolding](immersive-tech-metacognitive-scaffolding-strategy.md)
 - [Combine error-amplification visual feedback with balance-based exergaming systems to expedite balance training for older adults, delivered via VR](ea-feedback-vr-exergaming-balance-older-adults.md)
 - [Integrate model-based supports across pretraining, in-simulation, and post-simulation stages of VR teacher practice](integrate-supports-across-vr-simulation-stages.md)
+- [Use immersive VR simulations to let students experience complex scientific phenomena that are hard to experience in everyday life](immersive-vr-for-hard-to-experience-phenomena.md)
 
 ## Examples
 - **Osso VR** (https://ossovr.com) — surgical rehearsal platform; randomized studies showed orthopedic trainees using it outperformed conventionally trained peers on assessed procedure performance [+M]
