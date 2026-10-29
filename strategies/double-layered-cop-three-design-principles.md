@@ -41,7 +41,7 @@ The article stresses three inter-related design principles. "First, students nee
 
 ## Claims
 
-- [In a course designed with the double-layered CoP model, more than half of participants developed successful external CoPs and most who responded continued them after the course](../claims/double-layered-cop-course-external-cop-outcomes.md) [+W]
+- [In a course designed with the double-layered CoP model, more than half of participants developed successful external CoPs, and nine students reported months later that they were still taking part in them](../claims/double-layered-cop-course-external-cop-outcomes.md) [+W]
 - [A carefully built course-internal CoP in a fully online doctoral program dissipated once the structured course period ended](../claims/course-internal-cop-dissipates-after-course-ends.md) [-W]
 - [Adult online learners in courses without structured collaboration spontaneously build effective learning communities in their offline work contexts](../claims/online-learners-spontaneous-offline-learning-communities.md) [+W]
 - [Sustaining large-scale online teacher communities of practice is generally more difficult than creating them](../claims/sustaining-online-teacher-cops-harder-than-creating.md) [~W]

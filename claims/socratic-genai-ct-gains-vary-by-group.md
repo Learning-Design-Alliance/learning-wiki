@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Critical-thinking gains from within-domain Socratic GenAI hold for teachers and undergraduates but not for graduate students
-description: Critical-thinking gains from within-domain Socratic GenAI hold for teachers and undergraduates but not for graduate students
+title: Self-rated critical thinking rose significantly after a within-domain Socratic GenAI dialogue for teachers and undergraduates but not for graduate students (no separate control; order and topic bundled)
+description: Self-rated critical thinking rose significantly after a within-domain Socratic GenAI dialogue for teachers and undergraduates but not for graduate students (no separate control; order and topic bundled)
 id: socratic-genai-ct-gains-vary-by-group
 status: review
 generated:
@@ -20,14 +20,14 @@ sources:
     rigour: 1
 ---
 
-# Critical-thinking gains from within-domain Socratic GenAI hold for teachers and undergraduates but not for graduate students
+# Self-rated critical thinking rose significantly after a within-domain Socratic GenAI dialogue for teachers and undergraduates but not for graduate students (no separate control; order and topic bundled)
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2` · `i3` large
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q2 i3` Teachers showed a statistically significant within-domain increase (W = 0.0, p = 0.004, r = −0.88), as did undergraduates (W = 65.5, p < 0.001, r = −0.85), while graduate students did not (W = 23.0, p = 0.064). [→ Aleksandra Bereznikova 2026](#aleksandra-bereznikova-2026)
+`q2 i3` Teachers showed a statistically significant within-domain increase in self-rated critical thinking (W = 0.0, p = 0.004, r = −0.88), as did undergraduates (W = 65.5, p < 0.001, r = −0.85), while graduate students did not (W = 23.0, p = 0.064). [→ Aleksandra Bereznikova 2026](#aleksandra-bereznikova-2026)
 
 ## Evidence
 
@@ -37,7 +37,7 @@ Aleksandra Bereznikova, Emily Theophilou, Davinia Hernández-Leo. (2026). The in
 
 `q2 · i3` · `causal · r1`
 
-Group-level Wilcoxon tests reported in Table 1 and Results; Table 1 prints r = −0.88 for teachers and r = −0.85 for undergraduates. The graduate group's change "did not reach statistical significance".
+Group-level Wilcoxon tests on self-rated critical thinking (questionnaire), comparing the within-domain Socratic GenAI condition with an outside-domain Socratic GenAI condition presented first, with no separate control, so topic, order and practice are bundled with the intervention; reported in Table 1 and Results; Table 1 prints r = −0.88 for teachers and r = −0.85 for undergraduates. The graduate group's change "did not reach statistical significance".
 
 > "the teachers demonstrated a significant increase in the within-domain condition (W = 0.0, p = 0.004), as did the undergraduate students (W = 65.5, p < 0.001). In contrast, the graduate students' improvement did not reach statistical significance (W = 23.0, p = 0.064)"
 

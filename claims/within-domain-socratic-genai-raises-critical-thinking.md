@@ -49,5 +49,5 @@ Within-subjects workshop study; 80 participants (41 undergraduate, 27 graduate, 
 - [Critical Thinking](../learner-variables/critical-thinking.md) — outcome: instruction changes it
 
 ## Related Claims
-- [Critical-thinking gains from within-domain Socratic GenAI hold for teachers and undergraduates but not for graduate students](socratic-genai-ct-gains-vary-by-group.md) — a narrower finding that bears on this claim
+- [Self-rated critical thinking rose significantly after a within-domain Socratic GenAI dialogue for teachers and undergraduates but not for graduate students (no separate control; order and topic bundled)](socratic-genai-ct-gains-vary-by-group.md) — a narrower finding that bears on this claim
 - [Meta-reviews reach contradictory conclusions on whether AI reliance harms or helps critical thinking, with substantial design limitations limiting generalizability](contradictory-meta-reviews-ai-critical-thinking.md) — a broader claim this one bears on

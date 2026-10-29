@@ -9,6 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: weak
 newest_evidence: 1951
+source_checked: 2026-10-29
 sources:
   - id: audio-visual-communication-review-1951
     resource: "https://eric.ed.gov/?q=Training+by+Television+Study+in+Learning+and+Retention"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
-> **Currency** · newest study 1951 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1951 · checked against its sources 2026-10-29 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The best teaching method was narration combined with drama or with film that explained and amplified the narration, while drama by itself was not very effective. [→ Audio-Visual Communication Review 1951](#audio-visual-communication-review-1951)

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: moderate
 newest_evidence: 2020
+source_checked: 2026-10-29
 sources:
   - id: jeroen-janssen-2020
     resource: "https://doi.org/10.1007/s11423-019-09729-5"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q4` · `i2` medium
-> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2020 · checked against its sources 2026-10-29 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q4 i2` Collaborative learning versus individual learning in computer-based settings shows significant positive effects on knowledge achievement (g = +0.42), skill acquisition (g = +0.64), and student perceptions (g = +0.38). [→ Jeroen Janssen 2020](#jeroen-janssen-2020)

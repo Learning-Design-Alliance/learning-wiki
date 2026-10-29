@@ -66,5 +66,5 @@ Same case study of thirteen online doctoral students. One cohort member, John, d
 ## Related Claims
 - [Sustaining large-scale online teacher communities of practice is generally more difficult than creating them](sustaining-online-teacher-cops-harder-than-creating.md) — a broader claim this one bears on
 - [Departure of a key person together with the end of external funding posed a genuine threat to the continuation of the online doctoral program](key-person-departure-funding-end-threat.md) — related
-- [In a course designed with the double-layered CoP model, more than half of participants developed successful external CoPs and most who responded continued them after the course](double-layered-cop-course-external-cop-outcomes.md) — related
+- [In a course designed with the double-layered CoP model, more than half of participants developed successful external CoPs, and nine students reported months later that they were still taking part in them](double-layered-cop-course-external-cop-outcomes.md) — related
 - [Adult online learners in courses without structured collaboration spontaneously build effective learning communities in their offline work contexts](online-learners-spontaneous-offline-learning-communities.md) — reports the opposite

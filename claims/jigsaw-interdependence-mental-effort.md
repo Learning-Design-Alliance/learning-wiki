@@ -9,6 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: weak
 newest_evidence: 2020
+source_checked: 2026-10-29
 sources:
   - id: jeroen-janssen-2020
     resource: "https://doi.org/10.1007/s11423-019-09729-5"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
-> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2020 · checked against its sources 2026-10-29 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Interdependence increased learning outcomes and significantly raised invested mental effort, while showing no effect on perceived cognitive load. [→ Jeroen Janssen 2020](#jeroen-janssen-2020)

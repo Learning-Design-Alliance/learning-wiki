@@ -65,6 +65,6 @@ The review attributes this to Slaouti (2007) and Hramiak (2010), and adds that T
 
 ## Related Claims
 - [A carefully built course-internal CoP in a fully online doctoral program dissipated once the structured course period ended](course-internal-cop-dissipates-after-course-ends.md) — a narrower finding that bears on this claim
-- [In a course designed with the double-layered CoP model, more than half of participants developed successful external CoPs and most who responded continued them after the course](double-layered-cop-course-external-cop-outcomes.md) — related
+- [In a course designed with the double-layered CoP model, more than half of participants developed successful external CoPs, and nine students reported months later that they were still taking part in them](double-layered-cop-course-external-cop-outcomes.md) — related
 - [A facilitated Community of Practice helped isolated state American Indian Education Directors build relationships that broke down silos and combated professional isolation](cop-relationships-combat-aie-director-isolation.md) — related
 - [Attending to affect in co-design supports community formation and cross-scale transfer](attending-to-affect-in-co-design-supports-community-and-cross-scale-transfer.md) — related

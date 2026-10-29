@@ -9,6 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: weak
 newest_evidence: 2023
+source_checked: 2026-10-29
 sources:
   - id: friday-joseph-agbo-2023
     resource: "https://doi.org/10.1007/s11423-022-10161-5"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q1`
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · checked against its sources 2026-10-29 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Analysis of free-form responses showed major feedback centered on interaction and response to the game, with students finding it difficult to move freely in the virtual world. [→ Friday Joseph Agbo 2023](#friday-joseph-agbo-2023)

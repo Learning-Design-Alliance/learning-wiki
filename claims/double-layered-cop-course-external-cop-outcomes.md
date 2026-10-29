@@ -1,7 +1,7 @@
 ---
 type: claim
-title: In a course designed with the double-layered CoP model, more than half of participants developed successful external CoPs and most who responded continued them after the course
-description: In a course designed with the double-layered CoP model, more than half of participants developed successful external CoPs and most who responded continued them after the course
+title: In a course designed with the double-layered CoP model, more than half of participants developed successful external CoPs, and nine students reported months later that they were still taking part in them
+description: In a course designed with the double-layered CoP model, more than half of participants developed successful external CoPs, and nine students reported months later that they were still taking part in them
 id: double-layered-cop-course-external-cop-outcomes
 status: review
 generated:
@@ -9,6 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: moderate
 newest_evidence: 2018
+source_checked: 2026-10-29
 sources:
   - id: kyungmee-lee-2018
     resource: "https://doi.org/10.1007/s11423-018-9613-y"
@@ -28,11 +29,11 @@ sources:
     rigour: 2
 ---
 
-# In a course designed with the double-layered CoP model, more than half of participants developed successful external CoPs and most who responded continued them after the course
+# In a course designed with the double-layered CoP model, more than half of participants developed successful external CoPs, and nine students reported months later that they were still taking part in them
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q2`
-> **Currency** · newest study 2018 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2018 · checked against its sources 2026-10-29 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Ten of seventeen participants in a double-layered CoP course had successful external CoP experiences including collaborative practice, while the others achieved membership development and knowledge sharing but often failed to establish shared practice. [→ Kyungmee Lee 2018](#kyungmee-lee-2018)

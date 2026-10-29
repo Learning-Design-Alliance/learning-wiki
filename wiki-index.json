@@ -35561,6 +35561,7 @@
 "id":"board-game-ethics-benefits-challenges-srl-phases",
 "newest_evidence":"2026",
 "path":"claims/board-game-ethics-benefits-challenges-srl-phases.md",
+"source_checked":"2026-10-29",
 "status":"review",
 "title":"Adult learners report both benefits and challenges when playing ethics board games, and these cluster into 21 benefit and 21 challenge themes across the forethought, performance, and reflection phases of self-regulated learning",
 "type":"claim"
@@ -42553,6 +42554,7 @@
 "id":"cfa-confirms-three-factor-cognitive-load-structure",
 "newest_evidence":"2023",
 "path":"claims/cfa-confirms-three-factor-cognitive-load-structure.md",
+"source_checked":"2026-10-29",
 "status":"review",
 "title":"A confirmatory factor analysis on a new sample confirms the three-factor structure with acceptable model fit and moderate convergent validity",
 "type":"claim"
@@ -45717,6 +45719,7 @@
 "id":"chen-2018-meta-analysis-cscl-positive-effects",
 "newest_evidence":"2020",
 "path":"claims/chen-2018-meta-analysis-cscl-positive-effects.md",
+"source_checked":"2026-10-29",
 "status":"review",
 "title":"Meta-analysis finds collaboration, computer use, and learning environments/tools/scaffolds each have significantly positive effects on knowledge acquisition in CSCL",
 "type":"claim"
@@ -85350,13 +85353,14 @@
 "type":"claim"
 },
 {
-"description":"In a course designed with the double-layered CoP model, more than half of participants developed successful external CoPs and most who responded continued them after the course",
+"description":"In a course designed with the double-layered CoP model, more than half of participants developed successful external CoPs, and nine students reported months later that they were still taking part in them",
 "evidence_strength":"moderate",
 "id":"double-layered-cop-course-external-cop-outcomes",
 "newest_evidence":"2018",
 "path":"claims/double-layered-cop-course-external-cop-outcomes.md",
+"source_checked":"2026-10-29",
 "status":"review",
-"title":"In a course designed with the double-layered CoP model, more than half of participants developed successful external CoPs and most who responded continued them after the course",
+"title":"In a course designed with the double-layered CoP model, more than half of participants developed successful external CoPs, and nine students reported months later that they were still taking part in them",
 "type":"claim"
 },
 {
@@ -158600,6 +158604,7 @@
 "id":"ithinksmart-prototype-feedback-themes",
 "newest_evidence":"2023",
 "path":"claims/ithinksmart-prototype-feedback-themes.md",
+"source_checked":"2026-10-29",
 "status":"review",
 "title":"First-level participant feedback found the iThinkSmart prototype engaging but flagged movement, navigation, graphics, and device-support issues for improvement",
 "type":"claim"
@@ -159662,6 +159667,7 @@
 "id":"jigsaw-interdependence-mental-effort",
 "newest_evidence":"2020",
 "path":"claims/jigsaw-interdependence-mental-effort.md",
+"source_checked":"2026-10-29",
 "status":"review",
 "title":"Structuring means interdependence via Jigsaw in Minecraft increased learning outcomes and invested mental effort but not perceived cognitive load",
 "type":"claim"
@@ -199031,6 +199037,7 @@
 "id":"multimedia-learning-review-cites-generative-theory-textbook-design",
 "newest_evidence":"2004",
 "path":"claims/multimedia-learning-review-cites-generative-theory-textbook-design.md",
+"source_checked":"2026-10-29",
 "status":"review",
 "title":"The review draws on Mayer and colleagues' generative theory of textbook design using annotated illustrations to foster meaningful learning of science text",
 "type":"claim"
@@ -200836,6 +200843,7 @@
 "id":"narration-with-drama-or-film-best-tv-method",
 "newest_evidence":"1951",
 "path":"claims/narration-with-drama-or-film-best-tv-method.md",
+"source_checked":"2026-10-29",
 "status":"review",
 "title":"Narration combined with drama or explanatory film was the most effective TV teaching method; drama alone was not very effective",
 "type":"claim"
@@ -286687,13 +286695,13 @@
 "type":"claim"
 },
 {
-"description":"Critical-thinking gains from within-domain Socratic GenAI hold for teachers and undergraduates but not for graduate students",
+"description":"Self-rated critical thinking rose significantly after a within-domain Socratic GenAI dialogue for teachers and undergraduates but not for graduate students (no separate control; order and topic bundled)",
 "evidence_strength":"mixed",
 "id":"socratic-genai-ct-gains-vary-by-group",
 "newest_evidence":"2026",
 "path":"claims/socratic-genai-ct-gains-vary-by-group.md",
 "status":"review",
-"title":"Critical-thinking gains from within-domain Socratic GenAI hold for teachers and undergraduates but not for graduate students",
+"title":"Self-rated critical thinking rose significantly after a within-domain Socratic GenAI dialogue for teachers and undergraduates but not for graduate students (no separate control; order and topic bundled)",
 "type":"claim"
 },
 {

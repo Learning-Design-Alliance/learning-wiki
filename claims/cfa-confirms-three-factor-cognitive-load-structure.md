@@ -9,6 +9,7 @@ generated:
   at: 2026-10-22
 evidence_strength: moderate
 newest_evidence: 2023
+source_checked: 2026-10-29
 sources:
   - id: krieglstein-2023
     resource: "https://doi.org/10.1007/s10648-023-09738-0"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r3` · `q2`
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · checked against its sources 2026-10-29 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In Study 2 (n = 158), the a priori three-factor model showed acceptable fit (CFI = 0.92; RMSEA = 0.10; GFI = 0.92; SRMR = 0.07) with all items loading on their intended factor. [→ Krieglstein 2023](#krieglstein-2023)
