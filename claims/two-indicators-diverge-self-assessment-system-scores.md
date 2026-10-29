@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-28
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: de-barba-2025
     resource: "https://doi.org/10.1007/s11423-025-10521-x"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Indicators 6 and 7 had a significant discrepancy between self-assessment and system-generated scores (p < 0.05), indicating divergence between student perception and learning analytics observations. [→ de Barba 2025](#de-barba-2025)

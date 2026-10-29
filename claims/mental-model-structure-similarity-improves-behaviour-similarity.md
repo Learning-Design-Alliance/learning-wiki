@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-28
 evidence_strength: moderate
+newest_evidence: 2009
 sources:
   - id: capelo-2009
     resource: "https://doi.org/10.1007/s11423-009-9123-z"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Mental Model Structure Similarity positively influences Mental Model Behaviour Similarity (b = 0.320, P < 0.041), supporting Hypothesis 3. [→ Capelo 2009](#capelo-2009)

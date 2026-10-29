@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-28
 evidence_strength: weak
+newest_evidence: 1955
 sources:
   - id: nelson-1955
     resource: "https://eric.ed.gov/?id=ED016911"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 1955 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Test items based on diagrams did not produce significantly higher scores than purely verbal items. [→ Nelson 1955](#nelson-1955)

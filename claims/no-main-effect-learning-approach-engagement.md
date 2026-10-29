@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-28
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: yorganci-2025
     resource: "https://doi.org/10.1007/s11423-025-10459-0"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The learning approach (flipped vs. non-flipped) showed no significant main effect on any engagement dimension, though descriptive means approached significance for cognitive and emotional engagement. [→ Yorganci 2025](#yorganci-2025)

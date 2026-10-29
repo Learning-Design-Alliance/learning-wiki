@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-28
 evidence_strength: moderate
+newest_evidence: 2025
+source_checked: 2026-10-29
 sources:
   - id: jia-2025
     resource: "https://doi.org/10.1007/s11423-024-10428-z"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2025 · checked against its sources 2026-10-29 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The POET-O demonstrates adequate construct validity and reliability as a peer evaluation measure of single online lessons. [→ Jia 2025](#jia-2025)
@@ -35,7 +38,7 @@ Jia, Y., Spagnolo, A. B., Barrett, N., Murphy, A. A., Basto, P. M., Rothpletz-Pu
 
 `q2 · i?` · `design · r2`
 
-Pilot validation study using many-facet Rasch measurement on ratings from 26 reviewers of 26 lessons in a school of health professions. The authors conclude the tool is a "reliable and valid peer observation measure of both online synchronous and asynchronous lessons."
+Pilot validation study using many-facet Rasch measurement on faculty peer ratings in a school of health professions: 26 reviewers were randomly assigned to evaluate 14 asynchronous lessons, and 22 reviewers to evaluate 12 synchronous lessons (26 lessons in all). The authors conclude the tool is a "reliable and valid peer observation measure of both online synchronous and asynchronous lessons."
 
 > "Based on the Rasch model analyses, overall, the modified POET-O is a reliable and valid peer observation measure of both online synchronous and asynchronous lessons."
 

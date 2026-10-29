@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-28
 evidence_strength: weak
+newest_evidence: 2021
 sources:
   - id: assaf-2021
     resource: "https://doi.org/10.1007/s11423-020-09885-z"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Nacu, Martin, and Pinkard's inquiries into designing for 21st century learning online coincided with the questions researchers and teachers asked when schools closed during the COVID-19 lockdown. [→ Assaf 2021](#assaf-2021)

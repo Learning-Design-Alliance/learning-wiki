@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-28
 evidence_strength: weak
+newest_evidence: 2021
 sources:
   - id: lohman-2021
     resource: "https://doi.org/10.1007/s11423-020-09899-7"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Faculty roles as designers are established by Bennett et al.'s research and are an essential consideration for institutions seeking digital design talent. [→ Lohman 2021](#lohman-2021)

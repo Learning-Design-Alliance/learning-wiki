@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-28
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: chen-2025
     resource: "https://doi.org/10.1007/s11423-025-10536-4"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Freeman's graph centrality (gcent) of participant networks was not related to network expert overlap nor to posttest scores in Study 1, and not related to any other measures in Study 2. [→ Chen 2025](#chen-2025)

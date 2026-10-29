@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-28
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: hankeln-2025
     resource: "https://doi.org/10.1007/s11423-025-10486-x"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q3`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Students taught with the Mastering Math program in small pull-out groups had significantly higher learning gains in conceptual understanding of basic concepts and in basic skills than the control group. [→ Hankeln 2025](#hankeln-2025)

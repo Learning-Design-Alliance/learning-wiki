@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-28
 evidence_strength: moderate
+newest_evidence: 2011
 sources:
   - id: wouters-2011
     resource: "https://doi.org/10.1007/s11423-010-9183-0"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` On procedural items novices performed better on the posttest compared to the pretest, while for advanced learners the pattern was reversed with significant improvement on declarative items only. [→ Wouters 2011](#wouters-2011)

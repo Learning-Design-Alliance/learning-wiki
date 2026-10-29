@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-28
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: torres-martín-2022
     resource: "https://doi.org/10.1007/s11423-022-10095-y"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The probability of failing the subject is 1.538 times greater when students are taught using the traditional method (Fisher exact test, p = .002). [→ Torres-Martín 2022](#torres-martin-2022)
@@ -43,7 +45,7 @@ Fisher exact test on fail/pass categories for 522 traditional and 635 flipped cl
 
 
 ## Related Claims
-- [Flipped classroom methodology yields significantly higher average grades than traditional methodology](flipped-classroom-higher-grades-than-traditional.md) — related
+- [Cohorts taught with the flipped classroom earned significantly higher average grades than earlier cohorts taught traditionally, in a non-equivalent-groups comparison](flipped-classroom-higher-grades-than-traditional.md) — related
 - [Probability of notable grades is substantially higher under flipped classroom methodology](flipped-classroom-notable-grade-odds.md) — related
 - [No significant difference in distinction grades by teaching methodology](no-methodology-difference-distinction-grades.md) — related
 - [Teaching methodology has no effect on student withdrawal from the exam](no-methodology-effect-exam-withdrawal.md) — related

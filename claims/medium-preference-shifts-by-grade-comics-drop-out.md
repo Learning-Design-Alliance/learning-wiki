@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-28
 evidence_strength: weak
+newest_evidence: 1953
 sources:
   - id: audio-visual-communication-review-1953
     resource: "https://eric.ed.gov/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q2`
+> **Currency** · newest study 1953 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Kindergarten, second and fourth grade children tend to prefer television and sixth grade children tend to prefer movies; comics drop out because they lack the appeal of movies and TV even though they are contacted in a preferred situation. [→ Audio-Visual Communication Review 1953](#audio-visual-communication-review-1953)

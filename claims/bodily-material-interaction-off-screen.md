@@ -51,4 +51,4 @@ The editorial summarizes Davidsen and Ryberg's fine-grained analysis of two nine
 - [Gestures and bodily actions lighten cognitive load and extend mathematical ideas across group members during collaboration](gestures-material-scaffolding-collaboration.md) — related
 - [Microanalysis shows on-task and off-task participation is multilayered, with students frequently on- and off-task simultaneously through different modalities](multilayered-on-off-task-microanalysis.md) — related
 - [Kid Space use shifted children's attention away from the screen toward the physical environment](kid-space-less-screen-attention.md) — related
-- [Kid Space use increased children's physical activity during play-based learning](kid-space-more-physical-activity.md) — related
+- [First-graders using Kid Space showed physical activity during play-based learning, in an exploratory case study without a comparison](kid-space-more-physical-activity.md) — related

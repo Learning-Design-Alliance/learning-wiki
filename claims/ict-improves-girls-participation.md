@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-28
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: liang-2023
     resource: "https://doi.org/10.1007/s11423-022-10178-w"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Improved participation and practice were observed in more than half of the included studies featuring DGBL, mobile-enabled learning and CAL. [→ Liang 2023](#liang-2023)

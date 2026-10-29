@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-28
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: kurz-2026
     resource: "https://doi.org/10.1007/s11423-026-10594-2"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Only one human vision construct (Construct 17, using data) shifted clusters pre- to post-PD, indicating stability in teachers' perceptions of human vision. [→ Kurz 2026](#kurz-2026)
@@ -44,7 +46,7 @@ Analysis of the human vision dendrograms in the same pre/post repertory grid stu
 
 ## Related Claims
 - [All computer vision cluster means increased post-PD and the most descriptive cluster became more detailed, indicating teachers viewed computer vision constructs as more descriptive after PD](cv-cluster-means-increased-post-pd.md) — related
-- [A two-to-three-week computer vision professional development program shifted the majority of middle school teachers' computer vision constructs across clusters (72%, n = 13), indicating restructuring of their perceptions of computer vision](cv-pd-restructures-teacher-cv-constructs.md) — related
+- [After a two-to-three-week computer vision professional development program, 13 of 18 (72%) of middle school teachers' computer vision constructs shifted clusters, which the authors read as restructured perceptions (pre/post, no comparison group)](cv-pd-restructures-teacher-cv-constructs.md) — related
 - [After PD, teachers rated computer vision as more similar to human vision, with computer vision cluster 1 matching human vision cluster 1 on seven constructs post-PD versus one pre-PD](cv-perceived-more-similar-to-human-vision-post-pd.md) — related
 - [Individual computer vision constructs showed notable mean increases and cluster shifts, including sensing the surroundings (26% increase, cluster 4 to 2) and able to detect objects (18% increase, cluster 3 to 1)](individual-cv-construct-shifts-and-mean-increases.md) — related
 - [Teachers' construct for computer vision 'sensing the surroundings' was initially viewed as not descriptive of computer vision but became more descriptive after PD](sensing-surroundings-construct-became-descriptive.md) — related

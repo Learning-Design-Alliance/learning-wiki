@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-28
 evidence_strength: weak
+newest_evidence: 1953
 sources:
   - id: michael-1953
     resource: "https://eric.ed.gov/?q=Michael+audience+participation+factual+film"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 1953 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Adding supplementary examples improved learning even after the original film's examples were doubled. [→ Michael 1953](#michael-1953)

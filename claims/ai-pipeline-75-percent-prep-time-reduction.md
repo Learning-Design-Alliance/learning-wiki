@@ -9,6 +9,7 @@ generated:
   at: 2026-10-10
 evidence_strength: weak
 newest_evidence: 2026
+source_checked: 2026-10-29
 sources:
   - id: henrique-mohallem-paiva-2026
     resource: "https://doi.org/10.48550/arxiv.2608.07364"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-10-29 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Authoring a complete modular technical slide deck dropped from an average of eight hours of continuous manual effort to an average of two hours of active human-in-the-loop workload. [→ Henrique Mohallem Paiva 2026](#henrique-mohallem-paiva-2026)

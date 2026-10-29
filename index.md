@@ -31,7 +31,7 @@ Reusable instructional designs at the lesson or unit level.
 ### [Designs](designs/index.md) (1215)
 Designs for a particular setting, course, population or product: what a design uses the general patterns for. A pattern is general across contexts; a design is not.
 
-### [Products & Programmes](products/index.md) (2202)
+### [Products & Programmes](products/index.md) (2201)
 Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's.
 
 ### [Strategies](strategies/index.md) (7400)

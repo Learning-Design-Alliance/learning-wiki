@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-28
 evidence_strength: moderate
+newest_evidence: 2022
+source_checked: 2026-10-29
 sources:
   - id: aslan-2022
     resource: "https://doi.org/10.1007/s11423-021-10072-x"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2022 · checked against its sources 2026-10-29 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students focused less attention on the projected wall screen during Kid Space activities. [→ Aslan 2022](#aslan-2022)
@@ -44,7 +47,7 @@ Observational and multimodal analysis in the exploratory case study found "less 
 
 ## Related Claims
 - [First-graders using Kid Space demonstrated high levels of engagement during play-based learning](kid-space-high-engagement-first-graders.md) — related
-- [Kid Space use increased children's physical activity during play-based learning](kid-space-more-physical-activity.md) — related
+- [First-graders using Kid Space showed physical activity during play-based learning, in an exploratory case study without a comparison](kid-space-more-physical-activity.md) — related
 - [In a multimedia animation, participants focused more on signalled objects and detected fewer changes in other screen areas](signalling-focuses-attention-reduces-change-detection-elsewhere.md) — related
 - [Cluttered classroom walls distract children and reduce learning, while intermediate-stimulation orderly classrooms support it](orderly-classroom-environments-support-learning.md) — related
 - [Much bodily-material coordination in touchscreen collaboration occurs in the space off the screen](bodily-material-interaction-off-screen.md) — related

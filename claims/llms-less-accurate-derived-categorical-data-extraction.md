@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-28
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: schroeder-2025
     resource: "https://osf.io/nraxf/?view_only=879654690be249cc9237525ed7f86ec2"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` For 15 derived variables requiring categorization, exact-match agreement fell to 65.48% (Gemini 1.5 Pro, k = 0.24), 64.88% (Gemini 1.5 Flash, k = 0.23), and 56.79% (Mistral Large 2, k = 0.12). [→ Schroeder 2025](#schroeder-2025)

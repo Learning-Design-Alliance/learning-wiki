@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-28
 evidence_strength: moderate
+newest_evidence: 1955
 sources:
   - id: research-abstracts-163-1955
     resource: "https://eric.ed.gov/?id=NONE"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
+> **Currency** · newest study 1955 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Permitting individuals to practice a perceptual motor task between learning experiences did not prove to be an aid to learning, and concurrent practice was not found to be an aid. [→ RESEARCH ABSTRACTS 163 1955](#research-abstracts-163-1955)

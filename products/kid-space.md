@@ -24,7 +24,7 @@ Kid Space is an immersive collaborative play-based learning environment develope
 ### Claims
 - [First-graders using Kid Space demonstrated high levels of engagement during play-based learning](../claims/kid-space-high-engagement-first-graders.md) [+M]
 - [Kid Space use shifted children's attention away from the screen toward the physical environment](../claims/kid-space-less-screen-attention.md) [+M]
-- [Kid Space use increased children's physical activity during play-based learning](../claims/kid-space-more-physical-activity.md) [+M]
+- [First-graders using Kid Space showed physical activity during play-based learning, in an exploratory case study without a comparison](../claims/kid-space-more-physical-activity.md) [+W]
 
 ## Related Products and Programmes
 -

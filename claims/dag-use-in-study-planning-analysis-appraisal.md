@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-28
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: weidlich-2024
     resource: "https://doi.org/10.1007/s11423-023-10241-0"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q1`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` DAGs support causal reasoning at every stage of the empirical research process: in planning, to formulate causal questions and build identification strategies; in analysis, to decide which covariates to adjust for; and in appraisal, to re-interpret published findings for hidden confounding, overcontrol, or collider bias. [→ Weidlich 2024](#weidlich-2024)

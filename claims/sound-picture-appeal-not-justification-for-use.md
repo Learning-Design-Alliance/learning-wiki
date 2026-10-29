@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-28
 evidence_strength: weak
+newest_evidence: 1953
 sources:
   - id: slattery-1953
     resource: "https://eric.ed.gov/?id=ED073727"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 1953 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Sound motion picture appeal, evident from only 24 pupils preferring silent filmstrips, was not justification for use according to the recorded results. [→ Slattery 1953](#slattery-1953)

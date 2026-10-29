@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-28
 evidence_strength: weak
+newest_evidence: 1960
 sources:
   - id: myers-1960
     resource: "https://eric.ed.gov/?id=EDDIGITS"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r?` · `q2`
+> **Currency** · newest study 1960 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A quick and economical sequential analysis technique estimates the efficiency of a television program, defined as the cost in dollars to reach 1000 households. [→ Myers 1960](#myers-1960)

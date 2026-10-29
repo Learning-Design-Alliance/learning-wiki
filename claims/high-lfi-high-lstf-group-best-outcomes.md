@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-28
 evidence_strength: moderate
+newest_evidence: 2009
 sources:
   - id: capelo-2009
     resource: "https://doi.org/10.1007/s11423-009-9123-z"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Participants in group C (high LFI, high LSTF) showed on average the best Mental Model Structure Similarity (mean = 0.443), the best Mental Model Behaviour Similarity (mean = 0.742) and the best Performance (mean = 628), significantly different from groups A and B. [→ Capelo 2009](#capelo-2009)

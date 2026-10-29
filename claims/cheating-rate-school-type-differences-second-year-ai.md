@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-28
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: ruishi-chen-2026
     resource: "https://doi.org/10.1007/s11423-026-10587-1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In the 2023-24 survey, self-reported rates of at least one academically dishonest behavior in the prior month were highest in charter schools (78.99%), followed by public schools (74.69%), with private schools notably lower (61.22%). [→ Ruishi Chen 2026](#ruishi-chen-2026)

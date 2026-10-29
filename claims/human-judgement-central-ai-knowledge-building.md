@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-28
 evidence_strength: weak
+newest_evidence: 2026
+source_checked: 2026-10-29
 sources:
   - id: falloon-2026
     resource: "https://doi.org/10.1007/s11423-026-10605-2"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-29 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The article argues that human reasoned judgement, grounded in ethical commitment and understanding of culture and context, is essential for deciding if and how to deploy AI-human outputs in knowledge building. [→ Falloon 2026](#falloon-2026)

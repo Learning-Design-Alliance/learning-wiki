@@ -114,7 +114,7 @@ Physical well-being covers a learner's overall physical health: nutrition, regul
 - [Exercise during class does not significantly affect depression, interest, sleep frequency, or mind-wandering](../claims/classroom-exercise-no-cognitive-engagement-effect.md) [-M] — instruction changes it
 - [Low-intensity exercise during class significantly decreases students' fatigue](../claims/classroom-exercise-decreases-fatigue.md) [+M] — instruction changes it
 - [Low-intensity exercise during university class significantly increases students' vigour during the lesson](../claims/classroom-exercise-increases-vigour.md) [+M] — instruction changes it
-- [Kid Space use increased children's physical activity during play-based learning](../claims/kid-space-more-physical-activity.md) [+M] — instruction changes it
+- [First-graders using Kid Space showed physical activity during play-based learning, in an exploratory case study without a comparison](../claims/kid-space-more-physical-activity.md) [+W] — instruction changes it
 
 ## Measures
 - **Body Mass Index (BMI)**: a measure of body fat calculated from height and weight.

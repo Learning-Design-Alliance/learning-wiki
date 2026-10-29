@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-28
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: törmänen-2021
     resource: "https://doi.org/10.1007/s11423-021-10037-0"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` When groups showed no observable emotional expressions (neutral valence), they were less often in a physiologically activating state; no significant relationships emerged between positive, negative, or mixed valence and activation. [→ Törmänen 2021](#tormanen-2021)

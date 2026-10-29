@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-28
 evidence_strength: moderate
+newest_evidence: 1953
 sources:
   - id: slattery-1953
     resource: "https://eric.ed.gov/?id=ED073727"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 1953 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Pupils of all intelligence levels learned from both media, with higher-intelligence pupils scoring correspondingly higher. [→ Slattery 1953](#slattery-1953)

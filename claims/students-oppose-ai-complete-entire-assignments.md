@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-28
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: ruishi-chen-2026
     resource: "https://doi.org/10.1007/s11423-026-10587-1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In the 2023-24 survey, 82.73% of students said AI chatbots should never be allowed for completing entire assignments or writing all papers, while majorities supported AI for concept explanation (59.87% always) and idea generation (56.95% sometimes). [→ Ruishi Chen 2026](#ruishi-chen-2026)

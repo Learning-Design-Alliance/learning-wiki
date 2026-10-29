@@ -23,7 +23,7 @@ ImageSTEAM is a freely available computer-vision professional-development and cu
 - **ImageSTEAM computer vision PD intervention using free online tools (pixlr, Teachable Machine, GauGAN, Tinkercad) with teachers co-creating and delivering lessons to middle school students**: The intervention was a two-to-three-week professional development experience in which in-service middle school teachers from Title I schools learned computer vision technologies and then taught lessons to middle school students. Tools used were free, browser-based, and required no programming: "pixlr (an image editing software)", "Google's Teachable Machine (a tool which allows students to capture image or audio data, define a class for the data, and train a classification-based neural network)", NVIDIA's GauGAN, and Tinkercad, plus custom Google Colaboratory notebooks demonstrating vision algorithms. Curricular materials are freely available at https://www.imagesteam.org. (Kurz et al. (2026))
 
 ### Claims
-- [A two-to-three-week computer vision professional development program shifted the majority of middle school teachers' computer vision constructs across clusters (72%, n = 13), indicating restructuring of their perceptions of computer vision](../claims/cv-pd-restructures-teacher-cv-constructs.md) [+M]
+- [After a two-to-three-week computer vision professional development program, 13 of 18 (72%) of middle school teachers' computer vision constructs shifted clusters, which the authors read as restructured perceptions (pre/post, no comparison group)](../claims/cv-pd-restructures-teacher-cv-constructs.md) [+M]
 
 ## Related Products and Programmes
 -

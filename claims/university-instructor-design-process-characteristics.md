@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-28
 evidence_strength: moderate
+newest_evidence: 2021
+source_checked: 2026-10-29
 sources:
   - id: karakaya-2021
     resource: "https://doi.org/10.1007/s11423-020-09884-0"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
+> **Currency** · newest study 2021 · checked against its sources 2026-10-29 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A qualitative interview study of 30 instructors across 16 Australian universities identified design characteristics of top-down, breadth-first, iterative, responsive, and reflective design processes. [→ Karakaya 2021](#karakaya-2021)

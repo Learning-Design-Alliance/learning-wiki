@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-28
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: chen-2025
     resource: "https://doi.org/10.1007/s11423-025-10536-4"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3` · `i3` large
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Grade 7 students' sorting-task network overlap with the expert Qin network correlated significantly with Qin test scores (r = 0.25) and Unit 3 exam scores (r = 0.37) one month after the exam. [→ Chen 2025](#chen-2025)

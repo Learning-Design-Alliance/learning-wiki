@@ -43,7 +43,7 @@ The authors recommend that computer vision professional development be hands-on,
 ## Claims
 
 - [All computer vision cluster means increased post-PD and the most descriptive cluster became more detailed, indicating teachers viewed computer vision constructs as more descriptive after PD](../claims/cv-cluster-means-increased-post-pd.md) [+W]
-- [A two-to-three-week computer vision professional development program shifted the majority of middle school teachers' computer vision constructs across clusters (72%, n = 13), indicating restructuring of their perceptions of computer vision](../claims/cv-pd-restructures-teacher-cv-constructs.md) [+W]
+- [After a two-to-three-week computer vision professional development program, 13 of 18 (72%) of middle school teachers' computer vision constructs shifted clusters, which the authors read as restructured perceptions (pre/post, no comparison group)](../claims/cv-pd-restructures-teacher-cv-constructs.md) [+W]
 - [After PD, teachers rated computer vision as more similar to human vision, with computer vision cluster 1 matching human vision cluster 1 on seven constructs post-PD versus one pre-PD](../claims/cv-perceived-more-similar-to-human-vision-post-pd.md) [+W]
 - [Teachers' perceptions of human vision remained largely stable following computer vision PD, with only one construct (6%, n = 1) shifting clusters](../claims/human-vision-perceptions-stable-after-cv-pd.md) [+W]
 - [Individual computer vision constructs showed notable mean increases and cluster shifts, including sensing the surroundings (26% increase, cluster 4 to 2) and able to detect objects (18% increase, cluster 3 to 1)](../claims/individual-cv-construct-shifts-and-mean-increases.md) [+W]

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-28
 evidence_strength: weak
+newest_evidence: 2017
 sources:
   - id: jonathan-michael-spector-2017
     resource: "https://doi.org/10.1007/s11423-017-9545-y"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across instructor, designer, evaluator, training manager and online learner positions, communication skills are consistently ranked most important, yet few preparation programs embed sufficient emphasis and practice on them. [→ Jonathan Michael Spector 2017](#jonathan-michael-spector-2017)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-28
 evidence_strength: moderate
+newest_evidence: 1955
 sources:
   - id: research-abstracts-163-1955
     resource: "https://eric.ed.gov/?id=NONE"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
+> **Currency** · newest study 1955 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` More learning occurred when a single demonstration was repeated than when an equivalent number of different demonstrations was given. [→ RESEARCH ABSTRACTS 163 1955](#research-abstracts-163-1955)

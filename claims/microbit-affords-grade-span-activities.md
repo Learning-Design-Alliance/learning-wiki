@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-28
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: bredder-2026
     resource: "https://doi.org/10.1007/s11423-026-10628-9"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A high-school-focused technology support specialist envisioned Roversa as open-ended, spanning PreK through twelfth grade, with the micro:bit's pins allowing control of many things beyond buttons and the LED screen. [→ Bredder 2026](#bredder-2026)

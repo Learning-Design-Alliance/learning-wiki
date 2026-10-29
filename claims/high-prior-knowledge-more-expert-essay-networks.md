@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-28
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: chen-2025
     resource: "https://doi.org/10.1007/s11423-025-10536-4"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The H-group's essay network overlap with the expert network was much higher than the L-group's (Z = −5.28, p <.001), and their essay network gcent was also more expert-like (Z = −4.25, p <.001). [→ Chen 2025](#chen-2025)

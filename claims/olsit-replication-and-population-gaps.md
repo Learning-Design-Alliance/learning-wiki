@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-28
 evidence_strength: weak
+newest_evidence: 2021
 sources:
   - id: dave-edyburn-2021
     resource: "https://doi.org/10.1007/s11423-020-09919-6"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The literature has yet to see replications of the OLSit model, and there is an urgent need to determine how to support students with underdeveloped self-regulation skills or lacking home technology access. [→ Dave Edyburn 2021](#dave-edyburn-2021)

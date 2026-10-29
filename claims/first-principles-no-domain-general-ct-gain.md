@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-28
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: tiruneh-2016
     resource: "https://doi.org/10.1007/s11423-015-9417-2"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` There was no significant interaction between intervention type and testing time on HCTA scores. [→ Tiruneh 2016](#tiruneh-2016)

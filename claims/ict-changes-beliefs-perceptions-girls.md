@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-28
 evidence_strength: moderate
+newest_evidence: 2023
+source_checked: 2026-10-29
 sources:
   - id: liang-2023
     resource: "https://doi.org/10.1007/s11423-022-10178-w"
@@ -31,9 +33,10 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2`–`r3` · `q2`
+> **Currency** · newest study 2023 · checked against its sources 2026-10-29 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
-`q2 i?` Increased interest and motivation were found in most studies across all four approaches, attributed to changes in perceptions of ICT and of girls' capacity. [→ Liang 2023](#liang-2023)
+`q2 i?` Increased interest and motivation were found in most studies across all four approaches; the reviewers suggest this "may stem from" changes in perceptions of ICT and of girls' capacity, a tentative interpretation rather than a tested cause. [→ Liang 2023](#liang-2023)
 `q2 i?` Girls' learning gain could be equal to boys', while their learning style or experience may differ. [→ Liang 2023 (2)](#liang-2023-2)
 
 ## Evidence

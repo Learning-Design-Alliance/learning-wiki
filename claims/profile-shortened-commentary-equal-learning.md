@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-28
 evidence_strength: moderate
+newest_evidence: 1955
 sources:
   - id: fletcher-1955
     resource: "https://eric.ed.gov/?q=Fletcher+profile+analysis+film+commentaries"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
+> **Currency** · newest study 1955 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Recruits hearing the shortest (profile) version of the Human Reproduction commentary learned as much as those hearing the writers' and full versions. [→ Fletcher 1955](#fletcher-1955)

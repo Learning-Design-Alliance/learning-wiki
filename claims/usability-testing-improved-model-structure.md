@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-28
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: lee-2017
     resource: "https://doi.org/10.1007/s11423-016-9502-1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r3` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Feedback from two rounds of model usability tests led to dividing course level and lesson level design and adding a formative evaluation step at the center of the model. [→ Lee 2017](#lee-2017)

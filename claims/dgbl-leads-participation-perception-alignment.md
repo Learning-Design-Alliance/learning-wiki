@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-28
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: liang-2023
     resource: "https://doi.org/10.1007/s11423-022-10178-w"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across the reviewed studies, DGBL aligns with practice and participation (83%) and belief and perception (83%) more than mobile-enabled learning (71%/57%), CAL (50%/57%) and emerging technologies (33%/67%). [→ Liang 2023](#liang-2023)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-28
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: blanco-2024
     resource: "https://doi.org/10.1007/s11423-024-10376-8"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r3` · `q3`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Kruskal-Wallis tests across six student groups found no significant differences in perceived ICT impact on SDGs, interest in including SDG content in CS studies, or satisfaction with SDG themes. [→ Blanco 2024](#blanco-2024)

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: moderate
 newest_evidence: 2020
+source_checked: 2026-10-29
 sources:
   - id: hilton-2020
     resource: "https://doi.org/10.1007/s11423-019-09700-4"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
-> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2020 · checked against its sources 2026-10-29 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Every study that asked participants who used both OER and commercial textbooks to directly compare them found a strong majority reporting OER are as good or better. [→ Hilton 2020](#hilton-2020)

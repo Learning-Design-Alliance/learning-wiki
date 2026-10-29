@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-28
 evidence_strength: weak
+newest_evidence: 1953
 sources:
   - id: audio-visual-communication-review-1953
     resource: "https://eric.ed.gov/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 1953 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The study compared a one-sided communication, concentrating exclusively on arguments supporting the communicator's position, with a two-sided communication that also included discussion and refutation of opposing arguments, using four experimental groups of high school students. [→ Audio-Visual Communication Review 1953](#audio-visual-communication-review-1953)

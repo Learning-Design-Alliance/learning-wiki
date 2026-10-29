@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-28
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: ferrer-2026
     resource: "https://doi.org/10.1007/s11423-026-10611-4"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Special education areas (65 cases) and primary/secondary institutions (65 cases) account for the largest shares of deployments, followed by colleges/universities (39), kindergartens (23), and other areas (14). [→ Ferrer 2026](#ferrer-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-28
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: chiu-2024
     resource: "https://doi.org/10.1007/s11423-024-10366-w"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Per the authors' reading of the consensus mappings, ChatGPT-based activities satisfy competence in forethought, performance, and self-reflection, but not relatedness or autonomy at every phase. [→ Chiu 2024](#chiu-2024)

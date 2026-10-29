@@ -17,7 +17,7 @@ sources:
 # Blend digital and physical learning experiences to address screen-time concerns in early childhood technology
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 qualitative), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article recommends technology usage that blends digital and physical learning experiences for young children, so that engagement with technology does not come at the cost of physical activity and social engagement. Kid Space embodies this by engaging children "more actively in physical movement and social collaboration during play-based learning."
@@ -42,7 +42,7 @@ The article recommends technology usage that blends digital and physical learnin
 ## Claims
 
 - [Kid Space use shifted children's attention away from the screen toward the physical environment](../claims/kid-space-less-screen-attention.md) [+W]
-- [Kid Space use increased children's physical activity during play-based learning](../claims/kid-space-more-physical-activity.md) [+W]
+- [First-graders using Kid Space showed physical activity during play-based learning, in an exploratory case study without a comparison](../claims/kid-space-more-physical-activity.md) [+W]
 
 ## Related Strategies
 

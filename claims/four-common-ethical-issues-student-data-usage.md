@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-28
 evidence_strength: weak
+newest_evidence: 2021
 sources:
   - id: gloria-natividad-beltrán-del-río-2021
     resource: "https://doi.org/10.1007/s11423-021-09954-x"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Analysis of three higher education institutions across three continents yielded four common ethical issues: invasive techniques, surveillance, questionable interventions, and storing and interpreting data for different purposes. [→ Gloria Natividad Beltrán del Río 2021](#gloria-natividad-beltran-del-rio-2021)

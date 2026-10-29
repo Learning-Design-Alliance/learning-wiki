@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-28
 evidence_strength: weak
+newest_evidence: 2021
 sources:
   - id: meier-2021
     resource: "https://doi.org/10.1007/s11423-020-09880-4"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` A more holistic approach is required that repositions online learning as a knowledge-building environment to realize the full potential of the heuristic. [→ Meier 2021](#meier-2021)

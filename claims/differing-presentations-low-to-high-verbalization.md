@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-28
 evidence_strength: weak
+newest_evidence: 1955
 sources:
   - id: research-abstracts-163-1955
     resource: "https://eric.ed.gov/?id=NONE"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 1955 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Differing presentations of a task may be somewhat superior to repeating the same presentation when level of verbalization is varied, progressing from low to high verbalization. [→ RESEARCH ABSTRACTS 163 1955](#research-abstracts-163-1955)

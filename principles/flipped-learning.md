@@ -172,7 +172,7 @@ An end-of-course exam advantage, delayed retention, self-efficacy, preparation r
 - [Students in a model-designed flipped algebra course showed significant pre-to-post gains in mature views of mathematics](../claims/flipped-algebra-vams-significant-gain.md) [+W]
 - [Students in the flipped algebra course showed significant increases in quality of reflections and satisfaction](../claims/flipped-algebra-reflection-satisfaction-gains.md) [+W]
 - [Probability of notable grades is substantially higher under flipped classroom methodology](../claims/flipped-classroom-notable-grade-odds.md) [~W]
-- [Flipped classroom methodology yields significantly higher average grades than traditional methodology](../claims/flipped-classroom-higher-grades-than-traditional.md) [+W]
+- [Cohorts taught with the flipped classroom earned significantly higher average grades than earlier cohorts taught traditionally, in a non-equivalent-groups comparison](../claims/flipped-classroom-higher-grades-than-traditional.md) [+W]
 - [Teaching resources used within the flipped classroom years do not affect average grades, except for the year with reduced technology access](../claims/flipped-resources-no-effect-except-technology-classroom-year.md) [~W]
 
 ## Related Principles

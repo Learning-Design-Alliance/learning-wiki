@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-28
 evidence_strength: moderate
+newest_evidence: 2024
+source_checked: 2026-10-29
 sources:
   - id: chiu-2024
     resource: "https://doi.org/10.1007/s11423-024-10366-w"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2024 · checked against its sources 2026-10-29 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across the consensus-rated activities, competence was the need best satisfied by ChatGPT-based activities, autonomy second, and relatedness least. [→ Chiu 2024](#chiu-2024)

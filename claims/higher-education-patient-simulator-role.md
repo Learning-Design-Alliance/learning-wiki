@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-28
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-29
 sources:
   - id: ferrer-2026
     resource: "https://doi.org/10.1007/s11423-026-10611-4"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-29 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In colleges, universities, and academies, patient simulator is the most prevalent role (26 cases), used in medical-related contexts for risk-free practice of medical specialties. [→ Ferrer 2026](#ferrer-2026)

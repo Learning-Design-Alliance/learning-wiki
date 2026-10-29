@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-28
 evidence_strength: weak
+newest_evidence: 2021
 sources:
   - id: yanghee-kim-2021
     resource: "https://doi.org/10.1007/s11423-021-10051-2"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Sending a prompt and waiting a sufficient time until it was delivered, plus a growing lexicon, improved the design. [→ Yanghee Kim 2021](#yanghee-kim-2021)

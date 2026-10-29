@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-28
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: de-barba-2025
     resource: "https://doi.org/10.1007/s11423-025-10521-x"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Participants reported agreement that the Learning Analytics SRL rubric scores they received represented well their approach to learning in their subject (n = 17, M = 5.05, SD = 0.75). [→ de Barba 2025](#de-barba-2025)

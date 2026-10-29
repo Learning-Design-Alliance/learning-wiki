@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-28
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: chen-2025
     resource: "https://doi.org/10.1007/s11423-025-10536-4"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In Study 2, sorting-task networks overlapped more with the expert network (M = 8.60) than essay networks, even for high prior knowledge students (M = 5.63). [→ Chen 2025](#chen-2025)

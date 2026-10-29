@@ -40,7 +40,7 @@ Based on formative evaluation of Kid Space, the authors identified "the need for
 
 - [First-graders using Kid Space demonstrated high levels of engagement during play-based learning](../claims/kid-space-high-engagement-first-graders.md) [+W]
 - [Kid Space use shifted children's attention away from the screen toward the physical environment](../claims/kid-space-less-screen-attention.md) [+W]
-- [Kid Space use increased children's physical activity during play-based learning](../claims/kid-space-more-physical-activity.md) [+W]
+- [First-graders using Kid Space showed physical activity during play-based learning, in an exploratory case study without a comparison](../claims/kid-space-more-physical-activity.md) [+W]
 
 ## Related Strategies
 

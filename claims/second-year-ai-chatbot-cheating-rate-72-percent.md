@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-28
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: ruishi-chen-2026
     resource: "https://doi.org/10.1007/s11423-026-10587-1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In the 2023-24 academic year, 72.06% of high school students across six schools reported engaging in at least one academically dishonest behavior in the prior month, a rate broadly comparable to prior-year (59.9% and 69.5%) and historical baselines. [→ Ruishi Chen 2026](#ruishi-chen-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-28
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: hilton-2016
     resource: "https://doi.org/10.1007/s11423-016-9434-9"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The review reports that students generally achieve the same learning outcomes when OER are utilized and simultaneously save significant amounts of money. [→ Hilton 2016](#hilton-2016)

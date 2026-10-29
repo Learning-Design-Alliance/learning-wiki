@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-28
 evidence_strength: weak
+newest_evidence: 1955
 sources:
   - id: nelson-1955
     resource: "https://eric.ed.gov/?id=ED016911"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 1955 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` All modified commentaries produced slightly higher test scores than the original commentary, but the differences were not statistically significant at a high level of confidence. [→ Nelson 1955](#nelson-1955)

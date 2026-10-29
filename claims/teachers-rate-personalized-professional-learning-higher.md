@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-28
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: felicia-warden-andrew-a-tawfik-2026
     resource: "https://doi.org/10.1007/s11423-026-10670-7"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` On the Personalized Professional Learning construct, a statistically significant librarian–teacher difference emerged (p = .031), while administrator–teacher (p = .919) and administrator–librarian (p = .094) differences were not significant. [→ Felicia Warden · Andrew A. Tawfik 2026](#felicia-warden-andrew-a-tawfik-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-28
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: chen-2025
     resource: "https://doi.org/10.1007/s11423-025-10536-4"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3` · `i2` medium
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Grade 8 students' sorting-task network overlap correlated with Posttest 1 (r = 0.15, p <.05) and Posttest 2 one month later (r = 0.22, p <.01) after self-directed reading of an unfamiliar history text. [→ Chen 2025](#chen-2025)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-28
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: hankeln-2025
     resource: "https://doi.org/10.1007/s11423-025-10486-x"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Surveys of digital assessment and training platforms for mathematics show they focus nearly exclusively on procedural skills and shallow knowledge of different representations. [→ Hankeln 2025](#hankeln-2025)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-28
 evidence_strength: moderate
+newest_evidence: 2009
 sources:
   - id: capelo-2009
     resource: "https://doi.org/10.1007/s11423-009-9123-z"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The regression showed no significant effect of Level of Feedback Information on Mental Model Structure Similarity, so Hypothesis 1 was not fully supported. [→ Capelo 2009](#capelo-2009)

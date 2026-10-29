@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-28
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: torres-martín-2022
     resource: "https://doi.org/10.1007/s11423-022-10095-y"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Kruskal-Wallis test across the five flipped classroom years was significant (p < .002), but post-hoc comparisons show no significant year-to-year differences except 2017/2018 to 2018/2019, when a fully equipped technology classroom was unavailable. [→ Torres-Martín 2022](#torres-martin-2022)
@@ -43,6 +45,6 @@ Nonparametric ANOVA (Kruskal-Wallis, p < .002) across the five flipped classroom
 
 
 ## Related Claims
-- [Flipped classroom methodology yields significantly higher average grades than traditional methodology](flipped-classroom-higher-grades-than-traditional.md) — related
+- [Cohorts taught with the flipped classroom earned significantly higher average grades than earlier cohorts taught traditionally, in a non-equivalent-groups comparison](flipped-classroom-higher-grades-than-traditional.md) — related
 - [The focus-on-students effect was not robust: significant in the ANOVA but not in non-parametric tests](focus-on-students-effect-not-robust.md) — related
 - [No significant difference in distinction grades by teaching methodology](no-methodology-difference-distinction-grades.md) — related

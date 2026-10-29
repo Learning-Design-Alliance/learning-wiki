@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-28
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: kurz-2026
     resource: "https://doi.org/10.1007/s11423-026-10594-2"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The means for all computer vision clusters increased post-PD, and cluster 1 (the highest-mean cluster) grew to contain more constructs after PD. [→ Kurz 2026](#kurz-2026)
@@ -47,4 +49,4 @@ Descriptive statistics from the computer vision repertory grids (Tables 1 and 2)
 - [After PD, teachers rated computer vision as more similar to human vision, with computer vision cluster 1 matching human vision cluster 1 on seven constructs post-PD versus one pre-PD](cv-perceived-more-similar-to-human-vision-post-pd.md) — related
 - [Teachers' perceptions of human vision remained largely stable following computer vision PD, with only one construct (6%, n = 1) shifting clusters](human-vision-perceptions-stable-after-cv-pd.md) — related
 - [Individual computer vision constructs showed notable mean increases and cluster shifts, including sensing the surroundings (26% increase, cluster 4 to 2) and able to detect objects (18% increase, cluster 3 to 1)](individual-cv-construct-shifts-and-mean-increases.md) — a narrower finding that bears on this claim
-- [A two-to-three-week computer vision professional development program shifted the majority of middle school teachers' computer vision constructs across clusters (72%, n = 13), indicating restructuring of their perceptions of computer vision](cv-pd-restructures-teacher-cv-constructs.md) — a narrower finding that bears on this claim
+- [After a two-to-three-week computer vision professional development program, 13 of 18 (72%) of middle school teachers' computer vision constructs shifted clusters, which the authors read as restructured perceptions (pre/post, no comparison group)](cv-pd-restructures-teacher-cv-constructs.md) — a narrower finding that bears on this claim

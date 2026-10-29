@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-28
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: tiruneh-2016
     resource: "https://doi.org/10.1007/s11423-015-9417-2"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q3` · `i3` large
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` CTEM scores significantly correlated with posttest HCTA scores (r = .38). [→ Tiruneh 2016](#tiruneh-2016)

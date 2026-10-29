@@ -8,10 +8,12 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-28
 evidence_strength: weak
+newest_evidence: 1955
 sources:
   - id: stein-1955
-    title: Stein, Elisabeth Mays. (1955). Effect of Mental Hygiene Films on Normal and Abnormal Individuals. Technical Report SDC 269-7-46, Instructional Film Research Program, Pennsylvania State University.
-    author: Stein, Elisabeth Mays
+    resource: "https://doi.org/10.1037/e419512004-001"
+    title: "Stein, E. M. (1955). Effect of Mental Hygiene Films on Normal and Abnormal Individuals (Technical Report SDC 269-7-46). Instructional Film Research Program, Pennsylvania State University. [doi:10.1037/e419512004-001](https://doi.org/10.1037/e419512004-001) (read through Twyford's 1955 research abstract, [doi:10.1007/bf02719932](https://doi.org/10.1007/bf02719932))"
+    author: Stein, E. M.
     q: 2
     i: "?"
     kind: qualitative
@@ -22,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r1` · `q2`
+> **Currency** · newest study 1955 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Those who identify most with a film tend to talk most about themselves and their problems as a result of seeing it. [→ Stein 1955](#stein-1955)
@@ -30,7 +33,7 @@ sources:
 
 ### Stein 1955
 
-Stein, Elisabeth Mays. (1955). Effect of Mental Hygiene Films on Normal and Abnormal Individuals. Technical Report SDC 269-7-46, Instructional Film Research Program, Pennsylvania State University.
+Stein, E. M. (1955). Effect of Mental Hygiene Films on Normal and Abnormal Individuals (Technical Report SDC 269-7-46). Instructional Film Research Program, Pennsylvania State University. [doi:10.1037/e419512004-001](https://doi.org/10.1037/e419512004-001) (read through Twyford's 1955 research abstract, [doi:10.1007/bf02719932](https://doi.org/10.1007/bf02719932))
 
 `q2 · i?` · `qualitative · r1`
 

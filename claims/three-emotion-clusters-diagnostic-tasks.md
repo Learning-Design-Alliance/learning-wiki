@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-28
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: wijekumar-2021
     resource: "https://doi.org/10.1007/s11423-021-09957-8"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A k-means cluster analysis of medical students' emotions after four diagnostic tasks revealed three distinct clusters: positive emotion, negative emotion, and low-intensity motivation. [→ Wijekumar 2021](#wijekumar-2021)

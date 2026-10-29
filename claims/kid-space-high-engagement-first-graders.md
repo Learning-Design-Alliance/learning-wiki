@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-28
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: aslan-2022
     resource: "https://doi.org/10.1007/s11423-021-10072-x"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Eight first-grade students demonstrated high levels of engagement during Kid Space learning experiences. [→ Aslan 2022](#aslan-2022)
@@ -43,5 +45,5 @@ Exploratory case study using formative research method with eight first-grade st
 
 
 ## Related Claims
-- [Kid Space use increased children's physical activity during play-based learning](kid-space-more-physical-activity.md) — related
+- [First-graders using Kid Space showed physical activity during play-based learning, in an exploratory case study without a comparison](kid-space-more-physical-activity.md) — related
 - [Kid Space use shifted children's attention away from the screen toward the physical environment](kid-space-less-screen-attention.md) — related

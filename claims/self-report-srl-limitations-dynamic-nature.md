@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-28
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: de-barba-2025
     resource: "https://doi.org/10.1007/s11423-025-10521-x"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q1`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Self-report scales may not adequately reflect the actual regulatory processes that students engage in during learning tasks, and retrospective accounts may be influenced by memory limitations, social desirability bias, or lack of metacognitive awareness. [→ de Barba 2025](#de-barba-2025)

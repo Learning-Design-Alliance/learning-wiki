@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-28
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: hankeln-2025
     resource: "https://doi.org/10.1007/s11423-025-10486-x"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Empirical assessment studies have validated that understanding multiplication as counting in units is a crucial predictor of achievement in Grade 7. [→ Hankeln 2025](#hankeln-2025)

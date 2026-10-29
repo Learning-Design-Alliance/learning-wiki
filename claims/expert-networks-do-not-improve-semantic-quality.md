@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-28
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: ziqian-wei-2025
     resource: "https://doi.org/10.1007/s11423-025-10508-8"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Neither the pre-reading expert network (Study 1) nor network-based writing feedback (Study 2) produced significant main effects or interactions on semantic quality of integration. [→ Ziqian Wei 2025](#ziqian-wei-2025)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-28
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: torres-martín-2022
     resource: "https://doi.org/10.1007/s11423-022-10095-y"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The probability of achieving a notable grade (7 to 8.9) is 10.2 times higher among students in the flipped classroom method (Fisher exact test, p < .001). [→ Torres-Martín 2022](#torres-martin-2022)
@@ -43,7 +45,7 @@ Fisher exact test on grade-band categories (Fail, Pass, Notable, Distinction) fo
 
 
 ## Related Claims
-- [Flipped classroom methodology yields significantly higher average grades than traditional methodology](flipped-classroom-higher-grades-than-traditional.md) — related
+- [Cohorts taught with the flipped classroom earned significantly higher average grades than earlier cohorts taught traditionally, in a non-equivalent-groups comparison](flipped-classroom-higher-grades-than-traditional.md) — related
 - [Probability of a passing grade (5–7) is higher under traditional methodology](traditional-methodology-higher-pass-band-probability.md) — related
 - [Probability of failing is higher under traditional methodology](traditional-methodology-higher-failure-probability.md) — related
 - [No significant difference in distinction grades by teaching methodology](no-methodology-difference-distinction-grades.md) — related

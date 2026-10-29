@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-28
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: weidlich-2024
     resource: "https://doi.org/10.1007/s11423-023-10241-0"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q1`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Although DAGs and SEMs look visually similar, they differ fundamentally: DAGs are non-parametric and serve identification only, whereas SEMs are assumption-laden statistical models aimed at estimation. [→ Weidlich 2024](#weidlich-2024)

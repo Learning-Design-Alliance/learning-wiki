@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-28
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: hankeln-2025
     resource: "https://doi.org/10.1007/s11423-025-10486-x"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A correctness overview alone seldom leads to real insights into how to improve learning; dashboard design should support teachers' practices of setting and unpacking learning goals. [→ Hankeln 2025](#hankeln-2025)

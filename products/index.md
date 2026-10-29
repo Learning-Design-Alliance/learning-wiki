@@ -2,7 +2,7 @@
 
 Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's.
 
-**2202 entries** · 0 stable · 2202 in review · 0 drafts
+**2201 entries** · 0 stable · 2201 in review · 0 drafts
 
 ---
 
@@ -910,7 +910,6 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Intermediate Mechanics Tutorials](intermediate-mechanics-tutorials.md) - A University of Maine curriculum under development for second-year mechanics courses in which students first encounter differential equations, with associated materials made available through the project.
 * [Internationals Network for Public Schools](internationals-network-for-public-schools.md) - The Internationals Network for Public Schools framework guides a network of schools serving recent immigrant and English-learner students through five principles covering collaboration, experiential learning, language–content integration, local autonomy, and a common learning model.
 * [Interpretive Spelling Test (IST)](interpretive-spelling-test-ist.md) - The Interpretive Spelling Test is a spelling-to-dictation assessment developed by Niolaki et al.
-* [Interview dataset from two studies of faculty learning to integrate a new EdTech](interview-dataset-from-two-studies-of-faculty-learning-to-integrate-a-new-edtech.md) - A reused qualitative dataset of higher-education faculty interviews documenting experiences and decision-making while learning to integrate a new educational technology.
 * [Intrapersonal Technology Integration Scale (ITIS)](intrapersonal-technology-integration-scale-itis.md) - A four-subscale Likert self-report instrument developed by Niederhauser and Perkmen for measuring preservice teachers' technology-integration self-efficacy, outcome expectancy, interests, and intentions.
 * [IntroEduAI](introeduai.md) - IntroEduAI is an educational platform developed to deliver programming assignments, automatically evaluate student responses with large language models against instructor-authored rubrics, and generate response-level feedback and assignment-level reports.
 * [Inventory of Learning Styles (ILS)](inventory-of-learning-styles-ils.md) - A self-report assessment developed by Jan Vermunt to measure higher-education students' processing and regulation strategies, conceptions of learning, and learning orientations.

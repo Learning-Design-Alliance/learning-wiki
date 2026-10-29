@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-28
 evidence_strength: moderate
+newest_evidence: 2011
+source_checked: 2026-10-29
 sources:
   - id: wouters-2011
     resource: "https://doi.org/10.1007/s11423-010-9183-0"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2011 · checked against its sources 2026-10-29 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Before the game advanced learners shared only one central concept with the experts, while after the game the central concepts of experts and advanced learners converged; novices' central concepts remained divergent from the experts' before and after playing. [→ Wouters 2011](#wouters-2011)

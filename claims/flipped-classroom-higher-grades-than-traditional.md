@@ -1,31 +1,35 @@
 ---
 type: claim
-title: Flipped classroom methodology yields significantly higher average grades than traditional methodology
-description: Flipped classroom methodology yields significantly higher average grades than traditional methodology
+title: Cohorts taught with the flipped classroom earned significantly higher average grades than earlier cohorts taught traditionally, in a non-equivalent-groups comparison
+description: In one university course over a decade, flipped classroom cohorts earned significantly higher average grades than earlier traditionally taught cohorts, a non-equivalent-groups comparison that cannot isolate the method as the cause
 id: flipped-classroom-higher-grades-than-traditional
 status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-28
 evidence_strength: moderate
+newest_evidence: 2022
+source_checked: 2026-10-29
 sources:
   - id: torres-martín-2022
     resource: "https://doi.org/10.1007/s11423-022-10095-y"
     title: "Torres-Martín, C., Acal, C., El-Homrani, M., & Mingorance-Estrada, Á. C. (2022). Implementation of the flipped classroom and its longitudinal impact on improving academic performance. Education Tech Research Dev. https://doi.org/10.1007/s11423-022-10095-y"
     author: "Torres-Martín, C., Acal, C., El-Homrani, M., & Mingorance-Estrada, Á. C."
-    q: 3
+    q: 2
     i: 2
+    n: 1157
     kind: causal
     rigour: 1
 ---
 
-# Flipped classroom methodology yields significantly higher average grades than traditional methodology
+# Cohorts taught with the flipped classroom earned significantly higher average grades than earlier cohorts taught traditionally, in a non-equivalent-groups comparison
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · causal `r1` · `q3` · `i2` medium
+> **Evidence** · 1 study · causal `r1` · `q2` · `i2` medium · n=1157
+> **Currency** · newest study 2022 · checked against its sources 2026-10-29 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
-`q3 i2` Average grades were significantly higher under the flipped classroom methodology than under traditional methodology (Wilcoxon-Mann-Whitney, r = .473). [→ Torres-Martín 2022](#torres-martin-2022)
+`q2 i2` In one university course, average grades were significantly higher in the five cohorts taught with the flipped classroom than in the five earlier cohorts taught traditionally (Wilcoxon-Mann-Whitney, r = .473); the cohorts were non-equivalent and taught in different years, so the comparison cannot isolate the method as the cause. [→ Torres-Martín 2022](#torres-martin-2022)
 
 ## Evidence
 
@@ -33,9 +37,9 @@ sources:
 
 Torres-Martín, C., Acal, C., El-Homrani, M., & Mingorance-Estrada, Á. C. (2022). Implementation of the flipped classroom and its longitudinal impact on improving academic performance. Education Tech Research Dev. https://doi.org/10.1007/s11423-022-10095-y
 
-`q3 · i2` · `causal · r1`
+`q2 · quasi-experimental, non-equivalent groups` · `i2` · `n=1157` · `causal · r1`
 
-Quasi-experimental non-equivalent groups comparison of grades from 522 traditional and 635 flipped classroom students analyzed with the Wilcoxon test. The article reports r effect size .473 with 95% CI [.423–.526], indicating a "significant evidences in data to conclude average grades differ depending on the method applied".
+Quasi-experimental non-equivalent groups comparison of grades in the course "Didactics: theory and practice of teaching" at the University of Granada, from 522 students taught traditionally (2010/2011 to 2014/2015) and 635 taught with the flipped classroom (2015/2016 to 2019/2020), analyzed with the Wilcoxon test. Because the groups are successive cohorts, differences between years other than the method (including the added technological resources) are not ruled out. The article reports r effect size .473 with 95% CI [.423–.526], indicating a "significant evidences in data to conclude average grades differ depending on the method applied".
 
 > "Considering the usual level of significance α = .05 and due to the fact that p <𝛼 (Cohen et al., 2011), there are significant evidences in data to conclude average grades differ depending on the method applied, being greater in the flipped classroom methodology."
 

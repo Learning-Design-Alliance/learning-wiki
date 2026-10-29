@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-28
 evidence_strength: weak
+newest_evidence: 1955
 sources:
   - id: fletcher-1955
     resource: "https://eric.ed.gov/?q=Fletcher+profile+analysis+film+commentaries"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 1955 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Applying profile analysis before production to Human Reproduction was projected to allow a 31 percent increase in the amount of learning. [→ Fletcher 1955](#fletcher-1955)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-28
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: schroeder-2025
     resource: "https://osf.io/nraxf/?view_only=879654690be249cc9237525ed7f86ec2"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q1`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In the pilot study (eight documents, 24 variables), Claude 2.1 achieved 93.06% agreement on explicit variables and 80.00% on derived variables; GPT-4 achieved 91.67% and 64.17%; ChatPDF achieved 75% and 60%. [→ Schroeder 2025](#schroeder-2025)
