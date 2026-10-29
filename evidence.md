@@ -6,10 +6,10 @@ What the wiki's evidence adds up to. Every number counts **distinct studies**, k
 
 ## In short
 
-The wiki holds **8,089 distinct studies** behind 32,844 claims. What they add up to (the sections below have the detail):
+The wiki holds **8,090 distinct studies** behind 32,844 claims. What they add up to (the sections below have the detail):
 
 - **Few studies can show a cause.** 32% are experiments or systematic reviews (`q3` or `q4`); only 2% are pre-registered trials or well-powered meta-analyses (`q4`). 56% are quasi-experiments, observational studies or narrative reviews, and 12% are case studies, opinion or theory.
-- **Few print an effect size.** 2,060 of 8,089 studies (25%) report one for the finding the wiki cites; the rest report a significance test, a description, or nothing that says how large an effect was.
+- **Few print an effect size.** 2,060 of 8,090 studies (25%) report one for the finding the wiki cites; the rest report a significance test, a description, or nothing that says how large an effect was.
 - **Strong work is not only trials.** 929 studies are rated `r3`, done well for their kind; 579 of them are qualitative, design, theoretical or review work, which the design tier alone would rank low.
 - **Most findings stand alone.** 98% of claims rest on one study; a finding reported once, in one setting, has not been shown to hold elsewhere.
 - **Not all research reaches design.** 72% of studies, and 44% of claims, are cited by a principle, pattern, element, strategy or design; the rest are recorded but not connected to a design decision, either because none has been written or because the finding does not bear on one.
@@ -23,16 +23,16 @@ These figures describe two things at once: what education research has produced,
 |---|---|
 | Claims | 32,844 |
 | Evidence entries | 39,316 |
-| Distinct studies | 8,089 |
+| Distinct studies | 8,090 |
 | Claims resting on one study | 32,296 (98%) |
 | Claims with no coded evidence | 0 |
-| Studies reporting an effect size | 2,060 of 8,089 (25%) |
+| Studies reporting an effect size | 2,060 of 8,090 (25%) |
 
 **Studies by kind and rigour** (rigour is judged against the standard of the study's own kind, so an `r3` interview study and an `r3` trial are each strong for what they are; `r?` means the text available could not show it):
 
 | kind | r3 | r2 | r1 | r? | all |
 |---|---|---|---|---|---|
-| causal | 108 | 1,156 | 393 | 397 | 2,054 |
+| causal | 108 | 1,156 | 393 | 398 | 2,055 |
 | quant-synthesis | 117 | 193 | 42 | 135 | 487 |
 | review | 178 | 628 | 130 | 150 | 1,086 |
 | associational | 125 | 1,192 | 502 | 299 | 2,118 |
@@ -44,7 +44,7 @@ These figures describe two things at once: what education research has produced,
 
 | q1 case / opinion / theory | q2 quasi-experiment, observational, narrative review | q3 experiment or systematic review | q4 pre-registered RCT or well-powered meta-analysis |
 |---|---|---|---|
-| 998 (12%) | 4,512 (56%) | 2,421 (30%) | 158 (2%) |
+| 998 (12%) | 4,512 (56%) | 2,422 (30%) | 158 (2%) |
 
 **Studies per claim:** 0: 0, 1: 32,296, 2: 463, 3: 68, 4 or more: 17.
 

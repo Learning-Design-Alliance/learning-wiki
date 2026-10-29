@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Knowledge gains occur across all conditions, but tool use and collaboration do not improve conceptual understanding, and the control group outperforms on interrelations and transfer
-description: Knowledge gains occur across all conditions, but tool use and collaboration do not improve conceptual understanding, and the control group outperforms on interrelations and transfer
+title: Knowledge gains occur in all conditions; collaboration shows no significant advantage, and the no-tool control group outperforms both tool conditions on interrelations and the annotation condition on transfer
+description: Knowledge gains occur in all conditions; collaboration shows no significant advantage, and the no-tool control group outperforms both tool conditions on interrelations and the annotation condition on transfer
 id: enhanced-tools-no-conceptual-understanding-advantage
 status: review
 generated:
@@ -9,6 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: mixed
 newest_evidence: 2023
+source_checked: 2026-10-29
 sources:
   - id: ruf-2023
     resource: "https://doi.org/10.1007/s11423-023-10275-4"
@@ -20,14 +21,14 @@ sources:
     rigour: 2
 ---
 
-# Knowledge gains occur across all conditions, but tool use and collaboration do not improve conceptual understanding, and the control group outperforms on interrelations and transfer
+# Knowledge gains occur in all conditions; collaboration shows no significant advantage, and the no-tool control group outperforms both tool conditions on interrelations and the annotation condition on transfer
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · checked against its sources 2026-10-29 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
-`q3 i2` With the control group included, the control condition outperformed both tool conditions on understanding of interrelations and transfer knowledge. [→ Ruf 2023](#ruf-2023)
+`q3 i2` With the control group included, the control condition outperformed both tool conditions on understanding of interrelations, and outperformed the annotation condition (not the hyperlink condition) on transfer knowledge. [→ Ruf 2023](#ruf-2023)
 
 ## Evidence
 

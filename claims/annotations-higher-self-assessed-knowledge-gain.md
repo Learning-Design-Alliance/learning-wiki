@@ -48,4 +48,4 @@ Two-way ANOVA on the one-item self-assessed knowledge gain scale (1-5) in the la
 - [Tool type shapes learning activity: annotation users perform more macro-actions, hyperlink users more micro-actions](tool-use-shapes-micro-macro-learning-activity.md) — related
 - [Learners using hyperlinks produce hypervideo products of higher quality than learners using annotations](hyperlinks-higher-hypervideo-product-quality.md) — related
 - [Learners using annotations perceive lower cognitive load than learners using hyperlinks](annotations-lower-cognitive-load-than-hyperlinks.md) — related
-- [Knowledge gains occur across all conditions, but tool use and collaboration do not improve conceptual understanding, and the control group outperforms on interrelations and transfer](enhanced-tools-no-conceptual-understanding-advantage.md) — related
+- [Knowledge gains occur in all conditions; collaboration shows no significant advantage, and the no-tool control group outperforms both tool conditions on interrelations and the annotation condition on transfer](enhanced-tools-no-conceptual-understanding-advantage.md) — related

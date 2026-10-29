@@ -9,6 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: weak
 newest_evidence: 2021
+source_checked: 2026-10-29
 sources:
   - id: zhai-2021
     resource: "https://doi.org/10.1007/s11423-020-09917-8"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2021 · checked against its sources 2026-10-29 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Guidance tools associated with CoSIL increased ease of use but did not personalize CoSIL to individual students, per Zacharia et al.'s review as reported in this commentary. [→ Zhai 2021](#zhai-2021)

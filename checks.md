@@ -10,8 +10,8 @@ This wiki is written by language models, from published research, and checked by
 |---|---|
 | Claims | 32,844, from 8,211 sources |
 | Reviewed by a person | 0 |
-| Every evidence entry compared with its source by the faithfulness judge | 5,285 claims (16%) |
-| Claims citing at least one DOI | 25,179 claims (77%) |
+| Every evidence entry compared with its source by the faithfulness judge | 5,294 claims (16%) |
+| Claims citing at least one DOI | 25,180 claims (77%) |
 | Sources whose citations went through the Crossref identity gate | 7,645 of 8,211 |
 | Sources read for impossible statistics and invented references | 6,251 of 7,135 (2026-10-25) |
 | Cited DOIs checked for retraction | 6,793 of 6,793 (2026-10-25) |
@@ -51,7 +51,7 @@ A claim whose evidence has no DOI after a Crossref and DataCite search is remove
 
 **Cannot catch.** Whether the DOI'd source is any good.
 
-**Coverage.** 25,179 of 32,844 claims (77%) cite a DOI; 2,878 claims removed for having none.
+**Coverage.** 25,180 of 32,844 claims (77%) cite a DOI; 2,878 claims removed for having none.
 
 ### 5. Faithfulness to the source
 
@@ -59,7 +59,7 @@ A second model, from a different provider, reads each evidence entry beside the 
 
 **Cannot catch.** A claim checked only against an abstract, for detail an abstract does not carry. The judge is a model and has been wrong; its failures are read before they are acted on.
 
-**Coverage.** 5,285 claims (16%) have had every evidence entry compared with its source and passed; 162 judge failures were read and recorded with a reason. Each claim states this on its page, in its *Currency* line.
+**Coverage.** 5,294 claims (16%) have had every evidence entry compared with its source and passed; 162 judge failures were read and recorded with a reason. Each claim states this on its page, in its *Currency* line.
 
 ### 6. Can the source be believed?
 
@@ -67,7 +67,7 @@ Added 2026-10-25, after an audit of AI-in-education meta-analyses found that a s
 
 **Cannot catch.** Invented references that carry no DOI and no anachronism; errors that leave the arithmetic consistent; a source whose text was not available (abstract only).
 
-**Coverage.** 6,251 of 7,135 sources read (2026-10-25): 43 with a finding, 4 high severity. Reference DOIs: 6,519 DOIs from 610 AI-era sources resolved; 202 sources have one that does not resolve or names another work, listed for a person but not acted on automatically, because text extracted from a PDF breaks DOIs across lines and most of these are layout, not invention. 8 findings decided: 6 confirmed and acted on, 2 false alarms. 3 retracted sources found; of 6,793 DOIs the wiki cites, 0 were registered at neither Crossref nor DataCite when last checked (2026-10-25).
+**Coverage.** 6,251 of 7,135 sources read (2026-10-25): 43 with a finding, 4 high severity. Reference DOIs: 6,519 DOIs from 610 AI-era sources resolved; 202 sources have one that does not resolve or names another work, listed for a person but not acted on automatically, because text extracted from a PDF breaks DOIs across lines and most of these are layout, not invention. 9 findings decided: 6 confirmed and acted on, 3 false alarms. 3 retracted sources found; of 6,793 DOIs the wiki cites, 0 were registered at neither Crossref nor DataCite when last checked (2026-10-25).
 
 ### 7. Does the study measure what the claim says?
 

@@ -8,11 +8,12 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-29
 evidence_strength: moderate
-newest_evidence: 1953
+newest_evidence: 1950
 sources:
-  - id: peterson-1953
-    title: "Peterson, Lewis V. (1953). Use of Graphs in Air Force Teaching Materials. Division of Communications, University of Illinois, Human Resources Research Institute Research Memo #14, Maxwell AFB, Alabama, August 1953; with Eckstrand, Gordon A., Response Practice as a Factor in Transfer of Training, WADC Tech. Rpt. #6017. Research Abstracts, p. 157."
-    author: Peterson, Lewis V.
+  - id: eckstrand-1950
+    resource: "https://doi.org/10.1037/e478582004-001"
+    title: "Eckstrand, G. A. (1950). Response Practice as a Factor in Transfer of Training (AF Technical Report No. 6017). Wright Air Development Center. [doi:10.1037/e478582004-001](https://doi.org/10.1037/e478582004-001) (read through Faison's 1954 research abstract, [doi:10.1007/bf02713278](https://doi.org/10.1007/bf02713278))"
+    author: Eckstrand, G. A.
     q: 3
     i: "?"
     kind: causal
@@ -23,16 +24,16 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
-> **Currency** · newest study 1953 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1950 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q3 i?` Groups receiving response pretraining with letter stimuli, without the relevant color task stimuli, were superior in performance of the actual training task to the group receiving no pretraining. [→ Peterson 1953](#peterson-1953)
+`q3 i?` Groups receiving response pretraining with letter stimuli, without the relevant color task stimuli, were superior in performance of the actual training task to the group receiving no pretraining. [→ Eckstrand 1950](#eckstrand-1950)
 
 ## Evidence
 
-### Peterson 1953
+### Eckstrand 1950
 
-Peterson, Lewis V. (1953). Use of Graphs in Air Force Teaching Materials. Division of Communications, University of Illinois, Human Resources Research Institute Research Memo #14, Maxwell AFB, Alabama, August 1953; with Eckstrand, Gordon A., Response Practice as a Factor in Transfer of Training, WADC Tech. Rpt. #6017. Research Abstracts, p. 157.
+Eckstrand, G. A. (1950). Response Practice as a Factor in Transfer of Training (AF Technical Report No. 6017). Wright Air Development Center. [doi:10.1037/e478582004-001](https://doi.org/10.1037/e478582004-001) (read through Faison's 1954 research abstract, [doi:10.1007/bf02713278](https://doi.org/10.1007/bf02713278))
 
 `q3 · i?` · `causal · r1`
 

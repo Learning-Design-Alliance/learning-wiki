@@ -9,6 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: mixed
 newest_evidence: 2025
+source_checked: 2026-10-29
 sources:
   - id: darmawansah-2025
     resource: "https://doi.org/10.1007/s11423-025-10453-6"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q2` · `i2` medium
-> **Currency** · newest study 2025 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-10-29 (automated, 2 of 2 entries) · not reviewed by a person
 > **Design limits** · Darmawansah 2025: groups were assigned but students were analysed as independent · Darmawansah 2025 (2): groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-29)
 
 ## Subclaims
@@ -60,6 +61,8 @@ Darmawansah, D., Hwang, G.-J., Lin, C.-J., & Febiyani, F. (2025). An artificial 
 Null Mann–Whitney result for the reception-of-peer-feedback subscale; no statistically significant group difference was detected and equivalence was not tested.
 
 > "in terms of reception of peer feedback, students in the AI-GFCA group (Mdn = 4.33) had a relatively equal level of receiving peer feedback with students in the AI-C group (Mdn = 4.33), with U = 135.50, z = − 1.596."
+
+The article's prose gives U = 135.50 for this subscale, but its Table 7 reports U = 185.00; both give a non-significant difference, which is not evidence that the groups are equal.
 
 ## Discussion
 

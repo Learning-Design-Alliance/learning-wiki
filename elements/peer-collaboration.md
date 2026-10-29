@@ -108,7 +108,7 @@ Collaboration supports learning when it forces learners to articulate reasoning 
 - [Child-parent dyads generated more ideas and more original ideas than child-stranger dyads on the AUT, with no significant difference in appropriateness](../claims/child-parent-dyads-higher-fluency-originality-aut.md) [~W]
 - [Dyads of students who knew each other cheated more than dyads of strangers, and dyad power values predicted cheating among acquainted dyads](../claims/acquainted-dyads-cheat-more-than-strangers.md) [~W]
 - [Collaborative dyads marginally outperform individuals on hypervideo product quality](../claims/dyads-marginally-higher-hypervideo-quality.md) [+W]
-- [Knowledge gains occur across all conditions, but tool use and collaboration do not improve conceptual understanding, and the control group outperforms on interrelations and transfer](../claims/enhanced-tools-no-conceptual-understanding-advantage.md) [-W]
+- [Knowledge gains occur in all conditions; collaboration shows no significant advantage, and the no-tool control group outperforms both tool conditions on interrelations and the annotation condition on transfer](../claims/enhanced-tools-no-conceptual-understanding-advantage.md) [-W]
 
 ## The evidence by question
 

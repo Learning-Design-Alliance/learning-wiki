@@ -143,7 +143,7 @@ This pattern is scoped to pairs and small groups where each member's individual 
 - [Students learning fractions with an AIED system achieved the best outcomes in a condition mixing individual and collaborative work rather than wholly either mode](../claims/combined-individual-collaborative-its-best-outcomes.md) [~W]
 - [Co-regulation and socially shared regulation occur rarely in synchronous online collaborative learning](../claims/corl-ssrl-rare-synchronous-cscl.md) [~W]
 - [Collaborative dyads marginally outperform individuals on hypervideo product quality](../claims/dyads-marginally-higher-hypervideo-quality.md) [+W]
-- [Knowledge gains occur across all conditions, but tool use and collaboration do not improve conceptual understanding, and the control group outperforms on interrelations and transfer](../claims/enhanced-tools-no-conceptual-understanding-advantage.md) [-W]
+- [Knowledge gains occur in all conditions; collaboration shows no significant advantage, and the no-tool control group outperforms both tool conditions on interrelations and the annotation condition on transfer](../claims/enhanced-tools-no-conceptual-understanding-advantage.md) [-W]
 
 ## Related Patterns
 - [Collaborative Inquiry](../principles/inquiry-based-learning.md)

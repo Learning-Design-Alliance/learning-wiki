@@ -14327,6 +14327,7 @@
 "id":"ai-gfca-interaction-mindset",
 "newest_evidence":"2025",
 "path":"claims/ai-gfca-interaction-mindset.md",
+"source_checked":"2026-10-29",
 "status":"review",
 "title":"AI-GFCA students report better peer interaction, collaboration, form of interaction and provision of peer feedback, but reception of peer feedback does not differ",
 "type":"claim"
@@ -63718,6 +63719,7 @@
 "id":"cosil-guidance-ease-of-use-not-personalized",
 "newest_evidence":"2021",
 "path":"claims/cosil-guidance-ease-of-use-not-personalized.md",
+"source_checked":"2026-10-29",
 "status":"review",
 "title":"Guidance tools in CoSIL increased ease of use but failed to personalize support to individual students, as reported by the reviewed literature",
 "type":"claim"
@@ -97458,13 +97460,14 @@
 "type":"claim"
 },
 {
-"description":"Knowledge gains occur across all conditions, but tool use and collaboration do not improve conceptual understanding, and the control group outperforms on interrelations and transfer",
+"description":"Knowledge gains occur in all conditions; collaboration shows no significant advantage, and the no-tool control group outperforms both tool conditions on interrelations and the annotation condition on transfer",
 "evidence_strength":"mixed",
 "id":"enhanced-tools-no-conceptual-understanding-advantage",
 "newest_evidence":"2023",
 "path":"claims/enhanced-tools-no-conceptual-understanding-advantage.md",
+"source_checked":"2026-10-29",
 "status":"review",
-"title":"Knowledge gains occur across all conditions, but tool use and collaboration do not improve conceptual understanding, and the control group outperforms on interrelations and transfer",
+"title":"Knowledge gains occur in all conditions; collaboration shows no significant advantage, and the no-tool control group outperforms both tool conditions on interrelations and the annotation condition on transfer",
 "type":"claim"
 },
 {
@@ -144295,6 +144298,7 @@
 "id":"idsa-lms-integration-usability-tradeoff",
 "newest_evidence":"2023",
 "path":"claims/idsa-lms-integration-usability-tradeoff.md",
+"source_checked":"2026-10-29",
 "status":"review",
 "title":"Integrating the IDSA into an existing learning management system limited usability, as the platform predefined frontend structure and navigation",
 "type":"claim"
@@ -257692,7 +257696,7 @@
 "description":"Response pretraining on reaction keys in the absence of the task stimuli improves later performance on the actual training task",
 "evidence_strength":"moderate",
 "id":"response-pretraining-absent-stimuli-transfer-eckstrand",
-"newest_evidence":"1953",
+"newest_evidence":"1950",
 "path":"claims/response-pretraining-absent-stimuli-transfer-eckstrand.md",
 "status":"review",
 "title":"Response pretraining on reaction keys in the absence of the task stimuli improves later performance on the actual training task",
@@ -288281,6 +288285,7 @@
 "id":"srl-cgf-improves-learning-motivation",
 "newest_evidence":"2025",
 "path":"claims/srl-cgf-improves-learning-motivation.md",
+"source_checked":"2026-10-29",
 "status":"review",
 "title":"Chatbot-guided feedback SRL improved university students' learning motivation more than conventional SRL",
 "type":"claim"
@@ -288291,6 +288296,7 @@
 "id":"srl-cgf-improves-metacognition-and-srl",
 "newest_evidence":"2025",
 "path":"claims/srl-cgf-improves-metacognition-and-srl.md",
+"source_checked":"2026-10-29",
 "status":"review",
 "title":"Chatbot-guided feedback SRL improved university students' meta-cognition tendency and self-regulated learning more than conventional SRL",
 "type":"claim"
@@ -288301,6 +288307,7 @@
 "id":"srl-cgf-improves-multimedia-knowledge-performance",
 "newest_evidence":"2025",
 "path":"claims/srl-cgf-improves-multimedia-knowledge-performance.md",
+"source_checked":"2026-10-29",
 "status":"review",
 "title":"Chatbot-guided feedback SRL improved university students' multimedia knowledge performance more than conventional SRL",
 "type":"claim"
@@ -288321,6 +288328,7 @@
 "id":"srl-cgf-student-perceptions-interviews",
 "newest_evidence":"2025",
 "path":"claims/srl-cgf-student-perceptions-interviews.md",
+"source_checked":"2026-10-29",
 "status":"review",
 "title":"Students in the chatbot-assisted SRL condition reported personalized learning opportunities, enhanced reflection, and improved performance in interviews",
 "type":"claim"
@@ -296266,6 +296274,7 @@
 "id":"students-collaboration-app-design",
 "newest_evidence":"2025",
 "path":"claims/students-collaboration-app-design.md",
+"source_checked":"2026-10-29",
 "status":"review",
 "title":"Students developed communication and collaboration skills through group-based app design",
 "type":"claim"
