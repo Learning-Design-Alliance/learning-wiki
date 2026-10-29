@@ -145,3 +145,4 @@ This meta-analysis updated earlier work (Niemiec, Sikorski, & Walberg) on giving
 - [Studying dynamic phenomena as discrete time steps supports students' understanding of system behavior compared with continuous-time equation-derived processes.](discrete-time-steps-support-understanding.md) — related
 - [Cognitive load shows a triple interaction with visual cognitive style, pacing, and visualization, driven by the static pictures condition](cognitive-load-triple-interaction-visual-style.md) — related
 - [Segmenting online multimedia lessons into short user-paced segments improves transfer and reduces cognitive load](segmenting-improves-transfer-and-reduces-load.md) — related
+- [Learner pacing is a proposed moderator that may explain the absence of a split-attention effect in visually-based mobile learning](self-pacing-may-moderate-split-attention-in-mobile-learning.md) — related

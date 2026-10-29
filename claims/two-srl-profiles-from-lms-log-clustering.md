@@ -54,3 +54,4 @@ K-means clustering on Phase 0 LMS trace data from 94 students, using the Ye and 
 - [Latent profile analysis of pre-service teachers' CT skills identifies three profiles (Novice, Developing, Proficient), revealing heterogeneous, non-linear skill acquisition](three-ct-profiles-preservice-teachers-lpa.md) — related
 - [Teachers' post-workshop platform engagement fell into three behavioral profiles, with most teachers showing minimal creation and browsing](three-behavioral-engagement-profiles-ai-agent-creation.md) — related
 - [Four distinct LLM learner profiles emerge from latent class analysis of learning contexts, tasks, and devices](four-llm-learner-profiles-lca.md) — related
+- [The three LMS-derived engagement states (Active, Average, Disengaged) differed significantly on all eight LMS activity indicators](three-engagement-states-differ-lms-indicators.md) — related

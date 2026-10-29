@@ -84,3 +84,4 @@ tactical understanding to other domains.
 - [Students appropriate the concept of tactics in their own post-game reasoning through thematization of general principles and framing performance in terms of creating dilemmas for the opponent](students-appropriate-tactics-thematization-dilemmas.md) — related
 - [A prior meta-analysis found tactical interventions significantly improved decision-making but not skill execution compared with technical approaches](prior-meta-analysis-decision-making-not-skill-execution.md) — related
 - [Comparative studies commonly show TGAs improving tactical skill, skill execution, affective, procedural knowledge and/or physical activity, while TAs improve skill execution and technical skill](tga-vs-ta-outcome-patterns-pe-review.md) — related
+- [Rhythmic motor skill academic performance is better after a gamified exergaming intervention than after traditional PE teaching](gamified-exergaming-better-rhythmic-motor-skill.md) — related

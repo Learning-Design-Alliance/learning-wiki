@@ -70,3 +70,4 @@ Meta-analysis of only 3 studies (k = 14 effect sizes) for feedback reception sup
 - [Feedback provision support improves quality of feedback provision (g = 0.72) and quality of feedback reception (g = 0.69) but not subject-matter-related knowledge](provision-support-improves-both-process-qualities.md) — related
 - [Neither content-specific nor generic support during feedback reception shows significant effects on feedback reception quality or subject-matter-related knowledge, but the evidence base is too small to interpret](reception-support-effects-uninterpretable.md) — related
 - [AI-GFCA students report better peer interaction, collaboration, form of interaction and provision of peer feedback, but reception of peer feedback does not differ](ai-gfca-interaction-mindset.md) — related
+- [Elements of both the nature and the reception of feedback are significantly related to receivers' use of that feedback](feedback-nature-and-reception-related-to-use.md) — related

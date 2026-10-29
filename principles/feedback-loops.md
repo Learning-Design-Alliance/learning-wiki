@@ -34,7 +34,7 @@ sources:
 # Feedback Loops
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 33 claims (20 for, 11 mixed, 2 against) · 49 studies (14 causal, 11 review, 10 quant-synthesis, 5 design, 4 qualitative, 3 theoretical, 2 associational), `q1`–`q4` · 8 of 49 report an effect size · 24 claims rest on one study
+> **Evidence** · 34 claims (21 for, 11 mixed, 2 against) · 50 studies (14 causal, 11 review, 10 quant-synthesis, 5 design, 4 qualitative, 3 associational, 3 theoretical), `q1`–`q4` · 8 of 50 report an effect size · 25 claims rest on one study
 
 ## Conditional relationship
 
@@ -148,6 +148,7 @@ Claims this page has read and does not use in the model above, with how far each
 - [In the Maker Learning @ Home cohort, feedback loops with cohort members redefined the initiative's outputs and goals](../claims/maker-cohort-amplifier-case.md) [+W]
 - [Individual performance feedback increased retrieval practice choice only among students who had actually benefited from retrieval practice (Experiment 1)](../claims/individual-feedback-increases-retrieval-practice-choice-only-for-beneficiaries.md) [+W] — attached 2026-10-21 from Luotong Hui et al. (2021), which proposed "Show learners their own performance feedback comparing strategies so they experience a strategy's benefits before expecting them to adopt it"; tests this page's relationship.
 - [Feedback containing comments or scaffolding is more likely applied; affective or assessing feedback is more likely ignored](../claims/comments-scaffolding-applied-affective-ignored.md) [+W] — attached 2026-10-26 from Junting Yin et al. (2025), which proposed "Design feedback dialogues that let receivers actively respond, and include why/how content alongside emotional feedback".
+- [Feedback containing concrete suggestions is significantly related to successful uptake of peer feedback in higher education](../claims/concrete-suggestions-linked-successful-uptake-peer-feedback.md) [+W] — attached 2026-10-29 from The nature, reception, and use of online peer feedback in higher education, which proposed "Support peer feedback with tools and practices that elicit concrete suggestions, because concreteness predicts uptake"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

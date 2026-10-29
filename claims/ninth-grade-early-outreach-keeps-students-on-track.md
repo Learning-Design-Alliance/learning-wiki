@@ -71,3 +71,4 @@ The chapter's overview asserts, citing prior research, that dropout risk signs a
 - [Ninth-grade early warning systems around course grades and attendance led to substantial improvements in grades, graduation rates, and test-measured learning gains](ninth-grade-early-warning-systems-improvements.md) — related
 - [A substantial share of dropouts show no clear signs of disengagement or major problems in the years before dropping out](forty-percent-dropouts-no-clear-disengagement.md) — related
 - [Monitoring drop-out rates at specific pages identified difficult text, and revising those pages lowered drop-out rates back to normal](dropout-monitoring-guided-text-revision.md) — related
+- [For disengaged starters, starting low and failing to improve engagement was consequential, associated with a high probability of early drop-out, though about half improved](disengaged-starters-nonimproving-engagement-dropout.md) — related

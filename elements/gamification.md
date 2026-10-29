@@ -13,7 +13,7 @@ generated:
 # Gamification
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 27 claims (11 for, 14 mixed, 2 against) · 18 studies (6 causal, 4 quant-synthesis, 4 review, 1 associational, 1 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 5 of 18 report an effect size · 26 claims rest on one study
+> **Evidence** · 30 claims (14 for, 14 mixed, 2 against) · 19 studies (7 causal, 4 quant-synthesis, 4 review, 1 associational, 1 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 6 of 19 report an effect size · 29 claims rest on one study
 
 ## Description
 Gamification is the element in which points, progress indicators, challenges, or other game-like structures are used to shape participation and persistence.
@@ -51,6 +51,9 @@ Gamification is the element in which points, progress indicators, challenges, or
 - [Path analysis supports an indirect path from competition through motivation and in-game accuracy to post-test scores](../claims/path-analysis-competition-motivation-accuracy.md) [+W]
 - [On a relative leaderboard, course engagement does not differ significantly across position levels](../claims/relative-leaderboard-no-engagement-difference.md) [-M]
 - [Competition increases time spent answering questions but not reading time or in-game accuracy](../claims/competition-response-time-accuracy-null.md) [~W]
+- [Commitment to and behaviour towards learning is better after a gamified exergaming intervention than after traditional PE teaching](../claims/gamified-exergaming-better-commitment-behaviour-learning.md) [+W]
+- [A gamified exergaming intervention improves the time transformation and autotelic experience flow dimensions, but not overall dispositional flow](../claims/gamified-exergaming-flow-dimensions-time-transformation-autotelic.md) [+W]
+- [Rhythmic motor skill academic performance is better after a gamified exergaming intervention than after traditional PE teaching](../claims/gamified-exergaming-better-rhythmic-motor-skill.md) [+W]
 
 ## Related Elements
 - [Adaptive Difficulty](adaptive-difficulty.md)

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: moderate
 newest_evidence: 2018
+source_checked: 2026-10-29
 sources:
   - id: zhenan-feng-2018
     resource: "https://doi.org/10.1016/j.compedu.2018.09.002"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q2`
-> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2018 · checked against its sources 2026-10-29 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Participants trained by IVR SGs showed better knowledge retention one week after training than participants trained with traditional approaches. [→ Zhenan Feng 2018](#zhenan-feng-2018)
@@ -71,3 +72,4 @@ The review summarizes two eligible studies: Li et al. (2017) on earthquake self-
 - [Immersive lessons show a small effect size advantage over less immersive technology, but increased presence does not necessarily lead to more learning](immersive-lessons-small-advantage-presence-not-sufficient.md) — a broader claim this one bears on
 - [IVR serious games validate evacuation facility designs, with participants preferring green and white flashing exit-portal lights](ivr-sgs-evacuation-facility-validation.md) — related
 - [IVR serious games show that other evacuees strongly influence participants' evacuation behavior](ivr-sgs-social-influence-evacuation-behavior.md) — related
+- [A serious virtual world class does not produce statistically significant differences in learning effectiveness compared with a traditional class of identical learning objectives and contents](svw-no-learning-effectiveness-difference-e-junior.md) — reports the opposite

@@ -69,3 +69,4 @@ Mixed ANOVA on perceived trustworthiness ratings (α=0.85) with effect size "η�
 - [Watching the sourcing instructional video unexpectedly lowered students' trustworthiness ratings of the interviewees](instructional-video-lowered-trustworthiness-ratings.md) — related
 - [Learners are more willing to act on feedback when they perceive the sender as credible and trustworthy](sender-credibility-supports-feedback-use.md) — related
 - [Agents with expertise (Expert and Mentor) improved learning outcomes and were perceived as more credible](expertise-agents-improved-learning.md) — related
+- [Self-efficacy is associated with higher video trustworthiness ratings regardless of source expertise](self-efficacy-higher-ratings-regardless-expertise.md) — related

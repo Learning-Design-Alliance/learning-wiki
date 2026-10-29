@@ -72,3 +72,5 @@ Message-length analysis over the complete collection of messages (n = 1,342). Fo
 - [Forum discussion shows more argumentation and confirmation, partly mediated by its opinion-oriented subject matter](argumentation-mediated-by-message-subject.md) — related
 - [Chatbot interaction depth varied by condition and subject: longer entries in physics than English and shorter entries in the cognitive learning condition than the utility value condition](chatbot-entry-length-varies-condition-subject.md) — related
 - [Students communicate more frequently but with lower-quality content in the synchronous chat room than in the asynchronous discussion forum](synchronous-vs-asynchronous-communication-quality.md) — related
+- [LIWC analysis shows synchronous messages carry more social and emotional language while asynchronous notes carry more cognitive-processing language](liwc-social-emotional-cognitive-mode-differences.md) — reports the opposite
+- [Synchronous private messages are shorter, easier to read, and use fewer academic words than asynchronous notes in dual-mode online courses](sync-messages-shorter-easier-less-academic-than-notes.md) — related

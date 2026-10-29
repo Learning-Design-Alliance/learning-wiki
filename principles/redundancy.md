@@ -50,7 +50,7 @@ sources:
 # Redundancy Principle
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 22 claims (6 for, 16 mixed) · 19 studies (6 causal, 6 review, 5 quant-synthesis, 2 theoretical), `q1`–`q4` · 5 of 19 report an effect size · 18 claims rest on one study
+> **Evidence** · 23 claims (7 for, 16 mixed) · 20 studies (7 causal, 6 review, 5 quant-synthesis, 2 theoretical), `q1`–`q4` · 6 of 20 report an effect size · 19 claims rest on one study
 
 ## Conditional relationship
 
@@ -157,6 +157,7 @@ Each question links a general claim that gathers the studies behind it (this pag
 - [Avoiding double load on the visual channel improves visual knowledge](../claims/voice-media-outperform-picture-text-overall.md) [+W]: picture plus text against picture plus audio; a modality comparison that bears on why text over a picture costs.
 - [Spoken text modality does not significantly differ from signaled written text modality, or from signaled written plus spoken text](../claims/spoken-versus-signaled-written-null.md) [~M]: Kutbay & Akpınar (2020); signalling the written text did not change written-plus-spoken results.
 - [Presenting words as spoken narration rather than on-screen text alongside graphics improves learning](../claims/modality-effect-narration-over-text.md) [~M]: the modality neighbour.
+- [Redundancy effect on comprehension: TP and TO conditions outperformed the TPO condition in a mobile learning experiment](../claims/redundancy-effect-comprehension-mobile-learning.md) [+M] — attached 2026-10-29 from Liu et al. (2011), which proposed "Provide complementary rather than similar information when combining media in mobile learning environments"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

@@ -49,3 +49,5 @@ Reliable Change Index classification computed separately for each sourcing varia
 - [A teacher-led sourcing intervention increased upper secondary students' use of source features in search queries during online inquiry](sourcing-intervention-improves-search-queries.md) — related
 - [The intervention improved students' sourcing in credibility judgments and in written products relative to controls](sourcing-intervention-improves-credibility-judgments-written-products.md) — related
 - [Students with the weakest pre-intervention sourcing skills showed the clearest positive change during the intervention](weakest-sourcing-skills-benefited-most.md) — related
+- [At the individual level, most students showed no reliable change in credibility evaluation skills, while 9–18% showed reliable positive change depending on the skill](individual-level-rci-credibility-change.md) — related
+- [Basic reading skills were associated with change in confirming credibility but not with change in questioning or justifying credibility](reading-skills-rci-group-association.md) — related

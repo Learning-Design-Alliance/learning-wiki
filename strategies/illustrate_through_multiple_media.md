@@ -72,12 +72,14 @@ Multimedia works when the combination reduces extraneous load and enables refere
 5. Use [Assessment](../elements/assessment.md) items that require learners to interpret or produce the visual representation, not just restate the narration
 
 ## Related Strategies
+
 - Worked examples — the multimedia version is a narrated video demonstration; same example–practice logic
 - Case-based teaching — cases are frequently delivered through video and documents across media
 - Flipped classroom — pre-class video is the most common multimedia illustration vehicle
 - [Use Worked Examples](worked-examples-first.md) — worked examples are a media illustration of solution structure; multimedia design principles apply directly to their presentation
 - [Analogies and Prior Knowledge Activation](../strategies/activating-prior-knowledge.md) — analogies are a verbal illustration device that pairs naturally with visual models
 - [Case-Based Learning](../strategies/case-based-learning.md) — cases supply authentic contexts that multiple media can render vividly
+- [Replace on-device pictures with drawings of real objects to make mobile-device media complementary to the objects](drawings-replace-pictures-complementary-mobile-media.md)
 
 ## Examples
 - **PhET Interactive Simulations** (https://phet.colorado.edu) — research-validated science simulations paired with guided inquiry activities; studies show simulation-plus-guided-activity outperforms simulation alone [~M]

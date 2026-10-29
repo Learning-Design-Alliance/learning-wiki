@@ -53,3 +53,4 @@ Multilevel interaction models on PISA 2012 and 2015 data with family economic ca
 - [National income inequality weakens the culturally based social class test gap (parental education, cultural capital)](income-inequality-weakens-culturally-based-gap.md) — related
 - [Whether anxiety explains the income inequality × social class interaction remains inconclusive](moderated-mediation-anxiety-inconclusive.md) — related
 - [The pandemic strengthened the link between socioeconomic status and mathematics scores, but only in countries with closures shorter than 22 weeks](escs-slope-increase-short-closures.md) — related
+- [Home computer access, linguistic capital, socioeconomic status, and years of computer experience are the most important factors in Chilean 10th graders' digital skills test performance](hlm-factors-chilean-digital-skills.md) — related

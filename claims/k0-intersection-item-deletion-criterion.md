@@ -52,3 +52,4 @@ Figure 1 plots item difficulty values and percentage discriminating values again
 - [Test difficulty value defined as ratio of observed to maximum score vector length times cosine of their angle equals test mean divided by number of items](test-difficulty-value-cosine-definition.md) — related
 - [Learned difficulty parameters show a moderate positive correlation with empirical KC difficulty on QATD2k](learned-difficulty-correlates-empirical-difficulty.md) — related
 - Nonintervention (observational) studies in educational psychology are producing recommendations for practice at increasing rates — related
+- [Classical item analysis found the CTCK test relatively difficult and led to exclusion of items 6, 10 and 17](ctck-item-difficulty-discrimination-exclusions.md) — related

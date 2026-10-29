@@ -27,7 +27,7 @@ sources:
 # Standardized Test Fairness and Bias
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 57 claims (14 for, 38 mixed, 5 against) · 37 studies (11 associational, 10 causal, 8 review, 3 design, 3 theoretical, 1 quant-synthesis, 1 qualitative), `q1`–`q3` · 4 of 37 report an effect size · 56 claims rest on one study
+> **Evidence** · 58 claims (15 for, 38 mixed, 5 against) · 38 studies (11 associational, 10 causal, 8 review, 4 design, 3 theoretical, 1 quant-synthesis, 1 qualitative), `q1`–`q3` · 4 of 38 report an effect size · 57 claims rest on one study
 
 ## Conditional relationship
 
@@ -186,6 +186,7 @@ Item bias, differential prediction and the effect of testing conditions are sepa
 - [The SES achievement gap produced by evaluators occurs even in the absence of actual performance differences](../claims/gap-created-absent-performance-differences.md) [-W]
 - [Evaluators using assessment for selection find more mistakes in tests attributed to low-SES than high-SES students, creating an artificial SES achievement gap](../claims/selection-assessment-creates-ses-gap.md) [-W]
 - [The scoring models showed no meaningful demographic bias in pairwise standardized mean differences or mixed-effects prediction error analysis](../claims/no-meaningful-demographic-bias-naep-scoring-models.md) [+W]
+- [Differential item functioning appeared for home language (item 16) and teaching subject (items 2 and 3), but differential test functioning showed no overall group benefit](../claims/ctck-dif-dtf-results.md) [+W]
 
 ## Related Principles
 - [Criterion- and Norm-Referenced Testing](criterion-and-norm-referenced-testing.md) — the norm-referenced tests (SAT, ACT) most directly implicated in the differential-prediction findings here

@@ -13,7 +13,7 @@ generated:
 # Gender
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 344 claims (201 show a difference, 76 mixed, 67 no difference) · 231 studies (145 associational, 43 causal, 14 quant-synthesis, 11 review, 7 design, 6 theoretical, 5 qualitative), `q1`–`q4` · 42 of 231 report an effect size · 336 claims rest on one study
+> **Evidence** · 350 claims (207 show a difference, 76 mixed, 67 no difference) · 232 studies (146 associational, 43 causal, 14 quant-synthesis, 11 review, 7 design, 6 theoretical, 5 qualitative), `q1`–`q4` · 42 of 232 report an effect size · 342 claims rest on one study
 
 ## How to read this page
 
@@ -383,6 +383,12 @@ Gender is recorded in most education studies, usually as a binary category taken
 - [CT self-efficacy gains varied by gender, grade, and prior Minecraft experience, with significant increases for female students, Grade 8 students, and students with limited Minecraft experience](../claims/gbl-ct-self-efficacy-moderators.md) [~M] — an instructional effect differs by group
 - [Girls reported higher follow-up impact than boys on all items, and 14 of the 20 top-ranking participants were girls](../claims/girls-report-higher-privacy-impact-than-boys.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Gender had no significant main or interaction effect on post-test scores](../claims/gender-no-effect-post-test.md) [-W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Female students assign greater importance to planning and participation in their overall valuation, while course pacing matters only for male students](../claims/gender-differences-teaching-methods-importance.md) [+M] — an instructional effect differs by group
+- [Female students assign significantly higher ratings than male students to specific e-learning aspects, including planning, presential sessions, content, self-evaluation, tutor contribution and illustrations](../claims/female-higher-ratings-specific-aspects.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Female students give a higher average global satisfaction rating to e-learning courses than male students](../claims/female-students-more-satisfied-e-learning.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Solving practical cases influences female students' global satisfaction but not male students', despite similar ratings of that aspect](../claims/practical-cases-influence-female-satisfaction.md) [+M] — an instructional effect differs by group
+- [There is a negative relationship between presential sessions and female students' global valuation of e-learning, but a positive one for male students](../claims/presential-sessions-negative-female-valuation.md) [+M] — an instructional effect differs by group
+- [Tutor contribution is important for female students' global satisfaction but irrelevant for male students](../claims/tutor-contribution-female-satisfaction.md) [+M] — an instructional effect differs by group
 
 ## The evidence by question
 - *Do girls and boys differ in mathematics and reading achievement, by how much, and where in the distribution?* [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](../claims/pisa-sex-differences-math-small-reading-three-times-larger.md) [+M]

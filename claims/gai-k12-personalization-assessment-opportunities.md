@@ -53,3 +53,4 @@ Systematic review (PRISMA) of 197 studies published 2016–2024 on GAI in K-12 e
 - [AI-supported adaptive systems are reported to enhance adult learner engagement, motivation, and outcomes when aligned with learner goals and prior knowledge](ai-adaptive-systems-enhance-adult-engagement.md) — related
 - [GenAI is reshaping assessment practices in computer science education through automation, scalability, and personalized feedback](genai-reshaping-cs-assessment-automation-scalability-feedback.md) — related
 - [The educational value of GAI is contingent on pedagogical integration, not on the technology itself](gai-value-contingent-on-pedagogical-integration.md) — related
+- [Empirical evidence surrounding innovative technology-enhanced-learning practices in K-12 education is at best patchy](k12-innovative-tel-evidence-patchy.md) — related

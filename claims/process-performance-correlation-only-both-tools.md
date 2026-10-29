@@ -72,3 +72,4 @@ In the no-gaze/no-agent condition the regression did not reach significance; the
 - [In a 2x2 experiment on jigsaw dyads, the implicit gaze awareness tool affected dialogue processes much more than the explicit pedagogical conversational agent, which compensated when gaze awareness was absent](gaze-awareness-tool-more-effective-than-explicit-agent-jigsaw-dyads.md) — related
 - [Consensus reaching and task division together predict learning gains across conditions](process-codes-predict-learning-gains.md) — related
 - [Visible real-time gaze feedback improves collaborative-process coordination, especially information pooling, in dyadic knowledge integration tasks](gaze-feedback-improves-collaborative-process.md) — related
+- [In collaborative MAR play, children show positive collaboration quality on all measured dimensions except time management](collaborative-mar-quality-dimensions.md) — related

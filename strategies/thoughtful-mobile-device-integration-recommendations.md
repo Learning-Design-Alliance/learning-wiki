@@ -37,6 +37,7 @@ The review's implications for practice recommend that teachers "think carefully 
 ## Related Strategies
 
 - [Teacher Action Research](teacher_action_research.md)
+- [Replace on-device pictures with drawings of real objects to make mobile-device media complementary to the objects](drawings-replace-pictures-complementary-mobile-media.md)
 
 ## Examples
 -

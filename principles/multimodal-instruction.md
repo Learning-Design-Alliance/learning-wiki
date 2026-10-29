@@ -31,7 +31,7 @@ sources:
 # Multimodal Instruction
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 47 claims (21 for, 22 mixed, 4 against) · 47 studies (21 causal, 11 review, 7 quant-synthesis, 3 associational, 2 qualitative, 2 design, 1 theoretical), `q1`–`q4` · 10 of 47 report an effect size · 41 claims rest on one study
+> **Evidence** · 49 claims (21 for, 24 mixed, 4 against) · 48 studies (22 causal, 11 review, 7 quant-synthesis, 3 associational, 2 qualitative, 2 design, 1 theoretical), `q1`–`q4` · 11 of 48 report an effect size · 43 claims rest on one study
 
 ## Conditional relationship
 
@@ -172,6 +172,8 @@ A learner's preference for a mode, immediate comprehension, the ability to trans
 - [Students make connections between graphical representations only when explicitly prompted, not spontaneously.](../claims/connections-only-when-prompted.md) [~W]
 - [Microgenetic case studies of students with disabilities suggest conceptual advantages from coordinating egocentric actions with distal avatar enactment](../claims/moves-nl-perspectival-coordination-case-studies.md) [~W]
 - [Deictic gestures had stronger connections to other features in the high-learning group, suggesting a more effective use of embodied representations to ground abstract concepts and direct attention.](../claims/deictic-gestures-stronger-connections-high-learning.md) [~W]
+- [Deictic gestures improve transfer performance in Experiment 2 but not in Experiment 1, where no significant transfer effect was found](../claims/deictic-gestures-transfer-mixed.md) [~W]
+- [Gesture type affects reported mental effort, with lower effort for beat gestures in Experiment 1 and for deictic gestures in Experiment 2, but no effect on mental load](../claims/gesture-type-mental-effort-effects.md) [~W]
 
 ## Related Principles
 - [Creating Visual Representations](dual-coding.md) — multimodal instruction often incorporates learner-generated visuals and explanations.
@@ -188,6 +190,7 @@ A learner's preference for a mode, immediate comprehension, the ability to trans
 - **Interactive multimodal lessons**: Learners switch between reading, viewing, listening, and doing as they build understanding.
 - [Teach L2 comprehension through a multiliteracies curriculum with video-based visualizing and verbalizing activities](../strategies/multiliteracies-video-comprehension-activities.md)
 - [Five key representations for introductory statistics: verbal descriptions, visualizations, word equations, GLM notation, and R code](../designs/statistics-five-key-representations.md)
+- [Use deictic pointing gestures by the lecturer to integrate the lecturer with relevant illustrative material in educational videos](../strategies/deictic-gestures-pointing-design-recommendation.md)
 
 ## Key Sources
 - Gellevij, M., Van der Meij, H., de Jong, T., & Pieters, J. (2002). Multimodal versus unimodal instruction in a complex learning context. *The Journal of Experimental Education, 70*(3), 215-239. [https://doi.org/10.1080/00220970209599507](https://doi.org/10.1080/00220970209599507)

@@ -18,7 +18,7 @@ sources:
 # Evaluating Sources
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 13 claims (7 for, 6 mixed) · 28 studies (12 causal, 5 review, 3 quant-synthesis, 3 qualitative, 3 theoretical, 1 associational, 1 design), `q1`–`q4` · 1 of 28 report an effect size · 6 claims rest on one study
+> **Evidence** · 14 claims (7 for, 7 mixed) · 29 studies (13 causal, 5 review, 3 quant-synthesis, 3 qualitative, 3 theoretical, 1 associational, 1 design), `q1`–`q4` · 2 of 29 report an effect size · 7 claims rest on one study
 
 ## Conditional relationship
 
@@ -123,6 +123,7 @@ A better verdict on new sites, a better reason, durability over months, and chan
 
 - [Computing students hold persistent incorrect beliefs, basing trust judgments on cues no longer reliable to guarantee trustworthiness](../claims/persistent-incorrect-trust-cue-beliefs.md) [+W]
 - [The impact of the strategy training was higher for evaluation than for search skills, in terms of accuracy and quality of students' justifications.](../claims/training-impact-higher-evaluation-than-search.md) [+W]
+- [Basic reading skills were associated with change in confirming credibility but not with change in questioning or justifying credibility](../claims/reading-skills-rci-group-association.md) [~W]
 
 ## Related Principles
 - [Inquiry-based Learning](inquiry-based-learning.md) — inquiry quality depends on source quality

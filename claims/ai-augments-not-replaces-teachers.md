@@ -50,3 +50,4 @@ An argumentative position in the paper's results and discussion section: the aut
 - [Most AI implementations in undergraduate higher education sit at the SAMR Substitution or Augmentation levels, with fewer Modification cases and one Redefinition](ai-integration-mostly-substitution-augmentation.md) — related
 - [Generative AI platforms cannot yet independently lead meaningful innovation; at best they augment human intelligence for innovation](generative-ai-augments-not-leads-innovation.md) — related
 - [Most ITS applications augment existing mathematics teaching practices rather than transform instruction, indicating technological sophistication does not independently determine pedagogical value](its-applications-augment-not-transform.md) — related
+- [Empirical evidence surrounding innovative technology-enhanced-learning practices in K-12 education is at best patchy](k12-innovative-tel-evidence-patchy.md) — related

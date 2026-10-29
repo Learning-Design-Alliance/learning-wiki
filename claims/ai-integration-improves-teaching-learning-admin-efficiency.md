@@ -80,3 +80,4 @@ Thematic synthesis of 155 studies (2019–2024) retrieved via PRISMA procedures;
 - [Dataset 1 identified challenges in current teaching (resources, knowledge, digital tools) alongside opportunities for emerging technologies to clarify complex concepts and teach critical skills](dataset1-challenges-and-opportunities-themes.md) — related
 - [AIED offers opportunities for personalized, efficient online teaching but teachers lack readiness to use it](aied-opportunities-teacher-readiness-gap.md) — a narrower finding that bears on this claim
 - [Leadership commitment to adaptive learning was identified by both panels as a prerequisite, strengthened by strategy alignment and communication of empirical results](leadership-commitment-prerequisite-implementation.md) — related
+- [Empirical evidence surrounding innovative technology-enhanced-learning practices in K-12 education is at best patchy](k12-innovative-tel-evidence-patchy.md) — related

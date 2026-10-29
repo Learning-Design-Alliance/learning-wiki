@@ -83,6 +83,7 @@ Process writing works because it externalizes and distributes the cognitive dema
 - Peer review and structured feedback protocols — the engine of the revision stage
 - Strategy instruction in specific genres — supplies the content of mini-lessons
 - Conferencing and writing conferences — individualized coaching within the cycle
+- [For children, keep editing separate from composing: revise during writing, edit grammar after content is complete](separate-composing-from-editing.md)
 
 ## Examples
 - **National Writing Project** (https://www.nwp.org) — teacher networks built around writers' workshop and process approaches across K–16.

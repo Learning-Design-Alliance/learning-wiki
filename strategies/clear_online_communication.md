@@ -64,6 +64,7 @@ Ambiguity about where and when to communicate imposes extraneous load and erodes
 - [Check-Ins](../principles/check-ins.md) — proactive communication that surfaces problems before learners must ask
 - [Make the state of pending administrative processes visible to participants to remove status-enquiry volume](process-state-visibility-reduces-status-enquiries.md)
 - [Place resources such as FAQs, introductory videos, and assignment rubrics in an easily accessible course location](accessible-course-resources-faqs-videos-rubrics.md)
+- [Offer a private messaging function inside asynchronous online courses to support community formation and interactivity](private-messaging-within-asynchronous-courses.md)
 
 ## Examples
 - **Piazza** (https://piazza.com) — Q&A platform built for courses; students can post anonymously, peers answer first, and instructors endorse correct answers, scaling responsiveness in large enrollments.

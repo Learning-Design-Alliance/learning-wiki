@@ -54,3 +54,4 @@ Synthesis of acceptance evidence from 8 studies using standardized instruments (
 - [The Bloom classification UI shows low perceived workload and high usability in a 50-participant user study](bloom-ui-low-workload-high-usability.md) — a narrower finding that bears on this claim
 - [Older adults rated the KOKU digital programme with excellent usability and high acceptability](koku-high-usability-acceptability.md) — a narrower finding that bears on this claim
 - [In a usability study, 12 U.S. STEM teachers rated all generated learning interactives 7 or above for usability, averaging above 8.1, with 3 of 36 requests deemed too low quality to present](teacher-usability-study-average-rating-above-8-1.md) — related
+- [Elderly users accept the Butler system with high satisfaction, low subjective difficulty, and willingness to recommend it](butler-high-acceptance-elderly-users.md) — related

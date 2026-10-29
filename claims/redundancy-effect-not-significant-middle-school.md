@@ -79,3 +79,4 @@ Independent-sample t-test comparing spoken-text-only versus written-plus-spoken 
 - [Co-constructing visual-textual representations without timeline integration did not significantly raise post-test scores over textual representations](visual-textual-no-significant-gain-over-text.md) — related
 - [Video with concurrent narration and on-screen text yields higher immediate macrostructure comprehension than text alone or narration with text](video-narration-text-improves-immediate-macs-comprehension.md) — related
 - [Video with concurrent narration and on-screen text yields higher immediate microstructure comprehension than text alone or narration with text](video-narration-text-improves-immediate-mics-comprehension.md) — related
+- [Redundancy effect on comprehension: TP and TO conditions outperformed the TPO condition in a mobile learning experiment](redundancy-effect-comprehension-mobile-learning.md) — related

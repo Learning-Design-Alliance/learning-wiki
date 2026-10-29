@@ -32,7 +32,7 @@ grain_size: lesson
 # Structured Peer Review
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 51 claims (31 for, 20 mixed) · 59 studies (18 causal, 11 quant-synthesis, 9 associational, 8 review, 5 design, 4 qualitative, 4 theoretical), `q1`–`q4` · 13 of 59 report an effect size · 37 claims rest on one study
+> **Evidence** · 52 claims (31 for, 21 mixed) · 60 studies (18 causal, 11 quant-synthesis, 10 associational, 8 review, 5 design, 4 qualitative, 4 theoretical), `q1`–`q4` · 13 of 60 report an effect size · 38 claims rest on one study
 
 ## Description and scope
 
@@ -171,6 +171,7 @@ This pattern is scoped to peers commenting on an individual's draft that the aut
 - [Applying feedback correlates positively and ignoring feedback negatively with creativity acquisition](../claims/feedback-uptake-correlates-creativity.md) [~W]
 - [Peer review helped students notice their own mistakes through reviewing others' work](../claims/peer-review-reveals-own-mistakes.md) [+W]
 - [Seventh graders could in principle give relevant peer feedback on ELOs, but their peer-assessment skills needed further development](../claims/seventh-graders-peer-feedback-skills.md) [~W]
+- [Elements of both the nature and the reception of feedback are significantly related to receivers' use of that feedback](../claims/feedback-nature-and-reception-related-to-use.md) [~W]
 
 ## Related Patterns
 - [Collaborative Evaluation](collaborative-evaluation.md)

@@ -53,3 +53,4 @@ Methodology section describing the PRISMA-based selection: the initial search yi
 - [Rubric-based assessment showed substantial to almost-perfect inter-rater reliability across all three time points](rubric-interrater-reliability-visualization-assessment.md) — related
 - [Raters differed significantly in severity/leniency in the MFRM analysis](raters-differed-severity-mfrm.md) — related
 - [Systems Thinking Practices is the hardest CT construct to code reliably for both human raters and the LLM, requiring more explicitly operationalized rubrics](stp-low-reliability-complex-construct.md) — related
+- [The corpus of the review comprised fifty-seven high-quality articles published between 2010 and 2017 that met stringent selection criteria](slr-mobile-pedagogies-57-article-corpus-2010-2017.md) — related

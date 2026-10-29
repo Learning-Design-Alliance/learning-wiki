@@ -19,7 +19,7 @@ sources:
 # User-Centered Design for Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 27 claims (15 for, 11 mixed, 1 against) · 24 studies (11 design, 6 causal, 4 qualitative, 1 quant-synthesis, 1 review, 1 associational), `q1`–`q4` · 3 of 24 report an effect size · 26 claims rest on one study
+> **Evidence** · 28 claims (16 for, 11 mixed, 1 against) · 25 studies (11 design, 6 causal, 4 qualitative, 2 associational, 1 quant-synthesis, 1 review), `q1`–`q4` · 3 of 25 report an effect size · 27 claims rest on one study
 
 ## Conditional relationship
 
@@ -128,6 +128,7 @@ Read against the model on 2026-10-19; these three are relevant but do not change
 - [The Bloom classification UI shows low perceived workload and high usability in a 50-participant user study](../claims/bloom-ui-low-workload-high-usability.md) [+W]: 50 online participants rating a question-classification tool for course authors after 10 minutes; low self-reported workload and a mean SUS of 78.2 (SD 14.07). Users are course authors, not learners, and there is no comparison, so it does not bear on the learner-facing relationship.
 - [The authors argue partnership in course design is a promising avenue for LIS educators to begin decolonizing classroom hierarchies](../claims/partnership-decolonizing-classroom-hierarchies.md) [+W]: the authors' concluding argument, with no data in the article, about students as partners in designing a course's curriculum. It shares the stance of designing with users (step 2) but concerns curriculum, not the interface, and tests nothing.
 - [Integrating the IDSA into an existing learning management system limited usability, as the platform predefined frontend structure and navigation](../claims/idsa-lms-integration-usability-tradeoff.md) [~W] — attached 2026-10-29 from Karrenbauer et al. (2023), which proposed "Multi-functionality in a digital study assistant must not come at the expense of the depth and content of individual functionalities".
+- [Nearly a third of students never used the navigation map and overall task-test performance was mediocre](../claims/map-nonuse-and-task-test-performance.md) [+M] — attached 2026-10-29 from Stanton et al. (1997), which proposed "Design hypermedia for fundamental usability rather than adding map-based navigational aids".
 
 ## Objective and learner-valued goal
 

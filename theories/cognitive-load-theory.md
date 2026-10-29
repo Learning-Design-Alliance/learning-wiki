@@ -34,7 +34,7 @@ moved_from: [pattern/cognitive-load-theory]
 # Cognitive Load Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 117 claims (75 for, 32 mixed, 10 against) · 98 studies (41 causal, 23 review, 19 theoretical, 12 quant-synthesis, 2 design, 1 associational), `q1`–`q4` · 20 of 98 report an effect size · 106 claims rest on one study
+> **Evidence** · 119 claims (76 for, 33 mixed, 10 against) · 99 studies (42 causal, 23 review, 19 theoretical, 12 quant-synthesis, 2 design, 1 associational), `q1`–`q4` · 21 of 99 report an effect size · 108 claims rest on one study
 
 ## Description
 Cognitive Load Theory (CLT) proposes that learning is constrained by the limited capacity of working memory. When the total cognitive demand of a learning task exceeds that capacity, learning breaks down — not because the learner lacks ability, but because the instructional design has exhausted the resources available for processing. The theory distinguishes three sources of load and argues that effective instruction reduces unnecessary load to free capacity for the mental work that actually builds schema.
@@ -187,6 +187,8 @@ CLT was developed by John Sweller and colleagues in the 1980s–1990s, drawing o
 - [Design guidelines from motivational and complex-skill theories (4C/ID, ARCS, CLT) contradict multimedia learning guidelines (CTML), producing seven specific design dilemmas](../claims/seven-design-dilemmas-multimedia-vs-complex-skill-guidelines.md) [~W]
 - [Serial mediation: map-structure salience affects disorientation, which affects extraneous load and learning performance; the chain is only partially confirmed](../claims/salience-disorientation-ecl-serial-mediation.md) [+W] — attached 2026-10-29 from Felix Krieglstein et al. (2022), which proposed "Disorientation as a meaningful supplement to current extraneous cognitive load measurement".
 - [A situated embodiment-based flag semaphore strategy improved procedural knowledge and attention with lower extrinsic cognitive load](../claims/situated-embodiment-semaphore-procedural-knowledge.md) [+W]
+- [No split-attention difference in comprehension or learning efficiency between text+picture on a mobile device and text on a mobile device plus real objects](../claims/no-split-attention-effect-mobile-text-picture-versus-text-real-objects.md) [~M] — attached 2026-10-29 from Liu et al. (2011), which proposed "Cognitive load theory applied to mobile learning: split-attention and redundancy effects from combining texts, pictures, and real objects"; tests this page's relationship.
+- [Redundancy effect on comprehension: TP and TO conditions outperformed the TPO condition in a mobile learning experiment](../claims/redundancy-effect-comprehension-mobile-learning.md) [+M] — attached 2026-10-29 from Liu et al. (2011), which proposed "Cognitive load theory applied to mobile learning: split-attention and redundancy effects from combining texts, pictures, and real objects"; tests this page's relationship.
 
 ## The evidence by question
 

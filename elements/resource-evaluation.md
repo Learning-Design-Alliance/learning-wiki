@@ -13,7 +13,7 @@ generated:
 # Resource Evaluation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 19 claims (10 for, 7 mixed, 2 against) · 24 studies (12 causal, 4 review, 3 quant-synthesis, 2 qualitative, 2 theoretical, 1 associational), `q1`–`q4` · 3 of 24 report an effect size · 15 claims rest on one study
+> **Evidence** · 23 claims (11 for, 8 mixed, 4 against) · 25 studies (13 causal, 4 review, 3 quant-synthesis, 2 qualitative, 2 theoretical, 1 associational), `q1`–`q4` · 4 of 25 report an effect size · 19 claims rest on one study
 
 ## Description
 Resource evaluation asks learners to judge the credibility, accuracy, and relevance of information sources before using them. Rather than treating evaluation as a checklist delivered by the instructor, learners apply criteria themselves — comparing sources, probing authorship and evidence, and justifying their judgments — which builds transferable information literacy.
@@ -69,6 +69,10 @@ Resource evaluation works when learners actively apply criteria to real, contras
 - [Embedded-source and document-source trustworthiness scores differed, suggesting an interplay between layers rather than one-layered reflection](../claims/es-and-ds-scores-differ-interplay.md) [~W]
 - [Middle-schoolers judge a speaker presented as a researcher as more expert and more trustworthy than one presented as a consumer](../claims/researcher-judged-more-credible-than-consumer.md) [+W]
 - [Pre-service teachers rate ChatGPT-generated texts higher on structure but often fail to identify AI authorship, indicating limited critical AI literacy](../claims/preservice-teachers-limited-critical-ai-literacy.md) [-W]
+- [At the individual level, most students showed no reliable change in credibility evaluation skills, while 9–18% showed reliable positive change depending on the skill](../claims/individual-level-rci-credibility-change.md) [-W]
+- [Basic reading skills were associated with change in confirming credibility but not with change in questioning or justifying credibility](../claims/reading-skills-rci-group-association.md) [~W]
+- [Explicit video-based instruction nearly doubled students' relevant justifications of overall credibility evaluations relative to control](../claims/video-explicit-instruction-justifying-credibility.md) [+W]
+- [Explicit video-based instruction did not improve sixth graders' skills to confirm the credibility of more credible online texts, nor increase skepticism toward them](../claims/video-explicit-instruction-confirming-null.md) [-W]
 
 ## The evidence by question
 - *Does teaching learners how to check a source improve their judgments of unfamiliar sources, and how much can one session do?* [Civic Online Reasoning Instruction Improves Evaluation](../claims/civic-online-reasoning-instruction-improves-evaluation.md) [+S]

@@ -47,6 +47,7 @@ The article recommends that timing-based signals be used to identify early risk 
 - [Use early cheating-risk predictions only for low-stakes support with human review, never for disciplinary decisions](support-oriented-use-of-cheating-risk-predictions.md)
 - [Use LCF risk clusters to target Supplemental Instruction recruitment and resource allocation](lcf-clusters-guide-si-resource-allocation.md)
 - [Use early-run purchase predictions to trigger interventions guiding learners towards paying behaviour](early-purchase-prediction-interventions.md)
+- [Use cluster-derived usage patterns to drive machine-learning recommender systems and educator/learner dashboards for individualized support](learning-analytics-recommenders-dashboards-udl.md)
 
 ## Examples
 -

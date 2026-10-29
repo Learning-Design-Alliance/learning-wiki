@@ -200,6 +200,7 @@ Better drafts with help, better final versions, better unaided writing on the ne
 - [Guide reading with targeted questions that direct attention to grammatical, lexical and structural features needed for the writing task](../strategies/guided-reading-questions-for-writing-tasks.md)
 - [Give students more chances to produce output and communicate during writing, with varied assignment types and clear sufficient feedback](../strategies/output-based-writing-teaching-suggestions.md)
 - [Argumentative Essay Writing online module with FeedbackFruits peer feedback](../designs/aew-module-feedbackfruits-peer-feedback.md)
+- [For children, keep editing separate from composing: revise during writing, edit grammar after content is complete](../strategies/separate-composing-from-editing.md)
 
 ## Key Sources
 - Hayes, J. R., & Flower, L. S. (1980). Identifying the organization of writing processes. In *Cognitive processes in writing* (pp. 3-30). Lawrence Erlbaum.

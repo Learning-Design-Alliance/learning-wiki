@@ -38,7 +38,8 @@ A 16-item vignette-based assessment developed by the ENACT partnership to measur
 - [Teachers scored across a wide range on the CT–PCK Survey, averaging about 61 percent correct, with 92 percent scoring above chance](../claims/ct-pck-score-range-distribution.md) [+W]
 
 ## Related Products and Programmes
--
+
+- [ICILS 2023 Flanders instrument measuring teachers’ computational thinking content knowledge](icils-2023-flanders-instrument-measuring-teachers-computational-thinking-content-knowledge.md)
 
 ## Key Sources
 - Witherspoon, E.B.; Dracopoli, M., Hawkins, M., Dahlke, K. (2026). Developing a measure of middle school math teachers' pedagogical content knowledge of computational thinking (REL 2026–007). U.S. Department of Education, Institute of Education Sciences, National Center for Education Evaluation and Regional Assistance. https://ies.ed.gov/use-work/resource-library/report/descriptive-study/developing-measure-middle-school-math-teachers-pedagogical-content-knowledge-computational-thinking

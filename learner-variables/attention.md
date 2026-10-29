@@ -13,7 +13,7 @@ generated:
 # Attention
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 141 claims (97 show a difference, 28 mixed, 16 no difference) · 108 studies (32 causal, 27 associational, 21 review, 12 quant-synthesis, 7 qualitative, 6 design, 3 theoretical), `q1`–`q4` · 22 of 108 report an effect size · 136 claims rest on one study
+> **Evidence** · 142 claims (98 show a difference, 28 mixed, 16 no difference) · 109 studies (33 causal, 27 associational, 21 review, 12 quant-synthesis, 7 qualitative, 6 design, 3 theoretical), `q1`–`q4` · 23 of 109 report an effect size · 137 claims rest on one study
 
 ## Description
 How long a learner can sustain focus, and how readily something else takes it. Distinct from [working memory](working-memory.md): attention governs what *reaches* the store, capacity governs what it holds. It converts into segment length, distractor design, and how much a page may hold in one uninterrupted run. The design lever is mostly subtractive — the strongest findings here are about what to remove [-M].
@@ -179,6 +179,7 @@ How long a learner can sustain focus, and how readily something else takes it. D
 - [Inter-brain attention coupling to class-average attention dynamics during lectures is positively correlated with primary school students' academic performance](../claims/inter-brain-attention-coupling-correlates-academic-performance.md) [+M] — learners who differ on it differ in outcomes
 - [Playful embodied robot sessions sustained young children's attention well beyond the planned session length, and children voluntarily invited peers into one-on-one play](../claims/robot-extended-attention-voluntary-collaboration.md) [+W] — instruction changes it
 - [Single-brain attention level (individual average attention) does not significantly correlate with academic performance in this sample](../claims/single-brain-attention-level-no-correlation-performance.md) [-W] — learners who differ on it differ in outcomes
+- [Deictic gestures enhance social presence and attention toward the lecturer in both experiments](../claims/deictic-gestures-enhance-social-presence-attention.md) [+M] — instruction changes it
 
 ## The evidence by question
 - *Does making material more interesting with details that do not carry the target cost learning?* [Interesting but irrelevant details can impair comprehension and transfer, with effects that vary with the material and the learner](../claims/seductive-details-effect.md) [+S]

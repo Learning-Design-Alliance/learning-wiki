@@ -43,6 +43,7 @@ The article recommends that AI systems assisting collaborative problem solving b
 
 - [Adapt tutor responses to detected learner affect: leading hints for frustration, engaging hooks for boredom, and timed intervention for confusion](affect-sensitive-autotutor-responses.md)
 - [Design affect-aware programming learning environments to track the five frequent affective states and use interaction-event log-based affect detection with hint recommendations](affect-aware-programming-environments-strategy.md)
+- [Proactively monitor engagement trajectories and address students who fail to improve or catch up](proactively-address-lack-of-engagement-catch-up.md)
 
 ## Examples
 -

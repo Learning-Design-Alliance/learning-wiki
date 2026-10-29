@@ -35,7 +35,7 @@ sources:
 # Harmonize opposites: strike a balance between competing educational ideas rather than embracing one method wholesale
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 33 claims (22 for, 11 mixed) · 27 studies (8 review, 8 theoretical, 6 causal, 3 quant-synthesis, 1 qualitative, 1 design), `q1`–`q4` · 4 of 27 report an effect size · 31 claims rest on one study
+> **Evidence** · 34 claims (23 for, 11 mixed) · 28 studies (9 theoretical, 8 review, 6 causal, 3 quant-synthesis, 1 qualitative, 1 design), `q1`–`q4` · 4 of 28 report an effect size · 32 claims rest on one study
 
 ## Conditional relationship
 
@@ -142,6 +142,7 @@ Claims the earlier page cited that the model above does not use; each is context
 - [Sequenced explicit instruction then guided independent learning: students benefit from explicit instruction early and guided independence as fluency develops](../claims/sequenced-explicit-then-independent-learning.md) [+W] — attached 2026-10-21 from Andrew J. Martin (2023), which proposed "Treat explicit and constructivist instruction as synergistic rather than mutually exclusive"; tests this page's relationship.
 - [Tarski's World facilitated conditional reasoning relative to only-situated or only-formal instruction](../claims/tarski-world-facilitated-conditional-reasoning.md) [+W] — attached 2026-10-22 from Jelke van Der Pal (1999), which proposed "Balance situated activity with formal tools in instruction"; tests this page's relationship.
 - [CALI shows some evidence of improving oral and reading comprehension skills (d = .125) without opportunity cost to reading gains.](../claims/cali-comprehension-gains-no-opportunity-cost.md) [+W] — attached 2026-10-24 from Dombek et al. (2017), which proposed "Deliver content-area (science and social studies) instruction during the existing literacy block to build content knowledge without sacrificing reading instruction time.".
+- [In Borup et al.'s (2015) blended-course study, students and instructors perceived text and video feedback as equally valuable on quality and delivery, but valued text's efficiency over video's affective benefits](../claims/text-video-feedback-equal-value-efficiency-preferred.md) [+W] — attached 2026-10-29 from Regina Kaplan-Rakowski (2021), which proposed "Feedback modality should be selected with respect to situational principles rather than treated as universally superior"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

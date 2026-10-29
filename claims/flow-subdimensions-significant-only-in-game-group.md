@@ -85,3 +85,4 @@ Neither group differed significantly from the median on loss of self-consciousne
 
 ## Related Claims
 - [No significant between-group difference was found in overall flow status, flow antecedents, or flow experience](no-between-group-flow-difference.md) — reports the opposite
+- [A gamified exergaming intervention improves the time transformation and autotelic experience flow dimensions, but not overall dispositional flow](gamified-exergaming-flow-dimensions-time-transformation-autotelic.md) — related

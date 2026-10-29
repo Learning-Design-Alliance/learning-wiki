@@ -13,7 +13,7 @@ generated:
 # Physical Well-Being
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 78 claims (53 show a difference, 16 mixed, 9 no difference) · 43 studies (18 causal, 11 associational, 8 review, 2 quant-synthesis, 2 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 7 of 43 report an effect size · 74 claims rest on one study
+> **Evidence** · 79 claims (54 show a difference, 16 mixed, 9 no difference) · 44 studies (19 causal, 11 associational, 8 review, 2 quant-synthesis, 2 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 7 of 44 report an effect size · 75 claims rest on one study
 
 ## Description
 Physical well-being covers a learner's overall physical health: nutrition, regular physical activity and fitness, and good sleep. The LVN's case for it is that the benefits reach beyond the body: learners in good health benefit in cognitive skills, focus and mood, which can support academic performance, and in the early years it frames the same idea as physical fitness, with regular exercise strengthening cognitive skills. Exercise is described as particularly helpful for learners with ADHD. Physical activity tends to fall during adolescence, and for adults, education can itself improve health as health literacy grows and learners become better able to advocate for their needs. Body mass index is the one measure the LVN lists. It overlaps with [sleep](sleep.md), which is one of its components, and with [attention](attention.md) and [executive function](executive-function.md), which are among the outcomes exercise is linked to.
@@ -115,6 +115,7 @@ Physical well-being covers a learner's overall physical health: nutrition, regul
 - [Low-intensity exercise during class significantly decreases students' fatigue](../claims/classroom-exercise-decreases-fatigue.md) [+M] — instruction changes it
 - [Low-intensity exercise during university class significantly increases students' vigour during the lesson](../claims/classroom-exercise-increases-vigour.md) [+M] — instruction changes it
 - [First-graders using Kid Space showed physical activity during play-based learning, in an exploratory case study without a comparison](../claims/kid-space-more-physical-activity.md) [+W] — instruction changes it
+- [Collaborative MAR gameplay exceeds competitive gameplay on observed physical activity and interest in exploring the tool](../claims/collaborative-mar-physical-activity-tool-use.md) [+W] — instruction changes it
 
 ## Measures
 - **Body Mass Index (BMI)**: a measure of body fat calculated from height and weight.

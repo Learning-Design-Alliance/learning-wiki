@@ -32,7 +32,7 @@ sources:
 # Cognitive Load Theory
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 66 claims (27 for, 38 mixed, 1 against) · 63 studies (29 causal, 14 review, 13 theoretical, 6 quant-synthesis, 1 qualitative), `q1`–`q4` · 13 of 63 report an effect size · 55 claims rest on one study
+> **Evidence** · 67 claims (27 for, 39 mixed, 1 against) · 64 studies (30 causal, 14 review, 13 theoretical, 6 quant-synthesis, 1 qualitative), `q1`–`q4` · 14 of 64 report an effect size · 56 claims rest on one study
 
 ## Conditional relationship
 
@@ -148,6 +148,7 @@ A learning-phase efficiency gain, immediate performance, near transfer, delayed 
 - [CLT-based instructional design is applied to very high element interactivity material (per Pollock, Chandler, & Sweller)](../claims/clt-design-very-high-element-interactivity.md) [+W]
 - [The thesis hypothesises that element interactivity of materials resolves the contradiction between the worked example effect and the generation effect](../claims/element-interactivity-hypothesis-resolves-guidance-contradiction.md) [~W]
 - [The complexity effect on working memory capacity is not due to insufficient encoding time](../claims/wm-complexity-effect-not-encoding-time.md) [+W]
+- [Gesture type affects reported mental effort, with lower effort for beat gestures in Experiment 1 and for deictic gestures in Experiment 2, but no effect on mental load](../claims/gesture-type-mental-effort-effects.md) [~W]
 
 ## Related Principles
 - [Scaffolding](scaffolding.md)

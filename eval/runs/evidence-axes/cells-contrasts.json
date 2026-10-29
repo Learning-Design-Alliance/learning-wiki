@@ -49442,5 +49442,141 @@
  "media-design\tlight-emitting diode light source\tsingle or double strobe lights": {
   "label": "LED light source vs strobe lights",
   "treatment_is_a": true
+ },
+ "explicit-instruction\tnon-storified explicit video-based instruction\tcontrol regular classroom activities": {
+  "label": "non-storified explicit video-based instruction vs regular classroom activities",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tnon-storified explicit video-based instruction\tcontrol: regular classroom activities": {
+  "label": "non-storified explicit video-based instruction vs regular classroom activities",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tpre-to-post explicit video-based instruction\tno reliable individual change": {
+  "label": "pre-to-post explicit video-based instruction vs no reliable individual change",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tstorified explicit video-based instruction\tcontrol regular classroom activities": {
+  "label": "storified explicit video-based instruction vs regular classroom activities",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tstorified explicit video-based instruction\tcontrol: regular classroom activities": {
+  "label": "storified explicit video-based instruction vs regular classroom activities",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tstorified explicit video-based instruction\tnon-storified explicit video-based instruction": {
+  "label": "storified explicit video-based instruction vs non-storified explicit video-based instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tvideo-based explicit instruction conditions\tother study conditions": {
+  "label": "video-based explicit instruction vs other study conditions",
+  "treatment_is_a": true
+ },
+ "feedback-type\tfeedback containing concrete suggestions\tfeedback without concrete suggestions": {
+  "label": "feedback with concrete suggestions vs feedback without concrete suggestions",
+  "treatment_is_a": true
+ },
+ "gamification\t12-session gamified exergaming PE intervention\t12-session traditional PE intervention": {
+  "label": "gamified exergaming PE vs traditional PE",
+  "treatment_is_a": true
+ },
+ "gamification\tcollaborative MAR game mode\tcompetitive MAR game mode": {
+  "label": "collaborative vs competitive game mode",
+  "treatment_is_a": true
+ },
+ "gamification\tcollaborative game mode\tcompetitive game mode": {
+  "label": "collaborative vs competitive game mode",
+  "treatment_is_a": true
+ },
+ "gamification\tcollaborative game mode\tneutral rubric value (0)": {
+  "label": "collaborative mode vs neutral/no-mode condition",
+  "treatment_is_a": true
+ },
+ "gamification\tcollaborative mode\tcompetitive mode": {
+  "label": "collaborative vs competitive game mode",
+  "treatment_is_a": true
+ },
+ "gamification\tcompetitive game mode\tcollaborative game mode": {
+  "label": "collaborative vs competitive game mode",
+  "treatment_is_a": false
+ },
+ "gamification\tgamified exergaming intervention\tpre-intervention measure": {
+  "label": "gamified exergaming intervention vs pre-intervention",
+  "treatment_is_a": true
+ },
+ "gamification\tgamified exergaming intervention\ttraditional didactic intervention": {
+  "label": "gamified exergaming vs traditional didactic instruction",
+  "treatment_is_a": true
+ },
+ "gamification\tgamified exergaming intervention\ttraditional didactic intervention without exergame or gamification": {
+  "label": "gamified exergaming vs traditional didactic instruction",
+  "treatment_is_a": true
+ },
+ "gamification\tgamified exergaming intervention\ttraditional non-gamified, non-exergaming intervention": {
+  "label": "gamified exergaming vs traditional didactic instruction",
+  "treatment_is_a": true
+ },
+ "gamification\tserious virtual world class\ttraditional class without gaming": {
+  "label": "serious virtual world class vs traditional non-gaming class",
+  "treatment_is_a": true
+ },
+ "gamification\tserious virtual world class\ttraditional class without gaming aspect": {
+  "label": "serious virtual world class vs traditional non-gaming class",
+  "treatment_is_a": true
+ },
+ "gamification\tserious virtual world with a gaming aspect\ttraditional class without a gaming aspect": {
+  "label": "serious virtual world class vs traditional non-gaming class",
+  "treatment_is_a": true
+ },
+ "gamification\ttraditional didactic intervention\tpre-intervention measure": {
+  "label": "traditional didactic intervention vs pre-intervention",
+  "treatment_is_a": true
+ },
+ "media-design\tbeat gestures\tno gestures": {
+  "label": "beat gestures vs no gestures",
+  "treatment_is_a": true
+ },
+ "media-design\tdeictic gestures\tbeat gestures": {
+  "label": "deictic gestures vs beat gestures",
+  "treatment_is_a": true
+ },
+ "media-design\tdeictic gestures\tno gestures": {
+  "label": "deictic gestures vs no gestures",
+  "treatment_is_a": true
+ },
+ "media-design\tdeictic lecturer gestures\tno lecturer gestures": {
+  "label": "deictic lecturer gestures vs no lecturer gestures",
+  "treatment_is_a": true
+ },
+ "media-design\ttexts and pictures on mobile device\ttexts, pictures, and real objects": {
+  "label": "texts, pictures, and real objects vs texts and pictures on a mobile device",
+  "treatment_is_a": false
+ },
+ "media-design\ttexts and real objects\ttexts, pictures, and real objects": {
+  "label": "texts, pictures, and real objects vs texts and real objects",
+  "treatment_is_a": false
+ },
+ "media-design\ttexts on the mobile device and real objects\ttexts with pictures on the mobile device and real objects": {
+  "label": "texts, pictures, and real objects vs texts and real objects",
+  "treatment_is_a": false
+ },
+ "media-design\ttexts with pictures embedded in the mobile device (TP)\ttexts embedded in the mobile device and real objects outside the device (TO)": {
+  "label": "texts with pictures on a mobile device (TP) vs texts on a mobile device and real objects (TO)",
+  "treatment_is_a": true
+ },
+ "media-design\ttexts with pictures embedded in the mobile device (TP)\ttexts, pictures, and real objects": {
+  "label": "texts, pictures, and real objects vs texts with pictures on a mobile device",
+  "treatment_is_a": false
+ },
+ "media-design\ttexts with pictures on the mobile device\ttexts on the mobile device and real objects": {
+  "label": "texts with pictures on a mobile device vs texts on a mobile device and real objects",
+  "treatment_is_a": true
+ },
+ "media-design\ttexts with pictures on the mobile device\ttexts, pictures, and real objects": {
+  "label": "texts, pictures, and real objects vs texts with pictures on a mobile device",
+  "treatment_is_a": false
+ },
+ "media-design\ttexts with pictures on the mobile device (TP)\ttexts on the mobile device and real objects (TO)": {
+  "label": "texts with pictures on a mobile device (TP) vs texts on a mobile device and real objects (TO)",
+  "treatment_is_a": true
  }
 }
