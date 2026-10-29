@@ -13,7 +13,7 @@ generated:
 # Constructed-Response Assessment Items
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 81 claims (25 for, 54 mixed, 2 against) · 59 studies (21 design, 15 associational, 10 causal, 8 review, 2 quant-synthesis, 2 theoretical, 1 qualitative), `q1`–`q4` · 9 of 59 report an effect size · 81 claims rest on one study
+> **Evidence** · 82 claims (25 for, 55 mixed, 2 against) · 60 studies (21 design, 15 associational, 10 causal, 9 review, 2 quant-synthesis, 2 theoretical, 1 qualitative), `q1`–`q4` · 9 of 60 report an effect size · 82 claims rest on one study
 
 ## Description
 Constructed-response items ask students to recall information and produce their own answer rather than recognize a provided one, which reduces guessing compared with [selected-response items](selected-response-assessment-items.md). Two major kinds are used: **completion/short-answer** items (answerable in a word, phrase, number, or symbol — the same underlying format whether phrased as a statement to complete or a question to answer) and **extended-response** items (answers ranging from a paragraph to several pages, often called essay questions when they run long).
@@ -125,6 +125,7 @@ The central disadvantage of extended-response items is unreliable scoring: diffe
 - [LLMs can grade short-answer reading comprehension questions with accuracy comparable to human experts, supporting formative assessment grading](../claims/llm-grading-reading-comprehension-expert-comparable.md) [+W]
 - [Among six tested MLP architectures, classifiers achieved higher exact-match accuracy on rubric scores, while regression and ensemble variants achieved higher QWK on some rubrics](../claims/aes-architecture-comparison-d7.md) [~W]
 - [No correlation between evenness of response score distribution and ML model performance](../claims/no-correlation-evenness-ml-performance.md) [~W]
+- [An automated scoring engine matched experienced human markers yet was rejected over the confidentiality-explainability conflict](../claims/crase-scoring-equivalent-to-human-markers-rejected.md) [~W]
 
 ## The evidence by question
 - *Which practice format: short answer, multiple choice, or matching the final test?* [Evidence on whether initial short-answer questions produce more learning than initial multiple-choice questions is mixed, with recent studies finding little or no difference](../claims/short-answer-versus-multiple-choice-retrieval-practice-evidence-is-mixed.md) [~M]

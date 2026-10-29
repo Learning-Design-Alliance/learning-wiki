@@ -40,7 +40,8 @@ Across its county case studies, the report identifies a recurring pattern of loc
 - [California Ece Fragmented Multi Agency Patchwork](../claims/california-ece-fragmented-multi-agency-patchwork.md) [+M]
 
 ## Related Designs
-- 
+
+- [Australian university's streamlined alpha-launch process for piloting and scaling educational technology](alpha-launch-piloting-process.md)
 
 ## Examples
 -

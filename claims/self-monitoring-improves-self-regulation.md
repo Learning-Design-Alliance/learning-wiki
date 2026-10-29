@@ -83,3 +83,4 @@ Self-monitoring is not mere self-report. It is strongest when learners have expl
 - [AI feedback supports or undermines self-regulated practice depending on whether it supports or substitutes for internal monitoring](ai-feedback-support-or-dependence-self-regulation.md) — related
 - [Self-monitoring of work quality requires three student capacities: appreciation of high quality, evaluative skill, and a store of modification tactics](three-capacities-for-evaluative-self-monitoring.md) — a narrower finding that bears on this claim
 - [Students are better calibrated in predicting achievement than in reporting specific study tactics (Winne & Jamieson-Noel 2002)](achievement-vs-tactic-calibration-winne-jamieson-noel.md) — related
+- [A self-regulated science inquiry approach benefited elementary students' self-regulation and science learning performance](self-regulated-science-inquiry-benefits-elementary.md) — a narrower finding that bears on this claim

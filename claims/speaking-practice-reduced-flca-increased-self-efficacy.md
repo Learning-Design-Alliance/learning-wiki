@@ -62,3 +62,4 @@ In the results for the first research aim, Student A reported losing her "fear o
 - [Using an LLM debugging assistant boosts a student's confidence and reduces frustration during debugging](llm-assistant-boosts-debugging-confidence.md) — a narrower finding that bears on this claim
 - [AI reduces foreign language anxiety and strengthens self-efficacy and self-confidence, supporting the Affective Foundation Pathway](ai-reduces-fl-anxiety-private-practice.md) — related
 - [Lack of confidence and inappropriate language use were observed obstacles to students' mathematical communication during the experiment](confidence-obstacles-math-communication.md) — related
+- [Collaborative models in Second Life positively influenced French learners' speaking capability and inter-peer collaboration](second-life-collaboration-french-speaking.md) — related

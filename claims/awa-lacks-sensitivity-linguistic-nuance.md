@@ -56,3 +56,4 @@ Theme from qualitative coding of student survey comments, written reflections an
 - [LLM-generated feedback is more comprehensive in volume than human feedback but is sometimes too generic, abstract, or misaligned with the assigned grade](llm-feedback-volume-vs-quality.md) — related
 - [Students showed clear appetite for automated writing support and comfort with machine-generated feedback](student-appetite-automated-writing-feedback.md) — related
 - [Human experts provide more nuanced and mixed feedback than ChatGPT-4o and Perplexity in mixed reality simulation mentoring](human-experts-more-nuanced-feedback-than-llm-mrs.md) — related
+- [Students perceived the automated personalized feedback as too general and lacking personal response](automated-feedback-perceived-too-general.md) — related

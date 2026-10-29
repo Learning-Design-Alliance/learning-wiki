@@ -49,3 +49,4 @@ Analysis of login logs from 59 teachers (Fig. 5) and six interviewees (Fig. 6) s
 - [Teachers' weekly OUA dashboard usage is associated with higher odds of students passing their course](oua-usage-predicts-pass.md) — related
 - [Voluntary StatBot use was highly uneven and deadline-driven, with about 27% of students never using the chatbot](uneven-zero-inflated-statbot-usage-patterns.md) — related
 - [Teachers primarily used OUA's colour-coded risk flags and VLE activity indicators, ignoring other features](selective-use-of-oua-features.md) — related
+- [Weekly learning analytics reports served teachers in a flipped course primarily as a diagnosis tool, mentioned by all seven teachers.](la-reports-support-teacher-diagnosis.md) — related

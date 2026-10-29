@@ -47,6 +47,7 @@ The project supported educators seeing themselves as part of the region's comput
 - [Foster teacher agency through low-risk, high-reward opportunities with escalating responsibility](low-risk-high-reward-teacher-agency-opportunities.md)
 - [Sequence pathway development activities across three years: buy-in, SCRIPT assessment and summer institutes led by model-district teachers, then piloting with microcredentials](three-year-pathway-development-activities.md)
 - [Connect computational thinking to local maker and problem-solver heritage to teach it responsively to local culture](connect-ct-to-local-maker-heritage.md)
+- [Use wearable e-textile project design as a hands-on vehicle for STEAM teacher professional development](e-textile-projects-steam-teacher-pd-strategy.md)
 
 ## Examples
 -

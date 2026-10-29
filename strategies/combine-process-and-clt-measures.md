@@ -50,6 +50,7 @@ The article recommends that researchers examine the collaborative process for in
 ## Related Strategies
 
 - [Design CSCL environments for group awareness and representational guidance to cut coordination load](cscl-group-awareness-representational-guidance.md)
+- [Design collaborative setups to minimize extraneous cognitive load](design-collaboration-to-minimize-extraneous-load.md)
 
 ## Examples
 -

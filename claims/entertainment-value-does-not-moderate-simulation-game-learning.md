@@ -51,3 +51,4 @@ Meta-analytic moderator analysis comparing nine high-entertainment samples (N = 
 - [Games with irrelevant story context show significantly larger learning effects than games with relevant story context, and games with no story show a larger, untested mean effect](irrelevant-story-larger-effects-than-relevant.md) — related
 - [The authors concluded transfer of motivational engagement from entertainment gaming to educational contexts was unlikely](gaming-engagement-transfer-to-classroom-unlikely.md) — related
 - [Simulation games are more effective when they actively rather than passively convey course material](simulation-games-effective-when-instruction-active.md) — related
+- [Basing educational game design on well-established learning and instructional theories is argued to reduce the risk of games failing their educational goals](theory-based-game-design-reduces-failure-risk.md) — reports the opposite

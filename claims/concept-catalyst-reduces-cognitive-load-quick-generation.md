@@ -76,3 +76,4 @@ Findings from the same WoZ interview study, in the diversity/efficiency results 
 - Generative AI can help people finish tasks more quickly but does not accelerate learning itself — related
 - [Synchronous autonomous AI suggestions increased perceived writing efficiency but also caused distraction and mental overload during writing](synchronous-suggestions-efficiency-and-distraction.md) — related
 - [Teachers perceive that AI tools lower cognitive barriers and deepen students' conceptual understanding of abstract science content](ai-lowers-cognitive-barriers-conceptual-understanding.md) — related
+- [IDs reported that GenAI increased their efficiency by reducing the time it takes to write and create](genai-reduced-writing-time-efficiency.md) — related

@@ -38,7 +38,9 @@ The program's organizing instructional pattern is the 5E+IA model: "Engage, Expl
 ### Claims
 
 ## Related Designs
+
 - [Stemscopes Math Curriculum](../products/stemscopes.md)
+- [5E instructional model structuring mobile app development mathematics lessons in five stages](5e-model-mobile-ct-math-lessons.md)
 
 ## Examples
 -

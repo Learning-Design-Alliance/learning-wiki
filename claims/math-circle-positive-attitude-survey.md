@@ -59,3 +59,4 @@ End-of-semester survey administered during the last month of circle meetings to 
 - [Students who like writing report the highest writing self-efficacy across all studies examining writing attitude](writing-attitude-liking-predicts-self-efficacy.md) — related
 - [Competition was a constant source of enjoyment for math circle participants, with evaluation focused on the task rather than the individual](competition-enjoyment-task-focused-evaluation.md) — related
 - [Post-program surveys show most students felt more likely to pursue STEM, more comfortable in university labs, and found the program appropriately challenging](discovery-survey-attitudes-comfort-pursuit.md) — related
+- [Self-efficacy and gameplay interest are negatively associated with elementary students' competitive anxiety in one-on-one gameplay](self-efficacy-interest-negatively-associated-competitive-anxiety.md) — related

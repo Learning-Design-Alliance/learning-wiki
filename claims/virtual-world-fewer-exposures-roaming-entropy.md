@@ -47,3 +47,4 @@ The review attributes this to Lan et al. and Hsiao et al., who trained American 
 ## Related Claims
 - [L2 learners pick up vocabulary incidentally from meaning-focused input, with reading the most-studied mode and listening yielding similar proportions of words learned](incidental-vocabulary-learning-through-reading-for-meaning.md) — a broader claim this one bears on
 - [Incidental vocabulary exposure produces reliable learning, but learners pick up only a small share of the unknown words they meet](incidental-vocabulary-exposure-limited.md) — related
+- [Simulated embodied experience in a virtual environment accelerated Chinese vocabulary learning more than a traditional web-based context](ve-context-accelerates-chinese-vocabulary-learning.md) — possibly the same claim (merge candidate)

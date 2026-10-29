@@ -50,3 +50,4 @@ A forward-looking hypothesis in the Future Directions section, offered without t
 - [Negative life events predict rank-order decreases in self-control in early adolescents over time, controlling for baseline self-control and demographics](negative-life-events-predict-self-control-decreases.md) — related
 - [Adverse childhood experiences create toxic stress that impairs attention, learning, and behavior, and school responses can magnify or buffer the harm](aces-toxic-stress-impair-learning.md) — related
 - [Self-control shows substantial rank-order stability in early adolescence, yet situational influences still matter](self-control-rank-order-stability-with-situational-change.md) — related
+- [Loss of a study routine reduced productivity and fed a cycle of procrastination, workload pile-up, stress and escapism for many students](lost-routine-procrastination-stress-cycle.md) — related

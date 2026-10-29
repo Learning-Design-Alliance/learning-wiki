@@ -58,3 +58,4 @@ The review's challenges synthesis (RQ2, Table 2) codes challenges to learners (d
 - [Task-related concerns emerged around time management and classroom behaviour during AI implementation](task-concerns-time-and-behaviour-management.md) — related
 - [Teachers identified cost, bulky headsets, Wi-Fi connectivity, and technical issues as key challenges to integrating VR into ML2 teaching](vr-challenges-cost-headsets-wifi.md) — a narrower finding that bears on this claim
 - [Teachers reported VR could enable Maltese speaking practice at a level unachievable in classrooms or online, especially for students abroad](vr-speaking-practice-unachievable-classroom.md) — reports the opposite
+- [Integrating immersive VR simulations in science classrooms introduces new challenges and there is a lack of learning designs to inform practice](immersive-vr-science-classrooms-challenges-lack-of-designs.md) — a narrower finding that bears on this claim

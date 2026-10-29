@@ -55,3 +55,4 @@ Moderated mediation analysis in the same 480-student cross-sectional survey. The
 - [Self-regulatory activities mediate the relationship between person, context, and achievement](srl-activities-mediate-person-context-achievement.md) — related
 - [Cognitive load is negatively associated with critical thinking and with self-regulated learning](cognitive-load-negatively-associated-critical-thinking.md) — related
 - [Affect, motivation, and cognitive load did not mediate the relationship between error condition and CVS learning](no-mediation-affect-motivation-cognitive-load.md) — related
+- [Lower cognitive load mediates the effect of tool type on conceptual understanding, supporting annotation-based conceptual learning only under low load](cognitive-load-mediates-conceptual-understanding.md) — related

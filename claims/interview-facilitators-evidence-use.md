@@ -9,6 +9,7 @@ generated:
   at: 2026-10-08
 evidence_strength: weak
 newest_evidence: 2019
+source_checked: 2026-10-29
 sources:
   - id: julieta-lugo-gil-2019
     resource: "https://www.mathematica.org/publications/use-of-evidence-to-drive-decision-making-in-government"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q1`
-> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2019 · checked against its sources 2026-10-29 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Factors facilitating evidence use include collaborative relationships between evidence producers and decision-makers, trust in the evidence and in the decision-makers using it, clarity on how different research types can be used, and leadership that supports evidence use with staff buy-in. [→ Julieta Lugo-Gil 2019](#julieta-lugo-gil-2019)
@@ -52,3 +53,4 @@ Phase 2 qualitative interviews with experts in evaluation, dissemination, and ev
 - [Governance structures that exclude faculty and support staff responsible for implementation produce policies that do not stick](exclusive-governance-produces-ignored-policies.md) — related
 - [Eight enabling factors support relationship-centered school transformation in comprehensive high school settings](enabling-factors-relationship-centered-transformation.md) — related
 - [Problematic one-way links between production and consumption processes impede the technology's circulation, with only one manufacturer responding to users](problematic-production-consumption-links.md) — related
+- [In 78% of interviews, higher education decision-makers reported conducting their own internal investigations of educational technology products](internal-investigations-78-percent-interviews.md) — related

@@ -48,3 +48,4 @@ Pairwise comparisons within the repeated measures ANOVA on test scores in the qu
 - [DBT-based video tutorials significantly improve procedural knowledge for software tasks from pre-test to practice and post-tests](dbt-video-tutorials-improve-procedural-knowledge.md) — related
 - [The demonstration-with-review tutorial outperformed the demonstration-only control on practice, immediate post-test and delayed post-test](review-tutorial-outperforms-demonstration-only.md) — related
 - [DBT-based video tutorials significantly raise both task relevance and self-efficacy from before to after training](dbt-tutorials-raise-task-relevance-self-efficacy.md) — related
+- [Video tutorials produced large learning gains from pre-test to training test, with significant decline at later post-tests and no condition effect](video-tutorials-learning-gains-decline-no-condition-effect.md) — possibly the same claim (merge candidate)

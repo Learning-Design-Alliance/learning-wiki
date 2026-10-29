@@ -50,3 +50,4 @@ Self-reported plans from the same Spring 2020 survey of 71 K-8 teachers: "most t
 - [30% of surveyed K-8 teachers planned to adopt transformative teaching practices after pandemic distance teaching](thirty-percent-teachers-transformative-practices-plans.md) — related
 - [The pandemic disruption promoted teacher adaptation and may have prompted lasting new practices, per the authors](pandemic-promoted-teacher-adaptation-lasting-practices.md) — related
 - [Adopting mastery goals rather than performance goals during initial learning promotes transfer](mastery-goals-promote-transfer.md) — related
+- [Full-scale online teaching and learning practice during the pandemic generated new needs for student-centered learning, according to this response essay.](pandemic-online-teaching-needs-student-centered-learning.md) — related

@@ -17,7 +17,7 @@ sources:
 # Use response practice on training devices when simulating task stimuli is difficult or expensive
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 causal), `q3` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 2 studies (2 causal), `q3` · 0 of 2 report an effect size · 1 claim rests on one study
 
 ## Description
 Eckstrand's experiment supports a practical strategy for training-device design: when stimulus simulation is the costly part, practice on the responses alone still transfers. The report notes: "In some types of training devices it is relatively easy to simulate accurately the manual responses of the operator in the actual task but difficult and expensive to simulate in detail the stimuli to which these responses are made." Pretraining on responses with substitute (letter) stimuli improved later task performance.

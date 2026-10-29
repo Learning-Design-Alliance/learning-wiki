@@ -13,7 +13,7 @@ generated:
 # Feedback
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 210 claims (94 for, 101 mixed, 15 against) · 160 studies (62 causal, 33 review, 20 quant-synthesis, 15 associational, 12 design, 9 qualitative, 9 theoretical), `q1`–`q4` · 39 of 160 report an effect size · 186 claims rest on one study
+> **Evidence** · 215 claims (97 for, 102 mixed, 16 against) · 162 studies (63 causal, 33 review, 20 quant-synthesis, 15 associational, 13 design, 9 qualitative, 9 theoretical), `q1`–`q4` · 40 of 162 report an effect size · 191 claims rest on one study
 
 ## Description
 Feedback is information provided to learners about their performance or understanding, intended to close the gap between current and desired performance. Effective feedback answers three questions: Where am I going? How am I doing? Where to next? ([Hattie & Timperley, 2007](https://doi.org/10.3102/003465430298487)). It functions as the corrective mechanism in any instructional cycle that includes [Practice](practice.md) or [Assessment](assessment.md).
@@ -258,6 +258,11 @@ Feedback is among the most powerful influences on learning, but its effects are 
 - [Educational level moderates AWE effectiveness: university students show larger effects (g = 0.58–0.62) than junior and senior high students (0.25–0.50)](../claims/awe-educational-level-moderator.md) [~W]
 - [AWE is more effective when complemented by teacher feedback rather than used as a standalone tool](../claims/awe-more-effective-with-teacher-feedback.md) [~W]
 - [Qualitative analysis found predominantly positive perceptions of iVR, with real-time feedback the most valued element and lack of realism the main concern](../claims/qualitative-ivr-perceptions-feedback-valued-realism-concern.md) [+W]
+- [Chatbot-guided feedback SRL improved university students' reflection more than conventional SRL](../claims/srl-cgf-improves-reflection.md) [+M] — attached 2026-10-29 from Yen-Fen Lee et al. (2025), which proposed "Chatbot-assisted SRL feedback learning system with three levels of chatbot feedback on the TronClass platform"; tests this page's relationship.
+- [Chatbot-guided feedback SRL produced a significant interaction between feedback method and website design performance over time, with the groups differing only on the second website](../claims/srl-cgf-website-design-progress-interaction.md) [~M] — attached 2026-10-29 from Yen-Fen Lee et al. (2025), which proposed "Chatbot-assisted SRL feedback learning system with three levels of chatbot feedback on the TronClass platform"; tests this page's relationship.
+- [Students perceived the automated personalized feedback as too general and lacking personal response](../claims/automated-feedback-perceived-too-general.md) [-W] — attached 2026-10-29 from van der Schaaf et al. (2016), which proposed "JIT and VIZ personalized feedback modules with two granularity levels and timeline visualization".
+- [Chatbot-guided feedback SRL improved university students' meta-cognition tendency and self-regulated learning more than conventional SRL](../claims/srl-cgf-improves-metacognition-and-srl.md) [+W]
+- [Chatbot-guided feedback SRL improved university students' learning motivation more than conventional SRL](../claims/srl-cgf-improves-learning-motivation.md) [+W]
 
 ## Design Decisions
 <!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice

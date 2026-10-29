@@ -72,3 +72,4 @@ Observational and interview study of four after-school sites; educators reported
 - [Student interviewees reported technical support availability as a significant gap for online students.](molh-student-interviews-technical-support-gap.md) — related
 - [Ash and Jaspen studied the effects of viewing angle, screen distance, and room illumination on learning with a rear-projection daylight screen](viewing-conditions-rear-projection-study.md) — related
 - [Teachers identified cost, bulky headsets, Wi-Fi connectivity, and technical issues as key challenges to integrating VR into ML2 teaching](vr-challenges-cost-headsets-wifi.md) — related
+- [Students integrating QR-code AR into their learning reported no technical issues, attributed to alpha-generation technology familiarity](qr-code-ar-no-technical-issues-alpha-generation.md) — related

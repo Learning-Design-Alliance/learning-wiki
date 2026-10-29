@@ -67,6 +67,7 @@ The scorecard operationalizes culturally responsive pedagogy — the principle t
 - [Support teachers to customize curriculum for local relevance and cultural responsiveness](teacher-supports-curriculum-customization.md)
 - [Use guiding questions to diversify existing mathematics curriculum and assessments when adopting a new curriculum is not possible](guiding-questions-diversify-math-curriculum-assessments.md)
 - [Use the tools as facilitated conversation starters that produce artifacts, not as a checklist exercise](tools-as-conversation-starters-not-checklist.md)
+- [Interpersonal design practices for centering social justice: co-design, cultural competence, building understanding, and listening](interpersonal-social-justice-design-practices.md)
 
 ## Examples
 - **[NYC Coalition for Educational Justice](https://www.nyccej.org)** — published the original Culturally Responsive Curriculum Scorecard with ELA and STEAM versions; parent-led teams have used it to audit and publicly report on district-adopted curricula.

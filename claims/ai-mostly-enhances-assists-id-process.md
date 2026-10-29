@@ -54,3 +54,5 @@ Thematic coding of AI usage purposes across the 28 included studies (Table 4). T
 - [Many contemporary generative AI tools serve multiple educational purposes, with several tools appearing in multiple typology categories](genai-tools-multipurpose-multiple-categories.md) — related
 - [The most frequent limitation of AI in instructional design is content reliability and transparency (16 of 28 studies, 57.14%)](ai-id-limitation-content-reliability-transparency.md) — related
 - [Instructional designers mainly use ChatGPT for content creation (57.5%), writing assistance (30%), professional support, communication, and information searching](id-chatgpt-usage-content-creation-dominant.md) — related
+- [IDs used GenAI as a design partner or personal assistant to streamline the design process](genai-design-partner-streamline-process.md) — a narrower finding that bears on this claim
+- [IDs perceived GenAI as most useful for analysis, design, and development tasks but most frequently used it for writing performance objectives and modifying instructional content](genai-usefulness-analysis-design-development-vs-reported-use.md) — related

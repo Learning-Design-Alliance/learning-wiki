@@ -91,3 +91,4 @@ Meta-analysis of 17 studies (k = 60 effect sizes) on subject-matter-related know
 - [A feedback provision scaffold of prompts plus a sample solution significantly improves the quality of feedback messages pre-service teachers provide on peers' case analyses](feedback-provision-scaffold-improves-feedback-quality.md) — a narrower finding that bears on this claim
 - [Neither scaffold significantly improves pre-service teachers' EIR application skills](no-scaffold-effect-eir-application.md) — related
 - [Benefits of learning with more than two external representations primarily depend on the provision of appropriate instructional support.](mer-benefits-depend-on-instructional-support.md) — related
+- [AI-GFCA students report better peer interaction, collaboration, form of interaction and provision of peer feedback, but reception of peer feedback does not differ](ai-gfca-interaction-mindset.md) — related

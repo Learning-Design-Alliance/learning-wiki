@@ -45,6 +45,7 @@ Based on the finding that Chinese users became more critical of online education
 ## Related Strategies
 
 - [Use online platform discussion boards as a window into learners' pandemic-related anxieties and needs](use-boards-to-understand-learner-anxieties.md)
+- [Redesign preview content and vary examples across video types to raise coverage](vary-examples-and-slim-previews-to-raise-coverage.md)
 
 ## Examples
 -

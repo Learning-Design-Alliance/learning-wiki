@@ -56,3 +56,4 @@ Mann-Whitney U comparison of post-intervention cognitive load in the cluster-ran
 - [Learning performance improved over time and differed by group, but ADA showed no significant group-by-time interaction advantage over conventional materials](ada-no-significant-performance-interaction.md) — related
 - [Training on AI interaction strategies slightly increases cognitive load during AI-assisted design](ai-interaction-training-slightly-increases-cognitive-load.md) — related
 - [Instructional videos and AI chatbots show complementary rather than redundant functions for science learning](videos-and-ai-chatbots-complementary-functions.md) — related
+- [Chatbot-guided feedback SRL improved university students' meta-cognition tendency and self-regulated learning more than conventional SRL](srl-cgf-improves-metacognition-and-srl.md) — related

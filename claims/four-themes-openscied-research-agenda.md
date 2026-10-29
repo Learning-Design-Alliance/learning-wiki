@@ -43,6 +43,7 @@ Qualitative synthesis of artifacts from three 90-minute working-group sessions w
 
 
 ## Related Claims
+
 - [OpenSciEd practitioners' highest-priority needs group into six areas: student engagement, classroom culture, assessment, materials adaptation, planning/reflection time, and teacher capacity.](openscied-six-high-priority-need-areas.md) — related
 - [Professional learning and other teacher supports are perceived as foundational, addressing root causes of many OpenSciEd practitioner challenges across adoption, enactment, and assessment.](openscied-teacher-supports-foundational.md) — related
 - [Teachers and education leaders differ in which OpenSciEd challenges they prioritize: teachers rate student engagement higher, leaders rate materials adaptation and teacher capacity higher.](openscied-teacher-leader-priority-differences.md) — related
@@ -52,3 +53,4 @@ Qualitative synthesis of artifacts from three 90-minute working-group sessions w
 - [Practitioners most often name students with disabilities (37.4%) and multilingual learners (31.0%) as groups experiencing equity challenges with OpenSciEd.](openscied-equity-challenges-swd-and-mls.md) — related
 - [Teachers are able to support rich and participatory science discussions during OpenSciEd enactment, per detailed case studies of experienced teachers](openscied-rich-participatory-discussions.md) — a narrower finding that bears on this claim
 - [Implementation projects most commonly fail due to simplistic planning, lack of adaptation, and poor teamwork](implementation-failure-modes-planning-adaptation-teamwork.md) — related
+- [CILT organizes its research agenda around four theme areas chosen for likely major gains in teaching and learning](cilt-four-theme-areas.md)

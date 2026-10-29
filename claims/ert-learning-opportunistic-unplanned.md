@@ -49,3 +49,4 @@ Observational reflection (SF1 section) on the conditions of teacher support from
 - [Schools that had previously invested in technology and professional development for digital learning responded more quickly to the shift to online teaching during COVID-19 closures](prior-digital-investment-greater-ert-capacity.md) — related
 - [Level of preparedness was not a direct indicator of a simple transition to ERT](preparedness-not-direct-indicator-ert-transition.md) — related
 - [The Covid-19 pandemic increased the design workload of university teachers as they migrated teaching online](pandemic-increased-design-workload-online-migration.md) — related
+- [Five themes characterized K-12 teachers' perspectives of the post-COVID 'new normal', including more online or blended learning and uncertainty about what it would look like](new-normal-perspectives-five-themes.md) — related

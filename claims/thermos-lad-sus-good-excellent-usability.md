@@ -58,3 +58,4 @@ A survey of 42 participants from various study programs completed the ten-item S
 - [Students rated AISSA's usability as excellent, with an average SUS score of 83.38 from 30 of 46 pilot students](aissa-sus-usability-83.md) — related
 - [Experimental-group participants rated TibetCPR highly usable (SUS = 84.3, an Excellent rating), with the highest items on voluntary engagement and independent use](tibetcpr-high-usability-sus-84-3.md) — related
 - [The experimental group rated AVDS usability as excellent while the control group rated it as good](sus-usability-excellent-experimental-good-control.md) — related
+- [Students rated the VR-IWS highly usable, with a mean SUS score of 85.36](vr-iws-sus-usability-85.md) — related

@@ -50,3 +50,4 @@ Systematic literature review conducted using the EBSCO host Library, in which "a
 - [No existing framework in the reviewed literature combined all identified inquiry phases and sub-phases, prompting development of a synthesized framework](no-existing-framework-combining-all-inquiry-phases.md) — related
 - [The Investigation phase divides into three sub-phases: Exploration or Experimentation leading to Data Interpretation](investigation-exploration-experimentation-data-interpretation.md) — a narrower finding that bears on this claim
 - [The Discussion phase, comprising Reflection and Communication, can occur at any point during inquiry-based learning and connects to all other phases](discussion-phase-occurs-at-any-point.md) — a narrower finding that bears on this claim
+- [Guidance in computer-supported inquiry learning is unevenly distributed across the five inquiry phases](guidance-uneven-across-inquiry-phases.md) — related

@@ -58,3 +58,4 @@ Questionnaire study with 30 participants, all with prior STEM teaching experienc
 - [Students rated Zoo U highly for engagement and likeability, with every usability area rated at least 3.8 on a four-point scale](zoo-u-high-student-engagement-likeability.md) — related
 - [In preliminary user acceptance testing, 84% of participants rated Taklif.AI's personalization feature as beneficial](uat-84-percent-rate-personalization-beneficial.md) — related
 - [Students reported positive usability and acceptance of MentorChat](mentorchat-positive-usability-acceptance.md) — related
+- [Participants expressed overall positive perceptions of the PD, with all survey items except one rated above 4 on a five-point scale](cybersecurity-pd-positive-perceptions.md) — related

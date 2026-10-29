@@ -50,3 +50,4 @@ Experiment 1, a two-hour randomized lesson with 252 sixth graders assigned by cl
 - [With scrambled randomization and novel material, jigsaw produced no difference versus individualistic learning on a life-sciences test](jigsaw-vs-individualistic-null-sleep-cycle-e2.md) — related
 - [In a semester-long crossover experiment with a real teacher, learning scores under jigsaw were not higher than under teaching-as-usual in physics and chemistry](jigsaw-vs-tau-null-semester-e3a.md) — related
 - [Small-group learning improves undergraduate STEM achievement](small-group-learning-improves-stem-achievement.md) — related
+- [Cooperative storytelling tasks outperformed individual tasks across performance, autonomy, anxiety, and emotion measures](cooperative-storytelling-outperformed-individual.md) — related

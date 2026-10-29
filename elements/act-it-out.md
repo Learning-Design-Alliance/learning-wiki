@@ -13,7 +13,7 @@ generated:
 # Act It Out
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 25 claims (16 for, 6 mixed, 3 against) · 32 studies (15 causal, 7 review, 5 quant-synthesis, 3 theoretical, 1 associational, 1 design), `q1`–`q4` · 6 of 32 report an effect size · 21 claims rest on one study
+> **Evidence** · 26 claims (17 for, 6 mixed, 3 against) · 33 studies (16 causal, 7 review, 5 quant-synthesis, 3 theoretical, 1 associational, 1 design), `q1`–`q4` · 6 of 33 report an effect size · 22 claims rest on one study
 
 ## Description
 Act It Out asks learners to physically perform a concept, process, historical event, social interaction, or procedure rather than only describe or discuss it. Learners take on roles, gesture abstract relationships, or simulate a system's behavior with their bodies, producing an enactive representation of the content that complements verbal and visual encoding.
@@ -73,6 +73,7 @@ Enactment leverages the self-performed, embodied encoding of content: motor enga
 - [In a randomised experiment, young children who watched geography videos with whole-body movements showed no greater knowledge recall than children who watched the same videos seated](../claims/movement-videos-no-knowledge-gain-young-children.md) [-M] — attached 2026-10-27 from Mavilidi et al. (2026), which proposed "Online movement-based geography video intervention for young children (embodied cognition condition)"; tests this page's relationship.
 - [Gesture-enacted L2 vocabulary learning yields significantly better memory and more sustained retention than non-gesture learning, lasting 2–6 months](../claims/gesture-learning-sustained-l2-retention.md) [+W]
 - [Deictic gestures had stronger connections to other features in the high-learning group, suggesting a more effective use of embodied representations to ground abstract concepts and direct attention.](../claims/deictic-gestures-stronger-connections-high-learning.md) [~W]
+- [A situated embodiment-based flag semaphore strategy improved procedural knowledge and attention with lower extrinsic cognitive load](../claims/situated-embodiment-semaphore-procedural-knowledge.md) [+W]
 
 ## The evidence by question
 

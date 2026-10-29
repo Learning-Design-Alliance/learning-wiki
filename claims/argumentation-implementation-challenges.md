@@ -55,3 +55,4 @@ Practitioner perspectives in the primer identify these barriers: scaffolding and
 - [Facilitating professional learning poses challenges for teacher leaders, including unfamiliarity with colleagues' instructional strategies and lacking skills to support teachers in applying them](teacher-leader-facilitation-challenges.md) — related
 - [Four current challenges impede AI literacy implementation: inconsistent policies, uneven knowledge, resistance, and cost barriers](four-challenges-ai-literacy-implementation.md) — related
 - [Time constraints, limited collaboration opportunities, colleague resistance, and school mobile-device policies were reported barriers to professional development with the TARGET-tool](target-tool-pd-barriers.md) — related
+- [Teachers support interdisciplinary curriculum integration but identify resource limitations, not curricular constraints, as the main barrier](e-textile-steam-integration-attitudes-barriers.md) — related

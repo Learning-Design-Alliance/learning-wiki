@@ -74,3 +74,4 @@ Inter-rater reliability analysis of the three instructors' independent blind gra
 - [The rule-based recipe annotation system reaches near-perfect inter-annotator agreement (Cohen's Kappa 0.85) and average accuracy 0.95 in a validation on sampled recipe segments.](relex-annotation-validation-kappa-accuracy.md) — related
 - [Inter-rater reliability between human experts and AI coding is very low](low-irr-experts-vs-ai-coding.md) — related
 - [Including supplemental response context in modified inputs was necessary because human raters scored target responses with access to those responses](supplemental-response-context-modified-inputs.md) — related
+- [An automated scoring engine matched experienced human markers yet was rejected over the confidentiality-explainability conflict](crase-scoring-equivalent-to-human-markers-rejected.md) — related

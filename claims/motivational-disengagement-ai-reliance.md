@@ -58,3 +58,4 @@ Frequency counts from the grounded theory coding of student accounts. Representa
 - [Students attributed initial passive reliance on GenAI to prompting paralysis and an authority bias compounded by low academic self-efficacy](prompting-paralysis-and-authority-bias.md) — related
 - [Physical Strain, reported by 120 participants, comprises visual fatigue and session exhaustion from reading and verifying AI outputs](physical-strain-visual-fatigue-session-exhaustion.md) — related
 - [Students in both conditions named awareness of their reliance on AI as the most valuable course outcome, and unrestricted-AI students described shallow engagement they could not stop](reliance-awareness-most-valued-outcome.md) — related
+- [Students reported growing confidence in using AI after the lessons](students-perceived-ai-proficiency-gain.md) — related

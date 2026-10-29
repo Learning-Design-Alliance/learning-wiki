@@ -30,7 +30,7 @@ sources:
 # Learning by Producing (multimedia production as learning)
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 21 claims (13 for, 8 mixed) · 32 studies (10 causal, 9 quant-synthesis, 5 design, 3 theoretical, 2 review, 2 qualitative, 1 associational), `q1`–`q4` · 10 of 32 report an effect size · 13 claims rest on one study
+> **Evidence** · 22 claims (14 for, 8 mixed) · 33 studies (10 causal, 9 quant-synthesis, 5 design, 4 theoretical, 2 review, 2 qualitative, 1 associational), `q1`–`q4` · 10 of 33 report an effect size · 14 claims rest on one study
 
 ## Description and scope
 
@@ -153,6 +153,7 @@ This pattern is scoped to units in which a team or individual makes a media prod
 - [Pedagogy and production dimensions associated most strongly with global quality (Spearman ρ = 0.68 and 0.66), while content was relatively independent (ρ = 0.46)](../claims/bespoke-pedagogy-production-correlate-with-global-quality.md) [~W]
 - [Blinded panel ratings of design presentations did not differ significantly between GenARch and Control teams](../claims/genarch-panel-presentation-no-significant-difference.md) [~W]
 - [Girls produced 34 comprehensive PSAs and dozens of mini-Scratch projects, providing project-based evidence of computing knowledge gain](../claims/e5c-scratch-project-artifacts.md) [+W]
+- [Learning by creation shifts learners from consumers to creators of learning content and increases their awareness of taking learning ownership](../claims/learning-by-creation-increases-ownership-awareness.md) [+W]
 
 ## Related Patterns
 

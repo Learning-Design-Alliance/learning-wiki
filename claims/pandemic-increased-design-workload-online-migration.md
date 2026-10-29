@@ -50,3 +50,4 @@ The authors assert, without presenting evidence, that "the current pandemic has 
 - [Training providers and instructors faced logistical challenges moving in-person apprenticeship training online but adapted quickly](providers-adapted-in-person-training-online.md) — related
 - [Teachers of lower-SES students were less likely to have previous online teaching experience and reported the transition to remote instruction as more challenging](ses-gap-teacher-online-experience-transition.md) — related
 - [During emergency remote teaching, teachers' professional learning was opportunistic rather than planned, with no clear duration](ert-learning-opportunistic-unplanned.md) — related
+- [STEM faculty implemented the five inquiry phases online during COVID-19 emergency remote teaching](faculty-implemented-inquiry-phases-online-covid.md) — related

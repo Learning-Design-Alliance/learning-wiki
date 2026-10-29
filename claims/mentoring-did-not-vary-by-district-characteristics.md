@@ -50,3 +50,4 @@ Descriptive subgroup comparisons with statistical tests across district subgroup
 - Time-on-task measures did not support a simple duration-based explanation for the outcome pattern — related
 - [An adapted SimCalc linear-function unit in England produced significant posttest gains versus Texas-control predictions (ES = 0.57), with no significant gain differences by poverty or prior achievement](simcalc-uk-extension-gains.md) — related
 - [Across ten districts combined, elementary schools show no statistically significant difference from an equitable distribution of highest-performing teachers](elementary-equitable-distribution-highest-performing-teachers.md) — related
+- [PD knowledge gains varied by district type but not school level: suburban participants improved significantly while urban and rural participants and all three school levels did not](cybersecurity-pd-gains-district-type-school-level.md) — related

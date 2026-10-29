@@ -47,3 +47,4 @@ Reported finding of the same three-factor experiment, which manipulated the pres
 ## Related Claims
 - [Collaboration facilitates learning only under specific knowledge and experience conditions; with advanced learners it can be detrimental via the expertise reversal effect](collaboration-beneficial-conditions-expertise-reversal.md) — a broader claim this one bears on
 - [Collaborative learning is beneficial or detrimental depending on individual and situational factors](collaborative-learning-conditionally-beneficial.md) — a broader claim this one bears on
+- [Collaborative dyads marginally outperform individuals on hypervideo product quality](dyads-marginally-higher-hypervideo-quality.md) — related

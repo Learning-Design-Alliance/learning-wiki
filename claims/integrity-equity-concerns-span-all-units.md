@@ -178,3 +178,4 @@ Cross-unit thematic findings from the seven-respondent survey case study; the ar
 - [Teachers aspire to enhanced cognitive abilities such as superintelligence and super memory to support teaching](teachers-desire-enhanced-cognitive-abilities.md) — related
 - [ITS adoption is limited by instructors' lack of programming skills and high outsourcing costs](its-barriers-programming-skills-and-cost.md) — related
 - [Using the TARGET-tool was associated with teacher professional development across all four IMPG domains: external, domain of practice, domain of consequence, and personal domain](target-tool-impg-domain-changes.md) — related
+- [Four themes for better preparing teachers for future emergencies: professional development, technology access, technology training for teachers and students, and action plans with communication](prepare-teachers-future-emergencies-four-themes.md) — related

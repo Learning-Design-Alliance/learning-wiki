@@ -47,3 +47,4 @@ Expert appraisal workshop (n = 20 international multimedia and instructional des
 ## Related Claims
 - [Five semi-structured expert interviews validated the prototype framework, yielding 28 text fragments that drove its finalization](expert-interview-validation-mbpa-framework.md) — related
 - [The authors expect VER groups to develop richer mental models, produce higher quality feedback and show increased complex skill performance, to be tested in four Dutch classrooms](ver-expected-gains-to-be-tested-in-classrooms.md) — related
+- [Formative assessment with validated analytic rubrics in the Viewbrics tool produced higher oral presentation performance than conventional rating-scale rubrics in Dutch secondary education](analytic-rubrics-outperform-conventional-rubrics-oral-presentation.md) — related

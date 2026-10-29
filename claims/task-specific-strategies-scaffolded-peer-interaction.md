@@ -89,3 +89,4 @@ Episode from the “Measuring boxes” length activity (Table 14): after a peer 
 - [Textual evidence for interpretive claims appeared in whole-class discussion but students struggled to reason about why evidence supported claims](evidence-in-discussion-but-reasoning-struggle.md) — related
 - [Peer interactions supported both children's metacognitive tasks and strategies, with children organizing performance using others' directions and evaluating others' performance](peer-interactions-support-metacognitive-tasks-strategies.md) — related
 - [Children's statements about universal properties of cognition emerged only in weight and volume measurement activities, not in length or area activities](universal-cognition-statements-weight-volume-only.md) — related
+- [Students articulated problem solutions in well-defined rules and steps, proposing gamified area-calculation games](students-articulate-game-rules-steps.md) — related

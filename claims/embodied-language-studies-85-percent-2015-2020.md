@@ -47,3 +47,4 @@ Descriptive synthesis of the 41 included studies' publication years, reported in
 ## Related Claims
 - [Empirical research on embodied learning in language education is a small but rapidly growing area, with 41 studies identified and most published 2019–2020](embodied-language-learning-research-growing-41-studies.md) — a broader claim this one bears on
 - [The years 2019, 2020, and 2022 had the highest numbers of related publications](publication-frequency-by-year.md) — related
+- [Simulated embodied experience in a virtual environment accelerated Chinese vocabulary learning more than a traditional web-based context](ve-context-accelerates-chinese-vocabulary-learning.md) — related

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: weak
 newest_evidence: 2019
+source_checked: 2026-10-29
 sources:
   - id: kevin-ackermans-2019
     resource: "https://doi.org/10.1007/s11423-019-09668-1"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q1`
-> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2019 · checked against its sources 2026-10-29 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The authors argue text-based rubrics are fragmentary, lack contextual and dynamic information, and do not provide the procedural information needed to support automation of constituent skills, risking incomplete mental models. [→ Kevin Ackermans 2019](#kevin-ackermans-2019)
@@ -49,3 +50,4 @@ Theoretical argument in the introduction, not a tested result. The authors state
 - [Pairing Contextual Encounters With Explicit Instruction Produces Stronger Vocabulary Outcomes Than Either Alone](pairing-contextual-encounters-with-explicit-instruction-produces-stronger-vocabulary-outcomes-than-either-alone.md) — a broader claim this one bears on
 - [Students perceived peer group feedback as contextually rich but sometimes subjective, and ChatGPT-4o feedback as more objective and well structured but occasionally lacking contextual sensitivity](student-perceptions-human-contextual-ai-objective-structured.md) — related
 - [Allowing procedural constructs (branches, rules, loops, recursion) in an authoring tool dramatically raises authoring complexity and demands debugging support](procedural-authoring-constructs-raise-complexity.md) — related
+- [Formative assessment with validated analytic rubrics in the Viewbrics tool produced higher oral presentation performance than conventional rating-scale rubrics in Dutch secondary education](analytic-rubrics-outperform-conventional-rubrics-oral-presentation.md) — related

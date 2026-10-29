@@ -13,7 +13,7 @@ generated:
 # Learning Analytics-Driven Feedback
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 76 claims (26 for, 35 mixed, 15 against) · 65 studies (20 review, 19 associational, 9 theoretical, 6 causal, 6 design, 5 qualitative), `q1`–`q3` · 4 of 65 report an effect size · 73 claims rest on one study
+> **Evidence** · 78 claims (28 for, 35 mixed, 15 against) · 66 studies (20 review, 19 associational, 9 theoretical, 6 causal, 6 qualitative, 6 design), `q1`–`q3` · 4 of 66 report an effect size · 75 claims rest on one study
 
 ## Description
 In face-to-face instruction, a teacher can visually notice disengagement or confusion; a distance instructor cannot, and many learners fail to recognize their own need for help or fail to seek it even when it is available ([Baker & Inventado, 2016](https://edtechbooks.org/lidtfoundations/educational_data_mining_and_learning_analytics)). Educational data mining (EDM) and learning analytics (LA) address this by mining the large amounts of interaction data online and distance courses generate — content-management, discussion-forum, gradebook, and clickstream data — to build models that predict which learners are at risk and to surface feedback that would otherwise depend on an instructor noticing in person.
@@ -122,6 +122,8 @@ These models feed three uses that benefit learners directly: **automated feedbac
 - [Combined assessment-centered and student-centered features yield the best classifier performance](../claims/combined-features-best-classifier-performance.md) [+W]
 - [Teachers perceived 'practised enough' learners to be less accurately placed than learners in the other two Grouped Dashboard categories](../claims/practised-enough-group-rated-less-accurate.md) [-W]
 - [Teaching staff distrusted LA tools' data accuracy and prediction precision despite trusting their usefulness](../claims/la-data-accuracy-distrust.md) [-W]
+- [Teachers reported that learning analytics reports encouraged them to start interaction with students by referring to the report.](../claims/la-reports-prompt-teacher-student-interaction.md) [+W] — attached 2026-10-29 from Anouschka van Leeuwen (2019), which proposed "Weekly paper-based learning analytics reports aggregating student activity and perception data to working-group level".
+- [Teachers used the course average displayed on LA reports as a baseline to decide whether intervention was needed, illustrating the comparison principle.](../claims/course-average-baseline-comparison-principle.md) [+W]
 
 ## The evidence by question
 

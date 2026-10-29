@@ -47,3 +47,4 @@ The review cites Woolley et al.'s work (as referenced) on a collective intellige
 ## Related Claims
 - [Collaborative Learning Improves Outcomes](collaborative-learning-improves-outcomes.md) — related
 - [Mixed courses show the largest effect among teaching types (ES = 1.34), and effects decline as group size increases beyond 2–3 members](mixed-courses-and-small-groups-strongest-cps-effects.md) — related
+- [Students developed communication and collaboration skills through group-based app design](students-collaboration-app-design.md) — related

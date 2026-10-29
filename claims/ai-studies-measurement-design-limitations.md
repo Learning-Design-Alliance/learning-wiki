@@ -68,3 +68,4 @@ The review's methodological analysis of study designs in AI-enhanced learning re
 - [Subjective effort ratings are affected by invalid cues and only weakly valid as cues to judged learning outcomes](effort-ratings-invalid-cues-weak-validity.md) — a broader claim this one bears on
 - [Teachers' self-reported AI literacy correlates only weakly with their objectively measured performance (r = 0.07–0.24)](weak-sr-ob-correlation-ai-literacy.md) — a broader claim this one bears on
 - [Fluent Illusions Mislead Self Assessment](fluent-illusions-mislead-self-assessment.md) — a broader claim this one bears on
+- [Internal comparison studies of educational technology (reported by about one-sixth of interviewees) often lacked rigor, relying on volunteer faculty, omitting pre-tests, and not randomly assigning conditions](internal-comparison-studies-lack-rigor.md) — a narrower finding that bears on this claim

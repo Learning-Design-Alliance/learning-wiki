@@ -74,3 +74,4 @@ The review reports this simulated-classroom study found "signiﬁcant impairment
 - [Chronic aircraft noise exposure is associated with lower reading comprehension in children, with a linear exposure–effect relationship](chronic-aircraft-noise-lower-reading-comprehension.md) — related
 - [Attention and speech perception in noise predict which children are most disadvantaged by open-plan classrooms](attention-and-speech-in-noise-predict-environment-sensitivity.md) — a narrower finding that bears on this claim
 - [Open-plan classroom configurations had significantly higher background noise levels than enclosed configurations, with no reverberation difference](open-plan-classrooms-higher-background-noise.md) — related
+- [Adding distractors made the MOT game substantially more difficult for children than adults, interpreted as immature attentional inhibition of distractors](distractors-impair-children-more-than-adults.md) — related

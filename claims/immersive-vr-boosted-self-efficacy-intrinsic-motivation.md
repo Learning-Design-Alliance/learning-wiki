@@ -9,6 +9,7 @@ generated:
   at: 2026-10-20
 evidence_strength: weak
 newest_evidence: 2025
+source_checked: 2026-10-29
 sources:
   - id: törmänen-2025
     resource: "https://doi.org/10.1007/s10648-025-10036-0"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-10-29 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Makransky et al. (2019) found the immersive VR simulation increased self-efficacy and intrinsic motivation more than the conventional safety manual. [→ Törmänen 2025](#tormanen-2025)
@@ -62,3 +63,4 @@ The review reports, citing Makransky et al. (2019), a comparison of three learni
 - [Mental simulation training increased children's reading motivation in both grades, while control-group motivation showed no significant change](mental-simulation-training-raises-reading-motivation.md) — related
 - [Immersive lessons show a small effect size advantage over less immersive technology, but increased presence does not necessarily lead to more learning](immersive-lessons-small-advantage-presence-not-sufficient.md) — related
 - [Integrating virtual reality and gamification increased students' learning outcomes, motivation, engagement, and self-efficacy](gamified-vr-increased-learning-outcomes-motivation-engagement-self-efficacy.md) — a broader claim this one bears on
+- [An LX design integrating an immersive VR simulation in an inquiry-based Physics learning environment was enacted with 109 high-school students and evaluated for conceptual learning gains](lx-design-immersive-vr-special-relativity-109-students.md) — related

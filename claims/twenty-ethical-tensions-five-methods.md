@@ -53,3 +53,4 @@ Qualitative thematic analysis of semi-structured interviews with 25 university l
 - [In CLL, teachers perceive a trust erosion cycle, AI dominance in groups, collaborative hollowing, and a counselor's dilemma](cll-four-ethical-tensions.md) — a narrower finding that bears on this claim
 - [Moral Unease, reported by 190 participants, reflects authorship guilt and a gap between AI output quality and actual understanding](moral-unease-authorship-guilt-understanding-gap.md) — related
 - [A multi-source study identifies eight key areas of ethical consideration regarding teachers' use of AI for student feedback](eight-ethical-areas-teacher-ai-feedback.md) — related
+- [Six pedagogical dilemmas emerge when integrating game-based learning into ethics education: rules, social modes, identity framing, systems nudging, personalized design, and ethics positioning](six-pedagogical-dilemmas-ethics-games.md) — related

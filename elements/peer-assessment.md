@@ -18,7 +18,7 @@ sources:
 # Peer Assessment
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 14 claims (9 for, 4 mixed, 1 against) · 14 studies (5 associational, 3 causal, 3 quant-synthesis, 1 review, 1 design, 1 theoretical), `q1`–`q4` · 4 of 14 report an effect size · 11 claims rest on one study
+> **Evidence** · 15 claims (9 for, 5 mixed, 1 against) · 15 studies (5 associational, 3 causal, 3 quant-synthesis, 2 design, 1 review, 1 theoretical), `q1`–`q4` · 4 of 15 report an effect size · 12 claims rest on one study
 
 ## Description
 Peer assessment is the element in which learners evaluate the work or reasoning of peers against shared criteria. It is useful when the goal is both better feedback for the work and stronger learner judgment about quality.
@@ -55,6 +55,7 @@ Peer assessment is the element in which learners evaluate the work or reasoning 
 - [Students rated peers' work from their own country 3.6% higher than work from elsewhere](../claims/in-group-favoritism-peer-grading-country.md) [~W]
 - [Peers slightly under-mark their comrades' papers while self-assessors over-mark their own](../claims/peers-undermark-self-assessors-overmark.md) [~W]
 - [Peer grading behaviors do not significantly predict project performance for assessors or assessees](../claims/peer-grading-not-significant-predictor.md) [-W]
+- [Seventh graders could in principle give relevant peer feedback on ELOs, but their peer-assessment skills needed further development](../claims/seventh-graders-peer-feedback-skills.md) [~W]
 
 ## The evidence by question
 

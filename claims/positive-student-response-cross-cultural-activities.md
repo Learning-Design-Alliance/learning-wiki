@@ -49,3 +49,4 @@ The authors' evaluation in the Conclusion section is based on informal feedback 
 - [Microblogging and mobile blogging promote target-language interaction, cultural understanding, and a sense of community among language learners](microblogging-promotes-interaction-community-language-learners.md) — related
 - [Designers develop cultural awareness through both informal exposure and formal intentional means](awareness-developed-informal-formal-means.md) — related
 - [Students rated mobile learning activities positively and 80% gave positive interview feedback](mobile-math-positive-student-perceptions.md) — related
+- [Synchronous videoconferencing projects fostered intercultural awareness and perspective taking in isolated communities](videoconferencing-intercultural-perspective-taking.md) — related

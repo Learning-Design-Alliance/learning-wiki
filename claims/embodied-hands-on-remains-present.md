@@ -56,3 +56,4 @@ Thematic review finding across the included corpus: the review reports that sket
 - [Multiple representations improve learning](multiple-representations-improve-learning.md) — a broader claim this one bears on
 - [Language becomes an operational medium in AI-supported design, with risks of narrowing exploration](language-operational-medium-design-ai.md) — related
 - [Hands-on collaborative activity in responsive environments helps learners understand from multiple perspectives and begin to become experts (authors' reported experience)](hands-on-collaboration-becoming-experts.md) — related
+- [Educators prioritize communication skills in which learners describe design ideas and document their making processes](makerspace-communication-skills-competency.md) — related

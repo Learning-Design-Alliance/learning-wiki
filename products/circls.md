@@ -32,7 +32,8 @@ CIRCLS.org is a Digital Promise–maintained online community hub connecting and
 - [The NSF EXP collaboration network connected 238 researchers across 87 projects and 116 expertise areas](../claims/nsf-exp-network-238-researchers-87-projects.md) [+W]
 
 ## Related Products and Programmes
--
+
+- [CILT — the Center for Innovative Learning Technologies](cilt-the-center-for-innovative-learning-technologies.md)
 
 ## Key Sources
 - Roschelle J. (2021). Intelligence Augmentation for Collaborative Learning. In: Sottilare R.A., Schwarz J. (eds) Adaptive Instructional Systems. Design and Evaluation. HCII 2021. Lecture Notes in Computer Science, vol 12792. Springer, Cham. https://doi.org/10.1007/978-3-030-77857-6_17

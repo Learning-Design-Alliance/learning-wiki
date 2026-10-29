@@ -50,3 +50,4 @@ This is the authors' interpretive alternative hypothesis offered in the introduc
 - [Teachers reported that role-plays and the discussions after them fostered pupils' empathy and knowledge about bullying](role-play-discussion-built-knowledge-empathy.md) — related
 - [Gamers' collaboration skills are specialized to the game environment and do not straightforwardly transfer to school learning](gamer-skills-not-transferable-to-school-learning.md) — related
 - [Playing Spiritfarer has the potential to impact gamers' outlook, knowledge, and behaviors, especially in relation to grief, empathy, and managing loss](spiritfarer-impacts-outlook-knowledge-behaviors.md) — related
+- [When ethics games lack explicit cues distinguishing ethical from unethical choices, some players fail to recognize the intended dilemma and the games risk encouraging unethical behavior](missing-ethical-cues-risk-unethical-play.md) — related

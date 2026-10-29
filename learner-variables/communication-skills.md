@@ -13,7 +13,7 @@ generated:
 # Communication Skills
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 75 claims (48 show a difference, 16 mixed, 11 no difference) · 61 studies (16 causal, 16 associational, 10 review, 7 quant-synthesis, 5 theoretical, 4 design, 3 qualitative), `q1`–`q3` · 12 of 61 report an effect size · 74 claims rest on one study
+> **Evidence** · 77 claims (50 show a difference, 16 mixed, 11 no difference) · 63 studies (16 causal, 16 associational, 10 review, 7 quant-synthesis, 5 design, 5 theoretical, 4 qualitative), `q1`–`q3` · 12 of 63 report an effect size · 76 claims rest on one study
 
 ## Description
 Communication is expressing one's thoughts, ideas and emotions and understanding those of others. Language is its main medium (spoken and signed language, reading and writing, listening), but it also includes gesture, drawing, numbers and technology, and the use of more than one language. Using several modes, and mixing languages when a learner's vocabularies do not overlap, is described as extending thinking and making ideas easier for others to engage with. It is measured through vocabulary and language tests, self-assessments of oral competence, and, in mathematics, by coding the detail and soundness of students' spoken explanations and their participation in discussion.
@@ -116,6 +116,8 @@ It overlaps with [reading and language](reading-and-language.md) and [English-le
 - [Transcriptome-wide analyses link genetically predicted expression of DUS3L and HSD3B7 to English literacy phenotypes and SEMA6C to Chinese vocabulary breadth](../claims/twas-dus3l-hsd3b7-sema6c-literacy.md) [+M] — learners who differ on it differ in outcomes
 - [AI-powered reading assistants enhanced student expression, personalized reading pathways and supported teacher feedback in literacy education](../claims/ai-reading-assistants-literacy-supportive-not-substitutive.md) [+M] — instruction changes it
 - [ChatGPT-assisted revision significantly improved abstract clarity and conciseness ratings](../claims/chatgpt-revision-improves-clarity-conciseness.md) [+M] — instruction changes it
+- [Educators prioritize communication skills in which learners describe design ideas and document their making processes](../claims/makerspace-communication-skills-competency.md) [+M] — instruction changes it
+- [Students developed communication and collaboration skills through group-based app design](../claims/students-collaboration-app-design.md) [+M] — instruction changes it
 
 ## Measures
 - **Expressive One-Word Picture Vocabulary Test, Fourth Edition (EOWPVT-4)** (Martin & Brownell, 2011): expressive vocabulary across all age groups.

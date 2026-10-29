@@ -51,3 +51,4 @@ The article offers this as an author interpretation rather than a tested result:
 - [Cognitive Load Reduction Improves Learning](cognitive-load-reduction-improves-learning.md) — related
 - [Task performance and learning are related but fundamentally different processes](task-performance-and-learning-are-different-processes.md) — related
 - [Learning with multiple representations imposes high demands and often fails to produce expected results because learners do not integrate the representations](multi-representational-learning-integration-failure.md) — related
+- [Counter to hypothesis, learners with low-salience concept maps were more time-efficient than high-salience learners](low-salience-map-higher-learning-efficiency.md) — related

@@ -14,7 +14,7 @@ generated:
 # Lectures
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 12 claims (6 for, 4 mixed, 2 against) · 24 studies (9 review, 7 quant-synthesis, 5 causal, 2 theoretical, 1 associational), `q1`–`q4` · 6 of 24 report an effect size · 6 claims rest on one study
+> **Evidence** · 13 claims (7 for, 4 mixed, 2 against) · 25 studies (9 review, 7 quant-synthesis, 5 causal, 2 associational, 2 theoretical), `q1`–`q4` · 6 of 25 report an effect size · 7 claims rest on one study
 
 ## Description
 A lecture is an instructor-led presentation that delivers content in a structured, sequenced format to a group of learners. It functions as an efficient means of transmitting foundational knowledge — explaining concepts, modeling reasoning, and organizing material — but its effectiveness depends on how attention is managed and how actively learners process the presented content.
@@ -75,6 +75,7 @@ Lectures can efficiently build foundational knowledge when content is well-organ
 - [University students remain highly on-task throughout 70-minute lectures, refuting the 15–20 minute attention-span myth](../claims/rosengrant-vigilance-no-15-minute-decline.md) [+W]
 - [University students' visual engagement in real lectures is higher than practitioners often expect and can remain high despite fluctuations](../claims/student-engagement-higher-than-expected-real-lectures.md) [~W]
 - [Teacher-led learning events are associated with more positive post-event emotional valence than individual events, particularly in the lecture-based implementation](../claims/teacher-led-events-more-positive-valence-than-individual.md) [~W]
+- [During early COVID-19, surveyed K-12 teachers most often used video lectures and reading materials (65.4% each), with 45% describing their approach as learner-centered](../claims/k12-online-strategies-tools-covid-survey.md) [+W]
 
 ## The evidence by question
 - *Does replacing part of lecture with active learning raise exam scores and pass rates?* [Active Learning Improves Exam Performance](../claims/active-learning-improves-exam-performance.md) [+S]

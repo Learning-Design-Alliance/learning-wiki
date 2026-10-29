@@ -48,3 +48,4 @@ Narrative review of Lin et al.'s study on students' ability to translate between
 - [Concreteness fading studies in mathematics show mixed transfer results, with some studies favoring fading and others favoring generic symbols or reversed sequences](math-concreteness-fading-mixed-transfer-results.md) — related
 - [Manipulatives Improve Math Learning](manipulatives-improve-math-learning.md) — related
 - [Post-interviews with props and embodiment revealed understanding of macro–micro particle changes that the multiple-choice post-test did not capture.](step-interview-surfaces-micro-micro-understanding.md) — related
+- [Students showed growth in representational competence and conceptual understanding of particle motion across an online sequence of representational challenges](online-rca-growth-particle-motion.md) — related

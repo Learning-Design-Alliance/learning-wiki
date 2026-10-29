@@ -51,3 +51,4 @@ Theoretical argument by the author reviewing the history of the field since the 
 - [Youth with an IEP experience bullying and suspension at higher rates and are less engaged in school and social activities than peers, though most youth with and without an IEP feel positive about school](iep-youth-bullying-suspension-engagement.md) — related
 - [The constellation of dominant motivation theories in educational psychology has changed very little over recent decades](motivation-theory-constellation-stagnant-decades.md) — related
 - [Pedagogy has evolved to include gaming, social interaction and play, and contemplative practices](pedagogy-evolved-new-methods.md) — related
+- [The OLSit framework connects learning theories with instructional design practices by providing theory-based strategies for improving student engagement in student-centered learning](olsit-framework-connects-theories-with-design-practices.md) — related

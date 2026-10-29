@@ -44,6 +44,7 @@ The author identifies three future trends: widening focus from individual eye mo
 ## Related Strategies
 
 - [Complement outcome measures with continuous process measures to assess social effects and enable adaptive pedagogical agents](process-measures-for-adaptive-pedagogical-agents.md)
+- [Collect qualitative data on learners' experiment-design decisions and actions to understand the processes underlying scaffold effects](qualitative-data-on-experiment-design-decisions.md)
 
 ## Examples
 -

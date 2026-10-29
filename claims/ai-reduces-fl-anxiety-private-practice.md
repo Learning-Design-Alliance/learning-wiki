@@ -105,3 +105,5 @@ Thematic synthesis codes 31 studies to self-efficacy and self-confidence enhance
 - [Extensive reading produced no measurable change in the perceived Practical Value of foreign-language reading (r = .09)](er-no-change-practical-value-attitude.md) — related
 - [Immediate task repetition benefits oral performance, including fluency, self-correction and reduced anxiety](immediate-repetition-benefits-oral-performance.md) — related
 - [AI-enabled EFL teaching in schools is associated with improvements in student engagement, motivation, and language proficiency, per a systematic review of 22 empirical studies](ai-efl-engagement-motivation-proficiency-review.md) — related
+- [An intelligent affective tutoring system recognizing facial expressions reduced anxiety and improved Japanese learning](affective-tutoring-reduces-japanese-learning-anxiety.md) — a narrower finding that bears on this claim
+- [Students in both groups valued the AI speaking app for autonomous practice, and AI-GFCA students reported reduced anxiety and more peer interaction](interview-positive-learning-experience.md) — a narrower finding that bears on this claim

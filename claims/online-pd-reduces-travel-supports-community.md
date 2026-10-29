@@ -55,3 +55,4 @@ The brief's framing statement, offered without supporting data or argument, list
 - [Rural TECTA participants faced distinct barriers including travel burden, limited stipends, inconvenient class timing, technology access, and unclear registration](rural-childcare-structural-barriers-tecta-participation.md) — reports the opposite
 - [Face-to-face components are used mainly for orientation while monitoring of learning progress is carried out online](f2f-orientation-online-monitoring-division.md) — related
 - [Students value the UOC online model's flexibility for combining study with professional and personal life](flexibility-combine-study-work-life.md) — related
+- [Flexibility was a key benefit for many students: 53% valued not having to travel, 61% found video recordings helpful, and 59% valued assignment deadline extensions](flexibility-benefits-recordings-extensions.md) — related

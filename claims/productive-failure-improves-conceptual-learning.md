@@ -240,3 +240,4 @@ The article reports a randomized-controlled experiment comparing problem solving
 - [Children who actively generate their own predictions show better conceptual learning about water displacement than children who observe matched predictions from another learner](diy-prediction-better-conceptual-learning-than-yoked-observation.md) — related
 - [Initial PF activities were too frustrating and were refined with moderate metacognitive support so students struggled without giving up](pf-moderate-support-refinement.md) — related
 - [Cognitive interview study found little evidence that students can treat AI problems as near-transfer tasks from grade-level math and CS](ai-not-near-transfer-from-math.md) — related
+- [Knowledge gains occur across all conditions, but tool use and collaboration do not improve conceptual understanding, and the control group outperforms on interrelations and transfer](enhanced-tools-no-conceptual-understanding-advantage.md) — related

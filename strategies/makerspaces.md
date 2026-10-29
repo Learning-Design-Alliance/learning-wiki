@@ -70,6 +70,7 @@ Makerspaces enact constructionist claims that learning is deepest when learners 
 - [Connect computational thinking to local maker and problem-solver heritage to teach it responsively to local culture](connect-ct-to-local-maker-heritage.md)
 - [Develop new pedagogical solutions to facilitate and collectively manage students' multimodal knowledge practices in makerspaces](pedagogical-solutions-multimodal-knowledge-practices.md)
 - [Provide open-ended, making-focused environments with space to experiment and invent as a route to powerful mathematical discoveries](open-ended-making-environments-math-discoveries.md)
+- [Broaden the design space of educational technologies for makerspaces beyond technical skill support](makerspace-edtech-design-directions-strategy.md)
 
 ## Examples
 - **[Maker Ed](https://makered.org)** — supports school and library makerspace programs with guidance on facilitation and equitable implementation.

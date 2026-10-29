@@ -52,3 +52,6 @@ Focus-group findings (Further development theme, 11 codes). Teachers cited Wi-Fi
 - [Thematic analysis identified immersion as the dominant theme, with teachers reporting VR could remove physical barriers and provide authentic practice settings for ML2](vr-themes-immersion-barriers-tours.md) — related
 - [VR/AR implementation challenges fall on three fronts: learner distraction and discomfort, teacher classroom-management and design burdens, and school cost and infrastructure limits](vr-ar-challenges-learners-teachers-schools.md) — a broader claim this one bears on
 - [Persistent challenges include feedback inaccuracy, learner overreliance, and limited transparency](customized-ai-writing-persistent-challenges.md) — a broader claim this one bears on
+- [Teachers reported that accommodating diverse classroom needs was the biggest co-design challenge](codesign-challenge-diverse-classroom-needs.md) — related
+- [Integrating immersive VR simulations in science classrooms introduces new challenges and there is a lack of learning designs to inform practice](immersive-vr-science-classrooms-challenges-lack-of-designs.md) — related
+- [Students integrating QR-code AR into their learning reported no technical issues, attributed to alpha-generation technology familiarity](qr-code-ar-no-technical-issues-alpha-generation.md) — related

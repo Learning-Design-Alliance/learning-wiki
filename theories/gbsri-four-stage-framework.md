@@ -47,7 +47,8 @@ GBSRI integrates three genre-based teaching-learning cycles (Macken-Horarik 2002
 - [Three-phase SRL scaffolding framework (planning, task execution, post-task reflection) operationalized across iterative design cycles](three-phase-srl-chatbot-scaffolding-framework.md)
 
 ## Examples
--
+
+- [Seven-step learning-by-design cycle with three group-composition phases](../designs/seven-step-design-cycle-be-cool.md)
 
 ## Key Sources
 - Wiboonwachara, L., & Charubusp, S. (2022). Implementing Genre-Based Self-Regulated Instruction (GBSRI) to Enhance the English Writing Ability of Thai Undergraduate Students. rEFLections, 29(3). https://so01.tci-thaijo.org/index.php/reflections. [doi:10.61508/refl.v29i3.262658](https://doi.org/10.61508/refl.v29i3.262658)

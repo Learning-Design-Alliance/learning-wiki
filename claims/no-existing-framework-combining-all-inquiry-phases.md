@@ -51,3 +51,4 @@ Across the 32 reviewed articles, the authors report that "No framework bringing 
 - [No developing-region digital literacy framework in the review explicitly represents the copyright and licenses sub-competence](copyright-licenses-absent-developing-region-frameworks.md) — related
 - [The Discussion phase, comprising Reflection and Communication, can occur at any point during inquiry-based learning and connects to all other phases](discussion-phase-occurs-at-any-point.md) — related
 - [No existing AI literacy framework explicitly names prompt construction as a competency](prompt-literacy-left-unnamed.md) — a narrower finding that bears on this claim
+- [Guidance in computer-supported inquiry learning is unevenly distributed across the five inquiry phases](guidance-uneven-across-inquiry-phases.md) — related

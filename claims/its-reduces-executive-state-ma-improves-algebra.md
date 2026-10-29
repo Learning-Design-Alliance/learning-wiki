@@ -77,3 +77,4 @@ Pre/posttest of conceptual and procedural knowledge of linear systems (six items
 - [Cognitive-only coaching increased deep and achieving learning approaches, academic self-concept, and reduced test anxiety and anxiety/depression, but academic performance declined relative to control; behavioural-only coaching decreased test anxiety and increased academic performance with no other effects.](cognitive-versus-behavioural-coaching-differential-effects.md) — related
 - [Math learning gains did not differ between the Mindful and Cognitive conditions](no-condition-difference-math-learning.md) — related
 - [Mathematics anxiety shows mixed relations to algebraic thinking across studies](math-anxiety-mixed-algebra-relations.md) — related
+- [An intelligent affective tutoring system recognizing facial expressions reduced anxiety and improved Japanese learning](affective-tutoring-reduces-japanese-learning-anxiety.md) — related

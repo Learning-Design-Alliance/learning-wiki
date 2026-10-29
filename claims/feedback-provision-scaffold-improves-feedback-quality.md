@@ -54,3 +54,4 @@ Linear mixed model in the randomized 2×2 experiment (N = 254) predicting feedba
 - [Feedback quality provided correlates positively with both EIR recognition and EIR application skills](feedback-quality-correlates-eir-skills.md) — related
 - [Dissociation between scaffolding quality and retrospective reasoning: experienced teachers scaffold better but reason less advanced about student thinking](pouta-scaffolding-reasoning-dissociation.md) — related
 - [Adaptive feedback outperforms generic feedback for pre-service teachers' noticing in a virtual classroom](adaptive-noticing-feedback-outperforms-generic.md) — related
+- [AI-GFCA students report better peer interaction, collaboration, form of interaction and provision of peer feedback, but reception of peer feedback does not differ](ai-gfca-interaction-mindset.md) — related

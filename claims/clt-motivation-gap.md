@@ -64,3 +64,4 @@ Document analysis within the review: the authors note the 1998 CLT theory articl
 - [Instruction based on cognitive load theory can compensate for age-related cognitive declines](clt-instruction-compensates-age-related-declines.md) — related
 - [Design guidelines from motivational and complex-skill theories (4C/ID, ARCS, CLT) contradict multimedia learning guidelines (CTML), producing seven specific design dilemmas](seven-design-dilemmas-multimedia-vs-complex-skill-guidelines.md) — related
 - [Special-issue papers present theoretical frameworks for guiding online teaching practices, including framing of instruction, cognitive load in CSCL, and engagement](special-issue-frameworks-online-teaching.md) — a broader claim this one bears on
+- [Basing educational game design on well-established learning and instructional theories is argued to reduce the risk of games failing their educational goals](theory-based-game-design-reduces-failure-risk.md) — related

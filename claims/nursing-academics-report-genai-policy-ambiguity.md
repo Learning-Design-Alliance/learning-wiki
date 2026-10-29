@@ -78,3 +78,4 @@ Same interview study, Theme One minor theme on inconsistent application. Partici
 - Awareness of GenAI governance and regulation remains limited, appearing in a small transitional cluster — related
 - [Most higher education educators report lacking institutional support and feeling unequipped for GenAI integration](educators-lack-institutional-genai-support.md) — a broader claim this one bears on
 - [Assessment validity is a deeper problem than AI-output detection, and disallowed use clusters with time pressure and unclear expectations](assessment-validity-over-detection.md) — related
+- [Blended learning remains ambiguously defined after more than two decades of use](blended-learning-term-ambiguity.md) — related

@@ -76,3 +76,4 @@ Thematic analysis of semi-structured interviews and focus groups conducted in sp
 - [The M&E Checklist structures validation as stakeholder-collaborative evidence building culminating in a large pilot study](me-checklist-phase4-structure-claim.md) — related
 - [Development of collaborative classrooms and effective CSCL curriculum is a multi-year, multi-iteration process requiring sustained institutional commitment](cscl-teacher-development-multi-year-multi-iteration.md) — related
 - [Thematic analysis of teacher interviews identifies barriers to implementation and factors for success](mast-implementation-barriers-success-factors.md) — related
+- [Teachers reported that accommodating diverse classroom needs was the biggest co-design challenge](codesign-challenge-diverse-classroom-needs.md) — related

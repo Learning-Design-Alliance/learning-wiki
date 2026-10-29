@@ -46,6 +46,7 @@ The article outlines an example research project, Customizing OpenSciEd material
 - [Support PowerUp implementation with layered professional development: customized planning, product training, and ongoing data coaching](powerup-layered-professional-development.md)
 - [Research opportunities leveraging open materials: district adoption models and customizing materials for specific student populations](openscied-open-materials-research-opportunities.md)
 - [Provide teachers with exemplar NGSS-aligned CBL units and templates to customize rather than requiring design from scratch](hybrid-unit-template-customization-approach.md)
+- [Provide relevant, customized professional development grounded in teachers' local contexts, with ongoing just-in-time support](customized-context-based-pd-online-teaching.md)
 
 ## Examples
 -

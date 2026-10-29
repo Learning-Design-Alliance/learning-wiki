@@ -50,3 +50,4 @@ Qualitative analysis within the mixed-method study of teaching-assistant trainin
 - [High authenticity simulations show higher effects than low authenticity simulations](high-authenticity-simulations-higher-effects.md) — related
 - [VR participants lacked mutual engagement in collaborative role-playing during the teaching simulation](vr-participants-lacked-mutual-engagement-role-playing.md) — related
 - [All participants reported higher teaching self-efficacy after the teaching-simulation training](teaching-simulation-training-raises-self-efficacy.md) — related
+- [Integrating immersive VR simulations in science classrooms introduces new challenges and there is a lack of learning designs to inform practice](immersive-vr-science-classrooms-challenges-lack-of-designs.md) — related

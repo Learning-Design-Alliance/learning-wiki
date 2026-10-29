@@ -47,7 +47,7 @@ sources:
 # Collaborative Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 82 claims (30 for, 48 mixed, 4 against) · 85 studies (19 causal, 16 review, 15 theoretical, 11 associational, 10 quant-synthesis, 9 qualitative, 5 design), `q1`–`q4` · 12 of 85 report an effect size · 76 claims rest on one study
+> **Evidence** · 83 claims (30 for, 48 mixed, 5 against) · 86 studies (20 causal, 16 review, 15 theoretical, 11 associational, 10 quant-synthesis, 9 qualitative, 5 design), `q1`–`q4` · 12 of 86 report an effect size · 77 claims rest on one study
 
 ## Conditional relationship
 
@@ -163,6 +163,7 @@ Claims this page cites that do not change the model above. Each was read against
 - [Dyads collaborating via flexible written paper media exhibit invariant communicative practices across media, participants and topics](../claims/invariant-communicative-practices-artifact-mediated-collaboration.md) [~W] — read 2026-10-19: same six-pair study; a description of communicative practice, no learning outcome.
 - [Face-to-face collaboration scripts focus on individual knowledge acquisition activities, while computer-mediated scripts focus on communicative-coordinative processes](../claims/f2f-vs-cscl-script-focus-difference.md) [~W] — attached 2026-10-22 from Kollar et al. (2006), which proposed "Design collaboration scripts that support both participation and coordination and induce individual knowledge acquisition and metacognition".
 - [Conflicts in group problem solving, if well employed, can act as triggers of cognitive changes that help refine the group's solution](../claims/well-employed-conflicts-trigger-cognitive-change.md) [+W] — attached 2026-10-28 from Patricia Azevedo Tedesco (2003), which proposed "Design collaborative environments so that conflicts inherent to group problem solving are mediated rather than suppressed, because well-employed conflicts refine solutions".
+- [Collaborative note-takers also report higher extraneous cognitive load than controls](../claims/collaborative-note-taking-higher-extraneous-load.md) [-W] — attached 2026-10-29 from Jamie Costley (2021), which proposed "Implement collaborative note-taking because germane-load gains outweigh extraneous-load costs".
 
 ## Objective and learner-valued goal
 

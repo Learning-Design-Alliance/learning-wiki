@@ -51,6 +51,7 @@ The article recommends a set of course design strategies for online educators wh
 ## Related Strategies
 
 - [Include learning analytics in the design loop of self-paced online course design, with diagnosis, learner profiling, continuous assessment, and adaptivity](learning-analytics-in-course-design-loop.md)
+- [Extend LA reports with suggested interventions and pre-course team agreements on how to act on report data](la-reports-suggest-interventions-team-agreements.md)
 
 ## Examples
 -

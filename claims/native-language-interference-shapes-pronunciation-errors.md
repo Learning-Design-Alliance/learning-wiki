@@ -49,3 +49,4 @@ Narrative review section on factors influencing pronunciation mastery. The diges
 - [Learner errors arise from interlingual transfer, intralingual overgeneralization, cultural interference, and communicative strategies](error-sources-interlingual-intralingual-cultural.md) — a broader claim this one bears on
 - [Adult learners generally find pronunciation more difficult than children and are unlikely to achieve native-like pronunciation, though experience and self-monitoring offset this somewhat](adults-find-pronunciation-harder-than-children.md) — related
 - [L1-induced errors persist in advanced learners and risk fossilization if learners rely on compensatory communication strategies](l1-interference-errors-fossilization-risk.md) — a narrower finding that bears on this claim
+- [AI-GFCA students show better pronunciation, fluency and IELTS speaking predictor scores than AI-C students, but intonation does not differ](ai-gfca-english-speaking-skills.md) — related

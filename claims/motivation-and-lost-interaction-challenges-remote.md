@@ -87,3 +87,4 @@ Thematic analysis of open-ended greatest-challenge responses found motivation, m
 - [Online apprenticeship learning offers greater flexibility than in-person learning despite implementation challenges for hybrid or remote options](online-apprenticeship-learning-flexibility-tradeoffs.md) — related
 - [The intervention increased student engagement with remote activities and motivation to return to in-person classes](nudges-increase-engagement-motivation.md) — related
 - [The COVID-19 pandemic pushed institutions globally to abruptly shift instruction digital](covid-19-abrupt-digital-shift-instruction.md) — related
+- [Lack of interpersonal engagement, interaction and collaboration, plus reduced social contact and isolation (45%), negatively impacted many students' online learning experience](lost-interaction-community-lockdown.md) — related

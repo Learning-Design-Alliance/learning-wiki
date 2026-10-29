@@ -72,3 +72,4 @@ The central statistic (d=1.96) is frequently the kind of number that gets over-r
 - [Cooperative learning gains were large for observation and interpretation but small for analysis in 4th graders](cooperative-learning-skill-specific-ct-gains.md) — related
 - [Task-level and process-level prompts in support software mediate and alter students' group argumentation discourse practice and potentially their individual argumentation style](task-process-prompts-alter-argumentation-style.md) — related
 - [Video modeling conditions show stronger co-occurrence of self-regulation with scientific reasoning processes than unguided inquiry (ENA)](ena-stronger-reasoning-selfregulation-cooccurrence-vm.md) — related
+- [A self-regulated science inquiry approach benefited elementary students' self-regulation and science learning performance](self-regulated-science-inquiry-benefits-elementary.md) — related

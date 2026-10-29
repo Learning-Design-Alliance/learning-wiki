@@ -150,3 +150,4 @@ This meta-analysis covered 39 classroom (not laboratory) studies from 1980 onwar
 - [Individualized instruction shows low effects compared to cooperative and collaborative learning](individualized-instruction-low-effects-versus-collaborative.md) — a narrower finding that bears on this claim
 - [The authors propose, without testing it here, that competitive environments may provide clear goals, structures, and rewards that foster engagement, particularly for students less familiar with such environments](competitive-environments-clear-goals-engagement-interpretation.md) — related
 - [Later research reported that students collaborated better and learned more when their collaborative work was monitored](monitoring-improves-collaboration-and-learning.md) — related
+- [Students developed communication and collaboration skills through group-based app design](students-collaboration-app-design.md) — a narrower finding that bears on this claim

@@ -47,3 +47,4 @@ The article describes its curriculum design decision to include eight AI topics 
 ## Related Claims
 - [Universities' GenAI policies widely embrace core ethical and governance principles but often overlook inclusion, equity, and sustainability issues such as internet access, gender parity in AI, and environmental impact](genai-policies-overlook-inclusion-equity-sustainability.md) — related
 - [Students identify navigating ethical and legal dimensions of GenAI as a third priority area for curriculum development](genai-ethical-legal-dimensions-priority.md) — related
+- [A needs assessment with 14 teachers yielded eight main design issues for the BE COOL! learning environment, from curriculum fit to teacher monitoring and a teacher manual](teacher-needs-assessment-eight-issues.md) — related

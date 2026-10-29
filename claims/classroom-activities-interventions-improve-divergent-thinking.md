@@ -71,3 +71,4 @@ The review cites a large-scale review identifying pedagogical features that "app
 - [Collaborative Writing Improves Text Quality](collaborative-writing-improves-text-quality.md) — related
 - [Students exposed to robot storytelling report significantly higher enjoyment than students exposed to robot explanation in a 1-week classroom study](robot-storytelling-higher-enjoyment-than-explanation.md) — related
 - [Research-led creativity training for teachers enhances children's divergent thinking and moves teachers' conceptions closer to researchers' definitions](teacher-creativity-training-enhances-children-divergent-thinking.md) — a broader claim this one bears on
+- [Cooperative storytelling tasks outperformed individual tasks across performance, autonomy, anxiety, and emotion measures](cooperative-storytelling-outperformed-individual.md) — related

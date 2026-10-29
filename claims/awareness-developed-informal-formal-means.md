@@ -49,3 +49,4 @@ Cross-case synthesis of the 12 interviews reports two routes to awareness. Infor
 - [Practitioners hold that general instructional design principles are universal but must be separated from culturally specific applications](universal-principles-separated-from-applications.md)
 - [Students respond positively to e-mail exchanges, guest speaker interviews, and video projects aimed at cross-cultural awareness](positive-student-response-cross-cultural-activities.md) — related
 - [How People Learn II updates and extends the 2000 How People Learn report by synthesizing research on learning from birth through adulthood in formal and informal settings](hpl-ii-updates-extends-hpl-2000-lifespan.md) — related
+- [Synchronous videoconferencing projects fostered intercultural awareness and perspective taking in isolated communities](videoconferencing-intercultural-perspective-taking.md) — related

@@ -50,3 +50,4 @@ Delphi expert-consultation study conducted in Aotearoa New Zealand with three su
 - [SAIL is designed to address second- and third-level digital divides through scaffolded skills and explicitly embedded equity competencies](sail-addresses-second-third-level-digital-divides.md) — a narrower finding that bears on this claim
 - [A review of 13 recent AI literacy frameworks found most lack explicit scaffolded progression and are context-bound](recent-ai-literacy-frameworks-lack-scaffolded-progression.md) — related
 - [Delphi experts reached 80% or higher consensus on all major CSM-SU components](delphi-consensus-csm-su-components.md) — related
+- [A three-round Delphi study with 29 K-12 AI teachers produced an eight-dimension, 32-item student AI competency framework at a 75% agreement level](delphi-eight-dimension-student-ai-competency-framework.md) — related

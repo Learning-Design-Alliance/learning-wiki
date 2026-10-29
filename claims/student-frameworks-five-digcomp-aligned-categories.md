@@ -51,3 +51,5 @@ Frequency analysis of element categories across 28 student/citizen digital liter
 - [Mapped against DigComp 2.2, developed-region frameworks cover communication and collaboration more widely while developing-region frameworks emphasize problem solving](regional-digcomp-coverage-developed-vs-developing.md) — related
 - [POG frameworks most frequently emphasize communication, critical thinking, collaboration, and perseverance/adaptability among their competencies](pog-competencies-communication-critical-thinking-most-frequent.md) — related
 - [OpenSciEd grade 7 units align with some data-practice frameworks but are less aligned with digital tools, large data sets, and full data cycles](open-scied-units-data-practice-gaps.md) — related
+- [Validation sessions reframed fostering students' digital literacy as empowering students for a digital society, adding ethical competences](hedicom-empowering-students-reframing.md) — related
+- [Educators prioritize a creative mindset including creative problem-solving, diversity of perspectives, and playful inquiry](makerspace-creative-mindset-competency.md) — related

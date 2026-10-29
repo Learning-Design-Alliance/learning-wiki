@@ -48,3 +48,4 @@ Qualitative theme from discussion posts and reflections in the 14-week course. P
 - [Students found AI effective for ideation and formatting but unreliable for practical experimental details](ai-effective-ideation-unreliable-practical-details.md) — related
 - [Using generative AI as a dialogic partner for brainstorming, feedback, and co-construction can support constructive and interactive learning](ai-dialogic-partner-constructive-interactive-learning.md) — a broader claim this one bears on
 - [Students used GenAI and XR in complementary roles: GenAI for ideation and visual reference generation, XR for spatial, contextual, and scale-based evaluation](genai-xr-complementary-roles-design.md) — related
+- [IDs use GenAI to brainstorm ideas and overcome creative blocks when drafting content](genai-brainstorm-ideas-creative-blocks.md) — related

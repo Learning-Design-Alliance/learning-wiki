@@ -54,6 +54,7 @@ The program offers professional development in multiple formats: "webinars, in-p
 - [Provide customized, multi-mode professional development for teachers implementing DreamBox Math](dreambox-customized-multimode-professional-development.md)
 - [Improve transmedia-curriculum professional development with classroom observation, Q&A-only webinars, and later scheduling](tec-pd-improvement-suggestions.md)
 - [Ongoing math-specialist coaching and curriculum-based professional development for implementing teachers](thinking-math-coaching-pd-strategy.md)
+- [Multi-mode, ongoing professional development for instructors implementing technology-infused courses](multi-mode-pd-for-tech-infusion-instructors.md)
 
 ## Examples
 -

@@ -75,3 +75,4 @@ p < 0.001) followed the correlational pattern of the full scale."
 - [Acceptance of individual and collective cheating form two distinct factors in students' responses](individual-collective-cheating-two-factor-distinction.md) — related
 - [CFA partially supports the six-dimension structure of perceived AI competence](cfa-partially-supports-six-dimension-structure.md) — related
 - [Only 10 of 211 SRL scale items were feasible to operationalize as learning analytics indicators in an LMS](ten-of-211-srl-items-feasible-lms-indicators.md) — related
+- [Confirmatory factor analysis with 448 secondary students showed the 32-item SAICS measurement model has good fit and high validity and reliability](saics-cfa-good-model-fit-448-students.md) — related

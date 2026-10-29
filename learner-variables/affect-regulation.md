@@ -13,7 +13,7 @@ generated:
 # Affect Regulation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 211 claims (152 show a difference, 40 mixed, 19 no difference) · 132 studies (50 associational, 27 causal, 23 review, 11 qualitative, 9 quant-synthesis, 8 theoretical, 4 design), `q1`–`q4` · 34 of 132 report an effect size · 205 claims rest on one study
+> **Evidence** · 212 claims (153 show a difference, 40 mixed, 19 no difference) · 133 studies (50 associational, 27 causal, 23 review, 12 qualitative, 9 quant-synthesis, 8 theoretical, 4 design), `q1`–`q4` · 34 of 133 report an effect size · 206 claims rest on one study
 
 ## Description
 What a learner does with frustration, anxiety and failure while the work is still in front of them. It decides whether a hard check needs a recoverable framing and how failure is surfaced. Anxiety is not only unpleasant — it consumes the same working memory the task needs, so it degrades performance through a mechanism entirely separate from motivation [-M]. Naming an emotion measurably reduces its grip, which is why the strategies here look unexpectedly linguistic.
@@ -251,6 +251,7 @@ What a learner does with frustration, anxiety and failure while the work is stil
 - [After partialling out control variables, boredom and frustration during scaffolded learning negatively correlated with fadeout performance, while confusion↔frustration transitions and boredom→engagement transition positively correlated with it](../claims/affect-learning-partial-correlations-programming.md) [~W] — learners who differ on it differ in outcomes
 - [Confusion and frustration followed incorrect solution submissions and preceded hint requests, while coding was the central activity surrounding all affective states](../claims/affect-interaction-event-transitions-programming.md) [+M] — learners who differ on it differ in outcomes
 - [The authors suggest incorporating scholarship on the challenges of active learning into courses may help students reflect on their own discomfort and resistance](../claims/explicit-engagement-with-al-challenges-scholarship-suggestion.md) [~W] — instruction changes it
+- [Loss of a study routine reduced productivity and fed a cycle of procrastination, workload pile-up, stress and escapism for many students](../claims/lost-routine-procrastination-stress-cycle.md) [+M] — instruction changes it
 
 ## The evidence by question
 

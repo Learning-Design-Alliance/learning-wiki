@@ -96,3 +96,4 @@ Sherman (1989) compared Group Investigation with individual work in two approxim
 - [In secondary-school research, cooperative learning beat frontal teaching in 68% of comparisons, with STAD most and Jigsaw least successful](secondary-cooperative-learning-newmann-thompson.md) — related
 - [The Hero Elementary playlist intervention showed no statistically significant effect on K-2 students' science knowledge (effect size 0.10, p ~ 0.38)](hero-elementary-playlists-no-significant-science-knowledge-effect.md) — related
 - [Cooperative learning reduced disparities between students' critical thinking scores, with lower performers gaining most](cooperative-learning-reduces-score-disparities.md) — related
+- [A mobile multimedia learning system improved EFL students' posttest performance, and cooperative tasks outperformed individual tasks](mmls-outperformed-conventional-efl.md) — related

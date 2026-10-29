@@ -61,3 +61,4 @@ Narrative synthesis in the concerns section of the review. The review reports ch
 - [Pessimistic Evaluators' foremost concern is misleading, inaccurate, or biased ChatGPT-generated information](pessimistic-evaluators-misleading-information-concern.md) — a narrower finding that bears on this claim
 - [Wary Thinkers share over-reliance and privacy concerns with Pessimists but acknowledge ChatGPT's time-saving benefits](wary-thinkers-overreliance-privacy-time-saving.md) — related
 - [Q methodology reveals three distinct instructional-designer perception factors toward ChatGPT integration: Pessimistic Evaluators, Optimistic Advocates, and Wary Thinkers](q-methodology-three-id-chatgpt-perception-factors.md) — related
+- [IDs expressed quality concerns over GenAI-generated content, including bias, inaccuracy, hallucinations, and lack of authenticity](genai-quality-concerns-bias-hallucination.md) — related

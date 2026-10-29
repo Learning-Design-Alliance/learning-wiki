@@ -69,3 +69,4 @@ Repeated measures ANOVA on self-efficacy in the same quasi-experiment. "the tuto
 - [All participants reported higher teaching self-efficacy after the teaching-simulation training](teaching-simulation-training-raises-self-efficacy.md) — related
 - [Procedural knowledge gained during video training declines significantly from practice to the post-tests](practice-to-posttest-decline-software-video.md) — related
 - [Training and interventions improve teachers' cognitive appraisal (d = 0.63), emotional appraisal (d = 0.63), and self-efficacy toward inclusive practices (d = 0.93)](inclusion-training-improves-teacher-beliefs.md) — related
+- [Video tutorials significantly and substantially raised self-efficacy, with no effect of condition](video-tutorials-raise-self-efficacy-no-condition-effect.md) — related

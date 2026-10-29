@@ -62,6 +62,7 @@ Designing for marginalized students surfaces barriers that universal designs mis
 - [Community-based learning](../principles/community-based-learning.md) — extends design beyond school walls to students' home and community contexts
 - [Communities of practice](../principles/communities-of-practice.md) — the vehicle for sustaining equity-centered design work among staff over time
 - [Include historically underserved voices in all stages of continuous improvement work, including designing solutions](include-historically-underserved-voices-in-ci.md)
+- [Interpersonal design practices for centering social justice: co-design, cultural competence, building understanding, and listening](interpersonal-social-justice-design-practices.md)
 
 ## Examples
 - **Yu Ying Public Charter School (Washington, D.C.)** used this principle to address achievement gaps between Black and Latinx students and their Asian and white peers. Teams conducted empathy interviews and shadowed marginalized students, then designed interventions from those findings.

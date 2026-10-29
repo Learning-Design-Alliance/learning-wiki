@@ -58,3 +58,5 @@ Focus group finding: virtually every participant stressed equity, but campuses l
 - [Reported benefits of AI integration were efficiency, personalization, and engagement, while challenges were equity, ethics, and academic integrity](ai-integration-benefits-and-challenges.md) — related
 - [Technology can play a key role in comprehensive reform, but the adaptive capacity of the institution is equally critical for success](technology-role-adaptive-capacity-reform.md) — related
 - [A self-service course-level framework lowers the infrastructure barrier to piloting learning analytics interventions](self-service-lai-infrastructure-lowers-barrier.md) — a narrower finding that bears on this claim
+- [Educators face challenges at the student level, teacher level, and institutional level](makerspace-three-level-challenges.md) — related
+- [Zimbabwean universities faced trenchant institutional needs for online teaching — untrained personnel, poor digital infrastructure and cyber security — mostly emanating from inadequate funding](zimbabwe-universities-institutional-needs-online-teaching.md) — related

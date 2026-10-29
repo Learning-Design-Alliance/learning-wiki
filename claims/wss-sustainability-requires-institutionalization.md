@@ -66,3 +66,4 @@ Authors' interpretation in the Interpretive Summary section, not a tested result
 - [Teachers doubted institutionalizing MLE in school documents, and the institutionalization criterion was removed from the final framework](institutionalization-criterion-dropped-mle.md) — related
 - [Practitioner engagement initiatives reflected buy-in rather than ownership because leadership developed ideas and decisions before seeking context-expert input](seernet-initiatives-buy-in-not-ownership.md) — related
 - [Development of collaborative classrooms and effective CSCL curriculum is a multi-year, multi-iteration process requiring sustained institutional commitment](cscl-teacher-development-multi-year-multi-iteration.md) — related
+- [Teachers perceived the co-design process as beneficial for collaboration, ownership, professional development, and material quality](teachers-positive-perception-codesign-ai-materials.md) — related

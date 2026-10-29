@@ -50,3 +50,4 @@ SSQ administered after the lab session; Table I reports nausea 3.18 (SD 4.77), o
 - [Cybersickness remains a persistent practical challenge, affecting approximately 42% of VR users, and can occur in AR where symptoms may exceed those in VR](cybersickness-prevalence-vr-ar-immersive-learning.md) — related
 - [Higher-visuospatial-ability learners experienced lower motion sickness in Desktop-VR, with a tendency for an interaction with format](vsa-motion-sickness-desktop-vr.md) — related
 - [Motion sickness after the iVR experience was negligible for most participants, but a minority felt significant discomfort](ivr-motion-sickness-negligible-minority-discomfort.md) — related
+- [No significant safety issues arose in VR-IWS use; one young participant reported minor dizziness in one session only](vr-iws-no-significant-safety-issues.md) — related

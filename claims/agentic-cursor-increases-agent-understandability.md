@@ -52,3 +52,4 @@ In qualitative findings on visual humanlikeness (§5.2.2), participants reported
 - [Participants generally felt humanlikeness should not be a design goal for a writing-support agent used as a tool](participants-prefer-tool-over-humanlike-agent.md) — related
 - [Agent perception followed a U-shape across variants: the mixed temporally-humanlike/visually-nonhumanlike Variant 2 was rated least positively on partnership and agent-perception measures](variant2-least-positive-agent-perception.md) — related
 - [Adding a second writing agent increased reported cognitive load, and writing confidence did not increase monotonically with support, with the Single condition reporting the lowest confidence](second-agent-increases-cognitive-load-writing.md) — related
+- [First-generation collaborative writing tools have disappeared but shaped contemporary collaboration platforms](collaborative-writing-tools-extended-wave.md) — related

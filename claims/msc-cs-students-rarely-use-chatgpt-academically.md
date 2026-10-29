@@ -53,3 +53,4 @@ Descriptive analysis of a 12-question multiple-choice Canvas questionnaire admin
 - [Students regard reduced critical thinking and originality as the biggest threat of ChatGPT use in academia](students-see-reduced-critical-thinking-as-biggest-chatgpt-threat.md) — related
 - [Academic use of ChatGPT correlates most strongly with its use for language-related tasks](chatgpt-academic-use-correlates-language-use.md) — related
 - [Most students favour allowing ChatGPT in assessments if tasks require original thinking or guidance is provided](students-favor-guided-chatgpt-allowed-assessments.md) — related
+- [ChatGPT was the most familiar and most frequently utilized GenAI tool among surveyed instructional designers](chatgpt-most-familiar-utilized-genai-tool-ids.md) — reports the opposite

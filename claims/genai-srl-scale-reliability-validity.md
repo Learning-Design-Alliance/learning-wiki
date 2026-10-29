@@ -61,3 +61,4 @@ Reliability and validity analysis of the 34-item scale on Sample two (N = 342). 
 - [EFA of the CONNECT instrument identifies seven transversal-skill components](seven-transversal-skill-components-efa.md) — related
 - [The DIGISOC instrument was developed through a literature review, dimension and item construction, and validity and reliability assessment](digisoc-development-process.md) — related
 - [The 23-item SETSES shows acceptable reliability and convergent validity, with partial discriminant validity (mastery experiences not distinct from vicarious information)](setses-validity-reliability-23-item.md) — related
+- [All eight SAICS dimensions showed high internal consistency (Cronbach's alpha ≥ 0.89), high factor loadings (0.76–0.96), and convergent validity (inter-dimension correlations r > 0.34)](saics-reliability-convergent-validity.md) — related

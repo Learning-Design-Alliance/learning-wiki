@@ -43,7 +43,8 @@ From trajectory data, qualitative accounts, and usability outcomes, the authors 
 - [In a randomised study with 40 CPR-naive lay adults in Tibet, 10 minutes of TibetCPR training produced rhythm-stabilisation gains that substantially exceeded unguided practice and transferred to an unscaffolded post-test](../claims/tibetcpr-rhythm-stabilisation-exceeds-unguided-practice.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Safety surveillance and usability evaluation as prerequisites for VR research with autistic learners](safety-surveillance-usability-prerequisite-vr-autism.md)
 
 ## Examples
 -

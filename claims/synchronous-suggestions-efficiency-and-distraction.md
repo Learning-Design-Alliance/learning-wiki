@@ -80,3 +80,4 @@ Interview data from the same user study showed synchronous pop-up suggestions di
 - [Usability problems — disorientation, distraction, and cognitive overload — hinder demonstrating effectiveness of self-controlled hypermedia learning](hypermedia-usability-problems-hinder-effectiveness.md) — related
 - [Macrosystem conditions such as social media and AI access shape availability to learn, with FoMO causing distractions during learning](macrosystem-fomo-distracts-learning.md) — related
 - [The commentary pattern can cause tool-tutor desynchronization when students act faster than the tutor reacts](commentary-pattern-synchronization-problem.md) — related
+- [IDs reported that GenAI increased their efficiency by reducing the time it takes to write and create](genai-reduced-writing-time-efficiency.md) — related

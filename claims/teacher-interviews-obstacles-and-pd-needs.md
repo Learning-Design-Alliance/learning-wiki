@@ -9,6 +9,7 @@ generated:
   at: 2026-10-12
 evidence_strength: weak
 newest_evidence: 2026
+source_checked: 2026-10-29
 recheck_by: 2031
 sources:
   - id: nikolai-maurer-2026
@@ -33,7 +34,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
+> **Currency** · newest study 2026 · checked against its sources 2026-10-29 (automated, 2 of 2 entries) · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` The most frequently cited obstacles were insufficient AI output quality and concerns about declining students' cognitive engagement (n = 9 each). [→ Nikolai Maurer 2026](#nikolai-maurer-2026)
@@ -74,3 +75,4 @@ Same interview study: coded responses on desired professional-development topics
 - [Students' main AI challenges are content reliability and depth, and most expect AI to serve as tutor, creative partner, and critical thinking partner rather than mere content generator](student-critical-ai-role-expectations.md) — related
 - [Students perceive LLM chatbots as useful for learning but requiring critical use, reporting hallucinations, overconfidence, and dependency risks](students-view-llms-useful-but-requiring-critical-use.md) — related
 - [Educators use AI tools mainly for personalized learning and language support and frequently use generative AI for lesson planning](educators-ai-use-personalization-lesson-planning.md) — related
+- [Teachers perceived the co-design process as beneficial for collaboration, ownership, professional development, and material quality](teachers-positive-perception-codesign-ai-materials.md) — related

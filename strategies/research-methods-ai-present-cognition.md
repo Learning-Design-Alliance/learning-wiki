@@ -44,6 +44,7 @@ The article recommends that developmental research move beyond lab tasks forbidd
 ## Related Strategies
 
 - [Study effort regulation in real-world, personally relevant contexts over longer timeframes, including via ecological momentary assessment](study-effort-regulation-real-world-contexts.md)
+- [Prioritize longer-term longitudinal studies and analysis of learners' virtual-world behaviors for SLA research](longitudinal-virtual-world-sla-research-agenda.md)
 
 ## Examples
 -

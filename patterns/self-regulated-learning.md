@@ -25,7 +25,7 @@ grain_size: unit
 # Self-Regulated Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 75 claims (26 for, 45 mixed, 4 against) · 66 studies (23 causal, 13 review, 10 associational, 9 quant-synthesis, 8 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 16 of 66 report an effect size · 68 claims rest on one study
+> **Evidence** · 79 claims (28 for, 47 mixed, 4 against) · 67 studies (24 causal, 13 review, 10 associational, 9 quant-synthesis, 8 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 17 of 67 report an effect size · 72 claims rest on one study
 
 ## Description and scope
 
@@ -141,6 +141,10 @@ This pattern is scoped to regulation attached to subject-matter tasks over a uni
 - [In-between explaining triggered more monitoring of knowledge gaps than after-study explaining (Experiment 1)](../claims/in-between-explaining-increases-monitoring-activities.md) [~W]
 - [All AI applications and tools predominantly influence the performance phase of SRL, particularly by facilitating monitoring and control](../claims/ai-tools-predominantly-influence-performance-phase.md) [~W]
 - [Metacognitive scaffolding outperforms conceptual scaffolding alone in online learning environments](../claims/metacognitive-scaffolding-outperforms-conceptual.md) [+W]
+- [Chatbot-guided feedback SRL improved university students' multimedia knowledge performance more than conventional SRL](../claims/srl-cgf-improves-multimedia-knowledge-performance.md) [+W]
+- [Chatbot-guided feedback SRL improved university students' meta-cognition tendency and self-regulated learning more than conventional SRL](../claims/srl-cgf-improves-metacognition-and-srl.md) [~W]
+- [Students in the chatbot-assisted SRL condition reported personalized learning opportunities, enhanced reflection, and improved performance in interviews](../claims/srl-cgf-student-perceptions-interviews.md) [+W]
+- [Chatbot-guided feedback SRL improved university students' learning motivation more than conventional SRL](../claims/srl-cgf-improves-learning-motivation.md) [~W]
 
 ## Key Sources
 - Zimmerman, B. J. (2002). Becoming a self-regulated learner: An overview. *Theory Into Practice, 41*(2), 64-70. [https://doi.org/10.1207/s15430421tip4102_2](https://doi.org/10.1207/s15430421tip4102_2)

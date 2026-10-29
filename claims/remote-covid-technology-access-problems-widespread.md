@@ -143,3 +143,4 @@ Structured-response survey item on hardware/software problem frequency; ten perc
 - [Infrastructure barriers — limited internet speed, connectivity problems and lack of technical support — hinder effective AI use in nursing education institutions](infrastructure-barriers-ai-use-nursing-education.md) — related
 - [Students with low internet bandwidth could complete the course when offered offline video download and batch mode alternatives](low-bandwidth-mitigation-strategies.md) — related
 - [Mobile devices served as the primary tool for learners and teachers during the emergent remote teaching process of the pandemic](mobile-devices-primary-tool-emergent-remote-teaching.md) — related
+- [STEM faculty implemented the five inquiry phases online during COVID-19 emergency remote teaching](faculty-implemented-inquiry-phases-online-covid.md) — related

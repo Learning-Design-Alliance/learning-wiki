@@ -59,3 +59,5 @@ Qualitative thematic analysis of 30-minute semi-structured interviews with 10 ra
 - [University philosophy teachers prioritize fostering students' intellectual growth over transmitting content](philosophy-teachers-prioritize-intellectual-growth-over-content.md) — related
 - [Factor 1 student teachers were confident self-reliant GenAI users who showed limited ethical awareness and reflective practices](f1-self-reliant-limited-ethical-awareness.md) — related
 - [GAI tools enriched student ideation, aesthetic development and confidence in architecture and design education, especially for lower-competency learners](gai-tools-ideation-architecture-design-lower-competency.md) — related
+- [IDs reported that GenAI increased their efficiency by reducing the time it takes to write and create](genai-reduced-writing-time-efficiency.md) — related
+- [Students in the chatbot-assisted SRL condition reported personalized learning opportunities, enhanced reflection, and improved performance in interviews](srl-cgf-student-perceptions-interviews.md) — related

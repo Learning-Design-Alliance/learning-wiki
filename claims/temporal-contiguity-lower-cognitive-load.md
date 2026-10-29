@@ -62,3 +62,4 @@ Narrative review attribution covering two studies: Chang et al. (2011) on split-
 - [Multiple representations and explanations of math concepts aid student understanding, but faculty lack time to source or develop them](multiple-representations-aid-understanding-faculty-time.md) — related
 - [Multimedia initial instruction lowers students' perceived difficulty of problems across instruction, practice, and posttest phases](multimedia-instruction-lowers-perceived-difficulty.md) — a narrower finding that bears on this claim
 - [Temporal contiguity of simultaneous visual, spoken, and signed events may be unfavorable for DHH students](dhh-temporal-contiguity-unfavorable.md) — reports the opposite
+- [Students perceived AI as helping their text comprehension in Greek language class](students-perceived-ai-text-comprehension-help.md) — related

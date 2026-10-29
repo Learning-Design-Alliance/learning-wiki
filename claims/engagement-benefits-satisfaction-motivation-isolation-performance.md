@@ -59,3 +59,4 @@ The article asserts as its framing premise that "Student engagement increases st
 - [Students experience a perceived sense of support and connectedness through conversational ChatGPT interaction, though this is not genuine human relatedness](chatgpt-perceived-relatedness-support.md) — related
 - [A sense of belonging is firmly linked with improved student attainment, increased learners' satisfaction and reduced attrition rates in campus-based learning](sob-linked-attainment-satisfaction-attrition.md) — related
 - [Forums fostered feelings of relatedness through positive peer connections and shared struggles](forums-fostered-relatedness-peer-connections.md) — a narrower finding that bears on this claim
+- [Lack of interpersonal engagement, interaction and collaboration, plus reduced social contact and isolation (45%), negatively impacted many students' online learning experience](lost-interaction-community-lockdown.md) — a narrower finding that bears on this claim

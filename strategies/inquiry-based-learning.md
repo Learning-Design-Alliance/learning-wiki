@@ -65,6 +65,7 @@ Inquiry can produce strong conceptual learning, but only when it is scaffolded �
 - [Productive Failure](productive-failure.md) — inquiry-before-instruction sequencing
 - [Direct Instruction](direct-instruction.md) — the complementary high-guidance approach; effective inquiry often interleaves with it
 - [Differentiate by guiding higher-ability students to build models that validate their analysis, and support self-directed and collaborative learning goals](osp-differentiation-and-sdl-goals.md)
+- [Investigate the cognitive needs of students in CoSIL and integrate content, CoSIL, and guidance tools to advance personalization](investigate-cognitive-needs-integrate-content-cosil-guidance.md)
 
 ## Examples
 - **[BSCS 5E Instructional Model](https://bscs.org/bscs-5e-instructional-model/)** — Engage, Explore, Explain, Elaborate, Evaluate; a widely adopted structured-inquiry sequence for science classrooms that pairs exploration with explicit explanation.

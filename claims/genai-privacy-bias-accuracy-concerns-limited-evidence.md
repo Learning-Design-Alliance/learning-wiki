@@ -77,3 +77,4 @@ The review reports that participants in Scala et al.'s experiment felt the AI "r
 - [In a scoping review of 59 privacy-focused LA articles, 74% addressed privacy without defining or conceptualizing it](74-percent-la-articles-no-privacy-definition.md) — related
 - [Data-based recording of educational processes risks narrowing education to quantifiable output indicators and raises data sovereignty and algorithmic ethics issues](datafication-risks-narrowing-educational-processes.md) — related
 - [Capacity building on AIED ethics covers 41% of studies, yet only four of 42 training studies assessed impact, and ethics training is largely absent](aied-ethics-capacity-building-gap.md) — related
+- [IDs raised data security, privacy, authorship, ownership, and plagiarism concerns, noting a lack of guidelines and policies for ethical GenAI use](genai-data-security-authorship-policy-gaps.md) — related

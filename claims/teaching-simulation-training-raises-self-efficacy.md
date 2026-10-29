@@ -59,3 +59,4 @@ In the mixed-method study of 40 university teaching assistants randomly assigned
 - [Immersive VR simulation increased self-efficacy and intrinsic motivation more than a conventional safety manual in laboratory safety training](immersive-vr-boosted-self-efficacy-intrinsic-motivation.md) — related
 - [Long video-based modelling examples did not improve diagnostic strategy knowledge, skills, self-efficacy, or cognitive load relative to independently practising in a computer simulation](modelling-examples-no-effect-complex-diagnostic-strategy.md) — related
 - [Model-based support in an AI-enhanced VR teaching simulation improved teaching knowledge and skills more than a no-treatment control](model-based-support-vr-teaching-knowledge-gains.md) — related
+- [Video tutorials significantly and substantially raised self-efficacy, with no effect of condition](video-tutorials-raise-self-efficacy-no-condition-effect.md) — related

@@ -49,3 +49,4 @@ Stage 2 interview and focus group thematic analysis of stakeholder views on Fram
 
 - [Expert review and stakeholder consultation established strong consensus on the need for and acceptability of the Framework](stakeholder-consensus-online-safety-framework.md)
 - [Existing digital citizenship and online safety frameworks were appraised as too broad and not addressing serious online risks](existing-frameworks-not-comprehensive-online-safety.md)
+- [Existing cybersecurity frameworks are inadequate for children aged 8–13 because they target workforce preparation or remain too broad across school ages](existing-frameworks-inadequate-for-ages-8-13.md) — related

@@ -23,7 +23,7 @@ sources:
 # Evidence-Based Teaching and Scientific Reasoning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 45 claims (24 for, 19 mixed, 2 against) · 44 studies (10 review, 10 theoretical, 8 causal, 7 associational, 3 quant-synthesis, 3 qualitative, 3 design), `q1`–`q4` · 0 of 44 report an effect size · 43 claims rest on one study
+> **Evidence** · 47 claims (24 for, 20 mixed, 3 against) · 45 studies (10 review, 10 theoretical, 8 causal, 7 associational, 4 qualitative, 3 quant-synthesis, 3 design), `q1`–`q4` · 0 of 45 report an effect size · 45 claims rest on one study
 
 ## Conditional relationship
 
@@ -166,6 +166,7 @@ Claims the earlier page cited, or that bear on the decision, that are used above
 - [Measurement units for changes in learners are essential to an adequate science of education, since most educational practice problems depend on the amount of some change.](../claims/measurement-units-essential-science-of-education.md) [+W] — attached 2026-10-24 from Thorndike (1910), which proposed "Decide competing teaching methods with controlled comparative trials and measurement, rather than from unaided classroom experience.".
 - [A head-to-head teaching contest between a primarily visual method and a combined method produced nearly identical averages (22.9 vs 23.0) and could not decide between the methods because of uncontrolled confounds](../claims/uncontrolled-teacher-contest-inconclusive.md) [~W] — attached 2026-10-25 from Winch (1913), which proposed "Teachers should improve instruction through controlled experiments with exact measurement, supported by educational psychologists rather than directives from superior persons".
 - [ASAP contest performance comparisons across datasets were neither effective nor balanced because each dataset had a unique underlying writing construct; performance should be analyzed per writing task](../claims/asap-comparison-not-balanced-per-task.md) [+W] — attached 2026-10-28 from Kumar et al. (2020), which proposed "AES research should report thorough and transparent performance protocols to enable fair comparison and replication".
+- [A 4-year public institution deployed personalized learning software at scale in College Algebra and used large-scale platform data for continuous improvement rather than acquisition decisions](../claims/action-lab-scale-deployment-continuous-improvement.md) [~W] — attached 2026-10-29 from Hollands et al. (2020), which proposed "Interrogate the theory of change for an educational technology tool or strategy before expending resources on high-quality implementation".
 
 ## Objective and learner-valued goal
 
@@ -198,6 +199,7 @@ Choosing on evidence, the quality of the evidence chosen on, the outcome for lea
 - [Learning-styles models (particularly VAK) continue to be believed in by most teachers and persist in teacher training despite evidence of no positive impact on educational outcomes](../claims/learning-styles-vak-persist-teacher-training.md) [+W]
 - [Behavioural data can be used to make inferences about learning, as experimental science of learning has done for decades](../claims/behavioural-data-inference-learning-established.md) [~W]
 - [Null results for Cognitive Tutors may reflect poor implementation rather than ineffectiveness, and policy-level experiments should be distinguished from effectiveness studies](../claims/null-results-may-reflect-poor-implementation.md) [~W]
+- [Higher education educational technology decision-makers rarely use externally-produced, scientifically-rigorous research, which was mentioned in less than 20% of interviews](../claims/edtech-decisions-rigorous-external-research-under-20-percent.md) [-W]
 
 ## Related Principles
 - [Educational Psychology as Both Art and Science](../theories/educational-psychology-as-art-and-science.md)

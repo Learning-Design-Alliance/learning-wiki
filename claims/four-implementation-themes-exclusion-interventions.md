@@ -52,3 +52,4 @@ Qualitative synthesis of nine UK-based process evaluations of stakeholder (teach
 - [After implementing collaboratively designed changes (emergency trolley, grab bags, orientation rules), the second in-situ simulation showed smoother, faster emergency care delivery](simlab-second-iss-improved-equipment-access.md) — related
 - [Core Teams identified communication challenges, school and district leadership turnover, and teacher burnout as barriers that influenced solution success](inclusive-innovation-implementation-barriers.md) — related
 - [Teachers' challenges in accepting OER included time to sift resources, inconsistent quality, district discouragement, and negative attitudes](oer-acceptance-challenges-themes.md) — related
+- [Educators face challenges at the student level, teacher level, and institutional level](makerspace-three-level-challenges.md) — related
